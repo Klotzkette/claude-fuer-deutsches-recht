@@ -1,6 +1,6 @@
 ---
 name: jveg-verdienstausfall-haushalt-zeit
-description: "Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG fuer Zeugen und Sachverstaendige berechnen. Normen: §§ 20 21 22 JVEG. Pruefraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsfuehrung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverstaendigenverguetung."
+description: "Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachverständige berechnen. Normen: §§ 20 21 22 JVEG. Prüfraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsführung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverständigenverguetung."
 ---
 
 # JVEG-Verdienstausfall-Haushalt-Zeit
@@ -28,16 +28,14 @@ Trenne und berechne die Ansprüche auf Verdienstausfallentschädigung, Haushaltf
 - § 19 JVEG (Zeugenfahrtkosten — abzugrenzen)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die gleichzeitige Geltendmachung von Verdienstausfall und Zeitversäumnis für denselben Zeitraum ist unzulässig; der Antragsteller muss sich für eine Anspruchsgrundlage entscheiden.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Der Nachweis eines konkreten Verdienstausfalls setzt eine substantiierte Einkommensdarlegung voraus; pauschale Stundenlohnangaben ohne Beleg genügen nicht.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Selbständige können nur dann höhere Stundensätze nach § 21 JVEG geltend machen, wenn sie durch Steuerbescheid oder Buchführung belegt sind.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. LG München I, Beschl. v. 15.04.2019 — Die Kombination von § 20 (Haushalt) und § 21 (Verdienstausfall) für verschiedene Zeiträume ist zulässig, sofern keine zeitliche Überschneidung besteht.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 20–22 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 20–22 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 21 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Zeuge oder Zeugensachwalter meldet sich wegen Verdienstausfall, Haushaltführungsschaden oder Zeitversäumnis.
 

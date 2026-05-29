@@ -60,7 +60,7 @@
 Laut Selbstauskunft vom 16.04.2026:
 - Gesellschafterstruktur: 100 % der Anteile werden von der **Blue Harbor Holdings Ltd.**, Nikosia, Zypern, gehalten.
 - Blue Harbor Holdings Ltd. hält die Anteile nach eigener Auskunft als direkter Gesellschafter.
-- Natürliche Person hinter Blue Harbor Holdings Ltd.: Keine Angabe; als Begründung wurde auf eine „Treuhandkonstruktion" verwiesen.
+- Natürliche Person hinter Blue Harbor Holdings Ltd.: Keine Angabe; als Begründung wurde auf eine "Treuhandkonstruktion" verwiesen.
 
 ### 3.2 Eigene Prüfung durch Compliance
 
@@ -92,7 +92,7 @@ Laut Selbstauskunft vom 16.04.2026:
 | Feld | Inhalt |
 |---|---|
 | **Screening-Tool** | World-Check (LSEG), abgefragt am 22.04.2026 |
-| **Treffer Name** | „Andrei Moldovan", DOB 12.04.1969, ehem. stellv. Wirtschaftsminister Rumänien |
+| **Treffer Name** | "Andrei Moldovan", DOB 12.04.1969, ehem. stellv. Wirtschaftsminister Rumänien |
 | **Übereinstimmung** | Name identisch; Geburtsdatum abweichend (2 Jahre); Foto-Vergleich: nicht eindeutig |
 | **Bewertung** | Möglicher False Positive, aber nicht abschließend ausgeschlossen |
 | **Vier-Augen-Prüfung** | Eckhardt + Brenner; Entscheidung ausstehend (Stand 19.05.2026: Verdachtsmeldung eingeleitet) |
@@ -104,7 +104,7 @@ Laut Selbstauskunft vom 16.04.2026:
 
 | Liste | Treffer | Ergebnis |
 |---|---|---|
-| EU-Sanktionsliste (EUR-Lex) | Blue Harbor Holdings Ltd. — Namensähnlichkeit zu „Blue Harbour Shipping" (gelistet für Iransanktionen) | Möglicher False Positive; gelistete Einheit ist Schifffahrtsunternehmen, Sitzland Panama; Namensähnlichkeit hoch, aber kein identischer Match |
+| EU-Sanktionsliste (EUR-Lex) | Blue Harbor Holdings Ltd. — Namensähnlichkeit zu "Blue Harbour Shipping" (gelistet für Iransanktionen) | Möglicher False Positive; gelistete Einheit ist Schifffahrtsunternehmen, Sitzland Panama; Namensähnlichkeit hoch, aber kein identischer Match |
 | OFAC SDN List | Kein direkter Treffer | Negativ |
 | UN-Sanktionsliste | Kein Treffer | Negativ |
 | Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) | Kein Treffer | Negativ |
@@ -131,7 +131,7 @@ Laut Selbstauskunft vom 16.04.2026:
 | **Eingang** | 28.04.2026, 14:37 Uhr MESZ |
 | **Betrag** | 187.500 EUR |
 | **Auftraggeber** | Adriatic Commerce Ltd., Valletta, Malta, IBAN MT84 MALT 0110 0001 2345 MTLB 010 |
-| **Verwendungszweck** | „Advance Payment – Contract MH-DTS-2026-04" |
+| **Verwendungszweck** | "Advance Payment – Contract MH-DTS-2026-04" |
 | **Vertraglich vorgesehen?** | Nein; kein Hinweis auf Drittzahlungskonstruktion im Vertragsentwurf |
 | **Maßnahme** | Transaktionsstopp; Betrag auf Sperrkonto; Alert erzeugt |
 

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-automation-monitoring
-description: "Automationen und Monitoring: Entwirft Monitore fuer Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines, Registerupdates, MAR-Signale und PMI-Aufgaben im Corporate/M&A-Kontext. Normen: MAR Art. 17, § 41 GWB (Vollzugsverbot), § 56 AWV."
+description: "Automationen und Monitoring: Entwirft Monitore für Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines, Registerupdates, MAR-Signale und PMI-Aufgaben im Corporate/M&A-Kontext. Normen: MAR Art. 17, § 41 GWB (Vollzugsverbot), § 56 AWV."
 ---
 
 # Automationen und Monitoring
@@ -23,13 +23,11 @@ description: "Automationen und Monitoring: Entwirft Monitore fuer Datenraum-Neuz
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 13.10.2021 - 4 U 162/20, NZG 2022, 213 — Kaeufer hat aktive Foerderpflicht bei CP-Erfullung; passives Monitoring reicht nicht; Eskalationspflicht wenn Frist naht
-- BGH, Urt. v. 21.06.2019 - V ZR 244/17, NJW 2019, 2988 — Pflicht zur Bedingungsfoerderung; Unterlassen kann Schadensersatz ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9 — PMO und Fristenmanagement
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Monitoring-Typen und Konfiguration
 
 | Monitor | Datenquelle | Frequenz | Eskalationsschwelle | Owner |
@@ -76,5 +74,5 @@ Stand: [DATUM]
 ## Quellen
 
 - Art. 17, 18 MAR; § 41 GWB; § 56 AWV; Art. 5, 25 DSGVO
-- OLG Frankfurt 4 U 162/20 (Foerderpflicht CPs); BGH V ZR 244/17 (Bedingungsfoerderung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9

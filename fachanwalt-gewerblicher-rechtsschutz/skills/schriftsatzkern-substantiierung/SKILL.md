@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Pruefraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht fuer aussergerichtliche Abmahnungen."
+description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht für außergerichtliche Abmahnungen."
 ---
 
 # Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht
@@ -71,19 +71,11 @@ DesignG:
 
 ## Zentrale Rechtsprechung fuer Substantiierung
 
-- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 35 – Goldbaerenbarren: Schadensersatz bei Markenverletzung kann nach Lizenzanalogie, Verletzergewinn oder konkretem Schaden berechnet werden; Klaeger muss eine Berechnungsmethode waehlen und konkreten Sachvortrag leisten.
-- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 42 – Wagenfeld-Leuchte: Für Unterlassungsanspruch nach § 97 Abs. 1 UrhG ist Wiederholungsgefahr zu vermuten wenn Verletzung feststeht; Unterlassungserklaerung muss hinreichend konkret formuliert sein, um Wiederholungsgefahr zu beseitigen.
-- BGH, Urt. v. 22.03.2018 – I ZR 137/16, GRUR 2018, 1161 Rn. 21 – Industriell gefertigte Moebelteile: Fuer DesignG-Verletzung ist zu pruefen ob Design Neuheit und Eigenart besitzt; Schriftsatz muss Stand des Designs zum Anmeldezeitpunkt konkret darlegen.
-- BGH, Urt. v. 28.03.2019 – I ZR 122/17, GRUR 2019, 1005 Rn. 29 – Bettina Zimmermann: Schadensersatz wegen Verletzung des Rechts am eigenen Bild nach §§ 22, 23 KUG i.V.m. § 97 Abs. 2 UrhG; Lizenzanalogie nach ueblicherweise gezahlter Lizenzvergutung.
-- OLG Muenchen, Urt. v. 05.03.2020 – 6 U 5709/19, GRUR-RS 2020, 9183 Rn. 18: Bei einstweiliger Verfuegung im Markenrecht muss Glaubhaftmachung durch eidesstattliche Versicherung erfolgen; Urkunden allein genuegen in der Regel nicht fuer Dringlichkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8, 9, 13 UWG
-- Ingerl/Rohnke, Markengesetz (Beck) — §§ 14, 18, 19 MarkenG
-- Stroeble/Hacker/Thiering, MarkenG (Heymanns) — Verletzungsansprueche
-- Benkard, Patentgesetz (Beck) — §§ 139, 140a PatG
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.

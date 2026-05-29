@@ -1,6 +1,6 @@
 ---
 name: vorsatzanfechtung-133-inso
-description: "Insolvenzverwalter will Zahlungen nach § 133 InsO anfechten oder Glaeubiger muss Vorsatzanfechtung abwehren. Pruefraster vorsaetzliche Glaeubiger-Benachteiligung Kenntnis Glaeubiger des Benachteiligungsvorsatzes. BGH-Linie nach Reform 2017 IX ZR 250/15 IX ZR 65/14 IX ZR 233/19 Anfechtungsfrist zehn Jahre bis 2017 vier Jahre. Indizien-Beweis drohende Zahlungsunfaehigkeit deklarierter Sanierungs-Bezug. Bargeschaefts-Privileg § 142 InsO unmittelbarer Leistungs-Austausch innerhalb 30 Tage gleichwertige Gegenleistung. Verteidigungslinien Sanierungs-Bemuehung Treuhand Sicherheits-Konstellation Beweislast Insolvenzverwalter. Output Anfechtungs-Pruef-Memo mit Betrag und Verteidigungsstrategie. Abgrenzung: anfechtungsrechte-pruefen fuer Uebersicht aller Anfechtungstatbestaende."
+description: "Workflow-Skill zu vorsatzanfechtung 133 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Vorsatzanfechtung § 133 InsO
@@ -65,7 +65,7 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 - **Wenigstens billigende Inkaufnahme** dolus eventualis
 - **Nicht erforderlich:** Schädigungs-Absicht direkt
 
-### Indizien BGH IX ZR 250/15 (6.5.2021)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Zahlungs-Unfähigkeit** zum Handlungs-Zeitpunkt
 - **Drohende Zahlungs-Unfähigkeit** mit Bewusstsein
@@ -74,7 +74,7 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 
 ### Reform 2017 Modifikation
 
-- **BGH IX ZR 233/19** zur Kenntnis-Vermutung Reform
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kenntnis der drohenden Zahlungs-Unfähigkeit allein nicht ausreichend für Vorsatz-Vermutung bei kongruenter Leistung
 
 ## Schritt 3 — Kenntnis Vertragspartner
@@ -92,7 +92,7 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 - **Bei Banken** Konto-Über-ziehungs-Vermerke
 - **Bei Lieferanten** Vorkasse-Anforderung
 
-### BGH IX ZR 65/14 zur Kenntnis-Vermutung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Bei drohender Zahlungs-Unfähigkeit
 - Kenntnis Gläubiger spricht für Mit-Wirkung
@@ -111,7 +111,7 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 - **Anfechtungs-Schutz** auch bei § 133 InsO
 - **Ausnahme:** Bei Kenntnis der Insolvenz-Reife mit Bewusstsein der Gläubiger-Benachteiligung — keine Bargeschäft
 
-### BGH IX ZR 250/15 zur Bargeschäft-Auslegung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Eng zu verstehen
 - Bei sichtbarer Insolvenz-Reife Privileg eingeschränkt
@@ -129,7 +129,7 @@ Schuldner zahlt sofort bei Lieferung.
 
 ## Schritt 5 — Sanierungs-Bemühungen als Verteidigung
 
-### BGH IX ZR 247/06 IX ZR 250/15
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Sanierungs-Konzept** mit Aussicht auf Erfolg schließt Vorsatz aus
 - **Mindeststandard IDW S 6**
@@ -154,7 +154,7 @@ Schuldner zahlt sofort bei Lieferung.
 ### Treuhand-Sicherheit
 
 - Bei treuhänderischer Sicherheits-Konstellation
-- BGH IX ZR-Linie zu Treuhand-Sicherheiten
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anfechtungs-festigkeit bei wirksamer Treuhand
 
 ### Sicherheits-Treuhand
@@ -176,7 +176,7 @@ Schuldner zahlt sofort bei Lieferung.
 
 - Bei drohender Insolvenz Schuldner zahlt Bank-Kredit
 - Inkongruent: vor Fälligkeit
-- BGH IX ZR-Anfechtungs-Risiko hoch
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verteidigung:** Bei Fälligkeit Bargeschäft
 
 ### Konstellation C — Berater erhält Honorar
@@ -194,7 +194,7 @@ Schuldner zahlt sofort bei Lieferung.
 ### Konstellation E — Sanierungs-Beratung wird honoriert
 
 - Honorar für Sanierungs-Versuch
-- BGH IX ZR-Beratung Schutz
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verteidigung:** Beratungs-Erfolg-Aussicht IDW S 6
 
 ## Schritt 8 — Inkongruenz und Kongruenz
@@ -348,14 +348,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Quellen
 
 - InsO §§ 129 130 131 132 133 138 142 143 146
-- BGH IX ZR 250/15 (6.5.2021)
-- BGH IX ZR 65/14
-- BGH IX ZR 247/06
-- BGH IX ZR 233/19
-- BGH IX ZR-Linie zu Sanierungs-Bemühungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6
-- Uhlenbruck/Hirte InsO
-- MüKo InsO
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 
 ## Output-Template Anfechtungsschreiben § 133 InsO
@@ -409,7 +406,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 
 
-## Kommentarliteratur (Ergaenzung)
+## Quellenregel
 
-- Jaeger/Henckel § 133 InsO Rn. 1 ff. — Vorsatzanfechtung Detailkommentierung.
-- MüKo InsO/Kirchhof § 133 InsO Rn. 1 ff. — Reform SanInsFoG und neue Anforderungen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

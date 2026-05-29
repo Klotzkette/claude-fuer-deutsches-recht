@@ -9,7 +9,7 @@
 
 ## Einleitung
 
-„False Friends" (faux amis) sind Begriffe, die in zwei Sprachen ähnlich klingen oder geschrieben werden, aber unterschiedliche – teils gegensätzliche – rechtliche Bedeutung haben. Im internationalen Vertragsrecht Deutsch/Englisch führen sie zu erheblichen Missverständnissen und im Streitfall zu unterschiedlicher Auslegung durch Gerichte verschiedener Rechtsordnungen. Die nachfolgende Liste enthält die 25 wichtigsten false friends aus der laufenden Verhandlung sowie aus dem Schiedsrechts- und Gesellschaftsrechtkontext.
+"False Friends" (faux amis) sind Begriffe, die in zwei Sprachen ähnlich klingen oder geschrieben werden, aber unterschiedliche – teils gegensätzliche – rechtliche Bedeutung haben. Im internationalen Vertragsrecht Deutsch/Englisch führen sie zu erheblichen Missverständnissen und im Streitfall zu unterschiedlicher Auslegung durch Gerichte verschiedener Rechtsordnungen. Die nachfolgende Liste enthält die 25 wichtigsten false friends aus der laufenden Verhandlung sowie aus dem Schiedsrechts- und Gesellschaftsrechtkontext.
 
 ---
 
@@ -18,7 +18,7 @@
 **Englischer Begriff:** *Indemnity*  
 **Naheliegende deutsche Übersetzung:** Schadensersatz  
 **Tatsächliche Bedeutung:** Eine Indemnity ist eine **primäre, eigenständige** Einstandspflicht für Schäden und Aufwendungen eines anderen – unabhängig davon, ob die indemnifying party selbst schuldhaft gehandelt hat. Sie entspricht im deutschen Recht am ehesten einem **Schuldbeitritt (§ 414 BGB)** oder einer **Freistellungspflicht (§ 257 BGB)**, nicht jedoch dem Schadensersatzanspruch aus §§ 280 ff. BGB, der Verschulden voraussetzt.  
-**Beispiel aus dem Vertragsentwurf:** *„Buyer shall indemnify Supplier against all losses arising from Buyer's misuse of the Deliverables."* – Hier haftet der Käufer verschuldensunabhängig für alle Schäden aus Fehlgebrauch, was im deutschen Recht nur durch individuelle Vereinbarung (nicht AGB) möglich ist.
+**Beispiel aus dem Vertragsentwurf:** *"Buyer shall indemnify Supplier against all losses arising from Buyer's misuse of the Deliverables."* – Hier haftet der Käufer verschuldensunabhängig für alle Schäden aus Fehlgebrauch, was im deutschen Recht nur durch individuelle Vereinbarung (nicht AGB) möglich ist.
 
 ---
 
@@ -26,8 +26,8 @@
 
 **Englischer Begriff:** *Guarantee*  
 **Naheliegende deutsche Übersetzung:** Garantie  
-**Tatsächliche Bedeutung:** Im englischen Recht ist eine *Guarantee* **akzessorisch**: Sie erlischt, wenn die gesicherte Hauptschuld erlischt. Dagegen meint der deutsche Begriff „Garantie" oft eine **selbstständige, verschuldensunabhängige Einstandspflicht** (ähnlich der amerikanischen Indemnity). Eine *First Demand Guarantee* ist dagegen autonom und nicht akzessorisch.  
-**Beispiel:** *„Parent Company guarantees the payment obligations of Buyer."* – Im englischen Recht bedeutet das: Die Bürgschaft erlischt, wenn die Kaufpreisforderung verjährt. Im deutschen Verständnis hätte man ggf. eine weitergehende Einstandspflicht erwartet.
+**Tatsächliche Bedeutung:** Im englischen Recht ist eine *Guarantee* **akzessorisch**: Sie erlischt, wenn die gesicherte Hauptschuld erlischt. Dagegen meint der deutsche Begriff "Garantie" oft eine **selbstständige, verschuldensunabhängige Einstandspflicht** (ähnlich der amerikanischen Indemnity). Eine *First Demand Guarantee* ist dagegen autonom und nicht akzessorisch.  
+**Beispiel:** *"Parent Company guarantees the payment obligations of Buyer."* – Im englischen Recht bedeutet das: Die Bürgschaft erlischt, wenn die Kaufpreisforderung verjährt. Im deutschen Verständnis hätte man ggf. eine weitergehende Einstandspflicht erwartet.
 
 ---
 
@@ -36,7 +36,7 @@
 **Englischer Begriff:** *Warranty*  
 **Naheliegende deutsche Übersetzung:** Gewährleistung  
 **Tatsächliche Bedeutung:** *Warranty* ist im US-amerikanischen und englischen Recht ein vertragliches **Qualitätsversprechen** (Zusicherung), dessen Verletzung primär zu Schadensersatz führt. Der Begriff umfasst sowohl *express warranties* (ausdrückliche Zusicherungen) als auch *implied warranties* (stillschweigend mitgedachte Beschaffenheitsgarantien nach UCC Art. 2). Die deutsche Gewährleistung (§§ 434 ff. BGB) ist dagegen ein gesetzliches Mängelrecht mit definierten Rechtsbehelfen (Nacherfüllung, Minderung, Rücktritt).  
-**Beispiel:** *„Supplier hereby disclaims all implied warranties of merchantability and fitness for a particular purpose."* – Diese Klausel wäre als AGB in Deutschland nach § 307 Abs. 2 Nr. 1 BGB unwirksam.
+**Beispiel:** *"Supplier hereby disclaims all implied warranties of merchantability and fitness for a particular purpose."* – Diese Klausel wäre als AGB in Deutschland nach § 307 Abs. 2 Nr. 1 BGB unwirksam.
 
 ---
 
@@ -45,7 +45,7 @@
 **Englischer Begriff:** *Consequential damages*  
 **Naheliegende deutsche Übersetzung:** Folgeschäden / mittelbare Schäden  
 **Tatsächliche Bedeutung:** Im US-Recht (UCC § 2-715) sind *consequential damages* Schäden, die nicht unmittelbar aus der Vertragsverletzung folgen, sondern aus den besonderen Umständen des Einzelfalls. In England gilt der *Hadley v Baxendale*-Test. Im deutschen Recht ist entgangener Gewinn (§ 252 BGB) ein **direkter Schaden**, kein Folgeschaden. Ein vollständiger Ausschluss als AGB ist nach § 309 Nr. 7 BGB unwirksam.  
-**Beispiel:** *„Neither party shall be liable for any consequential, indirect or incidental damages."* – Im deutschen Recht würde diese Klausel den Ausschluss von entgangenem Gewinn umfassen, was unzulässig ist.
+**Beispiel:** *"Neither party shall be liable for any consequential, indirect or incidental damages."* – Im deutschen Recht würde diese Klausel den Ausschluss von entgangenem Gewinn umfassen, was unzulässig ist.
 
 ---
 
@@ -53,7 +53,7 @@
 
 **Englischer Begriff:** *Consideration*  
 **Naheliegende deutsche Übersetzung:** Gegenleistung / Entgelt  
-**Tatsächliche Bedeutung:** *Consideration* ist im Common Law eine zwingende Wirksamkeitsvoraussetzung für Verträge: Ohne Consideration ist kein Vertrag bindend. Im deutschen Recht ist dies kein eigenständiges Erfordernis; Verträge sind allein durch Einigung auf alle wesentlichen Punkte wirksam. Die Formel *„for good and valuable consideration, receipt whereof is hereby acknowledged"* ist nach deutschem Recht funktionslos.  
+**Tatsächliche Bedeutung:** *Consideration* ist im Common Law eine zwingende Wirksamkeitsvoraussetzung für Verträge: Ohne Consideration ist kein Vertrag bindend. Im deutschen Recht ist dies kein eigenständiges Erfordernis; Verträge sind allein durch Einigung auf alle wesentlichen Punkte wirksam. Die Formel *"for good and valuable consideration, receipt whereof is hereby acknowledged"* ist nach deutschem Recht funktionslos.  
 **Beispiel:** Setzt man diese Formel in einen deutschen Vertrag, hat sie keinerlei rechtliche Wirkung – kann aber im Auslegungsstreit Verwirrung stiften.
 
 ---
@@ -63,7 +63,7 @@
 **Englischer Begriff:** *Penalty (clause)*  
 **Naheliegende deutsche Übersetzung:** Strafe / Vertragsstrafe  
 **Tatsächliche Bedeutung:** Im englischen Recht (bis 2015: *Dunlop Pneumatic Tyre Co v New Garage*; heute: *Cavendish Square*-Test) war eine *penalty clause* traditionell **nichtig**. Nur *liquidated damages* (vorab quantifizierter Schadensersatz) waren wirksam. Nach deutschem Recht ist die Vertragsstrafe (§ 339 BGB) ausdrücklich zulässig und kann nur nach § 343 BGB auf Antrag herabgesetzt werden.  
-**Beispiel:** *„In case of delay, Supplier shall pay a penalty of 0.1% per day."* – In einem englisch-rechtlichen Vertrag müsste es heißen: *„liquidated damages of 0.1% per day"*, um Unwirksamkeitsrisiken zu vermeiden.
+**Beispiel:** *"In case of delay, Supplier shall pay a penalty of 0.1% per day."* – In einem englisch-rechtlichen Vertrag müsste es heißen: *"liquidated damages of 0.1% per day"*, um Unwirksamkeitsrisiken zu vermeiden.
 
 ---
 
@@ -72,7 +72,7 @@
 **Englischer Begriff:** *Rescission*  
 **Naheliegende deutsche Übersetzung:** Rücktritt  
 **Tatsächliche Bedeutung:** *Rescission* im englischen Recht meint die **rückwirkende Auflösung** des Vertrags, als ob er nie geschlossen worden wäre (z.B. wegen Arglist oder Irrtums). *Termination* meint die **zukunftswirkende Auflösung** bei Vertragsverletzung. Der deutsche Rücktritt (§§ 323 ff. BGB) wirkt hingegen ex nunc mit Rückgewähransprüchen (§§ 346 ff. BGB) und entspricht je nach Kontext eher *termination*.  
-**Beispiel:** Den Satz *„RheinMain Sensors may rescind the Agreement in case of material breach"* sollte man im Vertrag durch *„terminate"* ersetzen, um Unklarheiten zu vermeiden.
+**Beispiel:** Den Satz *"RheinMain Sensors may rescind the Agreement in case of material breach"* sollte man im Vertrag durch *"terminate"* ersetzen, um Unklarheiten zu vermeiden.
 
 ---
 
@@ -81,7 +81,7 @@
 **Englischer Begriff:** *Material breach*  
 **Naheliegende deutsche Übersetzung:** Wesentliche Pflichtverletzung  
 **Tatsächliche Bedeutung:** Im deutschen Recht richtet sich das Rücktrittsrecht nach § 323 Abs. 5 BGB danach, ob die Pflichtverletzung **unerheblich** ist (dann kein Rücktritt). *Material breach* im Common Law bezeichnet einen Verstoß, der den anderen Teil des wesentlichen vertraglichen Nutzens beraubt (*goes to the root of the contract*). Die Schwelle ist ähnlich, aber nicht identisch.  
-**Beispiel:** Ein einmaliger Lieferverzug von drei Tagen ist nach § 323 Abs. 5 BGB „unerheblich" und berechtigt nicht zum Rücktritt. Im US-Recht könnte dieselbe Situation als *material breach* qualifiziert werden, wenn time was of the essence.
+**Beispiel:** Ein einmaliger Lieferverzug von drei Tagen ist nach § 323 Abs. 5 BGB "unerheblich" und berechtigt nicht zum Rücktritt. Im US-Recht könnte dieselbe Situation als *material breach* qualifiziert werden, wenn time was of the essence.
 
 ---
 
@@ -90,7 +90,7 @@
 **Englischer Begriff:** *Representations*  
 **Naheliegende deutsche Übersetzung:** Zusicherungen / Erklärungen  
 **Tatsächliche Bedeutung:** *Representations* sind vorvertragliche Erklärungen, die einen Anspruch auf *rescission* und/oder Schadensersatz aus *misrepresentation* (Misrepresentation Act 1967) begründen können. Im deutschen Recht sind vorvertragliche Erklärungen über die culpa in contrahendo (§ 311 Abs. 2 BGB) oder die Beschaffenheitsvereinbarung (§ 434 Abs. 1 BGB) geschützt.  
-**Beispiel:** Eine *misrepresentation*-Klage ist schnell erhoben; eine „Zusicherung" im deutschen Sinne liegt dagegen erst vor, wenn die Parteien sie ausdrücklich als Garantie vereinbart haben.
+**Beispiel:** Eine *misrepresentation*-Klage ist schnell erhoben; eine "Zusicherung" im deutschen Sinne liegt dagegen erst vor, wenn die Parteien sie ausdrücklich als Garantie vereinbart haben.
 
 ---
 
@@ -99,7 +99,7 @@
 **Englischer Begriff:** *Assignment*  
 **Naheliegende deutsche Übersetzung:** Abtretung  
 **Tatsächliche Bedeutung:** Im Common Law kann die *benefit* (Forderungsseite) eines Vertrags ohne Zustimmung abgetreten werden; die *burden* (Verpflichtungsseite) nicht. Im deutschen Recht unterscheidet man scharf zwischen der **Forderungsabtretung** (§ 398 BGB, keine Zustimmung des Schuldners nötig) und der **Vertragsübernahme** (§ 415 BGB, Zustimmung aller erforderlich).  
-**Beispiel:** *„Buyer may assign this Agreement to an affiliate."* – Im deutschen Recht würde dies als Vertragsübernahme gewertet, die der Zustimmung der Mandantin bedarf.
+**Beispiel:** *"Buyer may assign this Agreement to an affiliate."* – Im deutschen Recht würde dies als Vertragsübernahme gewertet, die der Zustimmung der Mandantin bedarf.
 
 ---
 
@@ -108,7 +108,7 @@
 **Englischer Begriff:** *Waiver*  
 **Naheliegende deutsche Übersetzung:** Verzicht  
 **Tatsächliche Bedeutung:** Im Common Law ist *waiver* eine einseitige Aufgabe eines Rechts, die formfrei und durch schlüssiges Verhalten (*conduct*) möglich ist. *Non-waiver clauses* werden in Verträgen aufgenommen, um versehentliche Waivers zu verhindern. Im deutschen Recht ist ein Verzicht auf Ansprüche (z.B. § 397 BGB: Erlass) ebenfalls grundsätzlich formfrei, muss aber klar erklärt werden.  
-**Beispiel:** *„Failure to enforce any provision shall not constitute a waiver."* – Diese Klausel ist im deutschen Recht nicht zwingend erforderlich, da Schweigen grundsätzlich kein Verzicht ist, wird aber zur Klarheit empfohlen.
+**Beispiel:** *"Failure to enforce any provision shall not constitute a waiver."* – Diese Klausel ist im deutschen Recht nicht zwingend erforderlich, da Schweigen grundsätzlich kein Verzicht ist, wird aber zur Klarheit empfohlen.
 
 ---
 
@@ -179,8 +179,8 @@
 
 **Englischer Begriff:** *Novation*  
 **Naheliegende deutsche Übersetzung:** Schuldersetzung  
-**Tatsächliche Bedeutung:** *Novation* ersetzt einen alten Vertrag durch einen neuen, wobei alle alten Pflichten erlöschen. Sie erfordert Zustimmung aller Parteien. Im deutschen Recht entspricht dies am ehesten der **befreienden Schuldübernahme** (§ 414 BGB) oder einer vollständigen Vertragsübernahme (§ 415 BGB). Der Begriff „Novation" hat im deutschen Recht keine eigenständige Bedeutung.  
-**Beispiel:** Bei einer Konzernumstrukturierung der Gegenseite sollte nicht von „Novation" gesprochen werden, sondern konkret eine Vertragsübernahme nach § 415 BGB mit schriftlicher Zustimmung der Mandantin vereinbart werden.
+**Tatsächliche Bedeutung:** *Novation* ersetzt einen alten Vertrag durch einen neuen, wobei alle alten Pflichten erlöschen. Sie erfordert Zustimmung aller Parteien. Im deutschen Recht entspricht dies am ehesten der **befreienden Schuldübernahme** (§ 414 BGB) oder einer vollständigen Vertragsübernahme (§ 415 BGB). Der Begriff "Novation" hat im deutschen Recht keine eigenständige Bedeutung.  
+**Beispiel:** Bei einer Konzernumstrukturierung der Gegenseite sollte nicht von "Novation" gesprochen werden, sondern konkret eine Vertragsübernahme nach § 415 BGB mit schriftlicher Zustimmung der Mandantin vereinbart werden.
 
 ---
 
@@ -189,7 +189,7 @@
 **Englischer Begriff:** *Set-off*  
 **Naheliegende deutsche Übersetzung:** Aufrechnung  
 **Tatsächliche Bedeutung:** *Set-off* im englischen Recht hat unterschiedliche Ausprägungen (*legal set-off*, *equitable set-off*, *transaction set-off*), die verschiedene Voraussetzungen haben. Im deutschen Recht ist die Aufrechnung (§§ 387 ff. BGB) möglich, wenn Gegenseitigkeit, Gleichartigkeit und Fälligkeit vorliegen. Der vollständige Ausschluss der Aufrechnung in AGB ist nach § 309 Nr. 3 BGB unwirksam (außer bei unbestrittenen oder rechtskräftig festgestellten Forderungen).  
-**Beispiel:** Eine Klausel *„Buyer shall have no right of set-off"* würde nach deutschem Recht in AGB einer Inhaltskontrolle nicht standhalten.
+**Beispiel:** Eine Klausel *"Buyer shall have no right of set-off"* würde nach deutschem Recht in AGB einer Inhaltskontrolle nicht standhalten.
 
 ---
 
@@ -198,7 +198,7 @@
 **Englischer Begriff:** *Title (to goods)*  
 **Naheliegende deutsche Übersetzung:** Eigentum  
 **Tatsächliche Bedeutung:** *Title* im Sale of Goods-Kontext meint das Eigentumsrecht an Waren. Im deutschen Recht ist das Eigentumsrecht (*Eigentum*, § 903 BGB) streng von der schuldrechtlichen Position getrennt. Ein Eigentumsvorbehalt (§ 449 BGB) heißt auf Englisch *retention of title* oder *Romalpa clause*.  
-**Beispiel:** Die Klausel *„Title shall pass upon full payment"* entspricht dem deutschen Eigentumsvorbehalt nach § 449 BGB – sollte aber im Vertrag als solcher bezeichnet werden, um Missverständnisse zu vermeiden.
+**Beispiel:** Die Klausel *"Title shall pass upon full payment"* entspricht dem deutschen Eigentumsvorbehalt nach § 449 BGB – sollte aber im Vertrag als solcher bezeichnet werden, um Missverständnisse zu vermeiden.
 
 ---
 
@@ -245,7 +245,7 @@
 | Indemnity | Nicht = Schadensersatz (Verschulden fehlt) | Freistellung / Schuldbeitritt |
 | Guarantee | Nicht = DE-Garantie (akzessorisch!) | Bürgschaft / Akzessorische Einstandspflicht |
 | Warranty | Nicht = Sachmängelhaftung BGB | Vertragliches Qualitätsversprechen |
-| Consequential damages | Enger als „Folgeschäden" DE | Mittelbare/indirekte Schäden |
+| Consequential damages | Enger als "Folgeschäden" DE | Mittelbare/indirekte Schäden |
 | Consideration | In DE irrelevant als Voraussetzung | Gegenleistung / (keine Entsprechung) |
 | Penalty clause | In EN oft nichtig | Vertragsstrafe (§ 339 BGB, gültig) |
 | Rescission | Rückwirkend, nicht = Rücktritt | Anfechtung (ähnlicher) |

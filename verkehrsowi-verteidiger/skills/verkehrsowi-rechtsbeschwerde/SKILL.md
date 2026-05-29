@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rechtsbeschwerde
-description: "Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse ueber 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begruendungspflicht), Frist 1 Woche ab Urteil. Pruefraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bussgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht."
+description: "Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht."
 ---
 
 # Rechtsbeschwerde im OWi-Verfahren — § 79 OWiG
@@ -24,18 +24,11 @@ description: "Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 30.10.1997 - 4 StR 24/97, BGHSt 43, 277 — Standardisiertes Messverfahren befreit von Detailbegruendung; Rechtsbeschwerde nur erfolgreich wenn konkrete Verletzung der Aufklaerungspflicht (§ 77 OWiG).
-- OLG Saarbruecken, Beschl. v. 18.10.2021 - Ss BS 49/21 OWi, NZV 2022, 84 — Verwerfung Sachverstaendigenantrag ohne Begruendung = Rechtsbeschwerde erfolgreich; Verletzung § 77 OWiG.
-- OLG Bamberg, Beschl. v. 08.05.2017 - 3 Ss OWi 626/17, NZV 2017, 494 — Verfahrensruege gegen Ablehnung Sachverstaendigenantrag bei konkreten Messfehler-Angriffspunkten begruendet; Aufhebung und Zurueckverweisung.
-- OLG Koeln, Beschl. v. 16.09.2020 - 2 RVs 97/20, NZV 2021, 42 — Unvollstaendige Messakte und verweigerter Zugang zu Messunterlagen = Verletzung rechtlichen Gehoers; Rechtsbeschwerde begruendet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- KK-OWiG / Mitsch § 79 Rn. 1-30 (Rechtsbeschwerde vollstaendig)
-- Goehler OWiG § 79 Rn. 1-25 (Zulaessigkeit, Begründung)
-- KK-OWiG / Mitsch § 80 Rn. 1-15 (Zulassungsbeschwerde)
-- Meyer-Gossner/Schmitt StPO § 344 Rn. 1-30 (Ruegeformen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruefschema Rechtsbeschwerde-Zulaessigkeit
 
 ```

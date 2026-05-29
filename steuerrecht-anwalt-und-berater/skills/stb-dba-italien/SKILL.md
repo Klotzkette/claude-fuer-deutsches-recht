@@ -23,16 +23,16 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Italien vom 18.10.1989**, in Kraft 26.12.1992, anwendbar ab 01.01.1993 (BGBl. 1990 II S. 743) — **verifizieren**.
+- **DBA Deutschland-Italien vom 18.10.1989**, in Kraft 26.12.1992, anwendbar ab 01.01.1993 (BGBl. 1990 II S. 742; BStBl. 1990 I S. 396; Bekanntmachung BGBl. 1993 II S. 59).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland Unterzeichner und ratifiziert; Italien hat das BEPS-MLI bislang nicht ratifiziert. DBA-Deutschland-Italien ist daher noch nicht MLI-modifiziert (Stand 01/2026). Einzelne BEPS-Massnahmen werden durch das deutsche MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) auch auf das DBA-IT nicht angewendet.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 32/15 zu italienischer Holding — **verifizieren**.
-- BFH I R 64/17 zu Lizenzgebuehren-Quellensteuer — **verifizieren**.
-- BMF-Schreiben zu DBA-Italien — **verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Aktuelle BFH-Rechtsprechung zu Holding-Substanz und Lizenzgebuhren-Quellensteuer DBA-Italien in juris abrufen.
+- BMF-Schreiben zu DBA-Italien: aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -48,9 +48,9 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 - **Suedtirol**: keine spezifische Grenzgaengerregelung im DBA — Loehne nach Art. 15 zu pruefen.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0/10 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0/5/10 Prozent (kuenstlerisch/literarisch tendenziell hoeher) — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent Schachtel (Beteiligung mind. 25 Prozent, mind. 12 Monate), 15 Prozent sonst (Art. 10 Abs. 2 DBA-Italien 1989). EU-MTRL (§ 43b EStG) bei Vorliegen der Voraussetzungen vorrangig (0 Prozent).
+- **Zinsen** (Art. 11): grundsaetzlich Wohnsitzstaat-Besteuerung (Abs. 1), jedoch Quellenbesteuerungsrecht des Herkunftsstaats von 10 Prozent (Art. 11 Abs. 2 DBA-Italien 1989). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen vorrangig.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent fuer gewerbliche Lizenzen und technische Verguetungen (Art. 12 Abs. 1 DBA-Italien 1989; Wohnsitzstaat-Prinzip). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen ohnehin vorrangig. Konkrete Einordnung (kuenstlerisch/literarisch vs. technisch) aus DBA-Text pruefen.
 
 ### Vermeidungs-Methode (Art. 24)
 - Freistellung mit Progressionsvorbehalt aktive Einkuenfte / Aktivitaetsklausel.
@@ -91,4 +91,6 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Italien 18.10.1989, in Kraft 26.12.1992 — **Datum, BGBl-Fundstelle und alle Aenderungsprotokolle aus konsolidiertem BMF-DBA-Verzeichnis verifizieren**. MLI-Notification, exakte Verortung der DBA-internen Subject-to-Tax-Klausel, Quellensteuer-Saetze und Pensionsregelung konkret aus dem DBA-Text uebernehmen.
+Stand: 05/2026. DBA-Italien 18.10.1989, in Kraft 26.12.1992 (BGBl. 1990 II S. 742). Kein MLI (Italien nicht ratifiziert, Stand 01/2026). Subject-to-Tax-Klausel in Abschn. 16 Buchst. d Protokoll zum DBA-Italien. Dividenden: 5/15 Prozent; Zinsen: 10 Prozent Quellensteuer; Lizenzen: 0 Prozent. Aktuellen DBA-Text im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az angepasst oder Satz neu formuliert) -->

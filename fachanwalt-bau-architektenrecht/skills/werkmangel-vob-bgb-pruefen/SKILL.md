@@ -1,13 +1,13 @@
 ---
 name: werkmangel-vob-bgb-pruefen
-description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht pruefen: Abgrenzung und Parallelpruefung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Pruefraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelpruefung BGB und VOB. Abgrenzung: nicht ausschliesslich BGB-Werkvertrag."
+description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag."
 ---
 
 # Werkmangel — VOB/B oder BGB?
 
 ## Mandantenfragen beim Kaltstart
 
-1. Liegt ein BGB-Werkvertrag (§§ 631 ff. BGB) oder ein VOB/B-Vertrag vor? Ist VOB/B bei Verbrauchern als Ganzes einbezogen worden (§ 305 Abs. 2 BGB, BGH VII ZR 209/07)?
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. Welche konkreten Mängel liegen vor — optische Fehler, Funktionsbeeinträchtigung, Verstoß gegen anerkannte Regeln der Technik (DIN, ETB)?
 3. Wann war die Abnahme — förmlich (Protokoll), konkludent (Nutzungsaufnahme), fiktiv (§ 640 Abs. 2 BGB)? Wurde Vorbehalt erklärt?
 4. Wurden Mängel bereits gerügt? Ist Frist zur Nacherfüllung gesetzt worden? Hat der Unternehmer Nacherfüllung verweigert oder sie ist fehlgeschlagen?
@@ -41,30 +41,23 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | VII ZR 209/07 | 22.01.2009 | VOB/B bei einseitiger Abweichung Inhaltskontrolle einzelner Klauseln; Einbeziehung als Ganzes erforderlich |
-| BGH | VII ZR 213/01 | 19.09.2002 | Anerkannte Regeln der Technik Mindeststandard auch im BGB-Werkvertrag |
-| BGH | VII ZR 117/97 | 02.10.1997 | Konkludente Abnahme bei rügeloser Ingebrauchnahme; reicht als Abnahmehandlung |
-| BGH | VII ZR 41/02 | 27.02.2003 | Symptomtheorie — Besteller muss nur Mangelerscheinung beschreiben, nicht Ursache |
-| BGH | VII ZR 226/00 | 10.01.2002 | Bauüberwachungspflicht Architekt (LPh 8) umfasst alle maßgeblichen Gewerke; Mitverschulden bei Unterlassen |
-| BGH | VII ZR 109/13 | 28.11.2013 | Vorschussanspruch § 637 BGB auch bei Architektenhaftung analog anwendbar |
-| BGH | VII ZR 136/16 | 22.02.2018 | Unverhältnismäßigkeit Nacherfüllung § 635 Abs. 3 BGB nur bei grobem Missverhältnis Aufwand/Interesse |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
-| 1 | VOB/B wirksam einbezogen (Gesamteinbeziehung bei Verbraucher)? | § 305 BGB, BGH VII ZR 209/07 | Ja → VOB/B-Recht; Nein → BGB-Werkvertragsrecht |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | Mangelbegriff erfüllt? (vereinbarte Beschaffenheit / a.R.d.T.) | § 633 BGB / § 13 Nr. 1 VOB/B | Ja → Anspruchsgrundlage; Nein → kein Mangel |
 | 3 | Abnahme erfolgt? Zeitpunkt? Form? | § 640 BGB / § 12 VOB/B | Beweislastverteilung; Verjährungsbeginn |
 | 4 | Bei Abnahme mit Kenntnis Mangel: Vorbehalt § 640 Abs. 3 erklärt? | § 640 Abs. 3 BGB | Nein → Anspruchsverlust für bekannte Mängel |
 | 5 | Fristsetzung zur Nacherfüllung (angemessen, schriftlich)? | § 634 Nr. 2 BGB | Erforderlich für Sekundärrechte |
 | 6 | Ausnahme Fristsetzung (ernsthafte Verweigerung, Unzumutbarkeit)? | § 281 Abs. 2 BGB | Ja → Direktanspruch Schadensersatz |
-| 7 | Unverhältnismäßigkeit Nacherfüllung § 635 Abs. 3 BGB? | BGH VII ZR 136/16 | Unternehmer darf verweigern → Minderung oder Schadensersatz |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Selbstvornahme nach § 637 BGB — Vorschussklage? | § 637 BGB | Vorschuss in Höhe voraussichtlicher Selbstvornahmekosten |
-| 9 | Architektenbeteiligung — LPh 8 Bauüberwachung mangelhaft? | § 650p BGB, BGH VII ZR 226/00 | Gesamtschuldnerische Haftung mit Unternehmer § 421 BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Verjährung — Fristbeginn, Hemmung, Neubeginn? | § 634a BGB, §§ 203, 204, 212 BGB | Anspruch verjährt oder gehemmt? |
 
 ## Schritt 1 — VOB/B-Einbeziehung
@@ -79,7 +72,7 @@ VOB/B ist AGB-Klauselwerk und erfordert wirksame Einbeziehung:
 **Bei B2C (Verbraucher-Bauvertrag § 650i ff. BGB):**
 - VOB/B regelmäßig nicht wirksam einbezogen wegen fehlender zumutbarer Kenntnisnahme
 - § 309 Nr. 8 BGB-Problematik: verkürzte Verjährung, Nacherfüllungsrecht
-- BGH VII ZR 209/07: VOB/B bei einseitigen Modifikationen Inhaltskontrolle
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Folge bei Nichteinbeziehung:** BGB-Werkvertragsrecht §§ 631–650v BGB, insbes. 5-Jahres-Verjährung § 634a BGB statt VOB/B-4-Jahres-Frist.
 
@@ -107,7 +100,7 @@ VOB/B ist AGB-Klauselwerk und erfordert wirksame Einbeziehung:
 
 ### Anerkannte Regeln der Technik (a.R.d.T.)
 
-a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relevante DIN/ETB:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DIN 4108 — Wärmeschutz
 - DIN 4109 — Schallschutz
 - DIN 18195 — Abdichtung von Bauwerken
@@ -121,7 +114,7 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 | Abnahmeform | Voraussetzungen | Wirkungen |
 |------------|----------------|---------|
 | Förmliche Abnahme | Protokoll, Unterschriften | Stärkste Beweiskraft; Vorbehalt im Protokoll |
-| Konkludente Abnahme | Ingebrauchnahme ohne Rüge (BGH VII ZR 117/97) | Gilt als Abnahme; Vorbehalt faktisch nicht mehr möglich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Fiktive Abnahme § 640 Abs. 2 BGB | Fristsetzung + Ablauf | Abnahme kraft Gesetzes; Vorbehalt davor nötig |
 | Fiktive Abnahme VOB/B § 12 Nr. 5 | Schlussrechnung + 12-Werktage-Frist | Besondere VOB/B-Regelung |
 
@@ -143,10 +136,10 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 | Zeitpunkt | Beweislast | Beweisführer | Beweismittel |
 |-----------|-----------|-------------|-------------|
 | Vor Abnahme | Mangelfreiheit | Auftragnehmer | Abnahmeprotokoll, Eigenüberwachung, Prüfzeugnisse |
-| Nach Abnahme | Mangel vorhanden | Auftraggeber | SV-Gutachten, Fotos, Symptomnachweis (BGH VII ZR 41/02) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verjährung | Hemmungstatbestand | Auftraggeber (Kläger) | Verhandlungskorrespondenz § 203 BGB |
 
-**Symptomtheorie** (BGH VII ZR 41/02): Auftraggeber muss nur Mangelerscheinung schildern, nicht technische Ursache. Auftragnehmer muss sich entlasten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 6 — Rechtsfolgen und Sekundärrechte
 
@@ -154,7 +147,7 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 
 - **Wahlrecht des Unternehmers:** Nachbesserung oder Neuherstellung
 - **Frist** muss angemessen sein (abhängig von Komplexität; regelmäßig 2–6 Wochen)
-- **Verweigerungsrecht** § 635 Abs. 3 BGB wenn Kosten unverhältnismäßig hoch — nur bei grobem Missverhältnis (BGH VII ZR 136/16)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Sekundärrechte nach Fristablauf
 
@@ -210,7 +203,7 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 | 1–4 | Grundlagen, Vorplanung, Entwurf, Genehmigung | Planungsfehler; Verstoß gegen a.R.d.T. |
 | 5 | Ausführungsplanung | Detailplanungsfehler — häufig Ursache für Ausführungsmängel |
 | 6, 7 | Vorbereitung und Mitwirkung Vergabe | Auswahl ungeeigneter Auftragnehmer |
-| 8 | Bauüberwachung | **Kernhaftung** — BGH VII ZR 226/00: Pflicht zur Überwachung aller Gewerke |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Objektbetreuung | Mängelanzeige, Fristsetzung gegenüber Unternehmern |
 
 ### Gesamtschuldnerische Haftung
@@ -231,7 +224,7 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 - Klageantrag: Zahlung von EUR [X] als Vorschuss für Selbstvornahme-Maßnahmen
 - Berechnung: Kostenvoranschlag Drittunternehmer (Bruttokosten)
 - Abrechnung nach Durchführung (Restforderung oder Rückzahlung)
-- Anwendung auch auf Architektenhaftung (BGH VII ZR 109/13)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -302,7 +295,6 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Streitwert und Kosten
 
 **Streitwert-Berechnung:**
@@ -324,12 +316,12 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 
 | Gegenargument Auftragnehmer | Reaktion |
 |-----------------------------|---------|
-| „Mangel liegt an Planung des Architekten, nicht Ausführung" | Gesamtschuldnerische Haftung § 421 BGB; Besteller kann AN trotzdem in Anspruch nehmen |
-| „Frist war zu kurz" | Fristdauer richtet sich nach Komplexität; bei einfachen Mängeln 2 Wochen regelmäßig ausreichend (BGH VII ZR 19/17) |
-| „Vorbehaltlose Abnahme — Mängel abgenommen" | Gilt nur für bei Abnahme bekannte Mängel § 640 Abs. 3 BGB; versteckte Mängel bleiben unberührt |
-| „Nacherfüllung unverhältnismäßig" | BGH VII ZR 136/16: nur grobes Missverhältnis berechtigt zur Verweigerung; Bagatellschwelle liegt hoch |
-| „Verjährung" | Hemmung durch Mängelverhandlungen § 203 BGB; Anerkenntnis des Mangels → Neubeginn § 212 BGB |
-| „Mangel durch Auftraggeber-Sphäre verursacht" | Beweislast beim Unternehmer nach Abnahme; Mitverschulden § 254 BGB prüfen |
+| "Mangel liegt an Planung des Architekten, nicht Ausführung" | Gesamtschuldnerische Haftung § 421 BGB; Besteller kann AN trotzdem in Anspruch nehmen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Vorbehaltlose Abnahme — Mängel abgenommen" | Gilt nur für bei Abnahme bekannte Mängel § 640 Abs. 3 BGB; versteckte Mängel bleiben unberührt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Verjährung" | Hemmung durch Mängelverhandlungen § 203 BGB; Anerkenntnis des Mangels → Neubeginn § 212 BGB |
+| "Mangel durch Auftraggeber-Sphäre verursacht" | Beweislast beim Unternehmer nach Abnahme; Mitverschulden § 254 BGB prüfen |
 
 ## Fristen-Checkliste
 
@@ -375,5 +367,4 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- VII ZR 244/12: ersatzlos entfernt (kein BGH-Urteil VII ZR 244/12 vom 25.09.2014 in dejure.org nachweisbar; AZ als NOT_FOUND verifiziert)
-- OLG Hamm 17 U 119/18: ersatzlos entfernt (OLG Hamm 17 U 119/18 existiert nicht mit dem behaupteten Thema Gesamtschuldnerausgleich; das reale AZ OLG Hamm 18 U 119/18 betrifft Maklervertrag/Widerruf; Quelle: dejure.org)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

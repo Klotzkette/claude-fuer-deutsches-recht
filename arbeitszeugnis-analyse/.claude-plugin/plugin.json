@@ -1,8 +1,8 @@
 {
   "name": "arbeitszeugnis-analyse",
   "displayName": "Arbeitszeugnis-Analyse (Ampelsystem)",
-  "version": "14.2.0",
-  "description": "Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Gruen). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien. Satzweise Notenmatrix, gewichtete Gesamtnote. Vollstaendiger Mandatsablauf: Erstgespraech, Mandantenbericht, Aufforderungsschreiben, Klagestrategie.",
+  "version": "24.2.0",
+  "description": "Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien. Satzweise Notenmatrix, begründete Gesamtnotenspanne. Vollständiger Mandatsablauf: Erstgespräch, Mandantenbericht, Aufforderungsschreiben, Klagestrategie.",
   "author": {
     "name": "Klotzkette"
   },

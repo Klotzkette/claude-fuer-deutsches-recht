@@ -26,7 +26,7 @@
 | 1 | Einleitung und Anwendungsbereich |
 | 2 | Executive Summary |
 | 3 | Potenziale von KI in der Kanzleipraxis |
-| 4 | Rechtsbegriff „Künstliche Intelligenz" (KI-VO / AI Act) |
+| 4 | Rechtsbegriff "Künstliche Intelligenz" (KI-VO / AI Act) |
 | 5 | Rechtliche Rahmenbedingungen (DSGVO, BDSG, BRAO, RDG, BerufsO) |
 | 6 | Generelle Handlungsempfehlungen |
 | 7 | Spezifische Vorgaben je Anwendungsfall |

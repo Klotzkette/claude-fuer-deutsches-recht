@@ -1,6 +1,6 @@
 ---
 name: timesheet-aktenzeitung
-description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Taetigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-faehig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative.
+description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative.
 ---
 
 # Timesheet und Aktenzeitung
@@ -13,10 +13,7 @@ description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit
 4. Sollen Reports nach Mandat, Anwalt oder Zeitraum generiert werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 29.07.2021 - IX ZR 5/21, NJW 2021, 3320 — Stundensatz-Abrechnung erfordert detaillierte Zeitaufzeichnungen: pauschale Taetigkeitsangaben genuegen nicht; jeder Eintrag braucht Datum, Dauer, konkrete Taetigekeit.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Mandant hat Recht auf Einblick in die Zeiterfassung; Kanzlei muss auf Anforderung detailliertes Timesheet herausgeben.
-- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — Zeitaufzeichnungen als Buchungsbelege: GoBD-konform unveraenderbar und zeitnah; nachtraegliche Rekonstruktion erhoehte Versagungsgefahr beim Betriebsausgabenabzug.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Rechnungsbetraege muessen durch nachvollziehbare Zeiterfassung belegt sein; ohne Timesheet kann Honorarklage schwaecher begruendet werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 10 RVG — Taetigkeitsbeschreibung als Pflichtangabe der Honorarrechnung
@@ -24,10 +21,9 @@ description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit
 - § 147 AO — Aufbewahrungspflicht 10 Jahre fuer Buchungsbelege inkl. Timesheet
 - § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als betriebliche Aufzeichnung
 
-## Kommentarliteratur
-- Mueckenberger/Meiling RVG § 10 Rn. 1-20 (Taetigkeitsbeschreibung und Nachweispflicht)
-- MüKo HGB/Ballwieser § 238 Rn. 1-30 (Buchfuehrung: Aufzeichnungspflichten und GoBD)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Die Aktenzeitung ist die Tagebuchführung pro Mandat. Sie ist Grundlage jeder Honorarrechnung nach Stundensatz und Belegfähigkeit gegenüber dem Mandanten.

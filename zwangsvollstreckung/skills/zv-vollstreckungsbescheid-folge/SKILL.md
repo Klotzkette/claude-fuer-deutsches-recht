@@ -1,6 +1,6 @@
 ---
 name: zv-vollstreckungsbescheid-folge
-description: "Mahnbescheid wurde erlassen und Glaeubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Pruefraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Uebergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter."
+description: "Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter."
 ---
 
 # Vollstreckungsbescheid und Folgeverfahren
@@ -15,9 +15,7 @@ description: "Mahnbescheid wurde erlassen und Glaeubiger muss entscheiden wie es
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.04.2012 - IX ZR 233/09, NJW 2012, 2502 — Vollstreckungsbescheid nach Insolvenzeröffnung: VB als Titel wird durch Insolvenzeröffnung überlagert; Forderung muss zur Tabelle angemeldet werden.
-- BGH, Beschl. v. 20.04.2017 - VII ZB 19/16, NJW 2017, 1972 — Wiedereinsetzung in die Einspruchsfrist: Anwaltsverschulden kann Wiedereinsetzung ausschließen; Schuldner muss sich Verschulden seines Anwalts zurechnen lassen (§ 85 Abs. 2 ZPO).
-- BGH, Urt. v. 06.05.2014 - XI ZR 217/12, NJW 2014, 2806 — Verjährungshemmung endet 6 Monate nach Erlass des VB, wenn das Verfahren nicht weiter betrieben wird (§ 204 Abs. 2 S. 1 BGB); Gläubiger muss Vollstreckung rechtzeitig einleiten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -28,12 +26,9 @@ description: "Mahnbescheid wurde erlassen und Glaeubiger muss entscheiden wie es
 - § 204 Abs. 2 S. 1 BGB — Ende der Verjährungshemmung bei Verfahrenseinstellung
 - § 705 ZPO — Rechtskraft des VB nach Ablauf der Einspruchsfrist
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Vollkommer, ZPO, 35. Aufl. 2024, § 699 Rn. 1-20 (Vollstreckungsbescheid)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 700 Rn. 1-10 (Einspruch)
-- Grüneberg, BGB, 83. Aufl. 2024, § 204 Rn. 60-70 (Ende der Verjährungshemmung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Vollstreckungsbescheid (VB) ist der Titel, den die meisten Mahnverfahren in Deutschland produzieren. Der Skill begleitet den Antrag, die Reaktion auf Einspruch und die Vollstreckung aus dem VB.
@@ -79,9 +74,7 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 
 ## Leitentscheidungen
 
-- BGH, Urt. v. 19.04.2012 – IX ZR 233/09, NJW 2012, 2502: Wirkung des VB bei Insolvenzeröffnung – Forderungsanmeldung erforderlich, VB allein nicht ausreichend.
-- BGH, Beschl. v. 20.04.2017 – VII ZB 19/16, NJW 2017, 1972: Wiedereinsetzung in Einspruchsfrist bei Verschulden des Anwalts.
-- BGH, Urt. v. 06.05.2014 – XI ZR 217/12: Verjährungshemmung endet 6 Monate nach Erlass des VB, wenn Verfahren nicht weiter betrieben § 204 Abs. 2 S. 1 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

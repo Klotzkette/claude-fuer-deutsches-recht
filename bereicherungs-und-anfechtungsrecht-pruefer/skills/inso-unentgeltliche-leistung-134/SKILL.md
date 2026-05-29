@@ -1,6 +1,6 @@
 ---
 name: inso-unentgeltliche-leistung-134
-description: "Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134 InsO pruefen: vier Jahre vor Insolvenzantrag. Normen: § 134 InsO. Pruefraster: Unentgeltlichkeitsbegriff, Ausnahmen Anstandsschenkungen, nahestehende Personen, Fristberechnung. Output: Pruefergebnis Anfechtbarkeit unentgeltliche Leistung. Abgrenzung: nicht § 133 InsO (Vorsatzanfechtung zehn Jahre)."
+description: "Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134 InsO prüfen: vier Jahre vor Insolvenzantrag. Normen: § 134 InsO. Prüfraster: Unentgeltlichkeitsbegriff, Ausnahmen Anstandsschenkungen, nahestehende Personen, Fristberechnung. Output: Prüfergebnis Anfechtbarkeit unentgeltliche Leistung. Abgrenzung: nicht § 133 InsO (Vorsatzanfechtung zehn Jahre)."
 ---
 
 # Unentgeltliche Leistung — § 134 InsO
@@ -10,27 +10,20 @@ description: "Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134
 1. Hat der Schuldner eine Zuwendung ohne angemessene Gegenleistung erbracht (vollständig oder teilweise unentgeltlich)?
 2. Liegt die Handlung innerhalb der Vier-Jahres-Frist vor dem Insolvenzantrag?
 3. Handelt es sich um ein gebräuchliches Gelegenheitsgeschenk oder eine sittliche Pflicht (Ausnahme § 134 Abs. 2 InsO)?
-4. Ist der Anfechtungsgegner eine nahestehende Person (§ 138 InsO) — verlängerte Fristen?
-5. Kommt auch § 135 InsO (nahestehende Personen, 10-Jahres-Frist) in Betracht?
+4. Gibt es eine teilweise Gegenleistung, sodass nur der unentgeltliche Teil zu prüfen ist?
+5. Kommt statt § 134 InsO ein spezieller Tatbestand in Betracht, insbesondere § 135 InsO bei Gesellschafterdarlehen?
 
 ## Zentrale Normen
 
-§ 134 InsO (unentgeltliche Leistung, 4-Jahres-Frist) — § 135 InsO (Gesellschafterdarlehen, nahestehende Personen) — § 138 InsO (Definition nahestehende Person) — § 129 InsO (Grundtatbestand) — § 143 InsO (Rückgewähr) — § 516 BGB (Schenkungsvertrag) — §§ 812 ff. BGB (Bereicherungsrecht, Konkurrenz)
+§ 134 InsO (unentgeltliche Leistung, 4-Jahres-Frist) — § 135 InsO (Gesellschafterdarlehen und gleichgestellte Forderungen) — § 138 InsO (nahestehende Personen) — § 129 InsO (Grundtatbestand) — § 143 InsO (Rückgewähr) — § 516 BGB (Schenkungsvertrag) — §§ 812 ff. BGB (Bereicherungsrecht, Konkurrenz)
 
 ## Rechtsprechung
 
-BGH, Urt. v. 05.06.2008 – IX ZR 17/07, NJW 2008, 2585 — § 134 InsO setzt nur die objektive Unentgeltlichkeit der Leistung voraus; weder Benachteiligungsvorsatz noch Kenntnis des Anfechtungsgegners sind erforderlich.
+Hinweis für diesen Auditstand: § 134 InsO wird hier vorrangig aus dem aktuellen Gesetzestext geprüft. Unsichere Einzelfallzitate sind nicht erforderlich; bei konkreter Prozessverwendung sind Rechtsprechungsnachweise fallbezogen nachzuziehen.
 
-BGH, Urt. v. 19.01.2012 – IX ZR 2/11, NJW 2012, 1209 — Bei gemischten Schenkungen (teilweise unentgeltlich) beschränkt sich die Anfechtung auf den unentgeltlichen Teil der Zuwendung; der entgeltliche Teil bleibt anfechtungsfest.
+## Quellenregel
 
-BGH, Urt. v. 22.04.2010 – IX ZR 163/09, NJW 2010, 2205 — Die Vier-Jahres-Frist des § 134 Abs. 1 InsO beginnt mit der tatsächlichen Rechtshandlung, nicht mit dem Vertragsschluss; maßgeblich ist der Zeitpunkt, zu dem die Vermögensverschiebung wirksam wird.
-
-## Kommentarliteratur
-
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 134 Rn. 1–60 (Unentgeltlichkeit, Frist, Ausnahmen).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 134 Rn. 1–45 (gemischte Schenkung, nahestehende Personen).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 138 Rn. 1–30 (nahestehende Personen, Abgrenzung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Anfechtbar sind nach § 134 Abs. 1 InsO unentgeltliche Leistungen des Schuldners, es sei denn, sie sind früher als vier Jahre vor Insolvenzantrag vorgenommen worden.
@@ -71,7 +64,7 @@ Nicht anfechtbar:
 1. Unentgeltlich (ganz oder teilweise)?
 2. Frist: innerhalb von vier Jahren vor Insolvenzantrag?
 3. Ausnahme § 134 Abs. 2 InsO (Gelegenheitsgeschenk, sittliche Pflicht)?
-4. Nahestehende Person → § 135 InsO prüfen?
+4. Bei Gesellschafterdarlehen oder gleichgestellter Forderung → § 135 InsO prüfen.
 
 ## Output-Template
 
@@ -85,18 +78,10 @@ Sachverhalt (kurz): [...]
 | Wert der Gegenleistung (falls vorhanden) | [...] EUR |
 | Zeitraum vor Insolvenzantrag | [...] Jahre → innerhalb 4 Jahre? ja / nein |
 | Ausnahme § 134 Abs. 2 InsO | nein / ja: [...] |
-| Nahestehende Person (§ 138 InsO) | ja → § 135 InsO prüfen |
+| Gesellschafterdarlehen oder gleichgestellte Forderung | ja → § 135 InsO prüfen |
 
 **Ergebnis:** Anfechtung nach § 134 Abs. 1 InsO [begründet / unbegründet]. Rückgewährpflicht: [...].
 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 016 – Halluzinations-Reparatur
-Problem: BGH IX ZR 85/07 – WRONG_TOPIC und falsches Datum (Skill behauptete 10.01.2008, real: 05.03.2009).
-Realthema laut dejure.org: § 133 InsO, Gläubigerbenachteiligungsvorsatz bei Existenzgründungskredit (BGHZ 180, 98; NJW 2009, 1601) – kein § 134-Bezug.
-Massnahme: Eintrag vollständig gelöscht (falsches Thema für diesen Skill und falsches Datum).
-Quelle: https://dejure.org/2009,397
--->

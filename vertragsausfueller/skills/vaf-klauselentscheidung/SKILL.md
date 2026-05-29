@@ -1,6 +1,6 @@
 ---
 name: vaf-klauselentscheidung
-description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Pruefraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck."
+description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Prüfraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck."
 ---
 
 # Klauselentscheidungen
@@ -15,9 +15,7 @@ description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.04.2018 - VIII ZR 168/17, NJW 2018, 2317 — Haftungsausschlussklausel in AGB unwirksam, wenn sie auch grobe Fahrlässigkeit umfasst (§ 309 Nr. 7b BGB).
-- BGH, Urt. v. 21.06.2012 - III ZR 227/11, NJW 2012, 3022 — Schiedsklausel in AGB mit Verbraucher unwirksam (§ 1031 Abs. 5 ZPO); muss handschriftlich gesondert unterzeichnet werden.
-- BGH, Urt. v. 28.05.2014 - VIII ZR 241/13, NJW 2014, 3098 — Indexklausel im Gewerbemietrecht grundsätzlich zulässig; Verweis auf VPI muss nachvollziehbar sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -27,12 +25,9 @@ description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwen
 - § 310 Abs. 1 BGB — B2B: eingeschränkte Inhaltskontrolle
 - § 1031 ZPO — Schiedsvereinbarung (Formerfordernis)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 1-100 (Inhaltskontrolle)
-- MüKo-BGB/Basedow, 9. Aufl. 2022, § 309 Rn. 1-80 (Klauselverbote)
-- Staudinger/Coester, BGB, 2022, § 307 Rn. 1-60 (Generalklausel B2B)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill verhindert stilles Auswählen riskanter Optionen. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

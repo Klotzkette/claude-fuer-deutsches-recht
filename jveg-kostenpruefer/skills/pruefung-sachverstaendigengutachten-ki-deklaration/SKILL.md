@@ -1,6 +1,6 @@
 ---
 name: pruefung-sachverstaendigengutachten-ki-deklaration
-description: "KI-Deklaration in Sachverstaendigengutachten pruefen: Hat der Sachverstaendige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Pruefraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Pruefergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenpruefung."
+description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Prüfraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Prüfergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenprüfung."
 ---
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG
@@ -14,15 +14,13 @@ description: "KI-Deklaration in Sachverstaendigengutachten pruefen: Hat der Sach
 5. **Beschwerdestadium:** Ist bereits ein Festsetzungsbeschluss ergangen oder steht er noch aus?
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 16.12.2003 – X ZR 206/98, GRUR 2004, 446 — Die erforderliche Zeit i.S.d. § 8 JVEG ist nach einem abstrakten und objektiven Maßstab zu ermitteln; anzusetzen ist der Zeitaufwand eines Sachverständigen mit durchschnittlicher Befähigung und Erfahrung bei sachgemäßer Auftragserledigung.
-2. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — § 8a JVEG erlaubt Vergütungskürzung oder -wegfall bei wesentlichen Mängeln; fehlende höchstpersönliche Erstellung kann § 8a Abs. 2 S. 1 Nr. 1 JVEG erfüllen.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Die Beschwerde nach § 4 Abs. 3 JVEG erfordert substantiierte Darlegung; das Beschwerdegericht ist auf den Prüfungsrahmen des Antragstellers beschränkt.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 8a Rn. 1 ff.
-- Anders/Gehle, ZPO, 82. Aufl. 2024, § 407a Rn. 1 ff. (höchstpersönliche Erstellungspflicht).
-- BeckOK ZPO, Vorwerk/Wolf, 52. Ed. 2024, § 407a Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck dieses Skills
 
 Wenn dem Gericht ein Sachverständigengutachten zur Vergütungsfestsetzung vorgelegt wird und Anhaltspunkte für KI-Einsatz bestehen, strukturiert dieser Skill die richterliche Prüfung. Er greift im JVEG-Kostenprüfungsverfahren ebenso wie bei der Verwertbarkeitsprüfung im Hauptverfahren.
@@ -35,7 +33,7 @@ Wenn dem Gericht ein Sachverständigengutachten zur Vergütungsfestsetzung vorge
 - **§ 407a Abs. 1 ZPO** — höchstpersönliche Erstellungspflicht
 - **§ 407a Abs. 3 ZPO** — Mitarbeiterbenennung
 - **§ 407a Abs. 5 ZPO** — Aktenherausgabe
-- **Kommentarliteratur** zur höchstpersönlichen Erstellung in Standard-Kommentaren zur ZPO (z. B. BeckOK ZPO, Anders/Gehle ZPO)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Keine generelle KI-Kennzeichnungspflicht**; Anker ist die persönliche Verantwortlichkeit
 
 ## Prüfungsschema für das Gericht
@@ -238,7 +236,7 @@ Gründe:
 - → `ki-einsatz-bei-gutachten-mandatsseite` (Großkanzlei-Mandatsseite)
 
 <!-- AUDIT 27.05.2026
-BGH III ZR 329/16 (behauptet: Beschl. 11.09.2018, JVEG objektive Zeit) — FALSCH: echtes Thema ist Nichtzulassungsbeschwerde/Beschwer-Bemessung (Beschl. 11.01.2018); kein JVEG-Bezug. Ersetzt durch BGH X ZR 206/98 (16.12.2003, GRUR 2004, 446) — tatsächliche Leitentscheidung zu § 8 JVEG objektiver Maßstab.
-BGH IV ZR 163/17 (behauptet: Beschl. 26.09.2018, § 4 JVEG Festsetzungsbeschluss) — FALSCH: echtes Thema ist Versorgungsausgleich/Betriebs­rentenkürzung (Urt. 17.10.2018, VersR 2019, 380); kein JVEG-Bezug. Gelöscht; vorhandene OLG Köln 17 W 3/17 (Eintrag 4) bleibt als Nr. 3 bestehen.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: dejure.org. Prüfer: Bundle-005-Audit.
 -->

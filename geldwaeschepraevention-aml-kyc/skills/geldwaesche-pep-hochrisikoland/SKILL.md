@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-pep-hochrisikoland
-description: "Verstaerkte KYC-Pruefung fuer PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Pruefraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begruendung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwaesche-kyc-onboarding und geldwaesche-sanktionsscreening."
+description: "Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Prüfraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begründung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-sanktionsscreening."
 ---
 
 # PEP, Hochrisikoland und verstärkte Sorgfalt
@@ -12,10 +12,7 @@ description: "Verstaerkte KYC-Pruefung fuer PEP politisch exponierte Personen Ho
 4. Welche verstaerkte Due Diligence wurde bereits durchgefuehrt und was fehlt noch?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — PEP-Status begründet widerlegliche Vermutung erhoehten Geldwaescherisikos; Verpflichtete muessen verstaerkte Sorgfalt dokumentieren.
-- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — PEP-Screening allein reicht nicht; inhaltliche Bewertung der Mittelherkunft und Vermoegensverhaltniswuerdigung ist Pflicht.
-- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin beanstandet unzureichende Hochrisiko-Land-Kontrollen als systemischen Mangel; Stichproben-Analyse genuegt nicht.
-- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Fehlende Dokumentation der verstaerkten Sorgfalt bei PEP begruendet Fahrlässigkeit und Ordnungswidrigkeitentatbestand nach § 56 GwG.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 15 GwG — Verstaerkte Sorgfaltspflichten: PEP, nahestehende Personen, Hochrisikotransaktionen
@@ -23,10 +20,9 @@ description: "Verstaerkte KYC-Pruefung fuer PEP politisch exponierte Personen Ho
 - §§ 14-16 GwG — Vereinfachte und normale Sorgfalt: Abgrenzung
 - EU-Delegierte VO (EU) 2022/229 — Hochrisikodritt-Laenderliste
 
-## Kommentarliteratur
-- Zentes/Glaab GwG, 2019, § 15 Rn. 30-100 (PEP: Identifizierung, Bewertung, Dokumentation)
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 1 Abs. 12 Rn. 1-30 (PEP-Definition und Fallgruppen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill entscheidet nicht pauschal, sondern führt durch Risikofaktoren, Freigaben und laufende Überwachung.

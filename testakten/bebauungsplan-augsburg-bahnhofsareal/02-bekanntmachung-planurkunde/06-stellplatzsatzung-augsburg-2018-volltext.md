@@ -89,7 +89,7 @@ a) städtebaulicher Anlass — bei Innenentwicklung in zentraler Lage kann dies 
 b) Bedarf anderweitig gedeckt — durch integriertes Mobilitätskonzept,
 c) Wahrung der Verhältnismäßigkeit — die Reduzierung muss in einem angemessenen Verhältnis zum geschaffenen Mobilitätsangebot stehen.
 
-Im Bebauungsplan Nr. 900 ist die Voraussetzung c) (Verhältnismäßigkeit) zweifelhaft: Reduzierung um 70 % auf 0,3/WE ist die stärkste Reduzierung, die nach Wissen der Kanzlei in einem Augsburger Bebauungsplan jemals festgesetzt wurde. Vergleichswerte aus Augsburger Bestand: Quartier „Sheridan-Park" 0,7/WE; Quartier „Reesepark" 0,5/WE. **]**
+Im Bebauungsplan Nr. 900 ist die Voraussetzung c) (Verhältnismäßigkeit) zweifelhaft: Reduzierung um 70 % auf 0,3/WE ist die stärkste Reduzierung, die nach Wissen der Kanzlei in einem Augsburger Bebauungsplan jemals festgesetzt wurde. Vergleichswerte aus Augsburger Bestand: Quartier "Sheridan-Park" 0,7/WE; Quartier "Reesepark" 0,5/WE. **]**
 
 ---
 
@@ -182,7 +182,7 @@ Die Stellplatzsatzung 2018 wurde im Rahmen der Akteneinsicht in vollständigem W
 
 3. **§ 6 Abs. 1:** Im Einzelfall maximal 50 % Reduzierung. § 6 Abs. 3 verweist auf § 5 für stärkere Reduzierungen, die aber nicht voraussetzungs-frei sind. Eine 70 %-Reduzierung ist systematisch eine **außergewöhnliche Maßnahme**, die nur in einem **außergewöhnlichen städtebaulichen Kontext** zulässig ist. Dieser außergewöhnliche Kontext ist im B-Plan Nr. 900 weder ausreichend dargelegt noch ermittelt.
 
-4. **Mobilitätskonzept als Ersatz:** Das Mobilitätskonzept des Bebauungsplans Nr. 900 (Stichpunktliste 03.05.2024) erfüllt nicht die Anforderungen, die die Satzung an ein „integriertes Mobilitätskonzept" stellt — vgl. § 6 Abs. 2 dieser Satzung (verbindlich-dinglich gesichert; Mindest-Maßnahmen).
+4. **Mobilitätskonzept als Ersatz:** Das Mobilitätskonzept des Bebauungsplans Nr. 900 (Stichpunktliste 03.05.2024) erfüllt nicht die Anforderungen, die die Satzung an ein "integriertes Mobilitätskonzept" stellt — vgl. § 6 Abs. 2 dieser Satzung (verbindlich-dinglich gesichert; Mindest-Maßnahmen).
 
 5. **Vorrang § 5 vor § 6** Diese Auslegungs-Frage ist bislang nicht höchstrichterlich entschieden.
 

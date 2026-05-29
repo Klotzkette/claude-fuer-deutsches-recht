@@ -1,121 +1,145 @@
 ---
 name: betreiber-deployer-pflichten-art-26
-description: "Unternehmen oder Behoerde setzt eingekauftes Hochrisiko-KI-System ein und fragt: Welche Pflichten haben wir als Betreiber? Art. 26 KI-VO Betreiber-Pflichten. Pruefraster: bestimmungsgemaesze Verwendung menschliche Aufsicht Art. 14 sicherstellen Eingabedaten-Relevanz Protokollaufbewahrung Abweichungsmeldung an Anbieter. Grundrechte-Folgenabschaetzung Art. 27 fuer oeffentliche Stellen und Private bei Risikobereichen. Output: Betreiber-Compliance-Checkliste und Folgenabschaetzungs-Muster. Abgrenzung zu output-betreiber-checkliste-und-folgenabschaetzung (fertige Vorlagen)."
+description: "Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance fuer allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan."
 ---
 
 # Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO
 
 ## Zweck
 
-Betreiber (deployer) sind diejenigen, die ein Hochrisiko-KI-System in eigener Verantwortung einsetzen. Sie sind keine Anbieter, tragen aber erhebliche eigene Compliance-Pflichten, die durch Art. 26 KI-VO normiert sind.
+Betreiber sind natürliche oder juristische Personen, Behörden, Einrichtungen oder sonstige Stellen, die ein KI-System unter eigener Verantwortung verwenden. Dieser Skill prüft die Pflichten beim Einsatz von Hochrisiko-KI und ergänzt einen Governance-Check für allgemeine Chatbots/GPAI-Systeme, die intern zweckwidrig für Hochrisiko-Kontexte genutzt werden könnten.
 
-## Pflicht 1 — Bestimmungsgemäße Verwendung (Art. 26 Abs. 1 KI-VO)
+## Pflicht 1 — Bestimmungsgemäße Verwendung
 
-Betreiber müssen das Hochrisiko-KI-System in Übereinstimmung mit der Gebrauchsanweisung des Anbieters verwenden. Abweichungen vom bestimmungsgemäßen Zweck können dazu führen, dass der Betreiber zum Anbieter wird (Art. 25 KI-VO).
+Betreiber müssen Hochrisiko-KI-Systeme nach der Gebrauchsanweisung des Anbieters verwenden.
 
-**Prüffragen:**
-- Haben Sie die Gebrauchsanweisung des Anbieters erhalten und verstanden?
-- Verwenden Sie das System ausschließlich für den in der Gebrauchsanweisung beschriebenen Zweck?
-- Haben Sie eigene Anpassungen vorgenommen, die über die erlaubten Anpassungen hinausgehen?
+Prüffragen:
+- Liegt die Gebrauchsanweisung vor und ist sie intern umgesetzt?
+- Ist der interne Use Case vom Anbieterzweck gedeckt?
+- Werden Prompt-Vorlagen, Workflows, Rollenrechte oder Schnittstellen so gestaltet, dass keine unzulässige Zweckänderung entsteht?
+- Gibt es ein Freigabeverfahren für neue KI-Use-Cases?
 
-## Pflicht 2 — Menschliche Aufsicht sicherstellen (Art. 26 Abs. 2 KI-VO)
+## Sonderthema — Mitarbeitende nutzen ein allgemeines KI-Tool hochriskant
 
-Betreiber müssen sicherstellen, dass die vom Anbieter vorgesehenen Aufsichtsmaßnahmen tatsächlich umgesetzt werden. Sie müssen qualifizierte Personen mit der Aufsicht beauftragen und diese angemessen schulen.
+Wenn Mitarbeitende ein allgemeines Tool entgegen der Zweckbestimmung für Personal, Kredit, Bildung, Verwaltung, Justiz oder andere Anhang-III-Kontexte einsetzen, prüfe die Organisationsverantwortung:
 
-**Prüffragen:**
-- Sind zuständige Aufsichtspersonen benannt?
-- Haben diese Personen die vom Anbieter vorgeschriebene Schulung erhalten?
-- Gibt es ein dokumentiertes Verfahren, wie Aufsichtspersonen bei Auffälligkeiten vorgehen?
+| Befund | Einordnung |
+|---|---|
+| Klare Richtlinie, Schulung, Rollenrechte, Logging, Sperren; isolierter Verstoß | Compliance-/Incident-Thema; Nutzung beenden, dokumentieren, nachschulen, ggf. Daten/Output entfernen |
+| Fachabteilung nutzt es wiederholt und Führung weiß davon | tatsächlicher Betreiberzweck kann kippen; `hochrisiko-art-6-abs-2-anhang-iii` neu prüfen |
+| Tool ist technisch offen und Hochrisiko-Nutzung naheliegend | vorhersehbarer Fehlgebrauch; Kontrollen, Warnungen, Freigaben und Re-Evaluation erforderlich |
+| Betreiber ändert Zweck oder System wesentlich | `anbieter-werden-art-25` prüfen; Anbieterpflichten können ausgelöst werden |
 
-## Pflicht 3 — Eingaberelevanz sicherstellen (Art. 26 Abs. 3 KI-VO)
+Mindestmaßnahmen:
+- KI-Richtlinie mit erlaubten und verbotenen Use Cases
+- KI-Kompetenz/Schulung nach Art. 4
+- Rollen- und Zugriffskonzept für sensible Bereiche
+- Prompt- und Datenklassifizierungsregeln
+- Logging/Audit für sensible Workflows
+- Freigabeprozess für neue KI-Use-Cases
+- Re-Evaluation bei Zweckänderung, Modellwechsel, neuer Integration oder auffälliger Nutzung
 
-Betreiber, die selbst Eingabedaten für das KI-System steuern, müssen sicherstellen, dass die Eingabedaten für den vorgesehenen Zweck relevant sind. Fehlerhafte oder ungeeignete Eingabedaten können die Systemleistung beeinträchtigen und Pflichten des Betreibers begründen.
+## Pflicht 2 — Menschliche Aufsicht
 
-**Prüffragen:**
-- Welche Eingabedaten steuert der Betreiber bei?
-- Werden diese Daten vor der Eingabe auf Qualität und Relevanz geprüft?
+Betreiber müssen die vom Anbieter vorgesehenen Aufsichtsmaßnahmen tatsächlich umsetzen.
 
-## Pflicht 4 — Protokollaufbewahrung (Art. 26 Abs. 6 KI-VO)
+Prüffragen:
+- Sind Aufsichtspersonen benannt und geschult?
+- Können sie Output verstehen, kritisch prüfen, übersteuern oder stoppen?
+- Ist Aufsicht mehr als nur formale Abzeichnung?
+- Gibt es Eskalationsregeln bei Fehlern, Bias, Halluzinationen, Drift oder ungewöhnlichen Outputs?
 
-Betreiber müssen die vom KI-System erzeugten Protokolle mindestens sechs Monate aufbewahren, sofern keine anderen Rechtsvorschriften (DSGVO, nationales Recht) kürzere oder längere Fristen vorschreiben.
+## Pflicht 3 — Eingabedaten und Nutzungskontext
 
-**Prüffragen:**
-- Werden Systemprotokolle gespeichert und sind sie nach sechs Monaten noch abrufbar?
-- Gibt es Konflikte zwischen der Aufbewahrungspflicht und Datenschutzlöschpflichten?
+Wenn Betreiber Eingabedaten kontrollieren, müssen diese relevant und repräsentativ für den vorgesehenen Zweck sein.
 
-## Pflicht 5 — Informationspflicht gegenüber betroffenen Personen (Art. 26 Abs. 7 KI-VO)
+Prüffragen:
+- Welche Eingabedaten werden vom Betreiber bereitgestellt?
+- Sind personenbezogene, vertrauliche oder besondere Daten betroffen?
+- Sind die Daten zweckgeeignet und aktuell?
+- Wird verhindert, dass Mitarbeitende sensible Personal-, Kredit-, Gesundheits- oder Justizdaten in allgemeine Tools eingeben?
 
-Wenn das Hochrisiko-KI-System für Entscheidungen eingesetzt wird, die betroffene Personen betreffen, müssen diese Personen informiert werden — zumindest darüber, dass ein KI-System eingesetzt wird, wenn dies nicht bereits aus dem Kontext hervorgeht.
+## Pflicht 4 — Protokolle und Nachvollziehbarkeit
 
-## Pflicht 6 — Meldung schwerwiegender Vorfälle (Art. 26 Abs. 5 KI-VO)
+Betreiber müssen Protokolle nach Maßgabe der KI-VO und anderer Rechtsvorschriften aufbewahren.
 
-Betreiber müssen schwerwiegende Vorfälle (serious incidents) dem Anbieter und gegebenenfalls der nationalen Marktüberwachungsbehörde melden. Details: `marktueberwachung-meldung-vorfaelle-art-72-bis-79`
+Prüffragen:
+- Welche Logs erzeugt das System?
+- Sind Prompt, Eingabe, Output, Nutzer, Zeitpunkt, Version und Entscheidungspfad nachvollziehbar?
+- Wie werden Datenschutz, Geheimnisschutz und Löschpflichten berücksichtigt?
+- Können Off-label-Nutzungen erkannt werden?
 
-## Sonderfall: Grundrechte-Folgenabschätzung (Art. 27 KI-VO)
+## Pflicht 5 — Überwachung, Meldung und Unterbrechung
 
-### Wer muss die Folgenabschätzung durchführen?
+Betreiber müssen bei ernsthaften Risiken, Fehlfunktionen oder schwerwiegenden Vorfällen reagieren und ggf. Anbieter sowie Behörden informieren.
 
-Eine Grundrechte-Folgenabschätzung ist verpflichtend für:
-- Öffentliche Stellen, die Hochrisiko-KI einsetzen
-- Privatunternehmen, die Hochrisiko-KI für öffentlich zugängliche Dienstleistungen einsetzen, wenn diese Dienste Bank- oder Kreditdienstleistungen, Versicherungsdienstleistungen, Bildungsleistungen oder Beschäftigungsvermittlung umfassen
+Prüffragen:
+- Gibt es ein Verfahren für Incidents und Near Misses?
+- Wer entscheidet über Pausierung des Systems?
+- Werden Outputs korrigiert, zurückgenommen oder betroffene Personen informiert?
+- Ist `marktueberwachung-meldung-vorfaelle-art-72-bis-79` einzuschalten?
 
-### Inhalt der Folgenabschätzung (Art. 27 Abs. 1 KI-VO)
+## Pflicht 6 — Informationspflicht gegenüber Betroffenen
 
-Die Folgenabschätzung muss umfassen:
-- Beschreibung des KI-Systems und seines Verwendungszwecks
-- Betroffene Gebiete und Bevölkerungsgruppen
-- Identifizierung der relevanten Grundrechte, die betroffen sein können
-- Bewertung möglicher negativer Auswirkungen auf Grundrechte
-- Risikominderungsmaßnahmen
+Wenn ein Hochrisiko-KI-System für Entscheidungen gegenüber natürlichen Personen eingesetzt wird, ist transparent zu machen, dass KI beteiligt ist, soweit dies nicht ohnehin offensichtlich ist oder spezieller geregelt ist.
 
-### Verhältnis zur DSGVO-Datenschutz-Folgenabschätzung
+Prüffragen:
+- Wer ist betroffen?
+- Welche Entscheidung oder Vorbereitung wird beeinflusst?
+- Welche Information erhält die Person?
+- Gibt es Rechte auf Auskunft, menschliche Überprüfung oder Beschwerde nach KI-VO, DSGVO oder Fachrecht?
 
-Die KI-VO-Folgenabschätzung nach Art. 27 und die DSGVO-Datenschutz-Folgenabschätzung nach Art. 35 DSGVO können kombiniert durchgeführt werden, sind aber nicht identisch. → `output-betreiber-checkliste-und-folgenabschaetzung`
+## Grundrechte-Folgenabschätzung — Art. 27 KI-VO
 
----
+Prüfe Art. 27 insbesondere bei:
+- öffentlichen Stellen
+- privaten Betreibern, soweit sie Hochrisiko-KI für bestimmte wesentliche Dienste einsetzen
+- Konstellationen mit Beschäftigung, Bildung, Kredit, Versicherung, Sozialleistungen, Justiznähe oder sonstiger Machtasymmetrie
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Inhalt:
+- Beschreibung des Systems und Zwecks
+- betroffene Personen/Gruppen
+- Nutzungsfrequenz und Dauer
+- Risiken für Grundrechte
+- menschliche Aufsicht und Abhilfemaßnahmen
+- Daten- und Governance-Konzept
+- Verbindung zur DSGVO-Datenschutz-Folgenabschätzung
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+## Output-Template — Betreiber-Compliance-Check
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+```text
+BETREIBER-COMPLIANCE-CHECK ART. 26/27 KI-VO
+Datum: [DATUM]
+System: [NAME]
+Betreiber: [NAME]
+Risikoklasse: [HOCHRISIKO / UNKLAR / ALLGEMEINES GPAI-SYSTEM]
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 26 Rn. 5: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+1. Zweck und Gebrauchsanweisung
+[Anbieterzweck, interner Zweck, Abweichungen]
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+2. Off-label-/Fehlgebrauchsrisiko
+[isolierter Verstoß / vorhersehbarer Fehlgebrauch / geduldete Hochrisiko-Nutzung / Zweckänderung]
+[Maßnahmen: Richtlinie, Schulung, Sperren, Logging, Freigabe]
 
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+3. Art. 26-Pflichten
+- bestimmungsgemäße Verwendung: [...]
+- menschliche Aufsicht: [...]
+- Eingabedaten: [...]
+- Protokolle: [...]
+- Überwachung/Vorfälle: [...]
+- Information Betroffener: [...]
+
+4. Art. 27 Grundrechte-Folgenabschätzung
+[erforderlich / nicht erforderlich / offen]
+[Begründung]
+
+5. Anbieterwerden Art. 25
+[Risiko ja/nein/offen]
+
+6. Nächste Skills
+[hochrisiko-art-6-abs-2-anhang-iii / anbieter-werden-art-25 / output-betreiber-checkliste-und-folgenabschaetzung / marktueberwachung-meldung-vorfaelle-art-72-bis-79]
 ```
-PRUEFERGEBNIS — BETREIBER DEPLOYER PFLICHTEN ART 26
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 26 Rn. 5]
+## Quellen- und Aktualitätshinweis
 
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
+Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 4, Nr. 12, Nr. 13 und Nr. 23, Art. 4, Art. 25, Art. 26 und Art. 27 KI-VO. Keine Rechtsberatung.

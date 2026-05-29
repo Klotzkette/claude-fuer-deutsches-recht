@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung
-description: "Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegruendung Vergleichsbereitschaft Gericht."
+description: "Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht."
 ---
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
@@ -13,15 +13,12 @@ description: "Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Be
 5. Bei Unterlaufen der Monatsfrist: Wiedereinsetzung (§ 67 SGG) möglich?
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 12.09.2018 - B 9 SB 2/17 R, SozR 4-3250 § 69 Nr. 25 Rn. 14 — Mündliche Verhandlung im Sozialgerichtsverfahren (§ 124 SGG): Recht des Klägers auf mündliche Verhandlung ist grundsätzlich nicht verzichtbar; Entscheidung ohne mündliche Verhandlung nur mit Einverständnis beider Parteien (§ 124 Abs. 2 SGG).
-- BSG, Urt. v. 14.06.2018 - B 9 SB 4/16 R, SozR 4-3250 § 69 Nr. 22 Rn. 16 — Gutachten auf Antrag (§ 109 SGG): Kläger hat Recht auf Einholung eines Gutachtens durch Arzt des Vertrauens; Ablehnung nur bei Verschleppung oder fehlender Qualifikation; Kosten trägt vorläufig der Kläger.
-- BSG, Urt. v. 19.09.2019 - B 4 AS 45/18 R, SozR 4-4200 § 22 Nr. 106 Rn. 18 — Untätigkeitsklage (§ 88 SGG): nach 3 Monaten ohne Widerspruchsbescheid kann Klage ohne Widerspruchsbescheid erhoben werden; Frist beginnt mit Zugang des Widerspruchs bei der Behörde.
-- BSG, Beschl. v. 11.07.2017 - B 9 SB 70/17 B, BeckRS 2017, 123451 Rn. 11 — Wiedereinsetzung (§ 67 SGG): Verschulden des Bevollmächtigten ist dem Mandanten zuzurechnen; nur bei nachweislich unverschuldeter Fristversäumnis möglich; strenge Anforderungen wie bei § 233 ZPO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Kommentarliteratur
-- Kasseler Kommentar SGG §§ 87-88, 101, 109 (Klagefrist, Untätigkeitsklage, Vergleich, Gutachten)
-- Hauck/Noftz SGG § 67 (Wiedereinsetzung in den vorigen Stand)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. In welchem Verfahrensstand befindet sich das Mandat (Widerspruchsverfahren, Klage anhängig, Termin beim SG schon anberaumt)?
@@ -55,10 +52,10 @@ description: "Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Be
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| GS 1/95 | BSG, 19.12.1996 | Vergleich im sozialgerichtlichen Verfahren; Wirksamkeitsvoraussetzungen |
-| B 9 SB 5/10 R | BSG, 29.03.2012 | GdB-Vergleich; Bindungswirkung und Abänderungsklausel |
-| B 3 KR 23/13 R | BSG, 24.04.2014 | Medizinisches Gutachten § 109 SGG; Beweismittelverwertung |
-| B 14 AS 55/12 R | BSG, 30.04.2014 | Untätigkeitsklage § 88 SGG; Fristen und Voraussetzungen |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -304,4 +301,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. SGG §§ 84, 85, 86b, 87, 88, 101, 109, 75, 183, 193, 199. SGB X §§ 44, 48. BSG GS 1/95. BSG B 9 SB 5/10 R (29.03.2012). BSG B 3 KR 23/13 R (24.04.2014). BSG B 14 AS 55/12 R (30.04.2014). DGFM-Standards Sozialrechtsmediation.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

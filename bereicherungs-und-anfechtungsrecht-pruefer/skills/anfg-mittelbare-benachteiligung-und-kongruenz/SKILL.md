@@ -1,6 +1,6 @@
 ---
 name: anfg-mittelbare-benachteiligung-und-kongruenz
-description: "Kongruente und inkongruente Deckung sowie mittelbare Glaeubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Pruefraster: unmittelbar vs. mittelbar benuenstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmoeglichkeit. Output: Pruefliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzpruefung §§ 130 131 InsO."
+description: "Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmöglichkeit. Output: Prüfliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzprüfung §§ 130 131 InsO."
 ---
 
 # Mittelbare Benachteiligung und Kongruenz — AnfG
@@ -21,15 +21,11 @@ description: "Kongruente und inkongruente Deckung sowie mittelbare Glaeubigerben
 
 ## Rechtsprechung (BGH — Benachteiligung und Kongruenz)
 
-- BGH, Urt. v. 06.04.2017 - IX ZR 300/15, NJW 2017, 2095 — Zur inkongruenten Deckung als Indiz für Benachteiligungsvorsatz: inkongruente Leistung begründet starke Vermutung für Vorsatz des Schuldners und Kenntnis des Empfängers.
-- BGH, Urt. v. 21.01.2016 - IX ZR 32/14, NJW-RR 2016, 430 — Zahlungsunfähigkeit und Benachteiligungsvorsatz bei Steuerzahlungen unter Vollstreckungsdruck (§ 133 Abs. 1 InsO); Indizien für Zahlungseinstellung und Kenntnis des Gläubigers.
-- BGH, Urt. v. 08.12.2016 - IX ZR 37/14, NJW 2017, 554 — Zur mittelbaren Benachteiligung durch Erlösverwendung: Veräußerung zu Marktpreis schließt Benachteiligung nicht aus wenn Erlös dem Schuldnervermögen nicht zugeführt wird.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 1 AnfG Rn. 1 ff. (Benachteiligungsbegriff)
-- Uhlenbruck InsO § 3 AnfG Rn. 1 ff. (Kongruenz und Inkongruenz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gläubigerbenachteiligung als Voraussetzung
 
 Alle Anfechtungstatbestände des AnfG setzen voraus, dass Gläubiger durch die Rechtshandlung benachteiligt werden. Unterschieden wird zwischen unmittelbarer und mittelbarer Benachteiligung.
@@ -70,10 +66,3 @@ Die Benachteiligung tritt erst durch das Hinzutreten weiterer Umstände ein.
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- BGH IX ZR 234/19: ersatzlos entfernt (WRONG_TOPIC/NOT_FOUND: Entscheidung auf dejure.org mit Datum 10.06.2021 nicht gefunden; V ZR 234/19 existiert bei anderem Senat mit anderem Thema; Quelle: dejure.org)
-- BGH IX ZR 32/14: ersetzt durch korrektes Datum und korrekte Fundstelle (alt: 18.12.2014, NJW 2015, 897, Thema kongruente Deckung § 130 InsO; neu: 21.01.2016, NJW-RR 2016, 430, Thema § 133 InsO Vorsatzanfechtung/Steuerzahlungen unter Vollstreckungsdruck; Quelle: dejure.org)

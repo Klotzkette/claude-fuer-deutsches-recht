@@ -48,22 +48,17 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 17.02.2011 – IX ZR 198/09, NJW 2011, 1594 Rn. 15
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
   Geheimnisbruch durch Anwalt; § 43a BRAO)
-- BGH, Urt. v. 03.05.2007 – IX ZR 218/05, BGHZ 172, 199 Rn. 22
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
-- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, BVerfGE 113, 29 Rn. 84
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Henssler, in: Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 (Verschwiegenheitspflicht)
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 50 Rn. 10 (Handakten und Aufbewahrung; Einzelautoren-Kommentar)
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, Einl. vor § 611 Rn. 20
-  (Anwaltsvertrag; Pflichten im Dienstleistungsverhältnis)
-- Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.09.2024), § 43a Rn. 55
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Unterbefehle
@@ -122,15 +117,15 @@ Bestätigung einholen.
    - **Vertraulichkeitsstufe** (Standard / erhöht / Clean-Team)
    - **Schlüsselfakten** (2–5 Sätze: Gegenstand, Beteiligte, Besonderheiten
      gegenüber Standardplaybook)
-   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. „Mandant besteht
+   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant besteht
      auf 24 Monate Haftungsdeckel statt 12; kooperativer Ton, da strategische
      Partnerschaft")
    - **Verwandte Mandate** (Kürzel verbundener Mandate)
 3. `mandate/<kuerzel>/mandat.md` nach Vorlage unten schreiben.
-4. `mandate/<kuerzel>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
+4. `mandate/<kuerzel>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<kuerzel>/notizen.md` erstellen.
 6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen:
-   „Möchten Sie jetzt zu `<kuerzel>` wechseln?"
+   "Möchten Sie jetzt zu `<kuerzel>` wechseln?"
 
 ### Unterbefehl-Logik: `liste`
 
@@ -141,7 +136,7 @@ Tabelle ausgeben:
 |---|---|---|---|---|---|
 
 Aktives Mandat mit `*` markieren. Archivierte Mandate unter
-„Archivierte Mandate" separat aufführen.
+"Archivierte Mandate" separat aufführen.
 
 ### Unterbefehl-Logik: `wechseln <kuerzel>`
 
@@ -199,10 +194,10 @@ Besonderheiten gegenüber dem Standard-Playbook.]
 
 *Jede Abweichung vom kanzleiweiten Playbook, die nur dieses Mandat betrifft.*
 
-- [z. B. „Haftungsobergrenze: Mandant besteht auf 24 Monate, nicht
+- [z. B. "Haftungsobergrenze: Mandant besteht auf 24 Monate, nicht
   Kanzleistandard 12."]
-- [z. B. „Ton: beziehungserhaltend — Gegenpartei ist strategischer Partner."]
-- [z. B. „Gerichtsstand: muss München sein."]
+- [z. B. "Ton: beziehungserhaltend — Gegenpartei ist strategischer Partner."]
+- [z. B. "Gerichtsstand: muss München sein."]
 
 ## Verwandte Mandate
 
@@ -226,7 +221,7 @@ Append-only Ereignisprotokoll. Aktuellster Eintrag oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Kürzel: `[kürzel]`. Status: aktiv.
-[Anfangskontext — z. B. „Eröffnet auf eingehenden MSA-Entwurf von
+[Anfangskontext — z. B. "Eröffnet auf eingehenden MSA-Entwurf von
 [Gegenpartei]."]
 ```
 
@@ -275,7 +270,7 @@ Kurzaufnahme ergibt:
   datenschutzkritische Komponenten
 
 Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
-„Gewährleistung: kein Verjährungsverkürzung für Datenschutz-Komponenten."
+"Gewährleistung: kein Verjährungsverkürzung für Datenschutz-Komponenten."
 
 ## Risiken und typische Fehler
 
@@ -294,15 +289,14 @@ Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 
 Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
 - § 43a Abs. 2 BRAO (Verschwiegenheit), § 50 BRAO (Handakten)
-- BGH, Urt. v. 17.02.2011 – IX ZR 198/09, NJW 2011, 1594
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 196/97 (behauptetes Thema: Interessenkonflikt, Honorarvereinbarung, NJW 1998 2048) — NOT_FOUND/WRONG: BGH IX ZR 196/97 (17.12.1998) existiert (NJW 1999 1395), betrifft aber internationales Gläubigeranfechtungsrecht; kein Bezug zu Interessenkonflikt. NJW 1998 2048 gehört zu BGH IX ZR 107/97 (Anwaltshaftung/Sachverhaltsaufklärung), ebenfalls kein Bezug zum behaupteten Thema. Eintrag gelöscht.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.1998&Aktenzeichen=IX+ZR+196%2F97
 Bundle: bundle_047.json
 -->

@@ -1,6 +1,6 @@
 ---
 name: zv-tabellenauszug-201-inso
-description: "Glaeubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Pruefraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter."
+description: "Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter."
 ---
 
 # Vollstreckung aus Tabellenauszug § 201 InsO
@@ -27,7 +27,7 @@ Der vollstreckbare Tabellenauszug ist ein eigener Titel (§ 201 Abs. 2 Satz 1 In
 
 ## Workflow
 
-1. **Tabellenauszug prüfen**: Ist die Forderung mit dem Vermerk „festgestellt" eingetragen, nicht „bestritten"? Bestreitet der Insolvenzverwalter, aber nicht der Schuldner – Titel gegen Schuldner trotzdem entstanden.
+1. **Tabellenauszug prüfen**: Ist die Forderung mit dem Vermerk "festgestellt" eingetragen, nicht "bestritten"? Bestreitet der Insolvenzverwalter, aber nicht der Schuldner – Titel gegen Schuldner trotzdem entstanden.
 2. **Verfahrensstand**: Verfahren aufgehoben/eingestellt? Vollstreckung erst danach zulässig (§ 89 InsO greift bis dahin).
 3. **Restschuldbefreiung**:
    - **Nicht erteilt** (versagt oder Verfahren nach IK-Plan): freie Vollstreckung.
@@ -42,7 +42,7 @@ Der vollstreckbare Tabellenauszug ist ein eigener Titel (§ 201 Abs. 2 Satz 1 In
 
 § 302 InsO listet die nicht erfassten Forderungen:
 
-1. Deliktische Forderungen aus vorsätzlich unerlaubter Handlung – **Eintragung mit Vermerk „aus vorsätzlich begangener unerlaubter Handlung"** ist Voraussetzung.
+1. Deliktische Forderungen aus vorsätzlich unerlaubter Handlung – **Eintragung mit Vermerk "aus vorsätzlich begangener unerlaubter Handlung"** ist Voraussetzung.
 2. Geldstrafen, Geldbußen, Ordnungs- und Zwangsgelder.
 3. Hinterzogene Steuern, sofern Verurteilung.
 4. Pflichtwidrige Unterhaltsforderungen.
@@ -52,10 +52,10 @@ Nur diese Forderungen lassen sich nach Restschuldbefreiung weiterhin vollstrecke
 
 ## Leitentscheidungen
 
-- BGH 18.5.2006 – IX ZR 187/04 (Wirkung der Feststellung)
-- BGH 13.10.2009 – XI ZR 18/09 (Verjährung § 197 Abs. 1 Nr. 5 BGB)
-- BGH 17.1.2008 – IX ZR 220/06 (§ 302 InsO Eintragungserfordernis)
-- BGH 18.12.2008 – IX ZR 124/08 (Forderung aus Tabelle nach Restschuldbefreiung)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -89,5 +89,3 @@ NÄCHSTER SKILL:        [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 - `zv-titel-klausel-zustellung`
 - `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
 - `zv-abwehr-schuldner` – Vollstreckungsgegenklage nach Restschuldbefreiung
-
-<!-- AUDIT 27.05.2026: BGH IX ZR 144/16 aus "Leitentscheidungen" entfernt — WRONG_TOPIC. Auf dejure.org verifiziert: BGH 18.01.2018 – IX ZR 144/16 betrifft Insolvenzanfechtung und Kenntnis des Gläubigers von der Zahlungseinstellung (§ 133 InsO; NJW-RR 2018, 432) — kein Bezug zu "Zinsen aus Tabellenauszug". Außerdem war das im Skill genannte Datum 28.09.2017 falsch (korrekt: 18.01.2018). Streichung wegen falschen Themas. -->

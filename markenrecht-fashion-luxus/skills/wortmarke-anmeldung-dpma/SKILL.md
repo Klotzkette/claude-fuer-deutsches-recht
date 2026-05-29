@@ -1,6 +1,6 @@
 ---
 name: wortmarke-anmeldung-dpma
-description: "DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schuetzen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebeduerftigkeit, beschreibende Angaben). Pruefraster: Unterscheidungskraft, Freihaltebeduerftigkeit, Erinnerung gegen Zurueckweisung, BPatG-Beschwerde § 66 MarkenG. Output Anmeldeunterlagen, Waren-/Dienstleistungsverzeichnis, Pruefungsbescheid-Antwort-Entwurf. Abgrenzung: EU-weite Marke siehe unionsmarken-anmeldung-euipo; Bildmarke siehe bildmarke-und-wort-bild."
+description: "DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angaben). Prüfraster: Unterscheidungskraft, Freihaltebedürftigkeit, Erinnerung gegen Zurückweisung, BPatG-Beschwerde § 66 MarkenG. Output Anmeldeunterlagen, Waren-/Dienstleistungsverzeichnis, Prüfungsbescheid-Antwort-Entwurf. Abgrenzung: EU-weite Marke siehe unionsmarken-anmeldung-euipo; Bildmarke siehe bildmarke-und-wort-bild."
 ---
 
 # Wortmarken-Anmeldung beim DPMA
@@ -22,14 +22,14 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 - **§§ 57-62 MarkenG:** Erinnerungsverfahren vor der Markenstelle
 - **§§ 66-68 MarkenG:** Beschwerde zum BPatG
 - **§ 83 MarkenG:** Rechtsbeschwerde zum BGH
-- **EuGH-Maßstab:** EuGH C-383/99 P (Baby-Dry) — bei Wortmarken ist Unterscheidungskraft großzügig zu beurteilen; aber EuGH C-191/01 P (Doublemint) schärft: keine Phantasiefärbung bei rein beschreibenden Angaben
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
 1. **Zeichenwahl und Vorabrecherche:**
    - DPMA-Markenrecherche (Datenbank DPMAregister)
    - EUIPO eSearch plus (für EU-Kontext)
-   - Phonetische Äquivalente prüfen (klôtzzkètté — ausgesprochen „klotz-ket-té")
+   - Phonetische Äquivalente prüfen (klôtzzkètté — ausgesprochen "klotz-ket-té")
    - Lexika und Warenlexika prüfen: Ist das Zeichen im Deutschen, Englischen, Französischen, Italienischen oder Spanischen beschreibend?
 
 2. **Anmeldeformular (DPMA):**
@@ -65,26 +65,22 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: „klôtzzkètté" — Unterscheidungskraft?
-Das DPMA beanstandet: Der Begriff „Klotz-Kette" beschreibe im Deutschen einen Gegenstand (Schmuckkette aus Klötzen) und sei für Klasse 14 nicht unterscheidungskräftig. Gegenargumentation: Das Zeichen ist bewusst fremdartig geschrieben (Zirkumflex, Grave-Akzent), evoziert ein italo-französisches Luxuslabel und ist gerade kein deutsches Allerweltwort. Vgl. EuGH C-383/99 P (Baby-Dry): Ungewöhnliche Kombination kann Unterscheidungskraft begründen. Zusätzlich: Nachweis von 3 Jahren Marktpräsenz, Presseberichte, Haute-Couture-Showroom-Daten.
+### Konstellation 1: "klôtzzkètté" — Unterscheidungskraft?
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Konstellation 2: „ATELIER DE LUXE" — fehlende Unterscheidungskraft
-klôtzzkètté möchte den Slogan „ATELIER DE LUXE" als Wortmarke schützen. Prognose: Klare Zurückweisung nach § 8 II Nr. 2 und Nr. 3 MarkenG — beschreibt unmittelbar das Tätigkeitsfeld. Empfehlung: Als Slogan-Marke gestalten (vgl. Skill `slogan-marke`) oder auf Bildmarke ausweichen.
+### Konstellation 2: "ATELIER DE LUXE" — fehlende Unterscheidungskraft
+klôtzzkètté möchte den Slogan "ATELIER DE LUXE" als Wortmarke schützen. Prognose: Klare Zurückweisung nach § 8 II Nr. 2 und Nr. 3 MarkenG — beschreibt unmittelbar das Tätigkeitsfeld. Empfehlung: Als Slogan-Marke gestalten (vgl. Skill `slogan-marke`) oder auf Bildmarke ausweichen.
 
-### Konstellation 3: „KLOTZ" allein — Kurzmarke
-Kurzmarken sind nach BGH I ZB 48/07 (POST II) schwer zu schützen, wenn sie beschreibend wirken können. „KLOTZ" ist für Klasse 25 nicht selbst beschreibend — aber phonetisch nah an „KLOTZE" (Schuhwerk). Verteidigungslinie: Fantasy-Element, kein erkennbarer Sachbezug zu Bekleidung oder Schmuck.
+### Konstellation 3: "KLOTZ" allein — Kurzmarke
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 8 Rn. 1-800 (umfassend)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 8 Rn. 1 ff.
-- BeckOK MarkenR, § 8 MarkenG Rn. 50 ff. (Unterscheidungskraft)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Fezer, Markenrecht, 4. Aufl. 2009, § 8 Rn. 1 ff.
-- BGH, Beschl. v. 24.06.2010 — I ZB 115/08 (TOOOR!) — Wortmarke mit Ausrufezeichen
-- BGH, Beschl. v. 15.01.2009 — I ZB 30/06 (STREETBALL) — sportbeschreibend
-- EuGH, Urt. v. 20.09.2001 — C-383/99 P (Baby-Dry) — Unterscheidungskraft Kombination
-- EuGH, Urt. v. 12.02.2004 — C-363/99 (Postkantoor) — Beschreibendheit Wortverbindungen
-- EuGH, Urt. v. 12.02.2004 — C-265/00 (Campina Melkunie / Biomild) — „bio" beschreibend
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -118,7 +114,7 @@ RA'in [Name], Partnerin
 ```
 
 ### Warenverzeichnis-Einschränkung (Kompromissformel)
-Statt „Bekleidungsstücke" → „Bekleidungsstücke, nämlich Oberbekleidung der Luxus- und Haute-Couture-Kategorie" (nur wenn strategisch sinnvoll — Benutzungsgefahr bei zu engen Verzeichnissen beachten).
+Statt "Bekleidungsstücke" → "Bekleidungsstücke, nämlich Oberbekleidung der Luxus- und Haute-Couture-Kategorie" (nur wenn strategisch sinnvoll — Benutzungsgefahr bei zu engen Verzeichnissen beachten).
 
 ## Verweise auf andere Skills
 
@@ -145,9 +141,9 @@ Bevor die Anmeldung erfolgt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 12.02.2004 — C-265/00 (Campina Melkunie / Biomild):** Woerter, die aus einer Kombination von beschreibenden Bestandteilen bestehen, sind von der Eintragung ausgeschlossen, es sei denn, dass der Begriff in seiner Gesamtheit einen anderen Eindruck ergibt als die bloss arithmetische Summe seiner Bestandteile.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 13.03.2008 — I ZB 53/05 (SPA II):** Zur Bestimmung der Unterscheidungskraft ist nicht allein der Wortlaut massgeblich, sondern auch die Branchenkenntnis und der Wahrnehmungshorizont der massgeblichen Verkehrskreise; bei Luxuswaren ist das Publikum markenaffiner und unterscheidungssensitiver als beim allgemeinen Massenmarkt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Audit-Hinweis (27.05.2026)
 

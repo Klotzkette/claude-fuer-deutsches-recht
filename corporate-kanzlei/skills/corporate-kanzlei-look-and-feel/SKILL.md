@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-look-and-feel
-description: "Corporate-Cowork-Design: Definiert die visuelle Oberflaeche fuer Partner, Counsel und Associates. Ruhig, edel, blaeulich-silbern; Orange fuer Entscheidungspunkte. Statuskarten, Ampeln und dichte Deal-Information statt Marketing. Keine Spielerei, keine Dekoration."
+description: "Corporate-Cowork-Design: Definiert die visuelle Oberflaeche für Partner, Counsel und Associates. Ruhig, edel, blaeulich-silbern; Orange für Entscheidungspunkte. Statuskarten, Ampeln und dichte Deal-Information statt Marketing. Keine Spielerei, keine Dekoration."
 ---
 
 # Corporate-Cowork-Look — Design und Ausgabestandard

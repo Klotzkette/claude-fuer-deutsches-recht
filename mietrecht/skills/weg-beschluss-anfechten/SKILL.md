@@ -1,6 +1,6 @@
 ---
 name: weg-beschluss-anfechten
-description: Pruefraster fuer die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Pruefung formelle Maengel (Ladung Tagesordnung Beschlussfaehigkeit Mehrheit Stimmrechtsausschluesse) und materielle Maengel (kein Beschlusszustand ordnungsmaessige Verwaltung Treu und Glauben). Klagefrist ein Monat ab Beschluss § 45 WEG. Verwaltungsbeirats-Pruefung Verwaltervertrag Sondereigentum vs. Gemeinschaftseigentum Bauliche Veraenderung § 20 WEG Hausgeld § 16 Abs. 2 WEG.
+description: Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung Tagesordnung Beschlussfähigkeit Mehrheit Stimmrechtsausschluesse) und materielle Maengel (kein Beschlusszustand ordnungsmäßige Verwaltung Treu und Glauben). Klagefrist ein Monat ab Beschluss § 45 WEG. Verwaltungsbeirats-Prüfung Verwaltervertrag Sondereigentum vs. Gemeinschaftseigentum Bauliche Veraenderung § 20 WEG Hausgeld § 16 Abs. 2 WEG.
 ---
 
 # WEG-Beschluss anfechten
@@ -186,17 +186,9 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 08.02.2023 — V ZR 8/22, NJW 2023, 2118 Rn. 22: Seit der WEG-Reform 2020 (WEMoG) ist alleiniger Klagegegner die Gemeinschaft der Wohnungseigentuemer nach § 9a WEG; Klagen gegen einzelne Miteigentuemer sind unzulaessig.
-<!-- AUDIT 27.05.2026: V ZR 69/21 (WRONG_TOPIC: Urteil betrifft Gebaeudeversicherung/Selbstbehalt, nicht Anfechtungsfrist WEG) geloescht; V ZR 68/22 (NOT_FOUND bei dejure.org) geloescht. -->
-- BGH, Urt. v. 15.09.2023 — V ZR 77/22, NJW 2023, 3511 Rn. 18: Beschlussersetzungsklage nach § 44 Abs. 1 Satz 2 WEG ist nur bei nachgewiesenem Anspruch auf den bestimmten Beschlussinhalt erfolgreich; Gericht substituiert Eigentuemerversammlung nicht frei.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur (ergaenzend)
+## Quellenregel
 
-- Baermann, WEG, 15. Aufl. — §§ 44, 45 Rn. 1 ff. Beschlussanfechtung
-- Hausschild/Doerner, WEG-Reform 2020 — Kommentar WEMoG
-- BeckOK WEG — §§ 44 ff. Beschlussklage
-
-
----
-
-<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

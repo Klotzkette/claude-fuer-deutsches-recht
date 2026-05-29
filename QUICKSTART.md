@@ -6,7 +6,7 @@ Diese Anleitung führt in 5 Minuten zur ersten produktiven Nutzung der Plugins i
 
 - Claude Code ≥ 1.0 oder Claude Desktop ≥ 0.7.
 - Optional: ein lokaler Mandats-/Aktenordner.
-- Optional: Zugang zu Beck-Online, juris, NJW-Online, OAJG für aktuelle Fundstellen.
+- Optional: Zugang zu amtlichen oder frei zugänglichen Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang für aktuelle Fundstellen.
 
 ## 2. Installation
 
@@ -86,7 +86,7 @@ mit Hinweis auf §§ 29 BDSG, 5 GeschGehG.
 - **Frist zuerst prüfen.** Jeder Skill, der eine Klage/Anfechtung/Berufung berührt, beginnt mit Fristprüfung.
 - **Streitwert berechnen.** Skill `streitwert` (in `prozessrecht`) liefert RVG/GKG-Tabellenauszüge.
 - **Vorlagen anpassen.** Die SKILL.md-Dateien sind Markdown – frei editierbar. Eigene Kanzleilogik gerne in `kanzlei-builder-hub` ergänzen.
-- **Quellen verifizieren.** Auch der beste Skill kann Aktenzeichen halluzinieren – immer in Beck-Online/juris gegenchecken.
+- **Quellen verifizieren.** Auch der beste Skill kann Aktenzeichen halluzinieren – immer in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang gegenchecken.
 
 ## 7. Troubleshooting
 

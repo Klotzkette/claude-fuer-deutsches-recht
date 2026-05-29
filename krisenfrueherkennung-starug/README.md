@@ -57,9 +57,9 @@ Dieses Plugin bietet kanzleitaugliche Werkzeuge für Geschäftsführer, Restrukt
 | Skill | Thema |
 |---|---|
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Volltext-Auslegung, 24-Monats-Planungshorizont, Abgrenzung § 18 InsO |
-| `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | Hinweis- und Warnpflicht für StB/WP/RA, Haftungsfalle, BGH IX ZR 285/14 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` | Persönliche Haftung, Business Judgment Rule in der Krise, Beweislastumkehr |
-| `pflichtenkollision-und-shift-of-fiduciary-duties` | Wandel GF-Pflichten zum Gläubigerinteresse, EuGH C-594/14 Kornhaas |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ### Block B — 24-Monats-Frühwarnsystem aufbauen
 
@@ -110,10 +110,7 @@ Alle in diesem Plugin verwendeten Personen, Kanzleinamen und Mandantennamen sind
 - §§ 15a, 17, 18, 19 InsO
 - § 43 GmbHG
 - § 93 AktG
-- BGH IX ZR 285/14 (Sanierungsberater-Haftung)
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264)
-- BGH II ZR 234/17
-- EuGH C-594/14 Kornhaas
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzepte)
 - IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen)
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)

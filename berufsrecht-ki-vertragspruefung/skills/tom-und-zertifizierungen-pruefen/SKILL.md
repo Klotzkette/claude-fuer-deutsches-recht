@@ -1,6 +1,6 @@
 ---
 name: tom-und-zertifizierungen-pruefen
-description: "Pruefe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral fuer Berufsrecht no training Zero-Retention EU-Hosting Verschluesselung Loeschkonzept Audit-Recht. DAV-Stellungnahme Seite dreizehn vierzehn."
+description: "Prüfe technische und organisatorische Massnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für Berufsrecht no training Zero-Retention EU-Hosting Verschluesselung Löschkonzept Audit-Recht. DAV-Stellungnahme Seite dreizehn vierzehn."
 ---
 
 # TOM und Zertifizierungen prüfen
@@ -116,10 +116,8 @@ Tabellarische Bewertung. Defizite landen im Rückfragebrief mit der Aufforderung
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 685 Rn. 55–79: Technische und organisatorische Maßnahmen nach Art. 32 DSGVO müssen tatsächlich wirksam sein; unzureichende TOMs begründen keine automatische Haftung nach Art. 82 DSGVO, aber sie sind ein starkes Indiz für Pflichtverletzung.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21, NJW 2022, 334 Rn. 22: Schadensersatzpflicht bei mangelnden TOMs nach Art. 32 DSGVO; Zertifizierungen (ISO 27001) erhöhen Beweislastchancen des Verantwortlichen erheblich.
-- LG München I, Urt. v. 09.12.2021 — 31 O 16606/20, ZD 2022, 115 Rn. 18: Zum Zusammenhang zwischen unzureichenden TOMs und Schadensersatzpflicht nach Art. 82 DSGVO; fehlende Verschlüsselung trotz sensiblen Datenmaterials ist Pflichtverletzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -127,11 +125,9 @@ Tabellarische Bewertung. Defizite landen im Rückfragebrief mit der Aufforderung
 - Art. 28 Abs. 3 lit. c DSGVO — TOM-Anlage als Pflichtbestandteil der AVV
 - Art. 83 Abs. 4 DSGVO — Bußgeld bei Verstoß gegen Art. 32: bis 10 Mio. EUR oder 2 %
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bergt, in: Kühling/Buchner DSGVO/BDSG, 4. Aufl. 2024, Art. 32 DSGVO Rn. 1–60: Umfassend zu den Anforderungen an TOMs; Bezug auf BSI-Grundschutz, ISO 27001, BSI C5; Stand der Technik.
-- DAV-Stellungnahme Nr. 32/2025, S. 13–14: Zu den TOM-Anforderungen bei KI-Anbietern; ISO 27001 und BSI C5 Typ 2 als Mindeststandards; no-training und Zero-Retention als berufsrechtlich relevante TOMs.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Liegt eine aktuelle TOM-Anlage (mit Datum) zum Vertrag vor?

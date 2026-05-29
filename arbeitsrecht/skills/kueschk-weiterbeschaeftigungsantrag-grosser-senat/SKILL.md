@@ -9,9 +9,9 @@ description: "Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985: Vorausset
 
 Neben den Feststellungsanträgen kann der klagende Arbeitnehmer einen **Antrag auf tatsächliche Weiterbeschäftigung** stellen. Dieser Anspruch ist in der Rechtsprechung des Großen Senats des BAG entwickelt worden und in der Praxis wichtig — birgt aber auch Risiken.
 
-## Grundlage: BAG GS, Beschl. v. 27.02.1985 — GS 1/84
+## Rechtsprechung live prüfen
 
-Der Große Senat des BAG hat in seiner Grundsatzentscheidung vom 27. Februar 1985 (BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122) anerkannt, dass ein Arbeitnehmer aus §§ 611 BGB, 242 BGB i.V.m. Art. 1 und 2 GG einen Anspruch auf tatsächliche Beschäftigung hat.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernaussage des Großen Senats:**
 Das Interesse des Arbeitnehmers an tatsächlicher Beschäftigung überwiegt in der Regel das Interesse des Arbeitgebers an der Nichtbeschäftigung, wenn:
@@ -36,23 +36,19 @@ Das Interesse des Arbeitnehmers an tatsächlicher Beschäftigung überwiegt in d
 **Entscheidungsbaum Weiterbeschaeftigungsantrag:**
 ```
 BR-Widerspruch vorhanden? → § 102 Abs. 5 BetrVG (sofort ab Klage, ohne Ersturteil)
-Erstinstanzlich gewonnen? → BAG GS 1/84 (allgemeiner WBA nach § 611 BGB i.V.m. § 242 BGB)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rueckkehr nicht gewünscht? → Kein WBA stellen; § 12 KSchG oder Vergleich prüfen
 Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
 ```
 
 ## Aktuelle Rechtsprechung
 
-- BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Der Große Senat des BAG anerkennt den allgemeinen Weiterbeschaeftigungsanspruch aus §§ 611, 242 BGB i.V.m. Art. 1, 2 GG; er entsteht nach erstinstanzlichem Obsiegen und erlischt, wenn der Arbeitgeber überwiegende schutzwürdige Interessen darlegt.
-- BAG, Urt. v. 25.10.2012 – 2 AZR 700/11, NZA 2013, 733 — Der Weiterbeschaeftigungsanspruch nach BAG GS 1/84 besteht nicht automatisch; der Arbeitnehmer muss konkrete Umstände vortragen, die das Beschaeftigungsinteresse begründen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 611 BGB/§ 242 BGB Rn. 5 ff. — (Weiterbeschaeftigungsanspruch, BAG GS 1/84)
-- Fitting, BetrVG, 31. Aufl. 2022, § 102 Rn. 90-110 — (§ 102 Abs. 5 BetrVG, Widerspruch, gesetzlicher WBA)
-- KR/Friedrich, 13. Aufl. 2022, § 611 BGB Rn. 1 ff. — (Allgemeiner WBA, Überblick Rechtsprechung nach 1985)
-- Schaub/Linck, ArbeitsR-HdB, 20. Aufl. 2023, § 140 Rn. 1 ff. — (Weiterbeschaeftigung, Vollstreckung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Unterschied: § 102 Abs. 5 BetrVG
 
 Besteht ein Betriebsrat und hat er der Kündigung ordnungsgemäß widersprochen, hat der Arbeitnehmer nach § 102 Abs. 5 BetrVG einen gesetzlichen Weiterbeschäftigungsanspruch — **sofort ab Klageerhebung**, ohne dass er erstinstanzlich obsiegen müsste.
@@ -89,5 +85,3 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 7 AZR 143/15: ersatzlos entfernt (WRONG_TOPIC: reales Thema ist Befristung Hochschulprofessor nach WissZeitVG, nicht Vollstreckung Weiterbeschaeftigungsanspruch; Quelle: bundesarbeitsgericht.de, dejure.org)
-- BAG 9 AZR 18/07: ersatzlos entfernt (WRONG_TOPIC: reales Thema ist Altersteilzeit und erweitertes Direktionsrecht/Unterrichtsverpflichtung, nicht gesetzlicher Weiterbeschaeftigungsanspruch nach § 102 Abs. 5 BetrVG; Quelle: dejure.org)

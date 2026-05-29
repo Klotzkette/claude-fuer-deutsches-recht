@@ -1,6 +1,6 @@
 ---
 name: weihnachtskarten
-description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfaenger Anschrift E-Mail Versandart (postalisch / digital) Anredeform Bezug zur Kanzlei. Texte fuer formell-zurueckhaltend warm und persoenlich. Druckliste fuer Postversand inkl Adressetiketten und Frankierhinweis. Versandzeitraum (vor Weihnachten) und Erinnerungen. Datenschutz Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Mandantenpflege; Widerspruchsrecht.
+description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfaenger Anschrift E-Mail Versandart (postalisch / digital) Anredeform Bezug zur Kanzlei. Texte für formell-zurückhaltend warm und persoenlich. Druckliste für Postversand inkl Adressetiketten und Frankierhinweis. Versandzeitraum (vor Weihnachten) und Erinnerungen. Datenschutz Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Mandantenpflege; Widerspruchsrecht.
 ---
 
 # Weihnachtskarten Mandantenpflege
@@ -13,10 +13,7 @@ description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfa
 4. Welche Anredeform und welcher Ton soll verwendet werden: formell-zurueckhaltend, warm-persoenlich oder neutral?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO fuer Mandantenpflege-Kontakte: Interessenabwaegung ist Pflicht; Mandant kann widersprechen.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Opt-out bei Weihnachtskarten: Widerspruch muss ohne Schranken moeglich sein; Verteiler muss sofort bereinigt werden.
-- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Datensparsamkeit: im Weihnachtskartenverteiler nur notwendige Daten (Name, Adresse, Ton); keine ueberschuessigen Angaben.
-- LG Hamburg, Urt. v. 12.03.2020 - 315 O 335/19, ZD 2020, 546 — E-Mail-Weihnachtsgruesse an Geschaeftskontakte ohne vorherige Einwilligung koennen als belastigend gewertet werden; berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO ist engmaschig zu pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. f DSGVO — Berechtigtes Interesse als Rechtsgrundlage fuer Mandanten-Karten
@@ -24,10 +21,9 @@ description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfa
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit im Kartenverteiler
 - § 7 UWG — Unzumutbare Belaestigung: E-Mail ohne klare Einwilligung bei Verbrauchern riskant
 
-## Kommentarliteratur
-- Sydow/Marsch DSGVO Art. 6 Rn. 70-90 (Berechtigtes Interesse: Mandantenpflege-Fallgruppe)
-- Kühling/Buchner DSGVO Art. 21 Rn. 1-20 (Widerspruchsrecht: sofortige Wirkung und Loeschpflicht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verteilerpflege
 
 ```yaml

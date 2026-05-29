@@ -29,7 +29,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Testakte
 
-- MEISSNER RHEINWERK AG „Projekt RHEINGOLD 2030“ (Konzern-bAV-Harmonisierung): [testakten/bav-strategie-konzern-meissner-rheinwerk-ag/](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/) -> [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
+- MEISSNER RHEINWERK AG "Projekt RHEINGOLD 2030" (Konzern-bAV-Harmonisierung): [testakten/bav-strategie-konzern-meissner-rheinwerk-ag/](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/) -> [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | 1 | `pensionsmodelle-fuenf-durchfuehrungswege` | Direktzusage vs. Unterstützungskasse vs. Pensionskasse vs. Pensionsfonds vs. Direktversicherung; Entscheidungsmatrix, Bilanz- und Risiko-Tradeoffs, IFRS/HGB |
 | 2 | `versorgungsordnung-und-betriebsvereinbarung-drafting` | Volltext-Templates Versorgungsordnung und Betriebsvereinbarung (Düsseldorfer Schule), Anpassungsklauseln § 16 BetrAVG, Spätehenklauseln, Hinterbliebenenversorgung |
 | 3 | `governance-und-anpassungsmechanismen` | Pension Committee Charter, Trustee-Boards, Anpassungsentscheidungen § 16 BetrAVG, sachlich-billige Ermessensausübung |
-| 4 | `cta-contractual-trust-arrangement-strukturierung` | Doppeltreuhand, Sicherungs- und Verwaltungstreuhand, Bilanzentlastung HGB/IFRS, BAG 3 AZR 18/12, Treuhandvertrags-Templates |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | `internationale-harmonisierung-konzern-bav` | Konzernweite Plan-Inventory, Country-by-Country Matrix DE/UK/USA/FR/SG/JP, Global Benefits Policy, Local-vs-Group Governance |
 
 ## Block B — Pension Buyouts
@@ -48,8 +48,8 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | # | Skill-Name | Kurzbeschreibung |
 |---|-----------|-----------------|
 | 6 | `pension-buyout-strukturierung-und-de-risking` | Buy-in vs. Buy-out vs. Longevity Swap, Versichererauswahl, Term Sheets, BaFin-Genehmigung |
-| 7 | `psv-pensionssicherungsverein-und-haftungsketten` | § 7 BetrAVG, Beitragspflicht, Subsidiärhaftung, EuGH C-168/18, Insolvenzschutzlücken |
-| 8 | `drei-stufen-theorie-eingriffsanalyse` | BAG GS 1/82, BAG 3 AZR 392/06, Eingriffstiefen-Matrix, Rechtfertigungsgründe |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | `buyout-im-ma-deal-asset-vs-share` | Pension Liabilities in Carve-outs, § 613a BGB, ABC-Klauseln, Garantien/Indemnities, W&I-Versicherung |
 | 10 | `internationale-buyout-datenflows-und-datenschutz` | Art. 9 DSGVO, Drittlandtransfer Art. 46 SCC, APPI/PIPC Japan, Schrems II Workaround |
 
@@ -58,7 +58,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | # | Skill-Name | Kurzbeschreibung |
 |---|-----------|-----------------|
 | 11 | `historisch-gewachsene-altsysteme-due-diligence` | Inventory-Methodik, Altzusagen 1970er/1980er, Versorgungstarifverträge, Sonderzusagen Führungskräfte, Risk Map |
-| 12 | `harmonisierung-und-migration-rechtssicher` | Vereinheitlichungs-Roadmap, Übergangs-Versorgungswerke, Wahlmodelle, Besitzstand-Schutz, BAG 3 AZR 540/16 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 13 | `mitbestimmung-betriebsrat-einigungsstelle-bav` | § 87 Abs. 1 Nr. 8/10 BetrVG, Initiativrecht, Einigungsstellenverfahren, Spruch-Templates |
 | 14 | `kollektivrechtliche-loesungen-und-sozialplan` | § 112 BetrVG, pensionsspezifische Sozialplanbestandteile, Abfindungsmodelle vs. Versorgungserhalt |
 

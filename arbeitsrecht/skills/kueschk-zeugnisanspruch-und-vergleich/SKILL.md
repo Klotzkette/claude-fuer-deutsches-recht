@@ -1,6 +1,6 @@
 ---
 name: kueschk-zeugnisanspruch-und-vergleich
-description: "Zeugnisanspruch nach § 109 GewO: qualifiziertes Zeugnis; BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen fuer Zeugnisse."
+description: "Zeugnisanspruch nach § 109 GewO: qualifiziertes Zeugnis; BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen für Zeugnisse."
 ---
 
 # Zeugnisanspruch und Zeugnis im Vergleich
@@ -28,57 +28,51 @@ Step 6: Frist für Ausstellung (z.B. zwei Wochen nach Beendigung) in Vergleich a
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435 — Arbeitnehmer haben bei fehlender Substantiierung besserer Leistungen Anspruch auf ein Zeugnis mit der Gesamtnote befriedigend (Formulierung: „zur vollen Zufriedenheit“); der Arbeitgeber kann nicht auf dieser Grundlage einseitig eine schlechtere Note erteilen.
-- BAG, Urt. v. 14.10.2003 – 9 AZR 12/03, NZA 2004, 313 — Enthaltene Negativsignale im Zeugnis (z.B. „hat sich stets bemüht“) erfüllen den Anspruch auf ein ordnungsgemäßes Zeugnis nicht; der Arbeitnehmer kann Berichtigung verlangen.
-- BAG, Urt. v. 07.09.2021 – 9 AZR 3/21, NZA 2022, 70 — Das Zeugnis darf keine versteckten negativen Aussagen über den Arbeitnehmer enthalten; Formulierungen, die auf den ersten Blick positiv erscheinen, aber in der Branche als negativ bekannt sind, begründen einen Berichtigungsanspruch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Schlachter, 24. Aufl. 2024, § 109 GewO Rn. 1-25 — (Inhalt, Form, Notensystem, Negativsignale)
-- Schaub/Koch, ArbeitsR-HdB, 20. Aufl. 2023, § 148 Rn. 1 ff. — (Zeugnisinhalt, Zeugnisberichtigung)
-- MHdB ArbR/Wisskirchen, 5. Aufl. 2021, § 97 Rn. 5 ff. — (Zeugnis im Vergleich, Formulierungsrisiken)
-- Etzel/Böhm, Kündigungsschutz, 12. Aufl. 2022, Rn. 1060 ff. — (Zeugnisanspruch im Kündigungsschutzprozess)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gesetzlicher Anspruch § 109 GewO
 
 Nach § 109 Abs. 1 GewO hat der Arbeitnehmer bei Beendigung des Arbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis. Das Zeugnis muss mindestens Angaben über Art und Dauer der Tätigkeit enthalten (einfaches Zeugnis).
 
 **Qualifiziertes Zeugnis** (§ 109 Abs. 1 Satz 3 GewO): Der Arbeitnehmer kann verlangen, dass das Zeugnis auch Angaben über Leistung und Verhalten enthält.
 
-## BAG-Mindeststandard: Note „befriedigend"
+## BAG-Mindeststandard: Note "befriedigend"
 
-Das BAG hat entschieden, dass einem Arbeitnehmer, der kein Verschulden an einer schlechten Leistung trägt und dazu keine konkreten Vorwürfe bestehen, ein Zeugnis mit der Gesamtnote **„befriedigend"** zusteht (BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Formulierung: **„zur vollen Zufriedenheit"** entspricht der Note befriedigend.
+Formulierung: **"zur vollen Zufriedenheit"** entspricht der Note befriedigend.
 
 Für eine bessere Note (gut, sehr gut) muss der Arbeitnehmer dartun, dass seine Leistungen besser waren. Typische Formulierungen:
 
 | Note | Formulierung |
 |---|---|
-| Sehr gut | „stets zu unserer vollsten Zufriedenheit" |
-| Gut | „stets zu unserer vollen Zufriedenheit" |
-| Befriedigend | „zu unserer vollen Zufriedenheit" |
-| Ausreichend | „zu unserer Zufriedenheit" |
-| Mangelhaft | „hat sich bemüht" o.ä. |
+| Sehr gut | "stets zu unserer vollsten Zufriedenheit" |
+| Gut | "stets zu unserer vollen Zufriedenheit" |
+| Befriedigend | "zu unserer vollen Zufriedenheit" |
+| Ausreichend | "zu unserer Zufriedenheit" |
+| Mangelhaft | "hat sich bemüht" o.ä. |
 
 ## Geheime Negativsignale im Zeugnis
 
 Arbeitgeber verwenden manchmal Formulierungen, die nach außen positiv klingen, aber in der Branche als Negativsignal bekannt sind:
 
-- „Er hat die übertragenen Aufgaben stets zu unserer Zufriedenheit erledigt" (Note 4 — mangelhaft)
-- „Sie war stets bemüht" (Zeugnissprache für: hat versucht, aber nicht geschafft)
-- „Er hat die ihm übertragenen Aufgaben mit großem Fleiß erledigt" (ohne Erwähnung von Erfolg = Warnsignal)
+- "Er hat die übertragenen Aufgaben stets zu unserer Zufriedenheit erledigt" (Note 4 — mangelhaft)
+- "Sie war stets bemüht" (Zeugnissprache für: hat versucht, aber nicht geschafft)
+- "Er hat die ihm übertragenen Aufgaben mit großem Fleiß erledigt" (ohne Erwähnung von Erfolg = Warnsignal)
 - Weglassen von Führungsverantwortung obwohl vorhanden = Negativsignal
 
-**Im Vergleich:** Wenn eine bestimmte Note oder Formulierung vereinbart wird, diese konkret und wortwörtlich im Vergleich festschreiben. „Gut" ist besser als jede Formulierung, die interpretiert werden kann.
+**Im Vergleich:** Wenn eine bestimmte Note oder Formulierung vereinbart wird, diese konkret und wortwörtlich im Vergleich festschreiben. "Gut" ist besser als jede Formulierung, die interpretiert werden kann.
 
 ## Typische Vergleichsformulierungen zum Zeugnis
 
 **Option A — Note vereinbaren:**
-„Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote gut (Formulierung: 'stets zu unserer vollen Zufriedenheit')."
+"Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote gut (Formulierung: 'stets zu unserer vollen Zufriedenheit')."
 
 **Option B — Zeugnisinhalt konkret vereinbaren:**
-„Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis folgenden Inhalts: [vollständiger Zeugnistext]."
+"Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis folgenden Inhalts: [vollständiger Zeugnistext]."
 
 Option B ist sicherer — sie verhindert spätere Streitigkeiten über die Formulierung.
 
@@ -96,5 +90,3 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 9 AZR 340/10: ersatzlos entfernt (NOT_FOUND: keine Entscheidung des BAG vom 28.02.2012 mit diesem Aktenzeichen auf dejure.org auffindbar; Quelle: dejure.org)
-- BAG 9 AZR 399/09: nicht im Skill-Text vorhanden; geprüft und bestaetigt nicht vorhanden (NOT_FOUND: Aktenzeichen nicht auf dejure.org auffindbar; 9 AZR 399/10 vom 13.12.2011 existiert, hat aber anderes Thema: Urlaubsabgeltung/Ausschlussfrist)

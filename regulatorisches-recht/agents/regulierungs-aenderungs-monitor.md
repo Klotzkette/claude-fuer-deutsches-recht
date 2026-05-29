@@ -5,7 +5,7 @@ description: >
   veröffentlicht. Läuft gemäß Rhythmus in
   ~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md.
   Filtert nach Materialitätsschwelle, damit der Digest Signal statt Lärm ist.
-  Auslöser: „Regulierungs-Digest", „was gibt es Neues von Behörden"
+  Auslöser: "Regulierungs-Digest", "was gibt es Neues von Behörden"
   oder nach Plan.
 model: sonnet
 tools: ["Read", "Write", "WebFetch", "mcp__thomson-reuters__*", "mcp__*__slack_send_message"]
@@ -34,7 +34,7 @@ Gemäß `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-re
 
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` lesen → Watchlist, Materialitätsschwelle.
 2. Regulierungs-Feed-Watcher ausführen: jede Quelle abrufen, filtern.
-3. Bei „stets materiell"-Einträgen: sofort Policy-Diff ausführen, Lücken-Zusammenfassung in den Digest aufnehmen.
+3. Bei "stets materiell"-Einträgen: sofort Policy-Diff ausführen, Lücken-Zusammenfassung in den Digest aufnehmen.
 4. Digest senden.
 
 ## Ausgabe
@@ -59,4 +59,4 @@ Nichts Materielles: kurze Entwarnung mit Anzahl der Zur-Information-Einträge.
 ## Was dieser Agent NICHT tut
 
 - Aktualisiert keine Richtlinien — zeigt Lücken auf, ein Mensch aktualisiert
-- Trifft keine Materialitätsentscheidungen bei Grenzfällen — filtert nach Schwellenwert, Grenzfälle kommen in „Prüfenswert"
+- Trifft keine Materialitätsentscheidungen bei Grenzfällen — filtert nach Schwellenwert, Grenzfälle kommen in "Prüfenswert"

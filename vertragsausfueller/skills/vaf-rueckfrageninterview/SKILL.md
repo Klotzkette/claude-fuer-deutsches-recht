@@ -1,6 +1,6 @@
 ---
 name: vaf-rueckfrageninterview
-description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Pruefraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar fuer Vorbereitung und zu Kommandocenter."
+description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter."
 ---
 
 # Rückfrageninterview
@@ -15,9 +15,7 @@ description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendun
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.02.2017 - XI ZR 185/16, NJW 2017, 1823 — Aufklärungspflicht des Beraters: fehlende Information über wesentliche Vertragsbestandteile kann Schadensersatzpflicht auslösen (§ 280 Abs. 1 BGB).
-- BGH, Urt. v. 15.04.2010 - IX ZR 189/09, NJW 2010, 1830 — Anwaltliche Beratungspflicht: Anwalt muss alle Informationen einholen, die für eine korrekte rechtliche Beratung erforderlich sind; andernfalls Haftung nach § 280 BGB.
-- BGH, Urt. v. 13.03.2008 - IX ZR 136/07, NJW 2008, 2037 — Dokumentation der Beratung: Rückfragen und Antworten müssen für Haftungszwecke dokumentiert werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -25,11 +23,9 @@ description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendun
 - §§ 675, 611 BGB — Anwaltsvertrag (Dienstvertrag mit Geschäftsbesorgung)
 - § 3 BRAO — Anwalt als unabhängiger Berater
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 280 Rn. 1-30 (Schadensersatz Beraterhaftung)
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 3 Rn. 1-20 (anwaltliche Pflichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill füllt Datenlücken ohne den Nutzer zu überfordern. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

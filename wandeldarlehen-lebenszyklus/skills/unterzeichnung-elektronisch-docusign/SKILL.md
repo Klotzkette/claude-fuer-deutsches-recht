@@ -1,6 +1,6 @@
 ---
 name: unterzeichnung-elektronisch-docusign
-description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Pruefraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur fuer elektronische Signatur; nicht fuer notarielle Beurkundung."
+description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)
@@ -27,8 +27,7 @@ Dieser Skill begleitet die elektronische Unterzeichnung des Wandeldarlehensvertr
 - § 257 HGB (Aufbewahrungspflicht handelsrelevanter Unterlagen sechs Jahre)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Januar 2006 – XI ZR 384/03 (E-Mail als Textform nach § 126b BGB)
-- OLG Frankfurt, Urt. v. 2. Dezember 2020 – 4 U 269/19 (DocuSign-Signatur als Textform anerkannt)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -90,9 +89,9 @@ Stand: 05/2026. eIDAS-VO 910/2014; § 147 AO. Bei Änderung eIDAS 2.0 (VO 2024/1
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 17.10.2016 — **I ZR 101/14**, NJW 2017, 789 Rn. 18: Elektronische Signatur nach Art. 25 eIDAS-VO kann die Schriftform nach § 126 BGB nicht ersetzen; für formgebundene Teile des Wandeldarlehens (§ 15 Abs. 3, 4 GmbHG) ist stets notarielle oder eigenhändige Unterschrift erforderlich; DocuSign/qualifizierte elektronische Signatur genügt nur für Textform (§ 126b BGB) oder Schriftform-Ersatz durch QES nach § 126a BGB.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Hamm, Urt. v. 15.09.2021 — **I-8 U 55/21**, NJW-RR 2022, 104 Rn. 12: Qualifizierte elektronische Signatur (QES) nach Art. 26 eIDAS-VO ist der eigenhändigen Unterschrift gleichgestellt (§ 126a BGB); für einfache Vertragsanteile des Wandeldarlehens (Darlehensbetrag, Zins) ist DocuSign mit QES ausreichend; für gesellschaftsrechtliche Wandlungsabreden bleibt § 15 GmbHG vorrangig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

@@ -1,6 +1,7 @@
 ---
 name: ki-werkzeug-uebergabe
-description: "KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer „Luminance\", „Kira\", „KI-Prüfung\", „automatische Extraktion\" oder „Massenprüfung\" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern."
+description: 'KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance", "Kira", "KI-Prüfung", "automatische Extraktion" oder "Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern.'
+
 ---
 
 # KI-Tool-Übergabe (Luminance / Kira)
@@ -22,17 +23,11 @@ Vor der Tool-Ubergabe klaeren:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.03.2015 – VIII ZR 38/14, NJW 2015, 1871 Rn. 16 — AGB-Kontrolle von Change-of-Control-Klauseln im B2B-Bereich: Auch Kaufleute koennen sich auf § 307 BGB berufen; Klauseln sind an den Grundsaetzen von Treu und Glauben zu messen.
-- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 — Auslegung einer CoC-Klausel: Massgeblich ist der Vertragswortlaut; ein mittelbarer Kontrollwechsel genuegt, wenn die Klausel nicht auf einen unmittelbaren Kontrollwechsel beschraenkt ist.
-- BGH, Urt. v. 15.11.2006 – XII ZR 120/04, NJW 2007, 1279 Rn. 14 — Abtretungsverbote (§ 399 BGB) sind bei kaufmaennischen Vertraegen nach § 354a HGB haeufig unwirksam; Klausel-Extraktion muss diesen Schritt beinhalten.
-- BGH, Urt. v. 20.11.2018 – II ZR 12/17, NJW 2019, 297 Rn. 22 — Vertragsubernahme erfordert dreiseitiges Einvernehmen; ohne Zustimmung der Gegenpartei ist die Uebertragung unwirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Wurmnest, in: MuKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (AGB-Kontrolle bei Individualvereinbarungen und Kaufleuten).
-- Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 (Wirksamkeit von Abtretungsverboten unter Kaufleuten).
-- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 15 Rn. 5 ff. (Abtretung von GmbH-Anteilen; Zustimmungserfordernisse).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 In M&A-Mandaten mit Datenräumen von 100+ Verträgen übersteigt manuelle Einzelprüfung das verfügbare Zeitbudget. Dieser Skill strukturiert die Übergabe an ein KI-Prüftool (Luminance, Kira oder vergleichbar), legt das Extraktionsprofil fest, QA-checkt die Ausgabe und steuert die Rückübernahme in den DD-Issue-Extraktion-Ablauf.
@@ -180,10 +175,10 @@ Normen-Basis für Extraktionsprofil: §§ 305 ff. BGB (AGB-Kontrolle), § 398 BG
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2023, Einl. Rn. 1 (Doppelautoren-Kommentar).
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (AGB-Kontrolle).
-- BGH, Urt. v. 25.03.2015 – VIII ZR 38/14, NJW 2015, 1871 Rn. 16 (zur AGB-Kontrolle von Change-of-Control-Klauseln im B2B-Bereich).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -250,7 +245,7 @@ Empfehlung: [ERGEBNIS DIREKT UEBERNEHMEN / NACHPRUEFUNG ERFORDERLICH FUER ROT-FI
 ## Rote Schwellen
 
 - **Kein AVV (Art. 28 DSGVO) vor Datenweitergabe** — Bussgeldhaftung; Weitergabe sofort stoppen bis AVV vorliegt.
-- **KI-Vertrauensniveau „vollstaendige Neuprüfung“ und kein QA-Budget** — KI-Tool liefert nur Screening; alle Findings sind manuell zu verifizieren bevor Garantien abgegeben werden.
+- **KI-Vertrauensniveau "vollstaendige Neuprüfung" und kein QA-Budget** — KI-Tool liefert nur Screening; alle Findings sind manuell zu verifizieren bevor Garantien abgegeben werden.
 - **Gesellschaftsvertraege / Side Letters in Batch** — ungeeignet fuer Bulk-Extraktion; sofort aus Charge herausnehmen und manuell prüfen.
 - **Abtretungsverbote nicht klassifiziert** — Haftungsrisiko bei Garantien; § 354a HGB-Prüfung fuer Kaufleute-Vertraege immer separat durchfuehren.
 

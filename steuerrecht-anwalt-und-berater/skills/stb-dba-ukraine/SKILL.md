@@ -1,6 +1,6 @@
 ---
 name: stb-dba-ukraine
-description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Holding Beteiligungen mit Konfliktrelevanz seit 2022. Sanktionen Devisenkontrollen Ueberweisungssperren. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Konflikt-Lagebild."
+description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Holding Beteiligungen mit Konfliktrelevanz seit 2022. Sanktionen Devisenkontrollen Überweisungssperren. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Konflikt-Lagebild."
 ---
 
 # DBA Deutschland-Ukraine
@@ -23,14 +23,14 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Ukraine vom 03.07.1995**, in Kraft 04.10.1996, anwendbar ab 01.01.1997 (BGBl. 1996 II S. 1170) — **verifizieren**.
+- **DBA Deutschland-Ukraine vom 03.07.1995**, in Kraft 03.10.1996, anwendbar ab 01.01.1997 (BGBl. 1996 II S. 498; Inkrafttreten-Bekanntmachung: BGBl. 1996 II S. 2609).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **EU-Sanktionsrecht** (Verordnungen (EU) 833/2014 ff.).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und die Ukraine sind beide MLI-Unterzeichner. Ob das DBA-Ukraine als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu pruefen. Neue DBA-Verhandlungen sind laufend (Stand 05/2026).
 
 ### Leitentscheidungen und BMF-Schreiben
-- BMF-Schreiben zu Ukraine-Bezug seit 2022 — **verifizieren**.
+- Zum Ukraine-Kriegsbezug seit 2022: allgemeine Hinweise des BMF und der Landesfinanzbehoerden zu beschraenkter Steuerpflicht ukrainischer Fluechtlinge (Tie-Breaker) und Devisenkontrolle beachten; aktuellen BMF-Stand pruefen.
 
 ## Land-spezifisches
 
@@ -44,9 +44,10 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 - Loehne Art. 14/15: 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**.
-- **Zinsen** (Art. 11): typ. 0/5 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 5 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft mit mindestens 20 Prozent Kapitalbeteiligung; 10 Prozent in allen anderen Faellen.
+- **Zinsen** (Art. 11): 2 Prozent des Bruttobetrags.
+- **Lizenzgebuehren** (Art. 12): Quellensteuersatz gemaess DBA-Text pruefen; im Neuentwurf des DBA (laufende Verhandlungen Stand 05/2026) vorgesehen: einheitlich 5 Prozent.
+- Hinweis: Die Ukraine und Deutschland verhandeln ein neues DBA; bis Inkrafttreten gilt das DBA 1995.
 
 ### Vermeidungs-Methode
 - Anrechnungsmethode ueberwiegend.
@@ -88,4 +89,6 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Ukraine 03.07.1995, in Kraft 04.10.1996. EU-Beitrittskandidat seit 23.06.2022. **Datum, BGBl-Fundstelle, MLI-Notification, Sanktions-Status, Devisenkontrolle-Aenderungen und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Ukraine 03.07.1995, BGBl. 1996 II S. 498, in Kraft 03.10.1996. Dividenden 5/10%, Zinsen 2%, Lizenzen: DBA-Text pruefen (Neuentwurf 5% einheitlich). EU-Beitrittskandidat seit 23.06.2022. MLI-Status: aktuellen BMF-DBA-Stand pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: BGBl. 1996 II S. 498 und Inkrafttreten 03.10.1996 bestaetigt (BMF-Webseite); Art. 10 5%/10% bestaetigt (NWB); Art. 11 2% bestaetigt (GTAI); Art. 12 allgemein (neuer DBA-Entwurf 5% per GTAI); BMF Ukraine allgemein gefasst; MLI allgemein gefasst; Quellen-Marker gestrichen -->

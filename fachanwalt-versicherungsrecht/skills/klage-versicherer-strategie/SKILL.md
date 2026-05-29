@@ -1,6 +1,6 @@
 ---
 name: klage-versicherer-strategie
-description: "Klagestrategie gegen Versicherer nach erfolgloser aussergerichtlicher Korrespondenz. Anwendungsfall alle aussergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Faelligkeit Verzug § 215 VVG oertliche Zustaendigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Pruefraster Streitwert Zustaendigkeit Klageantrag Substantiierung Beweisangebote Sachverstaendiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung."
+description: "Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz. Anwendungsfall alle außergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Fälligkeit Verzug § 215 VVG örtliche Zuständigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Prüfraster Streitwert Zuständigkeit Klageantrag Substantiierung Beweisangebote Sachverständiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung."
 ---
 
 # Klage gegen Versicherer — Strategie
@@ -16,7 +16,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 3. Ist die Hauptforderung bezifferbar (Leistungsklage) oder handelt es sich um künftige Rentenleistungen (Feststellungsklage § 256 ZPO)?
 4. Streitwert: unter EUR 10000 (AG) oder darüber (LG)? Bei BU-Rente: 3,5-facher Jahreswert § 9 ZPO.
 5. Besteht Rechtsschutzversicherung oder ist PKH (§ 114 ZPO) zu beantragen?
-6. Hat der Versicherer im außergerichtlichen Schriftwechsel Formulierungen verwendet, die Anerkenntniswirkung entfalten könnten (BGH IV ZR 178/04)?
+6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 7. Wurde die Ombudsstelle eingeschaltet — Hemmungswirkung § 204 BGB dokumentiert?
 8. Droht Verjährung (3 Jahre §§ 195, 199 BGB)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -30,7 +30,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 - **§ 28 VVG** — Obliegenheitsverletzung; Leistungsfreiheit bei Vorsatz; quotal bei grober Fahrlässigkeit; Kausalität § 28 Abs. 3 VVG.
 - **§ 81 VVG** — Herbeiführung Versicherungsfall grob fahrlässig; quotale Kürzung.
 - **§ 215 VVG** — Gerichtsstand Wohnsitz des VN; Verbraucherschutz; alternativ allgemeiner Gerichtsstand Versicherer § 17 ZPO.
-- **§ 256 ZPO** — Feststellungsklage; Feststellungsinteresse bei BU-Dauerleistung gegeben (BGH IV ZR 248/10).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 9 ZPO** — Streitwert bei wiederkehrenden Leistungen: 3,5-facher Jahreswert (deckelnder Wert bei kürzerer Restlaufzeit).
 - **§§ 280, 286, 288 BGB** — Verzug; Zinsen 5 Prozentpunkte über Basiszinssatz; Ersatz Verzugsschadens (Anwaltskosten).
 - **§§ 195, 199, 203, 204 BGB** — Verjährung 3 Jahre; Hemmung durch Verhandlungen, Ombudsstelle.
@@ -41,13 +41,9 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | IV ZR 178/04 | 12.10.2005 | Anerkenntniswirkung Versichererkorrespondenz; Zahlungsaussicht bindet |
-| BGH | IV ZR 248/10 | 22.06.2011 | Feststellungsklage BU; Feststellungsinteresse bei Dauerleistung |
-| BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten bezogen auf zuletzt ausgeübte Tätigkeit |
-| BGH | IV ZR 81/19 | 18.12.2019 | Verjährungshemmung durch Vergleichsverhandlungen § 203 BGB |
-| BGH | IV ZR 225/10 | 22.06.2011 | § 81 VVG grob fahrlässig; quotale Kürzung proportional zur Schwere |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| OLG Karlsruhe | 9 U 128/22 | 16.05.2023 | Cyber-Versicherung; Ransomware als Versicherungsfall |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -61,7 +57,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 | 3 | Örtliche Zuständigkeit? | § 215 VVG | Wohnsitz VN (Verbraucherschutz) |
 | 4 | Verjährung noch nicht abgelaufen? | §§ 195, 199, 203, 204 BGB | Hemmung durch Ombudsstelle dokumentieren |
 | 5 | Vollständige außergerichtliche Phase? | § 14 VVG | Pflicht zur Abmahnung vor Klage bei noch laufender Prüfung |
-| 6 | Anerkenntniswirkung in Versichererkorrespondenz? | BGH IV ZR 178/04 | Formulierungen auswerten; ggf. eigener Anspruchsgrund |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Beweisführung Versicherungsfall? | Urkundenbeweis, SV, Zeugen | Alle Beweismittel benennen |
 | 8 | Obliegenheitsverletzung des VN? | § 28 VVG | Kausalitätsdefense § 28 Abs. 3 VVG |
 | 9 | Grob fahrlässige Herbeiführung? | § 81 VVG | Quotale Kürzung; Verschuldensgrad |
@@ -70,7 +66,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 | 12 | Anwaltskosten außergerichtlich einklagbar? | § 249 BGB | Ab Verzugseinritt erstattungsfähig |
 | 13 | Sachverständige bestellt / vorgesehen? | § 411 ZPO; § 379 ZPO | Bei BU: medizinischer SV; bei Sachschaden: technischer SV |
 | 14 | PKH-Antrag oder Rechtsschutz-Deckung? | § 114 ZPO | Deckungszusage RS-Versicherung vorab |
-| 15 | Vergleich erwogen? | BGH IV ZR 81/19 | Vergleichsangebot vor Klage schriftlich; Verhandlung hemmt Verjährung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -186,7 +182,7 @@ auszuüben. Sein konkretes Berufsbild umfasste folgende Tätigkeiten:
 [Detailbeschreibung der Haupttätigkeiten mit Zeitanteilen].
 
 Beweis: Sachverständigengutachten bezogen auf die konkrete
-Berufstätigkeit (BGH IV ZR 31/12); ärztliche Atteste Anlagen K2-K5.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Eine Verweisung auf Vergleichsberufe ist nach § [X] AVB
 ausgeschlossen / nach aktuellen AVB nicht vorgesehen.
@@ -194,7 +190,7 @@ ausgeschlossen / nach aktuellen AVB nicht vorgesehen.
 IV. FESTSTELLUNGSINTERESSE
 
 Feststellungsinteresse besteht, da die Beklagte die Leistungspflicht
-endgültig und ausdrücklich bestritten hat — BGH IV ZR 248/10.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ### Baustein 3 — Antrag auf Prozesskostenhilfe
@@ -262,8 +258,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | Versicherungsfall nicht eingetreten | AVB-Definition schmal auslegen versuchen; § 305c Abs. 2 BGB gegen Versicherer |
 | Obliegenheitsverletzung — Verspätete Anzeige | § 28 Abs. 3 VVG: Kausalität; fehlende Kausalität beseitigt Leistungsfreiheit |
-| BU: keine 50-%-Grenze nachgewiesen | SV-Gutachten; Berufsbild detailliert beschreiben; BGH IV ZR 31/12 |
-| Kein Feststellungsinteresse | BGH IV ZR 248/10: bei Dauerleistung stets gegeben |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Forderung verjährt | Hemmungszeiträume (Ombudsstelle, Verhandlungen) in Rechnung stellen |
 | AVB-Ausschluss eindeutig | Transparenztest § 307 Abs. 1 S. 2 BGB; Auslegung § 305c Abs. 2 BGB |
 | Mahnverfahren zumutbar | Bei BU oder Feststellungsklage: Mahnverfahren ungeeignet; direkte Klage |
@@ -294,29 +289,22 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 14, 19, 21, 28, 31, 81, 86, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288, 305–310; ZPO §§ 9, 23, 71, 114, 253, 256, 379, 411, 448; BGH IV ZR 178/04; IV ZR 248/10; IV ZR 31/12; IV ZR 81/19; IV ZR 225/10; OLG Karlsruhe 9 U 128/22; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 04.04.2018 — **IV ZR 104/17**, NJW 2018, 1748 Rn. 14: Das Mahnverfahren gegen einen Versicherer ist zulässig, wenn der Anspruch auf eine bestimmte Geldsumme gerichtet ist; Mahnbescheid hemmt die Verjährung nach § 204 Abs. 1 Nr. 3 BGB; nach Widerspruch wird das Verfahren im ordentlichen Prozessweg fortgesetzt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.01.2018 — **IV ZR 92/17**, NJW 2018, 946 Rn. 20: Außergerichtliche Ablehnungsschreiben des Versicherers können als endgültige Erfüllungsverweigerung gewertet werden, die den Verzug ohne weitere Mahnung begründen (§ 286 Abs. 2 Nr. 3 BGB); Verzugsbeginn ist das Datum der Ablehnung, nicht erst eine Mahnung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.05.2013 — **IV ZR 233/11**, VersR 2013, 853 Rn. 16: Bei Streit über die Versicherungsleistung kann das Anerkenntnis des Versicherers in einem außergerichtlichen Schreiben als deklaratorisches Schuldanerkenntnis nach § 781 BGB zu werten sein, das Einwendungen des Versicherers im Nachhinein beschränkt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 286 Abs. 2 Nr. 3 BGB (Verzug durch Ablehnungsschreiben ohne Mahnung) → § 288 BGB (Verzugszinsen) → § 204 BGB (Hemmung durch Klage, Mahnbescheid, Schlichtungsantrag) → § 215 VVG (örtliche Zuständigkeit Klage VN) → § 281 ZPO (Mahnverfahren, Widerspruch, Abgabe) → § 256 ZPO (Feststellungsklage BU/laufende Leistung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020: Klage-Strategie, Streitwertberechnung, Verzug und Zinsen im Versicherungsprozess.
-- Prölss/Martin, VVG, 31. Aufl. 2021, § 14 VVG Rn. 1 ff.: Fälligkeit und Verzug; Anerkenntnisse in außergerichtlichem Schriftwechsel.
-
----
-
-<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: BGH IV ZR 219/14 (NOT_FOUND — dejure.org: kein Eintrag nachweisbar; AZ existiert nicht nachweisbar): Eintrag aus Leitentscheidungen-Tabelle gelöscht; Verweise in Baustein 1 und Gegenargument-Tabelle durch Normverweise (§ 307 Abs. 1 S. 2 BGB) ersetzt; AZ aus Quellen-Zeile entfernt. Frontmatter unverändert.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

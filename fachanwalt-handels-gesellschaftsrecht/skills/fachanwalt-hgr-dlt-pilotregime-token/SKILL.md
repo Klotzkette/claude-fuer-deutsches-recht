@@ -10,7 +10,7 @@ description: "EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert v
 3. Welcher Plattformtyp ist vorgesehen — nur Handel (DLT-MTF), nur Abwicklung (DLT-SS) oder kombiniert (DLT-TSS)?
 4. Ist ein bestehender BaFin-lizenzierter Anbieter als Register-Führer vorgesehen, oder wird eine eigene Lizenz beantragt?
 5. Welche DLT-Plattform / Blockchain ist vorgesehen (Permissioned, Permissionless; Ethereum, Polygon, Stellar, dedizierte EU-Chain)?
-6. Ist die Satzung der Aktiengesellschaft auf „elektronische Wertpapiere als Krypto-Wertpapiere" ausgerichtet?
+6. Ist die Satzung der Aktiengesellschaft auf "elektronische Wertpapiere als Krypto-Wertpapiere" ausgerichtet?
 7. Sind DORA-Anforderungen (seit 17.1.2025) bereits in der IT-Governance abgebildet?
 8. Besteht ein Zeitplan für den Übergang nach Ablauf des Pilotregimes (voraussichtlich verlängert bis 23.3.2029)?
 
@@ -64,7 +64,7 @@ description: "EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert v
    - GmbH: Krypto-Wertpapier-Regelung über § 4 eWpG möglich
 
 2. Satzungsanpassung (HV-Beschluss):
-   - Aufnahme Klausel: „Die Gesellschaft kann Aktien als elektronische
+   - Aufnahme Klausel: "Die Gesellschaft kann Aktien als elektronische
      Wertpapiere gemäß eWpG begeben."
    - Namens- oder Inhaberaktie: Entscheidung dokumentieren
    - Form der HV-Einberufung und Stimmrechtsausübung digital (§ 118a AktG)

@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-ladeinfrastruktur
-description: "Ladeinfrastruktur fuer Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Pruefraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle oeffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe."
+description: "Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe."
 ---
 
 # Ladeinfrastruktur Elektromobilitaet
@@ -25,18 +25,12 @@ description: "Ladeinfrastruktur fuer Elektromobilitaet rechtlich begleiten: Betr
 
 ## Aktuelle Rechtsprechung
 
-- LG Frankfurt a.M., Urt. v. 28.10.2021 - 2-13 S 8/21, NJW-RR 2022, 118 — § 554 BGB n.F.: Mieter hat grundsaetzlichen Anspruch auf Zustimmung des Vermieters zur Ladestation; Vermieter kann Zustimmung nur aus wichtigem Grund verweigern.
-- AG Hamburg, Urt. v. 12.03.2021 - 102c C 115/20, WuM 2021, 423 — WEG: Einbau Ladesaeule als bauliche Veraenderung nach § 20 WEG; Anspruch auf Zustimmung nach § 20 Abs. 2 WEG wenn Anlage fachgerecht und auf Kosten des Antragstellers.
-- BVerwG, Urt. v. 22.11.2021 - 4 C 8.20, NVwZ 2022, 392 — Sondernutzungserlaubnis fuer Ladesaeule auf oeffentlichem Strassengrund; Gemeinde hat Ermessen, muss aber Gleichbehandlung und Verhaeltnismaessigkeit beachten.
-- OVG Muenster, Beschl. v. 13.07.2022 - 2 B 480/22, NZBau 2022, 621 — Baurechtliche Zulassigkeit einer Schnell-Ladeanlage; keine Genehmigungspflicht wenn Anlage unter die Erleichterungen der LBO faellt.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kment/Reidt GEG § 9a (Ladeinfrastruktur-Anforderungen Neubau)
-- Muenchener Kommentar BGB/Weidenkaff § 554 Rn. 1-20 (Mieter-Ladesaeule)
-- BeckOK WEG/Hogenschurz § 20 Rn. 1-30 (Bauliche Veraenderung, Ladesaeule)
-- Scholtka/Baumbach EnWG § 8 Rn. 1-15 (Netzanschluss)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Ladeinfrastruktur
 
 ```

@@ -8,6 +8,17 @@ Das Plugin deckt: edles Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Ein
 
 Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanzlei-Workflow: vom ersten Eingang bis zum versandfertigen Ergebnis.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **sachverstaendigengutachten ki vorwurf lg regensburg sieglinger** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## Direkt-Download
 
 | Plugin | Direkt-Download |
@@ -23,7 +34,7 @@ Die URL ist stabil und zeigt auf die neueste Release-Version.
 2. Claude Code oder Claude Desktop öffnen.
 3. **Customize Plugins** bzw. **Personal plugins** öffnen.
 4. **Install from .zip** wählen und `kanzlei-allgemein.zip` hochladen.
-5. In einer neuen Unterhaltung mit einem typischen Auftrag starten, etwa: „Starte das volle Kanzlei-Workflow-Plugin für diese neue Nachricht.“
+5. In einer neuen Unterhaltung mit einem typischen Auftrag starten, etwa: "Starte das volle Kanzlei-Workflow-Plugin für diese neue Nachricht."
 
 Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `assets/` im ZIP-Root enthalten; `references/` ist optional, falls ein Plugin Referenzen mitliefert.
 
@@ -106,7 +117,7 @@ Besonders wichtig:
 - Wenn ein Nutzer trotzdem einen PIN oder Token im Chat nennt: nicht wiederholen, nicht protokollieren, Löschung oder Austausch empfehlen.
 - Versand über beA, Fax, Messenger oder E-Mail immer mit Versandprotokoll und Verantwortlichem dokumentieren.
 - Fristen nie nur vom Modell führen lassen. Das Plugin erzeugt Prüf- und Vorschlagslisten, die in einen berufsrechtlich geeigneten Fristenkalender übertragen und kontrolliert werden müssen.
-- Mandatsannahme nie nur „gefühlt“ durchführen. Konfliktcheck, GwG-Anwendbarkeit, Identifizierung, wirtschaftlich Berechtigte, PEP-/Hochrisiko-Prüfung, Honorar, Kontoblatt und Annahmeentscheidung müssen dokumentiert werden.
+- Mandatsannahme nie nur "gefühlt" durchführen. Konfliktcheck, GwG-Anwendbarkeit, Identifizierung, wirtschaftlich Berechtigte, PEP-/Hochrisiko-Prüfung, Honorar, Kontoblatt und Annahmeentscheidung müssen dokumentiert werden.
 - Ausweiskopien, Registerauszüge, Transparenzregisterdaten und GwG-Vermerke nur geschützt ablegen. Keine Ausweisnummern, sensiblen Dokumente oder Verdachtsdetails unnötig in Chat, Logs oder ungeschützte Markdown-Dateien kopieren.
 - Verdachtsmeldungen, goAML, Unstimmigkeitsmeldungen und Mandatsablehnungen werden nur vorbereitet und zur Berufsträger-Freigabe vorgelegt, nicht automatisch ausgelöst.
 - Rechnungen nie automatisch finalisieren, versenden oder buchen. Das Plugin erzeugt Rechnungsdatenblatt, GoBD-Protokoll und E-Rechnungsdatenblatt; Freigabe, technische Validierung und Buchung bleiben beim Nutzer oder Fachsystem.

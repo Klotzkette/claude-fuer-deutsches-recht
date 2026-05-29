@@ -1,6 +1,6 @@
 ---
 name: ustva
-description: "Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Pruefraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Pruefprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht fuer allgemeines Steuerrecht."
+description: "Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht für allgemeines Steuerrecht."
 ---
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)
@@ -35,16 +35,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. BFH, Urt. v. 24.10.2019 – V R 17/19, BStBl. II 2020, 158 Rn. 22–35: Zur Berichtigungspflicht nach § 153 AO im Umsatzsteuerrecht; der BFH stellt klar, dass nachträglich erkannte Fehler in UStVAs unverzüglich zu berichtigen sind; eine Berichtigung ist keine Selbstanzeige, wenn kein Vorsatz zur Steuerverkürzung vorlag. Maßgeblich für Abgrenzung zwischen § 153 AO und § 371 AO.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. BFH, Beschl. v. 16.12.2014 – X B 113/14, BFH/NV 2015, 569 Rn. 10–18: Zur Dauerfristverlängerung; der BFH bestätigt, dass die Sondervorauszahlung nach § 47 UStDV rechtmäßige Voraussetzung der Fristverlängerung ist und bei Nichtleistung die Dauerfristverlängerung nicht wirksam ist – Säumnis der regulären Frist folgt.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Stadie, in: Rau/Dürrwächter, Umsatzsteuergesetz, 183. Lfg. (Stand 04.2024), § 18 UStG Rn. 50–120: Zur systematischen Darstellung der Voranmeldungspflichten; Voranmeldungszeitraum nach Zahllast-Schwellen; Neugründer-Regelung; Abgrenzung der Zeiträume bei unterjährigem Jahreswechsel; ELSTER-Pflicht.
-
-2. Heuermann, in: Sölch/Ringleb, UStG, 96. Lfg. (Stand 02.2025), § 18 UStG Rn. 30–85: Zu Abgabefristen und deren Berechnung; Dauerfristverlängerung und Sondervorauszahlung im Einzelnen; Verhältnis von § 18 UStG zu § 153 AO bei Berichtigungen; Folgen verspäteter Abgabe (Verspätungszuschlag § 152 AO, Schätzung § 162 AO).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Schritt 1 – Voranmeldungszeitraum bestimmen**
@@ -60,7 +57,7 @@ Das Modell benötigt:
 - Samstag/Sonntag/Feiertag: nächster Werktag (§ 108 Abs. 3 AO).
 
 **Schritt 3 – Dauerfristverlängerung beantragen/sichern (§ 46 UStDV)**
-- Antrag über ELSTER (Formular „Antrag auf Dauerfristverlängerung/Anmeldung der Sondervorauszahlung").
+- Antrag über ELSTER (Formular "Antrag auf Dauerfristverlängerung/Anmeldung der Sondervorauszahlung").
 - Monatszahler: Sondervorauszahlung bis 10. Februar des Jahres entrichten (1/11 der Vorjahres-Zahllast).
 - Quartalszahler: Antrag genügt, keine Sondervorauszahlung erforderlich.
 - Sondervorauszahlung wird in der Dezember-UStVA/Jahreserklärung angerechnet.
@@ -98,7 +95,7 @@ Das Modell benötigt:
 
 *Abgabefrist Januar*: Ohne Dauerfristverlängerung: 10. Februar 2025 (§ 18 Abs. 1 Satz 4 UStG). Frist bereits abgelaufen.
 
-*Berichtigung*: G hat am 15.03.2025 den Fehler erkannt. Berichtigungspflicht nach § 153 Abs. 1 AO besteht; da kein Vorsatz zur Steuerverkürzung vorliegt, ist eine reine Berichtigung (keine Selbstanzeige) ausreichend (BFH, Urt. v. 24.10.2019 – V R 17/19, BStBl. II 2020, 158 Rn. 28). Korrigierte UStVA für Januar ist unverzüglich über ELSTER einzureichen; die sich ergebende Nachzahlung (1.200 EUR × Steuersatz) ist sofort fällig zzgl. Säumniszuschlag (§ 240 AO).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Dauerfristverlängerung für Zukunft*: G sollte für 2025 Dauerfristverlängerung beantragen (§ 46 UStDV); Sondervorauszahlung = 14.000/11 = 1.272,73 EUR (fällig bis 10.02.2025 – für 2025 ist Frist versäumt; ab 2026 beantragen).
 
@@ -113,18 +110,15 @@ Das Modell benötigt:
 
 ## Quellenpflicht
 
-Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BFH BStBl. II 2020, 158; BFH/NV 2015, 569) und zwei Kommentarbelege im Bearbeiter-Stil. Änderungen durch Jahressteuergesetze sind am aktuellen Kommentarstand zu überprüfen; bei neueren Rechtsfragen ohne gesicherte BFH-Rspr. ausdrücklich kennzeichnen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BFH, Urt. v. 26.04.2022 — V R 30/21, NJW 2022, 2555 — Umsatzsteuer-Voranmeldungs-Pflicht; verspaetete UStVA begruendet Verspätungszuschlag nach § 152 AO; Dauerfristverlängerung setzt formgerechten Antrag voraus
-- BFH, Urt. v. 15.11.2017 — XI R 16/16, BFH/NV 2018, 295 — elektronische Übermittlung der UStVA nach § 18 UStG Pflicht; Ausnahme nur bei erheblicher Haerte; fehlende Signatur oder ungültiges Zertifikat macht Einreichung formunwirksam
-- BVerwG, Beschl. v. 15.03.2021 — 6 B 44.20, NJW 2021, 1690 — regulatorische Meldepflichten bei Unternehmens-Transaktion; UStVA-Pflicht bleibt beim Betreiber bis zur Eintragung des Erwerbers; Haftungsrisiko bei Uebergabe ohne Abstimmung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 18 UStG (UStVA-Pflicht, Fristen, Dauerfreistellung) — § 152 AO (Verspätungszuschlag) — § 370 AO (Steuerhinterziehung bei falscher UStVA) — ELSTER-Verfahren (elektronische Uebermittlungs-Pflicht) — § 233a AO (Zinsen bei Umsatzsteuer-Nachzahlung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Lang, Steuerrecht, 24. Aufl. 2021, § 14 Rn. 1 ff. (Umsatzsteuer-Voranmeldung, Fristen)
-- Beermann/Gosch, AO, § 152 Rn. 1 ff. (Verspaetungszuschlag UStVA)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

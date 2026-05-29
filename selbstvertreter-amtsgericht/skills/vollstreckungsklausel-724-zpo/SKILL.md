@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsklausel-724-zpo
-description: "Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschaeftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Glaeubiger die Klausel beantragen und was Sie damit dann tun."
+description: "Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun."
 ---
 
 # Vollstreckungsklausel: Damit das Urteil vollstreckbar wird

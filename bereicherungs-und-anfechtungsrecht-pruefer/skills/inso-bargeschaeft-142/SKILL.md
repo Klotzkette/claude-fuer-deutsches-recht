@@ -1,85 +1,63 @@
 ---
 name: inso-bargeschaeft-142
-description: "Bargeschaeftsprivileg in der Insolvenzanfechtung pruefen: gleichwertige und unmittelbare Gegenleistung schuetzt vor Rueckgewaehr. Normen: § 142 InsO, AnfRefG 2017. Pruefraster: Gleichwertigkeit, Unmittelbarkeit des Leistungsaustauschs, Ausschluss bei Zahlungsunfaehigkeitskenntnis. Output: Pruefergebnis Bargeschaeft. Abgrenzung: nicht § 130 InsO kongruente Deckung ohne Gegenleistung."
+description: "Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter Unlauterkeit. Output: Verteidigungs- und Risikoanalyse ohne pauschale 30-Tage-Regel."
 ---
 
-# Bargeschäftsprivileg — § 142 InsO
+# Bargeschäft — § 142 InsO
 
 ## Triage — kläre vor der Prüfung
 
-1. Ist die Gegenleistung des Anfechtungsgegners objektiv gleichwertig zur Leistung des Schuldners?
-2. Besteht ein unmittelbarer zeitlicher Zusammenhang zwischen Leistung und Gegenleistung (wenige Tage bis max. 30 Tage)?
-3. Kannte der Anfechtungsgegner zum Zeitpunkt der Handlung die Zahlungsunfähigkeit des Schuldners (§ 142 Abs. 2 InsO)?
-4. Handelt es sich um ein Arbeitsentgelt für Dienstleistungen (§ 142 Abs. 1 S. 2 InsO n.F.)?
-5. Liegt eine Vorsatzanfechtung nach § 133 InsO vor — gilt das Bargeschäftsprivileg nach § 133 Abs. 3 InsO?
+1. Welche Leistung hat der Schuldner erbracht?
+2. Welche Gegenleistung ist unmittelbar in das Schuldnervermögen gelangt?
+3. Sind Leistung und Gegenleistung objektiv gleichwertig?
+4. Passt der zeitliche Zusammenhang zur Art der Leistung und den Gepflogenheiten des Geschäftsverkehrs?
+5. Handelt es sich um Arbeitsentgelt?
+6. Wird zusätzlich § 133 InsO behauptet?
+7. Hat der andere Teil erkannt, dass der Schuldner unlauter handelte?
 
-## Zentrale Normen
+## Aktueller Gesetzeskern
 
-§ 142 InsO (Bargeschäftsprivileg) — § 129 InsO (Grundtatbestand Gläubigerbenachteiligung) — § 130 InsO (kongruente Deckung) — § 133 InsO (Vorsatzanfechtung) — § 133 Abs. 3 InsO (Bargeschäft bei Vorsatzanfechtung) — Art. 1 AnfRefG 2017 (Reform des Insolvenz- und Anfechtungsrechts)
+§ 142 Abs. 1 InsO schützt Leistungen des Schuldners, für die unmittelbar eine gleichwertige Gegenleistung in sein Vermögen gelangt. Eine Anfechtung bleibt nur möglich, wenn die Voraussetzungen des § 133 Abs. 1 bis 3 InsO gegeben sind und der andere Teil erkannt hat, dass der Schuldner unlauter handelte.
 
-## Rechtsprechung
+§ 142 Abs. 2 InsO definiert die Unmittelbarkeit nach Art der ausgetauschten Leistungen und den Gepflogenheiten des Geschäftsverkehrs. Bei Arbeitsentgelt ist ein enger zeitlicher Zusammenhang gegeben, wenn zwischen Arbeitsleistung und Gewährung des Arbeitsentgelts höchstens drei Monate liegen.
 
-BGH, Urt. v. 10.07.2014 – IX ZR 192/13, NJW 2014, 3439 — Das Bargeschäftsprivileg nach § 142 InsO a.F. setzt unmittelbaren zeitlichen und wirtschaftlichen Zusammenhang voraus; ein 30-Tage-Zahlungsziel im üblichen Geschäftsverkehr ist grundsätzlich noch unmittelbar.
+## Keine pauschale 30-Tage-Regel
 
-BGH, Urt. v. 07.05.2015 – IX ZR 95/14, NJW 2015, 2181 — Bei der Vorsatzanfechtung nach § 133 InsO greift das Bargeschäftsprivileg nur, wenn der Anfechtungsgegner nicht erkannt hat, dass die Leistung den übrigen Gläubigern schadet; § 133 Abs. 3 InsO n.F. kodifiziert diese Einschränkung.
-
-## Kommentarliteratur
-
-Kayser/Freudenberg in: MüKoInsO, 4. Aufl. 2023, § 142 Rn. 1–60 (Tatbestand, Gleichwertigkeit, AnfRefG 2017).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 142 Rn. 1–40 (unmittelbarer Zusammenhang, Arbeitsentgelt).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 133 Rn. 75–90 (Bargeschäft bei Vorsatzanfechtung).
-
-## Zweck
-
-Das Bargeschäftsprivileg schützt Austauschgeschäfte, bei denen Leistung und Gegenleistung in einem unmittelbaren zeitlichen und wirtschaftlichen Zusammenhang stehen. Der Schuldner soll in der Krise noch am wirtschaftlichen Verkehr teilnehmen können.
-
-## Tatbestandsmerkmale § 142 Abs. 1 InsO
-
-### 1. Gleichwertigkeit
-
-Die vom Schuldner empfangene Gegenleistung muss dem Wert der von ihm erbrachten Leistung entsprechen (objektiver Vergleich).
-
-### 2. Unmittelbarer Zusammenhang
-
-Leistung und Gegenleistung müssen in einem unmittelbaren zeitlichen Zusammenhang erbracht worden sein. Die Rechtsprechung toleriert regelmäßig wenige Tage bis maximal ca. 30 Tage (übliches Zahlungsziel nach AnfRefG 2017).
-
-### 3. Kein Ausschluss nach § 142 Abs. 2 InsO
-
-§ 142 Abs. 2 InsO (Reform 2017): Das Bargeschäftsprivileg greift nicht, wenn der andere Teil zum Zeitpunkt der Handlung wusste, dass der Schuldner zahlungsunfähig war.
-
-## Verhältnis zu § 133 InsO
-
-Bei der Vorsatzanfechtung gilt das Bargeschäftsprivileg nur eingeschränkt (§ 133 Abs. 3 InsO n.F.).
+Eine starre 30-Tage-Grenze ist zu grob. Der Zusammenhang wird nach Leistungstyp, Branche, Zahlungsziel und Verkehrssitte bewertet. Für Arbeitsentgelt enthält das Gesetz ausdrücklich eine Drei-Monats-Regel.
 
 ## Prüfschema
 
-1. Ist die Gegenleistung objektiv gleichwertig?
-2. Besteht unmittelbarer zeitlicher Zusammenhang?
-3. Hatte der Anfechtungsgegner Kenntnis von der Zahlungsunfähigkeit (§ 142 Abs. 2)?
-4. Greift § 133 Abs. 3 InsO bei Vorsatzanfechtung?
+1. Gegenleistung identifizieren: Was gelangte in das Schuldnervermögen?
+2. Gleichwertigkeit prüfen: Marktpreis, Vertragswert, objektiver Vergleich.
+3. Unmittelbarkeit prüfen: Zeitabstand und Geschäftsverkehrsübung.
+4. Bei Arbeitsentgelt: Drei-Monats-Regel anwenden.
+5. Bei § 133 InsO: zusätzlich erkannte Unlauterkeit prüfen.
+6. Ergebnis nicht als "anfechtungsfest" ausgeben, wenn § 133-Indizien und Unlauterkeit offen sind.
+
+## Typische Fehler
+
+- bloße Zahlung auf Altschulden als Bargeschäft behandeln.
+- Ratenzahlung ohne neue Gegenleistung als Bargeschäft einordnen.
+- Lieferung und Zahlung nicht transaktionsscharf zuordnen.
+- § 142 als Ausschluss jeder Vorsatzanfechtung verstehen.
+- Kenntnis der Zahlungsunfähigkeit mit erkannter Unlauterkeit gleichsetzen.
 
 ## Output-Template
 
-**Prüfung § 142 InsO — Bargeschäftsprivileg**
+**Prüfung § 142 InsO — Bargeschäft**
 
-Sachverhalt (kurz): [...]
+| Merkmal | Ergebnis | Beleg |
+|---|---|---|
+| Leistung Schuldner | [...] | [...] |
+| Gegenleistung in Masse | [...] | [...] |
+| Gleichwertigkeit | ja/nein/offen | [...] |
+| Unmittelbarkeit | ja/nein/offen | [...] |
+| Arbeitsentgelt | ja/nein | [...] |
+| § 133 zusätzlich behauptet | ja/nein | [...] |
+| erkannte Unlauterkeit | ja/nein/offen | [...] |
 
-| Merkmal | Ergebnis |
-|---|---|
-| Gleichwertigkeit der Gegenleistung | ja / nein (Marktpreis: [...]) |
-| Unmittelbarer zeitlicher Zusammenhang | ja (Abstand: [...] Tage) / nein |
-| Kenntnis der Zahlungsunfähigkeit (§ 142 Abs. 2) | ja → kein Privileg / nein |
-| Vorsatzanfechtung § 133 InsO | ja → § 133 Abs. 3 beachten |
-
-**Ergebnis:** Bargeschäftsprivileg greift / greift nicht. Anfechtbarkeit [ja / nein].
+**Ergebnis:** § 142 InsO [greift / greift nicht / offen]. Bei § 133 InsO bleibt Human Review erforderlich.
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- IX ZR 187/13: ersatzlos entfernt (dejure.org: kein BGH-Urteil IX ZR 187/13 vom 12.02.2015 nachweisbar; das reale AZ XI ZR 187/13 gehört zum XI. Senat und betrifft Bankrecht, nicht § 142 InsO)
-- IX ZR 290/13: ersatzlos entfernt (BGH 23.10.2014 – IX ZR 290/13 betrifft Kreditkartenanfechtung nach § 130 InsO / mittelbare Zuwendungen, nicht Bargeschäftsprivileg oder AnfRefG 2017; Datum im Skill war zudem falsch als 22.01.2015 angegeben; Quelle: dejure.org/2014,35193)
+Hinweis: Keine Rechtsberatung. § 142 InsO schützt echten Austausch, nicht nachträgliche Krisenbereinigung.

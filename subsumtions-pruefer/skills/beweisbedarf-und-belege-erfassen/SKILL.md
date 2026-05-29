@@ -1,6 +1,6 @@
 ---
 name: beweisbedarf-und-belege-erfassen
-description: "Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverstaendige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Strukturiertes Beweis-Tracking nach §§ 355-484 ZPO."
+description: "Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Strukturiertes Beweis-Tracking nach §§ 355-484 ZPO."
 ---
 
 # Beweisbedarf und Belege erfassen
@@ -31,8 +31,7 @@ Jede Subsumtion steht und fällt mit dem Beweisergebnis. Dieser Skill erfasst f�
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 08.07.2020 - VIII ZR 163/18, NJW 2020, 2944 — Die sekundäre Darlegungslast des Beklagten greift, wenn der Kläger ausserhalb des maßgeblichen Geschehensablaufs steht und ihm nähere Einzelheiten nicht zugänglich sind; der Gegner muss dann zumutbar Auskunft geben.
-- BGH, Urt. v. 15.03.2017 - VIII ZR 295/15, NJW 2017, 2113 — Digitale Dokumente (E-Mails, Screenshots) unterliegen dem Urkundsbeweis analog §§ 415 ff. ZPO nur bei unbestrittener Echtheit; andernfalls Augenschein nach § 371 ZPO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweismittel-Katalog (ZPO)
 
@@ -56,7 +55,7 @@ Das System geht jedes TBM der Reihe nach durch und fragt:
 3. **Beleg vorhanden?** Der Nutzer kann angeben:
    - (A) Beleg liegt vor (Dokument, Foto, Screenshot) → Hochladen oder Benennen
    - (B) Zeuge bekannt → Name und Erreichbarkeit notieren
-   - (C) Tatsache behaupte ich; Beleg beschaffe ich später → Markierung „offen"
+   - (C) Tatsache behaupte ich; Beleg beschaffe ich später → Markierung "offen"
    - (D) Keine Tatsache vorhanden für dieses TBM → TBM als nicht erfüllt markieren
 4. **Sekundäre Darlegungslast:** Liegt ein Fall vor, in dem der Gegner näherliegende Informationen hat? → Verweis auf BGH-Rechtsprechung zur sekundären Darlegungslast
 5. **Beweiswert-Hinweis:** Das System gibt einen groben Hinweis auf den typischen Beweiswert des genannten Beweismittels (z.B. öffentliche Urkunde: voller Beweis § 415 ZPO; Privaturkunde: § 416 ZPO begrenzt).
@@ -100,12 +99,9 @@ Das System fragt nach vollständigem Namen und Adresse des Zeugen. Es weist dara
 
 Das System weist darauf hin, dass Originale stets vorzuziehen sind. Kopien können bestritten werden (§ 420 ZPO).
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger §§ 355-484 ZPO (Beweisrecht) — Standard-Prozessrechtspraxis
-- Thomas/Putzo ZPO §§ 286, 287 (Beweiswürdigung und -mass) — Kurzkommentar mit BGH-Nachweisen
-- MüKo ZPO/Prütting §§ 284 ff. (Beweisrecht Gesamtdarstellung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Beweis-Tracking-Liste
 
 Am Ende der Beweiserfassung erstellt das System eine tabellarische Übersicht:
@@ -115,7 +111,7 @@ Am Ende der Beweiserfassung erstellt das System eine tabellarische Übersicht:
 | [TBM 1] | [Nutzerangabe] | [Typ] | Kläger/Beklagter | vorhanden / offen / fehlt |
 | [TBM 2] | … | … | … | … |
 
-„Offen" markierte TBM werden als Risikopositionen der Klage / des Antrags ausgewiesen.
+"Offen" markierte TBM werden als Risikopositionen der Klage / des Antrags ausgewiesen.
 
 ## Output-Template Beweisliste (Mandantenbrief-Auszug)
 
@@ -143,6 +139,5 @@ Mit freundlichen Grüßen
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026
-BGH V ZB 226/17 (WRONG_TOPIC): Urteil vom 20.04.2018 betrifft Ausreisegewahrsam nach AufenthG — kein Beweisrecht-Bezug. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt; Zitation in Anscheinsbeweis-Abschnitt ebenfalls entfernt.
 BGH VI ZR 290/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt.
 -->

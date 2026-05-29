@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im IT-, Datenschutz- und Telemedienrecht
@@ -154,10 +154,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Zur anwaltlichen Interessenkollision; Mandatsannahme darf nicht erfolgen, wenn konkrete Interessenkonflikte nach § 43a Abs. 4 BRAO bestehen.
-- BGH, Urt. v. 19.03.2019 — XI ZR 9/18, NJW 2019, 2080 Rn. 35: Zur Vergütungsvereinbarung nach § 3a RVG; Honorarvereinbarungen sind wirksam, wenn Mandant hinreichend informiert war und die Vereinbarung nicht unangemessen benachteiligt.
-- BAG, Urt. v. 07.09.2021 — 9 AZR 3/21, NZA 2021, 1645 Rn. 27: Fristenproblematik bei IT-Mandaten mit Berührung des Arbeitsrechts; Kombination von IT-Vertrags- und Arbeitsrechts-Fristen (3 Wochen § 4 KSchG; 3 Monate Verjährungsbeginn § 195 BGB) muss im Erstgespräch erfasst werden.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: Bei Cyber-Vorfall-Mandaten: 72-Stunden-Frist Art. 33 DSGVO beginnt ab Kenntniserlangung des Mandanten — Erstgespräch muss Zeitpunkt der Kenntniserlangung zwingend klären.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

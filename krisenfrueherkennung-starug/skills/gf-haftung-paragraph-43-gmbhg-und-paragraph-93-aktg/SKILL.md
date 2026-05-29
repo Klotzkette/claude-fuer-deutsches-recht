@@ -1,6 +1,6 @@
 ---
 name: gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg
-description: "Geschaeftsfuehrerhaftung bei Krisenversagen pruefe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Pruefraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschaeftsfuehrung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
+description: "Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise
@@ -17,9 +17,7 @@ Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt
 - § 15a InsO (Insolvenzantragspflicht)
 - § 15b InsO (Zahlungsverbote nach Insolvenzreife)
 - § 1 StaRUG (Krisenfrüherkennungspflicht)
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (GmbH-Geschäftsführerhaftung, Zahlungen nach Insolvenzreife)
-- BGH II ZR 234/17 (Haftung bei Verletzung der Überwachungspflicht)
-- BGH IX ZR 285/14 (Sorgfaltspflicht, Sanierungsberatung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzepte)
 
 ---
@@ -28,7 +26,7 @@ Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt
 
 ### 1. Sorgfaltsmaßstab — Der ordentliche und gewissenhafte Geschäftsleiter
 
-§ 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die „Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. § 93 Abs. 1 AktG formuliert für den Vorstand den Standard des „ordentlichen und gewissenhaften Geschäftsleiters". Beide Standards sind in der Krise verschärft: Je größer die Gefährdungslage, desto enger der Handlungsspielraum und desto strenger die Anforderungen an Dokumentation und Begründung.
+§ 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die "Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. § 93 Abs. 1 AktG formuliert für den Vorstand den Standard des "ordentlichen und gewissenhaften Geschäftsleiters". Beide Standards sind in der Krise verschärft: Je größer die Gefährdungslage, desto enger der Handlungsspielraum und desto strenger die Anforderungen an Dokumentation und Begründung.
 
 ### 2. Business Judgment Rule in der Krise
 
@@ -52,7 +50,7 @@ Die Business Judgment Rule (§ 93 Abs. 1 S. 2 AktG, GmbH analog) schützt den Ge
 
 § 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.**
 
-Diese Beweislastumkehr gilt analog für GmbH-Geschäftsführer (BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264)) und hat praktische Konsequenzen von erheblichem Gewicht:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Wer keine Protokolle führt, kann seine Pflichterfüllung nicht beweisen.
 - Wer keine Liquiditätsplanung vorhält, kann nicht nachweisen, dass er § 1 StaRUG erfüllt hat.

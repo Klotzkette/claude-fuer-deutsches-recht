@@ -1,6 +1,6 @@
 ---
 name: klauselgenerator-formvorbehalt-und-aenderungsvorbehalt
-description: "Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Aenderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator §§ 305b 305c BGB. Pruefraster: einfache Schriftformklausel doppelte Schriftformklausel BGH-konform (BGH XII ZR 13/13 BGH VII ZR 153/13) Textformklausel AGB-Falle § 305b BGB. Output: fertige Klausel-Texte fuer Miet- Kauf- und Dienstleistungsvertraege. Abgrenzung zu gewerberaummiete-paragraph-550-bgb-langzeitform (Mietrecht) und form-checker-fuer-vertrag-oder-willenserklaerung."
+description: "Workflow-Skill zu klauselgenerator formvorbehalt und aenderungsvorbehalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
@@ -12,16 +12,15 @@ description: "Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Aenderun
 - **§ 127 BGB** — Gewillkürte Form
 - **§ 305b BGB** — Vorrang der Individualabrede vor AGB
 - **§ 307 BGB** — Inhaltskontrolle AGB
-- **BGH XII ZR 13/13** — Qualifizierte Schriftformklausel im Gewerbemietvertrag
-- **BGH VII ZR 153/13** — Doppelte Schriftformklausel in AGB: zulässig, aber keine Aushöhlung von § 305b BGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
-### BGH XII ZR 13/13 — Qualifizierte Schriftformklausel
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat im Gewerbemietrecht anerkannt, dass eine qualifizierte Schriftformklausel — die auch mündliche Nebenabreden ausschließt und auch Änderungen der Klausel selbst der Schriftform unterwirft — zulässig ist und die Schriftform des § 550 BGB absichert.
 
-### BGH VII ZR 153/13 — Doppelte Schriftformklausel in AGB
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Eine doppelte Schriftformklausel in AGB (die auch die Aufhebung der Schriftformklausel der Schriftform unterwirft) ist grundsätzlich zulässig. Sie kann aber § 305b BGB nicht außer Kraft setzen: Individuelle Abreden haben Vorrang vor AGB, auch wenn sie mündlich getroffen wurden. Die doppelte Schriftformklausel schützt nicht vollständig vor mündlichen individuellen Abweichungen — sie schafft aber ein Beweisindiz und eine erhöhte Hürde.
 
@@ -39,7 +38,7 @@ Vereinbarungen genügen nicht.
 
 **Anwendung**: Einfache Verträge ohne AGB-Charakter, individuelle Abreden zwischen Kaufleuten oder gewerblichen Parteien.
 
-### Klausel 2 — Doppelte Schriftformklausel (BGH VII ZR 153/13-konform)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ```
 § [X] Schriftform
@@ -60,7 +59,7 @@ Abreden nach § 305b BGB nicht aus.
 
 **Anwendung**: Gewerbliche Mietverträge, Dienstleistungsverträge, Lizenzverträge.
 
-### Klausel 3 — Qualifizierte Schriftformklausel (Gewerberaummiete, BGH XII ZR 13/13)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ```
 § [X] Schriftform und Vertragsänderungen
@@ -141,7 +140,7 @@ benennen.
 
 - **§ 305b BGB Vorrang Individualabrede**: Auch die beste doppelte Schriftformklausel in AGB schützt nicht vollständig vor mündlichen individuellen Abweichungen. Beweis der mündlichen Abrede bleibt beim Behauptenden — die Klausel schafft aber ein erhebliches Beweisindiz.
 - **Schriftformklausel selbst in AGB**: Eine Schriftformklausel ist selbst AGB-pflichtig (§ 307 BGB). Sie darf nicht so formuliert sein, dass Verbraucher benachteiligt werden.
-- **qES-Klausel und Zugang**: Die Klausel zur elektronischen Form muss das Zugangserfordernis nach BGH VIII ZR 159/23 reflektieren — also klarstellen, dass der Ausdruck des qES-Dokuments nicht ausreicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Querverweise
 

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-translations-multijurisdictional
-description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und pruefen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschaefts), Governing-Language-Klauseln. Pruefraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Uebersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Uebersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf."
+description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Übersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Übersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf."
 ---
 
 # Multijurisdiktionale Uebersetzungen und Dokumente
@@ -24,14 +24,11 @@ description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und pruefen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 13.11.2018 - XI ZR 473/17, NJW 2019, 609 — Vertragsauslegung bei mehrsprachigen Dokumenten: bei Widerspruch zwischen Sprachfassungen entscheidet die Governing-Language-Klausel; fehlt sie, gilt objektive Auslegung
-- OLG Frankfurt, Urt. v. 06.03.2020 - 10 U 37/19, NJW-RR 2020, 1059 — Notarielle Uebersetzung: nur offiziell beeidigter Dolmetscher-Vermerk sichert auslaendische Verwendbarkeit; eigene Kanzlei-Uebersetzung reicht fuer dt. Verfahren, nicht fuer auslaendisches Register
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Martiny Art. 3 Rom-I-VO Rn. 1 ff. — Rechtswahl und Sprache
-- Erman BGB Art. 10 EGBGB Rn. 1 ff. — Vertragsstatut und Formvorschriften
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Terminologie-Mapping: Deutsch / Englisch
 
 | Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Aequivalent |
@@ -103,5 +100,5 @@ purposes only. In case of doubt, the German version shall prevail.
 ## Quellen
 
 - § 184 GVG; Art. 3 Rom-I-VO; Art. 10 ff. EGBGB; § 30 BeurkG
-- BGH XI ZR 473/17 (Governing Language); OLG Frankfurt 10 U 37/19 (Notaruebersetzung)
-- MueKo BGB/Martiny Art. 3 Rom-I-VO Rn. 1 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

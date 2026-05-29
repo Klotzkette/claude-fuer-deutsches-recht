@@ -1,6 +1,6 @@
 ---
 name: richtlinien-neufassung
-description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Pruefraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht fuer Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen)."
+description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Prüfraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht für Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen)."
 ---
 
 # Richtlinien-Neufassung
@@ -97,19 +97,15 @@ Freigabe-Checkliste vor Inkraftsetzung:
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- EuGH, Urt. v. 01.03.2016 — C-443/14 und C-444/14 (Alo und Osso), NJW 2016, 1063 — Richtlinien-Neufassung als Instrument der EU-Rechtsvereinheitlichung; nach Neufassung gilt Konsolidierungstext; Verweise auf Vorgaenger-RL unzulaessig
-- BVerwG, Urt. v. 19.04.2018 — 3 C 1.17, NVwZ 2018, 1232 — Neugestaltung einer Verwaltungsvorschrift; Neufassung ersetzt Altfassung vollstaendig; Uebergangsregelungen fuer laufende Verfahren erforderlich
-- BGH, Urt. v. 06.04.2022 — XII ZR 12/21, NJW 2022, 1666 — Neufassung von AGB nach Gesetzesaenderung; Pflicht zur Transparenz-Kennzeichnung gegenueber Bestandskunden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 288 AEUV (Richtlinien) — §§ 40-44 GGO (Verwaltungsvorschriften-Neufassung) — §§ 305-310 BGB (AGB-Neufassung) — §§ 133, 157 BGB (Auslegung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 Rn. 40 ff. (Richtlinien-Neufassung, Konsolidierung)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 12 Rn. 30 ff. (Volltext-Neufassung vs. Aenderungsgesetz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -119,8 +115,8 @@ Jede Änderung im Redline wird mit der maßgeblichen Norm in Kurzform zitiert:
 - `[§ 25a Abs. 1 S. 3 KWG – Proportionalität]`
 - `[EBA/GL/2021/04 Rz. 45]` – für EBA-Leitlinien
 
-Kommentarliteratur für Entwurfsbegründung:
-- Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl. 2016, § 25a Rn. 44 ff.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 20 ff.
 - BaFin-Rundschreiben 09/2017 (BA) – MaRisk [Primärquelle; abrufbar: bafin.de]
 
@@ -134,7 +130,7 @@ Kommentarliteratur für Entwurfsbegründung:
 
 ## Beispiel
 
-**Eingabe:** „Bitte die IKS-Richtlinie für GAP-2025-001 (MaRisk AT 4.3.2 – Datenhaltung) neu fassen. Richtlinie hochgeladen."
+**Eingabe:** "Bitte die IKS-Richtlinie für GAP-2025-001 (MaRisk AT 4.3.2 – Datenhaltung) neu fassen. Richtlinie hochgeladen."
 
 **Ausgabe (Auszug):**
 

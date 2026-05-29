@@ -10,7 +10,7 @@
 
 ## Bekanntmachung
 
-**über die Inkraftsetzung des Bebauungsplans Nr. 900 mit integrierter Grünordnungsplanung „Augsburg-Bahnhofsviertel West — Quartier zwischen Halderstraße, Provinostraße und Bahntrasse" sowie der hierzu erlassenen örtlichen Bauvorschriften**
+**über die Inkraftsetzung des Bebauungsplans Nr. 900 mit integrierter Grünordnungsplanung "Augsburg-Bahnhofsviertel West — Quartier zwischen Halderstraße, Provinostraße und Bahntrasse" sowie der hierzu erlassenen örtlichen Bauvorschriften**
 
 Der Stadtrat der Stadt Augsburg hat in seiner Sitzung am **23. Mai 2024** auf Grundlage der §§ 1, 2, 8, 9, 10 BauGB sowie der Art. 23 GO, Art. 81 BayBO den vorgenannten Bebauungsplan als Satzung beschlossen.
 

@@ -1,6 +1,6 @@
 ---
 name: urteilsverkuendung-310-zpo
-description: "Urteilsverkuendung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkuendungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkuendung erleben."
+description: "Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben."
 ---
 
 # Urteilsverkuendung: So endet das Verfahren

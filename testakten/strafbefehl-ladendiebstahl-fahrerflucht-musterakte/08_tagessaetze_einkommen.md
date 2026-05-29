@@ -10,7 +10,7 @@
 
 ## Hintergrund
 
-Das Amtsgericht Düsseldorf hat im Strafbefehl vom 08.05.2026 eine Geldstrafe von **60 Tagessätzen à 55 EUR** (Gesamtbetrag: 3.300 EUR) festgesetzt. Die Grundlage für die Tagessatz-Bemessung ist § 40 Abs. 2 StGB. Danach ist maßgeblich das **Nettoeinkommen, das die verurteilte Person durchschnittlich an einem Tag hat oder haben könnte** (fiktives Nettoeinkommen, „Soll-Einkommen").
+Das Amtsgericht Düsseldorf hat im Strafbefehl vom 08.05.2026 eine Geldstrafe von **60 Tagessätzen à 55 EUR** (Gesamtbetrag: 3.300 EUR) festgesetzt. Die Grundlage für die Tagessatz-Bemessung ist § 40 Abs. 2 StGB. Danach ist maßgeblich das **Nettoeinkommen, das die verurteilte Person durchschnittlich an einem Tag hat oder haben könnte** (fiktives Nettoeinkommen, "Soll-Einkommen").
 
 Dieser Vermerk prüft, ob der angesetzte Tagessatz von 55 EUR der tatsächlichen wirtschaftlichen Lage der Mandantin entspricht, und entwickelt Argumente für eine Anpassung.
 

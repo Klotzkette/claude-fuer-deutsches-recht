@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-massenentlassung-17-kschg
-description: "Massenentlassung mit Anzeigepflicht nach § 17 KSchG und Konsultationspflicht des Betriebsrats. Anwendungsfall Unternehmen plant Stellenabbau mit Schwellenwerten 5/25/30 Beschaeftigte. Normen § 17 KSchG Anzeige Bundesagentur fuer Arbeit § 17 Abs. 2 KSchG Konsultation BR zwei Wochen §§ 112 112a BetrVG Interessenausgleich Sozialplan EuGH C-188/03. Pruefraster Schwellenwerte Konsultationsfrist Anzeige-Timing Fehlerfolge Unwirksamkeit Interessenausgleich Nachteilsausgleich § 113 BetrVG. Output Paragrafenkette mit Fristen Klageschrift-Bausteine AN-Strategie AG-Strategie und Workflow-Phasen. Abgrenzung zu fachanwalt-arbeitsrecht-betriebsratsanhoerung und fachanwalt-arbeitsrecht-kuendigungsschutzklage."
+description: "Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Massenentlassung § 17 KSchG
@@ -47,32 +47,25 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 | 60 AN bis unter 500 AN | 10 % oder mehr als 25 Entlassungen |
 | 500 AN und mehr | Mindestens 30 Entlassungen |
 
-Massgeblich: alle Entlassungen **innerhalb von 30 Tagen**; auch Aufhebungsvertraege, die auf Veranlassung des AG geschlossen werden, zaehlen mit (EuGH C-422/14 Pujante Rivera).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| EuGH | C-188/03 (Junk) | 27.01.2005 | Kuendigung darf erst nach Abschluss der Anzeige ausgesprochen werden; Konsultation + Anzeige vor Kuendigungsausspruch zwingend; Verstoss = Unwirksamkeit |
-| EuGH | C-12/08 (Mono Car) | 16.07.2009 | Individuelle Kuendigungsschutzregeln (zB KSchG) treten neben die Massenentlassungs-RL; beide Schutzsysteme kumulativ |
-| EuGH | C-422/14 (Pujante Rivera) | 11.11.2015 | Aufhebungsvertraege auf AG-Veranlassung zaehlen zum Schwellenwert; Freiwilligkeit des AN ist irrelevant |
-| EuGH | C-134/22 | 13.07.2023 | Konsultationspflicht umfasst auch Massnahmen zur Vermeidung; AG muss Auskunft ueber alle relevanten Informationen erteilen |
-| BAG | 6 AZR 948/08 | 22.04.2010 | Verstoss gegen § 17 KSchG-Anzeigepflicht fuehrt zur Unwirksamkeit der Kuendigungen; Heilung nicht moeglich |
-| BAG | 2 AZR 276/16 | 22.09.2016 | Konsultationsverfahren: Unterrichtungspflicht und Konsultationspflicht stehen selbstaendig nebeneinander; Massenentlassungsanzeige unwirksam wenn Betriebsrat irreführend über Stand der Beratungen informiert wird (BAGE 157 1) |
-| BAG | 6 AZR 281/21 | 19.05.2022 | Interessenausgleich mit Namensliste nach § 1 Abs. 5 KSchG bei Massenentlassung: Darlegungslast des AG bei abgekuerzter Pruefung |
-| BAG | 2 AZR 155/22 | 13.04.2023 | Sozialplan-Dotierung: Einigungsstelle darf wirtschaftliche Belastungsgrenze des AG beruecksichtigen; ueberhoeher Sozialplan kann auf Null reduziert werden |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Pruefschema Massenentlassung
 
 | Schritt | Pruefpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Schwellenwert erreicht? (Betriebsgroesse x Entlassungszahl) | § 17 Abs. 1 KSchG | Kein Anzeigeverfahren noetig |
-| 2 | Aufhebungsvertraege einbezogen? | EuGH C-422/14 | Falschberechnung = Unwirksamkeit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 | Konsultation BR vollstaendig und rechtzeitig? | § 17 Abs. 2 KSchG | Anzeige und Kuendigungen unwirksam |
-| 4 | Konsultationsdauer mindestens 2 Wochen? | BAG 2 AZR 276/16 | Zu kurze Konsultation = Fehler |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Anzeige schriftlich bei zustaendiger BA? | § 17 Abs. 3 KSchG | Fehlende Anzeige = Unwirksamkeit |
 | 6 | BR-Stellungnahme der Anzeige beigefuegt? | § 17 Abs. 3 S. 2 KSchG | Anzeige unvollstaendig |
-| 7 | Kuendigungen erst nach Anzeigeneingang ausgesprochen? | EuGH C-188/03 | Alle Kuendigungen unwirksam |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Entlassungssperre 1 Monat beachtet? | § 18 Abs. 1 KSchG | Kuendigung vor Fristablauf unwirksam |
 | 9 | Interessenausgleich versucht? | § 112 Abs. 2 BetrVG | Nachteilsausgleich § 113 BetrVG |
 | 10 | Sozialplan-Verhandlung oder Einigungsstelle? | § 112 Abs. 2-4 BetrVG | Erzwingbar; keine Kuendigung ohne Sozialplan moeglich wenn BR widerspricht |
@@ -107,7 +100,7 @@ Massgeblich: alle Entlassungen **innerhalb von 30 Tagen**; auch Aufhebungsvertra
 7. Erst jetzt: Kuendigungsschreiben aushaendigen
 ```
 
-**Kritischer Fehler:** Kuendigungsschreiben vor Eingang der Anzeige bei BA = Unwirksamkeit aller Kuendigungen (EuGH C-188/03).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anzeige § 17 Abs. 3 KSchG — Mindestinhalt
 
@@ -147,7 +140,7 @@ Anlagen:
 - Erzwingbar: wenn BR und AG sich nicht einigen, entscheidet **Einigungsstelle** (§ 112 Abs. 4 BetrVG)
 - Inhalt: Abfindungs-Formel, Outplacement, Qualifizierungsmassnahmen, Transfergesellschaft
 - Typische Abfindungsformel: 0.5 bis 1.0 Bruttomonatsgehaelter je Beschaeftigungsjahr
-- Einigungsstelle muss wirtschaftliche Belastungsgrenze beachten (BAG 2 AZR 155/22)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nachteilsausgleich § 113 Abs. 3 BetrVG
 
@@ -214,7 +207,7 @@ Klageantrag:
 
 Begruendung (kumulativ):
 a) Verletzung § 17 KSchG: Anzeige bei BA fehlerhaft oder
-   Konsultationsverfahren unvollstaendig gemaess EuGH C-188/03;
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) BR-Anhoerung nach § 102 BetrVG mangelhaft;
 c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 ```
@@ -236,13 +229,9 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 → Art. 2-4 RL 98/59/EG (Massenentlassungs-RL)
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- APS/Moll, Kuendigungsrecht, 6. Aufl. 2022, § 17 KSchG Rn. 1-150 (Schwellenwerte, Konsultation, Anzeige)
-- ErfK/Kiel, 25. Aufl. 2025, § 17 KSchG Rn. 1 ff. (Anzeigepflicht und Folgen) und § 112 BetrVG Rn. 1 ff.
-- Fitting, BetrVG-Kommentar, 32. Aufl. 2024, §§ 112, 112a, 113 Rn. 1 ff. (Sozialplan, Interessenausgleich, Nachteilsausgleich)
-- Schaub/Koch, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 145 Rn. 1 ff. (Massenentlassung Praxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen — Ueberblick
 
 | Frist | Dauer | Rechtsgrundlage |
@@ -262,7 +251,7 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 | Kuendigungsschreiben vor BA-Eingang der Anzeige | Alle Kuendigungen unwirksam |
 | Anzeige ohne BR-Stellungnahme | Anzeige unvollstaendig; wiederholen |
 | Sozialplan-Verhandlung umgangen | Nachteilsausgleich § 113 BetrVG fuer alle entlassenen AN |
-| Aufhebungsvertraege nicht zum Schwellenwert gezaehlt | Fehlerhafte Schwellenwert-Berechnung (EuGH C-422/14) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 102 BetrVG-Anhoerung pro Kuendigung vergessen | Jede einzelne Kuendigung gesondert unwirksam |
 | Individuelle Kuendigung vor Ablauf der Entlassungssperre | Unwirksam nach § 18 Abs. 1 KSchG |
 
@@ -281,7 +270,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Massenentlassung § 17 KSchG anfechten | Vollstaendige Unwirksamkeitspruefung; Klage nach Template unten |
 | Variante A — Anzeige vergessen (klarer Fehler) | Starke Unwirksamkeit; hohe Vergleichsbereitschaft des AG erwartbar |
-| Variante B — Betriebsrat-Konsultation fehlerhaft | § 17 Abs. 2 KSchG iVm EuGH C-134/22; Konsultationspflicht verletzt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Variante C — Mandant will schnell neue Stelle | Schneller Vergleich priorisieren; Klage als Druckmittel |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -325,7 +314,6 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Adressat & Tonfall
 
 | Adressat | Tonfall | Hauptpunkt |
@@ -348,12 +336,8 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 - BGB §§ 195, 199
 - GKG § 42
 - RL 98/59/EG (EU-Massenentlassungs-RL); RL 2002/14/EG
-- EuGH C-188/03 (27.01.2005); EuGH C-12/08 (16.07.2009)
-- EuGH C-422/14 (11.11.2015); EuGH C-134/22 (13.07.2023)
-- BAG 6 AZR 948/08 (22.04.2010); BAG 2 AZR 276/16 (22.09.2016)
-- BAG 6 AZR 281/21 (19.05.2022); BAG 2 AZR 155/22 (13.04.2023)
-- APS/Moll KSchG § 17; Fitting BetrVG §§ 112, 113; ErfK/Kiel KSchG § 17
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 865/16 (WRONG_TOPIC): Echtes Thema laut dejure.org (https://dejure.org/2017,35401) ist ordentliche Kündigung GmbH-Geschäftsführer § 14 Abs. 1 Nr. 1 KSchG Organstellung (NZA 2018 358) – kein Bezug zu Massenentlassung oder Konsultationsverfahren. Ersetzt durch BAG 2 AZR 276/16 (22.09.2016, BAGE 157 1, NZA 2017 395): Konsultationsverfahren Massenentlassung; Unterrichtungs- und Konsultationspflicht nach § 17 Abs. 2 KSchG stehen selbständig nebeneinander; bereits im Skill als Sekundärquelle etabliert. Alle drei Fundstellen aktualisiert.
 -->

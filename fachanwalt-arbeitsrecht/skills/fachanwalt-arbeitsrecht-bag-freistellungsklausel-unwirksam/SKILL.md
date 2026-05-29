@@ -1,9 +1,9 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam
-description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kuendigung unwirksam nach § 307 BGB. Anwendungsfall Arbeitsvertrag enthaelt pauschale Freistellungsklausel und Arbeitnehmer will weiterarbeiten oder Annahmeverzug geltend machen. Normen § 307 BGB AGB-Kontrolle Freistellung § 615 BGB Annahmeverzug BAG GS 1/84 Beschaeftigungsanspruch. Pruefraster Klauselinhalt tragfaehiger Grund im konkreten Fall schutzwuerdige Interessen Geheimhaltung Konkurrenzsorge Betriebsfrieden. Output Schriftsatz-Baustein mit AGB-Angriff Beschaeftigungsantrag und Annahmeverzugs-Berechnung. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und schriftsatzkern-substantiierung."
+description: "Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
-# BAG 25.03.2026 — Pauschale Freistellungsklausel nach Kündigung unwirksam (5 AZR 108/25)
+# Rechtsprechung live prüfen
 
 ## Kaltstart-Rückfragen
 
@@ -19,9 +19,9 @@ description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Ku
 
 ## Kernaussage des Urteils
 
-Das Bundesarbeitsgericht hat mit Urteil vom 25. März 2026 (5 AZR 108/25) eine in Formular-Arbeitsverträgen verbreitete Standardklausel kassiert. Eine Klausel, die den Arbeitgeber pauschal und ohne weitere Voraussetzung berechtigt, den Arbeitnehmer nach Ausspruch einer Kündigung unter Fortzahlung der Vergütung freizustellen, benachteiligt den Arbeitnehmer unangemessen nach § 307 Abs. 1 BGB.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Die Klausel kollidiert mit dem **Beschäftigungsanspruch des Arbeitnehmers**, den der Große Senat des Bundesarbeitsgerichts am 27. Februar 1985 (GS 1/84) festgestellt hat: Jeder Arbeitnehmer hat ein grundrechtlich fundiertes Interesse daran, seine Arbeitskraft tatsächlich einsetzen und damit seine berufliche Persönlichkeit entfalten zu können. Dieser Anspruch besteht auch nach Ausspruch einer ordentlichen Kündigung bis zum Ablauf der Kündigungsfrist fort.
+Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsprechung begründet werden. Vor einer Ausgabe ist zu prüfen, welche Entscheidung die tragende Aussage wirklich trägt und ob sie für Freistellung nach Kündigung, AGB-Kontrolle und Annahmeverzug passt.
 
 ## Rechtsgrundlagen
 
@@ -37,23 +37,14 @@ Die Klausel kollidiert mit dem **Beschäftigungsanspruch des Arbeitnehmers**, de
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BAG GS | GS 1/84 | 27.02.1985 | Beschäftigungsanspruch des Arbeitnehmers als eigenständiges Recht |
-| BAG | 5 AZR 108/25 | 25.03.2026 | Pauschale Freistellungsklausel unwirksam nach § 307 BGB |
-| BAG | 5 AZR 501/12 | 19.03.2014 | Freistellung bei konkretem berechtigtem Interesse zulässig |
-| BAG | 10 AZR 668/07 | 26.08.2009 | Annahmeverzug: Arbeitnehmer muss Leistungsbereitschaft nicht gesondert anbieten wenn AG ernsthaft ablehnt |
-| BAG | 5 AZR 559/13 | 19.03.2014 | Freistellung und Urlaubs-Anrechnung: AG kann in der Freistellungserklärung gleichzeitig Urlaub gewaehren, sofern klar und eindeutig erklärt; pauschale Anrechnung genügt nicht |
-| BAG | 9 AZR 416/22 | 31.01.2023 | Während unwirksamer Freistellung entstehende Urlaubsansprüche erlischen nicht; Urlaub muss nach Rückkehr gewährt werden oder ist abzugelten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 615 BGB Rn. 50 ff. (Annahmeverzug bei Freistellung)
-- Preis/Stölting, Der Arbeitsvertrag, 7. Aufl. 2024, II F 20 (Freistellungsklauseln nach Kündigung)
-- Schaub/Linck, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 122 Rn. 30 ff. (einseitige Freistellung und Rechtsfolgen)
-- HWK/Krause, 11. Aufl. 2024, § 611a BGB Rn. 450 ff. (Beschäftigungsanspruch und Ausnahmen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann ist Freistellung weiterhin zulässig
 
-Das BAG 5 AZR 108/25 schließt Freistellung nicht generell aus. Verboten ist nur die **pauschale Vorratsklausel ohne Einzelfallprüfung**.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Freistellungsgrund | Anforderung |
 |---|---|
@@ -63,7 +54,7 @@ Das BAG 5 AZR 108/25 schließt Freistellung nicht generell aus. Verboten ist nur
 | Störung Betriebsfrieden | Konkrete erhebliche Störung, dokumentiert; bloße Antipathie reicht nicht |
 | Überlapping-Beschäftigung nicht möglich | Stelle bereits neu besetzt; Tätigkeiten physisch nicht mehr vorhanden |
 
-Pauschale Hinweise auf "branchenüblich", "aus organisatorischen Gründen" oder "nach allgemeiner Kündigungspraxis" genügen nach BAG 5 AZR 108/25 nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anwaltliche Strategie
 
@@ -80,7 +71,7 @@ Pauschale Hinweise auf "branchenüblich", "aus organisatorischen Gründen" oder 
 | Konstellation | Empfehlung |
 |---|---|
 | Freistellung notwendig wegen Konkurrenz | Konkrete Tatsachen dokumentieren; Freistellung mit schriftlicher Begründung erklären |
-| Freistellung vorsorglich ohne Grund | Unwirksam nach BAG 5 AZR 108/25; Vergütung weiter zahlen, Annahmeverzug-Risiko tragen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Neue Freistellungsklausel im AV | Klausel mit offenem Tatbestand ("soweit sachlich begründeter Anlass besteht") formulieren; Inhaltskontrolle prüfen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -107,7 +98,7 @@ Die in § [X] enthaltene Klausel ist eine formularmaessige
 Standardklausel, die den Arbeitgeber pauschal und ohne
 weitere Voraussetzung zur einseitigen Freistellung
 berechtigen soll. Diese Klausel ist nach der Rechtsprechung
-des Bundesarbeitsgerichts (BAG, 25.03.2026 — 5 AZR 108/25)
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 unwirksam, weil sie die Klägerin unangemessen benachteiligt
 im Sinne des § 307 Abs. 1 BGB.
 
@@ -115,7 +106,7 @@ Konkrete tragfaehige Gründe fuer eine Freistellung legt die
 Beklagte nicht dar. Pauschale Hinweise genuegen nicht.
 
 Der Beschaeftigungsanspruch der Klaegerin (BAG GS,
-27.02.1985 — GS 1/84) besteht bis zum Ablauf der
+nach verifizierter Rechtsprechung besteht bis zum Ablauf der
 Kuendigungsfrist am [Datum] fort.
 
 Die Beklagte befindet sich seit [Datum der Freistellung]
@@ -138,7 +129,7 @@ Es wird beantragt:
    Fälligkeit zu zahlen.
 
 Begründung:
-Die Freistellungsklausel ist nach BAG 5 AZR 108/25
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 unwirksam. Die Beklagte ist seit [Datum] in Annahme-
 verzug. Die Vergütung für den Annahmeverzugszeitraum
 berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
@@ -152,8 +143,7 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 
 ## Beweislast und Darlegungslast
 
-- **Arbeitgeber**: bei Freistellung muss er die konkreten Tatsachen für die sachliche Rechtfertigung darlegen und beweisen (BAG 5 AZR 501/12).
-- **Arbeitnehmer**: muss Freistellungserklärung und eigene Leistungsbereitschaft darlegen; bei ernsthafter Verweigerung des AG kein erneutes Arbeitsangebot nötig (BAG 10 AZR 668/07).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGB-Inhaltskontrolle prüft das Gericht von Amts wegen; keine Beweislast der Parteien.
 
 ## Prüfschema Freistellung
@@ -164,9 +154,9 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Freistellungsklausel im AV vorhanden? | § 307 BGB | Nur Einzelfall-Freistellung möglich |
-| 2 | Klausel pauschal ohne Tatbestand? | BAG 5 AZR 108/25 | Klausel unwirksam |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 | Konkreter Freistellungsgrund? (Tabelle oben) | § 307 Abs. 1 BGB | Ohne Grund: Freistellung unwirksam |
-| 4 | Beschäftigungsanspruch geltend gemacht? | BAG GS 1/84 | Ohne Geltendmachung kein Annahmeverzug |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | AG in Annahmeverzug? | § 615 BGB | Vergütungspflicht trotz Freistellung |
 | 6 | Wettbewerbsverbot relevant? | §§ 74 ff. HGB | Bei nachvertr. Wettbewerbsverbot: Karenzentschädigung |
 
@@ -175,7 +165,7 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
 | Annahmeverzug | Ab Zeitpunkt der Freistellung, wenn kein Grund | § 615 BGB |
-| Klage auf Weiterbeschäftigung | Während der Kündigungsfrist; danach Erledigung | BAG GS 1/84 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schadensersatz bei unwirksamer Freistellung | 3 Jahre | §§ 195, 199 BGB |
 
 ## Streitwert und Kosten
@@ -185,7 +175,7 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 - **Erste Instanz**: § 12a ArbGG — keine Kostenerstattung.
 - **Wirtschaftlicher Hauptwert**: meist im Vergleich (Abfindungs-Erhöhung wegen Beschäftigungsanspruch).
 
-## Typische Klauseln und ihre Bewertung nach BAG 5 AZR 108/25
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Klausel-Wortlaut | Bewertung |
 |---|---|
@@ -203,8 +193,5 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 ## Quellen
 
 - BGB §§ 307, 615, 611a
-- BAG GS 1/84 (27.02.1985)
-- BAG 5 AZR 108/25 (25.03.2026)
-- BAG 5 AZR 501/12 (19.03.2014)
-- BAG 10 AZR 668/07 (26.08.2009)
-- ErfK/Müller-Glöge BGB § 615; Preis Arbeitsrecht § 615 BGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

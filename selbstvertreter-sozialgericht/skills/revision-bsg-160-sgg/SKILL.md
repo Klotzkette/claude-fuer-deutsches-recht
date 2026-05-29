@@ -1,6 +1,6 @@
 ---
 name: revision-bsg-160-sgg
-description: "Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise fuer Buerger nach LSG-Urteil."
+description: "Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil."
 ---
 
 # Revision zum BSG — § 160 SGG

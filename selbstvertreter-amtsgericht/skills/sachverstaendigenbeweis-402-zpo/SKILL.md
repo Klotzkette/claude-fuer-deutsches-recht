@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenbeweis-402-zpo
-description: "Sachverstaendigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverstaendigen Privatgutachten als Urkunde Gerichtsgutachten Pruefung der Glaubwuerdigkeit. Wann ist Sachverstaendigen-Beweis sinnvoll und wann reicht Privatgutachten."
+description: "Sachverständigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverständigen Privatgutachten als Urkunde Gerichtsgutachten Prüfung der Glaubwürdigkeit. Wann ist Sachverständigen-Beweis sinnvoll und wann reicht Privatgutachten."
 ---
 
 # Sachverstaendigenbeweis: Wenn Fachfrage entscheidet

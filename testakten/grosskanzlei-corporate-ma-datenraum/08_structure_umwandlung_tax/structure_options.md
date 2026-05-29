@@ -51,12 +51,12 @@ ECP erwirbt 100 % der Aktien der Solaris Industries AG von der Solaris Familienh
 
 ### 3.1 Beschreibung
 
-ECP erwirbt nicht die Aktien, sondern einzeln definierte Vermögenswerte und Verbindlichkeiten des Betriebs „Precision Drive Systems" von der Solaris Industries AG. Die Gesellschaft (Solaris Industries AG) bleibt weiter bestehen und wird nach dem Asset Deal von der Holding getrennt abgewickelt oder umgewidmet.
+ECP erwirbt nicht die Aktien, sondern einzeln definierte Vermögenswerte und Verbindlichkeiten des Betriebs "Precision Drive Systems" von der Solaris Industries AG. Die Gesellschaft (Solaris Industries AG) bleibt weiter bestehen und wird nach dem Asset Deal von der Holding getrennt abgewickelt oder umgewidmet.
 
 ### 3.2 Vorteile
 
 - **Steuerlicher Step-up:** ECP kann die erworbenen Wirtschaftsgüter auf den Kaufpreis aufstocken (Abschreibungen auf Goodwill und immaterielle Werte erhöhen die Steuerlast der Zielgesellschaft und senken die Kaufpreisinvestition de facto).
-- **Selektion:** ECP kann gezielt Verbindlichkeiten und Risiken (z. B. historische Exportkontrollverstöße, hängende Steuerschulden) ausschließen und nur „saubere" Aktiva erwerben.
+- **Selektion:** ECP kann gezielt Verbindlichkeiten und Risiken (z. B. historische Exportkontrollverstöße, hängende Steuerschulden) ausschließen und nur "saubere" Aktiva erwerben.
 - **Kein § 8c KStG:** Kein Anteilserwerb; Verlustvortragsproblematik entfällt.
 
 ### 3.3 Nachteile

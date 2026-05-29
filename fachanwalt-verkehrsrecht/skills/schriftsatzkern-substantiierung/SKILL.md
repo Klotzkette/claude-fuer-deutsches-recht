@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Klage Verkehrsunfall, Einspruch OWi-Bussgeldbescheid, Klage KFZ-Versicherung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Klage Verkehrsunfall, Einspruch OWi-Bußgeldbescheid, Klage KFZ-Versicherung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
@@ -196,8 +196,6 @@ Vor Versand:
 
 ## Aktuelle Rechtsprechung Schriftsatz Verkehrsrecht
 
-- BGH, Urt. v. 22.11.2022 - VI ZR 344/21, NJW 2023, 1123 — Haftung Kfz-Unfall auf Parkplatz: § 8 Abs. 1 S. 1 StVO (rechts vor links) gilt nicht auf Parkplaetzen; massgeblich ist § 1 Abs. 2 StVO (gegenseitige Ruecksichtnahme).
-- BGH, Urt. v. 19.07.2016 - VI ZR 491/15, NJW 2016, 3363 — Sachverstaendigenkosten: Kosten des Schadensgutachtens gehoeren zum erforderlichen Herstellungsaufwand nach § 249 BGB; massgeblich sind Erkenntnis- und Einflussmoglichkeiten des Geschaedigten, nicht des Zessionars.
-- OLG Muenchen, Urt. v. 08.04.2022 - 10 U 7193/20, NJW-RR 2022, 988 — fiktive Abrechnung: Geschaedigter kann fiktive Reparaturkosten nach Unfallschaden beanspruchen; muss aber Gleichartigkeit des Fahrzeugs bei Kauf eines Ersatzfahrzeugs nachweisen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 252/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND); ersetzt durch verifizierten BGH VI ZR 491/15 (dejure.org 2016,29366) zum selben Thema Sachverstaendigenkosten. BGH VI ZR 79/19 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). NJW-Fundstelle VI ZR 344/21 korrigiert: 2023, 1123 (nicht 2023, 448). -->

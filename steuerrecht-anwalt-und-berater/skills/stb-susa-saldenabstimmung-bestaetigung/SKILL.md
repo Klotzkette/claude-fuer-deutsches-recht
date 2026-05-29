@@ -1,6 +1,6 @@
 ---
 name: stb-susa-saldenabstimmung-bestaetigung
-description: "Saldenabstimmung und Saldenbestaetigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestaetigungs-Mappe."
+description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe."
 ---
 
 # Saldenabstimmung — Bestaetigung der Stichtagssalden

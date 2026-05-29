@@ -1,6 +1,6 @@
 ---
 name: ueberwachung-konkurrenten
-description: "Laufende Ueberwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veroeffentlichung. Disclaimer Vollstaendigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung."
+description: "Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veröffentlichung. Disclaimer Vollständigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung."
 ---
 
 # überwachung-konkurrenten
@@ -59,7 +59,7 @@ naechste_iteration: 27.05.2026
 
 Pro Iteration (z. B. wöchentlich):
 
-1. Espacenet Smart Search mit Anmelder + Klassen + Schlagwörter, Datumsfilter „neu seit letzter Iteration".
+1. Espacenet Smart Search mit Anmelder + Klassen + Schlagwörter, Datumsfilter "neu seit letzter Iteration".
 2. Google Patents Alert (wenn registriert) — Alternative: direkter Aufruf mit Filtern `assignee=`, `cpc=`, `after=`.
 3. WIPO PATENTSCOPE für PCT-Anmeldungen.
 4. USPTO PPUBS für US-Anmeldungen (mit `.AN.`-Feld für Assignee).
@@ -75,7 +75,7 @@ Pro Treffer:
 
 ### Einspruchsfrist-Tracker
 
-Bei Treffern mit Status „erteilt" Frist berechnen:
+Bei Treffern mit Status "erteilt" Frist berechnen:
 
 - **EP-Patent:** Art. 99 EPÜ — neun Monate ab Veröffentlichung der Erteilung.
 - **DE-Patent:** § 59 PatG — drei Monate ab Veröffentlichung der Erteilung.
@@ -119,14 +119,14 @@ Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 26.09.2006 — X ZR 181/03 (Einspruchsfrist):** Die Einspruchsfrist nach § 59 PatG beginnt mit dem Tag der Veroeffentlichung des Hinweises auf die Erteilung; sie ist absolut und nicht verlängerbar; ein verspätet eingereichte Einspruch ist unzulässig.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 328/87 (Drittbeobachtungen):** Im EPA-Erteilungsverfahren koennen Dritte Beobachtungen (Art. 115 EPU) einreichen, ohne am Verfahren beteiligt zu werden; durch fruehzeitige Beobachtung koennen relevante Entgegenhaltungen in das Pruefungsverfahren eingebracht werden, bevor ein formeller Einspruch noetig wird.
 
-> **BGH, Beschl. v. 19.09.2017 — X ZB 1/17 (Beschwerdegebuehr bei mehreren Beschwerdefuehrern):** Legen mehrere Beteiligte gemeinsam Beschwerde ein, ist die Beschwerdegebuehr entsprechend der Anzahl der Beschwerdefuehrer mehrfach zu entrichten; wird nur eine Gebuehr gezahlt, ist zu pruefen, ob sie einem bestimmten Beteiligten zugeordnet werden kann; andernfalls gilt die Beschwerde der nicht zugeordneten Beteiligten als nicht erhoben (GRUR 2017, 1286).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
-Problem: BGH X ZB 1/17 war mit falschem Datum (16.05.2017 statt 19.09.2017) und vollstaendig falschem Leitsatz zitiert ("Wahl zwischen DPMA-Einspruch und Nichtigkeitsklage; 3-Monats-Frist"). Das Urteil betrifft tatsaechlich die Beschwerdegebuehr bei gemeinsamer Beschwerde mehrerer Beteiligter (GRUR 2017, 1286).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Massnahme: Datum und Leitsatz korrigiert auf tatsaechlichen Inhalt.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.09.2017&Aktenzeichen=X+ZB+1%2F17
 -->

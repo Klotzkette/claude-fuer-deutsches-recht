@@ -1,6 +1,6 @@
 ---
 name: anfg-anfechtungsklage-prozessuales
-description: "Mandant hat vollstreckbaren Titel und will angefochtene Vermoegensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Pruefraster: Titel und Fristpruefung, Duldungs- vs. Wertersatzantrag, sachliche Zustaendigkeit AG/LG, oertliche Zustaendigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter."
+description: "Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung, Duldungs- vs. Wertersatzantrag, sachliche Zuständigkeit AG/LG, örtliche Zuständigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter."
 ---
 
 # Anfechtungsklage AnfG — Prozessuales
@@ -23,17 +23,11 @@ description: "Mandant hat vollstreckbaren Titel und will angefochtene Vermoegens
 
 ## Rechtsprechung (BGH — Leitsätze AnfG)
 
-- BGH, Urt. v. 20.09.2016 - IX ZR 278/15, NJW 2017, 254 — Zur Anfechtungsklage nach § 13 AnfG: Klageantrag muss den Gegenstand der Duldung konkret bezeichnen; pauschale Anträge auf Duldung der Zwangsvollstreckung sind unzureichend.
-- BGH, Urt. v. 17.03.2011 - IX ZR 166/08, NJW 2011, 2046 — Zur Verjährung des Anfechtungsanspruchs nach §§ 195 199 BGB: Kenntnis der anspruchsbegründenden Tatsachen muss vollständig vorhanden sein; Vermutung der Benachteiligung genügt nicht.
-- BGH, Urt. v. 25.09.2014 - IX ZR 156/12, NJW 2015, 70 — Zur Vollstreckung des Anfechtungsurteils: Duldungsurteil schafft Befugnis zur Zwangsvollstreckung in den konkret bezeichneten Gegenstand; kein allgemeiner Rückgewähranspruch.
-- BGH, Urt. v. 14.07.2016 - IX ZR 188/15, NJW 2016, 3719 — Zu Hilfsantrag Wertersatz: bei Untergang des anfechtbar übertragenen Gegenstands kann Gläubiger Wertersatz nach § 11 Abs. 2 AnfG verlangen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 11 AnfG Rn. 1 ff. (Rechtsfolge Duldung)
-- Uhlenbruck InsO § 13 AnfG Rn. 1 ff. (Klageform und Antrag)
-- Zöller ZPO § 23 Rn. 1 ff. (Sachliche Zuständigkeit AG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Klageform
 
 Die Anfechtung nach dem AnfG kann nach § 13 AnfG durch Klage oder (in laufenden Vollstreckungsverfahren) durch Widerspruch gegen die Zwangsvollstreckung geltend gemacht werden.

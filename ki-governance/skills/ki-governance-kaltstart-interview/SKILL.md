@@ -1,6 +1,6 @@
 ---
 name: ki-governance-kaltstart-interview
-description: "KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich pruefen. Fuehrt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO 2024/1689) regulatorischen Anwendungsbereich. Normen EU-KI-VO 2024/1689 Art. 3 Rolle Art. 6 Risikoklasse Hochrisiko-KI Anhang III. Output Praxisprofil in Konfiguration mit KI-Inventar Rollenklassifizierung und Governance-Framework. Abgrenzung: ki-governance-anpassen fuer spaetere Einzelaenderungen ki-inventar fuer laufende Inventar-Pflege."
+description: "KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich prüfen. Führt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO 2024/1689) regulatorischen Anwendungsbereich. Normen EU-KI-VO 2024/1689 Art. 3 Rolle Art. 6 Risikoklasse Hochrisiko-KI Anhang III. Output Praxisprofil in Konfiguration mit KI-Inventar Rollenklassifizierung und Governance-Framework. Abgrenzung: ki-governance-anpassen für spaetere Einzelaenderungen ki-inventar für laufende Inventar-Pflege."
 ---
 
 # Erstgespräch KI-Governance
@@ -36,7 +36,7 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
   i.V.m. Anhang III: Hochrisiko-KI. Art. 9–15: Anbieterpflichten. Art. 25–29:
   Betreiberpflichten.
 - **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Widerspruchsrecht
-  und Transparenzpflichten. Maßstab: EuGH C-634/21 (Schufa-Score).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Trainingsdaten.
 - **UrhG § 44b**: Text-und-Data-Mining-Schranke bei KI-Training.
 - **BSI-Gesetz (BSIG)**: KI-Systeme in kritischer Infrastruktur.
@@ -45,14 +45,12 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
   KI-Note maßgebliche Grundlage für Drittentscheidung ist.
-- EuGH, Urt. v. 04.10.2024 – C-203/22 (Dun & Bradstreet): Offenlegungs-
-  pflicht für Algorithmus-Logik in verständlicher Form.
-- BGH, Beschl. v. 26.11.2020 – I ZB 58/19, GRUR 2021, 612: Haftungs-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
   Systemen.
 
@@ -111,9 +109,9 @@ systeme sehr großer Plattformen); Sektoren (BaFin MaRisk, MDR/IVDR);
 
 **Schritt 5 — Anwendungsfall-Register und Rote Linien**
 
-Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko Anhang III Nr. 2),
+Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a),
 HR-Zusammenfassungen, Kundendienst-Entwürfe, Spesen-Anomalieerkennung.
-Rote-Linien-Frage: „Was wäre automatisch Nein?" Verbotene Praktiken
+Rote-Linien-Frage: "Was wäre automatisch Nein?" Verbotene Praktiken
 nach Art. 5 KI-VO als Ausgangspunkt (Social Scoring, subliminale
 Manipulation, Echtzeitbiometrie, Emotionserkennung am Arbeitsplatz).
 
@@ -153,7 +151,7 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 
 ## Risiken und typische Fehler
 
-- Builder/Betreiber-Frage nicht überspringen; bei „beides" die Seite mit
+- Builder/Betreiber-Frage nicht überspringen; bei "beides" die Seite mit
   größerer Governance-Last zuerst bearbeiten.
 - Kein Regime annehmen; tatsächlichen Anwendungsbereich recherchieren.
 - Anwendungsfall-Register nie aus generischen Positionen befüllen; bei
@@ -165,17 +163,14 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 
 - **AI Act Art. 3, 5, 6 i.V.m. Anhang III, 9–15, 25–29** — VO (EU) 2024/1689.
 - **DSGVO Art. 22** bei automatisierten Einzelentscheidungen.
-- **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Profiling-Anwendungsfällen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.**
 - Ausgaben auf Basis von Gesprächsangaben: `[ANGABEN AUS INTERVIEW —
   anwaltliche Prüfung empfohlen]` kennzeichnen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Ersterfassung von KI-Systemen muss Art. 22 DSGVO-Scoring-Kontext beruecksichtigen; Anbieter-/Betreiber-Rolle bestimmt Pflichtumfang nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Entscheidungssysteme muss Entscheidungslogik offenlegen — gilt fuer jedes im Kaltstart erfasste KI-System.
-- BGH, Beschl. v. 26.11.2020 — I ZB 58/19, GRUR 2021, 612 Rn. 18: Haftungsmasstabe fuer automatisierte Informationssysteme; bei Ersterfassung Haftungsregime klaren.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen; Erstgespräch muss regulatorischen Fussabdruck vollstaendig erfassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Definitionen Anbieter / Betreiber

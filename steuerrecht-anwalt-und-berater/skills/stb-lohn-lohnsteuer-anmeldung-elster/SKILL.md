@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-lohnsteuer-anmeldung-elster
-description: "Elektronische Lohnsteuer-Anmeldung ueber ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Uebermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Pruefen Senden. Output ELSTER-Quittung."
+description: "Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung."
 ---
 
 # Lohnsteuer-Anmeldung ueber ELSTER
@@ -48,7 +48,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Bruttoloehne aller AN.
 - LSt insgesamt.
 - KiSt insgesamt (Konfession der einzelnen AN).
-- SolZ insgesamt (Stand 2026: SolZ entfaellt fuer Lohnsteuerpflichtige unterhalb der Freigrenze § 3 Abs. 3 SolzG seit 01.01.2021; ueber der Milderungszone Voll-SolZ — Grenze 2026 zwingend verifizieren).
+- SolZ insgesamt (SolZ entfaellt fuer Lohnsteuerpflichtige unterhalb der Freigrenze § 3 Abs. 3 SolZG seit 01.01.2021; ab 2025 Freigrenze 18.130 EUR ESt (Einzel) / 36.260 EUR (Zusammenveranlagung); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen).
 - Pauschal versteuerte Betraege (§ 40 Abs. 1 / Abs. 2 EStG, § 40a EStG, § 37b EStG).
 - KSt-Pauschalierung Aushilfen (§ 40a EStG): 25 Prozent (kurzfristig) oder 2 Prozent (Minijob, geht direkt an Knappschaft, nicht ueber LSt-Anmeldung).
 
@@ -120,4 +120,6 @@ Stand: 05/2026.
 - AO §§ 152, 153, 240, 371.
 - BMF zu ELSTER-Verfahren.
 - LStR.
-- Verifikations-Hinweis: SolZ-Pflicht 2026 (Grenze Bruttoeinkommen) pruefen.
+- SolZ-Freigrenze 2025: 18.130 EUR ESt (Einzel); Milderungszone § 3 Abs. 3 SolZG; aktuelle Freigrenze jaehrlich pruefen (SolZG).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SolZ-Freigrenze 2025 eingesetzt) -->

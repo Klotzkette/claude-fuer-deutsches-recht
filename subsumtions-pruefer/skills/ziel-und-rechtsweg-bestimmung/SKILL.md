@@ -27,10 +27,7 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 10.12.2020 - III ZB 57/20, NJW 2021, 392 — Die Abgrenzung ordentliche Gerichtsbarkeit / Verwaltungsgerichtsbarkeit richtet sich nach der Natur des Anspruchs; privatrechtliche Forderung gegen Behörde ist vor ordentlichem Gericht zu klagen, nicht vor VG.
-- BVerwG, Beschl. v. 18.09.2019 - 6 B 46.18, NVwZ 2020, 246 — Für die Eröffnung des Verwaltungsrechtswegs (§ 40 VwGO) genügt, dass eine öffentlich-rechtliche Streitigkeit vorliegt; die Abgrenzung zu bürgerlich-rechtlichen Streitigkeiten richtet sich nach dem Charakter der streitbegründenden Norm.
-- BSG, Urt. v. 23.07.2020 - B 3 KR 4/20 R, NJW 2021, 183 — Streitigkeiten über gesetzliche Krankenversicherungsleistungen sind ausschließlich vor den Sozialgerichten (SGG) zu entscheiden; eine Klage vor dem ordentlichen Gericht ist unzulässig.
-- BGH, Beschl. v. 17.06.2021 - I ZB 55/20, NJW 2021, 2437 — Bei Zweifeln über den zuständigen Rechtsweg ist der Rechtsstreit nach § 17a GVG an das zuständige Gericht zu verweisen; eine Rüge der Unzuständigkeit muss vor dem Mündlichkeitstermin erhoben werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zielfragen
 
@@ -39,7 +36,7 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 | Nr. | Ziel | Typischer Rechtsweg |
 |-----|------|---------------------|
 | 1 | Anspruch durchsetzen (Zahlung, Unterlassung, Herausgabe) | ZPO / ordentliche Gerichtsbarkeit |
-| 2 | Anspruch abwehren (Klageabweisung, Widerklage) | ZPO |
+| 2 | Anspruch abwehren (Klageabweisung, Widerklage) | ZPO | Normtext, amtliche Hinweise, verifizierte Rechtsprechung |
 | 3 | Verwaltungsentscheidung anfechten (Bescheid) | VwGO Anfechtungsklage § 42 Abs. 1 Alt. 1 |
 | 4 | Verwaltungsentscheidung erzwingen | VwGO Verpflichtungsklage § 42 Abs. 1 Alt. 2 |
 | 5 | Sozialleistung durchsetzen oder anfechten | SGG |
@@ -70,12 +67,6 @@ Das System warnt bei folgenden Konstellationen:
 
 **Das System trifft keine verbindliche Rechtswegentscheidung.** Die endgültige Bestimmung obliegt dem Gericht (§ 17a GVG).
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO § 40 (Rechtsweg öffentliches Recht)
-- Zöller ZPO § 13 GVG (ordentlicher Rechtsweg)
-- Baumbach/Lauterbach ZPO §§ 17/17a GVG (Rechtswegverweisung)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -18,15 +18,15 @@
 - Stärken: **Semantische Suche** (Google interpretiert natürliche Sprache), **Prior Art Finder** (Knopfdruck-Stand-der-Technik), Cross-Verknüpfung zu Google Scholar, schnelle Ladezeiten, gute Volltext-Recherche auch in nicht-englischen Dokumenten durch Übersetzung.
 - Schwächen: Keine offizielle Rechtsstandsdatenbank (für Annuitäten/Erlöschen immer Originalregister konsultieren). Patentfamilie-Definition weicht teils von INPADOC ab. Algorithmus nicht transparent.
 - Suchsyntax: Freitext plus Filter (Anmelder, Erfinder, Klasse, Datum). Operatoren: Anführungszeichen für Phrasen, `-` für Ausschluss, `OR`.
-- Empfohlene Bedienung agentisch: Erste Triage natürlichsprachlich („3-phase grid balancing inverter switching frequency"); danach Filter setzen (Anmelder/Datum); Prior Art Finder bei jedem relevanten Treffer als Erweiterungspunkt.
+- Empfohlene Bedienung agentisch: Erste Triage natürlichsprachlich ("3-phase grid balancing inverter switching frequency"); danach Filter setzen (Anmelder/Datum); Prior Art Finder bei jedem relevanten Treffer als Erweiterungspunkt.
 
 ## 3. DPMAregister (Deutsches Patent- und Markenamt — Rechtsstand DE)
 
 - URL: <https://register.dpma.de>
 - Abdeckung: deutsche Patente, Gebrauchsmuster, Marken, Geschmacksmuster — vollständiger **Rechtsstand**, Akteneinsicht möglich (für veröffentlichte Akten).
-- Stärken: **autoritative Quelle für Rechtsstand DE** (Annuitäten, Erlöschen, Übertragungen, Lizenzen, Einspruchsverfahren, Nichtigkeitsverfahren). Hier liegt die Wahrheit zur Frage „lebt das Patent noch?" für deutsche Schutzrechte.
+- Stärken: **autoritative Quelle für Rechtsstand DE** (Annuitäten, Erlöschen, Übertragungen, Lizenzen, Einspruchsverfahren, Nichtigkeitsverfahren). Hier liegt die Wahrheit zur Frage "lebt das Patent noch?" für deutsche Schutzrechte.
 - Schwächen: Nur DE; UI bürokratisch; kein Volltext der Patentschrift in der Standard-Recherche (dafür DEPATISnet).
-- Suchsyntax: Aktenzeichen oder Publikationsnummer, dann „Akteneinsicht".
+- Suchsyntax: Aktenzeichen oder Publikationsnummer, dann "Akteneinsicht".
 - Empfohlene Bedienung agentisch: Nach jeder Stand-der-Technik-Recherche, in der DE-Patente vorkommen, Rechtsstand jedes relevanten DE-Dokuments hier verifizieren. **Niemals nur auf Google Patents oder Espacenet verlassen.**
 
 ## 4. DEPATISnet (DPMA-Recherchedatenbank)

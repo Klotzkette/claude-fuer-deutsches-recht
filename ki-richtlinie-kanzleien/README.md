@@ -19,7 +19,7 @@ Zur Erprobung des Plugins steht ein generischer Muster-Entwurf einer KI-Nutzungs
 
 ---
 
-## Alle 26 Skills
+## Alle 27 Skills
 
 | Skill | Beschreibung |
 |---|---|
@@ -32,7 +32,7 @@ Zur Erprobung des Plugins steht ein generischer Muster-Entwurf einer KI-Nutzungs
 | `geschgehg-bausteine` | Geschäftsgeheimnisschutz beim KI-Einsatz, § 1 Abs. 3 Nr. 1 GeschGehG, Verhältnis zu § 203 StGB |
 | `ki-vo-betreiber-pflichten` | Art. 3 Nr. 4 Betreiber, Art. 4 KI-Kompetenz, Hochrisiko-Abgrenzung Anhang III Nr. 8.a, Art. 50 Abs. 4 Kennzeichnung |
 | `ki-vo-hochrisiko-personalwesen` | Hochrisiko-KI im Personalwesen ab 2. August 2026: Anhang III Nr. 4, Pflichten und Betriebsratsrechte |
-| `rdg-pruefung-chatbot` | Wann erbringt Chatbot-Output eine Rechtsdienstleistung im Sinne des § 2 RDG; BGH I ZR 113/20 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `schatten-ki-aufdeckung` | Methoden zur Erkennung verdeckter KI-Nutzung und konstruktiver Umgang: Stilanalyse, Anlaufstelle, Amnestie |
 | `compliance-regelsatz-erstellen` | Standardisierter Zehn-Gebote-Regelsatz für den KI-Einsatz in der Kanzlei |
 | `anonymisierung-pseudonymisierung` | Stufenmodell der Anonymisierung: Schwärzung, Platzhalter, Re-Identifikationsrisikoprüfung |

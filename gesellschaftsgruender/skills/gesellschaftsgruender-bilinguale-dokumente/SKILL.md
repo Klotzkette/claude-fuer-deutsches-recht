@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-bilinguale-dokumente
-description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: §§ 2 3 GmbHG, HGB. Pruefraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englisch. Abgrenzung: nicht reine Uebersetzung ohne Inhaltspruefung."
+description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: §§ 2 3 GmbHG, HGB. Prüfraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englisch. Abgrenzung: nicht reine Übersetzung ohne Inhaltsprüfung."
 ---
 
 # Bilinguale Dokumente
 
 ## Kernsachverhalt
 
-Internationale Investoren, ausländische Gesellschafter und grenzüberschreitende M&A-Transaktionen erfordern Gesellschaftsdokumente in zwei Sprachen — regelmäßig Deutsch und Englisch. Dabei gilt im deutschen Rechtsraum: Die deutsche Fassung ist die rechtlich verbindliche; die englische Fassung ist eine „Convenience Translation". Diese Hierarchie muss in jedem Dokument durch eine Sprachvorrang-Klausel ausdrücklich vereinbart werden, sonst drohen Auslegungsstreitigkeiten und Vollstreckungsprobleme.
+Internationale Investoren, ausländische Gesellschafter und grenzüberschreitende M&A-Transaktionen erfordern Gesellschaftsdokumente in zwei Sprachen — regelmäßig Deutsch und Englisch. Dabei gilt im deutschen Rechtsraum: Die deutsche Fassung ist die rechtlich verbindliche; die englische Fassung ist eine "Convenience Translation". Diese Hierarchie muss in jedem Dokument durch eine Sprachvorrang-Klausel ausdrücklich vereinbart werden, sonst drohen Auslegungsstreitigkeiten und Vollstreckungsprobleme.
 
 Dieser Skill unterstützt bei der Erstellung, Qualitätssicherung und Konsistenzprüfung bilingualer Gesellschaftsdokumente: Satzung (Articles of Association), Gesellschaftervereinbarung (Shareholder Agreement / SHA), Geschäftsführeranstellungsvertrag (Managing Director's Agreement), Beiratsordnung (Advisory Board Charter), Term Sheet und Convertible Loan Agreement.
 
@@ -28,12 +28,12 @@ Dieser Skill unterstützt bei der Erstellung, Qualitätssicherung und Konsistenz
 ### Normtexte
 
 **§ 184 GVG — Amtssprache**
-> „Die Gerichtssprache ist deutsch."
+> "Die Gerichtssprache ist deutsch."
 
 Alle gerichtlichen Verfahren in Deutschland werden in deutscher Sprache geführt. Eingaben in anderen Sprachen sind zu übersetzen. Für die Vollstreckung aus einem englischsprachigen Schiedsspruch in Deutschland ist eine beglaubigte Übersetzung erforderlich (§ 1064 Abs. 3 ZPO).
 
 **§ 5 BeurkG — Sprache der Beurkundung**
-> „Die Verhandlung soll in deutscher Sprache geführt werden. Beteiligte, die der deutschen Sprache nicht mächtig sind, müssen einen Dolmetscher hinzuziehen."
+> "Die Verhandlung soll in deutscher Sprache geführt werden. Beteiligte, die der deutschen Sprache nicht mächtig sind, müssen einen Dolmetscher hinzuziehen."
 
 Bei Beurkundungsverfahren mit ausländischen Beteiligten: Beurkundung auf Deutsch; Dolmetscher bestellen; Beteiligte erhalten Übersetzung der Urkunde. Die englische Fassung des Satzungstextes ist keine Beurkundungsgrundlage.
 
@@ -50,9 +50,7 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
-| BGH | II ZR 75/14 | NJW 2016, 1737 | Auslegung bilingualer Gesellschaftsverträge; bei Widerspruch: systematische und teleologische Auslegung; keine automatische Dominanz einer Sprache |
-| BGH | I ZR 182/18 | GRUR 2020, 738 | Übersetzungsfehler als Vertragsrisiko; Haftung des Übersetzers |
-| OLG Frankfurt | 25 U 93/18 | NZG 2019, 668 | Dolmetscher-Pflicht bei Beurkundung (§ 5 BeurkG); Verstoß führt zur Unwirksamkeit der Beurkundung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Bilinguale Dokumente
 
@@ -64,10 +62,10 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 | 1 | Sprachvorrang-Klausel vorhanden? | Jedes Dokument enthält eine Vorrang-Klausel (DE über EN)? | Ohne Klausel: Auslegungsrisiko bei Widersprüchen |
 | 2 | Deutsche Masterfassung vollständig? | Deutsche Fassung ist vollständig und rechtsanwaltlich geprüft bevor Übersetzung beginnt | Übersetzung von unvollständiger Fassung = Doppelaufwand |
 | 3 | Juristischer Übersetzer? | Übersetzung durch Translator mit deutschem Recht-Background — nicht maschinelle Übersetzung allein | Maschinelle Übersetzung bei Rechtsbegriffen systematisch unzuverlässig |
-| 4 | Glossar-Konsistenz | Sind Fachbegriffe über alle Dokumente einheitlich übersetzt? | Satzung und SHA müssen exakt gleiche Begriffe verwenden (z.B. „Class B" nicht in einem Dokument „Series B") |
+| 4 | Glossar-Konsistenz | Sind Fachbegriffe über alle Dokumente einheitlich übersetzt? | Satzung und SHA müssen exakt gleiche Begriffe verwenden (z.B. "Class B" nicht in einem Dokument "Series B") |
 | 5 | Notarielle Anforderungen geprüft? | Dolmetscher bei Beurkundung mit Ausländern (§ 5 BeurkG)? | Fehlender Dolmetscher → Unwirksamkeit der Beurkundung |
-| 6 | Fachbegriffe dual bezeichnet? | Englische Fachbegriffe die im Deutschen keine exakten Äquivalente haben (Liquidation Preference, Drag-Along) als Doppelbezeichnung? | Z.B. „Liquidation Preference (Liquidationsvorrang)" |
-| 7 | Rechtsbegriffe korrekt übertragen? | GmbH ≠ „Limited Liability Company"; GF ≠ „CEO"; HV ≠ „Stockholders Meeting" | Falsche Übersetzung kann Rechtsfolgen verändern |
+| 6 | Fachbegriffe dual bezeichnet? | Englische Fachbegriffe die im Deutschen keine exakten Äquivalente haben (Liquidation Preference, Drag-Along) als Doppelbezeichnung? | Z.B. "Liquidation Preference (Liquidationsvorrang)" |
+| 7 | Rechtsbegriffe korrekt übertragen? | GmbH ≠ "Limited Liability Company"; GF ≠ "CEO"; HV ≠ "Stockholders Meeting" | Falsche Übersetzung kann Rechtsfolgen verändern |
 | 8 | Cross-Reading durchgeführt? | Anwalt liest beide Fassungen parallel und prüft Konsistenz? | Schritt-für-Schritt-Abgleich, Abschnitt für Abschnitt |
 | 9 | Schiedsklausel-Sprache festgelegt? | DIS-Klausel: Schiedsverfahrenssprache explizit genannt? | Fehlen der Schiedssprache → Streit über Verfahrenssprache |
 | 10 | Behördliche Einreichung auf Deutsch? | Handelsregister, Finanzamt, Transparenzregister: Einreichung ausschließlich auf Deutsch | Englische Fassung wird nicht angenommen |
@@ -98,16 +96,16 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 
 | Deutscher Begriff | Korrekte EN-Übersetzung | Häufiger Fehler |
 |---|---|---|
-| GmbH | GmbH (in Klammern: Gesellschaft mit beschränkter Haftung) oder „limited liability company under German law" | „LLC" — falsch, weil LLC ein US-amerikanisches Konstrukt ist |
-| Geschäftsführer | Managing Director | „CEO", „Director" — nicht rechtsgenau; CEO ist kein Rechtsbegriff |
-| Gesellschafterversammlung | Shareholders' Meeting oder General Meeting | „Stockholders Meeting" — US-Terminologie |
-| Stammkapital | Share capital | „Stock capital" — ungebräuchlich im englischen GmbH-Kontext |
-| Satzung | Articles of Association | „Articles of Incorporation" — US-Terminologie; „Statute" mehrdeutig |
-| Einziehung von Anteilen | Redemption of shares | „Cancellation" — Nuance: Einziehung nach § 34 GmbHG ist Sonderfall |
-| Gesellschaftervereinbarung | Shareholders' Agreement (SHA) | „Partnership Agreement" — falsch; GmbH ist keine Partnership |
-| Handelsregistereintragung | Commercial Register registration | „Corporate filing" — zu unspezifisch |
-| Jahresabschluss | Annual financial statements | „Annual report" — zu weit; Annual report umfasst mehr als Jahresabschluss |
-| Prokura | Commercial power of attorney / Prokura | Keine exakte EN-Entsprechung; „Prokura" im Klammern behalten |
+| GmbH | GmbH (in Klammern: Gesellschaft mit beschränkter Haftung) oder "limited liability company under German law" | "LLC" — falsch, weil LLC ein US-amerikanisches Konstrukt ist |
+| Geschäftsführer | Managing Director | "CEO", "Director" — nicht rechtsgenau; CEO ist kein Rechtsbegriff |
+| Gesellschafterversammlung | Shareholders' Meeting oder General Meeting | "Stockholders Meeting" — US-Terminologie |
+| Stammkapital | Share capital | "Stock capital" — ungebräuchlich im englischen GmbH-Kontext |
+| Satzung | Articles of Association | "Articles of Incorporation" — US-Terminologie; "Statute" mehrdeutig |
+| Einziehung von Anteilen | Redemption of shares | "Cancellation" — Nuance: Einziehung nach § 34 GmbHG ist Sonderfall |
+| Gesellschaftervereinbarung | Shareholders' Agreement (SHA) | "Partnership Agreement" — falsch; GmbH ist keine Partnership |
+| Handelsregistereintragung | Commercial Register registration | "Corporate filing" — zu unspezifisch |
+| Jahresabschluss | Annual financial statements | "Annual report" — zu weit; Annual report umfasst mehr als Jahresabschluss |
+| Prokura | Commercial power of attorney / Prokura | Keine exakte EN-Entsprechung; "Prokura" im Klammern behalten |
 
 ### Startup-Terminologie
 
@@ -116,10 +114,10 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 | Liquidation Preference | Liquidationsvorrang | Liquidation Preference | Englischer Begriff im deutschen Kontext etabliert; Doppelbezeichnung empfohlen |
 | Drag-Along | Mitziehverpflichtung | Drag-Along Obligation | Beide Fassungen verwenden; englischer Begriff als Kurzbezeichnung |
 | Tag-Along | Mitveräußerungsrecht | Co-Sale Right oder Tag-Along Right | Co-Sale Right juristisch präziser im Britischen Englisch |
-| Anti-Dilution | Verwässerungsschutz | Anti-Dilution Protection | Broad-Based Weighted Average: „gewichteter Mittelwert (breite Basis)" |
-| Vesting | Erdienen von Anteilen | Vesting | Cliff: „Cliff-Periode" oder „Anlaufphase"; 1-year cliff: 12-monatige Cliff-Periode |
+| Anti-Dilution | Verwässerungsschutz | Anti-Dilution Protection | Broad-Based Weighted Average: "gewichteter Mittelwert (breite Basis)" |
+| Vesting | Erdienen von Anteilen | Vesting | Cliff: "Cliff-Periode" oder "Anlaufphase"; 1-year cliff: 12-monatige Cliff-Periode |
 | Bad Leaver | Schlechter Aussteiger | Bad Leaver | Begriff wird auf Englisch verwendet; DE-Erläuterung im Vertrag |
-| ESOP | Mitarbeiterbeteiligungsprogramm | Employee Share Option Plan (ESOP) | VSOP (Virtual Share Option Plan): „virtuelles Mitarbeiterbeteiligungsprogramm" |
+| ESOP | Mitarbeiterbeteiligungsprogramm | Employee Share Option Plan (ESOP) | VSOP (Virtual Share Option Plan): "virtuelles Mitarbeiterbeteiligungsprogramm" |
 | Pre-Money Valuation | Bewertung vor der Finanzierungsrunde | Pre-Money Valuation | Kein übliches deutsches Äquivalent; englischer Begriff |
 | Term Sheet | Eckpunktepapier / Term Sheet | Term Sheet | Term Sheet nicht verbindlich (i.d.R.); Letter of Intent (LOI) verbindlicher |
 | Cap Table | Beteiligungsübersicht | Capitalisation Table (Cap Table) | Cap Table als Kurzbezeichnung auch auf Deutsch üblich |
@@ -150,7 +148,7 @@ englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln zwische
 den beiden Sprachfassungen geht der deutsche Text vor. Soweit eine notarielle
 Beurkundung nach § 2 GmbHG oder § 15 GmbHG erforderlich ist, ist allein die deutsche
 Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als
-„Convenience Translation".
+"Convenience Translation".
 
 (2) This [Agreement / Articles of Association / Agreement] is executed in German and
 English language. In case of any discrepancies or doubts of interpretation between
@@ -226,7 +224,7 @@ In case of inconsistencies: German version prevails.
 
 DEUTSCH:
 (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Stimmrechte an der
-Gesellschaft halten („Drag-Along-Initiatoren"), einem Verkauf sämtlicher
+Gesellschaft halten ("Drag-Along-Initiatoren"), einem Verkauf sämtlicher
 Geschäftsanteile an der Gesellschaft an einen Dritten zu, können sie die übrigen
 Gesellschafter verpflichten, ihre Anteile zu denselben Bedingungen mitzuveräußern.
 
@@ -281,12 +279,12 @@ Gilt für alle Dokumente in diesem Mandat.
 |-----------------------------|----------------------------------|-----------|
 | Gesellschaft                | Company                          | |
 | Geschäftsanteile            | Shares / Share capital           | |
-| Stammkapital                | Share capital                    | Nicht „Stock capital" |
+| Stammkapital                | Share capital                    | Nicht "Stock capital" |
 | Stammeinlage                | Share contribution               | |
-| Gesellschafter              | Shareholder                      | Nicht „Stockholder" (US) |
+| Gesellschafter              | Shareholder                      | Nicht "Stockholder" (US) |
 | Gesellschafterversammlung   | Shareholders' Meeting            | |
-| Geschäftsführer             | Managing Director                | Nicht „CEO" |
-| Satzung                     | Articles of Association          | Nicht „Statute" |
+| Geschäftsführer             | Managing Director                | Nicht "CEO" |
+| Satzung                     | Articles of Association          | Nicht "Statute" |
 | Gesellschaftervereinbarung  | Shareholders' Agreement (SHA)    | |
 | Klasse A Anteile            | Class A Shares                   | |
 | Klasse B Anteile            | Class B Shares                   | |
@@ -363,9 +361,7 @@ Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Sta
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 15.03.2016 – II ZR 75/14, NJW 2016, 1737** — Bei einem bilingualen Gesellschaftsvertrag ohne Vorrang-Klausel sind Widersprueche zwischen den Sprachfassungen nach dem uebereinstimmenden Willen der Parteien aufzuloesen (§§ 133, 157 BGB); keine automatische Dominanz einer Fassung.
-- **OLG Frankfurt, Urt. v. 11.09.2019 – 25 U 93/18, NZG 2019, 668** — Fehlender Dolmetscher bei Beurkundung eines auslaendischen Beteiligten verstosst gegen § 5 BeurkG und fuehrt zur Nichtigkeit der Beurkundung; sprachkundige Notargehilfe geniessen keinen Vertrauensschutz.
-- **BGH, Urt. v. 25.04.2019 – I ZR 182/18, GRUR 2020, 738** — Uebersetzungsfehler in einem Vertrag koennen Anfechtungsrecht aus § 119 Abs. 2 BGB begruenden, wenn die irrtuemsloesende Bedeutung des Begriffs wesentlich war; Haftung des Uebersetzers moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Vorrang-Klausel (einzusetzen in alle Dokumente)
 
@@ -413,7 +409,7 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 ## Rote Schwellen
 
 - Kein Dolmetscher bei Beurkundung mit sprachunkundigen Auslaedern: Nichtigkeit (§ 5 BeurkG; OLG Frankfurt 2019)
-- Keine Vorrang-Klausel: Auslegungsstreit nach §§ 133, 157 BGB bei Widersprüchen (BGH NJW 2016, 1737)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ausschliesslich englischsprachige Einreichung beim Handelsregister, Finanzamt: wird nicht angenommen
 - Schiedsspruch auf Englisch ohne Uebersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
 
@@ -432,8 +428,8 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 - § 1064 Abs. 3 ZPO (Vollstreckung auslaendischer Schiedsspruche; Uebersetzungspflicht)
 - § 1061 ZPO i.V.m. New York Convention (Anerkennung auslaendischer Schiedsspruche)
 - Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
-- BGH NJW 2016, 1737; OLG Hamburg NZG 2019, 340; OLG Frankfurt NZG 2019, 668
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- AUDIT 27.05.2026
-Problem: OLG Hamburg 11 U 204/17 (Datum 22.05.2019, NZG 2019, 340 – "Sprachvorrang-Klausel SHA; englische Fassung als Convenience Translation") – NOT_FOUND auf dejure.org. AZ existiert nicht verifizierbar.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Aktion: Beide Einträge (Leitentscheidungen-Tabelle und Aktuelle Rechtsprechung) gelöscht.
 -->

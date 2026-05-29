@@ -1,6 +1,6 @@
 ---
 name: anw-aussetzung-vollziehung
-description: "Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmaessigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Pruefung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub."
+description: "Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmäßigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Prüfung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub."
 ---
 
 # Aussetzung der Vollziehung (AdV)
@@ -43,17 +43,11 @@ Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag we
 
 ## Aktuelle Rechtsprechung
 
-- BFH, Beschl. v. 14.02.2023 - III B 115/21, BFH/NV 2023, 512 Rn. 14 — Ernstliche Zweifel an der Rechtmäßigkeit eines Steuerbescheids setzen voraus, dass bei summarischer Prüfung ein nicht nur geringes Maß an Zweifeln besteht; eine abschließende Würdigung ist nicht erforderlich.
-- BFH, Beschl. v. 05.09.2022 - XI B 15/22, BFH/NV 2022, 1143 Rn. 9 — Unbillige Härte im Sinne des § 361 Abs. 2 AO liegt vor, wenn die Vollziehung die wirtschaftliche Existenz des Steuerpflichtigen ernsthaft gefährden würde; eine bloße Liquiditätsenge genügt nicht.
-- BFH, Beschl. v. 22.03.2021 - XI B 7/21, BFH/NV 2021, 1109 Rn. 8 — Die AdV kann trotz Aussetzungszinsen (§ 237 AO) angemessen sein, wenn die Erfolgsaussichten im Hauptverfahren überwiegen; das Gericht hat kein freies Ermessen.
-- BFH, Beschl. v. 12.11.2020 - V B 32/20, BFH/NV 2021, 228 Rn. 6 — Im AdV-Verfahren nach § 69 FGO ist eine vollständige Sachverhaltsprüfung nicht geboten; es genügt, wenn schlüssig vorgetragen wird, dass ernstliche Zweifel bestehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Kruse, AO/FGO, § 361 AO Rn. 1-50 (Aussetzung der Vollziehung durch das FA)
-- Klein/Brockmeyer, AO, § 361 Rn. 1-40 (BeckOK Steuerrecht)
-- Gräber/Stapperfend, FGO, § 69 Rn. 1-70 (Aussetzung der Vollziehung durch das FG, umfassend)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 

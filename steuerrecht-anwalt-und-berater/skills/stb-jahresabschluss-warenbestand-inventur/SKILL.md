@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-warenbestand-inventur
-description: "Warenbestand und Inventur fuer Jahresabschluss. Anwendungsfall jaehrliche Inventur Aufnahme Warenbestand permanente Inventur Stichprobeninventur Bewertung. Methodik § 240 HGB GoBD. Output Inventur-Protokoll Warenbestand-Wert."
+description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jaehrliche Inventur Aufnahme Warenbestand permanente Inventur Stichprobeninventur Bewertung. Methodik § 240 HGB GoBD. Output Inventur-Protokoll Warenbestand-Wert."
 ---
 
 # Warenbestand und Inventur

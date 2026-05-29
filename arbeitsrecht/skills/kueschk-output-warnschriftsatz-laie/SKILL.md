@@ -1,6 +1,6 @@
 ---
 name: kueschk-output-warnschriftsatz-laie
-description: "Ausgabe vollstaendige Klageschrift mit Pflicht-Disclaimer-Kopf fuer Laien; Zusammenfuehrung aller Bausteine zu einem druckfertigen Schriftsatz; Ausfuellanleitung; Einreichungshinweise fuer Arbeitsgericht."
+description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf für Laien; Zusammenführung aller Bausteine zu einem druckfertigen Schriftsatz; Ausfuellanleitung; Einreichungshinweise für Arbeitsgericht."
 ---
 
 # Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie)
@@ -139,16 +139,11 @@ Step 7: Einreichungshinweise ausgeben
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 28.06.2007 – 6 AZR 750/06, NZA 2007, 1098 — Allgemeiner Feststellungsantrag in der Kündigungsschutzklage genügt den Anforderungen des § 256 ZPO; der Kläger muss lediglich die konkrete Kündigung bezeichnen und das Datum des Zugangs angeben.
-- BAG, Urt. v. 26.06.2008 – 2 AZR 264/07, NZA 2008, 1182 — Die Klageschrift muss innerhalb von drei Wochen beim Arbeitsgericht eingegangen sein; eine Aufgabe zur Post innerhalb der Frist reicht nicht aus, wenn das Schreiben erst danach ankommt.
-- BAG, Urt. v. 14.03.2013 – 6 AZR 782/11, NZA 2013, 857 — Bei Klage zu Protokoll der Geschäftsstelle ist die Frist gewahrt, sobald das Protokoll aufgenommen ist; Fehler im Protokoll gehen nicht zu Lasten des Klägers.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 4 KSchG Rn. 16-30 — (Form der Klage, Klagefrist, Zu-Protokoll-Erklärung)
-- KR/Friedrich, 13. Aufl. 2022, § 4 KSchG Rn. 50 ff. — (Streitwert, Anträge)
-- Schwab/Weth, ArbGG, 6. Aufl. 2022, § 46 Rn. 10 ff. — (Klageerhebung, Protokoll der Geschäftsstelle)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Einreichungshinweise
 
 1. **Frist:** Die Klageschrift muss innerhalb von **drei Wochen** nach Zugang der Kündigung beim Arbeitsgericht eingehen.

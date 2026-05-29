@@ -1,0 +1,497 @@
+[
+  {
+    "court": "BGH",
+    "az": "IX ZB 113/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt bestätigbar; verwandtes AZ IX ZB 75/14 betrifft Gruppenbildung § 222 InsO",
+    "claimed_topic": "Klassenbildungsfehler: fehlerhafte Gruppenbildung führt zur Planablehnung, Urt. 22.01.2015, NZI 2015, 259",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZB+113%2F14",
+    "skills": [
+      "insolvenzverwaltung/skills/iv-plan-vergleichsrechnung/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZB 55/04",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Insolvenzverwalter-Haftung bei Betriebsfortführung — Quelllage zu dünn für sichere Verifikation",
+    "claimed_topic": "Verwalterpflichten Betriebsfortführung: IV haftet für Verluste aus pflichtwidrig fortgeführtem Betrieb, Urt. 22.09.2005",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZB+55%2F04",
+    "skills": [
+      "insolvenzverwaltung/skills/iv-zahlungsklagen-15b/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 35/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Beraterhaftung Anwalt — nicht direkt bestätigbar; NJW 2012, 1800 konnte nicht verifiziert werden",
+    "claimed_topic": "Beraterhaftung: Anwalt muss vollständige Information in verständlicher Form übermitteln, Urt. 15.03.2012, NJW 2012, 1800",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZR+35%2F11",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-ma-schreibcanvas/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 2/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Insolvenzverwalter-Haftung § 60 InsO — AZ nicht direkt bestätigt; NZI 2009, 389 nicht verifiziert",
+    "claimed_topic": "Verwalterhaftung § 60 InsO: IV haftet persönlich, Maßstab ordentlicher Insolvenzverwalter, Urt. 19.02.2009, NZI 2009, 389",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZR+2%2F08",
+    "skills": [
+      "insolvenzverwaltung/skills/iv-zahlungsklagen-15b/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 120/04",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Forderungsbestreitung durch IV — AZ-Jahrgang 04 vs. behauptetes Urteilsdatum 2007 suspekt; nicht verifiziert",
+    "claimed_topic": "Bestreiten durch IV: begründetes Bestreiten erforderlich, Urt. 25.01.2007, NZI 2007, 281",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZR+120%2F04",
+    "skills": [
+      "insolvenzrecht/skills/forderungsanmeldung-glaeubiger-174-177-inso/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "V ZR 64/02",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Offenbarungspflicht beim Immobilienkauf — NJW 2003, 1811 nicht sicher diesem AZ zuzuordnen",
+    "claimed_topic": "Offenbarungspflicht: rechtliche Schriften müssen sämtliche relevanten Risiken klar benennen, Urt. 14.03.2003, NJW 2003, 1811",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=V+ZR+64%2F02",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-ma-schreibcanvas/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "23 U 70/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "OLG Frankfurt 23 U 70/19 — nicht in Datenbanken auffindbar, M&A-Beraterhaftung nicht bestätigt",
+    "claimed_topic": "Beraterhaftung bei M&A: wesentliche Risiken müssen auch bei eingeschränktem Zeitrahmen erkannt werden, Urt. 22.02.2021, NZG 2021, 680",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=23+U+70%2F19",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-corporate-ma-translations-multijurisdictional/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 5/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Anwaltsrecht/Beratungspflicht — AZ existiert, Datum 07.02.2019 plausibel, aber claimed context (veraltete Normen-Referenzen) nicht direkt bestätigt",
+    "claimed_topic": "Urt. 07.02.2019, NJW 2019, 1513 — aktuell geltende Gesetze müssen in Beratungsunterlagen widergespiegelt sein",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZR+5%2F18",
+    "skills": [
+      "rechtsberatungsstelle/skills/rechtsberatungsstelle-anpassen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 252/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Insolvenzverwalter Dokumentationspflichten — AZ plausibel (IX ZR Senat, 2014), aber NZI 2015, 31 nicht sicher verifiziert",
+    "claimed_topic": "Dokumentationspflichten: IV muss alle Verwaltungshandlungen dokumentieren, Urt. 25.09.2014, NZI 2015, 31",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=IX+ZR+252%2F13",
+    "skills": [
+      "insolvenzverwaltung/skills/iv-zahlungsklagen-15b/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Köln",
+    "az": "17 W 3/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "OLG Köln 17 W 3/17 — JVEG-Beschwerde-Verfahren nicht direkt verifiziert",
+    "claimed_topic": "Beschl. v. 09.03.2017 — Beschwerde nach § 4 Abs. 3 JVEG erfordert substantiierte Darlegung; Beschwerdegericht auf Prüfungsrahmen beschränkt",
+    "source_url": "https://nrwe.justiz.nrw.de/olgs/koeln/",
+    "skills": [
+      "jveg-kostenpruefer/skills/pruefung-sachverstaendigengutachten-ki-deklaration/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Celle",
+    "az": "2 W 1/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "OLG Celle 2 W 1/20 — nicht direkt auffindbar; JVEG § 8a Vergütungskürzung bei Mängeln plausibel aber unbestätigt",
+    "claimed_topic": "Beschl. v. 16.01.2020 — § 8a JVEG erlaubt Vergütungskürzung bei wesentlichen Mängeln; fehlende höchstpersönliche Erstellung",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+W+1%2F20",
+    "skills": [
+      "jveg-kostenpruefer/skills/pruefung-sachverstaendigengutachten-ki-deklaration/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 95/05",
+    "status": "UNVERIFIABLE",
+    "real_topic": "§ 435 HGB Leichtfertigkeit Transportspediteur — AZ plausibel, nicht direkt in dejure verifiziert",
+    "claimed_topic": "| BGH I ZR 95/05 | BGH, 04.05.2007 | § 435 HGB: Leichtfertigkeit bei Systemversagen in der Eingangsabteilung (kein Scan)",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZR+95%2F05",
+    "skills": [
+      "fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 233/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Zitiergebot NJW 2020, 398 — Beschl. 19.11.2019 plausibel, Quellenlage zu dünn für Bestätigung",
+    "claimed_topic": "- BGH, Beschl. v. 19.11.2019 - II ZR 233/18, NJW 2020, 398 — Das Zitiergebot im Schriftsatz erfordert Volltextangabe des",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+233%2F18",
+    "skills": [
+      "subsumtions-pruefer/skills/output-juristisch-gestochen-de/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 100/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "CMR Art. 29 Schnittstellenkontrolle — AZ nicht in dejure verifizierbar; IV ZR 100/19 existiert (anderes Thema)",
+    "claimed_topic": "| BGH I ZR 100/19 | BGH, 30.01.2020 | CMR Art. 29: Mangelnde Schnittstellenkontrolle begründet leichtfertiges Organisati",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZR+100%2F19",
+    "skills": [
+      "fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 244/07",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Qualified Financing BGHZ 212, 222 — AZ II ZR 244/07 mit Datum 18.09.2018 in dejure nicht verifizierbar; VI ZR 244/07 existiert (anderes Thema)",
+    "claimed_topic": "BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 24: Qualified Financing als Wandlungstrigger setzt voraus,",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+244%2F07",
+    "skills": [
+      "wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IV ZR 248/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BU-Versicherung Feststellungsinteresse § 256 ZPO — AZ nicht in dejure verifizierbar",
+    "claimed_topic": "- **§ 256 ZPO** — Feststellungsklage; Feststellungsinteresse bei BU-Dauerleistung gegeben (BGH IV ZR 248/10).",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IV+ZR+248%2F10",
+    "skills": [
+      "fachanwalt-versicherungsrecht/skills/klage-versicherer-strategie/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 3/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Bargeschäft § 142 InsO — AZ nicht in dejure verifizierbar",
+    "claimed_topic": "4. **Bargeschaeft § 142 InsO?** Gleichwertige Gegenleistung zeitgleich (max. 30 Tage)? BGH IX ZR 3/12.",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+3%2F12",
+    "skills": [
+      "insolvenzrecht/skills/anfechtungsrechte-pruefen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 70/86",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Vereinsrecht § 25 BGB Begründungspflicht — II ZR 70/86 nicht in dejure verifizierbar",
+    "claimed_topic": "| 5 | Begründungspflicht: Ist die Entscheidung schriftlich begründet? | § 25 BGB; BGH II ZR 70/86 |",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+70%2F86",
+    "skills": [
+      "fachanwalt-sportrecht/skills/verbandsstrafe-anfechten/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 229/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Fortbestehensprognose — IX ZR 229/22 nicht in dejure verifiziert; IX ZR 229/23 (16.01.2025 EuGH-Vorlage) existiert",
+    "claimed_topic": "**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+229%2F22",
+    "skills": [
+      "steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3wochen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 61/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Fortbestehensprognose bei Insolvenzprüfung — IX ZR 61/12 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose: plausible Annahmen erforderlich; bloße Hoffnung auf Besserung ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+61%2F12",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-ma-liquiditaetsvorschau/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "VI ZR 1213/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "DSGVO Schadensersatz — BGH VI ZR 1213/22 nicht in dejure verifizierbar",
+    "claimed_topic": "- BGH VI ZR 1213/22 zu DSGVO-Schadensersatz",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=VI+ZR+1213%2F22",
+    "skills": [
+      "fachanwalt-sportrecht/skills/fachanwalt-sportrecht-stadion-hausverbot/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 11/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Konkrete bauablaufbezogene Darstellung der Behinderung — VII ZR 11/08 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH | VII ZR 11/08 | 24.02.2011 | Konkrete bauablaufbezogene Darstellung der Behinderung notwendig; pauschale Behauptu",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=VII+ZR+11%2F08",
+    "skills": [
+      "fachanwalt-bau-architektenrecht/skills/nachtragsmanagement-650b/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 166/05",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Musterpruefung BGH NJW 2007, 819 — VII ZR 166/05 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Musterpruefung des BGH: Obersatz-Definition-Subsumtion-Ergebn",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=VII+ZR+166%2F05",
+    "skills": [
+      "jurastudium/skills/subsumtionslehre/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 178/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Hausbank-Prinzip, Kreditkündigung — XI ZR 178/10 nicht in dejure verifizierbar",
+    "claimed_topic": "4. **Hat die Bank eine Vorwarnung ausgesprochen?** — BGH-Linie (Hausbank-Prinzip): bei langjähriger Kundenbeziehung Pfli",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=XI+ZR+178%2F10",
+    "skills": [
+      "fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 234/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Wechselmodell und Kindesunterhalt — XII ZB 234/19 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH | XII ZB 234/19 | 11.12.2019 | Wechselmodell und Kindesunterhalt — Unterhaltsberechnung bei paritätischem Betreuun",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=XII+ZB+234%2F19",
+    "skills": [
+      "fachanwalt-familienrecht/skills/umgangsregelung-mustervorlagen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 255/99",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Markenrecht Definitionen aus anerkannten Quellen — I ZR 255/99 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Definitionen muessen aus anerkannten Quellen stammen; selbst e",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZR+255%2F99",
+    "skills": [
+      "hausarbeitenmacher/skills/subsumtion-schritt-fuer-schritt/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 179/03",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Kapitalerhöhung gegen Sacheinlage — II ZR 179/03 nicht in dejure mit Datum 24.10.2005 verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Kapitalerhöhung gegen Sacheinlage – Voraussetzungen)",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+179%2F03",
+    "skills": [
+      "wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 104/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Steuerberater Warnschreiben bei Insolvenzgefahr — IX ZR 104/18 nicht direkt verifiziert",
+    "claimed_topic": "description: \"Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz B",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+104%2F18",
+    "skills": [
+      "steuerrecht-anwalt-und-berater/skills/stb-warnschreiben-krisensignale/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 52/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Anwaltsvertrag: Mandant muss Anwalt vollständig informieren — IX ZR 52/18 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Mandant muss ueber sein Anliegen und den Fortschritt verstaend",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+52%2F18",
+    "skills": [
+      "rechtsberatungsstelle/skills/mandantenbrief/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "V ZR 299/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Due Diligence schriftliche Antwort — V ZR 299/19 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — schriftliche Antwort auf DD-Frage gilt als vollstaendige Offen",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=V+ZR+299%2F19",
+    "skills": [
+      "corporate-kanzlei/skills/corporate-kanzlei-qa-information-requests/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "VI ZR 130/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Aufklärungspflicht §§ 630e, 630h BGB — VI ZR 130/16 nicht direkt verifiziert",
+    "claimed_topic": "description: \"Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risikoaufklaerung. Form muendlich persoenlich ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=VI+ZR+130%2F16",
+    "skills": [
+      "fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-aufklaerungsfehler/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "1 AZR 35/24",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Betriebsrat Beschlussmängel — BAG 1 AZR 35/24 noch nicht in dejure-DB (neue Entscheidung 2025)",
+    "claimed_topic": "description: \"Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsannahme durch den Betriebsrat, Pruefung der ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BAG&Aktenzeichen=1+AZR+35%2F24",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 139/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Liquiditätsplanung — II ZR 139/23 nicht in dejure-DB verifizierbar",
+    "claimed_topic": "**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+139%2F23",
+    "skills": [
+      "steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3wochen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 254/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Bargeschäft § 142 InsO bei Ratenvereinbarung — IX ZR 254/20 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 03.03.2022 — IX ZR 254/20, NZI 2022, 444 — Bargeschaeft § 142 InsO bei Ratenzahlung ausgeschlossen; max. ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+254%2F20",
+    "skills": [
+      "fachanwalt-insolvenz-sanierungsrecht/skills/vergleichsverhandlung-strategie/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "VIII ZB 39/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Fristversäumnis Büroorganisation (Sekretariat) — VIII ZB 39/17 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Sekretariatstagesbrief als Nachweis der Organisationspfli",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=VIII+ZB+39%2F17",
+    "skills": [
+      "kanzlei-allgemein/skills/sekretariats-tagesbrief/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "VIII ZB 73/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Unterschriftsprüfung bei Schriftsatz — VIII ZB 73/19 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Unterschriftspruefung: Schriftsatz ohne Unterschrift (bei ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=VIII+ZB+73%2F19",
+    "skills": [
+      "kanzlei-allgemein/skills/versand-vor-check/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 526/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Notfrist Wiedereinsetzung — XII ZB 526/22 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Notfrist (Berufung, Revision) laeuft auch, wenn kein Mand",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=XII+ZB+526%2F22",
+    "skills": [
+      "mandantenanfragen-assistent/skills/dringlichkeitsmarker/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 167/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rangrücktritt: muss schriftlich, ausdrücklich und mit Nachrangabrede — II ZR 167/14 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH | II ZR 167/14 | 26.04.2016 | Rangrücktritt: muss schriftlich, ausdrücklich und mit klarem Bezug auf alle betroffe",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+167%2F14",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-ma-insolvenzreife/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 235/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Überschuldung Fortführungsprognose BGHZ 196, 195 — II ZR 235/11 nicht in dejure mit Datum 15.01.2013 verifiziert",
+    "claimed_topic": "BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 18: Die Berechnung, ob ein Qualified Financing vorliegt, m",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+235%2F11",
+    "skills": [
+      "wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 252/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "GmbH-GF haftet für masseschmälernde Zahlungen nach Insolvenzreife — II ZR 252/13 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH | II ZR 252/13 | 14.10.2014 | Masseschmälernde Zahlungen: GmbH-GF haftet für jede Zahlung nach Eintritt der Insolv",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+252%2F13",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-ma-liquiditaetsvorschau/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IV ZR 178/04",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Versicherungsrecht Anerkennungsformulierung — IV ZR 178/04 nicht direkt verifiziert",
+    "claimed_topic": "6. Hat der Versicherer im außergerichtlichen Schriftwechsel Formulierungen verwendet, die Anerkenntniswirkung entfalten ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IV+ZR+178%2F04",
+    "skills": [
+      "fachanwalt-versicherungsrecht/skills/klage-versicherer-strategie/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 213/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Asset-Deal Verwertungspflicht Insolvenzmasse — IX ZR 213/19 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal Verwertungspflicht: IV muss Asset-Deal mit Insolven",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=IX+ZR+213%2F19",
+    "skills": [
+      "insolvenzrecht/skills/uebertragende-sanierung-und-asset-deals/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Koblenz",
+    "az": "6 U 1292/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sorgfaltspflicht Rechtsanwalt — OLG Koblenz 6 U 1292/22 nicht in dejure verifizierbar",
+    "claimed_topic": "- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Sorgfaltspflicht bei KI-Ausgaben gilt auch fu",
+    "source_url": "https://olgko.justiz.rlp.de",
+    "skills": [
+      "ki-richtlinie-kanzleien/skills/prompting-leitfaden/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 88/04",
+    "status": "UNVERIFIABLE",
+    "real_topic": "CMR Art. 29 gleichstehendes Verschulden, fehlende Schnittstellenkontrolle — I ZR 88/04 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH I ZR 88/04 | BGH, 13.10.2005 | CMR Art. 29: gleichstehendes Verschulden bei fehlender Schnittstellenkontrolle im P",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZR+88%2F04",
+    "skills": [
+      "fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZB 3/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Fristenpriorität Notfristen — II ZB 3/20 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Fristenpriorität: Notfristen (Berufung, Revision) muessen ta",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZB+3%2F20",
+    "skills": [
+      "kanzlei-allgemein/skills/sekretariats-tagesbrief/SKILL.md"
+    ]
+  }
+]

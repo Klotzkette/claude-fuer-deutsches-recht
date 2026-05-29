@@ -1,6 +1,6 @@
 ---
 name: anlagen-bezeichnen-und-sortieren-sozialgericht
-description: "Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen fuer Klaeger Anlagenverzeichnis Lesbarkeit. Tipps fuer Buerger im SG-Verfahren."
+description: "Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren."
 ---
 
 # Anlagen zur Klage — sortieren und bezeichnen

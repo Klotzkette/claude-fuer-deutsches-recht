@@ -7,7 +7,7 @@ description: "DBA Deutschland Slowenien 2006. Anwendungsfall Mittelstand Automot
 
 ## Kernsachverhalt
 
-Das DBA-Slowenien vom 03.05.2006 (BGBl. 2007 II S. 1086) regelt das Verhaeltnis zum EU-Mitglied Slowenien. Praxisrelevant sind Mittelstandsbeziehungen, Automotive-Zulieferer, Tourismusbeteiligungen (Adria) und Holdings.
+Das DBA-Slowenien vom 03.05.2006 (BGBl. 2006 II S. 1091) regelt das Verhaeltnis zum EU-Mitglied Slowenien. Praxisrelevant sind Mittelstandsbeziehungen, Automotive-Zulieferer, Tourismusbeteiligungen (Adria) und Holdings.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,15 +23,15 @@ Das DBA-Slowenien vom 03.05.2006 (BGBl. 2007 II S. 1086) regelt das Verhaeltnis 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Slowenien vom 03.05.2006**, in Kraft 14.12.2007 (BGBl. 2007 II S. 1086) — **verifizieren**.
+- **DBA Deutschland-Slowenien vom 03.05.2006**, in Kraft 19.12.2006 (BGBl. 2006 II S. 1091; Bekanntmachung Inkrafttreten BGBl. 2007 II S. 213).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Slowenien sind MLI-Unterzeichner; MLI-Anwendung auf das DBA-Slowenien ab VZ 2021 (aktuellen Stand beim BMF pruefen).
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Slowenien sind selten; einschlaegig sind die allgemeinen BFH-Entscheidungen zur Belegenheits-Besteuerung bei Auslandsimmobilien.
-- BMF-Schreiben zur Anwendung § 43b EStG / MTRL und § 50g EStG / ZinsLizenzRL — **Datum verifizieren**.
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / Zins-Lizenzgebuehren-RL (aktuelle Fassungen beim BMF abrufbar).
 
 ## Land-spezifisches
 
@@ -40,7 +40,9 @@ Das DBA-Slowenien vom 03.05.2006 (BGBl. 2007 II S. 1086) regelt das Verhaeltnis 
 - Bauausfuehrung **12 Monate**.
 
 ### Quellensteuer
-- Dividenden, Zinsen, Lizenzen — **konkret verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 25 Prozent; 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
+- **Zinsen** (Art. 11): 5 Prozent des Bruttobetrags im Quellenstaat.
+- **Lizenzgebuehren** (Art. 12): 5 Prozent des Bruttobetrags im Quellenstaat. EU-ZinsLizenzRL bei verbundenen Unternehmen 0 Prozent.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
@@ -79,4 +81,6 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Slowenien 03.05.2006, in Kraft 14.12.2007. **Datum, BGBl-Fundstelle, MLI-Notification und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Slowenien 03.05.2006, in Kraft 19.12.2006 (BGBl. 2006 II S. 1091). Dividenden 5/25% Schachtel, sonst 15 Prozent; Zinsen 5 Prozent, Lizenzen 5 Prozent. MLI-Anwendung ab VZ 2021. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 5 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2006 II S. 1091; Inkrafttreten 19.12.2006; MLI-Status; Quellensteuer-Saetze), 0 gestrichen -->

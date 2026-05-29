@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern fuer urheber- und medienrechtliche Klagen und Antraege substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Pruefraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht fuer aussergerichtliche Korrespondenz."
+description: "Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz."
 ---
 
 # Schriftsatzkern und Substantiierung im Urheber- und Medienrecht
@@ -27,19 +27,11 @@ LPG § 11 BlnPrG / § 10 LPG NRW (Gegendarstellung) → §§ 935, 940 ZPO (Einst
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 42 – Wagenfeld-Leuchte: Schadensersatz nach § 97 Abs. 2 UrhG lizenzanalog richtet sich nach der ueblichen Vergutung; bei Werknutzung ohne Urhebernennung ist Lizenzgebuehr angemessen zu verdoppeln (§ 13 UrhG-Verstoß).
-- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 22 – Poster-Lounge: Lizenzanalogie bei Bildrechtsverletzung; MFM-Honorarempfehlungen als Ausgangspunkt; schadensersatzbegruendender Verstoß auch bei fahrlässiger Unkenntnis der Schutzrechtslage.
-- BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1233 Rn. 28 – Loud: Filesharing-Schadensersatz 200-600 EUR je Musiktitel als Schätzwert; konkreter Nachweis kann erhoehten Betrag rechtfertigen; § 287 ZPO-Schaetzung bei fehlendem Zugangsbeweis.
-- BGH, Urt. v. 28.07.2015 – VI ZR 340/14, NJW 2015, 3153 Rn. 20 – Suchmaschinensache: Unterlassungsanspruch nach § 1004 BGB analog bei Persoenlichkeitsrechtsverletzung; Wiederholungsgefahr wird nach erstmaliger Verletzung vermutet; strafbewehrte Unterlassungserklaerung als Erklaerung erforderlich.
-- BGH, Urt. v. 18.01.2012 – I ZR 187/10, GRUR 2012, 404 Rn. 16 – Bitte warten II: Einstweilige Verfuegung bei Urheberrechtsverletzung; Dringlichkeit bei kurzer Zeit nach Kenntnis bejaht; eidesstattliche Versicherung + Urkunden ausreichend fuer Glaubhaftmachung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schricker/Loewenheim, Urheberrecht (Beck) — §§ 97, 97a, 102 UrhG
-- Dreier/Schulze, UrhG (Beck) — Schadensersatz, Abmahnung, Lizenzanalogie
-- Wenzel, Das Recht der Wort- und Bildberichterstattung (Beck) — Presserecht, KUG
-- Soehring/Hoene, Presserecht (Nomos) — Persoenlichkeitsrecht, Gegendarstellung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufbauschema Schriftsatz
 
 ### A. Rubrum

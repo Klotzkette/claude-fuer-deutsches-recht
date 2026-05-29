@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-punkte-fahrverbot-flensburg
-description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Fuehrerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Pruefraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Uebersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin."
+description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Führerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Prüfraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Übersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin."
 ---
 
 # Punkte und Fahrverbot — Fahreignungsregister Flensburg
@@ -25,18 +25,11 @@ description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 27.09.2018 - 3 C 12/16, NJW 2019, 1088 — FAER-Eintragungen unterliegen dem Rechtmaessigkeitsprinzip; unberechtigte Eintragungen koennen auf Antrag geloescht werden.
-- VGH Muenchen, Beschl. v. 12.07.2021 - 11 ZB 21.1093, NZV 2021, 538 — Punktestand wird nach § 4 Abs. 5 StVG berechnet; Stufenmasssnahmen sind gebunden und koennen nicht durch Ermessen gemildert werden.
-- BVerwG, Urt. v. 26.01.2017 - 3 C 21/15, NVwZ 2017, 1388 — Tilgungshemmung nach § 66 StVG tritt automatisch ein wenn neue Eintragung erfolgt bevor alte getilgt ist; rechtskraeftige Entscheidung genuegt.
-- OVG Berlin-Brandenburg, Beschl. v. 14.05.2020 - OVG 1 S 44.20, NZV 2020, 478 — Fahrerlaubnisentzug bei 8 Punkten ist gebundene Entscheidung der Fahrerlaubnisbehoerde; kein Ermessen; sofortiger Vollzug in der Regel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Janiszewski/Jagow/Burmann StVR § 4 StVG Rn. 1-30 (Fahreignungsbewertungssystem)
-- Janiszewski/Jagow/Burmann StVR § 65 StVG Rn. 1-15 (Tilgungsfristen)
-- KK-OWiG / Lutz § 25 StVG Rn. 1-15 (Fahrverbot)
-- Schubert/Meusel, Fahrerlaubnisrecht (Punkte und Tilgung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Punkte-Tabelle nach BKatV (Auswahl)
 
 | Verstos | Punkte |

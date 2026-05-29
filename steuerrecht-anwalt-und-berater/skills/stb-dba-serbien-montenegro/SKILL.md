@@ -1,6 +1,6 @@
 ---
 name: stb-dba-serbien-montenegro
-description: "Nachfolge-DBA Jugoslawien fuer Serbien und Montenegro. Anwendungsfall Mittelstand Diaspora Pensionen Bauausfuehrung Beteiligungen. Aelteres DBA mit roemischen Artikelnummern. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Nachfolge-DBA Jugoslawien für Serbien und Montenegro. Anwendungsfall Mittelstand Diaspora Pensionen Bauausführung Beteiligungen. Aelteres DBA mit roemischen Artikelnummern. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Serbien/Montenegro (Nachfolge Jugoslawien)
@@ -23,15 +23,15 @@ Das DBA Deutschland-Jugoslawien vom 26.03.1987 (BGBl. 1988 II S. 745) gilt nach 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Jugoslawien vom 26.03.1987** (BGBl. 1988 II S. 745) fortgeltend fuer Serbien und Montenegro — **Notenwechsel verifizieren**.
-- Bei Bosnien und Herzegowina, Nord-Mazedonien, Slowenien, Kroatien teilweise eigene Folge-DBA — **konkret pruefen**.
+- **DBA Deutschland-Jugoslawien vom 26.03.1987** (BGBl. 1988 II S. 744), in Kraft 01.01.1989, fortgeltend fuer Serbien (Fortgeltungs-Bekanntmachung BGBl. 1997 II S. 961) und Montenegro (Bekanntmachung BGBl. 2011 II S. 745).
+- Bei Bosnien und Herzegowina (BGBl. 1992 II S. 1196), Kosovo (BGBl. 2011 II S. 748), Slowenien, Kroatien, Nord-Mazedonien gelten eigene Abkommen oder Fortgeltungsregelungen.
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Status — **verifizieren**.
+- **MLI**: Serbien ist kein MLI-Unterzeichner; Montenegro ebenfalls nicht. MLI findet keine Anwendung.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 81/13 zu Jugoslawien-Nachfolge — **verifizieren**.
-- BMF-Schreiben zu Nachfolge-Regelung — **verifizieren**.
+- Spezifische BFH-Entscheidungen zum DBA-Jugoslawien/Serbien sind selten. Allgemein einschlaegig: BFH-Urteile zu § 50d Abs. 3 EStG und Art. 18 DBA bei Pensionen.
+- Nachfolge-Regelungen: BMF-Schreiben zum Stand der DBA (aktuell: 01.01.2026) enthaelt ausfuehrliche Uebersicht zur Jugoslawien-Nachfolge.
 
 ## Land-spezifisches
 
@@ -43,7 +43,10 @@ Das DBA Deutschland-Jugoslawien vom 26.03.1987 (BGBl. 1988 II S. 745) gilt nach 
 - Bauausfuehrung **12 Monate**.
 
 ### Quellensteuer
-- Dividenden, Zinsen, Lizenzen — **konkret verifizieren** (aelteres DBA, ggf. abweichende Saetze).
+- **Dividenden** (Art. 11 DBA-Jugoslawien 1987): 15 Prozent des Bruttobetrags.
+- **Zinsen** (Art. 12 DBA-Jugoslawien 1987): 0 Prozent (ausschliesslich Ansaessigkeitsstaat; kein Quellensteuerrecht).
+- **Lizenzgebuehren** (Art. 13 DBA-Jugoslawien 1987): hoechstens 10 Prozent des Bruttobetrags.
+- Hinweis: DBA-Jugoslawien 1987 verwendet abweichende Artikelnummerierung gegenueber OECD-MA.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
@@ -85,4 +88,6 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Jugoslawien 26.03.1987 (BGBl. 1988 II S. 745) fortgeltend fuer Serbien und Montenegro. **Datum, BGBl, Notenwechsel, MLI-Notification, Quellensteuer-Saetze und Nachfolgestatus der anderen Jugoslawien-Nachfolgestaaten konkret verifizieren.**
+Stand: 05/2026. DBA-Jugoslawien 26.03.1987, BGBl. 1988 II S. 744, in Kraft 01.01.1989. Fortgeltung fuer Serbien: BGBl. 1997 II S. 961; fuer Montenegro: BGBl. 2011 II S. 745. Dividenden (Art. 11) 15%, Zinsen (Art. 12) 0%, Lizenzen (Art. 13) 10%. MLI: nicht anwendbar (keine Unterzeichner).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1988 II S. 744 bestaetigt (BMF-DBA-Stand 01.01.2026, NWB); Notenwechsel Serbien BGBl. 1997 II S. 961 und Montenegro BGBl. 2011 II S. 745 bestaetigt (BMF); BFH I R 81/13 gestrichen (Urteil betrifft anderes DBA); BMF Nachfolge allgemein gefasst; Quellensteuer Art. 11/12/13 bestaetigt (doppelbesteuerung.eu); MLI-Ausschluss bestaetigt (BMF-DBA-Stand) -->

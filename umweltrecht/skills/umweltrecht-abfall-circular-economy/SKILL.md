@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-abfall-circular-economy
-description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Pruefraster Abfalleigenschaftspruefung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bussgeld-sanktionen (Ordnungsrecht)."
+description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht)."
 ---
 
 # Abfallrecht und Circular Economy
@@ -28,17 +28,11 @@ description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigensch
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 14.04.2022 — 7 C 14.21, NVwZ 2022, 1654 — Abfallbegriff § 3 KrWG; subjektiver Entledigungswille kein abschliessendes Kriterium; objektive Umstaende (Verwertbarkeit, Marktnachfrage) maszgeblich.
-- EuGH, Urt. v. 17.11.2022 — C-238/21, NVwZ 2023, 145 — Nebenprodukt-Einstufung Art. 5 Abfall-Rahmen-Richtlinie; sichere Verwendung erforderlich; strengere nationale Regelungen zulaessig, soweit nicht EU-Ende-der-Abfalleigenschaft betroffen.
-- BVerwG, Urt. v. 26.01.2023 — 7 C 22.21, DVBl 2023, 780 — gewerbliche Sammlung § 17 Abs. 2 Nr. 4 KrWG; Wettbewerbspflicht gegenueber oeffentlichen Entsorgern; Gemeinnuetzigkeitsvorbehalt verfassungskonform.
-- VGH Bayern, Urt. v. 12.07.2023 — 20 B 22.1234 — Ende der Abfalleigenschaft § 5 KrWG; fehlende Standardzertifizierung genuegt nicht; Behoerdenermessen beschraenkt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kloepfer Umweltrecht § 20 Rn. 1-120 (Kreislaufwirtschaftsrecht systematisch)
-- Versteyl/Mann/Schomerus KrWG § 3 Rn. 1-80 (Abfallbegriff)
-- Frenz Kreislaufwirtschafts- und Abfallrecht (Kommentar) §§ 4, 5 KrWG (Nebenprodukt / Ende Abfalleigenschaft)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Stoff-Klassifikation**: Ist Stoff Abfall, Nebenprodukt oder nicht-Abfall nach §§ 3-5 KrWG + Europaeischem Abfallverzeichnis (AVV)?

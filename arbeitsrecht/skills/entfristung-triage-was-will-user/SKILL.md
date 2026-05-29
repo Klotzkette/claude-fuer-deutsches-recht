@@ -1,6 +1,6 @@
 ---
 name: entfristung-triage-was-will-user
-description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kuendigungsschutzklage; Ueberblick Pruefprogramm TzBfG; Weiterleitung zu passenden Folge-Skills."
+description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden Folge-Skills."
 ---
 
 # Entfristungsklage: Was will der Nutzer?
@@ -16,8 +16,7 @@ description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristun
 
 ## Aktuelle Rechtsprechung (Kurzüberblick für Triage)
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Häufigster Unwirksamkeitsgrund: elektronische Unterzeichnung des Arbeitsvertrags (DocuSign, E-Mail-Signatur) verletzt § 14 Abs. 4 TzBfG — Befristung automatisch unwirksam, Rechtsfolge § 16 TzBfG.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot gilt zeitlich unbegrenzt; auch mehrere Jahre zurückliegende frühere Tätigkeiten beim selben Arbeitgeber sperren die sachgrundlose Befristung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 
@@ -36,10 +35,10 @@ Dieser Skill ist der Einstieg in den Entfristungs-Workflow. Er klärt, ob das Zi
 ## Typische Einstiegssituation
 
 Der Nutzer sagt zum Beispiel:
-- „Mein befristeter Vertrag läuft am [DATUM] aus, ich glaube er war gar nicht wirksam befristet"
-- „Mein Arbeitsvertrag wurde per E-Mail unterschrieben, gilt die Befristung überhaupt?"
-- „Ich arbeite schon seit drei Jahren auf Basis aufeinanderfolgender befristeter Verträge"
-- „Mein Arbeitgeber hat mir einen neuen Vertrag gegeben ohne dass ich unterschrieben habe"
+- "Mein befristeter Vertrag läuft am [DATUM] aus, ich glaube er war gar nicht wirksam befristet"
+- "Mein Arbeitsvertrag wurde per E-Mail unterschrieben, gilt die Befristung überhaupt?"
+- "Ich arbeite schon seit drei Jahren auf Basis aufeinanderfolgender befristeter Verträge"
+- "Mein Arbeitgeber hat mir einen neuen Vertrag gegeben ohne dass ich unterschrieben habe"
 
 ## Erkennungsmerkmale Entfristungsklage
 

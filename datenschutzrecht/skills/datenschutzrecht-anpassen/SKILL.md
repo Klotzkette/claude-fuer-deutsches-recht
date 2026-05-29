@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-anpassen
-description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstaetigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Pruefraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht fuer Neuerstellung von Dokumentation."
+description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht für Neuerstellung von Dokumentation."
 ---
 
 # Customize – Praxisprofil anpassen
@@ -49,7 +49,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 37 DSGVO, § 38 BDSG (DSB-Benennungspflicht)
 - Art. 28 DSGVO (AVV-Mindestanforderungen für Playbook-Änderungen)
 - Art. 46, 47, 49 DSGVO (Drittlandtransfer-Mechanismen)
-- Hartung, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 56 Rn. 1 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ausgabeformat
 
@@ -58,8 +58,8 @@ Kurze Änderungsbestätigung:
 Geändert: [Abschnitt]
 Alter Wert: [Wert]
 Neuer Wert: [Wert]
-Rechtsgrundlage der Änderung: [Norm oder „organisatorische Entscheidung"]
-Folgeaktionen: [z.B. „Datenschutzerklärung prüfen, ob Änderung dort sichtbar werden muss"]
+Rechtsgrundlage der Änderung: [Norm oder "organisatorische Entscheidung"]
+Folgeaktionen: [z.B. "Datenschutzerklärung prüfen, ob Änderung dort sichtbar werden muss"]
 ```
 
 ## Beispiel
@@ -94,10 +94,7 @@ Stand: 05/2026. Bei BDSG-Novellen, neuen BRAO-Regeln oder Aufsichtsbehörden-Neu
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 09.03.2023 — C-453/21 (X-FAB Dresden), NJW 2023, 1549 Rn. 30–48: DSB darf keine leitende Position innehaben, die zur Überwachung seiner eigenen Datenschutztätigkeit führt; bei Interessenkonflikt muss Bestellung aufgehoben werden — dies betrifft das Praxisprofil bei DSB-Änderungen.
-- EuGH, Urt. v. 15.06.2021 — C-645/19 (Facebook Ireland/Belgian Data Protection Authority), NJW 2021, 2463 Rn. 55–78: One-Stop-Shop-Mechanismus (Art. 56 DSGVO) gilt für grenzüberschreitende Verarbeitungen; federführende Behörde richtet sich nach Hauptniederlassung — relevant für Aufsichtsbehörden-Update im Praxisprofil.
-- BGH, Urt. v. 26.09.2023 — VI ZR 97/22, NJW 2024, 234 Rn. 22: Zur tatsächlichen Weisungsgebundenheit als Kriterium der Auftragsverarbeitung — AVV-Playbook-Änderungen müssen tatsächliche Verhältnisse widerspiegeln.
-- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Zuständigkeit nationaler Aufsichtsbehörden bei grenzüberschreitenden Verarbeitungen; Wechsel der federführenden Behörde erfordert Koordination nach Art. 60 DSGVO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

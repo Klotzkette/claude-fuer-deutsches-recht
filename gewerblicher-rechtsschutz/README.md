@@ -18,7 +18,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 
 ## Für wen dieses Plugin
@@ -113,7 +113,7 @@ Empfohlene Datenbanken für deutsches IP-Recht:
 - **WIPO Global Brand DB** – Internationale Marken (Madrid)
 - **Espacenet / DPMApaplus** – Patente, Gebrauchsmuster
 - **GRUR / WRP / MMR / NJW** – juristische Zeitschriften
-- **Beck-Online / juris** – Rechtsprechungsdatenbanken
+- **amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang** – Rechtsprechungsdatenbanken
 
 ## Schnellstart
 

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-orientierung
-description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Pruefraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie Standardliteratur und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme."
+description: "Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Prüfraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie verifizierbare Quellen und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme."
 ---
 
 # Fachanwalt für Informationstechnologierecht — Orientierung
@@ -51,13 +51,9 @@ description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FA
 - Bundeskartellamt / Vergabekammer bei öffentlichen IT-Aufträgen.
 - BfDI und Landesdatenschutzbehörden.
 
-## Standardliteratur
+## Quellenregel
 
-- Auer-Reinsdorff/Conrad, Handbuch IT- und Datenschutzrecht.
-- Roth/Schönrich, IT-Vertragsrecht.
-- Soeldner/Litzel, Open-Source-Recht.
-- Roßnagel, Handbuch Datenschutzrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Davit Deutscher Anwaltverein IT-Recht.
@@ -72,10 +68,7 @@ description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FA
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Kontrolle von IT-Verträgen; § 307/309 BGB als zentrale Prüfmaßstäbe für SaaS- und Cloud-Verträge.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: Drittlandsübermittlungen im IT-Bereich; TIA nach Schrems II ist Standard für alle US-Cloud-Dienstleister.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding), NJW 2024, 248 Rn. 55: KI-VO und DSGVO-Parallelpflichten bei automatisierten Entscheidungssystemen — IT-Recht muss KI-VO-Anforderungen ab 2025 ff. integrieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

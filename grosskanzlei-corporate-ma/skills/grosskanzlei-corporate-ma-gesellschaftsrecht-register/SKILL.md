@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-gesellschaftsrecht-register
-description: "Corporate Housekeeping und Register-Pruefung im M&A-Kontext: Anwendungsfall Anwalt prueft fuer Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. §§ 8-11 GmbHG, §§ 39-40 AktG, §§ 29 ff. HGB. Pruefraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals fuer Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill fuer Recherche und zu Signing-Closing-CPs."
+description: "Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. §§ 8-11 GmbHG, §§ 39-40 AktG, §§ 29 ff. HGB. Prüfraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals für Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill für Recherche und zu Signing-Closing-CPs."
 ---
 
 # Corporate Housekeeping und Register
@@ -32,17 +32,11 @@ Prueft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organ
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.01.2012 - II ZR 197/10, NJW 2012, 1209 — notarielle Beurkundungspflicht bei GmbH-Anteilsuebertragung nach § 15 Abs. 3 GmbHG; fehlende Beurkundung fuehrt zur Nichtigkeit; nachtraegliche Genehmigung heilt den Mangel nicht
-- BGH, Urt. v. 02.07.2019 - II ZR 406/17, NZG 2019, 985 — Legitimationswirkung der Gesellschafterliste nach § 16 Abs. 1 GmbHG: eingetragener Gesellschafter gilt bis zur Berichtigung als Inhaber der Rechte und Pflichten
-- BGH, Urt. v. 16.01.2018 - II ZR 220/16, BGHZ 217, 129 — Satzungsaenderung bei GmbH: Dreiviertelmehrheit nach § 53 GmbHG ist kein disponibles Recht; Unterschreitung fuehrt zur Nichtigkeit des Beschlusses
-- BGH, Urt. v. 26.04.2016 - II ZR 167/14, NJW 2016, 2739 — Vertretungsmacht des Geschaeftsfuehrers: Handeln im Eigeninteresse (In-sich-Geschaeft § 181 BGB) grundsaetzlich unwirksam ohne gesonderte Befreiung in Gesellschaftsvertrag oder Beschluss
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Seibt, GmbHG, §§ 15, 16, 40 Rn. 1-120 (Anteilsuebertragung, Gesellschafterliste)
-- Baumbach/Hueck/Fastrich, GmbHG, § 53 Rn. 1-50 (Satzungsaenderung)
-- MueKo GmbHG/Heidinger, § 40 Rn. 1-80 (Einreichungspflicht Gesellschafterliste)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **HR-Auszug abrufen:** aktuellen Handelsregisterauszug HRB/HRA fuer alle beteiligten Gesellschaften (nicht aelter als 1 Woche vor Signing); Abgleich mit SPA-Parteibezeichnungen

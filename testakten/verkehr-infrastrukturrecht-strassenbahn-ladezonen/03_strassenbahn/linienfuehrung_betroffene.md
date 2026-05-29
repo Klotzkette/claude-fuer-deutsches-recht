@@ -19,7 +19,7 @@ Die Verkehrsbetriebe Friedrichshöfe GmbH (VBF) wurde mit Beschluss des Stadtrat
 
 ## 2. Beschreibung der Vorzugsvariante B
 
-Die Vorzugsvariante B verlässt die bestehende Haltestelle „Siemensring Ost" (km 0+000) in südwestlicher Richtung, schwenkt in die Zufahrt des Gewerbeparks Siemensring ein und verläuft auf einer neu zu erstellenden Trasse im straßenbündigen Betrieb durch den Siemensring (km 0+000 bis km 0+980). Ab km 0+980 verlässt die Trasse den Siemensring und verläuft auf einem eigenständigen Gleiskörper durch den Grünstreifen des neuen Westpark-Boulevards (km 0+980 bis km 2+640). Der Endpunkt liegt an der geplanten Haltestelle „Westpark-Mitte" (km 2+640), wo eine Wendeschleife errichtet wird. Eine spätere Verlängerung bis zur Haltestelle „Hochschule West" (km 3+200) ist planlich gesichert.
+Die Vorzugsvariante B verlässt die bestehende Haltestelle "Siemensring Ost" (km 0+000) in südwestlicher Richtung, schwenkt in die Zufahrt des Gewerbeparks Siemensring ein und verläuft auf einer neu zu erstellenden Trasse im straßenbündigen Betrieb durch den Siemensring (km 0+000 bis km 0+980). Ab km 0+980 verlässt die Trasse den Siemensring und verläuft auf einem eigenständigen Gleiskörper durch den Grünstreifen des neuen Westpark-Boulevards (km 0+980 bis km 2+640). Der Endpunkt liegt an der geplanten Haltestelle "Westpark-Mitte" (km 2+640), wo eine Wendeschleife errichtet wird. Eine spätere Verlängerung bis zur Haltestelle "Hochschule West" (km 3+200) ist planlich gesichert.
 
 ### 2.1 Haltestellen
 
@@ -46,7 +46,7 @@ Die Variante B sieht vier neue Haltestellen vor:
 ## 3. Variantenvergleich aus betrieblicher Sicht
 
 ### 3.1 Variante A (Nordtrasse)
-Variante A verläuft direkt durch die Gartenstraße und hätte aus betrieblicher Sicht den Vorteil kürzerer Bauzeiten und geringerer Anfangskosten. Die VBF sieht jedoch zwei wesentliche Nachteile: Erstens ist die Gartenstraße mit einer Fahrbahnbreite von 6,50 m für den straßenbündigen Straßenbahnbetrieb zu schmal; eine Verbreiterung würde den vollständigen Rückschnitt der stadtbildprägenden Lindenallee erfordern, was nach vorläufiger Einschätzung der unteren Naturschutzbehörde nicht kompensierbar ist. Zweitens liegt die Haltestelle „Schule Nord" in Variante A im unmittelbaren Einmündungsbereich, was Konfliktpotenzial mit dem Schulverkehr erzeugt.
+Variante A verläuft direkt durch die Gartenstraße und hätte aus betrieblicher Sicht den Vorteil kürzerer Bauzeiten und geringerer Anfangskosten. Die VBF sieht jedoch zwei wesentliche Nachteile: Erstens ist die Gartenstraße mit einer Fahrbahnbreite von 6,50 m für den straßenbündigen Straßenbahnbetrieb zu schmal; eine Verbreiterung würde den vollständigen Rückschnitt der stadtbildprägenden Lindenallee erfordern, was nach vorläufiger Einschätzung der unteren Naturschutzbehörde nicht kompensierbar ist. Zweitens liegt die Haltestelle "Schule Nord" in Variante A im unmittelbaren Einmündungsbereich, was Konfliktpotenzial mit dem Schulverkehr erzeugt.
 
 ### 3.2 Variante C (mit Tunnelabschnitt)
 Variante C bietet die beste betriebliche Leistungsfähigkeit (kein Lichtsignalkonflikte auf dem Tunnelabschnitt, höhere Reisegeschwindigkeit). Aus Sicht der VBF ist Variante C mittel- bis langfristig die qualitativ hochwertigste Lösung. Aufgrund der Mehrkosten von ca. 13,6 Mio. Euro gegenüber Variante B und des damit verbundenen Unterschreitens der GVFG-Förderquote scheidet Variante C in der aktuellen Haushaltsphase jedoch aus.
@@ -83,7 +83,7 @@ Der Kleingartenverein West e.V. hat in einer informellen Vorgespräch (15.07.202
 
 ### 4.4 Schulstandort Grundschule Nord (Variante B)
 
-In der Vorzugsvariante B liegt die nächste neue Haltestelle (H2 „Kleingärten West") ca. 320 m von der Grundschule Nord entfernt. Dies verbessert die ÖPNV-Erreichbarkeit der Schule gegenüber dem Busangebot. Die Schulleitung hat in einer Vorabstimmung (Protokoll vom 18.06.2024) Interesse bekundet, für Schülerinnen und Schüler des Einzugsgebiets Westpark eine Schülermonatskarte in Kooperation mit VBF anzubieten.
+In der Vorzugsvariante B liegt die nächste neue Haltestelle (H2 "Kleingärten West") ca. 320 m von der Grundschule Nord entfernt. Dies verbessert die ÖPNV-Erreichbarkeit der Schule gegenüber dem Busangebot. Die Schulleitung hat in einer Vorabstimmung (Protokoll vom 18.06.2024) Interesse bekundet, für Schülerinnen und Schüler des Einzugsgebiets Westpark eine Schülermonatskarte in Kooperation mit VBF anzubieten.
 
 ---
 

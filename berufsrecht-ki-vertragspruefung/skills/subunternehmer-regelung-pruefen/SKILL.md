@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-regelung-pruefen
-description: "Pruefe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer."
+description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer."
 ---
 
 # Subunternehmer-Regelung prüfen
@@ -93,10 +93,7 @@ Tabellarische Bewertung. Lücken fließen in den Rückfragebrief ein (etwa: "Bit
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 14.01.2020 — II ZR 5/18, NJW 2020, 1233 Rn. 38: Zur Übertragung von Pflichten auf Subunternehmer; der Hauptauftragnehmer bleibt gegenüber dem Auftraggeber für die Erfüllung verantwortlich, soweit er Dritte einschaltet.
-- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Berufshelfer nach § 53a StPO können auch Subunternehmer des Dienstleisters sein — die Kette der Verschwiegenheitsverpflichtung muss bis zum letzten Glied reichen.
-- EuGH, Urt. v. 12.06.2014 — C-293/12 (Digital Rights Ireland), NJW 2014, 2169 Rn. 43: Zur Verhältnismäßigkeit der Datenweitergabe an Dritte; je mehr Dritte Zugriff haben, desto höher das Risiko für Geheimnisschutz.
-- OLG Köln, Urt. v. 14.01.2020 — 19 U 93/19, NJW-RR 2020, 678 Rn. 25: Zur Pflicht des Dienstleisters, über den Einsatz von Subunternehmern aufzuklären; Verstöße gegen Informationspflichten können Schadensersatz begründen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -104,11 +101,9 @@ Tabellarische Bewertung. Lücken fließen in den Rückfragebrief ein (etwa: "Bit
 - Art. 28 Abs. 4 DSGVO — Unterauftragnehmer in der AVV
 - § 203 Abs. 4 Satz 2 Nr. 1 StGB — Sekundärpflicht des Dienstleisters
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 35–50: Zu den Anforderungen an die Subunternehmer-Klausel; Weiterverpflichtung in Textform; Zustimmungsvorbehalt der Kanzlei.
-- Hartung, in: Kühling/Buchner DSGVO/BDSG, 4. Aufl. 2024, Art. 28 DSGVO Rn. 80–100: Zur Unterauftragnehmer-Kette nach Art. 28 Abs. 4 DSGVO; Parallelität zur berufsrechtlichen Subunternehmer-Regelung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Enthält der Vertrag eine Liste aller aktuellen Subunternehmer?

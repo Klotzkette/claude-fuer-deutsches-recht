@@ -1,6 +1,6 @@
 ---
 name: zvg-quality-gate
-description: "Quality Gate fuer Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprueft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Pruefraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht."
+description: "Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht."
 ---
 
 # Quality Gate für Zwangsverwaltung
@@ -60,18 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Ergänzende Rechtsprechung
 
-- BGH, Beschl. v. 25.09.2008 - IX ZB 205/06, NZI 2009, 55 Rn. 25 — Das Vollstreckungsgericht überprüft die Ordnungsmäßigkeit der Verwaltung; wesentliche Fehler in Buchführung oder Berichterstattung können zur Entlassung und zu Haftungsansprüchen führen.
-- BGH, Beschl. v. 07.12.2007 - IX ZB 74/04, NZI 2008, 186 Rn. 10 — Die Vergütung nach ZwVwV wird nur gewährt, wenn die Verwaltung ordnungsgemäß und vollständig durchgeführt wurde; eine fehlerhafte Qualitätssicherung kann zu Vergütungskürzungen führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Quality-Gate
 
 § 154 ZVG (Gerichtliche Aufsicht) → § 20 ZwVwV (Vergütung Ordnungsmäßigkeit) → § 13-15 ZwVwV (Buchführung Berichte) → § 839 BGB (Haftung Amtspflichtverletzung) → § 280 BGB (Pflichtverletzung Schadensersatz)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 154 Rn. 20-40 (Qualitätskontrolle Gericht)
-- Böttcher ZVG 6. Aufl., § 20 ZwVwV Rn. 10-25 (Vergütungsvoraussetzungen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quality-Gate-Checkliste (Quartalsweise)
 
 **Pflicht-Checkpunkte:**

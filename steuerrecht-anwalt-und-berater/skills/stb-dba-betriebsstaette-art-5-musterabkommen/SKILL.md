@@ -1,6 +1,6 @@
 ---
 name: stb-dba-betriebsstaette-art-5-musterabkommen
-description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschliesslich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater pruefen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begruendet. Feste Geschaeftseinrichtung Bauausfuehrung Vertreterbetriebsstaette Ausnahmen Vorbereitungs- und Hilfstaetigkeiten. Anti-Fragmentierung. Output Betriebsstaetten-Memo Gewinnabgrenzung Verweis auf § 12 AO und MLI-Adjusted DBA-Text."
+description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette Ausnahmen Vorbereitungs- und Hilfstätigkeiten. Anti-Fragmentierung. Output Betriebsstaetten-Memo Gewinnabgrenzung Verweis auf § 12 AO und MLI-Adjusted DBA-Text."
 ---
 
 # Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI)
@@ -30,15 +30,13 @@ Die Betriebsstaette ist der Aufhaenger fuer das Besteuerungsrecht am Unternehmen
 - **§ 49 EStG** — beschraenkte Steuerpflicht inkl. Betriebsstaetten-Tatbestand.
 - **§ 1 Abs. 5 AStG** — Gewinnabgrenzung Betriebsstaette (AOA — Authorised OECD Approach).
 - **Betriebsstaettengewinnaufteilungsverordnung (BsGaV)** vom 13.10.2014.
-- **BMF-Schreiben zu Verwaltungsgrundsaetzen Betriebsstaettengewinnaufteilung** vom 22.12.2016 — **Aktualisierungen verifizieren**.
+- **BMF-Schreiben zu Verwaltungsgrundsaetzen Betriebsstaettengewinnaufteilung** vom 22.12.2016 (BStBl I 2017, 182) — aktuellen Stand in BMF/juris pruefen.
 - **MLI Art. 12, 13, 14, 15** — Anpassungen Betriebsstaette.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 99/14 (Server als Betriebsstaette unter bestimmten Voraussetzungen) — **Aktenzeichen verifizieren**.
-- BFH I R 8/16 (Home-Office als Betriebsstaette) — **verifizieren**.
-- BFH I R 30/16 (Bauausfuehrung) — **verifizieren**.
-- BMF-Schreiben zu Home-Office wahrend Pandemie 2020/2021 (Konsultationsvereinbarungen) — Datum und Adressat-DBA verifizieren.
+- Aktuelle BFH-Rechtsprechung zu Server-Betriebsstaette und Home-Office als Betriebsstaette in juris abrufen (BFH I. Senat, Art. 5 OECD-MA).
+- Konsultationsvereinbarungen Home-Office 2020/2021 und Folgeregelungen — aktuelle Fassung im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Tatbestaende Betriebsstaette
 
@@ -56,7 +54,7 @@ Ort der Leitung, Zweigniederlassung, Geschaeftsstelle, Fabrikationsstaette, Werk
 ### Bauausfuehrung (Art. 5 Abs. 3)
 
 - OECD-Standard 12 Monate.
-- Viele deutsche DBA abweichend (Schweiz 12 Monate, Frankreich 12 Monate, Polen 12 Monate, Oesterreich 12 Monate, MLI-Optional teilweise abweichend) — **konkret im DBA verifizieren**.
+- Viele deutsche DBA abweichend (Schweiz 12 Monate Art. 5 DBA-CH, Frankreich 12 Monate, Polen 12 Monate, Oesterreich 12 Monate) — konkret im jeweiligen DBA-Text pruefen.
 - Zusammenrechnung verbundener Auftraege moeglich.
 
 ### Ausnahmekatalog (Art. 5 Abs. 4)
@@ -79,10 +77,10 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 |---|---|---|
 | Schweiz | 12 Monate (DBA) | Pruefung Art. 5 DBA-CH konkret |
 | Oesterreich | 12 Monate | Konsultationsvereinbarung Home Office relevant |
-| Niederlande | 12 Monate | DBA 2012; **verifizieren** |
+| Niederlande | 12 Monate | DBA 2012 (BGBl. 2012 II S. 1414) |
 | Polen | 12 Monate | DBA 2003 |
 | Frankreich | 12 Monate | aelteres DBA, Protokolle pruefen |
-| USA | 12 Monate; Aufsichtstaetigkeit auf Baustelle eigenstaendig | **DBA-USA-Protokoll 2006 verifizieren** |
+| USA | 12 Monate; Aufsichtstaetigkeit auf Baustelle eigenstaendig | DBA-USA 1989/Protokoll 2006 — konkret im DBA-Text pruefen |
 
 (**Alle Zeitangaben verifizierungspflichtig — DBA-Text und MLI-Notification konsultieren.**)
 
@@ -123,9 +121,9 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 ## Strategie und Praxis-Tipps
 
-- Home-Office kann seit BFH I R 8/16 Betriebsstaette begruenden, wenn Verfuegungsmacht des Arbeitgebers vorliegt (regelmaessig nicht, da kein Mietverhaeltnis); Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) klaeren — **Aktualitaet verifizieren**.
+- Home-Office als Betriebsstaette erfordert Verfuegungsmacht des Arbeitgebers (regelmaessig nicht, da kein Mietverhaeltnis); aktuelle Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) im BMF-Verzeichnis pruefen.
 - Bei Bauausfuehrung Fristenlauf dokumentieren — Subunternehmer und Verkettungen zaehlen.
-- Server-Betriebsstaette: BFH I R 99/14 zurueckhaltend; rein technische Server in Cloud-Konstellationen meist nicht BS.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MLI Art. 12 (Vertreterbetriebsstaette erweitert) gilt nur, wenn beide Vertragsstaaten optiert haben — Notification konkret pruefen.
 - Bei niedrig besteuerter Betriebsstaette: § 20 Abs. 2 AStG-Switch-Over droht.
 
@@ -138,4 +136,6 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (Verwaltungsgrundsaetze BS-Gewinn). **Aktenzeichen der BFH-Entscheidungen, Aktualisierungen der BMF-Schreiben und MLI-Notifications der einzelnen DBA-Partner vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (BStBl I 2017, 182) (Verwaltungsgrundsaetze BS-Gewinn). Aktuelle BFH-Rechtsprechung und MLI-Notifications im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 2 belegt (Fundstelle/Datum bestaetigt), 8 ersetzt (Az nicht belegbar, Saetze neu formuliert) -->

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-ausweisung-widerspruch
-description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Pruefraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Pruefung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung."
+description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung."
 ---
 
 # Ausweisung-Widerspruch § 53 AufenthG
@@ -91,7 +91,7 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 ### Schritt 4 — Klage
 
 - Bei Widerspruchs-Ablehnung
-- VG binnen 1 Monat
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OVG-Berufung bei Niederlage
 
 ## 6) Argumentations-Linien
@@ -140,9 +140,7 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 ## 10) BVerwG-/EuGH-Linien
 
-- BVerwG, Urt. v. 22.2.2017 — 1 C 27/16 (Drei-Stufen-Test)
-- EuGH, Urt. v. 8.5.2018 — C-82/16 (K.A.)
-- EGMR, Urt. v. 18.10.2006 — Üner v. Niederlande (Familien-Schutz)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -152,11 +150,8 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 ## Vertiefung: Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 22.02.2017 - 1 C 27.16, BVerwGE 157, 356 — Drei-Stufen-Test § 53 AufenthG: Ausweisungs- und Bleibeinteressen sind gleichrangig abzuwaegen; keine schematische Pruefreihenfolge; Art. 6 GG und Art. 8 EMRK sind unmittelbar in die Abwaegung einzustellen.
-- BVerwG, Urt. v. 25.07.2017 - 1 C 12.16, NVwZ 2018, 350 — Befristung Einreise- und Aufenthaltsverbot § 11 AufenthG: Befreiung von EAV nach Aufenthaltsbeendigung — Ermessen der Auslaenderbehoerde; hohes Gewicht bei familiären Bindungen in Deutschland.
-- EGMR, Urt. v. 18.10.2006 - 46410/99 (Uner v. Niederlande), NVwZ 2007, 1279 — Art. 8 EMRK Ausweisungsabwaegung: 10 Kriterien (Üner-Kriterien) fuer Verhältnismaessigkeitspruefung; Dauer Aufenthalt, Kindeswohl, Bindungen im Herkunftsland zwingend zu beruecksichtigen.
-- EuGH, Urt. v. 08.05.2018 - C-82/16 (K.A. und andere), NVwZ 2018, 1279 — Einreiseverbot bei Ruckkehrentscheidung: Wiedereinreisegesuch muss auf neue Umstaende gepruefen werden; EU-Buerger-Familienangehoerige koennen sich auf Art. 20 AEUV berufen um EAV entgegenzutreten.
-- OVG NRW, Urt. v. 22.03.2017 - 18 A 1908/14, BeckRS 2017, 107841 — Ausweisung nach Straftat: Gewichtung der Schwere der Straftat und Wiederholungsgefahr; Sozialprognose entscheidend; einzelfallbezogene Abwaegung Bleibeinteressen Familie.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Normen-Kette Ausweisung
 
@@ -168,12 +163,9 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 - **Art. 6 GG / Art. 8 EMRK** — Familienschutz in der Abwaegung zwingend
 - **§ 80 Abs. 5 VwGO** — Eilrechtsschutz gegen sofortigen Vollzug
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bergmann/Dienelt, AufenthG §§ 53-55 Rn. 1-100 — Ausweisungsrecht systematisch
-- Kluth/Heusch, BeckOK AufenthG § 53 Rn. 1-50
-- Marx, Auslaenderrecht, Kap. VII Ausweisung und Einreiseverbot
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -224,7 +216,7 @@ II. RECHTLICHE WUERDIGUNG
    - Aufenthalt seit [X] Jahren — Niederlassungserlaubnis vorhanden
    - Familienleben Art. 6 GG, Art. 8 EMRK: [KINDER / EHEGATTE DETAILS]
    - Kindeswohl: [KINDER DETAILS, Alter, dt. Staatsang.]
-   - Üner-Kriterien EGMR (EGMR 46410/99): Bindungen im Herkunftsland
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
      minimal nach [X] Jahren Abwesenheit.
 
 3. Abwaegung § 53 AufenthG ergibt Ueberwiegen Bleibeinteressen:
@@ -233,7 +225,7 @@ II. RECHTLICHE WUERDIGUNG
 III. HILFSANTRAG: BEFRISTUNG EINREISEVERBOT § 11 AufenthG
 Fuer den Fall der Aufrechterhaltung der Ausweisungsverfuegung wird beantragt,
 das Einreise- und Aufenthaltsverbot unverzueglich auf [1 Jahr] zu befristen
-(§ 11 Abs. 2 Satz 5 AufenthG; BVerwG 1 C 27.16).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 IV. EILRECHTSSCHUTZ
 Fuer den Fall der Aufrechterhaltung des Sofortvollzugs wird parallel

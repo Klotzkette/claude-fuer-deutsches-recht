@@ -1,6 +1,6 @@
 ---
 name: esg-greenwashing-csrd
-description: "Unternehmen muss ESG-Bericht erstellen oder verteidigt Greenwashing-Vorwurf. CSRD VO 2022/2464 gestaffelt seit 2024 ESRS-Standards Doppelte Wesentlichkeit EU-Taxonomie VO 2020/852 SFDR. Normen UWG § 5 Irrefuehrung BGH I ZR 252/22 klimaneutral EU-Green-Claims-Richtlinie 2024. Pruefraster Nachhaltigkeitsbericht-Pflicht Wesentlichkeitsanalyse Greenwashing-Risiko-Check. Output ESG-Bericht-Struktur Greenwashing-Verteidigung Werbe-Substantiierung. Abgrenzung zu lksg-csddd-lieferkettensorgfalt (Lieferkette) und umweltrecht-transaktionen-dd (M&A)."
+description: "Workflow-Skill zu esg greenwashing csrd. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # ESG, CSRD und Greenwashing-Verteidigung
@@ -135,14 +135,14 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
   - Bio-basiert
   - Recycelt
 
-### BGH I ZR 252/22 — "klimaneutral" (Katjes, 27.6.2024)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Mehrdeutige Aussage** "klimaneutral"
 - **Pflicht zur Substantiierung** im Werbe-Kontext
 - **Konkrete Erläuterung** Methodik erforderlich (Reduktions- vs. Kompensations-Anteile)
 - Aussage muss in der Werbung selbst aufgeklärt werden, Verweis auf externe Quelle reicht nicht
 
-### BGH I ZR 53/23 — Folge-Entscheidung (27.6.2024)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Parallel-Entscheidung
 - Verschärfung der Substantiierungs-Pflicht auf Werbe-Mittel-Ebene
@@ -312,8 +312,7 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 - EU-Taxonomie-VO (EU) 2020/852
 - SFDR VO (EU) 2019/2088
 - UWG §§ 5 6
-- BGH I ZR 252/22 (Katjes, 27.6.2024)
-- BGH I ZR 53/23 (27.6.2024)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bundeskartellamt Sektor-Untersuchung Greenwashing
 - ISO 14064 14067
 - GHG-Protocol

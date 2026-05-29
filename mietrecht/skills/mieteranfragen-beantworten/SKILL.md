@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-beantworten
-description: Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankuendigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskuendigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwimmeln sondern Rechtslage transparent darstellen und Loesungsoptionen anbieten. Strikt sachlich keine Drohgebaerden. Disclaimer am Anfang.
+description: Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwimmeln sondern Rechtslage transparent darstellen und Lösungsoptionen anbieten. Strikt sachlich keine Drohgebaerden. Disclaimer am Anfang.
 ---
 
 # Mieteranfragen beantworten (Vermieter / Hausverwaltung)
@@ -61,11 +61,8 @@ Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen S
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113: Schimmelbefall — Vermieter tragt Beweislast fuer mangelurursaechendes Nutzerverhalten; nur konkreter Nachweis entlastet.
-- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296: Eigenbedarfskuendigung mit nicht-konkreter Begruendung ist formell unwirksam.
-- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756: Belegeinsichtsrecht des Mieters ist durchsetzbar; Verweigerung berechtigt zur Einwendung gegen Betriebskostennachzahlung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — Mieter-Vermieter-Kommunikation
-- BeckOK Mietrecht — §§ 535 ff. BGB
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

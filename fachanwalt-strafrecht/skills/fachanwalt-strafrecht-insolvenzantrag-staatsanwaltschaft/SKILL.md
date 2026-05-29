@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft
-description: "Insolvenzantrag-Massnahmen durch Staatsanwaltschaft im Wirtschaftsstrafrecht: Anwendungsfall Staatsanwaltschaft hat Insolvenzantrag gestellt oder Vermoegenswerte beschlagnahmt und Verteidiger muss reagieren. § 283 StGB Bankrott, § 15a InsO Antragspflicht, §§ 111b ff. StPO Beschlagnahme. Pruefraster Insolvenzantrag-Berechtigung prüfen, Beschlagnahme anfechten, Insolvenzantragspflichtverletzung als Strafbarkeitsrisiko einordnen. Output Verteidigungs-Strategie-Memo mit Massnahmenliste gegen Staatsanwaltschafts-Insolvenzantrag. Abgrenzung zu Distressed-MA und zu Wirtschaftsstrafrecht."
+description: "Insolvenzantrag-Massnahmen durch Staatsanwaltschaft im Wirtschaftsstrafrecht: Anwendungsfall Staatsanwaltschaft hat Insolvenzantrag gestellt oder Vermögenswerte beschlagnahmt und Verteidiger muss reagieren. § 283 StGB Bankrott, § 15a InsO Antragspflicht, §§ 111b ff. StPO Beschlagnahme. Prüfraster Insolvenzantrag-Berechtigung prüfen, Beschlagnahme anfechten, Insolvenzantragspflichtverletzung als Strafbarkeitsrisiko einordnen. Output Verteidigungs-Strategie-Memo mit Massnahmenliste gegen Staatsanwaltschafts-Insolvenzantrag. Abgrenzung zu Distressed-MA und zu Wirtschaftsstrafrecht."
 ---
 
 # Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n
@@ -53,11 +53,7 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH IX ZB 37/12 | BGH, 14.11.2013 | § 97 Abs. 1 S. 3 InsO schützt vor strafrechtlicher Verwertung der Auskunft; Verwertungsverbot gilt nur für erzwungene Aussagen |
-| BGH 1 StR 218/12 | BGH, 28.11.2012 | Vermögensarrest nach § 111e StPO wird mit Insolvenzeröffnung aufgehoben; Erlös fließt in die Masse nach § 111i StPO |
-| BVerfG 2 BvR 1523/14 | BVerfG, 2015 | Selbstbelastungsfreiheit im Insolvenzverfahren verfassungsrechtlich geschützt; § 97 InsO ist enge Ausnahme |
-| BGH II ZR 68/15 | BGH, 14.03.2017 | § 15b InsO: Zahlungen nach Insolvenzreife sind grundsätzlich zu erstatten; Sorgfaltsmaßstab bei GmbH-Geschäftsführer streng |
-| OLG Frankfurt 1 W 28/19 | OLG Frankfurt, 2019 | Gläubigerantrag durch Finanzamt: Glaubhaftmachung rückständiger Steuerforderung ausreichend; keine volle Beweisführung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -95,7 +91,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Baustein 1 – Anhörung Insolvenzgericht (Widerspruch gegen Antrag)
@@ -129,7 +124,7 @@ Zum Stichtag [Datum] verfügt die Schuldnerin über folgende
 liquide Mittel: [Kontostand EUR, offene Kreditlinie EUR,
 zugesagtes Darlehen EUR (Nachweis Anlage 2)]. Die fälligen
 Verbindlichkeiten betragen [Summe EUR]. Die Liquiditätslücke
-liegt unter der Bagatellschwelle von 10 % (BGH IX ZB 188/09).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Hilfsweise: Vergleichsbereitschaft
 
@@ -236,11 +231,11 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Schweigerecht gilt auch im Insolvenzverfahren" | Nein; § 97 InsO normiert ausdrücklich Mitwirkungspflicht; Schweigerecht aus § 136 StPO gilt nur im Strafverfahren |
-| „§ 97 Abs. 1 S. 3 InsO schützt vollständig vor Strafverfolgung" | Nein; Verwertungsverbot gilt nur für erzwungene Auskünfte, nicht für freiwillig gemachte Angaben (BGH IX ZB 37/12) |
-| „Insolvenz stoppt den Vermögensarrest automatisch" | Grundsätzlich ja (§ 111i StPO), aber Einziehungsanspruch des Staates bleibt bestehen; er wird zum Insolvenzgläubiger |
-| „Restschuldbefreiung befreit auch von Steuerschulden" | Nein; § 302 Nr. 1 InsO schließt vorsätzlich begangene unerlaubte Handlungen aus; Steuerhinterziehung ist § 370 AO = unerlaubte Handlung |
-| „Eigenverwaltung schadet den Gläubigern" | § 270 InsO sieht vor, dass Eigenverwaltung angeordnet wird wenn kein Nachteil für Gläubiger; Beweislast liegt beim Widersprechenden |
+| "Schweigerecht gilt auch im Insolvenzverfahren" | Nein; § 97 InsO normiert ausdrücklich Mitwirkungspflicht; Schweigerecht aus § 136 StPO gilt nur im Strafverfahren |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Insolvenz stoppt den Vermögensarrest automatisch" | Grundsätzlich ja (§ 111i StPO), aber Einziehungsanspruch des Staates bleibt bestehen; er wird zum Insolvenzgläubiger |
+| "Restschuldbefreiung befreit auch von Steuerschulden" | Nein; § 302 Nr. 1 InsO schließt vorsätzlich begangene unerlaubte Handlungen aus; Steuerhinterziehung ist § 370 AO = unerlaubte Handlung |
+| "Eigenverwaltung schadet den Gläubigern" | § 270 InsO sieht vor, dass Eigenverwaltung angeordnet wird wenn kein Nachteil für Gläubiger; Beweislast liegt beim Widersprechenden |
 
 ---
 
@@ -280,9 +275,6 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 ## Quellen
 
-Insolvenzordnung §§ 14, 17, 19, 21, 35–36, 97, 129–135, 174 ff., 270, 270b, 302. StGB §§ 46a, 73–73c, 266a, 283. StPO §§ 111b–111i, 136, 257c. AO §§ 370, 376. GmbHG § 43. BGH IX ZB 37/12 (§ 97 InsO Verwertungsverbot). BGH 1 StR 218/12 (§ 111i StPO Verhältnis Insolvenzeröffnung). BGH II ZR 68/15 (§ 15b InsO). Uhlenbruck InsO, aktuelle Auflage. Kirchhof/Eidenmüller/Stürner InsO. Stand: 05/2026.
-
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-> **Audit 27.05.2026** — BGH IX ZR 176/13 (behauptetes Thema: Insolvenzanfechtung § 131 InsO, Zahlung an nahe Angehörige; behauptetes Datum: 16.01.2014) aus Leitentscheidungen-Tabelle entfernt. Das Urteil existiert mit korrektem Datum 10.04.2014, betrifft jedoch Schadensberechnung beim Schneeballsystem / Forderungsanmeldung zur Tabelle (§§ 179, 180 InsO, Insolvenz Phoenix). Weder Datum noch Thema stimmen mit der Behauptung überein (WRONG_TOPIC). Eintrag gelöscht.

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-tatbestand-rechtswidrigkeit-schuld
-description: "Student prueft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgruende Schuldfaehigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Ruecktritt § 24 StGB Konkurrenzen. Pruefraster Stufenpruefung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Pruefungsschema Begruendung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode)."
+description: "Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB Konkurrenzen. Prüfraster Stufenprüfung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Prüfungsschema Begründung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode)."
 ---
 
 # Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld
@@ -13,10 +13,7 @@ description: "Student prueft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema 
 4. Gibt es Schuldunfaehigkeitsindikatoren (Alter, psychische Erkrankung, Trunkenheit)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Vorsatz beim Toetungsdelikt: direkte und bedingte Absicht; bedingte Toetungsabsicht erfordert Billigung des Todes, nicht nur Voraussicht.
-- BGH, Urt. v. 11.12.2018 - 2 StR 391/18, NStZ 2019, 469 — Notwehr § 32 StGB: Gegenwaertigkeit des Angriffs als entscheidendes Tatbestandsmerkmal; Pruefungsschema Angriff-Gegenwaertigkeit-Notwehrlage.
-- BGH, Urt. v. 29.08.2018 - 5 StR 326/18, NStZ 2019, 157 — Betrug § 263 StGB: Taeuschungshandlung muss Irrtum beim Opfer kausal hervorrufen; Kausalzusammenhang Pflichtmerkmal.
-- BGH, Urt. v. 28.06.2018 - 3 StR 108/18, NStZ 2019, 28 — Stehlens-Tatbestand § 242 StGB: Gewahrsamsbruch erfordert Beseitigung ohne oder gegen den Willen des Gewahrsamsinhabers; konklusive Handlungen genuegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 13-35 StGB — Allgemeiner Teil: Tatbestand, Rechtswidrigkeit, Schuld
@@ -24,13 +21,12 @@ description: "Student prueft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema 
 - §§ 32, 34 StGB — Notwehr und rechtfertigender Notstand
 - §§ 20, 21 StGB — Schuldunfaehigkeit und verminderte Schuldfaehigkeit
 
-## Kommentarliteratur
-- Fischer StGB, 71. Aufl. 2024, §§ 13-35 (Systematisches Schema Tatbestand-Rechtswidrigkeit-Schuld)
-- Schoenke/Schroeder StGB Vor § 13 Rn. 1-100 (Verbrechensaufbau und Pruefungsschema)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Das Drei-Stufen-Schema ist das Standard-Schema jeder strafrechtlichen Prüfung. Es führt von der Frage „Ist die Handlung tatbestandsmäßig?" über „Ist sie rechtswidrig?" zu „Ist sie schuldhaft?".
+Das Drei-Stufen-Schema ist das Standard-Schema jeder strafrechtlichen Prüfung. Es führt von der Frage "Ist die Handlung tatbestandsmäßig?" über "Ist sie rechtswidrig?" zu "Ist sie schuldhaft?".
 
 ## Schritt 1 — Aufbau
 
@@ -196,7 +192,7 @@ Tatbestandsmäßigkeit indiziert Rechtswidrigkeit. Geprüft wird, ob Rechtfertig
 
 - **Spezialität**: ein Tatbestand schlägt anderen
 - **Subsidiarität**: ein Tatbestand subsidiär zu anderem
-- **Konsumtion**: schwerer Tatbestand „umfasst" leichteren
+- **Konsumtion**: schwerer Tatbestand "umfasst" leichteren
 
 ## Schritt 7 — Konkrete Beispiele
 

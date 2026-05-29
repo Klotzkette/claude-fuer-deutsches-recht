@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-mehrarbeit-zuschlaege-39b-estg
-description: "Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Pruefung Begrenzung Grundlohn Pflichtdokumentation. Output Lohn-Abrechnung mit korrekter Zuschlag-Behandlung."
+description: "Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Prüfung Begrenzung Grundlohn Pflichtdokumentation. Output Lohn-Abrechnung mit korrekter Zuschlag-Behandlung."
 ---
 
 # Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG
@@ -58,7 +58,7 @@ Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt
 
 - Bei Grundlohn > 50 EUR/Stunde: Zuschlag nur auf 50 EUR/Stunde basierend LSt-frei.
 - Daruber hinaus normal versteuert.
-- SV-rechtlich gilt zusaetzlich die strengere Grundlohn-Grenze 25 EUR/Stunde (§ 1 Abs. 1 Satz 1 Nr. 1 SvEV); bei Grundlohn > 25 EUR/Stunde ist der Zuschlag-Anteil oberhalb 25 EUR LSt-frei, aber SV-pflichtig. Konkrete Werte 2026 verifizieren.
+- SV-rechtlich gilt zusaetzlich die strengere Grundlohn-Grenze 25 EUR/Stunde (§ 1 Abs. 1 Satz 1 Nr. 1 SvEV; Stand 2025, unveraendert seit 2019); bei Grundlohn > 25 EUR/Stunde ist der Zuschlag-Anteil oberhalb 25 EUR LSt-frei, aber SV-pflichtig.
 
 **Zahlenbeispiel Nachtarbeit (Gastronomie):** Grundlohn 14 EUR/Stunde, Nachtarbeit von 22:00 bis 04:00 Uhr (6 Stunden), Zuschlag tariflich 25 Prozent. Steuerlich nach § 3b EStG: Nachtarbeit (20-6 Uhr) 25 Prozent von 14 EUR = 3,50 EUR/Stunde; in den Stunden 0-4 Uhr (sofern vor 0 Uhr aufgenommen) 40 Prozent = 5,60 EUR/Stunde. Bei Sonntagsarbeit zusaetzlich 50 Prozent Sonntagszuschlag (kumulierbar mit Nachtzuschlag). Zuschlagssumme LSt- und (bis 25 EUR Grundlohn) SV-frei.
 
@@ -120,3 +120,5 @@ Stand: 05/2026.
 - SvEV § 1.
 - LStR R 3 b.
 - BMF zu Pflegekraeften.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SvEV Grundlohn-Grenze 25 EUR/Stunde seit 2019 stabil) -->

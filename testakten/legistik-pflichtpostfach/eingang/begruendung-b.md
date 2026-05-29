@@ -37,7 +37,7 @@ Absatz 3 ist eine Unberührtheits-Klausel. Bestehende Vorschriften zur elektroni
 
 #### Zu Nummer 1 (Pflichtpostfach)
 
-Die Definition stützt sich auf Artikel 8 Absatz 2 Buchstabe c der eIDAS-Verordnung (Vertrauensniveau „hoch"). Damit ist sichergestellt, dass die Identifizierung sicher und unionsrechtlich anerkannt erfolgt. Die Interoperabilität (§ 4) und die nähere technische Konkretisierung (§ 5) sind Bestandteile der Definition.
+Die Definition stützt sich auf Artikel 8 Absatz 2 Buchstabe c der eIDAS-Verordnung (Vertrauensniveau "hoch"). Damit ist sichergestellt, dass die Identifizierung sicher und unionsrechtlich anerkannt erfolgt. Die Interoperabilität (§ 4) und die nähere technische Konkretisierung (§ 5) sind Bestandteile der Definition.
 
 #### Zu Nummern 2 bis 6
 
@@ -82,7 +82,7 @@ Absatz 2 regelt die Erweiterungs-Möglichkeit. Damit wird Flexibilität gegenüb
 
 Absatz 3 statuiert die Mindest-Anforderungen, die jeder benannte Zustelldienst erfüllen muss:
 
-- Vertrauensniveau „hoch" (eIDAS-Verordnung)
+- Vertrauensniveau "hoch" (eIDAS-Verordnung)
 - Nachweisbare elektronische Übermittlung mit Zeitstempel
 - Konformität mit eIDAS 2.0 (Verordnung (EU) 2024/1183)
 - Barrierefreiheit (Verordnung (EU) 2019/882)
@@ -178,7 +178,7 @@ Die Erstreckung auf Zweigniederlassungen ist konsequent: Die Zweigniederlassung 
 
 Die Änderung erweitert die Pflicht zur elektronischen Zustellung um die Verpflichteten nach PflPostG. Damit wird die Vorgabe des Bundesgerichtshofs (BGH XII ZB 233/22, 25.01.2023) systematisch umgesetzt, dass die elektronische Zustellung an Wirtschaftsteilnehmer der Standard sein soll.
 
-Die zweite Ergänzung („soweit sich aus dem Pflichtpostfachgesetz nichts Abweichendes ergibt") stellt klar, dass das PflPostG als spezielleres Gesetz den Vorrang hat.
+Die zweite Ergänzung ("soweit sich aus dem Pflichtpostfachgesetz nichts Abweichendes ergibt") stellt klar, dass das PflPostG als spezielleres Gesetz den Vorrang hat.
 
 ---
 
@@ -196,7 +196,7 @@ Die Klarstellung, dass das PflPostG für FamFG-Verfahren ergänzend Anwendung fi
 
 Die Pflicht der Behörden zur Zustellung an das Pflichtpostfach (soweit elektronisch übermittelbar) ist sachgerecht. Andernfalls könnte die Verwaltung weiterhin postalisch zustellen und damit die Pflicht der Wirtschaftsakteure zur Vorhaltung des Pflichtpostfachs partiell entwerten.
 
-Die Einschränkung „soweit nicht eine andere Form der Zustellung ausdrücklich angeordnet ist" wahrt Flexibilität in Sonder-Konstellationen (z.B. Auslandszustellung, Anordnungs-Zustellung).
+Die Einschränkung "soweit nicht eine andere Form der Zustellung ausdrücklich angeordnet ist" wahrt Flexibilität in Sonder-Konstellationen (z.B. Auslandszustellung, Anordnungs-Zustellung).
 
 ---
 
@@ -243,4 +243,4 @@ Die Staffelung trägt den unterschiedlichen Realitäten von HReg-Gesellschaften 
 
 Stellungnahme der Referenten:
 
-> „Die Begründung folgt strikt der Vorgabe des Handbuchs der Rechtsförmlichkeit (HdR) und der GGO. Die Ausführungs-Tiefe ist auf den Bedarf des Bundestags und des Bundesrats abgestellt. Die NKR-Stellungnahme wird zeitgleich mit der Verbändeanhörung eingeholt."
+> "Die Begründung folgt strikt der Vorgabe des Handbuchs der Rechtsförmlichkeit (HdR) und der GGO. Die Ausführungs-Tiefe ist auf den Bedarf des Bundestags und des Bundesrats abgestellt. Die NKR-Stellungnahme wird zeitgleich mit der Verbändeanhörung eingeholt."

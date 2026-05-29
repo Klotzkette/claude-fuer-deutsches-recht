@@ -1,6 +1,6 @@
 ---
 name: textform-vs-schriftform-vs-notariell
-description: "Formerfordernis fuer einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Pruefraster: Vertragstyp Erklaerung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht fuer Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-pruefung)."
+description: "Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Prüfraster: Vertragstyp Erklärung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht für Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-prüfung)."
 ---
 
 # Textform vs. Schriftform vs. Notarielle Beurkundung
@@ -29,8 +29,7 @@ Dieser Skill klärt die drei Formstufen für Wandeldarlehensverträge und gibt e
 - § 53 Abs. 2 GmbHG (Notarielle Beurkundung Kapitalerhöhungsbeschluss)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Januar 2006 – XI ZR 384/03 (Textform nach § 126b BGB; E-Mail als Textform anerkannt)
-- BGH, Urt. v. 25. November 2004 – I ZR 49/02 (Schriftformerfordernis und Heilung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -83,11 +82,11 @@ Stand: 05/2026. eIDAS-VO 910/2014, GNotKG. Bei Änderung BGB-Formvorschriften ak
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 24: Die Wandlungsabrede im Wandeldarlehensvertrag unterliegt der notariellen Beurkundungspflicht nach § 15 Abs. 4 GmbHG, soweit sie eine Verpflichtung zur Übertragung von GmbH-Anteilen begründet; fehlt die notarielle Form, ist die Wandlungsabrede nichtig (§ 125 BGB), kann aber durch nachträgliche Beurkundung des Kapitalerhöhungsbeschlusses geheilt werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 18: Unterschied Textform/Schriftform/notariell ist für das Wandeldarlehen zentral: Wandlungserklärung (Phase B) kann in Textform erfolgen; Kapitalerhöhungsbeschluss (Phase C) muss notariell beurkundet werden; Wandeldarlehensvertrag selbst muss bei Abtretungs-Schuldverhältnis nach § 15 Abs. 4 GmbHG notariell sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 22.09.2014 — **II ZR 57/13**, NJW 2014, 3442 Rn. 16: Formheilungsklausel im Vertrag (Nachweis der Heilung durch notarielle Beurkundung) ist zulässig; fehlende Notarform des Wandeldarlehensvertrags wird durch den späteren notariellen Kapitalerhöhungsbeschluss geheilt, wenn die Wandlungsabrede vollständig im Beschluss aufgeführt ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

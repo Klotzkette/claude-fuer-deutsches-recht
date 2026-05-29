@@ -1,6 +1,6 @@
 ---
 name: lernsitzung
-description: "Lernsitzung fuer Jurastudium interaktiv durchfuehren: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklaerungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Loesungsschemata Zivilrecht Strafrecht oeffentliches Recht. Pruefraster Thema und Lernziel festlegen, Erklaerung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklaerungen und Zwischentest. Abgrenzung zu Karteikarten fuer Memorierung und zu Gutachten-Uebung fuer Klausurtraining."
+description: "Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining."
 ---
 
 # Lerneinheit
@@ -11,10 +11,10 @@ Eine strukturierte Lerneinheit mit einer festen Anzahl an Fragen — Karteikarte
 
 ## Eingaben
 
-- **Rechtsgebiet** (z. B. „Schuldrecht AT", „§§ 242, 243 StGB", „Verwaltungsrecht Ermessen")
+- **Rechtsgebiet** (z. B. "Schuldrecht AT", "§§ 242, 243 StGB", "Verwaltungsrecht Ermessen")
 - **Anzahl der Fragen** (N)
 - **Modus** (`--karteikarten` | `--klausurfrage` | `--mündlich`, Standard: Nachfrage)
-- Optional: **Schwerpunkt** (z. B. „Schwerpunkt: Kausalität", „nur Definitionen")
+- Optional: **Schwerpunkt** (z. B. "Schwerpunkt: Kausalität", "nur Definitionen")
 
 ## Rechtlicher Rahmen
 
@@ -23,18 +23,15 @@ Die Fragen folgen dem Examensrelevanzkanon für das Erste und Zweite Staatsexame
 **Leitentscheidungen (Beispiele je Modus):**
 
 Karteikarten-Drill (Definitionen):
-- BGH, Urt. v. 07.06.1984 – IX ZR 66/83, BGHZ 91, 324 — Willenserklärung, Definition Schweigen
-- BGH BGHZ 213, 374 Rn. 26 ff. — dolus eventualis im Zivilrecht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Gutachtenstil-Klausurfragen:
-- BGH, Urt. v. 25.11.2009 – VIII ZR 318/08, NJW 2010, 610 Rn. 12 — Leistungsstörungsrecht § 280 BGB
-- BGH, Urt. v. 22.09.1995 – 2 StR 310/95, BGHSt 41, 292 — Mittäterschaft § 25 Abs. 2 StGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Literatur:**
-- Grüneberg, BGB, 84. Aufl. 2025 (vormals Palandt) — Kurzkommentar-Standard
-- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020 — Deliktsaufbau (Lehrbuch)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020 — VerwR-Standard (Lehrbuch)
-- Armbrüster, in: MüKoBGB, 9. Aufl. 2021, § 116 Rn. 1 ff. — BGB AT vertiefte Definitionen
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -42,7 +39,7 @@ Gutachtenstil-Klausurfragen:
 
 Wenn Rechtsgebiet oder Anzahl fehlen, einmalig fragen:
 
-> „Welches Rechtsgebiet, und wie viele Fragen? (z. B. ‚Schuldrecht AT, 10 Fragen' oder ‚StGB BT Eigentumsdelikte 5 — Gutachtenstil')"
+> "Welches Rechtsgebiet, und wie viele Fragen? (z. B. 'Schuldrecht AT, 10 Fragen' oder 'StGB BT Eigentumsdelikte 5 — Gutachtenstil')"
 
 ### Schritt 2: Modus bestimmen und Inhaltsquelle laden
 
@@ -56,7 +53,7 @@ Jurisdiktion/Prüfungsordnung aus Nutzerprofil laden, falls vorhanden (z. B. Exa
 
 Nie mehrere Fragen auf einmal. Erst Antwort abwarten, dann nächste Frage.
 
-Nach jeder Frage: kurze Rückmeldung (richtig / teilweise / falsch + Korrektur). Falsche Antworten mit Normangabe erläutern — nie nur „falsch".
+Nach jeder Frage: kurze Rückmeldung (richtig / teilweise / falsch + Korrektur). Falsche Antworten mit Normangabe erläutern — nie nur "falsch".
 
 ### Schritt 4: Sitzungsabschluss
 
@@ -86,7 +83,7 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 ### Schritt 5: Anschlussempfehlung
 
-> „Auf Basis dieser Sitzung empfiehlt sich als nächster Schritt: [konkrete Empfehlung — z. B. ‚Definitionen § 275 BGB mit karteikarten vertiefen' oder ‚gutachtenstil-übung: Klausurfall zu § 286 BGB']."
+> "Auf Basis dieser Sitzung empfiehlt sich als nächster Schritt: [konkrete Empfehlung — z. B. 'Definitionen § 275 BGB mit karteikarten vertiefen' oder 'gutachtenstil-übung: Klausurfall zu § 286 BGB']."
 
 ## Ausgabeformat
 
@@ -97,7 +94,7 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 ## Beispiel
 
-**Eingabe:** „10 Fragen Strafrecht BT Eigentumsdelikte, Modus mündlich"
+**Eingabe:** "10 Fragen Strafrecht BT Eigentumsdelikte, Modus mündlich"
 
 **Verlauf (Auszug):**
 
@@ -105,13 +102,13 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 Nutzer antwortet. Skill prüft: Ist § 242 Abs. 1 StGB (Diebstahl) benannt? Obersatz vorhanden? Fremdheit der Sache, Wegnahme, Zueignungsabsicht als Prüfungspunkte erwähnt?
 
-Pushback falls unvollständig: „Sie haben § 242 StGB benannt — gut. Was ist Wegnahme? Definition, bitte."
+Pushback falls unvollständig: "Sie haben § 242 StGB benannt — gut. Was ist Wegnahme? Definition, bitte."
 
 **Sitzungsabschluss:** 7/10 richtig. Schwache Themen: Abgrenzung § 242/246 StGB (Diebstahl/Unterschlagung), Gewahrsamsbruch-Definition. Empfehlung: Karteikarten § 242–248c StGB + eine Klausurfrage zur Abgrenzung.
 
 ## Risiken und typische Fehler
 
-- **Rechtsgebiet zu weit gewählt**: „BGB" als Rechtsgebiet für eine 10-Fragen-Einheit ist sinnlos breit. Auf Unterthemen eingrenzen (z. B. „BGB AT Stellvertretung §§ 164 ff.").
+- **Rechtsgebiet zu weit gewählt**: "BGB" als Rechtsgebiet für eine 10-Fragen-Einheit ist sinnlos breit. Auf Unterthemen eingrenzen (z. B. "BGB AT Stellvertretung §§ 164 ff.").
 - **Modus nicht zur Lernphase passend**: Karteikarten sind für Definitionen-Memorierung. Gutachtenstil-Klausurfragen für Strukturtraining. Mündlich für Verständnis-Tiefe. Den richtigen Modus zur richtigen Lernphase wählen.
 - **Sitzungsergebnisse nicht verwerten**: Der Wert der Sitzungshistorie liegt darin, dass schwache Themen bei der nächsten Sitzung priorisiert werden. Sitzungen ohne Auswertung sind verlorenes Feedback.
 - **Lernplan-Abweichungen ignorieren**: Wenn die Sitzungshistorie zeigt, dass ein Thema in drei Sitzungen hintereinander schlecht abgeschnitten hat, muss es im Lernplan hochgestuft werden — nicht nur in der nächsten Sitzung wiederholt.

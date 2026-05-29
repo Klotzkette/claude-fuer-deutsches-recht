@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlagen-pruefen
-description: "Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz loesen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Pruefraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjaehrung. Output Anspruchsgrundlagen-Baum mit Pruefungsschema. Abgrenzung: CISG-spezifisch siehe cisg-pruefen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil."
+description: "Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Prüfraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjährung. Output Anspruchsgrundlagen-Baum mit Prüfungsschema. Abgrenzung: CISG-spezifisch siehe cisg-prüfen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil."
 ---
 
 # Anspruchsgrundlagen-Prüfung
@@ -17,10 +17,7 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie sche
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 27.01.2005 - VII ZR 158/03, NJW 2005, 1423 — Anspruchskonkurrenz zwischen vertraglichen und deliktischen Ansprüchen: miteinander konkurrierende Ansprüche aus Vertrag und § 823 Abs. 1 BGB sind nach ihren Voraussetzungen und Rechtsfolgen grundsätzlich selbständig zu beurteilen; die Verjährung richtet sich nach den jeweils anwendbaren Vorschriften.
-- BGH, Urt. v. 10.02.2005 - VII ZR 184/04, NJW 2005, 1356 — Bereicherungsausgleich im Mehrpersonenverhältnis bei nichtigen Bauträgerverträgen; § 812 Abs. 1 S. 1 BGB setzt das Fehlen eines rechtlichen Grundes voraus; Leistung ist die bewusste und zweckgerichtete Vermehrung fremden Vermögens.
-- BGH, Urt. v. 16.06.2009 - VI ZR 107/08, NJW 2009, 2952 — Produkthaftung nach ProdHaftG und deliktische Haftung nach § 823 Abs. 1 BGB: Die Sicherheitserwartungen des § 3 Abs. 1 ProdHaftG beurteilen sich nach denselben objektiven Maßstäben wie die Verkehrspflichten des Herstellers im Rahmen von § 823 Abs. 1 BGB; beide Anspruchsgrundlagen stehen selbständig nebeneinander.
-- EuGH, Urt. v. 13.07.2006 - C-295/04, NJW 2006, 2317 — Anspruchsgrundlagen aus EU-Recht (etwa Kartellschadensersatz Art. 101 AEUV) sind durch nationales Prozessrecht zu verwirklichen, dürfen aber nicht weniger günstig als rein nationale Ansprüche ausgestaltet sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +28,9 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie sche
 - § 985, 1004 BGB — dingliche Ansprüche
 - Art. 1 ff. Rom-I, Art. 4 ff. Rom-II — IPR-Kollisionsrecht
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, Überbl. vor § 241 Rn. 1-20 (Schuldverhältnis-Typen)
-- MüKo-BGB/Ernst, 9. Aufl. 2022, § 280 Rn. 1-60 (Schadensersatz Grundtatbestand)
-- BeckOK-BGB/Lorenz, § 812 Rn. 1-50 (Bereicherungsrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Sachverhalt scannen:** Welche Parteien, welche Rechtsbeziehung, welches Ziel des Klägers?

@@ -1,6 +1,6 @@
 ---
 name: zeuge-vorbereitung
-description: "Zeuge fuer Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Pruefraster: Zeugnisverweigerungsrecht, Glaubwuerdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverstaendigenbestellung §§ 402 ff. ZPO."
+description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung §§ 402 ff. ZPO."
 ---
 
 # Zeugenvernehmung-Vorbereitung
@@ -12,7 +12,7 @@ Vorbereitung auf eine Zeugenvernehmung im deutschen Zivil- oder Strafverfahren. 
 - **Gegnerischen Zeugen befragen** (Fragenkatalog aus der Mandatstheorie entwickeln)
 - **Strafverteidigung:** Vorbereitung auf Hauptverhandlung (§§ 244 ff. StPO), Pflichtverteidiger-Gespräch
 
-> Die Zeugenvernehmung findet ausschließlich vor dem Gericht statt (§ 396 ZPO, § 238 Abs. 2 StPO). Eine vorgerichtliche anwaltliche Befragung von Zeugen kennt das deutsche Recht nicht. Eine informelle Zeugen-„Vorbefragung" durch den Anwalt ist berufsrechtlich sensibel (§ 1 BORA – Sachlichkeit; vgl. § 26 BRAO) und darf Zeugen nicht beeinflussen.
+> Die Zeugenvernehmung findet ausschließlich vor dem Gericht statt (§ 396 ZPO, § 238 Abs. 2 StPO). Eine vorgerichtliche anwaltliche Befragung von Zeugen kennt das deutsche Recht nicht. Eine informelle Zeugen-"Vorbefragung" durch den Anwalt ist berufsrechtlich sensibel (§ 1 BORA – Sachlichkeit; vgl. § 26 BRAO) und darf Zeugen nicht beeinflussen.
 
 ## Eingaben
 
@@ -60,11 +60,11 @@ Vorbereitung auf eine Zeugenvernehmung im deutschen Zivil- oder Strafverfahren. 
 
 Verbindlich: `../references/zitierweise.md`.
 
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, §§ 373–401 Rn. 1 ff. (Zeugenvernehmung: Ablauf, Zeugnisverweigerungsrecht, Vereidigung).
-- BGH, Urt. v. 28.02.2018 – IV ZR 252/16, NJW 2018, 1382 Rn. 21 (Glaubhaftigkeitsprüfung bei Zeugenbeweis: Gesamtwürdigung, § 286 ZPO).
-- Huber, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 373 Rn. 5 ff. (Beweisantritt durch Zeugenbeweis).
-- Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 52 Rn. 1 ff. (Zeugnisverweigerungsrecht wegen persönlicher Beziehung).
-- BGH, Urt. v. 30.10.2008 – III ZR 307/07, NJW 2009, 227 Rn. 14 (Vereidigung, § 391 ZPO: Ermessen des Gerichts).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -92,12 +92,11 @@ Verbindlich: `../references/zitierweise.md`.
 ## Risiken / typische Fehler
 
 - **Zeugencoaching verboten:** Der Anwalt darf den Zeugen nicht zu einer bestimmten Aussage anleiten; nur Erläuterung des Ablaufs und Erinnerungshilfe auf Basis vorhandener Dokumente zulässig (vgl. § 1 BORA).
-- **Zeugnisverweigerungsrecht übersehen:** Vor der Vernehmung stets §§ 383–385 ZPO, § 52, 55 StPO prüfen; Nichtbelehrung führt zur Unverwertbarkeit (§ 252 StPO; BGH, Urt. v. 27.02.1992 – 4 StR 23/92, BGHSt 38, 302).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Gegnerischer Zeuge – keine Kontaktaufnahme:** Kontaktaufnahme mit gegnerischem Zeugen außerhalb des Verfahrens ist berufsrechtlich problematisch (§ 12 BORA).
 - **Vereidigung:** § 391 ZPO – Gericht entscheidet; falsche Zeugenaussage ist strafbar (§ 153 StGB); Zeuge vor Vernehmung hierüber belehren.
 
 <!-- AUDIT 27.05.2026
-AZ BGH V ZR 224/09 entfernt: Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND);
 einziger Treffer ist XI ZR 224/09 (06.07.2010, XI. Zivilsenat, Bankrecht/Anscheinsbeweis
 Kreditkarte) - falscher Senat, falsches Thema. Behauptetes Thema "Freie Beweiswuerdigung
 bei Zeugenaussagen § 286 ZPO" ist eine Halluzination. Referenz geloescht.

@@ -1,7 +1,7 @@
 {
   "name": "arbeitsrecht",
-  "version": "14.2.0",
-  "description": "Arbeitsrecht mit aktueller BAG-Rechtsprechung 2025/2026: Equal Pay Paarvergleich AGG, kein Verzicht Mindesturlaub BUrlG, Freistellungsklausel unwirksam. Individualkuendigung KSchG-Klage Drei-Wochen-Frist, Aufhebungsvertrag Sperrzeit, Abmahnung, Betriebsratsanhoerung Paragraf 102 BetrVG, TzBfG.",
+  "version": "24.2.0",
+  "description": "Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

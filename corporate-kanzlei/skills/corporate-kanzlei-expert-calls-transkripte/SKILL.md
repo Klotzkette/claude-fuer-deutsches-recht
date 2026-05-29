@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-expert-calls-transkripte
-description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team fuehrt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschaeftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Pruefraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting."
+description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting."
 ---
 
 # Expert Calls und Transkripte
@@ -23,15 +23,11 @@ description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Te
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.03.2016 - VI ZR 245/14, NJW 2016, 3510 — Aufnahme von Gespraechen ohne Einwilligung verletzt Persoenlichkeitsrecht; Expert Calls muessen mit Einwilligung aufgezeichnet werden (§ 201 StGB)
-- EuGH, Urt. v. 23.10.2018 - C-101/17 — Insiderrecht: Information die nicht oeffentlich ist, bleibt Insider auch wenn nur unter Vertraulichkeit weitergegeben; Expert-Call-Teilnehmer darf keine Insiderinfo vermitteln
-- BGH, Urt. v. 14.04.2011 - I ZR 33/10, BGHZ 189, 207 — § 17 UWG: ehemaliger Mitarbeiter darf Geschaeftsgeheimnisse des frueheren Arbeitgebers nicht an Konkurrenten weitergeben; auch im DD-Expert-Call
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Ohly in: Ohly/Sosnitza UWG § 17 Rn. 1 ff. — Geschaeftsgeheimnis; Expert-Call-Grenzen
-- Assmann/Schneider/Muelbert WpHG Art. 14 MAR Rn. 1 ff. — Insider und Expert-Calls
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Expert-Call-Compliance-Protokoll
 
 Vor dem Call:
@@ -97,5 +93,5 @@ INSIDER-COMPLIANCE-CHECK:
 ## Quellen
 
 - Art. 14, 15 MAR; § 17 UWG; § 201 StGB; Art. 6 DSGVO
-- BGH VI ZR 245/14 (Aufnahme-Einwilligung); EuGH C-101/17 (Insider-Expert-Call); BGH I ZR 33/10 (§ 17 UWG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ohly/Sosnitza UWG § 17; Assmann/Schneider/Muelbert WpHG Art. 14 MAR

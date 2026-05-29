@@ -1,6 +1,6 @@
 ---
 name: kueschk-vergleichsverhandlung-checkliste
-description: "Checkliste fuer Kuendigungsschutz-Vergleiche: Beendigungsdatum; Abfindung nach Faustformel; Freistellung und Urlaubsabgeltung; Zeugnisnote und -formulierung; Klageerledigung; Outplacement; Ruecklage-Klausel; alle Punkte die geregelt werden sollten."
+description: "Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum; Abfindung nach Faustformel; Freistellung und Urlaubsabgeltung; Zeugnisnote und -formulierung; Klageerledigung; Outplacement; Rücklage-Klausel; alle Punkte die geregelt werden sollten."
 ---
 
 # Vergleichsverhandlung: Checkliste
@@ -29,17 +29,11 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 27.09.1984 – 2 AZR 62/83, BAGE 47, 26 — Ein gerichtlich protokollierter Vergleich ist ein vollstreckbarer Titel nach § 794 Abs. 1 Nr. 1 ZPO; er ist bindend, sobald beide Parteien zustimmen.
-- BAG, Urt. v. 11.11.2021 – 2 AZR 256/21, NZA 2022, 223 — Eine pauschalierte Erledigungsklausel erfasst alle Ansprüche aus dem Arbeitsverhältnis, also auch offene Lohnforderungen und Urlaubsabgeltung — es sei denn, sie werden ausdrücklich ausgenommen.
-- BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435 — Der Arbeitnehmer hat nach § 109 GewO Anspruch auf ein qualifiziertes Zeugnis mit mindestens der Note befriedigend; höhere Noten müssen im Vergleich konkret vereinbart werden.
-- BAG, Urt. v. 06.09.2006 – 5 AZR 703/05, NZA 2007, 107 — Die Abfindungsvereinbarung nach §§ 9, 10 KSchG ersetzt den Arbeitslosengeldanspruch nicht; das Beendigungsdatum ist für die Berechnung der Anwartschaftszeit entscheidend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 9 KSchG Rn. 20-35 — (Abfindung, gerichtlicher Vergleich, Rechtsfolge)
-- Preis/Hamacher, ArbeitsR-HdB, 20. Aufl. 2023, § 60 Rn. 1 ff. — (Vergleichsschluss, Erledigungsklausel, Widerrufsrecht)
-- MHdB ArbR/Wisskirchen, 5. Aufl. 2021, § 97 Rn. 5 ff. — (Zeugnis im Vergleich, Formulierungsrisiken)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Checkliste: Was muss in den Vergleich?
 
 ### 1. Beendigungsdatum
@@ -70,10 +64,10 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 
 ### 5. Zeugnis
 
-- Welche **Note** wird im Zeugnis erteilt? (Mindest: „zur vollen Zufriedenheit" = befriedigend)
-- BAG: Der Arbeitnehmer hat keinen Anspruch auf eine bestimmte Note über befriedigend (BAG, Urt. v. 18.11.2014 – 9 AZR 584/13) — aber im Vergleich kann eine bestimmte Note vereinbart werden.
+- Welche **Note** wird im Zeugnis erteilt? (Mindest: "zur vollen Zufriedenheit" = befriedigend)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zeugnis **ohne qualifizierte Aussage** über Führung und Leistung ist ein Schlechzeugnis.
-- Formulierung prüfen: Keine geheimen negativen Formulierungen (z.B. „bemühte sich stets" statt „erledigte stets").
+- Formulierung prüfen: Keine geheimen negativen Formulierungen (z.B. "bemühte sich stets" statt "erledigte stets").
 - Ausstellungsdatum: Beendigungsdatum oder anderes Datum?
 - Wer unterschreibt das Zeugnis?
 
@@ -97,7 +91,7 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 ### 9. Geheimhaltungsklausel
 
 - Manche Arbeitgeber verlangen Geheimhaltung über Vergleichsinhalt.
-- Übliche Formulierung: „Die Parteien verpflichten sich, über den Inhalt dieses Vergleichs Stillschweigen zu wahren."
+- Übliche Formulierung: "Die Parteien verpflichten sich, über den Inhalt dieses Vergleichs Stillschweigen zu wahren."
 - Hinweis: Geheimhaltungsklauseln sind in Vergleichen zulässig, schränken aber die freie Kommunikation ein.
 
 ## Muster-Vergleich (Kurzform)
@@ -107,7 +101,7 @@ Die Parteien schließen zur Erledigung des Rechtsstreits folgenden Vergleich:
 1. Das Arbeitsverhältnis der Parteien endet auf Veranlassung der Beklagten mit Ablauf des [DATUM].
 2. Die Beklagte zahlt an den Kläger eine Abfindung nach §§ 9, 10 KSchG in Höhe von [BETRAG] EUR brutto.
 3. Der Kläger ist ab sofort unwiderruflich von der Arbeitspflicht freigestellt; offener Urlaub wird auf die Freistellung angerechnet.
-4. Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote „gut" bis zum [DATUM].
+4. Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote "gut" bis zum [DATUM].
 5. Damit sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung erledigt.
 
 ---

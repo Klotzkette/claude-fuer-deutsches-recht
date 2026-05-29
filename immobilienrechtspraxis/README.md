@@ -16,7 +16,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 
@@ -36,4 +36,4 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Quellen-Disclaimer
 
-Alle Aussagen beruhen auf der im Plugin hinterlegten Rechtsprechung und genannter Kommentarliteratur. Die Skills ersetzen keine eigene anwaltliche, steuerberatende oder berufsbetreuerische Prüfung im Einzelfall.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

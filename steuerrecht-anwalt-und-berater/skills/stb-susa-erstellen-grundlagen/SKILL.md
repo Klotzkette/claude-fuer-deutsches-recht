@@ -1,6 +1,6 @@
 ---
 name: stb-susa-erstellen-grundlagen
-description: "Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Pruefung Verwendung. Output SuSa-Datei als Excel oder PDF mit Sollsalden Habensalden."
+description: "Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Prüfung Verwendung. Output SuSa-Datei als Excel oder PDF mit Sollsalden Habensalden."
 ---
 
 # Summen- und Saldenliste — Erstellung und Grundlagen

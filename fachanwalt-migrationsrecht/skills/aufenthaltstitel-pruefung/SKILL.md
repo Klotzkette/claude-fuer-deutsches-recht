@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-pruefung
-description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Pruefraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identitaet. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Pruef-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag fuer den Antrag selbst."
+description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst."
 ---
 
 # Aufenthaltstitel-Prüfung
@@ -61,10 +61,7 @@ description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Abl
 
 | Aktenzeichen | Gericht/Datum | Inhalt |
 |---|---|---|
-| BVerwG 1 C 32.09 | BVerwG, 16.11.2010 | Lebensunterhaltssicherung: Nettoeinkommen vs. SGB-II-Regelbedarf |
-| BVerwG 1 C 1.10 | BVerwG, 30.03.2010 | A1-Sprachnachweis Ehegattennachzug; Verhältnismäßigkeit |
-| BVerwG 1 C 22.14 | BVerwG, 12.07.2016 | Fiktionswirkung § 81 Abs. 4; Rechtsfolgen |
-| BVerwG 1 C 16.17 | BVerwG, 12.06.2018 | § 25b AufenthG nachhaltige Integration; Voraussetzungen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | BVerwGE 162, 130 | BVerwG, 09.09.2021 | Ausweisungsinteresse; Ermessensabwägung; Bleibeinteressen |
 
 ---
@@ -75,7 +72,7 @@ description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Abl
 |---|---|---|
 | 1 | Aufenthaltszweck identifizieren und Spezialnorm auswählen | §§ 16–26 AufenthG |
 | 2 | Allgemeine Erteilungsvoraussetzungen § 5 AufenthG vollständig prüfen | § 5 Abs. 1, 2 |
-| 3 | Lebensunterhalt quantifizieren: Nettoeinkommen vs. SGB-II-Regelbedarf aller Familienmitglieder | BVerwG 1 C 32.09 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Identität und Pass prüfen | § 3, § 5 Abs. 1 Nr. 1a AufenthG |
 | 5 | Ausweisungsinteresse § 54 prüfen (Strafregister, Ermittlungsverfahren) | §§ 53–55 AufenthG |
 | 6 | Visumserfordernis: richtiges Visum bei Einreise? | § 5 Abs. 2, § 39 AufenthV |
@@ -164,7 +161,7 @@ Begründung:
 Die Behörde hat den Lebensunterhalt als nicht gesichert abgelehnt.
 Diese Einschätzung ist unzutreffend.
 
-Nach BVerwG 1 C 32.09 (16.11.2010) ist die Lebensunterhaltssicherung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 gegeben, wenn das Nettoeinkommen den nach SGB II maßgeblichen Bedarf
 aller Familienmitglieder übersteigt. Maßgeblich sind:
 
@@ -258,10 +255,10 @@ Mit freundlichen Grüßen
 
 | Behörden-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| "Lebensunterhalt nicht gesichert" | BVerwG 1 C 32.09: genaue Bedarfsberechnung; Unterhaltspflichten korrekt einrechnen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Visumserfordernis nicht erfüllt" | § 39 AufenthV-Ausnahmen: Nr. 1 (Familienangehörige Deutscher), Nr. 3 (humanitäre Gründe), Nr. 5 |
 | "Ausweisungsinteresse § 54 vorhanden" | Abwägung § 53 Abs. 1 AufenthG; Bleibeinteressen § 55 qualifiziert prüfen |
-| "Sprachnachweis fehlt" | Ausnahmen § 30 Abs. 1 Satz 3 AufenthG (Integrationskurs möglich, Krankheit, Alter); BVerwG 1 C 1.10 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hochschulabschluss nicht anerkannt" | KMK-Bescheid beantragen; anabin-Datenbank; ENIC-NARIC-Netzwerk |
 | "§ 11 Einreise-/Aufenthaltsverbot" | Befristungsantrag nach § 11 Abs. 4 AufenthG; humanitäre Ausnahme |
 | "§ 25b — Lebensunterhalt nicht eigenständig" | § 25b Abs. 1 Nr. 3 AufenthG: Stufenmodell; Ausnahme bei unverschuldeter Hilfsbedürftigkeit |
@@ -321,7 +318,7 @@ Hinweis: Die frühere Verkürzung auf drei Jahre bei besonderen Integrationsleis
 
 ## Quellen
 
-Stand: 05/2026. AufenthG §§ 3, 5, 6, 7, 9, 9a, 11, 16a, 16b, 18a, 18b, 18d, 19, 21, 23a, 25, 25a, 25b, 27–36, 39, 53–55, 60a, 81, 82. BeschV. AufenthV §§ 39, 45. StAG § 10 (StARModG 27.06.2024). BVerwG 1 C 32.09 (16.11.2010). BVerwG 1 C 1.10 (30.03.2010). BVerwG 1 C 22.14 (12.07.2016). BVerwG 1 C 16.17 (12.06.2018). Bergmann/Dienelt Ausländerrecht. Hailbronner AuslR.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Output-Template: Aufenthaltstitel-Pruefungsmemo
 

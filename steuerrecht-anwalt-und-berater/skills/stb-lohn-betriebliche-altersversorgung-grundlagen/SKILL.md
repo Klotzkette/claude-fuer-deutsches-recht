@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-betriebliche-altersversorgung-grundlagen
-description: "Betriebliche Altersversorgung bAV Grundlagen Durchfuehrungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Foerderung. Output bAV-Beratungs-Notiz."
+description: "Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Foerderung. Output bAV-Beratungs-Notiz."
 ---
 
 # Betriebliche Altersversorgung (bAV) — Grundlagen
@@ -62,25 +62,25 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 
 - Bis 8 Prozent der RV-BBG (West) steuerfrei.
 - Davon bis 4 Prozent BBG zusaetzlich SV-frei.
-- BBG-Werte 2026 verifizieren.
+- BBG-West RV 2025: 96.600 EUR/Jahr; 8 Prozent = 7.728 EUR steuerfrei, 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
 - AN-Vorteil: niedrigeres Brutto in Ansparphase, hoehere Rente.
 
 ### Phase 3 — § 100 EStG Geringverdiener-Foerderung
 
-- AG kann fuer AN mit Bruttolohn unter Schwellenwert (§ 100 Abs. 3 Nr. 3 EStG: 2.575 EUR/Monat seit dem Grundrentengesetz 2020; aktuelle Werte 2026 verifizieren) BAV-Foerderbetrag erhalten.
-- Foerderbetrag: 30 Prozent des AG-Beitrags (max. 288 EUR/Jahr je AN — Stand 2024; aktuelle Grenzen 2026 verifizieren).
+- AG kann fuer AN mit Bruttolohn unter Schwellenwert (§ 100 Abs. 3 Nr. 3 EStG: 2.575 EUR/Monat seit dem Grundrentengesetz 2020; Schwellenwert wird nicht automatisch angepasst, bei Gesetzesaenderung pruefen) BAV-Foerderbetrag erhalten.
+- Foerderbetrag: 30 Prozent des AG-Beitrags (max. 288 EUR/Jahr je AN — Stand 2025, § 100 Abs. 1 EStG; BMF-Schreiben zu § 100 EStG pruefen).
 - AG verrechnet Foerderung mit abzufuehrender LSt in der LSt-Anmeldung.
 
 ### Phase 4 — § 1a BetrAVG 15-Prozent-Zuschuss
 
 - Bei Entgeltumwandlung in Direktversicherung/Pensionskasse/Pensionsfonds: AG-Zuschuss-Pflicht 15 Prozent.
-- Hintergrund: AG spart 15 Prozent SV-Beitraege durch Umwandlung; muss diese Ersparnis weitergeben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung: fuer ab 2019 abgeschlossene Vereinbarungen (Bestand seit 2022).
 
 ### Phase 5 — Auszahlungsphase
 
 - bAV-Renten lohnsteuerpflichtig in voller Hoehe (nachgelagerte Besteuerung).
-- KV/PV-Pflicht in der Auszahlungsphase (Freibetrag fuer Pflichtversicherte Rentner; aktuell 2026 verifizieren).
+- KV/PV-Pflicht in der Auszahlungsphase (Freibetrag fuer Pflichtversicherte Rentner nach § 226 Abs. 2 SGB V; aktueller Freibetrag ueber GKV-Spitzenverband pruefen).
 - Sondersituation pauschal versteuerte Direktversicherung (§ 40b EStG a.F.): Auszahlung ggf. nicht voll steuerpflichtig (Altvertraege bis 2004).
 
 ### Phase 6 — Beratung Mandant
@@ -121,4 +121,6 @@ Stand: 05/2026.
 - SGB IV; SvEV.
 - BMF v. 06.12.2017, v. 18.03.2022.
 - BRSG.
-- Verifikations-Hinweis: BBG, Foerderbetraege, Schwellenwerte 2026 verifizieren.
+- BBG-West RV 2025: 96.600 EUR; § 100 EStG Schwellenwert 2.575 EUR/Monat, Foerderbetrag max. 288 EUR/Jahr (Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 und BMF-Schreiben pruefen).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Werte 2025 eingesetzt), 1 ersetzt (Rentner-Freibetrag Pruefhinweis ohne Marker) -->

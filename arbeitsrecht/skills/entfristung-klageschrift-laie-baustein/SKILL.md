@@ -1,6 +1,6 @@
 ---
 name: entfristung-klageschrift-laie-baustein
-description: "Schritt-fuer-Schritt Klageschrift Entfristungsklage fuer Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begruendungsbausteine fuer Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer."
+description: "Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer."
 ---
 
 # Klageschrift Entfristungsklage — Laien-Baustein
@@ -24,15 +24,11 @@ description: "Schritt-fuer-Schritt Klageschrift Entfristungsklage fuer Laien: Ru
 
 ## Wichtige Rechtsprechung (für Begründung verwendbar)
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Elektronische Unterschrift (DocuSign, E-Mail-Signatur) genügt nicht; § 14 Abs. 4 TzBfG verlangt eigenhändige Unterschrift auf einer Originalurkunde vor Arbeitsaufnahme. Fehlt dies, gilt der Vertrag nach § 16 Satz 1 TzBfG als unbefristet.
-- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Das Schriftformgebot des § 14 Abs. 4 TzBfG ist konstitutiv; beide Parteien müssen dieselbe Urkunde unterschreiben.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot gilt zeitlich unbegrenzt; auch eine viele Jahre zurückliegende frühere Tätigkeit beim selben Arbeitgeber sperrt sachgrundlose Befristung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur (für die Begründung)
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 80 ff. (Schriftformerfordernis)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 17 TzBfG Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für die Befristungskontrollklage (Entfristungsklage) — für Arbeitnehmer ohne Anwalt.

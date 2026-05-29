@@ -1,6 +1,6 @@
 ---
 name: kartellverbot-modus
-description: "Prueft Marktabgrenzung im Kontext des Kartellverbots (Art 101 AEUV und Paragraf 1 GWB): Wettbewerbsbeschraenkung bezweckt oder bewirkt Single-Brand vs Inter-Brand Wettbewerb Spuerbarkeit nach Bagatellbekanntmachung und EuGH Rs C-226/11 Expedia Gruppenfreistellungsverordnungen und Einzelfreistellung."
+description: "Workflow-Skill zu kartellverbot modus. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Kartellverbot — Modus
@@ -23,7 +23,7 @@ Unterhalb bestimmter Marktanteilsschwellen keine spürbare Wettbewerbsbeschränk
 - Horizontale Vereinbarungen: Kombinierter Marktanteil < 10 Prozent.
 - Vertikale Vereinbarungen: Jeder Beteiligte < 15 Prozent.
 
-**CAVE EuGH Rs. C-226/11 — Expedia (2012):** Bezweckte Wettbewerbsbeschränkungen sind niemals de minimis. Die Marktanteilsschwellen der Bagatellbekanntmachung gelten nur für bewirkte Beschränkungen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Horizontale Vereinbarungen
 
@@ -47,16 +47,11 @@ Marktanteilsschwellen 20 Prozent (Wettbewerber) und 30 Prozent (Nicht-Wettbewerb
 
 ## Leitentscheidungen Kartellverbot
 
-- EuGH, Urt. v. 13.12.2012 — C-226/11 (Expedia), NZKart 2013, 106 — Bezweckte Wettbewerbsbeschraenkungen nie de minimis; Bagatellbekanntmachung gilt nicht fuer Kernbeschraenkungen.
-- EuGH, Urt. v. 26.11.2015 — C-345/14 (SIA Maxima Latvija), NZKart 2016, 85 — Bezweckte vs bewirkte Beschraenkung Art. 101 Abs. 1 AEUV; Auslegung nach wirtschaftlichem und rechtlichem Kontext.
-- BGH, Urt. v. 26.06.2018 — KZR 47/16, WuW 2018, 460 — § 1 GWB Kartellverbot; Informationsaustausch zwischen Wettbewerbern; Beweis abgestimmten Verhaltens.
-- EuGH, Urt. v. 23.11.2006 — C-238/05 (Asnef-Equifax), Slg. 2006, I-11125 — Informationsaustausch Kreditauskunfteien; horizontale Vereinbarung; Marktanteilsschwellen Spuerbarkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 1 Rn. 1-80 (Kartellverbot, horizontale und vertikale Vereinbarungen)
-- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 101 AEUV Rn. 1-100 (systematischer Kommentar)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfprotokoll Kartellverbot
 
 ```

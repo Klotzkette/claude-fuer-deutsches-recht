@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-soll-ist-vergleich
-description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext fuer Mandant Querverweis stb-bwa-mandantenreport-monatlich."
+description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-mandantenreport-monatlich."
 ---
 
 # Soll-Ist-Vergleich in der BWA
@@ -111,7 +111,9 @@ Stand: 05/2026.
 
 - HGB §§ 252, 265.
 - StaRUG § 1.
-- InsO § 19 (Prognosezeitraum; SanInsKG-Sonderregelung mit aktueller Geltungsdauer in juris verifizieren).
+- InsO § 19 (Prognosezeitraum 12 Monate; die SanInsKG-Sonderregelung mit verkuerztem 4-Monats-Zeitraum galt befristet vom 09.11.2022 bis 31.12.2023 und ist ausgelaufen; es gilt wieder der gesetzliche Standard-Prognosezeitraum von 12 Monaten).
 - IDW S 6, IDW S 11, IDW PS 305.
 - DATEV Kanzlei-Rechnungswesen Plan-Modul.
 - Addison Budget-Modul.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SanInsKG-Sonderregelung ausgelaufen 31.12.2023, Standardzeitraum 12 Monate bestaetigt) -->

@@ -1,13 +1,13 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: "Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Anwendungsfall Steuerberater erkennt Krisensignale und muss Hinweispflicht nach § 102 StaRUG und BGH-Rechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 erfuellen um eigene Haftung zu vermeiden. Bezug Antragspflicht § 15a InsO drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung. Empfehlung anwaltlicher Beratung keine eigene Rechtsberatung § 5 RDG. Output Warnschreiben mit Belehrung und Eingangsbestaetigung. Abgrenzung zu anw-haftungswarn-15a-inso-mandant anwaltliche Folgeberatung."
+description: "Workflow-Skill zu stb warnschreiben krisensignale. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
 
 ## Kernsachverhalt
 
-Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Krisensignale aus BWA, SuSa, Bilanz und Liquiditätsvorschau erkennt. Die ständige BGH-Rechtsprechung (IX ZR 285/14, IX ZR 104/18) verpflichtet ihn, ausdrücklich und schriftlich zu warnen. § 102 StaRUG hat diese Pflicht seit 1.1.2021 gesetzlich verankert. Wer warnt, schützt seine Berufshaftpflicht. Wer schweigt, haftet für Verschleppungsschäden.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -41,13 +41,9 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH IX ZR 285/14 | NJW 2017, 1611 | 26.01.2017 | StB haftet für Insolvenzverschleppungsschäden bei unterlassenem Hinweis auf Krisensignale aus Buchhaltung |
-| BGH IX ZR 64/12 | WM 2013, 802 | 07.03.2013 | Bei allgemeinem steuerrechtlichen Mandat ohne gesonderten Prüfauftrag keine generelle Pflicht zur Insolvenzreife-Prüfung; Hinweispflicht nur bei offenkundigen Anhaltspunkten |
-| BGH IX ZR 104/18 | NJW 2019, 2770 | 06.06.2019 | Substantiierungslast StB bei späterer Streitlage; Dokumentation der Hinweiserteilung erforderlich |
-| BGH IX ZR 153/09 | NJW 2011, 218 | 14.10.2010 | StB muss auf Schäden aus GF-Haftung hinweisen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Warnschreiben-Erstellung
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -65,7 +61,7 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 | 10 | Mandatskündigung prüfen | Bei Verweigerung jeglicher Reaktion; § 627 BGB | Ultima ratio |
 | 11 | Krisenfrüherkennungssystem | Hinweis auf § 102 StaRUG-Pflicht des GF selbst; Aufforderung zur Einrichtung | Compliance |
 | 12 | Anschluss anwaltliche Prüfung | Übergabe an Steueranwalt für § 15a InsO-Gutachten | Koordination |
-| 13 | Reaktion dokumentieren | Eingangsbestätigung, Gesprächsnotiz, Wiedervorlage | BGH IX ZR 104/18 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 14 | Wiederholung bei Ausbleiben | Erinnerungsschreiben nach 14 Tagen | Eskalationsstufe |
 | 15 | Abschluss Mandatskündigung | Bei manifester Aussichtslosigkeit und weiterer Verschleppung | § 627 BGB |
 
@@ -94,10 +90,7 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 
 | Gegenargument des GF / Haftungsklägers | Erwiderung |
 |---|---|
-| "Krisensignal war nicht offenkundig" | BGH IX ZR 285/14: offenkundige Anhaltspunkte für Insolvenzreife lösen Hinweispflicht aus; SV-Rückstände, negatives EK als Standardsignale |
-| "Mündlicher Hinweis wurde erteilt" | BGH IX ZR 285/14: ausdrückliche Warnung erforderlich; Mündliches ist nicht beweisbar; Schriftform Pflicht |
-| "StB ist für Buchhaltung, nicht für Insolvenzrecht zuständig" | BGH IX ZR 285/14: aus der Buchhaltungsbetreuung folgt Hinweispflicht strukturell; unabhängig vom Vertragsgegenstand |
-| "Mandant wusste von der Krise selbst" | BGH IX ZR 104/18: eigenständige StB-Pflicht; Eigenkenntnis des Mandanten befreit StB nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hinweis erfolgte zu spät — schon InsO-reif" | Dokumentation wann Erkenntnis eingetreten ist; Warnschreiben-Datum gegen Indizienbeweis stellen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -112,7 +105,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mandant will kein Warnschreiben Dokumentation intern | Internes Vermerk statt ausgehendem Schreiben; Haftungsschutz trotzdem |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -131,7 +123,7 @@ Vorab per Telefax [Fax-Nr.], dann per Einschreiben mit Rückschein
 
 Unsere Mandats-Nr.: [Nr.]
 Betreff: Hinweis auf erkennbare Krisensituation Ihrer Gesellschaft
-         — § 102 StaRUG, BGH IX ZR 285/14
+         Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Sehr geehrte/r Herr / Frau [GF-Name],
 
@@ -170,7 +162,7 @@ Entwicklungen zu überwachen. Wir empfehlen, dieses Schreiben
 unmittelbar in Ihre interne Dokumentation aufzunehmen.
 
 Wir leisten mit diesem Schreiben den nach ständiger BGH-Rechtsprechung
-obliegenden ausdrücklichen Hinweis (BGH IX ZR 285/14, IX ZR 104/18).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Eine Beurteilung der Insolvenzantragspflicht
 steht uns als Steuerberater nach § 5 RDG nicht zu.
 
@@ -274,12 +266,11 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Position | Berechnung | Hinweis |
 |---|---|---|
-| StB-Haftung ungeteilte Verschleppung | Differenz Insolvenzmasse mit/ohne Verschleppung; kann EUR 100.000–500.000+ betragen | BGH IX ZR 285/14 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Anwaltliche Begleitung StB-Haftungsverteidigung | Stundensatz; ggf. gesonderte Vergütungsvereinbarung | RVG bei Schadensstreit |
 | Kosten Warnschreiben-Erstellung | 1–2 Stunden StB-Zeit; Zeithonorar | Eigenleistung zur Haftungsvermeidung |
 | Folgekosten Mandatskündigung | Regelungs-/Beratungsgebühren; Akteneinsicht durch neuen Berater | Keine Gebühr für Kündigung selbst |
@@ -305,15 +296,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - InsO §§ 15a, 15b, 17, 19
 - StaRUG §§ 1, 102
 - StBerG §§ 1, 33; RDG § 5; BGB § 627
-- BGH IX ZR 285/14 = NJW 2017, 1611
-- BGH IX ZR 64/12 = WM 2013, 802
-- BGH IX ZR 104/18 = NJW 2019, 2770
-- BGH IX ZR 153/09 = NJW 2011, 218
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Krisenstadien-Schema)
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
-- BeckOK StaRUG/Skauradszun, § 102 Rn. 10–22
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 64/12 (WRONG_TOPIC): Leitsatz korrigiert — Urteil steht für fehlende generelle Insolvenzprüfpflicht bei allgemeinem Mandat (WM 2013, 802), nicht für Hinweispflicht bei drohender Insolvenzreife. Tabellenzeile und Fundstelle angepasst; irreführende Formulierung in Kernsachverhalt, Gegenargumenten, Schriftsatzbaustein und Quellenverzeichnis korrigiert.
-BGH IX ZR 70/07 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht; alle Vorkommen entfernt (description, Kernsachverhalt, Leitentscheidungstabelle, Quellenverzeichnis, Gegenargumente, Schriftsatzbaustein).
 -->
+<!-- AUDIT 27.05.2026 | welle 5c | IX ZR 104/18 (familienrechtlich, NJW 2019, 2770 erfunden) ersetzt durch IX ZR 56/22 (BGH 29.06.2023, NJW 2023, 2775 = ZIP 2023, 1740, Drittschutz Hinweis- und Warnpflicht bei moeglichem Insolvenzgrund) -->

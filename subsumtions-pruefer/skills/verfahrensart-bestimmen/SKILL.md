@@ -15,10 +15,7 @@ description: "Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig
 
 ## Aktuelle Rechtsprechung zur Verfahrensauswahl
 
-- BGH, Beschl. v. 26.11.2020 - I ZB 97/19, NJW 2021, 610 — Eine Schiedsklausel schließt die staatliche Gerichtsbarkeit aus (§ 1032 ZPO); die Unzuständigkeitseinrede muss vor dem staatlichen Gericht spätestens mit der ersten Verfahrenshandlung erhoben werden, andernfalls Zuständigkeit des staatlichen Gerichts durch rügelose Einlassung.
-- BGH, Beschl. v. 14.01.2021 - I ZB 4/20, NJW 2021, 765 — Verfügungsgrund für einstweilige Verfügung (§ 935 ZPO) setzt Dringlichkeit voraus; bei Zeitablauf seit Kenntnis von der Verletzung von mehr als 1 Monat wird Dringlichkeit regelmäßig verneint (Selbstwiderlegung der Dringlichkeit).
-- BGH, Urt. v. 18.07.2019 - III ZR 198/18, NJW 2019, 3638 — Die Wahl zwischen ordentlichem Klageverfahren und Mahnverfahren liegt im Ermessen des Gläubigers; das Mahnverfahren setzt voraus, dass die Forderung nicht von einer Gegenleistung abhängt und der Schuldner im Inland oder EU-Ausland (EU-Mahnverfahren VO 1896/2006) wohnt.
-- BVerfG, Beschl. v. 23.06.2020 - 2 BvR 2441/19, NJW 2020, 2394 — Im Strafrecht besteht kein individuelles Klageerzwingungsrecht für Privatpersonen (§ 172 StPO); Staatsanwaltschaft hat Anklagemonopol; das Klageerzwingungsverfahren setzt erschöpften Beschwerdeweg und ausreichende Begründung voraus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Verfahrensnormen
 
@@ -43,7 +40,7 @@ description: "Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig
 
 **Wann:** Eilbedürftigkeit (Verfügungsgrund) und Glaubhaftmachung des Anspruchs (Verfügungsanspruch). §§ 935/940 ZPO.
 
-**Dringlichkeit:** BGH verneint Dringlichkeit bei mehr als 1 Monat Zeitablauf seit Kenntnis (BGH NJW 2021, 765).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Entscheidungsbaum einstweiliger Rechtsschutz:**
 ```
@@ -77,13 +74,6 @@ Eilbedürftigkeit?
 
 **Vorverfahren:** Widerspruch (§ 68 VwGO) zwingend vor Klage (Ausnahmen: § 68 Abs. 1 S. 2 VwGO, Brandenburg, Niedersachsen).
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller ZPO §§ 935/940 (einstweilige Verfügung) — Standardkommentar
-- Thomas/Putzo ZPO §§ 688 ff. (Mahnverfahren) — praxisnah
-- Lachmann Handbuch für die Schiedsgerichtspraxis (DIS-Schiedsregeln)
-- Schwab/Walter Schiedsgerichtsbarkeit (§§ 1025 ff. ZPO)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

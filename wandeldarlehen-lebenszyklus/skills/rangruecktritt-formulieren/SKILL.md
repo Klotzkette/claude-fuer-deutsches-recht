@@ -1,6 +1,6 @@
 ---
 name: rangruecktritt-formulieren
-description: "Rangruecktrittserklaerung fuer Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangruecktritt. Pruefraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangruecktrittserklaerung Pruefmemo. Abgrenzung: nicht fuer allgemeine Darlehenskonditionen (darlehenshoehe-konditionen)."
+description: "Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen)."
 ---
 
 # Qualifizierten Rangrücktritt formulieren
@@ -30,9 +30,7 @@ Dieser Skill formuliert den qualifizierten Rangrücktritt für § 6 des Wandelda
 - § 328 BGB (Vertrag zugunsten Dritter – Aufhebungsverbot)
 
 ### Rechtsprechung
-- BGH, Urt. v. 5. März 2015 – IX ZR 133/14 (Qualifizierter Rangrücktritt mit vorinsolvenzlicher Durchsetzungssperre; maßgeblich für § 19 Abs. 2 Satz 2 InsO)
-- BGH, Urt. v. 21. Februar 2013 – IX ZR 32/12 (Reichweite des Rangrücktritts – Zinsen einbeziehen)
-- BGH, Urt. v. 20. Oktober 2011 – IX ZR 10/11 (Qualifizierter Rangrücktritt: Form und Auslegung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -40,7 +38,7 @@ Dieser Skill formuliert den qualifizierten Rangrücktritt für § 6 des Wandelda
 Der Darlehensgeber tritt mit allen Nachrangforderungen (Rückzahlung, Zinsen, Schadensersatz) gemäß § 39 Abs. 2 InsO hinter alle Forderungen i.S.d. §§ 38 und 39 Abs. 1 Nr. 1 bis 5 InsO zurück. In einem Insolvenzverfahren: Befriedigungsrang § 39 Abs. 2 InsO.
 
 ### 2. Vorinsolvenzliche Durchsetzungssperre
-Außerhalb Insolvenzverfahren: Befriedigung nur aus künftigen Jahresüberschüssen, Liquidationsüberschuss oder sonstigem freien Vermögen, soweit nicht Zahlungsunfähigkeit (§ 17 InsO) oder Überschuldung (§ 19 InsO) verursacht, vertieft oder droht (BGH IX ZR 133/14, Rn. 15 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. Klarstellungsklausel (BGH-Konformität)
 Ausdrückliche Klarstellung, dass es sich um einen qualifizierten Rangrücktritt i.S.d. BGH-Rechtsprechung handelt, geeignet zur Beseitigung der Überschuldung gemäß § 19 Abs. 2 Satz 2 InsO.
@@ -49,7 +47,7 @@ Ausdrückliche Klarstellung, dass es sich um einen qualifizierten Rangrücktritt
 Rangrücktritt als echter Vertrag zugunsten Dritter (§ 328 BGB) zugunsten aller Gläubiger i.S.d. §§ 38 / 39 Abs. 1 InsO. Aufhebung nur mit vorheriger schriftlicher Zustimmung der Gesellschaft und nur soweit keine Insolvenzreife entsteht.
 
 ### 5. § 15b InsO-Schutzklausel
-Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern. Hintergrund: § 15b InsO wurde durch das SanInsFoG (Inkrafttreten 1.1.2021) eingefügt und löste § 64 GmbHG a.F. (Massesicherungspflicht) ab; die GF-Haftung für „verbotswidrige Zahlungen nach Insolvenzreife" knüpft seit der Reform allein an die InsO an. Klausel daher zwingend, sonst GF-persönliches Risiko.
+Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern. Hintergrund: § 15b InsO wurde durch das SanInsFoG (Inkrafttreten 1.1.2021) eingefügt und löste § 64 GmbHG a.F. (Massesicherungspflicht) ab; die GF-Haftung für "verbotswidrige Zahlungen nach Insolvenzreife" knüpft seit der Reform allein an die InsO an. Klausel daher zwingend, sonst GF-persönliches Risiko.
 
 ### 6. GIRA-Bestätigungstext vorbereiten
 Für den Wirtschaftsprüfer: kurze Bestätigungserklärung, dass qualifizierter Rangrücktritt vorliegt und Nachrangforderungen im Überschuldungsstatus nicht zu berücksichtigen sind (§ 19 Abs. 2 Satz 2 InsO; IDW S 11 Rn. 23 ff.).
@@ -63,7 +61,7 @@ aus einem Liquidationsüberschuss oder aus sonstigem freien Vermögen der Gesell
 das die sonstigen Verbindlichkeiten der Gesellschaft übersteigt, und dies auch nur insoweit
 und solange, als die teilweise oder vollständige Erfüllung weder eine Zahlungsunfähigkeit im
 Sinne des § 17 InsO noch eine Überschuldung im Sinne des § 19 InsO verursacht, vertieft oder
-zu verursachen droht (vgl. BGH, Urt. v. 5. März 2015 – IX ZR 133/14).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ## Risiken und Red Flags
@@ -83,6 +81,4 @@ zu verursachen droht (vgl. BGH, Urt. v. 5. März 2015 – IX ZR 133/14).
 
 ## Quellen und Updates
 
-Stand: 05/2026. BGH IX ZR 133/14 als Leitentscheidung. Stand SanInsFoG (1.1.2021, § 15b InsO statt § 64 GmbHG a.F.) und SanInsKG-Modifikationen am Überschuldungsprognosezeitraum berücksichtigt. Bei Änderung InsO/IDW S 11 aktualisieren.
-
-<!-- AUDIT 27.05.2026: BGH IX ZR 191/15 entfernt — Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND); kein Beleg für Existenz als Leitentscheidung zur Insolvenzanfechtung. Streichung aus "Quellen und Updates". BGH IX ZR 133/14 bleibt als verifizierte Leitentscheidung. -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

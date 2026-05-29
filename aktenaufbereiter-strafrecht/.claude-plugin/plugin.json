@@ -1,7 +1,7 @@
 {
   "name": "aktenaufbereiter-strafrecht",
-  "version": "14.2.0",
-  "description": "Aktenaufbereiter fuer die Strafverteidigung. Sechs Excel-faehige Uebersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz fuer Aktenlektuere.",
+  "version": "24.2.0",
+  "description": "Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

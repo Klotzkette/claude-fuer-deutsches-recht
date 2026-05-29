@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-vk-aufklaerung-vergleich
-description: "VK-Aufklaerungsverfahren und Vergleich im Vergabenachpruefungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmoeglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Pruefraster: Aufklaerungsverlangen VK, Vergleichsbereitschaft Auftraggeber, OLG-Risiko bei Beschwerde, Vergleichs-Konditionen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Nachpruefungsantrag initial siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; OLG-Beschwerde siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk."
+description: "VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Prüfraster: Aufklärungsverlangen VK, Vergleichsbereitschaft Auftraggeber, OLG-Risiko bei Beschwerde, Vergleichs-Konditionen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Nachprüfungsantrag initial siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; OLG-Beschwerde siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk."
 ---
 
 # VK-Vergleich / OLG-Vergabesenat-Verhandlung

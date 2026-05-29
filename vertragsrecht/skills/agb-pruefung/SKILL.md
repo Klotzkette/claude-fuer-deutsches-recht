@@ -43,33 +43,23 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.05.2014 – VIII ZR 114/13, NJW 2014, 2708 Rn. 19 ff.: Zur Einbeziehung
-  von AGB im Onlinehandel; der bloße Verweis auf „unsere AGB" genügt, wenn die Klauseln vor
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
   Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
   tatsächlich liest.
-- BGH, Urt. v. 18.07.2012 – VIII ZR 337/11, NJW 2013, 291 Rn. 22 f.: Transparenzgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
   die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
-- BGH, Urt. v. 09.12.2020 – XII ZR 10/19, NJW 2021, 1307 Rn. 31 ff.: Inhaltskontrolle von
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
   Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
-- BGH, Urt. v. 05.10.2005 – VIII ZR 16/05, NJW 2006, 47 Rn. 9: Unklarheitenregel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
   maßgeblich.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 1 ff. (Grundstruktur der Inhaltskontrolle;
-  zweistufige Prüfung: Feststellung der unangemessenen Benachteiligung, dann Abwägung mit
-  Interessen des Verwenders; Rn. 56 ff. zu § 307 Abs. 2 Nr. 1 BGB).
-- Becker, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 307 Rn. 22 ff. (Transparenzgebot:
-  Klauseln müssen klar, verständlich und ohne Einschränkungen für den Vertragspartner
-  nachvollziehbar sein; Rn. 25 zu mehrstufigen Preisgefügen).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 1 ff. (Überblick zur
-  Inhaltskontrolle; Verhältnis zu §§ 308, 309 BGB; Anwendung im B2B nach § 310 Abs. 1 BGB).
-- Basedow, in: MüKoBGB, 9. Aufl. 2022, § 305 Rn. 14 ff. (Einbeziehungsvoraussetzungen; Verweis
-  auf die Klauseln muss deutlich und zumutbar sein; Kenntnisnahmemöglichkeit ausreichend).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Qualifikation als AGB** (§ 305 Abs. 1 BGB): Sind die Klauseln vorformuliert für eine
@@ -104,7 +94,7 @@ Das Modell benötigt:
 
 ## Beispiel
 
-**Sachverhalt**: Eine Online-Plattform (B2C) verwendet folgende Klausel: „Änderungen an den
+**Sachverhalt**: Eine Online-Plattform (B2C) verwendet folgende Klausel: "Änderungen an den
 AGB werden dem Kunden per E-Mail mitgeteilt. Widerspricht der Kunde nicht binnen 6 Wochen,
 gilt seine Zustimmung als erteilt."
 
@@ -116,7 +106,7 @@ Schweigens hinweisen. Ob ein ausreichender Hinweis in der E-Mail liegt, ist im E
 prüfen. Fehlt er, ist die Klausel nach § 308 Nr. 5 BGB unwirksam.
 
 *Zusätzlich § 307 Abs. 1 S. 2 BGB (Transparenzgebot)*: Die Frist von 6 Wochen ist nach
-Maßgabe des BGH (Urt. v. 18.07.2012 – VIII ZR 337/11, NJW 2013, 291 Rn. 22) unklar, wenn der
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 
 **Ergebnis**: Klausel ist unwirksam. Empfohlen: Opt-in-Lösung mit aktiver Bestätigung.
@@ -130,7 +120,7 @@ Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 - **Unterschätzung des B2B-Risikos**: Auch B2B-AGB unterliegen § 307 BGB; übermäßige
   Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
 - **Transparenzgebot** § 307 Abs. 1 S. 2 BGB: Preis­nachberechnungsklauseln ohne
-  Berechnungsformel unwirksam (BGH, Urt. v. 14.05.2014 – VIII ZR 114/13, NJW 2014, 2708 Rn. 19).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geltungserhaltende Reduktion**: Im deutschen AGB-Recht grundsätzlich nicht zulässig
   (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
   ersetzt.
@@ -142,5 +132,5 @@ Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 Jede AGB-Bewertung ist nach `references/zitierweise.md` zu belegen. Für jede als unwirksam
 eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende Kommentarmeinung
 zu zitieren (Bearbeiter, Werk, Aufl., §, Rn.). Bei abweichender Instanzrechtsprechung ist auf
-den Streitstand hinzuweisen. „Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
+den Streitstand hinzuweisen. "Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
 Ergebnis.

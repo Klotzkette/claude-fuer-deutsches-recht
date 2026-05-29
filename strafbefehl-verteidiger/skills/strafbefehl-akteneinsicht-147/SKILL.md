@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-akteneinsicht-147
-description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgruende § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bussgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO."
+description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO."
 ---
 
 # Akteneinsicht im Strafbefehlsverfahren — § 147 StPO
@@ -25,18 +25,11 @@ description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag be
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 11.04.2019 - StB 5/19, NJW 2019, 2178 — Akteneinsicht nach § 147 Abs. 1 StPO umfasst alle Aktenbestandteile die dem Gericht vorliegen oder vorzulegen sind; eine selektive Zurverfuegungstellung verletzt das Recht auf ein faires Verfahren.
-- BVerfG, Beschl. v. 11.07.1994 - 2 BvR 777/94, NStZ 1994, 551 — Bei Untersuchungshaft sind die fuer die Haftbeurteilung wesentlichen Aktenbestandteile zwingend zugaenglich zu machen; Art. 5 Abs. 4 EMRK.
-- OLG Koeln, Beschl. v. 16.09.2020 - 2 RVs 97/20, NZV 2021, 42 — Im OWi-Verfahren hat der Betroffene Anspruch auf Einsicht in die vollstaendige Messakte einschliesslich Rohmessdaten; Versagung verletzt rechtliches Gehoer nach Art. 103 Abs. 1 GG.
-- BVerfG, Beschl. v. 12.11.2020 - 2 BvR 1616/18, NJW 2021, 455 — Recht auf Akteneinsicht als Ausfluss des Grundsatzes des fairen Verfahrens (Art. 2 Abs. 1 GG i.V.m. Art. 20 Abs. 3 GG); Versagung ohne hinreichenden Grund verletzt dieses Recht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 147 Rn. 1-40 (vollstaendige Kommentierung)
-- LR-StPO / Luederssen/Jahn § 147 (historische Herleitung und Praxis)
-- Goehler OWiG § 49 Rn. 1-15 (Akteneinsicht im OWi-Verfahren)
-- KK-OWiG / Ellbogen § 49 (Entsprechende Geltung strafprozessualer Normen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Vollmacht sichern** — ohne Vollmacht kein Anspruch.

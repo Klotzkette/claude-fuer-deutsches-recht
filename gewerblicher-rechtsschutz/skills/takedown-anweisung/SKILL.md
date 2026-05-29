@@ -1,6 +1,6 @@
 ---
 name: takedown-anweisung
-description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Pruefraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage."
+description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage."
 ---
 
 # Notice-and-Take-Down / Meldeverfahren
@@ -23,7 +23,7 @@ Befehlsargument:
 - `--senden` + Kontext oder Pfad zur Meldungsunterlage
 - `--reagieren` + Pfad zur oder eingefügte eingegangene Meldung
 - `--gegenvorstellung` + Kontext
-- (kein Argument) → fragen: „Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?"
+- (kein Argument) → fragen: "Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?"
 
 ## Rechtlicher Rahmen
 
@@ -45,18 +45,13 @@ Befehlsargument:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 11.03.2004 – I ZR 304/01, BGHZ 158, 236 Rn. 42 (Internet-Versteigerung I) — Grundlegend: Störerhaftung des Online-Marktplatzes; zumutbare Prüfungspflichten; Haftung erst nach Hinweis auf konkrete Rechtsverletzung
-- BGH, Urt. v. 30.04.2020 – I ZR 115/16, GRUR 2020, 738 Rn. 55 (YouTube / Uploaded) — Haftung von Hostprovider für Urheberrechtsverletzungen; Reaktionspflicht nach qualifiziertem Hinweis; kein generelles Overblocking
-- BGH, Urt. v. 12.07.2012 – I ZR 18/11, GRUR 2013, 370 Rn. 28 (Alone in the Dark) — Take-Down bei Filesharing; Zumutbarkeit der Prüfungspflicht
-- BGH, Urt. v. 22.07.2010 – I ZR 139/08, GRUR 2011, 152 (Kinderhochstühle im Internet I) — Störerhaftung des Betreibers eines Online-Marktplatzes für Markenrechtsverletzungen durch Händler; Prüfpflichten nach Hinweis auf konkrete Rechtsverletzung; kein allgemeines Überwachungsgebot
-- EuGH, Urt. v. 22.06.2021 – C-682/18, C-683/18, GRUR 2021, 1054 (YouTube/Cyando) — Kommunikation an die Öffentlichkeit; Kenntnis und Kontrolle als Haftungsvoraussetzung für Plattformen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 2.1 (Unterlassungsanspruch; Störerhaftung)
 - Leistner/Ohst, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 1 (Unterlassung und Schadensersatz)
-- Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2023, § 10 TMG Rn. 1 (Hostprovider-Haftung, Notice-and-Take-Down — TMG durch DDG zum 14.5.2024 abgeloest, nun §§ 7-10 DDG; BeckOK InfoMedienR zur DDG-Nachfolge)
-- Martini, in: BeckOK InfoMedienR, 44. Ed. (Stand 01.05.2025), Art. 16 DSA Rn. 1 (Meldeverfahren nach Digital Services Act)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -300,7 +295,7 @@ Bei DSA-Plattformen: Beschwerdemechanismus nach Art. 20 DSA nutzen; ggf. außerg
 - `--reagieren`: Triagierungsvermerk mit Arbeitsergebnis-Kopfzeile; privilegiert und vertraulich.
 - `--gegenvorstellung`: Gegenvorstellungsentwurf (Klartext). Im Chat zur Überprüfung zeigen.
 
-Abschlusssatz (in-Chat-Vorschau): *„Dies ist ein Entwurf zur anwaltlichen Prüfung, kein versandfertiges Schreiben. Ein Rechtsanwalt prüft, bearbeitet und übernimmt fachliche Verantwortung vor dem Versand."*
+Abschlusssatz (in-Chat-Vorschau): *"Dies ist ein Entwurf zur anwaltlichen Prüfung, kein versandfertiges Schreiben. Ein Rechtsanwalt prüft, bearbeitet und übernimmt fachliche Verantwortung vor dem Versand."*
 
 ## Beispiel
 
@@ -314,7 +309,7 @@ Abschlusssatz (in-Chat-Vorschau): *„Dies ist ein Entwurf zur anwaltlichen Prü
 > Sehr geehrte Damen und Herren,
 >
 > ich bin Rechtsinhaber / bevollmächtigte Vertreterin für folgendes urheberrechtlich geschütztes Werk:
-> Fotografie „[Bildtitel]", aufgenommen am [Datum], Urheber [Name] (§ 7 UrhG).
+> Fotografie "[Bildtitel]", aufgenommen am [Datum], Urheber [Name] (§ 7 UrhG).
 >
 > Dieses Werk wird auf Ihrer Plattform ohne Genehmigung genutzt unter:
 > [URL]
@@ -338,7 +333,7 @@ Abschlusssatz (in-Chat-Vorschau): *„Dies ist ein Entwurf zur anwaltlichen Prü
 Alle Aussagen zu Haftung, Schranken und Verfahren müssen belegbar sein:
 
 - **Gesetze:** §§ 7, 10 DDG (entspr. TMG); §§ 51, 51a, 97 UrhG; Art. 16, 17, 20, 21 DSA; §§ 1–3 NetzDG
-- **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Hostprovider-Haftung oder Störerhaftung (BGH BGHZ 158, 236 oder BGH GRUR 2020, 738)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Kommentar:** Spindler/Schuster eMedienR oder Köhler/Bornkamm/Feddersen UWG mit § und Randnummer
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
 
@@ -352,12 +347,12 @@ Bevor der Takedown ausgeloest wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 25.10.2011 — VI ZR 93/10 (Blog-Haftung):** Ein Host-Provider ist als Stoerer fuer rechtswidrige Inhalte haftbar, wenn er nach Erhalt einer qualifizierten Beschwerde nicht unverzueglich handelt; die Anforderungen an die Beschwerde sind niedrig — eine klare Beschreibung des Inhalts und Angabe des Rechteinhabers genuegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 12.07.2018 — I ZR 65/17 (YouTube - Vorschaubilder II):** Plattformbetreiber, die durch automatische Indexierung Inhalte ohne aktive Beteiligung des Urhebers oeffentlich zugaenglich machen, koennen bei ausreichender Passivitaet als Host-Provider eingestuft werden; jedoch genuegt eine einmalige Notice und fehlende Stay-Down-Massnahmen fuer Haftung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DSA (EU) 2022/2065, Art. 16/17 (Digital Services Act):** Hosting-Dienstleister muessen wirksame und zugaengliche Melde- und Abhilfemechanismen einrichten; bei VLOP gelten verstaerkte Transparenz- und Reaktionspflichten; Verstoss kann zu Bussgeldern bis 6 % des globalen Jahresumsatzes fuehren.
 
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- BGH I ZR 139/08: Fallname korrigiert von 'Rolex/Stiftung Warentest' zu 'Kinderhochstuehle im Internet I'; Sachverhalt korrigiert: Haeftung Online-Marktplatz fuer Markenrechtsverletzungen durch Haendler.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

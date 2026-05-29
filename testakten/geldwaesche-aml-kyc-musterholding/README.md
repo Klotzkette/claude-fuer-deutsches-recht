@@ -1,5 +1,14 @@
 # Testakte Geldwäscheprävention, AML und KYC: Musterholding GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-geldwaesche-aml-kyc-musterholding` (diese Akte) | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für ein mittelständisches Konglomerat mit internationalem Vertrieb, das als Verpflichteter nach dem Geldwäschegesetz (GwG) eingestuft ist. Die Akte zeigt den vollständigen Compliance-Zyklus: Risikoanalyse, KYC-Prüfung, UBO-Ermittlung, PEP/Sanktionsscreening, Transaktionsmonitoring, Verdachtsmeldung an die FIU, Behördenkommunikation, Mitarbeiterschulung, internes Audit und Krisenkommunikation.
 
 ---

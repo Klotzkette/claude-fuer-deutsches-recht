@@ -19,7 +19,7 @@ ECP hat in seiner Binding Offer signalisiert, einen Locked-Box-Mechanismus zu be
 
 - **Stichtag:** 31. Dezember 2023 (vorbehaltlich Vorlage JA 2023)
 - **Locked-Box-Date:** Kaufpreis basiert auf dem Eigenkapital zum 31. Dezember 2023 (Enterprise Value EUR 180 Mio. abzüglich Nettoverschuldung per 31. Dezember 2023)
-- **Leakage-Schutz:** Seller verpflichtet sich, keine „Leakage" (Werttransfers aus der Gesellschaft an Seller oder verbundene Parteien) zwischen dem Locked-Box-Date und dem Closing zu veranlassen.
+- **Leakage-Schutz:** Seller verpflichtet sich, keine "Leakage" (Werttransfers aus der Gesellschaft an Seller oder verbundene Parteien) zwischen dem Locked-Box-Date und dem Closing zu veranlassen.
 - **Permitted Leakage:** Vereinbarte, abschließend definierte Ausnahmen (z. B. laufende Geschäftsführer-Vergütung, Dividenden wenn ausdrücklich zugestimmt).
 - **Praxis:** Seller stellt eine Locked-Box-Guarantee aus; bei Verletzung Schadensersatz EUR-für-EUR.
 
@@ -38,7 +38,7 @@ Sollte Locked Box nicht vereinbart werden, sind Completion Accounts zum Closing-
 
 ### 2.1 Verhandlungsstand
 
-Seller Counsel hat in der Telefonkonferenz vom 10. Dezember 2024 mitgeteilt, dass Kunde A „prinzipiell bereit" sei, einen Waiver zu erteilen, sofern ECP vor Closing eine Geschäftsführer-Präsentation bei Kunde A durchführt (Key-Relationship-Termin). Dies ist ein unüblicher, aber akzeptabler Ansatz.
+Seller Counsel hat in der Telefonkonferenz vom 10. Dezember 2024 mitgeteilt, dass Kunde A "prinzipiell bereit" sei, einen Waiver zu erteilen, sofern ECP vor Closing eine Geschäftsführer-Präsentation bei Kunde A durchführt (Key-Relationship-Termin). Dies ist ein unüblicher, aber akzeptabler Ansatz.
 
 ### 2.2 SPA-Klausel-Optionen
 

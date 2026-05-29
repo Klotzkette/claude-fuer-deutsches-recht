@@ -49,21 +49,21 @@ Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteil
 | KV allgemein | 7,3 Prozent | 7,3 Prozent |
 | KV-Zusatzbeitrag (KK-individuell) | halftig (paritaetisch seit 01.01.2019) | halftig |
 | PV (allgemein, ausserhalb Sachsen) | halftig | halftig |
-| PV-Zuschlag Kinderlose ab Vollendung des 23. Lj. | 0 | typisch ca. 0,6 Prozent allein zu Lasten AN (Stand 2024 — 2026 ueber GKV-Spitzenverband verifizieren) |
-| PV-Abschlag mit Kindern (PUEG ab 01.07.2023) | nicht beruehrt | gestaffelter Abschlag fuer AN je Kind ab 2. Kind, bis maximal 5 Kinder; konkrete Saetze 2026 verifizieren |
+| PV-Zuschlag Kinderlose ab Vollendung des 23. Lj. | 0 | 0,6 Prozent allein zu Lasten AN (Stand 2025; § 55 Abs. 3 SGB XI i.d.F. PflegeunterstuetzungsG gueltig seit 01.07.2023; jaehrlich ueber GKV-Spitzenverband pruefen) |
+| PV-Abschlag mit Kindern (PUEG ab 01.07.2023) | nicht beruehrt | gestaffelter Abschlag fuer AN je Kind ab 2. Kind (0,25 Prozent/Kind), bis maximal 5 Kinder (max. 1,0 Prozent Abschlag); § 55 Abs. 3 SGB XI (Stand 2025; bei kuenftigen Anpassungen GKV-Spitzenverband pruefen) |
 | PV Sachsen (Buss- und Bettag) | typisch geringer AG-Anteil; AN traegt zusaetzliche 0,5 Prozent (§ 58 Abs. 3 SGB XI) | typisch hoeherer AN-Anteil |
-| RV | 9,3 Prozent | 9,3 Prozent (gesamt 18,6 Prozent — Stand 2024; 2026 verifizieren) |
-| AV | 1,3 Prozent je Seite (gesamt 2,6 Prozent Stand 2024; 2026 ueber BA / BMAS verifizieren) | wie AG |
+| RV | 9,3 Prozent | 9,3 Prozent (gesamt 18,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) |
+| AV | 1,3 Prozent je Seite (gesamt 2,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) | wie AG |
 | U1 (Kleinunternehmer bis 30 AN) | voll AG | 0 |
 | U2 (Mutterschaft, alle AG) | voll AG | 0 |
 | Insolvenzgeld-Umlage | voll AG | 0 |
 | Berufsgenossenschaft | voll AG | 0 |
 
-(Saemtliche Beitragssaetze 2026 zwingend verifizieren ueber Sozialversicherungs-Rechengroessenverordnung, DRV, BMAS, GKV-Spitzenverband sowie KK-individuelle Zusatzbeitragssatzungen.)
+(Saemtliche Beitragssaetze Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel ueber DRV, BMAS, GKV-Spitzenverband sowie KK-individuelle Zusatzbeitragssatzungen pruefen.)
 
 ### Phase 2 — PV-Kinderlosenzuschlag
 
-- AN ohne Kinder ab 23 Jahre: zusaetzlicher Anteil 0,6 Prozent (Stand 2025; aktueller Wert 2026 verifizieren).
+- AN ohne Kinder ab 23 Jahre: zusaetzlicher Anteil 0,6 Prozent (Stand 2025, § 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
 - AN mit Kindern: Abschlag oder Wegfall des Zuschlags.
 - Bei mehreren Kindern: gestaffelter Abschlag (Reform 2023 nachgelagert).
 
@@ -75,7 +75,7 @@ Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteil
 ### Phase 4 — KV-Zusatzbeitragssatz
 
 - Jede Krankenkasse erhebt individuellen Zusatzbeitrag.
-- Standard-Zusatzbeitragssatz (BMAS-Statistik) ca. 1,7 Prozent (Stand 2024; 2026 verifizieren).
+- Standard-Zusatzbeitragssatz (BMAS-Statistik) durchschnittlich 2,5 Prozent (Stand 2025; Wert 2026 ueber GKV-Spitzenverband pruefen — KK-individuell).
 - Bei KK-Wechsel: Umstellung im Lohn-Programm.
 
 ### Phase 5 — Umlagen U1/U2
@@ -120,5 +120,7 @@ Stand: 05/2026.
 - SGB III §§ 346, 358.
 - SGB XI §§ 55, 58.
 - AAG.
-- Verifikations-Hinweis: Beitragssaetze 2026 verifizieren.
-- Verifikations-Hinweis: PV-Kinderlosenzuschlag 2026 verifizieren.
+- Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
+- PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 7 bestaetigt (Fundstelle/Datum), 2 ersetzt (neu formuliert ohne Marker) -->

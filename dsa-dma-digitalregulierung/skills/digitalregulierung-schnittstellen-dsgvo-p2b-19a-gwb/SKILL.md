@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb
-description: "Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Pruefraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie fuer welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
+description: "Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
 ---
 
 # Schnittstellen — DSA, DMA, DSGVO, P2B-VO und § 19a GWB
@@ -89,14 +89,11 @@ Bei einem Beratungsfall **alle relevanten Anker prüfen**:
 - **Welche Norm hat den schärfsten Hebel?** — Bußgeld, Untersagung, Schadensersatz, Eilrechtsschutz
 - **Welche Behörde reagiert am schnellsten?** — BKartA, BNetzA als DSC, BfDI / LDA, Kommission
 - **Wer trägt die Beweislast?** — Gerichtsstand, prozessuale Strategie
-- **Sind Mehrfachsanktionen kumulativ möglich?** — Doppelbestrafung ne bis in idem grundsätzlich beachten (EuGH bpost C-117/20), aber unterschiedliche Schutzgüter erlauben Kumulation
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 27.10.2022 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Verhältnis DSGVO und Wettbewerbsrecht; Bundeskartellamt kann DSGVO-Verstoß als Missbrauch nach § 19a GWB werten; DSA und DMA lassen DSGVO nach Art. 2 Abs. 4 DSA, Art. 1 Abs. 5 DMA unberührt.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Facebook-Datenschutz), NJW 2020, 2759 Rn. 48: Datenschutzverstöße als Missbrauch marktbeherrschender Stellung nach § 19 Abs. 1 GWB; Verknüpfung von Datenschutzrecht und Wettbewerbsrecht.
-- OLG Düsseldorf, Beschl. v. 26.08.2019 — VI-Kart 2/19 (Facebook-Datenschutz), NZKart 2019, 424 Rn. 22: Zur Schnittstelle Datenschutz und Wettbewerbsrecht im Plattformbereich; P2B-VO ergänzt das Regime für gewerbliche Nutzer.
-- EuGH, Urt. v. 19.10.2023 — C-456/22 (Gemeinde Ummendorf), NJW 2024, 50 Rn. 28: Zum Zusammenwirken verschiedener EU-Regulierungsregime bei Online-Diensten; lex specialis-Verhältnis muss für jeden Anspruch gesondert geprüft werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -105,11 +102,9 @@ Bei einem Beratungsfall **alle relevanten Anker prüfen**:
 - Art. 3–5 P2B-VO (2019/1150) — Transparenz gegenüber gewerblichen Nutzern
 - § 19a GWB — Sonderregeln für Unternehmen mit überragender marktübergreifender Bedeutung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Körber/Kühling/Podszun, Digitalrecht, 2022, § 19a GWB Rn. 1–80: Zu den Voraussetzungen und Rechtsfolgen des § 19a GWB; Verhältnis zu DMA.
-- Paal/Pauly, Medienrecht, 2024, DSA Art. 2 Rn. 20–40: Zur Abgrenzung DSA-Pflichten von DSGVO-Pflichten.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Ansprüche kommen in Betracht? (DSGVO-Betroffenenrechte / DSA-Beschwerde / P2B-VO / § 19a GWB)

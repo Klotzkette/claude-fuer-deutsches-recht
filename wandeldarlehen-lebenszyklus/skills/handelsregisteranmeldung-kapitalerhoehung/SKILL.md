@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-kapitalerhoehung
-description: "Handelsregisteranmeldung nach Kapitalerhohung durch Wandlung vorbereiten. § 57 GmbHG Anmeldepflicht §§ 54 55 GmbHG Kapitalerhohung. Pruefraster: Anmeldungsinhalt Unterlagen Notar Einreichungspflicht Eintragungsvoraussetzungen. Output: Anmeldungsentwurf Unterlagencheckliste. Abgrenzung: nicht fuer Gesellschafterliste (gesellschafterliste-aktualisieren)."
+description: "Handelsregisteranmeldung nach Kapitalerhohung durch Wandlung vorbereiten. § 57 GmbHG Anmeldepflicht §§ 54 55 GmbHG Kapitalerhohung. Prüfraster: Anmeldungsinhalt Unterlagen Notar Einreichungspflicht Eintragungsvoraussetzungen. Output: Anmeldungsentwurf Unterlagencheckliste. Abgrenzung: nicht für Gesellschafterliste (gesellschafterliste-aktualisieren)."
 ---
 
 # Handelsregisteranmeldung Kapitalerhöhung
@@ -26,8 +26,7 @@ Dieser Skill begleitet die Handelsregisteranmeldung der Kapitalerhöhung nach vo
 - § 19 GwG (Transparenzregister-Anmeldepflicht nach HR-Änderung)
 
 ### Rechtsprechung
-- OLG Hamburg, Beschl. v. 22. Oktober 2015 – 11 W 89/15 (Beanstandung Sacheinlagebericht – unzureichende Werthaltigkeitsbegründung)
-- OLG München, Beschl. v. 5. August 2019 – 31 Wx 221/19 (Anforderungen Gesellschafterliste § 40 GmbHG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -87,11 +86,11 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 57/9c oder FamFG aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 22: Anmeldung der Kapitalerhöhung zum Handelsregister muss durch alle Geschäftsführer erfolgen (§ 57 GmbHG); bei der Sachkapitalerhöhung (Wandlung Darlehen) ist dem Handelsregister zusätzlich der Sacheinlagebericht und die Erklärung über die Werthaltigkeit der eingebrachten Forderung beizufügen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Düsseldorf, Beschl. v. 14.06.2017 — **3 Wx 91/17**, GmbHR 2017, 912 Rn. 10: Das Handelsregister prüft die formelle Ordnungsmäßigkeit der Kapitalerhöhungsanmeldung; materiell-rechtliche Mängel (z.B. zu niedrige Bewertung der Sacheinlage) prüft es nicht; der Geschäftsführer und die Gesellschafter haften jedoch für eine unzutreffende Werthaltigkeitsbescheinigung (§ 57 Abs. 4 GmbHG).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 18: Mit Eintragung der Kapitalerhöhung im Handelsregister wird die Wandlung wirksam; vor Eintragung können die neuen Anteile weder übertragen noch belastet werden; der Darlehensgeber erhält erst mit Eintragung rechtlich gesicherte Gesellschafterstellung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

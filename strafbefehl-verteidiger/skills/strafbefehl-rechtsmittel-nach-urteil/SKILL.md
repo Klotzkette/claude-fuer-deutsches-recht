@@ -28,18 +28,11 @@ description: "Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 21.06.2022 - 4 StR 152/22, NJW 2022, 3082 — Revisionsgericht prueft nur ob Rechtsfehler vorliegt; Tatsachenwuerdigung des Tatgerichts kann nur auf Denkgesetze und Erfahrungssaetze hin kontrolliert werden.
-- BGH, Urt. v. 15.02.2022 - 3 StR 407/21, NStZ 2022, 372 — Absoluter Revisionsgrund nach § 338 Nr. 8 StPO (Verletzung letztes Wort) besteht wenn Angeklagter nicht Gelegenheit hatte, sich zuletzt zu aeussern; Protokollberichtigung nicht moeglich.
-- BGH, Beschl. v. 20.04.2021 - 4 StR 76/21, NStZ 2021, 442 — Revisionsbegründung muss Angriffspunkte konkret bezeichnen; Pauschalruege genuegt nicht fuer Sachrueuge.
-- OLG Celle, Beschl. v. 18.07.2022 - 3 Ss 20/22, NStZ-RR 2022, 319 — Annahme-Berufung nach § 313 StPO bei Geldstrafe bis 15 Tagessaetze erfordert hinreichende Erfolgsaussichten; Annahmeversagung ist mit weiterer Beschwerde nicht anfechtbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO §§ 312-332 (Berufung, vollstaendig)
-- Meyer-Gossner/Schmitt StPO §§ 333-358 (Revision, vollstaendig)
-- Meyer-Gossner/Schmitt StPO § 338 Rn. 1-60 (absolute Revisionsgründe)
-- Fischer StGB § 46 Rn. 1-100 (Strafzumessung als Revisionsgegenstand)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Rechtsmittelwahl
 
 ```

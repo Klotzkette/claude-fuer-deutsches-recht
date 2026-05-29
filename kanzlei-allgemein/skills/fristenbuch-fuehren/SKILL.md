@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-fuehren
-description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ueber alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zustaendigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.
+description: Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zuständigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.
 ---
 
 # Zentrales Fristenbuch der Kanzlei
@@ -13,10 +13,7 @@ description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ue
 4. Wer ist verantwortlicher Anwalt und wer ist Vertretung bei Abwesenheit?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Eintragungspflicht im Fristenbuch als Organisationspflicht der Kanzlei; Versaeumnis begruendet Haftung nach § 51 BRAO.
-- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Fristbeginn bei Postzustellung: fruehestens am dritten Werktag nach Aufgabe zur Post; seit 01.01.2025 vier Werktage (PostModG).
-- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Vorfrist als anwaltliche Sorgfaltspflicht: eine Vorfrist von mindestens fuenf Werktagen ist Mindeststandard.
-- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Doppelkontrolle der Fristeintragung: sowohl Empfangsprotokoll als auch Fristeintrag muessen sofort erfolgen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 222 ZPO i.V.m. §§ 187-188 BGB — Fristberechnung nach dem Zivilprozessrecht
@@ -24,10 +21,9 @@ description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ue
 - § 548 ZPO — Revisionsfrist ein Monat ab Zustellung (Notfrist)
 - Art. 7 PostModG — Vier-Tages-Zustellungsfiktion fuer Postsendungen ab 01.01.2025
 
-## Kommentarliteratur
-- Zollner/Schneider BRAO § 51 Rn. 1-40 (Fristversaeumnis als Haftungsgrundlage)
-- BeckOK ZPO/Wendtland §§ 222-224 Rn. 1-30 (Fristberechnung und Wiedereinsetzung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht
 
 Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).

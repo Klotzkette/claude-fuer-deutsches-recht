@@ -50,10 +50,10 @@
 Nur wenn Akteneinsicht und Mandantengespräch ergeben haben, dass eine Einlassung die Beweissituation verbessert (z.B. subjektiver Tatbestand überzeugend darstellbar). In diesem Fall:
 
 **Zu Tat 1 (Ladendiebstahl):**
-> „Meine Mandantin gibt an, dass sie an dem Tag stark abgelenkt war, weil ihre Tochter krank war und sie früh von der Arbeit musste. Sie kann nicht mit Sicherheit sagen, ob sie die Artikel bewusst oder unbewusst in die Manteltasche gesteckt hat. Als ihr das im Ladendetektivbüro klar wurde, hat sie sofort und vollständig kooperiert, die Ware zurückgegeben und sich aufrichtig entschuldigt."
+> "Meine Mandantin gibt an, dass sie an dem Tag stark abgelenkt war, weil ihre Tochter krank war und sie früh von der Arbeit musste. Sie kann nicht mit Sicherheit sagen, ob sie die Artikel bewusst oder unbewusst in die Manteltasche gesteckt hat. Als ihr das im Ladendetektivbüro klar wurde, hat sie sofort und vollständig kooperiert, die Ware zurückgegeben und sich aufrichtig entschuldigt."
 
 **Zu Tat 2 (§ 142 StGB):**
-> „Meine Mandantin hat beim Ausparken keinen Aufprall wahrgenommen – weder optisch noch akustisch noch durch Erschütterung. Ihr Fahrzeug (ein älterer Kleinwagen mit Stoßstangenpuffer) ist für geringe Kontakte oft nicht spürbar. Sie hat das Parkhaus verlassen, ohne zu wissen, dass es zu einem Schaden gekommen sein könnte."
+> "Meine Mandantin hat beim Ausparken keinen Aufprall wahrgenommen – weder optisch noch akustisch noch durch Erschütterung. Ihr Fahrzeug (ein älterer Kleinwagen mit Stoßstangenpuffer) ist für geringe Kontakte oft nicht spürbar. Sie hat das Parkhaus verlassen, ohne zu wissen, dass es zu einem Schaden gekommen sein könnte."
 
 ### Strategieoption B: Schweigen
 

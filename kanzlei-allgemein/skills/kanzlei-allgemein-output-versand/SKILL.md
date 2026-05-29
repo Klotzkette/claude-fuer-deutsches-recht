@@ -13,10 +13,7 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 4. Ist ein fristgebundenes Dokument dabei, das sofort nach Versand ins Fristenbuch muss?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Persoenliches Versenden durch den beA-Inhaber als Pflicht beim sUW; Versand durch Mitarbeiter ohne qeS fuehrt zur Unwirksamkeit.
-- BGH, Beschl. v. 17.05.2023 - VIII ZB 68/22, NJW 2023, 2273 — Versandquittung als Beweisnachricht: fehlendes Versandprotokoll geht zu Lasten des Anwalts.
-- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Ausgangssendung ohne vorherige Inhalts- und Anlageprüfung begruendet Haftungsrisiko bei falscher Zustellung.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Versand-Vor-Check als Kanzleipflicht: Fehlversand (falscher Adressat, falsches Dokument) ist Organisationspflichtverletzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 130a ZPO — Elektronisches Dokument: Anforderungen an Inhalt und Uebermittlungsweg
@@ -24,10 +21,9 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 - § 43 BRAO — Sorgfaltspflicht: umfasst Pruefung vor Ausgang
 - § 31a BRAO — beA-Nutzungspflicht: persoenlicher Versand durch Inhaber
 
-## Kommentarliteratur
-- Zöller/Greger ZPO § 130a Rn. 1-25, § 174 Rn. 1-15 (Elektronischer Versand und Zustellung)
-- Gaier/Wolf/Göcken BRAO § 31a Rn. 1-30 (beA: Versand und Pflichten des Inhabers)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill führt vom Entwurf zum kontrollierten Ausgang. Er versendet nicht still. Jeder Versand braucht eine ausdrückliche Einzelentscheidung.

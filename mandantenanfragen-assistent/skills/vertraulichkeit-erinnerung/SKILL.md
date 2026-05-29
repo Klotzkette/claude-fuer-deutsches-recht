@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt. § 43a Abs. 2 BRAO Schweigepflicht. Pruefraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Uebergangs-Instruktion Sekretariat. Output: Instruktionshinweis Schweigepflicht. Abgrenzung zu konfliktcheck-vorab (vor Mandatsannahme) und mandatsverhaeltnis-hinweis (Haftung)."
+description: "Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt. § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Übergangs-Instruktion Sekretariat. Output: Instruktionshinweis Schweigepflicht. Abgrenzung zu konfliktcheck-vorab (vor Mandatsannahme) und mandatsverhältnis-hinweis (Haftung)."
 ---
 
 # Vertraulichkeit-Erinnerung
@@ -11,7 +11,7 @@ Dieser Skill informiert Sekretariatsmitarbeitende und Rechtsanwältinnen und Rec
 
 ### § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
 
-> „Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
+> "Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
 
 Die Verschwiegenheitspflicht ist eine berufsrechtliche Kernpflicht. Verstöße können zur Schadensersatzpflicht (§ 280 BGB), zu einem Widerruf der Zulassung (§ 14 BRAO) und zu strafrechtlicher Verfolgung (§ 203 StGB — Verletzung von Privatgeheimnissen) führen.
 
@@ -26,7 +26,7 @@ Die Verschwiegenheitspflicht gilt ab dem Moment, in dem ein Rechtssuchender sich
 | Anonyme Erstanfrage per E-Mail (kein Mandatsverhältnis) | Allgemeine berufliche Diskretion; § 43a Abs. 2 BRAO greift, sobald Berufsausübung erkennbar |
 | Telefonisches Erstgespräch | Ab Beginn des Gesprächs gilt Verschwiegenheitspflicht über das Besprochene |
 | Schriftliche Mandatserteilung | Vollumfängliche Verschwiegenheitspflicht über alle Informationen im Zusammenhang mit dem Mandat |
-| Nach Mandatsende | Postmandatare Verschwiegenheitspflicht bleibt bestehen (BGH IX ZR 204/04) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Praxis-Hinweis für das Sekretariat
 

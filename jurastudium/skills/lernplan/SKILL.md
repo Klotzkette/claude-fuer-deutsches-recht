@@ -1,6 +1,7 @@
 ---
 name: lernplan
-description: "Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer „Lernplan erstellen\", „Examensvorbereitung planen\", „Stundenplan Staatsexamen\" oder „wie soll ich für [Prüfung] lernen\" sagt."
+description: 'Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer "Lernplan erstellen", "Examensvorbereitung planen", "Stundenplan Staatsexamen" oder "wie soll ich für [Prüfung] lernen" sagt.'
+
 ---
 
 # Staatsexamen-Lernplan
@@ -35,18 +36,17 @@ Der Pflichtstoffkatalog richtet sich nach dem jeweiligen Juristenausbildungsgese
 **Prüfungsrelevante Leitentscheidungen (Planungsmaßstab):**
 
 Für BGB-Schwerpunktplanung:
-- BGH, Urt. v. 25.11.2009 – VIII ZR 318/08, NJW 2010, 610 Rn. 12 — Leistungsstörungsrecht, dauerhaft examensrelevant
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Für Strafrecht-Schwerpunktplanung:
-- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 (Lederriemen) — Dauerklassiker mündliche Prüfung
-- BGH, Urt. v. 22.09.1995 – 2 StR 310/95, BGHSt 41, 292 — § 25 Abs. 2 StGB Mittäterschaft
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kanonische Repetitorien-Literatur:**
 - Alpmann Schmidt, Gesamtdarstellungen — kompakt, examensnah
 - Hemmer/Wüst, Skriptenreihe — dogmatisch strukturiert nach Prüfungsreihenfolge
 - Jura Intensiv, Skriptenreihe — Schwerpunkt Definitionen und Falllösung
 - Kaiser-Skripten — starke Farbcodierung, schnell navigierbar
-- MüKoBGB, 9. Aufl. 2021/2022 — für Tiefenerschließung in der Wiederholungsphase
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -66,16 +66,16 @@ Für (2) und (3): Stationsanforderungen und Klausurenformate klären.
 Nicht alle Fragen auf einmal. Eine stellen, Antwort abwarten, dann nächste.
 
 - **Prüfungstermin**: Datum bestätigt? Falls nicht: ungefähres Semester / Halbjahr?
-- **Rechtsgebiete**: Pflichtfächerkanon nach Landesrecht. Bestätigen: „Gibt es etwas, das ergänzt oder gestrichen werden soll?"
+- **Rechtsgebiete**: Pflichtfächerkanon nach Landesrecht. Bestätigen: "Gibt es etwas, das ergänzt oder gestrichen werden soll?"
 - **Stärkste Rechtsgebiete**: geringste Priorität, aber nicht ignoriert
 - **Schwächste Rechtsgebiete**: höchste Priorität, doppelte Stunden
 - **Stunden pro Woche**: realistisch, nicht maximal. Nach Angabe:
 
-  > „Sie haben [N] Stunden pro Woche genannt. Was füllt die restliche Zeit — Nebenjob (wie viele Stunden), Familie, Pendelzeit, Repetitorium-Präsenz, Sport, Sonstiges? Der Plan soll zu Ihrem Leben passen, nicht umgekehrt."
+  > "Sie haben [N] Stunden pro Woche genannt. Was füllt die restliche Zeit — Nebenjob (wie viele Stunden), Familie, Pendelzeit, Repetitorium-Präsenz, Sport, Sonstiges? Der Plan soll zu Ihrem Leben passen, nicht umgekehrt."
 
   Antwort abwarten. Dann Plausibilitätsprüfung:
 
-  > „Das sind rund [X] Stunden täglich an [Z] Lerntagen, neben [Job + Familie + Pendeln]. Das erscheint [realistisch / eng / kaum tragbar]. Sollen wir die Stundenzahl anpassen, oder starten wir mit dieser Vorgabe und überprüfen nach zwei Wochen?"
+  > "Das sind rund [X] Stunden täglich an [Z] Lerntagen, neben [Job + Familie + Pendeln]. Das erscheint [realistisch / eng / kaum tragbar]. Sollen wir die Stundenzahl anpassen, oder starten wir mit dieser Vorgabe und überprüfen nach zwei Wochen?"
 
   Diesen Schritt nie überspringen — auch wenn bereits eine Stundenzahl im Profil steht.
 
@@ -86,7 +86,7 @@ Nicht alle Fragen auf einmal. Eine stellen, Antwort abwarten, dann nächste.
 
 Wenn ein Repetitorium genutzt wird (Alpmann, Hemmer, Jura Intensiv, Kaiser oder sonstiges strukturiertes Kursangebot):
 
-> „Ihr Repetitorium hat einen eigenen Terminplan. Dieser Plan kann zwei Rollen übernehmen — eine davon wählen:
+> "Ihr Repetitorium hat einen eigenen Terminplan. Dieser Plan kann zwei Rollen übernehmen — eine davon wählen:
 >
 > 1. **Ergänzung**: Das Repetitorium ist der Hauptfahrplan. Dieser Plan füllt Lücken: Zusatzübungen zu schwachen Rechtsgebieten, Karteikarten-Drill, Klausurensimulationen. Kein Parallelcurriculum.
 > 2. **Ersatz**: Der Repetitoriums-Terminplan wird nicht befolgt (z. B. wegen Arbeitslast oder Taktung). Dieser Plan übernimmt die Vollstruktur — Rechtsgebiete, Phasen, Tagespläne.
@@ -115,7 +115,7 @@ Wochentags: Welches Rechtsgebiet, welche Methode, wie lange. Puffer einplanen �
 
 **Cramphase (weniger als 6 Wochen):**
 
-> „Weniger als sechs Wochen bis zum Termin — das ist Crashkurs-Modus. Der Plan priorisiert hohe Examensrelevanz vor Vollständigkeit. Es entstehen Lücken; das ist der Kompromiss bei dieser Zeitlage."
+> "Weniger als sechs Wochen bis zum Termin — das ist Crashkurs-Modus. Der Plan priorisiert hohe Examensrelevanz vor Vollständigkeit. Es entstehen Lücken; das ist der Kompromiss bei dieser Zeitlage."
 
 Examensklassiker in jeder Phase (§§ 280 ff., 823 BGB; §§ 242, 263 StGB; Ermessen VerwR; §§ 80, 113 VwGO). Klausuren jeden Tag. Mindestens eine Klausur-Simulation pro Woche unter Zeitdruck. Letzte zwei Tage vor dem Examen: kein neues Material, nur Wiederholung bekannter Strukturen + Schlaf.
 
@@ -216,7 +216,7 @@ Nach jeder Sitzung (Karteikarten, Drill, Klausur) wird ein Sitzungsbericht an `s
 
 ## Beispiel
 
-**Eingabe:** „Lernplan für das Erste Staatsexamen NRW, Termin März 2027, Schwächen: Sachenrecht, Strafrecht BT."
+**Eingabe:** "Lernplan für das Erste Staatsexamen NRW, Termin März 2027, Schwächen: Sachenrecht, Strafrecht BT."
 
 **Ergebnis-Prosa:** 10 Monate bis zum Termin. 3 Phasen. Sachenrecht und StGB BT erhalten je 6 Stunden pro Woche (doppelt gegenüber Standardgewichtung). Repetitorium Hemmer als Ergänzung. Erste Wochen: Grundlagenstruktur Sachenrecht (Eigentum, Besitz, beschränkte dingliche Rechte) und StGB BT (§§ 242 ff., §§ 211 ff. StGB). Ab Woche 12: Klausurenphase mit wöchentlich zwei Zeitklausuren.
 
@@ -238,5 +238,3 @@ Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH XI ZR 204/04 (19.09.2006) entfernt.** Das Aktenzeichen und BGHZ 169, 109 sind korrekt, jedoch ist das behauptete Thema „Anspruchskonkurrenz (Rn. 20 ff.)“ eine Halluzination: Echtes Thema laut dejure.org ist Bankhaftung / Schrottimmobilien / HaustuerWiderruf (HWiG) / c.i.c. Der Eintrag wurde als WRONG_TOPIC eingestuft. Kein geeigneter Ersatz mit verifiziertem Aktenzeichen zur Anspruchskonkurrenz gefunden; Eintrag geloescht.

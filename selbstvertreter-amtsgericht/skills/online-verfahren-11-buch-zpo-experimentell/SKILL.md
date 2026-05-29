@@ -1,6 +1,6 @@
 ---
 name: online-verfahren-11-buch-zpo-experimentell
-description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollstaendig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung pruefen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme."
+description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme."
 ---
 
 # Online-Verfahren — das neue digitale Zivilverfahren
@@ -9,7 +9,7 @@ description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Volls
 
 Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende ueber eine Internet-Plattform zu fuehren — ohne Papier, ohne persoenliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und fuer **bestimmte Streit-Typen**.
 
-**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in juris/beck-online und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts.**
+**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts.**
 
 ## In einfacher Sprache
 
@@ -34,7 +34,7 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 - **§ 128a ZPO** — Video-Verhandlung (auch im klassischen Verfahren moeglich, vgl. `video-verhandlung-128a-zpo`).
 - **§ 130a ZPO** — elektronische Einreichung (gilt auch im klassischen Verfahren).
 
-**Verifizieren Sie die aktuelle Rechtslage** in juris/beck-online — die Normen-Nummerierung und der Anwendungsbereich des Online-Verfahrens werden im Erprobungs-Zeitraum noch praezisiert.
+**Verifizieren Sie die aktuelle Rechtslage** in amtliche/freie Quellen oder lizenzierte Datenbanken — die Normen-Nummerierung und der Anwendungsbereich des Online-Verfahrens werden im Erprobungs-Zeitraum noch praezisiert.
 
 ## Was unterscheidet das Online-Verfahren vom normalen Verfahren?
 
@@ -141,4 +141,4 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in juris/beck-online und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts vor Klageeinreichung.**
+Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts vor Klageeinreichung.**

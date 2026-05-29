@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-rechtsprechungsrecherche
-description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile fuer Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz fuer Vertrag, Memo oder Board Paper."
+description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz für Vertrag, Memo oder Board Paper."
 ---
 
 # Corporate-Rechtsprechungsrecherche
@@ -24,36 +24,28 @@ description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile fue
 | bundesfinanzhof.de | BFH-Entscheidungen | Amtlich | Primärquelle Steuerrecht |
 | dejure.org / openjur.de | Instanzgerichte, OLG, LG | Halbamtlich | Ergänzend; Fundstelle immer verifizieren |
 | beck-online.de / juris.de | Volltext + Kommentar | Kommerziell | Preferred für Fundstellenverifizierung |
-| NJW / ZIP / NZG / NZA | Zeitschriften-Fundstellen | Anerkannt | Fundstelle für Zitierung |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ## Rechtsprechungs-Kanon Corporate/M&A
 
 ### Organpflichten / Business Judgment Rule
-- BGH, Urt. v. 21.04.1997 - II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck) — AR-Pflicht, Vorstandshaftung zu verfolgen.
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — BJR für GmbH-GF analog § 43 GmbHG.
-- BGH, Urt. v. 03.05.2004 - II ZR 17/03, NJW 2004, 1531 — BJR ausgeschlossen bei Interessenkonflikt.
-- LG München I, Urt. v. 10.12.2021 - HK O 5765/20 — Wirecard: AR-Kontrollpflichten bei Indizien für Unregelmäßigkeiten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Insolvenzantragspflicht / § 15a InsO
-- BGH, Urt. v. 19.06.2018 - II ZR 277/16, NJW 2018, 2723 — Antragspflicht mit objektivem Eintritt der Insolvenzreife.
-- BGH, Urt. v. 14.05.2020 - IX ZR 54/18, ZIP 2020, 1086 — Insolvenzanfechtung bei Distressed M&A.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### StaRUG / Insolvenzplan
-- BGH, Beschl. v. 19.05.2022 - IX ZB 5/22, ZIP 2022, 1297 — Klassenbildung Insolvenzplan: willkürliche Zusammenfassung = Versagung der Bestätigung.
-- AG Hamburg, Beschl. v. 15.09.2021 - 67c RES 2/21 — erste gerichtlich bestätigte StaRUG-Restrukturierung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### M&A-Gewährleistung / SPA
-- BGH, Urt. v. 29.11.2006 - VIII ZR 92/06, NJW 2007, 674 — Share Deal: Beschaffenheitsgarantie bei Unternehmenskauf.
-- OLG Frankfurt, Urt. v. 07.12.2021 - 5 U 134/20, ZIP 2022, 310 — lückenhafte Disclosure Schedules als Garantieverletzung.
-- BGH, Urt. v. 26.09.2018 - VIII ZR 187/17, NJW 2019, 159 — Rücktritt vom Unternehmenskauf wegen Sachmangel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Fusionskontrolle / FDI
-- EuGH, Urt. v. 04.03.2020 - C-10/18 P (Mowi/Kommission) — Gun-Jumping als eigenständiger Kartellrechtsverstoß.
-- BGH, Beschl. v. 14.03.2017 - KVR 37/16, NZKart 2017, 291 — Vollzugsverbot Fusionskontrolle, Buße.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kapitalmarkt / MAR
-- BGH, Urt. v. 13.12.2011 - XI ZR 51/10, BGHZ 192, 90 — Insiderinformation bei M&A; Weitergabeverbot.
-- EuGH, Urt. v. 22.11.2005 - C-384/02 (Grøngaard/Bang) — Insiderinformation, Weitergabe bei beruflicher Pflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt-für-Schritt-Workflow
 
@@ -93,8 +85,8 @@ RECHERCHEERGEBNISSE
 
 Nr. | Gericht | Aktenzeichen | Datum | Fundstelle | Leitsatz (Paraphrase) | Verwertungsnotiz | Status
 ----|--------|-------------|-------|-----------|----------------------|-----------------|-------
-1   | BGH    | II ZR 234/20 | 04.05.2021 | NJW 2022, 1381 | [Paraphrase 1-2 Sätze] | [Relevanz fuer Sachverhalt] | verifiziert
-2   | OLG Frankfurt | 5 U 134/20 | 07.12.2021 | ZIP 2022, 310 | [Paraphrase] | [Relevanz] | verifiziert
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2   | Rechtsprechung live pruefen | Gericht, Datum und Aktenzeichen erst nach freier/amtlicher Quelle eintragen | [Paraphrase] | [Relevanz] | verifiziert
 3   | [Gericht] | [Az.] | [Datum] | [Fundstelle] | [Paraphrase] | [Relevanz] | UNVERIFIED — bitte prüfen
 
 NICHT GEFUNDEN / LÜCKEN
@@ -139,7 +131,7 @@ Ergebnisse verwendbar für:
 
 - bundesgerichtshof.de (amtliche BGH-Datenbank)
 - bundesverfassungsgericht.de (amtliche BVerfG-Datenbank)
-- MüKo AktG/Spindler § 93 Rn. 1 ff. (BJR mit Rechtsprechungsübersicht)
-- Hüffer/Koch, AktG, § 93 (Organhaftung Rechtsprechungsüberblick)
-- MüKo InsO/Klöhn § 15a Rn. 1 ff. (Insolvenzantragspflicht)
-- ZIP, NZG, NJW (Zeitschriften als Fundstellennachweis)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

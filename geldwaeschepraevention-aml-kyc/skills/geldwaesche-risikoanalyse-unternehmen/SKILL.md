@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-unternehmen
-description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG fuer Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Pruefraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan fuer Behoerdenvorlage. Abgrenzung zu geldwaesche-sicherungsmassnahmen-icp und geldwaesche-audit-internal-revision."
+description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behoerdenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision."
 ---
 
 # Unternehmensweite Risikoanalyse
@@ -12,10 +12,7 @@ description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG fuer Verpflicht
 4. Gibt es eine spezifische BaFin-/Aufsichtsvorgabe oder FATF-Leitlinie fuer diesen Sektor?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Risikoanalyse nach § 5 GwG muss sektortypische Risiken abdecken; pauschale Allgemein-Risikoanalysen werden von BaFin beanstandet.
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — AMLD4 verpflichtet zur risikobasierten Gesamtbewertung auf Unternehmensebene; individuelle Kundenrisiken muessen Teil der Unternehmens-Risikoanalyse sein.
-- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Fehlende oder veraltete Risikoanalyse begruendet subjektives Element bei Fahrlässigkeitshaftung nach § 56 GwG.
-- OVG Berlin-Brandenburg, Beschl. v. 12.09.2017 - OVG 1 S 67.17, NVwZ-RR 2018, 67 — Risikoanalyse muss jaehrlich oder anlassbezogen aktualisiert werden; einmalige Erstellung genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 5 GwG — Unternehmenseigene Risikoanalyse: Pflichtinhalt und Aktualisierung
@@ -23,10 +20,9 @@ description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG fuer Verpflicht
 - FATF Guidance — Risk-Based Approach fuer Finanzinstitutionen (2021)
 - BaFin-Auslegungs- und Anwendungshinweise (AuA) GwG — Risikoanalysevorgaben
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 5 Rn. 1-80 (Risikoanalyse: Pflichtinhalt und Methodik)
-- Zentes/Glaab GwG, 2019, § 5 Rn. 1-50 (Risikobewertung: Produkte, Kunden, Laender)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill macht § 5 GwG operationalisierbar: Risikoidentifikation, Bewertung, Maßnahmen, Freigabe, Aktualisierung und Dokumentation.

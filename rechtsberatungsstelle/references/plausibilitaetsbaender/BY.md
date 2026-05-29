@@ -13,13 +13,12 @@ Diese Datei bietet studentischen Beraterinnen und Beratern der Rechtsberatungsst
 | Mietrecht – Kaution | Vermieter fordert Mietkaution | Max. 3 Nettokaltmieten; bar, auf Sparbuch oder als Bürgschaft; Rückzahlung innerhalb von 6 Monaten nach Mietende | § 551 Abs. 1 BGB |
 | Mietrecht – Mieterhöhung | Mieterhöhung auf ortsübliche Vergleichsmiete | Nur bis zur ortsüblichen Vergleichsmiete; Kappungsgrenze 20 % in 3 Jahren (München, Nürnberg, Augsburg: 15 % wegen Gebietsverordnung nach § 558 Abs. 3 S. 2 BGB) | § 558 Abs. 3 BGB; BayMietKappV |
 | Mietrecht – Modernisierung | Mieterhöhung nach Modernisierung | Max. 8 % der Modernisierungskosten p. a. auf den Mieter umlegen; Obergrenze: Miete darf durch Modernisierung nicht mehr als 3 EUR/m² in 6 Jahren steigen | §§ 559, 559e BGB |
-| Mietrecht – Mietminderung | Mietminderung wegen Schimmel/Heizungsausfall | Mietminderung nur bei erheblichem Mangel (§ 536 BGB); typische Bänder: Schimmel 10–20 %, Totalausfall Heizung im Winter 30–50 %, Lärm 5–15 % je nach Intensität | § 536 BGB; BGH, Urt. v. 26.02.2003 – VIII ZR 5/02, NJW 2003, 1743 |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Mietrecht – Kündigung | Außerordentliche Kündigung wegen Zahlungsverzug | Rückstand ≥ 2 Nettokaltmieten (§ 543 Abs. 2 Nr. 3a BGB); Schonfristzahlung binnen 2 Monaten nach Zustellung der Räumungsklage heilt fristlose Kündigung (§ 569 Abs. 3 Nr. 2 BGB) | §§ 543, 569 BGB |
 | Arbeitsrecht – Kündigung | Ordentliche Kündigung; KSchG-Anwendbarkeit | KSchG gilt ab 6 Monaten Betriebszugehörigkeit und mehr als 10 Arbeitnehmern (Schwellenwert § 23 KSchG); Klagefrist 3 Wochen (§ 4 KSchG) – Notfrist, keine Verlängerung möglich | § 1, § 4, § 23 KSchG |
-| Arbeitsrecht – Abmahnung | Arbeitgeber hat Abmahnung erteilt | Abmahnung kann Vorstufe zur verhaltensbedingten Kündigung sein; Gegendarstellung möglich (§ 83 Abs. 2 BetrVG); inhaltlich falsche Abmahnung kann auf Entfernung aus der Personalakte geklagt werden (BAG, Urt. v. 19.07.2012 – 2 AZR 782/11) | § 83 BetrVG; BAG-Rspr. |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Arbeitsrecht – Lohn | Mindestlohn unterschritten | Allgemeiner gesetzlicher Mindestlohn 2025: 12,82 EUR brutto/Stunde; Anspruch nicht verzichtbar (§ 3 MiLoG); Verjährung 3 Jahre (§ 195 BGB) | § 1 MiLoG; § 3 MiLoG |
-| Sozialrecht – SGB II | Leistungsberechnung Bürgergeld | Regelbedarf 2025 Alleinstehende: 563 EUR/Monat; Kosten der Unterkunft nach tatsächlichem Bedarf, soweit angemessen (§ 22 SGB II); für München gelten erhöhte Angemessenheitswerte nach BSG-Rspr. | § 20 SGB II; § 22 SGB II; BSG, Urt. v. 18.01.2011 – B 4 AS 90/10 R |
-| Sozialrecht – SGB II | Sanktion wegen Pflichtverletzung | BVerfG-Urteil v. 05.11.2019 – 1 BvL 7/16: Sanktionen nur noch bis 30 % des Regelbedarfs; darunter liegende Grundversorgung muss gesichert sein | BVerfG, Urt. v. 05.11.2019 – 1 BvL 7/16, BVerfGE 152, 68 |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Sozialrecht – Widerspruch | Frist für Widerspruch gegen Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugang am 4. Tag nach Aufgabe zur Post gilt als Bekanntgabe (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: 3. Tag a.F.) | § 84 SGG; § 37 SGB X |
 
 ---
@@ -90,12 +89,8 @@ Die studentischen Rechtsberatungsstellen in Bayern sind vor allem in München (L
 - BayVwVfG; AGGVG (Bayerisches Ausführungsgesetz zur VwGO)
 - BayMietKappV (Verordnung über die Gebiete mit angespanntem Wohnungsmarkt – zuletzt 2023 verlängert)
 - BayWoFG (Bayerisches Wohnraumförderungsgesetz)
-- BGH, Urt. v. 26.02.2003 – VIII ZR 5/02, NJW 2003, 1743 (Mietminderungstabelle)
-- BGH, Urt. v. 22.11.2023 – VIII ZR 77/23, NJW 2024, 430 (Mieterhöhung Begründungsanforderungen)
-- BSG, Urt. v. 18.01.2011 – B 4 AS 90/10 R, BSGE 107, 154 (Kosten der Unterkunft)
-- BVerfG, Urt. v. 05.11.2019 – 1 BvL 7/16, BVerfGE 152, 68 (Sanktionen SGB II)
-- BAG, Urt. v. 19.07.2012 – 2 AZR 782/11, NZA 2013, 91 (Abmahnung, Entfernung aus Personalakte)
-- Grüneberg, BGB, 84. Aufl. 2025, §§ 535 ff., 543, 551, 558 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Erfurter Kommentar zum Arbeitsrecht, 25. Aufl. 2025, § 1 KSchG; § 4 KSchG
 - Kallert, in: Gagel, SGB II/III, Loseblatt (Stand 2024), § 22 SGB II
 - Mietspiegel München 2023/2024 (Landeshauptstadt München, Sozialreferat)

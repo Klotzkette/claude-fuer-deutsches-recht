@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-kg-personengesellschaften
-description: "KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24 UmwStG Einbringung. Pruefraster Anteilsuebertragung-Modalitaeten, Haftsumme Registeranpassung, Einlagen-Nachweis, Komplementaer-Haftung, steuerliche Transparenz. Output KG-spezifische Transaktionscheckliste mit Registerschritten und steuerlichen Hinweisen. Abgrenzung zu Umwandlungsrecht fuer Formwechsel und zu Transaktionsstruktur fuer Gesamtstruktur."
+description: "KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24 UmwStG Einbringung. Prüfraster Anteilsuebertragung-Modalitaeten, Haftsumme Registeranpassung, Einlagen-Nachweis, Komplementaer-Haftung, steuerliche Transparenz. Output KG-spezifische Transaktionscheckliste mit Registerschritten und steuerlichen Hinweisen. Abgrenzung zu Umwandlungsrecht für Formwechsel und zu Transaktionsstruktur für Gesamtstruktur."
 ---
 
 # KG und Personengesellschaften
@@ -30,17 +30,11 @@ Spezialworkflow fuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Ein
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 14.03.2017 - II ZR 225/15, BGHZ 214, 135 — Einlagenrueckgewaehr KG: Zahlung an Kommanditisten, die den Betrag der Einlage unterschreiten laesst, fuehrt zum erneuten Aufleben der Aussenhaftung nach § 172 Abs. 4 HGB; gilt auch bei verdeckter Einlagenrueckgewaehr
-- BGH, Urt. v. 18.07.2013 - III ZR 208/12, NJW 2013, 3167 — Kommanditistenwechsel: Abtretung eines Kommanditanteils ist formfrei moeglich; gleichwohl muss die Satzung einen Rueckschluss auf den Gesellschaftsvertrag erlauben; Eintragung im HR deklaratorisch, nicht konstitutiv
-- BGH, Urt. v. 24.09.2019 - II ZR 192/18, NZG 2019, 1353 — Stimmrecht in KG: in der GmbH & Co. KG hat der Kommanditist Stimmrecht nach der Einlagebeteiligung; Stimmrechtsausschluss bei Interessenkonflikten auch in der KG anwendbar
-- BGH, Urt. v. 11.04.2023 - II ZR 99/21, NZG 2023, 998 — GmbH & Co. KG nach MoPeG: Komplementaer-GmbH muss Gesellschaftsbeschluss fuer Umstrukturierung in der KG nachweisen; blossen Eintrag im Handelsregister genuegt nicht fuer Vollmachtsnachweis
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Baumbach/Hopt, HGB, §§ 161-177 Rn. 1-120 (Kommanditgesellschaft), 42. Auflage 2023
-- MueKo HGB/Schmidt, §§ 161-177 Rn. 1-80 (KG, Kommanditistenhaftung)
-- MueKo BGB/Schaefer, §§ 705-740 Rn. 1-100 n.F. (MoPeG, Gesellschaftsrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Rechtsform und Gesellschaftsvertrag pruefen:** aktueller HR-Auszug HRA, Gesellschaftsvertrag, Kommanditistenliste

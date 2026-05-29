@@ -1,12 +1,11 @@
 ---
 name: entscheidungsgruende-zivil-schreiben
-description: "Entscheidungsgruende eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begruendung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgruende), § 286 ZPO. Pruefraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswuerdigung, Einwendungen, Verjaehrung, Nebenentscheidungen. Output Entscheidungsgruende-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil."
+description: "Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil."
 ---
 
 # Entscheidungsgründe schreiben
 
 Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
-
 
 ## Triage zu Beginn
 
@@ -17,9 +16,7 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.07.2017 - XI ZR 562/15, NJW 2017, 2986 — Entscheidungsgründe müssen die tatsächlichen und rechtlichen Grundlagen der Entscheidung nachvollziehbar darlegen; pauschalisierende Formulierungen verletzen das Begründungsgebot.
-- BGH, Urt. v. 16.01.2020 - III ZR 23/19, NJW 2020, 1069 — Anspruchskonkurrenz zwischen vertraglichem und deliktischem Schadensersatz: jeder Anspruch eigenständig prüfen; günstigerer für Kläger anwenden.
-- BVerfG, Beschl. v. 19.01.2021 - 1 BvR 2681/19, NJW 2021, 1431 — Art. 103 Abs. 1 GG: Gericht muss wesentliche Klagebegründung im Tatbestand und Entscheidungsgründen berücksichtigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +28,9 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 - § 91, 92 ZPO — Kosten
 - § 708, 709 ZPO — vorläufige Vollstreckbarkeit
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 20-40 (Entscheidungsgründe Anforderungen)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 286 Rn. 1-25 (Beweiswürdigung in Entscheidungsgründen)
-- Grüneberg, BGB, 83. Aufl. 2024, § 288 Rn. 1-15 (Verzugszinsen Berechnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Obersatz:** "Die Klage ist [zulässig und] begründet / [zulässig, aber] unbegründet / teilweise begründet."
@@ -107,5 +101,3 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 ## Stil
 
 Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 304/09 entfernt — NOT_FOUND (auf dejure.org kein Urteil BGH VIII ZR 304/09 vom 15.11.2011 auffindbar; NJW 2012, 382 verweist auf BGH II ZR 304/09, thematisch Gesellschaftsrecht/Brandschaden, nicht Zinsbeginn). Kein Ersatz eingefuegt. -->

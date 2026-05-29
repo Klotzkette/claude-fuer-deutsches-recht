@@ -1,6 +1,7 @@
 ---
 name: stakeholder-zusammenfassung
-description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer „Zusammenfassung für Geschäftsführung\", „für den Vorstand aufbereiten\", „Managementzusammenfassung\", „für Einkauf erklären\" oder „nicht-juristische Zusammenfassung\" sagt."
+description: 'Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer "Zusammenfassung für Geschäftsführung", "für den Vorstand aufbereiten", "Managementzusammenfassung", "für Einkauf erklären" oder "nicht-juristische Zusammenfassung" sagt.'
+
 ---
 
 # Mandantenzusammenfassung Vertragsrecht
@@ -44,28 +45,19 @@ sie wesentliche Risiken weglassen.
 
 ### Sorgfaltspflicht bei Risikoangaben
 
-- BGH, Urt. v. 07.03.2019 – IX ZR 143/18, NJW 2019, 1949 Rn. 20
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
   als Bestandteil ordnungsgemäßer Beratung)
 
-<!-- AUDIT 27.05.2026: BGH IX ZR 197/12 (10.07.2014) entfernt – real topic Steuerberaterhaftung/Feststellungsklage (NJW-RR 2015,626), nicht Anwaltshaftung Risikoaufklaerung (WRONG_TOPIC). BGH IX ZR 143/08 (15.10.2009) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH IX ZR 88/05 entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
+### Quellenregel
 
-### Kommentarliteratur
-
-- Weidenkaff, in: Grüneberg, BGB, 84. Aufl. 2025, § 675 Rn. 10
-  (Anwaltsvertrag; Beratungspflicht, Schadensersatz bei Pflichtverletzung)
-- Heermann, in: MüKoBGB, 9. Aufl. 2022, § 675 Rn. 50
-  (Dienstvertrag mit anwaltlicher Beratungskomponente)
-- Henssler, in: Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80
-  (Mandatsgeheimnis bei Weiterleitung von Arbeitsergebnissen)
-- Martens, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 675 Rn. 30
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Mandatskontext
 
 Prüfe `## Mandatsarbeitsbereiche` im Kanzleiprofil. Wenn aktiviert und
-kein aktives Mandat gesetzt: „Für welches Mandat ist diese Zusammenfassung?
+kein aktives Mandat gesetzt: "Für welches Mandat ist diese Zusammenfassung?
 (`/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechseln <kürzel>` oder `kanzleiebene`)."
 Aktive `mandat.md` für mandatsspezifischen Kontext laden.
 
@@ -110,15 +102,15 @@ dafür ist das Memo da.
 **Struktur (in dieser Reihenfolge):**
 
 1. **Ein Absatz** — Urteil und Vertragsinhalt in Geschäftssprache.
-   Nicht „Dienstleistungsrahmenvertrag für die Bereitstellung
-   cloudbasierter Analysedienste" — sondern „das ist der Vertrag für
+   Nicht "Dienstleistungsrahmenvertrag für die Bereitstellung
+   cloudbasierter Analysedienste" — sondern "das ist der Vertrag für
    das Dashboard-Tool, das das Marketing-Team angefragt hat."
 
 2. **Ein Absatz** — Der Haken, wenn es einen gibt. Was überrascht den
-   Empfänger später, wenn es ihm jetzt keiner sagt? Beispiel: „Achtung:
+   Empfänger später, wenn es ihm jetzt keiner sagt? Beispiel: "Achtung:
    der Vertrag verlängert sich automatisch jährlich; Kündigung muss
    6 Wochen vorher erfolgen. Ich habe es im Fristen-Tracker eingetragen,
-   aber Sie sollten das wissen." Bei sauberem Vertrag: „Kein besonderer
+   aber Sie sollten das wissen." Bei sauberem Vertrag: "Kein besonderer
    Hinweis — alles entspricht Standard."
 
 3. **2–3 Punkte Checkliste** — Was der Empfänger konkret tun muss
@@ -168,7 +160,7 @@ bei Weiterleitung an Nicht-Juristen entfernen]
 
 [Absatz 1: Was ist dieser Vertrag — in Geschäftssprache.]
 
-[Absatz 2: Der Haken, falls vorhanden. Oder: „Kein besonderer Hinweis."]
+[Absatz 2: Der Haken, falls vorhanden. Oder: "Kein besonderer Hinweis."]
 
 **Eskalationsstatus:** [M] von [N] Eskalationspfaden eingeleitet.
 [Ausstehende Adressaten, falls vorhanden]
@@ -184,23 +176,23 @@ bei Weiterleitung an Nicht-Juristen entfernen]
 
 | Juristischer Befund | Übersetzung für Empfänger |
 |---|---|
-| „Haftung auf 12 Monate Vergütung begrenzt" | „Wenn sie etwas kaputt machen, können wir maximal ein Jahresgehalt zurückfordern." |
-| „Keine ordentliche Kündigung" | „Einmal unterschrieben, sitzen wir die Laufzeit aus — wir können nicht einfach kündigen, wenn wir den Dienst nicht mehr nutzen." |
-| „Automatische Verlängerung mit 6-Wochen-Frist" | „Verlängert sich jedes Jahr automatisch. Kündigen müssen wir 6 Wochen vorher." |
-| „Keine Freistellung bei IP-Verletzung" | „Wenn jemand klagt, dass dieses Tool ein Patent verletzt, übernimmt der Anbieter die Verteidigung nicht." |
-| „Unterauftragnehmerliste nicht offengelegt" | „Wir wissen nicht, welche anderen Unternehmen über diesen Anbieter Zugang zu unseren Daten haben." |
-| „AVV fehlt trotz Verarbeitung personenbezogener Daten" | „Datenschutzrechtlich ist dieser Vertrag noch nicht fertig — ein Pflichtanhang fehlt (DSGVO-Anforderung)." |
-| „SLA-Gutschriften auf 10 % der Monatsgebühr begrenzt" | „Wenn das System ausfällt, bekommen wir eine kleine Gutschrift. Die deckt die tatsächlichen Ausfallkosten für das Unternehmen nicht." |
+| "Haftung auf 12 Monate Vergütung begrenzt" | "Wenn sie etwas kaputt machen, können wir maximal ein Jahresgehalt zurückfordern." |
+| "Keine ordentliche Kündigung" | "Einmal unterschrieben, sitzen wir die Laufzeit aus — wir können nicht einfach kündigen, wenn wir den Dienst nicht mehr nutzen." |
+| "Automatische Verlängerung mit 6-Wochen-Frist" | "Verlängert sich jedes Jahr automatisch. Kündigen müssen wir 6 Wochen vorher." |
+| "Keine Freistellung bei IP-Verletzung" | "Wenn jemand klagt, dass dieses Tool ein Patent verletzt, übernimmt der Anbieter die Verteidigung nicht." |
+| "Unterauftragnehmerliste nicht offengelegt" | "Wir wissen nicht, welche anderen Unternehmen über diesen Anbieter Zugang zu unseren Daten haben." |
+| "AVV fehlt trotz Verarbeitung personenbezogener Daten" | "Datenschutzrechtlich ist dieser Vertrag noch nicht fertig — ein Pflichtanhang fehlt (DSGVO-Anforderung)." |
+| "SLA-Gutschriften auf 10 % der Monatsgebühr begrenzt" | "Wenn das System ausfällt, bekommen wir eine kleine Gutschrift. Die deckt die tatsächlichen Ausfallkosten für das Unternehmen nicht." |
 
 ### Was NICHT hineingehört
 
 - Paragraphennummern
 - Definierte Begriffe in Anführungszeichen
-- Das Wort „Haftungsfreizeichnung" (stattdessen: „sie übernehmen keine
+- Das Wort "Haftungsfreizeichnung" (stattdessen: "sie übernehmen keine
   Verantwortung, wenn…")
-- Das Wort „ungeachtet"
+- Das Wort "ungeachtet"
 - Risikomatrizen mit Farbpunkten (sofern nicht explizit angefordert)
-- Relativierungsfloskeln à la „Dies ist keine Rechtsauskunft" — der Empfänger
+- Relativierungsfloskeln à la "Dies ist keine Rechtsauskunft" — der Empfänger
   weiß, wer diese Zusammenfassung geschrieben hat
 
 ## Beispiel
@@ -235,9 +227,9 @@ Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
 ## Risiken und typische Fehler
 
 - **Fristen-Tracker-Eintragung behaupten ohne Prüfung.** Nur dann schreiben
-  „im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlängerungs-monitor`
+  "im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlängerungs-monitor`
   tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
-  „noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
+  "noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
 - **Klauseln trunkieren.** Bedingte Klauseln vollständig paraphrasieren —
   nie verkürzte Version, die die Bedingung weglässt.
 - **Privilegkreis ignorieren.** Bei Weiterleitung außerhalb der
@@ -248,8 +240,8 @@ Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
   nicht kennt, muss der Eskalationsstatus intern vollständig sein.
   Die Zusammenfassung signalisiert dem Anwalt, ob alle Eskalationspfade
   beschritten wurden.
-- **„Kein Risiko" bei sauberem Vertrag nicht sagen.** Stattdessen:
-  „Kein besonderer Hinweis — der Vertrag entspricht unserem Standard
+- **"Kein Risiko" bei sauberem Vertrag nicht sagen.** Stattdessen:
+  "Kein besonderer Hinweis — der Vertrag entspricht unserem Standard
   und ist unterzeichnungsreif."
 
 ## Quellenpflicht
@@ -260,7 +252,7 @@ die folgenden Quellen enthalten (nicht die Zusammenfassung selbst — die
 ist für Nicht-Juristen):
 - Gesetzesnorm (z. B. Art. 28 DSGVO, § 309 Nr. 7 BGB)
 - BGH-Entscheidung in korrekter Zitierweise
-- Kommentarbeleg im Bearbeiterstil
-  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

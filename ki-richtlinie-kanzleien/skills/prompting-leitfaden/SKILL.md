@@ -1,11 +1,11 @@
 ---
 name: prompting-leitfaden
-description: "Prompting-Leitfaden fuer juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Pruefraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-fuer-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste fuer juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz."
+description: "Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Prüfraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-fuer-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste für juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz."
 ---
 
 # Prompting-Leitfaden
 
-Ein „Prompt" ist eine Instruktion an ein KI-System — vergleichbar damit, wie man eine Kollegin oder einen Mitarbeiter um Unterstützung bittet. Effektives Prompten ist eine Kernkompetenz beim KI-Einsatz in der juristischen Praxis. Die Qualität des Outputs hängt unmittelbar von der Qualität der Eingabe ab. Dieser Skill vermittelt die Vier-Elemente-Methode und praxiserprobte Tipps für den juristischen Kontext.
+Ein "Prompt" ist eine Instruktion an ein KI-System — vergleichbar damit, wie man eine Kollegin oder einen Mitarbeiter um Unterstützung bittet. Effektives Prompten ist eine Kernkompetenz beim KI-Einsatz in der juristischen Praxis. Die Qualität des Outputs hängt unmittelbar von der Qualität der Eingabe ab. Dieser Skill vermittelt die Vier-Elemente-Methode und praxiserprobte Tipps für den juristischen Kontext.
 
 ## Rechtlicher Hintergrund
 
@@ -19,16 +19,16 @@ Art. 4 KI-VO: Pflicht zur KI-Kompetenz — die Fähigkeit zum effektiven und sic
 Die **Vier-Elemente-Methode** strukturiert jeden Prompt nach folgenden Elementen:
 
 **Element 1 — Zielformulierung:**
-Formulieren Sie ein klares, spezifisches Ziel. Was soll das KI-System tun? Welches Ergebnis soll erzeugt werden? Achten Sie auf Präzision und Direktheit. Vermeiden Sie vage Anweisungen wie „Schreibe etwas über X" — besser: „Erstelle einen ersten Entwurf des Abschnitts zur Haftungsbegrenzung für einen M&A-Vertrag nach deutschem Recht."
+Formulieren Sie ein klares, spezifisches Ziel. Was soll das KI-System tun? Welches Ergebnis soll erzeugt werden? Achten Sie auf Präzision und Direktheit. Vermeiden Sie vage Anweisungen wie "Schreibe etwas über X" — besser: "Erstelle einen ersten Entwurf des Abschnitts zur Haftungsbegrenzung für einen M&A-Vertrag nach deutschem Recht."
 
 **Element 2 — Ausgabeformat:**
-Beschreiben Sie genau, wie die Informationen dargestellt werden sollen (Fließtext, Stichpunkte, Tabelle, Gliederung, Absatz-Länge, Sprachstil). Legen Sie strukturelle Anforderungen fest (z.B. „Gliedere nach Abschnitten mit Überschriften", „Verwende juristische Fachsprache", „Schreibe in maximal drei Absätzen").
+Beschreiben Sie genau, wie die Informationen dargestellt werden sollen (Fließtext, Stichpunkte, Tabelle, Gliederung, Absatz-Länge, Sprachstil). Legen Sie strukturelle Anforderungen fest (z.B. "Gliedere nach Abschnitten mit Überschriften", "Verwende juristische Fachsprache", "Schreibe in maximal drei Absätzen").
 
 **Element 3 — Hintergrundwissen:**
 Liefern Sie umfassende Kontextinformationen, die das KI-System für die Aufgabe benötigt. Teilen Sie relevante Sachverhaltsdetails mit (anonymisiert!). Nennen Sie anwendbare Normen, auf die das KI-System sich beziehen soll.
 
 **Element 4 — Beispiel:**
-Wenn vorhanden: Zeigen Sie dem KI-System ein Beispiel für den gewünschten Output (Stil, Struktur, Tiefe). Dieses „Few-Shot-Prompting" verbessert die Qualität der Ergebnisse erheblich.
+Wenn vorhanden: Zeigen Sie dem KI-System ein Beispiel für den gewünschten Output (Stil, Struktur, Tiefe). Dieses "Few-Shot-Prompting" verbessert die Qualität der Ergebnisse erheblich.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -48,20 +48,20 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 **Tipps und Tricks für juristische Prompts:**
 
-**Rollenanweisung**: Weisen Sie dem KI-System eine Rolle zu: „Du bist ein erfahrener Anwalt im deutschen Gesellschaftsrecht" oder „Schreibe aus der Perspektive der klagenden Partei." Dies verbessert Stil und Fokus.
+**Rollenanweisung**: Weisen Sie dem KI-System eine Rolle zu: "Du bist ein erfahrener Anwalt im deutschen Gesellschaftsrecht" oder "Schreibe aus der Perspektive der klagenden Partei." Dies verbessert Stil und Fokus.
 
 **Schritt-für-Schritt**: Bei komplexen Aufgaben besser mehrere präzise Einzel-Prompts als ein überladener Mega-Prompt. Ergebnisse schrittweise verfeinern.
 
 **Iteration**: Wenn das Ergebnis nicht passt — nicht aufgeben. Den KI-Chatbot auf Fehler oder Ungenauigkeiten hinweisen und um eine überarbeitete Version bitten.
 
-**Zitate-Verifikation einbauen**: Im Prompt explizit anweisen: „Gib nur Fundstellen an, die du mit hoher Sicherheit kennst, und markiere unsichere Angaben." — Dann trotzdem immer selbst prüfen!
+**Zitate-Verifikation einbauen**: Im Prompt explizit anweisen: "Gib nur Fundstellen an, die du mit hoher Sicherheit kennst, und markiere unsichere Angaben." — Dann trotzdem immer selbst prüfen!
 
 **Kürzere Prompts oft besser**: Ein klar umrissenes Problem führt zu besseren Ergebnissen als eine überladene Anfrage.
 
 **Kontext schaffen**: Für wen ist die Antwort gedacht? Aus welcher Perspektive soll argumentiert werden? Je klarer der Kontext, desto passender das Ergebnis.
 
 **Muster-Prompt juristische Recherche:**
-„Du bist ein erfahrener Jurist im deutschen Datenschutzrecht. Erkläre mir die Anforderungen des Art. 28 DSGVO an einen Auftragsverarbeitungsvertrag mit einem KI-Dienstleister. Strukturiere die Antwort in maximal fünf Stichpunkte mit jeweils zwei bis drei Sätzen Erläuterung. Verwende juristische Fachsprache. Gib nur Normen an, die du mit Sicherheit kennst."
+"Du bist ein erfahrener Jurist im deutschen Datenschutzrecht. Erkläre mir die Anforderungen des Art. 28 DSGVO an einen Auftragsverarbeitungsvertrag mit einem KI-Dienstleister. Strukturiere die Antwort in maximal fünf Stichpunkte mit jeweils zwei bis drei Sätzen Erläuterung. Verwende juristische Fachsprache. Gib nur Normen an, die du mit Sicherheit kennst."
 
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
@@ -80,10 +80,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Prompting-Techniken entwickeln sich mit den KI-Systemen weiter. Was heute gut funktioniert, kann bei einem Modell-Update weniger effektiv sein. Die Schulungsunterlagen sollten jährlich mit aktuellen Erfahrungen und neuen Erkenntnissen aus der juristischen KI-Praxis aktualisiert werden.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Sorgfaltspflicht bei KI-Ausgaben gilt auch fuer fehlerhafte Prompt-Formulierungen die zu falschen Ergebnissen fuehren.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Anwaltliche Sorgfalt umfasst die Qualitaet des Arbeitsprozesses — schlechte Prompts sind kein Entschuldigungsgrund.
-- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Technische Sorgfaltspflicht bei der Nutzung automatisierter Systeme.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Transparenz ueber Systemeinsatz erfordert auch Transparenz ueber den Nutzungsprozess.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Gewissenhafte Berufsausuebung (gilt auch fuer Prompting-Qualitaet)

@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-zivilrecht
-description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer „AGL-Reihenfolge\", „Anspruchsprüfung\", „Willenserklärung auslegen\", „AGB auslegen\" oder „Konkurrenzen Zivilrecht\" sagt."
+description: 'Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer "AGL-Reihenfolge", "Anspruchsprüfung", "Willenserklärung auslegen", "AGB auslegen" oder "Konkurrenzen Zivilrecht" sagt.'
+
 ---
 
 # Methodenlehre — Zivilrecht
@@ -13,10 +14,7 @@ description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspru
 4. Geht es um objektive oder subjektive Auslegung einer Willenserklärung?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung nach §§ 133, 157 BGB: objektiv-normativer Empfaengerhorizont als Massstab; subjektiver Wille des Erklaerenden tritt hinter Empfaengerschutz zurueck.
-- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — AGL-Reihenfolge: Vertrag ist Delikt vorrangig; Bereicherung ist stets subsidiaer.
-- BGH, Urt. v. 25.11.2009 - VIII ZR 318/08, NJW 2010, 1061 — AGB-Auslegung nach § 305c Abs. 2 BGB: Unklarheitenregel, nach der Zweideutigkeit zu Lasten des Verwenders geht.
-- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Konkurrenz § 280 BGB und § 823 BGB: beide koennen gleichzeitig bestehen; spezielle Regeln des Vertragsrechts verdraengen allgemeines Deliktsrecht nicht vollstaendig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegungsmethoden: Grundlage der zivilrechtlichen Methodenlehre
@@ -24,10 +22,9 @@ description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspru
 - § 280 Abs. 1 BGB — Schadensersatz: zentrale Anspruchsgrundlage
 - §§ 812-822 BGB — Bereicherungsrecht: Subsidiaritaet als methodisches Prinzip
 
-## Kommentarliteratur
-- Grüneberg/Ellenberger BGB §§ 133, 157 Rn. 1-50 (Auslegungsregeln im System)
-- MüKoBGB/Basedow §§ 305-310 Rn. 1-80 (AGB: Auslegung und Inhaltskontrolle)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Im Zivilrecht ist die Methodik standardisierter als anderswo: Das Gutachten folgt der Anspruchsgrundlagen-Prüfung, die Konkurrenzen sind dogmatisch geklärt, und die Auslegung von Willenserklärungen hat ein eigenes Methodengerüst (§§ 133, 157 BGB). Wer das beherrscht, gewinnt die meisten Klausuren auf der Strukturebene.
@@ -66,8 +63,8 @@ Eine zivilrechtliche Klausur ohne saubere AGL-Reihenfolge ist verloren. Die kano
 
 Die wichtigste Methodenfrage des BGB AT.
 
-- **§ 133 BGB**: „der wirkliche Wille zu erforschen" — subjektiv.
-- **§ 157 BGB**: „nach Treu und Glauben mit Rücksicht auf die Verkehrssitte" — objektiv.
+- **§ 133 BGB**: "der wirkliche Wille zu erforschen" — subjektiv.
+- **§ 157 BGB**: "nach Treu und Glauben mit Rücksicht auf die Verkehrssitte" — objektiv.
 - **Empfängerhorizont**: Maßgeblich ist, wie der **objektive Empfänger** in der Lage des konkreten Erklärungsempfängers die Erklärung verstehen durfte und musste.
 - Ausnahmen: **falsa demonstratio non nocet** (übereinstimmender innerer Wille schlägt Wortlaut); **interne Auslegung** zwischen Anwesenden ohne objektiven Empfängerhorizont in Sonderkonstellationen.
 
@@ -95,8 +92,8 @@ Prüfungsschritte:
 ## Methodenfehler — typische Klausurfallen
 
 - **AGL springen** (von § 433 zu § 823 ohne Begründung). Pushback: Was hat dich überzeugt, dass § 433 nicht weiterhilft?
-- **„Es liegt ein Vertrag vor"** ohne §§ 145, 147 BGB zu prüfen.
-- **Auslegung übersehen**: Der Fall verlangt nach § 133 BGB; stattdessen wird subsumiert, was der Erklärende „eigentlich gemeint" haben muss — ohne Methode.
+- **"Es liegt ein Vertrag vor"** ohne §§ 145, 147 BGB zu prüfen.
+- **Auslegung übersehen**: Der Fall verlangt nach § 133 BGB; stattdessen wird subsumiert, was der Erklärende "eigentlich gemeint" haben muss — ohne Methode.
 - **AGB-Kontrolle in falscher Reihenfolge**: § 305 II (Einbeziehung) vor § 305c I (überraschende Klausel) vor §§ 307 ff. (Inhaltskontrolle).
 - **falsa demonstratio** wird zu früh angenommen: Voraussetzung ist tatsächlich **übereinstimmender** innerer Wille beider Seiten.
 
@@ -104,7 +101,7 @@ Prüfungsschritte:
 
 1. Skill nennt Fall.
 2. Studierender entwirft AGL-Reihenfolge.
-3. Skill korrigiert ohne Vorgabe: „Warum prüfst du Bereicherung vor Delikt — woraus folgt das?"
+3. Skill korrigiert ohne Vorgabe: "Warum prüfst du Bereicherung vor Delikt — woraus folgt das?"
 4. Pro AGL prüft Studierender. Skill greift bei Subsumtionssprüngen, Auslegungsfehlern, Konkurrenzfehlern ein.
 
 ## Querverweise
@@ -117,4 +114,4 @@ Prüfungsschritte:
 ## Was diese Skill nicht tut
 
 - Sie schreibt keine Lösungsskizze.
-- Sie ersetzt nicht den Palandt/Grüneberg, MüKo, BeckOK — sie übt deren Anwendung.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

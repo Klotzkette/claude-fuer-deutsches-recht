@@ -1,6 +1,6 @@
 ---
 name: grundbuchanalyse
-description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Pruefraster: Abteilung I bis III, Widersprueche, Rangverhaeltnisse, Loeschungsansprueche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragspruefung."
+description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse, Löschungsansprüche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragsprüfung."
 ---
 
 # Grundbuchanalyse
@@ -84,17 +84,11 @@ Objekttabelle und ein einheitliches Risikoschema.
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 11.10.2019 — V ZR 348/17, NJW 2020, 537 Rn. 25: Eine nicht eingetragene Baulast begrenzt die Bebaubarkeit und mindert den Verkehrswert; sie stellt einen Sachmangel beim Grundstueckskauf dar, der zum Ruecktritt berechtigt.
-- BGH, Urt. v. 19.07.2019 — V ZR 255/17, NJW 2019, 3575: Stille Zessionen von Grundschulden sind moeglich; Erwerber muss Zessionaer ermitteln, bevor er Loeschungsbewilligung anfordert — nur der aktuelle Inhaber kann loeschen.
-- BGH, Urt. v. 22.03.2024 — V ZR 81/22, NJW 2024, 1876 Rn. 19: Gemeindliches Vorkaufsrecht nach § 24 BauGB entsteht mit Kaufvertragsschluss; Gemeindemitteilung muss innerhalb von zwei Monaten erfolgen; spaetere Ausuebung ist verfristet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Palandt/Grueenberg, BGB, 83. Aufl. — §§ 873 ff. Rn. 1 ff. Grundbuchrecht
-- Staudinger, BGB §§ 873 ff. — dogmatische Tiefe Sachenrecht
-- Bauer/Oefele, GBO, 4. Aufl. — Grundbuchordnung Kommentar
-- Ernst/Zinkahn, BauGB — §§ 24 ff. Vorkaufsrechte
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Workflow — Schritt fuer Schritt
 
 1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
@@ -117,8 +111,6 @@ Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
 
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BGH V ZR 9/18 (NOT_FOUND) entfernt: Kein Eintrag auf dejure.org für BGH V ZR 9/18 vom 21.06.2019.
   Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
 -->

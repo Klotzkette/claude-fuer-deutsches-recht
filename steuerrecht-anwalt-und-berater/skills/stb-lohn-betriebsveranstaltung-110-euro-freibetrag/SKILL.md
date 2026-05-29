@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-betriebsveranstaltung-110-euro-freibetrag
-description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Pruefung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung."
+description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung."
 ---
 
 # Betriebsveranstaltung — 110-EUR-Freibetrag § 19 Abs. 1 Nr. 1a EStG
@@ -32,12 +32,12 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 
 ### Verwaltungsanweisungen
 
-- BMF v. 14.10.2015 — Betriebsveranstaltung (konkretes Datum vor Uebernahme verifizieren; aktuelle BMF-Schreiben zur Betriebsveranstaltung beachten).
+- BMF v. 14.10.2015 — Betriebsveranstaltung (IV C 5 - S 2332/15/10006; aktuelle ergaenzende BMF-Schreiben ueber BMF-Internet pruefen).
 - LStR R 19.5.
 
-### Leitentscheidungen (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
-- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl). Die zur 110-EUR-Grenze ergangene Rechtsprechung ist umfangreich; aktuelle Entscheidungen vor Mandantengespraech in juris/beck-online pruefen.
+- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl). Die zur 110-EUR-Grenze ergangene Rechtsprechung ist umfangreich; aktuelle Entscheidungen vor Mandantengespraech in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
 
 ## Workflow
 
@@ -122,3 +122,5 @@ Stand: 05/2026.
 - EStG §§ 19 Abs. 1 Nr. 1a, 40 Abs. 2.
 - BMF v. 14.10.2015.
 - LStR R 19.5.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BMF-Datum 14.10.2015 und GZ recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->

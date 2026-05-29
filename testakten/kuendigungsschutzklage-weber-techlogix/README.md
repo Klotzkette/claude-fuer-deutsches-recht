@@ -1,5 +1,14 @@
 # Testakte: Kündigungsschutzklage Weber ./. TechLogix GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-kuendigungsschutzklage-weber-techlogix` (diese Akte) | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktiver Beispielfall** zur Demonstration der `kueschk-*`-Skills im Plugin `arbeitsrecht`.  
 Aktenzeichen Arbeitsgericht Berlin: **28 Ca 7314/26** (fiktiv)
 
@@ -11,7 +20,7 @@ Marcus Weber (44 Jahre, verheiratet, zwei Kinder im Alter von 9 und 13 Jahren) w
 
 Ende März 2026 bestellte Geschäftsführerin Anja Kreutzfeldt Weber ohne vorherige Terminabsprache in ihr Büro. Im Vier-Augen-Gespräch eröffnete sie ihm, das Unternehmen habe strategisch entschieden, den gesamten IT-Betrieb an die DataFlow Solutions GmbH mit Sitz in Frankfurt auszulagern. Die Verhandlungen mit DataFlow seien noch nicht abgeschlossen, die Entscheidung selbst aber gefallen. Weber hielt dieses Gespräch noch am selben Abend in einer handschriftlichen Notiz fest — der einzige zeitnahe Beweis für den Inhalt der Unterredung.
 
-Am 30. April 2026 wurde Weber per Boten eine ordentliche betriebsbedingte Kündigung zum 31. August 2026 zugestellt. Als Zeugin des Einwurfs um ca. 16:42 Uhr stand die Nachbarin Dorothea Koslowski aus dem ersten Obergeschoss bereit. Weber suchte daraufhin Kontakt zum Betriebsratsvorsitzenden Torsten Hähnel, der ihm telefonisch mitteilte, das Betriebsrat-Anhörungsschreiben „zu spät" erhalten zu haben, ohne dies zu präzisieren. Ein Widerspruch des Betriebsrats gegen die Kündigung war nicht eingelegt worden. Weber mandatierte am 6. Mai 2026 einen Rechtsanwalt, der die Klageschrift fristgerecht vor Ablauf der Drei-Wochen-Frist des § 4 KSchG am 20. Mai 2026 beim Arbeitsgericht Berlin einreichte.
+Am 30. April 2026 wurde Weber per Boten eine ordentliche betriebsbedingte Kündigung zum 31. August 2026 zugestellt. Als Zeugin des Einwurfs um ca. 16:42 Uhr stand die Nachbarin Dorothea Koslowski aus dem ersten Obergeschoss bereit. Weber suchte daraufhin Kontakt zum Betriebsratsvorsitzenden Torsten Hähnel, der ihm telefonisch mitteilte, das Betriebsrat-Anhörungsschreiben "zu spät" erhalten zu haben, ohne dies zu präzisieren. Ein Widerspruch des Betriebsrats gegen die Kündigung war nicht eingelegt worden. Weber mandatierte am 6. Mai 2026 einen Rechtsanwalt, der die Klageschrift fristgerecht vor Ablauf der Drei-Wochen-Frist des § 4 KSchG am 20. Mai 2026 beim Arbeitsgericht Berlin einreichte.
 
 Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fehlerhafte oder zumindest lückenhafte Betriebsratsanhörung, eine angreifbare Sozialauswahl (Felix Grunewald, IT-Admin, 32 Jahre, ledig, nur 2 Jahre Betriebszugehörigkeit, wurde nicht entlassen), sowie den Umstand, dass die angebliche unternehmerische Entscheidung — der Outsourcing-Vertrag mit DataFlow Solutions — zum Zeitpunkt der Kündigung noch nicht rechtskräftig besiegelt war. Im Gütetermin signalisierte TechLogix Vergleichsbereitschaft. Die Parteien einigten sich am 18. Juni 2026 auf eine Abfindung von EUR 24.250,00 sowie ein qualifiziertes Zeugnis.
 

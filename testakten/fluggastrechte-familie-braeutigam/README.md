@@ -1,5 +1,14 @@
 # Testakte: Fluggastrechte – Familie Bräutigam-Zaytuna
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-fluggastrechte-familie-braeutigam` (diese Akte) | [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Flüge, Buchungsnummern, Adressen, IBANs, Telefonnummern und
 > sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
 > Testmaterial für das Plugin `fluggastrechte`. Jede Ähnlichkeit mit realen Personen
@@ -39,12 +48,12 @@
 ### Was geschah
 
 Am 11.04.2026, kurz vor dem geplanten Boarding des Rückflugs PSA 4472 am Flughafen
-Suvarnabhumi Bangkok, wurde der Flug wegen „technischer Prüfungen" annulliert.
+Suvarnabhumi Bangkok, wurde der Flug wegen "technischer Prüfungen" annulliert.
 
 Pacific Sky Airways hat:
 - **keine Hotelgutscheine** ausgehändigt (Art. 9 VO 261/2004)
 - **keine Mahlzeitengutscheine** ausgestellt (Art. 9 VO 261/2004)
-- lediglich mitgeteilt: „Technical problems, no vouchers, come back tomorrow"
+- lediglich mitgeteilt: "Technical problems, no vouchers, come back tomorrow"
 
 Die Familie musste auf eigene Kosten handeln:
 - Taxi zum Hotel: 920 THB (~24 EUR)
@@ -70,10 +79,10 @@ Ankunft Frankfurt: ca. 11:35 Uhr am 14.04.2026.
 | Verjährung | 31.12.2029 (§ 195 BGB, BGH X ZR 80/10) |
 | Mandantenkontakt | 20.05.2026 |
 
-### PSA-Einwand: „außergewöhnliche Umstände"
+### PSA-Einwand: "außergewöhnliche Umstände"
 
 PSA beruft sich auf Art. 5 Abs. 3 VO (EG) 261/2004 mit der Begründung, die
-„technische Prüfung am Triebwerk" sei ein außergewöhnlicher Umstand.
+"technische Prüfung am Triebwerk" sei ein außergewöhnlicher Umstand.
 
 **Diese Argumentation ist nach der Rechtsprechung des EuGH nicht tragfähig:**
 
@@ -111,15 +120,15 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 | `Buchungsbestaetigung_PSA_4471.pdf` | PDF | Offizielle Buchungsbestätigung Pacific Sky Airways | Alle 5 Passagiere, Preisübersicht |
 | `bordkarten_hinflug_alle.pdf` | PDF | 5 Bordkarten FRA→BKK PSA 4471, 27.03.2026 | Mit BOARDED-Stempel |
 | `bordkarten_rueckflug_nicht_gestempelt.pdf` | PDF | 5 Bordkarten BKK→FRA PSA 4472, 11.04.2026 | Ohne Boarding-Stempel: NICHT GENUTZT (Annullierung) |
-| `mailverlauf-mit-PSA.pdf` | PDF | 4 E-Mails: 2× Sebastian an PSA, 2× PSA an Sebastian | Enthält PSA-Ablehnung mit „außergewöhnl. Umständen" und Vollmachtsschikane |
+| `mailverlauf-mit-PSA.pdf` | PDF | 4 E-Mails: 2× Sebastian an PSA, 2× PSA an Sebastian | Enthält PSA-Ablehnung mit "außergewöhnl. Umständen" und Vollmachtsschikane |
 | `Hotel_Bangkok_Quittung.pdf` | PDF | Mövenpick BDMS Bangkok, 2 Nächte, 14.847 THB | Mit Zimmer-/Nacht-Aufschlüsselung |
 | `Quittung_Essen_Bangkok.pdf` | PDF | 3 Einzelbelege Verpflegung, gesamt ~4.630 THB | Thai Garden, Tops Market, Hotelrestaurant |
 | `Taxi_Flughafen_2x.pdf` | PDF | Zwei Taxifahrten Flughafen↔Hotel, gesamt 1.840 THB | Hin + Rückfahrt belegt |
 | `Aufstellung_Auslagen.xlsx` | Excel | Tabellarische Auslagenaufstellung + Gesamtforderung | Formeln für EUR-Umrechnung, Kategorie-Summen |
 | `Vollmacht_handschriftlich_Sebastian_Bräutigam.docx` | Word | Laienhafte, fehlerhafte Vollmacht von Sebastian | Fehlt: Yasmins Unterschrift, Kinder komplett vergessen |
 | `Notiz_Sebastian.txt` | Text | Rohe Mandantennotiz vom 20.05.2026 (Telefonat) | Chaotisch, emotional, viele Details vermischt |
-| `IMG_2451.jpeg.placeholder.txt` | Text | Beschreibung Handy-Foto (handschriftl. Notiz am Schalter) | Beweis für fehlende Voucher und Aussage PSA-Mitarbeiter |
-| `whatsapp-screenshot.png.placeholder.txt` | Text | Beschreibung WhatsApp Yasmin↔Schwester Leila | Emotionale Dokumentation der Chaossituation in der Nacht |
+| `Bildbeschreibung_IMG_2451_Notizzettel_Bangkok.md` | Text | Beschreibung Handy-Foto (handschriftl. Notiz am Schalter) | Beweis für fehlende Voucher und Aussage PSA-Mitarbeiter |
+| `Chatverlauf_Yasmin_Leila_Bangkok.md` | Text | Beschreibung WhatsApp Yasmin↔Schwester Leila | Emotionale Dokumentation der Chaossituation in der Nacht |
 
 ---
 
@@ -128,7 +137,7 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 ### 1. Rechtliche Analyse aus unstrukturierten Unterlagen
 
 Der `fluggastrechte`-Skill muss aus einem gemischten Aktendossier (PDFs, Excel, DOCX,
-TXT, Placeholders) die relevanten Fakten extrahieren:
+TXT, Bildbeschreibungen und Aktenvermerken) die relevanten Fakten extrahieren:
 
 - Annullierungsmoment (kurz vor Boarding = nicht rechtzeitig, Art. 5 Abs. 1 lit. c)
 - Verspätungsdauer (53 Stunden → weit über 4 Stunden)

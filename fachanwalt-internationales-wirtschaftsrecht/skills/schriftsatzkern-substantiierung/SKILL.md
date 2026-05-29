@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht
@@ -98,7 +98,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Internationales Wirtschafts- und Schiedsrecht
 
@@ -198,10 +197,7 @@ Vor Versand:
 
 ### Leitsaetze zur Substantiierung im grenzueberschreitenden Prozess
 
-- BGH, Urt. v. 25.09.2019 - XII ZR 29/18, NJW 2020, 218 Rn. 19 — Internationale Zustandigkeit nach Art. 7 Nr. 1 EuGVVO: Erfulllungsort bestimmt sich nach Art. 5 Rom-I-VO und dem materiellen Vertragsrecht; Klaeger muss Erfulllungsort positiv vortragen und belegen.
-- BGH, Beschl. v. 04.03.2021 - I ZR 69/20, NJW-RR 2021, 1073 — Vollstreckbarerklarung auslaendisches Urteil: Klaeger muss Wirksamkeit des Titels im Ursprungsland und Nichtvorliegen der Anerkennungshindernisse (§ 328 ZPO, Art. 45 EuGVVO) substantiiert darlegen.
-- BVerfG, Beschl. v. 31.07.2014 - 2 BvR 2580/12, NJW 2015, 301 — Rechtliches Gehoer bei Versagung von Beweiserhebung: Gericht darf Beweisantrag auf Zeugenbeweis nur ablehnen, wenn die Tatsache als wahr unterstellt werden kann oder Antrag verspatet ist; strengere Anforderungen im grenzueberschreitenden Verfahren.
-- EuGH, Urt. v. 09.03.2023 - C-177/22 (Hackl), NJW 2023, 1723 — Zustandigkeit bei internationalen Verbrauchersachen Art. 18 EuGVVO: Ort der schuldnerischen Hauptniederlassung als Ankerpunkt; Klaeger muss Verbrauchereigenschaft und habitual residence substantiiert vortragen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Schriftsatzsubstantiierung IWR
 
@@ -212,12 +208,9 @@ Vor Versand:
 - **§ 328 ZPO** — Anerkennungshindernisse auslaendischer Urteile; Art. 45 EuGVVO — Versagungsgruende EU
 - **§ 296 ZPO** — Zurueckweisung verspateten Vortrags; § 139 ZPO — richterliche Hinweispflicht
 
-### Kommentarliteratur
+### Quellenregel
 
-- Rauscher, in: MuKo ZPO, §§ 328, 1060, 1061 — Anerkennungsrecht, Schiedsrecht
-- Staudinger/Magnus, CISG Art. 23, 35, 74 — Kommentierung Vertragsschluss und Schadensrecht
-- Schlosser/Hess, EU-Zivilprozessrecht, EuGVVO Art. 7 — Gerichtsstand Erfulllungsort
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Schriftsatzerstellung
 
 Bevor losgelegt wird, klaere:
@@ -240,7 +233,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Eilverfahren noetig | Verkuerztes Template; Eilantrag an zustaendiges Gericht |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template: Klageschrift IWR-Kurzrubrum
 
@@ -302,6 +294,5 @@ VI. BEWEISANGEBOTE
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: BGH VII ZR 83/17 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Rechtsprechungs-Werkzeugkasten) entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

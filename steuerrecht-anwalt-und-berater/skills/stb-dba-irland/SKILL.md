@@ -7,7 +7,7 @@ description: "DBA Deutschland Irland 2011. Anwendungsfall IT- und Pharma-Holding
 
 ## Kernsachverhalt
 
-Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 8) regelt die steuerliche Behandlung im Verhaeltnis zum EU-Mitglied Irland, das niedrige Koerperschaftsteuer (12,5 Prozent — **aktuelle Saetze verifizieren**) bietet und Sitz vieler Holding-Strukturen ist (Apple, Google, Pfizer, viele Pharma- und IT-Konzerne). Praxisrelevant sind Lizenzeinkuenfte, Beteiligungs- und Zinsmodelle und die Pruefung von Substanz nach § 50d Abs. 3 EStG.
+Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regelt die steuerliche Behandlung im Verhaeltnis zum EU-Mitglied Irland, das niedrige Koerperschaftsteuer (12,5 Prozent) bietet und Sitz vieler Holding-Strukturen ist (Apple, Google, Pfizer, viele Pharma- und IT-Konzerne). Praxisrelevant sind Lizenzeinkuenfte, Beteiligungs- und Zinsmodelle und die Pruefung von Substanz nach § 50d Abs. 3 EStG.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,17 +23,17 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 8) regelt die steuerliche Behand
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Irland vom 30.03.2011**, in Kraft 28.11.2012 (BGBl. 2012 II S. 8) — **verifizieren**.
-- Aenderungsprotokoll vom 03.12.2014 — **verifizieren**.
+- **DBA Deutschland-Irland vom 30.03.2011**, in Kraft 28.11.2012 (BGBl. 2012 II S. 1043; BStBl. 2013 I S. 345).
+- Aenderungsprotokoll vom 03.12.2014, in Kraft 30.12.2015 (BGBl. 2015 II S. 1323).
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 8 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Irland haben das MLI unterzeichnet und ratifiziert; DBA-DE-IE gilt MLI-modifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 - **§ 4k EStG** anti-hybrid.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 73/15 zu Irland-Lizenzgebuehren — **verifizieren**.
-- BMF-Schreiben Irland — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu Irland-Holdings und Lizenzstrukturen (§ 50d Abs. 3 EStG, § 4k EStG) in juris abrufen.
+- BMF-Schreiben zu Irland und Substanzanforderungen: aktuellen Stand im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -49,9 +49,9 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 8) regelt die steuerliche Behand
 - Loehne Art. 14: 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**. EU-ZinsLizenzRL bei Verbundenheit 0 Prozent.
+- **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 10 Prozent Beteiligung und mind. 12 Monate Haltedauer), 15 Prozent (Streubesitz). EU-MTRL Schachtel 0 Prozent vorrangig.
+- **Zinsen** (Art. 11): 0 Prozent (Art. 11 Abs. 1 DBA-Irland).
+- **Lizenzgebuehren** (Art. 12): 0 Prozent (Art. 12 Abs. 1 DBA-Irland). EU-ZinsLizenzRL bei Verbundenheit ebenfalls 0 Prozent.
 
 ### Vermeidungs-Methode (Art. 23)
 - Anrechnungsmethode bei passiven Einkuenften.
@@ -59,7 +59,7 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 8) regelt die steuerliche Behand
 
 ### Besonderheiten
 - **Substanztest** § 50d Abs. 3 EStG: zentrale Pruefung bei Irland-Holdings.
-- **CFC** § 7 ff. AStG: niedrige Besteuerung in Irland (12,5 Prozent) traditionell unter Niedrigsteuer-Schwelle § 8 AStG; **aktuelle Niedrigsteuer-Schwelle nach AStG-Reform 2022 verifizieren** (war 25 Prozent, ATAD-Reform diskutiert).
+- **CFC** § 7 ff. AStG: AStG-Niedrigsteuerschwelle durch das Mindestbesteuerungsumsetzungsgesetz vom 21.12.2023 ab VZ 2024 auf 15 Prozent abgesenkt (vorher 25 Prozent). Irische KSt 12,5 Prozent liegt daher ab 2024 unter der Niedrigsteuer-Schwelle.
 - **Hybrid-Mismatches**: § 4k EStG erfasst Irland-Konstellationen.
 - **GloBE / Pillar Two**: ab 01.01.2024 Mindeststeuer 15 Prozent — verschiebt Irland-Vorteil.
 
@@ -94,4 +94,6 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 8) regelt die steuerliche Behand
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Irland 30.03.2011, in Kraft 28.11.2012. Aenderungsprotokoll 03.12.2014. § 4k EStG, AStG-Reform 2022, Pillar Two 2024. **Datum, BGBl-Fundstellen, MLI-Notification, AStG-Niedrigsteuer-Schwelle, Pillar-Two-Umsetzung und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Irland 30.03.2011, in Kraft 28.11.2012 (BGBl. 2012 II S. 1043). Aenderungsprotokoll 03.12.2014 (BGBl. 2015 II S. 1323). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent (Mindestbesteuerungsumsetzungsgesetz 21.12.2023). Pillar Two ab 01.01.2024.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

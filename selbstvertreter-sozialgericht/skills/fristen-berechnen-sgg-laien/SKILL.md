@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnen-sgg-laien
-description: "Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps fuer Buerger ohne Anwalt."
+description: "Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt."
 ---
 
 # Die wichtigsten Fristen im SG-Verfahren

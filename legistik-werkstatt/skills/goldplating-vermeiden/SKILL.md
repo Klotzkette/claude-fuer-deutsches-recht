@@ -1,6 +1,6 @@
 ---
 name: goldplating-vermeiden
-description: "Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen ueber den Richtlinien-Mindeststandard hinaus geprueft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begruendung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformitaet Vereinbarkeit mit EU-Primaerrecht."
+description: "Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begründung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformität Vereinbarkeit mit EU-Primaerrecht."
 ---
 
 # Goldplating vermeiden
@@ -51,19 +51,15 @@ Bei vollharmonisierenden Richtlinien (z.B. Verbraucherrechte-RL 2011/83) ist Gol
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- EuGH, Urt. v. 03.03.2011 — C-41/09 (Kommission/Niederlande), Slg. 2011, I-831 — nationales Recht darf Richtlinie nicht zu Lasten des Buergers und der Wirtschaft ueberschiessen; Goldplating als EU-Vertragsverletzungsrisiko wenn Abweichung in Umsetzungs-Freiheit der Mitgliedstaaten eingreift
-- BVerfG, Beschl. v. 11.06.2013 — 2 BvR 2302/11, BVerfGE 134, 33 Rn. 38 — nationale Umsetzung muss richtlinienkonform sein; gleichwohl Gestaltungsspielraum der Mitgliedstaaten; Goldplating-Klausel in GGO als Instrument zur Begrenzung
-- Bundesverfassungsgericht, Beschl. v. 06.11.2019 — 1 BvR 276/17 (Recht auf Vergessen II), BVerfGE 152, 216 — bei vollharmonisierter RL gilt EU-Recht vollstaendig; nationales Recht darf nicht ueberschiessen; begruendetes Goldplating erfordert Richtlinien-Oeffnungsklausel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 62 Abs. 2 GGO (Goldplating-Vermeidungsgebot) — Art. 288 AEUV (Richtlinien-Regelungs-Spielraum) — §§ 1-3 GoldplatingV (Bundesregierung 2012, Berichtspflicht) — Art. 5 EUV (Verhaeltnismaessigkeit, Subsidiaritaet)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 AEUV Rn. 70 ff. (Umsetzungsspielraum, Goldplating)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 9 Rn. 1 ff. (EU-Richtlinien-Umsetzung, Goldplating-Verbot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.

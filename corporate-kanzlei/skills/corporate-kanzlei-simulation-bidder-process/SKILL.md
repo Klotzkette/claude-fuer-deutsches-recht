@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-simulation-bidder-process
-description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Pruefraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exklusivitaet. Output Process-Letter-Entwurf, Bieter-Vergleichsmatrix, NBO-Template. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; Public M&A siehe public-ma-kapitalmarkt-mar."
+description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exklusivitaet. Output Process-Letter-Entwurf, Bieter-Vergleichsmatrix, NBO-Template. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; Public M&A siehe public-ma-kapitalmarkt-mar."
 ---
 
 # Simulation Bieter-Prozess
@@ -24,16 +24,11 @@ description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simuli
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.03.2011 - II ZR 256/09, NJW 2011, 2207 — Exklusivitaetsvereinbarung: Verstaendigt sich ein Bieter auf Exklusivitaet, haelt Verkaefer sich an diese Pflicht; anderweitiger Abschluss = c.i.c.-Haftung
-- BGH, Urt. v. 29.03.1996 - V ZR 332/94, NJW 1996, 1884 — Vertragsanbahnung: Abbruch laufender Verhandlungen kann bei schuldhafter Träupflichtverletzung Schadensersatz als negatives Interesse auslösen; bei formbeduerftigen Vertraegen in der Regel nur bei vorsaetzlicher Treupflichtverletzung
-- OLG Frankfurt, Urt. v. 04.08.2020 - 23 U 234/19, NJW-RR 2021, 38 — Process Letter ist keine Vertragsofferte; kein Kontrahierungszwang; Verkaefer kann Bieter ohne Begruendung ausschliessen sofern kein schutzwuerdiges Vertrauen entstanden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2 — Auktionsprozess und Transaktionsstruktur
-- MueKo BGB/Sutschet § 241 Rn. 50 ff. — vorvertragliche Schutzpflichten bei Bieterverfahren
-- Grueneberg (vormals Palandt) § 311 Rn. 20 ff. — vorvertragliche Schuldverhaeltnisse
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Auktionsprozess: Phasen und Zeitplan
 
 | Phase | Typische Dauer | Inhalt | Ergebnis |
@@ -128,7 +123,7 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 
 ## Rote Schwellen
 
-- Exklusivitaetsbruch → BGH II ZR 256/09; c.i.c.-Haftung; Schadensersatz negatives Interesse
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MAR-Insider-Vorschriften bei borsennotierten Zielgesellschaften nicht eingehalten → Art. 14 MAR
 - Bieter direkt kontaktiert Management ohne Prozessbevollmaechtigten → Informationsungleichgewicht; Diskriminierungsrisiko
 - SPA-Entwurf nicht standardisiert → Bieter-Markups schwer vergleichbar; Zeitverlust
@@ -136,7 +131,5 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 ## Quellen
 
 - §§ 154, 311 II, 241 II BGB; Art. 18 MAR
-- BGH II ZR 256/09 (Exklusivitaet); BGH V ZR 332/94 (Verhandlungsabbruch c.i.c.); OLG Frankfurt 23 U 234/19 (Process Letter)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2
-
-<!-- AUDIT 27.05.2026: BGH XI ZR 205/95 (24.09.1996) ersetzt. AZ auf dejure.org nicht auffindbar (NOT_FOUND). Korrekte Leitentscheidung zum Verhandlungsabbruch/c.i.c.: BGH, 29.03.1996 — V ZR 332/94, NJW 1996, 1884. Ersatz eingetragen in Rechtsprechung und Quellen. Bundle 017, Task 3. -->

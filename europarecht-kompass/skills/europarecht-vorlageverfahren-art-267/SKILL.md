@@ -1,6 +1,6 @@
 ---
 name: europarecht-vorlageverfahren-art-267
-description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts pruefen. Art. 267 AEUV Vorabentscheidungsverfahren. Pruefraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht fuer Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh)."
+description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh)."
 ---
 
 # Vorlageverfahren Art. 267 AEUV
@@ -59,10 +59,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 06.10.1982 - 283/81 (Cilfit), EuGHE 1982, 3415 — Acte-clair-Doktrin: Letztinstanzgericht kann von Vorlage absehen wenn Antwort so offenkundig ist, dass kein vernaenftiger Zweifel moeglich; Vergleich aller Sprachfassungen erforderlich; Doktrin eng auszulegen.
-- EuGH, Urt. v. 30.09.2003 - C-224/01 (Kobler), EuZW 2003, 689 — Staatshaftung fuer Verletzung der Vorlagepflicht durch letztinstanzliches Gericht: Mitgliedstaat haftet wenn Gericht offenkundig gegen Vorlagepflicht verstoßt; qualifizierter Rechtsverstoß erforderlich.
-- EuGH, Urt. v. 16.12.2008 - C-210/06 (CARTESIO), EuZW 2009, 75 — Zulaessigkeit der Vorlage: nationale Gericht im Sinne Art. 267 AEUV; Schiedsgerichte grundsaetzlich ausgeschlossen; Verwaltungsgerichte eingeschlossen.
-- EuGH, Urt. v. 09.09.2021 - C-544/19 (Eco-Med), EuZW 2021, 933 — Vorlagerecht des nationalen Gerichts: auch wahrend laufender nationaler Revision moeglich; nationales Gericht muss EuGH-Vorlagerecht schuetzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Vorlageverfahren
 
@@ -72,11 +69,9 @@ Bevor losgelegt wird, klaere:
 - **EuGH-Verfahrensordnung Art. 93-118** — Ablauf Vorabentscheidungsverfahren
 - **Eiliges Vorabentscheidungsverfahren (PPU)** Art. 107 EuGH-VerfO — fuer Freiheits-/Haftfragen; Frist ca. 2 Monate
 
-## Kommentarliteratur
+## Quellenregel
 
-- Ehricke, in: Streinz, EUV/AEUV, Art. 267 AEUV Rn. 1-80
-- Calliess/Ruffert, EUV/AEUV, Art. 267 Rn. 1-60
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Vorlagebeschluss-Entwurf (Kurzform)
 
 **Adressat:** EuGH / zu erstellendes Vorlage-Gericht

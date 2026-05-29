@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-iwr
-description: "Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Pruefraster: Mandantenrolle (Exporteur Importeur Investor) Geschaeft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Uebersicht)."
+description: "Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht)."
 ---
 
 # Mandat-Triage Internationales Wirtschaftsrecht
@@ -155,10 +155,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Schluessel-Leitsaetze IWR-Triage
 
-- BGH, Urt. v. 13.04.2022 - III ZR 220/21, NJW 2022, 2193 — Klaerung der internationalen Zustaendigkeit muss vor Erlass jeglicher gerichtlicher Schritte erfolgen; Fehler kann zu Kostenfalle fuehren.
-- EuGH, Urt. v. 17.06.2021 - C-800/19, NJW 2021, 2809 — Bruessel Ia Art. 4 Abs. 1: Gerichtsstand Beklagten-Wohnsitz gilt auch wenn Schiedsklausel vorhanden; Schiedsausnahme Art. 1 Abs. 2 lit. d eng auszulegen.
-- BGH, Beschl. v. 25.01.2021 - I ZB 103/19, NJW 2021, 1378 — New Yorker Uebereinkommen 1958: Versagungsgrund ordre public sehr eng; bloss sachliche Unrichtigkeit des Schiedsspruchs kein Versagungsgrund.
-- BGH, Urt. v. 26.01.2021 - II ZR 391/19, NJW 2021, 1381 — CISG anwendbar bei internationalem Warenkauf; Ausschluss erfordert klare Vertragsklausel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ueberblick IWR-Triage
 - Bruessel Ia VO Art. 4, 7, 25 — Gerichtsstand

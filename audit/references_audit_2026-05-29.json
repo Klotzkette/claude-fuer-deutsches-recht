@@ -1,0 +1,163 @@
+{
+  "dead_references": [
+    {
+      "in_file": "TESTBERICHT.md",
+      "missing_path": "references/mietspiegel-quellen.md"
+    },
+    {
+      "in_file": "vertragsrecht/README.md",
+      "missing_path": "references/renewal-register.yaml"
+    },
+    {
+      "in_file": "forderungsmanagement-klagewerkstatt/README.md",
+      "missing_path": "references/hausregeln.json"
+    },
+    {
+      "in_file": "forderungsmanagement-klagewerkstatt/README.md",
+      "missing_path": "references/belegmuster.md"
+    },
+    {
+      "in_file": "forderungsmanagement-klagewerkstatt/README.md",
+      "missing_path": "references/anlagenliste.md"
+    },
+    {
+      "in_file": "forderungsmanagement-klagewerkstatt/README.md",
+      "missing_path": "references/zustaendigkeit-quellen.md"
+    },
+    {
+      "in_file": "verwaltete-agentenrezepte/due-diligence-tabelle/README.md",
+      "missing_path": "references/excel-output.md"
+    },
+    {
+      "in_file": "verwaltete-agentenrezepte/due-diligence-tabelle/README.md",
+      "missing_path": "references/excel-output.md"
+    },
+    {
+      "in_file": "verwaltete-agentenrezepte/due-diligence-tabelle/README.md",
+      "missing_path": "references/ma-diligence-columns.md"
+    },
+    {
+      "in_file": "verwaltete-agentenrezepte/due-diligence-tabelle/README.md",
+      "missing_path": "references/ma-diligence-columns.md"
+    },
+    {
+      "in_file": "rechtsberatungsstelle/skills/anleiter-pruefwarteschlange/SKILL.md",
+      "missing_path": "references/pruef-warteschlange.yaml"
+    },
+    {
+      "in_file": "produktrecht/skills/produktrecht-kaltstart-interview/SKILL.md",
+      "missing_path": "references/launch-pruefung-framework-de.md"
+    },
+    {
+      "in_file": "kanzlei-builder-hub/skills/verzeichnis-durchsuchen/SKILL.md",
+      "missing_path": "references/registry-cache.json"
+    },
+    {
+      "in_file": "kanzlei-builder-hub/skills/verwandte-skills-vorschlag/SKILL.md",
+      "missing_path": "references/surfaced.json"
+    },
+    {
+      "in_file": "kanzlei-builder-hub/skills/kanzlei-builder-hub-kaltstart-interview/SKILL.md",
+      "missing_path": "references/positivliste.md"
+    },
+    {
+      "in_file": "forderungsmanagement-klagewerkstatt/skills/klagevorlage-aus-eigenen-mustern/SKILL.md",
+      "missing_path": "references/hausregeln.json"
+    },
+    {
+      "in_file": "forderungsmanagement-klagewerkstatt/skills/klage-aus-eigenem-skill/SKILL.md",
+      "missing_path": "references/hausregeln.json"
+    }
+  ],
+  "orphan_reference_files": [
+    "references/dashboard-template.md",
+    "references/company-profile-template.md",
+    "zwangsverwaltung-zvg/references/arbeitsregeln.md",
+    "zwangsverwaltung-zvg/references/amtliche-quellen.md",
+    "vertragsausfueller/references/bsag-feldlogik.md",
+    "vertragsausfueller/references/arbeitsregeln.md",
+    "verkehrsowi-verteidiger/references/zitierstandard-verkehrsowi.md",
+    "verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md",
+    "verkehr-infrastrukturrecht/references/verkehr-infrastrukturrecht-leitplanken.md",
+    "umweltrecht/references/umweltrecht-leitplanken.md",
+    "tabellenreview-3d/references/wuerfel-schema-beispiel.yaml",
+    "tabellenreview-3d/references/methodik-3d-review.md",
+    "strafbefehl-verteidiger/references/zitierstandard-strafbefehl.md",
+    "strafbefehl-verteidiger/references/strafbefehl-leitplanken.md",
+    "rechtsberatungsstelle/references/plausibilitaetsbaender/NRW.md",
+    "rechtsberatungsstelle/references/plausibilitaetsbaender/BY.md",
+    "patentrecherche/references/cpc-ipc-klassen-uebersicht.md",
+    "patentrecherche/references/bpatg-und-epa-rspr-leitentscheidungen.md",
+    "patentrecherche/references/patentdatenbanken-quellen.md",
+    "mittelstand-corporate-ma/references/sicherheitsleitplanken.md",
+    "mittelstand-corporate-ma/references/ma-ki-workflows.md",
+    "mittelstand-corporate-ma/references/look-and-feel.md",
+    "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf",
+    "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf",
+    "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf",
+    "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf",
+    "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf",
+    "kanzlei-allgemein/references/sicherheitsleitplanken.md",
+    "kanzlei-allgemein/references/look-and-feel.md",
+    "jveg-kostenpruefer/references/jveg-regelstand.md",
+    "jveg-kostenpruefer/references/fall-berger-lg-tuebingen.md",
+    "insolvenzverwaltung/references/amtliche-quellen.md",
+    "insolvenzverwaltung/references/planwerkstatt-arbeitsregeln.md",
+    "insolvenzverwaltung/references/planwerkstatt-amtliche-quellen.md",
+    "insolvenzverwaltung/references/arbeitsregeln.md",
+    "insolvenzrecht/references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf",
+    "insolvenzrecht/references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf",
+    "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf",
+    "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf",
+    "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf",
+    "insolvenzplan-starug-planwerkstatt/references/arbeitsregeln.md",
+    "insolvenzplan-starug-planwerkstatt/references/amtliche-quellen.md",
+    "insolvenzforderungsanmeldungspruefung/references/arbeitsregeln.md",
+    "insolvenzforderungsanmeldungspruefung/references/amtliche-quellen.md",
+    "grosskanzlei-corporate-ma/references/sicherheitsleitplanken.md",
+    "grosskanzlei-corporate-ma/references/ma-ki-workflows.md",
+    "grosskanzlei-corporate-ma/references/look-and-feel.md",
+    "geldwaeschepraevention-aml-kyc/references/geldwaeschepraevention-aml-kyc-leitplanken.md",
+    "fortbestehensprognose/references/staerug-uebersicht.md",
+    "fortbestehensprognose/references/idw-s-11-uebersicht.md",
+    "forderungsmanagement-klagewerkstatt/references/zustaendigkeit/quellen.md",
+    "fluggastrechte/references/eu-261-2004-uebersicht.md",
+    "europarecht-kompass/references/europarecht-kompass-leitplanken.md",
+    "energierecht/references/energierecht-leitplanken.md",
+    "einfache-leichte-sprache-jura/references/regelwerk-destillat.md",
+    "corporate-kanzlei/references/sicherheitsleitplanken.md",
+    "corporate-kanzlei/references/ma-ki-workflows.md",
+    "corporate-kanzlei/references/look-and-feel.md",
+    "common-law-kompass/references/common-law-kompass-leitplanken.md",
+    "betreuungsrecht/references/olg-nuernberg-15-wx-988-23.md",
+    "betreuungsrecht/references/konto-und-vertragsverdacht.md",
+    "berufsrecht-ki-vertragspruefung/references/parallelnormen-tabelle.md",
+    "berufsrecht-ki-vertragspruefung/references/dav-stellungnahme-32-2025-kerntexte.md",
+    "berufsrecht-ki-vertragspruefung/references/brak-leitfaden-kurzkritik.md",
+    "aussenwirtschaft-zoll-sanktionen/references/aussenwirtschaft-zoll-sanktionen-leitplanken.md",
+    "vertragsrecht/skills/vertragsverlaengerungs-monitor/references/renewal-register.yaml",
+    "steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate/references/wochenraster-anleitung.md",
+    "steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate/references/idw-s6-kernelemente.md",
+    "steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate/references/vorlage-liquiditaetsplan.xlsx",
+    "steuerrecht-anwalt-und-berater/skills/stb-bwa-sus-bilanz-pruefung/references/insolvenzreife-checkliste.md",
+    "regulatorisches-recht/skills/luecken-aufzeiger/references/gap-tracker.yaml",
+    "regulatorisches-recht/skills/luecken-aufzeiger/references/comment-tracker.yaml",
+    "regulatorisches-recht/skills/aufsichts-feed-monitor/references/source-catalog.md",
+    "rechtsberatungsstelle/skills/anleiter-pruefwarteschlange/references/review-queue.yaml",
+    "prozessrecht/skills/anspruchstabelle/references/element-templates.md",
+    "produktrecht/skills/launch-pruefung/references/seven-category-framework.md",
+    "kanzlei-builder-hub/skills/verzeichnis-durchsuchen/references/registries.yaml",
+    "kanzlei-builder-hub/skills/skill-installierer/references/positivliste.md",
+    "kanzlei-builder-hub/skills/playbook-aus-eigenen-daten/references/spielbuch-vorlage.md",
+    "kanzlei-builder-hub/skills/fundstellenglattzieher/references/regex-muster.md",
+    "gesellschaftsrecht/skills/tabellenpruefung/references/ma-diligence-columns.md",
+    "gesellschaftsrecht/skills/tabellenpruefung/references/gsheets-output.md",
+    "gesellschaftsrecht/skills/tabellenpruefung/references/excel-output.md"
+  ],
+  "stats": {
+    "ref_files_total": 115,
+    "ref_files_used": 29,
+    "ref_files_orphan": 83,
+    "dead_refs": 17
+  }
+}

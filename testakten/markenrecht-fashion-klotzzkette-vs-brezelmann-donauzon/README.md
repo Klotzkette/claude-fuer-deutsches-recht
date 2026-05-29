@@ -1,5 +1,14 @@
 # Testakte: Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon` (diese Akte) | [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Firmen, Marken, Aktenzeichen, Behördenentscheidungen, Geldbeträge,
 > Adressen, Telefonnummern, Kontonummern, E-Mail-Adressen und sonstigen Daten in dieser Akte
 > sind vollständig fiktiv und dienen ausschließlich als Testmaterial für das Plugin
@@ -13,8 +22,8 @@
 
 ### Mandantin
 
-**klôtzzkètté S.A.**, 12 rue du Faubourg Saint-Honoré, 75008 Paris (Frankreich)  
-RCS Paris 552 094 471  
+**klôtzzkètté S.A.**, 12 rue du Faubourg Saint-Honoré, 75008 Paris (Frankreich)
+RCS Paris 552 094 471
 Niederlassung: Via Manzoni 14, 20121 Milano (Italien)
 
 | Person | Funktion |
@@ -22,13 +31,13 @@ Niederlassung: Via Manzoni 14, 20121 Milano (Italien)
 | Comtesse Béatrice de Klôtzzkètté-Visconti | Gründerunkelinnen-Nachfahrin, Présidente d'honneur, Alleingesellschafterin |
 | Étienne Cabriol | Directeur Marketing & Image |
 
-**Deutsche Kanzlei:** Steinacker Lichtenberg & Partners IP Boutique, Maximiliansplatz 19, 80333 München  
-Federführend: Dr. Dr. Annabella Steinacker-von Tarsis, LL.M. (Cantab.), Fachanwältin für gewerblichen Rechtsschutz  
-Mitarbeit: RA Maximilian Freiherr von Brenkenhoff, LL.M.  
+**Deutsche Kanzlei:** Steinacker Lichtenberg & Partners IP Boutique, Maximiliansplatz 19, 80333 München
+Federführend: Dr. Dr. Annabella Steinacker-von Tarsis, LL.M. (Cantab.), Fachanwältin für gewerblichen Rechtsschutz
+Mitarbeit: RA Maximilian Freiherr von Brenkenhoff, LL.M.
 Stundensatz: EUR 690/h (Partnerin), EUR 420/h (Associate)
 
-**US-Kanzlei:** Whitman Brennan Forsythe LLP, 1270 Avenue of the Americas, New York, NY 10020  
-Federführend: J. Halston Whitman III, Esq.  
+**US-Kanzlei:** Whitman Brennan Forsythe LLP, 1270 Avenue of the Americas, New York, NY 10020
+Federführend: J. Halston Whitman III, Esq.
 Koordination: P. Forsythe-Vanderhof
 
 ### Gegner
@@ -60,7 +69,7 @@ Koordination: P. Forsythe-Vanderhof
 |---|---|
 | 1923 | Gründung der Maison klôtzzkètté durch Antoine-Louis Klôtzzkètté in Paris |
 | Herbst 2025 | Erste Berichte über gefälschte K°°-Waren in Brezelmann-Filialen |
-| 09.01.2026 | Markenanmeldung EUTM 019 412 880 „klotzkettie" durch UAB Vilnius |
+| 09.01.2026 | Markenanmeldung EUTM 019 412 880 "klotzkettie" durch UAB Vilnius |
 | 12.01.2026 | Erstkontakt Comtesse → Kanzlei Steinacker Lichtenberg (Telefonat) |
 | 14.01.2026 | Detektei Spürnase-Couture mandatiert; Erstkontakt US-Kanzlei Whitman Brennan |
 | 17.–20.01.2026 | Beobachtungsphase durch Spürnase-Couture (3 Filialen + Lager Königshofen) |
@@ -117,7 +126,7 @@ Koordination: P. Forsythe-Vanderhof
 | `EUIPO_Widerspruch_B-4-187-932_Anmeldung_und_Entscheidung.pdf` | PDF | Widerspruchsschrift (11.02.2026) + EUIPO Zwischenentscheidung (08.05.2026): Teilerfolg Kl. 18, 25, 35 | Art. 8 Abs. 1 lit. b + Art. 8 Abs. 5 UMV; Bösgläubigkeit |
 | `Gutachten_Olfaktorik_Duftmarke_2025-11-15.pdf` | PDF | Sachverständigengutachten Mlle Hortense Périgord (Grasse): GC-MS-Analyse, 7 dominante Peaks, Sieckmann-Bewertung | Gutachten-Nr. HP-2025-GM-0017; Iris pallida / weiße Birne / Wildleder |
 | `Gutachten_Haptikmarke_Tastenberger_2026-03-15.pdf` | PDF | Sachverständigengutachten Prof. Tastenberger (TU Darmstadt): Konfokal-Mikroskopie, Kawabata KES-FB4, sensorisches Panel | Vergleich Brezelmann-Imitat (signifikant abweichend); Louboutin-Analyse |
-| `DPMA_Anti_KI_Zertifizierungsmarke_Anmeldung_2025-10-07.pdf` | PDF | Anmeldung Garantiemarke „klôtzzkètté pure human craft" (§ 106a MarkenG): Anti-KI-Zertifikat | Markensatzung mit KI-Ausschluss; parallele EUIPO-Anmeldung |
+| `DPMA_Anti_KI_Zertifizierungsmarke_Anmeldung_2025-10-07.pdf` | PDF | Anmeldung Garantiemarke "klôtzzkètté pure human craft" (§ 106a MarkenG): Anti-KI-Zertifikat | Markensatzung mit KI-Ausschluss; parallele EUIPO-Anmeldung |
 | `Klageerwiderung_Donauzon_2026-04-10.pdf` | PDF | Klageerwiderung Donauzon Marketplace GmbH (RA Dr. Steffens-Reuter): DSA-Argumentation, Hosting-Haftungsprivileg | Art. 6 DSA; EuGH C-324/09 L'Oréal/eBay; 84 %-Compliance-Nachweis |
 | `USPTO_Filing_Receipt_und_CBP_Recordation.pdf` | PDF | USPTO Filing Receipts (Serial 97/884.117–.121, 5 Anmeldungen) + CBP e-Recordation TMK-26-08812 (aktiv ab 30.03.2026) | Grenzsequestrierungsermächtigung; Haptic Mark 97/884.121 |
 | `TTAB_Opposition_Notice_91-289412.pdf` | PDF | Notice of Opposition vor dem TTAB ./. Klotzkettie LLC: § 2(d) Likelihood of Confusion + § 43(c) Dilution | Common law rights seit 1958; 6-Faktor-Dilution-Analyse |
@@ -126,12 +135,12 @@ Koordination: P. Forsythe-Vanderhof
 | `OLG_Berufungsschrift_6-W-47-26_2026-08-04.pdf` | PDF | Berufungsschrift OLG Frankfurt 6 W 47/26 gegen LG-Urteil (Soundmarke abgewiesen) | Verweis auf BGH I ZB 14/26; Art. 9 UMV Inzidentprüfungsverbot |
 | `BGH_Beschluss_I-ZB-14-26_Soundmarke.pdf` | PDF | BGH-Beschluss I ZB 14/26 (28.04.2026): Aufhebung BPatG-Beschluss zur Soundmarke, Rückverweisung | Senat: Prof. Dr. Koch, Dr. Löffler, Dr. Schwonke, Feddersen, Dr. Odörfer; Sieckmann-Fortentwicklung |
 | `Tribunale_Firenze_Atto_di_Citazione_2026-02-27.pdf` | PDF | Decreto inaudita altera parte des Tribunale di Firenze (R.G. 2026/4471): Beschlagnahme-Ermächtigung für Pitti Uomo | Fumus boni iuris + Periculum in mora; GV Sartori + Carabinieri |
-| `Pinkerton_Surveillance_Report_NYC_2026-05-20.pdf` | PDF | Pinkerton-Bericht PCI-NY-2026-08827-K: 14-tägige Observierung A&K Boulevard Boutique (Kalman); Lager Manhattan Mini Storage | „KLOTZ TEXTILES LTD, Kaunas" als Lieferant identifiziert; 47 Beweisfotos |
+| `Pinkerton_Surveillance_Report_NYC_2026-05-20.pdf` | PDF | Pinkerton-Bericht PCI-NY-2026-08827-K: 14-tägige Observierung A&K Boulevard Boutique (Kalman); Lager Manhattan Mini Storage | "KLOTZ TEXTILES LTD, Kaunas" als Lieferant identifiziert; 47 Beweisfotos |
 | `LG_Protokoll_Verhandlung_11-06-2026.pdf` | PDF | Protokoll der öffentlichen Sitzung LG Frankfurt 11.06.2026 (VRiLG Dr. Wendt-Pasterczyk): Erörterung Soundmarken-Problematik, DSA-Compliance, Schriftsatz-Nachlass bis 25.06. | Brezelmann ohne Anwalt erschienen; Urteilsverkündung 27.07.2026 |
 | `Kostennote_Steinacker_Lichtenberg_26-Q1-014.xlsx` | Excel | Zwischenkostennote Q1/2026 mit 12 Positionen (RVG-Gebühren + Auslagen + Sachverständige) inkl. Formeln; Blatt 2: Zeitaufwandsübersicht 14 Tätigkeiten | IBAN für Überweisung; Gesamtbetrag ca. EUR 94.676,27 brutto (inkl. 19 % USt.) |
 | `Notiz_Comtesse_handschriftlich.txt` | Text | Abschrift der handschriftlichen Fax-Notiz der Comtesse aus Capri (14.03.2026, 23:47 MEZ): emotional, mehrsprachig, strategische Anweisungen | Tinte verschmiert (wahrsch. Rotwein); Rechtschreibfehler; P.P.S. über persönliche Begegnung mit Brezelmann |
-| `whatsapp-comtesse-an-anwalt.png.placeholder.txt` | Placeholder | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
-| `IMG_messeauftritt_brezelmann_pitti.jpeg.placeholder.txt` | Placeholder | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
+| `Chatverlauf_Comtesse_Anwaeltin_2026-03-14.md` | Beschreibung | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
+| `Bildbeschreibung_Messeauftritt_Brezelmann_Pitti_2026-03-10.md` | Beschreibung | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
 
 ---
 
@@ -139,7 +148,7 @@ Koordination: P. Forsythe-Vanderhof
 
 ### 1. Markenrechtliche Grundlagenanalyse aus heterogenem Aktendossier
 
-Der Skill `markenrecht-fashion-luxus` muss aus einer gemischten Mandatsakte (PDFs in DE/EN/IT/FR, Excel, TXT, Placeholders) die rechtlich relevanten Fakten extrahieren:
+Der Skill `markenrecht-fashion-luxus` muss aus einer gemischten Mandatsakte (PDFs in DE/EN/IT/FR, Excel, TXT, Bildbeschreibungen und Aktenvermerken) die rechtlich relevanten Fakten extrahieren:
 
 - Welche Schutzrechte bestehen? (Wortmarke, 3D-Form, Sound, Duft, Haptik, Position, Zertifizierung — 18 Rechte)
 - Welche Verletzungshandlungen sind nachgewiesen? (Testkäufe, Detektivbericht, Foto-Dokumentation)

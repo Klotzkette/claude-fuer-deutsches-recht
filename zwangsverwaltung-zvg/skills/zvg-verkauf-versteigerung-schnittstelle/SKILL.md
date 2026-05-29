@@ -1,6 +1,6 @@
 ---
 name: zvg-verkauf-versteigerung-schnittstelle
-description: "Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsversteigerungsverfahren. Anwendungsfall Zwangsverwaltung soll aufgehoben werden weil Zwangsversteigerung angeordnet wird oder laeuft. Normen § 153b ZVG Aufhebung der Verwaltung §§ 85 ff. ZVG Versteigerungsverfahren. Pruefraster Objektinformationen Besichtigungen Werterhalt Mieterlage Bieterfragen Uebergabeprotokoll Aufhebung. Output Uebergabebericht fuer Versteigerungsverfahren mit Objektzustand Mietlage und Schnittstellen-Dokumentation. Abgrenzung zu zvg-rechnungslegung (Abschluss) und zvg-bieterangebot-bewertung."
+description: "Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsversteigerungsverfahren. Anwendungsfall Zwangsverwaltung soll aufgehoben werden weil Zwangsversteigerung angeordnet wird oder laeuft. Normen § 153b ZVG Aufhebung der Verwaltung §§ 85 ff. ZVG Versteigerungsverfahren. Prüfraster Objektinformationen Besichtigungen Werterhalt Mieterlage Bieterfragen Übergabeprotokoll Aufhebung. Output Übergabebericht für Versteigerungsverfahren mit Objektzustand Mietlage und Schnittstellen-Dokumentation. Abgrenzung zu zvg-rechnungslegung (Abschluss) und zvg-bieterangebot-bewertung."
 ---
 
 # Schnittstelle zu Verkauf und Zwangsversteigerung
@@ -60,18 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 18.05.2006 - IX ZB 25/05, NZI 2006, 531 Rn. 17 — Wenn der Zwangsversteigerungstermin parallel zur Zwangsverwaltung stattfindet, hat der Verwalter die Nutzungen bis zum Zuschlag zu vereinnahmen und zu verwalten; ab Zuschlag gehen die Nutzungen auf den Ersteher über.
-- BGH, Beschl. v. 02.12.2010 - IX ZB 120/09, NZI 2011, 108 Rn. 18 — Der Zwangsverwalter hat keine Möglichkeit, den Versteigerungstermin zu verhindern; er muss aber sicherstellen, dass Bieter über bestehende Mietverhältnisse informiert werden können.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Versteigerungsschnittstelle
 
 § 180 ZVG (Anordnung Zwangsversteigerung parallel) → § 55 ZVG (Zuschlag Wirkungen) → § 56 ZVG (Übergabepflicht) → § 57 ZVG (Mieterschutz Ersteher) → § 57a ZVG (Sonderkündigung Ersteher) → §§ 566 BGB (Kauf bricht nicht Miete) → § 155 ZVG (Schlussrechnung bei Zuschlag)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., §§ 55-57a Rn. 1-40 (Zuschlag und Übergabe)
-- Böttcher ZVG 6. Aufl., § 55 Rn. 10-30 (Wirkung Zuschlag auf Verwaltung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Versteigerungsschnittstelle
 
 1. Läuft parallel ein Zwangsversteigerungsverfahren?

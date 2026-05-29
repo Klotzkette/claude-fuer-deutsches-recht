@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-pruefen
-description: "Frachtfuehrerhaftung fuer Verlust oder Beschaedigung des Gutes nach HGB pruefen. Normen: §§ 425 427 428 HGB. Pruefraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtfuehrerhaftungs-Pruefergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB."
+description: "Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen. Normen: §§ 425 427 428 HGB. Prüfraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtführerhaftungs-Prüfergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB."
 ---
 
 # Frachtführer-Haftung prüfen
@@ -58,12 +58,8 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 95/05 | BGH, 04.05.2007 | § 435 HGB: Organisationsmangel (kein Eingangsscan) begründet Leichtfertigkeit; Frachtführer muss eigene Organisation darlegen |
-| BGH I ZR 88/04 | BGH, 13.10.2005 | CMR Art. 29: gleichstehendes Verschulden bei fehlendem Kontrollsystem im Umschlaglager |
-| BGH I ZR 100/19 | BGH, 30.01.2020 | Schnittstellenkontrolle: kein Nachweis des letzten Scans → Beweislastumkehr zuungunsten Frachtführer |
-| BGH I ZR 239/14 | BGH, 04.02.2016 | Art. 17 Abs. 4 CMR: Privilegierung greift nur wenn Frachtführer tatsächlich Schutzmaßnahmen getroffen hat |
-| BGH I ZR 153/19 | BGH, 12.11.2020 | CMR Art. 31: Gerichtsstandswahl durch Kläger ist bindend; Rüge des Beklagten nach Einlassung zur Sache ausgeschlossen |
-| OLG Düsseldorf I-18 U 69/19 | OLG Düsseldorf, 2020 | § 459 HGB (Fixkosten-Spedition): bei fest vereinbartem Preis haftet Spediteur wie Frachtführer; ADSp-Klausel unwirksam |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -151,7 +147,7 @@ Haftungshöchstbetrag Art. 23 Abs. 3 CMR: [Y] kg × 8.33 SZR
 IV. Hilfsweise: Qualifiziertes Verschulden
 Hilfsweise machen wir geltend, dass die Beklagte Art. 29 CMR /
 § 435 HGB unterliegt. Sie hat [Darlegung des Organisations-
-mangels]. Dies begründet Leichtfertigkeit i.S.d. BGH I ZR 95/05.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Bei Erfolg: voller Warenwert EUR [X].
 
 C. ANTRAG
@@ -171,7 +167,7 @@ Aktenzeichen: [...]
 Frachtführer: [Name]
 Transport: [Strecke, Datum]
 
-Prüfkriterien nach BGH I ZR 95/05 / BGH I ZR 100/19:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. EINGANGSSCAN FEHLT
    [ ] Kein Scan bei Übernahme dokumentiert
@@ -219,7 +215,7 @@ II. KEINE LEICHTFERTIGKEIT
 
 Die Beklagte hat alle üblichen Sicherungsmaßnahmen getroffen:
 [Darlegung: Scans, Kontrollen, Parkplatzsicherung, GPS]
-Von einem Organisationsmangel i.S.d. BGH I ZR 95/05
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kann keine Rede sein.
 
 [Ort, Datum]
@@ -262,11 +258,10 @@ kann keine Rede sein.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Schaden entstand nicht bei uns, sondern beim Unterfrachtführer" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; Regress gegen Unterfrachtführer CMR Art. 37 |
-| „ADSp schränkt unsere Haftung auf 8.33 SZR/kg ein" | § 449 HGB: ADSp-Haftungsbeschränkungen gelten nicht bei qualifiziertem Verschulden; § 435 HGB geht vor |
-| „Eigene Versicherung hat gezahlt; kein Schaden mehr" | § 86 VVG: Versicherung tritt in Ansprüche ein; Direktanspruch gegen Frachtführer bleibt bestehen |
-| „Ware war für Transportart ungeeignet" | Frachtführer muss Ungeeignetheit vor Übernahme rügen und Beförderung ablehnen; stillschweigende Übernahme schließt Einwand aus (BGH I ZR 239/14) |
-| „Wir haben keine Leichtfertigkeit begangen" | BGH I ZR 95/05: fehlender Scan bei Eingangskontrolle genügt; Frachtführer muss sein Kontrollsystem vollständig darlegen |
+| "Schaden entstand nicht bei uns, sondern beim Unterfrachtführer" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; Regress gegen Unterfrachtführer CMR Art. 37 |
+| "ADSp schränkt unsere Haftung auf 8.33 SZR/kg ein" | § 449 HGB: ADSp-Haftungsbeschränkungen gelten nicht bei qualifiziertem Verschulden; § 435 HGB geht vor |
+| "Eigene Versicherung hat gezahlt; kein Schaden mehr" | § 86 VVG: Versicherung tritt in Ansprüche ein; Direktanspruch gegen Frachtführer bleibt bestehen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -287,7 +282,7 @@ kann keine Rede sein.
 | Situation | Empfehlung |
 |---|---|
 | Haftungshöchstbetrag deckt Schaden | Standardklage nach CMR Art. 17/23 oder § 425/431 HGB; kein Aufwand für qualifiziertes Verschulden |
-| Haftungshöchstbetrag viel geringer als Schaden | Intensiv Organisationsverschulden recherchieren; Zeugen, Scans, GPS-Daten auswerten; BGH-Linie BGH I ZR 95/05 nutzen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Frachtführer bestreitet Übernahme in ordnungsgemäßem Zustand | CMR Art. 9: Frachtbrief-Vermutung zugunsten Absender; keine gegenteiligen Frachtführer-Vermerke = Frachtführer muss Gegenteil beweisen |
 | Unterfrachtführer-Kette | Direktklage gegen Hauptfrachtführer (CMR Art. 3) und Regressklage gegen Unterfrachtführer (CMR Art. 37) separat führen |
 | Spedition mit ADSp | Prüfen ob Festpreisvereinbarung § 459 HGB: dann volle Frachtführerhaftung trotz ADSp |
@@ -305,4 +300,4 @@ kann keine Rede sein.
 
 ## Quellen
 
-CMR 1956 Art. 1–3, 17, 23–32, 37, 41. HGB §§ 407–475. BGH I ZR 95/05 (Leichtfertigkeit § 435 HGB). BGH I ZR 88/04 (Art. 29 CMR Organisationsmangel). BGH I ZR 100/19 (Schnittstellenkontrolle). BGH I ZR 239/14 (Privilegierung Art. 17 Abs. 4 CMR). OLG Düsseldorf I-18 U 69/19 (ADSp Fixkostenspediteur). Koller, Transportrecht, aktuelle Auflage. MüKo-HGB Boesche §§ 425 ff. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

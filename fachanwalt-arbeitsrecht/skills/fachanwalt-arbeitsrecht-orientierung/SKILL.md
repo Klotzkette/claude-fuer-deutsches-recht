@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-orientierung
-description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht fuer Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Pruefraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG Standardliteratur. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill."
+description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill."
 ---
 
 # Fachanwalt für Arbeitsrecht — Orientierung
@@ -39,7 +39,7 @@ description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrech
 - **Kündigungsschutzklage** § 4 KSchG — drei Wochen ab Zugang der schriftlichen Kündigung.
 - **Befristungskontrollklage** § 17 TzBfG — drei Wochen nach vereinbartem Ende.
 - **AGG-Entschädigung** § 15 Abs. 4 AGG — schriftliche Geltendmachung binnen zwei Monaten; Klagefrist § 61b ArbGG drei Monate.
-- **Ausschlussfristen** häufig im Arbeitsvertrag oder Tarifvertrag — Wirksamkeit kontrollieren (BAG, Urt. v. 18.09.2018 – Az. 9 AZR 162/18, NZA 2018, 1619 Rn. 28 ff.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Anhörung des Betriebsrats** § 102 BetrVG — eine Woche bei ordentlicher, drei Tage bei außerordentlicher Kündigung.
 - **Sozialplanverhandlungen** § 112 Abs. 2, 3 BetrVG — Einigungsstelle nach Scheitern.
 
@@ -51,16 +51,9 @@ description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrech
 - BVerfG bei Grundrechtsfragen.
 - EuGH bei unionsrechtlichen Fragen (Befristung, Arbeitszeit, Gleichbehandlung).
 
-## Standardliteratur
+## Quellenregel
 
-- Erfurter Kommentar zum Arbeitsrecht (ErfK) — der Kurzkommentar Beck.
-- Henssler/Willemsen/Kalb, Arbeitsrecht Kommentar (HWK).
-- Ascheid/Preis/Schmidt, Kündigungsrecht (APS).
-- KR – Gemeinschaftskommentar zum Kündigungsschutzgesetz.
-- Fitting et al., BetrVG.
-- Däubler/Klebe/Wedde, BetrVG.
-- Schaub, Arbeitsrechts-Handbuch (Praxishandbuch, Beck).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Arbeitsrecht im DAV.
@@ -74,10 +67,7 @@ description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrech
 
 ## Aktuelle Rechtsprechung — Überblick wichtiger Leitentscheidungen
 
-- **BAG, Urt. v. 26.10.2023 — 6 AZR 158/22**, NZA 2024, 234 — Verhaltensbedingte Kündigung: Abmahnungserfordernis auch bei mittleren Pflichtverstößen; keine Ausnahme ohne besondere Umstände; Leitentscheidung zur Verhältnismäßigkeit.
-- **BAG, Urt. v. 21.04.2022 — 2 AZR 369/21**, NZA 2022, 1064 — Betriebsratsanhörung § 102 BetrVG: Fehler bei der Anhörung führen zur Unwirksamkeit der Kündigung; Arbeitgeber muss alle bekannten Informationen vollständig mitteilen.
-- **EuGH, Urt. v. 22.04.2021 — C-580/19 (Stadt Offenbach)**, NZA 2021, 553 — Rufbereitschaft als Arbeitszeit wenn Reaktionszeit so kurz, dass Arbeitnehmer faktisch nicht frei disponieren kann.
-- **BAG, Urt. v. 19.02.2019 — 9 AZR 423/16**, NZA 2019, 493 — Initiativlast des Arbeitgebers bei Urlaubsgewährung; ohne aktiven Hinweis auf Verfallsdatum kein Verfall des Urlaubsanspruchs.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Kernbereiche Individualarbeitsrecht
 
@@ -88,9 +78,6 @@ description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrech
 - §§ 1, 3 BUrlG — Urlaubsanspruch; § 7 Abs. 3 BUrlG — Verfall
 - § 14 TzBfG — Befristung; § 17 TzBfG — Kontrollklage drei Wochen
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK (Erfurter Kommentar), 25. Aufl. 2025 — der Standard-Kurzkommentar
-- HWK/Henssler/Willemsen/Kalb, 11. Aufl. 2024 — Praxiskommentar
-- APS/Ascheid/Preis/Schmidt, Kündigungsrecht, 6. Aufl. 2021
-- KR — Gemeinschaftskommentar zum KSchG, 13. Aufl. 2022
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

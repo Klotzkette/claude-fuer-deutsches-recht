@@ -1,6 +1,6 @@
 ---
 name: europarecht-anwendbarkeit-vorrang-vorabentscheidung
-description: "Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Pruefraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Pruefung CILFIT-Ausnahmen. Output Europarecht-Pruefungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtspruefung (GG)."
+description: "Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Prüfraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Output Europarecht-Prüfungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG)."
 ---
 
 # Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung
@@ -67,7 +67,7 @@ Bei vielen Rechtsfragen — vor allem im Zivilrecht, Verbraucherschutz, Datensch
 ### Marleasing-Doktrin
 
 - Nationales Gericht muss nationales Recht **im Lichte und im Sinne der Richtlinie** auslegen
-- EuGH C-106/89 Marleasing
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auch bei nicht-rechtzeitiger Umsetzung
 - Auslegungs-Grenze: nationale Methodenlehre, Wortlaut, contra-legem-Verbot
 
@@ -77,7 +77,7 @@ Wenn eine Norm des BGB / EnWG / VwGO etc. eine EU-Richtlinie umsetzt, muss die A
 
 #### Konkretes Beispiel
 
-§ 312 BGB iVm Verbraucherrechte-Richtlinie 2011/83/EU — Die Definition „Verbraucher" muss EU-konform interpretiert werden.
+§ 312 BGB iVm Verbraucherrechte-Richtlinie 2011/83/EU — Die Definition "Verbraucher" muss EU-konform interpretiert werden.
 
 ## Schritt 5 — Vorabentscheidungs-Verfahren Art. 267 AEUV
 
@@ -99,7 +99,7 @@ Wenn eine Norm des BGB / EnWG / VwGO etc. eine EU-Richtlinie umsetzt, muss die A
 
 ### In der Hausarbeit
 
-Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 267 AEUV in Betracht kommen, weil ..." — gilt als argumentativer Beleg für die Komplexität der EU-Frage.
+Wenn Du argumentierst: "Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 267 AEUV in Betracht kommen, weil ..." — gilt als argumentativer Beleg für die Komplexität der EU-Frage.
 
 ## Schritt 6 — Grundfreiheiten
 
@@ -184,10 +184,10 @@ Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art
 
 ### Wendungen für die Hausarbeit
 
-- „Die Norm dient der Umsetzung der Verbraucherrechte-Richtlinie 2011/83/EU. Daher ist sie im Lichte der Richtlinie auszulegen."
-- „Nach Art. 33 Abs. 4 der Verordnung (EU) 2022/2065 ist ..."
-- „Der EuGH hat in C-XXX/XX entschieden, dass ..."
-- „Eine Vorabentscheidung nach Art. 267 AEUV käme in Betracht, wenn die Frage erstmals höchstrichterlich zu klären wäre."
+- "Die Norm dient der Umsetzung der Verbraucherrechte-Richtlinie 2011/83/EU. Daher ist sie im Lichte der Richtlinie auszulegen."
+- "Nach Art. 33 Abs. 4 der Verordnung (EU) 2022/2065 ist ..."
+- "Der EuGH hat in C-XXX/XX entschieden, dass ..."
+- "Eine Vorabentscheidung nach Art. 267 AEUV käme in Betracht, wenn die Frage erstmals höchstrichterlich zu klären wäre."
 
 ## Schritt 10 — Verzahnung mit nationalem Verfassungsrecht
 
@@ -200,12 +200,12 @@ Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art
 ### Identitäts-Kontrolle
 
 - BVerfG kontrolliert EU-Recht auf Vereinbarkeit mit der Verfassungs-Identität (Art. 79 III GG)
-- BVerfGE Band 123 Seite 267 (Lissabon-Urteil)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Ultra-Vires-Kontrolle
 
 - BVerfG kontrolliert EU-Akte auf Befugnis-Überschreitung
-- BVerfGE Band 154 Seite 17 (PSPP-Urteil)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hilfsfragen für Deine Reflexion
 

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
-description: "Lebensversicherung Rueckkaufswert und Widerruf nach BGH-Rechtsprechung. Anwendungsfall Versicherungsnehmer will Lebensversicherung kuendigen oder fehlerhafte Widerrufsbelehrung ausnutzen. Normen § 169 VVG Rueckkaufswert § 8 VVG Widerrufsrecht BGH IV ZR 73/13 Endlos-Widerrufs-Joker § 153 VVG Bewertungsreserve. Pruefraster Rueckkaufswert-Berechnung Mindestbetrag Stornogebuehr-Verbot Widerrufsbelehrung Fehler Endlos-Joker Bewertungsreserve. Output Rueckforderungsschreiben mit Berechnung Widerrufserklaerung und Klagestrategie. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-pruefen und fachanwalt-versicherungsrecht-deckungsklage."
+description: "Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Lebensversicherung Rückkauf
@@ -25,7 +25,7 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ### Stornogebuehr
 
-- BGH, Urt. v. 25.7.2012 — IV ZR 201/10: Stornogebuehr unwirksam, soweit unzulaessig hoch
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei alten Verträgen oft Rückforderung möglich
 
 ## 2) Widerrufs-Joker
@@ -33,7 +33,7 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 ### Hintergrund
 
 - Fehlerhafte Widerrufsbelehrung in Versicherung
-- BGH IV ZR 73/13: Endlos-Widerrufs-Joker bei Lebensversicherung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei BGH-Bestätigung: Vertrag kann auch nach Jahren widerrufen werden
 
 ### Voraussetzung
@@ -89,9 +89,7 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ## 5) Aktualität — BGH-Linien
 
-- BGH, Urt. v. 7.5.2014 — IV ZR 73/13 (Widerrufs-Joker)
-- BGH, Urt. v. 25.7.2012 — IV ZR 201/10 (Stornogebuehr)
-- BGH, Urt. v. 25.7.2018 — IV ZR 309/17 (Bewertungs-Reserve)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 6) Honorar
 
@@ -117,29 +115,27 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 07.05.2014 — **IV ZR 73/13**, NJW 2014, 2099 Rn. 28: Bei fehlerhafter Widerrufsbelehrung in Lebensversicherungsverträgen, die zwischen 1994 und 2007 geschlossen wurden, kann der Versicherungsnehmer auch nach Jahren noch widerrufen (sog. ewiges Widerrufsrecht); der Versicherer muss alle eingezahlten Prämien nebst Zinsen zurückgewähren, abzüglich des genossenen Versicherungsschutzes.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.07.2012 — **IV ZR 201/10**, BGHZ 194, 208 Rn. 17: Stornogebühren in Lebensversicherungsverträgen sind nach § 307 BGB unwirksam, soweit sie den Rückkaufswert unter die Mindestgrenze des § 169 Abs. 3 VVG (Summe der angesetzten Prämien abzüglich der Kosten) drücken; § 169 VVG ist Schutzvorschrift zugunsten des Versicherungsnehmers.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.07.2018 — **IV ZR 309/17**, NJW 2018, 2859 Rn. 22: Bewertungsreserven aus festverzinslichen Anlagen, die nach § 153 Abs. 3 VVG a.F. hälftig dem Versicherungsnehmer zuzuweisen waren, sind nicht durch Geschäftsplan-Regelungen des Versicherers verringerbar; Beteiligung des Versicherungsnehmers ist zwingend, sofern Mindest-Überschussbeteiligung sichergestellt ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerfG, Beschl. v. 15.02.2006 — **1 BvR 1317/96**, BVerfGE 114, 73 Rn. 60: Die Beteiligung der Versicherungsnehmer an stillen Reserven (Bewertungsreserven) ist verfassungsrechtlich geboten; eine Vertragsgestaltung, die Versicherungsnehmer von der Beteiligung an den Erträgen vollständig ausschließt, verletzt Art. 2 Abs. 1 GG in Verbindung mit dem Rechtsstaatsprinzip.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 169 VVG (Rückkaufswert, Mindestbetrag) → § 153 VVG (Überschussbeteiligung) → § 165 VVG (Beitragsfreistellung) → §§ 8, 9 VVG (Widerrufsrecht) → § 307 BGB (AGB-Inhaltskontrolle Stornogebühren) → § 346 BGB (Rückabwicklung nach Widerruf) → § 195 BGB (Verjährung 3 Jahre) → § 199 BGB (Kenntnis-Beginn)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Prölss/Martin, VVG, 31. Aufl. 2021, § 169 VVG Rn. 1 ff.: Rückkaufswert-Berechnung, Mindestbetrag, Stornogebühren-Ausschluss; § 153 VVG: Überschuss- und Bewertungsreservenbeteiligung.
-- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, §§ 8, 9 VVG: Widerrufsrecht in Versicherungsverträgen, Folgen fehlerhafter Belehrung, Fristbeginn.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Situation | Frist | Rechtsgrundlage |
 |---|---|---|
 | Widerrufsrecht (ordnungsgemäß belehrt) | 30 Tage ab Belehrung | § 8 Abs. 1 VVG |
-| Widerrufsrecht (fehlerhafte Belehrung) | kein Erlöschen (ewiges Widerrufsrecht) | BGH IV ZR 73/13 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verjährung Rückkaufswert-Differenz | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
 | Verjährung (absolute Höchstfrist) | 10 Jahre ab Entstehung | § 199 Abs. 4 BGB |
 
@@ -147,7 +143,7 @@ BVerfG, Beschl. v. 15.02.2006 — **1 BvR 1317/96**, BVerfGE 114, 73 Rn. 60: Die
 
 1. **Vertragsabschluss vor oder nach 01.01.2008?** → Vor 2008 (alter VVG): Widerrufs-Joker prüfen; nach 2008 § 8 VVG (30-Tage-Frist).
 2. **Belehrungstext prüfen:** Entspricht er dem Gesetzesmuster? Wesentliche Elemente (Fristbeginn, Form, Rechtsfolgen) klar angegeben?
-   - Fehlend/falsch → ewiges Widerrufsrecht nach BGH IV ZR 73/13.
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - Korrekt → ordentlicher Widerruf nur innerhalb von 30 Tagen möglich.
 3. **Rückkaufswert-Berechnung:** Angebot des Versicherers mit gesetzlichem Mindestbetrag § 169 Abs. 3 VVG abgleichen.
 4. **Stornogebühren im Vertrag?** → AGB-Kontrolle § 307 BGB; unwirksam wenn Rückkaufswert unter Mindestbetrag fällt.
@@ -187,7 +183,7 @@ vom [ABSCHLUSSDATUM].
 Begründung:
 Die Widerrufsbelehrung entspricht nicht den gesetzlichen Anforderungen
 des § __ VVG [a.F./n.F.]. [Konkret: fehlendes Element]. Die
-Widerrufsfrist hat daher nach BGH IV ZR 73/13 nie begonnen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ich fordere Sie auf, bis zum [DATUM + 4 WOCHEN] folgendes zurückzuzahlen:
 - Alle eingezahlten Prämien: EUR [BETRAG GESAMT]

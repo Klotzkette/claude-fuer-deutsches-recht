@@ -24,17 +24,11 @@ description: "Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeum
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 11.10.2022 - 4 StR 194/22, NStZ 2023, 184 — Wiedereinsetzung setzt fehlendes Verschulden voraus; unrichtige Fristberechnung durch das Gericht schliesst Verschulden des Verteidigers aus wenn kein Anlass zur Ueberpruefung bestand.
-- OLG Hamm, Beschl. v. 14.06.2021 - 5 RVs 43/21, NZV 2021, 531 — Zustellungsfiktion nach § 180 ZPO gilt im Strafbefehlsverfahren; bloss spaetere Kenntnisnahme ohne konkrete Darlegung (Urlaub, Krankheit, Abwesenheit) genuegt nicht zur Widerlegung.
-- BVerfG, Beschl. v. 26.04.2023 - 2 BvR 310/23, NJW 2023, 1951 — Gebot des fairen Verfahrens sichert Zugang zu Wiedereinsetzungsrecht; uebertriebene formale Anforderungen an die Glaubhaftmachung verstoessen gegen Art. 2 Abs. 1 GG.
-- OLG Koeln, Beschl. v. 18.02.2019 - 2 RVs 14/19, NStZ-RR 2019, 182 — Wiedereinsetzungsantrag muss konkret darlegen warum kein Verschulden vorliegt; pauschale Behauptung genuegt nicht; eidesstattliche Versicherung ist notwendig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 44 Rn. 1-30 (Wiedereinsetzung vollstaendig)
-- Meyer-Gossner/Schmitt StPO § 45 Rn. 1-20 (Antrag, Glaubhaftmachung)
-- LR-StPO / Jaenicke § 44 (historische Entwicklung und aktuelle Rechtsprechung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Wiedereinsetzung
 
 ```

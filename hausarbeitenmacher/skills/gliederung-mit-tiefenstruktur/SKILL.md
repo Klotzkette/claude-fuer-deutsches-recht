@@ -1,6 +1,6 @@
 ---
 name: gliederung-mit-tiefenstruktur
-description: "Student erstellt Gliederung fuer juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht oeffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Pruefraster Gliederungs-Logik Hierarchie Pruefungsschema-Sichtbarkeit Vollstaendigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt)."
+description: "Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt)."
 ---
 
 # Gliederung mit Tiefen-Struktur
@@ -13,10 +13,7 @@ description: "Student erstellt Gliederung fuer juristische Hausarbeit mit korrek
 4. Sollen Hilfsweise-Pruefungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Anspruchsgrundlagen muessen in der logischen Reihenfolge geprueft werden; zunaechst speziellere Normen, dann allgemeine (Lex-specialis-Grundsatz).
-- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Keine Vermischung verschiedener Anspruchsgrundlagen ohne Abgrenzung; strukturierte Gliederung ist Pruefungsvoraussetzung.
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Konkurrierende Ansprueche muessen erkennbar getrennt geprueft werden; Zusammenfuehren ohne Abgrenzung begruendet methodischen Fehler.
-- BVerfG, Beschl. v. 04.02.1975 - 2 BvL 5/74, BVerfGE 38, 386 — Logische Konsistenz juristischer Argumentationsstruktur ist verfassungsrechtliches Gebot des Rechtsstaatsprinzips.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben: Gliederung muss die rechtlichen Beziehungen vollstaendig abbilden
@@ -24,10 +21,9 @@ description: "Student erstellt Gliederung fuer juristische Hausarbeit mit korrek
 - §§ 195 ff. BGB — Verjährung als eigener Gliederungspunkt bei Anspruchs-Erloesung
 - § 362 BGB — Erfuellung als erster Erloeschungsgrund in Gliederungs-Unterebene
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 1 Rn. 1-30 (Systemdenken im BGB als Grundlage der Gliederung)
-- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, Einl. Rn. 10-25 (Anspruchsgrundlagen-System und Rangfolge)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Eine gute Gliederung zeigt schon im Inhaltsverzeichnis, ob Du das Problem verstanden hast. Sie ist die Schiene, auf der die Argumentation läuft.
@@ -131,7 +127,7 @@ A. Strafbarkeit T wegen Diebstahl gemäß § 242 StGB
 ### Warum diese Reihenfolge?
 
 - **Vertraglich** vor **gesetzlich**: Vertrags-Anspruch ist regelmäßig spezieller
-- **Vorvertraglich** vor **dinglich**: c.i.c. wird oft als „neben-vertraglich" gerechnet
+- **Vorvertraglich** vor **dinglich**: c.i.c. wird oft als "neben-vertraglich" gerechnet
 - **Vor Bereicherung**: weil bei Vorliegen eines Vertrags Bereicherung typisch ausgeschlossen ist (Bestandsschutz Leistungs-Anspruch)
 
 ## Schritt 4 — Tiefe der Gliederung
@@ -195,7 +191,7 @@ C. Gegenanspruch B gegen A auf Lieferung mangelfreier Sache aus § 437 Nr. 1 BGB
 Wenn dieselbe Voraussetzung in zwei Anspruchs-Grundlagen geprüft wird:
 
 ✅ Beim ersten Mal vollständig prüfen.
-✅ Beim zweiten Mal verweisen: „Auf die Ausführungen unter A. I. wird verwiesen."
+✅ Beim zweiten Mal verweisen: "Auf die Ausführungen unter A. I. wird verwiesen."
 
 ### Problem 2: Tief-Verschachtelung
 

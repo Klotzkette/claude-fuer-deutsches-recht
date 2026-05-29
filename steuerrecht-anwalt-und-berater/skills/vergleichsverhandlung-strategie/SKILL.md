@@ -1,23 +1,17 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Steuerstreit und Steuerprozess entwickeln. Anwendungsfall Mandant will Steuerstreit durch Einigung beenden ohne Urteil oder Verfahren steht vor Schlussbesprechung oder Eroerrterungstermin FG. ZOPA BATNA Verhandlungsfenster Druckmittel Settlement-Skript. Tatsaechliche Verstaendigung BFH IV R 87/85 Schlussbesprechung § 201 AO Eroerrterungstermin FG § 79 FGO. Output Verhandlungsstrategie-Memo Vergleichsentwurf Protokoll- oder Anwaltsvergleich. Abgrenzung zu anw-tatsaechliche-verstaendigung-schlussbesprechung und anw-steuerstrafverteidigung-verstaendigung."
+description: "Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 
 ## Aktuelle Rechtsprechung (Vergleich/Einigung)
 
-- BFH, Urt. v. 11.12.1984 - VIII R 131/76, BStBl II 1985, 354 Rn. 12 — Die tatsächliche Verständigung zwischen Steuerpflichtigem und Finanzbehörde über streitige Sachverhalte ist rechtlich wirksam, wenn sie in einem förmlichen Verfahren (Außenprüfung, Einspruchsverfahren) nach gegenseitigem Nachgeben getroffen wird; sie bindet das FA grundsätzlich.
-- BFH, Urt. v. 31.07.1996 - XI R 78/95, BStBl II 1996, 625 Rn. 14 — Eine tatsächliche Verständigung über Schuldausschluß oder Schuldhöhe in Steuerstrafverfahren ist nur wirksam, wenn sie schriftlich festgehalten und von allen Beteiligten einschließlich des zuständigen Sachgebietsleiters unterzeichnet wird.
-- BFH, Beschl. v. 04.12.2012 - VIII B 69/12, BFH/NV 2013, 398 Rn. 8 — Ein Vergleich im finanzgerichtlichen Verfahren kann in Form eines Prozessvergleichs (§ 794 Abs. 1 Nr. 1 ZPO i.V.m. § 155 FGO) vollstreckbar gemacht werden; er ist als Vollstreckungstitel wirksam.
-- BGH, Urt. v. 14.06.2006 - VIII ZR 261/04, NJW 2006, 2626 Rn. 18 — Eine pauschale Abgeltungsklausel in einem Vergleich erfasst nur solche Ansprüche, die erkennbar von den Vertragsparteien als von ihr umfasst angesehen worden sind; unbekannte Ansprüche werden nur bei ausdrücklicher Erwähnung abgegolten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Kruse, AO/FGO, § 201 AO Rn. 1-30 (Tatsächliche Verständigung in der Schlussbesprechung)
-- Golluch, FGO, § 155 Rn. 30-50 (Prozessvergleich im finanzgerichtlichen Verfahren)
-- Klein, AO, § 227 Rn. 1-25 (Billigkeitserlass; Güte und Einigung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Sachverhalte aus dem Bereich Steuerrecht (Beratung und Prozess), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.

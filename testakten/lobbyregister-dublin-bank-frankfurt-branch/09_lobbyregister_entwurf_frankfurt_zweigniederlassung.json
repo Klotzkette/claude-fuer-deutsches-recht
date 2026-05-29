@@ -1,0 +1,8 @@
+{
+  "register_entwurf": "streitig_nicht_freigeben_ohne_rfs",
+  "organisation": "Emerald Liffey Bank plc Zweigniederlassung Frankfurt am Main",
+  "rechtstraeger_pruefung": "keine eigene juristische Person; nur Zweigniederlassung",
+  "portalrisiko": "moeglich irrefuehrende Darstellung als eigenstaendige Organisation",
+  "doppelungsrisiko": ["dieselben betrauten Personen", "dieselben Finanzaufwendungen", "dieselben Regelungsvorhaben"],
+  "empfehlung": "nur als technische Rueckfrage an registerfuehrende Stelle verwenden, nicht absenden"
+}

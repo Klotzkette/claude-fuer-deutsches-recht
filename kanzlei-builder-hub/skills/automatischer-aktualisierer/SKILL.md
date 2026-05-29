@@ -1,6 +1,6 @@
 ---
 name: automatischer-aktualisierer
-description: "Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Pruefraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung."
+description: "Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Prüfraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung."
 ---
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review
@@ -27,13 +27,12 @@ Community-Skills verbessern sich. Dieser Skill bemerkt, wenn eine neue Version v
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9 — Haftung bei Verletzung von Organisationspflichten in der Kanzlei; sorgfaltsgemäße Einrichtung und Überwachung technischer Systeme ist geschuldeter Anwaltspflichtstandard.
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211 — Rechtsanwalt haftet für unzureichende Überprüfung eingesetzter Software in der Mandatsbearbeitung, wenn dadurch Datenverlust entsteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55 — Verschwiegenheitspflicht und technische Schutzmaßnahmen beim Einsatz von KI-Werkzeugen in der Kanzlei.
-- Hähnchen, NJW 2024, 1137 (1141) — KI-gestützte Rechtsdienstleistung: Anforderungen an Qualitätssicherung; einschlägig zu Update-Kontrolle als Bestandteil des Qualitätsmanagements.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
@@ -70,7 +69,7 @@ Dann die Vertrauensprüfung durchführen:
 - **Hat sich `.mcp.json` geändert?** Neue oder geänderte MCP-Server können auf die Umgebung zugreifen.
 - **Hat sich `allowed-tools` oder `tools` im Frontmatter erweitert?** Neuer Werkzeugzugriff ist eine Berechtigungseskalation.
 - **Gibt es neue Netzwerkaufrufe, Dateischreibvorgänge außerhalb des Skill-Verzeichnisses oder Code-Ausführung in der SKILL.md?** Diese kennzeichnen.
-- **Hat sich die `description` des Skills oder sein angegebener Zweck geändert?** Ein Skill, der behauptete, „NDAs zu prüfen", und jetzt behauptet, „Verträge zu senden", hat sich umprogrammiert.
+- **Hat sich die `description` des Skills oder sein angegebener Zweck geändert?** Ein Skill, der behauptete, "NDAs zu prüfen", und jetzt behauptet, "Verträge zu senden", hat sich umprogrammiert.
 
 ### Schritt 2.5: Erneuter Scan der neuen Version (GlassWorm-Sperre)
 
@@ -81,7 +80,7 @@ Den vollständigen `skills-qualitaetspruefung`-Scan gegen die NEUE Version durch
 1. **Bei Regression schließen.** Wenn die neue Version Befunde erzeugt, wo die alte keine hatte — in einer beliebigen `skills-qualitaetspruefung`-Kategorie — Update standardmäßig verweigern und erklären warum.
 2. **Sicherheitsrelevante Diffs erfordern menschliche Genehmigung unabhängig vom Urteil.** Jede Änderung an `ausloeser/ausloeser.json`, `.mcp.json`, `allowed-tools`/`tools`-Frontmatter, neuer `Bash`/`WebFetch`/`WebSearch`-Zugriff, neue externe URLs, neue Dateischreibpfade außerhalb des Skill-Verzeichnisses oder das `description`-Frontmatter erzwingt einen menschlichen Genehmigungsprompt.
 3. **Leseschutz-Scan-Kontext.** Der Scan liest angreiferkontrollierten Text (die neue SKILL.md). Im Leseschutz-Subagenten mit Read + WebFetch + Glob ausführen (kein Write, kein Bash, kein MCP), wenn verfügbar.
-4. **Update verweigern, wenn Scan jetzt fehlschlägt.** Kein „trotzdem anwenden"-Option. REFUSE-Ausgabe und Stopp.
+4. **Update verweigern, wenn Scan jetzt fehlschlägt.** Kein "trotzdem anwenden"-Option. REFUSE-Ausgabe und Stopp.
 
 ### Schritt 2.6: Aktualitätsbedingte Neu-Verifikation
 
@@ -91,7 +90,7 @@ Für jeden installierten Skill aus dem Installationsprotokoll `last_verified`, `
 
 **Wenn aktives Fenster abgelaufen ist UND es keinen neueren Commit gibt:**
 
-> „Dieser Skill wurde seit [Datum] nicht aktualisiert und sein Referenzmaterial wurde zuletzt am [Datum] verifiziert — das Aktualitätsfenster von [N Monaten] ist überschritten. Optionen:
+> "Dieser Skill wurde seit [Datum] nicht aktualisiert und sein Referenzmaterial wurde zuletzt am [Datum] verifiziert — das Aktualitätsfenster von [N Monaten] ist überschritten. Optionen:
 > (a) [verified_against-URLs] selbst prüfen,
 > (b) beim Registry-Maintainer melden,
 > (c) Skill bis zur erneuten Verifikation deaktivieren."
@@ -102,11 +101,11 @@ Immer bei Update neu verifizieren, nicht still anwenden. Ein neuer Commit beweis
 
 ### Schritt 3: Gemäß Einstellung verarbeiten
 
-**Benachrichtigen (Standard):** Vollständigen Diff und Vertrauensprüfung anzeigen. „Update verfügbar. Den obigen Diff prüfen. Anwenden? [ja/nein]"
+**Benachrichtigen (Standard):** Vollständigen Diff und Vertrauensprüfung anzeigen. "Update verfügbar. Den obigen Diff prüfen. Anwenden? [ja/nein]"
 
 **Manuell:** Nur auflisten, was Updates hat. Nutzer führt `/kanzlei-builder-hub:automatischer-aktualisierer --apply [skill]` aus, wenn bereit.
 
-Es gibt keinen „automatischen" Modus. Updates für Code in der Kanzleiumgebung erfordern immer, dass ein Mensch den Diff liest.
+Es gibt keinen "automatischen" Modus. Updates für Code in der Kanzleiumgebung erfordern immer, dass ein Mensch den Diff liest.
 
 ### Schritt 4: Anwenden (nach expliziter Genehmigung)
 
@@ -119,7 +118,7 @@ Für jedes Update:
 - Vollständiger Diff aller geänderten Dateien
 - Vertrauensprüfungs-Ergebnisse (Automatische Auslöser, MCP, Werkzeugberechtigungen, Netzwerkaufrufe)
 - skills-qualitätsprüfung-Scan-Ergebnis für neue Version
-- Genehmigungsprompt: „Anwenden? (ja / nein)"
+- Genehmigungsprompt: "Anwenden? (ja / nein)"
 
 ## Beispiel
 
@@ -161,9 +160,8 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - § 50 BRAO (Aktenführung; Versionsprotokollierung)
 - AI Act Art. 26 (Deployer-Pflichten; Überwachung von KI-Systemänderungen)
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9
-- BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55
-- Hähnchen, NJW 2024, 1137 (1141)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

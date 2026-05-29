@@ -1,23 +1,17 @@
 ---
 name: fachanwalt-familienrecht-zugewinnausgleich-berechnen
-description: "Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermoegen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermoegen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermoegen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Pruefraster: Anfangsvermoegen/Endvermoegen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermoegen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjaehrung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen."
+description: "Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermögen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermögen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Prüfraster: Anfangsvermögen/Endvermögen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermögen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjährung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen."
 ---
 
 # Zugewinnausgleich berechnen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.02.2018 - XII ZB 338/17, NJW 2018, 1250 Rn. 22 — Der Zugewinnausgleich berechnet sich nach dem Endvermoegen zum Stichtag der Rechtshaengigkeit des Scheidungsantrags (§ 1384 BGB); spaeterne Vermoegensveraenderungen sind grundsätzlich nicht mehr zu beruecksichtigen.
-- BGH, Urt. v. 14.11.1979 - IVb ZR 75/79, FamRZ 1980, 129 Rn. 14 — Das Anfangsvermoegen ist mit dem Verbraucherpreisindex auf den Stichtag des Endvermoegens zu indexieren, um Geldwertveraenderungen waehrend der Ehedauer auszugleichen.
-- BGH, Beschl. v. 02.06.2010 - XII ZR 170/08, FamRZ 2010, 1310 Rn. 18 — Illoyale Vermoegensminderungen nach § 1375 Abs. 2 BGB werden dem Endvermoegen des Schuldners hinzugerechnet; dazu zaehlren unentgeltliche Verfuegungen ohne Zustimmung des Ehegatten nach § 1365 BGB.
-- BGH, Urt. v. 25.06.2003 - XII ZR 161/01, FamRZ 2003, 1455 Rn. 16 — Die Verpflichtung zur Auskunft nach § 1379 BGB umfasst saemtliche Aktiva und Passiva zum Stichtag; die Pflicht kann durch einstweilige Anordnung gesichert werden, wenn Verdacht auf Vermoegensverschiebung besteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MuKoBGB/Koch, §§ 1372-1390 Rn. 1-80 (Zugewinnausgleich, Indexierung, Auskunft)
-- Gruenteich BGB, § 1375 Rn. 1-30 (Illoyale Vermoegensminderungen)
-- BeckOK BGB/Schnitzler, § 1379 Rn. 1-25 (Auskunftsanspruch Stufenklage)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Wann wurde die Ehe geschlossen, wann wurde Trennung erklärt, wann Zustellung des Scheidungsantrags (Stichtag § 1384 BGB für Endvermögen)?
@@ -32,14 +26,14 @@ description: "Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder
 - Beendigung durch Tod, Scheidung oder Vereinbarung; Ausgleichsforderung als Geldanspruch (§ 1378 Abs. 1 BGB).
 - Anfangsvermögen (§ 1374 BGB) = Aktiva − Passiva bei Eheschließung; Erbschaften, Schenkungen, Ausstattung nach § 1374 Abs. 2 BGB werden hinzugerechnet (privilegierter Erwerb).
 - Endvermögen (§ 1375 BGB) = Aktiva − Passiva am Stichtag § 1384 BGB (Rechtshängigkeit des Scheidungsantrags). Illoyale Vermögensminderungen werden hinzugerechnet (§ 1375 Abs. 2 BGB).
-- Indexierung des Anfangsvermögens nach Verbraucherpreisindex (st. Rspr. seit BGH IVb ZR 75/79, Urt. v. 14.11.1979).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zugewinn = Endvermögen − Anfangsvermögen (nicht negativ — § 1373 BGB).
 - Ausgleichsforderung = (Zugewinn des Höhergewinnenden − Zugewinn des Wenigergewinnenden) ÷ 2 (§ 1378 Abs. 1 BGB).
 - Begrenzung: Ausgleichsforderung wird durch Vermögen des Schuldners am Stichtag begrenzt (§ 1378 Abs. 2 BGB).
 - Auskunftsanspruch zu drei Stichtagen Trennung, Beendigung und ergänzend Anfangsvermögen (§ 1379 BGB seit 2009) — Stufenklage § 254 ZPO.
 - Verjährung Ausgleichsforderung: drei Jahre § 195 BGB ab Kenntnis der Beendigung des Güterstands (§ 199 BGB).
 
-Standardliteratur: Grüneberg BGB §§ 1372 ff.; MüKo-BGB / Koch zu §§ 1372–1390.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beweislast
 

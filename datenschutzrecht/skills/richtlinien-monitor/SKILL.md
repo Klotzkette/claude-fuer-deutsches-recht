@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformitaet monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Pruefraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstaetigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht fuer erstmalige Richtlinien-Erstellung."
+description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung."
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung
@@ -81,8 +81,8 @@ Verbindlich nach `../../references/zitierweise.md`.
 - EDSA-Leitlinien 03/2022 zu Dunklen Designmustern (Consent-Flows)
 - EDSA-Leitlinien 05/2020 zu Einwilligung
 - Paal, in: Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 13 Rn. 1 ff.
-- Kühling, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 13 Rn. 1 ff.
-- Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 13 Rn. 1 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -106,12 +106,12 @@ Verbindlich nach `../../references/zitierweise.md`.
 **Analyse:**
 - Neue Datenkategorie: Nein (Nutzungsverhalten bereits erfasst).
 - Neuer Empfänger (Drittland USA): **Ja** – Art. 13 Abs. 1 lit. f DSGVO (Drittlandtransfer mit Transfermechanismus angeben).
-- Transfermechanismus prüfen: DPF, SCC Modul 1 oder 2? TIA erforderlich (EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2945).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Consent-Management: Ist der Anbieter nur nach Einwilligung aktiv (§ 25 TDDDG)? Dann Cookie-Banner anpassen (neue Kategorie / neuer Anbieter).
 - DSFA: `anwendungsfall-triage` empfehlen – bei umfangreichem Tracking ggf. DSFA nach Art. 35 DSGVO erforderlich.
 
-**Änderungsentwurf (Datenschutzerklärung, Abschnitt „Drittlandsübermittlung"):**
-> „[Neue Passage] Wir übermitteln Daten an [Anbieter] mit Sitz in den USA. Die Übermittlung erfolgt auf Grundlage von [Transfermechanismus: EU-Standardvertragsklauseln nach Beschluss 2021/914/EU / EU-US Data Privacy Framework]. Eine Transferfolgenabschätzung liegt vor. Weitere Informationen erhalten Sie auf Anfrage bei unserem Datenschutzbeauftragten."
+**Änderungsentwurf (Datenschutzerklärung, Abschnitt "Drittlandsübermittlung"):**
+> "[Neue Passage] Wir übermitteln Daten an [Anbieter] mit Sitz in den USA. Die Übermittlung erfolgt auf Grundlage von [Transfermechanismus: EU-Standardvertragsklauseln nach Beschluss 2021/914/EU / EU-US Data Privacy Framework]. Eine Transferfolgenabschätzung liegt vor. Weitere Informationen erhalten Sie auf Anfrage bei unserem Datenschutzbeauftragten."
 
 ## Risiken / typische Fehler
 
@@ -132,10 +132,7 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen des TDDDG, neuen EDSA-Leitli
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88: Datenschutzerklärungen müssen die tatsächliche Verarbeitungspraxis widerspiegeln; abweichende Praxis führt zu Verstoß gegen Art. 13/14 DSGVO auch ohne Schaden.
-- EuGH, Urt. v. 26.01.2023 — C-154/21 (RW/Österreichische Post), NJW 2023, 1037 Rn. 38–52: Art. 15 Abs. 1 lit. c DSGVO verlangt konkrete Angabe der Empfänger (nicht nur Kategorien), wenn der Verantwortliche Kenntnis von konkreten Empfängern hat; Datenschutzerklärungen mit nur abstrakten Kategorien verstoßen gegen Art. 13 DSGVO.
-- BGH, Urt. v. 28.05.2020 — I ZR 7/16 (Cookie-Einwilligung), NJW 2020, 2540 Rn. 50: Aktive Einwilligung für nicht-notwendige Cookies erforderlich; Datenschutzerklärung muss Cookie-Praxis vollständig abbilden. Gilt heute entsprechend nach § 25 TDDDG (n.F.).
-- OLG Düsseldorf, Urt. v. 09.03.2023 — I-20 U 56/22, GRUR-RS 2023, 5678 Rn. 18: Zur TDDDG-Konformität von Cookie-Bannern; Drift zwischen implementierter Cookie-Praxis und Datenschutzerklärung begründet Abmahnrisiko (§ 3a UWG).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

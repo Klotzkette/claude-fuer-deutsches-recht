@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Sozialrecht (SGB I-XIV)
@@ -13,15 +13,11 @@ description: "Substantiierter Schriftsatzkern fuer Widerspruch + SG-Klage, Eilan
 5. Prozesskostenhilfe für Mandant erforderlich (§ 73a SGG i.V.m. § 114 ZPO)?
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 14.12.2017 - B 10 LW 2/17 R, SozR 4-5868 § 1 Nr. 5 Rn. 14 — Darlegungsobliegenheit im Sozialgerichtsverfahren: Kläger muss Tatsachen vortragen und Beweise bezeichnen; das Gericht ermittelt von Amts wegen (§ 103 SGG), ist aber nicht verpflichtet, offensichtlich unplausiblen Sachvortrag weiter aufzuklären.
-- BSG, Urt. v. 17.12.2015 - B 2 U 11/14 R, SozR 4-2700 § 2 Nr. 35 Rn. 18 — Amtsermittlungsgrundsatz (§ 103 SGG): Gericht ist an Anträge der Beteiligten nicht gebunden; muss aber bei begründeten Anhaltspunkten von Amts wegen in Richtung sachlicher Klärung ermitteln; sachliche Einwände müssen benannt werden.
-- BSG, Urt. v. 05.07.2016 - B 3 KR 22/15 R, SozR 4-2500 § 33 Nr. 52 Rn. 16 — Hilfsantraege im Sozialrecht: kumulatives und alternatives Zusammentreffen mehrerer Leistungsansprüche möglich; Priorisierung durch Antragstellung; Subsidiarität nach § 2 SGB XII beachten.
-- BSG, Urt. v. 25.03.2021 - B 14 AS 22/20 R, SozR 4-4200 § 22 Nr. 119 Rn. 12 — Prozesskostenhilfe-Bewilligung: hinreichende Erfolgsaussicht (nicht Erfolgsgewissheit) genügt; sozialrechtliche Materie ist komplex; bei nicht offensichtlicher Aussichtslosigkeit ist PKH zu bewilligen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Kasseler Kommentar SGG §§ 54, 103 (Klageart und Amtsermittlung)
-- Hauck/Noftz SGG §§ 73a, 86b (PKH und einstweiliger Rechtsschutz)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Sozialrecht (SGB I-XIV) erstellt werden, typischerweise: Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X.

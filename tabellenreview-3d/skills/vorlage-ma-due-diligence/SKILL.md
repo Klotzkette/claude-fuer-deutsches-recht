@@ -1,6 +1,6 @@
 ---
 name: vorlage-ma-due-diligence
-description: "Vorlagetabelle fuer M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Pruefraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle fuer M-und-A-Transaktionen. Abgrenzung: nicht allgemeines M-und-A-Skill."
+description: "Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Prüfraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle für M-und-A-Transaktionen. Abgrenzung: nicht allgemeines M-und-A-Skill."
 ---
 
 # /tabellenreview-3d:vorlage-ma-due-diligence
@@ -14,7 +14,7 @@ M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind be
 1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
 2. **Laufzeit und Beginn** — Vertragsdatum + Festlaufzeit / unbefristet
 3. **Kündigungsfrist** — ordentliche / außerordentliche / Sondertatbestände
-4. **Change-of-Control** — Klausel vorhanden / Schwelle / Rechtsfolge (BGH KZR 2/07)
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **MAC-Klausel** — Wesentlichkeitsdefinition / Rechtsfolge (BGB Paragraph 313 / 314)
 6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsübernahme
 7. **Haftungsbegrenzung** — pro Fall / pro Jahr / Ausschluss Vorsatz und grobe Fahrlaessigkeit
@@ -58,10 +58,7 @@ M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind be
 
 ## BGH-Leitsätze (Auswahl)
 
-- BGH KZR 2/07 — Kündigung bei mittelbarem Kontrollwechsel
-- BGH V ZR 30/08 — Due-Diligence-Pflicht des Käufers / Kenntnis von Mängeln
-- BGH I ZR 193/15 — Vertragsübernahme ohne Schuldnerzustimmung
-- BGH IX ZR 31/91 — Abtretungsausschluss
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabe
 

@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Bank-, Kapitalmarkt- und Wertpapierrecht
@@ -163,16 +163,11 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ### Leitsaetze zum Erstgespräch / Mandat
 
-- BGH, Urt. v. 14.03.2013 - IX ZR 117/12, NJW 2013, 1880 — Anwalt verletzt Pflicht zum vollstaendigen Hinweis auf Verjaebrungsfristen bereits bei Erstberatung; Haftung aus § 280 Abs. 1 BGB.
-- BGH, Urt. v. 18.12.2008 - IX ZR 179/07, NJW 2009, 1141 — Anwalt muss Mandanten ungefragt auf Risiken hinweisen, die fuer das Mandat wesentlich sind; auch kuenftige Gebuehren sind fruehzeitig zu benennen.
-- BGH, Urt. v. 05.02.2015 - IX ZR 167/13, NJW 2015, 1457 Rn. 12 — Anwaltsvertrag setzt voraus, dass die Leistungspflicht ausreichend bestimmt ist; unklare Mandatsabgrenzung fuehrt zu Haftungsrisiken.
-- BGH, Urt. v. 25.10.2018 - IX ZR 168/17, NJW 2019, 387 — Frist- und Pflichtenverstoss bei Anwalt begruendet Schadensersatz auch ohne Nachweis, dass bessere Beratung zu anderem Ergebnis gefuehrt haette (Kausalitaetsprivileg des Schadensersatzrechts).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Kleine-Cosack BRAO § 43a (Grundsaetze anwaeltlicher Taetigkei): Interessenkollision, Verschwiegenheit
-- Gaier/Wolf/Goebel, Anwaltliches Berufsrecht, 3. Aufl. — Mandatsannahme, GwG-Pflichten
-- Herzog GwG § 10 — Sorgfaltspflichten Anwaelte
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Triage-Fragen Bank-/Kapitalmarktrecht — Sofort-Checkliste
 
 Bevor losgelegt wird, klaere folgende Punkte:

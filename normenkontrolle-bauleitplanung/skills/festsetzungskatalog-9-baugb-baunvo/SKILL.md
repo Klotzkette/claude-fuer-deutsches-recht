@@ -1,6 +1,6 @@
 ---
 name: festsetzungskatalog-9-baugb-baunvo
-description: "Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschliessender Festsetzungskatalog BauNVO. Pruefraster: Festsetzungen ausserhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1 Nr. 4 BauGB Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Output: Festsetzungs-Pruefprotokoll und Teilunwirksamkeitsbegruendung. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegung) und vorhabenbezogener-bebauungsplan-12-baugb."
+description: "Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1 Nr. 4 BauGB Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Output: Festsetzungs-Prüfprotokoll und Teilunwirksamkeitsbegründung. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegung) und vorhabenbezogener-bebauungsplan-12-baugb."
 ---
 
 # Festsetzungs-Katalog § 9 BauGB iVm BauNVO
@@ -29,7 +29,7 @@ description: "Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtsw
 
 ### Konsequenz Abschließlichkeit
 
-- Festsetzungen außerhalb sind **unwirksam** (BVerwG 4 BN 33.04)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bezugnahme auf Spezialgesetze nur soweit § 9 BauGB dies zulässt
 - Konstruktion **"Hinweise"** vs. **Festsetzungen** entscheidend
 
@@ -66,7 +66,7 @@ Drei Faktoren nach § 16 ff. BauNVO:
 
 - Nur bei besonderen städtebaulichen Gründen
 - Begründung im Plan zwingend
-- BVerwG 4 BN 22.05 zur Voraussetzungs-Strenge
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nr. 3 — Überbaubare und nicht überbaubare Grundstücksflächen
 
@@ -112,7 +112,7 @@ Drei Faktoren nach § 16 ff. BauNVO:
 ### Nr. 24 — Festsetzung zur Erhaltung gesunder Wohn- und Arbeitsverhältnisse
 
 - Passiver Schallschutz, gestaltete Außenwohnbereiche
-- BVerwG 4 BN 13.05
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 3 — Festsetzungen außerhalb § 9 BauGB
 
@@ -122,18 +122,18 @@ Drei Faktoren nach § 16 ff. BauNVO:
 
 - "Es gelten die Anforderungen der DIN xxxx in der jeweils geltenden Fassung"
 - Problematisch: Dynamische Verweisung auf ändernde Spezial-Regelungen
-- BVerwG 4 BN 16.07: nur **statische** Bezugnahme zulässig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Fehler 2: Mobilitätskonzept als Festsetzung
 
 - Häufig: B-Plan setzt "Mobilitätskonzept ist Bestandteil der Satzung" fest
 - Problematisch: Konkrete Inhalte oft nicht in der Satzung, sondern nur in Anlagen-Papier
-- BayVGH 1 N 18.1245: Mobilitätskonzept-Festsetzungen müssen hinreichend bestimmt sein
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Fehler 3: Energetische Anforderungen über GEG-Standard
 
 - Festsetzung "Effizienzhaus 40" — zulässig nur als Festsetzung der Erschließungs-Tiefenstandards
-- BVerwG 4 BN 11.16 zur Reichweite
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Fehler 4: Werbe-Anlagen und Außengastronomie
 
@@ -167,7 +167,7 @@ Drei Faktoren nach § 16 ff. BauNVO:
 
 - Für Bahnflächen gelten Sondervorschriften
 - BauGB-Festsetzungen sind eingeschränkt
-- BVerwG 4 C 7.04 (Urt. v. 16.12.2004) Leitentscheidung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konsequenz für nicht-entwidmete Bahnflächen
 
@@ -323,13 +323,7 @@ f) **§ 18 Satzung "Bahnflächen"** — Hinweis auf nicht-entwidmete DB-Flächen
 - BauNVO §§ 1-26
 - PlanzVO
 - BayBO Art. 47, 81
-- BVerwG 4 BN 33.04 (abschließender Katalog)
-- BVerwG 4 BN 16.07 (dynamische Verweisung)
-- BVerwG 4 BN 13.05 (§ 9 Abs. 1 Nr. 24)
-- BVerwG 4 BN 22.05 (§ 17 BauNVO)
-- BVerwG 4 BN 11.16 (energetische Anforderungen)
-- BVerwG 4 C 7.04 (Bahnflächen)
-- BayVGH 1 N 18.1245
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
 - Söfker BauNVO

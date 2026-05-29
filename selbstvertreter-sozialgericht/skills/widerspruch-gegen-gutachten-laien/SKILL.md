@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-gutachten-laien
-description: "Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte fuer den Buerger ohne Anwalt."
+description: "Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt."
 ---
 
 # Sich gegen ein negatives Gutachten wehren

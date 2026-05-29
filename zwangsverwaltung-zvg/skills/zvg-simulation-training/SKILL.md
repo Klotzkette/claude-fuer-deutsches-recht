@@ -1,6 +1,6 @@
 ---
 name: zvg-simulation-training
-description: "Simulation und Training fuer Zwangsverwaltung mit einem achtstuendigen Praxistag. Anwendungsfall Verwalter oder Kanzleimitarbeiter will Zwangsverwaltungs-Workflows trainieren oder Plugin demonstrieren. Deckt Mieterpost Objektgefahr Kontoabgleich Gericht Bericht und Verteilung ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen Lernnotizen und Leistungsbewertung. Abgrenzung zu zvg-kommandocenter (Echtbetrieb) und zvg-quality-gate."
+description: "Simulation und Training für Zwangsverwaltung mit einem achtstuendigen Praxistag. Anwendungsfall Verwalter oder Kanzleimitarbeiter will Zwangsverwaltungs-Workflows trainieren oder Plugin demonstrieren. Deckt Mieterpost Objektgefahr Kontoabgleich Gericht Bericht und Verteilung ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen Lernnotizen und Leistungsbewertung. Abgrenzung zu zvg-kommandocenter (Echtbetrieb) und zvg-quality-gate."
 ---
 
 # Simulation und Training
@@ -60,8 +60,7 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Ergänzende Rechtsprechung
 
-- BGH, Beschl. v. 04.10.2007 - IX ZB 220/06, NZI 2007, 726 Rn. 20 — Fehlerhafte Entscheidungen des Zwangsverwalters können auch dann zu Haftungsansprüchen führen, wenn sie auf Unkenntnis beruhen; die Fortbildungspflicht ist Teil der Berufsstandards eines Zwangsverwalters.
-- OLG Stuttgart, Beschl. v. 25.03.2010 - 8 W 121/10, Rpfleger 2010, 456 — Simulationstraining und Fall-Übungen sind in der Ausbildung zum Zwangsverwalter als methodisches Mittel anerkannt; praxisnahe Trainings zu typischen Konfliktszenarien erhöhen die Handlungssicherheit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Aus-/Fortbildung ZVG
 

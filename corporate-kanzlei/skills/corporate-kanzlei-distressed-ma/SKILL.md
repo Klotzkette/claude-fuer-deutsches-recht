@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-distressed-ma
-description: "Distressed M&A: Begleitet Unternehmenskaeufe aus Insolvenz oder Krise. Normen: InsO Asset Deal, § 179a AktG, §§ 21 ff. StaRUG, Insolvenzanfechtung §§ 129 ff. InsO. Leitsaetze BGH IX ZR zu Anfechtungsrisiken und Erwerb aus Insolvenzmasse."
+description: "Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Distressed M&A
@@ -28,17 +28,11 @@ description: "Distressed M&A: Begleitet Unternehmenskaeufe aus Insolvenz oder Kr
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 16.09.2021 - IX ZR 70/20, BGHZ 231, 42 — Anfechtungsrisiko nach § 133 InsO: auch Kaeufer einer Unternehmenstransaktion ist nicht geschuetzt wenn er von drohender Zahlungsunfaehigkeit des Verkaefers wusste
-- BGH, Urt. v. 11.02.2021 - IX ZR 173/18, NZI 2021, 411 — § 613a BGB in der Insolvenz: Betriebsuebergang liegt vor, wenn wesentliche Betriebsmittel und ggf. Belegschaft uebernommen werden; keine pauschale Ausnahme
-- BGH, Urt. v. 27.03.2019 - IX ZR 7/18, BGHZ 222, 24 — Masseverbindlichkeit und Haftung des Erwerbers: Erwerber haftet nicht fuer Altverbindlichkeiten bei Erwerb aus Insolvenzmasse (kein § 25 HGB)
-- OLG Frankfurt, Urt. v. 25.06.2020 - 4 U 236/19, NZG 2021, 109 — Distressed M&A: Kaufpreisgestaltung unter Zeitdruck ohne ordnungsgemaesse Bewertung kein Nachteil fuer Glaeubiger, wenn markterprobter Prozess
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo InsO/Kirchhof §§ 129-147 Rn. 1 ff. — Insolvenzanfechtung
-- Uhlenbruck InsO (15. Aufl. 2019) § 80 — Verwaltungs- und Verfuegungsbefugnis; Distressed M&A-Praxis
-- Gravenbrueck/Diem, Distressed M&A (2020) — praxisorientiertes Handbuch
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Distressed M&A: Prozessstruktur
 
 | Phase | Dauer | Inhalt | Besonderheit |
@@ -53,7 +47,7 @@ description: "Distressed M&A: Begleitet Unternehmenskaeufe aus Insolvenz oder Kr
 
 Im Gegensatz zum normalen M&A ist im Distressed-Fall der Asset Deal Standard:
 
-1. **Keine Haftung fuer Altverbindlichkeiten** des Insolvenzschuldners — § 25 HGB gilt nicht bei Erwerb aus Insolvenzmasse (BGH IX ZR 7/18)
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Arbeitnehmer-Selektionsmoeglickeit** — kein automatischer Uebergang aller Arbeitnehmer, aber § 613a BGB beachten
 3. **Steuerliche Vergangenheit bleibt** bei Insolvenzschuldner — kein Steuerrisiko aus Vergangenheit
 4. **Freie Vermoegensauswahl** — Erwerber kann einzelne Assets, Vertraege, IP herauspicken
@@ -124,5 +118,5 @@ Datum: [DATUM]
 ## Quellen
 
 - §§ 80, 129-147, 159-173 InsO; §§ 125-128 InsO; § 613a BGB; § 179a AktG; §§ 21 ff. StaRUG
-- BGH IX ZR 70/20 (Anfechtungsrisiko); BGH IX ZR 173/18 (§ 613a InsO); BGH IX ZR 7/18 (§ 25 HGB)
-- MueKo InsO/Kirchhof §§ 129 ff.; Uhlenbruck InsO § 80
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

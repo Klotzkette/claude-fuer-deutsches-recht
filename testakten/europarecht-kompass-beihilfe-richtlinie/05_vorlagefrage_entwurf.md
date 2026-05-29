@@ -87,7 +87,7 @@ Dem **Gerichtshof der Europäischen Union** werden folgende Fragen zur Vorabents
 
 ### Vorlagefrage 4 (Grundfreiheiten und Vergabeklausel)
 
-> **Sind Art. 49 und Art. 56 des Vertrags über die Arbeitsweise der Europäischen Union dahin auszulegen, dass eine Nebenbestimmung in einem kommunalen Förderbescheid, die den Zuwendungsempfänger anhält, Aufträge für Tiefbauleistungen „vorrangig" an Unternehmen mit Betriebssitz im örtlichen Landkreis zu vergeben, auch dann mit den Grundfreiheiten unvereinbar ist, wenn diese Nebenbestimmung als bloße Sollvorschrift ohne Rechtsanspruch der begünstigten Unternehmen ausgestaltet ist?**
+> **Sind Art. 49 und Art. 56 des Vertrags über die Arbeitsweise der Europäischen Union dahin auszulegen, dass eine Nebenbestimmung in einem kommunalen Förderbescheid, die den Zuwendungsempfänger anhält, Aufträge für Tiefbauleistungen "vorrangig" an Unternehmen mit Betriebssitz im örtlichen Landkreis zu vergeben, auch dann mit den Grundfreiheiten unvereinbar ist, wenn diese Nebenbestimmung als bloße Sollvorschrift ohne Rechtsanspruch der begünstigten Unternehmen ausgestaltet ist?**
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-simulation-testlauf
-description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtspruefung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtspruefung Schulung und Behoerdenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwaesche-kommandocenter (Echtbetrieb) und geldwaesche-audit-internal-revision."
+description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behoerdenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision."
 ---
 
 # AML/KYC-Simulationsmodus
@@ -12,10 +12,7 @@ description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verd
 4. Gibt es einen konkreten Schulungszweck oder einen Aufsichts-Testlauf?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Regelmässige Simulationstests des AML-Systems sind Teil einer wirksamen Compliance; nachgewiesene Testluecken koennen Fahrlässigkeit begruenden.
-- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin wertet Testlaufprotokolle als Beleg fuer Funktionsfaehigkeit der AML-Kontrollen; fehlende Tests koennen Massnahmenanordnung ausloesen.
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Wirksames AML-System muss regelmaessig auf Funktionsfaehigkeit geprueft werden; risikobasierte Pruefintervalle sind zu dokumentieren.
-- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — Pruefungsanordnung durch BaFin kann Testlaufprotokolle anfordern; fehlende oder lueckenhafte Tests begruenden Sanktionsrisiko.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: regelmässige Wirksamkeitspruefung eingeschlossen
@@ -23,10 +20,9 @@ description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verd
 - BaFin AuA GwG Abschn. 4 — Pruefung der Wirksamkeit interner Maßnahmen
 - FATF Recommendation 18 — Testing of Internal Controls
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 4 Rn. 90-110 (Wirksamkeitstests und Simulationen)
-- Zentes/Glaab GwG, 2019, § 6 Rn. 30-50 (Pruefpflichten des Geldwäschebeauftragten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill erlaubt Testläufe ohne echte Mandatsdaten und zeigt Lücken im Kontrollsystem.

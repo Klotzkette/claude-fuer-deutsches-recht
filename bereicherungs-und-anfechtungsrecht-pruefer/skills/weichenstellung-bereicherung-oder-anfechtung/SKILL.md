@@ -1,6 +1,6 @@
 ---
 name: weichenstellung-bereicherung-oder-anfechtung
-description: "Triage-Entscheidung: welcher Regelungskreis ist einschlaegig - Bereicherungsrecht, ausserinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Rechtsgrundmangel, Insolvenzeroffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Pruef-Skill. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
+description: "Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeröffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsgutachter."
 ---
 
 # Weichenstellung: Bereicherung oder Anfechtung?
@@ -19,20 +19,17 @@ description: "Triage-Entscheidung: welcher Regelungskreis ist einschlaegig - Ber
 
 ## Rechtsprechung
 
-BGH, Urt. v. 25.02.1999 – IX ZR 30/98, NJW 1999, 1704 — Ist der Rechtsgrund für die Vermögensverschiebung von Anfang an nicht entstanden oder nachträglich weggefallen, ist § 812 Abs. 1 S. 1 BGB die einschlägige Anspruchsgrundlage; Anfechtungsrecht setzt dagegen einen (zunächst) wirksamen Rechtsgrund voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Mit Eröffnung des Insolvenzverfahrens (§ 27 InsO) ist das Anfechtungsrecht nach §§ 1 ff. AnfG für den Einzelgläubiger ausgeschlossen; an die Stelle tritt das Recht des Insolvenzverwalters nach §§ 129 ff. InsO.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.07.2005 – IX ZR 221/04, NJW 2005, 2983 — Das AnfG setzt als unverzichtbare Voraussetzung einen vollstreckbaren Titel (§ 2 AnfG) und die fruchtlose Zwangsvollstreckung voraus; fehlt der Titel, ist die Anfechtungsklage nach AnfG unzulässig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.01.2012 – IX ZR 2/11, NJW 2012, 1209 — § 985 BGB ist vorrangig gegenüber § 812 BGB, solange das Eigentum des Anspruchstellers besteht; erst nach Eigentumsübergang (z. B. gutgläubiger Erwerb) ist § 812 BGB einschlägig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 1–30 (Abgrenzung Bereicherungsrecht / Anfechtungsrecht).
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–20 (Abgrenzung InsO-Anfechtung / AnfG / § 812 BGB).
-Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordernis, Abgrenzung zu InsO).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Weichenstellungs-Schema
 
 ### Frage 1: Liegt ein Rechtsgrund für die Vermögensverschiebung vor?
@@ -48,7 +45,7 @@ Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordern
 
 **Insolvenzverfahren eröffnet oder Antrag gestellt:**
 → Insolvenzanfechtung §§ 129 ff. InsO.
-→ Skill: `inso-grundtatbestand-129-glaeubigerbenachteiligung`
+→ Skill: `inso-grundtatbestand-129-gläubigerbenachteiligung`
 
 **Kein Insolvenzverfahren:**
 → Weiter zu Frage 3.
@@ -67,6 +64,21 @@ Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordern
 - § 812 BGB und AnfG können nebeneinander stehen, wenn der Rechtsgrund nachträglich entfällt.
 - Mit Insolvenzverfahren verdrängt § 129 InsO den AnfG-Pfad.
 - § 133 InsO kann mit § 826 BGB konkurrieren.
+- Bei § 812 BGB zuerst klären, ob es um Leistung, Eingriff, Verfügung eines Nichtberechtigten oder Mehrpersonenabwicklung geht.
+- Bei gegenseitigen Verträgen immer Saldo und Zug-um-Zug-Fragen mitdenken.
+- Bei Mehrpersonenfällen nicht vom Zahlungsempfänger automatisch auf den richtigen Anspruchsgegner schließen.
+
+## Bereicherungsrechtliche Feinsortierung
+
+| Befund | Weiterer Skill |
+|---|---|
+| Leistung an den Beklagten, Rechtsgrund fehlt | `leistungskondiktion-grundtatbestand-812-i-1-alt-1` |
+| unklarer Rechts- oder Behaltensgrund | `rechtsgrund-und-behaltensgrund-prüfen` |
+| Zweckabrede oder Zweckverfehlung | `zweckverfehlung-und-kondiktionszweck` |
+| Zahlungskette, Anweisung, Drittleistung | `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` |
+| nichtiger gegenseitiger Vertrag | `saldotheorie-rueckabwicklung-nichtiger-vertraege` |
+| Eingriff in zugewiesene Nutzung | `eingriffskondiktion-zuweisungsgehalt` |
+| Streit um Entreicherung/Wertersatz | `umfang-der-herausgabe-818-bgb-und-entreicherung` |
 
 ## Merksatz
 

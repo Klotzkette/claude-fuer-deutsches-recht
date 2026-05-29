@@ -1,12 +1,21 @@
 # Testakte: Strafbefehl – Ladendiebstahl und Fahrerflucht
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte` (diese Akte) | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktive Musterakte für die KI-gestützte Strafrechtsverteidigung im deutschen Strafbefehlsverfahren. Alle Personen, Gerichte, Aktenzeichen, Adressen und Geldbeträge sind frei erfunden.**
 
 ---
 
 ## Sachverhalt
 
-**Samira Albrecht** (geb. 14.03.1991, medizinische Fachangestellte, Düsseldorf) befindet sich seit dem 01.04.2026 in einer neuen Stelle und ist noch in der Probezeit. Sie lebt allein mit ihrer 8-jährigen Tochter Lena. Am **17. März 2026** betritt sie in der Mittagspause die Drogerie „Beauté & Co" am Düsseldorfer Hauptbahnhof. Ihr Kind ist krank, sie ist abgelenkt. Beim Verlassen der Drogerie wird sie vom Ladendetektiv **Erik Neumann** angehalten: In ihrer Manteltasche befinden sich vier Kosmetikartikel im Gesamtwert von 47,80 EUR, die sie nicht bezahlt hat. Sie gibt die Ware sofort zurück, entschuldigt sich aufrichtig und kooperiert vollständig. Ein Strafantrag nach § 248a StGB wird gestellt.
+**Samira Albrecht** (geb. 14.03.1991, medizinische Fachangestellte, Düsseldorf) befindet sich seit dem 01.04.2026 in einer neuen Stelle und ist noch in der Probezeit. Sie lebt allein mit ihrer 8-jährigen Tochter Lena. Am **17. März 2026** betritt sie in der Mittagspause die Drogerie "Beauté & Co" am Düsseldorfer Hauptbahnhof. Ihr Kind ist krank, sie ist abgelenkt. Beim Verlassen der Drogerie wird sie vom Ladendetektiv **Erik Neumann** angehalten: In ihrer Manteltasche befinden sich vier Kosmetikartikel im Gesamtwert von 47,80 EUR, die sie nicht bezahlt hat. Sie gibt die Ware sofort zurück, entschuldigt sich aufrichtig und kooperiert vollständig. Ein Strafantrag nach § 248a StGB wird gestellt.
 
 Etwa zwei Wochen später, am **02. April 2026**, parkt Samira Albrecht auf dem Parkdeck des Einkaufszentrums Arcaden Benrath. Beim Ausparken soll ihr Fahrzeug (Kennzeichen D-SK 3847) das daneben stehende Fahrzeug der **Martina Fröhlich** (VW Golf VIII, D-MT 7712) an der hinteren linken Stoßstange gestreift haben, Schaden: 1.180 EUR. Samira Albrecht bemerkt nach eigenen Angaben nichts und fährt davon. Eine Parkhausvideokamera erfasst das Kennzeichen; über das Kraftfahrt-Bundesamt wird sie als Halterin identifiziert. Sie beantwortet weder einen Zeugenfragebogen noch einen Anhörungsbogen.
 
@@ -27,7 +36,7 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 | **PHK'in Monika König** | Vernehmungsbeamtin, KK 32 Düsseldorf |
 | **Erik Neumann** | Ladendetektiv, ProSec GmbH (Zeuge) |
 | **Martina Fröhlich** | Geschädigte (§ 142 StGB, Unfallzeugin) |
-| **Britta Seifert** | Filialleiterin Drogerie „Beauté & Co" (Strafantragstellerin) |
+| **Britta Seifert** | Filialleiterin Drogerie "Beauté & Co" (Strafantragstellerin) |
 | **Lena Albrecht** | Tochter der Angeklagten (8 Jahre, Unterhaltspflicht) |
 
 ---
@@ -36,7 +45,7 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 
 | Datum | Ereignis |
 |---|---|
-| **17.03.2026** | Ladendiebstahl in Drogerie „Beauté & Co", Düsseldorf |
+| **17.03.2026** | Ladendiebstahl in Drogerie "Beauté & Co", Düsseldorf |
 | **17.03.2026** | Feststellung durch Ladendetektiv Neumann, Polizeiaufnahme PHK'in König |
 | **02.04.2026** | Parkrempler auf Parkdeck Arcaden Benrath, Schadensbetrag 1.180 EUR |
 | **01.04.2026** | Beginn Probezeit bei Arbeitgeber Dr. Halberg & Partner |

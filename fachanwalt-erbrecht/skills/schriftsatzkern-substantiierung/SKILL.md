@@ -1,23 +1,17 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren. §§ 2303 2353 BGB §§ 253 286 ZPO. Pruefraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht fuer aussergerichtliche Korrespondenz oder Berechnungen."
+description: "Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren. §§ 2303 2353 BGB §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz oder Berechnungen."
 ---
 
 # Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht
 
 ## Aktuelle Rechtsprechung (Substantiierung Erbrecht)
 
-- BGH, Urt. v. 19.01.2022 - IV ZR 140/20, NJW 2022, 1030 Rn. 22 — Pflichtteilsklage: Stufenklage nach § 254 ZPO mit Auskunftsstufe (§ 2314 BGB), Wertstufe (Sachverstaendiger) und Zahlungsstufe; jede Stufe muss konkret beziffert und begruendet sein.
-- BGH, Urt. v. 26.05.2021 - IV ZR 174/20, NJW 2021, 2269 Rn. 14 — Zum Inhalt des Pflichtteilsanspruchs: Klaeger muss Nachlasswert und Pflichtteilsquote substantiiert darlegen; bei unvollstaendiger Auskunft des Erben ist Saumnisklage moeglich.
-- BGH, Urt. v. 27.11.2013 - IV ZR 206/12, NJW 2014, 856 Rn. 18 — Pflichtteilsergaenzungsanspruch nach § 2325 BGB: Schenkungen des Erblassers innerhalb der letzten zehn Jahre werden mit Abschmelzungsmodell berücksichtigt; Klaeger muss Zeitpunkt und Wert jeder Schenkung konkret vortragen.
-- BGH, Urt. v. 12.07.2017 - IV ZR 584/15, NJW 2017, 3167 Rn. 18 — Erbenhaftungsklage: Klaeger muss nachweisen, dass die Forderung Nachlassverbindlichkeit ist und nicht durch Dreimonatseinrede oder Nachlassinsolvenz ausgeschlossen ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MuKoBGB/Lange, §§ 2314-2326 Rn. 1-50 (Pflichtteilsklage, Stufenklage, Beweis)
-- Burandt/Rojahn, Erbrecht — Prozessrecht Erbrecht
-- BeckOK BGB/Litzenburger, § 2325 Rn. 1-30 (Pflichtteilsergaenzung, Schenkungsfristen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Erb- und Pflichtteilsrecht erstellt werden, typischerweise: Pflichtteilsklage, Erbschein-Antrag/Beschwerde, Erbenfeststellungsklage.

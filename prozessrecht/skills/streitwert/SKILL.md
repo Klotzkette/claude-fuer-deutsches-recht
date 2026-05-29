@@ -1,6 +1,6 @@
 ---
 name: streitwert
-description: "Streitwert fuer zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebuehren. Normen: §§ 3 9 ZPO, GKG, RVG. Pruefraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprueche)."
+description: "Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: §§ 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprüche)."
 ---
 
 # Streitwertfestsetzung – GKG / RVG
@@ -51,24 +51,18 @@ Das Modell benötigt folgende Informationen:
 
 ### Leitentscheidungen
 
-1. BGH, Beschl. v. 04.07.2018 – IV ZR 200/16, NJW-RR 2018, 1140 Rn. 5 – Zur
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Streitwertbemessung bei Feststellungsanträgen neben Leistungsanträgen: kein
    Mehrwert, wenn Feststellungsantrag wirtschaftlich in Leistungsantrag aufgeht.
 
-2. BGH, Beschl. v. 10.04.2014 – I ZB 22/13, NJW 2014, 2280 Rn. 12 – Zur
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Streitwertbemessung im Unterlassungsrechtsstreit: bei Kerntheorie-Reichweite
    ist der wirtschaftliche Wert des Verbots maßgeblich, nicht nur der konkret
    angegriffene Verletzungsfall.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Hartmann, in: Hartmann, KostenG, 54. Aufl. 2024, § 45 GKG Rn. 18 – Mehrwert
-   von Hilfsanträgen setzt Bescheidung voraus; bis dahin kein Ansatz.
-
-2. Mayer, in: Mayer/Kroiß, RVG, 8. Aufl. 2023, § 23 Rn. 34 – Gegenstandswert
-   folgt grundsätzlich dem prozessualen Streitwert; Sonderregelungen in § 23
-   Abs. 3 RVG (nichtvermögensrechtliche Gegenstände: Mindest- und Höchstwerte).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Hauptforderung bestimmen** – Nennwert bei Leistungsklage; bei Feststellungsklage
@@ -130,7 +124,7 @@ von 110.000 € = 3 × 1.476 € = 4.428 €.
 Anwaltsgebühren (Verfahrensgebühr 1,3 aus 110.000 € = 1,3 × 2.471 € = 3.212,30 €
 zzgl. USt.) nach Nr. 3100 VV RVG i. V. m. Anlage 2 RVG.
 
-*(BGH, Beschl. v. 04.07.2018 – IV ZR 200/16, NJW-RR 2018, 1140 Rn. 5; Hartmann,
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 in: Hartmann, KostenG, 54. Aufl. 2024, § 45 GKG Rn. 18.)*
 
 ## Risiken und typische Fehler

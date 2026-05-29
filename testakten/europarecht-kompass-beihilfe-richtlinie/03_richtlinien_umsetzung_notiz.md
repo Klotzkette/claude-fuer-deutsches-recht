@@ -35,7 +35,7 @@ Die KWL erhält einen nicht rückzahlbaren Zuschuss, den sie auf dem Kapitalmark
 
 ### 3. Wirtschaftliche Tätigkeit des Begünstigten
 
-Die KWL ist als GmbH verfasst und erbringt gegen Entgelt die Fernwärmeversorgung für private Haushalte und Gewerbebetriebe. Der Umstand der 100-prozentigen kommunalen Gesellschafterstruktur schließt die Qualifikation als „Unternehmen" i.S.d. Art. 107 Abs. 1 AEUV nicht aus (EuGH, Urteil vom 12. September 2000, Rs. C-180/98 bis C-184/98, Pavlov). **Merkmal: erfüllt.**
+Die KWL ist als GmbH verfasst und erbringt gegen Entgelt die Fernwärmeversorgung für private Haushalte und Gewerbebetriebe. Der Umstand der 100-prozentigen kommunalen Gesellschafterstruktur schließt die Qualifikation als "Unternehmen" i.S.d. Art. 107 Abs. 1 AEUV nicht aus (EuGH, Urteil vom 12. September 2000, Rs. C-180/98 bis C-184/98, Pavlov). **Merkmal: erfüllt.**
 
 ### 4. Beeinträchtigung des Handels zwischen Mitgliedstaaten
 

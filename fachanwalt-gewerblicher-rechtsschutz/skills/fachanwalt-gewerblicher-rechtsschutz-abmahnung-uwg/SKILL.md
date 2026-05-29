@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
-description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Pruefraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht fuer Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)."
+description: "UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht für Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -42,15 +42,7 @@ description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 U
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | I ZR 154/16 | 19.04.2018 | Werbeblocker II: Lauterkeit von Werbeblockern; Marktbehinderung setzt konkrete Gefährdung des Kerngeschäfts voraus |
-| BGH | I ZR 6/17 | 14.02.2019 | Kühlergrill: Irreführung durch Gestaltung; Gesamteindruck der Werbung maßgeblich |
-| BGH | I ZR 207/14 | 26.01.2017 | ARD-Buffet: Rechtsbruch durch öffentlich-rechtlichen Rundfunk bei Verletzung UStG |
-| BGH | I ZR 197/05 | 17.07.2008 | bundesligakarten.de: Konkretes Wettbewerbsverhältnis als Voraussetzung der Aktivlegitimation |
-| BGH | I ZR 45/11 | 31.05.2012 | Missbräuchliche Abmahnung: Massenhaftes Vorgehen gegen dasselbe Muster ohne eigene wirtschaftliche Tätigkeit |
-| BGH | I ZR 163/18 | 02.06.2022 | Schwarze Liste Anhang § 3 Abs. 3 UWG: Gefälligkeitsbewertungen als irreführende Handlung |
-| OLG München | 6 U 2028/21 | 13.01.2022 | Influencer-Schleichwerbung: Fehlende Kennzeichnung als Werbung = § 5a UWG-Verstoß |
-| BGH | I ZR 184/17 | 07.03.2019 | Energieeffizienzklasse III: Missbrauchliche Abmahnung nach § 8c UWG erfordert kein Eigeninteresse an Unterlassung mehr; Serienabmahner koennen nach § 8c Abs. 2 UWG auf Schadensersatz in Anspruch genommen werden |
-| BGH | I ZR 66/20 | 10.02.2022 | Influencer III: Kein Pflichthinweis "Werbung" bei ausschliesslich eigeninitiiertem Posting ohne kommerzielle Gegenleistung; Freiheitsrechte der Meinungsauesserung ueberwiegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema UWG-Abmahnung
 
@@ -102,7 +94,7 @@ wir zeigen die Vertretung der [Mandantin] an (Vollmacht Anlage 1).
 I. Sachverhalt
 Die Mandantin und Ihr Unternehmen sind Mitbewerber i. S. § 2 Abs. 1 Nr. 4 UWG
 im Bereich [Branche]. Sie haben am [Datum] auf der Website [URL] / in [Medium]
-folgende Aussage veröffentlicht: „[wörtliches Zitat]" (Anlage 2, Screenshot /
+folgende Aussage veröffentlicht: "[wörtliches Zitat]" (Anlage 2, Screenshot /
 Kopie).
 
 II. Rechtliche Würdigung
@@ -232,12 +224,12 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Ich bin kein Mitbewerber — keine Aktivlegitimation" | Abgemahnter | Konkretes Wettbewerbsverhältnis darlegen: gleiche Waren/Dienstleistungen, überschneidender Kundenkreis (BGH I ZR 197/05) |
-| „Abmahnung ist missbräuchlich (§ 8c UWG)" | Abgemahnter | Gegenprüfung der Indizien; bei klaren Verstößen: Klage trotzdem zulässig und kostenpflichtig für Schuldner |
-| „Verstoß ist bagatellmäßig" | Abgemahnter | § 3 Abs. 1 UWG: „spürbar" Erfordernis; bei Schwarze-Liste-Verstößen keine Spürbarkeitserfordernis |
-| „Werbung ist Meinung, keine Tatsachenbehauptung" | Abgemahnter | Meinungsäußerung nur bei wertenden Aussagen ohne Tatsachenkern; gemischte Aussagen nach BGH-Kriterien aufteilen |
-| „Verjährung abgelaufen" | Abgemahnter | Kenntnisdatum exakt dokumentieren; Verjährungsunterbrechung durch Abmahnung prüfen (Meinungsstreit) |
-| „Unterlassungserklärung ist zu weit gefasst" | Abgemahnter | Modifizierte Unterlassungserklärung anbieten; Schutz vor Vertragsstrafe-Inflation durch enge Formulierung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Abmahnung ist missbräuchlich (§ 8c UWG)" | Abgemahnter | Gegenprüfung der Indizien; bei klaren Verstößen: Klage trotzdem zulässig und kostenpflichtig für Schuldner |
+| "Verstoß ist bagatellmäßig" | Abgemahnter | § 3 Abs. 1 UWG: "spürbar" Erfordernis; bei Schwarze-Liste-Verstößen keine Spürbarkeitserfordernis |
+| "Werbung ist Meinung, keine Tatsachenbehauptung" | Abgemahnter | Meinungsäußerung nur bei wertenden Aussagen ohne Tatsachenkern; gemischte Aussagen nach BGH-Kriterien aufteilen |
+| "Verjährung abgelaufen" | Abgemahnter | Kenntnisdatum exakt dokumentieren; Verjährungsunterbrechung durch Abmahnung prüfen (Meinungsstreit) |
+| "Unterlassungserklärung ist zu weit gefasst" | Abgemahnter | Modifizierte Unterlassungserklärung anbieten; Schutz vor Vertragsstrafe-Inflation durch enge Formulierung |
 
 ## Streitwert und Kosten
 

@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-zeitlicher-vergleich-jahresvergleich
-description: "Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenueberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschaeftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist Vorjahr Abweichung absolut Prozent Erlaeuterungstext."
+description: "Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist Vorjahr Abweichung absolut Prozent Erlaeuterungstext."
 ---
 
 # Zeitlicher Vergleich in der BWA — Vorjahr und Vormonat

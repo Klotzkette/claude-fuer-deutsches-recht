@@ -1,6 +1,6 @@
 ---
 name: massenentlassung-17-kschg
-description: "Arbeitgeber plant Entlassung mehrerer Arbeitnehmer und fragt ob Massenentlassungsanzeige erforderlich ist oder Gewerkschaft und Betriebsrat anfechten. Pruefraster § 17 KSchG Schwellenwerte abhaengig von Betriebsgroesse. Konsultation Betriebsrat § 17 Abs. 2 KSchG mit Zwei-Wochen-Frist. Anzeige bei Agentur fuer Arbeit § 17 Abs. 1 KSchG mit Pflichtangaben Sperrfrist ein Monat. EuGH C-188/03 Junk: Anzeige muss vor Ausspruch der Kuendigung erfolgen. Folge bei Verstoss Unwirksamkeit aller Kuendigungen. Output Pruef-Memo Anzeige-Entwurf Betriebsrats-Konsultationsprotokoll. Abgrenzung: Interessenausgleich und Sozialplan § 111 BetrVG bei Betriebsaenderung."
+description: "Workflow-Skill zu massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Massenentlassung § 17 KSchG
@@ -93,8 +93,7 @@ Schriftlich an Betriebsrat:
 
 ### Folge bei Mangel der Anzeige
 
-- **Kündigung unwirksam** EuGH C-188/03 Junk
-- BAG GS 1/12 — alle Kündigungen unwirksam wenn Anzeige fehlerhaft
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 4 — Reihenfolge der Schritte
 
@@ -188,7 +187,7 @@ Schriftlich an Betriebsrat:
 
 - § 125 InsO Sonder-Regelungen
 - Erleichterte Kündigungsfrist
-- Aber § 17 KSchG bleibt anwendbar — BAG 1 AZR 535/14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 10 — Beweissicherung
 
@@ -225,7 +224,5 @@ Schriftlich an Betriebsrat:
 - SGB IX § 168
 - MuSchG § 17
 - BEEG § 18
-- EuGH C-188/03 Junk
-- BAG GS 1/12
-- BAG 1 AZR 535/14
-- ErfK Müller-Glöge/Preis/Schmidt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

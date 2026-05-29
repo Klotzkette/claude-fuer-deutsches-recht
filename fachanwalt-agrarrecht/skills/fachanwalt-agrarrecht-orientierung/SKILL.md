@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-orientierung
-description: "Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Uebersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht fuer konkreten Mandats-Einstieg."
+description: "Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg."
 ---
 
 # Fachanwalt für Agrarrecht — Orientierung
@@ -51,13 +51,9 @@ description: "Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht 
 - **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
 - **EuGH** bei GAP-Vorabentscheidungen.
 
-## Standardliteratur
+## Quellenregel
 
-- Pauli/Mueller, Landwirtschaftsrecht.
-- Wirth/Lange, Höfeordnung.
-- Lange/Wulff, Landpachtrecht.
-- Buchholz, Agrarrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Deutsche Gesellschaft für Agrarrecht.
@@ -72,24 +68,21 @@ description: "Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht 
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 28.04.2016 — **BLw 1/14**, RdL 2016, 230 Rn. 18: Für landwirtschaftsrechtliche Streitigkeiten über Landpachtverhältnisse ist das Landwirtschaftsgericht (Sondergericht nach LwVG) zuständig; Abgrenzung zum ordentlichen Gericht richtet sich nach dem Schwerpunkt des Streitgegenstands — Streit über Pachtzins bei landwirtschaftlichem Grundstück ist Landwirtschaftssache.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 14.03.2019 — **3 C 1.18**, BVerwGE 165, 111 Rn. 22: Genehmigungspflicht nach § 2 GrdstVG erfasst alle entgeltlichen Rechtsgeschäfte über landwirtschaftliche Grundstücke; Genehmigungsversagung wegen Aufstockungsbedarf eines Vollerwerbslandwirts ist rechtmäßig, wenn das Grundstück zur Aufstockung geeignet ist und ein konkretes Kaufinteresse des Landwirts vorliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 30: Die GAP-Direktzahlungen sind an Konditionalitätsanforderungen (GLÖZ und GAB) geknüpft; Sanktionen bei Verstößen müssen verhältnismäßig sein und den Grundsatz der Gleichbehandlung beachten; bei geringfügigen und unverschuldeten Verstößen sind nur minimale Kürzungen gerechtfertigt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 28.09.2017 — **BLw 3/16**, NJW-RR 2018, 263 Rn. 16: Nachabfindungsansprüche nach § 13 HöfeO entstehen, wenn der Hoferbe den Hof innerhalb von 20 Jahren nach Hofübergabe veräußert oder aufgibt; Maßstab für die Nachabfindung ist der Unterschied zwischen dem Hofeswert und dem erzielten Erlös anteilig für die Miterben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette (Überblick Agrarrecht)
 
 BGB §§ 581-597 (Landpacht) → LPachtVG (Pachtverkehr, Genehmigung) → GrdstVG (Grundstücksverkehr) → HöfeO §§ 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → VO (EU) 2021/2115 + 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG i.V.m. DüV (Düngerecht) → BNatSchG §§ 13 ff. (Naturschutz, Eingriffsregelung) → § 35 BauGB (Außenbereich landwirtschaftliche Privilegierung) → TierSchG, TierGesG → LwVG (Verfahren Landwirtschaftsgericht)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019: Umfassendes Praxishandbuch; Pachtrecht, Hofrecht, GAP, Düngerecht, Tierschutz.
-- Norer, Agrarrecht (Lehr- und Praxisbuch), 4. Aufl. 2020: Systematischer Überblick mit EU-Agrarrecht.
-- Lange/Wulff/Lüdtke-Handjery, Landpachtrecht, 6. Aufl. 2016: Spezialliteratur §§ 585 ff. BGB + LPachtVG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Verfahren | Frist | Norm |

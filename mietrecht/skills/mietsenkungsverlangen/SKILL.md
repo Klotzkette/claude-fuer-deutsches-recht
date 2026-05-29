@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen
-description: Mietersicht — pruefe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoss gegen die Mietpreisbremse (§§ 556d ff. BGB) gegen § 5 WiStG (Mietpreisueberhoehung) und gegen § 291 StGB (Wucher). Erzeugt eine qualifizierte Ruege nach § 556g Abs. 2 BGB mit Berechnung der zulaessigen Miete Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rueckzahlung. Disclaimer mehrfach im Text.
+description: Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoss gegen die Mietpreisbremse (§§ 556d ff. BGB) gegen § 5 WiStG (Mietpreisueberhoehung) und gegen § 291 StGB (Wucher). Erzeugt eine qualifizierte Ruege nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. Disclaimer mehrfach im Text.
 ---
 
 # Mietsenkungsverlangen (Mietpreisbremse, WiStG, Wucher)
@@ -65,19 +65,12 @@ Strukturiere die Ruege in Abschnitte:
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 22: Mietpreisbremse nach §§ 556d ff. BGB ist verfassungskonform; qualifizierte Ruege nach § 556g Abs. 2 BGB ist materiellrechtliche Voraussetzung des Rueckzahlungsanspruchs.
-<!-- AUDIT 27.05.2026: VIII ZR 161/22 (NOT_FOUND bei dejure.org) geloescht; VIII ZR 168/20 (NOT_FOUND bei dejure.org) geloescht. -->
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
 §§ 556d, 556e, 556f, 556g BGB — Mietpreisbremse und Ruege; § 5 WiStG — Mietpreisueberhoehung
 
-## Kommentarliteratur
+## Quellenregel
 
-- BeckOK Mietrecht — §§ 556d ff. BGB Mietpreisbremse
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 556d ff. BGB
-
-
----
-
-<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

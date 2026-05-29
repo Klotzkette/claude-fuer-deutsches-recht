@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-214-215-baugb
-description: "Gemeinde oder Vorhabentraeger prueft ob erkannte Planfehler zur Unwirksamkeit fuehren oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Pruefraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gemeinde ergaenzendes Verfahren § 214 Abs. 4. Ergebnisfehler immer beachtlich. Output: Fehler-Relevanztabelle Planerhalten vs. Unwirksam. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Fehlertypen) und jahresfrist-47-abs-2-vwgo."
+description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gemeinde ergaenzendes Verfahren § 214 Abs. 4. Ergebnisfehler immer beachtlich. Output: Fehler-Relevanztabelle Planerhalten vs. Unwirksam. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Fehlertypen) und jahresfrist-47-abs-2-vwgo."
 ---
 
 # Planerhaltung — § 214/215 BauGB
@@ -162,21 +162,15 @@ description: "Gemeinde oder Vorhabentraeger prueft ob erkannte Planfehler zur Un
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 18.11.2010 - 4 CN 3.10, BVerwGE 138, 166 Rn. 37 — Die Rüge nach § 215 Abs. 1 BauGB setzt die konkrete Bezeichnung des Mangels voraus; ein pauschaler Hinweis auf "sämtliche Verfahrensfehler" genügt nicht und löst keine Präklusionswirkung aus.
-- BVerwG, Urt. v. 22.09.2010 - 4 CN 2.10, NVwZ 2011, 429 Rn. 22 — Die Heilung durch ergänzendes Verfahren nach § 214 Abs. 4 BauGB ist nur bei Verfahrens- und Formfehlern möglich, nicht bei Ergebnisfehlern; die rückwirkende Heilung erfordert eine vollständige Wiederholung des fehlerhaften Verfahrensschritts.
-- BVerwG, Urt. v. 04.08.2009 - 4 CN 4.08, BVerwGE 134, 264 Rn. 12 — Die Hinweispflicht nach § 215 Abs. 2 BauGB ist Voraussetzung des Fristbeginns; fehlt der Hinweis auf die Folgen der Nichtrüge in der Bekanntmachung, beginnt die Rügefrist nicht zu laufen.
-- OVG NRW, Urt. v. 26.01.2016 - 10 D 39.13.NE, NVwZ-RR 2016, 595 — Die "Offensichtlichkeit" eines Abwägungsvorgangsfehlers i.S.v. § 214 Abs. 3 S. 2 BauGB ist gegeben, wenn der Fehler ohne Weiteres aus der Planbegründung oder dem Verfahrensgang erkennbar ist; der Fehler muss sich "ins Auge drängen".
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Planerhaltung
 
 § 214 Abs. 1 BauGB (beachtliche Verfahrensfehler) → § 214 Abs. 2a BauGB (§ 13a-Verfahren) → § 214 Abs. 3 BauGB (beachtliche Abwägungsfehler) → § 214 Abs. 4 BauGB (ergänzendes Verfahren) → § 215 Abs. 1 BauGB (Rügefrist 1 Jahr) → § 215 Abs. 2 BauGB (Hinweispflicht) → § 233 BauGB (Übergangsrecht)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 214 Rn. 1-50 (Planerhaltungssystem)
-- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 215 Rn. 15-40 (Rügefrist praktisch)
-- Hoppe/Bönker/Grotefels Öffentliches Baurecht 5. Aufl., § 5 Rn. 120-145 (Fehlerfolgen Normenkontrolle)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Kläre nach Mandatsübernahme:

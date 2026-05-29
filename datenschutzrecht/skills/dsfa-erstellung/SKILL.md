@@ -1,6 +1,6 @@
 ---
 name: dsfa-erstellung
-description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren wenn hohes Risiko fuer Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Pruefraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhaeltnismaessigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht fuer regulaere Verarbeitungen ohne hohes Risiko."
+description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko."
 ---
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO
@@ -94,12 +94,12 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 36 DSGVO (Vorab-Konsultation Aufsichtsbehörde)
 - Art. 5 Abs. 1 lit. b, c, e DSGVO (Zweckbindung, Datenminimierung, Speicherbegrenzung)
 - § 67 BDSG (Blacklist/Whitelist BfDI)
-- EDSA-Leitlinien 09/2022 zur DSFA und Bestimmung von „voraussichtlich hohem Risiko"
+- EDSA-Leitlinien 09/2022 zur DSFA und Bestimmung von "voraussichtlich hohem Risiko"
 - Artikel-29-Datenschutzgruppe, WP 248 rev.01 (DSFA-Methodik, heute EDSA-Referenz)
-- Nguyen, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 35 Rn. 1 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Martini, in: Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 35 Rn. 1 ff.
 - Klabunde, in: Simitis/Hornung/Spiecker, Datenschutzrecht, 1. Aufl. 2019, Art. 35 Rn. 1 ff.
-- Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 35 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -160,10 +160,7 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44–55: Für Art. 82 DSGVO-Schadensersatz ist konkreter Schaden erforderlich; eine unzureichende DSFA (oder fehlende DSFA) begründet jedoch einen eigenständigen Verstoß nach Art. 83 Abs. 4 DSGVO.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55–79: Risikobewertung muss tatsächlich und konkret sein; pauschalierte DSFA ohne Einzelfallbewertung genügt Art. 35 DSGVO nicht; EDSA-Leitlinien 09/2022 sind verbindliche Auslegungshilfe.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: Zur DSFA-Pflicht bei KI-gestützten Entscheidungssystemen; neue Technologien nach Art. 35 Abs. 1 DSGVO iVm EDSA-Kriterien lösen regelmäßig DSFA-Pflicht aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

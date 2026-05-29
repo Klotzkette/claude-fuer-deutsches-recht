@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-liquiditaetsvorschau
-description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Pruefraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Pruefung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten)."
+description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten)."
 ---
 
 # Freistehende Liquiditätsvorschau (Mittelstand)
@@ -40,13 +40,9 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 88/16 | 19.12.2017 | Zahlungsunfähigkeit bei > 10 % Deckungslücke über 3 Wochen; Geschäftsführer muss Liquidität laufend überwachen |
-| BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose: plausible Annahmen erforderlich; bloße Hoffnung auf Besserung genügt nicht |
-| BGH | II ZR 252/13 | 14.10.2014 | Masseschmälernde Zahlungen: GmbH-GF haftet für jede Zahlung nach Eintritt der Insolvenzreife |
-| OLG Düsseldorf | 6 U 68/19 | 10.12.2020 | Mittelstand: Steuerberater haftet, wenn er Insolvenzreife-Warnsignale aus BWA erkennt und Mandanten nicht hinweist |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Liquiditätsvorschau (Mittelstand)
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -91,7 +87,7 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 | Fehler | Konsequenz | Abhilfe |
 |---|---|---|
 | BWA ohne Rückstellungen | Überoptimistisches Liquiditätsbild | Rückstellungen regelmäßig nachtragen |
-| Kontokorrentkredit als „Eigenkapital" | Zahlungsunfähigkeit wird kaschiert | Kontokorrentkredit ist Verbindlichkeit; Limit-Auslastung überwachen |
+| Kontokorrentkredit als "Eigenkapital" | Zahlungsunfähigkeit wird kaschiert | Kontokorrentkredit ist Verbindlichkeit; Limit-Auslastung überwachen |
 | Kundenzahlung erwartet, aber nicht OPOS-belegt | Einzahlung in Vorschau zu optimistisch | Nur vertraglich fällige, plausible Einzahlungen ansetzen |
 | Steuerberater meldet nur rückblickend | Frühwarnung fehlt | Wöchentliche Liquiditätsabstimmung einrichten |
 | Lohnzahlung auf letztem Kontoauszug | 3-Wochen-Frist für Zahlunsunfähigkeit bereits abgelaufen | Lohntermin immer in Woche 1 einplanen |
@@ -108,7 +104,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Saisonales Unternehmen Schwankungen normal | Saisonalitaets-Hinweis in Vorschau einbauen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -167,7 +162,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Schadensfall | Ansatz | Norm |
@@ -193,14 +187,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 19.12.2017, Az. II ZR 88/16 (Zahlungsunfähigkeit, 10 %-Schwelle)
-- BGH, Urt. v. 19.12.2013, Az. IX ZR 61/12 (Fortbestehensprognose)
-- BGH, Urt. v. 14.10.2014, Az. II ZR 252/13 (Masseschmälernde Zahlungen)
-- OLG Düsseldorf, Urt. v. 10.12.2020, Az. 6 U 68/19 (Steuerberater-Haftung, Mittelstand)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 15a, 15b, 17, 18, 19 InsO; § 43 GmbHG; §§ 252, 264 HGB; §§ 18, 21 UStG
 
 <!-- AUDIT 27.05.2026
-Problem: Aktenzeichen II ZR 277/16 existiert nicht (kein BGH-Urteil unter diesem AZ nachweisbar). Das inhaltlich zutreffende Urteil zur 10-Prozent-Deckungsluecke ist BGH, Urt. v. 19.12.2017 - II ZR 88/16 (BGHZ 217, 129). Datum 19.06.2018 war ebenfalls falsch (korrekt: 19.12.2017).
-Massnahme: Aktenzeichen in Leitentscheidungen-Tabelle und Quellen-Abschnitt von II ZR 277/16 (19.06.2018) auf II ZR 88/16 (19.12.2017) korrigiert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2017&Aktenzeichen=II+ZR+88%2F16
 -->

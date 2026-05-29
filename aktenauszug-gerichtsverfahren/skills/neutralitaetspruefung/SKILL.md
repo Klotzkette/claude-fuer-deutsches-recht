@@ -1,6 +1,6 @@
 ---
 name: neutralitaetspruefung
-description: "Prueft einen erstellten Aktenauszug auf unzulaessige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherheitsgate vor Weitergabe des Auszugs. Massstab § 286 ZPO freie Beweiswuerdigung."
+description: "Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherheitsgate vor Weitergabe des Auszugs. Massstab § 286 ZPO freie Beweiswürdigung."
 ---
 
 # Neutralitätsprüfung
@@ -23,27 +23,22 @@ Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahr
 
 ## Rechtsprechung zum Sachlichkeitsgebot und Neutralität
 
-- BGH, Urt. v. 16.09.2021 - IX ZR 165/19, NJW 2021, 3324 — Anwaltshaftung bei Fortführung eines aussichtslosen Rechtsstreits: Pflicht zur Aufklärung über Verschlechterung der Erfolgsaussichten und zum Hinweis auf sichersten Weg; Haftung nach § 280 Abs. 1 i.V.m. § 675 BGB.
-- BVerfG, Beschl. v. 14.07.1987 - 1 BvR 537/81, BVerfGE 76, 171 — Zu den Anforderungen des rechtlichen Gehörs (Art. 103 Abs. 1 GG): vollständige und neutrale Darstellung des Prozessstoffs ist Grundvoraussetzung.
-- BGH, Urt. v. 05.02.2009 - III ZR 164/08, NJW 2009, 987 — Interne Rechtsauskunft, die relevante Gegenargumente nicht berücksichtigt, begründet Haftung bei Fehlberatung nach § 280 Abs. 1 i.V.m. § 675 BGB.
-- BGH, Beschl. v. 23.11.2017 - IX ZR 45/17, NJW 2018, 395 — Zur Sachverhaltsaufbereitung durch Anwalt: einseitige Darstellung zugunsten der eigenen Partei kann bei internen Dokumenten zur Haftung führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 286 Rn. 1 ff. (Freie Beweiswürdigung)
-- Dittmann BRAO-Kommentar § 43a Rn. 1 ff. (Sachlichkeitsgebot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verbotene Formulierungstypen
 
 ### Erfolgsprognosen (absolut verboten)
 
 | Verboten | Erlaubt |
 |---|---|
-| „Die Klage wird Erfolg haben" | „Die Klage ist anhängig" |
-| „Der Anspruch dürfte begründet sein" | „Die Klägerin macht [Anspruch] geltend" |
-| „Die Verjährungseinrede greift durch" | „Die Beklagte erhebt die Verjährungseinrede" |
-| „Das Gericht wird … erkennen" | „Das Gericht hat … nicht geäußert" |
-| „offensichtlich unbegründet" | „nach Vortrag der Beklagten unbegründet" |
+| "Die Klage wird Erfolg haben" | "Die Klage ist anhängig" |
+| "Der Anspruch dürfte begründet sein" | "Die Klägerin macht [Anspruch] geltend" |
+| "Die Verjährungseinrede greift durch" | "Die Beklagte erhebt die Verjährungseinrede" |
+| "Das Gericht wird … erkennen" | "Das Gericht hat … nicht geäußert" |
+| "offensichtlich unbegründet" | "nach Vortrag der Beklagten unbegründet" |
 
 ### Wertende Adjektive (zu vermeiden)
 
@@ -54,7 +49,7 @@ Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahr
 ### Parteiische Darstellung
 
 - Ausführliche Wiedergabe des Vortrags einer Seite ohne entsprechende Gegenüberstellung der anderen Seite
-- Formulierungen, die implizit eine Seite stärken („Trotz des klaren Wortlauts des Vertrags …")
+- Formulierungen, die implizit eine Seite stärken ("Trotz des klaren Wortlauts des Vertrags …")
 
 ## Prüfmethodik
 
@@ -107,5 +102,3 @@ Anzahl Beanstandungen: [Zahl]
 Die Neutralitätsprüfung ist kein Korrektorat des Aktenauszugs. Sie prüft ausschließlich auf Wertungen und Prognosen. Sachliche Fehler sind durch Abgleich mit der Akte zu beheben.
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat entfernt und ersetzt. BGH IX ZR 143/19 (behauptet: 15.07.2021, NJW 2021, 3131, IX. Senat, Anwaltshaftung) war auf dejure.org nicht auffindbar (Status: WRONG_TOPIC — I ZR 143/19 gehört zum I. Senat/Urheberrecht). Ersetzt durch verifiziertes Zitat BGH IX ZR 165/19 (16.09.2021, NJW 2021, 3324), IX. Zivilsenat, Anwaltshaftung bei einseitiger Beratung.

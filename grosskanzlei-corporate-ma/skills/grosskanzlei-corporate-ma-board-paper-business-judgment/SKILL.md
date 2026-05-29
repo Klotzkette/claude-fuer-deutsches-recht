@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-board-paper-business-judgment
-description: "Board Paper und Business Judgment Rule Pruefung fuer M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschaeftsfuehrer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG ausserordentliche Gesellschafterversammlung. Pruefraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs."
+description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs."
 ---
 
 # Board Paper und Business Judgment (Corporate M&A)
@@ -22,16 +22,11 @@ Vor der Erstellung einer Entscheidungsvorlage klaeren:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.04.1997 – II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) Rn. 15 — Leitungspflicht des Aufsichtsrats: AR ist nicht nur Ueberwachungs- sondern auch Handlungsorgan; unterlassene Schadensersatzverfolgung gegenueber GF-Mitglied kann selbst Pflichtverletzung sein.
-- BGH, Urt. v. 14.07.2008 – II ZR 202/07, BGHZ 177, 295 Rn. 20 — Business Judgment Rule bei GmbH-GF: § 43 GmbHG ist im Licht der BJR des § 93 Abs. 1 Satz 2 AktG auszulegen; Informationspflicht vor Entscheidung gilt entsprechend.
-- BGH, Urt. v. 10.07.2018 – II ZR 24/17, NJW 2018, 3574 Rn. 14 — Informationsbeschaffungspflicht des Vorstands: Muss sich aus zuverlaessigen Quellen informieren; bloses Vertrauen auf muendliche Zusagen genuegt nicht fuer BJR-Schutz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 30 ff. (Business Judgment Rule; Voraussetzungen; Haftungsprivileg).
-- Fleischer, in: MueKoGmbHG, 4. Aufl. 2022, § 43 Rn. 55 ff. (GmbH-GF-Sorgfalt; BJR-Analogie; Informationspflicht).
-- Koch, in: MueKoAktG, 5. Aufl. 2019, § 111 Rn. 40 ff. (Aufsichtsrat; Zustimmungsvorbehalt; Informationsrecht).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruefschema Business Judgment Rule
 
 | Voraussetzung | Geprueft | Beleg |
@@ -161,11 +156,11 @@ Abstimmung: _________________________ Datum: _____________
 - § 111 Abs. 4 AktG (Zustimmungsvorbehalt Aufsichtsrat)
 - § 179a AktG (HV-Beschluss Gesamtvermoegensveraeusserung)
 - § 43 GmbHG (GF-Sorgfalt; BJR-Analogie)
-- BGH: `BGH, BGHZ 135, 244 (ARAG/Garmenbeck)`; `BGH, Urt. v. 10.07.2018 – II ZR 24/17, NJW 2018, 3574`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 30 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- OLG Frankfurt 5 U 29/10 (AG 2011, 172): WRONG_TOPIC — Urteil betrifft Commerzbank/Dresdner Bank HV-Auskunftsrechte und Holzmueller-Grundsaetze, nicht 'Board Paper muss Alternativen enthalten' als BJR-Voraussetzung. Eintrag geloescht; Rote-Schwellen-Hinweis auf Kommentarliteratur umgestellt.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 -->

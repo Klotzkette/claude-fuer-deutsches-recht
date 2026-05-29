@@ -1,6 +1,6 @@
 ---
 name: common-law-humor-coach
-description: "Common-Law-Erklaerungen sollen fuer Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklaerung. Pruefraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklaerung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton)."
+description: "Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton)."
 ---
 
 # Low-Key Late-Night Coach

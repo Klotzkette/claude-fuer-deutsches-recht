@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-cap-table
-description: "Cap-Table fuer GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Pruefraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gruendungsprotokoll oder Handelsregisteranmeldung."
+description: "Cap-Table für GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Prüfraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gründungsprotokoll oder Handelsregisteranmeldung."
 ---
 
 # Cap Table
@@ -28,17 +28,11 @@ Klaere vor Erstellung des Cap Table:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 01.03.2011 – II ZR 83/09, BGHZ 188, 331** — Die Gesellschafterliste nach § 40 GmbHG hat konstitutive Legitimationswirkung; ein Erwerber, der auf die eingetragene Gesellschafterliste vertraut, kann gutglaeubig den Anteil erwerben (§ 16 Abs. 3 GmbHG).
-- **BGH, Urt. v. 24.01.2012 – II ZR 109/11, NZG 2012, 379** — Bei Vesting-Rueckuebertragung muss die Einziehung nach § 34 GmbHG oder Pflicht-Abtretung an Mitgesellschafter in der Satzung oder SHA klar geregelt sein; formlose Vesting-Vereinbarung ohne notarielle Rueckuebertragungsvereinbarung ist unwirksam (§ 15 Abs. 3 GmbHG).
-- **OLG Frankfurt, Beschl. v. 10.07.2019 – 20 W 156/18, GmbHR 2019, 1097** — Gesellschafterliste ist bei jeder Anteilsaenderung unmittelbar einzureichen (§ 40 GmbHG); Versaeumnis fuehrt zu Eintragungshindernis; Haftung des GF moeglich.
-- **BGH, Urt. v. 13.10.2020 – II ZR 25/19, NZG 2021, 26** — Die Liquidation Preference in einer GmbH-Satzung ist als Sonderrecht des Anteilsinhabers wirksam; beim Exit-Waterfall muss die SHA-Vereinbarung mit der Satzung konsistent sein, anderenfalls geht Satzung vor.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Verse, GmbHG, 13. Aufl., § 40 Rn. 1-60 (Gesellschafterliste; Legitimationswirkung; Haftung GF)
-- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 15 Rn. 1-50 (Anteilsabtretung; Formerfordernis)
-- MüKo GmbHG/Reichert, 4. Aufl., § 34 Rn. 1-80 (Einziehung; Bad-Leaver-Klauseln)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Cap Table-Integrität
 
 | Schritt | Frage | Norm | Ergebnis |
@@ -107,17 +101,17 @@ Gesamt-Checks: Summe aller Auszahlungen = [EXIT-PREIS] EUR
 
 ## Rote Schwellen
 
-- Vesting-Rueckuebertragung formlos: unwirksam (§ 15 GmbHG; BGH NZG 2012, 379)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gesellschafterliste nicht aktualisiert: Haftung GF; gutglaeubiger Erwerb durch Dritte moeglich (§ 16 GmbHG)
-- Liquidation Preference in SHA ohne Satzungsverankerung: beim Exit moeglicherweise unwirksam (BGH NZG 2021, 26)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - ESOP-Optionen ohne Satzungs-/Hauptversammlungsbeschluss: Kapitalerhoehung nicht vollziehbar
 
 ## Quellen und Vertiefung
 
 - § 40 GmbHG (Gesellschafterliste), § 16 GmbHG (Legitimationswirkung)
 - § 15 GmbHG (Abtretung), § 34 GmbHG (Einziehung), § 55 GmbHG (Kapitalerhoehung)
-- BGH BGHZ 188, 331 (2011); BGH NZG 2012, 379; OLG Frankfurt GmbHR 2019, 1097; BGH NZG 2021, 26
-- Scholz/Verse § 40; Baumbach/Hueck § 15; MüKo GmbHG/Reichert § 34
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Uebergabe an andere Skills
 

@@ -29,7 +29,7 @@ system:
     Für jede `woertlich`-Spalte:
       - Sie können die Quelle nicht erneut lesen – das ist der Extractor-Bereich.
         Sie können aber verdächtige Paraphrasen-Signale markieren: Antworten, die
-        „ungefähr", „im Wesentlichen", zusammenfassende Adverbien oder eckige
+        "ungefähr", "im Wesentlichen", zusammenfassende Adverbien oder eckige
         Klammern enthalten, die im Quell-Prompt nicht vorhanden waren.
 
     **Besonderheiten deutsches Recht:**

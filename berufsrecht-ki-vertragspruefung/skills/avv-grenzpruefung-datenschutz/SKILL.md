@@ -1,6 +1,6 @@
 ---
 name: avv-grenzpruefung-datenschutz
-description: "Kanzlei nutzt KI-Dienstleister und prueft ob AVV nach Art. 28 DSGVO die berufsrechtliche Pruefung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Pruefraster AVV-Pruefpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelpruefungs-Vermerk Lueckenliste. Abgrenzung zu verschwiegenheitsklausel-pruefen (Verschwiegenheit-Hauptpruefung) und gutachten-erstellen (Gesamtgutachten)."
+description: "Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelprüfungs-Vermerk Lueckenliste. Abgrenzung zu verschwiegenheitsklausel-prüfen (Verschwiegenheit-Hauptprüfung) und gutachten-erstellen (Gesamtgutachten)."
 ---
 
 # AVV-Grenzprüfung Datenschutz
@@ -49,16 +49,11 @@ Die AVV regelt **nicht** das Berufsgeheimnis. Sie schützt nicht die Verschwiege
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Art. 82 DSGVO setzt einen konkreten Schaden voraus; allein der Verstoß gegen die DSGVO reicht für einen immateriellen Schadensersatzanspruch nicht aus, wenn kein realer Nachteil feststellbar ist. Für die Auftragsverarbeitung bedeutet das: Formfehler in der AVV allein lösen noch keine Haftung aus.
-- EuGH, Urt. v. 05.12.2023 — C-683/21 (Nacionalinis visuomenes sveikatos centras), NJW 2024, 285 Rn. 62: Gemeinsame Verantwortlichkeit (Art. 26 DSGVO) liegt vor, wenn zwei Verantwortliche gemeinsam über Zwecke und Mittel einer Verarbeitung entscheiden — dies muss von der AVV-Konstellation (Art. 28) sorgfältig abgegrenzt werden.
-- BGH, Urt. v. 26.09.2023 — VI ZR 97/22, NJW 2024, 234 Rn. 22: Zur Abgrenzung von Auftragsverarbeitung und eigenverantwortlicher Verarbeitung bei Cloud-Diensten — entscheidend ist die tatsächliche Weisungsgebundenheit, nicht die vertragliche Bezeichnung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hartung, in: Kühling/Buchner DSGVO/BDSG, 4. Aufl. 2024, Art. 28 DSGVO Rn. 1–80: Ausführlich zu den Mindestinhalten der AVV, der Abgrenzung zur Gemeinsamen Verantwortlichkeit und zur Unterauftragnehmer-Kette.
-- Spoerr, in: BeckOK Datenschutzrecht, 49. Ed. 2025, Art. 28 DSGVO Rn. 1–120: Zu den praktischen Anforderungen an AVV, insbesondere Schriftform/elektronische Form, Unterzeichnungspflichten und dynamische Subunternehmerlisten.
-- DAV-Stellungnahme Nr. 32/2025, S. 17–18: Klarstellung, dass DSGVO-AVV und berufsrechtliche Verschwiegenheitsverpflichtung kumulativ gelten; anwaltliches Berufsgeheimnis ist breiter als DSGVO-Schutz.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Was das Berufsrecht zusätzlich verlangt
 
 Die berufsrechtliche Dienstleisterregelung (§§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO) verlangt darüber hinaus:

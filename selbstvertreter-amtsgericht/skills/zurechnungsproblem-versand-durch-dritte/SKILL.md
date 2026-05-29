@@ -1,6 +1,6 @@
 ---
 name: zurechnungsproblem-versand-durch-dritte
-description: "Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische Konsequenzen fuer Selbstvertreter."
+description: "Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische Konsequenzen für Selbstvertreter."
 ---
 
 # Risiko: Versand durch Dritte (Boten, Bekannte, Familie)
@@ -26,8 +26,8 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
 - **§ 233 ZPO** — Wiedereinsetzung in den vorigen Stand: nur bei "ohne Verschulden" versaeumter Frist.
 - **§ 234 ZPO** — Frist fuer Wiedereinsetzungs-Antrag (2 Wochen).
 - **§ 236 ZPO** — Form des Antrags.
-- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko fuer Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in juris/beck-online recherchieren.
-- **BGH-Linie zur Wiedereinsetzung bei Bote/Drittversand** — Aktuelles Aktenzeichen mit konkretem Sachverhalt in juris/beck-online recherchieren, bevor Sie sich darauf berufen.
+- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko fuer Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren.
+- **BGH-Linie zur Wiedereinsetzung bei Bote/Drittversand** — Aktuelles Aktenzeichen mit konkretem Sachverhalt in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren, bevor Sie sich darauf berufen.
 
 <!-- AUDIT 27.05.2026 | welle 4 | selbstvertreter-amtsgericht
      Geprueft und korrigiert:
@@ -119,4 +119,4 @@ Erfolgsquote eher gering, aber: probieren, wenn nichts anderes geht. Skill `wied
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BVerfG-Selbstverantwortungslinie und BGH-Wiedereinsetzungs-Rechtsprechung stabil. Aktenzeichen und Fundstellen vor Uebernahme in juris/beck-online verifizieren.
+Stand: 05/2026. BVerfG-Selbstverantwortungslinie und BGH-Wiedereinsetzungs-Rechtsprechung stabil. Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken verifizieren.

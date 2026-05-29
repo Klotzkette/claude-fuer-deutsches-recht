@@ -1,6 +1,6 @@
 ---
 name: einreichung-fax-und-grenzen-sozialgericht
-description: "Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer pruefen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden."
+description: "Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden."
 ---
 
 # Klage per Fax beim SG — Grenzen und Tipps

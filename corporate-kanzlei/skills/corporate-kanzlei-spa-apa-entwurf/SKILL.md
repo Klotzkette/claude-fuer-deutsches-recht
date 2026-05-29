@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-spa-apa-entwurf
-description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Pruefraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules."
+description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Prüfraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules."
 ---
 
 # SPA/APA-Entwurf
@@ -31,16 +31,11 @@ description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement)
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.06.2022 - II ZR 98/20, NJW 2022, 2965 — MAC-Klausel: Material Adverse Change setzt wesentliche dauerhafte Verschlechterung voraus; vorruebergehende Branchenkrisen reichen nicht
-- BGH, Urt. v. 29.01.2013 - II ZR 26/11, BGHZ 196, 51 — Anteilskauf: Beim Share Deal erstreckt sich Beschaffenheitsgarantie auf wirtschaftliche Verhaeltnisse der Zielgesellschaft, wenn so vereinbart
-- OLG Frankfurt, Urt. v. 07.05.2021 - 5 U 160/19, NZG 2021, 1174 — Earn-Out-Klausel: Kaeufer muss vertragliche Milestones nach Treu und Glauben foerdern; Manipulationsverbot auch ohne explizite Klausel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf in Recht und Praxis (16. Aufl. 2022) — Standardwerk SPA
-- MueKo BGB/Grunewald § 453 Rn. 1 ff. — Anteilskauf, Garantien
-- Beisel/Klumpp, Unternehmenskauf (7. Aufl. 2016) — praktische Klauselkommentierung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Praxiswissen: Kaufpreismechanik
 
 ### Locked Box
@@ -189,7 +184,7 @@ Anlagen: Disclosure Letter, Locked-Box-Bilanz, CP-Liste, W&I-Term Sheet
 
 Die MAC-Klausel ist das wichtigste Ruecktrittsvehikel. Kernanforderung: Die Verschlechterung muss (a) wesentlich, (b) dauerhaft und (c) auf die Zielgesellschaft bezogen sein. Allgemeine Markt- oder Branchenrisiken (Systemkrise, Pandemie als solche) sind typischerweise ausgegrenzt — ausser der Zielgesellschaft trifft es ueberproportional.
 
-BGH II ZR 98/20 (NJW 2022, 2965): Vorruebergehende Umsatzeinbrueche durch COVID-19 als Branchen-Event kein MAC, wenn Mitbewerber gleichermassen betroffen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Earn-Out — Praxisrisiken
 
@@ -200,8 +195,6 @@ Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigung
 ## Quellen
 
 - §§ 433, 453, 444, 613a BGB; § 15 GmbHG; §§ 68 AktG; §§ 35 ff. GWB
-- BGH II ZR 98/20 (MAC); OLG Frankfurt 5 U 160/19 (Earn-Out)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
-- MueKo BGB/Grunewald § 453 Rn. 1 ff.
-
-<!-- AUDIT 27.05.2026: BGH V ZR 22/22 (17.02.2023) entfernt. Tatsaechliches Thema: Immobilienrecht — Grundbuchberichtigung, Auflassungsvormerkung, Nichtigkeit Grundstueckskaufvertrag (NJW 2023, 2343). SKILL behauptete: Unternehmenskauf, Garantieversprechen § 311 I BGB (NJW 2023, 1543) — falsch in Thema und Fundstelle. Eintrag und Quellen-Referenz geloescht. Kein Ersatz gefunden. Bundle 017, Task 4. -->
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

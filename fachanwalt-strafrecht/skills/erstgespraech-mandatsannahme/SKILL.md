@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen. § 136 StPO Belehrung Schweigerecht, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Pruefraster Konflikt-Check, Schweigerecht kommunizieren, Sachverhalt aufnehmen, Akteneinsicht beantragen, Honorarvereinbarung treffen. Output Mandats-Aufnahmeprotokoll mit Sofortmassnahmen-Liste und Belehrungsprotokoll. Abgrenzung zu Wahlverteidiger-Mandat fuer spezifischen Mandatstyp und zu Mandat-Triage."
+description: "Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen. § 136 StPO Belehrung Schweigerecht, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Prüfraster Konflikt-Check, Schweigerecht kommunizieren, Sachverhalt aufnehmen, Akteneinsicht beantragen, Honorarvereinbarung treffen. Output Mandats-Aufnahmeprotokoll mit Sofortmassnahmen-Liste und Belehrungsprotokoll. Abgrenzung zu Wahlverteidiger-Mandat für spezifischen Mandatstyp und zu Mandat-Triage."
 ---
 
 # Erstgespraech und Mandatsannahme im Allgemeines und Wirtschaftsstrafrecht
@@ -37,7 +37,7 @@ Standard-Fragenraster:
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Auslandsbezug, Vermoegensherkunft, Tatvorwurf (insbesondere § 261 StGB Geldwaesche, § 370 AO Steuerhinterziehung).
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG, BRAK-Identifizierungsleitfaden).
-- Annahmebeschraenkung: bei Vorwurf Geldwaesche und Honorarverdacht aus inkriminierter Quelle Pruefung § 261 Abs. 1 S. 1 Nr. 4 StGB i.V.m. BVerfG 2 BvR 1520/01.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. Vollmacht und Akteneinsicht
 
@@ -78,7 +78,7 @@ Drei Weichen am Ende des Erstgespraechs:
 ## Relevante Rechtsgrundlagen und Standards
 
 - BORA, BRAO, FAO Strafrecht (§ 13 FAO).
-- GwG, GwGMeldV, Identifizierungsleitfaden BRAK; BVerfG 2 BvR 1520/01 zu Honoraranfechtung bei Verteidigerhonorar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG, Nebenstrafrecht (StVG, WaffG, KCanG, AWG, WiStG).
 - RVG mit VV-RVG Teil 4 (Strafsachen) und Teil 5 (Bussgeldsachen).
 - DSGVO und BDSG fuer den Umgang mit Mandanten- und Verletzten-Daten.
@@ -188,10 +188,7 @@ Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemae
 
 ## Aktuelle Rechtsprechung Erstgespraech / Mandatsannahme
 
-- BVerfG, Beschl. v. 13.10.2016 - 2 BvR 1454/16, NJW 2017, 290 — Mandatsverweigerung und Pflichtverteidiger: Beschuldigter hat Anspruch auf unverzuegliche Bestellung eines Pflichtverteidigers; spaete Bestellung kurz vor HV verletzt das Recht auf effektive Verteidigung.
-- BGH, Beschl. v. 14.11.2018 - 1 StR 429/18, NStZ 2019, 164 — Interessenkollision bei Mehrfachvertretung (§ 146 StPO): auch wenn Mitbeschuldigte sich nicht offen widersprechen, muss der Verteidiger latente Interessen-konflikte antizipieren und das Mandat ablehnen.
-- BGH, Urt. v. 25.07.2000 - 1 StR 205/00, BGHSt 46, 130 — Honorar-Annahme aus potenziell inkriminierter Quelle begrundet Strafbarkeit nach § 261 StGB; kein Verteidigerprivileg wenn der Anwalt wusste oder haette wissen muessen, dass das Honorar aus Straftaten stammt.
-- OLG Muenchen, Beschl. v. 11.11.2019 - 2 WS 1542/19, NJW 2020, 783 — GwG-Identifizierungspflicht: anwaltliche Sorgfaltspflicht nach §§ 10 ff. GwG gilt auch im Strafverteidigungsmandat; bei fehlender Identifizierung droht Bussgeld.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Erstgespraech Normen-Check
 

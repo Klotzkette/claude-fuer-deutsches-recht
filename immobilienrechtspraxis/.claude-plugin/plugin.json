@@ -1,7 +1,7 @@
 {
   "name": "immobilienrechtspraxis",
-  "version": "14.2.0",
-  "description": "Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz; Vertragspruefung gegen Playbook; Grundbuchanalyse; Sachverhaltsermittlung; Mieteranfragen mit BGH-Verankerung; Case Management; projektbasierte Arbeitsweise mit AVV-Pruefung.",
+  "version": "24.2.0",
+  "description": "Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Pruefung. Rechtsprechung nur nach Live-Verifikation.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

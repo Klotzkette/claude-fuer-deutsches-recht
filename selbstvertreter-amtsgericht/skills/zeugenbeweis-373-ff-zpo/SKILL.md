@@ -1,6 +1,6 @@
 ---
 name: zeugenbeweis-373-ff-zpo
-description: "Zeugenbeweis nach §§ 373 ff. ZPO. Ladungsfaehige Anschrift Beweisthema Zeugnis-Verweigerungsrechte Vereidigung. Wie Sie Zeugen benennen und im Verfahren einbringen. Was bei nahen Angehoerigen und Aussage-Wert zu beachten ist."
+description: "Zeugenbeweis nach §§ 373 ff. ZPO. Ladungsfähige Anschrift Beweisthema Zeugnis-Verweigerungsrechte Vereidigung. Wie Sie Zeugen benennen und im Verfahren einbringen. Was bei nahen Angehoerigen und Aussage-Wert zu beachten ist."
 ---
 
 # Zeugenbeweis: Wer kann was bezeugen?

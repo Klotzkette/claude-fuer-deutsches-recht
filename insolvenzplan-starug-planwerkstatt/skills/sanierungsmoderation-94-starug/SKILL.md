@@ -1,6 +1,6 @@
 ---
 name: sanierungsmoderation-94-starug
-description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchfuehren wenn aussergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Pruefraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Glaeubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht fuer StaRUG-Restrukturierungsplan (ips-starug-plan-architektur)."
+description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Gläubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht für StaRUG-Restrukturierungsplan (ips-starug-plan-architektur)."
 ---
 
 # Sanierungsmoderation § 94 StaRUG
@@ -274,7 +274,7 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 - StaRUG §§ 94 95 96 97 100 90
 - InsO §§ 17 18 19 142
-- BGH IX ZR 250/15 Vorsatz-Anfechtung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungs-Fähigkeit)
 - Frind StaRUG
 - Skauradszun StaRUG-Praxis
@@ -282,11 +282,8 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 ## Weitere Leitentscheidungen StaRUG-Moderation
 
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG-Mehrheiten und Stimmrecht: Moderations-Ergebnis muss auf korrekter Stimmrechts-Berechnung beruhen; fehlerhafte Klassenbildung macht Abstimmung anfechtbar.
-- BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cramdown-Bestaetigung § 26 StaRUG: Moderationserfolg muss dokumentiert sein; ablehnende Klasse darf nicht schlechter gestellt sein als ohne Plan (Grundlage Vergleichsrechnung).
-- LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — StaRUG-Plan-Bestaetigung: Restrukturierungsgericht prueft Plan selbstaendig; Moderations-Protokoll als wichtiges Bestaetiguungs-Dokumentum.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Braun/Herzig, StaRUG § 94 — Restrukturierungsmoderation.
-- MüKo InsO/Gehrlein, StaRUG § 94 Rn. 1 ff. — Moderationsverfahren und Vergleichsrahmen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

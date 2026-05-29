@@ -1,6 +1,6 @@
 ---
 name: softwarefehler-mangelhaftung-pruefen
-description: "Strukturierte Pruefung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjaehrung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Pruefraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Ruecktritt Open-Source-GPL-Compliance. Output Mangel-Pruefprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung."
+description: "Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjährung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Prüfraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Rücktritt Open-Source-GPL-Compliance. Output Mangel-Prüfprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung."
 ---
 
 # Softwarefehler — Mangelhaftung prüfen
@@ -24,8 +24,7 @@ description: "Strukturierte Pruefung bei mangelhafter Software mit Vertragstyp-E
 | Konstellation | Vertragstyp | Mangelnorm | Verjährung |
 |---|---|---|---|
 | Standardsoftware auf Datenträger (Kauf) | Kaufrecht §§ 433 ff. BGB | § 434 BGB | 2 Jahre § 438 BGB ab Übergabe |
-| Standardsoftware-Download (dauerhaft) | Kaufrecht analog (BGH I ZR 129/08; EuGH C-128/11) | § 434 BGB | 2 Jahre § 438 BGB |
-| SaaS / ASP (Miete) | Mietrecht §§ 535 ff. BGB (BGH XII ZR 120/04) | § 536 BGB | 3 Jahre §§ 195, 199 BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Individualsoftware-Erstellung | Werkvertrag §§ 631 ff. BGB | § 633 BGB | 2 Jahre § 634a BGB ab Abnahme; 5 Jahre bei Bauwerk-Bezug |
 | Customizing / Anpassung | Werkvertrag §§ 631 ff. BGB | § 633 BGB | 2 Jahre § 634a BGB |
 | B2C digitale Inhalte / SaaS | §§ 327–327u BGB (seit 01.01.2022) | § 327e BGB | § 327j BGB |
@@ -47,14 +46,7 @@ description: "Strukturierte Pruefung bei mangelhafter Software mit Vertragstyp-E
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 04.11.1987 — **VIII ZR 314/86**: Standardsoftware auf Datenträger = Kaufrecht.
-- BGH, Urt. v. 26.11.2015 — **VII ZR 247/13**: Werkvertrag bei Individualsoftware; Abnahme als Voraussetzung der Mängelrechte.
-- BGH, Urt. v. 17.07.2013 — **I ZR 129/08** (UsedSoft II): dauerhafter Download = Erschöpfung § 69c Nr. 3 S. 2 UrhG; kaufrechtliche Wertung.
-- EuGH, Urt. v. 03.07.2012 — **C-128/11** (UsedSoft I): Weiterveräußerung Softwarelizenzen zulässig.
-- BGH, Urt. v. 27.05.2003 — **X ZR 57/02**: Abgrenzung Bauwerk/Nicht-Bauwerk für fünfjährige Verjährung.
-- BGH, Urt. v. 22.12.2005 — **VII ZR 183/04**: Symptomrechtsprechung — Mangelrüge mit Beschreibung des Symptoms ausreichend; alle Ursachen erfasst.
-- BGH, Urt. v. 24.08.2016 — **VII ZR 41/14**: bestätigt Symptomrechtsprechung.
-- BGH, Urt. v. 27.02.2019 — **VIII ZR 255/17**: Beweislastumkehr § 476 BGB a. F. (jetzt § 477 BGB) gilt auch für Gebrauchtwagen-Analogie-Fragen; bei Softwarekauf über B2C § 327k BGB direkt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -223,8 +215,7 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 - BGB §§ 280, 327–327u, 433–453, 535–548, 631–650
 - HGB § 377
 - DSGVO Art. 32
-- BGH VIII ZR 314/86; VIII ZR 255/17; VII ZR 247/13; VII ZR 41/14; I ZR 129/08; X ZR 57/02; VII ZR 183/04
-- EuGH C-128/11
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Marly Praxishandbuch Softwarerecht, 8. Aufl.
 - Schneider IT-Recht, 5. Aufl.
 

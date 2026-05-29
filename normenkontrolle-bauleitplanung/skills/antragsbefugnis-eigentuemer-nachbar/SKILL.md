@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-eigentuemer-nachbar
-description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Pruefraster: Moeglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist)."
+description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist)."
 ---
 
 # Antragsbefugnis § 47 Abs. 2 VwGO
@@ -134,10 +134,8 @@ Zweite Säule der Zulässigkeit. Die Antragsbefugnis filtert nicht selbst betrof
 
 ## Ergänzende Rechtsprechung
 
-- BVerwG, Urt. v. 24.09.1998 - 4 CN 2.98, BVerwGE 107, 215 Rn. 10 — Antragsbefugnis von Eigentümern im Plangebiet: ausreichend ist die mehr als geringfügige Beeinträchtigung einer eigentumsrechtlich geschützten Position; Planung muss sich unmittelbar auf das Grundstück auswirken.
-- BVerwG, Beschl. v. 31.01.2017 - 4 BN 28.16, ZfBR 2017, 366 — Nachbarantragsbefugnis setzt voraus, dass Belange geltend gemacht werden können, die die Bauleitplanung zu berücksichtigen hat; bloßes Nachbarschaftsverhältnis genügt ohne abwägungserheblichen Belang nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO 29. Aufl., § 47 Rn. 50-75 (Antragsbefugnis Normenkontrolle)
-- Battis/Krautzberger/Löhr BauGB 15. Aufl., Vor § 1 Rn. 15-30 (Rechtsschutz Normenkontrolle)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

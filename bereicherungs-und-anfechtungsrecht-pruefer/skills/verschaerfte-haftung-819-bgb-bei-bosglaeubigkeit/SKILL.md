@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit
-description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit pruefen. Normen: §§ 819 818 Abs. 4 BGB. Pruefraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung, Rechtshaengigkeitswirkung. Output: Pruefergebnis verschaerfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutglaeubiger Entreicherungsschutz § 818 Abs. 3 BGB."
+description: "Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit
@@ -12,7 +12,7 @@ description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigk
 3. Wann wurde die Klage zugestellt (Rechtshängigkeit → § 818 Abs. 4 BGB)?
 4. Welche Nutzungen, Gebrauchsvorteile oder Surrogate sind ab Bösgläubigkeit angefallen?
 5. Ist der Gegenstand nach Bösgläubigkeit zufällig untergegangen (verschärfte Zufallshaftung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -20,20 +20,17 @@ description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigk
 
 ## Rechtsprechung
 
-BGH, Urt. v. 17.02.2004 – XI ZR 140/03, NJW 2004, 1521 — § 819 Abs. 1 BGB setzt positive Kenntnis des Empfängers vom Mangel des Rechtsgrundes voraus; Kenntnis muss nicht bei Empfang vorliegen, sondern kann zu einem späteren Zeitpunkt eintreten; ab diesem Zeitpunkt tritt die verschärfte Haftung ein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.1999 – XII ZR 313/98, NJW 2000, 203 — Die verschärfte Haftung nach § 819 BGB schließt die Entreicherungseinrede des § 818 Abs. 3 BGB aus; der bösgläubige Empfänger haftet auch für den Wert von Nutzungen, die er hätte ziehen können aber nicht gezogen hat.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 14.07.1993 – IV ZR 153/92, NJW 1993, 2876 — § 819 Abs. 2 BGB ordnet die verschärfte Haftung ab Empfang an, wenn der Empfang der Leistung für den Empfänger mit einem Gesetz- oder Sittenverstoß verbunden war (§ 817 S. 1 BGB); ein späteres Entstehen der Bösgläubigkeit ist nicht erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.03.2007 – III ZR 181/05, NJW 2007, 2110 — Ab Rechtshängigkeit (§ 818 Abs. 4 BGB) gelten dieselben verschärften Regeln wie bei Bösgläubigkeit, ohne dass es auf die Kenntnis des Empfängers ankommt; auch gutgläubige Empfänger haften ab Zustellung der Klageschrift verschärft.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 819 Rn. 1–50 (Bösgläubigkeit, Rechtsfolge, Rechtshängigkeit).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 819 Rn. 1–20, § 818 Rn. 30–50.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 819 Rn. 1–40 (Kenntnis, Zeitpunkt, Umfang der Haftung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 819 BGB schließt die Entreicherungseinrede aus und unterwirft den bösgläubigen Bereicherungsschuldner einer verschärften Haftung.
@@ -61,8 +58,7 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?
@@ -71,16 +67,16 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefüllt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** mögliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Bereicherungsschuldner boesglaeubig ab bestimmtem Zeitpunkt | § 819 Abs. 1 Kenntnisnachweis; Template-Pruefung unten |
-| Variante A — Kenntnis schwer nachweisbar | Haeufung von Indizien; Rechtshängigkeits-Zustellzeitpunkt sicherer |
-| Variante B — Gesetzes- oder Sittenverstoß (§ 819 Abs. 2) | Verschaerfung ab Empfang; kein Kenntnisnachweis noetig |
-| Variante C — Gesamtschuldner mit unterschiedlicher Kenntnis | Individuell je Schuldner pruefen; kein Einheitsansatz |
+| Standard — Bereicherungsschuldner bösgläubig ab bestimmtem Zeitpunkt | § 819 Abs. 1 Kenntnisnachweis; Template-Prüfung unten |
+| Variante A — Kenntnis schwer nachweisbar | Häufung von Indizien; Rechtshängigkeits-Zustellzeitpunkt sicherer |
+| Variante B — Gesetzes- oder Sittenverstoß (§ 819 Abs. 2) | Verschärfung ab Empfang; kein Kenntnisnachweis nötig |
+| Variante C — Gesamtschuldner mit unterschiedlicher Kenntnis | Individuell je Schuldner prüfen; kein Einheitsansatz |
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template
 
@@ -101,10 +97,9 @@ Sachverhalt (kurz): [...]
 
 ---
 
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Lösung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+3. Sind Anschlusswege erwünscht? [Mediation / Direktgespräch / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.

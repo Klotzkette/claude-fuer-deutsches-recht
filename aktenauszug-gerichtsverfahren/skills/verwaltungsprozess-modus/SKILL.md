@@ -1,6 +1,6 @@
 ---
 name: verwaltungsprozess-modus
-description: "Aktenauszug fuer VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Pruefraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO)."
+description: "Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO)."
 ---
 
 # Verwaltungsprozess-Modus (VwGO)
@@ -30,18 +30,11 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Verwa
 
 ## Rechtsprechung (BVerwG — Leitsätze)
 
-- BVerwG, Urt. v. 14.04.2016 - 4 C 1.15, NVwZ 2016, 1398 — Zur Klagebefugnis nach § 42 Abs. 2 VwGO: Dritte können nur klagen wenn sie in eigenen subjektiven Rechten verletzt sein können; Schutznormtheorie als Massstab.
-- BVerwG, Urt. v. 18.12.2019 - 6 C 1.19, NVwZ 2020, 478 — Zur aufschiebenden Wirkung nach § 80 VwGO: Abwägung zwischen Vollziehungsinteresse der Behörde und Aufschubinteresse des Betroffenen; Prognose der Erfolgsaussichten.
-- BVerwG, Beschl. v. 15.01.2020 - 9 B 36.19, NVwZ 2020, 570 — Zur grundsätzlichen Bedeutung als Zulassungsgrund nach § 132 Abs. 2 Nr. 1 VwGO: Rechtsfrage muss über den Einzelfall hinaus bedeutsam und höchstrichterlich noch nicht geklärt sein.
-- BVerwG, Urt. v. 28.11.2018 - 7 C 18.17, NVwZ 2019, 477 — Zum Rechtsschutz gegen belastende Verwaltungsakte: Klagefrist des § 74 VwGO ist absolute Ausschlussfrist; Versäumnis führt zur Bestandskraft des Verwaltungsakts.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO § 42 Rn. 1 ff. (Anfechtungs- und Verpflichtungsklage)
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 12 Rn. 1 ff. (Verwaltungsakt als Handlungsform)
-- Stelkens/Bonk/Sachs VwVfG § 80 Rn. 1 ff. (Aufschiebende Wirkung)
-- BeckOK VwGO/Posser § 124 Rn. 1 ff. (Berufungszulassung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Klagenarten (§ 42 VwGO)
 
 | Klageart | Ziel | Voraussetzung |

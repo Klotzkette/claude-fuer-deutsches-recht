@@ -1,6 +1,6 @@
 ---
 name: parteien-erfassen
-description: "Vertragsparteien eines Wandeldarlehens vollstaendig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Pruefraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier fuer Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden."
+description: "Vertragsparteien eines Wandeldarlehens vollständig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Prüfraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier für Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden."
 ---
 
 # Parteien erfassen – KYC und Vertretungsmacht
@@ -27,7 +27,7 @@ Dieser Skill erfasst alle für den Wandeldarlehensvertrag erforderlichen Parteid
 - § 43 GmbHG (Pflichten der Geschäftsführung)
 
 ### Rechtsprechung
-- OLG Frankfurt, Urt. v. 15. Dezember 2020 – 5 U 22/20 (Sanktionsverstoß Vertragspartner)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -56,19 +56,19 @@ Strukturierte Textblöcke für den Vertragskopf: Gesellschaft, Gesellschafterin 
     Geschäftsanschrift: Musterstraße 12, 10115 Berlin
     eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter HRB 123456 B,
     vertreten durch ihre alleinvertretungsberechtigte Geschäftsführerin Dr. Mira Schoeneck,
-    – nachstehend die „Gesellschaft" –
+    – nachstehend die "Gesellschaft" –
 
 (2) Dr. Mira Schoeneck, geboren [Datum], Musterstraße 12, 10115 Berlin
-    – nachstehend die „Gesellschafterin 1" –
+    – nachstehend die "Gesellschafterin 1" –
 
 (3) Lina Habersaat, geboren [Datum], Beispielweg 5, 20095 Hamburg
-    – nachstehend die „Gesellschafterin 2" –
+    – nachstehend die "Gesellschafterin 2" –
 
 (4) Northstar Pre-Seed Partners GmbH & Co. KG
     Geschäftsanschrift: Venture-Allee 1, 60329 Frankfurt am Main
     eingetragen im Handelsregister des Amtsgerichts Frankfurt am Main unter HRA 99999,
     vertreten durch ihre Komplementärin Northstar Management GmbH, diese vertreten durch [●]
-    – nachstehend der „Darlehensgeber" –
+    – nachstehend der "Darlehensgeber" –
 ```
 
 ## Risiken und Red Flags
@@ -94,9 +94,9 @@ Stand: 05/2026. Bei Änderung GwG/GmbHG aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 11.07.2011 — **II ZR 109/10**, BGHZ 191, 84 Rn. 14: Gesellschafter-Identität muss eindeutig aus der Gesellschafterliste hervorgehen; bei juristischen Personen als Darlehensgeber (z.B. Beteiligungsgesellschaft) ist die vollständige Firmierung, der Sitz und der Handelsregisterauszug zwingend beizufügen; Fehler bei der Parteibezeichnung können zur Unwirksamkeit der Wandlung führen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026: OLG Frankfurt 6 U 183/19 (12.01.2022) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH II ZR 296/08 (20.09.2010) aus Rechtsprechungs-Abschnitt entfernt – real topic Patronatserklaerung Kuendigungsrecht (BGHZ 187,69), nicht Haftung bei fehlender Vertretungsmacht (WRONG_TOPIC). -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

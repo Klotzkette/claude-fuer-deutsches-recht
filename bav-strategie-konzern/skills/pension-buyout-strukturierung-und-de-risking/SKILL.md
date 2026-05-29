@@ -1,6 +1,6 @@
 ---
 name: pension-buyout-strukturierung-und-de-risking
-description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Pruefraster: Buyout-Voraussetzungen, Versicherungsloesungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung."
+description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung."
 ---
 
 # Pension Buyout Strukturierung und De-Risking
@@ -22,9 +22,8 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - IORP II Art. 14 ff. (Portfolioübertragung auf EbAV cross-border)
 - IAS 19.8 (qualifying insurance policy als plan asset)
 - IAS 19.44–60 (Bilanztransfer bei plan amendments / settlements)
-- BAG 17.6.2003 — 3 AZR 396/02 (Zustimmungserfordernis Arbeitnehmer bei Ablösung Direktzusage)
-- EuGH C-396/22 (Generali, 2024) — Portabilität und Übertragungsrechte
-- BGH II ZR 203/05 (Haftungskette bei Versicherer-Ausfall)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -54,7 +53,7 @@ Dr. von Sompeh-Ostermann stellt zunächst die drei klassischen De-Risking-Instru
 - Vollständige Bilanzentlastung (HGB und IFRS) bei echter Enthaftung
 - IAS 19.99–101: Settlement-Buchung (Gewinn/Verlust aus Verpflichtungsablösung)
 - Regulatorische Genehmigung BaFin erforderlich bei Portfolioübertragung auf Pensionskasse/Pensionsfonds
-- Subsidiärhaftung des Arbeitgebers nach § 1 Abs. 1 S. 3 BetrAVG kann bei Ausfall des Versicherers reaktiviert werden (BGH II ZR 203/05 — Vorsicht!)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Longevity Swap
 **Definition:** Derivative Absicherung des Langlebigkeitsrisikos ohne Übergang der Verpflichtung; Arbeitgeber zahlt festgelegte Leistungen basierend auf erwarteten Sterblichkeitskurven; Swap-Partner (Bank oder Rückversicherer) zahlt tatsächliche Leistungen.
@@ -195,7 +194,7 @@ D. RECHTLICHE DOKUMENTATION
 
 3. **IAS 19 Settlement-Buchung:** Bei echtem Buy-out (Liability de-recognition) entsteht nach IAS 19.99 ein Settlement Gain/Loss — kann erheblich sein, je nach Verhältnis von Prämienzahlung zu DBO. Dies ist oft ein Überraschungseffekt im P&L.
 
-4. **EuGH C-396/22 (Generali):** Der EuGH hat Portabilitätsrechte bei Direktversicherungen präzisiert; Versicherungsverträge, die keine Übertragung des Rückkaufswertes ermöglichen, sind unionsrechtlich problematisch.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 5. **BaFin-Verfahrensdauer:** Portfolioübertragungen gem. § 13 VAG können drei bis sechs Monate dauern. Closing-Timelines in M&A-Kontexten müssen dies berücksichtigen.
 
@@ -211,5 +210,4 @@ D. RECHTLICHE DOKUMENTATION
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 15.09.2020 — 3 AZR 668/18**, NZA 2021, 128 — Haftung des PSV bei Insolvenz des Arbeitgebers; auch nach Pension Buyout verbleibende Versorgungsrisiken werden vom PSV gedeckt, sofern die urspruengliche Zusage als PSV-pflichtige Versorgungsform qualifiziert; Gestaltung des Buyouts muss PSV-Haftungsfragen beruecksichtigen.
-- **BAG, Urt. v. 20.11.2018 — 3 AZR 267/17**, NZA 2019, 348 — Abtretungsverbot fuer Versorgungsanspruche nach § 17 Abs. 3 BetrAVG; beim Buyout muss sichergestellt sein, dass der Uebertragungsweg das Abtretungsverbot nicht umgeht; Direktuebertragung auf Versicherer ist zulassig, aber mit individueller Zustimmung bei bestehenden Anspruechen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

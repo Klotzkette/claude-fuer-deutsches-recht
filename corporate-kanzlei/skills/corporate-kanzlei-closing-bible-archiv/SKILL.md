@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-closing-bible-archiv
-description: "Closing Bible und Deal-Archiv nach M&A-Closing erstellen: Mandant oder Partner benoetigt vollstaendige Vertragsdokumentation mit Signaturketten, Registerbelegen, Notarbestaetigungen und Anlagen. Normen: SPA Deliverables-Checkliste, § 15 GmbHG, § 130 AktG. Pruefraster Vollstaendigkeit aller Closing-Dokumente, Versionierung, Zugriffsrechte. Output Closing Bible (PDF/ZIP), Deal-Memo, Archivierungsprotokoll. Abgrenzung: Vorstufe ist signing-closing-conditions; fuer Handelsregisteranmeldungen siehe gesellschaftsrecht-register."
+description: "Closing Bible und Deal-Archiv nach M&A-Closing erstellen: Mandant oder Partner benoetigt vollständige Vertragsdokumentation mit Signaturketten, Registerbelegen, Notarbestätigungen und Anlagen. Normen: SPA Deliverables-Checkliste, § 15 GmbHG, § 130 AktG. Prüfraster Vollständigkeit aller Closing-Dokumente, Versionierung, Zugriffsrechte. Output Closing Bible (PDF/ZIP), Deal-Memo, Archivierungsprotokoll. Abgrenzung: Vorstufe ist signing-closing-conditions; für Handelsregisteranmeldungen siehe gesellschaftsrecht-register."
 ---
 
 # Closing Bible und Archiv
@@ -24,14 +24,11 @@ description: "Closing Bible und Deal-Archiv nach M&A-Closing erstellen: Mandant 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 09.04.2019 - II ZR 289/17, NJW 2019, 2218 — Dokumentationspflicht: Nachweis der Closing-Deliverables obliegt demjenigen, der sich auf ordnungsgemaessen Vollzug beruft; Beweisrisikoumkehr moeglich
-- OLG Frankfurt, Urt. v. 25.09.2020 - 10 U 25/20 — Haftung Kanzlei: Anwalt muss sicherstellen, dass alle Vertragsunterlagen ordentlich archiviert sind; Untergangs- oder Vernichtungsrisiko traegt Mandant nicht allein
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 12 — Post-Closing und Dokumentation
-- Fleischer/Goette, MueKo GmbHG § 15 Rn. 1 ff. — Anteilsuebertragung und Registereintragung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Closing Bible: Standard-Inhaltsverzeichnis
 
 | Nr. | Dokument | Datum | Version | Signatur | Fundstelle |
@@ -109,5 +106,5 @@ Erstellt von: [KANZLEI]
 ## Quellen
 
 - § 199 BGB; §§ 257 f. HGB; § 147 AO; § 15 IV GmbHG; GoBD
-- BGH II ZR 289/17 (Dokumentationspflicht, Beweislast)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 12

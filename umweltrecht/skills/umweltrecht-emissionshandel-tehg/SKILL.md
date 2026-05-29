@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-emissionshandel-tehg
-description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Pruefraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht)."
+description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht)."
 ---
 
 # Emissionshandel und TEHG
@@ -28,17 +28,11 @@ description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepfl
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 19.12.2019 — 7 C 29.17, BVerwGE 167, 346 — kostenlose Zuteilung ZuV; CSCF-Anwendung gemeinschaftsrechtlich zulaessig; kein Vertrauensschutz auf volle Zuteilung; DEHSt-Ermessen bei Neuanlagenreserve.
-- VG Berlin, Urt. v. 22.06.2022 — 10 K 123/20 — Monitoring-Plan; DEHSt-Genehmigungspflicht; fehlende Nachbesserung innerhalb Frist fuehrt zu Beschraenkung auf konservative Methode.
-- EuGH, Urt. v. 07.09.2021 — C-120/19 (Billerud) — Rueckforderung kostenloser Zuteilung bei Kapazitaetsaenderung; Grundsatz der Verhaeltnismaessigkeit; Mitgliedstaat muss Zuteilung proportional kuerzen.
-- OVG Berlin-Brandenburg, Urt. v. 29.04.2021 — OVG 12 B 16.18 — § 26 TEHG Sanktion; keine Befreiung; Selbstverschulden unerheblich; bei technischem Versagen DEHSt nur Nachsicht bei hoeherer Gewalt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Frenz Emissionshandelsrecht (Kommentar TEHG/ZuV 2020) §§ 4-9, 26
-- Kloepfer Umweltrecht § 16 Rn. 100-180 (Emissionshandel)
-- Britz/Hellermann/Hermes EnWG § 13 Rn. 40-80 (Bezug Netz-EE-Emissionen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **TEHG-Pflicht pruefen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).

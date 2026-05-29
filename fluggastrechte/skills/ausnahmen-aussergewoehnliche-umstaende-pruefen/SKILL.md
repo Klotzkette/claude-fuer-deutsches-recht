@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-aussergewoehnliche-umstaende-pruefen
-description: "Prueft die Einrede aussergewoehnliche Umstaende nach Art. 5 Abs. 3 VO 261/2004. Differenziert zwischen Wetter Vulkanasche Vogelschlag Streik Flugsicherung Streik der eigenen Mitarbeiter wilder Streik technischem Defekt politischer Instabilitaet Sicherheitsrisiko medizinischem Notfall. EuGH-Rechtsprechung Wallentin-Hermann Pesokova Kruesemann Airhelp SAS Moens. Pflichtkriterium auch zumutbare Massnahmen zur Vermeidung. Erzeugt Subsumtion mit Pinpoint und Gegenargumenten."
+description: "Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
@@ -9,17 +9,17 @@ description: "Prueft die Einrede aussergewoehnliche Umstaende nach Art. 5 Abs. 3
 
 Art. 5 Abs. 3 VO 261/2004: Ein ausführendes Luftfahrtunternehmen ist nicht verpflichtet Ausgleichszahlungen zu leisten wenn es nachweisen kann dass die Annullierung **auf außergewöhnliche Umstände zurückgeht** die sich auch dann nicht hätten vermeiden lassen wenn alle zumutbaren Maßnahmen ergriffen worden waeren.
 
-**Beweislast** liegt bei der Airline (Wortlaut „nachweisen kann"). Pauschale Behauptung reicht nicht.
+**Beweislast** liegt bei der Airline (Wortlaut "nachweisen kann"). Pauschale Behauptung reicht nicht.
 
 ## Zwei-Stufen-Prüfung
 
 ### Stufe 1 — Liegt überhaupt ein außergewöhnlicher Umstand vor?
 
-Definition aus EuGH-Rechtsprechung (Wallentin-Hermann C-549/07 ständig): Außergewöhnlich sind Vorkommnisse die **nicht Teil der normalen Ausübung der Tätigkeit** des betroffenen Luftfahrtunternehmens sind und **von ihm nicht tatsächlich beherrschbar** sind.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Stufe 2 — Hätten zumutbare Maßnahmen den Schaden verhindert?
 
-EuGH C-294/10 (Eglitis Ratnieks) und folgende: Auch wenn ein außergewöhnlicher Umstand vorliegt muss die Airline darlegen dass **alle zumutbaren Maßnahmen** zur Vermeidung der Auswirkungen ergriffen wurden (Ersatzflugzeug Crew-Rotation Reserve-Crew Umbuchung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Katalog typischer Sachverhalte
 
@@ -30,19 +30,18 @@ EuGH C-294/10 (Eglitis Ratnieks) und folgende: Auch wenn ein außergewöhnlicher
 | Vulkanasche / Naturkatastrophe | EuGH ständig |
 | Sicherheitsrisiken Terrordrohung | EuGH ständig |
 | Streik der Flugsicherung (externer Dienstleister) | EuGH ständig |
-| Vogelschlag (Bird Strike) | EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesokova) |
-| Treibstoff Kerosin auf der Landebahn | EuGH, Urt. v. 26.06.2019 — C-159/18 (Moens) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Fluchtversuche Passagiere mit Behinderung des Bordbetriebs | je Einzelfall |
-| Schraube / Fremdkoerper auf Landebahn (Reifenschaden) | EuGH, Urt. v. 04.04.2019 — C-501/17 (Germanwings) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Krieg Embargo Luftraumsperrung | EuGH ständig |
 
 ### Nein regelmäßig keine außergewöhnlichen Umstände
 
 | Sachverhalt | Rspr. |
 |---|---|
-| Technischer Defekt der während des Routinebetriebs auftritt | EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann) |
-| Pannen die Folge eines verdeckten Konstruktionsfehlers sind | EuGH C-257/14 (van der Lans) — auch das ist Teil normalen Betriebs |
-| Streik der eigenen Mitarbeiter (wilder Streik) | EuGH, Urt. v. 17.04.2018 — C-195/17 ua (Kruesemann) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Personalmangel / Krankenstand Crew | st. Rspr. — Teil normalen Betriebs |
 | Computer-Störungen des Buchungssystems | st. Rspr. |
 | Wartung / TBO-Erreichung | Routine |
@@ -51,7 +50,7 @@ EuGH C-294/10 (Eglitis Ratnieks) und folgende: Auch wenn ein außergewöhnlicher
 
 | Sachverhalt | Differenzierung |
 |---|---|
-| Streik der eigenen Mitarbeiter durch Gewerkschaft | EuGH, Urt. v. 23.03.2021 — C-28/20 (Airhelp / SAS): kann außergewöhnlich sein **aber** Airline muss alle zumutbaren Maßnahmen ergriffen haben |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Wetter | bei wirklich extremen Bedingungen ja; bei normalen Wintern oder gemäßigtem Schneefall nein |
 | Slot-Verschiebung Flugverkehrsleitung | je nach Ursache (kapazitätsbezogen vs sicherheitsbezogen) |
 
@@ -63,7 +62,7 @@ Frage 1: Welche Begründung hat die Airline angegeben?
   - Pauschale Begründung ohne Detail → Beweislast nicht erfüllt → Anspruch erhalten
 
 Frage 2: Faellt der angegebene Sachverhalt in den Katalog
-„regelmäßig außergewöhnlich"?
+"regelmäßig außergewöhnlich"?
   - Nein → Anspruch erhalten; ggf. Sachverhalt kategorisieren als
     technischen Defekt
   - Ja → Stufe 2
@@ -97,5 +96,3 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
-- C-501/17 (Germanwings): Tabellenzeile korrigiert. Behauptetes Thema "Sabotage an der Maschine durch Dritte" war falsch; tatsaechliches Thema ist Reifenschaden durch Fremdkoerper (Schraube) auf der Landebahn als aussergewoehnlicher Umstand (verifiziert via dejure.org, EuGH Urt. v. 04.04.2019).
-- C-509/11 (OeBB-Personenverkehr): Im Skill-Text nicht auffindbar; kein Edit erforderlich. Hinweis: C-509/11 betrifft Eisenbahnpassagierrechte (VO 1371/2007), nicht Fluggastrechte VO 261/2004, und waere thematisch unzulaessig.

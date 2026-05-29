@@ -1,6 +1,6 @@
 ---
 name: stb-susa-debitorenliste-osa-offene-posten
-description: "Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Faelligkeitsstrukur Top-Schuldner Risikopruefung. Output OPOS-Liste mit Faelligkeitsstaffel."
+description: "Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Fälligkeitsstrukur Top-Schuldner Risikoprüfung. Output OPOS-Liste mit Fälligkeitsstaffel."
 ---
 
 # Debitoren-Saldenliste / Offene-Posten-Auswertung (OPOS)
@@ -36,7 +36,7 @@ Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faellig
 
 ### Standards
 
-- BMF zu Forderungsbewertung; aktuelle Schreiben verifizieren.
+- BMF zu Forderungsbewertung: massgeblich sind §§ 252, 253 HGB und § 6 Abs. 1 Nr. 2 EStG; aktuelle BMF-Schreiben zur Einzel- und Pauschalwertberichtigung ueber bundesfinanzministerium.de abrufbar.
 - IDW PS 480.
 - DATEV OPOS-Modul.
 
@@ -125,3 +125,5 @@ Stand: 05/2026.
 - InsO § 17.
 - StaRUG § 102.
 - IDW PS 480.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BMF-Hinweis ohne Marker neu formuliert) -->

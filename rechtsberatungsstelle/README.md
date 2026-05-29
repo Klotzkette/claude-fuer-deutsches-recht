@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 
 ## Wichtiger Hinweis: Rechtliche Grenzen nach dem RDG
@@ -84,7 +84,7 @@ Hochschulverankerte Kliniken wie die **Refugee Law Clinic Berlin** (HU Berlin/FU
 
 ### Studentische Rechtsberatung nach § 6 Abs. 2 Nr. 2 RDG
 
-Allgemeine studentische Beratungsstellen an Universitäten (oft „JuRI", „Jura hilft" o. ä.). Fokus: SGB II (Bürgergeld), Mietrecht, Verbraucherrecht, Familienrecht. Betrieb ausschließlich unter Aufsicht zugelassener Anwälte oder habilitierter Volljuristen.
+Allgemeine studentische Beratungsstellen an Universitäten (oft "JuRI", "Jura hilft" o. ä.). Fokus: SGB II (Bürgergeld), Mietrecht, Verbraucherrecht, Familienrecht. Betrieb ausschließlich unter Aufsicht zugelassener Anwälte oder habilitierter Volljuristen.
 
 ### AnwVer/DAV Pro-Bono-Initiativen
 
@@ -150,6 +150,5 @@ Nur der anleitende Jurist kann diesen Vermerk entfernen. Dokumente, die diesen V
 ## Zitierweise
 
 Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
-- BSG, Urt. v. 14.03.2018 – B 14 AS 17/17 R, BSGE 125, 210 Rn. 18 – „Sanktionsrecht".
-- BVerwG, Urt. v. 20.02.2020 – 1 C 1.19, BVerwGE 167, 319 Rn. 24.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 45.

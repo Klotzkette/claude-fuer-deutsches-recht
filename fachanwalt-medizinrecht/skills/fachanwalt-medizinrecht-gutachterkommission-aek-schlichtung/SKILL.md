@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
-description: "Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Pruefung. Pruefraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie."
+description: "Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie."
 ---
 
 # Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
@@ -29,8 +29,7 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 24.10.2023 — VI ZR 105/22 (Arzthaftung Aufklärungsmangel)
-- BGH, Urt. v. 2.7.2013 — VI ZR 554/12 (Beweislast Aufklärung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -105,7 +104,7 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 
 ## Strategie und Taktik
 
-- **Beweislast § 630h BGB**: bei grobem Behandlungsfehler Beweislast-Umkehr (BGH VI ZR 554/12)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Aufklärungsmangel**: Arzt muss beweisen, dass aufgeklärt wurde (Aufklärungsbogen + Gesprächs-Protokoll)
 - **Dokumentations-Mangel**: indizielle Wirkung gegen Arzt
 - **Schmerzensgeld-Tabellen** Hacks/Beck (Orientierung)
@@ -128,21 +127,15 @@ Stand: 05/2026. §§ 630a-h BGB seit 2013. Schlichtungsordnungen 2024 aktualisie
 
 ### Leitsatz-Zitate
 
-- BGH, Urt. v. 24.10.2023 — **VI ZR 105/22**, MedR 2024, 118 Rn. 16: Das Schlichtungsverfahren bei der Ärztekammer hemmt die Verjährung nach § 204 Abs. 1 Nr. 4 BGB analog ab Einleitung des Verfahrens; die Hemmung endet sechs Monate nach Abschluss des Verfahrens.
-- BGH, Urt. v. 02.07.2013 — **VI ZR 554/12**, NJW 2013, 3094 Rn. 11: Gutachten der Schlichtungsstelle ist keine bindende Entscheidung; es hat aber erhebliche indizielle Bedeutung im nachfolgenden Prozess und beeinflusst das Verhalten des Haftpflichtversicherers erheblich.
-- BGH, Urt. v. 19.10.2010 — **VI ZR 241/09**, NJW 2011, 596 Rn. 7: Das Schmerzensgeld wegen ärztlichen Behandlungsfehlers bemisst sich nach der Schwere der Verletzung, der Dauer der Beeinträchtigung und dem Grad des Verschuldens; Tabellen sind Orientierungswerte.
-- BSG, Urt. v. 28.03.2019 — **B 1 KR 13/18 R**, BSGE 128, 1 Rn. 20: MDK-Gutachten ist Sachverständigenbeweis im Sozialgerichtsprozess; die GKV kann Regressansprüche auf Basis des MDK-Ergebnisses geltend machen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 §§ 630a–630h BGB (Behandlungsvertrag und Patientenrechte) → § 204 Abs. 1 Nr. 4 BGB (Verjährungshemmung durch Schlichtung) → § 203 BGB (Hemmung durch Verhandlungen) → § 116 SGB X (GKV-Regress) → § 66 SGB V (MDK-Unterstützung) → § 287 ZPO (Schadensschätzung).
 
-### Kommentarliteratur
+### Quellenregel
 
-- Spickhoff Medizinrecht, 3. Aufl. 2021, § 630h BGB Rn. 1 ff.
-- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, §§ 111–118 (Schlichtungsverfahren).
-- Martis/Winkhart Arzthaftungsrecht, 5. Aufl. 2021, Stichwort: Schlichtungsstelle.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen im Schlichtungsverfahren
 
 | Frist | Inhalt | Norm |
@@ -160,7 +153,7 @@ Bevor losgelegt wird, kläre:
 2. **Läuft die Verjährung bald ab?** — Schlichtungsantrag sofort stellen um Hemmung § 204 BGB auszulösen; parallel Verjährungsverzicht bei Versicherer beantragen.
 3. **GKV-Patient?** — MDK-Gutachten parallel beantragen (§ 66 SGB V); kostenlos für Patient.
 4. **Berufshaftpflichtversicherung des Arztes bekannt?** — Versicherer wechselt in Vergleichsbereitschaft nach positivem Schlichtungsgutachten.
-5. **Schmerzensgeld bereits beziffert?** — Hacks/Wellner/Häcker-Tabellen als Ankerwert; realer Schadensbetrag für materielle Schäden belegen.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 **Entscheidungsbaum:**
 - Verjährung in < 3 Monaten → Schlichtungsantrag sofort + Verjährungsverzicht

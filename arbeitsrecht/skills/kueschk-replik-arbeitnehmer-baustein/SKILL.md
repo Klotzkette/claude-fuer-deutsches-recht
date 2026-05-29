@@ -1,6 +1,6 @@
 ---
 name: kueschk-replik-arbeitnehmer-baustein
-description: "Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie fuer den Kammertermin."
+description: "Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie für den Kammertermin."
 ---
 
 # Replik des Arbeitnehmers auf Klageerwiderung
@@ -34,7 +34,7 @@ Die Beklagte behauptet, der Betrieb beschäftige regelmäßig weniger als zehn A
 **II. Zum behaupteten Kündigungsgrund**
 
 *Bei betriebsbedingter Kündigung:*
-Die Beklagte behauptet pauschal einen Auftragsrückgang. Dies ist nicht substantiiert. Nach BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 Rn. 20 muss der Arbeitgeber konkret darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf dauerhaft entfallen ist. Daran fehlt es hier.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Bei verhaltensbedingter Kündigung:*
 Eine Abmahnung wurde nie ausgesprochen. Dies ist unstreitig. Ohne vorherige Abmahnung ist die verhaltensbedingte Kündigung unverhältnismäßig.
@@ -81,20 +81,14 @@ Step 6: Schriftsatz fristgerecht einreichen
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 — Bei betriebsbedingter Kündigung muss der Arbeitgeber konkret darlegen, welche unternehmerische Entscheidung getroffen wurde und warum der Beschäftigungsbedarf dauerhaft entfallen ist; pauschale Erklärungen genügen nicht.
-- BAG, Urt. v. 17.06.2010 – 2 AZR 139/09, NZA 2010, 1025 — Bestreitet der Arbeitnehmer die Sozialauswahl substanziiert, muss der Arbeitgeber die Sozialdaten aller vergleichbaren Arbeitnehmer offenlegen; unterlaufen ihm dabei Fehler, trägt er das Risiko.
-- BAG, Urt. v. 09.06.2011 – 2 AZR 284/10, NZA 2011, 1175 — Ein pauschal gehaltenes Bestreiten ist im Zivilprozess unbeachtlich; der Arbeitnehmer muss bei substantiiertem Vortrag des Arbeitgebers konkret auf jede einzelne Tatsachenbehauptung eingehen.
-- BAG, Urt. v. 22.09.2016 – 2 AZR 276/16, NZA 2017, 175 — Bei verhaltensbedingter Kündigung muss der Arbeitgeber konkret darlegen, welches Verhalten wann stattgefunden hat; abstrakte Schilderungen von Verhaltensproblemen genügen nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 200-240 — (Darlegungs- und Beweislast, Substantiierung)
-- APS/Präwe, 6. Aufl. 2022, § 1 KSchG Rn. 90 ff. — (abgestufte Darlegungslast)
-- Zeiss/Schreiber, ZPO, 14. Aufl. 2022, § 138 Rn. 5-15 — (Erklärungslast, substanziiertes Bestreiten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Substantiierungstiefe — Was wird erwartet?
 
-Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal „Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
+Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
 
 ---
 

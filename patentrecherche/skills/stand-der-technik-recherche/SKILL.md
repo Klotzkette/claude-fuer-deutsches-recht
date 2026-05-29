@@ -1,13 +1,13 @@
 ---
 name: stand-der-technik-recherche
-description: "Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelten CPC-IPC-Klassen die wichtigsten Veroeffentlichungen die der Anmeldetag-Reife der Mandantenerfindung im Wege stehen koennten. Patent- und Nichtpatentliteratur (NPL) Aufsaetze Konferenzproceedings Dissertationen Datenblaetter Produktinformationen. Beruecksichtigt § 3 Abs. 1 PatG Art. 54 Abs. 2 EPUe (Stand der Technik weltweit jede Sprache) und § 3 Abs. 2 PatG Art. 54 Abs. 3 EPUe (aeltere Anmeldungen nur Neuheitsschaedlich). Liefert Trefferdossiers mit Pinpoint auf Anspruch oder Absatz Bewertung als A X Y P E im Stil der EPA-Recherchezeichen. Disclaimer Vorrecherche keine amtliche Recherche."
+description: "Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelten CPC-IPC-Klassen die wichtigsten Veröffentlichungen die der Anmeldetag-Reife der Mandantenerfindung im Wege stehen koennten. Patent- und Nichtpatentliteratur (NPL) Aufsaetze Konferenzproceedings Dissertationen Datenblaetter Produktinformationen. Berücksichtigt § 3 Abs. 1 PatG Art. 54 Abs. 2 EPUe (Stand der Technik weltweit jede Sprache) und § 3 Abs. 2 PatG Art. 54 Abs. 3 EPUe (aeltere Anmeldungen nur Neuheitsschaedlich). Liefert Trefferdossiers mit Pinpoint auf Anspruch oder Absatz Bewertung als A X Y P E im Stil der EPA-Recherchezeichen. Disclaimer Vorrecherche keine amtliche Recherche."
 ---
 
 # stand-der-technik-recherche
 
 ## Zweck
 
-Vor einer eigenen Patentanmeldung der Mandantin (oder zur Beratung der Mandantin „lohnt sich die Anmeldung?") wird der Stand der Technik recherchiert. Dieses Skill nutzt die Treffer aus `agentische-datenbank-recherche` und ordnet sie methodisch ein.
+Vor einer eigenen Patentanmeldung der Mandantin (oder zur Beratung der Mandantin "lohnt sich die Anmeldung?") wird der Stand der Technik recherchiert. Dieses Skill nutzt die Treffer aus `agentische-datenbank-recherche` und ordnet sie methodisch ein.
 
 ## Rechtsrahmen
 
@@ -87,7 +87,7 @@ Empfehlung an die Patentanwältin:
 
 - **Volltextsuche in allen Sprachen** ist nicht möglich. Klar kommunizieren.
 - **Geheime ältere Anmeldungen** (Art. 54(3) EPÜ-Anmeldungen, die noch nicht publiziert sind) sind beim Recherche-Tag **nicht** erfassbar. Erst nach Ablauf der 18-Monats-Geheimhaltungsfrist.
-- **Selbst-Beschwerde:** Frühere Anmeldungen der Mandantin selbst können neuheitsschädlich sein — § 3 PatG kennt keine „eigene" Ausnahme. **Mandant ausdrücklich fragen**, ob es frühere Anmeldungen oder Veröffentlichungen gibt.
+- **Selbst-Beschwerde:** Frühere Anmeldungen der Mandantin selbst können neuheitsschädlich sein — § 3 PatG kennt keine "eigene" Ausnahme. **Mandant ausdrücklich fragen**, ob es frühere Anmeldungen oder Veröffentlichungen gibt.
 - **Vorträge / Messen** der Mandantin in den letzten 18 Monaten erfragen — nicht selten erfolgt dort eine offenkundige Vorbenutzung.
 
 ## Disclaimer
@@ -104,8 +104,8 @@ Bevor die Recherche begonnen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 23.01.2018 — X ZR 166/15 (Stand der Technik — NPL):** Nicht-Patent-Literatur kann ebenso gut neuheitsschaedlich sein wie Patentdokumente; Hochschulschriften, Fachaufsaetze und Produktkataloge sind dem Stand der Technik zuzurechnen, wenn sie vor dem Prioritaetstag oeffentlich zugaenglich waren.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 17.04.2007 — X ZR 208/05 (Offenkundige Vorbenutzung):** Eine offenkundige Vorbenutzung der Erfindung durch den Anmelder selbst vor dem Anmeldetag zerstoert die Neuheit, auch wenn keine Drittveroeffentlichung stattgefunden hat; ein Messevortrag, eine Produktdemonstration oder ein Prospekt genuechen als Oeffentlichmachung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BPatG, Beschl. v. 14.04.2015 — 13 W (pat) 53/11 (Fachmann-Standard):** Der Fachmann ist eine Hilfskonstruktion mit durchschnittlichem Fachwissen im betreffenden Technikgebiet und Zugang zum gesamten relevanten Stand der Technik; interdisziplinaere Erfindungen koennen ein Fachteam erfordern, das verschiedene Spezialisierungen vereint.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

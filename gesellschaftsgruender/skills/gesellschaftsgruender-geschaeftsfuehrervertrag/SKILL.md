@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsfuehrervertrag
-description: "Geschaeftsfuehrervertrag fuer GmbH-Geschaeftsfuehrer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kuendigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Pruefraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschaeftsfuehrervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer."
+description: "Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer."
 ---
 
 # Geschäftsführer-Anstellungsvertrag GmbH
@@ -29,20 +29,15 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 25.03.1991 – II ZR 169/90, BGHZ 114, 127** — Grundsatz-Entscheidung zum Trennungsprinzip: Organstellung und Anstellungsverhaeltnis sind streng zu trennen; die Abberufung des GF beendet nicht automatisch das Anstellungsverhaeltnis; gesondertes Kuendigungsschreiben erforderlich.
-- **BGH, Urt. v. 14.07.1966 – II ZR 212/64, BGHZ 46, 74** — Geschaeftsfuehrer-Anstellungsvertrag ist kein Arbeitsvertrag; GF hat kein KSchG-Schutz; ordentliche Kuendigung nach Vertragsfristen.
-- **BFH, Urt. v. 27.11.2019 – I R 28/17, BFHE 267, 210** — Pensionszusage an Gesellschafter-GF ist vGA wenn sie nicht dem Fremdvergleich standhalt: Erdienungszeitraum mindestens 10 Jahre; kein Widerrufsvorbehalt; keine rueckwirkende Vereinbarung.
-## Kommentarliteratur
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Quellenregel
 
-- Scholz/Uwe H. Schneider, GmbHG, 13. Aufl., § 35 Rn. 1-100 (Geschaeftsfuehrer-Befugnisse; Anstellungsvertrag)
-- Lutter/Hommelhoff/Kleindiek, GmbHG, 21. Aufl., § 38 Rn. 1-50 (Abberufung; Trennungsprinzip)
-- Gosch, KStG, 4. Aufl. 2020, § 8 Rn. 800-1000 (vGA bei Gesellschafter-GF; Pensionszusage-Anforderungen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Anstellungsvertrag-Check
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
 |---|---|---|---|
-| 1 | Trennungsprinzip beachtet? | BGH BGHZ 114, 127 | Organstellung + Anstellungsvertrag separat |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | SV-Status bestimmt? | § 7a SGB IV | Statusfeststellungsverfahren empfohlen |
 | 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Verguetung; Erdienungszeitraum Pension |
 | 4 | Wettbewerbsverbot mit Karenz? | § 74 II HGB analog | Ohne Karenz: Klausel unverbindlich |
@@ -131,8 +126,8 @@ Grund (§ 626 BGB) jederzeit moeglich.
 ## Quellen und Vertiefung
 
 - §§ 6, 35, 38, 43, 46 GmbHG; §§ 620, 626 BGB; § 74 II HGB analog
-- BGH BGHZ 114, 127 (1991); BGH BGHZ 46, 74 (1966); BFH BFHE 267, 210 (2019)
-- Scholz/Schneider § 35; Lutter/Hommelhoff § 38; Gosch KStG § 8
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 
@@ -140,5 +135,3 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — Pflichten nach Eintragung
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Statusfeststellung vertiefen
-
-<!-- AUDIT 27.05.2026: BAG 10 AZR 84/14 entfernt. Tatssächliches Thema: Provisions-/Stornohaftungs-AGB Transparenz § 307 BGB — nicht Wettbewerbsverbot. Zusätzlich: § 74 II HGB gilt nach BGH-Linie nicht analog für GmbH-GF. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

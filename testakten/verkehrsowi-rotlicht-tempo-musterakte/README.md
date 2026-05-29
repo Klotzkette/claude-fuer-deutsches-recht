@@ -1,5 +1,14 @@
 # Testakte: VerkehrsOWi – Qualifizierter Rotlichtverstoß, Tempoüberschreitung und Fahrverbot
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-verkehrsowi-rotlicht-tempo-musterakte` (diese Akte) | [testakte-verkehrsowi-rotlicht-tempo-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo-musterakte.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Mandatsakte für das Übungsprojekt `claude-fuer-deutsches-recht`. Alle Personen, Kennzeichen, Behördenzeichen, Messwerte und Beträge sind frei erfunden und ausschließlich zu Lernzwecken erstellt.
 
 ---

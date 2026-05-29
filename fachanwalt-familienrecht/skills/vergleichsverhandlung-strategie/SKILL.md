@@ -1,23 +1,17 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
 ## Aktuelle Rechtsprechung (Vergleich/Einigung Familienrecht)
 
-- BGH, Beschl. v. 26.10.2011 - XII ZB 465/11, NJW 2012, 523 Rn. 18 — Eine Scheidungsfolgenvereinbarung muss der notariellen Beurkundung nach § 1410 BGB beduerfen, wenn sie Versorgungsausgleich oder Gueterrecht betrifft; ein Anwaltsvergleich ist insoweit nicht ausreichend.
-- BGH, Urt. v. 18.03.2020 - XII ZB 115/19, FamRZ 2020, 893 Rn. 22 — Auf den Versorgungsausgleich kann nur durch notariellen Ehevertrag, nicht durch Prozessvergleich verzichtet werden; ein familiengerichtlicher Protokollvergleich ist unwirksam.
-- BGH, Beschl. v. 15.03.2017 - XII ZB 489/16, FamRZ 2017, 884 Rn. 14 — Unterhaltsvereinbarungen im Vergleich sind fuer vollstreckbar zu erklaeren, wenn sie hinreichend bestimmt sind und vom Gericht nach § 156 FamFG protokolliert wurden; ein Anwaltsvergleich nach § 796a ZPO ist alternativ moeglich.
-- BGH, Beschl. v. 11.06.2014 - XII ZB 660/13, FamRZ 2014, 1383 Rn. 12 — Sorge- und Umgangsregelungen koennen im Vergleich geregelt werden; das Gericht prueft die Vereinbarung am Kindeswohl und kann sie ablehnen (§ 156 Abs. 2 FamFG).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- BeckOK FamFG/Heilmann, § 156 Rn. 1-30 (Guütliche Einigung, Cochemer Modell)
-- MuKoBGB/Maier, § 1585c Rn. 1-20 (Unterhaltsvereinbarung, Form)
-- Wendl/Dose, Unterhaltsrecht, Teil “Vergleich und Abfindung”
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Sachverhalte aus dem Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.

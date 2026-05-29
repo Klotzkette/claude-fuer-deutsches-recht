@@ -1,5 +1,14 @@
 # Testakte: Juristischer Mandantenbrief in Einfacher und Leichter Sprache
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-einfache-leichte-sprache-jura-mandantenbrief` (diese Akte) | [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Diese Lernakte zeigt, wie ein juristisches Anwaltsschreiben in zwei vereinfachte Sprachstufen übertragen wird — **Einfache Sprache** (DIN SPEC 33429) und **Leichte Sprache** (Regelwerk Netzwerk Leichte Sprache). Zielgruppe ist eine fiktive Mandantin mit kognitiven Einschränkungen, die unter rechtlicher Betreuung steht.
 
 ---
@@ -8,7 +17,7 @@ Diese Lernakte zeigt, wie ein juristisches Anwaltsschreiben in zwei vereinfachte
 
 ### Warum braucht es Einfache und Leichte Sprache im Recht?
 
-Anwaltsschreiben sind für Juristinnen und Juristen verständlich — für viele Mandantinnen und Mandanten jedoch nicht. Schachtelsätze, Fachbegriffe wie „Bestandskraft" oder „Wiedereinsetzung in den vorigen Stand" und dichte Gesetzesverweise überfordern Menschen mit wenig Leseerfahrung, Lernschwäche, kognitiven Einschränkungen oder geringen Deutschkenntnissen.
+Anwaltsschreiben sind für Juristinnen und Juristen verständlich — für viele Mandantinnen und Mandanten jedoch nicht. Schachtelsätze, Fachbegriffe wie "Bestandskraft" oder "Wiedereinsetzung in den vorigen Stand" und dichte Gesetzesverweise überfordern Menschen mit wenig Leseerfahrung, Lernschwäche, kognitiven Einschränkungen oder geringen Deutschkenntnissen.
 
 Besonders betroffen sind **betreute Personen** im Sinne des § 1814 BGB. Sie haben oft eine gesetzliche Betreuerin oder einen gesetzlichen Betreuer an ihrer Seite, aber Entscheidungen — wie die Frage, ob Widerspruch gegen einen Behördenbescheid eingelegt werden soll — müssen in vielen Fällen von ihnen selbst mitgetragen werden. Dafür brauchen sie Informationen, die sie tatsächlich verstehen.
 
@@ -93,7 +102,7 @@ Diese Akte eignet sich für folgende Lernszenarien:
 
 2. **Regelwerke anwenden:** Die DIN SPEC 33429 und das Regelwerk Netzwerk Leichte Sprache können anhand der Fassungen direkt überprüft werden. Welche Regeln wurden eingehalten? Wo gibt es Abweichungen (z. B. ein zu langer Satz)?
 
-3. **Automatische Qualitätsprüfung interpretieren:** Die JSON-Dateien 05 und 06 zeigen, was ein Skript automatisch prüfen kann und was nicht. Dass der Qualitätscheck „ok" meldet, heißt nicht, dass der Text gut verständlich ist — das illustriert die Grenzen maschineller Prüfung.
+3. **Automatische Qualitätsprüfung interpretieren:** Die JSON-Dateien 05 und 06 zeigen, was ein Skript automatisch prüfen kann und was nicht. Dass der Qualitätscheck "ok" meldet, heißt nicht, dass der Text gut verständlich ist — das illustriert die Grenzen maschineller Prüfung.
 
 4. **Sozialrecht im Kontext:** Der Sachverhalt (§ 22 SGB II, Widerspruchsfrist, Akteneinsicht) bietet eine kompakte Einführung in das Bürgergeld-Recht und die Schritte eines Widerspruchsverfahrens.
 
@@ -107,4 +116,4 @@ Diese Akte ist ein **fiktives Ausbildungsmaterial**. Alle Personen (Frau Neumann
 
 Das Dokument **ersetzt keine rechtliche Beratung** im Einzelfall. Die dargestellte Rechtslage ist vereinfacht und kann von der tatsächlichen Rechtslage abweichen. Für konkrete Rechts- oder Sprachfragen wenden Sie sich bitte an qualifizierte Fachleute.
 
-Die Leichte-Sprache-Fassungen wurden **nicht von Menschen aus der Zielgruppe geprüft**. Eine solche Prüfung ist nach dem Regelwerk des Netzwerks Leichte Sprache zwingend vorgeschrieben, bevor ein Text als „Leichte Sprache" bezeichnet werden darf. Die Fassungen hier sind daher als Entwürfe zu verstehen.
+Die Leichte-Sprache-Fassungen wurden **nicht von Menschen aus der Zielgruppe geprüft**. Eine solche Prüfung ist nach dem Regelwerk des Netzwerks Leichte Sprache zwingend vorgeschrieben, bevor ein Text als "Leichte Sprache" bezeichnet werden darf. Die Fassungen hier sind daher als Entwürfe zu verstehen.

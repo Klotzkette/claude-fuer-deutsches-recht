@@ -1,6 +1,6 @@
 ---
 name: stb-dba-quellensteuer-erstattung-bzst-50c-estg
-description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt fuer Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermaessigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steuerabzug. § 50d Abs. 3 EStG Anti-Treaty-Shopping. § 50j EStG Cum-Cum. Output BZSt-Formularliste Antrags-Checkliste Frist-Hinweise."
+description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steuerabzug. § 50d Abs. 3 EStG Anti-Treaty-Shopping. § 50j EStG Cum-Cum. Output BZSt-Formularliste Antrags-Checkliste Frist-Hinweise."
 ---
 
 # Quellensteuer-Entlastung beim BZSt (§ 50c EStG)
@@ -14,7 +14,7 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 1. Welche Einkunftsart liegt vor (Dividenden, Zinsen, Lizenzen, Verguetungen Kuenstler/Sportler/Aufsichtsraete)?
 2. Wer ist Vergueterschuldner (deutsche Gesellschaft), wer Vergueterglaeubiger (auslaendische Person)?
 3. In welchem Land ist der Glaeubiger ansaessig — DBA-Partner?
-4. Welcher DBA-Hoechstsatz Quellensteuer gilt (5/10/15 Prozent bei Dividenden, 0/10 bei Zinsen, 0/5/10 bei Lizenzen — **konkret im DBA verifizieren**)?
+4. Welcher DBA-Hoechstsatz Quellensteuer gilt (5/10/15 Prozent bei Dividenden, 0/10 bei Zinsen, 0/5/10 bei Lizenzen — konkret im DBA-Text pruefen)?
 5. Anwendbarkeit MTRL/EU-ZinsLizenzRL bei EU-Konzernverbund?
 6. Liegt Substanz vor (§ 50d Abs. 3 EStG-Vorpruefung — Anti-Treaty-Shopping)?
 7. Soll Freistellungsbescheinigung vor Zahlung oder Erstattung nach Einbehalt beantragt werden?
@@ -35,11 +35,11 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- EuGH C-504/16 (Deister Holding) und C-613/16 (Juhler Holding) vom 20.12.2017 — § 50d Abs. 3 EStG alte Fassung EU-rechtswidrig. — **Aktenzeichen verifizieren**.
-- Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst (BGBl. 2021 I S. 1259) — **Detailprueferschritt: Stand AbzStEntModG-Reform und Folgegesetze verifizieren**.
-- BFH I R 22/14 zu Vorausssetzungen Freistellungsbescheinigung — **verifizieren**.
-- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — **konkretes Datum verifizieren**.
-- BMF-Schreiben zu § 50j EStG (Cum-Cum) — **verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst durch AbzStEntModG (BGBl. 2021 I S. 1259) — aktuellen Stand der Folgeregelungen im BMF-Veroeffentlichungsverzeichnis pruefen.
+- Aktuelle BFH-Rechtsprechung zu Voraussetzungen der Freistellungsbescheinigung in juris abrufen.
+- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu § 50j EStG (Cum-Cum) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -84,7 +84,7 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 - Voraussetzung: Auslaendische Gesellschaft ist berechtigt UND die Beteiligten sind in gleichem Mass berechtigt OR es liegen wirtschaftliche oder sonstige beachtliche Gruende vor.
 - Substanztest: Personal, Geschaeftsraeume, eigene Geschaeftstaetigkeit.
 - Bei reiner Holding ohne Substanz: Entlastung verweigert.
-- Reform 2021 (AbzStEntModG): Look-Through-Test entschaerft, dafuer abgesicherter Hauptzweckstest. **Konkrete Wortlaut-Anpassungen verifizieren**.
+- Reform 2021 (AbzStEntModG, BGBl. 2021 I S. 1259): Look-Through-Test entschaerft, dafuer abgesicherter Hauptzweckstest (vgl. § 50d Abs. 3 EStG n.F.).
 
 ### Cum-Cum (§ 50j EStG)
 
@@ -153,4 +153,6 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 50a, § 50c, § 50d, § 50g, § 50j EStG. § 43b EStG. Mutter-Tochter-RL 2011/96/EU. Zins-/Lizenz-RL 2003/49/EG. EuGH Deister Holding C-504/16 (20.12.2017) — **Aktenzeichen verifizieren**. **BZSt-Formularnummern, BMF-Schreiben-Daten zu § 50d Abs. 3 EStG, sowie aktuelle EU-rechtliche Folgeentwicklung vor Uebernahme verifizieren — Stand AbzStEntModG-Reform laufend pruefen.**
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 2 belegt (EuGH C-504/16 / C-613/16 20.12.2017 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

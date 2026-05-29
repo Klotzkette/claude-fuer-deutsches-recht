@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-oeffentliches-recht
-description: "Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer „Grundrechtsprüfung\", „Verhältnismäßigkeit\", „Ermessen prüfen\", „Klageart bestimmen\" oder „Vorlage EuGH\" sagt."
+description: 'Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung", "Verhältnismäßigkeit", "Ermessen prüfen", "Klageart bestimmen" oder "Vorlage EuGH" sagt.'
+
 ---
 
 # Methodenlehre — Öffentliches Recht
@@ -10,7 +11,7 @@ description: "Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfun
 Das öffentliche Recht hat drei methodische Eigenheiten, die es vom Zivil- und Strafrecht unterscheiden:
 1. Die **Schichtenprüfung** bei Grundrechten (Schutzbereich – Eingriff – Rechtfertigung).
 2. Die **Verhältnismäßigkeit** als allgegenwärtiger Maßstab.
-3. Das **Ermessen** und seine Fehler — die Verwaltung „kann", das Gericht prüft die Grenzen.
+3. Das **Ermessen** und seine Fehler — die Verwaltung "kann", das Gericht prüft die Grenzen.
 
 Hinzu kommt die prozessuale Methodik: Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs-, allg. Leistungsklage, Normenkontrolle), Zulässigkeit prüfen, dann Begründetheit.
 
@@ -26,7 +27,7 @@ Bei jedem Grundrechtseingriff dreistufig:
 
 ### 1. Schutzbereich
 - **Persönlicher Schutzbereich**: Wer ist Grundrechtsträger? Deutschen-Grundrechte (Art. 8, 9, 11, 12 GG) — keine EU-Ausländer? (h. M.: auf Unionsbürger Schutz aus Art. 18 AEUV i. V. m. nationaler Norm.)
-- **Sachlicher Schutzbereich**: Welches Verhalten ist geschützt? Wortlaut, Telos, Tradition (z. B. „Versammlung" — friedlich und ohne Waffen).
+- **Sachlicher Schutzbereich**: Welches Verhalten ist geschützt? Wortlaut, Telos, Tradition (z. B. "Versammlung" — friedlich und ohne Waffen).
 - **Persönliche und sachliche Schutzbereiche** strikt voneinander trennen.
 
 ### 2. Eingriff
@@ -105,14 +106,14 @@ Faustregel: Erst die Maßnahme qualifizieren (VA oder nicht?), dann die Klageart
 - **Verhältnismäßigkeit ohne legitimen Zweck**: Erst den Zweck bestimmen, dann die vier Stufen.
 - **Geeignetheit zu streng prüfen**: Es reicht, wenn die Maßnahme den Zweck **fördern kann**. Vollständige Zwecker­reichung ist nicht nötig.
 - **Erforderlichkeit/Angemessenheit verschmelzen**: Trennen — Erforderlichkeit ist relativ (gibt es Milderes?), Angemessenheit ist abwägend.
-- **Ermessensfehler ohne Differenzierung**: Welche Art von Fehler? Nicht „die Behörde hat falsch entschieden", sondern „Ermessensfehlgebrauch wegen sachfremder Erwägung".
+- **Ermessensfehler ohne Differenzierung**: Welche Art von Fehler? Nicht "die Behörde hat falsch entschieden", sondern "Ermessensfehlgebrauch wegen sachfremder Erwägung".
 - **Klageart und Maßnahme verwechseln**: Wer Anfechtungsklage prüft, muss zuerst feststellen, dass ein VA vorliegt.
 
 ## Drill-Modus
 
 1. Skill stellt Fall.
 2. Studierender bestimmt Maßnahme, Klageart, Aufbau.
-3. Skill korrigiert pro Stufe: „Schutzbereich vollständig? Eingriff begründet?"
+3. Skill korrigiert pro Stufe: "Schutzbereich vollständig? Eingriff begründet?"
 4. Verhältnismäßigkeit wird Schritt für Schritt durchgegangen — vier eigenständige Subsumtionsblöcke.
 5. Bei Ermessen: Skill fragt nach der Fehlerart und nach der korrekten Begründung.
 
@@ -125,6 +126,6 @@ Faustregel: Erst die Maßnahme qualifizieren (VA oder nicht?), dann die Klageart
 
 ## Was diese Skill nicht tut
 
-- Sie ersetzt nicht Jarass/Pieroth, Maurer/Waldhoff, Hufen oder Schmidt-Aßmann.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Sie ist kein Klagereihen-Skript.
 - Sie schreibt keine ausgewerteten Klausuren — sie übt die Methodik.

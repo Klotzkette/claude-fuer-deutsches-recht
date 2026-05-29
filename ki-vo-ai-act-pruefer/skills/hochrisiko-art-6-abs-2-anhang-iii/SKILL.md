@@ -1,154 +1,252 @@
 ---
 name: hochrisiko-art-6-abs-2-anhang-iii
-description: "Unternehmen prueft ob sein KI-System in einen der acht sensiblen Anwendungsbereiche der KI-VO faellt. Art. 6 Abs. 2 i.V.m. Anhang III KI-VO Hochrisiko-Zuordnung. Pruefraster: Durchlauf aller acht Anhang-III-Bereiche Biometrie kritische Infrastruktur Bildung Beschaeftigung wesentliche Dienste Strafverfolgung Migration Justiz. Rueckausnahme Art. 6 Abs. 3 beachten. Output: strukturierte Zuordnungsentscheidung mit Begruendung je Bereich. Abgrenzung zu hochrisiko-art-6-abs-1-sicherheitsbauteil (Anhang-I-Sektorrecht) und rueckausnahme-art-6-abs-3 (Ausnahmen)."
+description: "Vertiefter Hochrisiko-Checker fuer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen."
 ---
 
-# Hochrisiko-KI: Anhang III — Art. 6 Abs. 2 KI-VO (Entscheidungsbaum)
+# Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO
 
 ## Zweck
 
-Art. 6 Abs. 2 KI-VO i.V.m. Anhang III ist der zweite und in der Praxis häufigste Pfad zur Hochrisiko-Einstufung. Dieser Skill geht alle acht Anhang-III-Bereiche systematisch durch.
+Dieser Skill prüft, ob ein bereits als KI-System eingeordnetes System nach Art. 6 Abs. 2 KI-VO Hochrisiko ist, weil es in einen der Anhang-III-Tatbestände fällt. Schwerpunkt ist die konkrete Zweckbestimmung und der reale Einsatzkontext, nicht der bloße Name des Modells oder Tools.
 
-## Prüfmethodik
+Wichtig: Ein allgemeiner Chatbot, ein GPAI-System oder eine ChatGPT-ähnliche Oberfläche ist nicht allein deshalb Hochrisiko, weil man ihn theoretisch in Personalwesen, Justiz, Bildung oder Verwaltung einsetzen könnte. Hochrisiko entsteht regelmäßig erst durch den intendierten oder tatsächlich verantworteten Einsatz für einen Anhang-III-Zweck.
 
-Das System fragt den Nutzer für jeden der acht Bereiche, ob das KI-System in diesem Bereich tätig ist oder dort eingesetzt wird. Bereits bei einem positiven Treffer liegt (vorbehaltlich der Rückausnahme nach Art. 6 Abs. 3) Hochrisiko vor.
+## Vorfragen
 
-## Bereich 1 — Biometrische Identifikation und Kategorisierung (Anhang III Nr. 1)
+Vor der Anhang-III-Prüfung immer erfassen:
 
-**Systemtypen:**
-- Biometrische Fernidentifikationssysteme (ausgenommen solche zur Strafverfolgungsverifizierung in Echtzeit, die unter Art. 5 fallen)
-- Systeme zur biometrischen Kategorisierung nach biometrischen Daten
-- Emotionserkennungssysteme (außerhalb von Art. 5-Verboten und außerhalb von sicherheits-/medizinischen Ausnahmen)
+1. Welches KI-System wird geprüft: Modell, API, Chatbot, Agent, Workflow, Fachmodul, Gesamtprodukt?
+2. Wer bestimmt den Zweck: Anbieter, Betreiber, Fachabteilung, Kunde, öffentliche Stelle?
+3. Was steht in Gebrauchsanweisung, Leistungsbeschreibung, Marketing, Prompt-Bibliothek, Systemrollen, Berechtigungskonzept und technischer Dokumentation?
+4. Welche tatsächlichen Nutzungsszenarien sind erlaubt, geduldet, technisch möglich oder ausdrücklich verboten?
+5. Betrifft die Ausgabe natürliche Personen oder kritische Infrastrukturen?
+6. Wird die Ausgabe nur allgemein assistierend genutzt oder beeinflusst sie Entscheidung, Bewertung, Zugang, Priorisierung, Zuweisung oder Rechtsanwendung?
 
-**Prüffragen:**
-- Identifiziert oder verifiziert das System Personen anhand biometrischer Daten?
-- Kategorisiert es Personen nach biometrischen Merkmalen?
+## Kernlogik: Zweckbestimmung vor Tool-Label
 
-## Bereich 2 — Kritische Infrastruktur (Anhang III Nr. 2)
+Prüfe getrennt:
 
-**Systemtypen:**
-- KI-Systeme zur Verwaltung und zum Betrieb kritischer Infrastruktur: Strom, Wasser, Gas, Wärme, Verkehr, Telekommunikation
+| Ebene | Frage | Bedeutung |
+|---|---|---|
+| Anbieter-Zweckbestimmung | Für welchen konkreten Kontext wird das System laut Anbieter bestimmt? | Ausgangspunkt der Klassifikation |
+| Betreiber-Zweck | Wofür nimmt der Betreiber das System in Betrieb? | Kann eigenen Hochrisiko-Einsatz begründen |
+| Tatsächlicher Organisationsgebrauch | Wird ein kritischer Einsatz erlaubt, verlangt, geduldet oder systematisch genutzt? | Kann Zweckbild prägen und Pflichten auslösen |
+| Vernünftigerweise vorhersehbarer Fehlgebrauch | Ist Off-label-Nutzung naheliegend, obwohl nicht intendiert? | Governance, Warnungen, Kontrollen, Re-Evaluation |
+| Isolierter Regelverstoß | Nutzt ein Mitarbeiter das Tool entgegen klarer Regeln und Kontrollen? | Vorfall/Compliance-Thema, nicht automatisch neue Anbieter-Zweckbestimmung |
 
-**Prüffragen:**
-- Wird das System für die Steuerung, Überwachung oder Verwaltung kritischer Infrastruktur eingesetzt?
+## Chatbot-/GPAI-Grundsatz
 
-## Bereich 3 — Bildung und Berufsausbildung (Anhang III Nr. 3)
+Ein General-Purpose-AI-Modell oder allgemeiner Chatbot ist typischerweise breit verwendbar. Die Hochrisiko-Einstufung knüpft aber an das KI-System und seine Zweckbestimmung in einem Anhang-III-Kontext an.
 
-**Systemtypen:**
-- KI-Systeme zur Bestimmung des Zugangs zu Bildungseinrichtungen
-- KI-Systeme zur Zuweisung zu Bildungseinrichtungen
-- KI-Systeme zur Bewertung von Lernergebnissen (Prüfungen, Lernstandserhebungen)
-- KI-Systeme zur Bewertung der Eignung von Schülern oder Studierenden
-- KI-Systeme zur Überwachung unzulässigen Verhaltens bei Prüfungen
+Prüfe deshalb:
 
-**Prüffragen:**
-- Entscheidet das System über Zulassung, Bewertung oder Zugang in Bildungskontexten?
+- **Allgemeiner Assistent:** Textgenerierung, Recherche, Zusammenfassung, Übersetzung, Entwurfshilfe ohne Einsatz zur Entscheidung über natürliche Personen: regelmäßig nicht allein Hochrisiko; Art. 50 und ggf. GPAI-Pflichten prüfen.
+- **Fachlich eingebetteter Assistent:** LLM wird in Recruiting, Kredit, Bildung, Justiz, Notfalltriage, Migration oder Strafverfolgung integriert: Anhang III konkret prüfen.
+- **Nur theoretische Möglichkeit:** Mitarbeitende könnten ChatGPT missbrauchen, aber Zweck, Richtlinie, technische Sperren und Schulungen schließen dies aus: kein automatisches Hochrisiko, aber dokumentierte Governance nötig.
+- **Geduldeter oder funktional angelegter Hochrisiko-Einsatz:** Tool wird trotz allgemeiner Bezeichnung faktisch für Bewerberranking, Leistungsbewertung, Kreditwürdigkeit, Rechtsanwendung usw. genutzt: Hochrisiko sehr naheliegend.
+- **Zweckänderung oder wesentliche Änderung:** Betreiber, Importeur oder Händler kann nach Art. 25 KI-VO Anbieterpflichten auslösen; zusätzlich `anbieter-werden-art-25`.
 
-## Bereich 4 — Beschäftigung und Arbeitnehmerverwaltung (Anhang III Nr. 4)
+## Anhang III: vollständige Bereichsmatrix
 
-**Systemtypen:**
-- KI-Systeme für die Personalauswahl (Recruiting, Screening)
-- KI-Systeme für Beförderungsentscheidungen
-- KI-Systeme für Aufgabenverteilung und Leistungsüberwachung
-- KI-Systeme für Kündigungsentscheidungen oder zur Bewertung des Leistungsverhaltens
+### Bereich 1 — Biometrie
 
-**Prüffragen:**
-- Wird das System für Entscheidungen über Beschäftigungsverhältnisse eingesetzt?
-- Bewertet es Mitarbeitende oder trifft automatisierte Entscheidungen über Beschäftigte?
+Nur soweit der Einsatz nach Unions- oder nationalem Recht überhaupt erlaubt ist.
 
-## Bereich 5 — Wesentliche private und öffentliche Dienstleistungen (Anhang III Nr. 5)
+Hochrisiko-Tatbestände:
+- Remote biometric identification, außer reine biometrische Verifikation zur Bestätigung, dass eine bestimmte Person die behauptete Person ist.
+- Biometrische Kategorisierung nach sensiblen oder geschützten Attributen oder Merkmalen, soweit diese Attribute oder Merkmale inferiert werden.
+- Emotionserkennung.
 
-**Systemtypen:**
-- KI-Systeme für Kreditwürdigkeitsprüfung und Bonitätsbewertung (Ausnahme: Betrugsaufdeckung)
-- KI-Systeme für Risikobewertung bei Versicherungen (Leben und Kranken)
-- KI-Systeme für die Beurteilung und Klassifizierung von Notrufen
-- KI-Systeme für die Gewährung von Sozialleistungen oder öffentlicher Unterstützung
-- KI-Systeme für die Bewertung des Bedarfs an Sozialhilfe
+Prüffragen:
+- Wird eine natürliche Person aus der Entfernung identifiziert?
+- Geht es nur um 1:1-Authentifizierung oder um Identifikation gegen Referenzdatenbank?
+- Werden sensible/protected attributes aus biometrischen Daten abgeleitet?
+- Wird Emotion, Absicht oder innerer Zustand aus biometrischen Daten inferiert?
+- Greift zusätzlich ein Verbot nach Art. 5, etwa Emotionserkennung am Arbeitsplatz/Bildung oder verbotene biometrische Kategorisierung?
 
-**Prüffragen:**
-- Entscheidet das System über Kreditvergabe, Versicherungsleistungen, Sozialleistungen oder Notfallpriorisierung?
+### Bereich 2 — Kritische Infrastruktur
 
-## Bereich 6 — Strafverfolgung (Anhang III Nr. 6)
+Hochrisiko sind KI-Systeme, die als Sicherheitskomponenten in Management und Betrieb folgender Bereiche eingesetzt werden:
+- kritische digitale Infrastruktur
+- Straßenverkehr
+- Versorgung mit Wasser, Gas, Wärme oder Elektrizität
 
-**Systemtypen:**
-- Risikoabschätzung und Profiling im Strafverfolgungskontext (mit individuellen Hinweisen)
-- Polygraphenähnliche Systeme zur Vertrauenswürdigkeitsbewertung
-- Bewertung der Zuverlässigkeit von Beweismitteln
-- Vorhersage von Straftaten in Gebieten (geographisches Predictive Policing)
-- Profiling in Strafverfolgung und Strafverfolgungsassistenz
+Prüffragen:
+- Ist die KI-Komponente sicherheitsrelevant oder nur kaufmännisch/administrativ?
+- Kann Fehlfunktion Gesundheit, Sicherheit, Versorgung, Verkehr oder Grundrechte ernsthaft beeinträchtigen?
+- Steuert oder priorisiert das System Betrieb, Lasten, Warnungen, Zugriff, Wartung oder Ausfälle?
 
-**Prüffragen:**
-- Wird das System von Strafverfolgungsbehörden für Risikoabschätzung, Profiling oder Beweismittelbewertung genutzt?
+### Bereich 3 — Bildung und berufliche Ausbildung
 
-## Bereich 7 — Migration, Asyl und Grenzkontrolle (Anhang III Nr. 7)
+Hochrisiko-Tatbestände:
+- Zugang, Zulassung oder Zuweisung zu Bildungs- oder Ausbildungseinrichtungen
+- Bewertung von Lernergebnissen, auch wenn diese den Lernprozess steuern
+- Bewertung des angemessenen Bildungsniveaus oder Zugangs
+- Überwachung und Erkennung verbotenen Verhaltens bei Prüfungen
 
-**Systemtypen:**
-- Risikoabschätzungssysteme für Personen, die EU-Grenzen überschreiten
-- Systeme zur Überprüfung der Echtheit von Dokumenten
-- Systeme zur Prüfung von Asyl- und Aufenthaltsanträgen
-- Systeme zur Überwachung und Vorhersage von Migrationsbewegungen
+Prüffragen:
+- Bewertet das System Schüler, Studierende, Prüflinge oder Bewerber?
+- Fließt die Ausgabe in Zulassung, Einstufung, Noten, Lernpfad, Prüfungsüberwachung oder Sanktion ein?
+- Ist der Output nur redaktionelle Hilfe oder tatsächlicher Bewertungs-/Steuerungsfaktor?
 
-**Prüffragen:**
-- Wird das System für Grenzkontrollen, Asylverfahren oder Migrationsbehörden eingesetzt?
+### Bereich 4 — Beschäftigung, Arbeitnehmermanagement und Zugang zur Selbständigkeit
 
-## Bereich 8 — Justiz und demokratische Prozesse (Anhang III Nr. 8)
+Hochrisiko-Tatbestände:
+- Rekrutierung oder Auswahl natürlicher Personen, insbesondere gezielte Stellenanzeigen, Analyse/Filterung von Bewerbungen, Bewertung von Kandidaten
+- Entscheidungen über Bedingungen arbeitsbezogener Beziehungen
+- Beförderung oder Beendigung arbeitsbezogener Vertragsbeziehungen
+- Aufgabenverteilung auf Grundlage individuellen Verhaltens oder persönlicher Eigenschaften/Merkmale
+- Überwachung und Bewertung von Leistung oder Verhalten
 
-**Systemtypen:**
-- KI-Systeme zur Unterstützung von Richtern oder Staatsanwälten bei der Bewertung von Beweisen oder Erstellung von Urteilen
-- KI-Systeme zur Beeinflussung von Wahlen oder zur personalisierten politischen Werbung
+Prüffragen:
+- Wird das System für Bewerberfilter, Ranking, Shortlisting, Interviewauswertung oder Eignungsbewertung eingesetzt?
+- Betrifft es Zielgruppensteuerung von Jobanzeigen?
+- Beeinflusst es Einsatzplanung, Schicht, Aufgaben, Beförderung, Kündigung, Vergütung oder Performance-Management?
+- Nutzt die Organisation einen allgemeinen Chatbot, um HR-Entscheidungen faktisch vorzubereiten? Dann Zweck und Governance streng prüfen.
 
-**Prüffragen:**
-- Wird das System in Gerichtsverfahren oder politischen Prozessen eingesetzt?
+### Bereich 5 — Zugang zu wesentlichen privaten und öffentlichen Dienstleistungen und Leistungen
 
-## Nächste Schritte
+Hochrisiko-Tatbestände:
+- Öffentliche Stellen oder deren Beauftragte bewerten Anspruch/Berechtigung natürlicher Personen auf wesentliche öffentliche Unterstützungsleistungen und Dienste, einschließlich Gesundheitsdienste, oder gewähren, reduzieren, widerrufen oder fordern solche Leistungen zurück.
+- Bewertung der Kreditwürdigkeit natürlicher Personen oder Erstellung eines Credit Score, ausgenommen Betrugsaufdeckung.
+- Risikoabschätzung und Preisgestaltung gegenüber natürlichen Personen bei Lebens- und Krankenversicherung.
+- Bewertung/Klassifizierung von Notrufen natürlicher Personen, Disposition oder Priorisierung von Notfalleinsätzen, einschließlich Polizei, Feuerwehr, medizinischer Hilfe und Notfall-Gesundheitstriage.
 
-- **Mindestens ein Bereich zutreffend:** → Hochrisiko nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prüfe Rückausnahme: → `rueckausnahme-art-6-abs-3`
-- **Kein Bereich zutreffend:** → Kein Hochrisiko nach Art. 6 Abs. 2. Prüfe begrenztes Risiko: → `begrenztes-risiko-art-50-transparenzpflichten`
+Prüffragen:
+- Geht es um natürliche Personen, nicht nur Unternehmen?
+- Ist der Output entscheidungsnah für Zugang, Preis, Leistung, Priorität oder Rückforderung?
+- Ist Fraud Detection tatsächlich der Zweck oder nur Vorwand für Bonitätsbewertung?
+- Bei Versicherungen: betrifft es Leben/Kranken und natürliche Personen?
 
----
+### Bereich 6 — Strafverfolgung
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Nur soweit der Einsatz nach Unions- oder nationalem Recht erlaubt ist.
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+Hochrisiko-Tatbestände:
+- Risiko, Opfer einer Straftat zu werden
+- Polygraphen oder ähnliche Werkzeuge
+- Bewertung der Zuverlässigkeit von Beweismitteln in Ermittlung oder Strafverfolgung
+- Risiko, dass eine natürliche Person Straftaten begeht oder erneut begeht, sofern nicht ausschließlich auf Profiling nach Richtlinie (EU) 2016/680 gestützt, oder Bewertung von Persönlichkeitsmerkmalen, Eigenschaften oder früherem strafrechtlichem Verhalten natürlicher Personen oder Gruppen
+- Profiling natürlicher Personen im Zuge der Aufdeckung, Ermittlung oder Verfolgung von Straftaten
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+Prüffragen:
+- Nutzt eine Strafverfolgungsbehörde oder jemand in ihrem Auftrag das System?
+- Geht es um Personenrisiken, Beweisbewertung, Profiling oder kriminalitätsbezogene Einschätzung?
+- Ist ein scheinbar allgemeines Analyse-/Chat-System in polizeiliche Fallbearbeitung integriert?
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Abs. 2 Rn. 8: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+### Bereich 7 — Migration, Asyl und Grenzkontrolle
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+Nur soweit der Einsatz nach Unions- oder nationalem Recht erlaubt ist.
 
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+Hochrisiko-Tatbestände:
+- Polygraphen oder ähnliche Werkzeuge
+- Risikobewertung natürlicher Personen, die in das Gebiet eines Mitgliedstaats einreisen wollen oder eingereist sind, einschließlich Sicherheits-, irreguläre Migrations- oder Gesundheitsrisiken
+- Unterstützung bei Prüfung von Asyl-, Visa- oder Aufenthaltstitelanträgen und zugehörigen Beschwerden hinsichtlich Anspruch/Berechtigung, einschließlich Bewertung der Zuverlässigkeit von Beweismitteln
+- Erkennung, Wiedererkennung oder Identifizierung natürlicher Personen im Kontext von Migration, Asyl oder Grenzkontrolle, ausgenommen Überprüfung von Reisedokumenten
+
+Prüffragen:
+- Unterstützt das System die Entscheidung über Status, Einreise, Aufenthalt, Beschwerde oder Risiko?
+- Bewertet es Glaubhaftigkeit, Dokumente, Beweise oder persönliche Risiken?
+- Geht es nur um technische Dokumentenprüfung oder um Personenidentifikation/Bewertung?
+
+### Bereich 8 — Rechtspflege und demokratische Prozesse
+
+Hochrisiko-Tatbestände:
+- Nutzung durch oder im Auftrag einer Justizbehörde zur Unterstützung bei Recherche und Auslegung von Tatsachen und Recht und bei Anwendung des Rechts auf einen konkreten Sachverhalt; ähnlich auch in alternativer Streitbeilegung.
+- Beeinflussung des Ergebnisses einer Wahl oder eines Referendums oder des Wahlverhaltens natürlicher Personen. Nicht erfasst sind rein administrative/logistische Kampagnentools, deren Output natürlichen Personen nicht direkt ausgesetzt wird.
+
+Prüffragen:
+- Nutzt Gericht, Spruchkörper, Behörde mit Rechtsprechungsnähe oder ADR-Stelle das System?
+- Unterstützt das System konkrete Rechtsanwendung, Tatsachenwürdigung oder Entscheidungsvorschlag?
+- Ist der Output nur allgemeine Recherche für Anwälte/Parteien oder justizielle Entscheidungsassistenz?
+- Wird politisches Verhalten direkt beeinflusst oder nur Kampagnenlogistik intern optimiert?
+
+## Zweckbestimmung und Fehlgebrauch in der Organisation
+
+### Fallgruppe A — Hochrisiko ausdrücklich intendiert
+
+Beispiel: Anbieter bewirbt "KI für Bewerberranking" oder "KI für richterliche Entscheidungsunterstützung".
+
+Ergebnis: Anhang-III-Prüfung regelmäßig positiv; Art. 6 Abs. 3 nur gesondert und eng prüfen.
+
+### Fallgruppe B — Allgemeines Tool, Betreiber setzt es bewusst hochriskant ein
+
+Beispiel: Unternehmen nutzt ChatGPT-ähnliches System systematisch zur Bewertung von Bewerbern oder Beschäftigten.
+
+Ergebnis: Der konkrete Einsatz kann Hochrisiko sein, auch wenn das Basismodell/allgemeine System nicht als Hochrisiko vermarktet wird. Betreiberpflichten und ggf. Anbieterwerden nach Art. 25 prüfen.
+
+### Fallgruppe C — Mitarbeitende handeln entgegen Zweckbestimmung
+
+Prüfe:
+- Gibt es klare KI-Richtlinie, Schulung nach Art. 4, Sperren, Rollenrechte, Logging und Kontrollen?
+- Ist der Fehlgebrauch technisch möglich, naheliegend und bekannt?
+- Wird er geduldet oder nur isoliert sanktioniert?
+
+Bewertung:
+- **Isolierter Verstoß trotz klarer Governance:** dokumentierter Compliance-Vorfall, Nachschulung, Sperre, Logging, Löschung/Separierung fehlerhafter Outputs; nicht automatisch Hochrisiko-Klassifikation des Systems.
+- **Duldung oder systematische Praxis:** faktische Zweckbestimmung des Betreibers kann kippen; Hochrisiko neu prüfen.
+- **Technisch angelegte Nutzung ohne Kontrollen:** vernünftigerweise vorhersehbarer Fehlgebrauch; Warnhinweise, Gebrauchsanweisung, Zugriffsbeschränkung und Re-Evaluation erforderlich.
+
+### Fallgruppe D — Wesentliche Änderung oder Zweckänderung
+
+Wenn ein Betreiber das System so verändert oder zweckentfremdet, dass eine neue Hochrisiko-Zweckbestimmung entsteht, zusätzlich prüfen:
+- `anbieter-werden-art-25`
+- `betreiber-deployer-pflichten-art-26`
+- `hochrisiko-bestaetigt-end-to-end-roadmap`
+
+## Art. 6 Abs. 3 nicht vergessen
+
+Wenn ein Anhang-III-Tatbestand passt, ist die Prüfung noch nicht fertig:
+
+1. Profiling natürlicher Personen? Wenn ja, keine Rückausnahme.
+2. Kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte?
+3. Eine der vier Fallgruppen: enge Verfahrensaufgabe, Verbesserung bereits abgeschlossener menschlicher Tätigkeit, Mustererkennung ohne Ersatz/Einfluss auf frühere menschliche Bewertung, vorbereitende Aufgabe?
+4. Dokumentationspflicht und Registrierung nach Art. 6 Abs. 4 beachten, wenn Anbieter das System trotz Anhang III als nicht Hochrisiko einstuft.
+
+Weiter: `rueckausnahme-art-6-abs-3`.
+
+## Output-Template — Anhang-III-Zuordnungsvermerk
+
+```text
+ANHANG-III-ZUORDNUNGSVERMERK — ART. 6 ABS. 2 KI-VO
+Datum: [DATUM]
+System: [NAME]
+Geprüfter Einsatz: [KONKRETER USE CASE]
+Rolle des Mandanten: [ANBIETER / BETREIBER / IMPORTER / HAENDLER / UNKLAR]
+
+1. Zweckbestimmung und Nutzung
+- Anbieter-Zweckbestimmung: [...]
+- Betreiber-Zweck / tatsächliche Nutzung: [...]
+- Gebrauchsanweisung / Marketing / technische Dokumentation: [...]
+- Erlaubte, geduldete und verbotene Nutzungen: [...]
+- Vorhersehbarer Fehlgebrauch: [...]
+
+2. GPAI/Chatbot-Abgrenzung
+[Allgemeiner Assistent / eingebettetes Fachsystem / hochriskanter Zweck / nur theoretische Möglichkeit]
+
+3. Anhang-III-Matrix
+Nr. 1 Biometrie: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 2 Kritische Infrastruktur: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 3 Bildung: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 4 Beschäftigung: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 5 Wesentliche Dienste/Leistungen: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 6 Strafverfolgung: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 7 Migration/Asyl/Grenze: [JA/NEIN/UNKLAR] — [Begründung]
+Nr. 8 Rechtspflege/demokratische Prozesse: [JA/NEIN/UNKLAR] — [Begründung]
+
+4. Ergebnis Art. 6 Abs. 2
+[Hochrisiko nach Anhang III wahrscheinlich / nicht ersichtlich / offen]
+
+5. Art. 6 Abs. 3
+[Rückausnahme zu prüfen / Profiling sperrt Rückausnahme / Rückausnahme offensichtlich fernliegend]
+
+6. Governance bei Off-label-Nutzung
+[Richtlinie, Sperren, Logging, Schulung, Freigabeprozess, Re-Evaluation, Incident Handling]
+
+7. Nächste Skills
+[rueckausnahme-art-6-abs-3 / betreiber-deployer-pflichten-art-26 / anbieter-werden-art-25 / begrenztes-risiko-art-50-transparenzpflichten / gpai-vorliegen-art-3-nr-63 / output-pruefdokument-ki-vo-mit-warnhinweisen]
 ```
-PRUEFERGEBNIS — HOCHRISIKO ART 6 ABS 2 ANHANG III
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 6 Abs. 2 Rn. 8]
+## Quellen- und Aktualitätshinweis
 
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
+Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12, Nr. 13 und Nr. 23, Art. 6 Abs. 2 bis 5 und Anhang III KI-VO sowie die Kommissionsmaterialien zur Hochrisiko-Klassifikation. Die im Mai 2026 veröffentlichten Hochrisiko-Leitlinien waren zum Stand dieses Skills als Entwurf/Konsultationsmaterial zu behandeln, bis sie formal angenommen sind. Keine Rechtsberatung.

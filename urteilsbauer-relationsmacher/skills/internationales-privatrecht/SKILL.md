@@ -1,6 +1,6 @@
 ---
 name: internationales-privatrecht
-description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Pruefung. Normen: Rom-I-VO (vertragliche Schuldverhaeltnisse), Rom-II-VO (ausservertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Pruefraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhaeltnis zu CISG. Output IPR-Pruefschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-pruefen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zustaendigkeit siehe zulaessigkeit-pruefen."
+description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen."
 ---
 
 # Internationales Privatrecht
@@ -17,10 +17,7 @@ Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.10.2021 - VI ZR 488/19, NJW 2022, 389 — DSGVO ist Eingriffsnorm nach Art. 9 Rom-I; gilt unabhängig vom Vertragsstatut, wenn Daten von Personen in der EU verarbeitet werden.
-- EuGH, Urt. v. 10.12.2015 - C-350/14, NJW 2016, 394 — Rom-II Art. 4: Erfolgsort ist der Ort, wo der Schaden unmittelbar eingetreten ist, nicht der mittelbare Vermögensschaden.
-- BGH, Urt. v. 08.03.1995 - VIII ZR 159/94, NJW 1995, 2101 — CISG geht nationalem IPR vor; Rechtswahl "deutsches Recht" schließt CISG nicht aus.
-- EuGH, Urt. v. 06.06.2019 - C-74/18, NJW 2019, 2639 — Art. 6 Rom-I Verbraucherverträge: Verbraucher genießt stets Schutz des Rechts seines gewöhnlichen Aufenthalts, auch wenn Rechtswahl zugunsten ausländischen Rechts getroffen wurde.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -34,12 +31,9 @@ Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 - Art. 3 ff. EGBGB — autonomes deutsches IPR
 - CISG — internationales Einheitskaufrecht, vorrangig
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo-BGB/Martiny, 9. Aufl. 2022, Art. 3 Rom-I Rn. 1-40 (Rechtswahl)
-- Staudinger/Leible, BGB, 2021, Art. 9 Rom-I Rn. 1-30 (Eingriffsnormen)
-- Palandt/Thorn, BGB, 83. Aufl. 2024, Vor Art. 3 EGBGB Rn. 1-20
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Auslandsbezug feststellen:** Welche Anknüpfungspunkte liegen im Ausland?

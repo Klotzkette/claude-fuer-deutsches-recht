@@ -1,122 +1,125 @@
 ---
 name: code-of-practice-und-harmonisierte-normen
-description: "Anbieter von Hochrisiko-KI oder GPAI-Modellen fragt: Wie nutzen wir Verhaltenskodizes und technische Normen fuer unsere Compliance-Strategie? Art. 56 KI-VO Verhaltenskodizes Art. 40 KI-VO harmonisierte Normen. Pruefraster: Entwicklungsprozess und Beteiligung Vermutungswirkung konformer Normen Art. 40 Abs. 3 KI-VO gemeinsame Spezifikationen Art. 41 KI-VO. Output: Normen-Landkarte und Empfehlung welche Standards aktuell beachtet werden sollten. Abgrenzung zu hochrisiko-konformitaetsbewertung-art-43-bis-49 (Bewertungsverfahren) und hochrisiko-risikomanagementsystem-art-9 (Risikomanagement)."
+description: "Normen- und Standards-Landkarte fuer KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Vermutungswirkung nur bei im EU-Amtsblatt referenzierten harmonisierten Normen und nutzt ISO-Normen als Orientierung ohne falsche Konformitaetsvermutung. Output: standardsbasierter Massnahmenplan fuer KI-System, Hochrisiko oder GPAI."
 ---
 
-# Verhaltenskodizes und harmonisierte Normen — Art. 40 und 56 KI-VO
+# Verhaltenskodizes, harmonisierte Normen und ISO-Standards
 
 ## Zweck
 
-Die KI-VO lässt wesentliche technische Details offen und überweist deren Konkretisierung an harmonisierte Normen und Verhaltenskodizes. Dieser Skill klärt, welche Bedeutung diese Instrumente für die Compliance haben.
+Dieser Skill unterstützt die Compliance-Strategie für KI-Systeme, Hochrisiko-KI und GPAI-Modelle. Er trennt sauber:
 
-## Teil 1 — Harmonisierte Normen (Art. 40 KI-VO)
+- harmonisierte Normen nach Art. 40 KI-VO
+- gemeinsame Spezifikationen nach Art. 41 KI-VO
+- GPAI Code of Practice nach Art. 56 KI-VO
+- internationale ISO/IEC-Standards als Orientierung
 
-### Was sind harmonisierte Normen?
+Wichtig: Nicht jede ISO-Norm ist automatisch eine harmonisierte Norm im Sinne der KI-VO. Eine Vermutungswirkung entsteht nur, soweit eine harmonisierte europäische Norm im Amtsblatt der EU referenziert ist und die einschlägigen Anforderungen abdeckt.
 
-Harmonisierte Normen sind europäische Normen (EN-Normen), die von den europäischen Normungsorganisationen CEN und CENELEC auf Mandat der Kommission entwickelt werden. Sie konkretisieren die Anforderungen der KI-VO technisch.
+## Art. 40 KI-VO — harmonisierte Normen
 
-### Vermutungswirkung
+Harmonisierte Normen konkretisieren KI-VO-Anforderungen technisch. Bei vollständiger Konformität mit einschlägigen, im EU-Amtsblatt veröffentlichten harmonisierten Normen wird die Konformität mit den abgedeckten Anforderungen vermutet.
 
-Wenn ein Hochrisiko-KI-System vollständig mit harmonisierten Normen übereinstimmt, die im Amtsblatt der EU veröffentlicht wurden, wird vermutet, dass das System die von den Normen abgedeckten Anforderungen der KI-VO erfüllt (Art. 40 Abs. 1 KI-VO).
+Prüffragen:
+- Gibt es für die konkrete KI-VO-Anforderung bereits eine harmonisierte Norm mit Amtsblatt-Fundstelle?
+- Welche Anforderungen deckt sie ab: Risikomanagement, Datenqualität, technische Dokumentation, Logging, Transparenz, menschliche Aufsicht, Genauigkeit, Robustheit, Cybersicherheit, Qualitätsmanagement?
+- Wurde die Norm vollständig umgesetzt oder nur als Orientierung genutzt?
+- Gibt es Lücken, weil die Norm nicht alle Anforderungen abdeckt?
 
-**Praktische Bedeutung:**
-- Compliance wird erheblich erleichtert: Normeinhaltung = Vermutung der KI-VO-Konformität
-- Konformitätsbewertung kann auf Basis der Normen strukturiert werden
-- Normung ist noch im Gange; nicht alle Anforderungen sind bereits durch Normen abgedeckt
+Dokumentationsregel:
+- Nie pauschal schreiben "ISO-konform = KI-VO-konform".
+- Immer benennen, welche Norm welche Anforderung abdeckt und ob eine EU-Vermutungswirkung besteht.
 
-**Prüffragen:**
-- Für welche Anforderungen der KI-VO gibt es bereits harmonisierte Normen?
-- Ist das System mit den einschlägigen harmonisierten Normen konform?
+## Art. 41 KI-VO — gemeinsame Spezifikationen
 
-### Stand der Normungsarbeiten (2025/2026)
+Wenn harmonisierte Normen fehlen oder unzureichend sind, kann die Kommission gemeinsame Spezifikationen erlassen. Auch diese können für die praktische Compliance maßgeblich sein.
 
-CEN und CENELEC entwickeln derzeit ein Normenpaket zur KI-VO. Einzelne Normen werden schrittweise fertiggestellt und im Amtsblatt veröffentlicht. Bis dahin können Unternehmen bestehende internationale Normen (z.B. ISO/IEC 42001 — Managementsystem für KI) als Orientierung nutzen, auch wenn diese keine volle Vermutungswirkung nach KI-VO entfalten.
+Prüffragen:
+- Gibt es eine einschlägige gemeinsame Spezifikation?
+- Ist sie verpflichtend oder gibt es eine begründete alternative technische Lösung?
+- Wie wird Abweichung dokumentiert?
 
-## Teil 2 — Gemeinsame Spezifikationen (Art. 41 KI-VO)
+## Art. 56 KI-VO — GPAI Code of Practice
 
-Wenn harmonisierte Normen fehlen oder unzureichend sind, kann die Kommission Durchführungsrechtsakte erlassen, die gemeinsame Spezifikationen für die Anforderungen der KI-VO festlegen. Gemeinsame Spezifikationen haben ebenfalls Vermutungswirkung.
+Für Anbieter von GPAI-Modellen ist der GPAI Code of Practice besonders relevant. Er kann als Brücke dienen, bis harmonisierte Normen und weitere sekundäre Rechtsakte die Pflichten konkretisieren.
 
-**Prüffragen:**
-- Hat die Kommission für den relevanten Bereich gemeinsame Spezifikationen veröffentlicht?
+Prüffragen:
+- Ist der Mandant Anbieter eines GPAI-Modells?
+- Hat er den Code of Practice gezeichnet oder befolgt?
+- Deckt der Code technische Dokumentation, Copyright-Policy, Trainingsdaten-Zusammenfassung, Safety, Evaluierung und systemisches Risiko ab?
+- Welche Lücken bleiben trotz Code?
 
-## Teil 3 — Verhaltenskodizes (Art. 56 KI-VO)
+## Standards-Landkarte
 
-### Für wen?
+Diese Standards können als Arbeitsrahmen dienen, ohne automatisch KI-VO-Konformität zu beweisen:
 
-Verhaltenskodizes (Codes of Practice) sind für folgende Akteure relevant:
-- Anbieter von GPAI-Modellen (mit und ohne systemisches Risiko)
-- Anbieter von Hochrisiko-KI-Systemen (freiwillig)
-- Betreiber von KI-Systemen mit minimalem Risiko (freiwillig)
+| Standard | Nutzen im KI-VO-Workflow | Vorsicht |
+|---|---|---|
+| ISO/IEC 42001:2023 | AI Management System, Governance, Rollen, Richtlinien, kontinuierliche Verbesserung | nicht identisch mit allen KI-VO-Pflichten; keine Vermutungswirkung ohne harmonisierte Referenz |
+| ISO/IEC 23894:2023 | AI Risk Management, Risikoidentifikation, Bewertung, Behandlung, Monitoring | an Art. 9 KI-VO anpassen, Grundrechte ausdrücklich ergänzen |
+| ISO/IEC 22989:2022 | AI Concepts and Terminology | hilfreich für Begriffe, ersetzt nicht Art. 3 KI-VO |
+| ISO/IEC 23053:2022 | Framework für KI-Systeme mit maschinellem Lernen | gut für technische Architektur- und Lifecycle-Beschreibung |
+| ISO/IEC 27001:2022 | Informationssicherheits-Management | unterstützt Cybersicherheit, aber nicht spezifisch KI-VO |
+| ISO/IEC 27701 | Datenschutz-Management als Erweiterung zu 27001/27002 | unterstützt DSGVO/Privacy, ersetzt keine KI-VO- oder DSFA-Prüfung |
+| ISO/IEC 38507 | Governance implications of AI | Orientierung für Leitungs- und Aufsichtsgremien |
 
-### Entwicklungsprozess
+## Standards in die Sachprüfung einbauen
 
-Das Europäische KI-Büro koordiniert die Entwicklung der Verhaltenskodizes. Anbieter von GPAI-Modellen werden aufgefordert, aktiv an der Entwicklung mitzuwirken.
+### Art. 3 KI-System-Check
 
-### Vermutungswirkung für GPAI-Anbieter
+Nutze ISO/IEC 22989 und 23053 nur als technische Begriffshilfe. Die rechtliche Definition bleibt Art. 3 Nr. 1 KI-VO. Dokumentiere besonders:
+- maschinenbasiertes System
+- Autonomiegrad
+- Inferenz
+- Output
+- Umgebungseinfluss
 
-Wenn Anbieter von GPAI-Modellen einen genehmigten Verhaltenskodex einhalten, wird vermutet, dass sie die einschlägigen Anforderungen der KI-VO erfüllen (Art. 56 Abs. 8 KI-VO).
+### Art. 6 Abs. 2 / Anhang III
 
-**Prüffragen für GPAI-Anbieter:**
-- Haben Sie sich an der Entwicklung des Verhaltenskodex für GPAI-Modelle beteiligt?
-- Haben Sie den Verhaltenskodex unterzeichnet?
-- Welche Anforderungen deckt der Verhaltenskodex ab?
+Standards helfen bei Risikomanagement und Kontrollen, entscheiden aber nicht allein über Hochrisiko. Die Hochrisiko-Klassifikation folgt Zweckbestimmung und Anhang III.
 
-### Freiwillige Verhaltenskodizes für andere Akteure (Art. 95 KI-VO)
+### Hochrisiko-Pflichten
 
-Anbieter und Betreiber von KI-Systemen mit minimalem Risiko können freiwillig Verhaltenskodizes entwickeln und einhalten. Die Kommission fördert und erleichtert dies.
+Zuordnen:
+- Art. 9 Risikomanagement: ISO/IEC 23894 plus KI-VO-Grundrechte
+- Art. 10 Daten/Data Governance: Datenqualitäts- und Bias-Prozesse ergänzen
+- Art. 11/Anhang IV Dokumentation: ISO/IEC 23053 als technische Strukturhilfe
+- Art. 12 Logging: Sicherheits- und Audit-Standards ergänzend
+- Art. 14 menschliche Aufsicht: Governance- und Human-oversight-Konzept gesondert
+- Art. 15 Genauigkeit/Robustheit/Cybersicherheit: 27001/Threat-Modeling/Testkonzept ergänzend
+- Art. 17 Qualitätsmanagement: ISO/IEC 42001 als Rahmen, KI-VO-spezifische Lücken schließen
 
-## Praktische Empfehlung
+## Output-Template — Normen- und Standardsplan
 
-Für die Compliance-Strategie empfiehlt sich folgendes Vorgehen:
-1. Prüfen, welche harmonisierten Normen bereits veröffentlicht sind
-2. KI-System auf Basis verfügbarer Normen (auch ISO/IEC 42001) strukturieren
-3. Entwicklung harmonisierter Normen laufend beobachten und System anpassen
-4. Für GPAI-Modelle: Beteiligung am Verhaltenskodex-Prozess des Europäischen KI-Büros prüfen
+```text
+NORMEN- UND STANDARDSPLAN KI-VO
+Datum: [DATUM]
+System / Modell: [NAME]
+Risikoklasse: [Hochrisiko / begrenzt / GPAI / unklar]
 
----
+1. Harmonisierte Normen Art. 40
+[vorhanden / nicht vorhanden / Amtsblatt-Fundstelle offen]
+[abgedeckte KI-VO-Anforderungen]
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+2. Gemeinsame Spezifikationen Art. 41
+[vorhanden / nicht vorhanden / prüfen]
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+3. GPAI Code of Practice Art. 56
+[einschlägig ja/nein; Umsetzung]
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+4. ISO/IEC-Arbeitsrahmen
+- ISO/IEC 42001: [Governance-Maßnahmen]
+- ISO/IEC 23894: [Risikomanagement-Maßnahmen]
+- ISO/IEC 22989/23053: [Begriffe/Architektur]
+- Sicherheits-/Datenschutzstandards: [27001/27701/weitere]
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 56 Rn. 2: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+5. KI-VO-Lücken trotz Standards
+[Grundrechte, Zweckbestimmung, Art. 6, Art. 10, Art. 14, Art. 26/27, Dokumentation]
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
-
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+6. Konformitätsaussage
+[Welche Norm begründet Vermutungswirkung? Welche Standards sind nur Orientierung?]
 ```
-PRUEFERGEBNIS — CODE OF PRACTICE UND HARMONISIERTE NORMEN
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 56 Rn. 2]
+## Quellen- und Aktualitätshinweis
 
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
+Stand: 05/2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils aktuell im Amtsblatt der EU referenzierten harmonisierten Normen. Vor jeder finalen Aussage ist der Normenstand zu aktualisieren. Keine Rechtsberatung.

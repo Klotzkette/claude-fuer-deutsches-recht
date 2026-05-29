@@ -1,6 +1,6 @@
 ---
 name: befristungsabrede-qes-rechtsprechung-stand-2026
-description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach § 14 Abs. 4 TzBfG. LAG Berlin-Brandenburg 16.03.2022 — 23 Sa 1133/21: eingescannte Unterschrift wahrt Schriftform nicht; nur eigenhändige Unterschrift im Original oder qualifizierte elektronische Signatur reichen. ArbG Berlin: einfache elektronische Signatur unwirksam. ArbG Gera 07.03.2024 — 2 Ca 936/23: qES per DocuSign wahrt Schriftform. Praxisempfehlung, Pruefungsschema und Mandantenhinweise."
+description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach § 14 Abs. 4 TzBfG. Prüft Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, § 623 BGB, § 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer."
 ---
 
 # Befristungsabrede — qES-Rechtsprechung Stand 2026
@@ -14,12 +14,13 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 - **§ 16 TzBfG** — Rechtsfolge bei Formmangel: Befristung unwirksam, Vertrag gilt als unbefristet
 - **eIDAS-VO (EU) 910/2014** — technischer Rahmen der qES
 - **§ 623 BGB** — Schriftform für Kündigung und Aufhebungsvertrag; elektronische Form (auch qES) **ausgeschlossen**
+- **§ 46h ArbGG** — arbeitsgerichtliche Formfiktion für klare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen
 
 ## Drei Linien der Rechtsprechung
 
 ### Linie 1: Eingescannte Unterschrift — unwirksam (LAG Berlin-Brandenburg)
 
-**LAG Berlin-Brandenburg, Urteil vom 16.03.2022 — 23 Sa 1133/21**:
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eine lediglich auf das Vertragsdokument gescannte Unterschrift wahrt die Schriftform nach § 14 Abs. 4 TzBfG **nicht**.
 - Es handelt sich weder um eine eigenhändige Unterschrift im Sinne von § 126 BGB noch um eine qualifizierte elektronische Signatur im Sinne von § 126a BGB.
 - Folge: Befristung ist unwirksam, der Arbeitsvertrag gilt nach § 16 TzBfG als unbefristet.
@@ -34,7 +35,7 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 
 ### Linie 3: Qualifizierte elektronische Signatur — wirksam (ArbG Gera)
 
-**ArbG Gera, Urteil vom 07.03.2024 — 2 Ca 936/23**:
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eine über DocuSign eingesetzte qualifizierte elektronische Signatur (qES) erfüllt die Voraussetzungen des § 126a BGB.
 - Damit ist die Schriftform nach § 14 Abs. 4 TzBfG durch die elektronische Form ersetzt.
 - Die Befristungsabrede ist formwirksam.
@@ -45,11 +46,11 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 | Signaturform | Wirksamkeit nach § 14 Abs. 4 TzBfG |
 |----|----|
 | Eigenhändige Unterschrift auf Papier (Original) | Wirksam (§ 126 BGB) |
-| Eingescannte Unterschrift / Foto der Unterschrift im PDF | **Unwirksam** (LAG Berlin-Brandenburg 23 Sa 1133/21) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Maus-Signatur / Touch-Signatur ohne qES-Zertifikat | **Unwirksam** (ArbG Berlin) |
 | Einfache E-Mail-Bestätigung "ich akzeptiere" | **Unwirksam** — nur Textform |
 | Fortgeschrittene elektronische Signatur (FES) ohne qES-Zertifikat | **Unwirksam** |
-| Qualifizierte elektronische Signatur (qES) — z. B. DocuSign mit qES-Zertifikat | **Wirksam** (ArbG Gera 2 Ca 936/23, in Linie mit § 126a BGB) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Prüfungsschema für die Praxis
 
@@ -86,13 +87,13 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 
 ## Wichtige Abgrenzung: § 623 BGB
 
-Für **Kündigung** und **Aufhebungsvertrag** gilt § 623 BGB: Schriftform mit **ausdrücklicher Sperre der elektronischen Form**. Auch eine qES kann § 623 BGB **nicht** erfüllen. Hier ist immer Papier mit eigenhändiger Unterschrift erforderlich.
+Für **Kündigung** und **Aufhebungsvertrag** gilt § 623 BGB: Schriftform mit **ausdrücklicher Sperre der elektronischen Form**. Die direkte elektronische Erklärung per qES, beA-Nachricht, E-Mail oder Signaturplattform erfüllt § 623 BGB nicht. Seit 17.07.2024 muss aber im arbeitsgerichtlichen Verfahren § 46h ArbGG als enger Sonderpfad geprüft werden, wenn die Willenserklärung klar erkennbar in einem elektronischen vorbereitenden Schriftsatz nach § 46c ArbGG enthalten ist und zugestellt oder mitgeteilt wurde.
 
 | Vorgang | Form | qES möglich? |
 |----|----|----|
-| Befristungsabrede (§ 14 Abs. 4 TzBfG) | Schriftform | **Ja** (ArbG Gera 2 Ca 936/23) |
-| Kündigung des Arbeitsverhältnisses (§ 623 BGB) | Schriftform — elektronische Form ausgeschlossen | **Nein** |
-| Aufhebungsvertrag (§ 623 BGB) | Schriftform — elektronische Form ausgeschlossen | **Nein** |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Kündigung des Arbeitsverhältnisses (§ 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; § 46h ArbGG im Prozess prüfen |
+| Aufhebungsvertrag (§ 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; § 46h ArbGG im Prozess prüfen |
 | Arbeitszeugnis (§ 109 GewO) | Schriftform — elektronische Form ausgeschlossen | **Nein** |
 
 ## Templates und Hinweise
@@ -109,20 +110,22 @@ der Arbeit vorliegt.
 Wirksame Varianten:
 1. Papier mit eigenhändiger Unterschrift beider Parteien
 2. Qualifizierte elektronische Signatur (qES) beider Parteien
-   ueber einen nach eIDAS-VO zertifizierten Anbieter
-   (z. B. DocuSign mit qES-Zertifikat, bestaetigt durch
-   ArbG Gera 07.03.2024 — 2 Ca 936/23)
+   über einen nach eIDAS-VO zertifizierten Anbieter
+   (z. B. DocuSign mit qES-Zertifikat, bestätigt durch
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 NICHT ausreichend (Befristung unwirksam, Vertrag unbefristet):
 - eingescannte Unterschrift im PDF
-  (LAG Berlin-Brandenburg 16.03.2022 — 23 Sa 1133/21)
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - einfache elektronische Signatur ohne qES-Zertifikat
 - Maus- oder Touch-Signatur ohne Zertifikat
 - E-Mail-Bestätigung ohne qES
 
-Wichtig fuer Kuendigung und Aufhebungsvertrag (§ 623 BGB):
-Hier ist elektronische Form (auch qES) AUSGESCHLOSSEN. Immer
-Papier mit eigenhändiger Unterschrift verwenden.
+Wichtig für Kündigung und Aufhebungsvertrag (§ 623 BGB):
+Direkte elektronische Form ist ausgeschlossen. Papier mit eigenhändiger
+Unterschrift bleibt Standard. Nur in einem arbeitsgerichtlichen Verfahren
+ist zusätzlich § 46h ArbGG als Formfiktion zu prüfen, wenn die Erklärung
+klar in einem elektronischen vorbereitenden Schriftsatz enthalten ist.
 ```
 
 ### Mandantenhinweis Arbeitnehmer
@@ -131,9 +134,9 @@ Papier mit eigenhändiger Unterschrift verwenden.
 Hinweis zur Befristung Ihres Arbeitsvertrags:
 
 Wurde Ihr Arbeitsvertrag elektronisch unterzeichnet oder per
-PDF mit eingescannter Unterschrift uebermittelt?
+PDF mit eingescannter Unterschrift übermittelt?
 
-Pruefen Sie:
+Prüfen Sie:
 - War eine qualifizierte elektronische Signatur (qES) im Einsatz?
   (Erkennbar am eIDAS-zertifizierten Anbieter wie DocuSign-qES,
    Bundesdruckerei, D-Trust, GlobalSign-qES o.ä. — nicht
@@ -142,10 +145,10 @@ Pruefen Sie:
   Signatur?
 
 Wenn nur eingescannt oder einfach signiert:
-Die Befristung ist unwirksam (LAG Berlin-Brandenburg 23 Sa 1133/21
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 und ArbG Berlin). Ihr Vertrag gilt nach § 16 TzBfG als unbefristet.
 
-Achtung: Sie muessen binnen 3 Wochen nach dem vereinbarten
+Achtung: Sie müssen binnen 3 Wochen nach dem vereinbarten
 Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 ```
 
@@ -156,25 +159,27 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 □ Signaturzertifikat extrahieren und gesondert sichern
 □ Zertifikatsanbieter dokumentieren
 □ Zeitpunkt der Signatur (Timestamp) erfassen
-□ Bestaetigungsmail des Signaturdienstes archivieren
+□ Bestätigungsmail des Signaturdienstes archivieren
 □ Bei Vertrag: jeweils ein qES-signiertes Dokument beider Seiten
-□ Pruefprotokoll des Signaturdienstes herunterladen
+□ Prüfprotokoll des Signaturdienstes herunterladen
 □ Aufbewahrungsdauer mindestens bis 3 Monate nach Vertragsende
   plus 3-Wochen-Klagefrist Puffer
 ```
 
 ## Strategische Hinweise
 
-- **Arbeitgeberseite**: Im Zweifel Papier wählen — qES ist zwar möglich, aber bei jedem Zertifikatsanbieter neu zu prüfen. ArbG Gera 07.03.2024 — 2 Ca 936/23 ist Instanzrechtsprechung; LAG- oder BAG-Linie steht noch aus.
-- **Arbeitnehmerseite**: Bei elektronischer Befristung sehr genau pruefen, ob es eine echte qES war oder nur eine einfache elektronische Signatur. Im Zweifel Entfristungsklage erwägen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Arbeitnehmerseite**: Bei elektronischer Befristung sehr genau prüfen, ob es eine echte qES war oder nur eine einfache elektronische Signatur. Im Zweifel Entfristungsklage erwägen.
 - **Mischformen**: Wenn ein Vertrag teilweise eigenhändig (Arbeitgeber) und teilweise qES (Arbeitnehmer) unterzeichnet wurde, ist die Lage unklar. § 126a Abs. 2 BGB verlangt grundsätzlich elektronische Form für beide Seiten. Saubere Lösung: einheitliche Form.
-- **Kündigung NICHT elektronisch**: § 623 BGB schließt die elektronische Form ausdrücklich aus. Auch qES-DocuSign-Kuendigungen sind unwirksam — Papier mit Originalunterschrift.
+- **Kündigung nicht direkt elektronisch**: § 623 BGB schließt die elektronische Form ausdrücklich aus. qES-DocuSign-Kündigungen, E-Mails und beA-Nachrichten außerhalb einer gesetzlichen Formfiktion sind kein sicherer Kündigungsweg.
+- **§ 46h ArbGG separat prüfen**: Bei arbeitsgerichtlichen Schriftsätzen kann die neue Formfiktion tragen; sie ersetzt aber nicht Zustellung, Vollmacht, Klarerkennbarkeit und § 174 BGB.
 
 ## Querverweise
 
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
 - → `elektronische-form-paragraph-126a-bgb-qes`
 - → `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`
+- → `kuendigung-per-schriftsatz-zustellung-formfragen`
 - → `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
 - → `form-checker-fuer-vertrag-oder-willenserklaerung`
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`

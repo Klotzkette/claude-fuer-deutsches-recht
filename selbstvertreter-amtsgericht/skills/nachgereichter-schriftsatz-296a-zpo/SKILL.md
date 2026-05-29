@@ -1,6 +1,6 @@
 ---
 name: nachgereichter-schriftsatz-296a-zpo
-description: "Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemaess § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch beruecksichtigt wird und wann nicht."
+description: "Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht."
 ---
 
 # Nachgereichter Schriftsatz nach Schluss der Verhandlung

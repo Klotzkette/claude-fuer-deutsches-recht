@@ -44,7 +44,7 @@ Für Drittnutzer rechtsunsicher (keine explizite Lizenzgewährung).
 
 ### Rang 3 — 9 Skills referenzieren Output-Dateien mit Umlauten (beA-Konflikt)
 
-Das Plugin `anlagen-zu-schriftsaetzen` fordert explizit „**Datei-Benennung beA-tauglich: keine Umlaute**". Mehrere Skills produzieren aber Output-Dateinamen mit Umlauten:
+Das Plugin `anlagen-zu-schriftsaetzen` fordert explizit "**Datei-Benennung beA-tauglich: keine Umlaute**". Mehrere Skills produzieren aber Output-Dateinamen mit Umlauten:
 - `kanzlei-allgemein/skills/mandantenakte-anlegen/SKILL.md`: Standardordner `03_schriftsätze/`
 - `kanzlei-allgemein/skills/versand-vor-check/SKILL.md`, `bea-versand-pruefen`, `posteingang-ausgang`: Pfad `mandate/<az>/03_schriftsätze/`
 - `fluggastrechte/skills/ticket-und-fluginformationen-erfassen/SKILL.md`: `nächste-schritte.md`
@@ -180,7 +180,7 @@ Drei-Teile-Schema: (1) Was tut das Plugin, (2) Hauptgesetze/Standards, (3) Trigg
 Cross-Plugin-Verweise nur als `/<plugin>:<skill>` schreiben. Intra-Plugin-Verweise nur als `\`skill-name\``. Damit ist die Resolution maschinell prüfbar.
 
 ### 15. Testakten verlinken in Skill-Bodies (Aufwand: 1 h)
-`testakten/sozialrecht-rollstuhl-tannenberg/`, `testakten/fluggastrechte-familie-braeutigam/` etc. Skills könnten in einer „Beispiel"-Sektion auf die jeweilige Testakte verweisen — sofortige Anschauung.
+`testakten/sozialrecht-rollstuhl-tannenberg/`, `testakten/fluggastrechte-familie-braeutigam/` etc. Skills könnten in einer "Beispiel"-Sektion auf die jeweilige Testakte verweisen — sofortige Anschauung.
 
 ### 16. CHANGELOG je Plugin (Aufwand: 2 h einmal, dann Pflege)
 Statt Repo-CHANGELOG: ein kurzer Eintrag in jedem Plugin-Verzeichnis als `CHANGELOG.md` mit Datum + was sich geändert hat. Wichtiger Audit-Beleg bei Mandantsplanung.
@@ -191,7 +191,7 @@ Jede `references/*.md` bekommt Header: "Stand: 2026-05, naechste Pruefung: 2026-
 ### 18. `homepage`-Feld in allen Manifests einheitlich setzen (Aufwand: 10 min)
 GitHub-URL bei jedem Plugin-Manifest gleich. Marketplace-Anzeige mit Klick-Link auf Repo.
 
-### 19. Inkonsistenz „Praeambel/Präambel" und vergleichbare Restwoerter bereinigen (Aufwand: 30 min)
+### 19. Inkonsistenz "Praeambel/Präambel" und vergleichbare Restwoerter bereinigen (Aufwand: 30 min)
 Letzter feiner Sweep nach dem Umlaut-Sweep — die fünf "Praeambel"-Vorkommen in fortbestehensprognose-Vertragstemplates zu "Präambel" konvertieren. Hauptanwendung ist Fließtext.
 
 ### 20. Skill-Längen-Korridor (Aufwand: kontinuierlich)

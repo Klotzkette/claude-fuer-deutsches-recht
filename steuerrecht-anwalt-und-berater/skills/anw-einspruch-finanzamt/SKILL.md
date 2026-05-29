@@ -1,6 +1,6 @@
 ---
 name: anw-einspruch-finanzamt
-description: "Begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjaehrung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begruendung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse."
+description: "Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjährung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begründung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse."
 ---
 
 # Einspruch beim Finanzamt
@@ -32,29 +32,22 @@ description: "Begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO f
 
 - **Einspruch:** § 347 Abs. 1 Nr. 1 AO — Einspruch ist statthaft gegen Verwaltungsakte in Abgabenangelegenheiten.
 - **Frist:** § 355 Abs. 1 AO — ein Monat ab Bekanntgabe. Bekanntgabe bei Postzustellung nach § 122 Abs. 2 Nr. 1 AO **am vierten Tag** nach Aufgabe zur Post (seit 01.01.2025 durch Postrechtsmodernisierungsgesetz PostModG; vorher dritter Tag); fällt der Vier-Tage-Tag auf Samstag, Sonntag oder Feiertag, verschiebt er sich auf den nächsten Werktag.
-- **Form:** § 357 Abs. 1 AO — schriftlich, elektronisch nach § 87a AO oder zur Niederschrift; ausdrückliche Bezeichnung als „Einspruch" nicht erforderlich, wohl aber Erkennbarkeit (BFH, Urt. v. 20.11.2008 – Az. III R 66/07, BFH/NV 2009, 884).
-- **AdV:** § 361 Abs. 2 S. 2 AO — auf Antrag, wenn ernstliche Zweifel an der Rechtmäßigkeit bestehen oder die Vollziehung eine unbillige Härte zur Folge hätte. Definition „ernstliche Zweifel" siehe BFH, Beschl. v. 10.02.1967 – Az. III B 9/66, BStBl. III 1967, 182 (st. Rspr.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verböserungsverbot — nicht absolut:** § 367 Abs. 2 S. 2 AO; bei beabsichtigter Verböserung Hinweis und Gelegenheit zur Rücknahme.
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr (§ 356 AO).
 
 ## Aktuelle Rechtsprechung
 
-- BFH, Urt. v. 20.11.2008 - III R 66/07, BFH/NV 2009, 884 Rn. 9 — Ein Einspruch muss nicht ausdrücklich als solcher bezeichnet werden; es genügt, wenn der Wille, eine behördliche Entscheidung anzufechten, klar erkennbar ist.
-- BFH, Urt. v. 18.12.1984 - VIII R 195/82, BStBl II 1986, 226 Rn. 14 — Schätzungen nach § 162 AO müssen auf realistischen Grundlagen beruhen; willkürliche oder unvehältnismäßig hohe Sicherheitszuschläge sind rechtswidrig.
-- BFH, Beschl. v. 10.02.1967 - III B 9/66, BStBl III 1967, 182 — Grundlegendes Urteil zu ernstlichen Zweifeln im Sinne des AdV-Verfahrens: auch geringe Zweifel genügen, sofern sie nicht offensichtlich unhaltbar sind (st. Rspr.).
-- BFH, Urt. v. 16.09.2015 - X R 43/12, BStBl II 2016, 48 Rn. 21 — Das Verböserungsverbot des § 367 Abs. 2 Satz 2 AO verpflichtet das FA, den Einspruchsführer auf die beabsichtigte Verböserung hinzuweisen und ihm Gelegenheit zur Rücknahme zu geben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Kruse, AO/FGO, § 355 AO Rn. 1-30 (Einspruchsfrist, Bekanntgabefiktion, Fristberechnung)
-- Klein/Brockmeyer, AO, § 347 Rn. 1-25 (Beck'scher Kurzkommentar, Statthaftigkeit Einspruch)
-- MüKo AO/Renger, § 367 Rn. 1-40 (Einspruchsentscheidung, Verböserung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Beweislast
 
 - Beweislast für steuermindernde Tatsachen (Betriebsausgaben, Werbungskosten): Steuerpflichtiger.
 - Beweislast für steuererhöhende Tatsachen: Finanzbehörde.
-- Bei Schätzungsbescheiden (§ 162 AO) ist die Schätzung auf Plausibilität zu prüfen — Schätzungsrahmen darf nicht willkürlich überschritten werden (BFH, Urt. v. 18.12.1984 – Az. VIII R 195/82, BStBl. II 1986, 226).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -144,7 +137,7 @@ I. Sachverhalt
 [Kurzdarstellung, Hinweis auf vorgelegte Belege/Anlagen]
 
 II. Rechtliche Bewertung
-1. [Streitpunkt 1] – Rechtsgrundlage [Norm], BFH, Urt. v. [Datum] – Az. [AZ], BStBl. II [Jahr], [Seite] Rn. [Rn.].
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. [Streitpunkt 2] – …
 
 III. Antrag auf Aussetzung der Vollziehung
@@ -179,5 +172,7 @@ Mit freundlichen Grüßen
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

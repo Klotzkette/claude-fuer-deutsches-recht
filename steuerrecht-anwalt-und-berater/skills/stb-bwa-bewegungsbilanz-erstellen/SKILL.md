@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-bewegungsbilanz-erstellen
-description: "Bewegungsbilanz aus BWA und SuSa erstellen. Anwendungsfall Veranschaulichung Geld- und Mittelfluss zwischen zwei Stichtagen Vermoegens- und Kapitalbewegung. Methodik Aktiva und Passiva Vergleich Mittelherkunft Mittelverwendung. Output Bewegungsbilanz als Anhang zur BWA. Querverweis stb-bwa-cashflow-laienverstaendlich."
+description: "Bewegungsbilanz aus BWA und SuSa erstellen. Anwendungsfall Veranschaulichung Geld- und Mittelfluss zwischen zwei Stichtagen Vermögens- und Kapitalbewegung. Methodik Aktiva und Passiva Vergleich Mittelherkunft Mittelverwendung. Output Bewegungsbilanz als Anhang zur BWA. Querverweis stb-bwa-cashflow-laienverstaendlich."
 ---
 
 # Bewegungsbilanz aus BWA und SuSa

@@ -1,6 +1,6 @@
 ---
 name: musterklauseln-it-vertrag
-description: "Musterklauseln fuer IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Loeschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklaerung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Pruefraster Verschwiegenheits- und § 43e-Erklaerung, Training-Opt-out, Loeschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung fuer IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Dienstleister-Due-Diligence."
+description: "Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence."
 ---
 
 # Musterklauseln IT-Vertrag
@@ -9,7 +9,7 @@ Jeder Vertrag mit einem KI-Dienstleister, der Mandatsdaten verarbeiten soll, mus
 
 ## Rechtlicher Hintergrund
 
-§ 43e BRAO: Befugte Weitergabe von Berufsgeheimnissen an IT-Dienstleister setzt einen entsprechenden Vertrag voraus, der den Dienstleister zur Verschwiegenheit verpflichtet. § 203 Abs. 3 Satz 2 StGB: Der Dienstleister wird als „mitwirkende Person" privilegiert und nicht wegen Geheimnisverrats bestraft, wenn eine ordnungsgemäße § 43e-Vereinbarung besteht. § 53a StPO: Zeugnisverweigerungsrecht des Dienstleisters. § 97 Abs. 2 StPO: Beschlagnahmeschutz. Art. 28 DSGVO: AVV-Pflicht. Art. 82 DSGVO: Haftung des Verantwortlichen und Auftragsverarbeiters.
+§ 43e BRAO: Befugte Weitergabe von Berufsgeheimnissen an IT-Dienstleister setzt einen entsprechenden Vertrag voraus, der den Dienstleister zur Verschwiegenheit verpflichtet. § 203 Abs. 3 Satz 2 StGB: Der Dienstleister wird als "mitwirkende Person" privilegiert und nicht wegen Geheimnisverrats bestraft, wenn eine ordnungsgemäße § 43e-Vereinbarung besteht. § 53a StPO: Zeugnisverweigerungsrecht des Dienstleisters. § 97 Abs. 2 StPO: Beschlagnahmeschutz. Art. 28 DSGVO: AVV-Pflicht. Art. 82 DSGVO: Haftung des Verantwortlichen und Auftragsverarbeiters.
 
 ## Vorgehen
 
@@ -50,10 +50,7 @@ Der Auftraggeber oder ein von ihm beauftragter Dritter ist berechtigt, die Einha
 Musterklauseln sind bei jeder wesentlichen Änderung der berufsrechtlichen oder datenschutzrechtlichen Anforderungen zu aktualisieren. Neue BRAK-Veröffentlichungen zu § 43e BRAO-Vereinbarungen sind besonders zu beachten. Ebenso sind neue Entscheidungen zu § 203 StGB oder zu den Anforderungen an AVV in die Klauseln einzuarbeiten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 17.05.2018 — VII ZR 157/17, NJW 2018, 2412 Rn. 18: AGB-Kontrolle von Haftungsausschluessen bei komplexen IT-Systemen — massgeblich fuer KI-Musterklauseln.
-- BGH, Urt. v. 06.12.2016 — VII ZR 165/14, NJW 2017, 1017 Rn. 26: Tagessatz-Klausel ohne Hoechtgrenze in AGB nach § 307 BGB unwirksam — Musterklauseln muss Hoechtgrenze enthalten.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 55: Betreiber-Sorgfaltspflicht bei KI-Systemen — Vertragsklauseln muessen Haftungszuordnung klar regeln.
-- BGH, Urt. v. 25.03.2021 — I ZR 37/20, GRUR 2021, 896 Rn. 22: GeschGehG-Schutz in IT-Vertraegen — Musterklausel fuer Vertraulichkeit und KI-Training notwendig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 305 BGB — Einbeziehung von AGB

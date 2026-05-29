@@ -1,6 +1,6 @@
 ---
 name: typische-fehler-selbstvertreter-sozialgericht
-description: "Die haeufigsten Fehler von Buergern ohne Anwalt vor dem SG. Frist Form Belege Antrag. Liste der Stolpersteine und wie Sie sie vermeiden."
+description: "Die häufigsten Fehler von Buergern ohne Anwalt vor dem SG. Frist Form Belege Antrag. Liste der Stolpersteine und wie Sie sie vermeiden."
 ---
 
 # Typische Fehler — und wie Sie sie vermeiden

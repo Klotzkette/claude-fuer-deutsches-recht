@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-zeugen-befragungsstrategie
-description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Pruefraster Glaubwuerdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisantraege. Output Befragungsstrategie-Memo Fragenkatalog fuer Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung fuer allgemeine HV-Vorbereitung."
+description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Output Befragungsstrategie-Memo Fragenkatalog für Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung."
 ---
 
 # Zeugen-Befragungsstrategie in der Hauptverhandlung
@@ -27,18 +27,11 @@ description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuetter
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 28.06.2022 - 1 StR 32/22, NStZ 2022, 623 — Glaubwuerdigkeitspruefung eines Zeugen muss die Aussage-Entstehung, -entwicklung und -konstanz beruecksichtigen; fehlende Wuerdigung von Aussageinkonsistenzen ist Rechtsfehler.
-- BGH, Urt. v. 16.09.2021 - 4 StR 104/21, NJW 2022, 89 — Zeuge ohne Belehrung nach § 52 StPO: Beweisverwertungsverbot ist absolut und kann nicht geheilt werden; Revision erfolgreich.
-- BGH, Urt. v. 12.04.2022 - 3 StR 8/22, NStZ 2022, 526 — Vorhalt einer frueheren Aussage nach § 254 StPO erfordert konkrete Verlsung oder Vorlage; pauschaler Vorhalt "Sie haben frueher etwas anderes gesagt" genuegt nicht.
-- BVerfG, Beschl. v. 07.12.2011 - 2 BvR 2500/09, NJW 2012, 907 — Recht auf Konfrontation mit Belastungszeugen (Art. 6 Abs. 3 Buchst. d EMRK); Verurteilung nur auf Grundlage anonymer Aussagen verletzt Recht auf ein faires Verfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 52 Rn. 1-25 (Zeugnisverweigerungsrecht Angehoerige)
-- Meyer-Gossner/Schmitt StPO § 240 Rn. 1-15 (Fragerecht)
-- Meyer-Gossner/Schmitt StPO § 68a Rn. 1-10 (Vorstrafenfragen)
-- LR-StPO / Ignor/Bertheau § 52 (Belehrungspflicht und Verwertungsverbot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorbereitung Zeugenbefragung — Checkliste
 
 ```

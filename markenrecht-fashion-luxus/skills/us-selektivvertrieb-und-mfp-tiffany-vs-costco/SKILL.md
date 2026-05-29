@@ -1,6 +1,6 @@
 ---
 name: us-selektivvertrieb-und-mfp-tiffany-vs-costco
-description: "US-Vertriebsrecht fuer Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Pruefraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo."
+description: "US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo."
 ---
 
 # US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies
@@ -13,7 +13,7 @@ Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) berät klôtzzkètté I
 
 - **Leegin Creative Leather Prods., Inc. v. PSKS, Inc., 551 U.S. 877 (2007):** Overrules Dr. Miles Medical Co. (1911); RPM ist jetzt Rule of Reason, nicht per se illegal. Faktoren: Marktmacht, Wettbewerbseffekte, Effizienzgewinne, Schäden für Verbraucher
 - **Dr. Miles Medical Co. v. John D. Park & Sons, 220 U.S. 373 (1911):** Historisch — per se illegal (nicht mehr geltendes Recht)
-- **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate Doctrine):** Hersteller kann einseitig (ohne Vereinbarung) ankündigen, an nicht-kooperative Händler nicht zu liefern; kein Sherman Act § 1-Verstoß weil keine „agreement"
+- **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate Doctrine):** Hersteller kann einseitig (ohne Vereinbarung) ankündigen, an nicht-kooperative Händler nicht zu liefern; kein Sherman Act § 1-Verstoß weil keine "agreement"
 - **Sherman Act § 1, 15 U.S.C. § 1:** Kartellverbot (alle Vereinbarungen in Restraint of Trade)
 - **Robinson-Patman Act, 15 U.S.C. § 13:** Price Discrimination zwischen Händlern — bei identischen Waren müssen identische Einkaufspreise gelten (komplex; oft ignoriert in Praxis)
 - **Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020):** Costco verwendete Tiffany-Name für generische Diamantringe (nicht von Tiffany) im Regal. Tiffany: Trademark Infringement + Dilution. Result: Settlement nach Geschworenenprozess; Costco zahlte USD 21 Mio.
@@ -32,8 +32,8 @@ Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) berät klôtzzkètté I
 - Rule of Reason: Gesamtbewertung (Pro-Competitive Benefits vs. Anti-Competitive Effects)
 
 **Colgate Doctrine (Sicherste Methode):**
-- klôtzzkètté Inc. kündigt einseitig an: „Wir liefern nicht an Händler, die unter USD 1.200 verkaufen"
-- Kein Vertrag, keine „agreement" = kein Sherman Act § 1-Problem
+- klôtzzkètté Inc. kündigt einseitig an: "Wir liefern nicht an Händler, die unter USD 1.200 verkaufen"
+- Kein Vertrag, keine "agreement" = kein Sherman Act § 1-Problem
 - Grenze: Keine Verhandlung mit Händlern über Einhaltung; echte Unilateralität erforderlich
 
 ### Schritt 2: MAP-Policy (Minimum Advertised Price)
@@ -48,14 +48,14 @@ Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) berät klôtzzkètté I
 - Grenze: MAP darf nicht faktisch als Floor Price für tatsächliche Verkäufe wirken
 
 **MAP-Policy Implementierung für klôtzzkètté Inc.:**
-- Schriftliche MAP-Policy: „Händler dürfen klôtzzkètté-Produkte in Werbematerialien nicht unter USD 1.200 bewerben"
+- Schriftliche MAP-Policy: "Händler dürfen klôtzzkètté-Produkte in Werbematerialien nicht unter USD 1.200 bewerben"
 - Keine Sanktionierung von Preissenkungen per se (nur von Werbeverstößen)
 - Konsequente Anwendung auf alle Händler (kein Favorites-System)
 
 ### Schritt 3: Tiffany v. Costco — Lehren für Luxusmarken
 
 **Sachverhalt Tiffany/Costco:**
-- Costco verwendete Pappaufsteller mit Aufschrift „Tiffany" für generische 0.40-ct-Diamantringe
+- Costco verwendete Pappaufsteller mit Aufschrift "Tiffany" für generische 0.40-ct-Diamantringe
 - Tiffany-Marke nicht auf den Ringen selbst; nur Point-of-Sale-Bezeichnung
 - Held (nach Jury): Trademark Infringement + False Designation of Origin + Dilution
 
@@ -74,13 +74,13 @@ Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) berät klôtzzkètté I
 ## Falltypische Konstellationen
 
 ### Konstellation 1: Colgate-Doctrine-Umsetzung für klôtzzkètté Inc.
-klôtzzkètté Inc. sendet an alle US-Händler einseitigen Brief: „Policy: We will not sell to retailers who advertise or sell our products below MSRP USD 1.200 for handbags." Kein Meeting, keine Verhandlung. Pure Colgate. Eleanor Quintero Review: Colgate-konform. Implementierung nach Final Approval Whitman Brennan Forsythe LLP.
+klôtzzkètté Inc. sendet an alle US-Händler einseitigen Brief: "Policy: We will not sell to retailers who advertise or sell our products below MSRP USD 1.200 for handbags." Kein Meeting, keine Verhandlung. Pure Colgate. Eleanor Quintero Review: Colgate-konform. Implementierung nach Final Approval Whitman Brennan Forsythe LLP.
 
 ### Konstellation 2: MAP-Verstoß durch Brezelmann US (Bad Mergentheim → NYC Import)
 Brezelmann US LLC bewirbt klôtzzkètté-Handtaschen auf Website für USD 699. MAP-Policy-Verstoß: Schriftliche Abmahnung, Lieferstopp-Ankündigung. Gleichzeitig: Prüfung ob Ware Gray Market (Erschöpfung?) oder Fälschung (→ Skill `us-counterfeit-und-customs-cbp`).
 
-### Konstellation 3: Costco-ähnlich — Discount-Kette nutzt „klôtzzkètté-Style"
-Discount-Kette bewirbt Handtaschen als „klôtzzkètté-inspired luxury" ohne Markenverwendung. Kein Trademark-Verstoß per se (kein Markenname); aber: UWG-Analogie fehlt im US-Recht. Lanham Act § 43(a): False Designation of Origin? Nur wenn Verbraucher echte klôtzzkètté-Verbindung annehmen.
+### Konstellation 3: Costco-ähnlich — Discount-Kette nutzt "klôtzzkètté-Style"
+Discount-Kette bewirbt Handtaschen als "klôtzzkètté-inspired luxury" ohne Markenverwendung. Kein Trademark-Verstoß per se (kein Markenname); aber: UWG-Analogie fehlt im US-Recht. Lanham Act § 43(a): False Designation of Origin? Nur wenn Verbraucher echte klôtzzkètté-Verbindung annehmen.
 
 ## Belege & Kommentare
 
@@ -145,6 +145,6 @@ Bevor das MAP/RPM-System in den USA eingerichtet wird, klaere:
 
 > **Leegin Creative Leather Products v. PSKS, 551 U.S. 877 (2007):** Der U.S. Supreme Court hat die per-se-Illegalitaet von Resale Price Maintenance aufgegeben und durch den Rule-of-Reason-Standard ersetzt; RPM kann durch procompetitive Effekte gerechtfertigt sein, insbesondere wenn es die Servicequalitaet des Haendlers sichert.
 
-> **Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020):** Der Verkauf von Diamantringen mit dem Schildchen „Tiffany" ohne Genehmigung von Tiffany begründet Likelihood of Confusion und False Designation of Origin nach § 43(a) Lanham Act; unberechtigte Nutzung einer Luxusmarke durch Discounter begründet Marken- und Trade-Dress-Ansprueche.
+> **Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020):** Der Verkauf von Diamantringen mit dem Schildchen "Tiffany" ohne Genehmigung von Tiffany begründet Likelihood of Confusion und False Designation of Origin nach § 43(a) Lanham Act; unberechtigte Nutzung einer Luxusmarke durch Discounter begründet Marken- und Trade-Dress-Ansprueche.
 
 > **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate-Doktrin):** Ein Hersteller hat das Recht, einseitig zu entscheiden, an wen er seine Produkte verkauft und zu welchen Bedingungen; eine unilaterale MAP-Policy ohne Absprache mit Haendlern ist nach der Colgate-Doktrin zulaessig.

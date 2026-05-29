@@ -1,6 +1,6 @@
 ---
 name: leitfaden-erstellen
-description: "Leitfaden und Merkblatt fuer Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden fuer haeufige Mandats-Konstellationen in leicht verstaendlicher Sprache. BeratungsHiG niedrigschwellige Beratung, Verbraucherrecht Mietrecht Arbeitsrecht. Pruefraster Zielgruppe und Sprachniveau, Rechtsgebiet und Kern-Probleme, Checkliste Handlungsschritte, Fristen und Risiken. Output Leitfaden in verstaendlicher Sprache mit Schritt-fuer-Schritt-Anleitung und Norm-Referenzen. Abgrenzung zu Einarbeitung-Skill fuer Ausbilder-Training und zu Recherche-Start."
+description: "Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden für häufige Mandats-Konstellationen in leicht verstaendlicher Sprache. BeratungsHiG niedrigschwellige Beratung, Verbraucherrecht Mietrecht Arbeitsrecht. Prüfraster Zielgruppe und Sprachniveau, Rechtsgebiet und Kern-Probleme, Checkliste Handlungsschritte, Fristen und Risiken. Output Leitfaden in verstaendlicher Sprache mit Schritt-fuer-Schritt-Anleitung und Norm-Referenzen. Abgrenzung zu Einarbeitung-Skill für Ausbilder-Training und zu Recherche-Start."
 ---
 
 # /leitfaden-erstellen
@@ -24,10 +24,7 @@ description: "Leitfaden und Merkblatt fuer Rechtsberatungsstelle erstellen: Anwe
 4. Welche spezifischen Prüfungsgates und RDG-Grenzen sollen fuer diesen Fachbereich konfiguriert werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anleitungspflicht des Volljuristen in der Rechtsberatungsstelle; formale Aufsicht ohne tatsaechliche Pruefung genuegt nicht fuer Haftungsbefreiung.
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtsberatung erfordert klare Strukturen; Leitfaden-Erstellung als organisatorische Grundlage der Rechtsberatungsstelle.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Berufsrechtliche Anforderungen an Rechtsberatungsorganisationen: Aufsicht und Dokumentation als Pflichtbestandteile jeder Beratungsstruktur.
-- OLG Muenchen, Urt. v. 15.02.2018 - 29 U 2799/17, NJW-RR 2018, 937 — Ueberschreiten der RDG-Grenzen durch nicht hinreichend qualifizierte Mitarbeiter begruendet Haftungsrisiken fuer die leitende Person.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
@@ -35,13 +32,12 @@ description: "Leitfaden und Merkblatt fuer Rechtsberatungsstelle erstellen: Anwe
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende) erfordert vertragliche Absicherung der Verschwiegenheit
 - § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln muessen im Leitfaden fuer jeden Fachbereich verankert sein
 
-## Kommentarliteratur
-- Krenzler (Hrsg.) RDG § 6 Rn. 44-52 (Anleitungsorganisation: Anforderungen fuer Rechtsberatungsstellen)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Reichweite und Organisationspflicht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Der Anleiter-Leitfaden ist der Regler, der studierendengerichtete Skills von „Arbeit erledigen" auf „Studierenden die Arbeit lehren" umstellt. Jeder studierendengerichtete Skill liest den Leitfaden, bevor er eine Ausgabe produziert: Intake stellt die Fragen, die der Anleiter gewünscht hat; Entwurfs-Skills wählen eine Pädagogikhaltung (ausführen / anleiten / lehren); Prüfungsgates leiten zu den Punkten weiter, die dem Anleiter wichtig sind.
+Der Anleiter-Leitfaden ist der Regler, der studierendengerichtete Skills von "Arbeit erledigen" auf "Studierenden die Arbeit lehren" umstellt. Jeder studierendengerichtete Skill liest den Leitfaden, bevor er eine Ausgabe produziert: Intake stellt die Fragen, die der Anleiter gewünscht hat; Entwurfs-Skills wählen eine Pädagogikhaltung (ausführen / anleiten / lehren); Prüfungsgates leiten zu den Punkten weiter, die dem Anleiter wichtig sind.
 
 **Zielgruppe: der anleitende Volljurist.** Nicht Studierende. Studierende starten mit `/rechtsberatungsstelle:einarbeitung`.
 
@@ -69,9 +65,9 @@ Biete dies als Checkliste an, die der Anleiter durcharbeiten oder als Inhaltsver
 
 ### Schritt 1: Rollenprüfung
 
-Dies ist ein Anleiter-Skill. Lies `CLAUDE.md` → `Rolle`. Wenn die Rolle nicht „Anleitender Volljurist" ist:
+Dies ist ein Anleiter-Skill. Lies `CLAUDE.md` → `Rolle`. Wenn die Rolle nicht "Anleitender Volljurist" ist:
 
-> Dieser Skill ist für Anleiter – er konfiguriert das Verhalten der studierendengerichteten Skills. Wenn Sie der Anleiter sind, stellen Sie sicher, dass Ihre Rolle in `/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview` auf „Anleitender Volljurist" gesetzt ist. Wenn Sie Studierende/r sind, ist dies nicht der richtige Skill für Sie – starten Sie mit `/rechtsberatungsstelle:einarbeitung`.
+> Dieser Skill ist für Anleiter – er konfiguriert das Verhalten der studierendengerichteten Skills. Wenn Sie der Anleiter sind, stellen Sie sicher, dass Ihre Rolle in `/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview` auf "Anleitender Volljurist" gesetzt ist. Wenn Sie Studierende/r sind, ist dies nicht der richtige Skill für Sie – starten Sie mit `/rechtsberatungsstelle:einarbeitung`.
 
 Stopp, wenn Rolle nicht Anleiter.
 
@@ -79,11 +75,11 @@ Stopp, wenn Rolle nicht Anleiter.
 
 > Für welchen Fachbereich soll dieser Leitfaden gelten? (Asyl/Aufenthaltsrecht | SGB II/Bürgergeld | Mietrecht | Verbraucherrecht | Familienrecht | SGB IX/Eingliederungshilfe | Sonstiges)
 
-Falls „Sonstiges": Kurzname erfragen → wird zum Dateinamen (Kleinbuchstaben, Bindestriche: `asyl.md`, `sgbii.md`, `mietrecht.md`).
+Falls "Sonstiges": Kurzname erfragen → wird zum Dateinamen (Kleinbuchstaben, Bindestriche: `asyl.md`, `sgbii.md`, `mietrecht.md`).
 
 Prüfe die in `CLAUDE.md` → `Fachbereiche` eingetragenen Bereiche. Wenn der gewählte Bereich dort nicht aufgeführt ist, hinweisen.
 
-Falls ein Leitfaden für diesen Bereich bereits existiert: „Möchten Sie (a) abschnittsweise überarbeiten, (b) neu aufbauen und überschreiben, oder (c) zunächst den bestehenden Leitfaden sehen?"
+Falls ein Leitfaden für diesen Bereich bereits existiert: "Möchten Sie (a) abschnittsweise überarbeiten, (b) neu aufbauen und überschreiben, oder (c) zunächst den bestehenden Leitfaden sehen?"
 
 ### Schritt 3: Intake-Fragen
 

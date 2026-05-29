@@ -1,6 +1,6 @@
 ---
 name: kanzlei-kontext-analyse
-description: "Kanzlei-Kontext erfassen fuer massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie muss Groesse Rechtsgebiete Mandantenstruktur IT-Infrastruktur und Syndikus-Inhouse-Besonderheiten des Mandanten analysiert werden. § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, DSGVO Datenschutzbeauftragter. Pruefraster Kanzleigroesse, Rechtsgebiete mit Hochrisiko-Potential, internationale Mandate, bestehende Tools, Tailoring-Bedarf. Output Kanzlei-Kontext-Profil als Grundlage fuer Richtlinien-Erstellung. Abgrenzung zu Richtlinien-Skelett-Erzeugen und zu Compliance-Regelsatz."
+description: "Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie muss Groesse Rechtsgebiete Mandantenstruktur IT-Infrastruktur und Syndikus-Inhouse-Besonderheiten des Mandanten analysiert werden. § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, DSGVO Datenschutzbeauftragter. Prüfraster Kanzleigroesse, Rechtsgebiete mit Hochrisiko-Potential, internationale Mandate, bestehende Tools, Tailoring-Bedarf. Output Kanzlei-Kontext-Profil als Grundlage für Richtlinien-Erstellung. Abgrenzung zu Richtlinien-Skelett-Erzeugen und zu Compliance-Regelsatz."
 ---
 
 # Kanzlei-Kontext-Analyse
@@ -29,7 +29,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 - In welchen Rechtsgebieten ist die Kanzlei schwerpunktmäßig tätig?
 - Werden Mandate mit besonders sensiblen personenbezogenen Daten bearbeitet (z.B. Strafrecht, Familienrecht, Gesundheitsrecht)?
 - Gibt es internationale Mandate, bei denen Daten in Drittstaaten übermittelt werden könnten?
-- Welche KI-Dienste oder Chatbots werden bereits genutzt (ggf. auch informell/„Schatten-KI")?
+- Welche KI-Dienste oder Chatbots werden bereits genutzt (ggf. auch informell/"Schatten-KI")?
 - Existiert ein Datenschutzbeauftragter? Ist dieser intern oder extern bestellt?
 - Existiert ein Berufsrechtsbeauftragter nach § 31 BORA?
 - Welche bestehenden IT-Sicherheitsrichtlinien oder Compliance-Dokumente gibt es?
@@ -40,10 +40,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusion, neue Rechtsgebiete, neue Standorte) erneut durchgeführt werden. Mindestens einmal jährlich ist zu überprüfen, ob sich die IT-Infrastruktur oder die genutzten KI-Dienstleister verändert haben, was eine Anpassung der Richtlinie erforderlich machen kann.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht § 43a Abs. 2 BRAO gilt unabhaengig von Kanzleigroe — massgeblich fuer Kanzlei-Kontext-Analyse.
-- BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Interessenkonflikt-Check als Pflicht — KI-Systeme duerfen keine mandantenuebergreifende Datenmischung ermöglichen.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Skalierungsrisiko bei KI-Scoring in grossen Kanzleien mit vielen Mandaten — Kontext-Analyse muss Risikovolumen beruecksichtigen.
-- OLG Frankfurt, Urt. v. 22.06.2020 — 12 U 77/19, NJW-RR 2020, 1456 Rn. 14: Dokumentationspflicht mandatsbezogener Entscheidungen gilt auch in kleinen Kanzleien.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (kanzleigroessen-unabhaengig)

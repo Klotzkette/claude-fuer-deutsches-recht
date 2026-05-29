@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-anklage-reaktion
-description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Pruefraster Anklage auf Vollstaendigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten."
+description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Prüfraster Anklage auf Vollständigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten."
 ---
 
 # Anklage-Reaktion
@@ -173,10 +173,7 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 ## Aktuelle Rechtsprechung Anklage-Reaktion
 
-- BGH, Urt. v. 16.02.2012 - 3 StR 243/11, BGHSt 57, 60 — Anklage nach § 200 StPO muss den Tatvorwurf so genau beschreiben, dass der Angeklagte seine Verteidigung einrichten kann; fehlende Tatzeit oder Tatort kann zur Unzulaessigkeit der Anklage fuehren.
-- BVerfG, Beschl. v. 23.06.2010 - 2 BvR 2559/08, BVerfGE 126, 170 — Bestimmtheitsgrundsatz (Art. 103 II GG): Strafbarkeit muss sich klar aus dem Gesetz ergeben; analoge Anwendung von Strafnormen zu Lasten des Angeklagten ist verfassungswidrig.
-- BGH, Beschl. v. 09.07.2009 - 4 StR 463/08, NStZ 2009, 630 — Eroffnung nach § 203 StPO bei hinreichendem Tatverdacht: Prognose-Massstab "mehr als 50 Prozent Wahrscheinlichkeit einer Verurteilung"; Ablehnung wegen Mangels hinreichenden Tatverdachts ist mit sofortiger Beschwerde anfechtbar (§ 210 II StPO).
-- BGH, Beschl. v. 28.09.2010 - 3 StR 359/10, NStZ 2011, 168 — Einstellungsantrag nach § 153a StPO im Zwischenverfahren: Zustimmung des Angeklagten erforderlich; aufgezwungene Auflagen ohne Zustimmung sind unzulaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Eroffnungsverfahren
 

@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-alkohol-drogen-24a
-description: "Alkohol- und Drogen-OWi verteidigen: Mandant hat Bussgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Pruefraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemaess, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin."
+description: "Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Prüfraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemäß, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin."
 ---
 
 # Alkohol und Drogen — § 24a StVG
@@ -26,19 +26,11 @@ description: "Alkohol- und Drogen-OWi verteidigen: Mandant hat Bussgeldbescheid 
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 11.07.2007 - 1 BvR 1025/07, NJW 2007, 2539 — Blutentnahme nach § 81a StPO benoetigt grundsaetzlich Richteranordnung; Gefahr im Verzug ist eng auszulegen; rechtswidrig entnommene Blutprobe kann dennoch verwertbar sein (keine automatische Fernwirkung).
-- BGH, Urt. v. 11.04.2019 - 4 StR 456/18, NZV 2019, 453 — Bei § 316 StGB (Trunkenheitsfahrt) besteht ab BAK 1,6 Promille absolute Fahruntauglichkeit; keine Widerlegung moeglich.
-- OLG Bamberg, Beschl. v. 11.01.2021 - 3 Ss OWi 1581/20, NZV 2021, 282 — THC-Grenzwert fuer § 24a Abs. 2 StVG: analytischer Nachweis von 1 ng/ml THC genuegt fuer den OWi-Tatbestand; keine Pruefung aktueller Wirkung erforderlich.
-- OLG Stuttgart, Beschl. v. 07.05.2021 - 4 Ss OWi 143/21, DAR 2021, 461 — Rueckrechnung des BAK-Werts auf den Fahrzeitpunkt muss aus dem Urteil nachvollziehbar sein; fehlende Rueckrechnungsbegruendung ist Rechtsfehler.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG Vor § 1 Rn. 1-20 und § 24a StVG (Alkohol, Drogen OWi)
-- KK-OWiG / Lutz § 24a StVG Rn. 1-30
-- Fischer StGB § 316 Rn. 1-40 (Trunkenheitsfahrt)
-- Fischer StGB § 315c Rn. 1-25 (Gefahrdung unter Alkohol)
-- Janiszewski/Jagow/Burmann StVR § 316 StGB
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Trennlinie OWi vs. Strafrecht
 
 | Situation | Norm | Konsequenz |

@@ -1,7 +1,7 @@
 {
   "name": "methodenlehre-buergerliches-recht",
-  "version": "14.2.0",
-  "description": "Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjaehrung.",
+  "version": "24.2.0",
+  "description": "Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

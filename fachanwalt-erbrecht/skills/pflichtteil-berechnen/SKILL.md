@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-berechnen
-description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Pruefraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht fuer Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung)."
+description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Prüfraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht für Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung)."
 ---
 
 # Pflichtteil und Pflichtteilsergänzung berechnen
@@ -41,13 +41,7 @@ description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | IV ZR 132/13 | 23.07.2014 | Schenkung an Ehegatten — 10-Jahres-Frist beginnt nicht vor Auflösung der Ehe (nicht Todestag) |
-| BGH | IV ZR 138/14 | 29.04.2015 | Schenkung unter Nießbrauchsvorbehalt — Frist beginnt nicht vor tatsächlichem Erlöschen des Nießbrauchs |
-| BGH | IVa ZR 85/88 | 19.04.1989 | Niederstwertprinzip § 2325 Abs. 2 BGB bei nicht verbrauchbaren Sachen (insb. Immobilien) |
-| BGH | IV ZR 259/92 | 02.06.1993 | Bewertung nicht verbrauchbarer Sachen: Inflationsbereinigung des Schenkungswerts vs. Wert zum Erbfall |
-| BGH | IV ZR 232/12 | 16.01.2013 | Verjährung § 2332 BGB — einheitlicher Anspruch; keine neue Verjährung für erst später bekannte Nachlassgegenstände |
-| BGH | IV ZR 211/00 | 07.03.2001 | Pflichtteilsentzug § 2333 BGB — enge Auslegung; nur schwere Verfehlungen; Beweislast beim Erben |
-| OLG Frankfurt | 20 W 350/14 | 21.08.2015 | Unternehmensbewertung als Nachlassgegenstand — IDW S1 oder vereinfachtes Ertragswertverfahren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Pflichtteilsberechnung
 
@@ -114,7 +108,7 @@ Pflichtteilsquote = 1/2 × gesetzlicher Erbteil
 | Wertpapiere (nicht börsennotiert) | Ertragswertverfahren |
 | Immobilien | Verkehrswert-Gutachten (SV § 2314 Abs. 1 Satz 2 BGB) |
 | Unternehmensbeteiligungen | IDW S1 oder vereinfachtes Ertragswertverfahren |
-| Krypto-Assets | Börsenkurs Todestag (FG Köln 14 K 1212/20) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Hausrat | Zeitwert (geschätzt) |
 | Lebensversicherung | Rückkaufswert (soweit keine Drittbegünstigung) |
 
@@ -125,7 +119,7 @@ Pflichtteilsquote = 1/2 × gesetzlicher Erbteil
 | Erblasser-Schulden (Kredit, Steuern, Unterhalt) | Ja |
 | Beerdigungskosten § 1968 BGB | Ja |
 | Pflegekosten letzte Lebensjahre | Ja (soweit nicht bereits bezahlt) |
-| Erbschaftsteuer | Nein (BGH IV ZR 132/76) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Pflichtteils-Verbindlichkeiten anderer | Ja (als Erbfallschuld) |
 
 ## Schritt 5 — Pflichtteilsergänzung § 2325 BGB
@@ -148,12 +142,12 @@ Pflichtteilsquote = 1/2 × gesetzlicher Erbteil
 
 ### Ausnahme: Ehegatte-Schenkungen
 
-- 10-Jahres-Frist beginnt **nicht** vor Auflösung der Ehe (BGH IV ZR 132/13)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schenkung an Ehegatte vor 30 Jahren ist relevant wenn Ehe bei Tod noch bestand
 
 ### Ausnahme: Schenkung unter Nießbrauchsvorbehalt
 
-- 10-Jahres-Frist beginnt **nicht** vor tatsächlichem Erlöschen des Nießbrauchs (BGH IV ZR 138/14)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erblasser verschenkt Immobilie aber behält lebenslangen Nießbrauch → Frist ab Tod/Aufgabe Nießbrauch
 
 ### Bewertung der Schenkung § 2325 Abs. 2 BGB
@@ -161,7 +155,7 @@ Pflichtteilsquote = 1/2 × gesetzlicher Erbteil
 | Sachtyp | Bewertungsregel |
 |---------|----------------|
 | Geld, Wertpapiere (verbrauchbar) | Wert zum Schenkungszeitpunkt |
-| Immobilien, Unternehmen (nicht verbrauchbar) | **Niederstwertprinzip** — niedrigerer Wert von inflationsbereinigtem Schenkungswert vs. Wert zum Erbfall (BGH IVa ZR 85/88) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 **Inflationsbereinigung:** Schenkungswert × (Verbraucherpreisindex Todestag / Verbraucherpreisindex Schenkungstag)
 
@@ -306,11 +300,11 @@ III. Zahlungsstufe:
 
 | Gegenargument Erbe | Reaktion |
 |-------------------|---------|
-| „Schenkung älter als 10 Jahre" | Ehegattenschenkung-Sonderregel § 2325 Abs. 3 BGB; Nießbrauch-Vorbehalt (BGH IV ZR 138/14); genaue Fristberechnung |
-| „Pflichtteilsverzicht liegt vor" | Prüfen ob notarielle Form § 2346 BGB gewahrt; Anfechtung wegen Irrtum/Täuschung § 2351 BGB |
-| „Pflichtteilsentzug angeordnet" | Enge Auslegung § 2333 BGB; Beweislast beim Erben (BGH IV ZR 211/00) |
-| „Vorausempfang anzurechnen" | Anrechnungsbestimmung schriftlich vereinbart? § 2315 BGB; nur bei ausdrücklicher Anrechnung |
-| „Nachlasswert überhöht bewertet" | Eigene SV-Bewertung; Niederstwertprinzip bei nicht verbrauchbaren Sachen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Pflichtteilsverzicht liegt vor" | Prüfen ob notarielle Form § 2346 BGB gewahrt; Anfechtung wegen Irrtum/Täuschung § 2351 BGB |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Vorausempfang anzurechnen" | Anrechnungsbestimmung schriftlich vereinbart? § 2315 BGB; nur bei ausdrücklicher Anrechnung |
+| "Nachlasswert überhöht bewertet" | Eigene SV-Bewertung; Niederstwertprinzip bei nicht verbrauchbaren Sachen |
 
 ## Streitwert und Kosten
 
@@ -343,10 +337,7 @@ III. Zahlungsstufe:
 
 - BGB §§ 2303–2338, 2346, 1924 ff., 1371
 - ZPO § 254
-- BGH IV ZR 132/13 (23.07.2014); IV ZR 138/14 (29.04.2015)
-- BGH IVa ZR 85/88 (19.04.1989); IV ZR 259/92 (02.06.1993)
-- BGH IV ZR 232/12 (16.01.2013)
-- MüKoBGB / Lange § 2303 ff.
-- BeckOK BGB Erbrecht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Burandt/Rojahn Erbrecht
 - Stand: 05/2026

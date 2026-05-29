@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-werkstudent-pauschalen
-description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Pruefung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
+description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
 ---
 
 # Werkstudent — SV-Status und Pauschalen
@@ -58,7 +58,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 - Vorlesungszeit: max. 20 Wochenstunden.
 - Vorlesungsfreie Zeit (Semesterferien): mehr als 20 Stunden moeglich.
 - Mehrfach-Werkstudent: Summe der Stunden ueber alle AG ist massgeblich.
-- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt insgesamt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im Zeitraum von 52 Wochen rueckwirkend nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; konkrete aktuelle Faktoren verifizieren).
+- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im 52-Wochen-Zeitraum nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; bei Aenderung der DEUEV-Grundsaetze pruefen).
 - Bei dauerhafter Ueberschreitung der 20 Wochenstunden in der Vorlesungszeit: Werkstudenten-Status weg, voll SV-pflichtig.
 
 ### Phase 3 — SV-Beitraege
@@ -75,7 +75,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 ### Phase 4 — Anmeldung und Pruefung
 
 - Immatrikulationsbescheinigung jaehrlich aktualisieren (am besten zu Semesterbeginn).
-- SV-Anmeldung mit Personengruppen-Schluessel 106 (Werkstudent — Bestaetigung ueber DEUEV-Schluesselverzeichnis ITSG; Schluessel 2026 verifizieren).
+- SV-Anmeldung mit Personengruppen-Schluessel 106 (Werkstudent; DEUEV-Schluesselverzeichnis ITSG Stand 2025, unveraendert; bei DEUEV-Aenderung ITSG-Schluesselverzeichnis pruefen).
 - Bei Verlust Werkstudent-Status: Personengruppen-Schluessel auf 101 (regulaer) wechseln; Beitragsgruppen-Schluessel anpassen.
 
 ### Phase 5 — Sonderfaelle
@@ -122,3 +122,5 @@ Stand: 05/2026.
 - SGB VI.
 - BAfoeG § 16.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schluessel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Pruefhinweis ohne Marker) -->

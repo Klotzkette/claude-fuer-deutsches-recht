@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-schreibcanvas
-description: "Freistehender Corporate-Schreibcanvas fuer SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. §§ 433 ff. BGB Vertragsrecht, § 93 AktG Organpflichten, BRAO Berufsrecht. Pruefraster unsubstantiierte Behauptungen markieren, fehlende Belege benennen, zu scharfe oder weiche Formulierungen korrigieren. Output kommentierter Entwurf mit konkreten Verbesserungsvorschlaegen. Abgrenzung zu Look-and-Feel fuer Ausgabeformat und zu Vertragsmarkup-Key-Issues."
+description: "Freistehender Corporate-Schreibcanvas für SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. §§ 433 ff. BGB Vertragsrecht, § 93 AktG Organpflichten, BRAO Berufsrecht. Prüfraster unsubstantiierte Behauptungen markieren, fehlende Belege benennen, zu scharfe oder weiche Formulierungen korrigieren. Output kommentierter Entwurf mit konkreten Verbesserungsvorschlaegen. Abgrenzung zu Look-and-Feel für Ausgabeformat und zu Vertragsmarkup-Key-Issues."
 ---
 
 # Freistehender Corporate-Schreibcanvas
@@ -19,11 +19,11 @@ Dieser Skill ist der freundliche Schreib- und Qualitätsbegleiter im M&A-Plugin.
 
 ## Typische Hinweise
 
-- „Das ist als Finding noch zu dünn: Bitte Belegstelle, Risikoauswirkung und SPA-Relevanz ergänzen.“
-- „Hier klingt es nach einer Garantieverletzung; soll ich eine Disclosure-Schedule-Zeile vorbereiten?“
-- „Das sieht nach einem CP aus; soll ich es in den Deal-Fristenkalender ziehen?“
-- „Für beA/Notar/Register fehlt noch die Versand- oder Vollmachtsprüfung.“
-- „Bei KI-gestützter DD sollte der Validierungsgrad im Report stehen.“
+- "Das ist als Finding noch zu dünn: Bitte Belegstelle, Risikoauswirkung und SPA-Relevanz ergänzen."
+- "Hier klingt es nach einer Garantieverletzung; soll ich eine Disclosure-Schedule-Zeile vorbereiten?"
+- "Das sieht nach einem CP aus; soll ich es in den Deal-Fristenkalender ziehen?"
+- "Für beA/Notar/Register fehlt noch die Versand- oder Vollmachtsprüfung."
+- "Bei KI-gestützter DD sollte der Validierungsgrad im Report stehen."
 
 ## Ausgabe
 
@@ -46,9 +46,8 @@ Dieser Skill ist der freundliche Schreib- und Qualitätsbegleiter im M&A-Plugin.
 - §§ 195, 199 BGB — Verjaehrungsfristen: Fristenkalender muss auch gesetzliche Verjaehrungsfristen erfassen
 
 ### Leitsaetze
-- BFH, Urt. v. 12.03.2020 - V R 20/19, BStBl. II 2020, 645 — Rechnungsanforderungen: eine Rechnung ohne Pflichtangaben nach § 14 Abs. 4 UStG berechtigt nicht zum Vorsteuerabzug; rueckwirkende Rechnungskorrektur moeglich, aber nur unter engen Voraussetzungen
-- BGH, Urt. v. 15.05.2012 - VI ZR 157/11, NJW 2012, 2178 — Fristenversaeumnis: Anwalt haftet fuer schuldhaft versaeumte Fristen; Wiedervorlage und Kalenderfuehrung sind Kernpflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Kopp/Schenke, VwGO, Fristen und Fristen-Berechnung § 57 VwGO Rn. 1-40
-- MueKo HGB/Ebke, §§ 238-241a Rn. 1-60 (Buchfuehrungspflicht, GoBD, Aufbewahrung)
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

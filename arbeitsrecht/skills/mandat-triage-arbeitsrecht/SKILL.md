@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-arbeitsrecht
-description: "Eingangs-Abfrage fuer arbeitsrechtliche Mandate — Mandant fragt nach Kuendigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschaeftsfuehrer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kuendigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kuendigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kuendigungs-pruefung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung)."
+description: "Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kündigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung)."
 ---
 
 # Mandat-Triage Arbeitsrecht
@@ -131,14 +131,14 @@ Bei jedem Kündigungs-, Aufhebungsvertrag- oder AGG-Mandat zusätzlich prüfen:
 | Indiz | Bewertung |
 |---|---|
 | Auskunftsersuchen zeitgleich mit Kündigung oder Klage | Typisches Druckmittel; Monatsfrist Art. 12 Abs. 3 DSGVO beachten |
-| Legal-Tech-Vollmacht oder Massenmuster | Erhöhte Chance auf Missbrauchseinwand (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler) |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Erstmaliger Antrag ohne Legal-Tech-Muster | Hohe Hürde für Missbrauchseinwand; Auskunft erteilen |
-| Antrag nach Beendigung des Arbeitsverhältnisses | Anspruch besteht grundsätzlich (BAG, Urt. v. 17.10.2024 – 8 AZR 215/23) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Handlungsanweisung:**
 1. Datum des Eingangs des Auskunftsersuchens dokumentieren.
 2. Monatsfrist Art. 12 Abs. 3 DSGVO in Fristenbuch eintragen.
-3. Prüfen: Liegt objektives + subjektives Element für Missbrauchseinwand vor (EuGH C-526/24)?
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Falls Missbrauchseinwand nicht sicher: Auskunft erteilen oder begründet verzögern (max. zwei weitere Monate, Art. 12 Abs. 3 S. 2 DSGVO).
 5. Ausgleichsklausel im Aufhebungsvertrag: DSGVO-Ansprüche und Art.-82-Schadensersatz einbeziehen?
 6. Zuständigkeit: Auskunftsklage gehört vor das Landgericht (§ 44 BDSG i.V.m. Art. 79 DSGVO), nicht vor das Arbeitsgericht.
@@ -178,4 +178,4 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 - HinSchG
 - SGB III § 144
 - BAG Std.Spruch
-- ErfK Müller-Glöge/Preis/Schmidt
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

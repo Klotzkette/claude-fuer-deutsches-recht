@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Wohnraum-, Gewerberaum- und WEG-Recht
@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -158,19 +157,15 @@ Klassische Stolperfalle in Wohnraum-, Gewerberaum- und WEG-Recht:
 
 ## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht
 
-- BGH, Urt. v. 20.01.2010 - VIII ZR 50/09, NJW 2010, 751 Rn. 15 — Die Abgeltungsklausel im Mietaufhebungsvertrag erfasst im Zweifel nicht Schäden, die erst nach dem Vergleichsabschluss sichtbar werden; Schönheitsreparatur-Ansprüche müssen ausdrücklich einbezogen werden.
-- BGH, Urt. v. 16.02.2018 - V ZR 148/17, NJW 2018, 1816 Rn. 19 — Im WEG-Recht kann ein Vergleich zwischen einzelnen Wohnungseigentümern nur wirken, wenn er nicht die Rechte anderer Eigentümer berührt; Beschlussmängel lassen sich durch Privatvergleich nicht heilen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Vergleich Miet-/WEG-Recht
 
 § 779 BGB (Vergleichsvertrag) → § 557 BGB (Mietaufhebungsvertrag) → § 568 BGB (Schriftform Kündigung/Aufhebung) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 23 WEG (Beschlussfassung) → § 44 WEG (WEG-Anfechtungsklage Klagefrist)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer Mietrecht 15. Aufl., § 557 BGB Rn. 30-60 (Mietaufhebungsvertrag)
-- Baermann WEG 15. Aufl., § 23 Rn. 80-110 (Beschlussfassung und Vergleichsmöglichkeiten)
-- Lützenkirchen Mietrecht 3. Aufl., § 557 Rn. 20-40 (Mietaufhebungsvertrag praktisch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Vergleichsgespräch Miet-/WEG
 
 Kläre vor Beginn:
@@ -213,7 +208,6 @@ bei Übergabe noch nicht erkennbar waren.
 ```
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 294/15 entfernt: Aktenzeichen nicht auf dejure.org auffindbar;
 kein Ersatz gefunden (claimed topic: Raeumungsvergleich Wohnung eindeutig bezeichnen).
 Loesung: Eintrag geloescht.
 -->

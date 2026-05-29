@@ -1,0 +1,24 @@
+{
+  "name": "nachbarschaftsstreit-pruefer",
+  "version": "24.2.0",
+  "description": "Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "nachbarrecht",
+    "nachbarschaftsstreit",
+    "ueberbau",
+    "ueberhang",
+    "aeste",
+    "wurzeln",
+    "grenzbaum",
+    "einfriedung",
+    "notweg",
+    "immissionen",
+    "bgb",
+    "landesnachbarrecht"
+  ]
+}

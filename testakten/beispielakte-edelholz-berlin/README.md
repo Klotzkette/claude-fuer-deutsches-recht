@@ -1,5 +1,14 @@
 # Beispielakte: Edelholz Manufaktur Berlin GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-beispielakte-edelholz-berlin` (diese Akte) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Fiktion. Alle Personen, Adressen, Steuernummern, IBANs sind frei erfunden.**
 > Zweck: realistisches Demonstrationsmaterial für den Skill `liquiditaetsvorschau-3-6-12-monate`
 > und `bwa-sus-bilanz-pruefung`.
@@ -28,7 +37,7 @@ Die Gesellschaft fertigt hochwertige Einbau- und Maßmöbel für Privatkunden (6
 Hotels und Boutiquen (30 %) sowie öffentliche Auftraggeber (10 %). Maschinenpark
 2018–2020 modernisiert (CNC-Bearbeitungszentrum SCM Accord 50, Plattenaufteilsäge
 Holzma HPP 380, Furnierpresse). Seit Energiepreisspitze 2022/23 chronische
-Working-Capital-Belastung, „Bugwelle" alter Lieferantenrechnungen ca. 64 TEUR.
+Working-Capital-Belastung, "Bugwelle" alter Lieferantenrechnungen ca. 64 TEUR.
 Sozialversicherungsbeiträge der letzten zwei Monate offen. CNC-Antriebsmotor
 defekt (Reparaturangebot 28 TEUR). Großauftrag Hotel Lützowufer LZF-2025-08
 über 145 TEUR in Fertigung, Lieferung KW 28 geplant.

@@ -1,6 +1,6 @@
 ---
 name: markenmonitoring-und-watchlist
-description: "Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Pruefraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-loeschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten."
+description: "Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-löschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten."
 ---
 
 # Markenmonitoring und Watchlist-Dienste
@@ -41,7 +41,7 @@ Die Widerspruchsfrist beträgt nur 3 Monate (EUIPO) bzw. 3 Monate (DPMA) ab Ver�
 ### Ebene 2: Domain-Monitoring
 
 - Dienste: MarkMonitor, CSC Digital Brand Services, Clarabridge Domain Watch
-- Überwachung: „klotzkette*" / „klotzzkette*" / „klôtzzkètté*" in allen TLDs (.de/.com/.eu/.fr/.it/.shop)
+- Überwachung: "klotzkette*" / "klotzzkette*" / "klôtzzkètté*" in allen TLDs (.de/.com/.eu/.fr/.it/.shop)
 - Typosquatting-Varianten: klotzzkette, klotzkette, klotz-kette, klotz-kett etc.
 - Reaktion bei Verletzung: UDRP-Beschwerde (für .com) oder DENIC-Dispute (für .de)
 
@@ -91,28 +91,25 @@ Die Widerspruchsfrist beträgt nur 3 Monate (EUIPO) bzw. 3 Monate (DPMA) ab Ver�
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Alert „KLÖTZE-KETTÉ" in Klasse 25
-Watch-Dienst meldet am 15.01.2025: Neue DPMA-Anmeldung „KLÖTZE-KETTÉ" durch Brezelmann Discount KG für Klasse 25. Sofortige Kollisionsanalyse: klanglich hoch ähnlich zu klôtzzkètté; Warenidentität. Widerspruch empfohlen, Frist: bis 15.04.2025. Sofortige Mandantenkommunikation und Widerspruchsvorbereitung.
+### Konstellation 1: Alert "KLÖTZE-KETTÉ" in Klasse 25
+Watch-Dienst meldet am 15.01.2025: Neue DPMA-Anmeldung "KLÖTZE-KETTÉ" durch Brezelmann Discount KG für Klasse 25. Sofortige Kollisionsanalyse: klanglich hoch ähnlich zu klôtzzkètté; Warenidentität. Widerspruch empfohlen, Frist: bis 15.04.2025. Sofortige Mandantenkommunikation und Widerspruchsvorbereitung.
 
-### Konstellation 2: Madrid IR-Anmeldung „KLOTZETTE" für US-Markt
+### Konstellation 2: Madrid IR-Anmeldung "KLOTZETTE" für US-Markt
 WIPO-Alert: Neue Madrid IR-Anmeldung mit Designation USA. US-Notifikation an USPTO. Koordination mit Whitman Brennan Forsythe NYC für US-Opposition beim TTAB (vgl. Skill `ttab-opposition-und-cancellation`).
 
-### Konstellation 3: Domain „klotzkette.shop" registriert
-Domain-Monitor meldet: „klotzkette.shop" soeben registriert, Inhaber anonym (Privacy Shield). Sofortiger UDRP-Antrag bei WIPO (für .shop-Domain): klôtzzkètté hat ältere Marke, Domain ist verwechslungsfähig, bösgläubige Registrierung vermutet.
+### Konstellation 3: Domain "klotzkette.shop" registriert
+Domain-Monitor meldet: "klotzkette.shop" soeben registriert, Inhaber anonym (Privacy Shield). Sofortiger UDRP-Antrag bei WIPO (für .shop-Domain): klôtzzkètté hat ältere Marke, Domain ist verwechslungsfähig, bösgläubige Registrierung vermutet.
 
 ## Belege & Kommentare
 
 - EUIPO, Watch-Leitfaden fuer Markeninhaber, 2024
 - WIPO, Madrid Monitor User Guide, Stand 2024
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 42 Rn. 5 ff. (Widerspruchsfrist)
-- BeckOK MarkenR, § 42 MarkenG Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Aktuelle Rechtsprechung zum Markenmonitoring
 
-- BGH, Urt. v. 07.10.2020 – I ZR 236/19, GRUR 2021, 482 Rn. 17 – Goliathbbier: Fehlende Markenüberwachung kann zur Verwirkung von Unterlassungsansprüchen führen; Markeninhaber muss kollidierendes Zeichen nach dessen Anmeldung innerhalb angemessener Zeit verfolgen.
-- EuGH, Urt. v. 22.09.2011 – C-482/09, GRUR Int. 2011, 1058 Rn. 44 – Budejovicky Budvar: Fünfjährige Duldungsfristen für eingetragene juengere Marken nach Art. 61 UMV; Monitoring muss Duldungsfristen kalkulieren.
-- BGH, Urt. v. 18.10.2017 – I ZR 6/16, GRUR 2018, 417 Rn. 26 – Resistograph: Aktive Benutzung der Marke ist Voraussetzung um Benutzungszwang-Einwand im Verletzungsverfahren abzuwehren; Monitoring muss auch eigene Benutzungslage im Blick haben.
-- BGH, Beschl. v. 07.04.2022 – I ZB 75/21, GRUR 2022, 905 Rn. 11 – Streitwert Markenverletzung: Bei bekannten Luxusmarken typisch 250.000 EUR Streitwert oder mehr; Monitoring lohnt sich wirtschaftlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 

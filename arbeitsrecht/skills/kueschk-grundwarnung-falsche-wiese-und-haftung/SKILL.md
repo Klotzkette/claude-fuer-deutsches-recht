@@ -1,6 +1,6 @@
 ---
 name: kueschk-grundwarnung-falsche-wiese-und-haftung
-description: "Pflichtkopf fuer jeden Kuendigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt."
+description: "Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt."
 ---
 
 # Grundwarnung: Falsche Wiese und Haftung
@@ -50,17 +50,11 @@ Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwält:innen entfä
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 26.06.2008 – 2 AZR 264/07, NZA 2008, 1182 — Die Drei-Wochen-Frist des § 4 KSchG ist eine materiell-rechtliche Ausschlussfrist; ihre Versäumung lässt sich nur über § 5 KSchG heilen, nicht durch allgemeine Wiedereinsetzungsregeln.
-- BAG, Urt. v. 22.03.2012 – 2 AZR 224/11, NZA 2012, 1101 — Eine Kündigung gilt nach § 7 KSchG als von Anfang an wirksam, wenn der Arbeitnehmer die Klagefrist versäumt; nachträgliche Kenntnis vom Unwirksamkeitsgrund ändert daran nichts.
-- BAG, Urt. v. 23.02.2012 – 2 AZR 773/10, NZA 2012, 858 — Der Zugang einer schriftlichen Kündigung richtet sich nach §§ 130 ff. BGB; maßgeblich ist der Zeitpunkt, in dem die Willenserklärung in den Machtbereich des Empfängers gelangt und mit Kenntnisnahme zu rechnen ist.
-- BAG, Urt. v. 28.06.2012 – 6 AZR 682/10, NZA 2012, 1090 — § 5 KSchG setzt unverschuldete Verhinderung voraus; grobe Fahrlässigkeit des Arbeitnehmers schließt die nachträgliche Zulassung aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 4 KSchG Rn. 1-15 — (Klagefrist und Zugang)
-- KR/Friedrich, 13. Aufl. 2022, § 4 KSchG Rn. 20 ff. — (Fristbeginn, Ausschlussfrist)
-- APS/Dörner/Linck, 6. Aufl. 2022, § 4 KSchG Rn. 5 ff. — (Fiktion § 7 KSchG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wo dieser Baustein erscheint
 
 - Vor jedem Klageschrift-Entwurf (Skill `kueschk-klageschrift-laie-baustein`)

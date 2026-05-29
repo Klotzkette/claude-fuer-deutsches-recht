@@ -1,6 +1,6 @@
 ---
 name: tenor-bauen-zivil
-description: "Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Pruefraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollstaendig und vollstreckbar. Abgrenzung: Entscheidungsgruende siehe entscheidungsgruende-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen."
+description: "Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Prüfraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollständig und vollstreckbar. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen."
 ---
 
 # Tenor bauen Zivilurteil
@@ -17,9 +17,7 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.07.2011 - II ZR 300/10, NJW 2011, 3510 — Kostenquote muss mit dem Streitwert und dem tatsächlichen Obsiegen übereinstimmen; fehlerhafte Quoten sind per Berichtigung nach § 319 ZPO korrigierbar.
-- BGH, Urt. v. 17.09.2019 - II ZR 167/18, NJW 2020, 234 — Zinsbeginn "seit Rechtshängigkeit" ist § 291 BGB; Verzugszinsen ab Mahnung nach § 286 BGB — beides kann nebeneinander ausgesprochen werden.
-- BGH, Beschl. v. 05.12.2012 - III ZB 47/12, NJW 2013, 1232 — Vollstreckbarkeit ohne Sicherheitsleistung (§ 713 ZPO) setzt voraus, dass Berufung mangels Beschwer nicht statthaft ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +29,9 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 - § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent
 - § 713 ZPO — Vollstreckbarkeit ohne Sicherheit bei fehlendem Rechtsmittel
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 709 Rn. 1-20 (vorläufige Vollstreckbarkeit)
-- Grüneberg, BGB, 83. Aufl. 2024, § 288 Rn. 1-15 (Verzugszinsen Höhe und Beginn)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 313 Rn. 20-30 (Tenor Form und Bestimmtheit)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Hauptsacheantrag prüfen:** Zahlungsbetrag, Zinssatz, Zinsbeginn — konkret und vollstreckbar formulieren.

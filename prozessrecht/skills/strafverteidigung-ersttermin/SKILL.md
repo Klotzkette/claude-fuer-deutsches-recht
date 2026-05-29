@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-ersttermin
-description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Pruefraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht)."
+description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht)."
 ---
 
 # Strafverteidigung – Ersttermin und erste Schritte
@@ -52,36 +52,25 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- BVerfG, Beschl. v. 19.10.1977 – 2 BvR 462/77, BVerfGE 46, 202 Rn. 28 ff.: Das Recht des
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Beschuldigten auf Beistand eines Verteidigers (§ 137 StPO) ist Ausfluss des Grundrechts auf
   ein faires Verfahren (Art. 2 Abs. 1 i. V. m. Art. 20 Abs. 3 GG) und des Grundsatzes der
   Waffengleichheit; der Staat darf die Verteidigung nicht strukturell erschweren.
-- BGH, Urt. v. 27.02.1992 – 5 StR 190/91, BGHSt 38, 214 Rn. 16 ff.: Beweisverwertungsverbot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   bei unterlassener Belehrung nach § 136 StPO; eine ohne ordnungsgemäße Belehrung über das
   Schweigerecht gewonnene Aussage des Beschuldigten ist unverwertbar, wenn der Fehler nicht
   geheilt wurde; Heilung durch späteres Einverständnis des Beschuldigten möglich (str.).
-- BGH, Urt. v. 18.12.2008 – 4 StR 455/08, BGHSt 53, 112 Rn. 12 ff.: Zu den Anforderungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   an einen förmlichen Beweisantrag (§ 244 Abs. 3 StPO); Beweisbehauptung muss bestimmt sein;
   bloße Beweisermittlungsanträge sind nach anderen Regeln zu bescheiden.
-- BGH, Beschl. v. 15.01.2003 – 1 StR 464/02, NJW 2003, 1468 Rn. 10 ff.: Zur Akteneinsicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   des Verteidigers § 147 StPO; der Verteidiger hat Anspruch auf vollständige Akteneinsicht
   sobald die Anklageschrift beim Gericht eingereicht wurde; Ausnahmen nur nach § 147 Abs. 2
   StPO im laufenden Ermittlungsverfahren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Meyer-Goßner/Schmitt, in: Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 140 Rn. 1 ff.
-  (Pflichtverteidigerbestellung: gesetzliche Fälle § 140 Abs. 1 StPO; Ermessensfälle § 140
-  Abs. 2 StPO; Antragstellung; Rn. 26 ff. zur Beiordnung in U-Haft).
-- Schmitt, in: BeckOK StPO, 52. Ed. (Stand 01.01.2025), § 136 Rn. 1 ff. (Belehrung:
-  Pflichtinhalt; Rechtsfolge bei Belehrungsmangel; Rn. 20 ff. zum Beweisverwertungsverbot
-  bei unterlassener Belehrung über Verteidigerkonsultationsrecht).
-- Wohlers, in: SK-StPO, 5. Aufl. 2016, § 147 Rn. 10 ff. (Akteneinsicht: Umfang; Einschränkung
-  im Ermittlungsverfahren; Rechtsmittel bei Verweigerung: Beschwerde nach § 304 StPO).
-- Krehl, in: BeckOK StPO, 52. Ed. (Stand 01.01.2025), § 244 Rn. 50 ff. (Beweisantrag:
-  Bestimmtheitsanforderungen; Ablehnungsgründe § 244 Abs. 3 StPO; Ablehnungsbeschluss;
-  Rn. 75 zur Aufklärungspflicht § 244 Abs. 2 StPO als Auffangtatbestand).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Ersttermin – Checkliste
@@ -150,21 +139,21 @@ sich nicht in Haft; die Anklageschrift wurde zugestellt; HV-Termin ist in 4 Woch
    Körperverletzung ist Vergehen). Pflichtverteidigerfall nach § 140 Abs. 2 StPO wäre zu prüfen,
    wenn M sich nicht selbst verteidigen kann. Ggf. Wahlverteidigermandat.
 3. *Akteneinsicht* (§ 147 Abs. 1 StPO): Da Anklage erhoben, sofortiger Anspruch; Antrag
-   wird noch heute an das AG gestellt (BGH, Beschl. v. 15.01.2003 – 1 StR 464/02, NJW 2003, 1468
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Rn. 10).
 4. *Strategie*: Schweigen bis nach Akteneinsicht; danach Entscheidung über Einlassung.
 
 ## Risiken und typische Fehler
 
 - **Fehlende Belehrung § 136 StPO**: Aussagen des Mandanten bei Polizei ohne Belehrung sind
-  unverwertbar (BGH, Urt. v. 27.02.1992 – 5 StR 190/91, BGHSt 38, 214 Rn. 16); Widerspruch
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   in der Hauptverhandlung erklären (§ 257 StPO).
 - **Zu frühe Einlassung**: Ohne vollständige Akteneinsicht einlassen → Selbstbelastung durch
   Detailwissen, das Ermittler noch nicht hatten.
 - **Versäumte Haftprüfungsfrist**: Bei U-Haft sind Fristen (§§ 117, 122 StPO) absolute
   Priorität; Fristenkontrolle täglich.
 - **Unzulässiger Beweisantrag** (§ 244 Abs. 3 StPO): Beweisbehauptung zu unbestimmt →
-  Ablehnung als Beweisermittlungsantrag; Revisionsfalle (BGH, Urt. v. 18.12.2008 – 4 StR 455/08,
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   BGHSt 53, 112 Rn. 12).
 - **Interessenkonflikt** (§ 43a Abs. 4 BRAO, § 3 BORA): Darf nicht gleichzeitig Mitbeschuldigten
   oder Verletzten vertreten.
@@ -178,6 +167,6 @@ sich nicht in Haft; die Anklageschrift wurde zugestellt; HV-Termin ist in 4 Woch
 
 Jede Aussage zu Pflichtverteidigervoraussetzungen, Akteneinsicht, Schweigerecht und
 Beweisverwertungsverboten ist nach `references/zitierweise.md` zu belegen. BVerfG-Entscheidungen
-mit BVerfGE-Fundstelle. BGH-Urteile und -Beschlüsse mit BGHSt oder NJW-Fundstelle und Rn.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kommentare mit Bearbeiter, Werk, Aufl. bzw. Ed. (Stand), §, Rn. Mindermeinungen bei
 umstrittenen Heilungsfällen § 136 StPO ausdrücklich benennen.

@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-185-gvg
-description: "Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch auf Dolmetscher Verfahrenssprache deutsch Kosten Eil-Antrag bei Sprachbarriere. Praktischer Leitfaden fuer Selbstvertreter mit nicht-Deutsch als Muttersprache."
+description: "Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch auf Dolmetscher Verfahrenssprache deutsch Kosten Eil-Antrag bei Sprachbarriere. Praktischer Leitfaden für Selbstvertreter mit nicht-Deutsch als Muttersprache."
 ---
 
 # Dolmetscher im Verfahren

@@ -1,6 +1,6 @@
 ---
 name: stb-buchhaltungsbutler-mandantencloud
-description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetspruefung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Pruefroutine."
+description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine."
 ---
 
 # BuchhaltungsButler — Mandanten-Cloud-Loesung

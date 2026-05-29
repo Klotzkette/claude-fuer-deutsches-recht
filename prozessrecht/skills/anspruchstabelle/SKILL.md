@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle
-description: "Anspruchstabelle fuer zivilprozessuales Mandat erstellen: alle Ansprueche und Gegenansprueche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Pruefraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Grundlage fuer Klageschrift oder Erwiderung. Abgrenzung: nicht Streitwertberechnung."
+description: "Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Grundlage für Klageschrift oder Erwiderung. Abgrenzung: nicht Streitwertberechnung."
 ---
 
 # Anspruchstabelle
@@ -28,9 +28,9 @@ Zwei Modi:
 
 2. **Beweisstand erfassen:** Für jedes Element: belegt/unbelegt/streitig; vorhandene Beweismittel (Urkunde, Zeugenaussage, Sachverständigengutachten, Geständnisfiktion § 138 Abs. 3 ZPO, Augenschein § 371 ZPO) eintragen.
 
-3. **Beweislast prüfen:** Wer trägt für welches Element die Darlegungs- und Beweislast? (Grundsatz: Anspruchsteller trägt für anspruchsbegründende Merkmale, § 363 BGB; Anspruchsgegner für rechtshindernde/rechtsvernichtende Merkmale – BGH, Urt. v. 05.10.2022 – VIII ZR 307/20, NJW 2023, 142 Rn. 31.)
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-4. **Lücken markieren:** Fehlende Belege und Beweismittel als **[LÜCKE]** mit Handlungsempfehlung (z. B. „Beauftragung Sachverständiger", „Auskunftsklage § 242 BGB / § 254 ZPO", „§ 142 ZPO Antrag auf Urkundenvorlage").
+4. **Lücken markieren:** Fehlende Belege und Beweismittel als **[LÜCKE]** mit Handlungsempfehlung (z. B. "Beauftragung Sachverständiger", "Auskunftsklage § 242 BGB / § 254 ZPO", "§ 142 ZPO Antrag auf Urkundenvorlage").
 
 5. **Gegenargumente eintragen:** Bekannte oder antizipatierte Gegenargumente in Gegenargument-Spalte.
 
@@ -38,9 +38,9 @@ Zwei Modi:
 
 ### Modus Patent (`--patent`)
 
-1. **Anspruch merkmalsweise aufgliedern** (Feature-by-Feature gemäß EPA-Praxis / BGH „Schneidmesser"-Methode: BGH, Urt. v. 06.05.2009 – Xa ZR 103/08, GRUR 2009, 837 – „Aufweichwanne").
-2. **Angegriffene Ausführungsform** jedem Merkmal gegenüberstellen (wortsinngemäße oder äquivalente Verwirklichung, BGH, Urt. v. 12.03.2002 – X ZR 168/00, BGHZ 150, 149 Rn. 30 ff. – „Schneidmesser II").
-3. **Nichtigkeitsangriff** (wenn `--nichtigkeit`): Neuheitsschädlicher Stand der Technik pro Merkmal (§ 3 PatG), erfinderische Tätigkeit (§ 4 PatG) – Aufgabe-Lösungs-Ansatz (BGH, Urt. v. 20.12.2011 – X ZR 53/08, GRUR 2012, 378 – „Installiereinrichtung II").
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Lücken und Risiken:** Unklare Merkmale, fehlende Dokumente zur angegriffenen Ausführungsform.
 
 ## Quellen und Zitierweise
@@ -48,15 +48,11 @@ Zwei Modi:
 Verbindlich: `../references/zitierweise.md`.
 
 Zivilrecht:
-- BGH, Urt. v. 05.10.2022 – VIII ZR 307/20, NJW 2023, 142 Rn. 31 (Beweislastverteilung § 280 BGB).
-- BGH, Urt. v. 23.09.2020 – XII ZR 86/18, NJW 2021, 228 Rn. 18 (Darlegungs- und Beweislast bei Pflichtverletzung).
-- Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154 ff. (Anspruchsvoraussetzungen und Beweislast).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 34 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Patent:
-- BGH, Urt. v. 06.05.2009 – Xa ZR 103/08, GRUR 2009, 837 – „Aufweichwanne" (merkmalsweise Auslegung des Patentanspruchs).
-- BGH, Urt. v. 12.03.2002 – X ZR 168/00, BGHZ 150, 149 – „Schneidmesser II" (äquivalente Verletzung).
-- BGH, Urt. v. 20.12.2011 – X ZR 53/08, GRUR 2012, 378 – „Installiereinrichtung II" (Aufgabe-Lösungs-Ansatz).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mes, PatG, 5. Aufl. 2020, § 9 Rn. 22 ff.
 - Schulte/Voß, PatG, 10. Aufl. 2017, § 9 Rn. 48 ff.
 
@@ -80,6 +76,6 @@ Patent:
 ## Risiken / typische Fehler
 
 - **Beweislastumkehr übersehen:** Bei § 280 Abs. 1 S. 2 BGB liegt Entlastungspflicht beim Schuldner; nicht als Klägeraufgabe eintragen.
-- **Lücken im Urkundenbeweis:** Vorlageanordnung nach § 142 ZPO ist kein Parteienrecht, sondern richterliches Ermessen; Antrag muss Anlass nennen (Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 142 Rn. 4).
-- **Patentanspruch zu weit ausgelegt:** Merkmalsanalyse muss wortsinngemäß beginnen; Äquivalenz erst im zweiten Schritt (BGH – „Schneidmesser II").
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- **Patentanspruch zu weit ausgelegt:** Merkmalsanalyse muss wortsinngemäß beginnen; Äquivalenz erst im zweiten Schritt (BGH – "Schneidmesser II").
 - **Auskunfts-/Stufenklage nicht berücksichtigt:** Bei fehlender Kenntnis des Schadens kann Stufenklage (§ 254 ZPO) sinnvoll sein; Anspruchstabelle sollte Auskunftsstufe separat ausweisen.

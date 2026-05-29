@@ -31,7 +31,7 @@ Es ist anzunehmen, dass die Information an die Presse durch einen Insider oder e
 
 **Entwurf Statement — Sprecherin: Sabine Wollner, Geschäftsführerin**
 
-> „Die Musterholding GmbH nimmt ihre Verpflichtungen im Bereich der Geldwäscheprävention sehr ernst und verfügt über umfangreiche interne Compliance-Prozesse. Im Rahmen dieser Prozesse prüfen wir neue Geschäftsbeziehungen und Transaktionen sorgfältig, bevor wir sie freigeben. Zu einzelnen laufenden oder abgeschlossenen Prüfvorgängen äußern wir uns grundsätzlich nicht öffentlich. Wir arbeiten stets in vollem Einklang mit den gesetzlichen Anforderungen und kooperieren mit allen zuständigen Behörden."
+> "Die Musterholding GmbH nimmt ihre Verpflichtungen im Bereich der Geldwäscheprävention sehr ernst und verfügt über umfangreiche interne Compliance-Prozesse. Im Rahmen dieser Prozesse prüfen wir neue Geschäftsbeziehungen und Transaktionen sorgfältig, bevor wir sie freigeben. Zu einzelnen laufenden oder abgeschlossenen Prüfvorgängen äußern wir uns grundsätzlich nicht öffentlich. Wir arbeiten stets in vollem Einklang mit den gesetzlichen Anforderungen und kooperieren mit allen zuständigen Behörden."
 
 **Zu keiner Frage:** Name des betroffenen Distributors, Betrag der Transaktion, Verdachtsmeldung, FIU-Verfahren.
 
@@ -51,7 +51,7 @@ Es ist anzunehmen, dass die Information an die Presse durch einen Insider oder e
 
 Die Musterholding GmbH, Frankfurt am Main, hat ihre internen Compliance- und Geldwäschepräventions­prozesse im ersten Halbjahr 2026 umfassend überarbeitet und gestärkt. Anlass war eine turnusmäßige interne Überprüfung der Einhaltung des Geldwäschegesetzes (GwG) sowie die regulatorisch vorgeschriebene Aktualisierung der jährlichen Risikoanalyse.
 
-„Compliance ist für uns kein bürokratisches Pflichtprogramm, sondern integraler Bestandteil unserer Unternehmensführung", erklärt Geschäftsführer Klaus-Dieter Brenner. „Wir investieren kontinuierlich in die Qualifikation unserer Mitarbeiter und in die technische Infrastruktur unseres Monitoringsystems."
+"Compliance ist für uns kein bürokratisches Pflichtprogramm, sondern integraler Bestandteil unserer Unternehmensführung", erklärt Geschäftsführer Klaus-Dieter Brenner. "Wir investieren kontinuierlich in die Qualifikation unserer Mitarbeiter und in die technische Infrastruktur unseres Monitoringsystems."
 
 Die Musterholding GmbH ist als Güterhändler und über ihre Tochtergesellschaft als Immobilienverwalterin nach dem Geldwäschegesetz verpflichtet, bestimmte Sorgfaltspflichten einzuhalten. Diese umfassen die Identifizierung von Geschäftspartnern, die Ermittlung wirtschaftlich Berechtigter sowie die laufende Überwachung von Transaktionen. Das Unternehmen kooperiert vollumfänglich mit den zuständigen Aufsichtsbehörden.
 
@@ -69,7 +69,7 @@ Dieses Dokument dient der Vorbereitung interner Mitarbeiter auf mögliche Medien
 A: Geben Sie keine Auskunft. Leiten Sie die Anfrage sofort an Frau Wollner (s.wollner@musterholding.de) weiter. Keine eigene Einschätzung abgeben.
 
 **F: Was, wenn ein Kollege mich fragt, warum eine Zahlung nicht verarbeitet wurde?**  
-A: „Die Compliance-Abteilung prüft gerade einen regulatorischen Vorgang. Mehr kann ich dazu nicht sagen." Niemals den Namen des Kunden oder Einzelheiten der Prüfung erwähnen.
+A: "Die Compliance-Abteilung prüft gerade einen regulatorischen Vorgang. Mehr kann ich dazu nicht sagen." Niemals den Namen des Kunden oder Einzelheiten der Prüfung erwähnen.
 
 **F: Darf ich auf Social Media über laufende Compliancefälle schreiben?**  
 A: Absolut nicht. Jede Erwähnung auf Social Media — auch in privaten Konten — ist untersagt und kann straf- und haftungsrechtliche Folgen haben.

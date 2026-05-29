@@ -35,11 +35,11 @@ Die Zeugin sagt sodann zur Sache aus:
 
 ## Zur Person der Schuldnerin
 
-„Die LUMEN Studios GmbH habe ich erstmals mit Bestellung als vorläufige Insolvenzverwalterin durch Beschluss des AG Frankfurt vom 22.05.2024 kennen gelernt. Zuvor hatte ich keine geschäftlichen oder persönlichen Kontakte zu den beiden Geschäftsführern oder der Gesellschaft. Mein Auftrag bestand darin, ein Gutachten gemäß § 5 InsO zu erstatten und die Vermögenswerte der Schuldnerin bis zur Entscheidung über die Verfahrenseröffnung zu sichern."
+"Die LUMEN Studios GmbH habe ich erstmals mit Bestellung als vorläufige Insolvenzverwalterin durch Beschluss des AG Frankfurt vom 22.05.2024 kennen gelernt. Zuvor hatte ich keine geschäftlichen oder persönlichen Kontakte zu den beiden Geschäftsführern oder der Gesellschaft. Mein Auftrag bestand darin, ein Gutachten gemäß § 5 InsO zu erstatten und die Vermögenswerte der Schuldnerin bis zur Entscheidung über die Verfahrenseröffnung zu sichern."
 
 ## Zur Buchhaltungs-Lage
 
-„Bei meinem ersten Vor-Ort-Termin am 27.05.2024 in den Geschäftsräumen Goethestraße 18 habe ich folgendes vorgefunden: Es gab keine ordnungsgemäße Buchführung im Sinne der §§ 238 ff. HGB. Vorhanden war ausschließlich eine Belegmappe mit chronologisch abgehefteten Eingangsrechnungen, Bankauszügen und Belegen. Eine systematische Verbuchung in einer Software wie DATEV, sevDesk oder LexOffice hat ab Oktober 2023 nicht mehr stattgefunden.
+"Bei meinem ersten Vor-Ort-Termin am 27.05.2024 in den Geschäftsräumen Goethestraße 18 habe ich folgendes vorgefunden: Es gab keine ordnungsgemäße Buchführung im Sinne der §§ 238 ff. HGB. Vorhanden war ausschließlich eine Belegmappe mit chronologisch abgehefteten Eingangsrechnungen, Bankauszügen und Belegen. Eine systematische Verbuchung in einer Software wie DATEV, sevDesk oder LexOffice hat ab Oktober 2023 nicht mehr stattgefunden.
 
 Ich habe die Belege gesichtet und teilweise nachträglich rekonstruiert. Ergebnis: Für 2024 (Januar bis Mai) existieren ca. 380 Einzelbelege ohne strukturierte Buchung. Die Übersichtlichkeit der Vermögens- und Schuldenlage ist hierdurch erheblich beeinträchtigt. Ich konnte zwar durch die Bankauszüge und Belege ein vorläufiges Aktiv-Passiv-Verzeichnis erstellen, aber nicht zuverlässig sagen, welche Zahlungen in welcher Reihenfolge an welche Gläubiger geflossen sind, ob beispielsweise einzelne Lieferanten bevorzugt bedient wurden oder ob ungewöhnliche Vermögensabflüsse stattgefunden haben.
 
@@ -49,7 +49,7 @@ Inventur und Inventar zum 31.12.2023 fehlen vollständig."
 
 ## Zur Frage der Verantwortlichkeit der beiden Geschäftsführer
 
-„Im Rahmen meiner Befragungen habe ich beide Geschäftsführer separat und mehrfach angesprochen. Beide haben sich auf eine interne Aufgabenteilung berufen, die im Gesellschaftsvertrag § 8 angedeutet, in einer internen Notiz vom Mai 2023 konkretisiert sein soll.
+"Im Rahmen meiner Befragungen habe ich beide Geschäftsführer separat und mehrfach angesprochen. Beide haben sich auf eine interne Aufgabenteilung berufen, die im Gesellschaftsvertrag § 8 angedeutet, in einer internen Notiz vom Mai 2023 konkretisiert sein soll.
 
 Nach dieser Aufgabenteilung war Herr **Weber** zuständig für: Kreation, Produktion, Kundenakquise, Auftrags-Akquisition.
 
@@ -66,7 +66,7 @@ Insgesamt ist Herr **Richter** aus meiner Sicht stärker in den Verdacht der Pfl
 
 ## Zur Frage des Insolvenz-Eintritt-Zeitpunkts
 
-„Aus den vorhandenen Belegen lässt sich der Eintritt der Zahlungsunfähigkeit auf den Zeitraum **April bis Mitte Mai 2024** zurückführen.
+"Aus den vorhandenen Belegen lässt sich der Eintritt der Zahlungsunfähigkeit auf den Zeitraum **April bis Mitte Mai 2024** zurückführen.
 
 Konkret: Bereits am 10.04.2024 war die Umsatzsteuer-Vorauszahlung für Februar 2024 fällig und wurde nicht geleistet (Mahnung Finanzamt vom 25.04.2024). Am 25.04.2024 wurden zwei Lieferanten-Rechnungen fällig (Adobe Inc. und Vimeo Inc.) und nicht bezahlt. Am 03.05.2024 war die Maimiete fällig und wurde nicht beglichen. Damit war spätestens am 03.05.2024 — bei realistischer Würdigung wahrscheinlich schon zuvor — die Zahlungsunfähigkeit eingetreten, und zwar nicht als kurzfristige Liquiditätslücke, sondern als nachhaltige Zahlungsunfähigkeit.
 
@@ -76,9 +76,9 @@ Für die strafrechtliche Bewertung wäre der genaue Zeitpunkt zu klären. Aus zi
 
 ## Zur Frage der Vermögensverschiebungen
 
-StAin Petersen fragt: „Frau Dr. Bergmann, haben Sie im Rahmen Ihrer Tätigkeit Anzeichen für Vermögensverschiebungen, Selbstbedienung oder ungewöhnliche Zahlungen seitens der Geschäftsführer festgestellt?"
+StAin Petersen fragt: "Frau Dr. Bergmann, haben Sie im Rahmen Ihrer Tätigkeit Anzeichen für Vermögensverschiebungen, Selbstbedienung oder ungewöhnliche Zahlungen seitens der Geschäftsführer festgestellt?"
 
-Zeugin: „Eine eindeutige Vermögensverschiebung ist mir nicht aufgefallen. Geschäftsführer-Gehälter (jeweils EUR 4.200 netto monatlich) wurden bis April 2024 normal ausgezahlt; im Mai 2024 wurde nur das Gehalt von Herrn Richter (nicht das von Herrn Weber) gezahlt — Begründung in der Buchhaltung: 'Liquiditätsengpass'. Das ist auffällig, aber der Betrag ist gering (EUR 4.200) und die Wertung obliegt dem Ermittlungsverfahren.
+Zeugin: "Eine eindeutige Vermögensverschiebung ist mir nicht aufgefallen. Geschäftsführer-Gehälter (jeweils EUR 4.200 netto monatlich) wurden bis April 2024 normal ausgezahlt; im Mai 2024 wurde nur das Gehalt von Herrn Richter (nicht das von Herrn Weber) gezahlt — Begründung in der Buchhaltung: 'Liquiditätsengpass'. Das ist auffällig, aber der Betrag ist gering (EUR 4.200) und die Wertung obliegt dem Ermittlungsverfahren.
 
 Eine größere Auffälligkeit gibt es jedoch: Am 15.04.2024 wurde vom Geschäftskonto ein Betrag von EUR 8.500 an Herrn Richter überwiesen, mit dem Buchungstext 'Rückzahlung Gesellschafterdarlehen'. Herr Richter hatte 2022 ein Gesellschafterdarlehen von EUR 35.000 gewährt; im April 2024 war hieraus also eine Teilrückzahlung. Die Zeitpunktswahl — Mitte April, in der akut beginnenden Krise — ist auffällig und möglicherweise anfechtbar gewesen (§§ 130, 131 InsO bzw. § 133 InsO). Da das Verfahren mangels Masse abgewiesen wurde, kam eine Anfechtung allerdings nicht zur Anwendung.
 
@@ -86,9 +86,9 @@ Außerdem fanden sich drei Auszahlungen an einen privaten Lieferanten 'Tannberg 
 
 ## Zur Verteidigung
 
-StAin: „Wie schätzen Sie Verteidigungs-Chancen der beiden Geschäftsführer ein?"
+StAin: "Wie schätzen Sie Verteidigungs-Chancen der beiden Geschäftsführer ein?"
 
-Zeugin: „Das obliegt dem Verteidiger und ist nicht meine Aufgabe. Generell würde ich sagen: Bei Herrn Weber sehe ich die Verteidigungs-Linie 'interne Ressort-Verteilung + eigenständige Antragstellung'. Diese Linie ist nicht aussichtslos. Bei Herrn Richter sehe ich die Schwierigkeit, dass ihm die Buchhaltungs-Verantwortlichkeit klar zugeordnet ist, die Mandatsniederlegung des Steuerberaters direkt an ihn gerichtet war, und er auf den Insolvenzantrag mit einem nicht statthaften Rücknahme-Antrag reagiert hat statt selbst zu handeln."
+Zeugin: "Das obliegt dem Verteidiger und ist nicht meine Aufgabe. Generell würde ich sagen: Bei Herrn Weber sehe ich die Verteidigungs-Linie 'interne Ressort-Verteilung + eigenständige Antragstellung'. Diese Linie ist nicht aussichtslos. Bei Herrn Richter sehe ich die Schwierigkeit, dass ihm die Buchhaltungs-Verantwortlichkeit klar zugeordnet ist, die Mandatsniederlegung des Steuerberaters direkt an ihn gerichtet war, und er auf den Insolvenzantrag mit einem nicht statthaften Rücknahme-Antrag reagiert hat statt selbst zu handeln."
 
 ## Zur Aktenbeziehung
 

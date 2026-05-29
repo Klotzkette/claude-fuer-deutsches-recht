@@ -57,15 +57,11 @@ Strukturiert und bestückt virtuelle Datenräume für Private M&A, Public M&A, C
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 31.05.2018 - C-633/16, NZKart 2018, 321 — Clean Room: kartellrechtlich sensibler Informationsaustausch vor Freigabe ist verbotener Vollzug nach Art. 7 FKVO; Clean Room muss technisch und rechtlich nachweislich getrennt sein
-- BGH, Urt. v. 14.03.2003 - V ZR 64/02, NJW 2003, 1811 — Datenraum-Offenlegung: Dokumente im Datenraum gelten nur dann als offengelegt, wenn sie bei sorgfaeltiger Pruefung erkennbar und verstaendlich sind; verschwommener Hinweis genuegt nicht (Fair Disclosure)
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — Datenraum-Kenntnis: Kaeuf er muss sich Kenntnis seines DD-Teams aus dem Datenraum zurechnen lassen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Picot, Unternehmenskauf, Kapitel 2 (Due Diligence, Datenraum, Vertraulichkeit), 5. Auflage
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 2 § 2 (Datenraum, NDA, IRL), 8. Auflage
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Deal-Typ und Zugriffsstruktur festlegen:** Bieter-Gruppen, Clean-Room-Bereich, Management-Zugang

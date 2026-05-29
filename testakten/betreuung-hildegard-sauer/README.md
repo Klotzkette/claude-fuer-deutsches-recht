@@ -1,5 +1,14 @@
 # Testakte: Betreuungsfall Hildegard Sauer
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-betreuung-hildegard-sauer` (diese Akte) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **⚠️ Alle Daten, Namen, Adressen, Aktenzeichen, Kontonummern und sonstigen
 > Angaben in dieser Akte sind frei erfunden. Jegliche Ähnlichkeit mit realen
 > Personen, Verfahren oder Institutionen ist rein zufällig. Diese Akte dient
@@ -20,7 +29,7 @@
 | Familienstand | verwitwet |
 | Beruf (früher) | Verwaltungsangestellte, Bezirksamt Mitte Berlin |
 | Frühere Adresse | Schöneberger Ufer 41, 10785 Berlin (Eigentumswohnung) |
-| Aktuelle Adresse | Pflegeheim „Haus Charlottenstift", Charlottenstraße 88, 10117 Berlin (seit 02.10.2024) |
+| Aktuelle Adresse | Pflegeheim "Haus Charlottenstift", Charlottenstraße 88, 10117 Berlin (seit 02.10.2024) |
 
 ### Diagnose
 
@@ -83,7 +92,7 @@ Berufsbetreuers eingereicht.
 | 10 | `10_Patientenverfuegung_2019.pdf` | PDF | Patientenverfügung Hildegard Sauer, März 2019, handunterschrieben | § 1827 BGB |
 | 11 | `11_Notiz_Betreuer_Hausbesuch_28-04-2026.txt` | Text | Aktennotiz Hausbesuch Betreuer im Heim, 28.04.2026 | § 1863 BGB |
 | 12 | `12_Mietvertrag_Wohnung_alt.pdf` | PDF | ⚠️ Historischer Mietvertrag 1968 – **irrtümlich abgeheftet**, nicht relevant | – |
-| 13 | `13_Foto_Wohnung_aussen.jpg.placeholder.txt` | Placeholder | Angekündigtes Foto der Wohnung – **fehlt in der Akte** | – |
+| 13 | `Fehlblatt_13_Foto_Wohnung_aussen.md` | Fehlblatt | Angekündigtes Foto der Wohnung – **fehlt in der Akte** | – |
 
 ---
 
@@ -100,7 +109,7 @@ Das Plugin `betreuungsrecht` kann aus den Dokumenten 01–12 einen vollständige
 - Ausblick auf geplante Maßnahmen
 
 **Empfohlene Frage an das Plugin:**
-> „Erstelle einen Jahresbericht nach § 1863 BGB für Frau Hildegard Sauer,
+> "Erstelle einen Jahresbericht nach § 1863 BGB für Frau Hildegard Sauer,
 > Az. 70 XVII 4421/24, Berichtszeitraum 18.11.2024 – 30.04.2026."
 
 ---
@@ -114,7 +123,7 @@ strukturiertes Vermögensverzeichnis im Format des § 1835 BGB mit:
 - Anonymisierten Kontonummern
 
 **Empfohlene Frage:**
-> „Erstelle eine Zusammenfassung des Vermögens für den Jahresbericht aus
+> "Erstelle eine Zusammenfassung des Vermögens für den Jahresbericht aus
 > der Excel-Datei 05_Vermoegensverzeichnis_Stand_30-04-2026.xlsx."
 
 ---
@@ -129,7 +138,7 @@ Das Plugin kann prüfen:
 - Welche Unterlagen müssen dem Antrag beiliegen?
 
 **Empfohlene Frage:**
-> „Prüfe den Genehmigungsantrag (Dokument 09) nach § 1850 BGB auf
+> "Prüfe den Genehmigungsantrag (Dokument 09) nach § 1850 BGB auf
 > Vollständigkeit und gib mir Hinweise, was noch fehlt."
 
 ---

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht fuer Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)."
+description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht für Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)."
 ---
 
 # Vergleichsverhandlung und Einigung im Urheber- und Medienrecht
@@ -25,10 +25,7 @@ description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereite
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 22 – Poster-Lounge: Lizenzanaloger Schadensersatz orientiert sich an MFM-Empfehlungen; im Vergleich koennen Parteien Pauschale vereinbaren, die unterhalb der MFM-Werte liegt wenn Verletzung gering oder fahrlaeessig.
-- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 36 – Wagenfeld-Leuchte: Verdoppelung der Lizenzgebuehr bei fehlender Urhebernennung ist Schadensersatz-Position; im Vergleich verhandelbar wenn Urhebernennung nachgeholt wird.
-- BGH, Urt. v. 28.07.2015 – VI ZR 340/14, NJW 2015, 3153 Rn. 22: Immaterieller Schadensersatz bei Persoenlichkeitsrechtsverletzung durch Berichterstattung; 15.000-50.000 EUR bei schwerwiegender Verletzung; im Vergleich oft auf 10.000-20.000 EUR reduzierbar gegen Gegendarstellung.
-- BGH, Urt. v. 22.03.2018 – I ZR 137/16, GRUR 2018, 1161 Rn. 24 – Industriell gefertigte Moebelteile: Unterlassungserklaerung mit Vertragsstrafe als Kernbestandteil des Vergleichs; Anti-Hammer-Klausel zulässig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorbereitung der Verhandlung
 
@@ -73,13 +70,9 @@ Schritt 5: Vergleichsvertrag abschliessen
   → Mandantenfreigabe vor Unterzeichnung
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schricker/Loewenheim, Urheberrecht (Beck) — §§ 97, 97a UrhG Schadensersatz
-- Dreier/Schulze, UrhG (Beck) — Lizenzanalogie und Schadensberechnung
-- Musielak/Voit, ZPO (Beck) — §§ 794, 796a ZPO Vollstreckungstitel
-- Wenzel, Recht der Wort- und Bildberichterstattung — immaterieller Schadensersatz
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Vergleichsangebot
 
 **Adressat:** Verletzende Partei — Tonfall sachlich-verhandelnd

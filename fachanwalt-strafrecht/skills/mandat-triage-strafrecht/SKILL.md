@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-strafrecht
-description: "Strukturierte Eingangs-Abfrage fuer Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftbeschwerde § 117 StPO Haftpruefung § 117 § 118 StPO Akteneinsicht § 147 StPO. Eskalation Telefon-Sofort bei Untersuchungshaft binnen 24 Stunden. Routing zu akteneinsicht-strafrecht-auswerten."
+description: "Strukturierte Eingangs-Abfrage für Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftbeschwerde § 117 StPO Haftprüfung § 117 § 118 StPO Akteneinsicht § 147 StPO. Eskalation Telefon-Sofort bei Untersuchungshaft binnen 24 Stunden. Routing zu akteneinsicht-strafrecht-auswerten."
 ---
 
 # Mandat-Triage Strafrecht
@@ -114,14 +114,11 @@ Erstkontakt im Strafverfahren — oft mit hoher Eilbedürftigkeit (Festnahme U-H
 - StPO §§ 117 121 137 140 141 146 147 168c 201 304 314 341 410
 - StGB § 12 (Verbrechen-Vergehen)
 - BRAO § 43a
-- BVerfGE 70, 297 (Verteidiger-Beistand)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung Mandat-Triage
 
-- BVerfG, Beschl. v. 13.10.2016 - 2 BvR 1454/16, NJW 2017, 290 — Pflichtverteidiger-Bestellung muss rechtzeitig erfolgen, damit Verteidiger ausreichend Vorbereitungszeit hat; spaete Bestellung verletzt Recht auf effektive Verteidigung (Art. 6 III lit. c EMRK).
-- BVerfG, Beschl. v. 19.01.2015 - 2 BvR 1487/11, NStZ 2015, 417 — Akteneinsicht im Haftverfahren: haftrelevante Aktenbestandteile muessen dem Verteidiger unverzueglich zuganglich gemacht werden; spataestens vor dem Haftpruefungstermin vollstaendige Einsicht.
-- BGH, Beschl. v. 14.11.2018 - 1 StR 429/18, NStZ 2019, 164 — Mehrfachverteidigung (§ 146 StPO): auch gemeinsame Vertretung von Beschuldigten, die sich nicht offen widersprechen, kann unzulaessig sein, wenn Interessenkonflikt latent besteht.
-- BGH, Urt. v. 25.07.2000 - 1 StR 205/00, BGHSt 46, 130 — GwG-Pflichten des Verteidigers: Honorarannahme aus offensichtlich inkriminierter Quelle begrundet Strafbarkeit nach § 261 StGB auch fuer den Rechtsanwalt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Triage-Check
 

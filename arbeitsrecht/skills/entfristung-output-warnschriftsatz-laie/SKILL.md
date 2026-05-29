@@ -1,6 +1,6 @@
 ---
 name: entfristung-output-warnschriftsatz-laie
-description: "Vollstaendige Klageschrift Entfristungsklage mit Pflicht-Disclaimer fuer Laien; Zusammenfuehrung aller Bausteine; Ausfuellanleitung; Einreichungshinweise; Dreiwochenfrist-Warnblock prominent am Anfang."
+description: "Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer für Laien; Zusammenführung aller Bausteine; Ausfuellanleitung; Einreichungshinweise; Dreiwochenfrist-Warnblock prominent am Anfang."
 ---
 
 # Ausgabe: Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer (Laie)
@@ -15,9 +15,7 @@ description: "Vollstaendige Klageschrift Entfristungsklage mit Pflicht-Disclaime
 
 ## Rechtsprechungshinweise
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Begründungsbaustein Schriftformmangel: § 14 Abs. 4 TzBfG verlangt eigenhändige Unterschrift auf Originalurkunde vor Arbeitsaufnahme; digitale Signatur ist ausdrücklich ausgeschlossen.
-- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Einheitlichkeit der Urkunde: Beide Parteien müssen dieselbe körperliche Urkunde unterzeichnen.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot zeitlich unbegrenzt; bei Verstoß gegen § 14 Abs. 2 Satz 2 TzBfG gilt Vertrag als unbefristet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vollständige Klageschrift
 
@@ -84,7 +82,7 @@ Der Arbeitsvertrag vom [VERTRAGSDAT UM] enthält eine Befristung bis zum [VEREIN
 [HIER BEGRÜNDUNG — EINEN ODER MEHRERE BAUSTEINE WÄHLEN:]
 
 **Baustein A — Schriftformmangel:**
-Die Befristungsabrede ist formunwirksam nach § 14 Abs. 4 TzBfG i.V.m. § 126 BGB, weil kein eigenhändig unterschriebenes Originaldokument vorliegt. Der Vertrag wurde [BESCHREIBUNG DER DIGITALEN UNTERZEICHNUNG — z.B.: über das Portal DocuSign unterzeichnet / per E-Mail mit eingescannter Unterschrift versandt]. Die elektronische Form ist nach § 14 Abs. 4 TzBfG ausdrücklich ausgeschlossen. Gemäß § 16 Satz 1 TzBfG gilt der Vertrag daher als auf unbestimmte Zeit geschlossen.
+Die Befristungsabrede ist formunwirksam nach § 14 Abs. 4 TzBfG, weil weder ein eigenhändig unterschriebenes Originaldokument noch eine qualifizierte elektronische Signatur nach § 126a BGB vorliegt. Der Vertrag wurde [BESCHREIBUNG — z.B.: per E-Mail mit eingescannter Unterschrift versandt / über ein Portal nur einfach signiert]. Gemäß § 16 Satz 1 TzBfG gilt der Vertrag daher als auf unbestimmte Zeit geschlossen.
 
 **Baustein B — Fehlender Sachgrund:**
 Ein Sachgrund nach § 14 Abs. 1 TzBfG liegt nicht vor. [BEGRÜNDEN WARUM KEIN SACHGRUND].

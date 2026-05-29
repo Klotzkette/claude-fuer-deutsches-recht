@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-ihk-und-berufsgenossenschaft
-description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gruendung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Pruefraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung."
+description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung."
 ---
 
 # IHK und Berufsgenossenschaft
@@ -24,17 +24,11 @@ description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 19.01.2005 - 6 C 9.04, BVerwGE 122, 342 — IHK-Pflichtmitgliedschaft und Beitragspflicht sind verfassungskonform; Zwangsmitgliedschaft rechtfertigt sich durch legitime Selbstverwaltungsaufgaben.
-- BSG, Urt. v. 28.11.2006 - B 2 U 33/05 R, BSGE 97, 279 — BG-Beitragspflicht des Unternehmers beginnt mit tatsächlicher Betriebseröffnung; nicht erst ab HR-Eintragung.
-- OVG Berlin-Brandenburg, Beschl. v. 11.04.2017 - OVG 1 N 45.15 — IHK-Beitragsbefreiung für kleine Unternehmen: Gewinn-Schwelle ist stichtagsbezogen; nachträgliche Korrekturen möglich.
-- BGH, Urt. v. 24.10.2005 - II ZR 129/04, BGHZ 164, 336 — GF-Verantwortlichkeit: formell eingetragener GF trägt Pflichten auch gegenüber öffentlichen Stellen (IHK, BG); kein Abwälzen auf faktischen Geschäftsführer.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Jahn/Müller-Michaels, IHKG, § 2 Rn. 1-25 (Pflichtmitgliedschaft, Ausnahmen)
-- Schlegel/Voelzke, SGB VII, § 192 Rn. 1-15 (Anzeigepflicht BG, Fristen)
-- Kater/Leube, SGB VII, § 150 Rn. 1-20 (Beitragspflicht, Gefahrklassen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## IHK — Mitgliedschaft und Beitrag
 
 ### Pflichtmitgliedschaft
@@ -127,7 +121,7 @@ Beitrag (geschätzt): [EUR] / Jahr
 GF-freiwillige Versicherung: [ ] Antrag gestellt / [ ] Nicht erforderlich
 
 HANDWERKSKAMMER (falls Handwerk)
-Zuständige HWK: [Name, Ort]
+Zuständige lizenzpflichtige Literaturquelle: [Name, Ort]
 Eintragung Handwerksrolle: [ ] beantragt / [ ] nicht erforderlich
 
 STATUS PFLICHTMELDUNGEN
@@ -148,8 +142,7 @@ STATUS PFLICHTMELDUNGEN
 - §§ 2, 3 IHKG (IHK-Pflichtmitgliedschaft, Beitrag)
 - §§ 150, 192 SGB VII (BG-Beitrag, Anzeigepflicht)
 - § 90 HwO (Handwerkskammer)
-- BVerwG 6 C 9.04, BVerwGE 122, 342 (Verfassungskonformität IHK)
-- BSG B 2 U 33/05 R, BSGE 97, 279 (BG-Beitragspflicht Beginn)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übergabe an andere Skills
 

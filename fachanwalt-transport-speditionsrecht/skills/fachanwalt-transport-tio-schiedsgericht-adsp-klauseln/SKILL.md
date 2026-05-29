@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-tio-schiedsgericht-adsp-klauseln
-description: "TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht pruefen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Pruefraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselpruefung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren."
+description: "TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren."
 ---
 
 # Transport-Recht — TIO / ADSp-Schiedsklauseln

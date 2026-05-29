@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-cmr-haftung
-description: "CMR-Haftung des Frachtfuehrers im internationalen Strassengueterverkehr pruefen. Normen: Art. 17 23 29 CMR. Pruefraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungspruefergebnis. Abgrenzung: nicht CMR-Schadensregulierung."
+description: "CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung."
 ---
 
 # CMR-Haftung – Grenzüberschreitender Straßengüterverkehr
@@ -51,12 +51,8 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 100/19 | BGH, 30.01.2020 | Art. 29 CMR: Mangelnde Schnittstellenkontrolle im Umschlaglager genügt für qualifiziertes Verschulden; Frachtführer kann sich nicht exkulpieren wenn keine Systemdokumentation existiert |
-| BGH I ZR 88/04 | BGH, 13.10.2005 | Art. 29 CMR: fehlendes Kontrollsystem beim Güterumschlag = Leichtfertigkeit; BGH-Definition des „gleichstehenden Verschuldens" |
-| BGH I ZR 76/13 | BGH, 22.05.2014 | Art. 30 CMR: Reklamation durch Frachtbrief-Vorbehalt ist ausreichend; keine separate schriftliche Reklamation notwendig bei erkennbarem Schaden |
-| BGH I ZR 239/14 | BGH, 04.02.2016 | Art. 17 Abs. 4 CMR: Privilegierung setzt voraus, dass Frachtführer tatsächlich Schutzmaßnahmen zur Minimierung des typischen Risikos ergriffen hat |
-| BGH I ZR 153/19 | BGH, 12.11.2020 | Art. 31 CMR: Gerichtsstandswahl ist nach Klageerhebung bindend; rügeloser Rügeverzicht möglich |
-| OLG Hamburg 6 U 201/18 | OLG Hamburg, 2019 | Art. 30 CMR: Allgemeiner Schadenvorbehalt in Frachtbrief genügt als Reklamation; konkrete Bezifferung bei erkennbarem Schaden nicht notwendig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -131,7 +127,7 @@ Schadenseintritts gehandelt:
 [Konkret: Keine Scans im Umschlaglager [Ort], obwohl eigenes
 Betriebshandbuch Scan-Pflicht vorsieht; kein Nachweis des
 letzten Kontaktpunkts mit der Sendung; keine Stellplatzkon-
-trolle (BGH I ZR 100/19)].
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die Haftungsbegrenzung Art. 23 Abs. 3 CMR entfällt.
 
@@ -251,11 +247,11 @@ Hilfsweise Klage auch gegen [C].
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „CMR ist nicht anwendbar; rein innerdeutscher Vertrag" | CMR gilt kraft Gesetzes wenn Abgangs- und Zielort in verschiedenen CMR-Staaten; vertragliche Ausschlussklausel ist nach Art. 41 CMR unwirksam |
-| „Höchstbetrag Art. 23 CMR schützt uns vollständig" | Nicht bei qualifiziertem Verschulden Art. 29 CMR; BGH-Linie seit BGH I ZR 88/04 bejaht Leichtfertigkeit bei systemischen Organisationsmängeln |
-| „Reklamationsfrist versäumt; Anspruch erloschen" | CMR Art. 30 enthält keine materiell-rechtliche Ausschlussfrist; fehlende Reklamation begründet nur Beweisvermutung zugunsten Frachtführer, kein Anspruchsuntergang |
-| „Unterfrachtführer haftet, nicht wir" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; kein Durchgriff auf Unterfrachtführer durch Auftraggeber erforderlich |
-| „Schaden entstand durch Ware selbst (Eigenmangel)" | Art. 17 Abs. 4 lit. d CMR: Frachtführer muss beweisen, dass typische Schadensgefahr des Gutes ursächlich war; bei gemischter Kausalität anteilige Haftung |
+| "CMR ist nicht anwendbar; rein innerdeutscher Vertrag" | CMR gilt kraft Gesetzes wenn Abgangs- und Zielort in verschiedenen CMR-Staaten; vertragliche Ausschlussklausel ist nach Art. 41 CMR unwirksam |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Reklamationsfrist versäumt; Anspruch erloschen" | CMR Art. 30 enthält keine materiell-rechtliche Ausschlussfrist; fehlende Reklamation begründet nur Beweisvermutung zugunsten Frachtführer, kein Anspruchsuntergang |
+| "Unterfrachtführer haftet, nicht wir" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; kein Durchgriff auf Unterfrachtführer durch Auftraggeber erforderlich |
+| "Schaden entstand durch Ware selbst (Eigenmangel)" | Art. 17 Abs. 4 lit. d CMR: Frachtführer muss beweisen, dass typische Schadensgefahr des Gutes ursächlich war; bei gemischter Kausalität anteilige Haftung |
 
 ---
 
@@ -294,4 +290,4 @@ Hilfsweise Klage auch gegen [C].
 
 ## Quellen
 
-CMR Übereinkommen 1956 Art. 1–41 vollständig. BGH I ZR 100/19 (Schnittstellenkontrolle Art. 29). BGH I ZR 88/04 (Leichtfertigkeit Art. 29). BGH I ZR 76/13 (Reklamationsfrist Art. 30). BGH I ZR 239/14 (Privilegierung Art. 17 Abs. 4). BGH I ZR 153/19 (Gerichtsstand Art. 31). Koller, Transportrecht, aktuelle Auflage. Thume, CMR-Kommentar. MüKo-HGB Jesser-Huß. Stand: 05/2026.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

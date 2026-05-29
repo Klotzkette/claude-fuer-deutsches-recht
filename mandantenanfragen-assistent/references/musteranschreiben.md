@@ -69,10 +69,10 @@ Rechtsberatung dar.
 
 **Hinweise für das Sekretariat:**
 
-- Anrede exakt aus der Eingangsmail übernommen: „Sehr geehrte Frau Dr. von Brandt-Kaufmann" (Adelsprädikat „von" vollständig, akademischer Titel „Dr." vorangestellt).
+- Anrede exakt aus der Eingangsmail übernommen: "Sehr geehrte Frau Dr. von Brandt-Kaufmann" (Adelsprädikat "von" vollständig, akademischer Titel "Dr." vorangestellt).
 - Dringlichkeit: NIEDRIG (keine Fristnennung, kein Eilbedarf).
-- Konfliktcheck: Gegenseite ist „Lichtenberg GmbH" — vor Terminvergabe prüfen.
-- CRM-Eintrag anlegen: Name, E-Mail, Telefon, Stichwort „Kündigungsschutz / Betriebsratsanhörung".
+- Konfliktcheck: Gegenseite ist "Lichtenberg GmbH" — vor Terminvergabe prüfen.
+- CRM-Eintrag anlegen: Name, E-Mail, Telefon, Stichwort "Kündigungsschutz / Betriebsratsanhörung".
 
 ---
 
@@ -138,14 +138,14 @@ Rechtsberatung dar.
 
 **Hinweise für das Sekretariat:**
 
-- Anrede: Nur Vorname aus der Mail bekannt. Nachname nicht aus E-Mail-Adresse ableitbar (nur Initiale „k."). Höfliche Anrede mit Vorname gewählt: „Sehr geehrter Thomas,". Wenn Nachname beim Telefontermin erfragt, für die Akte nachpflegen.
+- Anrede: Nur Vorname aus der Mail bekannt. Nachname nicht aus E-Mail-Adresse ableitbar (nur Initiale "k."). Höfliche Anrede mit Vorname gewählt: "Sehr geehrter Thomas,". Wenn Nachname beim Telefontermin erfragt, für die Akte nachpflegen.
 - Dringlichkeit: UNBEKANNT — keine Fristreferenz. Bearbeitung wie MITTEL.
 - Rechtsgebiet-Ersteinschätzung: Mietrecht (Garage als Nebenraum im Hauptmietvertrag).
 - Konfliktcheck: Gegenseite ist der Vermieter (Name unbekannt) — beim Erstgespräch erfragen.
 
 ---
 
-## Szenario 3: Anfrage mit Hinweis „kann nicht schreiben, nur sprechen" — Transkriptionsservice-Variante
+## Szenario 3: Anfrage mit Hinweis "kann nicht schreiben, nur sprechen" — Transkriptionsservice-Variante
 
 **Ausgangslage:** Eine ältere Person schreibt, dass sie Schwierigkeiten mit dem Schreiben hat und lieber anrufen würde. Der Sachverhalt deutet auf ein Erbrechtsthema hin. Keine akute Frist erkennbar.
 
@@ -200,7 +200,7 @@ So läuft der Anruf ab:
 
   1. Eine kurze automatische Ansage erklärt Ihnen den Datenschutz.
   2. Sie bestätigen, dass Sie einverstanden sind (Tastendruck oder
-     ein einfaches „Ja"). Ohne Ihre Bestätigung wird nichts
+     ein einfaches "Ja"). Ohne Ihre Bestätigung wird nichts
      aufgenommen.
   3. Sie schildern Ihr Anliegen in Ihren eigenen Worten — so viel
      oder so wenig, wie Sie möchten.
@@ -230,12 +230,12 @@ Rechtsberatung dar. Datenschutzhinweis auf Anfrage unter [KANZLEI-E-MAIL].
 
 **Hinweise für das Sekretariat:**
 
-- Anrede: „Sehr geehrte Frau Strecker-Mühl" — Doppelname vollständig übernommen (kein Bindestrich in der Schreibung der Frau: „Strecker-Mühl" so wie angegeben).
+- Anrede: "Sehr geehrte Frau Strecker-Mühl" — Doppelname vollständig übernommen (kein Bindestrich in der Schreibung der Frau: "Strecker-Mühl" so wie angegeben).
 - Besonderheit: Beileids-Satz hinzugefügt wegen Todesfall. Einfühlsame Tonlage.
 - Transkriptionsservice aktiviert weil: Anfragende Person hat explizit signalisiert, dass sie nicht gut schreiben kann.
 - Dringlichkeit: MITTEL — kein unmittelbarer Fristhintergrund erkennbar, aber Erbschaftsstreit kann Fristen beinhalten. Beim Erstgespräch klären: Ist Erbschein beantragt? Gibt es laufende Fristen (Erbschaftssteuer-Erklärung, Pflichtteilsansprüche)?
 - Rechtsgebiet-Ersteinschätzung: Erbrecht (Pflichtteil, Erbschein, Erbengemeinschaft).
-- Konfliktcheck: Gegenseite ist „Bruder des verstorbenen Mannes" — Namen beim Erstgespräch erfragen.
+- Konfliktcheck: Gegenseite ist "Bruder des verstorbenen Mannes" — Namen beim Erstgespräch erfragen.
 
 ---
 
@@ -259,4 +259,4 @@ Rechtsberatung dar. Datenschutzhinweis auf Anfrage unter [KANZLEI-E-MAIL].
 
 ### Umgang mit Rechtschreibfehlern in der Eingangsmail
 
-Die Anrede der anfragenden Person wird korrekt übernommen — Tippfehler in der Eingangsmail (z. B. „Sehr geerter" statt „Sehr geehrter") werden in der Antwort stillschweigend korrigiert. Keine Erwähnung.
+Die Anrede der anfragenden Person wird korrekt übernommen — Tippfehler in der Eingangsmail (z. B. "Sehr geerter" statt "Sehr geehrter") werden in der Antwort stillschweigend korrigiert. Keine Erwähnung.

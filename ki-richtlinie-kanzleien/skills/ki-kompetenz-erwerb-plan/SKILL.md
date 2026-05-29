@@ -1,6 +1,6 @@
 ---
 name: ki-kompetenz-erwerb-plan
-description: "KI-Kompetenz-Schulungsplan fuer Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Pruefraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz."
+description: "KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz."
 ---
 
 # KI-Kompetenz Erwerb Plan
@@ -9,7 +9,7 @@ Art. 4 KI-VO verpflichtet Betreiber von KI-Systemen, sicherzustellen, dass ihr P
 
 ## Rechtlicher Hintergrund
 
-Art. 4 KI-VO: Pflicht zur KI-Kompetenz — kontextspezifisch, keine formale Zertifizierungspflicht, aber Maßnahmen „nach besten Kräften" erforderlich. Art. 3 Nr. 56 KI-VO: Definition KI-Kompetenz — Fähigkeiten, Kenntnisse und Verständnis für sachkundigen KI-Einsatz sowie Bewusstsein für Chancen und Risiken. Erwägungsgrund 20 KI-VO: KI-Kompetenz soll Betreiber befähigen, fundierte Entscheidungen über KI-Systeme zu treffen. Art. 26 Abs. 5 KI-VO: Bei Hochrisiko-Systemen muss der Betreiber sicherstellen, dass das zuständige Personal über die notwendige Kompetenz, Schulung und Autorität verfügt. § 43 BRAO: Gewissenhaftigkeit schließt kompetenten Umgang mit genutzten Hilfsmitteln ein. Haftungsrisiko: Mangelnde KI-Kompetenz kann bei Kausalität für einen Schaden Haftungsfolgen auslösen.
+Art. 4 KI-VO: Pflicht zur KI-Kompetenz — kontextspezifisch, keine formale Zertifizierungspflicht, aber Maßnahmen "nach besten Kräften" erforderlich. Art. 3 Nr. 56 KI-VO: Definition KI-Kompetenz — Fähigkeiten, Kenntnisse und Verständnis für sachkundigen KI-Einsatz sowie Bewusstsein für Chancen und Risiken. Erwägungsgrund 20 KI-VO: KI-Kompetenz soll Betreiber befähigen, fundierte Entscheidungen über KI-Systeme zu treffen. Art. 26 Abs. 5 KI-VO: Bei Hochrisiko-Systemen muss der Betreiber sicherstellen, dass das zuständige Personal über die notwendige Kompetenz, Schulung und Autorität verfügt. § 43 BRAO: Gewissenhaftigkeit schließt kompetenten Umgang mit genutzten Hilfsmitteln ein. Haftungsrisiko: Mangelnde KI-Kompetenz kann bei Kausalität für einen Schaden Haftungsfolgen auslösen.
 
 ## Vorgehen
 
@@ -44,10 +44,7 @@ Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat
 Neue Leitlinien des Europäischen KI-Büros zur Auslegung des Art. 4 KI-VO sowie EU-FAQs zur KI-Kompetenz (FAQ der EU-Kommission zur KI-Kompetenz) und Hinweise der Bundesnetzagentur sind in die Schulungsunterlagen aufzunehmen. Die Schulung sollte zudem aktuelle Urteile zur KI-Haftung einbeziehen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Weiterbildungspflichten als Teil der arbeitgeberseitigen Fuersorgepflicht bei Einfuehrung neuer Technologien.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Sorgfaltspflicht § 43 BRAO erfordert Kompetenz im eingesetzten Instrument — gilt auch fuer KI-Werkzeuge.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO erfordert ausgebildetes Personal bei der DSGVO-Umsetzung.
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Fehlendes KI-Grundwissen des Anwalts bei Verwendung unzuverlaessiger KI-Ausgaben als Sorgfaltspflichtverletzung gewertet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 KI-VO — KI-Kompetenzverpflichtung fuer Anbieter und Betreiber

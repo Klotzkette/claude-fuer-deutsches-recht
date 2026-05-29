@@ -1,6 +1,7 @@
 ---
 name: genehmigungspflicht-pruefung
-description: "Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie „Genehmigung Betreuungsgericht\", „§ 1848 BGB\", „§ 1850 BGB\", „§ 1851 BGB\", „freiheitsentziehende Maßnahme\" oder „Heimvertrag\" auftreten."
+description: 'Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht", "§ 1848 BGB", "§ 1850 BGB", "§ 1851 BGB", "freiheitsentziehende Maßnahme" oder "Heimvertrag" auftreten.'
+
 ---
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)
@@ -17,7 +18,7 @@ erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
 ## Eingaben
 
 - **Aufgabenkreise** des Betreuers (Bestellungsurkunde)
-- **Konkret geplante Maßnahme** (z. B. „Verkauf der Eigentumswohnung der
+- **Konkret geplante Maßnahme** (z. B. "Verkauf der Eigentumswohnung der
   betreuten Person in Berlin-Charlottenburg")
 - **Beteiligte Personen** (Vertragspartner, Heimträger, Arzt)
 - **Wirtschaftliche Eckdaten** (Kaufpreis, Heimkosten, Darlehenssumme)
@@ -64,37 +65,32 @@ nach § 1856 BGB widerrufen.
 
 ### Kanonische Rechtsprechung
 
-**BGH, Beschl. v. 25.10.2017 – XII ZB 9/17, FamRZ 2018, 219 Rn. 8 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Bei freiheitsentziehender Unterbringung (§ 1906 BGB a.F. / § 1831 BGB n.F.)
 sind enge Voraussetzungen zu prüfen: erhebliche Selbstgefährdung,
 medizinische Indikation, Verhältnismäßigkeit, kein milderes Mittel.
 Sachverständigengutachten regelmäßig erforderlich.
 
-**BGH, Beschl. v. 27.06.2012 – XII ZB 24/12, FamRZ 2012, 1372 Rn. 27 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Bei Heimaufenthalt: Auch das Anbringen von Bettgittern oder das Anlegen
 eines Bauchgurts in einer offenen Pflegeeinrichtung ist eine
 freiheitsentziehende Maßnahme i.S.v. § 1832 BGB (vormals § 1906 Abs. 4
 BGB a.F.) und genehmigungspflichtig, wenn sie regelmäßig oder über einen
 längeren Zeitraum erfolgt.
 
-**BGH, Beschl. v. 19.07.2017 – XII ZB 141/16, FamRZ 2017, 1734 Rn. 17:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Beim Grundstücksverkauf (§ 1849 BGB) ist der Verkehrswert durch
 qualifiziertes Gutachten oder Maklerwertindikation zu belegen; ein
 auffallend niedriger Kaufpreis löst gerichtliche Prüfungspflicht aus.
 
-**BGH, Beschl. v. 17.02.2010 – XII ZB 68/09, FamRZ 2010, 720 Rn. 18 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Bei Erbausschlagung (§ 1850 BGB) hat das Gericht zu prüfen, ob die
 Ausschlagung im wirtschaftlichen Interesse der betreuten Person liegt
 (Überschuldung der Erbschaft, dingliche Lasten).
 
-### Kommentarliteratur
+### Quellenregel
 
-- Götz, in: Grüneberg, BGB, 84. Aufl. 2025, §§ 1848–1858 Rn. 1 ff.,
-  §§ 1831, 1832 Rn. 1 ff.
-- Schwab, in: MünchKomm BGB, 9. Aufl. 2024, § 1848 Rn. 5–18, § 1851 Rn. 1 ff.
-- Spickhoff, FamRZ 2023, 245 (250 f.) (Personenbezogene Maßnahmen nach
-  der Reform).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Aufgabenkreis prüfen**
@@ -175,14 +171,14 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 >
 > *3. Subsumtion:*
 > - Maßnahme: Bettgitter + sedierende Medikation
-> - Bettgitter: Freiheitsentziehung i.S.v. § 1832 BGB (BGH XII ZB 24/12
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 >   Rn. 27 ff. — auch in offener Einrichtung)
 > - Sedativum: Wenn primär zur Bewegungseinschränkung verabreicht
 >   (nicht therapeutisch), ebenfalls § 1832 BGB
 > - Regelmäßigkeit: jede Nacht — Tatbestand erfüllt
 >
 > *4. Wille der betreuten Person:* Frau K. wurde am 18.02.2026 befragt
-> (Aktenvermerk). Sie äußerte: „Ich will nicht eingesperrt sein, aber
+> (Aktenvermerk). Sie äußerte: "Ich will nicht eingesperrt sein, aber
 > hinfallen will ich auch nicht." Bei eingeschränkter Einsichtsfähigkeit
 > ist mutmaßlicher Wille zu erschließen — Schutz vor Sturzschäden hat
 > Priorität.
@@ -202,9 +198,9 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 Geschäft erst nach Rechtskraft des Genehmigungsbeschlusses abschließen.
 Vorzeitige Vollziehung führt zur schwebenden Unwirksamkeit (§ 1855 BGB).
 
-**2. „Bettgitter sind keine Freiheitsentziehung"**
+**2. "Bettgitter sind keine Freiheitsentziehung"**
 Verbreiteter Irrtum: Auch in offenen Einrichtungen sind Bettgitter und
-ähnliche Maßnahmen genehmigungspflichtig, sofern regelmäßig (BGH XII ZB
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 24/12 Rn. 27 ff.). Einmalige kurzzeitige Maßnahme bei akuter Eigen-
 gefährdung kann ohne Genehmigung erlaubt sein (Notstand).
 
@@ -227,7 +223,7 @@ greift bei vorzeitiger Antragstellung.
 
 **6. Verkehrswert nicht belegt**
 Beim Grundstücksverkauf ist Verkehrswertgutachten oder Maklerwert-
-indikation einzureichen (BGH XII ZB 141/16 Rn. 17). Pauschale
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Behauptungen genügen nicht.
 
 **7. Vorsorgevollmacht verdrängt Betreuung**
@@ -240,12 +236,10 @@ ist subsidiär.
 Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 
 - §§ 1848 ff. BGB, §§ 1831, 1832 BGB (einschlägige Rechtsnormen)
-- BGH, Beschl. v. 25.10.2017 – XII ZB 9/17, FamRZ 2018, 219 Rn. 8 ff.
-- BGH, Beschl. v. 27.06.2012 – XII ZB 24/12, FamRZ 2012, 1372 Rn. 27 ff.
-- BGH, Beschl. v. 19.07.2017 – XII ZB 141/16, FamRZ 2017, 1734 Rn. 17
-- Götz, in: Grüneberg, BGB, 84. Aufl. 2025, §§ 1848 ff. Rn. 1 ff.
-- Schwab, in: MünchKomm BGB, 9. Aufl. 2024, § 1848 Rn. 5 ff.
-- Spickhoff, FamRZ 2023, 245 (250 f.)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+- Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; nur Nutzerquelle oder lizenzierte Live-Verifikation verwenden.
 
 ---
 *Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.

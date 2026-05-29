@@ -1,6 +1,6 @@
 ---
 name: stb-drv-sozialversicherungspruefung
-description: "Steuerberater-Begleitung der DRV-Sozialversicherungspruefung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Pruefankuendigung oder Pruefung laeuft bereits. Pruefungsschwerpunkte Statusfeststellung GF Scheinselbststaendigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenpruefung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern GF-Haftung Steuer."
+description: "Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Prüfankündigung oder Prüfung laeuft bereits. Prüfungsschwerpunkte Statusfeststellung GF Scheinselbstständigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenprüfung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgeführte-steuern GF-Haftung Steuer."
 ---
 
 # DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung
@@ -9,7 +9,7 @@ description: "Steuerberater-Begleitung der DRV-Sozialversicherungspruefung nach 
 
 Steuerberater-Begleitung der **Sozialversicherungsprüfung** durch die Deutsche Rentenversicherung (DRV) — turnusmäßig alle vier Jahre nach § 28p SGB IV. Im Unterschied zur Lohnsteuer-Außenprüfung (Finanzamt) prüft die DRV die Sozialversicherungsbeiträge (Renten-, Kranken-, Pflege-, Arbeitslosen-, Unfallversicherung). Häufige Risiken: Statusfeststellung (Scheinselbständigkeit), Phantomlohn (Mindestlohn-Differenz), § 266a StGB-Strafbarkeit bei vorenthaltenem AN-Anteil.
 
-> ⚠️ **§ 266a StGB-Risiko ist anders als § 69 AO**: SV-Beiträge sind unabhängig von Liquidität abzuführen (BGH 5 StR 263/12). Steuerberater muss Mandanten frühzeitig auf Vorenthaltungsrisiko hinweisen — vgl. `stb-warnschreiben-krisensignale`.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -39,13 +39,7 @@ Steuerberater-Begleitung der **Sozialversicherungsprüfung** durch die Deutsche 
 
 ### Leitentscheidungen
 
-- BSG, Urt. v. 4.6.2019 — **B 12 R 11/18 R** (Statusfeststellung GmbH-GF mit < 50 %: regelmäßig abhängig beschäftigt; nur Mehrheits-Sperrminorität ändert).
-- BSG, Urt. v. 31.3.2017 — **B 12 R 7/15 R** (Honorarärzte typischerweise abhängig beschäftigt).
-- BSG, Urt. v. 4.6.2019 — **B 12 R 12/18 R** (DRV-Statusfeststellung Voraussetzungen).
-- BGH, Urt. v. 21.2.2013 — **5 StR 263/12** (§ 266a StGB: SV-Beiträge unabhängig von Liquidität abzuführen).
-- BSG, Urt. v. 24.3.2016 — **B 12 KR 20/14 R** (Scheinselbständigkeit Physiotherapeutin ohne eigene Zulassung; Eingliederung in fremde Praxis überwiegt).
-- BSG, Urt. v. 23.2.2021 — **B 12 R 21/18 R** (Phantomlohn: Tankgutscheine als Surrogat für Arbeitslohn sind beitragspflichtiges Arbeitsentgelt; Zusatzätzlichkeitserfordernis § 14 SGB IV).
-- BAG, Urt. v. 25.5.2016 — **5 AZR 135/16** (Mindestlohn auch bei Bereitschaftszeit).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungs-Schwerpunkte 2026
 
@@ -63,7 +57,7 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 
 ### Schwerpunkt 2 — GmbH-Geschäftsführer (SV-Status)
 
-- **Fremd-GF** (< 50 % Anteile, keine Sperrminorität): regelmäßig **abhängig beschäftigt** (BSG B 12 R 11/18 R) → SV-pflichtig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Gesellschafter-GF** mit Mehrheit oder Sperrminorität: regelmäßig **selbständig** → SV-frei.
 - Bei Unklarheit: **Statusfeststellungsverfahren** § 7a SGB IV bei DRV-Clearingstelle (verbindliche Klärung).
 
@@ -128,7 +122,7 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 ## StB-Eigene Haftungsvermeidung
 
 - StB ist **kein anwaltlicher Berater** zu § 266a StGB — bei Vorenthaltungs-Verdacht **anwaltliche Beratung empfehlen**.
-- **Hinweis-/Warnpflicht** auf SV-Beitragsrückstände in Liquiditätskrise — BGH IX ZR 285/14 gilt analog: nicht abgeführte SV-Beiträge sind Krisensignal nach `stb-warnschreiben-krisensignale`.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Dokumentation** aller Hinweise an Mandantenleitung.
 
 ## Querverweise
@@ -142,12 +136,10 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 28p SGB IV-Prüfturnus 4 Jahre. Mindestlohn 13.90 EUR ab 1.1.2026. Mini-Job-Grenze dynamisch an Mindestlohn gekoppelt. BSG-Statusfeststellungs-Rechtsprechung (B 12 R 11/18 R) ungebrochen. Bei Reform MiLoG / SGB IV aktualisieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BSG B 12 KR 20/14 R (WRONG_TOPIC: echtes Thema Scheinselbständigkeit Physiotherapeutin, nicht Phantomlohn bei Mindestlohn-Unterschreitung)
   → Leitsatz korrigiert zu echtem Inhalt (Scheinselbständigkeit Physiotherapeutin)
-  → Ersatz für Phantomlohn-Thema: BSG B 12 R 21/18 R, 23.02.2021 ergänzt
-  → Quelle BSG B 12 KR 20/14 R: https://dejure.org/2016,5261
-  → Quelle BSG B 12 R 21/18 R: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2021/2021_02_23_B_12_R_21_18_R.html
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

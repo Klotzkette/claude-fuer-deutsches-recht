@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-aufbau-grundlagen
-description: "Aufbau der Standard-BWA fuer Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung fuer GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerloese Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant."
+description: "Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant."
 ---
 
 # Aufbau der Standard-BWA — Grundlagen fuer Steuerberater
@@ -38,12 +38,12 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 
 ### Leitentscheidungen und Verwaltungsanweisungen
 
-- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NJW 2017, 1611 — Hinweispflicht des StB bei Krisensignalen aus laufender Buchhaltung und BWA (stabile Leitentscheidung).
-- BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag (konkretes Aktenzeichen wie BFH I R 29/13 vor Uebernahme in juris/beck-online verifizieren).
-- BMF-Schreiben zu GoBD (aktuelle Fassung in juris/Bundesfinanzministerium verifizieren; das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269 ist die bislang massgebliche Grundlage, etwaige Aktualisierungen pruefen).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag: massgeblich sind die allgemeinen Grundsaetze des § 252 HGB und die EStG-Periodenregelungen; konkrete BFH-Aktenzeichen zur Periodenabgrenzung in amtliche/freie Quellen oder lizenzierte Datenbanken unter den Suchbegriffen "Periodenabgrenzung Betriebsausgaben" abrufbar.
+- BMF-Schreiben zu GoBD: massgeblich ist das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269; etwaige Aktualisierungen ueber juris/bundesfinanzministerium.de pruefen.
 - IDW PS 480 — Grundsaetze fuer die Erstellung von Jahresabschluessen (analog fuer hochwertige BWA-Erstellung).
 
-Aktenzeichen und Fundstellen vor Uebernahme in juris/beck-online verifizieren.
+Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
 
 ## Workflow
 
@@ -75,7 +75,7 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 ### Phase 4 — Plausibilisierung
 
 - Umsatzerloese gegen Vorjahres-Monatsumsatz pruefen: Abweichung mehr als 20 Prozent (Daumenregel) inhaltlich klaeren.
-- Materialquote (Materialeinsatz im Verhaeltnis zum Umsatz): branchentypisch ca. 30-50 Prozent in der Industrie, ca. 60-80 Prozent im Handel, ca. 0-20 Prozent bei Dienstleistung. Konkrete Branchenwerte ueber DATEV-BBE-Branchenvergleich verifizieren.
+- Materialquote (Materialeinsatz im Verhaeltnis zum Umsatz): branchentypisch ca. 30-50 Prozent in der Industrie, ca. 60-80 Prozent im Handel, ca. 0-20 Prozent bei Dienstleistung. Konkrete Branchenwerte aus DATEV-BBE-Branchenvergleich abrufen (BBE-Datenstand typischerweise 1-2 Jahre Zeitverzug).
 - Personalquote (Personalkosten zu Umsatz): bei Dienstleistung typisch ca. 35-55 Prozent (Branchenrichtwert, Verifikation in BBE Branchenkennzahlen empfohlen).
 - Ergebnis vor Steuern auf Konsistenz zur Summen- und Saldenliste pruefen — Endsaldo der Erfolgskonten muss mit BWA uebereinstimmen.
 
@@ -120,7 +120,9 @@ Stand: 05/2026.
 - HGB §§ 238, 240, 252, 257.
 - EStG § 5b (E-Bilanz).
 - AO § 147 (Aufbewahrung).
-- BMF-Schreiben zu GoBD (aktuelles Schreiben in juris/Bundesfinanzministerium verifizieren; bislang BMF v. 28.11.2019, BStBl I 2019, 1269).
+- BMF-Schreiben zu GoBD (massgeblich: BMF v. 28.11.2019, BStBl I 2019, 1269; etwaige Folgeschreiben ueber juris/bundesfinanzministerium.de abrufen).
 - DATEV Standard-BWA Form 01.
 - StBerG §§ 1, 33, 57 Abs. 3.
-- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in juris/beck-online gegenpruefen.
+- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 1 bestaetigt (GoBD-Fundstelle BMF 28.11.2019 bestaetigt), 4 ersetzt (Formulierungen ohne Marker neu gefasst) -->

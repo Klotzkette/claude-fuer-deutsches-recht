@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-krypto-verwertung
-description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung und Verwertungsstrategien. Anwendungsfall Insolvenzschuldner hat Krypto-Vermoegen und Insolvenzverwalter oder Glaeubiger muss Zugriff klaeren. Normen § 35 InsO Massezugehoerigkeit § 47 InsO Aussonderungsrecht § 97 InsO Auskunftspflicht § 98 InsO Erzwingungshaft BMF-Schreiben 22.11.2024 BFH IX R 3/22. Pruefraster Custodial vs. Non-Custodial Exchange Treuhand vs. Darlehen forensische Wallet-Rekonstruktion Bewertung Eroeffnungsstichtag Verwertungsstrategie. Output Krypto-Insolvenz-Pruefprotokoll mit Massezugehoerigkeitsanalyse Verwertungsplan und Behoedenkoordinierung. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung und fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren."
+description: "Workflow-Skill zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -33,17 +33,13 @@ description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung un
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| BFH | IX R 3/22 | 14.02.2023 | Krypto-Assets (Bitcoin, Ethereum) sind Wirtschaftsgüter i.S.d. § 23 EStG; Veräußerungsgewinn steuerpflichtig; Massezugehörigkeit indirekt bestätigt |
-| AG Stuttgart | 5 IN 248/22 | 2022 | Private Keys gehören zur Insolvenzmasse; Schuldner muss Keys nach § 97 InsO offenbaren; Erzwingungshaft angedroht |
-| LG Köln | 22 O 25/23 | 2023 | Aussonderungsrecht § 47 InsO bei Custodial-Exchange: abhängig von AGB-Auslegung; Celsius-Linie (Darlehen) schließt Aussonderung aus |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | US SDNY (FTX) | 22-11068 | 2022/2023 | FTX-Linie: Kundenvermögen bei Custodial-Exchange als Sondervermögen nur wenn Treuhandverhältnis eindeutig belegt |
-| AG München | 1507 IN 500/22 | 2022 | NFTs in der Insolvenzmasse: Verwertung als sonstige Vermögensgegenstände nach § 159 InsO; Auktion oder OTC |
-| FG Köln | 14 K 1640/21 | 2022 | Staking-Erträge: laufende Einkünfte § 22 Nr. 3 EStG; nicht § 23 EStG; Masseverbindlichkeit wenn nach Eröffnung anfallend |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -152,7 +148,6 @@ IV. Steuerliche Folgen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Frage | Beweislast |
@@ -184,7 +179,7 @@ IV. Steuerliche Folgen:
 | Private Key verloren/vergessen | § 97 InsO | Forensik-Dienstleister beauftragen; bei Verdacht auf vorsätzliche Verschleierung → § 98 InsO |
 | Krypto-Assets im Ausland (Offshore-Exchange) | § 35 InsO, MLAT | Internationale Rechtshilfe (MLAT); INTERPOL-Finanzermittler einschalten; Anfechtungsklage auch gegen ausländische Exchange |
 | Coins bereits verwertet vor Eröffnung | §§ 130 ff. InsO | Anfechtung des Transfers; Blockchain-Forensik zeigt Transaktion |
-| Staking-Erträge nach Eröffnung | § 55 InsO, FG Köln 14 K 1640/21 | Masseverbindlichkeit für Steuern; Staking fortführen oder beenden? Gläubigerausschuss entscheidet |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | NFT-Wertbestimmung unklar | § 159 InsO | Spezialisiertes Auktionshaus (Christie's, OpenSea Business); ggf. Sachverständiger |
 
 ## Streitwert und Kosten
@@ -221,15 +216,12 @@ Erzwingungshaft-Verfahren: Gerichtsgebühren gering (ca. 150–300 EUR); Hauptko
 ## Quellen
 
 - InsO §§ 35, 47, 80, 97, 98, 148, 159
-- BFH, Urt. v. 14.02.2023, IX R 3/22, BStBl. II 2023, 571
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben v. 22.11.2024 zur ertragsteuerlichen Behandlung von Kryptowährungen
-- AG Stuttgart, Beschl. v. 2022, Az. 5 IN 248/22
-- LG Köln, Urt. v. 2023, Az. 22 O 25/23
-- FG Köln, Urt. v. 2022, Az. 14 K 1640/21 (Staking-Einkünfte)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - US Bankruptcy Court SDNY, In re FTX Trading Ltd., 22-11068 (2022/2023)
-- Uhlenbruck/Sinz, InsO, 15. Aufl., § 35 Rn. 30 ff. (Digitale Assets)
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Chainalysis Blockchain Analytics Platform (forensische Wallet-Analyse)
-
 
 ## Triage — Krypto-Insolvenzeinsatz
 
@@ -241,8 +233,6 @@ Bevor losgelegt wird, klaere:
 4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit pruefen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
 5. **Verjährung § 146 InsO?** Anfechtungsfristen fuer Krypto-Transfers laufen ab → sofort Inventur.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Peters § 35 InsO Rn. 50 ff. — Massezugehoerigkeit digitaler Vermoegenswerte.
-- MüKo InsO/Henckel §§ 47-48 InsO Rn. 1 ff. — Aussonderungsrechte und Treuhand bei Custodial-Exchanges.
-- Uhlenbruck/Foerster §§ 97-98 InsO Rn. 1 ff. — Auskunfts- und Mitwirkungspflicht bei digitalen Assets.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

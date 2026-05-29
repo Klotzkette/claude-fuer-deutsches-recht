@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwenden
-description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Pruefraster Gutachtenstil Anspruchsgrundlagen Verjaehrung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Pruefungsaufbau. Abgrenzung zu subsumtions-pruefer (mechanische Pruefung) und hausarbeitenmacher (akademisch)."
+description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch)."
 ---
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
@@ -11,7 +11,7 @@ Dieser Skill verkörpert die Methodenlehre und Falllösung im deutschen bürgerl
 
 - Du bewertest eine bürgerlich-rechtliche Frage und musst eine Anspruchsgrundlage prüfen.
 - Du legst eine Norm aus und musst zwischen Wortlaut, Systematik, Historie und Telos abwägen.
-- Du argumentierst mit einer Generalklausel (§ 138 BGB, § 242 BGB, § 826 BGB, „wichtiger Grund", „Treu und Glauben") und musst ihre Auffangstellung begründen.
+- Du argumentierst mit einer Generalklausel (§ 138 BGB, § 242 BGB, § 826 BGB, "wichtiger Grund", "Treu und Glauben") und musst ihre Auffangstellung begründen.
 - Du strukturierst ein Memo, einen internen Vermerk oder einen Schriftsatz.
 
 ## Anspruchsgrundlagen — Prüfungsreihenfolge
@@ -26,7 +26,7 @@ Standardreihenfolge im Gutachten und in der anwaltlichen Vorprüfung:
 6. **Gefährdungshaftung — verschuldensunabhängig** (§ 7 StVG; § 1 ProdHaftG; § 1 HaftpflG; § 33 LuftVG; § 25 AtG; § 89 Abs. 2 WHG; § 84 AMG; § 32 GenTG; § 1 UmweltHG; § 833 S. 1 BGB)
 7. **Bereicherungsansprüche** (§§ 812 ff. BGB)
 
-Die Sammelbegriffe „vertragsähnlich" und „quasivertraglich" werden vermieden — sie sind in der Lehre uneinheitlich besetzt. Sauberer ist die direkte Benennung: c.i.c. ist vorvertragliches Schuldverhältnis (§ 311 Abs. 2 BGB), GoA ist gesetzliches Schuldverhältnis. Gefährdungshaftung ist **eigenständige** verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB.
+Die Sammelbegriffe "vertragsähnlich" und "quasivertraglich" werden vermieden — sie sind in der Lehre uneinheitlich besetzt. Sauberer ist die direkte Benennung: c.i.c. ist vorvertragliches Schuldverhältnis (§ 311 Abs. 2 BGB), GoA ist gesetzliches Schuldverhältnis. Gefährdungshaftung ist **eigenständige** verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB.
 
 ## Auslegungskanones — pragmatisch geführt
 
@@ -42,22 +42,22 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 5. **Verfassungskonforme Auslegung** — Von zwei vertretbaren Auslegungen ist die mit dem Grundgesetz vereinbare zu wählen. Wirksames Argument in der Praxis.
 6. **Unionsrechtskonforme Auslegung** — Bei Normen unionsrechtlichen Ursprungs (DSGVO, KI-VO, Verbraucher-RL, Kartellrecht u. a.) autonom auszulegen; siehe Sektion unten.
 
-**Anwaltliche Faustregel:** Im Schriftsatz alle einschlägigen Kanones nennen, nicht eine starre Reihenfolge predigen. Wenn drei Kanones in eine Richtung weisen und einer in die andere, ist die Begründungslast für die abweichende Auslegung höher. Wenn alle vier Kanones zum gleichen Ergebnis führen, ist die Auslegung „eindeutig" — dann steht der Schriftsatz.
+**Anwaltliche Faustregel:** Im Schriftsatz alle einschlägigen Kanones nennen, nicht eine starre Reihenfolge predigen. Wenn drei Kanones in eine Richtung weisen und einer in die andere, ist die Begründungslast für die abweichende Auslegung höher. Wenn alle vier Kanones zum gleichen Ergebnis führen, ist die Auslegung "eindeutig" — dann steht der Schriftsatz.
 
 ## Verfassungskonforme und unionsrechtskonforme Auslegung
 
-**Verfassungskonforme Auslegung:** Bei mehreren möglichen Auslegungen ist die zu wählen, die den verfassungsrechtlichen Vorgaben (Grundrechte, Verhältnismäßigkeit, Bestimmtheitsgebot) entspricht. Grenze: Wortlaut des Gesetzes; eine Auslegung *contra legem* ist nicht zulässig (BVerfGE 138, 296 — Kopftuch II — und ständige Rechtsprechung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Unionsrechtskonforme Auslegung des nationalen Rechts:**
-- Pflicht aus Art. 4 Abs. 3 EUV; EuGH, Marleasing, C-106/89; EuGH, Pfeiffer, C-397/01 bis C-403/01.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Grenze am Wortlaut des nationalen Rechts; keine Auslegung *contra legem*.
 - Bei Richtlinien zusätzlich: keine horizontale Direktwirkung zwischen Privaten (EuGH, Marshall, 152/84). Wer sich gegen einen Privaten auf eine Richtlinie beruft, muss über die richtlinienkonforme Auslegung des nationalen Umsetzungsrechts argumentieren.
 
 **Auslegung des Unionsrechts (autonome Auslegung):**
-- Begriffe des Unionsrechts werden unabhängig vom nationalen Begriffsverständnis ausgelegt. „Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
+- Begriffe des Unionsrechts werden unabhängig vom nationalen Begriffsverständnis ausgelegt. "Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
 - Erwägungsgründe sind **Auslegungshilfe**, nicht **Auslegungssubstitut**. Sie dürfen nicht **entgegen** dem klaren Wortlaut des verfügenden Teils herangezogen werden.
 - Bei zweifelhaftem Wortlaut Sprachfassungen vergleichen; alle Amtssprachen sind verbindlich.
-- Bei letztinstanzlichen Gerichten **Vorabentscheidungsverfahren** Art. 267 AEUV, soweit nicht *acte clair* oder *acte éclairé* (CILFIT-Doktrin, EuGH 283/81).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Lückenfüllung
 
@@ -72,17 +72,17 @@ Rechtsfortbildung ist in der bürgerlich-rechtlichen Praxis ein **reales Werkzeu
 
 Vor jedem Argument aus § 138 BGB, § 242 BGB oder § 826 BGB ist zu prüfen, ob speziellere Normen einschlägig sind. Wer eine Generalklausel als ersten Belegtyp anführt, muss erklären, warum die spezielle Norm nicht greift.
 
-Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzipien und Unionsrecht zu messen — nicht an gefühlten „Wertvorstellungen der Gemeinschaft".
+Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzipien und Unionsrecht zu messen — nicht an gefühlten "Wertvorstellungen der Gemeinschaft".
 
 ## Verbotsliste — methodische Selbstdisziplin
 
-- **Keine scheinbaren Auslegungsregeln** als tragende Begründung: „Ausnahmen sind eng auszulegen", „im Zweifel für den Schuldner" (außerhalb gesetzlich geregelter Fälle), „AGB-Klauseln sind kundenfreundlich auszulegen" (pauschal). Solche Topoi dürfen genannt werden, aber **nie als tragende Begründung**, sondern nur als Hinweis auf eine darunterliegende Wertentscheidung, die separat über Wortlaut, System, Historie und Telos zu rechtfertigen ist.
-- **Kein „h. M." als Selbstbeleg** — herrschende Meinung muss mit konkreten Belegen unterlegt werden.
+- **Keine scheinbaren Auslegungsregeln** als tragende Begründung: "Ausnahmen sind eng auszulegen", "im Zweifel für den Schuldner" (außerhalb gesetzlich geregelter Fälle), "AGB-Klauseln sind kundenfreundlich auszulegen" (pauschal). Solche Topoi dürfen genannt werden, aber **nie als tragende Begründung**, sondern nur als Hinweis auf eine darunterliegende Wertentscheidung, die separat über Wortlaut, System, Historie und Telos zu rechtfertigen ist.
+- **Kein "h. M." als Selbstbeleg** — herrschende Meinung muss mit konkreten Belegen unterlegt werden.
 - **Kein Stützen auf Generalklauseln**, wenn speziellere Normen greifen.
 
 ## Stilregel
 
-- **Gutachtenstil** standardmäßig („Es könnte … Dazu müsste …") — in Memos, internen Vermerken, Mandantenkommunikation mit Begründungsanspruch.
+- **Gutachtenstil** standardmäßig ("Es könnte … Dazu müsste …") — in Memos, internen Vermerken, Mandantenkommunikation mit Begründungsanspruch.
 - **Urteilsstil** nur, wenn ausdrücklich verlangt — in Schriftsätzen, Beschlüssen, Mandantenkurzantworten, wenn das Ergebnis vorab steht.
 
 ## Standardstruktur deutsches Memo
@@ -118,7 +118,7 @@ Eine anwaltliche Falllösung erfasst nicht nur die materielle Anspruchsprüfung,
 - Ist die anzuwendende Norm europäischen Ursprungs oder dient sie der Umsetzung von Unionsrecht? Dann **autonom** auslegen.
 - Habe ich Erwägungsgründe nur als **Auslegungshilfe** verwendet — nicht zur Korrektur eines klar formulierten verfügenden Teils?
 - Habe ich Verjährung, prozessuale Fristen und Beweislast geprüft?
-- Belege ich jede Aussage mit einer konkreten Fundstelle (Norm, Rechtsprechung, Kommentarstelle) — nicht mit „h. M."?
+- Belege ich jede Aussage mit einer konkreten Fundstelle (Norm, Rechtsprechung, Kommentarstelle) — nicht mit "h. M."?
 
 ## Vertiefung
 

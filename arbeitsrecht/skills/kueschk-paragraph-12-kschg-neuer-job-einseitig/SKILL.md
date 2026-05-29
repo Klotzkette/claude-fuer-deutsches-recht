@@ -1,6 +1,6 @@
 ---
 name: kueschk-paragraph-12-kschg-neuer-job-einseitig
-description: "§ 12 KSchG einseitige Loesung nach Aufnahme eines neuen Arbeitsverhaeltnisses: Erklaerungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung."
+description: "§ 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung."
 ---
 
 # § 12 KSchG: Einseitige Lösung nach neuem Job
@@ -42,7 +42,7 @@ Das Arbeitsverhältnis zum alten Arbeitgeber gilt als **aufgelöst mit Ablauf de
 Die Erklärung nach § 12 KSchG muss dem alten Arbeitgeber innerhalb der Wochenfrist zugehen. Empfehlung:
 - Schriftlich (§ 130 BGB)
 - Per Einschreiben oder persönliche Übergabe mit Empfangsbestätigung
-- Formulierung: „Ich erkläre hiermit gemäß § 12 KSchG, dass ich das Arbeitsverhältnis mit Ihnen nicht fortsetzen werde, da ich ein neues Arbeitsverhältnis aufgenommen habe."
+- Formulierung: "Ich erkläre hiermit gemäß § 12 KSchG, dass ich das Arbeitsverhältnis mit Ihnen nicht fortsetzen werde, da ich ein neues Arbeitsverhältnis aufgenommen habe."
 
 ## Triage zu Beginn — kläre vor Anwendung von § 12 KSchG
 
@@ -62,16 +62,11 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — § 12 KSchG gibt dem Arbeitnehmer ein einseitiges Gestaltungsrecht; die Erklärung braucht keinen bestimmten Inhalt, muss aber klar zum Ausdruck bringen, dass das alte Arbeitsverhältnis nicht fortgesetzt wird.
-- BAG, Urt. v. 09.02.2011 – 7 AZR 279/09, NZA 2011, 847 — Die Wochenfrist des § 12 Satz 2 KSchG ist eine gesetzliche Ausschlussfrist; ihr Ablauf führt zur Verwirkung des Gestaltungsrechts ohne Möglichkeit der Wiedereinsetzung.
-- BAG, Urt. v. 25.10.2007 – 6 AZR 693/06, NZA 2008, 226 — Die Rechtsfolge des § 12 KSchG tritt nur ein, wenn das neue Arbeitsverhältnis tatsächlich aufgenommen wurde; eine Annahme eines Angebots ohne Arbeitsaufnahme genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 12 KSchG Rn. 1-10 — (Gestaltungsrecht, Frist, Rechtsfolge)
-- KR/Spilger, 13. Aufl. 2022, § 12 KSchG Rn. 1 ff. — (Abgrenzung zu § 9, Erklärungsinhalt)
-- APS/Biebl, 6. Aufl. 2022, § 12 KSchG Rn. 5 ff. — (Annahmeverzug, Anrechnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Abgrenzung zu § 9 KSchG
 
 | | § 9 KSchG | § 12 KSchG |
@@ -85,7 +80,6 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 6 AZR 286/06: Eintrag geloescht. Skill behauptete Thema: Annahmeverzugslohn § 615 BGB Zwischenverdienst Anrechnung § 11 KSchG, NZA 2007, 614. Dejure.org bestaetigt: Tatsaechliches Thema ist Aufhebungsvertrag oder nachtraegliche Befristung / AGB-Kontrolle § 305c BGB. NZA-Fundstelle zufaellig korrekt, Thema aber voellig falsch. Kein verifizierter Ersatz; Eintrag geloescht. Quelle: https://dejure.org/2007,511
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

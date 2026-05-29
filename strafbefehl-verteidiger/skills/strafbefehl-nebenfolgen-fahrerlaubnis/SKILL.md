@@ -25,19 +25,11 @@ description: "Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafb
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.11.2021 - 4 StR 239/21, NZV 2022, 104 — Regelentziehung nach § 69 Abs. 2 StGB bei § 316 StGB setzt nicht zusaetzlich eine konkrete Gefaehrdung voraus; die abstrakte Gefaehrlichkeit der Trunkenheitsfahrt genuegt fuer die Ungeeignetheitsindikation.
-- BGH, Beschl. v. 12.10.2021 - 4 StR 360/21, NStZ 2022, 52 — Widerlegung der Regelungeeignetheit nach § 69 Abs. 2 StGB erfordert besondere Umstaende im Einzelfall; ein langer Zeitablauf seit der Tat allein genuegt nicht.
-- OVG Muenster, Urt. v. 09.11.2020 - 16 A 1609/18, NZV 2021, 220 — MPU-Anforderung durch Behoerde ist auch ohne strafrechtliche Verurteilung bei konkreten Eignungszweifeln zulaessig; Verweigerung der MPU kann zur Entziehung fuehren.
-- BGH, Beschl. v. 02.03.2021 - 4 StR 427/20, NZV 2021, 353 — Sperrfrist nach § 69a StGB beginnt mit dem Tag des Wirksamwerdens der Entscheidung, nicht ab Antritt einer Untersuchungshaft; vorlaeufige Entziehung nach § 111a StPO wird nicht angerechnet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fischer StGB § 69 Rn. 1-50 (Entziehung der Fahrerlaubnis, Regelungeeignetheit)
-- Fischer StGB § 69a Rn. 1-25 (Sperrfrist, vorzeitige Aufhebung)
-- Fischer StGB § 44 Rn. 1-20 (Fahrverbot als Nebenstrafe)
-- MueKo StGB / Athing/von Heintschel-Heinegg § 69 Rn. 1-40
-- Janiszewski/Jagow/Burmann StVR § 69 StGB
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Fahrerlaubnis-Strategie
 
 ```

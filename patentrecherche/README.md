@@ -16,7 +16,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 
 ## Hinweis vorab
@@ -27,7 +27,7 @@ Das Plugin ist Teil des Repositories [`claude-fuer-deutsches-recht`](../) und wu
 
 ## Inhalt
 
-13 Skills, 3 References. Die methodische Grundlage stammt aus den Querschnitts-Plugins [`methodenlehre-buergerliches-recht`](../methodenlehre-buergerliches-recht) und [`zitierweise-deutsches-recht`](../zitierweise-deutsches-recht), die parallel aktiviert sein sollten.
+14 Skills, 3 References. Die methodische Grundlage stammt aus den Querschnitts-Plugins [`methodenlehre-buergerliches-recht`](../methodenlehre-buergerliches-recht) und [`zitierweise-deutsches-recht`](../zitierweise-deutsches-recht), die parallel aktiviert sein sollten.
 
 ### Skills
 
@@ -59,7 +59,7 @@ Nach Aktivierung des Plugins wird beim ersten Lauf von `patentrecherche-kaltstar
 
 ## Pflichtdisclaimer
 
-Jedes Recherche-Ergebnis enthält am Anfang den Disclaimer „**Hinweis zur Recherche** — KI-gestützte Vorrecherche, keine amtliche Recherche, finale Bewertung muss eigenständig abgesichert werden". Skills lassen den Disclaimer nicht weg.
+Jedes Recherche-Ergebnis enthält am Anfang den Disclaimer "**Hinweis zur Recherche** — KI-gestützte Vorrecherche, keine amtliche Recherche, finale Bewertung muss eigenständig abgesichert werden". Skills lassen den Disclaimer nicht weg.
 
 ## Verhältnis zum Berufsrecht
 

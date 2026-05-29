@@ -44,7 +44,7 @@ Gegenstand dieser Vorprüfung (Stufe I) ist die Frage, ob artenschutzrechtliche 
 
 ### 3.1 Lage und Habitatstruktur
 
-Das Werkgelände Werk Nord liegt im Industriepark Wesseling-Nord, vollständig innerhalb des Bebauungsplans Nr. 45 „Industriepark Wesseling-Nord" (Festsetzung: Industriegebiet GI). Der Untersuchungsraum (UR) der Vorprüfung umfasst das Werkgelände sowie einen Pufferbereich von 200 m um die geplanten Eingriffsflächen.
+Das Werkgelände Werk Nord liegt im Industriepark Wesseling-Nord, vollständig innerhalb des Bebauungsplans Nr. 45 "Industriepark Wesseling-Nord" (Festsetzung: Industriegebiet GI). Der Untersuchungsraum (UR) der Vorprüfung umfasst das Werkgelände sowie einen Pufferbereich von 200 m um die geplanten Eingriffsflächen.
 
 Innerhalb des UR befinden sich:
 - **Bebaute Industriefläche** (Hallen, Straßen, Lager): ca. 85 %
@@ -84,7 +84,7 @@ Am 17. März 2026 wurden im Rahmen einer Ortsbegehung (18:30–20:15 Uhr, Luftte
 
 ## 5. FFH-Bezug
 
-Das nächste **FFH-Gebiet** ist das Gebiet „Rhein-Fischschutzzonen zwischen Emmerich und Bad Honnef" (DE-4205-301), ca. 2,4 km westlich des Werkgeländes. Ein **Vogelschutzgebiet** (SPA) liegt im Radius von 5 km nicht vor.
+Das nächste **FFH-Gebiet** ist das Gebiet "Rhein-Fischschutzzonen zwischen Emmerich und Bad Honnef" (DE-4205-301), ca. 2,4 km westlich des Werkgeländes. Ein **Vogelschutzgebiet** (SPA) liegt im Radius von 5 km nicht vor.
 
 Eine erhebliche Beeinträchtigung des FFH-Schutzgebiets durch die geplanten Maßnahmen (rein innenbauliche Erweiterung, keine neuen Immissionen in Richtung Rhein) kann **ausgeschlossen** werden. Eine FFH-Verträglichkeitsprüfung nach § 34 BNatSchG ist nicht erforderlich.
 

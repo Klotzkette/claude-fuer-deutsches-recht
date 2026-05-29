@@ -2,7 +2,7 @@
 
 **Aktenzeichen:** AG Mitte von Berlin 36 L 412/24
 
-**Objekt:** Büro- und Geschäftshaus „Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte
+**Objekt:** Büro- und Geschäftshaus "Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte
 
 **Datum:** 28. August 2024, 10:00 Uhr bis 13:30 Uhr
 
@@ -44,9 +44,9 @@ Die Verwalterin und Frau Sturm-Hagen begehen sämtliche Etagen einzeln. Beobacht
 
 Wesentliche Beobachtungen:
 
-- **Etage 4 Westflügel:** Wasserschaden in der Teeküche der Mieterin „Lichtenberg & Sieboldt Steuerberatung PartG mbB" vom 14.07.2024. Vor-Ort-Aufnahme bestätigt die Sanierung als abgeschlossen, aber Anstrich noch nicht erneuert. Mieterin (telefonisch erreicht, Frau Sieboldt) bestätigt Sanierungsabschluss durch FT Sanierungstechnik Berlin GmbH; offene Mietminderung der vergangenen Periode wird der Verwalterin gegenüber geltend gemacht.
-- **Etage 6 Mitte:** ungenutzte Bürofläche 412 m², ehemals „Sustainable Future Consulting GmbH" (Mietvertrag fristlos gekündigt durch Vermieter zum 31.05.2024 wegen Mietrückstand), Räume leer, Reinigung erforderlich, Auszug abgeschlossen. Schlüssel bei der Verwalterin.
-- **Etage 7 Penthouse:** Konferenzbereich „Forum Friedrichshöfe", durch Cobaltech AG (Mieterin Etage 5) tageweise gemietet (Reservierungssystem, Bewirtschaftung durch Hausmeister Cortinhal).
+- **Etage 4 Westflügel:** Wasserschaden in der Teeküche der Mieterin "Lichtenberg & Sieboldt Steuerberatung PartG mbB" vom 14.07.2024. Vor-Ort-Aufnahme bestätigt die Sanierung als abgeschlossen, aber Anstrich noch nicht erneuert. Mieterin (telefonisch erreicht, Frau Sieboldt) bestätigt Sanierungsabschluss durch FT Sanierungstechnik Berlin GmbH; offene Mietminderung der vergangenen Periode wird der Verwalterin gegenüber geltend gemacht.
+- **Etage 6 Mitte:** ungenutzte Bürofläche 412 m², ehemals "Sustainable Future Consulting GmbH" (Mietvertrag fristlos gekündigt durch Vermieter zum 31.05.2024 wegen Mietrückstand), Räume leer, Reinigung erforderlich, Auszug abgeschlossen. Schlüssel bei der Verwalterin.
+- **Etage 7 Penthouse:** Konferenzbereich "Forum Friedrichshöfe", durch Cobaltech AG (Mieterin Etage 5) tageweise gemietet (Reservierungssystem, Bewirtschaftung durch Hausmeister Cortinhal).
 - **Dachterrasse:** zugänglich für alle Mieter, in Ordnung, Bewässerungsanlage funktioniert, Pflanzpflege durch externes Unternehmen (Gartenkultur Kreuzberg UG).
 
 ### 11:30 Uhr — Telefongespräch mit vorläufigem Insolvenzverwalter
@@ -57,7 +57,7 @@ RA Dr. Westphal bestätigt telefonisch nochmals seine Erklärung vom 14.08.2024,
 
 Frau Sturm-Hagen übergibt:
 
-- 24 Generalschlüssel (Schließanlage „Friedrichshöfe Master")
+- 24 Generalschlüssel (Schließanlage "Friedrichshöfe Master")
 - 47 Mieter-Schlüsselsätze (versiegelt in beschrifteten Umschlägen, Beschriftung gemäß Mieterliste)
 - 8 Zugangskarten Tiefgarage (Sondernutzung, weitere Karten direkt bei Mietern)
 - 4 Schlüssel Technikräume (Heizung, Aufzug-Maschinenraum, Elektro-Zentral, Datenverteiler)
@@ -91,7 +91,7 @@ Hausmeister Cortinhal führt durch die Hausmeisterwohnung (Souterrain, 62 m²) u
 
 Die Verwalterin erklärt die Besitzübernahme für abgeschlossen. Frau Sturm-Hagen wird dahingehend belehrt, dass sie ab sofort keine das Objekt betreffenden Rechtshandlungen mehr vornehmen darf, insbesondere keine Mietkorrespondenz, keine Kündigungen, keine Mieterhöhungen und keine Vertragsänderungen mit Dienstleistern. Frau Sturm-Hagen quittiert die Belehrung.
 
-Die Verwalterin händigt sodann den Mietern (per Aushang im Eingangsbereich und per Briefzustellung in jedes Mieterfach) das Informationsschreiben vom 28.08.2024 nebst Anlage „§ 22 ZVG-Hinweis" aus.
+Die Verwalterin händigt sodann den Mietern (per Aushang im Eingangsbereich und per Briefzustellung in jedes Mieterfach) das Informationsschreiben vom 28.08.2024 nebst Anlage "§ 22 ZVG-Hinweis" aus.
 
 ---
 

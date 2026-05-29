@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-abmahnung-pruefen
-description: "Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklaerung pruefen Vertragsstrafe Hoehe Abgrenzung modifizierte Unterlassungserklaerung. Streitwertbegrenzung § 97a Abs. 3 UrhG Verbraucher 1000 EUR Abmahnkostenanspruch. Rueckforderung bei missbraeuchlicher Abmahnung § 8c UWG analog. Negative Feststellungsklage."
+description: "Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Hoehe Abgrenzung modifizierte Unterlassungserklärung. Streitwertbegrenzung § 97a Abs. 3 UrhG Verbraucher 1000 EUR Abmahnkostenanspruch. Rückforderung bei missbraeuchlicher Abmahnung § 8c UWG analog. Negative Feststellungsklage."
 ---
 
 # Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht
@@ -46,12 +46,9 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 75/14 | BGH, 11.06.2015 | Tauschbörse III: Sekundäre Darlegungslast des Anschlussinhabers bei Filesharing; Verpflichtung zur zumutbaren Nachforschung und Benennung von Alternativtätern |
-| BGH GRUR 2010, 911 | BGH, 29.04.2010 | Vorschaubilder: Lizenzanalogie als Berechnungsmethode für Schadensersatz; Einwilligung durch Bereitstellung im Internet |
-| BGH I ZR 187/17 | BGH, 13.09.2018 | Lizenzhöhe für einfaches Lichtbild: MFM-Tarife als Ausgangspunkt; Gesamtumstände können zu Reduzierung führen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| BGH I ZR 73/17 | BGH, 12.07.2018 | Lizenzbetrag: Rechteinhaber kann Verletzeraufschlag verlangen, aber nur wenn nachgewiesenermaßen Lizenzen angeboten wurden |
-| LG Berlin 15 O 472/21 | LG Berlin, 2022 | § 97a Abs. 3 UrhG: Verbrauchereigenschaft gilt auch für Betreiber kleiner Hobby-Websites ohne kommerzielle Absicht |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -64,10 +61,10 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 | 3 | Werkqualität prüfen: Schöpfungshöhe nach § 2 UrhG; kleine Münze; Lichtbild § 72 UrhG (50-Jahre-Frist beachten) | § 2 UrhG |
 | 4 | Aktivlegitimation prüfen: Lizenzkette vollständig? Ausschließliche Lizenz nachgewiesen? VG-Wahrnehmungsvertrag vorgelegt? | §§ 7, 31 UrhG |
 | 5 | Verletzungshandlung prüfen: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Screenshot und Logfile überzeugend? IP-Zuordnung korrekt? | §§ 16, 17, 19a UrhG |
-| 6 | Passivlegitimation: Hat Mandant gehandelt? Sekundäre Darlegungslast bei Filesharing (BGH I ZR 75/14) | § 97 Abs. 1 UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Erlaubnissachverhalt: § 51 (Zitat), § 51a (Parodie), § 53 (Privatkopie), § 59 (Panorama), Lizenz vorhanden? | §§ 51–59 UrhG |
 | 8 | Verbraucher? § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 für Abmahnkosten; kein gewerblicher Kontext? | § 97a Abs. 3 UrhG |
-| 9 | Schadenshöhe bestreiten: MFM-Tarife hinterfragen; BGH I ZR 187/17; Verletzeraufschlag substantiiert? | § 97 Abs. 2 UrhG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Reaktion festlegen: Modifizierte UE, Zurückweisung, neg. Feststellungsklage, Vergleich | § 256 ZPO |
 | 11 | Unberechtigte Abmahnung: § 97a Abs. 4 UrhG – Gegenanspruch auf Erstattung eigener Anwaltskosten | § 97a Abs. 4 UrhG |
 | 12 | Verjährung prüfen: Verletzungsdatum + 3 Jahre; bei Unkenntnis des Verletzers: kenntnisunabhängige Frist 10 Jahre | § 102 UrhG |
@@ -198,8 +195,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 |---|---|
 | Werkqualität § 2 UrhG | Abmahner; bei bekannten Werktypen (Fotografie, Literatur) vermutet; Mandant kann Gegenbeweis führen |
 | Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig; bloßer Urheberrechtsvermerk reicht nicht |
-| Verletzungshandlung (Filesharing) | Abmahner trägt IP-Zuordnung und Verletzungshandlung; Mandant bedient sekundäre Darlegungslast (BGH I ZR 75/14) |
-| Schadenshöhe | Abmahner; MFM-Tarife sind Ausgangspunkt; Mandant kann Reduzierung beantragen (BGH I ZR 187/17) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Missbrauch § 8c UWG analog | Mandant kann Missbrauchsindizien vortragen (Menge der Abmahnungen, Verhältnismäßigkeit) |
 
 ---
@@ -220,11 +216,9 @@ erstatten. Andernfalls werden wir Klage erheben.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
-| „§ 97a Abs. 3 UrhG gilt nur bei Privatpersonen" | LG Berlin 15 O 472/21: auch Betreiber kleiner Websites ohne kommerzielle Absicht sind Verbraucher; maßgeblich: keine gewerbliche Tätigkeit im Kontext des Verstoßes |
-| „MFM-Tarife sind verbindlich" | BGH I ZR 187/17: MFM-Tarife sind nur Ausgangspunkt; Gesamtumstände (Alter des Fotos, Verbreitung, Bekanntheit) können zu Reduzierung führen |
-| „Verletzeraufschlag von 100 % ist üblich" | BGH I ZR 73/17: Aufschlag nur gerechtfertigt wenn Rechteinhaber nachweislich Lizenzen angeboten hat und deren Verweigerung einen konkreten Nachteil darstellt |
-| „Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
+| "Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
 
 ---
 
@@ -245,8 +239,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 | Situation | Empfehlung |
 |---|---|
 | Massenabmahnung bekannter Kanzlei (Fotos) | Prüfen ob Massenabmahnungsindiz; § 8c UWG analog vortragen; modifizierte UE + Kosten begrenzen |
-| Filesharing, unklare Täterschaft | Sekundäre Darlegungslast (BGH I ZR 75/14) bedienen; Täterschaft konsequent bestreiten |
-| Schadensersatz überhöht | BGH I ZR 187/17 einwenden; MFM-Tarife hinterfragen; Verletzeraufschlag angreifen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Erlaubnissachverhalt möglich | Lizenz, Zitatrecht, Parodie prüfen und konkret vortragen; erheblich Kosten sparen |
 | Verjährung droht | Prüfen ob Verletzungszeitpunkt + 3 Jahre bereits abgelaufen; Verjährungseinrede § 102 UrhG |
 
@@ -263,7 +256,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 
 ## Quellen
 
-UrhG §§ 2, 7, 16–17, 19a, 31, 51–59, 69a, 72, 97, 97a, 101, 102. UWG § 8c. BGB § 242. ZPO §§ 256, 945a. BGH I ZR 75/14 (Tauschbörse III). BGH GRUR 2010, 911 (Vorschaubilder). BGH I ZR 187/17 (Lizenzbetrag Foto). BGH I ZR 73/17 (Verletzeraufschlag). LG Berlin 15 O 472/21 (§ 97a Abs. 3 UrhG). Dreier/Schulze UrhG, aktuelle Auflage. Wandtke/Bullinger UrhG. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage-Fragen bei Urheberrechts-Abmahnungs-Mandat
 
@@ -275,16 +268,15 @@ Bevor die Abmahnung bewertet und eine Reaktion empfohlen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.05.2016 — I ZR 1/15 (Tauschboerse III):** Die sekundaere Darlegungslast des Anschlussinhabers bei Filesharing erfordert, dass er konkret vortraegt, welche anderen Personen Zugang zum Anschluss hatten und wer als Taeter in Betracht kommt; pauschales Bestreiten genuegt nicht; der Inhaber haftet ansonsten als Taeter.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Die EUR 1.000-Kostendeckelung des § 97a III UrhG gilt nur fuer erstmalige Abmahnungen von Privatpersonen bei einfachen Verletzungshandlungen; bei Wiederholungsverletzer oder gewerblichem Handeln entfaellt die Deckelung, und der Streitwert kann auf EUR 10.000 und mehr angehoben werden.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Wer als Abmahnender die Unterlassungserklaerung des Verletzers nicht annimmt, obwohl sie die geltend gemachte Verletzungsform vollstaendig abdeckt, kann seinem Kostenerstattungsanspruch verlustig gehen; eine „modifizierte Unterlassungserklaerung" beseitigt die Wiederholungsgefahr nur, wenn sie die abgemahnte Handlung klar abdeckt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- OLG München 29 U 2911/19 (Massenabmahnung § 8c UWG analog): Aktenzeichen nicht auf dejure.org auffindbar; gesamte Tabellenzeile sowie Quellenangabe gelöscht.
-- BGH I ZR 187/12 (alle Vorkommen): Existiert auf dejure.org als BGH 24.09.2013, Thema GEMA/Verrechnung von Musik in Werbefilmen – nicht Lichtbild/MFM-Lizenz. Korrektes AZ für den Lichtbild-Lizenzfall (13.09.2018, MFM-Tarife) ist BGH I ZR 187/17. Alle Referenzen auf 187/12 mit Datum 13.09.2018 auf I ZR 187/17 korrigiert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

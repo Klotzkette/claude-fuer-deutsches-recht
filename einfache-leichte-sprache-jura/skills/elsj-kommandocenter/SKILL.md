@@ -1,6 +1,6 @@
 ---
 name: elsj-kommandocenter
-description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt fuer juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Pruefraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetspruefung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausfuehrung) und elsj-qualitaetsgate (Pruefung)."
+description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetsprüfung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausführung) und elsj-qualitaetsgate (Prüfung)."
 ---
 
 # Kommandocenter
@@ -16,10 +16,7 @@ Einfache Sprache oder Leichte Sprache.
 4. Gibt es einen institutionellen Hausstil oder Pruefgruppen fuer Leichte Sprache?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 19.10.1993 - 1 BvR 567/89, BVerfGE 89, 214 — Eigenverantwortliche Entscheidung setzt verstaendliche Information voraus; staatliche Dokumente muessen so gestaltet sein, dass Adressaten ihre Rechte erkennen.
-- BGH, Urt. v. 09.07.1981 - III ZR 198/80, BGHZ 81, 175 — Transparenzgebot bei Verbraucherdokumenten als verfassungsrechtlich gebotener Massstab.
-- BVerwG, Urt. v. 21.09.2010 - 4 C 1.10, NVwZ 2011, 115 — Fehlerhafte oder unverstaeindliche Rechtsbehelfsbelehrung fuehrt zur Verlaengerung der Rechtsbehelfsfrist (§ 58 Abs. 2 VwGO).
-- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — AGB in Leichter Sprache koennen Einbeziehungsvoraussetzungen erfuellen, wenn Gegner sie versteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 11 BGG — Barrierefreiheit: Behoerden muessen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
@@ -27,10 +24,9 @@ Einfache Sprache oder Leichte Sprache.
 - § 43 SGB I — Beratungspflicht sozialrechtlich in verstaendlicher Sprache
 - § 58 VwGO — Rechtsbehelfsbelehrung: Klarheit als Wirksamkeitsvoraussetzung
 
-## Kommentarliteratur
-- Kellner, Einfache Sprache im Recht, 2. Aufl. 2022, Kap. 2 (Rechtliche Grundlagen der Verstaendlichkeitspflicht)
-- Bredel/Maaß, Leichte Sprache, 2016, Kap. 1 (Grundlagen und Einsatzgebiete)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Routing-Entscheidung
 
 **Adressat-Bestimmung:**

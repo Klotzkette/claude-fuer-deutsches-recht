@@ -1,6 +1,7 @@
 ---
 name: tabellenpruefung
-description: "Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeignet für M&A-Due-Diligence (Change-of-Control, Abtretungsverbote, MAC-Klauseln in vielen Zielgesellschaftsverträgen), Vendor-Vertragsaudits und jeden anderen Stapeldurchlauf. Lädt bei „tabellarisches Review\", „Review-Raster\", „Prompt-Tabelle\", „Felder aus Verträgen extrahieren\", „Dokumente auf X, Y, Z prüfen\" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag."
+description: 'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeignet für M&A-Due-Diligence (Change-of-Control, Abtretungsverbote, MAC-Klauseln in vielen Zielgesellschaftsverträgen), Vendor-Vertragsaudits und jeden anderen Stapeldurchlauf. Lädt bei "tabellarisches Review", "Review-Raster", "Prompt-Tabelle", "Felder aus Verträgen extrahieren", "Dokumente auf X, Y, Z prüfen" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.'
+
 ---
 
 # Tabellarisches Vertragsreview als Prompt-Matrix
@@ -10,8 +11,8 @@ description: "Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein
 Sie haben einen Stapel Dokumente und eine Liste von Fragen, die für jedes Dokument konsistent beantwortet werden müssen. Das Ergebnis ist eine Tabelle: **Dokumentenzeilen × Datenpunktspalten**, jede Zelle rückverfolgbar bis auf die exakten Wörter im Quelltext.
 
 **Die Prompt-Matrix:**
-- **Prompt pro Spalte** (Spaltenprompt) = die Frage, die für *alle* Dokumente gestellt wird. „Welche Kündigungsfrist gilt? Wörtliches Zitat mit Fundstelle."
-- **Prompt pro Zeile** (Zeilenprompt) = die *dokumentspezifische* Anweisung, die das Lesen dieses einen Dokuments steuert. „Dieser Vertrag ist ein Konzernvertrag — § 311 AktG zusätzlich prüfen." Oder: „Anlage 7 liegt nur in geänderter Fassung vor — Originalfassung anfordern."
+- **Prompt pro Spalte** (Spaltenprompt) = die Frage, die für *alle* Dokumente gestellt wird. "Welche Kündigungsfrist gilt? Wörtliches Zitat mit Fundstelle."
+- **Prompt pro Zeile** (Zeilenprompt) = die *dokumentspezifische* Anweisung, die das Lesen dieses einen Dokuments steuert. "Dieser Vertrag ist ein Konzernvertrag — § 311 AktG zusätzlich prüfen." Oder: "Anlage 7 liegt nur in geänderter Fassung vor — Originalfassung anfordern."
 
 Der Wert der Matrix: gleiche Fragen für alle Dokumente (Vergleichbarkeit), aber gezielte Sonderbehandlung dort, wo ein Dokument abweicht (Genauigkeit).
 
@@ -46,17 +47,15 @@ Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 2
 - §§ 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten)
 - §§ 443, 444 BGB (Garantien, Haftungsausschluss)
 - § 442 BGB (Kenntnis des Käufers, Ausschluss der Gewährleistung)
-- BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25 (Due-Diligence-Pflicht des Käufers; Kenntnis von Mängeln)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Change-of-Control:**
-- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Kündigung bei mittelbarem Kontrollwechsel)
-- BGH, Urt. v. 10.11.2016 – I ZR 193/15, NJW-RR 2017, 877 Rn. 14 (Vertragsübernahme ohne Schuldnerzustimmung)
-- OLG Frankfurt, Urt. v. 10.09.2020 – 26 U 35/19 (unzureichende Disclosure im Datenraum)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Abtretungsverbote:**
 - § 399 BGB (Abtretungsausschluss durch Parteivereinbarung)
 - § 354a HGB (Unwirksamkeit im kaufmännischen Verkehr)
-- BGH, Urt. v. 14.11.1991 – IX ZR 31/91, NJW 1992, 1026
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **MAC-Klauseln:**
 - §§ 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund
@@ -75,10 +74,10 @@ Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 2
 - §§ 305 ff. BGB (Inhaltskontrolle; überraschende Klauseln; unangemessene Benachteiligung)
 - § 307 Abs. 1 BGB (Generalklausel AGB-Kontrolle)
 
-**Kommentarliteratur:**
-- Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 (Unternehmenskauf, Due Diligence)
-- Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 (Abtretung GmbH-Anteile)
-- Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 (Abtretungsverbot)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
@@ -124,7 +123,7 @@ spalten:
     typ: datum
     prompt: >
       Wann tritt der Vertrag in Kraft? Suche im Unterschriftenblock oder
-      in einer „Wirksamkeitsdatum"-Klausel. Falls Unterschriften an
+      in einer "Wirksamkeitsdatum"-Klausel. Falls Unterschriften an
       verschiedenen Tagen: das spätere. ISO-Format JJJJ-MM-TT.
 
   - id: change_of_control
@@ -137,7 +136,7 @@ spalten:
       - sonstige
     prompt: >
       Hat die Gegenpartei ein Sonderrecht bei Kontrollwechsel beim Mandanten?
-      Auch mittelbaren Kontrollwechsel beachten (BGH KZR 2/07). Wörtliches
+      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
       Zitat der einschlägigen Klausel als Begleitfeld.
 
   - id: abtretung
@@ -151,7 +150,7 @@ spalten:
       - keine_regelung
     prompt: >
       Welche Regelung zur Abtretung? Bei absolutem Verbot zwischen Kaufleuten
-      § 354a HGB-Vorbehalt prüfen (BGH NJW 1992, 1026).
+      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
   - id: haftungsobergrenze
     label: Haftungsobergrenze
@@ -216,8 +215,8 @@ Spaltenprompts sind generisch. Bei Stapel-Reviews gibt es aber oft Dokumente, di
 Drei typische Quellen für Zeilenprompts:
 
 1. **Dokumenttyp-spezifisch.** Konzernvertrag → § 311 AktG zusätzlich prüfen; Mietvertrag → Mietpreisbremse (§ 556d BGB) prüfen; Rahmenvertrag → auf Einzelverträge verweisen; AGB → §§ 305 ff. BGB.
-2. **Mandanten-/Mandatsspezifisch.** „Vertrag X ist der Hauptliefervertrag — bei jeder unklaren Klausel zur Hauptverhandlung mit dem Lead-Counsel eskalieren."
-3. **Dokument-spezifisch.** „Anlage 7 liegt nur in geänderter Fassung vor — bei Streitstand zur Originalfassung kommentieren." „Dieser Vertrag ist auf Englisch geschrieben — bei Mehrdeutigkeit auf den englischen Urtext zurückgreifen."
+2. **Mandanten-/Mandatsspezifisch.** "Vertrag X ist der Hauptliefervertrag — bei jeder unklaren Klausel zur Hauptverhandlung mit dem Lead-Counsel eskalieren."
+3. **Dokument-spezifisch.** "Anlage 7 liegt nur in geänderter Fassung vor — bei Streitstand zur Originalfassung kommentieren." "Dieser Vertrag ist auf Englisch geschrieben — bei Mehrdeutigkeit auf den englischen Urtext zurückgreifen."
 
 **Beispiel `zeilen-prompts.yaml`:**
 
@@ -315,7 +314,7 @@ Jeder Unteragent gibt eine strukturierte Zeile zurück: für jede Spalte `{wert,
 
 **Zusätzliche Felder bei aktivem Zeilenprompt:**
 - `zeilenprompt_befolgt` — Bool: hat der Unteragent die Zeilen-Sonderanweisung beachtet?
-- `zeilenprompt_notiz` — was wurde aufgrund des Zeilenprompts zusätzlich erfasst (z. B. „§ 311 AktG geprüft, keine relevante Klausel")
+- `zeilenprompt_notiz` — was wurde aufgrund des Zeilenprompts zusätzlich erfasst (z. B. "§ 311 AktG geprüft, keine relevante Klausel")
 
 ### Schritt 6 — Normalisierung
 
@@ -341,8 +340,8 @@ Spaltenweise gesamte Tabelle prüfen:
 - Jede Datenspalte mit verdeckter Quellspalte gepaart (Zitat + Fundstelle)
 - Zellkommentare zeigen das Zitat beim Überfahren (Excel)
 - Farbcodierung nach `zustand`: weiß = beantwortet, gelb = unklar/prüfung_erforderlich, grau = nicht_vorhanden
-- Zusätzliche Spalte „Zeilenprompt" sichtbar (Dokumenttyp)
-- Spalte „Zeilenprompt-Notiz" für die Notiz aus Schritt 5
+- Zusätzliche Spalte "Zeilenprompt" sichtbar (Dokumenttyp)
+- Spalte "Zeilenprompt-Notiz" für die Notiz aus Schritt 5
 - `Geprüft`-Spalte pro Datenspalte, vom Reviewer abzuhaken
 - `_Schema`-Tabellenblatt mit Spalten- und Zeilenprompt-Definitionen — selbstdokumentierend
 
@@ -371,24 +370,24 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 
 | Spalte | Typ | Spaltenprompt (Kurzfassung) |
 |---|---|---|
-| Gegenpartei | wörtlich | „Wer ist die Gegenpartei? Genaue Firmierung mit Rechtsform aus dem Rubrum." |
-| Wirksamkeitsdatum | datum | „Wann tritt der Vertrag in Kraft? Bei verschiedenen Unterschriftsdaten: das spätere." |
-| CoC | klassifizieren | „Sonderrecht bei Kontrollwechsel? Auch mittelbaren Kontrollwechsel (BGH KZR 2/07) prüfen." |
-| Abtretung | klassifizieren | „Welche Abtretungsregelung? Bei Verbot zwischen Kaufleuten § 354a HGB prüfen." |
-| Haftungsobergrenze | betrag | „Betragsmäßige Haftungsobergrenze in EUR. Mehrere Limits separat." |
+| Gegenpartei | wörtlich | "Wer ist die Gegenpartei? Genaue Firmierung mit Rechtsform aus dem Rubrum." |
+| Wirksamkeitsdatum | datum | "Wann tritt der Vertrag in Kraft? Bei verschiedenen Unterschriftsdaten: das spätere." |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Abtretung | klassifizieren | "Welche Abtretungsregelung? Bei Verbot zwischen Kaufleuten § 354a HGB prüfen." |
+| Haftungsobergrenze | betrag | "Betragsmäßige Haftungsobergrenze in EUR. Mehrere Limits separat." |
 
 **Zeilenprompts** (dokumentspezifisch, ergänzt zu Spaltenprompts):
 
 | Zeile (Dokument) | Zeilenprompt |
 |---|---|
-| Lieferanten-MSA — Alpha GmbH | „Hauptliefervertrag, Konzernvertrag — zusätzlich § 311 AktG (Beherrschung) prüfen. Bei unklarer CoC zum Lead-Counsel eskalieren." |
-| Mietvertrag Hauptniederlassung Berlin | „Gewerberaum (§ 535 BGB, nicht §§ 549 ff.). Indexmietklausel auf § 557b BGB prüfen. Konkurrenzschutzklausel separat." |
-| Vendor Agreement Beta Ltd (EN) | „Englischsprachiger Vertrag. Rechtswahl und Gerichtsstand klären. Englische Zitate belassen, deutsche Notiz." |
-| Anlage K7 Nachtrag | „Nur Nachtrag — Hauptvertrag (Anlage K6) mitlesen. CoC steht im Hauptvertrag." |
-| Lizenzvertrag — Gamma SaaS | „SaaS-Vertrag — zusätzlich auf Sub-Auftragsverarbeitung (Art. 28 IV DSGVO) prüfen, da personenbezogene Daten verarbeitet werden." |
-| Vertriebsvertrag — Delta GmbH | „Handelsvertreter (§§ 84 ff. HGB) oder Vertragshändler? Klassifikation in Notizen." |
-| Joint-Venture-Vertrag — Epsilon AG | „Gleichberechtigte Beteiligung 50:50 — Patt-Regelungen und Deadlock-Klausel separat erfassen, falls vorhanden." |
-| Wildcard (alle anderen) | „Standardvertrag, keine Sonderbehandlung. Spaltenprompts wörtlich." |
+| Lieferanten-MSA — Alpha GmbH | "Hauptliefervertrag, Konzernvertrag — zusätzlich § 311 AktG (Beherrschung) prüfen. Bei unklarer CoC zum Lead-Counsel eskalieren." |
+| Mietvertrag Hauptniederlassung Berlin | "Gewerberaum (§ 535 BGB, nicht §§ 549 ff.). Indexmietklausel auf § 557b BGB prüfen. Konkurrenzschutzklausel separat." |
+| Vendor Agreement Beta Ltd (EN) | "Englischsprachiger Vertrag. Rechtswahl und Gerichtsstand klären. Englische Zitate belassen, deutsche Notiz." |
+| Anlage K7 Nachtrag | "Nur Nachtrag — Hauptvertrag (Anlage K6) mitlesen. CoC steht im Hauptvertrag." |
+| Lizenzvertrag — Gamma SaaS | "SaaS-Vertrag — zusätzlich auf Sub-Auftragsverarbeitung (Art. 28 IV DSGVO) prüfen, da personenbezogene Daten verarbeitet werden." |
+| Vertriebsvertrag — Delta GmbH | "Handelsvertreter (§§ 84 ff. HGB) oder Vertragshändler? Klassifikation in Notizen." |
+| Joint-Venture-Vertrag — Epsilon AG | "Gleichberechtigte Beteiligung 50:50 — Patt-Regelungen und Deadlock-Klausel separat erfassen, falls vorhanden." |
+| Wildcard (alle anderen) | "Standardvertrag, keine Sonderbehandlung. Spaltenprompts wörtlich." |
 
 **Ergebnis** (Auszug):
 
@@ -464,11 +463,11 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 
 - **Dokumente überspringen.** Jedes vom Nutzer benannte Dokument bekommt eine Zeile. Nicht lesbares Dokument: Zeile mit `prüfung_erforderlich`.
 - **Paraphrase als Zitat ausgeben.** Beweiskette = Kernwert. Wörtlichkeitsregel mechanisch.
-- **Zeilenprompt überschreibt Spaltenprompt.** Standard: Zeilenprompt **ergänzt**. Wenn der Spaltenprompt fragt „Was ist die Kündigungsfrist?", darf der Zeilenprompt nicht implizieren „Bei diesem Vertrag schauen wir keine Kündigungsfrist an". Bei Konflikt rückfragen.
+- **Zeilenprompt überschreibt Spaltenprompt.** Standard: Zeilenprompt **ergänzt**. Wenn der Spaltenprompt fragt "Was ist die Kündigungsfrist?", darf der Zeilenprompt nicht implizieren "Bei diesem Vertrag schauen wir keine Kündigungsfrist an". Bei Konflikt rückfragen.
 - **Schema nicht probetesten.** Vollständigkeitsdurchlauf mit fehlerhaftem Schema = verworfene Arbeit. Immer 3–5 Dokumente zuerst.
 - **Konfidenzwerte erfinden.** Kein numerischer Konfidenzwert. Stattdessen: `unklar` / `prüfung_erforderlich`-Zustände + verbatim Zitate als Konfidenz-Signal.
 - **§ 354a HGB ignorieren.** Abtretungsverbote zwischen Kaufleuten ggf. unwirksam — in Schema-Notizen vermerken.
-- **Zeilenprompt aus Erinnerung statt aus Fakten.** Wenn der Reviewer behauptet „dieser Vertrag ist ein Konzernvertrag" — Faktenlage muss aus dem Dokument belegt sein, nicht aus Vermutung.
+- **Zeilenprompt aus Erinnerung statt aus Fakten.** Wenn der Reviewer behauptet "dieser Vertrag ist ein Konzernvertrag" — Faktenlage muss aus dem Dokument belegt sein, nicht aus Vermutung.
 - **Fremde Rechtsordnung ohne Hinweis.** Englischsprachige Verträge sind nicht automatisch nach englischem Recht; Rechtswahlklausel lesen und dokumentieren.
 - **Nachträge ohne Hauptvertrag.** Nachtrag ohne Hauptvertrag ergibt unvollständige Datenlage; immer Hauptvertrag referenzieren und als Pflichtlektüre markieren.
 
@@ -485,14 +484,13 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 
 Jede rechtliche Beurteilung im Schema-Aufbau und in der Normalisierung mit Norm belegen:
 - Abtretungsverbote: `§ 399 BGB`, `§ 354a HGB`
-- Change-of-Control: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
-- Due-Diligence-Pflichten: `BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Konzernrecht bei Zeilenprompt: `§§ 15 ff., 308, 311 AktG`
-- Gewerberaummiete: `Häublein, in: MüKoBGB, 9. Aufl. 2023, § 535 Rn. 1` (zit.)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Indexmietklausel: `§ 557b BGB`
 - AGB-Kontrolle bei Stapel: `§§ 305 ff. BGB`
 - Sub-AV: `Art. 28 Abs. 4 DSGVO`
-- Kommentare: `Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1`
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Wettbewerbsverbot: `§ 74 HGB`
 - GeschGehG: `§ 1 GeschGehG`
 - Open-Source: Copyleft-Systematik GPL, AGPL

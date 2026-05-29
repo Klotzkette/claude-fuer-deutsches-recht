@@ -1,6 +1,6 @@
 ---
 name: common-law-interpretation-precedent
-description: "Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Pruefraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess)."
+description: "Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess)."
 ---
 
 # Interpretation und Precedent

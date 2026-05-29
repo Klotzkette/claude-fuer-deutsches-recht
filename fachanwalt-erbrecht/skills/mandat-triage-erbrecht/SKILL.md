@@ -1,23 +1,17 @@
 ---
 name: mandat-triage-erbrecht
-description: "Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Pruefraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
+description: "Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Erbrecht
 
 ## Aktuelle Rechtsprechung (Triage-Orientierung)
 
-- BGH, Urt. v. 27.09.2017 - IV ZR 253/15, NJW 2017, 3663 Rn. 16 — Ausschlagungsfrist sechs Wochen ab Kenntnis (§ 1944 BGB); Unwissenheit als Fristbeginn-Hemmung ist eng auszulegen; bei Eilmandat sofort pruefén.
-- BGH, Urt. v. 12.07.2017 - IV ZR 584/15, NJW 2017, 3167 Rn. 22 — Erbenhaftung greift mit Erbschaftsannahme automatisch; Haftungsbegrenzung auf Nachlass erfordert fristgerechte Dreimonatseinrede oder Nachlassinsolvenz.
-- BGH, Urt. v. 19.01.2022 - IV ZR 140/20, NJW 2022, 1030 Rn. 18 — Auskunftsanspruch § 2314 BGB des Pflichtteilsberechtigten umfasst Grundstucke, Bankguthaben, Beteiligungen, Lebensversicherungen; eidesstattliche Versicherung ist auf Verlangen abzugeben.
-- BGH, Urt. v. 26.05.2021 - IV ZR 174/20, NJW 2021, 2269 Rn. 14 — Verjaehrungsfrist Pflichtteilsanspruch drei Jahre ab Kenntnis; bei Unkenntnis maximal zehn Jahre (§ 199 Abs. 3a BGB).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MuKoBGB/Siegmann, §§ 1942-1957 Rn. 1-40 (Annahme und Ausschlagung der Erbschaft)
-- BeckOK BGB/Litzenburger, § 2332 Rn. 1-15 (Pflichtteilsverjaehrung, Triage)
-- Burandt/Rojahn, Erbrecht, Teil “Mandat und Triage”
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensibel. Triage stellt Sofort-Fristen sicher und ordnet das Mandat dem richtigen Folge-Skill zu.
@@ -139,5 +133,5 @@ Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensib
 - BGB §§ 1922 ff. 1944 2303 ff. 2332 § 2082
 - ErbStG § 30
 - BGH IV. Zivilsenat
-- MüKoBGB Erbrecht
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Burandt/Rojahn Erbrecht

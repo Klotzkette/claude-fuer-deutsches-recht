@@ -39,14 +39,7 @@ description: "Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BVerfG | 1 BvR 1491/11 | 01.02.2012 | Umgangsrecht als Grundrecht des Kindes; staatliche Schutzpflicht gebietet effektive Durchsetzung |
-| BGH | XII ZB 99/20 | 15.12.2021 | Ordnungsmittel nach § 89 FamFG setzen vorherige Belehrung und zumutbare Erfüllbarkeit voraus |
-| BGH | XII ZB 601/15 | 17.08.2016 | Abänderung einer Umgangsregelung setzt wesentliche Änderung der tatsächlichen Verhältnisse voraus |
-| OLG Frankfurt | 4 UF 139/19 | 14.01.2020 | Cochemer Praxis: Interdisziplinäre Zusammenarbeit im Vorverfahren schließt Verfahrensverschleppung nicht aus |
-| OLG Brandenburg | 10 UF 2/21 | 09.03.2021 | § 165 FamFG Vermittlungsverfahren als obligatorischer Zwischenschritt vor Ordnungsmittel |
-| OLG Köln | 4 UF 71/20 | 22.09.2020 | Mediatorenvertraulichkeit schützt Inhalt des Mediationsverfahrens vor Verwertung im Folgeprozess |
-| OLG Hamburg | 12 UF 104/18 | 03.07.2019 | Verfahrensbeistand darf Ergebnis der Cochemer-Beratung an Gericht berichten; kein Verwertungsverbot |
-| OLG München | 16 UF 988/21 | 25.11.2021 | Umgangsausschluss nach § 1684 Abs. 4 BGB nur als letztes Mittel; Mediation vorrangig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## ADR-Pfade im Überblick
 
@@ -148,7 +141,7 @@ Begründung:
 Der Antragsgegner/die Antragsgegnerin verweigert seit dem [Datum] die Durchführung
 des titulierten Umgangs (Beschluss/Vergleich vom [Datum], Az. [X]). Vor Einleitung
 des Ordnungsmittelverfahrens nach § 89 FamFG ist das Vermittlungsverfahren
-nach § 165 FamFG durchzuführen (OLG Brandenburg, 10 UF 2/21, 09.03.2021).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Die Antragstellerin/der Antragsteller ist zur Teilnahme bereit.
 
 [Ort, Datum]
@@ -233,12 +226,12 @@ Rechtsanwalt/Rechtsanwältin [Name]
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach § 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach § 89 FamFG als nächste Stufe |
-| „Das Kind will keinen Umgang" | Umgangsverhindernder Elternteil | Kindeswille ist altersabhängig zu gewichten (BGH XII ZB 601/15); Verfahrensbeistand klärt auf; PAS-Problematik ansprechen |
-| „Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach § 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
-| „Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | § 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
-| „Mediationsergebnis ist nicht vollstreckbar" | Mandant/in | Protokollierung nach § 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach § 86 FamFG |
-| „Verfahrensbeistand ist parteiisch für Mutter/Vater" | Elternteil | § 158 FamFG: Auftrag allein dem Kindeswohl; Qualifikation nach § 158a FamFG; Beschwerde bei nachgewiesener Einseitigkeit |
+| "Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach § 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach § 89 FamFG als nächste Stufe |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach § 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
+| "Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | § 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
+| "Mediationsergebnis ist nicht vollstreckbar" | Mandant/in | Protokollierung nach § 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach § 86 FamFG |
+| "Verfahrensbeistand ist parteiisch für Mutter/Vater" | Elternteil | § 158 FamFG: Auftrag allein dem Kindeswohl; Qualifikation nach § 158a FamFG; Beschwerde bei nachgewiesener Einseitigkeit |
 
 ## Streitwert und Kosten
 
@@ -267,7 +260,7 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 4
 | Situation | Empfehlung | Begründung |
 |-----------|------------|-----------|
 | Erste Trennung, beide Elternteile kooperationswillig | Sofortige Familienmediation außergerichtlich (DGFM); kein Gerichtsverfahren einleiten | Günstigster, schnellster Weg; Vereinbarung nach § 127a BGB protokollieren |
-| Bestehender Titel, Umgang verweigert, keine Gewalt | § 165 FamFG Vermittlungsverfahren beantragen vor Ordnungsmittel | Rechtsprechung OLG Brandenburg 10 UF 2/21 verlangt Vermittlungsschritt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Hochkonfliktfamilie, kein Konsens möglich | Cochemer Modell aktivieren über § 156 FamFG; Verfahrensbeistand § 158 FamFG beantragen | Interdisziplinäre Struktur entlastet Gerichte; Kindesinteresse im Fokus |
 | Häusliche Gewalt / § 1666 BGB-Verdacht | Keine ADR; sofortige einstweilige Anordnung; § 1666 BGB-Verfahren | Sicherheit vor Einigung; Schutzanordnung GewSchG parallel |
 | Einigung erzielt, aber fragile Umsetzung | Gerichtliche Protokollierung § 127a BGB + Follow-up-Mediation nach 6 Monaten | Vollstreckungstitel als Sicherheitsnetz; präventive Eskalationsminderung |

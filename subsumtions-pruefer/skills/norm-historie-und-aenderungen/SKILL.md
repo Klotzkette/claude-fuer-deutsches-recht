@@ -1,6 +1,6 @@
 ---
 name: norm-historie-und-aenderungen
-description: "Prueft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Uebergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sein koennten."
+description: "Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sein koennten."
 ---
 
 # Norm-Historie und Änderungen
@@ -27,9 +27,7 @@ Subsumtion setzt voraus, dass die richtige Normfassung angewendet wird. Für zur
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 10.02.2021 - 2 BvL 8/19, NJW 2021, 1431 — Echte Rückwirkung belastender Normen ist verfassungsrechtlich grundsätzlich verboten; unechte Rückwirkung auf laufende Sachverhalte ist zulässig, wenn Vertrauensschutz des Bürgers das Änderungsinteresse des Gesetzgebers nicht überwiegt.
-- BGH, Urt. v. 25.06.2020 - I ZR 93/19, GRUR 2020, 1293 — Die DSGVO gilt seit 25.05.2018 unmittelbar; für davor abgeschlossene Verarbeitungsvorgänge gilt das alte BDSG/Datenschutzrecht, für andauernde Verarbeitungen gilt die DSGVO ab Geltungsbeginn.
-- BVerfG, Urt. v. 18.07.2019 - 1 BvL 1/18, NVwZ 2019, 1352 — Übergangsregelungen dürfen keine echte Rückwirkung entfalten; sie müssen dem berechtigten Vertrauen auf die Rechtslage Rechnung tragen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -76,14 +74,11 @@ Das System unterscheidet:
 
 ### Schritt 5 — Hinweis auf Wissensgrenze
 
-Das System gibt in jedem Fall den Hinweis: „Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen danach ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
+Das System gibt in jedem Fall den Hinweis: "Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen danach ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB Einl. Rn. 1 ff. (Anwendbares Recht, Übergangsrecht)
-- Fischer StGB § 2 (lex mitior, intertemporales Strafrecht)
-- Maurer/Waldhoff Allg. Verwaltungsrecht § 11 (Rückwirkungsverbot, Vertrauensschutz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - Maßgeblicher Zeitpunkt (Nutzerangabe)
@@ -97,8 +92,6 @@ Das System gibt in jedem Fall den Hinweis: „Diese Angaben zur Normfassung ents
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BGH VIII ZR 265/18 (WRONG_TOPIC: echtes Thema Informationspflicht alternative Streitbeilegung § 36 VSBG, nicht lex temporis actus Vertragsrecht)
   → Falsche Rechtsprechungszeile entfernt
-  → kein gesicherter Ersatz für lex-temporis-actus-Aussage gefunden; Grundsatz weiterhin durch BVerfG Art. 20 Abs. 3 GG / Grüneberg BGB Einl. gedeckt
-  → Quelle BGH VIII ZR 265/18: https://dejure.org/2019,29238
+  → kein gesicherter Ersatz für lex-temporis-actus-Aussage gefunden; Grundsatz weiterhin durch BVerfG Art. 20 Abs. 3 GG / lizenzpflichtige Literaturquelle BGB Einl. gedeckt
 -->

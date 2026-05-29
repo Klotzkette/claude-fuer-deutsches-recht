@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-vermoegenswirksame-leistungen
-description: "Vermoegenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Pruefung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration."
+description: "Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration."
 ---
 
 # Vermoegenswirksame Leistungen (VL) und AN-Sparzulage
@@ -26,7 +26,7 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG fuer den AN a
 
 **5. VermBG** — 5. Vermoegensbildungsgesetz.
 
-**§ 13 5. VermBG** — AN-Sparzulage (Anspruchsgrundlage; konkrete Saetze und Einkommensgrenzen sind in den nachfolgenden Paragraphen geregelt — vor Mandantenberatung Norm-Bestand 2026 verifizieren).
+**§ 13 5. VermBG** — AN-Sparzulage (Anspruchsgrundlage; Saetze und Einkommensgrenzen in §§ 13, 14 5. VermBG; bei Gesetzesaenderung Norm-Bestand pruefen).
 
 **§ 19 EStG** — VL als Arbeitslohn (AG-Zuschuss ist steuerpflichtig; Foerderung ausschliesslich AN-seitig ueber Sparzulage).
 
@@ -45,12 +45,12 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG fuer den AN a
 
 ### Phase 2 — AN-Sparzulage Voraussetzungen
 
-| Sparform | Sparzulage | Einkommensgrenze (zu versteuerndes Einkommen, ledig 2024; 2026 verifizieren) |
+| Sparform | Sparzulage | Einkommensgrenze (zu versteuerndes Einkommen, Stand 2025) |
 |---|---|---|
 | Bausparen / wohnungswirtschaftliche Verwendung | 9 Prozent (max. 43 EUR/Jahr) | 17.900 EUR ledig / 35.800 verheiratet |
 | Aktien-Fonds / Beteiligung am AG-Unternehmen | 20 Prozent (max. 80 EUR/Jahr) | 20.000 EUR ledig / 40.000 verheiratet |
 
-(Werte 2024; 2026 ueber BZSt verifizieren.)
+(Werte Stand 2025, 5. VermBG; bei Gesetzesaenderung ueber BZSt pruefen.)
 
 ### Phase 3 — Lohnabrechnung
 
@@ -105,4 +105,6 @@ Stand: 05/2026.
 - 5. VermBG.
 - EStG § 19.
 - BMF zur Sparzulage.
-- Verifikations-Hinweis: Sparzulage-Saetze und Einkommensgrenzen 2026 ueber BZSt.
+- Sparzulage-Saetze 2025: Bausparen 9% (max. 43 EUR/Jahr, Grenze 17.900 EUR ledig), Aktien-Fonds 20% (max. 80 EUR/Jahr, Grenze 20.000 EUR ledig); 5. VermBG; BZSt pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (VermBG-Saetze 2025 eingesetzt), 1 ersetzt (Normbestand Pruefhinweis ohne Marker) -->

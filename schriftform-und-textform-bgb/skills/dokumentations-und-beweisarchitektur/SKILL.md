@@ -1,6 +1,6 @@
 ---
 name: dokumentations-und-beweisarchitektur
-description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Pruefraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste fuer formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb (Zugangspruefung) und elektronische-form-paragraph-126a-bgb-qes."
+description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste für formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbedürftiger-willenserklärung-paragraph-130-bgb (Zugangsprüfung) und elektronische-form-paragraph-126a-bgb-qes."
 ---
 
 # Dokumentations- und Beweisarchitektur
@@ -22,16 +22,12 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 - § 257 HGB (Aufbewahrungspflichten kaufmännischer Unterlagen)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 04.06.2014 – VIII ZR 289/13, NJW 2014, 2480 — Den Erklärenden trifft die Beweislast für den Zugang seiner Willenserklärung; er muss Absendung und Eingang im Machtbereich des Empfängers beweisen.
-<!-- AUDIT 27.05.2026: VIII ZR 296/18 (NOT_FOUND bei dejure.org) geloescht. -->
-3. BGH, Urt. v. 03.07.2008 – III ZR 310/06, NJW 2008, 3066 — Eine Kopie oder ein Fax begründet nur einfache Beweiskraft; für den Urkundenbeweis ist die Vorlage des Originals nach § 420 ZPO erforderlich.
-<!-- AUDIT 27.05.2026: VIII ZR 332/18 (WRONG_TOPIC: Urteil betrifft Modernisierungsmassnahmen Mietrecht, nicht Anwaltshaftung/Aktenarchivierung) geloescht. -->
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 416 Rn. 1 ff. (Beweiskraft privater Urkunden).
-- Grüneberg, BGB, 83. Aufl. 2024, § 130 Rn. 1 ff. (Zugang und Beweislast).
-- MuKo-ZPO/Schreiber, 6. Aufl. 2023, § 371a Rn. 1 ff. (qES-Beweiskraft).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 130 BGB** — Zugang: Beweislast beim Erklärenden
@@ -48,7 +44,7 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 Der Erklärende trägt die Beweislast für den Zugang seiner Willenserklärung beim Empfänger (BGH-Dauerrechtsprechung). Kommt es zum Streit über den Zugang, muss der Erklärende beweisen:
 - Dass die Erklärung abgeschickt wurde
 - Dass sie im Machtbereich des Empfängers eingegangen ist
-- Bei qES: dass das Dokument mit prüfbarer Signatur eingegangen ist (BGH VIII ZR 159/23)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Originalurkunde und Beweiskraft
 
@@ -184,7 +180,6 @@ Bitte leiten Sie alle diese Unterlagen zeitnah an unsere Kanzlei weiter.
 - → `prozessablauf-papier-vs-elektronisch`
 - → `elektronische-form-paragraph-126a-bgb-qes`
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-
 
 ---
 

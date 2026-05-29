@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-kommandocenter
-description: "Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltspruefung § 409 StPO Beweis Einlassung Verstaendigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch fuer die isolierte Fristpruefung."
+description: "Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltsprüfung § 409 StPO Beweis Einlassung Verständigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch für die isolierte Fristprüfung."
 ---
 
 # Strafbefehl-Verteidiger — Kommandocenter
@@ -66,16 +66,11 @@ Dieses Kommandocenter ist der Einstiegspunkt fuer alle Mandate im Strafbefehlsve
 
 ## Aktuelle Querschnitts-Rechtsprechung
 
-- BGH, Beschl. v. 11.10.2022 - 4 StR 194/22, NStZ 2023, 184 — Wiedereinsetzung nach § 44 StPO setzt fehlendes Verschulden voraus; unrichtige Fristberechnung durch Gericht schließt Verschulden des Verteidigers aus.
-- BVerfG, Urt. v. 19.03.2013 - 2 BvR 2628/10, NJW 2013, 1058 — Strafbefehlsverfahren mit Verstaendigung ist verfassungskonform, aber Formstrenge des § 257c StPO muss gewahrt sein.
-- BGH, Urt. v. 25.01.2022 - 1 StR 431/21, NStZ 2022, 318 — Schweigrecht darf nicht nachteilig gewertet werden; gilt auch im Strafbefehlsverfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO §§ 407-412 (vollstaendige Kommentierung Strafbefehlsverfahren)
-- Fischer StGB §§ 40, 46, 46a (Geldstrafe, Strafzumessung, TOA)
-- Schoenke/Schroeder StGB § 46 (Strafzumessung Praxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Harte Leitplanken
 
 - Frist immer zuerst — kein Schritt ohne Fristensicherung.

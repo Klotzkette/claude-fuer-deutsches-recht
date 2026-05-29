@@ -1,6 +1,6 @@
 ---
 name: ips-stakeholder-kommunikation
-description: "Glaeubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht ueber Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Glaeubigerinfo. Pruefraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Ueberversprechungen. Output: Kommunikationsmatrix Glaeubiger-Q-A Terminskript. Abgrenzung: nicht fuer Gerichtsschriftsaetze (ips-gerichtliche-schritte)."
+description: "Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Gläubigerinfo. Prüfraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Überversprechungen. Output: Kommunikationsmatrix Gläubiger-Q-A Terminskript. Abgrenzung: nicht für Gerichtsschriftsaetze (ips-gerichtliche-schritte)."
 ---
 
 # Stakeholder-Kommunikation
@@ -48,10 +48,7 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
-- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — Insolvenzplan Obstruktionsverbot § 245 InsO: Plan kann gegen ablehnende Gruppen bestaetigt werden wenn kein Glaeubiger schlechter gestellt als in Liquidation (Best-Interest-Test) und Mehrheit der Gruppen zugestimmt hat; Vergleichsrechnung muss Liquidationswerte nachvollziehbar darstellen.
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG-Mehrheiten § 25 StaRUG: 75%-Schwelle bezogen auf Summe der abstimmenden Glaeubiger je Klasse; nicht abstimmende Glaeubiger zaehlen nicht im Nenner; strategisches Nicht-Teilnehmen moeglich.
-- BGH, Urt. v. 22.01.2015 — IX ZB 113/14, NZI 2015, 259 — Planbestaetigung § 248 InsO: Gericht prueft von Amts wegen alle Annahmeverweigerungsgruende; Plan kann nur bestaetigt werden wenn formell und materiell korrekt; Klassenbildungsfehler fuehrt zur Ablehnung.
-- BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Plan-Abstimmung und Stimmrechte § 238 InsO: Stimmrecht nach Forderungshoehe; Bestrittene Forderungen werden nach § 237 InsO zur Abstimmung zugelassen wenn Gericht Stimmrecht nach § 238a InsO festsetzt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 
@@ -66,8 +63,6 @@ Bevor losgelegt wird, klaere:
 4. **Vergleichsrechnung?** Liquidationswert als Referenz fuer Best-Interest-Test berechnen.
 5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Eidenmüller §§ 217-269 InsO Rn. 1 ff. — Insolvenzplan-Recht umfassend.
-- Uhlenbruck/Lüer §§ 217-230 InsO Rn. 1 ff. — Plan-Struktur und gestaltender Teil.
-- Braun/Herzig, StaRUG, §§ 7-39 StaRUG — StaRUG-Plan-Architektur im Detail.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

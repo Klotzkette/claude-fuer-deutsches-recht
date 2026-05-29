@@ -1,12 +1,21 @@
 # Testakte: Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-europarecht-kompass-beihilfe-richtlinie` (diese Akte) | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Akte einer deutschen Kommune (Stadt Lindenhafen, Niedersachsen), die ihrer kommunalen Fernwärmetochter einen Investitionszuschuss von 14 Mio. Euro für die Klimawende gewährt – mit anschließender Wettbewerberbeschwerde bei der EU-Kommission und Vorabentscheidungsersuchen an den EuGH. Alle Namen, Zahlen, Aktenzeichen und Adressen sind frei erfunden.
 
 ---
 
 ## Sachverhalt
 
-Die Stadt Lindenhafen (ca. 42.000 Einwohner, Landkreis Heidegrund, Niedersachsen) betreibt über ihre 100-prozentige Tochtergesellschaft KommunalWärme Lindenhafen GmbH (KWL) ein kommunales Fernwärmenetz, das bisher auf Erdgas basiert. Vor dem Hintergrund der europäischen Klimaschutzziele beschloss der Stadtrat am 14. März 2023 mit 29 zu 8 Stimmen, der KWL einen nicht rückzahlbaren Investitionszuschuss von 14 Mio. Euro zu gewähren (Projekt „WärmeWende Lindenhafen 2026"): Errichtung einer 12-MW-Wärmepumpenanlage, Erneuerung von 8,4 km Leitungstraßen und Erschließung zweier neuer Stadtgebiete.
+Die Stadt Lindenhafen (ca. 42.000 Einwohner, Landkreis Heidegrund, Niedersachsen) betreibt über ihre 100-prozentige Tochtergesellschaft KommunalWärme Lindenhafen GmbH (KWL) ein kommunales Fernwärmenetz, das bisher auf Erdgas basiert. Vor dem Hintergrund der europäischen Klimaschutzziele beschloss der Stadtrat am 14. März 2023 mit 29 zu 8 Stimmen, der KWL einen nicht rückzahlbaren Investitionszuschuss von 14 Mio. Euro zu gewähren (Projekt "WärmeWende Lindenhafen 2026"): Errichtung einer 12-MW-Wärmepumpenanlage, Erneuerung von 8,4 km Leitungstraßen und Erschließung zweier neuer Stadtgebiete.
 
 Die Wirtschaftsförderin der Stadt, Dr. Anja Rennekamp, qualifizierte die Maßnahme intern als kommunale Daseinsvorsorge und sah keine Notifizierungspflicht nach Art. 108 Abs. 3 AEUV. Die Rechtsabteilung (RA Markus Glöckner) wies in einem internen Vermerk auf erhebliche EU-beihilferechtliche Risiken hin – eine förmliche AGVO-Prüfung blieb unvollständig. Dennoch erging am 5. September 2023 der Förderbescheid (AZ: WF-2023-0047/EUR).
 

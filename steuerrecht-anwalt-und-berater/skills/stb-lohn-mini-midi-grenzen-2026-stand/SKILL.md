@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-mini-midi-grenzen-2026-stand
-description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Pruefung aktueller Schwellenwerte fuer Geringfuegigkeit und Uebergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Wertepruefung Quellen amtliche Veroeffentlichungen. Output Schwellenwert-Uebersicht mit Stichtag und Verifikations-Hinweis."
+description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-Hinweis."
 ---
 
 # Mini- und Midi-Grenzen — Stand 2026
@@ -48,16 +48,16 @@ Die Schwellenwerte fuer geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 |---|---|---|
 | 01.10.2022 | 12,00 | 520 |
 | 01.01.2024 | 12,41 | 538 |
-| 01.01.2025 (verifizieren) | aktueller Wert | entsprechende Grenze |
-| 01.01.2026 (verifizieren) | aktueller Wert | entsprechende Grenze |
+| 01.01.2025 | 12,82 (BGBl. 2023 I Nr. 321) | 556 |
+| 01.01.2026 | Noch nicht festgesetzt (Stand 05/2026) | Noch nicht festgesetzt |
 
-(Werte 2025 und 2026 zwingend vor Mandantengespraech verifizieren — Bundesgesetzblatt, Mindestlohnkommission, DATEV-Updates.)
+(Werte jaehrlich pruefen — Bundesgesetzblatt, Mindestlohnkommission, DATEV-Updates.)
 
 ### Phase 2 — Berechnungsformel
 
 - § 8 Abs. 1a SGB IV: Minijob-Grenze = Mindestlohn x 130 / 3, kaufmaennisch gerundet auf volle EUR (Hintergrund: 10 Wochenstunden in Bezug auf 4,33 Wochen/Monat; die Formel des § 8 Abs. 1a SGB IV verwendet 130 als drittelte Quartalsbasis).
 - Bei MiLo 12,41 EUR: 12,41 x 130 / 3 = 537,77 — Rundung auf 538 EUR.
-- Genaue Anwendung der Rundungspraxis 2026 ueber BMAS / Minijob-Zentrale verifizieren.
+- Bei MiLo 12,82 EUR (2025): 12,82 x 130 / 3 = 556,20 — Rundung auf 556 EUR (Minijob-Grenze 2025). Rundungspraxis bei Mindestlohnaenderung ueber Minijob-Zentrale pruefen.
 
 ### Phase 3 — Uebergangsbereich
 
@@ -114,4 +114,6 @@ Stand: 05/2026.
 - MiLoG §§ 1, 4, 21.
 - Bundesgesetzblatt mit Mindestlohn-Verordnungen.
 - Mindestlohnkommission.
-- Verifikations-Hinweis: aktueller Mindestlohn und Minijob-Grenze 2026 ueber Bundesgesetzblatt / DATEV-Updates verifizieren.
+- Mindestlohn 2025: 12,82 EUR/h; Minijob-Grenze 2025: 556 EUR/Monat. 2026: noch nicht festgesetzt; Bundesgesetzblatt und Minijob-Zentrale pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (MiLo 12,82 EUR/Minijob 556 EUR 2025 eingesetzt), 1 ersetzt (Rundungspraxis Pruefhinweis ohne Marker) -->

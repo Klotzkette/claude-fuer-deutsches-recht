@@ -1,6 +1,6 @@
 ---
 name: mandanten-kommunikations-log
-description: "Mandantenkommunikation dokumentieren und Kommunikations-Log fuehren: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollstaendig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Pruefraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Uebergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Uebergabe fuer Mandats-Uebergabe und zu Status-Skill."
+description: "Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill."
 ---
 
 # /mandanten-kommunikations-log
@@ -36,7 +36,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 
 ## Eingaben
 
-- Aktenzeichen oder anonyme Mandantenkennung (z. B. „M-2024-17")
+- Aktenzeichen oder anonyme Mandantenkennung (z. B. "M-2024-17")
 - Datum und Uhrzeit des Kontakts
 - Art des Kontakts: persönlich | telefonisch | schriftlich (Brief/E-Mail/Fax) | durch Dritte (Dolmetscher)
 - Beteiligte: Studierender, Anleiter, Mandant, Behörde/Gericht, Dolmetscher
@@ -94,7 +94,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 ### Mandantenbrief / Schriftsatz
 - Versanddatum und -weg (Brief mit Einschreiben / Fax mit Sendebericht / E-Mail mit Lesebestätigung) notieren.
 - Anlagen auflisten.
-- Freigabe durch Anleiter vor Versand? → Status „Freigabe erteilt von [Name/Kürzel] am [Datum]".
+- Freigabe durch Anleiter vor Versand? → Status "Freigabe erteilt von [Name/Kürzel] am [Datum]".
 
 ## Ablauf
 

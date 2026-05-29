@@ -31,7 +31,7 @@ vollständig auf elektronischem Wege erfolgte:
 
 ### 1. Gesetzliche Grundlage
 
-§ 14 Abs. 4 TzBfG bestimmt: *„Die Befristung des Arbeitsvertrages bedarf zu ihrer
+§ 14 Abs. 4 TzBfG bestimmt: *"Die Befristung des Arbeitsvertrages bedarf zu ihrer
 Wirksamkeit der Schriftform."*
 
 Die Schriftform richtet sich nach § 126 BGB. § 126 Abs. 1 BGB verlangt, dass die Urkunde
@@ -41,10 +41,10 @@ derselben Urkunde erfolgt; werden über den Vertrag mehrere gleichlautende Urkun
 aufgenommen, genügt es, wenn jede Partei die für die andere Partei bestimmte Urkunde
 unterzeichnet.
 
-§ 14 Abs. 4 TzBfG schließt die Ersetzung der Schriftform durch die **elektronische Form**
-(§ 126a BGB) ausdrücklich aus. Dies ergibt sich aus dem Wortlaut sowie aus § 125 Satz 2
-BGB, der bei vertraglicher Schriftform die Vermutung aufstellt, dass im Zweifel die
-Nichtbeachtung der Form die Nichtigkeit bewirkt (vgl. hier § 16 TzBfG als Spezialvorschrift).
+§ 126 Abs. 3 BGB lässt die Ersetzung der Schriftform durch die elektronische Form zu,
+wenn sich aus dem Gesetz nichts anderes ergibt. Eine elektronische Form nach § 126a BGB
+setzt jedoch eine qualifizierte elektronische Signatur voraus. Ein bloßes Scan-PDF oder
+eine per E-Mail übermittelte Bildunterschrift genügt nicht.
 
 ### 2. Subsumtion: E-Mail-Übermittlung + Scan-Rücksendung
 
@@ -54,11 +54,11 @@ Die Beklagte hat den Arbeitsvertrag ausschließlich als PDF-Datei per E-Mail üb
 Ein körperliches Schriftstück mit der eigenhändigen Unterschrift der Beklagten (vertreten
 durch Schönfeld) wurde der Mandantin zu keinem Zeitpunkt ausgehändigt.
 
-Nach der ständigen Rechtsprechung des Bundesarbeitsgerichts (vgl. BAG, Urt. v. 01.12.2004,
+Nach der Rechtsprechung des Bundesarbeitsgerichts (vgl. BAG, Urt. v. 01.12.2004,
 7 AZR 198/04; BAG, Urt. v. 16.04.2008, 7 AZR 1048/06) ist für die Einhaltung des
-Schriftformerfordernisses des § 14 Abs. 4 TzBfG erforderlich, dass die Befristungsabrede
-in einem körperlichen Schriftstück (Urkunde) niedergelegt ist, das von beiden Parteien
-eigenhändig unterzeichnet wurde.
+Schriftformerfordernisses bei Papierurkunden erforderlich, dass die Befristungsabrede
+in einer Urkunde oder in gleichlautenden Ausfertigungen niedergelegt ist, die von den
+Parteien formwirksam unterzeichnet wurden.
 
 #### b) Scan-PDF als elektronisches Dokument
 
@@ -68,7 +68,8 @@ keine eigenhändige Namensunterschrift. Das Dokument verlässt die Papierform un
 ein elektronisches Dokument umgewandelt, das die körperliche Urkundenqualität verliert.
 
 Für die elektronische Form wäre gemäß § 126a BGB eine qualifizierte elektronische Signatur
-nach dem Signaturgesetz bzw. der eIDAS-Verordnung erforderlich. Diese liegt unstreitig nicht vor.
+erforderlich. Diese liegt unstreitig nicht vor; die Akte enthält nur Ausdruck, Handsignatur
+der Arbeitnehmerin, Scan und E-Mail-Rücksendung.
 
 #### c) Zwischenergebnis
 
@@ -101,16 +102,15 @@ Arbeitgeber dar.
 
 Das Bundesverfassungsgericht hat mit Beschluss vom 06.06.2018 (1 BvL 7/14, 1 BvR 1375/14)
 entschieden, dass § 14 Abs. 2 Satz 2 TzBfG verfassungskonform dahingehend auszulegen ist,
-dass das Verbot nicht eingreift, wenn eine Vorbeschäftigung „sehr lange zurückliegt, ganz
-anders geartet war oder von sehr kurzer Dauer war". Das BVerfG hat dabei keine feste
-Jahresgrenze festgelegt, aber deutlich gemacht, dass Zeitabstände von ca. 3 Jahren und
-darüber regelmäßig ausreichend sind.
+dass das Verbot ausnahmsweise nicht eingreift, wenn eine Vorbeschäftigung sehr lange
+zurückliegt, ganz anders geartet war oder von sehr kurzer Dauer war. Eine starre
+Drei-Jahres-Grenze gibt es nicht.
 
 ### 3. Subsumtion
 
 Im vorliegenden Fall:
-- **Zeitabstand:** 2 Jahre und 5 Monate (30.09.2021 → 01.03.2024) — unterhalb der
-  typischen Grenze von 3 Jahren, aber kein Extremfall.
+- **Zeitabstand:** 2 Jahre und 5 Monate (30.09.2021 → 01.03.2024) — nicht sehr lang,
+  aber auch kein klassischer unmittelbarer Anschluss.
 - **Andere Tätigkeit:** Lager/Posteingang (2021) vs. Kundenservice/Vertragsmanagement (2024)
   → erheblich unterschiedliche Tätigkeitsfelder.
 - **Anderer Standort:** Betriebshof Rudower Straße 14 vs. Hauptniederlassung Britzer Damm 221.

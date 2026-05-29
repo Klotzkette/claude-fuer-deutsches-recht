@@ -1,6 +1,6 @@
 ---
 name: europarecht-verordnung-beschluss-soft-law
-description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit pruefen. Art. 288 AEUV EU-Rechtsquellen. Pruefraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht fuer Richtlinien (europarecht-richtlinie-umsetzung)."
+description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung)."
 ---
 
 # Verordnung, Beschluss und Soft Law
@@ -50,8 +50,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 ## Vertiefung: Abgrenzung und Leitsaetze
 
-- EuGH, Urt. v. 31.03.1971 - 22/70 (AETR/Kommission), EuGHE 1971, 263 — AETR-Grundsatz: Kommissions-Empfehlungen und -Mitteilungen koennen rechtliche Wirkungen entfalten wenn sie Aussenwirkung haben; Bindungswirkung trotz fehlender Verbindlichkeit.
-- EuGH, Urt. v. 13.12.1989 - C-322/88 (Grimaldi), EuGHE 1989, 4407 — Empfehlungen: kein Klagerecht aber nationales Gericht muss bei Auslegung nationalen Rechts Empfehlungen beruecksichtigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage Rechtsakt-Klassifikation
 

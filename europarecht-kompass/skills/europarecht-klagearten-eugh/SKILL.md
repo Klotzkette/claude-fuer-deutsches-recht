@@ -1,6 +1,6 @@
 ---
 name: europarecht-klagearten-eugh
-description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen pruefen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untaetigkeitsklage Schadensersatz. Pruefraster: Klageart Klagebefugnis Fristen Zustaendigkeit Zulaessigkeit Begruendung. Output: Klagearten-Pruefschema Zulaessigkeitsanalyse. Abgrenzung: nicht fuer Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung)."
+description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung)."
 ---
 
 # EuGH-Klagearten und Rechtsschutz
@@ -59,10 +59,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 15.07.1963 - 25/62 (Plaumann), EuGHE 1963, 213 — Plaumann-Formel: individuelle Betroffenheit bei Nichtigkeitsklage natuerlicher/juristischer Personen strenge Anforderung; Klaeger muss in besonderer Weise aus dem Kreis anderer herausgehoben sein.
-- EuGH, Urt. v. 25.07.2002 - C-50/00 P (UPA), NJW 2002, 3541 — Rechtsschutzluecke bei Verordnungen; Vorabentscheidungsverfahren als Hauptweg fuer Private; Klage nach Art. 263 Abs. 4 AEUV sehr beschraenkt fuer allgemeine Rechtsakte.
-- EuGH, Urt. v. 11.06.2013 - C-335/09 P (Polen/Kommission), EuZW 2013, 663 — Nichtigkeitsklage Mitgliedstaat: privilegierter Klager ohne Betroffenheitsnachweis; Frist 2 Monate ab Bekanntmachung/Notifizierung.
-- EuGH, Urt. v. 02.04.2020 - C-123/18 P (HTTS/Rat), EuZW 2020, 600 — Amtshaftung Art. 340 AEUV: hinreichend qualifizierter Verstoss gegen Unionsrecht erforderlich; Beweislast Kausalitaet liegt beim Klaeger.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette EuGH-Klagearten
 
@@ -73,12 +70,9 @@ Bevor losgelegt wird, klaere:
 - **Art. 278 AEUV** — Vorlaufiger Rechtsschutz beim EuGH (Antrag auf Aussetzung)
 - **EuGH-Satzung Art. 56** — Frist Rechtsmittel gegen EuG-Urteile: 2 Monate
 
-## Kommentarliteratur
+## Quellenregel
 
-- Pechstein/Drechsler, in: Streinz, EUV/AEUV, Art. 263-265 AEUV Rn. 1-80
-- Ehricke, in: Streinz, Art. 267 AEUV Rn. 1-60 — Vorabentscheidungsverfahren
-- Schwarze, EU-Kommentar, Art. 263, 265, 268 AEUV
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Klagebefugnis-Pruefmemo
 
 **Adressat:** Kanzlei-intern / Mandant

@@ -1,6 +1,6 @@
 ---
 name: gutachten-uebung
-description: "Gutachten Uebung fuer Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht oeffentliches Recht. Pruefraster Gutachten-Schema korrekt, Definitionen vollstaendig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterloesung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre fuer reine Methodik und zu Examensvorbereitung-Fragen."
+description: "Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen."
 ---
 
 # Gutachtenstil-Übung
@@ -21,32 +21,27 @@ Diese Skill bewertet die Struktur einer eingereichten Klausurbearbeitung oder er
 - **Lösung des Studierenden** (als Text einfügen)
 - **Rechtsgebiet** (BGB AT, Schuldrecht, Sachenrecht, StGB AT/BT, VerwR, Öffentliches Recht etc.)
 - **Prüfungsformat** (Erste Prüfung / Zweite Staatsprüfung / Hausarbeit / Seminararbeit)
-- Optional: **Schwerpunktprobleme** (z. B. „Schwerpunkt: Kausalität im Deliktsrecht")
+- Optional: **Schwerpunktprobleme** (z. B. "Schwerpunkt: Kausalität im Deliktsrecht")
 
 ## Rechtlicher Rahmen
 
 Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutschen juristischen Denkens. Maßgeblich sind:
 
 **Methodenlehre und Auslegungslehre:**
-- Larenz/Wolf, BGB Allgemeiner Teil, 9. Aufl. 2004, § 4 — Subsumtionsmethode
 - Looschelders/Roth, Juristische Methodik im Prozess der Rechtsanwendung, 1996
 - Schmalz, Methodenlehre für das juristische Studium, 4. Aufl. 1998
 
 **Anspruchsgrundlagenprüfung (BGB):**
-- BGH, Urt. v. 19.09.2006 – XI ZR 204/04, BGHZ 169, 109 Rn. 20 ff. — Anspruchskonkurrenz und Prüfungsreihenfolge
-- BGH, Urt. v. 14.10.2003 – VI ZR 425/02, NJW 2004, 356 Rn. 8 — Anspruchsgrundlage § 823 Abs. 1 BGB, Subsumtion unter Schutzgut
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Strafrecht — Deliktsaufbau:**
-- BGH, Urt. v. 22.03.2012 – 4 StR 558/11, NJW 2012, 1524 Rn. 9 — Prüfung des Tatbestandsvorsatzes
-- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 — dolus eventualis (Lederriemen-Fall)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare und Literatur:**
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, Einl. Rn. 1 — zur Auslegung und Subsumtionstechnik (vormals Palandt; seit 81. Aufl. 2022 unter dem Namen Grüneberg)
-- Schubert, in: MüKoBGB, 9. Aufl. 2021, § 242 Rn. 5 — Treu und Glauben als Korrektiv
-- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020, § 7 Rn. 1 — Aufbau der Straftat (Lehrbuch, keine Kommentarzitierung)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **EU-Recht im Gutachten:**
-- EuGH, Urt. v. 05.04.2016 – C-689/13, NJW 2016, 2175 (Puligienica) — Vorrang des Unionsrechts und Nichtanwendungsgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 288 AEUV: Verordnungen direkt anwendbar; Richtlinien nach Umsetzung oder bei unmittelbarer Wirkung
 
 ## Ablauf
@@ -64,7 +59,7 @@ Nutzer nennt Rechtsgebiet und Schwierigkeit (Einsteiger / Fortgeschritten / Exam
 Für jeden Anspruch / jede Strafbarkeit / jede Verwaltungsrechtsfrage:
 
 **a) Obersatz**
-- Ist ein Obersatz vorhanden? (Form: „A könnte gegen B einen Anspruch auf … aus § … haben.")
+- Ist ein Obersatz vorhanden? (Form: "A könnte gegen B einen Anspruch auf … aus § … haben.")
 - Ist er präzise? Benennt er Anspruchsinhaber, Anspruchsgegner, Anspruchsziel und Anspruchsgrundlage?
 
 **b) Definition**
@@ -83,7 +78,7 @@ Für jeden Anspruch / jede Strafbarkeit / jede Verwaltungsrechtsfrage:
 
 **e) Hilfsgutachten**
 - Bei verneintem Obersatz: Wird ein Hilfsgutachten eröffnet, soweit es prüfungsrelevant ist?
-- Form: „Selbst wenn … wäre zu prüfen, ob …"
+- Form: "Selbst wenn … wäre zu prüfen, ob …"
 
 **f) Prüfungsreihenfolge**
 - BGB: vertragliche vor gesetzlichen Ansprüchen (§§ 280 ff. → §§ 823 ff. → § 812 ff.)
@@ -117,7 +112,7 @@ Je Anspruchsgrundlage:
 
 ## Subsumtions-Qualität
 
-[Wurden Sachverhaltsmerkmale konkret unter die Tatbestandsmerkmale gefasst? Beispiel für das häufigste Defizit: „Sie nennen § 823 Abs. 1 BGB und die Körperverletzung, aber Sie schreiben nicht, *dass und warum* das Stoßen auf dem glatten Boden die Verletzung verursachte im Sinne der Äquivalenztheorie."]
+[Wurden Sachverhaltsmerkmale konkret unter die Tatbestandsmerkmale gefasst? Beispiel für das häufigste Defizit: "Sie nennen § 823 Abs. 1 BGB und die Körperverletzung, aber Sie schreiben nicht, *dass und warum* das Stoßen auf dem glatten Boden die Verletzung verursachte im Sinne der Äquivalenztheorie."]
 
 ## Prüfungsreihenfolge
 
@@ -142,15 +137,15 @@ Klausurniveau: [bestanden / grenzwertig / nicht bestanden] — Begründung in ei
 *Nur wenn ein konkreter Strukturfehler gezeigt werden muss. Maximal ein Beispiel, deutlich markiert.*
 
 > Demonstrationsformulierung (eigene Variante schreiben, nicht kopieren):
-> „[abstraktes Beispiel der strukturellen Technik — niemals zu dem konkreten Anspruch des Sachverhalts]"
+> "[abstraktes Beispiel der strukturellen Technik — niemals zu dem konkreten Anspruch des Sachverhalts]"
 ```
 
 ### Schritt 4: Muster festhalten
 
 Nach 3+ Sitzungen: Fehlermuster benennen:
-- „In drei Klausuren fehlte die Subsumtion bei § 823 Abs. 1 BGB konsequent."
-- „Die Prüfungsreihenfolge ist stets korrekt; das Defizit liegt bei der Definitionsgenauigkeit."
-- „Hilfsgutachten werden nie eröffnet — auch wenn es klausurtaktisch geboten wäre."
+- "In drei Klausuren fehlte die Subsumtion bei § 823 Abs. 1 BGB konsequent."
+- "Die Prüfungsreihenfolge ist stets korrekt; das Defizit liegt bei der Definitionsgenauigkeit."
+- "Hilfsgutachten werden nie eröffnet — auch wenn es klausurtaktisch geboten wäre."
 
 ## Ausgabeformat
 
@@ -162,18 +157,18 @@ Strukturiertes Feedback nach dem Schema in Schritt 3. Kein Umschreiben der Klaus
 
 **Erwartete Prüfungspunkte:** § 604 BGB (Leihvertrag — Herausgabeanspruch), § 280 Abs. 1 BGB i.V.m. § 604 BGB (Schadensersatz wegen Pflichtverletzung durch Weiterbenutzung nach Fälligkeit), § 987 BGB (Nutzungsersatz — Eigentumsrecht als Anspruchsgrundlage gegenüber unrechtmäßigem Besitzer).
 
-Typischer Defizit-Befund: Studierende nennen § 985 BGB (Eigentumsherausgabe) vor § 604 BGB — falsche Reihenfolge (vertragliche Ansprüche gehen vor). Subsumtion bei § 280 Abs. 1 BGB: „B hat die Pflichtverletzung begangen" ohne Darlegung, welche Vertragspflicht verletzt wurde und dass Fälligkeit eingetreten ist.
+Typischer Defizit-Befund: Studierende nennen § 985 BGB (Eigentumsherausgabe) vor § 604 BGB — falsche Reihenfolge (vertragliche Ansprüche gehen vor). Subsumtion bei § 280 Abs. 1 BGB: "B hat die Pflichtverletzung begangen" ohne Darlegung, welche Vertragspflicht verletzt wurde und dass Fälligkeit eingetreten ist.
 
 ## Risiken und typische Fehler
 
 - **Urteilsstil statt Gutachtenstil**: In der Klausur wird nie mit dem Ergebnis begonnen — das ist Urteilsstil. Der Obersatz ist Hypothese, nicht Feststellung.
-- **Definition überspringen**: Direkt in die Subsumtion einzusteigen ohne Definitionsebene führt zum Punktverlust. Auch wenn das Tatbestandsmerkmal „offensichtlich" vorliegt, muss die Prüfung vollständig sein.
-- **Parallelreihung statt Subsumtion**: „B hat das Fahrrad nicht zurückgegeben. Pflichtverletzung ist gegeben." — Das ist keine Subsumtion. Subsumtion verknüpft den Sachverhalt mit dem Tatbestandsmerkmal durch Begründung.
+- **Definition überspringen**: Direkt in die Subsumtion einzusteigen ohne Definitionsebene führt zum Punktverlust. Auch wenn das Tatbestandsmerkmal "offensichtlich" vorliegt, muss die Prüfung vollständig sein.
+- **Parallelreihung statt Subsumtion**: "B hat das Fahrrad nicht zurückgegeben. Pflichtverletzung ist gegeben." — Das ist keine Subsumtion. Subsumtion verknüpft den Sachverhalt mit dem Tatbestandsmerkmal durch Begründung.
 - **Hilfsgutachten nicht eröffnet**: Wenn der Obersatz verneint wird, kann klausurtaktisch ein Hilfsgutachten erforderlich sein, um Folgefragen zu prüfen. Das kostet Punkte, wenn es fehlt.
 - **EU-Recht ignoriert**: Bei grenzüberschreitenden Sachverhalten (DSGVO, Verbraucherschutz-Richtlinien, Grundfreiheiten) muss Unionsrecht im Gutachten berücksichtigt und ggf. Vorrang geprüft werden (Art. 288 AEUV, Nichtanwendungsgebot).
 
 ## Quellenpflicht
 
-Normangaben und Entscheidungszitate im Feedback entstammen gefestigter Rechtsprechung und Literatur. Für klausurrelevante Definitionen: stets gegen aktuelles Skript (Alpmann, Hemmer, Jura Intensiv, Kaiser) oder Kommentar (Grüneberg — vormals Palandt, seit 81. Aufl. 2022 umbenannt; MüKoBGB) abgleichen. Keine Inhalte aus diesem Feedback ohne Verifikation in eine Hausarbeit übernehmen.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

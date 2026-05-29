@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit
-description: "Sacheinlagebericht fuer Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Pruefraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht fuer Beurkundungsfragen (beurkundungserfordernis-pruefung)."
+description: "Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung)."
 ---
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung
@@ -32,13 +32,12 @@ Dieser Skill erstellt den Sacheinlagebericht und prüft die Werthaltigkeit der a
 - IDW RS HFA 42 (Werthaltigkeit von Forderungen als Sacheinlage)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Differenzhaftung § 9 GmbHG bei Sacheinlage)
-- BGH, Urt. v. 6. Dezember 2010 – II ZR 14/09 (Werthaltigkeit eingebrachter Forderungen – Vollwertigkeit erforderlich)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
 ### 1. Forderungsbewertung
-Die einzubringende Forderung (Wandlungssumme = Darlehensbetrag + Zinsen) muss zum Zeitpunkt der Einbringung werthaltig sein (BGH II ZR 14/09). Werthaltig = vollständig einbringlich (die Gesellschaft ist in der Lage, die Forderung zu erfüllen, oder sie wird durch Einbringung selbst erfüllt = Konfusion).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Konfusions-Argument
 Bei der Einbringung der Forderung als Sacheinlage geht die Forderung auf die Gesellschaft über (Konfusion, § 1976 BGB analog). Die Forderung erlischt, gleichzeitig entsteht das neue Eigenkapital. Werthaltigkeitsfrage: War die Forderung gegen die Gesellschaft vor Konfusion vollwertig?
@@ -95,10 +94,10 @@ entspricht ihrem Nennwert von EUR 275694. Eine Überbewertung liegt nicht vor.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6: Bei der Kapitalerhöhung gegen Sacheinlage haftet der Einbringende nach § 9 GmbHG (Differenzhaftung) für den Betrag, um den der tatsächliche Wert der eingebrachten Sacheinlage hinter dem übernommenen Nennbetrag zurückbleibt; die Differenzhaftung ist verschuldensunabhängig und kann nicht durch gesellschaftsvertragliche Abrede ausgeschlossen werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.12.2010 — **II ZR 14/09**, GmbHR 2011, 295 Rn. 16: Die als Sacheinlage eingebrachte Forderung ist nur dann vollwertig im Sinne des § 56 GmbHG, wenn sie bei Einbringung gegen die Gesellschaft tatsächlich durchsetzbar und nicht ausfallgefährdet ist; ein qualifizierter Rangrücktritt, der erst durch die Einbringung aufgehoben wird (Konfusion), steht der Vollwertigkeit nicht entgegen, sofern die Gesellschaft ohne die Einbringung zahlungsfähig wäre.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. BGH II ZR 14/09 als Leitentscheidung. Bei Änderung GmbHG § 9/§ 56/IDW RS HFA 42 aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-gruppenweite-compliance
-description: "Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9 GwG Gruppenweite Pflichten § 25n KWG Auslagerung Art. 45 AMLD Gruppenweite Verfahren. Pruefraster Policies Auslagerung Dienstleister auslaendische Tochtergesellschaften Datenfluesse Kontrollberichte. Output Gruppenweite Compliance-Matrix mit Policies Kontrollstruktur Eskalationswegen und Berichterstattungslinien. Abgrenzung zu geldwaesche-sicherungsmassnahmen-icp und geldwaesche-audit-internal-revision."
+description: "Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9 GwG Gruppenweite Pflichten § 25n KWG Auslagerung Art. 45 AMLD Gruppenweite Verfahren. Prüfraster Policies Auslagerung Dienstleister auslaendische Tochtergesellschaften Datenfluesse Kontrollberichte. Output Gruppenweite Compliance-Matrix mit Policies Kontrollstruktur Eskalationswegen und Berichterstattungslinien. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision."
 ---
 
 # Gruppenweite Compliance und Outsourcing
@@ -12,10 +12,7 @@ description: "Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaf
 4. Gibt es einen gruppenweiten Policy-Rahmen oder Einzelregelungen pro Einheit?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — 4. EU-GeldwaescheRL verpflichtet Gruppenleitung zur gruppenweiten Durchsetzung von AML-Standards auch in Drittlaendern.
-- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Gruppenleitung haftet fuer AML-Kontrollversagen in Tochtergesellschaften, wenn konzernweite Richtlinien nicht implementiert wurden.
-- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Gruppenweite Aufsicht durch BaFin erfasst auch Auslagerungsdienstleister; Verpflichteter bleibt verantwortlich.
-- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — Kontrollberichte aus Tochtergesellschaften muessen BaFin-prueffaehig sein; fehlende Dokumentation begruendet Massnahmenbescheid.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 9 GwG — Gruppenweite Pflichten und Kontrollen
@@ -23,10 +20,9 @@ description: "Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaf
 - § 25l KWG — Gruppenweite Sorgfaltspflichten fuer Kreditinstitute
 - Art. 45 AMLD4 — Gruppenweite Policies und Verfahren (EU-Recht)
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 9 Rn. 1-50 (Gruppenweite Compliance: Pflichten und Durchsetzung)
-- Schimansky/Bunte/Lwowski Bankrechts-Handbuch § 145 Rn. 60-90 (AML-Gruppenstruktur und Auslagerung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill hilft internationalen Gruppen, AML/KYC nicht nur lokal, sondern steuerbar aufzusetzen.

@@ -4,6 +4,17 @@
 
 ---
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -89,20 +100,20 @@ Passiva II = binnen 3 Wochen fällig (KW t+1 + KW t+2)
 
 Lücke abs. = max(0, (Passiva I + Passiva II) − (Aktiva I + Aktiva II))
 Quote      = Lücke abs. ÷ (Passiva I + Passiva II)   (Volumeneffekt
-             BGH 19.12.2017 – II ZR 88/16, BGHZ 217, 129 Rn. 25 ff.)
+             Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 **Ampel**: 🟢 Quote < 10 % und Liquidität KW t+2 ≥ 0 und < 2 Indizien. 🟡 Quote ≥ 10 %, KW t+2 ≥ 0, < 2 Indizien (schließbar). 🔴 sonst — § 17 InsO indiziert.
 
 ## Leitentscheidungen (Volltexte: `references/rechtsprechung/`)
 
-1. BGH, 19.12.2017 – **II ZR 88/16**, BGHZ 217, 129 (Passiva II; Volumeneffekt)
-2. BGH, 28.06.2022 – **II ZR 112/21**, ZIP 2022, 1606 (Bugwellenrspr.)
-3. BGH, 28.04.2022 – **IX ZR 48/21**, ZIP 2022, 1341 (10-%-Schwelle)
-4. BGH, 23.01.2025 – **IX ZR 229/22**, DB 2025, 381 (titulierte Forderungen)
-5. BGH, 11.03.2025 – **II ZR 139/23** (objektive Umstände)
-6. BGH, 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 (Grundsatzentscheidung)
-7. BGH, 12.10.2006 – IX ZR 228/03, NJW 2007, 78 (Indizienkatalog)
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Berufsständischer Hintergrund: IDW S 11 (12.08.2021), IDW S 6 — nicht im Vordergrund zitieren.
 
@@ -112,4 +123,4 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Quellen-Disclaimer
 
-Alle Aussagen beruhen auf der im Plugin hinterlegten BGH-Rechtsprechung (`references/rechtsprechung/`) und genannter Kommentarliteratur. Die Skills ersetzen keine eigene anwaltliche oder steuerberatende Prüfung im Einzelfall.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

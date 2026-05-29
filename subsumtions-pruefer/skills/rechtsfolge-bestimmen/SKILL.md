@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-bestimmen
-description: "Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprueche. Gibt Berechnungshinweise fuer Schadensersatz und Vertragsstrafen."
+description: "Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensersatz und Vertragsstrafen."
 ---
 
 # Rechtsfolge bestimmen
@@ -29,7 +29,7 @@ Ist der Tatbestand erfüllt und sind Einwendungen und Einreden geprüft, bestimm
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.10.2019 - XI ZR 452/18, NJW 2020, 263 — Verzugszinsen nach § 288 Abs. 2 BGB (B2B) betragen 9 Prozentpunkte über dem Basiszinssatz; der Basiszinssatz wird von der Deutschen Bundesbank halbjährlich festgesetzt und ist auf bundesbank.de abrufbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kategorien von Rechtsfolgen
 
@@ -85,21 +85,6 @@ Tatbestand erfüllt → Rechtsfolge bestimmen
 └─ Nebenansprüche: Verzugszinsen § 288 BGB + RK als SE
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB §§ 249-254 (Schadensrecht) — zentral für Schadensberechnung
-- Hacks/Wellner/Häcker, Schmerzensgeldbeträge (Schmerzensgeld-Orientierungstabelle)
-- MüKo BGB § 288 (Verzugszinsen B2B) — aktuell mit BGH-Rspr.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
----
-
-<!-- AUDIT 27.05.2026 -->
-<!-- Halluzinations-Reparatur: 3 BGH-Entscheidungen geprüft, alle 3 entfernt. -->
-<!-- (1) BGH VIII ZR 401/17, NJW 2020, 1278 (Vertragsstrafe § 343 BGB): AZ auf dejure.org nicht auffindbar, NJW-Fundstelle nicht verifizierbar. Ersatzlos gelöscht. -->
-<!-- (2) BGH VI ZR 433/19, NJW 2021, 863 (Naturalrestitution § 249 BGB): AZ existiert, ist aber Beschluss v. 19.01.2021 zum Diesel-Skandal (§ 826 BGB, NJW 2021, 921). Falsche Thema- und Fundstellenzuweisung. Ersatzlos gelöscht. -->
-<!-- (3) BGH VI ZR 517/19, NJW 2021, 155 (Schmerzensgeld § 253 BGB): AZ auf dejure.org nicht auffindbar, NJW-Fundstelle nicht verifizierbar. Ersatzlos gelöscht. -->
-<!-- Verbleibende Rspr.-Referenz (XI ZR 452/18) wurde nicht beanstandet. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

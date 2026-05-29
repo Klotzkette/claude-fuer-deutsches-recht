@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-und-rechtswahl-pruefen
-description: "Gerichtsstand und Rechtswahl bei internationalen Handelsstreitigkeiten: Brüssel Ia VO 1215/2012 (Art. 25 Gerichtsstandsklausel, Art. 7 Erfüllungsort), Lugano-Übereinkommen 2007 (EFTA), Schiedsklausel-Wirksamkeit § 1029 ZPO, New Yorker Übereinkommen 1958, ICC/LCIA/DIS, Rom I VO 593/2008, Rom II VO 864/2007, CISG-Anwendungsbereich, Anerkennung Auslandsurteil §328 ZPO. BGH II ZB 35/20, EuGH C-537/23."
+description: "Workflow-Skill zu gerichtsstand und rechtswahl pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -44,14 +44,7 @@ description: "Gerichtsstand und Rechtswahl bei internationalen Handelsstreitigke
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| BGH | II ZB 35/20 | 15.06.2021 | Asymmetrische Gerichtsstandsklausel (eine Seite freie Wahl, andere gebunden) nach Art. 25 Brüssel Ia wirksam; keine Überraschungswirkung |
-| EuGH | C-537/23 | 27.02.2025 | Anforderungen an Art. 25 Brüssel Ia: Klausel muss Gericht oder Gerichte konkret benennen; Generalklausel unzureichend |
-| BGH | VIII ZR 60/01 | 23.01.2002 | Wahl "deutsches Recht" schließt CISG nicht aus; CISG ist Teil des deutschen Rechts bei int. Warenkäufen |
-| EuGH | C-585/08 (Pammer/Alpenhof) | 07.12.2010 | Ausrichtung auf Wohnsitzstaat (Art. 17 Brüssel Ia): Webseite mit fremden TLD oder Telefonnummer des Landes genügt |
-| BGH | VII ZR 139/17 | 26.04.2018 | Erfüllungsort Art. 7 Nr. 1 Buchst. b Brüssel Ia Dienstleistung: einheitlicher Gerichtsstand am Ort der hauptsächlichen Leistungserbringung; bei mehreren Erbringungsorten engste Verknüpfung zum Vertrag maßgebend; NJW 2019, 76 |
-| EuGH | C-249/16 (Kareda) | 15.06.2017 | Rückgriffsanspruch zwischen Gesamtschuldnern als vertraglich i.S.v. Art. 7 Nr. 1 |
-| BGH | III ZR 25/20 | 2021 | Schiedsklausel wirksam per E-Mail i.S.v. § 1031 Abs. 1 ZPO; AGB-Einbeziehung im B2B ausreichend |
-| EuGH | C-352/13 (Cartel Damage Claims) | 21.05.2015 | Delikt Art. 7 Nr. 2: bei Kartellschaden Erfolgsort am Sitz des Geschädigten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
@@ -184,11 +177,11 @@ Wir beantragen: Zwangsvollstreckung aus diesem Titel anzuordnen.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion |
 |---------------|---------------------|---------|
-| Gerichtsstandsklausel formunwirksam | Art. 25 Brüssel Ia | E-Mail-Bestätigung ausreichend für Dauerhaftigkeit (BGH III ZR 25/20); AGB-Einbeziehung im B2B nachweisen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schiedsklausel unwirksam (Überraschungsklausel AGB) | § 305c BGB, § 1029 ZPO | Im B2B gilt AGB-Kontrolle eingeschränkt; Klausel nicht überraschend bei handelsüblichen Vertragsbedingungen |
-| Asymmetrische Klausel unzulässig | EuGH-Rspr. | BGH II ZB 35/20 und EuGH C-537/23 erlauben Asymmetrie wenn Gericht benannt; Kanzlei-Formulierung anpassen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Ordre-public-Einwand gegen ausländ. Urteil | Art. 45 Abs. 1 lit. a Brüssel Ia, § 328 Abs. 1 Nr. 4 ZPO | Nur bei Kernverstoß gegen dt. Grundwertungen; bloße Rechtsabweichung genügt nicht |
-| CISG anwendbar, obwohl dt. Recht gewählt | BGH VIII ZR 60/01 | Ausdrückliche CISG-Abbedingungsklausel im Vertrag nachträglich durch Amendment |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Eingriffsnormen vereiteln gewähltes Recht | Art. 9 Rom I | Auftrag an Vertragspartner: Eingriffsnormen (z.B. Embargorecht, Wettbewerbsrecht) ausdrücklich im Vertrag adressieren |
 
 ## Streitwert und Kosten
@@ -226,11 +219,7 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 - Brüssel Ia VO (EU) Nr. 1215/2012, ABl. L 351/1
 - Rom I VO (EG) Nr. 593/2008, ABl. L 177/6
 - Rom II VO (EG) Nr. 864/2007, ABl. L 199/40
-- BGH II ZB 35/20, Beschl. v. 15.06.2021, NJW 2021, 2881
-- EuGH C-537/23, Urt. v. 27.02.2025
-- EuGH C-585/08 (Pammer/Alpenhof), Urt. v. 07.12.2010, NJW 2011, 505
-- BGH VIII ZR 60/01, Urt. v. 23.01.2002, BGHZ 149, 337
-- BGH VII ZR 139/17, Urt. v. 26.04.2018, NJW 2019, 76 (Erfüllungsort Dienstleistung Art. 7 Nr. 1 Brüssel Ia)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geimer, Internationales Zivilprozessrecht, 8. Aufl. 2020
 - Schack, Internationales Zivilverfahrensrecht, 7. Aufl. 2021
 - New Yorker Übereinkommen v. 10.06.1958, BGBl. 1961 II S. 121

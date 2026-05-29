@@ -23,7 +23,7 @@ Zugleich verpflichtet der Digital Services Act (Verordnung (EU) 2022/2065) sehr 
 
 Der Koalitionsvertrag der 21. Wahlperiode sieht in Abschnitt VI.3.2 ausdrücklich vor:
 
-> „Wir wollen die Digitalisierung der Rechtskommunikation entschlossen voranbringen. Alle im Handelsregister eingetragenen Gesellschaften, ihre Zweigniederlassungen sowie sehr große Online-Plattformen und Online-Suchmaschinen im Sinne des Digital Services Act sollen verpflichtet werden, ein elektronisches Pflichtpostfach vorzuhalten. Dieses Pflichtpostfach soll für Zustellungen durch Gerichte, Behörden und in Wahrnehmung öffentlicher Aufgaben handelnde Stellen geeignet sein. Wir gewährleisten Interoperabilität mit den vorhandenen Postfächern."
+> "Wir wollen die Digitalisierung der Rechtskommunikation entschlossen voranbringen. Alle im Handelsregister eingetragenen Gesellschaften, ihre Zweigniederlassungen sowie sehr große Online-Plattformen und Online-Suchmaschinen im Sinne des Digital Services Act sollen verpflichtet werden, ein elektronisches Pflichtpostfach vorzuhalten. Dieses Pflichtpostfach soll für Zustellungen durch Gerichte, Behörden und in Wahrnehmung öffentlicher Aufgaben handelnde Stellen geeignet sein. Wir gewährleisten Interoperabilität mit den vorhandenen Postfächern."
 
 ### 3. Notwendigkeit der Regelung
 
@@ -138,7 +138,7 @@ Der Entwurf vollzieht die Verordnung (EU) 2022/2065 (Digital Services Act). Die 
 
 ### 2. eIDAS-Bezug
 
-Das Pflichtpostfach knüpft an das Vertrauensniveau „hoch" gemäß Artikel 8 Absatz 2 Buchstabe c der eIDAS-Verordnung (Verordnung (EU) Nr. 910/2014) an. Die eIDAS 2.0-Verordnung (Verordnung (EU) 2024/1183) ist zu berücksichtigen und wird in § 4 Absatz 3 Nr. 3 ausdrücklich genannt.
+Das Pflichtpostfach knüpft an das Vertrauensniveau "hoch" gemäß Artikel 8 Absatz 2 Buchstabe c der eIDAS-Verordnung (Verordnung (EU) Nr. 910/2014) an. Die eIDAS 2.0-Verordnung (Verordnung (EU) 2024/1183) ist zu berücksichtigen und wird in § 4 Absatz 3 Nr. 3 ausdrücklich genannt.
 
 ### 3. Notifizierungspflicht 2015/1535
 
@@ -198,7 +198,7 @@ Kein Erfüllungsaufwand. Bürger sind nicht Adressaten der Verpflichtung.
 
 #### d) Stellungnahme Nationaler Normenkontrollrat
 
-Der Nationale Normenkontrollrat hat den Erfüllungsaufwand geprüft und mit Stellungnahme vom [Datum] keine Einwände erhoben. Die Berechnungs-Grundlagen werden als nachvollziehbar bewertet (siehe Anlage „nkr-stellungnahme-vorlage.md").
+Der Nationale Normenkontrollrat hat den Erfüllungsaufwand geprüft und mit Stellungnahme vom [Datum] keine Einwände erhoben. Die Berechnungs-Grundlagen werden als nachvollziehbar bewertet (siehe Anlage "nkr-stellungnahme-vorlage.md").
 
 ### 5. Gleichstellungspolitische Auswirkungen
 

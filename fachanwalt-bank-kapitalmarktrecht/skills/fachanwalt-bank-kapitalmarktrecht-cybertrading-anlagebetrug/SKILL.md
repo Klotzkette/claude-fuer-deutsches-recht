@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug
-description: "Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurueck. § 263 StGB Betrug Zivilansprueche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwaeschegesetz. Pruefraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-pruefen (legale Beratung)."
+description: "Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung)."
 ---
 
 # Cybertrading-Anlagebetrug
@@ -41,8 +41,7 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofortmaßnahmen, Bew
 ### Bankrecht
 
 - **AGB-Banken Nr. 11** — Pflicht der Bank, Kunden auf evidente Betrugsrisiken hinzuweisen.
-- **BGH XI ZR 96/11** — Phishing-Haftung: Bank haftet bei evidenter Auffälligkeit der Transaktion.
-- **BGH XI ZR 91/14** — Mitverschulden bei grober Fahrlässigkeit des Kunden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sofortmaßnahmen — Erste 72 Stunden
 
@@ -246,7 +245,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - KWG § 25h; GwG §§ 2, 60
 - AGB-Banken Nr. 11
 - EStG §§ 20 Abs. 2, 10d
-- BGH XI ZR 96/11; BGH XI ZR 91/14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin-Datenbank unerlaubte Tätigkeiten (bafin.de/unerlaubt)
 - BMF-Schreiben Krypto 22.11.2024
 
@@ -254,9 +253,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ### Ergaenzende Leitsaetze
 
-- BGH, Urt. v. 26.01.2016 - XI ZR 91/14, NJW 2016, 2245 Rn. 19 — Mitverschulden bei Online-Betrug: Kunde handelt grob fahrlaessig, wenn er auf offensichtliche Betrugsanzeichen (Grammatikfehler, unbekannte IBAN, Drucksituationen) nicht reagiert; Quotelung bis 50 %.
-- BGH, Urt. v. 24.03.2022 - III ZR 183/20, NJW 2022, 1385 Rn. 16 — § 826 BGB Anspruch gegen Vermittler: Nachweis des Vorsatzes durch Indizien moeglich wenn Vermittler trotz offensichtlicher Betrugsstruktur weiter warb.
-- OLG Frankfurt, Urt. v. 08.12.2021 - 17 U 7/21, WM 2022, 115 — SEPA-Recall-Anspruch des Kunden gegenueber eigener Bank bei Betrug: Bank muss bestmoegliche Rueckrufanstrengungen unternehmen; unterlassener Recall kann Haftungsgrundlage sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Cybertrading-Betrug
 - § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmaessiger Betrug
@@ -268,5 +265,4 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - § 675x BGB — SEPA-Rueckbuchungsrecht (8 Wochen)
 
 <!-- AUDIT 27.05.2026 bundle_021
-GELÖSCHT: BGH XI ZR 515/21 (13.09.2022) – WRONG_TOPIC: Reales Urteil behandelt Online-Glücksspiel/GlüStV (kein Erstattungsanspruch des Kunden bei autorisierten Kreditkartenzahlungen für illegales Glücksspiel), nicht Bank-Warnpflicht bei Cybertrading gem. § 280 BGB i.V.m. § 25h KWG. Auch Datum falsch (21.11.2022 statt 13.09.2022). Leitsatz vollständig entfernt.
 -->

@@ -23,7 +23,7 @@ Die meisten Kündigungen sind rechtlich unproblematisch. Einige sind Klagen, die
 
 **Schwellenwert:** KSchG gilt für Arbeitnehmer, die länger als 6 Monate beschäftigt sind (§ 1 Abs. 1 KSchG), wenn im Betrieb **mehr als 10 Arbeitnehmer** i.S.d. § 23 KSchG beschäftigt sind (Vollzeitkräfte zählen voll; Teilzeitkräfte bis 20 h = 0,5; bis 30 h = 0,75; Leiharbeitnehmer ohne Berücksichtigung).
 
-**Kleinbetrieb (≤ 10 AN):** Kein allgemeiner KSchG-Schutz, aber Grundrechtsschutz (BAG, Urt. v. 21.02.2001 – 2 AZR 15/00, NZA 2001, 833: Kündigung darf kein verkapptes Diskriminierungsmittel sein `[Modellwissen – prüfen]`); BVerfG, Beschl. v. 27.01.1998 – 1 BvL 15/87, NJW 1998, 1475.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Sonderkündigungsschutz-Check (vor allem anderen)
 
@@ -45,7 +45,7 @@ Falls Betriebsrat vorhanden: **Jede Kündigung vor Ausspruch anhören.** Ohne or
 
 Checkliste:
 - Ist der BR schriftlich informiert worden?
-- Inhalt der Anhörung vollständig? (Personalien, Art der Kündigung, Kündigungsfrist, Kündigungsgrund; BAG, Urt. v. 22.09.1994 – 2 AZR 31/94, NZA 1995, 363 `[Modellwissen – prüfen]`)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Frist abgewartet? (ordentlich: 1 Woche; außerordentlich: 3 Tage; § 102 Abs. 2 BetrVG)
 - Ordnungsgemäße Bedenken des BR beachtet (keine Vetorechte bei ordentlicher Kündigung, aber Widerspruch nach § 102 Abs. 3 BetrVG gibt Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG)
 
@@ -55,11 +55,11 @@ Verweis auf separaten Skill: `/arbeitsrecht:betriebsrat-anhörung`
 
 **A – Betriebsbedingte Kündigung:**
 
-1. **Unternehmerische Entscheidung:** Vom Arbeitgeber frei, aber dringend erforderlich (keine andere zumutbare Beschäftigungsmöglichkeit; BAG, Urt. v. 29.03.2007 – 2 AZR 31/06, NZA 2007, 912 Rn. 21 `[Modellwissen – prüfen]`)
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Wegfall des Arbeitsplatzes:** Konkret und dauerhaft; bloße Umsatzrückgänge genügen nicht
 3. **Weiterbeschäftigung auf freiem vergleichbaren Arbeitsplatz** ausgeschlossen (§ 1 Abs. 2 S. 2 KSchG)
 4. **Sozialauswahl (§ 1 Abs. 3 KSchG)** – zentraler Prüfpunkt (siehe unten)
-5. **Massenentlassung** (§§ 17–18 KSchG): Bei Entlassung von ≥ 5 (kleiner Betrieb) bis ≥ 30 AN (großer Betrieb) innerhalb von 30 Tagen: Anzeigepflicht bei der Agentur für Arbeit VOR Ausspruch der Kündigungen. Fehler führt zur Unwirksamkeit (BAG, Urt. v. 22.11.2012 – 2 AZR 371/11, NZA 2013, 437 `[Modellwissen – prüfen]`)
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Sozialauswahl (§ 1 Abs. 3 KSchG):**
 
@@ -72,12 +72,12 @@ Unter vergleichbaren Arbeitnehmern müssen die sozial am wenigsten schutzwürdig
 Prüfschema:
 1. Vergleichsgruppe bilden (gleiche Hierarchieebene, austauschbar durch Einarbeitung ≤ 3 Monate)
 2. Sozialpunkte berechnen (§ 1 Abs. 3 S. 1 KSchG; keine gesetzliche Punktetabelle – Betriebsvereinbarung oder Interessenausgleich empfohlen)
-3. Herausnahme von Leistungsträgern (§ 1 Abs. 3 S. 2 KSchG): Restriktiv; BAG, Urt. v. 07.07.2011 – 2 AZR 476/10, NZA 2012, 150 `[Modellwissen – prüfen]`
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **B – Verhaltensbedingte Kündigung:**
 
-1. **Abmahnung vorausgegangen?** Grundsätzlich erforderlich außer bei schwerwiegenden Pflichtverletzungen (BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227: „Emmely-Entscheidung" zur Interessenabwägung `[Modellwissen – prüfen]`)
-2. Abmahnung hinreichend bestimmt? (BAG, Urt. v. 19.11.2015 – 2 AZR 217/15, NZA 2016, 540: konkrete Schilderung, klare Verhaltenserwartung, Sanktionsandrohung `[Modellwissen – prüfen]`)
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Interessenabwägung:** Schwere der Pflichtverletzung vs. Dauer der Beschäftigung, Sozialauswahl, Wiederholungsgefahr
 
 Verweis auf separaten Skill: `/arbeitsrecht:abmahnung-arbeitsrecht`
@@ -86,8 +86,8 @@ Verweis auf separaten Skill: `/arbeitsrecht:abmahnung-arbeitsrecht`
 
 1. **Prognose negativer Art:** Weitere erhebliche Fehlzeiten zu erwarten?
 2. **Betriebliche Beeinträchtigung:** Erhebliche Störung des Betriebsablaufs oder Entgeltfortzahlungskosten > 6 Wochen p.a.?
-3. **Interessenabwägung** (BAG, Urt. v. 13.05.2015 – 2 AZR 565/14, NZA 2016, 116 `[Modellwissen – prüfen]`)
-4. **BEM** (Betriebliches Eingliederungsmanagement) nach § 167 Abs. 2 SGB IX: Vor Kündigung durchführen, andernfalls erhöhte Darlegungslast des Arbeitgebers (BAG, Urt. v. 12.07.2007 – 2 AZR 716/06, NZA 2008, 173 `[Modellwissen – prüfen]`)
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Kündigungsfristen (§ 622 BGB / Tarifvertrag)
 
@@ -104,7 +104,7 @@ Verweis auf separaten Skill: `/arbeitsrecht:abmahnung-arbeitsrecht`
 
 Tarifvertragliche Abweichungen prüfen! Ggf. günstigere Individualvereinbarung.
 
-**Außerordentliche Kündigung (§ 626 BGB):** Wichtiger Grund + 2-Wochen-Frist ab Kenntnis (§ 626 Abs. 2 BGB); BAG, Urt. v. 21.06.2012 – 2 AZR 694/11, NZA 2013, 199 `[Modellwissen – prüfen]`.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 6. Abfindungsangebot (§ 1a KSchG)
 
@@ -114,7 +114,7 @@ Arbeitgeber kann mit der Kündigung eine Abfindung nach § 1a KSchG anbieten (0,
 
 **Typische Konstellation:** Unmittelbar vor oder nach Ausspruch der Kündigung – oft zeitgleich mit der Ankündigung einer KSchG-Klage – stellt der Arbeitnehmer oder sein Bevollmächtigter ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist häufig, über den Umweg des Datenschutzrechts Einblick in interne Personalakten, Abmahnungsunterlagen oder Vermerke zu erlangen und so den Arbeitgeber unter Vergleichsdruck zu setzen.
 
-**Maßstab für Rechtsmissbrauch (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler):**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt oder mit angemessenen Kosten belegt werden, wenn der Verantwortliche (Arbeitgeber) zwei Elemente nachweist:
 
 1. **Objektives Element:** Äußere Umstände lassen auf missbräuchliche Zweckverfolgung schließen — z. B. ungewöhnlich kurzer zeitlicher Abstand zwischen Zugang der Kündigung und Auskunftsantrag, Muster massenhafter Legal-Tech-gestützter Antragstellung, Anmeldung zur Datenverarbeitung allein zum Zweck der Anfrage.
@@ -123,9 +123,7 @@ Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt
 Hürden sind **hoch**: Das Auskunftsrecht ist ein Grundrecht (Art. 8 GRCh); Ausnahmen sind eng auszulegen. Auch ein erstmaliges Ersuchen kann exzessiv sein, aber bloße Mehrfachanträge oder die bloße Tatsache vergangener Auskunftsansprüche genügen nicht.
 
 **BAG-Linie zu Art. 82 DSGVO:**
-- BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch eine Auskunftspflichtverletzung nach Art. 15 DSGVO begründet keinen eigenständigen immateriellen Schaden i.S.v. Art. 82 DSGVO, wenn kein objektiv erhöhtes Missbrauchsrisiko nachgewiesen wird. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 17.10.2024 – 8 AZR 215/23: Auskunftsanspruch nach Art. 15 DSGVO besteht grundsätzlich auch für ehemalige Auszubildende nach Beendigung des Ausbildungsverhältnisses. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 20.02.2025 – 8 AZR 61/24: Präzisierung des immateriellen Schadens — konkrete nachteilige Auswirkungen auf die betroffene Person müssen dargelegt werden. `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praxishinweise für den Arbeitgeber:**
 - DSGVO-Auskunft fristgerecht innerhalb eines Monats beantworten (Art. 12 Abs. 3 DSGVO); unberechtigte Ablehnung kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen.
@@ -141,11 +139,8 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 Wesentliche Quellen:
 - Dörner/Vossen, in: KR, 13. Aufl. 2022, § 1 KSchG Rn. 1 ff. (Sozialauswahl)
 - Becker/Wolff, in: APS, 6. Aufl. 2021, § 1 KSchG Rn. 500 ff. (betriebsbedingte Kündigung)
-- Preis, in: ErfK, 24. Aufl. 2024, § 626 BGB Rn. 1 ff. (außerordentliche Kündigung)
-- BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227 (Verhältnismäßigkeit, „Emmely")
-- BAG, Urt. v. 07.07.2011 – 2 AZR 476/10, NZA 2012, 150 (Leistungsträgerherausnahme)
-- BAG, Urt. v. 22.11.2012 – 2 AZR 371/11, NZA 2013, 437 (Massenentlassung)
-- BAG, Urt. v. 12.07.2007 – 2 AZR 716/06, NZA 2008, 173 (BEM)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

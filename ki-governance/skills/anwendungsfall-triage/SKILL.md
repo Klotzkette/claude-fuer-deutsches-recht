@@ -1,13 +1,14 @@
 ---
 name: anwendungsfall-triage
-description: "Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO). Lädt, wenn der Nutzer „KI-Anwendungsfall triage\", „dürfen wir KI für X einsetzen\", „ist das freigegeben\" oder „Hochrisiko-KI klassifizieren\" sagt."
+description: 'Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO). Lädt, wenn der Nutzer "KI-Anwendungsfall triage", "dürfen wir KI für X einsetzen", "ist das freigegeben" oder "Hochrisiko-KI klassifizieren" sagt.'
+
 ---
 
 # KI-Anwendungsfall-Triage
 
 ## Zweck
 
-Das Gespräch stoppen, das als „Können wir nicht einfach KI dafür einsetzen?"
+Das Gespräch stoppen, das als "Können wir nicht einfach KI dafür einsetzen?"
 beginnt. Schnelle, kalibrierte Antwort aus dem Register geben — und bei
 bedingter Freigabe die Auflagen konkret und den nächsten Schritt klar machen.
 
@@ -49,10 +50,7 @@ Praktiken, ab 02.02.2025) und DSGVO Art. 22 (automatisierte Einzelentscheidung).
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 (Schufa-Score): Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn KI-Note maßgebliche Grundlage für Drittentscheidung; Maßstab für Scoring-/Kredit-/HR-Anwendungsfälle.
-- EuGH, Urt. v. 04.10.2024 – C-203/22, NJW 2025, 56 Rn. 38 (Dun & Bradstreet): Betreiber algorithmischer Entscheidungssysteme müssen Entscheidungslogik verständlich offenlegen; Maßstab für Transparenzauflagen bei bedingter Freigabe.
-- BAG, Urt. v. 13.01.2004 – 9 AZR 603/02, NZA 2004, 784 Rn. 16: Mitbestimmungspflicht bei technischen Überwachungssystemen; gilt für KI-basierte Mitarbeiterbewertung.
-- BGH, Urt. v. 19.06.2018 – VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Informationssystemen; Organisationspflicht bei KI-Einsatz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare**
 
@@ -80,7 +78,7 @@ Vor dem Register prüfen: Liegt ein absolutes Verbot vor?
 - Emotionserkennung am Arbeitsplatz/Bildung
 
 Bei Treffer: sofort melden, ohne Abmilderung:
-> „Dieser Anwendungsfall berührt [Art. 5 KI-VO]. Verbotene Praktiken sind
+> "Dieser Anwendungsfall berührt [Art. 5 KI-VO]. Verbotene Praktiken sind
 > absolute Verbote. Wenn etwas anders ist: anwaltliche Entscheidung nötig,
 > keine Triage-Freigabe."
 
@@ -138,9 +136,8 @@ zuerst Übersichtstabelle (✅ Freigegeben / ⚠️ Bedingt / ❌ Nicht freigege
 
 ## Beispiel
 
-**Anfrage:** „HR will KI zur automatischen Bewerbungs-Vorselektion einsetzen."
-**Triage:** Art. 5: kein Verbot. Anhang III Nr. 2: Hochrisiko (Einstellungs-
-entscheidung) `[prüfen-pinpoint]`. DSGVO Art. 22 Abs. 1 bei Vollautomatisierung.
+**Anfrage:** "HR will KI zur automatischen Bewerbungs-Vorselektion einsetzen."
+**Triage:** Art. 5: kein Verbot. Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO: Hochrisiko, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. DSGVO Art. 22 Abs. 1 bei Vollautomatisierung.
 § 87 Abs. 1 Nr. 6 BetrVG: Betriebsrats-Beteiligung prüfen.
 **Klassifikation: BEDINGT.** Folgenabschätzung + DSFA; Human-in-the-Loop;
 Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
@@ -148,10 +145,10 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
 ## Risiken und typische Fehler
 
 - Art. 5 KI-VO ist Pflichtprüfung — immer zuerst, vor dem Register.
-- „Nur intern" reduziert das Risiko nicht: Mitarbeiter-KI oft höheres
+- "Nur intern" reduziert das Risiko nicht: Mitarbeiter-KI oft höheres
   Risiko als kundenseitige KI.
-- „Wir testen nur" ist keine Ausnahme bei echten Personen-Daten.
-- „Der Anbieter sagt, es ist sicher" ersetzt nicht die eigene Folgenabschätzung.
+- "Wir testen nur" ist keine Ausnahme bei echten Personen-Daten.
+- "Der Anbieter sagt, es ist sicher" ersetzt nicht die eigene Folgenabschätzung.
 
 ## Quellenpflicht
 
@@ -159,7 +156,7 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
   jeder Klassifikation.
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-Überwachungs-/Bewertungstools.
-- **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Profiling-Anwendungsfällen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 5 Rn. 8 und Anhang III Rn. 15.**
 - **Ehmann/Selmayr, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10.**
 - **Müller-Glöge, in: Erfurter Kommentar, 25. Aufl. 2025, § 87 BetrVG Rn. 32.**

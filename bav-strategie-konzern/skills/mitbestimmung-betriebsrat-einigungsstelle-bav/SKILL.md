@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-betriebsrat-einigungsstelle-bav
-description: "Betriebsratsbeteiligung bei bAV-Einfuehrung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Pruefraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan."
+description: "Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan."
 ---
 
 # Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
@@ -22,10 +22,10 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 58 BetrVG (Konzernbetriebsrat — nur bei zwingend konzerneinheitlichen Angelegenheiten)
 - § 112 BetrVG (Sozialplan — Pflicht bei Betriebsänderungen)
 - § 111 BetrVG (Betriebsänderung — Interessenausgleich)
-- BAG 22.3.1983 — GS 1/82 (Mitbestimmungspflicht BAV durch § 87 Abs. 1 Nr. 8 BetrVG)
-- BAG 26.10.1993 — 1 ABR 31/93 (Reichweite Initiativrecht Betriebsrat bei BAV)
-- BAG 3.12.1991 — 1 AZR 282/91 (Einigungsstellen-Spruch zu BAV — Bindungswirkung)
-- LAG Düsseldorf 10.3.2015 — 7 TaBV 53/14 (Einigungsstelle BAV Rheinland — Verfahren)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -48,13 +48,13 @@ Mitbestimmungspflichtig ist die Aufstellung allgemeiner Beurteilungsgrundsätze 
 - Individualzusagen (§ 17 Abs. 1 S. 2 BetrAVG — leitende Angestellte)
 
 #### § 87 Abs. 1 Nr. 10 BetrVG — BAV-spezifisch
-Nr. 10 erfasst ausdrücklich „Fragen der betrieblichen Altersversorgung". Hierunter fallen:
+Nr. 10 erfasst ausdrücklich "Fragen der betrieblichen Altersversorgung". Hierunter fallen:
 - Änderungen der Versorgungsordnung
 - Wechsel des Durchführungswegs
 - Einführung/Abänderung von Entgeltumwandlungssystemen
-- Schließung / Einfrierung des Versorgungswerks (BAG 21.3.2017 — 3 AZR 540/15)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Initiativrecht des Betriebsrats:** Der Betriebsrat hat nach BAG 26.10.1993 — 1 ABR 31/93 ein Initiativrecht zur Einführung einer betrieblichen Altersversorgung, wenn noch keine besteht. Er kann die Einigungsstelle anrufen, um eine Regelung zu erzwingen. Allerdings: Das Initiativrecht begründet keinen Anspruch auf ein bestimmtes Dotierungsniveau.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 2: Einigungsstellenverfahren
 
@@ -198,7 +198,7 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 
 ## Fallstricke
 
-1. **Einigungsstellen-Initiativrecht des Betriebsrats:** Der Betriebsrat kann bei Fehlen einer BAV die Einigungsstelle anrufen und eine Regelung erzwingen. Arbeitgeber können aber die Dotierungshöhe bestimmen — der Einigungsstellenspruch darf kein bestimmtes Finanzierungsniveau vorschreiben (BAG 26.10.1993 — 1 ABR 31/93).
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. **Zuständigkeit Gesamt-/Konzernbetriebsrat:** Falsche Zuständigkeit führt zur Unwirksamkeit der Betriebsvereinbarung. Sorgfältige Prüfung vor Aufnahme der Verhandlungen. Konzernbetriebsrat nur bei zwingend konzerneinheitlichem Regelungsbedarf (§ 58 Abs. 1 BetrVG).
 
@@ -217,5 +217,4 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 10.03.2020 — 3 AZR 288/18**, NZA 2020, 1024 — Einigungsstellen-Spruch zur BAV-Versorgungsordnung; Ermessengrenzen der Einigungsstelle; Spruch darf nicht gegen BetrAVG-Grundsaetze oder Drei-Stufen-Theorie verstossen.
-- **BAG, Urt. v. 25.01.2022 — 1 AZR 146/20**, NZA 2022, 581 — Mitbestimmungsrecht des Betriebsrats bei Durchfuehrungs-Wechsel (z.B. Direktzusage auf Direktversicherung); Betriebsrat muss zustimmen, wenn der Wechsel die Versorgungsinteressen der Belegschaft beeinflusst.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

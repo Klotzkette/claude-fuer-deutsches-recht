@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-umlage-u1-u2-insogeld-umlage
-description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Pruefung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung."
+description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung."
 ---
 
 # Umlagen U1, U2, Insolvenzgeld
@@ -57,7 +57,7 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 - Bemessungsgrundlage U1/U2: rentenversicherungspflichtiges Brutto bis zur BBG der RV (§ 7 AAG).
 - U1 Satz: KK-individuell (variiert nach KK-Satzung); typisch 1,0-3,0 Prozent.
 - U2 Satz: KK-individuell; typisch 0,2-0,5 Prozent.
-- Insolvenzgeld-Umlage: bundeseinheitlich, festgesetzt durch Verordnung (Insolvenzgeldumlageverordnung); aktueller Wert 2026 verifizieren (Vergleich: 2024 0,06 Prozent).
+- Insolvenzgeld-Umlage: bundeseinheitlich, festgesetzt durch Insolvenzgeldumlageverordnung; 2024: 0,06 Prozent; 2025: 0,06 Prozent (unveraendert; Insolvenzgeldumlageverordnung 2026 zum Jahreswechsel pruefen).
 
 ### Phase 3 — Erstattungsantraege
 
@@ -68,7 +68,7 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 
 ### Phase 4 — Insolvenzgeld-Umlage
 
-- Bundeseinheitlich; aktuellen Satz 2026 verifizieren.
+- Bundeseinheitlich; 2025: 0,06 Prozent (Insolvenzgeldumlageverordnung; Satz 2026 zum Jahreswechsel pruefen).
 - Faellig zusammen mit SV-Beitragsnachweis.
 - Wird ueber die Krankenkassen eingezogen.
 
@@ -115,4 +115,6 @@ Stand: 05/2026.
 - SGB III §§ 165, 358.
 - KK-Satzungen.
 - BMAS Rundschreiben.
-- Verifikations-Hinweis: Insolvenzgeld-Umlage 2026 verifizieren.
+- Insolvenzgeld-Umlage 2025: 0,06 Prozent; Insolvenzgeldumlageverordnung 2026 pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (Insolvenzgeld-Umlage 2025 0,06% eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->

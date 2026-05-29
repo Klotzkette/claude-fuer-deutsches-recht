@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionen-embargos
-description: "Pruefung von Laenderembargos personenbezogenen Sanktionen und Umgehungsrisiken im Aussenhandel. Anwendungsfall Handelspartner koennte Sanktionslistentreffer haben oder Lieferung in Sanktionsland geht. Normen EU-Sanktionsverordnungen Art. 215 AEUV OFAC SDN-Liste AWG § 4 Genehmigungspflicht. Pruefraster Laenderembargos Personenscreening Eigentuems-Kontrolle Umgehungsrisiken Finanzmittel Dienstleistungen IP-Rechte Zahlungsstroeme. Output Sanktions-Pruefprotokoll mit Screening-Ergebnis Risikobewertung und Handlungsempfehlung Transaktion durchfuehren oder stoppen. Abgrenzung zu geldwaesche-sanktionsscreening und aussenwirtschaft-exportkontrolle-dual-use."
+description: "Prüfung von Laenderembargos personenbezogenen Sanktionen und Umgehungsrisiken im Aussenhandel. Anwendungsfall Handelspartner koennte Sanktionslistentreffer haben oder Lieferung in Sanktionsland geht. Normen EU-Sanktionsverordnungen Art. 215 AEUV OFAC SDN-Liste AWG § 4 Genehmigungspflicht. Prüfraster Laenderembargos Personenscreening Eigentuems-Kontrolle Umgehungsrisiken Finanzmittel Dienstleistungen IP-Rechte Zahlungsstroeme. Output Sanktions-Prüfprotokoll mit Screening-Ergebnis Risikobewertung und Handlungsempfehlung Transaktion durchführen oder stoppen. Abgrenzung zu geldwäsche-sanktionsscreening und aussenwirtschaft-exportkontrolle-dual-use."
 ---
 
 # Sanktionen, Embargos und Bereitstellungsverbote
@@ -62,10 +62,9 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 21.12.2011 - C-27/09 P (Frankreich/PMOI) — Anforderungen an die Begruendung von Individualsanktionen (Listung); Art. 296 AEUV verlangt verstaendliche Gruende fuer den Betroffenen.
-- EuG, Urt. v. 13.09.2013 - T-383/11 (Makhlouf/Rat) — Beweiswuerdigungsstandard bei Listungsbegruendung auf Basis von Geheimdienstberichten; Gericht prüft Substanz, nicht nur Formaleinhaltung.
-- BVerwG, Urt. v. 25.01.2012 - 6 C 9.11, BVerwGE 141, 329 — Bereitstellungsverbot auch gegenueber mittelbaren Begueinstigten (Umgehungsverbot); wirtschaftliche Verfuegungsgewalt genuegt.
-- EuGH, Urt. v. 27.09.2022 - C-58/21 (Puma/Hauptzollamt Nuernberg) — Zur Kontrolle zollamtlicher Massnahmen im Zusammenhang mit Sanktionsverdacht; Verhaeltnismaessigkeit von Warenanhaltungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Sanktionen/Embargos
 
@@ -76,11 +75,9 @@ Kläre vor der Pruefung:
 - § 82 AWV — Embargobezogene Verbote im nationalen Recht
 - OFAC 31 CFR Part 560 (Iran), Part 589 (Russland) — US-Sanktionsregimes
 
-## Kommentarliteratur
+## Quellenregel
 
-- Ohler, Bankenaufsicht und Geldpolitik in der Waehrungsunion, Kap. 9 (Sanktionen)
-- Europaeische Kommission, Leitfaden zur Umsetzung EU-Sanktionen, aktuelle Fassung auf EUR-Lex
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Sanktionspruefungsvermerk
 
 **Adressat:** Compliance/Vorstand — **Tonfall:** prazise, aktionsbasiert

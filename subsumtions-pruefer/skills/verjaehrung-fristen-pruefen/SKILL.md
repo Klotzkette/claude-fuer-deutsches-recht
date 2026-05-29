@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristen-pruefen
-description: "Prueft Verjaehrungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjaehrungsregeln. Ergebnis: verjaehrt ja/nein/fraglich."
+description: "Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich."
 ---
 
 # Verjährung und Fristen prüfen
@@ -27,10 +27,7 @@ description: "Prueft Verjaehrungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB),
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 08.07.2021 - III ZR 166/20, NJW 2021, 2955 — Der Verjährungsbeginn (§ 199 Abs. 1 Nr. 2 BGB) setzt grob fahrlässige Unkenntnis nur voraus, wenn der Gläubiger die Informationsbeschaffung unterlassen hat, die ihm unter Berücksichtigung des Prozessrisikos zumutbar war; bloßer Verdacht reicht aus.
-- BGH, Urt. v. 15.06.2021 - VI ZR 576/19, NJW 2021, 2877 — Die Verhandlungshemmung (§ 203 BGB) beginnt bereits mit dem ersten Austausch von Bereitschaft zur ernsthaften Auseinandersetzung; ein förmliches Angebot ist nicht erforderlich; die Hemmung endet mit Abbruch durch eine Partei; danach läuft eine Dreimonatsfrist weiter.
-- BGH, Urt. v. 09.10.2019 - VIII ZR 21/19, NJW 2020, 77 — Das Anerkenntnis (§ 212 Abs. 1 Nr. 1 BGB) als Neubeginngrund setzt eine eindeutige Willenserklärung voraus, die dem Gläubiger gegenüber erklärt wird; konkludentes Anerkenntnis durch Abschlagszahlung oder Bitte um Fristverlängerung ist ausreichend.
-- BAG, Urt. v. 22.09.2021 - 5 AZR 164/21, NZA 2022, 210 — Tarifliche Ausschlussfristen (typischerweise 3 Monate nach Fälligkeit) verdrängen die gesetzliche Verjährung (§§ 195 ff. BGB); versäumte Ausschlussfristen führen zur endgültigen Forderungsverfristung unabhängig von der allgemeinen Verjährung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Verjährungsfristen im deutschen Recht
 
@@ -57,7 +54,7 @@ description: "Prueft Verjaehrungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB),
 
 ### Verjährung im Arbeitsrecht
 
-Tarifliche Ausschlussfristen (typisch: 3 Monate nach Fälligkeit) gehen der gesetzlichen Verjährung vor (BAG NZA 2022, 210). Individualvertragliche Ausschlussfristen nur wirksam, wenn AGB-konform und mindestens 3 Monate.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hemmung der Verjährung §§ 203–213 BGB
 
@@ -66,13 +63,13 @@ Hemmung: Die Verjährungsfrist läuft nicht; die Restfrist läuft nach Ende des 
 **Wichtige Hemmungstatbestände:**
 - Klageerhebung (§ 204 Abs. 1 Nr. 1 BGB): Hemmung mit Einreichung, wenn demnächst zugestellt
 - Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB): Hemmung bei Zustellung
-- Verhandlungen (§ 203 BGB): Beginn bis Abbruch; danach 3-Monats-Nachlauf (BGH NJW 2021, 2877)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stillhaltevereinbarung (§ 205 BGB): vertragliche Stundung
 
 ## Neubeginn der Verjährung § 212 BGB
 
 Der Neubeginn löscht die bisher abgelaufene Verjährungszeit:
-- Anerkenntnis (ausdrücklich oder konkludent: Abschlagszahlung, Bitte um Fristverlängerung — BGH NJW 2020, 77)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zwangsvollstreckungshandlung
 
 ## Prozessuale Notfristen
@@ -97,12 +94,6 @@ Anspruch entstanden wann?
       └─ Nein → Ergebnis: verjährt / nicht verjährt
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB §§ 195-217 (Verjährung) — Standardwerk; tabellarisch und klar
-- MüKo BGB §§ 199, 203, 212 (Verjährungsbeginn und Hemmung) — wissenschaftlich vertieft
-- Schneider/Wolf RVG (Ausschlussfristen im Anwaltsrecht)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

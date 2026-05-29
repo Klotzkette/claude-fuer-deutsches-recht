@@ -26,7 +26,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 
 ### Kernvorschriften
 
-- § 623 BGB: Schriftform für Aufhebungsvertrag (§ 126 BGB: eigenhändige Unterschrift beider Parteien auf derselben Urkunde; elektronische Form nach § 126a BGB nur bei beiderseitigem Einverständnis, qualifizierte elektronische Signatur)
+- § 623 BGB: Schriftform für Aufhebungsvertrag (§ 126 BGB: eigenhändige Unterschrift; elektronische Form ist ausgeschlossen)
 - § 119 Abs. 1 BGB: Anfechtung wegen Irrtums
 - § 123 BGB: Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung
 - § 142 Abs. 1 BGB: Nichtigkeit bei erfolgreicher Anfechtung ex tunc
@@ -40,24 +40,20 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 ### Leitentscheidungen (BGH-Stil)
 
 - **Widerruf des Aufhebungsvertrags / Überrumpelung:**
-  BAG, Urt. v. 24.02.2022 – 6 AZR 333/21, NZA 2022, 711 Rn. 19 ff.: Das BAG verneint grundsätzlich ein gesetzliches Widerrufsrecht beim Aufhebungsvertrag; ein Widerruf nach § 312 Abs. 1 BGB (Haustürgeschäft) kommt nur in Betracht, wenn der Arbeitnehmer in einer Haustürsituation i. S. v. § 312b BGB überrumpelt wurde. Der Arbeitgeber ist jedoch verpflichtet, dem Arbeitnehmer eine angemessene Überlegungsfrist einzuräumen; kurzfristiger Abschluss unter Druck kann zur Anfechtbarkeit wegen widerrechtlicher Drohung führen.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Sperrzeit bei arbeitgeberseitig veranlasstem Aufhebungsvertrag:**
-  BSG, Urt. v. 12.07.2006 – B 11a AL 47/05 R: Der Arbeitnehmer hat einen wichtigen Grund für den Abschluss des Aufhebungsvertrags, wenn mit einer betriebsbedingten Kündigung zu rechnen war, der Arbeitgeber die Initiative ergriffen hat und eine angemessene Abfindung (mindestens 0,25 Monatsverdienste pro Beschäftigungsjahr) gezahlt wird; bei Vorliegen dieser Voraussetzungen kann eine Sperrzeit entfallen oder verkürzt werden.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Anfechtung wegen widerrechtlicher Drohung:**
-  BAG, Urt. v. 28.11.2007 – 6 AZR 1108/06, NZA 2008, 348 Rn. 30: Eine widerrechtliche Drohung i. S. v. § 123 Abs. 1 Alt. 2 BGB liegt vor, wenn der Arbeitgeber mit einer Kündigung droht, obwohl ein verständiger Arbeitgeber eine solche Kündigung nicht ernsthaft in Betracht gezogen hätte; die Anfechtung muss innerhalb der Jahresfrist des § 124 BGB erklärt werden.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Fünftelregelung / Zusammenballung:**
-  BFH, Urt. v. 13.10.2015 – IX R 46/14, BStBl. II 2016, 270 Rn. 14: Die Fünftelregelung des § 34 EStG setzt voraus, dass die Entschädigungszahlung zusammengeballt in einem Veranlagungszeitraum zufließt; eine Aufteilung auf mehrere Jahre schließt die Begünstigung grundsätzlich aus (Ausnahme: geringfügige Teilleistung im Vorjahr).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Linck, in: HWK, 11. Aufl. 2024, § 623 BGB Rn. 1 ff. (Schriftformerfordernis, Konsequenzen des Formmangels, Teilnichtigkeit).
-- Preis, in: ErfK, 25. Aufl. 2025, § 1a KSchG Rn. 1 ff. (Abfindungsformel, Bedeutung als Orientierung für Aufhebungsverträge).
-- Schlewing, in: ErfK, 25. Aufl. 2025, § 159 SGB III Rn. 5 ff. (Sperrzeit, wichtiger Grund, Verkürzung, Kausalzusammenhang).
-- Seer, in: Tipke/Lang, Steuerrecht, 24. Aufl. 2021, § 9 Rn. 614 ff. (Fünftelregelung, Zusammenballung, Teilleistungen).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 – Interessenklärung und Strategiewahl
@@ -65,21 +61,21 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 1. **Initiator**: Geht der Impuls vom Arbeitgeber aus → Sperrzeit-Risiko erhöht; Abfindung als Gegenleistung besonders wichtig.
 2. **Alternativen vergleichen**: Kündigung vs. Aufhebungsvertrag (Kündigungsschutzrisiko, Kosten, Zeit, Image).
 3. **Betriebsrat informieren** (keine Zustimmung erforderlich, aber Information empfehlenswert, § 80 BetrVG).
-4. **Verhandlungsstrategie**: Abfindungshöhe, Freistellung, Zeugnis-Formulierung (mind. „zur vollsten Zufriedenheit"), Outplacement, Betriebliche Altersversorgung (unverfallbare Anwartschaften § 1b BetrAVG).
+4. **Verhandlungsstrategie**: Abfindungshöhe, Freistellung, Zeugnis-Formulierung (mind. "zur vollsten Zufriedenheit"), Outplacement, Betriebliche Altersversorgung (unverfallbare Anwartschaften § 1b BetrAVG).
 
 ### Schritt 2 – Schriftform und Vertragsabschluss (§ 623 BGB)
 
-- Schriftform zwingend (§ 623 BGB); elektronische Form nach § 126a BGB nur mit QES und beiderseitigem Einverständnis.
+- Schriftform zwingend (§ 623 BGB); elektronische Form ist ausgeschlossen, also auch QES/beA/Signaturportal nicht verwenden.
 - **Eigenhändige Unterschrift** beider Parteien auf **derselben Urkunde** (§ 126 Abs. 2 BGB); Briefwechsel/E-Mail-Kette genügt nicht.
 - Vertretung: Vollmacht des Unterzeichners des Arbeitgebers prüfen (Prokura, Generalvollmacht, Einzelvollmacht).
-- **Überlegungsfrist**: Angemessene Zeit einräumen (BAG, Urt. v. 24.02.2022 – 6 AZR 333/21, NZA 2022, 711 Rn. 19); Überrumpelung vermeiden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3 – Sozialrechtliche Prüfung (Sperrzeit § 159 SGB III)
 
 | Situation | Sperrzeit-Risiko |
 |---|---|
 | Arbeitnehmerseitige Initiative ohne wichtigen Grund | Hohe Sperrzeit (12 Wochen) |
-| Arbeitgeberseitige Initiative + Drohung mit berechtigter Kündigung | Wichtiger Grund → keine oder reduzierte Sperrzeit (BSG, Urt. v. 12.07.2006 – B 11a AL 47/05 R) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Abfindung ≥ 0,25 Monatsgehalt pro Beschäftigungsjahr | Indiz für wichtigen Grund |
 | Abfindung schließt ALG-Ruhen aus (§ 158 SGB III) | Ruhenszeitraum prüfen |
 
@@ -91,12 +87,12 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 - **Berechnung nach § 1a KSchG** (als Orientierung): 0,5 Monatsverdienste pro Beschäftigungsjahr; häufig verhandlungsrelevanter Ausgangspunkt.
 - **Monatsverdienst**: Bruttomonatsgehalt inkl. regelmäßiger Zulagen, anteiliger Sonderzahlungen.
 - **Fälligkeit**: Im Aufhebungsvertrag ausdrücklich regeln (i. d. R. bei Beendigung oder Monatsletztem danach).
-- **Fünftelregelung § 34 EStG**: Abfindung darf nicht auf mehrere VZ aufgeteilt werden (BFH, Urt. v. 13.10.2015 – IX R 46/14, BStBl. II 2016, 270 Rn. 14); Steuerberatung empfehlen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sozialversicherungspflicht**: Echte Entlassungsentschädigung ist grds. sozialversicherungsfrei (§ 1 Abs. 1 Satz 1 Nr. 1 SvEV); bei Anrechnung auf ALG-Ruhen beachten.
 
 ### Schritt 5 – Ausgleichsklausel
 
-- Umfassende Ausgleichsklausel formulieren: „Mit diesem Vertrag sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung – gleich aus welchem Rechtsgrund – erledigt."
+- Umfassende Ausgleichsklausel formulieren: "Mit diesem Vertrag sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung – gleich aus welchem Rechtsgrund – erledigt."
 - **Ausnahmen ausdrücklich benennen** (typisch):
   - Ansprüche aus betrieblicher Altersversorgung (§§ 1b, 7 BetrAVG)
   - Laufende Entgeltansprüche bis Beendigung
@@ -121,11 +117,11 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 
 **Sachverhalt:** Arbeitgeber A-GmbH will mit Arbeitnehmer B (15 Jahre Betriebszugehörigkeit, Bruttogehalt 4.000 €/Monat) einen Aufhebungsvertrag zum 31.07.2025 abschließen. A-GmbH will Abfindung zahlen, lehnt aber Weitergewährung des Firmenwagens nach Beendigung ab. B fragt nach Sperrzeit-Risiko.
 
-**Ergebnis:** Mit einer umfassenden Regelung einschließlich Abfindung ≥ 15.000 € (= 15 × 0,25 × 4.000 €) und Nachweis der betriebsbedingten Veranlassung dürfte das Sperrzeit-Risiko minimierbar sein (BSG, Urt. v. 12.07.2006 – B 11a AL 47/05 R).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Abfindungsberechnung (§ 1a KSchG als Orientierung):** 15 Jahre × 0,5 × 4.000 € = 30.000 € Bruttoabfindung. Fünftelregelung prüfen: Anteilige Steuerbelastung gemäß § 34 EStG durch Steuerberater berechnen lassen. Einmalzahlung in einem Veranlagungszeitraum sicherstellen (BFH, Urt. v. 13.10.2015 – IX R 46/14, BStBl. II 2016, 270 Rn. 14).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Schriftform (§ 623 BGB):** Vertrag ist schriftlich zu schließen; eigenhändige Unterschriften beider Parteien auf einer Urkunde. B ist eine Überlegungsfrist von mindestens 2–3 Werktagen einzuräumen (BAG, Urt. v. 24.02.2022 – 6 AZR 333/21, NZA 2022, 711 Rn. 19).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
@@ -144,7 +140,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 
 **Typische Konstellation:** Während laufender Aufhebungsvertragsverhandlungen stellen Arbeitnehmer oder deren Bevollmächtigte ein Auskunftsersuchen nach Art. 15 DSGVO, um internen Druck auf den Arbeitgeber aufzubauen und die Abfindungshöhe zu treiben. Das Auskunftsersuchen dient dabei weniger dem Schutz personenbezogener Daten als vielmehr der Verhandlungsführung.
 
-**Missbrauchsmaßstab (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler):**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt werden, wenn der Arbeitgeber zwei Elemente kumulativ nachweist:
 
 1. **Objektives Element:** Äußere Umstände, die auf missbräuchliche Zweckverfolgung hindeuten — insbesondere der zeitliche Zusammenhang zwischen Aufhebungsverhandlung und Auskunftsantrag, massenhaftes Legal-Tech-Vorgehen oder fehlende inhaltliche Anbindung des Auskunftsersuchens an Datenschutzinteressen.
@@ -153,8 +149,7 @@ Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt
 Die Hürden sind **hoch**: Das Auskunftsrecht nach Art. 15 DSGVO ist ein Grundrecht; ein einzelner Antrag genügt nicht, um Missbrauch anzunehmen. Die Generalanwältin (GA Szpunar, Schlussanträge v. 12.09.2025 – C-526/24) betonte, dass nur außerordentliche Umstände die Ausnahmewirkung rechtfertigen.
 
 **BAG-Linie zum immateriellen Schaden nach Art. 82 DSGVO:**
-- BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch eine Auskunftspflichtverletzung genügt nicht für eigenständigen immateriellen Schaden; es bedarf eines objektiv erhöhten Missbrauchsrisikos. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 20.02.2025 – 8 AZR 61/24: Konkrete nachteilige Auswirkungen auf die betroffene Person müssen dargelegt werden; abstrakte Beunruhigung genügt nicht. `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praxishinweise:**
 - **Nicht ignorieren:** Auch ein im Verdacht der Missbräuchlichkeit stehendes Auskunftsersuchen muss fristgerecht beantwortet oder zumindest beschieden werden (Art. 12 Abs. 3 DSGVO: einen Monat). Eine unberechtigte Ablehnung löst eigenständige Schadensersatzansprüche nach Art. 82 DSGVO aus.
@@ -167,8 +162,8 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach **references/zitierweise.md** zu belegen:
 
-- Rechtsprechungsbelege im BGH-Stil; bei BSG-Entscheidungen BSGE-Fundstelle bevorzugen, hilfsweise NZS oder juris.
-- Kommentarbelege mit Bearbeiter, Werk, Auflage, Jahr, §, Rn.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Steuerrechtliche Aussagen mit BFH-Nachweis und BStBl.-Fundstelle.
 - Bei Sperrzeit-Fragen ausdrücklich kennzeichnen, wenn keine aktuelle BAG/BSG-Entscheidung zur spezifischen Situation vorliegt.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen verifizieren.

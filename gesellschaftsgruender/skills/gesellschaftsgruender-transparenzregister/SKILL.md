@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-transparenzregister
-description: "Transparenzregister-Meldung fuer GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bussgelder. Normen: §§ 18 ff. GwG, GeldwaescheG. Pruefraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwaesche-Beratung."
+description: "Transparenzregister-Meldung für GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bußgelder. Normen: §§ 18 ff. GwG, GeldwäscheG. Prüfraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwäsche-Beratung."
 ---
 
 # Transparenzregister
@@ -25,17 +25,11 @@ description: "Transparenzregister-Meldung fuer GmbH oder UG: wirtschaftlich Bere
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 01.07.2020 - 6 C 6.19, BVerwGE 169, 1 — Transparenzregister-Meldepflicht ist eine eigenständige, vom Gesellschaftsrecht unabhängige öffentlich-rechtliche Pflicht; auch bei bereits bekannten Beteiligungsstrukturen besteht aktive Meldepflicht.
-- EuGH, Urt. v. 22.11.2022 - C-37/20 (Luxembourg Business Registers), NJW 2023, 127 — Öffentlicher Zugang zum Transparenzregister verletzt in der früheren Form DSGVO Art. 7 Abs. 1; Zugang nur noch bei berechtigtem Interesse; nationales Recht anzupassen.
-- BVerwG, Beschl. v. 14.01.2021 - 6 C 12.19 — Fiktiver wirtschaftlich Berechtigter: gesetzliche Vertreter sind zu melden, wenn keine natürliche Person die 25-%-Schwelle überschreitet; gilt auch bei Streubesitz.
-- OVG Münster, Urt. v. 13.10.2021 - 4 A 3926/19, GmbHR 2022, 115 — Bußgeldtatbestand § 56 GwG: Meldung "unverzüglich" = ohne schuldhaftes Zögern, spätestens innerhalb weniger Tage nach Kenntniserlangung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zentes/Glaab, GwG, § 19 Rn. 1-30 (Transparenzregisterpflicht, Meldeinhalte)
-- Bülte/Engel, GwG, § 3 Rn. 1-40 (wirtschaftlich Berechtigter, 25-%-Schwelle, fiktive wB)
-- BeckOK GwG/Hoyer, § 56 Rn. 1-20 (Bußgeldtatbestand)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Transparenzregistermeldung
 
 | Schritt | Prüfungspunkt | Ergebnis |
@@ -100,14 +94,13 @@ Frühwarnung: Jede Änderung der Gesellschafterstruktur → sofort melden
 - Mehrstufige Holding-Struktur ohne Durchschau-Test → fehlerhafte Meldung; Bußgeldrisiko.
 - Trust / Stiftung als Gesellschafter ohne Meldung der Begünstigten → systematische Pflichtverletzung.
 - Änderung der Gesellschafterstruktur ohne Aktualisierung der Transparenzregistermeldung → laufende Ordnungswidrigkeit.
-- EuGH-Urteil C-37/20 beachten: eingeschränkter Zugang für Dritte; datenschutzkonforme Handhabung.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen und Vertiefung
 
 - §§ 3, 19-23a, 56 GwG (Transparenzregister komplett)
 - TraFinG 2021 (Vollregister)
-- BVerwG 6 C 6.19, BVerwGE 169, 1 (Meldepflicht eigenständig)
-- EuGH C-37/20, NJW 2023, 127 (DSGVO-Konformität Zugang)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zentes/Glaab, GwG, § 19 Rn. 1-30
 
 ## Übergabe an andere Skills

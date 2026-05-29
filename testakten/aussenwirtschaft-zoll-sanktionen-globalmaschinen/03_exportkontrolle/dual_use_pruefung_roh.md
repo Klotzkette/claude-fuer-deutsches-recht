@@ -11,7 +11,7 @@
 
 ## 1. Prüfungsanlass und Sachverhalt
 
-Die Globalmaschinen GmbH beabsichtigt, das CNC-Steuermodul GX-900 (Artikelnummer 8000-GX900-EU) an die Turan Industrial Trading Ltd., Istanbul/Türkei, zu liefern. Der türkische Händler hat schriftlich erklärt, die Ware an einen Endkunden in Kasachstan weiterzuverkaufen. Die endgültige Endverwendung ist mit „zivile Maschinenwartung" angegeben. Aufgrund der technischen Spezifikationen (9-Achsen-Interpolation, Positioniergenauigkeit ≤ 1 μm), der Drittstaatenweiterleitung sowie laufender BAFA-Anfragen hat die Exportkontrollabteilung eine vollständige Dual-Use-Prüfung initiiert.
+Die Globalmaschinen GmbH beabsichtigt, das CNC-Steuermodul GX-900 (Artikelnummer 8000-GX900-EU) an die Turan Industrial Trading Ltd., Istanbul/Türkei, zu liefern. Der türkische Händler hat schriftlich erklärt, die Ware an einen Endkunden in Kasachstan weiterzuverkaufen. Die endgültige Endverwendung ist mit "zivile Maschinenwartung" angegeben. Aufgrund der technischen Spezifikationen (9-Achsen-Interpolation, Positioniergenauigkeit ≤ 1 μm), der Drittstaatenweiterleitung sowie laufender BAFA-Anfragen hat die Exportkontrollabteilung eine vollständige Dual-Use-Prüfung initiiert.
 
 Rechtliche Grundlage: **Verordnung (EU) 2021/821** (Neufassung Dual-Use-Verordnung), in Kraft getreten 09.09.2021, sowie das **Außenwirtschaftsgesetz (AWG)** und die **Außenwirtschaftsverordnung (AWV)**.
 
@@ -24,7 +24,7 @@ Rechtliche Grundlage: **Verordnung (EU) 2021/821** (Neufassung Dual-Use-Verordnu
 #### Position 2B001 – Werkzeugmaschinen und numerische Steuerungen
 
 **Wortlaut (auszugsweise):**
-> „2B001.b Numerische Steuerungen für Werkzeugmaschinen, die zur Steuerung von 2 oder mehr simultanen, interpolierend gesteuerten Achsen ausgelegt sind, die in eine Werkzeugmaschine integriert werden können, mit einer Linearpositioniergenauigkeit von weniger als 6 μm..."
+> "2B001.b Numerische Steuerungen für Werkzeugmaschinen, die zur Steuerung von 2 oder mehr simultanen, interpolierend gesteuerten Achsen ausgelegt sind, die in eine Werkzeugmaschine integriert werden können, mit einer Linearpositioniergenauigkeit von weniger als 6 μm..."
 
 **Merkmalsvergleich:**
 
@@ -51,7 +51,7 @@ Technologie für die Entwicklung oder Herstellung von Waren nach 2B001 – nicht
 
 Das GX-900 enthält einen Hardware Security Module (HSM) Atmel ATECC608A mit AES-256, ECC-384 und SHA-384.
 
-**Position 5A002.a:** Systeme und Ausrüstungen zur „Sicherung von Informationen" mittels kryptographischer Methoden.
+**Position 5A002.a:** Systeme und Ausrüstungen zur "Sicherung von Informationen" mittels kryptographischer Methoden.
 
 **Cryptography Note (CN, Anmerkung 3 zu Kategorie 5 Teil 2):**
 
@@ -127,7 +127,7 @@ Unabhängig von der Listenpflicht ist zu prüfen, ob die Ware für eine militär
 | Routing über Drittland (TR → KZ) | Dokumentiert (E-Mail Mandant) | **Erhöhtes Risiko** |
 | Zahlung über VAE-Entität (Al Noor FZE) | Dokumentiert (AWV-Liste) | **Erhöhtes Risiko** |
 | Endkunde in Kasachstan unklar | Keine EUC | **Erhöhtes Risiko** |
-| Interne Nachricht „dann halt über Kasachstan" | Dokumentiert (Chat-Protokoll) | **Sehr hohes Risiko** |
+| Interne Nachricht "dann halt über Kasachstan" | Dokumentiert (Chat-Protokoll) | **Sehr hohes Risiko** |
 | Lizenzwert 125.000 EUR (Vorauszahlung KZ) | Kein vergleichbarer Zivil-Auftrag bekannt | Auffällig |
 
 ### 4.2 Rechtliche Konsequenz

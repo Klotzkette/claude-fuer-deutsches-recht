@@ -10,7 +10,7 @@
 
 ## 1. Hintergrund
 
-Im Rahmen der Legal Due Diligence wurde festgestellt, dass die Delta Service GmbH (Sitz: Essen, HRB 78234 AG Essen) — eine 100%-Tochter der Solaris Industries AG — einen Liquiditätsengpass in ca. 9 Monaten prognostiziert. Der CFO der Delta Service GmbH hat gegenüber dem Verkäuferteam in der Q&A-Runde (Frage-ID QA-034) angegeben, die freie Betriebsmittellinie könne „wahrscheinlich" gezogen werden, setze aber ein aktualisiertes Covenant Certificate voraus.
+Im Rahmen der Legal Due Diligence wurde festgestellt, dass die Delta Service GmbH (Sitz: Essen, HRB 78234 AG Essen) — eine 100%-Tochter der Solaris Industries AG — einen Liquiditätsengpass in ca. 9 Monaten prognostiziert. Der CFO der Delta Service GmbH hat gegenüber dem Verkäuferteam in der Q&A-Runde (Frage-ID QA-034) angegeben, die freie Betriebsmittellinie könne "wahrscheinlich" gezogen werden, setze aber ein aktualisiertes Covenant Certificate voraus.
 
 Dieses Memo bewertet, ob die Voraussetzungen für ein StaRUG-Stabilisierungsverfahren vorliegen könnten, und zeigt Planoptionen auf.
 

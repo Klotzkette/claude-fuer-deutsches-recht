@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Pruefraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten."
+description: "Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten."
 ---
 
 # Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht
@@ -158,18 +158,15 @@ Klassische Stolperfalle in Privates Baurecht, Architekten- und Ingenieurrecht:
 
 ## Aktuelle Rechtsprechung Vergleichsverhandlung Baurecht
 
-- BGH, Urt. v. 21.11.2013 - VII ZR 48/12, NJW 2014, 394 Rn. 14 — Wird die Wirksamkeit eines Prozessvergleichs angegriffen und damit seine das Verfahren beendende Wirkung in Frage gestellt, ist der Streit durch Fortsetzung des Verfahrens auszutragen, in dem der Vergleich geschlossen wurde; der Einwand der Unwirksamkeit ist eine verzichtbare prozessuale Ruege, die vor Beginn der Verhandlung zur Hauptsache vorzubringen ist; dies gilt auch bei Werkvertraegen ueber Bauleistungen (BauR 2014, 578).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Vergleich Baurecht
 
 § 779 BGB (Vergleichsvertrag) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 123 BGB (Anfechtung arglistige Täuschung) → §§ 631 641 BGB (Werkvertragliche Grundlagen) → § 650r BGB (Kündigungsrecht Architekt) → § 15 HOAI (Pauschalhonorar)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Werner/Pastor Der Bauprozess 16. Aufl., Kap. 11 Rn. 2800-2840 (Vergleich im Bauprozess)
-- Kniffka/Koeble Kompendium des Baurechts 5. Aufl., 1. Teil Rn. 200-230 (außergerichtliche Einigung)
-- BeckOK BGB/Schulte-Nölke § 779 Rn. 20-45 (Vergleichsvertrag Streitbeilegung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Vergleichsgespräch
 
 Kläre vor Beginn der Verhandlung:

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-sgb-ii-bescheid
-description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sanktion oder Aufhebungs-Rueckforderungsbescheid. SGB II Buergergeld. Pruefraster: Bedarfsberechnung Regelbedarf § 20 Mehrbedarfe § 21 Kosten der Unterkunft § 22 Einkommen §§ 11 ff. Vermoegen § 12. Sanktionen §§ 31 ff. SGB II nach BVerfG 1 BvL 7/16. Vorlaeufige Leistungen § 41a Erstattung § 43 SGB II. Output: Widerspruchsschriftsatz SGB II. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle) und eilantrag-sozialrecht."
+description: "Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # SGB-II-Bescheid (Bürgergeld)
@@ -9,19 +9,15 @@ description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sankt
 1. Welcher Bescheid genau (Bewilligungs-, Aufhebungs-, Erstattungsbescheid)? § 40 SGB II i.V.m. §§ 45, 48 SGB X: Unterschied materiell-rechtlich entscheidend.
 2. Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 84 SGG) — noch offen? Bei abgelaufenem Bescheid: § 44 SGB X-Überprüfungsantrag.
 3. Aufschiebende Wirkung: SGB-II-Bescheide haben grundsätzlich KEINE aufschiebende Wirkung (§ 39 SGB II) — Eilantrag § 86b SGG notwendig wenn laufende Versorgung gefährdet.
-4. Sanktion: BVerfG 1 BvL 7/16 — 50-%-Grenze gilt; Sanktionen vollständig abgeschafft oder reformiert?
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. Ist Mandant im Karenzjahr (§ 12 Abs. 3 SGB II)? Dann erweiterte Vermögensschonung.
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Urt. v. 05.11.2019 - 1 BvL 7/16, BVerfGE 152, 68 Rn. 124 — Sanktionen im SGB II müssen verhältnismässig sein; Minderung um mehr als 30 % des Regelbedarfs ist grundsätzlich unvereinbar mit dem Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums (Art. 1 Abs. 1 i.V.m. Art. 20 Abs. 1 GG).
-- BSG, Urt. v. 30.01.2019 - B 14 AS 12/18 R, SozR 4-4200 § 22 Nr. 101 Rn. 18 — Kosten der Unterkunft (§ 22 SGB II): ortsangemessene Referenzmiete muss durch schlüssiges Konzept der Behörde belegt sein; fehlt dieses, gilt die Miete bis zur Wohngeld-Tabellen-Oberwert-Grenze als angemessen.
-- BSG, Urt. v. 14.04.2011 - B 8 SO 12/09 R, SozR 4-4200 § 11 Nr. 48 Rn. 14 — Einkommensanrechnung (§ 11 SGB II): Aufwandsentschädigungen für Ehrenamt sind Einkommen und müssen angerechnet werden; Freibetrag nach § 11b Abs. 2 SGB II ist jedoch abzuziehen.
-- BSG, Urt. v. 29.06.2017 - B 14 AS 23/16 R, SozR 4-4200 § 12 Nr. 22 Rn. 16 — Vermögensprüfung (§ 12 SGB II): angemessener Pkw mit Wert bis 7500 EUR ist Grundfreibetrag-unabhängig geschützt; kein Verwertungsgebot wenn Verwertung unwirtschaftlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Hauck/Noftz SGB II §§ 11-12 (Einkommen und Vermögen), § 22 (Kosten der Unterkunft), §§ 31-32 (Sanktionen)
-- Kasseler Kommentar SGB X §§ 44-48 (Aufhebung und Rücknahme)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Wer gehört zur Bedarfsgemeinschaft (§ 7 Abs. 3 SGB II) — Ehepartner, Kinder unter 25, Lebenspartner?
@@ -49,7 +45,7 @@ description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sankt
 | § 21 SGB II | Mehrbedarfe: Schwangerschaft, Alleinerziehung, Behinderung, Ernährung, Warmwasser |
 | § 22 SGB II | Kosten der Unterkunft (tatsächlich bis zur Angemessenheitsgrenze; Heizkosten separat) |
 | § 31 SGB II | Pflichtverletzung; Leistungsminderung |
-| § 31a SGB II | Umfang der Leistungsminderung (nach BVerfG 1 BvL 7/16 deutlich eingeschränkt) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 39 SGB II | Kein Suspensiveffekt bei Widerspruch; Ausnahme bei drohender Unzumutbarkeit |
 | § 41a SGB II | Vorläufige Leistungserbringung bei ungeklärtem Sachverhalt |
 | § 43 SGB II | Aufrechnung von Erstattungsansprüchen (max. 30 % des Regelbedarfs) |
@@ -61,11 +57,10 @@ description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sankt
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| 1 BvL 1/09 | BVerfG, 09.02.2010, BVerfGE 125, 175 | Menschenwürde-Sicherung SGB II; Mehrbedarfe unverfügbar; transparentes Verfahren |
-| 1 BvL 7/16 | BVerfG, 05.11.2019, BVerfGE 152, 68 | Sanktionen nur begrenzt verfassungskonform; Ausnahmen bei unverschuldetem Verhalten |
-| B 14 AS 30/13 R | BSG, 04.06.2014, SozR 4-4200 § 22 Nr. 76 | Schlüssiges Konzept KdU; Angemessenheitsgrenze |
-| B 4 AS 44/11 R | BSG, 16.04.2013 | Karenzjahr § 12 Abs. 3 SGB II; Erheblichkeitsschwelle EUR 40000 |
-| B 14 AS 57/21 R | BSG, 02.09.2022 | Einkommensbereinigung § 11b; Werbungskosten-Pauschale |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -77,13 +72,13 @@ description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sankt
 | 2 | Regelbedarfsstufe richtig zugeordnet (1–6)? | § 20, Anlage RBEG |
 | 3 | Mehrbedarfe vollständig berücksichtigt? | § 21 SGB II |
 | 4 | Kosten der Unterkunft tatsächlich angesetzt? | § 22 Abs. 1 SGB II |
-| 5 | Angemessenheitsgrenze nach Schlüssigem Konzept nachvollziehbar? | BSG B 14 AS 30/13 R |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Heizkosten separat und angemessen? | § 22 Abs. 1 Satz 3 SGB II |
 | 7 | Einkommensbereinigung § 11b korrekt? | § 11b SGB II |
 | 8 | Freibetrag Erwerbstätigkeit korrekt berechnet? | § 11b Abs. 2, 3 SGB II |
 | 9 | Vermögensfreibetrag EUR 15000 pro Person beachtet? | § 12 Abs. 2 SGB II |
 | 10 | Karenzjahr-Schutz greift (erste 12 Monate)? | § 12 Abs. 3 SGB II |
-| 11 | Sanktion tatbestandlich; Rechtsfolgenbelehrung erteilt? | § 31 SGB II; BVerfG 1 BvL 7/16 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Verfahrensfehler: Anhörung § 24 SGB X, Begründung § 35 SGB X? | §§ 24, 35 SGB X |
 | 13 | Aufhebungsbescheid: Rechtsgrundlage § 45, 48 SGB X korrekt? | §§ 45, 48 SGB X |
 | 14 | Erstattungsbetrag zutreffend und Aufrechnungsgrenze § 43 beachtet? | § 43 SGB II |
@@ -148,7 +143,7 @@ Angesetzt: EUR [Betrag]
 Das vom Jobcenter zugrundeliegende Schlüssige Konzept ist
 angreifbar, weil [Argumentation, z.B. veraltete Daten, keine
 Differenzierung nach Wohnungsgrößen, keine Verfügbarkeitsanalyse]
-(BSG B 14 AS 30/13 R, 04.06.2014). Eine Absenkung auf einen
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Betrag unterhalb der tatsächlichen Kosten ist unzulässig.
 
 V. Einkommensbereinigung (§ 11b SGB II)
@@ -221,11 +216,11 @@ der Sanktionsbescheid ist rechtswidrig, weil:
 
 2. Kein Verschulden: Die Pflichtverletzung war nicht ver-
    schuldet, weil [konkreter Grund: Krankheit, Irrtum, 
-   Kommunikationsfehler]. BVerfG 1 BvL 7/16 (05.11.2019):
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Sanktionen sind nur bei Verschulden verfassungskonform.
 
 3. Verhältnismäßigkeit: Die festgesetzte Minderung von [X %]
-   gefährdet das Existenzminimum. Nach BVerfG 1 BvL 7/16
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    muss ein Härteparagraph greifen.
 
 Wir beantragen: Aufhebung des Sanktionsbescheids.
@@ -272,10 +267,10 @@ Mit freundlichen Grüßen
 
 | Jobcenter-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| "KdU nicht angemessen" | Schlüssiges Konzept angreifen (BSG B 14 AS 30/13 R): Daten veraltet, Markt nicht abgebildet |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Einnahmen als Einkommen angerechnet" | § 11a SGB II: Ausnahmen prüfen (Aufwandsentschädigungen, Wohngeld, Kindergeld-Teile) |
 | "Vermögen vorhanden" | § 12 Abs. 2: Freibetrag EUR 15000 pro Person; Karenzjahr § 12 Abs. 3; Schonvermögen (Hausrat, Altersvorsorge) |
-| "Sanktion wegen Ablehnung Arbeit" | BVerfG 1 BvL 7/16: Härteklausel; kein Verschulden; zumutbare Arbeit prüfen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Aufhebung § 48 SGB X korrekt" | Handlungs-/Kenntnis-Verschulden nicht vorhanden; Vertrauensschutz § 45 SGB X |
 | "Vorläufige Leistung § 41a wird endabgerechnet" | Höhe der Nachforderung begrenzt; Billigkeitslösung § 43 SGB II |
 | "Keine Anhörung nötig" | § 24 SGB X gilt bei allen belastenden VA; Heilung nur im Widerspruch, nicht im Bescheid |
@@ -299,7 +294,7 @@ Mit freundlichen Grüßen
 | Fallkonstellation | Empfehlung |
 |---|---|
 | KdU-Kürzung | Schlüssiges Konzept des Jobcenters prüfen; Mietspiegel / Marktatlas gegenüberstellen |
-| Sanktionsbescheid | Rechtsfolgenbelehrung und Verschulden sofort prüfen; Härteklausel BVerfG 1 BvL 7/16 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Aufhebungs-/Erstattungsbescheid | § 45 oder § 48 SGB X Rechtsgrundlage? Vertrauensschutz und Jahresfristen prüfen |
 | Eilschutz nötig | § 86b Abs. 2 SGG sofort stellen; kein Suspensiveffekt § 39 SGB II beachten |
 | Mehrfach-Bescheide | Jeden Bescheid einzeln anfechten; Sammelwiderspruch vermeiden |
@@ -322,4 +317,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. SGB II §§ 7, 11, 11a, 11b, 12, 20, 21, 22, 31, 31a, 39, 41a, 43. SGB X §§ 24, 25, 35, 44, 45, 48. SGG §§ 84, 86b, 87, 183. BVerfG 1 BvL 1/09 (09.02.2010, BVerfGE 125, 175). BVerfG 1 BvL 7/16 (05.11.2019, BVerfGE 152, 68). BSG B 14 AS 30/13 R (04.06.2014). BSG B 4 AS 44/11 R (16.04.2013). PostModG (Vier-Tage-Fiktion § 37 Abs. 2 SGB X ab 01.01.2025). Regelbedarfs-Ermittlungsgesetz (RBEG) jährlich anpassen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

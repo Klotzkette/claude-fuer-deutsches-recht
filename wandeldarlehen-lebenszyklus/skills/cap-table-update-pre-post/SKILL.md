@@ -1,6 +1,6 @@
 ---
 name: cap-table-update-pre-post
-description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Pruefraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
+description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Cap-Table Update – Pre-Money und Post-Money
@@ -26,8 +26,7 @@ Dieser Skill erstellt die Pre-Money-Cap-Table (vor Wandlung und Kapitalerhöhung
 - § 272 HGB (Eigenkapitalausweis)
 
 ### Rechtsprechung
-- BGH, Urt. v. 17. November 2008 – II ZR 244/07 (Gesellschafterliste § 40 GmbHG – Eintragung und Wirkung)
-- OLG Frankfurt, Beschl. v. 5. Mai 2015 – 20 W 174/13 (Gesellschafterlistenpflicht bei Kapitalerhöhung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -97,9 +96,9 @@ Stand: 05/2026. Bei Änderung GmbHG § 40 aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 22: Die Gesellschafterliste nach § 40 GmbHG ist unverzüglich nach Abtretung/Wandlung vom Notar oder Geschäftsführer beim Handelsregister einzureichen; bis zur Einreichung der neuen Liste gilt der bisherige Gesellschafter als legitimiert — Wandelnder erlangt erst mit Listeneintragung die formelle Gesellschafterstellung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 20.09.2011 — **II ZR 234/09**, NJW 2012, 301 Rn. 16: Verwässerungsschutzklauseln (Anti-Dilution) in Wandeldarlehensverträgen sind im Kapital-Erhöhungsbeschluss zu berücksichtigen; Cap Table muss vor und nach Wandlung die vollständig verwässerten Anteile (Fully Diluted) einschließlich aller Wandelrechte abbilden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

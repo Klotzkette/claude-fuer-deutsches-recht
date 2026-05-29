@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
-description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht pruefen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Pruefraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsaufloesung Hinweisgeberschutz. Output: Kollisionspruefmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill fuer Kollisionsfragen."
+description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -42,13 +42,7 @@ description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG u
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | I ZR 136/17 | 26.02.2020 | GeschGehG-Übergangssachverhalt: Maßnahmen bereits vor 26.4.2019 entscheidend für Schutzstatus |
-| BGH | I ZB 173/12 | 24.07.2014 | Reverse Engineering bei Standardsoftware: AGB-Klausel häufig unwirksam § 307 BGB |
-| BAG | 2 AZR 547/05 | 23.03.2006 | Allgemeines Berufswissen und erlernte Fähigkeiten kein Geschäftsgeheimnis; Datenträgermitnahme schon Verletzung |
-| OLG Köln | 6 U 104/14 | 17.10.2014 | Angemessenheit Geheimhaltungsmaßnahmen: fehlende IT-Zugriffskontrollen schließen Schutz aus |
-| OLG Düsseldorf | I-15 U 67/21 | 07.12.2021 | GeschGehG-Verfahren: Geheimhaltungsanordnung § 16 setzt konkrete Bezeichnung des Geheimnisses voraus |
-| LG Hamburg | 315 O 340/19 | 14.01.2020 | NDA-Whistleblower-Klausel unwirksam, soweit sie § 5 Nr. 2 GeschGehG ausschließt |
-| BVerfG | 2 BvR 2402/10 | 14.07.2011 | Pressefreiheit und Whistleblowing: Interessenabwägung verfassungsrechtlich geboten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Vier-Stufen-Test § 2 Nr. 1 GeschGehG
 
@@ -236,12 +230,12 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Die Information ist allgemein bekannt / im Internet abrufbar" | Beklagter | Konkrete Quellenrecherche; Unterschied zwischen teilweise bekannter Struktur und spezifischer Detailkombination |
-| „Keine angemessenen Geheimhaltungsmaßnahmen — Klage scheitert" | Beklagter | Drei-Ebenen-Nachweis (org/vertragl/techn); ex-post-Dokumentation schadet nicht, wenn Maßnahmen tatsächlich bestanden |
-| „Ich bin Hinweisgeber — § 5 Nr. 2 GeschGehG / HinSchG schützt mich" | Beklagter | Prüfen: Deckt HinSchG § 2 den Sachverhalt ab? War Meldung nur zu eigenem Vorteil oder tatsächlich öffentliches Interesse? |
-| „Das ist allgemeines Berufswissen, kein Geheimnis" | Beklagter | BAG 2 AZR 547/05: Trennlinie Datenträgermitnahme vs. im Kopf getragenes Wissen; konkrete Dokumentenmitnahme nachweisen |
-| „Reverse Engineering nach § 3 GeschGehG erlaubt" | Beklagter | Prüfen: Produkt rechtmäßig erlangt? Keine AGB-Beschränkung (§ 307 BGB)? Keine Urheberrechtsverletzung (§ 69e UrhG)? |
-| „NDA-Klausel ist nach § 307 BGB unwirksam" | Beklagter | Individualvertrag vs. AGB unterscheiden; bei Kaufmann § 310 BGB; Inhaltskontrolle trotzdem durchführen |
+| "Die Information ist allgemein bekannt / im Internet abrufbar" | Beklagter | Konkrete Quellenrecherche; Unterschied zwischen teilweise bekannter Struktur und spezifischer Detailkombination |
+| "Keine angemessenen Geheimhaltungsmaßnahmen — Klage scheitert" | Beklagter | Drei-Ebenen-Nachweis (org/vertragl/techn); ex-post-Dokumentation schadet nicht, wenn Maßnahmen tatsächlich bestanden |
+| "Ich bin Hinweisgeber — § 5 Nr. 2 GeschGehG / HinSchG schützt mich" | Beklagter | Prüfen: Deckt HinSchG § 2 den Sachverhalt ab? War Meldung nur zu eigenem Vorteil oder tatsächlich öffentliches Interesse? |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Reverse Engineering nach § 3 GeschGehG erlaubt" | Beklagter | Prüfen: Produkt rechtmäßig erlangt? Keine AGB-Beschränkung (§ 307 BGB)? Keine Urheberrechtsverletzung (§ 69e UrhG)? |
+| "NDA-Klausel ist nach § 307 BGB unwirksam" | Beklagter | Individualvertrag vs. AGB unterscheiden; bei Kaufmann § 310 BGB; Inhaltskontrolle trotzdem durchführen |
 
 ## Streitwert und Kosten
 
@@ -288,15 +282,15 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 ## Triage-Fragen bei Geschäftsgeheimnis-Mandat
 
 Bevor die Schutzstrategie entwickelt wird, klaere:
-1. Liegen „angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
+1. Liegen "angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
 2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
 3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
 4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 26.02.2020 — I ZR 136/17 (Kundenliste):** Ein Geschaeftsgeheimnis nach neuem GeschGehG setzt voraus, dass der Inhaber erkennbare, angemessene Massnahmen zur Geheimhaltung getroffen hat; eine Kundenliste, die in geoeffneten Ordnern auf einem gemeinsam genutzten Server lag, geniesst keinen Schutz, weil es an den erforderlichen organisatorischen Schutzverkeherungen fehlt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 15.01.2015 — C-580/13 (Coty Germany — Know-how-RL):** Massnahmen zum Schutz von Geschaeftsgeheimnissen koennen auch technischer Natur sein (Zugangskontrollen, Verschluesselung); die Know-how-Richtlinie 2016/943 kodifiziert diese Anforderung und verlangt, dass Massnahmen verhaeltnismaessig und auf das Schutzobjekt abgestimmt sein muessen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BAG, Urt. v. 26.09.2007 — 10 AZR 439/06 (Arbeitnehmer-Whistleblowing):** Der Arbeitnehmer, der Rechtsverletzungen des Arbeitgebers an oeffentliche Stellen meldet, ist vor Kuendigung geschuetzt, wenn er die Information in gutem Glauben und nach Erschoepfung interner Klaerungsmoeglichkeiten weitergegeben hat; eine parallele Haftung fuer Geheimnisverrat scheidet aus, wenn die Meldung dem HinSchG/Art. 5 GeschGehG-Ausnahmetatbestand entspricht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

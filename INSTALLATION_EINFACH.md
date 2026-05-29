@@ -2,7 +2,7 @@
 
 > Diese Seite richtet sich an alle, die in Claude Desktop / Cowork **keinen GitHub-Pfad eingeben können** und einfach nur die Plugins ausprobieren wollen. Es ist kein bisschen blöd, dort etwas zu suchen — der GitHub-Pfad gehört in ein anderes Dialogfeld, das je nach Version unterschiedlich heißt oder gar nicht angeboten wird.
 >
-> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin „Legal Plugin" landet.
+> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin "Legal Plugin" landet.
 
 ## Kurzfassung
 
@@ -10,8 +10,8 @@
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
-3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch „Legal Plugin" installiert wird.
-4. Auf das **+** neben „Persönliche Plugins" klicken und im Dialog das soeben heruntergeladene ZIP auswählen (alternativ: erst auf **Create**, dann **Upload plugin**).
+3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch "Legal Plugin" installiert wird.
+4. Auf das **+** neben "Persönliche Plugins" klicken und im Dialog das soeben heruntergeladene ZIP auswählen (alternativ: erst auf **Create**, dann **Upload plugin**).
 5. Schritte 2–4 für jedes weitere Rechtsgebiet wiederholen, das gebraucht wird.
 
 Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werden, und der Skill ist beim nächsten Chat verfügbar.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **80 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **102 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -33,7 +33,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `kanzlei-allgemein.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
 | `kanzlei-allgemein.zip`                 | Kanzlei-Allgemein-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA             |
-| `grosskanzlei-corporate-ma.zip`           | Freistehend: Big-Law-Corporate/M&A mit Aktenanlage, Datenraum, DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreife, CP-Kalender, E-Rechnung/GoBD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, PMI |
+| `grosskanzlei-corporate-ma.zip`           | Freistehend: Big-Law-Corporate/M&A mit Anfänger-/First-Year-Modus, Aktenanlage, Datenraum, DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreife, CP-Kalender, E-Rechnung/GoBD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, PMI |
 | `kanzlei-builder-hub.zip`                 | Werkzeuge zum Bauen eigener kanzleiinterner Skills, Security-Review                                                        |
 | `verwaltete-agentenrezepte.zip`           | Kuratierte Workflow-Rezepte zum Wiederverwenden                                                                            |
 | `aktenaufbereiter-strafrecht.zip`         | Strukturierung großer Strafakten in den Griff bekommen                                                                     |
@@ -43,7 +43,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `verlagsredaktion.zip`                    | Redaktioneller Assistent für juristische Publikationen                                                                     |
 | `nda-abgleich.zip`                        | NDA-Review aus Empfängersicht, Markup mit Begründungen                                                                     |
 | `methodenlehre-buergerliches-recht.zip`       | Gutachten- vor Urteilsstil, juristische Methodenlehre                                                                      |
-| `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise (Datum + Aktenzeichen, BGHZ-Pinpoint mit Randnummer)                                              |
+| `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise mit Datum, Aktenzeichen, verifizierbarer Quelle und Sperre gegen Blindzitate                     |
 | `common-law-kompass.zip`                  | Common Law, English Law und US Law für deutsche Wirtschaftsjuristen: False Friends, Vertragsbegriffe, Consideration, UCC, Discovery und bilinguale Reviews |
 | `europarecht-kompass.zip`                 | Europarecht ohne deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Beihilfen und Vorlageverfahren |
 | `einfache-leichte-sprache-jura.zip`       | Juristische Texte wahlweise in Einfache Sprache oder Leichte Sprache übertragen, mit Rechtsinhalt-Sicherung und Qualitätsgate |
@@ -52,8 +52,8 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, BGH-Schema Passiva II                                                          |
-| `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, BGH-Volltexte als PDF                                                           |
+| `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, Quote/Lücken-Ampel und Dokumentationspaket                                    |
+| `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, Gläubigerantrag, Anfechtung und Live-Verifikation von Rechtsprechung           |
 | `insolvenzverwaltung.zip`                | Insolvenzverwaltung aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Masse, Tabelle, Anfechtung, § 15b, Insolvenzplan-/StaRUG-Planwerkstatt, § 208, Berichte, Schlussrechnung |
 | `insolvenzforderungsanmeldungspruefung.zip` | Freistehende Forderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund/Betrag/Rang, Bestreiten, Feststellung, Tabelle, Prüfungstermin und § 189-Nachlauf |
 | `insolvenzplan-starug-planwerkstatt.zip` | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, Planentwurf, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Vollzug |
@@ -73,9 +73,10 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `phishing-vorfall-pruefer.zip` | Online-Banking-Phishing, pushTAN, Call-ID-Spoofing, § 675u/§ 675v BGB, Banklogs, Ombudsmann und Klage |
 | `vertragsausfueller.zip` | DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage |
 | `vertragsrecht.zip`                       | NDA, AGB, SaaS, Lieferantenverträge                                                                                        |
-| `fluggastrechte.zip`                      | VO 261/2004, EuGH-Rspr., Ticketprüfung, Pauschalklage                                                                      |
+| `fluggastrechte.zip`                      | VO 261/2004, Ticketprüfung, Pauschalklage und Rechtsprechungsrecherche nur mit Live-Verifikation                         |
 | `arbeitsrecht.zip`                        | Kündigung (KSchG, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, BR-Anhörung                               |
 | `mietrecht.zip`                           | Mieterhöhung, Mietspiegel-Quellen, Eigenbedarf, Schönheitsreparaturen                                                      |
+| `nachbarschaftsstreit-pruefer.zip`        | Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun, Immissionen, Baugrube, Notweg, Hammerschlagsrecht, Beweise, Schreiben und Vergleich |
 | `sozialrecht-kanzlei.zip`                 | Bescheidanalyse, Widerspruch, Klage SGB II/III/V/VI/IX/XII                                                                 |
 | `steuerrecht-anwalt-und-berater.zip`                 | Bescheidanalyse, Einspruch, Klage FG/BFH                                                                                   |
 | `verfassungsrecht.zip`                    | Verfassungsbeschwerde, GG-Auslegung, BVerfG-Verfahren                                                                      |
@@ -86,7 +87,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `aussenwirtschaft-zoll-sanktionen.zip` | Exportkontrolle, Sanktionen, Embargos, Zoll, TARIC, CBAM, Verbrauchsteuer, Antidumping, AWV, AML/KYC, Prüfungen und Krisenkommunikation |
-| `datenschutzrecht.zip`                    | DSGVO/BDSG/TDDDG, PIA/DPIA, AVV-Review, Datenpannenmeldung                                                                 |
+| `datenschutzrecht.zip`                    | DSGVO/BDSG/TDDDG, PIA/DPIA, AVV-Review, Datenpannenmeldung, US-Transfer mit DPF/SCC/TIA                                    |
 | `geldwaeschepraevention-aml-kyc.zip` | Geldwäscheprävention, AML/KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Audit und Behördenverfahren |
 | `ki-governance.zip`                       | EU-KI-VO + DSGVO: Use-Case-Triage, KI-Inventar, Vendor-Review                                                              |
 | `berufsrecht-ki-vertragspruefung.zip`     | Berufsrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern                                                         |
@@ -129,6 +130,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | `forderungsmanagement-klagewerkstatt` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | `phishing-vorfall-pruefer` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | `vertragsausfueller` |
+| `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | `nachbarschaftsstreit-pruefer` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | `geldwaeschepraevention-aml-kyc` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | `common-law-kompass` |
@@ -142,7 +144,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 
 Eine Testakte wird **nicht über den Plugin-Upload** geladen, sondern direkt im Chat als Mandatsunterlage abgelegt (per Drag-and-drop oder als Anhang).
 
-## Hilfe, kein „+" da
+## Hilfe, kein "+" da
 
 Je nach Claude-Desktop- / Cowork-Version sieht der Plugin-Dialog leicht anders aus. Die typischen Stellen, an denen der Upload-Knopf sitzt:
 
@@ -167,7 +169,7 @@ Falls das ebenfalls kein Dialogfeld findet, ist die Cowork-Version zu alt für M
 
 Nach der Installation in eine neue Konversation gehen und schreiben:
 
-> „Bitte mache eine 3-Wochen-Liquiditätsvorschau für eine kleine GmbH."
+> "Bitte mache eine 3-Wochen-Liquiditätsvorschau für eine kleine GmbH."
 
 Wenn Claude jetzt nach Sachverhalt, Bankstand, offenen Forderungen und Daueraufträgen fragt und am Ende eine Excel-Tabelle vorschlägt, ist die Installation gelungen.
 

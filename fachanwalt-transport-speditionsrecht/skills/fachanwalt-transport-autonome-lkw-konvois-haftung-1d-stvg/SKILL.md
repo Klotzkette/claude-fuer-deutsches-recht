@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg
-description: "Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Pruefraster: Halterhaftung, technisches Versagen, Konvoi-Fuehrer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtfuehrerhaftung ohne Automatisierung."
+description: "Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüfraster: Halterhaftung, technisches Versagen, Konvoi-Führer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtführerhaftung ohne Automatisierung."
 ---
 
 # Autonome LKW-Konvois – Haftung § 1d StVG und CMR
@@ -50,10 +50,7 @@ Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehi
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH VI ZR 111/21 | BGH, 26.10.2021 | Fahrspurassistenzsystem: Fahrerassistenz entlastet Fahrer nur wenn System bestimmungsgemäß eingesetzt; manuelle Übersteuerungspflicht bei Systemwarnung |
-| EuGH C-36/23 | EuGH, 2024 (anhängig) | EU-Typgenehmigung als Grundlage für Produktfehlervorwurf; nationale Gerichte dürfen nicht abweichende Sicherheitsstandards anlegen |
-| BGH I ZR 100/19 | BGH, 30.01.2020 | CMR Art. 29: Systemausfälle bei automatisierter Verarbeitung begründen qualifiziertes Verschulden wenn Frachtführer keine Redundanzkontrolle betreibt |
-| LG München I 13 O 1212/22 | LG München I, 2023 | Produkthaftung Software: Softwarefehler in Assistenzsystem ist Produktfehler nach § 3 ProdHaftG wenn Sicherheitserwartungen der Allgemeinheit nicht erfüllt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -236,11 +233,11 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Frachtführer haftet nicht wegen autonomen Systems" | CMR Art. 17 ist verschuldensunabhängige Obhutshaftung; autonomer Modus ändert Haftungsgrundlage nicht; Frachtführer muss Haftungsausschluss Art. 17 Abs. 2 CMR beweisen |
-| „§ 7 StVG greift nicht weil autonomes Fahrzeug kein klassisches Kfz" | § 1d StVG ändert nichts an der Halterhaftung nach § 7 StVG; Halter haftet nach § 7 bei jedem Betrieb des Fahrzeugs |
-| „Black-Box-Daten sind nicht zugänglich" | § 1g StVG: Pflicht zur Datenspeicherung; § 1h StVG: Auskunftspflicht gegenüber Behörden; gerichtlicher Herausgabeanspruch bei drohender Vernichtung möglich (§ 809 BGB) |
-| „Software ist kein Produkt nach ProdHaftG" | § 2 ProdHaftG: Software ist Produkt; EuGH-Rechtsprechung bestätigt dies für eingebettete Software (C-36/23 anhängig) |
-| „Fahrer hätte eingreifen müssen" | Bei Level 3/4: Fahrer ist nur zur Übernahme verpflichtet wenn System Übergabe anfordert; ohne Anforderung keine Eingreifpflicht |
+| "Frachtführer haftet nicht wegen autonomen Systems" | CMR Art. 17 ist verschuldensunabhängige Obhutshaftung; autonomer Modus ändert Haftungsgrundlage nicht; Frachtführer muss Haftungsausschluss Art. 17 Abs. 2 CMR beweisen |
+| "§ 7 StVG greift nicht weil autonomes Fahrzeug kein klassisches Kfz" | § 1d StVG ändert nichts an der Halterhaftung nach § 7 StVG; Halter haftet nach § 7 bei jedem Betrieb des Fahrzeugs |
+| "Black-Box-Daten sind nicht zugänglich" | § 1g StVG: Pflicht zur Datenspeicherung; § 1h StVG: Auskunftspflicht gegenüber Behörden; gerichtlicher Herausgabeanspruch bei drohender Vernichtung möglich (§ 809 BGB) |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| "Fahrer hätte eingreifen müssen" | Bei Level 3/4: Fahrer ist nur zur Übernahme verpflichtet wenn System Übergabe anfordert; ohne Anforderung keine Eingreifpflicht |
 
 ---
 
@@ -263,7 +260,7 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 | Personenschaden durch autonomen LKW | Primär § 7 StVG (Halter), sekundär ProdHaftG (Hersteller); beide als Gesamtschuldner verklagen |
 | Ladungsschaden des Frachtkunden | Direktanspruch gegen Frachtführer aus CMR Art. 17; Frachtführer nimmt Regress gegen Hersteller nach ProdHaftG |
 | Black-Box-Daten drohen gelöscht zu werden | Einstweilige Verfügung auf Datensicherung nach § 809 BGB; Sicherungsantrag beim KBA nach § 1h StVG |
-| Hersteller bestreitet Produktfehler | Sachverständigengutachten DEKRA/TÜV; KBA-Typgenehmigungsunterlagen anfordern; ggf. Vorabentscheidung EuGH zu VO 2022/1426 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Technische Aufsicht hat nicht reagiert | Verschuldenshaftung der benannten Person; ggf. auch des Halters für Auswahl und Überwachung nach § 831 BGB |
 
 ---
@@ -279,9 +276,9 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 
 ## Quellen
 
-StVG §§ 1d–1h, 7, 12, 18 (in der Fassung nach Reform 2021). ProdHaftG §§ 1–3, 10, 12–13. PflVG § 1. CMR Art. 3, 17, 29. BGB §§ 254, 426, 809, 831. VO (EU) 2022/1426 (ALKS). VO (EU) 2019/2144. BGH VI ZR 111/21. BGH I ZR 100/19. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
 ---
 
-> **Audit 27.05.2026** — OLG Hamm 11 U 12/23 (behauptetes Thema: autonomes Fahrzeug Level 3, Halterhaftung § 7 StVG; behauptetes Datum: 12.03.2024) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); keine Web-Fundstelle ermittelbar. Eintrag gelöscht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

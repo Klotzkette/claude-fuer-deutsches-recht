@@ -1,6 +1,6 @@
 ---
 name: einreden-aktiv-geltend-machen
-description: "Einreden aktiv geltend machen Verjaehrung Aufrechnung Zurueckbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prueft nicht von Amts wegen ausser bei rechtsvernichtenden oder rechtshindernden Einwendungen."
+description: "Einreden aktiv geltend machen Verjährung Aufrechnung Zurückbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prüft nicht von Amts wegen außer bei rechtsvernichtenden oder rechtshindernden Einwendungen."
 ---
 
 # Einreden: Sie muessen sie erheben!

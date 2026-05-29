@@ -1,6 +1,6 @@
 ---
 name: einsprachige-vertragsfassung-de
-description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten fuer rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Pruefraster: SAFE-Konditionen BGB-Konformitaet Schriftformerfordernisse Investoren-Sonderrechte. Output: vollstaendiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht fuer bilinguale Fassung (bilinguale-vertragserstellung)."
+description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten für rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Prüfraster: SAFE-Konditionen BGB-Konformität Schriftformerfordernisse Investoren-Sonderrechte. Output: vollständiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht für bilinguale Fassung (bilinguale-vertragserstellung)."
 ---
 
 # Einsprachige Vertragsfassung (nur DE)
@@ -24,7 +24,7 @@ Dieser Skill erzeugt aus der bilingualen Fassung eine rein deutsche Vertragsfass
 - Keine gesonderten Anforderungen: Die einsprachige Fassung unterliegt denselben Formregeln wie die bilinguale Fassung.
 
 ### Rechtsprechung
-- BGH, Urt. v. 18. Juni 2012 – II ZR 50/11 (Auslegung schriftlicher Verträge – Wortlaut maßgeblich)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -32,7 +32,7 @@ Dieser Skill erzeugt aus der bilingualen Fassung eine rein deutsche Vertragsfass
 Aus der bilingualen Tabelle wird exakt der deutsche Text extrahiert. Keine Umformulierungen, keine Kürzungen, keine Ergänzungen.
 
 ### 2. Formatierung mit Heading-Stilen
-- Heading 1: Vertragsüberschrift (z. B. „Wandeldarlehensvertrag")
+- Heading 1: Vertragsüberschrift (z. B. "Wandeldarlehensvertrag")
 - Heading 2: Paragrafenüberschriften (§ 0 Präambel, § 1 Darlehensgewährung, …)
 - Heading 3: Unterabschnitte
 - Normal: Vertragstext
@@ -95,9 +95,9 @@ Stand: 05/2026. Bei Änderung BGB-Formvorschriften aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 18: Das Wandeldarlehen als deutschrechtliche Konstruktion erfordert eine deutschsprachige Vertragsfassung für die gesellschaftsrechtlichen Elemente; die Wandlungsabrede selbst — soweit sie Gesellschafterpflichten begründet — unterliegt § 55 Abs. 2 GmbHG (notarielle Beurkundung in Deutsch).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 14: Bei einsprachig deutschem Wandeldarlehensvertrag muss die Definition der wesentlichen Begriffe (Qualified Financing, Cap, Discount, Wandlungspreis) präzise sein; Unklarheiten in der deutschen Fassung werden nach §§ 133, 157 BGB gegen den Verwender ausgelegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

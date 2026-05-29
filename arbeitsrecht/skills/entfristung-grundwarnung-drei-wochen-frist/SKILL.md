@@ -20,17 +20,11 @@ Die Dreiwochenfrist des § 17 TzBfG ist die wichtigste und gefährlichste Frist 
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Die Frist des § 17 TzBfG beginnt mit dem **vereinbarten** Ende des Arbeitsvertrags, nicht mit dem tatsächlichen Ende der Beschäftigung. Eine über das vereinbarte Ende hinausgehende Weiterbeschäftigung hemmt den Fristlauf nicht.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Versäumt der Arbeitnehmer die 3-Wochen-Frist, gilt die Befristung nach § 17 Satz 2 TzBfG i.V.m. § 7 KSchG als wirksam — selbst wenn sie materiell-rechtlich unwirksam gewesen wäre (Schriftformmangel, fehlendes Sachgrund, Vorbeschäftigungsverbot).
-- BAG, Urt. v. 19.02.2008 – 9 AZR 70/07, NZA 2008, 1004 — Nachträgliche Zulassung (§ 17 Satz 2 TzBfG i.V.m. § 5 KSchG) setzt Verschuldensfreiheit voraus; fehlende Rechtskenntnis des Arbeitnehmers allein genügt nicht als Entschuldigungsgrund.
-- BAG, Urt. v. 15.05.2012 – 7 AZR 6/11, NZA 2012, 1142 — Mehrere aufeinanderfolgende befristete Verträge: Die Klagefrist beginnt jeweils mit dem vereinbarten Ende des **letzten** Vertrags; frühere Verträge können nicht mehr angegriffen werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 17 TzBfG Rn. 1 ff. (Fristbeginn, Ausnahmen, Zulassung)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 40 Rn. 50 ff. (Befristungskontrollklage)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 17 TzBfG Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die Norm — § 17 TzBfG (vollständig)
 
 > **Satz 1:** Will der Arbeitnehmer geltend machen, dass die Befristung eines Arbeitsvertrags rechtsunwirksam ist, so muss er innerhalb von drei Wochen nach dem vereinbarten Ende des befristeten Arbeitsvertrags Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis auf Grund der Befristung nicht beendet ist.
@@ -45,7 +39,7 @@ Die Frist beginnt mit dem **vereinbarten** Ende des Arbeitsvertrags (laut Vertra
 
 **Fristbeginn-Entscheidungsbaum:**
 ```
-Vertrag sagt: „befristet bis 31.03.2025"
+Vertrag sagt: "befristet bis 31.03.2025"
 → Fristbeginn: 01.04.2025 (§ 187 Abs. 1 BGB — Anfangstag zählt nicht)
 → Fristende: 22.04.2025 um 24:00 Uhr (3 × 7 Tage = 21 Tage, §§ 188 Abs. 2, 187 Abs. 1 BGB)
 → Fällt 22.04.2025 auf Samstag/Sonntag/Feiertag: nächster Werktag (§ 193 BGB)

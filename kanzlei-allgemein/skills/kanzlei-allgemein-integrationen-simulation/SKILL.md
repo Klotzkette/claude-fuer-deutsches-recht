@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-integrationen-simulation
-description: "Prueft Kanzlei-Integrationen und fuehrt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Pruefraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis fuer nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart."
+description: "Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Prüfraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis für nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart."
 ---
 
 # Integrationen und Simulationsmodus
@@ -13,10 +13,7 @@ description: "Prueft Kanzlei-Integrationen und fuehrt Workflows im Simulationsmo
 4. Soll der Simulationsmodus fuer Training, Demo oder als dauerhafter Fallback genutzt werden?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenverarbeitung ueber Cloud-Dienste erfordert DSGVO-konforme Auftragsverarbeitung (Art. 28); auch Testsysteme mit echten Daten sind nicht erlaubt.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Simulationsumgebungen mit echten Mandantendaten koennen Datenschutzverletzungen darstellen; Anonymisierung oder Pseudonymisierung ist Pflicht.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Einsatz technischer Hilfsmittel in der Anwaltskanzlei ist berufsrechtlich zulaessig, wenn persoenliche Verantwortung gewahrt bleibt.
-- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — TOM nach Art. 32 DSGVO gelten auch fuer Testsysteme und Simulationsumgebungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag fuer externe Systemanbieter
@@ -24,10 +21,9 @@ description: "Prueft Kanzlei-Integrationen und fuehrt Workflows im Simulationsmo
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus mit echten Daten
 - § 203 StGB — Verletzung der Berufsgeheimnisse bei unerlaubter Datenweitergabe
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 28 Rn. 1-40 (Auftragsverarbeitung und Systemintegration)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit bei Einsatz externer Systeme)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill klärt, welche Systeme wirklich angeschlossen sind. Wenn etwas fehlt, fragt er freundlich, ob der Nutzer es verbinden oder simulieren möchte. So bleibt der Workflow testbar, ohne echte beA-, Outlook-, Word-, Messenger-, Fax- oder Buchhaltungszugänge zu benötigen.

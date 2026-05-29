@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-transaktionsstruktur
-description: "Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen fuer M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH."
+description: "Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen für M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH."
 ---
 
 # Transaktionsstruktur
@@ -27,17 +27,11 @@ description: "Transaktionsstruktur: Entwickelt und bewertet Transaktionsstruktur
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 01.03.2010 - II ZR 171/08, BGHZ 185, 330 — Konzernstruktur und Minderheitsschutz: Bei Uebertragung wesentlicher Vermoegensteile auf Tochtergesellschaft muessen Minderheitsgesellschafter der Konzernmutter nicht zustimmen, es sei denn Aufloesung der Gesellschaft faktisch
-- BGH, Urt. v. 25.02.1982 - II ZR 174/80, BGHZ 83, 122 — Strukturentscheidung: Gesellschafterversammlung kann Formwechsel beschliessen; Minderheit hat Austrittsrecht gegen Barabfindung
-- BFH, Urt. v. 11.07.2019 - I R 26/18, BStBl II 2020, 201 — Einbringung: Buchwertfortfuehrung nur wenn deutsches Besteuerungsrecht gesichert; keine Entstrickung
-- OLG Frankfurt, Urt. v. 22.09.2020 - 5 U 99/19, NZG 2021, 112 — Carve-Out-Struktur: Verkaefer haftet fuer vor Closing abgespaltete Verbindlichkeiten wenn nicht ausreichend offengelegt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Haritz/Menner/Bilitewski UmwStG (5. Aufl. 2019) §§ 20-24 — Einbringungsmodelle
-- MueKo AktG/Altmeppen § 311 Rn. 1 ff. — faktischer Konzern und Strukturmassnahmen
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 3 — Strukturwahl und Steuern
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsmatrix: Share Deal vs. Asset Deal
 
 | Kriterium | Share Deal | Asset Deal |
@@ -119,5 +113,5 @@ NAECHSTE SCHRITTE:
 ## Quellen
 
 - §§ 20-24 UmwStG; § 8c KStG; § 6a GrEStG; §§ 311, 291 ff. AktG; §§ 15-16 UmwStG
-- BGH II ZR 171/08 (Konzernstruktur); BFH I R 26/18 (Einbringung); OLG Frankfurt 5 U 99/19 (Carve-Out)
-- Haritz/Menner UmwStG (5. Aufl. 2019); Holzapfel/Poellath Kap. 3; MueKo AktG/Altmeppen § 311
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

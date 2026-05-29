@@ -36,23 +36,19 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 
 **§ 67 StBerG** — Berufshaftpflicht.
 
-### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
+### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
-| BAG 9 AZR 305/05 | Arbeitnehmereigenschaft nach Gesamtbild der Verhaeltnisse |
-| BAG 5 AZR 1/12 | Werkvertrag und AN — Abgrenzung |
-| BAG 9 AZR 102/20 (Crowdwork — Urt. v. 01.12.2020 — Az. zwingend in juris/beck-online verifizieren) | Crowdworker kann unter Beruecksichtigung des Gesamtbilds AN sein |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 
-### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
+### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
-| BSG B 12 R 22/13 R | Familien-GGF — beherrschende Stellung trotz Minderheitsbeteiligung moeglich |
-| BSG B 12 KR 13/17 R | Statusfeststellung Schwiegersohn-Geschaeftsfuehrer Familien-GmbH |
-| BSG B 12 R 13/12 R | Mehrheits-GGF in der Regel selbstaendig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 
-Hinweis: Im civil law ist auch ohne Praezedenzbindung die Kommentar- und Aufsatzliteratur argumentativ tragend (vgl. CLAUDE.md). Bei aktuellen Streitfaellen daher zusaetzlich Bearbeiter im Kasseler Kommentar, MuenchKomm-SGB IV, GK-SGB IV sowie aktuelle Aufsaetze (NZA, NZS, DStR) heranziehen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Workflow
 
@@ -134,4 +130,6 @@ Stand: 05/2026.
 - ArbGG § 1; SGG § 51.
 - StBerG § 67.
 - StGB § 266a.
-- BAG- und BSG-Linien (verifizieren).
+- BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Pruefhinweise ohne Marker) -->

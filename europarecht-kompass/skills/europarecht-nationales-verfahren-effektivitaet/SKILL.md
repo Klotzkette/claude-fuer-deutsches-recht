@@ -1,6 +1,6 @@
 ---
 name: europarecht-nationales-verfahren-effektivitaet
-description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz pruefen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Pruefraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Pruefmemo Klageoptionen. Abgrenzung: nicht fuer allgemeines Verfahrensrecht."
+description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht."
 ---
 
 # Nationales Verfahren und Effektivität
@@ -58,10 +58,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 16.12.1976 - 33/76 (Rewe), EuGHE 1976, 1989 — Aequivalenz- und Effektivitaetsgrundsatz: nationales Verfahrensrecht anwendbar; muss aber Durchsetzung von EU-Rechten nicht praktisch unmoeglich machen und nicht weniger guenstig sein als bei rein nationalen Klagen.
-- EuGH, Urt. v. 10.04.2003 - C-246/00 (Kommission/Niederlande), EuZW 2003, 500 — Einstweiliger Rechtsschutz: nationales Gericht muss vorlaeufigen Rechtsschutz gewaehren koennen wenn EU-Recht auf dem Spiel steht; nationale Ablehnungsgruende koennen den effet utile nicht aushebeln.
-- EuGH, Urt. v. 20.09.2001 - C-453/99 (Courage), EuZW 2001, 737 — Kartellschadensersatz: Private koennen Art. 101 AEUV vor nationalem Gericht geltend machen; nationales Recht muss wirksamen Schadensersatz ermoelichen; Vollstaendigkeit durch private enforcement.
-- EuGH, Urt. v. 06.10.2020 - C-66/18 (Kommission/Ungarn), EuZW 2021, 33 — Effektivitaet bei EU-Grundrechten: Verfahrensrecht das GRCh-Rechte aushöhlt ist mit EU-Recht unvereinbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette
 

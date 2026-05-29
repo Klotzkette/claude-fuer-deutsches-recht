@@ -25,19 +25,11 @@ description: "Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagess
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 17.09.2020 - 4 StR 134/20, NStZ 2021, 108 — Tagessatzhoehe richtet sich nach dem Nettoeinkommen zur Tatzeit; bei Einkommensveraenderungen zwischen Tat und Urteil ist regelmaessig das Urteilszeitpunkt-Einkommen massgeblich.
-- BGH, Urt. v. 12.01.2021 - 6 StR 372/20, NStZ 2021, 354 — Schaetzung nach § 40 Abs. 2 Satz 3 StGB ist nur zulaessig wenn Gericht die Einkommensermittlung ausgeschoepft hat; reine Nichtangabe des Einkommens genuegt allein nicht.
-- OLG Hamm, Beschl. v. 20.04.2021 - 4 RVs 40/21, NStZ-RR 2021, 305 — Ratenzahlungsantrag nach § 42 StGB hat keinen Suspensiveffekt; Vollstreckung kann trotz Antrag eingeleitet werden.
-- BGH, Beschl. v. 03.09.2019 - 4 StR 247/19, NStZ 2020, 45 — § 41 StGB (Geldstrafe neben Freiheitsstrafe) setzt voraus, dass Verurteiler aus der Tat wirtschaftliche Vorteile gezogen hat oder besondere Begleitumstaende vorliegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fischer StGB § 40 Rn. 1-35 (Tagessatzsystem, Nettoeinkommen, Schaetzung)
-- Fischer StGB § 42 Rn. 1-15 (Ratenzahlung, Zahlungserleichterung)
-- Fischer StGB § 43 Rn. 1-10 (Ersatzfreiheitsstrafe)
-- MueKo StGB / Radtke § 40 Rn. 1-50 (vollstaendige Kommentierung)
-- Schoenke/Schroeder/Kinzig StGB § 40 Rn. 1-25
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berechnungsschema Tagessatz
 
 ```

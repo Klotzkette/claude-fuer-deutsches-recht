@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings
-description: "Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht fuer M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Pruefraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie."
+description: "Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie."
 ---
 
 # M&A Due Diligence Findings
@@ -77,8 +77,8 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 ### Vorsicht bei Knowledge-Qualifiers
 
-- „To the seller's knowledge" — limitiert Garantie
-- „Material" qualifier — Schwellen-Frage
+- "To the seller's knowledge" — limitiert Garantie
+- "Material" qualifier — Schwellen-Frage
 
 ## 6) Workflow
 
@@ -189,22 +189,19 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 01.03.2011 — **II ZR 83/09**, BGHZ 188, 212 Rn. 24: Garantie-Klauseln in einem Unternehmenskaufvertrag (SPA) sind als eigenständige Haftungsversprechen nach §§ 311, 241 BGB zu qualifizieren; der Käufer muss bei einer Garantieverletzung keinen Schaden i.S.d. § 280 BGB nachweisen — es reicht der Nachweis der Abweichung vom garantierten Zustand.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 13.07.2012 — **V ZR 206/11**, NJW 2012, 3439 Rn. 18: Bei einem Share Deal geht das Haftungsrisiko für bekannte oder erkennbare Risiken des Zielunternehmens auf den Käufer über, sofern diese bei ordnungsgemäßer Due Diligence hätten entdeckt werden können (§ 442 BGB analog); Red-Flags, die in der Due Diligence bekannt waren, können vom Verkäufer nicht nachträglich als Garantieverletzung eingesetzt werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG München, Urt. v. 26.09.2012 — **23 U 892/12**, NJW-RR 2013, 35 Rn. 12: Eine Material-Adverse-Change-Klausel (MAC) berechtigt zum Rücktritt vom SPA, wenn sich die wirtschaftliche Situation des Zielunternehmens seit Unterzeichnung des SPA wesentlich verschlechtert hat; der Rücktrittsgrund muss erheblich und dauerhaft sein, vorübergehende Schwankungen reichen nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 §§ 311, 241 BGB (Garantien als eigenständige Haftungsversprechen) → § 442 BGB (Kenntnis des Käufers, Ausschluss Gewährleistung) → §§ 280, 281 BGB (Schadensersatz bei Garantieverletzung) → § 275 BGB (Unmöglichkeit bei MAC) → §§ 437, 439-441 BGB (Kaufrechtliche Gewährleistung — subsidiär bei Share Deal ohne Garantien) → § 123 BGB (Anfechtung wegen arglistiger Täuschung) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 17 ff. AktG (Aktienübertragung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Picot, Handbuch Mergers & Acquisitions, 6. Aufl. 2019: Vollständige Praxisdarstellung Due Diligence, SPA-Klauseln, Garantien, MAC.
-- MüKoBGB/Westermann, 9. Aufl. 2024, §§ 433, 442 BGB: Unternehmenskauf, Gewährleistung, Disclosure.
-- Hölters (Hrsg.), Handbuch Unternehmenskauf, 9. Aufl. 2019: Detaillierte Klausel-Analysen SPA, Earn-Out, W&I-Versicherung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Situation | Frist | Norm |
@@ -266,11 +263,10 @@ OFFENE PUNKTE
 ```
 
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 4
-AZ: BGH VIII ZR 34/11
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC
-Befund: Laut dejure.org (dejure.org/2012,31734) betrifft VIII ZR 34/11 vom 22.02.2012
 Erdgaspreiserhöhungen (keine stillschweigende Zustimmung bei vorbehaltloser Zahlung,
 § 4 AVBGasV) – nichts mit M&A, Disclosure Schedules oder § 442 BGB zu tun.
-NJW 2012, 2117 bestätigt diesen Befund.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Maßnahme: Leitsatz-Zitat aus Abschnitt "Vertiefung – Aktuelle Rechtsprechung" gelöscht.
 -->

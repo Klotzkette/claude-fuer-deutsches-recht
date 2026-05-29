@@ -1,6 +1,6 @@
 ---
 name: entfristung-laie-oder-anwalt-frage
-description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhaeltnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist."
+description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist."
 ---
 
 # Entfristung: Laie oder Anwalt?
@@ -16,9 +16,7 @@ description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnun
 
 ## Warum anwaltliche Beratung besonders wichtig ist
 
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Die 3-Wochen-Frist des § 17 TzBfG ist materiell-rechtliche Ausschlussfrist; nach Ablauf ist kein Angriff auf die Befristung mehr möglich, selbst bei evidentem Formfehler.
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Schriftformfehler (elektronische Signatur) macht die Befristung automatisch unwirksam — aber nur wenn rechtzeitig Klage erhoben wird; ohne Klage tritt Fiktionswirkung ein.
-- BAG, Urt. v. 19.02.2008 – 9 AZR 70/07, NZA 2008, 1004 — Fehlende Rechtskenntnis des Arbeitnehmers ist kein Entschuldigungsgrund für nachträgliche Zulassung; die Frist läuft unabhängig von Kenntnis oder Unkenntnis.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 
@@ -26,7 +24,7 @@ Wie im KüSchK-Bündel muss auch im Entfristungs-Workflow zunächst geklärt wer
 
 ## Pflicht-Eröffnungsfrage
 
-> „Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
+> "Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
 
 ## Pfad A: Anwalt / Anwältin
 
@@ -44,7 +42,7 @@ Du bist dabei, eine Befristungskontrollklage einzuleiten, ohne Anwalt zu sein. D
 
 1. **Drei-Wochen-Frist § 17 TzBfG**: Klagst du nicht innerhalb von drei Wochen **nach dem vereinbarten Vertragsende**, gilt die Befristung nach § 17 Satz 2 TzBfG i.V.m. § 7 KSchG als wirksam — auch wenn sie rechtswidrig war.
 
-2. **Schriftform-Falle**: Der häufigste Fehler ist nicht das, was du glaubst — sondern dass du nicht erkennst, ob dein Vertrag wirklich wirksam befristet war. Zum Beispiel: Wurde der Vertrag per DocuSign oder E-Mail unterschrieben? Dann könnte die Befristungsabrede nach § 14 Abs. 4 TzBfG unwirksam sein, obwohl alles „normal" aussieht.
+2. **Schriftform-Falle**: Der häufigste Fehler ist nicht das, was du glaubst — sondern dass du nicht erkennst, ob dein Vertrag wirklich wirksam befristet war. Zum Beispiel: Wurde der Vertrag per DocuSign oder E-Mail unterschrieben? Dann könnte die Befristungsabrede nach § 14 Abs. 4 TzBfG unwirksam sein, obwohl alles "normal" aussieht.
 
 3. **Kein Mandatsverhältnis**: Dieses System ist kein Anwalt und haftet nicht.
 

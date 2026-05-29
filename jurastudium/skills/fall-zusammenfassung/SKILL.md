@@ -1,6 +1,6 @@
 ---
 name: fall-zusammenfassung
-description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Pruefraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Uebersicht und Loesungshinweisen. Abgrenzung zu Gutachten-Uebung fuer vollstaendige Bearbeitung und zu Loesungsschemata."
+description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata."
 ---
 
 # Fallbearbeitung im Gutachtenstil
@@ -13,10 +13,7 @@ description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall
 4. Soll das Ergebnis als Lernuebung (mit Rueckfragen) oder als fertiges Gutachten ausgegeben werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Komplexe Fallloesung: Kaufrecht + Maengelhaftung + Schadensersatz bilden klassischen Klausur-Dreiklang; jede Stufe erfordert eigene Subsumtion.
-- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Gesellschaftsrechtlicher Komplex-Fall: Haftung der Gesellschafter erfordert Mehrstufen-Pruefung mit Abgrenzung Innen-/Aussengesellschaft.
-- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Strafrecht-Komplex-Fall: Koerperverletzung + Toetungsdelikt + Notwehr als typischer Klausuraufbau mit Abgrenzungsfragen.
-- BVerwG, Urt. v. 28.10.2010 - 2 C 52.09, NVwZ 2011, 240 — Verwaltungsrecht-Komplex-Fall: Anfechtungsklage + Ermessensfehlerlehre + Grundrechtspruefung als Examens-Standardkonstellation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 433-453 BGB — Kaufrecht: Standardkomplex fuer Zivilrecht-Gutachten
@@ -24,10 +21,9 @@ description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall
 - §§ 823-853 BGB — Deliktsrecht: zweite Pruefungssaule
 - §§ 242, 263 StGB — Strafrecht-Standardtatbestaende fuer Klausur
 
-## Kommentarliteratur
-- Grüneberg/Weidenkaff BGB §§ 433-453 Rn. 1-80 (Kaufrecht als Kernkomplex)
-- Fischer StGB § 242 Rn. 1-50, § 263 Rn. 1-60 (Strafrecht-Klausur-Tatbestaende)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill begleitet die Bearbeitung juristischer Übungsfälle, Klausuren und Hausarbeitssachverhalte im deutschen **Gutachtenstil**. Er gibt keine fertige Lösung vor – er stellt das Gerüst bereit, hakt bei Ungenauigkeiten nach und bewertet Schritt für Schritt die Struktur, die Definitionen und die Subsumtion.
@@ -42,7 +38,7 @@ Einsatzbereiche:
 ## Eingaben
 
 1. **Sachverhalt** – als Text eingefügt, Pfad oder mündlich formuliert
-2. **Aufgabenstellung** – „Prüfe alle Ansprüche" / „Ist die Klage begründet?" / „Prüfe die Strafbarkeit von A"
+2. **Aufgabenstellung** – "Prüfe alle Ansprüche" / "Ist die Klage begründet?" / "Prüfe die Strafbarkeit von A"
 3. **Rechtsgebiet** (optional, wird aus Sachverhalt abgeleitet)
 4. **Lernprofil** aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Lernstil (Drill / Erklärung), Semester, Schwächebereiche
 
@@ -52,16 +48,16 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
 
 ```
 1. OBERSATZ
-   Formulierung: „[Person] könnte gegen [Person] einen Anspruch auf
+   Formulierung: "[Person] könnte gegen [Person] einen Anspruch auf
    [Rechtsfolge] gemäß § X BGB/StGB/VwGO haben."
-   Pflicht: hypothetisch, nicht assertorisch. „A hat …" ist Urteilsstil → falsch
+   Pflicht: hypothetisch, nicht assertorisch. "A hat …" ist Urteilsstil → falsch
    für Klausuren.
 
 2. DEFINITION
    Abstrakte Tatbestandsmerkmale der Norm (wörtlich oder paraphrasiert).
    Pflicht: Kommentarzitat oder Lehrbuchbeleg einfügen.
-   Beispiel: „Besitz i. S. d. § 854 BGB ist die tatsächliche Sachherrschaft,
-   Grüneberg/Herrler, BGB, 84. Aufl. 2025, § 854 Rn. 1."
+   Beispiel: "Besitz i. S. d. § 854 BGB ist die tatsächliche Sachherrschaft,
+   lizenzpflichtige Literaturquelle/Herrler, BGB, 84. Aufl. 2025, § 854 Rn. 1."
 
 3. SUBSUMTION
    Anwendung der abstrakten Merkmale auf die konkreten Sachverhaltsfakten.
@@ -69,7 +65,7 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
    de Übernahme. Streitstände auflösen (h.M. mit Beleg, Gegenauffassung benennen).
 
 4. ERGEBNIS
-   Kurze, eindeutige Aussage: „Damit hat A gegen B einen Anspruch auf X
+   Kurze, eindeutige Aussage: "Damit hat A gegen B einen Anspruch auf X
    gemäß § Y BGB. / Der Anspruch besteht nicht."
 ```
 
@@ -85,7 +81,7 @@ Die Reihenfolge ist nicht beliebig – vgl. `../references/methodik-buergerliche
 6. Gefährdungshaftung, verschuldensunabhängig (§ 7 StVG; § 1 ProdHaftG; § 1 HaftpflG; § 33 LuftVG; § 25 AtG; § 89 II WHG; § 84 AMG; § 32 GenTG; § 1 UmweltHG; § 833 S. 1 BGB)
 7. Bereicherungsansprüche (§§ 812 ff. BGB)
 
-Die Sammelbegriffe »vertragsähnlich« und »quasivertraglich« werden bewusst vermieden — sie sind in der Lehre uneinheitlich besetzt. Die Gefährdungshaftung ist eigenständige verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB; in Klausuren gern übersehen.
+Die Sammelbegriffe "vertragsähnlich" und "quasivertraglich" werden bewusst vermieden — sie sind in der Lehre uneinheitlich besetzt. Die Gefährdungshaftung ist eigenständige verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB; in Klausuren gern übersehen.
 
 Strafrecht: Täterschaft vor Teilnahme, vollendetes Delikt vor Versuch, schwerer vor minder schwerer Fall.
 
@@ -108,7 +104,7 @@ Das Plugin gibt:
 - **Leere Slots** für Obersatz, Definition, Subsumtion, Ergebnis
 - Hinweise auf relevante Streitstände (mit Kommentarstellen, ohne die Lösung vorwegzunehmen)
 
-Im **Drill-Modus**: Fragen statt Hinweise. „Was ist der erste Anspruch, den du prüfst?"
+Im **Drill-Modus**: Fragen statt Hinweise. "Was ist der erste Anspruch, den du prüfst?"
 
 ### Schritt 3: Begleitendes Feedback
 
@@ -125,24 +121,18 @@ Das Plugin **schreibt den Abschnitt nicht um**. Es zeigt genau, was fehlt oder u
 Alle genannten Kommentare und Urteile werden auf Formatkonformität mit `../references/zitierweise.md` geprüft.
 
 Beispiel-Korrektur:
-> „Du hast zitiert: `MüKo § 280 Rn. 154`. Korrekte Form: `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154.` – Bearbeiter vor Kommentartitel."
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Quellen und Zitierweise
 
 → `../references/zitierweise.md` (verbindlich)
 
-**Standardzitate für häufige BGB-Normen:**
+**Quellenregel für häufige BGB-Normen:**
 
-- Anspruchsgrundlage § 433 BGB: `Grüneberg/Grüneberg, BGB, 84. Aufl. 2025, § 433 Rn. 1.`
-- Schadensersatz § 280 Abs. 1 BGB: `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 100 ff.`
-- Deliktsrecht § 823 Abs. 1 BGB: `Sprau, in: Grüneberg, BGB, 84. Aufl. 2025, § 823 Rn. 1.`
-- Ungerechtfertigte Bereicherung § 812 BGB: `Sprau, in: Grüneberg, BGB, 84. Aufl. 2025, § 812 Rn. 1.`
-- Allgemeines Schuldrecht: `Brox/Walker, Allg. Schuldrecht, 47. Aufl. 2023, § X Rn. Y.`
-- BGB Allgemeiner Teil: `Wertenbruch, BGB AT, 5. Aufl. 2023, § X Rn. Y.`
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Leitentscheidungen (Beispiele für häufige Streitstände):**
-- BGH, Urt. v. 13.07.2022 – VIII ZR 317/21, NJW 2022, 2754 (Schadensersatz Verzug)
-- BGH, Urt. v. 26.01.2021 – VI ZR 405/19, NJW 2021, 1006 (Verkehrspflichten)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -194,9 +184,9 @@ B. Ansprüche des B gegen A
 
 Obersatz: B könnte gegen A einen Anspruch auf Schadensersatz statt der Leistung gemäß §§ 437 Nr. 3, 280 Abs. 1, 3, 281 BGB haben.
 
-Definition: §§ 437 Nr. 3, 280 Abs. 1, 3, 281 BGB setzen einen Kaufvertrag mit mangelhafter Sache und Vertretenmüssen voraus. Ein Sachmangel liegt vor, wenn die Sache bei Gefahrübergang nicht die vereinbarte Beschaffenheit hat (§ 434 Abs. 1 BGB), vgl. Grüneberg/Weidenkaff, BGB, 84. Aufl. 2025, § 434 Rn. 1.
+Definition: §§ 437 Nr. 3, 280 Abs. 1, 3, 281 BGB setzen einen Kaufvertrag mit mangelhafter Sache und Vertretenmüssen voraus. Ein Sachmangel liegt vor, wenn die Sache bei Gefahrübergang nicht die vereinbarte Beschaffenheit hat (§ 434 Abs. 1 BGB).
 
-Subsumtion: Kaufvertrag liegt vor. Das Motorrad hatte eine mangelhafte Schweißnaht, die bereits bei Übergabe vorhanden war (§ 446 BGB: Gefahrübergang bei Übergabe). A kannte den Defekt → grob fahrlässige, jedenfalls vorsätzliche Pflichtverletzung. § 276 Abs. 1 S. 1 BGB: Vorsatz und Fahrlässigkeit werden vertreten. Fristsetzung (§ 281 Abs. 1 BGB): ggf. entbehrlich nach § 281 Abs. 2 BGB, weil A arglistig gehandelt hat, vgl. Ernst, in: MüKoBGB, 9. Aufl. 2022, § 281 Rn. 64.
+Subsumtion: Kaufvertrag liegt vor. Das Motorrad hatte eine mangelhafte Schweißnaht, die bereits bei Übergabe vorhanden war (§ 446 BGB: Gefahrübergang bei Übergabe). A kannte den Defekt → grob fahrlässige, jedenfalls vorsätzliche Pflichtverletzung. § 276 Abs. 1 S. 1 BGB: Vorsatz und Fahrlässigkeit werden vertreten. Fristsetzung (§ 281 Abs. 1 BGB): ggf. entbehrlich nach § 281 Abs. 2 BGB, weil A arglistig gehandelt hat.
 
 Ergebnis: B hat einen Anspruch auf Schadensersatz statt der Leistung gemäß §§ 437 Nr. 3, 280 Abs. 1, 3, 281 Abs. 2 BGB.
 
@@ -204,18 +194,18 @@ Ergebnis: B hat einen Anspruch auf Schadensersatz statt der Leistung gemäß §�
 
 Obersatz: B könnte auch einen deliktischen Anspruch auf Schadensersatz wegen Verletzung seiner Gesundheit gemäß § 823 Abs. 1 BGB haben.
 
-[…] Verletzungserfolg (Körperverletzung), Kausalität, Rechtswidrigkeit (indiziert durch Tatbestand), Vorsatz des A (kannte Defekt). Haftungsbegründende und haftungsausfüllende Kausalität liegen vor, Sprau, in: Grüneberg, BGB, 84. Aufl. 2025, § 823 Rn. 6.
+[…] Verletzungserfolg (Körperverletzung), Kausalität, Rechtswidrigkeit (indiziert durch Tatbestand), Vorsatz des A (kannte Defekt). Haftungsbegründende und haftungsausfüllende Kausalität sind im Gutachten eigenständig zu begründen.
 
 Ergebnis: Anspruch besteht.
 
 *Literaturnachweise:*  
-Grüneberg/Weidenkaff, BGB, 84. Aufl. 2025, § 434 Rn. 1; Ernst, in: MüKoBGB, 9. Aufl. 2022, § 281 Rn. 64; BGH, Urt. v. 26.01.2021 – VI ZR 405/19, NJW 2021, 1006.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Risiken / typische Fehler
 
-- **Assertorischer Obersatz:** „A hat einen Anspruch auf …" ist Urteilsstil und in Klausuren ein Aufbaufehler.
-- **Subsumtion als Behauptung:** „Das Tatbestandsmerkmal liegt vor." ohne Sachverhaltsbezug ist keine Subsumtion.
+- **Assertorischer Obersatz:** "A hat einen Anspruch auf …" ist Urteilsstil und in Klausuren ein Aufbaufehler.
+- **Subsumtion als Behauptung:** "Das Tatbestandsmerkmal liegt vor." ohne Sachverhaltsbezug ist keine Subsumtion.
 - **Streitstand übergehen:** Leitentscheidungen und Kommentarstreitstände sind im 1. StEx Bewertungsbestandteil.
 - **Konkurrenzfragen nicht lösen:** Wenn § 823 Abs. 1 BGB und §§ 437, 280 BGB nebeneinander bestehen, dies kurz konstatieren (kumulative Anspruchskonkurrenz).
 - **Zu lange Obersätze:** Der Obersatz soll die Rechtsfolge benennen, nicht die gesamte Prüfung vorwegnehmen.
-- **Zitate ohne Bearbeiter:** `MüKo § 280` ist kein korrektes Zitat. Immer: `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. X.`
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

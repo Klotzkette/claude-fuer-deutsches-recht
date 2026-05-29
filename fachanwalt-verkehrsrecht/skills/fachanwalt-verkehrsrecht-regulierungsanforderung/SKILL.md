@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-regulierungsanforderung
-description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direktanspruch §§ 7 17 StVG § 823 BGB. Pruefraster: Direktanspruch Reparatur vs. fiktive Abrechnung Wiederbeschaffungswert Mitverschulden § 17 StVG Anscheinsbeweis § 4 StVO. Mietwagen Nutzungsausfall Wertminderung Sachverstaendigenkosten. Output: Regulierungsanforderung an Versicherer fertig. Abgrenzung zu fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich (Verhandlung) und unfall-haftungsquote-berechnen."
+description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direktanspruch §§ 7 17 StVG § 823 BGB. Prüfraster: Direktanspruch Reparatur vs. fiktive Abrechnung Wiederbeschaffungswert Mitverschulden § 17 StVG Anscheinsbeweis § 4 StVO. Mietwagen Nutzungsausfall Wertminderung Sachverständigenkosten. Output: Regulierungsanforderung an Versicherer fertig. Abgrenzung zu fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich (Verhandlung) und unfall-haftungsquote-berechnen."
 ---
 
 # Regulierungsanforderung
@@ -37,14 +37,7 @@ description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpfli
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | VI ZR 220/16 | 13.12.2016 | Anscheinsbeweis Auffahrunfall; Entlastung bei atypischem Verlauf möglich |
-| BGH | VI ZR 142/19 | 17.09.2019 | Fiktive Abrechnung netto; bei tatsächlicher Reparatur MwSt ersetzbar |
-| BGH | VI ZR 70/04 | 23.05.2006 | 130-%-Grenze; bis 130 % Wiederbeschaffungswert Reparaturanspruch bei Nachweis und 6-Monat-Nutzung |
-| BGH | VI ZR 132/04 | 07.06.2005 | Restwert; Geschädigter nicht verpflichtet, dem Versicherer höheren Restwertbieter zu folgen |
-| BGH | VI ZR 491/15 | 26.04.2016 | Sachverständigenkosten erstattungsfähig; auch bei fiktiver Abrechnung |
-| BGH | VI ZR 290/11 | 18.12.2012 | Mietwagenkosten; Schwacke- und Fraunhofer-Methode zulässig; Mittelwert-Bildung möglich |
-| BGH | VI ZR 91/79 | 30.01.1979 | Anschnallpflicht; Kürzung Schmerzensgeld nur bei nachgewiesener Kausalität |
-| BGH | VI ZR 35/04 | 23.11.2004 | Merkantile Wertminderung; bei jüngeren Fahrzeugen regelmäßig anzusetzen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -56,12 +49,9 @@ description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpfli
 | 1 | Haftungsgrundlage (Gefährdung § 7 oder Verschulden § 18/§ 823)? | §§ 7, 18 StVG; § 823 BGB | Gefährdungshaftung kein Verschuldensnachweis nötig |
 | 2 | Direktanspruch § 115 VVG — Versicherungsschutz bestehend? | § 115 VVG | Versicherungsschein / Deckungszusage beschaffen |
 | 3 | Haftungsquote bestimmt? | § 17 StVG; § 254 BGB | Anscheinsbeweis bei Auffahrunfall etc. |
-| 4 | Totalschaden oder Reparaturschaden? | § 249 BGB; BGH VI ZR 70/04 | 130-%-Grenze; Kalkulation SV |
-| 5 | Fiktive oder konkrete Abrechnung? | BGH VI ZR 142/19 | Netto fiktiv; brutto konkret nach Reparatur |
-| 6 | Merkantile Wertminderung geltend gemacht? | § 251 BGB; BGH VI ZR 35/04 | Bei Fahrzeugen bis ca. 8 Jahre/150000 km |
-| 7 | Sachverständigenkosten angefordert? | BGH VI ZR 491/15 | Auch bei fiktiver Abrechnung; Bagatellgrenze |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Mietwagenkosten oder Nutzungsausfall? | §§ 249, 251 BGB | Wahlrecht; Schadensminderungspflicht |
-| 9 | Personenschaden — Schmerzensgeld? | § 253 Abs. 2 BGB | Verletzungsbild; Hacks/Wellner/Häcker-Tabelle |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 | 10 | Verdienstausfall beziffert? | § 252 BGB | Bruttolohn minus erhaltenes Krankengeld |
 | 11 | SGB X-Übergang berücksichtigt? | § 116 SGB X | Quotenvorrecht sichern; SV-Träger informieren |
 | 12 | Anwaltskosten angesetzt? | § 249 BGB | Außergerichtlich 1,3 Geschäftsgebühr Nr. 2300 VV RVG |
@@ -123,7 +113,7 @@ Die Haftung trifft allein Ihren Versicherungsnehmer aus §§ 7, 17,
 18 StVG i.V.m. § 115 VVG. [Bei Anscheinsbeweis ergänzen: Für den
 vorliegenden Auffahrunfall spricht der Anscheinsbeweis des
 Auffahrenden gemäß § 4 Abs. 1 StVO; ein atypischer Geschehensverlauf
-ist weder ersichtlich noch dargelegt — BGH VI ZR 220/16.]
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ein Mitverschulden unseres Mandanten nach § 254 BGB ist nicht
 gegeben, da [Begründung].
@@ -192,7 +182,7 @@ Die Regulierung ist aus folgenden Gründen unvollständig:
 
 1. Reparaturkosten: Sie haben EUR [X] gekürzt mit der Begründung
    [Begründung Versicherer]. Diese Kürzung ist nicht berechtigt, weil
-   [Gegenargument: UPE-Aufschläge marktüblich, BGH VI ZR 53/09;
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Verbringungskosten ortsüblich etc.].
 
 2. Nutzungsausfall: Sie haben [X] Tage anerkannt; tatsächlich waren
@@ -201,7 +191,7 @@ Die Regulierung ist aus folgenden Gründen unvollständig:
 3. Sachverständigenkosten: Sie haben EUR [X] gekürzt. Der
    Sachverständige [Name] hat marktübliche Sätze berechnet; der
    Geschädigte muss nicht auf den günstigsten Anbieter ausweichen
-   — BGH VI ZR 491/15.
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wir halten unsere Restforderung in Höhe von EUR [Differenz] aufrecht
 und setzen Ihnen letzte Frist bis [Datum]. Danach erheben wir Klage.
@@ -224,7 +214,7 @@ weniger als für unvergleichbare schadensfreie Fahrzeuge.
 Die Höhe des merkantilen Minderwerts beträgt laut
 Sachverständigengutachten EUR [X]. Dieser Betrag ist als
 eigenständige Position neben den Reparaturkosten
-erstattungsfähig — BGH VI ZR 35/04.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---
@@ -265,12 +255,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Einwand Versicherer | Reaktion |
 |---|---|
-| UPE-Aufschläge nicht erstattungsfähig | Regionalnachweis der Marktüblichkeit; ggf. WS-Bestätigung; BGH VI ZR 53/09: ortsüblich = erstattungsfähig |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verbringungskosten abgelehnt | Regionale Werkstattpraxis belegen; bei tatsächlich angefallenen Kosten keine Diskussion |
-| Fiktive MwSt-Abzug | BGH VI ZR 142/19: fiktive Abrechnung netto; keine MwSt-Zahlung ohne tatsächliche Aufwendung |
-| Mietwagenkosten: Fraunhofer niedriger | BGH VI ZR 290/11: Mittelwert; keine exklusive Geltung einer Tabelle; Vergleich zu lokalem Markt |
-| Schmerzensgeld zu hoch | Vergleichsfälle aus Hacks/Wellner/Häcker-Tabelle; konkrete Verletzungsfolgen als Kriterium |
-| Restwert höher (Versicherer-Bieter) | BGH VI ZR 132/04: Restwertangebot des Versicherers bindet nur bei Zumutbarkeit; kein Verstoß gegen Schadensminderungspflicht bei Verkauf zu ortsüblichem Händlerwert |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -294,4 +283,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-StVG §§ 7, 17, 18; VVG §§ 86, 115–117; BGB §§ 249–254, 280, 286, 288, 195, 199; SGB X § 116; StVO §§ 3, 4, 7, 8, 9; BGH VI ZR 220/16; VI ZR 142/19; VI ZR 70/04; VI ZR 132/04; VI ZR 491/15; VI ZR 290/11; VI ZR 91/79; VI ZR 35/04; VI ZR 53/09; Geigel Der Haftpflichtprozess 28. Aufl. 2020; Sanden/Danner/Küppersbusch Nutzungsausfall-Tabelle; Hacks/Wellner/Häcker Schmerzensgeld-Tabelle 2023.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

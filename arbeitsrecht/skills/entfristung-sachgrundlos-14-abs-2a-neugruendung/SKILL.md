@@ -22,15 +22,11 @@ description: "Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 A
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 15.08.2012 – 7 AZR 184/11, NZA 2013, 40 — Eine Neugründung i.S.d. § 14 Abs. 2a TzBfG liegt nur vor, wenn das Unternehmen erstmals eine wirtschaftliche Tätigkeit aufnimmt; bloße Umstrukturierungen, Rechtsformwechsel und Ausgliederungen aus einem Unternehmensverbund erfüllen die Voraussetzungen nicht.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt für alle Varianten sachgrundloser Befristung einschließlich § 14 Abs. 2a TzBfG; eine frühere Beschäftigung beim selben Arbeitgeber schließt das Neugründungsprivileg aus.
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Das Schriftformerfordernis des § 14 Abs. 4 TzBfG gilt auch für Befristungen nach § 14 Abs. 2a TzBfG; die Befristungsabrede muss vor Arbeitsaufnahme in eigenhändiger Schriftform vorliegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 125 ff. (Neugründungsprivileg)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 70 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Das Neugründungsprivileg
 
 § 14 Abs. 2a TzBfG gewährt neugegründeten Unternehmen ein erweitertes Recht zur sachgrundlosen Befristung:
@@ -56,7 +52,7 @@ description: "Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 A
 - Übernahme eines bestehenden Unternehmens (Asset Deal oder Share Deal)
 - Bloße Umfirmierung
 
-**BAG zu § 14 Abs. 2a TzBfG:** BAG, Urt. v. 15.08.2012 – 7 AZR 184/11: Eine Neugründung im Sinne dieser Norm liegt nur bei einer echten unternehmerischen Erstaufnahme einer wirtschaftlichen Tätigkeit vor.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorbeschäftigungsverbot gilt auch hier
 

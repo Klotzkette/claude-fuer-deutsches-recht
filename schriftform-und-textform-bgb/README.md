@@ -22,19 +22,19 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Testakten
 
-Zwei fiktive Mandatsakten, die jeweils eine BGH-Leitentscheidung lebbar machen:
+Zwei fiktive Mandatsakten, die typische Form- und Zugangskonstellationen lebbar machen. Konkrete Rechtsprechung wird erst im Workflow über offizielle oder frei zugängliche Quellen verifiziert.
 
-- Maklervertrag München (Eheleute Haspelbeck-Türkenfeld ./. Bechtholdsmeier-Schongau e.K., lehnt sich an BGH I ZR 202/25): [testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/) -> [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip)
-- Mietkündigung Bielefeld online (Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen, WhatsApp + qES, lehnt sich an BGH VIII ZR 159/23): [testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/) -> [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip)
+- Maklervertrag München (Eheleute Haspelbeck-Türkenfeld ./. Bechtholdsmeier-Schongau e.K., Textform- und Provisionskonstellation): [testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/) -> [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip)
+- Mietkündigung Bielefeld online (Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen, WhatsApp + qES, Zugangs- und Formkonstellation): [testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/) -> [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip)
 
 ## Überblick
 
-Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im deutschen Zivilrecht. Das Plugin lernt aus zwei aktuellen BGH-Leitentscheidungen und bietet kanzleitaugliche Orientierung für alle wesentlichen Formerfordernisse des BGB.
+Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im deutschen Zivilrecht. Das Plugin trennt Papierform, qES, Textform, beA/ERV, gerichtliche Zustellung und prozessuale Formfiktion und bietet kanzleitaugliche Orientierung für alle wesentlichen Formerfordernisse des BGB.
 
 ### Leitentscheidungen
 
-- **BGH I ZR 202/25 vom 11. März 2026** — Maklervertrag § 656a BGB / Textform § 126b BGB: E-Mail-Austausch ausreichend, Erklärungen auf getrennten Datenträgern, konkludenter Abschluss möglich; Bereicherungsanspruch entfällt bei Textformverstoß (Schutzzweckargument).
-- **BGH VIII ZR 159/23 vom 27. November 2024** — Wohnraummiete-Kündigung § 568 Abs. 1 BGB: qES als Schriftformersatz (§ 126a Abs. 1 BGB) grundsätzlich zulässig, ABER empfangsbedürftige Willenserklärung muss formgerecht zugehen — Ausdruck eines qES-Dokuments durch Gericht mit Transfervermerk § 298 Abs. 3 ZPO genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **§ 130e ZPO und § 46h ArbGG seit 17.07.2024** — Formfiktion für klar erkennbare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen, auch wenn elektronische Form materiell eigentlich ausgeschlossen ist.
 
 ## Skill-Verzeichnis
 
@@ -44,7 +44,7 @@ Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im
 |-------|--------|
 | `formerfordernisse-im-bgb-ueberblick` | Systematik §§ 125-129 BGB, Nichtigkeit § 125 BGB, Heilung |
 | `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` | Originalunterschrift, Namenszeichnung, Faksimile, BGH-Linie |
-| `elektronische-form-paragraph-126a-bgb-qes` | qES, eIDAS, Zertifikatskette, technische Anforderungen |
+| `elektronische-form-paragraph-126a-bgb-qes` | qES, eIDAS, Zertifikatskette, Zugang, beA-Abgrenzung, § 130e ZPO und § 46h ArbGG |
 | `textform-paragraph-126b-bgb-dauerhafter-datentraeger` | E-Mail, WhatsApp, SMS, PDF als dauerhafter Datenträger |
 | `notarielle-beurkundung-und-oeffentliche-beglaubigung` | § 128, § 129 BGB, BeurkG, GmbH, Grundstück, Erbvertrag |
 
@@ -54,7 +54,7 @@ Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im
 |-------|--------|
 | `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` | Zugangslehre, Machtbereich, Annahmeverweigerung |
 | `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | qES-Zugang, Transfervermerk § 298 Abs. 3 ZPO, Lehrsatz |
-| `kuendigung-per-schriftsatz-zustellung-formfragen` | § 169 Abs. 2 ZPO, § 130e ZPO, RA-Beglaubigung |
+| `kuendigung-per-schriftsatz-zustellung-formfragen` | beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, Zustellung, Vollmacht und § 174 BGB |
 | `mandantenwarnung-qes-per-email-whatsapp-und-zugang` | Mandantenmemo: Mail-Anhänge prüfen, IT-Hinweise |
 
 ### Block C — Spezielle Formerfordernisse
@@ -73,7 +73,7 @@ Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im
 |-------|--------|
 | `form-checker-fuer-vertrag-oder-willenserklaerung` | Entscheidungsbaum, Konsequenzen, Klausel-Vorschlag |
 | `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Schriftformklausel, doppelte Schriftformklausel, AGB-Falle |
-| `prozessablauf-papier-vs-elektronisch` | Workflow-Schritte, Originalunterschrift vs. qES vs. Textform |
+| `prozessablauf-papier-vs-elektronisch` | Workflow-Schritte: Papier, qES-Direktversand, beA-Schriftsatz mit Formfiktion und Textform |
 | `dokumentations-und-beweisarchitektur` | Zugangsnachweis, qES-Validierung, TR-RESISCAN |
 
 ### Block E — Anspruchsgrundlagen-Modul

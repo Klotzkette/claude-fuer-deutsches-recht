@@ -1,6 +1,6 @@
 ---
 name: formular-erzeugung
-description: "Formulare und Antragsdokumente fuer Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz fuer Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Pruefraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf fuer individuelle Schriftsaetze und zu Mandantenbrief."
+description: "Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf für individuelle Schriftsaetze und zu Mandantenbrief."
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`
@@ -19,7 +19,7 @@ Diese Skill akzeptiert keine Eingaben. Für alle Formular- und Schriftstückaufg
 
 ### Hintergrund der Zusammenführung
 
-Die Trennung zwischen „Formularerstellung" und „Schriftsatzerstellung" war in der Praxis studentischer Rechtsberatungsstellen künstlich: Ein Beratungshilfe-Antrag (BerH 1) ist juristisch kein anderes Arbeitsergebnis als ein Widerspruchsschreiben — beide erfordern Sachverhaltsaufnahme, Normprüfung und Supervisoren-Freigabe nach § 6 Abs. 2 RDG.
+Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in der Praxis studentischer Rechtsberatungsstellen künstlich: Ein Beratungshilfe-Antrag (BerH 1) ist juristisch kein anderes Arbeitsergebnis als ein Widerspruchsschreiben — beide erfordern Sachverhaltsaufnahme, Normprüfung und Supervisoren-Freigabe nach § 6 Abs. 2 RDG.
 
 ### Relevante Normen für die Nachfolge-Skill `/entwurf`
 
@@ -30,17 +30,11 @@ Die Trennung zwischen „Formularerstellung" und „Schriftsatzerstellung" war i
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 10.10.2013 – IX ZR 337/12, NJW 2014, 145 Rn. 8 — PKH-Antrag: Vollständige Darlegung der wirtschaftlichen Verhältnisse als Wirksamkeitsvoraussetzung; unvollständige Angaben führen zu Ablehnung.
-- BVerfG, Beschl. v. 14.07.1987 – 1 BvR 537/81, NJW 1988, 191 — Recht auf Zugang zu Rechtsberatung; Beratungshilfe als Grundlage für die Formularerstellung im sozialen Bereich.
-- BVerwG, Urt. v. 25.03.2019 – 2 C 11/18, NVwZ 2019, 1050 Rn. 10 — Formvoraussetzungen behördlicher Antragsformulare; fehlerhafte Formulare können Fristen versäumen lassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Schütz, Das Recht der Beratungshilfe, 3. Aufl. 2020, § 1 BerHG Rn. 5 ff. — Voraussetzungen; Antragstellung; Formular BerH 1.
-- Vorwerk, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 117 Rn. 5 — PKH-Antrag: Inhalt, Form, Beilagen.
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 — Aufsichtspflicht auch bei vermeintlich formalen Tätigkeiten wie Formularausfüllung (Doppelautoren-Kommentar).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 242 Rn. 18 — Treu und Glauben bei der Antragstellung; keine unvollständigen oder irreführenden Angaben.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Stattdessen `/entwurf [Schriftstücktyp]` verwenden.**
@@ -82,13 +76,13 @@ Der Befehl `/entwurf` füllt das Formular BerH 1 aus den Fallnotizen, kennzeichn
 
 ## Quellenpflicht
 
-Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben bei konkreten Schriftstücken und Formularen: `skills/entwurf/SKILL.md`, Sektion „Quellenpflicht".
+Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben bei konkreten Schriftstücken und Formularen: `skills/entwurf/SKILL.md`, Sektion "Quellenpflicht".
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
 
 <!-- AUDIT 27.05.2026
-Geprueft: BGH IX ZR 115/15
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. Echtes Datum 22.10.2015 (Skill hatte 14.01.2016); echtes Thema Streitwert der Vollstreckungsgegenklage (§§ 3, 4 ZPO) — kein Bezug zu Beratungshilfe oder anwaltlicher Antragspruefungspflicht. Quelle: dejure.org/2015,32471. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->

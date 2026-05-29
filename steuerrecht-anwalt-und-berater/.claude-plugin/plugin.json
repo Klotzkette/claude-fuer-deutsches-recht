@@ -1,7 +1,7 @@
 {
   "name": "steuerrecht-anwalt-und-berater",
   "version": "27.0.0",
-  "description": "Steuerrecht fuer Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenpruefung Selbstanzeige. StB-Tools BWA SuSa Lohnbuchhaltung Jahresabschluss Mandantenkommunikation Software-Bedienung. DBA Europa Tuerkei Israel USA Kanada.",
+  "description": "Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige. StB-Tools BWA SuSa Lohnbuchhaltung Jahresabschluss Mandantenkommunikation Software-Bedienung. DBA Europa Tuerkei Israel USA Kanada.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

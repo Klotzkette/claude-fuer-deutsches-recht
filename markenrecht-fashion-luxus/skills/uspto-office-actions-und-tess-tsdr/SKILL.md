@@ -1,6 +1,6 @@
 ---
 name: uspto-office-actions-und-tess-tsdr
-description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Pruefungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgruende), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Pruefraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation."
+description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # USPTO Office Actions und TESS/TSDR-Recherche
@@ -86,14 +86,14 @@ Die 13 DuPont-Faktoren für § 2(d) Likelihood of Confusion:
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: § 2(d) Refusal gegen ältere Marke „KLOTZ USA"
-Examining Attorney zitiert ältere Marke „KLOTZ USA" in Klasse 25 (eingetragen für T-Shirts). DuPont-Analyse: Faktor 1 (Ähnlichkeit): Ähnlichkeit vorhanden (KLOTZ-kette vs. KLOTZ USA); Faktor 3 (Kanäle): Luxury Boutiques vs. unklarer Vertrieb; Faktor 4 (Käufer): Luxus-Käufer äußerst sorgfältig (EUR 1.200+ Handtaschen). Response mit Declaration: keine tatsächliche Verwechslung in 5 Jahren paralleler Marktpräsenz (Faktor 12).
+### Konstellation 1: § 2(d) Refusal gegen ältere Marke "KLOTZ USA"
+Examining Attorney zitiert ältere Marke "KLOTZ USA" in Klasse 25 (eingetragen für T-Shirts). DuPont-Analyse: Faktor 1 (Ähnlichkeit): Ähnlichkeit vorhanden (KLOTZ-kette vs. KLOTZ USA); Faktor 3 (Kanäle): Luxury Boutiques vs. unklarer Vertrieb; Faktor 4 (Käufer): Luxus-Käufer äußerst sorgfältig (EUR 1.200+ Handtaschen). Response mit Declaration: keine tatsächliche Verwechslung in 5 Jahren paralleler Marktpräsenz (Faktor 12).
 
-### Konstellation 2: § 2(e)(1) Merely Descriptive für „KLÔTZZKÈTTÉ COUTURE"
-Examining Attorney: „COUTURE" ist beschreibend für Mode in Klasse 25. Response: Disclaimer auf „COUTURE" (Marke wird ohne Anspruch auf „COUTURE" als allgemeinen Begriff eingetragen). Alternative: Secondary Meaning-Declaration für „KLÔTZZKÈTTÉ COUTURE" als Ganzes.
+### Konstellation 2: § 2(e)(1) Merely Descriptive für "KLÔTZZKÈTTÉ COUTURE"
+Examining Attorney: "COUTURE" ist beschreibend für Mode in Klasse 25. Response: Disclaimer auf "COUTURE" (Marke wird ohne Anspruch auf "COUTURE" als allgemeinen Begriff eingetragen). Alternative: Secondary Meaning-Declaration für "KLÔTZZKÈTTÉ COUTURE" als Ganzes.
 
 ### Konstellation 3: Suspension Letter wegen pendenter Citiermarke
-USPTO suspendiert klôtzzkètté-Anmeldung wegen älterer, noch nicht eingetragener Anmeldung „KLOTZKET" (in Examination). Antwort: Monitor den Status der Citiermarke; bei Abandonment der Citiermarke: Response mit Argument für Aufhebung der Suspension.
+USPTO suspendiert klôtzzkètté-Anmeldung wegen älterer, noch nicht eingetragener Anmeldung "KLOTZKET" (in Examination). Antwort: Monitor den Status der Citiermarke; bei Abandonment der Citiermarke: Response mit Argument für Aufhebung der Suspension.
 
 ## Belege & Kommentare
 
@@ -160,4 +160,4 @@ Bevor die Response verfasst wird, klaere:
 
 > **In re Viterra Inc., 671 F.3d 1358 (Fed. Cir. 2012):** Die Aehnlichkeit zwischen Marken ist nach dem Gesamteindruck auf Erscheinung, Klang, Bedeutung und kommerzielle Impression zu beurteilen; es genuegt, wenn ein einziges dieser Elemente Verwechslungsgefahr begruendet.
 
-> **In re Gyulay, 820 F.2d 1216 (Fed. Cir. 1987):** Ein Begriff ist im Sinne von § 2(e)(1) Lanham Act „merely descriptive", wenn er unmittelbar eine Eigenschaft oder Merkmal der angemeldeten Waren beschreibt; er muss nicht ausschliesslich beschreibend sein — es genuegt, wenn er im Zusammenhang mit den Waren eine direkte beschreibende Aussage macht.
+> **In re Gyulay, 820 F.2d 1216 (Fed. Cir. 1987):** Ein Begriff ist im Sinne von § 2(e)(1) Lanham Act "merely descriptive", wenn er unmittelbar eine Eigenschaft oder Merkmal der angemeldeten Waren beschreibt; er muss nicht ausschliesslich beschreibend sein — es genuegt, wenn er im Zusammenhang mit den Waren eine direkte beschreibende Aussage macht.

@@ -8,21 +8,21 @@
 
 ## Parteien
 
-1. Frau **Andrea Roesener**, geb. 12.05.1988, wohnhaft Pappelallee 23, 10437 Berlin — („Andrea")
+1. Frau **Andrea Roesener**, geb. 12.05.1988, wohnhaft Pappelallee 23, 10437 Berlin — ("Andrea")
 
-2. Herr **Bert Schmid**, geb. 03.09.1985, wohnhaft Schoenhauser Allee 144, 10437 Berlin — („Bert")
+2. Herr **Bert Schmid**, geb. 03.09.1985, wohnhaft Schoenhauser Allee 144, 10437 Berlin — ("Bert")
 
-3. Frau **Christine Linnenbach**, geb. 21.11.1991, wohnhaft Greifswalder Strasse 78, 10405 Berlin — („Christine")
+3. Frau **Christine Linnenbach**, geb. 21.11.1991, wohnhaft Greifswalder Strasse 78, 10405 Berlin — ("Christine")
 
-4. **Stahlauge Ventures AG**, eingetragen im HR Muenchen unter HRB 234567, vertreten durch ihren Vorstand Dr. Felix Stahlauge — („Stahlauge")
+4. **Stahlauge Ventures AG**, eingetragen im HR Muenchen unter HRB 234567, vertreten durch ihren Vorstand Dr. Felix Stahlauge — ("Stahlauge")
 
-(Andrea, Bert, Christine zusammen „Gruender"; Stahlauge ist „Investor"; Gruender und Investor zusammen „Gesellschafter".)
+(Andrea, Bert, Christine zusammen "Gruender"; Stahlauge ist "Investor"; Gruender und Investor zusammen "Gesellschafter".)
 
 ---
 
 ## Praeambel
 
-Die Gesellschafter sind die Gesellschafter der Roeschen Tech GmbH („Gesellschaft"). Im Zuge der Series-A-Finanzierung vom 15.11.2025 wurden zur Class B 10.000 neue Geschaeftsanteile mit Investment-Volumen 5.000.000 EUR (Pre-Money 15 Mio., Post-Money 20 Mio.) ausgegeben. Stahlauge zeichnete saemtliche Class B Anteile.
+Die Gesellschafter sind die Gesellschafter der Roeschen Tech GmbH ("Gesellschaft"). Im Zuge der Series-A-Finanzierung vom 15.11.2025 wurden zur Class B 10.000 neue Geschaeftsanteile mit Investment-Volumen 5.000.000 EUR (Pre-Money 15 Mio., Post-Money 20 Mio.) ausgegeben. Stahlauge zeichnete saemtliche Class B Anteile.
 
 Die Gesellschafter regeln in dieser Vereinbarung ihre Beziehungen ueber die Satzung hinaus.
 
@@ -46,7 +46,7 @@ Die Gesellschafter regeln in dieser Vereinbarung ihre Beziehungen ueber die Satz
 
 ### Good Leaver
 
-(1) Ein Gruender ist „Good Leaver", wenn er aus folgenden Gruenden ausscheidet:
+(1) Ein Gruender ist "Good Leaver", wenn er aus folgenden Gruenden ausscheidet:
 
 a) Tod oder dauerhafte Erwerbsunfaehigkeit,
 b) Aufhebungs-/Renten-Eintritt im Einvernehmen,
@@ -57,7 +57,7 @@ d) Eigene Kuendigung nach mehr als 4 Jahren Taetigkeit.
 
 ### Bad Leaver
 
-(3) Ein Gruender ist „Bad Leaver", wenn er aus folgenden Gruenden ausscheidet:
+(3) Ein Gruender ist "Bad Leaver", wenn er aus folgenden Gruenden ausscheidet:
 
 a) Eigene Kuendigung vor 4 Jahren ohne wichtigen Grund,
 b) Schwerwiegende und wiederholte Pflichtverletzung trotz Abmahnung,

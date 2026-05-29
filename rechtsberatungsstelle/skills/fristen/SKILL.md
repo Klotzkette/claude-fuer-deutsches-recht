@@ -38,18 +38,11 @@ Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende v
 
 ### Leitentscheidungen
 
-- BGH, Beschl. v. 15.12.2021 – XII ZB 557/20, NJW 2022, 614 Rn. 10 ff. — Sorgfaltspflichten bei elektronischer Fristennotierung; Kanzleipflicht zur Ausgangskontrolle gilt auch für studentische Beratungsstellen sinngemäß.
-- BGH, Beschl. v. 08.02.2022 – XI ZB 43/20, NJW-RR 2022, 647 Rn. 8 — Wiedereinsetzungsantrag: Glaubhaftmachung nach § 236 Abs. 2 ZPO erfordert vollständige und in sich schlüssige Darlegung des Fristversäumnisses.
-- BVerwG, Beschl. v. 12.06.2019 – 2 B 53/18, NVwZ-RR 2019, 879 Rn. 5 — Fristwahrung im verwaltungsgerichtlichen Verfahren; Zugangsfiktion bei Bekanntgabe nach § 41 Abs. 2 VwVfG.
-- BAG, Urt. v. 26.06.2014 – 2 AZR 594/13, NZA 2014, 1303 Rn. 14 — Drei-Wochen-Frist des § 4 KSchG als Ausschlussfrist; keine Hemmung durch laufende Verhandlungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Jaspersen, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 233 Rn. 15 — Voraussetzungen der Wiedereinsetzung; unverschuldetes Hindernis.
-- Stackmann, in: MüKoZPO, 6. Aufl. 2020, § 217 Rn. 5 — Fristberechnung, Beginn der Notfrist.
-- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 60 Rn. 1 — Wiedereinsetzung im Verwaltungsprozessrecht (Doppelautoren-Kommentar).
-- Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, § 186 Rn. 1 — Fristberechnung nach §§ 186–193 BGB.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Modus `--eintragen` — neue Frist erfassen
@@ -61,7 +54,7 @@ Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende v
 5. System generiert automatisch eine ID: `[fall-id]-[kurzbezeichnung]-[JJJJ-MM]`.
 6. Duplikatsprüfung: existiert bereits ein Eintrag mit gleicher Fall-ID, gleichem Typ und gleichem Datum? Falls ja, Hinweis vor dem Speichern.
 7. **Plausibilitätsprüfung (Pflicht):** Nach Eingabe des Datums wird das Ergebnis gegen typische Fristbänder für den gewählten Typ geprüft (z. B. Klagefrist VwGO: ca. 1 Monat nach Zustellung; Dreiwochenfrist KSchG: 21 Tage ab Zugang Kündigung; Widerspruchsfrist VwGO: 1 Monat). Liegt das eingetragene Datum außerhalb des typischen Bandes, erfolgt folgende Warnung:
-   > „Das eingetragene Datum liegt außerhalb des typischen Bereichs für [Fristtyp] im deutschen Recht ([Rechtsgebiet]). Typische Dauer: ca. [Bandbreite] nach [auslösendem Ereignis]. Ihr Eintrag: [Datum], das sind [N] Tage nach [Ereignis]. Prüfen Sie Ihre Berechnung gegen [zitierte Norm aus dem Fristenband] sowie die maßgebliche Fristberechnungsregel (§ 187 f. BGB / § 222 ZPO / § 57 VwGO). Falls Ihre Berechnung korrekt ist (Sonderregelung, Hemmung, Unterbrechung, Wiedereinsetzung), bestätigen Sie; ich trage die Frist unverändert ein."
+   > "Das eingetragene Datum liegt außerhalb des typischen Bereichs für [Fristtyp] im deutschen Recht ([Rechtsgebiet]). Typische Dauer: ca. [Bandbreite] nach [auslösendem Ereignis]. Ihr Eintrag: [Datum], das sind [N] Tage nach [Ereignis]. Prüfen Sie Ihre Berechnung gegen [zitierte Norm aus dem Fristenband] sowie die maßgebliche Fristberechnungsregel (§ 187 f. BGB / § 222 ZPO / § 57 VwGO). Falls Ihre Berechnung korrekt ist (Sonderregelung, Hemmung, Unterbrechung, Wiedereinsetzung), bestätigen Sie; ich trage die Frist unverändert ein."
 8. Gibt der/die Studierende `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `fällig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
 9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studierenden und dem Supervisor; die Skill trägt das Ergebnis ein.
 

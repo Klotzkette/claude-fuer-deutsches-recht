@@ -1,13 +1,13 @@
 ---
 name: regulatorisches-recht-mandat-arbeitsbereich
-description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Regulierungspruefung."
+description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Regulierungsprüfung."
 ---
 
 # Mandat-Workspace-Verwaltung
 
 ## Zweck
 
-Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. Im regulatorischen Recht ist ein „Mandat" typischerweise:
+Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. Im regulatorischen Recht ist ein "Mandat" typischerweise:
 - Ein bestimmter Regulierungsakt, zu dem ein Mandant beraten wird (z. B. MaRisk-Novelle-Implementierung)
 - Ein offenes Konsultationsverfahren, für das eine Stellungnahme erstellt wird
 - Eine BaFin-Prüfung oder eine DORA-GAP-Analyse für einen bestimmten Mandanten
@@ -110,7 +110,7 @@ Relevante Berufsrechtsnormen:
 
 - Bestätigung der Aktion (angelegt / gewechselt / geschlossen)
 - Aktueller Workspace-Status
-- Nächster empfohlener Schritt (z. B. „Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
+- Nächster empfohlener Schritt (z. B. "Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
 
 ## Beispiel
 
@@ -142,8 +142,8 @@ Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
 - **Mandantengeheimnis:** Inhalte aus `mandat.md` und den mandat-spezifischen Trackern sind vertraulich nach § 43a Abs. 2 BRAO. Nie in gemeinsame Kontexte oder Protokolle exportieren.
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — korrekte Mandatsfuehrung im regulatorischen Bereich; Workspace-Trennung verhindert Konflikte bei parallelen Mandaten; Dokumentationspflicht des Beraters
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 48-49 VwVfG — §§ 3-7 BORA (Berufsrecht Rechtsanwaelte)
 
-**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 611 ff. Rn. 1 ff. (Anwaltsmandat)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

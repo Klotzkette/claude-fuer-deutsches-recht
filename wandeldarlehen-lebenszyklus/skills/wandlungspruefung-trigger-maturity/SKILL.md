@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-maturity
-description: "Wandlung bei Laufzeitablauf des Wandeldarlehens pruefen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Faelligkeit. Pruefraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rueckzahlungsalternative Preisbestimmung. Output: Pruefprotokoll Handlungsempfehlung. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
+description: "Wandlung bei Laufzeitablauf des Wandeldarlehens prüfen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Fälligkeit. Prüfraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rückzahlungsalternative Preisbestimmung. Output: Prüfprotokoll Handlungsempfehlung. Abgrenzung: nicht für Qualified-Financing-Trigger (wandlungsprüfung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)
@@ -28,8 +28,7 @@ Dieser Skill prüft den Maturity-Trigger: Ist die Feste Laufzeit abgelaufen, ohn
 - § 271 BGB (Fälligkeit bei bestimmter Zeit)
 
 ### Rechtsprechung
-- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Fälligkeit und Insolvenz bei Wandeldarlehen)
-- BGH, Urt. v. 29. Januar 2015 – IX ZR 279/13 (Laufzeit und Rückzahlungspflicht Wandeldarlehen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -89,9 +88,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 29.01.2015 — **IX ZR 279/13**, NJW 2015, 1181 Rn. 18: Fälligkeit bei Maturity des Wandeldarlehens tritt mit Ablauf der Laufzeit ein; der Darlehensgeber kann zwischen Rückzahlung und Wandlung wählen; entscheidet er sich für Wandlung und die Gesellschaft ist insolvent, wandelt sich sein Anspruch in eine nachrangige Forderung (§ 39 InsO).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 20: Rückzahlung bei Maturity innerhalb des Anfechtungszeitraums (1 Jahr § 135 Abs. 1 InsO bei Gesellschafterdarlehen) ist anfechtbar; Wandlung bei Maturity ist vorzuziehen, da sie keine Rückzahlung darstellt und damit nicht der Insolvenzanfechtung nach § 135 InsO unterliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

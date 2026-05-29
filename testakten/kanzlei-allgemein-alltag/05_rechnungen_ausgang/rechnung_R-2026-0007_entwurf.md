@@ -1,26 +1,26 @@
 # Rechnung R-2026-0007 — Entwurf
 
-> **Kanzlei Jana Reuter — Rechtsanwältin**  
-> Lindenstraße 14 · 10969 Berlin  
-> Tel. 030 / 4455 6677 · kanzlei@reuter-recht-berlin.de  
-> Steuer-Nr.: 27/435/12347 · USt-IdNr.: DE 298 765 432  
-> IBAN: DE12 1004 0048 0012 3456 78 · BIC: COBADEFFXXX  
+> **Kanzlei Jana Reuter — Rechtsanwältin**
+> Lindenstraße 14 · 10969 Berlin
+> Tel. 030 / 4455 6677 · kanzlei@reuter-recht-berlin.de
+> Steuer-Nr.: 27/435/12347 · USt-IdNr.: DE 298 765 432
+> IBAN: DE12 1004 0048 0012 3456 78 · BIC: COBADEFFXXX
 
 ---
 
-**Rechnung an:**  
-Clara Meyer  
-Brunnenstraße 8  
-10119 Berlin  
+**Rechnung an:**
+Clara Meyer
+Brunnenstraße 8
+10119 Berlin
 
 ---
 
-**Rechnungs-Nr.:** R-2026-0007  
-**Rechnungsdatum:** 20.05.2026  
-**Leistungszeitraum:** 20.05.2026  
-**Akte:** 2026-MIET-004 — Meyer ./. Kranz (AG Mitte, 12 C 88/26)  
-**Zahlungsziel:** 14 Tage ab Rechnungsdatum (fällig: 03.06.2026)  
-**Zahlungsweise:** Überweisung auf o. g. IBAN, Verwendungszweck: R-2026-0007 Meyer  
+**Rechnungs-Nr.:** R-2026-0007
+**Rechnungsdatum:** 20.05.2026
+**Leistungszeitraum:** 20.05.2026
+**Akte:** 2026-MIET-004 — Meyer ./. Kranz (AG Mitte, 12 C 88/26)
+**Zahlungsziel:** 14 Tage ab Rechnungsdatum (fällig: 03.06.2026)
+**Zahlungsweise:** Überweisung auf o. g. IBAN, Verwendungszweck: R-2026-0007 Meyer
 
 ---
 
@@ -60,8 +60,8 @@ Die Vergütung erfolgt gemäß Vergütungsvereinbarung vom 15.04.2026 (Stundensa
 | Rechnungsentwurf erstellt | 20.05.2026 |
 | Freigabe durch Jana Reuter | **offen** |
 | GoBD-Protokoll (GoBD-2026-0007) | erstellt, offene Punkte |
-| XRechnung-XML generiert | **nein** — Platzhalter vorhanden |
-| ZUGFeRD PDF/A-3 generiert | **nein** — Platzhalter vorhanden |
+| XRechnung-XML generiert | **nein** — Validierungsnotiz vorhanden |
+| ZUGFeRD PDF/A-3 generiert | **nein** — Validierungsnotiz vorhanden |
 | XRechnung-Validierung (KoSIT) | **nein** |
 | Versand an Mandantin | **nein** |
 | Zahlungseingang erwartet | frühestens 03.06.2026 |

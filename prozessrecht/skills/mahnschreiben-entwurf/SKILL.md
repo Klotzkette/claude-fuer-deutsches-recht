@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-entwurf
-description: "Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankuendigung. Normen: §§ 286 288 BGB, §§ 204 ff. BGB. Pruefraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung. Output: Mahnschreiben-Entwurf mit Fristsetzung. Abgrenzung: nicht Mahnbescheid (gerichtliches Verfahren)."
+description: "Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: §§ 286 288 BGB, §§ 204 ff. BGB. Prüfraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung. Output: Mahnschreiben-Entwurf mit Fristsetzung. Abgrenzung: nicht Mahnbescheid (gerichtliches Verfahren)."
 ---
 
 # Mahnschreiben / Vorgerichtliche Aufforderung
@@ -36,7 +36,7 @@ Entwurf eines anwaltlichen Mahnschreibens (§ 286 Abs. 1 BGB) oder einer qualifi
    - Einleitung: Mandat und Vertretung
    - Sachverhalt: Knapp, tatsächlich, ohne rechtliche Wertungen
    - Forderung: Betrag / Handlung / Unterlassung, Rechtsgrundlage
-   - Fristsetzung: Konkretes Datum (nicht „binnen 14 Tagen", sondern „bis zum [TT.MM.JJJJ]")
+   - Fristsetzung: Konkretes Datum (nicht "binnen 14 Tagen", sondern "bis zum [TT.MM.JJJJ]")
    - Konsequenzen: Klageandrohung, Kostenfolge (§§ 91 ZPO, 93 ZPO bei Anerkenntnisklage beachten)
    - Grußformel, Unterschrift
 
@@ -49,11 +49,9 @@ Entwurf eines anwaltlichen Mahnschreibens (§ 286 Abs. 1 BGB) oder einer qualifi
 
 Verbindlich: `../references/zitierweise.md`.
 
-- BGH, Urt. v. 17.07.2008 – I ZR 75/06, NJW 2008, 3711 Rn. 16 (Anforderungen an die Mahnung: Bestimmtheit der Forderung).
-- BGH, Urt. v. 25.10.2007 – III ZR 91/07, NJW 2008, 435 Rn. 14 (Verzug ohne Mahnung bei kalendermäßig bestimmter Leistungszeit, § 286 Abs. 2 Nr. 1 BGB).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 286 Rn. 14 ff. (Form und Inhalt der Mahnung).
-- Looschelders, in: Staudinger, BGB, Neubearb. 2022, § 286 Rn. 45 (Mahnung als einseitige empfangsbedürftige Willenserklärung).
-- BGH, Urt. v. 14.07.2010 – VIII ZR 45/09, NJW 2010, 2944 Rn. 11 (Abmahnerfordernis im Kaufrecht vor Rücktritt).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zum Verzugszins: § 247 BGB (Basiszinssatz); § 288 Abs. 1, 2 BGB.
 
 ## Ausgabeformat
@@ -89,7 +87,7 @@ Ausgabe als Markdown-Datei `demand-letters/[slug]/v[N].md`.
 
 ## Risiken / typische Fehler
 
-- **Unkonkrete Fristsetzung:** „Unverzüglich" oder „sofort" löst keinen Verzug aus; es ist ein konkretes Datum zu nennen (BGH, Urt. v. 17.07.2008 – I ZR 75/06, NJW 2008, 3711 Rn. 16).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 93 ZPO (sofortiges Anerkenntnis):** Wird der Schuldner sofort klaglos, trägt der Kläger die Kosten; Mahnschreiben vorher immer prüfen, ob es bereits eine wirksame Mahnung gab.
 - **Unterlassung ohne Abmahnung:** Im UWG/UrhG/MarkenG ist die Abmahnung (mit Unterlassungsaufforderung und Vertragsstrafe) zwingende Voraussetzung; ohne Abmahnung keine Kostenerstattung (§ 97a Abs. 1 UrhG).
 - **Güteantrag-Pflicht (§ 15a EGZPO):** In Bayern, Brandenburg, NRW und weiteren Ländern ist bei bestimmten Streitwerten ein Güteantrag vor Klageerhebung vorgeschrieben.

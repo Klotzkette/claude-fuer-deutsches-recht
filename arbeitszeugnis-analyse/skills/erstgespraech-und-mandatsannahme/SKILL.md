@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-und-mandatsannahme
-description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er fuer mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjaehrung drei Jahre § 611a BGB Arbeitsvertrag. Pruefraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Aenderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
+description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjährung drei Jahre § 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Aenderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
 ---
 
 # Erstgespraech und Mandatsannahme im Zeugnisrecht
@@ -84,13 +84,11 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 01.10.1998 — 6 AZR 176/97**, NZA 1999, 90 — Verwirkung des Zeugnisberichtigungsanspruchs setzt Zeitmoment (mehrere Jahre) und Umstandsmoment (Arbeitgeber durfte auf Abschluss vertrauen) voraus; frühzeitige Mandatsannahme schützt vor Verwirkungseinwand.
-- **LAG Hessen, Urt. v. 20.03.2019 — 6 Sa 1266/18** — Aufklärungspflicht des Anwalts über Beweislastverteilung im ersten Gespräch; Mandant muss verstehen, dass er bei Begehren einer besseren als befriedigenden Note (Note 3) die Beweislast trägt (BAG-Linie).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 40 ff. (Verjährung, Verwirkung, Prozessführung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Erstgesprächs-Einstieg
 
 1. Wann wurde das Zeugnis ausgestellt und wann übergeben?

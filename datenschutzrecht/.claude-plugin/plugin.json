@@ -1,7 +1,7 @@
 {
   "name": "datenschutzrecht",
-  "version": "14.2.0",
-  "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15, Datenpannenmeldung Art. 33/34, Drittlandstransfer Art. 44 ff., Drift-Monitoring.",
+  "version": "24.2.0",
+  "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA und Behördenpaket.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

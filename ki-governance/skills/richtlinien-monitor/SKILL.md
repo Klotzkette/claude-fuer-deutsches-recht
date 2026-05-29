@@ -1,6 +1,7 @@
 ---
 name: richtlinien-monitor
-description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer „Richtlinien-Sweep\", „KI-Richtlinie prüfen\", „deckt unsere Richtlinie das ab\", „wir wollen X einführen — brauchen wir eine Richtlinienänderung\" oder „Policy-Monitor starten\" sagt."
+description: 'Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt.'
+
 ---
 
 # KI-Richtlinien-Monitor
@@ -14,7 +15,7 @@ nicht aufgegriffen hat.
 
 Zwei Modi: (1) **Sweep-Modus** — wöchentlicher Abgleich des Ausgabeordners
 auf Policy-Drift; (2) **Direktanfrage-Modus** — direkte Antwort auf
-„Wir wollen X einführen — was bedeutet das für unsere KI-Richtlinie?"
+"Wir wollen X einführen — was bedeutet das für unsere KI-Richtlinie?"
 
 Ausgabe ist immer: Hier ist die Lücke — ERFORDERLICH (Richtlinie wider-
 spricht Praxis) oder EMPFOHLEN (Richtlinie schweigt) — plus Formulierungsvorschlag.
@@ -45,16 +46,10 @@ Richtlinien-Verpflichtungen und Anwendungsfall-Register aus `CLAUDE.md`.
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   KI-Richtlinie ohne Adressierung von Scoring-Systemen schafft materielle
   Lücke, wenn entsprechende Systeme operativ eingesetzt werden.
-- EuGH, Urt. v. 04.10.2024 – C-203/22 (Dun & Bradstreet): Interne Richt-
-  linien müssen verständliche Erklärung der algorithmischen Entscheidungs-
-  logik vorsehen.
-- BGH, Urt. v. 19.06.2018 – VI ZR 184/17, NJW 2018, 2877: Anforderungen
-  an interne Organisationspflichten und deren Dokumentation; auf KI-
-  Governance-Richtlinien übertragbar.
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
   Systemen; Transparenzgebot beim KI-Einsatz.
 
@@ -80,7 +75,7 @@ Beschreibung einer Praxis → Direktanfrage-Modus.
 1. `CLAUDE.md` laden: `## KI-Richtlinien-Verpflichtungen`, `## KI-Anwendungsfall-
    Register`, `## Ausgaben` (Ordner-Pfad, Richtlinienstandort, letztes Sweep-Datum).
 2. Ausgabedateien seit letztem Sweep scannen. Bei keinen neuen Dateien:
-   „Keine neuen Ausgaben seit [Datum]. Nächster Sweep: [Datum]."
+   "Keine neuen Ausgaben seit [Datum]. Nächster Sweep: [Datum]."
 3. Aus jeder Ausgabe extrahieren: freigegebener Anwendungsfall, Einsatzmodus
    (assistiv/automatisiert), Auflagen, betroffene Parteien, Anbieter-Datennutzung.
 4. Kennzeichnen: neue Anwendungsfälle ohne Richtlinienabdeckung; automatisierte
@@ -118,9 +113,9 @@ Gefundene Lücken: [N] ERFORDERLICH | [N] EMPFOHLEN
 ## ERFORDERLICHE Änderungen
 ### [Lücke]
 Quelle: [Datei] | Was geschieht: [Beschreibung]
-Aktuelle Richtlinie: [Zitat oder „Keine Abdeckung"]
+Aktuelle Richtlinie: [Zitat oder "Keine Abdeckung"]
 Lücke: [was fehlt]
-Formulierungsvorschlag: „[Richtlinientext]" — ergänzen in [Abschnitt]
+Formulierungsvorschlag: "[Richtlinientext]" — ergänzen in [Abschnitt]
 
 ## EMPFOHLENE Änderungen [gleiche Struktur]
 
@@ -140,10 +135,10 @@ Ergebnis: [RICHTLINIENÄNDERUNG ERFORDERLICH / EMPFOHLEN / KEINE ÄNDERUNG]
 
 ## Beispiel
 
-**Direktanfrage:** „Wir wollen KI-gestützte Zusammenfassungen von
+**Direktanfrage:** "Wir wollen KI-gestützte Zusammenfassungen von
 Kundenbeschwerden einführen. Ein Mitarbeiter überprüft sie vor Weiterleitung."
 
-**Ausgabe:** Register-Eintrag „Kundenseitige KI-Assistenz" → bedingt →
+**Ausgabe:** Register-Eintrag "Kundenseitige KI-Assistenz" → bedingt →
 Offenlegung erforderlich. Richtlinie schweigt zur KI-gestützten Beschwerde-
 bearbeitung. EMPFOHLENE Ergänzung: Abschnitt zu assistierter Kunden-
 kommunikation. DSGVO Art. 13/14: Datenschutzinformation muss KI-Einsatz
@@ -153,7 +148,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 
 - Sweep-Datum vor Bestätigung aktualisieren: unterdrückt beim nächsten Lauf
   die Aufmerksamkeit für dieselben Lücken.
-- Zu vage Formulierungsvorschläge: „KI-gestützt" bevorzugen statt
+- Zu vage Formulierungsvorschläge: "KI-gestützt" bevorzugen statt
   konkreter Modellnamen; keine Zusagen formulieren, die das Team nicht
   einhalten kann.
 - Richtlinie selbst aktualisieren: nur nach menschlicher Prüfung und Freigabe.
@@ -166,7 +161,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 - **AI Act Art. 29** (Betreiberpflichten, Überwachung).
 - **DSGVO Art. 5 Abs. 2** (Rechenschaftspflicht) bei Richtlinien-Dokumentation.
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
-- **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Profiling-Lücken.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 17.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 5 Rn. 62 ff.**
 
@@ -178,10 +173,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 5. Ist eine Betriebsrats-Beteiligung nach § 87 Abs. 1 Nr. 6 BetrVG relevant?
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Richtlinie ohne Adressierung von KI-Scoring schafft materielle DSGVO-Luecke; maßgeblich fuer Sweep-Priorisierung.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Interne Richtlinien muessen verstaendliche Erlaeuterung der Algorithmus-Logik fuer Betroffene vorsehen.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — Richtlinie und gelebte Praxis muessen uebereinstimmen.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten bei algorithmischen Systemen; Transparenzgebot beim KI-Einsatz in der Richtlinie verankern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template — Richtlinien-Monitor-Bericht
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: sachlich-strukturiert

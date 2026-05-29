@@ -1,6 +1,6 @@
 ---
 name: anwaltsschriftsatz-stilrichtlinie
-description: "Stilrichtlinie fuer den juristisch sauberen neutralen und fuer Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln fuer alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO."
+description: "Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln für alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO."
 ---
 
 # Anwaltsschriftsatz-Stilrichtlinie
@@ -19,15 +19,11 @@ Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Forma
 
 ## Rechtsprechung zum Schriftsatzstil und Schriftsatz-Anforderungen
 
-- BGH, Beschl. v. 13.09.2012 - III ZB 24/12, NJW 2012, 3581 — Berufungsbegründung muss auf den konkreten Streitfall zugeschnitten sein und erkennen lassen, in welchen Punkten und aus welchen Gründen das erstinstanzliche Urteil für unrichtig gehalten wird (§ 520 Abs. 3 Satz 2 Nr. 2 ZPO).
-- BGH, Beschl. v. 20.06.2012 - IV ZB 18/11, NJW-RR 2012, 1269 — Anforderungen an die Revisionsbegruendung nach § 551 ZPO: pauschale Bezugnahme auf erstinstanzlichen Vortrag genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 130 Rn. 1 ff. (Schriftsatzinhalt)
-- Thomas/Putzo ZPO, § 253 Rn. 1 ff. (Klageschrift und Antrag)
-- MüKo ZPO/Becker-Eberhard, § 520 Rn. 1 ff. (Berufungsbegründung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sprache
 
 ### Allgemeine Grundsätze
@@ -35,17 +31,17 @@ Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Forma
 - **Sachlich und präzise:** Jeder Satz transportiert eine Information. Füllphrasen vermeiden.
 - **Juristisch korrekt:** Rechtsbegriffe werden in ihrer gesetzlichen oder gefestigten dogmatischen Bedeutung verwendet.
 - **Neutral:** Keine Wertungen, keine Erfolgsprognosen (→ Skill `neutralitaetspruefung`).
-- **Aktiv bevorzugen:** „Die Klägerin macht geltend" — nicht „Es wird geltend gemacht".
+- **Aktiv bevorzugen:** "Die Klägerin macht geltend" — nicht "Es wird geltend gemacht".
 
 ### Verbotene Begriffe
 
-Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assistenzsysteme. Keine Formulierungen wie „basierend auf meiner Analyse" oder „nach meiner Einschätzung". Keine Ich-Form.
+Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assistenzsysteme. Keine Formulierungen wie "basierend auf meiner Analyse" oder "nach meiner Einschätzung". Keine Ich-Form.
 
 ### Parteibezeichnungen
 
 - Konsistente Verwendung im gesamten Aktenauszug
 - Zulässig: vollständiger Name, Kurzname, Parteibezeichnung (die Klägerin)
-- Nicht mischen: nicht „Klägerin" in einem Abschnitt und „Frau Müller" im nächsten
+- Nicht mischen: nicht "Klägerin" in einem Abschnitt und "Frau Müller" im nächsten
 - Abkürzungen (Kl., Bekl.) nur in Tabellen, nicht in Fließtext
 
 ### Normen und Paragraphen
@@ -101,7 +97,7 @@ Jeder Baustein beginnt auf einer neuen Hierarchieebene. Zwischen Bausteinen eine
 
 Format: [Gericht-Kürzel] [Senats-/Kammernummer] [Verfahrensart] [Laufnummer]/[Jahr]
 
-Beispiele: 3 O 123/23 (LG) — 12 U 45/24 (OLG) — VI ZR 67/24 (BGH)
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Markdown-Besonderheiten
 
@@ -125,6 +121,5 @@ Beispiele: 3 O 123/23 (LG) — 12 U 45/24 (OLG) — VI ZR 67/24 (BGH)
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
 - VII ZR 248/12 (BGH): ersatzlos entfernt (NOT_FOUND auf dejure.org; kein Urteil vom 06.11.2013 nachweisbar)
-- VIII ZB 40/16 (BGH): ersetzt durch III ZB 24/12 (BGH, Beschl. v. 13.09.2012, NJW 2012, 3581; Quelle: https://dejure.org/2012,29812)
 - VII ZR 126/02 (BGH): ersatzlos entfernt (WRONG_TOPIC: tatsaechliches Thema ist Werkvertragsrecht/Verputzungsfehler/§ 421 BGB, nicht Prozessrecht; Quelle: https://dejure.org/2003,299)
-- 12 U 45/24 (OLG) und VI ZR 67/24 (BGH): beibehalten — fiktive Formatbeispiele im Abschnitt "Aktenzeichen", keine echten Rechtsprechungszitate
+- Aktenzeichen-Formatbeispiele sind frei erfunden und duerfen nicht als Rechtsprechungszitate verwendet werden.

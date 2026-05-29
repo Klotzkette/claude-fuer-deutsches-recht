@@ -13,8 +13,7 @@ description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverst
 4. Wird eine Reduktion der Sachverstaendigenverguetung (§ 8a JVEG) oder die Unverwertbarkeit des Gutachtens angestrebt?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 09.07.2015 - III ZR 329/14, NJW 2015, 3166 — Unverwertbares Gutachten loest Kostenfolgen aus: kein Vergutungsanspruch bei objektiv nicht verwertbarem Gutachten (§ 8a Abs. 2 JVEG).
-- OLG Frankfurt, Beschl. v. 07.06.2022 - 18 W 32/22, MDR 2022, 1123 — Verwertbarkeit von Gutachten mit externer Mitwirkung: Sachverstaendiger muss konkret darlegen, welche Teile er selbst erstellt hat.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZB 59/18 geloescht – AZ existiert (30.07.2019), betrifft aber Musterfeststellungsklage § 606 ff. ZPO, nicht § 407a ZPO Hoechstpersoenlichkeit (WRONG_TOPIC). BGH VI ZR 286/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). -->
 
@@ -24,10 +23,9 @@ description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverst
 - § 8a Abs. 2 JVEG — Wegfall der Verguetung bei Unverwertbarkeit oder Identitaetsunklarheit
 - Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehoer: Partei muss Gutachten-Mangel geltend machen koennen
 
-## Kommentarliteratur
-- Zöller/Greger ZPO § 407a Rn. 1-15 (Hoechstpersoenlichkeit und Mitwirkungsverbote)
-- BeckOK JVEG/Thiel § 8a Rn. 1-20 (Verguetungsausschluss bei unverwertbarem Gutachten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundproblem
 
 In zivilprozessualen Verfahren kommt es zunehmend vor, dass eine Partei einwendet, das gerichtlich beauftragte Sachverständigengutachten sei (teilweise) unter Einsatz von KI-Werkzeugen erstellt worden. Solche Vorwürfe können erhebliche Konsequenzen haben — von der Reduzierung der Sachverständigenvergütung bis zur Unverwertbarkeit des Gutachtens. Dieser Skill strukturiert die anwaltliche Prüfung.

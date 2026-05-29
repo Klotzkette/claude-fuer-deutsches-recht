@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-public-ma-kapitalmarkt-mar
-description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Pruefung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG."
+description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG."
 ---
 
 # Public M&A, Kapitalmarkt und MAR
@@ -28,17 +28,12 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, St
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.09.2012 - II ZB 22/11, BGHZ 194, 303 — Squeeze-out: Abfindung muss dem "wahren Wert" der Beteiligung entsprechen; Ertragswert (IDW S 1) massgeblich; Boersenkurs ist Untergrenze
-- EuGH, Urt. v. 11.03.2015 - C-628/13, NJW 2015, 1716 — Insiderinformation MAR: gestreckte Vorgaenge koennen bereits im Teilstadium Insiderinformationen begründen; Vorstands-Beschlussfassung ueber eine M&A-Transaktion ist relevanter Zeitpunkt
-- BGH, Beschl. v. 23.04.2013 - II ZB 7/09, NZG 2013, 708 — Kapitalanleger-Musterverfahren: Bei zeitlich gestreckten Vorgaengen koennen bereits Zwischenschritte eine Insiderinformation i.S.d. § 13 Abs. 1 WpHG (jetzt Art. 7 MAR) begruenden; jeder Einzelschritt auf dem Weg zu einem beabsichtigten Ergebnis kommt als Insiderinformation in Betracht (Daimler/Geltl)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Emittentenleitfaden, Modul C (Insiderinformation) und Modul D (Ad-hoc-Meldung), aktualisierte Fassung 2023
 
-## Kommentarliteratur
+## Quellenregel
 
-- Assmann/POetzsch/Schneider, WpUEG, §§ 10-39 Rn. 1-200 (Angebotsverfahren, Pflichtangebot)
-- MueKo AktG/Hefermehl, §§ 327a-327f Rn. 1-80 (Squeeze-out)
-- Schuster/Wackerbarth, MAR-Kommentar, Art. 7, 17, 18 Rn. 1-150
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 
@@ -121,7 +116,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - assets/templates/ad-hoc-pruefungsprotokoll.md
 
 <!-- AUDIT 27.05.2026
-Problem: BGH II ZB 7/09 war mit falschem Thema (Spruchverfahren / Sachverstaendiger) zitiert.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Massnahme: Beschreibung korrigiert auf tatsaechlichen Inhalt: Kapitalanleger-Musterverfahren Daimler/Geltl; Insiderinformation bei gestrecktem Geschehensablauf, § 13 WpHG / Art. 7 MAR; Fundstelle NZG 2013, 708 (nicht 785).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.04.2013&Aktenzeichen=II+ZB+7%2F09
 -->

@@ -69,7 +69,7 @@
 
 ## Schreiben Mittelbrandenburgische Sparkasse 22.04.2026 (auszugsweise)
 
-> „… teilen wir Ihnen mit, dass wir die Ihnen eingeräumte Kontokorrentlinie über
+> "… teilen wir Ihnen mit, dass wir die Ihnen eingeräumte Kontokorrentlinie über
 > 150.000 EUR mit Wirkung zum 01.01.2027 auf 80.000 EUR reduzieren werden. Die
 > Vereinbarung über den Eigenkapital-Covenant von 10 % wurde im Geschäftsjahr
 > 2025 nicht eingehalten. Wir bitten um Vorlage eines aktuellen Sanierungs-

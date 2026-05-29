@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-immissionsschutz-bimschg
-description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Ruecksichtnahmegebot. Pruefraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall)."
+description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall)."
 ---
 
 # Immissionsschutz und BImSchG
@@ -31,17 +31,11 @@ description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfe
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 14.12.2023 — 7 C 5.22, NVwZ 2024, 567 — § 5 Abs. 1 Nr. 1 BImSchG hat drittschuetzenden Charakter; Nachbar kann Genehmigung anfechten, wenn schutzwuerdige Eigentumsinteressen beeintraechtigt; Ruegeobliegenheit im Genehmigungsverfahren.
-- BVerwG, Urt. v. 25.11.2021 — 4 C 4.20, BVerwGE 174, 244 — Windkraftanlage und Abstandsflaechenrecht; volle gerichtliche Kontrolle planungsrechtlicher Voraussetzungen; keine Einschraenkung des Pruefrahmens OVG.
-- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — UVP-Pflicht; nachtraegliche Heilung von Verfahrensfehlern nur unter engen Voraussetzungen; materielle Fehlerfolge bei Oeffentlichkeitsbeteiligung.
-- OVG Muenster, Urt. v. 28.09.2023 — 8 A 2378/21 — Schallimmissionsschutz TA-Laerm Nacht-Richtwert 40 dB(A) im reinen Wohngebiet; Kumulations-Betrachtung mehrerer Windparks.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Jarass BImSchG (Muenchen), § 5 Rn. 30-80 (Drittschutz und Vorsorge)
-- Kloepfer Umweltrecht § 14 Rn. 80-140 (Immissionsschutzrecht systematisch)
-- Stoer/Scheidler BImSchG § 6 Rn. 1-50 (Genehmigungsvoraussetzungen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 
@@ -145,14 +139,14 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Widerspruch | 1 Monat ab Bekanntgabe | § 70 VwGO |
 | Anfechtungsklage (ohne Widerspruchsverfahren) | 1 Monat | § 74 VwGO |
 | Eilantrag § 80a | Unverzueglich | § 80a VwGO |
-| Praeklusion Einwendungen | Beachten: Ruegeobliegenheit BVerwG 7 C 5.22 | — |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Vertiefung: Typische Fehler und Verteidigung
 
 - **TA-Laerm-Anwendung**: Zu optimistische Ausbreitung, fehlende Impulshaltigkeit, Tageszeit-Staffelung fehlt → Gegengutachten beauftragen.
 - **Kumulation**: Andere vorhandene Anlagen als Vorbelastung nicht beruecksichtigt.
 - **Praeventions-Gebot**: Nebenbestimmungen statt Ablehnung — Verhaeltnismaessigkeit pruefen.
-- **Stoerfallbetrieb**: Seveso-III-Richtlinie (2012/18/EU) Sicherheitsabstaende zu Wohngebieten — kein behordliches Ermessen (BVerwG 7 C 9.19 analog).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss-Skills
 

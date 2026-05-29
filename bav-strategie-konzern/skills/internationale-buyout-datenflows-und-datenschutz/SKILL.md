@@ -1,6 +1,6 @@
 ---
 name: internationale-buyout-datenflows-und-datenschutz
-description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Pruefraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb."
+description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb."
 ---
 
 # Internationale Buyout-Datenflows und Datenschutz
@@ -17,7 +17,7 @@ Kyoto-Büro-Beteiligung: Yuki Yamamoto-Brennecke (APPI/PIPC-Expertise)
 - DSGVO Art. 6 (Rechtmäßigkeit der Verarbeitung — Interessenabwägung, Vertrag, rechtliche Verpflichtung)
 - DSGVO Art. 46 (Drittlandübermittlung — Standardvertragsklauseln SCC; Binding Corporate Rules BCR)
 - DSGVO Art. 28 (Auftragsverarbeitungsvertrag — AV-Vertrag mit Versicherer/Buyout-Partner)
-- EuGH C-311/18 (Schrems II, 16.7.2020) — EU-US Privacy Shield für ungültig erklärt; SCC bleiben gültig mit TIA (Transfer Impact Assessment)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EU-US Data Privacy Framework (DPF, seit 10.7.2023) — neuer Angemessenheitsbeschluss USA
 - DSGVO Art. 13/14 (Informationspflichten bei Datenerhebung/-weitergabe — Berechtigte informieren)
 - DSGVO Art. 30 (Verarbeitungsverzeichnis)
@@ -66,7 +66,7 @@ Bei jedem Pension Buyout (Buy-in, Buy-out, Longevity Swap) werden hochsensible p
 ### Schritt 3: Drittlandtransfers
 
 #### Deutschland → USA
-**Historisch:** EU-US Privacy Shield (bis Schrems II, EuGH C-311/18, 16.7.2020) — für ungültig erklärt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Aktuell:** EU-US Data Privacy Framework (DPF) — Angemessenheitsbeschluss vom 10.7.2023 (Beschluss 2023/1795). US-Unternehmen, die sich selbst-zertifiziert haben, gelten als ausreichend geschützt.
 **Risiko:** Schrems III — politische Stabilität des DPF ungewiss. Empfehlung: Parallel immer EU-SCC (Standard Contractual Clauses) als Fallback.
 
@@ -112,10 +112,10 @@ AUFTRAGSVERARBEITUNGSVERTRAG (AV-VERTRAG)
 gem. Art. 28 DSGVO
 
 zwischen
-[Konzern Muster AG] (nachfolgend „Verantwortlicher")
+[Konzern Muster AG] (nachfolgend "Verantwortlicher")
 
 und
-[Versicherungsgesellschaft / Buyout-Partner] (nachfolgend „Auftragsverarbeiter")
+[Versicherungsgesellschaft / Buyout-Partner] (nachfolgend "Auftragsverarbeiter")
 
 § 1 Gegenstand und Zweck
 Der Auftragsverarbeiter verarbeitet personenbezogene Daten der Versorgungs-
@@ -202,11 +202,8 @@ Allgemein:
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
 
-- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II)**, NJW 2020, 2613 — Privacy Shield ungueltig; SCC bleiben gueltig aber erfordern Transfer Impact Assessment (TIA); bei Pension-Buyouts mit US-Versicherer SCC + TIA obligatorisch.
-- **EuGH, Urt. v. 04.05.2023 — C-60/22 (Meta)**, NZA 2023, 912 (Datenschutz-Grundsatzentscheidung) — Verhaltens- und Interessenabwaegung bei Datenverarbeitung; bei Gesundheitsdaten nach Art. 9 DSGVO erhoehte Pruefpflichten auch bei vertraglich vereinbarter Verarbeitung.
-- **BAG, Urt. v. 26.08.2021 — 8 AZR 253/20**, NZA 2022, 219 — Informationspflichten nach Art. 13/14 DSGVO bei Weitergabe von Beschaeftigtendaten an Dritte; Versorgungsberechtigte sind ueber Datenweitergabe an Buyout-Versicherer zu informieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur (Ergaenzung)
+## Quellenregel
 
-- Sydow/Marsch, DSGVO, 3. Aufl. 2022, Art. 46 Rn. 1 ff. (SCC, Drittlandtransfer, TIA-Anforderungen)
-- Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 9 Rn. 1 ff. (besondere Kategorien, Gesundheitsdaten)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

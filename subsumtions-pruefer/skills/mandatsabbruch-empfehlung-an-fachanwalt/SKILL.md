@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-an-fachanwalt
-description: "Erkennt Indikatoren fuer Komplexitaetsgrenzen des mechanischen Pruefens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Existenzgefaehrdung."
+description: "Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Existenzgefaehrdung."
 ---
 
 # Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt
@@ -26,10 +26,7 @@ Mechanisches Subsumieren hat Grenzen. Dieser Skill markiert den Punkt, an dem au
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Ein Rechtsanwalt, der ein Mandat übernimmt, dessen Umfang seine Kenntnisse übersteigt, verletzt seine Berufspflicht (§ 43 BRAO); er muss den Mandanten auf seine Grenzen hinweisen und ggf. Mandat niederlegen oder Fachanwalt zuziehen.
-- BGH, Beschl. v. 09.09.2020 - 5 StR 116/19, NJW 2020, 3663 — Im Strafrecht ist die unverzügliche Hinzuziehung eines Strafverteidigers bei drohender Untersuchungshaft oder Hauptverhandlung unerlässlich; Versäumnisse wirken sich auf die Verteidigungschancen irreversibel aus.
-- BVerfG, Beschl. v. 03.03.2021 - 1 BvR 1765/20, NJW 2021, 1232 — Für die Verfassungsbeschwerde (§ 90 BVerfGG) ist die Frist von einem Jahr ab Inkrafttreten der belastenden Norm strikt; ein Wiedereinsetzen ist nur in engen Grenzen möglich.
-- EuGH, Urt. v. 12.10.2021 - C-655/20, NJW 2021, 3575 — Bei grenzüberschreitenden Sachverhalten bestimmt das IPR (Rom I-VO, Rom II-VO) das anwendbare Recht; die Bestimmung des anwendbaren Rechts ist ohne Fachkenntnisse nicht sicher möglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Abbruch-Indikatoren
 
@@ -94,12 +91,6 @@ Wir empfehlen Ihnen dringend:
 Suche nach Fachanwälten: www.rechtsanwaltskammer.de oder www.anwaltauskunft.de
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO § 43 (Berufspflichten des Rechtsanwalts)
-- Feuerich/Weyland BRAO § 43 (Anwaltliche Sorgfaltspflicht)
-- Schmidt-Räntsch BRAO Kommentar § 3 RDG (Abgrenzung zur Rechtsdienstleistung)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

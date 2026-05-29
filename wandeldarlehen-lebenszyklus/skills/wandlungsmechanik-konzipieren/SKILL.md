@@ -1,6 +1,6 @@
 ---
 name: wandlungsmechanik-konzipieren
-description: "Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Pruefraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht fuer konkrete Wandlungsberechnung (wandlungspreis-berechnung)."
+description: "Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung)."
 ---
 
 # Wandlungsmechanik konzipieren
@@ -31,8 +31,7 @@ Dieser Skill entwirft die vollständige Wandlungsmechanik für § 4 des Wandelda
 - § 138 BGB (Sittenwidrigkeit – Missbrauch Wandlungsrecht prüfen)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Kapitalerhöhung gegen Sacheinlage, Differenzhaftung)
-- OLG München, Beschl. v. 10. März 2016 – 31 Wx 79/16 (Beurkundungspflicht zweistufige Wandlung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -99,11 +98,11 @@ Stand: 05/2026. Bei Änderung GmbHG (§§ 55 ff.) aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 16: Bei Kapitalerhöhung gegen Sacheinlage (Wandlung Darlehen → Anteile) haftet der Einlegende für die Werthaltigkeit der eingebrachten Forderung (Differenzhaftung § 56 Abs. 2 GmbHG); die eingebrachte Darlehensforderung muss im Zeitpunkt der Kapitalerhöhung vollwertig und fällig sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (**Wandeldarlehen-Entscheidung**), BGHZ 182, 272 Rn. 20: Das Wandeldarlehen ist als zweistufige Konstruktion ausgestaltet: Stufe 1 ist die Darlehensgewährung nach § 488 BGB; Stufe 2 ist die Wandlung durch Kapitalerhöhung gegen Sacheinlage (§§ 55, 56 GmbHG); die notarielle Beurkundungspflicht gilt für die Wandlungsabrede bereits ab Vertragsschluss, wenn sie Teil der gesellschaftsrechtlichen Verpflichtung ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 18: Wandlungsrecht kann im Gesellschaftsvertrag als Bezugsrecht ausgestaltet werden; Bezugsrechtsausschluss zugunsten des Darlehensgebers bedarf sachlicher Rechtfertigung und entsprechenden Hauptversammlungsbeschlusses.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

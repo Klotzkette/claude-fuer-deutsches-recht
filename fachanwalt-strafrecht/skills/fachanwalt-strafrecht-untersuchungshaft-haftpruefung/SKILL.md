@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-untersuchungshaft-haftpruefung
-description: "Untersuchungshaft und Haftpruefung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftpruefungsantrag stellen. §§ 112-113 StPO Haftgruende Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftpruefung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Pruefraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhaeltnismaessige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftpruefungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten."
+description: "Untersuchungshaft und Haftprüfung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftprüfungsantrag stellen. §§ 112-113 StPO Haftgründe Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftprüfung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Prüfraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhältnismäßige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftprüfungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten."
 ---
 
 # Untersuchungshaft Haftprüfung
@@ -155,8 +155,7 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 ## 10) BGH-Linien
 
-- BGH, Beschl. v. 22.9.2016 — StB 22/16 (Verhältnismaessigkeit)
-- BVerfG, Beschl. v. 23.1.2019 — 2 BvR 2429/18 (6-Monats-Frist)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

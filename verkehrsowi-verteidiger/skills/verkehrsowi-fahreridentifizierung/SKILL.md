@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-fahreridentifizierung
-description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Pruefraster: Lichtbildabgleich AG, Sachverstaendigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverstaendigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht."
+description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht."
 ---
 
 # Fahreridentifizierung im OWi-Verfahren
@@ -24,18 +24,11 @@ description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen:
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 07.11.2011 - 2 BvR 2203/11, NJW 2012, 524 — Verurteilung auf Grundlage einer richterlichen Lichtbild-Identifikation allein ist nicht verfassungswidrig, wenn der Richter das Foto selbst sorgfaeltig ausgewertet hat; aber bei konkreten Zweifeln muss Sachverstaendiger eingesetzt werden.
-- OLG Bamberg, Beschl. v. 14.09.2020 - 3 Ss OWi 1151/20, NZV 2021, 92 — Gericht muss einen Lichtbildvergleich-Sachverstaendigenantrag bescheiden; Ablehnung als "offenkundig" nur bei eindeutiger Bildqualitaet; bei schlechter Bildqualitaet Antrag stattzugeben.
-- OVG NRW, Urt. v. 12.08.2019 - 8 A 2023/18, NZV 2020, 110 — Fahrtenbuchauflage nach § 31a StVG ist ermessensgebundene Massnahme; bei kurzfristiger Auskunftsverweigerung und spaeterer Kooperation muss Ermessen beachtet werden.
-- OLG Celle, Beschl. v. 14.01.2020 - 3 Ss OWi 134/19, NZV 2020, 320 — Keine Pflicht des Betroffenen, den Fahrzeugfuehrer zu nennen; Schweigen fuer die Fahrernennung kann nicht nachteilig gewertet werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG § 55 Rn. 5-15 (Schweigerecht, Fahreridentifikation)
-- KK-OWiG / Lutz § 77 Rn. 5-20 (Sachverstaendigenrecht bei Lichtbild)
-- Janiszewski/Jagow/Burmann Strassenverkehrsrecht § 31a StVG (Fahrtenbuchauflage)
-- Burhoff, Handbuch OWi (Fahreridentifikation und Foto-Beweis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Fahreridentifikation
 
 ```

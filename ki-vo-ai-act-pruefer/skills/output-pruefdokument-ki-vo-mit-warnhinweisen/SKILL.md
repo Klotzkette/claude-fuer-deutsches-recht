@@ -1,146 +1,142 @@
 ---
 name: output-pruefdokument-ki-vo-mit-warnhinweisen
-description: "Am Ende des KI-VO-Workflows wird ein abschliessendes Pruefdokument benoetigt das alle Ergebnisse zusammenfasst und dokumentiert. Art. 2 bis 55 KI-VO Gesamtpruefung. Pruefraster: Pflicht-Header keine Rechtsberatung Ergebnistabelle Risikoklasse Rolle Pflichten offene Punkte Warnhinweise. Output: strukturierter PDF/Word-Pruefbericht mit Disclaimer und Handlungsempfehlungen fuer Anwalt oder Compliance-Team. Abgrenzung zu nicht-hochrisiko-bestaetigt-end-to-end-roadmap (spezifisch Kein-Hochrisiko) und hochrisiko-bestaetigt-end-to-end-roadmap."
+description: "Erzeugt das abschliessende KI-VO-Pruefdokument mit Warnhinweisen, Tatsachenbasis und dokumentierbarer Begruendung. Deckt Art. 3 KI-System-Vermerk, Zweckbestimmung, GPAI/Chatbot-Abgrenzung, Art. 6 Abs. 2/Anhang III, Art. 6 Abs. 3-Rueckausnahme, Betreiber-Off-label-Nutzung, Pflichten, offene Punkte und Re-Evaluation ab. Output: strukturiertes Memo/Word/PDF fuer Compliance-Akte, Vorstand, Rechtsabteilung oder Kanzlei."
 ---
 
 # Output: Prüfdokument KI-VO mit Warnhinweisen
 
 ## Zweck
 
-Dieser Skill generiert das abschließende Prüfdokument am Ende des KI-VO-Workflows. Es fasst alle ermittelten Erkenntnisse zu Risikoklasse, Rolle, Pflichten und offenen Punkten zusammen.
+Dieser Skill erstellt das abschließende Prüfdokument am Ende des KI-VO-Workflows. Es soll nicht nur Ergebnisse zusammenfassen, sondern die Einordnung so dokumentieren, dass später nachvollziehbar ist, auf welchen Tatsachen, Annahmen und Rechtskategorien die Entscheidung beruhte.
 
-## Pflicht-Header (IMMER voranstellen)
+## Pflicht-Header
 
-```
-══════════════════════════════════════════
+```text
 MECHANISCHES PRÜFDOKUMENT — KI-VO
-Verordnung (EU) 2024/1689 des Europäischen
-Parlaments und des Rates
+Verordnung (EU) 2024/1689
 
-ACHTUNG: Dieses Dokument ist KEINE
-Rechtsberatung. Es handelt sich um eine
-mechanische Prüfung anhand der vom Nutzer
-behaupteten Tatsachen. Die Richtigkeit der
-Tatsachenangaben wurde nicht überprüft.
-
-Für verbindliche Rechtsauskunft wenden Sie
-sich an einen zugelassenen Rechtsanwalt.
-══════════════════════════════════════════
+Keine Rechtsberatung. Dieses Dokument beruht auf den angegebenen Tatsachen und ersetzt keine anwaltliche Prüfung. Tatsachen, Zweckbestimmung, technische Eigenschaften und tatsächliche Nutzung können die Einordnung ändern.
 ```
 
-## Ergebnistabelle — Risikoklasse
+## Mindeststruktur
 
-| Prüfpunkt | Ergebnis | Fundstelle |
+### 1. Prüfauftrag und Quellen
+
+- Mandant / Organisation
+- Systemname und Version
+- geprüfter Funktionszuschnitt: Modell, API, Chatbot, Fachworkflow, Gesamtprodukt
+- Unterlagen: technische Dokumentation, Gebrauchsanweisung, Richtlinie, Logs, Verträge, Screenshots, Policies
+- Stand der Prüfung und offene Tatsachen
+
+### 2. KI-System-Einordnung
+
+Aus `liegt-ki-system-vor-art-3-nr-1` übernehmen:
+
+| Element | Ergebnis | Begründung |
 |---|---|---|
-| KI-System nach Art. 3 Nr. 1 KI-VO | Ja / Nein / Unklar | Art. 3 Nr. 1 KI-VO |
-| Territorialer Anwendungsbereich | Gegeben / Nicht gegeben / Unklar | Art. 2 KI-VO |
-| Sachliche Ausnahme | Ja (welche) / Nein | Art. 2 Abs. 3-12 KI-VO |
-| Verbotene Praktik Art. 5 | Ja (welche) / Nein / Unklar | Art. 5 KI-VO |
-| Hochrisiko Art. 6 Abs. 1 | Ja / Nein / Unklar | Art. 6 Abs. 1 i.V.m. Anhang I KI-VO |
-| Hochrisiko Art. 6 Abs. 2 | Ja (Anhang-III-Bereich) / Nein / Unklar | Art. 6 Abs. 2 i.V.m. Anhang III KI-VO |
-| Rückausnahme Art. 6 Abs. 3 | Greift / Greift nicht / Unklar | Art. 6 Abs. 3 KI-VO |
-| Begrenztes Risiko Art. 50 | Ja / Nein | Art. 50 KI-VO |
-| GPAI-Modell Art. 3 Nr. 63 | Ja / Nein / Unklar | Art. 3 Nr. 63 KI-VO |
-| Systemisches Risiko Art. 51 | Ja / Nein / Unklar | Art. 51 KI-VO |
+| maschinenbasiertes System | Ja/Nein/Unklar |  |
+| Autonomiegrad | Ja/Nein/Unklar |  |
+| Adaptivität | Ja/Nein/Unklar/Nicht erforderlich |  |
+| explizite/implizite Ziele | Ja/Nein/Unklar |  |
+| Inferenz aus Eingaben | Ja/Nein/Unklar |  |
+| Output-Typ | Vorhersage/Inhalt/Empfehlung/Entscheidung |  |
+| Einfluss auf Umgebung | Ja/Nein/Unklar |  |
 
-## Ergebnistabelle — Rolle
-
-| Rolle | Trifft zu | Fundstelle |
-|---|---|---|
-| Anbieter | Ja / Nein / Unklar | Art. 3 Nr. 3 KI-VO |
-| Betreiber | Ja / Nein / Unklar | Art. 3 Nr. 4 KI-VO |
-| Einführer | Ja / Nein / Unklar | Art. 3 Nr. 6 KI-VO |
-| Händler | Ja / Nein / Unklar | Art. 3 Nr. 7 KI-VO |
-| Bevollmächtigter | Zu benennen / Nicht erforderlich | Art. 22 KI-VO |
-| Produkthersteller | Ja / Nein | Art. 25 Abs. 1 KI-VO |
-| Anbieter durch Rollenwechsel | Ja / Nein / Prüfen | Art. 25 KI-VO |
-
-## Pflichtenkatalog nach Rolle und Risikoklasse
-
-Das System listet die einschlägigen Pflichten auf Basis der ermittelten Risikoklasse und Rolle:
-
-**Bei Hochrisiko-Anbieter:**
-- Risikomanagementsystem Art. 9 KI-VO
-- Datenqualität Art. 10 KI-VO
-- Technische Dokumentation Art. 11 / Anhang IV KI-VO
-- Logging Art. 12 KI-VO
-- Transparenz gegenüber Betreibern Art. 13 KI-VO
-- Menschliche Aufsicht Art. 14 KI-VO
-- Genauigkeit/Robustheit/Cybersicherheit Art. 15 KI-VO
-- Konformitätsbewertung Art. 43 bis 49 KI-VO
-- EU-Konformitätserklärung Art. 47 / Anhang V KI-VO
-- CE-Kennzeichnung Art. 48 KI-VO
-- Registrierung EU-Datenbank Art. 49 / 71 KI-VO
-- Post-Market-Monitoring Art. 72 KI-VO
-
-## Offene Punkte — Klärungsbedarf
-
-Das System listet Punkte auf, die nicht abschließend bewertet werden konnten:
-- Nicht beantwortete Fragen des Nutzers
-- Unklare Sachverhalte
-- Punkte, die fachanwaltliche Prüfung erfordern
-
-## Zeitplan-Hinweis
-
-Das System weist auf anwendbare Übergangsfristen hin:
-- Verbote Art. 5: seit 2. Februar 2025 anwendbar
-- GPAI: seit 2. August 2025 anwendbar
-- Hochrisiko Anhang III: ab 2. August 2026 anwendbar
-
-## Abschluss-Disclaimer
-
-```
-Dieses Prüfdokument wurde auf Basis der vom
-Nutzer gemachten Angaben erstellt. Es ersetzt
-keine anwaltliche Beratung. Die KI-VO und ihre
-Auslegung durch Leitlinien und Rechtsprechung
-sind laufend im Blick zu behalten.
+Pflichttext:
+```text
+Auf Grundlage der vorliegenden Angaben ist das System [wahrscheinlich / wahrscheinlich nicht / offen] als KI-System im Sinne von Art. 3 Nr. 1 KI-VO einzuordnen. Entscheidend ist insbesondere [Inferenz/Automation/Output/Zweck]. Die bloße Automation wurde [nicht allein / zusammen mit Inferenz] bewertet; Autonomie wurde nicht als Vollautonomie verstanden.
 ```
 
----
+### 3. Zweckbestimmung und tatsächliche Nutzung
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Dokumentieren:
+- Anbieter-Zweckbestimmung
+- Betreiber-Zweck
+- tatsächliche Nutzung in der Organisation
+- verbotene oder ausgeschlossene Nutzungen
+- vorhersehbarer Fehlgebrauch
+- bekannte Abweichungen durch Mitarbeitende
+- Re-Evaluation-Trigger
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+### 4. GPAI/Chatbot-Abgrenzung
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 9 Rn. 1: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
-
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+Pflichttext bei allgemeinen Chatbots oder GPAI:
+```text
+Die allgemeine technische Nutzbarkeit eines GPAI-Systems oder Chatbots in Hochrisiko-Bereichen begründet für sich genommen noch keine Hochrisiko-Einstufung. Maßgeblich ist die konkrete Zweckbestimmung und der verantwortete Einsatz. Eine Hochrisiko-Prüfung nach Art. 6 Abs. 2 i.V.m. Anhang III ist erforderlich, wenn das System in einen entsprechenden Fachprozess integriert oder hierfür tatsächlich verwendet wird.
 ```
-PRUEFERGEBNIS — OUTPUT PRUEFDOKUMENT KI VO MIT WARNHINWEISEN
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 9 Rn. 1]
+### 5. Risikoklassen-Ergebnis
 
+| Prüfpunkt | Ergebnis | Fundstelle | Folge |
+|---|---|---|---|
+| Verbotene Praktik | Ja/Nein/Unklar | Art. 5 |  |
+| Hochrisiko Sicherheitsbauteil | Ja/Nein/Unklar | Art. 6 Abs. 1, Anhang I |  |
+| Hochrisiko Anhang III | Ja/Nein/Unklar | Art. 6 Abs. 2, Anhang III |  |
+| Rückausnahme | Greift/Greift nicht/Unklar | Art. 6 Abs. 3/4 |  |
+| Begrenztes Risiko | Ja/Nein/Unklar | Art. 50 |  |
+| GPAI-Modell/System | Ja/Nein/Unklar | Art. 3 Nr. 63/66, Art. 51 ff. |  |
+
+### 6. Anhang-III-Matrix
+
+Auch bei negativem Ergebnis kurz dokumentieren:
+
+| Nr. | Bereich | Ergebnis | Kurze Begründung |
+|---|---|---|---|
+| 1 | Biometrie | Ja/Nein/Unklar |  |
+| 2 | Kritische Infrastruktur | Ja/Nein/Unklar |  |
+| 3 | Bildung/Berufsausbildung | Ja/Nein/Unklar |  |
+| 4 | Beschäftigung/Arbeit | Ja/Nein/Unklar |  |
+| 5 | Wesentliche private/öffentliche Dienste | Ja/Nein/Unklar |  |
+| 6 | Strafverfolgung | Ja/Nein/Unklar |  |
+| 7 | Migration/Asyl/Grenze | Ja/Nein/Unklar |  |
+| 8 | Rechtspflege/demokratische Prozesse | Ja/Nein/Unklar |  |
+
+### 7. Betreiber- und Governance-Vermerk
+
+Bei allgemeinem Chatbot/GPAI oder offener Zweckverwendung:
+- Gibt es KI-Richtlinie?
+- Schulung nach Art. 4?
+- Rollenrechte und technische Sperren?
+- Logging/Audit?
+- Freigabeprozess für sensible Use Cases?
+- Umgang mit isoliertem Fehlgebrauch?
+- Anbieterwerden nach Art. 25 ausgeschlossen?
+
+### 8. Pflichtenprogramm
+
+Nach Ergebnis differenzieren:
+
+**Hochrisiko-Anbieter:** Art. 9 bis 15, Art. 17, Art. 43 bis 49, EU-Datenbank, Post-Market-Monitoring.
+
+**Hochrisiko-Betreiber:** Art. 26, ggf. Art. 27, menschliche Aufsicht, Logs, Eingabedaten, Informationspflichten, Vorfallprozesse.
+
+**Nicht-Hochrisiko:** Art. 50, GPAI, Art. 4 KI-Kompetenz, interne Governance, Datenschutz, Berufsrecht, Re-Evaluation.
+
+**GPAI:** Art. 51 bis 55, Code of Practice, Systemrisiko, technische Dokumentation, Copyright-Policy, Trainingsdaten-Zusammenfassung.
+
+### 9. Normen und Standards
+
+Kurz aufnehmen:
+- Gibt es harmonisierte Normen mit Amtsblatt-Fundstelle?
+- Werden ISO/IEC 42001, 23894, 22989, 23053 oder Sicherheitsstandards als Orientierung genutzt?
+- Welche Standards begründen keine Vermutungswirkung?
+
+### 10. Ergebnisformel
+
+```text
 Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
+Nach den vorliegenden Angaben handelt es sich bei [System] [wahrscheinlich / wahrscheinlich nicht / offen] um ein KI-System nach Art. 3 Nr. 1 KI-VO. [Begründung in 3-5 Sätzen.]
 
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
+Die Hochrisiko-Einstufung nach Art. 6 Abs. 2 i.V.m. Anhang III ist [wahrscheinlich / nicht ersichtlich / offen], weil [konkreter Zweck und Bereich]. Ein allgemeiner Chatbot/GPAI-Einsatz allein genügt hierfür nicht; entscheidend ist [konkrete Zweckbestimmung/tatsächliche Nutzung].
+
+Die Rückausnahme nach Art. 6 Abs. 3 ist [zu prüfen / greift wahrscheinlich / greift nicht], weil [Profiling/Risiko/Fallgruppe].
+
+Empfohlene nächste Schritte:
+1. [Maßnahme]
+2. [Maßnahme]
+3. [Maßnahme]
 ```
+
+## Quellen- und Aktualitätshinweis
+
+Stand: 05/2026. Quellenstand und Leitlinienlage sind vor Außenverwendung zu aktualisieren. Keine Rechtsberatung.

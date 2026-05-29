@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-mandat-arbeitsbereich
-description: "Digitaler Arbeitsbereich fuer Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Pruefraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
+description: "Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
 ---
 
 # Mandatsarbeitsbereich
@@ -29,16 +29,11 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 ### Leitentscheidungen
 
-- **BGH, Urt. v. 05.11.2009 – IX ZR 214/08, NJW 2010, 73 Rn. 16** — Anwaltliche Verschwiegenheitspflicht und Haftung bei unzulässiger mandatsübergreifender Nutzung von Informationen; strikte Trennung der Mandate als Berufspflicht.
-- **BGH, Urt. v. 14.07.2016 – IX ZR 291/14, NJW 2016, 3235 Rn. 22 ff.** — Aufbewahrung von Handakten; Herausgabepflicht nach § 50 BRAO; Haftung bei vorzeitiger Vernichtung.
-- **BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917** — Schutz der Mandatsunterlagen vor staatlichem Zugriff; anwaltliche Verschwiegenheit als Verfassungsposition.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55` — Verschwiegenheitspflicht; Reichweite und Grenzen; mandatsübergreifende Nutzung.
-- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 84 Rn. 3` — Vollmacht und Aktenführung im Prozess; Wechsel des Prozessbevollmächtigten.
-- `Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.03.2024), § 50 Rn. 12` — Handaktenpflicht, Aufbewahrung, Vernichtung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 
@@ -48,7 +43,7 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`:
 
-> „Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:prozessrecht-kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
+> "Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:prozessrecht-kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
 
 ### Schritt 2: Unterbefehl ausführen
 
@@ -61,12 +56,12 @@ Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`
    - **Mandatstyp**: Zivilstreitigkeit | Arbeitsrechtssache | Verwaltungsverfahren | Strafverteidigung | Steuerrechtsstreit (FGO) | Sozialrechtsstreit (SGG) | IP-Streit | sonstiges
    - **Vertraulichkeitsstufe**: Standard | erhöht | Clean-Team
    - **Sachverhalt** (2–5 Sätze: Gegenstand, Beteiligte, Streitwert/Risiko, Besonderheiten)
-   - **Mandatsspezifische Abweichungen vom Kanzleistandard** (z. B. „Mandant verlangt wöchentliche Statusberichte", „Gegenseite ist Geschäftspartner — deeskalierender Ton")
+   - **Mandatsspezifische Abweichungen vom Kanzleistandard** (z. B. "Mandant verlangt wöchentliche Statusberichte", "Gegenseite ist Geschäftspartner — deeskalierender Ton")
    - **Verwandte Mandate** (Slugs verbundener Sachen)
 3. `mandate/<slug>/akte.md` nach Vorlage unten schreiben.
 4. `mandate/<slug>/verlauf.md` mit Eröffnungseintrag seeden.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. Nicht automatisch wechseln — fragen: „Soll auf `<slug>` gewechselt werden? (`/prozessrecht:prozessrecht-mandat-arbeitsbereich wechseln <slug>`)"
+6. Nicht automatisch wechseln — fragen: "Soll auf `<slug>` gewechselt werden? (`/prozessrecht:prozessrecht-mandat-arbeitsbereich wechseln <slug>`)"
 
 #### `liste`
 
@@ -75,7 +70,7 @@ Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`
 | Slug | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschrift „Archiviert".
+Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschrift "Archiviert".
 
 #### `wechseln <slug>`
 
@@ -86,7 +81,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschri
 #### `schließen <slug>`
 
 1. Bestätigen, dass `mandate/<slug>/` existiert.
-2. Eintrag „Mandat abgeschlossen" in `mandate/<slug>/verlauf.md` mit heutigem Datum anhängen.
+2. Eintrag "Mandat abgeschlossen" in `mandate/<slug>/verlauf.md` mit heutigem Datum anhängen.
 3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (nicht löschen — § 50 Abs. 2 BRAO).
 4. War das geschlossene Mandat das aktive, `Aktives Mandat:` auf `keins — nur Kanzleiebene` setzen.
 
@@ -153,9 +148,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 *Abweichungen vom Kanzleistandard, die nur für dieses Mandat gelten.*
 
-- [z. B. „Prozesskostenfondlimit: Mandant besteht auf max. 50.000 EUR, nicht Standard 100.000 EUR."]
-- [z. B. „Ton: deeskalierend — Gegenseite ist Geschäftspartner."]
-- [z. B. „Gerichtsstand: Hamburg; abweichend vom Standardsitz München."]
+- [z. B. "Prozesskostenfondlimit: Mandant besteht auf max. 50.000 EUR, nicht Standard 100.000 EUR."]
+- [z. B. "Ton: deeskalierend — Gegenseite ist Geschäftspartner."]
+- [z. B. "Gerichtsstand: Hamburg; abweichend vom Standardsitz München."]
 
 ## Verwandte Mandate
 
@@ -178,16 +173,16 @@ Chronologisches Ereignisprotokoll. Jüngster Eintrag oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Weiterer Anfangskontext — z. B. „Eröffnet nach Zustellung Klageschrift durch [Gegenseite] am [Datum]."]
+[Weiterer Anfangskontext — z. B. "Eröffnet nach Zustellung Klageschrift durch [Gegenseite] am [Datum]."]
 ```
 
 ## Beispiel
 
-**Anfrage:** „Neues Mandat anlegen: Berufungsverfahren Müller GmbH gegen Bauer AG, OLG München, Streitwert 250.000 EUR."
+**Anfrage:** "Neues Mandat anlegen: Berufungsverfahren Müller GmbH gegen Bauer AG, OLG München, Streitwert 250.000 EUR."
 
 **Unterbefehl:** `neu muellerGmbH-bauer-berufung-2025`
 
-**Ergebnis:** `akte.md` wird angelegt mit Mandatstyp „Zivilstreitigkeit", Vertraulichkeit „standard", Sachverhalt aus den Angaben. `verlauf.md` mit Eröffnungseintrag vom heutigen Tag geseeded. Frage: „Auf `muellerGmbH-bauer-berufung-2025` wechseln?"
+**Ergebnis:** `akte.md` wird angelegt mit Mandatstyp "Zivilstreitigkeit", Vertraulichkeit "standard", Sachverhalt aus den Angaben. `verlauf.md` mit Eröffnungseintrag vom heutigen Tag geseeded. Frage: "Auf `muellerGmbH-bauer-berufung-2025` wechseln?"
 
 ## Risiken und typische Fehler
 
@@ -200,7 +195,7 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 ## Quellenpflicht
 
 - Gesetzestexte: §§ 43a, 45, 46, 50 BRAO; § 3 BORA; Art. 32 DSGVO; § 1 BDSG
-- Rechtsprechung: BGH, Urt. v. 05.11.2009 – IX ZR 214/08, NJW 2010, 73; BGH, Urt. v. 14.07.2016 – IX ZR 291/14, NJW 2016, 3235
-- Kommentare: Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a; Römermann, in: BeckOK BRAO, 21. Ed. 2024, § 50
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

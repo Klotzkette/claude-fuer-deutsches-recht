@@ -1,6 +1,7 @@
 ---
 name: vertragspruefung
-description: "Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer „Vertrag prüfen\", „AGB prüfen\", „NDA prüfen\", „Klauselkontrolle\" oder einen Vertrag zur Analyse einreicht."
+description: 'Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer "Vertrag prüfen", "AGB prüfen", "NDA prüfen", "Klauselkontrolle" oder einen Vertrag zur Analyse einreicht.'
+
 ---
 
 # Vertragsanalyse und Klauselkontrolle
@@ -96,37 +97,30 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104 Rn. 14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Inhaltskontrolle Haftungsbeschränkungsklausel; § 307 BGB; Grenze
   der Freizeichnung)
-- BGH, Urt. v. 09.04.2014 – VIII ZR 404/12, NJW 2014, 2100 Rn. 30
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (§ 305c BGB; Überraschungsklausel; Leitnorm zur AGB-Kontrolle)
-- BGH, Urt. v. 19.11.2019 – XI ZR 9/18, NJW 2020, 461 Rn. 22 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Transparenzgebot; § 307 Abs. 1 S. 2 BGB; Klauselkontrolle
   Zinsanpassungsklausel)
-- BGH, Urt. v. 14.01.2020 – VIII ZR 163/18, NJW 2020, 1431 Rn. 25
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (§ 309 Nr. 8 BGB; unzulässige Einschränkung der Gewährleistungsrechte
   in AGB)
-- BGH, Urt. v. 08.12.2011 – VII ZR 111/11, NJW 2012, 1431 Rn. 20
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (§ 309 Nr. 7 lit. b BGB; Haftungsfreizeichnung für grobe Fahrlässigkeit
   in AGB unwirksam)
-- BGH, Urt. v. 29.06.2011 – VIII ZR 212/08, BGHZ 190, 115 Rn. 20 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (§ 305 Abs. 2 BGB; AGB-Einbeziehung; Anforderungen im Verbraucher- und
   B2B-Bereich)
-- EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2613 (Schrems II;
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Drittlandübertragungen; Standardvertragsklauseln)
+- **LG Aachen, Urteil vom 27.05.2026, 10 O 306/25** — Button-Lösung § 312j Abs. 3 BGB im Online-Glücksspiel: Die Schaltflächenbeschriftung "Wette abgeben" genügt nicht. Verstoß führt zu endgültiger Unwirksamkeit (§ 312j Abs. 4 BGB) und Rückabwicklung nach § 812 BGB — unabhängig von glücksspielrechtlichen Konzessionsfragen. Für die Vertragsprüfung digitaler B2C-Vertragsschlüsse bedeutet das: Button-Beschriftung isoliert prüfen, nur die Worte auf dem Button zählen (im Anschluss an EuGH C-249/21 Fuhrmann-2). (Quelle: Pressehinweis Gamesright/rightmart vom 28.05.2026; Volltext bei Aufnahme noch nicht veröffentlicht.)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 305 Rn. 3 (Einbeziehung AGB);
-  § 305c Rn. 5 (Überraschungsklausel); § 307 Rn. 1 (Inhaltskontrolle)
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (Transparenzgebot);
-  § 309 Rn. 80 (Klauselverbote im Einzelnen)
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100
-  (Generalklausel; Praxisrelevanz; Doppelautoren-Kommentar)
-- Coester-Waltjen, in: Staudinger, BGB, Neubearbeitung 2022, § 307 Rn. 200
-- Lehmann-Richter, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 307 Rn. 150
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Kanzleiprofil laden
@@ -148,8 +142,8 @@ Falls kein Vertrag vorliegt: danach fragen.
 ### Schritt 3 — Dokumentstruktur erkennen (Titel zuerst)
 
 Vor dem Lesen des Textkörpers extrahieren:
-- Haupttitel (z. B. „Dienstleistungsrahmenvertrag", „Geheimhaltungsvereinbarung")
-- Alle Anlage-, Anhang-, Nachtragstitel (z. B. „Anlage 1 — AVV", „Anhang B —
+- Haupttitel (z. B. "Dienstleistungsrahmenvertrag", "Geheimhaltungsvereinbarung")
+- Alle Anlage-, Anhang-, Nachtragstitel (z. B. "Anlage 1 — AVV", "Anhang B —
   Service-Level-Vereinbarung")
 
 Das ist das Routing-Signal. Nicht auf Body-Keywords allein verlassen.
@@ -246,7 +240,7 @@ dass sie für einen redlich und verständig denkenden Kaufmann inakzeptabel wär
 
 **Freistellung / Freistellungsklauseln (§ 257 BGB):**
 - Einseitig zulasten einer Partei?
-- Ausgelöst durch „jeglichen Verstoß" — das macht die Haftungsbegrenzung
+- Ausgelöst durch "jeglichen Verstoß" — das macht die Haftungsbegrenzung
   faktisch wirkungslos?
 - Verfahren: Benachrichtigung, Verteidigungsrecht, Vergleichszustimmung?
 
@@ -304,15 +298,15 @@ und Eskalationsanfrage formulieren.
 
 ### [Klausel-Überschrift] — [GRÜN / GELB / ROT]
 
-**Vertragstext:** „[vollständiger Klauseltext]"
+**Vertragstext:** "[vollständiger Klauseltext]"
 
 **Bewertung:** [Begründung mit §§ und BGH-Belegen]
 
 **Gegenentwurf:**
-„[vorgeschlagene Formulierung]"
+"[vorgeschlagene Formulierung]"
 
-*Begründung: [z. B. BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104;
-Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45]*
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Literatur nur als vom Nutzer bereitgestellte oder lizenziert live geprüfte Quelle mit exakter Fundstelle]*
 
 ---
 
@@ -324,7 +318,7 @@ Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45]*
 ## Beispiel
 
 **Szenario:** IT-Dienstleistungsrahmenvertrag, Verwender-Seite, eingereicht
-durch Lieferanten. Klausel: „Haftung des Auftragnehmers ist ausgeschlossen,
+durch Lieferanten. Klausel: "Haftung des Auftragnehmers ist ausgeschlossen,
 soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 
 **Prüfung:**
@@ -332,9 +326,9 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 - Bewertung: GELB — entspricht § 309 Nr. 7 lit. b BGB (Grenze im B2C),
   im B2B zulässig (§ 310 Abs. 1 BGB), aber prüfen, ob der vollständige
   Ausschluss für leichte Fahrlässigkeit auch Kardinalpflichten erfasst
-  (BGH BGHZ 174, 1 Rn. 15 ff.: Kardinalpflichten dürfen nicht durch AGB
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   freigezeichnet werden)
-- Gegenentwurf: „Die Haftung für die Verletzung von Kardinalpflichten
+- Gegenentwurf: "Die Haftung für die Verletzung von Kardinalpflichten
   bleibt in Höhe des vertragstypischen, vorhersehbaren Schadens bestehen."
 
 ## Risiken und typische Fehler
@@ -359,8 +353,7 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 Jede Klauselbewertung muss belegen:
 - Den einschlägigen Paragraphen (§ 305c, § 307, § 309 Nr. 7 BGB etc.)
 - Mindestens eine BGH-Entscheidung in korrekter Zitierweise
-- Mindestens einen Kommentarbeleg im Bearbeiterstil „Bearbeiter, in: Werk"
-  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45;
-  Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Rn. 90)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

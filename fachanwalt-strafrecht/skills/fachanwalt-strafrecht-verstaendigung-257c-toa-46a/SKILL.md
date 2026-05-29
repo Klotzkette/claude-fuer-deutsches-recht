@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-verstaendigung-257c-toa-46a
-description: "Verstaendigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prueft ob Einigung durch Deal Einstellung oder TOA fuer Mandanten vorteilhaft ist. § 257c StPO Verstaendigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Pruefraster Verstaendigungs-Eignung beurteilen, Gestaendnis-Risiken pruefen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verstaendigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung fuer Hauptverhandlung und zu Einlassung."
+description: "Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist. § 257c StPO Verständigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Prüfraster Verständigungs-Eignung beurteilen, Gestaendnis-Risiken prüfen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verständigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung für Hauptverhandlung und zu Einlassung."
 ---
 
 # Verständigung § 257c StPO / TOA § 46a StGB
@@ -25,13 +25,11 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 - **§ 153a StPO** — Einstellung gegen Auflage
 - **§ 46a StGB** — TOA als Strafmilderung
 - **§ 403 ff. StPO** — Adhäsionsverfahren
-- **BVerfG 2 BvR 2628/10** — Verständigungs-Verfahrenskonformität
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 7.2.2012 — 1 StR 525/11 (Belehrung § 257c V StPO Pflicht)
-- BVerfG, Beschl. v. 19.3.2013 — 2 BvR 2628/10 (Verfassungskonform mit Belehrung)
-- BGH, Urt. v. 10.1.2014 — 2 StR 478/13 (TOA-Anerkennung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade im Strafrecht
 
@@ -103,7 +101,7 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 
 ## Strategie und Taktik
 
-- **§ 257c V Belehrung** zwingend — sonst kein Geständnis-Wert (BGH 1 StR 525/11)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geständnis nach Akteneinsicht**: nie vorab; Beweislage muss geprüft sein
 - **TOA-Strategie**: Schadenswiedergutmachung sichtbar machen (Zahlungsplan)
 - **Vorstrafen**: bei nicht-Geständigem Verteidigungs-Pfad häufig vorteilhaft
@@ -119,4 +117,4 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 
 ## Quellen und Updates
 
-Stand: 05/2026. BVerfG 2 BvR 2628/10 stehende Linie. BGH 1 StR 525/11 zur Belehrung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

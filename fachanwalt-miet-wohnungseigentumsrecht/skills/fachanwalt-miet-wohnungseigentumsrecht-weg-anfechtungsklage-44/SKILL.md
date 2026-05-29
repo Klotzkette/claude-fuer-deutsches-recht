@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44
-description: "WEG-Anfechtungsklage § 44 WEG Beschluss-Anfechtung Monatsfrist Klage gegen Gemeinschaft der Wohnungseigentuemer § 9a WEG Aktivlegitimation. Nichtigkeitsklage § 23 Abs. 4 WEG. Stimmrecht § 25 WEG Kopfstimmrecht. Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG. Streitwert § 49 GKG. BGH V ZR 69/21 WEMoG-Reform. Schreibvorlagen."
+description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # WEG-Anfechtungsklage § 44 WEG
@@ -35,12 +35,7 @@ description: "WEG-Anfechtungsklage § 44 WEG Beschluss-Anfechtung Monatsfrist Kl
 
 ### BGH-Rechtsprechung (WEMoG-Reform 01.12.2020)
 
-- BGH, Urt. v. 16.09.2022 — **V ZR 69/21** (BGHZ 234, 252): nach WEMoG ist Klage gegen GdWE zu richten (nicht mehr gegen alle Eigentümer).
-- BGH, Urt. v. 27.10.2023 — **V ZR 79/22**: WEG-Reform-Anwendung; aktuelle Prozessführung.
-- BGH, Urt. v. 17.03.2023 — **V ZR 152/22**: Beschlussanfechtung — Anforderungen an Begründung.
-- BGH, Urt. v. 08.07.2022 — **V ZR 17/22**: Stimmrecht; Kopfprinzip vs. abweichende Vereinbarung.
-- BGH, Urt. v. 23.08.2019 — **V ZR 195/17**: Beschlusskompetenz und Nichtigkeit bei fehlendem Verwalter.
-- BGH, Beschl. v. 17.01.2019 — **V ZB 121/18**: Streitwert § 49 GKG.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -187,7 +182,7 @@ II. Begründetheit
 | Frist 1 Monat versäumt | Nur Nichtigkeitsklage noch möglich; Anfechtung verfristet |
 | Stimmrecht nach Köpfen falsch berechnet | § 25 Abs. 2 WEG — Kopfprinzip ist gesetzlicher Regelfall; abweichendes Modell nur durch Vereinbarung + Grundbucheintragung |
 | Vereinbarung ohne Grundbucheintragung | § 10 Abs. 3 WEG — keine Bindung Sondernachfolger |
-| Verwalter bei Beschluss über eigenes Mandat befangen | § 25 Abs. 4 WEG Stimmverbot; BGH V ZR 195/17 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -216,6 +211,6 @@ II. Begründetheit
 
 - WEG §§ 9a, 9b, 10, 23–26, 29, 44, 45
 - GKG § 49
-- BGH V ZR 69/21; V ZR 79/22; V ZR 152/22; V ZR 17/22; V ZR 195/17; V ZB 121/18
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG

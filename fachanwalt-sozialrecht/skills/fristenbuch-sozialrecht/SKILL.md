@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-sozialrecht
-description: "Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untaetigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellpruefung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailpruefung Zustellung)."
+description: "Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung)."
 ---
 
 # Fristenbuch Sozialrecht
@@ -91,12 +91,8 @@ Pro Eintrag:
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 06.05.2010 - B 14 AS 12/09 R, SozR 4-1300 § 37 Nr. 1 Rn. 15 — Die Drei-Tages-Fiktion (jetzt vier Tage nach PostModG) des § 37 Abs. 2 SGB X gilt auch dann, wenn der Bescheid tatsächlich früher zuging; maßgeblich ist der fingierte Zeitpunkt, sofern kein abweichender Zugang beweisbar ist.
-- BSG, Urt. v. 26.05.2011 - B 14 AS 54/10 R, SozR 4-1500 § 84 Nr. 4 Rn. 17 — Bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung beginnt die Jahresfrist des § 66 Abs. 2 SGG mit der Bekanntgabe des Bescheids; ein erneutes Jahr läuft ab dem Zeitpunkt der Heilung durch nachträgliche Belehrung.
-- BSG, Urt. v. 17.07.2014 - B 14 AS 25/13 R, SozR 4-1500 § 67 Nr. 3 Rn. 21 — Wiedereinsetzung in den vorigen Stand nach § 67 SGG setzt unverschuldetes Hindernis und unverzüglichen Antrag (zwei Wochen ab Wegfall) voraus; Verschulden des Prozessbevollmächtigten wird dem Mandanten zugerechnet.
-- BSG, Urt. v. 29.11.2012 - B 14 AS 196/11 R, SozR 4-1300 § 26 Nr. 2 Rn. 12 — Die Fristberechnung nach § 26 SGB X folgt den §§ 187 ff. BGB; fällt das Ende einer Frist auf einen Sonnabend, Sonntag oder gesetzlichen Feiertag, endet sie am nächsten Werktag.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kasseler Kommentar Sozialversicherungsrecht, Steinwedel § 37 SGB X Rn. 1 ff. (Bekanntgabe, Zugangsfiktionen)
-- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses, Kap. IV Rn. 60 ff. (Fristen, Wiedereinsetzung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

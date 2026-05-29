@@ -1,6 +1,6 @@
 ---
 name: abmahnung-urheberrecht
-description: "Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Pruefraster: modifizierte Unterlassungserklaerung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung)."
+description: "Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung)."
 ---
 
 # Urheberrechtliche Abmahnung – § 97a UrhG
@@ -63,37 +63,24 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 12.05.2016 – I ZR 1/15, GRUR 2016, 1280 Rn. 28 –
-   „Tannöd": Zur Lizenzanalogie bei Filesharing: Der Rechteinhaber kann als
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   "Tannöd": Zur Lizenzanalogie bei Filesharing: Der Rechteinhaber kann als
    Mindestschadensersatz den Betrag verlangen, den eine vernünftige Partei als
    angemessene Vergütung für die Gestattung der Nutzung vereinbart hätte;
    Filesharing ermöglicht unbegrenzte Verbreitung, was bei der Lizenzberechnung
    zu berücksichtigen ist; einzelne Downloads rechtfertigen einen Pauschalbetrag,
    da genaue Feststellung der Schadenshöhe nicht möglich ist (§ 287 ZPO).
 
-2. BGH, Urt. v. 11.06.2015 – I ZR 75/14, GRUR 2016, 191 Rn. 35 –
-   „Tauschbörse III": Zur Störerhaftung des Anschlussinhabers: Der Anschluss-
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   "Tauschbörse III": Zur Störerhaftung des Anschlussinhabers: Der Anschluss-
    inhaber haftet als Störer für Urheberrechtsverletzungen über seinen Anschluss,
    wenn er Prüfungspflichten verletzt hat (Sicherung des WLAN, Belehrung von
    Familienmitgliedern); sekundäre Darlegungslast des Anschlussinhabers zur
    Benennung möglicher alternativer Täter.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Dreier, in: Dreier/Schulze, UrhG, 7. Aufl. 2022, § 97a Rn. 12 –
-   Die Kostendeckelung nach § 97a Abs. 3 UrhG gilt nur für natürliche Personen
-   als Abgemahnte, die ausschließlich im privaten Bereich handeln; bei
-   gewerblichem Kontext, wiederholten Verletzungen oder erheblichem Ausmaß findet
-   die Deckelung keine Anwendung; der Abmahnende trägt die Beweislast für das
-   Nichtvorliegen der Deckelungsvoraussetzungen.
-
-2. Reber, in: Schricker/Löwenheim, UrhR, 6. Aufl. 2020, § 97a Rn. 25 –
-   Die modifizierte Unterlassungserklärung des Abgemahnten muss den drohenden
-   Wiederholungsgefahrtatbestand vollständig abdecken; eine zu eng gefasste
-   Erklärung beseitigt die Wiederholungsgefahr nicht und lässt das Rechtsschutzbedürfnis
-   für eine Unterlassungsklage bestehen; maßgeblich ist die objektivierte Sicht
-   des Gläubigers auf die Erklärung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Für den Abmahnenden (Rechteinhaber)
@@ -122,7 +109,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
 6. **Schadensersatz geltend machen** – Lizenzanalogie (§ 97 Abs. 2 Satz 3 UrhG);
    Schätzung nach § 287 ZPO; Tabellen für übliche Lizenzgebühren (MFM-Tabelle
    für Fotos; GEMA-Tarife für Musik; BGH-Rspr. für Filesharing, vgl.
-   BGH, Urt. v. 12.05.2016 – I ZR 1/15, GRUR 2016, 1280 Rn. 28).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Für den Abgemahnten (Schuldner)
 
@@ -139,8 +126,8 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
    nach Hamburger Brauch (konkrete Summe nach billigem Ermessen).
 
 4. **Kosten verhandeln** – Lizenzanalogie begründen oder anfechten; bei Filesharing
-   sekundäre Darlegungslast erfüllen (BGH, Urt. v. 11.06.2015 – I ZR 75/14,
-   GRUR 2016, 191 Rn. 35): andere mögliche Täter benennen (Mitbewohner, Gäste).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 5. **Verjährung beachten** – § 102 UrhG i. V. m. §§ 195, 199 BGB: 3-Jahres-
    Regelverjährung; Beginn mit Kenntnis (§ 199 Abs. 1 BGB); 10-Jahres-Maximal-
@@ -172,10 +159,10 @@ RVG für eine 1,3-Gebühr (Nr. 2300 VV RVG) ein Erstattungsbetrag von ca. 27,30 
 (zzgl. Auslagenpauschale); die geltend gemachten 956 € sind insoweit überhöht.
 
 **Schadensersatz:** 500 € nach Lizenzanalogie ist bei einem Spielfilm vertretbar
-(vgl. BGH, Urt. v. 12.05.2016 – I ZR 1/15, GRUR 2016, 1280 Rn. 28); jedoch
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kann P durch sekundäre Darlegungslast auf alternative Täter (Familienmitglieder)
-hinweisen, sofern der Anschluss mehreren Personen zugänglich war (BGH, Urt. v.
-11.06.2015 – I ZR 75/14, GRUR 2016, 191 Rn. 35).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Empfehlung:** Modifizierte Unterlassungserklärung ohne Schuldanerkenntnis abgeben;
 Kosten auf Deckelungsbetrag reduzieren; Schadensersatz verhandeln.
@@ -190,7 +177,7 @@ Kosten auf Deckelungsbetrag reduzieren; Schadensersatz verhandeln.
   mehr als 4–6 Wochen (je nach OLG-Praxis) nach Kenntnis zuwartete, ohne zu
   handeln.
 - **Sekundäre Darlegungslast:** Pauschales Bestreiten genügt nicht (BGH
-  „Tauschbörse III"); P muss konkret darlegen, wer sonst Zugang hatte.
+  "Tauschbörse III"); P muss konkret darlegen, wer sonst Zugang hatte.
 - **IP-Adresszuordnung fehlerhaft:** Gutachtlich belegte Zuordnung angreifen;
   Richtigkeit der Ermittlung durch Privatgutachter in Frage stellen.
 - **Deckelung bei erheblichem Verstoß ausgeschlossen:** § 97a Abs. 3 Satz 2
@@ -220,14 +207,14 @@ Bevor die Abmahnung versandt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.05.2016 — I ZR 1/15 (Tauschboerse III):** Der angemessene Lizenzschaden fuer das offentliche Zugaenglichmachen eines Musikalbums im Filesharing-Kontext kann nach Lizenzanalogie berechnet werden; der Verletzer muss das zahlen, was verstaendige Parteien als Verguetung vereinbart haetten.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Bei der Abmahnung wegen Filesharings durch einen Rechtsanwalt ist der Gegenstandswert auf EUR 1.000 begrenzt (§ 97a III UrhG), wenn der Verletzer eine Privatperson ist und die Verletzung keine gewerbliche Dimension hat; die Deckelung gilt nicht, wenn die Verletzung massenhaft oder gewerblich erfolgt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Die sekundaere Darlegungslast des Anschlussinhabers erfordert, dass er substantiiert vortraegt, welche anderen Familienangehoerigen oder Mitbewohner Zugang zum Internetanschluss hatten und wer als Taeter in Betracht kommt; blosse Behauptung moeglicher Dritter genuegt nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur
-Problem: BGH I ZR 75/14 wurde mit GRUR 2016, 176 zitiert (falsch; das ist Tauschboerse I = I ZR 19/14).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Korrektur: GRUR 2016, 176 → GRUR 2016, 191 (alle 3 Fundstellen). Verifiziert via dejure.org.
 -->

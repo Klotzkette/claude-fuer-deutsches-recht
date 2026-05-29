@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-disclosure-schedules
-description: "Disclosure Schedules zum SPA erstellen und pruefen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prueft Vollstaendigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Pruefraster: je Warranty-Abschnitt korrespondierender Schedule, Vollstaendigkeits-Pruefung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance."
+description: "Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: je Warranty-Abschnitt korrespondierender Schedule, Vollständigkeits-Prüfung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance."
 ---
 
 # Disclosure Schedules
@@ -24,17 +24,11 @@ description: "Disclosure Schedules zum SPA erstellen und pruefen: Verkaeufer off
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — Wesentliche Risiken muss Verkaefer ungefragt offenbaren; eine knappe Erwaehnung im Datenraum reicht nicht als vollstaendige Disclosure
-- BGH, Urt. v. 04.04.2014 - V ZR 275/12, NJW 2014, 2360 — Arglist erfordert positives Wissen; bewusstes Verschweigen bei Kenntnis reicht; kein fahrlassiges Nichtwissen
-- OLG Frankfurt, Urt. v. 07.05.2021 - 5 U 160/19, NZG 2021, 1174 — Disclosure Letter muss konkrete Information enthalten; allgemeiner Verweis auf Datenraum ist keine wirksame Disclosure
-- BGH, Urt. v. 06.03.2020 - V ZR 2/19, NJW 2020, 1955 — Anti-Sandbagging: vertragliche Vereinbarung geht § 442 BGB vor; bei Best-Knowledge-Klausel haftet Verkaefer auch bei Kaeufer-Kenntnis
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Lorenz § 311 Rn. 45 ff. — vorvertragliche Aufklaerungspflichten
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 10 — Disclosure und Warranty
-- Beisel/Klumpp, Unternehmenskauf (7. Aufl. 2016) Kap. 8 — Disclosure-Praxis
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Disclosure-Struktur: Specific und General Disclosures
 
 ### Specific Disclosures
@@ -133,6 +127,6 @@ nach vernaenftiger Nachforschung.
 ## Quellen
 
 - § 444, 311 II, 442, 453 BGB
-- BGH V ZR 299/19 (Offenbarungspflicht, Datenraum-Disclosure); BGH V ZR 2/19 (Anti-Sandbagging); OLG Frankfurt 5 U 160/19
-- MueKo BGB/Lorenz § 311 Rn. 45 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 10

@@ -1,6 +1,6 @@
 ---
 name: anw-akteneinsicht-steuerakte
-description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Pruefungsbericht Aktenvermerk oder Pruefungsakte einsehen um Einspruch oder Klage zu begruenden. Behandelt Verwaltungsakten Pruefungsakten Aktenvermerke Aussenpruefungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster fuer die uebermittelte Akte. Abgrenzung zu anw-aussenpruefung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt."
+description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begründen. Behandelt Verwaltungsakten Prüfungsakten Aktenvermerke Aussenprüfungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster für die uebermittelte Akte. Abgrenzung zu anw-aussenprüfung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt."
 ---
 
 # Akteneinsicht in Steuerakten
@@ -25,21 +25,15 @@ description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einsp
 
 ## Aktuelle Rechtsprechung
 
-- BFH, Urt. v. 26.09.2019 - X R 40/17, BStBl II 2020, 195 Rn. 22 — Akteneinsicht nach § 364 AO setzt voraus, dass der Steuerpflichtige im Einspruchsverfahren auf konkrete entscheidungserhebliche Tatsachen hinweisen kann; ein allgemeines Einsichtsrecht in alle Akten besteht nicht.
-- BFH, Beschl. v. 12.06.2018 - VIII B 62/17, BFH/NV 2018, 1136 Rn. 12 — Schwärzungen zum Schutz des Steuergeheimnisses Dritter (§ 30 AO) sind zulässig; das Gericht prüft die Verhältnismäßigkeit im Einzelfall.
-- BFH, Urt. v. 14.03.2012 - XI R 33/09, BStBl II 2012, 477 Rn. 17 — Im Klageverfahren nach § 78 FGO hat der Kläger ein umfassendes Recht auf Einsicht in die vollständige Steuerakte; interne Prüfernotizen sind grundsätzlich einzubeziehen.
-- BFH, Beschl. v. 23.01.2020 - V B 14/19, BFH/NV 2020, 453 Rn. 8 — Kontrollmitteilungen nach § 93a AO, die das Finanzamt als Ausgangspunkt der Prüfung genutzt hat, sind Aktenbestandteil und dem Steuerpflichtigen auf Antrag zugänglich zu machen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
 § 364 AO (Akteneinsicht Einspruch) · § 78 FGO (Klageverfahren) · § 71 Abs. 2 FGO (Beiziehung VA) · Art. 15 DSGVO · § 30 AO (Steuergeheimnis) · § 93a AO (Kontrollmitteilungen) · § 87a Abs. 1 S. 2 AO n.F. (ELSTER-Pflicht gegenüber FA)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Kruse, AO/FGO, § 364 AO Rn. 1-25 (Akteneinsicht im Einspruchsverfahren, Umfang und Grenzen)
-- Klein/Rätke, AO, § 364 Rn. 1-18 (BeckOK, aktuell)
-- Gosch/Kiesewetter, in: Kirchhof/Söhn/Mellinghoff, EStG, Vorbem. §§ 36-45d (zur Kontrollmitteilungspraxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Antrag im Einspruchsverfahren (§ 364 AO)
 
 ```
@@ -111,7 +105,7 @@ In der Streitsache [NAME] ./. Finanzamt [ORT] beantragen wir:
 
 ### Prüfungsanmerkungen und interne Vermerke
 
-- Interne Prüfer-Notizen sind Aktenbestandteil — Anspruch grundsätzlich gegeben (BFH X R 40/17).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kontrollmitteilungen aus § 93a AO, DAC7-Meldedaten, FATCA-Daten ggf. relevant.
 
 ### Internationaler Datenaustausch

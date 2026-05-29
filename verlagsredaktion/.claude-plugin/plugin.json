@@ -1,7 +1,7 @@
 {
   "name": "verlagsredaktion",
-  "version": "14.2.0",
-  "description": "Verlegerischer Redaktionsassistent fuer juristische Verlage und Autoren. Macht aus disparaten Inputs ein Rohmanuskript fuer Aufsatz Kommentar oder Buchkapitel. Editionssystem ueberarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.",
+  "version": "24.2.0",
+  "description": "Verlegerischer Redaktionsassistent für juristische Verlage und Autoren. Macht aus disparaten Inputs ein Rohmanuskript für Aufsatz Kommentar oder Buchkapitel. Editionssystem überarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-warnung-paragraph-102-starug-template
-description: "§ 102-StaRUG-Warnbrief fuer Berater erstellen: Steuerberater oder Anwalt muss Mandanten formal warnen und Pflichterfuellung dokumentieren. Normen: § 102 StaRUG (Warnpflicht Rechtsberater), § 43 GmbHG, BGH IX ZR 285/14 (Sanierungsberater-Haftung). Pruefraster: Drei Eskalationsstufen (Warnung, verstaerkte Warnung, Niederlegung), Dokumentations-Quittung, Mandatsniederlegungs-Schreiben. Output Warnbrief-Templates fuer alle drei Eskalationsstufen. Abgrenzung: Warnpflicht rechtlich siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern; GF-Haftung siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg."
+description: "Workflow-Skill zu mandantenbrief warnung paragraph 102 starug template. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen
@@ -15,8 +15,7 @@ description: "§ 102-StaRUG-Warnbrief fuer Berater erstellen: Steuerberater oder
 - § 43 StBerG (Allgemeine Berufspflichten Steuerberater)
 - § 43 WPO (Berufspflichten Wirtschaftsprüfer)
 - § 43a BRAO (Grundpflichten Rechtsanwalt)
-- BGH IX ZR 285/14 (unaufgeforderter Hinweis auf Insolvenzrisiko)
-- BGH IX ZR 228/13 (Steuerberater-Haftung bei unterlassenem Hinweis)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 280, 634 BGB (Haftung wegen Beratungspflichtverletzung)
 
 ---
@@ -313,7 +312,4 @@ _______________________________   _______________________________
 
 ## Weitere Leitentscheidungen
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

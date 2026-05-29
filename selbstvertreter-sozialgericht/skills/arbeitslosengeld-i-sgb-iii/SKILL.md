@@ -1,6 +1,6 @@
 ---
 name: arbeitslosengeld-i-sgb-iii
-description: "Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I fuer Buerger ohne Anwalt."
+description: "Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt."
 ---
 
 # Arbeitslosengeld I — Streit mit der Arbeitsagentur

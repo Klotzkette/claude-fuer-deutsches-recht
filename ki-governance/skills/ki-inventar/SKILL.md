@@ -1,6 +1,7 @@
 ---
 name: ki-inventar
-description: "KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-System Rolle (Anbieter, Betreiber, Einführer, Händler, Bevollmächtigter, Produkthersteller) und Risikoklasse (verboten, hochrisiko, begrenzt, minimal, Allzweck-KI, systemisch). Rolle und Klasse werden je System bewertet, nicht je Unternehmen. Verwenden, wenn der Nutzer sagt „KI-Inventar\", „KI-System hinzufügen\", „welche Systeme haben wir\", „KI-System klassifizieren\", „KI-VO-Register\" oder „KI-System-Verzeichnis\"."
+description: 'KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-System Rolle (Anbieter, Betreiber, Einführer, Händler, Bevollmächtigter, Produkthersteller) und Risikoklasse (verboten, hochrisiko, begrenzt, minimal, Allzweck-KI, systemisch). Rolle und Klasse werden je System bewertet, nicht je Unternehmen. Verwenden, wenn der Nutzer sagt "KI-Inventar", "KI-System hinzufügen", "welche Systeme haben wir", "KI-System klassifizieren", "KI-VO-Register" oder "KI-System-Verzeichnis".'
+
 ---
 
 # /ki-inventar
@@ -40,7 +41,7 @@ die eigentliche Obligationenanalyse erfolgt im Gespräch, nicht aus einer fest c
    - `show <id>` → vollständigen Datensatz anzeigen
 
 4. **Nach `list` Dashboard anbieten:**
-   „Dashboard gewünscht? Filterbar nach Status / Klasse / EU-Nexus / Eigentümer. Auf Wunsch."
+   "Dashboard gewünscht? Filterbar nach Status / Klasse / EU-Nexus / Eigentümer. Auf Wunsch."
 
 5. **Jede Aktion mit Anschlusshinweis abschließen:**
    > Erfasst. Wenn Sie die Pflichten für dieses System durcharbeiten möchten, fragen Sie
@@ -57,15 +58,15 @@ Kompakte Tabelle:
 | sys-001 | Lebenslauf-Screening | HR / Schmidt | in_produktion | ja | Betreiber | hochrisiko | 2026-08-01 |
 | sys-002 | E-Mail-Drafting-Assistent | IT / Meier | in_produktion | nein | Betreiber | begrenzt | 2026-12-01 |
 
-Unter der Tabelle: Zählung nach Klasse und: „N Systeme zur Prüfung innerhalb von 30 Tagen."
+Unter der Tabelle: Zählung nach Klasse und: "N Systeme zur Prüfung innerhalb von 30 Tagen."
 Außerdem: Bußgeldrahmen kurz einblenden: Art. 99 Abs. 3 KI-VO – bis 35 Mio. EUR oder 7 %
-des weltweiten Jahresumsatzes bei schwerwiegenden Verstößen `[gegen aktuellen KI-VO-Text prüfen]`.
+des weltweiten Jahresumsatzes bei schwerwiegenden Verstößen; den Pinpoint im Quellenlog auf EUR-Lex vermerken.
 
 ## Aufnahmefluss (Interview)
 
 Felder einzeln abfragen (oder Einfügen akzeptieren). Pflichtfelder: `name`, `eigentümer`,
 `beschreibung`, `status`, `eu_nexus`. Rest kann zurückgestellt werden – explizit darauf
-hinweisen: „Sie können die Klassifizierung mit `/ki-governance:ki-inventar classify <id>`
+hinweisen: "Sie können die Klassifizierung mit `/ki-governance:ki-inventar classify <id>`
 nachholen."
 
 1. **Name.** Kurzbezeichnung des Systems.
@@ -83,9 +84,9 @@ ID vergeben: `sys-NNN` (nächste aufsteigende Nummer in der Datei).
 ## Klassifizierungsdurchlauf
 
 Der Durchlauf ergibt `rolle`, `rollenbasis`, `klasse`, `klassenbasis`. Beide Begründungen
-werden markiert `[gegen aktuellen KI-VO-Text prüfen]` – nicht als Absicherung, sondern weil
+brauchen eine sichtbare Quellenbasis mit Artikel, Anhangspunkt und Datum der Prüfung, weil
 die Artikel-Zuordnung komplex ist und die KI-VO noch in der Einführungsphase ist. Der Anwalt
-trägt die Verantwortung für die Verifizierung.
+trägt die Verantwortung für die finale Verifizierung.
 
 ### Schritt 1: Rolle
 
@@ -121,7 +122,7 @@ Rolle schreiben. `rollenbasis` in einem Satz schreiben.
 
 In dieser Reihenfolge prüfen:
 
-**A. Art. 5 KI-VO – Verbotene Praktiken** `[gegen aktuellen KI-VO-Text prüfen – Art. 5]`
+**A. Art. 5 KI-VO – Verbotene Praktiken**
 
 Zusammenfassungen, kein endgültiger Text:
 - Unterschwellige oder täuschende Techniken, die das Verhalten wesentlich verzerren
@@ -140,7 +141,7 @@ Zusammenfassungen, kein endgültiger Text:
 Trifft zu → Klasse ist `verboten`. Anwendungsfall als Stopp markieren und an den
 Prohibited-Practice-Ablauf des Governance-Teams übergeben.
 
-**B. Anhang III – Hochrisiko-Bereiche** `[gegen aktuellen KI-VO-Text prüfen – Anhang III]`
+**B. Anhang III – Hochrisiko-Bereiche**
 
 1. Biometrische Identifizierung und Kategorisierung
 2. Kritische Infrastruktur (digitale Infrastruktur, Straßenverkehr, Wasser, Gas, Heizung,
@@ -160,7 +161,7 @@ Trifft zu → Klasse ist `hochrisiko`. Anhang-III-Bereich und Unterabschnitt not
 Betreiber-Pflichten gemäß Art. 26 KI-VO prüfen; bei öffentlichen Stellen oder öffentlich
 finanzierten Diensten gilt Art. 27 KI-VO (FRIA – Folgenabschätzung für Grundrechte).
 
-**C. Allzweck-KI (Art. 51 KI-VO und folgende)** `[gegen aktuellen KI-VO-Text prüfen]`
+**C. Allzweck-KI (Art. 51 KI-VO und folgende)**
 
 - **Allzweck-KI:** Auf großen Datenmengen trainiertes Modell, auf Allgemeinheit ausgelegt,
   in der Lage, kompetent eine breite Palette verschiedener Aufgaben zu erfüllen.
@@ -174,16 +175,16 @@ Art. 5 – Transparenzpflichten nach Art. 50 KI-VO gelten.
 **E. Minimale Risikoklasse.** Alles andere.
 
 Klasse schreiben. `klassenbasis` in einem Satz schreiben unter Angabe des Artikels oder
-Anhang-Eintrags, markiert `[gegen aktuellen KI-VO-Text prüfen]`.
+Anhang-Eintrags; Quelle und Prüfdatum im Durchlauf-Protokoll festhalten.
 
 ### Schritt 3: Empfehlungen
 
 Drei nächste Schritte anbieten:
-1. „Möchten Sie, dass ich die Pflichten für dieses System durcharbeite? Ich mache das im
+1. "Möchten Sie, dass ich die Pflichten für dieses System durcharbeite? Ich mache das im
    Gespräch – keine Tabelle."
-2. „Möchten Sie `/ki-governance:ki-folgenabschaetzung` starten, um eine vollständige
+2. "Möchten Sie `/ki-governance:ki-folgenabschaetzung` starten, um eine vollständige
    KI-Folgenabschätzung zu erstellen?"
-3. „Möchten Sie ein nächstes Prüfdatum setzen? Ich füge es dem Inventar hinzu."
+3. "Möchten Sie ein nächstes Prüfdatum setzen? Ich füge es dem Inventar hinzu."
 
 ## Datensatzformat
 
@@ -196,12 +197,12 @@ systeme:
     status: in_produktion          # geplant | in_entwicklung | in_produktion | ausgemustert
     eu_nexus: true                 # betrieben, angeboten oder betrifft Personen in der EU/EWR
     rolle: betreiber               # anbieter | betreiber | einführer | händler | bevollmächtigter | produkthersteller
-    rollenbasis: "Wir lizenzieren von AnbieterX und betreiben intern [gegen aktuellen KI-VO-Text prüfen]"
+    rollenbasis: "Wir lizenzieren von AnbieterX und betreiben intern; Rollenbasis im Quellenlog auf Art. 3 Nr. 4 KI-VO vermerkt"
     klasse: hochrisiko             # verboten | hochrisiko | begrenzt | minimal | allzweck | allzweck_systemisch
-    klassenbasis: "Anhang III Nr. 4 lit. a – Beschäftigung, Einstellungsauswahl [gegen aktuellen KI-VO-Text prüfen]"
+    klassenbasis: "Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO – Beschäftigung, Einstellungsauswahl"
     pflichten_bewertet: false
-    pflichten_hinweis: "Zu prüfen als Betreiber eines hochriskanten Systems: menschliche Aufsicht (Art. 14 KI-VO), Eingabedatenqualität, Überwachung, Aufzeichnung, Unterrichtung von Arbeitnehmern, FRIA wenn öffentliche Stelle/Dienst (Art. 27 KI-VO) [gegen aktuellen KI-VO-Text prüfen]"
-    art50_transparenz: "Offenlegungspflicht prüfen (Art. 50 KI-VO) [prüfen]"
+    pflichten_hinweis: "Als Betreiber eines Hochrisiko-Systems Art. 26 KI-VO prüfen; Anbieterunterlagen zu Art. 14 KI-VO, Eingabedatenqualität, Überwachung, Aufzeichnung, Unterrichtung von Arbeitnehmern und ggf. FRIA nach Art. 27 KI-VO anfordern."
+    art50_transparenz: "Offenlegungspflicht nach Art. 50 KI-VO gesondert prüfen und dokumentieren"
     naechste_pruefung: "2026-08-01"
     pruef_ausloeser: "bei wesentlicher Änderung oder jährlich"
     erstellt: "2026-05-18"
@@ -238,14 +239,13 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 > **Schritt 1: Rolle**
 > Sie lizenzieren das System von VendorX und setzen es intern für HR ein. Sie bestimmen den
 > Verwendungszweck und tragen die operative Verantwortung → **Betreiber** nach Art. 3 Nr. 4
-> KI-VO `[gegen aktuellen KI-VO-Text prüfen]`.
-> Rollenbasis: „Lizenziertes System von VendorX, interner Betrieb durch HR-Team."
+> KI-VO.
+> Rollenbasis: "Lizenziertes System von VendorX, interner Betrieb durch HR-Team."
 >
 > **Schritt 2: Risikoklasse**
 > Kein Treffer in Art. 5 (kein Verbot erkennbar).
 > Anhang III Nr. 4 lit. a: KI-Systeme für Einstellung, Auswahl, Beförderung → **hochrisiko**
-> `[gegen aktuellen KI-VO-Text prüfen]`.
-> Klassenbasis: „Anhang III Nr. 4 lit. a KI-VO – Einstellungsauswahl."
+> Klassenbasis: "Anhang III Nr. 4 lit. a KI-VO – Einstellungsauswahl."
 >
 > **Empfehlungen:**
 > 1. Pflichten als Betreiber eines hochriskanten Systems durcharbeiten? (Art. 26, 14 KI-VO)
@@ -256,8 +256,8 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 
 - **Stille Klassifizierung.** Klassifizierungsdurchlauf muss sichtbar sein; kein Auto-Klassifizieren
   aus einer Systembeschreibung.
-- **`[prüfen]`-Markierungen entfernen.** Diese sind kein Hedge, sondern der Mechanismus.
-  Nicht in Ausgaben entfernen.
+- **Quellenbasis unterschlagen.** Artikel, Anhangspunkt und Prüfdatum gehören in die Ausgabe;
+  keine bloßen Bauchklassifikationen ohne Normanker.
 - **Wesentliche Änderung ignorieren.** Wenn ein System über die Konfiguration hinaus geändert
   wird, `/ki-inventar classify` erneut ausführen – Änderungen können die Rolle verschieben.
 - **Pflichten aus Tabelle ableiten.** Bei Anfragen die Analyse im Gespräch durchführen und
@@ -267,10 +267,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
   erwähnen. `[Modellwissen – prüfen]`
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Scoring-System als Hochrisiko-KI nach Anhang III KI-VO — Inventar muss Risikoklasse je System korrekt erfassen.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — erfordert vollstaendige Inventarisierung aller eingesetzten algorithmischen Systeme.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Systemen setzt Organisationspflicht voraus — Inventar als Basis der Haftungsdokumentation.
-- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Dokumentation algorithmischer Verwaltungsentscheidungen — Inventarisierungspflicht fuer oeffentliche Stellen aus Transparenzgebot.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation (Nr. 1-8)
@@ -279,10 +276,9 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - Art. 26 KI-VO — Betreiberpflichten (menschliche Aufsicht, Protokollierung)
 - Art. 99 KI-VO — Bussgeld bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 3 ff.: Hochrisiko-Klassifikation im KI-Inventar.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 35 Rn. 5: DSFA-Ausloesung bei Hochrisiko-Systemen im Inventar.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Ist das Inventar bereits vorhanden oder wird es neu angelegt?
 2. Welche Systeme sind bereits produktiv — und wurden diese nach KI-VO klassifiziert?

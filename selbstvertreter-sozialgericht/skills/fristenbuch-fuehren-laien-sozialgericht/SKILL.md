@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-fuehren-laien-sozialgericht
-description: "Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden fuer Buerger ohne Anwalt."
+description: "Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt."
 ---
 
 # Fristen sicher fuehren — fuer Buerger

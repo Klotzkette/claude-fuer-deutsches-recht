@@ -1,6 +1,6 @@
 ---
 name: zv-eu-kontenpfaendung-655-2014
-description: "Glaeubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Pruefraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbeduerfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten ausser Daenemark anschliessender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter."
+description: "Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter."
 ---
 
 # Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014)
@@ -15,10 +15,7 @@ description: "Glaeubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 07.11.2019 - C-555/18, NJW 2020, 305 — EuKtPVO Art. 4 Nr. 10: vollstreckbare öffentliche Urkunde fällt in den Anwendungsbereich; Auslegung autonom nach EU-Recht.
-- BGH, Beschl. v. 14.01.2021 - IX ZB 26/20, NJW 2021, 933 — Zuständigkeit § 946 ZPO; für EuKtPVO-Antrag zuständig ist entweder das Gericht der Hauptsache oder das Vollstreckungsgericht.
-- OLG Frankfurt, Beschl. v. 30.03.2021 - 26 W 5/21 — Antrag und Glaubhaftmachung nach Art. 5 ff. EuKtPVO; Sicherungsbedürfnis muss konkret dargelegt werden, bloße Vermutung genügt nicht.
-- EuGH, Urt. v. 19.09.2019 - C-98/19, NJW 2019, 3441 — EuGVVO Brüssel Ia: Vollstreckung ausländischer Titel in der EU; Verfahren ist vereinfacht, aber nationale Vollstreckungsvorschriften gelten weiterhin.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,12 +27,9 @@ description: "Glaeubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und
 - Art. 14 EuKtPVO — Kontensuche durch Auskunftsbehörde
 - Art. 33, 34 EuKtPVO — Rechtsbehelfe des Schuldners
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo-ZPO/Wöstmann, 6. Aufl. 2022, § 946 Rn. 1-20 (EuKtPVO Überblick)
-- Zöller/Geimer, ZPO, 35. Aufl. 2024, Vor § 946 Rn. 1-30 (Europäische Kontenpfändung)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 916 Rn. 1-20 (Arrest zum Vergleich)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in einem anderen EU-Mitgliedstaat (außer Dänemark). Die EuKtPVO schließt eine Lücke zwischen der EuGVVO (Vollstreckungsanerkennung) und dem Bedürfnis nach **schneller, EU-weiter Sicherung** vor einem Hauptsacheurteil — vergleichbar mit der nationalen PfÜB-Sicherung (§ 829 ZPO), aber **EU-weit** wirkend.
@@ -147,10 +141,9 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 
 ## Leitentscheidungen
 
-- EuGH, Urt. v. 7.11.2019 — **C-555/18** K.H.K. ./. B.A.C., E.E.K. (EuKtPVO; Auslegung Art. 4 Nr. 10, vollstreckbare öffentliche Urkunde i.S.d. Verordnung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schlussanträge GA Szpunar v. 29.7.2019 in C-555/18
-- BGH, Beschl. v. 14.1.2021 — **IX ZB 26/20** (Zuständigkeit § 946 ZPO; Vollstreckungsgericht)
-- OLG Frankfurt, Beschl. v. 30.3.2021 — 26 W 5/21 (Antrag und Glaubhaftmachung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Praxis 2026
 

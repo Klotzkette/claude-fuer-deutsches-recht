@@ -1,6 +1,6 @@
 ---
 name: rueckfragen-mandant
-description: "Generiert Rueckfragen an den Mandanten wenn das vorgelegte Material fuer eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Loesungsbeitrag der Erfindung gegenueber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veroeffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rueckfragen als Brief oder als Frageliste die in eine Mandantenrueckfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation."
+description: "Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Lösungsbeitrag der Erfindung gegenüber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veröffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rückfragen als Brief oder als Frageliste die in eine Mandantenrückfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation."
 ---
 
 # rückfragen-mandant
@@ -25,7 +25,7 @@ Jede Rückfrage muss diese Punkte abdecken:
 
 > Was ist Ihrer Einschätzung nach der **wesentliche Lösungsbeitrag** Ihrer Erfindung gegenüber dem Ihnen bekannten Stand der Technik?
 
-Damit erschließt sich der Recherche-Fokus. Wenn der Mandant „alles ist neu" sagt: nachhaken — was ist das **eine** zentrale Merkmal, ohne das die Erfindung nicht funktioniert.
+Damit erschließt sich der Recherche-Fokus. Wenn der Mandant "alles ist neu" sagt: nachhaken — was ist das **eine** zentrale Merkmal, ohne das die Erfindung nicht funktioniert.
 
 ### 2. Anspruchsentwurf
 
@@ -35,7 +35,7 @@ Damit erschließt sich der Recherche-Fokus. Wenn der Mandant „alles ist neu" s
 
 > Gibt es **eigene frühere Veröffentlichungen, Anmeldungen, Vorträge, Messeauftritte, Datenblätter, Produktbroschüren** zu dieser Erfindung oder zu eng verwandten Lösungen? Wenn ja: Datum, Ort, Inhalt.
 
-Hintergrund: § 3 PatG kennt keine „eigene" Ausnahme. Eigene frühere Veröffentlichungen sind voll neuheitsschädlich. Sechs-Monats-Frist nach § 3 Abs. 5 PatG nur bei offensichtlichem Missbrauch oder amtlich anerkannter Ausstellung — eng auszulegen.
+Hintergrund: § 3 PatG kennt keine "eigene" Ausnahme. Eigene frühere Veröffentlichungen sind voll neuheitsschädlich. Sechs-Monats-Frist nach § 3 Abs. 5 PatG nur bei offensichtlichem Missbrauch oder amtlich anerkannter Ausstellung — eng auszulegen.
 
 ### 4. Zielmarkt / Territorien
 
@@ -77,7 +77,7 @@ Stichpunkte mit jeweils einer Frage und Platz für die Antwort des Mandanten.
 
 ### Variante B: Brief an den Mandanten
 
-Brief mit Anrede, kurzer Einleitung („wir bereiten die Recherche vor und benötigen folgende Klarstellungen"), Frageblock, Rückantwort-Bitte mit Frist, Schlussformel.
+Brief mit Anrede, kurzer Einleitung ("wir bereiten die Recherche vor und benötigen folgende Klarstellungen"), Frageblock, Rückantwort-Bitte mit Frist, Schlussformel.
 
 Vorlage:
 
@@ -133,8 +133,8 @@ Bevor die Rueckfrageliste erstellt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.09.2013 — X ZR 140/09 (Patentanwalts-Belehrungspflicht):** Ein Patentanwalt ist verpflichtet, den Mandanten vor und waehrend des Anmeldeverfahrens auf moegliche neuheitsschaedliche Vorveröffentlichungen hinzuweisen und alle relevanten Informationen zur Vorveroeffentlichungs-Frage zu erfragen; eine unvollstaendige Mandanten-Befragung kann Haftungsansprueche begruenden.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BPatG, Beschl. v. 29.11.2016 — 20 W (pat) 33/14 (Mandatsbegruendung):** Die Beauftragung des Patentanwalts kann konkludent erfolgen; bereits die Einreichung einer Erfindungsmeldung und Aufforderung zur Bewertung stellt ein Angebots-Annahme-Verhaeltnis begruendet, das den Patentanwalt zur sorgfaeltigen Bearbeitung verpflichtet.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 21.06.2007 — IX ZR 39/04 (Kommunikationspflicht Anwalt):** Der Anwalt ist verpflichtet, den Mandanten umgehend ueber das Ergebnis seiner Pruefung und ueber etwaige Risiken zu informieren; eine unzureichende oder verspaetete Rueckfrage kann das Mandat gefaehrden und Schadensersatzansprueche ausloesen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

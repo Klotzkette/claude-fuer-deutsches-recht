@@ -1,23 +1,17 @@
 ---
 name: anw-mandat-triage-steuerrecht
-description: "Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenpruefung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration."
+description: "Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration."
 ---
 
 # Mandat-Triage Steuerrecht
 
 ## Aktuelle Rechtsprechung (Orientierung)
 
-- BFH, Urt. v. 04.07.2019 - III R 31/17, BStBl II 2020, 71 Rn. 14 — Im Steuerrecht trägt grundsätzlich der Steuerpflichtige die Feststellungslast für steuermindernde Tatsachen; das FA hingegen für steuererhebliche Merkmale.
-- BFH, Urt. v. 13.03.2018 - IX R 22/17, BStBl II 2018, 489 Rn. 11 — Die Einspruchsfrist des § 355 Abs. 1 AO ist eine Ausschlussfrist; bei Fristversäumnis kommt Wiedereinsetzung nach § 110 AO in Betracht, wenn das Versehen nicht von der Partei selbst zu vertreten ist.
-- BFH, Beschl. v. 25.04.2013 - II B 30/12, BFH/NV 2013, 1132 Rn. 7 — Das Sofort-Handeln bei Steuerfahndungsmaßnahmen (Hausdurchsuchung) ist entscheidend: Veränderungen am Aktenmaterial nach Beginn der Durchsuchung können die Strafverfolgung verschlimmern.
-- BFH, Urt. v. 09.05.2017 - VIII R 51/14, BStBl II 2017, 1069 Rn. 16 — Vollständigkeit der Selbstanzeige (§ 371 AO) ist Wirksamkeitsvoraussetzung; sie muss alle unverjährten Steuerverkürzungen umfassen, nicht nur die entdeckten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Lang, Steuerrecht (Übersichtswerk, aktuell) — Einstieg Materielles Steuerrecht
-- Tipke/Kruse, AO/FGO, Vorb. § 347 Rn. 1-20 (Einspruchsverfahren, Verfahrensüberblick)
-- Klein, AO, § 110 Rn. 1-25 (Wiedereinsetzung in den vorigen Stand)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und sehr unterschiedlich (ESt-Bescheid bis Steuerstrafverfahren). Triage stellt die richtige Spur sicher — ergänzend zum Plugin-Konfigurations-Skill `anw-kaltstart-interview`.
@@ -171,4 +165,4 @@ Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und se
 - EStG KStG GewStG UStG ErbStG GrEStG
 - BFH Std.Spruch
 - Tipke/Lang Steuerrecht
-- Tipke/Kruse AO/FGO
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

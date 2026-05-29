@@ -1,6 +1,6 @@
 ---
 name: jveg-fahrtkosten
-description: "Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, oeffentliche Verkehrsmittel, Flug. Normen: § 5 JVEG. Pruefraster: Wegstrecke, Verkehrsmittelwahl, Parkgebuehren, Taxikosten. Output: Fahrtkosten-Berechnung JVEG. Abgrenzung: nicht Uebernachtungskosten."
+description: "Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, öffentliche Verkehrsmittel, Flug. Normen: § 5 JVEG. Prüfraster: Wegstrecke, Verkehrsmittelwahl, Parkgebühren, Taxikosten. Output: Fahrtkosten-Berechnung JVEG. Abgrenzung: nicht Übernachtungskosten."
 ---
 
 # JVEG-Fahrtkosten
@@ -29,16 +29,14 @@ Prüfe geltend gemachte Fahrtkosten auf Normkonformität nach §§ 5–7 JVEG: V
 - § 23 JVEG (Dreimonatsfrist)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Fahrtkosten sind nur in Höhe des notwendigen Aufwands erstattungsfähig; Umwege ohne sachlichen Grund werden gekürzt.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG gilt auch für Fahrtkostenerstattungsansprüche; spätere Nachforderung ist ausgeschlossen.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Fahrtkosten sind auf das wirtschaftlichste Verkehrsmittel (in der Regel Bahn 2. Klasse) begrenzt; Mehrkosten durch Kfz-Nutzung nur bei nachgewiesener Notwendigkeit.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Parkkosten sind als Nebenkosten des Fahrtkostenersatzes nur mit Beleg erstattungsfähig.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 5–7 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 5–7 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 5 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Fahrtkosten-Position in Rechnung oder Kostenfestsetzungsantrag.
 

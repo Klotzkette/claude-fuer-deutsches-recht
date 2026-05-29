@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-stoerfall-anlagen
-description: "Anlagenbetreiber prueft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Pruefraster Stoerfallrelevanz-Pruefung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bussgeld-sanktionen (Bussgelder)."
+description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bußgeld-sanktionen (Bußgelder)."
 ---
 
 # Stoerfall, Anlagenbetrieb und Betreiberpflichten
@@ -30,17 +30,11 @@ description: "Anlagenbetreiber prueft Stoerfallrelevanz betreibt Seveso-III-Anla
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 20.08.2012 — 4 C 1.11, BVerwGE 144, 44 — § 50 BImSchG Trennungsgebot; Bauleitplanung muss bei Betrieb einer Seveso-Anlage Sicherheitsabstaende gemaess KAS-18-Leitfaden einhalten; kein Ermessen.
-- EuGH, Urt. v. 15.09.2011 — C-53/10 (Fuss/Muldner) — Art. 12 Seveso-II-RL (jetzt Art. 13 Seveso-III); strenge EU-rechtliche Abstandspflichten; nationale Gerichte muessen EU-konform auslegen.
-- OVG Muenster, Urt. v. 03.09.2020 — 7 D 49/17.NE — Bebauungsplan in Stoerfall-Naehe; Abstandsuntersuchung KAS-18 unzureichend; Bebauungsplan unwirksam wegen Verstoss § 50 BImSchG.
-- BVerwG, Urt. v. 11.01.2001 — 4 A 13.99, NVwZ 2001, 1154 — Sicherheitsabstand individueller Pflicht; Behoerde muss bei Genehmigung Stoerfall-Naehe konkret bewerten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Jarass BImSchG §§ 7, 17 Rn. 1-60 (Anforderungen und Anordnungen)
-- Kloepfer Umweltrecht § 14 Rn. 200-250 (Stoerfall-Praeventionsrecht)
-- Landmann/Rohmer Umweltrecht 12. BImSchV §§ 16-20 (Sicherheitsbericht, Stoerfall-Anzeige)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 

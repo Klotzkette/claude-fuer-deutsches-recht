@@ -1,6 +1,6 @@
 ---
 name: harmonisierung-und-migration-rechtssicher
-description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Pruefraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse."
+description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse."
 ---
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
@@ -12,27 +12,23 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 
 ## Rechtsgrundlagen
 
-- BAG 9.12.2014 — 3 AZR 540/16 (richtig: BAG 21.3.2017 — 3 AZR 540/15 — Versorgungswerkschließung; Einfrieren Future Service; Drei-Stufen; Rechtfertigung)
-- BAG 15.5.2012 — 3 AZR 11/10 (Harmonisierung bei Betriebsübergang; Gleichbehandlung)
-- BAG 15.9.2009 — 3 AZR 17/09 (Vereinheitlichung Versorgungsordnungen durch Gesamtbetriebsvereinbarung)
-- BAG 17.11.1992 — 3 AZR 76/92 (Übergangsregelung bei Systemwechsel — Wahlrecht Arbeitnehmer)
-- BAG 10.11.2015 — 3 AZR 576/14 (Ablösung BV — Drei-Stufen gilt)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 1b, 2 BetrAVG (Unverfallbarkeit, m/n-tel-Berechnung — Grundlage für Besitzstand)
 - § 16 BetrAVG (Anpassungspflicht — bleibt auch nach Systemwechsel bestehen)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung; erzwingbare Mitbestimmung)
 - § 50 BetrVG (Zuständigkeit Gesamtbetriebsrat bei konzernweiten Regelungen)
 - § 58 BetrVG (Konzernbetriebsrat — nur für konzerneinheitliche Angelegenheiten)
-- BAG GS 1/82, BAG 3 AZR 392/06 (Drei-Stufen-Theorie als Leitlinie)
-- BAG 19.11.2019 — 3 AZR 332/18 (Harmonisierung post-M&A: Angleichung unterschiedlicher Versorgungsordnungen nach Betriebsübergang § 613a BGB; gleichmäßige Behandlung nach einheitlichem Versorgungskonzept frühestens nach einjähriger Übergangszeit zulässig)
-- BAG 18.09.2018 — 3 AZR 162/17 (Gesamtbetriebsvereinbarung zur Vereinheitlichung: Gesamtbetriebsrat nur zuständig wenn konzernweite Regelung aus zwingenden sachlichen Gründen erforderlich; andernfalls örtliche Betriebsräte)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 1 Rn. 200 ff. (Versorgungsordnungswechsel, Übergangsregelungen)
-- Fitting, BetrVG, 32. Aufl. 2024, §§ 50, 58 Rn. 1 ff. (Zuständigkeit GBR/KBR bei konzernweiten BAV-Regelungen)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Ausgangslage — Typische Harmonisierungsszenarien
@@ -84,11 +80,11 @@ Bei Systemwechsel wird stets ein **Übergangs-Versorgungswerk** eingerichtet, da
 3. Future Service (Stufe 3) in das neue System überführt
 
 **Wahlmodell (optional):**
-Bei wesentlichen Nachteilen durch Systemwechsel kann ein Wahlrecht geboten sein (BAG 17.11.1992 — 3 AZR 76/92): Arbeitnehmer darf zwischen Alt- und Neu-System wählen. Wahlrecht wird befristet (sechs bis zwölf Monate) angeboten.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Schritt 4: BAG 3 AZR 540/16 — Versorgungswerkschließung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Die Entscheidung BAG 21.3.2017 — 3 AZR 540/15 (Versorgungswerkschließung) bestätigt:
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schließung des Versorgungswerks für Future Service (Einfrierung) ist bei sachlichen Gründen zulässig (Stufe 3)
 - Erdiente Anwartschaften (Stufen 1 und 2) bleiben unantastbar
 - Besitzstandsschutz muss explizit im Schließungsbeschluss und in der kommunizierten neuen Regelung festgehalten werden
@@ -151,7 +147,7 @@ Ihre Rechte beim Systemwechsel.
    zum [Stichtag] (m/n-tel):   EUR [Betrag] p.m.
    
    Ihre erdiente Anwartschaft ist durch die Harmonisierung vollständig geschützt.
-   Sie wird nicht verändert (Besitzstandsschutz gem. BAG GS 1/82 und BAG 3 AZR 392/06).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. DAS NEUE VERSORGUNGSSYSTEM
 

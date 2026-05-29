@@ -1,6 +1,6 @@
 ---
 name: dsb-bestellungspflicht-pruefung
-description: "Bestellungspflicht fuer Datenschutzbeauftragten pruefen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Pruefraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungspruefmemo Empfehlung. Abgrenzung: nicht fuer Aufgaben des DSB (Art. 39 DSGVO)."
+description: "Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Prüfraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungsprüfmemo Empfehlung. Abgrenzung: nicht für Aufgaben des DSB (Art. 39 DSGVO)."
 ---
 
 # DSB-Bestellungspflicht und -Anforderungen
@@ -143,8 +143,7 @@ Häufige Lücke in Unternehmen: Pflicht zur DSB-Bestellung wird nicht erkannt. D
 
 #### Geschäftsführer / Vorstand
 
-- **EuGH C-453/21** X-FAB Dresden (9.2.2023): Eine Person darf nicht gleichzeitig DSB sein und Zwecke/Mittel der Verarbeitung festlegen — Geschäftsführer-Funktion und DSB-Funktion strukturell **unvereinbar**
-- BAG 9 AZR 461/19 (5.12.2019) zur internen Stellung des DSB und Kündigungsschutz
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - ErwGr 97 DSGVO zur Unabhängigkeits-Anforderung
 - Strikte Trennung erforderlich
 
@@ -309,18 +308,14 @@ e) **Anlaufstelle Aufsichtsbehörde** für Fragen Beratung
 
 - DSGVO Art. 37 38 39 83; ErwGr 97 DSGVO
 - BDSG §§ 5 6 38
-- EuGH C-453/21 X-FAB Dresden (9.2.2023)
-- BAG 9 AZR 461/19 (5.12.2019)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BfDI Praxis-Empfehlungen
 - DSK Kurzpapier
 - GDD und BvD Standards
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 09.03.2023 — C-453/21 (X-FAB Dresden/Commissaire), NJW 2023, 1549 Rn. 30–55: DSB darf keine leitende Position innehaben, die ihn zur Überwachung seiner eigenen Datenschutztätigkeit veranlasst; Interessenkonflikt führt zur Pflicht des Verantwortlichen, die Bestellung aufzuheben oder umzustrukturieren. Checkliste: GF/CTO/COO als DSB ist strukturell unvereinbar.
-- EuGH, Urt. v. 15.06.2021 — C-645/19 (Facebook Ireland/Belgian DPA), NJW 2021, 2463 Rn. 55: Aufsichtsbehördliche Zuständigkeit für DSB-Kontrolle richtet sich nach Art. 56 DSGVO; federführende Behörde kontrolliert; nationale Behörden dürfen nur bei lokalem Verstoß eigenständig tätig werden.
-- BVerwG, Urt. v. 25.06.2020 — 2 C 12.19, BVerwGE 168, 315 Rn. 42: Zur Bestellungspflicht im öffentlichen Dienst; § 38 BDSG gilt für private Stellen; öffentliche Stellen unterliegen Art. 37 Abs. 1 lit. a DSGVO unabhängig von Schwellenwerten.
-- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: Zur Qualifikationsanforderung des DSB (Art. 37 Abs. 5 DSGVO); fehlende Sachkunde des DSB kann Haftung des Verantwortlichen begründen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

@@ -1,0 +1,407 @@
+[
+  {
+    "court": "BGH",
+    "az": "I ZR 176/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 176/19 nicht direkt verifiziert; Deutsche Digitale Bibliothek II/Framing plausibel (vgl. heise.de Bericht)",
+    "claimed_topic": "Deutsche Digitale Bibliothek II — Framing Urheberrecht",
+    "source_url": "https://www.heise.de/news/BGH-Deutsche-Digitale-Bibliothek-verletzt-Urheberrecht-durch-Framing-6189408.html",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 207/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 207/12 nicht direkt verifiziert",
+    "claimed_topic": "Zeichenähnlichkeit (klanglich, schriftbildlich, begrifflich) — Markenrecht",
+    "source_url": "",
+    "skills": "markenrecht-fashion-luxus"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 210/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 210/16 nicht direkt verifiziert; Verfügungsanspruch einstweilige Verfügung plausibel",
+    "claimed_topic": "Verfügungsanspruch; einstweilige Verfügung GRUR 2018, 431",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 211/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 211/22 nicht direkt verifiziert; AGB-Kontrolle B2B-Cloud plausibel",
+    "claimed_topic": "AGB-Kontrolle B2B-Cloudverträge NJW 2023, 3083",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 214/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 214/18 nicht mit Datum 08.07.2021 auffindbar; NWB zeigt I ZR 214/18 vom 20.02.2020",
+    "claimed_topic": "Umweltengel — Werbung mit Umwelteigenschaften UWG",
+    "source_url": "https://datenbank.nwb.de/Dokument/824632/",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 214/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 214/19 nicht direkt verifiziert",
+    "claimed_topic": "Qualifiziertes Verschulden § 435 HGB, Art. 25 MÜ",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 217/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 217/14 nicht direkt verifiziert; Bestseller-Klausel § 32a UrhG plausibel",
+    "claimed_topic": "Bestseller-Klausel § 32a UrhG Anpassungsanspruch GRUR 2016, 596",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz/skills/ip-klausel-pruefung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 22/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 22/14 nicht direkt verifiziert",
+    "claimed_topic": "Reduktion Streitwert bei einstweiliger Verfügung",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 23/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 23/19 nicht direkt verifiziert; Kündigung per E-Mail Schriftform plausibel",
+    "claimed_topic": "Kündigung per E-Mail Schriftformerfordernis NJW 2020, 762",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 232/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 232/16 nicht direkt verifiziert; Lizenzanalogie GRUR 2018, 296 plausibel",
+    "claimed_topic": "Angemessenheit Lizenzvergütung § 32 UrhG",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz/skills/ip-klausel-pruefung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 245/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 245/19 nicht direkt verifiziert",
+    "claimed_topic": "DSGVO gilt seit 25.05.2018; vertragliche Sonderbeziehung",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 30/05",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 30/05 nicht direkt verifiziert; Lieferfrist-Auslegung plausibel",
+    "claimed_topic": "Auslegung der angemessenen Lieferfrist",
+    "source_url": "",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 34/04",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 34/04 nicht direkt verifiziert",
+    "claimed_topic": "Verwendung eines geschützten Markennamens in Werbung",
+    "source_url": "",
+    "skills": "markenrecht-fashion-luxus"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 61/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 61/13 nicht direkt verifiziert; Klangvergleich zweier Wortmarken plausibel",
+    "claimed_topic": "Mescher vs. mexxer — Klangvergleich bei Wortmarken",
+    "source_url": "",
+    "skills": "markenrecht-fashion-luxus"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 64/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 64/13 existiert (17.07.2013), kein Thema aus Dejure ermittelt",
+    "claimed_topic": "Individualisierungspflicht; Klageinhalt",
+    "source_url": "https://dejure.org/2013,37377",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 79/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 79/11 war Teil von Rapidshare-Entscheidung (I ZR 80/12 betraf auch I ZR 79/12); ohne exaktes Datum nicht verif.",
+    "claimed_topic": "Markenrechtliche Verwechslungsgefahr B-Buchstaben",
+    "source_url": "",
+    "skills": "markenrecht-fashion-luxus"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 87/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 87/20 existiert (dejure Text-Treffer), kein Thema ermittelt",
+    "claimed_topic": "Streitwert-Vermutung des Unterlassungs-Anspruchs",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=I+ZR+87%2F20",
+    "skills": "gewerblicher-rechtsschutz"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZB 18/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZB 18/19 nicht direkt verifiziert; Beirat Beschlussfähigkeit plausibel",
+    "claimed_topic": "Beschlussfähigkeit des Beirats NZG 2020, 463",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZB 22/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZB 22/19 nicht direkt verifiziert; § 179a AktG HV-Beschluss plausibel",
+    "claimed_topic": "§ 179a AktG; HV-Beschlusserfordernis bei wesentlicher Vermögensübertragung NZG 2020, 1067",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 105/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 105/21 nicht direkt verifiziert; Treuhandvermögen Insolvenzfestigkeit plausibel",
+    "claimed_topic": "Treuhandvermögen Insolvenzfestigkeit: dingliche Übereignung bei Sicherheitsleistung",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 12/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 12/20 nicht direkt verifiziert",
+    "claimed_topic": "Patronatserklärung als unwiderrufliche Erklärung",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 13/06",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 13/06 nicht direkt verifiziert",
+    "claimed_topic": "Sensitivitätsanalyse: positive Prognose muss belastbar sein",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 152/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 152/17 existiert (NWB 18.09.2018), kein Thema direkt ermittelt",
+    "claimed_topic": "Aktualitätspflicht bei Rechtsmittelentscheidungen NJW-RR 2018, 1266",
+    "source_url": "https://datenbank.nwb.de/Dokument/759728/",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 165/95",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 165/95 nicht direkt verifiziert; nur als Verweis in Norm-Liste erwähnt",
+    "claimed_topic": "Vereinsrecht; Schiedsklausel",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 167/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 167/18 nicht direkt verifiziert",
+    "claimed_topic": "Zinsbeginn 'seit Rechtshängigkeit' ist § 291 BGB NJW 2020, 234",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 168/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 168/19 nicht direkt verifiziert",
+    "claimed_topic": "Wissenschaftswerk (Staudinger) beeinflusst Auslegung NJW 2020, 2809",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 191/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 191/19 nicht direkt verifiziert",
+    "claimed_topic": "Gründungs-Mandat: Intake-Pflichten NZG 2021, 1389",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 196/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 196/10 nicht direkt verifiziert",
+    "claimed_topic": "Berufungsfrist ist Notfrist; Versäumung NJW 2012, 590",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 220/95",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 220/95 nicht direkt verifiziert",
+    "claimed_topic": "Patronatserklärung im bilanziellen Status: harte externe Patronatserklärung",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 233/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 233/16 nicht direkt verifiziert; XI ZR 233/16 (Bankrecht) existiert",
+    "claimed_topic": "Gesellschafterbeschluss bei außerordentlicher Kündigung NJW 2017, 3579",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 234/91",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 234/91 nicht direkt verifiziert",
+    "claimed_topic": "Haftung aus Comfortletter: je nach Formulierung",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 239/90",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 239/90 vom 14.10.1991 existiert, kein Thema direkt ermittelt",
+    "claimed_topic": "Verstoß des GF gegen Zustimmungsvorbehalt NJW 1992, 499",
+    "source_url": "https://dejure.org/1991,1084",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 25/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 25/19 nicht direkt verifiziert",
+    "claimed_topic": "Liquidation Preference in einer GmbH NZG 2021, 26",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 256/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "II ZR 256/10 nicht direkt verifiziert",
+    "claimed_topic": "GmbH-Konzernhaftung: Holding haftet für Tochtergesellschaft",
+    "source_url": "",
+    "skills": "unternehmensrecht"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 300/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 300/17 zu Gesellschafterliste / NZG 2019, 581 konnte in Suchergebnissen nicht direkt verifiziert werden.",
+    "claimed_topic": "Anforderungen an Gesellschafterliste; inhaltliche Richtigkeit als Voraussetzung",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 349/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 349/14 als Urteil vom 28.09.2015 zu Vinkulierung/Vorkaufsrecht – dejure verweist auf VIII ZR 349/14 (Energielieferung), nicht II ZR 349/14.",
+    "claimed_topic": "Vertragliche Satzungsänderungen (Vinkulierung, Vorkaufsrecht); NJW 2016, 236",
+    "source_url": "",
+    "skills": "wandeldarlehen-lebenszyklus/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 4/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH, 15.03.2010 – II ZR 4/09 existiert laut dejure. Inhalt (Auslegung von Term Sheets) konnte nicht direkt verifiziert werden.",
+    "claimed_topic": "Auslegung von Term Sheets im GmbH-Bereich",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.03.2010&Aktenzeichen=II+ZR+4%2F09",
+    "skills": "wandeldarlehen-lebenszyklus/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 50/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH, 18.09.2012 – II ZR 50/11 existiert laut dejure. Inhalt (Auslegung schriftlicher Verträge – Wortlaut maßgeblich) konnte nicht im Detail verifiziert werden.",
+    "claimed_topic": "Auslegung schriftlicher Verträge – Wortlaut maßgeblich",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.09.2012&Aktenzeichen=II+ZR+50%2F11",
+    "skills": "wandeldarlehen-lebenszyklus/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 66/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH, 26.06.2012 – II ZR 66/11 / NZG 2012, 1030 konnte nicht inhaltlich verifiziert werden; Aufsichtsrats-Informationspflicht nicht nachgewiesen.",
+    "claimed_topic": "Informationspflicht des Aufsichtsrats: Unklare Zahlengröße; NZG 2012, 1030 Rn. 16",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 79/06",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 79/06 – Erbengemeinschaft Mehrheit – dejure verweist auf X ZR 79/06 (13.10.2009). Inhalt konnte nicht verifiziert werden.",
+    "claimed_topic": "Erbengemeinschaft Mehrheit",
+    "source_url": "",
+    "skills": "wandeldarlehen-lebenszyklus/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 92/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 92/17 zu Gesellschafterliste – dejure verweist auf VIII ZR 92/17 (21.08.2018). Das Urteil II ZR 92/17 (26.06.2018) zur Gesellschafterliste konnte nicht direkt bestätigt werden.",
+    "claimed_topic": "Gesellschafterliste als Nachweis der Mitgliedschaft; NJW 2018, 3243",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "III ZB 55/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH III ZB 55/18 (05.09.2019) zu Parteibezeichnung / NJW 2019, 3142 konnte nicht direkt verifiziert werden.",
+    "claimed_topic": "Zur Parteibezeichnung in der Klageschrift: Falschbezeichnung; NJW 2019, 3142",
+    "source_url": "",
+    "skills": "fachanwalt-it-recht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "III ZR 120/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH, 04.11.2010 – III ZR 120/09, NJW 2011, 852 konnte nicht inhaltlich verifiziert werden (Kennzeichnung als vertraulich).",
+    "claimed_topic": "Ausdrückliche und wiederholte Kennzeichnung eines Dokuments als vertraulich; NJW 2011, 852",
+    "source_url": "",
+    "skills": "fachanwalt-it-recht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "III ZR 122/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH III ZR 122/19 (21.01.2021) zu staatlichen Warnungen vor Produkten – nicht in Suchergebnissen direkt bestätigt.",
+    "claimed_topic": "Staatliche Warnungen vor Produkten sind Realakte, keine Verwaltungsakte; NJW 2021, 1033",
+    "source_url": "",
+    "skills": "fachanwalt-it-recht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "III ZR 127/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH III ZR 127/17 (19.07.2018) zu Zirkelschluss in AGB-Klauseln konnte nicht direkt verifiziert werden.",
+    "claimed_topic": "Zirkelschluss in AGB-Klauseln führt zu Unwirksamkeit nach § 307 BGB; NJW 2018, 3253",
+    "source_url": "",
+    "skills": "fachanwalt-it-recht/SKILL.md"
+  }
+]

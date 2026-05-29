@@ -1,6 +1,6 @@
 ---
 name: output-warnhinweis-und-pruefungsdokument
-description: "Pflicht-Header und Warnblock fuer alle Pruefungsdokumente generieren: kein Rechtsrat, nur mechanische Pruefung. Normen: BRAO § 3. Pruefraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollstaendige Sachverhalte. Output: Standardisierter Warnblock als Dokumentkopf. Abgrenzung: nicht inhaltliche Anspruchspruefung."
+description: "Pflicht-Header und Warnblock für alle Prüfungsdokumente generieren: kein Rechtsrat, nur mechanische Prüfung. Normen: BRAO § 3. Prüfraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollständige Sachverhalte. Output: Standardisierter Warnblock als Dokumentkopf. Abgrenzung: nicht inhaltliche Anspruchsprüfung."
 ---
 
 # Output: Warnhinweis und Prüfungsdokument-Header
@@ -19,20 +19,17 @@ description: "Pflicht-Header und Warnblock fuer alle Pruefungsdokumente generier
 
 ## Rechtsprechung
 
-BGH, Urt. v. 26.06.2008 – IX ZR 87/07, NJW-RR 2008, 1458 — Ein Prüfungsdokument, das als mechanische Prüfung eines vorgetragenen Sachverhalts bezeichnet ist, stellt keine Rechtsberatung im Sinne des § 2 RDG dar, wenn es ausdrücklich auf den Ausschluss verbindlicher rechtlicher Beurteilung hinweist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.09.2013 – III ZR 129/12, NJW 2014, 141 — Hinweise auf die Grenzen einer schematischen Rechtsbehelfsanalyse und die Notwendigkeit anwaltlicher Beratung sind für die Abgrenzung von Rechtsdienstleistung und zulässiger Rechtsinformation maßgeblich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 04.11.2010 – III ZR 120/09, NJW 2011, 852 — Die ausdrückliche und wiederholte Kennzeichnung eines Dokuments als nicht verbindlich und als Ergebnis einer schematischen Prüfung ist ein wichtiger Indikator dafür, dass kein Anwaltsvertrag begründet werden soll.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 01.07.2010 – III ZR 294/09, NJW 2010, 2949 — Prüfungsdokumente, die auf konkrete rechtliche Beratung verzichten und ausdrücklich auf die Notwendigkeit anwaltlicher Einschaltung hinweisen, genügen den Anforderungen an eine sachgerechte Nutzerinformation.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kleine-Cosack, RDG, 4. Aufl. 2023, § 2 Rn. 1–40 (Abgrenzung zulässige Rechtsinfo / unerlaubte Rechtsberatung).
-Henssler/Streck, Handbuch des Anwaltsrechts, 4. Aufl. 2022, Kap. 3 Rn. 50–80 (Haftung für unvollständige Rechtsberatung).
-Weyland, BRAO, 10. Aufl. 2023, § 43a Rn. 1–20 (Verschwiegenheit und Sorgfaltspflichten).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill stellt den Pflicht-Header und den abschließenden Warnblock bereit, der in jedes Prüfungsdokument dieses Plugins aufzunehmen ist.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag
-description: "Glaeubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Forderung und Eroefffnungsgrund. Anwendungsfall Glaeubiger will Insolvenz des Schuldners eroefffnen lassen. Normen § 14 InsO Glaeubiger-Antrag § 17 InsO Zahlungsunfaehigkeit § 19 InsO Ueberschuldung § 21 InsO Sicherungsmassnahmen § 26 InsO Kostenvorschuss. Pruefraster Glaubhaftmachung Forderung Eroefffnungsgrund Rechtsschutzbedurfnis Anhoerung Sicherungsmassnahmen Kosten BGH IX ZB 116/08. Output Vollstaendiges Antragsformular mit Glaubhaftmachungs-Anlage und Kosten-Kalkulation. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
+description: "Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -34,27 +34,20 @@ description: "Glaeubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Fo
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| BGH | IX ZB 116/08 | 13.11.2008 | Zahlungsunfähigkeit § 17 InsO: 10%-Liquiditätslücke indiziert ZU wenn keine kurzfristige Überwindung (3 Wochen) absehbar |
-| BGH | IX ZR 118/04 | 13.01.2005 | Wiederholungsantrag nach Abweisung: nur zulässig wenn neuer Eröffnungsgrund oder neue Tatsachen; kein Missbrauchsschutz |
-| BGH | IX ZR 123/04 | 24.05.2005 | ZU-Indizien: Zahlungsstockung über 3 Wochen + 10%-Lücke; kumulativ erforderlich |
-| BGH | IX ZB 8/04 | 14.12.2004 | Rechtsschutzbedürfnis fehlt bei reiner Druckausübung ohne echte ZU-Indizien; Antrag unzulässig |
-| OLG Frankfurt | 26 W 8/19 | 2019 | Glaubhaftmachung Forderung: Vollstreckungstitel ausreichend; eidesstattliche Versicherung des Gläubigers über offene Forderung |
-| BGH | IX ZB 188/09 | 2010 | Vorläufiger Insolvenzverwalter § 21 InsO: schwacher IV bei Zustimmungsvorbehalt; starker IV bei allg. Verfügungsverbot |
-| AG Hamburg | 67g IN 127/20 | 2020 | Kostenvorschuss § 26 InsO: Gläubiger kann Verfahren durch Vorschuss ermöglichen; Masseverbindlichkeit bei Eröffnung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Antragsberechtigung: jeder Insolvenzgläubiger; Forderung gegen Schuldner | § 14 Abs. 1 InsO | Fehlt Gläubigerstellung → Antrag unzulässig |
 | 2 | Glaubhaftmachung Forderung: Titel, Urkunden, eidesstattliche Versicherung | § 14 Abs. 1, § 294 ZPO | Ohne Glaubhaftmachung → Antrag unzulässig |
 | 3 | Glaubhaftmachung Eröffnungsgrund | §§ 17, 19 InsO | ZU oder Überschuldung (nur jur. Person); drohende ZU nicht ausreichend für Gläubigerantrag |
-| 3a | ZU § 17: 10%-Lücken-Test; Zahlungsstockung >3 Wochen; Indizien sammeln | § 17 InsO, BGH IX ZB 116/08 | Indizienbeweis ausreichend für Glaubhaftmachung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3b | Überschuldung § 19: nur jur. Person; neg. Reinvermögen + fehlende Fortführungsprognose | § 19 InsO | Beide Voraussetzungen kumulativ |
-| 4 | Rechtsschutzbedürfnis: kein Missbrauch, nicht nur Druckausübung | BGH IX ZB 8/04 | Fehlt → Antrag unzulässig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Anhörung der Schuldnerin § 14 Abs. 2 | § 14 Abs. 2 InsO | Pflicht des Gerichts; keine Voraussetzung des Gläubigers |
 | 6 | Sicherungsmaßnahmen § 21 InsO beantragen | § 21 InsO | Sofortschutz: ZV-Einstellung, vorläufiger IV, Zustimmungsvorbehalt |
 | 7 | Massekostenprüfung § 26 InsO | § 26 InsO | Masseunzulänglichkeit → Abweisung; Kostenvorschuss durch Gläubiger möglich |
@@ -107,12 +100,12 @@ Die Forderung ist trotz mehrfacher Mahnung (zuletzt [Datum]) nicht beglichen wor
 
 III. Glaubhaftmachung des Eröffnungsgrundes (§ 17 InsO)
 Die Schuldnerin ist zahlungsunfähig (§ 17 InsO):
-a) Zahlungsstockung seit [Datum] (>3 Wochen; BGH IX ZR 123/04);
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) Rücklastschriften der Schuldnerin vom [Datum], Anlage K4;
 c) Vollstreckungsversuche anderer Gläubiger (Pfändungsprotokolle Anlage K5);
 d) Eigene eidesstattliche Versicherung der Gläubigerin über Zahlungsverweigerung,
    Anlage K6.
-Die Liquiditätslücke übersteigt 10% der fälligen Verbindlichkeiten (BGH IX ZB 116/08).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Bei jur. Person alternativ § 19 InsO:]
 Die Schuldnerin ist überschuldet (§ 19 InsO): Der letzte Jahresabschluss [Jahr] weist ein
@@ -164,7 +157,6 @@ Das Gericht möge den Eröffnungsantrag zurückweisen.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Frage | Beweislast |
@@ -191,9 +183,9 @@ Das Gericht möge den Eröffnungsantrag zurückweisen.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion Gläubiger |
 |---------------|---------------------|--------------------|
-| Keine ZU, nur Zahlungsstockung | § 17 InsO, BGH IX ZR 123/04 | Weitere ZU-Indizien vorlegen; Vollstreckungsversuche Dritter recherchieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Forderung bestritten (Gegenforderung) | § 14 Abs. 1 InsO | Bestreitung muss substanziiert sein; bei Titulierung Gläubigerforderung unbestreitbar |
-| Kein Rechtsschutzbedürfnis (Druckantrag) | BGH IX ZB 8/04 | Darlegung des legitimen Gläubigerinteresses; parallele Forderungen anderer Gläubiger belegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Masselosigkeit § 26 InsO | § 26 InsO | Kostenvorschuss anbieten; Forderung aus Masseverbindlichkeit nach § 55 InsO bei Eröffnung sichergestellt |
 | Überschuldung bestritten (positive Fortführungsprognose) | § 19 InsO | Gegengutachten anfordern; Bankgespräche und Finanzierungszusagen als Belege |
 | Schuldnerin leitet außergerichtliche Sanierung ein | §§ 17 ff. InsO | Keine automatische Rücknahme des Antrags; Gläubiger kann Verfahren fortsetzen; Vergleich verhandeln |
@@ -230,10 +222,6 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 ## Quellen
 
 - InsO §§ 14, 17, 18, 19, 21, 22, 26, 27
-- BGH IX ZB 116/08, Beschl. v. 13.11.2008, NZI 2009, 55
-- BGH IX ZR 118/04, Urt. v. 13.01.2005, NJW-RR 2005, 777
-- BGH IX ZR 123/04, Urt. v. 24.05.2005, BGHZ 163, 134
-- BGH IX ZB 8/04, Beschl. v. 14.12.2004, NZI 2005, 232
-- OLG Frankfurt, Beschl. v. 2019, Az. 26 W 8/19, ZIP 2019, 877
-- Uhlenbruck/Mock, InsO, 15. Aufl. 2019, § 14
-- Kübler/Prütting/Bork, InsO, § 14 Rn. 1 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

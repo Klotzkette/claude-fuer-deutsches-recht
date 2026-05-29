@@ -1,6 +1,6 @@
 ---
 name: einwilligung-hinweis-datenschutz
-description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Pruefraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhaeltnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel fuer Transkriptionsservice. Abgrenzung zu mandatsverhaeltnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung."
+description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung."
 ---
 
 # Einwilligung-Hinweis-Datenschutz
@@ -15,10 +15,7 @@ Dieser Skill formuliert die datenschutzrechtlich erforderliche Einwilligungsklau
 4. Welcher Transkriptionsdienstleister wird eingesetzt — liegt ein AVV nach Art. 28 DSGVO vor?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO muss freiwillig, informiert und unmissverstaendlich erteilt werden; vorformulierte Klauseln in AGB genügen in der Regel nicht.
-- EuGH, Urt. v. 11.11.2020 - C-61/19, NJW 2021, 141 — Widerrufsrecht nach Art. 7 Abs. 3 DSGVO darf keine Nachteile haben; Mandant muss Einwilligung jederzeit ohne Konsequenzen widerrufen koennen.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Informationspflicht nach Art. 13 DSGVO muss klar und verstaendlich erfuellt werden; Datenschutzhinweis mit juristischem Fachjargon ohne Erklaerung genuegt nicht.
-- OLG Koeln, Urt. v. 11.03.2021 - 15 U 137/20, ZD 2021, 391 — Fehlende Datenschutzinformation nach Art. 13 DSGVO begruendet Schadensersatzanspruch nach Art. 82 DSGVO; Kanzlei muss Erstinformation vollstaendig erteilen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage fuer Sprachdaten-Verarbeitung vor Mandatsannahme
@@ -26,10 +23,9 @@ Dieser Skill formuliert die datenschutzrechtlich erforderliche Einwilligungsklau
 - Art. 13 DSGVO — Informationspflicht bei Ersterhebung: vollstaendige Transparenzpflicht
 - Art. 7 Abs. 3 DSGVO — Widerrufsrecht: jederzeit ohne Nachteile
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 6 Rn. 10-40 (Einwilligung: Anforderungen und Wirksamkeit)
-- Sydow/Marsch DSGVO Art. 13 Rn. 1-30 (Informationspflicht: Inhalt und Umfang bei Ersterhebung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtlicher Hintergrund
 
 ### Warum Einwilligung?

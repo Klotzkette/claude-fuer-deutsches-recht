@@ -33,7 +33,7 @@ Telefon 069 / 92 87 36 0
 
 bestellt.
 
-**II.** Verfügungen der Schuldnerin über ihr gegenwärtiges und künftiges Vermögen sind nur mit Zustimmung der vorläufigen Insolvenzverwalterin wirksam (§ 21 Abs. 2 Nr. 2 Alt. 2 InsO — sogenannte „schwache" vorläufige Insolvenzverwaltung mit Zustimmungsvorbehalt).
+**II.** Verfügungen der Schuldnerin über ihr gegenwärtiges und künftiges Vermögen sind nur mit Zustimmung der vorläufigen Insolvenzverwalterin wirksam (§ 21 Abs. 2 Nr. 2 Alt. 2 InsO — sogenannte "schwache" vorläufige Insolvenzverwaltung mit Zustimmungsvorbehalt).
 
 **III.** Maßnahmen der Zwangsvollstreckung einzelner Gläubiger gegen die Schuldnerin werden untersagt, soweit nicht unbewegliche Gegenstände betroffen sind (§ 21 Abs. 2 Nr. 3 InsO).
 
@@ -66,7 +66,7 @@ Der Antrag des Mitgeschäftsführers Florian Weber ist zulässig (§ 13 Abs. 1, 
 
 Der Antrag ist im Wesentlichen begründet. Aus den vorgelegten Unterlagen ergibt sich, dass die Schuldnerin Liquiditätslücken iHv mehr als 90 Prozent gegenüber fälligen Verbindlichkeiten hat. Die Drei-Wochen-Frist gemäß § 15a InsO ist überschritten.
 
-Die Stellungnahme des Mitgeschäftsführers Richter vom 22.05.2024 (zugegangen 14:38 Uhr) wird zur Kenntnis genommen. Sie steht der Anordnung vorläufiger Sicherungsmaßnahmen nicht entgegen, sondern führt das Gericht zur Wahl der „schwachen" vorläufigen Insolvenzverwaltung (mit Zustimmungsvorbehalt statt Verfügungsverbot), um den von Herrn Richter genannten Sanierungs-Verhandlungen Raum zu geben. Die vorläufige Insolvenzverwalterin wird ausdrücklich beauftragt, diese Sanierungsoption zu prüfen.
+Die Stellungnahme des Mitgeschäftsführers Richter vom 22.05.2024 (zugegangen 14:38 Uhr) wird zur Kenntnis genommen. Sie steht der Anordnung vorläufiger Sicherungsmaßnahmen nicht entgegen, sondern führt das Gericht zur Wahl der "schwachen" vorläufigen Insolvenzverwaltung (mit Zustimmungsvorbehalt statt Verfügungsverbot), um den von Herrn Richter genannten Sanierungs-Verhandlungen Raum zu geben. Die vorläufige Insolvenzverwalterin wird ausdrücklich beauftragt, diese Sanierungsoption zu prüfen.
 
 Die Auswahl von RAin Dr. Claudia Bergmann erfolgt nach der Liste des Amtsgerichts Frankfurt am Main. Sie hat schriftlich am 22.05.2024 ihre Bereitschaft zur Übernahme erklärt. Interessenkonflikte sind nicht ersichtlich.
 

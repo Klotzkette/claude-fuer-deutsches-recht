@@ -1,6 +1,6 @@
 ---
 name: zustellung-und-vertreter-art-13-dsa-art-37-dma
-description: "Zustellung gegen Plattform mit Sitz ausserhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Pruefraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zustaendigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
+description: "Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Prüfraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zuständigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
 ---
 
 # Zustellung gegen Auslands-Plattform — Art. 13 DSA und Art. 37 DMA
@@ -34,7 +34,7 @@ description: "Zustellung gegen Plattform mit Sitz ausserhalb der EU und EU-Vertr
 |---|---|
 | Verbraucher klagt Plattform | Art. 17 ff. Brüssel-Ia: Wohnsitz Verbraucher |
 | Gewerblicher Nutzer | Art. 7 Nr. 1: Erfüllungsort (idR Sitz Plattform) |
-| Deliktische Ansprüche (Persönlichkeitsrecht) | Art. 7 Nr. 2: Handlungs- oder Erfolgsort; EuGH eDate/Martinez C-509/09 und C-161/10 |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Plattform außerhalb EU | nationale Auffangregeln (§ 23 ZPO Vermögensgerichtsstand bei Vermögen im Inland) |
 
 ## Zustellungswege
@@ -81,10 +81,7 @@ description: "Zustellung gegen Plattform mit Sitz ausserhalb der EU und EU-Vertr
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.07.2021 — III ZR 179/20, NJW 2021, 3179 Rn. 38: Zur Zustellung gegen US-Plattformen; bei fehlender EU-Niederlassung ist internationale Zustellung nach HZÜ oder EuZVO 2020/1784 erforderlich; Art. 13 DSA schafft EU-Vertreter als einfacheren Weg.
-- BGH, Beschl. v. 19.03.2020 — I ZB 99/19, NJW 2020, 1450 Rn. 22: Zur Zustellung im Ausland nach §§ 183, 184 ZPO; Möglichkeit öffentlicher Zustellung wenn andere Wege scheitern oder verweigert werden.
-- EuGH, Urt. v. 07.07.2022 — C-168/21 (KP), NJW 2022, 2815 Rn. 28: Zur Anwendung der EuZVO 2020/1784; Zustellung muss so gestaltet sein, dass der Empfänger tatsächlich Kenntnis erlangt; formale Zustellung ohne tatsächliche Kenntnisnahme kann unzureichend sein.
-- OLG Köln, Urt. v. 14.01.2020 — 19 U 93/19, NJW-RR 2020, 678 Rn. 22: Zur Zustellung bei verweigerter Annahme; öffentliche Zustellung nach § 185 ZPO als Ultima Ratio.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -96,11 +93,9 @@ description: "Zustellung gegen Plattform mit Sitz ausserhalb der EU und EU-Vertr
 - §§ 183–185 ZPO — Auslandszustellung und öffentliche Zustellung
 - Art. 17–19 HZÜ — Haager Zustellungsübereinkommen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, 34. Aufl. 2022, § 183 Rn. 1–30: Zur Auslandszustellung nach EuZVO und HZÜ; Praxis.
-- Musielak/Voit ZPO, 21. Aufl. 2024, § 184 Rn. 1–20: Zur Ermächtigung eines inländischen Zustellungsbevollmächtigten; Bedeutung für DSA Art. 13.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Hat die Plattform eine EU-Niederlassung? (Zustellung dorthin nach EuZVO)

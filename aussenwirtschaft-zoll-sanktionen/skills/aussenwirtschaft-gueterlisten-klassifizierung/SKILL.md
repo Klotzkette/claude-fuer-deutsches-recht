@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-gueterlisten-klassifizierung
-description: "Klassifizierungsdossier fuer Exportkontrolle Zolltarif und Dual-Use-Einordnung. Anwendungsfall Produkt muss fuer Exportkontrolle und Zoll einheitlich klassifiziert werden. Normen EU-Dual-Use-Liste Anhang I Verordnung 2021/821 UZK Art. 33 VzTA Kombinierte Nomenklatur KN. Pruefraster Produktdaten Zolltarifnummer technische Parameter Gueterlistenbezug Dual-Use-Position offene Nachweise. Output Nachvollziehbares Klassifizierungsdossier mit CN-Code Dual-Use-Ergebnis und Begruendungskette fuer BAFA und Zoll. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zolltarif-vzta."
+description: "Klassifizierungsdossier für Exportkontrolle Zolltarif und Dual-Use-Einordnung. Anwendungsfall Produkt muss für Exportkontrolle und Zoll einheitlich klassifiziert werden. Normen EU-Dual-Use-Liste Anhang I Verordnung 2021/821 UZK Art. 33 VzTA Kombinierte Nomenklatur KN. Prüfraster Produktdaten Zolltarifnummer technische Parameter Gueterlistenbezug Dual-Use-Position offene Nachweise. Output Nachvollziehbares Klassifizierungsdossier mit CN-Code Dual-Use-Ergebnis und Begründungskette für BAFA und Zoll. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zolltarif-vzta."
 ---
 
 # Güterlisten- und Klassifizierungslog
@@ -62,9 +62,7 @@ Kläre vor der Klassifizierung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 17.06.2010 - C-376/08 (Saman/Hauptzollamt) — EU-Dual-Use-Genehmigungspflichten sind unmittelbar anwendbar ohne nationalen Umsetzungsakt; Mitgliedstaatliches Recht kann Pflichten nicht einschraenken.
-- BVerwG, Urt. v. 23.10.2007 - 3 C 33.06, BVerwGE 129, 367 — BAFA-Ermessen bei Ablehnung von Genehmigungen fuer sicherheitssensible Gueter; technische Einschaetzung der Behoerde ist nur eingeschraenkt nachpruefbar.
-- BGH, Urt. v. 11.07.2019 - 1 StR 634/18, NStZ 2020, 34 — Kenntnis des Exporteurs von Guterlistenposition wird bei Vorliegen offensichtlicher technischer Parameter des gelisteten Gutes vermutet (dolus directus II).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ## Normen-Kette Guterlistenklassifizierung
 
 - Anhang I VO (EU) 2021/821 — EU-Dual-Use-Guterliste (Kategorien 0-9)
@@ -74,11 +72,9 @@ Kläre vor der Klassifizierung:
 - NSG Part I/II — Nuklearer Lieferantenkreis
 - AG-Kontrolllisten — Chemische und Biologische Vorlaeufer
 
-## Kommentarliteratur
+## Quellenregel
 
-- BAFA, Praxisleitfaden Guterklassifizierung (aktuelle Fassung, bafa.de)
-- Bieneck, Handbuch Aussenwirtschaftsrecht, Kap. Guterlistenrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Guterlistenklassifizierung
 
 **Adressat:** Exportkontroll-Sachbearbeiter — **Tonfall:** technisch-regulatorisch, quellengenau
@@ -115,5 +111,4 @@ Bearbeiter: [NAME]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- VG Frankfurt 5 K 978/11 (behauptet: AWG-Verstoss leichtfertig, Gueterlistenstatus) entfernt: Urteil nicht auffindbar in dejure.org, Hessenrecht oder einschlägigen Datenbanken. Status NOT_FOUND. Eintrag gelöscht.
 -->

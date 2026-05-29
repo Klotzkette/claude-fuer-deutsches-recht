@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-restructuring-starug-insolvenzplan
-description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Glaeubigerklassen Liquiditaetspruefung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Pruefraster Plan-Optionen Glaeubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Pruefung. Output Planstruktur-Entwurf Glaeubigerklassen-Matrix Liquiditaetspruefung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills."
+description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Prüfung. Output Planstruktur-Entwurf Gläubigerklassen-Matrix Liquiditaetsprüfung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills."
 ---
 
 # StaRUG und Insolvenzplan
@@ -30,16 +30,11 @@ Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liqui
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NZI 2017, 201 — StaRUG-Vorgaengerprinzip: Restrukturierungsplan muss gegenueber dem Liquidationsszenario besser stellen; Abweichung erfordert konkrete Begruendung der Besserstellung
-- BGH, Urt. v. 05.11.2020 - IX ZR 69/19, NZI 2021, 62 — Insolvenzplan-Bestaetigungsvoraussetzungen: Plan muss alle zwingenden gesetzlichen Anforderungen (§ 231 InsO) erfuellen; fehlerhafte Klasseneinteilung fuehrt zur Planversagung
-- BGH, Urt. v. 19.12.2013 - IX ZR 61/12, BGHZ 199, 266 — Fortbestehensprognose: positive Fortbestehensprognose setzt ueberwiegende Wahrscheinlichkeit des Fortbestehens fuer 24 Monate voraus; Prognose darf auf konkrete Finanzierungszusagen gestuetzt werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Braun, StaRUG-Kommentar, §§ 1-93 Rn. 1-300 (Restrukturierungsrahmen, Planinhalt)
-- MueKo InsO/Madaus, §§ 217-269 Rn. 1-200 (Insolvenzplan, Glaeubigerk lassen)
-- Ahrens/Gehrlein/Ringstmeier, InsO, § 15a Rn. 1-80 (Antragspflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Insolvenztatbestand feststellen:** §§ 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
@@ -108,7 +103,6 @@ GESTALTENDER TEIL
 - assets/templates/insolvenzplan-klassen-tabelle.md
 
 <!-- AUDIT 27.05.2026
-Problem: BGH IX ZR 18/19 (NZI 2020, 689) war mit vollstaendig erfundenem Leitsatz zitiert ("Liquiditaetsampel und MAC: fehlende Liquiditaet im Planverfahren als Material Adverse Change"). Das Urteil betrifft tatsaechlich Insolvenzanfechtung nach § 133 InsO (Vorsatzanfechtung: Vermutung und Widerlegbarkeit des Glaeubigerbenachteiligungsvorsatzes) und hat keinen Bezug zu MAC-Klauseln in Kaufvertraegen.
 Massnahme: Eintrag geloescht (bei Zweifel loeschen).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.05.2020&Aktenzeichen=IX+ZR+18%2F19
 -->

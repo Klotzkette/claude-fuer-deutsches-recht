@@ -1,6 +1,6 @@
 ---
 name: stb-dba-grenzgaenger-frankreich-vor-allem-elsass
-description: "Grenzgaengerregelung DBA Frankreich mit Schwerpunkt Elsass-Lothringen und 20-km-Zone. Anwendungsfall Arbeitnehmer Wohnsitz und Taetigkeit in Grenzgemeinde. Arbeitstaegliche Rueckkehr 45-Tage-Schaedlichkeit. Beweismittel Reisekalender Arbeitgeberbescheinigung. Output Mandanten-Memo Grenzgaengernachweis."
+description: "Grenzgaengerregelung DBA Frankreich mit Schwerpunkt Elsass-Lothringen und 20-km-Zone. Anwendungsfall Arbeitnehmer Wohnsitz und Tätigkeit in Grenzgemeinde. Arbeitstaegliche Rückkehr 45-Tage-Schaedlichkeit. Beweismittel Reisekalender Arbeitgeberbescheinigung. Output Mandanten-Memo Grenzgaengernachweis."
 ---
 
 # Grenzgaengerregelung DBA-Frankreich (Elsass-Lothringen 20-km-Zone)
@@ -23,15 +23,15 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Frankreich vom 21.07.1959** Art. 13 Abs. 5 oder ergaenzendes Protokoll — **konkrete Klausel verifizieren**.
-- **Aenderungsprotokoll vom 31.03.2015** — Anpassungen an Grenzgaengerregelung — **verifizieren**.
-- **Verwaltungsvereinbarung Grenzgaenger** Deutschland-Frankreich vom 16.02.2006 — **verifizieren**.
+- **DBA Deutschland-Frankreich vom 21.07.1959** (BGBl. 1961 II S. 397/398), Art. 13 Abs. 5 und ergaenzendes Protokoll.
+- **Aenderungsprotokoll vom 31.03.2015** (BGBl. 2015 II S. 1332/1335) — Anpassungen an Grenzgaengerregelung.
+- **Verwaltungsvereinbarung Grenzgaenger** Deutschland-Frankreich vom 16.02.2006.
 - **§ 1 EStG, § 49 EStG** (unbeschraenkte/beschraenkte Steuerpflicht).
-- **Konsultationsvereinbarung Home-Office** (Pandemie 2020/2021 und Folgevereinbarungen) — **Aktualitaet verifizieren**.
+- **Konsultationsvereinbarung Home-Office** (Pandemie 2020/2021 und Folgevereinbarungen) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 26/16 — Grenzgaenger Frankreich — **Aktenzeichen verifizieren**.
-- BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — **konkretes Datum verifizieren**.
+- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich in juris abrufen.
+- BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Anwendungsvoraussetzungen
 
@@ -40,7 +40,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - Der Wohnsitz iSd § 8 AO muss in einer Gemeinde liegen, die im DBA-Gemeindeverzeichnis 20-km-Zone aufgefuehrt ist.
 - Bei deutschen Grenzbezirken: Gemeinden in Baden-Wuerttemberg, Saarland und Rheinland-Pfalz mit Abstand zur franzoesischen Grenze.
 - Bei franzoesischen Grenzbezirken: Gemeinden im Elsass und Lothringen.
-- **Gemeindelisten in den Protokollen** und in BMF-Aktualisierungen verifizieren.
+- **Gemeindelisten in den Protokollen** und in BMF-Aktualisierungen — massgebend sind die Anlage zum DBA-Protokoll und aktuelle BMF-Schreiben.
 
 ### Taetigkeitsort in 20-km-Zone
 
@@ -51,7 +51,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 - Der Arbeitnehmer muss arbeitstaeglich zum Wohnsitz zurueckkehren.
 - "Arbeitstaeglich" = nach jedem Arbeitstag.
-- Maximale **Nicht-Rueckkehrtage pro Jahr**: typ. 45 (Schaedlichkeitsschwelle — **konkret verifizieren**).
+- Maximale **Nicht-Rueckkehrtage pro Jahr**: 45 Tage (Schaedlichkeitsschwelle gemaess Verwaltungsvereinbarung 16.02.2006 — massgebend ist der Originaltext).
 - Krankheitstage, Urlaubstage, Feiertage: nicht relevant fuer Schaedlichkeit.
 - Dienstreisen, Tagungen, Schulungen: zaehlen je nach Auslegung.
 
@@ -117,4 +117,6 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Frankreich 21.07.1959 mit Protokollen, Verwaltungsvereinbarung Grenzgaenger 16.02.2006. **Konkrete Schaedlichkeitsschwelle Nicht-Rueckkehrtage, Gemeindelisten 20-km-Zone, Aktualitaet Konsultationsvereinbarung Home-Office vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und aktuelle Konsultationsvereinbarungen Home-Office im BMF-Veroeffentlichungsverzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 3 belegt (BGBl. 1961 II S. 397/398 bestaetigt; BGBl. 2015 II S. 1332/1335 bestaetigt; Verwaltungsvereinbarung 16.02.2006 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

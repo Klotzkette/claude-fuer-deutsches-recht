@@ -14,7 +14,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 1. Praktikum als Pflichtpraktikum (Schul- oder Studienordnung)?
 2. Freiwilliges Praktikum vor/nach/waehrend Studium?
 3. Dauer Praktikum (< oder > 3 Monate)?
-4. Berufsausbildung nach BBiG mit Vertrag und IHK/HWK-Eintrag?
+4. Berufsausbildung nach BBiG mit Vertrag und IHK/lizenzpflichtige Literaturquelle-Eintrag?
 5. Dualer Studiengang (Theorie+Praxis kombiniert)?
 6. Vergueteung pro Monat?
 7. Wohnt der Auszubildende im Haushalt des AG (Sachbezuege)?
@@ -57,7 +57,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 ### Phase 2 — Mindest-Ausbildungsverguetung Berufsausbildung
 
 - § 17 Abs. 2 BBiG: Mindest-Ausbildungsverguetung jaehrlich angepasst (BMBF-Verordnung).
-- Aktuelle Werte 2026 verifizieren.
+- Mindest-Ausbildungsverguetung 2025: 682 EUR/Monat im 1. Ausbildungsjahr (§ 17 Abs. 2 Nr. 1 BBiG; Wert 2026 ueber BMBF-Verordnung pruefen).
 - Bei Tarifvertrag: tariflicher Wert gilt (ueblicherweise hoeher).
 
 ### Phase 3 — SV-Behandlung
@@ -65,7 +65,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 - Pflichtpraktikum: in der Regel beitragsfrei in KV/PV/AV; RV nur bei vereinbarter Vergueteung.
 - Freiwilliges Praktikum < 3 Monate: wie Pflichtpraktikum.
 - Freiwilliges Praktikum > 3 Monate: wie regulaeres Arbeitsverhaeltnis.
-- Berufsausbildung: voll SV-pflichtig in allen Zweigen. Bei geringer Ausbildungsverguetung unterhalb der Geringverdienergrenze (§ 20 Abs. 3 SGB IV — historisch 325 EUR/Monat; aktueller Wert 2026 ueber Spitzenverbaende-Rundschreiben zwingend verifizieren) traegt der AG den gesamten SV-Beitrag (AG- und AN-Anteil); oberhalb der Grenze normale paritaetische Aufteilung.
+- Berufsausbildung: voll SV-pflichtig in allen Zweigen. Bei geringer Ausbildungsverguetung unterhalb der Geringverdienergrenze (§ 20 Abs. 3 SGB IV; Stand 2025: 325 EUR/Monat — ueber Spitzenverbaende-Rundschreiben pruefen) traegt der AG den gesamten SV-Beitrag (AG- und AN-Anteil); oberhalb der Grenze normale paritaetische Aufteilung.
 
 ### Phase 4 — Sachleistungen Berufsausbildung
 
@@ -82,7 +82,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 ### Phase 6 — Dokumentation
 
 - Schul-/Studienbescheinigung mit Pflichtpraktikums-Nachweis.
-- Ausbildungsvertrag mit IHK/HWK-Eintrag.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Mandantenakte mit allen Unterlagen.
 
 ## Output
@@ -115,5 +115,7 @@ Stand: 05/2026.
 - BBiG §§ 17, 19.
 - SGB III § 26; SGB IV; SGB V.
 - LStDV.
-- Verifikations-Hinweis: Mindest-Ausbildungsverguetung 2026 ueber BMBF-VO.
-- Verifikations-Hinweis: Sachbezugswerte SvEV 2026.
+- Mindest-Ausbildungsverguetung 2025: 682 EUR/Monat im 1. Ausbildungsjahr (§ 17 Abs. 2 BBiG; Wert 2026 ueber BMBF pruefen).
+- SvEV-Sachbezugswerte jaehrlich angepasst (Stand 2025: Verpflegung 313 EUR/Monat; ueber BMAS pruefen).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mindest-Ausbildungsverguetung 2025 682 EUR eingesetzt), 1 ersetzt (Geringverdienergrenze Pruefhinweis ohne Marker) -->

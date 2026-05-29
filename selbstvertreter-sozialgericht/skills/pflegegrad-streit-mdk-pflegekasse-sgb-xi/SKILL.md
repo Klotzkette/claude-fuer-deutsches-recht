@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-streit-mdk-pflegekasse-sgb-xi
-description: "Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte fuer Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden fuer Betroffene und Angehoerige."
+description: "Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte für Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden für Betroffene und Angehoerige."
 ---
 
 # Pflegegrad-Streit nach SGB XI
@@ -178,4 +178,4 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB XI mit Pflegegrad-System seit 2017. MD-Reform 2022. BSG-Linie zur Module-Bewertung etabliert; konkrete Aktenzeichen zur Modul-Auslegung (z.B. BSG B 3 P 2/14 R) im juris pruefen bevor uebernommen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: elastizitaeten-diversion-ratios
-description: "Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu pruefen. Prueft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SSNIP-Test § 18 GWB Art. 102 AEUV. Pruefraster oekonometrische Methodik Datenbasis Endogenitaet Schwellenwerte Cellophane-Fallacy. Output Methodenbewertungs-Memo mit Staerken Schwaechen und prozessualer Angreifbarkeit. Abgrenzung: ssnip-test-anwendung fuer den SSNIP-Test selbst."
+description: "Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu prüfen. Prüft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SSNIP-Test § 18 GWB Art. 102 AEUV. Prüfraster oekonometrische Methodik Datenbasis Endogenitaet Schwellenwerte Cellophane-Fallacy. Output Methodenbewertungs-Memo mit Staerken Schwaechen und prozessualer Angreifbarkeit. Abgrenzung: ssnip-test-anwendung für den SSNIP-Test selbst."
 ---
 
 # Elastizitäten und Diversion Ratios
@@ -82,9 +82,8 @@ Bewertung: [belastbar / eingeschränkt belastbar / nicht belastbar]
 ## Leitentscheidungen Elastizitaeten / Diversion Ratios
 
 - EK, Horizontal Merger Guidelines 2004 Rn. 22-29 — Diversion Ratios als Evidenz fuer Marktabgrenzung; hohe Diversion zwischen Produkten A und B indiziert gemeinsamen Markt.
-- EuGH, Urt. v. 10.07.2008 — C-413/06 P (Bertelsmann/Sony), Slg. 2008, I-4951 — Quantitative Marktanalyse; oekonomische Sachverstaendige; Beweiswuerdigung durch Gericht.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Oekonomische Methoden Marktabgrenzung; Diversion Ratios und UPP-Test als ergaenzende Instrumente.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 5-20 (Oekonomische Methoden Marktabgrenzung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

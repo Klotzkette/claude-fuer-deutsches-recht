@@ -65,7 +65,7 @@ Die Sache duldet keinen Aufschub. Konkret:
 - Die Tochter des Antragstellers, Frau Stefanie Tannenberg (Lehrerin in Kiel, drei Kinder im Schulalter), ist nicht durchgehend in der Lage, die Begleitung zu übernehmen.
 - Behindertenfahrdienst (Stadt Kiel) ist gemäß Auskunft des Pflege-Stützpunkts auf 4 Fahrten pro Monat begrenzt und nicht spontan verfügbar.
 
-Der Zustand verschlechtert sich zunehmend. Die behandelnde Neurologin Frau Dr. Wallenstein hat in einem ergänzenden Attest vom 14.08.2026 (Anlage A-2) bescheinigt, dass eine fortdauernde Versorgungs-Lücke zu einer weiteren Verschlechterung der Funktions-Lage führt (Bewegungs-Mangel, Spastik-Verstärkung, psycho-soziale Folgen mit depressiver Symptomatik). Frau Dr. Wallenstein stellt fest: „Eine zeitnahe Versorgung mit dem Aktivrollstuhl ist medizinisch dringend angezeigt."
+Der Zustand verschlechtert sich zunehmend. Die behandelnde Neurologin Frau Dr. Wallenstein hat in einem ergänzenden Attest vom 14.08.2026 (Anlage A-2) bescheinigt, dass eine fortdauernde Versorgungs-Lücke zu einer weiteren Verschlechterung der Funktions-Lage führt (Bewegungs-Mangel, Spastik-Verstärkung, psycho-soziale Folgen mit depressiver Symptomatik). Frau Dr. Wallenstein stellt fest: "Eine zeitnahe Versorgung mit dem Aktivrollstuhl ist medizinisch dringend angezeigt."
 
 Die wirtschaftliche Lage des Antragstellers (EU-Rente iHv EUR 1.420 monatlich, keine zusätzlichen Einkünfte) lässt eine eigene Vorab-Finanzierung des Aktivrollstuhls (EUR 5.847) unter Berücksichtigung der laufenden Lebenskosten (Miete EUR 580, Lebensunterhalt, Pflegekosten) nicht zu.
 
@@ -75,7 +75,7 @@ Damit ist der **Anordnungsgrund** im Sinne der zur einstweiligen Anordnung erfor
 
 Der Anordnungsanspruch — d.h. der materiell-rechtliche Anspruch auf die Hilfsmittel-Versorgung gemäß § 33 SGB V — ist in der Widerspruchs-Begründung sowie in der Klageschrift (Az. SG Kiel S 9 KR 187/26) ausführlich dargestellt. Er ist mit hoher Wahrscheinlichkeit begründet (BSG, Urteil vom 16.09.2004, B 3 KR 17/01 R; BSG, Urteil vom 18.05.2011, B 3 KR 7/10 R).
 
-Insbesondere ist nicht erkennbar, dass die Antragsgegnerin im Widerspruchs-Bescheid auf das ergänzende Attest vom 05.05.2026 oder den Reha-Entlassungsbericht aus Damp 2024 inhaltlich Bezug genommen hätte; ihr MDK-Gutachten ist methodisch unzureichend (keine Handkraft-Messung, keine persönliche Untersuchung). Die behauptete „Wohnungsbarriere-freiheit" als Ablehnungs-Grund verkennt die Tatsache, dass der Antragsteller in der Wohnung den Rollstuhl ohnehin nicht benötigt — er benötigt ihn für die **Wege außerhalb der Wohnung**.
+Insbesondere ist nicht erkennbar, dass die Antragsgegnerin im Widerspruchs-Bescheid auf das ergänzende Attest vom 05.05.2026 oder den Reha-Entlassungsbericht aus Damp 2024 inhaltlich Bezug genommen hätte; ihr MDK-Gutachten ist methodisch unzureichend (keine Handkraft-Messung, keine persönliche Untersuchung). Die behauptete "Wohnungsbarriere-freiheit" als Ablehnungs-Grund verkennt die Tatsache, dass der Antragsteller in der Wohnung den Rollstuhl ohnehin nicht benötigt — er benötigt ihn für die **Wege außerhalb der Wohnung**.
 
 ### 4. Folgenabwägung
 

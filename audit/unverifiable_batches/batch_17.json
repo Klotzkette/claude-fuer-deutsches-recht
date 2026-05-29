@@ -1,0 +1,419 @@
+[
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 14/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Jahresabschluss als Frühwarninstrument für Insolvenzverschleppung — nicht öffentlich verifizierbar",
+    "claimed_topic": "Jahresabschluss als Frühwarninstrument: Verpflichtung des GF",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 32/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Drag-Along-Klausel GmbH; Mitnahmerechte Mehrheitsgesellschafter",
+    "claimed_topic": "Drag-Along: Mehrheitsgesellschafter darf Minderheit mitziehen bei gleichen Konditionen; Schlechterstellungsverbot",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": [
+      "gesellschaftsgruender/skills/gesellschaftsgruender-gesellschaftervereinbarung/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 4/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Einberufungsmängel und Beschlussanfechtung GmbH",
+    "claimed_topic": "Einberufungsmängel und Beschlussanfechtung",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": [
+      "wandeldarlehen-lebenszyklus/skills/gesellschafterversammlung-einberufen/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 74/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Key Issues SPA; Schiedsklausel-Formulierung NZG 2022, 98",
+    "claimed_topic": "Key Issues im SPA: Schiedsklausel-Formulierung; ICC-Schiedsverfahren Frankfurt",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": [
+      "corporate-kanzlei/skills/corporate-kanzlei-vertragsmarkup-key-issues/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 W 82/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Anti-Dilution-Klausel Down-Round Kapitalerhöhung GmbHR 2017, 203",
+    "claimed_topic": "Anti-Dilution bei Down-Round; Altinvestoren Bezugsrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": [
+      "gesellschaftsgruender/skills/gesellschaftsgruender-kapitalerhoehung-bezugsrecht/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 1/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Streichpreis UWG § 5; Preisangaben WRP 2023, 890",
+    "claimed_topic": "Streichpreis muss Preis der letzten 30 Tage entsprechen; fiktiver Referenzpreis Irreführung",
+    "source_url": "https://shopbetreiber-blog.de/2023/01/25/olg-frankfurt-a-m-irrefuehrung-durch-falsche-preisangabe",
+    "skills": [
+      "produktrecht/skills/preisangaben/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 111/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Gemeinschaftsgeschmacksmuster Gesamteindruck informierter Benutzer",
+    "claimed_topic": "Nicht eingetragenes Gemeinschaftsgeschmacksmuster",
+    "source_url": "https://www.damm-legal.de/olg-frankfurt-am-das-gemeinschaftsgeschmacksmuster-gewaehrt-nicht-den-schutz-einzelner-gestaltungselemente-art-10-ggv",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 112/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "NDA-Verletzung NJW-RR 2022, 912",
+    "claimed_topic": "NDA-Verletzung; Vertraulichkeitspflichten",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 152/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Wettbewerbsrecht Frist NJW-RR 2021, 912",
+    "claimed_topic": "Fristberechnung im Wettbewerbsrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 183/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Greenwashing Werbebehauptungen UWG",
+    "claimed_topic": "Greenwashing Werbebehauptung",
+    "source_url": "https://www.skwschwarz.de/news/wir-recyceln-selbst-olg-frankfurt-am-zu-irrefuhrender-bewerbung-eines-okologischen-reinigungsmittels",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 209/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Markenrecht Suchmaschinentreffer GRUR-RR 2019 (but 6 U 209/19 found, not 6 U 209/18)",
+    "claimed_topic": "Angebotsdarstellung Markenrecht",
+    "source_url": "https://tww.law/blog/2020/05/19/olg-frankfurt-urteil-vom-19-mai-2020-az-6-u-209-19/",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 UF 136/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Trennungsdatum bei streitigem Trennungszeitpunkt (Familienrecht)",
+    "claimed_topic": "Trennungsdatum bei streitigem Trennungszeitpunkt",
+    "source_url": "https://www.fachanwalt.de/ratgeber/olg-frankfurt-entscheidet-getrenntleben-trotz-gemeinsamer-wohnung-moeglich",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "7 U 33/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Versicherungsrecht VersR 2023, 211",
+    "claimed_topic": "Versicherungsrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": []
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "7 U 74/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "D&O-Versicherung VersR 2021, 812",
+    "claimed_topic": "D&O-Versicherungsrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Frankfurt",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "11 U 108/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "GmbH Patt-Situation Beschlussfassung GmbHR 2020, 978",
+    "claimed_topic": "Patt-Situation GmbH; Stimmrechte",
+    "source_url": "https://www.gesellschaftsrechtskanzlei.com/profil/gerichtsentscheidungen/ausgewaehlte-olg-entscheidungen/olg-hamburg/",
+    "skills": [
+      "gesellschaftsgruender/skills/gesellschaftsgruender-gesellschaftervereinbarung/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "11 U 174/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Stimmbindungsabrede GmbH GmbHR 2019, 411",
+    "claimed_topic": "Stimmbindungsabrede; Wirksamkeitsgrenzen",
+    "source_url": "https://www.gesellschaftsrechtskanzlei.com/tag/stimmbindungsabrede/",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "11 U 237/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Gesellschafterbeschluss GmbH",
+    "claimed_topic": "Gesellschafterbeschluss und Stimmrecht",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=22.01.2016&Aktenzeichen=11+U+287%2F14",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "11 U 71/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Protokoll GmbH-Beschluss GmbHR 2015, 362",
+    "claimed_topic": "Protokoll als Beweismittel GmbH-Beschluss",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "11 W 41/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Registersperre § 16 HGB Anmeldung NZG 2018, 222",
+    "claimed_topic": "Registersperre nach § 16 HGB",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "11 W 89/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sacheinlage GmbH Kapitalerhöhung Beanstandung",
+    "claimed_topic": "Beanstandung Sacheinlage bei Kapitalerhöhung",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "12 U 155/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "EXW-Klausel Transportrecht NJW-RR 2014, 889",
+    "claimed_topic": "EXW-Klausel; Risikoübergang Versendungskauf",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "12 U 39/00",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Wesentliche Vertragspflichtverletzung NJW-RR 2008, 845 (Datum-Diskrepanz: AZ aus 2000, Urteil 2008?)",
+    "claimed_topic": "Wesentliche Vertragspflichtverletzung",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=12+U+39%2F00",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "12 UF 104/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Verfahrensbeistand Kind Familienrecht",
+    "claimed_topic": "Verfahrensbeistand darf Ergebnis der Anhörung nicht vorwegnehmen",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "3 U 56/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Qualitätsprüfung vereinfachter Verfahren",
+    "claimed_topic": "Qualitätsprüfung vereinfachter Verfahren",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "3 U 89/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Kalibrierung Messgeräte NJW-RR 2023",
+    "claimed_topic": "Kalibrierung von Messgeräten",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "3 U 97/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Makler Sorgfaltspflicht GwG",
+    "claimed_topic": "Makler ohne Sorgfaltsprüfung GwG",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "5 U 27/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Wettbewerbsrecht GRUR-RS 2021, 35678",
+    "claimed_topic": "Wettbewerbsrecht Auskunftsanspruch",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamburg&Datum=31.08.2023&Aktenzeichen=5+U+27%2F22",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "5 U 6/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Vertragsstrafe Mindesthöhe",
+    "claimed_topic": "Vertragsstrafe Mindesthöhe",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "5 U 87/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Taschenmuster wettbewerbsrechtlicher Schutz",
+    "claimed_topic": "Taschenmuster; wettbewerbsrechtlicher Schutz",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "6 U 130/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Share Deal GmbH NZG 2022, 1190",
+    "claimed_topic": "Share Deal; gesellschaftsrechtliche Fragen",
+    "source_url": "https://cdn-assetservice.ecom-api.beck-shop.de/productattachment/register/15131802/1340_nzg_registerheft_2022.pdf",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "6 U 50/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Schiedsklausel Transportrecht TranspR 2019, 240",
+    "claimed_topic": "Schiedsklausel im Transportrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "7 U 52/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Fehlerhafter Allgemeiner Geschäftsbedingungen GRUR-RR 2020, 45",
+    "claimed_topic": "Fehlerhafter AGB-Kurs",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamburg",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "9 U 4/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Franchisenehmer § 89b HGB analog Ausgleichsanspruch",
+    "claimed_topic": "Franchisenehmer und § 89b HGB analog; Ausgleichsanspruch",
+    "source_url": "https://voris.wolterskluwer-online.de/browse/document/f08f448d-f8e7-4b28-ab22-ba90f93c036d",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "10 W 125/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Notarielle Beurkundung NJW-RR 2018, 1160",
+    "claimed_topic": "Beurkundung GmbH-Anteilsübertragung",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamm",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "12 U 19/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Mandatsübernahme ohne Konfliktprüfung Anwaltsrecht",
+    "claimed_topic": "Mandatsübernahme ohne Konfliktprüfung",
+    "source_url": "https://datenbank.nwb.de/Dokument/437246/",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "15 W 15/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Firmenzusatz GmbH NZG 2010, 638",
+    "claimed_topic": "Firmenzusatz GmbH; Handelsregister",
+    "source_url": "https://www.gesellschaftsrechtskanzlei.com/olg-hamm-beschluss-vom-10-08-2010-i-15-w-30910-15-w-30910/",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "15 W 23/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Widerruf Erklärung FamRZ 2019, 1287",
+    "claimed_topic": "Widerruf einer Willenserklärung Familienrecht",
+    "source_url": "https://www.famrz.de/files/Media/dokumente/schrifttumshinweise/schrifttumshinweise-2019/schrifttumshinweise-2019-9.pdf",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "18 U 15/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Haftungsbeschränkung Transportrecht TranspR 2021, 394",
+    "claimed_topic": "Haftungsbeschränkung im Transportrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamm",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "18 U 18/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "GwG-Pflicht Transportrecht TranspR 2020, 380",
+    "claimed_topic": "GwG-Pflichten im Transportbereich",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamm",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "20 U 152/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sachverständiger Versicherungsrecht VersR 2020, 673",
+    "claimed_topic": "Sachverständiger im Versicherungsverfahren",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+D%EF%BF%BDsseldorf&Datum=06.07.2023&Aktenzeichen=20+U+152%2F22",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "24 U 156/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "SOBau-Anwendung Baurecht",
+    "claimed_topic": "SOBau-Anwendung",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamm",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "8 U 32/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "NDA Mittelstandstransaktion Vertraulichkeit",
+    "claimed_topic": "NDA bei Mittelstandstransaktion; Vertraulichkeit",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+Hamm",
+    "skills": []
+  },
+  {
+    "court": "OLG Hamm",
+    "az": "8 U 55/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Qualifizierte Schriftformklausel NJW-RR 2022, 104",
+    "claimed_topic": "Qualifizierte Schriftformklausel",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Hamm&Datum=12.04.2022&Aktenzeichen=7+U+55%2F21",
+    "skills": []
+  },
+  {
+    "court": "OLG Koeln",
+    "az": "15 U 57/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sarkasmus/Ironie im Schriftverkehr Wettbewerbsrecht",
+    "claimed_topic": "Sarkasmus und Ironie im schriftlichen Wettbewerbsrecht",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+K%C3%B6ln",
+    "skills": []
+  },
+  {
+    "court": "OLG Koeln",
+    "az": "15 U 73/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsschutzversicherung NJW-RR 2018, 1055",
+    "claimed_topic": "Rechtsschutzversicherung Deckung",
+    "source_url": "https://dejure.org/dienste/rechtsprechung?gericht=OLG+K%C3%B6ln",
+    "skills": []
+  }
+]

@@ -1,6 +1,6 @@
 ---
 name: wandlungsausschluss-pruefung
-description: "Pruefen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Pruefraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Pruefmemo Empfehlung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
+description: "Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Prüfraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Prüfmemo Empfehlung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandlungsausschluss-Prüfung
@@ -28,8 +28,7 @@ Dieser Skill prüft, ob das Wandlungsrecht des Lenders erloschen, verfristet, ve
 - § 93 InsO (Anfechtung von Verfügungen über Wandlungsrechte)
 
 ### Rechtsprechung
-- BGH, Urt. v. 26. September 1996 – III ZR 44/96 (Verwirkung von Optionsrechten)
-- BGH, Urt. v. 11. Oktober 2005 – XI ZR 395/04 (Fristberechnung bei Optionsausübung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -84,9 +83,9 @@ Stand: 05/2026. Bei Änderung BGB-Verjährungsrecht aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 22.09.2014 — **II ZR 57/13**, NJW 2014, 3442 Rn. 18: Wandlungsausschluss-Klauseln (z.B. bei Insolvenz des Unternehmens vor dem Qualifying Event) sind zulässig, müssen aber klar und eindeutig formuliert sein; im Zweifel ist die Klausel nach § 305c Abs. 2 BGB gegen den Klauselverwender (Gesellschaft) auszulegen, was zugunsten des Darlehensgebers auf Wandlung hinausläuft.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.07.2008 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 20: Bei Insolvenz der Gesellschaft vor Wandlung kann der Insolvenzverwalter das Wandeldarlehn als Gesellschafterdarlehen einordnen; das Wandlungsrecht erlischt durch Insolvenzeröffnung nicht automatisch, ist jedoch der Insolvenzquote der nachrangigen Gläubiger unterworfen (§ 39 Abs. 1 Nr. 5 InsO).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

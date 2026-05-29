@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-due-diligence-reporting
-description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht fuer M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Pruefraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung fuer SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance."
+description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance."
 ---
 
 # Due Diligence Reporting
@@ -24,16 +24,11 @@ description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Du
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — Vorstand/GF muss sich auf angemessene Information stuetzen; fehlender DD-Report = kein BJR-Schutz bei Unternehmenskauf
-- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — Wesentliche Risiken muss Verkaefer ungefragt offenbaren; DD-Report belegt, was offenbart wurde
-- OLG Frankfurt, Urt. v. 26.05.2022 - 5 U 53/21, NZG 2022, 1052 — W&I-Versicherer kann Deckung verweigern, wenn DD-Report wesentliche bekannte Risiken unterschlaegt (Materiality Scrape und Sandbagging-Problematik)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6 — Reporting und Dokumentation
-- Mueller/Strate, M&A — Due Diligence (2018) — integriertes Reporting
-- MueKo AktG/Spindler § 93 Rn. 60 ff. — Informationsgrundlage als BJR-Voraussetzung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Integriertes DD-Reporting: Workstream-Matrix
 
 | Workstream | Hauptbefunde | Risikobewertung | SPA-Empfehlung |
@@ -148,6 +143,6 @@ Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Repo
 ## Quellen
 
 - §§ 311 II, 444 BGB; § 93 AktG; §§ 35 ff. GWB
-- BGH II ZR 234/20 (BJR, angemessene Information); BGH V ZR 299/19 (Offenbarungspflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
-- MueKo AktG/Spindler § 93 Rn. 60 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

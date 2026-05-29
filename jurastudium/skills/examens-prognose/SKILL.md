@@ -1,6 +1,6 @@
 ---
 name: examens-prognose
-description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizpruefungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Pruefraster vergangene JPA-Klausuren analysieren, Haeufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen fuer Uebungsklausuren und zu Lernplan."
+description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan."
 ---
 
 # Examensprognose / JPA-Statistik
@@ -84,11 +84,8 @@ Auf Basis der Gewichtungsmatrix:
 - JPA-Websites (Bayern: www.justizexamen.de; NRW: www.jpa.nrw.de; BW: www.justiz.bwl.de)
 - Öffentlich zugängliche Klausurensammlungen der Universitäten
 
-**Für inhaltliche Kommentare (Prüfungsstandard):**
-- Grüneberg, BGB (Standard für fast alle Zivilrechtsklausuren)
-- MüKoBGB (für Streitstände im schriftlichen Examen)
-- Medicus/Petersen, *Bürgerliches Recht*, 27. Aufl. 2019
-- Brox/Walker, *Allg. Schuldrecht*, 47. Aufl. 2023
+**Für inhaltliche Kontrolle:**
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -140,7 +137,7 @@ Gewichtungsmatrix (Auszug):
 | Stellvertretung §§ 164 ff. BGB | 3/7 | mittel | ↔ |
 | Bereicherungsrecht §§ 812 ff. BGB | 2/7 | mittel | ↔ |
 
-Priorität A: Leistungsstörungsrecht – kommt in fast jeder BGB-Klausur vor. Fokus auf §§ 280 Abs. 1, 3, 281 BGB; Fristlosigkeit § 323 Abs. 2 BGB; Rücktritt vs. Schadensersatz. Grüneberg/Ernst, §§ 280, 281 beherrschen. `[UNSICHER – Prognose]`
+Priorität A: Leistungsstörungsrecht – kommt in fast jeder BGB-Klausur vor. Fokus auf §§ 280 Abs. 1, 3, 281 BGB; Fristlosigkeit § 323 Abs. 2 BGB; Rücktritt vs. Schadensersatz. lizenzpflichtige Literaturquelle/Ernst, §§ 280, 281 beherrschen. `[UNSICHER – Prognose]`
 
 Aktuelle Rechtsentwicklungen:  
 BGB-Reform 2022 (VerbrRRL): Neuer § 434 BGB – subjektiver, objektiver und montagebezogener Mangelbegriff. In Bayern erstmals in Klausuren ab Frühjahr 2023 abgefragt. `[Modellwissen – prüfen]`

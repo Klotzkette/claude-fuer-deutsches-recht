@@ -77,7 +77,7 @@ Die Zahlungsunfähigkeit ist nach Befund der vorläufigen Insolvenzverwalterin s
 
 ### C. Tatverdacht § 283 StGB (Bankrott — zu prüfen)
 
-Eine direkte Verminderung der Aktivmasse (Beiseiteschaffen, Vernichten, Beschädigen, Unbrauchbarmachen) ist derzeit nicht erkennbar. Die mangelhafte Buchführung allein begründet **§ 283b StGB** und nicht ohne weiteres § 283 StGB. Die Frage einer Aktivmasse-Verschiebung (z.B. ungerechtfertigte Entnahmen, verdeckte Gewinnausschüttungen, „letzte Zahlungen an einzelne Gläubiger") ist im Rahmen der Vernehmung der vorläufigen Insolvenzverwalterin und der Sichtung der Bankauszüge zu klären.
+Eine direkte Verminderung der Aktivmasse (Beiseiteschaffen, Vernichten, Beschädigen, Unbrauchbarmachen) ist derzeit nicht erkennbar. Die mangelhafte Buchführung allein begründet **§ 283b StGB** und nicht ohne weiteres § 283 StGB. Die Frage einer Aktivmasse-Verschiebung (z.B. ungerechtfertigte Entnahmen, verdeckte Gewinnausschüttungen, "letzte Zahlungen an einzelne Gläubiger") ist im Rahmen der Vernehmung der vorläufigen Insolvenzverwalterin und der Sichtung der Bankauszüge zu klären.
 
 ### D. Verteidiger
 

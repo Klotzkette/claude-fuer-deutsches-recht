@@ -1,48 +1,41 @@
-# Zitierweise deutsches Recht (v3.0)
+# Zitierweise deutsches Recht (v4.0)
 
-Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Pragmatische Repository-Konvention für Schriftsätze, Memos und Mandantenkommunikation — bewusst getrennt von wissenschaftlicher Notation. Rspr. mit `Az.`-Marker, Datum, Aktenzeichen, Fundstelle, Randnummer. Bearbeiter-Kommentar mit `in:`, Einzelautorenkommentar ohne `in:`. Monographien mit Verlag. `Diss.` und `Habil.` mit Hochschulort. Materialien mit Pinpoint und Link. Reihenfolge erst Gerichtshierarchie, dann chronologisch oder relevanzsortiert.
+Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Fokus: belastbare, überprüfbare Quellen statt schöner, aber nicht verifizierbarer Fundstellen.
 
-## Was ist neu in v3.0
+## Was ist neu in v4.0
 
-Diese Auflage konsolidiert elf Korrekturpunkte gegenüber v2.x:
+1. **BeckRS-Sperre:** BeckRS-Fundstellen werden nicht mehr aus Modellwissen erzeugt. Sie dürfen nur übernommen werden, wenn der Nutzer sie liefert oder ein lizenzierter Live-Zugriff sie verifiziert.
+2. **Literatur-Sperre:** Kommentare, Handbücher, Monographien und Aufsätze werden nicht blind zitiert. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+3. **Rechtsprechungs-Mindeststandard:** Gericht, Entscheidungsform, Datum und Aktenzeichen sind Pflicht. Wo möglich kommt eine amtliche oder frei zugängliche Quelle dazu.
+4. **Keine Palandt-/Pahlen-Aktualzitate:** Der frühere Palandt heißt seit 2022 Grüneberg; historische Altauflagen nur bei konkreter Nutzerquelle.
+5. **Prüfvermerk statt Halluzination:** Unverifizierte Entscheidungen werden markiert oder weggelassen, nicht ausgeschmückt.
 
-1. **`Az.`-Marker** ist Pflichtbestandteil vor jedem Aktenzeichen.
-2. **Kommentar-Schemata** sauber getrennt — Bearbeiter-Kommentar (`Bearbeiter, in: Werk, …`) und Einzelautorenkommentar (`Verfasser, Werk, …` ohne `in:`).
-3. **Großkommentare vs. Kurz-/Handkommentare** als zwei getrennte Tabellen. Grüneberg ist ein Kurz-/Handkommentar, kein Großkommentar.
-4. **`Diss.` und `Habil.`** sind Pflichtmarker bei Dissertationen und Habilitationen, jeweils mit dem Ort der Hochschule.
-5. **Materialien** mit explizitem Schema: Herausgeber, Titel, Datum oder Stand, Fundstelle, Pinpoint, ggf. URL.
-6. **Reihenfolge mehrerer Rspr.-Belege** — erst Gerichtshierarchie (BVerfG → EuGH/EGMR → BGH/BAG/BSG/BFH/BVerwG → OLG/LAG/LSG/FG/OVG → LG/ArbG/SG/VG → AG), dann innerhalb derselben Ebene chronologisch absteigend.
-7. **Relevanzsortierung** als ausdrückliche Alternative zur Chronologie — dokumentintern konsistent.
-8. **Aufsätze** haben dauerhaften Wert. Sie tragen Dogmatik, Theorie, Rechtsphilosophie, soziale Gerechtigkeit und Gleichbehandlung — nicht „nur" aktuelle oder rechtsökonomische Fragen.
-9. **„h. M." und „Mindermeinung"** sind pragmatische Sprechweisen, keine wissenschaftlichen Wertungskategorien. Keine Stigmatisierung abweichender Auffassungen.
-10. **Typografie** unterscheidet pragmatische Repository-Konvention von wissenschaftlicher Notation. Beides ist legitim, dokumentintern konsistent.
-11. **Verlag** bei Monographien und Festschriften.
+## Direkt-Download
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
+| Datei | Direkt-Download |
 | --- | --- |
-| Zitierweise deutsches Recht (`zitierweise-deutsches-recht`, dieses Plugin) | [zitierweise-deutsches-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zitierweise-deutsches-recht.zip) |
+| **Plugin-ZIP: Zitierweise deutsches Recht** | [zitierweise-deutsches-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zitierweise-deutsches-recht.zip) |
 
 Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
-1. ZIP herunterladen (Link oben).
+1. ZIP herunterladen.
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
+Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 
 | Skill | Zweck |
 | --- | --- |
-| `zitierweise-anwenden` | Wendet die Hauszitierweise v3.0 auf jede juristische Quelle an — Rspr. mit `Az.`-Marker, Bearbeiter-/Einzelautorenkommentar, Verlag, `Diss.`/`Habil.`-Pflicht, Materialien-Pinpoint, Reihenfolge nach Hierarchie + Chronologie/Relevanz, Palandt-Pflichtnachfrage. |
+| `allgemein` | Einstieg, Schnelltriage und Routing: klärt, ob ein Text Zitate erzeugen, glätten, prüfen oder sperren soll. |
+| `zitierweise-anwenden` | Wendet die Quellenregel v4.0 an: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
 
-## Pragmatik vs. Wissenschaft
+## Kurzregel
 
-Diese Hauszitierweise ist eine pragmatische Repository-Konvention. Wissenschaftliche Alternativen (vollständige Erstzitierung, Titel im Beleg, ausgeschriebene Vornamen, ausführliche Verlags- und Ortsangaben) sind legitim — innerhalb desselben Dokuments konsistent durchhalten.
+Norm zuerst. Dann verifizierte Rechtsprechung. Literatur nur bei bereitgestellter oder live verifizierter Quelle. Keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Lizenz
 

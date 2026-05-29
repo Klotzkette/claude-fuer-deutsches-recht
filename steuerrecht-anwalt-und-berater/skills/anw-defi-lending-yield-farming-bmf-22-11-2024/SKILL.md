@@ -1,6 +1,6 @@
 ---
 name: anw-defi-lending-yield-farming-bmf-22-11-2024
-description: "Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklaerungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklaerungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto."
+description: "Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto."
 ---
 
 # DeFi-Lending / Yield Farming — Steuerliche Behandlung BMF 22.11.2024
@@ -31,9 +31,9 @@ Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uni
 
 ### Leitentscheidungen
 
-- BFH, Urt. v. 14.2.2023 — **IX R 3/22** (Krypto als Wirtschaftsgut)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-anhängig zu DeFi-Spezifika (2025/2026)
-- FG Münster, Urt. v. 25.5.2023 — 9 K 26/23 (Staking-Rewards § 22 Nr. 3 EStG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - FG Baden-Württemberg-anhängig zu Liquidity-Mining-Token-Tausch
 
 ## Steuerliche Behandlung pro Aktivität
@@ -122,4 +122,4 @@ Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uni
 
 ## Quellen und Updates
 
-Stand: 05/2026. BMF-Schreiben 22.11.2024. BFH IX R 3/22. FG Münster 9 K 26/23. KryptoStG 1.1.2026. DAC8 Erstmeldung 31.1.2027. Bei BFH-Linie zu DeFi-Tausch aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

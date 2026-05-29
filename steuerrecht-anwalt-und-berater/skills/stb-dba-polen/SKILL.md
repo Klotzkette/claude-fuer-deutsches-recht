@@ -1,6 +1,6 @@
 ---
 name: stb-dba-polen
-description: "DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausfuehrung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausführung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Polen (2003)
@@ -24,16 +24,15 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 
 ### Primaernormen
 
-- **DBA Deutschland-Polen vom 14.05.2003**, in Kraft 19.12.2004, anwendbar ab 01.01.2005 (BGBl. 2004 II S. 1304) — **Datum und BGBl verifizieren**.
+- **DBA Deutschland-Polen vom 14.05.2003**, in Kraft 19.12.2004, anwendbar ab 01.01.2005 (BGBl. 2004 II S. 1304, BStBl. I 2005, 349).
 - **OECD-MA 2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Staaten Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Polen sind beide MLI-Unterzeichner; Anwendungsbeginn des MLI auf das DBA-Polen ab VZ 2020 (Ratifikation Deutschland 2020; synthetisierte Textfassung beim BMF abrufbar).
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 86/13 zu Polen-Entsendung — **verifizieren**.
-- BMF-Schreiben zu Polen-Arbeitnehmerentsendung — **verifizieren**.
+- BMF-Schreiben zur steuerlichen Behandlung des Arbeitslohns nach DBA (zuletzt 12.12.2023, BStBl. I 2023, 2193) einschliesslich Polen-Entsendungskonstellationen.
 
 ## Land-spezifisches
 
@@ -45,12 +44,12 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 
 ### Aktive Einkuenfte
 - Unternehmensgewinne Art. 7.
-- Loehne (Art. 15): 183-Tage-Regel kalenderjaehrlich (**im DBA-Text Polen verifizieren** ob Kalenderjahr oder 12-Monatszeitraum — die meisten DBA-Polen-Fassungen verwenden 12-Monatszeitraum).
+- Loehne (Art. 15): 183-Tage-Regel im DBA-Polen 2003 nach dem **12-Monatszeitraum** (nicht kalenderjaehrlich, vgl. Art. 15 Abs. 2 Buchst. a DBA-Polen).
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **verifizieren**. EU-MTRL geht vor (0 Prozent bei Schachtel).
-- **Zinsen** (Art. 11): typ. 5 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 5 Prozent — **verifizieren**. EU-ZinsLizenzRL bei verbundenen Unternehmen 0 Prozent.
+- **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 10 Prozent am Kapital der ausschuettenden Gesellschaft; 15 Prozent in allen anderen Faellen. EU-MTRL geht vor (0 Prozent bei Schachtel >/= 10 Prozent, § 43b EStG).
+- **Zinsen** (Art. 11): 5 Prozent des Bruttobetrags im Quellenstaat.
+- **Lizenzgebuehren** (Art. 12): 5 Prozent des Bruttobetrags im Quellenstaat. EU-ZinsLizenzRL (§ 50g EStG) bei verbundenen Unternehmen 0 Prozent.
 
 ### Vermeidungs-Methode (Art. 24)
 - Freistellung mit Progressionsvorbehalt bei aktiven Einkuenften und Aktivitaetsklausel.
@@ -89,4 +88,6 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Polen 14.05.2003, in Kraft 19.12.2004. **Datum, BGBl-Fundstelle, MLI-Notification, Protokolle und aktuelle Quellensteuer-Saetze sowie 183-Tage-Zeitraum-Definition vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. DBA-Polen 14.05.2003, in Kraft 19.12.2004 (BGBl. 2004 II S. 1304). MLI-Anwendung ab VZ 2020. Quellensteuer-Saetze: Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. 183-Tage-Zeitraum: 12-Monatszeitraum. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle, MLI-Status, Quellensteuer-Saetze, 12-Monatszeitraum), 2 gestrichen (BFH I R 86/13 betrifft Irland nicht Polen; BMF-Schreiben allgemein neu formuliert) -->

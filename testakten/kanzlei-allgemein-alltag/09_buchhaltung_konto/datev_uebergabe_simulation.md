@@ -68,7 +68,7 @@ Aus `geschaeftskonto_mai_2026.csv` — Abstimmung mit Rechnungen:
 | 16.05.2026 | W. Lindner | Beratung April | **228,00 EUR** | **kein Match** | **Klärfall — ungeklärt** |
 
 **Klärfall 228,00 EUR:**  
-Auftraggeber: W. Lindner, Savignyplatz 11, 10627 Berlin. Kein offener Posten in dieser Höhe. Fremdgeldverdacht wird geprüft. Sachkonto: vorerst „9000 Durchlaufende Posten / Klärungen". Endgültige Buchung nach Klärung.
+Auftraggeber: W. Lindner, Savignyplatz 11, 10627 Berlin. Kein offener Posten in dieser Höhe. Fremdgeldverdacht wird geprüft. Sachkonto: vorerst "9000 Durchlaufende Posten / Klärungen". Endgültige Buchung nach Klärung.
 
 ---
 

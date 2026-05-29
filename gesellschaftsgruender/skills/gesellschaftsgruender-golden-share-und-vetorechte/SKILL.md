@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-golden-share-und-vetorechte
-description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmaessig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Pruefraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich)."
+description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich)."
 ---
 
 # Golden Share und Sondervetorechte
@@ -28,17 +28,11 @@ Klaere vor Gestaltung von Vetorechten:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 19.09.2005 – II ZR 342/03, NJW 2006, 374** — Sondervetorechte einzelner Gesellschafter in der Satzung sind grundsaetzlich wirksam; jedoch koennen sie nicht dazu dienen, die Gesellschaft dauerhaft handlungsunfaehig zu machen; bei missbräuchlicher Vetoausuebung besteht Treuepflichtverletzung.
-- **BGH, Urt. v. 12.04.2016 – II ZR 275/14, NZG 2016, 781** — Im Innenverhältnis bindet der Zustimmungsvorbehalt die Geschaeftsfuehrung; im Aussenverhältnis bleibt das abgeschlossene Rechtsgeschaeft wirksam; Haftung des GF nach § 43 GmbHG.
-- **OLG Frankfurt, Urt. v. 22.06.2021 – 4 U 105/20, GmbHR 2021, 1217** — Veto-Klausel, die praktisch jeden wesentlichen Beschluss blockiert, kann nach § 138 BGB nichtig sein; Massgeblich ist der Interessenausgleich und der Schutzzweck des Vetorechts.
-- **BGH, Urt. v. 06.11.2018 – II ZR 22/17, NZG 2019, 62** — Stimmrechts-Vereinbarungen in SHA binden die Gesellschafter schuldrechtlich; bei Verletzung der Stimmverpflichtung: Schadensersatz und Vertragsstrafe; aber der abgegebene Beschluss bleibt wirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Karsten Schmidt, GmbHG, 13. Aufl., § 47 Rn. 1-100 (Abstimmung; Stimmrecht; Sondervetorechte)
-- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 3 Rn. 1-80 (Satzungsgestaltung; Sonderrechte)
-- Grunewald, GmbHG, 2. Aufl. 2022, § 47 Rn. 50-100 (Treuepflicht; missbräuchliches Veto)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Golden Share-Gestaltung
 
 | Schritt | Frage | Norm | Ergebnis |
@@ -48,7 +42,7 @@ Klaere vor Gestaltung von Vetorechten:
 | 3 | Stimmverbot bei Eigeninteresse beachtet? | § 47 IV GmbHG | Veto-Inhaber bei Eigen-Sache: kein Stimmrecht |
 | 4 | Insolvenzantragspflicht gecheckt? | § 15a InsO | GF muss bei Insolvenzreife stellen; Veto greift nicht |
 | 5 | StaRUG-Veto sinnvoll? | § 31 StaRUG | Freiwilliges Verfahren; Veto hier wirksam |
-| 6 | Treuepflicht-Grenze bekannt? | BGH NJW 2006, 374 | Missbräuchliche Vetoausuebung anfechtbar |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | SHA-Stimmverpflichtung ergaenzend? | § 242 BGB | Schuldrechtliche Sicherung bei Verstoss |
 
 ## Schritt-fuer-Schritt-Workflow
@@ -101,14 +95,14 @@ erheben.
 
 - Veto in der Insolvenzsituation: GF MUSS nach § 15a InsO stellen; Veto schuetzt GF nicht vor Strafbarkeit
 - Pauschal-Veto ueber alle Beschluesse: Nichtigkeit nach § 138 BGB moeglich (OLG Frankfurt 2021)
-- SHA-Stimmverpflichtung allein: beschlossener Beschluss trotz Verletzung wirksam; nur Schadensersatz (BGH NZG 2019, 62)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Personenbezogenes Veto bei Erbfall: pruefen ob Erben das Vetorecht erben sollen oder es erloeschen soll
 
 ## Quellen und Vertiefung
 
 - §§ 3, 47, 47 IV GmbHG; §§ 138, 242 BGB; § 15a InsO; § 31 StaRUG
-- BGH NJW 2006, 374; BGH NZG 2016, 781; OLG Frankfurt GmbHR 2021, 1217; BGH NZG 2019, 62
-- Scholz/Karsten Schmidt § 47; Baumbach/Hueck § 3; Grunewald § 47
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 

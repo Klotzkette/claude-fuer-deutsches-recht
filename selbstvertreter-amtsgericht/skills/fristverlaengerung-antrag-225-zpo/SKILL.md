@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-antrag-225-zpo
-description: "Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Welche Fristen verlaengerbar sind welche nicht (Notfristen). Begruendung Frist-Antrag rechtzeitig stellen Folge bei nicht-Bewilligung Substituierende Strategie."
+description: "Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Welche Fristen verlaengerbar sind welche nicht (Notfristen). Begründung Frist-Antrag rechtzeitig stellen Folge bei nicht-Bewilligung Substituierende Strategie."
 ---
 
 # Eine Frist verlaengern: Antrag richtig stellen

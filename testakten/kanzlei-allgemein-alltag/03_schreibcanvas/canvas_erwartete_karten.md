@@ -15,7 +15,7 @@
 | T-2 | Zahlung April | Mietzahlung April 2026 in Höhe von 920,00 EUR überwiesen am 03.04.2026, Wertstellung 04.04.2026, IBAN des Vermieters DE44 1004 0048 7654 3210 00 | Kontoauszug April 2026, Anlage K2 | geprüft |
 | T-3 | Zahlung Mai | Mietzahlung Mai 2026 in Höhe von 920,00 EUR überwiesen am 06.05.2026, Wertstellung 07.05.2026, gleiche IBAN | Kontoauszug Mai 2026, Anlage K3 | geprüft |
 | T-4 | Schlössertausch | Am 19.05.2026, ca. 14:30 Uhr stellte Mandantin fest, dass das Türschloss ihrer Wohnung ausgetauscht worden war; Zutritt zur Wohnung war nicht möglich; kein Vorabhinweis des Vermieters | WhatsApp-Nachricht Mandantin 19.05.2026, Zeugin Lena Sturm (Nachbarin), Anlage K4 | zu ergänzen |
-| T-5 | Drohung Schlüsseldienst | Am 19.05.2026, 14:52 Uhr sandte Vermieter Kranz eine WhatsApp-Nachricht an Mandantin mit dem Wortlaut: „Sie wohnen ab jetzt woanders. Den Schlüssel bekommen Sie nicht mehr." | Screenshot WhatsApp, Anlage K5 | Screenshot liegt nur abgeschnitten vor — vollständiges Bild von Mandantin anfordern |
+| T-5 | Drohung Schlüsseldienst | Am 19.05.2026, 14:52 Uhr sandte Vermieter Kranz eine WhatsApp-Nachricht an Mandantin mit dem Wortlaut: "Sie wohnen ab jetzt woanders. Den Schlüssel bekommen Sie nicht mehr." | Screenshot WhatsApp, Anlage K5 | Screenshot liegt nur abgeschnitten vor — vollständiges Bild von Mandantin anfordern |
 | T-6 | Notquartier | Mandantin musste am 19.05.2026 und 20.05.2026 bei ihrer Schwester, Petra Meyer, Gartenstraße 22, 10115 Berlin, übernachten | Aussage Mandantin; ggf. Zeugenerklärung Petra Meyer | offen |
 
 ---

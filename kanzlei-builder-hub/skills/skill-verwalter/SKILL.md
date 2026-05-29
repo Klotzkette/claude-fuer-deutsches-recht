@@ -1,6 +1,6 @@
 ---
 name: skill-verwalter
-description: "Uebersicht und Verwaltung aller installierten Skills: Status, Version, Abhaengigkeiten. Normen: technisch/intern. Pruefraster: aktive Skills, deaktivierte Skills, Update-Bedarf. Output: Skills-Verwaltungsuebersicht. Abgrenzung: nicht Einzelinstallation oder -aktualisierung."
+description: "Übersicht und Verwaltung aller installierten Skills: Status, Version, Abhaengigkeiten. Normen: technisch/intern. Prüfraster: aktive Skills, deaktivierte Skills, Update-Bedarf. Output: Skills-Verwaltungsuebersicht. Abgrenzung: nicht Einzelinstallation oder -aktualisierung."
 ---
 
 # Skill-Manager
@@ -32,10 +32,9 @@ Die Protokollierungspflicht korrespondiert mit § 50 BRAO (Aktenführung) sowie 
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858 Rn. 11 — Rechtsanwaltskanzlei haftet für ordnungsgemäße Aktenführung und Nachweisbarkeit durchgeführter oder unterlassener Handlungen; Protokollierungslücken gehen zu Lasten der Kanzlei.
-- BGH, Urt. v. 19.02.2009 – IX ZR 117/08, NJW 2009, 1336 Rn. 14 — Unterlagen, die für die Mandatsbearbeitung relevant sind, unterliegen Aufbewahrungspflichten, deren Verletzung Schadensersatzansprüche begründen kann.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12 — Anforderungen an die Kanzleiorganisation und digitale Aktenführung.
 - Wagner, BB 2024, 579 (583) — Organisationspflichten beim Einsatz von KI-Werkzeugen in der Kanzlei; Dokumentations- und Löschkonzepte als Bestandteil des Risikomanagements.
@@ -62,7 +61,7 @@ Anzeigen:
 - Jede Datei, die gelöscht wird
 - Konfigurationsverzeichnisse, die **nicht** gelöscht werden (mit Hinweis, dass der Nutzer diese bei Bedarf manuell löschen kann)
 
-Prompt: „Diese Dateien löschen? (ja / nein)". Kein Löschen ohne ausdrückliches `ja`.
+Prompt: "Diese Dateien löschen? (ja / nein)". Kein Löschen ohne ausdrückliches `ja`.
 
 #### Schritt 4: Löschen
 
@@ -96,7 +95,7 @@ Die Skill-Zeile aus der installierten Starter-Pack-Tabelle in der Hub-CLAUDE.md 
 
 #### Schritt 3: Bestätigen
 
-Umbenennungsliste anzeigen. Prompt: „Diesen Skill deaktivieren? (ja / nein)".
+Umbenennungsliste anzeigen. Prompt: "Diesen Skill deaktivieren? (ja / nein)".
 
 #### Schritt 4: Umbenennen
 
@@ -134,7 +133,7 @@ Protokolleintrag: installations-protokoll.yaml aktualisiert.
 
 ## Beispiel
 
-**Nutzer:** „Deinstalliere den Skill `vertragsanalyse-nda`."
+**Nutzer:** "Deinstalliere den Skill `vertragsanalyse-nda`."
 
 **Skill-Manager:**
 1. `installations-protokoll.yaml` gelesen — Eintrag für `vertragsanalyse-nda` gefunden, letzter Status `install`.
@@ -163,8 +162,7 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 5 Abs. 2, Art. 32 DSGVO (Rechenschafts- und Sicherheitspflichten)
 - §§ 257 HGB, 147 AO (Aufbewahrungsfristen)
 - AI Act Art. 26 (Deployer-Pflichten)
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858
-- BGH, Urt. v. 19.02.2009 – IX ZR 117/08, NJW 2009, 1336
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12
 - Wagner, BB 2024, 579 (583)
 

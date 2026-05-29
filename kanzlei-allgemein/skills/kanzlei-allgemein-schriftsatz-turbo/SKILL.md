@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-schriftsatz-turbo
-description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Pruefraster Antrag Sachverhalt Beweise Recht Fristen Zustaendigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begruendung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening."
+description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Schriftsatz-Turbo: Klage, Replik, Antrag
@@ -14,10 +14,7 @@ description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schrifts
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Schriftsatz ohne Beweisangebote zu streitigen Tatsachen fuehrt zur Klageabweisung; sofortige Beweisankuendigung im ersten Schriftsatz ist Standard.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Klageantrag muss hinreichend bestimmt sein (§ 253 Abs. 2 Nr. 2 ZPO); unbestimmter Antrag fuehrt zur Unzulaessigkeit.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Erste Instanz als Tatsacheninstanz: alle relevanten Tatsachen muessen in der Klageschrift oder spaetestens im ersten Schriftsatz vorbereitet werden.
-- BGH, Urt. v. 25.10.2018 - I ZR 149/17, NJW 2019, 568 — Streitwert und Gerichtsstandbestimmung sind erste Pruefungsschritte beim Schriftsatz; falsche Zustaendigkeit fuehrt zur Verweisung oder Unzulaessigkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 253 ZPO — Klageschrift: Formerfordernis und Antragspflicht
@@ -25,10 +22,9 @@ description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schrifts
 - § 13 GVG — Sachliche Zustaendigkeit des LG (ab 10.000 EUR ab 01.01.2026)
 - §§ 935-945 ZPO — Einstweiliger Rechtsschutz: Verfuegungsgrund und Verfuegungsanspruch
 
-## Kommentarliteratur
-- Zöller/Greger ZPO § 253 Rn. 1-25 (Klageschrift: Pflichtanforderungen und Fehlerfolgen)
-- BeckOK ZPO/Toussaint §§ 935-945 Rn. 1-30 (Einstweiliger Rechtsschutz: Voraussetzungen und Antrag)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill bringt aus ungeordneten Informationen schnell einen gerichtsfähigen Entwurf: Klage, Replik, Antrag, Klageerwiderung, Schriftsatzantwort, einstweiliger Antrag oder Mandantenentwurf. Er priorisiert Nutzbarkeit: erst Struktur und Pflichtteile, dann Verfeinerung.

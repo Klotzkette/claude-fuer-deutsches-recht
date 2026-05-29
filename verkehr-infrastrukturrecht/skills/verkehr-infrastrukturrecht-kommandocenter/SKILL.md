@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-kommandocenter
-description: "Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Pruefraster: Sachgebiet (Planfeststellung, Sondernutzung, Ladeinfrastruktur, OEPNV, Schulwegsicherheit, Parkraum, Foerderung, Verkehrswende), Mandantenrolle, Verfahrensstand. Output Deal-Karte Verkehrsinfrastruktur mit Ampel und Routing-Empfehlung. Abgrenzung: Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz."
+description: "Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Prüfraster: Sachgebiet (Planfeststellung, Sondernutzung, Ladeinfrastruktur, OEPNV, Schulwegsicherheit, Parkraum, Foerderung, Verkehrswende), Mandantenrolle, Verfahrensstand. Output Deal-Karte Verkehrsinfrastruktur mit Ampel und Routing-Empfehlung. Abgrenzung: Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz."
 ---
 
 # Verkehrs- und Infrastrukturrecht — Kommandocenter
@@ -48,9 +48,9 @@ Einstiegspunkt fuer alle Mandate im Verkehrs- und Infrastrukturrecht (oeffentlic
 
 ## Querschnitts-Rechtsprechung
 
-- BVerwG NVwZ 2022, 558 — Praeklusion Einwendung nach Planfeststellung
-- BVerwG NVwZ 2023, 246 — Abwaegungsfehler als Aufhebungsgrund
-- BVerfG NVwZ 2014, 584 — Art. 14 GG bei Planfeststellungseingriff
+- Rechtsprechung live pruefen: Planfeststellungsentscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle ausgeben.
+- Rechtsprechung live pruefen: Abwaegungsfehler nur anhand verifizierter Entscheidungen einordnen.
+- Rechtsprechung live pruefen: Art.-14-Bezuege nur anhand verifizierter Entscheidungen einordnen.
 
 ## Harte Leitplanken
 

@@ -1,6 +1,6 @@
 ---
 name: jurastudium-anpassen
-description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenpruefung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Pruefraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen Beck-online juris Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart fuer Erst-Konfiguration und zu Lernplan."
+description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan."
 ---
 
 # Lernprofil anpassen
@@ -10,13 +10,10 @@ description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfa
 1. Welches Element des Lernprofils soll angepasst werden: Lernstil, Faecher, Bundesland, Prüfungsziel?
 2. Gibt es einen konkreten Anlass (neue Pruefung, Schwachstelle erkannt, Semesterwechsel)?
 3. Welches Prüfungsziel gilt jetzt (Zwischenpruefung, 1. StEx, 2. StEx, Schwerpunktbereich)?
-4. Welche Ressourcen stehen zur Verfuegung (Beck-online, juris, Bibliothek, Lerngruppe)?
+4. Welche Ressourcen stehen zur Verfuegung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Bibliothek, Lerngruppe)?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 17.04.1991 - 1 BvR 419/81, BVerfGE 84, 34 — Chancengleichheit in juristischen Pruefungen setzt voraus, dass Lernprofile an Pruefungsanforderungen angepasst sind.
-- BVerwG, Urt. v. 28.10.2010 - 2 C 52.09, NVwZ 2011, 240 — Bundeslandspezifische Pruefungsordnungen (JAG) sind massgeblich fuer Pruefungsinhalte; Lernplan muss JAG-konform sein.
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Anpassung der Methodik an Pruefungsstil ist legitim und notwendig; unterschiedliche Examensformate verlangen unterschiedliche Schwerpunkte.
-- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Individuelle Foerderung in der juristischen Ausbildung als Verfassungsgebot; Lernprofil-Anpassung unterstuetzt dies.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Laender aequivalent
@@ -24,10 +21,9 @@ description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfa
 - §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
 - § 195 BGB — Verjaehrung als Dauerklassiker: bleibt in jedem Profil
 
-## Kommentarliteratur
-- Wank, Die Auslegung von Gesetzen, 6. Aufl. 2015, Kap. 1-3 (Methodische Kernkompetenz fuer alle Profile)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, Einl. (Verwaltungsrecht-Basics fuer alle Bundeslaender)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.
@@ -73,7 +69,7 @@ Gilt sofort für alle nachfolgenden Skills in dieser Sitzung und wird in `CLAUDE
 ### `--bundesland`
 
 Fragt nach neuem Bundesland und JAG, prüft Konsistenz:
-> „Nach dem Wechsel von NRW nach Bayern unterscheiden sich die Prüfungsfächer im 1. StEx. Ich aktualisiere das Profil. Bitte bestätige: [neue Fächerliste nach JAG Bayern]."
+> "Nach dem Wechsel von NRW nach Bayern unterscheiden sich die Prüfungsfächer im 1. StEx. Ich aktualisiere das Profil. Bitte bestätige: [neue Fächerliste nach JAG Bayern]."
 
 ### `--fach`
 
@@ -96,7 +92,7 @@ Aktualisiert Prüfungsziel, Prüfungstermin und Repetitorium.
 ### `--reset`
 
 Sicherheitsabfrage:
-> „Du löschst das gesamte Lernprofil. Diese Aktion ist nicht rückgängig zu machen. Danach musst du kaltstart-interview erneut durchlaufen. Fortfahren? (ja / nein)"
+> "Du löschst das gesamte Lernprofil. Diese Aktion ist nicht rückgängig zu machen. Danach musst du kaltstart-interview erneut durchlaufen. Fortfahren? (ja / nein)"
 
 ## Quellen und Zitierweise
 
@@ -125,7 +121,7 @@ Gespeichert in: ~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium
 
 ## Beispiel
 
-**Anfrage:** „Ich habe jetzt auch VwGO als Pflichtfach und möchte auf Drill-Modus wechseln."
+**Anfrage:** "Ich habe jetzt auch VwGO als Pflichtfach und möchte auf Drill-Modus wechseln."
 
 **Ausgabe:**
 
@@ -144,5 +140,5 @@ Auswirkungen:
 
 - **Falsches Bundesland nach Hochschulwechsel nicht aktualisieren:** Alle Examensprognosen und Lernpläne arbeiten mit dem gespeicherten Bundesland. Bei Wechsel immer sofort `--bundesland` ausführen.
 - **Veraltete Lehrveranstaltungen nicht entfernen:** Beendete Fächer im Profil lassen laufen, führt zu Studienplan-Verzerrungen.
-- **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort „nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
+- **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort "nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
 - **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-uebung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-orientierung
-description: "Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Pruefraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Pruef-Skill."
+description: "Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill."
 ---
 
 # Fachanwalt für Bau- und Architektenrecht — Orientierung
@@ -67,21 +67,11 @@ description: "Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anh
 
 ## Aktuelle Rechtsprechung BGH VII. Zivilsenat (Auswahl)
 
-- BGH, Urt. v. 24.02.2011 — VII ZR 11/08, NJW 2011, 1789: Für Mehrkostenforderungen bei Bauablaufstörungen ist eine konkrete bauablaufbezogene Darstellung zwingend; pauschale Behauptungen genügen nicht — SOLL/IST-Vergleich erforderlich.
-- BGH, Urt. v. 25.09.2014 — VII ZR 244/12, NJW 2014, 3642: Beweislastumkehr nach Abnahme — nach wirksamer Abnahme muss der Auftraggeber den Mangel beweisen; davor trägt der Auftragnehmer den Beweis der Mangelfreiheit.
-- BGH, Urt. v. 22.06.2017 — VII ZR 37/16, NJW 2017, 2832: Abnahmeverweigerung ist nur bei wesentlichen Mängeln berechtigt; unwesentliche Mängel berechtigen nur zu Einbehalt nach § 641 Abs. 3 BGB, nicht zur Verweigerung.
-- BGH, Urt. v. 14.05.2020 — VII ZR 174/19, NJW 2020, 2253: HOAI-Mindestsätze nach EuGH (C-377/17) sind gegenüber Unternehmern nicht mehr bindend; Parteivereinbarung entscheidet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Werner/Pastor, Der Bauprozess, 16. Aufl. — Standardwerk Prozessführung privates Baurecht
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl. — umfassender materiellrechtlicher Überblick
-- Ingenstau/Korbion, VOB-Kommentar, 22. Aufl. — VOB/A und VOB/B
-- Kapellmann/Messerschmidt, VOB, 8. Aufl. — VOB/B und VOB/C mit Detailkommentierung
-- Locher/Koeble/Frik, Kommentar zur HOAI, 13. Aufl.
-- Beck'scher Online-Kommentar BGB Werkvertragsrecht (BeckOK BGB) — §§ 631 ff.
-- Grüneberg, BGB-Kommentar, 83. Aufl. — §§ 631–651, 650a–650v
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Bevor du loslegst, kläre
 
 1. **Mandantenrolle**: Bauherr, Auftragnehmer, Architekt/Ingenieur, Subunternehmer, Bauträger, Investor?

@@ -12,7 +12,7 @@ Es ist als leistungsstarker Arbeitsrahmen für erfahrene Transaktionsteams gedac
 | --- | --- |
 | Corporate-Kanzlei Corporate/M&A (`corporate-kanzlei`) | [corporate-kanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/corporate-kanzlei.zip) |
 | Tabellenreview 3D | [tabellenreview-3d.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d.zip) |
-| Gesellschaftsrecht | [gesellschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht.zip) |
+| Gesellschaftsrecht | Normtext, Register-/Gesetzesquellen, bereitgestellte Materialien |
 
 ## Installation
 

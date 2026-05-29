@@ -1,7 +1,7 @@
 {
   "name": "subsumtions-pruefer",
-  "version": "14.2.0",
-  "description": "Interaktiver Subsumtions-Workflow fuer deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden pruefen. Keine Rechtsberatung.",
+  "version": "24.2.0",
+  "description": "Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

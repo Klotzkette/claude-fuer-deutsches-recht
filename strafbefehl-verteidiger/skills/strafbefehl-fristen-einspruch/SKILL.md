@@ -27,18 +27,11 @@ description: "Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellu
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 11.10.2022 - 4 StR 194/22, NStZ 2023, 184 — Wiedereinsetzung nach § 44 StPO setzt ungenutztes Verschulden voraus; kein Verschulden bei unrichtiger Fristberechnung durch das Gericht, wenn Verteidiger keinen Anlass hatte die Berechnung zu ueberpruefen.
-- OLG Hamm, Beschl. v. 14.06.2021 - 5 RVs 43/21, NZV 2021, 531 — Zustellungsfiktion nach § 180 ZPO (Einwurf-Einschreiben) gilt auch im Strafbefehlsverfahren; Mandant muss konkrete Umstaende darlegen, die Kenntnisnahme zum spaeteren Zeitpunkt belegen.
-- OLG Koeln, Beschl. v. 23.03.2020 - 2 RVs 31/20, NStZ-RR 2020, 246 — Beschraenkung des Einspruchs auf Rechtsfolgen nach § 410 Abs. 2 StPO bindet das Gericht; Schuldspruch wird rechtskraeftig und kann in der Hauptverhandlung nicht mehr angegriffen werden.
-- BVerfG, Beschl. v. 26.04.2023 - 2 BvR 310/23, NJW 2023, 1951 — Gebot des fairen Verfahrens (Art. 6 EMRK, Art. 2 Abs. 1 GG) verlangt, dass dem Beschuldigten bei Nichtwissen des Zustellungszeitpunkts der Zugang zu Wiedereinsetzungsmitteln erhalten bleibt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 410 Rn. 1-25 (Einspruch, Beschraenkung, Frist)
-- Meyer-Gossner/Schmitt StPO § 44 Rn. 1-30 (Wiedereinsetzung)
-- LR-StPO / Jaenicke § 410 (Strafbefehlseinspruch in der Praxis)
-- Fischer StGB § 46 Rn. 1-80 (Strafzumessung, relevant fuer beschraenkten Einspruch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Frist sofort berechnen und dokumentieren:** Zugangsdatum (aus Zustellungsurkunde oder Mandantenangabe) + 14 Tage = Fristende; in Fristenkalender einpflegen, 3-Tage-Vorlauf-Wiedervorlage setzen.

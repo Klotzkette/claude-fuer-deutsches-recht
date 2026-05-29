@@ -24,14 +24,11 @@ description: "Corporate Billing Narratives: Erstellt deal-taugliche Time Narrati
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.10.2014 - IX ZR 270/13, NJW 2015, 159 — Honorarvereinbarung: Stundenhonorar mit offenem Budget-Rahmen ist wirksam; Kanzlei muss aber rechtzeitig warnen wenn Rahmen zu ueberschreiten droht; Unterlassung der Warnung kann Honorarminderung ausloesen
-- BGH, Urt. v. 11.12.2014 - IX ZR 12/14, NJW 2015, 1383 — Mandant kann Honorar in gewissem Rahmen antasten wenn Kanzlei uebermaessig abgerechnet hat (Kontrolle nach § 307 BGB bei standard. Vertraegen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Pruestell BRAO § 49b Rn. 1 ff. — Vergaerrecht und Erfolgshonorar
-- Zuck/Lissner BRAO § 49b — Stundenhonorar; Transparenz
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Narrative-Typen und Formulierungen
 
 ### Allgemeine Time-Narrative-Formel
@@ -97,12 +94,12 @@ IBAN: [IBAN]
 ## Rote Schwellen
 
 - Narrative enthaelt mandatsgeheimnisrelevante Details → § 43a BRAO; Vertraulichkeitspflicht
-- Budget-Warnung unterlassen → BGH IX ZR 270/13; Honorarminderungsrisiko
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechnungsadresse falsch (Fonds statt Portfolio-Gesellschaft) → Mehrwertsteuer-Problem
 - E-Rechnung-Pflicht ab 2025 nicht beachtet → § 14a UStG-Verstoss; Abzugsfaehigkeit fraglich
 
 ## Quellen
 
 - § 49b BRAO; §§ 14, 14a UStG; §§ 3a, 4 BORA; GoBD
-- BGH IX ZR 270/13 (Budget-Warnung); BGH IX ZR 12/14 (Honorarkontrolle)
-- Henssler/Pruestell BRAO § 49b
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.

@@ -1,6 +1,6 @@
 ---
 name: stb-datentransfer-mandant-cloud-dsgvo
-description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Pruefung der DSGVO-Konformitaet beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Pruefliste. Output DSGVO-Compliance-Dokument."
+description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument."
 ---
 
 # Datentransfer Mandant-Cloud — DSGVO-Aspekte
@@ -99,7 +99,7 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 ## Strategie und Praxis-Tipps
 
 - Die Berufsverschwiegenheit nach § 57 StBerG ist durch § 203 Abs. 1 Nr. 3 StGB strafrechtlich abgesichert; die Einbeziehung externer Dienstleister (Cloud-Anbieter) erfordert nach § 203 Abs. 3, 4 StGB die schriftliche Verpflichtung des Dienstleisters auf die Schweigepflicht — entsprechende Klauseln im AVV pruefen.
-- Schrems II (EuGH v. 16.07.2020, C-311/18) hat den Privacy Shield gekippt; bei USA-Cloud-Diensten zusaetzliche Schutzmassnahmen (Standardvertragsklauseln, Transfer Impact Assessment, ggf. Verschluesselung) zwingend; EU-Hosting bevorzugen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DSGVO-Bussgelder bis 20 Mio. EUR oder 4 % des weltweiten Jahresumsatzes (Art. 83 Abs. 5 DSGVO) — Compliance unverzichtbar.
 - Jaehrliche DSGVO-Pruefung im Kanzleiteam (Verzeichnis Verarbeitungstaetigkeiten, AVV-Mappe, TOM-Liste aktualisieren).
 - StBVV: DSGVO-Compliance-Beratung fuer Mandanten als separater Auftrag nach § 13 StBVV (Beratung) oder als Bestandteil der Buchfuehrungspauschale.

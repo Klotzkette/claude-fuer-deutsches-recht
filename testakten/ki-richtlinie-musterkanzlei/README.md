@@ -1,8 +1,17 @@
 # Testakte: KI-Richtlinie Musterkanzlei
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-ki-richtlinie-musterkanzlei` (diese Akte) | [testakte-ki-richtlinie-musterkanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 ## Übersicht
 
-Diese Testakte enthält einen **generischen Muster-Entwurf einer KI-Nutzungsrichtlinie** für die fiktive Anwaltskanzlei „Mustermann & Musterfrau Rechtsanwälte PartG mbB". Das Dokument dient ausschließlich als Vorlage und Demonstrationsmaterial für das Plugin `ki-richtlinie-kanzleien`.
+Diese Testakte enthält einen **generischen Muster-Entwurf einer KI-Nutzungsrichtlinie** für die fiktive Anwaltskanzlei "Mustermann & Musterfrau Rechtsanwälte PartG mbB". Das Dokument dient ausschließlich als Vorlage und Demonstrationsmaterial für das Plugin `ki-richtlinie-kanzleien`.
 
 ## Zweck
 

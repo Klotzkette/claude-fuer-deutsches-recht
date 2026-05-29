@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschaftsvertrag-gmbh
-description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Pruefraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gruendung mit Musterprotokoll § 2 Abs. 1a GmbHG."
+description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll § 2 Abs. 1a GmbHG."
 ---
 
 # GmbH-Gesellschaftsvertrag (Satzung)
@@ -26,17 +26,11 @@ description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 27.01.1997 - II ZR 123/94, BGHZ 134, 333 — § 181 BGB Befreiung: muss ausdrücklich in Satzung erteilt werden; ohne Befreiung sind In-sich-Geschäfte des GF schwebend unwirksam; nachträgliche Genehmigung durch Gesellschaft möglich.
-- BGH, Urt. v. 19.09.2005 - II ZR 173/04, BGHZ 164, 107 — Einziehungsklausel in Satzung (§ 34 GmbHG): ohne explizite Einziehungsklausel ist zwangsweise Einziehung unzulässig; Leaver-Mechanismus im SHA allein reicht nicht.
-- BGH, Urt. v. 17.02.1997 - II ZR 41/96, BGHZ 134, 364 — Abfindungsklauseln: Beschränkung auf Buchwert ist zulässig, solange kein offensichtliches Missverhältnis zum Verkehrswert besteht; extreme Buchwert-Abfindung kann sittenwidrig sein (§ 138 BGB).
-- OLG Köln, Beschl. v. 03.03.2021 - 18 W 16/20, GmbHR 2021, 532 — Geschäftsgegenstand-Klausel: zu allgemeine Formulierung wird vom HR-Gericht durch Zwischenverfügung beanstandet; Konkretheit erforderlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 3 Rn. 1-30 (Pflichtangaben, Gegenstand)
-- Lutter/Hommelhoff, GmbHG, § 34 Rn. 1-30 (Einziehung, Abfindung, Leaver-Klauseln)
-- Baumbach/Hueck, GmbHG, § 15 Rn. 60-80 (Vinkulierung, Vorkaufsrechte)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht-Inhalte § 3 GmbHG
 
 | Pflichtangabe | Inhalt | Fallstrick |
@@ -138,8 +132,7 @@ Version: [Nr.], Datum: [Datum], Notariell beurkundet: [Datum]
 
 - §§ 2, 3, 15, 34, 47, 53 GmbHG (Satzung, Einziehung, Stimmrecht, Änderung)
 - § 181 BGB (Selbstkontrahierung)
-- BGH II ZR 123/94, BGHZ 134, 333 (§ 181 Befreiung)
-- BGH II ZR 173/04, BGHZ 164, 107 (Einziehungsklausel Pflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 3 Rn. 1-30
 
 ## Übergabe an andere Skills

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kommandocenter
-description: "Kommandocenter fuer alle Geldwaesche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Pruefraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwaesche-verpflichteten-check und geldwaesche-simulation-testlauf."
+description: "Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf."
 ---
 
 # AML/KYC-Kommandocenter
@@ -12,10 +12,7 @@ description: "Kommandocenter fuer alle Geldwaesche- KYC- Sanktions- und Behoerde
 4. Sind echte oder simulierte Daten zu verarbeiten?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — AML-Compliance erfordert systematisches Case Management mit dokumentierter Entscheidungsspur; Einzelfallentscheidungen ohne Aktengrundlage koennen Fahrlässigkeit begruenden.
-- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin prueft nicht nur Einzelfaelle, sondern Systemprozesse; luckenhaftes Kommandocenter-Protokoll begruendet Systemversagen.
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Risikobasiertes AML-System muss alle relevanten Fallkategorien abdecken; Luecken im Routing-System verletzen 4. EU-GeldwaescheRL.
-- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Bearbeitungsrueckstaende bei Verdachtspruefungen erfullen subjektiven Tatbestand des § 261 StGB (Geldwaesche durch Unterlassen).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: Case-Management als Pflichtbestandteil
@@ -23,10 +20,9 @@ description: "Kommandocenter fuer alle Geldwaesche- KYC- Sanktions- und Behoerde
 - § 43 GwG — Verdachtsmeldung: Unverzueglichkeit als Fristmerkmal
 - § 8 GwG — Aufzeichnungspflichten fuer alle Fallvorgaenge
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 4 Rn. 55-90 (Case Management als Sicherungsmassnahme)
-- Bülte in: Schimansky/Bunte/Lwowski Bankrechts-Handbuch, § 145 Rn. 70-100 (AML-Fallesteuerung und Dokumentation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Nutze diesen Skill als Einstieg für jedes AML/KYC-Mandat: Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, Sanktionsscreening, Verdachtsmeldung, Behördenverfahren oder Remediation.

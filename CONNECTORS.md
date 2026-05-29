@@ -6,7 +6,7 @@ Empfohlene MCP-/Tool-Konnektoren für die Arbeit mit diesem Repository. Pflicht:
 
 | Quelle | Hinweis |
 | --- | --- |
-| Beck-Online | NJW, NZA, ZIP, MüKo, BeckOK, Grüneberg etc. Lizenzpflichtig. |
+| Beck-Online | Lizenzpflichtige juristische Datenbank für Quellenprüfung; nur verwenden, wenn ein konkreter lizenzierter Zugriff besteht. |
 | juris | BGH-, BVerfG-, OLG-Rechtsprechung; Fundstellenverknüpfung. |
 | Otto Schmidt Online | ZIP, GmbHR, AG, MwStR. |
 | Wolters Kluwer Online | NZG, BB, DStR. |

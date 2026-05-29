@@ -17,9 +17,9 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 1. ZIP herunterladen (Link oben).
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Plugin erscheint in der Plugin-Liste; alle 20 Skills sind sofort verfügbar.
+3. Plugin erscheint in der Plugin-Liste; alle 21 Skills sind sofort verfügbar.
 4. Für Updates: neues ZIP herunterladen und Plugin ersetzen.
-5. Hinweis: Das Plugin-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten — nicht das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
+5. Hinweis: Das Plugin-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten — nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Überblick
 
@@ -70,7 +70,7 @@ Das Plugin `aktenauszug-gerichtsverfahren` generiert strukturierte Aktenauszüge
 
 Ausführliche Erläuterung der Methodik unter [references/methodik.md](references/methodik.md).
 
-Das Plugin folgt dem Grundsatz, dass ein Aktenauszug kein Kurzgutachten und keine Klageschrift ist, sondern ein strukturiertes Arbeitsinstrument für den anwaltlichen Alltag. Der Workflow orientiert sich an der etablierten anwaltlichen Praxis der Aktenaufbereitung, wie sie in Kommentaren zur ZPO (Zöller, Thomas/Putzo) und in der anwaltlichen Ausbildungsliteratur beschrieben wird.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beispielprompt
 

@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-erlaeuterungstext-mandant
-description: "Erlaeuterungstext unter der BWA fuer den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anhang zur BWA Querverweis stb-bwa-mandantengespraech-uebergabe."
+description: "Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anhang zur BWA Querverweis stb-bwa-mandantengespraech-uebergabe."
 ---
 
 # Erlaeuterungstext zur BWA fuer den Mandanten

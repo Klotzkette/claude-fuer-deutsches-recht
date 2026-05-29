@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung
-description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung. Normen: §§ 535 536 556 573 BGB, WEG. Pruefraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
+description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kündigung. Normen: §§ 535 536 556 573 BGB, WEG. Prüfraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
 ---
 
 # Mieteranfragen Bearbeitung
@@ -54,7 +54,7 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 ## Pinpoint-Zitierregel
 
 BGH zitiert mit Datum Aktenzeichen Fundstelle Randnummer. Beispiel:
-BGH Urteil vom 18. März 2015 — VIII ZR 242/13 NJW 2015 S. 1594
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rn. 17. Juengere Entscheidungen stehen oben.
 
 ## Anti-Risiko-Hinweis
@@ -79,8 +79,7 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113 Rn. 28: Bei Schimmelbefall tragt der Vermieter die Darlegungs- und Beweislast dafuer, dass der Mieter die Ursache durch unzureichendes Lueften oder Heizen gesetzt hat; pauschale Hinweise auf Nutzerverhalten genuegen nicht.
-- BGH, Urt. v. 19.01.2022 — VIII ZR 123/21, NJW 2022, 945 Rn. 20: Der Widerspruch des Mieters nach § 574 BGB gegen die Eigenbedarfskuendigung muss die Haertegrunde konkret benennen; allgemeine Haertevorbehalterklaerungen genuegen nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -90,14 +89,6 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - Mietpreisbremse: §§ 556d ff. BGB
 - Betriebskosten: § 556 Abs. 3 BGB, BetrKV
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 536 ff. Rn. 1 ff. Mangelrechte
-- BeckOK Mietrecht — §§ 556d ff. Mietpreisbremse
-- Staudinger, BGB §§ 535–580a — vertiefende Dogmatik
-
----
-<!-- AUDIT 27.05.2026 bundle_004 -->
-**Halluzinations-Audit 27.05.2026**
-- BGH VIII ZR 226/20 (behauptet Urt. v. 29.09.2021, NJW 2021 3593 Rn. 22, Mietpreisbremse-Ruege): Auf dejure.org nicht gefunden. Eintrag geloescht.
-- BGH VIII ZR 228/20 (behauptet Urt. v. 09.02.2022, NJW 2022 1380 Rn. 25, Mietkautionsrueckgabe): Auf dejure.org nicht gefunden. Eintrag geloescht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

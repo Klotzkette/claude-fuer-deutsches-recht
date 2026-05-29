@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-ki-governance-berufsrecht
-description: "KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen fuer den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation fuer BJR-Schutz."
+description: "KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen für den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation für BJR-Schutz."
 ---
 
 # KI-Governance und Berufsrecht
@@ -25,16 +25,12 @@ description: "KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen fuer d
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.01.2022 - V ZR 192/20, NJW 2022, 1009 — Anwaltshaftung fuer falsche Auskuenfte: Anwalt haftet wenn er ungepruefte Ergebnisse (auch von Datenbanken) weitergibt; fuer KI-generierte Ergebnisse gilt gleiches Qualitaetssicherungs-Gebot
-- BVerfG, Beschl. v. 08.06.2021 - 1 BvR 2771/18 — Berufsfreiheit Anwalt und technische Hilfsmittel: Einsatz von Werkzeugen ist grundsaetzlich erlaubt; Verantwortlichkeit bleibt beim Anwalt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - CCBE/BRAK Stellungnahme 2023 — Berufsrechtliche Hinweise zu KI in Kanzleien: Mandanteninformation empfohlen; keine Verarbeitung mandatsrelevanter Daten ohne Einwilligung in Drittland-KI-Dienste
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Pruestell BRAO § 43a Rn. 1 ff. — Verschwiegenheitspflicht und technische Hilfsmittel
-- Kühling/Buchner DSGVO Art. 28 — Auftragsverarbeitung bei KI-Diensten
-- Wischmeyer, Regulierung kuenstlicher Intelligenz (2020) — EU-KI-VO Ueberblick
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## KI-Risikoklassen (EU-KI-VO): Relevanz fuer Kanzleien
 
 | Risikoklasse | Beispiele | Anforderungen |
@@ -125,5 +121,5 @@ FAZIT: KI-Ergebnisse wurden angemessen geprueft; Eigenverantwortung des Anwalts 
 ## Quellen
 
 - § 43a BRAO; Art. 6, 9, 28 DSGVO; EU-KI-VO (EU) 2024/1689; § 93 AktG
-- BGH V ZR 192/20 (Anwaltshaftung KI-Analogie); BVerfG 1 BvR 2771/18 (Berufsfreiheit)
-- Kühling/Buchner DSGVO Art. 28; Wischmeyer, Regulierung KI (2020)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

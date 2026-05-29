@@ -1,6 +1,6 @@
 ---
 name: strafprozessuale-regelung-pruefen
-description: "Pruefe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot fuer Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenueber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz."
+description: "Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenüber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz."
 ---
 
 # Strafprozessuale Regelung prüfen
@@ -69,10 +69,7 @@ Tabellarische Bewertung. Defizite fließen in den Rückfragebrief und in die Kla
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14–28: § 53a StPO erstreckt das Zeugnisverweigerungsrecht auf Berufshelfer; Voraussetzung ist, dass die Person bei der Berufstätigkeit mitwirkt; KI-Dienstleister kann unter diese Norm fallen, wenn er zur Berufsausübung des Anwalts mitwirkt.
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 55–70: Beschlagnahmeschutz nach § 97 StPO gilt für Unterlagen, die dem Anwalt zur Ausübung seines Mandats übergeben wurden; der Schutz erfordert, dass das Dokument tatsächlich in der Anwaltssphäre liegt; Serverspeicherung beim Dienstleister kann den Schutz gefährden.
-- BGH, Beschl. v. 05.04.2017 — StB 6/17, BGHSt 62, 74 Rn. 22: Zur Reichweite des § 97 StPO; der Beschlagnahmeschutz gilt nur für Unterlagen, die sich im Gewahrsam des Verteidigers befinden — bei Cloud-Speicherung ist Gewahrsam des Dienstleisters zu klären.
-- OLG Frankfurt, Beschl. v. 20.12.2018 — 1 Ws 110/18, NJW 2019, 712 Rn. 15: Zur Frage der Beschlagnahme von E-Mails beim Provider; Beschlagnahmeschutz nach § 97 StPO greift auch bei Provider-Speicherung, wenn Provider als Berufshelfer i.S.d. § 53a StPO anzusehen ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -81,11 +78,9 @@ Tabellarische Bewertung. Defizite fließen in den Rückfragebrief und in die Kla
 - § 203 Abs. 4 StGB — Pflicht des Berufsgeheimnisträgers, den Dienstleister auf §§ 203/204 StGB hinzuweisen
 - §§ 43e Abs. 3, 62a Abs. 3 StBerG etc. — Vertragsinhalt
 
-## Kommentarliteratur
+## Quellenregel
 
-- Löwe/Rosenberg StPO, 27. Aufl. 2022, § 97 Rn. 1–80: Ausführlich zum Beschlagnahmeverbot; sachlicher und persönlicher Schutzbereich; Unterlagen bei Dritten.
-- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 70–80: Zur Sekundärpflicht nach § 203 Abs. 4 Satz 2 Nr. 1 StGB; der Berufsgeheimnisträger muss den Dienstleister zur Verschwiegenheit und zur Widerstandspflicht gegenüber behördlichen Zugriffen anhalten.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Ist im Vertrag geregelt, wie der Dienstleister mit behördlichen Auskunftsersuchen umgeht?

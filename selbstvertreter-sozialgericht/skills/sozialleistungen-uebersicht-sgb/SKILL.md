@@ -1,6 +1,6 @@
 ---
 name: sozialleistungen-uebersicht-sgb
-description: "Ueberblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zustaendig fuer was. Welche Leistung in welchem Buch. Praktischer Leitfaden fuer Buerger."
+description: "Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger."
 ---
 
 # Sozialleistungen — Uebersicht aller SGB

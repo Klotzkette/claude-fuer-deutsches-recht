@@ -1,7 +1,7 @@
 {
   "name": "legistik-werkstatt",
-  "version": "14.2.0",
-  "description": "Legistik-Werkstatt fuer Bundes- und Landesministerien. Erstellt Referentenentwuerfe Kabinettsentwuerfe Formulierungshilfen Rechtsverordnungen Satzungen mit Begruendung Synopse Lesefassung XML. Pruefung Verfassungsrecht Europarecht Folgenabschaetzung Goldplating. DOCX im offiziellen HdR-Layout.",
+  "version": "24.2.0",
+  "description": "Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -13,6 +13,13 @@
     "referentenentwurf",
     "kabinettsentwurf",
     "formulierungshilfe",
+    "aenderungsantrag",
+    "entschliessungsantrag",
+    "parlamentarischer-antrag",
+    "bundestag",
+    "landtag",
+    "fraktion",
+    "opposition",
     "rechtsverordnung",
     "satzung",
     "begruendung",

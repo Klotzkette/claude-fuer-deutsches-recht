@@ -1,6 +1,6 @@
 ---
 name: ausschluss-817-bgb-gesetzes-und-sittenverstoss
-description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Pruefraster: beiderseitiger Verstoss, Sperrwirkung, enge Rueckausnahmen nach h.M. Output: Pruefergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
+description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoß, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
 ---
 
 # Ausschluss nach § 817 BGB — Gesetzes- und Sittenverstoß
@@ -19,20 +19,17 @@ description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen
 
 ## Rechtsprechung
 
-BGH, Urt. v. 31.05.1990 – VII ZR 336/89, NJW 1990, 2542 — Bei beiderseitiger Schwarzarbeit greift § 817 S. 2 BGB; der Werkunternehmer kann den Werklohn nicht zurückfordern, weil er selbst gegen § 1 Abs. 2 SchwarzArbG verstoßen hat (in pari turpitudine melior est causa possidentis).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 10.04.2014 – VII ZR 241/13, NJW 2014, 1805 — § 817 S. 2 BGB ist teleologisch zu reduzieren, wenn das Verbotsgesetz ausschließlich den Leistenden schützt; in diesem Fall ist die Rückforderung nicht ausgeschlossen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 23.02.2005 – VIII ZR 129/04, NJW 2005, 1490 — Wer durch arglistige Täuschung (§ 123 BGB) zur Leistung veranlasst wurde, kann trotz eigenem Gesetzes- oder Sittenverstoß zurückfordern; § 817 S. 2 BGB wird insoweit teleologisch reduziert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 14.12.2016 – IV ZR 7/15, NJW 2017, 956 — § 817 S. 2 BGB findet auf Rückforderungsansprüche nach § 813 BGB entsprechende Anwendung; die Sperrwirkung erfasst auch Kondiktionen wegen dauernder Einreden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 817 Rn. 1–60 (beiderseitiger Verstoß, teleologische Reduktion).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 817 Rn. 1–20 (Schwarzarbeit, Rückausnahmen).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 817 Rn. 1–55 (Verbotsgesetze, Sittenwidrigkeit, Schutzzweck).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Norm
 
 § 817 BGB regelt zwei Fallgruppen:
@@ -95,4 +92,3 @@ Sachverhalt (kurz): [...]
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 336/89 (NJW 1990, 2542) auf dejure.org verifiziert — Aktenzeichen und Thema (Schwarzarbeit II, § 817 S. 2 BGB) sind korrekt. Kein Aenderungsbedarf. -->

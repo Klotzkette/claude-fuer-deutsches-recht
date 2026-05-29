@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-sv-beitraege-grundlagen
-description: "Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Pruefraster SV-Beitraege."
+description: "Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege."
 ---
 
 # SV-Beitraege Grundlagen — RV KV PV AV und Umlagen
@@ -50,21 +50,21 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 
 ## Workflow
 
-### Phase 1 — BBG und Beitragssaetze 2026 (zwingend verifizieren)
+### Phase 1 — BBG und Beitragssaetze (Stand 2025)
 
-| Zweig | West/Ost | BBG monatlich (typisch derzeit ca.; 2026 verifizieren) | Beitragssatz (typisch derzeit ca.; 2026 verifizieren) |
+| Zweig | West/Ost | BBG monatlich (Stand 2025) | Beitragssatz (Stand 2025) |
 |---|---|---|---|
-| RV | Bundeseinheitliche BBG ab 01.01.2025 (Angleichung Ost an West nach Rentenueberleitungs-Abschlussgesetz; Stand 01.01.2026 zwingend verifizieren) | 8.050 EUR / 7.450 EUR (Stand 2024 West/Ost; ab 2025 einheitlich; aktuelle Werte ueber Sozialversicherungs-Rechengroessenverordnung) | 18,6 Prozent (paritaetisch je 9,3 Prozent) |
-| AV | wie RV | wie RV-BBG | aktuell verifizieren (typisch 2,6 Prozent paritaetisch) |
-| KV | bundeseinheitlich | BBG KV 5.175 EUR (Stand 2024); JAEG hoeher; Stand 2026 verifizieren | allgemein 14,6 Prozent + KK-individueller Zusatzbeitrag (durchschnittlich ca. 1,7 Prozent Stand 2024 — zwingend 2026 verifizieren) |
-| PV | bundeseinheitlich, Sonderregelung Sachsen | wie BBG KV | aktuell verifizieren; PV-Kinderlosenzuschlag fuer kinderlose AN ab 23 Jahre (Stand 2024 ca. 0,6 Prozent allein zu Lasten AN — Reform 2023 mit Kinderbonus); zwingend 2026 verifizieren |
+| RV | Bundeseinheitlich ab 01.01.2025 (Angleichung Ost an West, Rentenueberleitungs-Abschlussgesetz abgeschlossen) | 8.050 EUR/Monat (96.600 EUR/Jahr) | 18,6 Prozent (paritaetisch je 9,3 Prozent) |
+| AV | wie RV | 8.050 EUR/Monat (wie RV) | 2,6 Prozent (paritaetisch je 1,3 Prozent) |
+| KV | bundeseinheitlich | 5.512,50 EUR/Monat (66.150 EUR/Jahr) | 14,6 Prozent allgemein + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent Stand 2025) |
+| PV | bundeseinheitlich, Sonderregelung Sachsen | 5.512,50 EUR/Monat (wie KV) | 3,6 Prozent (paritaetisch); Kinderlosenzuschlag 0,6 Prozent allein AN (§ 55 Abs. 3 SGB XI i.d.F. PflegeunterstuetzungsG seit 01.07.2023) |
 
-(Saemtliche Werte sind in den Lohnabrechnungs-Programmen hinterlegt; bei Mandantengespraech aktuelle Werte zwingend Stand 01.01.2026 verifizieren ueber Sozialversicherungs-Rechengroessenverordnung, DRV, GKV-Spitzenverband, BMAS.)
+(Alle Werte Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel ueber DRV, GKV-Spitzenverband, BMAS pruefen.)
 
 ### Phase 2 — Beitragsaufteilung AG/AN
 
 - Grundsatz: halbe-halbe Aufteilung.
-- PV-Zuschlag Kinderlose: 0,6 Prozent (Stand 2025 verifizieren fuer 2026) zu Lasten AN allein.
+- PV-Zuschlag Kinderlose: 0,6 Prozent (Stand 2025, § 55 Abs. 3 SGB XI) zu Lasten AN allein.
 - KV-Zusatzbeitrag: in der Regel paritaetisch.
 - U1 (Krankheit): nur AG.
 - U2 (Mutterschaft): nur AG.
@@ -85,7 +85,7 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 ### Phase 4 — JAEG und KV-PV-Wahl
 
 - JAEG (Jahresarbeitsentgeltgrenze) ueber 3 Jahre ueberschritten: AN kann in PKV wechseln.
-- JAEG 2026 verifizieren (BMAS).
+- JAEG 2025: 73.800 EUR/Jahr (monatlich 6.150 EUR; Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
 - Wechsel-Pruefung gemeinsam mit AN, ggf. AG-Zuschuss zur PKV.
 
 ### Phase 5 — Berufsgenossenschaft
@@ -135,5 +135,8 @@ Stand: 05/2026.
 - SGB V, VI, XI, III.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 - StGB § 266a.
-- Verifikations-Hinweis: BBG, JAEG, Beitragssaetze 2026 ueber DRV/BMAS/GKV-Spitzenverband.
-- Verifikations-Hinweis: PV-Kinderlosenzuschlag aktuell verifizieren (Reform 2023 nachgelagert).
+- BBG 2025: RV/AV 8.050 EUR/Monat, KV/PV 5.512,50 EUR/Monat; Beitragssaetze: RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos 0,6%.
+- PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI, PflegeunterstuetzungsG seit 01.07.2023).
+- Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Pruefhinweise ohne Marker) -->

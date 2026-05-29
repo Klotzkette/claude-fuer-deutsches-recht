@@ -1,6 +1,6 @@
 ---
 name: anlageberatungsfehler-pruefen
-description: "Mandant hat Verlust aus Kapitalanlage und prueft ob Bank oder Vermoegensverwalter fehlerhaft beraten hat. Bond-Urteil BGH XI ZR 12/93 anleger- und anlagegerechte Beratung Kickbacks BGH XI ZR 56/05. Normen §§ 280 311 BGB WpHG MiFID-II §§ 63 ff. Pruefraster Beratungsprotokoll Geeignetheitspruefung Aufklaerungspflicht-Inhalt Kausalitaet Schadensberechnung Verjaehrung. Output Schadensersatz-Klageschrift Rueckabwicklungs-Berechnung. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft (Schwerpunkt-Skill) und widerrufsjoker (Widerruf)."
+description: "Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Anlageberatungsfehler prüfen
@@ -15,7 +15,7 @@ Schadensersatzansprüche eines Anlegers gegen seine Bank oder einen Vermögensve
 2. **Welches Produkt wurde empfohlen?** — Fondsanteile, Zertifikate, geschlossener Fonds, Swap, ETF; bestimmt Haftungsgrundlage.
 3. **Liegt ein Beratungsprotokoll vor?** — MiFID-II Pflicht seit 2018 (§ 83 WpHG); fehlende Protokoll-Übersendung = Beweisschwäche Bank.
 4. **Welches Risikoprofil wurde erhoben?** — Anlegergerechte Beratung verlangt Abgleich Risikoprofil mit Produkteinstufung.
-5. **Hat die Bank Rückvergütungen (Kickbacks) erhalten?** — Emittent → Bank = Pflicht zur Aufklärung nach BGH XI ZR 56/05.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **Wie hoch ist der tatsächliche Verlust?** — Eingesetztes Kapital minus aktueller Wert; Differenzhypothese oder negatives Interesse.
 7. **Liegt die Schaden-Realisierung erst in jüngster Zeit vor?** — Verjährungsfrist beginnt mit grober Kenntnis, nicht mit objektivem Eintritt.
 8. **Hat die Bank eine Stellungnahme oder Kulanz-Angebot gemacht?** — Verhandlungsposition einschätzen; Verjährungshemmung bei Verhandlungen § 203 BGB.
@@ -36,7 +36,7 @@ Schadensersatzansprüche eines Anlegers gegen seine Bank oder einen Vermögensve
 | § 64 WpHG | Geeignetheitsprüfung (Beratung): Kunde, Anlageziele, finanzielle Situation, Kenntnisse |
 | § 83 WpHG | Beratungsprotokoll-Pflicht |
 
-### Bond-Urteil (BGH XI ZR 12/93, 06.07.1993)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Das Fundament aller Beratungshaftungs-Fälle:
 
@@ -52,23 +52,18 @@ Das Fundament aller Beratungshaftungs-Fälle:
 - Kostenstruktur (Ausgabeaufschlag, laufende Kosten, Performance-Fee)
 - Steuerliche Wirkung
 
-### Kickback-Linie (BGH XI ZR 56/05, 19.12.2006 u.a.)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Bank muss über **alle Vertriebsvergütungen** aufklären, die sie vom Emittenten/Produktanbieter erhält
 - Aufklärung muss vor Investition erfolgen
-- Innenprovisionen (versteckt im Produkt): ab 15 % Aufklärungspflicht (BGH XI ZR 56/05)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eigeninteresse der Bank begründet Interessenkonflikt → aufklärungsbedürftig
 
 ### Leitentscheidungen
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | XI ZR 12/93 | 06.07.1993 | Bond-Urteil: anleger- und anlagegerechte Beratung |
-| BGH | XI ZR 56/05 | 19.12.2006 | Aufklärung über Rückvergütungen |
-| BGH | XI ZR 320/04 | 12.05.2009 | Vermutung aufklärungsrichtigen Verhaltens |
-| BGH | XI ZR 178/10 | 27.09.2011 | Lehman-Zertifikate: Emittentenrisiko-Aufklärung |
-| BGH | XI ZR 33/10 | 22.03.2011 | CMS Spread Ladder Swap: anfänglicher negativer Marktwert aufklärungspflichtig |
-| BGH | XI ZR 158/11 | 27.09.2011 | Entgangene Verzinsung: 4 % als pauschalierter Vergleichsmaßstab |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Anlageberatungsfehler
 
@@ -76,11 +71,9 @@ Das Fundament aller Beratungshaftungs-Fälle:
 |---|---|---|---|
 | 1 | Beratungsvertrag (konkludent oder schriftlich)? | § 280 BGB | Ohne Vertrag nur c.i.c. |
 | 2 | Risikoprofil erhoben und dokumentiert? | § 64 WpHG | Bank-Gegenbeweis möglich |
-| 3 | Anlegergerechte Beratung: Profil ≠ Produkt? | BGH XI ZR 12/93 | Pflichtverletzung |
-| 4 | Anlagegerecht: Produktrisiken aufgeklärt? | BGH XI ZR 12/93 | Pflichtverletzung |
-| 5 | Kickbacks offengelegt? | BGH XI ZR 56/05 | Schwerer Verstoß |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Beratungsprotokoll erstellt und übergeben? | § 83 WpHG | Beweisschwäche Bank |
-| 7 | Kausalität: hätte ohne Fehler nicht investiert? | BGH XI ZR 320/04 | Vermutung gilt; Bank muss widerlegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Schadenshöhe berechnet? | § 249 BGB | Klageinhalt |
 | 9 | Mitverschulden § 254 BGB? | § 254 BGB | Quotelung des Schadensersatzes |
 | 10 | Verjährung geprüft? | §§ 195, 199 BGB | Klage abgewiesen bei Verjährung |
@@ -92,7 +85,7 @@ Das Fundament aller Beratungshaftungs-Fälle:
 | Inhalt des Beratungsgesprächs | Bank (MiFID-II Protokoll; bei fehlendem Protokoll: Vermutung zu Lasten Bank) |
 | Risikoprofil-Erhebung | Bank |
 | Aufklärung über Kickbacks | Bank |
-| Kausalität (hätte nicht investiert) | Vermutung aufklärungsrichtigen Verhaltens (BGH XI ZR 320/04): Bank muss Vermutung widerlegen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schadenshöhe | Anleger (§ 287 ZPO: Schätzung zulässig) |
 | Mitverschulden | Bank |
 | Verjährung | Bank |
@@ -119,7 +112,7 @@ Schadensumme:                              EUR [Netto]
 Anleger gibt Anlage-Gegenstand zurück
 und erhält:
 - Eingesetztes Kapital zurück
-- Entgangene Verzinsung 4 % p.a. (BGH XI ZR 158/11)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anwaltskosten aus Verzug
 ```
 
@@ -129,7 +122,7 @@ und erhält:
 |---|---|
 | Kursverlust | Kaufkurs ./. aktueller Kurs × Stückzahl |
 | Ausgabeaufschlag | Direkt aus Abrechnung |
-| Entgangene Alternativrendite | 4 % p.a. (BGH XI ZR 158/11) oder konkrete Alternative |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Wertpapierkredit-Zinsen | Wenn kreditfinanziert + Zinsbelastung |
 | Anwaltskosten | § 249 BGB als Verzugsschaden |
 
@@ -139,15 +132,15 @@ und erhält:
 
 - Prospekthaftung im engeren Sinne: §§ 9 VermAnlG, 21 WpPG
 - Prospekthaftung im weiteren Sinne nach BGB: Verletzung von Aufklärungspflichten
-- Pflicht der Bank zur Plausibilitätsprüfung des Prospekts (BGH XI ZR 130/12)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Lehman-Zertifikate (BGH XI ZR 178/10, 27.09.2011)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Aufklärungspflicht über Emittentenrisiko war obligatorisch
 - Rating allein genügte nicht
 - "Investment-Grade" schließt Aufklärungspflicht nicht aus
 
-### CMS Spread Ladder Swap (BGH XI ZR 33/10, 22.03.2011)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Aufklärungspflicht über anfänglichen negativen Marktwert (strukturierter Nachteil für Kunden)
 - Eigeninteresse der Bank offenzulegen
@@ -220,10 +213,9 @@ Kapitalmarktrecht]
 - BGB §§ 195, 199, 249, 254, 280, 311
 - WpHG §§ 63, 64, 83
 - VermAnlG § 9; WpPG § 21
-- BGH XI ZR 12/93; XI ZR 56/05; XI ZR 320/04; XI ZR 178/10; XI ZR 33/10; XI ZR 158/11
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MiFID-II Richtlinie 2014/65/EU
 - Ellenberger/Schäfer/Clouth Praktikerhandbuch Wertpapier- und Derivategeschäft
 
 <!-- AUDIT 27.05.2026 bundle_021
-GELÖSCHT: BGH XI ZR 109/13 (17.10.2013) – NOT_FOUND auf dejure.org; kein XI-Senat-Bankrechtsfall unter diesem AZ nachweisbar; behauptetes Thema (Vorschuss-Anspruch Architekten/Beraterhaftung) gehört nicht zum XI. Zivilsenat.
 -->

@@ -36,7 +36,7 @@ Dieser Fragenkatalog dient der strukturierten Vorbereitung der Zeugenbefragungen
 11. **[E]** War das Mobiltelefon der Angeklagten während der Zeit, als sie Artikel betrachtete, in Benutzung?
 12. **[E]** Hätte es nach Ihrer Einschätzung eine Möglichkeit gegeben, dass jemand in Gedanken oder in einer abgelenkten Situation unbewusst Artikel in einer Tasche verstaut?
 13. **[G]** Haben Sie in Ihrer Tätigkeit bereits Fälle erlebt, in denen Personen Waren versehentlich oder in Ablenkungssituationen einsteckten und das nicht vorsätzlich taten?
-14. **[E]** Sie berichteten, die Angeklagte habe sich beim Einstecken „umgeschaut". Kann dieses Umschauen nicht auch damit zusammenhängen, dass sie ihr Kind oder eine andere Person suchte?
+14. **[E]** Sie berichteten, die Angeklagte habe sich beim Einstecken "umgeschaut". Kann dieses Umschauen nicht auch damit zusammenhängen, dass sie ihr Kind oder eine andere Person suchte?
 
 ### Reaktion der Angeklagten
 
@@ -66,7 +66,7 @@ Dieser Fragenkatalog dient der strukturierten Vorbereitung der Zeugenbefragungen
 
 26. **[E]** Wurde die Angeklagte vollständig und verständlich über ihr Schweigerecht belehrt (§ 136 Abs. 1 StPO)?
 27. **[E]** Hatte die Angeklagte die Möglichkeit, vor der Vernehmung einen Anwalt zu kontaktieren?
-28. **[E]** Ist die Äußerung der Angeklagten „Ich habe das nicht so gewollt" ausdrücklich als Geständnis protokolliert worden, oder als nicht weiter erläuterte Spontanäußerung?
+28. **[E]** Ist die Äußerung der Angeklagten "Ich habe das nicht so gewollt" ausdrücklich als Geständnis protokolliert worden, oder als nicht weiter erläuterte Spontanäußerung?
 
 ### Videoauswertung
 

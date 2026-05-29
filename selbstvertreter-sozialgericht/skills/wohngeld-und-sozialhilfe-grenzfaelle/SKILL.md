@@ -1,6 +1,6 @@
 ---
 name: wohngeld-und-sozialhilfe-grenzfaelle
-description: "Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zustaendig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht."
+description: "Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zuständig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht."
 ---
 
 # Wohngeld und Sozialhilfe — wo gehoeren Sie hin?

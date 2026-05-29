@@ -1,6 +1,6 @@
 ---
 name: klage-zur-niederschrift-90-sgg
-description: "Klage auf der Geschaeftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden fuer Buerger."
+description: "Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger."
 ---
 
 # Klage auf der Geschaeftsstelle diktieren — § 90 SGG

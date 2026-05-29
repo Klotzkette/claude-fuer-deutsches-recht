@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-expert-calls-transkripte
-description: "Expert Calls und Transkript-Auswertung fuer M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Pruefraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate fuer DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests."
+description: "Expert Calls und Transkript-Auswertung für M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Prüfraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate für DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests."
 ---
 
 # Expert Calls und Transkripte
@@ -56,13 +56,11 @@ Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 13.05.2015 - XII ZB 503/13, NJW 2015, 3032 — Tonbandaufnahme: heimliche Aufzeichnung eines Gespraechs ohne Einwilligung ist nach § 201 StGB strafbar und als Beweismittel unverwertbar; schriftliche Einwilligung aller Teilnehmer erforderlich
-- EuGH, Urt. v. 11.03.2015 - C-628/13, NJW 2015, 1716 — MAR: Management-Interviews koennen Insiderinformationen uebertragen; Expert-Call-Teilnehmer sind in Insiderliste aufzunehmen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Assmann/Poetzsch/Schneider, WpUEG, Art. 18 MAR Rn. 1-40 (Insiderliste bei Expert Calls)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Einwilligung sichern:** alle Teilnehmer muessen Aufzeichnung genehmigen; bei boersennotierten Gesellschaften: MAR-Hinweis

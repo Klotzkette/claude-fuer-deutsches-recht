@@ -1,19 +1,19 @@
 ---
 name: bag-freistellungsklausel-unwirksam-5azr10825
-description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kuendigung unwirksam. Eine formularmaessige Klausel die Arbeitgeber nach Ausspruch einer Kuendigung einseitig zur Freistellung unter Fortzahlung berechtigt benachteiligt Arbeitnehmer unangemessen § 307 BGB. Freistellung weiterhin moeglich aber nur mit tragfaehigem Grund im konkreten Fall etwa ueberwiegende schutzwuerdige Interessen des Arbeitgebers. Pauschale Vorratsklausel reicht nicht. Beschaeftigungsanspruch BAG GS 1985."
+description: "Workflow-Skill zu bag freistellungsklausel unwirksam 5azr10825. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
-# BAG 25.03.2026 — Pauschale Freistellungsklausel nach Kündigung unwirksam (5 AZR 108/25)
+# Rechtsprechung live prüfen
 
 ## Worum es geht
 
-Mit der Entscheidung vom 25. März 2026 (Az. 5 AZR 108/25) hat das Bundesarbeitsgericht die verbreitete Standardklausel in Arbeitsverträgen zur einseitigen Freistellung nach Kündigung kassiert. Eine formularmäßige Klausel, die den Arbeitgeber pauschal und ohne weitere Voraussetzung berechtigt, den Arbeitnehmer nach Ausspruch einer Kündigung unter Fortzahlung der Vergütung freizustellen, benachteiligt den Arbeitnehmer unangemessen im Sinne des Paragraf 307 BGB und ist daher unwirksam.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bedeutung für die Praxis
 
 Das Urteil verändert die Verhandlungsposition nach Ausspruch einer Kündigung erheblich. Ohne wirksame Klausel kann der Arbeitgeber nicht mehr einseitig freistellen, sondern braucht im konkreten Einzelfall einen tragfähigen Grund — etwa überwiegende schutzwürdige Interessen wie Geheimhaltungsbedenken, Konkurrenzsorge, Vertrauensverlust nach schwerem Pflichtenverstoß oder erhebliche Störung des Betriebsfriedens.
 
-Der Beschäftigungsanspruch des Arbeitnehmers (BAG, Großer Senat, 27.02.1985 – GS 1/84) bleibt damit auch nach Ausspruch einer ordentlichen Kündigung bis zum Ablauf der Kündigungsfrist grundsätzlich bestehen. Eine Freistellung ist nur noch zulässig, wenn der Arbeitgeber die überwiegenden schutzwürdigen Interessen konkret darlegt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschritte
 
@@ -29,11 +29,11 @@ Der Beschäftigungsanspruch des Arbeitnehmers (BAG, Großer Senat, 27.02.1985 �
 
 ## Argumentationslinie für den Arbeitnehmer
 
-Der Mandant verweist auf den Beschäftigungsanspruch nach der Rechtsprechung des Großen Senats (BAG GS 1/84). Eine formularmäßige Freistellungsklausel im Arbeitsvertrag berechtigt den Arbeitgeber nach der neuen Rechtsprechung (BAG, 25.03.2026 – 5 AZR 108/25) nicht zur einseitigen Freistellung. Konkrete Gründe, die die schutzwürdigen Interessen des Arbeitgebers überwiegen ließen, sind nicht ersichtlich oder vom Arbeitgeber nicht hinreichend dargelegt. Die Freistellung ist daher rechtswidrig; der Mandant hat Anspruch auf tatsächliche Beschäftigung bis zum Ablauf der Kündigungsfrist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Argumentationslinie für den Arbeitgeber
 
-Soll eine Freistellung trotz fehlender Klausel durchgesetzt werden, sind die schutzwürdigen Interessen konkret darzulegen: konkrete Geheimhaltungsbedenken (Zugang zu Kunden, Preisen, Produktentwicklung), konkrete Konkurrenzsorge (geplanter Wechsel zum Wettbewerber, Kundenmitnahme), konkreter Vertrauensverlust (Pflichtenverstoß, der die Kündigung trägt), erhebliche Störung des Betriebsfriedens. Pauschale Hinweise auf „branchenüblich" oder „üblicherweise" genügen nicht.
+Soll eine Freistellung trotz fehlender Klausel durchgesetzt werden, sind die schutzwürdigen Interessen konkret darzulegen: konkrete Geheimhaltungsbedenken (Zugang zu Kunden, Preisen, Produktentwicklung), konkrete Konkurrenzsorge (geplanter Wechsel zum Wettbewerber, Kundenmitnahme), konkreter Vertrauensverlust (Pflichtenverstoß, der die Kündigung trägt), erhebliche Störung des Betriebsfriedens. Pauschale Hinweise auf "branchenüblich" oder "üblicherweise" genügen nicht.
 
 ## Strategische Konsequenzen
 
@@ -46,7 +46,7 @@ Soll eine Freistellung trotz fehlender Klausel durchgesetzt werden, sind die sch
 
 ## Rechtsfolgen
 
-Bei unwirksamer Freistellung besteht der Beschäftigungsanspruch fort. Wird er vom Arbeitgeber verweigert, kommt der Arbeitgeber in Annahmeverzug nach Paragraf 615 BGB; die Vergütung ist ohne Anrechnung von Zwischenverdienst geschuldet, soweit der Mandant trotz Freistellung leistungsbereit ist. Eine Klage auf tatsächliche Beschäftigung ist möglich (BAG GS 1/84), wird in der Praxis aber selten durchgesetzt, weil die Kündigungsfrist regelmäßig vor Urteilsverkündung abläuft.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

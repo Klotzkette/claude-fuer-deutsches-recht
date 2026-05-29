@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-insolvenzreife
-description: "Unternehmen in M&A-Situation oder Krise und Anwalt prueft ob Insolvenzantragspflicht besteht: Zahlungsunfaehigkeit drohende Zahlungsunfaehigkeit Ueberschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Pruefraster Zahlungsunfaehigkeitstest Ueberschuldungspruefung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell)."
+description: "Unternehmen in M&A-Situation oder Krise und Anwalt prüft ob Insolvenzantragspflicht besteht: Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Prüfraster Zahlungsunfähigkeitstest Überschuldungsprüfung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell)."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
@@ -41,12 +41,7 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 277/16 | 19.06.2018 | Zahlungsunfähigkeit ab 10 % Deckungslücke über 3 Wochen; GF muss Liquidität laufend überwachen; Unwissenheit schützt nicht |
-| BGH | II ZR 252/13 | 14.10.2014 | § 15b InsO-Vorgänger: GF haftet für jede Zahlung nach Insolvenzreife; auch Löhne und Lieferantenzahlungen |
-| BGH | II ZR 167/14 | 26.04.2016 | Rangrücktritt: muss schriftlich, ausdrücklich und mit klarem Bezug auf alle betroffenen Verbindlichkeiten vereinbart sein |
-| OLG Düsseldorf | 6 U 68/19 | 10.12.2020 | Steuerberater-Haftung Mittelstand: Steuerberater muss Mandant auf Insolvenzreife-Warnsignale aus BWA hinweisen |
-| BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose: überwiegende Wahrscheinlichkeit; Finanzierungszusagen müssen konkret und belastbar sein |
-| BGH | IX ZR 14/21 | 28.04.2022 | § 15b InsO: Haftungsausnahme bei Zahlung mit Zustimmung der Gläubigergesamtheit; sehr eng ausgelegt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema (Mittelstand)
 
@@ -135,7 +130,7 @@ OPOS Kreditoren [Datum]) teilen wir Ihnen folgende erste Einschätzung mit:
 
 LIQUIDITÄTSSTATUS: Die fälligen Verbindlichkeiten übersteigen die verfügbare Liquidität
 um EUR [X] (ca. [Y] %). Dies überschreitet die BGH-Schwelle für Zahlungsunfähigkeit
-(BGH II ZR 277/16). Die Antragspflicht nach § 15a InsO könnte ausgelöst sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 PERSÖNLICHE HAFTUNG: Bei Eintritt der Zahlungsunfähigkeit sind Sie als Geschäftsführer
 verpflichtet, innerhalb von 3 Wochen Insolvenzantrag zu stellen (§ 15a InsO). Zahlungen,
@@ -223,10 +218,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 19.06.2018, Az. II ZR 277/16 (Zahlungsunfähigkeit, 10 %-Schwelle)
-- BGH, Urt. v. 14.10.2014, Az. II ZR 252/13 (Masseschmälernde Zahlungen)
-- BGH, Urt. v. 26.04.2016, Az. II ZR 167/14 (Rangrücktritt)
-- BGH, Urt. v. 19.12.2013, Az. IX ZR 61/12 (Fortbestehensprognose)
-- BGH, Urt. v. 28.04.2022, Az. IX ZR 14/21 (§ 15b InsO-Haftungsausnahme)
-- OLG Düsseldorf, Urt. v. 10.12.2020, Az. 6 U 68/19 (Steuerberater-Haftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 15a, 15b, 17, 18, 19 InsO; §§ 1–93 StaRUG; § 43 GmbHG; §§ 823, 826 BGB

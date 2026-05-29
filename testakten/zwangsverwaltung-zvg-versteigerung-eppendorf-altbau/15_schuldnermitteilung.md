@@ -58,7 +58,7 @@ Das Objekt ist seit dem 01.11.2021 an Herrn **L. Sommer** (fiktiv) zu Wohnzwecke
 
 Mietrückstände bestehen zum Berichtszeitpunkt (03.06.2026) nicht. Die Miete wird pünktlich überwiesen.
 
-**Nutzungsunklarheit:** Wie bereits im Gutachten dokumentiert (Az. 2026-HH-117), wurden am Klingelschild drei Namen und am Briefkasten die Bezeichnung „Atelier Nordbogen" festgestellt. Eine tatsächliche Klärung der Nutzung war mir als Zwangsverwalter nicht möglich. Der Mieter bestreitet jede gewerbliche Nutzung. Eine Innenbesichtigung wurde trotz mehrfacher Anfrage nicht gestattet. Ich habe diesbezüglich Herr L. Sommer mit Schreiben vom 14.04.2026 und 12.05.2026 in Verzug gesetzt und empfehle dem Vollstreckungsgericht, dies den Bietern im Versteigerungstermin mitzuteilen.
+**Nutzungsunklarheit:** Wie bereits im Gutachten dokumentiert (Az. 2026-HH-117), wurden am Klingelschild drei Namen und am Briefkasten die Bezeichnung "Atelier Nordbogen" festgestellt. Eine tatsächliche Klärung der Nutzung war mir als Zwangsverwalter nicht möglich. Der Mieter bestreitet jede gewerbliche Nutzung. Eine Innenbesichtigung wurde trotz mehrfacher Anfrage nicht gestattet. Ich habe diesbezüglich Herr L. Sommer mit Schreiben vom 14.04.2026 und 12.05.2026 in Verzug gesetzt und empfehle dem Vollstreckungsgericht, dies den Bietern im Versteigerungstermin mitzuteilen.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschaftervereinbarung
-description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Pruefraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell)."
+description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Prüfraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell)."
 ---
 
 # Gesellschaftervereinbarung (Shareholder Agreement)
@@ -24,29 +24,20 @@ description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag en
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.09.2017 - II ZR 174/16, NJW 2018, 298 Rn. 14 — Stimmbindungsvertrag (SHA) wirkt nur schuldrechtlich; GV-Beschluss entgegen Stimmbindung ist nicht automatisch nichtig, sondern verletzt nur SHA; Remedy: Schadensersatz oder einstweilige Verfügung.
-- BGH, Urt. v. 19.09.2005 - II ZR 173/04, BGHZ 164, 107 — Bad-Leaver-Einziehung: sachliche Rechtfertigung zwingend; willkürliche Hinauskündigungsklauseln ohne sachliche Rechtfertigung sind unwirksam; Vesting an Beschäftigungsdauer ist sachlich gerechtfertigt.
-- BGH, Urt. v. 04.03.2002 - II ZR 77/00, NJW 2002, 1875 — nachvertragliches Wettbewerbsverbot GF: ohne Karenzentschädigung (analog § 74 Abs. 2 HGB: mindestens 50 % letztes Gehalt) ist zweijähriges Verbot sittenwidrig (§ 138 BGB).
-- OLG Frankfurt, Urt. v. 12.11.2019 - 5 U 32/19, NZG 2020, 428 — Drag-Along: Mehrheitsgesellschafter darf Minderheit mitziehen, wenn alle Gesellschafter zu gleichen Konditionen verkaufen; Schlechterstellung der Minderheit durch abweichende Konditionen ist treuwidrig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Winter, GmbHG, § 15 Rn. 1-40 (Abtretung, Vinkulierung, Leaver-Klauseln)
-- Lutter/Hommelhoff, GmbHG, § 34 Rn. 1-30 (Einziehung, Abfindung, Vesting)
-- Baumbach/Hueck, GmbHG, § 47 Rn. 30-50 (Stimmbindung, Stimmrecht SHA)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## SHA-Baustein-Übersicht
 
 | Klausel | Zweck | Satzungspflicht | BGH-Referenz |
 |---|---|---|---|
-| Vesting / Cliff | Gründer verdient Anteile über Zeit | Einziehungsmechanismus in Satzung (§ 34 GmbHG) | BGH II ZR 173/04 |
-| Good Leaver | Scheidet unter würdigen Umständen aus | Abfindung fair value / Buchwert | BGH II ZR 173/04 |
-| Bad Leaver | Scheidet unter unwürdigen Umständen aus | Abfindung Nominalwert | BGH II ZR 173/04 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vorkaufsrecht | Bestehende Gesellschafter haben Vorrang | Empfohlen in Satzung (§ 15 Abs. 5) | — |
 | Drag-Along | Mehrheit zwingt Minderheit zum Mitverkauf | Satzung empfohlen | OLG Frankfurt |
 | Tag-Along | Minderheit darf beim Mehrheitsverkauf mitfahren | Schuldrechtlich ausreichend | — |
-| Wettbewerbsverbot | GF/Gründer darf nicht bei Wettbewerber | Ohne Karenzentschädigung § 138 BGB-Risiko | BGH II ZR 77/00 |
-| Stimmbindung | Gesellschafter stimmen gemeinsam | Nur schuldrechtlich; nicht dinglich | BGH II ZR 174/16 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Informationsrechte Investor | Quortalsbericht, Jahresabschluss | Schuldrechtlich ausreichend | — |
 | Schiedsklausel DIS | Streitigkeiten vor Schiedsgericht | Formell: §§ 1029 ff. ZPO | — |
 
@@ -139,7 +130,7 @@ SPRACHE: [Deutsch / Englisch / Bilingual]
 
 ## Rote Schwellen
 
-- Leaver-Klausel ohne sachliche Rechtfertigung → sittenwidrig (§ 138 BGB) oder Hinauskündigungsklausel-Problem (BGH II ZR 173/04).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stimmbindung ohne Einziehungsmechanismus in Satzung → kein dinglicher Effekt; nur Schadensersatz bei Verletzung.
 - Wettbewerbsverbot ohne Karenzentschädigung → § 138 BGB Sittenwidrigkeitsrisiko; Schadensersatz statt Unterlassung.
 - Drag-Along mit Schlechterstellung der Minderheit → treuwidrig (OLG Frankfurt); anfechtbar.
@@ -150,9 +141,7 @@ SPRACHE: [Deutsch / Englisch / Bilingual]
 - §§ 15, 34, 47 GmbHG (Anteilsübertragung, Einziehung, Stimmrecht)
 - §§ 74, 74a HGB (nachvertragliches Wettbewerbsverbot)
 - §§ 1029 ff. ZPO / DIS-SchO 2021 (Schiedsverfahren)
-- BGH II ZR 174/16, NJW 2018, 298 (Stimmbindung)
-- BGH II ZR 173/04, BGHZ 164, 107 (Bad-Leaver, Hinauskündigung)
-- BGH II ZR 77/00, NJW 2002, 1875 (Wettbewerbsverbot GF)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übergabe an andere Skills
 

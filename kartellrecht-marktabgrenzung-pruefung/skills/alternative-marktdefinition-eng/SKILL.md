@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-eng
-description: "Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Pruefraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begruendung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begruendungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit fuer die andere Richtung."
+description: "Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begründung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begründungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit für die andere Richtung."
 ---
 
 # Alternative Marktdefinition — Enger
@@ -32,9 +32,8 @@ Kriterien für den Ausschluss:
 ### Schritt 3: Juristische Begründung
 
 Referenz auf Rechtsprechung, die engere Definitionen stützt:
-- EuGH Rs. 27/76 — *United Brands*: Bananen, nicht „frische Früchte".
-- EuGH Rs. 85/76 — *Hoffmann-La Roche*: Einzelne Vitamingruppen, nicht „Vitamine".
-- EuGH Rs. C-176/19 P — *Servier*: Einzelner Wirkstoff, nicht „Antihypertensiva".
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 4: Ökonomische Begründung
 
@@ -60,16 +59,11 @@ Bewertung der Vertretbarkeit der engeren Definition:
 
 ## Leitentscheidungen Engere Marktdefinition
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Bananen als eigenstaendiger Markt gegenueber anderen frischen Fruechten; Saisonalitaet und Konsumgewohnheiten als Abgrenzungskriterien.
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Einzelne Vitamingruppen als getrennte Maerkte; fehlende Substitutionsfaehigkeit zwischen Vitamintypen entscheidend.
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Enger Pharmaka-Markt; einzelner Wirkstoff nicht austauschbar gegen andere Antihypertensiva; therapeutische Austauschbarkeit massgeblich.
-- BGH, Urt. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Engere Marktdefinition bei Nachfrageoligopol; Marktbeherrschungsvermutung § 18 Abs. 4 GWB greift bei 40 Prozent Marktanteil auf engem Markt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB §§ 18, 19 Rn. 1-60 (Marktabgrenzung, Marktbeherrschung)
-- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 102 AEUV Rn. 1-50 (Marktdefinition EuGH-Praxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standardformulierung für Schriftsatz
 
-> „Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."
+> "Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."

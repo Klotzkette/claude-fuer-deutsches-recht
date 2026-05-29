@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-dokumentieren
-description: "Pruefe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist nach DAV-Stellungnahme zweiunddreissig der Zweck der Offenlegung nicht die KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen."
+description: "Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist nach DAV-Stellungnahme zweiunddreissig der Zweck der Offenlegung nicht die KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen."
 ---
 
 # Erforderlichkeit dokumentieren
@@ -62,10 +62,7 @@ Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 2
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Berufsgeheimnis des Rechtsanwalts ist Ausdruck der Berufsfreiheit nach Art. 12 GG; Eingriffe durch staatliche Auskunftsverlangen bedürfen strikter Verhältnismäßigkeitsprüfung. Gilt sinngemäß: Kanzlei muss bei Weitergabe von Mandatsdaten an Dritte eigenständig die Erforderlichkeit prüfen.
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 35: Verschwiegenheitspflicht des Rechtsanwalts gilt für alle anvertrauten oder bekanntgewordenen Tatsachen — auch solche, die nicht als geheimhaltungsbedürftig markiert sind; Maßstab ist subjektiver Wille des Mandanten, nicht objektive Relevanz.
-- BAG, Urt. v. 10.11.2022 — 8 AZR 31/22, NZA 2023, 244 Rn. 38: Zur Erforderlichkeit der Datenverarbeitung im Arbeitsverhältnis nach § 26 BDSG; Grundsatz der Datensparsamkeit gilt auch bei der Weitergabe an externe Dienstleister — Parallele zur DSGVO-Erforderlichkeit.
-- EuGH, Urt. v. 22.06.2023 — C-579/21 (Pankki S), NJW 2023, 3025 Rn. 58: Zur Erforderlichkeit der Datenverarbeitung nach Art. 6 Abs. 1 lit. c DSGVO; die Erforderlichkeit muss auf den konkreten Verarbeitungsvorgang, nicht abstrakt auf einen Zweck bezogen werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -73,11 +70,9 @@ Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 2
 - Art. 5 Abs. 1 lit. c DSGVO — Datenminimierung (entsprechender Grundsatz)
 - Art. 6 Abs. 1 DSGVO — Zulässigkeit der Verarbeitung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 15–30: Zur Erforderlichkeitsprüfung bei der Inanspruchnahme von Dienstleistern; Auslegung des Begriffs "soweit dies für die Inanspruchnahme der Dienstleistung erforderlich ist".
-- DAV-Stellungnahme Nr. 32/2025, S. 12–14: Maßgeblich ist nicht die KI-Strategie der Kanzlei, sondern der Zweck der konkreten Offenlegung; Beurteilungsspielraum der Kanzlei ist weit; Training-Ausnahme klar herausgestellt.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Einsatzzweck konkret benennen:** Was soll das Tool leisten? (Vertragsanalyse, Recherche, Schriftsatzentwurf, Dokumentenprüfung)

@@ -1,6 +1,6 @@
 ---
 name: bilinguale-vertragserstellung
-description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen fuer internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Pruefraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenueberstell. Abgrenzung: nicht fuer einsprachige Fassung (einsprachige-vertragsfassung-de)."
+description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen für internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Prüfraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenüberstell. Abgrenzung: nicht für einsprachige Fassung (einsprachige-vertragsfassung-de)."
 ---
 
 # Bilinguale Vertragserstellung DE/EN
@@ -28,8 +28,7 @@ Dieser Skill erstellt den vollständigen Wandeldarlehensvertrag in bilingualer F
 - § 10.1 Standardklausel: Vorrang der deutschen Fassung
 
 ### Rechtsprechung
-- BGH, Urt. v. 29. April 2002 – II ZR 330/00 (Formerfordernisse Gesellschafterbeschluss)
-- OLG München, Beschl. v. 10. März 2016 – 31 Wx 79/16 (zweistufige Wandlung, Textform ausreichend)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -46,10 +45,10 @@ Exakte Zahlen eintragen; keine Platzhalter [●] im ausgefüllten Vertrag. Zinss
 Qualified Financing mit Schwellenwerten, Maturity, Liquidation Event. Wandlungspreis-Formel bilingual ausformulieren: CS = GK × (C / CV); alternativer Cap-Preis explizit.
 
 ### 5. §§ 5 bis 10 – Mitwirkung, Rangrücktritt, Informationsrechte, Vertraulichkeit, Form, Schluss
-Vollständige Texte beidsprachig. § 6 mit BGH-Verweis auf Urt. v. 5. März 2015 – IX ZR 133/14.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 6. Signaturblock
-Vier Blöcke: Gesellschaft (Geschäftsführerin), Gesellschafterin 1, Gesellschafterin 2, Darlehensgeber. DocuSign-Hinweis: „Dieser Vertrag kann mittels qualifizierter elektronischer Signatur (z. B. DocuSign) unterzeichnet werden."
+Vier Blöcke: Gesellschaft (Geschäftsführerin), Gesellschafterin 1, Gesellschafterin 2, Darlehensgeber. DocuSign-Hinweis: "Dieser Vertrag kann mittels qualifizierter elektronischer Signatur (z. B. DocuSign) unterzeichnet werden."
 
 ## Beispiel-Sprachklausel (§ 10.1)
 
@@ -89,7 +88,7 @@ Stand: 05/2026. Bei Änderung BGB-Formvorschriften oder GmbHG aktualisieren.
 
 ### Leitsatz-Zitate
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 12: Kapitalerhöhungsbeschluss und Übernahme-Erklärung sind im Beurkundungsverfahren deutsch zu beurkunden; englische Textbestandteile können als Anlage beigefügt werden, begründen aber kein eigenständiges Rechtsverhältnis gegenüber dem Notar.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

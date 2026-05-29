@@ -1,6 +1,6 @@
 ---
 name: gesamtbewertung-tragfaehigkeit
-description: "Gesamturteil zur Tragfaehigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behoerde und empfiehlt prozesstaktische Konsequenzen fuer das eigene Team."
+description: "Gesamturteil zur Tragfähigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behoerde und empfiehlt prozesstaktische Konsequenzen für das eigene Team."
 ---
 
 # Gesamtbewertung — Tragfähigkeit der Marktabgrenzung
@@ -34,16 +34,16 @@ GESAMTURTEIL: [HOCH / MITTEL / GERING]
 ZENTRALE SCHWACHSTELLEN:
 
 1. [Schwachstelle — konkret und scharf formuliert, z.B.:
-   „SSNIP-Test-Ergebnis beruht auf veralteten Daten aus 2019 und
+   "SSNIP-Test-Ergebnis beruht auf veralteten Daten aus 2019 und
    wurde nicht auf Cellophane-Fallacy-Risiko geprüft."]
 
 2. [Schwachstelle — z.B.:
-   „Angebotsseitige Substitution durch Anbieter Z wird behauptet,
+   "Angebotsseitige Substitution durch Anbieter Z wird behauptet,
    aber der Umstellungszeitraum von 18 Monaten überschreitet
    den EU-Standard von 12 Monaten."]
 
 3. [Schwachstelle — z.B.:
-   „Interne Marktberichte des Unternehmens aus 2022 bezeichnen
+   "Interne Marktberichte des Unternehmens aus 2022 bezeichnen
    Produkt X als 'direkten Konkurrenten', der in der vorgelegten
    Abgrenzung aber ausgeschlossen wird."]
 
@@ -77,10 +77,8 @@ Das Gesamturteil ersetzt keine anwaltliche Würdigung im Einzelfall. Es ist eine
 
 ## Leitentscheidungen Gesamtbewertung
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Gesamtbewertung Marktabgrenzung; keine Einzelindikator-Dogmatik; wirtschaftlicher und rechtlicher Kontext massgeblich.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Gesamtschau; Netzwerkeffekte, Marktanteil, Datenzugang kumulativ; konsistentes Gesamtbild erforderlich.
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Konsistenzgebot; einzelne Argumente muessen sich zu schluessiger Marktdefinition fuegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-30 (Gesamtwuerdigung, Konsistenz)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

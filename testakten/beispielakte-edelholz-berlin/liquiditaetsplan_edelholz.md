@@ -146,7 +146,7 @@ _Stand: 2026-05-18 – Edelholz Manufaktur Berlin GmbH_
 | • BGH, Urt. v. 09.10.2012 – II ZR 298/11, BGHZ 195, 42 Rn. 12 ff. (insolvenzrechtl. Überschuldung). |  |  |
 | • IDW S 6 (Sanierungskonzepte), IDW S 11 (Insolvenzeröffnungsgründe). |  |  |
 | • K. Schmidt/Herchen, K. Schmidt, InsO, 20. Aufl. 2023, §§ 17, 19 InsO. |  |  |
-| • Uhlenbruck/Mock, InsO, 16. Aufl. 2024, §§ 17, 19 InsO. |  |  |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 
 ## Sheet: Annahmen
 

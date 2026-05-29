@@ -1,6 +1,6 @@
 ---
 name: zvg-berichtswesen-gericht
-description: "Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach §§ 153 154 ZVG. Anwendungsfall Zwangsverwalter muss Besitzerlangungsbericht Sachstandsbericht Monatsbericht oder Entscheidungsvorlage erstellen. Normen § 153 ZVG Pflichten § 155 ZVG Einnahmen Ausgaben § 161 ZVG Rechnungslegung. Pruefraster Besitzerlangung Sachstand Einnahmen Ausgaben Mieter offene Fragen Gerichtsbeschluss-Bedarf. Output Gerichtskonformer Bericht mit Darstellung Einnahmen Ausgaben Mietsituation und Handlungsempfehlungen. Abgrenzung zu zvg-rechnungslegung (Jahresrechnung) und zvg-glaeubiger-schuldner-kommunikation."
+description: "Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach §§ 153 154 ZVG. Anwendungsfall Zwangsverwalter muss Besitzerlangungsbericht Sachstandsbericht Monatsbericht oder Entscheidungsvorlage erstellen. Normen § 153 ZVG Pflichten § 155 ZVG Einnahmen Ausgaben § 161 ZVG Rechnungslegung. Prüfraster Besitzerlangung Sachstand Einnahmen Ausgaben Mieter offene Fragen Gerichtsbeschluss-Bedarf. Output Gerichtskonformer Bericht mit Darstellung Einnahmen Ausgaben Mietsituation und Handlungsempfehlungen. Abgrenzung zu zvg-rechnungslegung (Jahresrechnung) und zvg-gläubiger-schuldner-kommunikation."
 ---
 
 # Berichtswesen an das Vollstreckungsgericht
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 25.09.2008 - IX ZB 205/06, NZI 2009, 55 Rn. 14 — Der Zwangsverwalter ist dem Gericht gegenüber zur periodischen Berichterstattung verpflichtet; der Besitzerlangungsbericht hat unverzüglich, spätestens innerhalb von 2 Wochen nach Besitzerlangung, zu erfolgen.
-- BGH, Beschl. v. 07.12.2007 - IX ZB 74/04, NZI 2008, 186 — Fehlende oder verspätete Berichte an das Vollstreckungsgericht können zur Entlassung des Zwangsverwalters und zur Kürzung der Vergütung führen; das Gericht kann jederzeit Auskunft und Rechnungslegung verlangen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Berichtswesen
 
 § 153 ZVG (Pflichten laufende Verwaltung) → § 154 ZVG (Gerichtliche Aufsicht) → § 3 ZwVwV (Besitzerlangungsbericht) → § 14 ZwVwV (Jahresrechnung) → § 15 ZwVwV (Schlussrechnung) → § 20 ZwVwV (Vergütung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 154 Rn. 10-35 (Gerichtliche Aufsicht und Berichtspflicht)
-- Böttcher ZVG 6. Aufl., § 153 Rn. 25-45 (laufende Verwalterpflichten)
-- Hintzen in Dassler/Schiffhauer ZVG, § 3 ZwVwV Rn. 5-25 (Besitzerlangungsbericht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Berichtswesen
 
 1. Wann war der Besitzerlangungstermin? (2-Wochen-Frist für Besitzerlangungsbericht)

@@ -11,7 +11,7 @@ An der Blauen Kappe 18
 
 Augsburg, 27. März 2023
 
-Betreff: **Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West"**
+Betreff: **Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West"**
 **Frühzeitige Beteiligung der Öffentlichkeit (§ 3 Abs. 1 BauGB)**
 **— Einwendungen —**
 

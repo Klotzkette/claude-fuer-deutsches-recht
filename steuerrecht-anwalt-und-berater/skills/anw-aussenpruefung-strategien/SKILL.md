@@ -1,6 +1,6 @@
 ---
 name: anw-aussenpruefung-strategien
-description: "Anwaltliche Begleitung einer Betriebspruefung Aussenpruefung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Pruefungsanordnung § 196 AO oder Pruefung laeuft bereits. Pruefraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Pruefungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verstaendigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verstaendigung-schlussbesprechung."
+description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Prüfungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verständigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verständigung-schlussbesprechung."
 ---
 
 # Außenprüfung — Strategien und Begleitung
@@ -27,12 +27,7 @@ description: "Anwaltliche Begleitung einer Betriebspruefung Aussenpruefung nach 
 
 ## Maßgebliche Rechtsprechung
 
-- BFH, Urt. v. 24.04.2003 – Az. VII R 3/02, BStBl. II 2003, 739 Rn. 18 — Anforderungen an Prüfungsanordnung.
-- BFH, Urt. v. 28.05.2008 – Az. IX R 16/07, BStBl. II 2009, 13 — Reichweite der Mitwirkungspflicht.
-- BFH, Urt. v. 23.11.2017 – Az. V R 47/16 — Mitwirkung und Datenzugriff.
-- BFH, Beschl. v. 25.07.2000 – Az. VII B 28/99, BStBl. II 2000, 643 — Verwertungsverbot.
-- BVerfG, Beschl. v. 11.06.2003 – Az. 2 BvR 1473/02, NJW 2003, 3608 — Selbstbelastungsfreiheit im Schnittfeld Steuer-/Strafverfahren.
-- BGH, Urt. v. 12.12.2019 – Az. 1 StR 219/19 — Selbstbelastungsverbot.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -123,7 +118,7 @@ description: "Anwaltliche Begleitung einer Betriebspruefung Aussenpruefung nach 
 
 - Tatsachen-Vergleich § 162 AO möglich.
 - Nicht: Verständigung über Recht.
-- BGH-Linie zur „tatsächlichen Verständigung".
+- BGH-Linie zur "tatsächlichen Verständigung".
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -157,11 +152,11 @@ Sehr geehrte/r Frau/Herr [Prüfer],
 
 namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellungen wie folgt Stellung.
 
-1. Feststellung „[Bezeichnung]"
-   Wir teilen die Auffassung des Prüfers nicht. Nach § [Norm] und BFH, Urt. v. [Datum] – Az. [AZ], BStBl. II [Jahr], [Seite] Rn. [Rn.] gilt […].
+1. Feststellung "[Bezeichnung]"
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
 
-2. Feststellung „[Bezeichnung]"
+2. Feststellung "[Bezeichnung]"
    Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
 
 3. Verbindliche Zusage § 204 AO

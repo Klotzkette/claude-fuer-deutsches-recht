@@ -1,6 +1,6 @@
 ---
 name: subsumtion-schritt-fuer-schritt
-description: "Student uebrt die Subsumtion Schritt fuer Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Fuehren statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Pruefraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung)."
+description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung)."
 ---
 
 # Subsumtion Schritt für Schritt
@@ -13,10 +13,7 @@ description: "Student uebrt die Subsumtion Schritt fuer Schritt: Tatbestandsmerk
 4. Ist das Tatbestandsmerkmal streitig — gibt es verschiedene Definitionen oder Abgrenzungen?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Subsumtion erfordert Sachverhaltsbezug: jede abstrakte Definiton muss mit konkreten Sachverhaltstatsachen verknuepft werden.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Definitionen muessen aus anerkannten Quellen stammen; selbst erfundene Umschreibungen sind methodisch unzulaessig.
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung strittiger Tatbestandsmerkmale nach grammatischer, systematischer, historischer und teleologischer Methode.
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Streitige Tatbestandsmerkmale muessen Meinungsstand-Darstellung und eigene Stellungnahme enthalten; einseitige Subsumtion ohne Auseinandersetzung mit Gegenansicht ist unzureichend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegungsgrundsaetze als Massstab fuer Tatbestandsmerkmal-Definitionen
@@ -24,10 +21,9 @@ description: "Student uebrt die Subsumtion Schritt fuer Schritt: Tatbestandsmerk
 - § 242 StGB — Diebstahl: Modell-Tatbestand fuer objektivsubjektive Mehrstufigkeit
 - § 280 BGB — Schadensersatzanspruch: Modell-Tatbestand mit mehreren Voraussetzungen
 
-## Kommentarliteratur
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 3 Rn. 1-50 (Subsumtion als Grundoperation der Rechtsanwendung)
-- Grüneberg/Grüneberg BGB § 242 Rn. 1-20 (Anwendungsbeispiel konkreter Subsumtion)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Subsumtion ist das **Kern-Handwerk** der juristischen Arbeit. Wer subsumieren kann, kann denken wie ein Jurist.
@@ -39,7 +35,7 @@ Subsumtion ist das **Kern-Handwerk** der juristischen Arbeit. Wer subsumieren ka
    ↓
 2. DEFINITION dieses Merkmals
    ↓
-3. SUBSUMTION (Tatsachen + Subsumtions-Konstruktion „Hier hat...")
+3. SUBSUMTION (Tatsachen + Subsumtions-Konstruktion "Hier hat...")
    ↓
 4. ZWISCHENERGEBNIS
 ```
@@ -49,10 +45,10 @@ Subsumtion ist das **Kern-Handwerk** der juristischen Arbeit. Wer subsumieren ka
 ### Bei einer Norm — alle Voraussetzungen einzeln
 
 Beispiel § 433 Abs. 1 Satz 1 BGB:
-- „Durch den Kaufvertrag" — Voraussetzung 1: Kaufvertrag
-- „ist der Verkäufer einer Sache verpflichtet" — Voraussetzung 2: Sache
-- „dem Käufer die Sache zu übergeben" — Voraussetzung 3: Übergabe-Pflicht
-- „und das Eigentum an der Sache zu verschaffen" — Voraussetzung 4: Eigentumsübergangs-Pflicht
+- "Durch den Kaufvertrag" — Voraussetzung 1: Kaufvertrag
+- "ist der Verkäufer einer Sache verpflichtet" — Voraussetzung 2: Sache
+- "dem Käufer die Sache zu übergeben" — Voraussetzung 3: Übergabe-Pflicht
+- "und das Eigentum an der Sache zu verschaffen" — Voraussetzung 4: Eigentumsübergangs-Pflicht
 
 ### Fragen an Dich selbst
 
@@ -64,7 +60,7 @@ Beispiel § 433 Abs. 1 Satz 1 BGB:
 
 ### Quellen für Definitionen
 
-- **Norm selbst**: § 90 BGB definiert „Sache" als „nur körperliche Gegenstände".
+- **Norm selbst**: § 90 BGB definiert "Sache" als "nur körperliche Gegenstände".
 - **Andere Normen**: § 90a BGB grenzt Tiere ab.
 - **Kommentar**: Standardkommentar gibt die etablierte Definition.
 - **Lehrbuch**: Lehrbücher beschreiben die Auslegungs-Grundsätze.
@@ -76,9 +72,9 @@ Dann musst Du auslegen (Skill `methodenlehre-auslegung`).
 
 ### Definitions-Wendungen
 
-- „Eine ‚Sache' im Sinne des § 90 BGB ist ..."
-- „Unter ‚Übergabe' ist nach allgemeiner Auffassung zu verstehen ..."
-- „Mit ‚Eigentum' meint § 903 BGB ..."
+- "Eine 'Sache' im Sinne des § 90 BGB ist ..."
+- "Unter 'Übergabe' ist nach allgemeiner Auffassung zu verstehen ..."
+- "Mit 'Eigentum' meint § 903 BGB ..."
 
 ## Schritt 3 — Subsumtion
 
@@ -87,15 +83,15 @@ Dann musst Du auslegen (Skill `methodenlehre-auslegung`).
 Wende die Definition auf den Sachverhalt an:
 
 ```
-„Hier hat [Person] [Tatsache aus Sachverhalt]. Damit liegt [Voraussetzung] vor."
+"Hier hat [Person] [Tatsache aus Sachverhalt]. Damit liegt [Voraussetzung] vor."
 ```
 
 ### Beispiel
 
-> **Tatbestandsmerkmal**: „Sache" im Sinne des § 90 BGB.
+> **Tatbestandsmerkmal**: "Sache" im Sinne des § 90 BGB.
 > **Definition**: Eine Sache ist nach § 90 BGB ein körperlicher Gegenstand.
 > **Subsumtion**: Hier hat A am 12.03. ein Fahrrad an B veräußert. Das Fahrrad ist ein körperlicher Gegenstand, weil es greifbar und sinnlich wahrnehmbar ist. Damit ist es eine Sache im Sinne des § 90 BGB.
-> **Zwischenergebnis**: Die Voraussetzung „Sache" ist erfüllt.
+> **Zwischenergebnis**: Die Voraussetzung "Sache" ist erfüllt.
 
 ### Was die Subsumtion **muss**
 
@@ -112,9 +108,9 @@ Wende die Definition auf den Sachverhalt an:
 ## Schritt 4 — Zwischenergebnis
 
 ```
-„Folglich ist die Voraussetzung [...] erfüllt."
-„Damit liegt [...] vor."
-„Mithin ist [...] gegeben."
+"Folglich ist die Voraussetzung [...] erfüllt."
+"Damit liegt [...] vor."
+"Mithin ist [...] gegeben."
 ```
 
 Das Zwischenergebnis schließt diesen Subsumtions-Block ab. Der nächste Block beginnt mit dem nächsten Tatbestandsmerkmal.
@@ -125,7 +121,7 @@ Das Zwischenergebnis schließt diesen Subsumtions-Block ab. Der nächste Block b
 
 Subsumiere folgende Tatbestandsmerkmale unter den Sachverhalt:
 
-**Sachverhalt** (Beispiel, nicht aus Deiner Hausarbeit!): „A trifft B in der Mensa. A sagt: ‚Ich verkaufe Dir mein Fahrrad für 200 Euro.' B antwortet: ‚Einverstanden, ich nehme es.' Am nächsten Tag übergibt A das Fahrrad an B."
+**Sachverhalt** (Beispiel, nicht aus Deiner Hausarbeit!): "A trifft B in der Mensa. A sagt: 'Ich verkaufe Dir mein Fahrrad für 200 Euro.' B antwortet: 'Einverstanden, ich nehme es.' Am nächsten Tag übergibt A das Fahrrad an B."
 
 **Frage**: Liegt ein wirksamer Kaufvertrag zwischen A und B vor?
 
@@ -133,23 +129,23 @@ Subsumiere folgende Tatbestandsmerkmale unter den Sachverhalt:
 
 #### Sokratische Frage
 
-> „Was ist ein Angebot im juristischen Sinne? Schreibe Deine Definition zuerst auf."
+> "Was ist ein Angebot im juristischen Sinne? Schreibe Deine Definition zuerst auf."
 
 (Du schreibst Deine Definition.)
 
-#### Wenn Du schreibst: „Ein Angebot ist, wenn jemand was anbietet."
+#### Wenn Du schreibst: "Ein Angebot ist, wenn jemand was anbietet."
 
-→ Plugin antwortet: „Das ist die alltägliche Bedeutung. Die juristische Definition ist präziser. Schau in § 145 BGB — was steht da? Wie würde man ein Angebot juristisch definieren?"
+→ Plugin antwortet: "Das ist die alltägliche Bedeutung. Die juristische Definition ist präziser. Schau in § 145 BGB — was steht da? Wie würde man ein Angebot juristisch definieren?"
 
-#### Wenn Du schreibst: „Ein Angebot ist eine empfangsbedürftige Willenserklärung, gerichtet auf einen Vertragsschluss."
+#### Wenn Du schreibst: "Ein Angebot ist eine empfangsbedürftige Willenserklärung, gerichtet auf einen Vertragsschluss."
 
-→ Plugin antwortet: „Sehr gut! Du hast die juristische Definition. Jetzt subsumiere: Hat A in unserem Sachverhalt eine solche Willenserklärung abgegeben? Welche Tatsache belegt das?"
+→ Plugin antwortet: "Sehr gut! Du hast die juristische Definition. Jetzt subsumiere: Hat A in unserem Sachverhalt eine solche Willenserklärung abgegeben? Welche Tatsache belegt das?"
 
 (Du subsumierst.)
 
-#### Wenn Du schreibst: „A hat gesagt: ‚Ich verkaufe Dir mein Fahrrad für 200 Euro.'"
+#### Wenn Du schreibst: "A hat gesagt: 'Ich verkaufe Dir mein Fahrrad für 200 Euro.'"
 
-→ Plugin antwortet: „Genau! Das ist eine Willenserklärung im Sinne der Definition. Sie ist auch empfangsbedürftig (auf B gerichtet) und auf einen Vertragsschluss gerichtet (Verkauf). Damit ist die Voraussetzung erfüllt."
+→ Plugin antwortet: "Genau! Das ist eine Willenserklärung im Sinne der Definition. Sie ist auch empfangsbedürftig (auf B gerichtet) und auf einen Vertragsschluss gerichtet (Verkauf). Damit ist die Voraussetzung erfüllt."
 
 ## Schritt 5 — Schritt-für-Schritt-Methode
 
@@ -157,7 +153,7 @@ Bei jedem Tatbestandsmerkmal:
 
 1. **Benenne das Merkmal** (Wo finde ich es in der Norm?)
 2. **Definiere es** (Mit Beleg!)
-3. **Subsumiere** (Tatsache + „Damit liegt vor")
+3. **Subsumiere** (Tatsache + "Damit liegt vor")
 4. **Schließe ab** mit Zwischenergebnis
 
 Bei mehreren Merkmalen: Wiederhole den Vier-Schritte-Zyklus für jedes Merkmal.
@@ -166,35 +162,35 @@ Bei mehreren Merkmalen: Wiederhole den Vier-Schritte-Zyklus für jedes Merkmal.
 
 ### Fehler 1: Definition fehlt
 
-❌ „Hier liegt eine Willenserklärung vor."
+❌ "Hier liegt eine Willenserklärung vor."
 
-✅ „Eine Willenserklärung ist ... Hier hat A ..."
+✅ "Eine Willenserklärung ist ... Hier hat A ..."
 
 ### Fehler 2: Subsumtion ohne Tatsache
 
-❌ „A hat eine Willenserklärung abgegeben."
+❌ "A hat eine Willenserklärung abgegeben."
 
-✅ „A hat am 12.03. zu B in der Mensa gesagt ‚Ich verkaufe Dir mein Fahrrad für 200 Euro.' Das ist eine Willenserklärung im Sinne der Definition, weil ..."
+✅ "A hat am 12.03. zu B in der Mensa gesagt 'Ich verkaufe Dir mein Fahrrad für 200 Euro.' Das ist eine Willenserklärung im Sinne der Definition, weil ..."
 
 ### Fehler 3: Sprung-Subsumtion
 
-❌ „Damit liegt ein Kaufvertrag vor."
+❌ "Damit liegt ein Kaufvertrag vor."
 
-✅ „Damit liegen ein Angebot und eine Annahme vor. Folglich ist nach §§ 145 und 147 BGB ein Vertrag zustande gekommen. Ein Kaufvertrag (§ 433 BGB) liegt vor, weil ..."
+✅ "Damit liegen ein Angebot und eine Annahme vor. Folglich ist nach §§ 145 und 147 BGB ein Vertrag zustande gekommen. Ein Kaufvertrag (§ 433 BGB) liegt vor, weil ..."
 
 ### Fehler 4: Ergebnis-Vorausnahme
 
-❌ „A hat sicher angeboten."
+❌ "A hat sicher angeboten."
 
-✅ „Ob A ein wirksames Angebot abgegeben hat, ist im Folgenden zu prüfen."
+✅ "Ob A ein wirksames Angebot abgegeben hat, ist im Folgenden zu prüfen."
 
 ### Fehler 5: Falsche Definition
 
-❌ „Eine Sache ist alles, was bewegt werden kann."
+❌ "Eine Sache ist alles, was bewegt werden kann."
 
-✅ „Eine Sache ist nach § 90 BGB ein körperlicher Gegenstand."
+✅ "Eine Sache ist nach § 90 BGB ein körperlicher Gegenstand."
 
-→ Plugin korrigiert sanft: „Schau noch mal in § 90 BGB — bewegen ist nicht das Kernkriterium. Was sagt § 90 BGB konkret?"
+→ Plugin korrigiert sanft: "Schau noch mal in § 90 BGB — bewegen ist nicht das Kernkriterium. Was sagt § 90 BGB konkret?"
 
 ## Spezielle Situationen
 
@@ -204,14 +200,14 @@ Auslegung mit Methodenlehre (Skill `methodenlehre-auslegung`).
 
 ### Bei normativen Tatbestandsmerkmalen
 
-Z.B. „Treu und Glauben" (§ 242 BGB), „wichtiger Grund" (§ 626 BGB):
+Z.B. "Treu und Glauben" (§ 242 BGB), "wichtiger Grund" (§ 626 BGB):
 - Wertung erforderlich
 - Maßstäbe aus Rechtsprechung
 - Konkrete Sachverhalts-Argumentation
 
 ### Bei deskriptiven Tatbestandsmerkmalen
 
-Z.B. „Sache", „Person":
+Z.B. "Sache", "Person":
 - Fakten-Subsumtion
 - Direkt anwendbar
 

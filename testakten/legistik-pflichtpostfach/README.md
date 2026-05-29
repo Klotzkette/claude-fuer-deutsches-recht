@@ -1,5 +1,14 @@
 # Schulungsakte - Elektronisches Pflichtpostfach
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-legistik-pflichtpostfach` (diese Akte) | [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > Trainingsakte für das Plugin `legistik-werkstatt`. Die Akte simuliert einen vollständigen Legistik-Durchlauf vom Koalitionsvertrag bis zur fertigen Kabinettsmappe.
 
 ## Politische Vorgabe (Auszug Koalitionsvertrag, fiktiv)

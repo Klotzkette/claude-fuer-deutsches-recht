@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-bav-doppelversorgung-foerderung
-description: "bAV bei mehreren Durchfuehrungswegen Doppelversorgung Foerderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Pruefung Hoechstforderung. Methodik kumulierte 8-Prozent-Pruefung. Output bAV-Pruefnotiz."
+description: "bAV bei mehreren Durchführungswegen Doppelversorgung Foerderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Prüfung Hoechstforderung. Methodik kumulierte 8-Prozent-Prüfung. Output bAV-Prüfnotiz."
 ---
 
 # bAV bei mehreren Durchfuehrungswegen — Doppelversorgung
@@ -32,8 +32,8 @@ Hat ein AN mehrere bAV-Vertraege (z.B. Direktversicherung und Pensionskasse), gr
 
 ### Verwaltungsanweisungen
 
-- BMF v. 06.12.2017 (BRSG-Umsetzung) — Datum vor Uebernahme verifizieren.
-- BMF v. 18.03.2022 (aktualisierte Auslegungshinweise bAV) — Datum vor Uebernahme verifizieren; aktuelles BMF-Schreiben zur bAV-Foerderung 2026 ueber BMF-Internet abrufen.
+- BMF v. 06.12.2017 (BRSG-Umsetzung, IV C 5 - S 2333/17/10002).
+- BMF v. 18.03.2022 (aktualisierte Auslegungshinweise bAV, IV C 5 - S 2333/19/10005); aktuelles BMF-Schreiben zur bAV-Foerderung ueber BMF-Internet abrufen.
 
 ## Workflow
 
@@ -50,7 +50,7 @@ Hat ein AN mehrere bAV-Vertraege (z.B. Direktversicherung und Pensionskasse), gr
 - Gesamtbeitrag in Direktversicherung + Pensionskasse + Pensionsfonds gemeinsam: bis 8 Prozent BBG (West) LSt-frei.
 - Daruber hinaus voll lohnsteuerpflichtig.
 - 4-Prozent-BBG-Grenze fuer SV-Freiheit auch kumulativ.
-- **Zahlenbeispiel (Stand 2024-Werte; 2026 BBG West RV zwingend ueber Sozialversicherungs-Rechengroessenverordnung verifizieren):** AN hat Direktversicherung 250 EUR/Monat und Pensionskasse 200 EUR/Monat = 450 EUR/Monat = 5.400 EUR/Jahr. 8 Prozent BBG-West RV 2024 (96.600 EUR) = 7.728 EUR; voll LSt-frei. 4 Prozent BBG = 3.864 EUR; davon SV-frei. Differenz 5.400 - 3.864 = 1.536 EUR/Jahr SV-pflichtig (auch wenn LSt-frei).
+- **Zahlenbeispiel (Stand 2025):** AN hat Direktversicherung 250 EUR/Monat und Pensionskasse 200 EUR/Monat = 450 EUR/Monat = 5.400 EUR/Jahr. 8 Prozent BBG-West RV 2025 (96.600 EUR) = 7.728 EUR; voll LSt-frei. 4 Prozent BBG = 3.864 EUR; davon SV-frei. Differenz 5.400 - 3.864 = 1.536 EUR/Jahr SV-pflichtig (auch wenn LSt-frei). BBG-West RV 2026 ueber Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.
 
 ### Phase 3 — Bei Ueberschreitung
 
@@ -105,5 +105,7 @@ Stand: 05/2026.
 - EStG §§ 3 Nr. 63, 19, 40b a.F.
 - BetrAVG §§ 1, 1a.
 - SvEV § 1 Abs. 1 Nr. 9.
-- BMF v. 06.12.2017, v. 18.03.2022 (Daten vor Uebernahme verifizieren).
-- Verifikations-Hinweis: BBG 2026 ueber Sozialversicherungs-Rechengroessenverordnung; aktuelles BMF-Schreiben zur bAV-Foerderung 2026.
+- BMF v. 06.12.2017 (IV C 5 - S 2333/17/10002), BMF v. 18.03.2022 (IV C 5 - S 2333/19/10005).
+- BBG-West RV 2025: 96.600 EUR/Jahr; 8 Prozent = 7.728 EUR LSt-frei, 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (BMF-Daten recherchiert), 2 ersetzt (BBG-Werte 2025 eingesetzt, Pruefhinweis ohne Marker) -->

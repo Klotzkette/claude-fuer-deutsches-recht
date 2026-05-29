@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-betriebsuebersicht-erstellen
-description: "Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausfuehrliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison als Kontenliste mit Vorjahres- und Plan-Spalten. Output Betriebsuebersicht als PDF Anhang zur BWA."
+description: "Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausführliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison als Kontenliste mit Vorjahres- und Plan-Spalten. Output Betriebsuebersicht als PDF Anhang zur BWA."
 ---
 
 # Betriebsuebersicht erstellen — Ergaenzung zur BWA

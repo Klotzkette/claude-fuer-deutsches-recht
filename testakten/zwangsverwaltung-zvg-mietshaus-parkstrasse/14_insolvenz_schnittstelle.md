@@ -8,7 +8,7 @@
 
 ## 1. Ausgangslage
 
-Am **20. Juni 2026** teilte Rechtsanwalt Dr. Norbert Krahl (Bevollmächtigter des Schuldners Markus Feldmann) per Schreiben mit, dass sein Mandant „die Eröffnung eines Insolvenzverfahrens ernsthaft in Betracht zieht". Eine Antragstellung sei noch nicht erfolgt. Eine Schuldnerberatungsstelle (namentlich nicht bekannt gemacht) sei einbezogen.
+Am **20. Juni 2026** teilte Rechtsanwalt Dr. Norbert Krahl (Bevollmächtigter des Schuldners Markus Feldmann) per Schreiben mit, dass sein Mandant "die Eröffnung eines Insolvenzverfahrens ernsthaft in Betracht zieht". Eine Antragstellung sei noch nicht erfolgt. Eine Schuldnerberatungsstelle (namentlich nicht bekannt gemacht) sei einbezogen.
 
 Die Zwangsverwalterin notierte dies und informierte das Vollstreckungsgericht am **25.06.2026** (Kurzmitteilung per Fax, Az. 76 L 88/26). Eine formelle Eröffnungsentscheidung lag zu diesem Zeitpunkt nicht vor.
 
@@ -26,7 +26,7 @@ Die Eröffnung eines Insolvenzverfahrens über das Vermögen des Schuldners **he
 
 ### 2.2 Nutzungen des Grundstücks
 
-Einnahmen aus der Zwangsverwaltung (Mieten) gehören **nicht zur Insolvenzmasse** im weiteren Sinne, soweit sie auf die Befriedigung des absonderungsberechtigten Gläubigers (Sachsen Kreditbank AG) gerichtet sind (§ 49 InsO, § 165 InsO). Der Insolvenzverwalter kann jedoch nach § 165 InsO die Zwangsverwaltung „übernehmen" – dazu bedarf es einer ausdrücklichen Erklärung.
+Einnahmen aus der Zwangsverwaltung (Mieten) gehören **nicht zur Insolvenzmasse** im weiteren Sinne, soweit sie auf die Befriedigung des absonderungsberechtigten Gläubigers (Sachsen Kreditbank AG) gerichtet sind (§ 49 InsO, § 165 InsO). Der Insolvenzverwalter kann jedoch nach § 165 InsO die Zwangsverwaltung "übernehmen" – dazu bedarf es einer ausdrücklichen Erklärung.
 
 ### 2.3 Schnittstelle Insolvenzverwalter und Zwangsverwalter
 
@@ -90,7 +90,7 @@ Vergleichsvereinbarung vom 28.07.2026 ist wirksam. Die Ratenzahlungen laufen. Ei
 
 ### 5.3 Einrede des Schuldners gegen Pfandrecht
 
-RA Dr. Krahl hat im August 2026 angekündigt, den Anordnungsbeschluss wegen „formeller Mängel" anzugreifen. Details nicht mitgeteilt. Die Zwangsverwalterin sieht keinen begründeten Ansatz; der Beschluss ist rechtskräftig.
+RA Dr. Krahl hat im August 2026 angekündigt, den Anordnungsbeschluss wegen "formeller Mängel" anzugreifen. Details nicht mitgeteilt. Die Zwangsverwalterin sieht keinen begründeten Ansatz; der Beschluss ist rechtskräftig.
 
 ---
 
@@ -98,7 +98,7 @@ RA Dr. Krahl hat im August 2026 angekündigt, den Anordnungsbeschluss wegen „f
 
 | Datum | Mitteilung | Reaktion AG |
 |---|---|---|
-| 25.06.2026 | Kurzmitteilung Insolvenzgedanke | „Zur Kenntnis genommen, bitte weiter beobachten" |
+| 25.06.2026 | Kurzmitteilung Insolvenzgedanke | "Zur Kenntnis genommen, bitte weiter beobachten" |
 | 10.07.2026 | Anfrage Status Insolvenzgericht | — |
 | Monatsbericht Aug. 2026 | Kurzvermerk: noch kein Antrag | — |
 | Monatsbericht Sep. 2026 | Kurzvermerk: noch kein Antrag | — |

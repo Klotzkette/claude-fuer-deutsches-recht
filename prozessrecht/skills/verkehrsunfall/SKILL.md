@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall
-description: "Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Pruefraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten."
+description: "Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten."
 ---
 
 # Verkehrsunfall – Haftung, Schaden und Schadensausgleich
@@ -48,34 +48,22 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 02.03.2010 – VI ZR 144/09, NJW 2010, 1445 Rn. 14 ff. – **130%-Grenze**:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Der Geschädigte kann Reparaturkosten bis zu 130 % des Wiederbeschaffungswerts verlangen,
   wenn er das Fahrzeug tatsächlich repariert und es mindestens 6 Monate weiternutzt; maßgeblich
   ist das Integritätsinteresse.
-- BGH, Urt. v. 12.07.2005 – VI ZR 132/04, NJW 2005, 2541 Rn. 12 ff.: Zur Nutzungsausfall-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   entschädigung; der Geschädigte hat Anspruch auf Nutzungsausfallentschädigung (nach Tabelle
   Sanden/Danner/Küppersbusch), sofern er auf das Fahrzeug angewiesen war; bloße Freizeitnutzung
   genügt nicht für Nutzungsausfall, wohl aber gewerbliche und Alltagsnutzung.
-- BGH, Urt. v. 08.03.2022 – VI ZR 47/21, NJW 2022, 1601 Rn. 18 ff.: Zur Wertminderung;
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   eine merkantile Wertminderung entsteht durch das Bekanntwerden eines Unfallschadens auch bei
   fachgerechter Reparatur; Berechnungsmethode Ruhkopf/Sahm.
-- BGH, Urt. v. 14.03.2017 – VI ZR 226/16, NJW 2017, 2271: Zur Beendigung der Verjährungshemmung nach § 115 Abs. 2 S. 3 VVG; die Entscheidung des Versicherers muss in Bezug auf alle in Betracht kommenden Schadensposten erschöpfend, umfassend und endgültig sein; eine bloße Anspruchsbejahung ohne entsprechende Klarheit genügt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- König, in: Hentschel/König/Dauer, Straßenverkehrsrecht, 48. Aufl. 2025, § 7 StVG Rn. 1 ff.
-  (Gefährdungshaftung: Halterbegriff; unabwendbares Ereignis § 17 Abs. 3 StVG; Mitverschulden
-  § 17 Abs. 1 StVG).
-- Burmann, in: Burmann/Heß/Hühnermann/Jahnke, Straßenverkehrsrecht, 27. Aufl. 2022, § 7 StVG
-  Rn. 5 ff. (Betriebsgefahr: Mindestquote auch ohne konkretes Verschulden; Rn. 19 zur
-  Abwägung bei Auffahrunfall).
-- Wellner, in: Gsell/Krüger/Lorenz/Reymann, BeckOGK BGB, Stand 01.03.2025, § 253 Rn. 45 ff.
-  (Schmerzensgeldbemessung: Doppelfunktion Ausgleich und Genugtuung; Orientierung an
-  Beck'scher Schmerzensgeldtabelle, Hacks/Wellner/Häcker; Rn. 60 ff. zu schweren Verletzungen).
-- Lemcke, in: van Bühren, Handbuch Versicherungsrecht, 7. Aufl. 2021, § 7 Rn. 112 ff.
-  (Direktanspruch § 115 VVG: Voraussetzungen, Bindungswirkung, Verjährung 3 Jahre § 195 BGB
-  ab Kenntnis).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Sicherung der Beweise** (unmittelbar nach Unfall): Fotos, Polizeiprotokoll, Zeugenangaben,
@@ -88,7 +76,7 @@ Das Modell benötigt:
 3. **Direktanspruch** (§ 115 VVG): Schreiben an gegnerischen Versicherer mit Schadensnummer;
    Frist 3 Monate für Stellungnahme (§ 17 Abs. 1 PflVG).
 4. **Schadensaufstellung**:
-   a. *Reparaturkosten*: Gutachten einholen; 130%-Grenze prüfen (BGH – VI ZR 144/09);
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
       bei Totalschaden: Wiederbeschaffungswert abzügl. Restwert
    b. *Wertminderung*: Methode Ruhkopf/Sahm; merkantil nur bei jungen Fahrzeugen sinnvoll
    c. *Nutzungsausfall oder Mietwagen*: Tabelle Sanden/Danner/Küppersbusch; oder konkrete
@@ -96,7 +84,7 @@ Das Modell benötigt:
    d. *Abschleppkosten, Gutachterkosten, Unkostenpauschale* (EUR 25–30, h. M.)
    e. *Personenschaden*: Behandlungskosten, Verdienstausfall, Haushaltsführungsschaden
 5. **Schmerzensgeld** (§ 253 Abs. 2 BGB): Verletzungsdokumentation; Orientierung an
-   Hacks/Wellner/Häcker sowie Beck'scher Schmerzensgeldtabelle; Ausgleichs- und
+   Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
    Genugtuungsfunktion.
 6. **Verhandlung mit Versicherer**: Anspruchsschreiben mit vollständiger Aufstellung; Fristsetzung
    2–4 Wochen; ggf. Mahnung (§ 286 BGB) für Verzugszinsen.
@@ -124,11 +112,11 @@ nach § 7 StVG ebenfalls aus Betriebsgefahr; eine konkrete Verkehrspflichtverlet
 nachgewiesen → Haftungsquote 100 % G (vorbehaltlich genauer Unfallrekonstruktion).
 
 *130%-Grenze (§ 249 BGB)*: Reparaturkosten EUR 8.200 = 109 % des WBW (EUR 7.500). Unter der
-130%-Schwelle (BGH, Urt. v. 02.03.2010 – VI ZR 144/09, NJW 2010, 1445 Rn. 14). Reparatur
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wirtschaftlich vertretbar; M kann Reparaturkostenersatz verlangen.
 
-*Schmerzensgeld (§ 253 Abs. 2 BGB)*: HWS-Verletzung, 2 Tage AU → nach Hacks/Wellner/Häcker
-und Beck'scher Schmerzensgeldtabelle Orientierungswert EUR 300–800; Genaueres nach ärztlichem
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 Attest.
 
 ## Risiken und typische Fehler
@@ -150,8 +138,8 @@ Attest.
 ## Quellenpflicht
 
 Jede Aussage zur Haftungsquote, 130%-Grenze, Nutzungsausfall und Schmerzensgeldbemessung ist
-nach `references/zitierweise.md` zu belegen. BGH-Urteile vollständig (Datum, Az., NJW-Fundstelle,
-Rn.). Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Schmerzensgeldtabellen (Hacks/Wellner/Häcker;
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 Beck'sche Tabelle) als eigenständige Quellen mit Auflage und Jahr zitieren.
 
 <!-- AUDIT 27.05.2026

@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: "Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sachliche Zustaendigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i. d. F. seit 01.01.2026). Oertlich wahlweise Abflughafen oder Zielflughafen nach EuGH C-204/08 (Rehder) oder Sitz / Niederlassung der Airline § 13 ZPO. Kein Anwaltszwang vor dem Amtsgericht. Erzeugt Klageschrift Sachverhalt Antrag Begruendung mit Pinpoint EuGH-Rspr. Anlagen Beweismittel Streitwert Kostenantrag."
+description: "Workflow-Skill zu klage amtsgericht fluggast. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Klage zum Amtsgericht (Fluggastrechte)
@@ -24,7 +24,7 @@ Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten Streitwert
 
 ## Örtliche Zuständigkeit
 
-**EuGH, Urt. v. 09.07.2009 — C-204/08 (Rehder)**: Wahlrecht des Fluggasts. Klage kann am
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Abflugflughafen** oder
 - **Zielflughafen** der streitigen Flugstrecke
@@ -129,7 +129,7 @@ Streitwert: [Summe der Einzelanspruechen]
    mit gravierender Änderung.
 
    [bei Verspätung] Der Flug erreichte das Endziel mit [X] Stunden
-   Verspätung gemäß Art. 6 VO 261/2004 iVm EuGH-Rechtsprechung Sturgeon
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    C-402/07 — bei mehr als drei Stunden Verspätung am Endziel entsteht
    ein Ausgleichsanspruch wie bei Annullierung.
 
@@ -146,12 +146,12 @@ Streitwert: [Summe der Einzelanspruechen]
    VO 261/2004). Die Beklagte hat sich auf [Begründung der Airline]
    berufen. Dies verfaengt aus folgenden Gründen nicht:
    
-   [Bei technischem Defekt:] Technische Defekte sind nach EuGH, Urt. v.
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    22.12.2008 — C-549/07 (Wallentin-Hermann), regelmäßig nicht als
    außergewöhnliche Umstaende einzuordnen, weil sie Teil der normalen
    Ausübung der Tätigkeit des Luftfahrtunternehmens sind.
    
-   [Bei wildem Streik:] EuGH, Urt. v. 17.04.2018 — C-195/17 (Kruesemann),
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    ein wilder Streik des eigenen Personals stellt keinen außergewöhnlichen
    Umstand dar.
    
@@ -164,7 +164,7 @@ Streitwert: [Summe der Einzelanspruechen]
 
 8. Sachliche Zuständigkeit Amtsgericht (§ 23 Nr. 1 GVG bis zehntausend
    Euro). Oertliche Zuständigkeit [Abflughafen / Zielflughafen]
-   gemäß EuGH C-204/08 (Rehder).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ### 6. Beweisangebote
@@ -262,18 +262,11 @@ beA-Konvention:
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 09.07.2009 — C-204/08 (Rehder), NJW 2009, 2697 — oertliche Zustaendigkeit wahlweise am Abflug- oder Zielflughafen; Art. 33 Montrealuer Uebereinkommen gilt nicht fuer VO 261/2004
-- EuGH, Urt. v. 19.11.2009 — C-402/07 und C-432/07 (Sturgeon), NJW 2010, 43 — Verspaetung von drei Stunden oder mehr am Endziel begruendet Ausgleichsanspruch wie Annullierung; Gleichbehandlungsgebot
-- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts), NJW 2013, 1291 — bei Anschlussflug massgeblich ist Verspaetung am Endziel; auch wenn einzelne Teilstrecken puenktlich
-- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — technische Maengel kein aussergewoehnlicher Umstand; Airline traegt vollstaendige Beweislast fuer alle zumutbaren Massnahmen
-- BGH, Urt. v. 21.08.2012 — X ZR 138/11, NJW 2012, 3372 — Verjährung richtet sich nach § 195 BGB drei Jahre; keine kuerzen Sonderfristen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Staudinger/Keiler, Fluggastrechteverordnung, 5. Aufl. 2023, Art. 7 Rn. 1 ff. (Ausgleichszahlung) und Art. 5 Rn. 80 ff. (aussergewoehnliche Umstaende)
-- Greger/Zwickel, Haftungsrecht des Strassenverkehrs, 6. Aufl. 2021 — Vergleich Beweislastverteilung Transportrecht
-- Zöller/Schultzky, ZPO, 35. Aufl. 2024, § 60 Rn. 8 (Streitgenossenschaft Klage mehrerer Passagiere)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → SOEP-Verfahren erst ausschoepfen (kostenfrei); danach Klage
@@ -281,7 +274,7 @@ beA-Konvention:
 3. Streitwert berechnet? → bei > 10.000 EUR Landgericht (§ 71 GVG) + Anwaltszwang § 78 ZPO
 4. Beweismittel vollstaendig? → Boardingpaesse, Buchungsbestaetigung, Stoerungsbestaetigung, Mahnschreiben
 5. Richtige Beklagte? → ausfuehrendes Luftfahrtunternehmen (nicht Reiseveranstalter), Art. 2 lit. b VO 261/2004
-6. Gerichtswahl getroffen? → Abflughafen / Zielflughafen nach EuGH C-204/08 (Rehder)
+6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Adressat & Tonfall
 

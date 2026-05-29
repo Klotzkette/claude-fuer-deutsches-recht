@@ -1,6 +1,6 @@
 ---
 name: dienstleister-due-diligence
-description: "KI-Dienstleister Due Diligence fuer Kanzleien durchfuehren: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterpruefung, Art. 28 Abs. 1 DSGVO Garantiepflichten, ISO 27001 SOC 2. Pruefraster EU-Sitz vs. US-Sitz, Enterprise-Tier mit Training-Opt-out, Verschluesselung, Zertifizierungen, Subprozessoren, Standardvertragsklauseln. Output Dienstleister-Bewertungsmatrix mit Ampelstatus und AVV-Empfehlung. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Musterklauseln-IT."
+description: "KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterprüfung, Art. 28 Abs. 1 DSGVO Garantiepflichten, ISO 27001 SOC 2. Prüfraster EU-Sitz vs. US-Sitz, Enterprise-Tier mit Training-Opt-out, Verschluesselung, Zertifizierungen, Subprozessoren, Standardvertragsklauseln. Output Dienstleister-Bewertungsmatrix mit Ampelstatus und AVV-Empfehlung. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Musterklauseln-IT."
 ---
 
 # Dienstleister Due Diligence
@@ -58,9 +58,7 @@ Die sorgfältige Auswahl des KI-Dienstleisters ist eine zentrale berufsrechtlich
 Die Zertifizierungen und die EU-US-Datenschutzrahmen sind regelmäßig auf Aktualität zu prüfen. Datenschutzbehörden-Entscheidungen zu einzelnen KI-Anbietern (z.B. Untersagungen durch DPAs) sind zu beobachten. Jährliche Neubeurteilung des eingesetzten Dienstleisters empfohlen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Due Diligence bei US-Anbietern erfordert Transfer Impact Assessment; EU-Sitz-Anforderung nicht absolut.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 55: Sorgfaltspflicht bei KI-Dienstleister-Auswahl — Verantwortlicher bleibt fuer Entscheidungslogik haftbar.
-- BGH, Urt. v. 17.05.2018 — VII ZR 157/17, NJW 2018, 2412 Rn. 18: AGB-Kontrolle von Haftungsausschluessen bei komplexen IT-Systemen; Dienstleister-Due-Diligence muss Haftungsklauseln pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 28 Abs. 1 DSGVO — hinreichende Garantien des Auftragsverarbeiters
@@ -103,5 +101,4 @@ Geprueft von: [NAME], [DATUM]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 035:
-- GELOESCHT: OLG Muenchen, 09.11.2021 — 33 U 2023/21, NJW-RR 2022, 85 Rn. 18 (Status: NOT_FOUND; Entscheidung in dejure.org-Datenbank nicht auffindbar; kein Nachweis einer realen Entscheidung dieses AZ bei OLG Muenchen)
 -->

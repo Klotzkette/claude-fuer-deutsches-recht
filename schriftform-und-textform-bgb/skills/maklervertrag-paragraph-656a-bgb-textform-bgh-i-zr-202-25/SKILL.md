@@ -1,9 +1,9 @@
 ---
 name: maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25
-description: "Maklervertrag Paragraph 656a BGB Textform - BGH I ZR 202/25 vom 11. Maerz 2026: E-Mail-Austausch erfuellt Textform auch auf getrennten Datentraegern; konkludenter Abschluss moeglich wenn wesentliche Bestandteile bestimmbar; Erklaerungsende muss erkennbar sein (Provisionshinweis unter Grussformel genuegt nicht); Bereicherungsanspruch des Maklers gesperrt bei Textformverstoss."
+description: "Workflow-Skill zu maklervertrag paragraph 656a bgb textform bgh i zr 202 25. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
-# Maklervertrag § 656a BGB — Textform und BGH I ZR 202/25
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
@@ -11,9 +11,9 @@ description: "Maklervertrag Paragraph 656a BGB Textform - BGH I ZR 202/25 vom 11
 - **§ 126b BGB** — Textform: lesbare Erklärung auf dauerhaftem Datenträger; Person des Erklärenden und Abschluss der Erklärung erkennbar
 - **§ 125 BGB** — Nichtigkeit bei Formverstoß
 - **§ 812 Abs. 1 S. 1 BGB** — Bereicherungsanspruch
-- **BGH I ZR 202/25 vom 11. März 2026** — Leitentscheidung Maklervertrag Textform
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## BGH-Linie — I ZR 202/25 vom 11. März 2026
+## Rechtsprechung live prüfen
 
 ### Sachverhalt (vereinfacht)
 
@@ -93,7 +93,7 @@ Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach 
 | Im Haupttext der E-Mail, vor der Grussformel | Textform gewahrt (sofern auch die anderen Voraussetzungen vorliegen) |
 | Im Haupttext, mit ausdruecklicher Bezugnahme | Textform gewahrt |
 | In separatem Absatz nach Grussformel, aber mit Verweis aus dem Haupttext | Textform gewahrt — der Haupttext zieht den Hinweis in die Erklaerung |
-| Im Footer / unter Grussformel, ohne Bezug aus dem Haupttext | **Textform NICHT gewahrt** (BGH I ZR 202/25) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | In separater Anlage / PDF, im Haupttext darauf verwiesen | Textform gewahrt, sofern Anlage dauerhaft uebermittelt |
 | In einer Standardsignatur, die in jeder E-Mail steht | Textform NICHT gewahrt — die Erklaerung endet vor der Signatur |
 
@@ -102,7 +102,7 @@ Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach 
 | Sachverhalt | Ergebnis |
 |----|----|
 | Makler beauftragt per E-Mail "Bitte vermitteln Sie", Interessent antwortet "Bestaetigt" — Provision im Haupttext | Textform gewahrt, Provisionsanspruch besteht |
-| Makler-E-Mail enthaelt Provisionshinweis unter Signatur und Grussformel | Textform NICHT gewahrt (BGH I ZR 202/25); kein Provisionsanspruch, auch nicht bereicherungsrechtlich |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Mündliche Beauftragung am Telefon, spaeter schriftliche Bestaetigung des Maklers, der Kaeufer antwortet aber nie | Keine Textform-Annahme — kein wirksamer Vertrag |
 | Makler schickt Auftragsbestaetigung mit Provisionshinweis im Haupttext, Kaeufer nimmt Leistung in Anspruch ohne explizite Antwort | Konkludente Annahme moeglich (Leitsatz 2), wenn wesentliche Bestandteile bestimmbar |
 | Gewerbeimmobilie | § 656a BGB nicht anwendbar — Maklervertrag formfrei zulaessig |
@@ -148,7 +148,7 @@ Seit dem 23. Dezember 2020 muss ein Maklervertrag ueber den Kauf
 einer Wohnung oder eines Einfamilienhauses in Textform geschlossen
 werden (§ 656a BGB). Ohne Textform ist der Vertrag nichtig und
 der Makler hat keinen Anspruch — auch nicht im Wege des
-Bereicherungsausgleichs (BGH I ZR 202/25 vom 11. Maerz 2026).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Textform ist z. B. gewahrt durch:
 - E-Mail-Austausch (Angebot des Maklers + Ihre Bestaetigung), wenn
@@ -172,7 +172,7 @@ Rueckforderung nach Paragraph 812 BGB in Betracht kommen.
 ```
 Hinweis zur rechtssicheren Provisionsvereinbarung:
 
-Nach der Leitentscheidung des BGH (I ZR 202/25 vom 11. Maerz 2026)
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ist bei Maklertaetigkeit fuer Wohnungen und Einfamilienhaeuser
 unbedingt zu beachten:
 
@@ -192,7 +192,7 @@ unbedingt zu beachten:
    - Gegenstand des Hauptvertrags (welche Immobilie)
 
 4. Folge eines Formverstosses: kein Provisionsanspruch, auch
-   nicht bereicherungsrechtlich (Leitsatz 4 BGH I ZR 202/25).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Empfehlung: standardisiertes E-Mail-Template mit Provisionshinweis
 im Haupttext verwenden und durch Bestaetigung des Kaufinteressenten
@@ -201,7 +201,7 @@ abschliessen lassen.
 
 ## Fallstricke
 
-- **Signatur-Falle**: Provisionshinweise in Standard-Signaturen oder Footer-Bausteinen sind unwirksam (BGH I ZR 202/25 Leitsatz 3) — der Hinweis muss im Haupttext stehen oder vom Haupttext aufgegriffen werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Grussformel-Falle**: Was nach "Mit freundlichen Gruessen" und Namensangabe steht, ist nicht mehr Teil der Erklaerung, es sei denn, der Haupttext nimmt darauf Bezug.
 - **Bereicherungssperre wirkt nur in eine Richtung**: Der **Makler** kann nicht ueber § 812 BGB Provision verlangen. Der **Kaeufer** kann hingegen eine bereits gezahlte Provision nach § 812 BGB zurueckfordern — die Bereicherungssperre dient gerade dem Verbraucherschutz.
 - **Konkludente Annahme aber Textform-Angebot**: Auch wenn der Vertrag konkludent zustande kommen kann (Leitsatz 2), muss das **Angebot** in Textform vorliegen und die wesentlichen Bestandteile bestimmbar enthalten. Eine rein muendliche Anbahnung mit konkludenter Annahme genuegt nicht.

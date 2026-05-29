@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-brussels-ia-zustaendigkeit
-description: "Grenzueberschreitender Rechtsstreit: Glaeubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zustaendig ist. VO 1215/2012 Bruessel-Ia. Pruefraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zustaendigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zustaendigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-pruefen."
+description: "Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen."
 ---
 
 # Brüssel-Ia-VO Internationale Zuständigkeit
@@ -59,7 +59,7 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 - Art. 18 II: Nur am Wohnsitz des Verbrauchers
 
-### „Targeting Test" Art. 17 I c)
+### "Targeting Test" Art. 17 I c)
 
 - Unternehmer richtet Aktivitäten gezielt auf Mitgliedstaat des Verbrauchers
 - Website in Sprache, Waehrung, Versand-Adresse
@@ -80,9 +80,8 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 ### Asymmetrische Klauseln
 
-- BGH, Beschl. v. 15.6.2021 — II ZB 35/20: zulaessig
-- EuGH C-537/23 v. 27.2.2025: weitere Anforderungen
-- „A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- "A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
 
 ## 7) Ausschließliche Zuständigkeit Art. 24
 
@@ -141,10 +140,7 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 ## 12) EuGH-/BGH-Linien
 
-- EuGH C-381/08 (Erfüllungsort Warenkauf)
-- EuGH C-218/12 (Targeting-Test Verbraucher)
-- BGH II ZB 35/20 (Asymmetrische Klausel)
-- EuGH C-537/23 v. 27.2.2025 (Anforderungen an Klauseln)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -164,9 +160,7 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 ### Ergaenzende Leitsaetze Bruessel Ia
 
-- EuGH, Urt. v. 24.11.2020 - C-59/19 (Wikingerhof/Booking.com), NJW 2021, 289 Rn. 30 — Art. 7 Nr. 2 Bruessel Ia (Deliktsgerichtsstand): anwendbar wenn Klage auf Verstos gegen Deliktsrecht gestuetzt, auch wenn Vertrag existiert; Abgrenzung nach Schwerpunkt des Klageanspruchs.
-- EuGH, Urt. v. 17.06.2021 - C-800/19, NJW 2021, 2809 Rn. 42 — Schiedsklausel faellt nicht unter Bruessel Ia; Gericht am Schiedssitz prueft Zustaendigkeit nach autonomem Schiedsrecht.
-- EuGH, Urt. v. 07.04.2022 - C-568/20, NJW 2022, 1961 Rn. 27 — Verbraucher Art. 17-19 Bruessel Ia: Gerichtsstand am Verbraucher-Wohnsitz auch wenn Verbraucher Vertrag selbst abgeschlossen hat wenn Unternehmer gewerblich taetig war.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Gerichtsstand-Memo Bruessel Ia
 **Adressat:** Mandant — Tonfall: klar erklaerend, ergebnisorientiert
@@ -186,6 +180,5 @@ Streitgegenstand: [VERTRAG / DELIKT]
 ```
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: BGH IX ZR 51/19 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Ergänzende Leitsätze Brüssel Ia) entfernt. Bundle-Hinweis: real existiert XII ZR 51/19 (Mietrecht/Schriftform, Familienrecht-Senat), inhaltlich unpassend. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

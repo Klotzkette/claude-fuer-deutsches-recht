@@ -1,6 +1,6 @@
 ---
 name: satzungskompetenz-pruefen
-description: "Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentlichen Rechts pruefen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprueft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IHK-Gesetz HwO Hochschulen Hochschulgesetz Sozialversicherungstraeger § 33 SGB IV. Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33/125 Ermaechtigungsgrundlage Inhalt Zweck Ausmass Genehmigungsvorbehalt Aufsichtsbehoerde Bekanntmachung richtiges Publikationsorgan. Output Empfehlung Satzung auf welcher Grundlage erlassbar."
+description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprüft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IHK-Gesetz HwO Hochschulen Hochschulgesetz Sozialversicherungstraeger § 33 SGB IV. Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33/125 Ermaechtigungsgrundlage Inhalt Zweck Ausmass Genehmigungsvorbehalt Aufsichtsbehoerde Bekanntmachung richtiges Publikationsorgan. Output Empfehlung Satzung auf welcher Grundlage erlassbar."
 ---
 
 # Satzungskompetenz prüfen
@@ -35,7 +35,7 @@ description: "Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentli
 
 ## Pruefstation 3 - Vorbehalt des Gesetzes
 
-Auch bei Satzungen gilt: wesentliche Entscheidungen muss der parlamentarische Gesetzgeber selbst treffen. BVerfGE 33 / 125 (Facharzt-Beschluss) - die Ärztekammer kann nicht in Berufsausübung der Ärzte umfassend regeln, ohne dass das Landesheilberufekammergesetz die wichtigsten Aspekte selbst regelt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Faustregel: je tiefer der Grundrechtseingriff, desto mehr muss das ermaechtigende Gesetz selbst regeln.
 
@@ -62,19 +62,15 @@ Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhaf
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 14.01.1969 — 2 BvR 515/66, BVerfGE 25, 198 Rn. 28 — kommunale Satzungshoheit als Auspraegunsg der Selbstverwaltungsgarantie Art. 28 Abs. 2 GG; staatliche Einschraenkungen muessen verhaeltnismaessig sein
-- BVerwG, Urt. v. 11.07.2019 — 8 C 2.18, NVwZ 2020, 63 — Satzungskompetenz setzt gesetzliche Ermaechtigungsgrundlage voraus; kommunale Satzung ohne Ermaechtigungs-Grundlage ist nichtig; Wesentlichkeitstheorie gilt analog
-- VGH Mannheim, Urt. v. 26.06.2019 — 1 S 3140/17, NVwZ-RR 2019, 820 — Satzung muss hinreichend bestimmt sein; unbestimmte Satzungsklauseln verletzten Bestimmtheitsgebot aus Art. 20 Abs. 3 GG; oeffentliche Satzungen sind dem Bestimmtheitsgebot wie Parlamentsgesetze unterworfen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze fuer Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 28 Rn. 65 ff. (Selbstverwaltungsgarantie, Satzungshoheit)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 14 ff. (kommunale Satzungen, Satzungskompetenz-Grundlagen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 | Frage | Antwort |

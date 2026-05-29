@@ -1,6 +1,6 @@
 ---
 name: normenkontrollantrag-schriftsatz
-description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Pruefraster: Rubrum Antrag Begruendung Zulaessigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbeduerfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begruendung Schriftverkehr. Output: vollstaendiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle."
+description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle."
 ---
 
 # Normenkontrollantrag — Schriftsatz
@@ -180,14 +180,8 @@ C. Beachtlichkeit / Rüge
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BVerwG, Urt. v. 09.04.2008 — 4 CN 1.07, BVerwGE 131, 100 Rn. 18: Der Normenkontrollantrag muss den Bebauungsplan mit Bekanntmachungsdatum praezise bezeichnen; eine ungenaue Antragsfassung kann zur Unzulaessigkeit fuehren.
-- BVerwG, Urt. v. 20.11.2018 — 4 CN 7.17, NVwZ 2019, 487 Rn. 22: Die Jahresfrist des § 47 Abs. 2 VwGO beginnt mit ordnungsmaessiger ortsueblicher Bekanntmachung; fehlerhafte Bekanntmachung loest die Frist nicht aus.
-- BVerwG, Urt. v. 16.06.2021 — 4 CN 5.20, BVerwGE 172, 340 Rn. 28: Teilunwirksamkeit eines Bebauungsplans setzt voraus, dass der fehlerhafte Teilbereich abtrennbar ist und der Rest die Planungsabsicht der Gemeinde noch verwirklicht.
-- BVerwG, Beschl. v. 14.09.2022 — 4 BN 12.22, NVwZ 2023, 156 Rn. 15: Ruegefrist nach § 215 BauGB ist eingehalten, wenn die Ruege der Gemeinde (nicht dem Gericht) innerhalb eines Jahres nach Bekanntmachung schriftlich zugeht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 214, 215 Rn. 1 ff.
-- Ernst/Zinkahn, BauGB — §§ 214, 215 BauGB Planerhaltung
-- Kopp/Schenke, VwGO, 29. Aufl. — § 47 Rn. 1 ff. Normenkontrolle
-- Schoch/Schneider, VwGO — § 47 Rn. 1 ff.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

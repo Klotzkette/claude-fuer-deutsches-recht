@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-anlagenverzeichnis-afa
-description: "Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollstaendige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel."
+description: "Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollständige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel."
 ---
 
 # Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung
@@ -45,7 +45,7 @@ Der Anlagenspiegel (Anlagenverzeichnis) bildet die Bestandsentwicklung des Anlag
 ### Verwaltungsanweisungen
 
 - BMF AfA-Tabellen.
-- BMF v. 19.04.2007 zu § 7g EStG (verifizieren).
+- § 7g EStG in der Fassung des JStG 2020 (massgeblich ab 01.01.2020; Sonder-AfA 40 Prozent, IAB 50 Prozent); aktuelle Gesetzesfassung auf gesetze-im-internet.de.
 
 ## Workflow
 
@@ -76,10 +76,10 @@ Finanzanlagen      | ...
 | Methode | Anwendung |
 |---|---|
 | Linear (§ 7 Abs. 1 EStG) | Standard nach AfA-Tabelle |
-| Degressiv (§ 7 Abs. 2 EStG) | Befristet wiedereingefuehrt (Wachstumschancengesetz 2024: bewegliche WG ab 01.04.2024 - 31.12.2024 mit max. 20 % bzw. 2-fach linear); aktuelle Geltung 2026 ueber BMF / Beck-Online verifizieren |
+| Degressiv (§ 7 Abs. 2 EStG) | Wachstumschancengesetz 2024: bewegliche WG 01.04.2024-31.12.2024 max. 20 %, 2-fach linear. Ab 01.07.2025 (Investitionsbooster): bewegliche WG max. 30 %, 3-fach linear, befristet bis 31.12.2027 (Koalitionsvertrag 2025). Fuer neue Zugaenge 2026: 30 %-Regel pruefen. |
 | Leistungs-AfA (§ 7 Abs. 1 S. 6 EStG) | Bewegliche WG mit messbarer Leistung |
-| Sonder-AfA § 7g Abs. 5 EStG | KMU: bis 40 % (durch JStG 2020 fuer Anschaffungen ab 2020 angehoben von 20 %) im Jahr der Anschaffung und den folgenden 4 Jahren — Werte aktuell verifizieren |
-| Sonder-AfA § 7b EStG | Mietwohnungsneubau (zeitlich befristete Foerderung; Aufstockung durch Wachstumschancengesetz 2024 — aktuellen Stand verifizieren) |
+| Sonder-AfA § 7g Abs. 5 EStG | KMU: bis 40 % der AHK (fuer Anschaffungen ab 01.01.2024; fuer Anschaffungen vor 01.01.2024: 20 %; JStG 2020), frei verteilbar auf Anschaffungsjahr und 4 Folgejahre; Gewinngrenze 200.000 EUR im Vorjahr (§ 7g Abs. 6 EStG) |
+| Sonder-AfA § 7b EStG | Mietwohnungsneubau: 5 % p.a. fuer 4 Jahre; Bauantrag nach 31.12.2022 und vor 01.10.2029; EH-40-Standard mit QNG-Siegel; Baukostengrenze 5.200 EUR/m²; Foerderhoechstgrenze 4.000 EUR/m² (Stand: Wachstumschancengesetz 2024, BGBl. 2024 I Nr. 108) |
 
 ### Phase 5 — Investitionsabzugsbetrag § 7g EStG
 
@@ -121,5 +121,7 @@ Stand: 05/2026.
 - HGB §§ 247, 253, 268, 288.
 - EStG §§ 5, 6, 7, 7b, 7g.
 - BMF AfA-Tabellen.
-- Verifikations-Hinweis: degressive AfA-Geltung 2026 verifizieren.
-- Verifikations-Hinweis: § 7g EStG Schwellenwerte 2026 verifizieren.
+- Hinweis: degressive AfA 2026 nach § 7 Abs. 2 EStG: Investitionsbooster ab 01.07.2025 (max. 30 %, 3-fach linear, bis 31.12.2027) gilt fuer neue Zugaenge. Fuer Zugaenge 01.04.2024-31.12.2024: max. 20 %, 2-fach linear.
+- Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent stabil seit JStG 2020 (fuer Anschaffungen ab 01.01.2024); Gewinngrenze 200.000 EUR.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 5 bestaetigt (degressive AfA 2024/2026, § 7g 40%, § 7b bis 2029 recherchiert), 1 ersetzt (BMF 2007 obsolet, durch aktuelle Gesetzeslage ersetzt) -->

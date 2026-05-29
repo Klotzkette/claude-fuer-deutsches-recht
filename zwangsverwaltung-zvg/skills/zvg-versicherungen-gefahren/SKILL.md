@@ -1,6 +1,6 @@
 ---
 name: zvg-versicherungen-gefahren
-description: "Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Pruefraster Gebaeudeversicherung Haftpflicht Beitragsrueckstaende Schadenmeldung Deckungspruefung Notmassnahmen Sicherung. Output Versicherungspruefbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenfuehrung."
+description: "Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Prüfraster Gebaeudeversicherung Haftpflicht Beitragsrückstaende Schadenmeldung Deckungsprüfung Notmassnahmen Sicherung. Output Versicherungsprüfbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenführung."
 ---
 
 # Versicherungen und Gefahren
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 28.06.2012 - IX ZB 183/09, NZI 2012, 690 Rn. 18 — Der Zwangsverwalter hat ab Besitzerlangung die Verkehrssicherungspflicht für das Objekt; bei Verletzung dieser Pflicht und Schäden an Dritten haftet er persönlich nach § 823 BGB bzw. § 280 BGB; eine ausreichende Gebäudehaftpflichtversicherung ist zwingend.
-- BGH, Beschl. v. 19.01.2006 - IX ZB 87/04, NZI 2006, 281 Rn. 16 — Der Zwangsverwalter ist verpflichtet, das Objekt gegen die typischen Risiken (Brand Leitungswasser Sturm) zu versichern; fehlender Versicherungsschutz begründet Pflichtverletzung und Schadensersatzrisiko.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Versicherungen/Gefahren
 
 § 152 ZVG (ordnungsgemäße Verwaltung) → § 823 BGB (Verkehrssicherungspflicht) → § 836 BGB (Gebäudeeigentümerhaftung) → § 280 BGB (Pflichtverletzung) → § 9 ZwVwV (Versicherung und Gefahren) → VVG (Versicherungsvertragsrecht allgemein)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 152 Rn. 80-100 (Versicherungspflichten)
-- Palandt/Sprau § 836 BGB Rn. 5-20 (Gebäudehaftung)
-- Böttcher ZVG 6. Aufl., § 9 ZwVwV Rn. 1-15 (Versicherung und Sicherung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Versicherungen/Gefahren
 
 1. Ist die Gebäudeversicherung (Feuer Leitungswasser Sturm) aktiv?

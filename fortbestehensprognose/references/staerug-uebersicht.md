@@ -89,5 +89,5 @@ Wenn die Prognose **negativ** ist, ist die **drohende Zahlungsunfähigkeit § 18
 
 - Originaltext StaRUG auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de/starug/).
 - Pape/Uhländer, StaRUG Kommentar.
-- BeckOK StaRUG (Skauradszun).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - IDW S 9 für Bescheinigungen.

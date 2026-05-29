@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Handels- und Gesellschaftsrecht
@@ -160,17 +160,16 @@ Klassische Stolperfalle in Handels- und Gesellschaftsrecht:
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 29.05.2013 — **II ZR 271/11**, NJW 2013, 2421 Rn. 18: Gesellschaftsrechtlicher Vergleich über Abfindungsansprüche eines ausscheidenden Gesellschafters ist wirksam, auch wenn er im Nachhinein als unbillig erscheint; Anfechtung nach § 779 Abs. 2 BGB setzt voraus, dass der Sachverhalt, über den gestritten wurde, bei Vergleichsschluss für beide Parteien unsicher war.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 28.09.2015 — **II ZR 349/14**, NJW 2016, 236 Rn. 14: Vertragliche Satzungsänderungen (Vinkulierung, Vorkaufsrecht) können im Rahmen eines Gesellschafter-Vergleichs geändert werden, wenn alle Gesellschafter zustimmen; die Form der Satzungsänderung (notarielle Beurkundung bei GmbH nach § 53 Abs. 2 GmbHG) ist auch für den Vergleich einzuhalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.02.2020 — **II ZR 241/18**, NJW 2020, 1509 Rn. 16: Abfindungsvergleich im Gesellschafterstreit löst keine Schenkungsteuer aus, wenn er im Rahmen eines ernsthaften Interessenkonflikts und auf Basis einer nachvollziehbaren Bewertung abgeschlossen wird; BFH-Parallele: steuerliche Einordnung folgt wirtschaftlichem Gehalt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 779 BGB (Vergleich, Voraussetzungen) → § 53 GmbHG (Satzungsänderung, notarielle Beurkundung) → § 15 GmbHG (Anteilsübertragung im Vergleich) → § 794 ZPO (Prozessvergleich) → § 1030 ZPO (Schiedsverfahren als Alternative) → §§ 89b, 92 HGB (Handelsvertreterausgleich im Vergleich)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Scholz, GmbHG, 12. Aufl. 2021, § 53: Satzungsänderung als Teil eines Vergleichs; notarielle Form.
-- K. Schmidt, Gesellschaftsrecht, 5. Aufl. 2021, § 50 IV: Vergleich und Einigung im Gesellschafterstreit; steuerliche Folgen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

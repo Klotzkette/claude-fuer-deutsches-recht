@@ -1,6 +1,6 @@
 ---
 name: expatriate-pensionsplanung-und-totalization
-description: "Pensionsplanung fuer Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Pruefraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchfuehrungsweg."
+description: "Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg."
 ---
 
 # Expatriate-Pensionsplanung und Totalization
@@ -46,7 +46,7 @@ Kyoto-Büro: Yuki Yamamoto-Brennecke (DE-JP-Totalization)
 
 **Lokaler Transfer (Local Hire im Gastland):**
 - Gastland-Recht gilt vollständig
-- Risiko: „Stranded Pension" — Anwartschaften in mehreren Ländern, keine koordinierte Gesamtrente
+- Risiko: "Stranded Pension" — Anwartschaften in mehreren Ländern, keine koordinierte Gesamtrente
 
 ### Schritt 2: Sozialversicherungsabkommen und Totalization
 
@@ -200,12 +200,8 @@ D. BESONDERES: STRANDED PENSIONS
 
 ## Aktuelle Rechtsprechung und Leitsaetze
 
-- **EuGH, Urt. v. 19.09.2019 — C-168/18 (Bauer/Willmeroth)**, NZA 2019, 1627 — Unverfallbarkeit betrieblicher Rentenanwartschaften nach EU-Recht; Portabilitaetsrichtlinie verpflichtet Mitgliedstaaten zur Mindestunverfallbarkeit auch bei kurzen Beschaeftigungszeiten; gilt auch bei Entsendungen mit Heimatlands-Versorgungsplan.
-- **EuGH, Urt. v. 07.09.2004 — C-319/02 (Manninen)**, NJW 2004, 3099 — Steuerliche Gleichbehandlung von Altersvorsorgebeitraegen in grenzueberschreitenden Sachverhalten; DBA-Anrechnungsverfahren muss effektiven Schutz vor Doppelbesteuerung sicherstellen.
-- **BSG, Urt. v. 20.03.2013 — B 12 R 13/11 R**, BSGE 113, 151 — A1-Bescheinigung hat bindende Wirkung fuer Gastland-Beh oerden solange sie nicht zurueckgenommen ist; fehlende A1 fuehrt zu Doppelbeitragspflicht.
-- **BAG, Urt. v. 21.10.2014 — 3 AZR 1/13**, NZA 2015, 228 — Rueckkehrklausel im Expat-Vertrag: Bei Rueckkehr in das deutsche Versorgungswerk gelten die Unverfallbarkeitsfristen des deutschen Stammarbeitgebers (BetrAVG); Auslandszeiten sind auf die Wartezeit anzurechnen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Steinmeyer, 25. Aufl. 2025, BetrAVG § 4 Rn. 1 ff. (Portabilitaet, Uebertragung, Expat-Konstellationen)
-- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 (Internationales Arbeitsrecht, Entsendung, SV-Abkommen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

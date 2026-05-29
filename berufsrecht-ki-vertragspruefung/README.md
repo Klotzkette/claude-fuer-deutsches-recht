@@ -16,7 +16,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 
 ## Worum es geht
@@ -79,4 +79,4 @@ Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrah
 - BT-Drs. 18/12940 für historische Genese von § 43e BRAO
 - BRAK-Leitfaden Dezember 2024 nur am Rande
 - BGH-Pinpoint mit Aktenzeichen und Randnummer
-- Kommentarliteratur: Grüneberg / MüKo (nicht Palandt)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

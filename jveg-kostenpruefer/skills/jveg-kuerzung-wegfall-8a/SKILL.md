@@ -1,6 +1,6 @@
 ---
 name: jveg-kuerzung-wegfall-8a
-description: "Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG pruefen: fehlerhafte Gutachten, Verspaetung. Normen: § 8a JVEG. Pruefraster: Verschulden, Kausalitaet, Kuerzungsumfang. Output: Pruefergebnis Kuerzung § 8a JVEG mit Begruendung. Abgrenzung: nicht Dreimonatsfrist § 2 JVEG."
+description: "Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG prüfen: fehlerhafte Gutachten, Verspaetung. Normen: § 8a JVEG. Prüfraster: Verschulden, Kausalität, Kuerzungsumfang. Output: Prüfergebnis Kuerzung § 8a JVEG mit Begründung. Abgrenzung: nicht Dreimonatsfrist § 2 JVEG."
 ---
 
 # JVEG-Kuerzung-Wegfall-8a
@@ -24,16 +24,14 @@ Prüfe, ob und in welchem Umfang die Sachverständigenvergütung nach § 8a JVEG
 - § 407a ZPO (Hinweisobliegenheit des Sachverständigen)
 
 ## Rechtsprechung
-1. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — § 8a JVEG erlaubt Kürzung oder Wegfall nur bei wesentlichen Mängeln; bloße Meinungsverschiedenheiten über methodische Ansätze genügen nicht.
-2. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die Vergütung kann nur für Leistungen gekürzt werden, die nicht der erforderlichen Sorgfalt entsprechen; nicht erbrachte Leistungen entfallen vollständig.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Fehlende Hinweise des Sachverständigen auf Vorschussüberschreitung führen zur Kürzung des übersteigenden Betrags.
-4. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Befangenheit des Sachverständigen führt nicht automatisch zum Wegfall der Vergütung; es kommt auf den Umfang der tatsächlich verwertbaren Leistung an.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 8a Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG § 8a Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 8a Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Gutachten liegt vor und Kostenbeamter oder Gericht erwägt Kürzung nach § 8a JVEG.
 

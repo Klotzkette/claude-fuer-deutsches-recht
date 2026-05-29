@@ -1,6 +1,6 @@
 ---
 name: verwandte-skills-vorschlag
-description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: Ergaenzungsempfehlungen. Normen: technisch/intern. Pruefraster: Rechtsgebiet, Verfahrensphase, Mandantentyp. Output: Vorschlagsliste verwandter Skills. Abgrenzung: nicht Kommandocenter-Navigation."
+description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: Ergaenzungsempfehlungen. Normen: technisch/intern. Prüfraster: Rechtsgebiet, Verfahrensphase, Mandantentyp. Output: Vorschlagsliste verwandter Skills. Abgrenzung: nicht Kommandocenter-Navigation."
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung
@@ -13,10 +13,7 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 4. Verarbeitet der zu empfehlende Skill Mandantendaten (DSGVO-Hinweis erforderlich)?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Vor dem Einsatz eines Community-Skills mit Mandantendaten-Zugriff ist AVV nach Art. 28 DSGVO mit dem Registry-Anbieter zu prufen.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Einsatz externer Software-Tools in der Kanzlei erfordert Prüfung der Vertrauenswuerdigkeit des Anbieters; Community-Skills sind keine amtlichen Produkte.
-- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Datensparsamkeit gilt auch fuer empfohlene Tools; Skill-Vorschlag darf keine unnoetigen Daten offenbaren.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Datenschutz-Hinweis bei Weitergabe von Mandanteninformationen an Drittanbieter ist Pflicht; Community-Skill-Empfehlung muss diesen Hinweis enthalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV: jeder Community-Skill-Anbieter mit Datenzugriff ist Auftragsverarbeiter
@@ -24,10 +21,9 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Community-Skills duerfen keine Mandantengeheimnisse exponieren
 - § 203 StGB — Verletzung von Privatgeheimnissen: gilt auch bei Weiterleitung an Community-Skill-Infrastruktur
 
-## Kommentarliteratur
-- Sydow/Marsch DSGVO Art. 28 Rn. 1-30 (Auftragsverarbeitung: Community-Software als Auftragsverarbeiter)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Grenzen beim Einsatz externer Software)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Die Community könnte etwas gebaut haben, das Sie gerade selbst erstellen oder gesucht haben. Dieser Skill bemerkt dies und erwähnt es — einmal, kurz, nicht nervig. Keine Unterbrechung laufender Arbeit. Nur am Ende einer Aufgabe.
@@ -69,9 +65,9 @@ Basierend auf der Aufgabenbeschreibung passende Skills in den Registries suchen:
 ### Schritt 3: Ausgabe
 
 **Bei starker Übereinstimmung:**
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — „[Beschreibung]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ausprobieren.
+> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Beschreibung]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ausprobieren.
 
-**Bei keiner starken Übereinstimmung:** Keine Ausgabe. Nicht ankündigen „Ich habe nichts gefunden."
+**Bei keiner starken Übereinstimmung:** Keine Ausgabe. Nicht ankündigen "Ich habe nichts gefunden."
 
 ### Schritt 4: Häufigkeitsbegrenzung
 
@@ -87,7 +83,7 @@ Gemäß `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hu
 ### Kanzlei-spezifische Hinweise im Surfacing
 
 Wenn ein vorgeschlagener Skill Mandantendaten verarbeiten könnte, folgenden Hinweis ergänzen:
-> „Vor der Installation: Prüfen Sie, ob dieser Skill Mandantendaten verarbeitet. Falls ja, ist eine Auftragsverarbeitung nach Art. 28 DSGVO sowie eine TOM-Prüfung nach Art. 32 DSGVO erforderlich."
+> "Vor der Installation: Prüfen Sie, ob dieser Skill Mandantendaten verarbeitet. Falls ja, ist eine Auftragsverarbeitung nach Art. 28 DSGVO sowie eine TOM-Prüfung nach Art. 32 DSGVO erforderlich."
 
 ## Quellen und Zitierweise
 
@@ -102,7 +98,7 @@ Keine direkten Rechtsnormen in diesem Skill. Bei Empfehlungen datenschutzrelevan
 Maximal ein kurzer einzeiliger Hinweis nach einer Aufgabe. Nie mehr als zwei Skills gleichzeitig empfehlen — wenn mehrere passen, den am besten passenden auswählen.
 
 Format:
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — „[Kurzbeschreibung in einem Satz]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ansehen.
+> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Kurzbeschreibung in einem Satz]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ansehen.
 
 ## Entscheidungsbaum am Ende
 
@@ -121,7 +117,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 [Nach Vertragsreview mit NDAs]
 
 💡 Die Community hat einen Skill dafür: **nda-prüfung** aus kanzlei-skills —
-„Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
+"Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
 /kanzlei-builder-hub:skill-installierer nda-prüfung zum Ansehen.
 ```
 
@@ -129,7 +125,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 [Nach DSGVO-Aufgabe]
 
 💡 Die Community hat einen Skill dafür: **avv-generator** aus kanzlei-datenschutz-skills —
-„Generiert Auftragsverarbeitungsverträge nach Art. 28 DSGVO."
+"Generiert Auftragsverarbeitungsverträge nach Art. 28 DSGVO."
 /kanzlei-builder-hub:skill-installierer avv-generator zum Ansehen.
 
 Hinweis: Vor der Installation — dieser Skill verarbeitet Mandantendaten. TOM-Prüfung nach

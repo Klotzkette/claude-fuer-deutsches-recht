@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-doping-verfahren
-description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Pruefraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein)."
+description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein)."
 ---
 
 # Doping-Verfahren
@@ -41,8 +41,8 @@ description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingt
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| KZR 6/15 | BGH, 07.06.2016 (Pechstein) | Sport-Schiedsklausel wirksam; CAS strukturell ausgewogen |
-| 1 BvR 2103/16 | BVerfG, 03.06.2022 | Anti-Doping-Schiedsgerichtsbarkeit verfassungsgemäß |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | CAS 2014/A/3642 | CAS (2014) | No significant fault; Supplement-Kontamination; Kölner Liste relevant |
 | CAS 2019/A/6148 | CAS (2019) | Whereabouts-Verstöße; Kumulationsprinzip; Verfahrensmängel |
 | 4A_558/2011 | Schweizer BGer (2012) — Pechstein | CAS-Anfechtung vor BGer; enge Prüfung Ordre public |
@@ -283,4 +283,4 @@ E. Sanktionshöhe unverhältnismäßig
 
 ## Quellen
 
-Stand: 05/2026. WADA-Code 2021 Art. 2.1, 2.4, 3.1, 9, 10, 13, 17. NADA-Code (Deutschland, aktuelle Fassung). AntiDopG §§ 1–4. CAS Code Art. R49, R51. BGH KZR 6/15 (07.06.2016). BVerfG 1 BvR 2103/16 (03.06.2022). CAS 2014/A/3642. Schweizer BGer 4A_558/2011. WADA Prohibited List (jährlich Januar aktualisieren). Kölner Liste (cologne-list.eu laufend prüfen). Adolphsen Sportrecht. Lehner/Nolte/Putzke Handbuch Sportrecht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

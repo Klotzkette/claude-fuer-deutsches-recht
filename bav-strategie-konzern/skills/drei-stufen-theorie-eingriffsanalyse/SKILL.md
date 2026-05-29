@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-theorie-eingriffsanalyse
-description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Pruefraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhaeltnismaessigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Loesungen."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
@@ -12,31 +12,27 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 
 ## Rechtsgrundlagen
 
-- BAG Großer Senat 17.3.1987 — GS 1/82 (Grundlagenentscheidung Drei-Stufen-Theorie — betriebliche Übung und Vertrauensschutz)
-- BAG 17.4.2012 — 3 AZR 392/06 (Leitentscheidung: Drei-Stufen-Theorie für Eingriffe in Direktzusagen durch Betriebsvereinbarung; ausführliche Darlegung der Eingriffsintensität je Stufe)
-- BAG 11.12.2018 — 3 AZR 23/17 (Drei-Stufen-Theorie bei individualvertraglichen Änderungen)
-- BAG 9.12.2014 — 3 AZR 904/12 (Eingriff in erdiente Dynamik durch Rentenformel-Änderung)
-- BAG 19.7.2016 — 3 AZR 751/14 (sachliche Gründe bei künftigen Zuwächsen — keine strengen Anforderungen)
-- BAG 10.11.2015 — 3 AZR 576/14 (Ablösung Betriebsvereinbarung — Drei-Stufen gilt auch kollektivrechtlich)
-- BVerfG 15.7.1998 — 1 BvR 1554/89 (Eigentumsschutz erdienter Versorgungsanwartschaften — Art. 14 GG)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 1, 2, 16 BetrAVG (Unverfallbarkeit, Berechnung, Anpassung)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung; erzwingbare Mitbestimmung)
-- EuGH C-168/18 (Bauer/Willmeroth) — Unionsrechtlicher Mindestschutz
-- BAG 26.09.2023 — 3 AZR 264/21 (Drei-Stufen: Gesamtversorgungsklausel mit Nettolohnbezug; Einfrieren des Nettolohnanteils ist Stufe-2-Eingriff; triftige Gründe erforderlich wenn Rentenabsenkung den Gesamtversorgungsgrad tangiert)
-- BAG 13.10.2020 — 3 AZR 410/18 (Ablauf Versorgungswerkschließung: Einfrierung Future Service bei sachlichem Grund zulässig; deutliche Kommunikation des Stichtags an Berechtigte zwingend)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 1 Rn. 400 ff. (Drei-Stufen-Theorie Eingriffsanalyse)
-- Langohr-Plato, Betriebliche Altersversorgung, 8. Aufl. 2022, Kap. 12 (Eingriffe und Besitzstandsschutz)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Systemverständnis Drei-Stufen-Theorie
 
-Die Drei-Stufen-Theorie ist das zentrale Instrument zur Beurteilung von Einschränkungen betrieblicher Versorgungsrechte. Sie wurde durch den BAG Großen Senat in GS 1/82 entwickelt und durch BAG 3 AZR 392/06 präzisiert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Grundprinzip:** Je stärker der Eingriff in eine bereits erdiente Position, desto gewichtiger müssen die Rechtfertigungsgründe des Arbeitgebers sein.
 
@@ -46,7 +42,7 @@ Die Drei-Stufen-Theorie ist das zentrale Instrument zur Beurteilung von Einschr�
 
 **Gegenstand:** Bereits vollständig erdiente Anwartschaften und laufende Renten — d.h. die nach § 2 Abs. 1 BetrAVG berechnete unverfallbare Anwartschaft zum Eingriffszeitpunkt (m/n-tel-Anteil der Vollleistung). Bei Rentnern: bereits laufende Rente.
 
-**Schutzniveau:** Absolut geschützt — auch bei Betriebsvereinbarung (BAG GS 1/82). Selbst triftige oder sogar zwingende Gründe genügen nicht für Eingriff in Stufe 1. Verfassungsrechtlich geschützt gem. Art. 14 GG (BVerfG 15.7.1998 — 1 BvR 1554/89).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praxisregel Treuenfels Yamamoto:** Kein Mandant, dem Dr. von Sompeh-Ostermann berät, darf Stufe-1-Positionen anfassen. Jeder Entwurf einer Änderungsregelung enthält den expliziten Besitzstandsschutz (→ Template Besitzstandsklausel).
 
@@ -62,7 +58,7 @@ Die Drei-Stufen-Theorie ist das zentrale Instrument zur Beurteilung von Einschr�
 
 **Gegenstand:** Anwartschaftszuwächse aus künftig noch zu leistenden Dienstjahren — also der Teil der Versorgungsanwartschaft, der noch nicht erdient ist.
 
-**Schutzniveau:** Niedrig — **sachliche Gründe** genügen (keine Abwägung im strengen Sinne); wirtschaftliche Schwierigkeiten des Arbeitgebers reichen aus (BAG 19.7.2016 — 3 AZR 751/14).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Beispiel:** Schließung des Versorgungswerks für künftige Dienstjahre (future service freeze) mit Besitzstandsschutz für Stufen 1 und 2 → nur sachliche Gründe erforderlich.
 
@@ -198,7 +194,7 @@ Für Stufe-3-Eingriffe (sachliche Gründe):
 
 1. **Falsche Stufenzuordnung:** Häufigster Fehler: Mandant behauptet, nur in Stufe 3 einzugreifen, tatsächlich sind dynamische Stufe-2-Komponenten betroffen (z.B. gehaltsabhängige Rentenformel — Gehaltserhöhungen hätten noch die erdienten Anwartschaften erhöht). Sorgfältige Versorgungsordnungsanalyse unverzichtbar.
 
-2. **Betriebsvereinbarungsablösung — Vertrauensschutz:** Auch wenn eine neue BV eine alte BV ablöst, prüft das BAG die Drei-Stufen-Theorie (BAG 10.11.2015 — 3 AZR 576/14). Die Möglichkeit der Ablösung durch Mehrheitsbeschluss des Betriebsrats schützt nicht vor der materiellen Eingriffsanalyse.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. **Individualvertragliche Änderungen:** Selbst wenn Arbeitnehmer einer Versorgungsänderung zustimmt (Änderungsvertrag), schützt die Drei-Stufen-Theorie vor unzulässigen Stufe-1-Eingriffen — AGB-Kontrolle und § 307 BGB (unangemessene Benachteiligung) gelten zusätzlich.
 

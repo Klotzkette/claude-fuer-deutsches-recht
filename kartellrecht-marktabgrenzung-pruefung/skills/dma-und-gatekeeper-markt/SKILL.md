@@ -44,7 +44,7 @@ Auch bei Unterschreitung der Schwellen kann die Kommission Gatekeeper-Status des
 ### DMA-Designierung als Marktindiz
 
 Eine Gatekeeper-Designierung für einen Kernplattformdienst stützt (aber ersetzt nicht) die kartellrechtliche Marktdefinition für diesen Dienst:
-- Designierung von Google als Gatekeeper für „allgemeine Online-Suchdienste" → Bestätigt kartellrechtliche Marktdefinition für Art. 102 AEUV-Zwecke.
+- Designierung von Google als Gatekeeper für "allgemeine Online-Suchdienste" → Bestätigt kartellrechtliche Marktdefinition für Art. 102 AEUV-Zwecke.
 - Vorsicht: DMA-Marktdefinition und kartellrechtliche Marktdefinition sind nicht deckungsgleich.
 
 ### Verhältnis zu Art. 102 AEUV
@@ -53,20 +53,18 @@ DMA und Art. 102 AEUV bestehen nebeneinander (kein Vorrang, Art. 1 Abs. 6 DMA). 
 
 ### § 19a GWB — Deutsches Pendant
 
-Das BKartA kann Unternehmen mit „überragender marktübergreifender Bedeutung" besondere Verhaltenspflichten auferlegen. Bisherige Designierungen: Alphabet/Google (2021/2023); Meta Platforms (2022); Amazon (2022); Apple (2023); Microsoft (2023).
+Das BKartA kann Unternehmen mit "überragender marktübergreifender Bedeutung" besondere Verhaltenspflichten auferlegen. Bisherige Designierungen: Alphabet/Google (2021/2023); Meta Platforms (2022); Amazon (2022); Apple (2023); Microsoft (2023).
 
 ## Leitentscheidungen DMA und Gatekeeper
 
-- EuGH, Urt. v. 27.06.2023 — C-252/21 (Facebook), NZKart 2023, 430 — Beziehung DSGVO und Wettbewerbsrecht; Datenverarbeitung als marktrelevanter Faktor; Parallelzustaendigkeit BKartA und DSB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Datenmarkt als Wettbewerbsfaktor; Fusionskontrolle im Digitalmarkt.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — § 19a GWB Gatekeeper-Norm; ueberragende marktuebergreifende Bedeutung; Ausdehnung BKartA-Zustaendigkeit Digitalmaerkte.
 - EK, DMA-Beschl. v. 25.04.2023 (Alphabet als Gatekeeper) — Erstanwendung DMA Art. 3; Gatekeeper-Status Alphabet/Google; Folge-Pflichten.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 19a Rn. 1-40 (Sondernorm Digitalmaerkte, ueberragende Bedeutung)
-- Immenga/Mestmaecker Digital Markets Act Art. 2 Rn. 1-50 (Gatekeeper-Definition, Verfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfprotokoll DMA-Relevanz
 
 ```

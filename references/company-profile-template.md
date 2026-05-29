@@ -40,8 +40,8 @@ Bearbeiten Sie die Datei direkt oder aktualisieren Sie sie über das `/kaltstart
 ## Schlüsselpersonen
 
 **Kanzleileitung / Managing Partner:** [Name]
-**Datenschutzbeauftragter (sofern bestellt):** [Name oder „nicht bestellt"]
-**Eskalationskette:** [Name → Name → Name, oder „je nach Plugin individuell festgelegt"]
+**Datenschutzbeauftragter (sofern bestellt):** [Name oder "nicht bestellt"]
+**Eskalationskette:** [Name → Name → Name, oder "je nach Plugin individuell festgelegt"]
 
 ---
 

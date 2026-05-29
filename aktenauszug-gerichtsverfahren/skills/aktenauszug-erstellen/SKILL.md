@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-erstellen
-description: "Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturpruefung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Ueberblick)."
+description: "Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturprüfung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Überblick)."
 ---
 
 # Aktenauszug Erstellen — Hauptworkflow
@@ -30,16 +30,11 @@ Wer ein Gerichtsverfahren schnell erfassen muss — sei es beim Mandatswechsel, 
 
 ## Aktuelle Rechtsprechung zum Aktenauszug und Verfahrensrecht
 
-- BGH, Urt. v. 14.03.2023 - VIII ZR 300/22, NJW 2023, 2100 — Zur Pflicht des Gerichts nach § 139 ZPO, auf fehlende Angriffs- und Verteidigungsmittel hinzuweisen; ein mangelhafter Aktenauszug kann Hinweispflichtverletzung verschleiern.
-- BGH, Urt. v. 10.11.2021 - VIII ZR 107/20, NJW 2022, 321 — Dokumentation und Nachvollziehbarkeit von Schriftsatz-Fristen als Voraussetzung wirksamer Fristenkontrolle.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Thomas/Putzo ZPO, § 128 Rn. 1-20 (Muendliches Verfahren, Schriftsätze)
-- Zöller/Greger ZPO, § 139 Rn. 1-25 (Prozessleitung, Hinweispflicht)
-- MüKo ZPO/Fritsche, § 253 Rn. 1 ff. (Klageschrift und Klagezustellung)
-- BeckOK ZPO/Bacher, § 355 Rn. 1 ff. (Beweisaufnahme Sachverständiger)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Voraussetzungen
 
 - Gerichtliche Akte oder wesentliche Teile davon (PDF, Word, maschinenlesbar)
@@ -174,7 +169,6 @@ Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Qualitätsgrundsätze
 
 - Keine Erfolgsprognose
@@ -191,4 +185,3 @@ Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturierte
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
 - BGH VII ZB 36/20: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org oder bundesgerichtshof.de; NJW-RR 2022, 1350 konnte keinem BGH VII ZB 36/20 zugeordnet werden)
-- BGH VIII ZB 96/19: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org; Datum 29.09.2020 ergibt kein Ergebnis fuer dieses Aktenzeichen)

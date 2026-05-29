@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-gegendarstellung-presse
-description: "Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Pruefung Schriftsatz Klage."
+description: "Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage."
 ---
 
 # Gegendarstellung Presserecht
@@ -111,11 +111,7 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 
 ## 8) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.12.2010 – VI ZR 30/09, NJW 2011, 745 Rn. 14: Online-Abruf verlaengert die Gegendarstellungsfrist nicht unbegrenzt; massgeblicher Zeitpunkt ist der erste Abruf durch den Betroffenen, spaetestens nach vernuenftiger Kenntnisnahme-Moeglickeit.
-- BGH, Urt. v. 23.06.2009 – VI ZR 196/08, NJW 2009, 3576 Rn. 19: Gegendarstellung darf keine eigenen Wertungen oder Angriffe enthalten; Schmaehinhalte berechtigen Verlag zur Ablehnung; nur sachliche Richtigstellung ist zulässig.
-- BGH, Urt. v. 28.07.2015 – VI ZR 340/14, NJW 2015, 3153 Rn. 20: Unterlassungsanspruch nach § 1004 BGB analog bei Persoenlichkeitsrechtsverletzung durch Online-Berichterstattung; Veroeffentlichungsdatum entscheidet ueber Verjaehrungsbeginn.
-- BVerfG, Beschl. v. 25.10.2005 – 1 BvR 1696/98, NJW 2006, 207 Rn. 29: Abwaegung Meinungsfreiheit Art. 5 GG gegen Persoenlichkeitsrecht Art. 2 Abs. 1, 1 Abs. 1 GG; bei Tatsachenbehauptungen in Berichten ueberwiegt bei nachweislicher Unwahrhheit das Persoenlichkeitsrecht.
-- OLG Hamburg, Urt. v. 18.01.2022 – 7 U 126/21, NJW-RR 2022, 554 Rn. 33: Gegendarstellungspflicht gilt auch fuer Online-Ausgaben von Tageszeitungen; Veroeffentlichungspflicht in gleich prominenter Platzierung wie Ausgangsbeitrag (auch im Digitalteil).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

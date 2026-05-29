@@ -1,6 +1,6 @@
 ---
 name: gegenseite-status
-description: "Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Pruefraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz, Sicherheitsleistung. Output: Statusbericht Gegenseite. Abgrenzung: nicht Streitwert oder Anspruchstabelle."
+description: "Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Prüfraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz, Sicherheitsleistung. Output: Statusbericht Gegenseite. Abgrenzung: nicht Streitwert oder Anspruchstabelle."
 ---
 
 # Statusabfrage Externe Bevollmächtigte
@@ -27,15 +27,11 @@ Jede Woche dieselbe Statusanfrage an externe Bevollmächtigte für 5–15 Prozes
 
 ### Leitentscheidungen
 
-- **BGH, Urt. v. 08.11.2007 – IX ZR 58/06, NJW 2008, 224 Rn. 18 ff.** — Auskunfts- und Rechenschaftspflicht des Rechtsanwalts gegenüber dem Mandanten; regelmäßige schriftliche Berichterstattung als Teil der Sorgfaltspflicht.
-- **BGH, Urt. v. 19.01.2006 – IX ZR 232/04, NJW 2006, 1579 Rn. 12** — Haftung des Rechtsanwalts bei unterlassener Information über veränderte Prozesslage; Kommunikationspflichten im laufenden Prozessmandat.
-- **BGH, Urt. v. 06.06.2013 – IX ZR 204/12, NJW 2013, 2747 Rn. 14** — Pflicht zur Unterrichtung des Mandanten über drohende Kostenrisiken; Relevanz für Budgetabfragen in Statusschreiben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 120` — Unterrichtungspflichten des Anwalts; Reichweite der Berichterstattungspflicht gegenüber Mandanten und bei Korrespondenzmandat.
-- `Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.03.2024), § 49b Rn. 8` — Vergütungsabrechnungen; Transparenz im Mandatsverhältnis.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Mandate filtern
@@ -76,7 +72,7 @@ Kurze Rückmeldung zu [Mandatsbezeichnung] erbeten. Einige Punkte:
 
 4. **Budget** — [monatlich / quartalsweise / auf Anfrage gemäß Kanzleikonfiguration]. Wo stehen wir gegenüber [Budgetrahmen aus akte.md]? Gibt es Abweichungen?
 
-[Falls wesentlich und relevant: 5. Konkrete Bitte — z. B. „Bitte Entwurf des Schriftsatzes vor [Datum] übersenden" — aus offenen Punkten in akte.md.]
+[Falls wesentlich und relevant: 5. Konkrete Bitte — z. B. "Bitte Entwurf des Schriftsatzes vor [Datum] übersenden" — aus offenen Punkten in akte.md.]
 
 [Grußformel — Name, Funktion, Kontakt. Aus Kanzleikonfiguration.]
 ```
@@ -106,7 +102,7 @@ Datei: `gegenseite-status/[JJJJ-MM-TT]/[slug].md`
 **Von:** [Unterzeichner Name/E-Mail aus Kanzleikonfiguration]
 **Betreff:** [Betreffzeile]
 
-> Der Arbeitsergebnis-Kopf oben gilt für diesen internen Vermerk. Der ausgehende E-Mail-Text unten geht an externe Bevollmächtigte in einem Mandatsverhältnis, das selbst durch Verschwiegenheit (§ 43a Abs. 2 BRAO) geschützt ist — Vertraulichkeitskennzeichnung gemäß Kanzleikonfiguration auf der versendeten E-Mail anbringen (typisch: „Vertraulich — Anwaltskorrespondenz / Mandatsgeheimnis").
+> Der Arbeitsergebnis-Kopf oben gilt für diesen internen Vermerk. Der ausgehende E-Mail-Text unten geht an externe Bevollmächtigte in einem Mandatsverhältnis, das selbst durch Verschwiegenheit (§ 43a Abs. 2 BRAO) geschützt ist — Vertraulichkeitskennzeichnung gemäß Kanzleikonfiguration auf der versendeten E-Mail anbringen (typisch: "Vertraulich — Anwaltskorrespondenz / Mandatsgeheimnis").
 
 ---
 
@@ -117,7 +113,7 @@ Datei: `gegenseite-status/[JJJJ-MM-TT]/[slug].md`
 
 Falls die Outlook-MCP-Integration authentifiziert ist:
 
-- Je Mandat wird ein Entwurf im Outlook-Postfach (Ordner „Entwürfe") angelegt mit `an`, `von`, `betreff` und `text`
+- Je Mandat wird ein Entwurf im Outlook-Postfach (Ordner "Entwürfe") angelegt mit `an`, `von`, `betreff` und `text`
 - Der Entwurf liegt montags zur Prüfung bereit
 - Falls die MCP-Integration nicht verfügbar oder fehlerhaft ist: Rückfall auf Markdown und Hinweis an den Nutzer
 
@@ -167,7 +163,7 @@ Nach Verarbeitung aller Mandate: `gegenseite-status/[JJJJ-MM-TT]/_zusammenfassun
 ## Quellenpflicht
 
 - Gesetzestexte: §§ 43a, 49b BRAO; §§ 2 ff. RVG; § 667 BGB
-- Rechtsprechung: BGH, Urt. v. 08.11.2007 – IX ZR 58/06, NJW 2008, 224; BGH, Urt. v. 19.01.2006 – IX ZR 232/04, NJW 2006, 1579
-- Kommentare: Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 120; Römermann, in: BeckOK BRAO, 21. Ed. 2024, § 49b
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

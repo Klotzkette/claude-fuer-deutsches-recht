@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierung-starug-plan
-description: "StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfaehigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Workflow Anzeige Plan-Aufstellung Abstimmung Bestaetigung."
+description: "StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Workflow Anzeige Plan-Aufstellung Abstimmung Bestätigung."
 ---
 
 # StaRUG-Restrukturierungsplan
@@ -148,22 +148,20 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 
 ## 10) BGH-/AG-Linien
 
-- AG Hamburg, Beschl. v. 28.4.2021 — 67g IN 121/21 (erstes StaRUG-Verfahren)
-- BGH, Beschl. v. 13.7.2023 — IX ZB 24/22 (Sanierungs-Aussichten-Prüfung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 11) Praxis-Hinweise
 
 - StaRUG seit 1.1.2021
 - Bisherige Verfahren-Anzahl: ~50 pro Jahr (gering, da hohe Eintrittsschwellen)
 - Beratungs-Markt: spezielle StaRUG-Kanzleien
-- Kombination mit M&A: „Distressed M&A" via StaRUG
+- Kombination mit M&A: "Distressed M&A" via StaRUG
 
 ## Anschluss
 
 - `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` — bei Insolvenz-Wechsel
 - `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
 - `krisenfrueherkennung-starug` — bei Vorbereitung
-
 
 ## Triage — StaRUG-Plan oder Insolvenz?
 
@@ -177,21 +175,15 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen StaRUG
 
-- BGH, Beschl. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG-Mehrheiten: 75%-Schwelle § 25 StaRUG bezieht sich auf die Summe der Forderungen der abstimmenden Glaeubiger je Klasse; stimmrechtslose Glaeubiger zaehlen nicht in den Nenner.
-- BGH, Beschl. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cross-Class-Cramdown § 26 StaRUG: Plan kann gegen ablehnende Klasse bestaetigt werden wenn kein Glaeubiger dieser Klasse schlechter gestellt als ohne Plan (Best-Interest-Test) und Mehrheit der Klassen zugestimmt.
-- LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Restrukturierungsplan-Bestaetigung: Anforderungen an darstellenden Teil § 8 StaRUG; Vergleichsrechnung (Liquidationswert) muss nachvollziehbar sein.
-- BGH, Beschl. v. 10.11.2022 — IX ZB 36/21, NZI 2023, 86 — Stabilisierungsanordnung § 49 StaRUG: Voraussetzungen streng; konkrete Glaubhaftmachung Sanierungs-Faehigkeit und Drohung Vollstreckungsschaden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette StaRUG-Plan
 
 § 29 StaRUG (Restrukturierungssache) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan-Struktur) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 49 StaRUG (Stabilisierung) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
 
-## Kommentarliteratur StaRUG
+## Quellenregel
 
-- MüKo InsO/Gehrlein, Anhang: StaRUG, 4. Aufl. 2019 (Nachtrag 2021) — Grundkommentierung.
-- Braun/Herzig, StaRUG, 1. Aufl. 2021, Beck — erstes grosses Spezialkommentarwerk zum StaRUG.
-- Uhlenbruck/App, StaRUG §§ 7-39 Rn. 1 ff. — Plan-Struktur im Detail.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Workflow — 7 Schritte StaRUG-Restrukturierungsplan
 
 1. **Krisenstadium verifizieren:** 24-Monats-Forecast § 29 Abs. 2 StaRUG; bei ZU § 17 InsO Notfallwechsel → InsO.

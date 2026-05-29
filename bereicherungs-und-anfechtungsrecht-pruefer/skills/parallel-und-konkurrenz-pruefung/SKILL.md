@@ -1,6 +1,6 @@
 ---
 name: parallel-und-konkurrenz-pruefung
-description: "Bereicherungsrecht und Anfechtungsrecht gleichzeitig pruefen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Parallelitaet, Subsidiaritaet, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelpruefung je Regelungskreis."
+description: "Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelität, Subsidiarität, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung je Regelungskreis."
 ---
 
 # Parallel- und Konkurrenzprüfung
@@ -19,20 +19,17 @@ description: "Bereicherungsrecht und Anfechtungsrecht gleichzeitig pruefen: Ansp
 
 ## Rechtsprechung
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Bereicherungsansprüche (§ 812 BGB) und InsO-Anfechtungsansprüche können nebeneinander stehen, wenn ihre Tatbestandsmerkmale unabhängig voneinander erfüllt sind; Doppelbefriedigung ist ausgeschlossen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.01.2012 – IX ZR 2/11, NJW 2012, 1209 — § 985 BGB ist gegenüber § 812 BGB vorrangig, solange das Eigentum des Anspruchstellers besteht; Bereicherungsrecht tritt subsidiär ein, sobald das Eigentum weggefallen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.04.2006 – IX ZR 185/04, NJW 2006, 2701 — Mit Eröffnung des Insolvenzverfahrens erlischt das Anfechtungsrecht des Einzelgläubigers nach AnfG; ab Verfahrenseröffnung handelt ausschließlich der Insolvenzverwalter nach §§ 129 ff. InsO.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.05.2011 – IX ZR 9/10, NJW 2011, 2492 — § 826 BGB (sittenwidrige Schädigung) und § 133 InsO (Vorsatzanfechtung) können konkurrieren; bei eröffnetem Insolvenzverfahren steht § 826 BGB-Schadensersatzanspruch der Masse zu.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 90–110 (Konkurrenz InsO-Anfechtung / § 812 BGB / § 826 BGB).
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 1–30 (Subsidiarität, Verhältnis zu Anfechtungsrecht).
-Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 20–40 (AnfG neben InsO, neben § 812 BGB).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Konstellation 1: § 812 BGB neben AnfG
 
 **Möglich, wenn:** Rechtsgrund nachträglich weggefallen (§ 142 BGB) UND Gläubigerbenachteiligung. Gläubiger wählt günstigeren Weg; Doppelherausgabe ausgeschlossen.

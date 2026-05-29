@@ -33,7 +33,7 @@ Bearbeitungsstand: Referentenentwurf des Bundesministeriums der Justiz, Stand 12
 
 Im Sinne dieses Gesetzes ist
 
-1. **Pflichtpostfach** ein elektronisches Postfach mit Identifizierungsfunktion auf dem Vertrauensniveau „hoch" im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 (eIDAS-Verordnung), das die in § 4 geregelte Interoperabilität gewährleistet und die Anforderungen der nach § 5 zu erlassenden Rechtsverordnung erfüllt;
+1. **Pflichtpostfach** ein elektronisches Postfach mit Identifizierungsfunktion auf dem Vertrauensniveau "hoch" im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 (eIDAS-Verordnung), das die in § 4 geregelte Interoperabilität gewährleistet und die Anforderungen der nach § 5 zu erlassenden Rechtsverordnung erfüllt;
 2. **Verpflichteter** eine in § 1 Absatz 1 genannte Person oder Stelle;
 3. **Sehr große Online-Plattform** ein in der Liste der Europäischen Kommission gemäß Artikel 33 Absatz 4 der Verordnung (EU) 2022/2065 als sehr groß bestimmter Anbieter eines Online-Vermittlungsdienstes;
 4. **Sehr große Online-Suchmaschine** ein in der Liste der Europäischen Kommission gemäß Artikel 33 Absatz 4 der Verordnung (EU) 2022/2065 als sehr groß bestimmter Anbieter einer Online-Suchmaschine;
@@ -67,7 +67,7 @@ Im Sinne dieses Gesetzes ist
 
 (3) Zustelldienste, an die das Pflichtpostfach angebunden werden muss, müssen erfüllen:
 
-1. das Vertrauensniveau „hoch" gemäß eIDAS-Verordnung,
+1. das Vertrauensniveau "hoch" gemäß eIDAS-Verordnung,
 2. eine nachweisbare elektronische Übermittlung mit Zeitstempel und kryptographischer Sicherung,
 3. die Erfüllung der Anforderungen der Verordnung (EU) 2024/1183 (eIDAS 2.0),
 4. die Vorgaben zur Barrierefreiheit nach der Verordnung (EU) 2019/882 und
@@ -78,7 +78,7 @@ Im Sinne dieses Gesetzes ist
 (1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat sowie dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung mit Zustimmung des Bundesrates die folgenden technischen und verfahrensrechtlichen Anforderungen näher zu regeln:
 
 1. die technischen Mindestanforderungen an das Pflichtpostfach, insbesondere zu kryptographischen Verfahren, Mindest-Verfügbarkeit, Datenschutz nach Maßgabe der Verordnung (EU) 2016/679 und IT-Sicherheit nach dem Gesetz über das Bundesamt für Sicherheit in der Informationstechnik,
-2. die Verfahren zur Authentifizierung der Nutzerinnen und Nutzer im Vertrauensniveau „hoch" gemäß Artikel 8 der eIDAS-Verordnung,
+2. die Verfahren zur Authentifizierung der Nutzerinnen und Nutzer im Vertrauensniveau "hoch" gemäß Artikel 8 der eIDAS-Verordnung,
 3. die Verfahren zur Bekanntgabe und Aktualisierung der Postfachadresse, insbesondere die Anforderungen an die Registerführung nach § 3,
 4. die einheitlichen Standards für die Interoperabilität der nach § 4 vorgegebenen Zustelldienste, einschließlich der einzuhaltenden Datenformate (XJustiz, JSON-Schema gemäß OZG-Vorgaben),
 5. die Mindeststandards für Barrierefreiheit gemäß der Verordnung (EU) 2019/882,
@@ -130,7 +130,7 @@ Das Handelsgesetzbuch in der im Bundesgesetzblatt Teil III, Gliederungsnummer 41
 
 1. Nach § 33 wird folgender § 33a eingefügt:
 
-> **„§ 33a Pflichtpostfach**
+> **"§ 33a Pflichtpostfach**
 >
 > (1) Im Handelsregister eingetragene Gesellschaften und ihre inländischen Zweigniederlassungen halten ein Pflichtpostfach nach dem Pflichtpostfachgesetz vor.
 >
@@ -140,11 +140,11 @@ Das Handelsgesetzbuch in der im Bundesgesetzblatt Teil III, Gliederungsnummer 41
 
 2. In § 8b Absatz 2 wird nach Nummer 12 folgende Nummer 13 angefügt:
 
-> „13. die Postfachadresse des Pflichtpostfachs nach § 33a."
+> "13. die Postfachadresse des Pflichtpostfachs nach § 33a."
 
 3. In § 162 wird nach Absatz 5 folgender Absatz 6 angefügt:
 
-> „(6) Auf Zweigniederlassungen ist § 33a entsprechend anzuwenden."
+> "(6) Auf Zweigniederlassungen ist § 33a entsprechend anzuwenden."
 
 ---
 
@@ -157,9 +157,9 @@ Die Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (
 
 1. Nach Satz 1 wird folgender Satz 2 eingefügt:
 
-> „Verpflichtete im Sinne des § 1 Absatz 1 des Pflichtpostfachgesetzes sind zur Zustellung an ihr Pflichtpostfach zu adressieren, wenn sie selbst an dem Verfahren beteiligt sind."
+> "Verpflichtete im Sinne des § 1 Absatz 1 des Pflichtpostfachgesetzes sind zur Zustellung an ihr Pflichtpostfach zu adressieren, wenn sie selbst an dem Verfahren beteiligt sind."
 
-2. In Satz 3 (alt: Satz 2) wird nach den Wörtern „elektronisch zu übermitteln" die Wortfolge „, soweit sich aus dem Pflichtpostfachgesetz nichts Abweichendes ergibt" eingefügt.
+2. In Satz 3 (alt: Satz 2) wird nach den Wörtern "elektronisch zu übermitteln" die Wortfolge ", soweit sich aus dem Pflichtpostfachgesetz nichts Abweichendes ergibt" eingefügt.
 
 ---
 
@@ -168,7 +168,7 @@ Die Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (
 
 § 14 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit vom 17. Dezember 2008 (BGBl. I S. 2586, 2587), das zuletzt durch Artikel ... des Gesetzes vom ... (BGBl. ...) geändert worden ist, wird wie folgt geändert:
 
-In Absatz 4 wird nach den Wörtern „elektronisch zu übermitteln" die Wortfolge „; § 1 des Pflichtpostfachgesetzes bleibt unberührt" eingefügt.
+In Absatz 4 wird nach den Wörtern "elektronisch zu übermitteln" die Wortfolge "; § 1 des Pflichtpostfachgesetzes bleibt unberührt" eingefügt.
 
 ---
 
@@ -181,7 +181,7 @@ Das Verwaltungszustellungsgesetz vom 12. August 2005 (BGBl. I S. 2354), das zule
 
 1. Nach Absatz 4 wird folgender Absatz 5 eingefügt:
 
-> „(5) Behörden stellen im elektronischen Zustellverfahren bei Verpflichteten im Sinne des § 1 Absatz 1 des Pflichtpostfachgesetzes an deren Pflichtpostfach zu, soweit nicht eine andere Form der Zustellung ausdrücklich angeordnet ist."
+> "(5) Behörden stellen im elektronischen Zustellverfahren bei Verpflichteten im Sinne des § 1 Absatz 1 des Pflichtpostfachgesetzes an deren Pflichtpostfach zu, soweit nicht eine andere Form der Zustellung ausdrücklich angeordnet ist."
 
 ---
 
@@ -192,16 +192,16 @@ Das Verwaltungszustellungsgesetz vom 12. August 2005 (BGBl. I S. 2354), das zule
 
 1. Nach Absatz 4 wird folgender Absatz 5 eingefügt:
 
-> „(5) Im Verkehr mit Verpflichteten im Sinne des § 1 Absatz 1 des Pflichtpostfachgesetzes stellt die Finanzbehörde an deren Pflichtpostfach zu, soweit eine elektronische Übermittlung möglich und der Verwaltungsakt elektronisch übermittelbar ist."
+> "(5) Im Verkehr mit Verpflichteten im Sinne des § 1 Absatz 1 des Pflichtpostfachgesetzes stellt die Finanzbehörde an deren Pflichtpostfach zu, soweit eine elektronische Übermittlung möglich und der Verwaltungsakt elektronisch übermittelbar ist."
 
 ---
 
 ## Artikel 7
 ### Folgeänderungen
 
-(1) In § 7 Absatz 3 Satz 1 des Insolvenz-Online-Verfahrens-Gesetzes wird nach den Wörtern „elektronisch zugestellt" die Wortfolge „oder durch das Pflichtpostfach nach dem Pflichtpostfachgesetz übermittelt" eingefügt.
+(1) In § 7 Absatz 3 Satz 1 des Insolvenz-Online-Verfahrens-Gesetzes wird nach den Wörtern "elektronisch zugestellt" die Wortfolge "oder durch das Pflichtpostfach nach dem Pflichtpostfachgesetz übermittelt" eingefügt.
 
-(2) In § 14 Absatz 2 des Gesetzes über das Verfahren bei Erbnachweisen vor dem Notar wird ein neuer Satz 3 angefügt: „Die elektronische Übermittlung erfolgt vorrangig über das Pflichtpostfach nach dem Pflichtpostfachgesetz, soweit der Berechtigte zur Vorhaltung verpflichtet ist."
+(2) In § 14 Absatz 2 des Gesetzes über das Verfahren bei Erbnachweisen vor dem Notar wird ein neuer Satz 3 angefügt: "Die elektronische Übermittlung erfolgt vorrangig über das Pflichtpostfach nach dem Pflichtpostfachgesetz, soweit der Berechtigte zur Vorhaltung verpflichtet ist."
 
 ---
 
@@ -222,7 +222,7 @@ Das Verwaltungszustellungsgesetz vom 12. August 2005 (BGBl. I S. 2354), das zule
 ---
 
 **Bezeichnung des Gesetzes** (für die Bekanntmachung):
-„Gesetz über das elektronische Pflichtpostfach (Pflichtpostfachgesetz – PflPostG) und zur Änderung weiterer Gesetze"
+"Gesetz über das elektronische Pflichtpostfach (Pflichtpostfachgesetz – PflPostG) und zur Änderung weiterer Gesetze"
 
 **Bezeichnung im Kurztitel:** PflPostG
 

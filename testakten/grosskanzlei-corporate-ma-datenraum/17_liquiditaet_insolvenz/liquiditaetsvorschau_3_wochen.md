@@ -6,7 +6,7 @@
 **Verfasser:** Counsel D / Restrukturierung, auf Basis CFO-Daten  
 **Status:** Interne Analyse — Vertraulich
 
-> **Warnung:** Management behauptet, die Liquidität reiche „locker bis Closing". Die nachfolgende Analyse kommt zu einem abweichenden Ergebnis.
+> **Warnung:** Management behauptet, die Liquidität reiche "locker bis Closing". Die nachfolgende Analyse kommt zu einem abweichenden Ergebnis.
 
 ---
 
@@ -71,7 +71,7 @@
 
 | Aussage Management | Rechnungsergebnis |
 |---|---|
-| „Liquidität reicht locker bis Closing" | KW 23 (02.06.2026) bereits negativ: EUR -48.000 |
+| "Liquidität reicht locker bis Closing" | KW 23 (02.06.2026) bereits negativ: EUR -48.000 |
 | Kreditlinie als Puffer eingerechnet | Covenant-Waiver fehlt — Kreditlinie nicht ziehbar |
 | Bestrittene Forderung als sicher eingeplant | Nicht wertbar, da Gegenpartei Widerspruch erhoben |
 

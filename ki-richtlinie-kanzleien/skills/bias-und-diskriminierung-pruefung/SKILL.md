@@ -1,11 +1,11 @@
 ---
 name: bias-und-diskriminierung-pruefung
-description: "Bias und Diskriminierung in KI-Outputs fuer Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Pruefraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Pruefprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
+description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
 ---
 
 # Bias und Diskriminierung Prüfung
 
-KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese „Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitenden befähigen, Bias zu erkennen und zu korrigieren.
+KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese "Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitenden befähigen, Bias zu erkennen und zu korrigieren.
 
 ## Rechtlicher Hintergrund
 
@@ -36,16 +36,14 @@ Stellt eine Mitarbeiterin oder ein Mitarbeiter fest, dass KI-generierter Output 
 Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse zur Bias-Anfälligkeit bestimmter KI-Systeme sollten in Schulungen aufgenommen werden. BAG-Entscheidungen zum AGG im Kontext von KI-Personalauswahl sowie Leitlinien der EU-Kommission zur Gleichbehandlung beim KI-Einsatz sind zu beobachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 23.04.2020 — C-507/18 (NH), NJW 2020, 1999 Rn. 31: AGG — auch hypothetische Diskriminierungstests begrunden Beweislastumkehr; gilt fuer KI-Auswahlsysteme.
-- BAG, Urt. v. 19.12.2019 — 8 AZR 2/19, NJW 2020, 1612 Rn. 22: Mittelbare Diskriminierung im Bewerbungsverfahren — neutrales Auswahlkriterium mit diskriminierender Wirkung genuegt.
-- BVerfG, Beschl. v. 16.07.2012 — 1 BvR 2983/10, NJW 2012, 2856 Rn. 18: Diskriminierungsschutz Art. 3 GG als Masstab auch bei mittelbar wirkenden technischen Systemen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 1 AGG — Schutz vor Diskriminierung (Rasse, Geschlecht, Alter, Behinderung, Herkunft)
 - § 15 AGG — Schadensersatz und Entschaedigung bei Diskriminierung
 - Art. 22 DSGVO — Automatisierte Entscheidungen mit moeglichem Diskriminierungspotenzial
 - Art. 5 Abs. 1 lit. c KI-VO — Verbot biometrischer Kategorisierung nach geschuetzten Merkmalen
-- Anhang III Nr. 2 KI-VO — Hochrisiko bei Bewerbungs-Screening und Leistungsbewertung
+- Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko bei Bewerbungs-Screening, Personalauswahl und Beschäftigtenmanagement nach Zweckbestimmung
 
 ## Triage zu Beginn
 1. Fuer welchen Zweck wird das KI-System eingesetzt — Bewerberauswahl, Mandatszuordnung, Leistungsbewertung?
@@ -69,7 +67,7 @@ Geschuetzte Merkmale (§ 1 AGG) — Analyse:
 | Behinderung | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
 
 KI-VO Art. 5 Abs. 1 lit. c: Biometrische Kategorisierung: [NICHT VORHANDEN / PRUEFUNG ERFORDERLICH]
-Anhang III Nr. 2 KI-VO: Hochrisiko: [JA / NEIN]
+Anhang III Nr. 4 KI-VO: Hochrisiko: [JA / NEIN — je nach Zweckbestimmung]
 
 Bias-Test durchgefuehrt: [JA — Methode: BESCHREIBUNG / NEIN — ERFORDERLICH]
 Gesamtbewertung: [KEIN MATERIALLES BIAS / BIAS GEFUNDEN — MASSNAHMEN ERFORDERLICH]

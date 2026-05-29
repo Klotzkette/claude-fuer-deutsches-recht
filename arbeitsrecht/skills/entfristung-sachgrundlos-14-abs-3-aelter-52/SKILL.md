@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrundlos-14-abs-3-aelter-52
-description: "Sachgrundlose Befristung fuer aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht."
+description: "Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht."
 ---
 
 # Sachgrundlose Befristung ab Alter 52 — § 14 Abs. 3 TzBfG
@@ -23,15 +23,11 @@ description: "Sachgrundlose Befristung fuer aeltere Arbeitnehmer nach § 14 Abs.
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 22.11.2005 – C-144/04 (Mangold), NZA 2005, 1345 — Der EuGH erklärte die Vorgänger-Regelung des § 14 Abs. 3 TzBfG a.F. für unvereinbar mit dem Verbot der Altersdiskriminierung der RL 2000/78/EG; dieser Ansatz führte zur Neufassung der Norm mit Vorarbeitslosigkeits-Voraussetzung.
-- EuGH, Urt. v. 19.01.2010 – C-555/07 (Kücüdeveci), NZA 2010, 85 — Das Verbot der Altersdiskriminierung ist ein allgemeiner Grundsatz des Unionsrechts; nationale Gerichte müssen unionsrechtswidrige nationale Regelungen unangewendet lassen.
-- BAG, Urt. v. 18.07.2012 – 7 AZR 443/09, NZA 2013, 161 — Das Vorbeschäftigungsverbot gilt auch für § 14 Abs. 3 TzBfG; eine frühere Beschäftigung beim selben Arbeitgeber sperrt die Anwendung der Altersbefristung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 130 ff. (ältere Arbeitnehmer)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 80 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die Regelung
 
 § 14 Abs. 3 TzBfG erlaubt eine sachgrundlose Befristung unter erleichterten Bedingungen, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat und unmittelbar vor Beginn des befristeten Arbeitsverhältnisses mindestens vier Monate beschäftigungslos i.S.d. § 119 Abs. 1 Nr. 1 SGB III war, Transferkurzarbeitergeld bezogen hat oder an einer öffentlich geförderten Beschäftigungsmaßnahme teilgenommen hat.

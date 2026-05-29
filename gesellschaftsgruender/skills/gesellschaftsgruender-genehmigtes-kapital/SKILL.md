@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-genehmigtes-kapital
-description: "Genehmigtes Kapital fuer GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Pruefraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG."
+description: "Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG."
 ---
 
 # Genehmigtes Kapital (§ 55a GmbHG)
@@ -23,17 +23,11 @@ description: "Genehmigtes Kapital fuer GmbH oder AG in Satzung aufnehmen: Ermaec
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40 (Kali+Salz) — Bezugsrechtsausschluss bei Kapitalerhöhung erfordert sachliche Rechtfertigung; verhältnismäßig; keine diskriminierenden Wirkungen; gilt entsprechend bei GmbH.
-- BGH, Urt. v. 17.02.1997 - II ZR 41/96, BGHZ 134, 364 (Gelatine) — Kapitalerhöhung mit Bezugsrechtsausschluss: sachliche Rechtfertigung muss substantiiert dargelegt werden; pauschaler Verweis auf Investor-Präferenz reicht nicht.
-- OLG München, Beschl. v. 29.05.2019 - 7 U 2378/17, NZG 2019, 819 — genehmigtes Kapital GmbH: Satzungsklausel muss eindeutige Höchstgrenze und Geltungsdauer enthalten; unbestimmte Klauseln sind unwirksam.
-- BGH, Urt. v. 24.09.2018 - II ZR 136/17, NJW 2019, 155 — Wandeldarlehen und Kapitalerhöhung: Wandlung in Anteile setzt wirksamen Erhöhungsbeschluss oder Ermächtigung (genehmigtes Kapital) voraus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Priester, GmbHG, § 55a Rn. 1-30 (genehmigtes Kapital, Voraussetzungen, Ermächtigung)
-- Lutter/Hommelhoff, GmbHG, § 55a Rn. 1-20 (Satzungsgestaltung, Praxishinweise)
-- Baumbach/Hueck, GmbHG, § 55a Rn. 1-15 (Vergleich AktG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Genehmigtes Kapital
 
 | Prüfungspunkt | Anforderung | Ergebnis |
@@ -135,9 +129,8 @@ Die Geschäftsführung beschließt:
 ## Quellen und Vertiefung
 
 - §§ 55, 55a, 53 GmbHG (genehmigtes Kapital, Kapitalerhöhung, Satzungsänderung)
-- BGH II ZR 142/76, BGHZ 71, 40 (Kali+Salz — Bezugsrechtsausschluss)
-- BGH II ZR 41/96, BGHZ 134, 364 (Gelatine — sachliche Rechtfertigung)
-- Scholz/Priester, GmbHG, § 55a Rn. 1-30
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills
 

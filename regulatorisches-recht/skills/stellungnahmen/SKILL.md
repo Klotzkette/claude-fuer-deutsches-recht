@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen
-description: "Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Pruefraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhaeltnismaessigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht fuer interne Compliance-Analysen."
+description: "Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhältnismäßigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht für interne Compliance-Analysen."
 ---
 
 # Konsultationsbeiträge
@@ -111,18 +111,15 @@ einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 12.05.2009 — 2 BvR 890/06, BVerfGE 123, 267 Rn. 80 — Stellungnahme im Gesetzgebungsverfahren als Ausdruck demokratischer Teilhabe; BVerfG erkennt Stimmrecht qualifizierter Interessengruppen als Legitimations-Basis; fehlende Stellungnahme-Beruecksichtigung ist kein Aufhebungsgrund
-- BVerwG, Urt. v. 18.03.2004 — 4 CN 4.02, BVerwGE 120, 239 — Stellungnahme-Pflicht bei Plan-Verfahren; fehlerhafte Beteiligung von Traegern oeffentlicher Belange fuehrt zur Rechtswidrigkeit wenn kausal
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 47-51 GGO (Verbands-Anhoerung, Stellungnahme-Verfahren) — Art. 41 GRCh (Recht auf gute Verwaltung, Anhoerungsrecht) — §§ 28, 29 VwVfG (Anhoerungsrecht im Verwaltungsverfahren) — §§ 2, 3 UmwRG (Verbandsklage, Stellungnahme)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 28 Rn. 1 ff. (Anhoerungsrecht, Stellungnahme-Pflicht)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 13 Rn. 30 ff. (Verbands-Stellungnahmen im Gesetzgebungsverfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -135,8 +132,8 @@ Einschlägige Normen und Verlautbarungen:
 - § 68 EnWG (BNetzA-Konsultationsverfahren)
 - BaFin-Rundschreiben: z. B. RS 10/2012 (BA) – MaRisk [Modellwissen – prüfen auf aktuelle Fassung]
 
-Kommentarliteratur:
-- Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl. 2016 (Kommentar zur BaFin-Zuständigkeit).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Lerch, ZAG, 2. Aufl. 2020 (Zahlungsdiensteaufsicht).
 
 ## Ausgabeformat
@@ -148,7 +145,7 @@ Kommentarliteratur:
 
 ## Beispiel
 
-**Eingabe:** „BaFin hat einen Konsultationsentwurf zur MaRisk-Novelle veröffentlicht. Frist: 30.06.2025. Bitte analysieren und Stellungnahme vorbereiten."
+**Eingabe:** "BaFin hat einen Konsultationsentwurf zur MaRisk-Novelle veröffentlicht. Frist: 30.06.2025. Bitte analysieren und Stellungnahme vorbereiten."
 
 **Ausgabe (Auszug):**
 
@@ -186,6 +183,5 @@ Kommentarliteratur:
 ---
 
 <!-- AUDIT 27.05.2026
-Geprueft: EuGH C-500/10
-Befund: GELOESCHT. Skill zitierte C-500/10 (Banca Antoniana Popolare Veneta) fuer das Thema "Stellungnahme im EU-Gesetzgebungsverfahren; Recht auf Anhoerung nach Art. 41 GRCh". Echtes Thema von C-500/10 ist Mehrwertsteuer (VAT): Automatische Beendigung von Steuergerichtsverfahren nach 10 Jahren; Effektivitaetsgrundsatz; keine Verbindung zu Art. 41 GRCh oder Stellungnahme-Verfahren. Entschieden 29.03.2012 (nicht 15.09.2011). Quelle: curia.europa.eu. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

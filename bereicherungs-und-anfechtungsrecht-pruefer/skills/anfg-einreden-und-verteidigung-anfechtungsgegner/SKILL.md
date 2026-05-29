@@ -1,6 +1,6 @@
 ---
 name: anfg-einreden-und-verteidigung-anfechtungsgegner
-description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Pruefraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschaeftsargument, Verjaebrung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO."
+description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO."
 ---
 
 # Einreden und Verteidigung des Anfechtungsgegners — AnfG
@@ -22,15 +22,11 @@ description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungs
 
 ## Rechtsprechung (BGH — Verteidigung gegen AnfG-Klage)
 
-- BGH, Urt. v. 21.01.2016 - IX ZR 84/13, NJW 2016, 2735 — Zum Nachweis fehlender Kenntnis: Anfechtungsgegner trägt Beweislast für die Widerlegung der Kenntnisvermutung bei nahestehenden Personen; substantiiertes Vorbringen erforderlich.
-- BGH, Urt. v. 14.06.2018 - IX ZR 232/17, NJW 2018, 2796 — Zur Entreicherung im AnfG: allgemeine Entreicherungseinrede des § 818 Abs. 3 BGB gilt nicht; Gutglaubensgrundsätze können aber nach Treu und Glauben (§ 242 BGB) berücksichtigt werden.
-- BGH, Urt. v. 24.06.2021 - IX ZR 131/20, NJW 2021, 2881 — Zur Gegenleistungs-Rückforderung: Anfechtungsgegner kann bei Rückgewähr seine Gegenleistung vom Schuldner zurückfordern; gegenüber dem anfechtenden Gläubiger kein Zurückbehaltungsrecht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 11 AnfG Rn. 1 ff. (Rechtsfolge und Verteidigung)
-- Uhlenbruck InsO § 3 AnfG Rn. 1 ff. (Vorsatzanfechtung und Kenntnis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Überblick
 
 Der Anfechtungsgegner hat verschiedene Verteidigungsmöglichkeiten gegen eine AnfG-Anfechtungsklage. Sie richten sich nach dem jeweiligen Anfechtungstatbestand.
@@ -69,11 +65,3 @@ Hat der Anfechtungsgegner für das Empfangene eine Gegenleistung erbracht, kann 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 98/11 (als Urt. v. 27.09.2012 zitiert) geloescht: WRONG_TOPIC.
-Echtes Urteil (28.06.2012) behandelt Insolvenzanfechtung gegen Rechtsnachfolger
-(§ 145 InsO) — kein Bezug zu Bargeschaeftsprivileg oder AnfG-Analogie.
-Verifiziert via dejure.org. Kein Ersatz ergaenzt (kein verifizierbares
-BGH-Urteil zu § 142 InsO analog im AnfG gefunden).
--->

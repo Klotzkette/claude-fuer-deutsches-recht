@@ -31,7 +31,7 @@
 | **Anschrift** | Kölner Straße 89, 40227 Düsseldorf |
 | **Beruf** | Ladendetektiv / Detektionsbeauftragter |
 | **Arbeitgeber** | ProSec Detektionsservice GmbH, Düsseldorf |
-| **Einsatzort** | Drogerie „Beauté & Co", Immermannstraße 38, 40210 Düsseldorf |
+| **Einsatzort** | Drogerie "Beauté & Co", Immermannstraße 38, 40210 Düsseldorf |
 | **Zeugenbelehrung** | Erteilt: Wahrheitspflicht, Verweigerungsrecht nicht einschlägig |
 
 ---
@@ -46,43 +46,43 @@ Der Zeuge war sichtlich ruhig und machte einen professionellen Eindruck. Er gab 
 
 ## Aussage zur Sache
 
-**Frage:** Schildern Sie bitte, was Sie am 17.03.2026 in der Drogerie „Beauté & Co" beobachtet haben.
+**Frage:** Schildern Sie bitte, was Sie am 17.03.2026 in der Drogerie "Beauté & Co" beobachtet haben.
 
 **Antwort des Zeugen (sinngemäß, wörtliche Passagen in Anführungszeichen):**
 
-> „Ich war an dem Tag als Detektionsbeauftragter im Einsatz im Bereich Kosmetik und Pflegeprodukte. Meine Position war hinter einem Regalschirm am Ende des Mittelganges, von wo aus ich freie Sicht auf den Hauptgang Kosmetik hatte. Ich beobachte grundsätzlich in ziviler Kleidung und trage keine Uniform."
+> "Ich war an dem Tag als Detektionsbeauftragter im Einsatz im Bereich Kosmetik und Pflegeprodukte. Meine Position war hinter einem Regalschirm am Ende des Mittelganges, von wo aus ich freie Sicht auf den Hauptgang Kosmetik hatte. Ich beobachte grundsätzlich in ziviler Kleidung und trage keine Uniform."
 
 **Frage:** Wie haben Sie die Beschuldigte wahrgenommen?
 
-> „Die Frau – ich habe sie später als Frau Albrecht kennengelernt – kam gegen 14:41 Uhr in den Kosmetikbereich. Sie wirkte abgelenkt, schaute sich mehrfach um und war am Mobiltelefon. Sie griff sich mehrere Artikel, schaute sich Preisschilder an und legte einige zurück."
+> "Die Frau – ich habe sie später als Frau Albrecht kennengelernt – kam gegen 14:41 Uhr in den Kosmetikbereich. Sie wirkte abgelenkt, schaute sich mehrfach um und war am Mobiltelefon. Sie griff sich mehrere Artikel, schaute sich Preisschilder an und legte einige zurück."
 
 **Frage:** Haben Sie beobachtet, wie die Beschuldigte die Ware einsteckte?
 
-> „Ja. Ich habe gesehen, wie sie nacheinander einen Lippenstift und eine Foundation in ihre rechte Manteltasche steckte. Das war eindeutig – sie hat sich beim Einstecken kurz umgeschaut, was ein typisches Verhaltensmuster ist. Dann nahm sie eine Eyeshadow-Palette und eine Handcreme, hielt diese kurz in der Hand, und steckte sie ebenfalls in die Tasche. Den Zeitraum, in dem sie die Ware einsteckte, würde ich auf ca. drei bis vier Minuten schätzen."
+> "Ja. Ich habe gesehen, wie sie nacheinander einen Lippenstift und eine Foundation in ihre rechte Manteltasche steckte. Das war eindeutig – sie hat sich beim Einstecken kurz umgeschaut, was ein typisches Verhaltensmuster ist. Dann nahm sie eine Eyeshadow-Palette und eine Handcreme, hielt diese kurz in der Hand, und steckte sie ebenfalls in die Tasche. Den Zeitraum, in dem sie die Ware einsteckte, würde ich auf ca. drei bis vier Minuten schätzen."
 
 **Frage:** Haben Sie die Beschuldigte die ganze Zeit ohne Unterbrechung beobachtet?
 
-> „Im Wesentlichen ja. Es gab eine kurze Unterbrechung von vielleicht 15 bis 20 Sekunden, als eine andere Kundin an mir vorbeilief und meine Sichtlinie kurzfristig verdeckte. Aber danach hatte ich wieder freie Sicht."
+> "Im Wesentlichen ja. Es gab eine kurze Unterbrechung von vielleicht 15 bis 20 Sekunden, als eine andere Kundin an mir vorbeilief und meine Sichtlinie kurzfristig verdeckte. Aber danach hatte ich wieder freie Sicht."
 
 **Frage:** Wie verhielt sich die Beschuldigte an der Kasse?
 
-> „Sie begab sich zur Kasse und legte dort andere Waren auf das Band – Shampoo und eine Zahnbürste glaube ich. Die Gesamtsumme der bezahlten Waren war laut dem mir später vorgelegten Kassenbon 12,90 EUR. Die Waren in der Manteltasche hat sie nicht herausgelegt. Sie bezahlte die Kassiererin und wollte das Geschäft verlassen."
+> "Sie begab sich zur Kasse und legte dort andere Waren auf das Band – Shampoo und eine Zahnbürste glaube ich. Die Gesamtsumme der bezahlten Waren war laut dem mir später vorgelegten Kassenbon 12,90 EUR. Die Waren in der Manteltasche hat sie nicht herausgelegt. Sie bezahlte die Kassiererin und wollte das Geschäft verlassen."
 
 **Frage:** Was geschah dann?
 
-> „Ich folgte ihr durch den Ausgangsbereich und sprach sie unmittelbar vor dem Eingang auf dem Gehweg an. Ich stellte mich vor, zeigte meinen Dienstausweis und bat sie freundlich, mich ins Büro zu begleiten. Sie zögerte kurz, wirkte sehr erschrocken und begann dann zu weinen. Sie kam ohne Widerstand mit."
+> "Ich folgte ihr durch den Ausgangsbereich und sprach sie unmittelbar vor dem Eingang auf dem Gehweg an. Ich stellte mich vor, zeigte meinen Dienstausweis und bat sie freundlich, mich ins Büro zu begleiten. Sie zögerte kurz, wirkte sehr erschrocken und begann dann zu weinen. Sie kam ohne Widerstand mit."
 
 **Frage:** Wie reagierte die Beschuldigte im Detektionsbüro?
 
-> „Im Büro bat ich sie, den Inhalt ihrer Manteltaschen zu zeigen. Sie holte sofort alle vier Artikel heraus und legte sie auf den Tisch. Sie sagte sinngemäß: ‚Das tut mir so leid, ich weiß nicht, wie das passieren konnte. Ich war so im Kopf.' Sie wirkte aufrichtig bestürzt und entschuldigte sich mehrmals. Es war keine Diskussion und kein Leugnen."
+> "Im Büro bat ich sie, den Inhalt ihrer Manteltaschen zu zeigen. Sie holte sofort alle vier Artikel heraus und legte sie auf den Tisch. Sie sagte sinngemäß: 'Das tut mir so leid, ich weiß nicht, wie das passieren konnte. Ich war so im Kopf.' Sie wirkte aufrichtig bestürzt und entschuldigte sich mehrmals. Es war keine Diskussion und kein Leugnen."
 
 **Frage:** Hat die Beschuldigte ein Hausverbot erhalten?
 
-> „Ja, ich habe ihr mündlich Hausverbot für die Filiale erteilt und sie gebeten, eine Erklärung zu unterzeichnen. Sie hat das Hausverbot unterschrieben. Eine Schadenspauschale von 50 EUR wurde ihr mitgeteilt; sie sagte, sie zahle das, konnte aber gerade kein Bargeld vorlegen."
+> "Ja, ich habe ihr mündlich Hausverbot für die Filiale erteilt und sie gebeten, eine Erklärung zu unterzeichnen. Sie hat das Hausverbot unterschrieben. Eine Schadenspauschale von 50 EUR wurde ihr mitgeteilt; sie sagte, sie zahle das, konnte aber gerade kein Bargeld vorlegen."
 
 **Frage:** Haben Sie zuvor oder danach eine Videoaufzeichnung der Szene gemacht oder gesehen?
 
-> „Die Drogerie verfügt über eine Deckenüberwachungsanlage. Ich habe im Nachgang mit dem Geschäftsleiter die entsprechenden Sequenzen kurz angeschaut. Die Kamera im Gang hat die Handlungen grundsätzlich erfasst, aber die Auflösung ist begrenzt. Der Detektionsbericht enthält meine eigene Beobachtung, die Videosequenz ist nur eine Ergänzung."
+> "Die Drogerie verfügt über eine Deckenüberwachungsanlage. Ich habe im Nachgang mit dem Geschäftsleiter die entsprechenden Sequenzen kurz angeschaut. Die Kamera im Gang hat die Handlungen grundsätzlich erfasst, aber die Auflösung ist begrenzt. Der Detektionsbericht enthält meine eigene Beobachtung, die Videosequenz ist nur eine Ergänzung."
 
 ---
 
@@ -90,11 +90,11 @@ Der Zeuge war sichtlich ruhig und machte einen professionellen Eindruck. Er gab 
 
 **Frage:** Können Sie ausschließen, dass die Beschuldigte die Ware versehentlich einsteckte – also etwa beim Hantieren mit dem Mobiltelefon?
 
-> „Nein, das kann ich aus meiner Sicht ausschließen. Ich habe vier separate Artikel beobachtet, die jeweils gezielt in die Tasche gesteckt wurden. Ein einmaliges Versehen wäre denkbar; vier Artikel nacheinander in die Tasche zu stecken, dabei die Kasse zu passieren, ohne eine einzige Ware zurückzulegen – das ist für mich kein Versehen."
+> "Nein, das kann ich aus meiner Sicht ausschließen. Ich habe vier separate Artikel beobachtet, die jeweils gezielt in die Tasche gesteckt wurden. Ein einmaliges Versehen wäre denkbar; vier Artikel nacheinander in die Tasche zu stecken, dabei die Kasse zu passieren, ohne eine einzige Ware zurückzulegen – das ist für mich kein Versehen."
 
 **Frage:** Hatte die Beschuldigte die Möglichkeit, die Ware noch zurückzulegen oder an der Kasse zu bezahlen?
 
-> „Ja. Sie stand noch eine kurze Zeit im Kassenbereich. Zum Bezahlen hatte sie Gelegenheit. Sie hat es nicht getan."
+> "Ja. Sie stand noch eine kurze Zeit im Kassenbereich. Zum Bezahlen hatte sie Gelegenheit. Sie hat es nicht getan."
 
 ---
 
@@ -115,8 +115,8 @@ Datum:                17.03.2026, 16:38 Uhr
 **Schwachstellen der Zeugenaussage:**
 
 1. Sichtunterbrechung von 15–20 Sekunden eingeräumt → Lücke in der Beobachtungskette.
-2. „Gezielt" vs. „versehentlich" – subjektive Wertung des Detektivs, keine neutrale Feststellung.
-3. Entschuldigung der Mandantin wurde von Neumann als „aufrichtig" bewertet → für Strafzumessung günstig.
+2. "Gezielt" vs. "versehentlich" – subjektive Wertung des Detektivs, keine neutrale Feststellung.
+3. Entschuldigung der Mandantin wurde von Neumann als "aufrichtig" bewertet → für Strafzumessung günstig.
 4. Vollständige Rückgabe ohne Widerstand → strafmildernd.
 5. Videoaufzeichnung: niedrige Auflösung, nicht eindeutig → Forderung nach Herausgabe der Rohdaten.
 6. Hausverbot und angekündigte Zahlung der Schadenspauschale → zeigt Kooperationswillen.

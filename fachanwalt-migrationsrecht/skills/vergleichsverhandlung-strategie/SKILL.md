@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
@@ -161,10 +161,9 @@ Klassische Stolperfalle in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
 ### Leitsaetze
 
-- BVerwG, Urt. v. 12.03.2019 - 1 C 14.18, BVerwGE 165, 21 — Prozessvergleich im VG-Verwaltungsverfahren: Vergleich bedarf der Mitwirkung beider Parteien; Behörde kann Aufenthaltstitel durch Vergleich erteilen, wenn materiell-rechtliche Voraussetzungen vorliegen oder Ermessensspielraum besteht; kein Anspruch auf Vergleich.
-- BVerwG, Urt. v. 19.09.2019 - 1 C 41.18, NVwZ 2020, 305 — Erledigungserklaerung: beiderseitige Erledigungserklaerung im Asylverfahren wirkt wie Klagerucknahme; Gerichtskosten grundsaetzlich Klaeger, wenn Erledigungsvergleich schlechter als Klage.
-- OVG NRW, Beschl. v. 11.07.2022 - 18 A 3001/22.A, BeckRS 2022, 20111 — Guetetermin im Asylverfahren: VG kann Gueteverhandlung nach § 106 VwGO abhalten; Einigung auf Bewilligung Abschiebungsverbot statt voller Fluechtlingsanerkennung als Prozessvergleich zulaessig.
-- BVerfG, Beschl. v. 14.10.2020 - 2 BvR 1802/20, NVwZ 2021, 234 — Keine Verfassungsbeschwerde wenn Klage zurueckgenommen und Vergleich geschlossen: Rechtswegerschoepfung erfordert alle zulaessigen Prozessmittel; Vergleich ist nicht anfechtbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Verstaendigung Migrationsrecht
 
@@ -175,11 +174,9 @@ Klassische Stolperfalle in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 - **§ 25 Abs. 5 AufenthG** — humanitaerer Aufenthaltstitel als moegliches Vergleichs-Ergebnis
 - **§ 60a AufenthG** — Duldung als Übergangslösung bis Vergleichserfuellung
 
-### Kommentarliteratur
+### Quellenregel
 
-- Kopp/Schenke, VwGO, § 106 Rn. 1-20 — Vergleich im Verwaltungsprozess
-- Bergmann/Dienelt, AufenthG, § 25 Rn. 1-50 — humanitaerer Aufenthaltstitel als Kompromiss
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Verstaendigungsversuch
 
 Bevor losgelegt wird, klaere:

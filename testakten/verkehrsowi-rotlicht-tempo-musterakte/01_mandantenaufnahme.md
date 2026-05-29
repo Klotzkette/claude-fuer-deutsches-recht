@@ -33,15 +33,15 @@
 
 Jonas Mertens schilderte den Vorfall am 18.03.2026 wie folgt:
 
-> „Ich war an dem Tag gegen 15:10 Uhr auf dem Weg zu einem Notfall in der Eigelsteiner Straße. Eine Mieterin hatte eine total ausgefallene Heizungsanlage gemeldet, ältere Dame, es war kalt. Ich bin deshalb zügig gefahren. An der Kreuzung Innere Kanalstraße / Subbelrather Straße habe ich die Ampel gesehen. Aus meiner Erinnerung war sie gelb, als ich in die Kreuzung eingefahren bin. Rot habe ich nicht bewusst wahrgenommen. Ob sie schon rot war, als ich die Haltelinie überfahren habe – das kann ich ehrlich gesagt nicht mit Sicherheit sagen. Ich war konzentriert auf den Verkehr, nicht auf die Stoppuhr."
+> "Ich war an dem Tag gegen 15:10 Uhr auf dem Weg zu einem Notfall in der Eigelsteiner Straße. Eine Mieterin hatte eine total ausgefallene Heizungsanlage gemeldet, ältere Dame, es war kalt. Ich bin deshalb zügig gefahren. An der Kreuzung Innere Kanalstraße / Subbelrather Straße habe ich die Ampel gesehen. Aus meiner Erinnerung war sie gelb, als ich in die Kreuzung eingefahren bin. Rot habe ich nicht bewusst wahrgenommen. Ob sie schon rot war, als ich die Haltelinie überfahren habe – das kann ich ehrlich gesagt nicht mit Sicherheit sagen. Ich war konzentriert auf den Verkehr, nicht auf die Stoppuhr."
 >
-> „Die Geschwindigkeit: Ja, ich war schneller als 50. Ich schätze 60, vielleicht ein bisschen mehr. Die Kanalstraße hat eigentlich Tempo 50, das weiß ich."
+> "Die Geschwindigkeit: Ja, ich war schneller als 50. Ich schätze 60, vielleicht ein bisschen mehr. Die Kanalstraße hat eigentlich Tempo 50, das weiß ich."
 >
-> „Das Foto kenne ich nicht. Die Behörde hat mir keines zugeschickt, das ist mir erst durch den Bescheid klar geworden."
+> "Das Foto kenne ich nicht. Die Behörde hat mir keines zugeschickt, das ist mir erst durch den Bescheid klar geworden."
 
 Ergänzung auf Nachfrage zur Fahreridentifikation:
 
-> „Ich trage beim Fahren immer eine Sonnenbrille, das stimmt. Ich hatte an dem Tag eine dunkle Gleitsichtbrille auf. Auf dem Foto – das mir mein Kollege Emir gezeigt hat, er hatte dasselbe Fahrzeug am selben Tag noch – ist das jemand mit Brille, aber man erkennt das schlecht."
+> "Ich trage beim Fahren immer eine Sonnenbrille, das stimmt. Ich hatte an dem Tag eine dunkle Gleitsichtbrille auf. Auf dem Foto – das mir mein Kollege Emir gezeigt hat, er hatte dasselbe Fahrzeug am selben Tag noch – ist das jemand mit Brille, aber man erkennt das schlecht."
 
 ---
 
@@ -75,7 +75,7 @@ Mandant nennt auf Befragung für den Monat Juni/Juli 2026 bereits feststehende T
 | 22.06.2026 | Nippes | Heizungsnotfall (Vertrag) |
 | 28.06.2026 | Ehrenfeld | Sanitärinstallation Gewerbe |
 
-> „Ich kann mir keinen Fahrer leisten. Emir hat nur Klasse B, Lars noch keinen Führerschein. Ich müsste jeden Tag mit dem ÖPNV zu Baustellen, das geht bei Werkzeug, Rohren und Materialien einfach nicht."
+> "Ich kann mir keinen Fahrer leisten. Emir hat nur Klasse B, Lars noch keinen Führerschein. Ich müsste jeden Tag mit dem ÖPNV zu Baustellen, das geht bei Werkzeug, Rohren und Materialien einfach nicht."
 
 ### 3.4 Einkommensabhängigkeit
 
@@ -102,7 +102,7 @@ KBA-Auszug wurde noch nicht eigenständig angefordert; der Mandant wird gebeten,
 
 ## 5. Eigene Wahrnehmung zur Fahrtüchtigkeit
 
-> „Ich war nüchtern, kein Alkohol, keine Medikamente. Nur Kaffeepause vorher. Die Sonne stand tief, es war schon nachmittags. Ich hatte das Visier, ich meine die Sonnenbrille, auf."
+> "Ich war nüchtern, kein Alkohol, keine Medikamente. Nur Kaffeepause vorher. Die Sonne stand tief, es war schon nachmittags. Ich hatte das Visier, ich meine die Sonnenbrille, auf."
 
 Kein Hinweis auf Übermüdung, Ablenkung durch Mobiltelefon oder sonstige Beeinträchtigungen.
 
@@ -112,7 +112,7 @@ Kein Hinweis auf Übermüdung, Ablenkung durch Mobiltelefon oder sonstige Beeint
 
 Der Mandant betont ausdrücklich, dass er seine Mitarbeiter Emir Özkan und Lars Riemer nicht in das Verfahren hineinziehen möchte:
 
-> „Die sollen nicht aussagen, das ist meine Sache. Ich möchte nicht, dass die in Erklärungsnot geraten, ob sie an dem Tag gefahren sein könnten."
+> "Die sollen nicht aussagen, das ist meine Sache. Ich möchte nicht, dass die in Erklärungsnot geraten, ob sie an dem Tag gefahren sein könnten."
 
 **Rechtlicher Hinweis des Gesprächsprotokolls:** Als Halter und Inhaber ist der Mandant nicht verpflichtet, den Fahrer zu benennen (§ 111 OWiG, Schweigerecht). Dies wurde besprochen. Die Fotoidentifikation ist gesondert zu prüfen.
 

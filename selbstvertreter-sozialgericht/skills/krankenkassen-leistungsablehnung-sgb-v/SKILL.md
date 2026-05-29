@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-leistungsablehnung-sgb-v
-description: "Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext fuer Buerger Widerspruch Klage."
+description: "Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage."
 ---
 
 # Streit mit der Krankenkasse — SGB V

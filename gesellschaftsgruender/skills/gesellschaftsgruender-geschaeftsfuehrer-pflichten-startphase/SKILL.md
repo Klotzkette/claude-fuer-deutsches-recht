@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase
-description: "Pflichten des GmbH-Geschaeftsfuehrers in Gruendungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchfuehrung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Pruefraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschaeftsfuehrer Gruendungsphase. Abgrenzung: nicht Geschaeftsfuehrervertrag."
+description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abgrenzung: nicht Geschäftsführervertrag."
 ---
 
 # Erste 100 Tage Geschäftsführer-Pflichten
@@ -26,17 +26,11 @@ description: "Pflichten des GmbH-Geschaeftsfuehrers in Gruendungs- und Startphas
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 Rn. 22 — GmbH-GF kann sich auf Business Judgment Rule berufen, wenn er Entscheidungsgrundlagen aktiv beschafft und verifiziert hat; nachlässige Information begründet persönliche Haftung.
-- BGH, Urt. v. 26.01.2009 - II ZR 213/07, BGHZ 179, 249 — Zahlungen nach Insolvenzreife führen zu persönlicher GF-Haftung (§ 64 GmbHG a.F., jetzt § 15b InsO); Exkulpation nur bei unvermeidbarer Unkenntnis.
-- BGH, Urt. v. 19.06.2018 - II ZR 277/16, NJW 2018, 2723 — Insolvenzantragspflicht: GF muss Insolvenzreife laufend überwachen; Unwissenheit entbindet nicht.
-- BSG, Urt. v. 29.08.2012 - B 12 KR 25/10 R, BSGE 111, 257 — SV-Status GF: Gesellschafter-GF mit Mehrheit ist regelmäßig sozialversicherungsfrei; Fremd-GF ist sozialversicherungspflichtig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Crezelius, GmbHG, § 43 Rn. 1-60 (GF-Sorgfaltspflicht, Haftungsmaßstab, BJR)
-- Lutter/Hommelhoff, GmbHG, § 43 Rn. 1-40 (GF-Pflichten im Überblick)
-- ErfK/Müller-Glöge, § 5 ArbZG Rn. 1-20 (Arbeitszeitschutz im Startbetrieb)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## 100-Tage-Pflichten-Matrix
 
 | Pflicht | Frist | Norm | Konsequenz bei Versäumnis |
@@ -125,8 +119,7 @@ ESKALATIONSSCHWELLEN
 - §§ 238, 264, 325 HGB (Buchführung, Jahresabschluss, Offenlegung)
 - §§ 15a, 15b InsO (Insolvenzantragspflicht, Zahlungsverbot)
 - § 19 GwG (Transparenzregister)
-- BGH II ZR 234/20, NJW 2022, 1381 (BJR GmbH-GF)
-- BGH II ZR 277/16, NJW 2018, 2723 (Insolvenzantragspflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Crezelius, GmbHG, § 43 Rn. 1-60
 
 ## Übergabe an andere Skills

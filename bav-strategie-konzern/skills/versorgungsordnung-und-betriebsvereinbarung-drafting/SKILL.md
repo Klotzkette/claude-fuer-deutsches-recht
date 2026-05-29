@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-und-betriebsvereinbarung-drafting
-description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einfuehrung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Pruefraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschaeftsfuehrervertrag."
+description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschäftsführervertrag."
 ---
 
 # Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
@@ -18,21 +18,17 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 16 BetrAVG (Anpassungsprüfungspflicht alle drei Jahre)
 - § 17 BetrAVG (persönlicher Geltungsbereich — auch leitende Angestellte)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung als Regelungsform; Mitbestimmung § 87 Abs. 1 Nr. 8 und 10 BetrVG)
-- BAG 28.4.2015 — 3 AZR 174/13 (Spätehenklausel — sachliche Rechtfertigung erforderlich; reine Altersgrenze für Heirat in Versorgungsordnung unzulässig)
-- BAG 15.5.2012 — 3 AZR 11/10 (Hinterbliebenenversorgung — Ausschlussklauseln)
-- BAG 19.7.2016 — 3 AZR 134/15 (Widerrufsvorbehalte in Einzelzusagen)
-- BAG 10.11.2015 — 3 AZR 576/14 (Ablösung BV durch neue BV)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGG §§ 1–26 (Diskriminierungsverbote — Geschlecht/Alter in Versorgungsregelungen)
-- BAG 21.01.2020 — 3 AZR 349/18 (Widerrufsvorbehalt in Versorgungsordnung: Widerruf nur bei sachlichem Grund zulässig; pauschaler Widerruf ohne Angabe von Gründen unwirksam; § 315 BGB und § 307 BGB (AGB) anwendbar)
-- BAG 23.02.2021 — 3 AZR 411/19 (Spätehenklausel: zeitliche Grenze für Eheschließung (z.B. vor dem 60. Lebensjahr) in VO unzulässig als mittelbare Altersdiskriminierung; sachliche Rechtfertigung reicht für zeitliche Schranken allein nicht)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 1 BetrAVG Rn. 1 ff. (Versorgungsordnung-Gestaltung, Zusagetypen, Klarheitsgebot)
-- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 16 Rn. 1 ff. (Anpassungsklauseln, Widerrufsvorbehalte, Spätehenklauseln)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Strukturentscheidungen vor dem Drafting
@@ -66,7 +62,7 @@ der [Konzern Muster AG], Düsseldorf
 in der Fassung vom [Datum]
 
 Präambel
-Die [Konzern Muster AG] (nachfolgend „Unternehmen") gewährt ihren Mitarbeiterinnen
+Die [Konzern Muster AG] (nachfolgend "Unternehmen") gewährt ihren Mitarbeiterinnen
 und Mitarbeitern eine betriebliche Altersversorgung als freiwillige soziale Leistung
 auf der Grundlage dieser Versorgungsordnung. Die Versorgungsleistungen werden als
 Direktzusage gewährt. Für Mitglieder des Betriebsrats gilt diese Versorgungsordnung
@@ -76,7 +72,7 @@ unter Beachtung des § 78 BetrVG.
 (1) Diese Versorgungsordnung gilt für alle Arbeitnehmerinnen und Arbeitnehmer des
 Unternehmens, die nach dem [Einführungsdatum] eingestellt werden und das 18.
 Lebensjahr vollendet haben, sofern das Arbeitsverhältnis auf unbestimmte Zeit
-geschlossen ist (nachfolgend „Berechtigte").
+geschlossen ist (nachfolgend "Berechtigte").
 (2) Ausgenommen sind:
     a) Mitglieder des Vorstands und der Geschäftsführung,
     b) Mitarbeiterinnen und Mitarbeiter, die einer anderen Versorgungsregelung
@@ -130,8 +126,8 @@ eingetragene Lebenspartner 60 % der unverfallbaren Anwartschaft des Berechtigten
 (3) Voraussetzung für die Hinterbliebenenrente ist, dass die Ehe / Lebenspartnerschaft
 vor Eintritt des Versorgungsfalles geschlossen wurde.
     ANMERKUNG TREUENFELS YAMAMOTO: Eine Altersgrenze für die Eheschließung ist nach
-    BAG 28.4.2015 — 3 AZR 174/13 nur bei sachlicher Rechtfertigung zulässig. Eine
-    reine „Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
+    Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+    reine "Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
     weitere sachliche Begründung ist unzulässig und AGG-widrig. Zulässig ist hingegen
     eine Klausel, die den Zeitpunkt der Eheschließung im Verhältnis zu bereits
     erdienten Anwartschaften berücksichtigt (zeitproportionale Berechnung).
@@ -177,7 +173,7 @@ Lage des Unternehmens überfordert (Schema im Skill `anpassungspruefung-paragrap
 § 10 Widerrufsvorbehalte
 (1) Das Unternehmen behält sich vor, die Versorgungsordnung mit Wirkung für die
 Zukunft zu ändern oder aufzuheben, soweit triftige Gründe i.S. der Drei-Stufen-Theorie
-(BAG GS 1/82; BAG 3 AZR 392/06) vorliegen und ein Eingriff in noch nicht erdiente
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Anwartschaften durch sachliche und verhältnismäßige Gründe gerechtfertigt ist.
 (2) Eingriffe in bereits erdiente Anwartschaften und in bereits laufende Renten
 (Stufe 1 der Drei-Stufen-Theorie) sind unzulässig.
@@ -194,7 +190,7 @@ Drei-Stufen-Theorie (→ Skill `drei-stufen-theorie-eingriffsanalyse`).
        Gestaltung als Gesamtversorgungszusage).
     ANMERKUNG: Gesamtversorgungszusagen mit Vollanrechnung der gesetzlichen Rente
     sind nach BAG-Rechtsprechung zulässig, aber bei Rentenreformen besonders
-    risikobehaftet (→ BAG 11.12.2007 — 3 AZR 249/06).
+    Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 § 12 Übertragung und Portabilität
 (1) Bei Beendigung des Arbeitsverhältnisses und Aufnahme einer neuen Beschäftigung
@@ -287,13 +283,13 @@ Unternehmens vorbehalten.
 
 ## Fallstricke
 
-1. **Spätehenklausel nach BAG 3 AZR 174/13:** Reine Altersgrenze für Eheschließung (z.B. „Ehe muss vor Vollendung des 60. Lebensjahres des Berechtigten geschlossen sein") ist nach BAG 28.4.2015 — 3 AZR 174/13 unzulässig. Nur zeitproportionale oder bedarfsorientierte Begrenzungen sind zulässig. Alle Altversorgungsordnungen sind zu prüfen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. **Kollektivrechtliche Ablösung:** Ablösung einer BV durch neue BV kann in Versorgungsrechte eingreifen — Drei-Stufen-Theorie anwendbar (BAG 10.11.2015 — 3 AZR 576/14). Keine „einfache" Mehrheitsentscheidung des Betriebsrats ausreichend.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-3. **AGG-Konformität Hinterbliebenenversorgung:** Unterschiedliche Behandlung von Ehegatten und nichtehelichen Lebenspartnern ist seit dem Lebenspartnerschaftsgesetz (LPartG) und dem Allgemeinen Gleichbehandlungsgesetz (AGG) unzulässig. Alle neuen VO müssen eingetragene Lebenspartner gleichstellen (BAG 14.1.2015 — 3 AZR 558/13).
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-4. **Widerrufsvorbehalte — Grenzen:** Vertragliche Widerrufsvorbehalte, die einen Eingriff ohne triftige Gründe ermöglichen sollen, sind unwirksam (BAG 19.7.2016 — 3 AZR 134/15). Die Drei-Stufen-Theorie begrenzt auch Einzel-Widerrufsklauseln.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 5. **Gesamtversorgungsklauseln und gesetzliche Rentenreformen:** Bei Gesamtversorgungszusagen führen Rentenreformen (Absenkung Rentenniveau) zu automatischer Erhöhung der betrieblichen Rente. Prüfen Sie stets, ob die VO eine Auffüllpflicht enthält.
 
@@ -308,5 +304,4 @@ Unternehmens vorbehalten.
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- EuGH C-168/18 (Bauer/Willmeroth) — "Unverfallbarkeit als Grundrecht" entfernt: C-168/18 betrifft PSV/Pensionskasse (Urt. 19.12.2019), nicht Unverfallbarkeit. "Bauer/Willmeroth" = C-569/16 + C-570/16 (Urlaubsabgeltung). "Unverfallbarkeit als Grundrecht" ist kein verifizierbarer EuGH-Leitsatz für eine der genannten Rechtssachen. Doppelt falsches AZ und falsches Thema; kein Ersatz verifizierbar. Eintrag gelöscht.
 -->

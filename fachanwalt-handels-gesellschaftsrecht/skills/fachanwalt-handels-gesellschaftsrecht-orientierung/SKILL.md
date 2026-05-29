@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-orientierung
-description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerhaftung M&A Beschlussanfechtung Umwandlung. Standardliteratur Baumbach/Hueck Scholz MuenchKomm GmbHG. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung."
+description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung."
 ---
 
 # Orientierung Handels- und Gesellschaftsrecht
@@ -40,23 +40,12 @@ description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO
 - Streit zwischen Gesellschaftern (Hinauskündigungsklauseln, Abfindung).
 - Handelsvertreterausgleich § 89b HGB.
 
-## Standardliteratur
+## Quellenregel
 
-- **Baumbach/Hueck**, GmbHG (Beck) — Standardkommentar GmbH.
-- **Lutter/Hommelhoff**, GmbHG (Schmidt) — Kommentar GmbH.
-- **Hüffer/Koch**, AktG (Beck) — Standardkommentar AktG.
-- **Roth/Altmeppen**, GmbHG (Beck).
-- **Scholz**, GmbHG (Schmidt) — Großkommentar GmbH.
-- **K. Schmidt**, Gesellschaftsrecht (Heymanns) — Standardlehrbuch.
-- **Baumbach/Hopt**, HGB (Beck) — Kurzkommentar HGB.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Maßgebliche Rechtsprechung
 
-- BGH, Urt. v. 21.04.1997 – Az. II ZR 175/95, BGHZ 135, 244 Rn. 17 – ARAG/Garmenbeck — Geschäftsleiterermessen, Vorläufer Business Judgement Rule (kodifiziert § 93 Abs. 1 S. 2 AktG).
-- BGH, Urt. v. 04.11.2002 – Az. II ZR 224/00, BGHZ 152, 280 Rn. 8 ff. — Darlegungs- und Beweislast Geschäftsführerhaftung GmbH (§ 93 Abs. 2 S. 2 AktG analog).
-- BGH, Urt. v. 12.03.2013 – Az. II ZR 73/11, BGHZ 197, 304 Rn. 20 — Stimmverbot § 47 Abs. 4 GmbHG.
-- BGH, Urt. v. 12.10.2009 – Az. II ZR 257/08, BGHZ 183, 84 Rn. 38 – Lipsia — Innenausgleich Gesellschafter.
-- BGH, Urt. v. 14.07.2009 – Az. II ZR 17/08, BGHZ 182, 1 Rn. 12 — Handelsvertreterausgleich Berechnung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übergabe
 
@@ -69,11 +58,11 @@ description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 18.01.2022 — **II ZR 80/20**, NJW 2022, 1378 Rn. 16: MoPeG-GbR seit 01.01.2024 — die Gesellschaft bürgerlichen Rechts ist seit dem Inkrafttreten des MoPeG als rechtsfähige Gesellschaft ausgestaltet; Gesellschafterwechsel und Anteilsabtretung erfordern künftig keine Satzungsänderung mehr, wenn der Gesellschaftsvertrag schweigt; Eintragungsfähigkeit in das Gesellschaftsregister begründet erhöhte Rechts- und Haftungsklarheit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 15.11.2022 — **II ZR 69/21**, NJW 2023, 452 Rn. 20: Business Judgment Rule nach § 93 Abs. 1 Satz 2 AktG (und analog § 43 GmbHG) schützt unternehmerische Entscheidungen nur dann, wenn der Geschäftsführer auf angemessener Informationsgrundlage, frei von Interessenkonflikten und zum Wohl der Gesellschaft gehandelt hat; Beweislastumkehr in § 93 Abs. 2 Satz 2 AktG gilt auch für GmbH-Geschäftsführer analog.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Ergänzende Literatur
 
 - K. Schmidt, Gesellschaftsrecht, 5. Aufl. 2021: MoPeG-Neukommentierung GbR-Recht ab 2024; Vergleich Personengesellschaft/Kapitalgesellschaft.
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2024: aktuellste Kommentierung nach MoPeG und SanInsFoG 2021 (§ 15b InsO statt § 64 GmbHG aF).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

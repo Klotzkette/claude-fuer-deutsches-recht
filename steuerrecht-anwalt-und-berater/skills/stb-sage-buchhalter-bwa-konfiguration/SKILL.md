@@ -32,7 +32,7 @@ Sage ist eine internationale ERP- und Buchhaltungsplattform, in Deutschland mit 
 
 - Sage-Standard-BWA gliedert ueblicherweise nach Erloesen, variable Kosten, Deckungsbeitrag, Fixkosten, Betriebsergebnis (vergleichbar mit DATEV BWA 01).
 - Vorjahresvergleich automatisch bei vorhandener Historie; Planwerte ueber das Sage-Planungsmodul.
-- Anpassung der BWA-Zeilen ueber `Auswertungen → BWA → Konfiguration` (konkreter Programmpfad in aktueller Sage-Version verifizieren).
+- Anpassung der BWA-Zeilen ueber `Auswertungen → BWA → Konfiguration` (konkreter Programmpfad variiert je Sage-Version — im Zweifelsfall in der Sage-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
 
 ### Phase 3 — Schnittstellen
 
@@ -80,4 +80,6 @@ Stand: 05/2026.
 
 - Sage Programm- und Bedienungsdokumentation (aktuelle Version pruefen).
 - AO § 146 (Update-Pflicht der Buchfuehrungsprogramme).
-- Verifikations-Hinweis: konkrete Programmpfade und Modulbezeichnungen ggf. abweichend in aktueller Sage-Version.
+- Hinweis: konkrete Programmpfade und Modulbezeichnungen koennen je Sage-Version abweichen; aktuelle Informationen in der Sage-Onlinehilfe pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Sage-Programmpfad nicht versionsspezifisch belegbar, Verweis auf Sage-Onlinehilfe) -->

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren
-description: "Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff. DIS-Sportschiedsgerichtsordnung FIFA RSTP Art. 17. Pruefraster Schiedsklausel-Pruefung Frist-Check Verfahrensart Beweis. Output Schiedsklage-Entwurf Strategie-Memo. Abgrenzung zu cas-berufung-vorbereiten (Berufung) und fachanwalt-sportrecht-doping-verfahren (Doping)."
+description: "Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff. DIS-Sportschiedsgerichtsordnung FIFA RSTP Art. 17. Prüfraster Schiedsklausel-Prüfung Frist-Check Verfahrensart Beweis. Output Schiedsklage-Entwurf Strategie-Memo. Abgrenzung zu cas-berufung-vorbereiten (Berufung) und fachanwalt-sportrecht-doping-verfahren (Doping)."
 ---
 
 # Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände
@@ -24,7 +24,7 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 - **NADA-Code** (DE)
 - **DIS-Sportschiedsgerichtsordnung**
 - **FIFA Statutes** Art. 56-62 (Schiedsgerichtsbarkeit)
-- **BGH KZR 6/15** "Pechstein" (Schiedsklauseln im Sport verfassungskonform)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -92,7 +92,7 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 
 ## Strategie und Taktik
 
-- **Pechstein-Linie**: Schiedsklauseln im Sport sind nach BGH KZR 6/15 verfassungskonform — Klage zum ordentlichen Gericht regelmäßig ausgeschlossen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **CAS-Erfahrung Schiedsrichter**: aus CAS-Liste auswählen
 - **Doping-Verteidigung**: kontaminierte Nahrungsergänzungs-Mittel als gängiger Verteidigungs-Anker (BGH-Linie zu Cannabis-Verseuchung)
 - **B-Probe**: immer beantragen (Chain of Custody)
@@ -107,4 +107,4 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 
 ## Quellen und Updates
 
-Stand: 05/2026. WADA-Code 2021. CAS Code Rev. 2024. BGH KZR 6/15 (Pechstein) stehende Linie.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: energierecht-industriekunden
-description: "Sonderregelungen fuer Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Pruefraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung."
+description: "Sonderregelungen für Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Prüfraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung."
 ---
 
 # Industriekunden — Sonderregelungen
@@ -49,7 +49,7 @@ Reduzierung des Netzentgelts wenn
 
 ### Historischer Streit
 
-- BGH EnVR 7/14 zur Vorgänger-Norm: unzureichende parlamentarische Grundlage
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Neufassung 2023
 - Rückforderungs-Welle bei Bestandsanlagen
 
@@ -108,20 +108,15 @@ Reduzierung des Netzentgelts wenn
 
 ### Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Beschl. v. 21.01.2014 — EnVR 7/14, RdE 2014, 283 — § 19 Abs. 2 Satz 2 StromNEV a.F. (Bandlast-Privileg) mangels hinreichender parlamentarischer Grundlage verfassungswidrig; nachfolgende Neufassung 2023 schafft tragfaehige Ermaechtigungsgrundlage
-- OLG Duesseldorf, Urt. v. 15.06.2022 — VI-3 Kart 40/19, ZNER 2022, 295 — atypisches Nutzungsverhalten nach § 19 Abs. 1 StromNEV setzt objektiven Nachweis der Last-Abweichung von der Netz-Hochlastzeitfenster-Definition voraus; Antrag muss konkrete Verbrauchsdaten enthalten
-- BVerwG, Urt. v. 23.11.2022 — 10 C 3.21, NVwZ 2023, 330 — Energie-Audit-Pflicht nach § 8 EDL-G greift bei Nicht-KMU unabhaengig von Branche; Ausnahme nur bei zertifiziertem Energiemanagementsystem ISO 50001
-- VG Berlin, Urt. v. 19.04.2023 — VG 4 K 187/22, juris — Strompreiskompensation-Bescheid kann bei Aenderung der Bezugsmengen nachtraeglich korrigiert werden; Rechtsschutzmoeglichkeit binnen eines Monats nach Bekanntgabe
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 19 Abs. 1, Abs. 2 StromNEV (Sondernetzentgelte) — § 8 EDL-G (Energie-Audit) — § 10 EWPG / EnEfG (Energieeffizienz-Pflicht) — §§ 3 ff. KWKG (KWK-Strompreiskompensation) — Art. 2 ff. CBAM-VO 2023/956 (Carbon Border Adjustment Mechanism)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, § 24 Rn. 20 ff. (Netzentgelte Industrie, atypisches Verhalten)
-- Bourwieg/Hellermann, StromNEV, 2. Aufl. 2021, § 19 Rn. 1 ff. (Sondernetzentgelte Bandlast, atypisch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - Mit Strompreiskompensation

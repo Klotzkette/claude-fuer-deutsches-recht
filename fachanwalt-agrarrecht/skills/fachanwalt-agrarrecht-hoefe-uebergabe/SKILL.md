@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-hoefe-uebergabe
-description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbeduerftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit."
+description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit."
 ---
 
 # Höfe-Übergabe
@@ -22,8 +22,7 @@ description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Hols
 - Abfindung weichende Erben § 12 Abs. 2 HöfeO nach Hofeswert.
 - Nachabfindungsanspruch § 13 HöfeO — bei Veräußerung oder Aufgabe innerhalb 20 Jahre nach Übergabe.
 - Bewirtschaftungspflicht § 17 HöfeO — keine Nachabfindung wenn nach 20 Jahren bewirtschaftet.
-- Pflichtteilsergänzung im Verhältnis Hofeswert : Verkehrswert: BGH IV ZR 102/87, Urt. v. 23.11.1988, Rn. 14 ff.
-- Höferechtsfähige Bewirtschaftung: BGH BLw 7/08, Beschl. v. 24.04.2009, Rn. 12 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -46,7 +45,7 @@ description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Hols
 9. Steuerliche Auswirkungen ErbStG GrEStG einbeziehen
 ```
 
-Standardliteratur: Wöhrmann HöfeO; Faßbender/Hötzel/von Jeinsen HöfeO; Bormann/Lange BGB ErbR.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage notarieller Hofesvertrag (Eckpunkte)
 
@@ -99,17 +98,16 @@ Saemtliche Vertragskosten traegt der Uebernehmer.
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 28.09.2017 — **BLw 3/16**, NJW-RR 2018, 263 Rn. 22: Nachabfindungsanspruch nach § 13 HöfeO entsteht erst bei konkreter Veräußerung oder Aufgabe der Hofbewirtschaftung innerhalb von 20 Jahren; die Berechnung erfolgt auf der Basis des Unterschieds zwischen Hofeswert und erzieltem Veräußerungserlös, anteilig für die weichenden Miterben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 29.04.2010 — **BLw 5/09**, BGHZ 185, 133 Rn. 18: Die Hofeigenschaft nach § 1 HöfeO setzt einen Mindestwirtschaftswert und die Eignung für die Landwirtschaft voraus; ein Hof verliert seine Eigenschaft, wenn dauerhaft keine Bewirtschaftung mehr stattfindet — der Hoffolgevermerk im Grundbuch ist widerlegbare Vermutung, keine konstitutive Voraussetzung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BFH, Urt. v. 22.09.2020 — **VI R 19/18**, BStBl. II 2021, 314 Rn. 16: Hofübergabe zu Lebzeiten nach HöfeO gegen Altenteil gilt ertragsteuerlich als entgeltliches Geschäft, soweit der Verkehrswert der Altenteilsleistungen den Hofeswert übersteigt; keine GrESt wenn Übertragung auf Abkömmlinge § 3 Nr. 6 GrEStG.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 §§ 1-7 HöfeO (Hofeigenschaft, Anerbenfolge) → § 12 HöfeO (Hofeswert, Abfindung weichende Erben) → § 13 HöfeO (Nachabfindung 20-Jahre-Frist) → § 14 HöfeO (Altenteilsleistungen) → § 311b Abs. 1 BGB (Formerfordernis notarielle Beurkundung) → § 2346 BGB (Pflichtteilverzicht) → ErbStG §§ 13a, 13b (land- und forstwirtschaftliches Vermögen, Steuerverschonung) → GrEStG § 3 Nr. 6 (Steuerbefreiung Übertragung auf Abkömmlinge)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Wöhrmann/Stöcker, HöfeO, 4. Aufl. 2020: Maßgeblicher Kommentar zum Höferecht; vollständige Kommentierung §§ 1-21 HöfeO.
-- Faßbender/Hötzel/von Jeinsen, HöfeO, 3. Aufl. 2015: Praxiskommentar mit Formularen für Hofesverträge, Nachabfindungsberechnung.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

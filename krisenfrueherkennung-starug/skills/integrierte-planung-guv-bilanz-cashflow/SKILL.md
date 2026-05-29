@@ -1,6 +1,6 @@
 ---
 name: integrierte-planung-guv-bilanz-cashflow
-description: "Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) fuer StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Pruefraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
+description: "Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Prüfraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # Integrierte Planung — GuV, Bilanz und Cashflow
@@ -193,7 +193,7 @@ FINANZIERUNG
 
 4. **Investitionsplanungen ohne Finanzierungsquelle** — CAPEX-Pläne, die nicht mit konkreter Finanzierungsstruktur unterlegt sind, sind Wunschlisten, keine valide Planung.
 
-5. **Steuerlast unterschätzen** — effektiver Steuersatz (Körperschaftsteuer + Solidaritätszuschlag + Gewerbesteuer) beträgt ca. 30 %; diese Position fehlt in vielen „schnellen" Plan-GuVs.
+5. **Steuerlast unterschätzen** — effektiver Steuersatz (Körperschaftsteuer + Solidaritätszuschlag + Gewerbesteuer) beträgt ca. 30 %; diese Position fehlt in vielen "schnellen" Plan-GuVs.
 
 ---
 
@@ -208,8 +208,7 @@ FINANZIERUNG
 
 ## Aktuelle Leitentscheidungen — Integrierte Planung
 
-- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Integrierte Planung als IDW S 6 Kernbaustein: Sanierungskonzept muss integrierte Guv-Bilanz-Cashflow-Planung enthalten; isolierter Liquiditaetsplan ohne Verbindung zu Guv reicht nicht.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose auf Basis integrierter Planung: Cashflow-Planung muss aus Guv-Annahmen abgeleitet sein; zirkulaere Planungen nicht akzeptiert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - IDW S 6 — IDW Standard: Grundsaetze zur Erstellung von Sanierungskonzepten, Stand 06/2022 — integrierte Unternehmensplanung als Pflichtbaustein jedes Sanierungskonzepts.
 
@@ -224,13 +223,6 @@ FINANZIERUNG
 3. **Szenarien?** Base-Case, Best-Case, Worst-Case durchgerechnet?
 4. **Saldo-Check?** Integrierte Planung muss bilanziell schliessen (Bilanzsumme immer ausgeglichen).
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 6, Stand 06/2022 — integrierte Unternehmensplanung.
-- IDW S 11, Stand 11/2022 — Liquiditaetsplanung als Teil.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.5 ff. — Planungsanforderungen Sanierungskonzept.
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
-- GELOESCHT: OLG Muenchen, Beschl. v. 23.05.2019 — 23 U 3003/18, NZI 2019, 694 (Status: NOT_FOUND; Entscheidung in dejure.org-Datenbank nicht auffindbar; kein Nachweis einer realen Entscheidung dieses AZ bei OLG Muenchen)
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-gesellschaftsrecht-register
-description: "Gesellschaftsrechtliche Registeranmeldungen und Satzungsaenderungen durchfuehren: Handelsregister-Anmeldung von GF-Bestellung, Kapitalerhoehung, Satzungsaenderung, Verschmelzung. Normen: §§ 39-45 GmbHG, §§ 36-39 AktG, HRV, §§ 8-15 HGB. Pruefraster: Anmeldepflicht, Notarerfordernis, Fristen, Registerinhalt, Eintragungshindernisse. Output Anmeldungs-Entwurf, Checkliste Registerunterlagen, Eingabe-Protokoll. Abgrenzung: Umwandlungsrecht siehe umwandlungsrecht-skill; Handelsregister-Analyse bestehender Eintraege siehe handelsregisterabruf."
+description: "Gesellschaftsrechtliche Registeranmeldungen und Satzungsaenderungen durchführen: Handelsregister-Anmeldung von GF-Bestellung, Kapitalerhoehung, Satzungsaenderung, Verschmelzung. Normen: §§ 39-45 GmbHG, §§ 36-39 AktG, HRV, §§ 8-15 HGB. Prüfraster: Anmeldepflicht, Notarerfordernis, Fristen, Registerinhalt, Eintragungshindernisse. Output Anmeldungs-Entwurf, Checkliste Registerunterlagen, Eingabe-Protokoll. Abgrenzung: Umwandlungsrecht siehe umwandlungsrecht-skill; Handelsregister-Analyse bestehender Eintraege siehe handelsregisterabruf."
 ---
 
 # Gesellschaftsrecht und Register
@@ -26,15 +26,11 @@ description: "Gesellschaftsrechtliche Registeranmeldungen und Satzungsaenderunge
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.06.2013 - II ZR 235/11, BGHZ 197, 284 — Gesellschafterliste nach § 16 GmbHG: eingetragener Gesellschafter gilt als legitimiert; gutglaeubiger Erwerb nach § 16 III GmbHG
-- BGH, Urt. v. 24.02.2020 - II ZR 21/18, NJW 2020, 1664 — GF-Bestellung und -abberufung: GV-Beschluss konstitutiv fuer Bestellung; Wirksamkeit der Abberufung unabhaengig von HR-Eintragung
-- OLG Frankfurt, Beschl. v. 15.04.2021 - 20 W 45/21, NZG 2021, 812 — Satzungsaenderung: Notar muss Beschlussprotokoll beglaubigen und einreichen; fehlerhafte Anmeldung kann zu Zurueckweisung fuehren
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fleischer/Goette, MueKo GmbHG §§ 39-45 — Anmeldungsregeln; Gesellschafterliste
-- Hueffer/Koch, AktG (16. Aufl. 2023) §§ 36-39 — Eintragung AG; §§ 179-184 Satzungsaenderung und KE
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anmelde-Checkliste: GF-Wechsel (GmbH)
 
 1. Gesellschafterversammlungs-Beschluss ueber Abberufung altes GF / Bestellung neues GF
@@ -110,5 +106,5 @@ Notariell beglaubigte Unterschrift des neuen GF (Anlage)
 ## Quellen
 
 - §§ 39-45 GmbHG; §§ 179-184 AktG; §§ 8-10 HGB; § 12 HGB (elektronische Anmeldung)
-- BGH II ZR 235/11 (Gesellschafterliste); BGH II ZR 21/18 (GF-Abberufung); OLG Frankfurt 20 W 45/21 (Satzungsaenderung)
-- MueKo GmbHG/Fleischer §§ 39-45; Hueffer/Koch AktG §§ 36-39
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

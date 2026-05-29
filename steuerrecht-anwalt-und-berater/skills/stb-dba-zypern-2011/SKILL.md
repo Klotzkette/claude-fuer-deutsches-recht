@@ -7,7 +7,7 @@ description: "DBA Deutschland Zypern 2011. Anwendungsfall Holding-Konstruktionen
 
 ## Kernsachverhalt
 
-Das DBA-Zypern (Datum und BGBl-Fundstelle vor Verwendung im konsolidierten BMF-DBA-Verzeichnis verifizieren — das Skill-Datum 2011 ist der Slug-Anker, die exakte Unterzeichnungs- und Inkrafttretensangabe muss aus juris/BMF stammen) ersetzte das aeltere DBA und folgt OECD-MA 2010. Zypern ist EU-Mitglied (Beitritt 01.05.2004, Euro 01.01.2008) und Standort fuer Holding-Konstruktionen, Schifffahrt und Investmentstrukturen. Zypern KSt **12,5 Prozent — aktuellen Satz verifizieren** (Pillar-Two-Anpassung droht).
+Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) ersetzte das aeltere DBA und folgt OECD-MA 2010. Zypern ist EU-Mitglied (Beitritt 01.05.2004, Euro 01.01.2008) und Standort fuer Holding-Konstruktionen, Schifffahrt und Investmentstrukturen. Zypriotische Koerperschaftsteuer: 12,5 Prozent (Pillar-Two-Mindeststeuer 15 Prozent ab 01.01.2024 verschiebt die Vorteilhaftigkeit).
 
 ## Kaltstart-Rueckfragen
 
@@ -23,14 +23,15 @@ Das DBA-Zypern (Datum und BGBl-Fundstelle vor Verwendung im konsolidierten BMF-D
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Zypern** (Datum, BGBl-Fundstelle und Inkrafttretensdatum aus juris/BMF-DBA-Verzeichnis uebernehmen — die Zahlen im Slug duerfen nicht ohne unabhaengige Quelle in Memos uebernommen werden, da im selben Zeitraum mehrere DBA-Aktualisierungen erfolgten).
+- **DBA Deutschland-Zypern vom 18.02.2011**, in Kraft 16.12.2011 (BGBl. 2011 II S. 1068/1069; BStBl. 2012 I S. 222).
+- Aenderungsprotokoll, in Kraft 08.12.2021, anwendbar ab 01.01.2022 (BGBl. 2022 II S. 4).
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Zypern haben das MLI ratifiziert; DBA-DE-CY gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 43/12 zu Zypern-Holding — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu Zypern-Holdings und § 50d Abs. 3 EStG in juris abrufen.
 
 ## Land-spezifisches
 
@@ -41,13 +42,15 @@ Das DBA-Zypern (Datum und BGBl-Fundstelle vor Verwendung im konsolidierten BMF-D
 - Bauausfuehrung **12 Monate**.
 
 ### Quellensteuer
-- Dividenden, Zinsen, Lizenzen — **konkret verifizieren**. EU-MTRL/ZinsLizenzRL vorrangig.
+- **Dividenden** (Art. 10): Zypern erhebt regelmaessig keine Quellensteuer auf Dividenden; EU-MTRL/ZinsLizenzRL vorrangig. DBA-Hoechstsaetze aus DBA-Text Art. 10 entnehmen.
+- **Zinsen** (Art. 11): DBA-Hoechstsatz aus DBA-Text Art. 11 entnehmen; EU-ZinsLizenzRL vorrangig.
+- **Lizenzgebuehren** (Art. 12): DBA-Hoechstsatz aus DBA-Text Art. 12 entnehmen; EU-ZinsLizenzRL vorrangig.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
 
 ### Besonderheiten
-- **KSt Zypern 12,5 Prozent** — Niedrigsteuer-Schwelle § 8 AStG pruefen.
+- **KSt Zypern 12,5 Prozent**: AStG-Niedrigsteuerschwelle ab VZ 2024 auf 15 Prozent abgesenkt (Mindestbesteuerungsumsetzungsgesetz 21.12.2023) — zypriotische KSt liegt nunmehr unter der AStG-Schwelle.
 - **IP-Box Zypern**: Ermaessigung Lizenzeinkuenfte — substanz-basiert seit 2016 (Nexus-Approach).
 - **Tonnage Tax** Schifffahrt: Sonderbesteuerung — DBA-Berechtigung pruefen.
 - **CFC** § 7 ff. AStG bei passiven Einkuenften.
@@ -74,7 +77,7 @@ Das DBA-Zypern (Datum und BGBl-Fundstelle vor Verwendung im konsolidierten BMF-D
 - Zypern-Holding: Substanz § 50d Abs. 3 EStG zentral, Personal und Geschaeftsfuehrung — Briefkasten scheitert.
 - IP-Box Zypern: Nexus-Approach erfordert Forschungs- und Entwicklungsausgaben in Zypern; § 4j EStG-Lizenzschranke pruefen.
 - Tonnage Tax: kann Hauptsteuerlast ersetzen — DBA-Berechtigung sorgfaeltig pruefen.
-- CFC § 7 ff. AStG bei passiven Einkuenften vom Anfang an pruefen (Niedrigsteuer-Schwelle § 8 AStG aktuell nach AStG-Reform 2022 verifizieren).
+- CFC § 7 ff. AStG bei passiven Einkuenften vom Anfang an pruefen — Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
 - Pillar Two (GloBE): seit 01.01.2024 Mindeststeuer 15 Prozent — bei zypriotischen Tochtergesellschaften deutsche Top-Up-Tax pruefen.
 - BZSt-Verfahren bei Empfang zypriotischer Quellen: typ. EU-MTRL-Empfaengerprivileg (§ 43b EStG); bei Streubesitz BZSt-Erstattungsantrag § 50c Abs. 3 EStG mit zypriotischer Ansaessigkeitsbescheinigung; siehe `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
 
@@ -84,4 +87,6 @@ Das DBA-Zypern (Datum und BGBl-Fundstelle vor Verwendung im konsolidierten BMF-D
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Zypern (Unterzeichnungsdatum, BGBl-Fundstelle und Inkrafttretensdatum strikt aus dem konsolidierten BMF-DBA-Verzeichnis uebernehmen — Slug-Anker "2011" ersetzt keine Quellenpruefung). **MLI-Notification, Pillar-Two-Umsetzung Zypern, IP-Box-Nexus-Approach und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Zypern 18.02.2011, in Kraft 16.12.2011 (BGBl. 2011 II S. 1068/1069). Aenderungsprotokoll in Kraft 08.12.2021 (BGBl. 2022 II S. 4). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 2 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

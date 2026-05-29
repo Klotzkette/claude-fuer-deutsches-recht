@@ -1,6 +1,6 @@
 ---
 name: gutachten-erstellen
-description: "Erstelle das zusammenfassende Forpruefungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Pruefpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lueckenliste Handlungsempfehlung. Ausdruecklich keine Rechtsberatung sondern strukturierte Argumentationshilfe fuer das Anbietergespraech."
+description: "Erstelle das zusammenfassende Forprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lueckenliste Handlungsempfehlung. Ausdrücklich keine Rechtsberatung sondern strukturierte Argumentationshilfe für das Anbietergespraech."
 ---
 
 # Forprüfungs-Gutachten erstellen
@@ -94,10 +94,7 @@ Markdown, ca. 5 bis 10 Seiten. PDF-Export optional via Plugin `office`.
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44–55: Anwaltliches Berufsgeheimnis als verfassungsrechtlich geschütztes Gut; Kanzleien tragen eigenständige Verantwortung für die Einhaltung der Verschwiegenheitspflicht gegenüber Dritten.
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Verschwiegenheitspflicht gilt für alle anvertrauten oder bekanntgewordenen Tatsachen; Verstoß kann zu berufsrechtlichen Sanktionen (Rüge, Geldbuße, Verbot) führen.
-- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Berufshelfer nach § 53a StPO muss zur Berufsausübung mitwirken; nur dann greift das Zeugnisverweigerungsrecht und Beschlagnahmeschutz.
-- EuGH, Urt. v. 26.06.2007 — C-305/05 (Ordre des barreaux francophones), NJW 2007, 2413 Rn. 31: Anwaltliches Berufsgeheimnis als fundamentales Prinzip; Eingriffe durch Auskunftspflichten bedürfen europarechtlicher Rechtfertigung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -106,11 +103,9 @@ Markdown, ca. 5 bis 10 Seiten. PDF-Export optional via Plugin `office`.
 - §§ 53a, 97 StPO — Strafprozessuale Absicherung
 - Art. 28, 32 DSGVO — Datenschutzrechtliche Parallelprüfung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 1–80: Gesamtdarstellung der Dienstleisterregelung mit Anforderungsprofil.
-- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 50–80: Zur Strafbarkeit nach § 203 StGB bei Einschaltung von IT-Dienstleistern; Abgrenzung von § 203 Abs. 3 Satz 2 StGB (Berufshelfer) und § 203 Abs. 4 StGB (bei Offenlegung ohne Rechtfertigung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Wurden alle Einzelprüfungen aus den Teilskills (Verschwiegenheit, Belehrung, Subunternehmer, Strafprozess, TOM, Drittstaat) durchgeführt?

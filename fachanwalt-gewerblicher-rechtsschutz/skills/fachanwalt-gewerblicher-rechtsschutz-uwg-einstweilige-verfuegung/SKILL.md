@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung
-description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Pruefraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismaessigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht fuer Hauptsacheverfahren."
+description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismäßigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht für Hauptsacheverfahren."
 ---
 
 # UWG-Einstweilige Verfuegung
@@ -20,11 +20,7 @@ description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren 
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 06.02.2020 – I ZR 93/18, GRUR 2020, 660 Rn. 19 – Dringlichkeit UWG: Die 4-Wochen-Frist zur Selbstwiderlegung der Dringlichkeit beginnt mit positiver Kenntnis des Antragstellers vom Verstoß und allen Beteiligten; eine Pflicht zur Marktbeobachtung besteht nicht, aber vorhandene Kenntnis genuegt.
-- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 314 Rn. 27 – Kernbereich-Abgrenzung: Bei der einstweiligen Verfuegung wegen UWG-Verstosses muss der Antrag hinreichend bestimmt den Kernbereich des Verbots beschreiben; zu enger Kernbereich kann Vollstreckungsrisiko begegnen.
-- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 31 – Energieeffizienzklasse III: Missbrauchliche Abmahnung i.S.v. § 8c UWG liegt vor wenn der Abmahnende kein ernsthaftes Interesse an der Unterlassung hat; Schadensersatzanspruch des Abgemahnten § 8c Abs. 2 UWG.
-- BGH, Urt. v. 14.02.2019 – I ZR 6/17, GRUR 2019, 638 Rn. 23 – Aktivlegitimation Verbraucherzentrale: Qualifizierte Einrichtungen nach § 8 Abs. 3 Nr. 3 UWG muessen in der Liste nach § 8b UWG eingetragen sein; fehlende Eintragung entzieht Aktivlegitimation.
-- BGH, Urt. v. 28.05.2020 – I ZR 129/19, GRUR 2020, 1284 Rn. 38 – FRAND-Verfuegungsantrag: In einstweiligen Verfuegungsverfahren gelten die allgemeinen Glaubhaftmachungsregeln; eidesstattliche Versicherung und Urkunden reichen fuer Vollziehungsvoraussetzungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Dringlichkeit und Selbstwiderlegung
 
@@ -78,13 +74,9 @@ Schritt 7: Nach Erlass der Verfuegung
   → Hauptsacheklage ggf. einreichen (zur dauerhaften Unterlassung)
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8, 8c, 12, 13, 14 UWG
-- Fezer, UWG (Vahlen) — Einstweiliger Rechtsschutz
-- Musielak/Voit, ZPO (Beck) — §§ 935, 940, 924 ZPO
-- Schuschke/Walker, Vollstreckung und Vorlaeufiger Rechtsschutz (Beck) — Einstweilige Verfuegung Praxis
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Abmahnung UWG (Auszug)
 
 **Adressat:** Gegenseite — Tonfall scharf-fristsetzend
@@ -169,7 +161,7 @@ ANLAGEN: K1 [Screenshot], K2 [Kaufbeleg], K3 [Eidesstattliche Versicherung]
 
 | Verstosstypus | Uebliche Hoehe | Grundlage |
 |---------------|---------------|---------|
-| Spam-Email B2C | 3.000-5.000 EUR je Verstoß | § 7 UWG, BGH I ZR 93/17 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Irreführende Werbung klein | 5.001-10.000 EUR | Hamburger Brauch |
 | Irreführende Werbung gross | 15.000-30.000 EUR | Bekanntheitsgrad |
 | Wiederholungsverstoß | mind. Verdoppelung | § 339 BGB Angemessenheit |

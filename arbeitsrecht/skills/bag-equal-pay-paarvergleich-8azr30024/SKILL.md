@@ -1,13 +1,13 @@
 ---
 name: bag-equal-pay-paarvergleich-8azr30024
-description: "BAG 23.10.2025 8 AZR 300/24 Equal Pay durch Paarvergleich. Eine Arbeitnehmerin muss keine ganze Vergleichsgruppe statistisch auswerten. Ein einziger besser bezahlter maennlicher Kollege bei gleicher oder gleichwertiger Arbeit genuegt fuer die Vermutung des § 22 AGG. Arbeitgeber muss konkret darlegen dass die Differenz auf objektiven geschlechtsneutralen Gruenden beruht. Keine Berufung mehr auf Median Durchschnitt oder Verhandlungsgeschick. Art. 157 AEUV § 3 § 7 EntgTranspG."
+description: "Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
-# BAG 23.10.2025 — Equal Pay durch Paarvergleich (8 AZR 300/24)
+# Rechtsprechung live prüfen
 
 ## Worum es geht
 
-Die Entscheidung des Bundesarbeitsgerichts vom 23. Oktober 2025 (Az. 8 AZR 300/24) verschärft die Beweissituation für Arbeitgeber im Equal-Pay-Verfahren erheblich. Eine Arbeitnehmerin muss nicht erst eine statistisch belastbare Vergleichsgruppe auswerten, um Entgeltdiskriminierung wegen des Geschlechts plausibel zu machen. Es genügt der Verweis auf einen einzigen besser bezahlten männlichen Kollegen, sofern dieser gleiche oder gleichwertige Arbeit leistet. Damit greift die Vermutung des Paragraf 22 AGG. Die Beweislast verlagert sich vollständig auf den Arbeitgeber.
+Dieser Skill ist ein Live-Research-Workflow für Equal-Pay-Fälle mit Paarvergleich. Er darf eine konkrete BAG-Entscheidung erst ausgeben, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, freie oder amtliche Quelle und tragende Aussage verifiziert sind.
 
 ## Bedeutung für die Praxis
 
@@ -28,16 +28,16 @@ Für Arbeitnehmerinnen bedeutet die Entscheidung: Der Auskunftsanspruch nach Par
 
 ## Argumentationslinie im Schriftsatz
 
-Die Klägerin verweist auf den konkret benannten männlichen Vergleichskollegen mit gleicher oder gleichwertiger Tätigkeit. Sie beziffert die Entgeltdifferenz. Nach der Rechtsprechung des Bundesarbeitsgerichts (BAG, 23.10.2025 – 8 AZR 300/24) begründet bereits dieser Paarvergleich die Vermutung einer Benachteiligung wegen des Geschlechts gemäß Paragraf 22 AGG. Es ist nun Sache der Beklagten, konkret darzulegen und zu beweisen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gründen beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick genügen nach der neuen BAG-Rechtsprechung nicht.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Typische Arbeitgeber-Einwände und Reaktion
 
 | Einwand | Reaktion |
 | --- | --- |
-| „Der Kollege verhandelte besser." | Verhandlungsgeschick ist nach BAG keine objektive Rechtfertigung mehr |
-| „Branchenüblicher Median liegt höher." | Medianwerte rechtfertigen keine konkrete Differenz im Paarvergleich |
-| „Der Kollege hatte Berufserfahrung mehr." | Konkrete Bezifferung erforderlich: Wie viele Jahre, welche Wertigkeit |
-| „Ich kann nicht offenlegen, was andere verdienen." | Paragraf 10 EntgTranspG und prozessuale Offenlegungspflicht nach Paragraf 138 ZPO |
+| "Der Kollege verhandelte besser." | Verhandlungsgeschick nur nach verifizierter Rechtsprechung als tragfähige oder nicht tragfähige Rechtfertigung einordnen |
+| "Branchenüblicher Median liegt höher." | Medianwerte rechtfertigen keine konkrete Differenz im Paarvergleich |
+| "Der Kollege hatte Berufserfahrung mehr." | Konkrete Bezifferung erforderlich: Wie viele Jahre, welche Wertigkeit |
+| "Ich kann nicht offenlegen, was andere verdienen." | Paragraf 10 EntgTranspG und prozessuale Offenlegungspflicht nach Paragraf 138 ZPO |
 
 ## Rechtsfolgen
 

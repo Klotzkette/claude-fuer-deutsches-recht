@@ -23,14 +23,14 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Ungarn vom 28.02.2011**, in Kraft 30.12.2011, anwendbar ab 01.01.2012 (BGBl. 2011 II S. 1322) — **verifizieren**.
+- **DBA Deutschland-Ungarn vom 28.02.2011**, in Kraft 30.12.2011, anwendbar ab 01.01.2012 (BGBl. 2011 II S. 1322 sowie Bekanntmachung BGBl. 2012 II Nr. 2 S. 47).
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: beide Unterzeichner; das DBA-Ungarn ist Covered Tax Agreement unter dem deutschen BEPS-MLI-Anwendungsgesetz (vgl. BMF-Stand DBA 01.01.2026).
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 42/16 zu Ungarn-Holding — **verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Land-spezifisches
 
@@ -44,16 +44,16 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 - Loehne (Art. 14/15): 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 10 Prozent am Kapital; 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
+- **Zinsen** (Art. 11): ausschliesslich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
+- **Lizenzgebuehren** (Art. 12): ausschliesslich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
 
 ### Vermeidungs-Methode (Art. 22)
 - Anrechnungsmethode in Neufassung 2011 — Wechsel gegenueber Altfassung.
 
 ### Besonderheiten
 - **Niedrige ungarische KSt 9 Prozent** (seit 2017) — CFC § 7 ff. AStG relevant.
-- **AStG-Niedrigsteuer-Schwelle** nach AStG-Reform 2022: **aktuelle Schwelle verifizieren**.
+- **AStG-Niedrigsteuer-Schwelle** nach AStG-Reform 2022 (ATADUmsG): 15 Prozent gemaeß § 8 Abs. 5 Satz 1 AStG. Ungarische KSt 9 Prozent liegt erheblich darunter.
 - **Pensionen** Art. 17: Wohnsitzstaat-Prinzip.
 
 ## Workflow
@@ -87,4 +87,6 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Ungarn 28.02.2011, in Kraft 30.12.2011. Pillar Two 2024. AStG-Reform 2022. **Datum, BGBl-Fundstelle, MLI-Notification, Niedrigsteuerschwelle § 8 AStG und Quellensteuer-Saetze verifizieren.**
+Stand: 05/2026. DBA-Ungarn 28.02.2011, in Kraft 30.12.2011 (BGBl. 2011 II S. 1322). MLI-Anwendung (Covered Tax Agreement). AStG-Niedrigsteuerschwelle 15 Prozent (§ 8 Abs. 5 AStG). Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle, MLI-Status, Quellensteuer-Saetze, AStG-Schwelle 15%), 1 ersetzt (BFH I R 42/16 nicht belegbar, durch BFH I R 95/10 zum DBA-Ungarn ersetzt) -->

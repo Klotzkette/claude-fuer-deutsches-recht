@@ -19,7 +19,7 @@ Der Nationale Normenkontrollrat hat den Entwurf gemäß § 4 des Gesetzes zur Ei
 
 1. Der NKR begrüßt die Zielsetzung des Entwurfs, einen bundeseinheitlichen Rechtsrahmen für die elektronische Rechtskommunikation mit Wirtschaftsteilnehmern und sehr großen Online-Plattformen zu schaffen.
 
-2. Der Entwurf folgt dem Verfassungs- und unionsrechtlichen Rahmen und vermeidet — durch ausdrücklichen Verweis auf die DSA-Schwelle — eine ungerechtfertigte Schlechterstellung sehr großer Online-Plattformen-Anbieter („no Goldplating").
+2. Der Entwurf folgt dem Verfassungs- und unionsrechtlichen Rahmen und vermeidet — durch ausdrücklichen Verweis auf die DSA-Schwelle — eine ungerechtfertigte Schlechterstellung sehr großer Online-Plattformen-Anbieter ("no Goldplating").
 
 3. Der dargestellte Erfüllungsaufwand ist plausibel und methodisch nachvollziehbar. Die KMU-Wertung erfolgt im Sinne der Bundesregierungs-Praxis (§ 30 NKRG).
 
@@ -48,7 +48,7 @@ Kein Erfüllungsaufwand. Bürgerinnen und Bürger sind nicht Adressaten der Verp
 | Bürokratiekosten aus Informationspflichten (SKM-Methode) | – | rund 8 Mio. Euro |
 
 **Bewertung NKR**: Der dargestellte Aufwand ist plausibel.
-- Einrichtungskosten: 240 Euro je Gesellschaft sind realistisch; sie liegen im Marktstandard für eine Anbindung an ein elektronisches Postfach mit Authentifizierungs-Niveau „hoch".
+- Einrichtungskosten: 240 Euro je Gesellschaft sind realistisch; sie liegen im Marktstandard für eine Anbindung an ein elektronisches Postfach mit Authentifizierungs-Niveau "hoch".
 - Laufende Kosten: 70 Euro pro Gesellschaft entsprechen einer Mischung aus Lizenz-Gebühren, Mitarbeiter-Zeitaufwand für werktägliche Prüfung und Sicherung.
 - Informationspflichten: 8 Mio. Euro jährlich aus der HR-Anmeldung der Postfachadresse ist konservativ geschätzt.
 
@@ -81,7 +81,7 @@ Eine Befreiung kleiner GmbHs (Bilanzsumme bis 6 Mio. Euro) wurde geprüft und im
 
 **Bewertung NKR**: Die Verwaltungskosten sind plausibel. Die Investition in die zentrale Verzeichnisinfrastruktur (Bund) ist im Rahmen des notwendigen Aufwands. Die Länder-Kosten betreffen Anpassungen an Justiz-Fachverfahren und sind konsistent mit Vergleichswerten aus früheren Justiz-Digitalisierungs-Vorhaben.
 
-### 4. „One in, one out"-Regel
+### 4. "One in, one out"-Regel
 
 Der einmalige Erfüllungsaufwand von 312 Mio. Euro ist als Investition zu klassifizieren und unterliegt nicht der One in, one out-Regel.
 
@@ -105,7 +105,7 @@ Die Berechnungs-Grundlagen sind transparent dargestellt.
 
 ### 6. Verzahnung mit unionsrechtlichen Vorgaben
 
-Der NKR begrüßt, dass der Entwurf die Schwelle der sehr großen Online-Plattformen (45 Mio. Nutzer EU) direkt aus dem DSA übernimmt und keine eigene nationale Schwelle einführt. Dies ist im Sinne des „no Goldplating" und der Vereinfachungs-Initiative der Bundesregierung.
+Der NKR begrüßt, dass der Entwurf die Schwelle der sehr großen Online-Plattformen (45 Mio. Nutzer EU) direkt aus dem DSA übernimmt und keine eigene nationale Schwelle einführt. Dies ist im Sinne des "no Goldplating" und der Vereinfachungs-Initiative der Bundesregierung.
 
 ### 7. Evaluierung
 
@@ -120,7 +120,7 @@ Eine Evaluierung 5 Jahre nach Inkrafttreten ist im Entwurf vorgesehen. Der NKR b
 
 ### 8. Stellungnahme zur Sprachform
 
-Der Entwurf folgt dem Handbuch der Rechtsförmlichkeit (HdR) und ist gut verständlich. Die Bezeichnung „Pflichtpostfach" ist eingängig und intuitiv.
+Der Entwurf folgt dem Handbuch der Rechtsförmlichkeit (HdR) und ist gut verständlich. Die Bezeichnung "Pflichtpostfach" ist eingängig und intuitiv.
 
 Empfehlung: § 1 Abs. 2 (Verwendungs-Zwecke) sollte um die ausdrückliche Erwähnung der Übermittlung durch beA / beBPo / eBO ergänzt werden, um die Interoperabilitäts-Funktion sichtbar zu machen.
 

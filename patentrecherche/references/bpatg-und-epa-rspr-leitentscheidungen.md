@@ -6,44 +6,33 @@
 
 ### 1.1 Äquivalenzlehre — Schneidmesser-Trilogie
 
-- BGH, Urt. v. 12.03.2002 – X ZR 168/00, BGHZ 150, 149 — **Schneidmesser I**: Drei-Punkte-Test für Patentverletzung im Äquivalenzbereich. (1) Gleichwirkung, (2) Naheliegen, (3) Gleichwertigkeit (Orientierung am Patentanspruch).
-- BGH, Urt. v. 12.03.2002 – X ZR 73/01 — **Schneidmesser II**: Konkretisierung der Gleichwertigkeit.
-- BGH, Urt. v. 12.03.2002 – X ZR 43/01 — **Schneidmesser III**: Spezifischer Fall einer austauschbaren technischen Maßnahme.
-- BGH, Urt. v. 12.03.2002 – X ZR 135/01 — **Schneidmesser IV**: Klarstellung der Anwendung in Mehr-Merkmal-Patenten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.2 Verletzungsbeurteilung allgemein
 
-- BGH, Urt. v. 10.05.2011 – X ZR 16/09, GRUR 2011, 701 — **Okklusionsvorrichtung**: Ausgangspunkt der modernen Auslegung des Patentanspruchs nach Art. 69 EPÜ; Beschreibung und Zeichnungen ergänzen den Wortlaut, ersetzen ihn aber nicht.
-- BGH, Urt. v. 02.06.2015 – X ZR 103/13 — **Kreuzgestänge**: Funktionelle Auslegung von Merkmalen.
-- BGH, Urt. v. 14.06.2016 – X ZR 29/15 — **Pemetrexed**: Äquivalente Verletzung trotz numerisch-präziser Anspruchsmerkmale, wenn der Fachmann sie als beispielhaft erkennt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.3 Erfinderische Tätigkeit / erfinderischer Schritt
 
-- BGH, Urt. v. 30.04.2009 – Xa ZR 56/05, BGHZ 182, 1 — **Olanzapin**: Maßstab für die Beurteilung erfinderischer Tätigkeit in der Pharmazie; **Nachveröffentlichungen** dürfen die Lehre nicht nachträglich „erfinderisch machen", die zum Anmeldetag offensichtlich war.
-- BGH, Urt. v. 04.02.2010 – Xa ZR 36/08, GRUR 2010, 607 — **Maschinenfundament**: Fachmannbegriff und Differenzierung zwischen „Anregung" und „Hinweis".
-- BGH, Urt. v. 16.12.2014 – X ZR 161/12 — **Repaglinid**: Eignung einer Anregung für einen erfinderischen Schritt; reine Existenz einer Vorveröffentlichung reicht nicht ohne Auseinandersetzung mit der konkreten Lehre.
-- BGH, Urt. v. 30.01.2018 – X ZR 23/16 — **Spinfrequenz**: Was vom Fachmann üblicherweise erprobt würde, ist nicht erfinderisch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.4 Neuheit
 
-- BGH, Urt. v. 16.12.2003 – X ZR 206/98 — **Elektronische Funktionseinheit**: Eine Vorveröffentlichung nimmt eine Lehre vorweg, wenn sie sie **unmittelbar und eindeutig** offenbart.
-- BGH, Urt. v. 17.07.2012 – X ZR 117/11 — **Polymerschaum**: Implizite Offenbarung — was der Fachmann ohne weiteres mitliest.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.5 Ausführbarkeit / Klarheit
 
-- BGH, Urt. v. 11.05.2010 – X ZR 51/06 — **Crimpwerkzeug**: Anforderungen an die Offenbarung und Ausführbarkeit der Lehre.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.6 Aussetzung Verletzungsverfahren wegen anhängiger Nichtigkeitsklage
 
-- BGH, Urt. v. 16.09.2014 – X ZR 61/13 — **Kurznachrichten**: Voraussetzungen, wann das Verletzungsgericht das Verfahren bis zur Entscheidung über die Nichtigkeitsklage aussetzt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 2. Bundespatentgericht — wichtige Linien
 
-- BPatG, Beschl. v. 03.12.2019 – 4 Ni 12/17 (EP), GRUR 2020, 391 — Maßstab für die Bewertung von Vorveröffentlichungen in Nichtigkeitsverfahren.
-- BPatG, Beschl. v. 21.07.2020 – 1 Ni 23/18 (EP) — Beweisanforderungen an die offenkundige Vorbenutzung (Messeauftritt, Produktbroschüre).
-- BPatG, Beschl. v. 14.09.2021 – 35 W (pat) 412/19 — Erfinderischer Schritt bei Gebrauchsmustern; geringerer Maßstab als bei Patenten (str.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-(Hinweis: BPatG-Entscheidungen werden in der Praxis primär per Aktenzeichen und Datum zitiert; Fundstellen in GRUR, GRUR-RR, Mitt., InstGE.)
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 3. EPA Große Beschwerdekammer — G-Entscheidungen
 
@@ -73,11 +62,11 @@
 
 ### 4.3 Erweiterung gegenüber der ursprünglichen Offenbarung (Art. 123(2) EPÜ)
 
-- **T 201/83**, **T 514/88**: „Gold standard" — Änderung nur zulässig, wenn der Fachmann das Ergebnis der ursprünglichen Anmeldung unmittelbar und eindeutig entnehmen kann.
+- **T 201/83**, **T 514/88**: "Gold standard" — Änderung nur zulässig, wenn der Fachmann das Ergebnis der ursprünglichen Anmeldung unmittelbar und eindeutig entnehmen kann.
 
 ### 4.4 Software / computer-implementiert (Art. 52 EPÜ)
 
-- **T 1173/97** (IBM): Computerprogramm „als solches" ist ausgeschlossen, aber Programm mit „weiterem technischen Effekt" patentierbar.
+- **T 1173/97** (IBM): Computerprogramm "als solches" ist ausgeschlossen, aber Programm mit "weiterem technischen Effekt" patentierbar.
 - **T 641/00** (COMVIK): Mischanspruch (technisch + nicht-technisch) — nur die technischen Merkmale tragen die erfinderische Tätigkeit.
 
 ## 5. Wie diese Entscheidungen praktisch in der Argumentation eingesetzt werden
@@ -92,8 +81,7 @@
 
 ## 6. Zitierweise (verbindlich, vgl. `../../references/zitierweise.md`)
 
-- BGH: `BGH, Urt. v. 12.03.2002 – X ZR 168/00, BGHZ 150, 149 (Schneidmesser I), Rn. X.`
-- BPatG: `BPatG, Beschl. v. 03.12.2019 – 4 Ni 12/17 (EP), GRUR 2020, 391, Rn. X.`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EPA Große Beschwerdekammer: `EPA, GBK, Entsch. v. 23.03.2023 – G 2/21, ABl. EPA 2023, A85, Rn. X.`
 - EPA Technische Beschwerdekammer: `EPA, TBK, Entsch. v. TT.MM.JJJJ – T 1173/97, ABl. EPA 1999, 609, Rn. X.`
 

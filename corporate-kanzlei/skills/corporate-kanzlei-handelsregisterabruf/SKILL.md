@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-handelsregisterabruf
-description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhaeltnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Pruefraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening."
+description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening."
 ---
 
 # Handelsregisterabruf und -analyse
@@ -25,16 +25,11 @@ description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.06.2013 - II ZR 235/11, BGHZ 197, 284 — Gesellschafterliste nach § 16 GmbHG als konstitutiver Legitimationsnachweis; gutglaeubiger Erwerb von nicht berechtigtem eingetragenem Gesellschafter moeglich
-- BGH, Urt. v. 20.07.2015 - II ZR 149/14, NJW 2015, 3168 — § 15 HGB negative Publizitaet: Gesellschaft kann einem Dritten den wahren Zustand nicht entgegenhalten, wenn dieser auf Eintragung vertraut hat
-- BayObLG, Beschl. v. 24.03.2022 - 101 Wx 45/22, NZG 2022, 1012 — Eintragung von Sacheinlagen in HR: Registergericht prueft Plausibilitaet; unzureichende Darlegung fuehrt zu Zurueckweisung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo HGB/Schmidt § 8 Rn. 1 ff. — Handelsregister allgemein
-- MueKo HGB/Schmidt § 15 Rn. 1 ff. — negative Publizitaet; Vertrauensschutz
-- Fleischer/Goette, MueKo GmbHG § 16 Rn. 1 ff. — Gesellschafterliste
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## HR-Ausdruck: Analysepunkte
 
 ### Fuer GmbH (HRB)
@@ -124,5 +119,5 @@ Chronologischer Ausdruck: [Ja / Nein]
 ## Quellen
 
 - §§ 8-15 HGB; § 16 GmbHG; § 325 HGB; §§ 18-20 GwG
-- BGH II ZR 235/11 (Gesellschafterliste); BGH II ZR 149/14 (§ 15 HGB)
-- MueKo HGB/Schmidt §§ 8, 15; MueKo GmbHG/Fleischer § 16
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

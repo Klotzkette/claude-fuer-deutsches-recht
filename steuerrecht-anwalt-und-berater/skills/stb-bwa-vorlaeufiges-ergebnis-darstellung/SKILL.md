@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-vorlaeufiges-ergebnis-darstellung
-description: "Darstellung vorlaeufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenueber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung."
+description: "Darstellung vorlaeufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung."
 ---
 
 # Vorlaeufiges Ergebnis in der unterjaehrigen BWA

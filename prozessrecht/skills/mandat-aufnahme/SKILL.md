@@ -1,6 +1,6 @@
 ---
 name: mandat-aufnahme
-description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zustaendigkeit pruefen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Pruefraster: Sachverhaltserfassung, Anspruchsgrundlage, Zustaendigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift."
+description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift."
 ---
 
 # Mandat-Intake
@@ -21,16 +21,14 @@ description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zustaendigkeit prue
 - § 232 ff. ZPO (Fristen und Fristenberechnung)
 
 ## Rechtsprechung (ergänzt)
-1. BGH, Urt. v. 26.09.2019 – IX ZR 315/18, NJW 2020, 224 Rn. 25 — Ein Interessenkonflikt nach § 43a Abs. 4 BRAO führt zur Schadensersatzpflicht des Anwalts gegenüber dem beschädigten Mandanten; der Anwalt muss das Mandat unverzüglich niederlegen.
-2. BGH, Urt. v. 22.11.2023 – VIII ZR 141/22, NJW 2024, 301 Rn. 14 — Der Streitwert ist bei mehreren Klageanträgen nach § 5 ZPO zusammenzurechnen, soweit sie nicht denselben Gegenstand betreffen; bei Aufnahme muss der Streitwert vorsorglich bestimmt werden.
-3. BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 12 — Anwaltliche Haftung bei versaeumter Frist setzt voraus, dass der Anwalt alle ihm zumutbaren Maßnahmen zur Fristensicherung unterlassen hat; eine Mandatsaufnahme ohne sofortigen Fristencheck ist sorgfaltswidrig.
-4. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Die anwaltliche Beratungspflicht bei Mandatsaufnahme umfasst die Abschätzung des Prozessrisikos und die transparente Darlegung gegenüber dem Mandanten; fehlt die Risikoaufklärung, haftet der Anwalt.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Interessenkonflikt).
-- Mayer/Kroiber, RVG, 8. Aufl. 2022, § 49b Rn. 1 ff. (Vergütungsvereinbarung).
-- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 232 Rn. 1 ff. (Fristen).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Vollständige und strukturierte Aufnahme eines neuen Mandats in das Portfolio. Der Skill führt ein interaktives Interview und schreibt die Ergebnisse in `mandate/[slug]/mandat.md` (Stammdaten), `mandate/[slug]/verlauf.md` (Erstem Eintrag) und hängt eine Zeile an `mandate/_log.yaml` an.
@@ -129,17 +127,17 @@ naechste_frist: "TT.MM.JJJJ"
 Verbindlich: `../references/zitierweise.md`.
 
 - BRAO § 43a Abs. 4 (Interessenkonflikt: Verbot der Vertretung widerstreitender Interessen).
-- BGH, Urt. v. 26.09.2019 – IX ZR 315/18, NJW 2020, 224 Rn. 25 (Interessenkonflikt: Verletzung des Vertretungsverbots; Schadensersatzpflicht des Anwalts).
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, §§ 12–37 Rn. 1 ff. (Gerichtszuständigkeit: sachlich, örtlich, funktionell).
-- BGH, Urt. v. 22.11.2023 – VIII ZR 141/22, NJW 2024, 301 Rn. 14 (Streitwert bei mehreren Klageanträgen: Zusammenrechnung § 5 ZPO).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
-Interaktiver Dialog, dann automatisches Schreiben von `mandat.md`, `verlauf.md` (erster Eintrag: „Mandat aufgenommen, TT.MM.JJJJ") und Append in `_log.yaml`.
+Interaktiver Dialog, dann automatisches Schreiben von `mandat.md`, `verlauf.md` (erster Eintrag: "Mandat aufgenommen, TT.MM.JJJJ") und Append in `_log.yaml`.
 
 ## Risiken / typische Fehler
 
-- **Interessenkonflikt nicht erkannt:** § 43a Abs. 4 BRAO – bei Verstoß droht Schadensersatzpflicht des Anwalts (BGH – IX ZR 315/18) und berufsrechtliche Sanktionen (§§ 113 ff. BRAO).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verjährung nicht geprüft:** Vor Intake stets Verjährungsablauf ermitteln; läuft die Verjährung in < 3 Monaten, sofort Hemmungsmaßnahmen (§ 204 BGB: Klageerhebung, Mahnbescheid) einleiten.
 - **Zuständigkeit falsch:** Fehlerhafte sachliche Zuständigkeit führt zur Verweisung (§ 281 ZPO) und Zeitverlust; Streitwertgrenzen (AG: bis EUR 10.000; LG: über EUR 10.000, § 23 Nr. 1 GVG i. d. F. seit 1.1.2026) prüfen.
 - **Mandant ist Verbraucher – besondere Pflichten:** Informationspflichten nach § 43d BRAO (Kostenmitteilung), § 13 RVG (Vergütungsvereinbarung).

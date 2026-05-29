@@ -1,6 +1,6 @@
 ---
 name: konzerninsolvenz-koordination
-description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Pruefraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzueberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zustaendigkeitspruefung und Verfahrensplan. Abgrenzung: anfechtungsrechte-pruefen fuer konzerninternen Zahlungsverkehr."
+description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr."
 ---
 
 # Konzerninsolvenz — Koordination
@@ -276,7 +276,7 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 ### Anfechtungs-Prüfung
 
 - Inter-Company-Transaktionen sensitiv
-- BGH IX ZR-Linien zur Vorsatzanfechtung § 133 InsO
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Skill `vorsatzanfechtung-133-inso`
 
 ### Anteilseigner-Rechte
@@ -340,18 +340,13 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 - BGH IX. Senat zur Konzern-Anfechtung
 - Skauradszun Konzerninsolvenzrecht
 - Frind Konzerninsolvenz
-- Uhlenbruck InsO
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 
 ## Weitere Leitentscheidungen — Konzerninsolvenz
 
-- BGH, Urt. v. 13.12.2018 — IX ZR 41/18, NZI 2019, 193 — Konzernhaftung in Insolvenz: "Bremer Vulkan" Fortfuehrung: konzerninterne Verrechnungen sind Anfechtung ausgesetzt wenn Toechter dadurch benachteiligt; Kapitalerhaltung § 30 GmbHG auch im Konzern.
-- BGH, Urt. v. 01.12.2008 — II ZR 102/07, NZI 2009, 132 — Haftung Muttergesellschaft: kein allg. Konzernhaftungsdurchgriff; nur bei Vermischung Vermoegen oder vorsaetzlicher Schaedigung.
-- EuGH, Urt. v. 04.09.2014 — C-327/13 (Burgo Group) — EuInsVO COMI: COMI der Tochtergesellschaft im Mitgliedstaat des Sitzes der Muttergesellschaft nur wenn Verwaltung tatsaechlich dort stattfindet und dies fuer Dritte erkennbar.
-- BGH, Urt. v. 18.07.2013 — IX ZR 219/11 — Konzernverrechnungsvertrag und Anfechtung: Cash-Pool-Abzuege aus Konzernkonto als anfechtbare Rechtshandlungen wenn ZU der Tochter bekannt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Ganter Vorbemerkung zu §§ 1-3 InsO Rn. 50 ff. — Konzerninsolvenz und Koordinierung.
-- Uhlenbruck/Sinz § 56a InsO Rn. 1 ff. — Koordinationsverwalter.
-- EuInsVO Art. 60-77 — Konzernkoordinationsverfahren.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

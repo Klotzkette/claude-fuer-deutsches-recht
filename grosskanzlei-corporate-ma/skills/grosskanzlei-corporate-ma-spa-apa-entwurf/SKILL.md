@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-spa-apa-entwurf
-description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag fuer Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Change Klausel. Pruefraster Reps and Warranties Katalog, MAC-Klausel-Formulierung, Earn-Out-Mechanismus, Freistellungsregelungen, Closing Conditions. Output vollstaendiger SPA/APA-Vertragsentwurf mit Garantiekatalog MAC Earn-Out und Closing-Bedingungen. Abgrenzung zu Vertragsmarkup-Key-Issues und zu Signing-Closing-CPs."
+description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Change Klausel. Prüfraster Reps and Warranties Katalog, MAC-Klausel-Formulierung, Earn-Out-Mechanismus, Freistellungsregelungen, Closing Conditions. Output vollständiger SPA/APA-Vertragsentwurf mit Garantiekatalog MAC Earn-Out und Closing-Bedingungen. Abgrenzung zu Vertragsmarkup-Key-Issues und zu Signing-Closing-CPs."
 ---
 
 # SPA/APA-Entwurf
@@ -32,17 +32,11 @@ Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement;
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.10.2020 - I ZR 153/17, NJW 2021, 780 — Garantiehaftung: selbstaendige Garantie nach § 443 BGB unterliegt keiner gesetzlichen Verjaehrung; die vertraglich vereinbarte Frist ist massgeblich; Verstoß gegen die vereinbarte Haftungshoechstgrenze (Cap) begrenzt Schadensersatz
-- BGH, Urt. v. 24.11.2010 - VIII ZR 235/09, NJW 2011, 594 — Kauferkenntnis: Kaeuferwissen aus Due Diligence schraenkt Ansprueche aus unrichtigen Garantien nicht automatisch ein, sofern der Verkaeuf er nicht nachweist, dass der Kaeufer positiv Kenntnis von Abweichungen hatte (Speziell: MAC-Klausel und Disclosure-Abgrenzung)
-- BGH, Urt. v. 30.11.2012 - V ZR 25/12, NJW 2013, 1158 — Earn-Out-Vereinbarung: der Verkaeuf er hat Anspruch auf sorgfaeltige Fuehrung des Unternehmens waehrend des Earn-Out-Zeitraums; Manipulation zulasten des Earn-Out begrunfdet Schadensersatz
-- OLG Frankfurt, Urt. v. 18.03.2019 - 23 U 131/17, NZG 2019, 677 — MAC-Klausel: Material Adverse Change setzt wesentliche nachteilige Veraenderung voraus; blosse Marktentwicklung genuegt nicht; bilaterale Einzelrisiken koennen MAC ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Westermann, §§ 433-480 Rn. 1-200 (Kaufrecht, Gewaehrleistung)
-- Beisel/Klumpp, Der Unternehmenskauf, 8. Auflage 2022, Kapitel 5 (SPA-Struktur, Garantien)
-- Picot, Unternehmenskauf und Restrukturierung, 5. Auflage, Kapitel 3 (M&A-Vertragsgestaltung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 
@@ -130,7 +124,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Steuerliche Annahme ungeprüft vor Kaufpreisfixierung: Steuerteam zwingend
 - Notarpflicht (§ 15 Abs. 3 GmbHG) uebersehen: Nichtigkeit der Anteilsuebertragung
-- Earn-Out-Zeitraum ohne Schutzklauseln: Manipulation zulasten Earn-Out moeglich (BGH II ZR Earn-Out-Leitlinie)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Disclosure Letter-Integration fehlt: Verkaeuferhaftung nicht begrenzt
 
 ## Standardausgabe

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-builder-hub-anpassen
-description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Pruefraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation."
+description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation."
 ---
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen
@@ -13,10 +13,7 @@ description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: 
 4. Betrifft die Aenderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Verarbeitung von Mandantendaten durch KI-Systeme erfordert aktuelle TOM nach Art. 32 DSGVO; Kanzleiprofil-Aenderungen muessen TOM-Dokumentation mitziehen.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Aenderung von Verarbeitungsgrundlagen erfordert Aktualisierung des Verarbeitungsverzeichnisses nach Art. 30 DSGVO; nachtraegliche Dokumentation ist unzureichend.
-- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Datensparsamkeit und Zweckbindung nach Art. 5 DSGVO gelten auch fuer kanzleiinterne Konfigurationsdaten; nur notwendige Profilangaben speichern.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Aenderungshistorie als Dokumentationspflicht bei technisch-organisatorischen Massnahmen; lueckenlose Protokollierung von Konfigurationsaenderungen dient als Nachweis der Sorgfalt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen muessen Datenschutz beruecksichtigen
@@ -24,10 +21,9 @@ description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: 
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Aenderung des Verarbeitungsumfangs zu aktualisieren
 - Art. 32 DSGVO — Technisch-organisatorische Massnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
 
-## Kommentarliteratur
-- Sydow/Marsch DSGVO Art. 30 Rn. 1-25 (Verarbeitungsverzeichnis: Inhalt und Aktualisierungspflicht)
-- Kühling/Buchner DSGVO Art. 32 Rn. 1-30 (TOM: Anforderungen und Dokumentation fuer Kanzleibetrieb)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzleiprofils und der Hub-Einstellungen, ohne das vollständige Kaltstart-Interview zu wiederholen. Verwenden Sie ihn, wenn sich Ihre Kanzlei, Rechtsgebiete, Teamzusammensetzung oder Sicherheitseinstellungen geändert haben.
@@ -42,7 +38,7 @@ Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzlei
   - `--registries` — Registry-Watchlist erweitern oder kürzen
   - `--updates` — Update-Kadenz und Benachrichtigungseinstellungen
   - `--tom` — TOM-Dokumentation und Datenschutzhinweise
-  - Oder frei: „Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
+  - Oder frei: "Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
 - Aktuelles Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md`
 - Geteiltes Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md`
 
@@ -75,7 +71,7 @@ Neuen Wert vom Nutzer einholen. Wenn der Nutzer einen Wert eingibt, der potenzie
 - Verarbeitungsverzeichnis-Eintrag nach Art. 30 DSGVO vorhanden (ja/nein/in Bearbeitung)
 - Datenschutz-Folgenabschätzung nach Art. 35 DSGVO durchgeführt (ja/nein/nicht erforderlich)
 - AVV nach Art. 28 DSGVO mit KI-Infrastrukturanbieter geschlossen (ja/nein/in Verhandlung)
-- Zuständiger Datenschutzbeauftragter (Name oder „kein DSB bestellt")
+- Zuständiger Datenschutzbeauftragter (Name oder "kein DSB bestellt")
 - Letztes TOM-Review-Datum
 
 ### Schritt 5: Positivliste anpassen (bei --positivliste)
@@ -86,7 +82,7 @@ Bei Positivliste-Änderungen:
 1. URL validieren (muss `https://` sein, valider Hostname)
 2. Prüfen, ob es sich um ein Kanzlei-Skills-Repository handelt (hat `skills/` oder `.claude-plugin/`)
 3. Zur `positivliste.yaml` und zum CLAUDE.md-Watchlist-Abschnitt hinzufügen
-4. Sicherheitshinweis: „Hinzugefügte Registries können Skills bereitstellen, die auf Mandantendaten zugreifen. Stellen Sie sicher, dass Sie der Registry vertrauen."
+4. Sicherheitshinweis: "Hinzugefügte Registries können Skills bereitstellen, die auf Mandantendaten zugreifen. Stellen Sie sicher, dass Sie der Registry vertrauen."
 
 **Publisher hinzufügen:**
 1. GitHub-Organisation oder Nutzernamen erfassen
@@ -96,12 +92,12 @@ Bei Positivliste-Änderungen:
 **Modus-Wechsel (restrictive ↔ permissive):**
 - Bei Wechsel nach `restrictive`: Alle vorhandenen installierten Skills sind weiterhin nutzbar, aber neue Installationen erfordern Positivliste-Eintrag.
 - Bei Wechsel nach `permissive`: **Explizit auf erhöhtes Risiko hinweisen:**
-  > „Permissiver Modus warnt bei unbekannten Quellen, blockiert sie aber nicht. Für Kanzleibetrieb mit Mandantendaten wird `restrictive` empfohlen (Art. 32 DSGVO, Datensicherheit). Bestätigen Sie mit 'ja' um fortzufahren."
+  > "Permissiver Modus warnt bei unbekannten Quellen, blockiert sie aber nicht. Für Kanzleibetrieb mit Mandantendaten wird `restrictive` empfohlen (Art. 32 DSGVO, Datensicherheit). Bestätigen Sie mit 'ja' um fortzufahren."
 - Niemals `permissive` ohne explizite Nutzerbestätigung schreiben.
 
 ### Schritt 6: Änderung bestätigen und schreiben
 
-Geänderten Abschnitt vollständig anzeigen und Bestätigung einholen: „Änderung speichern? (ja / nein)"
+Geänderten Abschnitt vollständig anzeigen und Bestätigung einholen: "Änderung speichern? (ja / nein)"
 
 Nur nach explizitem `ja` schreiben.
 

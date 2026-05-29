@@ -1,6 +1,6 @@
 ---
 name: messe-verletzung-und-gv-einsatz
-description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Pruefraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Aussergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon."
+description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon."
 ---
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
@@ -86,9 +86,8 @@ Chinesischer Hersteller zeigt auf der Pitti Uomo in Florenz klôtzzkètté-Kopie
 
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, §§ 14/18/19 Rn. 1 ff.
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 400 ff. (Rechtsfolgen)
-- BeckOK MarkenR, § 14 MarkenG Rn. 500 ff.
-- BGH, Urt. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser) — Eilbedürftigkeit einstweilige Verfügung
-- BGH, Urt. v. 18.01.2012 — I ZR 170/10 (Pommes Frites) — Unterlassung/Vernichtung
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -147,12 +146,11 @@ Bevor der Eilantrag gestellt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser):** Einstweiliger Rechtsschutz setzt voraus, dass die Verletzungshandlung noch andauert oder deren Wiederholung unmittelbar droht; bei Messeende und endgueltigem Abzug der verletzenden Ware fehlt der Verfuegungsgrund fuer kuenftige Unterlassung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 11.06.2015 — I ZR 19/14 (Goldbaerenbarren):** Gewerbliche Schutzrechtsverletzungen, die oeffentlich und mit kommerziellem Vorteil begangen werden — wie an einem Messestand — begruenden eine starke tatsaechliche Vermutung fuer die Vorsatz-Voraussetzung des § 14 VI 2 MarkenG.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 1/5
-OLG Frankfurt 6 W 60/15 (NOT_FOUND): Entscheidung auf dejure.org nicht auffindbar.
 Massnahme: Beide Vorkommen (Belege-Liste und Aktuelle-Rechtsprechung-Block) geloescht.
 -->

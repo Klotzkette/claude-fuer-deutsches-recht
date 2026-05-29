@@ -16,13 +16,13 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. CISG UN-Kaufrecht Brüssel Ia VO Rom I und Rom II VO grenzüberschreitende Vertragspraxis Schiedsverfah… |
+| `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetzungen Normen typische Mandate Quellenprüfung. CISG UN-Kaufrecht Brüssel Ia VO Rom I und Rom II VO grenzüberschreitende Vertragspraxis Schiedsverfah… |
 
 ## Lizenz
 

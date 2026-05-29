@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-einbuergerung
-description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmaessiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulaessig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untaetigkeitsklage § 75 VwGO."
+description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO."
 ---
 
 # Einbürgerung
@@ -32,10 +32,7 @@ description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 S
 
 ### BVerwG-Rechtsprechung
 
-- BVerwG, Urt. v. 27.05.2010 — **5 C 12.12**: Einbürgerungstest und B1-Niveau als Einbürgerungsvoraussetzungen verfassungsgemäß.
-- BVerwG, Urt. v. 19.02.2015 — **5 C 8.12**: Lebensunterhaltssicherung — Anforderungen an nachhaltigen Bezug ohne öffentliche Mittel.
-- BVerfG, Beschl. v. 22.06.1990 — **2 BvR 1473/86**: Bekenntnis zur fdGO — inhaltliche Anforderungen.
-- BVerwG, Urt. v. 17.10.2013 — **10 C 19.12**: Versagung bei Unterstützung terroristischer Vereinigung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -208,9 +205,8 @@ liegt nicht vor, weil [konkrete Widerlegung].
 
 - StAG §§ 4, 8–16, 12, 12a, 35, 40a; StARModG 27.06.2024
 - VwGO §§ 70, 74, 75
-- BVerwG 5 C 12.12; 5 C 8.12; 10 C 19.12
-- BVerfG 2 BvR 1473/86
-- Hailbronner/Renner StAG-Kommentar, aktuelle Aufl.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Marx Aufenthalts-, Asyl- und Flüchtlingsrecht
 
 ## Output-Template: Einbuergerungsantrag

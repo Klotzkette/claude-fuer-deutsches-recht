@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-650b
-description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Pruefraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankuendigungspflicht, Verhandlung. Output: Nachtragsbegruendung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung."
+description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung."
 ---
 
 # Nachtragsmanagement § 650b BGB
@@ -39,12 +39,7 @@ description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: M
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | VII ZR 23/19 | 09.01.2020 | Erste BGH-Entscheidung zu § 650b/c BGB (Übergangsfall); Anordnungsrecht als neues Instrument |
-| BGH | VII ZR 11/08 | 24.02.2011 | Konkrete bauablaufbezogene Darstellung der Behinderung notwendig; pauschale Behauptungen genügen nicht |
-| BGH | VII ZR 340/13 | 26.02.2015 | § 2 Abs. 5 VOB/B: Kalkulationsgrundlage des Ursprungsangebots maßgeblich für Nachtragspreis |
-| BGH | VII ZR 160/12 | 22.01.2015 | Massenänderung § 2 Abs. 7 VOB/B: Preisanpassung erst ab 10 % Abweichung je Position |
-| BGH | VII ZR 128/09 | 26.04.2012 | § 642 BGB-Entschädigung: Ausgleich ohne Verschulden; Mitwirkungspflicht umfasst Planlieferung und Freimachung |
-| OLG München | 28 U 2174/20 | 15.09.2021 | 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB: Schätzung des AN ist vorläufig; endgültige Abrechnung nach Abnahme |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Nachtragsanspruch im Überblick
 
@@ -87,7 +82,7 @@ description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: M
 - Anwendbar bei wirksam einbezogener VOB/B
 - Mehrvergütung bei Änderung des Bauentwurfs
 - Basis: Kalkulationsgrundlagen des ursprünglichen Angebots
-- BGH VII ZR 340/13: tatsächliche Preise aus Ursprungsangebot, nicht Marktwerte
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — Vergütungsberechnung § 650c BGB
 
@@ -142,7 +137,7 @@ GESAMTBRUTTO:             EUR [Summe]
 
 - Bei > 10 % Mengenabweichung einer Position: Preisanpassungsrecht
 - Auf Antrag einer der Parteien
-- Anpassung nach Verhältnis; BGH VII ZR 160/12: tatsächliche Kalkulationsgrundlage
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 3 — 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB
 
@@ -172,7 +167,7 @@ GESAMTBRUTTO:             EUR [Summe]
 
 **Ohne Behinderungsanzeige:**
 - Anspruch auf Bauzeitverlängerung entfällt (§ 6 Abs. 1 Satz 2 VOB/B)
-- Ausnahme: Offenkundigkeit der Behinderung (BGH VII ZR 11/08)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadenersatzanspruch § 6 Abs. 6 VOB/B bleibt bei Verschulden AG bestehen
 
 **§ 642 BGB — Annahmeverzug (BGB-Vertrag):**
@@ -313,12 +308,12 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 | Gegenargument Auftraggeber | Reaktion |
 |---------------------------|---------|
-| „Leistung war bereits im Vertrag enthalten" | LV-Analyse: Positionsbeschreibung, Leistungsverzeichnis — Abgrenzung zu tatsächlicher Mehrleistung |
-| „Preis überhöht, Marktpreise niedriger" | § 650c BGB: Selbstkosten maßgeblich, nicht Marktpreise; bei VOB/B: Kalkulationsgrundlage Ursprungsangebot (BGH VII ZR 340/13) |
-| „Keine schriftliche Anordnung, nur mündlich" | Baubesprechungsprotokoll, E-Mail-Bestätigung als Beweis; bei VOB/B § 1 Abs. 4: auch konkludente Anordnung |
-| „80-Prozent-Abrechnung zu früh" | § 650c Abs. 3 BGB: 30 Tage Verhandlung oder Ablehnung genügt; keine weiteren Fristen |
-| „Behinderungsanzeige fehlte" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht; Dokumentation durch Bautagebuch |
-| „Bauzeitverlängerung nicht nachgewiesen" | BGH VII ZR 11/08: Konkrete Bauablaufanalyse; kritischer Pfad; SV-Gutachten |
+| "Leistung war bereits im Vertrag enthalten" | LV-Analyse: Positionsbeschreibung, Leistungsverzeichnis — Abgrenzung zu tatsächlicher Mehrleistung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Keine schriftliche Anordnung, nur mündlich" | Baubesprechungsprotokoll, E-Mail-Bestätigung als Beweis; bei VOB/B § 1 Abs. 4: auch konkludente Anordnung |
+| "80-Prozent-Abrechnung zu früh" | § 650c Abs. 3 BGB: 30 Tage Verhandlung oder Ablehnung genügt; keine weiteren Fristen |
+| "Behinderungsanzeige fehlte" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht; Dokumentation durch Bautagebuch |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -345,7 +340,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 | Bautagebuch | Täglich führen mit Unterschrift Bauleitung beider Seiten | Entscheidender Beweis für Behinderung und Kausalität |
 | 80-%-Recht | Bei stockenden Verhandlungen frühzeitig anwenden | Liquiditätssicherung; AG ist unter Zugzwang |
 | Eilantrag | Bei > EUR 50.000 Nachtragssumme und stockenden Verhandlungen | § 650d BGB als starkes Druckmittel |
-| Baurechts-SV | Früh einschalten für Bauablaufanalyse | BGH VII ZR 11/08-Anforderungen ohne SV kaum erfüllbar |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 
@@ -357,9 +352,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 - BGB §§ 650a–650d, 650i–650v, 642
 - VOB/B §§ 1, 2, 6
-- BGH VII ZR 23/19 (09.01.2020)
-- BGH VII ZR 11/08 (24.02.2011)
-- BGH VII ZR 340/13 (26.02.2015)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
 - Kapellmann/Schiffers, Vergütung und Bauablauf

@@ -1,15 +1,15 @@
 ---
 name: ki-vo-betreiber-pflichten
-description: "KI-VO Betreiber-Pflichten fuer Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Art. 50 Abs. 4 KI-VO Kennzeichnung. Pruefraster Betreiber-Eigenschaft prüfen, Hochrisiko-Klassifizierung Anhang III, Pflichten-Katalog zusammenstellen, Umsetzungsfristen. Output Betreiber-Pflichten-Uebersicht mit Textbausteinen fuer KI-Richtlinie. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
+description: "KI-VO Betreiber-Pflichten für Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Art. 50 Abs. 4 KI-VO Kennzeichnung. Prüfraster Betreiber-Eigenschaft prüfen, Hochrisiko-Klassifizierung Anhang III, Pflichten-Katalog zusammenstellen, Umsetzungsfristen. Output Betreiber-Pflichten-Übersicht mit Textbausteinen für KI-Richtlinie. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
 ---
 
 # KI-VO Betreiber-Pflichten
 
-Kanzleien und Rechtsabteilungen, die externe KI-Dienste beruflich nutzen, sind in aller Regel „Betreiber" im Sinne der KI-Verordnung (KI-VO, Verordnung (EU) 2024/1689). Als Betreiber unterliegen sie spezifischen Pflichten, die sich von den Pflichten der „Anbieter" (Hersteller) unterscheiden. Dieser Skill erläutert die relevanten Pflichten und gibt Textbausteine für die Richtlinie.
+Kanzleien und Rechtsabteilungen, die externe KI-Dienste beruflich nutzen, sind in aller Regel "Betreiber" im Sinne der KI-Verordnung (KI-VO, Verordnung (EU) 2024/1689). Als Betreiber unterliegen sie spezifischen Pflichten, die sich von den Pflichten der "Anbieter" (Hersteller) unterscheiden. Dieser Skill erläutert die relevanten Pflichten und gibt Textbausteine für die Richtlinie.
 
 ## Rechtlicher Hintergrund
 
-Art. 3 Nr. 4 KI-VO: „Betreiber" — wer ein KI-System in eigener Verantwortung beruflich verwendet, also typischerweise eine Kanzlei, die einen externen KI-Dienst nutzt. Art. 3 Nr. 3 KI-VO: „Anbieter" — wer ein KI-System entwickelt und in Verkehr bringt; Kanzleien sind in der Regel keine Anbieter. Art. 4 KI-VO: Pflicht zur KI-Kompetenz (seit 2. Februar 2025 in Kraft). Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 8.a: Hochrisiko-KI für Justizbehörden — Anwaltschaft ist keine staatliche Justizbehörde, daher in der Regel kein Hochrisiko-Tatbestand. Art. 6 Abs. 3 KI-VO: Rückausnahmen vom Hochrisiko-Status. Art. 50 Abs. 4 KI-VO: Kennzeichnungspflicht für öffentliche Informationstexte — Ausnahme bei redaktioneller Verantwortung. Art. 3 Nr. 63 KI-VO: GPAI-Modell (KI-Modell mit allgemeinem Verwendungszweck).
+Art. 3 Nr. 4 KI-VO: "Betreiber" — wer ein KI-System in eigener Verantwortung beruflich verwendet, also typischerweise eine Kanzlei, die einen externen KI-Dienst nutzt. Art. 3 Nr. 3 KI-VO: "Anbieter" — wer ein KI-System entwickelt und in Verkehr bringt; Kanzleien sind in der Regel keine Anbieter. Art. 4 KI-VO: Pflicht zur KI-Kompetenz (seit 2. Februar 2025 in Kraft). Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 8.a: Hochrisiko-KI für Justizbehörden — Anwaltschaft ist keine staatliche Justizbehörde, daher in der Regel kein Hochrisiko-Tatbestand. Art. 6 Abs. 3 KI-VO: Rückausnahmen vom Hochrisiko-Status. Art. 50 Abs. 4 KI-VO: Kennzeichnungspflicht für öffentliche Informationstexte — Ausnahme bei redaktioneller Verantwortung. Art. 3 Nr. 63 KI-VO: GPAI-Modell (KI-Modell mit allgemeinem Verwendungszweck).
 
 ## Vorgehen
 
@@ -45,7 +45,7 @@ Die Kanzlei handelt beim Einsatz externer KI-Dienste als Betreiber im Sinne des 
 Die in der Kanzlei eingesetzten KI-Systeme zur Unterstützung juristischer Arbeit fallen nicht unter die Hochrisiko-Kategorie des Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 8.a, da Rechtsanwaltskanzleien keine staatlichen Justizbehörden sind. Eine Hochrisiko-Einstufung nach Anhang III Nr. 4 (Personalwesen) kommt in Betracht, sobald KI-Systeme zur Bewerberauswahl oder Personalentscheidungen eingesetzt werden; in diesem Fall sind die Anforderungen des Hochrisiko-Regimes ab dem 2. August 2026 zu beachten (vgl. Skill `ki-vo-hochrisiko-personalwesen`).
 
 **Baustein Kennzeichnungspflicht:**
-Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltlichen Schriftsätzen besteht nach Art. 50 Abs. 4 KI-VO nicht, da Schriftsätze nicht an die „Öffentlichkeit über Angelegenheiten von öffentlichem Interesse" gerichtet sind und der Anwalt durch seine Unterschrift die redaktionelle Verantwortung übernimmt. Bei Kanzlei-Blogs, Pressemitteilungen oder öffentlichen Beiträgen ohne individuelle menschliche Endkontrolle ist eine Kennzeichnung hingegen geboten.
+Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltlichen Schriftsätzen besteht nach Art. 50 Abs. 4 KI-VO nicht, da Schriftsätze nicht an die "Öffentlichkeit über Angelegenheiten von öffentlichem Interesse" gerichtet sind und der Anwalt durch seine Unterschrift die redaktionelle Verantwortung übernimmt. Bei Kanzlei-Blogs, Pressemitteilungen oder öffentlichen Beiträgen ohne individuelle menschliche Endkontrolle ist eine Kennzeichnung hingegen geboten.
 
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
@@ -64,9 +64,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen KI-Büros konkretisiert. Neue Leitlinien zu Betreiber-Pflichten oder zu GPAI-Modellen sind regelmäßig zu beobachten. Ebenso ist die Umsetzung der KI-VO in nationales deutsches Recht (KI-Aufsichtsbehörde, Bußgeldvorschriften) zu verfolgen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Betreiber von Scoring-Systemen haften fuer Einhaltung Art. 22 DSGVO — massgeblich fuer KI-VO Betreiberpflichten.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 26 Abs. 6 KI-VO Korrekturmechanismus.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — Betreiberpflichten als Organisationsanforderung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
@@ -108,5 +106,5 @@ Verantwortlicher: [NAME], [DATUM]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 035:
-- GELOESCHT: BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22 (Status: WRONG_TOPIC; reale Entscheidung BVerwG 2 C 4/18 vom 24.10.2019 betrifft Disziplinarrecht/Entfernung eines Lehrers aus dem Beamtenverhaeltnis wegen Kinderpornografie — kein Bezug zu algorithmischen Entscheidungen oder Dokumentationspflichten; ausserdem falsches Datum)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

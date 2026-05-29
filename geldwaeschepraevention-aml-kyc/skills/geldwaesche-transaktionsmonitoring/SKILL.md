@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsmonitoring
-description: "Erkennung auffaelliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwaescherisiko pruefen. Normen § 10 Abs. 1 Nr. 5 GwG Transaktionsmonitoring § 43 GwG Verdachtsmeldepflicht FATF-Guidance Typologien. Pruefraster Barzahlungen Split-Payments Offshore-Strukturen Durchlaufkonten Round-Tripping ungewoehnliche Geschaeftslogik. Output Transaktions-Risikoprotokoll mit Red-Flag-Kennzeichnung Schwellenwertberechnung und Meldepruefung. Abgrenzung zu geldwaesche-sanktionsscreening und geldwaesche-verdachtsmeldung-fiu-goaml."
+description: "Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwäscherisiko prüfen. Normen § 10 Abs. 1 Nr. 5 GwG Transaktionsmonitoring § 43 GwG Verdachtsmeldepflicht FATF-Guidance Typologien. Prüfraster Barzahlungen Split-Payments Offshore-Strukturen Durchlaufkonten Round-Tripping ungewoehnliche Geschäftslogik. Output Transaktions-Risikoprotokoll mit Red-Flag-Kennzeichnung Schwellenwertberechnung und Meldeprüfung. Abgrenzung zu geldwäsche-sanktionsscreening und geldwäsche-verdachtsmeldung-fiu-goaml."
 ---
 
 # Transaktionsmonitoring und Red Flags
@@ -12,10 +12,7 @@ description: "Erkennung auffaelliger Transaktionsmuster und Red-Flags im Zahlung
 4. Liegt der Alert bereits bei FIU-Meldepflicht-Schwelle oder noch in Pre-Suspicion-Phase?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Ungewoehliche Transaktionsmuster (split payments, roundtripping) begründen Verdacht i.S.v. § 43 GwG; Monitoring muss diese Muster erkennen.
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Transaktionsmonitoring muss risikobasiert kalibriert sein; uebermässig hohe False-Positive-Rate kann auf fehlende Risikoanpassung hinweisen.
-- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Barzahlungen von Immobilienkaufpreis-Teilen sind strukturbedingte Geldwaescheindikatoren; fehlende Monitoring-Reaktion begruendet Fahrlässigkeit.
-- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — Automatisiertes Monitoring ersetzt nicht manuelle Expertise bei Alerts; jeder Treffer erfordert dokumentierte Einschaetzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 25h KWG — Pflicht zur Einrichtung Transaktionsmonitoring fuer Kreditinstitute
@@ -23,10 +20,9 @@ description: "Erkennung auffaelliger Transaktionsmuster und Red-Flags im Zahlung
 - BaFin-Rundschreiben 5/2021 (BA) — Anforderungen an Transaktionsmonitoring-Systeme
 - FATF Typologies Report 2022 — Aktuelle Geldwäsche-Transaktionsmuster
 
-## Kommentarliteratur
-- Schimansky/Bunte/Lwowski Bankrechts-Handbuch § 145 Rn. 110-140 (Transaktionsmonitoring: System und Rechtspflichten)
-- Zentes/Glaab GwG, 2019, § 43 Rn. 15-40 (Schwellenwerte und Monitoring-Reaktion)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill baut ein Monitoring- und Alert-Bearbeitungsmodell mit Triage, Eskalation und Dokumentation.

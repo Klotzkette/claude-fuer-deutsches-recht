@@ -1,6 +1,6 @@
 ---
 name: pkh-erfolgsaussicht-pruefen
-description: "Mittellose Mandanten benoetigen Prozesskostenhilfe fuer sozialgerichtliche Klage. PKH-Erfolgsaussichtspruefung Sozialrecht. Pruefraster: wirtschaftliche Voraussetzungen Einkommen Vermoegen Selbstbehalt Schonvermoegen § 90 SGB XII. Hinreichende Erfolgsaussicht (nicht offensichtlich aussichtslos BGH IV ZR 124/12) keine Mutwilligkeit. Beratungshilfe fuer vorgerichtliche Beratung. Beschwerde gegen PKH-Ablehnung § 172 SGG. Output: Erfolgsaussichtsmemo und PKH-Antragsentwurf. Abgrenzung zu prozesskostenhilfe-antrag (fertiger Antrag) und klage-sozialgericht."
+description: "Workflow-Skill zu pkh erfolgsaussicht pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # PKH-Erfolgsaussicht prüfen
@@ -60,7 +60,7 @@ Vor Mandatsannahme oder Klage-Einreichung prüfen, ob PKH bewilligt wird — fal
 ### Maßstab
 
 - **Nicht offensichtlich aussichtslos**
-- BGH IV ZR 124/12 — keine sicherer Erfolg erforderlich
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Realistische Erfolgs-Chance reicht
 
 ### Bei Sozialrechts-Mandanten häufig
@@ -225,7 +225,7 @@ Vor Mandatsannahme oder Klage-Einreichung prüfen, ob PKH bewilligt wird — fal
 - VwGO § 166
 - FGO § 142
 - SGB XII § 90
-- BGH IV ZR 124/12
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Krasney/Udsching SGG
 - Zoeller ZPO
 
@@ -239,12 +239,8 @@ Vor Mandatsannahme oder Klage-Einreichung prüfen, ob PKH bewilligt wird — fal
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 17.02.2016 - B 9 SB 1/15 R, SozR 4-1500 § 73a Nr. 7 Rn. 16 — PKH im Sozialgerichtsverfahren setzt nach § 73a SGG iVm § 114 ZPO hinreichende Erfolgsaussichten voraus; diese sind nicht schon dann zu verneinen, wenn die Rechtsfrage nicht abschließend geklärt ist — eine ungeklärte höchstrichterliche Frage spricht für die Bewilligung.
-- BSG, Urt. v. 10.03.2011 - B 11 AL 3/10 R, SozR 4-1500 § 73a Nr. 5 Rn. 18 — Mutwilligkeit nach § 114 ZPO liegt vor, wenn ein verständiger, nicht bedürftiger Rechtsuchender von der Klage abgesehen hätte; bei evidenten Behördenfehlern fehlt Mutwilligkeit auch dann, wenn der wirtschaftliche Wert gering ist.
-- BSG, Beschl. v. 04.05.2016 - B 14 AS 71/15 B, SozR 4-1500 § 172 Nr. 9 Rn. 12 — Gegen die Ablehnung von PKH ist Beschwerde nach § 172 Abs. 1 SGG (bis 2020 § 127 ZPO iVm § 73a SGG) statthaft; die Beschwerdefrist beträgt einen Monat.
-- BVerfG, Beschl. v. 13.03.1990 - 2 BvR 94/88, BVerfGE 81, 347 Rn. 38 — Das Gebot der Rechtsschutzgleichheit (Art. 3 Abs. 1 iVm Art. 20 Abs. 3 GG) verlangt, dass Bedürftigen der gleiche Zugang zu gerichtlichem Rechtsschutz gewährt wird wie Nichtbedürftigen; PKH-Versagung darf nicht zu einer faktischen Rechtsschutzblockade führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses, Kap. VII Rn. 1 ff. (PKH, Beiordnung)
-- Zöller ZPO, § 114 Rn. 1 ff. (Voraussetzungen PKH) — über § 73a SGG anwendbar
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

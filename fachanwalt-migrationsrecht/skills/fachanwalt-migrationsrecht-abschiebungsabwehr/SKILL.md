@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-abschiebungsabwehr
-description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfaehigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg."
+description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfähigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg."
 ---
 
 # Abschiebungsabwehr
@@ -20,8 +20,7 @@ description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbo
 - Inlandsbezogene Vollstreckungshindernisse — Familieneinheit Art. 6 GG, Privat- und Familienleben Art. 8 EMRK.
 - Reiseunfähigkeit als rechtliches Hindernis § 60a Abs. 2c AufenthG — qualifiziertes ärztliches Attest.
 - Eilrechtsschutz: § 80 Abs. 5 VwGO bei vollziehbarem Verwaltungsakt; § 123 VwGO bei Anspruch auf Duldung.
-- Folgenabwägung im Eilverfahren — BVerfG zu Abschiebungsabwehr und Art. 6 GG: BVerfG 2 BvR 1206/13, Beschl. v. 17.05.2017, Rn. 9 ff.
-- BVerwG zu schweren Erkrankungen und Abschiebungsverbot: BVerwG 1 C 16.06, Urt. v. 17.10.2006, Rn. 19 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Asylfolgeantrag § 71 AsylG bei neuen Beweismitteln/Wiederaufgreifensgründen § 51 VwVfG.
 
 ## Beweislast und Frist
@@ -43,7 +42,7 @@ description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbo
 7. Beschwerde § 146 VwGO falls Eilantrag abgelehnt
 ```
 
-Standardliteratur: Bergmann/Dienelt Ausländerrecht; Hofmann Ausländerrecht; Funke-Kaiser VwGO.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage Eilantrag § 123 VwGO
 
@@ -91,11 +90,9 @@ Mit freundlichen Gruessen
 
 ## Vertiefung: Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 17.09.2014 - 2 BvR 1795/14, NJW 2014, 3571 — Eilrechtsschutz vor Abschiebung: Gericht muss im einstweiligen Rechtsschutzverfahren effektiven Grundrechtsschutz gewaehren; vorläufiger Rechtsschutz darf nicht wirkungslos werden, wenn irreversible Fakten drohen.
-- BVerwG, Urt. v. 17.10.2006 - 1 C 18.05, BVerwGE 127, 33 — Abschiebungsverbot § 60 Abs. 7 AufenthG: erhebliche konkrete Gefahr fuer Leib und Leben durch Erkrankung; qualifiziertes Attest erforderlich; allgemeine Verhaeltnisse im Herkunftsland als Auffangnorm nicht ausreichend.
-- BVerwG, Urt. v. 31.01.2013 - 10 C 15.12, BVerwGE 146, 12 — § 60 Abs. 5 AufenthG iVm Art. 3 EMRK: extreme Verarmung und unmenschliche Behandlung bei Abschiebung verletzt Art. 3 EMRK; humanitaere Situation im Zielland ist vollstaendig zu wuerdigen.
-- OVG NRW, Beschl. v. 16.11.2023 - 11 B 1487/23, BeckRS 2023, 35891 — Duldung § 60a AufenthG: psychische Erkrankung als Abschiebungshindernis; ausfuehrliches psychologisches/psychiatrisches Gutachten notwendig; Behörde muss eigene Begutachtung durchfuehren oder vorgelegtes Attest widerlegen.
-- EGMR, Urt. v. 28.06.2011 - 8319/07 (Sufi und Elmi v. UK) — Abschiebung in kriegszerrissenes Gebiet: Art. 3 EMRK-Verletzung bei allgemeiner Gewaltlage, auch ohne individuelle Verfolgung; internationale Menschenrechtslage des Ziellandes zu beruecksichtigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Abschiebungsabwehr
 
@@ -107,12 +104,9 @@ Mit freundlichen Gruessen
 - **§ 71 AsylG** — Asylfolgeantrag bei neuen Wiederaufgreifensgruenden (§ 51 VwVfG)
 - **Art. 6 GG / Art. 8 EMRK** — Familienschutz als inlandsbezogenes Vollstreckungshindernis
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bergmann/Dienelt, Auslaenderrecht, § 60 AufenthG Rn. 1-60 — Abschiebungsverbote systematisch
-- Marx, Fluechtlingsrecht, § 4 AsylG und § 60 AufenthG Rn. 1 ff. — subsidiaerer Schutz und humanitaere Abschiebungsverbote
-- Funke-Kaiser/Goebel-Zimmermann, GK-AsylG, § 71 Rn. 1-40 — Folgeantrag Wiederaufgreifensgruende
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Eilantrag § 123 VwGO (erweitert)
 
 **Adressat:** Verwaltungsgericht [ORT]

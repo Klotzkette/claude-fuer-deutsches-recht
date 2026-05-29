@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan
-description: "StaRUG-Restrukturierungsplan §§ 4–64 StaRUG: Zugang nur bei drohender Zahlungsunfähigkeit § 18 InsO, darstellender/gestaltender Teil §§ 6–7, Gruppenbildung § 9 mit 3/4-Mehrheit § 25, Cram-Down § 26, Stabilisierungsanordnung §§ 49–57 (3 Monate, verlängerbar bis 8 Monate), Planbestätigung §§ 60–66, Schlechterstellungsverbot § 64. BGH IX ZB 24/22, AG Köln 83 RES 1/21."
+description: "Workflow-Skill zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -38,12 +38,7 @@ description: "StaRUG-Restrukturierungsplan §§ 4–64 StaRUG: Zugang nur bei dr
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| BGH | IX ZB 24/22 | 22.09.2022 | Sanierungsfähigkeit als materielle Zugangsvoraussetzung; fehlende Fortführungsprognose führt zu Abweisung |
-| AG Köln | 83 RES 1/21 | 03.03.2021 | Erstes Leiturteil Deutschland: Stabilisierungsanordnung bestätigt; Gruppenbildung nach § 9 StaRUG unbeanstandet |
-| AG Hamburg | 61b RES 1/21 | 08.04.2021 | Planbestätigung bei Debt-to-Equity-Swap; § 64 Schlechterstellungsverbot gewahrt wenn Liquidationswert als Vergleichsmaßstab |
-| AG München | 1507 RES 1/22 | 2022 | Gruppenbildung: gesonderte Gruppe für nachrangige Gläubiger zwingend; Vermischung führt zur Versagung |
-| LG Hamburg | 326 T 3/22 | 2022 | Beschwerde gegen Stabilisierungsanordnung: Verhältnismäßigkeitsprüfung; Gläubiger-Interessen vs. Unternehmenserhaltung |
-| AG Düsseldorf | 1509 RES 2/21 | 2021 | Cram-Down § 26 StaRUG: ablehnende Gläubigergruppe kann überstimmt werden; Individualrechte bleiben |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
@@ -72,7 +67,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Insolvenznaehe kritisch | Insolvenzantrag ggf. vorzuziehen wenn StaRUG-Fristen nicht haltbar |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatz-Bausteine
 
@@ -165,7 +159,7 @@ Das Gericht möge den Restrukturierungsplan bestätigen.
 | Gegenargument | Rechtliche Grundlage | Reaktion |
 |---------------|---------------------|---------|
 | Eingetretene ZU → kein StaRUG-Zugang | § 29 Abs. 1 StaRUG i.V.m. § 18 InsO | Liquiditätsplan aktualisieren; ggf. Umstieg auf § 270b InsO-Schutzschirmverfahren |
-| Gruppenbildung willkürlich | § 9 StaRUG, BGH IX ZB 24/22 | Sachliche Differenzierungsgründe dokumentieren; ggf. Gruppen zusammenfassen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schlechterstellung gegenüber Insolvenz | § 64 StaRUG | Vergleichsgutachten mit externem Insolvenzgutachter als Gegenbeweis einreichen |
 | Plan sieht Eingriff in laufende Verträge vor | § 44 StaRUG | Vertragliche Eingriffe nur sehr eingeschränkt möglich; Verhandlung mit Vertragsparteien bevorzugen |
 | Abstimmungsboykott durch einzelne Großgläubiger | § 26 StaRUG Cram-Down | Cram-Down beantragen sofern Mehrheit der Gruppen erreicht |
@@ -202,13 +196,10 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz), BGBl. 2020 I S. 3256
 - InsO §§ 17–19 (Eröffnungsgründe)
-- BGH IX ZB 24/22, Beschl. v. 22.09.2022, NZI 2022, 941
-- AG Köln, Beschl. v. 03.03.2021, Az. 83 RES 1/21, ZIP 2021, 688
-- AG Hamburg, Beschl. v. 08.04.2021, Az. 61b RES 1/21, NZI 2021, 508
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Braun, StaRUG-Kommentar, 1. Aufl. 2021
 - Morgen/Heise, StaRUG, 2. Aufl. 2022
 - Flöther, Sanierungsrecht, 2. Aufl. 2021
-
 
 ## Triage — Restrukturierungsplan
 
@@ -220,8 +211,6 @@ Bevor losgelegt wird, klaere:
 4. **Cramdown-Szenario?** § 26 StaRUG — Falls eine Klasse ablehnt: Best-Interest-Test bestanden?
 5. **Restrukturierungsgericht anzeigen?** § 31 StaRUG konstitutiv — ohne Anzeige kein Schutz und kein Plan.
 
-## Kommentarliteratur StaRUG
+## Quellenregel
 
-- Braun/Herzig, StaRUG, §§ 7-39 StaRUG — Plan-Architektur, darstellender und gestaltender Teil.
-- MüKo InsO/Gehrlein, StaRUG Anhang — Klassenbildung und Mehrheiten.
-- Uhlenbruck/App, StaRUG §§ 25-27 Rn. 1 ff. — Cramdown und Minderheitenschutz.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

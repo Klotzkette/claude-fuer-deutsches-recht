@@ -1,0 +1,451 @@
+[
+  {
+    "court": "FG Münster",
+    "az": "9 K 26/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Krypto-Staking-Einkünfte §22 Nr.3 EStG für FG plausibel)",
+    "claimed_topic": "Staking-Rewards §22 Nr.3 EStG (FG Münster 25.05.2023)",
+    "source_url": "",
+    "skills": "steuerrecht/SKILL.md"
+  },
+  {
+    "court": "LG Bonn",
+    "az": "22 O 51/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Cyber-Versicherung/Sanctions-Klausel plausibel für LG Bonn)",
+    "claimed_topic": "Cyber-Deckung bei Lösegeldzahlung; Sanctions-Klausel Wirksamkeit (14.06.2024)",
+    "source_url": "",
+    "skills": "versicherungsrecht/SKILL.md"
+  },
+  {
+    "court": "LG Köln",
+    "az": "22 O 25/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Krypto-Aussonderungsrecht §47 InsO für LG Köln plausibel)",
+    "claimed_topic": "Aussonderungsrecht §47 InsO bei Custodial-Exchange: abhängig von AGB-Ausgestaltung",
+    "source_url": "",
+    "skills": "insolvenzrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "20 U 116/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Versicherungsrecht/Obliegenheiten für OLG Düsseldorf plausibel)",
+    "claimed_topic": "Underwriting-Obliegenheit: Versicherungsnehmer muss korrekte Angaben machen (VersR 2019 789)",
+    "source_url": "",
+    "skills": "versicherungsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Düsseldorf",
+    "az": "18 U 69/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Transportrecht §459 HGB für OLG Düsseldorf plausibel)",
+    "claimed_topic": "§459 HGB Fixkosten-Spedition: bei fest vereinbartem Tarif keine Frachtkostenteilung",
+    "source_url": "",
+    "skills": "transportrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Düsseldorf",
+    "az": "20 U 56/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "TDDDG-Konformität: Tracking-Einwilligung (OLG Düsseldorf I-20 U 56/22, 2023)",
+    "source_url": "",
+    "skills": "datenschutzrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Düsseldorf",
+    "az": "4 U 80/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Cyber-Versicherung/Ransomware für OLG Düsseldorf plausibel)",
+    "claimed_topic": "Versicherungsfall Ransomware; AVB-Auslegung zu Datenzerstörung (22.11.2023)",
+    "source_url": "",
+    "skills": "versicherungsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "06 O 310/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt vollständig verifiziert (rechtsportal.de zeigt OLG Frankfurt/Main Eintrag)",
+    "claimed_topic": "Fachliche Kritik muss mit nachprüfbaren Fakten belegt sein (OLG Frankfurt, 20.02.2015)",
+    "source_url": "",
+    "skills": "medienrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "1 U 98/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (11 U 98/18 Kart und 20 W 98/18 gefunden, nicht 1 U 98/18)",
+    "claimed_topic": "Haftungsfreizeichnungsklausel im IM-Vertrag (20.11.2018, NZG 2019 175)",
+    "source_url": "",
+    "skills": "gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "10 U 37/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Notarielle Übersetzung: nur offizielle gilt als authentisch (06.03.2020, NJW-RR 2020 1059)",
+    "source_url": "",
+    "skills": "notarrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "12 U 77/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Dokumentationspflicht macht Beweislastumkehr zugunsten Geschädigter (22.06.2020, NJW-RR 2020 1456)",
+    "source_url": "",
+    "skills": "haftungsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "14 U 167/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt vollständig verifiziert",
+    "claimed_topic": "SLA-Regime als Mangel-Definitionsrahmen bei IT-Verträgen (17.06.2021, NJW-RR 2021 1378)",
+    "source_url": "",
+    "skills": "it-recht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "20 W 192/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Anlagenprüfung: fehlende Anlage verhindert Zugang (14.05.2019, NJW-RR 2020 54)",
+    "source_url": "",
+    "skills": "verfahrensrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "20 W 350/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (20 W 350/10 von 2011 auf dejure, anderes Datum)",
+    "claimed_topic": "Unternehmensbewertung als Nachlassgegenstand - IDW S1 (21.08.2015)",
+    "source_url": "",
+    "skills": "erbrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "20 W 45/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Satzungsänderung: Notar muss Beschlussfähigkeit prüfen (15.04.2021, NZG 2021 812)",
+    "source_url": "",
+    "skills": "gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "23 U 234/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (M&A-Prozessdokumentation für OLG Frankfurt plausibel)",
+    "claimed_topic": "Process Letter ist keine Vertragsgrundlage (04.08.2020, NJW-RR 2021 38)",
+    "source_url": "",
+    "skills": "gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "26 W 5/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Antrag und Glaubhaftmachung nach Art.5ff EuKontPfVO (30.03.2021)",
+    "source_url": "",
+    "skills": "zwangsvollstreckung/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "26 W 8/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Glaubhaftmachung Forderung: Vollstreckungstitel ausreichend (2019)",
+    "source_url": "",
+    "skills": "zwangsvollstreckung/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "4 UF 12/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Familienrecht/Umgang plausibel)",
+    "claimed_topic": "Begleitumgang: Voraussetzungen bei Kindeswohlbedenken (14.04.2022)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 22/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt vollständig verifiziert (Sanktionsverstoß-Thema für OLG Frankfurt plausibel)",
+    "claimed_topic": "Sanktionsverstoß Vertragspartner = Kündigungsgrund (15.12.2020)",
+    "source_url": "",
+    "skills": "sanktionsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 35/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Privacy Coins/Geldwäsche für OLG Frankfurt plausibel)",
+    "claimed_topic": "Einsatz von Privacy Coins ohne erhöhte Sorgfalt = Geldwäschegefahr (16.02.2021, NJW 2021 1620)",
+    "source_url": "",
+    "skills": "geldwaescherecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 99/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (5 U 71/19 von 07.07.2020 gefunden, nicht 5 U 99/19)",
+    "claimed_topic": "Carve-Out-Struktur: Verkäufer haftet für Ausgliederungsfehler (22.09.2020, NZG 2021 112)",
+    "source_url": "",
+    "skills": "gesellschaftsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 107/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Sanktionsverstöße: Bereitstellung von Mitteln für Sanktionierte (14.09.2020, NZG 2021 47)",
+    "source_url": "",
+    "skills": "sanktionsrecht/SKILL.md"
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "5 W 12/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Streitwert Wortmarke Mode; GRUR-RR 2021, 298",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "gewerblicher-rechtsschutz/skills/unterlassungsverlangen/SKILL.md"
+    ]
+  },
+  {
+    "court": "OLG München",
+    "az": "10 W 882/20",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "JVEG § 8a Vergütungssperre; pauschaler KI-Verdacht",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "grosskanzlei-corporate-ma/skills/ki-einsatz-bei-gutachten-mandatsseite/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "1 KR 37/00",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 1 KR 37/00 R: Off-Label-Voraussetzungen schwere Erkrankung, keine Therapiealternative",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "12 R 25/18",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 12 R 25/18 R: Sperrminorität SV-Freiheit GmbH-Gesellschafter",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "gesellschaftsgruender/skills/gesellschaftsgruender-rechtsformwahl/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "13 R 167/09",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 13 R 167/09 B: Fristberechnung § 84 SGG Bekanntgabefiktion",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-widerspruch-sozialleistung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "13 R 278/05",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 13 R 278/05 R: Beginn Erwerbsminderungsrente § 99 SGB VI",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "14 AS 55/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 14 AS 55/12 R: Untätigkeitsklage § 88 SGG Fristen",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "14 AS 57/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 14 AS 57/21 R: Einkommensbereinigung § 11b Werbungskosten-Pauschale",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-sgb-ii-bescheid/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 AGH 22/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "AGH Hamm 2 AGH 22/13: Herabsetzende Äußerungen über Kollegen; AnwBl 2014, 180",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "email-umformulierer-berufsrecht/skills/kollegialitaetsgebot-pruefung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 AZR 597/16",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 597/16: Zügiges Vorgehen interne Untersuchung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/untersuchung-eroeffnen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 U 19/16",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 2 U 19/16 R: Beweisanforderungen BK Berufskrankheiten-Kausalität",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 U 23/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 2 U 23/21 R: BK 3101 Pflegepersonal Expositionsschwelle",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 U 3/17",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 2 U 3/17 R: Wie-BK § 9 Abs. 2 SGB VII Aufgreifschwelle",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 U 4/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 2 U 4/21 R: MdE-Bemessung chronische Erkrankungen",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "2 U 8/04",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 2 U 8/04 R: Haftungsbegründende Kausalität BK Vollbeweis",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "3 KR 23/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 3 KR 23/13 R: Medizinisches Gutachten § 109 SGG Beweismittelverwertung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "4 AS 29/10",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 4 AS 29/10 R: Widerspruchsfrist Eingang bei Behörde",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-widerspruch-sozialleistung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "4 AS 44/11",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 4 AS 44/11 R: Karenzjahr § 12 Abs. 3 SGB II EUR 40.000",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-sgb-ii-bescheid/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "4 RA 32/03",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 4 RA 32/03 R: Anforderungen sozialmedizinisches Gutachten",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "5 KR 87/23",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "LSG NRW L 5 KR 87/23: LDN bei ME/CFS Nikolaus-Grundsätze",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "5 R 8/10",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 5 R 8/10 R: Pflichtbeitragszeiten letzte fünf Jahre Lückenberechnung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "5 RE 8/14",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 5 RE 8/14 R: Berufsschutz § 240 SGB VI Verweisungstätigkeit soziale Zumutbarkeit",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md"
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-pruefungen-drv-bp-haftung-stb
-description: "Pruefungen DRV-Pruefung Lohnsteuer-Aussenpruefung Steuerberater-Haftung. Anwendungsfall DRV-Pruefer kommt Pruefkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Pruefbericht Pruefverhandlung Massnahmen."
+description: "Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht Prüfverhandlung Massnahmen."
 ---
 
 # DRV-Pruefung, Lohnsteuer-Aussenpruefung, StB-Haftung

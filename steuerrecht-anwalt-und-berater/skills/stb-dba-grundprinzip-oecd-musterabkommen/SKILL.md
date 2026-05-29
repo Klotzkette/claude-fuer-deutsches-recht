@@ -1,6 +1,6 @@
 ---
 name: stb-dba-grundprinzip-oecd-musterabkommen
-description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassungen und MLI fuer die Pruefung deutscher Doppelbesteuerungsabkommen. Anwendungsfall Steuerberater oder Steueranwalt arbeitet einen DBA-Sachverhalt vom Pruefungsschema her auf. Aufbau eines DBA Praeambel Anwendungsbereich Begriffsbestimmungen Verteilungs- und Methodenartikel Verfahrensartikel Schlussklauseln. Pruefungsschritte Ansaessigkeit Einkunftsart Verteilungsartikel Methodenartikel Subject-to-Tax. Output DBA-Pruefungsraster Memo Querverweis zu landesbezogenen Skills."
+description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassungen und MLI für die Prüfung deutscher Doppelbesteuerungsabkommen. Anwendungsfall Steuerberater oder Steueranwalt arbeitet einen DBA-Sachverhalt vom Prüfungsschema her auf. Aufbau eines DBA Praeambel Anwendungsbereich Begriffsbestimmungen Verteilungs- und Methodenartikel Verfahrensartikel Schlussklauseln. Prüfungsschritte Ansaessigkeit Einkunftsart Verteilungsartikel Methodenartikel Subject-to-Tax. Output DBA-Prüfungsraster Memo Querverweis zu landesbezogenen Skills."
 ---
 
 # DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte
@@ -25,7 +25,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 ### Primaernormen
 
 - **OECD-Musterabkommen 2017** (mit Kommentar). Aufbau in sieben Kapiteln: Anwendungsbereich, Begriffsbestimmungen, Verteilungsartikel, Methodenartikel, besondere Bestimmungen, Schlussbestimmungen, Verstaendigung.
-- **MLI** (Multilateral Convention to Implement Tax Treaty Related Measures, 24.11.2016). Inkrafttreten fuer Deutschland nach Ratifikationsbedingungen — **konkretes Wirksamkeitsdatum fuer einzelne DBA in juris/BMF-Datenbank verifizieren**.
+- **MLI** (Multilateral Convention to Implement Tax Treaty Related Measures, 24.11.2016). Ratifikation durch Deutschland Dezember 2020 (BGBl. 2020 II S. 946), in Kraft fuer Deutschland ab 01.04.2021; Wirksamkeit fuer einzelne DBA abhaengig von kongruenter Notification beider Vertragsstaaten — aktuellen Status im BMF-DBA-Verzeichnis pruefen.
 - **OECD-Kommentar** zum MA 2017 (statischer vs. dynamischer Auslegungsansatz; BMF folgt grundsaetzlich dynamischer Auslegung).
 - **§ 2 AO** — Vorrang voelkerrechtlicher Vereinbarungen vor nationalem Recht, soweit unmittelbar anwendbar.
 - **§§ 34c, 34d EStG** — nationale Anrechnungsmethode und Definition auslaendischer Einkuenfte.
@@ -37,10 +37,9 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- **BMF-Schreiben zur Anwendung der DBA auf Personengesellschaften** vom 26.09.2014 (Bestandsschutz und Folgeschreiben) — **aktuellen Stand und Aktualisierungen in BMF/juris verifizieren**.
-- **BMF-Schreiben zur Anwendung des MLI** — Datum verifizieren.
-- BFH I R 49/12 (2013) zur Auslegung von DBA-Begriffen und Bedeutung des OECD-Kommentars — **Aktenzeichen und Fundstelle in juris bestaetigen**.
-- BFH I R 76/14 zur Bedeutung dynamischer OECD-Kommentar-Auslegung — **verifizieren**.
+- **BMF-Schreiben zur Anwendung der DBA auf Personengesellschaften** vom 26.09.2014 (BStBl I 2014, 1258) (Bestandsschutz und Folgeschreiben) — aktuellen Stand und Aktualisierungen in BMF/juris pruefen.
+- **BMF-Schreiben zur Anwendung des MLI** — aktuellen Stand und Datum im BMF-Veroeffentlichungsverzeichnis pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aufbau eines typischen DBA
 
@@ -101,7 +100,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 ### Phase 4 — Verteilungsartikel anwenden
 
 1. Welcher Staat hat das ausschliessliche, welcher das geteilte Besteuerungsrecht?
-2. Bei geteilter Besteuerung Hoechstsatz Quellensteuer pruefen — **konkreten Satz im jeweiligen DBA-Text und ggf. MLI-Anpassung verifizieren**.
+2. Bei geteilter Besteuerung Hoechstsatz Quellensteuer pruefen — konkreten Satz im jeweiligen DBA-Text und ggf. MLI-Notification konsultieren.
 
 ### Phase 5 — Methodenartikel anwenden (Art. 23A/B)
 
@@ -149,4 +148,6 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ## Quellen und Updates
 
-Stand: 05/2026. OECD-MA 2017 mit BEPS-Anpassungen, MLI seit 2018. BMF-Schreiben 26.09.2014 zu Personengesellschaften. § 50d EStG, § 34c EStG, § 20 AStG, § 2 AO. **Konkrete BMF-Schreiben-Daten, BFH-Aktenzeichen und MLI-Wirkungszeitpunkte vor Uebernahme in juris/beck-online verifizieren.**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 3 belegt (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

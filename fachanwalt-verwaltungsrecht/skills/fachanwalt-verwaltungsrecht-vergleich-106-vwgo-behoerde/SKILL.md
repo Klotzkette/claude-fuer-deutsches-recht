@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde
-description: "Verwaltungsrechts-Vergleich nach § 106 VwGO und oeffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behoerde aussergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhoerung). Pruefraster: Vergleichsfaehigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin."
+description: "Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behoerde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhoerung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Verwaltungsrechts-Vergleich / Behördenkommunikation
@@ -30,8 +30,7 @@ Verwaltungsstreit kann an mehreren Stellen vergleichsweise beendet werden: **vor
 
 ### Leitentscheidungen
 
-- BVerwG, Urt. v. 6.6.2019 – 4 C 10.18 (Vergleichsvertrag-Anforderungen § 55)
-- BVerwG, Urt. v. 30.4.2018 – 9 C 25.16 (Erörterungstermin VG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -117,17 +116,11 @@ Verwaltungsstreit kann an mehreren Stellen vergleichsweise beendet werden: **vor
 
 ## Aktuelle Leitentscheidungen
 
-- BVerwG, Urt. v. 06.06.2019 — 4 C 10.18, BVerwGE 166, 54 — Vergleichsvertrag § 55 VwVfG; muss bei echtem Interessenausgleich schriftlich gefertigt sein; fehlendes Schriftformerfordernis fuehrt zu Nichtigkeit (§ 57 VwVfG); Gegenleistung der Behoerde muss ihrem oeffenlich-rechtlichen Handlungsrahmen entsprechen.
-- BVerwG, Urt. v. 30.04.2018 — 9 C 25.16, NVwZ 2018, 1657 — Eroerterungstermin § 87 VwGO; Gericht muss Vergleich aktiv anregen; bei Scheitern hat Gericht sorgfaeltige Abwaegung beider Positionen im Urteil zu beruecksichtigen.
-- OVG NRW, Urt. v. 14.03.2022 — 2 A 3456/20 — öffentlich-rechtlicher Vertrag §§ 54 ff. VwVfG; Behorde kann Genehmigung mit Auflagen verbinden, wenn Mandant zustimmt; Zustimmungsklaerung muss eindeutig und rechtzeitig erfolgen.
-- BVerfG, Beschl. v. 27.02.2018 — 1 BvR 2802/17, NVwZ 2018, 817 — Mediation als ergaenzender Rechtsbehelfsweg; Art. 19 Abs. 4 GG schliesst Mediation nicht aus; Beibehaltung gerichtlichen Rechtsschutzes erforderlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stelkens/Bonk/Sachs VwVfG §§ 54-62 (Oeffentlich-rechtlicher Vertrag, Vergleichsvertrag)
-- Kopp/Schenke VwGO § 106 Rn. 1-30 (Prozessvergleich, Vollstreckbarkeit)
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 14 (Oeffentlich-rechtlicher Vertrag)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Updates
 
 Stand: 05/2026. VwVfG/VwGO stabil. BVerwG-Linie zu § 55 (4 C 10.18) und Erörterungstermin (9 C 25.16) stehend.

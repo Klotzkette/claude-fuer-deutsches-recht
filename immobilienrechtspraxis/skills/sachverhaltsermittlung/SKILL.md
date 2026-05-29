@@ -1,6 +1,6 @@
 ---
 name: sachverhaltsermittlung
-description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhaeltnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Pruefraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung."
+description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhältnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Prüfraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung."
 ---
 
 # Sachverhaltsermittlung
@@ -89,9 +89,7 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 12.10.2022 — VIII ZR 339/21, NJW 2023, 218 Rn. 20: Bei Mietmaengelstreitigkeiten muss der Mieter die Ursache des Mangels nicht beweisen; es genuegt die Darlegung der Mangelerscheinung; der Vermieter traegt dann die Last des Gegenbeweises (keine mangelfreie Beschaffenheit).
-- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296 Rn. 28: Eigenbedarfskuendigung erfordert im Schreiben konkrete Angabe von Eigenbedarfsinteressent und Nutzungszweck — fehlende Angaben machen Kuendigung formell unwirksam.
-- BGH, Urt. v. 31.05.2023 — VIII ZR 143/22, NJW 2023, 2735: Sachverhaltsunsicherheiten bei Betriebskosten gehen zu Lasten des Vermieters; er traegt Darlegungslast fuer Umlagefaehigkeit jeder Position.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -99,7 +97,6 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 - Kuendigung: §§ 543, 569, 573 BGB
 - Betriebskosten: § 556 Abs. 3 BGB, BetrKV
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — Sachverhaltsermittlung als Praxisvoraussetzung
-- BeckOK Mietrecht — §§ 536 ff. Beweislast
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

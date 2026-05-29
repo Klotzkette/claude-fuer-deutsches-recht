@@ -1,6 +1,6 @@
 ---
 name: stundungsanfrage-glaeubiger
-description: "Erzeugt Stundungsanfragen an Glaeubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Glaeubiger Forderungshoehe Faelligkeit Stundungswunsch (neue Faelligkeit Ratenzahlung Tilgungspause) Begruendung Sicherheitsangebot. Pro Glaeubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich fuer Beruecksichtigung in der Liquiditaetsplanung."
+description: "Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung."
 ---
 
 # Stundungsanfrage Gläubiger
@@ -212,10 +212,7 @@ stundungen:
 
 ## Aktuelle Leitentscheidungen — Stundungsanfragen
 
-- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Stundungsvereinbarung und Anfechtung: Ratenzahlungsvereinbarung als Kenntnisanzeichen fuer Zahlungsunfaehigkeit § 130 InsO; Glaeubiger, der Stundung einraeumt und spaeter Zahlung erhaelt, laeuft Anfechtungsrisiko.
-- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — ZU-Beseitigung durch Stundung: ernsthafte Stundungsvereinbarung mit bonitaerem Glaeubiger beseitigt ZU vorlaeufig; muss schriftlich sein und Leistungsfaehigkeit des Schuldners glaubhaft machen.
-- BFH, Urt. v. 23.04.2020 — VII R 24/19 — Steuerstundung § 222 AO: Finanzamt stundet Steuerforderungen nur bei sachlicher oder persoenlicher Haerte; Unzumutbarkeit der Sofortzahlung muss detailliert dargelegt werden; temporaere Liquiditaetsnot reicht aus.
-- BSG, Urt. v. 10.12.2019 — B 12 R 9/18 — Sozialversicherungs-Stundung § 76 SGB IV: sehr restriktiv; Kranken- und Rentenversicherungsbeitraege selten gestundet; Insolvenzgeldsicherungs-Beitrag bevorzugt gezahlt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Stundungsanfragen
 

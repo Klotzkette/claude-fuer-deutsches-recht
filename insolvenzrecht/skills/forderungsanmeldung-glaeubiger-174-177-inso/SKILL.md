@@ -1,6 +1,6 @@
 ---
 name: forderungsanmeldung-glaeubiger-174-177-inso
-description: "Glaeubiger meldet Forderung im Insolvenzverfahren an §§ 174-177 InsO: Fristen Form Anlagen Rang § 39 InsO Vorsatz § 174 Abs. 2 InsO nachtraegliche Anmeldung § 177 InsO Pruefungstermin § 176 Bestreiten § 178 Tabelle § 179 InsO. Mit Mustertexten und Fehlerkatalog."
+description: "Gläubiger meldet Forderung im Insolvenzverfahren an §§ 174-177 InsO: Fristen Form Anlagen Rang § 39 InsO Vorsatz § 174 Abs. 2 InsO nachtraegliche Anmeldung § 177 InsO Prüfungstermin § 176 Bestreiten § 178 Tabelle § 179 InsO. Mit Mustertexten und Fehlerkatalog."
 ---
 
 # Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (§§ 174-177 InsO)
@@ -95,7 +95,7 @@ Nicht jeder Anspruch gehört in die Tabelle. Erst klären, **welcher Forderungst
 
 - **ausdrücklich** unter Angabe des Tatbestands anmelden
 - Bedeutung: solche Forderungen sind von der **Restschuldbefreiung ausgeschlossen** (§ 302 Nr. 1 InsO) — Gläubiger kann nach Beendigung des Insolvenzverfahrens weiter vollstrecken
-- **wer ohne ausdrückliche Berufung auf den Vorsatz-Tatbestand anmeldet, verliert dieses Privileg** (Tabelle hat insoweit präjudizielle Wirkung — vgl. BGH IX ZR 178/03)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Beispiele Vorsatz-Forderungen:
 - Schadensersatz aus Betrug (§ 263 StGB), Untreue (§ 266 StGB), Unterschlagung (§ 246 StGB)
@@ -349,16 +349,11 @@ Verwandte Plugins:
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldung im Insolvenzverfahren. Konkrete Anmeldung im Einzelfall mit Fachanwalt für Insolvenzrecht abstimmen.
 
-
 ## Weitere Leitentscheidungen — Forderungsanmeldung
 
-- BGH, Urt. v. 25.01.2007 — IX ZR 120/04, NZI 2007, 281 — Bestreiten durch IV: begruendetes Bestreiten erforderlich; pauschales Bestreiten zur Verzoegerung unwirksam; IV haftet wenn Bestreiten ohne Grundlage.
-- BGH, Urt. v. 22.09.2005 — IX ZB 55/04 — Tabellenwirkung § 178 InsO: Eintragung in Tabelle hat Rechtskraft-Wirkung wie Urteil fuer den Betrag und Rang; Berichtigung nur durch Feststellungsklage § 183 InsO moeglich.
-- BGH, Urt. v. 27.01.2011 — IX ZR 196/10, NZI 2011, 229 — Nachtraegliche Forderungsanmeldung § 177 InsO: moeglich bis Schlussverteilung; Kosten des verspaeteten Prufungstermins traegt Spaet-Glaeubiger; kein Fristversaeumnis-Nachteil ausser Kosten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH IX ZR 188/15 (14.07.2016) entfernt.** Echtes Thema laut dejure.org: Insolvenzanfechtung § 133 InsO / Glaeubigerbenaechteiligunsvorsatz / Zahlungseinstellung (NZI 2016, 837). Die Eintragung behauptete „Feststellungsklage § 180 InsO: Klagefrist ab Bestreiten“ — falsches Thema (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.

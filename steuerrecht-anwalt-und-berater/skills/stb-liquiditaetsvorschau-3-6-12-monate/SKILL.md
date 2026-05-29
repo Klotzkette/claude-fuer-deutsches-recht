@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3-6-12-monate
-description: "Rollierende Liquiditaetsvorschau 3-6-12 Monate fuer GmbH oder UG erstellen mit insolvenzrechtlicher Fortbestehensprognose. Anwendungsfall Steuerberater begleitet Krisenmandat und benoetigt strukturierte Zahlungsplanung fuer Insolvenzreife-Pruefung. Methodisch nach IDW S 6 Sanierungskonzept und IDW S 11 Insolvenzoeffnungsgruende. Wochenraster Pruefung Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Luecke drei Wochen Ueberschuldung § 19 InsO. Output rollierende Tabelle Ampel-Bewertung Excel-Export. Abgrenzung zu stb-liquiditaetsvorschau-3wochen Kurzfristversion."
+description: "Rollierende Liquiditaetsvorschau 3-6-12 Monate für GmbH oder UG erstellen mit insolvenzrechtlicher Fortbestehensprognose. Anwendungsfall Steuerberater begleitet Krisenmandat und benoetigt strukturierte Zahlungsplanung für Insolvenzreife-Prüfung. Methodisch nach IDW S 6 Sanierungskonzept und IDW S 11 Insolvenzoeffnungsgründe. Wochenraster Prüfung Zahlungsunfähigkeit § 17 InsO 10-Prozent-Luecke drei Wochen Überschuldung § 19 InsO. Output rollierende Tabelle Ampel-Bewertung Excel-Export. Abgrenzung zu stb-liquiditaetsvorschau-3wochen Kurzfristversion."
 ---
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)
@@ -25,7 +25,7 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 
 ### Primärnormen
 
-**§ 17 InsO** — Zahlungsunfähigkeit: Liquiditätslücke ≥ 10 %, nicht beseitigbar binnen 3 Wochen (BGH BGHZ 163, 134 Rn. 12 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 18 InsO** — Drohende Zahlungsunfähigkeit: voraussichtliche Unfähigkeit im 24-Monats-Horizont; Grundlage Eigenantragsoption.
 
@@ -39,13 +39,7 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH IX ZR 123/04 | BGHZ 163, 134 | 24.05.2005 | Definition Zahlungsunfähigkeit; 10-%-Lücke; 3-Wochen-Frist |
-| BGH IX ZR 228/03 | NJW 2007, 78 | 12.10.2006 | Indizienkatalog: SV-Rückstände, Stundungen, Rücklastschriften |
-| BGH II ZR 233/18 | NJW 2020, 1809 | 19.11.2019 | Fortbestehensprognose; tragfähiges Konzept + Finanzplan; überwiegende Wahrscheinlichkeit |
-| BGH II ZR 298/11 | BGHZ 195, 42 | 09.10.2012 | Insolvenzrechtliche Überschuldung; Fortführungs- vs. Liquidationswerte |
-| BGH IX ZR 48/21 | IX ZR 48/21 | 10.02.2022 | 10-%-Schwelle bei Zahlungsunfähigkeit; Klarstellung Passivseite |
-| BGH IX ZR 229/22 | IX ZR 229/22 | 15.09.2023 | Titulierte Forderungen mit Nennwert als Passiva I; keine Abzinsung |
-| BGH II ZR 139/23 | II ZR 139/23 | 12.03.2024 | Objektive Beurteilung der Zahlungsunfähigkeit; kein subjektives Element erforderlich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Liquiditätsvorschau
 
@@ -61,11 +55,11 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 | 5 | Wochenraster 13 Wochen | Spalten: KW, Anfangsbestand, Einzahlungen, Auszahlungen, Endbestand, fällige VB Folgewoche, 3-Wochen-Lücke (kumuliert), Quote, Ampel | Primäres Instrument § 17 InsO |
 | 6 | 3-Wochen-Test § 17 InsO | Quote = Lücke_3W / fällige VB ≥ 10 %? Nicht binnen 3 Wochen schließbar? | Ampel Rot/Gelb/Grün |
 | 7 | SV- und Lohnsteuer-Position | SV-Beiträge (AG+AN-Anteil Drittellast); Lohnsteuer § 41a EStG; separate Zeile; nie aufrechnen | Passiva I korrekt |
-| 8 | Steuerforderungen Passiva I | FA-Forderungen; Stundung § 222 AO → außen lassen; AdV § 361 AO → bleibt Passiva I | BGH II ZR 298/11 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Sensitivitätsanalyse | Best/Base/Worst: Zahlungseingang 100 %/80 %/60 %; Auftragserfüllung wie geplant/−10 %/−25 % | Risikoszenario |
 | 10 | Mittel- und Langfristhorizont | 26 Wochen (monatlich aggregiert ab Monat 4), 52 Wochen; Fortführungsprognose-Grundlage | § 18 und § 19 InsO |
 | 11 | Fortführungsprognose IDW S 6 | Krisenstadium; Konzept; integrierte Planung; überwiegende Wahrscheinlichkeit | § 19 InsO Stufe 1 |
-| 12 | Abgrenzung HGB vs. InsO | EK-Negativsaldo ≠ Insolvenzreife; Überschuldungsstatus separat; Stille Reserven/Lasten | BGH BGHZ 195, 42 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 13 | Indizienkatalog prüfen | SV-Rückstände, Stundungsanträge, Lastschriftrückläufer, eingestellte Lieferantenzahlungen | Zahlungseinstellung ohne Deckungslücke möglich |
 | 14 | Ergebnis-Memo | Ampel-Zusammenfassung; frühester Rot-Eintritt (KW-Angabe); Handlungsempfehlung; § 102 StaRUG | Mandantenkommunikation |
 | 15 | Excel-Export | Sheets: 13W, 26W, 52W, Fortführungsprognose, Annahmen; Ampel bedingte Formatierung | Arbeitsunterlage |
@@ -89,7 +83,7 @@ Stand: [Datum]
 
 | Beweisthema | Beweislastträger | Beweismittel |
 |---|---|---|
-| Zahlungsunfähigkeit zum Stichtag | Insolvenzverwalter / Kläger im Nachhinein | Liquiditätsvorschau als Indiz; BGH NJW 2007, 78 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Zahlungseingang-Wahrscheinlichkeit | GF / StB | Debitorenliste, Mahnstand, DA-Liste |
 | Kreditlinie ziehungsfähig | GF | Bankbescheinigung über Limit und Valuta |
 | SV-Rückstände | Offen aus Buchhaltung; BG-/KK-Bescheide | Konto-Auszüge SV-Beitragskonten |
@@ -109,7 +103,7 @@ Stand: [Datum]
 
 | Fehler | Korrekte Vorgehensweise |
 |---|---|
-| Negativem EK als Insolvenzreife gleichsetzen | Handelsbilanzielle Unterdeckung ≠ Insolvenzreife; Überschuldungsstatus separat (BGH BGHZ 195, 42) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kreditlinie vollständig als Aktiva I | Nur ziehungsfähiger, nicht gesperrter oder bereits ausgeschöpfter Teil |
 | Auftragseingang zu optimistisch ansetzen | Sensitivitätsanalyse: Worst-Case-Szenario immer einbeziehen; BGH verlangt realistische Annahmen |
 | USt-Voranmeldung fehlt in Auszahlungen | USt monatlich oder quartalsweise je nach Turnus; Dauerfristverlängerung berücksichtigen |
@@ -238,14 +232,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - InsO §§ 17, 18, 19, 15a, 15b
 - StaRUG §§ 1, 102
 - SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
-- BGH IX ZR 123/04 = BGHZ 163, 134
-- BGH IX ZR 228/03 = NJW 2007, 78
-- BGH II ZR 233/18 = NJW 2020, 1809
-- BGH II ZR 298/11 = BGHZ 195, 42
-- BGH IX ZR 48/21 (10-%-Schwelle)
-- BGH IX ZR 229/22 (titulierte Forderungen Nennwert)
-- BGH II ZR 139/23 (objektive Beurteilung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzept); IDW S 11 (Insolvenzeröffnungsgründe)
 - K. Schmidt/Herchen, InsO § 17 Rn. 5–35
-- Uhlenbruck/Mock, InsO § 19 Rn. 47–95
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35

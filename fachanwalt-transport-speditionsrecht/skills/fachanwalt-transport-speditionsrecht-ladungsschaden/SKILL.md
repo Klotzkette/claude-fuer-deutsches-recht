@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-ladungsschaden
-description: "Ladungsschaden im Gueterverkehr pruefen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Pruefraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Pruefergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug."
+description: "Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug."
 ---
 
 # Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)
@@ -51,12 +51,9 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 95/05 | BGH, 04.05.2007 | § 435 HGB: Fehlender Eingangsscan bei Übernahme begründet Leichtfertigkeit im Sinne des qualifizierten Verschuldens |
-| BGH I ZR 27/09 | BGH, 14.07.2010 | § 435 HGB: Frachtführer muss sein Kontrollsystem vollständig darlegen; kann er das nicht, wird Leichtfertigkeit vermutet |
-| BGH I ZR 49/13 | BGH, 12.06.2014 | § 427 HGB: Privilegierung setzt voraus, dass Frachtführer aktiv Maßnahmen zur Schadensminimierung ergriffen hat; bloße Inkaufnahme reicht nicht |
-| BGH I ZR 159/13 | BGH, 21.05.2015 | § 431 HGB Haftungshöchstbetrag: SDR-Kurs am Tag der Zahlung maßgeblich, nicht Schadensdatum |
-| OLG München 23 U 1432/19 | OLG München, 2020 | § 439 HGB Verjährung: Hemmung durch schriftliche Reklamation bis zur schriftlichen Zurückweisung; telefonische Zurückweisung genügt nicht |
-| BGH I ZR 176/14 | BGH, 22.10.2015 | ADSp-Klauseln unterliegen AGB-Kontrolle nach §§ 305 ff. BGB; übermäßige Haftungsbeschränkungen unwirksam |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -145,7 +142,7 @@ IV. QUALIFIZIERTES VERSCHULDEN § 435 HGB
 Die Beklagte hat leichtfertig im Bewusstsein des wahrschein-
 lichen Schadenseintritts gehandelt:
 – Kein Eingangsscan bei Übernahme im Depot [Ort]
-  (BGH I ZR 95/05: fehlender Scan = Leichtfertigkeit)
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 – Kein Nachweis des letzten Kontaktpunkts mit der Sendung
 – Fahrzeug war [X Stunden] auf unbewachtem Parkplatz abgestellt
 
@@ -175,7 +172,7 @@ KLAGEERWIDERUNG
 I. PRIVILEG § 427 ABS. 1 NR. 2 HGB (fehlende Verpackung)
 
 Die Sendung war bei Übernahme unzureichend verpackt.
-Dies ergibt sich aus: [Frachtbrief-Vermerk „Verpackung mangel-
+Dies ergibt sich aus: [Frachtbrief-Vermerk "Verpackung mangel-
 haft" vom Fahrer eingetragen, Anlage B1; Fotos Anlage B2].
 
 Der Frachtführer hat die Unzulänglichkeit bei Übernahme
@@ -190,7 +187,7 @@ Der Frachtführer betreibt ein vollständiges Kontrollsystem:
 – GPS-Fahrzeugdaten (lückenlose Strecke, Anlage B5)
 – Abgesicherter Parkplatz [Standort] mit Videoüberwachung
 
-Von Leichtfertigkeit i.S.d. BGH I ZR 95/05 kann keine Rede sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. HILFSWEISE HAFTUNGSHÖCHSTBETRAG § 431 HGB
 
@@ -243,8 +240,7 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 | Übernahme in ordnungsgemäßem Zustand | Absender; erleichtert durch Frachtbrief ohne Frachtführer-Vorbehalt (§ 409 HGB Vermutung) |
 | Schaden im Obhutszeitraum | Anspruchsteller; durch Ablieferungsprotokoll und Fotos |
 | Haftungsausschluss § 426 HGB | Frachtführer trägt Beweis für unvermeidbare Ereignisse |
-| Privilegierungstatbestand § 427 HGB | Frachtführer muss Vorliegen des Tatbestands UND typische Schadensursache beweisen (BGH I ZR 49/13) |
-| Qualifiziertes Verschulden § 435 HGB | Anspruchsteller: Organisationsmangel darlegen; Frachtführer: vollständiges Kontrollsystem beschreiben (BGH I ZR 27/09) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -265,11 +261,11 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
-| „Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
-| „Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
-| „ADSp schränken Haftung auf 5 SZR/kg ein" | BGH I ZR 176/14: AGB-Haftungsbegrenzungen sind nur wirksam soweit § 449 HGB eingehalten; § 435 HGB ist zwingend und nicht durch ADSp abdingbar |
-| „Verjährung ist eingetreten" | § 439 Abs. 3 HGB: Hemmung durch schriftliche Reklamation; OLG München 23 U 1432/19: telefonische Ablehnung stoppt Hemmung nicht |
+| "Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
+| "Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
+| "Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -277,7 +273,7 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 | Position | Berechnung |
 |---|---|
-| Regelhaftung § 431 HGB | kg × 8.33 SZR × SDR-Kurs (Zahlungstag); BGH I ZR 159/13 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vollhaftung § 435 HGB | Voller Warenwert gemäß Handelsrechnung; erheblich höher |
 | Anwaltsgebühren Gegenstandswert EUR 30.000 | Ca. EUR 2.400 netto (VV-RVG 2300) |
 | Sachverständigengutachten | EUR 1.500–5.000; als Schadensposition bei § 435 HGB-Erfolg erstattungsfähig |
@@ -308,4 +304,4 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 ## Quellen
 
-HGB §§ 407–475 (Frachtrecht) und §§ 453–466 (Speditionsrecht). BGH I ZR 95/05 (Leichtfertigkeit § 435 HGB). BGH I ZR 27/09 (Darlegungslast Kontrollsystem). BGH I ZR 49/13 (Privilegierung § 427 HGB). BGH I ZR 159/13 (SDR-Kurs Zahlungstag). BGH I ZR 176/14 (ADSp AGB-Kontrolle). OLG München 23 U 1432/19 (Verjährungshemmung § 439 HGB). Koller, Transportrecht, aktuelle Auflage. MüKo-HGB Boesche §§ 425 ff. Ebenroth/Boujong/Joost/Strohn HGB. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

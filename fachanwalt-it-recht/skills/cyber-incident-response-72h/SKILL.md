@@ -1,6 +1,6 @@
 ---
 name: cyber-incident-response-72h
-description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Pruefraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
+description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Prüfraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
 ---
 
 # Cyber-Incident-Response 72 Stunden
@@ -53,10 +53,8 @@ description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltr
 
 ### Entscheidungen
 
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia): Art. 82 DSGVO — allein die unbefugte Offenlegung begründet Schadensersatzanspruch; kein Nachweis konkreten Schadens für immateriellen Schaden erforderlich.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21: Schadensersatzpflicht bei mangelnden TOMs Art. 32 DSGVO.
-- LG München I, Urt. v. 09.12.2021 — 31 O 16606/20: Datenpanne + mangelnde Sicherheit = Schadensersatz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema / Zeitplan
 
@@ -174,7 +172,7 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 | Frage | Last | Norm |
 |---|---|---|
 | Verletzung der Meldepflicht Art. 33 | Behörde; Entlastung durch Dokumentation des Verantwortlichen | Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht) |
-| Kausalität Schaden — Datenpanne | Betroffener für tatsächliche Schäden; immateriell schon bei festgestelltem Verstoß (EuGH C-340/21) | Art. 82 Abs. 1 DSGVO |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Entlastung Verantwortlicher | Verantwortlicher: Nachweis angemessener TOMs | Art. 82 Abs. 3 DSGVO |
 | Straftat § 202a StGB | Staatsanwaltschaft | StPO |
 | Versicherungsschutz | Versicherungsnehmer | AVB Cyber-Police |
@@ -233,13 +231,13 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 - DSGVO Art. 28, 32–34, 82, 83
 - NIS2UmsuCG in Kraft seit 06.12.2025; §§ 32, 65 BSIG n. F.
 - StGB §§ 202a–202d, 261, 263a, 269, 303a, 303b
-- EuGH C-340/21 (Natsionalna agentsia)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - BSI IT-Grundschutz-Kompendium
 - BSI-Lageberichte Cybersicherheit
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 26.01.2023 — III ZR 9/22, NJW 2023, 1085 Rn. 28: Ransomware-Schaden und Betreiberhaftung — Unternehmen haftet Betroffenen nach Art. 82 DSGVO wenn fehlende TOMs Art. 32 DSGVO kausal fuer Datenverlust; Entlastungsnachweis liegt beim Verantwortlichen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template — DSGVO-Meldung Art. 33
 **Adressat:** Zustaendige Datenschutz-Aufsichtsbehoerde — Tonfall: sachlich-berichtend

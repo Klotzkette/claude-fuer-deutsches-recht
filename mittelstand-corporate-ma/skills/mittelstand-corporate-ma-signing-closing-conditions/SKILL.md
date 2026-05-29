@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-signing-closing-conditions
-description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible fuer M&A-Transaktionen."
+description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen."
 ---
 
 # Signing, Closing und Conditions Precedent
@@ -31,17 +31,11 @@ Fuehrt Signing-to-Closing-Prozess: Conditions Precedent (CPs), Ordinary Course C
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 20.11.2018 - II ZR 12/17, NZG 2019, 147 — Closing Condition Erfullung: eine Partei kann sich nicht auf Nichterfullung einer CP berufen, wenn sie die Erfullung selbst verhindert hat (Grundsatz von Treu und Glauben § 242 BGB, "Bedingungsvereitelung")
-- BGH, Urt. v. 13.07.2010 - II ZR 59/09, NJW 2010, 3440 — Ordinary Course Covenant: Verkaeuf er hat bis zum Closing das Unternehmen im gewoehnlichen Geschaeftsgang zu fuehren; Verletzung berechtigt Kaeufer zur Schadensersatzforderung
-- EuGH, Urt. v. 31.05.2018 - C-633/16, NZKart 2018, 321 — kartellrechtlicher Vollzug vor Freigabe (Gun Jumping): jede Massnahme, die dem Erwerber vor der Freigabe tatsaechlichen Einfluss verschafft, stellt verbotenen Vollzug dar; Bußgeld
-- BGH, Urt. v. 07.07.2021 - VIII ZR 54/20, NJW 2021, 3172 — Longstop Date: laeuft Longstop Date ab ohne CP-Erfullung, entsteht Ruecktrittsrecht kraft Vertrags; keine erneute Fristsetzung erforderlich
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Ernst, §§ 158-162 Rn. 1-80 (Bedingung, Suspensivbedingung)
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 7 (Closing, Bedingungen, Vollzug), 8. Auflage
-- Picot, Unternehmenskauf, Kapitel 5 (Signing, Closing, CPs)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behoerdenbescheid, Beschluss, Zertifikat), Eskalationsstufe

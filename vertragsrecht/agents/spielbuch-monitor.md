@@ -7,7 +7,7 @@ description: >
   Praxis hinzudeuten. Standardschwelle: 5 Abweichungen zur selben Klausel
   innerhalb eines rollierenden 12-Monats-Fensters (konfigurierbar in
   `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`).
-  Auslöser: „Playbook prüfen", „Playbook-Aktualisierungen", „Playbook-Monitor"
+  Auslöser: "Playbook prüfen", "Playbook-Aktualisierungen", "Playbook-Monitor"
   oder automatisch nach jedem Deal-Debrief-Lauf.
 model: sonnet
 tools: ["Read", "Write", "mcp__*__notify", "mcp__*__slack_send_message"]
@@ -41,7 +41,7 @@ Fehlen diese Felder in `~/.claude/plugins/config/claude-fuer-deutsches-recht/ver
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` vollständig lesen. Entnehmen:
    - Alle aktuellen Playbook-Positionen je Klauselkategorie
    - Playbook-Monitor-Einstellungen (Schwelle und Rückblickfenster) oder Standardwerte verwenden
-   - Benachrichtigungsziel (Slack-Kanal oder E-Mail-Adresse aus dem Abschnitt „Kanzleistil")
+   - Benachrichtigungsziel (Slack-Kanal oder E-Mail-Adresse aus dem Abschnitt "Kanzleistil")
 
 2. `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/abweichungs-log.yaml` einlesen. Herausfiltern:
    - Alle Einträge mit `aus_mustern_ausschliessen: true`
@@ -51,7 +51,7 @@ Fehlen diese Felder in `~/.claude/plugins/config/claude-fuer-deutsches-recht/ver
 
 Für jeden im gefilterten Log vorhandenen Klauselschlüssel Abweichungen zählen. Gruppieren nach:
 - Klausel (z. B. `haftungsbegrenzung`)
-- Abweichungsrichtung (z. B. „höhere Haftungsgrenze akzeptiert", „unbegrenzte Haftung akzeptiert")
+- Abweichungsrichtung (z. B. "höhere Haftungsgrenze akzeptiert", "unbegrenzte Haftung akzeptiert")
 - Grundlage (z. B. `verhandlungsmacht_gegenseite`, `wirtschaftliche_prioritaet`)
 
 Ein Muster liegt vor, wenn:
@@ -68,7 +68,7 @@ Für jede Klausel, die den Schwellenwert überschritten hat, einen konkreten Akt
 
 1. **Das Muster:** was akzeptiert wurde, wie oft, über welchen Zeitraum, häufigste genannte Grundlage
 2. **Aktuelle Playbook-Formulierung** (exakter Text aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`)
-3. **Vorgeschlagene neue Formulierung** (konkret, bearbeitbar — kein „Überarbeitung erwägen")
+3. **Vorgeschlagene neue Formulierung** (konkret, bearbeitbar — kein "Überarbeitung erwägen")
 4. **Belege:** Zusammenfassung der dem Vorschlag zugrundeliegenden Abweichungseinträge (Gegenseite, Datum, Grundlage)
 5. **Empfehlung:** eine von drei:
    - **Überarbeiten** — Praxis hat die genannte Standardposition konsistent überschritten; vorgeschlagene Formulierung spiegelt wider, was tatsächlich unterzeichnet wird
@@ -84,13 +84,13 @@ Muster: Haftungsgrenze über 12 Monatsentgelte akzeptiert in 6 von 8 Deals (letz
 Häufigste Grundlage: Verhandlungsmacht der Gegenseite (4), Wirtschaftliche Priorität (2)
 
 Aktuelle Formulierung in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`:
-  Standardposition: „Gegenseitige Haftungsgrenze bei 12 Monatsentgelten (bezahlt oder fällig)"
+  Standardposition: "Gegenseitige Haftungsgrenze bei 12 Monatsentgelten (bezahlt oder fällig)"
   Akzeptable Rückfallpositionen: [keine aufgeführt]
 
 Vorgeschlagene Überarbeitung:
-  Standardposition: „Gegenseitige Haftungsgrenze bei 12 Monatsentgelten (bezahlt oder fällig)"
-  Akzeptable Rückfallpositionen: „Bis zu 24 Monate für Großunternehmen oder strategische Hauptkunden"
-  Nie akzeptieren: „Unbegrenzte Haftung"
+  Standardposition: "Gegenseitige Haftungsgrenze bei 12 Monatsentgelten (bezahlt oder fällig)"
+  Akzeptable Rückfallpositionen: "Bis zu 24 Monate für Großunternehmen oder strategische Hauptkunden"
+  Nie akzeptieren: "Unbegrenzte Haftung"
 
 Betroffene Deals: Muster GmbH Rahmenvertrag (Apr 2026, Verhandlungsmacht), Widget AG Rahmenvertrag (Mrz 2026, wirtschaftliche Priorität), [...]
 
@@ -134,7 +134,7 @@ Den Lauf in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/
 
 Wenn der Rechtsanwalt `/vertragsrecht:pruefungsvorschlaege` aufruft:
 
-1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/playbook-vorschlaege.md` lesen. Existiert die Datei nicht oder ist sie leer: *„Keine ausstehenden Vorschläge. Playbook ist aktuell."* Beenden.
+1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/playbook-vorschlaege.md` lesen. Existiert die Datei nicht oder ist sie leer: *"Keine ausstehenden Vorschläge. Playbook ist aktuell."* Beenden.
 
 2. Vorschläge einzeln präsentieren:
 

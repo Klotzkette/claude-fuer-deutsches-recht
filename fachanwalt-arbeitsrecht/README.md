@@ -2,6 +2,18 @@
 
 Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungsschutzklage, Betriebsratsanhörung, Befristung. Schnittstellen zum Plugin `arbeitsrecht` (operative Mandatsführung) und `kanzlei-allgemein`.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **befristungskontrollklage vogt stadtwerke** | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+| **kuendigungsschutzklage weber techlogix** | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -18,7 +30,7 @@ Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungssch
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-orientierung` | Orientierung — FAO § 10, Normen, Mandate, Fristen, Standardliteratur. |
+| `fachanwalt-arbeitsrecht-orientierung` | Orientierung — FAO § 10, Normen, Mandate, Fristen, Quellenprüfung. |
 | `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage § 4 KSchG, Frist drei Wochen ab Zugang. |
 | `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Anhörung des Betriebsrats § 102 BetrVG vor jeder Kündigung. |
 | `fachanwalt-arbeitsrecht-befristung-tzbfg` | Befristungsrecht TzBfG, Schriftform, Sachgrund, Vorbeschäftigung. |
@@ -27,9 +39,9 @@ Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungssch
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | BAG 23.10.2025 – 8 AZR 300/24: Paarvergleich genügt für Vermutung § 22 AGG, Beweislast auf Arbeitgeber. |
-| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | BAG 03.06.2025 – 9 AZR 104/24: Kein Verzicht auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhältnis. |
-| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | BAG 25.03.2026 – 5 AZR 108/25: Pauschale Freistellungsklausel unwirksam, Beschäftigungsanspruch lebt. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ## Lizenz
 

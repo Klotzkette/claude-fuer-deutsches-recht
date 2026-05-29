@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-icc-uncitral-schiedsverfahren
-description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Pruefraster: anwendbares Recht Sitz Schiedsgericht New Yorker Uebereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-pruefen."
+description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen."
 ---
 
 # ICC / UNCITRAL Schiedsverfahren — Internationales Wirtschaftsrecht
@@ -149,10 +149,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Ergaenzende Leitsaetze Schiedsverfahren
 
-- BGH, Beschl. v. 17.06.2021 - I ZB 25/20, NJW 2021, 2880 Rn. 22 — Schiedsvereinbarung muss in Textform vorliegen (§ 1031 ZPO); formlose Schiedsklausel in allg. Handelsbeziehungen ausreichend wenn Kaufleute beteiligt.
-- BGH, Beschl. v. 25.01.2021 - I ZB 103/19, NJW 2021, 1378 Rn. 28 — New Yorker Uebereinkommen: ordre public-Versagung sehr eng; rechtliches Gehor verletzt wenn Partei keine Moeglichkeit zur Stellungnahme hatte.
-- BGH, Beschl. v. 14.03.2019 - I ZB 13/18, BGHZ 221, 262 — Vollstreckbarerklaerung § 1061 ZPO: Entscheidung ergeht ohne muendliche Verhandlung; Versagungsgruende NY Convention Art. V abschliessend.
-- EuGH, Urt. v. 06.03.2018 - C-284/16 (Achmea), ECLI:EU:C:2018:158 — Investitionsschutz-Schiedsklauseln in EU-Intra-BIT unvereinbar mit EU-Recht; Anwendung nur bei Drittstaaten-BIT.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Schiedsverfahren
 - §§ 1025-1066 ZPO — Deutsches Schiedsrecht (UNCITRAL Modellgesetz)

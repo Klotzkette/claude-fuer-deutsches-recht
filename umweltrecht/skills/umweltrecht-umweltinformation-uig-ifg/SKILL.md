@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-umweltinformation-uig-ifg
-description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Pruefraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing)."
+description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing)."
 ---
 
 # Umweltinformation nach UIG und IFG
@@ -30,17 +30,11 @@ description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umwelti
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 21.02.2018 — 7 C 24.15, BVerwGE 161, 206 — § 9 UIG Drittbeteiligung; Betrieb muss Geheimnisschutz substantiiert begruenden; Behoerde muss Abwaegung vornehmen; blosse Behauptung Geheimhaltungsbedarf genuegt nicht.
-- BVerwG, Urt. v. 29.10.2015 — 7 C 10.13, NVwZ 2016, 317 — § 8 UIG laufende Verfahren; Ausschlussgrund eng auszulegen; nur bei konkreter Gefaehrdung Verfahrensablauf, nicht generell.
-- OVG Berlin-Brandenburg, Urt. v. 18.03.2022 — OVG 12 B 7.20 — UIG § 3 Abs. 1; Emissionsdaten als Umweltinformation; Betriebsgeheimnis-Abwaegung unterliegt voller gerichtlicher Kontrolle.
-- BVerwG, Urt. v. 15.11.2012 — 7 C 1.12, BVerwGE 145, 88 — IFG § 6; Schutz Betriebs- und Geschaeftsgeheimnisse setzt konkrete wirtschaftliche Nachteile voraus; pauschal genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schoch IFG §§ 1, 3, 5, 6, 9 (Kommentar, aktuelle Auflage)
-- Reidt/Schiller UIG §§ 3, 4, 8, 9 (Kommentar)
-- Kloepfer Umweltrecht § 15 Rn. 1-80 (Umweltinformationsrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 
@@ -58,7 +52,7 @@ description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umwelti
 ### B) Dritter (Unternehmen) — Geheimnisschutz verteidigen
 
 1. **Drittbeteiligung beobachten**: Behoerde muss vor Herausgabe Anhoerun durchfuehren (§ 9 Abs. 1 UIG).
-2. **Stellungnahme substantiiert einreichen**: Konkrete wirtschaftliche Nachteile bei Offenbarung benennen (BVerwG 7 C 1.12); Geschaeftsgeheimnisse spezifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Behoerdenentscheidung anfechten**: Klage VG gegen Herausgabe-Anordnung; Eilantrag § 80 Abs. 5 VwGO (aufschiebende Wirkung bis VG-Entscheidung).
 
 ### Entscheidungsbaum Antrag
@@ -147,11 +141,11 @@ I. Hiermit legen wir Widerspruch ein.
 II. Begruendung
 Die Ablehnung ist rechtswidrig:
 a) § 9 UIG Geheimnisschutz: Die Behoerde hat keine eigene Abwaegung vorgenommen.
-   Behauptung des Dritten genuegt nicht (BVerwG 7 C 1.12).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) § 8 UIG laufende Verfahren: Das Verfahren ist abgeschlossen; Ausschlussgrund
-   entfallen (BVerwG 7 C 10.13).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 c) Emissionsdaten sind nach § 9 Abs. 1 Satz 2 UIG grundsaetzlich offenzulegen
-   (OVG BB OVG 12 B 7.20).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Antrag
 Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszugeben.

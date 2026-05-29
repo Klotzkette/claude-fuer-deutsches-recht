@@ -27,7 +27,7 @@ und scannte das Dokument ein. Das Scan-PDF schickte sie am 16.02.2024 per E-Mail
 Schönfeld bestätigte den Eingang kurz per E-Mail. Eine Originalausfertigung mit der
 Unterschrift des Arbeitgebers hat Vogt nie erhalten.
 
-Vogt: *„Ich hab nachgefragt, ob das so ok ist. Schönfeld hat gesagt, ich kriege das Original
+Vogt: *"Ich hab nachgefragt, ob das so ok ist. Schönfeld hat gesagt, ich kriege das Original
 am ersten Tag. Aber dann war in dem Einführungsordner kein Vertrag drin."*
 
 Über den Auslauf des Vertrages wurde Vogt mit E-Mail vom 09. Januar 2026 informiert:
@@ -63,7 +63,7 @@ Akte. Sie war sich nicht bewusst, dass diese frühere Tätigkeit rechtliche Rele
 - **Mindestinteresse:** Rechtskräftiges Feststellungsurteil, dass das Arbeitsverhältnis nicht
   durch Befristung geendet hat (günstigere Darstellung gegenüber Bundesagentur für Arbeit).
 
-Vogt ist grundsätzlich vergleichsbereit, möchte aber nicht das Gefühl haben, „einfach
+Vogt ist grundsätzlich vergleichsbereit, möchte aber nicht das Gefühl haben, "einfach
 abgefunden und abgespeist" zu werden.
 
 ---

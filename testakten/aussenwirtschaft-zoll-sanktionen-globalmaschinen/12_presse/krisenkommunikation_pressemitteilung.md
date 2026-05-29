@@ -19,7 +19,7 @@ Stuttgart, 14. April 2026 – Die Globalmaschinen GmbH hat nach Bekanntwerden vo
 
 Das Stuttgarter Maschinenbauunternehmen, das CNC-Steuermodule und Industriekomponenten weltweit vertreibt, betont, dass wissentliche Verstöße gegen die EU-Sanktionsregime weder stattgefunden haben noch geduldet werden. Erste interne Prüfungen haben jedoch ergeben, dass in einzelnen Liefervorgängen die internen Kontrollprozesse nicht in vollem Umfang gegriffen haben.
 
-„Wir nehmen diese Erkenntnisse mit größtem Ernst. Die vollständige Aufklärung hat absolute Priorität. Wir haben unverzüglich einen Lieferstopp verhängt, unsere Compliance-Strukturen intensiviert und informieren proaktiv die zuständigen Behörden.“
+"Wir nehmen diese Erkenntnisse mit größtem Ernst. Die vollständige Aufklärung hat absolute Priorität. Wir haben unverzüglich einen Lieferstopp verhängt, unsere Compliance-Strukturen intensiviert und informieren proaktiv die zuständigen Behörden."
 
 
 – Marcus Vogt, Geschäftsführer Globalmaschinen GmbH

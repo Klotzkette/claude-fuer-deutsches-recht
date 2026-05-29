@@ -1,6 +1,6 @@
 ---
 name: abmahnung-markenrecht-uwg
-description: "Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklaerung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprueche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Pruefraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklaerung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-loeschung."
+description: "Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Prüfraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklärung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-löschung."
 ---
 
 # Markenrechtliche Abmahnung und Unterlassungserklärung
@@ -16,9 +16,9 @@ Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unt
 - **§ 19 MarkenG:** Auskunftsanspruch als Vorstufe zum Schadensersatz
 - **§ 97a UrhG (analog):** Abmahnungserfordernis als Obliegenheit vor Klage (auch im Markenrecht üblicher Usus)
 - **§ 13 UWG n.F. (seit 12.2021):** Abmahnkosten-Regulation im UWG — beachte: im reinen Markenrecht gilt das UWG-Abmahnkostenrecht nicht unmittelbar, ist aber Maßstab
-- **Hamburger Brauch:** Richterrechtliche Vertragsstrafe-Klausel bei unklarer Verletzungsart — Verletzer unterwirft sich einer Vertragsstrafe „nach billigem Ermessen der Gläubigerin, im Streitfall durch Gericht überprüfbar"
+- **Hamburger Brauch:** Richterrechtliche Vertragsstrafe-Klausel bei unklarer Verletzungsart — Verletzer unterwirft sich einer Vertragsstrafe "nach billigem Ermessen der Gläubigerin, im Streitfall durch Gericht überprüfbar"
 - **Neue Hamburger Formel:** Alternativ: Feste Vertragsstrafe ab EUR 5.000 je Verletzungshandlung (planungssicherer, aber weniger flexibel)
-- **BGH I ZR 35/19:** Zur Bemessung der Vertragsstrafe — EUR 3.000 bei Erstverstoß im Internet nicht zu niedrig; EUR 5.100 bei Wiederholungsgefahr zulässig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 8 IV UWG:** Missbrauchsverbot bei UWG-Abmahnungen (beschränkt auf UWG-Ansprüche)
 - **§ 12 UWG:** Prozessuale Absicherung (Unterlassungsklage nach erfolgloser Abmahnung)
 
@@ -37,9 +37,9 @@ Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unt
    - Fristsetzung: in der Regel 7-14 Tage (bei offensichtlicher Verletzung kürzer möglich)
 
 3. **Unterlassungserklärung — Vertragsstrafe:**
-   - Hamburger Brauch: „…bei jeder schuldhaften Zuwiderhandlung eine von der klôtzzkètté SA nach billigem Ermessen festzusetzende, im Streitfall durch das zuständige Gericht zu überprüfende Vertragsstrafe zu zahlen."
+   - Hamburger Brauch: "…bei jeder schuldhaften Zuwiderhandlung eine von der klôtzzkètté SA nach billigem Ermessen festzusetzende, im Streitfall durch das zuständige Gericht zu überprüfende Vertragsstrafe zu zahlen."
    - Alternative: Feste Vertragsstrafe EUR 10.000 je Verletzungshandlung (für Serienverletzer empfehlenswert)
-   - Klausel: Kein Abstrich (kein „mindestens EUR 1") — Erstunterwerfung muss Wiederholungsgefahr beseitigen
+   - Klausel: Kein Abstrich (kein "mindestens EUR 1") — Erstunterwerfung muss Wiederholungsgefahr beseitigen
 
 4. **Reaktionsmöglichkeiten des Verletzers:**
    - Unterlassungserklärung abgegeben: Wiederholungsgefahr entfallen → kein Eilantrag mehr nötig
@@ -53,11 +53,11 @@ Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unt
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Brezelmann Online-Shop „klotzkette-discount.de"
-Brezelmann betreibt Website, die unter dem Keyword „klôtzzkètté" günstige Nachahmungen bewirbt. Abmahnung wegen § 14 II Nr. 2 MarkenG (Verwechslungsgefahr) und §§ 5/6 UWG (irreführende/vergleichende Werbung). Frist: 10 Tage. Vertragsstrafe: EUR 15.000 je Handlung (Wiederholungsgefahr bereits belegt durch frühere Abmahnung).
+### Konstellation 1: Brezelmann Online-Shop "klotzkette-discount.de"
+Brezelmann betreibt Website, die unter dem Keyword "klôtzzkètté" günstige Nachahmungen bewirbt. Abmahnung wegen § 14 II Nr. 2 MarkenG (Verwechslungsgefahr) und §§ 5/6 UWG (irreführende/vergleichende Werbung). Frist: 10 Tage. Vertragsstrafe: EUR 15.000 je Handlung (Wiederholungsgefahr bereits belegt durch frühere Abmahnung).
 
 ### Konstellation 2: Influencer trägt gefälschtes klôtzzkètté-Stück auf Instagram
-Micro-Influencer (200k Follower) trägt offensichtliche Fälschung und taggt „@klotzkette_official" (fake Account). Abmahnung gegen Influencer auf § 14 II Nr. 1 (Identität) oder Nr. 2 (Verwechslungsgefahr). Separate Notice-and-Action gegen Instagram/Meta nach DSA (vgl. Skill `plattform-piraterie-donauzon`).
+Micro-Influencer (200k Follower) trägt offensichtliche Fälschung und taggt "@klotzkette_official" (fake Account). Abmahnung gegen Influencer auf § 14 II Nr. 1 (Identität) oder Nr. 2 (Verwechslungsgefahr). Separate Notice-and-Action gegen Instagram/Meta nach DSA (vgl. Skill `plattform-piraterie-donauzon`).
 
 ### Konstellation 3: Wiederholungstäter Brezelmann
 Brezelmann hat bereits eine Unterlassungserklärung abgegeben (Hamburger Brauch), verwendet das Zeichen erneut. Vertragsstrafe-Klage: Quantifizierung der Zuwiderhandlungen, EUR 5.000-15.000 je Fall. Parallele neue Abmahnung für neue Verletzungshandlungen.
@@ -66,10 +66,8 @@ Brezelmann hat bereits eine Unterlassungserklärung abgegeben (Hamburger Brauch)
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 1 ff. (Verletzungsrechtsfolgen)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 400 ff.
-- BeckOK UWG, § 12 Rn. 50 ff. (Abmahnung im Wettbewerbsrecht)
-- BGH, Urt. v. 20.03.1997 — I ZR 246/94 (TURBO-TANKSTELLE) — Hamburger Brauch
-- BGH, Urt. v. 28.09.2011 — I ZR 145/10 (Vorweihnachtszeit) — Vertragsstrafe-Bemessung
-- BGH, Urt. v. 17.07.2008 — I ZR 168/05 (EROS) — Erstbegehungsgefahr
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -85,9 +83,9 @@ Unser Zeichen: [Az.], Datum: [...]
 Sehr geehrte Damen und Herren,
 
 wir vertreten die klôtzzkètté SA, Inhaberin der deutschen Wortmarke
-„klôtzzkètté" (DPMA-Reg.-Nr. [...], Klassen 14/18/25/35).
+"klôtzzkètté" (DPMA-Reg.-Nr. [...], Klassen 14/18/25/35).
 
-Sie verwenden das Zeichen „[Verletzungszeichen]" im geschäftlichen
+Sie verwenden das Zeichen "[Verletzungszeichen]" im geschäftlichen
 Verkehr für [Waren/Dienstleistungen], was die Markenrechte unserer
 Mandantin verletzt (§ 14 II Nr. 2 MarkenG).
 
@@ -126,8 +124,8 @@ Bevor die Abmahnung abgeschickt wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 30.07.2020 — I ZR 119/19 (Farbmarke Rot):** Die Dringlichkeitsvermutung bei Markenverletzungen entfällt, wenn der Abmahnende nach Kenntniserlangung mehr als vier Wochen zuwartet, bevor er gerichtliche Schritte einleitet.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 25.07.2018 — C-129/17 (Mitsubishi / Duma):** Das Aufbringen einer anderen Marke auf eine markenrechtlich bereits geschützte Ware unter Entfernung der Originalmarke ist eine eigenständige markenmäßige Benutzungshandlung nach Art. 9 UMV.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 11.04.2019 — I ZR 108/18 (tesa Tack):** Die dreifache Schadensberechnungsmethode steht gleichwertig nebeneinander; der Rechteinhaber kann die günstigste Methode wählen, ohne sie bei Klageerhebung endgültig festzulegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

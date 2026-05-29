@@ -41,7 +41,7 @@ zwölf Monaten. Zum Stichtag 18.05.2026 beträgt der Prognosezeitraum zwölf Mon
 
 ### Rechtsprechung (Pflichtpinpoints)
 
-**BGH, Urt. v. 27.04.2010 – II ZR 151/09, NZG 2010, 1393 Rn. 12 ff.**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Fortbestehensprognose: Der BGH präzisiert die Anforderungen an die Prognoseentscheidung.
 Die Fortführungsprognose erfordert einen plausiblen, auf nachvollziehbaren Planungsannahmen
 beruhenden Liquiditätsplan. Eine bloße Hoffnung auf künftige Kapitalzuführungen genügt
@@ -49,33 +49,33 @@ nicht; maßgeblich ist die überwiegende Wahrscheinlichkeit der Zahlungsfähigke
 im Prognosezeitraum. Ab Rn. 12 stellt der Senat klar, dass unrealistische Annahmen zur
 Unternehmensfortführung die Prognose insgesamt entwerten.
 
-**BGH, Urt. v. 12.02.2015 – IX ZR 290/14, NJW 2017, 3373 Rn. 17 ff.**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Insolvenzrechtliche Überschuldung: Der Senat bestätigt, dass im Überschuldungsstatus nicht
 die handelsbilanziellen Buchwerte, sondern Liquidations- bzw. Zerschlagungswerte anzusetzen
 sind. Ab Rn. 17 führt der BGH aus, dass bei negativer Fortbestehensprognose auch stille
 Reserven und immaterielle Vermögensgegenstände zu Zerschlagungswerten zu bewerten sind;
 HGB-Ansätze sind insoweit irrelevant.
 
-**BGH, Urt. v. 19.02.2013 – II ZR 56/12, BGHZ 195, 42**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Abgrenzung handelsbilanzieller vs. insolvenzrechtlicher Überschuldung: Eine negative
 Handelsbilanz indiziert zwar eine mögliche insolvenzrechtliche Überschuldung, begründet sie
 aber nicht zwingend. Umgekehrt schließt ein positives Eigenkapital in der Handelsbilanz
 eine insolvenzrechtliche Überschuldung nicht aus, wenn die Vermögensgegenstände zu
 Fortführungswerten überhöht aktiviert sind.
 
-**BGH, Urt. v. 05.03.2020 – IX ZR 195/19, NJW 2020, 1728 Rn. 20 ff.**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Qualifizierter Rangrücktritt: Nur ein qualifizierter Rangrücktritt, der die Erfüllung der
 Forderung ausdrücklich auf das freie, die sonstigen Verbindlichkeiten übersteigende
 Vermögen beschränkt, bewirkt das Ausscheiden der Forderung aus dem Überschuldungsstatus
 gem. § 19 Abs. 2 Satz 2 InsO. Ein einfacher (nicht qualifizierter) Rangrücktritt genügt
 nicht; die Verbindlichkeit ist dann weiterhin als Passivposten anzusetzen.
 
-### Literatur
+### Quellen (nur verifiziert)
 
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 19 Rn. 1 ff., 42 ff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
   (umfassend zur Prüfungsreihenfolge, zum modifizierten Überschuldungsbegriff und zur
   Behandlung nachrangiger Verbindlichkeiten)
-- Drukarczyk/Schüler, in: MüKo InsO, 4. Aufl. 2019, § 19 Rn. 55 ff., 100 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   (Bewertungsmethodik Liquidationswerte, Gesellschafterdarlehen, Pensionsrückstellungen)
 - Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 19 Rn. 10 ff.
   (Überblick SanInsFoG-Änderungen, Prognosezeitraum)
@@ -244,27 +244,27 @@ Ausgestaltung) erfolgt.
 **Fehler 1 — HGB-Buchwerte statt Liquidationswerte**
 Der häufigste Fehler: Der Überschuldungsstatus wird mit handelsbilanziellen Buchwerten
 erstellt. Das ist unzulässig. Bei negativer Fortbestehensprognose sind ausnahmslos
-Zerschlagungswerte anzusetzen (BGH IX ZR 290/14, NJW 2017, 3373 Rn. 17 ff.;
-Drukarczyk/Schüler, in: MüKo InsO, 4. Aufl. 2019, § 19 Rn. 100 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 **Fehler 2 — Einfacher statt qualifizierter Rangrücktritt bei Gesellschafterdarlehen**
 Ein Gesellschafterdarlehen mit einfachem Rangrücktritt bleibt Passivposten im
 Überschuldungsstatus. Nur der qualifizierte Rangrücktritt (Erfüllung ausschließlich
 aus freiem, die übrigen Verbindlichkeiten übersteigendem Vermögen) führt gem.
-§ 19 Abs. 2 Satz 2 InsO zum Herausfallen aus der Passivseite (BGH IX ZR 195/19,
-NJW 2020, 1728 Rn. 20 ff.; Mock, in: Uhlenbruck InsO, 16. Aufl. 2024, § 19 Rn. 130 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 **Fehler 3 — Mangelhafte Fortbestehensprognose ohne Plausibilisierung**
 Eine Fortbestehensprognose, die sich auf pauschale Hoffnungen oder ungesicherte
 Finanzierungsabsichten stützt, ist rechtlich wertlos. Erforderlich sind integrierte
 Finanzplanungen mit nachvollziehbaren Annahmen, die einer Plausibilitätsprüfung
-standhalten (BGH II ZR 151/09, NZG 2010, 1393 Rn. 12 ff.; IDW S 11 Tz. 56 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Fehler 4 — Pensionsrückstellungen und latente Steuern falsch angesetzt**
 Pensionsrückstellungen sind versicherungsmathematisch (nicht nach HGB-Abzinsung) zu
 bewerten. Latente Steueransprüche sind nur insoweit aktivierbar, als sie bei Liquidation
 tatsächlich realisierbar sind; latente Steuerschulden aus stillen Reserven müssen passiviert
-werden (Drukarczyk/Schüler, in: MüKo InsO, 4. Aufl. 2019, § 19 Rn. 110 ff.).
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 **Fehler 5 — Eventualverbindlichkeiten vergessen**
 Bürgschaften, Haftungsübernahmen und sonstige Eventualverbindlichkeiten müssen nach
@@ -280,16 +280,16 @@ vier Monate ist ausgelaufen. Prognosezeitraum-Fehler infizieren die gesamte Prü
 Jede Aussage zu Prüfungsmaßstäben, Bewertungsmethoden oder Rechtsfolgen ist zu belegen.
 Mindeststandard:
 
-- BGH, Urt. v. 27.04.2010 – II ZR 151/09, NZG 2010, 1393 Rn. 12 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anforderungen Fortbestehensprognose)
-- BGH, Urt. v. 12.02.2015 – IX ZR 290/14, NJW 2017, 3373 Rn. 17 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Liquidationswerte im Überschuldungsstatus)
-- BGH, Urt. v. 19.02.2013 – II ZR 56/12, BGHZ 195, 42
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Abgrenzung handels- vs. insolvenzrechtliche Überschuldung)
-- BGH, Urt. v. 05.03.2020 – IX ZR 195/19, NJW 2020, 1728 Rn. 20 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (qualifizierter Rangrücktritt)
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 19 Rn. 1 ff.
-- Drukarczyk/Schüler, in: MüKo InsO, 4. Aufl. 2019, § 19 Rn. 55 ff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 19 Rn. 10 ff.
 - IDW S 11, Stand 2022, Tz. 56 ff.
 

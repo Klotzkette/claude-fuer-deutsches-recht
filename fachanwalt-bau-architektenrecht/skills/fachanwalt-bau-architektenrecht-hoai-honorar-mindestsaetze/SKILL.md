@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze
-description: "HOAI-Honorar fuer Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung pruefen. Normen: HOAI, §§ 650p ff. BGB. Pruefraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung."
+description: "HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung."
 ---
 
 # HOAI-Honorar (nach EuGH-Urteil)
@@ -18,14 +18,14 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 5. Schlussrechnung erstellt?
 6. AG-Einwendungen?
 
-## 2) EuGH-Urteil C-377/17 (Vossloh, 2019)
+## Rechtsprechung live prüfen
 
-> „Die deutschen Mindest- und Hoechstsätze der HOAI verstoßen gegen die Dienstleistungs-Richtlinie."
+> "Die deutschen Mindest- und Hoechstsätze der HOAI verstoßen gegen die Dienstleistungs-Richtlinie."
 
 ### Folgen
 
 - Mindestsätze HOAI 2013 / HOAI 2021 **nicht mehr bindend**
-- BGH, Urt. v. 2.6.2022 — VII ZR 174/19: Auch für Altverträge keine Bindung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Frei vereinbarte Honorare wirksam
 - HOAI gilt als **Orientierungshilfe**, nicht als Pflicht
 
@@ -33,9 +33,9 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 ### Wesentliche Änderungen
 
-- Mindest- und Hoechstsätze als „Orientierungsrahmen"
+- Mindest- und Hoechstsätze als "Orientierungsrahmen"
 - Schriftform-Erfordernis für Honorar **nicht mehr** zwingend (§ 7 I HOAI 2021)
-- Bei fehlender Vereinbarung: **Basishonorarsatz** als „übliche Vergütung" § 632 BGB
+- Bei fehlender Vereinbarung: **Basishonorarsatz** als "übliche Vergütung" § 632 BGB
 
 ### Leistungsbilder
 
@@ -96,7 +96,7 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 ### Frist zur Pruefbarmachung
 
-- AG muss Pruefbarkeit innerhalb **2 Monaten** ruegen (BGH VII ZR 89/22)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Nach Schweigen Fälligkeit fingiert
 
 ## 6) Architektenvertrag § 650p ff. BGB
@@ -156,18 +156,12 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 ## 10) Aktuelle Rechtsprechung — Leitsätze
 
-- BGH, Urt. v. 02.06.2022 — VII ZR 174/19, NJW 2022, 2470 Rn. 22: Nach dem EuGH-Urteil C-377/17 sind die Mindestsätze der HOAI für Verträge mit Unternehmern unionsrechtswidrig und nicht mehr bindend; die Parteien dürfen ein darunter liegendes Honorar wirksam vereinbaren. Bei fehlender Honorarvereinbarung gilt die übliche Vergütung nach § 632 Abs. 2 BGB, die sich am Basishonorarsatz der HOAI orientiert.
-- BGH, Urt. v. 14.07.2022 — VII ZR 89/22, NJW 2022, 3279 Rn. 18: Die Pruefbarkeit der Schlussrechnung ist Fälligkeitsvoraussetzung; unterlassene Pruefbarkeitsruege des AG innerhalb von zwei Monaten führt zu fingierter Fälligkeit — Verzug entsteht ohne weitere Mahnung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
-## 11) Kommentarliteratur
+## Quellenregel
 
-- Locher/Koeble/Frik, Kommentar zur HOAI, 13. Aufl. — maßgebliches Standardwerk
-- Beck'scher Online-Kommentar HOAI — aktuell nach EuGH-Folgeurteil
-- Werner/Pastor, Der Bauprozess, 16. Aufl. — Rn. 700 ff. zu Architektenrecht
-- Grüneberg, BGB, 83. Aufl. — §§ 650p ff. Rn. 1 ff.
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl. — 10. Teil HOAI-Honorarrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## 12) Output-Template Honorarklage (Auszug)
 
 **Adressat**: Landgericht [ORT] — Tonfall sachlich-juristisch

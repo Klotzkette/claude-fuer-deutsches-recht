@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-zusammenfuehren
-description: "Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert ueber `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt."
+description: "Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfähig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert über `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt."
 ---
 
 # Fortbestehensprognose zusammenführen
@@ -16,11 +16,11 @@ description: "Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Pl
 Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfähigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen über den Zwölf-Monats-Horizont mit überwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfähigkeit nach § 17 InsO gerät**. Das bedeutet konkret:
 
 - In jedem Zeitabschnitt der zwölf Monate müssen **mindestens 90 Prozent** der dann fälligen Verbindlichkeiten aus den verfügbaren Mitteln (Liquiditätsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden können.
-- **Vorübergehende Unterdeckungen** über zehn Prozent dürfen höchstens **drei Wochen** dauern und müssen mit überwiegender Wahrscheinlichkeit binnen dieser Frist wieder geschlossen werden (BGH IX ZR 123/04, BGHZ 163, 134).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wenn die Liquiditätsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder über laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
 
-Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditätsplan und seiner Sensitivitaet abzuleiten: über das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
+Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditätsplan und seiner Sensitivitaet abzuleiten: über das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
 
 ## Prüfablauf
 
@@ -147,10 +147,7 @@ prognose-zusammenfassung:
 
 ## Aktuelle Leitentscheidungen — Zusammenfuehren der Prognose
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose Massstab: positiv wenn ueberwiegende Wahrscheinlichkeit (mehr als 50%) der Zahlungsfaehigkeit im gesamten Prognosehorizont (mindestens 12 Monate); alle Bausteine kumulativ zu pruefen.
-- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Dokumentation: Fortbestehensprognose muss zum Zeitpunkt der Aufstellung dokumentiert sein; nachtraegliche Erstellung genuegt nicht fuer Haftungsentlastung des Geschaeftsfuehrers.
-- BGH, Urt. v. 12.02.2007 — II ZR 13/06, NZI 2007, 398 — Sensitivitaetsanalyse: positive Prognose muss auch bei Einzel-Negativ-Szenario noch tragfaehig sein; worst-case-Betrachtung als Pflichtteil einer sorgfaeltigen Prognose.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Ueberschuldungsprognose und StaRUG: nach SanInsFoG zum 01.01.2021 wieder 6-Wochen-Frist bei Ueberschuldung (nach COVID-Aussetzung); Prognose-Ergebnis entscheidet ueber Fristbeginn.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Prognose-Zusammenfuehren
 
@@ -162,8 +159,6 @@ prognose-zusammenfassung:
 2. **Knapp positiv (mit Massnahmen)?** → Massnahmen konkretisieren und terminieren; Sicherheitsmarge pruefen.
 3. **Negativ?** → Sofort `wenn-prognose-negativ-naechste-schritte` ausfuehren; Anwalt einschalten; Antragspflicht pruefen.
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 11, Stand 11/2022 — Ergebnis der Prognose und Dokumentationspflichten.
-- MüKo InsO/Drukarczyk § 19 InsO Rn. 60-100 — Prognose-Zusammenfassung und Ergebnis.
-- Uhlenbruck/Mock § 19 InsO Rn. 50-75 — Massstab der Fortbestehensprognose.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

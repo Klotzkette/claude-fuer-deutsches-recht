@@ -1,6 +1,6 @@
 ---
 name: europarecht-richtlinie-umsetzung
-description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit pruefen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Pruefraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht fuer Verordnungen (europarecht-verordnung-beschluss-soft-law)."
+description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law)."
 ---
 
 # Richtlinie und Umsetzung
@@ -58,10 +58,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 10.04.1984 - 14/83 (Von Colson), EuGHE 1984, 1891 — Richtlinienkonforme Auslegung: nationales Gericht muss nationales Recht soweit moeglich im Licht von Wortlaut und Zweck der Richtlinie auslegen; Pflicht gilt ab Inkrafttreten der Richtlinie, nicht erst nach Umsetzungsfrist.
-- EuGH, Urt. v. 08.10.1996 - C-168/95 (Arcaro), EuZW 1996, 659 — Grenzen richtlinienkonformer Auslegung: kann nicht contra legem erfolgen; keine belastende Wirkung zu Lasten Einzelner aus nicht umgesetzter Richtlinie (kein horizontaler effet utile Strafrecht).
-- EuGH, Urt. v. 19.11.1991 - C-6/90 (Francovich), EuZW 1991, 758 — Staatshaftung bei Nichtumsetzung: qualifizierter Verstoß; Umsetzungspflicht klar; Schaden kausal auf Nichtumsetzung zurueckzufuehren.
-- EuGH, Urt. v. 05.10.2004 - C-397/01 (Pfeiffer), NJW 2004, 3547 — Richtlinienkonforme Auslegung national. Recht: Gericht muss gesamtes nationales Recht beruecksichtigen; auch contra verba legis zumutbar soweit nicht PFleicht des Urteils verletzt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Richtlinienumsetzung
 
@@ -70,11 +67,9 @@ Bevor losgelegt wird, klaere:
 - **Art. 267 AEUV** — Vorabentscheidungsverfahren bei Auslegungsfragen
 - **§ 4a TMG / § 29b UStG etc.** — nationale Umsetzungsgesetze (Bsp. DSGVO-Ergaenzungsgesetze)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Ruffert, in: Calliess/Ruffert, EUV/AEUV, Art. 288 Rn. 1-60 — Richtlinienrecht
-- Grabitz/Hilf/Nettesheim, Art. 288 AEUV Rn. 1-50
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Umsetzungspruefung Richtlinie
 
 **Adressat:** Kanzlei-intern

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-kurzarbeit-kug-progression
-description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt fuer AN. Methodik Pruefung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung."
+description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung."
 ---
 
 # Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression
@@ -63,7 +63,7 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmaessigen Arbeitszeit au
 - Pauschalierte Nettoentgeltdifferenz = Differenz fiktives Netto-Sollentgelt minus Netto-Istentgelt nach KUG-Tabelle der BA.
 - KUG ohne Kind: 60 Prozent der Nettoentgeltdifferenz.
 - KUG mit Kind (mindestens ein Kind nach ELStAM oder zumindest aus Kinderfreibetrag erkennbar): 67 Prozent der Nettoentgeltdifferenz.
-- BBG-Grenze: Sollentgelt nur bis BBG RV (West / Ost — Werte 2026 verifizieren).
+- BBG-Grenze: Sollentgelt nur bis BBG RV; ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen).
 - Pandemie-Sonderaufstockungen (auf 70/77 Prozent ab 4. Monat, 80/87 Prozent ab 7. Monat) sind regulaer ausgelaufen — Anwendung nur bei Sonderverordnung; Stand 2026 pruefen.
 
 ### Phase 4 — Lohnabrechnung
@@ -77,7 +77,7 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmaessigen Arbeitszeit au
 
 - KUG wird im AN-Steuerbescheid in den Progressionsvorbehalt § 32b Abs. 1 Satz 1 Nr. 1 lit. a EStG einbezogen.
 - Hoehere Steuerklassifikation auf die uebrigen Einkuenfte.
-- AN bekommt LSt-Bescheinigung mit "KUG" (in der Regel Zeile 15 — konkrete Zeile bei jedem LSt-Bescheinigungs-Update verifizieren).
+- AN bekommt LSt-Bescheinigung mit "KUG" (in der Regel Zeile 15 — bei LSt-Bescheinigungsmuster-Aenderungen BMF-Schreiben pruefen).
 - Bei Bezug von Lohnersatzleistungen ueber 410 EUR im Kalenderjahr: Veranlagungspflicht des AN gemaess § 46 Abs. 2 Nr. 1 EStG; Steuererklaerung zwingend.
 
 ### Phase 6 — Pflichten AG
@@ -115,3 +115,5 @@ Stand: 05/2026.
 - SGB III §§ 95-109.
 - EStG § 32b.
 - BA-Merkblatt KUG.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BBG RV 2025 96.600 EUR eingesetzt), 1 ersetzt (LSt-Bescheinigungszeile Pruefhinweis ohne Marker) -->

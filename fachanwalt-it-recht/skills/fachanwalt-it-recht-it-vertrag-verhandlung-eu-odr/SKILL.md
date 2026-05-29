@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr
-description: "IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Pruefraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-pruefen."
+description: "IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Prüfraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen."
 ---
 
 # IT-Vertrag-Verhandlung / EU-ODR
@@ -113,10 +113,7 @@ Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schieds
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Kontrolle von IT-Verträgen nach § 307 BGB; Haftungsbeschränkungsklauseln in SaaS-AGB sind am Maßstab des § 309 Nr. 8b BGB zu messen; unangemessene Beschränkung des Nacherfüllungsrechts ist unwirksam.
-- BGH, Urt. v. 15.03.2022 — VIII ZR 1/21, NJW 2022, 1887 Rn. 38: Zur Einbeziehung von AGB in IT-Verträge; AGB müssen klar und verständlich formuliert sein (Transparenzgebot § 307 Abs. 1 Satz 2 BGB); unklare Klauseln gehen zu Lasten des Verwenders.
-- OLG Frankfurt, Urt. v. 17.06.2021 — 14 U 167/20, NJW-RR 2021, 1378 Rn. 22: Zum SLA-Regime in Cloud-Verträgen; Verfügbarkeitsgarantien als Beschaffenheitsvereinbarung (§ 434 Abs. 2 BGB); Unterschreitung begründet Mangel.
-- EuGH, Urt. v. 14.09.2023 — C-632/22 (Symicros), NJW 2024, 88 Rn. 38: Zur Anwendbarkeit der EU-ODR-Plattform bei grenzüberschreitenden IT-Vertragsstreitigkeiten; ODR-Pflicht nach Art. 14 ODR-VO gilt für Online-Händler und Online-Dienstleister im B2C-Bereich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 

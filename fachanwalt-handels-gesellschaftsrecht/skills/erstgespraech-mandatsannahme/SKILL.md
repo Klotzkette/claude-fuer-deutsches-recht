@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht
@@ -156,17 +156,16 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 20.09.2011 — **II ZR 234/09**, NJW-RR 2012, 44 Rn. 14: Im Erstgespräch für Gesellschaftsrechtssachen ist sofort die Anfechtungsfrist zu prüfen; Beschlussanfechtungsklage muss nach § 246 AktG binnen eines Monats erhoben werden; GmbH-analoge Frist beginnt mit Beschlussfassung; bei Nichtprüfung im Erstgespräch entsteht ein Haftungsrisiko für den Anwalt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Düsseldorf, Urt. v. 19.12.2013 — **I-6 U 45/13**, GmbHR 2014, 202 Rn. 16: Interessenkonflikt bei Gesellschaftsrechtsmandaten erfordert sorgfältige Prüfung: Vertretung von Gesellschaft und Geschäftsführer zugleich ist nur zulässig, solange keine gegensätzlichen Interessen bestehen; beim ersten Anzeichen einer Divergenz (z.B. drohende Haftung) muss der Anwalt eines der Mandate niederlegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.10.2019 — **IX ZR 272/18**, NJW 2020, 223 Rn. 12: Anwaltshaftung wegen Fristversäumnis bei Gesellschaftsrechtsmandaten setzt voraus, dass der Mandant im Erstgespräch alle für die Fristenberechnung erforderlichen Tatsachen mitgeteilt hat; Anwalt muss aktiv nach anstehenden Beschlüssen und Fristen fragen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normenkette Erstgespräch HGR
 
 § 246 AktG (Monatsfrist Anfechtungsklage AG) → § 47 GmbHG (analoge Anfechtungsfrist GmbH) → § 15 GmbHG (Anteilsabtretung notariell) → §§ 43a, 45 BRAO (Interessenkonflikt bei GmbH-Gesellschaft + GF) → §§ 3, 3a RVG (Honorarvereinbarung) → §§ 10, 11 GwG (GwG-Pflichten bei GmbH/AG-Mandaten) → § 15a InsO (Insolvenzantragspflicht — im Erstgespräch auf Krisensignale prüfen)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Hüffer/Koch, AktG, 16. Aufl. 2024, § 246: Anfechtungsklage; Frist und Fristversäumnis.
-- Baumbach/Hueck, GmbHG, 23. Aufl. 2022, § 47: GmbH-analoge Anfechtungsklage; Fristen im Mandatsalltag.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

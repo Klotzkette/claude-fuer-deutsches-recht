@@ -32,7 +32,7 @@ Dieses Plugin strukturiert Geldwäscheprävention, AML/CFT, KYC, Sanktions-Compl
 
 ## Quellenprotokoll
 
-Jede Ausgabe mit rechtlicher Außenwirkung enthält: Quelle, URL, Abrufdatum, geprüfte Aussage, betroffene Pflicht, Unsicherheitsgrad und Folgehandlung. Wenn keine Live-Recherche möglich ist, steht sichtbar: „Nicht live geprüft; Freigabe nur nach Quellenaktualisierung.“
+Jede Ausgabe mit rechtlicher Außenwirkung enthält: Quelle, URL, Abrufdatum, geprüfte Aussage, betroffene Pflicht, Unsicherheitsgrad und Folgehandlung. Wenn keine Live-Recherche möglich ist, steht sichtbar: "Nicht live geprüft; Freigabe nur nach Quellenaktualisierung."
 
 ## Trefferlog
 

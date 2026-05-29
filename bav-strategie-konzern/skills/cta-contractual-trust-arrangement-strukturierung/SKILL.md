@@ -1,6 +1,6 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "CTA-Struktur fuer Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Pruefraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich)."
+description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich)."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
@@ -18,22 +18,17 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 4 BetrAVG (Übertragung Versorgungsanwartschaft)
 - §§ 328 ff. BGB (Vertrag zugunsten Dritter — Grundlage der Begünstigungsstruktur)
 - §§ 35–37 InsO (Insolvenzfestigkeit — aussonderungsfähiges Treuhandgut)
-- BAG 22.09.2020 — 3 AZR 303/18 (CTA-Grundsatzentscheidung: Anforderungen an Insolvenzfestigkeit des Treuhandvermögens; Sicherungstreuhand muss echte dingliche Übereignung enthalten)
-- BAG 15.4.2014 — 3 AZR 51/12 (Folge-Entscheidung CTA — Verwaltungstreuhand-Anforderungen)
-- BFH 16.12.2014 — VIII R 45/12 (Steuerliche Anerkennung CTA)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 903, 929 ff. BGB (Übereignung Treuhandvermögen)
 - IORP II Art. 18–19 (Ring-Fencing bei EbAV)
-- BAG 18.02.2020 — 3 AZR 206/18 (Pensions-Treuhand: Valutaverpflichtung des Arbeitgebers bleibt bei CTA bestehen; Treuhänder tritt neben, nicht anstelle des Arbeitgebers)
-- BGH 25.01.2023 — II ZR 105/21 (Treuhandvermögen Insolvenzfestigkeit: dingliche Übereignung bei Sicherungstreuhand ist aussonderungsfähig gem. § 47 InsO)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 1 BetrAVG Rn. 50 ff. (CTA-Strukturen und Insolvenzschutz)
-- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 1 Rn. 300 ff. (Contractual Trust Arrangements)
-- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, Anhang (CTA-Dokumentation und Bilanzierung)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Entscheidung für CTA-Strukturierung
@@ -51,7 +46,7 @@ Die von Treuenfels Yamamoto entwickelte Standardstruktur basiert auf einem **Dop
 
 **Schicht 1 — Sicherungstreuhand (Treugeber = Arbeitgeber → Treuhänder):**
 - Arbeitgeber übereignet Vermögenswerte (Wertpapiere, Bankguthaben, Immobilien) an Treuhänder (z.B. Konzerngesellschaft als Treuhänder oder externe Treuhandgesellschaft)
-- Übereignung ist dinglich wirksam (§§ 929, 398 BGB) — entscheidend für Insolvenzfestigkeit (BAG, Urt. v. 22.09.2020 — 3 AZR 303/18)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Treuhänder hält Vermögen als Sicherungstreuhänder zugunsten der Versorgungsberechtigten
 
 **Schicht 2 — Verwaltungstreuhand (Treuhänder → Begünstigte):**
@@ -59,9 +54,9 @@ Die von Treuenfels Yamamoto entwickelte Standardstruktur basiert auf einem **Dop
 - Bei Insolvenz des Arbeitgebers: Versorgungsberechtigte können Aussonderung des Treuhandvermögens aus Insolvenzmasse verlangen (§ 47 InsO)
 - Treuhänder verwaltet Vermögen nach Investment Policy Statement (IPS)
 
-### Schritt 3: Anforderungen BAG, Urt. v. 22.09.2020 — 3 AZR 303/18 (Insolvenzfestigkeit)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Das BAG hat in der CTA-Grundsatzentscheidung vom 22.09.2020 (3 AZR 303/18) folgende Kernvoraussetzungen für die Insolvenzfestigkeit eines CTA aufgestellt:
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. **Dingliche Übertragung:** Das Vermögen muss dinglich auf den Treuhänder übertragen sein — schuldrechtliche Zweckbindung allein genügt nicht.
 2. **Unwiderrufliche Drittbegünstigung:** Die Versorgungsberechtigten müssen als unwiderruflich Begünstigte im Treuhandvertrag genannt sein — der Arbeitgeber darf das Treuhandvermögen nicht ohne Zustimmung der Berechtigten zurückfordern können.
@@ -74,7 +69,7 @@ Das BAG hat in der CTA-Grundsatzentscheidung vom 22.09.2020 (3 AZR 303/18) folge
 **HGB (§ 246 Abs. 2 S. 2 HGB):**
 Voraussetzungen für Saldierung:
 - Vermögensgegenstände ausschließlich zur Erfüllung von Schulden aus Versorgungsleistungen bestimmt (Zweckbindung)
-- Dem Zugriff aller übrigen Gläubiger entzogen (Insolvenzfestigkeit gem. BAG, Urt. v. 22.09.2020 — 3 AZR 303/18)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Saldierung erfolgt mit Rückstellungen (nicht mit anderen Verbindlichkeiten)
 - Grundsatz: Saldierung zum beizulegenden Zeitwert (§ 253 Abs. 1 S. 3 HGB); Rückstellungen bleiben nach § 253 Abs. 2 HGB abgezinst
 
@@ -98,11 +93,11 @@ TREUHANDVERTRAG
 
 zwischen
 
-[Konzern Muster AG], Düsseldorf (nachfolgend „Treugeber")
+[Konzern Muster AG], Düsseldorf (nachfolgend "Treugeber")
 
 und
 
-[Konzern Pension Treuhand GmbH], Düsseldorf (nachfolgend „Treuhänder")
+[Konzern Pension Treuhand GmbH], Düsseldorf (nachfolgend "Treuhänder")
 
 Präambel
 Der Treugeber hat gegenüber seinen Arbeitnehmern Versorgungszusagen im Rahmen
@@ -112,7 +107,7 @@ vermögen sicherzustellen (Contractual Trust Arrangement — CTA).
 
 § 1 Gegenstand und Zweck
 (1) Der Treugeber überträgt dem Treuhänder hiermit dinglich und unwiderruflich
-Vermögenswerte (nachfolgend „Treuhandvermögen") gemäß Anlage 1 zum alleinigen
+Vermögenswerte (nachfolgend "Treuhandvermögen") gemäß Anlage 1 zum alleinigen
 Zweck der Sicherung und künftigen Erfüllung der in Anlage 2 bezeichneten
 Versorgungsverpflichtungen des Treugebers gegenüber seinen Versorgungsberechtigten
 (§ 17 Abs. 1 BetrAVG).
@@ -148,7 +143,7 @@ unmittelbar zur Erfüllung der Versorgungsansprüche der Versorgungsberechtigten
 zu verwenden. Weisungen des Insolvenzverwalters des Treugebers, die dem
 Treuhandzweck zuwiderlaufen, sind unwirksam.
 (3) Diese Insolvenzfestigkeits-Regelungen entsprechen den Anforderungen aus
-BAG 22.09.2020 — 3 AZR 303/18.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 § 5 Kapitalanlage (Investment Policy Statement)
 (1) Der Treuhänder legt das Treuhandvermögen nach Maßgabe des Investment Policy
@@ -229,11 +224,11 @@ IAS 19 — plan asset:
 
 ## Fallstricke
 
-1. **Nur schuldrechtliche Zweckbindung genügt nicht (BAG, Urt. v. 22.09.2020 — 3 AZR 303/18):** Rein vertragliche Bindungen ohne dingliche Übertragung schaffen kein insolvenzfestes Treuhandvermögen. Häufiger Fehler bei „einfachen" CTA-Gestaltungen älterer Prägung.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. **Rückübertragungsrechte gefährden plan asset-Status:** Zu weitgehende Rückrufrechte des Arbeitgebers können zur Versagung des plan asset-Status durch IAS 19 führen. Standard: Rückübertragung nur bei Überschuss und mit Treuhandausschuss-Zustimmung.
 
-3. **Steuerliche Anerkennung (BFH VIII R 45/12):** Der BFH hat bestimmte CTA-Strukturen steuerlich als transparente Gestaltung behandelt, sodass Erträge beim Arbeitgeber zu versteuern sind. Gestaltung muss steuerlich sorgfältig aufgebaut sein.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. **Interessenkonflikte konzerneigener Treuhänder:** Ist der Treuhänder eine Konzerngesellschaft, ist die Unabhängigkeit sorgfältig zu dokumentieren, um den IFRS plan asset-Status nicht zu gefährden.
 

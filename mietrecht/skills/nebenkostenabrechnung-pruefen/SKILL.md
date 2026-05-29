@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-pruefen
-description: Mietersicht — pruefe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefaehigkeit nach BetrKV Verteilerschluessel rechnerische Richtigkeit Belegrecht (§ 259 BGB) und Einhaltung der HeizkostenV. Erzeugt einen Rueckfrage- oder Beanstandungsbrief mit Berechnung des etwaigen Guthabens. Disclaimer am Anfang und vor jedem Schreiben.
+description: Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische Richtigkeit Belegrecht (§ 259 BGB) und Einhaltung der HeizkostenV. Erzeugt einen Rückfrage- oder Beanstandungsbrief mit Berechnung des etwaigen Guthabens. Disclaimer am Anfang und vor jedem Schreiben.
 ---
 
 # Nebenkostenabrechnung prüfen (Mietersicht)
@@ -57,18 +57,12 @@ Erzeuge ein Rückfrage- oder Beanstandungsschreiben mit:
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756 Rn. 22: Belegeinsichtsverlangen des Mieters ist berechtigt; Vermieter muss Originalbelege oder beglaubigte Kopien vorlegen; unvollstaendige Belegvorlage berechtigt zur Einwendung gegen die Abrechnung.
-- BGH, Urt. v. 22.11.2023 — VIII ZR 94/22, NJW 2024, 512 Rn. 25: Formell unwirksame Nebenkostenabrechnung loest keine Nachzahlungspflicht aus; Nachforderungsfrist nach § 556 Abs. 3 Satz 3 BGB laeuft trotzdem ab.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
 § 556 Abs. 3 BGB — Abrechnungsfrist und Einwendungsfrist; BetrKV — Umlagefaehigkeit
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 556 BGB Rn. 1 ff.
-- BeckOK Mietrecht — § 556 BGB Betriebskostenpruefung
-
----
-<!-- AUDIT 27.05.2026 -->
-<!-- BGH VIII ZR 291/21 (claimed: Urt. 07.12.2022, NJW 2023, 745 Rn. 18, Einwendungsfrist 12 Monate / Anspruchsverlust): NOT_FOUND auf dejure.org. Halluziniertes Urteil entfernt. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

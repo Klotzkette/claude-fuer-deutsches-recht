@@ -1,18 +1,27 @@
 # Testakte Verkehrs- und Infrastrukturrecht: Straßenbahn Linie 7, Ladezonen und Schulwegsicherheit
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen` (diese Akte) | [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für eine Mittelstadt (Stadt Friedrichshöfe, ca. 220.000 Einwohner) mit komplexem Verkehrsinfrastrukturvorhaben: Verlängerung der Straßenbahnlinie 7 (Westast), Einrichtung von Ladezonen für Wirtschaftsverkehr und E-Mobilität, Anpassung der Parkraumbewirtschaftung sowie verkehrsberuhigende Maßnahmen zur Schulwegsicherheit.
 
 ---
 
 ## Sachverhalt
 
-Die Stadt Friedrichshöfe plant seit 2023 die Verlängerung der Straßenbahnlinie 7 um rund 3,2 Kilometer in Richtung des neuen Stadtquartiers „Westpark" sowie des bestehenden Gewerbeparks Siemensring. Der Stadtrat hat im Herbst 2024 beschlossen, das Planfeststellungsverfahren nach § 28 PBefG i.V.m. dem Landesstraßenbahngesetz einzuleiten und die Verkehrsbetriebe Friedrichshöfe GmbH (VBF) mit der Erarbeitung der Planunterlagen zu beauftragen. Parallel wurde das Planungsamt der Stadt mit der Koordination der begleitenden Maßnahmen betraut. Drei Trassenvarianten (A, B und C) wurden im Rahmen einer Vorplanung entwickelt; Variante B wurde als Vorzugsvariante in die weiteren Planungen eingebracht, da sie den geringsten Eingriff in geschützte Baumreihen aufweist, wenngleich ein Grunderwerb von rund 1.400 m² im Bereich Kleingartenparzelle 7/12 erforderlich ist.
+Die Stadt Friedrichshöfe plant seit 2023 die Verlängerung der Straßenbahnlinie 7 um rund 3,2 Kilometer in Richtung des neuen Stadtquartiers "Westpark" sowie des bestehenden Gewerbeparks Siemensring. Der Stadtrat hat im Herbst 2024 beschlossen, das Planfeststellungsverfahren nach § 28 PBefG i.V.m. dem Landesstraßenbahngesetz einzuleiten und die Verkehrsbetriebe Friedrichshöfe GmbH (VBF) mit der Erarbeitung der Planunterlagen zu beauftragen. Parallel wurde das Planungsamt der Stadt mit der Koordination der begleitenden Maßnahmen betraut. Drei Trassenvarianten (A, B und C) wurden im Rahmen einer Vorplanung entwickelt; Variante B wurde als Vorzugsvariante in die weiteren Planungen eingebracht, da sie den geringsten Eingriff in geschützte Baumreihen aufweist, wenngleich ein Grunderwerb von rund 1.400 m² im Bereich Kleingartenparzelle 7/12 erforderlich ist.
 
-Im Zuge des Planfeststellungsverfahrens wurden in der öffentlichen Auslegung (März/April 2026) zahlreiche Einwendungen erhoben. Anwohnerinnen und Anwohner der Gartenstraße rügen Lärmimmissionen, den Verlust von elf Stellplätzen sowie ein vermeintlich unzureichendes Beteiligungsverfahren. Die Bürgerinitiative „Westpark lebenswert e.V." fordert ergänzend eine vollständige Umweltverträglichkeitsprüfung und zweifelt an der Zuständigkeit der Bezirksregierung Westmark als Planfeststellungsbehörde. Der Erörterungstermin ist für Oktober 2026 geplant; mit dem Planfeststellungsbeschluss wird frühestens im ersten Quartal 2027 gerechnet.
+Im Zuge des Planfeststellungsverfahrens wurden in der öffentlichen Auslegung (März/April 2026) zahlreiche Einwendungen erhoben. Anwohnerinnen und Anwohner der Gartenstraße rügen Lärmimmissionen, den Verlust von elf Stellplätzen sowie ein vermeintlich unzureichendes Beteiligungsverfahren. Die Bürgerinitiative "Westpark lebenswert e.V." fordert ergänzend eine vollständige Umweltverträglichkeitsprüfung und zweifelt an der Zuständigkeit der Bezirksregierung Westmark als Planfeststellungsbehörde. Der Erörterungstermin ist für Oktober 2026 geplant; mit dem Planfeststellungsbeschluss wird frühestens im ersten Quartal 2027 gerechnet.
 
 Parallel zur Straßenbahnplanung erarbeitet das Planungsamt ein Wirtschaftsverkehrs- und Ladeszonenkonzept für die Innenstadt. Hintergrund ist die dramatische Zunahme von Lieferverkehren und das weitgehend ungeordnete Halten in zweiter Reihe im Bereich Marktstraße und Siemensring. Das Konzept sieht zeitlich beschränkte Ladezonen (täglich 07:00–11:00 Uhr), eine Handwerkerladezone am Gewerbepark sowie eine kombinierte Hol- und Bringzone vor der Schule Nord vor. Gleichzeitig treibt das kommunale Stadtwerk Friedrichshöfe (SWF) in Kooperation mit einem privaten Charge Point Operator (CPO) den Aufbau von 16 AC-Ladepunkten und 4 DC-Schnellladern auf öffentlichen Flächen voran; die Betreiberstruktur und die Fragen der Sondernutzungserlaubnis für Gehwegflächen sind noch nicht abschließend geklärt.
 
-Ein weiterer Schwerpunkt ist die Schulwegsicherheit. Nach einem Beinahe-Unfall vor der Grundschule Nord im September 2025 hat die Polizeiinspektion Friedrichshöfe eine formelle Gefahrenmeldung erstattet und die Einrichtung einer Tempo-30-Zone sowie einer baulichen Querungshilfe empfohlen. Das Planungsamt hat in Abstimmung mit dem Ordnungsamt und dem Schulträger einen Maßnahmenkatalog erarbeitet, der nun in einer Beschlussvorlage für den Stadtrat zusammengefasst wird. Die Finanzierung soll über das Bundesförderprogramm „Sicherer Schulweg" beantragt werden.
+Ein weiterer Schwerpunkt ist die Schulwegsicherheit. Nach einem Beinahe-Unfall vor der Grundschule Nord im September 2025 hat die Polizeiinspektion Friedrichshöfe eine formelle Gefahrenmeldung erstattet und die Einrichtung einer Tempo-30-Zone sowie einer baulichen Querungshilfe empfohlen. Das Planungsamt hat in Abstimmung mit dem Ordnungsamt und dem Schulträger einen Maßnahmenkatalog erarbeitet, der nun in einer Beschlussvorlage für den Stadtrat zusammengefasst wird. Die Finanzierung soll über das Bundesförderprogramm "Sicherer Schulweg" beantragt werden.
 
 Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzierungsgesetz (GVFG-Bundesprogramm), eine ergänzende Landesförderung sowie Eigenmittel der Stadt. Für die Ladeinfrastruktur wird zusätzlich die THG-Quotenvermarktung durch das Stadtwerk als Refinanzierungsinstrument geprüft. Die Vergabe der Planungsleistungen für den Straßenbahnausbau ist ab einem geschätzten Nettoauftragswert von rund 2,3 Mio. Euro europaweit nach VgV auszuschreiben; die Vorbereitung der Vergabeunterlagen und die Dokumentation nach § 8 VgV sind Gegenstand des Unterordners 08.
 
@@ -47,7 +56,7 @@ Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzi
 | **Stadtwerk Friedrichshöfe GmbH (SWF)** | Betreiberin/Mitantragstellerin Ladeinfrastruktur, THG-Quote |
 | **Bezirksregierung Westmark** | Planfeststellungsbehörde nach § 28 PBefG |
 | **Landesbetrieb Straßen NRW-West** | Träger öffentlicher Belange (TÖB), Stellungnahme Straßenrecht |
-| **Bürgerinitiative „Westpark lebenswert e.V."** | Einwenderin, Klägerin in spe |
+| **Bürgerinitiative "Westpark lebenswert e.V."** | Einwenderin, Klägerin in spe |
 | **Anwohner Gartenstraße** | Einwendeführer (Lärm, Stellplätze) |
 | **Grundschule Nord / Schulträger** | Betroffener wegen Schulwegsicherheit |
 | **Polizeiinspektion Friedrichshöfe** | TÖB, Gefahrenmeldung Schulweg |

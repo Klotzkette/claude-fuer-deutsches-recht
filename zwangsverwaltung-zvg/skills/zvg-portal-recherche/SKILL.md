@@ -1,6 +1,6 @@
 ---
 name: zvg-portal-recherche
-description: "Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal fuer Investoren und Glaeubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Glaeubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Pruefraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme."
+description: "Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme."
 ---
 
 # ZVG-Portal-Recherche
@@ -54,18 +54,15 @@ Führt eine belegbare Recherche im amtlichen ZVG-Portal durch und macht daraus e
 
 ## Ergänzende Rechtsprechung
 
-- BGH, Beschl. v. 02.12.2010 - IX ZB 120/09, NZI 2011, 108 Rn. 9 — Grundbuchrecherche ist Pflicht des Zwangsverwalters vor Besitzerlangung; der aktuelle Grundbuchstand (Abt. I II III) muss bekannt sein, um Mieterschutz-Rechte und Belastungen korrekt zu berücksichtigen.
-- BFH, Urt. v. 14.09.2011 - XI R 7/09, NZI 2012, 18 — Für die steuerrechtliche Einordnung der Zwangsverwaltungseinnahmen ist die Einsicht in das Grundbuch und die Prüfung etwaiger Umsatzsteuer-Optionen des Schuldners Grundvoraussetzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Portal-Recherche
 
 § 12 GBO (Einsicht Grundbuch) → § 14 GBO (berechtigtes Interesse) → § 2 ZVG (Vollstreckungsgericht) → § 750 ZPO (vollstreckbarer Titel) → §§ 899-900 BGB (Grundbucheinsicht und Wirkung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Demharter GBO 32. Aufl., § 12 Rn. 10-30 (Einsicht Grundbuch)
-- Stöber ZVG 22. Aufl., Vor § 146 Rn. 10-25 (Voraussetzungen Zwangsverwaltung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Recherche-Checkliste Zwangsverwaltung
 
 | Quelle | Inhalt | Beschaffen |

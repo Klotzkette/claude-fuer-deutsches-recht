@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-adhaesionsverfahren
-description: "Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Pruefraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verstaendigung § 257c StPO."
+description: "Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO."
 ---
 
 # Adhäsionsverfahren im Strafverfahren
@@ -49,12 +49,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH 2 StR 120/20 | BGH, 11.11.2020 | Absehen von Entscheidung im Adhäsionsverfahren (§ 406 Abs. 1 S. 3 StPO) erfordert konkrete Darlegung, warum Entscheidung das Strafverfahren wesentlich verzögern würde |
-| BGH 4 StR 393/17 | BGH, 07.12.2017 | Adhäsionsvergleich nach § 405 StPO ist tauglicher Vollstreckungstitel nach § 794 Abs. 1 Nr. 1 ZPO auch wenn Angeklagter nach Protokoll nur „Vergleich schlossen" |
-| BGH 2 StR 304/15 | BGH, 18.11.2015 | Schmerzensgeldhoehe im Adhäsionsverfahren: Strafgericht ist an Zivilrechtsprechung nicht gebunden; Tendenz zu niedrigeren Beträgen |
-| OLG Köln 2 Ws 440/18 | OLG Köln, 2018 | Berufung im Adhäsionsverfahren (§ 406a StPO): auf den Adhäsionsausspruch beschränkte Berufung ist zulässig |
-| BGH 1 StR 587/14 | BGH, 07.05.2015 | § 46a StGB setzt auf Seiten des Täters ernsthafte Bemühung um Ausgleich voraus; reine Zahlung genügt nicht immer |
-| BGH 6 StR 382/21 | BGH, 08.02.2022 | Bei Gesamtschuldnern im Strafverfahren ist Adhäsionsantrag gegen jeden Mittäter gesondert zu richten; § 830 BGB gilt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -230,11 +225,9 @@ des Strafprozesses sprengt.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Adhäsion verzögert das Strafverfahren" | § 406 Abs. 1 S. 3 StPO erlaubt Absehen nur wenn wesentliche Verzögerung nachgewiesen; BGH 2 StR 120/20: bloße Komplexität reicht nicht |
-| „Schmerzensgeldtabellen gelten nicht im Strafgericht" | Strafgerichte orientieren sich an Zivilrechtsprechung; BGH 2 StR 304/15: keine Bindung, aber vergleichbare Maßstäbe sind sachgerecht |
-| „Vergleich nach § 405 StPO ist kein rechtssicherer Titel" | BGH 4 StR 393/17 bestätigt Vollstreckbarkeit nach § 794 Abs. 1 Nr. 1 ZPO; Protokollierung entscheidend |
-| „Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
-| „Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
+| "Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
 
 ---
 
@@ -259,7 +252,7 @@ des Strafprozesses sprengt.
 | Hohe Schadensummen in Betrugsfall | Adhäsion kombinieren mit Verbleib im Strafverfahren für Bindungswirkung zur Tatbegehung |
 | Angeklagter ist insolvent | Adhäsion trotzdem beantragen; § 302 InsO schließt Restschuldbefreiung aus; Titel 30 Jahre vollstreckbar |
 | Gericht neigt zu § 406-Absehen | Beweise vorab vollständig vorlegen; Komplexität minimieren; Schmerzensgeld pauschal schätzen lassen |
-| Mittäter haften gesamtschuldnerisch | Adhäsionsanträge gegen jeden Mittäter separat (§ 830 BGB); BGH 6 StR 382/21 beachten |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -274,4 +267,4 @@ des Strafprozesses sprengt.
 
 ## Quellen
 
-StPO §§ 403–406c, 472a. StGB §§ 46, 46a. BGB §§ 249–253, 823–826, 830. ZPO §§ 287, 704, 794. InsO § 302. SGB X § 116. BGH 2 StR 120/20 (Absehen § 406). BGH 4 StR 393/17 (Vollstreckungstitel § 405). BGH 2 StR 304/15 (Schmerzensgeld Adhäsion). BGH 1 StR 587/14 (§ 46a StGB). BGH 6 StR 382/21 (Gesamtschuldner). Hacks/Wellner/Häcker, Schmerzensgeldbeträge (aktuelle Auflage). Slizyk, Beck'sche Schmerzensgeldtabelle. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

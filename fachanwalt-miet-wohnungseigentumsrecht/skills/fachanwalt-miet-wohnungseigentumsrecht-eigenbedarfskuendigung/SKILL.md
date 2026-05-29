@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung
-description: "Eigenbedarfs-Kuendigung § 573 II Nr. 2 BGB. Berechtigtes Interesse Vermieter Familie Haushaltsangehoerige. Kuendigungsfristen § 573c BGB 3-9 Monate. Vortaeuschung Schadensersatz BGH VIII ZR 6/19. Sozial-Klausel § 574 BGB. Workflow Kuendigungs-Schreiben Klage Verteidigung."
+description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
@@ -79,8 +79,7 @@ Berechnung: vom 3. Werktag des Monats
 ### Folgen
 
 - **Schadensersatz** an Mieter (Umzugskosten, höhere Folgemiete, Renovierung)
-- BGH, Urt. v. 29.3.2017 — VIII ZR 6/19: erstattbare Schäden über Umzugskosten hinaus
-- BGH, Urt. v. 11.10.2016 — VIII ZR 300/15
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beweislast
 
@@ -149,9 +148,7 @@ Berechnung: vom 3. Werktag des Monats
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 29.3.2017 — VIII ZR 6/19 (Vortaeuschung)
-- BGH, Urt. v. 15.03.2017 — VIII ZR 270/15 (Begruendungs-Tiefe Eigenbedarfskuendigung: Angabe der Bedarfs-Person und deren Interesse genuegt; kein Detailnachweis erforderlich; NJW 2017, 1474)
-- BGH, Urt. v. 11.5.2022 — VIII ZR 304/21 (Sozial-Klausel)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -160,7 +157,6 @@ Berechnung: vom 3. Werktag des Monats
 - `mietrecht/skills/klageentwurf-amtsgericht` — Klage-Erstellung
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 89/22 entfernt: Aktenzeichen nicht auf dejure.org auffindbar.
 Ersatz: BGH VIII ZR 270/15 (15.03.2017, NJW 2017, 1474) — verifiziert auf dejure.org;
 betrifft Begruendungsanforderungen der Eigenbedarfskuendigung (Begründungs-Tiefe), inhaltlich passend.
 -->

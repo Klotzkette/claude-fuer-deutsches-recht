@@ -1,6 +1,6 @@
 ---
 name: sozialgericht-zustaendigkeit-51-sgg
-description: "Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklaert. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zustaendig und wann nicht."
+description: "Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht."
 ---
 
 # Welche Streitigkeiten gehoeren vor das Sozialgericht?

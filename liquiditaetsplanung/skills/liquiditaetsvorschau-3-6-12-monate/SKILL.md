@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3-6-12-monate
-description: "Rollierende Liquiditätsvorschau über 13/26/52 Wochen für GmbH/UG/AG. Erstellt zwingend eine Excel-Tabelle nach der hinterlegten Vorlage und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt, das mit jeder Folgemeldung aktualisiert wird. Wendet das BGH-Schema (BGHZ 217 Rn 129 Passiva II; BGHZ 163 Rn 134 10-%-Schwelle/3-Wochen-Horizont) wochenaktuell zum Freitag an und stellt die Lücke zu den offenen Forderungen ins Verhältnis. Fortführungsprognose § 19 InsO mit IDW S 6/S 11 nur als Hintergrundmaßstab. Memo nur auf ausdrückliche Anfrage."
+description: "Rollierende Liquiditaetsvorschau fuer 3/6/12 Monate mit Fortfuehrungsprognose, Wochenraster, Excel-Export und Quellenhygiene. Rechtsprechung nur nach Live-Pruefung."
 ---
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)
@@ -17,9 +17,9 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
 2. **Automatische Insolvenzreife-Ampel** für jede Woche:
    - **Grün**: Liquide Mittel > 110 % der in der Folgewoche fällig werdenden Verbindlichkeiten.
    - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
-   - **Rot (Zahlungsunfähigkeit § 17 InsO)**: Lücke ≥ 10 % und nicht innerhalb von 3 Wochen schließbar (st. Rspr. BGH BGHZ 163, 134 Rn. 12 ff.).
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis „positive Fortführungsprognose" / „negative Fortführungsprognose" mit Begründung.
+3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis "positive Fortführungsprognose" / "negative Fortführungsprognose" mit Begründung.
 
 4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert. Das Skript läuft mit reiner Python-Standardbibliothek — kein `pip install` nötig. PyYAML wird automatisch erkannt, sonst kommt ein eingebauter Mini-YAML-Parser zum Einsatz.
 
@@ -76,25 +76,21 @@ Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanal
 
 ### Leitentscheidungen (Volltexte im Plugin: `references/rechtsprechung/`)
 
-1. BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 — Passiva II zwingend einzubeziehen; Absage an die Bugwellentheorie; Symmetrieargument; Substantiierungslast des bestreitenden Geschäftsführers; Volumeneffekt der Quote.
-2. BGH, Urt. v. 28.06.2022 – II ZR 112/21, ZIP 2022, 1606 — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus zulässig (Bugwellenrechtsprechung).
-3. BGH, Urt. v. 28.04.2022 – IX ZR 48/21, ZIP 2022, 1341 — Bestätigung der 10-%-Schwelle und der geordneten Gegenüberstellung.
-4. BGH, Urt. v. 23.01.2025 – IX ZR 229/22, DB 2025, 381 — titulierte Forderungen in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet ist.
-5. BGH, Urt. v. 11.03.2025 – II ZR 139/23 — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; materieller Bestand der Verbindlichkeit maßgeblich.
-6. BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12–19 — Grundsatzentscheidung: Liquiditätslücke ≥ 10 % und nicht binnen 3 Wochen schließbar; Abgrenzung zur Zahlungsstockung.
-7. BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NJW 2007, 78 Rn. 16–22 — Indizienkatalog der Zahlungsunfähigkeit.
-8. BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 Rn. 17 ff. — Fortbestehensprognose nach § 19 Abs. 2 InsO: tragfähiges Unternehmenskonzept und Finanzplan; Maßstab überwiegende Wahrscheinlichkeit.
-9. BGH, Urt. v. 09.10.2012 – II ZR 298/11, BGHZ 195, 42 Rn. 12–18 — Maßgeblich ist die insolvenzrechtliche, nicht die handelsbilanzielle Überschuldung; Fortführungs- vs. Liquidationswerte je nach Prognose.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+8. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+9. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Zitierweise: Pinpoint mit Randnummer; jüngere BGH-Entscheidungen zuerst; keine US-stare-decisis-Logik; keine pretrial discovery.
 
-### Kommentarliteratur (im Bearbeiterstil)
+### Quellenregel
 
-1. *K. Schmidt/Herchen*, in: K. Schmidt, Insolvenzordnung, 20. Aufl. 2023, § 17 InsO Rn. 5–35.
-2. *Mock*, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 10 ff., 30 ff.; § 19 Rn. 47–95.
-3. *Pape/Schaltke*, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 StaRUG Rn. 10–30.
-4. *BeckOK StaRUG/Skauradszun*, 8. Ed. Stand 04.2025, § 102 StaRUG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Berufsständischer Hintergrund (nicht im Vordergrund zitieren)
 
 - **IDW S 11** (Stand 12.08.2021), Tz. 16 f., 31–37 — Beurteilung des Eröffnungsgrundes der Zahlungsunfähigkeit.
@@ -134,17 +130,17 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
   4. **Maßnahmen** (Innenfinanzierung, Außenfinanzierung, leistungswirtschaftlich, finanzwirtschaftlich).
   5. **Integrierte Planung** (Ertrag/Bilanz/Liquidität) 24+ Monate.
   6. **Ergebnis**: positive vs. negative Fortführungsprognose mit Begründung.
-- Maßstab nach BGH NJW 2020, 1809 Rn. 18: überwiegende Wahrscheinlichkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 6 – Abgrenzung handelsbilanzielle vs. insolvenzrechtliche Überschuldung**
-- Handelsbilanzielles negatives EK ist **kein** Insolvenzgrund. Maßgeblich ist der **Überschuldungsstatus** mit Fortführungswerten bei positiver Prognose, mit Liquidationswerten bei negativer Prognose (BGH BGHZ 195, 42 Rn. 12 ff.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Qualifizierter Rangrücktritt (§ 39 Abs. 2 InsO) eliminiert Verbindlichkeit aus dem Status.
 - Stille Reserven (insb. Sachanlagen, selbst erstellte immaterielle WG) sind zu aktivieren.
 - Stille Lasten (Rückstellungsbedarf, Prozessrisiken, Bürgschaften) sind anzusetzen.
 - Ergebnis: **Insolvenzfähige Überschuldung** nur, wenn rechnerische Unterdeckung **und** negative Fortführungsprognose.
 
 **Schritt 7 – Ergebnis ausliefern**
-- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block „Offene Forderungen“ behalten. Formeln verwenden, nicht hartcodieren.
+- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block "Offene Forderungen" behalten. Formeln verwenden, nicht hartcodieren.
 - **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten (single-file, autark, localStorage, JSON-Export/Import, Live-Ampel nach BGH-Schema).
 - **Wenn Markdown-Artefakt gewählt**: `liquiditaets-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditaets-artefakt-vorlage.md` ausfüllen.
 - Bei jeder Folgemeldung des Nutzers das gewählte Artefakt aktualisieren und die neue Version unter demselben Asset-Namen liefern.
@@ -154,11 +150,11 @@ Erst nach Auslieferung der Vorschau anbieten:
 
 > Soll ich zusätzlich ein Kurz-Memo im Gutachtenstil mit Subsumtion nach §§ 17, 19 InsO erstellen?
 
-Bei Zustimmung: Sachverhalt, Liquiditätsbilanz tabellarisch, Quotenberechnung nach BGH II ZR 88/16 Rn. 25 ff., Subsumtion, Fortführungsprognose-Würdigung, Handlungsempfehlung. Maximal zwei Seiten. DOCX oder Markdown nach Nutzerwunsch.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
-1. **Excel** (immer) auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`. KW-Spalten × Kategorien-Zeilen wie in der Vorlage; BGH-Block (Aktiva I/II, Passiva I/II, Lücke abs., %, Ampel) ab Zeile 42; Block „Offene Forderungen“; Hinweise zur BGH-Rspr. Sheet `Liquiditätsplan` (Werte) und Sheet `BGH-Schema` (Erläuterung). Wochenstichtag = Freitag.
+1. **Excel** (immer) auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`. KW-Spalten × Kategorien-Zeilen wie in der Vorlage; BGH-Block (Aktiva I/II, Passiva I/II, Lücke abs., %, Ampel) ab Zeile 42; Block "Offene Forderungen"; Hinweise zur BGH-Rspr. Sheet `Liquiditätsplan` (Werte) und Sheet `BGH-Schema` (Erläuterung). Wochenstichtag = Freitag.
 2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, live rechnend, localStorage-Speicher, JSON-Export/-Import.
 3. **Markdown-Artefakt** (auf Wunsch): `assets/markdown/liquiditaets-artefakt-vorlage.md` als Vorlage; bei jeder Folgemeldung neu geschrieben.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
@@ -170,27 +166,27 @@ Bei Zustimmung: Sachverhalt, Liquiditätsbilanz tabellarisch, Quotenberechnung n
 
 **Gutachtenstil**:
 
-*§ 17 InsO*: 13-Wochen-Test zeigt in KW 22 eine Lücke von 41.000 EUR (Quote 22 %); selbst inkl. erwarteter Eingänge aus dem Großauftrag wäre die Lücke erst in KW 32 vollständig schließbar – damit **nicht innerhalb von 3 Wochen** ab KW 22. **Zahlungsunfähigkeit liegt voraussichtlich ab KW 22 vor** (BGH BGHZ 163, 134 Rn. 14). Ampel rot.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-*§ 19 InsO*: Handelsbilanzielles EK negativ. Überschuldungsstatus mit Fortführungswerten unter Berücksichtigung stiller Reserven der CNC-Anlage (Verkehrswert 180.000 EUR, Buchwert 95.000 EUR) ergibt rechnerische Unterdeckung von ca. 60.000 EUR. Fortführungsprognose negativ, weil integrierte 12-Monats-Planung keinen positiven operativen Cashflow bei realistischen Annahmen erbringt (IDW S 6, Tz. 5 ff.; BGH NJW 2020, 1809 Rn. 18). **Insolvenzrechtliche Überschuldung indiziert**.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Handlungsempfehlung*: Antragspflicht 3 Wochen ab Eintritt § 17 InsO (KW 22) bzw. 6 Wochen ab § 19 InsO. Parallel Prüfung StaRUG-Restrukturierungsrahmen nur möglich bei rein **drohender** Zahlungsunfähigkeit – nicht mehr eröffnet, wenn § 17 InsO bereits eingetreten ist. Hinweis nach § 102 StaRUG durch beauftragten Steuerberater zu erteilen.
 
 ## Risiken und typische Fehler
 
-- **Handelsbilanzielle vs. insolvenzrechtliche Überschuldung verwechseln**: Negatives EK in HGB-Bilanz allein begründet keinen Antragsgrund (BGH BGHZ 195, 42 Rn. 12); maßgeblich ist Überschuldungsstatus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **3-Wochen-Frist statisch rechnen**: Die Frist läuft ab dem **Eintritt** der Zahlungsunfähigkeit, nicht ab Erstellung des Liquiditätsplans.
-- **Stundungen als Liquidität werten**: Stundungen verschieben die Fälligkeit, sind aber Indiz für Zahlungsunfähigkeit (BGH NJW 2007, 78 Rn. 18) – nicht beruhigen lassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Kreditlinien unkritisch ansetzen**: Nur **zugesagte und ziehungsfähige** Linien zählen; gekündigte oder ausgeschöpfte Linien nicht.
 - **Großaufträge ohne Zahlungseingangsrisiko ansetzen**: Realistische Annahmen mit Ausfall- und Skonto-Quoten; immer Sensitivität (Worst Case).
-- **Fortführungsprognose ohne IDW-S-6-Struktur**: Eine nicht strukturierte „Prognose" trägt vor Gericht nicht; BGH NJW 2020, 1809 verlangt tragfähiges Konzept.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **USt- und LSt-Rückstände kleinreden**: Diese sind starke Insolvenzindizien und führen oft zur Anzeige durch Finanzamt/Krankenkasse (§ 15a Abs. 4 InsO).
 - **Personalkosten unterschätzen**: Lohn + AG-Anteil SV + KK-Beiträge = ca. 1,28× Bruttolohn; monatliche Drittellast SV-Beiträge.
 - **SanInsKG-Stand übersehen**: Prognosehorizont § 19 InsO wurde temporär verkürzt; aktuelle Fassung am Bewertungsstichtag prüfen.
 
 ## Quellenpflicht
 
-Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbeiterstil. Berufsständische Verlautbarungen (IDW S 6, IDW S 11) als Hintergrund, nicht als „Rechtsprechung“ kennzeichnen. Die PDFs unter `references/rechtsprechung/` sind die maßgeblichen Quellen, ergänzt um BGHZ 163, 134; NJW 2007, 78; NJW 2020, 1809; BGHZ 195, 42.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Übergabe
 

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-board-paper-business-judgment
-description: "Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage fuer M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Pruefraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht)."
+description: "Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht)."
 ---
 
 # Board Paper und Business Judgment
@@ -50,16 +50,14 @@ Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat m
 
 ### Leitsaetze
 
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: vollstaendige Information des Mandanten ist Kernpflicht; Luecken koennen Schadensersatz ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- MueKo GmbHG/Fleischer, § 43 Rn. 1-80 (Geschaeftsfuehrerhaftung, Business Judgment Rule)
-- Schaub, Arbeitsrechts-Handbuch, § 12 (Mandate, Vollmachten, Honorare)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Qualitaetssicherung
 - Human-in-the-loop bei allen automatisierten Ausgaben
 - Dokumentation: Datum, Methodik, Human-Check-Protokoll
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH II ZR 175/95 (claimed: Business Judgment Rule fuer GmbH-Geschaeftsfuehrer, Urt. 21.04.1997, BGHZ 135, 244): WRONG_TOPIC. Verifiziertes Urteil betrifft Pflicht des Aufsichtsrats zur eigenverantwortlichen Pruefung von Schadensersatzanspruechen gegen Vorstandsmitglieder (ARAG/Garmenbeck), NJW 1997, 1926 (nicht NJW 2022). Kein Bezug zur Business Judgment Rule fuer GmbH-GF. Halluzinierter Leitsatz entfernt. -->

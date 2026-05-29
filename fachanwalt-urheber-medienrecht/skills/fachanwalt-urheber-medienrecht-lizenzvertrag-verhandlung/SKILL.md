@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung
-description: "Lizenzvertraege fuer Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Pruefraster: Nutzungsrechtsart ausschliesslich einfach territorial zeitlich Verguetung Sublizenz Rueckruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht fuer Abmahnung oder Gegendarstellung."
+description: "Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung."
 ---
 
 # Lizenzvertrag-Verhandlung
@@ -152,10 +152,7 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
 ## 9) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 05.10.2017 – I ZR 232/16, GRUR 2018, 296 Rn. 22 – Angemessenheit Lizenzverguetung: § 32 UrhG schreibt angemessene Verguetung vor; als Massstab dient die nach Art und Umfang der eingeraeumten Nutzung ueblicherweise zu zahlende Verguetung; Ueberschreitung von Branchenstandards kann Anpassungsklage ausloesen.
-- BGH, Urt. v. 26.06.2019 – I ZR 175/18, GRUR 2019, 1120 Rn. 31 – Bestseller-Klausel § 32a UrhG: Auffaelliges Missverhaltnis erfordert deutliche wirtschaftliche Wertsteigerung; reine Auflagensteigerung genuegt nicht; Verhaeltnis Verguetung zu erzieltem Ertrag entscheidend.
-- BGH, Urt. v. 15.04.2021 – I ZR 9/18, GRUR 2021, 1244 Rn. 19 – Honorarrecht Verlagsvertrag: Uebertragung ausschliesslicher Nutzungsrechte auf unbekannte Nutzungsarten bedarf nach § 31a UrhG der Schriftform und des Widerrufsrechts; fehlendes Schriftformerfordernis macht Uebertragung schwebend unwirksam.
-- EuGH, Urt. v. 29.07.2019 – C-469/17, GRUR 2019, 940 Rn. 44 – Funke Medien: Presseverleger-Leistungsschutzrecht nach DSM-RL; nationale Umsetzung erlaubt nur eng gefasste Ausnahmen; Verwertungsgesellschaft-Lizenzen fuer Presseverleger haben Vorrang.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

@@ -1,6 +1,6 @@
 ---
 name: ttab-opposition-und-cancellation
-description: "TTAB-Opposition und Cancellation in den USA fuehren: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Pruefraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begruendungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr."
+description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr."
 ---
 
 # TTAB — Trademark Trial and Appeal Board
@@ -16,7 +16,7 @@ Opposition und Cancellation beim TTAB sind vollständige adversarielle Verfahren
 - **37 C.F.R. § 2.101 ff.:** Opposition-Verfahrensregeln
 - **37 C.F.R. § 2.111 ff.:** Cancellation-Verfahrensregeln
 - **Trademark Trial and Appeal Board Manual of Procedure (TBMP):** Detaillierte Prozessregeln
-- **Trademark Dilution Revision Act 2006 (TDRA), 15 U.S.C. § 1125(c):** Dilution-Klage — nur für „famous" marks; Actual Dilution seit TDRA nicht mehr erforderlich (Likelihood of Dilution genügt)
+- **Trademark Dilution Revision Act 2006 (TDRA), 15 U.S.C. § 1125(c):** Dilution-Klage — nur für "famous" marks; Actual Dilution seit TDRA nicht mehr erforderlich (Likelihood of Dilution genügt)
 - **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud-Standard beim TTAB — bewusste Falschaussage, nicht bloße Fahrlässigkeit
 - **15 U.S.C. § 1071:** Appeal vom TTAB zum U.S. Court of Appeals for the Federal Circuit (oder USDC District of Columbia)
 - **37 C.F.R. § 2.20:** Declarations unter Penalty of Perjury
@@ -67,18 +67,18 @@ Opposition und Cancellation beim TTAB sind vollständige adversarielle Verfahren
 ### Dilution-Anspruch (TDRA 2006)
 
 7. **Anforderungen § 1125(c) TDRA:**
-   - Mark muss „famous" sein (widely recognized by the general consuming public)
+   - Mark muss "famous" sein (widely recognized by the general consuming public)
    - Dilution by Blurring: Ähnlichkeit die Einzigartigkeit schwächt (Senior Mark association vermindert)
    - Dilution by Tarnishment: Rufschädigung durch negative Assoziation
    - klôtzzkètté-Famousness in USA: Ab wann? Meinungsumfrage + Sales Data + Media Coverage nötig
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: TTAB-Opposition gegen US-Copycat „KLOTZ-NET"
-Neuer Applicant „KLOTZ-NET INC." meldet Marke in Klasse 25 an, veröffentlicht im Official Gazette. Whitman Brennan Forsythe LLP: 30-tägige Extension + Vorbereitungszeit; Notice of Opposition on Grounds: (1) Priority + Likelihood of Confusion; (2) klôtzzkètté-Fame (falls nachweisbar). Discovery: Depositions des Applicant-Geschäftsführers, Document Requests.
+### Konstellation 1: TTAB-Opposition gegen US-Copycat "KLOTZ-NET"
+Neuer Applicant "KLOTZ-NET INC." meldet Marke in Klasse 25 an, veröffentlicht im Official Gazette. Whitman Brennan Forsythe LLP: 30-tägige Extension + Vorbereitungszeit; Notice of Opposition on Grounds: (1) Priority + Likelihood of Confusion; (2) klôtzzkètté-Fame (falls nachweisbar). Discovery: Depositions des Applicant-Geschäftsführers, Document Requests.
 
-### Konstellation 2: Cancellation gegen ältere US-Marke „KLOTZKETTE"
-Bestehende US-Registrierung „KLOTZKETTE" blockiert klôtzzkètté-Anmeldung. Cancellation auf Grounds: Abandonment (3 Jahre keine Benutzung). Evidence: TESS Dead Status Nachforschung, Internet Research (keine Produktpräsenz). Deposition des Registranten.
+### Konstellation 2: Cancellation gegen ältere US-Marke "KLOTZKETTE"
+Bestehende US-Registrierung "KLOTZKETTE" blockiert klôtzzkètté-Anmeldung. Cancellation auf Grounds: Abandonment (3 Jahre keine Benutzung). Evidence: TESS Dead Status Nachforschung, Internet Research (keine Produktpräsenz). Deposition des Registranten.
 
 ### Konstellation 3: Fraud — Wann ist es sinnvoll?
 klôtzzkètté vermutet, Gegner hat im Specimen falsche Use-in-Commerce-Behauptung gemacht (Foto zeigt erkennbar staged Setup ohne echten Commerce). In re Bose-Standard: Bewusstes Täuschen erforderlich. Risiko: Gegenklage; hohe Beweislast. Nur bei klaren Indizien für absichtlichen Fraud.
@@ -151,6 +151,6 @@ Bevor die Opposition eingelegt wird, klaere:
 
 > **Carefirst of Maryland, Inc. v. FirstHealth of the Carolinas, Inc., 77 USPQ2d 1492 (TTAB 2005):** Im TTAB-Oppositionsverfahren tragt die opposierende Partei die Beweislast fuer Priority und Likelihood of Confusion; bloss beschreibende Common-Law-Marken begruenden keine ausreichende Priority.
 
-> **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke „widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
+> **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 
 > **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud on the PTO erfordert nachgewiesene subjektive Taeuschungsabsicht; blosse Ungenauigkeiten im Benutzungsnachweis begruenden keinen Fraud, solange der Anmelder gutglaeubig an die Richtigkeit seiner Erklaerung glauben durfte.

@@ -1,6 +1,6 @@
 ---
 name: stb-dba-kuenstler-sportler-art-17-ma
-description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Besteuerung. Anwendungsfall Musiker Schauspieler Sportler mit Auftritten in mehreren Staaten. Quellensteuer und BZSt-Antraege Anti-Treaty-Shopping nach § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
+description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Besteuerung. Anwendungsfall Musiker Schauspieler Sportler mit Auftritten in mehreren Staaten. Quellensteuer und BZSt-Anträge Anti-Treaty-Shopping nach § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
 ---
 
 # Kuenstler und Sportler (Art. 17 OECD-MA)
@@ -27,12 +27,12 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - **§ 50a EStG** — Steuerabzug bei beschraenkt Steuerpflichtigen Auftritten in Deutschland.
 - **§ 50c EStG** — Erstattung/Freistellung BZSt.
 - **§ 50d Abs. 3 EStG** — Anti-Treaty-Shopping fuer Star-Companies.
-- Konkrete DBA-Artikel: in den meisten deutschen DBA Art. 17 (Sondervorschrift); manchmal niedrigere Schwelle (z.B. 11.000 EUR Bagatellklausel) — **konkret verifizieren**.
+- Konkrete DBA-Artikel: in den meisten deutschen DBA Art. 17 (Sondervorschrift); manchmal niedrigere Schwelle (z.B. 11.000 EUR Bagatellklausel) — konkret im DBA-Text pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 39/05 zu § 50a-Steuerabzug — **verifizieren**.
-- BFH I R 32/15 zu Star-Company — **verifizieren**.
-- BMF-Schreiben zu § 50a EStG-Anwendung — **konkretes Datum verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu § 50a-Steuerabzug bei Kuenstlern in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Star-Company-Konstellationen in juris abrufen.
+- BMF-Schreiben zu § 50a EStG-Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Anwendungsvoraussetzungen
 
@@ -43,7 +43,7 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 
 ### Auftrittsstaat-Besteuerung
 - Quellensteuer im Auftrittsstaat.
-- Deutschland: typ. **15 Prozent** vom Brutto (§ 50a EStG), bei bestimmten Verguetungen **30 Prozent**; mit Werbungskosten ggf. **30 Prozent vom Netto** — **konkret verifizieren**.
+- Deutschland: typ. **15 Prozent** vom Brutto (§ 50a Abs. 2 EStG), bei bestimmten Verguetungen **30 Prozent** (§ 50a Abs. 1 Nr. 1 EStG); mit Werbungskosten ggf. Nettobesteuerung — massgebend ist § 50a EStG in der jeweils geltenden Fassung.
 - Hinzu Solidaritaetszuschlag.
 
 ### Star-Company-Klausel (Art. 17 Abs. 2)
@@ -99,4 +99,6 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 17 OECD-MA. § 50a, § 50c, § 50d EStG. **Konkrete Quellensteuer-Saetze § 50a (15/30 Prozent), Bagatellklauseln in einzelnen DBA und BMF-Schreiben zur Anwendung vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. Art. 17 OECD-MA. § 50a, § 50c, § 50d EStG. Konkrete Quellensteuer-Saetze nach § 50a EStG, Bagatellklauseln in einzelnen DBA und aktuelle BMF-Schreiben zur Anwendung im BMF-Veroeffentlichungsverzeichnis und juris abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

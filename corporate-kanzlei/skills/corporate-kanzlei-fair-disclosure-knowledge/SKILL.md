@@ -25,16 +25,13 @@ description: "Fair Disclosure und Knowledge Management: Steuert Informationsflus
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 28.06.2012 - C-19/11, NZG 2012, 901 — Insider-Information: besteht, sobald Information kursrelevant ist; nicht erst bei Abschluss des Vertrags; bereits bei Verhandlungsbeginn moeglich
-- BGH, Urt. v. 23.04.2013 - II ZB 7/09, BGHZ 197, 155 — MAR-Aufschub: Emittent kann Veroeffentlichung aufschieben wenn berechtigtes Interesse (laufende Verhandlungen); Insider-Liste muss aktuell sein
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Entscheidung B2-141/18 — Gun Jumping: Kaeufer-Verkaefer hatten vor Kartellfreigabe Informationen ueber Preise und Kunden ausgetauscht; Bussgeld; Clean Team nachtraeglich eingerichtet
-- OLG Frankfurt, Urt. v. 04.03.2020 - 17 U 108/19, NZG 2020, 782 — Firewall-Anforderungen: Kanzlei muss physische und informationstechnische Schranken zwischen verschiedenen Teams einrichten wenn widersprechende Mandate
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR — Insider-Management in M&A
-- Immenga/Mestmaecker GWB § 41 Rn. 1 ff. — Vollzugsverbot; Gun-Jumping; Clean Team
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Insider-Management: Kategorien und Regeln
 
 ### Insider-Kreis (Art. 18 MAR)
@@ -114,5 +111,5 @@ Ich bestatige die Kenntnis dieser Belehrung:
 ## Quellen
 
 - Art. 14, 17, 18 MAR; §§ 1, 19, 41 GWB; § 43a BRAO; § 17 UWG
-- EuGH C-19/11 (Insider-Information Zeitpunkt); BGH II ZB 7/09 (MAR-Aufschub); BKartA B2-141/18 (Gun Jumping)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR; Immenga/Mestmaecker GWB § 41

@@ -11,7 +11,7 @@
 
 ## Vorbemerkung
 
-Dieser Vermerk enthält eine laufend aktualisierte Liste der im Rahmen der Legal und Tax Due Diligence der Solaris Industries AG identifizierten wesentlichen Befunde (Red Flags). Befunde werden nach Schweregrad eingestuft. Die Nummerierung ist fortlaufend; abgeschlossene Befunde werden als „Erledigt" gekennzeichnet, nicht gelöscht.
+Dieser Vermerk enthält eine laufend aktualisierte Liste der im Rahmen der Legal und Tax Due Diligence der Solaris Industries AG identifizierten wesentlichen Befunde (Red Flags). Befunde werden nach Schweregrad eingestuft. Die Nummerierung ist fortlaufend; abgeschlossene Befunde werden als "Erledigt" gekennzeichnet, nicht gelöscht.
 
 **Schweregrad-Skala:**
 - 🔴 **HOCH:** Potenzieller Closing-Blocker oder Befund > EUR 1 Mio.
@@ -29,7 +29,7 @@ Dieser Vermerk enthält eine laufend aktualisierte Liste der im Rahmen der Legal
 
 ### Befund
 
-Im Hauptliefervertrag mit Kunde A (Rahmenvertrag Nr. C-001, Laufzeit bis 31. Dezember 2026) findet sich in § 16 Abs. 3 eine explizite Change-of-Control-Klausel. Diese gibt Kunde A das Recht, den Vertrag mit einer Frist von 90 Tagen außerordentlich zu kündigen, wenn an der Verkäuferin, der Gesellschaft oder einer ihrer wesentlichen Tochtergesellschaften eine „wesentliche Veränderung der Eigentümerstruktur" stattfindet. Der Begriff „wesentliche Veränderung" ist nicht legal definiert; der Vertrag enthält keinen Schwellenwert (keine > 50 %-Regel o.ä.), was eine extensive Auslegung durch Kunde A ermöglicht.
+Im Hauptliefervertrag mit Kunde A (Rahmenvertrag Nr. C-001, Laufzeit bis 31. Dezember 2026) findet sich in § 16 Abs. 3 eine explizite Change-of-Control-Klausel. Diese gibt Kunde A das Recht, den Vertrag mit einer Frist von 90 Tagen außerordentlich zu kündigen, wenn an der Verkäuferin, der Gesellschaft oder einer ihrer wesentlichen Tochtergesellschaften eine "wesentliche Veränderung der Eigentümerstruktur" stattfindet. Der Begriff "wesentliche Veränderung" ist nicht legal definiert; der Vertrag enthält keinen Schwellenwert (keine > 50 %-Regel o.ä.), was eine extensive Auslegung durch Kunde A ermöglicht.
 
 ### Wirtschaftliche Bedeutung
 

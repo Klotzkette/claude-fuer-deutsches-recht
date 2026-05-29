@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-kaltstart-interview
-description: "Prozessrechtliches Erstinterview strukturiert durchfuehren: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Pruefraster: Anspruchsgrundlage, Zustaendigkeit, Verjaebrung, Kostenrisiko. Output: Interviewprotokoll mit Erstbewertung. Abgrenzung: nicht formelle Mandat-Aufnahme."
+description: "Prozessrechtliches Erstinterview strukturiert durchführen: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Anspruchsgrundlage, Zuständigkeit, Verjaebrung, Kostenrisiko. Output: Interviewprotokoll mit Erstbewertung. Abgrenzung: nicht formelle Mandat-Aufnahme."
 ---
 
 # Kaltstart-Interview
@@ -22,16 +22,14 @@ description: "Prozessrechtliches Erstinterview strukturiert durchfuehren: Sachve
 - BORA §§ 2, 3 (Grundpflichten, Sachlichkeit)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 21.10.2010 – IX ZR 37/10, NJW 2011, 375 — Die Vereinbarung einer vom RVG abweichenden Vergütung bedarf der Textform nach § 3a RVG; eine mündliche Abrede ist unwirksam und löst die gesetzlichen Gebühren aus.
-2. BGH, Beschl. v. 15.03.2021 – AnwZ (Brfg) 50/19, NJW 2021, 1523 — Die Zulassung als Syndikusrechtsanwalt nach § 46a BRAO setzt eine anwaltliche Tätigkeit im abhängigen Beschäftigungsverhältnis voraus; Kanzleizulassung und Syndikuszulassung können nebeneinander bestehen.
-3. BGH, Urt. v. 23.06.2016 – IX ZR 204/15, NJW 2016, 3365 — Eine Falschauskunft über Praxisschwerpunkte begründet die Haftung des Anwalts wegen positiver Forderungsverletzung; der Mandant darf auf die Angaben vertrauen.
-4. BAG, Urt. v. 20.03.2018 – 10 AZR 99/17, NJW 2018, 2204 — Der Syndikusrechtsanwalt unterliegt bei der Nutzung digitaler Arbeitstools den gleichen datenschutzrechtlichen Beschränkungen wie ein freier Anwalt; Mandatsdaten dürfen nicht in unkontrollierte Clouddienste eingespeist werden.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 45 ff. (Verschwiegenheitspflicht).
-- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 46a Rn. 1 ff. (Syndikusrechtsanwalt).
-- Mayer/Kroiber, RVG, 8. Aufl. 2022, § 3a Rn. 1 ff. (Vergütungsvereinbarung und Textform).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Einmaliges Einrichtungsinterview für das Prozessrecht-Plugin. Erfasst das Praxisprofil der Kanzlei oder Rechtsabteilung und schreibt die Konfiguration in CLAUDE.md. Jeder nachfolgende Skill liest aus dieser Datei den Kontext – ohne Kaltstart arbeiten die Skills mit unvollständigen Voreinstellungen.
@@ -47,9 +45,9 @@ Keine Voreingaben erforderlich. Das Interview fragt alle benötigten Felder inte
 ### Schritt 1: Kanzlei- und Rollentyp
 
 Fragen:
-- „In welcher Rolle verwenden Sie das Plugin?" → Optionen: (a) Rechtsanwalt / Sozietät, (b) Syndikusrechtsanwalt / Rechtsabteilung, (c) Referendar / Berufseinsteiger, (d) Richter / wissenschaftlicher Mitarbeiter
-- „Wie viele aktive Mandate bearbeiten Sie typischerweise gleichzeitig?"
-- „Arbeiten Sie mit externen Korrespondenzanwälten oder außenstehenden Kanzleien?"
+- "In welcher Rolle verwenden Sie das Plugin?" → Optionen: (a) Rechtsanwalt / Sozietät, (b) Syndikusrechtsanwalt / Rechtsabteilung, (c) Referendar / Berufseinsteiger, (d) Richter / wissenschaftlicher Mitarbeiter
+- "Wie viele aktive Mandate bearbeiten Sie typischerweise gleichzeitig?"
+- "Arbeiten Sie mit externen Korrespondenzanwälten oder außenstehenden Kanzleien?"
 
 ### Schritt 2: Praxisschwerpunkte
 
@@ -69,20 +67,20 @@ Mehrfachauswahl:
 
 ### Schritt 3: Risikobereitschaft und Strategie
 
-- „Wie würden Sie Ihre Risikostrategie beschreiben?" → (a) konservativ (Prozesse vermeiden, Vergleiche bevorzugen), (b) ausgewogen, (c) aggressiv (Ansprüche vollständig verfolgen)
-- „Führen Sie überwiegend als Kläger oder Beklagter?" → (a) Kläger, (b) Beklagter, (c) beide gleich häufig
-- „Was ist Ihr primäres Gericht?" (freitextlich, z. B. „LG Frankfurt a. M.", „ArbG München")
+- "Wie würden Sie Ihre Risikostrategie beschreiben?" → (a) konservativ (Prozesse vermeiden, Vergleiche bevorzugen), (b) ausgewogen, (c) aggressiv (Ansprüche vollständig verfolgen)
+- "Führen Sie überwiegend als Kläger oder Beklagter?" → (a) Kläger, (b) Beklagter, (c) beide gleich häufig
+- "Was ist Ihr primäres Gericht?" (freitextlich, z. B. "LG Frankfurt a. M.", "ArbG München")
 
 ### Schritt 4: Kanzleistil
 
-- „Bevorzugen Sie Gutachtenstil oder Urteilsstil in internen Memos?" → (a) immer Gutachtenstil, (b) intern Gutachten, extern Urteils, (c) situationsabhängig
-- „Haben Sie besondere Formatierungsvorgaben?" (z. B. Seitennummerierung, Randnummern, Briefkopf-Muster)
-- „Bevorzugen Sie Rangnummern in Schriftsätzen?"
+- "Bevorzugen Sie Gutachtenstil oder Urteilsstil in internen Memos?" → (a) immer Gutachtenstil, (b) intern Gutachten, extern Urteils, (c) situationsabhängig
+- "Haben Sie besondere Formatierungsvorgaben?" (z. B. Seitennummerierung, Randnummern, Briefkopf-Muster)
+- "Bevorzugen Sie Rangnummern in Schriftsätzen?"
 
 ### Schritt 5: Vergütung und Kosten
 
-- „Wie rechnen Sie überwiegend ab?" → (a) gesetzliche Gebühren nach RVG, (b) Stunden- / Zeithonorar (§ 3a RVG), (c) Pauschalhonorar, (d) Erfolgshonorar (§ 4a RVG)
-- „Benötigen Sie automatische Streitwert- und Kostenberechnungen?"
+- "Wie rechnen Sie überwiegend ab?" → (a) gesetzliche Gebühren nach RVG, (b) Stunden- / Zeithonorar (§ 3a RVG), (c) Pauschalhonorar, (d) Erfolgshonorar (§ 4a RVG)
+- "Benötigen Sie automatische Streitwert- und Kostenberechnungen?"
 
 ### Schritt 6: Integrations-Check
 
@@ -91,7 +89,7 @@ Das Plugin prüft:
 - **Kalender MCP** – für automatische Fristenerinnerungen
 - **GitHub MCP** – für Versions­control der Mandatsdaten
 
-Ausgabe: „[Integration] – verfügbar / nicht verfügbar. Fallback: [Markdown-Datei]."
+Ausgabe: "[Integration] – verfügbar / nicht verfügbar. Fallback: [Markdown-Datei]."
 
 ### Schritt 7: CLAUDE.md schreiben
 
@@ -102,14 +100,14 @@ Das Plugin schreibt alle erfassten Werte in die YAML-Felder von CLAUDE.md (Absch
 - BRAO, insbesondere §§ 43, 43a, 49b (Vergütung, Verschwiegenheit, Sachlichkeitsgebot).
 - BORA §§ 2, 3 (Grundpflichten, Sachlichkeit).
 - RVG §§ 1–3a (Anwendungsbereich, Vergütungsvereinbarung).
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 45 ff. (Verschwiegenheitspflicht).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
 1. **Interaktiver Dialog** (sequenzielle Fragen)
 2. **Zusammenfassung** am Ende: Tabellarische Übersicht aller erfassten Werte
 3. **CLAUDE.md-Update:** Automatisch, sofern bestätigt
-4. **Bestätigungs-Anzeige:** „Praxisprofil gespeichert. Sie können jetzt alle Skills verwenden."
+4. **Bestätigungs-Anzeige:** "Praxisprofil gespeichert. Sie können jetzt alle Skills verwenden."
 
 ## Risiken / typische Fehler
 

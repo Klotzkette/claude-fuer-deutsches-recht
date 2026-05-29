@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-loesungsstrategie
-description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kuendigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschaeftsfuehrer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Pruefraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss fuer Beschlussfassung mandat-triage fuer Erst-Abfrage."
+description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Prüfraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss für Beschlussfassung mandat-triage für Erst-Abfrage."
 ---
 
 # Gesellschafterstreit — Lösungsstrategie
@@ -23,17 +23,11 @@ Vor dem Start der strategischen Analyse folgende Fragen klären:
 
 ## Aktuelle Rechtsprechung
 
-<!-- AZ II ZR 173/04 entfernt (27.05.2026): Urteil betrifft Hinauskuendigungsverbot/Vesting-Modell (BGHZ 164, 98), nicht Ausschlussklage analog § 140 HGB; NJW 2005, 3569 ist falsche Fundstelle. -->
-- BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 86, 177 — Abfindungs-Beschränkung auf Buchwert; sittenwidrig nach § 138 BGB, wenn die Klausel zu einer Enteignung des ausscheidenden Gesellschafters führt; Verkehrswert als Untergrenze.
-- BGH, Urt. v. 20.09.2011 – II ZR 234/09, NJW 2011, 3441 — Business Combination: Vinkulierungsklausel in GmbH-Satzung; Verweigerung der Zustimmung zur Anteilsübertragung muss sachlich gerechtfertigt sein; treuwidrige Verweigerung führt zu Schadensersatz.
-- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine) — GmbH-Beschlussmängelklage analog §§ 243 ff. AktG; 1-Monat-Frist analog § 246 AktG auch bei GmbH.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff. (Einziehung von Geschäftsanteilen; Voraussetzungen; Abfindung).
-- Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 38 Rn. 1 ff. (Abberufung des Geschäftsführers; wichtiger Grund).
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2023, Einl. Rn. 20 ff. (Gesellschafterstreit; Mediationsvorrang; Klagestrategie).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Gesellschafterstreit-Strategie
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -121,11 +115,9 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 - BGB §§ 138, 626, 738
 - AktG §§ 241, 246
 - ZPO §§ 935, 1029
-<!-- AZ II ZR 173/04 entfernt (27.05.2026): WRONG_TOPIC, siehe Audit-Hinweis. -->
-- BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 86, 177 (Abfindungs-Buchwertklausel; Sittenwidrigkeit).
-- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine; GmbH-Beschlussmängelklage).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff.
-- Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 38 Rn. 1 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 
@@ -137,6 +129,6 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 ---
 ## Audit-Hinweis (27.05.2026)
 
-Geprüfte AZ: BGH II ZR 173/04.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC — das Urteil betrifft die Zulaessigkeit von Hinauskuendigungsklauseln in Form einer Vesting-Regelung (Managermodell, BGHZ 164, 98), nicht den Ausschluss analog § 140 HGB. Die Fundstelle NJW 2005, 3569 ist nicht korrekt.
 Maßnahme: Beide Nennungen entfernt. Kein Ersatz eingefuegt; der Ausschlussklagen-Stoff ist ueber BGH II ZR 25/82 (Abfindung/Sittenwidrigkeit) und den Normenhinweis § 140 HGB analog teilweise abgedeckt.

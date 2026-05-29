@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelbelehrung-zivil
-description: "Rechtsmittelbelehrung nach §§ 232 ff., 511 ff., 567 ff. ZPO korrekt formulieren: Richter muss Belehrung an Urteil oder Beschluss anfuegen. Normen: § 232 ZPO (Belehrungspflicht), § 511 ZPO (Berufung), § 567 ZPO (sofortige Beschwerde). Pruefraster: Berufung gegen Endurteile AG ueber 600 EUR Beschwer, Frist 1 Monat, Berufungsbegruendung 2 Monate; sofortige Beschwerde 2 Wochen; Beschwerdewert; Anwaltszwang. Output Rechtsmittelbelehrung-Entwurf passend zum Entscheidungstyp. Abgrenzung: Tenorierung siehe tenor-bauen-zivil; Berufungsfestigkeit siehe berufungsfest-pruefen."
+description: "Workflow-Skill zu rechtsmittelbelehrung zivil. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Rechtsmittelbelehrung Zivil
@@ -17,10 +17,7 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 16.10.2003 - IX ZB 36/03, NJW-RR 2004, 408 — Falsche Rechtsmittelbelehrung verlängert keine Rechtsmittelfrist; unzutreffende Belehrung kann aber Wiedereinsetzungsgrund sein, wenn sie entschuldbaren Rechtsirrtum hervorruft.
-- BGH, Beschl. v. 22.11.2011 - II ZR 196/10, NJW 2012, 590 — Berufungsfrist ist Notfrist; Versäumung führt zum Rechtskrafteintritt; Wiedereinsetzung nur nach § 233 ZPO.
-- BGH, Beschl. v. 12.10.2016 - XII ZB 267/16, NJW 2017, 64 — Anwaltszwang vor dem Berufungsgericht (§ 78 Abs. 1 ZPO); ohne Anwalt eingelegte Berufung ist unzulässig.
-- BGH, Urt. v. 14.07.2015 - VI ZR 463/14, NJW 2015, 3234 — Berufungsgericht kann Berufung nur aus den in § 513 ZPO genannten Gründen begründen; keine neuen Tatsachen (§ 531 ZPO) ohne Ausnahme.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -31,12 +28,9 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 - § 567 ZPO — sofortige Beschwerde gegen Beschlüsse (Frist 2 Wochen)
 - § 78 ZPO — Anwaltszwang vor LG und OLG
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 511 Rn. 1-30 (Berufung Voraussetzungen)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 232 Rn. 1-10 (Belehrungspflicht)
-- MüKo-ZPO/Rimmelspacher, 6. Aufl. 2022, § 517 Rn. 1-15 (Berufungsfrist)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Entscheidungsart bestimmen:** Urteil (→ Berufung) oder Beschluss (→ sofortige Beschwerde)?

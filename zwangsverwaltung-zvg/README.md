@@ -107,7 +107,7 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 
 ## Testakte
 
-- Zwangsverwaltung Buero- und Geschäftshaus Friedrichshoefe Berlin (AG Mitte 36 L 412/24, EUR 29,8 Mio. Verkehrswert, Parallel-Insolvenzverfahren): [testakten/zwangsverwaltung-friedrichshoefe-berlin/](../testakten/zwangsverwaltung-friedrichshoefe-berlin/) -> [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zwangsverwaltung Mietshaus Parkstraße: [testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/](../testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/) -> [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip)
 - Versteigerung / Bieter Eppendorf-Altbau: [testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/](../testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/) -> [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip)
 

@@ -1,6 +1,6 @@
 ---
 name: deckungsanfrage-pruefen
-description: "Pruefung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlaessig § 14 VVG Faelligkeit. Pruefraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlaessigkeit Kausalitaet Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-pruefen und klage-versicherer-strategie."
+description: "Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlässig § 14 VVG Fälligkeit. Prüfraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlässigkeit Kausalität Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-prüfen und klage-versicherer-strategie."
 ---
 
 # Deckungsanfrage prüfen
@@ -41,14 +41,11 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | IV ZR 51/14 | 29.10.2014 | Wahrheitspflicht beim Antragsfragebogen; Kenntnisstandard |
-| BGH | IV ZR 225/10 | 22.06.2011 | § 81 VVG grob fahrlässig; quotale Kürzung abhängig von Schwere des Verschuldens |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| BGH | IV ZR 211/22 | 08.02.2023 | Bezugsberechtigung Lebensversicherung; Formvorschriften |
-| BGH | IV ZR 248/10 | 22.06.2011 | Feststellungsklage BU; Feststellungsinteresse bei Dauerleistung |
-| BGH | IV ZR 178/04 | 12.10.2005 | Anerkenntnis-Wirkung von Versicherer-Korrespondenz; Zahlungsaussicht kann binden |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten; konkrete Berufsunfähigkeit bezogen auf zuletzt ausgeübte Tätigkeit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -61,7 +58,7 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 | 2 | Zeitlicher Deckungsrahmen (Versicherungsdauer)? | Police; § 2 VVG | Rückwärtsversicherung § 2 VVG prüfen |
 | 3 | Vorvertragliche Anzeigepflicht verletzt? | §§ 19, 21 VVG | Welche Fragen wurden schriftlich gestellt? Antworten korrekt? |
 | 4 | Obliegenheitsverletzung vor/nach Versicherungsfall? | §§ 28, 31 VVG | Vorsatz → voll leistungsfrei; grobe Fahrlässigkeit → quotal |
-| 5 | Grob fahrlässige Herbeiführung § 81 VVG? | § 81 VVG; BGH IV ZR 225/10 | Quotale Kürzung; Vorsatz = volle Leistungsfreiheit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Risikoausschluss eingreifend? | AVB; §§ 305c, 307 BGB | AGB-Kontrolle; Intransparenz → unwirksam |
 | 7 | AVB-Klausel wirksam — Transparenz? | § 307 Abs. 1 S. 2 BGB | Unklare Ausschlussklausel → gegen Verwender ausgelegen |
 | 8 | Leistungsumfang korrekt — Versicherungssumme, Selbstbehalt? | Police; § 75 VVG | Unterversicherung prüfen; Deckungsrahmen |
@@ -81,13 +78,13 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 - Grad mindestens 50 % (übliche AVB-Grenze); seltener 25 % oder 33 %.
 - Sechs-Monats-Prognose: voraussichtliche Berufsunfähigkeit für mindestens sechs Monate.
 - Abstrakte Verweisung auf Vergleichsberuf: heute meist vertraglich ausgeschlossen; bei älteren AVB prüfen.
-- BGH IV ZR 31/12: Gutachten muss konkret auf zuletzt ausgeübte Tätigkeit Bezug nehmen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Lebensversicherung
 
 - Selbsttötung § 161 VVG: Karenzzeit 3 Jahre; danach Todesfallleistung auch bei Suizid.
 - Vorvertragliche Anzeigepflicht: häufig Streit über Kenntnis von Vorerkrankungen.
-- Bezugsberechtigung: formelle Anforderungen; BGH IV ZR 211/22.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Krankenversicherung (PKV)
 
@@ -206,7 +203,7 @@ IV. § 81 VVG — grob fahrlässige Herbeiführung
 Ihr Einwand, unser Mandant habe den Versicherungsfall grob
 fahrlässig herbeigeführt, greift nicht durch.
 
-Grobe Fahrlässigkeit setzt nach BGH IV ZR 225/10 voraus, dass
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 die verkehrserforderliche Sorgfalt in besonders schwerem Maße
 verletzt und das Naheliegendste außer Acht gelassen wurde.
 
@@ -262,7 +259,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | Vorvertragliche Anzeigepflicht verletzt — alle Fragen falsch beantwortet | Antragsfragen vorlegen; Wortlaut der Frage entscheidend; bei Unklarheit Auslegung gegen Verwender § 305c Abs. 2 BGB |
 | Obliegenheitsverletzung durch verspätete Anzeige | AVB-Frist prüfen; § 28 Abs. 3 VVG: Kausalität fehlt? Leistungsfreiheit entfällt |
-| Grobe Fahrlässigkeit § 81 VVG | BGH IV ZR 225/10: hohe Schwelle; leichte Unachtsamkeit genügt nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Risikoausschluss klar und eindeutig | Wortlaut-Analyse; § 307 BGB Transparenzprüfung |
 | Versicherungsfall nicht eingetreten — AVB-Definition | Auslegung AVB-Definition nach § 305c Abs. 2 BGB bei Unklarheit zugunsten VN |
 | Zahlung ist nicht fällig (noch in Prüfung) | § 14 VVG: Verzögerung nicht unbegrenzt; Abschlagszahlung nach 1 Monat |
@@ -292,29 +289,22 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 2, 14, 19, 21, 28, 31, 75, 81, 86, 161; BGB §§ 195, 199, 203, 204, 286, 288, 305–310; BGH IV ZR 51/14; IV ZR 225/10; IV ZR 211/22; IV ZR 248/10; IV ZR 178/04; IV ZR 31/12; Prölss/Martin VVG 31. Aufl. 2022; Bruck/Möller VVG 9. Aufl.; Langheid/Wandt MüKo VVG 3. Aufl. 2022.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 17.04.2019 — **IV ZR 91/18**, NJW 2019, 1954 Rn. 16: AVB-Klauseln, die den Begriff des Versicherungsfalls bestimmen, sind nach dem Verständnis eines durchschnittlichen Versicherungsnehmers auszulegen; Unklarheiten gehen nach § 305c Abs. 2 BGB zulasten des Verwenders (Versicherers); erweiterte Risikoausschlüsse, die über den Wortsinn hinausgehen, sind einer restriktiven Auslegung zugänglich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.02.2017 — **IV ZR 106/16**, NJW 2017, 1258 Rn. 22: Fälligkeit des Versicherungsanspruchs tritt nach § 14 VVG ein, sobald der Versicherer die Ermittlungen über den Versicherungsfall als abgeschlossen ansehen konnte oder er trotz Ablauf einer angemessenen Prüfungszeit keine Entscheidung getroffen hat; Verzug des Versicherers tritt ab diesem Zeitpunkt gemäß §§ 286 ff. BGB ein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.07.2009 — **IV ZR 216/07**, NJW 2009, 3501 Rn. 15: Risikoausschlüsse in AVB unterliegen ebenso wie Hauptleistungspflichten der Inhaltskontrolle nach § 307 BGB; eine Klausel, die einen typischen Versicherungsfall aus dem Schutzbereich ausschließt, ist wegen unangemessener Benachteiligung nach § 307 Abs. 2 Nr. 2 BGB unwirksam.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 14 VVG (Fälligkeit Versicherungsleistung, Zahlungsverzug) → § 28 Abs. 3 VVG (Kausalitätsgegenbeweis) → §§ 305c, 307 BGB (AVB-Auslegung, Inhaltskontrolle) → § 203 BGB (Hemmung Verjährung durch Verhandlungen) → § 288 BGB (Verzugszinsen 5 Prozentpunkte über Basiszins)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Bruck/Möller, VVG, 9. Aufl. 2012 ff., § 14 VVG: Fälligkeit und Verzug; §§ 28, 81 VVG: Obliegenheiten und Ausschlüsse.
-- Prölss/Martin, VVG, 31. Aufl. 2021, §§ 28, 307 BGB: AVB-Kontrolle, Obliegenheitsverletzungen.
-
----
-
-<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: (1) OLG Köln 9 U 39/23 (NOT_FOUND — dejure.org: keine Treffer; kein Ersatz gefunden): Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. (2) BGH IV ZR 219/14 (NOT_FOUND — dejure.org: kein Eintrag nachweisbar): alle Verweise auf dieses AZ in Tabelle, Prüfschema, Baustein und Strategischer Empfehlung durch Normverweise (§ 307 Abs. 1 S. 2 BGB) ersetzt; AZ aus Quellen-Zeile entfernt. Frontmatter unverändert.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

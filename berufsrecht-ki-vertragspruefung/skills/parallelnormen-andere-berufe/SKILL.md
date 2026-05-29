@@ -1,6 +1,6 @@
 ---
 name: parallelnormen-andere-berufe
-description: "Norm-Adapter-Referenz fuer alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftspruefer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln fuer Berufsausuebungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen."
+description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen."
 ---
 
 # Parallelnormen — alle fünf Berufe
@@ -88,9 +88,7 @@ Diese Skill liefert primär Referenzdaten für andere Skills. Sie kann auch eige
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Verschwiegenheitspflicht des Rechtsanwalts als strenger Schutzstandard; jede Offenbarung von Mandatsgeheimnissen gegenüber Dritten bedarf gesetzlicher Grundlage.
-- BFH, Urt. v. 13.07.2021 — VIII R 29/19, BFHE 273, 456 Rn. 32: Verschwiegenheitspflicht des Steuerberaters nach § 57 Abs. 1 StBerG schützt auch Informationen, die der Steuerberater im Rahmen der Beratung erlangt hat; Weitergabe an KI-Systeme bedarf berufsrechtlicher Rechtfertigung nach § 62a StBerG.
-- OLG Frankfurt, Urt. v. 17.11.2020 — 8 U 25/20, NJW-RR 2021, 145 Rn. 22: Zur Haftung des Notars für Geheimnisverrat nach § 18 BNotO; Notar darf Akteninhalte nicht an externe Dienstleister weitergeben, ohne die besonderen Anforderungen des § 26a BNotO zu erfüllen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -102,11 +100,9 @@ Diese Skill liefert primär Referenzdaten für andere Skills. Sie kann auch eige
 - §§ 203, 204 StGB — Straftatbestände für alle Berufsgruppen
 - §§ 53a, 97 StPO — Strafprozessuale Absicherung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 1–120: Umfassende Darstellung des § 203 StGB; alle Berufsgeheimnisträger nach Abs. 1; Abs. 3 Satz 2 zur Mitwirkung Dritter; Abs. 4 zu rechtswidriger Offenbarung; Sekundärpflicht Abs. 4 Satz 2 Nr. 1.
-- Böttcher, in: Henssler/Streck (Hrsg.), Handbuch des Anwaltsrechts, 2023, § 43e Rn. 1–50: Parallele Anforderungen der verschiedenen Berufsgeheimnisregime im Vergleich.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Berufsgruppe(n) sind betroffen — einzeln oder gemischte Sozietät?
@@ -136,8 +132,7 @@ Besonderheiten: [SONDERREGELN]
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 016 – Halluzinations-Reparatur
-Problem: BGH X ARZ 148/22 – NOT_FOUND. Keine Entscheidung BGH X ARZ 148/22 vom 08.03.2022 in dejure.org nachweisbar ("Nichts gefunden").
-Beanspruchtes Thema: Gleichbehandlung Berufsgeheimnisträger § 97 StPO, Durchsuchungsschutz Anwälte; NJW 2022, 1879.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.03.2022&Aktenzeichen=X+ARZ+148/22
 -->

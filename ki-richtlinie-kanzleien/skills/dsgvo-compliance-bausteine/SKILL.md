@@ -1,6 +1,6 @@
 ---
 name: dsgvo-compliance-bausteine
-description: "DSGVO-Textbausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert KI-Richtlinie und benoetigt prazise datenschutzrechtliche Formulierungen. Art. 2 Abs. 1 DSGVO Anwendungsbereich, Art. 6 DSGVO Rechtsgrundlage, Art. 9 DSGVO besondere Kategorien, Art. 28 DSGVO AVV. Pruefraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Loeschkonzept. Output DSGVO-Bausteine-Sammlung anpassbar fuer Kanzlei-Profil mit Normreferenzen. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Anonymisierung-Pseudonymisierung."
+description: "DSGVO-Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert KI-Richtlinie und benoetigt prazise datenschutzrechtliche Formulierungen. Art. 2 Abs. 1 DSGVO Anwendungsbereich, Art. 6 DSGVO Rechtsgrundlage, Art. 9 DSGVO besondere Kategorien, Art. 28 DSGVO AVV. Prüfraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Löschkonzept. Output DSGVO-Bausteine-Sammlung anpassbar für Kanzlei-Profil mit Normreferenzen. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Anonymisierung-Pseudonymisierung."
 ---
 
 # DSGVO-Compliance-Bausteine
@@ -39,10 +39,7 @@ Beim Einsatz von KI-Anbietern mit Sitz außerhalb des Europäischen Wirtschaftsr
 Drittlandtransfer-Regelungen sind besonders anfällig für Änderungen (Schrems-Urteile, neue Kommissionsbeschlüsse). Der Baustein ist bei neuen EuGH-Entscheidungen oder Änderungen des EU-US-Rahmens sofort zu aktualisieren. Ebenso bei neuen Datenschutzbehörden-Entscheidungen zu konkreten KI-Anbietern.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer-Compliance erfordert TIA; Textbausteine muessen SCC-Klausel und TIA-Pflicht abbilden.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: Art. 82 DSGVO — Schadensersatz bei Verstoss gegen Art. 6 und Art. 28 DSGVO; Bausteine muessen Rechtsgrundlagen-Pruefung verankern.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 77: Art. 82 DSGVO Schadensersatz bei Datenpanne — Bausteine muessen Art. 32 TOM-Anforderungen abdecken.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 DSGVO — Rechtsgrundlagen der Verarbeitung

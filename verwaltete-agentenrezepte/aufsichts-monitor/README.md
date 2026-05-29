@@ -15,7 +15,7 @@ Gleiche Quelle wie das [`regulatorisches-recht`](../../regulatorisches-recht)-Pl
 
 - **Jede Klassifizierung ist ein Hinweis, kein Befund.** Ein Eintrag, den der Wesentlichkeitsfilter als nachrangig einstuft, kann derjenige sein, der eine Handlungspflicht auslöst. Behandeln Sie die Digest-Zusammenfassung als Vorfilter für menschliche Prüfung, nicht als abschließende Würdigung.
 - **Feeds sind nicht vertrauenswürdige Eingaben.** Amtliche Feeds sind zwar öffentlich, aber RSS-Einträge, Metadaten und verlinkte Dokumente können Zeichenketten enthalten, die nachgelagerte Prozesse manipulieren sollen. Der Feed-Reader liefert schema-validiertes JSON; der Digest-Writer sieht nur strukturierte Daten.
-- **Vollständigkeit ist nicht garantiert.** Feeds haben Veröffentlichungsverzögerungen. Eine Meldung „keine neuen Einträge" ist eine Aussage über den Datenstand des Feeds, keine Aussage über die Rechtslage. Prüfen Sie kritische Themenfelder regelmäßig durch direkten Zugriff auf die amtliche Quelle.
+- **Vollständigkeit ist nicht garantiert.** Feeds haben Veröffentlichungsverzögerungen. Eine Meldung "keine neuen Einträge" ist eine Aussage über den Datenstand des Feeds, keine Aussage über die Rechtslage. Prüfen Sie kritische Themenfelder regelmäßig durch direkten Zugriff auf die amtliche Quelle.
 - **Der Wesentlichkeitsfilter wendet Heuristiken an, keine rechtliche Beurteilung.** Die Schwellenwerte müssen vom deployenden Team auf das konkrete Mandatsprofil zugeschnitten werden.
 
 ## Deployment
@@ -66,4 +66,4 @@ Behördenfeeds und die darin verlinkten Dokumente sind **nicht vertrauenswürdig
 - **Kartellrecht:** §§ 1, 19, 20 GWB (Kartellverbot, Marktmacht), Art. 101, 102 AEUV, Bekanntmachungen des Bundeskartellamts
 - **Datenschutz:** DSGVO (EU) 2016/679, BDSG, §§ 64 ff. BDSG (Aufsichtsbehörden), Leitlinien des EDSA
 
-Vgl. Boos/Fischer/Schulte-Mattler (Hrsg.), KWG, 5. Aufl. 2016; Assmann/Schneider/Mülbert (Hrsg.), WpHG, 7. Aufl. 2019; Kühling/Buchner (Hrsg.), DSGVO/BDSG, 4. Aufl. 2024.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

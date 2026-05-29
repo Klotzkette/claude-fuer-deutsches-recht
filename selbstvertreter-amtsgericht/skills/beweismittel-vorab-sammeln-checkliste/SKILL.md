@@ -1,6 +1,6 @@
 ---
 name: beweismittel-vorab-sammeln-checkliste
-description: "Checkliste fuer die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist."
+description: "Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist."
 ---
 
 # Sammeln Sie Beweise — bevor Sie klagen

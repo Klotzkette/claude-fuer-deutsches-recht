@@ -1,6 +1,6 @@
 ---
 name: energierecht-transaktionen-dd
-description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen. Normen: §§ 453 ff. BGB, EnWG, EEG, KWKG. Pruefraster: Genehmigungs-Status, Netzvertrag, EEG-Verguetungsrecht, Umweltrisiken. Output: Due-Diligence-Bericht Energietransaktion. Abgrenzung: nicht Projektfinanzierung."
+description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen. Normen: §§ 453 ff. BGB, EnWG, EEG, KWKG. Prüfraster: Genehmigungs-Status, Netzvertrag, EEG-Verguetungsrecht, Umweltrisiken. Output: Due-Diligence-Bericht Energietransaktion. Abgrenzung: nicht Projektfinanzierung."
 ---
 
 # Energie-Transaktionen und Due Diligence
@@ -110,7 +110,7 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 
 - Anlage in Insolvenz des Verkäufers
 - Insolvenz-Verwalter veräußert
-- BGH II ZB zur Insolvenz-Anlage-Verkauf
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Anfechtungs-Risiko
 
@@ -265,19 +265,15 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- OLG Hamburg, Urt. v. 23.06.2022 — 6 U 130/21, NZG 2022, 1190 — Share Deal bei Windpark-GmbH; Haftung fuer oeffentlich-rechtliche Lasten (Rueckforderung EEG-Verguetung) trifft Erwerber bei Kenntnis; M&A-Garantien in SPA unverzichtbar
-- BVerwG, Urt. v. 15.06.2023 — 7 C 15.21, NVwZ 2023, 1588 — BImSchG-Genehmigung erlischt bei fehlender Realisierungsabsicht nach drei Jahren; Erwerber muss im Rahmen der DD Genehmigungsstatus aktiv verifizieren
-- EuGH, Urt. v. 28.04.2022 — C-444/20, NVwZ 2022, 969 — Beihilfen-Rueckforderungsrisiko bei EE-Foerderung; Erwerber einer Anlage kann Rueckforderungs-Bescheid erhalten wenn Beihilfe nicht mit dem Binnenmarkt vereinbar war; kein gutglaeubiger Erwerb bei oeffentlichen Foerderungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 453, 437, 434 BGB (Rechtskauf, Maengelhaftung, Beschaffenheitsvereinbarung) — §§ 75 ff. UmwG (Spaltung, Umstrukturierung Energiegesellschaft) — §§ 48, 49 VwVfG (Widerruf Foerderbescheid) — § 33 EEG (MaStR-Eintrag) — Art. 107, 108 AEUV (Beihilfen-Rueckforderung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 19-33 EEG Rn. 1 ff. (EEG-Verguetung als Due-Diligence-Gegenstand)
-- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 453 Rn. 1 ff. (Rechtskauf EEG-Anlage, Maengelhaftung SPA)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung`
@@ -295,10 +291,9 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 - UmwG / GmbHG / AktG für Share Deals
 - EU-AGVO 651/2014
 - EU-Beihilfen-Verfahrens-Verordnung 2015/1589
-- BGH II ZB zu Insolvenz-Asset-Deals
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH zu Energie-Steuer-Behandlung
 - Bundeskartellamt-Praxis Energie-Fusionen
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH VIII ZR 8/20 (NOT_FOUND): Aktenzeichen auf dejure.org nicht nachweisbar; kein BGH-Urteil zu Due-Diligence-Offenbarungspflicht EEG/MaStR unter diesem AZ gefunden. Zitat entfernt. -->

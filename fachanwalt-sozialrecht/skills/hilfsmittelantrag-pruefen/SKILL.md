@@ -1,6 +1,6 @@
 ---
 name: hilfsmittelantrag-pruefen
-description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zustaendig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Pruefraster: Zustaendigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgruende. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad)."
+description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad)."
 ---
 
 # Hilfsmittelantrag prüfen
@@ -88,12 +88,8 @@ description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflege
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 25.02.2015 - B 3 KR 13/13 R, SozR 4-2500 § 33 Nr. 47 Rn. 19 — Der Anspruch auf Hilfsmittelversorgung nach § 33 SGB V setzt einen konkreten Teilhabe- oder Ausgleichsbedarf voraus; die Krankenkasse darf sich nicht allein auf die Listung im Hilfsmittelverzeichnis beschränken, sondern muss den individuellen Bedarf prüfen.
-- BSG, Urt. v. 10.03.2011 - B 3 KR 9/10 R, SozR 4-2500 § 33 Nr. 34 Rn. 22 — Bei gleichwertigen Alternativversorgungen darf die Kasse die kostengünstigere wählen; verlangt der Versicherte ein teureres Modell aus medizinisch begründeten Gründen, hat er Anspruch auf dessen Mehrkosten-Übernahme.
-- BSG, Urt. v. 07.10.2010 - B 3 KR 5/10 R, SozR 4-2500 § 13 Nr. 28 Rn. 30 — Die Genehmigungsfiktion des § 13 Abs. 3a SGB V tritt kraft Gesetzes ein, wenn die Kasse binnen drei Wochen nicht entschieden hat; der Versicherte kann das Hilfsmittel auf Kosten der Kasse selbst beschaffen.
-- BSG, Urt. v. 08.07.2015 - B 3 KR 6/14 R, SozR 4-2500 § 33 Nr. 53 Rn. 15 — Hilfsmittel zur Pflegeerleichterung nach § 40 SGB XI und zur Rehabilitation nach § 33 SGB V können bei identischem Gegenstand nebeneinander bestehen; der Träger, der zuerst Kenntnis erlangt, ist nach § 14 SGB IX vorleistungspflichtig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kasseler Kommentar Sozialversicherungsrecht, Höfler § 33 SGB V Rn. 1 ff. (Hilfsmittel gesetzliche KV)
-- Hauck/Noftz SGB XI, § 40 Rn. 1 ff. (Pflegehilfsmittel, Wohnumfeld)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

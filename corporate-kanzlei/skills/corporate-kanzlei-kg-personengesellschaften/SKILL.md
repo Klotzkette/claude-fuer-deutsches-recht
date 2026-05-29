@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-kg-personengesellschaften
-description: "KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Pruefraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht."
+description: "KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Prüfraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht."
 ---
 
 # KG und Personengesellschaften — Corporate/M&A
@@ -25,16 +25,11 @@ description: "KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.11.2019 - II ZR 398/17, BGHZ 224, 68 — Kommanditanteil-Uebertragung: Formfreiheit bei gewoehnlicher Abtretung; kein Notar (anders als GmbH-Anteile); Vinkulierungs-Klausel im Gesellschaftsvertrag muss beachtet werden
-- BGH, Urt. v. 14.09.2020 - II ZR 74/20, NJW 2021, 225 — Treuhaenderschaft an KG-Anteilen: Treugeber hat mittelbar Rechte; wirtschaftlicher Eigentuemer relevant fuer GwG-UBO
-- BGH, Urt. v. 16.03.2021 - II ZR 140/20, BGHZ 229, 199 — GmbH & Co. KG: Identitaet der Gesellschafter von GmbH und KG keine Voraussetzung; Streit ueber Komplementaer-Auswechslung ist GV-Beschluss-Sache
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo HGB/Schmidt §§ 105-177a — OHG und KG
-- Baumbach/Hopt HGB (41. Aufl. 2022) §§ 161-177a — KG-Kommentar
-- Schoen/Schmidt/Werner, MoPeG-Kommentar (2024) — GbR-Reform
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anteilsuebertragung bei Personengesellschaften
 
 | Form | OHG/KG/GmbH & Co. KG | GbR (nach MoPeG) |
@@ -100,5 +95,5 @@ Datum: [DATUM]
 ## Quellen
 
 - §§ 105-177a HGB; §§ 705-740c BGB n.F. (MoPeG); § 15 EStG; § 24 UmwStG
-- BGH II ZR 398/17 (Kommanditanteil-Abtretung); BGH II ZR 74/20 (Treuhaender-KG); BGH II ZR 140/20 (GmbH & Co. KG)
-- MueKo HGB/Schmidt §§ 105-177a; Schoen/Schmidt/Werner, MoPeG (2024)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-1-abs-3-baugb
-description: "Mandant greift Bebauungsplan als Gefaelligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Pruefraster: nachvollziehbares staedtebauliches Konzept erforderlich Gefaelligkeitsplanung zugunsten Privater unzulaessig Vorhabenbezogener B-Plan Gefahr Negativplanung Verhinderungsplanung. Massstab BVerwG 4 C 56.84. Immer beachtlich nicht ruegepflichtig § 215 BauGB. Output: Erforderlichkeits-Pruefung und Angriffspunkt Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb."
+description: "Workflow-Skill zu erforderlichkeit 1 abs 3 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Erforderlichkeit § 1 Abs. 3 BauGB
@@ -146,10 +146,8 @@ Die Erforderlichkeit ist die strengste materielle Hürde und kein Abwägungselem
 
 ## Ergänzende Rechtsprechung
 
-- BVerwG, Urt. v. 17.12.2002 - 4 C 15.01, BVerwGE 117, 287 Rn. 18 — Eine Negativplanung (Verhinderungsplanung) ist unzulässig wenn kein positives Planungskonzept erkennbar ist und die Planung ausschließlich darauf abzielt, ein bestimmtes Vorhaben zu verhindern; maßgeblich ist die Gesamtschau aus Planentstehungsgeschichte und Begründung.
-- BVerwG, Urt. v. 27.03.2013 - 4 CN 7.11, BVerwGE 146, 170 Rn. 11 — Beim vorhabenbezogenen Bebauungsplan § 12 BauGB ist die städtebauliche Rechtfertigung auch dann gegeben wenn die Initiative vom Vorhabenträger ausging; entscheidend ist das planerische Eigeninteresse der Gemeinde.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 1 Abs. 3 Rn. 25-60 (Erforderlichkeit systematisch)
-- Hoppe/Bönker/Grotefels Öffentliches Baurecht 5. Aufl., § 4 Rn. 60-90 (Planrechtfertigung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

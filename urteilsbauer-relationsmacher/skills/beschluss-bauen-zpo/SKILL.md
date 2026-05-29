@@ -1,6 +1,6 @@
 ---
 name: beschluss-bauen-zpo
-description: "Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Pruefraster: Unterschied Beschluss/Urteil (Begruendungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begruendung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgruende-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit."
+description: "Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begründung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgründe-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit."
 ---
 
 # Beschluss bauen — Zivilprozess
@@ -38,7 +38,7 @@ Wie beim Urteil:
 
 ### Überschrift
 
-`**Beschluss**` (zentriert), nicht „Urteil", nicht „Verfügung"
+`**Beschluss**` (zentriert), nicht "Urteil", nicht "Verfügung"
 
 ### Tenor
 
@@ -46,7 +46,7 @@ Klar, knapp, vollstreckbar. **Imperative Form**, keine Konditionalsätze.
 
 ### Gründe
 
-Knapper als beim Urteil — meist 1-3 Absätze. Aber: **vollständig genug, dass das Beschwerdegericht die Prüfung nachvollziehen kann** (Paragraf 567 ff. ZPO). Bei Hinweisbeschluss müssen die rechtlichen Hinweise so konkret sein, dass die Parteien angemessen reagieren koennen (BGH NJW 2020, 1740 Rn. 14).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtsmittelbelehrung
 
@@ -137,7 +137,7 @@ oder z.B.
 Die Kosten des Rechtsstreits traegt der Beklagte (Paragraf 91a I 1 ZPO).
 ```
 
-> **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklärung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darüber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor „Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegründung gehören dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
+> **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklärung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darüber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor "Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegründung gehören dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
 
 ## 4) Begründungsmuster
 
@@ -189,20 +189,20 @@ gegeben.
 
 ## 6) Typische Fehler
 
-1. **Tenor unvollstreckbar.** Tenor muss aus sich heraus vollstreckbar sein. „Der Antrag wird teilweise zurueckgewiesen" reicht nicht — der zugesprochene Teil ist zu bezeichnen.
+1. **Tenor unvollstreckbar.** Tenor muss aus sich heraus vollstreckbar sein. "Der Antrag wird teilweise zurueckgewiesen" reicht nicht — der zugesprochene Teil ist zu bezeichnen.
 2. **PKH-Beschluss ohne Beiordnung.** Bei Anwaltszwang (LG, OLG, FamG mit Anwaltszwang) muss die Beiordnung mit ausgesprochen werden (Paragraf 121 ZPO).
-3. **Hinweisbeschluss zu unkonkret.** „Die Klage ist substanziierungsbedürftig" reicht nicht. Konkret muss benannt werden, was vorgetragen werden soll. BGH NJW 2020, 1740 Rn. 14; BGH NJW 2017, 3155.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Streitwertbeschluss zu spaet.** Festsetzung bis zur nächsten Instanz möglich, aber meist mit Urteil/Endbeschluss (Paragraf 63 II GKG).
 5. **Erledigungsbeschluss ohne Begründung der Kostenentscheidung.** Paragraf 91a ZPO verlangt billiges Ermessen; mindestens kurze Begründung der Kostenquote.
 6. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versäumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).
-7. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk „für den an der Unterschrift verhinderten Richter [Name] gemäß Paragraf 315 ZPO".
+7. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk "für den an der Unterschrift verhinderten Richter [Name] gemäß Paragraf 315 ZPO".
 
 ## 7) Schnellprüfung vor Versand
 
 - [ ] Aktenzeichen korrekt?
 - [ ] Parteien vollständig bezeichnet?
 - [ ] Tenor aus sich heraus vollstreckbar?
-- [ ] Norm-Stütze für den Tenor (z.B. „Paragraf 91a I ZPO")?
+- [ ] Norm-Stütze für den Tenor (z.B. "Paragraf 91a I ZPO")?
 - [ ] Begründung ausreichend für das Beschwerdegericht?
 - [ ] Rechtsmittelbelehrung mit Frist und Form?
 - [ ] Unterschrift(en) vollständig?

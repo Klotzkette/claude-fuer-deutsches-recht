@@ -7,7 +7,7 @@ description: "DBA Deutschland Portugal. Anwendungsfall Pensionen Algarve NHR-Sta
 
 ## Kernsachverhalt
 
-Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129) regelt unter anderem die Renten- und Pensionsbesteuerung in der hochrelevanten Algarve-Konstellation: deutsche Rentner mit Wohnsitz Portugal und (frueher) NHR-Status (non-habitual resident). Madeira ist Sondersteuergebiet mit ermaessigten Saetzen. **Datum und Aenderungsprotokolle verifizieren.**
+Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) regelt unter anderem die Renten- und Pensionsbesteuerung in der hochrelevanten Algarve-Konstellation: deutsche Rentner mit Wohnsitz Portugal und (frueher) NHR-Status (non-habitual resident). Madeira ist Sondersteuergebiet mit ermaessigten Saetzen.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,15 +23,15 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129) regelt unter anderem die 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Portugal vom 15.07.1980**, in Kraft 08.10.1982 (BGBl. 1982 II S. 129) — **verifizieren**.
+- **DBA Deutschland-Portugal vom 15.07.1980**, in Kraft 08.10.1982 (BGBl. 1982 II S. 129; BStBl. 1982 I S. 347).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Portugal hat das MLI am 28.02.2020 ratifiziert; Deutschland ebenfalls. Das DBA DE-PT ist jedoch bislang nicht im deutschen MLI-Anwendungsgesetz erfasst (Gesetzesentwurf zur Erweiterung vom 28.01.2026 in Vorbereitung) — DBA DE-PT gilt Stand 05/2026 nicht als MLI-modifiziert.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 22/15 zu Portugal-Pensionen — **verifizieren**.
-- BMF-Schreiben Portugal NHR-Status — **verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Aktuelle BMF-Schreiben zum DBA-Portugal und zur NHR-Reform im BMF-Schreiben-Verzeichnis abrufen.
 
 ## Land-spezifisches
 
@@ -46,17 +46,17 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129) regelt unter anderem die 
 - Loehne 183-Tage.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL 0 Prozent Schachtel.
-- **Zinsen** (Art. 11): typ. 0/10/15 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0/10 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 25 Prozent Beteiligung), 15 Prozent (Streubesitz). EU-MTRL 0 Prozent Schachtel vorrangig.
+- **Zinsen** (Art. 11): Quellenbesteuerungsrecht im Quellenstaat; DBA-Hoechstsatz 10 Prozent. Konkrete DBA-Klausel bei Anwendungsfall pruefen.
+- **Lizenzgebuehren** (Art. 12): DBA-Hoechstsatz 10 Prozent. Konkrete DBA-Klausel bei Anwendungsfall pruefen.
 
 ### Vermeidungs-Methode (Art. 24)
 - **Anrechnungsmethode** ueberwiegend in DBA-Portugal — entgegen Freistellungsstandard.
 - Folge: deutsche Pensionen voll im Welteinkommen.
 
 ### Besonderheiten
-- **NHR-Status (non-habitual resident)**: ermoeglichte ueber einen Zeitraum von bis zu 10 Jahren eine ueberwiegend beguenstigte Besteuerung in Portugal (insb. fuer auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer eingefuehrt; **konkrete Voraussetzungen und Saetze nach portugiesischem Recht im jeweiligen Veranlagungszeitraum verifizieren**). Deutsches BMF prueft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
-- **NHR-Reform 2024**: NHR-Programm fuer Neuzugaenge nach Pressemitteilungen weitgehend geschlossen, mit Bestandsschutz fuer Altfaelle und engen Uebergangsregelungen — **konkrete Rechtslage und etwaiges Nachfolgeprogramm (z.B. NHR 2.0/IFICI fuer Wissenschaftler) im konsolidierten portugiesischen Steuerrecht und in einschlaegigen BMF-Schreiben verifizieren**.
+- **NHR-Status (non-habitual resident)**: ermoeglichte ueber einen Zeitraum von bis zu 10 Jahren eine ueberwiegend beguenstigte Besteuerung in Portugal (insb. fuer auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prueft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
+- **NHR-Reform 2024**: Das NHR-Programm ist fuer Neuzugaenge ab 2024 weitgehend geschlossen; Bestandsschutz fuer Altfaelle mit NHR-Registrierung vor 2024. Nachfolger ist das IFICI-Regime (Incentivo Fiscal a Investigacao Cientifica e Inovacao — fuer Wissenschaftler, Hochqualifizierte und bestimmte Investoren). Konkrete Einzelheiten nach portugiesischem Steuerrecht im Anwendungsfall pruefen.
 - **Madeira**: Madeira International Business Center mit ermaessigtem Koerperschaftsteuersatz; DBA-Berechtigung pruefen.
 - **Pensionen** Art. 18: gesetzliche Renten Wohnsitzstaat, oeffentlicher Dienst Kassenstaat.
 
@@ -77,8 +77,8 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129) regelt unter anderem die 
 
 ## Strategie und Praxis-Tipps
 
-- NHR-Status: deutsches FA pruegt mit § 50d Abs. 9 EStG (Rueckfallklausel) bei Pension, die in PT durch NHR nicht besteuert wird — Doppelbefreiung verhindert.
-- NHR-Programm seit 2024 weitgehend beendet — Bestandsschutz; Neuzugaenge nur in Sonderfaellen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- NHR-Programm seit 2024 weitgehend beendet — Bestandsschutz; Neuzugaenge nur in Sonderfaellen (IFICI).
 - Madeira-Holding: spezifischer Substanztest, da Madeira International Business Center privilegiert.
 - Pensionsbesteuerung bei Wohnsitz Algarve: Anrechnungsmethode in DBA-Portugal — Anrechnungslimit kann zu hoeherer Belastung fuehren als bei DBA mit Freistellung.
 - EU-MTRL geht DBA bei Schachtel-Dividenden vor.
@@ -89,4 +89,6 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129) regelt unter anderem die 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Portugal 15.07.1980, in Kraft 08.10.1982. NHR-Reform 2024. **Datum, BGBl-Fundstelle, MLI-Notification, NHR-Reform-Details und Quellensteuer-Saetze konkret verifizieren.**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

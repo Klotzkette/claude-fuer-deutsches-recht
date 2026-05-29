@@ -1,6 +1,6 @@
 ---
 name: urteil-sozialgericht-was-jetzt
-description: "Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis fuer Buerger."
+description: "Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger."
 ---
 
 # Sie haben das Urteil bekommen — was jetzt?

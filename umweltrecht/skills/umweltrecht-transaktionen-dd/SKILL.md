@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-transaktionen-dd
-description: "M&A-Transaktion und Anwalt prueft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Pruefraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD)."
+description: "M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD)."
 ---
 
 # Umweltrechtliche Transaktions-Due-Diligence
@@ -27,17 +27,11 @@ description: "M&A-Transaktion und Anwalt prueft Umwelt-DD-Risiken im Datenraum: 
 
 ## Leitentscheidungen
 
-- BGH, Urt. v. 02.04.2014 — IV ZR 16/13, NJW 2014, 2283 — BBodSchG § 4 Abs. 3; Gesamtrechtsnachfolger haftet fuer Altlasten des Verursachers ohne zeitliche Begrenzung; Kaufvertrag-Haftungsausschluss gilt nur inter partes.
-- BVerwG, Urt. v. 18.11.2010 — 7 C 11.09, BVerwGE 138, 186 — § 4 BBodSchG; Pflichtigkeit des Eigentuemers unabhaengig von Verursachung; DD-Red-Flag: Eigentuemer haftet.
-- BGH, Urt. v. 01.10.2020 — III ZR 148/19, NJW 2021, 370 — § 24 BBodSchG Ausgleichsanspruch; Gesamtschuldner-Ausgleich bei Sanierung; Bedeutung fuer Kaufvertragsgestaltung (W&I-Versicherung).
-- BVerwG, Urt. v. 14.04.2022 — 7 C 3.20, NVwZ 2022, 1403 — § 4 Abs. 3 BBodSchG; Verhaltensverantwortlichkeit auch bei gutglaeubigem Erwerber; Grundstueckserwerb kein Haftungsausschluss.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kloepfer Umweltrecht § 12 Rn. 200-350 (Altlasten und Bodenschutz, Transaktionsbezug)
-- Landmann/Rohmer BImSchG § 4 Rn. 50-90 (Genehmigungspflicht bei Rechtsnachfolge)
-- Sanden BBodSchG §§ 4, 9, 24 (Sanierungspflicht, Erstattungsanspruch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow DD
 
 ### Phase 1: Kick-off und Scope-Setting

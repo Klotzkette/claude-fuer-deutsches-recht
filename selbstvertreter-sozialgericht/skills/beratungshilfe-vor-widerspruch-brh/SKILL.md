@@ -1,6 +1,6 @@
 ---
 name: beratungshilfe-vor-widerspruch-brh
-description: "Beratungshilfe nach BerHG fuer kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil."
+description: "Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil."
 ---
 
 # Beratungshilfe — Anwalt vor dem Widerspruch

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschafterstreit-eilantraege
-description: "Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschaeftsfuehrer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Pruefraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss."
+description: "Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschäftsführer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss."
 ---
 
 # Gesellschafterstreit — Eilanträge
@@ -45,15 +45,15 @@ In der Praxis wird die Registersperre durch Antrag beim zuständigen Amtsgericht
 > § 243 AktG (Anfechtbarkeit): Beschluss anfechtbar bei Verstoß gegen Gesetz oder Satzung.
 > § 246 Abs. 1 AktG (Anfechtungsfrist): 1 Monat ab Beschlussfassung.
 
-BGH-Linie: §§ 243, 246 AktG gelten analog für GmbH-Gesellschafterbeschlüsse (BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 — Gelatine).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 47 Abs. 4 GmbHG — Stimmverbot**
-> „Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
+> "Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
 
 Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefangene Stimme das Ergebnis beeinflusst hat.
 
 **§ 55 Abs. 4 GmbHG — Bezugsrecht bei Kapitalerhöhung**
-> Gesellschafter haben bei Kapitalerhöhung grundsätzlich ein Bezugsrecht auf neue Anteile entsprechend ihrer Beteiligungsquote. Ausschluss erfordert sachliche Rechtfertigung (BGH-Linie, Kali+Salz — BGH, Urt. v. 13.03.1978 – II ZR 142/76, BGHZ 71, 40).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 894 ZPO — Klage auf Abgabe einer Willenserklärung**
 > Bei rechtskräftiger Verurteilung zur Abgabe einer Willenserklärung (z.B. Stimmabgabe) gilt die Erklärung als mit Rechtskraft des Urteils abgegeben. Im Eilverfahren kann das Gericht anordnen, dass der Gesellschafter eine bestimmte Stimme abgibt.
@@ -62,13 +62,7 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
-| BGH | II ZR 41/96 | BGHZ 134, 364 (Gelatine) | §§ 243, 246 AktG analog GmbH; Anfechtungsklage des GmbH-Gesellschafters gegen fehlerhafte Beschlüsse |
-| BGH | II ZR 142/76 | BGHZ 71, 40 (Kali+Salz) | Bezugsrechtsausschluss bei KE; sachliche Rechtfertigung zwingend; verhältnismäßig; Gerichtskontrolle |
-| BGH | II ZR 173/04 | BGHZ 164, 107 | Hinauskündigungsgrenze; sachliche Rechtfertigung für Einziehung; Bad-Leaver-Klauseln zulässig wenn sachlich gerechtfertigt |
-| BGH | II ZR 47/98 | NJW 1999, 3113 | Anfechtungsfrist analog § 246 AktG auch bei GmbH |
-| OLG München | 7 U 3831/19 | NZG 2020, 509 | Einstweilige Verfügung gegen Kapitalerhöhungsbeschluss; Verfügungsgrund bei drohender unwiderruflicher Verwässerung |
-| OLG Hamburg | 11 W 41/17 | NZG 2018, 222 | Registersperre nach § 16 HGB; Anmeldungs-Sperre vor drohender Eintragung |
-| BGH | II ZR 6/03 | NZG 2008, 103 | § 48 Abs. 2 GmbHG; Umlaufbeschluss nur bei Einvernehmen aller |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Eilrechtsschutz bei Gesellschafterstreit
 
@@ -105,7 +99,7 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 
 | Frist | Norm | Inhalt | Folge bei Versäumnis |
 |---|---|---|---|
-| Anfechtungsfrist GmbH-Beschluss | § 246 Abs. 1 AktG analog (BGH II ZR 41/96) | 1 Monat ab Beschlussfassung | Beschluss wird endgültig wirksam; Anfechtungsrecht erlischt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Einstweilige Verfügung — Dringlichkeit | § 935 ZPO (Selbstverwirkung) | Zu lange Wartezeit nach Beschluss weckt Zweifel an Eilbedürftigkeit (typisch: > 4–6 Wochen = Dringlichkeit problematisch) | Verfügungsantrag kann wegen fehlender Eilbedürftigkeit zurückgewiesen werden |
 | Anmeldungs-Sperre | § 16 HGB; §§ 374 ff. FamFG | Unverzüglich nach Kenntnis der Anmeldungsabsicht | Nach Eintragung: Registersperre wirkungslos |
 | Widerspruch gegen Registersperre | FamFG | 1 Monat ab Beschluss des Registergerichts (§ 22 FamFG) | Beschluss des Registergerichts wird bestandskräftig |
@@ -131,7 +125,7 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | GF-Abberufung soll sofort vollzogen werden | eV auf Unterlassung der Eintragung + eV auf Unterlassung der Abberufungswirkungen | Sofort; Abberufung wirkt ab Beschluss |
 | Versammlungsleiter umstritten | Neutralen Notar beauftragen; ggf. eV auf Besetzung | Vor Beginn der GV |
 | Streit über Beschlussfähigkeit / fehlendes Quorum | Protokoll anfechten; Feststellungsklage | Bis 1 Monat nach Beschluss |
-| Gesellschafter-Ausschluss (Einziehung) | Prüfung: § 34 GmbHG; sachliche Rechtfertigung (BGH BGHZ 164, 107); eV auf Aussetzung | Unverzüglich nach Bekanntgabe des Beschlusses |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | StaRUG-Plan gegen Golden-Share-Veto | Golden Share greift nicht bei gesetzlicher Insolvenzantragspflicht; Klärung im StaRUG-Verfahren | Sofort bei StaRUG-Antrag |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -193,10 +187,10 @@ Mängeln und ist auf Antrag des Verfügungsklägers für nichtig zu erklären (A
 klage ist beigefügt als Anlage K 1 / wird gleichzeitig eingereicht).
 
 2. Der Bezugsrechtsausschluss zugunsten der [Investor GmbH] ist sachlich nicht
-gerechtfertigt. Nach der Kali+Salz-Doktrin (BGH, Urt. v. 13.03.1978 – II ZR 142/76,
-BGHZ 71, 40) muss der Bezugsrechtsausschluss durch ein im Interesse der Gesellschaft
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 liegendes, sachliches Ziel gerechtfertigt sein und der Verhältnismäßigkeit entsprechen.
-Die pauschale Behauptung eines „strategischen Mehrwerts" genügt diesen Anforderungen
+Die pauschale Behauptung eines "strategischen Mehrwerts" genügt diesen Anforderungen
 nicht.
 
 3. Der Antragsteller hält [X] % der Geschäftsanteile. Durch die Kapitalerhöhung würde
@@ -251,7 +245,7 @@ auszusetzen.
 Begründung:
 
 Der Beschluss der Gesellschafterversammlung vom [Datum] ist anfechtbar, weil:
-1. Der Bezugsrechtsausschluss nicht sachlich gerechtfertigt ist (BGH BGHZ 71, 40).
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. Das Stimmverbot nach § 47 Abs. 4 GmbHG nicht beachtet wurde (Gesellschafter
    [Name] hat trotz Stimmverbots abgestimmt; Protokoll-Anlage A).
 
@@ -308,7 +302,7 @@ I. Sachverhalt
 [Beschreibung der GV, Beschluss, Anteilsverhältnisse]
 
 II. Anfechtungsgrund
-1. Bezugsrechtsausschluss sachlich nicht gerechtfertigt (BGH BGHZ 71, 40)
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. Stimmverbot verletzt (§ 47 Abs. 4 GmbHG)
 3. Verwässerungsschaden quantifiziert (Gutachten Anlage K 2)
 
@@ -385,9 +379,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Scholz, GmbHG, 13. Aufl. 2024, § 47 Rn. 110 ff.; § 55 Rn. 80 ff.
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 43 Rn. 1 ff.
-- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine) — Beschlussmängelklage GmbH.
-- BGH, Urt. v. 13.03.1978 – II ZR 142/76, BGHZ 71, 40 (Kali+Salz) — Bezugsrechtsausschluss.
-- BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 — Hinauskündigungsgrenze.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

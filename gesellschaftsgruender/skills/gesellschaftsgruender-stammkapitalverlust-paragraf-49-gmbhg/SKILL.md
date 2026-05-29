@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg
-description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und Insolvenzpruefung. Normen: §§ 49 Abs. 3 64 GmbHG, § 15a InsO. Pruefraster: Bilanzkennzahlen, Einberufungspflicht, Haftungsrisiken GF. Output: Stellungnahme Stammkapitalverlust und Einberufungsschreiben. Abgrenzung: nicht § 64 GmbHG Zahlungsverbot bei Insolvenzreife."
+description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und Insolvenzprüfung. Normen: §§ 49 Abs. 3 64 GmbHG, § 15a InsO. Prüfraster: Bilanzkennzahlen, Einberufungspflicht, Haftungsrisiken GF. Output: Stellungnahme Stammkapitalverlust und Einberufungsschreiben. Abgrenzung: nicht § 64 GmbHG Zahlungsverbot bei Insolvenzreife."
 ---
 
 # Pflichtversammlung bei Stammkapital-Verlust (§ 49 Abs. 3 GmbHG)
@@ -28,17 +28,11 @@ description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufun
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.06.2018 - II ZR 277/16, NJW 2018, 2723 Rn. 18 — Insolvenzantragspflicht beginnt mit objektivem Eintritt der Insolvenzreife; Unkenntnis des GF entbindet nicht; Pflicht zur laufenden Eigenkapital-Beobachtung.
-- BGH, Urt. v. 26.01.2009 - II ZR 213/07, BGHZ 179, 249 — Zahlungsverbot § 64 GmbHG a.F. (jetzt § 15b InsO): GF haftet persönlich für Zahlungen nach Insolvenzreife, außer er konnte nicht erkennen, dass Insolvenzreife eingetreten ist.
-- BGH, Urt. v. 27.04.2009 - II ZR 253/07, NJW 2009, 2054 — Pflichtversammlung § 49 III GmbHG: Versäumnis begründet eigenständigen Haftungstatbestand des GF; Schaden = Vertiefung der Krise durch unterlassene Gegenmaßnahmen.
-- BGH, Urt. v. 14.05.2020 - IX ZR 54/18, ZIP 2020, 1086 Rn. 22 — Anfechtungsrisiko bei Distressed-M&A: Zahlungen kurz vor Insolvenzantrag anfechtbar; GF muss Gläubigerbenachteiligung vermeiden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Crezelius, GmbHG, § 49 Rn. 15-25 (Pflichtversammlung, Einberufung, Haftungsfolgen)
-- Lutter/Hommelhoff, GmbHG, § 49 Rn. 1-15 (Stammkapitalverlust, Versammlungspflicht)
-- MüKo InsO/Klöhn, § 15a Rn. 1-80 (Insolvenzantragspflicht, Fristberechnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Krisenampel: Überblick Handlungspflichten
 
 | Krisenphase | Erkennungszeichen | Handlungspflicht | Norm | Frist |
@@ -150,7 +144,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Insolvenzreife bereits eingetreten → nicht § 49 GmbHG, sondern § 15a InsO; Insolvenzantragspflicht sofort prüfen.
 - Masseschmälernde Zahlungen nach Insolvenzreife → sofortige persönliche Haftung GF (§ 15b InsO); Zahlungen stoppen.
-- GV nicht unverzüglich einberufen → eigenständige GF-Haftung nach BGH II ZR 253/07.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Zwischenbilanz trotz Anhaltspunkten → Beobachtungspflicht verletzt; Haftungsrisiko.
 - Protokoll der Pflichtversammlung fehlt → kein Nachweis der Pflichterfullung; haftungsrechtlich gefährlich.
 
@@ -159,8 +153,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - §§ 43, 49 GmbHG (GF-Pflichten, Pflichtversammlung)
 - §§ 15a, 15b, 17-19 InsO (Insolvenztatbestände, Antragspflicht, Zahlungsverbot)
 - §§ 1-9 StaRUG (vorinsolvenzlicher Restrukturierungsrahmen)
-- BGH II ZR 277/16, NJW 2018, 2723 (Insolvenzantragspflicht)
-- BGH II ZR 253/07, NJW 2009, 2054 (§ 49 GmbHG Haftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Crezelius, GmbHG, § 49 Rn. 15-25
 
 ## Übergabe an andere Skills

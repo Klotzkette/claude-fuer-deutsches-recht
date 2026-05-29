@@ -1,6 +1,6 @@
 ---
 name: klassifikation-cpc-ipc
-description: "CPC- und IPC-Klassifikation fuer Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen fuer Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Pruefraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begruendung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche."
+description: "CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Prüfraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begründung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche."
 ---
 
 # klassifikation-cpc-ipc
@@ -75,7 +75,7 @@ Pro Klasse zwei Sätze Begründung, **warum** sie passt — verankert in den Sch
 
 ### 5. Verifikation
 
-- Auf den Espacenet-Klassen-Definitionsseiten die **Anmerkungen** lesen (Hinweise „nicht hier, sondern dort").
+- Auf den Espacenet-Klassen-Definitionsseiten die **Anmerkungen** lesen (Hinweise "nicht hier, sondern dort").
 - Eine Stichprobe (3–5 bekannte Patente der Mandantin) klassifizieren lassen und prüfen, ob die Klassen aus Schritt 4 dort tatsächlich angebracht sind.
 
 ### 6. Übergabe
@@ -113,6 +113,6 @@ Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
 
 > **EPA, Technische Beschwerdekammer, T 0190/99 (Klassifikationsirrtum):** Ein Fehler in der Klassifikation einer Anmeldung beeintraichtigt die Neuheit und erfinderische Taetigkeit der Anmeldung nicht, solange der beanspruchte Gegenstand ordnungsgemaess offenbart ist; die Klassifikation ist eine verwaltungstechnische Einordnung, kein Schutzrechtsmerkmal.
 
-> **BGH, Urt. v. 30.03.2004 — X ZR 209/00 (Festmaterial):** Fuer die Auslegung der Patentansprueche nach § 14 PatG ist der Wortlaut massgeblich, wie er vom Fachmann verstanden wird; die Klassifikation des Patents ist bei der Auslegung nachrangig und nicht bindend.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; fuer die agentische Recherche ist die Kombination von Klassen- und Schluessel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren koennen.

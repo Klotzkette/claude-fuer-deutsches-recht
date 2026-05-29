@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-mietrecht
-description: Strukturierte Eingangs-Abfrage fuer mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kuendigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rueckforderung Eigenbedarf Sanierung Raeumung WEG-Beschluss WEG-Hausgeld-Klage). Fristen-Sofort-Check Kuendigungs-Frist nach § 573c BGB Raeumungs-Frist § 721 ZPO WEG-Klage ein Monat § 45 WEG Modernisierung-Ankuendigung drei Monate vorher Mieterhoehung Zustimmungs-Frist zwei Monate § 558b BGB. Eskalation Telefon-Sofort bei Raeumungstermin laufender Kuendigungs-Frist.
+description: Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rückforderung Eigenbedarf Sanierung Räumung WEG-Beschluss WEG-Hausgeld-Klage). Fristen-Sofort-Check Kündigungs-Frist nach § 573c BGB Räumungs-Frist § 721 ZPO WEG-Klage ein Monat § 45 WEG Modernisierung-Ankündigung drei Monate vorher Mieterhoehung Zustimmungs-Frist zwei Monate § 558b BGB. Eskalation Telefon-Sofort bei Räumungstermin laufender Kündigungs-Frist.
 ---
 
 # Mandat-Triage Mietrecht
@@ -133,6 +133,4 @@ Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewe
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Triage-Relevant)
 
-- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296 Rn. 28: Eigenbedarfskuendigung ohne konkrete Benennung des Interessenten und Nutzungszwecks im Kuendigungsschreiben ist formell unwirksam (\u00a7 573 Abs. 3 BGB).
-- BGH, Urt. v. 08.02.2023 — V ZR 8/22, NJW 2023, 2118 Rn. 22: WEG-Klagegegner seit WEMoG (01.12.2020) ist die Gemeinschaft der Wohnungseigentuemer (§ 9a WEG), nicht mehr die einzelnen Miteigentuemer.
-- BGH, Urt. v. 13.07.2022 — VIII ZR 317/21, NJW 2022, 2996 Rn. 22: Schonfristzahlung heilt nur fristlose Kuendigung; ordentliche Kuendigung wegen Zahlungsverzugs bleibt wirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

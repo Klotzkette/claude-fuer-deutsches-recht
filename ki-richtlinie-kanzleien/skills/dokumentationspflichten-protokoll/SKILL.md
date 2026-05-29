@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflichten-protokoll
-description: "Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren fuer Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Pruefraster Pruefprotokoll-Standard, Versionsstand, Pruefer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage fuer KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus."
+description: "Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren für Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Prüfraster Prüfprotokoll-Standard, Versionsstand, Prüfer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage für KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus."
 ---
 
 # Dokumentationspflichten Protokoll
@@ -68,10 +68,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Anforderungen an die Dokumentation können sich durch neue DSGVO-Leitlinien des Europäischen Datenschutzausschusses (EDSA) oder durch berufsrechtliche Konkretisierungen der BRAK weiterentwickeln. Ebenso ist zu beobachten, ob Gerichte in Haftungsfällen konkrete Dokumentationsanforderungen an die KI-Nutzung stellen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO erfordert nachweisbare Dokumentation — bei fehlendem Protokoll keine Exkulpation.
-- BGH, Urt. v. 17.03.2022 — III ZR 79/21, NJW 2022, 2024 Rn. 19: Dokumentationspflicht gilt auch im IT-Bereich — verspaetetes oder fehlendes Protokoll kann Beweislast umkehren.
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Anwaltshaftung — fehlende Dokumentation des Pruefvorgangs bei KI-Ausgaben kann Fahrlässigkeit begruenden.
-- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflicht bei Verwendung automatisierter Systeme erfordert Prozess-Dokumentation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht (Nachweisbarkeit)

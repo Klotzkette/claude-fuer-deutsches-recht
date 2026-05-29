@@ -1,5 +1,14 @@
 # Testakte: LUMEN Studios GmbH — Insolvenz- und Wirtschaftsstrafverfahren
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-schulungsakte-lumen-studios-insolvenz-strafrecht` (diese Akte) | [testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktiver Beispielfall** zur Demonstration des Plugins `schulungsakte-lumen-studios-insolvenz-strafrecht` (Insolvenzrecht + Strafbefehlsverteidigung kombiniert).
 
 ## Verfahrenseckdaten

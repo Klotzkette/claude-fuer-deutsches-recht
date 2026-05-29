@@ -13,10 +13,7 @@ description: "Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iM
 4. Sind Datenschutzrisiken oder Mandatsgeheimnis-relevante Informationen im Eingang enthalten?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Posteingang muss sofort erfasst und auf Fristen geprueft werden; verzoegertes Eingangsbuch begruendet Haftung nach § 51 BRAO.
-- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Zuordnung von Eingaengen zu Akten als Kanzleipflicht: Fehler bei der Akte-Zuordnung begruendet Organisationspflichtverletzung.
-- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — beA-Eingang gilt als zugestellt am Tag des Zugangs; sofortige Pruefung und Aktenzuordnung ist pflichtgemass.
-- LG Berlin, Urt. v. 28.01.2020 - 27 O 550/18, ZD 2020, 265 — Telefonnotiz als Dokumentationspflicht: muendliche Mandanteninstruktionen muessen schriftlich festgehalten werden; fehlende Dokumentation geht zu Lasten des Anwalts.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 51 BRAO — Haftung fuer Organisationspflichtverletzungen im Kanzleibetrieb
@@ -24,10 +21,9 @@ description: "Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iM
 - § 173 ZPO — Zustellungszeitpunkt bei beA-Eingang (massgebend fuer Fristbeginn)
 - Art. 5 Abs. 1 lit. f DSGVO — Integritaet und Vertraulichkeit bei der Verarbeitung von Mandantendaten
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 51 Rn. 1-30 (Kanzleiorganisation: Pflichten bei Eingangsverarbeitung)
-- Zöller/Greger ZPO § 173 Rn. 1-10 (Zustellungszeitpunkt bei beA und Fristfolgen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill nimmt beliebige Eingänge entgegen und macht daraus eine geordnete Kanzlei-Entscheidung: zuordnen, neu anlegen, beantworten, fristen, delegieren oder zurückfragen.

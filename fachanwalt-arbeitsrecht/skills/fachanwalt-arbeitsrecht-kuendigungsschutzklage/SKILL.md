@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-kuendigungsschutzklage
-description: "Kuendigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kuendigung. Anwendungsfall Arbeitnehmer erhaelt Kuendigung und will Klage erheben oder Arbeitgeber prueft Kuendigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Pruefraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kuendigungsgruende Sonderkuendigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
+description: "Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
 ---
 
 # Kündigungsschutzklage (§ 4 KSchG)
@@ -65,24 +65,11 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
-| BAG | 2 AZR 15/15 | 16.07.2015 — Anhörung BR § 102 BetrVG: Vollständigkeit nach subjektiver Determination |
-| BAG | 2 AZR 276/16 | 22.09.2016 — Massenentlassung § 17 KSchG: Verstoß = Unwirksamkeit |
-| BAG | 6 AZR 709/14 | 17.12.2015 — § 623 BGB: elektronische Signatur genügt nicht |
-| BAG | 2 AZR 392/21 | 13.07.2022 — Sozialauswahl: Vergleichsgruppe nach objektiver Austauschbarkeit |
-| BAG | 2 AZR 198/21 | 16.12.2021 — Langzeiterkrankung: Dreistufentest; betriebliche Auswirkung muss konkret dargelegt werden |
-| EuGH | C-134/22 | 13.07.2023 — § 17 KSchG Massenentlassung: Konsultationspflicht vor Kündigungsausspruch |
-| BAG | 2 AZR 43/22 | 02.03.2023 — Verhaltensbedingte Kündigung: Abmahnung entbehrlich nur bei schwerster Pflichtverletzung oder irreparablem Vertrauensbruch |
-| BAG | 2 AZR 214/22 | 25.08.2022 — Sozialauswahl: Altersgruppen-Bildung nach § 1 Abs. 3 S. 2 KSchG zulässig zur Erhaltung ausgewogener Altersstruktur |
-| BAG | 2 AZR 63/22 | 13.10.2022 — Personenbedingte Kündigung: negative Gesundheitsprognose muss auf konkreten Tatsachen beruhen; reine Fehlzeiten-Statistik ist Indiz, nicht ausreichend |
-| BAG | 2 AZR 335/21 | 22.09.2022 — Schriftform § 623 BGB: Zugangszeitpunkt bei Einwurf in Briefkasten; Abwesenheit des Empfängers verzögert Zugang nicht bei regel­mäßiger Postleerung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-## Kommentarliteratur
+## Quellenregel
 
-- APS/Dau, Kündigungsrecht, 6. Aufl. 2022, § 1 KSchG Rn. 1–200 (soziale Rechtfertigung, alle drei Kündigungsarten)
-- ErfK/Oetker, 25. Aufl. 2025, § 1 KSchG Rn. 50 ff. und § 4 KSchG Rn. 1 ff. (Klagefrist, Fiktionswirkung)
-- Schaub/Linck, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 130 Rn. 1 ff. (Kündigungsschutzklage Prozess-Praxis)
-- HWK/Quecke, 11. Aufl. 2024, § 102 BetrVG Rn. 50 ff. (Anhörungsfehler als Kündigungshindernis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Kündigung
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
@@ -95,7 +82,7 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 | 4 | Betriebsgröße > 10 VZÄ? | § 23 KSchG | Kein KSchG-Schutz |
 | 5 | Sonderkündigungsschutz? (MuSchG, BEEG, SGB IX, BetrVG) | §§ 17 MuSchG, 18 BEEG, 168 SGB IX | Unwirksamkeit ohne behördliche Zustimmung |
 | 6 | BR-Anhörung ordnungsgemäß? | § 102 BetrVG | Unwirksamkeit |
-| 7 | Massenentlassung: § 17 KSchG-Anzeige? | § 17 KSchG | Unwirksamkeit (EuGH C-134/22) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Außerordentl.: wichtiger Grund + 2 Wochen-Frist? | § 626 BGB | Unwirksamkeit |
 | 9 | Soziale Rechtfertigung: betrieblich/verhaltens-/personenbedingt? | § 1 Abs. 2 KSchG | Kündigung sozialwidrig |
 | 10 | Sozialauswahl korrekt? | § 1 Abs. 3 KSchG | Sozialwidrige Kündigung |
@@ -254,6 +241,5 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 - SGB IX §§ 168, 174
 - MuSchG § 17; BEEG § 18
 - GKG § 42
-- BAG 2 AZR 15/15; BAG 2 AZR 276/16; BAG 6 AZR 709/14
-- BAG 2 AZR 392/21; BAG 2 AZR 198/21; EuGH C-134/22
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kleinebrink/Grau/Diepenbruck Kündigung im Arbeitsrecht; APS KSchG-Kommentar

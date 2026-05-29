@@ -1,6 +1,6 @@
 ---
 name: mandat-aktualisierung
-description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Pruefraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung."
+description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung."
 ---
 
 # Mandats-Aktualisierung
@@ -31,23 +31,18 @@ Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skil
 
 ### Leitentscheidungen
 
-- **BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 14 ff.** — Anwaltliche Haftung bei versäumter Berufungsbegründungsfrist; lückenlose Fristkontrolle als Grundpflicht.
-- **BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765 Rn. 10** — Wiedereinsetzung in den vorigen Stand; Voraussetzungen und Dokumentationspflichten bei Fristversäumnis.
-- **BVerwG, Beschl. v. 08.03.2018 – 2 B 31/17, NVwZ-RR 2018, 591 Rn. 6** — Fristenberechnungsgrundlagen im verwaltungsgerichtlichen Rechtsmittelverfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233 Rn. 12` — Wiedereinsetzung bei Fristversäumnis; Anforderungen an die Fristenkontrolle einer Kanzlei.
-- `Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214 Rn. 5` — Fristberechnung und Fristenkontrolle; organisatorische Anforderungen.
-- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 317 Rn. 3` — Berufungsfrist im Strafverfahren; Beginn und Wahrung (Doppelautoren-Kommentar).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 0: Konfliktsschranke
 
 Vor dem Einpflegen eines Eintrags wird geprüft, ob das Mandat in `_log.yaml` enthalten ist. Fehlt es:
 
-> „Das Mandat [Bezeichnung] ist nicht im Mandatsprotokoll erfasst. Bitte zunächst `/prozessrecht:mandat-aufnahme` ausführen, damit die Interessenkonfliktprüfung erfolgt und die Mandatsakte angelegt wird."
+> "Das Mandat [Bezeichnung] ist nicht im Mandatsprotokoll erfasst. Bitte zunächst `/prozessrecht:mandat-aufnahme` ausführen, damit die Interessenkonfliktprüfung erfolgt und die Mandatsakte angelegt wird."
 
 ### Schritt 1: Ereignistyp
 
@@ -103,12 +98,12 @@ Bei bestimmten Ereignistypen ist eine Wesentlichkeitsprüfung obligatorisch — 
 
 | Ereignistyp | Hinweistext |
 |---|---|
-| Sachlich (neue Tatsachen, relevantes Dokument, Entscheidung zur Sache) | „Dieses Ereignis ist sachlicher Natur. Ändert es die Wesentlichkeitseinstufung? Aktuell: [X]. Optionen: rückgestellt / offengelegt / beobachtet / keine. Änderung?" |
-| Strategie (Positionswechsel, Vergleichsangebot gemacht oder erhalten) | „Vergleichsaktivität kann eine Wesentlichkeitsumstufung auslösen. Aktuell: [X]. Wenn das Angebot die Exposure verschiebt oder den Streit von 'bestritten' auf 'wahrscheinlich und schätzbar' bewegt, bitte umklassifizieren." |
-| Risikoneubewertung | „Risiko hat sich verändert. Die Wesentlichkeit sollte folgen. Aktuell: [X]. Umklassifizieren?" |
-| Behördliche Maßnahme | „Behördenhandeln (Durchsuchung, Vorladung, Ordnungsverfügung) löst regelmäßig eine Offenlegungsanalyse aus. Aktuell: [X]. Änderung?" |
+| Sachlich (neue Tatsachen, relevantes Dokument, Entscheidung zur Sache) | "Dieses Ereignis ist sachlicher Natur. Ändert es die Wesentlichkeitseinstufung? Aktuell: [X]. Optionen: rückgestellt / offengelegt / beobachtet / keine. Änderung?" |
+| Strategie (Positionswechsel, Vergleichsangebot gemacht oder erhalten) | "Vergleichsaktivität kann eine Wesentlichkeitsumstufung auslösen. Aktuell: [X]. Wenn das Angebot die Exposure verschiebt oder den Streit von 'bestritten' auf 'wahrscheinlich und schätzbar' bewegt, bitte umklassifizieren." |
+| Risikoneubewertung | "Risiko hat sich verändert. Die Wesentlichkeit sollte folgen. Aktuell: [X]. Umklassifizieren?" |
+| Behördliche Maßnahme | "Behördenhandeln (Durchsuchung, Vorladung, Ordnungsverfügung) löst regelmäßig eine Offenlegungsanalyse aus. Aktuell: [X]. Änderung?" |
 
-„Keine Änderung" muss explizit bestätigt werden. Im Verlaufseintrag wird festgehalten:
+"Keine Änderung" muss explizit bestätigt werden. Im Verlaufseintrag wird festgehalten:
 
 ```markdown
 **Wesentlichkeitsprüfung:** [keine Änderung / geändert von X nach Y]
@@ -137,7 +132,7 @@ Jüngster Eintrag oben, direkt unter dem `---` nach dem Header:
 **Verweisung Dokument:** [Pfad, falls angegeben]
 ```
 
-Falls keine Felder geändert wurden, entfällt der Block „Geänderte Felder".
+Falls keine Felder geändert wurden, entfällt der Block "Geänderte Felder".
 
 ### Protokolldatei `_log.yaml`
 
@@ -148,7 +143,7 @@ Falls keine Felder geändert wurden, entfällt der Block „Geänderte Felder".
 
 Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
 
-> „Das ist, was ich eintragen und aktualisieren werde. Soll ich das festschreiben?"
+> "Das ist, was ich eintragen und aktualisieren werde. Soll ich das festschreiben?"
 
 ## Beispiel
 
@@ -183,7 +178,7 @@ Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 
 In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen heranzuziehen und, soweit angegeben, zu zitieren:
 
 - Gesetzestexte: §§ 214 ff., 516, 520, 548, 569 ZPO; §§ 317 ff. StPO; § 116 VwGO; § 43a BRAO; § 11 BORA
-- Rechtsprechung: BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655; BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765
-- Kommentare: Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233; Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -38,7 +38,7 @@ Gläubigerantrags fest:
 Befriedigung: Wurde der Gläubiger in den letzten sechs Monaten vor Antragstellung
 befriedigt, bleibt seine Antragsbefugnis gleichwohl bestehen, wenn die Befriedigung
 als Insolvenzanfechtung nach §§ 129 ff. InsO angreifbar wäre. Dies verhindert den
-„Taktikzahlungseinwand" des Schuldners, der kurz vor Verfahrenseröffnung
+"Taktikzahlungseinwand" des Schuldners, der kurz vor Verfahrenseröffnung
 Teilzahlungen leistet, um den antragstellenden Gläubiger zu beseitigen, ohne die
 Insolvenzlage zu beheben.
 
@@ -59,7 +59,7 @@ Schuldner-Eigenantrag) und Überschuldung (§ 19, juristische Personen).
 
 ### Rechtsprechung
 
-**BGH, Beschl. v. 29.06.2010 – IX ZB 232/08, NZI 2010, 482 Rn. 8:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Der BGH konkretisiert die Anforderungen an die Glaubhaftmachung der Forderung
 nach § 14 Abs. 1 InsO. Ausreichend, aber auch erforderlich ist, dass der Gläubiger
 Tatsachen darlegt, aus denen die überwiegende Wahrscheinlichkeit des Bestehens
@@ -68,7 +68,7 @@ Bloße Behauptungen ohne tatsächliche Substanz genügen nicht. Zulässige
 Glaubhaftmachungsmittel: eidesstattliche Versicherung (§ 294 ZPO), Titel,
 Mahnbescheid, Kontoauszüge, Rechnungen mit Empfangsbestätigung.
 
-**BGH, Beschl. v. 01.03.2012 – IX ZB 13/11, NZI 2012, 277 Rn. 11:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Für die Glaubhaftmachung des Eröffnungsgrundes der Zahlungsunfähigkeit (§ 17
 InsO) genügen im Gläubigerantragverfahren Indizien, die in ihrer Gesamtschau die
 überwiegende Wahrscheinlichkeit der Zahlungsunfähigkeit ergeben. Der BGH nennt
@@ -76,13 +76,13 @@ als taugliche Indizien: fruchtlose Pfändungsversuche, Rückgabe von Lastschrift
 Wechselproteste, Häufung von Mahnverfahren, Lohnsteuer- und SV-Rückstände, BWA
 mit negativem Saldo der laufenden Verbindlichkeiten.
 
-**BGH, Beschl. v. 17.12.2015 – IX ZB 196/15, NZI 2016, 152 Rn. 7:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Auch bei streitiger Forderung ist der Antrag zulässig, wenn der Gläubiger die
 Forderung nach § 294 ZPO glaubhaft gemacht hat; das Insolvenzgericht prüft nicht
 abschließend das Bestehen der Forderung. Ein bloßes Bestreiten des Schuldners
 ohne substantiierten Gegenvortrag beseitigt die Glaubhaftmachung nicht.
 
-**BGH, Beschl. v. 12.01.2010 – IX ZB 41/09, NZI 2010, 339 Rn. 9:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Missbräuchlicher Druckantrag: Ein Gläubigerantrag, der nicht der
 Verfahrenseröffnung, sondern allein der wirtschaftlichen Druckausübung dient
 (Antrag trotz vereinbarter Ratenzahlung, sofortige Rücknahme nach Einlenken),
@@ -90,19 +90,19 @@ kann als rechtsmissbräuchlich zurückgewiesen werden. Der BGH verlangt, dass
 das rechtliche Interesse an der Eröffnung zum Zeitpunkt der gerichtlichen
 Entscheidung noch besteht.
 
-**BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 Rn. 36:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Indizienkatalog für § 17 InsO: Stellt ein Gläubiger Indizien (Rückgabe
 von Lastschriften, Mahnungen, vergebliche Vollstreckung) zusammen, können diese
 im Gläubigerantrag zur Glaubhaftmachung des Eröffnungsgrundes herangezogen werden.
 
-### Literatur
+### Quellen (nur verifiziert)
 
-- Wegener, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 14 Rn. 1–62 (umfassend zu
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
   Antragsberechtigung, Glaubhaftmachung, Forderungserfordernis und Missbrauch)
 - Hölzle, in: K. Schmidt, InsO, 20. Aufl. 2023, § 14 Rn. 1–55 (Dogmatik des
   rechtlichen Interesses, Zulässigkeit bei titulierter und nicht-titulierter
   Forderung, § 14 Abs. 1 S. 2 InsO)
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 5–22 (Zahlungsunfähigkeit,
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
   Indizienbeweis, Glaubhaftmachungsstandard im Gläubigerantrag)
 
 ### IDW S 11
@@ -141,7 +141,7 @@ Aufbau eines Indizienpakets für Zahlungsunfähigkeit (§ 17 InsO):
 | Indiz | Beweismittel |
 |---|---|
 | Fruchtlose Pfändungsversuche | Pfändungsprotokoll des GV (nicht älter als 3 Monate) |
-| Lastschriftrückgaben | Kontoauszüge des Gläubigers (Stichwort „nicht eingelöst") |
+| Lastschriftrückgaben | Kontoauszüge des Gläubigers (Stichwort "nicht eingelöst") |
 | Wechselproteste | Notarprotokoll |
 | SV-Rückstand ≥ 3 Monate | Kontoauszug Krankenkasse, Rückstandsbescheinigung |
 | Lohnsteuerrückstände | ELSTER-Mahnbescheide, Rückstandsmitteilung FA |
@@ -149,7 +149,7 @@ Aufbau eines Indizienpakets für Zahlungsunfähigkeit (§ 17 InsO):
 | Häufung von Mahnverfahren | SCHUFA-Auskunft, Registerauskunft gerichtlicher Mahnbescheide |
 
 Mindestens zwei bis drei dieser Indizien sollten kombiniert werden
-(vgl. BGH IX ZB 13/11 Rn. 11; BGH IX ZR 81/06 Rn. 36).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3 — Antragsschrift formal (§§ 13, 14 InsO)
 
@@ -169,13 +169,13 @@ Das Insolvenzgericht hört den Schuldner vor der Entscheidung an. Typische
 Schuldnerreaktionen und die rechtliche Bewertung:
 
 - **Bestreiten der Forderung**: Substantiiertes Bestreiten hemmt nicht automatisch
-  die Glaubhaftmachung (BGH IX ZB 196/15 Rn. 7); der Gläubiger muss ergänzen.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sofortige Zahlung der titulierten Forderung**: Beseitigt das rechtliche
   Interesse grundsätzlich, außer § 14 Abs. 1 S. 2 InsO greift (Zahlung innerhalb
   von 6 Monaten als potenzielle Anfechtungszahlung).
 - **Zahlungsplan/Ratenzahlungsvereinbarung**: Kein Anspruch des Schuldners auf
   Aussetzung; missbräuchlicher Druckantrag-Einwand bei kurzfristiger Rücknahme
-  nach Druckzahlung möglich (BGH IX ZB 41/09 Rn. 9).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Einreichung Sanierungskonzept**: Kein verfahrensrechtlicher Aufschubgrund;
   jedoch kann das Gericht faktisch zögern, wenn ein plausibles Sanierungskonzept
   vorgelegt wird.
@@ -252,7 +252,7 @@ kumulierten negativen Cash-flow von −38.000 EUR.
 
 *Begründetheit:*
 Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht
-(vgl. BGH IX ZR 81/06, NJW 2007, 78 Rn. 36):
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Drei fruchtlose Pfändungsversuche (schwergewichtiges Indiz)
 - Negative kumulierte BWA (strukturelle Unterdeckung)
 - 6-monatiger Lohnsteuerausfall (laufende Zahlungsunfähigkeit gegenüber FA)
@@ -265,7 +265,7 @@ Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht
 ### Gläubigerseite
 
 1. **Unzureichende Glaubhaftmachung der Forderung**: Bloße Behauptung ohne Belege
-   genügt nicht (BGH IX ZB 232/08 Rn. 8). Fehlende eidesstattliche Versicherung
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    bei nicht-titulierter Forderung führt zur Unzulässigkeit.
 
 2. **Fehlende Aktualität der Indizienmittel**: Pfändungsprotokolle älter als drei
@@ -275,7 +275,7 @@ Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht
 3. **Missbräuchlicher Druckantrag**: Ein Antrag, der erkennbar nur zur
    Druckausübung gestellt und nach Zahlung sofort zurückgenommen wird, kann als
    rechtsmissbräuchlich eingestuft werden und Schadensersatzansprüche des
-   Schuldners auslösen (BGH IX ZB 41/09 Rn. 9). Prüfung vorab: Hat der Gläubiger
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    ein echtes Eröffnungsinteresse oder nur ein Zahlungsinteresse?
 
 4. **§ 14 Abs. 1 S. 2 InsO — Taktikzahlung übersehen**: Befriedigt der Schuldner
@@ -290,7 +290,7 @@ Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht
    antragsbegründende Forderung kurzfristig, um den Antrag zu Fall zu bringen,
    ist diese Zahlung nach § 133 Abs. 1 InsO (Vorsatzanfechtung) oder § 131 InsO
    (inkongruente Deckung) anfechtbar, wenn innerhalb der Anfechtungsfristen
-   Insolvenz eröffnet wird. Der Schuldner „kauft" sich damit nur Zeit, ohne die
+   Insolvenz eröffnet wird. Der Schuldner "kauft" sich damit nur Zeit, ohne die
    Insolvenzlage zu beseitigen.
 
 6. **Eigeninteresse vs. Gemeininteresse**: Der Gläubigerantrag dient nicht nur
@@ -314,14 +314,10 @@ zu belegen. Pinpoint-Angaben (Randnummer) sind Pflicht.
 
 | Quelle | Fundstelle |
 |---|---|
-| BGH, Beschl. v. 29.06.2010 – IX ZB 232/08 | NZI 2010, 482 Rn. 8 |
-| BGH, Beschl. v. 01.03.2012 – IX ZB 13/11 | NZI 2012, 277 Rn. 11 |
-| BGH, Beschl. v. 17.12.2015 – IX ZB 196/15 | NZI 2016, 152 Rn. 7 |
-| BGH, Beschl. v. 12.01.2010 – IX ZB 41/09 | NZI 2010, 339 Rn. 9 |
-| BGH, Urt. v. 19.07.2007 – IX ZR 81/06 | NJW 2007, 78 Rn. 36 |
-| Wegener, in: Uhlenbruck, InsO, 16. Aufl. 2024 | § 14 Rn. 1–62 |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 | Hölzle, in: K. Schmidt, InsO, 20. Aufl. 2023 | § 14 Rn. 1–55 |
-| Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024 | § 17 Rn. 5–22 |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 | IDW S 11 (Stand 2017) | Tz. 15–42 (Zahlungsunfähigkeit), Tz. 43–71 (Überschuldung) |
 
 ---
@@ -334,8 +330,8 @@ zu belegen. Pinpoint-Angaben (Randnummer) sind Pflicht.
 Bevor losgelegt wird, klaere:
 
 1. **Forderung vollstreckbar?** Titel oder Glaubhaftmachung § 14 Abs. 1 InsO; eidesstattliche Versicherung ausreichend.
-2. **ZU nachweisbar?** 10%-Luecke BGH IX ZB 116/08; Indizien sammeln: Rücklastschriften, offene Vollstreckungen, Zahlungsstockungen ueber 3 Wochen.
-3. **Rechtsschutzbeduernis?** Kein Missbrauch, keine Druckausübung ohne echte ZU-Indizien (BGH IX ZB 8/04).
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Sicherungsantrag § 21 InsO?** Sofort-Massnahmen bei Vermoegensgefaehrdung beantragen?
 5. **Kostenvorschuss § 26 InsO?** Glaeubigerinteresse an Verfahren trotz Massearmut?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)

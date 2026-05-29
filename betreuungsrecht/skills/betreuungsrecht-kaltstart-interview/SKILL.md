@@ -1,6 +1,6 @@
 ---
 name: betreuungsrecht-kaltstart-interview
-description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer / ehrenamtlich / Vereinsbetreuer / Behördenbetreuer), zuständigem Betreuungsgericht, typischen Aufgabenkreisen (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-pruefen nur für eine Konnektoren-Prüfung."
+description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer / ehrenamtlich / Vereinsbetreuer / Behördenbetreuer), zuständigem Betreuungsgericht, typischen Aufgabenkreisen (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-prüfen nur für eine Konnektoren-Prüfung."
 ---
 
 # /betreuungsrecht:betreuungsrecht-kaltstart-interview
@@ -76,15 +76,11 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
 - Hinweis auf das Mandatsgeheimnis (§ 1816 Abs. 1 BGB, § 203 StGB analog für Berufsbetreuer)
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 22.08.2019 - XII ZB 165/19, FamRZ 2019, 1776 Rn. 14 — Bestellung eines Berufsbetreuers setzt voraus, dass keine geeignete ehrenamtliche Person zur Verfügung steht; Subsidiaritätsprinzip verpflichtet das Gericht zur aktiven Ermittlung möglicher Ehrenamtlicher.
-- BGH, Beschl. v. 14.08.2019 - XII ZB 185/19, FamRZ 2019, 1808 Rn. 11 — Aufgabenkreis des Betreuers muss hinreichend bestimmt sein; pauschale Zuweisung aller Angelegenheiten ist nur bei Nachweis umfassender Handlungsunfähigkeit zulässig und mit dem Grundsatz der Verhältnismässigkeit zu vereinbaren.
-- BGH, Beschl. v. 07.08.2013 - XII ZB 131/13, FamRZ 2013, 1731 Rn. 16 — Vermögenssorge als Aufgabenkreis umfasst alle Rechtsgeschäfte mit Vermögenswirkung; Betreuer hat dabei den Wunsch des Betreuten gemäss § 1901 Abs. 3 BGB a.F. (jetzt § 1821 BGB n.F.) angemessen zu berücksichtigen.
-- BVerfG, Beschl. v. 10.06.1999 - 2 BvR 1947/98, FamRZ 1999, 1417 Rn. 12 — Verfassungsrechtliche Grenze der Betreuerbestellung: Eingriff in Selbstbestimmungsrecht (Art. 2 Abs. 1 GG) nur zulässig wenn tatsächliche Betreuungsbedürftigkeit nachgewiesen; Anhorrungspflicht § 278 FamFG zwingend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Jurgeleit BtOG 4. Aufl. §§ 1814-1830 BGB (Grundlagen des reformierten Betreuungsrechts 2023)
-- Dodegge/Roth Betreuungsrecht-Kommentar §§ 271-340 FamFG (Verfahrensrecht Betreuungssachen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtlicher Rahmen
 
 - **§ 1814 ff. BGB** — Betreuungsrecht (seit 01.01.2023 reformiert)
@@ -96,4 +92,4 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
 
 ## Hinweise
 
-Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (Beck-Online, juris, Gesetze im Internet) zu prüfen.
+Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Gesetze im Internet) zu prüfen.

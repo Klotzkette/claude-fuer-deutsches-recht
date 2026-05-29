@@ -1,6 +1,6 @@
 ---
 name: kollektivrechtliche-loesungen-und-sozialplan
-description: "Kollektivrechtliche Loesungen fuer bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Pruefraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung."
+description: "Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung."
 ---
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
@@ -20,22 +20,18 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - §§ 1, 2 BetrAVG (Versorgungsansprüche bleiben bestehen trotz Aufhebungsvertrag)
 - § 3 BetrAVG (Abfindungsverbot — Einschränkungen bei BAV-Abfindungen)
 - § 16 BetrAVG (Anpassungspflicht — läuft auch nach Betriebsstilllegung für Rentner weiter)
-- BAG 28.10.1992 — 10 AZR 129/92 (Sozialplan und BAV — Anrechnung anderer Leistungen)
-- BAG 11.5.2010 — 1 AZR 751/08 (Abfindungsvergleich und BAV — Auslegung Erledigungsklausel)
-- BAG 14.9.2010 — 9 AZR 399/09 (Gleichbehandlung im Sozialplan: Gruppenbildung)
-- BAG 3.12.1991 — 1 AZR 282/91 (Sozialplan-Einigungsstellenspruch zu BAV)
-- BAG 21.3.2017 — 3 AZR 540/15 (Versorgungswerk-Schließung im Rahmen Betriebsänderung)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - KSchG §§ 17–22 (Massenentlassung — Verknüpfung mit Sozialplan-Pflicht)
-- BAG 08.12.2020 — 1 AZR 366/19 (Sozialplan-Dotierung: Einigungsstellenspruch kann nur auf Null reduziert werden wenn wirtschaftliche Belastungsgrenze des Arbeitgebers nachweislich überschritten; Darlegungslast beim Arbeitgeber)
-- BAG 09.12.2014 — 1 AZR 729/13 (Gleichbehandlung im Sozialplan: Differenzierung nach Alter und Betriebszugehörigkeit zulässig wenn BAV-Einbußen sachlich korrellieren; reine Altersgruppenbildung ohne BAV-Bezug AGG-widrig)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Fitting, BetrVG, 32. Aufl. 2024, §§ 111–113 Rn. 1 ff. (Betriebsaenderung, Interessenausgleich, Sozialplan, Nachteilsausgleich)
-- Schaub/Koch, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 142 Rn. 1 ff. (Sozialplan mit BAV-Komponenten)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Auslösung der Sozialplan-Pflicht
@@ -51,7 +47,7 @@ Der Sozialplan gem. § 112 BetrVG ist zwingend bei Betriebsänderungen i.S.d. §
 - Betriebe mit 21–59 Arbeitnehmern: Entlassung von mindestens 20 % oder sechs Arbeitnehmern
 - Betriebe ab 60 Arbeitnehmern: Mindestentlassung 20 % oder 37 Arbeitnehmer
 
-**BAV-Bezug:** Wenn die Betriebsänderung mit einer Schließung oder wesentlichen Änderung des Versorgungswerks verbunden ist (BAG 21.3.2017 — 3 AZR 540/15), sind BAV-Nachteile im Sozialplan auszugleichen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 2: Pensionsspezifische Sozialplanbestandteile
 
@@ -102,7 +98,7 @@ Arbeitnehmer können wählen:
 SOZIALPLAN — MODUL BETRIEBLICHE ALTERSVERSORGUNG
 gem. § 112 Abs. 1 BetrVG
 
-zwischen der [Konzern Muster AG] (nachfolgend „Unternehmen")
+zwischen der [Konzern Muster AG] (nachfolgend "Unternehmen")
 und dem Betriebsrat der [Konzern Muster AG]
 
 § 1 Anwendungsbereich dieses Moduls
@@ -176,7 +172,7 @@ behandeln:
 
 1. **§ 3 BetrAVG — Abfindungsverbot:** Unverfallbare Anwartschaften dürfen grundsätzlich nicht ohne Zustimmung des Arbeitnehmers abgefunden werden (§ 3 Abs. 1 BetrAVG). Zulässige Ausnahme: Kleinstanwartschaften unter der Abfindungsgrenze (§ 3 Abs. 2 BetrAVG). Sozialplan-Abfindungen ersetzen keine BAV-Anwartschaften.
 
-2. **Erledigungsklauseln im Aufhebungsvertrag:** Generelle Erledigungsklauseln im Aufhebungsvertrag erfassen nicht automatisch unverfallbare BAV-Anwartschaften (BAG 11.5.2010 — 1 AZR 751/08). Explizite Regelung erforderlich.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. **Gruppenbildung im Sozialplan — AGG:** Die Gruppenbildung im Sozialplan (z.B. höherer Ausgleich für Ältere) muss sachlich gerechtfertigt und AGG-konform sein (§ 75 BetrVG). Reine Altersgruppen ohne sachlichen Bezug zu BAV-Einbußen können unwirksam sein.
 

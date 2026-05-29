@@ -1,6 +1,6 @@
 ---
 name: annullierung-oder-verspaetung-einordnen
-description: "Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 5 VO 261/2004) Verspaetung (Art. 6 VO 261/2004 plus EuGH-Sturgeon-Rechtsprechung) Nichtbefoerderung wegen Overbooking (Art. 4 VO 261/2004) oder reine Umbuchung. Behandelt Sonderfaelle Flug am naechsten Tag mit gleicher Flugnummer Anschlussflug ohne Anschluss-Beifoerderung Ersatzflug. Erzeugt Subsumtionsergebnis mit Begruendung Verweis auf Normen und Rechtsprechung."
+description: "Workflow-Skill zu annullierung oder verspaetung einordnen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen
@@ -11,20 +11,20 @@ description: "Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 
 
 Der **geplante Flug findet nicht statt** — die Airline streicht ihn. Indikatoren:
 
-- Mitteilung der Airline „Flug annulliert / cancelled".
+- Mitteilung der Airline "Flug annulliert / cancelled".
 - Kein Flug mit der konkreten **Flugnummer und Datum** ist abgehoben.
 - Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung.
 
 **Auch Annullierung** auch wenn der Flug am **nächsten Tag mit gleicher Flugnummer** stattfindet (zwei Indizien für dieselbe Wertung):
 
-- EuGH, Urt. v. 13.10.2011 — C-83/10 (Sousa Rodriguez): wenn ein Flug zu einem anderen Zeitpunkt durchgeführt wird und das nicht nur Verzoegerung ist sondern wesentliche Änderung der urspruenglichen Flugplanung Annullierung. Der Wechsel des Reisedatums ist Indiz für Annullierung wenn der Passagier zu nicht akzeptablen Bedingungen umgebucht wird oder eine wesentlich anderes Flugzeugmuster eingesetzt wird oder die Verzoegerung üblicherweise als Annullierung gewertet wird.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### 2. Verspätung (Art. 6 VO 261/2004 + EuGH Sturgeon)
+### Rechtsprechung live prüfen
 
 Der **geplante Flug findet statt**, aber:
 
 - **Mehr als zwei Stunden Verspätung** bei kurzen Strecken oder **mehr als drei Stunden** bei langen Strecken bei Abflug = Betreuungsleistungen Art. 9 VO 261/2004 (Verpflegung Telefon Hotel etc.).
-- **Ab drei Stunden Ankunftsverspätung am Endziel** = Ausgleichsanspruch wie bei Annullierung **EuGH, Urt. v. 19.11.2009 — C-402/07 und C-432/07 (Sturgeon/Boeck/Lepuschitz)**. Bestätigt durch **EuGH, Urt. v. 23.10.2012 — C-581/10 und C-629/10 (Nelson Tui)**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Wichtig**: Maßgeblich ist die **Ankunftsverspätung am Endziel** — nicht die Abflugverspätung.
 
@@ -46,18 +46,18 @@ Der **geplante Flug findet statt**, aber:
 
 Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist und der **Anschlussflug verpasst** wird:
 
-- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts): maßgeblich ist die **Ankunftsverspätung am Endziel der Reise** — nicht am Anschlussflughafen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anspruch besteht auch wenn der erste Flug innerhalb der drei-Stunden-Schwelle landete, der Anschlussflug aber verpasst wurde und Endziel mit mehr als drei Stunden Verspätung erreicht wird.
 
 ### Ersatzflug am nächsten Tag
 
 - **Annullierung** wenn Ersatzflug eine andere Flugnummer hat oder gravierende Änderungen aufweist.
 - **Verspätung** wenn derselbe Flug nur verschoben und die Identität bewahrt ist (z. B. gleiches Flugzeug gleiche Crew gleiche Strecke).
-- **EuGH C-83/10 (Sousa Rodriguez)** und folgende — Indizienbeurteilung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Vorverlegung des Flugs
 
-- EuGH, Urt. v. 21.12.2021 — C-146/20 (Azurair Eurowings Corendon Airlines TUIfly): erhebliche Vorverlegung des Flugs (mehr als eine Stunde) gilt als **Annullierung** und kann Anspruch auslösen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Umbuchung auf anderen Flug ohne Zustimmung des Passagiers
 

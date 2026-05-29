@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-kaltstart
-description: "Kaltstart Corporate-Kanzlei: Strukturiert den Einstieg in ein neues Corporate/M&A-Mandat mit Schnellerfassung von Parteien, Dealtyp, Phase, ersten Risiken und naechsten Schritten. Normen: BRAO §§ 43a, 49b; GwG § 10 (KYC); MAR Insider-Abgrenzung. Pruefraster: Mandantenrolle (Kaeufer/Verkaeufer/Target), Dealtyp (Share/Asset/Merger/Distressed), Phase, Konflikt-Check, Fristen-Sofortcheck. Output Deal-Kurzkarte mit Ampel, Routing-Empfehlung an Spezialskills. Abgrenzung: Detailarbeit siehe kommandocenter; Deal-Intake siehe deal-intake-skill."
+description: "Kaltstart Corporate-Kanzlei: Strukturiert den Einstieg in ein neues Corporate/M&A-Mandat mit Schnellerfassung von Parteien, Dealtyp, Phase, ersten Risiken und naechsten Schritten. Normen: BRAO §§ 43a, 49b; GwG § 10 (KYC); MAR Insider-Abgrenzung. Prüfraster: Mandantenrolle (Kaeufer/Verkaeufer/Target), Dealtyp (Share/Asset/Merger/Distressed), Phase, Konflikt-Check, Fristen-Sofortcheck. Output Deal-Kurzkarte mit Ampel, Routing-Empfehlung an Spezialskills. Abgrenzung: Detailarbeit siehe kommandocenter; Deal-Intake siehe deal-intake-skill."
 ---
 
 # Kaltstart Corporate-Kanzlei
@@ -64,8 +64,7 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.07.2018 - III ZR 183/17, NJW 2018, 2957 — Kanzlei-Interessenkonflikt faengt beim ersten Gespräch an; Sorgfaltspflicht ab Erstkontakt
-- BGH, Urt. v. 23.09.2020 - III ZR 453/19, NJW 2021, 148 — GwG-Pflichten entstehen vor Mandatsannahme; kein Aufschieben bis Mandatsvertrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rote Schwellen
 
@@ -76,4 +75,4 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 ## Quellen
 
 - § 43a BRAO; Art. 18 MAR; §§ 2-10 GwG; §§ 311 II BGB
-- BGH III ZR 183/17 (Interessenkonflikt); BGH III ZR 453/19 (GwG ab Erstkontakt)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

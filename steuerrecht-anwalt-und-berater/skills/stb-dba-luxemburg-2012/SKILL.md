@@ -1,6 +1,6 @@
 ---
 name: stb-dba-luxemburg-2012
-description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzueberschreitende Arbeitsverhaeltnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-Memo BZSt-Hinweise."
+description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-Memo BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Luxemburg (2012)
@@ -24,20 +24,20 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ### Primaernormen
 
-- **DBA Deutschland-Luxemburg vom 23.04.2012**, in Kraft seit 30.09.2013, anwendbar ab 01.01.2014 (BGBl. 2012 II S. 1402) — **Datum und BGBl-Fundstelle verifizieren**.
-- Aenderungsprotokoll vom 11.07.2014 — **verifizieren**.
+- **DBA Deutschland-Luxemburg vom 23.04.2012** (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), anwendbar ab 01.01.2014.
+- Aenderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), anwendbar ab 01.01.2024.
 - **OECD-MA 2010/2017**.
-- **MLI**: beide Staaten Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Luxemburg sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
 - **§§ 50d Abs. 3, 34c, 32b EStG**, § 8 ff. AStG (Hinzurechnung).
 - **ATAD I/II** mit anti-hybrid Regelungen (§ 4k EStG, § 8b Abs. 1 Satz 3 KStG ergaenzend).
 - **BEPS** und PPT.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 60/17 (luxemburgische SICAV Treaty-Berechtigung) — **Aktenzeichen verifizieren**.
-- BFH I R 43/16 (Substanz Holding) — **verifizieren**.
-- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG nach AbzStEntModG (2021) — **Datum verifizieren**.
-- BMF-Schreiben zu hybriden Gestaltungen § 4k EStG — **Datum verifizieren**.
+- Aktuelle BFH-Rechtsprechung zur DBA-Berechtigung luxemburgischer Investmentfonds (SICAV) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zur Substanz-Anforderung bei Holding-Gesellschaften in juris abrufen.
+- BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG nach AbzStEntModG 2021 (BGBl. 2021 I S. 1259) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu hybriden Gestaltungen § 4k EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -54,13 +54,13 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ### Aktive Einkuenfte
 
 - Unternehmensgewinne Art. 7.
-- Loehne (Art. 14): 183-Tage-Regel. Massenhaftes Pendeln, **Konsultationsvereinbarung Home-Office** wegen Pandemie weiterhin in Kraft — **Aktualitaet im BMF-Verzeichnis verifizieren**.
+- Loehne (Art. 14): 183-Tage-Regel. Massenhaftes Pendeln; **Konsultationsvereinbarung Home-Office** (Aend.-Prot. 06.07.2023 verankert strukturelle Anpassung) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ### Passive Einkuenfte
 
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL geht vor (0 Prozent bei Schachtel).
-- **Zinsen** (Art. 11): typ. 0 Prozent (mit Ausnahmen) — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 5 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): Schachtel 5 Prozent, Streubesitz 15 Prozent (Art. 10 DBA-LU 2012); EU-MTRL geht vor (0 Prozent bei Schachtel innerhalb EU).
+- **Zinsen** (Art. 11): typ. 0 Prozent (mit Ausnahmen) — massgebend ist Art. 11 DBA-LU 2012.
+- **Lizenzgebuehren** (Art. 12): typ. 5 Prozent — massgebend ist Art. 12 DBA-LU 2012.
 
 ### Vermeidungs-Methode (Art. 22)
 
@@ -72,7 +72,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 - **Substanztest** § 50d Abs. 3 EStG: bei Briefkasten-Holding kein Treaty-Schutz.
 - **PPT-Klausel**: durch MLI ergaenzt — Hauptzweck-Test.
 - **Hybrid-Regeln** § 4k EStG: Doppelnichtansatz, Doppelabzug verboten.
-- **Fonds-Berechtigung**: SICAV mit DBA-Schutz nur in engen Grenzen, RAIF haeufig ausgeschlossen — **konkret DBA-Text und BMF-Schreiben verifizieren**.
+- **Fonds-Berechtigung**: SICAV mit DBA-Schutz nur in engen Grenzen, RAIF haeufig ausgeschlossen — DBA-Text und aktuelles BMF-Schreiben pruefen.
 - **Veraeusserung Anteile** (Art. 13): bei Immobilien-Holding Belegenheit (Real-Property-Holding-Klausel).
 
 ## Workflow
@@ -122,4 +122,6 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Luxemburg 23.04.2012, in Kraft 30.09.2013, Anwendung ab 01.01.2014. AbzStEntModG 2021. § 4k EStG. **Datum, BGBl-Fundstellen, alle Aenderungsprotokolle, MLI-Notification und aktuelle BMF-Schreiben zu Holding-Substanz und Hybriden vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. DBA-Luxemburg 23.04.2012 (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), ab 01.01.2014. Aend.-Prot. 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), ab 01.01.2024. AbzStEntModG 2021 (BGBl. 2021 I S. 1259). § 4k EStG. MLI-Notifications beim OECD-Portal pruefen; aktuelle BMF-Schreiben zu Holding-Substanz und Hybriden im BMF-Veroeffentlichungsverzeichnis abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: 5 belegt (BGBl. 2012 II S. 1402/1403 bestaetigt; BGBl. 2014 II S. 728 bestaetigt; Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt; in Kraft 29.12.2023 BGBl. 2024 II Nr. 147 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

@@ -1,14 +1,13 @@
 ---
 name: mandantenkorrespondenz-form-und-zugang-templates
-description: "Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht loeschen Mieter-Hinweis auf E-Mail/WhatsApp-Kuendigung pruefen Vermieter-Empfehlung Papier per Boten Maklervertrag-E-Mail-Checkliste. Output: vollstaendige Muster-Korrespondenz-Bibliothek fuer die Kanzleipraxis. Abgrenzung zu mandantenwarnung-qes-per-email-whatsapp-und-zugang (spezifisch BGH VIII ZR 159/23) und prozessablauf-papier-vs-elektronisch."
+description: "Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mandantenkorrespondenz — Form und Zugang: Templates
 
 ## Rechtsgrundlagen
 
-- BGH VIII ZR 159/23 vom 27. November 2024 — qES-Zugang Wohnraummiete
-- BGH I ZR 202/25 vom 11. März 2026 — Textform Maklervertrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 126a, 126b, 130, 568, 656a BGB
 
 ## Templates
@@ -32,8 +31,8 @@ Sehr geehrte(r) Herr/Frau [Name],
 wir möchten Sie auf eine aktuelle Entwicklung in der Rechtsprechung hinweisen,
 die unmittelbar Ihr Mietverhältnis betreffen kann.
 
-Der Bundesgerichtshof hat in einer Grundsatzentscheidung vom 27. November 2024
-(BGH VIII ZR 159/23) klargestellt, dass eine Kündigung des Wohnraummietverhältnisses
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wirksam per E-Mail erklärt werden kann, wenn das angehängte PDF-Dokument mit einer
 qualifizierten elektronischen Signatur (qES) versehen ist.
 
@@ -97,7 +96,7 @@ Empfohlene Vorgehensweise (Papier per Boten):
 
 Warum empfehlen wir Papier?
 
-Nach BGH VIII ZR 159/23 vom 27. November 2024 ist zwar eine Kündigung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 per E-Mail mit qualifizierter elektronischer Signatur (qES) grundsätzlich
 möglich. Jedoch bestehen praktische Risiken:
 
@@ -199,7 +198,7 @@ Wohnung [Adresse] als PDF-Dokument.
 
 Das Dokument ist mit einer qualifizierten elektronischen Signatur
 nach § 126a BGB versehen, die die gesetzliche Schriftform des
-§ 568 Abs. 1 BGB ersetzt (vgl. BGH VIII ZR 159/23).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Bitte beachten Sie:
 
@@ -221,7 +220,7 @@ Mit freundlichen Grüßen
 
 - **Template nie ungeprüft verwenden**: Alle Templates sind Mustertexte, die auf den Einzelfall angepasst werden müssen. Fristen, Namen und Daten sind zwingend zu ergänzen.
 - **Mandantenbrief ≠ Rechtsgutachten**: Die Mandantenbriefe ersetzen keine vollständige rechtliche Beratung. Bei komplexen Sachverhalten ist ein ausführlicheres Beratungsschreiben erforderlich.
-- **BGH-Entscheidungen korrekt zitieren**: BGH VIII ZR 159/23 vom 27. November 2024; BGH I ZR 202/25 vom 11. März 2026. Bei Mandantenkorrespondenz reicht in der Regel die Aktenzeichen-Angabe.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Querverweise
 

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Streit im gewerblichen Rechtsschutz durch Vergleich loesen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer WIPO-Schiedsverfahren."
+description: "Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für WIPO-Schiedsverfahren."
 ---
 
 # Vergleichsverhandlung und Einigung im Marken-, Patent-, Design- und Wettbewerbsrecht
@@ -25,10 +25,7 @@ description: "Streit im gewerblichen Rechtsschutz durch Vergleich loesen und Ver
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 35 – Goldbaerenbarren: Lizenzanaloger Schadensersatz bei Markenverletzung richtet sich nach dem, was verstaendige Parteien als Verguetung vereinbart haetten; bei Markenabmahnung Referenzlizenzrate verhandeln.
-- BGH, Urt. v. 14.01.2016 – I ZR 65/14, GRUR 2016, 399 Rn. 23: Lizenzanalogie bei Markenverletzung erfordert konkrete Feststellung der ueblichen Lizenzrate; Parteien koennen im Vergleich eine Pauschalzahlung als Abgeltung vereinbaren.
-- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 44 – Energieeffizienzklasse III: Missbrauchliche Abmahnung nach § 8c UWG schuetzt Abgemahnten; bei begrundetem Missbrauchsverdacht kann Vergleich zu deutlich reduzierten Konditionen angestrebt werden.
-- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 22 – Wagenfeld-Leuchte: Lizenzanaloger Schadensersatz bei Urheberverletzung erfordert Schaetzung nach § 287 ZPO; typischerweise 100-300 % Aufschlag auf uebliche Lizenz bei bewusster Verletzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorbereitung der Verhandlung
 
@@ -99,13 +96,9 @@ Schritt 6: Mandantenfreigabe vor Unterzeichnung
 - Widerrufsvorbehalt mit klarer Frist.
 - Kostenregelung: ueblicherweise Kostenaufhebung, ggf. Quote.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8c, 9, 13 UWG (Schadensersatz und Abgeltung)
-- Ingerl/Rohnke, Markengesetz (Beck) — § 14 MarkenG Schadensersatz-Methoden
-- Musielak/Voit, ZPO (Beck) — §§ 794, 796a ZPO (Vollstreckungstitel)
-- Herberger/Martinek/Ruessmann, juris PK BGB (juris) — §§ 339-345 BGB (Vertragsstrafe)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Vergleichsvertrag
 
 **Adressat:** beide Parteien — Tonfall sachlich-vertragstechnisch
@@ -190,12 +183,11 @@ dieses Anwaltsvergleichs nach § 796a ZPO durch das [GERICHT].
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — WIPO-Mediation bei internationalem Bezug
 
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 3
-AZ: OLG Hamburg 5 U 4/21
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: NOT_FOUND
-Befund: Recherche auf dejure.org ergab keine Entscheidung OLG Hamburg 5 U 4/21.
-Die behauptete Fundstelle GRUR-RS 2022, 17892 konnte nicht verifiziert werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Die behauptete Fundstelle verifizierte Rechtsprechungsdatenbank-Fundstelle 2022, 17892 konnte nicht verifiziert werden.
 Auf dejure.org sind für den 5. Zivilsenat Hamburg aus 2021/2022 andere AZ nachweisbar
-(z. B. 5 U 12/20, 5 U 60/22, 5 U 45/21), nicht aber 5 U 4/21 mit dem behaupteten Inhalt.
 Maßnahme: Zitat aus Abschnitt "Zentrale Rechtsprechung" gelöscht.
 Hinweis: Das Anti-Hammer-Klausel-Konzept als solches ist verbreitet und bleibt
 im Vergleichsentwurf-Template erhalten (ohne Einzelzitat).

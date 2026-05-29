@@ -56,7 +56,7 @@ a) den Antrag des Herrn Weber zurückzuweisen oder hilfsweise
 
 b) die Antragsbearbeitung um vier Wochen auszusetzen, damit das laufende Investorengespräch und die Stundungs-Verhandlungen abgeschlossen werden können.
 
-Hilfsweise rege ich an, dass das Gericht zunächst die vorläufige Insolvenzverwaltung mit „schwacher" Ausgestaltung (Zustimmungsvorbehalt) anordnet, damit die laufenden Verhandlungen nicht abgeschnitten werden, sondern unter Aufsicht eines vorläufigen Insolvenzverwalters fortgeführt werden können.
+Hilfsweise rege ich an, dass das Gericht zunächst die vorläufige Insolvenzverwaltung mit "schwacher" Ausgestaltung (Zustimmungsvorbehalt) anordnet, damit die laufenden Verhandlungen nicht abgeschnitten werden, sondern unter Aufsicht eines vorläufigen Insolvenzverwalters fortgeführt werden können.
 
 ### 5. Anlagen
 
@@ -74,4 +74,4 @@ Geschäftsführer LUMEN Studios GmbH
 ---
 
 **Hinweis Geschäftsstelle:**
-Bei diesem Antrag handelt es sich rechtlich nicht um eine „Rücknahme" — der Antrag des Mitgeschäftsführers Weber kann von Herrn Richter nicht zurückgenommen werden (§ 15 Abs. 1 InsO; jeder GF einzeln antragsberechtigt). Der Antrag wird daher als **Stellungnahme im Eröffnungsverfahren** behandelt und mit Verfügung vom 23.05.2024 dem zu bestellenden vorläufigen Insolvenzverwalter zur Kenntnis gegeben.
+Bei diesem Antrag handelt es sich rechtlich nicht um eine "Rücknahme" — der Antrag des Mitgeschäftsführers Weber kann von Herrn Richter nicht zurückgenommen werden (§ 15 Abs. 1 InsO; jeder GF einzeln antragsberechtigt). Der Antrag wird daher als **Stellungnahme im Eröffnungsverfahren** behandelt und mit Verfügung vom 23.05.2024 dem zu bestellenden vorläufigen Insolvenzverwalter zur Kenntnis gegeben.

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-urheber-medienrecht
-description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Pruefraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
+description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Urheber- und Medienrecht
@@ -26,19 +26,11 @@ description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Sch
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1233 Rn. 28 – Loud: Filesharing-Schadensersatz nach Lizenzanalogie; pauschale 200-600 EUR je Musiktitel als Ausgangswert; Erhoehung bei gewerblichem Zweck.
-- BGH, Urt. v. 12.11.2009 – I ZR 166/07, GRUR 2010, 616 Rn. 18 – marions-kochbuch.de: Streitwert bei Foto-Urheberrechtsverletzung im Internet richtet sich nach wirtschaftlichem Interesse; 6.000-10.000 EUR je Bild als Orientierungswert.
-- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 22 – Verdoppelung Lizenz: Lizenzanalogie bei Bilderrechtsverletzung; MFM-Empfehlungen als Ausgangspunkt; Verdoppelung bei fehlender Urheberbenennung (§ 13 UrhG).
-- BGH, Urt. v. 28.07.2015 – VI ZR 340/14, NJW 2015, 3153 Rn. 18 – Suchmaschinenkontroverse: Abwaegung Pressefreiheit (Art. 5 GG) gegen Persoenlichkeitsrecht (Art. 2 Abs. 1, 1 Abs. 1 GG); Unterlassungsanspruch bei schwerwiegender Beeintraechtigung.
-- EuGH, Urt. v. 22.06.2021 – C-682/18, GRUR 2021, 1331 Rn. 62 – YouTube/Cyando: Plattformbetreiber ist kein unmittelbarer Taeter fuer Nutzer-Uploads; zuegeloses Nicht-Handeln nach Kenntnis begruendet Haftung; DSA Art. 6 setzt Rspr. fort.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schricker/Loewenheim, Urheberrecht (Beck) — §§ 97, 97a UrhG
-- Dreier/Schulze, UrhG (Beck) — Schadensersatz und Abmahnung
-- Wenzel, Das Recht der Wort- und Bildberichterstattung (Beck) — Presserecht und KUG
-- Soehring/Hoene, Presserecht (Nomos) — Gegendarstellung und Persoenlichkeitsrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Routing-Matrix
 
 | Sachgebiet | Folge-Skill |

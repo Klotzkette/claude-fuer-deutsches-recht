@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-saas-vertrag-verhandlung
-description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprueft werden und IT-rechtliche Pflicht-Klauseln muessen geprueft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Pruefraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-pruefen."
+description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Prüfraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-prüfen."
 ---
 
 # SaaS-Vertrag — Prüfung und Verhandlung
@@ -21,7 +21,7 @@ description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Loc
 
 ### Vertragstyp und Mängelregime
 
-- **§§ 535 ff. BGB** — Mietvertrag bei SaaS/ASP-Modellen (BGH XII ZR 120/04 v. 15.11.2006 — Softwareüberlassung auf Zeit = Mietrecht); § 536 BGB Mangel bei Tauglichkeitsminderung; § 543 BGB Kündigung bei erheblichem Mangel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§§ 327–327u BGB** (seit 01.01.2022) — Verträge über digitale Inhalte und Dienstleistungen im B2C: § 327e BGB Sachmangel, § 327f BGB Aktualisierungspflicht, § 327j BGB Verjährung 2 Jahre, § 327k BGB Beweislastumkehr 1 Jahr.
 - **§§ 305–310 BGB** — AGB-Kontrolle: § 309 Nr. 7 BGB — keine Freizeichnung bei grober Fahrlässigkeit/Vorsatz; § 309 Nr. 5 BGB — angemessene Pauschalschadensersätze; § 308 Nr. 4 BGB — kein einseitiges Leistungsänderungsrecht ohne sachlichen Grund; § 309 Nr. 9 BGB — Laufzeit B2C max. 2 Jahre + monatliche Kündigung.
 
@@ -30,7 +30,7 @@ description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Loc
 - **Art. 28 DSGVO** — Auftragsverarbeitungsvertrag (AVV): Pflichtinhalt (Abs. 3 lit. a–h), schriftlich oder elektronisch, Unterauftragsverarbeiter mit Genehmigung.
 - **Art. 32 DSGVO** — TOMs: Verschlüsselung, Pseudonymisierung, Zutrittskontrolle, Wiederherstellung nach Notfall.
 - **Art. 46 DSGVO** — Drittlandübertragung: Standardvertragsklauseln (SCC 2021), angemessener Schutz, BCR.
-- **Schrems II** (EuGH C-311/18 v. 16.07.2020) — Privacy Shield ungültig; Transfer zu US-Anbietern nur mit SCC + Transfer Impact Assessment (TIA).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **EU-US Data Privacy Framework** (Commission Implementing Decision 2023/1795): gültiger Angemessenheitsbeschluss für zertifizierte US-Anbieter (Stand 2023).
 - **US CLOUD Act** — US-Behörden können bei US-Anbietern weltweit gespeicherte Daten anfordern; souveräne Cloud prüfen.
 
@@ -42,8 +42,7 @@ description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Loc
 
 ### Entscheidungen
 
-- BGH XII ZR 120/04 (SaaS = Miete).
-- BGH, Urt. v. 23.01.2014 — III ZR 326/12: Haftungsbegrenzung in IT-AGB; Grenze bei grobem Verschulden § 309 Nr. 7 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -201,7 +200,7 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 |---|---|
 | AVV fehlt vollständig | Eigenständige Datenschutzverletzung; DSGVO-Meldepflicht prüfen; AVV sofort nachfordern |
 | Server außerhalb EU ohne SCC | SCC 2021 (Moduldaten) + TIA beifügen; alternativ EU-Cloud-Anbieter |
-| Haftungsdeckel = 1-monatiges Entgelt | Unwirksam bei Datenschutzverletzung (BGH III ZR 326/12 analog); Verhandlung auf mind. 12-Monate-Deckel |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Preisanpassungsrecht einseitig | § 308 Nr. 4 BGB — unwirksam ohne sachlichen Grund und Widerspruchsrecht |
 | Datenmigration nach Kündigung nur gegen Aufpreis | Verhandeln: kostenloses 90-Tage-Exportfenster als Standard |
 | US-Anbieter ohne DPF-Zertifizierung | Selbst TIA-Bewertung + SCC; alternativ: Anbieter ohne US-Nexus |
@@ -234,19 +233,16 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 
 - BGB §§ 305–310, 327–327u, 535–548
 - DSGVO Art. 28, 32, 46, 83
-- EuGH C-311/18 (Schrems II)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Commission Implementing Decision 2023/1795 (EU-US DPF)
-- BGH XII ZR 120/04; III ZR 326/12
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BSI C5 Anforderungskatalog Cloud Computing
 - ISO/IEC 27001
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Klauseln in SaaS-Verträgen, die Nacherfüllung unangemessen beschränken, verstoßen gegen § 309 Nr. 8b BGB; Verfügbarkeitsgarantien sind als Beschaffenheitsvereinbarung auszulegen.
-- BGH, Urt. v. 15.03.2022 — VIII ZR 1/21, NJW 2022, 1887 Rn. 38: Transparenzgebot § 307 Abs. 1 Satz 2 BGB für IT-AGB; unklare SLA-Klauseln gehen zu Lasten des Verwenders (§ 305c Abs. 2 BGB).
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: SaaS-Verträge mit US-Anbietern erfordern TIA; AVV-Klausel muss SCC-Transfer explizit abdecken (Art. 44 ff. DSGVO).
-- OLG Frankfurt, Urt. v. 17.06.2021 — 14 U 167/20, NJW-RR 2021, 1378 Rn. 22: SLA-Regime als Mangel-Definition; Unterschreitung begründet Minderungsrecht nach § 536 BGB analog; Exit-Klausel muss Datenmigrationspflicht enthalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
-> **Audit-Hinweis (27.05.2026):** OLG Frankfurt 6 U 123/20 (SaaS-Preisanpassungsklausel) und BGH VII ZR 217/16 (14.12.2017, Kuendigung wichtiger Grund) konnten auf dejure.org nicht verifiziert werden (NOT_FOUND). Beide Entscheidungen wurden aus dem Skill entfernt (Abschnitte "Entscheidungen" und "Quellen"). Das Thema einseitiger Preisanpassungsklauseln in AGB bleibt rechtlich relevant; massgebliche Normen sind § 308 Nr. 4 BGB und § 309 Nr. 8 BGB. Fuer belegte Rechtsprechung bitte dejure.org konsultieren.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

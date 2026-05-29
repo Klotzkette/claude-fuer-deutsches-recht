@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-orientierung
-description: "Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Pruefraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht fuer ausfuehrliche Erstaufnahme."
+description: "Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme."
 ---
 
 # Fachanwalt für Strafrecht — Orientierung
@@ -50,15 +50,9 @@ description: "Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungs
 - **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
 - **BGH 1.–5. Strafsenat** Revisionsinstanz.
 
-## Standardliteratur
+## Quellenregel
 
-- Fischer, StGB Kommentar.
-- Meyer-Goßner/Schmitt, StPO Kommentar.
-- Schönke/Schröder, StGB.
-- LK StGB (Leipziger Kommentar).
-- KK StPO (Karlsruher Kommentar).
-- MueKoStPO.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Deutscher Strafverteidiger e. V. (DSV).
@@ -87,14 +81,8 @@ Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfa
 
 ## Aktuelle Leitentscheidungen
 
-- BVerfG, Beschl. v. 11.07.1994 - 2 BvR 777/94, NStZ 1994, 551 — Akteneinsicht im Haftpruefungsverfahren muss dem Verteidiger die haftrelevanten Informationen uneingeschraenkt zugaenglich machen; Versagung verletzt Art. 2 I i.V.m. Art. 104 GG.
-- BGH, Beschl. v. 25.11.2016 - GSSt 1/16, BGHSt 62, 1 — Verstaendigung nach § 257c StPO: Belehrungspflicht ist unabdingbar; unterbliebene Belehrung fuehrt zur Unverwertbarkeit des Gestaendnisses, wenn nicht ausgeschlossen werden kann, dass ohne den Fehler dasselbe Gestaendnis abgelegt worden waere.
-- BVerfG, Beschl. v. 19.03.2013 - 2 BvR 2628/10, BVerfGE 133, 168 — Verstaendigungsgesetz verfassungskonform; Pflicht zur Protokollierung und Transparenz im Verfahren; Gestaendnis darf nicht losgeloest von richterlicher Wuerdigung hingenommen werden.
-- BGH, Urt. v. 28.01.2014 - 1 StR 494/13, BGHSt 59, 130 — Nachtraegliche Sicherungsverwahrung: strenge Anforderungen an Fahrlaessigkeit; Vollzugslockerungen kein Ablehnungsgrund.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schoenke/Schroeder, StGB, 30. Aufl. 2019 (Grundlagenkommentar Allg. und Bes. Teil)
-- Meyer-Gossner/Schmitt, StPO, 67. Aufl. 2024 (Praxisstandard)
-- Fischer, StGB, 71. Aufl. 2024 (kompakter Einzel-Kommentar)
-- MuKo StGB, 4. Aufl. 2020-2022, Bde. 1-8 (wissenschaftlicher Grundkommentar)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

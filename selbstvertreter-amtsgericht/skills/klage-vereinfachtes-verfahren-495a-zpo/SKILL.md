@@ -1,6 +1,6 @@
 ---
 name: klage-vereinfachtes-verfahren-495a-zpo
-description: "Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung moeglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt."
+description: "Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt."
 ---
 
 # Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)

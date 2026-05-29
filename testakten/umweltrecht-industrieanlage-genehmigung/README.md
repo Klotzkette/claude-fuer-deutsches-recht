@@ -1,5 +1,14 @@
 # Testakte Umweltrecht: Industrieanlage — Genehmigung, Emissionshandel, Altlast und Transaktion
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-umweltrecht-industrieanlage-genehmigung` (diese Akte) | [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Lehrakte über einen komplexen umweltrechtlichen Beratungsfall rund um die geplante Erweiterung einer Spezialchemie-Anlage in Nordrhein-Westfalen. Die Akte deckt das gesamte Spektrum des modernen betrieblichen Umweltrechts ab: Immissionsschutz, Emissionshandel, Wasserrecht, Bodenschutz, Naturschutz, Ordnungswidrigkeiten und umweltrechtliche Due Diligence bei einem Unternehmensverkauf.
 
 ---

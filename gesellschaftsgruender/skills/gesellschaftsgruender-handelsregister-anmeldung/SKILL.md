@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-handelsregister-anmeldung
-description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gruendungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Pruefraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gruendung."
+description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung."
 ---
 
 # Handelsregister-Anmeldung
@@ -25,17 +25,11 @@ description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftr
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vorbelastungshaftung: zwischen Beurkundung und Eintragung entstehende Verbindlichkeiten treffen Gesellschafter persönlich; GF muss Umfang der Vorbelastung kontrollieren.
-- BGH, Urt. v. 05.02.2007 - II ZR 84/05, NJW 2007, 1529 — Handelndenhaftung entfällt mit wirksamer HR-Eintragung; Gesellschafter haften nach Eintragung nur noch auf das Stammkapital.
-- OLG München, Beschl. v. 20.04.2017 - 31 Wx 134/17, NZG 2017, 826 — Zwischenverfügung des HR-Gerichts bei unzureichender Unterscheidungskraft der Firma; Notar muss fristgerecht nachbessern.
-- OLG Frankfurt, Beschl. v. 17.03.2020 - 20 W 9/20, GmbHR 2020, 752 — Gesellschafterliste § 40 GmbHG muss nach jeder Anteilsübertragung unverzüglich beim HR eingereicht werden; Versäumnis blockiert Rechtserwerb Dritter.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 7 Rn. 1-30 (Anmeldevoraussetzungen)
-- Scholz/Emmerich, GmbHG, § 8 Rn. 1-25 (Versicherungen GF, Anlagen)
-- Lutter/Hommelhoff, GmbHG, § 11 Rn. 1-20 (Vor-GmbH, Handelndenhaftung, Eintragungswirkung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht-Anlagen und Checkliste
 
 | Anlage | Pflicht | Besonderheit |
@@ -128,7 +122,7 @@ Bekanntmachungskosten: ca. 25 EUR
 
 - §§ 7, 8, 11, 40, 78, 82 GmbHG (HR-Anmeldung, Versicherungen, Strafbarkeit)
 - §§ 106-108 HGB (KG/OHG Anmeldung)
-- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 8 Rn. 1-25
 
 ## Übergabe an andere Skills

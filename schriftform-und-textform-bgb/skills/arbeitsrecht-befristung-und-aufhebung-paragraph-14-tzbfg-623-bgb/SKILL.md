@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb
-description: "Arbeitgeber oder Arbeitnehmer fragt: Ist die Befristungsabrede oder Kuendigung wegen Formverstoß unwirksam? §§ 14 Abs. 4 TzBfG 623 BGB Schriftformzwang. Pruefraster: Befristung zwingend eigenhaendige Unterschrift auf Papier oder qES § 126a BGB Kuendigung § 623 BGB Aufhebungsvertrag Heilung ausgeschlossen. Folge Unwirksamkeit: Befristungsklage oder Kuendigung unwirksam. Output: Einschaetzung Formwirksamkeit und Klage-/Widerspruchsempfehlung. Abgrenzung zu befristungsabrede-qes-rechtsprechung-stand-2026 (aktuelle RSP zur qES)."
+description: "Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie."
 ---
 
 # Arbeitsrecht — Befristung und Aufhebung: §§ 14 TzBfG, 623 BGB
@@ -13,12 +13,13 @@ description: "Arbeitgeber oder Arbeitnehmer fragt: Ist die Befristungsabrede ode
 - **§ 126 Abs. 3 BGB** i.V.m. **§ 126a BGB** — Ersatz durch qES theoretisch, aber Spezialrecht beachten
 - **§ 125 BGB** — Nichtigkeitsfolge bei Formverstoß
 - **§ 16 TzBfG** — Folge formwidrig befristeter Arbeitsvertrag: gilt als unbefristet
+- **§ 46c, § 46g, § 46h ArbGG** — elektronischer Rechtsverkehr und arbeitsgerichtliche Formfiktion für klare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen
 
 ## BGH-Linie und BAG-Rechtsprechung
 
 ### § 14 Abs. 4 TzBfG — Befristungsabrede
 
-Das BAG (Bundesarbeitsgericht) verlangt für die Wirksamkeit einer Befristungsabrede:
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Schriftlichkeit vor Arbeitsbeginn**: Die Befristungsabrede muss eigenhändig von Arbeitgeber und Arbeitnehmer unterschrieben und dem Arbeitnehmer vor Beginn der Arbeit zugegangen sein.
 - **Kein Beginn vor Unterzeichnung**: Nimmt der Arbeitnehmer die Arbeit auf, bevor er die schriftliche Befristungsabrede unterschrieben hat oder bevor ihm das unterschriebene Dokument zugegangen ist, gilt der Arbeitsvertrag als unbefristet (§ 16 TzBfG).
 - **Heilung ausgeschlossen**: Eine nachträgliche Unterschrift heilt den Formmangel bei § 14 Abs. 4 TzBfG nicht.
@@ -29,14 +30,11 @@ Das BAG (Bundesarbeitsgericht) verlangt für die Wirksamkeit einer Befristungsab
 
 **Aufhebungsvertrag**: Auch der einvernehmliche Aufhebungsvertrag bedarf der Schriftform (§ 623 BGB). Ein mündlich vereinbarter Aufhebungsvertrag ist nichtig.
 
-**qES bei Kündigung**: § 623 BGB schreibt Schriftform vor. Ob qES (§ 126a BGB i.V.m. § 126 Abs. 3 BGB) die Schriftform ersetzen kann, ist im Arbeitsrecht umstritten. Argumente gegen qES-Ersatz:
-- Schutzzweck des § 623 BGB: Arbeitnehmer-Schutz vor übereilten Entscheidungen
-- § 623 BGB ist lex specialis zu § 126 Abs. 3 BGB (str., BAG hat noch nicht abschließend entschieden)
-- **Empfehlung**: Bis zur höchstrichterlichen Klärung Originalunterschrift auf Papier verwenden
+**qES bei Kündigung**: § 623 BGB schließt die elektronische Form für Kündigungen und Aufhebungsverträge ausdrücklich aus. Direkte Kündigung per E-Mail, Signaturplattform, beA-Nachricht oder qES-Datei ist deshalb nicht der sichere Weg. Für arbeitsgerichtliche Schriftsätze gibt es aber seit 17.07.2024 den engen Sonderpfad des § 46h ArbGG: Ist die Willenserklärung klar erkennbar in einem elektronischen vorbereitenden Schriftsatz nach § 46c ArbGG enthalten und wird sie zugestellt oder mitgeteilt, kann die Form als gewahrt gelten. Das ist keine allgemeine digitale Kündigungserlaubnis, sondern ein prozessualer Fiktionsmechanismus.
 
 ### Keine qES-Ausnahme im TzBfG
 
-Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis des § 14 Abs. 4 TzBfG auf „Schriftform" ist als Verweis auf § 126 BGB zu verstehen — und damit grundsätzlich auch für § 126 Abs. 3 BGB offen. Aber: Das BAG hat die qES-Frage bei Befristungsabreden noch nicht höchstrichterlich entschieden. Praxis: Papier bevorzugen.
+Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis des § 14 Abs. 4 TzBfG auf "Schriftform" ist als Verweis auf § 126 BGB zu verstehen — und damit grundsätzlich auch für § 126 Abs. 3 BGB offen. Aber: Das BAG hat die qES-Frage bei Befristungsabreden noch nicht höchstrichterlich entschieden. Praxis: Papier bevorzugen.
 
 ## Workflow
 
@@ -73,6 +71,13 @@ Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis d
    → Inhalt: Ende des Arbeitsverhältnisses, Abfindung, Freistellung, Zeugnis
 
 □ Betriebsrat angehört? (§ 102 BetrVG bei Kündigung durch AG)
+
+□ Bei Kündigung im arbeitsgerichtlichen Schriftsatz:
+   → § 46h ArbGG zeitlich anwendbar?
+   → Erklärung im Schriftsatz klar erkennbar?
+   → elektronisches Dokument nach § 46c ArbGG?
+   → Zustellung oder Mitteilung an den richtigen Empfänger?
+   → Vollmachtsurkunde und § 174 BGB geprüft?
 ```
 
 ### Folgen Formverstoß
@@ -135,13 +140,15 @@ Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
 ## Fallstricke
 
 - **Arbeit vor Vertragsunterzeichnung**: Häufigster Fehler — Arbeitnehmer beginnt Montag, unterschreibt Vertrag Dienstag. Folge: Befristung unwirksam, Arbeitsvertrag unbefristet.
-- **Mündliche Aufhebung**: „Wir trennen uns im Guten" ohne schriftliche Vereinbarung — Arbeitsverhältnis besteht fort. Arbeitgeber muss Lohn weiterzahlen.
-- **qES Arbeitgeberkündigung**: Praxis-Empfehlung ist Papier mit Originalunterschrift, da BAG qES-Frage noch nicht höchstrichterlich entschieden hat.
+- **Mündliche Aufhebung**: "Wir trennen uns im Guten" ohne schriftliche Vereinbarung — Arbeitsverhältnis besteht fort. Arbeitgeber muss Lohn weiterzahlen.
+- **Direkte elektronische Arbeitgeberkündigung**: Wegen § 623 BGB nicht auf qES, E-Mail, beA-Nachricht oder Signaturplattform stützen. Papier mit Originalunterschrift bleibt Standard.
+- **Schriftsatzkündigung im Arbeitsgericht**: § 46h ArbGG kann die Form fingieren, wenn die gesetzlichen Voraussetzungen vorliegen. Das ersetzt nicht die Prüfung von Klarerkennbarkeit, Zustellung, Vertretung und § 174 BGB.
 - **§ 174 BGB**: Wenn HR-Manager kündigt ohne vorgelegte Originalvollmacht, kann Arbeitnehmer unverzüglich zurückweisen. Personalleiter-Vollmacht im Original immer beifügen.
 
 ## Querverweise
 
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
 - → `elektronische-form-paragraph-126a-bgb-qes` (qES-Frage § 623 BGB)
+- → `kuendigung-per-schriftsatz-zustellung-formfragen` (§ 46h ArbGG und beA)
 - → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
 - → `verteidigungsstrategie-bei-formangriff`

@@ -46,8 +46,8 @@ Spiegelt die Excel-Spezifikation exakt wider — gleiche Tabellenblätter, gleic
 
 - **Notizen sind pro Zelle und im Druck unsichtbar.** Wenn die Ausgabe für ein Partner-Meeting gedruckt oder als PDF erstellt wird, die Zitate auch in das `Hinweise`-Tabellenblatt schreiben, damit sie erhalten bleiben.
 - **Sheets hat ein Limit von 10 Millionen Zellen.** Bei einer juristischen Prüfung wird dieses Limit nicht erreicht. Wenn jedoch jemand 50.000 Dokumente mit 30 Spalten plus Quellspalten zu einem Raster zusammenfassen möchte, darauf hinweisen.
-- **Freigabe-Standardeinstellungen.** Gemäß dem Plugin-Praxisprofil handelt es sich um anwaltliches Arbeitsprodukt. Die Tabelle mit eingeschränkter Freigabe erstellen (nur Eigentümer), und den Benutzer auffordern, sie bewusst freizugeben. Nicht standardmäßig auf „Jeder mit dem Link" setzen.
-- **Formel-Maskierung.** Wenn ein wörtliches Zitat mit `=`, `+`, `-` oder `@` beginnt, ein einfaches Anführungszeichen (`'`) voranstellen, damit Sheets es nicht als Formel interpretiert. Dies ist ein realer Fehlerfall: Eine Vertragsklausel, die mit „- Die Parteien vereinbaren..." beginnt, führt ohne die Maskierung zu einem Formelfehler.
+- **Freigabe-Standardeinstellungen.** Gemäß dem Plugin-Praxisprofil handelt es sich um anwaltliches Arbeitsprodukt. Die Tabelle mit eingeschränkter Freigabe erstellen (nur Eigentümer), und den Benutzer auffordern, sie bewusst freizugeben. Nicht standardmäßig auf "Jeder mit dem Link" setzen.
+- **Formel-Maskierung.** Wenn ein wörtliches Zitat mit `=`, `+`, `-` oder `@` beginnt, ein einfaches Anführungszeichen (`'`) voranstellen, damit Sheets es nicht als Formel interpretiert. Dies ist ein realer Fehlerfall: Eine Vertragsklausel, die mit "- Die Parteien vereinbaren..." beginnt, führt ohne die Maskierung zu einem Formelfehler.
 
 ## Was zu vermeiden ist
 

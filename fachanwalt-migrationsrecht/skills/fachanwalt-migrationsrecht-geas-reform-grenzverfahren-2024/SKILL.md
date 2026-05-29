@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024
-description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Workflow Eilantrag Identitaetspruefung Verfahrensgarantien."
+description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Workflow Eilantrag Identitätsprüfung Verfahrensgarantien."
 ---
 
 # GEAS-Reform: EU-Grenzverfahren 2024
@@ -48,11 +48,8 @@ description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 
 
 | Aktenzeichen | Gericht/Datum | Inhalt |
 |---|---|---|
-| BVerfG 2 BvR 1516/93 | BVerfG, 14.05.1996 | Flughafenverfahren noch verfassungskonform; Mindestgarantien |
-| EGMR 30696/09 | EGMR, 21.01.2011 | M.S.S.: systemische Mängel im Erstland ausreichend für Nicht-Überstellung |
-| EuGH C-175/17 | EuGH, 19.03.2019 | Effektiver Rechtsschutz im beschleunigten Asylverfahren; aufschiebende Wirkung |
-| EuGH C-69/10 | EuGH, 28.07.2011 | Rechtsbehelfsrecht muss de facto wirksam sein |
-| Anhängig EuGH | Verschiedene VV 2025/2026 | Verfahrensgarantien nach GVO 2024/1349 — aktuellen Stand abfragen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -69,7 +66,7 @@ description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 
 | 7 | Verfahrensgarantien geprüft (Rechtsbelehrung in verstandener Sprache) | Art. 8 AVO |
 | 8 | Bescheid ergangen? → 7-Tage-Rechtsbehelfsfrist beginnt | Art. 68 AVO |
 | 9 | Eilantrag § 80 V VwGO innerhalb 7 Tage | §§ 80, 123 VwGO |
-| 10 | Klage VG innerhalb 1 Woche § 36 AsylG | § 36 AsylG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 11 | Vulnerabilität in Eilantrag geltend machen — Übergang reguläres Verfahren | Art. 42 Abs. 3 GVO |
 | 12 | Bei Erfolg: Übergang in reguläres Asylverfahren; Aufenthaltsgestattung | § 75 AsylG |
 | 13 | Refoulement-Verbot in jedem Stadium geltend machen | Art. 33 GFK, Art. 3 EMRK |
@@ -159,7 +156,7 @@ IV. Anordnungsgrund — Irreparabilität
 Bei Vollziehung der Abschiebung droht [konkrete Verfolgungsgefahr].
 Dies verletzt:
 - Art. 33 GFK (Non-Refoulement-Verbot)
-- Art. 3 EMRK (Folterverbot; EGMR 30696/09 M.S.S.)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 4 EU-Grundrechte-Charta
 Eine Rückkehr ist irreversibel.
 
@@ -245,7 +242,7 @@ Mit freundlichen Grüßen
 
 | Behörden-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| "Herkunftsland hat < 20 % Quote, daher Grenzverfahren zwingend" | Individuelle Verfolgungsgefahr prüfen; statistische Quote befreit nicht von Einzelfallprüfung (EuGH C-175/17) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "7-Tage-Frist abgelaufen" | Zustelldatum genau klären; faktische Unmöglichkeit fristgerechter Beauftragung eines Anwalts im Grenz-Aufnahmezentrum |
 | "Kein Vulnerabilitäts-Attest vorhanden" | BAMF hat Amtsermittlungspflicht (§ 24 AsylG); Nachholen des Attests und Ergänzungsschreiben |
 | "Refoulement-Risiko nicht konkret" | UNHCR-Berichte, AA-Lagebericht, EGMR-Entscheidungen zum Herkunftsland vorlegen |
@@ -289,7 +286,7 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. GEAS-Reform-Verordnungen verabschiedet 14.05.2024, Amtsblatt EU 22.05.2024; Anwendbarkeit 12.06.2026. VO (EU) 2024/1348 (AVO), 2024/1349 (GVO), 2024/1351 (AMVO), 2024/1356 (Screening), 2024/1347 (QualifikationsVO). AsylG §§ 18–20, 34a, 36, 74, 75, 83b. BVerfG 2 BvR 1516/93. EGMR 30696/09 (M.S.S.). EuGH C-175/17. EuGH C-69/10. EU-Kommissions-Implementierungsregeln laufend verfolgen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Eilantrag GEAS-Grenzverfahren (§ 36 AsylG / Art. GVO 2024/1349)
 

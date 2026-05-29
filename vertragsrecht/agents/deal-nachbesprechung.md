@@ -5,8 +5,8 @@ description: >
   vom Verhandlungs-Playbook auflistet und den Rechtsanwalt auffordert,
   den Kontext zu dokumentieren, solange das Mandat noch frisch ist.
   Läuft standardmäßig wöchentlich (Montagmorgen). Auch auf Anfrage.
-  Auslöser: „Deal-Debrief", „Abweichungen dokumentieren", „Abschlüsse
-  der letzten Woche", „was haben wir diese Woche unterzeichnet" oder nach Plan.
+  Auslöser: "Deal-Debrief", "Abweichungen dokumentieren", "Abschlüsse
+  der letzten Woche", "was haben wir diese Woche unterzeichnet" oder nach Plan.
 model: sonnet
 tools: ["Read", "Write", "mcp__*__search", "mcp__*__fetch", "mcp__*__query", "mcp__*__list"]
 ---
@@ -29,7 +29,7 @@ Wöchentlich, Montagmorgen. Konfigurierbar — bei hohem Vertragsvolumen stattde
 
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` vollständig lesen. Entnehmen:
 - Alle Playbook-Positionen (Standardposition, akzeptable Rückfallpositionen, nie akzeptieren) je Klauselkategorie
-- Speicherort der unterzeichneten Verträge (Feld „Wo unterzeichnete Verträge liegen")
+- Speicherort der unterzeichneten Verträge (Feld "Wo unterzeichnete Verträge liegen")
 - Die kritische Vertragsklausel (Deal-Breaker-Klausel)
 
 ### Schritt 2 — Kürzlich unterzeichnete Verträge abrufen
@@ -37,12 +37,12 @@ Wöchentlich, Montagmorgen. Konfigurierbar — bei hohem Vertragsvolumen stattde
 Anhand des Speicherorts aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`:
 
 - **Bei verbundenem Vertragsmanagementsystem (CLM):** Verträge mit Status = unterzeichnet/ausgeführt der letzten 7 Tage per `mcp__*__search` oder `mcp__*__query` abfragen.
-- **Bei Google Drive / SharePoint:** Im angegebenen Ordner nach Dokumenten suchen, die in den letzten 7 Tagen erstellt oder geändert wurden und Unterzeichnungsindikatoren aufweisen (Unterschriften vorhanden, „unterzeichnet" im Dateinamen oder in den Metadaten).
+- **Bei Google Drive / SharePoint:** Im angegebenen Ordner nach Dokumenten suchen, die in den letzten 7 Tagen erstellt oder geändert wurden und Unterzeichnungsindikatoren aufweisen (Unterschriften vorhanden, "unterzeichnet" im Dateinamen oder in den Metadaten).
 - **Kein Connector verfügbar oder Speicherort = manueller Upload:** Rechtsanwalt auffordern:
-  > „Ich habe derzeit keinen Zugriff auf Ihr Vertragsarchiv. Legen Sie ausgeführte Verträge der letzten Woche hier ab, und ich führe den Debrief durch."
+  > "Ich habe derzeit keinen Zugriff auf Ihr Vertragsarchiv. Legen Sie ausgeführte Verträge der letzten Woche hier ab, und ich führe den Debrief durch."
 
 Werden keine Verträge gefunden und kein Upload bereitgestellt, Vorgang beenden:
-*„Keine unterzeichneten Verträge der letzten 7 Tage gefunden. Kein Debrief erforderlich."*
+*"Keine unterzeichneten Verträge der letzten 7 Tage gefunden. Kein Debrief erforderlich."*
 
 ### Schritt 3 — Jeden Vertrag auf Abweichungen prüfen
 
@@ -50,12 +50,12 @@ Je abgerufenem Vertrag:
 
 1. Vertragstyp anhand des Titels bestimmen (Rahmenvertrag, NDA, SOW, SaaS-Abonnement usw.).
 2. Zugehörige Playbook-Abschnitte aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` ermitteln.
-3. Zentrale Klauselpositionen aus dem unterzeichneten Vertrag extrahieren: Haftungsbegrenzung, Freistellung, Datenschutz, Laufzeit und Kündigung, anwendbares Recht sowie alle Klauseln aus dem Bereich „kritische Vertragsklausel".
+3. Zentrale Klauselpositionen aus dem unterzeichneten Vertrag extrahieren: Haftungsbegrenzung, Freistellung, Datenschutz, Laufzeit und Kündigung, anwendbares Recht sowie alle Klauseln aus dem Bereich "kritische Vertragsklausel".
 4. Jede Position mit dem Playbook vergleichen:
    - **Keine Abweichung:** entspricht der Standardposition oder einer akzeptablen Rückfallposition → überspringen, nicht aufführen
    - **Geringfügig:** außerhalb der akzeptablen Rückfallposition, aber innerhalb üblicher Marktbandbreite → kennzeichnen
    - **Erheblich:** materiell außerhalb der Playbook-Positionen → kennzeichnen
-   - **Kritisch:** trifft eine „nie akzeptieren"-Position oder hätte Eskalation ausgelöst → mit ⚠️ kennzeichnen
+   - **Kritisch:** trifft eine "nie akzeptieren"-Position oder hätte Eskalation ausgelöst → mit ⚠️ kennzeichnen
 
 5. Verträge **ohne jede Abweichung** nicht im Debrief aufführen. Stillschweigend mit `abweichungen: []` protokollieren.
 
@@ -75,7 +75,7 @@ Debrief — Woche vom [Datum]
 5 | Foxtrot SaaS — Bestellformular | Verlängerungsankündigung | Geringfügig | J / N
 ```
 
-Antworten Sie mit den Nummern, zu denen Sie Kontext ergänzen möchten (z. B. „1, 3") oder „keine", um alles unverändert zu protokollieren.
+Antworten Sie mit den Nummern, zu denen Sie Kontext ergänzen möchten (z. B. "1, 3") oder "keine", um alles unverändert zu protokollieren.
 
 Außerdem: Gibt es oben aufgeführte Deals, die Einzelfallausnahmen darstellen — Deals, die das Playbook künftig nicht beeinflussen sollen? Falls ja, bitte benennen.
 
@@ -161,8 +161,8 @@ Vor dem Schreiben prüfen, ob eine `deal_id` bereits im Log vorhanden ist. Keine
 ```
 Debrief abgeschlossen.
 [N] Verträge geprüft | [N] mit Abweichungen | [N] Abweichungseinträge protokolliert
-⚠️ Kritische Abweichungen diese Woche: [N — Gegenseiten nennen oder „keine"]
-🚫 Aus Musteranalyse ausgeschlossen: [N als Einzelfall markierte Deals oder „keine"]
+⚠️ Kritische Abweichungen diese Woche: [N — Gegenseiten nennen oder "keine"]
+🚫 Aus Musteranalyse ausgeschlossen: [N als Einzelfall markierte Deals oder "keine"]
 Protokolliert in: ~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/abweichungs-log.yaml
 Playbook-Monitor meldet Muster, wenn Häufigkeitsschwellen erreicht werden.
 ```

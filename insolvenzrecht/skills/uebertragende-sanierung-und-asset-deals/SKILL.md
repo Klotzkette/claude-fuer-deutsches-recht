@@ -1,6 +1,6 @@
 ---
 name: uebertragende-sanierung-und-asset-deals
-description: "Insolvenzverwalter will Geschaeftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Pruefung des Asset-Deals. Pruefraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Glaeubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO fuer gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus aufloesend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Glaeubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt fuer Insolvenzplan-Erstellung (anderes Plugin)."
+description: "Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin)."
 ---
 
 # Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans
@@ -211,7 +211,7 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 | (c) rechtliche Verpflichtung | nein | Plan-Bestätigung schafft keine datenschutzrechtliche Pflicht |
 | (d) lebenswichtige Interessen | nein | unpraktisch |
 | (e) öffentliches Interesse | nein | bei privatwirtschaftlichem Asset Deal nicht einschlägig |
-| (f) berechtigtes Interesse + Interessenabwägung | umstritten | siehe BGH IV ZR 225/17 (Lebensversicherung-Bestandsübertragung) — Interessenabwägung erforderlich; bei sensitiven Daten kritisch |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 **Empfehlung Praxisstandard "Opt-in mit Anreiz":**
 
@@ -245,7 +245,7 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 | besondere Kategorien (Art. 9 DSGVO) — Gesundheitsdaten, Religion, Gewerkschaft etc. | Einwilligung praktisch zwingend, Interessenabwägung Art. 6 Abs. 1 lit. f scheidet aus |
 | Daten Minderjähriger | Art. 8 DSGVO: Einwilligung der Erziehungsberechtigten erforderlich |
 | Bank-/Zahlungsdaten | aufsichtsrechtliche Sonderregeln (BaFin), ggf. KWG/ZAG |
-| Patientendaten | § 203 StGB Schweigepflicht; OLG-Rspr. zur Praxisveräußerung (z.B. BGH IX ZR 80/14) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Telekommunikationsdaten | § 3 TDDDG, § 9 TKG |
 | Bestandskunden vs. Interessenten | Interessenten ohne abgeschlossenen Vertrag i.d.R. nur mit Einwilligung übertragbar |
 
@@ -361,12 +361,9 @@ Für die volle Plan-Mechanik siehe Plugin `insolvenzplan-starug-planwerkstatt`:
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und StaRUG-Pläne. Konkrete Klauseln sind im Einzelfall mit Notar, IP-Fachanwalt und Datenschutzbeauftragtem abzustimmen.
 
-
 ## Weitere Leitentscheidungen — Uebertragende Sanierung
 
-- BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal Verwertungspflicht: IV muss Asset-Deal mit Insolvenzplan-Alternative vergleichen; Entscheidung fuer Asset-Deal muss erklaert und dokumentiert sein.
-- BGH, Urt. v. 01.12.2011 — IX ZR 11/11, NZI 2012, 190 — Betriebsuebergang § 613a BGB in Insolvenz: § 613a BGB gilt auch im Insolvenzverfahren; Erwerber tritt in bestehende Arbeitsverhaeltnisse ein; Kuendigung allein wegen Betriebsuebergang unwirksam.
-- BAG, Urt. v. 25.06.2020 — 6 AZR 480/19, NZA 2020, 1352 — Personalabbau im Asset-Deal: IV kann vor Betriebsuebergang kuerzen wenn betriebliche, wirtschaftliche Gruende vorliegen (nicht: weil Erwerber es will).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template Asset-Deal-Memo
 
@@ -401,5 +398,3 @@ USt Asset-Deal: EUR [BETRAG] (Masseverbindlichkeit)
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH IX ZR 170/09 (04.11.2010) entfernt.** Echtes Thema laut dejure.org: Steuerberaterhaftung / Verjaehrungsbeginn bei Schadenersatz wegen versaeumten Rechtsbehelfs (Datum korrekt: 21.10.2010, nicht 04.11.2010; Fundstellen WM 2010, 2284 u.a.). Die Eintragung behauptete „Steuerpflicht Asset-Deal im Insolvenzverfahren“ — falsches Thema und falsches Datum (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.

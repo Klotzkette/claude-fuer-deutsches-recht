@@ -1,116 +1,207 @@
 ---
 name: liegt-ki-system-vor-art-3-nr-1
-description: "Erster Schritt jeder KI-VO-Pruefung: Unternehmen fragt ob die eigene Software oder Anwendung ueberhaupt ein KI-System nach der KI-VO ist und ob die Verordnung gilt. Art. 3 Nr. 1 KI-VO Definition KI-System. Pruefraster: maschinengesteuertes System Autonomiegrad Inferenz aus Eingaben Ausgaben Vorhersagen Inhalte Empfehlungen Entscheidungen. EU-Kommissions-Leitlinien Februar 2025. Output: Einordnungsentscheidung mit Begruendung. Abgrenzung zu abgrenzung-konventionelle-software-vs-ki-system (Grenzfaelle) und triage-ki-vo-vorpruefung (Einstiegsinterview)."
+description: "Erster Schritt jeder KI-VO-Pruefung: Ist die Software, API, App, Automatisierung oder Modellkette ein KI-System nach Art. 3 Nr. 1 KI-VO? Prueft maschinenbasiertes System, Autonomie, optionale Adaptivitaet, Ziele, Inferenz, Output-Typen und Umweltbeeinflussung nach den Kommissionsleitlinien. Problematisiert Automation und Autonomie statt schematisch abzuhaken. Output: dokumentierbarer KI-System-Einordnungsvermerk mit Tatsachenbasis, Unsicherheiten und Folge-Skills."
 ---
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO
 
 ## Zweck
 
-Dies ist der wichtigste Qualifikationsschritt des gesamten Workflows. Ohne Vorliegen eines KI-Systems im Sinne von Art. 3 Nr. 1 KI-VO findet die Verordnung (EU) 2024/1689 keine Anwendung. Dieser Skill prüft die Tatbestandsmerkmale der Legaldefinition Schritt für Schritt.
+Dieser Skill ist das Eingangstor der KI-VO-Prüfung. Er klärt, ob der geprüfte Gegenstand überhaupt ein KI-System im Sinne der Verordnung (EU) 2024/1689 ist. Ohne KI-System greifen die KI-VO-Pflichten grundsätzlich nicht; mit KI-System folgen Anwendungsbereich, Rollen und Risikoklasse.
 
-## Normtext — Art. 3 Nr. 1 KI-VO (Kurzfassung)
+Der Skill arbeitet nicht mit einem starren Alles-oder-Nichts-Schema. Er erstellt eine nachvollziehbare Einordnung anhand der sieben Elemente der Legaldefinition und dokumentiert, welche Tatsachen die Einordnung tragen.
 
-Ein KI-System ist ein maschinengestütztes System, das für einen in unterschiedlichem Grad autonomen Betrieb ausgelegt ist, nach seiner Einführung anpassungsfähig sein kann und das aus den erhaltenen Eingaben für explizite oder implizite Ziele ableitet, wie es Ausgaben wie Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen generieren kann, die physische oder virtuelle Umgebungen beeinflussen.
+## Prüfgegenstand sauber bestimmen
 
-## Tatbestandsmerkmale — Checkliste
+Vor der Definition immer zuerst klären:
 
-### Merkmal 1: Maschinengestütztes System
+1. Was genau wird geprüft: Modell, API, Chatbot-Oberfläche, Workflow-Automation, SaaS-Modul, eingebettete Komponente oder Gesamtprodukt?
+2. Wer setzt es wofür ein: Anbieter, Betreiber, interne Fachabteilung, Kunde, Behörde?
+3. Welche Eingaben werden verarbeitet und welche Ausgaben werden erzeugt?
+4. Wird die Ausgabe nur angezeigt, als Vorschlag genutzt oder in Entscheidungen/Prozesse eingespeist?
+5. Ist die fragliche Funktion selbst KI-basiert oder nur eine Umgebung um ein fremdes KI-System?
 
-Frage an den Nutzer: Wird das System von einer Maschine (Computer, Server, Edge-Gerät) betrieben?
-- Ja → weiter zu Merkmal 2
-- Nein → kein KI-System nach KI-VO; Workflow endet hier
+Wenn mehrere Komponenten zusammenwirken, trenne:
+- KI-Komponente
+- Umgebende konventionelle Software
+- Menschliche Entscheidungsschritte
+- Nachgelagerte Nutzung der Ausgaben
 
-### Merkmal 2: Autonomiegrad
+## Legaldefinition — Arbeitsfassung
 
-Frage: Trifft das System selbstständig Entscheidungen oder Ausgaben ohne manuelle Einzelsteuerung für jeden Schritt?
-- Vollautonomen Betrieb: klar erfüllt
-- Partiell autonomen Betrieb (Vorschläge, Scoring, Ranking): in der Regel erfüllt
-- Ausschließlich manuelle Steuerung jedes einzelnen Schritts: möglicherweise nicht erfüllt
+Ein KI-System ist nach Art. 3 Nr. 1 KI-VO ein maschinenbasiertes System, das für einen Betrieb mit unterschiedlichem Grad an Autonomie ausgelegt ist, nach Einführung anpassungsfähig sein kann und aus Eingaben für explizite oder implizite Ziele ableitet, wie Ausgaben wie Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erzeugt werden, die physische oder virtuelle Umgebungen beeinflussen können.
 
-### Merkmal 3: Anpassungsfähigkeit (optional, aber prüfpflichtig)
+Die Kommissionsleitlinien zur Definition des KI-Systems sind bei Grenzfällen ausdrücklich mitzudenken. Sie sind nicht selbst der Normtext, aber derzeit die wichtigste Auslegungshilfe.
 
-Frage: Kann das System sein Verhalten durch Training, Fine-Tuning oder Lernprozesse verändern?
-- Ja → deutliches Indiz für KI-System
-- Nein → schließt KI-System nicht aus; weiter mit Merkmal 4
+## Sieben Elemente der Prüfung
 
-### Merkmal 4: Ableitung aus Eingaben (Inferenz)
+### 1. Maschinenbasiertes System
 
-Frage: Leitet das System aus Eingaben (Daten, Signale, Text, Bilder, Sensordaten) Ausgaben ab, die über eine reine Datenweitergabe hinausgehen?
-- Ja → weiter zu Merkmal 5
-- Nein → möglicherweise kein KI-System; vgl. Abgrenzung unten
+Prüfe, ob Software, Hardware, Server, Cloud-Dienst, Edge-Gerät oder eine sonstige technische Infrastruktur die Funktion trägt.
 
-### Merkmal 5: Ausgabentypen
+Indizien:
+- Ausführung auf Computer, Server, Smartphone, Sensor, Cloud oder eingebettetem Gerät
+- API-Aufruf an ein Modell oder einen KI-Dienst
+- Softwaremodul in einem Fachverfahren
 
-Welcher Typ von Ausgabe wird generiert?
-- Vorhersagen (Prognosen, Scores, Wahrscheinlichkeiten) → erfüllt
-- Inhalte (Text, Bilder, Audio, Video) → erfüllt
-- Empfehlungen (Handlungsvorschläge, Rankings) → erfüllt
-- Entscheidungen (Zulassung, Ablehnung, Klassifikation) → erfüllt
+Nicht ausreichend:
+- rein menschliche Entscheidung ohne technische Ausgabegenerierung
+- statisches Dokument, Checkliste oder manuelles Formular
 
-### Merkmal 6: Beeinflussung physischer oder virtueller Umgebungen
+### 2. Betrieb mit unterschiedlichem Grad an Autonomie
 
-Frage: Können die Ausgaben reale Folgen für Personen oder Systeme haben?
-- Ja → Merkmal erfüllt
-- Die Beeinflussung muss nicht unmittelbar sein; mittelbare Wirkungen genügen.
+Autonomie bedeutet nicht, dass das System völlig allein handelt. Es genügt regelmäßig, dass es Ausgaben ohne menschliche Einzelbestimmung jedes Zwischenschritts erzeugt.
 
-## Abgrenzung — Wann liegt KEIN KI-System vor?
+Prüffragen:
+- Erzeugt das System nach Start oder Eingabe selbst eine Ausgabe, ohne dass ein Mensch jeden Rechenschritt vorgibt?
+- Wählt, gewichtet, klassifiziert, generiert, priorisiert oder empfiehlt das System eigenständig?
+- Kann ein Mensch die Ausgabe nur noch prüfen, übernehmen oder verwerfen?
 
-**Rein regelbasierte Software:** Ein Programm, das ausschließlich explizit vom Menschen programmierte Wenn-Dann-Regeln abarbeitet, ohne aus Daten zu lernen oder zu inferieren, ist kein KI-System. Beispiel: eine Steuerberechnungssoftware, die §-Normen deterministisch umsetzt.
+Wichtig für die Bewertung:
+- Hohe Automation spricht deutlich für ein KI-System, wenn Ausgaben aus Eingaben abgeleitet werden.
+- Reine Automation ist nicht allein entscheidend: Ein Skript, das starr kopiert, sortiert oder feste Regeln ausführt, kann konventionelle Software bleiben.
+- Autonomie darf nicht überhöht werden. Auch ein System mit menschlicher Freigabe kann KI-System sein, wenn die eigentliche Ausgabegenerierung inferenzbasiert erfolgt.
 
-**Einfache Automation:** Skripte oder Makros, die Daten formatieren, kopieren oder weiterleiten, ohne Ausgaben zu „ableiten", sind kein KI-System.
+### 3. Adaptivität nach Einführung
 
-**Statistische Methoden ohne Inferenz:** Reine Deskriptivstatistik (Mittelwert, Summe, Histogramm) ohne Vorhersage- oder Empfehlungskomponente gilt nicht als KI-System. Sobald jedoch Regressionsmodelle, Clustering oder Klassifikatoren eingesetzt werden, ist die Grenze in der Regel überschritten.
+Adaptivität ist optional. Ein System kann KI-System sein, obwohl es nach Deployment nicht weiterlernt.
 
-**Expertensysteme und deterministische Logik:** Klassische Expertensysteme mit vollständig vom Menschen definierten Regeln fallen nach den Leitlinien der Kommission (Februar 2025) typischerweise nicht unter Art. 3 Nr. 1 KI-VO, wenn kein maschinelles Lernen und keine Inferenz aus Daten stattfindet.
+Indizien:
+- Training, Fine-Tuning, Reinforcement Learning, Online Learning
+- Anpassung an Nutzerverhalten oder Kontext
+- Modellupdates oder Retrieval-/Tool-Konfigurationen, die Verhalten verändern
 
-## Leitlinien der Kommission (Februar 2025)
+Bewertung:
+- Adaptivität verstärkt die KI-Einordnung.
+- Fehlende Adaptivität schließt die KI-Einordnung nicht aus.
 
-Die Kommission hat klargestellt, dass für die Qualifikation als KI-System entscheidend ist, ob das System eine Form von Inferenz — also das Ableiten von Ausgaben aus Eingaben — durchführt. Reine Suche, Filterung oder Datenbankabfrage reicht nicht. Maschinelles Lernen, Deep Learning, neuronale Netze, Bayes-Netze, Entscheidungswälder und ähnliche Methoden erfüllen das Kriterium typischerweise.
+### 4. Explizite oder implizite Ziele
 
-## Ergebnis und Routing
+Prüfe, welchem Zweck die Ausgaben dienen.
 
-- **Alle sechs Merkmale erfüllt oder überwiegend erfüllt:** KI-System nach Art. 3 Nr. 1 KI-VO liegt vor → weiter zu `territorialer-anwendungsbereich-art-2`
-- **Zweifelsfälle:** Das System weist auf Unsicherheit hin und empfiehlt juristische Klärung → vgl. `mandatsabbruch-empfehlung-komplexe-faelle`
-- **Nicht erfüllt:** Kein KI-System; KI-VO findet keine Anwendung. Andere Rechtsgebiete können trotzdem relevant sein (DSGVO, Produktsicherheit).
+Beispiele:
+- Bewerber ranken
+- Ausfallwahrscheinlichkeit prognostizieren
+- Rechtsfrage zusammenfassen
+- Notrufe priorisieren
+- Bildinhalt erkennen
+- Kundenanfrage beantworten
 
----
+Auch implizite Ziele zählen, etwa Optimierung von Conversion, Produktivität, Risikosenkung oder Entscheidungsvorbereitung.
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+### 5. Inferenz aus Eingaben
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung wenn KI-Score massgebliche Grundlage fuer Drittentscheidung; Masstab fuer KI-Scoring-Systeme nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Entscheidungssysteme muss Entscheidungslogik verstaendlich offenlegen; Art. 13 KI-VO Transparenzpflicht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Informationssystemen — Organisationspflicht bei KI-Einsatz; massgeblich fuer Art. 26 KI-VO Betreiberpflichten.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-Anbieter-APIs erfordert Schutzgarantien; massgeblich fuer Art. 28 DSGVO i.V.m. KI-VO Lieferkette.
+Inferenz ist der Kern. Das System muss aus Eingaben ableiten, wie es eine Ausgabe erzeugt.
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 1 KI-VO — Definition KI-System
-- Erwaegungsgrund 12 KI-VO — Abgrenzung zu regelbasierter Software
-- Art. 2 KI-VO — Anwendungsbereich
+Typische Inferenz:
+- maschinelles Lernen, neuronale Netze, Transformer, generative Modelle
+- Klassifikation, Scoring, Ranking, Clustering, Regression
+- Empfehlungen auf Grundlage gelernter Muster
+- Bild-, Sprach-, Text- oder Mustererkennung
 
-## Triage zu Beginn
-1. Ist das System maschinengestuetzt und fuer autonomen Betrieb ausgelegt?
-2. Leitet das System aus Eingaben Ausgaben ab — Inferenz vorhanden?
-3. Werden Vorhersagen, Empfehlungen, Entscheidungen oder Inhalte generiert?
-4. Handelt es sich um rein regelbasierte Software ohne Lernkomponente?
-5. Sind Leitlinien der Kommission (Februar 2025) auf diesen Fall anwendbar?
+Grenzfälle:
+- Einfache Suche, Sortierung, SQL-Abfrage oder Formularvalidierung reicht regelmäßig nicht.
+- Ein hartcodierter Entscheidungsbaum ist regelmäßig keine KI, wenn alle Regeln und Schwellen ausschließlich menschlich festgelegt sind.
+- Statistik ist nicht automatisch KI. Deskriptive Statistik bleibt regelmäßig draußen; Vorhersage-, Klassifikations- oder Empfehlungssysteme überschreiten die Schwelle eher.
 
-## Output-Template — KI-System-Qualifikation
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+### 6. Ausgabetyp
+
+Mindestens ein typischer Ausgabetyp muss vorliegen:
+- Vorhersage, Score, Wahrscheinlichkeit, Risikoindikator
+- Inhalt, etwa Text, Bild, Audio, Video, Code
+- Empfehlung, Ranking, Priorisierung, Next-best-action
+- Entscheidung, Klassifikation, Freigabe, Ablehnung, Zuweisung
+
+Der Begriff ist weit. Auch ein "nur vorbereitender" Score kann ein relevanter Output sein.
+
+### 7. Einfluss auf physische oder virtuelle Umgebungen
+
+Die Ausgabe muss physische oder virtuelle Umgebungen beeinflussen können. Ein mittelbarer Einfluss genügt.
+
+Beispiele:
+- Mensch übernimmt Empfehlung in Personal-, Kredit-, Versicherungs- oder Verwaltungsentscheidung
+- System steuert Prozess, Maschinenlogik, Zugriff, Priorisierung oder Anzeige
+- Ausgabe prägt Kommunikation, Sachbearbeitung, Aktenauswertung oder Dokumentation
+
+Wenn eine Ausgabe nur testweise erzeugt und nie verwendet wird, dokumentiere das. Für Produktivsysteme reicht oft schon die reale Möglichkeit, dass Ausgaben in Prozesse einfließen.
+
+## Entscheidungsmatrix
+
+| Befund | Ergebnisrichtung |
+|---|---|
+| Maschinenbasiert + Inferenz + Output mit möglichem Einfluss | starkes Indiz für KI-System |
+| Generatives Modell oder LLM/API im Workflow | regelmäßig KI-System-Komponente |
+| Nur feste Wenn-Dann-Regeln ohne gelernte Parameter und ohne Inferenz | regelmäßig kein KI-System |
+| Nur Suche, Filterung, Formatierung, Kopieren, Validieren | regelmäßig kein KI-System |
+| Automation ohne Inferenz | nicht genug, aber genauer prüfen |
+| Autonomie gering, aber Output wird inferenzbasiert erzeugt | KI-System häufig trotzdem naheliegend |
+| Nur Modell ohne konkrete Anwendung | ggf. GPAI-Modell prüfen, aber KI-System-Einsatz gesondert bestimmen |
+
+## Typische Beispiele
+
+**Regelmäßig KI-System:**
+- ChatGPT-ähnlicher Assistent, der Texte generiert oder Entscheidungen vorbereitet
+- Bewerberranking mit LLM, Embeddings oder Scoringmodell
+- Bonitätsscore per ML-Modell
+- Bildklassifikation mit neuronalen Netzen
+- Anomalieerkennung durch Clustering oder trainiertes Modell
+- RAG-System, das Dokumente auswertet und rechtliche/geschäftliche Empfehlungen erzeugt
+
+**Regelmäßig kein KI-System:**
+- starres Makro zur Dokumentenumbenennung
+- SQL-Suche ohne Rankingmodell
+- Taschenrechner, Fristenrechner oder Steuerrechner mit ausschließlich fixen Regeln
+- reines Formular, das Pflichtfelder prüft
+- Dashboard mit Summen, Mittelwerten und statischen Filtern
+
+**Prüfungsbedürftige Grenzfälle:**
+- Expertensystem mit komplexer Wissensbasis
+- scoringartige Excel-Modelle mit manuell gesetzten Gewichtungen
+- Prozessautomation mit einzelnen KI-APIs
+- LLM nur als Texteditor ohne Entscheidungskontext
+- KI-Assistenz in juristischen, Personal-, Bildungs- oder Kreditprozessen
+
+## Routing
+
+- **KI-System wahrscheinlich:** weiter zu `territorialer-anwendungsbereich-art-2`, danach `persoenlicher-anwendungsbereich-rollen-art-3` und `risikoklassen-uebersicht-und-triage`.
+- **Konventionelle Software wahrscheinlich:** Ergebnis dokumentieren; bei Grenzfällen zusätzlich `abgrenzung-konventionelle-software-vs-ki-system`.
+- **GPAI oder allgemeiner Chatbot betroffen:** zusätzlich `gpai-vorliegen-art-3-nr-63`, `begrenztes-risiko-art-50-transparenzpflichten` und bei Hochrisiko-Kontexten `hochrisiko-art-6-abs-2-anhang-iii`.
+- **Unklare Tatsachen:** offene Punkte im Output markieren und nicht mit Scheinsicherheit entscheiden.
+
+## Output-Template — KI-System-Einordnungsvermerk
+
+```text
+KI-SYSTEM-EINORDNUNGSVERMERK NACH ART. 3 NR. 1 KI-VO
+Datum: [DATUM]
+System / Komponente: [NAME]
+Geprüfter Funktionszuschnitt: [MODELL / API / APP / WORKFLOW / GESAMTPRODUKT]
+Quelle der Tatsachen: [NUTZERANGABEN / DOKUMENTE / TECHNISCHE UNTERLAGEN]
+
+1. Sachverhalt in Kurzform
+[Was tut das System, welche Eingaben, welche Ausgaben, welche Nutzung?]
+
+2. Tatbestandsmerkmale
+- Maschinenbasiertes System: [JA/NEIN/UNKLAR] — [Begründung]
+- Autonomiegrad: [JA/NEIN/UNKLAR] — [nicht überhöhen; menschliche Freigabe einordnen]
+- Adaptivität nach Einführung: [JA/NEIN/UNKLAR/NICHT ERFORDERLICH] — [Begründung]
+- Explizite oder implizite Ziele: [JA/NEIN/UNKLAR] — [Zweck]
+- Inferenz aus Eingaben: [JA/NEIN/UNKLAR] — [Methode/Indizien]
+- Ausgabetyp: [Vorhersage/Inhalt/Empfehlung/Entscheidung/anderer Output]
+- Einfluss auf physische oder virtuelle Umgebung: [JA/NEIN/UNKLAR] — [Wirkpfad]
+
+3. Würdigung
+[Warum spricht die Automation für/gegen KI-System? Warum ist Autonomie hier ausreichend oder nicht? Welche Rolle spielt Adaptivität?]
+
+4. Ergebnis
+[KI-System liegt wahrscheinlich vor / liegt wahrscheinlich nicht vor / Grenzfall]
+
+5. Dokumentationshinweis
+Diese Einordnung beruht auf den angegebenen Tatsachen. Bei geänderter Zweckbestimmung, Modellwechsel, Integration in Hochrisiko-Prozesse oder neuem Nutzerkreis ist neu zu prüfen.
+
+6. Nächste Skills
+[territorialer-anwendungsbereich-art-2 / risikoklassen-uebersicht-und-triage / hochrisiko-art-6-abs-2-anhang-iii / gpai-vorliegen-art-3-nr-63 / abgrenzung-konventionelle-software-vs-ki-system]
 ```
-KI-SYSTEM-QUALIFIKATION NACH ART. 3 NR. 1 KI-VO
-[DATUM] — System: [SYSTEMNAME]
 
-Tatbestandsmerkmal-Check:
-☑/☐ Maschinengestuetzt
-☑/☐ Autonomiegrad vorhanden
-☑/☐ Anpassungsfaehig (optional)
-☑/☐ Inferenz aus Eingaben
-☑/☐ Ausgabetyp (Vorhersage / Inhalt / Empfehlung / Entscheidung)
-☑/☐ Beeinflussung physischer oder virtueller Umgebungen
+## Quellen- und Aktualitätshinweis
 
-Ergebnis: [KI-SYSTEM NACH ART. 3 NR. 1 KI-VO LIEGT VOR / LIEGT NICHT VOR / ZWEIFELSFALL]
-Naechster Schritt: [territorialer-anwendungsbereich-art-2 / mandatsabbruch-empfehlung-komplexe-faelle / KEINE KI-VO]
-Geprueft: [NAME], [DATUM]
-```
+Stand: 05/2026. Zu berücksichtigen sind Art. 3 Nr. 1, Nr. 12, Nr. 13 und Nr. 23 KI-VO, Erwägungsgrund 12 sowie die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung; die Einordnung bleibt abhängig vom konkreten Tatsachenvortrag.

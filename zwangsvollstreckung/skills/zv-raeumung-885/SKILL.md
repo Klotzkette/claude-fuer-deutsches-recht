@@ -1,6 +1,6 @@
 ---
 name: zv-raeumung-885
-description: "Vermieter hat Raeumungsurteil und will Wohnung oder Gewerberaum raeumen lassen. § 885 ZPO Raeumungsvollstreckung. Pruefraster: Raeumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Raeumungsauftrag. Output: Raeumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar)."
+description: "Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar)."
 ---
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO
@@ -30,11 +30,11 @@ Wohn- oder Gewerberäume vom Schuldner herausverlangen. Hier kollidieren Eigentu
 ## Workflow
 
 1. **Drei-Säulen-Prüfung** plus Räumungsfrist abgelaufen.
-2. **Mitbewohner** prüfen: Räumungstitel wirkt nur gegen die im Titel benannten Personen. Volljährige Mitbewohner brauchen eigenen Titel (Ehegatten/Lebenspartner: BGH 19.3.2008 – I ZB 56/07). Minderjährige Kinder werden vom Titel gegen den sorgeberechtigten Elternteil erfasst.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Räumungsauftrag** an GV mit klarer Bezeichnung Räumungsobjekt (Adresse, Lage im Haus).
 4. **Räumungsart wählen**:
    - **§ 885 ZPO klassisch**: GV räumt das Objekt, schuldnerische Habe wird entfernt, eingelagert, verwertet (umfangreiche Lager- und Vorschusskosten).
-   - **§ 885a ZPO Berliner Modell**: Gläubiger lässt nur die Person und ihre erkennbar wertlosen Sachen entfernen, das Übrige verbleibt unter Vermieterpfandrecht § 562 BGB – günstig, schnell, juristisch saubere Variante seit BGH 17.11.2005 – I ZB 45/05.
+   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Termin** beim GV anberaumen; Vorschuss leisten; Eröffnungswerkzeug (Schlüsseldienst) bestellen.
 6. **Wohnungsöffnung**: Schloss durch Schlüsseldienst öffnen, neue Schließanlage installieren.
 7. **Schuldnerhabe**:
@@ -46,24 +46,24 @@ Wohn- oder Gewerberäume vom Schuldner herausverlangen. Hier kollidieren Eigentu
 
 - Seit 2013 ausdrücklich gesetzlich geregelt.
 - Gläubiger ist Vermieter mit Pfandrecht § 562 BGB.
-- Auftrag explizit beschränkt: „nur Herausgabe der Räume, keine Wegschaffung der Sachen".
+- Auftrag explizit beschränkt: "nur Herausgabe der Räume, keine Wegschaffung der Sachen".
 - Reduziert Kosten erheblich; trotzdem GV-Auftrag erforderlich.
 - Verwertung des Pfandgutes über pfandweisen Verkauf, Versteigerung oder freihändig.
 
 ## Mitbewohner und Dritte
 
-- **Ehegatte/Lebenspartner**: braucht eigenen Titel, sonst Räumung scheitert (BGH 19.3.2008 – I ZB 56/07).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Untermieter**: braucht eigenen Titel.
 - **Minderjährige Kinder**: durch Titel gegen sorgeberechtigten Elternteil erfasst.
-- **Volljährige Kinder im Haushalt**: braucht eigenen Titel (BGH 25.6.2004 – IXa ZB 29/04).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Leitentscheidungen
 
-- BGH 17.11.2005 – I ZB 45/05 (Berliner Modell zulässig)
-- BGH 19.3.2008 – I ZB 56/07 (Ehegatte braucht eigenen Titel)
-- BGH 25.6.2004 – IXa ZB 29/04 (volljährige Kinder)
-- BGH 10.12.2015 – I ZB 60/15 (§ 885a Reichweite Pfandrecht)
-- BVerfG 19.10.2017 – 2 BvR 1936/17 (Suizidgefahr § 765a ZPO)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

@@ -1,6 +1,6 @@
 ---
 name: energierecht-waerme-quartier
-description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Pruefraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege."
+description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Prüfraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege."
 ---
 
 # Wärme, Quartier und Fernwärme
@@ -58,7 +58,7 @@ Behandelt kommunale Wärmeplanung, Fernwärmeverträge, Mieterstrom, BEW-Förder
 - **Wirtschaftliche Vorteilhaftigkeit** Fernwärme
 - **Versorgungssicherheit** garantiert
 - **Verhältnismäßigkeits-Prüfung** Einzelfall: Eigentümer-Eingriff vs. öffentliches Interesse
-- BVerwG 7 C 32.94 zur Verhältnismäßigkeit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Streit-Konstellation
 
@@ -82,7 +82,7 @@ Behandelt kommunale Wärmeplanung, Fernwärmeverträge, Mieterstrom, BEW-Förder
 
 ### Preisanpassungs-Klauseln Streit
 
-- **BGH VIII ZR 263/22 (Urt. 06.03.2024)**: Preisanpassungs-Klauseln müssen den Anforderungen § 24 Abs. 4 AVBFernwärmeV genügen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Transparenz-Erfordernis
 - Bezugnahme auf nachvollziehbare Indizes (Erdgaspreis, Holzpellet-Index, Inflation)
 - **Spotpreis-Indizierung problematisch** wenn nicht für den Lieferanten-Bedarf typisch
@@ -263,20 +263,15 @@ f) Wasserstoff-Heizung (eingeschränkt)
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 24.03.2021 — VIII ZR 263/19, NJW 2021, 1596 — Fernwaerme-Preisanpassungsklausel; Spotpreis-Indizierung an Gaspreis-Index haelt AGB-Kontrolle stand wenn transparent und nachvollziehbar; Versorgungsunternehmen traegt Beweislast fuer Billigkeit § 315 BGB
-- BGH, Urt. v. 06.07.2022 — VIII ZR 155/21, NJW 2022, 2490 — Anschluss-und-Benutzungszwang Fernwaerme nach kommunalem Satzungsrecht; Verhaeltnismaessigkeit gegenueber Grundrecht auf Eigentumsfreiheit Art. 14 GG; staedtebauliche Klimaschutz-Ziele als legitimer Zweck anerkannt
-- OLG Muenchen, Urt. v. 12.10.2023 — 14 U 2043/22, ZNER 2023, 388 — GEG-Pflicht 65 % Erneuerbare beim Heizungs-Ersatz; keine rueckwirkende Anwendung auf bestehende Heizungsanlagen; Uebergangsfristen nach WPG beachten
-- VG Frankfurt/Main, Urt. v. 25.05.2023 — 8 K 1344/22.F, juris — kommunale Waermeplanung WPG; Pflicht der Gemeinde zur Erstellung Waermeplan bis 30.06.2026; keine Ermessens-Entscheidung; Klage eines Anschlussnehmer-Verbands auf Vorlage des Plans zulaessig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 3, 14 WPG (Kommunale Waermeplanung, Fristen) — §§ 71, 72 GEG (65%-EE-Anforderung Heizung) — AVBFernwaermeV (Vertragsbeziehungen Fernwaerme) — §§ 1, 5 BEW (Bundesfoerderung Waermenetze) — § 21 EEG (Mieterstrom) — §§ 313, 315 BGB (Anpassung, billiges Ermessen)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 17b-17d Rn. 1 ff. (Waermenetz-Anschluss, Fernwaerme-Regulierung)
-- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 315 Rn. 1 ff. (billiges Ermessen Fernwaerme-Preisanpassung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-vertrieb-marktrollen` — Mieterstrom-Vertrieb
@@ -293,9 +288,8 @@ f) Wasserstoff-Heizung (eingeschränkt)
 - EnWG § 42a
 - EEG § 21
 - BGB §§ 305 ff. AGB-Kontrolle
-- BVerwG 7 C 32.94 (AuB-Verhältnismäßigkeit)
-- BGH VIII ZR 263/22 (Preisanpassungs-Klauseln Fernwärme)
-- BGH VIII ZR-Linie zu Tarifen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - KfW-BEW-Förderrichtlinie 442
 - BMWK-Hinweise Wärmeplanung
 - Bayerische, NRW, Hessische GO-Vorschriften zu AuB-Satzung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-scheidungsantrag-stellen
-description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Abs. 2 BGB, Zerrüttungsvermutung § 1566 BGB (1 Jahr einvernehmlich, 3 Jahre einseitig), Härtefallscheidung BGH XII ZB 277/12, Anwaltszwang § 114 FamFG, Verbundverfahren § 137 FamFG (Versorgungsausgleich von Amts wegen), Zuständigkeit § 122 FamFG, Verfahrenswert § 43 FamGKG (3 x Nettoeinkommen/Monat), VKH § 76 FamFG, Antragsmuster einvernehmliche Scheidung, strategische Verfahrensführung."
+description: "Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -42,19 +42,13 @@ description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Ab
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | XII ZB 277/12 | 13.11.2013 | Härteklausel § 1565 Abs. 2 BGB: Schwere häusliche Gewalt rechtfertigt Sofortscheidung ohne Trennungsjahr |
-| BGH | XII ZB 270/15 | 26.10.2016 | Trennung innerhalb der Wohnung setzt objektiv erkennbare Aufhebung der häuslichen Gemeinschaft voraus |
-| BGH | XII ZB 549/14 | 17.02.2016 | Versorgungsausgleich: Auskunftspflicht des Versorgungsträgers; keine Scheidung ohne VA-Beschluss |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| BGH | XII ZB 607/15 | 29.06.2016 | Verfahrenswert nach § 43 FamGKG: Nettoeinkommen beider Ehegatten maßgeblich; nicht Bruttoeinkommen |
-| OLG Frankfurt | 6 UF 136/19 | 05.11.2019 | Trennungsdatum bei streitigem Trennungszeitpunkt: volle Beweislast beim Antragsteller |
-| OLG Düsseldorf | 3 UF 99/20 | 22.09.2020 | Härteklausel § 1568 BGB bei schwer krankem Ehegatten: Einzelfallabwägung erforderlich |
-| BVerfG | 1 BvR 2556/12 | 02.05.2013 | Anwaltszwang § 114 FamFG verfassungskonform; VKH sichert Zugang zum Recht |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Scheidungsantrag
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -64,7 +58,7 @@ description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Ab
 | 4 | Scheitern der Ehe feststellbar? | § 1565 Abs. 1 BGB | Unwiderlegbar bei § 1566 Abs. 1 oder 2 BGB; sonst Einzelfallprüfung |
 | 5a | Trennungsjahr abgelaufen (> 1 Jahr)? | § 1566 Abs. 1 BGB | Bei beiderseitigem Antrag: Zerrüttung unwiderlegbar |
 | 5b | Drei Jahre Trennung? | § 1566 Abs. 2 BGB | Auch einseitig möglich; Zerrüttung unwiderlegbar |
-| 5c | Härteklausel Sofortscheidung? | § 1565 Abs. 2 BGB | Unzumutbare Härte (BGH XII ZB 277/12): Sofortscheidung ohne Trennungsjahr |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Härteklausel Versagung? | § 1568 BGB | Ausnahme: Kindeswohl oder schwere Folgen für Ehegatten; praktisch selten |
 | 7 | Verbundsachen? | § 137 FamFG | Versorgungsausgleich von Amts wegen; andere Folgesachen auf Antrag |
 | 8 | Versorgungsausgleich ausschließbar? | § 6 VersAusglG | Nur durch notarielle Vereinbarung oder Gerichtsentscheid |
@@ -211,7 +205,7 @@ Es liegt ein Strafanzeigenprotokoll der Polizeiinspektion [X] vom [Datum] vor.
 Eine einstweilige Schutzanordnung gemäß § 1 GewSchG wurde vom Amtsgericht [X]
 am [Datum] erlassen (Az. [X]).
 
-Der BGH (XII ZB 277/12, 13.11.2013) hat entschieden, dass schwere häusliche
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Gewalt die Unzumutbarkeit der Ehefortführung begründet und eine Scheidung
 vor Ablauf des Trennungsjahres rechtfertigt.]
 
@@ -248,7 +242,6 @@ Rechtsanwalt/Rechtsanwältin [Name]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -276,13 +269,13 @@ Rechtsanwalt/Rechtsanwältin [Name]
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Trennungsjahr ist noch nicht voll" | Antragsgegner | Trennungsdatum sorgfältig belegen; ggf. Härtefall § 1565 Abs. 2 BGB prüfen |
-| „Ehe ist nicht gescheitert — ich will versöhnen" | Antragsgegner | Bei < 1 Jahr Trennung: Prüfung § 1565 Abs. 1 BGB erforderlich; nach 3 Jahren: § 1566 Abs. 2 BGB greift unwiderleglich |
-| „Härteklausel § 1568 BGB: Scheidung schadet den Kindern" | Antragsgegner | Extrem hohe Hürde; BVerfG: Versagung nur bei außergewöhnlichen Umständen; reiner Kindeswunsch nicht ausreichend |
-| „Versorgungsausgleich soll ausgeschlossen werden" | Mandant/in | Nur notariell oder gerichtlich möglich (§ 6 VersAusglG); anwaltliche Vereinbarung reicht nicht |
-| „Ich bekomme kein Anwalt, zu teuer" | Mandant/in | VKH § 76 FamFG; Rechtsschutzversicherung prüfen |
-| „Abtrennung Versorgungsausgleich verlangt" | Antragsgegner | Nur bei unangemessener Verzögerung (§ 142 FamFG); Auskunftspflicht der Versorgungsträger muss erfüllt sein |
-| „Keine Zuständigkeit des deutschen Gerichts" | Antragsgegner | Art. 17 EGBGB + Brüssel IIb-VO (EU) prüfen; § 98 FamFG bei Ausländern mit gewöhnlichem Aufenthalt in Deutschland |
+| "Trennungsjahr ist noch nicht voll" | Antragsgegner | Trennungsdatum sorgfältig belegen; ggf. Härtefall § 1565 Abs. 2 BGB prüfen |
+| "Ehe ist nicht gescheitert — ich will versöhnen" | Antragsgegner | Bei < 1 Jahr Trennung: Prüfung § 1565 Abs. 1 BGB erforderlich; nach 3 Jahren: § 1566 Abs. 2 BGB greift unwiderleglich |
+| "Härteklausel § 1568 BGB: Scheidung schadet den Kindern" | Antragsgegner | Extrem hohe Hürde; BVerfG: Versagung nur bei außergewöhnlichen Umständen; reiner Kindeswunsch nicht ausreichend |
+| "Versorgungsausgleich soll ausgeschlossen werden" | Mandant/in | Nur notariell oder gerichtlich möglich (§ 6 VersAusglG); anwaltliche Vereinbarung reicht nicht |
+| "Ich bekomme kein Anwalt, zu teuer" | Mandant/in | VKH § 76 FamFG; Rechtsschutzversicherung prüfen |
+| "Abtrennung Versorgungsausgleich verlangt" | Antragsgegner | Nur bei unangemessener Verzögerung (§ 142 FamFG); Auskunftspflicht der Versorgungsträger muss erfüllt sein |
+| "Keine Zuständigkeit des deutschen Gerichts" | Antragsgegner | Art. 17 EGBGB + Brüssel IIb-VO (EU) prüfen; § 98 FamFG bei Ausländern mit gewöhnlichem Aufenthalt in Deutschland |
 
 ## Streitwert und Kosten
 
@@ -336,9 +329,8 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 - BGH XII ZB 607/15: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20607/15
 
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 1
-AZ: BGH XII ZB 122/17
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC + falsches Datum
-Befund: Laut dejure.org und rewis.io ist XII ZB 122/17 vom 04.07.2018 (nicht 06.12.2017)
 und betrifft ehebedingte Nachteile nach § 1578b BGB (nachehelicher Unterhalt) – nicht
 Abtrennung des Versorgungsausgleichs nach § 142 FamFG.
 Maßnahme: Zeile aus Leitentscheidungen-Tabelle gelöscht.

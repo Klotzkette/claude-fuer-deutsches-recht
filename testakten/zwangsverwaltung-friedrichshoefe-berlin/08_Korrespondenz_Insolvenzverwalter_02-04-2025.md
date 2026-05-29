@@ -40,7 +40,7 @@ Differenzen:
 
 **Etage 6 Mitte (412 m²)**: Vermietung an Helena Wirtschaftsberatung mbH zum 01.04.2025 zu EUR 22,80 / m² netto = EUR 9.393,60 monatlich. Mietvertrag 5 Jahre. Engel & Völkers Commercial Provision EUR 18.787,20 brutto (zwei Monatsmieten + USt, bezahlt).
 
-**Einzelhandelsfläche EG-West (218 m²)**: Vermietung an „Konditorei Wittenberg KG" zum 01.05.2025 zu EUR 49,50 / m² netto (übliche Einzelhandelsmiete an dieser Lage). Monatsmiete EUR 10.791,00. Provision EUR 21.582,00 brutto bezahlt.
+**Einzelhandelsfläche EG-West (218 m²)**: Vermietung an "Konditorei Wittenberg KG" zum 01.05.2025 zu EUR 49,50 / m² netto (übliche Einzelhandelsmiete an dieser Lage). Monatsmiete EUR 10.791,00. Provision EUR 21.582,00 brutto bezahlt.
 
 **Aurelius-Fläche Et. 3 Süd (218 m²)**: Vermarktung gestartet 01.04.2025, drei Erstbesichtigungen anberaumt.
 

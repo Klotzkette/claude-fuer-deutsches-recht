@@ -86,7 +86,7 @@ Der Anspruch erfasst gemäß ständiger Rechtsprechung des BSG sowohl den
 
 (stellvertretend: BSG, Urteil vom 16.09.2004, B 3 KR 17/01 R, BSGE 93, 191; BSG, Urteil vom 07.10.2010, B 3 KR 25/06 R; BSG, Urteil vom 16.04.2013, B 3 KR 5/12 R, BSGE 113, 192).
 
-Eine Beschränkung des Anspruchs auf Berufstätige oder sportlich Aktive ist dem Gesetz und der Rechtsprechung nicht zu entnehmen. Der Hilfsmittelanspruch des § 33 SGB V dient ausdrücklich auch der **sozialen Teilhabe** (§ 33 Abs. 1 Satz 1 Alt. 3 SGB V — „eine Behinderung auszugleichen"), und zwar unabhängig vom Erwerbsleben.
+Eine Beschränkung des Anspruchs auf Berufstätige oder sportlich Aktive ist dem Gesetz und der Rechtsprechung nicht zu entnehmen. Der Hilfsmittelanspruch des § 33 SGB V dient ausdrücklich auch der **sozialen Teilhabe** (§ 33 Abs. 1 Satz 1 Alt. 3 SGB V — "eine Behinderung auszugleichen"), und zwar unabhängig vom Erwerbsleben.
 
 #### 2.2 Individuelle Bedarfsgerechtigkeit
 
@@ -94,7 +94,7 @@ Die Auffassung der Nordsee-BKK, der Standard-Rollstuhl aus dem Kassensortiment r
 
 Ein Standard-Rollstuhl wiegt ca. 17–20 kg. Aufgrund der ausgeprägten **Hemiparese links** und der durch die Jamar-Messung dokumentierten Handkraft-Minderung (links 7,2 kg, rechts 21,4 kg) ist unser Mandant **nicht in der Lage**, einen Standard-Rollstuhl selbständig anzutreiben. Bei einseitig vorhandener Kraft ist die Antriebs-Kraft für einen 17-kg-Rollstuhl nicht ausreichend; der Rollstuhl driftet oder bleibt stehen.
 
-Die behandelnde Neurologin hat hierzu im Attest vom 05.05.2026 ausführlich Stellung genommen (Anlage 3). Sie erklärt darin: „Der Standardrollstuhl ist für den Patienten wegen der einseitigen Lähmung der oberen Extremität funktionell nicht nutzbar. Eine sichere und selbständige Mobilität ist nur mit einem Leichtgewichts-Aktivrollstuhl unter 9 kg zu erreichen."
+Die behandelnde Neurologin hat hierzu im Attest vom 05.05.2026 ausführlich Stellung genommen (Anlage 3). Sie erklärt darin: "Der Standardrollstuhl ist für den Patienten wegen der einseitigen Lähmung der oberen Extremität funktionell nicht nutzbar. Eine sichere und selbständige Mobilität ist nur mit einem Leichtgewichts-Aktivrollstuhl unter 9 kg zu erreichen."
 
 Ein Hilfsmittel, das der Versicherte tatsächlich nicht nutzen kann, **erfüllt den Versorgungszweck nicht**. Es ist daher nicht erforderlich im Sinne von § 33 Abs. 1 SGB V; nur das tatsächlich nutzbare Hilfsmittel ist erforderlich (BSG, Urteil vom 25.06.2009, B 3 KR 2/08 R; BSG, Urteil vom 18.05.2011, B 3 KR 7/10 R).
 

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-aktenanlage
-description: "Kanzlei eroeffnet neue Deal-Akte fuer M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Pruefraster Vollstaendigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten)."
+description: "Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Prüfraster Vollständigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten)."
 ---
 
 # Freistehende M&A-Aktenanlage (Mittelstand)
@@ -38,10 +38,7 @@ Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäfts
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | IX ZR 10/99 | 22.01.2004 | Lückenhafte Dokumentation in der Handakte begründet Beweislastumkehr im Regressprozess |
-| BGH | II ZR 354/17 | 26.06.2018 | GmbH-Anteilsübertragung: notarielle Beurkundung gem. § 15 GmbHG; Heilung formunwirksamer Übertragung nur durch Vollzug |
-| BGH | II ZR 159/10 | 23.04.2012 | Nachfolgeklausel im Gesellschaftsvertrag: qualifizierte Nachfolgeklausel kann Erbschaftsanteil beschränken; Auseinandersetzung mit Miterben |
-| OLG Hamm | 8 U 32/21 | 18.11.2021 | NDA bei Mittelstandstransaktion: Vertraulichkeitspflicht gilt auch ohne ausdrückliche Klausel bei erkennbarem Vertraulichkeitsinteresse |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema / Anlage-Checkliste (Mittelstand-angepasst)
 
@@ -207,12 +204,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 22.01.2004, Az. IX ZR 10/99 (Handakte, Beweislastumkehr)
-- BGH, Urt. v. 26.06.2018, Az. II ZR 354/17 (GmbH-Anteilsübertragung, § 15 GmbHG)
-- BGH, Urt. v. 23.04.2012, Az. II ZR 159/10 (Nachfolgeklausel)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 50 BRAO; §§ 5, 6, 8 GwG; §§ 15, 40 GmbHG; §§ 2032 ff. BGB; Art. 5 DSGVO
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 26.01.2006 - IX ZR 185/04, NJW 2006, 1432 — Aktenaufbewahrungspflicht: Anwalt muss Akten so aufbewahren, dass wesentliche Informationen fuer den Mandanten jederzeit zugaenglich sind; § 257 HGB (10 Jahre) gilt analog fuer Handakten im M&A-Mandat
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: Anwalt muss Akte so fuehren, dass Mandant saemtliche Informationen und Ergebnisse erhalten hat; lueckenhafte Aktenfuehrung kann Pflichtverletzung begruenden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

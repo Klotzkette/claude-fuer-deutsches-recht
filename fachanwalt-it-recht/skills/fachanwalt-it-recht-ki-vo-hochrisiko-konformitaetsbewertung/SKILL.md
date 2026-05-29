@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung
-description: "KI-VO-Konformitaetsbewertung fuer Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitaetserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bussgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Pruefraster Risiko-Klassifikation Anhang-III-Pruefung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitaetsbewertungsdossier mit Pruefergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
+description: "KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
 ---
 
 # KI-VO High-Risk-System Konformitätsbewertung Art. 16–29
@@ -263,9 +263,7 @@ Mit freundlichen Gruessen
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring kann Art. 22 DSGVO unterliegen; bei KI-Systemen die in Anhang III KI-VO (Nr. 5 lit. b Kreditbewilligung) gelistet sind, bestehen parallele Pflichten nach KI-VO und DSGVO — DSFA (Art. 35 DSGVO) und FRIA (Art. 27 KI-VO) müssen kombiniert werden.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- BVerwG, Urt. v. 25.09.2019 — 8 C 25.18, BVerwGE 166, 308 Rn. 38: Zur Zulässigkeit automatisierter Verwaltungsentscheidungen; Art. 22 DSGVO und Hochrisiko-KI-VO-Anforderungen (menschliche Aufsicht Art. 14) setzen Grenzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -312,6 +310,5 @@ Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
 ```
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: VG Wiesbaden 6 L 738/21.WI — Entscheidung auf dejure.org bestätigt (Beschl. 01.12.2021), aber WRONG_TOPIC: Echter Inhalt = Untersagung Nutzung Cookiebot-Dienst, rechtswidrige Datenübermittlung USA, DSGVO Art. 44/48. Skill verwendete sie fälschlicherweise als Beleg für DSFA-Pflicht bei KI-Entscheidungssystemen. Leitsatz-Eintrag entfernt.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

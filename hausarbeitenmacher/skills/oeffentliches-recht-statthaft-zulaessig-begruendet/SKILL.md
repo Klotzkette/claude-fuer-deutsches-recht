@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-recht-statthaft-zulaessig-begruendet
-description: "Student bearbeitet oeffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulaessigkeit Begruendetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Pruefraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output pruefungsschema oeffentliches Recht Statthaftigkeits-Pruefung. Abgrenzung zu verfassungsrecht-grundrechtspruefung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl)."
+description: "Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl)."
 ---
 
 # Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit
@@ -12,7 +12,7 @@ Im Öffentlichen Recht ist das Drei-Stufen-Schema (Statthaftigkeit – Zulässig
 ## Schritt 1 — Drei-Stufen-Schema
 
 ```
-A. Zulässigkeit (oder „Zulässigkeit der Klage")
+A. Zulässigkeit (oder "Zulässigkeit der Klage")
    I. Verwaltungsrechtsweg § 40 VwGO
    II. Statthafte Klageart
    III. Klagebefugnis
@@ -83,7 +83,7 @@ B. Begründetheit
 
 Möglichkeit, dass der Kläger in eigenen Rechten verletzt ist.
 
-### „Möglichkeits-Theorie"
+### "Möglichkeits-Theorie"
 
 - Kläger muss substantiiert behaupten, in eigenen Rechten verletzt zu sein
 - Bei Bestätigung Möglichkeit ist Klagebefugnis gegeben

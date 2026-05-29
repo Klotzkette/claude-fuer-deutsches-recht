@@ -1,6 +1,6 @@
 ---
 name: stb-kaltstart-interview
-description: "Kaltstart-Interview fuer das Steuerberater-Plugin um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation oder Konfiguration enthaelt noch Platzhalter-Marker oder Re-Interview mit --redo oder Konnektoren-Pruefung mit --integrationen-pruefen. Erfragt Rolle Steuerberater Wirtschaftspruefer Bilanzbuchhalter Geschaeftsfuehrer Mandanten-Schwerpunkte KMU Freiberufler GmbH Buchhaltungs-System DATEV Lexware sevDesk Eskalationsstrukturen Schnittstelle Anwalt. Output Kanzlei-Konfigurationsprofil CLAUDE.md. Abgrenzung zu stb-bwa-sus-bilanz-pruefung mandatsbezogener Krisencheck."
+description: "Kaltstart-Interview für das Steuerberater-Plugin um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation oder Konfiguration enthaelt noch Platzhalter-Marker oder Re-Interview mit --redo oder Konnektoren-Prüfung mit --integrationen-prüfen. Erfragt Rolle Steuerberater Wirtschaftsprüfer Bilanzbuchhalter Geschäftsführer Mandanten-Schwerpunkte KMU Freiberufler GmbH Buchhaltungs-System DATEV Lexware sevDesk Eskalationsstrukturen Schnittstelle Anwalt. Output Kanzlei-Konfigurationsprofil CLAUDE.md. Abgrenzung zu stb-bwa-sus-bilanz-prüfung mandatsbezogener Krisencheck."
 ---
 
 # /steuerrecht-anwalt-und-berater:stb-kaltstart-interview
@@ -15,15 +15,11 @@ description: "Kaltstart-Interview fuer das Steuerberater-Plugin um Praxisprofil 
 - **StaRUG** § 102 (Hinweispflichten bei drohender Insolvenz)
 
 ### Aktuelle Rechtsprechung
-- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NJW 2017, 1104 Rn. 18 — Der Steuerberater verletzt seine Beratungspflichten, wenn er einen sich abzeichnenden Insolvenzgrund nicht meldet; er ist zu aktiver Warnung verpflichtet.
-- BGH, Urt. v. 07.03.2013 - IX ZR 64/12, NJW 2013, 1944 Rn. 14 — Steuerbescheide, die der Steuerberater im Auftrag des Mandanten entgegennimmt, lösen Fristen aus; der Steuerberater ist für ordnungsgemäße Weiterleitung und Fristwahrung verantwortlich.
-- BFH, Urt. v. 18.06.2015 - VI R 12/14, BStBl II 2015, 857 Rn. 12 — Der Steuerberater, der Steuererklärungen einreicht, haftet für deren inhaltliche Richtigkeit nach Maßgabe seiner Mandatspflichten; Haftungsausschluss durch klare Mandatsabgrenzung möglich.
-- BGH, Urt. v. 14.07.2016 - IX ZR 291/14, NJW-RR 2016, 1394 Rn. 22 — Die Verpflichtung des Steuerberaters zur Belehrung über steuerliche Risiken gilt unabhängig davon, ob der Mandant danach fragt; bei erkennbarer steuerlicher Fehleinschätzung des Mandanten muss der Steuerberater aktiv warnen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- BeckOK StBerG/Gehre — Kommentar zum Steuerberatungsgesetz
-- Tipke/Kruse, AO/FGO, § 153 Rn. 1-30 (Berichtigungspflicht bei Erklärungsfehlern)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.

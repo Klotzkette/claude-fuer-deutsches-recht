@@ -31,18 +31,11 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 24.01.2019 - IX ZR 148/18, NZI 2019, 289 — Insolvenzanfechtung nach § 133 InsO: Vorsatz erfordert Kenntnis des Schuldners von Gaeubigerbenachteiligung; bei Zahlungsunfaehigkeit nahegelegt; Empfaengerkenntnis wird bei Bekanntheit von Zahlungsstockungen vermutet
-- BGH, Urt. v. 22.10.2020 - IX ZR 208/17, NJW 2021, 538 — Sicherungsanfechtung § 135 InsO: stille Gesellschaft mit Haftungsuebernahme ist dem Darlehen gleichgestellt; Anfechtungsfrist ein Jahr
-- BGH, Urt. v. 07.05.2020 - IX ZR 18/19, NZI 2020, 689 — Uebertragende Sanierung: Kaeufer eines insolventen Unternehmens haftet nicht fuer Altverbindlichkeiten, wenn kein Betriebsuebergang nach § 613a BGB vorliegt; dies haengt von Kontinuitaet von Betriebsmitteln und Belegschaft ab
-- BGH, Urt. v. 05.11.2020 - IX ZR 69/19, NZI 2021, 62 — StaRUG-Wertansatz: Neuheitswert von Restrukturierungsplan muss Liquidationswert uebersteigen; Abweichung erfordert Begruendung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo InsO/Kayser, §§ 129-147 (Anfechtungsrecht) Rn. 1-200
-- Uhlenbruck InsO/Mock, §§ 217-269 (Insolvenzplan) Rn. 1-150
-- Ahrens/Gehrlein/Ringstmeier, InsO, § 15b Rn. 1-80 (Haftung nach Insolvenzreife)
-- Braun, StaRUG-Kommentar, §§ 1-93 Rn. 1-200 (Restrukturierungsrahmen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen pruefen; Liquiditaetsvorschau anfordern

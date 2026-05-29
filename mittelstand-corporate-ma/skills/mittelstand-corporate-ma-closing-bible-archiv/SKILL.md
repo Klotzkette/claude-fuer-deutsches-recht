@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-closing-bible-archiv
-description: "Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Pruefraster Vollstaendigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess)."
+description: "Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess)."
 ---
 
 # Closing Bible und Archiv
@@ -27,17 +27,11 @@ Erstellt Closing Bible, Versionierung, Signaturketten, Registerbelege und Deal-A
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.01.2012 - II ZR 197/10, NJW 2012, 1209 — Abtretung von GmbH-Anteilen ist nur wirksam bei notarieller Beurkundung nach § 15 Abs. 3 GmbHG; fehlende Beurkundung fuehrt zur Nichtigkeit der Uebertragung
-- BGH, Urt. v. 11.07.2005 - II ZR 235/03, BGHZ 163, 391 — Closing-Vollzugspflicht: Verkaeuferpflichten aus SPA erlischen nicht durch blossen Zeitablauf; Klaeger muss Zug-um-Zug-Leistung anbieten
-- OLG Muenchen, Beschl. v. 22.03.2017 - 31 Wx 74/17, NZG 2017, 828 — Eintragung der neuen Gesellschafterliste ist Wirksamkeitsvoraussetzung fuer Stimmrechte des Erwerbers nach § 16 Abs. 1 GmbHG
-- BGH, Urt. v. 02.04.2007 - II ZR 325/05, NJW 2007, 2120 — Rueckabwicklungspflichten nach Closing: bei Nichteintritt einer Bedingung sind die Parteien nach den allgemeinen Regeln der §§ 346 ff. BGB rueckabzuwickeln
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Seibt, GmbHG, § 15 Rn. 1-80 (Anteilsuebertragung, Notarpflicht)
-- MueKo GmbHG/Reichert, § 40 Rn. 1-45 (Gesellschafterliste, Registerpflichten)
-- Baumbach/Hueck/Zoebelein, GmbHG, § 15 Rn. 10-60
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen

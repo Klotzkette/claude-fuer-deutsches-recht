@@ -1,13 +1,13 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: "Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Erstellt zwingend eine Excel-Tabelle auf Wochenbasis und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Wendet das BGH-Schema BGHZ 217 Rn 129 (Passiva II) und BGHZ 163 Rn 134 (10-%-Schwelle) an, zeigt die Lücke wochenaktuell zum Freitag und das Verhältnis zu den offenen Forderungen. Memo wird nur auf ausdrückliche Anfrage erstellt."
+description: "Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
 
 ## Zweck
 
-Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und wendet das BGH-Schema zur Zahlungsunfähigkeit (§ 17 InsO) darauf an. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
+Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und dokumentiert die insolvenzrechtliche Vorprüfung nach § 17 InsO. Rechtsprechung wird nur nach Live-Prüfung verwendet. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
 
 Anwendungsfälle:
 
@@ -66,7 +66,7 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 - Σ Liquide = Aktiva I + Aktiva II.
 - Σ Fällig = Passiva I + Passiva II.
 - **Liquiditätslücke (absolut) = max(0, Σ Fällig − Σ Liquide)**.
-- **Liquiditätsquote = Lücke ÷ Σ Fällig** (Volumeneffekt nach BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 Rn. 25 ff.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 5 — Ampel und 3-Wochen-Schließbarkeit**
 - 🟢 **Grün**: Liquiditätsquote < 10 % und am Ende von *t+2* ist die Liquidität nicht negativ und weniger als zwei Indizien gesetzt.
@@ -74,7 +74,7 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 - 🔴 **Rot**: Liquiditätsquote ≥ 10 % **und** Liquidität am Ende von *t+2* negativ (nicht binnen drei Wochen schließbar) **oder** zwei und mehr Indizien gesetzt — Zahlungsunfähigkeit § 17 InsO indiziert.
 
 **Schritt 6 — Verhältnis zu offenen Forderungen**
-Deckungsgrad = Offene Forderungen gesamt ÷ Liquiditätslücke (absolut). Titulierte Forderungen, bei denen die Vollstreckung läuft, in Höhe des Nennwerts berücksichtigen — BGH, Urt. v. 23.01.2025 – IX ZR 229/22.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 7 — Ergebnis ausliefern**
 - **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditätsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
@@ -87,7 +87,7 @@ Erst nach Auslieferung der Vorschau anbieten:
 
 > Soll ich zusätzlich ein Kurz-Memo im Gutachtenstil mit Subsumtion nach § 17 InsO erstellen?
 
-Das Memo enthält bei Zustimmung: Sachverhalt, rechtliche Grundlagen, Liquiditätsbilanz tabellarisch, Quotenberechnung, Subsumtion nach BGH BGHZ 217, 129 Rn. 24 ff. und BGHZ 163, 134 Rn. 12 ff., Indizienwürdigung, Ergebnis, Handlungsempfehlung. Maximal zwei Seiten. Format DOCX oder Markdown nach Nutzerwunsch.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 9 — Eskalation**
 Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
@@ -104,23 +104,19 @@ Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` u
 
 ### Leitentscheidungen (Volltexte im Plugin: `references/rechtsprechung/`)
 
-1. BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 — Passiva II zwingend einzubeziehen; Absage an die Bugwellentheorie; Symmetrieargument; Substantiierungslast des bestreitenden Geschäftsführers.
-2. BGH, Urt. v. 28.06.2022 – II ZR 112/21, ZIP 2022, 1606 — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus zulässig (Bugwellenrechtsprechung).
-3. BGH, Urt. v. 28.04.2022 – IX ZR 48/21, ZIP 2022, 1341 — Bestätigung der 10-%-Schwelle und der geordneten Gegenüberstellung.
-4. BGH, Urt. v. 23.01.2025 – IX ZR 229/22, DB 2025, 381 — titulierte Forderungen in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet ist.
-5. BGH, Urt. v. 11.03.2025 – II ZR 139/23 — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; es kommt auf den materiellen Bestand der Verbindlichkeit an.
-6. Grundlage: BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 — 10-%-Schwelle und 3-Wochen-Horizont.
-7. Indizienkatalog: BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), keine US-stare-decisis-Logik, keine pretrial discovery.
 
-### Kommentarliteratur (im Bearbeiterstil)
+### Quellenregel
 
-1. *K. Schmidt/Herchen*, in: K. Schmidt, Insolvenzordnung, 20. Aufl. 2023, § 17 InsO Rn. 5–35.
-2. *Mock*, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 10 ff., 30 ff.
-3. *Pape/Schaltke*, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 StaRUG Rn. 10–30.
-4. *BeckOK StaRUG/Skauradszun*, 8. Ed. Stand 04.2025, § 102 StaRUG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Berufsständischer Hintergrund (nicht im Vordergrund zitieren)
 
 - **IDW S 11** (Stand 12.08.2021), Tz. 16 f., 31–37 — Beurteilung des Eröffnungsgrundes der Zahlungsunfähigkeit.
@@ -128,7 +124,7 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 
 ## Ausgabeformat
 
-1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block „Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditaetsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
+1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block "Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditaetsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
 2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, das im Browser lebt, im `localStorage` speichert und auf JSON exportiert/importiert werden kann. Editierbare Felder rechnen die Ampel live nach BGH-Schema. KW-Header werden aus der eingegebenen KW abgeleitet.
 3. **Markdown-Artefakt** (auf Wunsch): Vorlage `assets/markdown/liquiditaets-artefakt-vorlage.md`, mit Tabellen, Indizienliste und Kurzfazit, das bei jeder Folgemeldung neu geschrieben wird.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
@@ -142,23 +138,23 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 - Passiva I (KW 21) = 61.500 €. Passiva II (KW 22 + KW 23) = 39.600 €. Σ Fällig = 101.100 €.
 - Liquiditätslücke absolut = 46.700 €. Quote = 46,2 %.
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
-- Ampel: 🔴 — Quote ≥ 10 % und Liquidität am Freitag KW 23 negativ. Damit Zahlungsunfähigkeit § 17 InsO indiziert ab KW 21 — BGH BGHZ 217, 129 Rn. 24 ff.; BGHZ 163, 134 Rn. 12 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
 
 ## Typische Fehler
 
 - **Voll ausgeschöpften Kontokorrent als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
-- **Faktische Duldung des Zahlungsverzugs als Stundung werten**: Beseitigt die Fälligkeit nicht — BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36**Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung, lässt die Fälligkeit der Steuerforderung unberührt. AdV-Beträge bleiben **Passiva I**, soweit nicht zusätzlich eine schriftliche Stundung nach § 222 AO mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
 - **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab Eintritt der Zahlungsunfähigkeit.
 - **SV- und Lohnsteuer-Rückstände kleinreden**: Starke Indizien und persönlich haftungsauslösend.
-- **Bezugsgröße der Quote verwechseln**: Volumeneffekt nach BGH II ZR 88/16 Rn. 25 ff. — Σ(P I + P II), nicht nur P I.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorlage verändern**: Die Excel-Vorlage hat eine vorgegebene Form (Kategorien-Zeilen × KW-Spalten). Nicht in ein anderes Layout umbauen.
 
 ## Quellenpflicht
 
-Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbeiter-Stil. Berufsständische Verlautbarungen (IDW, StaRUG-Kommentare) als Hintergrund. Die PDFs unter `references/rechtsprechung/` sind die maßgeblichen Quellen, ergänzt um BGHZ 163, 134 (Grundsatzentscheidung) und NJW 2007, 78 (Indizienkatalog).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Übergabe
 

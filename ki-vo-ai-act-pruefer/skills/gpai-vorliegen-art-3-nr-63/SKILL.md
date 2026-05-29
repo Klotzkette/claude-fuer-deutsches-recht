@@ -1,117 +1,136 @@
 ---
 name: gpai-vorliegen-art-3-nr-63
-description: "Unternehmen fragt: Ist unser KI-Modell ein General-Purpose-KI-Modell nach der KI-VO und welche Besonderheiten gelten dann? Art. 3 Nr. 63 KI-VO GPAI-Definition. Pruefraster: Training auf grosser Datenmenge selbstueberwachtes oder halbselbstueberwachtes Lernen allgemeine Aufgabenerfuellung grosse Parameteranzahl. Abgrenzung GPAI-Modell Art. 3 Nr. 63 vs. GPAI-System Art. 3 Nr. 66 KI-VO. Output: Einordnungsmatrix GPAI-Modell vs. Spezialsystem. Abgrenzung zu gpai-modelle-art-51-bis-55 (Pflichten bei GPAI-Modell) und liegt-ki-system-vor-art-3-nr-1 (KI-System Grunddefinition)."
+description: "Prueft, ob ein Modell oder Dienst ein General-Purpose-AI-Modell oder GPAI-System nach der KI-VO ist und grenzt GPAI von Hochrisiko-KI ab. Behandelt ChatGPT-aehnliche Systeme, Foundation Models, API-Nutzung, GPAI-System Art. 3 Nr. 66, systemisches Risiko und Zweckbestimmung. Kernpunkt: GPAI/allgemeiner Chatbot ist nicht automatisch Hochrisiko; Hochrisiko entsteht erst bei konkreter Integration oder intendiertem Einsatz fuer Art. 6 Abs. 2/Anhang III-Zwecke. Output: GPAI-Einordnung und Routing zu Art. 50, Art. 51-55 oder Anhang-III-Pruefung."
 ---
 
-# Liegt ein GPAI-Modell vor? — Art. 3 Nr. 63 KI-VO
+# GPAI, allgemeiner Chatbot und Hochrisiko-Abgrenzung
 
 ## Zweck
 
-GPAI-Modelle (General-Purpose-KI-Modelle) unterliegen einem eigenen Pflichtenkatalog nach Art. 51 bis 55 KI-VO, der seit dem 2. August 2025 anwendbar ist. Dieser Skill klärt, wann ein GPAI-Modell vorliegt und wie es vom GPAI-System abzugrenzen ist.
+Dieser Skill klärt, ob ein Modell oder Dienst ein General-Purpose-AI-Modell (GPAI-Modell) oder ein GPAI-System ist und wie dies zur Hochrisiko-Einstufung nach Art. 6 KI-VO steht.
 
-## Legaldefinition — Art. 3 Nr. 63 KI-VO
+Der wichtigste praktische Punkt: Ein allgemeines Sprachmodell oder ein ChatGPT-ähnlicher Chatbot ist nicht automatisch Hochrisiko-KI. Hochrisiko hängt an der konkreten Zweckbestimmung und dem Einsatz als KI-System in einem regulierten Kontext, insbesondere Art. 6 Abs. 2 i.V.m. Anhang III.
 
-Ein GPAI-Modell ist ein KI-Modell, das Folgendes aufweist:
-- Es wird mit großen Datenmengen unter Verwendung von selbstüberwachtem oder unüberwachtem Lernen in großem Maßstab trainiert
-- Es ist so konzipiert, dass es für eine allgemeine Ausgabe ausreichend generalisiert ist
-- Es kann eine Vielzahl unterschiedlicher Aufgaben kompetent ausführen
-- Es kann in eine Vielzahl nachgelagerter Systeme oder Anwendungen integriert werden
+## Begriffe trennen
 
-## Tatbestandsmerkmale — Checkliste
+| Begriff | Prüfgegenstand | Typische Pflichten |
+|---|---|---|
+| GPAI-Modell | trainiertes Basismodell / Foundation Model | Art. 51 bis 55 KI-VO, ggf. systemisches Risiko |
+| GPAI-System | Anwendung auf Basis eines GPAI-Modells, die vielfältige Zwecke erfüllen kann | ggf. Art. 50, Rollen- und Risikoprüfung |
+| Hochrisiko-KI-System | konkrete Anwendung mit Anhang-I- oder Anhang-III-Zweck | Art. 9 bis 15, 26, 27, 43 bis 49 |
+| Allgemeiner Chatbot | Benutzeroberfläche für breite Text-/Multimodalaufgaben | nicht automatisch Hochrisiko; Einsatz prüfen |
 
-### Merkmal 1 — Großskaliges Training auf großen Datenmengen
+## GPAI-Modell nach Art. 3 Nr. 63 KI-VO
 
-**Prüffragen:**
-- Wurde das Modell auf einer sehr großen Datenmenge trainiert (in der Größenordnung von Milliarden von Parametern, Terabytes an Trainingsdaten)?
-- War das Training ressourcenintensiv (erhebliche Rechenleistung, nicht auf einem einzelnen Server in kurzer Zeit)?
+Prüfe:
+- Wurde das Modell mit großen Datenmengen und erheblichem Rechenaufwand trainiert?
+- Nutzt es typischerweise selbstüberwachtes, unüberwachtes oder vergleichbares großskaliges Training?
+- Generalisiert es über eine breite Vielzahl verschiedener Aufgaben?
+- Kann es in viele nachgelagerte Systeme oder Anwendungen integriert werden?
+- Ist es nicht nur ein eng spezialisiertes Modell für eine einzelne Aufgabe?
 
-### Merkmal 2 — Selbstüberwachtes oder unüberwachtes Lernen
+Beispiele:
+- große Sprachmodelle
+- multimodale Foundation Models
+- breite Bild-, Audio-, Video- oder Code-Modelle
+- Modelle, die als API oder Model Weight für viele Anwendungen bereitgestellt werden
 
-**Prüffragen:**
-- Wurde das Modell ohne vollständig manuelle Annotation aller Trainingsdaten trainiert?
-- Wurden Methoden wie Self-Supervised Learning, Pretraining auf Rohdaten (Text, Bilder, Code) oder ähnliche Verfahren eingesetzt?
+Nicht automatisch GPAI:
+- kleines Fachmodell für genau eine Klassifikationsaufgabe
+- klassische Fachsoftware ohne generische Modellfähigkeiten
+- rein regelbasiertes Expertensystem
 
-**Hinweis:** Auch Modelle, die zuerst self-supervised vortrainiert und dann mit überwachtem Lernen feinabgestimmt wurden (Fine-Tuning, RLHF), fallen unter die GPAI-Definition, wenn das Vortraining die wesentliche Grundlage bildet.
+## GPAI-System nach Art. 3 Nr. 66 KI-VO
 
-### Merkmal 3 — Allgemeine Aufgabenerfüllung (Generalisierung)
+Ein GPAI-System ist ein KI-System auf Basis eines GPAI-Modells, das für eine Vielzahl von Zwecken eingesetzt werden kann, auch wenn es direkt mit Nutzern interagiert oder Inhalte erzeugt.
 
-**Prüffragen:**
-- Kann das Modell kompetent eine breite Palette verschiedener Aufgaben erfüllen, ohne für jede Aufgabe separat trainiert worden zu sein?
-- Ist das Modell nicht ausschließlich auf eine sehr spezifische Aufgabe ausgerichtet?
+Prüffragen:
+- Gibt es eine Chat-, Agenten-, API- oder Tool-Oberfläche für Nutzer?
+- Kann das System Texte, Bilder, Code, Empfehlungen oder andere Inhalte für viele Zwecke erzeugen?
+- Ist das System in einen konkreten Fachworkflow eingebettet oder bleibt es allgemeiner Assistent?
 
-**Abgrenzung:** Ein Modell, das ausschließlich auf eine eng definierte Aufgabe (z.B. Bildklassifikation in einer Produktkategorie) spezialisiert wurde und keine Generalisierung über verschiedene Domänen hinweg zeigt, ist in der Regel kein GPAI-Modell.
+## Hochrisiko-Abgrenzung
 
-### Merkmal 4 — Integrierbarkeit in nachgelagerte Systeme
+### Allgemeiner Chatbot
 
-**Prüffragen:**
-- Kann das Modell als Grundlage (Foundation) für verschiedene nachgelagerte Anwendungen verwendet werden?
-- Bieten Sie das Modell über eine API oder als Infrastruktur anderen Entwicklern an?
+Ein allgemeiner Assistent für Entwurf, Zusammenfassung, Übersetzung oder Recherche ist regelmäßig nicht schon wegen seiner abstrakten Einsatzmöglichkeiten Hochrisiko. Prüfe aber:
+- Art. 50 Transparenzpflichten bei Interaktion mit natürlichen Personen oder KI-generierten Inhalten
+- GPAI-Pflichten des Modellanbieters
+- Datenschutz, Berufsrecht, Geheimnisschutz, Urheberrecht
 
-## Typische GPAI-Modell-Kategorien (nicht abschließend)
+### Konkrete Hochrisiko-Integration
 
-- Große Sprachmodelle (Large Language Models) mit breiten Fähigkeiten
-- Multimodale Modelle (Text + Bild, Text + Audio, Text + Code)
-- Foundation-Modelle für Bildgenerierung und -analyse
-- Code-Generierungsmodelle mit breitem Sprachspektrum
+Wird das GPAI-System in einen Anhang-III-Prozess integriert, kann die konkrete Anwendung Hochrisiko sein.
 
-## Abgrenzung: GPAI-Modell versus GPAI-System
+Beispiele:
+- Bewerberranking oder Eignungsbewertung
+- Beschäftigtenüberwachung oder Leistungsbewertung
+- Kreditwürdigkeitsprüfung natürlicher Personen
+- Bewertung von Sozialleistungsansprüchen
+- Notrufpriorisierung
+- justizielle Rechtsanwendung auf konkrete Fälle durch oder für ein Gericht
+- Asyl-/Visa-/Grenzrisikobewertung
 
-**GPAI-Modell (Art. 3 Nr. 63 KI-VO):** Das Modell selbst — die trainierten Gewichte, die Architektur, das Ergebnis des Trainingsprozesses. Anbieter eines GPAI-Modells sind in der Regel Unternehmen, die das Training durchgeführt haben und das Modell anderen zur Nutzung bereitstellen.
+Dann weiter zu `hochrisiko-art-6-abs-2-anhang-iii`.
 
-**GPAI-System (Art. 3 Nr. 66 KI-VO):** Ein KI-System, das auf einem GPAI-Modell basiert und für eine Vielzahl von Zwecken eingesetzt werden kann, einschließlich wenn es direkt mit dem Nutzer interagiert oder einen Inhalt erstellt. Anbieter eines GPAI-Systems sind Unternehmen, die das Modell in einer Anwendung (Chatbot, Zusammenfassungstool, Codierungshilfe) bereitstellen.
+### Mitarbeitende nutzen Chatbot entgegen Zweckbestimmung
 
-**Praktische Konsequenz:** Wer nur ein auf dem GPAI-Modell basierendes GPAI-System betreibt, ohne selbst das Modell entwickelt zu haben, ist Betreiber. Die GPAI-Modell-Pflichten nach Art. 51 bis 55 KI-VO treffen primär den Modellanbieter.
+Wenn Mitarbeitende ein allgemeines Tool zweckwidrig für Hochrisiko-Fragen nutzen:
 
-## Ergebnis und Routing
+- **Isolierter Regelverstoß trotz klarer Richtlinie und Kontrollen:** als Compliance-Vorfall behandeln; nicht automatisch Hochrisiko-Einstufung des gesamten Tools.
+- **Systematische oder geduldete Praxis:** tatsächlicher Betreiberzweck kann Hochrisiko-Einsatz begründen.
+- **Vorhersehbarer Fehlgebrauch ohne Schutzmaßnahmen:** Governance verschärfen; Art. 4 KI-Kompetenz, Richtlinien, Rollenrechte, Logging, technische Sperren, Prompt-Blockaden und Re-Evaluation dokumentieren.
+- **Zweckänderung oder wesentliche Änderung:** `anbieter-werden-art-25` prüfen.
 
-- **GPAI-Modell bestätigt:** → Pflichten nach Art. 51 bis 55 KI-VO → `gpai-modelle-art-51-bis-55`
-- **GPAI-Modell mit systemischem Risiko (über 10e25 FLOP oder Kommissionsbeschluss):** → Zusätzliche Pflichten → `gpai-systemisches-risiko-schwelle-10e25-flop`
-- **Kein GPAI-Modell, aber KI-System:** → Risikoklassen-Triage → `risikoklassen-uebersicht-und-triage`
+## Prüffragen für die Dokumentation
 
----
+1. Handelt es sich um ein Modell, ein System oder eine konkrete Fachanwendung?
+2. Wer ist Modellanbieter, Systemanbieter und Betreiber?
+3. Ist der Zweck breit-allgemein oder fachlich auf einen Anhang-III-Kontext zugeschnitten?
+4. Gibt es Use-Case-Beschränkungen in Terms, Policy, Systemprompt, UI, Rollenrechten oder Schulungen?
+5. Werden Hochrisiko-Einsätze technisch verhindert, nur organisatorisch untersagt oder faktisch geduldet?
+6. Erzeugt das System nur allgemeine Inhalte oder bewertet es natürliche Personen, Rechte, Risiken oder Zugang?
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+## Routing
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+- **GPAI-Modell bestätigt:** `gpai-modelle-art-51-bis-55`; ggf. `gpai-systemisches-risiko-schwelle-10e25-flop`.
+- **Allgemeiner Chatbot/GPAI-System:** `begrenztes-risiko-art-50-transparenzpflichten`, zusätzlich Datenschutz/Geheimnisschutz prüfen.
+- **Einsatz in Anhang-III-Kontext:** `hochrisiko-art-6-abs-2-anhang-iii`, danach `rueckausnahme-art-6-abs-3`.
+- **Zweckwidrige Mitarbeitenden-Nutzung:** `betreiber-deployer-pflichten-art-26`, `anbieter-werden-art-25`, `output-pruefdokument-ki-vo-mit-warnhinweisen`.
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+## Output-Template — GPAI-/Chatbot-Einordnung
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Nr. 63 Rn. 2: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+```text
+GPAI- UND CHATBOT-EINORDNUNG NACH KI-VO
+Datum: [DATUM]
+System / Modell / Dienst: [NAME]
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+1. Technischer Zuschnitt
+[Modell / GPAI-System / allgemeiner Chatbot / Fachanwendung / API-Integration]
 
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+2. GPAI-Modell
+[Ja/Nein/Unklar] — [Begründung]
+
+3. GPAI-System / allgemeiner Assistent
+[Ja/Nein/Unklar] — [Begründung]
+
+4. Zweckbestimmung
+- Anbieter-Zweck: [...]
+- Betreiber-Zweck: [...]
+- Verbotene/ausgeschlossene Nutzungen: [...]
+- Bekannte tatsächliche Nutzung: [...]
+
+5. Hochrisiko-Relevanz
+[Nicht automatisch Hochrisiko / Anhang-III-Prüfung erforderlich / Hochrisiko naheliegend]
+[Begründung mit konkretem Zweck]
+
+6. Off-label-/Mitarbeitenden-Nutzung
+[Risiko, Kontrollen, Governance-Maßnahmen, Re-Evaluation]
+
+7. Folge-Skills
+[gpai-modelle-art-51-bis-55 / begrenztes-risiko-art-50-transparenzpflichten / hochrisiko-art-6-abs-2-anhang-iii / betreiber-deployer-pflichten-art-26]
 ```
-PRUEFERGEBNIS — GPAI VORLIEGEN ART 3 NR 63
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 3 Nr. 63 Rn. 2]
+## Quellen- und Aktualitätshinweis
 
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
+Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1, Nr. 12, Nr. 13, Nr. 63 und Nr. 66, Art. 50 sowie Art. 51 bis 55 KI-VO. Keine Rechtsberatung.

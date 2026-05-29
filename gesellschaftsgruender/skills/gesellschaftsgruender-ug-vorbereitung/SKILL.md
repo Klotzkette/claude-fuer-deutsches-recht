@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-ug-vorbereitung
-description: "UG haftungsbeschraenkt gruenden: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Pruefraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Ruecklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gruendungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gruendung ab 25000 Euro."
+description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro."
 ---
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)
@@ -25,17 +25,11 @@ description: "UG haftungsbeschraenkt gruenden: Musterprotokoll, Mindestkapital 1
 
 ## Aktuelle Rechtsprechung
 
-<!-- AZ II ZR 171/06 entfernt (27.05.2026): Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht, NJW-RR 2008, 843 — nicht Vorbelastungshaftung UG; kein gesicherter Ersatz gefunden. -->
-- BSG, Urt. v. 29.08.2012 - B 12 KR 25/10 R, BSGE 111, 257 — GmbH-GF mit Mehrheitsbeteiligung ist regelmäßig sozialversicherungsfrei; Minderheits-GF ohne maßgeblichen Einfluss ist sozialversicherungspflichtig.
-- BGH, Urt. v. 24.10.2005 - II ZR 129/04, BGHZ 164, 336 — Haftung des Strohmann-GF: wer formell eingetragen ist, haftet nach § 43 GmbHG auch wenn er nur auf Weisung handelt.
-- OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Firmenbildung UG: Firmenzusatz "UG (haftungsbeschränkt)" zwingend; "GmbH" vor Umfirmierung unzulässig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 5a Rn. 1-40 (UG-Sondervorschriften, Thesaurierung, Umfirmierung)
-- Baumbach/Hueck, GmbHG, § 5a Rn. 1-25 (Vor- und Nachteile, Praxishinweise)
-- Lutter/Hommelhoff, GmbHG, § 5a Rn. 1-20 (UG-Besonderheiten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## UG vs. GmbH Vergleichsmatrix
 
 | Merkmal | UG (haftungsbeschränkt) | GmbH |
@@ -119,8 +113,7 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 
 - §§ 5a, 7, 53 GmbHG (UG-Sondervorschriften)
 - § 7a SGB IV (Statusfeststellungsverfahren)
-<!-- AZ II ZR 171/06 entfernt (27.05.2026): Falsche Fundstelle und falsches Thema — kein Ersatz. -->
-- BSG B 12 KR 25/10 R, BSGE 111, 257 (SV-Status GF)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 5a Rn. 1-40
 
 ## Übergabe an andere Skills
@@ -135,6 +128,6 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 ---
 ## Audit-Hinweis (27.05.2026)
 
-Geprüfte AZ: BGH II ZR 171/06.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC — das Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht (NJW-RR 2008, 843), nicht Vorbelastungshaftung UG.
 Maßnahme: Beide Nennungen des AZ (Rechtsprechungsabschnitt und Quellenabschnitt) entfernt. Kein verifizierter Ersatz für Vorbelastungshaftung UG auf dejure.org gefunden; kein Ersatz eingefügt.

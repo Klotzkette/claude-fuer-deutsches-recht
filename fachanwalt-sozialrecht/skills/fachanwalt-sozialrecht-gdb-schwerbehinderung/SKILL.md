@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-gdb-schwerbehinderung
-description: "Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten. § 152 SGB IX Feststellungsverfahren Versorgungsmedizin-Verordnung. Pruefraster: GdB-Feststellung nach Versorgungsmedizinischer Grundsaetze Merkzeichen G aG H B Bl Gl RF Schwerbehindertenausweis ab GdB 50. Steuerliche und arbeitsrechtliche Vorteile. Output: Antragschreiben oder Widerspruchsbaustein GdB/Schwerbehinderung. Abgrenzung zu eingliederungshilfe-schule (Kinder) und fachanwalt-sozialrecht-erwerbsminderungsrente."
+description: "Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten. § 152 SGB IX Feststellungsverfahren Versorgungsmedizin-Verordnung. Prüfraster: GdB-Feststellung nach Versorgungsmedizinischer Grundsaetze Merkzeichen G aG H B Bl Gl RF Schwerbehindertenausweis ab GdB 50. Steuerliche und arbeitsrechtliche Vorteile. Output: Antragschreiben oder Widerspruchsbaustein GdB/Schwerbehinderung. Abgrenzung zu eingliederungshilfe-schule (Kinder) und fachanwalt-sozialrecht-erwerbsminderungsrente."
 ---
 
 # GdB-Feststellung
@@ -107,10 +107,7 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 
 ## 8) BSG-Linien und aktuelle Rechtsprechung
 
-- BSG, Urt. v. 16.03.2016 - B 9 SB 6/15 R, SozR 4-3250 § 69 Nr. 21 Rn. 14 — Gesamt-GdB-Berechnung: Einzel-GdB-Werte werden nicht addiert; massgeblich ist das Gesamtbild aller Funktionsbeeinträchtigungen; Wechselwirkungen können den Gesamt-GdB erhöhen oder verringern.
-- BSG, Urt. v. 17.04.2013 - B 9 SB 3/12 R, SozR 4-3250 § 69 Nr. 17 Rn. 18 — Merkzeichen aG (aussergewoehnliche Gehbehinderung): strenge Anforderungen; gleichzusetzen mit Querschnittslahmung oder doppelter Oberschenkelamputation; bloss erhebliche Behinderung reicht nicht.
-- BSG, Urt. v. 30.09.2009 - B 9 SB 4/08 R, SozR 4-3250 § 69 Nr. 10 Rn. 16 — Bewertungsmassstab nach Versorgungsmedizinischer Grundsätze (VMG): Gerichte sind an VMG als normkonkretisierende Verwaltungsvorschrift gebunden; Abweichung nur bei sachlichem Grund und GdB-Ermessen des ärztlichen Sachverständigen.
-- BSG, Urt. v. 14.06.2018 - B 9 SB 2/16 R, SozR 4-3250 § 69 Nr. 24 Rn. 12 — Beratungspflicht des Versorgungsamts (§ 14 SGB I): Behörde muss auf mögliche Merkzeichen hinweisen wenn GdB-Feststellung Anhaltspunkte gibt; unterlassene Beratung begründet Herstellungsanspruch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Widerspruchsbausteine
 
@@ -163,11 +160,9 @@ des angegriffenen Bescheids.
 4. Datum des Erstbescheids: läuft die Ein-Monats-Frist (§ 84 SGG) noch?
 5. Hat der Mandant steuerliche Auswirkungen (§ 33b EStG Pauschbetrag) und Schwerbehindertenrechtsstatus bereits genutzt?
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kasseler Kommentar Sozialversicherungsrecht, Wehrhahn § 152 SGB IX Rn. 1 ff. (GdB-Feststellung, VersMedV)
-- Hauck/Noftz SGB IX, § 152 Rn. 1 ff. (Schwerbehindertenrecht, Merkzeichen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei AU-Bezug

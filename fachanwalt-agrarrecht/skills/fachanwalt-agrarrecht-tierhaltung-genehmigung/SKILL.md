@@ -51,10 +51,7 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
-| BVerwG | 4 C 20/93 | Standortgebundenheit § 35 BauGB: Massentierhaltung ohne Futterbasis = nicht privilegiert |
-| BVerwG | 4 C 12/01 | Futterbasis-Grenze: >50 % des Futterbedarfs muss aus eigenen Flächen stammen |
-| BVerwG | 7 C 14/17 | UVP-Vorprüfung: kumulative Wirkung ist stets mitzubewerten; keine formale Splittung |
-| OVG Münster | 8 A 1696/16 | Nachbar-Drittklage: Geruchsimmission als rügebares Drittrecht; GIRL-Werte bindend |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Schwellenwerte BImSchG vs. Baugenehmigung
 
@@ -76,12 +73,11 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
 | 1 | Schwellenwert: BImSchG oder LBO? | 4. BImSchV Anhang 1 | Falsches Verfahren = Versagung |
 | 2 | UVP-Pflicht oder Vorprüfung? | § 5 UVPG, Anlage 1 | Verfahrensfehler; Bescheid anfechtbar |
-| 3 | § 35 BauGB-Privilegierung: Futterbasis? | § 201 BauGB, BVerwG 4 C 12/01 | Ablehnung im Außenbereich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Geruchs-Gutachten nach GIRL | TA Luft 2021 Nr. 5.4.7 | Nachbar-Klage; Auflagen |
 | 5 | Bioaerosol-Gutachten | TA Luft 2021 Nr. 5.4.7.1 | Auflagen oder Versagung |
 | 6 | FFH-Verträglichkeit im Umkreis | § 34 BNatSchG | Versagung bei Erheblichkeit |
@@ -178,7 +174,7 @@ Begründung:
 1. BauGB-Privilegierung
    Die Futtergrundlage des Betriebs beläuft sich auf
    [ha], was [%] des Jahresbedarfs deckt. Damit ist
-   die Voraussetzung des BVerwG 4 C 12/01 erfüllt.
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Der Bescheid verkennt die Berechnung.
 
 2. UVP-Vorprüfung
@@ -204,11 +200,10 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast und Darlegungslast
 
 - **Antragsteller** muss alle Voraussetzungen durch Gutachten belegen; Behörde entscheidet auf Basis der vorgelegten Unterlagen.
-- **Dritter/Nachbar** muss bei Anfechtungsklage Verletzung in eigenen Rechten konkret darlegen (OVG Münster 8 A 1696/16).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei UVP-Fehler: Verfahrensfehler ist selbstständiger Aufhebungsgrund nach § 4 UmwRG ohne Kausalitätsnachweis.
 
 ## Fristen
@@ -262,16 +257,14 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 - TierSchG § 2
 - TierSchNutztV
 - § 34 BNatSchG (FFH-Verträglichkeit)
-- BVerwG 4 C 20/93; BVerwG 4 C 12/01; BVerwG 7 C 14/17
-- OVG Münster 8 A 1696/16
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Jarass BImSchG-Kommentar; Koch/Pache Immissionsschutzrecht
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-BVerwG, Urt. v. 25.11.2021 — **4 C 3.20**, BVerwGE 174, 56 Rn. 22: Immissionsschutzrechtliche Genehmigung einer Tierhaltungsanlage nach § 4 BImSchG muss Geruchsimmissions-Richtlinie (GIRL) anwenden; Abweichungen von der GIRL erfordern besondere Begründung; bei Überschreitung der Immissionswerte ist eine Verträglichkeitsprüfung nach § 34 BNatSchG erforderlich, wenn Schutzgebiete in der Nähe liegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OVG Nordrhein-Westfalen, Urt. v. 10.06.2021 — **8 A 1577/18**, NVwZ-RR 2021, 898 Rn. 18: Neuere Rechtsprechung zu Abstandsregelungen bei Tierhaltungsanlagen: der 500-m-Mindestabstand zu Wohngebieten ist eine Orientierungsgröße, kein starrer Grenzwert; maßgeblich ist die konkrete Immissionsbelastung nach TA Luft und GIRL.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- OVG Magdeburg 2 M 14/23 (NOT_FOUND): Aktenzeichen auf dejure.org nicht nachweisbar; kein OVG Sachsen-Anhalt-Beschluss zu FFH-Verträglichkeit 3 km-Radius Ammoniak-Emissionen Geflügelbetrieb unter diesem AZ gefunden. Tabellenzeile und Quellen-Eintrag entfernt. -->

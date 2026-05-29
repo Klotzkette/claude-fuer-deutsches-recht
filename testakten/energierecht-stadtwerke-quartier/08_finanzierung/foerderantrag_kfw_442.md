@@ -9,7 +9,7 @@
 
 ## FÖRDERANTRAG
 
-### KfW-Programm 442 „Klimafreundlicher Neubau – Kommunen" (KfN-K)
+### KfW-Programm 442 "Klimafreundlicher Neubau – Kommunen" (KfN-K)
 
 **Antragsteller:**  
 Stadtwerke Klotzkette AG  
@@ -41,7 +41,7 @@ Die PV-Anlage und der Batteriespeicher werden gesondert über KfW-Programm 270 b
 
 ### 1.2 Fördergegenstand und KfW-Programm 442
 
-Das KfW-Programm 442 „Klimafreundlicher Neubau – Kommunen" fördert die Errichtung neuer Wohn- und Nichtwohngebäude sowie die zugehörige Quartiers­infrastruktur durch kommunale Unternehmen oder Kommunen. Die SWKK ist als kommunales Energieversorgungsunternehmen (Mehrheitsgesellschafter: Stadt Lüdinghausen, 75,1 %) antragsberechtigt.
+Das KfW-Programm 442 "Klimafreundlicher Neubau – Kommunen" fördert die Errichtung neuer Wohn- und Nichtwohngebäude sowie die zugehörige Quartiers­infrastruktur durch kommunale Unternehmen oder Kommunen. Die SWKK ist als kommunales Energieversorgungsunternehmen (Mehrheitsgesellschafter: Stadt Lüdinghausen, 75,1 %) antragsberechtigt.
 
 Voraussetzungen erfüllt:
 - Neubau (kein Umbau bestehender Gebäude)

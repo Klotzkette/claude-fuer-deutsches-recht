@@ -27,7 +27,7 @@
 
 Der Entwurf führt ein **Pflichtpostfachgesetz** ein, das
 
-a) im Handelsregister eingetragene Gesellschaften und ihre inländischen Zweigniederlassungen verpflichtet, ein elektronisches Postfach mit Identifizierungs-Niveau „hoch" gemäß eIDAS-Verordnung vorzuhalten,
+a) im Handelsregister eingetragene Gesellschaften und ihre inländischen Zweigniederlassungen verpflichtet, ein elektronisches Postfach mit Identifizierungs-Niveau "hoch" gemäß eIDAS-Verordnung vorzuhalten,
 
 b) Anbieter sehr großer Online-Plattformen und sehr großer Online-Suchmaschinen im Sinne des Artikels 33 der Verordnung (EU) 2022/2065 (Digital Services Act) ebenfalls zur Vorhaltung eines solchen Postfachs verpflichtet,
 
@@ -43,7 +43,7 @@ f) Folgeänderungen in HGB, ZPO, FamFG, VwZG, AO und weiteren Gesetzen vornimmt.
 
 Der Entwurf enthält folgende **technische Vorschriften** im Sinne von Artikel 1 Nummer 1 Buchstabe f der Richtlinie (EU) 2015/1535:
 
-- **§ 2 Nr. 1 PflPostG**: Definition Pflichtpostfach mit Bezug auf eIDAS-Identifizierungsniveau „hoch"
+- **§ 2 Nr. 1 PflPostG**: Definition Pflichtpostfach mit Bezug auf eIDAS-Identifizierungsniveau "hoch"
 - **§ 4 PflPostG**: Interoperabilitäts-Anforderungen
 - **§ 5 PflPostG**: Verordnungsermächtigung mit technischen Mindestanforderungen
 - **§ 8 PflPostG**: Übergangs-Regelungen mit gestaffelten Fristen
@@ -65,7 +65,7 @@ Der Entwurf
 
 a) **vollzieht** die Verordnung (EU) 2022/2065 (Digital Services Act) hinsichtlich der erhöhten Erreichbarkeit von Anbietern sehr großer Online-Plattformen für Mitgliedstaaten-Behörden,
 
-b) **verbindet** die nationale Rechtskommunikation mit den Anforderungen der Verordnung (EU) Nr. 910/2014 (eIDAS), insbesondere mit dem Vertrauensniveau „hoch",
+b) **verbindet** die nationale Rechtskommunikation mit den Anforderungen der Verordnung (EU) Nr. 910/2014 (eIDAS), insbesondere mit dem Vertrauensniveau "hoch",
 
 c) **berücksichtigt** die Verordnung (EU) 2024/1183 (eIDAS 2.0) und die Verordnung (EU) 2019/882 (European Accessibility Act),
 
@@ -116,7 +116,7 @@ Die elektronischen Postfächer und die zugehörigen Authentifizierungs-Verfahren
 
 - die Bereitstellung von Dienstleistungen der Informationsgesellschaft regulieren,
 - den Kreis der Adressaten erweitern,
-- spezifische technische Anforderungen statuieren (eIDAS-Niveau „hoch", NIS-2-Sicherheit, Barrierefreiheit).
+- spezifische technische Anforderungen statuieren (eIDAS-Niveau "hoch", NIS-2-Sicherheit, Barrierefreiheit).
 
 ---
 

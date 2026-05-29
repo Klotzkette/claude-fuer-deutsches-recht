@@ -53,7 +53,7 @@ Energieerzeugnisse, die in Kraft-Wärme-Kopplungs-Anlagen oder zur Stromerzeugun
 
 ### 3.2 Entlastung nach § 54 EnergieStG (Herstellerprivileg – Prozesstechnologie)
 
-Energieerzeugnisse, die in Prozessen der Metallerzeugung und -bearbeitung (§ 51 EnergieStG Nr. 1) eingesetzt werden, sind von der Energiesteuer entlastet. Das Flüssiggas (LPG) für Hochtemperaturprüfstände könnte als Prozessenergie für „maschinelle Wärmebehandlung von Metallen" unter § 51 Abs. 1 Nr. 1 lit. d EnergieStG fallen, wenn der Prüfstand der Qualitätskontrolle metallischer Bauteile dient.
+Energieerzeugnisse, die in Prozessen der Metallerzeugung und -bearbeitung (§ 51 EnergieStG Nr. 1) eingesetzt werden, sind von der Energiesteuer entlastet. Das Flüssiggas (LPG) für Hochtemperaturprüfstände könnte als Prozessenergie für "maschinelle Wärmebehandlung von Metallen" unter § 51 Abs. 1 Nr. 1 lit. d EnergieStG fallen, wenn der Prüfstand der Qualitätskontrolle metallischer Bauteile dient.
 
 **Erforderliche Nachweise für Entlastungsantrag:**
 - Beschreibung des Verwendungsverfahrens (technische Dokumentation)

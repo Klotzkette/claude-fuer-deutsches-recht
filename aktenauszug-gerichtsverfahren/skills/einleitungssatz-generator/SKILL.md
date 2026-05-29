@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-generator
-description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Pruefraster Praegnanz Vollstaendigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Ueberblick) und verfahrensidentifikation (Stammdaten)."
+description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz Vollständigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Überblick) und verfahrensidentifikation (Stammdaten)."
 ---
 
 # Einleitungssatz-Generator
@@ -26,17 +26,11 @@ Der Einleitungssatz gibt dem Leser in einem bis zwei Sätzen den Kern des Rechts
 
 ## Rechtsprechung zum Streitgegenstand und Klagebegehren
 
-- BGH, Urt. v. 19.12.2019 - III ZR 233/18, NJW 2020, 537 — Zum zweigliedrigen Streitgegenstandsbegriff: Streitgegenstand wird durch Antrag und Lebenssachverhalt bestimmt; beide Elemente müssen im Einleitungssatz erkennbar sein.
-- BGH, Urt. v. 13.09.2018 - I ZR 26/17, NJW 2019, 210 — Klageziel muss aus dem Klagebegehr eindeutig bestimmbar sein; vage Formulierungen fuhren zur Unzulässigkeit nach § 253 Abs. 2 Nr. 2 ZPO.
-- BAG, Urt. v. 21.09.2017 - 2 AZR 57/17, NZA 2018, 131 — Feststellungsantrag nach § 4 KSchG muss die konkrete Kündigung bezeichnen (Datum und Art der Kündigung).
-- BVerwG, Urt. v. 14.04.2015 - 1 C 11.14, NVwZ 2015, 1141 — Anfechtungsklage nach § 42 VwGO erfordert genaue Bezeichnung des angefochtenen Verwaltungsakts.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 253 Rn. 1 ff. (Klagebegehren und Antrag)
-- Thomas/Putzo ZPO, § 264 Rn. 1 ff. (Klageaenderung)
-- MüKo ZPO/Becker-Eberhard, § 308 Rn. 1 ff. (Bindung an Antrag)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Struktur des Einleitungssatzes
 
 **Muster:**
@@ -80,9 +74,9 @@ Ergänzend kann ein zweiter Satz den prozessualen Stand knapp abbilden:
 ## Regeln
 
 - Maximal zwei Sätze
-- Keine Wertung (nicht: „zu Unrecht"; „unbegründet")
+- Keine Wertung (nicht: "zu Unrecht"; "unbegründet")
 - Keine Erfolgsprognose
-- Parteinamen vollständig benennen (kein „Kl." oder „Bekl." im Einleitungssatz)
+- Parteinamen vollständig benennen (kein "Kl." oder "Bekl." im Einleitungssatz)
 - Normen mit vollständiger Bezeichnung (nicht nur Paragraphennummer)
 
 ## Qualitätscheck

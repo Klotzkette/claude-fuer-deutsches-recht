@@ -1,6 +1,6 @@
 ---
 name: case-management
-description: "Fallmanagement fuer Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Ueberblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Pruefraster: Fristenliste, offene Antraege, Dokumentenstruktur. Output: Case-Management-Uebersicht Immobilienrecht. Abgrenzung: nicht Einzelvertragspruefung."
+description: "Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Überblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Prüfraster: Fristenliste, offene Anträge, Dokumentenstruktur. Output: Case-Management-Übersicht Immobilienrecht. Abgrenzung: nicht Einzelvertragsprüfung."
 ---
 
 # Case Management Immobilienrecht
@@ -108,9 +108,9 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 
 ## Aktuelle Rechtsprechung — Leitsaetze fuer Case-Management
 
-- BGH, Urt. v. 12.10.2022 — VIII ZR 221/21, NJW 2023, 150 Rn. 18: Fristen im Mietrecht sind starre Ausschlussfristen; Versaeumung der Einwendungsfrist gegen Betriebskostenabrechnung (§ 556 Abs. 3 Satz 5 BGB — 12 Monate nach Zugang) fuehrt zum Anspruchsverlust.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 45 WEG: Anfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb zweier Monate ab Beschlussfassung begruendet werden; beide Fristen sind materiell-rechtliche Ausschlussfristen.
-- BGH, Urt. v. 22.03.2024 — V ZR 81/22, NJW 2024, 1876: Gemeindliches Vorkaufsrecht bei Kaufvertraegen muss innerhalb von zwei Monaten nach Mitteilung ausgeubt werden; Fristen-Tracking im Case-Management ist kritisch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Relevante Fristen im Immobilienrecht
 
@@ -122,8 +122,6 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 | Mietkaution-Abrechnung | § 551 Abs. 3 BGB | Ca. 6 Monate nach Auszug |
 | Verjaehrung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
 
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BGH VIII ZR 66/19 (WRONG_TOPIC) entfernt: Entscheidung betrifft Abgrenzung Wohnraum- vs. Gewerberaummiete
-  (NJW-RR 2021, 329), nicht WEG-Beschlussanfechtungsfristen. Ersetzt durch direkten Normverweis § 45 WEG.
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

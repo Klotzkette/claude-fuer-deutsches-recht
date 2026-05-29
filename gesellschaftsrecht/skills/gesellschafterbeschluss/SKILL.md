@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss
-description: "Erstellung, Pruefung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfaehigkeit, Formfragen, Protokollfuehrung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung."
+description: "Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung."
 ---
 
 # Gesellschafterbeschluss – GmbH und AG
@@ -22,17 +22,12 @@ Vor der Bearbeitung folgende Fragen klären:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.10.2014 – II ZR 84/13, BGHZ 203, 77 Rn. 18 — Stimmrecht kann durch Treuepflicht gebunden sein; Gesellschafter, der treuwidrig abstimmt, ist schadensersatzpflichtig; der Beschluss selbst ist aber nur anfechtbar, nicht automatisch nichtig.
-- BGH, Urt. v. 12.10.1992 – II ZR 286/91, BGHZ 119, 305 Rn. 12 — Grundsätze zur analogen Anwendung der §§ 241, 243, 246 AktG auf GmbH-Beschlüsse; Beschlüsse gegen zwingende GmbHG-Vorschriften sind entsprechend § 241 AktG nichtig; behebbare Mängel sind analog § 243 AktG anfechtbar (1-Monat-Frist).
-- BGH, Urt. v. 09.11.1987 – II ZR 100/87, BGHZ 102, 172 — Einberufungsmangel bei GmbH-GV; Erscheinen aller Gesellschafter heilt den Mangel nur, wenn kein Widerspruch erhoben wird; bei Fernbleiben eines Gesellschafters keine Heilung.
-<!-- AZ OLG Muenchen 7 U 2843/19 entfernt (27.05.2026): AZ auf dejure.org nicht auffindbar (NOT_FOUND); NZG 2021, 418 nicht verifizierbar. -->
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hüffer/Koch, AktG, 17. Aufl. 2025, § 243 Rn. 8 — Anfechtungsklage setzt Verletzung des Gesetzes oder der Satzung voraus; bei geringfügiger Ladungsfristverletzung nur Anfechtbarkeit bei Kausalität für das Abstimmungsergebnis (Relevanztheorie).
-- Bayer/Lieder, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 47 Rn. 15 — Stimmrechtsausschluss nach § 47 Abs. 4 GmbHG ist abschließend; analoge Erweiterung nur unter strengen Voraussetzungen; im Zweifel Treuepflicht als Korrektiv.
-- Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 45 Rn. 5 — Beschlussmängelrecht der GmbH im Spannungsfeld zwischen analoger Anwendung des AktG und GmbH-spezifischen Besonderheiten.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Gesellschafterbeschluss
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -43,7 +38,7 @@ Vor der Bearbeitung folgende Fragen klären:
 | 4 | Stimmrechtsausschluss | § 47 Abs. 4 GmbHG: Entlastung, Befreiung von Verbindlichkeit, Rechtsverfolgung; § 136 AktG analog | Stimmen stimmbefangener Gesellschafter nicht zählen |
 | 5 | Mehrheit berechnen | Einfache Mehrheit (§ 47 Abs. 1 GmbHG; § 133 Abs. 1 AktG); qualifizierte 3/4-Mehrheit bei Satzungsänderung (§ 53 Abs. 2 GmbHG; § 179 Abs. 2 AktG) | Mehrheit erreicht? |
 | 6 | Protokollierung | GmbH: Protokoll mit Abstimmungsergebnis; Satzungsänderung notariell beurkunden (§ 53 Abs. 2); AG: § 130 AktG notarielle Beurkundung | Formfehler → § 241 Nr. 2 AktG Nichtigkeit |
-| 7 | Anfechtbarkeit | Kausalität des Mangels für Beschlussergebnis (Relevanztheorie Hüffer/Koch § 243 Rn. 8)? | Anfechtbar aber nicht nichtig |
+| 7 | Anfechtbarkeit | Kausalität des Mangels für Beschlussergebnis (Relevanztheorie Quellenprüfung § 243 Rn. 8)? | Anfechtbar aber nicht nichtig |
 | 8 | Nichtigkeit | § 241 AktG analog: fehlende Form, Sittenwidrigkeit, zwingende Gesetzesvorschriften verletzt | Nichtig von Anfang an; jedermann kann einwenden |
 | 9 | Anfechtungsklage | Frist: 1 Monat ab Beschlussfassung analog § 246 Abs. 1 AktG; Klage gegen Gesellschaft; LG am Sitz | Fristnotiz anlegen! |
 | 10 | Heilung | § 242 AktG (Einberufungsmängel nach 3 Jahren); nicht bei § 241 Nr. 3 und 5 AktG | Heilung möglich → Abwarten sinnvoll? |
@@ -127,11 +122,10 @@ Empfehlung:
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Hüffer/Koch, AktG, 17. Aufl. 2025, § 243 Rn. 8 ff. (Anfechtungsklage, Relevanztheorie).
-- Bayer/Lieder, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 47 Rn. 15 (Stimmrechtsausschluss).
-- BGH, Urt. v. 21.10.2014 – II ZR 84/13, BGHZ 203, 77 Rn. 18 (Treuepflicht und Stimmrecht).
-- BGH, Urt. v. 12.10.1992 – II ZR 286/91, BGHZ 119, 305 Rn. 12 (Analoge Anwendung §§ 241, 246 AktG auf GmbH).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Uebergabe an andere Skills
 
@@ -142,6 +136,6 @@ Kommentarliteratur:
 ---
 ## Audit-Hinweis (27.05.2026)
 
-Geprüfte AZ: OLG München 7 U 2843/19.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: NOT_FOUND — dejure.org findet zum Datum 10.02.2021 kein Urteil unter diesem Aktenzeichen; NZG 2021, 418 nicht verifizierbar.
 Maßnahme: Zitat entfernt. Kein Ersatz eingefügt; die gesetzliche Regelung (§ 48 Abs. 2 GmbHG sowie seit 2022 § 48 Abs. 1 S. 2 GmbHG) ist im Skill durch Normtexte abgedeckt.

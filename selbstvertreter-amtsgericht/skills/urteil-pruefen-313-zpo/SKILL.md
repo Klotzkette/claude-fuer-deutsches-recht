@@ -1,6 +1,6 @@
 ---
 name: urteil-pruefen-313-zpo
-description: "Pruefung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgruende auf Vollstaendigkeit Korrektheit pruefen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Anspruechen. Vorbereitung Berufung."
+description: "Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung."
 ---
 
 # Das schriftliche Urteil pruefen
@@ -108,13 +108,13 @@ Am Ende des Urteils:
 - Welche Frist?
 - An welches Gericht?
 
-Wenn fehlerhaft: Eine fehlende oder unrichtige Rechtsmittelbelehrung im Zivilprozess fuehrt nicht automatisch zu einer Jahresfrist wie im oeffentlichen Recht (§ 58 II VwGO). Im Zivilprozess kann die Rechtsmittelfrist trotz fehlerhafter Belehrung laufen — Sie sind dann auf **Wiedereinsetzung in den vorigen Stand** nach § 233 ZPO angewiesen, sofern Sie die Frist unverschuldet versaeumt haben (Antragsfrist 2 Wochen ab Wegfall des Hindernisses, Jahresfrist § 234 III ZPO). Skill `wiedereinsetzung-frist-233-zpo`.
+Wenn fehlerhaft: Die "verlaengerte Rechtsmittel-Frist" greift — bis zu 1 Jahr (§ 58 II VwGO analog, im Zivilprozess § 233 ZPO Wiedereinsetzungs-Gruendung).
 
 ### Schritt 7 — Entscheidung: Berufung?
 
 Pruefen Sie:
 
-- **Beschwer ueber 1.000 EUR**? (§ 511 II Nr. 1 ZPO, Stand 2026) — sonst keine Berufung ohne Zulassung. Massgeblich ist die Beschwer (Differenz zwischen Ihrem Antrag und Urteil), nicht der Streitwert. Achtung Altverfahren: Nach § 47 EGZPO gilt fuer Entscheidungen bis 31.12.2025 die alte Wertgrenze 600 EUR.
+- Beschwer über 1.000 EUR? (§ 511 Abs. 2 Nr. 1 ZPO, Stand 2026) — sonst Berufung nur bei Zulassung; Übergangsfälle mit alter 600-EUR-Grenze gesondert prüfen.
 - Berufung zugelassen? (§ 511 II Nr. 2 ZPO).
 - Fehler im Verfahren oder in der Sache?
 
@@ -139,13 +139,12 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 - **Berufung 1 Monat**.
 - **Tatbestand-Fehler** kann fatal sein, weil Berufungsgericht meist Tatsachen aus dem Tatbestand uebernimmt.
 - **Rechtsmittelbelehrung lesen**.
-- **Beschwer-Grenze 1.000 EUR** (Stand 2026; Altverfahren ggf. 600 EUR nach § 47 EGZPO).
 
 ## Typische Fehler
 
 - "Tenor stimmt, alles andere egal." → Tatbestand pruefen.
 - "Berichtigung beantragen bei kleinen Fehlern." → Substanzfehler beantragen.
-- "Berufung kann immer eingelegt werden." → Beschwer-Grenze 1.000 EUR (Stand 2026; Altverfahren bis 31.12.2025: 600 EUR nach § 47 EGZPO) beachten.
+- "Berufung kann immer eingelegt werden." → Streitwertgrenze beachten.
 
 ## Querverweise
 

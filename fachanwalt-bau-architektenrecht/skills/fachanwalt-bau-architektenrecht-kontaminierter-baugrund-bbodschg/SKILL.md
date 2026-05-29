@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg
-description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Pruefraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung."
+description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung."
 ---
 
 # Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht
@@ -43,12 +43,7 @@ description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenvert
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BVerwG | 7 C 4/00 | 31.05.2007 | Verhältnismäßigkeitsgrundsatz bei Eigentümer-Heranziehung nach § 4 Abs. 3 BBodSchG; Eigentümer nicht unbegrenzt belastbar |
-| BVerfG | 1 BvR 242/91 | 16.02.2000 | Eigentümer-Heranziehung BBodSchG verfassungsgemäß; kein Verstoß gegen Art. 14 GG wenn verhältnismäßig |
-| BGH | VII ZR 205/07 | 20.08.2009 | Baugrundrisiko: Mehrkosten wegen abweichender Bodenbeschaffenheit können nicht allgemein auf Baugrundrisiko-Erwägung gestützt werden; bei AG-Anordnung in tatsächlich vorgefundenen Verhältnissen zu gründen liegt Änderung des Bauentwurfs vor; BGHZ 182, 158; BauR 2009, 1724 |
-| BGH | VII ZR 89/08 | 25.06.2009 | Aufklärungspflicht Bauherr über bekannte Bodenmängel vor Vertragsschluss; Verletzung führt zu c.i.c.-Schadensersatz |
-| OLG Düsseldorf | I-21 U 12/18 | 23.07.2019 | Mehrkosten bei Bodenkontamination: konkrete Kalkulation notwendig; pauschale Angabe reicht nicht |
-| OLG München | 27 U 3903/15 | 22.09.2016 | PFAS-Kontamination: Bauherr haftet auf Mehrkosten wenn Gutachten grobe Mängel hätte zeigen müssen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Konstellationen und Rechtsfolgen
 
@@ -103,7 +98,7 @@ Pflichten des Bauunternehmers:
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Bejahung |
 |---------|-----------|------|--------------------------|
 | 1 | VOB/B wirksam einbezogen? | § 305 BGB | VOB/B-Regelungen anwendbar |
-| 2 | Baugrund-Beschaffenheitsrisiko in Sphäre Bauherr? | BGH VII ZR 235/04 | Mehrkostenanspruch Unternehmer |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 | Bodengutachten vor Vertragsschluss vorhanden? | § 633 BGB | Inhalt und Mängel bestimmen Risikozuweisung |
 | 4 | Kenntnis Bauherr von Kontamination vor Vertragsschluss? | § 311 Abs. 2 BGB | c.i.c.-Schadensersatz |
 | 5 | Behinderungsanzeige § 6 Abs. 1 VOB/B erfolgt? | § 6 Abs. 1 VOB/B | Anspruchserhalt; bei Unterlassen Anspruchsverlust |
@@ -271,12 +266,12 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 
 | Gegenargument Bauherr/Behörde | Reaktion |
 |-------------------------------|---------|
-| „Unternehmer hat Baugrundrisiko übernommen" | BGH VII ZR 205/07 (BGHZ 182, 158): Mehrkosten wegen abweichender Bodenbeschaffenheit können nicht allgemein auf Baugrundrisiko-Erwägung gestützt werden; Anspruch setzt Bautenwurf-Änderung durch AG voraus (§ 2 Nr. 5 VOB/B) |
-| „Behinderungsanzeige zu spät" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht (§ 6 Abs. 1 Satz 2 VOB/B); zudem Anzeige binnen 48 h beweisbar |
-| „Mehrkosten überhöht" | Detaillierte Kalkulation nach VOB/B § 2 Abs. 5; § 287 ZPO-Schätzung durch Gericht zulässig wenn Grundlage vorhanden |
-| „Eigentümer nicht sanierungspflichtig wegen Verhältnismäßigkeit" | BVerwG 7 C 4/00: Eigentümer sanierungspflichtig bis zur Grenze der Unverhältnismäßigkeit (Bodenwert vs. Sanierungskosten); Ausnahme nur bei grobem Missverhältnis |
-| „Unternehmer ist Verursacher" | Trennung: vorbestehende Altlast vs. durch Unternehmer neu verursachte Kontamination; Sachverständigenbeweis |
-| „c.i.c. ausgeschlossen wegen AGB-Haftungsausschluss" | § 309 Nr. 7 BGB — grob fahrlässige Pflichtverletzung nicht ausschließbar |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Behinderungsanzeige zu spät" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht (§ 6 Abs. 1 Satz 2 VOB/B); zudem Anzeige binnen 48 h beweisbar |
+| "Mehrkosten überhöht" | Detaillierte Kalkulation nach VOB/B § 2 Abs. 5; § 287 ZPO-Schätzung durch Gericht zulässig wenn Grundlage vorhanden |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Unternehmer ist Verursacher" | Trennung: vorbestehende Altlast vs. durch Unternehmer neu verursachte Kontamination; Sachverständigenbeweis |
+| "c.i.c. ausgeschlossen wegen AGB-Haftungsausschluss" | § 309 Nr. 7 BGB — grob fahrlässige Pflichtverletzung nicht ausschließbar |
 
 ## Streitwert und Kosten
 
@@ -331,8 +326,7 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 - VOB/B §§ 2, 6
 - NachwV (Nachweisverordnung Gefahrenabfall)
 - KrWG §§ 3, 28
-- BVerwG 7 C 4/00 (31.05.2007)
-- BGH VII ZR 205/07 (20.08.2009), BGHZ 182, 158; VII ZR 89/08 (25.06.2009)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
 - Stand: 05/2026; PFAS-Regulierung im Wandel (TFA, GenX), bei Neuregelung EU-Trinkwasserrichtlinie aktualisieren

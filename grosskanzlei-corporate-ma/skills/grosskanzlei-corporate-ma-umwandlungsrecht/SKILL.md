@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-umwandlungsrecht
-description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschaeftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Pruefraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Glaeubigerschutz steuerliche Rueckwirkung M&A-Zeitplan. Output Umwandlungs-Workflow mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
+description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-Workflow mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
 ---
 
 # Umwandlungsrecht
@@ -31,17 +31,11 @@ Bearbeitet Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.01.2022 - II ZR 27/21, NJW 2022, 1234 — Ausgliederung nach § 123 Abs. 3 UmwG: Glaeubiger des uebertragenden Rechtsträgers koennen nach Eintragung der Ausgliederung keine Haftung des aufnehmenden Rechtsträgers mehr geltend machen, wenn Sicherheitsleistung nach § 22 UmwG erbracht wurde
-- BGH, Urt. v. 09.01.2018 - II ZR 293/16, NZG 2018, 303 — Verschmelzungsbericht nach § 8 UmwG: der Bericht muss alle fuer die Pruefung des Umtauschverhaeltnisses wesentlichen Umstaende ausfuehrlich darstellen; Schweigen ueber wesentliche Punkte macht den Beschluss anfechtbar
-- BGH, Urt. v. 08.10.2013 - II ZR 310/12, NZG 2014, 104 — Formwechsel AG/GmbH: Abfindungsangebot nach § 207 UmwG muss zum Zeitpunkt des Beschlusses angemessen sein; spaetere Wertsteigerungen sind im Spruchverfahren zu beruecksichtigen
-- BFH, Urt. v. 22.09.2021 - I R 40/17, BStBl. II 2022, 348 — steuerliche Einbringung nach § 20 UmwStG: Buchwertansatz setzt Einbringung eines qualifizierten Teilbetriebs voraus; Holding-Einbringung ohne operativen Anteil faellt nicht darunter
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Lutter, UmwG-Kommentar, §§ 2-38 (Verschmelzung), §§ 123-137 (Spaltung), 7. Auflage 2024
-- Baumbach/Hueck/Schindler, GmbHG § 77 und UmwG §§ 3-39 Rn. 1-100
-- MueKo AktG/Gruenewald, § 325 UmwG (Spruchverfahren) Rn. 1-60
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich fuer Form und Gremien

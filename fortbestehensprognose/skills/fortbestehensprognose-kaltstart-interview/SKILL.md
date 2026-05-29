@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-kaltstart-interview
-description: "Kaltstart-Interview fuer das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschaeftsfuehrer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner ist welches Geschaeftsjahr und welche Rechtsform vorliegt und welche Anwendung der Buchhaltungs- und Bilanzierungssysteme. Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md. Disclaimer Selbstdokumentation ersetzt nicht Insolvenzrechtsanwalt."
+description: "Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner ist welches Geschäftsjahr und welche Rechtsform vorliegt und welche Anwendung der Buchhaltungs- und Bilanzierungssysteme. Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md. Disclaimer Selbstdokumentation ersetzt nicht Insolvenzrechtsanwalt."
 ---
 
 # /fortbestehensprognose:fortbestehensprognose-kaltstart-interview
@@ -80,15 +80,12 @@ Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Pro
 
 ## Rechtlicher Rahmen und Leitentscheidungen
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 S. 1 InsO: massgeblicher Massstab ueberwiegende Wahrscheinlichkeit; Prognosezeitraum mindestens 12 Monate; Erstellung unverzueglich bei Krisenzeichen.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung nach § 15b InsO: Geschaeftsfuehrer haftet persoenlich fuer Zahlungen nach Insolvenzreife; ordnungsgemaesse Erstellung der Fortbestehensprognose ist Entlastungsbeweis.
-- BGH, Urt. v. 14.05.2007 — II ZR 48/06, NZI 2007, 615 — Antragspflicht-Beginn: mit Kenntnis oder fahrlaeissiger Unkenntnis des Insolvenzgrundes; Kaltstart-Interview dokumentiert Erstkenntnis.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Kaltstart
 
 § 19 InsO (Ueberschuldungsgrund) → § 15a InsO (Antragspflicht) → § 15b InsO (Zahlungs-/Haftungsrisiko) → § 43 GmbHG (Sorgfaltspflicht GF) → IDW S 11 (Standard Insolvenz-Beurteilung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 11, Stand 11/2022 — vollstaendiger Standard zur Beurteilung von Insolvenzgruenden.
-- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 4 — Krisenstadien und Erstmassnahmen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

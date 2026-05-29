@@ -1,6 +1,6 @@
 ---
 name: zv-pfueb-mieter-finanzamt
-description: "Glaeubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Pruefraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rueckkaufswert Geschaeftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn)."
+description: "Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn)."
 ---
 
 # PfÜB Mieter, Finanzamt, sonstige Drittschuldner
@@ -51,21 +51,21 @@ Pfändung der Mietforderung. Wichtige Punkte:
 - Der Mieter darf nach Pfändung nur noch an den Gläubiger zahlen.
 - Der Mieter kann mit eigenen Gegenforderungen gegen den Vermieter aufrechnen, soweit § 392 BGB nichts entgegensteht.
 - Mietminderung bleibt möglich, Pfändung erfasst nur den tatsächlich geschuldeten Betrag.
-- BGH 6.7.2005 – VIII ZR 209/04: Mieter zahlt schuldbefreiend an Gläubiger nach Zustellung.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sonderfall Steuererstattung
 
 - § 46 AO regelt Abtretung und Pfändung. Anzeige beim Finanzamt zwingend.
 - Erfasst werden Erstattungsansprüche für laufenden VZ und künftige – soweit hinreichend bestimmt.
 - Vorauszahlungen sind keine Erstattung, sondern Vorleistung.
-- BFH 21.3.2014 – VII R 28/13: Pfändung künftiger Erstattungsansprüche zulässig, wenn Veranlagungszeiträume bezeichnet.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Leitentscheidungen
 
-- BGH 6.7.2005 – VIII ZR 209/04 (Mieter zahlt schuldbefreiend nach Pfändung)
-- BFH 21.3.2014 – VII R 28/13 (Pfändung künftiger Steuererstattung)
-- BGH 19.3.2004 – IXa ZB 321/03 (Pfändung Lebensversicherung-Rückkaufswert)
-- BGH 4.10.2018 – IX ZB 7/18 (Reichweite bei Dauerschuldverhältnissen)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

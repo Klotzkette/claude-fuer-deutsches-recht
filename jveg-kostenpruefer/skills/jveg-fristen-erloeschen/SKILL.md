@@ -1,6 +1,6 @@
 ---
 name: jveg-fristen-erloeschen
-description: "Antragsfristen nach JVEG pruefen: drei Monate Ausschlussfrist fuer Verguetungsantrag. Normen: § 2 Abs. 1 JVEG. Pruefraster: Fristbeginn, Fristende, Wiedereinsetzungsmoeglichkeit. Output: Fristenpruefung JVEG mit Empfehlung. Abgrenzung: nicht materiell-rechtliche Verguetungsberechnung."
+description: "Antragsfristen nach JVEG prüfen: drei Monate Ausschlussfrist für Verguetungsantrag. Normen: § 2 Abs. 1 JVEG. Prüfraster: Fristbeginn, Fristende, Wiedereinsetzungsmöglichkeit. Output: Fristenprüfung JVEG mit Empfehlung. Abgrenzung: nicht materiell-rechtliche Verguetungsberechnung."
 ---
 
 # JVEG-Fristen-Erloeschen
@@ -24,16 +24,14 @@ Prüfe, ob JVEG-Vergütungsansprüche fristgerecht geltend gemacht wurden, und b
 - § 233 ff. ZPO (Wiedereinsetzung in den vorigen Stand — analog)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG ist eine materiellrechtliche Ausschlussfrist; Wiedereinsetzung kommt nur bei unverschuldetem Hindernis in Betracht.
-2. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Fehlende Belehrung über die Dreimonatsfrist kann zu einem Beginn der Frist erst ab Belehrungszeitpunkt führen.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Bei mehrteiligen Leistungen beginnt die Frist des § 23 JVEG nach vollständiger Erbringung der gesamten Leistung.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Wer die Dreimonatsfrist versäumt, verliert den Anspruch auch dann, wenn die Kostenbeamtin noch keine Entscheidung getroffen hat.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 23 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG § 23 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 23 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Jeder JVEG-Vorgang, bei dem Zeitpunkt der Leistungserbringung und Antragstellung bekannt sind.
 

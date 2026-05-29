@@ -1,6 +1,6 @@
 ---
 name: triage-rechtsfrage-oder-norm
-description: "Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rueckfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern."
+description: "Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern."
 ---
 
 # Triage: Rechtsfrage oder Norm?
@@ -27,9 +27,7 @@ Dieser Skill ist der erste Schritt im Subsumtions-Workflow. Er stellt sicher, da
 
 ## Aktuelle Rechtsprechung zu Triage-Pflichten
 
-- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Der beratende Anwalt hat die Pflicht, den Sachverhalt vollständig zu erfassen und auf drohende Fristen hinzuweisen, auch wenn der Mandant nur eine Teilfrage stellt; die Triage-Pflicht ist umfassend.
-- BGH, Beschl. v. 12.11.2020 - III ZB 41/20, NJW 2021, 316 — Wenn der Sachverhalt mehrere mögliche Rechtsgebiete berührt, ist der rechtssuchende Bürger ausdrücklich auf alle relevanten Rechtswege hinzuweisen; ein einseitiger Hinweis auf nur einen Weg ist pflichtwidrig.
-- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Die Triage zwischen Verfassungsbeschwerde und fachgerichtlichem Rechtsweg (Erschöpfungsgrundsatz) ist eine der schwierigsten anwaltlichen Aufgaben; fehlerhafte Einordnung führt zur Unzulässigkeit der Verfassungsbeschwerde.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ablauf
 
@@ -39,7 +37,7 @@ Das System stellt folgende Eingangsfragen:
 
 1. Was haben Sie konkret? Bitte wählen Sie:
    - (A) Konkreter Lebenssachverhalt (Ereignis, Streit, Vertrag, Handlung, Bescheid)
-   - (B) Abstrakte Rechtsfrage (z.B. „Darf mein Arbeitgeber …?")
+   - (B) Abstrakte Rechtsfrage (z.B. "Darf mein Arbeitgeber …?")
    - (C) Ich weiß bereits, welche Norm ich prüfen will
    - (D) Beides: Sachverhalt und Norm
    - (E) Ich weiß es nicht genau — bitte führe mich
@@ -92,14 +90,6 @@ Wichtige Fristen in Ihrem Fall:
 Bitte bestätigen Sie, dass ich den Sachverhalt richtig erfasst habe.
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB Einl. (Methodik der Anspruchsprüfung — Vier-Fragen-Methode)
-- Baumbach/Lauterbach ZPO Einl. (Verfahrenswahl und Rechtsweg)
-- Zöller ZPO § 17 GVG (Rechtsweg-Abgrenzung)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 96/18 entfernt — NOT_FOUND (kein Urteil BGH VIII ZR 96/18 vom 03.07.2019 in Datenbanken auffindbar; auf dejure.org existiert nur V ZR 96/18 zu Bombendetonation/Recyclingunternehmen, thematisch nicht einschlaegig). Kein Ersatz eingefuegt. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

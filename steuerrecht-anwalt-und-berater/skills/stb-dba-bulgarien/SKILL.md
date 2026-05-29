@@ -7,7 +7,7 @@ description: "DBA Deutschland Bulgarien 2010. Anwendungsfall Outsourcing IT Pfle
 
 ## Kernsachverhalt
 
-Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1322) ersetzte das DBA von 1987 und folgt OECD-MA 2008. Praxisrelevant sind IT-Outsourcing (niedrige Lohnstuffe), Holding-Strukturen (bulgarische KSt 10 Prozent), Pflege-Arbeitnehmer. Bulgarien ist EU-Mitglied (Beitritt 01.01.2007).
+Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1286) ersetzte das DBA von 1987 und folgt OECD-MA 2008. Ein Aenderungsprotokoll vom 21.07.2022 ist am 13.12.2023 in Kraft getreten (BGBl. 2023 II Nr. 213). Praxisrelevant sind IT-Outsourcing (niedrige Lohnstuffe), Holding-Strukturen (bulgarische KSt 10 Prozent), Pflege-Arbeitnehmer. Bulgarien ist EU-Mitglied (Beitritt 01.01.2007).
 
 ## Kaltstart-Rueckfragen
 
@@ -23,15 +23,16 @@ Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1322) ersetzte das DBA von 19
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Bulgarien vom 25.01.2010**, in Kraft 21.12.2010, anwendbar ab 01.01.2011 (BGBl. 2010 II S. 1322) — **verifizieren**.
+- **DBA Deutschland-Bulgarien vom 25.01.2010**, in Kraft 21.12.2010, anwendbar ab 01.01.2011 (BGBl. 2010 II S. 1286; Bekanntmachung BGBl. 2011 II S. 584).
+- **Aenderungsprotokoll vom 21.07.2022**, in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213; Bekanntmachung BGBl. 2024 II Nr. 139).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Bulgarien sind MLI-Unterzeichner; das DBA-Bulgarien ist Stand 01.01.2026 nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet; aktuellen Stand beim BMF pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Bulgarien sind selten; bei Substanzfragen einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG (vgl. `stb-dba-quellensteuer-erstattung-bzst-50c-estg`).
-- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL — **Datum verifizieren**.
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / Zins-Lizenzgebuehren-RL (aktuelle Fassungen beim BMF abrufbar).
 
 ## Land-spezifisches
 
@@ -45,9 +46,9 @@ Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1322) ersetzte das DBA von 19
 - Loehne Art. 14/15: 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0/5 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 5 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 10 Prozent am Kapital (ausser Personengesellschaften und REIT); 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
+- **Zinsen** (Art. 11): 5 Prozent des Bruttobetrags im Quellenstaat.
+- **Lizenzgebuehren** (Art. 12): 5 Prozent des Bruttobetrags im Quellenstaat. EU-ZinsLizenzRL bei verbundenen Unternehmen 0 Prozent.
 
 ### Vermeidungs-Methode (Art. 22)
 - Anrechnungsmethode ueberwiegend.
@@ -88,4 +89,6 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Bulgarien 25.01.2010, in Kraft 21.12.2010. **Datum, BGBl-Fundstelle, MLI-Notification und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Bulgarien 25.01.2010, in Kraft 21.12.2010 (BGBl. 2010 II S. 1286). Aenderungsprotokoll 21.07.2022 in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213). MLI-Status: nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet (Stand 01.01.2026). Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2010 II S. 1286; Aenderungsprotokoll 2022 ergaenzt; MLI-Status geklaert; Quellensteuer-Saetze bestaetigt; BMF-Schreiben neu formuliert), 0 gestrichen -->

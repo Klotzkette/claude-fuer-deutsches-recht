@@ -2,7 +2,7 @@
 
 **Zuletzt geprüft: 2026-05-10.**
 
-> **Veraltungswarnung.** Liegt das Prüfdatum oben mehr als 90 Tage zurück, gilt diese Datei als veraltet. Behandeln Sie jeden Eintrag nur noch als Recherche-Checkliste, nicht als verlässliche Aussage über geltende Rechtslage. Wenn das Plugin diese Datei einliest, prüft es zunächst das Datum. Bei Veraltung gilt: „Der Aktualitätswächter wurde zuletzt am [Datum] — vor [N] Monaten — geprüft. Ich verwende ihn als Suchleitfaden, nicht als Rechtsquelle." Sobald ein Eintrag aktualisiert wird, ist auch das Prüfdatum oben zu erneuern.
+> **Veraltungswarnung.** Liegt das Prüfdatum oben mehr als 90 Tage zurück, gilt diese Datei als veraltet. Behandeln Sie jeden Eintrag nur noch als Recherche-Checkliste, nicht als verlässliche Aussage über geltende Rechtslage. Wenn das Plugin diese Datei einliest, prüft es zunächst das Datum. Bei Veraltung gilt: "Der Aktualitätswächter wurde zuletzt am [Datum] — vor [N] Monaten — geprüft. Ich verwende ihn als Suchleitfaden, nicht als Rechtsquelle." Sobald ein Eintrag aktualisiert wird, ist auch das Prüfdatum oben zu erneuern.
 
 Das Datenschutzrecht entwickelt sich laufend weiter. Vor jeder Aussage zu einer Frist, einem Schwellenwert oder einer Pflicht ist eine Verifikation geboten. Dies sind die Bereiche mit dem höchsten Änderungsrisiko seit dem Trainings-Datenstand:
 
@@ -35,13 +35,12 @@ Das Datenschutzrecht entwickelt sich laufend weiter. Vor jeder Aussage zu einer 
 
 Die folgende Rechtsprechung kann den Beratungsinhalt des Plugins unmittelbar berühren:
 
-- **EuGH, Urt. v. 4.10.2024, C-446/21 (Schrems/Meta) [Rn. 1–80]:** Keine ubiquitäre Personalisierung auf Grundlage öffentlich zugänglicher Daten ohne gesonderte Rechtsgrundlage. Prüfen Sie bei jeder Art.-6-Abs.-1-lit.-f-Abwägung die aktuelle Rezeption durch [BfDI](https://www.bfdi.bund.de) und [LDA Bayern](https://www.lda.bayern.de).
-- **EuGH, Urt. v. 11.4.2024, C-741/21 (juris/VG Wiesbaden — Schadensersatz):** Immaterieller Schaden bereits bei Kontrollverlust über eigene Daten ersatzfähig ohne Nachweis eines konkreten Nachteils. Relevant für Beratung zu Betroffenenansprüchen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Weitere Vorabentscheidungsverfahren:** Prüfen Sie laufende Verfahren zum Art. 82 DSGVO (Schadensersatz) und Art. 77–79 DSGVO (Beschwerderecht) beim [EuGH-Urteilsfinder](https://curia.europa.eu).
 
 ## BGH / BVerwG — nationale Leitentscheidungen
 
-- **BGH, Urt. v. 12.10.2021, VI ZR 488/19 (Scraping-Haftung):** Prüfen Sie Fortentwicklungen zur Haftung bei Datenpannen und technischen Schutzmaßnahmen; Anschlussrechtsprechung der OLGs beachten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **BVerwG:** Für Verwaltungs- und Behördenmandate prüfen Sie Entscheidungen zur behördlichen Datenschutzkontrolle und zum Informationszugang.
 
 ## Behördliche Orientierungshilfen und DSK-Beschlüsse
@@ -70,6 +69,6 @@ Die Plugin-Standardwerte für diese Fristen können für neu hinzugetretene nati
 
 ## Verwendungshinweis
 
-Wenn das Plugin einen DSGVO-Artikel, eine Frist oder einen Schwellenwert zitiert, ist anzumerken: „Das Datenschutzrecht entwickelt sich laufend weiter — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BfDI](https://www.bfdi.bund.de) / [EDSA](https://www.edpb.europa.eu). Siehe `references/currency-watch.md`."
+Wenn das Plugin einen DSGVO-Artikel, eine Frist oder einen Schwellenwert zitiert, ist anzumerken: "Das Datenschutzrecht entwickelt sich laufend weiter — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BfDI](https://www.bfdi.bund.de) / [EDSA](https://www.edpb.europa.eu). Siehe `references/currency-watch.md`."
 
 **Diese Datei veraltet.** Stand: Mai 2026. Aktualisieren Sie sie, sobald Sie Abweichungen bemerken.

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-krankheit-entgeltfortzahlung-efzg
-description: "Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfaehigkeit. Methodik Pruefung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1."
+description: "Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1."
 ---
 
 # Krankheit — Entgeltfortzahlung § 3 EFZG und eAU

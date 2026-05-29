@@ -1,6 +1,6 @@
 ---
 name: grad-der-behinderung-gdb-sgb-ix
-description: "Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext fuer Buerger."
+description: "Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger."
 ---
 
 # Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt

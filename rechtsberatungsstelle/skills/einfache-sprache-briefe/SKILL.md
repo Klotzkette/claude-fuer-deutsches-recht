@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-briefe
-description: "Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Pruefraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Uebersetzung in einfacher Sprache mit Erklaerung der naechsten Schritte. Abgrenzung zu Mandantenbrief fuer foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin."
+description: "Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Prüfraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Übersetzung in einfacher Sprache mit Erklärung der naechsten Schritte. Abgrenzung zu Mandantenbrief für foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin."
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`
@@ -35,18 +35,11 @@ Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine S
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.06.2012 – IX ZR 145/11, NJW 2012, 2571 Rn. 12 — Aufklärungspflicht des Rechtsanwalts: Unverständliche Informationen erfüllen die Aufklärungspflicht nicht; Mandant muss den Kern der Mitteilung tatsächlich verstehen können.
-- BGH, Urt. v. 20.01.2005 – IX ZR 403/00, NJW 2005, 1116 Rn. 8 — Pflicht zur rechtzeitigen und vollständigen Information des Mandanten; Verzögerung oder Unklarheit begründet Haftung.
-- BVerfG, Beschl. v. 08.10.1974 – 2 BvR 747/73, NJW 1975, 103 — Grundrecht auf effektiven Rechtsschutz; Mandanten aus bildungsfernen Schichten haben ein besonderes Interesse an verständlicher Kommunikation.
-- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3305 Rn. 18 — Anwaltliche Haftung für Informationsversäumnisse gegenüber dem Mandanten; gilt sinngemäß für Beratungsstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 30 ff. — Sachlichkeitsgebot; Verständlichkeitsanforderungen bei Mandantenbriefen.
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 28 ff. — Außenkommunikation der Beratungsstelle; Anforderungen an Mandantenschreiben unter Aufsicht.
-- Greger/Unberath/Steffek, Recht der alternativen Konfliktlösung, 3. Aufl. 2023, § 2 MediationsG Rn. 8 — Verständlichkeitspflicht bei der Mandanteninformation; Maßstab.
-- Deckenbrock, in: BeckOK BRAO, 23. Ed. (Stand 01.03.2025), § 43a Rn. 15 — Aufklärungspflicht; Inhalt und Grenzen bei studentischen Beratungsstellen.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Stattdessen verwenden:**
@@ -82,7 +75,7 @@ Statt `/einfache-sprache-briefe`:
 /status mandant
 ```
 
-Dieser Befehl erstellt ein verständliches Statusschreiben (Zielgruppe: Mandant/-in) nach dem Hauptschulniveau-Standard, ohne Fachjargon, mit konkreten nächsten Schritten: „Was ist passiert / Was passiert als nächstes / Was müssen Sie tun / So erreichen Sie uns."
+Dieser Befehl erstellt ein verständliches Statusschreiben (Zielgruppe: Mandant/-in) nach dem Hauptschulniveau-Standard, ohne Fachjargon, mit konkreten nächsten Schritten: "Was ist passiert / Was passiert als nächstes / Was müssen Sie tun / So erreichen Sie uns."
 
 Oder für Routine-Korrespondenz:
 ```
@@ -95,11 +88,11 @@ Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und K
 
 - **Verweis auf diese Skill in älteren Materialien:** Semesterskripte und Tutorenmaterialien auf die neuen Skills umschreiben.
 - **Verständlichkeitsstandards als optional behandeln:** Die Pflicht zur verständlichen Mandantenkommunikation ergibt sich aus § 43a BRAO und BGH-Rspr. Sie gilt auch für Studierende in der Beratungsstelle unter Supervisorenaufsicht.
-- **Fachbegriffe ohne Erläuterung:** Begriffe wie „Widerspruchsfrist", „Vollstreckungstitel" oder „Klagefrist" sind für viele Mandanten unverständlich. Immer in Klammern oder mit einfachem Folgesatz erläutern.
+- **Fachbegriffe ohne Erläuterung:** Begriffe wie "Widerspruchsfrist", "Vollstreckungstitel" oder "Klagefrist" sind für viele Mandanten unverständlich. Immer in Klammern oder mit einfachem Folgesatz erläutern.
 - **Versand ohne Supervisoren-Freigabe:** Kein Mandantenbrief verlässt die Beratungsstelle ohne Freigabe, auch keine kurze Terminbestätigung.
 
 ## Quellenpflicht
 
-Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben zu Mandantenbriefen: `skills/status/SKILL.md`, Sektion „Quellenpflicht", und `skills/mandantenbrief/SKILL.md`.
+Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben zu Mandantenbriefen: `skills/status/SKILL.md`, Sektion "Quellenpflicht", und `skills/mandantenbrief/SKILL.md`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

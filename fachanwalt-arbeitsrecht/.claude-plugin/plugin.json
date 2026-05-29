@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-arbeitsrecht",
-  "version": "14.2.0",
-  "description": "Plugin Fachanwalt fuer Arbeitsrecht nach FAO Paragraf 10. Aktuelle BAG-Rechtsprechung 2025/2026 (Equal Pay Paarvergleich AGG, kein Verzicht Mindesturlaub BUrlG, Freistellungsklausel unwirksam Paragraf 307 BGB). KSchG Kuendigungsschutzklage. BetrVG. TzBfG. AGG. EntgTranspG.",
+  "version": "24.2.0",
+  "description": "Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

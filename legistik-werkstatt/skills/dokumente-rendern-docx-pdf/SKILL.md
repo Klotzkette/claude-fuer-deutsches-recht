@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-docx-pdf
-description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages rendern. Anwendungsfall fertiger Entwurf soll als lieferfaehiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR ausgegeben werden. Referentenentwurf Kabinettsvorlage Formulierungshilfe BT-Drucksachen-Layout Synopsen Lesefassungen. Schriftart Seitenrand Kopf- und Fusszeile Sperrsatz Artikel- und Paragraphennummerierung Aenderungsbefehle Kursivsatz A-F-Vorblatt Begruendung Teil A und B NKR-Stellungnahme Drucksachennummer Wahlperiode. Output DOCX und optional PDF. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
+description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung, des Bundestages, eines Landes oder eines Landtags rendern. Anwendungsfall fertiger Entwurf soll als lieferfähiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR oder landesspezifischem Format ausgegeben werden. Referentenentwurf Kabinettsvorlage Formulierungshilfe parlamentarische Vorlage BT- oder Landtags-Drucksachen-Layout Synopsen Lesefassungen. Schriftart Seitenrand Kopf- und Fusszeile Sperrsatz Artikel- und Paragraphennummerierung Aenderungsbefehle Kursivsatz A-F-Vorblatt Begründung Teil A und B NKR-Stellungnahme Drucksachennummer Wahlperiode. Output DOCX und optional PDF. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
 ---
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout
@@ -9,25 +9,27 @@ description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinung
 
 Dieser Skill wird **am Ende** des Legistik-Workflows aufgerufen, wenn aus den strukturierten Markdown-Bausteinen der vorgelagerten Skills (Auftrag, Normentext, Begründung, Synopse) ein **lieferfähiges Dokument** im offiziellen Erscheinungsbild erstellt werden soll.
 
-Drei Hauptformate:
+Vier Hauptformate:
 
 1. **Referentenentwurf** (ministeriell, serifenlos Arial 11pt, "der Bundesregierung" im Kopf, Bearbeitungsstand-Hinweis, A-F-Vorblatt, Artikelgesetz, Begründung Teil A und B)
 2. **Gesetzesentwurf der Bundesregierung** (BT-Drucksachen-Look, Times New Roman 11pt, "Drucksache XX/YYYY", "Deutscher Bundestag - XX. Wahlperiode", Sperrsatz-Überschriften, Anschreiben des Bundeskanzlers)
-3. **Formulierungshilfe der Bundesregierung** (kuerzer, ohne Drucksachen-Mantel, eingerueckter Änderungstext)
+3. **Parlamentarische Vorlage** (Gesetzentwurf aus der Mitte, Änderungsantrag, Antrag oder Entschließungsantrag; BT- oder Landtagsformat nach Verfahrensstand)
+4. **Formulierungshilfe** (fachliche Zulieferung, kuerzer, ohne Drucksachen-Mantel, eingerueckter Änderungstext)
 
 Plus Hilfsformate:
 
-4. **Spaltensynopse** dreispaltig (geltend / Änderung / Begründung)
-5. **Lesefassung konsolidiert** (Artikelgesetz nach Inkrafttreten)
-6. **Kabinettsmappe-Deckblatt**
+5. **Spaltensynopse** dreispaltig (geltend / Änderung / Begründung)
+6. **Lesefassung konsolidiert** (Artikelgesetz nach Inkrafttreten)
+7. **Kabinettsmappe-Deckblatt**
 
 ## Vorgehen
 
 1. **Eingangsbausteine sammeln**: Die strukturierten Markdown-Dateien aus den vorgelagerten Skills (`vorblatt.md`, `gesetzestext.md`, `begruendung-allgemein.md`, `begruendung-besonders.md`, `synopse.csv`) müssen vorliegen.
-2. **Format wählen** (siehe oben 1-6) abhängig vom Adressaten:
+2. **Format wählen** (siehe oben 1-7) abhängig vom Adressaten:
    - federführendes Ressort intern -> Referentenentwurf
    - Kabinett -> Kabinettsmappe + Referentenentwurf
-   - Bundestag aus Mitte des Hauses -> Formulierungshilfe
+   - Bundestag/Fraktion/Opposition -> parlamentarische Vorlage oder Formulierungshilfe
+   - Landtag/Landtagsfraktion -> landesspezifische parlamentarische Vorlage
    - Bundestag von Bundesregierung -> BT-Drucksachen-Layout
 3. **Skript aufrufen**: `python3 skills/dokumente-rendern-docx-pdf/assets/render.py --format referentenentwurf --eingabe /pfad/zum/projekt/ --ausgabe /pfad/zum/projekt/output/`
 4. **Visuelle Prüfung** des DOCX: Schriftart, Sperrsatz, Änderungsbefehle kursiv, Vorblatt-Gliederung, Kopf-/Fußzeile.
@@ -109,20 +111,17 @@ Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffic
 
 - `referentenentwurf-bauen` - liefert die Markdown-Bausteine für das Vorblatt und den Artikeltext
 - `gesetzesentwurf-kabinett` - liefert die Kabinettsmappe als zusätzliches Deckblatt
-- `formulierungshilfe-bauen` - liefert die Kurzform für die Mitte des Hauses
+- `formulierungshilfe-bauen` - liefert Formulierungshilfe, Änderungsantrag, Gesetzentwurf aus der Mitte, Antrag oder Entschließungsantrag
 - `synopse-erstellen` - liefert die dreispaltige CSV für die Synopse
 - `begruendung-allgemein-und-besonders` - liefert die Begründung Teil A und Teil B
-## Technische Standards & Rechtliche Anforderungen
+## Technische Standards & Qualitätsanforderungen
 
-- BVerwG, Beschl. v. 19.04.2021 — 20 F 2.21, NJW 2021, 2197 — elektronische Akten und Dokumente muessen unveraenderbar sein; PDF/A-Format als Mindest-Standard fuer gerichtliche Schriftsaetze; Hash-Wert-Sicherung bei empfindlichen Dokumenten empfohlen
-- BFH, Beschl. v. 10.11.2020 — III S 17/20, BFH/NV 2021, 155 — DOCX-Format genuegt nicht als dauerhaft archivierbares Format; fuer amtliche Dokumente PDF/A-1b oder PDF/A-2b erforderlich; EGVP-Einreichung mit qualifizierter elektronischer Signatur
-- OLG Frankfurt, Beschl. v. 27.05.2019 — 3 Ws 214/19, NJW-RR 2019, 1088 — unlesbare oder technisch fehlerhafte Dokument-Einreichung gilt nicht als Einreichung im Rechtssinne; Wiedereinsetzung nur bei unverschuldetem Fehler
+- DOCX ist Arbeits- und Austauschformat; PDF ist Liefer- und Lesefassung. Wenn ein bestimmtes Portal, Parlament oder Haus eine andere Vorgabe macht, geht diese vor.
+- Für Bundesentwürfe HdR, GGO und Vorgaben der E-Gesetzgebung beachten; für Länder die jeweilige Landesvorlage, Landtagsvorgaben und Verkündungsregeln abfragen.
+- Bei PDF-Ausgabe Sichtprüfung durchführen: Seitenköpfe, Drucksachennummer, Wahlperiode, Sperrsatz, Seitenumbruch, Tabellenbreiten, Fußnoten und Anlagenverzeichnis.
+- Keine gerichtlichen ERVV-Anforderungen ungeprüft auf Gesetzgebungsdokumente übertragen. Nur verwenden, wenn der konkrete Abgabeweg tatsächlich elektronischer Rechtsverkehr ist.
+- Bei Archiv- oder Veröffentlichungsanforderungen prüfen, ob PDF/A, Barrierefreiheit, maschinenlesbare XML-Fassung oder zusätzliche Metadaten verlangt sind.
 
-## Zentrale Normen (Paragrafenkette)
+## Zentrale Normen und Standards
 
-§ 2 ERVV (Elektronischer Rechtsverkehr, Dokumentenformat) — § 32a ZPO (Elektronisches Dokument) — § 55a VwGO (Elektronisches Dokument Verwaltungsrecht) — § 55d VwGO (Pflicht zur elektronischen Einreichung) — § 4 PDFA-Standard ISO 19005 (PDF/A-Normen)
-
-## Kommentarliteratur
-
-- Kopp/Schenke, VwGO, 30. Aufl. 2024, § 55a Rn. 1 ff. (elektronisches Dokument, Formatanforderungen)
-- Zöller/Greger, ZPO, 35. Aufl. 2024, § 32a Rn. 1 ff. (elektronische Einreichung, PDF-Anforderungen)
+HdR — GGO — Art. 76-78 GG — GO-BT oder Landtags-GO — Landesverfassung und Verkündungsrecht — LegalDocML.de/eNorm soweit gefordert — PDF/A-Standard ISO 19005 nur bei konkreter Archivvorgabe

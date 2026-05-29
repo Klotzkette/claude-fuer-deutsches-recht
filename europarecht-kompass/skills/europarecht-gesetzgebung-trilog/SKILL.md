@@ -1,6 +1,6 @@
 ---
 name: europarecht-gesetzgebung-trilog
-description: "Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Pruefraster: Verfahrensstand Kompromisstext Ratspositionen EP-Positionen Zeitplan Umsetzungspflichten. Output: Verfahrensstand-Memo Stellungnahme-Empfehlung. Abgrenzung: nicht fuer erlassene Verordnungen oder Richtlinien."
+description: "Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Prüfraster: Verfahrensstand Kompromisstext Ratspositionen EP-Positionen Zeitplan Umsetzungspflichten. Output: Verfahrensstand-Memo Stellungnahme-Empfehlung. Abgrenzung: nicht für erlassene Verordnungen oder Richtlinien."
 ---
 
 # EU-Gesetzgebung und Trilog
@@ -50,9 +50,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 ## Vertiefung: Gesetzgebungsverfahren und Leitsaetze
 
-- EuGH, Urt. v. 06.09.2017 - C-643/15 (Slowakei/Rat), EuZW 2017, 860 — Ordentliches Gesetzgebungsverfahren Art. 294 AEUV: Rat kann nur einstimmig von Kommissionsvorschlag abweichen; Verletzung des Verfahrens fuehrt zur Nichtigkeit des Rechtsakts.
-- EuGH, Urt. v. 13.07.1995 - C-350/92 (Spanien/Rat), EuGHE 1995 I-1985 — Rechtsgrundlage: Wahl der Rechtsgrundlage muss auf objektive gerichtlich nachpruefbare Faktoren gegruendet sein; Mehrfachrechtsgrundlage nur ausnahmsweise.
-- EuGH, Urt. v. 03.09.2009 - C-166/07 (Parlament/Rat), EuZW 2009, 754 — EP-Rechte im Trilog: institutionelles Gleichgewicht muss gewahrt bleiben; informelle Trilog-Einigungen sind moeglich aber muessen formell abgesegnet werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage vor Gesetzgebungsfrage
 

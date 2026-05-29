@@ -57,22 +57,22 @@ Das System (oder der Bearbeiter manuell) gleicht Zahlungseingänge im Kontoauszu
 |-------------|-------:|------------|:---------:|
 | 14.05.2026 — Alpha Grundstücks-UG, VWZ: R-2026-0005 | 1.832,60 EUR | R-2026-0005 | hoch |
 | 08.05.2026 — Peter Sommer, VWZ: Meyer Rechnung | 523,60 EUR | R-2026-0006 | mittel (VWZ unscharf) |
-| 16.05.2026 — unbekannt, VWZ: „Beratung April" | 228,00 EUR | kein Match | ungeklärt |
+| 16.05.2026 — unbekannt, VWZ: "Beratung April" | 228,00 EUR | kein Match | ungeklärt |
 
 ### Schritt 4 — Klärfälle bearbeiten
 
 **Klärfall 228,00 EUR:**  
-Eingang am 16.05.2026, Auftraggeber: „W. Lindner, Savignyplatz 11, 10627 Berlin", Verwendungszweck: „Beratung April". Kein offener Posten in dieser Höhe. Mögliche Szenarien:
+Eingang am 16.05.2026, Auftraggeber: "W. Lindner, Savignyplatz 11, 10627 Berlin", Verwendungszweck: "Beratung April". Kein offener Posten in dieser Höhe. Mögliche Szenarien:
 
 - Mandant aus früherer Beratung, Rechnung nicht vollständig erfasst — Rechnungsarchiv April prüfen.
 - Fremdgeld (Weiterleitung für Mandant erwartet) — sofort auf separates Anderkonto oder zumindest buchhalterisch trennen. Fremdgeldverdacht vermerken.
 - Irrtümliche Überweisung eines Dritten — Rückfrage erforderlich.
 
-**Maßnahme:** Jana Reuter prüft Rechnungsarchiv April 2026. Bis zur Klärung: Betrag als „ungeklärt" im DATEV-Übergabeblatt markieren.
+**Maßnahme:** Jana Reuter prüft Rechnungsarchiv April 2026. Bis zur Klärung: Betrag als "ungeklärt" im DATEV-Übergabeblatt markieren.
 
 ### Schritt 5 — Schwache Matches und manuelle Korrekturen
 
-Schwache Matches (Konfidenz „mittel" oder „niedrig") werden manuell durch Jana Reuter oder Mara Klein bestätigt. Kein automatischer Buchungsabschluss.
+Schwache Matches (Konfidenz "mittel" oder "niedrig") werden manuell durch Jana Reuter oder Mara Klein bestätigt. Kein automatischer Buchungsabschluss.
 
 ### Schritt 6 — DATEV-Übergabe vorbereiten
 

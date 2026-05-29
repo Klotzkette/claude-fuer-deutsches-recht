@@ -12,7 +12,7 @@
 
 Tom Berger (Minijobber, tätig als Bürohilfe / Scan- und Postbearbeitung, Eintritt 01.03.2025) hat sich am 20.05.2026 um 08:15 Uhr per SMS bei Kanzlei-Inhaberin Jana Reuter krankgemeldet.
 
-**Wortlaut der SMS (sinngemäß):** „Guten Morgen, ich melde mich krank für heute und morgen. Ich hoffe, übermorgen wieder da zu sein."
+**Wortlaut der SMS (sinngemäß):** "Guten Morgen, ich melde mich krank für heute und morgen. Ich hoffe, übermorgen wieder da zu sein."
 
 **Voraussichtliche Abwesenheitsdauer:** 20.05.2026 bis voraussichtlich 21.05.2026 (2 Arbeitstage).  
 **Voraussichtliche Rückkehr:** 22.05.2026.
@@ -63,7 +63,7 @@ Lina Schott wurde am 20.05.2026 um 09:00 Uhr telefonisch informiert und hat ihre
 Tom Bergers Arbeitszeit wird auf Stundenbasis abgerechnet (Stundennachweis monatlich). Die Fehlstunden am 20. und 21.05.2026 sind wie folgt zu behandeln:
 
 - **Entgeltfortzahlung:** Tom Berger hat Anspruch auf Entgeltfortzahlung im Krankheitsfall (§ 3 EFZG), da er seit 01.03.2025 beschäftigt ist (Wartezeit > 4 Wochen).
-- **Stundenerfassung:** Die Fehlstunden werden als „krank (EFZ)" in der Payroll-Tabelle eingetragen — keine Stunden-Kürzung, aber Markierung für Lohnkostenerstattung durch Krankenkasse (U1-Verfahren, sofern beantragt).
+- **Stundenerfassung:** Die Fehlstunden werden als "krank (EFZ)" in der Payroll-Tabelle eingetragen — keine Stunden-Kürzung, aber Markierung für Lohnkostenerstattung durch Krankenkasse (U1-Verfahren, sofern beantragt).
 - **U1-Umlageverfahren:** Kanzlei muss prüfen, ob sie am U1-Umlageverfahren teilnimmt (Arbeitgeber mit bis zu 30 Mitarbeitern sind verpflichtet). Bei Teilnahme: Erstattungsantrag bei der Krankenkasse stellen.
 - **Payroll-Vorbereitung:** Mara Klein trägt die Korrektur bis 26.05.2026 in das Payroll-Vorbereitungsblatt ein.
 

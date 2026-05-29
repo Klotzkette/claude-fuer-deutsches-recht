@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-erste-stufe
-description: "Erstes Forderungsschreiben an die Airline. Erfasst Anspruchsteller (alle Passagiere mit Vollmachten) Anspruchsgrundlage Art. 7 VO 261/2004 konkrete Berechnung Frist zur Zahlung (typisch zwei Wochen) Bankverbindung. Inkludiert die rechtliche Begruendung mit Pinpoint auf VO 261/2004 und EuGH-Urteilen. Erwaehnt Schlichtungsstelle Luftverkehr SOEP als naechste Stufe. Versandweg Einschreiben mit Rueckschein oder Airline-Kundenservice-Portal mit Eingangsbestaetigung."
+description: "Workflow-Skill zu forderungsschreiben erste stufe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Forderungsschreiben — Erste Stufe
@@ -74,7 +74,7 @@ EUR.
 5. Eine Befreiung wegen außergewöhnlicher Umstaende gemäß Art. 5 Abs. 3
 VO 261/2004 ist nicht ersichtlich. Sie tragen die Beweislast hierfür.
 [Falls Airline bereits eine Begründung wie technischer Defekt geliefert hat,
-hier vorab Gegenargument: technische Defekte sind nach EuGH C-549/07
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Wallentin-Hermann) regelmäßig NICHT als außergewöhnliche Umstaende zu
 werten.]
 
@@ -140,8 +140,7 @@ Mit freundlichen Grüßen
 
 ## Leitentscheidungen Forderungsschreiben
 
-- BGH, Urt. v. 12.11.2019 — X ZR 117/18, NJW 2020, 464 — Mahnung setzt Verzug in Gang § 286 BGB; Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz; Erstattung Anwaltskosten bei unberechtigter Verweigerung.
-- EuGH, Urt. v. 13.10.2011 — C-83/10 (Sousa Rodriguez), NJW 2011, 3355 — Ausgleichszahlung nach VO 261 sofort faellig; keine Aufschiebung durch interne Regulierungsentscheidung der Airline.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabe
 
@@ -165,4 +164,4 @@ schrift_stempel: Arial-Bold   # Arial 12 FETT oben rechts
 bezeichnung: "Anlage K"
 ```
 
-Der Skill `fluggastrechte-anlagen-bauen` liest die im Schriftsatz erwähnten Anlagen in Reihenfolge der Erwähnung, konvertiert jede Rohdatei zu PDF, stempelt oben rechts in Arial 12 FETT (= Helvetica-Bold 12pt) den Bezeichner „Anlage K 1", „Anlage K 2" usw. und benennt die Ausgabedatei nach demselben Schema (`Anlage_K_1.pdf`). Optional wird ein Sammel-PDF mit Schriftsatz vorne und durchlaufenden Lesezeichen erzeugt.
+Der Skill `fluggastrechte-anlagen-bauen` liest die im Schriftsatz erwähnten Anlagen in Reihenfolge der Erwähnung, konvertiert jede Rohdatei zu PDF, stempelt oben rechts in Arial 12 FETT (= Helvetica-Bold 12pt) den Bezeichner "Anlage K 1", "Anlage K 2" usw. und benennt die Ausgabedatei nach demselben Schema (`Anlage_K_1.pdf`). Optional wird ein Sammel-PDF mit Schriftsatz vorne und durchlaufenden Lesezeichen erzeugt.

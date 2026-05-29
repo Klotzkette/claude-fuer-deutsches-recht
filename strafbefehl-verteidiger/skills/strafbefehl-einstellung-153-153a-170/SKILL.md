@@ -25,18 +25,11 @@ description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkei
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 13.09.2022 - 4 StR 152/22, NStZ 2023, 64 — § 153a StPO ist kein Schuldspruch; nach Erfuellung der Auflage entfaltet die Einstellung Sperrwirkung und das Verhalten kann nicht mehr strafrechtlich verfolgt werden.
-- OLG Hamburg, Beschl. v. 08.03.2021 - 1 Rev 11/21, NStZ-RR 2021, 248 — Zustimmungserfordernis der Staatsanwaltschaft nach § 153a Abs. 1 StPO ist ermessensgebunden; willkuerliche Verweigerung kann zur Aufhebung fuehren.
-- BVerfG, Beschl. v. 09.12.2020 - 2 BvR 1297/20, NJW 2021, 458 — Das Recht des Beschuldigten auf Einstellung wird nicht verletzt, wenn die Staatsanwaltschaft im Rahmen des Opportunitaetsprinzips begruendet oeffentliches Interesse bejaht.
-- BGH, Urt. v. 22.07.2021 - 4 StR 394/20, NStZ 2021, 555 — TOA nach § 46a StGB erfordert ernsthaftes und nahezu vollstaendiges Bemeuhnen um Wiedergutmachung; bloss teilweise Entschaedigung genuegt nur wenn Restentschaedigung wirklich nicht moeglich ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 153 Rn. 1-25 (Geringfuegigkeitsprinzip)
-- Meyer-Gossner/Schmitt StPO § 153a Rn. 1-40 (Einstellung mit Auflage)
-- Fischer StGB § 46a Rn. 1-25 (TOA, Wiedergutmachung)
-- SK-StPO / Weßlau § 153a (Kritik und Reformvorschlaege)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vergleich der Einstellungsmoeglichkeiten
 
 | Norm | Voraussetzung | Auflage | BZR-Eintrag |

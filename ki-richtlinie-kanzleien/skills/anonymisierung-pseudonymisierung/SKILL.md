@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-pseudonymisierung
-description: "Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schuetzen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Pruefraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine."
+description: "Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine."
 ---
 
 # Anonymisierung und Pseudonymisierung
@@ -14,7 +14,7 @@ Erwägungsgrund 26 DSGVO: Anonymisierte Daten fallen nicht unter die DSGVO — a
 ## Vorgehen
 
 1. **Stufe 1 — Identifikation sensibler Informationen**: Vor dem Upload jedes Dokuments systematisch prüfen, welche Informationen Personenbezug aufweisen (Namen, Adressen, Geburtsdaten, Aktenzeichen, Kontonummern, Gesundheitsdaten etc.).
-2. **Stufe 2 — Schwärzung/Ersetzen durch Platzhalter**: Namen durch generische Bezeichnungen ersetzen (Mandant → „M1", Gegner → „G1", Zeuge → „Z1"), Adressen schwärzen, Aktenzeichen durch fiktive ersetzen.
+2. **Stufe 2 — Schwärzung/Ersetzen durch Platzhalter**: Namen durch generische Bezeichnungen ersetzen (Mandant → "M1", Gegner → "G1", Zeuge → "Z1"), Adressen schwärzen, Aktenzeichen durch fiktive ersetzen.
 3. **Stufe 3 — Konsistenz sicherstellen**: Bei Mehrfachverwendung desselben Dokuments oder mehrerer zusammenhängender Dokumente dieselben Platzhalter konsistent verwenden, damit der Kontext erhalten bleibt.
 4. **Stufe 4 — Re-Identifikationsrisiko prüfen**: Nach der Anonymisierung kritisch prüfen: Kann aus dem verbleibenden Kontext (Branche, Ort, besondere Umstände) dennoch auf die Person geschlossen werden? Falls ja, weitreichendere Schwärzungen vornehmen.
 5. **Stufe 5 — Dokumentation**: Anonymisierungsprozess in der Akte dokumentieren; wer hat anonymisiert, wann, nach welchem Schema?
@@ -27,12 +27,12 @@ Vor der Eingabe mandatsbezogener Informationen in KI-Systeme sind alle personenb
 
 **Baustein Platzhalter-Schema:**
 Beim Ersetzen personenbezogener Daten durch Platzhalter wird folgendes Schema verwendet:
-- Mandantinnen und Mandanten: „[Mandant-1]", „[Mandant-2]" etc.
-- Gegner: „[Gegner-1]", „[Gegner-2]" etc.
-- Zeuginnen und Zeugen: „[Zeuge-1]", „[Zeuge-2]" etc.
-- Unternehmen: „[Unternehmen-A]", „[Unternehmen-B]" etc.
-- Aktenzeichen: „[Az-1]", „[Az-2]" etc.
-- Adressen: „[Adresse-1]" etc.
+- Mandantinnen und Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
+- Gegner: "[Gegner-1]", "[Gegner-2]" etc.
+- Zeuginnen und Zeugen: "[Zeuge-1]", "[Zeuge-2]" etc.
+- Unternehmen: "[Unternehmen-A]", "[Unternehmen-B]" etc.
+- Aktenzeichen: "[Az-1]", "[Az-2]" etc.
+- Adressen: "[Adresse-1]" etc.
 
 **Baustein Re-Identifikationscheck:**
 Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person auf verbliebene Re-Identifikationsrisiken zu überprüfen (Vier-Augen-Prinzip). Besonders kritisch zu prüfen sind seltene Kombinationen von Merkmalen (z.B. spezifische Branche + bestimmter Regionalmarkt + besonderes Schadensgeschehen), die auch ohne Namen zur Identifizierung führen können.
@@ -42,10 +42,7 @@ Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person au
 Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die Kanzlei sollte halbjährlich prüfen, ob neue oder verbesserte Tools zur Verfügung stehen. Ebenso sind neue Datenschutzbehörden-Empfehlungen zur Anonymisierung zu beachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.05.2009 — C-553/07 (Rijkeboer), NJW 2009, 2013 Rn. 26: Anonymisierung ist nur wirksam, wenn keine vernuenftigerweise in Betracht kommenden Mittel der Re-Identifikation bestehen (Erwaegungs-Grundsatz 26 DSGVO).
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 70: Pseudonymisierte Daten bleiben personenbezogene Daten, wenn der Schluessell noch existiert — massgeblich fuer Kanzlei-KI-Einsatz.
-- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Kein ausreichender Geheimnisschutz ohne Re-Identifikationsrisikotest — massgeblich fuer § 43a Abs. 2 BRAO.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300 Rn. 30: Informationelle Selbstbestimmung erfordert Schutz auch gegen technisch moegliche Re-Identifikation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 Nr. 1 DSGVO — Begriff personenbezogene Daten

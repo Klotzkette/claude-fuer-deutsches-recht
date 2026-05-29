@@ -1,6 +1,6 @@
 ---
 name: anw-fristenbuch-steuerrecht
-description: "Fristenbuch fuer steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegruendung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen."
+description: "Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegründung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen."
 ---
 
 # Fristenbuch Steuerrecht
@@ -15,17 +15,11 @@ description: "Fristenbuch fuer steuerrechtliche Verfahren pflegen und Fristen be
 
 ## Aktuelle Rechtsprechung (Fristen)
 
-- BFH, Urt. v. 13.03.2018 - IX R 22/17, BStBl II 2018, 489 Rn. 11 — Die Einspruchsfrist ist eine nicht verlängerbare Ausschlussfrist; Wiedereinsetzung nach § 110 AO setzt voraus, dass der Beteiligte ohne Verschulden verhindert war, die Frist einzuhalten.
-- BFH, Urt. v. 07.07.2021 - X R 44/19, BStBl II 2022, 41 Rn. 18 — Die Bekanntgabefiktion des § 122 Abs. 2 AO gilt auch für digital versandte Bescheide; vier Tage seit PostModG 1.1.2025.
-- BFH, Urt. v. 14.02.2019 - V R 68/17, BStBl II 2019, 421 Rn. 14 — Ablaufhemmung der Festsetzungsverjährung nach § 171 Abs. 4 AO durch Beginn einer Außenprüfung tritt nur ein, wenn die Prüfungsanordnung wirksam zugestellt und der Prüfer mit der eigentlichen Prüfungshandlung begonnen hat.
-- BFH, Urt. v. 29.10.2013 - VIII R 27/10, BStBl II 2014, 295 Rn. 19 — Bei Steuerhinterziehung (§ 370 AO) beträgt die Festsetzungsverjährungsfrist zehn Jahre (§ 169 Abs. 2 Satz 2 AO); dies gilt auch für jahrelang nicht erklärte Auslandseinkünfte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Kruse, AO/FGO, § 355 AO Rn. 1-30 (Einspruchsfrist, Bekanntgabefiktion, Fristberechnung)
-- Klein, AO, § 169 Rn. 1-40 (Festsetzungsverjährung, Hinterziehung, Ablaufhemmung)
-- Gräber/Stapperfend, FGO, § 47 Rn. 1-30 (Klagefrist, Berechnungsregeln)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zentralablage
 
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/fristenbuch.yaml`

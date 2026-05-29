@@ -1,6 +1,6 @@
 ---
 name: klage-gegen-vlop-einordnung-art-263-aeuv
-description: "Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Pruefraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzustaendigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
+description: "Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
 ---
 
 # Klage gegen Designations-Beschluss — Art. 263 AEUV
@@ -93,10 +93,10 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 
 ## Aktuelle Rechtsprechung
 
-- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Erste Nichtigkeitsklage gegen VLOP-Designation nach Art. 33 DSA; EuG bestätigt Designation; Klagebefugnis des Adressaten (Art. 263 Abs. 4 AEUV) bejaht; enge Ermessenskontrolle.
-- EuG, Urt. v. 22.09.2021 — T-612/17 (Google Shopping), NJW 2021, 3295 Rn. 180: Zur gerichtlichen Kontrolle von Kommissionsbeschlüssen im Digitalbereich; enge Ermessenskontrolle (Plausibilitätstest); Darlegungslast beim Kläger für offensichtlichen Beurteilungsfehler.
-- EuGH, Urt. v. 25.07.2018 — C-213/15 P (Kommission/Gmina Winiary), NJW 2018, 2865 Rn. 38: Zur Klagebefugnis nach Art. 263 Abs. 4 AEUV; unmittelbare und individuelle Betroffenheit bei Adressat eines Beschlusses stets gegeben.
-- EuG, Beschl. v. 12.05.2023 — T-105/23 (Booking Holdings/Kommission), NJW 2023, 1890 Rn. 22: Zum Eilrechtsschutz nach Art. 278/279 AEUV gegen Gatekeeper-Designation; Aussetzung möglich wenn schwerer und nicht wiedergutzumachender Schaden.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -106,11 +106,9 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 - Art. 33 DSA — VLOP-Designation durch Kommission
 - Art. 3 DMA — Gatekeeper-Designation durch Kommission
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grabitz/Hilf/Nettesheim, Das Recht der EU, 80. EL 2024, Art. 263 AEUV Rn. 1–80: Zur Nichtigkeitsklage; Klagebefugnis; Klagegründe; Fristen.
-- Körber/Kühling/Podszun, Digitalrecht, 2022, DMA Art. 3 Rn. 60–80: Zur gerichtlichen Überprüfung von Gatekeeper-Designationen.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Ist der Mandant Adressat des Kommissionsbeschlusses (VLOP/Gatekeeper)?

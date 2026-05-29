@@ -1,6 +1,6 @@
 ---
 name: vaf-bsag-mietvertrag
-description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Pruefraster BSAG-Handelsregisterpruefung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung."
+description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung."
 ---
 
 # BSAG-Mietvertrag
@@ -15,10 +15,7 @@ description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 03.03.2010 - XII ZR 131/08, NJW 2010, 1663 — Gewerbemiete Konkurrenzschutz: Vermieter schuldet im Gewerbemietvertrag ohne ausdrückliche Klausel nur eingeschränkten Konkurrenzschutz; eindeutige Vereinbarung nötig.
-- BGH, Urt. v. 02.11.2005 - XII ZR 233/03, NJW 2006, 1198 — Betriebspflicht in Gewerbemietverträgen: ausdrückliche Vereinbarung nötig; stillschweigende Betriebspflicht nur in Ausnahmefällen.
-- BGH, Urt. v. 25.04.2018 - VIII ZR 176/17, NJW 2018, 2113 — Indexklausel muss transparenten Berechnungsmaßstab enthalten; Verweis auf VPI ausreichend.
-- BGH, Urt. v. 18.09.2013 - XII ZR 58/11, NJW 2014, 54 — Schriftformheilung nach § 550 BGB: Nachtrags-Vereinbarungen ohne Schriftform können bei langfristigen Verträgen zur Kündbarkeit führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -28,12 +25,9 @@ description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet 
 - § 9 UStG — Option zur Umsatzsteuer (wichtig für BSAG-Mietvertrag)
 - § 305 ff. BGB — AGB-Kontrolle gewerblicher Klauseln
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. 2022, § 535 Rn. 50-100 (Gewerbemietvertrag)
-- Staudinger/Emmerich, BGB, 2021, § 550 Rn. 1-30 (Schriftformheilung)
-- MüKo-BGB/Häublein, 9. Aufl. 2022, § 578 Rn. 1-20 (Gewerberaum)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill setzt den Huckelriede-Term-Sheet-Fall in die BSAG-Vorlage um. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

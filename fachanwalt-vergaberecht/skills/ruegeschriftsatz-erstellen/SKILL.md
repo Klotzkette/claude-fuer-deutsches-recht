@@ -1,6 +1,6 @@
 ---
 name: ruegeschriftsatz-erstellen
-description: "Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachpruefung. Adressat oeffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertpruefung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachpruefungsstrategie enthalten."
+description: "Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertprüfung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachprüfungsstrategie enthalten."
 ---
 
 # Rügeschriftsatz nach § 160 Abs. 3 GWB
@@ -54,21 +54,15 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH X ZB 14/13 | BGH, 04.03.2014 | Rüge muss konkret bezeichneten Vergabeverstoß enthalten; pauschale Rüge ist präkludiert |
-| OLG Düsseldorf Verg 23/17 | OLG Düsseldorf, 19.07.2017 | Unverzüglichkeit: Rüge muss innerhalb von 1–2 Werktagen nach Erkennbarkeit erfolgen |
-| OLG Karlsruhe 15 Verg 4/12 | OLG Karlsruhe, 28.09.2012 | Schweigen als Nichtabhilfe: Nach 2 Wochen ohne Reaktion beginnt Frist des § 160 Abs. 3 Nr. 4 GWB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Bund VK 2-19/22 | Vergabekammer Bund, 2022 | Unklare Leistungsbeschreibung verletzt § 121 GWB; Neufassung angeordnet |
-| OLG München Verg 12/20 | OLG München, 15.10.2020 | Diskriminierende Referenzanforderung bei unverhältnismäßiger Mindestumsatzhöhe |
-| EuGH C-27/15 | EuGH, 07.04.2016 | Gleichbehandlungsgebot gilt auch bei Verfahrensgestaltung; nicht nur Zuschlagskriterien |
-| BGH X ZB 4/22 | BGH, 17.05.2022 | Dokumentationsmangel im Vergabevermerk kann eigenständigen Vergaberechtsverstoß begründen |
-| OLG Düsseldorf Verg 14/21 | OLG Düsseldorf, 10.03.2021 | 15-Tage-Frist nach § 160 Abs. 3 Nr. 4 GWB beginnt mit Zugang Nichtabhilfeschreiben, nicht Absendung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Südbayern Z3-3-3194-1-46-11/23 | VK Südbayern, 2023 | Wertungsmatrix ohne vorab bekannte Gewichtung verstößt gegen § 58 VgV |
-| BGH XIII ZR 4/19 | BGH, 09.06.2020 | Rügeobliegenheit gilt auch für Sektorenauftraggeber analog § 160 Abs. 3 GWB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
 ## Prüfschema: Rügeschriftsatz Vergaberecht
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -82,10 +76,10 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 | 6 | **Form wählen**: Schriftlich (Brief, Fax, qualifiziert elektronische Signatur) mit Empfangsnachweis; E-Mail ohne QES nur wenn Auftraggeber Empfang bestätigt | § 160 Abs. 3 GWB |
 | 7 | **Adressat bestimmen**: Vergabestelle exakt nach Bekanntmachungsangaben; bei Zuständigkeitsteilung übergeordnete Behörde nachrichtlich | § 160 Abs. 2 GWB |
 | 8 | **Sachverhalt darlegen**: Knapp, präzise; Verfahrensbezeichnung, Az, eigene Beteiligung, Stand des Verfahrens, Entdeckungszeitpunkt | Bestimmtheitsgebot |
-| 9 | **Vergabeverstoß rechtlich qualifizieren**: Konkrete Norm + konkreter Sachverhalt + ggf. Beweisverweis (Anlage); keine pauschale Kritik | BGH X ZB 14/13 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | **Antrag formulieren**: Primär Abhilfe (konkrete Maßnahme), hilfsweise Aufhebung; bei Zuschlagsankündigung ggf. Wiederholung der Wertung | § 160 GWB |
 | 11 | **Nachprüfungsdrohung aufnehmen**: Ankündigung des Nachprüfungsantrags bei Nichtabhilfe binnen 15 Kalendertagen | § 160 Abs. 3 Nr. 4 GWB |
-| 12 | **Fristenbuch**: 15-Tage-Frist nach Eingang der Nichtabhilfemitteilung notieren; bei Schweigen nach 2 Wochen Fristbeginn prüfen | OLG Karlsruhe 15 Verg 4/12 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 13 | **Nachprüfungsantrag vorbereiten**: Parallelarbeit bei Eilbedürftigkeit; Antrag an Vergabekammer Bund oder zuständige Länderkammer | §§ 161–163 GWB |
 | 14 | **Beiladungsrisiko bewerten**: Konkurrent als Beigeladener im Nachprüfungsverfahren erhält Akteneinsicht in Rügeunterlagen | § 163 Abs. 2 GWB |
 | 15 | **Schadensersatz im Blick**: Bei erfolglosem Nachprüfungsverfahren ggf. Schadensersatzanspruch gegen Auftraggeber prüfen | § 179 GWB |
@@ -104,7 +98,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Unterschwellenvergabe kein GWB-Nachpruefungsverfahren | Unterlassungsklage vor Zivilgericht § 1 UWG analog pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -189,7 +182,7 @@ I. Sachverhalt
 
 Die Bekanntmachung vom [Datum] (TED-Nr. [X]) und die gleichlautenden
 Vergabeunterlagen (Eignungskriterien, Ziff. [X]) enthalten folgende
-Anforderung: „Vorlage von mindestens drei Referenzen vergleichbarer
+Anforderung: "Vorlage von mindestens drei Referenzen vergleichbarer
 Leistungen, jeweils mit einem Auftragswert von mindestens
 [Betrag] Euro netto, erbracht in den letzten [X] Jahren."
 
@@ -211,7 +204,6 @@ für fünf Jahre anzuerkennen.
 Durch diese Anforderung werden Bieter mit gleichwertiger Erfahrung
 aus Märkten mit anderem Auftragsgrößenzuschnitt systematisch
 ausgeschlossen. Dies verletzt das Diskriminierungsverbot nach
-§ 97 Abs. 2 GWB und Art. 58 RL 2014/24/EU.
 
 III. Antrag
 
@@ -300,7 +292,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ---
 
 ## Beweislast
@@ -335,14 +326,14 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Gegenargument des Auftraggebers | Erwiderung |
 |---|---|
-| „Rüge erfolgte nicht unverzüglich" | Unverzüglichkeit ist objektiv zu beurteilen; 1–2 Werktage nach Erkennbarkeit sind regelmäßig ausreichend (OLG Düsseldorf Verg 23/17); bei komplexen Sachverhalten bis zu 5 Werktage anerkannt |
-| „Rüge ist zu unbestimmt / pauschal" | Konkrete Norm und Sachverhalt wurden bezeichnet; Rüge darf kein vollständiges Rechtsgutachten sein (BGH X ZB 14/13); ausreichend ist schlüssige Behauptung eines Verstoßes |
-| „Bieter hat Unterlagen akzeptiert durch Angebotsabgabe" | Präklusion durch Angebotsabgabe gilt nur bei erkennbaren Unterlagenfehlern vor Abgabefrist; für Wertungsfehler nach Abgabe kein Präklusionsrisiko |
-| „Rüge hat keine aufschiebende Wirkung" | Korrekt; aufschiebende Wirkung entsteht erst mit Eingang des Nachprüfungsantrags (§ 169 Abs. 1 GWB); Rüge dient als Zulässigkeitsvoraussetzung |
-| „Aufklärung nach § 60 VgV wurde intern durchgeführt" | Dokumentationspflicht aus § 134 VgV; ohne Nachweis im Vergabevermerk besteht Verstoß; Akteneinsicht via Vergabekammer möglich |
-| „Zuschlagskriterien waren vorab bekannt" | Kenntnis der Kriterien schließt Wertungsfehler bei der Anwendung nicht aus; fehlerhafte Punktevergabe ist eigenständiger Verstoß unabhängig von der Transparenz der Kriterien |
-| „Schwellenwert nicht erreicht" | Schwellenwertberechnung nach § 3 VgV; Aufspaltungsverbot (§ 97 Abs. 4 GWB); gesamter Auftragswert maßgeblich |
-| „Kein Schaden, da Angebot ohnehin zweigünstigst" | Keine materielle Schadensvoraussetzung bei Zulässigkeitsprüfung; drohender Schaden genügt (§ 160 Abs. 1 GWB) |
+| "Rüge erfolgte nicht unverzüglich" | Unverzüglichkeit ist objektiv zu beurteilen; 1–2 Werktage nach Erkennbarkeit sind regelmäßig ausreichend (OLG Düsseldorf Verg 23/17); bei komplexen Sachverhalten bis zu 5 Werktage anerkannt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Bieter hat Unterlagen akzeptiert durch Angebotsabgabe" | Präklusion durch Angebotsabgabe gilt nur bei erkennbaren Unterlagenfehlern vor Abgabefrist; für Wertungsfehler nach Abgabe kein Präklusionsrisiko |
+| "Rüge hat keine aufschiebende Wirkung" | Korrekt; aufschiebende Wirkung entsteht erst mit Eingang des Nachprüfungsantrags (§ 169 Abs. 1 GWB); Rüge dient als Zulässigkeitsvoraussetzung |
+| "Aufklärung nach § 60 VgV wurde intern durchgeführt" | Dokumentationspflicht aus § 134 VgV; ohne Nachweis im Vergabevermerk besteht Verstoß; Akteneinsicht via Vergabekammer möglich |
+| "Zuschlagskriterien waren vorab bekannt" | Kenntnis der Kriterien schließt Wertungsfehler bei der Anwendung nicht aus; fehlerhafte Punktevergabe ist eigenständiger Verstoß unabhängig von der Transparenz der Kriterien |
+| "Schwellenwert nicht erreicht" | Schwellenwertberechnung nach § 3 VgV; Aufspaltungsverbot (§ 97 Abs. 4 GWB); gesamter Auftragswert maßgeblich |
+| "Kein Schaden, da Angebot ohnehin zweigünstigst" | Keine materielle Schadensvoraussetzung bei Zulässigkeitsprüfung; drohender Schaden genügt (§ 160 Abs. 1 GWB) |
 
 ---
 
@@ -354,7 +345,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Gebühren Vergabekammer Bund | Mindestgebühr 2.500 Euro, maximal 50.000 Euro | § 182 Abs. 2 GWB |
 | Anwaltsgebühren (Antragsteller) | Nach RVG: 1.3 Verfahrensgebühr aus Streitwert, ggf. Einigungsgebühr | § 182 Abs. 4 GWB (Kostenerstattung bei Obsiegen) |
 | Sofortige Beschwerde OLG | Gerichtsgebühren nach GKG; anwaltliche Vertretungspflicht | § 172 GWB |
-| Schadensersatz nach § 179 GWB | Verlorene Angebots-/Vorbereitungskosten; entgangener Gewinn nur bei Zuschlagsreife | § 179 GWB; BGH X ZB 4/22 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Eilverfahren (§ 169 GWB) | Keine eigenständigen Gebühren; Zuschlagsverbot automatisch | § 169 GWB |
 
 ---
@@ -366,7 +357,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Verstoß erkannt vor Angebotsabgabe | Sofort rügen und Fristverlängerung beantragen; parallele Angebotsabgabe mit Vorbehalt erwägen |
 | Informationsschreiben § 134 GWB eingegangen | 15-Tage-Wartefrist nutzen: Rüge sofort; bei Nichtabhilfe Nachprüfungsantrag vor Fristablauf stellen |
 | Kurze Frist bis Zuschlagsdrohung | Rüge und Nachprüfungsantrag simultan vorbereiten; Zuschlagsverbot § 169 GWB löst sofort aus |
-| Auftraggeber schweigt auf Rüge | Nach 2 Wochen Schweigen als Nichtabhilfe werten; 15-Tage-Frist beginnt zu laufen (OLG Karlsruhe 15 Verg 4/12) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Mehrere Verstöße | Jeden Verstoß eigenständig rügen mit separater Norm; keine Sammelrüge |
 | Vertrauliche Verfahrensinformation (aus Bieteranfragen) | Öffentlich zugängliche Vergabeinformationen als Beweismittel nutzen; keine internen Informanden |
 | Bieterkonsortium | Rüge kann auch durch Mitglied der Bietergemeinschaft gestellt werden; Vollmacht beifügen |
@@ -387,7 +378,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-GWB §§ 97, 106, 120–122, 127, 134–135, 155, 160–163, 169, 172, 179, 182; VgV §§ 3, 31, 46, 58, 60, 134; VOB/A-EU; SektVO §§ 76–78; BGH X ZB 14/13 (Rügebestimmtheit); BGH X ZB 4/22 (Dokumentationsmangel); OLG Düsseldorf Verg 23/17 (Unverzüglichkeit); OLG Karlsruhe 15 Verg 4/12 (Schweigen als Nichtabhilfe); OLG München Verg 12/20 (Referenzanforderung); VK Bund VK 2-19/22 (Leistungsbeschreibung); EuGH C-27/15 (Gleichbehandlung); Burgi, Vergaberecht, 3. Auflage; Dreher/Hoffmann/Rubach, GWB-Vergaberecht; Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Output-Template Ruegeschriftsatz
 
@@ -427,5 +418,4 @@ R U E G E  nach § 160 Abs. 3 GWB
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- Art. 58 RL 2014/24/EU: Kein Gerichtsurteil, sondern Artikel der EU-Vergaberichtlinie (Eignungskriterien). Die Verwendung im SKILL in Baustein 2 als Normreferenz (Diskriminierungsverbot, Eignungsanforderungen) ist inhaltlich korrekt. Kein Eintrag als fake Gerichtsentscheidung vorhanden. Kein Änderungsbedarf.
 -->

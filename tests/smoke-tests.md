@@ -5,9 +5,9 @@ Diese Datei beschreibt drei-Schritt-Szenarien, mit denen man die fachschweren Pl
 Vorgehen pro Test:
 
 1. Das genannte Plugin laden (`/plugin load <plugin>` bzw. Auswahl im Plugin-Marketplace).
-2. Den jeweils unter „Eingang" genannten Datenraum (i. d. R. eine der Testakten unter `testakten/`) als Arbeitsbereich öffnen.
-3. Den Kaltstart-Skill des Plugins aufrufen, wie unter „Schritt 1" benannt.
-4. Den im Test benannten Folgeskill anstoßen und prüfen, ob der „Erwartete Output" sichtbar wird.
+2. Den jeweils unter "Eingang" genannten Datenraum (i. d. R. eine der Testakten unter `testakten/`) als Arbeitsbereich öffnen.
+3. Den Kaltstart-Skill des Plugins aufrufen, wie unter "Schritt 1" benannt.
+4. Den im Test benannten Folgeskill anstoßen und prüfen, ob der "Erwartete Output" sichtbar wird.
 
 Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht funktionsfähig, ein Bugfix muss her, kein Release.
 
@@ -49,7 +49,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Schritt 2 — Anspruch & Schreiben:** Skill für Ausgleichszahlung nach VO (EG) 261/2004.
 
-**Erwarteter Output:** Schreiben an Airline mit korrektem Ausgleichsbetrag (250 / 400 / 600 €) je nach Streckenlänge, EuGH-Aktenzeichen im richtigen Format (`C-83/10`, `C-402/07`, nicht „2007/402"), Fristsetzung.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Abbruchkriterium:** EuGH-Aktenzeichen im Schreiben falsch formatiert **oder** Ausgleichsbetrag passt nicht zur Streckenlänge.
 
@@ -195,4 +195,4 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 ## Hinweis zur Nutzung
 
-Diese Smoke-Tests sind absichtlich kurz. Sie ersetzen keine fachliche Prüfung, sondern dienen vor jedem Release als „Geht der Skill überhaupt los?"-Kontrolle. Wer einen Skill substantiell ändert, sollte den entsprechenden Smoke-Test einmal durchspielen.
+Diese Smoke-Tests sind absichtlich kurz. Sie ersetzen keine fachliche Prüfung, sondern dienen vor jedem Release als "Geht der Skill überhaupt los?"-Kontrolle. Wer einen Skill substantiell ändert, sollte den entsprechenden Smoke-Test einmal durchspielen.

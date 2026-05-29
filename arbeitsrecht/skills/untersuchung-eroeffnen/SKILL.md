@@ -45,18 +45,18 @@ vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 Rn. 14 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verdachtskündigung — umfassende Sachaufklärung vor Kündigung zwingend;
   Untersuchungspflicht des Arbeitgebers; Dokumentationsanforderungen
-- BAG, Urt. v. 29.06.2017 – 2 AZR 597/16, NZA 2017, 1179 Rn. 22 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Beginn der Zwei-Wochen-Frist des § 626 Abs. 2 BGB — Fristbeginn erst
   nach ausreichender Sachaufklärung; Pflicht, Ermittlungen zügig zu führen;
   mutwillige Verzögerung kann Verwirkung begründen
-- BAG, Urt. v. 23.08.2018 – 2 AZR 133/18, NZA 2018, 1329 Rn. 29 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Inhaltliche Anforderungen an die Anhörung der beschuldigten Person vor
   Verdachtskündigung; Frage und Antwortrecht; Protokollierungspflicht
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 100 ff.:
   Grundvoraussetzungen der Datenzulässigkeit bei interner Untersuchung;
@@ -109,7 +109,7 @@ Datum und Uhrzeit der Eröffnung im Protokoll festhalten. Dies ist bei
 einer eventuellen Verdachtskündigung der Ausgangszeitpunkt für die
 Fristberechnung nach § 626 Abs. 2 BGB (Frist beginnt mit sicherer
 Kenntnis, nicht mit bloßem Verdacht — aber Aufklärung ist zügig
-zu führen, BAG, Urt. v. 29.06.2017 – 2 AZR 597/16).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -154,8 +154,8 @@ Beispiel-Ausgabe nach Sachverhaltserfassung (Betriebsrat-Flag):
   der Untersuchungsunterlagen fraglich. Vor Anlegen der ersten Datei klären.
 - **§ 626 Abs. 2 BGB-Uhr läuft**: Die Frist beginnt bei sicherer Kenntnis.
   Mutwillige Verzögerung der Untersuchung kann dazu führen, dass die
-  außerordentliche Kündigung verfristet ist (BAG, Urt. v. 29.06.2017 –
-  2 AZR 597/16). Zügiges Vorgehen dokumentieren.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 82 Abs. 2 BetrVG versäumt**: Wenn dem Arbeitnehmer das Recht auf
   Hinzuziehung eines Betriebsratsmitglieds nicht mitgeteilt wird, kann
   dies das Verfahren belasten.
@@ -173,8 +173,7 @@ Bei jeder Eröffnung zitieren:
 - §§ 34, 36, 37 HinSchG (bei Hinweisgebersachen)
 - § 82 Abs. 2, §§ 84, 85 BetrVG (Betriebsratsrechte)
 - § 626 Abs. 2 BGB (Fristbeginn-Dokumentation)
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 (Sachaufklärungspflicht)
-- BAG, Urt. v. 29.06.2017 – 2 AZR 597/16, NZA 2017, 1179 (Fristbeginn)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 100 ff.
 
 Detaillierte Sachverhaltserfassung, Quellenchecklisten-Vorlagen und
@@ -185,8 +184,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 31.01.2019 — 2 AZR 426/18**, NZA 2019, 893 — Anforderungen an die Anhörung der beschuldigten Person vor Verdachtskündigung; die Anhörung muss so konkret sein, dass der Beschuldigte substantiiert antworten und sich verteidigen kann; pauschale Vorwürfe ohne Tatzeit und Tatbeschreibung genügen nicht.
-- **BAG, Urt. v. 14.12.2017 — 2 AZR 86/17**, NJW 2018, 1258 — Repressalienschutz bei internen Meldungen (Vorläufer HinSchG); Arbeitgeber, der einen Arbeitnehmer wegen einer Beschwerde benachteiligt, kann nach § 612a BGB schadensersatzpflichtig sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — vor der Eröffnung klären
 

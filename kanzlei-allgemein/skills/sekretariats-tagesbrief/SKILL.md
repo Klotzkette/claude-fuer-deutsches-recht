@@ -1,6 +1,6 @@
 ---
 name: sekretariats-tagesbrief
-description: Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat fuer den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrueckrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrueckstaende ueber Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat.
+description: Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat.
 ---
 
 # Sekretariats-Tagesbrief
@@ -13,10 +13,7 @@ description: Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen 
 4. Sind Geburtstage, Feiertage oder Abwesenheiten zu beachten, die die Tagesplanung beeinflussen?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Morgenplanung als Kanzleiorganisationspflicht: Anwalt und Sekretariat muessen zu Tagesbeginn Fristen und Prioritaeten kennen.
-- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Fristenpriorität: Notfristen (Berufung, Revision) muessen taeglich an erster Stelle geprueft werden; kein anderer Arbeitsschritt hat Vorrang.
-- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Sekretariatstagesbrief als Nachweis der Organisationspflicht: Gerichte anerkennen strukturierte Tagesplanung als Entlastungsbeweis bei Wiedereinsetzungsantraegen.
-- BVerfG, Beschl. v. 15.12.2021 - 1 BvR 2027/21, NJW 2022, 587 — Urlaubsvertretung und Abwesenheit muessen in der Tagesplanung beruecksichtigt werden; fehlende Vorkehrung verletzt Mandanteninteressen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 53 BRAO — Vertretungspflicht bei Verhinderung des Anwalts
@@ -24,10 +21,9 @@ description: Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen 
 - § 517 ZPO — Berufungsfrist (Notfrist): muss im Tagesbrief an erster Stelle erscheinen
 - § 222 ZPO — Fristberechnung: korrekte Berechnung als Grundlage des Tagesbriefs
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 53 Rn. 1-25 (Vertretungspflicht und Kanzleiorganisation)
-- Zöller/Greger ZPO § 222 Rn. 1-15 (Fristberechnung fuer den Kanzleialltag)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Morgens den Tag strukturieren. Fünf Minuten Lesezeit; danach klare Prioritaeten.
@@ -62,7 +58,7 @@ Az 2026/0103 — Einspruchsfrist Sozialleistungsbescheid 30.05.2026
 3. POSTEINGANG VOM VORTAG
 ==========================================
 
-PE-2026-04220 — AG München Az ... Beschluss zur Klage Az 2026/0042
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   zur Akte und Prüfung durch RA Mueller bis (Datum)
 
 PE-2026-04221 — Mandant Schmidt — Rückfrage zur Berufung
@@ -76,7 +72,7 @@ PE-2026-04222 — Steuerberater des Mandanten Mueller GmbH
 4. TERMINE HEUTE
 ==========================================
 
-09:30 — AG München Saal 12 — Verhandlung Az 2026/0014 (RA Mueller)
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 14:00 — Mandantengespraech Frau Schulz Az 2026/0091 (RA Mueller)
 16:30 — Telefonkonferenz Gegenseite Kanzlei XYZ (Az 2026/0042)
 

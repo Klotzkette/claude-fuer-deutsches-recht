@@ -13,19 +13,19 @@ zwischen
 Bahnhofstraße 12, 59348 Lüdinghausen  
 HRB 18642, AG Münster · USt-IdNr. DE 812 334 499  
 Vertreten durch: Dr. Gerda Wohlfahrt, Vorstandsvorsitzende  
-(nachfolgend **„Lieferant"**)
+(nachfolgend **"Lieferant"**)
 
 und
 
 **[Name Abnehmer / Eigentümergemeinschaft / Mieter]**  
 [Straße, Hausnummer, PLZ, Ort]  
-(nachfolgend **„Abnehmer"**)
+(nachfolgend **"Abnehmer"**)
 
 ---
 
 ## § 1 – Vertragsgegenstand
 
-(1) Der Lieferant verpflichtet sich, den Abnehmer an der Übergabestation im Gebäude **[Gebäude, Adresse]** (nachfolgend „Lieferstelle") mit **Nahwärme** (Heizwärme und Warmwasser) aus dem Nahwärmenetz Quartier Hafenbogen zu versorgen.
+(1) Der Lieferant verpflichtet sich, den Abnehmer an der Übergabestation im Gebäude **[Gebäude, Adresse]** (nachfolgend "Lieferstelle") mit **Nahwärme** (Heizwärme und Warmwasser) aus dem Nahwärmenetz Quartier Hafenbogen zu versorgen.
 
 (2) Die Wärme wird über ein Fernwärmenetz mit einer Vorlauftemperatur von max. 70 °C und einer Rücklauftemperatur von min. 40 °C bereitgestellt. Der Lieferant strebt im Laufe des Betriebs eine Absenkung auf Niedertemperaturniveau (55/30 °C) an und informiert den Abnehmer rechtzeitig über geplante Temperaturänderungen.
 

@@ -23,16 +23,16 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Estland vom 29.11.1996**, in Kraft 29.12.1998 (BGBl. 1998 II S. 38) — **verifizieren**.
+- **DBA Deutschland-Estland vom 29.11.1996**, in Kraft 30.12.1998 (BGBl. 1998 II S. 547; Inkrafttreten: BGBl. 1999 II S. 84). Aenderungsprotokoll vom 15.12.2020, in Kraft 29.06.2021 (BGBl. 2021 II S. 562); anwendbar ab 01.01.2022.
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Estland haben das DBA-Estland 1996 aus dem Geltungsbereich des Multilateralen Instruments (MLI) ausgenommen; BEPS-Mindeststandard wurde bilateral durch das Aenderungsprotokoll 2020 umgesetzt.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Estland sind selten; bei Substanz-/Hinzurechnungsfragen einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG und § 8 AStG (vgl. `stb-dba-quellensteuer-erstattung-bzst-50c-estg`).
-- BMF-Schreiben zur Niedrigsteuer-Schwelle § 8 AStG (Reform 2022) — **Datum und aktuelle Schwelle verifizieren**.
-- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL — **Datum verifizieren**.
+- Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent (eingefuehrt durch ATADUmsG vom 25.06.2021 mit Wirkung ab VZ 2022). Relevant bei estnischen Gesellschaften ohne Ausschuettung (Distribution Tax).
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL: aktuellen Stand beim BMF pruefen.
 
 ## Land-spezifisches
 
@@ -47,7 +47,8 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 - Loehne 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden**, **Zinsen**, **Lizenzgebuehren** — Saetze **verifizieren**. EU-MTRL/ZinsLizenzRL vorrangig.
+- **Dividenden** (Art. 10 n.F. nach Aenderungsprotokoll 2020): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft ist, die waehrend 365 Tagen unmittelbar ueber mindestens 25 Prozent des Kapitals verfuegt; 15 Prozent in allen anderen Faellen.
+- **Zinsen** (Art. 11), **Lizenzgebuehren** (Art. 12): konkrete Saetze aus dem konsolidierten DBA-Text entnehmen; EU-MTRL (§ 43b EStG) und ZinsLizenzRL (§ 50g EStG) gehen als EU-Recht dem DBA vor.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
@@ -87,4 +88,6 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Estland 29.11.1996, in Kraft 29.12.1998. **Datum, BGBl, MLI-Notification, Niedrigsteuer-Schwelle § 8 AStG fuer estnisches Distribution-Tax-System verifizieren.**
+Stand: 05/2026. DBA-Estland 29.11.1996, BGBl. 1998 II S. 547, in Kraft 30.12.1998. Aenderungsprotokoll 15.12.2020, BGBl. 2021 II S. 562, in Kraft 29.06.2021, anwendbar ab 01.01.2022. DBA aus MLI-Geltungsbereich ausgenommen (bilaterale Umsetzung). Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 547 und Inkrafttreten 30.12.1998 bestaetigt (gesetze-im-internet.de, BGBl, Bundestag BT-Drs 19/28117); Aenderungsprotokoll 2020 BGBl. 2021 II S. 562 bestaetigt (BMF); MLI-Ausnahme bestaetigt (BT-Drs 19/28117); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Art. 10 n.F. 5/15% bestaetigt (NWB, BMF); Art. 11/12 allgemein gefasst (kein belegter Satz fuer altes DBA verfuegbar) -->

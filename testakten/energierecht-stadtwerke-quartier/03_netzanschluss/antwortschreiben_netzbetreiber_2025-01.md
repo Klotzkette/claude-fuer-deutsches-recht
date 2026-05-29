@@ -36,7 +36,7 @@ Wir bieten Ihnen den Netzanschluss an folgendem Punkt an:
 
 | Merkmal | Wert |
 |---|---|
-| **Anschlusspunkt** | 20-kV-Kabelabgang „Ring Hafen Süd", Abzweig Güterstraße (MS-Sammelschiene UV Güterstraße) |
+| **Anschlusspunkt** | 20-kV-Kabelabgang "Ring Hafen Süd", Abzweig Güterstraße (MS-Sammelschiene UV Güterstraße) |
 | **Anschlussart** | Stichleitung (Kabeltrasse 20 kV, XLPE-Kabel NA2XS(F)2Y 3×150/25 mm²) |
 | **Länge Anschluss­kabel** | ca. 240 m (Trassenführung Güterstraße/Werftweg) |
 | **Anschlussleistung** | 1.600 kW (Bezug), 1.200 kW (Einspeisung) |

@@ -1,6 +1,6 @@
 ---
 name: europarecht-wettbewerb-kartell
-description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV pruefen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Pruefraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtspruefmemo Risikoeinschaetzung. Abgrenzung: nicht fuer Beihilfenrecht (europarecht-beihilfen-vergaben)."
+description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben)."
 ---
 
 # EU-Wettbewerb und Kartellrecht
@@ -59,10 +59,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 13.07.1966 - 56/64 (Consten und Grundig), EuGHE 1966, 321 — Bezweckender Wettbewerbsverstoß: absolute Gebietsschutzvereinbarungen sind bezweckende Kartellverstoeße ohne Nachweis konkreter Auswirkungen; keine Freistellung nach Art. 101 Abs. 3 moeglich.
-- EuGH, Urt. v. 14.02.1978 - 27/76 (United Brands), EuGHE 1978, 207 — Marktbeherrschung Art. 102 AEUV: SSNIP-Test (significant non-transitory increase in price); Marktanteile allein keine Vermutung; gesamtes wirtschaftliches Kraefte-Verhaeltnis entscheidend.
-- EuGH, Urt. v. 13.02.1979 - 85/76 (Hoffmann-La Roche), EuGHE 1979, 461 — Missbrauch marktbeherrschender Stellung: Treuerabatte sind Missbr. wenn sie exklusiven Bezug erzwingen; kein Nachweis konkreter Ausschluusswirkung erforderlich.
-- EuGH, Urt. v. 06.10.2021 - C-882/19 (Sumal/Mercedes Benz), EuZW 2021, 1021 — Kartellschadensersatz: Tochtergesellschaft haftet fuer Kartell der Muttergesellschaft wenn tatsaechlich eine wirtschaftliche Einheit bildet; private enforcement staerkt Schadensersatzansprueche.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Kartellrecht EU
 
@@ -73,12 +70,9 @@ Bevor losgelegt wird, klaere:
 - **Gruppen-FreistellungsVO (EU) 330/2010** (Vertikalvereinb.); **(EU) 2022/720** (neue VertGVO)
 - **§§ 1, 18, 19, 33 GWB** — nationales Kartellrecht; Missbrauch; Schadensersatz
 
-## Kommentarliteratur
+## Quellenregel
 
-- Emmerich/Pohlmann, in: Immenga/Mestmaecker, Art. 101, 102 AEUV Rn. 1-100
-- Tonne, Kartellrecht Handbuch, C.H. Beck, 5. Aufl. 2024
-- Mestmaecker/Schweitzer, Europaeisches Wettbewerbsrecht, 3. Aufl. 2022
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kartell-Kurzpruefmemo
 
 **Adressat:** Kanzlei-intern / Mandant

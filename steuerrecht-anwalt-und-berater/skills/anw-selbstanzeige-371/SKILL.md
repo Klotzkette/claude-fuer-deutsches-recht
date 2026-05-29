@@ -1,13 +1,13 @@
 ---
 name: anw-selbstanzeige-371
-description: "Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollstaendigkeit aller unverjaehrten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgruende § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklaerung. Pflichtpruefung Hoechstrisikobereich mehrere Anwaelte."
+description: "Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollständigkeit aller unverjährten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgründe § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklärung. Pflichtprüfung Hoechstrisikobereich mehrere Anwaelte."
 ---
 
 # Selbstanzeige nach § 371 AO
 
 ## Disclaimer (Schlüsselstelle — mehrfach beachten)
 
-Eine fehlerhafte oder unvollständige Selbstanzeige führt nicht zur Straffreiheit — sondern dokumentiert die Hinterziehung. Risiko: Strafverfahren mit zusätzlich der Selbstanzeige als Beweis. Vor jeder Selbstanzeige zwingend Doppelprüfung durch zweiten qualifizierten Anwalt und enge Abstimmung mit dem Mandanten über Wirtschaftlichkeit und Folgen. Die Selbstanzeige ist ein **technisch hochgradig fehleranfälliger** Strafaufhebungsgrund. Bereits eine unvollständige Selbstanzeige ist regelmäßig **gar nicht** strafbefreiend (BGH, Beschl. v. 20.05.2010 – Az. 1 StR 577/09, BGHSt 55, 180 Rn. 26 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -22,7 +22,7 @@ Eine fehlerhafte oder unvollständige Selbstanzeige führt nicht zur Straffreihe
 - **Selbstanzeige bei Steuerhinterziehung:** § 371 AO.
 - **Selbstanzeige bei leichtfertiger Steuerverkürzung:** § 378 Abs. 3 AO.
 - **Absehen von Verfolgung in besonderen Fällen:** § 398a AO. Gestaffelte Zuschlagshöhe (seit 2015): bei Hinterziehungsbetrag > 25 000 EUR ein Zuschlag von **10 %**, > 100 000 EUR **15 %**, > 1 000 000 EUR **20 %** des hinterzogenen Betrags je Tat (zusätzlich zu Steuer und Zinsen).
-- **Hinterziehungszinsen:** § 235 AO; verrechnet mit Zinsen nach § 233a AO (BVerfG 1 BvR 2237/14 zur Höhe).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verjährung Steuerhinterziehung:** § 376 AO — fünfzehn Jahre seit der Beendigung; bei besonders schwerem Fall § 370 Abs. 3 AO ebenfalls fünfzehn Jahre.
 
 ## Abgrenzung § 153 AO — KEIN eigenständiger Strafbefreiungsgrund
@@ -35,7 +35,7 @@ Strafrechtliche Konsequenzen hängen davon ab, wie die ursprüngliche Falschanga
 - **Leichtfertig falsch (§ 378 AO):** Strafbefreiung wirkt erst über § 378 Abs. 3 AO.
 - **Vorsätzliche Hinterziehung:** Strafbefreiung nur über § 371 AO.
 
-**Praxis-Risiko:** Wenn die Bewertung der Ursprungserklärung (vorsätzlich / leichtfertig / einfach unrichtig) zweifelhaft ist, ist eine bloße § 153-AO-Anzeige strafrechtlich riskant. Eine spätere Hochstufung zu Hinterziehung oder leichtfertiger Verkürzung löst dann ohne sperr­wirkungskonform­e Selbstanzeige Strafbarkeit aus. Praxisempfehlung: bei Zweifeln den strengeren Weg gehen und parallel die formellen Voraussetzungen einer Selbstanzeige nach § 371 AO bzw. § 378 Abs. 3 AO einhalten (BGH 1 StR 577/09 zur Vollständigkeit; BGH 1 StR 631/10 zur Reichweite).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Wirksamkeitsvoraussetzungen § 371 Abs. 1 AO
 
@@ -72,7 +72,7 @@ Die Selbstanzeige ist **gesperrt**, wenn:
    - Liegt eine Sperrwirkung vor? Wenn ja, in welchem Umfang?
 3. Berichtigungsumfang ermitteln
    - Belegmäßige Aufarbeitung; Schätzung nur als ultima ratio
-     mit Sicherheitszuschlag (BGH, Beschl. v. 20.05.2010 – Az. 1 StR 577/09,
+     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
      BGHSt 55, 180 Rn. 28).
 4. Zahlbarkeit prüfen
    - Hinterzogene Steuer + Hinterziehungszinsen § 235 AO + ggf.

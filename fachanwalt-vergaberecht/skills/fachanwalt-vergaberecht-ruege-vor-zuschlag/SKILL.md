@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-ruege-vor-zuschlag
-description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Pruefraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurueckweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachpruefungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen."
+description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachprüfungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen."
 ---
 
 # Rüge vor Zuschlag
@@ -21,7 +21,7 @@ description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erhebe
 - § 160 Abs. 3 Satz 1 Nr. 3 GWB: erkennbare Verstöße aus Vergabeunterlagen bis Ablauf Angebotsfrist.
 - § 160 Abs. 3 Satz 1 Nr. 4 GWB: 15 Kalendertage Antragsfrist nach Zurückweisung der Rüge.
 - Inhaltsanforderungen: konkrete Bezeichnung des Verstoßes, Begründung, betroffene Norm; Beweismittel sollen genannt werden.
-- Treuwidrigkeit verspäteter Rüge nach Vertrauenstatbestand BGH X ZB 12/19, Beschl. v. 03.07.2020, Rn. 41 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rüge keine Formvorgabe — Textform ausreichend, Schriftform empfohlen für Dokumentation.
 
 ## Beweislast und Frist
@@ -44,7 +44,7 @@ description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erhebe
 8. Kalender — 15 Tage Antragsfrist nach Zurueckweisung
 ```
 
-Standardliteratur: Burgi Vergaberecht; Müller-Wrede GWB; Ziekow/Völlink Vergaberecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage Rüge § 160 Abs. 3 GWB
 
@@ -102,10 +102,7 @@ Mit freundlichen Gruessen
 
 ### Ergaenzende Leitsaetze Ruege § 160 GWB
 
-- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 Rn. 41 — Praeklusion durch verspaetete Ruege tritt ein bei mehr als 10 Tagen Zuwarten ohne triftigen Grund; Bieter muss Ruege unverzueglich erheben.
-- OLG Dusseldorf, Beschl. v. 29.06.2022 - Verg 18/22, NZBau 2022, 511 — Erkennbarkeit des Verstosses setzt voraus, dass ein sachkundiger Bieter den Verstoss bei sorgfaeltiger Durchsicht der Vergabeunterlagen erkennen konnte; Erkennbarkeit nicht gleich Kenntnis.
-- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 Rn. 28 — § 160 Abs. 3 Nr. 4 GWB: 15-Tage-Antragsfrist beginnt mit Mitteilung der Vergabestelle, dass Ruege nicht abgeholfen wird; Schweigen der Vergabestelle loest keine Frist aus.
-- EuGH, Urt. v. 15.09.2022 - C-669/20, NZBau 2022, 722 — EU-Rechtsmittelrichtlinie RL 2007/66/EU verlangt effektiven Rechtsschutz; nationales Ruegeerfordernis als Zulaessigkeitsvoraussetzung ist unionsrechtskonform wenn Frist angemessen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Entscheidungsbaum Ruege § 160 GWB
 
@@ -139,7 +136,6 @@ Schritt 5: Zuschlag erteilt?
 - § 169 GWB — Vorabentscheidung / einstweilige Massnahmen
 - § 181 GWB — Schadensersatz
 
-### Kommentarliteratur Vergaberecht
-- Ziekow/Voellink, Vergaberecht 4. Aufl. § 160 GWB (Ruege)
-- Burgi Vergaberecht § 28 (Nachpruefungsverfahren)
-- Beck Vergaberechtskommentar § 160 GWB (Praeklusion)
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

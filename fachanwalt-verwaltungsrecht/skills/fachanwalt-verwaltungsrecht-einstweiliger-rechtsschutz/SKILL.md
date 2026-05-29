@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz
-description: "Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbeduerftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Pruefraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begruendung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo."
+description: "Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo."
 ---
 
 # Einstweiliger Rechtsschutz
@@ -45,14 +45,7 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BVerfG 1 BvR 569/05 | 1 BvR 569/05 | 21.11.2005 | § 80 Abs. 5 VwGO; verfassungsrechtliche Anforderungen an Interessenabwägung; kein bloßer Formalismus |
-| BVerfG 1 BvR 2530/04 | 1 BvR 2530/04 | 12.05.2005 | Vorwegnahme der Hauptsache bei § 123 VwGO; unzumutbare Nachteile und überwiegende Erfolgsaussicht als Doppelvoraussetzung |
-| BVerwG 7 VR 2.07 | 7 VR 2.07 | 06.03.2008 | § 80 Abs. 3 VwGO; floskelhafte Begründung Sofortvollzug genügt nicht; einzelfallbezogene Auseinandersetzung erforderlich |
-| BVerwG 3 C 24.83 | 3 C 24.83 | 18.10.1984 | Anordnungsanspruch § 123 VwGO; substanziiertes subjektives Recht; bloße Möglichkeit reicht nicht |
-| OVG Berlin-Brandenburg 5 S 39.21 | 5 S 39.21 | 03.08.2021 | Eilantrag Ausländerrecht; Anordnungsgrund Dringlichkeit; lediglich abstrakte Gefahr reicht nicht |
-| BVerwG 4 VR 2.14 | 4 VR 2.14 | 22.03.2010 | § 80a VwGO bei Baugenehmigung Drittbetroffener; Nachbar-Interessen vs. Bauherrn-Vollzugsinteresse |
-| OVG NRW 13 B 789/20 | 13 B 789/20 | 14.09.2020 | § 123 VwGO Prüfungsrecht; Glaubhaftmachung durch eidesstattliche Versicherung; Anforderungen inhaltlich |
-| VGH Bayern 11 CE 21.820 | 11 CE 21.820 | 15.04.2021 | Fahrerlaubnisentzug; § 80 Abs. 5 VwGO; Interessenabwägung bei Verkehrssicherheit; öffentliches Interesse regelmäßig überwiegend |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Einstweiliger Rechtsschutz
 
@@ -65,13 +58,13 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 | 2 | Antragsbefugnis | Analog § 42 Abs. 2 VwGO; Verletzung eigener Rechte möglich? | Bejahen/Verneinen |
 | 3 | Rechtsschutzbedürfnis | Antrag bei Behörde nach § 80 Abs. 4 oder § 80a VwGO abgelehnt oder sinnlos? | Nachweisen |
 | 4 | Hauptsache anhängig | § 80 Abs. 5 VwGO setzt Hauptsache voraus; parallel Widerspruch/Klage einreichen | Dokumentieren |
-| 5 | Formelle Prüfung Vollziehungsanordnung | § 80 Abs. 3 VwGO; einzelfallbezogene Begründung? Floskelhafte Begründung → allein ausreichend für Wiederherstellung | BVerwG 7 VR 2.07 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Erfolgsaussichten Hauptsache | Offensichtlich erfolglos → Ablehnung; offensichtlich erfolgreich → Stattgabe; offen → Interessenabwägung | Substanziiert begründen |
-| 7 | Interessenabwägung | Vollzugsinteresse öffentlich vs. Aussetzungsinteresse privat; Schwere des drohenden Schadens; Irreversibilität | BVerfG 1 BvR 569/05 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | § 123 VwGO Anordnungsanspruch | Materieller Anspruch glaubhaft gemacht; subjektives öffentliches Recht | Normbasis + Subsumtion |
-| 9 | § 123 VwGO Anordnungsgrund | Dringlichkeit konkret; Frist-/Sachlage-Veränderung droht; keine bloße Abstraktion | OVG Berlin-Brandenburg 5 S 39.21 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Glaubhaftmachung | § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO; eidesstattliche Versicherung, Atteste, Urkunden | Mitreichen |
-| 11 | Vorwegnahme Hauptsache | Grundsätzlich unzulässig; Ausnahme: schlechthin unzumutbar + überwiegende Erfolgsaussicht | BVerfG 1 BvR 2530/04 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Streitwert | § 52 GKG; bei § 80 Abs. 5 VwGO Hälfte des Hauptsache-Streitwerts | Angeben im Antrag |
 | 13 | Entscheidungsform | Beschluss ohne mündliche Verhandlung; Ausnahme Erörterungstermin bei komplexen Fällen | Timing planen |
 | 14 | Beschwerde § 146 VwGO | 2 Wochen ab Beschluss; Begründung 1 Monat; keine neuen Tatsachen außerhalb Beschwerdefrist | OVG zuständig |
@@ -102,12 +95,10 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 
 | Gegenargument der Behörde | Gegenstrategie |
 |---|---|
-| "Vollziehungsanordnung ausreichend begründet" | BVerwG 7 VR 2.07: konkret auf Einzelfall eingehen; abstraktes Interesse genügt nicht; Begründungstext zitieren und analysieren |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hauptsache hat keine Erfolgsaussichten" | Vorläufige rechtliche Begründung mit Kernargument; detaillierte Begründung bis zur Hauptsache vorbehalten |
 | "Kein Anordnungsgrund — keine Eilbedürftigkeit" | Konkrete Frist benennen; drohenden irreversiblen Schaden belegen; OVG-Rspr. zur Dringlichkeit anführen |
-| "Vorwegnahme der Hauptsache unzulässig" | BVerfG 1 BvR 2530/04: bei unzumutbaren Nachteilen und überwiegender Erfolgsaussicht ausnahmsweise zulässig; beide Voraussetzungen substanziieren |
-| "Öffentliches Vollzugsinteresse überwiegt" | VGH Bayern 11 CE 21.820 zeigt Einzelfall-Abwägung; bei existenzbedrohenden Folgen kein automatisches Überwiegen des öffentlichen Interesses |
-| "Glaubhaftmachung fehlt" | Eidesstattliche Versicherung nachreichen; Beweismittel beilegen; OVG NRW 13 B 789/20 zu Anforderungen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -165,7 +156,7 @@ nicht. Sie enthält keine einzelfallbezogene Auseinandersetzung
 mit den konkreten Umständen, insbesondere nicht mit [spezifisches
 Argument]. Eine bloße Wiederholung der Tatbestandsvoraussetzungen
 und abstrakte Gemeinwohlformeln erfüllen § 80 Abs. 3 VwGO nicht
-(BVerwG 7 VR 2.07 vom 06.03.2008).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Erfolgsaussichten Hauptsache
 Der Verwaltungsakt ist aus folgenden Gründen voraussichtlich
@@ -223,7 +214,7 @@ Antragsteller nicht zumutbar, weil [Begründung].
 III. Kein Fall der Hauptsache-Vorwegnahme
 [Falls Vorwegnahme bejaht: unzumutbare Nachteile ohne
 einstweiligen Rechtsschutz + überwiegende Erfolgsaussicht
-gemäß BVerfG 1 BvR 2530/04.]
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Anlagen: eidesstattliche Versicherung, Bescheide, Vollmacht
 ```
@@ -263,7 +254,7 @@ III. Formelle Fehler Vollziehungsanordnung übersehen
 
 Das Verwaltungsgericht hat den Begründungsmangel nach § 80 Abs. 3
 VwGO nicht berücksichtigt. Die Begründung: "[Zitat]" ist
-floskelhaft und nicht einzelfallbezogen (BVerwG 7 VR 2.07).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Es wird beantragt, die aufschiebende Wirkung wiederherzustellen.
 ```
@@ -310,8 +301,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
 
-- BVerwG, Beschl. v. 12.11.2022 — 1 VR 3.22, DVBl 2023, 234 — § 80 Abs. 5 VwGO; Eilantrag bei Abschiebungsanordnung; subsidiär gegenueber § 123 VwGO; Spezialitaetsgrundsatz spezialgesetzlicher Eilrechtsschutz.
-- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Art. 19 Abs. 4 GG; effektiver Eilrechtsschutz; VG muss bei drohender irreversibler Rechtsbeeintraechtigung wirksame Zwischenentscheidung treffen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
@@ -319,10 +309,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - VwVfG § 28
 - ZPO §§ 920, 921, 923
 - GKG § 52
-- BVerfG 1 BvR 569/05 (Interessenabwägung)
-- BVerfG 1 BvR 2530/04 (Vorwegnahme Hauptsache)
-- BVerwG 7 VR 2.07 (Begründungsmangel § 80 Abs. 3)
-- BVerwG 3 C 24.83 (Anordnungsanspruch § 123)
-- OVG NRW 13 B 789/20 (Glaubhaftmachung)
-- VGH Bayern 11 CE 21.820 (Fahrerlaubnissachen)
-- Kopp/Schenke VwGO; Schoch in Schoch/Schneider VwGO §§ 80, 123
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

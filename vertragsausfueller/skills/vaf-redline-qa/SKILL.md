@@ -1,10 +1,9 @@
 ---
 name: vaf-redline-qa
-description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollstaendigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft werden. §§ 145 ff. BGB Vertragsänderungen, §§ 305 ff. BGB AGB-Änderungskontrolle. Pruefraster Ausgangsfassung und überarbeitete Fassung identifiziert, alle Track-Changes-Status klar, materielle Änderungen gegen Freigaben geprüft. Output QA-Protokoll mit Änderungsübersicht und offenen Klauselentscheidungen. Abgrenzung zu Clean-Output und zu Klauselentscheidung."
+description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollständigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft werden. §§ 145 ff. BGB Vertragsänderungen, §§ 305 ff. BGB AGB-Änderungskontrolle. Prüfraster Ausgangsfassung und überarbeitete Fassung identifiziert, alle Track-Changes-Status klar, materielle Änderungen gegen Freigaben geprüft. Output QA-Protokoll mit Änderungsübersicht und offenen Klauselentscheidungen. Abgrenzung zu Clean-Output und zu Klauselentscheidung."
 ---
 
 # Redline-QA
-
 
 ## Triage zu Beginn
 
@@ -15,9 +14,7 @@ description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenent
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.07.2018 - I ZR 268/15, NJW 2018, 3178 — Vertragsverhandlungen per Redline begründen grundsätzlich kein culpa in contrahendo; aber verdeckte Änderungen können Pflichtverletzung nach § 280 Abs. 1 BGB sein.
-- BGH, Urt. v. 07.11.2017 - KZR 38/16, NJW 2018, 1461 — Gegenseite muss über wesentliche Vertragsänderungen in Kenntnis gesetzt werden; andernfalls kann das Vertragsverhältnis nach § 122 BGB anfechtbar sein.
-- BGH, Urt. v. 10.12.2008 - XII ZR 22/07, NJW 2009, 1272 — Bei Formularverträgen sind alle Seiten einzubeziehen, die übergebenen Anlagen gelten als Teil des Vertrags.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -25,11 +22,9 @@ description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenent
 - § 241 Abs. 2 BGB — Nebenpflicht zur Rücksichtnahme (kein Einbringen unbesprochener Änderungen)
 - § 307 BGB — Transparenzgebot (bei Änderungen per AGB)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 241 Rn. 5-15 (Nebenpflichten)
-- MüKo-BGB/Roth, 9. Aufl. 2022, § 119 Rn. 1-30 (Anfechtung wegen Irrtums)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill kontrolliert Änderungsfassungen vor Herausgabe. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
@@ -66,6 +61,5 @@ Der Skill kontrolliert Änderungsfassungen vor Herausgabe. Er arbeitet freistehe
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 188/18 (behauptetes Thema: Änderungsvorbehalt § 307 BGB, NJW 2020 142) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
 Bundle: bundle_047.json
 -->

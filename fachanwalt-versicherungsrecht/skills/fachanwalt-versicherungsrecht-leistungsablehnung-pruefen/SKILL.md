@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-leistungsablehnung-pruefen
-description: "Ablehnung des Versicherers pruefen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlaessig § 307 BGB AGB-Kontrolle § 195 BGB Verjaehrung. Pruefraster Obliegenheitsverletzung Vorsatz grobe Fahrlaessigkeit Kausalitaet Risikoausschluss AVB-Auslegung Verjaehrung Hemmung. Output Pruefvermerk mit Ablehnungsbegruendung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-pruefen und fachanwalt-versicherungsrecht-deckungsklage."
+description: "Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Leistungsablehnung prüfen
@@ -20,12 +20,12 @@ description: "Ablehnung des Versicherers pruefen nach §§ 1 28 VVG Obliegenheit
 - Beweislast Versicherungsfall trägt grundsätzlich der Versicherungsnehmer (§ 1 VVG); für Risikoausschluss trägt Versicherer Beweislast.
 - Obliegenheitsverletzung § 28 VVG: bei Vorsatz Leistungsfreiheit, bei grober Fahrlässigkeit Kürzung in der Schwere des Verschuldens entsprechend, bei einfacher Fahrlässigkeit keine Folgen.
 - Kausalitätserfordernis § 28 Abs. 3 VVG: Versicherer ist nur leistungsfrei wenn die Obliegenheitsverletzung kausal für Eintritt, Feststellung oder Umfang des Versicherungsfalls war — sonst keine Leistungsfreiheit (sog. Kausalitätsgegenbeweis).
-- Anzeigepflichtverletzung § 19 VVG: Rücktritt nur bei Verschulden (Vorsatz, grobe Fahrlässigkeit), Kündigung bei leichter Fahrlässigkeit; Belehrungspflicht § 19 Abs. 5 VVG — ohne Belehrung kein Rücktrittsrecht (BGH IV ZR 117/13, Urt. v. 25.06.2014, Rn. 9 ff.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vorsätzliche Herbeiführung § 81 Abs. 1 VVG Leistungsfreiheit; grob fahrlässig § 81 Abs. 2 VVG Kürzung.
 - AVB-Auslegung nach §§ 305c, 307 BGB: Klauseln gegen den Verwender bei Mehrdeutigkeit (§ 305c Abs. 2 BGB); Inhaltskontrolle § 307 BGB unangemessene Benachteiligung.
 - Verjährung Versicherungsleistung drei Jahre § 195 BGB ab Schluss des Jahres der Fälligkeit und Kenntnis (§ 199 BGB); Hemmung durch Verhandlungen § 203 BGB.
 
-Standardliteratur: Bruck/Möller VVG; Prölss/Martin VVG-Kommentar; Veith/Gräfe Der Versicherungsprozess.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast und Aufklärung
 
@@ -130,17 +130,16 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 25.06.2014 — **IV ZR 117/13**, NJW 2014, 2954 Rn. 12: Eine Anzeigepflichtverletzung nach § 19 VVG berechtigt den Versicherer zum Rücktritt nur dann, wenn er den Versicherungsnehmer gemäß § 19 Abs. 5 Satz 1 VVG belehrt hat; fehlt die Belehrung, ist das Rücktrittsrecht ausgeschlossen — unabhängig davon, ob der Versicherungsnehmer die Frage vorsätzlich oder fahrlässig falsch beantwortet hat.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 22.06.2011 — **IV ZR 225/10**, NJW 2011, 3299 Rn. 18: Die Kausalitätsgegenbeweis-Regelung des § 28 Abs. 3 VVG führt dazu, dass der Versicherungsnehmer nachweisen kann, dass seine Obliegenheitsverletzung weder Einfluss auf den Eintritt noch auf die Feststellung des Versicherungsfalls hatte; gelingt dieser Beweis, ist der Versicherer zur vollen Leistung verpflichtet.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.07.2009 — **IV ZR 216/07**, NJW 2009, 3501 Rn. 15: AGB-Ausschlussklauseln in Versicherungsbedingungen werden nach § 305c Abs. 2 BGB gegen den Verwender (Versicherer) ausgelegt, wenn sie mehrdeutig sind; Klauseln, die den Versicherungsschutz für typischerweise erwartbare Risiken ausschließen, können nach § 307 Abs. 2 Nr. 2 BGB unwirksam sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 28 Abs. 3 VVG (Kausalitätsgegenbeweis) → § 19 Abs. 5 VVG (Belehrungspflicht Versicherer) → § 305c Abs. 2 BGB (unklare AGB gegen Verwender) → § 307 BGB (AGB-Inhaltskontrolle) → § 203 BGB (Hemmung Verjährung durch Verhandlungen)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Bruck/Möller, VVG, 9. Aufl. 2012 ff., §§ 19, 28, 81 VVG: Maßgebliches Großkommentar zu Anzeigepflicht, Obliegenheiten, Vorsatz-Ausschluss.
-- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, § 28 VVG Rn. 1 ff.: Kausalitätsgegenbeweis; Quotelung bei grober Fahrlässigkeit.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

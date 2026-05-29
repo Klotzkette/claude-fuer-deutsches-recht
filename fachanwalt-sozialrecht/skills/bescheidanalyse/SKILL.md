@@ -1,14 +1,12 @@
 ---
 name: bescheidanalyse
-description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begruendungspflicht § 24 SGB X Anhoerung. Pruefraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rueckforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte fuer Widerspruchsgruende. Output: Analyseprotokoll Bescheidanalyse als Vorstufe fuer Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf)."
+description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf)."
 ---
 
 # Bescheidanalyse Sozialrecht
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 26.09.2019 - B 9 SB 1/18 R, SozR 4-3250 § 2 Nr. 22 Rn. 14 — Begründungspflicht (§ 35 SGB X): ein Bescheid muss die wesentlichen tatsächlichen und rechtlichen Gründe enthalten, die die Behörde zur ihrer Entscheidung bewogen haben; fehlt die Begründung, ist der Bescheid aufhebbar.
-- BSG, Urt. v. 27.10.2020 - B 14 AS 31/19 R, SozR 4-4200 § 11 Nr. 91 Rn. 18 — Fehlende Anhörung (§ 24 SGB X) führt zur Aufhebbarkeit (nicht Nichtigkeit) des Bescheids; Heilung im Widerspruchsverfahren nach § 41 Abs. 1 Nr. 3 SGB X nur wenn Behörde im Widerspruchsbescheid auf Vortrag eingeht.
-- BSG, Urt. v. 11.12.2019 - B 14 AS 37/18 R, SozR 4-1300 § 33 Nr. 6 Rn. 16 — Bestimmtheit des Bescheids (§ 33 SGB X): Bescheid muss inhaltlich hinreichend bestimmt sein; unklarer Tenor führt zur Rechtswidrigkeit unabhängig von der sachlichen Richtigkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 

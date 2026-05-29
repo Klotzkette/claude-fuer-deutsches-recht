@@ -1,0 +1,497 @@
+[
+  {
+    "court": "BAG",
+    "az": "9 AZR 416/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Urlaubsansprüche bei unwirksamer Freistellung (31.01.2023 lt. Kontext)",
+    "claimed_topic": "Während unwirksamer Freistellung entstehende Urlaubsansprüche erlöschen nicht",
+    "source_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-416-22/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I B 13/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht gefunden in öffentlichen Datenbanken (dejure/BFH-Online); AZ existiert möglicherweise als n.v.-Entscheidung",
+    "claimed_topic": "Wiedereinsetzung in den vorigen Stand (§ 110 AO): Verschulden des Steuerberaters",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=16.12.2020&Aktenzeichen=I+B+13%2F20",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 105/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht gefunden (dejure: Nichts gefunden für 25.11.2009 I R 105/08)",
+    "claimed_topic": "Treu und Glauben Bindung",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=25.11.2009&Aktenzeichen=I+R+105%2F08",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 13/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht eindeutig verifizierbar; AZ I R 13/11 nicht direkt auffindbar",
+    "claimed_topic": "Steuerliche Erfassung: Beginn der Steuerpflicht mit Gründung; BStBl. II 2012, 819",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 14/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht eindeutig verifizierbar; aus Chunk-Kontext: § 6 AStG Wegzugsbesteuerung Ratenzahlung",
+    "claimed_topic": "§ 6 AStG Wegzugsbesteuerung: Ratenzahlung möglich; keine sofortige Liquidität nötig",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 18/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; BStBl II 2016, 35 nicht zugeordnet",
+    "claimed_topic": "DBA-Schachtelprivilegien und inländische Steuerfreistellung; Rn. 22",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 23/02",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht verifizierbar; keine Entscheidungsdetails auffindbar",
+    "claimed_topic": "Werbung-Charakter prüfen",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 28/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; BFHE 267, 210",
+    "claimed_topic": "Pensionszusage an Gesellschafter-GF ist vGA wenn nicht den Anforderungen entsprechend",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 31/03",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar für Datum 22.02.2006",
+    "claimed_topic": "§ 8b Abs. 4 KStG Mindestbeteiligung: Tag der Dividendenausschüttung maßgeblich",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 31/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Finanzielle Eingliederung: Stimmenmehrheit > 50 %; nicht reine Kapitalmehrheit",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 40/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Organschaft Gewinnabführungsvertrag formelle Wirksamkeit",
+    "claimed_topic": "Gewinnabführungsvertrag – formelle Wirksamkeit Pflicht; rückwirkende Heilung",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "I R 87/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; BStBl II 2015, 367",
+    "claimed_topic": "Mindeststeuerpflicht und Hinzurechnungsbesteuerung (AStG)",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "II B 30/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Steuerfahndung Soforthandeln",
+    "claimed_topic": "Das Sofort-Handeln bei Steuerfahndungsmaßnahmen (Hausdurchsuchung)",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "II R 12/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; § 129 AO offenbarer Rechenfehler",
+    "claimed_topic": "Ein offenbarer Rechenfehler im Sinne des § 129 AO liegt vor, wenn Fehler klar erkennbar",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "II R 21/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; 10-Jahres-Frist GrESt",
+    "claimed_topic": "10-Jahres-Frist und Vorbeteiligungs-Anrechnung (GrESt)",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "II R 22/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; § 1 Abs. 2b GrEStG",
+    "claimed_topic": "Anwendungsbeispiele § 1 Abs. 2b GrEStG nach Reform (25.05.2022)",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "II R 4/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; RETT-Blocker § 1 Abs. 3a GrEStG",
+    "claimed_topic": "RETT-Blocker; wirtschaftliche Beteiligung § 1 Abs. 3a GrEStG (05.12.2019)",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "II R 9/84",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; sachlicher Billigkeitserlass",
+    "claimed_topic": "Sachlicher Billigkeitserlass: Gesetzesergebnis steht im Widerspruch zum Gesetzeszweck",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "III B 115/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; ernstliche Zweifel an Rechtmäßigkeit",
+    "claimed_topic": "Ernstliche Zweifel an der Rechtmäßigkeit eines Steuerbescheids (§ 69 FGO)",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "III R 31/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; BStBl II 2020, 71 – Beweislast Steuerrecht",
+    "claimed_topic": "Im Steuerrecht trägt grundsätzlich der Steuerpflichtige die Beweislast",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "IV R 40/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; BFH/NV 2019, 321",
+    "claimed_topic": "Abgrenzung Jahresabschlusspflicht und steuerliche Pflichten; keine Übertragung",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "IX B 21/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Staking Kryptowährung BFH/NV 2024, 182",
+    "claimed_topic": "Staking-Erträge aus Kryptowährungen können als sonstige Einkünfte § 22 Nr. 3 EStG steuerbar sein",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "IX R 16/07",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar als GRUR-Entscheidung; BStBl. II 2009, 13 – Mitwirkungspflicht",
+    "claimed_topic": "Reichweite der Mitwirkungspflicht; BStBl. II 2009, 13",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "IX R 26/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; BStBl II 2018, 587 – Abschnittsbesteuerung",
+    "claimed_topic": "Grundsatz der Abschnittsbesteuerung: Einkommensteuer wird jährlich festgesetzt",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "IX R 49/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; tauschähnlicher Vorgang Kapitalerhöhung",
+    "claimed_topic": "Tauschähnlicher Vorgang bei Kapitalerhöhung gegen Sacheinlage",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "V B 14/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Kontrollmitteilungen § 93a AO",
+    "claimed_topic": "Kontrollmitteilungen nach § 93a AO, die das Finanzamt erhält; BFH/NV 2020, 453",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "V R 56/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; USt-Organschaft organisatorische Eingliederung",
+    "claimed_topic": "USt-Organschaft: organisatorische Eingliederung verlangt aktive Steuerungsmöglichkeit",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "V R 68/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Ablaufhemmung § 171 AO; BStBl II 2019, 421",
+    "claimed_topic": "Ablaufhemmung der Festsetzungsverjährung nach § 171 AO; Rn. 14",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VI R 12/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Steuerberater Steuererklärungen; BStBl II 2015, 857",
+    "claimed_topic": "Steuerberater, der Steuererklärungen einreicht, hat verlängerte Abgabefrist",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII B 28/99",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Verwertungsverbot BStBl. II 2000, 643",
+    "claimed_topic": "Verwertungsverbot; BStBl. II 2000, 643",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 110/99",
+    "status": "UNVERIFIABLE",
+    "real_topic": "§§ 69, 34 AO GmbH-GF Haftung (01.08.2000); Ressortteilung nicht direkt bestätigt",
+    "claimed_topic": "Ressortteilung mehrerer GF: Entlastung nur bei klarer Aufgabenverteilung",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=01.08.2000&Aktenzeichen=VII+R+110%2F99",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 19/02",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Verschulden Fahrlässigkeit GF Haftung",
+    "claimed_topic": "Verschulden: einfache Fahrlässigkeit reicht nicht; Substantiierungslast FA",
+    "source_url": "https://datenbank.nwb.de/Dokument/133222/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 23/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Mitverschulden FA Vollstreckung",
+    "claimed_topic": "Mitverschulden FA bei verzögerter Vollstreckung",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 24/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Stundung § 222 AO",
+    "claimed_topic": "Steuerstundung § 222 AO: sachliche Gründe erforderlich",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 3/02",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Anforderungen Prüfungsanordnung; BStBl. II 2003, 739",
+    "claimed_topic": "Anforderungen an Prüfungsanordnung; BStBl. II 2003, 739",
+    "source_url": "https://datenbank.nwb.de/Dokument/76281/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 32/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; gewerbliche Verwendung Energiesteuer; BFHE 252, 229",
+    "claimed_topic": "Auslegung des Begriffs der gewerblichen Verwendung im Energiesteuerrecht",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 36/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Lagerhalter Energiesteuerschulden; BFHE 230, 186",
+    "claimed_topic": "Haftung des Lagerhalters für Energiesteuerschulden; Sorgfaltspflichten",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VII R 5/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; AWV-Meldepflicht Derivate; BFHE 258, 119",
+    "claimed_topic": "Meldepflicht bei Zahlungen aus Derivategeschäften; AWV-Meldepflichten",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VIII B 62/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Schwärzungen Steuergeheimnis; BFH/NV 2018, 1136",
+    "claimed_topic": "Schwärzungen zum Schutz des Steuergeheimnisses in Dokumenten; BFH/NV 2018, 1136",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VIII B 69/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Vergleich finanzgerichtlich; BFH/NV 2013, 398",
+    "claimed_topic": "Vergleich im finanzgerichtlichen Verfahren; BFH/NV 2013, 398",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VIII R 16/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Steuerhinterziehung Verjährungsfrist; BStBl II 2012, 860",
+    "claimed_topic": "Strafbewehrte Steuerhinterziehung (§ 370 AO): Festsetzungsverjährungsfrist verlängert",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VIII R 29/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Verschwiegenheitspflicht Steuerberater § 57 StBerG; BFHE 273, 456",
+    "claimed_topic": "Verschwiegenheitspflicht des Steuerberaters nach § 57 StBerG",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VIII R 31/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Steuerberaterhaftung; BStBl. II 2018, 358",
+    "claimed_topic": "Steuerberaterhaftung: gewissenhafte Berufsausübung nach § 57 StBerG",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "VIII R 40/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Gestaltungsmissbrauch § 42 AO; BStBl. II 2022, 556",
+    "claimed_topic": "Steuerlicher Gestaltungsmissbrauch (§ 42 AO) bei Anteilsrotation",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  },
+  {
+    "court": "BFH",
+    "az": "X B 113/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Dauerfristverlängerung; BFH/NV 2015, 569",
+    "claimed_topic": "Dauerfristverlängerung: BFH bestätigt Regelungen; BFH/NV 2015, 569",
+    "source_url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+    ]
+  }
+]

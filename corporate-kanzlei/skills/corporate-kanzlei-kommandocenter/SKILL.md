@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-kommandocenter
-description: "Deal-Kommandocenter Corporate/M&A: Schnellstart fuer Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register)."
+description: "Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register)."
 ---
 
 # Deal-Kommandocenter — Corporate/M&A
@@ -24,17 +24,11 @@ description: "Deal-Kommandocenter Corporate/M&A: Schnellstart fuer Mandate. Erke
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.06.2018 - II ZR 277/16, NJW 2018, 2723 Rn. 18 — Insolvenzantragspflicht beginnt mit objektivem Eintritt der Insolvenzreife; subjektive Unkenntnis des Geschäftsführers entbindet nicht von der Antragspflicht.
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — GmbH-Geschäftsführer kann sich auf Business Judgment Rule nur berufen, wenn er Entscheidungsgrundlagen aktiv beschafft und verifiziert hat.
-- OLG Frankfurt, Urt. v. 07.12.2021 - 5 U 134/20, ZIP 2022, 310 — Lückenhafte Disclosure Schedules begründen Garantieverletzung im SPA; Verkäufer muss bekannte Risiken vollständig offenlegen.
-- EuGH, Urt. v. 04.03.2020 - C-10/18 P (Mowi/Kommission), NJW 2020, 1589 — Vorwegnahme des Zusammenschlusses vor Fusionskontrollfreigabe (Gun-Jumping) begründet eigenständigen Kartellrechtsverstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Lutter/Hommelhoff, GmbHG, § 43 Rn. 1-30 (GF-Pflichten im M&A-Mandat)
-- MüKo InsO/Klöhn, § 15a Rn. 1-80 (Insolvenzantragspflicht, Fristen, Haftung)
-- Hüffer/Koch, AktG, § 93 Rn. 18-25 (Business Judgment Rule im Deal-Kontext)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Deal-Routing-Matrix
 
 | Dealtyp / Thema | Primärer Spezialskill | Sekundärer Spezialskill |
@@ -123,6 +117,5 @@ FREIGABEGRAD: [Entwurf / Freigegeben durch Partner / Vertraulich — nur intern]
 - § 40 AWG; §§ 55 ff. AWV (FDI-Investitionsprüfung)
 - Art. 17 MAR; § 26 WpHG (Insiderinformation)
 - §§ 2 ff. StaRUG (Restrukturierungsanzeige)
-- BGH II ZR 277/16, NJW 2018, 2723 (Insolvenzantragspflicht)
-- BGH II ZR 234/20, NJW 2022, 1381 (GmbH-GF BJR)
-- MüKo InsO/Klöhn, § 15a Rn. 1-80
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -1,5 +1,14 @@
 # Testakte Großkanzlei Corporate/M&A Datenraum
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-grosskanzlei-corporate-ma-datenraum` (diese Akte) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für `grosskanzlei-corporate-ma`. Alle Daten, Personen, Unternehmen und Aktenzeichen sind frei erfunden.
 
 **Startprompt:**
@@ -9,7 +18,7 @@ Fiktive Testakte für `grosskanzlei-corporate-ma`. Alle Daten, Personen, Unterne
 
 ## Sachverhalt
 
-Die Solaris Familienholding AG (Augsburg) beabsichtigt den Verkauf ihrer Sparte „Precision Drive Systems" (PDS), die in der Solaris Industries AG (HRB 14572, AG Augsburg) gebündelt ist. Käuferin ist der PE-Fonds Eagle Capital Partners GmbH & Co. KG (Frankfurt). Der Enterprise Value beträgt ca. EUR 180 Mio. bei einem bereinigten EBITDA von ca. EUR 38 Mio. (2023). Die Transaktion wird als strukturierter Bieterprozess durchgeführt (Sell-side Advisor: Meridian Corporate Finance GmbH, München); MWK Rechtsanwälte ist exklusiver Buy-side Legal und Tax Counsel (Projekt-Codename: **Silberfalke**, Aktenzeichen MWK/2024/SIL-001).
+Die Solaris Familienholding AG (Augsburg) beabsichtigt den Verkauf ihrer Sparte "Precision Drive Systems" (PDS), die in der Solaris Industries AG (HRB 14572, AG Augsburg) gebündelt ist. Käuferin ist der PE-Fonds Eagle Capital Partners GmbH & Co. KG (Frankfurt). Der Enterprise Value beträgt ca. EUR 180 Mio. bei einem bereinigten EBITDA von ca. EUR 38 Mio. (2023). Die Transaktion wird als strukturierter Bieterprozess durchgeführt (Sell-side Advisor: Meridian Corporate Finance GmbH, München); MWK Rechtsanwälte ist exklusiver Buy-side Legal und Tax Counsel (Projekt-Codename: **Silberfalke**, Aktenzeichen MWK/2024/SIL-001).
 
 Die Transaktion weist besondere Komplexität auf: Es handelt sich um einen **Carve-out** mit notwendiger Vorab-Ausgliederung der Solaris Service GmbH, einen potenziellen **Share Deal** nach Variante C des Strukturmemos, **Exportkontrollrisiken** (BAFA, Dual-Use), eine **W&I-Versicherung** sowie US-steuerliche Aspekte der Delaware-Tochtergesellschaft. Hinzu kommen eine Change-of-Control-Problematik beim größten Kunden (EUR 28 Mio. p.a.) und ein fehlender IP-Abtretungsvertrag aus dem Gründungsjahr 2018.
 

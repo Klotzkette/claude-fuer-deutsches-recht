@@ -1,6 +1,6 @@
 ---
 name: einreichung-fax-und-grenzen
-description: "Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestaetigung und Risiken durch Verlust oder unleserliche Uebertragung."
+description: "Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung."
 ---
 
 # Einreichung per Fax — was noch geht

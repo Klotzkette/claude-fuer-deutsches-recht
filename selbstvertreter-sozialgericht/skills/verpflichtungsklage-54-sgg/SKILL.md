@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsklage-54-sgg
-description: "Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext fuer Buerger."
+description: "Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger."
 ---
 
 # Die Verpflichtungsklage — § 54 Abs. 1 SGG

@@ -1,6 +1,6 @@
 ---
 name: marktabgrenzung-kontextanalyse
-description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35 GWB. Pruefraster ergebnisgetriebene Argumentation Parteistellung methodische Vorentscheidungen prozessualer Kontext. Output Kontext-Analysememo mit Verfahrensart Parteiposition und Routing-Empfehlung fuer Folge-Skills. Abgrenzung: gesamtbewertung-tragfaehigkeit fuer Gesamturteil nach der Analyse."
+description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35 GWB. Prüfraster ergebnisgetriebene Argumentation Parteistellung methodische Vorentscheidungen prozessualer Kontext. Output Kontext-Analysememo mit Verfahrensart Parteiposition und Routing-Empfehlung für Folge-Skills. Abgrenzung: gesamtbewertung-tragfähigkeit für Gesamturteil nach der Analyse."
 ---
 
 # Marktabgrenzung — Kontextanalyse
@@ -51,10 +51,10 @@ Der Output dieser Kontextanalyse fließt in alle nachfolgenden Prüfungsschritte
 
 ## Leitentscheidungen Kontextanalyse
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Rechtlicher und wirtschaftlicher Kontext als Ausgangspunkt Marktdefinition; saisonale Faktoren relevant.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 10-30 — Kontextfaktoren: Regulierung, Substitution, Technologie, Verhalten.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Kontext-Analyse Digitalmärkte; technologischer Wandel als dynamischer Faktor.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-15 (Kontext, Methodik, Ausgangspunkte)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: condictio-indebiti-813-bgb
-description: "Rueckforderung trotz Erfuellung einer einredebehafteten Verbindlichkeit nach § 813 BGB pruefen. Normen: § 813 BGB. Pruefraster: dauernde vs. temporaere Einreden, Verjaebrungseinrede, Tatbestandsmerkmale. Output: Pruefergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund."
+description: "Rückforderung trotz Erfüllung einer einredebehafteten Verbindlichkeit nach § 813 BGB prüfen. Normen: § 813 BGB. Prüfraster: dauernde vs. temporäre Einreden, Verjährungseinrede, Tatbestandsmerkmale. Output: Prüfergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund."
 ---
 
 # Condictio indebiti — § 813 BGB
@@ -19,18 +19,15 @@ description: "Rueckforderung trotz Erfuellung einer einredebehafteten Verbindlic
 
 ## Rechtsprechung
 
-BGH, Urt. v. 14.12.1955 – IV ZR 174/55, NJW 1956, 417 — § 813 Abs. 1 S. 2 BGB schließt die Rückforderung aus, wenn der Leistende die Einrede kannte; unwissentliche Leistung auf eine verjährte Forderung ist dagegen kondizierbar.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.04.2002 – III ZR 199/01, NJW 2002, 2091 — Nur dauernde Einreden — solche, die die Verbindlichkeit auf Dauer entkräften — lösen § 813 BGB aus; bloße Stundungsabreden oder die Einrede des nicht fälligen Anspruchs sind keine dauernden Einreden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.01.2014 – XI ZR 316/13, NJW 2014, 1230 — § 813 BGB ist neben § 814 BGB anwendbar, soweit der Leistende zwar die Einrede nicht kannte, aber wusste, dass er nicht schuldete; beide Normen schließen sich bei Tatbestandskonkurrenz nicht gegenseitig aus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 813 Rn. 1–35 (dauernde Einreden, Kenntnis, § 813 Abs. 2 BGB).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 813 Rn. 1–10.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 813 Rn. 1–30 (Abgrenzung dauernde/vorübergehende Einrede, Verjährung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 813 BGB ist ein Sonderfall der Leistungskondiktion. Er erlaubt die Rückforderung einer Leistung, die zur Erfüllung einer Verbindlichkeit erbracht wurde, gegen die dem Leistenden eine dauernde Einrede zustand.
@@ -95,13 +92,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 78/86 (als Urt. v. 17.03.1987 zitiert) geloescht: WRONG_TOPIC + falsche
-Fundstelle. Echtes Urteil (11.12.1986) behandelt Anfechtbarkeit der Vorausabtretung
-von Arbeitseinkommen (AnfG § 3, KO § 30/31) — kein Bezug zu § 813 BGB oder
-Verjaehrungseinrede. Zudem ist die Verjaehrungseinrede nach §§ 813 Abs. 1 S. 2,
-214 Abs. 2 BGB ausdruecklich ausgeschlossen (Kondiktionssperre). Falsche Rechtsaussage
-im Skill. NJW 1987, 1758 nicht verifizierbar; echtes Urteil hat NJW 1987, 1268.
-Verifiziert via dejure.org. Kein Ersatz ergaenzt.
--->

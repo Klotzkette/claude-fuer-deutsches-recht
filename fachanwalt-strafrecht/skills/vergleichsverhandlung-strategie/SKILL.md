@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich fuer prozessuale Einigung und Strafverteidiger will Verstaendigung Einstellung oder TOA vorbereiten. § 257c StPO Verstaendigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Pruefraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verstaendigung-257c-TOA-46a und zu Plaedoyer."
+description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich für prozessuale Einigung und Strafverteidiger will Verständigung Einstellung oder TOA vorbereiten. § 257c StPO Verständigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Prüfraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verständigung-257c-TOA-46a und zu Plaedoyer."
 ---
 
 # Verhandlungs- und Einigungsstrategie im Strafverfahren
@@ -34,7 +34,7 @@ Strafrechtsspezifische Interessen-Cluster:
 
 ### 3. Hebel und Grenzen im Strafverfahren
 
-- Gestaendnis als zentraler Hebel der Verstaendigung (BVerfG 2 BvR 2628/10 - Gestaendnis darf nicht erkauft werden, aber bleibt zentrale Bedingung).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadenswiedergutmachung / Zahlung an Verletzte oder gemeinnuetzige Einrichtung als Auflage bei § 153a StPO.
 - Beweisantraege als verfahrensoekonomischer Hebel (Erkenntnis: lange Beweisaufnahme oder Abkuerzung mit Strafmilderung).
 - Keine Druckdrohung mit Klage einreichen - das ist im Strafverfahren strukturell unzutreffend; die Anklage ist Sache der Staatsanwaltschaft, nicht des Verteidigers.
@@ -152,10 +152,7 @@ Strafrechtsspezifische Interessen-Cluster:
 
 ## Aktuelle Rechtsprechung Verstaendigung / Einigung
 
-- BVerfG, Beschl. v. 19.03.2013 - 2 BvR 2628/10, BVerfGE 133, 168 — Verstaendigungsgesetz 2009 ist verfassungskonform, aber strenge Transparenz- und Protokollierungspflichten; Gestaendnis muss inhaltlich ueberprueft werden; Verfahren ohne Protokollierung (§ 273 I a StPO) ist revisibel.
-- BGH, Beschl. v. 25.11.2016 - GSSt 1/16, BGHSt 62, 1 — Belehrungspflicht nach § 257c Abs. 5 StPO zwingend vor Gestaendnis; fehlt sie, ist Gestaendnis grundsaetzlich unverwertbar (widerlegliche Vermutung des Kausalzusammenhangs).
-- BGH, Urt. v. 18.09.2012 - 2 StR 92/12, NJW 2013, 247 — Mitteilungspflicht nach § 243 Abs. 4 StPO: jedes Vorgespraech mit Gericht oder StA muss in der Hauptverhandlung mitgeteilt werden; Verstoß ist absoluter Revisionsgrund, wenn Urteil darauf beruht.
-- BGH, Beschl. v. 28.09.2010 - 3 StR 359/10, NStZ 2011, 168 — TOA nach § 46a StGB setzt echte freiwillige Wiedergutmachungsleistung voraus; symbolische Zahlung ohne Kontakt zum Opfer genuegt nicht fuer vollen Strafmilderungseffekt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Verstaendigung
 

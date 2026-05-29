@@ -34,7 +34,7 @@ Das GX-900 ist ein elektrischer Apparat zur Steuerung und Signalverarbeitung. Es
 
 **Option A: Position 8537 – Tafeln, Schalter, Steuergeräte (≤ 1000 V)**
 
-> „Tafeln, Pults, Schränke, Pulte, Truhen und andere Schaltanlagen für eine Spannung von höchstens 1 000 V"
+> "Tafeln, Pults, Schränke, Pulte, Truhen und andere Schaltanlagen für eine Spannung von höchstens 1 000 V"
 
 8537 10 99: Sonstige Tafeln, Schalter und Steuergeräte, ≤ 1000 V, nicht anderweitig genannt.
 
@@ -45,7 +45,7 @@ Für das GX-900 spricht 8537:
 
 **Option B: Position 8471 – Automatische Datenverarbeitungsmaschinen (ADV)**
 
-> „Automatische Datenverarbeitungsmaschinen und ihre Einheiten..."
+> "Automatische Datenverarbeitungsmaschinen und ihre Einheiten..."
 
 Dagegen spricht:
 - Das GX-900 ist nicht zum Einsatz als allgemeine Datenverarbeitungsmaschine konzipiert.

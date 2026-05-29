@@ -133,7 +133,7 @@ Die folgenden Warnsignale sind sogenannte **Red Flags**. Wenn Sie eine davon bem
 ### Red Flags im Verhalten
 
 - Vertriebspartner oder Kunde bittet, keine schriftliche Dokumentation zu erstellen
-- Jemand bietet an, für „schnelle Freigabe" zu zahlen
+- Jemand bietet an, für "schnelle Freigabe" zu zahlen
 - Unklare oder wechselnde Erklärungen zum Geschäftszweck
 
 ---
@@ -154,11 +154,11 @@ Wenn Sie einen Verdachtsmoment bemerken:
 
 Wenn eine Verdachtsmeldung erstattet wird oder ein Prüfverfahren läuft, **darf niemand** den betroffenen Kunden darüber informieren. Das gilt ausnahmslos, auch wenn der Kunde fragt, warum eine Zahlung nicht bearbeitet wird. Erlaubte Formulierung:
 
-> „Wir befinden uns gerade in einem regulatorischen Prüfprozess. Wir melden uns so bald wie möglich."
+> "Wir befinden uns gerade in einem regulatorischen Prüfprozess. Wir melden uns so bald wie möglich."
 
 **Nicht erlaubt:**
-- „Wir haben Sie bei der FIU gemeldet."
-- „Die Compliance-Abteilung prüft Sie wegen Geldwäsche."
+- "Wir haben Sie bei der FIU gemeldet."
+- "Die Compliance-Abteilung prüft Sie wegen Geldwäsche."
 - Jede Andeutung des Verdachts.
 
 Ein Verstoß ist bußgeldbewehrt und kann die laufende Ermittlung gefährden.
@@ -195,7 +195,7 @@ Zur Veranschaulichung wird ein aktueller, vereinfacht anonymisierter Fall bespro
    *(a) Eine EU-Behörde (b) Die natürliche Person, die ein Unternehmen letztlich kontrolliert (c) Der Unternehmensberater (d) Eine Offshore-Gesellschaft)*
 
 3. Was dürfen Sie einem Kunden NICHT sagen, wenn eine Verdachtsmeldung läuft?  
-   *(a) „Wir rufen Sie zurück." (b) „Wir befinden uns in einem regulatorischen Prüfprozess." (c) „Wir haben Sie bei der FIU gemeldet." (d) „Bitte haben Sie etwas Geduld.")*
+   *(a) "Wir rufen Sie zurück." (b) "Wir befinden uns in einem regulatorischen Prüfprozess." (c) "Wir haben Sie bei der FIU gemeldet." (d) "Bitte haben Sie etwas Geduld.")*
 
 4. Was ist eine Drittzahlung?  
    *(a) Die dritte Zahlung in einer Reihe (b) Eine Zahlung von jemand anderem als dem Vertragspartner (c) Eine Zahlung über 300 EUR (d) Eine Zahlung an Behörden)*

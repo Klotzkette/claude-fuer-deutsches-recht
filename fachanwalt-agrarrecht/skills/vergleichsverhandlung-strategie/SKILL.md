@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Agrar-, Forst- und Lebensmittelrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Agrar-, Forst- und Lebensmittelrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Agrar-, Forst- und Lebensmittelrecht
@@ -160,17 +160,16 @@ Klassische Stolperfalle in Agrar-, Forst- und Lebensmittelrecht:
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 23.11.2018 — **BLw 4/17**, NJW-RR 2019, 215 Rn. 20: Prozessvergleich in Landwirtschaftssachen (LwVG) hat Vollstreckungswirkung nach § 794 Abs. 1 Nr. 1 ZPO; Widerrufsvorbehalt muss klar befristet werden; Abgeltungsklausel für alle zukünftigen Nachabfindungsansprüche bedarf ausdrücklicher Vereinbarung wegen § 13 HöfeO.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 25.03.2015 — **8 C 4.14**, BVerwGE 151, 388 Rn. 14: Verwaltungsrechtlicher Vergleich (öffentlich-rechtlicher Vertrag §§ 54 ff. VwVfG) ist im Agrarrecht zulässig; Behörde kann Sanktionsbescheid durch Vergleich modifizieren; Formerfordernis § 57 VwVfG (Schriftform) ist einzuhalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 14.03.2006 — **IV ZR 5/04**, NJW 2006, 1661 Rn. 12: Abgeltungsklauseln im Agrar-Vergleich (z.B. Pachtbeendigung gegen Zahlung) erfassen alle bekannten und von den Parteien bedachten Ansprüche; unbekannte künftige Schäden (z.B. spätere Bodenkontamination) sind nur ausgeschlossen bei ausdrücklicher Vereinbarung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung Vergleich Agrarrecht
 
 § 779 BGB (Vergleich) → §§ 54-62 VwVfG (öffentlich-rechtlicher Vertrag, Behördenvergleich) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich als Vollstreckungstitel) → § 13 HöfeO (Nachabfindungsanspruch — im Vergleich gesondert zu regeln) → § 593 BGB (Pachtzins-Anpassung — im Vergleich fixieren)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Stelkens/Bonk/Sachs, VwVfG, 10. Aufl. 2023, §§ 54-62: Öffentlich-rechtlicher Vertrag und Behördenvergleich; speziell §§ 54 ff. bei Agrarbehörden.
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. II (Verfahren und Einigung): Schlichtungsstellen, Vergleichsmuster im Landpachtrecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

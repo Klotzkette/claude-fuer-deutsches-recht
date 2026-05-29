@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-urteil-docx
-description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Pruefraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Tenor, Tatbestand, Entscheidungsgruende, Rechtsmittelbelehrung, Unterschriftenzeile. Output DOCX-Datei (und optional PDF) nach deutschem Gerichtsstandard. Abgrenzung: Inhalt des Urteils schreiben siehe entscheidungsgruende-zivil-schreiben, tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil."
+description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Prüfraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Tenor, Tatbestand, Entscheidungsgründe, Rechtsmittelbelehrung, Unterschriftenzeile. Output DOCX-Datei (und optional PDF) nach deutschem Gerichtsstandard. Abgrenzung: Inhalt des Urteils schreiben siehe entscheidungsgründe-zivil-schreiben, tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil."
 ---
 
 # Urteil rendern - DOCX und PDF im Gerichtslayout
@@ -17,10 +17,7 @@ Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layo
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.01.2016 - I ZR 90/14, GRUR 2016, 860 Rn. 18 — Wechsel eines Richters zu einem anderen Spruchkörper begründet keinen Verhinderungsgrund i.S.d. § 315 Abs. 1 Satz 2 ZPO; fehlende Unterschrift eines mitwirkenden Richters ist absoluter Revisionsgrund nach § 547 Nr. 6 ZPO.
-- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Fehlende Unterschrift eines Richters führt zu Nichtigkeit des Urteils; Heilung nur in engen Grenzen möglich.
-- BGH, Urt. v. 27.03.2019 - IV ZR 76/18, NJW 2019, 1742 — Urteil muss Rubrum mit vollständigen Parteibezeichnungen enthalten; Fehler im Rubrum können per Berichtigungsbeschluss korrigiert werden (§ 319 ZPO).
-- BVerfG, Beschl. v. 30.06.2014 - 1 BvR 2340/13, NJW 2014, 3219 — Formvorschriften für gerichtliche Entscheidungen sind aus Rechtssicherheitsgründen strikt einzuhalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,11 +27,9 @@ Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layo
 - § 319 ZPO — Berichtigung offenbarer Unrichtigkeiten
 - § 130b ZPO — elektronisches Dokument (beA-Signaturen)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 1-30 (Urteilsinhalt)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 315 Rn. 1-15 (Unterschrift)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Wahlfragen stellen** (s. oben: Dokumenttyp, Format, Tenor-Variante).

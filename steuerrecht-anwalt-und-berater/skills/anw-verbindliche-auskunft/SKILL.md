@@ -1,6 +1,6 @@
 ---
 name: anw-verbindliche-auskunft
-description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebuehrenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebuehrenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile."
+description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile."
 ---
 
 # Verbindliche Auskunft nach § 89 Abs. 2 AO
@@ -70,7 +70,7 @@ Präzise Fragen z. B.:
 - Subsumtion unter die einschlägigen Normen.
 - BFH-Rechtsprechung mit Pinpoint.
 - BMF-Schreiben.
-- Kommentarliteratur mit Bearbeiter Werk Auflage Jahr Rn.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ### 6. Anlagen
 
@@ -91,8 +91,7 @@ Präzise Fragen z. B.:
 - Bindet das FA wenn der später verwirklichte Sachverhalt mit dem Antrag übereinstimmt.
 - Keine Bindung bei abweichender Verwirklichung oder bei später geänderter Rechtslage zugunsten des Antragstellers (§ 2 Nr. 4 StAuskV).
 - Bindet die Finanzgerichte **nicht** — der Steuerpflichtige kann ggf. später eine bessere Auffassung gerichtlich durchsetzen.
-- BFH, Urt. v. 9.10.2013 – Az. IX R 12/14 (Bindung Reichweite).
-- BFH, Urt. v. 18.2.2014 – Az. V R 19/13 (Sachverhalts-Identität).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 

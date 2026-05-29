@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-stakeholder-strategie-ergebnis-liquiditaet
-description: "IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Pruefraster: Erkennungsmerkmale je Stadium, Diagnose-Checklisten, Handlungskorridore, Eskalationspflichten. Output Krisenstadium-Diagnose, Massnahmen-Empfehlung je Stadium. Abgrenzung: Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform; Warnpflicht siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern."
+description: "IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadium, Diagnose-Checklisten, Handlungskorridore, Eskalationspflichten. Output Krisenstadium-Diagnose, Massnahmen-Empfehlung je Stadium. Abgrenzung: Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform; Warnpflicht siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern."
 ---
 
 # Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
@@ -17,7 +17,7 @@ Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie i
 - § 17 InsO (eingetretene Zahlungsunfähigkeit)
 - § 19 InsO (Überschuldung)
 - § 29 Abs. 2 StaRUG (Zugangsschwelle: drohende ZU muss vorliegen)
-- BGH IX ZR 285/14 (frühzeitige Krisendiagnose als Beraterpflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -159,7 +159,7 @@ Unterschrift GF: ___________________ Datum: ___________
 
 ## Fallstricke
 
-1. **Stadium zu spät erkannt** — die häufigste und teuerste Fehlleistung. Stakeholder- und Strategiekrise werden als „normales Marktgeschehen" abgetan, bis die Liquiditätskrise plötzlich da ist.
+1. **Stadium zu spät erkannt** — die häufigste und teuerste Fehlleistung. Stakeholder- und Strategiekrise werden als "normales Marktgeschehen" abgetan, bis die Liquiditätskrise plötzlich da ist.
 
 2. **Stadiensprünge unterschätzen** — in wirtschaftlich turbulenten Phasen kann ein Unternehmen mehrere Stadien in wenigen Monaten überspringen (z.B. externe Schocks wie Lieferkettenkrisen).
 
@@ -182,10 +182,7 @@ Unterschrift GF: ___________________ Datum: ___________
 
 ## Weitere Leitentscheidungen — Krisenstadien und Stakeholder
 
-- BGH, Urt. v. 04.05.2017 — IX ZR 285/16, NZI 2017, 617 — Krisenstadium und Handlungspflichten: je spaeter im Krisenstadium desto hoeher die Haftungsrisiken; Fruehstadium (Ertragskrise) gibt am meisten Spielraum; Spaete Liquiditaetskrise: Antragspflicht immanent.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Stakeholder-Information in der Krise: Bank frueizeitig informieren erhoeht Sanierungschancen; verspaetete Information kann als Arglist ausgelegt werden.
-- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Stakeholder-Verhandlungen und Anfechtung: Stundungsvereinbarungen mit Glaeubigern in der Krise sind Kenntnisanzeichen fuer § 130 InsO; dokumentierte Verhandlungen mit realistischem Sanierungs-Plan schutzen.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vertrauensschutz bei Sanierungsversuch: Stakeholder, die einen echten Sanierungs-Plan unterstuetzen, sind vor spaeterer Anfechtung geschuetzt wenn ex ante schlussiges Konzept vorlag.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — Krisenstadien-Einordnung
 

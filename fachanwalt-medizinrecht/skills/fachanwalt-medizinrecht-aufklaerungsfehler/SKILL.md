@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-aufklaerungsfehler
-description: "Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risikoaufklaerung. Form muendlich persoenlich rechtzeitig vor Eingriff. Inhalt Diagnose Verlauf Alternativen Risiken Nachteile. Beweislast § 630h Abs. 2 BGB Arzt fuer Aufklaerung. Hypothetische Einwilligung als Verteidigung BGH VI ZR 130/16. Mutmassliche Einwilligung Notfall. Substantiierter Entscheidungskonflikt BGH VI ZR 260/93. Schadensersatz fuer Folge des nicht aufgeklaerten Risikos."
+description: "Workflow-Skill zu fachanwalt medizinrecht aufklaerungsfehler. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Aufklärungsfehler
@@ -8,7 +8,7 @@ description: "Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risi
 ## Kaltstart-Rückfragen
 
 1. Welcher Eingriff war Gegenstand der Aufklärung — Operation, invasive Diagnostik, Medikamentengabe, Off-Label-Use?
-2. Wann erfolgte die Aufklärung — bei stationären Eingriffen genügt Aufklärung im Verlaufe des Vortages grundsätzlich (BGH VI ZR 131/02, Urt. v. 25.03.2003); bei ambulanten Eingriffen ist Aufklärung am Tag des Eingriffs grundsätzlich ausreichend (BGH VI ZR 178/93, Urt. v. 14.06.1994); ergänzend BGH VI ZR 375/21, Urt. v. 20.12.2022: keine zwingende Sperrfrist zwischen Aufklärung und Einwilligung.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Wer hat aufgeklärt — Operateur, anderer Arzt, qualifizierte Mitarbeiter? Lagen Aufklärungsbögen unterschrieben vor?
 4. Welche Risiken wurden besprochen oder unterlassen — eingriffsspezifische Risiken, Alternativen, Nachbehandlung?
 5. Welcher Schaden ist eingetreten und ist er von der unterlassenen Aufklärung umfasst?
@@ -21,23 +21,17 @@ description: "Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risi
 - Aufklärungspflicht § 630e Abs. 1 BGB — über sämtliche für die Einwilligung wesentlichen Umstände, insbesondere Art, Umfang, Durchführung, zu erwartende Folgen, Risiken, Notwendigkeit, Dringlichkeit, Eignung, Erfolgsaussichten der Maßnahme und Alternativen.
 - Form § 630e Abs. 2 BGB — mündlich, persönlich durch den Behandelnden oder eine Person mit notwendiger Ausbildung, rechtzeitig vor dem Eingriff so dass Patient wohlüberlegt entscheiden kann. Schriftliche Bögen ergänzen aber ersetzen Gespräch nicht.
 - Rechtzeitigkeit — bei stationären Operationen Vortag oder davor; bei ambulanten Eingriffen zumindest am Tag selbst aber vor Beginn der Vorbereitung.
-- Verständlichkeit — sprachlich angepasst, ggf. Dolmetscher. Bei Sprachbarriere: BGH VI ZR 198/10 — Dolmetscher-Pflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Selbstbestimmungsaufklärung: ihre Verletzung führt zur Rechtswidrigkeit der Behandlung und damit Haftung für jeden eingetretenen Schaden (§§ 823 Abs. 1, 280 BGB).
 - Beweislast § 630h Abs. 2 BGB — Behandelnder muss Aufklärung und wirksame Einwilligung darlegen und beweisen.
-- Hypothetische Einwilligung als Verteidigungsmittel: Arzt muss substantiiert vortragen Patient hätte bei ordnungsgemäßer Aufklärung gleichwohl eingewilligt — strenger Maßstab BGH VI ZR 130/16, Urt. v. 11.10.2016.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mutmaßliche Einwilligung § 630d Abs. 1 Satz 4 BGB: bei Notfall und fehlender Einwilligungsfähigkeit nach dem mutmaßlichen Willen handeln.
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 25.03.2003 — **VI ZR 131/02**: Vortag bei stationärem Eingriff ausreichend.
-- BGH, Urt. v. 14.06.1994 — **VI ZR 178/93**: ambulant — Tag des Eingriffs ausreichend.
-- BGH, Urt. v. 20.12.2022 — **VI ZR 375/21**: keine zwingende Sperrfrist.
-- BGH, Urt. v. 14.06.1994 — **VI ZR 260/93**: plauisibler Entscheidungskonflikt — konkrete persönliche Gründe, nicht bloße Behauptung.
-- BGH, Urt. v. 11.10.2016 — **VI ZR 130/16**: strenger Maßstab hypothetische Einwilligung; individueller Vortrag notwendig.
-- BGH, Urt. v. 13.06.2006 — **VI ZR 323/04**: Aufklärung über neue Behandlungsmethode (Neulandmethode) mit unbekannten Risiken erforderlich; Patient muss darueber informiert werden dass unbekannte Risiken derzeit nicht auszuschliessen sind (BGHZ 168, 103).
-- BGH, Urt. v. 10.12.2019 — **VI ZR 198/10**: Sprachbarriere — Dolmetscher-Pflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Standardliteratur: Geiß/Greiner Arzthaftpflichtrecht Kap. C; Spickhoff Medizinrecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast und Verteidigungsstrategie
 
@@ -63,7 +57,7 @@ Standardliteratur: Geiß/Greiner Arzthaftpflichtrecht Kap. C; Spickhoff Medizinr
 | 6 | Schriftlicher Bogen als Ergänzung | § 630h Abs. 2 BGB | Individualisiert oder Standardformular? |
 | 7 | Beweislast Aufklärung | § 630h Abs. 2 BGB | Arzt muss Aufklärung beweisen |
 | 8 | Kausalität | BGH-Rspr. | Eingetretene Folge ist von nicht aufgeklärtem Risiko umfasst? |
-| 9 | Hypothetische Einwilligung | BGH VI ZR 130/16 | Arzt-Verteidigung: individueller Vortrag? Patient: Entscheidungskonflikt substantiiert? |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Schadensumfang | §§ 249, 253 BGB | Alle Folgen der rechtswidrigen Behandlung |
 
 ## Häufige Aufklärungsmängel
@@ -140,16 +134,15 @@ Anlagen:
 
 | Einwand Arzt | Reaktion Patient |
 |---|---|
-| Standardbogen liegt vor | Allein Bogen ohne Gespräch unzureichend (BGH VI ZR 131/02); Individualisierung fehlt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Eilsituation — mutmaßliche Einwilligung | § 630d Abs. 1 Satz 4 BGB: Eilsituation muss dokumentiert sein; Grenze bei planbaren Eingriffen |
-| Hypothetische Einwilligung — Patient hätte zugestimmt | Strenger Maßstab BGH VI ZR 130/16; individueller Vortrag erforderlich; Mandant schildert konkreten Entscheidungskonflikt |
-| Telefon-Aufklärung | BGH VI ZR 96/05 — persönliches Gespräch grundsätzlich notwendig |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Begleitperson hat zugestimmt | Eigene Einwilligung des einwilligungsfähigen Patienten erforderlich; Begleitperson kann nur ergänzen |
 
 ## Streitwert und Kosten
 
 - Schmerzensgeld bei rechtswidriger Körperverletzung ohne Behandlungsfehler: 3.000–50.000 EUR je nach Schwere.
-- Vergleichswert: BGH Tabellen + Hacks/Wellner/Häcker.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Sachverständige zum Aufklärungsstandard: 5.000–15.000 EUR.
 - LG-Kosten bei 20.000 EUR: ca. 979 EUR.
 - RVG Anwalt bei 20.000 EUR: ca. 2.000 EUR netto.
@@ -164,13 +157,11 @@ Anlagen:
 ## Quellen
 
 - BGB §§ 630c, 630d, 630e, 630h, 823, 253, 249
-- BGH VI ZR 131/02; VI ZR 178/93; VI ZR 375/21; VI ZR 260/93; VI ZR 130/16; VI ZR 323/04; VI ZR 198/10
-- Geiß/Greiner Arzthaftpflichtrecht Kap. C
-- Spickhoff Medizinrecht, 3. Aufl.
-- Hacks/Wellner/Häcker Schmerzensgeld-Beträge
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 <!-- AUDIT 27.05.2026
-BGH VI ZR 87/15 entfernt: Aktenzeichen nicht auf dejure.org oder bundesgerichtshof.de auffindbar;
 Datum 28.01.2014 fuer ein 2015-AZ unmoeglich (chronologischer Widerspruch).
 Ersatz: BGH VI ZR 323/04 (13.06.2006, BGHZ 168, 103) — verifiziert auf dejure.org;
 betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich passend.

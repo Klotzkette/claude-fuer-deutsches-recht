@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-sperrzeit-prognose
-description: "Mandant hat Aufhebungsvertrag erhalten und fragt ob er Sperrzeit beim Arbeitslosengeld riskiert. Pruefraster wichtiger Grund § 159 SGB III Selbst-Kuendigungsaequivalenz. Faustformel Abfindungsschutz 0.25 bis 0.5 Bruttomonatsgehalt pro Jahr nach BAG 2 AZR 254/12. Konkurrenz Ruhenszeit § 158 SGB III bei Abfindungs-Anrechnung. Soziale Gruende familiär gesundheitlich krankheitsbedingt als Ausnahme. Output Prognose-Memo mit Sperrzeit-Risiko-Ampel und Empfehlung Abfindungshoehe. Abgrenzung: Kuendigungsschutzklage als Alternative wenn KSchG anwendbar."
+description: "Workflow-Skill zu aufhebungsvertrag sperrzeit prognose. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Aufhebungsvertrag — Sperrzeit-Prognose
@@ -30,7 +30,7 @@ Aufhebungsverträge führen häufig zu Sperrzeit beim Arbeitslosen-Geld (§ 159 
 
 - "Wer das Beschäftigungs-Verhältnis durch Aufhebungsvertrag löst"
 - Auch beim Arbeitgeber-Initiierten Aufhebungsvertrag — wenn Arbeitnehmer mit-wirkt
-- BSG B 11 AL 50/06 R zur Mitwirkung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Folge Sperrzeit
 
@@ -45,7 +45,7 @@ Aufhebungsverträge führen häufig zu Sperrzeit beim Arbeitslosen-Geld (§ 159 
 
 - **Vernünftige Person an Stelle des Arbeitnehmers** hätte gleichermaßen gehandelt
 - Sachlicher Grund den Arbeitnehmer akzeptieren konnte
-- BSG B 11 AL 47/00 R Standard-Linie
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellationen wichtiger Grund
 
@@ -74,7 +74,7 @@ Aufhebungsverträge führen häufig zu Sperrzeit beim Arbeitslosen-Geld (§ 159 
 - Schriftverkehr bei Mobbing
 - Auseinandersetzungs-Dokumentation
 
-## Schritt 3 — BAG 2 AZR 254/12 Abfindungs-Schutz vor Sperrzeit
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kernaussage
 
@@ -84,8 +84,7 @@ Aufhebungsverträge führen häufig zu Sperrzeit beim Arbeitslosen-Geld (§ 159 
 
 ### BSG-Linie
 
-- BSG B 7 AL 14/10 R
-- BSG B 11 AL 24/15 R
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - "Vernunft" der Aufhebungsvereinbarung wenn Abfindungs-Vereinbarung im erwarteten Korridor
 
 ### Praktische Anwendung
@@ -334,7 +333,6 @@ und die Empfehlung verstanden habe."
 - SGB X § 84
 - KSchG §§ 9 10
 - EStG §§ 24 34
-- BSG B 11 AL 47/00 R B 7 AL 14/10 R B 11 AL 50/06 R
-- BAG 2 AZR 254/12
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAG zur Anwalts-Haftung
 - Krodel Sperrzeit-Recht

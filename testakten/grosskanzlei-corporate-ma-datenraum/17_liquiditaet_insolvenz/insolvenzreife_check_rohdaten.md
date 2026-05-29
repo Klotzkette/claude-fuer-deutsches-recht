@@ -6,7 +6,7 @@
 **Adressat:** Deal Team / Eagle Capital Partners — Intern  
 **Methodik:** Dreistufenprüfung nach §§ 17–19 InsO
 
-> **Grundsatz:** Dieser Check gibt nicht „grün", wenn Datenlücken bestehen. Fehlende Informationen werden als Risikopositionen ausgewiesen und Nachforderungen gestellt.
+> **Grundsatz:** Dieser Check gibt nicht "grün", wenn Datenlücken bestehen. Fehlende Informationen werden als Risikopositionen ausgewiesen und Nachforderungen gestellt.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: common-law-representations-warranties-covenants
-description: "Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Pruefraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Period Breach-Remedies. Output Klausel-Klassifikation Risikomatrix. Abgrenzung zu common-law-ma-commercial-drafting (Drafting) und common-law-surety-guarantee-indemnity (Sicherheiten)."
+description: "Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Period Breach-Remedies. Output Klausel-Klassifikation Risikomatrix. Abgrenzung zu common-law-ma-commercial-drafting (Drafting) und common-law-surety-guarantee-indemnity (Sicherheiten)."
 ---
 
 # Representations, Warranties und Covenants

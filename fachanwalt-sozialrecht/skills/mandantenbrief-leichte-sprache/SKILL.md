@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-leichte-sprache
-description: "Erklaerung eines sozialrechtlichen Bescheids fuer den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begruendung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet fuer kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei."
+description: "Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei."
 ---
 
 # Mandantenbrief in Einfacher oder Leichter Sprache
@@ -25,10 +25,10 @@ Mandanten verstehen Bescheide nicht — und nicht selten auch Anwaltspost nicht.
 ## Pflichtelemente jedes Briefs
 
 1. **Anrede persönlich** (Frau / Herr, keine Floskeln)
-2. **Tenor in einem Satz** („Die Krankenkasse hat Ihren Antrag abgelehnt.")
+2. **Tenor in einem Satz** ("Die Krankenkasse hat Ihren Antrag abgelehnt.")
 3. **Begründung in maximal drei Sätzen**
-4. **Konkrete Frist als Datum** (nicht „innerhalb eines Monats", sondern „bis Mittwoch, dem 15. Juli 2026")
-5. **Konkrete nächste Handlung** („Bitte unterschreiben Sie das beigelegte Formular und bringen es bis [Datum] in unser Buero.")
+4. **Konkrete Frist als Datum** (nicht "innerhalb eines Monats", sondern "bis Mittwoch, dem 15. Juli 2026")
+5. **Konkrete nächste Handlung** ("Bitte unterschreiben Sie das beigelegte Formular und bringen es bis [Datum] in unser Buero.")
 6. **Telefonzeit der Anwaltskanzlei**
 7. **Hinweis auf Eilbedarf falls vorhanden**
 
@@ -148,18 +148,14 @@ Olaf Tannenberg ist Diplom-Ingenieur, Standardbrief reicht. Seine Mutter Margare
 
 1. Sprachkompetenz-Level des Mandanten: B1, A2 oder Leichte Sprache? — kurze Rückfrage an Mandant oder Betreuungsperson
 2. Kognitive Einschränkung oder Betreuung? — bei rechtlicher Betreuung Brief an Betreuer adressieren, Kopie an Mandanten
-3. Ist die Frist im Brief ein konkretes Datum (nicht „innerhalb eines Monats")? — Pflicht
+3. Ist die Frist im Brief ein konkretes Datum (nicht "innerhalb eines Monats")? — Pflicht
 4. Hat Mandant eine Vertrauensperson, die bei der Umsetzung des nächsten Schritts hilft?
 5. Übersetzungsbedarf? (§ 19 VwVfG / § 61 SGB X — bei Sprachbarriere)
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 17.04.2008 - B 13 R 123/07 R, SozR 4-1200 § 14 Nr. 9 Rn. 17 — Die Informationspflicht der Behörde nach § 14 SGB I schließt eine verständliche Kommunikation ein; eine rein formelle, juristisch korrekte, aber für den Adressaten unverständliche Bescheidsprache verletzt die Beratungspflicht.
-- BSG, Urt. v. 26.07.2016 - B 4 AS 54/15 R, SozR 4-4200 § 33 Nr. 3 Rn. 14 — Bei kognitiv beeinträchtigten oder sprachlich nicht hinreichend versierten Leistungsberechtigten müssen Behörden Bescheide so gestalten, dass die wesentlichen Rechte und Pflichten erkennbar sind; andernfalls ist die Rechtsbehelfsbelehrung fehlerhaft und die Jahresfrist gilt.
-- BSG, Urt. v. 20.12.2012 - B 11 AL 25/12 R, SozR 4-1300 § 25 Nr. 3 Rn. 20 — Die Akteneinsicht nach § 25 SGB X umfasst alle Unterlagen, die der Behörde zur Vorbereitung der Entscheidung gedient haben; sie darf nicht mit bürokratischem Aufwand erschwert werden, der den Berechtigten faktisch ausschließt.
-- BVerfG, Beschl. v. 12.05.2005 - 1 BvR 569/05, BVerfGK 5, 237 Rn. 26 — Das Gebot effektiven Rechtsschutzes (Art. 19 Abs. 4 GG) verlangt, dass prozessuale und behördliche Fristen tatsächlich nutzbar sind; bei Beeinträchtigungen der Handlungsfähigkeit kann Wiedereinsetzung geboten sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kasseler Kommentar Sozialversicherungsrecht, Mrozynski § 14 SGB I Rn. 20 ff. (verständliche Kommunikation)
-- Netzwerk Leichte Sprache / DIN SPEC 33429 — Regelwerk Leichte Sprache
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

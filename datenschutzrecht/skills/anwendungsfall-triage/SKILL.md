@@ -1,6 +1,6 @@
 ---
 name: anwendungsfall-triage
-description: "Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Pruefraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
+description: "Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Datenschutz-Triage neuer Verarbeitungsvorgänge
@@ -45,21 +45,21 @@ die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
 
 ### Leitentscheidungen
 
-- `EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2613 Rn. 91 ff. (Schrems II)`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
   Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
-- `EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 203 Rn. 45 ff. (Schufa-Scoring)`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
   maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
-- `BGH, Urt. v. 12.10.2021 – VI ZR 488/19, NJW 2022, 1314 Rn. 20 ff.`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
-- `BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 Rn. 95 ff.`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
   (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
 
 ### Kommentare
 
-- `Kühling/Buchner (Hrsg.), DSGVO/BDSG, 4. Aufl. 2024, Art. 35 DSGVO Rn. 10 ff.`
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
   — DSFA-Pflicht, Schwellenwerte, Verhältnis zu nationalen Listen.
 - `Simitis/Hornung/Spiecker (Hrsg.), DSGVO, 2. Aufl. 2022, Art. 6 Rn. 30 ff.`
   — Rechtsgrundlagen; berechtigtes Interesse als Auffangtatbestand.
@@ -87,7 +87,7 @@ Konfiguriertes Prüfraster aus CLAUDE.md lesen. Trigger erfüllt → mindestens
 
 **Pflichttatbestände (Art. 35 Abs. 3, DSK-Positivliste):**
 - Systematische automatisierte Bewertung persönlicher Aspekte inkl. Profiling mit
-  erheblichen Auswirkungen (Art. 22 DSGVO; vgl. EuGH C-634/21).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9 DSGVO).
 - Systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.
 
@@ -131,9 +131,9 @@ Begründung: [1–3 Sätze]
 | Eintrag Verarbeitungsverzeichnis (Art. 30) | DSB | ☐ |
 
 **Rechtsgrundlage (Art. 6 DSGVO):** [lit. a Einwilligung / lit. b Vertrag /
-lit. c rechtliche Verpflichtung / lit. f berechtigte Interessen — oder „unklar"]
+lit. c rechtliche Verpflichtung / lit. f berechtigte Interessen — oder "unklar"]
 
-Nach Klassifikation immer anbieten: „Soll ich jetzt direkt mit der DSFA beginnen?"
+Nach Klassifikation immer anbieten: "Soll ich jetzt direkt mit der DSFA beginnen?"
 
 *Bei STOPP:*  
 Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisieren
@@ -141,7 +141,7 @@ Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisie
 
 ### Schritt 6: Weiterleitung
 
-- **KI-Governance:** Automatisierte Entscheidungen (Art. 22; EuGH C-634/21) → parallel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   KI-Folgenabschätzung erwägen.
 - **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
   94 BetrVG) prüfen.
@@ -167,18 +167,18 @@ automatisierte Kreditentscheidung.
 
 **Klassifikation:** DSFA PFLICHT — Art. 35 Abs. 3 lit. a DSGVO: systematische
 automatisierte Bewertung persönlicher Aspekte mit erheblichen Auswirkungen
-(Kreditablehnung). Zugleich Tatbestand Art. 22 Abs. 1 DSGVO. Nach EuGH C-634/21
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Schufa-Scoring) reicht es, dass Dritte maßgeblich auf das Scoring abstellen.
 DSB-Konsultation und Verarbeitungsverzeichnis-Eintrag (Art. 30) zwingend.
 
 ## Risiken und typische Fehler
 
-- **„Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
+- **"Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
   (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
-- **„Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
+- **"Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
   keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
-- **„Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
-- **„Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
+- **"Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
+- **"Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
   Verantwortlichen (Art. 4 Nr. 7 DSGVO).
 - **Inferred Data übersehen:** Score, Risikoklasse, Präferenz = personenbezogenes Datum.
 
@@ -188,13 +188,13 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 Jede Klassifikation muss nennen: einschlägige DSGVO-/BDSG-Normen mit Artikel/Absatz,
 DSK-Listenfundstelle bei DSFA-Pflicht, einschlägige Rechtsprechung in korrekter
-Zitierweise, Kommentare in Bearbeiterstil.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 Beispiel Rechtsprechung:
-`EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2613 Rn. 91 ff. (Schrems II)`
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Beispiel Kommentar:
-`Kühling/Buchner/Bäcker, DSGVO/BDSG, 4. Aufl. 2024, Art. 35 DSGVO Rn. 10`
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Quellen / Updates
 
@@ -207,8 +207,7 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen der DSK-Blacklist/Whitelist 
 
 ## Aktuelle Rechtsprechung (Ergaenzung v14.2)
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Gemeinsame Verantwortlichkeit nach Art. 26 DSGVO liegt vor, wenn Plattformbetreiber und Webseitenbetreiber (über Social Plugins) gemeinsam über Zwecke und Mittel der Verarbeitung entscheiden; Triage: Einstufung als Art. 26 oder Art. 28 DSGVO ist Vorfrage jeder Verarbeitungsanalyse.
-- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: Zur Rechtsgrundlage für die Verarbeitung von Beschäftigtendaten; § 26 BDSG als lex specialis gegenüber Art. 6 Abs. 1 lit. b DSGVO — Triage muss bei Beschäftigungsdaten immer § 26 BDSG prüfen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template — Triage-Ergebnis
 

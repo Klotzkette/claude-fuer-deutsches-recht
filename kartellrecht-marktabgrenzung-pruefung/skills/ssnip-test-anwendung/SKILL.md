@@ -1,6 +1,6 @@
 ---
 name: ssnip-test-anwendung
-description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Pruefraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios fuer vertiefte oekonometrische Analyse."
+description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Prüfraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios für vertiefte oekonometrische Analyse."
 ---
 
 # SSNIP-Test — Anwendung
@@ -60,16 +60,13 @@ Leitfälle:
 
 ## Leitentscheidungen SSNIP-Test
 
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Cellophane-Fallacy Vorlaeufer; Preise bei Marktmacht-Ausschluss abweichend; Ausgangspreis muss korrigiert werden.
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — SSNIP-Prinzip zur Identifikation naher Substitute; Bananenmarkt als Pionierfall.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Horizontal Merger Guidelines 2004, Rn. 18-21 — SSNIP-Test als primaere Methode; kritische Verlustanalyse; Cellophane Fallacy Einschraenkung.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — SSNIP Methodologie; hypothetischer Monopolisten-Test als konsistenter Ansatz; Abweichung begruendungspflichtig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 5-30 (Marktabgrenzungsmethoden, SSNIP, HMT)
-- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 102 AEUV Rn. 80-120 (Marktdefinition EK-Praxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Dokumentation
 
 ```

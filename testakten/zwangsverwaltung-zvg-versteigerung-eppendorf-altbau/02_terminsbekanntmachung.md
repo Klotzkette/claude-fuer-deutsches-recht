@@ -29,8 +29,8 @@ Aktenzeichen: 71 K 18/26
 - Bieter müssen die Sicherheitsleistung in zulässiger Form erbringen.
 - Maßgeblich sind die gerichtlichen Versteigerungsbedingungen im Termin.
 
-## Foto-/Anlagenplatzhalter
+## Foto-/Anlagenbeschreibungen
 
-- `[FOTO-PLATZHALTER: Straßenansicht Altbau, keine echte Fotodatei]`
-- `[FOTO-PLATZHALTER: Grundriss Wohnung Nr. 9, keine echte Fotodatei]`
-- `[FOTO-PLATZHALTER: Lagekarte Eppendorf, keine echte Kartendatei]`
+- `[FOTO-BESCHREIBUNG: Straßenansicht Altbau, keine echte Fotodatei]`
+- `[FOTO-BESCHREIBUNG: Grundriss Wohnung Nr. 9, keine echte Fotodatei]`
+- `[FOTO-BESCHREIBUNG: Lagekarte Eppendorf, keine echte Kartendatei]`

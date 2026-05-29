@@ -81,7 +81,7 @@ Im Einzelnen werden folgende Zahlungen geltend gemacht:
 
 | Datum | Empfänger | Betrag (EUR) | Bemerkung |
 |---|---|---:|---|
-| 03.01.2013 | Stefan Berger privat (Privatentnahme) | 12.000,00 | Verwendung „Tilgung Privatdarlehen Sparkasse Kiel"; keinerlei Bezug zum Geschäftsbetrieb |
+| 03.01.2013 | Stefan Berger privat (Privatentnahme) | 12.000,00 | Verwendung "Tilgung Privatdarlehen Sparkasse Kiel"; keinerlei Bezug zum Geschäftsbetrieb |
 | 08.01.2013 | Geschäftsführer-Gehalt Januar 2013 (Stefan Berger Anteil) | 4.920,00 | Auszahlung trotz Zahlungs-Unfähigkeit |
 | 08.01.2013 | Geschäftsführer-Gehalt Januar 2013 (Katrin Berger Anteil) | 4.920,00 | dito; gleichermaßen zugerechnet, da Berger als Allein-Verantwortlicher für Gehaltszahlung an beide GFs handelte |
 | 12.01.2013 | X-Mode KG (Lieferant) | 8.420,00 | Zahlung an Lieferant ohne aktuelle Lieferung — Begünstigung Einzelgläubigers |

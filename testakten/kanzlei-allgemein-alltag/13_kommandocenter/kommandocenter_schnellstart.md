@@ -15,7 +15,7 @@ Das Kommandocenter ist die zentrale Eingabe-Schnittstelle der Kanzlei, über die
 
 ## 2. Beispiel-Nutzereingabe (Mischauftrag)
 
-> **Nutzer:** „Ich habe eine neue Sache, wahrscheinlich Anteilskauf mit Immobilienbezug, Mandant schickt Ausweis und Registerauszug, Frist nächste Woche, bitte Akte anlegen, GwG prüfen und später eine Replik in einer anderen Sache vorbereiten."
+> **Nutzer:** "Ich habe eine neue Sache, wahrscheinlich Anteilskauf mit Immobilienbezug, Mandant schickt Ausweis und Registerauszug, Frist nächste Woche, bitte Akte anlegen, GwG prüfen und später eine Replik in einer anderen Sache vorbereiten."
 
 ---
 

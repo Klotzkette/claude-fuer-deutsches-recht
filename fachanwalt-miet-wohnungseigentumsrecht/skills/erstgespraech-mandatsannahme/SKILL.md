@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht
@@ -162,19 +162,11 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze
 
-- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296 Rn. 28: Eigenbedarfskuendigung erfordert im Kuendigungsschreiben konkrete Angabe des Eigenbedarfsinteressenten und des Nutzungszwecks; formelhafte Angaben genuegen nicht (§ 573 Abs. 3 BGB).
-- BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113: Mietminderung setzt voraus, dass der Mieter den Mangel nicht selbst zu vertreten hat; beim Schimmel tragt der Vermieter die Beweislast fuer mangeladaequates Lueftungsverhalten des Mieters.
-- BGH, Urt. v. 25.10.2023 — VIII ZR 147/22, NJW 2024, 150 Rn. 18: Modernisierungsmieterhoehung nach § 559 BGB erfordert praezise Ankuendigung gemaess § 555c BGB; fehlende Angaben machen die Erhoehung nach Abschluss der Massnahme unwirksam.
-- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756: Betriebskostennachforderung verpflichtet bei Belegeinsichtsverlangen den Vermieter zur vollstaendigen Belegvorlage; Verweigerung berechtigt den Mieter zur Zahlungsverweigerung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — Standardwerk zu §§ 535 ff. BGB
-- Staudinger, BGB §§ 535–580a — dogmatische Tiefe Wohnraummietrecht
-- BeckOK Mietrecht — aktuelle Rechtsprechung laufend aktualisiert
-- Baermann, WEG, 15. Aufl. — Standardwerk WEG-Recht
-- Hausschild/Doerner, WEG-Reform 2020 — Erlaeuterung neues WEG
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.

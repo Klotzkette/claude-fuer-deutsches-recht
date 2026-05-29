@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-iwr-eu-us-dpf-data-privacy-framework
-description: "EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge fuer Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen ueber FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzueberschreitende Vertragsklauseln Updates."
+description: "EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates."
 ---
 
 # EU-US Data Privacy Framework — Folgen für Verträge
 
 ## Zweck
 
-Spezial-Mandat: Mandant hat US-Dienstleister (Cloud, SaaS, AI-API) und muss EU-DSGVO-konformen Datentransfer absichern. Seit 10.7.2023 ist der **EU-US Data Privacy Framework (DPF)** mit Angemessenheitsbeschluss (EU) 2023/1795 in Kraft — als Ersatz für Privacy Shield (Schrems II EuGH C-311/18 aufgehoben).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -23,7 +23,7 @@ Spezial-Mandat: Mandant hat US-Dienstleister (Cloud, SaaS, AI-API) und muss EU-D
 - **DSGVO Art. 45** — Übermittlung in Drittländer mit Angemessenheitsbeschluss
 - **DSGVO Art. 46** — Geeignete Garantien (SCC, BCR) — Fallback wenn DPF nicht greift
 - **EO 14086** Biden-Administration (Begrenzung US-Geheimdienst-Zugriff)
-- **EuGH C-311/18 Schrems II** (16.7.2020) — Standard-Maßstab
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow Vertragsklauseln-Update
 
@@ -75,10 +75,7 @@ Stand: 05/2026. Angemessenheitsbeschluss (EU) 2023/1795 (10.7.2023). EO 14086. S
 
 ### Ergaenzende Leitsaetze EU-US Datenuebermittlung
 
-- EuGH, Urt. v. 16.07.2020 - C-311/18 (Schrems II), NJW 2020, 2613 Rn. 121 — Privacy Shield ungueltig; Standardvertragsklauseln (SCC) koennen wirksam sein aber erfordern Einzelfallpruefung ob Drittland ausreichenden Schutz bietet.
-- EuGH, Urt. v. 04.10.2024 - C-446/21 (Schrems III, Meta), ECLI:EU:C:2024:834 — Meta darf keine Nutzerdaten zum Zweck personalisierter Werbung ohne klare Rechtsgrundlage Art. 6 DSGVO verarbeiten; DPF-Selbstzertifizierung entbindet nicht von DSGVO-Normen.
-- BGH, Urt. v. 15.02.2024 - I ZR 72/23, NJW 2024, 1234 — EU-US Data Privacy Framework (DPF) seit 10.07.2023: Datenuebermittlung in USA an DPF-zertifizierte Unternehmen datenschutzrechtlich zulaessig; Einzelfallpruefung im Gegensatz zu Schrems II nicht mehr erforderlich.
-- BVerwG, Urt. v. 12.10.2022 - 6 C 16.21, NJW 2023, 789 Rn. 28 — Einwilligung Art. 49 Abs. 1 lit. a DSGVO als Ausnahme fuer Drittlaender-Uebermittlung: wirksam wenn freiwillig, informiert und spezifisch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen EU-US DPF
 - DSGVO Art. 44-49 — Datenuebermittlung in Drittlaender

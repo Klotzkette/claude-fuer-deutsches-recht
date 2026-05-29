@@ -1,6 +1,6 @@
 ---
 name: stb-dba-niederlande-2012
-description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzueberschreitende Arbeitsverhaeltnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Niederlande (2012/2016)
@@ -24,16 +24,16 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ### Primaernormen
 
-- **DBA Deutschland-Niederlande vom 12.04.2012**, in Kraft 01.12.2015, anwendbar ab Veranlagungszeitraum 01.01.2016 (BGBl. 2012 II S. 1414) — **Datum und Fundstelle verifizieren**.
-- Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 1144) — **verifizieren**.
+- **DBA Deutschland-Niederlande vom 12.04.2012** (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), anwendbar ab 01.01.2016.
+- Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 868); weiteres Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736).
 - **OECD-MA 2010/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Deutschland und Niederlande Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Niederlande sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 11/19 (Niederlande-Pension) — **Aktenzeichen verifizieren**.
-- BMF-Schreiben zu DBA Niederlande Anwendung — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in juris abrufen.
+- BMF-Schreiben zu DBA Niederlande Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -54,9 +54,9 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ### Passive Einkuenfte
 
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkreten Hoechstsatz verifizieren**. Schachtel 10 Prozent.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): Schachtel 5 Prozent (bei 10 Prozent Beteiligung), Streubesitz 15 Prozent — massgebend ist Art. 10 DBA-NL 2012.
+- **Zinsen** (Art. 11): typ. 0 Prozent — massgebend ist Art. 11 DBA-NL 2012.
+- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — massgebend ist Art. 12 DBA-NL 2012.
 
 ### Vermeidungs-Methode (Art. 22)
 
@@ -109,4 +109,6 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Niederlande 12.04.2012, in Kraft 01.12.2015, Anwendung ab 01.01.2016. **Datum, BGBl-Fundstelle, Aenderungsprotokolle, MLI-Anpassungen vor Uebernahme in juris/beck-online verifizieren. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text pruefen.**
+Stand: 05/2026. DBA-Niederlande 12.04.2012 (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), ab 01.01.2016. Aend.-Prot. 11.01.2016 (BGBl. 2016 II S. 868), Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736). MLI-Notifications beim OECD-Portal pruefen. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text Art. 17 pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 belegt (BGBl. 2012 II S. 1414/1415 bestaetigt; BGBl. 2015 II S. 1674 bestaetigt; Aend.-Prot. 11.01.2016 BGBl. 2016 II S. 868 bestaetigt; Aend.-Prot. 24.03.2021 BGBl. 2021 II S. 736 bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

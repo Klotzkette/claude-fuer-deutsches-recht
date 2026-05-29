@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-perspektiven-definieren
-description: "Drei Pruefperspektiven (Spalten) fuer den 3D-Tabellenreview definieren: Forderung, Pruefung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Pruefraster: Forderungsaufstellung, Pruefungsraster, Glaeubigerstellung. Output: Perspektivendefinition als Grundlage fuer Wuerfel-Aufbau. Abgrenzung: nicht Pruefungsdurchfuehrung."
+description: "Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderung, Prüfung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Prüfraster: Forderungsaufstellung, Prüfungsraster, Gläubigerstellung. Output: Perspektivendefinition als Grundlage für Wuerfel-Aufbau. Abgrenzung: nicht Prüfungsdurchführung."
 ---
 
 # /tabellenreview-3d:arbeitsblatt-perspektiven-definieren
@@ -18,10 +18,7 @@ Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt die
 
 ## Rechtliche Grundlagen fuer Pruefer-Perspektiven
 
-- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — Beim Unternehmenskauf (Share/Asset Deal) ist der Kaeufer verpflichtet, eine ordentliche Due-Diligence-Pruefung durchzufuehren; unterlassene DD begruendet kein Anfechtungsrecht wegen arglistiger Taeuschung, sofern der Verkaeufer kein aktives Verstecken betrieben hat.
-- BGH, Urt. v. 07.05.2019 - VI ZR 512/17, NJW 2019, 2382 — Beim Erwerb eines Unternehmens mit bekannten Maengeln gilt die Grundsatz: kaufmaennische Pruefpflicht des Erwerbers; unterlassene Pruefung kann als Mitverschulden nach § 254 BGB gewertet werden.
-- EuGH, Urt. v. 05.10.2023 - C-355/22, NJW 2024, 57 — Die DSGVO-Perspektive bei Datenraum-Reviews erfordert die Pruefung nach Art. 6 DSGVO (Rechtmaessigkeit) und Art. 5 DSGVO (Datensparsamkeit); unbegrenzte Datenweitergabe im Datenraum ohne Einschraenkung ist datenschutzrechtlich problematisch.
-- BGH, Urt. v. 16.03.2021 - II ZR 140/20, NJW 2021, 1527 — Die Pruefung von Change-of-Control-Klauseln ist zentraler Bestandteil jeder Unternehmenstransaktion; fehlende Zustimmung nach einer Change-of-Control-Klausel kann zur Vertragsbeendigung durch den Vertragspartner fuehren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Standard-Perspektiven
 

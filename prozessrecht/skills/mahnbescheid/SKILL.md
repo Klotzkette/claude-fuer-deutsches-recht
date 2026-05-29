@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid
-description: "Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Uebergang zum Streitverfahren. Normen: §§ 688 ff. ZPO. Pruefraster: Zustaendigkeit Mahngericht, bestimmte Geldforderung, Widerspruchsrecht des Schuldners. Output: Mahnbescheidsantrag-Entwurf. Abgrenzung: nicht Klageschrift § 253 ZPO."
+description: "Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Normen: §§ 688 ff. ZPO. Prüfraster: Zuständigkeit Mahngericht, bestimmte Geldforderung, Widerspruchsrecht des Schuldners. Output: Mahnbescheidsantrag-Entwurf. Abgrenzung: nicht Klageschrift § 253 ZPO."
 ---
 
 # Mahnverfahren – §§ 688 ff. ZPO
@@ -55,30 +55,18 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 23.06.2015 – XI ZR 536/14, NJW 2015, 3160 Rn. 16 ff.: Zur Verjährungshemmung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   durch Mahnbescheid; § 204 Abs. 1 Nr. 3 BGB setzt voraus, dass die Forderung im Mahnantrag
   ausreichend individualisiert ist; pauschale Sammelbezeichnungen genügen nicht und hemmen
   die Verjährung nicht.
-- BGH, Urt. v. 17.07.2013 – I ZR 64/13, NJW 2014, 297 Rn. 9 ff.: Zur Individualisierungs-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
-  Antragsgegner die Forderung zuordnen kann; Verweis auf „Lieferscheine" ohne Nummer
+  Antragsgegner die Forderung zuordnen kann; Verweis auf "Lieferscheine" ohne Nummer
   unzureichend.
-<!-- AUDIT 27.05.2026: VIII ZR 253/01 (NOT_FOUND bei dejure.org) geloescht; VII ZB 48/10 (NOT_FOUND bei dejure.org) geloescht. -->
 
-### Kommentarliteratur
+### Quellenregel
 
-- Vollkommer, in: Zöller, ZPO, 35. Aufl. 2024, § 690 Rn. 1 ff. (Pflichtinhalt des Mahnantrags;
-  Entstehungsgrund muss nicht detailliert werden; ausreichend: Bezeichnung von Vertragstyp,
-  Datum und Betrag; Rn. 10 zu Zinsen und Nebenforderungen).
-- Schüler, in: MüKoZPO, 6. Aufl. 2020, § 690 Rn. 14 ff. (Individualisierungsanforderungen;
-  Abgrenzung ausreichende vs. unzureichende Bezeichnung; Verfahren bei nachträglicher
-  Verdeutlichung).
-- Vossen, in: Zöller, ZPO, 35. Aufl. 2024, § 694 Rn. 1 ff. (Widerspruch: keine Begründung
-  erforderlich; teilweiser Widerspruch möglich; Frist 2 Wochen ab Zustellung, keine
-  Verlängerung).
-- Schüler, in: MüKoZPO, 6. Aufl. 2020, § 699 Rn. 8 ff. (Antrag auf VB: innerhalb von
-  6 Monaten; keine Rücknahme möglich nach Zustellung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Zulässigkeitsprüfung** (§ 688 ZPO): Ist die Forderung eine bezifferte Geldforderung?
@@ -88,8 +76,8 @@ Das Modell benötigt:
 3. **Mahnantrag** (§ 690 ZPO) über www.online-mahnantrag.de:
    - Pflichtangaben: Antragsteller/Gegner (vollständig), Forderungsbetrag, Entstehungsgrund
      (Vertragstyp + Datum), Zinsen (Fälligkeitsdatum + Zinssatz), Gerichtsgebühr (§ 12 GKG)
-   - Formulierung: ausreichende Individualisierung beachten (BGH, Urt. v. 17.07.2013 –
-     I ZR 64/13, NJW 2014, 297).
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+     Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Erlass und Zustellung** (§§ 692, 693 ZPO): Gericht erlässt MB ohne Sachprüfung; Zustellung
    an Antragsgegner; 2-Wochen-Frist für Widerspruch beginnt.
 5. **Widerspruch** (§ 694 ZPO): Binnen 2 Wochen → Abgabe an Streitgericht (§ 696 ZPO);
@@ -119,9 +107,9 @@ blieb erfolglos.
 Das Mahnverfahren ist statthaft (§ 688 Abs. 1 ZPO): Die Forderung ist auf Zahlung einer
 bestimmten Geldsumme gerichtet; keine aufschiebende Bedingung; V hat Wohnsitz in Deutschland.
 
-*Individualisierung (§ 690 Abs. 1 Nr. 3 ZPO)*: Als Entstehungsgrund ist einzutragen: „Werklohn
-aus Malerarbeiten, Rechnung Nr. 2024-112 vom 15.11.2024, fällig 01.12.2024" (BGH, Urt. v.
-17.07.2013 – I ZR 64/13, NJW 2014, 297 Rn. 9). Zinsen: 9 % über Basiszinssatz ab 02.12.2024
+*Individualisierung (§ 690 Abs. 1 Nr. 3 ZPO)*: Als Entstehungsgrund ist einzutragen: "Werklohn
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (§ 288 Abs. 2 BGB, da V Unternehmer).
 
 *Verjährung*: Die Forderung entstand 2024; Regelverjährung 3 Jahre (§ 195 BGB), Beginn
@@ -131,7 +119,7 @@ Nr. 3 BGB), was vorsorglich zu nutzen ist.
 ## Risiken und typische Fehler
 
 - **Unzureichende Individualisierung**: Verjährungshemmung tritt nicht ein; Vollstreckungsbescheid
-  angreifbar (BGH, Urt. v. 23.06.2015 – XI ZR 536/14, NJW 2015, 3160 Rn. 16).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Versäumte 6-Monatsfrist** für VB-Antrag: Mahnbescheid verliert Wirkung; neues Verfahren
   erforderlich; Verjährungshemmung endet (§ 204 Abs. 2 BGB).
 - **Falsche Zinsen**: § 288 Abs. 1 vs. Abs. 2 BGB (Verbraucher vs. Unternehmer);
@@ -144,9 +132,8 @@ Nr. 3 BGB), was vorsorglich zu nutzen ist.
 ## Quellenpflicht
 
 Jede Aussage zu Zulässigkeit, Inhalt des Mahnantrags und Verjährungswirkung ist nach
-`references/zitierweise.md` zu belegen. BGH-Zitate vollständig (Datum, Az., NJW-Fundstelle,
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rn.). Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Keine allgemeinen Pauschalverweise.
-
 
 ---
 

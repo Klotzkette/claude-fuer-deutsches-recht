@@ -1,6 +1,6 @@
 ---
 name: zv-vollstreckungsschutz-haertefall-765a
-description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbeduerftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Pruefraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-raeumung-885 (Raeumungsschutz)."
+description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz)."
 ---
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall
@@ -30,21 +30,16 @@ Antrag des **Schuldners** auf einstweilige Einstellung, Beschränkung oder Aufhe
 
 ## Leitentscheidungen
 
-- BVerfG, Beschl. v. 26.5.2017 — **2 BvR 1487/17** (Pflicht-Würdigung Suizidrisiko durch Vollstreckungsgericht; verfassungsrechtliche Maßstäbe).
-- BVerfG, Beschl. v. 19.10.1993 — **1 BvR 567/89** ("Zwangsversteigerung des selbst genutzten Eigenheims": verfassungsrechtliche Härteklausel).
-- BGH, Beschl. v. 21.11.2002 — **IX ZB 96/02** (Maßstab Sittenwidrigkeit; nicht jede Härte reicht).
-- BGH, Beschl. v. 4.5.2005 — **I ZB 10/05** (Suizidgefahr: Sachverständigengutachten regelmäßig erforderlich).
-- BGH, Beschl. v. 14.6.2007 — **V ZB 28/07** (Räumungsschutz Wohnraum; Substantiierung Härte).
-- BGH, Beschl. v. 24.11.2005 — **V ZB 99/05** (Vollstreckung Eigenheim trotz Härte zulässig, wenn Gläubigerinteressen überwiegen).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Typische Konstellationen
 
 ### Konstellation A — Suizidgefahr
 
-- **Erforderlich**: aktuelles ärztliches Attest / fachärztliches Gutachten (BGH I ZB 10/05).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Glaubhaftmachung**: substantielle, nicht nur behauptete Suizidgefahr.
 - **Maßnahme**: regelmäßig einstweilige Einstellung mit Wiedervorlage; Verlängerung möglich.
-- **Wichtig**: BVerfG-Linie (2 BvR 1487/17) — Vollstreckungsgericht **muss** Suizidrisiko aktiv würdigen, darf Antrag nicht pauschal ablehnen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation B — Schwere Krankheit / Pflege
 
@@ -200,4 +195,4 @@ Rechtsanwalt/-anwaeltin
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 765a ZPO unverändert; BGH-Linie zu Suizidgefahr (I ZB 10/05) und BVerfG (2 BvR 1487/17) ständige Rechtsprechung. Bei Reform ZPO oder neuer BVerfG-Linie zur Härteabwägung aktualisieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

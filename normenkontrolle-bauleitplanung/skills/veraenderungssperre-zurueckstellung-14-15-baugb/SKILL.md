@@ -1,6 +1,6 @@
 ---
 name: veraenderungssperre-zurueckstellung-14-15-baugb
-description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurueckgestellt. §§ 14 15 BauGB. Pruefraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurueckstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo."
+description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo."
 ---
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB
@@ -22,7 +22,7 @@ Während der Bauleitplanung kann die Gemeinde die Realisierung von Bauvorhaben, 
 ### Voraussetzungen
 
 a) **Aufstellungsbeschluss** für Bebauungsplan, der für das Gebiet gelten soll
-b) **Konkretisierungs-Stand** mit hinreichend bestimmbaren Planungs-Inhalten (BVerwG 4 CN 5.06)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 c) **Sicherungs-Bedürfnis** zur Wahrung der Plan-Ziele
 
 ### Inhalt § 14 Abs. 1 BauGB
@@ -88,7 +88,7 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 
 - Wertminderung im Sinne der Eigentumsgarantie
 - Wirtschaftliche Folgen für Eigentümer
-- BVerwG 4 C 11.92 zur Bemessung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 4 — Wirkung auf Vorhabenträger / Bauherrn
 
@@ -127,7 +127,7 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 #### Konkretisierungs-Mangel
 
 - Plan-Ziele zu unbestimmt
-- BVerwG 4 CN 5.06
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Verhältnismäßigkeit
 
@@ -165,7 +165,7 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 ### Argumentation gegen Bau-Genehmigung
 
 - Gemeinde hat trotz drohender Plan-Widrigkeit nicht zurückgestellt
-- Bauherr profitiert vom „dem ersten kommt das Recht"
+- Bauherr profitiert vom "dem ersten kommt das Recht"
 - Bei plangleichem Vorhaben Indiz für Gefälligkeitsplanung
 
 ## Schritt 8 — Stadtplanungs-Sicht
@@ -247,19 +247,14 @@ d) Damit: **kein § 14-Verfahren möglich**, aber **Indiz für Gefälligkeitspla
 ## Quellen
 
 - BauGB §§ 14, 15, 17, 18, 24, 42
-- BVerwG 4 CN 5.06 (Konkretisierungs-Stand)
-- BVerwG 4 C 11.92 (Entschädigung)
-- BVerwG 4 BN 6.04
-- BayVGH 9 N 13.1543
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
 
 ## Ergänzende Rechtsprechung
 
-- BVerwG, Urt. v. 19.02.2004 - 4 CN 16.03, BVerwGE 120, 138 Rn. 22 — Eine Veränderungssperre ist nur zulässig, wenn die Planung bereits so weit konkretisiert ist, dass erkennbar ist, welchem Planungsziel sie dient; ein "konkretes Planungskonzept" muss bei Erlass vorliegen.
-- BVerwG, Urt. v. 10.09.1976 - IV C 39.74, BVerwGE 51, 121 — Die dritte Verlängerung der Veränderungssperre nach § 17 Abs. 2 BauGB bedarf besonderer Gründe; bloßer Zeitbedarf der Gemeinde reicht nicht aus, es muss ein objektiver Verfahrensfortschritt nachgewiesen werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Löhr BauGB 15. Aufl., §§ 14-17 Rn. 1-60 (Veränderungssperre und Zurückstellung systematisch)
-- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 14 Rn. 20-50 (Planungskonzept als Voraussetzung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

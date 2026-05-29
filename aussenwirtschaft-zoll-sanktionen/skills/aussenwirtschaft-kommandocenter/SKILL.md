@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Kommandocenter fuer alle Aussenhandels- Zoll- Sanktions- CBAM- und Ermittlungsmandate vom Intake bis zum Handlungsvorschlag. Anwendungsfall Anwalt oder Compliance-Beauftragter will grenzueberschreitendes Mandat schnell triagieren. Normen AWG AWV UZK EU-Sanktionsverordnungen CBAM-Verordnung GwG. Pruefraster Sachgebiet Mandantenrolle Fristen Eskalationsbedarf Zustaendigkeit. Output Routing-Ergebnis mit Statusampel Handlungspriorisierung und Weiterleitung zum passenden Skill. Abgrenzung zu aussenwirtschaft-icp-kontrollsystem und aussenwirtschaft-pruefung-ermittlung."
+description: "Kommandocenter für alle Aussenhandels- Zoll- Sanktions- CBAM- und Ermittlungsmandate vom Intake bis zum Handlungsvorschlag. Anwendungsfall Anwalt oder Compliance-Beauftragter will grenzüberschreitendes Mandat schnell triagieren. Normen AWG AWV UZK EU-Sanktionsverordnungen CBAM-Verordnung GwG. Prüfraster Sachgebiet Mandantenrolle Fristen Eskalationsbedarf Zuständigkeit. Output Routing-Ergebnis mit Statusampel Handlungspriorisierung und Weiterleitung zum passenden Skill. Abgrenzung zu aussenwirtschaft-icp-kontrollsystem und aussenwirtschaft-prüfung-ermittlung."
 ---
 
 # Außenwirtschaft-Kommandocenter
@@ -62,10 +62,7 @@ Kläre vor dem ersten Schritt:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 27.02.2014 - C-79/13 (Saciri u.a.) — Zum Anwendungsvorrang von EU-Sanktionsverordnungen gegenueber nationalen Gegenmassnahmen; der Vollzug von EU-Sanktionen ist als acte clair zwingend.
-- BVerwG, Urt. v. 23.10.2007 - 3 C 33.06, BVerwGE 129, 367 — Zum Ermessenspielraum der BAFA bei der Ablehnung von Ausfuhrgenehmigungen; Sicherheitsinteressen duerfen Handelsinteressen ueberwiegen.
-- BFH, Urt. v. 14.11.2006 - VII R 19/05, BFH/NV 2007, 545 — Zur Bindungswirkung von Zolltarifauskuenften (vZTA) und zur Pflicht des Anmelders, die Richtigkeit der Tarifierung zu pruefen.
-- BGH, Urt. v. 13.10.2011 - 1 StR 53/11, BGHSt 57, 60 — Exportkontrollstrafrecht: Vorsatz beim Versuch der unerlaubten Ausfuhr von Dual-Use-Gutern gemaess AWG a.F. (jetzt § 18 AWG n.F.); Leichtfertigkeit genuegt nicht fuer Ordnungswidrigkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Aussenwirtschaft
 
@@ -76,11 +73,9 @@ Kläre vor dem ersten Schritt:
 - § 370 AO — Steuerhinterziehung bei Einfuhrabgabenhinterziehung
 - Art. 42, 83 UZK (VO (EU) 952/2013) — Zollsanktionen und Geldbussen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bieneck (Hrsg.), Handbuch des Aussenwirtschaftsrechts, 3. Aufl. — umfassend zu AWG/AWV, BAFA, Dual Use
-- Karpenstein/Mayer (Hrsg.), EMRK/EU-Sanktionenrecht — europarechtliche Einbettung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Aussenwirtschaft-Kurzlage
 
 **Adressat:** Mandant/Compliance — **Tonfall:** sachlich, risikofokussiert

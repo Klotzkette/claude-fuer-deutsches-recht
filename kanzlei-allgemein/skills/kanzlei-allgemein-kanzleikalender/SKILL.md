@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-kanzleikalender
-description: "Fuehrt einen Kanzleikalender fuer Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Uebersicht ueber Termine Fristen Abwesenheiten UStVA-Faelligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Pruefraster Konfliktpruefung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Uebersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-fuehren (reine Fristbuchhaltung) und sekretariats-tagesbrief."
+description: "Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Übersicht über Termine Fristen Abwesenheiten UStVA-Fälligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Prüfraster Konfliktprüfung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Übersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-führen (reine Fristbuchhaltung) und sekretariats-tagesbrief."
 ---
 
 # Kanzleikalender und interne Abstimmung
@@ -13,10 +13,7 @@ description: "Fuehrt einen Kanzleikalender fuer Termine Fristen Postlauf HR und 
 4. Sollen Erinnerungen fuer Vorbereitungsschritte generiert werden (z.B. drei Tage vor Gerichtstermin)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Terminkollision als Haftungsrisiko: Anwalt muss Gerichtstermine unverzueglich im Kanzleikalender erfassen und auf Kollisionen pruefe.
-- BGH, Urt. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Verhinderung des Anwalts durch Doppeltermin begruendet keinen Wiedereinsetzungsanspruch, wenn kein Vertretungsanwalt bestimmt wurde.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Terminvorbereitung als Kanzleipflicht: fehlende Kalendernotiz zur Terminvorbereitung begruendet Organisationsmangel.
-- BVerfG, Beschl. v. 15.12.2021 - 1 BvR 2027/21, NJW 2022, 587 — Anwalt muss Urlaubsplanung mit Terminkalender abgleichen; fehlende Vertretungsregel bei Urlaub verletzt Mandanteninteressen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 227 ZPO — Terminsverlegung: Gründe und Antragsfrist; keine Routineverlegung
@@ -24,10 +21,9 @@ description: "Fuehrt einen Kanzleikalender fuer Termine Fristen Postlauf HR und 
 - § 53 BRAO — Vertretungspflicht bei Verhinderung: Kanzleiueberschneidungen erfordern Vertreter
 - § 51 BRAO — Haftungsrisiko bei Terminsversaeumnis
 
-## Kommentarliteratur
-- Zöller/Greger ZPO § 227 Rn. 1-15 (Terminsverlegung: zulässige Gruende und Verfahren)
-- Gaier/Wolf/Göcken BRAO § 53 Rn. 1-25 (Vertretungspflicht bei anwaltlicher Verhinderung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ist der zentrale Kalenderblick der Kanzlei. Er verbindet Fristen, Termine, Postlauf, beA, Schreibzeiten, HR, Urlaub, Krankheit, Payroll, UStVA, Rechnungen und interne Abstimmungen.

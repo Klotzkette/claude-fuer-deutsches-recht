@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-post-closing-integration
-description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Pruefraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO fuer Pre-Signing-Phasen und zu Signing-Closing-CPs."
+description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Prüfraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO für Pre-Signing-Phasen und zu Signing-Closing-CPs."
 ---
 
 # Post-Closing Integration
@@ -28,15 +28,11 @@ Uebersetzt DD-Findings, SPA-Pflichten und Synergieannahmen in einen Post-Merger-
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 30.11.2012 - V ZR 25/12, NJW 2013, 1158 — Earn-Out-Obligation: Verkaeuf er hat Anspruch auf ordnungsgemaesse Unternehmensfuehrung waehrend Earn-Out-Zeitraum; Abweichung von normalem Geschaeftsbetrieb zulasten Earn-Out begruendet Schadensersatz
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — Post-Closing-Fristen: Kaeuf er der Garantiefrist versaeumt, verliert seine Ansprueche; Fristversaeum nis gilt auch wenn Kaeuf er den Mangel bereits kannte; Fristeinhaltung ist absolute Voraussetzung
-- BAG, Urt. v. 13.11.2013 - 8 AZR 719/12, NZA 2014, 484 — § 613a BGB nach Closing: Informationspflicht gemaess § 613a Abs. 5 BGB muss alle wesentlichen Umstaende des Betriebsuebergangs nennen; fehlerhafte Information verlaengert Widerspruchsfrist
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Picot, Unternehmenskauf, Kapitel 9 (Post-Merger-Integration), 5. Auflage
-- ErfK/Preis, § 613a BGB Rn. 50-120 (Betriebsuebergang, Information, Widerspruch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Post-Closing-Obligations-Register:** alle SPA-Verpflichtungen nach Closing erfassen (Owner, Faelligkeit, Nachweis)

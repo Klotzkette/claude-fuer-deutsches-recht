@@ -1,6 +1,6 @@
 ---
 name: dealteam-zusammenfassung
-description: "Erstellt gestaffelte Deal-Briefings fuer Geschaeftsfuehrung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status fuer Geschaeftsfuehrung, Team-Update, Deal-Team-Summary."
+description: "Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update, Deal-Team-Summary."
 ---
 
 # Deal-Team-Zusammenfassung
@@ -22,17 +22,11 @@ Vor der Erstellung des Briefings klären:
 
 ## Aktuelle Rechtsprechung
 
-<!-- AZ II ZR 213/08 entfernt (27.05.2026): Urteil betrifft Prospekthaftung Medienfonds ApolloProMedia (NJW-RR 2010, 911), nicht Aufklaerungspflicht beim Unternehmenskauf. -->
-- BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25 — Due-Diligence-Pflicht des Käufers; Kenntnis von im Datenraum offengelegten Mängeln schließt Gewährleistung regelmäßig aus (§ 442 BGB).
-- OLG Frankfurt, Urt. v. 10.09.2020 – 26 U 35/19 — Unzureichende Offenlegung im Datenraum heilte die Aufklärungspflichtverletzung nicht; späterer Hinweis auf versteckte Dokumente kann Sorgfaltspflicht nicht erfüllen.
-- BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067 — Vollzugsverbot nach § 41 GWB; rechtswidriger Vollzug vor Kartellfreigabe führt zu Bußgeld und Unwirksamkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 ff. (Unternehmenskauf, Gewährleistung und Due Diligence).
-- MüKoGmbHG/Fleischer, 4. Aufl. 2022, § 15 Rn. 90 ff. (Abtretungsform GmbH-Anteile).
-- Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, § 35 Rn. 1 ff. (Fusionskontrolle; Vollzugsverbot).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 M&A-Teams brauchen je nach Ebene unterschiedliche Informationstiefe: Die Geschäftsführung will drei Sätze und eine Risikobewertung. Der Deal-Lead will kritischen Pfad und offene Punkte. Das Arbeitsteam will alle Findings mit Quellen. Dieser Skill erstellt alle drei Ebenen aus denselben DD-Quellen.
@@ -109,7 +103,7 @@ Empfehlung: [Fortsetzen / Preis anpassen / Klärung einholen / Abbruch erwägen]
 
 | Kategorie | Rot | Orange | Gelb | Gruen | Top-Finding |
 |---|---|---|---|---|---|
-| Gesellschaftsrecht | [N] | [N] | [N] | [N] | [KURZBESCHREIBUNG] |
+| Gesellschaftsrecht | Normtext, Register-/Gesetzesquellen, bereitgestellte Materialien |
 | Wesentliche Verträge | [N] | [N] | [N] | [N] | [KURZBESCHREIBUNG] |
 | IP / Technologie | [N] | [N] | [N] | [N] | [KURZBESCHREIBUNG] |
 | Arbeitsrecht | [N] | [N] | [N] | [N] | [KURZBESCHREIBUNG] |
@@ -139,10 +133,9 @@ Empfehlung: [Fortsetzen / Preis anpassen / Klärung einholen / Abbruch erwägen]
 
 Normen-Basis je nach DD-Findings. Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- MüKoGmbHG/Fleischer, 4. Aufl. 2022.
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2023.
-<!-- AZ II ZR 213/08 entfernt (27.05.2026): Falsche Zuordnung, siehe Audit-Hinweis unten. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Risiken / typische Fehler
 
@@ -154,6 +147,6 @@ Kommentarliteratur:
 ---
 ## Audit-Hinweis (27.05.2026)
 
-Geprüfte AZ: BGH II ZR 213/08.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC — das Urteil betrifft Prospekthaftung wegen falscher Darstellung eines Vorgängerfonds (Medienfonds ApolloProMedia, NJW-RR 2010, 911), nicht Aufklaerungspflicht beim Unternehmenskauf.
 Maßnahme: Beide Nennungen entfernt (Rechtsprechungsabschnitt und Quellenabschnitt). Kein Ersatz eingefuegt; die verbleibenden drei Urteile decken Due Diligence und Vollzugsverbot zutreffend ab.

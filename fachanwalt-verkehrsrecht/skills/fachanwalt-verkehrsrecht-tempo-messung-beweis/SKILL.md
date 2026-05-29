@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-tempo-messung-beweis
-description: "Mandant bestreitet korrekte Geschwindigkeitsmessung in Bussgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Pruefraster: Standardmessgeraete PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverstaendigen. Abgrenzung zu fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen (Gesamtpruefung) und bussgeld-einspruch-pruefen."
+description: "Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen."
 ---
 
 # Tempo-Messung Beweisanfechtung
@@ -143,7 +143,7 @@ Verteidigung bei OWi wegen Geschwindigkeitsüberschreitung.
 
 ## 9) BGH-/OLG-Linien
 
-- BGH, Beschl. v. 30.10.2014 — 4 StR 263/13 (Standardisiertes Verfahren)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Saarbruecken (LeivTec XV-3 Diskussion)
 
 ## Anschluss

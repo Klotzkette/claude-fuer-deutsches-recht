@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel
-description: "Mieter hat Schimmel in der Wohnung und prueft Mietminderungsrecht oder Vermieter wehrt ab. Ursachen-Differenzierung Bauphysik vs. Lueftungsverhalten Mieter Beweislast. Normen § 536 BGB §§ 535 538 BGB BGH VIII ZR. Pruefraster Mangel-Feststellung Ursachen-Gutachten Beweislast-Verteilung Minderungs-Hoehe Mahnung Klage. Output Mangelruege Minderungsberechnung Klagestrategie. Abgrenzung zu kuendigung (Kuendigung wegen Mangel) und WEG-Anfechtungsklage (WEG-Kontext)."
+description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mietminderung — Schimmelbefall
@@ -38,8 +38,7 @@ Mandate Mieter bei Schimmel — Beweislast, Höhe, durchsetzbare Strategie.
 
 ### BGH-Linie
 
-- BGH, Urt. v. 11.5.2016 — VIII ZR 209/15 (Beweislast-Verteilung)
-- BGH, Urt. v. 5.12.2018 — VIII ZR 271/17 (Lueftungs-Pflicht Mieter)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 3) Minderungs-Höhe
 
@@ -152,8 +151,7 @@ Mandate Mieter bei Schimmel — Beweislast, Höhe, durchsetzbare Strategie.
 
 ## 10) BGH-Linien
 
-- BGH, Urt. v. 11.5.2016 — VIII ZR 209/15 (Beweislast)
-- BGH, Urt. v. 5.12.2018 — VIII ZR 271/17 (Lueftungs-Pflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

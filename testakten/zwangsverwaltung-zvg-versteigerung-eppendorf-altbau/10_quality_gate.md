@@ -50,7 +50,7 @@
 |-----|-----------|----------|--------------------|
 | D1 | Mietvertrag vollständig gelesen (Ursprungsvertrag + Nachträge) | [ ] | Mietvertrag vom 26.08.2021, Mietbeginn 01.11.2021 |
 | D2 | Nettokaltmiete aktuell: 1.320,00 EUR bestätigt | [ ] | Mietrückstände ungeklärt |
-| D3 | Tatsächliche Nutzung „Atelier Nordbogen" / drei Namenseinträge geklärt | [ ] | Ungeklärt – Abschlag 10.000,00 EUR im Verkehrswert |
+| D3 | Tatsächliche Nutzung "Atelier Nordbogen" / drei Namenseinträge geklärt | [ ] | Ungeklärt – Abschlag 10.000,00 EUR im Verkehrswert |
 | D4 | Mietrückstände und Kautionsstand geprüft (Kaution 3.960,00 EUR, Nachweis unvollständig) | [ ] | — |
 | D5 | Betriebskostenabrechnungen aktuell (2024 ggf. zu niedrig angesetzt) | [ ] | — |
 | D6 | Kündigungsrecht nach Zuschlag geprüft (§ 57a ZVG, § 111 BGB) | [ ] | Keine Empfehlung ohne vollständige Prüfung |

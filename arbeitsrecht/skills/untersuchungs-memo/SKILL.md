@@ -41,19 +41,19 @@ vorhandenen Entwurf überarbeiten.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 Rn. 14 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verdachtskündigung — dringender Tatverdacht auf Basis objektiver Umstände;
   umfassende Sachaufklärung vor der Kündigung; vorherige Anhörung des
   Arbeitnehmers als zwingend; inhaltliche Mindestanforderungen
-- BAG, Urt. v. 23.08.2018 – 2 AZR 133/18, NZA 2018, 1329 Rn. 29 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Inhaltliche Anforderungen an die Anhörung vor Verdachtskündigung; Folgen
   fehlerhafter oder unvollständiger Anhörung; Heilungsmöglichkeiten
-- BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 Rn. 20:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Anforderungen an den Tatsachennachweis bei Tatkündigung —
   Überzeugungsmaßstab im Gegensatz zur Verdachtskündigung; Anforderungen
   an Aufklärung und Dokumentation
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.:
   Verdachtskündigung — Voraussetzungen, Verfahren, Anhörungsinhalt;
@@ -61,7 +61,7 @@ vorhandenen Entwurf überarbeiten.
 - Erfurter Kommentar/Kiel, 24. Aufl. 2024, § 102 BetrVG Rn. 50 ff.:
   Inhalt der BR-Anhörung; Substantiierungsanforderungen; Folgen
   unvollständiger Mitteilung (Theorie der subjektiven Determinierung)
-- HWK/Thüsing, 11. Aufl. 2024, § 1 KSchG Rn. 200 ff.:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Verhaltensbedingte Kündigung — Pflichtverletzung, Interessenabwägung,
   Dokumentationsstandards
 
@@ -112,7 +112,7 @@ Betroffene Abschnitte:
   Anlage A (Chronologie): [N] neue Einträge
 ```
 
-Fragen: „Soll der gesamte Vermerk überarbeitet werden oder nur die
+Fragen: "Soll der gesamte Vermerk überarbeitet werden oder nur die
 betroffenen Abschnitte?"
 
 Geänderte Abschnitte mit `[AKTUALISIERT: Datum]` markieren bis zur
@@ -148,7 +148,7 @@ Beispiel-Ausgabe bei erster Erstellung mit fehlendem Hochprioritäts-Punkt:
 > Warnung: Quellencheckliste: Punkt 2 (Anhörung Beschuldigte/r) ist noch
 > offen und als hochprioritär markiert. Bei einer Verdachtskündigung nach
 > § 626 BGB ist die vorherige Anhörung der beschuldigten Person zwingende
-> Wirksamkeitsvoraussetzung (BAG, Urt. v. 23.08.2018 – 2 AZR 133/18).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > Entwurf trotzdem erstellen? (Antwort: ja/nein)
 
 ## Risiken und typische Fehler
@@ -176,8 +176,7 @@ Beispiel-Ausgabe bei erster Erstellung mit fehlendem Hochprioritäts-Punkt:
 Jede Ausgabe zum Verdachtskündigungsverfahren zitiert:
 - § 626 BGB (wichtiger Grund), § 626 Abs. 2 BGB (Frist)
 - § 102 BetrVG (BR-Anhörung)
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 (Verdachtskündigung)
-- BAG, Urt. v. 23.08.2018 – 2 AZR 133/18, NZA 2018, 1329 (Anhörungsanforderungen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.
 
 Detaillierte Vermerkstruktur, Glaubwürdigkeitsbewertungsrahmen und
@@ -188,8 +187,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 25.10.2012 — 2 AZR 700/11**, NZA 2013, 371 — Beweiskraft des Untersuchungsvermerks im Kündigungsschutzprozess; der Arbeitgeber trägt die Darlegungslast für den Kündigungsgrund; ein vollständig dokumentierter Untersuchungsvermerk mit nachvollziehbarer Glaubwürdigkeitsbewertung stärkt seine Prozessposition erheblich.
-- **OLG München, Urt. v. 22.09.2021 — 7 U 3966/20** — Vertraulichkeitsschutz anwaltlich geleiteter Untersuchungsberichte; bei anwaltlicher Steuerung der Untersuchung kommt den Arbeitsunterlagen des Anwalts Schutz nach § 97 StPO analog zu.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — vor dem Vermerk klären
 

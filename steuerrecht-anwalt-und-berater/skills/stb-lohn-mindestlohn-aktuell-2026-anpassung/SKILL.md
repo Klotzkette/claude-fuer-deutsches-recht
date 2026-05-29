@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-mindestlohn-aktuell-2026-anpassung
-description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Pruefung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Uebersicht aktuell Verifikations-Hinweis."
+description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Übersicht aktuell Verifikations-Hinweis."
 ---
 
 # Aktueller Mindestlohn 2026 — Anpassung und Wirkung
 
 ## Kernsachverhalt
 
-Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung der Mindestlohnkommission, durch Verordnung der Bundesregierung oder durch Gesetz. Stand 01.01.2024: 12,41 EUR. Stand 01.01.2025: aktueller Wert ueber Mindestlohnkommission verifizieren. Stand 01.01.2026: zwingend ueber Bundesgesetzblatt / DATEV-Updates verifizieren. Der Mindestlohn betrifft direkt Mini-/Midi-Job-Grenzen, viele Arbeitsvertraege und MiLoG-Aufzeichnungspflichten.
+Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung der Mindestlohnkommission, durch Verordnung der Bundesregierung oder durch Gesetz. Stand 01.01.2024: 12,41 EUR. Stand 01.01.2025: 12,82 EUR (Vierte Verordnung zur Anpassung der Hoehe des Mindestlohns, MiLoV3, vom 24.11.2023, BGBl. 2023 I Nr. 321). Stand 01.01.2026: noch nicht festgesetzt; Empfehlung der Mindestlohnkommission bzw. Verordnung abwarten und Bundesgesetzblatt / DATEV-Updates pruefen. Der Mindestlohn betrifft direkt Mini-/Midi-Job-Grenzen, viele Arbeitsvertraege und MiLoG-Aufzeichnungspflichten.
 
 ## Kaltstart-Rueckfragen
 
@@ -55,8 +55,8 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 | 01.07.2022 | 10,45 |
 | 01.10.2022 | 12,00 (gesetzliche Erhoehung) |
 | 01.01.2024 | 12,41 |
-| 01.01.2025 | 12,82 (Vierte Verordnung zur Anpassung der Hoehe des Mindestlohns vom 24.11.2023; vor Mandantenberatung BGBl. verifizieren) |
-| 01.01.2026 | Anpassung nach Empfehlung Mindestlohnkommission bzw. Verordnung — zwingend Stand 01.01.2026 ueber Bundesgesetzblatt verifizieren |
+| 01.01.2025 | 12,82 (Vierte Verordnung zur Anpassung der Hoehe des Mindestlohns, MiLoV3, v. 24.11.2023, BGBl. 2023 I Nr. 321) |
+| 01.01.2026 | Noch nicht festgesetzt (Stand 05/2026); Empfehlung der Mindestlohnkommission abwarten; Bundesgesetzblatt und Mindestlohnkommission pruefen |
 
 ### Phase 2 — Verifikations-Quellen
 
@@ -120,4 +120,6 @@ Stand: 05/2026.
 - MiLoG §§ 1, 4, 5, 21.
 - Bundesgesetzblatt mit MiLo-Verordnungen.
 - Mindestlohnkommission.
-- Verifikations-Hinweis: aktueller Mindestlohn 2026 ueber Bundesgesetzblatt / DATEV-Updates verifizieren.
+- Mindestlohn 2025: 12,82 EUR/h (BGBl. 2023 I Nr. 321); 2026 noch nicht festgesetzt — Bundesgesetzblatt und Mindestlohnkommission pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (MiLoV3 BGBl. 2023 I Nr. 321, 12,82 EUR eingesetzt), 1 ersetzt (2026-Wert als noch nicht festgesetzt ausgewiesen) -->

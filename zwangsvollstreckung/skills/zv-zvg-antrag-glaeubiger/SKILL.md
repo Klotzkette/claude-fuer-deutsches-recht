@@ -1,6 +1,6 @@
 ---
 name: zv-zvg-antrag-glaeubiger
-description: "Glaeubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Pruefraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Glaeubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht."
+description: "Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht."
 ---
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)
@@ -54,10 +54,8 @@ Vollstreckung in das Grundstück. Wird in der Regel parallel zur PfÜB betrieben
 
 ## Leitentscheidungen
 
-- BGH 26.3.2015 – V ZB 81/14 (Beitritt § 27 ZVG, Wirkungen)
-- BGH 18.11.2010 – V ZB 99/10 (Verkehrswert, Wertgrenzen)
-
-<!-- AUDIT 27.05.2026: BGH V ZB 31/07 geloescht – AZ existiert (10.01.2008), betrifft aber Zwangsverwaltungsverguetung, nicht geringstes Gebot (WRONG_TOPIC). BGH V ZB 113/11 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND / WRONG_TOPIC gemaess Bundle). -->
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

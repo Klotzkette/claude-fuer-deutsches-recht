@@ -1,10 +1,9 @@
 ---
 name: vaf-plausibilitaetscheck
-description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Pruefraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate fuer Gesamtpruefung und zu Clean-Output."
+description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Prüfraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate für Gesamtprüfung und zu Clean-Output."
 ---
 
 # Plausibilitätscheck
-
 
 ## Triage zu Beginn
 
@@ -15,9 +14,7 @@ description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querve
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 10.11.2009 - VIII ZR 318/08, NJW 2010, 337 — Nebenkosten in Mietverträgen: Abrechnungspflicht erfordert korrekte Gesamtbeträge; Rechenfehler in Nebenkostenabrechnung führen zu Unwirksamkeit.
-- BGH, Urt. v. 23.09.2009 - VIII ZR 300/08, NJW 2010, 1 — Fristen für Betriebskostenabrechnung (§ 556 Abs. 3 BGB): Einhaltung der Jahresfrist; verspätete Abrechnung verwirkt Nachforderungsrecht.
-- BGH, Urt. v. 19.09.2018 - XII ZR 69/17, NJW 2019, 51 — Schriftformheilung in Gewerbemietvertrag: Nachtragsvereinbarung muss Bezug auf Hauptvertrag enthalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -26,11 +23,9 @@ description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querve
 - § 288 BGB — Verzugszinsen (§ 288 Abs. 1: 5 Prozentpunkte B2C; § 288 Abs. 2: 9 Prozentpunkte B2B)
 - § 269 BGB — Leistungsort (relevant für Fristberechnung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. 2022, § 551 Rn. 1-20 (Kaution)
-- Grüneberg, BGB, 83. Aufl. 2024, § 288 Rn. 1-15 (Verzugszinsen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill härtet den Entwurf vor Versand oder Verhandlung. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
@@ -67,6 +62,5 @@ Der Skill härtet den Entwurf vor Versand oder Verhandlung. Er arbeitet freisteh
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 143/11 (behauptetes Thema: Kaution § 551 BGB, NJW 2012 3029) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
 Bundle: bundle_047.json
 -->

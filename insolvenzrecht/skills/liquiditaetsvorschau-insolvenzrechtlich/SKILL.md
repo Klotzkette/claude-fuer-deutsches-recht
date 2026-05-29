@@ -7,7 +7,7 @@ description: "Erstellt und bewertet die rollierende Liquiditätsvorschau als str
 
 ## Powerplugin-Hinweis
 
-**Die fachlich aktualisierte und autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit dem strikten BGH-Schema (Passiva II zwingend, BGHZ 217, 129; 10-%-Schwelle BGHZ 163, 134; Bugwellenrspr. BGH II ZR 112/21; titulierte Forderungen BGH IX ZR 229/22; objektive Beurteilung BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt und Banking-Wahl. PDFs liegen im Plugin unter `references/rechtsprechung/`. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben oder dessen Belege beim Erstellen der gerichtsfesten Liquiditätsbilanz beiziehen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 
@@ -49,21 +49,21 @@ nicht nur der vorübergehende Mangel.
 
 Der BGH hat das operative Prüfschema entwickelt:
 
-**BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 17–18:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Eine Liquiditätslücke von **weniger als 10 %** der fälligen Verbindlichkeiten begründet noch
 keine Zahlungsunfähigkeit, sofern mit überwiegender Wahrscheinlichkeit innerhalb von **drei
 Wochen** Deckung zu erwarten ist. Übersteigt die Lücke 10 %, ist Zahlungsunfähigkeit zu
 vermuten, es sei denn, der Schuldner weist nach, dass die Lücke in drei Wochen vollständig
 beseitigt werden kann. Diese Vermutung ist widerlegbar.
 
-**BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 Rn. 36:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Indizien für Zahlungsunfähigkeit sind u. a.: Nichtabführung von Sozialversicherungsbeiträgen,
 Nichtzahlung von Löhnen und Gehältern, Einstellung der Zahlungen gegenüber wesentlichen
 Gläubigern, Nichtbedienung von Bankkrediten, Überziehung des Kontokorrentrahmens ohne
 Verlängerungsperspektive. Der Indizienkatalog ersetzt keine Liquiditätsbilanz, dient aber
 deren Plausibilisierung im Gutachtenstil.
 
-**BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Forderungen, die der Gläubiger nachweislich gestundet hat oder für die eine ernsthafte
 Stundungsvereinbarung — keine bloße Duldung — vorliegt, sind aus der Passivseite der
 3-Wochen-Liquiditätsbilanz herauszunehmen. Bloßes Stillhalten oder Nichtgeltendmachen genügt
@@ -86,23 +86,9 @@ i.V.m. Art. 103l EGInsO). IDW S 11 empfiehlt für eine belastbare Prognose einen
 Planungshorizont von **24 Monaten**, da kürze Zeiträume bei Sanierungssachverhalten
 systematisch zu optimistisch sind.
 
-### Kommentarliteratur
+### Quellenregel
 
-**Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 5 und Rn. 44:**
-Mock betont, dass für die Liquiditätsbilanz nach § 17 InsO ausschließlich fällige und
-im Drei-Wochen-Zeitraum fällig werdende Verbindlichkeiten einzustellen sind; künftige,
-noch nicht fällige Verbindlichkeiten bleiben außer Ansatz. Die Aktivseite beschränkt sich
-auf sofort verfügbare Mittel (Kasse, Bankguthaben, realisierbare Forderungen im
-Drei-Wochen-Fenster); stille Reserven oder unkündbare Anlagen zählen nicht.
-
-**Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 11 und Rn. 28:**
-Schmerbach hebt hervor, dass die Drei-Wochen-Frist des § 17 Abs. 2 S. 1 InsO
-keine Karenzzeit für den Schuldner, sondern ein Abgrenzungsmerkmal zwischen
-Zahlungsunfähigkeit und Zahlungsstockung darstellt. Der Nachweis, dass innerhalb dieses
-Zeitraums hinreichend Deckungsmittel zur Verfügung stehen werden, obliegt dem Schuldner
-bzw. ist durch den Sachverständigen anhand konkreter Tatsachen zu belegen; bloße
-Erwartungen oder Hoffnungen genügen nicht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen)
 
 Der IDW S 11 (Stand: 25.01.2017) liefert den methodischen Rahmen für die gutachterliche
@@ -135,7 +121,7 @@ Ratenzahlungsvereinbarungen und Fälligkeitsverschiebungen schriftlich (E-Mails,
 **Schritt 2 — Plausibilisierung der Eingangsdaten**
 Abgleich OPOS-Kreditoren gegen Buchführungsdaten und Kontoauszüge: Stimmen
 gebuchte Verbindlichkeiten mit Kontoabflüssen überein? Sind Verbindlichkeiten gebucht,
-die faktisch gestundet sind (Abgrenzung nach BGH IX ZR 228/03)? Abgleich
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Forderungsbestände gegen Kontozuflüsse (Forderungsausfallquote schätzen).
 
 **Schritt 3 — Wochenweise Aggregation (13-Wochen-Modell)**
@@ -191,7 +177,7 @@ Das Ausgabedokument ist eine **juristische Stellungnahme im Gutachtenstil** und 
    (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
 4. **Ampel-Ergebnis** je Woche mit rechtlicher Bewertung (GRÜN/GELB/ROT + Begründung)
 5. **Stundungsabzüge** — Einzelauflistung aller herausgerechneten Verbindlichkeiten mit
-   Nachweisbeschreibung (BGH IX ZR 228/03)
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **24-Monats-Vorschau** (sofern Fortbestehensprognose zu beurteilen) — monatlicher
    Cashflow, Prämissenblatt, Szenarioanalyse
 7. **Rechtliche Subsumtion** — Abschließende Einordnung: liegt § 17 InsO vor, wenn ja
@@ -235,7 +221,7 @@ Forderungseingänge 14.300 EUR. Summe verfügbarer Mittel: 23.700 + 14.300 = **3
 
 *III. Fällige und binnen 3 Wochen fällig werdende Verbindlichkeiten (Passivseite):*
 Fällige Verbindlichkeiten 87.400 EUR abzüglich dokumentierte Stundung Fischer
-Baustoffe GmbH 4.200 EUR (BGH IX ZR 228/03 (NZI 2007, 36)) = 83.200 EUR. Hinzu kommen
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 binnen-3-Wochen-Verbindlichkeiten 34.600 EUR. Passivseite gesamt: **117.800 EUR**.
 
 *IV. Liquiditätslücke:*
@@ -243,13 +229,13 @@ binnen-3-Wochen-Verbindlichkeiten 34.600 EUR. Passivseite gesamt: **117.800 EUR*
 
 *V. Ampel-Bewertung:*
 Die Liquiditätslücke beträgt 67,7 % und liegt damit weit über dem Schwellenwert von
-10 % (BGH IX ZR 123/04, BGHZ 163, 134 Rn. 17). Eine Beseitigung der Lücke
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 binnen drei Wochen ist angesichts der abgelehnten Kreditlinienerweiterung, des hohen
 SV-Rückstands und des begrenzten Auftragsbestands nicht überwiegend wahrscheinlich.
 **Ergebnis: ROT — Zahlungsunfähigkeit nach § 17 InsO liegt vor.**
 
 *VI. Zeitpunkt der Zahlungsunfähigkeit:*
-Unter Berücksichtigung der Indizien nach BGH IX ZR 81/06 Rn. 36 (Nichtabführung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 SV-Beiträge Februar 2025, die am 28.02.2025 fällig waren; Überziehung der KK-Linie
 auf 92 % bereits seit Januar 2025 laut Kontoauszügen) ist Zahlungsunfähigkeit nicht
 erst am 10.03.2025, sondern spätestens **Ende Februar 2025** eingetreten. Die
@@ -266,7 +252,7 @@ begeht einen methodischen Fehler.
 
 **2. Unkritische Übernahme von Stundungsbehauptungen**
 Die bloße Duldung durch einen Gläubiger (kein Mahn-, kein Vollstreckungsschreiben)
-begründet keine Stundung im Sinne von BGH IX ZR 228/03 (NZI 2007, 36). Fehlendes Stundungs-
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 nachweis führt zur Aufnahme der Position in die Passivseite.
 
 **2a. Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) fälschlich als Stundung werten**
@@ -278,7 +264,7 @@ Herausnahme von AdV-Beträgen aus den Passiva I führt zu einer methodisch falsc
 
 **3. Einbeziehung nicht fälliger Verbindlichkeiten**
 Verbindlichkeiten mit Fälligkeit außerhalb des 3-Wochen-Fensters dürfen nach
-Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 44 nicht in die Liquiditätsbilanz
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 eingestellt werden. Dies verwechselt die § 17-Bilanz mit einer Überschuldungsbilanz.
 
 **4. Prognosezeitraum der Fortbestehensprognose verwechseln**
@@ -305,14 +291,14 @@ Folgende Belege sind in jeder Liquiditätsvorschau mit insolvenzrechtlichem Zwec
 zwingend zu zitieren und zu berücksichtigen:
 
 **BGH-Rechtsprechung (Mindest-Pinpoints):**
-- BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 17–18
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (10-%-/3-Wochen-Schema; Abgrenzung Zahlungsunfähigkeit/Zahlungsstockung)
-- BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 Rn. 36
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Indizienkatalog Zahlungsunfähigkeit)
-- BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36(Stundungen in der Liquiditätsbilanz)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:**
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 5, 44
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 11, 28
 
 **IDW-Standard:**
@@ -320,9 +306,9 @@ zwingend zu zitieren und zu berücksichtigen:
   insb. Tz. 15–21 (Liquiditätsbilanz) und Tz. 40–55 (Fortbestehensprognose)
 
 **Ergänzend empfohlen:**
-- MüKoInsO/Drukarczyk/Schüler, 4. Aufl. 2019, § 19 Rn. 66 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   (integrierte Finanzplanung für Fortbestehensprognose)
-- Karsten Schmidt/Uhlenbruck (Hrsg.), Die GmbH in Krise, Sanierung, Insolvenz,
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
   6. Aufl. 2024, Kap. 5 Rn. 5.23 ff.
 
 ---

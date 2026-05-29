@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-agrarrecht
-description: "Eingangs-Abfrage fuer agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bussgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-pruefen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
+description: "Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-prüfen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Agrarrecht
@@ -132,22 +132,22 @@ Agrarrecht-Mandate sind oft saisonal und förderrechtlich fristbeladen. Triage s
 - VO (EU) 2021/2115 GAP-Strategieplan
 - TierSchG TierGesG
 - BauGB § 35
-- Düsing/Martinez Agrarrecht
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Vertiefung — Rechtsprechung und Normenkette Triage
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 28.04.2016 — **BLw 1/14**, RdL 2016, 230 Rn. 14: Das Landwirtschaftsgericht nach LwVG ist ausschließlich zuständig für alle Streitigkeiten aus Landpachtverhältnissen und Hofnachfolgesachen; Fehlleitung zum ordentlichen Gericht führt zur Unzuständigkeit von Amts wegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 14.03.2019 — **3 C 1.18**, BVerwGE 165, 111 Rn. 18: Verwaltungsrechtsweg gilt für alle öffentlich-rechtlichen Agrarstreitigkeiten (Förder- und Genehmigungsbescheide); Widerspruch nach § 70 VwGO ist vor Klage zwingend zu durchlaufen, sofern keine Ausnahme gilt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 26.04.2013 — **LwZR 5/12**, NJW-RR 2013, 1226 Rn. 16: Verjährung von Pachtzinsansprüchen beginnt mit dem Ende des Jahres, in dem der Pachtzins fällig wurde und der Verpächter Kenntnis erlangte (§§ 195, 199 BGB); Verjährungshemmung durch Verhandlungen § 203 BGB ist sorgfältig zu dokumentieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung Triage-Routing
 
 LwVG §§ 1 ff. (Zuständigkeit Landwirtschaftsgericht) → § 70 VwGO (Widerspruch Förderbescheid) → §§ 195, 199 BGB (Verjährung Pacht, Abfindung) → § 203 BGB (Hemmung durch Verhandlungen) → GrdstVG (Grundstücksverkehr-Genehmigung) → LPachtVG § 2 (Pachtanzeige-Frist)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. I (Einführung, Rechtsgebiete, Zuständigkeiten): Überblick Triage-Systematik; Abgrenzung Zivilrecht/Verwaltungsrecht/Landwirtschaftsgericht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

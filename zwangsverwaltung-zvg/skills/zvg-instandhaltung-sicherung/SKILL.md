@@ -1,6 +1,6 @@
 ---
 name: zvg-instandhaltung-sicherung
-description: "Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Laender. Pruefraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begruendung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren."
+description: "Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Laender. Prüfraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begründung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren."
 ---
 
 # Instandhaltung, Sicherung und Gefahrenabwehr
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 04.10.2007 - IX ZB 220/06, NZI 2007, 726 Rn. 15 — Der Zwangsverwalter hat das Objekt in ordnungsgemäßem Zustand zu erhalten; dringende Instandhaltungsmaßnahmen darf er auch ohne gerichtliche Genehmigung anordnen; größere bauliche Maßnahmen bedürfen der Genehmigung des Vollstreckungsgerichts.
-- BGH, Beschl. v. 28.06.2012 - IX ZB 183/09, NZI 2012, 690 — Verkehrssicherungspflichten treffen den Zwangsverwalter ab Besitzerlangung; bei Verletzung dieser Pflicht haftet er persönlich nach § 839 BGB i.V.m. Art. 34 GG, sofern er als Beliehener gilt, andernfalls nach § 280 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Instandhaltung/Sicherung
 
 § 152 ZVG (Pflicht ordnungsgemäße Verwaltung) → §§ 8-9 ZwVwV (Instandhaltungsmaßnahmen) → § 154 ZVG (Genehmigung größerer Maßnahmen) → § 823 Abs. 1 BGB (Verkehrssicherungspflicht) → § 836 BGB (Haftung Grundstücksbesitzer) → § 278 BGB (Erfüllungsgehilfe)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 152 Rn. 50-75 (Instandhaltungspflicht)
-- Böttcher ZVG 6. Aufl., § 152 Rn. 30-55 (Verwalterpflichten Gebäudeerhalt)
-- Palandt/Sprau § 836 BGB Rn. 5-15 (Haftung Grundstücksbesitzer)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Instandhaltung/Sicherung
 
 1. Liegen akute Gefahrenstellen vor? (Sofortmaßnahme ohne Genehmigung möglich)

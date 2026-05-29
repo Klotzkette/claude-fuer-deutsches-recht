@@ -1,6 +1,6 @@
 ---
 name: verfassungsrecht-grundrechtspruefung
-description: "Student prueft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhaeltnismaessigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Pruefraster Drei-Schritt-Schema pro Grundrecht Verhaeltnismaessigkeitspruefung Schluss-Saetze. Output Grundrechts-Pruefungsschema Argumentation. Abgrenzung zu oeffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden)."
+description: "Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden)."
 ---
 
 # Verfassungsrecht — Grundrechts-Prüfung
@@ -35,7 +35,7 @@ C. Verfassungs-rechtliche Rechtfertigung
 
 - **Deutsche Grundrechte** (Art. 8, Art. 9, Art. 11, Art. 12, Art. 16): nur deutsche Staatsangehörige
 - **Jedermanns-Rechte** (Art. 1-7, Art. 10, Art. 13, Art. 14): alle natürlichen Personen
-- **Juristische Personen** Art. 19 III GG, soweit „wesensmäßig"
+- **Juristische Personen** Art. 19 III GG, soweit "wesensmäßig"
 
 ### Sachlicher Schutzbereich
 
@@ -83,13 +83,13 @@ C. Verfassungs-rechtliche Rechtfertigung
 
 #### Einfacher Gesetzes-Vorbehalt
 
-- „durch Gesetz", „durch und aufgrund eines Gesetzes"
+- "durch Gesetz", "durch und aufgrund eines Gesetzes"
 - Z.B. Art. 8 II GG (Versammlung außer im Freien), Art. 11 II GG (Freizügigkeit)
 
 #### Qualifizierter Gesetzes-Vorbehalt
 
 - Mit Zusatz-Bedingung
-- Z.B. Art. 11 II GG („zur Bekämpfung der Seuchen, ..."), Art. 12 I 2 GG („durch Gesetz oder aufgrund eines Gesetzes")
+- Z.B. Art. 11 II GG ("zur Bekämpfung der Seuchen, ..."), Art. 12 I 2 GG ("durch Gesetz oder aufgrund eines Gesetzes")
 
 ### Eingriffs-Befugnis
 
@@ -124,7 +124,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Auffangs-Grundrecht
 - Sehr weiter Schutzbereich
-- Schranke: „Rechte anderer", „verfassungsmäßige Ordnung", „Sittengesetz"
+- Schranke: "Rechte anderer", "verfassungsmäßige Ordnung", "Sittengesetz"
 
 ### Art. 2 I iVm Art. 1 I GG — Allgemeines Persönlichkeitsrecht (APR)
 
@@ -154,7 +154,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Eheschutz Art. 6 I GG
 - Elternrecht Art. 6 II GG
-- Sehr weiter Schutzbereich für „Familie"
+- Sehr weiter Schutzbereich für "Familie"
 
 ### Art. 8 GG — Versammlungs-Freiheit
 
@@ -169,7 +169,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Art. 12 GG — Berufs-Freiheit
 
 - Beruf-Wahl + Beruf-Ausübung
-- Drei-Stufen-Theorie (BVerfGE Band 7 Seite 377 Apotheker-Urteil):
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   - 1. Stufe: Berufsausübungs-Regelung
   - 2. Stufe: subjektive Berufswahl-Schranke
   - 3. Stufe: objektive Berufswahl-Schranke
@@ -191,7 +191,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Mittelbare Drittwirkung
 
 - Grundrechte wirken im Zivilrecht **mittelbar** durch Generalklauseln (§ 138 BGB, § 242 BGB, § 826 BGB)
-- BVerfGE Band 7 Seite 198 (Lüth-Urteil) — Klassiker
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auslegungs-Methode: verfassungs-konform
 
 ### Unmittelbare Drittwirkung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-doping-cas-berufung
-description: "Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG § 4. Pruefraster Strict-Liability-Pruefung TUE No-Fault-Nachweis Art. 10 Abs. 5 CAS-Fristen. Output CAS-Berufungsschrift TUE-Antrag Sanktions-Reduktions-Argumentation. Abgrenzung zu cas-berufung-vorbereiten (allg. Berufung) und fachanwalt-sportrecht-doping-verfahren (NADA-Erstverfahren)."
+description: "Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG § 4. Prüfraster Strict-Liability-Prüfung TUE No-Fault-Nachweis Art. 10 Abs. 5 CAS-Fristen. Output CAS-Berufungsschrift TUE-Antrag Sanktions-Reduktions-Argumentation. Abgrenzung zu cas-berufung-vorbereiten (allg. Berufung) und fachanwalt-sportrecht-doping-verfahren (NADA-Erstverfahren)."
 ---
 
 # Doping-Berufung CAS
@@ -15,7 +15,7 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 - Athlet haftet **ohne Verschulden** für positive Tests
 - Auch bei kontaminiertem Nahrungsergänzungsmittel
-- BGH NJW 2016, 1024 (Pechstein KZR 6/15)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Verbotene Substanzen
 
@@ -72,8 +72,7 @@ Verteidigung Athlet bei Doping-Vorwurf.
 ### Anfechtung Schiedsspruch
 
 - Schweizer Bundesgericht (begrenzte Anfechtungs-Gründe)
-- BGH I ZR 137/18 (Pechstein) zur Anerkennung CAS-Spruch
-- BGH KZR 6/15 v. 7.6.2016 (Pechstein) zur CAS-Wirksamkeit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EGMR-Linie zu Schiedszwang Sport
 
 ## 5) Workflow

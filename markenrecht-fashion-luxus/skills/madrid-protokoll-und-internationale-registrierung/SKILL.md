@@ -1,6 +1,6 @@
 ---
 name: madrid-protokoll-und-internationale-registrierung
-description: "Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern ueber IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Pruefraster: Basismarke DE/EU, Subsequent Designations fuer US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act."
+description: "Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüfraster: Basismarke DE/EU, Subsequent Designations für US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act."
 ---
 
 # Madrid-Protokoll und Internationale Registrierung
@@ -102,7 +102,7 @@ Nach Brexit mussten UK-Schutze neu beantragt werden (UKIPO). Subsequent Designat
 
 - WIPO-Leitfaden Madrid System for the International Registration of Marks, 2024
 - McCarthy on Trademarks, Vol. 4, § 29 (International Registration)
-- BeckOK MarkenR, § 107 MarkenG Rn. 1 ff. (Internationale Registrierung)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 107-125 (IR-Marken)
 
 ## Templates
@@ -143,8 +143,8 @@ Bevor die internationale Registrierung beantragt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 23.10.2014 — I ZR 133/13 (Combit / Commit):** Bei internationalen Markenregistrierungen richtet sich die Verwechslungsgefahr in Deutschland nach dem inlaendischen Klang- und Schriftbildvergleich; die Abkuerzung eines englischen Begriffs, der im Deutschen anders ausgesprochen wird, kann dennoch Verwechslungsgefahr ausloesen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 19.12.2019 — C-241/18 (RSD / R.S.D.):** Die Benutzungspflicht einer IR-Marke nach Art. 58 I lit. a UMV richtet sich nach den gleichen Maßstaeben wie bei EUTM-Direktanmeldungen; blosse Vorbereitungshandlungen genuegen nicht als Benutzungsnachweis.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO BoA, Entsch. v. 23.05.2018 — R 1511/2017-5 (Transformation Madrid):** Bei Central Attack und anschliessender Transformation gemaess Art. 9quinquies PMMA bleibt der urspruengliche IR-Anmeldetag als Prioritaetsdatum erhalten; die Transformation ist fristgebunden (3 Monate nach IR-Streichung) und erfordert aktives Handeln des Rechteinhabers.

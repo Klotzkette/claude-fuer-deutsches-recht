@@ -1,6 +1,6 @@
 ---
 name: buergerversammlung-protokoll-audit
-description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollstaendigkeit pruefen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Pruefraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemaesse Niederschrift Vorfestlegungs-Anzeichen Auswertung fuer Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz."
+description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemäße Niederschrift Vorfestlegungs-Anzeichen Auswertung für Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz."
 ---
 
 # Bürgerversammlung — Protokoll-Audit
@@ -142,11 +142,8 @@ Die Bürgerversammlung ist der zentrale Erörterungsort der frühzeitigen Beteil
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BVerwG, Urt. v. 05.07.1974 — 4 C 50.72, BVerwGE 45, 309 Rn. 12: Vorfestlegung im Planverfahren kann als Abwaegungsausfall gewertet werden; erkennbare Bindung an Investoreninteressen vor Abwaegung macht Beschluss angreifbar.
-- BVerwG, Urt. v. 12.12.1969 — 4 C 105.66, BVerwGE 34, 301 Rn. 8: Abwaegung muss erkennbar stattgefunden haben; rein protokollarische Wiedergabe ohne inhaltliche Auseinandersetzung ist Abwaegungsdefizit.
-- OVG NW, Urt. v. 19.11.2015 — 2 D 57/13, NVwZ-RR 2016, 340 Rn. 18: Fehlerhafte oder lueckenhafte Protokollierung der Buergerversammlung kann als Indiz fuer Vorfestlegung gewertet werden, wenn Wortbeitraege systematisch fehlen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — § 3 Abs. 1 Rn. 1 ff. fruehzeitige Beteiligung
-- Ernst/Zinkahn, BauGB — § 3 Rn. 1 ff.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

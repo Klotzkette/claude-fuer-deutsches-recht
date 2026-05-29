@@ -103,7 +103,7 @@ Das GX-900 erreicht ≤ 1 μm – unterschreitet damit die Schwelle erheblich.
 
 Das integrierte HSM mit AES-256 und ECC-384 ist auf Tauglichkeit für Position **5E002** (Software für die Entwicklung oder Produktion von Gütern der Pos. 5A002) zu prüfen. Pos. 5A002.a umfasst Systeme zur Sicherung von Informationen mittels kryptographischer Methoden.
 
-**Ausnahme:** Note 3 zu Kategorie 5 Teil 2 (Cryptography Note / „CN") sieht eine Freistellung vor, wenn die kryptographischen Funktionen nicht das primäre Element der Ware sind und die Ware für einen allgemeinen, kommerziellen Zweck (ohne selektive Kontrollmöglichkeit) entwickelt wurde. Das GX-900 nutzt den HSM ausschließlich zur Integritätssicherung von Firmware-Updates und Gerätezertifikaten, nicht zur Verschlüsselung von Kommunikationsinhalten im Sinne einer Vertraulichkeitslösung.
+**Ausnahme:** Note 3 zu Kategorie 5 Teil 2 (Cryptography Note / "CN") sieht eine Freistellung vor, wenn die kryptographischen Funktionen nicht das primäre Element der Ware sind und die Ware für einen allgemeinen, kommerziellen Zweck (ohne selektive Kontrollmöglichkeit) entwickelt wurde. Das GX-900 nutzt den HSM ausschließlich zur Integritätssicherung von Firmware-Updates und Gerätezertifikaten, nicht zur Verschlüsselung von Kommunikationsinhalten im Sinne einer Vertraulichkeitslösung.
 
 **Befund:** Die CN (Cryptography Note) greift mit hoher Wahrscheinlichkeit; eine Einstufung unter 5A002/5E002 ist nicht indiziert. Eine formelle BAFA-Anfrage zur Bestätigung wird empfohlen.
 

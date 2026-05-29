@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung
-description: "Bank kuendigt Kredit ordentlich oder ausserordentlich und Mandant will Kuendigung anfechten oder verhandeln. §§ 488 490 498 BGB ordentliche Kuendigung ausserordentliche Kuendigung Verbraucherdarlehen. Normen §§ 488 490 498 BGB AGB-Banken Nr. 19 26. Pruefraster Kuendigungs-Voraussetzungen Vorfaelligkeitsentschaedigung Schadensberechnung BGH XI ZR. Output Widerspruch Verhandlungs-Strategie Klage. Abgrenzung zu kreditkuendigung-490-bgb (Sofortfall) und widerrufsjoker (Belehrungsfehler)."
+description: "Workflow-Skill zu fachanwalt bank kapitalmarktrecht kreditkuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Kreditkündigung
@@ -20,7 +20,7 @@ description: "Bank kuendigt Kredit ordentlich oder ausserordentlich und Mandant 
 - Allgemeines Kündigungsrecht aus wichtigem Grund § 314 BGB — Abmahnung erforderlich falls Pflichtverletzung.
 - Bei Verbraucherdarlehen § 498 BGB: qualifizierter Zahlungsverzug erforderlich (zwei aufeinander folgende Raten ganz oder teilweise; bei Restlaufzeit > 3 Jahre 10 %, bei kürzerer 5 % des Nennbetrags); zweiwöchige Heilungsfrist nach Mahnung.
 - AGB-Banken Nr. 19 (ordentliche Kündigung) und Nr. 26 (außerordentliche Kündigung) — AGB-Kontrolle § 307 BGB.
-- Vorfälligkeitsentschädigung § 502 BGB; Berechnungsmethode (Aktiv-Passiv-Vergleich) BGH XI ZR 27/00, Urt. v. 07.11.2000, Rn. 18 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Treu und Glauben § 242 BGB — Kündigung zur Unzeit oder ohne überwiegenden Bankinteressen.
 
 ## Beweislast und Frist
@@ -46,7 +46,7 @@ description: "Bank kuendigt Kredit ordentlich oder ausserordentlich und Mandant 
 7. Schadensersatz wegen unberechtigter Kuendigung § 280 BGB
 ```
 
-Standardliteratur: Grüneberg BGB §§ 488 ff.; Bunte AGB-Banken; Schimansky/Bunte/Lwowski Bankrechts-Handbuch.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Schreibvorlage Verteidigung gegen Kreditkündigung
 
@@ -90,10 +90,7 @@ Mit freundlichen Gruessen
 
 ### Leitsaetze Kreditkuendigung
 
-- BGH, Urt. v. 14.01.2020 - XI ZR 143/19, NJW 2020, 1274 Rn. 22 — Bei Verbraucherdarlehen genuegt nicht jede Forderungsrueckstaende; qualifizierter Verzug nach § 498 BGB setzt zwei aufeinanderfolgende Raten voraus, wobei die Prozenthuerden (10 % / 5 %) kumulativ auf den Nennbetrag bezogen werden.
-- BGH, Urt. v. 26.03.2019 - XI ZR 228/17, NJW 2019, 1962 Rn. 31 — Wesentliche Vermoegensverschlechterung nach § 490 Abs. 1 BGB erfordert eine objektive Gefaehrdung des Rueckzahlungsanspruchs; eine bloss drohende Insolvenz reicht wenn weitere Umstaende die Sicherheitenlage verschlechtern.
-- BGH, Urt. v. 15.01.2013 - XI ZR 22/12, WM 2013, 444 Rn. 14 — Ordentliche Kreditkuendigung nach AGB-Banken Nr. 19 ist AGB-rechtlich wirksam, muss aber verhaeltnismaessig sein; bei lang laufenden Kontokorrentverhaeltnissen erhoehte Begruendungspflicht der Bank.
-- BGH, Urt. v. 19.09.2006 - XI ZR 242/05, NJW 2006, 3774 Rn. 19 — Kuendigung zur Unzeit (§ 242 BGB) kommt in Betracht, wenn Bank Kuendigung im Moment der drohenden Heilung der Verzugssituation ausspricht; Bank muss zumutbare Wartezeit einhalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette
 
@@ -105,11 +102,9 @@ Mit freundlichen Gruessen
 - § 242 BGB — Treu und Glauben, Kuendigung zur Unzeit
 - AGB-Banken Nr. 19, 26 — vertragliche Kuendigungsrechte; AGB-Kontrolle § 307 BGB
 
-### Kommentarliteratur
-- Schimansky/Bunte/Lwowski, Bankrechts-Handbuch, 5. Aufl., § 79 (Kuendigung von Kreditverhaeltnissen)
-- Grueneberg BGB § 488 Rn. 25 ff., § 498 Rn. 1 ff.
-- BeckOK BGB/Rohe § 490 (Kuendigungsrecht bei Vermoegensverschlechterung)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Triage-Fragen Kreditkuendigung
 
 Bevor losgelegt wird, klaere:
@@ -117,7 +112,7 @@ Bevor losgelegt wird, klaere:
 2. Liegt Schriftform-Kuendigung vor (§ 492 BGB bei Verbraucherdarlehen)? → Formfehler = Unwirksamkeit
 3. Qualifizierter Verzug nach § 498 BGB erreicht? → Rate 1 und Rate 2 ganz/teilweise offen; Prozentsatz pruefen
 4. Heilungsfrist von zwei Wochen nach ordnungsgemaesser Mahnung abgelaufen?
-5. Ist VFE-Berechnung nachvollziehbar (Aktiv-Passiv-Vergleich BGH XI ZR 27/00)?
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Widerspruchsschreiben
 **Adressat:** Kreditgebende Bank — Tonfall: sachlich-juristisch, fristsetzend

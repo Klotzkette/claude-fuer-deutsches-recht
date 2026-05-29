@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionshaftung-hgb
-description: "Speditionshaftung nach HGB pruefen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Pruefraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtfuehrerhaftung §§ 407 ff. HGB."
+description: "Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Prüfraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtführerhaftung §§ 407 ff. HGB."
 ---
 
 # Speditions-Haftung §§ 453 ff. HGB
@@ -93,8 +93,7 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 
 ## 8) BGH-Linien
 
-- BGH, Urt. v. 24.10.2018 — I ZR 178/17 (Speditions-Haftung)
-- BGH, Urt. v. 23.7.2020 — I ZR 119/19 (ADSp-Einbeziehung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

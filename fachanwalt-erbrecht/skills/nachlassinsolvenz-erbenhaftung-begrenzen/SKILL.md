@@ -1,6 +1,6 @@
 ---
 name: nachlassinsolvenz-erbenhaftung-begrenzen
-description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Pruefraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht fuer Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung)."
+description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht für Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung)."
 ---
 
 # Nachlassinsolvenz und Erbenhaftung begrenzen
@@ -43,14 +43,11 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | IV ZR 239/12 | 04.06.2014 | Inventarerrichtung § 2002 BGB — Inventar muss vollständig sein; wissentlich unvollständiges Inventar führt zu unbeschränkter Haftung |
-| BGH | IX ZB 70/09 | 06.05.2010 | Nachlassinsolvenz §§ 315 ff. InsO — Erbe kann Insolvenzantrag stellen; Gläubiger auch antragsberechtigt |
-| BGH | IV ZR 177/11 | 07.12.2011 | § 1990 BGB Dürftigkeits-Einrede — Erbe muss Einrede erheben; Gericht kann nicht von Amts wegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Haftungsbegrenzungs-Instrumente
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Instrument | Frist | Voraussetzung | Folge |
 |---------|-----------|-------|--------------|-------|
@@ -73,7 +70,7 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 
 ### Praktische Hinweise
 
-- Frist beginnt mit **positiver Kenntnis** — nicht mit Verdacht oder Möglichkeit der Kenntnisnahme (st. Rspr., vgl. BGH NJW-RR 2000, 1530)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Überschuldungsverdacht: unverzüglich Nachlass-Überblick verschaffen; keine Aktivitäten, die Erbschaftsannahme implizieren (Konten-Abhebungen, Schuldenbegleichung aus eigenem Vermögen)
 - Konkludente Erbschaftsannahme: Zahlung von Erblasserschulden, Inbesitznahme Nachlassgegenstände, Antrag auf Erbschein
 
@@ -143,7 +140,7 @@ Das Inventar ist das vollständige Verzeichnis des Nachlasses (Aktiva und Passiv
 **Anwendung:**
 - Wenn Nachlassverwaltung oder -insolvenz nicht angeordnet/beantragt
 - Erbe kann Befriedigung auf Nachlassbestand beschränken
-- Einrede muss aktiv erhoben werden (BGH IV ZR 177/11)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Wirkung:**
 - Gläubiger können Herausgabe der Nachlassgegenstände verlangen
@@ -243,7 +240,6 @@ Saldo: EUR [-Z]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Partei | Beweislastgegenstand | Beweismittel |
@@ -268,11 +264,11 @@ Saldo: EUR [-Z]
 
 | Gegenargument Gläubiger | Reaktion |
 |------------------------|---------|
-| „Erbe hat Erbschaft konkludent angenommen" | Prüfung ob Inbesitznahme, Schuldenbegleichung etc. erfolgt ist; ggf. Anfechtung § 1954 BGB |
-| „Frist § 1944 BGB abgelaufen" | Anfechtung der Annahme § 1954 BGB wenn Irrtum über Überschuldung (§ 1954 BGB; BGH IV ZB 39/14, 10.06.2015) |
-| „Dürftigkeits-Einrede nicht rechtzeitig erhoben" | § 1990 BGB-Einrede kann noch im Prozess erhoben werden solange keine Befriedigung erfolgt |
-| „Nachlassinsolvenz zu spät" | § 1980 BGB: Ersatz-Haftung des Erben für Verzögerungsschaden; Minderung durch frühestmögliche Antragstellung |
-| „Nachlassverwaltung nicht beantragt" | Noch möglich solange kein Insolvenzverfahren eröffnet |
+| "Erbe hat Erbschaft konkludent angenommen" | Prüfung ob Inbesitznahme, Schuldenbegleichung etc. erfolgt ist; ggf. Anfechtung § 1954 BGB |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Dürftigkeits-Einrede nicht rechtzeitig erhoben" | § 1990 BGB-Einrede kann noch im Prozess erhoben werden solange keine Befriedigung erfolgt |
+| "Nachlassinsolvenz zu spät" | § 1980 BGB: Ersatz-Haftung des Erben für Verzögerungsschaden; Minderung durch frühestmögliche Antragstellung |
+| "Nachlassverwaltung nicht beantragt" | Noch möglich solange kein Insolvenzverfahren eröffnet |
 
 ## Streitwert und Kosten
 
@@ -304,12 +300,10 @@ Saldo: EUR [-Z]
 
 - BGB §§ 1922, 1944, 1945, 1953, 1954, 1970, 1975, 1980, 1981, 1990, 1994, 2002, 2005, 2007, 2058, 2059, 1371
 - InsO §§ 315–331
-- BGH IX ZB 70/09 (06.05.2010)
-- BGH IV ZR 177/11 (07.12.2011)
-- MüKoBGB Erbrecht, §§ 1975 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026
 
 <!-- AUDIT 27.05.2026 bundle_021
 GELÖSCHT: BGH IV ZR 113/15 (26.10.2016) – NOT_FOUND auf dejure.org; AZ existiert nicht nachweisbar. Alle 3 Fundstellen entfernt (Leitentscheidungstabelle Zeile 46, Praktische Hinweise Zeile 78, Quellen Zeile 309). Ersatz: st. Rspr. BGH NJW-RR 2000 1530 / BGH IV ZB 39/14.
-GELÖSCHT: OLG Hamm 15 W 283/14 (22.01.2015) – NOT_FOUND auf dejure.org; AZ nicht nachweisbar. Aus Leitentscheidungstabelle und Gegenargument-Tabelle entfernt; Verweis durch § 1954 BGB und BGH IV ZB 39/14 ersetzt.
 -->

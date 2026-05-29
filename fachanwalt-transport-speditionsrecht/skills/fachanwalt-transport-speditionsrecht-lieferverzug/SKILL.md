@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-lieferverzug
-description: "Lieferverzug im Gueterverkehr pruefen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Pruefraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden."
+description: "Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Prüfraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden."
 ---
 
 # Lieferverzug
@@ -23,7 +23,7 @@ description: "Lieferverzug im Gueterverkehr pruefen: Verspaetungsschaden, Haftun
 - Wertdeklaration § 449 HGB / Art. 26 CMR durchbricht Höchstbetrag.
 - Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR unbegrenzte Haftung.
 - Schadensanzeige § 438 Abs. 3 HGB / Art. 30 Abs. 3 CMR: 21 Tage nach Ablieferung — sonst Anspruch erloschen (CMR) bzw. Beweislastnachteil (HGB).
-- BGH zur Auslegung der angemessenen Lieferfrist: BGH I ZR 30/05, Urt. v. 17.05.2006, Rn. 16 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -49,7 +49,7 @@ description: "Lieferverzug im Gueterverkehr pruefen: Verspaetungsschaden, Haftun
 9. Wegfall Lieferinteresse § 423 HGB — Schadensersatz statt Erfuellung
 ```
 
-Standardliteratur: Koller Transportrecht; MüKo-HGB / Boesche § 423; Thume CMR-Kommentar.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Schreibvorlage Verzugsforderung
 

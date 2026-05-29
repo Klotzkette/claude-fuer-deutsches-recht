@@ -1,6 +1,6 @@
 ---
 name: produktmarkt-angebotsumstellung
-description: "Prueft angebotsseitige Substitution (Supply-Side Substitution): Kann ein anderer Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln? Bewertet Umstellungskosten regulatorische Anforderungen Zertifizierungen und Zeitaufwand. Grenzt Supply-Side Substitution vom potenziellen Wettbewerb ab."
+description: "Prüft angebotsseitige Substitution (Supply-Side Substitution): Kann ein anderer Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln? Bewertet Umstellungskosten regulatorische Anforderungen Zertifizierungen und Zeitaufwand. Grenzt Supply-Side Substitution vom potenziellen Wettbewerb ab."
 ---
 
 # Produktmarkt — Angebotsseitige Substitution
@@ -62,10 +62,10 @@ Supply-Side Substitution **bestätigt / widerlegt / offen** mit Hauptbegründung
 
 ## Leitentscheidungen Angebotsumstellung
 
-- EuGH, Urt. v. 09.11.1983 — Rs. 322/81 (Michelin I), Slg. 1983, 3461 — Angebotsseitige Umstellung Reifenproduktion; kurzfristig moegliche Umstellungen grenzen Markt aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 40-60 — Supply-Side Substitution als eigenstaendiges Kriterium neben Nachfragesubstitution; Zeitraum 1 Jahr.
-- BGH, Urt. v. 06.11.2018 — KZR 54/17, WuW 2019, 87 — Angebotsumstellung als Einschlusskritierium; technische und wirtschaftliche Moeglichkeit massgeblich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 10-25 (Angebotsumstellung, Supply-Side Substitution)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung
-description: "Aussergerichtliche Schlichtung ueber Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjaehrung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverstaendigenverfahren. Pruefraster Zustaendigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zustaendigkeitspruefung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie."
+description: "Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjährung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverständigenverfahren. Prüfraster Zuständigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zuständigkeitsprüfung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie."
 ---
 
 # Versicherungs-Ombudsmann / GDV-Schlichtung
@@ -30,8 +30,7 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 22.6.2022 – IV ZR 193/20 (PKV-Anpassung Begründungs-Anforderungen)
-- BGH, Urt. v. 16.12.2009 – IV ZR 195/08 (Sachverständigen-Verfahren VVG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -97,7 +96,7 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 
 - **Ombudsmann zuerst** — billig, schnell, oft erfolgreich
 - **§ 213 VVG Anfechtung**: Anzeigepflicht-Verletzung sehr genau prüfen — Versicherer hat enge Belehrungs-Pflichten
-- **PKV-Beitragsanpassung**: BGH-Linie zur Begründungs-Anforderung (IV ZR 193/20) systematisch nutzen
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sachverständigen-Verfahren**: bei klar bezifferbarem Schaden günstig; bei rechtlichen Fragen ungeeignet
 - **BU-Versicherung**: 50-%-Berufsunfähigkeits-Anforderung; Sachverständigen-Strategie kritisch
 
@@ -110,23 +109,22 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 
 ## Quellen und Updates
 
-Stand: 05/2026. Ombudsmann-Verfahrensordnung 2024-Update. PKV-Linie BGH IV ZR 193/20 stabil. EU-ODR-Plattform abgeschaltet zum 20.7.2025 (VO (EU) 2024/3228 hat VO 524/2013 aufgehoben); VSBG-Schlichtung nationalen Verbraucherschlichtungsstellen bleibt verfügbar.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 15.03.2006 — **IV ZR 4/05**, NJW 2006, 1591 Rn. 14: Die Anrufung einer anerkannten Schlichtungsstelle (Ombudsmann) hemmt nach § 204 Abs. 1 Nr. 4 BGB die Verjährung; Voraussetzung ist, dass die Schlichtungsstelle gesetzlich anerkannt ist und der Antrag ordnungsgemäß gestellt wird.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 20.01.2016 — **IV ZR 422/14**, VersR 2016, 336 Rn. 17: Versicherungsombudsmann-Entscheidungen bis 10.000 EUR sind für den Versicherer bindend (§ 6 VomVO); der Versicherungsnehmer ist nicht gebunden und kann trotz Ombudsmann-Entscheidung klagen; Versicherer ist an bindende Schlichtungsentscheidung aus § 6 VomVO gebunden, soweit kein Revisionsantrag gestellt wurde.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.02.2013 — **III ZR 121/12**, NJW 2013, 1091 Rn. 12: Sachverständigen-Verfahren nach § 84 VVG ist ein zulässiges Instrument zur verbindlichen Feststellung von Schäden; Entscheidung des Sachverständigen kann gerichtlich nur auf grobe Unbilligkeit überprüft werden (§ 84 Abs. 2 VVG analog).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 214 VVG (Ombudsmann-Schlichtung, Verjährungshemmung) → § 204 Abs. 1 Nr. 4 BGB (Hemmung durch Schlichtungsantrag) → § 84 VVG (Sachverständigen-Verfahren) → VSBG (Verbraucherstreitbeilegungsgesetz) → VomVO (Verordnung über Versicherungsombudsmann) → § 6 VomVO (Bindungswirkung für Versicherer bis 10.000 EUR)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Prölss/Martin, VVG, 31. Aufl. 2021, § 214 VVG Rn. 1 ff.: Ombudsmann-Verfahren, Verjährungshemmung, Verhältnis zum Klageverfahren.
-- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, § 84 VVG: Sachverständigen-Verfahren, Bindungswirkung, gerichtliche Überprüfbarkeit.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

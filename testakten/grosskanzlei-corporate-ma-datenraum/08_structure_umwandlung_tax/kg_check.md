@@ -13,7 +13,7 @@
 
 Dieses Memo klärt gesellschaftsrechtliche Fragen im Zusammenhang mit der Ausgliederung der Solaris Service GmbH und verweist auf eine frühere Strukturoption, bei der ein KG-Anteilserwerb erwogen wurde. Im vorliegenden Deal ist die Zielgesellschaft die Solaris Industries AG (keine KG), jedoch war im Rahmen der Carve-out-Vorbereitungsmaßnahmen kurzzeitig die Option diskutiert worden, eine GmbH & Co. KG als Zwischenholding einzuschalten. Dieses Memo dokumentiert die Untersuchung dieser Option und erklärt, warum sie verworfen wurde.
 
-Hinweis: Die vorliegende Akte enthält in der Ursprungsversion noch Referenzen auf eine „Delta Maschinenbau GmbH & Co. KG" — dies entstammt einer Frühversion des Aktenkonzepts. Die hiesige Transaktion betrifft die Solaris Industries AG. Das vorliegende Memo klärt, welche KG-relevanten Rechtsfragen trotzdem Bedeutung haben (Solaris Service GmbH als GmbH — kein KG-Recht; jedoch Ausgliederung in neuen Rechtsträger ist angedacht).
+Hinweis: Die vorliegende Akte enthält in der Ursprungsversion noch Referenzen auf eine "Delta Maschinenbau GmbH & Co. KG" — dies entstammt einer Frühversion des Aktenkonzepts. Die hiesige Transaktion betrifft die Solaris Industries AG. Das vorliegende Memo klärt, welche KG-relevanten Rechtsfragen trotzdem Bedeutung haben (Solaris Service GmbH als GmbH — kein KG-Recht; jedoch Ausgliederung in neuen Rechtsträger ist angedacht).
 
 ---
 

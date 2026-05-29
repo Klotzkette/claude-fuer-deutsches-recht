@@ -1,5 +1,14 @@
 # Testakte JVEG Zeugenentschädigung – Dr. Sophia Berger / LG Tübingen
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-jveg-zeugin-berger-lg-tuebingen` (diese Akte) | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Kurzbezeichnung:** JVEG Zeugin Berger · Internationaler Anreisefall · Vorschuss und Festsetzung
 
 ---

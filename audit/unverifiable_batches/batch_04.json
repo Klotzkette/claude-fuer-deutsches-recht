@@ -1,0 +1,344 @@
+[
+  {
+    "az": "IV ZR 414/13",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IV ZR 42/20",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IV ZR 5/04",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZB 183/03",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZB 25/05",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZB 36/21",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZB 525/02",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 101/17",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 108/21",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 110/14",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 117/08",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 117/12",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 14/21",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 167/17",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "az": "IX ZR 173/18",
+    "status": "UNVERIFIABLE",
+    "note": "Nicht auf dejure"
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 23/19",
+    "status": "UNVERIFIABLE",
+    "context_topic": "Erste Entscheidung zu § 650b/c BGB Anordnungsrecht; Urt. v. 09.01.2020",
+    "actual_topic": "Verfahren ohne Entscheidung erledigt",
+    "note": "Aktenzeichen existiert auf dejure.org aber Verfahren wurde ohne Entscheidung erledigt; Thema nicht verifizierbar"
+  },
+  {
+    "court": "BGH",
+    "az": "VIII ZR 226/83",
+    "status": "UNVERIFIABLE",
+    "context_topic": "§§ 308, 309 BGB Klauselverbote im B2B als Indiz; NJW 1985, 623; Urt. v. 31.10.1984",
+    "actual_topic": "AGB Möbelhandel § 13 AGBG kundenfeindlichste Auslegung; NJW 1985, 623; Urt. v. 31.10.1984",
+    "note": "Datum und NJW-Zitat stimmen; Verwendung als Indiz für B2B ist eine Rechtsfolgenableitung; inhaltlich plausibel aber Thema im Kontext überinterpretiert"
+  },
+  {
+    "court": "BGH",
+    "az": "VIII ZR 307/20",
+    "status": "UNVERIFIABLE",
+    "context_topic": "Beweislast anspruchsbegründende Merkmale § 363 BGB (Kontext sehr allgemein)",
+    "actual_topic": null,
+    "note": "Nur als kurzes Zitat ohne Entscheidungsbeschreibung im Kontext erwähnt; dejure nicht gesucht"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 27/00",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifikationsgeprüft (Vorfälligkeitsentschädigungsthema plausibel für XI Zivilsenat)",
+    "claimed_topic": "Vorfälligkeitsentschädigung §502 BGB; Berechnungsmethode (Aktiv-Passiv-Vergleich)",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/mandat-triage-bank-kapitalmarktrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 456/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (§358 BGB Verbundgeschäft plausibel für XI. Zivilsenat)",
+    "claimed_topic": "Verbundgeschäft: Bei verbundenem Kauf kein §358-Hinweis; fehlender Hinweis führt zu Fehler",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/mandat-triage-bank-kapitalmarktrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 124/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (möglicherweise Familienrecht/Schutzanordnung)",
+    "claimed_topic": "Eilanträge zum Schutz (§1 GewSchG): vorläufiger Rechtsschutz (15.04.2015, NJW 2015 2258 Rn.22)",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/mandat-triage-bank-kapitalmarktrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 174/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert auf dejure (kein Treffer für XII ZB 174/18 am 14.11.2018)",
+    "claimed_topic": "FamRZ 2019 232 Rn.14 (14.11.2018)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 530/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (XII ZB 530/17 existiert, betrifft Leihmutterschaft)",
+    "claimed_topic": "FamRZ 2016 1264 Rn.9ff (04.05.2016)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 575/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (XII ZB 575/15 von 06.04.2016 gefunden, anderes Verfahren)",
+    "claimed_topic": "Beschwerde gegen Familienrechtsbeschlüsse (§58 FamFG); Zugang zum Familiengericht (11.04.2018, FamRZ 2018 930 Rn.16)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 607/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Verfahrenswert nach §43 FamGKG: Nettoeinkommen beider Ehegatten maßgeblich (29.06.2016)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 9/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "FamRZ 2018 219 Rn.8ff (25.10.2017)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 99/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Ordnungsmittel nach §89 FamFG setzen vorherige Belehrung und zureichende Frist voraus (15.12.2021)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 22/07",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Vollständigkeit der Vertragsdokumentation im Mietrecht (10.12.2008, NJW 2009 1272)",
+    "source_url": "",
+    "skills": "mietrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 25/06",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Halbteilungsgrundsatz beim Ehegattenunterhalt (30.07.2008, FamRZ 2008 1911 Rn.25)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 27/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Betreuungsunterhalt §1570 BGB: stufenweise Erwerbsobliegenheit (20.05.2015)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 80/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Begrenzung nachehelicher Unterhalt §1578b BGB - einvernehmliche Eheplanung berücksichtigen (05.11.2014)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 11 AL 47/00 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (B 11a AL 47/05 R existiert, betrifft Sperrzeit/Aufhebungsvertrag)",
+    "claimed_topic": "Standard-Linie Arbeitslosengeld (BSG B 11 AL 47/00 R)",
+    "source_url": "",
+    "skills": "sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 11 AL 50/06 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Mitwirkungspflichten im Arbeitslosengeldrecht (BSG B 11 AL 50/06 R)",
+    "source_url": "",
+    "skills": "sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 14 AS 17/17 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "SGB II §§7, 9, 11-12, 22, 31-31b; BSG Urt. v. 14.03.2018",
+    "source_url": "",
+    "skills": "sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 14 AS 31/17 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Vorverfahren §78 SGG in SGB II-Verfahren (25.04.2018, SozR 4-4200 §40 Nr.10 Rn.15)",
+    "source_url": "",
+    "skills": "sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 6 KA 35/16 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Kassenarztrecht/Wirtschaftlichkeit plausibel)",
+    "claimed_topic": "Wirtschaftlichkeit der Verordnung/Abrechnung (BSG B 6 KA 35/16 R, 21.03.2018)",
+    "source_url": "",
+    "skills": "medizinrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 6 KA 49/12 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Kassenarztrecht/Regelleistungsvolumen plausibel)",
+    "claimed_topic": "RLV-Berechnung (Regelleistungsvolumen) im Vertragsarztrecht (BSG B 6 KA 49/12 R, 17.07.2013)",
+    "source_url": "",
+    "skills": "medizinrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 7 AL 14/10 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Arbeitslosengeld (BSG B 7 AL 14/10 R)",
+    "source_url": "",
+    "skills": "sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "B 9 SB 1/18 R",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Schwerbehindertenrecht plausibel für B 9 SB-Senat)",
+    "claimed_topic": "Begründungspflicht §35 SGB X im Schwerbehindertenrecht (26.09.2019, SozR 4-3250 §2 Nr.22 Rn.14)",
+    "source_url": "",
+    "skills": "sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "4 C 11/06",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert",
+    "claimed_topic": "Verbandsklage-Möglichkeit im Planungsrecht (BVerwG 4 C 11/06)",
+    "source_url": "",
+    "skills": "umweltrecht/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-101/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (Insiderrecht/Marktmissbrauch plausibel)",
+    "claimed_topic": "Insider-Information: nicht öffentliche Information bleibt nicht-öffentlich (23.10.2018)",
+    "source_url": "",
+    "skills": "kapitalmarktrecht/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-263/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Vergaberecht Ungarn: T-Systems/BKK Budapest (14.05.2020)",
+    "claimed_topic": "IT-Sicherheitsanforderungen bei strategisch wichtigen Aufträgen dürfen Wettbewerb beschränken",
+    "source_url": "https://curia.europa.eu/juris/liste.jsf?num=C-263/19",
+    "skills": "vergaberecht/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-291/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht vollständig verifiziert (Urteil vom 16.06.2016 auf ra.de gefunden)",
+    "claimed_topic": "EURO 2004: Deklarative Wirkung von Ursprungsnachweisen (16.06.2016)",
+    "source_url": "https://ra.de/urteil/eugh/c-29115-2016-06-16",
+    "skills": "zollrecht/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-78/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "ANKO v Commission (EU-Förderrecht/Grants, C-78/14 P; 29.10.2015)",
+    "claimed_topic": "Beteiligungspflicht (C-78/14)",
+    "source_url": "https://curia.europa.eu/juris/liste.jsf?num=C-78/14",
+    "skills": "europarecht/SKILL.md"
+  },
+  {
+    "court": "FG Münster",
+    "az": "5 K 3536/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert (GoBD-Thema für FG plausibel)",
+    "claimed_topic": "GoBD: digital erzeugte Rechnung muss unveränderlich archiviert sein (12.03.2019)",
+    "source_url": "",
+    "skills": "steuerrecht/SKILL.md"
+  }
+]

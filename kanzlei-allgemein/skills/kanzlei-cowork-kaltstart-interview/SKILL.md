@@ -1,6 +1,6 @@
 ---
 name: kanzlei-cowork-kaltstart-interview
-description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erfragt Kanzleiprofil (Solo / Sozietaet / GmbH / Partnerschaft) Rechtsgebiete-Mix Sekretariat (vorhanden Stellen) Aktenstruktur-Konvention beA-Profil Versandwege Buchhaltungssoftware (DATEV Lexware sevDesk RA-MICRO Advoware) Vorgehensweise Fristenbuch und Tagesbrief Honorarpraxis (RVG / Vereinbarung) Mahnpraxis Mandantenstamm-Pflege Geburtstags- und Weihnachtsverteiler. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md."
+description: "Kaltstart-Interview für das generische Kanzlei-Cowork-Plugin. Erfragt Kanzleiprofil (Solo / Sozietaet / GmbH / Partnerschaft) Rechtsgebiete-Mix Sekretariat (vorhanden Stellen) Aktenstruktur-Konvention beA-Profil Versandwege Buchhaltungssoftware (DATEV Lexware sevDesk RA-MICRO Advoware) Vorgehensweise Fristenbuch und Tagesbrief Honorarpraxis (RVG / Vereinbarung) Mahnpraxis Mandantenstamm-Pflege Geburtstags- und Weihnachtsverteiler. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md."
 ---
 
 # /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview
@@ -13,10 +13,7 @@ description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erf
 4. Sind beA, E-Mail-Integration und Fristenbuch bereits eingerichtet oder muessen diese konfiguriert werden?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Kanzleiorganisation muss vom ersten Tag an berufsrechtlichen Standards genuegen; Kaltstart-Interview schafft die notwendige Grundstruktur.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Dokumentation des Kanzleiprofils als Organisationspflicht: Rechtsgebiete, Abrechnungsart und Eingangskanael muessen festgehalten sein.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Honorarpraxis (RVG oder Vereinbarung) muss von Beginn des Mandats an festgelegt sein; nachtraegliche Aenderung erfordert Einwilligung.
-- BGH, Urt. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Fristenbuch und Postlauf als zwingende Kanzlei-Grundstruktur; fehlendes Einrichtungsprotokoll begruendet Haftungsrisiko.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab Kanzleigruendung
@@ -24,10 +21,9 @@ description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erf
 - § 51 BRAO — Berufshaftpflichtversicherung: Pflichtnachweis bei Kanzleigruendung
 - § 8 PartGG — Haftungsstruktur in der Partnerschaftsgesellschaft
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO §§ 43, 43a Rn. 1-30 (Berufspflichten: Ersteinrichtung und laufende Pflichten)
-- Henssler/Prütting BRAO § 31a Rn. 1-20 (beA: Einrichtung und Nutzungspflicht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md` prüfen.

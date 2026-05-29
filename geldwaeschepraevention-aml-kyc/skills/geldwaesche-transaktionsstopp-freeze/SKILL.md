@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchfuehrung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchfuehrung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Pruefraster Nichtdurchfuehrungsbegruendung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begruendung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwaesche-verdachtsmeldung-fiu-goaml und geldwaesche-sanktionsscreening."
+description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening."
 ---
 
 # Transaktionsstopp, Freeze und Exit
@@ -12,10 +12,7 @@ description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchfuehrung bei Sank
 4. Wie wird mit Restguthaben und Kontobeendigung umgegangen?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Nichtdurchfuehren einer Transaktion bei konkretem Verdacht ist rechtlich geboten; Schadensersatzanspruch des Kunden scheidet bei nachgewiesenem Geldwaeschetatbestand aus.
-- EuGH, Urt. v. 27.02.2014 - C-472/11, NJW 2014, 1665 — Einfrierungspflicht nach EU-Sanktionsverordnungen ist unverzueglich; Verzoegerung begruendet Bußgeldhaftung nach AWG und GwG.
-- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Kommunikationsverbote nach § 43 Abs. 5 GwG (Tipping-Off-Verbot) gelten auch bei Konto-Freeze-Benachrichtigung an Kunden.
-- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Transaktionsstopp muss vollstaendig dokumentiert sein; nachtraegliche Rekonstruktion ohne zeitnahe Aufzeichnung genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 46 GwG — Nichtdurchfuehrung der Transaktion bei Verdacht
@@ -23,10 +20,9 @@ description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchfuehrung bei Sank
 - § 43 Abs. 5 GwG — Tipping-Off-Verbot bei Verdachtsmeldung
 - Art. 2 EU-VO 2580/2001 — Einfrierungspflicht bei Sanktionstreffer
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, §§ 46, 47 Rn. 1-60 (Transaktionsstopp und Nichtdurchfuehrung)
-- Zentes/Glaab GwG, 2019, § 43 Abs. 5 Rn. 1-20 (Tipping-Off-Verbot: Inhalt und Grenzen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill gibt klare Sofortmaßnahmen bei Verdachtsfall, Sanktionstreffer oder ungeklärter Mittelherkunft.

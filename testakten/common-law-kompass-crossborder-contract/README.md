@@ -1,12 +1,21 @@
 # Testakte Common-Law-Kompass: Crossborder Supply & License Agreement
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-common-law-kompass-crossborder-contract` (diese Akte) | [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Akte über die Verhandlung eines grenzüberschreitenden Liefer- und Lizenzvertrags zwischen einem deutschen Mittelständler (RheinMain Sensors GmbH, Hamburg) und einem US/UK-Konzern (Blue Harbor Systems Inc. / Blue Harbor (UK) Ltd.). Der Fall illustriert die typischen Rechtsprobleme, Terminologiefallen und Verhandlungstaktiken im deutsch-amerikanisch-britischen Vertragsrecht.
 
 ---
 
 ## Sachverhalt
 
-Die RheinMain Sensors GmbH (nachfolgend: „RS") mit Sitz in Hamburg entwickelt und produziert hochpräzise Industriesensoren für maritime und petrochemische Anwendungen. Seit September 2022 – angebahnt auf der Offshore Europe-Messe in Aberdeen – verhandelt RS mit der Blue Harbor Systems Inc. (Wilmington, Delaware) und deren englischer Tochtergesellschaft Blue Harbor (UK) Ltd. (London, EC3A) über einen fünfjährigen Liefer- und Lizenzvertrag.
+Die RheinMain Sensors GmbH (nachfolgend: "RS") mit Sitz in Hamburg entwickelt und produziert hochpräzise Industriesensoren für maritime und petrochemische Anwendungen. Seit September 2022 – angebahnt auf der Offshore Europe-Messe in Aberdeen – verhandelt RS mit der Blue Harbor Systems Inc. (Wilmington, Delaware) und deren englischer Tochtergesellschaft Blue Harbor (UK) Ltd. (London, EC3A) über einen fünfjährigen Liefer- und Lizenzvertrag.
 
 Gegenstand des Vertrags sind:
 - Lieferung von 2.000–4.000 Einheiten des Sensormodells RS-900X (ATEX-zertifiziert, CE-gekennzeichnet) pro Jahr;
@@ -76,11 +85,11 @@ Diese Akte eignet sich für das Training und die Evaluation von KI-Assistenten i
 7. **Export- und Datenschutzrecht:** ATEX-Zertifizierung, EU-Dual-Use-VO, DSGVO Art. 28 AVV.
 
 **Geeignete Testfragen für KI-Assistenten:**
-- „Erkläre den Unterschied zwischen Indemnity und Schadensersatz nach deutschem Recht."
-- „Ist ein vollständiger Waiver of Consequential Damages in einem deutschen AGB-Vertrag wirksam?"
-- „Welche Schiedsklausel ist für eine Hamburger GmbH sinnvoller: DIS oder LCIA?"
-- „Was bedeutet Consideration und brauche ich das in einem deutschen Vertrag?"
-- „Überprüfe die Haftungsklausel auf Vereinbarkeit mit § 307, 309 BGB."
+- "Erkläre den Unterschied zwischen Indemnity und Schadensersatz nach deutschem Recht."
+- "Ist ein vollständiger Waiver of Consequential Damages in einem deutschen AGB-Vertrag wirksam?"
+- "Welche Schiedsklausel ist für eine Hamburger GmbH sinnvoller: DIS oder LCIA?"
+- "Was bedeutet Consideration und brauche ich das in einem deutschen Vertrag?"
+- "Überprüfe die Haftungsklausel auf Vereinbarkeit mit § 307, 309 BGB."
 
 ---
 

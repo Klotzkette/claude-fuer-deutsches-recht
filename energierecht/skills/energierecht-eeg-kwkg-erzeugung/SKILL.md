@@ -1,6 +1,6 @@
 ---
 name: energierecht-eeg-kwkg-erzeugung
-description: "EEG- und KWKG-Verguetungen fuer Stromerzeugungsanlagen pruefen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Pruefraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht."
+description: "EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Prüfraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht."
 ---
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien
@@ -116,7 +116,7 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 ### Vergütungs-Streit mit Netzbetreiber
 
 - Anlagenzulassung erfolgt aber Vergütung verweigert
-- BGH VIII ZR-Linie zu EEG-Vergütung
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Klärung BNetzA oder Klage VG
 
 ### Bei nicht-rechtzeitiger MaStR-Eintragung
@@ -211,20 +211,15 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 05.07.2017 — VIII ZR 147/16, RdE 2017, 465 — Meldepflichtverstoess des Anlagenbetreibers gegenueber der Bundesnetzagentur fuehrt zur Verringerung des Verguetuungsanspruchs; gemaess EEG 2014 wird der anzulegende Wert auf null verringert solange die Anlage nicht registriert ist; nachtraegliche Registrierung heilt den Verspaetungszeitraum nicht rueckwirkend
-- BVerwG, Urt. v. 27.06.2023 — 4 A 2.20, NVwZ 2023, 1471 — Planfeststellungsbeschluss fuer Windkraftanlage; artenschutzrechtliche Ausnahme nach § 45 BNatSchG setzt konkrete Pruefung individueller Beeintraechtigungen voraus; pauschale Vermeidungsmassnahmen genuegen nicht
-- OVG Muenster, Urt. v. 04.04.2023 — 8 A 2386/20, ZUR 2023, 431 — Beschleunigungsgebiete nach RED III entbinden nicht vollstaendig von artenschutzrechtlicher Einzelfallpruefung; Vereinbarkeit mit habitatschutzrechtlichen Anforderungen bleibt Pflicht
-- BVerwG, Beschl. v. 11.09.2023 — 4 VR 3.22, NVwZ 2024, 50 — Repowering-Privilegierung schutzt nur unmittelbaren Standort-Nachfolger; neue Sondernutzungs-Baugenehmigung erforderlich bei wesentlicher Standortaenderung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Verguetung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, § 17 Rn. 12 ff. (Netzanschluss-Pflicht und EEG-Verguetung)
-- Frenz/Mueggenborg, EEG, 6. Aufl. 2023, §§ 19-21 Rn. 1 ff. (Marktpraemie, Direktvermarktung, Verguetung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-netz-speicher-zugang` — Netzanschluss
@@ -244,9 +239,7 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 - WindBG, SolarBG, GEG, EnEfG
 - BNetzA-Festlegungen zu Ausschreibungs-Höchstwerten
 - BAFA-Merkblätter
-- BGH VIII ZR-Linie zu EEG-Vergütung
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BVerwG-Linien zu Wind / BImSchG
 - EU-RED III (Richtlinie 2023/2413/EU)
 - EU-Strommarkt-Verordnung 2024/1747
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 119/18 (NOT_FOUND: kein Urteil dieses Aktenzeichens auf dejure.org auffindbar) ersetzt durch BGH VIII ZR 147/16 (05.07.2017, RdE 2017, 465) — Meldepflichtverstoess und Vergutungssperrung nach EEG. Quelle: dejure.org/2017,22407 -->

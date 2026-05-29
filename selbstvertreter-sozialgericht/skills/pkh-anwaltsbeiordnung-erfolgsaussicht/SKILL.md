@@ -1,6 +1,6 @@
 ---
 name: pkh-anwaltsbeiordnung-erfolgsaussicht
-description: "Erfolgsaussicht in der PKH-Pruefung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegruendung als Hebel. Tipps fuer den Buerger ohne Anwalt."
+description: "Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt."
 ---
 
 # PKH-Bewilligung — die Erfolgsaussicht
@@ -29,7 +29,7 @@ Damit Sie Prozesskostenhilfe bekommen, muss Ihre Klage Aussicht haben. Wenn das 
 
 - **§ 73a SGG** — PKH-Voraussetzungen.
 - **§ 114 ZPO** — Hinreichende Erfolgsaussicht, keine Mutwilligkeit.
-- **BVerfG zu PKH** — Anforderungen duerfen nicht zu hoch sein (BVerfG 1 BvR 569/05 u.a.; pruefen).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -110,4 +110,4 @@ Niemals offen aggressiv schreiben — sachlich bleiben.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BVerfG-Linie zur PKH-Erfolgsaussicht prinzipiell wohlwollend. Anforderung an Erfolgsaussicht nicht zu hoch (BVerfG 1 BvR 569/05; verifizieren in juris).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

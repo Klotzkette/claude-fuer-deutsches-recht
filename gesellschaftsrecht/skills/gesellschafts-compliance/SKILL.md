@@ -1,6 +1,7 @@
 ---
 name: gesellschafts-compliance
-description: "Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen fällig ist. Trigger: „Gesellschafts-Compliance\", „Einreichungsfristen\", „Bilanzpublizität\", „Transparenzregister\", „Jahresabschluss einreichen\", „was ist fällig\"."
+description: 'Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen fällig ist. Trigger: "Gesellschafts-Compliance", "Einreichungsfristen", "Bilanzpublizität", "Transparenzregister", "Jahresabschluss einreichen", "was ist fällig".'
+
 ---
 
 # Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister)
@@ -30,7 +31,7 @@ Vor der Tracker-Initialisierung sind folgende Angaben erforderlich:
 ### Normtexte mit Auszügen
 
 **§ 325 Abs. 1 HGB — Bilanzpublizität (Offenlegungspflicht)**
-> „Die gesetzlichen Vertreter von Kapitalgesellschaften haben [...] den Jahresabschluss und den Lagebericht [...] beim Betreiber des Bundesanzeigers elektronisch einzureichen."
+> "Die gesetzlichen Vertreter von Kapitalgesellschaften haben [...] den Jahresabschluss und den Lagebericht [...] beim Betreiber des Bundesanzeigers elektronisch einzureichen."
 
 Frist: § 325 Abs. 1a HGB — spätestens 12 Monate nach Ende des Geschäftsjahres. Kleine Kapitalgesellschaften (§ 267 Abs. 1 HGB) können vereinfachte Unterlagen einreichen; nur Bilanz und Anhang, kein GuV-Ausweis.
 
@@ -38,14 +39,14 @@ Frist: § 325 Abs. 1a HGB — spätestens 12 Monate nach Ende des Geschäftsjahr
 > Wer § 325 HGB verletzt, kann vom Bundesamt für Justiz (BfJ) zur Einreichung angehalten und mit Ordnungsgeld belegt werden. Mindestordnungsgeld: 2.500 EUR; Maximum: 25.000 EUR je Verstoß. Verfahren beginnt von Amts wegen, sobald fristgerecht keine Einreichung erfolgt.
 
 **§ 40 GmbHG — Gesellschafterliste**
-> „Notare, die in Angelegenheiten der Gesellschaft tätig werden, haben [...] eine von ihnen unterschriebene, aktualisierte Gesellschafterliste [...] zum Handelsregister einzureichen."
+> "Notare, die in Angelegenheiten der Gesellschaft tätig werden, haben [...] eine von ihnen unterschriebene, aktualisierte Gesellschafterliste [...] zum Handelsregister einzureichen."
 
 Frist: unverzüglich nach jeder Änderung (Abtretung, Kapitalerhöhung, Erbfolge). Pflicht des Notars bei notarieller Beurkundung; sonst Geschäftsführer (§ 40 Abs. 2 GmbHG). Konsequenz veralteter Liste: Gutgläubiger Erwerb nach § 16 Abs. 3 GmbHG kann zustande kommen, wenn Erwerber auf die unrichtige Liste vertraut.
 
 **§ 16 Abs. 3 GmbHG — Gutgläubiger Erwerb**
-> „Ist die im Handelsregister eingetragene Gesellschafterliste unrichtig, so kann ein Erwerber, der auf die Richtigkeit der Liste vertraut, gutgläubig Anteile erwerben."
+> "Ist die im Handelsregister eingetragene Gesellschafterliste unrichtig, so kann ein Erwerber, der auf die Richtigkeit der Liste vertraut, gutgläubig Anteile erwerben."
 
-Voraussetzung: Liste muss seit mindestens 3 Jahren unrichtig sein; Erwerber muss gutgläubig sein (keine Kenntnis oder grob fahrlässige Unkenntnis). BGH, Urt. v. 02.07.2019 – II ZR 406/17, NJW 2019, 2774: gutgläubiger Erwerb bei unrichtiger Gesellschafterliste.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§§ 18 ff., 20 GwG — Transparenzregister**
 > § 20 GwG verpflichtet juristische Personen des Privatrechts und eingetragene Personengesellschaften, die wirtschaftlich Berechtigten (§ 3 GwG) beim Transparenzregister anzumelden.
@@ -63,12 +64,12 @@ Frist: 2 Wochen nach Änderung der Beteiligungsverhältnisse. Ausnahme: § 20 Ab
 Zwei von drei Merkmalen müssen an zwei aufeinanderfolgenden Abschlussstichtagen erfüllt sein (§ 267 Abs. 4 HGB). `[Modellwissen — Schwellenwerte beim BfJ/Unternehmensregister bestätigen]`
 
 **§ 316 HGB — Prüfungspflicht**
-> „Der Jahresabschluss und der Lagebericht von Kapitalgesellschaften, die nicht kleine Kapitalgesellschaften sind, sind durch einen Abschlussprüfer zu prüfen."
+> "Der Jahresabschluss und der Lagebericht von Kapitalgesellschaften, die nicht kleine Kapitalgesellschaften sind, sind durch einen Abschlussprüfer zu prüfen."
 
 Gilt für alle AG (keine Größenklassenausnahme). GmbH: Prüfungspflicht ab mittelgroß. Ohne Testierung darf der Abschluss nicht festgestellt werden.
 
 **§ 290 HGB — Konzernabschlusspflicht**
-> „Die gesetzlichen Vertreter einer Kapitalgesellschaft haben einen Konzernabschluss und einen Konzernlagebericht aufzustellen, wenn diese Kapitalgesellschaft auf eine andere Gesellschaft einen beherrschenden Einfluss ausüben kann."
+> "Die gesetzlichen Vertreter einer Kapitalgesellschaft haben einen Konzernabschluss und einen Konzernlagebericht aufzustellen, wenn diese Kapitalgesellschaft auf eine andere Gesellschaft einen beherrschenden Einfluss ausüben kann."
 
 **§ 325a HGB — Zweigniederlassungen ausländischer Gesellschaften**
 > Bestimmte ausländische Gesellschaften mit Zweigniederlassung in Deutschland müssen Jahresabschlüsse in Deutschland offenlegen.
@@ -77,11 +78,7 @@ Gilt für alle AG (keine Größenklassenausnahme). GmbH: Prüfungspflicht ab mit
 
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
-| BGH | II ZR 406/17 | NJW 2019, 2774 | Gutgläubiger Erwerb bei unrichtiger Gesellschafterliste (§ 16 Abs. 3 GmbHG); 3-Jahres-Frist beginnt mit letzter richtiger Eintragung |
-| BGH | II ZR 300/17 | NZG 2019, 581 | Anforderungen an Gesellschafterliste; inhaltliche Richtigkeit als Voraussetzung für gutgläubigen Erwerb |
-| BFH | IV R 40/16 | BFH/NV 2019, 321 | Abgrenzung Jahresabschlusspflicht und steuerliche Pflichten; keine Übertragung steuerlicher Fristen auf § 325 HGB |
-| OLG Düsseldorf | I-3 Wx 214/18 | NZG 2019, 235 | Ordnungsgeldverfahren BfJ; Wiederholung bei fortgesetztem Verstoß |
-| OLG München | 31 Wx 286/18 | NZG 2019, 112 | Inhalt der Gesellschafterliste; Beteiligungsverhältnisse sind vollständig darzustellen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Compliance-Initialisierung und laufender Betrieb
 
@@ -387,7 +384,7 @@ Falls Rolle **Nichtjurist**:
 > Eine Jahresabschluss-Einreichung beim Bundesanzeiger oder eine Handelsregistereintragung hat rechtliche Konsequenzen. Vor Einreichung mit einem Rechtsanwalt oder Steuerberater besprechen. `[Prüfen]`
 
 Manuelles Update:
-> „Jahresabschluss der Alpha GmbH zum 31.12.2025 am 05.03.2026 beim Bundesanzeiger eingereicht."
+> "Jahresabschluss der Alpha GmbH zum 31.12.2025 am 05.03.2026 beim Bundesanzeiger eingereicht."
 
 Massen-Update: Wirtschaftsprüfer-Bericht oder HR-Auszug hochladen; Matching-Gesellschaften automatisch aktualisieren.
 
@@ -541,11 +538,11 @@ Status: [AKTUELL / AENDERUNG ERFORDERLICH bis TT.MM.JJJJ]
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- MüKoHGB/Störk/Leuz, 4. Aufl. 2020, § 325 Rn. 5 ff. (Bilanzpublizität).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Scholz, GmbHG, 12. Aufl. 2018, § 40 Rn. 3 ff. (Gesellschafterliste).
-- Roth/Altmeppen, GmbHG, 10. Aufl. 2021, § 16 Rn. 25 ff. (Gutgläubiger Erwerb).
-- BGH, Urt. v. 02.07.2019 – II ZR 406/17, NJW 2019, 2774 (gutgläubiger Erwerb bei unrichtiger Gesellschafterliste).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Was dieser Skill nicht tut
 

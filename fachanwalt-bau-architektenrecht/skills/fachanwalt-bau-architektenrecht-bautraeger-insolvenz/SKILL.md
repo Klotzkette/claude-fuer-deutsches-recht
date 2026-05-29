@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bautraeger-insolvenz
-description: "Insolvenz des Bautraegers: Ansprueche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Pruefraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkuendigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung."
+description: "Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung."
 ---
 
 # Bauträger-Insolvenz — Erwerber-Schutz
@@ -75,7 +75,7 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 ## 5) § 103 InsO — Verwalter-Wahlrecht
 
-> „Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfüllen und die Erfüllung vom anderen Teil verlangen."
+> "Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfüllen und die Erfüllung vom anderen Teil verlangen."
 
 ### Erfüllungs-Wahl
 
@@ -94,7 +94,7 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 ### Verwalter-Frist
 
 - Verwalter muss innerhalb angemessener Frist (typisch 4-6 Wochen) entscheiden
-- Bei Schweigen: Ablehnung fingiert (BGH IX ZR 22/03)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 6) Erwerber-Strategien
 
@@ -132,9 +132,7 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 ## 9) BGH-/IX. Senat-Linien
 
-- BGH, Urt. v. 7.4.2005 — IX ZR 109/04 (Vormerkungs-Schutz Insolvenz)
-- BGH, Urt. v. 25.4.2013 — IX ZR 235/12 (§ 103 InsO Bauträger)
-- BGH, Urt. v. 26.1.2017 — IX ZR 285/14 (Bürgschaft-Verteilung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 10) Honorar
 
@@ -144,17 +142,11 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 07.04.2005 — IX ZR 109/04, NJW 2005, 2231 Rn. 18: Die Auflassungsvormerkung nach § 883 BGB schuetzt den Erwerber in der Insolvenz des Bautraegers — der Eigentuemsverschaffungsanspruch bleibt als Aussonderungsrecht erhalten.
-- BGH, Urt. v. 25.04.2013 — IX ZR 235/12, NJW 2013, 2756 Rn. 24: Der Insolvenzverwalter kann nach § 103 InsO den Bautraegervertrag erfuellen oder ablehnen; bei Ablehnung wandelt sich der Eigentumsanspruch in Schadensersatz um, der zur Insolvenztabelle anzumelden ist.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14, NJW 2017, 1599 Rn. 31: Die MaBV-Buerschaft sichert den Erwerber bei Nichtfertigstellung; mehrere Erwerber koennen die Buerschaft im Rahmen ihrer jeweiligen Vertragsbetraege unabhaengig voneinander geltend machen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stoeber, ZVG, 22. Aufl. — §§ 146 ff. ZVG zur Stellung von Erwerber-Glaeubigern
-- Uhlenbruck/Brinkmann, InsO, 15. Aufl. — § 103 InsO Rn. 1 ff. Wahlrecht Verwalter
-- Kniffka/Koeble, Kompendium Baurecht, 5. Aufl. — 12. Teil Bautraegerrecht
-- Werner/Pastor, Der Bauprozess, 16. Aufl. — Rn. 900 ff. Bautraegerrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Sofort-Check bei Bautraeger-Insolvenz
 
 | Frist | Norm | Zeitfenster |

@@ -1,6 +1,6 @@
 ---
 name: mehrseitige-maerkte-plattformen
-description: "Sonderprobleme der Marktdefinition fuer mehrseitige Plattformen: zweiseitige Marktdefinition indirekte Netzwerkeffekte getrennte vs. integrierte Marktbetrachtung. Einschluss von App-Store App-Markt Werbe- und Nutzermarkt. Leitfaelle EuG T-227/21 Google Android EuGH C-252/21 Meta Platforms und DMA-Gatekeeper."
+description: "Workflow-Skill zu mehrseitige maerkte plattformen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mehrseitige Märkte und Plattformen
@@ -14,9 +14,9 @@ Klassische Marktdefinition setzt einen Preis voraus. Plattformmärkte sind häuf
 ### Getrennte Märkte
 
 Der EuGH tendiert dazu, die Marktseiten als getrennte Märkte zu definieren:
-- EuGH, Rs. C-252/21 — *Meta Platforms* (2023): Verhältnis zwischen Nutzermarkt und Werbemarkt in sozialen Netzwerken.
-- EuG, Rs. T-604/18 — *Google Android* (2022): App-Store (Play Store) als eigener Markt; Suchmaschinen als separater Markt.
-- EuG, Rs. T-227/21 — *Google Shopping* (2021): Allgemeine Suchdienste und Preisvergleichsdienste als getrennte Märkte.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Integrierte Betrachtung
 
@@ -62,12 +62,9 @@ Probleme:
 
 ## Leitentscheidungen Mehrseitige Maerkte
 
-- EuGH, Urt. v. 12.09.2019 — C-376/18 (Mastercard), ECLI:EU:C:2019:712 — Mehrseitiger Zahlungsmarkt; Netzwerkeffekte zwischen Kartenhaltern und Haendlern; Preissetzung systemisch betrachten.
-- EuGH, Urt. v. 27.06.2023 — C-252/21 (Facebook), NZKart 2023, 430 — Plattformdominanz; kostenloser Dienst trotzdem marktbeherrschend; Wert der Nutzerdaten als Gegenleistung.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — § 18 Abs. 3a GWB; direkte und indirekte Netzwerkeffekte; Multi-Homing-Potenzial als Faktor.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Plattformmacht; Social-Network-Markt; Nutzerdaten als Wechselkostenfaktor.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 15-40 (Mehrseitige Maerkte, Plattformen, § 18 Abs. 3a)
-- Immenga/Mestmaecker GWB § 18 Abs. 3a Rn. 1-60 (Plattformmaerkte, Netzwerkeffekte)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

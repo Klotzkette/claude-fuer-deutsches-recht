@@ -1,10 +1,21 @@
-# Steuerrecht für Anwaltschaft und Steuerberatung
+# Steuerrecht – Steuerberater und Anwälte
 
 Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung.
 
 > Dieses Plugin ist **gleichzeitig das Fachanwalts-Plugin** für Steuerrecht. Es ersetzt das frühere separate `fachanwalt-steuerrecht`-Plugin: alle Fachanwalts-Skills sind hier mit dem Präfix `anw-` enthalten — die FAO-§-9-Voraussetzungen sind als Anhang im Skill `anw-orientierung` aufgenommen.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen bzw. steuerlichen Prüfung — zitiert, mit Prüfhinweisen versehen. Das Plugin erledigt die Recherchearbeit. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt, Fachanwalt für Steuerrecht oder Steuerberater.** Folgenreiche Handlungen — Einreichen, Versenden, Vollziehen — erfordern ausdrückliche Freigabe.
+
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -20,7 +31,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json` und `skills/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json` und `skills/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ### Zum Ausprobieren: Testakte (separat)
 
@@ -39,7 +50,7 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 
 | Skill | Funktion |
 |---|---|
-| `/steuerrecht-anwalt-und-berater:anw-orientierung` | Orientierung Anwalt im Steuerrecht (Normen, Fristen, Standardliteratur) + FAO § 9-Anhang |
+| `/steuerrecht-anwalt-und-berater:anw-orientierung` | Orientierung Anwalt im Steuerrecht (Normen, Fristen, Quellenprüfung) + FAO § 9-Anhang |
 | `/steuerrecht-anwalt-und-berater:anw-kaltstart-interview` | Ersteinrichtung — Kanzleiprofil, Schwerpunkte, Finanzämter, FG-Bezirke |
 | `/steuerrecht-anwalt-und-berater:anw-mandat-triage-steuerrecht` | Eingangs-Triage: Steuerart, Vorgang, Fristen, Eskalation |
 | `/steuerrecht-anwalt-und-berater:anw-steuerbescheid-analyse` | Steuerbescheid systematisch auswerten vor Einspruch |
@@ -51,9 +62,9 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 | `/steuerrecht-anwalt-und-berater:anw-selbstanzeige-371` | Selbstanzeige § 371 AO — Hochrisikobereich, Pflichtprüfung mehrere Anwälte |
 | `/steuerrecht-anwalt-und-berater:anw-haftungswarn-15a-inso-mandant` | Anwaltliche Belehrung GF bei Insolvenzreife (§ 15a InsO, § 15b InsO) — Schreibvorlage mit Eingangsbestätigung |
 | `/steuerrecht-anwalt-und-berater:anw-insolvenzreife-pruefung-17-19-inso` | Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO mit steuerspezifischem Schwerpunkt (§ 222 AO Stundung, § 361 AO AdV, § 69 AO GF-Haftung, § 266a StGB) |
-| `/steuerrecht-anwalt-und-berater:anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern` | Verteidigung gegen § 69 AO-Haftungsbescheid bei nicht abgeführter LSt/USt; anteilige Tilgung (BFH VII R 83/87), Lohnsteuer-Treuhand (BFH I R 112/93), Abgrenzung § 266a StGB — **NEU** |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `/steuerrecht-anwalt-und-berater:anw-stundung-erlass-vollstreckungsaufschub` | Stundung § 222 AO, Erlass § 227/§ 163 AO, Vollstreckungsaufschub § 258 AO — Antrag mit Liquiditätsbeleg, Ratenplan, Sicherheitsleistung — **NEU** |
-| `/steuerrecht-anwalt-und-berater:anw-organschaft-konzern-grundlagen` | KSt/GewSt/USt-Organschaft — drei Konzepte mit unterschiedlichen Voraussetzungen; EuGH C-141/20 zur UStOrg — **NEU** |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `/steuerrecht-anwalt-und-berater:anw-grunderwerbsteuer-share-deal-90-prozent` | GrESt beim Share Deal — 90-%-Schwelle ab 1.7.2021, 10-Jahres-Frist, RETT-Blocker, § 19 GrEStG Anzeigepflicht — **NEU** |
 | `/steuerrecht-anwalt-und-berater:anw-dac7-dac8-plattformen-krypto` | DAC7 (PStTG, 1.1.2023) und DAC8 (KryptoStG, 1.1.2026) — Meldepflichten Plattformen und Krypto-Dienstleister, MiCA-VO — **NEU** |
 | `/steuerrecht-anwalt-und-berater:anw-minbestg-pillar2-konzernbesteuerung` | Pillar Two / MinBestG ab 1.1.2024 — globaler Mindeststeuersatz 15 % für Konzerne ab 750 Mio EUR; IIR/UTPR/QDMTT, GloBE Information Return — **NEU** |
@@ -84,10 +95,10 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 | `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3wochen` | 3-Wochen-Liquiditätsvorschau § 17 InsO Vorprüfung |
 | `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3-6-12-monate` | Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose |
 | `/steuerrecht-anwalt-und-berater:stb-ueberschuldungspruefung-19-inso` | Stichtagsbezogene Überschuldungsprüfung § 19 InsO mit Fortführungsprognose nach IDW S 6/S 11 — **NEU** |
-| `/steuerrecht-anwalt-und-berater:stb-warnschreiben-krisensignale` | Warnschreiben StB an Mandant-GF bei Krisensignalen — Pflichthinweis nach BGH IX ZR 285/14 zur eigenen Haftungsvermeidung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `/steuerrecht-anwalt-und-berater:stb-drv-sozialversicherungspruefung` | Begleitung der DRV-Sozialversicherungsprüfung § 28p SGB IV — Statusfeststellung, Phantomlohn, Mindestlohn, § 266a StGB-Risiken — **NEU** |
 
-> **Haftungsvermeidungs-Workflow Steuerberater:** `stb-bwa-sus-bilanz-pruefung` identifiziert Krisensignale → `stb-ueberschuldungspruefung-19-inso` und `stb-liquiditaetsvorschau-3wochen` quantifizieren → bei gelber/roter Ampel triggert `stb-warnschreiben-krisensignale` das schriftliche Mandanten-Warnschreiben mit Empfehlung anwaltlicher Beratung. Hintergrund: Der Steuerberater ist nach BGH IX ZR 285/14 und § 102 StaRUG regelmäßig externer Bestandteil des Krisenfrüherkennungssystems der Mandantin — ohne seinen Hinweis kann die GF ihre eigene § 102 StaRUG-Pflicht nicht erfüllen. Der Anwalt kann dann über `anw-insolvenzreife-pruefung-17-19-inso` die rechtliche Beurteilung leisten und mit `anw-haftungswarn-15a-inso-mandant` die GF-Belehrung dokumentieren.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`liquiditaetsplanung`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.
 
@@ -102,7 +113,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
             ↓  Krisensignal erkannt
   [stb-ueberschuldungspruefung-19-inso] + [stb-liquiditaetsvorschau-3wochen]
             ↓  gelbe / rote Ampel
-  [stb-warnschreiben-krisensignale]    — BGH IX ZR 285/14 / § 102 StaRUG
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
             ↓  Mandantin sucht Anwalt auf
   [anw-insolvenzreife-pruefung-17-19-inso]  — Diagnose
             ↓
@@ -123,7 +134,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
             ↓  Einspruch erfolglos
   [anw-klage-finanzgericht]
             ↓  parallel bei Strafverdacht (z. B. § 370 AO, § 26c UStG)
-  [anw-selbstanzeige-371]  (§ 393 Abs. 1 S. 2 AO, BGH 5 StR 191/04)
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ### C) M&A-Steuer-Workflow
@@ -154,7 +165,7 @@ Drei fiktive Mandatsakten zum Ausprobieren der Skills:
 | [`fortbestehensprognose-paragrafix-gmbh`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | Paragrafix GmbH — Legal-AI-Startup, § 102-StaRUG-Hinweis, BWA, SuSa, 13-Wochen-Liquiditätsplanung | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3-6-12-monate`, `stb-ueberschuldungspruefung-19-inso`, `anw-insolvenzreife-pruefung-17-19-inso`, `anw-stundung-erlass-vollstreckungsaufschub`, `anw-organschaft-konzern-grundlagen` (Holding-Strukturierung), `anw-dac7-dac8-plattformen-krypto` (falls Plattform-/Krypto-Bezug) |
 | [`grosskanzlei-corporate-ma-datenraum`](../testakten/grosskanzlei-corporate-ma-datenraum/) | Projekt Silberfalke — Umwandlungs- und Steuerstruktur, verbindliche Auskunft, Außenprüfung im M&A-Kontext | `anw-verbindliche-auskunft`, `anw-aussenpruefung-strategien`, `anw-organschaft-konzern-grundlagen`, `anw-grunderwerbsteuer-share-deal-90-prozent`, `anw-minbestg-pillar2-konzernbesteuerung` (ab Konzernschwelle 750 Mio. EUR), `anw-einspruch-finanzamt`, `anw-klage-finanzgericht` |
 
-> **Hinweis zum Testakten-Mapping:** Die obenstehende Spalte ist nicht abschließend. Die drei Akten decken jeweils mehrere Phasen des Krisen-/Außenprüfungs-/M&A-Workflows ab — ein passender Skill ist meistens über das Stichwortverzeichnis („Mandatsanlass“) der jeweiligen Akte schnell zu finden. Skills, die nicht direkt zu einer Akte mappen (z. B. `anw-minbestg-pillar2-konzernbesteuerung` ohne 750 Mio. EUR-Konzern in der Akte), werden anhand ihrer eigenen Beispieldaten innerhalb des Skills demonstriert.
+> **Hinweis zum Testakten-Mapping:** Die obenstehende Spalte ist nicht abschließend. Die drei Akten decken jeweils mehrere Phasen des Krisen-/Außenprüfungs-/M&A-Workflows ab — ein passender Skill ist meistens über das Stichwortverzeichnis ("Mandatsanlass") der jeweiligen Akte schnell zu finden. Skills, die nicht direkt zu einer Akte mappen (z. B. `anw-minbestg-pillar2-konzernbesteuerung` ohne 750 Mio. EUR-Konzern in der Akte), werden anhand ihrer eigenen Beispieldaten innerhalb des Skills demonstriert.
 
 ---
 

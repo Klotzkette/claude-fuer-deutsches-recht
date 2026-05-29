@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
@@ -198,10 +198,7 @@ Vor Versand:
 
 ### Leitsaetze zur Substantiierung im VG-Asyl/Auslaenderrecht
 
-- BVerfG, Beschl. v. 02.09.2010 - 2 BvR 1777/10, NVwZ 2010, 1483 — Substantiierungspflicht im Asylverfahren: Antragsteller muss konkrete und glaub hafte Umstaende seiner Verfolgung darlegen; pauschale Verfolgungsbehauptungen genuegen nicht; Gericht darf Klage nicht ohne Auseinandersetzung mit dem Vortrag abweisen.
-- BVerwG, Urt. v. 08.09.2011 - 10 C 14.10, BVerwGE 140, 319 — Substantiierung beim Asyl-Eilantrag: Antragsteller muss Anordnungsanspruch und Anordnungsgrund glaubhaft machen; eidesstattliche Versicherung genuegt im verwaltungsgerichtlichen Eilverfahren.
-- BVerwG, Urt. v. 29.04.2021 - 1 C 2.21, NVwZ 2021, 1560 — Aufenthaltstitel-Klage: Klaeger traegt Mitwirkungs- und Darlegungslast nach § 82 AufenthG; unvollstaendiger Sachvortrag ohne Beweisangebote geht zu Lasten des Klaegers auch bei Anwaltspflicht.
-- OVG Berlin-Brandenburg, Beschl. v. 30.03.2022 - OVG 12 S 46/22, BeckRS 2022, 8112 — Beweislaest beim Eilantrag gegen Abschiebung: Glaubhaftmachung durch Atteste und Familienstandsdokumente erforderlich; blanke Behauptung reicht nicht aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Schriftsatz Migrationsrecht
 
@@ -212,12 +209,9 @@ Vor Versand:
 - **§ 920 Abs. 2 ZPO iVm § 123 Abs. 3 VwGO** — Glaubhaftmachungspflicht im Eilverfahren
 - **§ 60 VwGO** — Wiedereinsetzung bei Fristversaeumnis (unverzueglicher Antrag)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Kopp/Schenke, VwGO, § 80 Rn. 1-80, § 123 Rn. 1-40 — Eilrechtsschutz
-- Funke-Kaiser/Goebel-Zimmermann, GK-AsylG, § 74 Rn. 1-30 — Klagefristen
-- Bergmann/Dienelt, AufenthG, § 82 Rn. 1-20 — Mitwirkungspflicht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Schriftsatzerstellung
 
 Bevor losgelegt wird, klaere:

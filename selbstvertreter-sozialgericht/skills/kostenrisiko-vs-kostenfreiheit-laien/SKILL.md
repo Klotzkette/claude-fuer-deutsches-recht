@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-vs-kostenfreiheit-laien
-description: "Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Ueberblick fuer Buerger."
+description: "Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger."
 ---
 
 # Was kostet ein SG-Verfahren wirklich?

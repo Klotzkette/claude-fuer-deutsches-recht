@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-zeitvergleich-vorjahr-darstellung
-description: "Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten fuer Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus Visualisierung. Output BWA mit zusaetzlicher Grafik-Seite."
+description: "Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten für Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus Visualisierung. Output BWA mit zusaetzlicher Grafik-Seite."
 ---
 
 # Grafische Aufbereitung des Vorjahresvergleichs in der BWA

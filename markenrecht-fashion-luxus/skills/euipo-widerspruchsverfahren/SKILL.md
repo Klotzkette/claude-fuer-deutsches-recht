@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV fuehren: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Pruefraster: Widerspruchsfristen (3 Monate ab Veroeffentlichung), Gebuehren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-loeschung; TTAB siehe ttab-opposition-und-cancellation."
+description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # EUIPO-Widerspruchsverfahren
@@ -70,23 +70,20 @@ Verwechslungsgefahr-Prüfung nach ständiger EUIPO/EuGH-Formel:
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Widerspruch gegen „KLOTZ-KETTEN" Anmeldung
-Brezelmann Discount KG meldet „KLOTZ-KETTEN" für Klasse 25 beim EUIPO an. Widerspruch von klôtzzkètté auf Basis EUTM-Eintragung. Zeichenähnlichkeit: klanglich sehr hoch (Gesamteindruck ähnlich), visuell: trotz Sonderzeichen im Widerspruchszeichen Ähnlichkeit gegeben. Warenidentität Klasse 25. Prognose: Widerspruch erfolgreich.
+### Konstellation 1: Widerspruch gegen "KLOTZ-KETTEN" Anmeldung
+Brezelmann Discount KG meldet "KLOTZ-KETTEN" für Klasse 25 beim EUIPO an. Widerspruch von klôtzzkètté auf Basis EUTM-Eintragung. Zeichenähnlichkeit: klanglich sehr hoch (Gesamteindruck ähnlich), visuell: trotz Sonderzeichen im Widerspruchszeichen Ähnlichkeit gegeben. Warenidentität Klasse 25. Prognose: Widerspruch erfolgreich.
 
 ### Konstellation 2: Verteidigung gegen Widerspruch von Mailänder Haus
-Ein älteres Mailänder Luxushaus „Klothé SRL" erhebt Widerspruch gegen klôtzzkètté-EUTM. Strategie: Benutzungsnachweis-Einrede (Art. 47 III UMV) — Klothé muss echte Benutzung für die letzten 5 Jahre belegen. Falls keine Benutzung: Widerspruch scheitert mangels Benutzungsnachweises.
+Ein älteres Mailänder Luxushaus "Klothé SRL" erhebt Widerspruch gegen klôtzzkètté-EUTM. Strategie: Benutzungsnachweis-Einrede (Art. 47 III UMV) — Klothé muss echte Benutzung für die letzten 5 Jahre belegen. Falls keine Benutzung: Widerspruch scheitert mangels Benutzungsnachweises.
 
 ### Konstellation 3: Art. 8 V — Bekanntheitsschutz für klôtzzkètté
-klôtzzkètté legt Widerspruch gegen Anmeldung „KLOTZ-KT" für Klasse 9 (Technologie) ein — warenunähnliche Klasse. Grundlage: Art. 8 V UMV (Bekanntheitsschutz). Voraussetzung: klôtzzkètté ist im Luxussegment in DE/FR/IT bekannt. Nachweis durch Meinungsumfrage und Pressebelege.
+klôtzzkètté legt Widerspruch gegen Anmeldung "KLOTZ-KT" für Klasse 9 (Technologie) ein — warenunähnliche Klasse. Grundlage: Art. 8 V UMV (Bekanntheitsschutz). Voraussetzung: klôtzzkètté ist im Luxussegment in DE/FR/IT bekannt. Nachweis durch Meinungsumfrage und Pressebelege.
 
 ## Belege & Kommentare
 
-- BeckOK MarkenR, Art. 8 UMV Rn. 1 ff. (umfassend)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Hasselblatt (Hrsg.), Münchener Anwaltshandbuch GRS, 5. Aufl., Kap. Widerspruchsverfahren EUIPO
-- EuGH, Urt. v. 29.09.1998 — C-39/97 (Canon) — Verwechslungsgefahr, Ergänzung von Warenähnlichkeit und Zeichenähnlichkeit
-- EuGH, Urt. v. 11.11.1997 — C-251/95 (Sabèl/Puma) — Gesamteindruck
-- EuGH, Urt. v. 22.06.1999 — C-342/97 (Lloyd Schuhfabrik) — Durchschnittsverbraucher
-- EuGH, Urt. v. 14.09.1999 — C-375/97 (General Motors) — Bekanntheitsnachweis Art. 8 V
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -129,8 +126,8 @@ Bevor der Widerspruch eingelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 11.11.1997 — C-251/95 (SABEL / Puma):** Die Verwechslungsgefahr nach Art. 8 I lit. b UMV ist umfassend zu beurteilen; massgeblich ist der Gesamteindruck beider Zeichen einschliesslich ihrer Aehnlichkeit in Bild, Klang und Bedeutung, der Aehnlichkeit der Waren und der Kennzeichnungskraft der aelteren Marke.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 22.06.1999 — C-342/97 (Lloyd Schuhfabrik / Klijsen Handel):** Beim Klangvergleich ist der Gesamteindruck der Zeichen in einem mittleren Tempo normaler Lautsprachentaetigkeiten massgeblich; ein schwaches Kollusionsrisiko bleibt trotzdem ein Kollusionsrisiko, wenn die Waren identisch sind.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 23.10.2003 — C-408/01 (Adidas / Fitnessworld):** Der Bekanntheitsschutz nach Art. 8 V UMV setzt voraus, dass die bekannte Marke einem erheblichen Teil des beteiligten Publikums im Gemeinschaftsgebiet bekannt ist; bei Luxusmarken kann dies bei Bekanntheitsgrad von 50 % in der EU oder bestimmten Mitgliedstaaten genuegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

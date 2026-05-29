@@ -1,6 +1,6 @@
 ---
 name: klagevorlage-aus-eigenen-mustern
-description: "Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Pruefraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zustaendigkeitspruefung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP fuer naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller."
+description: "Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Prüfraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zuständigkeitsprüfung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP für naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller."
 ---
 
 # Klagewerkstatt — Lernlauf aus eigenen Mustern
@@ -28,7 +28,7 @@ Den Nutzer bitten, alle einschlägigen Eigenmaterialien hochzuladen oder per Pfa
 
 - Eigene Klage-Muster (mind. 2, gern 5–15) als DOCX, PDF, MD, TXT.
 - Urteile zur eigenen Forderungspraxis (Volltexte oder Auszüge).
-- Kommentar- und Aufsatz-Auszüge im Bearbeiterstil.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Format- und Layout-Vorlagen (Briefkopf-DOCX, Schriftarten, Nummerierung).
 - Optional: typische Mahnschreiben, Verzugsbriefe, RVG-Berechnungen.
 
@@ -41,7 +41,7 @@ Aus dem Lernkorpus extrahieren (Zusammenfassung am Schluss dem Nutzer vorlegen):
 - Standardklauseln: Antragswortlaut, Zinsantrag, vorgerichtliche RA-Kosten als Nebenforderung, Mahnverzugsbeginn, Verzugszinsen (§§ 286, 288 BGB), Verzugsschaden (§ 280 BGB).
 - Tonalität: knapp/ausführlich; aktiv/passiv; Direktanrede des Gerichts.
 - Zitierweise: Pinpoint, Randnummer, jüngere BGH-Entscheidungen zuerst, deutsche Kommentartradition.
-- Belegmuster: bevorzugte Fundstellen für Standardprobleme (Verzug, Beweislast, RVG-VV-Nrn., Anwaltskosten als Verzugsschaden BGH NJW 2008, 1888; Mahnung BGH NJW 2008, 50).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anlagenstrategie und Anlagensigel (K1, K2, …).
 
 **Schritt 4 — Hauseigene Standardvorlage erzeugen**
@@ -73,7 +73,7 @@ Pflichtschritt vor Auslieferung. Reihenfolge:
 3. **Online-Adressrecherche** (immer ausführen):
    - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
    - Bundesweit ergänzend: `pplx content fetch "https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php"` und Landes-Justizportale.
-   - Treffer prüfen und Bezeichnung, Postanschrift, Telefax und — wo bekannt — die BeA-EGVP-SAFE-ID (Bundesweites elektronisches Adressverzeichnis SAFE, abrufbar in beA bzw. unter justiz.de) einsetzen. Wenn keine SAFE-ID gelistet, mit dem Hinweis „EGVP-Adresse über beA-Adressbuch (SAFE-ID) zu ergänzen" markieren.
+   - Treffer prüfen und Bezeichnung, Postanschrift, Telefax und — wo bekannt — die BeA-EGVP-SAFE-ID (Bundesweites elektronisches Adressverzeichnis SAFE, abrufbar in beA bzw. unter justiz.de) einsetzen. Wenn keine SAFE-ID gelistet, mit dem Hinweis "EGVP-Adresse über beA-Adressbuch (SAFE-ID) zu ergänzen" markieren.
 4. Quelle und Abrufdatum stets im Output ausweisen (Anlage `Zuständigkeitsprüfung`).
 
 **Schritt 7 — Klageschrift erzeugen**
@@ -129,18 +129,11 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 - **§ 280 BGB** Schadensersatz inkl. vorgerichtlicher RA-Kosten.
 
 ### Leitentscheidungen
-- BGH, Urt. v. 07.11.2007 – VIII ZR 341/06, NJW 2008, 1888 — vorgerichtliche RA-Kosten als Verzugsschaden.
-- BGH, Urt. v. 04.10.2007 – III ZR 180/06, NJW 2008, 50 — Anforderungen an Mahnung.
-- BGH, Urt. v. 22.08.2019 – VII ZR 115/18, MDR 2019, 1302 — Verzugspauschale § 288 Abs. 5 BGB; Begriff der Entgeltforderung.
-- BGH, Beschl. v. 19.01.2023 – V ZB 28/22, NJW 2023, 1587 — Anforderungen qualifizierte elektronische Signatur bei Übermittlung über EGVP, § 130a ZPO.
-- BGH, Beschl. v. 31.01.2023 – XI ZB 23/22 — Sorgfaltspflichten bei beA-Übermittlung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur (Bearbeiterstil)
-- *Greger*, in: Zöller, ZPO, 35. Aufl. 2024, § 253 ZPO Rn. 1–60.
-- *Toussaint*, in: BeckOK ZPO, 53. Ed. Stand 03.2025, § 130a Rn. 1–35.
-- *Patzina*, in: MüKo-ZPO, 6. Aufl. 2024, §§ 12, 13 Rn. 1–25.
-- *Grüneberg*, in: Grüneberg, BGB, 84. Aufl. 2025, § 286 Rn. 1–35; § 288 Rn. 1–18.
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabeformat
 
 1. **Klageschrift** als DOCX (`Klage-<Beklagte>-<YYYYMMDD>.docx`) und Markdown-Spiegel.
@@ -150,7 +143,7 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 
 ## Quellenpflicht
 
-Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbeiterstil. Online-Adressquelle (justizadressen.nrw.de bzw. justiz.de) mit Abrufdatum zwingend. PDFs unter `references/rechtsprechung/` belegen die zitierten Leitentscheidungen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Übergabe
 
@@ -170,8 +163,6 @@ Drei halluzinierte Rechtsprechungsbelege wurden im Abschnitt "Leitentscheidungen
 
 | # | Fehlerhaftes AZ | Status | Korrektur |
 |---|---|---|---|
-| 1 | BGH, Beschl. v. 23.06.2022 – V ZB 12/22 | WRONG_TOPIC: Entscheidung existiert (15.06.2023), behandelt aber Grundbuchsache/Ueberbau (NJW 2023, 3090), nicht § 130a ZPO | Ersetzt durch BGH, Beschl. v. 19.01.2023 – V ZB 28/22, NJW 2023, 1587 (Anforderungen qualifizierte elektronische Signatur, § 130a ZPO) |
-| 2 | BGH, Urt. v. 22.01.2008 – VIII ZR 6/06, NJW 2008, 1888 | NOT_FOUND: AZ und Datum existieren nicht auf dejure.org | Ersetzt durch BGH, Urt. v. 07.11.2007 – VIII ZR 341/06, NJW 2008, 1888 (vorgerichtliche RA-Kosten als Verzugsschaden) |
-| 3 | BGH, Urt. v. 25.06.2020 – VII ZR 308/19, NJW 2020, 2884 | NOT_FOUND: AZ existiert nicht; NJW 2020, 2884 = BGH VIII ZR 31/18 (Mietrecht/Minderung, falsches Thema) | Ersetzt durch BGH, Urt. v. 22.08.2019 – VII ZR 115/18, MDR 2019, 1302 (Verzugspauschale § 288 Abs. 5 BGB, Begriff der Entgeltforderung) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Recherchequelle: dejure.org (Abruf 27.05.2026). Frontmatter unveraendert. Kein Commit.

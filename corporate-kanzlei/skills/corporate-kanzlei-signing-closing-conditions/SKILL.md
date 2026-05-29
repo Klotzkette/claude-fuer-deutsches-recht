@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-signing-closing-conditions
-description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Pruefraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv."
+description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv."
 ---
 
 # Signing und Closing Conditions
@@ -26,16 +26,11 @@ description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.06.2019 - V ZR 244/17, NJW 2019, 2988 — Bedingungseintritt treuwidrig verhindert (§ 162 BGB): Partei, die CP-Erfullung vereitelt, muss Schaden ersetzen; Schuldner haftet wie bei Erfullung
-- BGH, Urt. v. 17.10.2018 - VIII ZR 212/15, NJW 2019, 298 — Long Stop Date in Unternehmenskaufvertrag: automatischer Vertragsruecktritt bei Fristablauf gemaess vereinbarter Bedingung; keine Nachfrist
-- OLG Frankfurt, Urt. v. 13.10.2021 - 4 U 162/20, NZG 2022, 213 — CP-Erfuellungspflicht: Kaeufer muss Behördengenehmigung aktiv befoerdern; reine Meldung reicht nicht wenn aktives Handeln zumutbar war
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Westermann § 158 Rn. 1 ff. — Bedingungen; aufschiebend und aufloesend
-- MueKo BGB/Sutschet § 162 Rn. 1 ff. — treuwidrige Bedingungsherbeiführung
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9 — Closing-Prozess und CPs
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standard-Closing-Conditions-Matrix
 
 | CP-Typ | Typischer Inhalt | CP-Owner | Pruefung | Frist |
@@ -131,6 +126,6 @@ VORAUSSICHTLICHES CLOSING: [DATUM]
 ## Quellen
 
 - § 158, 160, 162 BGB; § 41 GWB; § 56 AWV
-- BGH V ZR 244/17 (§ 162 BGB Treuwidrigkeit); BGH VIII ZR 212/15 (Long Stop Date)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9
-- MueKo BGB/Westermann § 158 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

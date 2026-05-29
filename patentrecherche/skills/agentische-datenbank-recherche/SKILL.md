@@ -1,6 +1,6 @@
 ---
 name: agentische-datenbank-recherche
-description: "Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings fuer Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Taetigkeit). Pruefraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veroeffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen."
+description: "Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Tätigkeit). Prüfraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veröffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen."
 ---
 
 # agentische-datenbank-recherche
@@ -11,7 +11,7 @@ Das ist das **Master-Skill** des Plugins: Es führt agentisch durch die wichtigs
 
 ## Eingaben
 
-- **Suchauftrag** in natürlicher Sprache („Bitte recherchiere zu folgender Erfindung den Stand der Technik in Europa und USA …").
+- **Suchauftrag** in natürlicher Sprache ("Bitte recherchiere zu folgender Erfindung den Stand der Technik in Europa und USA …").
 - **Erfindungsmaterial:** Erfindungsbeschreibung, Anspruchsentwurf, Datenblatt, Skizzen, Memo. **Drag-and-Drop oder Datei-Upload.**
 - **Klassen** aus dem vorgelagerten Skill `klassifikation-cpc-ipc` (Hauptklasse + Nebenklassen, CPC und IPC).
 - **Rechtsraum** aus dem Kaltstart-Interview oder ad hoc gewählt.
@@ -24,15 +24,15 @@ Das ist das **Master-Skill** des Plugins: Es führt agentisch durch die wichtigs
 - Betreiber: EPA. ~150 Millionen Patentdokumente weltweit. Volltext bei vielen Dokumenten, Maschinenübersetzung **Patent Translate** für ~30 Sprachen.
 - **Smart Search** für freien Volltext: Eingabefeld oben akzeptiert kurze Fragen und ganze Sätze.
 - **Advanced Search** für strukturierte Suche: Felder `txt` (Titel/Abstract), `desc` (Beschreibung), `claims`, `cpc`, `ipc`, `ti` (Titel), `ab` (Abstract), `in` (Erfinder), `pa` (Anmelder), `pn` (Publikationsnummer), `pd` (Publikationsdatum), `prd` (Prioritätsdatum), `ap` (Anmelde-Nr.). Boolesche Operatoren `AND`, `OR`, `NOT`, Wildcards `*`, Nachbarschaft `prox/distance<n>` und `prox/unit=sentence`.
-- **Familien-Ansicht:** „Family list" und „INPADOC patent family" — wichtig für Dedup.
+- **Familien-Ansicht:** "Family list" und "INPADOC patent family" — wichtig für Dedup.
 - **Classification Search:** [Espacenet CPC Browser](https://worldwide.espacenet.com/patent/cpc-browser).
-- **Agentische Bedienung:** Smart Search akzeptiert natürlichsprachige Suchaufträge und ganze Texte. Drag-and-Drop des Erfindungsmaterials in das Smart-Search-Feld; das System scrollt durch die Trefferliste, öffnet Treffer in „Family list"-Ansicht, sammelt Metadaten.
+- **Agentische Bedienung:** Smart Search akzeptiert natürlichsprachige Suchaufträge und ganze Texte. Drag-and-Drop des Erfindungsmaterials in das Smart-Search-Feld; das System scrollt durch die Trefferliste, öffnet Treffer in "Family list"-Ansicht, sammelt Metadaten.
 
 ### 2. Google Patents — `https://patents.google.com`
 
 - Betreiber: Google. ~120 Millionen Patentdokumente, sehr gute Volltextsuche mit semantischer Erweiterung, Maschinenübersetzung. **Google Scholar Cross-Search** für Nicht-Patent-Literatur (Aufsätze, Konferenz-Proceedings).
 - **Suche:** Suchfeld akzeptiert ganze Sätze und Anspruchstext. Filter links: Klasse (CPC), Erfinder, Anmelder, Datum, Patentamt, Sprache, Status.
-- **Prior Art Finder:** Bei jedem Treffer Button „Find prior art" — automatische Vorschläge für ähnliche Dokumente.
+- **Prior Art Finder:** Bei jedem Treffer Button "Find prior art" — automatische Vorschläge für ähnliche Dokumente.
 - **Agentische Bedienung:** Suchauftrag in das Hauptsuchfeld, Filter setzen, Klassen-Filter aus dem CPC-Set, Status-Filter (Granted / Application / Expired) je nach Recherchezweck.
 
 ### 3. DPMAregister — `https://register.dpma.de`
@@ -45,12 +45,12 @@ Das ist das **Master-Skill** des Plugins: Es führt agentisch durch die wichtigs
 
 - Betreiber: DPMA. **Recherchedatenbank** mit weltweitem Patentdokumentenbestand (DEPATIS — Datenbankzugang in den Patentinformationszentren).
 - **Klassen-Recherche** stark, **deutscher Volltext** vorhanden, Anmelder- und Erfindersuche.
-- **Agentische Bedienung:** „Einsteigerrecherche" für natürlichsprachige Eingabe, „Expertenrecherche" mit IKOFAX-Syntax (Befehlsmodus). Für DE-Schwerpunkt sinnvoll.
+- **Agentische Bedienung:** "Einsteigerrecherche" für natürlichsprachige Eingabe, "Expertenrecherche" mit IKOFAX-Syntax (Befehlsmodus). Für DE-Schwerpunkt sinnvoll.
 
 ### 5. EPO Register — `https://register.epo.org`
 
 - Betreiber: EPA. **Rechtsstand** europäischer Patentanmeldungen und EP-Patente. Akteneinsicht teilweise öffentlich nach Veröffentlichung der Anmeldung — Rechercheberichte, Prüfungsbescheide, Antworten, Einspruchsschriften.
-- **Agentische Bedienung:** Eingabe Veröffentlichungsnummer (EP …), Direkt-Abruf Rechtsstand und „All Documents". Für Einspruchsstrategie und FTO essenziell.
+- **Agentische Bedienung:** Eingabe Veröffentlichungsnummer (EP …), Direkt-Abruf Rechtsstand und "All Documents". Für Einspruchsstrategie und FTO essenziell.
 
 ### 6. WIPO PATENTSCOPE — `https://patentscope.wipo.int`
 
@@ -140,7 +140,7 @@ Strukturierte Ergebnisliste mit:
 - **Volltextsuche** funktioniert nicht in allen Sprachen gleich gut. JP, CN, KR sind oft nur über Klassen- und Anmelder-/Titel-Suche zuverlässig erreichbar.
 - **Bezahl-Datenbanken** (PatBase, STN, Orbit, Questel) werden **nicht** agentisch bedient. Wenn die Kanzlei Zugänge hat: dort selbst recherchieren, Ergebnisse manuell zuführen.
 - **Nicht-Patent-Literatur** (NPL) — Aufsätze, Konferenz-Proceedings, Dissertationen, Produkt-Datenblätter, frühere öffentliche Nutzungen. Das Plugin behandelt sie über `stand-der-technik-recherche` ergänzend, nicht innerhalb des Master-Skills.
-- **Geheime ältere Anmeldungen** (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) — diese werden zwar nachträglich publiziert, sind aber bei einer Recherche kurz nach dem Anmeldetag der Mandantin noch nicht öffentlich. Klar kommunizieren, dass ein „Zwischenraum" von 18 Monaten existiert.
+- **Geheime ältere Anmeldungen** (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) — diese werden zwar nachträglich publiziert, sind aber bei einer Recherche kurz nach dem Anmeldetag der Mandantin noch nicht öffentlich. Klar kommunizieren, dass ein "Zwischenraum" von 18 Monaten existiert.
 
 ## Disclaimer
 
@@ -165,8 +165,8 @@ Bevor die Datenbankrecherche gestartet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 16.04.2013 — X ZR 49/12 (Fahrzeuggetriebesteuerung):** Die Aufgabe-Loesung-Methode des EPA ist bei deutschen Gerichten anerkannt; der naechstliegende Stand der Technik wird durch eine amtliche oder private Recherche ermittelt und bestimmt, welche Loesungsschritte dem Fachmann naheliegend erschienen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 14.08.2012 — X ZR 3/10 (Rohrverzweigung):** Vorveröffentlichungen, die nach dem Prioritaetsdatum, aber vor dem Anmeldetag veroffentlicht wurden, koennen den Stand der Technik nach § 3 II PatG bilden (aeltere Anmeldungen); eine grindliche Recherche muss auch diese Kategorie abdecken.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 1090/12 (Funktionale Merkmale):** Eine Entgegenhaltung nimmt ein funktionales Merkmal vorweg, wenn sie eine Vorrichtung beschreibt, die geeignet ist, die beanspruchte Funktion zu erfuellen; die tatsaechliche Ausfuehrung der Funktion ist nicht erforderlich.

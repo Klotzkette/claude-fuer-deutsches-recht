@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-monatsabschluss-routine
-description: "Routine fuer den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periodenabgrenzung Auswertung. Output Monatsendreport Termincontrolling Querverweis stb-routine-monatsabschluss-30-tage-zyklus."
+description: "Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periodenabgrenzung Auswertung. Output Monatsendreport Termincontrolling Querverweis stb-routine-monatsabschluss-30-tage-zyklus."
 ---
 
 # Monatsabschluss-Routine fuer den Steuerberater

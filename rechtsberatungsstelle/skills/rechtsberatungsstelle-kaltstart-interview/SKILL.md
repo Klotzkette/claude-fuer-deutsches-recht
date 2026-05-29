@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-kaltstart-interview
-description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG § 1 Erlaubnisnorm, BRAO Aufsicht, Beratungsordnung der Hochschule. Pruefraster Hochschule und Beratungsordnung, verfuegbare Rechtsgebiete, Anleiter-Kontakte, Fristen und Mandatsgrenzen, Eskalationsregeln. Output vollstaendiges Konfigurations-Profil fuer Rechtsberatungsstelle. Abgrenzung zu Rechtsberatungsstelle-Anpassen fuer spaetere Aenderungen und zu Einarbeitung."
+description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG § 1 Erlaubnisnorm, BRAO Aufsicht, Beratungsordnung der Hochschule. Prüfraster Hochschule und Beratungsordnung, verfuegbare Rechtsgebiete, Anleiter-Kontakte, Fristen und Mandatsgrenzen, Eskalationsregeln. Output vollständiges Konfigurations-Profil für Rechtsberatungsstelle. Abgrenzung zu Rechtsberatungsstelle-Anpassen für spaetere Aenderungen und zu Einarbeitung."
 ---
 
 # /kaltstart-interview
@@ -14,7 +14,6 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 
 # Ersteinrichtung der Beratungsstelle
 
-
 ## Triage zu Beginn
 1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?
 2. Welche Rechtsgrundlage gilt fuer die Beratungsstellenarbeit: § 6 Abs. 2 Nr. 2 RDG, § 8 RDG oder Tätigkeit unter zugelassenem Anwalt?
@@ -22,9 +21,7 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtsberatung erfordert klare Aufsichtsstrukturen und Kompetenzgrenzen; Kaltstart-Interview legt diese fest.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzrechtliche Grundlagen muessen vor Aufnahme der Beratungsstellentaetigkeit geklaert sein (AVV, TOM, Verarbeitungsverzeichnis nach Art. 30 DSGVO).
-<!-- AUDIT 27.05.2026: IX ZR 222/18 (NOT_FOUND bei dejure.org) geloescht; I ZR 82/17 (WRONG_TOPIC: Urteil 01.02.2018 betrifft Medizinprodukt/HeilMWerbG, nicht Anleitungsorganisation Rechtsberatung) geloescht. -->
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen fuer erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
@@ -32,10 +29,9 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
 
-## Kommentarliteratur
-- Krenzler (Hrsg.) RDG § 6 Rn. 44-52, § 8 Rn. 1-30 (Erlaubnisfreie Beratung: Anleitungsorganisation und Rechtsgrundlage)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Organisationspflicht bei Einbeziehung Dritter)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Bevor Studierende `/einarbeitung` starten und Mandate aufnehmen, muss der anleitende Volljurist die Beratungsstelle konfigurieren. Diese Konfiguration steuert:
@@ -50,7 +46,7 @@ Bevor Studierende `/einarbeitung` starten und Mandate aufnehmen, muss der anleit
 
 ## Berufsrechtlicher Rahmen
 
-- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studierenden anzuleiten. „Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
+- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studierenden anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
 - § 43a Abs. 2 BRAO: Verschwiegenheitsorganisation muss bereits bei Einrichtung der Beratungsstelle mitgedacht werden (kein Mandantendaten-Upload in nicht abgesicherte Systeme).
 - § 203 Abs. 4 StGB: Einbeziehung Dritter (Studierende, externe IT) erfordert vertragliche Absicherung.
 
@@ -59,7 +55,7 @@ Bevor Studierende `/einarbeitung` starten und Mandate aufnehmen, muss der anleit
 ### Schritt 0: Bestehendes Profil prüfen
 
 Ist eine `CLAUDE.md` vorhanden?
-- Ja: „Ihr Profil ist bereits eingerichtet. Möchten Sie (a) das Profil anzeigen, (b) einen Abschnitt überarbeiten, oder (c) komplett neu starten (`--redo`)?"
+- Ja: "Ihr Profil ist bereits eingerichtet. Möchten Sie (a) das Profil anzeigen, (b) einen Abschnitt überarbeiten, oder (c) komplett neu starten (`--redo`)?"
 - Nein: Mit Schritt 1 beginnen.
 
 ### Schritt 1: Beratungsstellentyp
@@ -87,7 +83,7 @@ Je nach Typ aus Schritt 1:
 | Sozialberatung (Verbände) | § 8 Abs. 1 Nr. 4 RDG | Satzungsgemäßer Auftrag erforderlich |
 | Pro-Bono (zugelassene Anwälte) | § 1 BRAO (volle Zulassung) | BRAO/BORA voll anwendbar |
 
-> Bestätigen Sie: „Alle Beratungsleistungen erfolgen unentgeltlich. Die Studierenden stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
+> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studierenden stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
 
 ### Schritt 3: Fachbereiche
 
@@ -176,7 +172,6 @@ Konfigurationsdatei (`CLAUDE.md`). Kein `[KI-GESTÜTZTER ENTWURF]`-Vermerk (Anle
 - **Fachbereiche zu weit gefasst:** Eine Beratungsstelle, die alles anbietet, kann nichts gut anbieten. Lieber weniger Bereiche mit klarer Gate-Struktur als viele Bereiche mit Qualitätslücken.
 - **IT-Sicherheit nicht mitgedacht:** Cloud-Systeme ohne AVV verletzen DSGVO Art. 28. Besonders kritisch bei Asylsuchenden (Art. 9 DSGVO: besondere Kategorien).
 - **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
-
 
 ---
 

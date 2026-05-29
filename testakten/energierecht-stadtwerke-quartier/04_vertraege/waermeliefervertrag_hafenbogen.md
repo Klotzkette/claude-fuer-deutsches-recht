@@ -5,7 +5,7 @@
 ---
 
 ## WÄRMELIEFERVERTRAG
-### Nahwärmenetz Quartier „Hafenbogen"
+### Nahwärmenetz Quartier "Hafenbogen"
 ### Vertragsnummer: SWKK-WLV-2026-001
 
 zwischen
@@ -16,7 +16,7 @@ HRB 4218 AG Coesfeld
 Vorstandsvorsitzende: Dr. Gerda Wohlfahrt
 Telefon: 02591 / 887 – 0 · E-Mail: waerme@swkk.de
 
-— im Folgenden „Lieferant" —
+— im Folgenden "Lieferant" —
 
 und
 
@@ -24,15 +24,15 @@ und
 [Vollständige Anschrift]
 [ggf. vertreten durch ____]
 
-— im Folgenden „Abnehmer" —
+— im Folgenden "Abnehmer" —
 
-— gemeinsam „die Vertragsparteien" —
+— gemeinsam "die Vertragsparteien" —
 
 ---
 
 ## Präambel
 
-Die Vertragsparteien wollen die Versorgung des Gebäudes / der Liegenschaft im Quartier „Hafenbogen" mit Wärme aus dem von der Lieferantin betriebenen Nahwärmenetz regeln. Das Wärmenetz wird zu mindestens 70 % aus erneuerbaren Energien gespeist (Solarthermie 18.000 m², Großwärmepumpe 4,8 MW, Biomasse-KWK 1,2 MW, Erdgas-Spitzenlastkessel zur Sicherung) und soll bis 2030 auf 80 % regenerativen Wärmeanteil ausgebaut werden.
+Die Vertragsparteien wollen die Versorgung des Gebäudes / der Liegenschaft im Quartier "Hafenbogen" mit Wärme aus dem von der Lieferantin betriebenen Nahwärmenetz regeln. Das Wärmenetz wird zu mindestens 70 % aus erneuerbaren Energien gespeist (Solarthermie 18.000 m², Großwärmepumpe 4,8 MW, Biomasse-KWK 1,2 MW, Erdgas-Spitzenlastkessel zur Sicherung) und soll bis 2030 auf 80 % regenerativen Wärmeanteil ausgebaut werden.
 
 Auf dieses Vertragsverhältnis findet die Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme (AVBFernwärmeV) in der jeweils geltenden Fassung ergänzend Anwendung, soweit dieser Vertrag keine abweichenden Regelungen enthält.
 
@@ -40,7 +40,7 @@ Auf dieses Vertragsverhältnis findet die Verordnung über Allgemeine Bedingunge
 
 ## § 1 Vertragsgegenstand
 
-(1) Der Lieferant verpflichtet sich, den Abnehmer ab dem Vertragsbeginn an der Lieferstelle (siehe § 2) mit Wärme aus dem Nahwärmenetz „Hafenbogen" zu versorgen.
+(1) Der Lieferant verpflichtet sich, den Abnehmer ab dem Vertragsbeginn an der Lieferstelle (siehe § 2) mit Wärme aus dem Nahwärmenetz "Hafenbogen" zu versorgen.
 
 (2) Die Wärme dient der Bereitstellung von Heizenergie und Warmwasser für das angeschlossene Gebäude.
 
@@ -161,7 +161,7 @@ mit
 
 ## § 7 Anschluss- und Benutzungs-Zwang
 
-(1) Die Stadt Lüdinghausen hat mit der Anschluss- und Benutzungs-Satzung für das Nahwärmenetz „Hafenbogen" vom 15.08.2026 (Amtsblatt 17/2026) den Anschluss- und Benutzungs-Zwang für die im Plangebiet liegenden Grundstücke festgesetzt.
+(1) Die Stadt Lüdinghausen hat mit der Anschluss- und Benutzungs-Satzung für das Nahwärmenetz "Hafenbogen" vom 15.08.2026 (Amtsblatt 17/2026) den Anschluss- und Benutzungs-Zwang für die im Plangebiet liegenden Grundstücke festgesetzt.
 
 (2) Der Abnehmer hat sich gemäß dieser Satzung an das Wärmenetz anzuschließen. Befreiungs-Anträge sind an die Stadt Lüdinghausen zu richten.
 

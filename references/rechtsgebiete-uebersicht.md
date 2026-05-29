@@ -13,6 +13,7 @@
 | `produktrecht` | Produktrecht, Vermarktung, AGB-Recht | UWG, PAngV, TMG, DDG, BGB §§ 305 ff., ProdSG |
 | `rechtsberatungsstelle` | Rechtsberatungsstellen, Studienberatung, Pro Bono | – |
 | `regulatorisches-recht` | Aufsichtsrecht, Branchenrecht | KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG |
+| `bgb-at-pruefer` | BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingung, Fristen und Verjährung | BGB §§ 104-218 |
 | `vertragsrecht` | Vertragsrecht, AGB, NDA, SaaS, Vertrieb | BGB, HGB, AGG, EU-Lieferketten-RL |
 | `verwaltete-agentenrezepte` | Vorlagen für Multi-Agent-Abläufe | – |
 

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-us-ear-itar
-description: "US-Exportkontrolle EAR ITAR und OFAC fuer Unternehmen mit US-Bezug im Aussenhandel. Anwendungsfall Produkt enthaelt US-Komponenten oder unterliegt US-Recht und Reexport- oder Weitergabepflichten muessen geprueft werden. Normen EAR 15 CFR §§ 730-774 ITAR 22 CFR §§ 120-130 OFAC SDN-Liste Foreign Direct Product Rule. Pruefraster US-Touchpoints Reexport-Risiken US-Origin-Komponenten De-minimis-Regel Foreign Direct Product Rule ITAR-Bezug OFAC-Bezug. Output US-Exportkontroll-Dossier mit Reexport-Klassifizierung Lizenzpfad und OFAC-Screening-Nachweis. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-sanktionen-embargos."
+description: "US-Exportkontrolle EAR ITAR und OFAC für Unternehmen mit US-Bezug im Aussenhandel. Anwendungsfall Produkt enthaelt US-Komponenten oder unterliegt US-Recht und Reexport- oder Weitergabepflichten muessen geprüft werden. Normen EAR 15 CFR §§ 730-774 ITAR 22 CFR §§ 120-130 OFAC SDN-Liste Foreign Direct Product Rule. Prüfraster US-Touchpoints Reexport-Risiken US-Origin-Komponenten De-minimis-Regel Foreign Direct Product Rule ITAR-Bezug OFAC-Bezug. Output US-Exportkontroll-Dossier mit Reexport-Klassifizierung Lizenzpfad und OFAC-Screening-Nachweis. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-sanktionen-embargos."
 ---
 
 # US EAR, ITAR und Extraterritorialität
@@ -64,8 +64,7 @@ Kläre vor der Pruefung:
 
 - US Court of Appeals, *United States v Zhen Zhou Wu* (1st Cir. 2012) — Mens-Rea-Anforderungen beim EAR-Verstos: Kenntnis der US-Origin und der Genehmigungspflicht genuegt; willful blindness als Vorsatzaequivalent.
 - US District Court SDNY, *United States v Oleg Zhelobovsky* (2014) — Tatbestandsmaessigkeit von Reexport-Transaktionen unter EAR; auch auslaendische Zwischenhaendler koennen haften, wenn US-Nexus feststeht.
-- EuGH, Urt. v. 18.11.2020 - C-719/18 (Urteil zu US-Blocking-Statute) — Reichweite der EU-Blocking-Verordnung (VO (EG) 2271/96 geg. US-Sanktionen Iran/Kuba); EU-Unternehmen muss bei OFAC-Verstoss einstweiligen Rechtsschutz beantragen.
-- BGH, Urt. v. 11.07.2019 - 1 StR 634/18, NStZ 2020, 34 — Deutsche Strafbarkeit bei Reexport von US-Dual-Use-Gutern ohne EAR-Genehmigung; § 18 AWG greift, wenn deutsche Norm parallel verletzt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette US EAR/ITAR
 
@@ -76,11 +75,9 @@ Kläre vor der Pruefung:
 - VO (EG) 2271/96 — EU-Blocking-Statute gegen extraterritoriale US-Sanktionen
 - § 4 I AWG — Nationales Verbot der Unterstuetzung auslaendischer Sanktionen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meltzer/Cluchey, *Export Control Law and Regulations Handbook*, 4th ed. — US-Standardwerk EAR/ITAR
-- Hahn, Aussenwirtschaftsrecht und US-Exportkontrolle, RIW 2020, 465 — Deutsch-amerikanische Kollisionsfragen
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: EAR/ITAR-Klassifizierungsvermerk
 
 **Adressat:** Export Compliance Officer — **Tonfall:** regulierungstechnisch, ECCN-praezise

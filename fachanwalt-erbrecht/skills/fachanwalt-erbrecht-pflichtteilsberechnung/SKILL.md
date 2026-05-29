@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-pflichtteilsberechnung
-description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat. §§ 2303 2311 2314 BGB Pflichtteil. Pruefraster: Pflichtteilsberechtigter Nachlasswert Bewertung Auskunftsanspruch Ergaenzungsanspruch Abzuege. Output: Pflichtteilsberechnung Auskunftsklage-Entwurf. Abgrenzung: nicht fuer Pflichtteilsergaenzungsanspruch (fachanwalt-erbrecht-pflichtteilsergaenzung-2325)."
+description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat. §§ 2303 2311 2314 BGB Pflichtteil. Prüfraster: Pflichtteilsberechtigter Nachlasswert Bewertung Auskunftsanspruch Ergaenzungsanspruch Abzuege. Output: Pflichtteilsberechnung Auskunftsklage-Entwurf. Abgrenzung: nicht für Pflichtteilsergaenzungsanspruch (fachanwalt-erbrecht-pflichtteilsergaenzung-2325)."
 ---
 
 # Pflichtteilsberechnung — Auskunft und Stufenklage
@@ -36,12 +36,7 @@ description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | IV ZR 132/15 | 23.11.2016 | Schenkungen an Ehegatten — 10-Jahres-Frist beginnt erst mit Auflösung der Ehe |
-| BGH | IV ZR 232/12 | 16.01.2013 | Einheitlicher Pflichtteilsanspruch — keine neue Verjährung bei später bekanntwerdenden Nachlassgegenständen |
-| BGH | IVa ZR 85/88 | 19.04.1989 | Niederstwertprinzip — nicht verbrauchbare Sachen: niedrigerer Wert von bereinigtem Schenkungswert und Erbfall-Wert |
-| BGH | IV ZR 138/14 | 29.04.2015 | Nießbrauchsvorbehalt — 10-Jahres-Frist beginnt nicht vor Erlöschen des Nießbrauchs |
-| BGH | IV ZR 178/14 | 28.09.2016 | Gemischte Schenkung — der unentgeltliche Anteil unterliegt § 2325 BGB |
-| OLG Frankfurt | 20 W 350/14 | 21.08.2015 | Unternehmensbewertung im Pflichtteilsrecht — IDW S1 oder vereinfachtes Ertragswertverfahren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Durchsetzung
 
@@ -285,11 +280,10 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 
 | Gegenargument Erbe | Reaktion |
 |-------------------|---------|
-| „Schenkung älter als zehn Jahre" | Ehegattenschenkung unbegrenzt; Nießbrauchsvorbehalt verlängert Frist (BGH IV ZR 138/14) |
-| „Gemischte Schenkung hat Marktwert gehabt" | BGH IV ZR 178/14: nur unentgeltlicher Anteil anzurechnen; Differenz Kaufpreis/Verkehrswert |
-| „Nachlass wertlos, kein Pflichtteil" | Ergänzungsanspruch gegen Beschenkte § 2329 BGB; Nachlasswert ≠ Ergänzungsbasis |
-| „Verjährung eingetreten" | BGH IV ZR 232/12: einheitlicher Anspruch; Kenntnis prüfen; bei nachträglicher Kenntnis neue Verjährung nur für neue Ansprüche |
-| „Privatverzeichnis reicht" | § 2314 Abs. 1 Satz 3 BGB: auf Verlangen notarielles Verzeichnis; kein Ermessen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Nachlass wertlos, kein Pflichtteil" | Ergänzungsanspruch gegen Beschenkte § 2329 BGB; Nachlasswert ≠ Ergänzungsbasis |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Privatverzeichnis reicht" | § 2314 Abs. 1 Satz 3 BGB: auf Verlangen notarielles Verzeichnis; kein Ermessen |
 
 ## Streitwert und Kosten
 
@@ -324,9 +318,6 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 
 - BGB §§ 2303–2332, 2314, 2325, 2329, 2332
 - ZPO § 254
-- BGH IV ZR 132/15 (23.11.2016)
-- BGH IV ZR 232/12 (16.01.2013)
-- BGH IVa ZR 85/88 (19.04.1989)
-- Grüneberg BGB § 2303 ff.
-- MüKo-BGB / Lange § 2303
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026

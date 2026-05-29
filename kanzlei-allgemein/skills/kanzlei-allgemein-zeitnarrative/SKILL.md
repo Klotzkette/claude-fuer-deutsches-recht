@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-zeitnarrative
-description: "Zeiterfassung mit abrechenbaren Narrativen fuer Kanzlei-Mandate. Anwendungsfall Anwalt hat Taetigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen fuer spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Pruefraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Taetigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung."
+description: "Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung."
 ---
 
 # Zeitnarrative und Timesheet
@@ -13,10 +13,7 @@ description: "Zeiterfassung mit abrechenbaren Narrativen fuer Kanzlei-Mandate. A
 4. Soll der Eintrag sofort in die Rechnung oder erst in das interne Timesheet?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 29.07.2021 - IX ZR 5/21, NJW 2021, 3320 — Honorarvereinbarung nach Stundensatz erfordert detaillierte Zeitaufzeichnungen; pauschalierte Taetigkeitsbeschreibung reicht nicht fuer Nachvollziehbarkeit nach § 10 RVG analog.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Anwaltliches Honorar muss spezifiziert werden; Rechnung ohne nachvollziehbare Taetigkeitsangabe ist nicht fällig.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Mandant kann Zeitaufzeichnung verlangen (§ 10 RVG analog); Kanzlei muss Taetigkeitsliste fuehren und auf Anforderung herausgeben.
-- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — Zeitnachweis als Betriebsausgabenbeleg: Zeitaufzeichnungen muessen GoBD-konform unveraenderbar sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 10 RVG — Pflichtangaben auf der Rechnung: Taetigkeitsnachweis als Faelligkeitsvoraussetzung
@@ -24,10 +21,9 @@ description: "Zeiterfassung mit abrechenbaren Narrativen fuer Kanzlei-Mandate. A
 - § 147 AO — Aufbewahrungspflicht: Zeiterfassungsbelege 10 Jahre
 - § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als Teil der betrieblichen Aufzeichnungen
 
-## Kommentarliteratur
-- Mueckenberger/Meiling RVG § 10 Rn. 1-25 (Taetigkeitsnachweis und Faelligkeit)
-- Gerold/Schmidt RVG § 3a Rn. 1-20 (Stundensatz-Vereinbarung und Dokumentation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill macht aus Arbeitsschritten abrechenbare oder interne Zeitnarrative. Er fragt nach, welcher Akte die Tätigkeit zugeordnet werden soll, und erzeugt klare Zeiteinträge, die später in Rechnung, E-Rechnung, Prüfprotokoll oder interne Controlling-Auswertung übernommen werden können.
@@ -54,10 +50,10 @@ Dieser Skill macht aus Arbeitsschritten abrechenbare oder interne Zeitnarrative.
 
 Gut:
 
-- „Prüfung beA-Eingang und Fristnotierung; Entwurf Rückfrage an Mandant.“
-- „Analyse Klageerwiderung und Strukturierung der Gegenargumente.“
-- „Telefonat mit Mandant zur Sachverhaltsergänzung und Abstimmung der nächsten Schritte.“
-- „Entwurf und Überarbeitung Schriftsatzantwort einschließlich Anlagenabgleich.“
+- "Prüfung beA-Eingang und Fristnotierung; Entwurf Rückfrage an Mandant."
+- "Analyse Klageerwiderung und Strukturierung der Gegenargumente."
+- "Telefonat mit Mandant zur Sachverhaltsergänzung und Abstimmung der nächsten Schritte."
+- "Entwurf und Überarbeitung Schriftsatzantwort einschließlich Anlagenabgleich."
 
 Nicht gut:
 

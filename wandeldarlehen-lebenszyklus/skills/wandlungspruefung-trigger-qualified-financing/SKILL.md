@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-qualified-financing
-description: "Wandlung bei qualifizierter Finanzierungsrunde pruefen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Pruefprotokoll Wandlungsberechnung. Abgrenzung: nicht fuer Maturity-Trigger (wandlungspruefung-trigger-maturity)."
+description: "Wandlung bei qualifizierter Finanzierungsrunde prüfen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Prüfprotokoll Wandlungsberechnung. Abgrenzung: nicht für Maturity-Trigger (wandlungsprüfung-trigger-maturity)."
 ---
 
 # Wandlungsprüfung – Trigger Qualified Financing
@@ -26,8 +26,7 @@ Dieser Skill prüft, ob ein Qualified-Financing-Trigger eingetreten ist, und ber
 - § 272 Abs. 2 Nr. 4 HGB (Einlage in Kapitalrücklage)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Kapitalerhöhung gegen Sacheinlage – Voraussetzungen)
-- OLG Frankfurt, Urt. v. 5. September 2018 – 4 U 152/17 (Wandeldarlehen und Qualified Financing Prüfung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -92,9 +91,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 24: Qualified Financing als Wandlungstrigger setzt voraus, dass die Mindestbewertung und das Mindestinvestitionsvolumen exakt eingehalten werden; Unterschreitung eines der Schwellenwerte schließt das Qualified Financing aus und aktiviert stattdessen den Maturity-Trigger oder ein Verhandlungsrecht; dies muss im Vertrag klar definiert sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 18: Die Berechnung, ob ein Qualified Financing vorliegt, muss auf der Basis der vollverwässerten Anteile vor der Runde erfolgen; der Darlehensgeber hat Anspruch auf vollständige Information über die Konditionen der neuen Runde, um sein Wandlungsrecht ausüben zu können.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

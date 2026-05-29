@@ -16,7 +16,7 @@ IDW S 11 prüft die drei Eröffnungsgründe in folgender Reihenfolge:
 
 - **Liquiditätsstatus** zum Stichtag.
 - **Liquiditätsplan** über drei Wochen.
-- **Schema** nach BGH-Rspr. BGHZ 163, 134 (IX ZR 123/04, 24.05.2005): Liquiditätslücke ≥ 10 % über länger als drei Wochen = Zahlungsunfähigkeit.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Ausnahme**: Lücke schließbar binnen drei Wochen mit überwiegender Wahrscheinlichkeit.
 
 ### Stufe 2 — Drohende Zahlungsunfähigkeit § 18 InsO
@@ -46,7 +46,7 @@ Nach IDW S 11:
 
 Die "überwiegende Wahrscheinlichkeit" der Fortführung ist methodisch nichts anderes als die Wahrscheinlichkeit dass das Unternehmen über den 12-Monats-Horizont **nicht in die Zahlungsunfähigkeit nach § 17 InsO** gerät. Das ist der Grund warum die Liquiditätsplanung den Kern der Prognose bildet.
 
-In der Liquiditätsplanung muss in **jedem Zeitabschnitt** das BGH-Schema aus **BGHZ 163, 134 (BGH IX ZR 123/04, 24.05.2005)** eingehalten werden:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Deckung der fälligen Verbindlichkeiten mindestens 90 Prozent** (Liquiditätslücke unter zehn Prozent).
 - **Vorübergehende Unterdeckung höchstens drei Wochen** und mit Aussicht auf Schließung binnen dieser Frist.
@@ -77,7 +77,7 @@ Die Prognose ist nur dann tragfähig wenn die 90-Prozent-Schwelle nicht nur im B
 ### Berücksichtigungsfähig
 
 - **Harte externe Patronatserklärung** mit insolvenzfester Klausel (Forderungsverzicht im Insolvenzfall).
-- **Qualifizierter Rangrücktritt** gemäß BGH-Rspr. (BGH IX ZR 133/14, IX ZR 210/18, II ZR 18/19).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Forderungsverzicht** mit Besserungsschein.
 - **Stundungsvereinbarungen** schriftlich.
 - **Schriftliche Bankzusage** auf Kreditlinienerhöhung.

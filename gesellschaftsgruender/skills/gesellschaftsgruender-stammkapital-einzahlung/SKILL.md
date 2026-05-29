@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-stammkapital-einzahlung
-description: "Stammkapitaleinzahlung bei GmbH-Gruendung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Pruefraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlagepruefung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gruendung."
+description: "Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Prüfraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlageprüfung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gründung."
 ---
 
 # Stammkapital-Einzahlung
@@ -70,39 +70,39 @@ Vor der Anmeldung beim Handelsregister muss das Stammkapital eingezahlt sein (Pa
 
 ### Schritt 1: Konto eröffnen (auf Gesellschaft i.G.)
 
-- Konto wird zunächst „in Gründung" geführt
+- Konto wird zunächst "in Gründung" geführt
 - Nach HR-Eintragung wird auf die GmbH umgestellt
 
 ### Schritt 2: Bareinlage einzahlen
 
 - **Quelle**: Privat-Konto der Gesellschafter
-- **Verwendungszweck**: „Stammkapital-Einzahlung [Gesellschaftername i.G.]"
+- **Verwendungszweck**: "Stammkapital-Einzahlung [Gesellschaftername i.G.]"
 - **Höhe**: mindestens Pflicht-Höhe (GmbH 12.500 EUR; UG 100 % des Stammkapitals)
 
 ### Schritt 3: Bank-Bestätigung
 
 - Bank stellt **Einzahlungs-Bestätigung** aus
-- Inhalt: Datum, Höhe, Konto, „zur freien Verfügung des Geschäftsführers"
+- Inhalt: Datum, Höhe, Konto, "zur freien Verfügung des Geschäftsführers"
 
 ### Schritt 4: Bestätigung an Notar
 
 - Notar reicht beim Handelsregister ein (Paragraf 8 II 1 GmbHG)
 - GF versichert eidesstattlich
 
-## 4) „Freie Verfügung" des Geschäftsführers Paragraf 7 II 2 GmbHG
+## 4) "Freie Verfügung" des Geschäftsführers Paragraf 7 II 2 GmbHG
 
 ### Inhalt
 
 Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verfügung stehen. Dies bedeutet:
 
-- Kein „**Hin- und Herzahlen**" (Einzahlung, dann sofortige Ruecküberweisung an Gesellschafter)
-- Kein „**Cash Pool**", in dem die Einlage gebunden ist
+- Kein "**Hin- und Herzahlen**" (Einzahlung, dann sofortige Ruecküberweisung an Gesellschafter)
+- Kein "**Cash Pool**", in dem die Einlage gebunden ist
 - Keine **Verpfaendung** der eingezahlten Mittel
 - Keine **Zweckbindung**, die die Verwendung praktisch verhindert
 
 ### Konsequenz Verstoß
 
-- Bei verdecktem Hin- und Herzahlen: Einlage gilt als **nicht erbracht** (BGH NJW 2014, 1463)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Persönliche Haftung der Gesellschafter (Paragraf 9 GmbHG iVm Paragraf 19 GmbHG)
 - Strafbarkeit nach Paragraf 82 GmbHG bei falscher Versicherung
 
@@ -134,7 +134,7 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 
 ### Folge
 
-- **Bareinlage gilt als nicht erbracht** (BGH NJW 2014, 1463; BGH NJW 2017, 1748)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Persönliche Haftung
 - Verdeckter Tatbestand Paragraf 82 GmbHG
 
@@ -163,14 +163,14 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 
 ### Vorratsgesellschaft
 
-- Gegründete, aber nie operativ genutzte GmbH (z.B. „Vorrats-GmbH 1234 GmbH")
-- Bei Aktivierung: Wiedererlangung der wirtschaftlichen Neugründung -> erneute volle Einzahlung (BGH NJW 2003, 892)
+- Gegründete, aber nie operativ genutzte GmbH (z.B. "Vorrats-GmbH 1234 GmbH")
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Strafbarkeit, wenn diese Pflicht nicht beachtet wird
 
 ### Mantel-GmbH
 
 - Stillgelegte GmbH wird wiederbelebt mit neuem Geschäftsmodell
-- Analogie zur Vorratsgesellschaft: volle Einzahlung erforderlich (BGH NJW 2003, 3198)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 9) Typische Einzahlungs-Fehler
 
@@ -180,7 +180,7 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 4. **Hin- und Herzahlen.** Bei Prüfung Strafbarkeit Paragraf 82 GmbHG.
 5. **Sacheinlage ohne Werthaltigkeits-Nachweis.** Handelsregister beanstandet.
 6. **Sacheinlage-Werte zu optimistisch.** Differenzhaftung Paragraf 9 GmbHG bei späterer Prüfung.
-7. **Vorratsgesellschaft ohne neue Einlage „aktiviert".** Schwere zivilrechtliche und strafrechtliche Risiken.
+7. **Vorratsgesellschaft ohne neue Einlage "aktiviert".** Schwere zivilrechtliche und strafrechtliche Risiken.
 
 ## 10) Bei Auslandsgesellschaftern
 
@@ -207,17 +207,11 @@ Klaere vor Anmeldung beim HR:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 16.01.2006 – II ZR 65/04, BGHZ 165, 352** — Die Pflicht zur Einzahlung des Stammkapitals vor Anmeldung (§ 7 Abs. 2 GmbHG) ist eine Voraussetzung der HR-Eintragung; eine falsche eidesstattliche Versicherung des GF begründet Strafbarkeit nach § 82 GmbHG und persoenliche Haftung.
-- **BGH, Urt. v. 20.07.2009 – II ZR 273/07, NJW 2009, 2987** — Das „Hin- und Herzahlen" (Einzahlung der Bareinlage verbunden mit zeitnaher Rueckzahlung) fuehrt dazu, dass die Einlage als nicht erbracht gilt; der GF haftet fuer die Differenz; die eidesstattliche Versicherung der freien Verfuegbarkeit ist falsch.
-- **BGH, Urt. v. 18.10.2010 – II ZR 277/08, NJW 2011, 513** — Bei einer wirtschaftlichen Neugründung (Aktivierung einer Vorrats- oder Mantelgesellschaft) sind die Vorschriften ueber die Kapitalaufbringung wie bei einer Neugründung anzuwenden; volle Einzahlung des Stammkapitals erforderlich.
-- **OLG Muenchen, Urt. v. 03.05.2018 – 7 U 3965/17, GmbHR 2018, 712** — Bei Sacheinlagen ist der Wert zum Zeitpunkt der Anmeldung massgeblich; spaeter eingetretene Wertverluste befreien von der Differenzhaftung nicht; Differenzhaftung nach § 9 GmbHG gilt absolut.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Winter, GmbHG, 13. Aufl., §§ 5, 7, 9, 19 Rn. 1-100 (Stammkapital; Einzahlungspflicht; Hin-und-Herzahlen)
-- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 7 Rn. 1-60 (Mindesteinzahlung; Freie Verfuegung; Eidesstattliche Versicherung)
-- Baumbach/Hueck/Fastrich, GmbHG, 23. Aufl., § 19 Rn. 1-60 (Einlageschuld; Hin-und-Herzahlen; Differenzhaftung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Einzahlungs-Protokoll fuer Anwaltsakte
 
 **Adressat:** Interne Dokumentation — Tonfall sachlich

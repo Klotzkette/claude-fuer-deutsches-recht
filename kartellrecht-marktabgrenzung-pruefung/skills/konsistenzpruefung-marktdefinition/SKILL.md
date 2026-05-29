@@ -1,6 +1,6 @@
 ---
 name: konsistenzpruefung-marktdefinition
-description: "Prueft die interne Widerspruchsfreiheit einer Marktabgrenzung: Uebereinstimmung von Sachmarkt und raeumlichem Markt tatsaechlichem Marktverhalten Behoerdenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse."
+description: "Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behoerdenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse."
 ---
 
 # Konsistenzprüfung der Marktdefinition
@@ -15,7 +15,7 @@ Eine Marktabgrenzung kann auf Einzelargumenten robust erscheinen, aber in sich w
 
 Ein global definierter Sachmarkt (z.B. Flugzeugantriebe) muss mit einem räumlichen Markt konsistent sein, der die globale Wettbewerbssituation widerspiegelt.
 
-Inkonsistenz-Beispiel: Sachmarkt „europäischer Markt für Onlinewerbung" + räumlicher Markt „Deutschland" → Widerspruch, wenn der Sachmarkt europäisch abgegrenzt, der räumliche Markt aber national.
+Inkonsistenz-Beispiel: Sachmarkt "europäischer Markt für Onlinewerbung" + räumlicher Markt "Deutschland" → Widerspruch, wenn der Sachmarkt europäisch abgegrenzt, der räumliche Markt aber national.
 
 ### 2. Konsistenz mit tatsächlichem Marktverhalten
 
@@ -46,7 +46,7 @@ Risiko: Selektives Zitieren von Präzedenzfällen, die zufällig die gewünschte
 ### 5. Zirkelschluss-Prüfung
 
 Klassischer Zirkelschluss:
-> „Das Unternehmen hat eine marktbeherrschende Stellung, weil sein Marktanteil hoch ist. Sein Marktanteil ist hoch, weil der Markt eng definiert wird. Der Markt wird eng definiert, weil das Unternehmen besondere Fähigkeiten hat, die andere nicht nachahmen können."
+> "Das Unternehmen hat eine marktbeherrschende Stellung, weil sein Marktanteil hoch ist. Sein Marktanteil ist hoch, weil der Markt eng definiert wird. Der Markt wird eng definiert, weil das Unternehmen besondere Fähigkeiten hat, die andere nicht nachahmen können."
 
 Nachweis: Die Marktdefinition folgt dem gewünschten Ergebnis, nicht der Evidenz.
 
@@ -67,9 +67,8 @@ Konsistenz: **hoch / mittel / gering** — mit Hauptwiderspruch in einem Satz.
 
 ## Leitentscheidungen Konsistenzpruefung
 
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Konsistenzgebot EK-Begruendung; widersprueche zwischen Marktdefinition und Missbrauchsanalyse unzulaessig.
-- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Interne Konsistenz der Marktabgrenzung; Verfahren muss auf einheitlicher Marktdefinition beruhen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-20 (Marktdefinition Konsistenz, Fehlerfolgen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

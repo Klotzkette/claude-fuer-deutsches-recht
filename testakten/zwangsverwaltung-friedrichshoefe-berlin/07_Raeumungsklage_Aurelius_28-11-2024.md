@@ -89,7 +89,7 @@ Vor Klageerhebung sind dem Beklagten zwei Mahnungen zugestellt worden: am 25.09.
 
 Mit Schreiben vom 06.11.2024 (Anlage K6) hat die Klägerin gegenüber dem Beklagten die **fristlose Kündigung wegen Zahlungsverzugs gemäß § 543 Abs. 2 Satz 1 Nr. 3 lit. a und b BGB** erklärt, hilfsweise die **ordentliche Kündigung** zum 28.02.2025. Das Schreiben wurde am 07.11.2024 durch persönliche Übergabe an den Beklagten vor seinem Büro (Mitarbeiterin Marlene Wickenmüller bestätigt, Anlage K7) zugestellt.
 
-Der Beklagte hat innerhalb der zweiwöchigen Schonfrist gemäß § 569 Abs. 3 Nr. 2 BGB analog keine Zahlung geleistet. Auf das Schreiben vom 06.11.2024 hat er mit E-Mail vom 12.11.2024 (Anlage K8) lediglich auf „Umsatzeinbruch nach Kundenabsage" verwiesen und um Stundung bis Februar 2025 gebeten. Eine konkrete Tilgungs-Vereinbarung kam nicht zustande.
+Der Beklagte hat innerhalb der zweiwöchigen Schonfrist gemäß § 569 Abs. 3 Nr. 2 BGB analog keine Zahlung geleistet. Auf das Schreiben vom 06.11.2024 hat er mit E-Mail vom 12.11.2024 (Anlage K8) lediglich auf "Umsatzeinbruch nach Kundenabsage" verwiesen und um Stundung bis Februar 2025 gebeten. Eine konkrete Tilgungs-Vereinbarung kam nicht zustande.
 
 ### 3. Voraussetzungen der fristlosen Kündigung
 
@@ -117,7 +117,7 @@ Hinweis: Die Mieten für die Monate vor Anordnung der Zwangsverwaltung (hier: an
 
 ### 7. Mietfrei-Stellung wegen Mietminderung?
 
-Eine Mietminderung wurde vom Beklagten weder vor noch nach der Kündigung wirksam geltend gemacht. Etwaige Mängel der Mietsache sind weder angezeigt noch dargelegt worden. Die schlichte Berufung auf „Umsatzeinbruch nach Kundenabsage" begründet keinen Mietmangel.
+Eine Mietminderung wurde vom Beklagten weder vor noch nach der Kündigung wirksam geltend gemacht. Etwaige Mängel der Mietsache sind weder angezeigt noch dargelegt worden. Die schlichte Berufung auf "Umsatzeinbruch nach Kundenabsage" begründet keinen Mietmangel.
 
 ### 8. Insolvenzrechtliche Aspekte
 
@@ -141,7 +141,7 @@ Hinsichtlich des laufenden Insolvenzverfahrens über die Vermieterin (Schuldneri
 | K8 | E-Mail des Beklagten vom 12.11.2024 |
 | K9 | Kontoauszüge Anderkonto, ausgewählt 22.08.–28.11.2024 |
 | K10 | Mahnschreiben vom 24.11.2024 zur Räumungsaufforderung |
-| K11 | Mieter-Übergabeprotokoll Schlüssel (Auszug Schließanlage „Friedrichshöfe Master") |
+| K11 | Mieter-Übergabeprotokoll Schlüssel (Auszug Schließanlage "Friedrichshöfe Master") |
 
 ---
 

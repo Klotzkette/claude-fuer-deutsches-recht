@@ -1,6 +1,6 @@
 ---
 name: ips-asset-deals-im-plan-grundstuecke-marken-kundendaten
-description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Pruefraster: Uebertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformitaet. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht fuer allgemeine Planarchitektur (ips-insolvenzplan-architektur)."
+description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformität. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht für allgemeine Planarchitektur (ips-insolvenzplan-architektur)."
 ---
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung
@@ -169,7 +169,7 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 | (c) rechtliche Verpflichtung | nein | Plan-Bestätigung schafft keine datenschutzrechtliche Pflicht |
 | (d) lebenswichtige Interessen | nein | unpraktisch |
 | (e) öffentliches Interesse | nein | bei privatwirtschaftlichem Asset Deal nicht einschlägig |
-| (f) berechtigtes Interesse + Interessenabwägung | umstritten | siehe BGH IV ZR 225/17 (Lebensversicherung-Bestandsübertragung) — Interessenabwägung erforderlich; bei sensitiven Daten kritisch |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 **Empfehlung Praxisstandard "Opt-in mit Anreiz":**
 
@@ -203,7 +203,7 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 | besondere Kategorien (Art. 9 DSGVO) — Gesundheitsdaten, Religion, Gewerkschaft etc. | Einwilligung praktisch zwingend, Interessenabwägung Art. 6 Abs. 1 lit. f scheidet aus |
 | Daten Minderjähriger | Art. 8 DSGVO: Einwilligung der Erziehungsberechtigten erforderlich |
 | Bank-/Zahlungsdaten | aufsichtsrechtliche Sonderregeln (BaFin), ggf. KWG/ZAG |
-| Patientendaten | § 203 StGB Schweigepflicht; OLG-Rspr. zur Praxisveräußerung (z.B. BGH IX ZR 80/14) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Telekommunikationsdaten | § 3 TDDDG, § 9 TKG |
 | Bestandskunden vs. Interessenten | Interessenten ohne abgeschlossenen Vertrag i.d.R. nur mit Einwilligung übertragbar |
 
@@ -310,10 +310,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und Sta
 
 ## Aktuelle Leitentscheidungen — Asset-Deals im Plan
 
-- BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal und Insolvenzplan: Uebertragende Sanierung im InsO-Plan moeglich; Planbetroffene muessen ueber Verwertungsalternativen informiert werden; Vergleichsrechnung muss Asset-Deal-Erloese korrekt abbilden.
-- BGH, Urt. v. 17.09.2020 — IX ZR 174/19 — DSGVO und Kundendaten-Uebertragung im Asset-Deal: Datenschutzrechte der Kunden stehen Uebertragung nicht entgegen wenn neue Einwilligungen eingeholt werden oder Vertragsuebernahme gerechtfertigt.
-- BGH, Urt. v. 04.02.2021 — I ZR 13/19 — Marken-Uebertragung in Insolvenz: Insolvenzverwalter kann Markenrechte uebertragens; Lizenzvertraege bleiben nach § 108 InsO bestehen wenn Verwalter das Vertragsverhaealtnis fortfuehrt.
-- BGH, Urt. v. 13.11.2014 — IX ZR 268/13, NZI 2015, 79 — Grundstuecksuebertragung im Plan: Auflassung im InsO-Plan wirkt erst mit Grundbucheintragung; Plan-Vollzug haengt von Grundbuchamt ab; Verzoerrungen einplanen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — Asset-Deal im Plan
 

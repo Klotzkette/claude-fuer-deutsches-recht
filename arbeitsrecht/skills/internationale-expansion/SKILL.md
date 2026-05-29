@@ -19,7 +19,7 @@ für externe Arbeitsrechtler im Zielland und legt einen Tracker an, der das
 Projekt sitzungsübergreifend voranbringt.
 
 Die Skill setzt voraus, dass die Expansionsentscheidung gefallen ist. Sie ist
-kein Rahmen für „sollen wir expandieren?".
+kein Rahmen für "sollen wir expandieren?".
 
 Diese Skill enthält kein länderspezifisches Arbeitsrecht. Die materiellen
 Regelungen ändern sich häufig und variieren nach Rolle, Headcount und Branche —
@@ -44,15 +44,15 @@ nicht über eine interne Referenztabelle.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 20.09.2016 – 9 AZR 735/15, NZA 2017, 34 Rn. 14 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Arbeitnehmerbegriff bei grenzüberschreitenden Tätigkeiten; Indizien für
   Weisungsgebundenheit — maßgeblich für Contractor- vs. Arbeitnehmerstatus
-- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289 Rn. 18 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach § 10 Abs. 1 AÜG
   bei unerlaubter Arbeitnehmerüberlassung
 
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Rn. 1 ff., § 8 Rn. 1 ff.:
   Grundkonzeption des AÜG, Equal-Pay und Ausnahmen durch Tarifvertrag
@@ -144,7 +144,7 @@ Vertragsabschlussbefugnis umfassen — explizit flaggen:
 ### Schritt 3 — Abteilungsübergreifende Trigger
 
 Für jede einzubeziehende Funktion: was ist zu tun und welche konkreten Fragen
-sollte Legal stellen. Nicht nur „Finance einbinden" — die Anfrage formulieren.
+sollte Legal stellen. Nicht nur "Finance einbinden" — die Anfrage formulieren.
 
 **Steuerberatung** (immer vor der ersten Einstellung erforderlich)
 
@@ -389,21 +389,20 @@ Fragen für CFO/Steuerberatung]
 
 Jede Ausgabe zu AÜG-Konstellationen zitiert:
 - §§ 1, 8, 10 AÜG, § 7 SGB IV, Art. 8 Rom I-VO
-- BAG, Urt. v. 20.09.2016 – 9 AZR 735/15, NZA 2017, 34
-- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schüren/Hamann, AÜG, 5. Aufl. 2022
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 <!-- AUDIT 27.05.2026 | Bundle 012 | Task 5
-AZ geprüft: BSG B 12 KR 2/20 R
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund WRONG_TOPIC + falsches Datum + falsche Zeitschrift → Eintrag gelöscht.
-Alt: "BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
      Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller Beschäftigungsmerkmale"
 Tatsächliche Entscheidung (dejure.org):
   Datum: 29.06.2021 (nicht 29.03.2022)
   Thema: Krankenversicherung — Familienversicherung — Gesamteinkommen (§ 10 SGB V)
-  Fundstellen: BSGE 132, 245; NJW 2022, 2140; NZS 2022, 458 (NICHT NZA — NZA ist Arbeitsrechts-Zeitschrift)
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Kein Bezug zu § 7a SGB IV / Statusfeststellung.
 Eintrag vollständig entfernt; bei Bedarf passendes Statusfeststellungs-AZ recherchieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=29.06.2021&Aktenzeichen=B+12+KR+2%2F20+R

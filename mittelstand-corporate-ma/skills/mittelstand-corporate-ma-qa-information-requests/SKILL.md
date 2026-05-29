@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-qa-information-requests
-description: "DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Pruefraster IRL-Vollstaendigkeit Antwortpruefung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Log Statusbericht. Abgrenzung zu datenraum-gap-clean-room (Lueckenanalyse) und disclosure-schedules (SPA-Verankerung)."
+description: "DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Prüfraster IRL-Vollständigkeit Antwortprüfung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Log Statusbericht. Abgrenzung zu datenraum-gap-clean-room (Lueckenanalyse) und disclosure-schedules (SPA-Verankerung)."
 ---
 
 # Q&A und Information Requests
@@ -49,20 +49,18 @@ Erzeugt und verwaltet Q&A-Prozess, Information Request Lists, Follow-ups und Ant
 - §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen ueber eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
 
 ### Leitsaetze aus der Rechtsprechung
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — anwaltliche Haftung: vollstaendige Information des Mandanten ueber alle wesentlichen Risiken ist Kernpflicht; auch bei Zeitdruck
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — GmbH-Anteilskauf: Verkaeufer trifft gesteigerte vorvertragliche Aufklaerungspflicht; Nichtoffenbarung drohender oder eingetretener Zahlungsunfaehigkeit begruendet Anfechtung wegen arglistiger Taeuschung und Schadensersatzanspruch des Kaeufers
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Schramm/Alexander, BRAO, § 43a Rn. 1-50 (anwaltliche Sorgfaltspflicht)
-- Picot, Unternehmenskauf, Kapitel 1 (Transaktionsmanagement, Mandatsfuehrung), 5. Auflage
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Qualitaetssicherung
 - Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
 - Senior Review vor Weiterleitung an Mandant oder Gegenseite
 - Dokumentation: Datum, Bearbeiter, Version, Freigabe
 
 <!-- AUDIT 27.05.2026
-Problem: BGH VIII ZR 32/00 (NJW 2001, 2163) war mit falschem Leitsatz zitiert ("DD-Ergebnis muss vollstaendig in Beratungsleistung einfliessen").
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Massnahme: Leitsatz korrigiert auf tatsaechlichen Inhalt: gesteigerte vorvertragliche Aufklaerungspflicht des Verkaeufers beim GmbH-Anteilskauf; Nichtoffenbarung von Zahlungsunfaehigkeit / Konkursreife begruendet arglistige Taeuschung.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.04.2001&Aktenzeichen=VIII+ZR+32%2F00
 -->

@@ -1,6 +1,6 @@
 ---
 name: eilantrag-80-abs-5-vwgo
-description: "Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behoerde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: oeffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begruendungspflicht sofortige Vollziehung). Pruefraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begruendung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift."
+description: "Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behoerde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift."
 ---
 
 # Eilantrag § 80 Abs. 5 VwGO
@@ -43,14 +43,8 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BVerfGE 35, 382 | 2 BvL 4/73 | 19.06.1973 | Rechtsstaatsprinzip; effektiver Rechtsschutz gegen Sofortvollzug; keine automatische Vermutung für Vollzugsinteresse |
-| BVerfG 1 BvR 569/05 | 1 BvR 569/05 | 21.11.2005 | Interessenabwägung § 80 Abs. 5 VwGO; verfassungsrechtliche Anforderungen; Erfolgsaussicht als wesentliches Kriterium |
-| BVerwG 7 VR 2.07 | 7 VR 2.07 | 06.03.2008 | § 80 Abs. 3 VwGO; floskelhafte Begründung unzureichend; einzelfallbezogene Auseinandersetzung zwingend |
-| OVG NRW 13 B 1459/17 | 13 B 1459/17 | 23.11.2017 | Gaststättenerlaubnis Sofortvollzug; Existenzgefährdung Unternehmer; Aussetzungsinteresse überwiegt bei offenen Erfolgsaussichten |
-| BVerwG 4 VR 2.14 | 4 VR 2.14 | 22.03.2010 | § 80a VwGO; Baugenehmigung Drittbetroffener; Interessenabwägung Nachbar-/Bauherrn-Interessen |
-| VGH Bayern 11 CE 21.820 | 11 CE 21.820 | 15.04.2021 | Fahrerlaubnisentzug; öffentliches Interesse an Verkehrssicherheit überwiegt in der Regel; hohe Anforderungen an Aussetzung |
-| OVG Hamburg 1 Bs 153/21 | 1 Bs 153/21 | 14.09.2021 | Gewerbeuntersagung Sofortvollzug; Existenzgefährdung als Abwägungsposten; prognostische Ungewissheit der Behörde berücksichtigen |
-| BVerwG 1 VR 1.18 | 1 VR 1.18 | 15.11.2018 | Abschiebungsanordnung; § 80 Abs. 5 VwGO subsidiär; spezialgesetzlicher Eilrechtsschutz vorrangig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema § 80 Abs. 5 VwGO
 
@@ -65,14 +59,14 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 | 4 | Hauptsache anhängig | Widerspruch oder Klage parallel eingereicht? | Pflichtvoraussetzung |
 | 5 | Begründungsmangel § 80 Abs. 3 | Vollziehungsanordnung floskelhaft? Kein Einzelfallbezug? | Eigenständiger Aufhebungsgrund |
 | 6 | Begründetheits-Prüfung Erfolgsaussicht | Offensichtlich erfolglos / offen / offensichtlich erfolgreich | Hauptansatz der Entscheidung |
-| 7 | Interessenabwägung bei offenem Ausgang | Vollzugsinteresse Behörde vs. Aussetzungsinteresse Betroffener | BVerfG 1 BvR 569/05 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Irreversibilität des Vollzugs | Schwere des Schadens; Nicht-Wiedergutzumachbarkeit | Je irreversibler, desto höher Aussetzungsinteresse |
-| 9 | Existenzgefährdung | Bei gewerblichen Betrieben, freiberuflichen Zulassungen | OVG NRW 13 B 1459/17 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Spezialfall Abgaben (Nr. 1) | Steuerbescheid; ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte | § 80 Abs. 4 Satz 3 VwGO |
 | 11 | Streitwert | Hälfte Hauptsache-Streitwert; § 52 GKG | Im Antrag angeben |
 | 12 | Entscheidungsform | Beschluss; ohne mündliche Verhandlung; Ausnahme Erörterung | Zeitplanung |
 | 13 | Beschwerde § 146 Abs. 4 VwGO | 2 Wochen ab Beschluss; Begründungsfrist 1 Monat; Auseinandersetzungspflicht | OVG-Beschwerde |
-| 14 | Ausnahme Abschiebung | § 80 Abs. 5 subsidiär; § 123 VwGO vorrangig; § 80 Abs. 5 nur wenn gesetzlich ausdrücklich | BVerwG 1 VR 1.18 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 15 | Vollstreckung nach Stattgabe | Behörde zur Aussetzung verpflichtet; Zwangsgeld § 172 VwGO möglich | Vollstreckungsweg vorbereiten |
 
 ## Beweislast
@@ -100,8 +94,7 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 
 | Gegenargument der Behörde | Gegenstrategie |
 |---|---|
-| "Begründung § 80 Abs. 3 VwGO ausreichend" | Vollzitat der Begründung mit Kommentierung; keine einzelfallbezogene Auseinandersetzung nachweisen; BVerwG 7 VR 2.07 |
-| "Öffentliches Interesse überwiegt automatisch" | BVerfGE 35, 382: kein Automatismus; BVerfG 1 BvR 569/05: Interessenabwägung ist Pflicht auch bei öffentlichem Vollzugsinteresse |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hauptsache hat keine Erfolgsaussichten" | Substanziierte Rechtsauffassung mit Normen und Rspr.; Behörde muss Gegendarstellung liefern |
 | "Keine Existenzgefährdung" | Betriebswirtschaftliche Belege; BWA, Bilanzen; Liquiditätsplan; ggf. Steuerberater-Attest |
 | "Zu spät gestellt — Eilbedürftigkeit entfallen" | Konkrete Handlungsaufnahme der Behörde als Auslöser benennen; Zeitachse darstellen |
@@ -181,7 +174,7 @@ Nach der ständigen Rechtsprechung muss die Behörde in der
 Begründung das besondere öffentliche Interesse an der
 sofortigen Vollziehung auf den konkreten Einzelfall bezogen
 darlegen. Allgemeine Formulierungen und abstrakte Verweise auf
-den Gesetzeszweck reichen nicht (BVerwG 7 VR 2.07 v. 06.03.2008).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die vorliegende Begründung beschränkt sich auf [Beschreibung
 des Floskels: "im öffentlichen Interesse" / "Gefährdung der
@@ -295,7 +288,7 @@ Begründung
 I. Das Verwaltungsgericht hat den Begründungsmangel
 § 80 Abs. 3 VwGO unzutreffend verneint. Es hat die
 Begründung: "[Zitat]" als ausreichend angesehen, obwohl sie
-nur allgemeine Erwägungen enthält. Die nach BVerwG 7 VR 2.07
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 erforderliche einzelfallbezogene Auseinandersetzung fehlt.
 
 II. Die Interessenabwägung ist fehlerhaft, weil das
@@ -354,12 +347,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - VwGO §§ 42, 80, 80a, 113, 146, 172
 - VwVfG §§ 28, 39, 80
 - GKG § 52; RVG Nr. 3100 ff.
-- BVerfGE 35, 382 (Rechtsstaatsprinzip Eilrechtsschutz)
-- BVerfG 1 BvR 569/05 (Interessenabwägung)
-- BVerwG 7 VR 2.07 (Begründungsmangel § 80 Abs. 3)
-- BVerwG 4 VR 2.14 (§ 80a Baugenehmigung)
-- BVerwG 1 VR 1.18 (Abschiebung subsidiär)
-- OVG NRW 13 B 1459/17 (Existenzgefährdung)
-- OVG Hamburg 1 Bs 153/21 (Gewerbeuntersagung)
-- VGH Bayern 11 CE 21.820 (Fahrerlaubnis)
-- Kopp/Schenke VwGO §§ 80, 80a; Eyermann VwGO
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

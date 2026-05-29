@@ -13,7 +13,7 @@ Jana Reuter will die UStVA Mai 2026 vorbereiten. ELSTER ist nicht angeschlossen.
 - ELSTER verbinden: nein
 - Simulation: ja
 - Eingabebogen erzeugen: ja
-- XML-Upload: nur als Platzhalter, nicht validiert
+- XML-Upload: nur als Validierungsnotiz, nicht validiert
 - Steuerberater-Paket: ja
 
 ## Stoppschild

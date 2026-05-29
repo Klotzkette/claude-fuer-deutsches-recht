@@ -1,6 +1,6 @@
 ---
 name: beweismittel-im-sozialgericht-uebersicht
-description: "Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverstaendige Augenscheinsobjekte Parteivernehmung. Praktische Tipps fuer Laien zum Beweis-Aufbau."
+description: "Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau."
 ---
 
 # Beweismittel am Sozialgericht — Ueberblick

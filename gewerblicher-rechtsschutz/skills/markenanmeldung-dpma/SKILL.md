@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung-dpma
-description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Pruefraster: Nizza-Klassifikation Anmeldegebuehren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung)."
+description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung)."
 ---
 
 # Markenanmeldung beim DPMA
@@ -65,8 +65,8 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 02.03.2017 – I ZR 30/16, GRUR 2017, 914 Rn. 16 –
-   „Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   "Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
    Beschreibende Angaben, die zur Bezeichnung von Merkmalen der angemeldeten
    Waren oder Dienstleistungen dienen können, sind auch dann von der Eintragung
    ausgeschlossen, wenn die Beschreibung mittelbar oder nur in einer möglichen
@@ -74,26 +74,15 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
    (§ 8 Abs. 3 MarkenG) möglich, wenn der Verkehr das Zeichen als Herkunftshinweis
    versteht.
 
-2. BGH, Beschl. v. 10.11.2016 – I ZB 86/15, GRUR 2017, 412 Rn. 22 –
-   „Langenscheidt-Gelb": Zur Schutzfähigkeit abstrakter Farbmarken; einzelne
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   "Langenscheidt-Gelb": Zur Schutzfähigkeit abstrakter Farbmarken; einzelne
    Farbe ohne geografische Kontur kann Unterscheidungskraft haben, wenn sie durch
    langjährige Benutzung Verkehrsdurchsetzung erlangt hat; strenger Maßstab
    wegen Freihaltebedürfnis (§ 8 Abs. 2 Nr. 1 und 2 MarkenG).
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Ströbele, in: Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 8 Rn. 55 –
-   Der Begriff der Unterscheidungskraft (§ 8 Abs. 2 Nr. 1 MarkenG) ist abstrakt
-   zu beurteilen; maßgeblich ist, ob das Zeichen aus Sicht der angesprochenen
-   Verkehrskreise in seiner Gesamtheit geeignet ist, Waren/Dienstleistungen
-   eines Unternehmens von denen anderer zu unterscheiden; besondere Originalität
-   ist nicht erforderlich.
-
-2. Ingerl/Rohnke, in: Ingerl/Rohnke, MarkenG, 4. Aufl. 2022, § 32 Rn. 18 –
-   Vollständiges Waren-/Dienstleistungsverzeichnis ist für die Anmeldung
-   konstitutiv; nachträgliche Erweiterung führt zu neuem Anmeldetag (§ 32 Abs. 2
-   Satz 2 MarkenG); Einschränkungen sind jederzeit möglich (§ 39 MarkenG).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Markenrecherche** – DPMA-Datenbank (DPMAregister.dpma.de), EUIPO TMview,
@@ -141,20 +130,20 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 
 ## Beispiel
 
-*Sachverhalt:* Mandantin möchte die Wortmarke „FRISCHKLAR" für Mineralwasser
+*Sachverhalt:* Mandantin möchte die Wortmarke "FRISCHKLAR" für Mineralwasser
 (Klasse 32) und Vertrieb von Getränken (Klasse 35) beim DPMA anmelden.
 
 *Hindernisanalyse (Gutachtenstil):*
 
-Fraglich ist, ob der Begriff „FRISCHKLAR" die erforderliche Unterscheidungskraft
+Fraglich ist, ob der Begriff "FRISCHKLAR" die erforderliche Unterscheidungskraft
 besitzt (§ 8 Abs. 2 Nr. 1 MarkenG) und nicht beschreibend ist (§ 8 Abs. 2
 Nr. 2 MarkenG).
 
-„FRISCH" und „KLAR" sind für Mineralwasser beschreibende Merkmale (Frische,
+"FRISCH" und "KLAR" sind für Mineralwasser beschreibende Merkmale (Frische,
 Klarheit). Die Kombination könnte als Gesamtbegriff dennoch hinreichende
 Unterscheidungskraft haben, wenn sie nicht lexikalisch nachweisbar ist und vom
-Verkehr als Fantasiebezeichnung verstanden wird (vgl. BGH, Urt. v. 02.03.2017
-– I ZR 30/16, GRUR 2017, 914 Rn. 16; Ströbele, in: Ströbele/Hacker/Thiering,
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 MarkenG, 13. Aufl. 2021, § 8 Rn. 55). Die Prüfung beim DPMA wird kritisch sein;
 eine Stellungnahme zur Verkehrswahrnehmung sollte vorbereitend erstellt werden.
 Gebühren: 300 € für bis zu 3 Klassen (elektronische Anmeldung); für Klasse 35
@@ -194,18 +183,17 @@ Bevor die Anmeldung eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Beschl. v. 16.07.2009 — I ZB 53/07 (STREETBALL):** Ein Wortzeichen, das aus zwei gebräuchlichen englischen Woertern zusammengesetzt ist und fuer Sportartikel einen beschreibenden Sinn ergibt, ist von der Eintragung ausgeschlossen (§ 8 II Nr. 2 MarkenG); lediglich ein ungewoehnlicher Gesamteindruck kann die Unterscheidungskraft begruenden.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 01.07.2010 — I ZB 68/09 (Tooor!):** Ein Wortzeichen mit Ausrufungszeichen oder grafischen Elementen kann Unterscheidungskraft erlangen, wenn die Besonderheit der Gestaltung nicht auf eine erkennbare Sachaussage hinauslaeuft; Begeisterungsrufe ohne Bezug zur Ware sind in der Regel nicht eintragbar.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 04.05.1999 — C-108/97 (Chiemsee):** Geographische Herkunftsangaben, die fuer den relevanten Mitbewerberkreis freizuhalten sind, koennen nur durch Nachweis von Verkehrsdurchsetzung eingetragen werden; fuer regionale Marken ist ein Wiedererkennungswert von mindestens 40 % im relevanten Gebiet erforderlich.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur
-Problem: Leitentscheidung 1 wies AZ I ZB 39/16 (= Schokoladenstaebchen, GRUR 2017, 1262) aus,
+Problem: Konkrete Leitentscheidungen duerfen nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle ausgegeben werden.
          obwohl der Inhalt (Medicon-Apotheke, Freihaltebeduerfnis § 8 II Nr. 2 MarkenG) zum
-         Urteil I ZR 30/16 (GRUR 2017, 914) gehoert.
-Korrektur: AZ I ZB 39/16 → I ZR 30/16; "Beschl." → "Urt."; Datum 06.04.2017 → 02.03.2017;
+         Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
            Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
            Verifiziert via dejure.org.
 -->

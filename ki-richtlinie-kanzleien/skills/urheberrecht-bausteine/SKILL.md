@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-bausteine
-description: "Urheberrechtliche Bausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schuetzbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, juris und beck-online Lizenzbedingungen. Pruefraster kein Urheberrechtsschutz fuer reine KI-Outputs, Upload-Verbote urheberrechtlich geschuetzter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine fuer Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence."
+description: "Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence."
 ---
 
 # Urheberrecht-Bausteine
@@ -9,14 +9,14 @@ Der urheberrechtliche Status von KI-generierten Inhalten und die Frage, welche T
 
 ## Rechtlicher Hintergrund
 
-§ 2 Abs. 2 UrhG: Urheberrechtlicher Schutz nur für „persönliche geistige Schöpfungen" — rein maschinell erzeugter Output von KI-Systemen genießt in der Regel keinen urheberrechtlichen Schutz. § 5 UrhG: Amtliche Werke (Gesetze, Verordnungen, gerichtliche Entscheidungen) sind gemeinfrei und dürfen ohne Einschränkung genutzt werden. §§ 44a ff. UrhG: Urheberrechtsschranken (Privatkopie, wissenschaftliche Nutzung, Text- und Data-Mining nach § 44b UrhG). § 87a UrhG: Datenbankherstellerschutz für proprietäre Rechtsdatenbanken wie juris oder beck-online. § 31 UrhG: Nutzungsrechtsübertragung — maßgeblich für Lizenzbedingungen der Datenbankanbieter.
+§ 2 Abs. 2 UrhG: Urheberrechtlicher Schutz nur für "persönliche geistige Schöpfungen" — rein maschinell erzeugter Output von KI-Systemen genießt in der Regel keinen urheberrechtlichen Schutz. § 5 UrhG: Amtliche Werke (Gesetze, Verordnungen, gerichtliche Entscheidungen) sind gemeinfrei und dürfen ohne Einschränkung genutzt werden. §§ 44a ff. UrhG: Urheberrechtsschranken (Privatkopie, wissenschaftliche Nutzung, Text- und Data-Mining nach § 44b UrhG). § 87a UrhG: Datenbankherstellerschutz für proprietäre Rechtsdatenbanken wie amtliche/freie Quellen oder lizenzierte Datenbanken. § 31 UrhG: Nutzungsrechtsübertragung — maßgeblich für Lizenzbedingungen der Datenbankanbieter.
 
 ## Vorgehen
 
 1. **Status des KI-Outputs bestimmen**: KI-generierter Text ohne menschlichen Schöpfungsanteil ist urheberrechtlich nicht geschützt. Erst bei maßgeblichem menschlichen Schöpfungsbeitrag (qualifizierter Prompt mit Schöpfungshöhe + inhaltliche Bearbeitung) entsteht ein Schutzrecht.
 2. **Upload urheberrechtlich geschützter Texte prüfen**: Juristische Aufsätze, Kommentare, Fachbuchkapitel dürfen nur hochgeladen werden, wenn eine Nutzungslizenz vorliegt.
 3. **Amtliche Werke nutzen**: Gerichtsentscheidungen von offiziellen Gerichts-Websites und Gesetzestexte sind gemeinfrei nach § 5 UrhG — Upload unkritisch.
-4. **Vorsicht bei Datenbankimporten**: Aus juris oder beck-online entnommene Texte können Datenbankschutz (§ 87b UrhG) und zusätzliche Lizenzklauseln der Anbieter auslösen; AGB der Datenbanken prüfen.
+4. **Vorsicht bei Datenbankimporten**: Aus amtliche/freie Quellen oder lizenzierte Datenbanken entnommene Texte können Datenbankschutz (§ 87b UrhG) und zusätzliche Lizenzklauseln der Anbieter auslösen; AGB der Datenbanken prüfen.
 5. **Anonymisierung bei Urteilen beachten**: Auch gemeinfreie Urteile enthalten ggf. personenbezogene Daten; auf ordnungsgemäße Pseudonymisierung achten.
 6. **Trainingsklauseln des Anbieters prüfen**: Viele KI-Anbieter nutzen hochgeladene Dokumente zum Training ihrer Modelle; Opt-out-Optionen vertraglich absichern (vgl. Skill `dienstleister-due-diligence`).
 
@@ -29,17 +29,14 @@ Der durch KI-Systeme generierte Text stellt in der Regel keine persönliche geis
 In KI-Systeme dürfen nur solche Texte und Dokumente hochgeladen werden, für die die Kanzlei über die erforderlichen Nutzungsrechte verfügt. Juristische Kommentare, Fachaufsätze und Datenbankexporte unterliegen regelmäßig Urheberrechtsschutz und Lizenzklauseln. Amtliche Werke nach § 5 UrhG (Gesetzestexte, Verordnungen, Gerichtsentscheidungen auf offiziellen Portalen) sind gemeinfrei und dürfen uneingeschränkt genutzt werden.
 
 **Baustein Datenbanken:**
-Bei der Verwendung von Texten aus juristischen Fachdatenbanken (juris, beck-online, Wolters Kluwer u.a.) sind die jeweiligen AGB und Lizenzvereinbarungen zu beachten. Diese Anbieter verfügen über Datenbankherstellerschutz nach § 87a UrhG. Vor dem Upload von Datenbankexporten in KI-Systeme ist die ausdrückliche Erlaubnis des Datenbankbetreibers einzuholen oder es sind ausschließlich amtliche Quellen zu verwenden.
+Bei der Verwendung von Texten aus juristischen Fachdatenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, Wolters Kluwer u.a.) sind die jeweiligen AGB und Lizenzvereinbarungen zu beachten. Diese Anbieter verfügen über Datenbankherstellerschutz nach § 87a UrhG. Vor dem Upload von Datenbankexporten in KI-Systeme ist die ausdrückliche Erlaubnis des Datenbankbetreibers einzuholen oder es sind ausschließlich amtliche Quellen zu verwenden.
 
 ## Hinweise zur Aktualisierung
 
-Das Urheberrecht im Bereich KI entwickelt sich rasch weiter — insbesondere durch laufende Gerichtsverfahren in den USA (z.B. zu fair use beim Training von KI-Systemen) und mögliche europäische Gesetzgebung. Zudem passen juris und beck-online ihre AGB gelegentlich an. Halbjährlich prüfen, ob Aktualisierungen erforderlich sind.
+Das Urheberrecht im Bereich KI entwickelt sich rasch weiter — insbesondere durch laufende Gerichtsverfahren in den USA (z.B. zu fair use beim Training von KI-Systemen) und mögliche europäische Gesetzgebung. Zudem passen amtliche/freie Quellen oder lizenzierte Datenbanken ihre AGB gelegentlich an. Halbjährlich prüfen, ob Aktualisierungen erforderlich sind.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 27.04.2017 — I ZR 55/16, NJW 2017, 3304 Rn. 22: Urheberrecht erfordert persoenliche geistige Schoepfung § 2 Abs. 2 UrhG — KI-generierte Werke ohne menschliche Kreativitaet nicht schuetzbar.
-- EuGH, Urt. v. 04.10.2011 — C-403/08 (FAPL), NJW 2012, 126 Rn. 98: Werksqualitaet erfordert Ausdruck menschlicher Kreativitaet — massgeblich fuer KI-Output-Schutzfrage.
-- BGH, Urt. v. 17.07.2013 — I ZR 129/08 (UsedSoft II), NJW 2013, 3309 Rn. 28: Erschoepfungsgrundsatz bei digitalen Produkten — relevant fuer KI-Trainingsdaten aus lizenzierten Quellen.
-- EuGH, Urt. v. 12.09.2019 — C-683/17 (Cofemel), NJW 2019, 3218 Rn. 30: Einheitlicher EU-Werkbegriff erfordert menschliche Schoepfungshoehe.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 2 Abs. 2 UrhG — Persoenliche geistige Schoepfung (KI-Output faellt nicht darunter)

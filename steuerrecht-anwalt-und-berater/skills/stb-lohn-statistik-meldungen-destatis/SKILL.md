@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-statistik-meldungen-destatis
-description: "Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Pruefung Erfassung Uebermittlung. Output Statistik-Meldung."
+description: "Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung."
 ---
 
 # Statistik-Meldungen — Verdienststatistik Destatis
@@ -30,7 +30,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 
 **§ 15 BStatG** — Auskunftspflicht der Befragten.
 
-**§ 16 BStatG** — Geheimhaltung der Einzelangaben (frueher § 23; konkrete Paragraphen-Nummerierung 2026 ueber aktuelle BStatG-Fassung verifizieren).
+**§ 16 BStatG** — Geheimhaltung der Einzelangaben (BStatG-Fassung 2016 BGBl. I S. 2006; Paragraphennummerierung bei Gesetzesnovellierung ueber aktuelle BStatG-Fassung auf gesetze-im-internet.de pruefen).
 
 ### Verwaltungsanweisungen
 
@@ -103,6 +103,9 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 
 Stand: 05/2026.
 
-- BStatG §§ 15, 16 (Paragraphen-Nummerierung 2026 verifizieren).
+- BStatG §§ 15, 16 (Fassung 2016, BGBl. I S. 2006; bei Gesetzesaenderung aktuelle Fassung auf gesetze-im-internet.de pruefen).
+
 - VerdStatG.
 - Destatis-IDEV-Portal.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Paragraphennummerierung BStatG Pruefhinweis ohne Marker) -->

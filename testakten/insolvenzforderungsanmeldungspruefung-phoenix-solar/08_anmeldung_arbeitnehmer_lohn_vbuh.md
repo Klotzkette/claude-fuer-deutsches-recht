@@ -37,7 +37,7 @@
 
 Lena Vogt war seit dem 1. September 2023 als Montageassistentin bei der Phoenix Solar Montage GmbH beschäftigt. Der monatliche Bruttolohn betrug gemäß Arbeitsvertrag (Anlage E4) 3.100,00 EUR. Sonderzahlungen, Überstundenregelungen und Urlaubsgeld waren nicht vereinbart.
 
-Die Lohnzahlung für März 2026 (fällig am letzten Werktag des Monats, hier: 31. März 2026) unterblieb vollständig. Auf Anfragen der Arbeitnehmerin antwortete der Geschäftsführer Marcus Wendler laut WhatsApp-Nachricht vom 2. April 2026 (Anlage E3): „Das kommt alles noch, mach Dir keine Sorgen." Die Zahlung erfolgte nicht.
+Die Lohnzahlung für März 2026 (fällig am letzten Werktag des Monats, hier: 31. März 2026) unterblieb vollständig. Auf Anfragen der Arbeitnehmerin antwortete der Geschäftsführer Marcus Wendler laut WhatsApp-Nachricht vom 2. April 2026 (Anlage E3): "Das kommt alles noch, mach Dir keine Sorgen." Die Zahlung erfolgte nicht.
 
 Die Lohnzahlung für April 2026 (fällig 30. April 2026) unterblieb ebenfalls. Das Arbeitsverhältnis bestand zum Eröffnungstag fort; der Insolvenzverwalter kündigte es mit Schreiben vom 6. Mai 2026 mit der gesetzlichen Frist (§ 113 InsO, § 622 BGB: 3 Wochen zum Monatsende), zum 31. Mai 2026.
 
@@ -51,7 +51,7 @@ Lena Vogt hat einen Antrag auf Insolvenzgeld bei der Bundesagentur für Arbeit, 
 
 ### Schmerzensgeld – vbuH-Behauptung
 
-Lena Vogt hat auf dem Forderungsanmeldeformular unter der Rubrik „besonderer Rechtsgrund" das Kästchen „Verbindlichkeiten aus einer vorsätzlich begangenen unerlaubten Handlung (§ 302 Nr. 1 InsO)" angekreuzt. Sie hat dazu handschriftlich vermerkt: „Geschäftsführer hat uns alle betrogen. Ich habe durch seinen Stress meinen Arm verletzt."
+Lena Vogt hat auf dem Forderungsanmeldeformular unter der Rubrik "besonderer Rechtsgrund" das Kästchen "Verbindlichkeiten aus einer vorsätzlich begangenen unerlaubten Handlung (§ 302 Nr. 1 InsO)" angekreuzt. Sie hat dazu handschriftlich vermerkt: "Geschäftsführer hat uns alle betrogen. Ich habe durch seinen Stress meinen Arm verletzt."
 
 Beigefügt waren:
 - WhatsApp-Nachricht vom 2. April 2026 (Anlage E3),
@@ -81,7 +81,7 @@ Diese Voraussetzungen sind **nicht erfüllt**. Die bisherige Darstellung genügt
 
 ### Widerspruch des Schuldners im Prüfungstermin
 
-Im Prüfungstermin am 25. Juni 2026 erhob der Geschäftsführer Marcus Wendler (als Schuldnervertreter) **Widerspruch** gegen den Lohnanspruch April 2026 mit der Begründung, Frau Vogt habe in den letzten beiden Wochen des April 2026 „ohne Genehmigung" gefehlt und daher keinen Lohnanspruch. Ein Nachweis (z. B. Krankmeldung, Gehaltsabzug) wurde nicht vorgelegt.
+Im Prüfungstermin am 25. Juni 2026 erhob der Geschäftsführer Marcus Wendler (als Schuldnervertreter) **Widerspruch** gegen den Lohnanspruch April 2026 mit der Begründung, Frau Vogt habe in den letzten beiden Wochen des April 2026 "ohne Genehmigung" gefehlt und daher keinen Lohnanspruch. Ein Nachweis (z. B. Krankmeldung, Gehaltsabzug) wurde nicht vorgelegt.
 
 Der Insolvenzverwalter hat dem Widerspruch gegen den März-Lohn (3.100,00 EUR) nicht widersprochen; diese Position wird als unstreitig festgestellt.
 

@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-anspruch-pruefen
-description: "Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklaerungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjaehrung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB."
+description: "Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB."
 ---
 
 # Behandlungsfehler-Anspruch prüfen
@@ -40,13 +40,7 @@ description: "Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nac
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 07.07.1987 — **VI ZR 99/86**: Anfänger-Operateur — medizinischer Standard ist der eines erfahrenen Facharztes.
-- BGH, Urt. v. 14.11.1995 — **VI ZR 158/94**: grober Behandlungsfehler bei eindeutigem Verstoß gegen medizinisches Handlungsgebot (Unverständlichkeitstest).
-- BGH, Urt. v. 13.02.2001 — **VI ZR 272/99**: Befunderhebungsfehler — Beweislastumkehr bei wahrscheinlichem reaktionspflichtigem Befund.
-- BGH, Urt. v. 14.09.1999 — **VI ZR 8/98**: Dokumentationsmangel — § 630h Abs. 3 BGB.
-- BGH, Urt. v. 20.09.2011 — **VI ZR 55/09**: Sekundärschäden beim groben Behandlungsfehler von Beweislastumkehr umfasst.
-- BGH, Urt. v. 07.02.2012 — **VI ZR 63/11**: GKV § 116 SGB X — Regressvoraussetzungen.
-- BGH, Urt. v. 19.10.2010 — **VI ZR 241/09**: Schmerzensgeld-Bemessung; Erhöhung bei besonders schwerwiegendem Verschulden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Verjährung
 
@@ -217,7 +211,7 @@ Anlagen:
 
 ## Streitwert und Kosten
 
-- Schmerzensgeld: nach Hacks/Wellner/Häcker-Tabellen; bei dauerhafter Invalidität 50.000–250.000 EUR; bei Tod 20.000–40.000 EUR für Angehörige.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Verdienstausfall: netto-Verdienst × Monate; bei dauerhafter Berufsunfähigkeit Rentenkapitalisierung.
 - LG-Kosten bei 100.000 EUR: ca. 3.696 EUR Gerichtskosten.
 - RVG Anwalt: 1,3-fache VG + 1,2-fache TG; ca. 6.500 EUR netto bei 100.000 EUR.
@@ -245,7 +239,6 @@ Anlagen:
 - BGB §§ 195, 199, 249–253, 280, 630a–630h, 823, 843, 844
 - ZPO §§ 286, 287, 448
 - SGB V § 66; SGB X § 116
-- BGH VI ZR 99/86; VI ZR 158/94; VI ZR 272/99; VI ZR 8/98; VI ZR 55/09; VI ZR 63/11; VI ZR 241/09
-- Geiß/Greiner Arzthaftpflichtrecht, 8. Aufl.
-- Spickhoff Medizinrecht, 3. Aufl.
-- Hacks/Wellner/Häcker Schmerzensgeld-Beträge, aktuellste Aufl.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

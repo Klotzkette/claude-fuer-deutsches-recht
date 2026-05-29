@@ -1,13 +1,13 @@
 ---
 name: zv-titel-klausel-zustellung
-description: "Glaeubiger hat Urteil oder sonstigen Titel und prueft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Pruefraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Pruefprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung)."
+description: "Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung)."
 ---
 
 # Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
 
 ## Aufgabe
 
-Vor jedem ersten Vollstreckungsschritt einmal sauber prüfen, ob die formellen Voraussetzungen vorliegen. Diese Prüfung ist nicht akademisch: § 750 ZPO ist zwingend, ein Verstoß macht die Maßnahme rechtswidrig und auf Erinnerung hin aufhebbar (BGH, Beschl. v. 12.05.2016 – VII ZB 62/13).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
@@ -39,7 +39,7 @@ Vor jedem ersten Vollstreckungsschritt einmal sauber prüfen, ob die formellen V
    - Bei Vollstreckungsbescheid: keine gesonderte Klausel nötig.
    - Bei qualifizierter Klausel (§§ 726, 730 ZPO): Antrag an Rechtspfleger mit Beweis der Bedingung (Urkundenbeweis oder öffentliche Urkunde).
    - Bei Rechtsnachfolge (§§ 727 ff. ZPO): Erbschein, Abtretungsurkunde, Insolvenzgerichtsbeschluss als Beweismittel.
-4. **Zustellung prüfen**: Zustellungsurkunde oder beglaubigte Abschrift mit Zustellnachweis; bei eigener Zustellung Empfangsbekenntnis. Zustellung muss VOR der Vollstreckungsmaßnahme erfolgt sein (BGH VII ZB 62/13).
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Wartefrist beachten**: bei qualifizierter Klausel 2 Wochen ab Zustellung § 750 Abs. 2 ZPO.
 6. **Ampel setzen**: Säulen grün → weiter; Säulen gelb/rot → fehlende Säule beschaffen, dann erneut prüfen.
 
@@ -53,10 +53,7 @@ Vor jedem ersten Vollstreckungsschritt einmal sauber prüfen, ob die formellen V
 
 ## Leitentscheidungen
 
-- BGH, Beschl. v. 12.05.2016 – VII ZB 62/13, NJW 2016, 2659 Rn. 22: Zustellung ist Vollstreckungsvoraussetzung; Maßnahmen ohne Zustellung sind auf Erinnerung aufzuheben.
-- BGH, Beschl. v. 23.10.2014 – VII ZB 17/14, NJW 2015, 73: Vollstreckungsgericht prüft nur formal; materielle Einwendungen über §§ 766, 767 ZPO.
-- BGH, Urt. v. 25.06.2009 – IX ZR 154/08, NJW 2009, 2997: Klauselumschreibung bei Insolvenzverwalter, der nach Verfahrensaufhebung Forderung beitreibt.
-- BGH, Beschl. v. 13.10.2016 – V ZB 174/15, NJW 2017, 411: Das Zustellerfordernis gemäß § 750 Abs. 2 ZPO gilt nur für die Nachweisurkunden, auf welche sich das Klauselorgan ausweislich der Klausel gestützt hat; Zustellung einer einfachen statt beglaubigter Abschrift einer Nachweisurkunde ist nach § 189 ZPO heilbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -101,7 +98,7 @@ Nächster Schritt: [...]
 
 <!-- AUDIT 27.05.2026 bundle_055
 Halluzinations-Reparatur: BGH VII ZB 23/16 (NOT_FOUND) entfernt.
-Ersatz: BGH, Beschl. v. 13.10.2016 – V ZB 174/15, NJW 2017, 411
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Zustellerfordernis § 750 Abs. 2 ZPO; Nachweisurkunden; Heilung nach § 189 ZPO).
 Verifiziert via dejure.org.
 -->

@@ -1,4 +1,4 @@
-# OLG Nürnberg, Beschluss vom 19.07.2023, Az. 15 Wx 988/23 — Hintergrundtext
+# Rechtsprechung live prüfen
 
 Diese Datei haelt den ausführlichen Hintergrund zu den Skills `betreuer-als-erbe`
 und `betreuer-registrierung` vor. Sie ist nicht als eigener Skill aktiv, sondern
@@ -8,7 +8,7 @@ wird bei vertieften Anfragen gezielt herangezogen.
 
 - Aktenzeichen: 15 Wx 988/23.
 - Entscheidungsdatum: 19.07.2023.
-- Fundstellen: NJW-RR 2023, Seite 1307; MDR 2023, Seite 1460; BeckRS 2023 Nr. 25863.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Vorinstanz: AG Schwabach (Nachlassgericht).
 - Veröffentlichung in Bayern: gesetze-bayern.de.
 
@@ -71,12 +71,12 @@ Argumentation des OLG:
   verfassungsrechtlich verankerte Testierfreiheit unzulässig einschraenken.
 - Der Gesetzgeber hat bewusst **keine** mit § 14 HeimG a.F. bzw. § 7 WBVG
   vergleichbare Verbotsnorm geschaffen.
-- Zum Vergleich: BGH Beschluss vom 26.10.2011, IV ZB 33/10, BGHZ Bd. 191
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   S. 224 — Nichtigkeit des Testaments bei Verstoß gegen § 14 HeimG.
 
 ### 3. § 138 Abs. 1 BGB — Sittenwidrigkeit nur in Ausnahmefällen
 
-Das OLG bekraeftigt seine Linie aus dem Urteil vom 07.01.2021, Az. 6 U 22/20:
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Testament zugunsten einer Berufsbetreuerin kann sittenwidrig sein, wenn diese
 gezielt ihre gerichtlich verliehene Vertrauensstellung und ihren Einfluss auf
 einen aelteren, kranken und alleinstehenden Erblasser ausnutzt.
@@ -119,9 +119,9 @@ Beurkundung anzunehmen ist — Klärung durch den BGH absehbar.
 
 ## VII. Bezüge zu anderen Entscheidungen
 
-- BGH Beschluss vom 26.10.2011 Az. IV ZB 33/10, BGHZ Bd. 191 S. 224
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (§ 14 HeimG a.F.).
-- OLG Nürnberg Urteil vom 07.01.2021 Az. 6 U 22/20 (Sittenwidrigkeit bei
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Ausnutzung der Vertrauensstellung durch Berufsbetreuerin).
-- OLG Hamm Urteil vom 02.03.2017 Az. 10 U 9/16 (Auskunfts- und
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Rechnungslegungspflicht des Betreuer-Miterben).

@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Internationales Wirtschafts- und Schiedsrecht
@@ -170,10 +170,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Schluessel-Leitsaetze Erstgespräch IWR
 
-- BGH, Urt. v. 14.03.2013 - IX ZR 117/12, NJW 2013, 1880 — Anwalt haftet bei Versaeumnis von Verjaebrungsfristen, auch wenn Mandant ueber Internationalen Bezug informiert hat; Anwalt muss Verjaebrungsrecht selbst bestimmen (ggf. Auslandsrecht).
-- BGH, Urt. v. 17.09.2020 – III ZR 283/18, NJW 2020, 3451 — Vertretung widerstreitender Interessen nach § 43a Abs. 4 BRAO setzt voraus, dass der Rechtsanwalt bei beiden Tätigkeiten im Kernbereich rechtsbesorgender anwaltlicher Berufsausübung handelt; bei anwaltsfremder Tätigkeit kein Interessenkonflikt; Pflicht zur frühzeitigen Klärung und Offenbarung von Mandatsbeziehungen.
-- BGH, Urt. v. 28.04.2022 - III ZR 240/20, NJW 2022, 2267 — GwG-Pflichtverletzung durch Rechtsanwalt begruendet keine Haftung gegenueber dem Mandanten; Schutzzweck des GwG ist oeffentlich, nicht privatrechtlich.
-- OLG Frankfurt, Urt. v. 09.06.2021 - 10 U 71/20, IPRax 2022, 181 — Zustaendigkeit nach Bruessel Ia VO muss von Anwalt im Erstgespraech geprueft werden; Versaeumnis kann zu Zustaendigkeitsmangel fuehren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen IWR Erstmandat
 - Bruessel Ia VO (EU 1215/2012) Art. 4 ff. — Internationale Zustaendigkeit

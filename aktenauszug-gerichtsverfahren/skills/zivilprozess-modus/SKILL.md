@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-modus
-description: "Aktenauszug fuer ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Pruefraster ZPO-Fristen Instanzenzug Besonderheiten. Output ZPO-spezifischer Aktenauszug. Abgrenzung zu arbeitsgerichtsverfahren-modus (ArbGG) und verwaltungsprozess-modus (VwGO)."
+description: "Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Prüfraster ZPO-Fristen Instanzenzug Besonderheiten. Output ZPO-spezifischer Aktenauszug. Abgrenzung zu arbeitsgerichtsverfahren-modus (ArbGG) und verwaltungsprozess-modus (VwGO)."
 ---
 
 # Zivilprozess-Modus (ZPO)
@@ -28,18 +28,11 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für orden
 
 ## Rechtsprechung (BGH — Leitsätze ZPO-Verfahren)
 
-- BGH, Urt. v. 22.09.2020 - II ZR 73/19, NJW 2021, 76 — Zur Bestimmtheit des Berufungsantrags nach § 520 Abs. 3 ZPO: Berufungsantrag muss erkennen lassen, in welchem Umfang und weshalb das erstinstanzliche Urteil angegriffen wird.
-- BGH, Beschl. v. 07.05.2020 - IX ZB 14/19, NJW 2020, 2181 — Zur Zurückweisung nach § 522 Abs. 2 ZPO: Berufungsgericht darf nur verwerfen wenn keine Aussicht auf Erfolg und kein Bedarf nach muendlicher Verhandlung; Hinweispflicht vorher.
-- BGH, Urt. v. 23.01.2018 - XI ZR 298/17, NJW 2018, 1302 — Neue Angriffsmittel in der Berufungsinstanz nach § 531 Abs. 2 ZPO: Nachlässigkeit in erster Instanz schließt Berücksichtigung aus; Partei muss Entschuldigungsgrund darlegen.
-- BGH, Beschl. v. 27.11.2019 - XII ZB 311/19, NJW 2020, 528 — Vollziehung der einstweiligen Verfügung nach § 929 Abs. 2 ZPO: Vollziehungsfrist beginnt mit Beschlusszustellung an Antragsteller; fehlende Vollziehung macht Beschluss wirkungslos.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler ZPO § 511 Rn. 1 ff. (Berufungszulässigkeit)
-- MüKo ZPO/Rimmelspacher § 531 Rn. 1 ff. (Neue Angriffs- und Verteidigungsmittel)
-- Thomas/Putzo ZPO § 935 Rn. 1 ff. (Einstweilige Verfügung)
-- Zöller/Vollkommer ZPO § 929 Rn. 1 ff. (Vollziehungsfrist)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verfahrensarten im ZPO-Modus
 
 ### Ordentliches Klageverfahren

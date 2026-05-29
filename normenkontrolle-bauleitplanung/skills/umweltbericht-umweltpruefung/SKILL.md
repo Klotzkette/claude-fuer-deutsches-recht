@@ -1,6 +1,6 @@
 ---
 name: umweltbericht-umweltpruefung
-description: "Mandant greift Bebauungsplan wegen unzureichender Umweltpruefung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Pruefraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltpruefung. Output: Umweltpruefungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich."
+description: "Mandant greift Bebauungsplan wegen unzureichender Umweltprüfung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Prüfraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltprüfung. Output: Umweltprüfungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich."
 ---
 
 # Umweltbericht und Umweltprüfung
@@ -170,13 +170,8 @@ Der Umweltbericht ist nach dem Abwägungsgebot eines der wichtigsten Prüffelder
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BVerwG, Urt. v. 24.03.2010 — 4 CN 3.09, BVerwGE 136, 211 Rn. 18: Der Umweltbericht ist zwingende Begruendungsanlage des Bebauungsplans; sein Fehlen oder eine wesentliche Unvollstaendigkeit macht den Plan unwirksam.
-- BVerwG, Urt. v. 09.04.2008 — 4 CN 1.07, BVerwGE 131, 100 Rn. 25: Artenschutzrechtliche saP muss auf tatsaechlich betroffene Arten bezogen und methodisch stichhaltig sein; generelle Verweise auf Gebietscharakter genuegen nicht.
-- BVerwG, Urt. v. 27.06.2019 — 4 CN 3.18, BVerwGE 165, 399 Rn. 22: Umweltbericht erfordert ernsthafte Alternativenbehandlung einschliesslich der Nullvariante; Formular-Alternative ohne inhaltliche Analyse ist unzureichend.
-- EuGH, Urt. v. 10.09.2015 — C-473/14 (Dimos Kropias Attikis), NVwZ 2015, 1595: FFH-Vertraeglichkeitspruefung nach Art. 6 FFH-RL erfordert vollstaendige Untersuchung aller Auswirkungen auf Erhaltungsziele; Vorsorge-Ergebnis-Grundsatz gilt streng.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 2 Abs. 4, 2a Rn. 1 ff.
-- Ernst/Zinkahn, BauGB — Umweltbericht und Umweltpruefung
-- Louis/von Staudinger, BNatSchG — §§ 34, 44 Rn. 1 ff. Artenschutz
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

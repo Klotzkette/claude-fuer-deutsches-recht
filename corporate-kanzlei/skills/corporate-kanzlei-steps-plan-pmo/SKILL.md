@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-steps-plan-pmo
-description: "Steps Plan und Transaktions-PMO fuer M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Pruefraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions."
+description: "Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions."
 ---
 
 # Steps Plan und Deal-PMO
@@ -24,14 +24,11 @@ description: "Steps Plan und Transaktions-PMO fuer M&A-Mandate erstellen: Deal-T
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.06.2019 - V ZR 244/17, NJW 2019, 2988 — CP-Owner-Pflicht: Partei muss aktiv fuer Erfullung der aufschiebenden Bedingung eintreten; reine Abwarteposition genuegt nicht
-- OLG Frankfurt, Urt. v. 13.10.2021 - 4 U 162/20, NZG 2022, 213 — Kaeufer muss Kartell-Freigabe aktiv befoerdern; passive Haltung verletzt Kooperationspflicht im SPA
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9 — Deal-PMO und Closing
-- Beisel/Klumpp, Unternehmenskauf (7. Aufl. 2016) Kap. 11 — Transaktionsmanagement
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Steps Plan Struktur
 
 Ein Steps Plan listet alle Aktionen zur vollstaendigen Transaktionsdurchfuehrung:
@@ -131,5 +128,5 @@ Stand: [DATUM]
 ## Quellen
 
 - §§ 35-43 GWB; § 56 AWV; §§ 158, 162 BGB; Art. 7 FKVO
-- BGH V ZR 244/17 (CP-Owner-Pflicht); OLG Frankfurt 4 U 162/20 (Kartell-Foerderpflicht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9

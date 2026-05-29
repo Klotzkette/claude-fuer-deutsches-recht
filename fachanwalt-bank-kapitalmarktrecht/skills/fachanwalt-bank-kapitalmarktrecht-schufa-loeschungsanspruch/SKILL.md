@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch
-description: "Mandant verlangt Loeschung eines unrechtmaessigen SCHUFA-Eintrags: Art. 17 DSGVO Voraussetzungen EuGH C-634/21 Scoring BGH VI ZR 1213/22. Normen Art. 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Pruefraster Loeschungsanspruch-Voraussetzungen Schadensersatz Kausalitaet Restschuldbefreiung Drei-Jahres-Frist. Output Loeschungs-Schreiben Schadensersatz-Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-eintrag (allg. Eintrag) und datenschutzrecht-Skills."
+description: "Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # SCHUFA-Löschungsanspruch
@@ -30,7 +30,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 ### Bei Insolvenz
 
 - Restschuldbefreiung -> Löschungs-Anspruch
-- BGH NJW 2024, 3148: schnellere Löschung nach Restschuldbefreiung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - 3-Jahres-Frist nach Restschuldbefreiung verkürzt durch Vergleichs-Urteil 2023
 
 ## 3) Klassische Fehler-Konstellationen
@@ -49,11 +49,11 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 ### Konstellation C: Insolvenz-Bezug
 
 - Trotz Restschuldbefreiung Eintrag bleibt
-- BGH VI ZR 1213/22 v. 18.11.2024: Löschung schon nach 6 Monaten nach Restschuldbefreiung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation D: Score ohne nachvollziehbare Grundlage
 
-- EuGH C-634/21 vom 7.12.2023: SCHUFA-Score ist „automatisierte Entscheidung" Art. 22 DSGVO
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Recht auf Erklärung, manuelle Prüfung
 
 ## 4) Workflow Löschung
@@ -82,13 +82,13 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ## 5) Schadensersatz Art. 82 DSGVO
 
-### BGH VI ZR 1213/22 vom 18.11.2024
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - DSGVO-Schadensersatz auch bei nicht-materiellem Schaden
 - Kontrollverlust über Daten ausreichend
 - Tendenz Höhe: 100-1.500 EUR pro Fall
 
-### EuGH C-340/21 vom 14.12.2023
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Schaden auch ohne konkreten finanziellen Schaden möglich
 - Sorge / Aerger reicht aus
@@ -103,7 +103,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 - **Pauschal** je Eintrag (500-1.000 EUR + MwSt.)
 - **Erfolgs-Aufschlag** bei Schadensersatz (15-30 %)
-- **Rechtsschutz-Versicherung** typisch zuschussfähig (Bereich „Schadensersatz / Datenschutz")
+- **Rechtsschutz-Versicherung** typisch zuschussfähig (Bereich "Schadensersatz / Datenschutz")
 
 ## 7) Prüfliste
 
@@ -123,9 +123,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ## 9) Aktuelle BGH-/EuGH-Linien
 
-- EuGH, Urt. v. 7.12.2023 — C-634/21 (SCHUFA-Score Art. 22 DSGVO)
-- BGH, Urt. v. 18.11.2024 — VI ZR 1213/22 (DSGVO-Schadensersatz)
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Kontrollverlust ausreichend)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Rechtsprechung, Triage und Output-Template
 
@@ -139,10 +137,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ### Erweiterte Leitsaetze
 
-- BGH, Urt. v. 22.02.2024 - III ZR 116/22, NJW 2024, 3148 Rn. 28 — Nach Erteilung der Restschuldbefreiung ist SCHUFA verpflichtet, Eintrag unverlaenglich zu loeschen; drei-Jahres-Wartefrist des § 31 BDSG gilt nicht, wenn Insolvenzgericht Befreiung erteilt hat.
-- BGH, Urt. v. 18.11.2024 - VI ZR 1213/22, NJW 2025, 341 Rn. 32 — Immaterieller Schadensersatz nach Art. 82 DSGVO setzt konkreten, nachgewiesenen Nachteil voraus; blosse Datenschutzverstoesse ohne tatsaechlichen Schaden genuegen nicht fuer § 82-Anspruch.
-- EuGH, Urt. v. 07.12.2023 - C-634/21 (SCHUFA Holding vs. Datenschutzbehörde Hessen), NJW 2024, 377 Rn. 55 — SCHUFA-Score kann automatisierte Einzelentscheidung i.S.d. Art. 22 DSGVO sein; Betroffener hat dann Recht auf menschliche Ueberpruefung.
-- BGH, Urt. v. 28.01.2014 - VI ZR 156/13, NJW 2014, 1235 Rn. 14 — SCHUFA-Eintrag nach Titel setzt Erfuellung aller formellen Voraussetzungen voraus; Fehler bei Mahnablauf macht Eintrag rechtswidrig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette SCHUFA-Loeschung
 - Art. 16, 17 DSGVO — Berichtigung und Loeschung
@@ -151,11 +146,9 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 - § 31 BDSG — Scoring-Regelung (Auskunfteien)
 - Art. 77, 79 DSGVO — Beschwerde / Klage
 
-### Kommentarliteratur
-- Kuhling/Buchner DSGVO Art. 17, 22, 82 (Loeschung, Score, Schadensersatz)
-- Paal/Pauly DSGVO Art. 82 (Schadensersatz)
-- Gola/Heckmann BDSG § 31 (Scoring)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Output-Template Loeschungsklage
 **Adressat:** Landgericht [ORT] — Tonfall: sachlich-juristisch
 

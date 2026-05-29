@@ -1,6 +1,6 @@
 ---
 name: vaf-track-changes-nur-nach-frage
-description: "Track Changes und Redline nur nach ausdrücklicher Bestätigung erstellen: Anwendungsfall überarbeiteter Vertrag soll als Track-Changes-Fassung ausgegeben werden; Skill fragt vorher explizit nach Bestätigung. §§ 145 ff. BGB Änderungsverhandlung, §§ 305 ff. BGB AGB-Transparenz. Pruefraster ausdrückliche Bestätigung vorhanden, saubere Ausgangsfassung nach Quality Gate vorhanden, Ausgangspunkt für Änderungsmarkierung definiert, Kommentierung materiell relevanter Änderungen. Output Track-Changes-Fassung oder ablehnende Weiterleitung zu Clean-Output. Abgrenzung zu Redline-QA fuer Prüfung und zu Clean-Output."
+description: "Track Changes und Redline nur nach ausdrücklicher Bestätigung erstellen: Anwendungsfall überarbeiteter Vertrag soll als Track-Changes-Fassung ausgegeben werden; Skill fragt vorher explizit nach Bestätigung. §§ 145 ff. BGB Änderungsverhandlung, §§ 305 ff. BGB AGB-Transparenz. Prüfraster ausdrückliche Bestätigung vorhanden, saubere Ausgangsfassung nach Quality Gate vorhanden, Ausgangspunkt für Änderungsmarkierung definiert, Kommentierung materiell relevanter Änderungen. Output Track-Changes-Fassung oder ablehnende Weiterleitung zu Clean-Output. Abgrenzung zu Redline-QA für Prüfung und zu Clean-Output."
 ---
 
 # Track Changes nur nach Frage
@@ -15,10 +15,7 @@ description: "Track Changes und Redline nur nach ausdrücklicher Bestätigung er
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.07.2018 - I ZR 268/15, NJW 2018, 3178 — Verdeckte Änderungen in Vertragsverhandlungen können Pflichtverletzung nach § 241 Abs. 2 BGB darstellen; Transparenzpflicht bei Änderungen.
-- BGH, Urt. v. 07.11.2017 - KZR 38/16, NJW 2018, 1461 — Pflicht zur Offenlegung wesentlicher Änderungen; Schweigen über materiell bedeutsame Änderungen kann arglistig im Sinne des § 123 BGB sein.
-- BGH, Urt. v. 10.12.2008 - XII ZR 22/07, NJW 2009, 1272 — Vollständigkeit der Vertragsdokumentation: alle Anlagen und Änderungen müssen dem finalen Vertrag klar zugeordnet sein.
-- BVerfG, Beschl. v. 12.05.2010 - 1 BvR 1098/09, NJW 2010, 2194 — Anwaltliches Berufsrecht: Anwalt muss Mandanten vollständig und wahrheitsgemäß über den Vertragsinhalt informieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -26,11 +23,9 @@ description: "Track Changes und Redline nur nach ausdrücklicher Bestätigung er
 - § 123 BGB — Anfechtung wegen Täuschung (bei verdeckten Änderungen)
 - § 3 BRAO — anwaltliche Sorgfaltspflicht
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 241 Rn. 5-15 (Nebenpflichten im Schuldverhältnis)
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 3 Rn. 1-20 (anwaltliche Pflichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill setzt die ausdrückliche Nachfragepflicht durch. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

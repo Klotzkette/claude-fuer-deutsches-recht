@@ -41,7 +41,7 @@ Zusätzlich werden quartalsweise alle Bestandskunden gescreent. Der aktuelle Qua
 ### 2.2 Prüfungsschritte
 
 **Schritt 1 — Namensabgleich:**  
-Der Name „Andrei Moldovan" ist in Rumänien ein sehr verbreiteter Name (laut Statistisches Amt Rumänien im Jahr 2020 über 4.200 registrierte Personen mit diesem Namen). Die Koinzidenz des Namens allein begründet keinen PEP-Status.
+Der Name "Andrei Moldovan" ist in Rumänien ein sehr verbreiteter Name (laut Statistisches Amt Rumänien im Jahr 2020 über 4.200 registrierte Personen mit diesem Namen). Die Koinzidenz des Namens allein begründet keinen PEP-Status.
 
 **Schritt 2 — Geburtstagabgleich:**  
 Das Geburtsdatum des Vertragspartners (14.02.1971) weicht vom Treffer-Datensatz (12.04.1969) um exakt zwei Jahre und zwei Monate ab. Bei Datenbankeinträgen zu politischen Personen aus Osteuropa sind Erfassungsfehler (Transpositionen Tag/Monat, Jahreszahlabweichungen) aus historischen Gründen bekannt.
@@ -50,7 +50,7 @@ Das Geburtsdatum des Vertragspartners (14.02.1971) weicht vom Treffer-Datensatz 
 Im World-Check-Datensatz sind zwei Fotos des ehemaligen Ministers hinterlegt. Ein Vergleich mit der Reisepasskopie des GF Andrei Moldovan (geb. 1971) ergibt: keine offensichtliche Ähnlichkeit, jedoch nicht ausreichend aussagekräftig für eine definitive Ausschluss-Entscheidung ohne unabhängige biometrische Prüfung.
 
 **Schritt 4 — Recherche öffentliche Quellen:**  
-Suche nach „Andrei Moldovan Wirtschaftsministerium Rumänien" in rumänischsprachigen Quellen (Mediafax, Digi24, G4Media): Der ehemalige Minister ist unter dem vollen Namen „Alexandru Andrei Moldovan" bekannt. Der Vertragspartner nennt sich „Andrei Constantin Moldovan". Diese Namensabweichung (Vorname „Alexandru" fehlt) ist ein weiteres Differenzierungsmerkmal.
+Suche nach "Andrei Moldovan Wirtschaftsministerium Rumänien" in rumänischsprachigen Quellen (Mediafax, Digi24, G4Media): Der ehemalige Minister ist unter dem vollen Namen "Alexandru Andrei Moldovan" bekannt. Der Vertragspartner nennt sich "Andrei Constantin Moldovan". Diese Namensabweichung (Vorname "Alexandru" fehlt) ist ein weiteres Differenzierungsmerkmal.
 
 **Schritt 5 — Anfrage an Vertragspartner:**  
 Mit Schreiben vom 25.04.2026 wurde Andrei Constantin Moldovan aufgefordert, aktiv zu bestätigen, dass er kein PEP ist (§ 15 Abs. 1 GwG ermöglicht Erklärung des Kunden). Antwort: Mit E-Mail vom 30.04.2026 bestätigte er, nie ein politisches Amt bekleidet zu haben; beigefügt war eine rumänische eidesstattliche Erklärung (Declaratie pe propria raspundere).
@@ -85,7 +85,7 @@ Mit Schreiben vom 25.04.2026 wurde Andrei Constantin Moldovan aufgefordert, akti
 ### 3.2 Prüfungsschritte
 
 **Schritt 1 — Namensabgleich:**  
-Die Namen „Blue Harbor Holdings" und „Blue Harbour Shipping" sind phonetisch ähnlich. Unterschiede: „Harbor" vs. „Harbour" (britische vs. amerikanische Schreibweise), „Holdings" vs. „Shipping" (völlig andere Unternehmensfunktion), Sitzland Zypern vs. Panama.
+Die Namen "Blue Harbor Holdings" und "Blue Harbour Shipping" sind phonetisch ähnlich. Unterschiede: "Harbor" vs. "Harbour" (britische vs. amerikanische Schreibweise), "Holdings" vs. "Shipping" (völlig andere Unternehmensfunktion), Sitzland Zypern vs. Panama.
 
 **Schritt 2 — Registernummer:**  
 Ein Abgleich der Registernummer war nicht möglich, da die gelistete panamaische Gesellschaft im EU-Sanktionsregister ohne Registernummer geführt wird. Eine Anfrage beim panamaischen Handelsregister über einen lokalen Korrespondenten ergab keine belastbaren Informationen.

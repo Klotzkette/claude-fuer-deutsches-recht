@@ -1,6 +1,6 @@
 ---
 name: anw-grunderwerbsteuer-share-deal-90-prozent
-description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 AO unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Pruefprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage."
+description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 AO unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Prüfprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage."
 ---
 
 # Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung
@@ -36,10 +36,7 @@ Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem
 
 ### Leitentscheidungen
 
-- BFH, Urt. v. 25.9.2013 — **II R 17/12**, BFHE 243, 252 (Mittelbare Anteilsvereinigung; Beteiligungsverhältnisse).
-- BFH, Urt. v. 27.9.2017 — **II R 21/15** (10-Jahres-Frist und Vorbeteiligungs-Anrechnung).
-- BFH, Urt. v. 25.5.2022 — **II R 22/20** (Anwendungsbeispiele § 1 Abs. 2b GrEStG nach Reform).
-- BFH, Urt. v. 5.12.2019 — **II R 4/17** (RETT-Blocker; wirtschaftliche Beteiligung § 1 Abs. 3a GrEStG).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben vom 10.5.2022 zur Anwendung StAGeRefG (90 %-Schwelle).
 
 ## Tatbestände im Überblick

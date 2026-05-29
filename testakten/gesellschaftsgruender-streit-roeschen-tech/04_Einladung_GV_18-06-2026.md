@@ -46,7 +46,7 @@ Bericht ueber die Series-B-Verhandlungen mit der Pi Mu Holding GmbH ueber eine B
 
 **Beschluss-Vorlage**:
 
-„Die Gesellschafterversammlung beschliesst:
+"Die Gesellschafterversammlung beschliesst:
 
 a) Das Stammkapital der Gesellschaft wird gemaess § 4 der Satzung aus dem genehmigten Kapital um 12.500 EUR auf 51.000 EUR durch Ausgabe von 12.500 neuen Geschaeftsanteilen der **Class C** im Nennwert von je 1 EUR erhoeht.
 
@@ -65,7 +65,7 @@ e) Die naeheren Bedingungen folgen aus dem **Subscription Agreement** zwischen d
 
 **Sachliche Rechtfertigung des Bezugsrechtsausschlusses (Paragraf 55 IV GmbHG iVm § 4 (3) der Satzung)**:
 
-- Pi Mu Holding GmbH ist ein strategischer Investor mit Marktzugang in den Sektor „Industrielle KI-Anwendungen", in dem die Gesellschaft expandieren moechte.
+- Pi Mu Holding GmbH ist ein strategischer Investor mit Marktzugang in den Sektor "Industrielle KI-Anwendungen", in dem die Gesellschaft expandieren moechte.
 - Pi Mu Holding GmbH verfuegt ueber ein Portfolio an Beteiligungen mit Synergien zum Geschaeftsmodell der Gesellschaft.
 - Der Eintritt der Pi Mu Holding GmbH ist Voraussetzung fuer die Geschaeftsentwicklung in Industrie-Maerkten.
 - Die bestehenden Gesellschafter haben kein vergleichbares strategisches Engagement.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung
-description: "Vermieter will Miete erhoehen oder Mieter prueft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Pruefraster Wartefrist 15 Monate Begruendungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskuendigung (Kuendigung) und mietminderung-schimmel (Maengelrecht)."
+description: "Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht)."
 ---
 
 # Mieterhöhung bis zur ortsüblichen Vergleichsmiete
@@ -45,11 +45,7 @@ description: "Vermieter will Miete erhoehen oder Mieter prueft Zustimmungspflich
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 14.12.2022 — **VIII ZR 304/21**: Begründungsanforderungen Mietspiegel — korrekte Tabellenfelder anzugeben.
-- BGH, Urt. v. 04.05.2011 — **VIII ZR 227/10**: drei Vergleichswohnungen — genaue Bezeichnung Ort, Lage, Miete erforderlich.
-- BGH, Urt. v. 17.04.2019 — **VIII ZR 33/18**: Modernisierungsumlage § 559 BGB — Kosten müssen nachvollziehbar aufgeschlüsselt sein.
-- BGH, Urt. v. 25.02.2004 — **VIII ZR 116/03**: Wartefrist 15 Monate ab Einzug.
-- BGH, Urt. v. 28.09.2022 — **VIII ZR 300/21**: qualifizierter Mietspiegel, Verfahren der Erstellung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -179,7 +175,7 @@ Monats kündigen.
 | Einwand Mieter | Reaktion Vermieter |
 |---|---|
 | Mietspiegel nicht aktuell | Mietspiegel hat vier Jahre Gültigkeit § 558 Abs. 2 BGB; Aktualisierungspflicht |
-| Vergleichswohnungen nicht vergleichbar | Genaue Bezeichnung erforderlich (BGH VIII ZR 227/10); bei Zweifeln Sachverständigengutachten |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kappungsgrenze überschritten | Berechnung über drei Jahre; ggf. Erhöhung auf Kappungsgrenze kürzen |
 | Modernisierungskosten nicht belegt | § 559b BGB — Mieter kann Einsicht verlangen; Nachlage verpflichtend |
 | Mietpreisbremse einschlägig | Prüfen: Ausnahmen (Neubau, umfassende Modernisierung, Vormiete) |
@@ -210,6 +206,6 @@ Monats kündigen.
 
 - BGB §§ 535, 555b–555e, 557a, 557b, 558–558d, 556d–556g, 559–559b
 - GKG § 41 Abs. 5
-- BGH VIII ZR 304/21; VIII ZR 227/10; VIII ZR 33/18; VIII ZR 116/03; VIII ZR 300/21
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Blank/Börstinghaus Miete, aktuelle Aufl.

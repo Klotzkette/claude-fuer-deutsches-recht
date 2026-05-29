@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen
-description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjaehrung. Pruefraster: Form- und Verfahrensfehler Verjaehrung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhoerung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Pruefprotokoll und Einspruchsempfehlung. Abgrenzung zu bussgeld-einspruch-pruefen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
+description: "Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjährung. Prüfraster: Form- und Verfahrensfehler Verjährung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhoerung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Prüfprotokoll und Einspruchsempfehlung. Abgrenzung zu bußgeld-einspruch-prüfen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
 ---
 
 # Bußgeldbescheid prüfen
@@ -23,7 +23,7 @@ description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Ein
 
 - **§ 26 Abs. 3 StVG** — Verjährungsfrist drei Monate ab Tatzeit bei Ordnungswidrigkeiten im Straßenverkehr; nach Erlass des Bußgeldbescheids verlängerte Frist.
 - **§ 33 OWiG** — Unterbrechungsgründe: Bekanntgabe Verfahrenseinleitung an Betroffenen; schriftliche Aufnahme Sachverhalt für Protokoll; Anordnung Auskunft über Betroffenen; Erlass Bußgeldbescheid; Einlegung Einspruch. Nach jeder Unterbrechung beginnt neue volle Frist.
-- **§ 49 OWiG** — Akteneinsichtsrecht des Verteidigers; umfasst alle Verfahrensakten; Anspruch auf Herausgabe Mess-Rohdaten nach BVerfG 2 BvR 1167/20.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 55 OWiG** — Anhörungsrecht Betroffener; Verletzung kann zur Rechtswidrigkeit des Bußgeldbescheids führen; Heilung möglich wenn Betroffener im Einspruchsverfahren gehört wird.
 - **§ 65 OWiG** — Bußgeldbescheid; Mindestinhalt: Personalien, Tatbeschreibung, Tatzeit, Tatort, angewandte Vorschriften, Bußgeldhöhe, Fahrverbot.
 - **§ 67 Abs. 1 OWiG** — Einspruch innerhalb zwei Wochen nach Bekanntgabe; schriftlich oder zur Niederschrift bei erlassender Behörde.
@@ -36,11 +36,7 @@ description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Ein
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | 4 StR 627/92 (BGHSt 39, 291) | 19.08.1993 | Standardisiertes Messverfahren; Richtigkeitsvermutung; Toleranzabzug genügt |
-| BVerfG | 2 BvR 1167/20 | 12.11.2020 | Anspruch auf Rohmessdaten für effektive Verteidigung; Verweigerung = Verwertungsverbot |
-| OLG Zweibrücken | 1 OWi 2 SsBs 114/20 | 21.12.2020 | PoliScan FM1: Anerkennnung als standardisiertes Messverfahren trotz Softwarebesonderheiten |
-| OLG Karlsruhe | 2 Rb 35 Ss 291/23 | 22.05.2023 | Rohmessdaten: konkrete Geltendmachung erforderlich; pauschaler Antrag unzureichend |
-| BayObLG | 201 ObOWi 1296/22 | 20.01.2023 | Schulungsnachweis: fehlender Beleg führt nicht automatisch zur Unverwertbarkeit; Fehler muss kausal sein |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -57,8 +53,7 @@ description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Ein
 | 6 | Fahreridentifizierung belegt? | Darlegungslast Behörde | Zweifelhaftes Lichtbild: Sachverständigen-Beweisangebot |
 | 7 | Messverfahren standardisiert? | BGHSt 39, 291 | Nicht standardisiert: volle Beweislast Behörde |
 | 8 | Eichschein gültig zur Tatzeit? | § 31 MessEG | Abgelaufen: Verwertungsverbot prüfen |
-| 9 | Schulungsnachweis Bediener vorhanden? | Gerätebedienungsanleitung; BayObLG 201 ObOWi 1296/22 | Fehlt: Rüge; Kausalität darlegen |
-| 10 | Rohmessdaten herausgegeben? | BVerfG 2 BvR 1167/20; OLG Karlsruhe 2 Rb 35 Ss 291/23 | Verweigert bei konkretem Antrag: Verwertungsverbot |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 11 | Toleranzabzug korrekt vorgenommen? | BGHSt 39, 291; BKatV | Zu gering: Neuberechnung; ggf. anderes Tatbild |
 | 12 | Bußgeld korrekt nach BKatV? | BKatV Anlage 1, 2 | Fehler: unmittelbare Rüge |
 | 13 | Fahrverbot: Regelfall oder Atypik? | § 25 StVG; § 4 Abs. 4 BKatV | Härtefall: erhöhte Geldbuße statt Fahrverbot |
@@ -107,7 +102,7 @@ ANTRÄGE
 Ich beantrage vollständige Akteneinsicht einschließlich:
 a) Sämtlicher Rohmessdaten des Falldatensatzes und der
    Falldatensätze der Messreihe (konkret: alle Einzelmessungen,
-   Gerätedaten, Kalibrierungsprotokolle) — BVerfG 2 BvR 1167/20;
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) Eichschein des Messgeräts mit Gültigkeitsdauer zur Tatzeit;
 c) Schulungsnachweis des messenden Beamten (Name, Gerätekurs);
 d) Messprotokoll mit Aufstellungsort, -bedingungen und -dauer;
@@ -166,7 +161,7 @@ folgende Fehler zu verzeichnen:
 2. Rohmessdaten verweigert:
    Trotz konkretem Antrag vom [Datum] (Anlage K1) wurden die
    Rohmessdaten des Falldatensatzes nicht vorgelegt. Nach
-   BVerfG 2 BvR 1167/20 begründet die Verweigerung ein
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Verwertungsverbot, wenn der Verteidiger konkret geltend
    macht, dass er ohne die Daten die Messung nicht überprüfen
    kann. Dieser Antrag liegt vor.
@@ -244,4 +239,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-OWiG §§ 33, 46, 47, 49, 52, 55, 65, 67; StVG §§ 24, 24a, 25, 26, 29; BKatV; MessEG § 31; MessEV § 32; BGHSt 39, 291; BVerfG 2 BvR 1167/20; OLG Zweibrücken 1 OWi 2 SsBs 114/20; OLG Karlsruhe 2 Rb 35 Ss 291/23; BayObLG 201 ObOWi 1296/22; Burhoff Handbuch OWi-Verfahren 6. Aufl. 2022; KK-OWiG 6. Aufl. 2020.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

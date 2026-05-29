@@ -49,13 +49,11 @@ Legt die Transaktionsakte als Matter Workspace an: Struktur, Workstreams, Datenr
 - §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen ueber eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
 
 ### Leitsaetze aus der Rechtsprechung
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — anwaltliche Haftung: vollstaendige Information des Mandanten ueber alle wesentlichen Risiken ist Kernpflicht; auch bei Zeitdruck
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — DD-Ergebnis muss vollstaendig in Beratungsleistung einfliessen; Luecken begruenden Schadensersatz
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Schramm/Alexander, BRAO, § 43a Rn. 1-50 (anwaltliche Sorgfaltspflicht)
-- Picot, Unternehmenskauf, Kapitel 1 (Transaktionsmanagement, Mandatsfuehrung), 5. Auflage
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Qualitaetssicherung
 - Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
 - Senior Review vor Weiterleitung an Mandant oder Gegenseite

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gf-sozialversicherungs-status
-description: "Sozialversicherungsrechtlichen Status des GmbH-Geschaeftsfuehrers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Pruefraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte."
+description: "Sozialversicherungsrechtlichen Status des GmbH-Geschäftsführers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Prüfraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte."
 ---
 
 # Sozialversicherungs-Status des Geschäftsführers
@@ -24,17 +24,11 @@ description: "Sozialversicherungsrechtlichen Status des GmbH-Geschaeftsfuehrers 
 
 ## Aktuelle Rechtsprechung (BSG-Linie)
 
-- BSG, Urt. v. 29.08.2012 - B 12 KR 25/10 R, BSGE 111, 257 — Gesellschafter-GF mit Mehrheitsbeteiligung (> 50 %): regelmäßig sozialversicherungsfrei, da kein Beschäftigungsverhältnis; er kann sich selbst keine Weisungen erteilen.
-- BSG, Urt. v. 11.11.2015 - B 12 KR 10/14 R, SozR 4-2400 § 7 Nr. 28 — Gesellschafter-GF mit Sperrminorität: auch Minderheitsbeteiligung kann sozialversicherungsfreiheit begründen, wenn GF aufgrund Satzung oder SHA alle ihn betreffenden Beschlüsse verhindern kann.
-- BSG, Urt. v. 14.03.2018 - B 12 KR 13/17 R, NZS 2018, 612 — Fremd-GF: immer sozialversicherungspflichtig; keine Ausnahmen bei fehlender Beteiligung, auch bei weitgehender Vertragsfreiheit.
-- BSG, Urt. v. 12.05.2020 - B 12 R 11/19 R, BSGE 130, 160 — Rückwirkende Beitragsforderung: bei Versäumnis des Statusfeststellungsantrags gilt die 4-Jahres-Frist; bei vorsätzlichem Vorenthalten 30 Jahre; Geschäftsführer und Gesellschaft haften gesamtschuldnerisch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schlegel/Voelzke, SGB IV, § 7 Rn. 80-120 (Gesellschafter-GF, Abgrenzung selbständig / abhängig)
-- Krasney/Udsching, Handbuch des sozialgerichtlichen Verfahrens, Kap. IV Rn. 50 ff. (Statusfeststellung)
-- ErfK/Rolfs, SGB IV § 7 Rn. 1-50 (Beschäftigungsverhältnis GF)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## BSG-Statusmatrix Geschäftsführer
 
 | GF-Typ | Quote | Vetorecht | SV-Status | Empfehlung |
@@ -75,7 +69,7 @@ Formelle, **bindende Feststellung** des Sozialversicherungsstatus durch die Clea
 
 1. **Triage** — 6 Triage-Fragen beantworten; GF-Typ und Beteiligungsquote feststellen.
 2. **Statusmatrix** — in Tabelle oben einsortieren; vorläufigen Status bestimmen.
-3. **Sperrminorität prüfen** — Satzung und SHA auf umfassende Vetorechte prüfen; BSG B 12 KR 10/14 R Kriterien.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Statusfeststellungsantrag** — bei Zweifelsfällen und Mehrheits-GF: Antrag stellen; Formular V0027.
 5. **Bis Bescheid** — SV-Beiträge sicherheitshalber einziehen (rückwirkende Gutschrift möglich).
 6. **Bei Pflichtstatus** — Anmeldung bei Krankenkasse; GKV oder PKV-Wahl des GF.
@@ -127,10 +121,8 @@ Nachzahlungsrisiko (4 Jahre): [geschätzt EUR]
 ## Quellen und Vertiefung
 
 - §§ 7, 7a, 25, 28a SGB IV (Beschäftigungsbegriff, Statusfeststellung, Verjährung)
-- BSG B 12 KR 25/10 R, BSGE 111, 257 (Mehrheits-GF frei)
-- BSG B 12 KR 10/14 R, SozR 4-2400 § 7 Nr. 28 (Sperrminorität)
-- BSG B 12 KR 13/17 R, NZS 2018, 612 (Fremd-GF pflichtig)
-- ErfK/Rolfs, SGB IV § 7 Rn. 1-50
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Übergabe an andere Skills
 

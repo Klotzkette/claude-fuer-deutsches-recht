@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-eu-agrarfoerderung
-description: "Landwirt hat Foerderbescheid erhalten oder will EU-Direktzahlungen ELER-Foerderung beantragen oder gegen Kuerzungen vorgehen. Pruefraster GAP-Strategieplan 2023-2027 Konditionalitaet GLOEZ-Standards Grundanforderungen Betriebsfuehrung GAB. VO 2021/2115 Direktzahlungen VO 2021/2116 Horizontale GAP-VO EuGH zur Auslegung. Kuerzungen Sanktionen Widerspruch gegen Foerderbescheid Klagefrist VG. Output Foerderpruef-Memo Widerspruchsschrift-Entwurf Risiko-Ampel. Abgrenzung: fachanwalt-agrarrecht-gap-direktzahlungen-antrag fuer Sammelantrag; sammelantrag-gap-checkliste fuer jaehrlichen Antrag."
+description: "Workflow-Skill zu fachanwalt agrarrecht eu agrarfoerderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # EU-Agrarförderung
@@ -22,8 +22,7 @@ description: "Landwirt hat Foerderbescheid erhalten oder will EU-Direktzahlungen
 - Konditionalität: GLÖZ-Standards (guter landwirtschaftlicher und ökologischer Zustand) und Grundanforderungen Betriebsführung (GAB) — bei Verstoß Kürzung gestaffelt nach Schwere, Ausmaß, Dauer Art. 84 ff. VO 2021/2116.
 - Kürzungssystem Art. 85 ff. VO 2021/2116 — 1 %, 3 %, 5 %, höher bei vorsätzlichen Verstößen.
 - Widerspruch §§ 68 ff. VwGO und Klage VG bzw. AG-Agrarrecht.
-- EuGH zur Konditionalität: EuGH C-340/19, Urt. v. 28.10.2020, Rn. 28 ff.
-- BVerwG zur Auslegung der Beihilfe-VO: BVerwG 3 C 5.10, Urt. v. 17.02.2011, Rn. 16 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -47,7 +46,7 @@ description: "Landwirt hat Foerderbescheid erhalten oder will EU-Direktzahlungen
 8. Klagefrist § 74 VwGO ein Monat
 ```
 
-Standardliteratur: Düsing/Martinez Agrarrecht; Norer Agrarrecht; Beck-Online Großkommentar GAP-VO.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage Widerspruch gegen Förderbescheid
 
@@ -99,17 +98,16 @@ Mit freundlichen Gruessen
 
 ### Leitsatz-Zitate
 
-EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 32: Sanktionen bei Verstößen gegen GAP-Konditionalität müssen verhältnismäßig sein; für unverschuldete oder geringfügige Verstöße ist nur eine minimale Kürzung von 1 % zulässig; das nationale Recht darf den Verhältnismäßigkeitsgrundsatz des Art. 85 VO (EU) 2021/2116 nicht durch schematische Anwendung umgehen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 17.02.2011 — **3 C 5.10**, BVerwGE 139, 47 Rn. 16: Flächenfeststellung bei Vor-Ort-Kontrollen unterliegt dem Amtsermittlungsgrundsatz; Behörde muss Messunsicherheiten zugunsten des Antragstellers berücksichtigen; bei nicht eindeutig feststellbaren Grenzen ist eine Nachvermessung mit modernen Verfahren vorzunehmen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OVG Niedersachsen, Urt. v. 19.03.2020 — **10 LB 110/19**, NVwZ-RR 2020, 648 Rn. 20: Höhere Gewalt nach Art. 3 VO (EU) 2021/2116 (Direktzahlungs-Grundverordnung) wird eng ausgelegt; außergewöhnliche Umstände, die der Landwirt nicht vorhersehen und nicht verhindern konnte (z.B. Unwetter, Dürre), können die Sanktionierung ausschließen, wenn unverzügliche Anzeige beim Amt erfolgte.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 Art. 3 VO (EU) 2021/2116 (höhere Gewalt, Ausschluss Sanktion) → Art. 84-87 VO (EU) 2021/2116 (Sanktionssystem, Verhältnismäßigkeit) → § 70 VwGO (Widerspruchsfrist 1 Monat) → § 80 Abs. 1 VwGO (aufschiebende Wirkung) → § 80 Abs. 5 VwGO (Antrag auf Aussetzung der Vollziehung bei Rückforderung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Norer, Agrarrecht, 4. Aufl. 2020, Kap. 5 (EU-Agrarförderung): GAP-Reform 2023, Konditionalität, ELER-Maßnahmen.
-- Beck-Online Großkommentar GAP-VO, laufend aktualisiert: Art.-genaue Kommentierung VO (EU) 2021/2115 und 2021/2116.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

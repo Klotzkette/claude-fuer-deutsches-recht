@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ### Zum Ausprobieren: Beispielakte (separat)
 
@@ -66,9 +66,9 @@ Fernwartung, Auslandsanlage, Immobilienreservierung und Maßnahmenplan.
 
 Alle Skills zitieren nach den in der deutschen Rechtspraxis üblichen Konventionen:
 
-- BGH: `BGH, Beschl. v. 15.06.2022 – XII ZB 85/22, FamRZ 2022, 1391 Rn. 12`
-- Kommentar: `Götz, in: Grüneberg, BGB, 84. Aufl. 2025, § 1863 Rn. 5`
-- Aufsatz: `Loer, FamRZ 2023, 1697 (1700 f.)`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 ## Datenschutz und Vertraulichkeit
 

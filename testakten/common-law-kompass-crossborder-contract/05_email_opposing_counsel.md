@@ -27,11 +27,11 @@ Our client maintains its position that New York law should govern the payment pr
 
 **2. Indemnification (Clause 14)**
 
-We inserted our standard US indemnity package, which includes a broad hold-harmless provision in favour of all Blue Harbor affiliates. Our client requires this coverage in light of the offshore deployment environments for the RS-900X sensors – the risk of third-party personal injury claims in the North Sea or Gulf of Mexico context is real and cannot be left uncovered. The current draft limits the indemnity to „culpable breach" (schuldhafter Verstoß), which is not adequate from a US law perspective. Please confirm whether your client is willing to accept a strict liability indemnity for product defects (mirroring the US strict liability standard under the Restatement Third of Torts), in addition to the statutory regime under the Produkthaftungsgesetz.
+We inserted our standard US indemnity package, which includes a broad hold-harmless provision in favour of all Blue Harbor affiliates. Our client requires this coverage in light of the offshore deployment environments for the RS-900X sensors – the risk of third-party personal injury claims in the North Sea or Gulf of Mexico context is real and cannot be left uncovered. The current draft limits the indemnity to "culpable breach" (schuldhafter Verstoß), which is not adequate from a US law perspective. Please confirm whether your client is willing to accept a strict liability indemnity for product defects (mirroring the US strict liability standard under the Restatement Third of Torts), in addition to the statutory regime under the Produkthaftungsgesetz.
 
 **3. Consequential Damages Waiver (Clause 15)**
 
-We note that your draft includes a carve-out for „wilful misconduct or gross negligence" from the consequential damages exclusion. Our client cannot accept this carve-out as drafted. Under New York law, consequential damages waivers are routinely enforced without such carve-outs, even in cases of gross negligence (absent intentional fraud). We appreciate that German law may impose restrictions on AGB-based exclusions, but given that we are proposing English law as the governing law, we believe a full consequential damages waiver is appropriate here.
+We note that your draft includes a carve-out for "wilful misconduct or gross negligence" from the consequential damages exclusion. Our client cannot accept this carve-out as drafted. Under New York law, consequential damages waivers are routinely enforced without such carve-outs, even in cases of gross negligence (absent intentional fraud). We appreciate that German law may impose restrictions on AGB-based exclusions, but given that we are proposing English law as the governing law, we believe a full consequential damages waiver is appropriate here.
 
 We look forward to your response and propose a call for Wednesday, 3 April, 10:00 AM London time (11:00 AM Hamburg). Please confirm availability.
 
@@ -79,7 +79,7 @@ Thank you for your letter of 25 March and for the constructive call this morning
 
 RheinMain Sensors cannot accept a split governing law arrangement involving New York law for any part of this Agreement. Our client has no legal infrastructure in the United States, and the prospect of litigating payment disputes under New York law before New York courts would be prohibitively costly. We are, however, instructed to offer the following compromise: **English law (the law of England and Wales) as the sole governing law** for the entire Agreement, including all payment provisions and the Parent Guarantee. This would address your client's concern about the enforceability of the Guarantee under a neutral legal system, while avoiding the cost and unpredictability of US litigation for our client.
 
-We propose the following revised Clause 12.1: *„This Agreement and all non-contractual obligations arising out of or in connection with it shall be governed by and construed in accordance with the law of England and Wales, excluding the CISG."* We would further ask that Clause 12 be supplemented by a specific carve-out confirming that the mandatory provisions of the German Produkthaftungsgesetz shall remain applicable irrespective of the governing law, as required by Art. 28 of Regulation (EC) No 864/2007 (Rome II).
+We propose the following revised Clause 12.1: *"This Agreement and all non-contractual obligations arising out of or in connection with it shall be governed by and construed in accordance with the law of England and Wales, excluding the CISG."* We would further ask that Clause 12 be supplemented by a specific carve-out confirming that the mandatory provisions of the German Produkthaftungsgesetz shall remain applicable irrespective of the governing law, as required by Art. 28 of Regulation (EC) No 864/2007 (Rome II).
 
 **2. Indemnification**
 
@@ -91,7 +91,7 @@ Our counter-proposal is as follows: The indemnity in Clause 14 covers (i) third-
 
 We note your client's position on the gross negligence carve-out. After further reflection, RheinMain Sensors is prepared to accept the following formulation, which we believe is consistent with both English law and the mandatory requirements of German law:
 
-> *„Neither Party shall be liable to the other Party for any indirect, consequential or incidental loss or damage (including loss of profit, loss of revenue, loss of anticipated savings or loss of data) arising out of or in connection with this Agreement, whether arising in contract, tort (including negligence) or otherwise. This exclusion shall not apply in the event of (i) fraud or wilful concealment; (ii) death or personal injury caused by a Party's negligence; or (iii) any mandatory statutory liability that cannot lawfully be excluded."*
+> *"Neither Party shall be liable to the other Party for any indirect, consequential or incidental loss or damage (including loss of profit, loss of revenue, loss of anticipated savings or loss of data) arising out of or in connection with this Agreement, whether arising in contract, tort (including negligence) or otherwise. This exclusion shall not apply in the event of (i) fraud or wilful concealment; (ii) death or personal injury caused by a Party's negligence; or (iii) any mandatory statutory liability that cannot lawfully be excluded."*
 
 This formulation tracks the standard English law carve-outs (fraud, personal injury) while omitting the gross negligence carve-out your client objects to, and includes a saving clause for mandatory statutory liability. We believe this is a fair middle ground.
 
@@ -148,7 +148,7 @@ Our client had requested the LCIA emergency arbitrator mechanism as a fallback f
 
 **Proposed Clause 13 (Agreed Text):**
 
-> *„13.1 In the event of any dispute arising out of or in connection with this Agreement (including any question regarding its existence, validity or termination), the Parties shall first attempt to resolve such dispute through good faith negotiations at senior management level for a period of thirty (30) days following written notice by either Party.*
+> *"13.1 In the event of any dispute arising out of or in connection with this Agreement (including any question regarding its existence, validity or termination), the Parties shall first attempt to resolve such dispute through good faith negotiations at senior management level for a period of thirty (30) days following written notice by either Party.*
 >
 > *13.2 If no settlement is reached pursuant to Clause 13.1, the dispute shall be finally settled by arbitration under the Rules of the German Arbitration Institute (Deutsche Institution für Schiedsgerichtsbarkeit e.V., DIS) pursuant to the DIS Arbitration Rules 2021, as amended from time to time. The arbitral tribunal shall consist of three arbitrators, each Party nominating one arbitrator and the DIS appointing the presiding arbitrator. The seat of arbitration shall be Hamburg, Federal Republic of Germany. The language of the arbitral proceedings shall be English. The law governing this arbitration agreement shall be German law.*
 >

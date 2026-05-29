@@ -1,6 +1,6 @@
 ---
 name: feststellungsklage-55-sgg
-description: "Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhaeltnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext."
+description: "Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext."
 ---
 
 # Die Feststellungsklage — § 55 SGG

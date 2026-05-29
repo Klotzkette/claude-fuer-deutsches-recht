@@ -1,10 +1,10 @@
 {
   "name": "bereicherungs-und-anfechtungsrecht-pruefer",
-  "version": "14.2.0",
-  "description": "Mechanisches Durchpruefen von Bereicherungsrecht SS 812 ff. BGB sowie Anfechtung nach AnfG und SS 129-147 InsO. Weichenstellung Rechtsgrund, Insolvenz, Vollstreckungstitel. Keine Rechtsberatung.",
+  "version": "24.2.0",
+  "description": "Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
   },
-  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  "homepage": "https://github.com/Klotzkette/claude-für-deutsches-recht"
 }

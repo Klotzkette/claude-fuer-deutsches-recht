@@ -1,13 +1,13 @@
 ---
 name: muster-arbeitszeugnis-note-1
-description: "Vollstaendiges Musterarbeitszeugnis Note 1 als Referenzdokument fuer Vergleich und Berichtigung. Anwendungsfall Anwalt oder Mandant will wissen wie ein optimales Zeugnis aussieht. Alle Bausteine in gruener Formulierung Kopfdaten Aufgabenbeschreibung Leistungsbeurteilung Verhaltensbeurteilung vollstaendige Schlussformel. Output Musterdokument mit Erlauterungen je Baustein als Referenz fuer Zeugnisberichtigungsantrag. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und verbesserungsvorschlaege-formulieren."
+description: "Vollständiges Musterarbeitszeugnis Note 1 als Referenzdokument für Vergleich und Berichtigung. Anwendungsfall Anwalt oder Mandant will wissen wie ein optimales Zeugnis aussieht. Alle Kernbausteine in grüner Formulierung: Kopfdaten, Aufgabenbeschreibung, Leistungsbeurteilung, Verhaltensbeurteilung und warme Schlussformel. Output Musterdokument mit Erläuterungen je Baustein als Referenz für Zeugnisberichtigungsantrag. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und verbesserungsvorschlaege-formulieren."
 ---
 
 # Muster-Arbeitszeugnis Note 1 (Referenzdokument)
 
 Dieses Musterzeugnis zeigt alle Bausteine eines deutschen Arbeitszeugnisses in der bestmöglichen Formulierungsvariante. Es dient als Referenz für die Bewertung realer Zeugnisse und als Vorlage für Verbesserungsvorschläge. Alle Namen und Daten sind fiktiv; die Formulierungen sind dem etablierten Geheimcode der Zeugnissprache entnommen.
 
-Das Musterzeugnis ist in Note-1-Qualität verfasst: alle Leistungsaussagen mit „stets zur vollsten Zufriedenheit", alle Verhaltensaussagen mit „stets einwandfrei", vollständige und warme Schlussformel, korrekte Reihenfolge der Personengruppen und keine Auslassungen bei relevanten Bausteinen.
+Das Musterzeugnis ist in Note-1-Qualität verfasst: alle Leistungsaussagen mit "stets zur vollsten Zufriedenheit", alle Verhaltensaussagen mit "stets einwandfrei", warme Schlussformel, korrekte Reihenfolge der Personengruppen und keine Auslassungen bei relevanten Bausteinen.
 
 ## Geheimcode-Regeln
 
@@ -15,11 +15,11 @@ Alle in diesem Muster verwendeten Formulierungen sind grün kodiert:
 
 | Satz | Ampel | Note |
 |---|---|---|
-| „stets zur vollsten Zufriedenheit" | Grün | Note 1 |
-| „hervorragende Fachkenntnisse" | Grün | Note 1 |
-| „außerordentliches Engagement" | Grün | Note 1 |
-| „stets einwandfrei" (Verhalten) | Grün | Note 1 |
-| Vollständige Schlussformel mit Bedauern | Grün | Note 1 |
+| "stets zur vollsten Zufriedenheit" | Grün | Note 1 |
+| "hervorragende Fachkenntnisse" | Grün | Note 1 |
+| "außerordentliches Engagement" | Grün | Note 1 |
+| "stets einwandfrei" (Verhalten) | Grün | Note 1 |
+| Warme Schlussformel mit Bedauern | Grün | Starkes Praxissignal |
 
 ## Beispiele
 
@@ -64,5 +64,4 @@ Der Skill gibt das Muster-Zeugnis im Fließtext aus (zur direkten Verwendung als
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

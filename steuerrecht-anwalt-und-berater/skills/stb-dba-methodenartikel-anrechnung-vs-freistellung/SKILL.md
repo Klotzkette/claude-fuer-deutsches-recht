@@ -1,6 +1,6 @@
 ---
 name: stb-dba-methodenartikel-anrechnung-vs-freistellung
-description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmethode mit § 32b EStG fuer auslaendische Einkuenfte. Subject-to-Tax-Klausel § 50d Abs. 9 EStG Switch-Over § 20 Abs. 2 AStG. Aktivitaetsklauseln Rueckfallklauseln. Output Berechnungsbeispiel JE-Anlage AUS Memo."
+description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmethode mit § 32b EStG für auslaendische Einkuenfte. Subject-to-Tax-Klausel § 50d Abs. 9 EStG Switch-Over § 20 Abs. 2 AStG. Aktivitaetsklauseln Rückfallklauseln. Output Berechnungsbeispiel JE-Anlage AUS Memo."
 ---
 
 # Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, § 34c EStG)
@@ -32,17 +32,17 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 - **§ 50d Abs. 8 EStG** — Subject-to-Tax bei Arbeitseinkuenften.
 - **§ 50d Abs. 9 EStG** — generelle Subject-to-Tax-Klausel mit Wechsel zur Anrechnung.
 - **§ 50d Abs. 10 EStG** — Klarstellung Sondervergaben Personengesellschafter.
-- **§ 20 Abs. 2 AStG** — Switch-Over bei niedrig besteuerter passiver Betriebsstaette (Steuersatz unter 25 Prozent; **konkretes Niedrigsteuer-Kriterium nach AStG-Reform 2022 in BMF verifizieren**).
+- **§ 20 Abs. 2 AStG** — Switch-Over bei niedrig besteuerter passiver Betriebsstaette (Steuersatz unter 25 Prozent; nach AStG-Reform 2022 gilt weiterhin die 25-Prozent-Niedrigsteuer-Schwelle gemaess § 8 Abs. 5 AStG n.F. — aktuellen BMF-Stand im Einzelfall pruefen).
 - **§ 7 ff. AStG** — Hinzurechnungsbesteuerung als verwandtes Instrument.
 - **§ 26 KStG** — Anrechnung im KStG-Bereich.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 27/07 zu Aktivitaetsklauseln — **Aktenzeichen verifizieren**.
-- BFH I R 90/08 zu Subject-to-Tax — **verifizieren**.
-- BVerfG 2 BvL 1/12 zum Treaty Override (§ 50d Abs. 8 EStG verfassungsgemaess) vom 15.12.2015 — **Aktenzeichen und Fundstelle in juris verifizieren**.
-- BMF-Schreiben zur Anwendung des § 34c EStG — **konkretes Datum verifizieren**.
-- BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — **Datum verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu Aktivitaetsklauseln in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Subject-to-Tax-Klauseln in juris abrufen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BMF-Schreiben zur Anwendung des § 34c EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -66,7 +66,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Viele aeltere DBA setzen fuer Freistellung Aktivitaeten voraus (z.B. produzierendes Gewerbe, Handel, Bank-/Versicherungsgeschaeft).
 - Reine Verwaltungstaetigkeiten (Holding, Vermoegensverwaltung) fallen in die Anrechnung.
-- Klauseltexte variieren stark — **DBA-Text und Protokoll konkret verifizieren**.
+- Klauseltexte variieren stark — DBA-Text und Protokoll im Einzelfall konkret pruefen.
 
 ### Subject-to-Tax-Klauseln
 
@@ -78,7 +78,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Anwendbar bei auslaendischen Betriebsstaetten.
 - Voraussetzung: passive Einkuenfte und niedrige Besteuerung.
-- AStG-Reform 2022: Niedrigsteuer-Schwelle aktualisiert (vormals 25 Prozent; **aktuelle Schwelle verifizieren**).
+- AStG-Reform 2022: Niedrigsteuer-Schwelle betraegt weiterhin 25 Prozent gemaess § 8 Abs. 5 AStG n.F. — aktuellen Anwendungserlass im Einzelfall pruefen.
 
 ## Workflow
 
@@ -149,4 +149,6 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 23A/B OECD-MA. § 32b EStG, § 34c EStG, § 34d EStG, § 50d EStG, § 20 AStG, § 26 KStG. BVerfG 2 BvL 1/12 (Treaty Override) — **Aktenzeichen und Fundstelle in juris verifizieren**. **Aktuelle BMF-Schreiben zu § 34c EStG und Niedrigsteuer-Schwelle § 20 AStG vor Uebernahme in juris/beck-online verifizieren.**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 1 belegt (BVerfG 2 BvL 1/12, 15.12.2015, BVerfGE 141, 1 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

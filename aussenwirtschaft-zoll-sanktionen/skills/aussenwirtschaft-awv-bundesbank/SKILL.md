@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-awv-bundesbank
-description: "Meldepflichten nach Aussenwirtschaftsverordnung AWV gegenueber Bundesbank fuer grenzueberschreitende Zahlungen und Beteiligungen. Anwendungsfall Unternehmen hat Zahlungen ins Ausland oder Auslandsforderungen und prueft AWV-Meldepflichten. Normen §§ 63 ff. AWV Zahlungsmeldungen § 56 AWV Auslandsforderungen BundesbankMerkblatt. Pruefraster grenzueberschreitende Zahlungen Auslandsforderungen Beteiligungen Z4/Z8/Z10-15 Freigrenzen Nachmeldung Offenlegung. Output Meldepflichtencheck mit Ergebnis Formularausfuellung und Fristen fuer Bundesbank-Meldungen. Abgrenzung zu aussenwirtschaft-bafa-genehmigungen und aussenwirtschaft-zollverfahren-bewilligungen."
+description: "Meldepflichten nach Aussenwirtschaftsverordnung AWV gegenüber Bundesbank für grenzüberschreitende Zahlungen und Beteiligungen. Anwendungsfall Unternehmen hat Zahlungen ins Ausland oder Auslandsforderungen und prüft AWV-Meldepflichten. Normen §§ 63 ff. AWV Zahlungsmeldungen § 56 AWV Auslandsforderungen BundesbankMerkblatt. Prüfraster grenzüberschreitende Zahlungen Auslandsforderungen Beteiligungen Z4/Z8/Z10-15 Freigrenzen Nachmeldung Offenlegung. Output Meldepflichtencheck mit Ergebnis Formularausfuellung und Fristen für Bundesbank-Meldungen. Abgrenzung zu aussenwirtschaft-bafa-genehmigungen und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # AWV- und Bundesbank-Meldepflichten
@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BFH, Urt. v. 16.05.2017 - VII R 5/16, BFHE 258, 119 — Zur Meldepflicht bei Zahlungen aus Derivategeschaeften; AWV-Meldepflicht gilt auch fuer Nettingzahlungen aus OTC-Derivaten, wenn der Betrag den Schwellenwert ueberschreitet.
-- BVerwG, Urt. v. 21.06.2016 - 8 C 5.15 — Bussgeldrahmen bei Verletzung von AWV-Meldepflichten; § 19 AWG setzt wissentliche oder leichtfertige Pflichtverletzung voraus.
-- OLG Frankfurt, Beschl. v. 15.03.2018 - 2 Ss-OWi 1056/17 — Keine Ordnungswidrigkeit bei vertretbarem Rechtsirrtum ueber Meldepflicht; aber: Fahrlassigkeit genuegt nicht als Entschuldigungsgrund bei wiederholter Nichtmeldung.
-- EuGH, Urt. v. 08.07.2010 - C-171/08 (Portugal/Kommission) — Kapitalverkehrsfreiheit Art. 63 AEUV und nationale Devisenmeldepflichten; Meldepflichten sind mit EU-Recht vereinbar, soweit sie nicht diskriminieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette AWV/Bundesbank
 
@@ -75,11 +72,9 @@ Kläre vor der Pruefung:
 - Art. 63-66 AEUV — Kapitalverkehrsfreiheit, Grenze nationaler Beschraenkungen
 - § 4 AWG — Investitionspruefung durch BMWi (Aussenwirtschaftsgesetz)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bundesbank, Leitfaden Zahlungsbilanzstatistik (aktuelle Fassung, bundesbank.de)
-- Wolffgang/Simonsen, AWR-Kommentar, §§ 56-68 AWV
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: AWV-Meldecheckliste
 
 **Adressat:** Treasury / Compliance — **Tonfall:** meldepflichtig-pragmatisch, fristengenau

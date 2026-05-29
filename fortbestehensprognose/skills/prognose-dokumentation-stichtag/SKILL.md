@@ -1,6 +1,6 @@
 ---
 name: prognose-dokumentation-stichtag
-description: "Abschliessende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenueber dem Geschaeftsleiter dass er aktiv geprueft hat (Haftung § 15b InsO § 43 GmbHG) und gegenueber Glaeubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung."
+description: "Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung."
 ---
 
 # Prognose-Dokumentation Stichtag
@@ -38,7 +38,7 @@ Prognosehorizont: [Monat plus zwölf Monate]
 
 1. ANLASS
 
-[Aus Skill ausloesendes-ereignis-erfassen — z. B. „Hinweis des Steuerberaters
+[Aus Skill ausloesendes-ereignis-erfassen — z. B. "Hinweis des Steuerberaters
 nach § 102 StaRUG vom [Datum] mit dem Hinweis dass die Bilanz 2025 ein
 negatives Eigenkapital von [Betrag] EUR aufweist und eine Fortbestehensprognose
 nach § 19 Abs. 2 InsO erstellt werden soll."]
@@ -105,7 +105,7 @@ Ergebnis: [POSITIV / POSITIV MIT MASSNAHMEN / NEGATIV]
 
 Begründung:
 
-[Konkrete Begründung in zwei bis fünf Sätzen. Bei „positiv mit Maßnahmen"
+[Konkrete Begründung in zwei bis fünf Sätzen. Bei "positiv mit Maßnahmen"
 explizit aufzählen welche Maßnahmen umgesetzt sein müssen.]
 
 Folge: [Keine Antragspflicht aus Überschuldung / Antragspflicht ausgeloest]
@@ -166,15 +166,12 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 - `fortbestehensprognose-<datum>.docx` und PDF mit allen Anlagen.
 - Sicherer Archivpfad: `fortbestehensprognose/protokolle/<stichtag>.zip` mit Anlagenkonvolut.
 - Wiedervorlage-Eintrag im Kalender vierteljaehrlich.
-- Bei „negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
+- Bei "negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
 
 
 ## Aktuelle Leitentscheidungen — Dokumentation der Prognose
 
-- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Dokumentationspflicht: Fortbestehensprognose muss stichtagsgenau dokumentiert sein; nachtraegliche Rekonstruktion heilt Dokumentationsluecke nicht; GF-Haftung wenn keine zeitgerechte Dokumentation vorhanden.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Prognose-Inhalt: Dokument muss Ausgangslage, Annahmen, Plausibilitaet, Liquiditaet, Szenarien und Ergebnis in strukturierter Form enthalten; IDW S 11 als Mindeststandard.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Haftungsentlastung: Geschaeftsfuehrer, der Fortbestehensprognose zeitgerecht und mit nachvollziehbaren Annahmen erstellt hat, handelt im Regelfall nicht fahrlaeissig (§ 15a InsO); Dokumentation ist Hauptbeweis.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 15b InsO Haftungsaussschluss: nachweisliche Fortbestehensprognose mit positiver Einschaetzung ermoeglicht Fortzahlen ohne Haftungsrisiko; ohne Dokumentation Haftung bei spaeterer Insolvenz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Dokumentation
 
@@ -187,8 +184,6 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 3. **Anlagen?** Alle Berechnungs-Spreadsheets, Auszuege, IDW S 11-Gutachten als Anlagen beifuegen.
 4. **Wiedervorlage?** Naechste Aktualisierung terminieren (spaetestens nach 3 Monaten oder bei wesentlichen Aenderungen).
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 11, Stand 11/2022 Rn. 75-90 — Dokumentation der Fortbestehensprognose.
-- MüKo InsO/Haarmeyer § 15a InsO Rn. 50-70 — Dokumentation als Haftungsschutz.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 4 Rn. 4.25 — Prognose-Dokumentation als GF-Pflicht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar
-description: "Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Uebernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Pruefraster WpUEG-Schwellen, Ad-hoc-Pruefung, Insiderlisten-Verwaltung, Stellungnahme Zielgesellschaft, Marktgeruecht-Reaktion. Output Compliance-Landkarte Public M&A mit Zeitplan und Meldepflichten-Uebersicht. Abgrenzung zu Regulatory-FDI-Merger-Control und zu SPA/APA-Entwurf."
+description: "Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Prüfraster WpUEG-Schwellen, Ad-hoc-Prüfung, Insiderlisten-Verwaltung, Stellungnahme Zielgesellschaft, Marktgeruecht-Reaktion. Output Compliance-Landkarte Public M&A mit Zeitplan und Meldepflichten-Übersicht. Abgrenzung zu Regulatory-FDI-Merger-Control und zu SPA/APA-Entwurf."
 ---
 
 # Public M&A, Kapitalmarkt und MAR
@@ -28,17 +28,12 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, St
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.09.2012 - II ZB 22/11, BGHZ 194, 303 — Squeeze-out: Abfindung muss dem "wahren Wert" der Beteiligung entsprechen; Ertragswert (IDW S 1) massgeblich; Boersenkurs ist Untergrenze
-- EuGH, Urt. v. 11.03.2015 - C-628/13, NJW 2015, 1716 — Insiderinformation MAR: gestreckte Vorgaenge koennen bereits im Teilstadium Insiderinformationen begründen; Vorstands-Beschlussfassung ueber eine M&A-Transaktion ist relevanter Zeitpunkt
-- BGH, Urt. v. 23.04.2013 - II ZB 7/09, NZG 2013, 785 — Spruchverfahren: Spruchgericht kann eigenen Sachverstaendigen bestellen; BaFin-Bestaetigungen sind nicht bindend; Ertragswert nach IDW S 1 gibt den Rahmen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Emittentenleitfaden, Modul C (Insiderinformation) und Modul D (Ad-hoc-Meldung), aktualisierte Fassung 2023
 
-## Kommentarliteratur
+## Quellenregel
 
-- Assmann/POetzsch/Schneider, WpUEG, §§ 10-39 Rn. 1-200 (Angebotsverfahren, Pflichtangebot)
-- MueKo AktG/Hefermehl, §§ 327a-327f Rn. 1-80 (Squeeze-out)
-- Schuster/Wackerbarth, MAR-Kommentar, Art. 7, 17, 18 Rn. 1-150
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 

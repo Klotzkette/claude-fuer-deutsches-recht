@@ -197,7 +197,7 @@ Der NKR hat den Erfüllungsaufwand geprüft. Stellungnahme [Datum] enthält:
 - KMU-Wertung erfolgt
 - Empfehlung: Veröffentlichung des Entwurfs in der Verbände-Anhörung
 
-(Siehe Anlage „nkr-stellungnahme-vorlage.md").
+(Siehe Anlage "nkr-stellungnahme-vorlage.md").
 
 ---
 

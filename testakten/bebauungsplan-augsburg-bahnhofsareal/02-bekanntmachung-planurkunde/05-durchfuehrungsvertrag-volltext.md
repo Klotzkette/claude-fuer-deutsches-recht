@@ -3,18 +3,18 @@
 **zwischen**
 
 der Stadt Augsburg, vertreten durch den Oberbürgermeister Dr. Kurt Gribl, dieser vertreten durch den Stadtbaurat Manfred Schimanek, Rathausplatz 1, 86150 Augsburg
-— im Folgenden: „Stadt" —
+— im Folgenden: "Stadt" —
 
 **und**
 
 der Bahnhofsquartier Augsburg GmbH & Co. KG, vertreten durch die Komplementär-GmbH (Bahnhofsquartier Augsburg Verwaltungs-GmbH), diese vertreten durch ihren Geschäftsführer Holger Reiff, Maximiliansplatz 12, 80333 München, eingetragen im Handelsregister des Amtsgerichts München unter HRA 134867
-— im Folgenden: „Vorhabenträger" —
+— im Folgenden: "Vorhabenträger" —
 
-— gemeinsam „die Vertragsparteien" —
+— gemeinsam "die Vertragsparteien" —
 
 **über**
 
-die Realisierung des Quartiers „Augsburg-Bahnhofsviertel West"
+die Realisierung des Quartiers "Augsburg-Bahnhofsviertel West"
 zwischen Halderstraße, Provinostraße und Bahntrasse
 
 (Durchführungs- und Erschließungsvertrag im Sinne der §§ 11, 12 BauGB)
@@ -29,11 +29,11 @@ Notarielle Ergänzung (Vorhabenbezogener Bebauungsplan): UR-Nr. 1192/2022 dessel
 
 ## Präambel
 
-(1) Die Bundesrepublik Deutschland — Deutsche Bahn AG — hat die als „Güterbahnhof Augsburg-West" bezeichneten Flächen westlich des Hauptbahnhofs Augsburg im Jahre 2020 für entbehrlich erklärt und schrittweise an die DB Immobilien GmbH zur Vermarktung übergeben. Die DB Immobilien GmbH hat die Flächen mit Notarvertrag vom 14.10.2021 (UR-Nr. 947/2021 Notar Dr. Holderbachen) an den Vorhabenträger veräußert. Der Vorhabenträger ist seit der Eintragung am 22.12.2021 Eigentümer der Flurstücke 1420/1, 1420/2, 1420/3 (Gemarkung Pfersee) sowie wirtschaftlicher Berechtigter aus Eigentums-Übertragungs-Vereinbarung für die nicht entwidmeten Flurstücke 1422/1 bis 1422/8.
+(1) Die Bundesrepublik Deutschland — Deutsche Bahn AG — hat die als "Güterbahnhof Augsburg-West" bezeichneten Flächen westlich des Hauptbahnhofs Augsburg im Jahre 2020 für entbehrlich erklärt und schrittweise an die DB Immobilien GmbH zur Vermarktung übergeben. Die DB Immobilien GmbH hat die Flächen mit Notarvertrag vom 14.10.2021 (UR-Nr. 947/2021 Notar Dr. Holderbachen) an den Vorhabenträger veräußert. Der Vorhabenträger ist seit der Eintragung am 22.12.2021 Eigentümer der Flurstücke 1420/1, 1420/2, 1420/3 (Gemarkung Pfersee) sowie wirtschaftlicher Berechtigter aus Eigentums-Übertragungs-Vereinbarung für die nicht entwidmeten Flurstücke 1422/1 bis 1422/8.
 
 (2) Die Stadt Augsburg ist Eigentümerin der ehemaligen Bahnhofs-Nebenflächen (Fl.-Nrn. 1421/1, 1421/2, 1430 bis 1437, Gemarkung Pfersee) und führt die Bauleitplanung im Sinne des § 1 BauGB.
 
-(3) Die Vertragsparteien haben sich auf eine gemeinsame Quartiers-Entwicklung verständigt. Der Vorhabenträger beabsichtigt, auf den genannten Flächen ein gemischt-genutztes Stadtquartier zu errichten („Augsburg-Bahnhofsviertel West"). Die Stadt Augsburg beabsichtigt, die hierfür erforderliche bauleitplanerische Grundlage zu schaffen.
+(3) Die Vertragsparteien haben sich auf eine gemeinsame Quartiers-Entwicklung verständigt. Der Vorhabenträger beabsichtigt, auf den genannten Flächen ein gemischt-genutztes Stadtquartier zu errichten ("Augsburg-Bahnhofsviertel West"). Die Stadt Augsburg beabsichtigt, die hierfür erforderliche bauleitplanerische Grundlage zu schaffen.
 
 (4) Dieser Vertrag regelt die Durchführungs-Verpflichtungen des Vorhabenträgers sowie die Erschließungs-Verpflichtungen für das Quartier.
 
@@ -43,7 +43,7 @@ Notarielle Ergänzung (Vorhabenbezogener Bebauungsplan): UR-Nr. 1192/2022 dessel
 
 Vertragsgegenstand ist die
 
-a) bauliche Realisierung des Stadtquartiers „Augsburg-Bahnhofsviertel West" mit einem Investitions-Volumen von rd. 620 Mio. €,
+a) bauliche Realisierung des Stadtquartiers "Augsburg-Bahnhofsviertel West" mit einem Investitions-Volumen von rd. 620 Mio. €,
 b) die hierfür erforderliche Erschließung mit Straßen, Plätzen, Grünflächen und Versorgungs-Infrastruktur,
 c) die Verzahnung mit der bauleitplanerischen Entscheidung der Stadt Augsburg.
 
@@ -69,7 +69,7 @@ h) **Tiefgaragenzufahrt MU 3** über Provinostraße.
 
 (3) Der Vorhabenträger akzeptiert, dass die Stadt Augsburg in Ausübung ihrer Bauleitplanungs-Hoheit von diesen Eckwerten abweichende Festsetzungen treffen kann. Die Vertragsparteien werden sich um Abstimmung bemühen.
 
-**[Markierung Kanzlei Brögel:** Die Aufzählung der „Eckwerte" in § 2 Abs. 2 ist erheblich konkreter als das in dieser Vertragsphase rechtlich zulässige Maß. Sie umfasst:
+**[Markierung Kanzlei Brögel:** Die Aufzählung der "Eckwerte" in § 2 Abs. 2 ist erheblich konkreter als das in dieser Vertragsphase rechtlich zulässige Maß. Sie umfasst:
 
 - Geschosszahlen und Wandhöhen bis auf den Meter,
 - Stellplatzschlüssel,
@@ -81,7 +81,7 @@ Diese **Detailtiefe in einem Vertrag vom 12.05.2022**, der VOR dem Aufstellungsb
 Insbesondere die Identität der Eckwerte hier mit den späteren tatsächlichen Festsetzungen im Satzungsbeschluss vom 23.05.2024 belegt:
 
 a) Die Stadt hat sich vor Aufstellungsbeschluss vertraglich verpflichtet — die spätere Bauleitplanung ist Ausführung dieser Verpflichtung, nicht Ergebnis einer offenen Abwägung.
-b) Die Klausel „Der Vorhabenträger akzeptiert, dass die Stadt Augsburg ... abweichende Festsetzungen treffen kann" (§ 2 Abs. 3) ist als Auffangs-Klausel zu lesen, die der Stadt vorgeschoben den Schein offener Abwägung bewahren soll.
+b) Die Klausel "Der Vorhabenträger akzeptiert, dass die Stadt Augsburg ... abweichende Festsetzungen treffen kann" (§ 2 Abs. 3) ist als Auffangs-Klausel zu lesen, die der Stadt vorgeschoben den Schein offener Abwägung bewahren soll.
 
 **Klassische Gefälligkeitsplanung. § 1 Abs. 7 BauGB. Schwerwiegender Abwägungsmangel.** **]**
 
@@ -134,7 +134,7 @@ g) **Gesamt:** ca. **380.000 €**.
 
 (2) Die Kosten sind nach Vorlage der Rechnungen direkt an die Gutachter zu zahlen oder, soweit über die Stadt Augsburg abgerechnet, an diese zu erstatten.
 
-**[Markierung Kanzlei Brögel:** Die wirtschaftliche Abhängigkeit der Gutachter vom Vorhabenträger ist ein Indiz für möglichen Gefälligkeits-Bezug. Das Schallschutzgutachten der IBA Akustik GmbH wurde durch den Vorhabenträger direkt beauftragt und vergütet (siehe Selbstoffenbarung Ziff. 1.4 des Gutachtens: „im Auftrag der Bahnhofsquartier Augsburg GmbH & Co. KG"). Dies kompromittiert die fachliche Unabhängigkeit nicht zwingend, schafft aber das Risiko, dass kritische Fragestellungen (insbesondere Tiefgarageneinfahrt Provinostraße) im Voraus vermieden werden. **]**
+**[Markierung Kanzlei Brögel:** Die wirtschaftliche Abhängigkeit der Gutachter vom Vorhabenträger ist ein Indiz für möglichen Gefälligkeits-Bezug. Das Schallschutzgutachten der IBA Akustik GmbH wurde durch den Vorhabenträger direkt beauftragt und vergütet (siehe Selbstoffenbarung Ziff. 1.4 des Gutachtens: "im Auftrag der Bahnhofsquartier Augsburg GmbH & Co. KG"). Dies kompromittiert die fachliche Unabhängigkeit nicht zwingend, schafft aber das Risiko, dass kritische Fragestellungen (insbesondere Tiefgarageneinfahrt Provinostraße) im Voraus vermieden werden. **]**
 
 ---
 
@@ -187,7 +187,7 @@ a) Übertragung der Verpflichtung auf nachfolgende Eigentümer (z.B. nach WEG-Au
 b) Vergütung des Vorhabenträgers an Carsharing-Anbieter, Verleih-Betreiber ist nicht abgesichert (nur Bereitstellung Stellplätze).
 c) Nach Verkauf der Wohneinheiten an Erwerber besteht keine vertragliche Bindung der Erwerber an die 24-Monats-AVV-Ticket-Bereitstellung. Diese ist auch nicht durch Baulast oder Dienstbarkeit dinglich gesichert.
 
-**Die behauptete „verbindliche Bereitstellung" ist tatsächlich nicht verbindlich.** Damit ist die Stellplatzreduzierung 0,3/WE nicht durch ein verbindliches Mobilitätskonzept getragen. Vgl. Art. 47 Abs. 2 S. 2 BayBO. **]**
+**Die behauptete "verbindliche Bereitstellung" ist tatsächlich nicht verbindlich.** Damit ist die Stellplatzreduzierung 0,3/WE nicht durch ein verbindliches Mobilitätskonzept getragen. Vgl. Art. 47 Abs. 2 S. 2 BayBO. **]**
 
 ---
 
@@ -197,7 +197,7 @@ c) Nach Verkauf der Wohneinheiten an Erwerber besteht keine vertragliche Bindung
 
 (2) Sollte die Entwidmung zum Zeitpunkt der Bekanntmachung des Bebauungsplans Nr. 900 noch nicht abgeschlossen sein, prüfen die Vertragsparteien Maßnahmen zur Sicherstellung. Eine Pflicht der Stadt Augsburg zur Wiederholung des Bauleitplan-Verfahrens besteht jedoch nicht.
 
-**[Markierung Kanzlei Brögel:** § 10 Abs. 2 ist juristisch grob fehlerhaft. § 38 BauGB i. V. m. BVerwG 4 C 7.04 erlaubt keine Bauleitplanerischen Festsetzungen auf nicht-entwidmeten Bahnflächen — gleich welche „Maßnahmen zur Sicherstellung" die Parteien vereinbart haben. Die in § 10 Abs. 2 enthaltene Behauptung, eine erneute Bauleitplanung sei „nicht erforderlich", ist nicht zutreffend und kann die Folge der materiellen Nichtigkeit nicht verhindern. **]**
+**[Markierung Kanzlei Brögel:** § 10 Abs. 2 ist juristisch grob fehlerhaft. § 38 BauGB i. V. m. BVerwG 4 C 7.04 erlaubt keine Bauleitplanerischen Festsetzungen auf nicht-entwidmeten Bahnflächen — gleich welche "Maßnahmen zur Sicherstellung" die Parteien vereinbart haben. Die in § 10 Abs. 2 enthaltene Behauptung, eine erneute Bauleitplanung sei "nicht erforderlich", ist nicht zutreffend und kann die Folge der materiellen Nichtigkeit nicht verhindern. **]**
 
 ---
 
@@ -240,7 +240,7 @@ Die Vertragsparteien werden eine notarielle Ergänzung dieses Vertrags vornehmen
 
 [Notarielle Ergänzung erfolgt am 18.07.2022, UR-Nr. 1192/2022 — separate Vertragsurkunde.]
 
-**[Markierung Kanzlei Brögel:** § 14 hat die Vertragsparteien an einer formalen Verzahnung mit § 12 BauGB nicht durchgeführt. Der tatsächlich erlassene Bebauungsplan Nr. 900 ist **kein vorhabenbezogener Bebauungsplan** im Sinne des § 12 BauGB (kein VEP), sondern ein „normaler" qualifizierter Bebauungsplan.
+**[Markierung Kanzlei Brögel:** § 14 hat die Vertragsparteien an einer formalen Verzahnung mit § 12 BauGB nicht durchgeführt. Der tatsächlich erlassene Bebauungsplan Nr. 900 ist **kein vorhabenbezogener Bebauungsplan** im Sinne des § 12 BauGB (kein VEP), sondern ein "normaler" qualifizierter Bebauungsplan.
 
 Damit ergibt sich ein systematisches Problem: Der Durchführungsvertrag § 12 BauGB ist nur **im Kontext eines VEP** wirksam. Außerhalb eines VEP-Verfahrens ist er nur als **städtebaulicher Vertrag § 11 BauGB** wirksam.
 

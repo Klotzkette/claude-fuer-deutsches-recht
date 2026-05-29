@@ -20,7 +20,7 @@
 
 Vermerke des Zustellers:
 
-> „Sendung mit Zustellungsurkunde. Übergabe an Herrn Jonas Mertens persönlich. Person hat sich als Adressat ausgewiesen. Unterschrift abgenommen. Keine Besonderheiten."
+> "Sendung mit Zustellungsurkunde. Übergabe an Herrn Jonas Mertens persönlich. Person hat sich als Adressat ausgewiesen. Unterschrift abgenommen. Keine Besonderheiten."
 
 ---
 

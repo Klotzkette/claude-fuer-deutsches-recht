@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-gesellschaftsrecht
-description: "Eingangs-Abfrage fuer gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gruendung Gesellschafterbeschluss Kapitalerhöhung Geschaeftsfuehrer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschaeftsfuehrer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gruendung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung)."
+description: "Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gründung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung)."
 ---
 
 # Mandat-Triage Gesellschaftsrecht
@@ -25,17 +25,11 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klaeren — Fragen 1 bi
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3239 Rn. 18 — Anwaltliche Verschwiegenheitspflicht und Interessenkonflikt: Das Verbot des § 43a Abs. 4 BRAO gilt auch bei aufeinanderfolgenden Mandaten, wenn schutzwuerdige Informationen des frueheren Mandanten betroffen sind.
-- BGH, Urt. v. 09.10.2018 – II ZR 123/17, NZG 2019, 228 Rn. 14 — Insolvenzantragspflicht des Geschaeftsfuehrers: Die Dreiwochenfrist beginnt ab Feststellung der Zahlungsunfaehigkeit oder Ueberschuldung; Verschleppung fuehrt zur persoenlichen Haftung nach § 823 Abs. 2 BGB i.V.m. § 15a InsO.
-- BGH, Urt. v. 14.07.2008 – II ZR 202/07, BGHZ 177, 295 Rn. 10 — Anfechtungsklage GmbH analog § 246 AktG: Die Monatsfrist beginnt mit der Beschlussfassung; spaetere Kenntnis des Gesellschafters verlaengert die Frist nicht.
-- BGH, Urt. v. 07.02.2012 – II ZR 230/09, NZG 2012, 427 Rn. 12 — Protokollpflicht bei Aufsichtsratsbeschluessen: Fehlendes Protokoll begruendet keine Nichtigkeit, erschwert aber Beweisfuehrung erheblich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hueffer/Koch, AktG, 16. Aufl. 2024, § 246 Rn. 5 ff. (Anfechtungsklage; Frist; Klageziele).
-- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 43 Rn. 1 ff. (Geschaeftsfuehrer-Haftung; Verjaehrung).
-- Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 64 Rn. 5 ff. (Insolvenzantragspflicht; Dreiwochenfrist).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-Closing. Triage stellt die richtige Rechtsform und den richtigen Vorgang sicher.
@@ -276,6 +270,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - InsO § 15a
 - BGB
 - BGH II. Zivilsenat
-- MueKo GmbHG / AktG
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Hueffer/Koch AktG
 - Scholz GmbHG

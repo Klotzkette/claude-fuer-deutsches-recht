@@ -29,7 +29,7 @@ Dieses Plugin strukturiert außenwirtschafts-, sanktions-, zoll-, CBAM-, Verbrau
 
 ## Quellenprotokoll
 
-Jede Ausgabe mit rechtlicher Außenwirkung enthält eine Quellenliste mit URL, Abrufdatum, Quelle, geprüfter Aussage und Unsicherheitsgrad. Wenn keine Live-Recherche möglich ist, wird ausdrücklich vermerkt: „Nicht live geprüft; Freigabe nur nach Quellenaktualisierung.“
+Jede Ausgabe mit rechtlicher Außenwirkung enthält eine Quellenliste mit URL, Abrufdatum, Quelle, geprüfter Aussage und Unsicherheitsgrad. Wenn keine Live-Recherche möglich ist, wird ausdrücklich vermerkt: "Nicht live geprüft; Freigabe nur nach Quellenaktualisierung."
 
 ## Sanktions-Trefferlog
 

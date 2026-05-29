@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehr-autonom-1d-stvg
-description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Pruefraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten."
+description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Prüfraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten."
 ---
 
 # Autonomes Fahren PKW — § 1d StVG Haftungskonzept
@@ -30,7 +30,7 @@ Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot L
 ### Leitentscheidungen
 
 - BGH-anhängig (2025/2026)
-- AG Bautzen, Urt. v. 5.3.2024 — 21 C 256/23 (Level-2-Mode Haftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Drei-Stufen-Haftungsanalyse
 
@@ -114,13 +114,11 @@ Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot L
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 1d StVG seit 2021. EU-VO 2019/2144. Bei BGH-Linie aktualisieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung Autonomes Fahren
 
-- OLG Muenchen, Urt. v. 17.10.2023 - 24 U 238/22, NZV 2024, 84 — Level-2-Assistenzsystem: Fahrer ist bei aktiviertem Fahrassistenzsystem nicht von seiner Fahrerpflicht nach § 18 StVG entbunden; ein Sekundenversagen bei Systemwarnung geht zu Lasten des Fahrers.
-- AG Stuttgart, Urt. v. 22.06.2022 - 15 C 3049/21, NZV 2022, 584 — Datensicherungspflicht nach § 1g StVG: Hersteller muss Fahrdaten auf Anforderung zur Verfuegung stellen; Weigerung begruendet Beweisvereitelung und Beweislastumkehr zulasten des Herstellers.
-- EuGH, Urt. v. 10.05.2023 - C-100/21, NJW 2023, 2399 — Produkthaftung bei Softwarefehler: Software-Update das zu einem Fahrzeugdefekt fuehrt, kann Produktfehler nach § 3 ProdHaftG darstellen; Hersteller kann sich nicht auf nachtraeglichen technischen Fortschritt berufen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- BGH VI ZR 12/24 entfernt: tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128); kein Bezug zu autonomem Fahren (27.05.2026) -->
 
 ## Normen Autonomes Fahren
@@ -133,6 +131,6 @@ Stand: 05/2026. § 1d StVG seit 2021. EU-VO 2019/2144. Bei BGH-Linie aktualisier
 - VO (EU) 2019/2144 — allgemeine Fahrzeugsicherheitsverordnung (ALKS, Notbremssysteme)
 
 <!-- AUDIT 27.05.2026
-OLG Muenchen 24 U 1234/23: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 BGH VI ZR 12/24: WRONG_TOPIC; tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128), kein Bezug zu autonomem Fahren; Eintrag geloescht.
 -->

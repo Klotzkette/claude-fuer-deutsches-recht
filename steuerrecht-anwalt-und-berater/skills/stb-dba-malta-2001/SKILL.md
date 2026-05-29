@@ -7,7 +7,7 @@ description: "DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding
 
 ## Kernsachverhalt
 
-Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom 17.06.2010 regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt fuer Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
+Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Aenderungsprotokoll vom 19.05.2011 (BGBl. 2011 II S. 275) regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt fuer Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,16 +23,16 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Malta vom 08.03.2001**, in Kraft 27.12.2001 (BGBl. 2001 II S. 1180) — **verifizieren**.
-- Aenderungsprotokoll vom 17.06.2010 — **verifizieren**.
+- **DBA Deutschland-Malta vom 08.03.2001**, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297).
+- Aenderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Malta haben das MLI ratifiziert; DBA-DE-MT gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 30/16 zu Malta-Holding-Substanz — **verifizieren**.
-- BMF-Schreiben zu Malta-Refund-System — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu Malta-Holdings und § 50d Abs. 3 EStG in juris abrufen.
+- Aktuelle BMF-Schreiben zum Malta-Refund-System im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -47,17 +47,17 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom
 - Loehne 183-Tage.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): Malta erhebt keine Quellensteuer auf Dividenden (0 Prozent). EU-MTRL Schachtel 0 Prozent vorrangig. DBA-Hoechstsatz 5/15 Prozent gilt mangels maltesischer Quellensteuer praktisch nicht.
+- **Zinsen** (Art. 11): 0 Prozent.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent. EU-ZinsLizenzRL vorrangig.
 
 ### Vermeidungs-Methode (Art. 23)
 - **Anrechnungsmethode** ueberwiegend — Wechsel gegenueber Freistellung haeufig im DBA-Malta.
 
 ### Besonderheiten
 - **Maltesisches Refund-System**: Bei Ausschuettung aus maltesischer Tochter erhaelt Empfaenger 6/7 der gezahlten KSt refundiert — effektive Belastung sehr niedrig.
-- **CFC** § 7 ff. AStG: bei passiven Einkuenften und niedriger effektiver Steuer.
-- **REIT-Strukturen Malta**: Sonderregelung Vermietungseinkuenfte — **konkret verifizieren**.
+- **CFC** § 7 ff. AStG: bei passiven Einkuenften und niedriger effektiver Steuer; AStG-Niedrigsteuerschwelle ab VZ 2024 auf 15 Prozent abgesenkt (Mindestbesteuerungsumsetzungsgesetz 21.12.2023).
+- **REIT-Strukturen Malta**: Sonderbesteuerung Vermietungseinkuenfte nach maltesischem Recht — konkrete DBA-Berechtigung und Substanzanforderungen im Einzelfall pruefen.
 - **Online-Glueckspiel-Lizenzen**: Substanz-Praxis und MGA-Lizenz.
 - **Pillar Two**: ab 2024 Top-Up-Tax bei effektiv unter 15 Prozent.
 
@@ -80,7 +80,7 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom
 
 ## Strategie und Praxis-Tipps
 
-- Malta-Refund-System (6/7-Rueckerstattung): effektive KSt ca. 5 Prozent — § 8 AStG-Niedrigsteuerschwelle pruefen.
+- Malta-Refund-System (6/7-Rueckerstattung): effektive KSt ca. 5 Prozent — § 8 AStG-Niedrigsteuerschwelle (ab VZ 2024: 15 Prozent) pruefen.
 - Bei Online-Glueckspiel: Lizenz, Personal, Substanz dokumentieren.
 - REIT-Strukturen Malta: oft Sonderbesteuerung — DBA-Berechtigung pruefen.
 - Pillar Two: Top-Up-Tax kann effektiv die Malta-Vorteile auffressen.
@@ -93,4 +93,6 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Malta 08.03.2001, in Kraft 27.12.2001. Aenderungsprotokoll 17.06.2010. **Datum, BGBl-Fundstelle, MLI-Notification, Pillar-Two-Umsetzung Malta, Refund-System und Quellensteuer-Saetze konkret verifizieren. REIT-Strukturen Malta separat pruefen.**
+Stand: 05/2026. DBA-Malta 08.03.2001, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297). Aenderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

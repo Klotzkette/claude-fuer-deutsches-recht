@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung
-description: "Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde loesen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Pruefraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-pruefen (Klageroute) und schriftsatzkern-substantiierung (Klage)."
+description: "Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-prüfen (Klageroute) und schriftsatzkern-substantiierung (Klage)."
 ---
 
 # Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
@@ -81,7 +81,7 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 - **Ombudsmann zuerst**: kostengünstig, oft Vergleichsdruck auf Bank
 - **BaFin parallel**: bei systematischen Verstößen (Beratungsfehler, MiFID-Pflichten)
 - **Beweislast-Erleichterungen** § 280 BGB i.V.m. WpHG-Beratungspflichten dokumentieren
-- **Frist-Disziplin**: 3-Jahres-Verjährung § 195 BGB; bei Anlage typisch ab Schadenseintritt (BGH XI ZR 386/13)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **MiFID-Beratungsdokumentation** rügen: Bank muss vollständig dokumentieren
 
 ## Querverweise
@@ -98,10 +98,7 @@ Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-
 
 ### Leitsaetze zum Ombudsmann und ADR-Verfahren
 
-- BGH, Urt. v. 07.11.2017 - XI ZR 369/16, NJW 2018, 456 Rn. 18 — Ombudsmann-Verfahren hemmt die Verjaebrung fuer den betreffenden Anspruch nach § 204 Abs. 1 Nr. 4 BGB analog (staatlich anerkannte Guetstelle); Hemmung dauert bis Entscheidung oder Abbruch plus 3 Monate.
-- BGH, Urt. v. 22.02.2022 - XI ZR 159/21, NJW 2022, 1234 Rn. 24 — BaFin-Beschwerde nach § 4b FinDAG loest keine Verjaebrungshemmung aus; nur gerichtliche oder Schiedsverfahren hemmen nach § 204 BGB.
-- EuGH, Urt. v. 14.06.2017 - C-422/15, NJW 2017, 2867 — ADR-Richtlinie 2013/11/EU verlangt von Mitgliedstaaten zugaengliche und wirksame Schlichtungsstellen fuer Verbraucher; Bank kann sich nicht auf Unzustaendigkeit berufen wenn Schlichtungsstelle benannt.
-- BGH, Urt. v. 01.10.2020 - III ZR 60/19, NJW 2021, 153 Rn. 18 — Guetstellen-Hemmung nach § 204 Abs. 1 Nr. 4 BGB erfordert hinreichende Individualisierung des geltend gemachten Anspruchs im Guesteantrag; ein unzureichend bestimmter Guesteantrag hemmt die Verjaebrung nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette ADR-Schlichtung
 - § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
@@ -111,11 +108,9 @@ Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-
 - § 278a ZPO — Gerichtliche Mediation als prozessuale Ergaenzung
 - §§ 32a-32e KapMuG — Kapitalanleger-Musterverfahren bei Serienstreitigkeiten
 
-### Kommentarliteratur
-- Assmann/Schneider/Muelbert WpHG §§ 86-91 (Schlichtungsverfahren)
-- Palandt/Grueneberg § 204 BGB (Verjaebrungshemmung Guetestelle)
-- Schwab VSBG (Kommentar zum Verbraucherstreitbeilegungsgesetz)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Triage ADR-Verfahren
 
 Bevor losgelegt wird, klaere:

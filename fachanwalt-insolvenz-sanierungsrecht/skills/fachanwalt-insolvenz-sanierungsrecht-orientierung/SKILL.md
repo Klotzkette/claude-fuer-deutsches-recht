@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-orientierung
-description: "Orientierung im Insolvenz- und Sanierungsrecht fuer Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltspruefung vor. Normen §§ 17-19 InsO Eroeffnungsgruende § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Pruefraster Eroeffnungsgruende Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen Standardliteratur. Output Rechtsgebietsuebersicht mit Normenkarte Standardliteratur und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
+description: "Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenkarte verifizierbare Quellen und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
 ---
 
 # Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
@@ -36,7 +36,7 @@ description: "Orientierung im Insolvenz- und Sanierungsrecht fuer Mandate und Fa
 
 ## Eröffnungsgründe (kurz)
 
-- **Zahlungsunfähigkeit:** § 17 InsO; BGH-Linie zur Zehn-Prozent-Schwelle (BGH, Urt. v. 24.05.2005 – Az. IX ZR 123/04, BGHZ 163, 134 Rn. 14, 23).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Drohende Zahlungsunfähigkeit:** § 18 InsO; nur Schuldner kann darauf stützen.
 - **Überschuldung:** § 19 InsO — modifizierter zweistufiger Überschuldungsbegriff mit positiver Fortbestehensprognose.
 
@@ -54,16 +54,9 @@ description: "Orientierung im Insolvenz- und Sanierungsrecht fuer Mandate und Fa
 - BGH IX. Zivilsenat — Insolvenz, Insolvenzanfechtung.
 - EuGH bei EuInsVO-Fragen.
 
-## Standardliteratur
+## Quellenregel
 
-- Münchener Kommentar zur InsO (MüKoInsO, Beck) — Großkommentar.
-- Uhlenbruck, InsO (Vahlen) — Großkommentar.
-- K. Schmidt, InsO (Beck).
-- Kayser/Thole, Heidelberger Kommentar zur InsO (C. F. Müller).
-- Braun, InsO (Beck).
-- Bork, Einführung in das Insolvenzrecht (Mohr Siebeck, Lehrbuch).
-- Schmidt/Uhlenbruck, Die GmbH in Krise, Sanierung und Insolvenz (Otto Schmidt).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Insolvenzrecht und Sanierung im DAV.
@@ -75,7 +68,6 @@ description: "Orientierung im Insolvenz- und Sanierungsrecht fuer Mandate und Fa
 - **`steuerrecht-anwalt-und-berater`** für Steuerforderungen in der Insolvenz und § 75 AO.
 - **`fachanwalt-arbeitsrecht`** bei §§ 113, 125 ff. InsO und Insolvenzgeld.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 15b InsO (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021).
-
 
 ## Triage — Erste Einordnung des Mandats
 
@@ -89,21 +81,14 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen des BGH IX. Zivilsenats
 
-- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 Rn. 14 ff. — Zahlungsunfaehigkeit § 17 InsO: 10%-Liquiditaetslueeke indiziert ZU wenn keine Beseitigung innerhab von 3 Wochen absehbar; Stundungsvereinbarungen und ernsthaft angebotene Darlehen heilen ZU.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 S. 1 InsO: modifizierter zweistufiger Ueberschuldungsbegriff; erste Stufe Reinvermoegen negativ, zweite Stufe positive Prognose heilt Ueberschuldung; Prognosehorizont mindestens 12 Monate.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO nach SanInsFoG-Reform 01.01.2021: blosse Kenntnis drohender Zahlungsunfaehigkeit kein Beweisanzeichen fuer Benachteiligungsvorsatz mehr; konkrete Bedrohungslage im Zeitpunkt der Rechtshandlung erforderlich.
-- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — Insolvenzplan § 245 InsO: Obstruktionsverbot bei Versagen einer Klasse; Best-Interest-Test (kein Glaeubiger darf schlechter stehen als in Liquidation) als Massstab fuer gerichtliche Bestaetigung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur (Primaerquellen Insolvenzrecht)
+## Quellenregel
 
-- MüKo InsO (Muenchener Kommentar zur Insolvenzordnung), 4. Aufl. 2019 ff., Beck — massgeblich zu §§ 17-19 InsO, §§ 129 ff. InsO, §§ 217 ff. InsO.
-- Uhlenbruck, InsO, 15. Aufl. 2019, Vahlen — praxisnah, Standardkommentar fuer Anfechtung und Eigenverwaltung.
-- K. Schmidt/Uhlenbruck, Die GmbH in Krise, Sanierung und Insolvenz, 5. Aufl. 2016, Otto Schmidt — unverzichtbar fuer Geschaeftsfuehrerhaftung und GmbH-Insolvenz.
-- Jaeger, InsO, De Gruyter — wissenschaftlicher Grosskommentar zu Anfechtungsrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Workflow — Ersteinschätzung in 5 Schritten
 
-1. **Eröffnungsgrund bestimmen:** Liquiditaetsstatus 3-Wochen-Forecast erstellen (direkte Methode); ZU-Test 10%-Schwelle BGH IX ZR 123/04; Ueberschuldungs-Status Bilanziell plus Fortbestehensprognose.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Pfad waehlen:** Entscheidungsbaum: [ZU vorhanden?] → Ja: Eigenantrag + Eigenverwaltung/Schutzschirm moeglich → Nein: StaRUG wenn drohende ZU.
 3. **Antragspflicht pruefen:** Geschaeftsfuehrung/Vorstand beraten, Haftungsrisiko § 15b InsO dokumentieren, ggf. Antrag unmittelbar vorbereiten.
 4. **Sofortmassnahmen:** Insolvenzgeld § 165 SGB III sichern (3-Monats-Vorlaufprinzip); Sicherungsantrag § 21 InsO stellen falls Vermoegen gefaehrdet; Betriebsfortfuehrung finanzieren.

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-liquiditaetsvorschau
-description: "Freistehende Liquiditaetsvorschau fuer Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfaehigkeits-Uebersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO Zahlungsunfaehigkeit, § 19 InsO Ueberschuldung, § 1 StaRUG Sanierung. Pruefraster 3-Wochen-Liquiditaet, 13-Wochen-Cash-Bridge, Runway-Berechnung, OPOS offene Posten, Bankdaten Kreditlinien Insolvenzschwellen. Output Liquiditaetsplan mit Zeitreihe Ampelstatus und Handlungsempfehlungen. Abgrenzung zu Insolvenzreife-Skill fuer Antragspflicht-Pruefung und zu Fortbestehensprognose-Plugin."
+description: "Freistehende Liquiditaetsvorschau für Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfähigkeits-Übersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO Zahlungsunfähigkeit, § 19 InsO Überschuldung, § 1 StaRUG Sanierung. Prüfraster 3-Wochen-Liquiditaet, 13-Wochen-Cash-Bridge, Runway-Berechnung, OPOS offene Posten, Bankdaten Kreditlinien Insolvenzschwellen. Output Liquiditaetsplan mit Zeitreihe Ampelstatus und Handlungsempfehlungen. Abgrenzung zu Insolvenzreife-Skill für Antragspflicht-Prüfung und zu Fortbestehensprognose-Plugin."
 ---
 
 # Freistehende Liquiditätsvorschau
@@ -39,11 +39,9 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 277/16 | 19.06.2018 | Zahlungsunfähigkeit beginnt bei Liquiditätslücke > 10 %; Geschäftsführer muss Liquiditätsstatus laufend überwachen; Unwissenheit schützt nicht |
-| BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose für § 19 InsO: überwiegende Wahrscheinlichkeit des Fortbestehens; Prognose muss auf plausiblen Annahmen beruhen |
-| BGH | II ZR 252/13 | 14.10.2014 | § 15b InsO-Vorgänger: Geschäftsführer haftet für nach Eintritt Insolvenzreife geleistete Zahlungen; Sorgfaltsmaßstab erhöht |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | IDW S 11 | — | 2022 | IDW-Standard zur Beurteilung des Vorliegens von Insolvenzeröffnungsgründen; Methodik Liquiditätsstatus und Fortbestehensprognose |
-| OLG München | 7 U 2345/20 | 14.04.2021 | Cash Pools: Konzerninterne Verrechnungen sind nicht als freie Liquidität anzusetzen, wenn Rückforderungsrecht des Mutterunternehmens besteht |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Liquiditätsvorschau
 
@@ -90,10 +88,10 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 
 | Argument | Erwiderung |
 |---|---|
-| Liquiditätslücke ist nur vorübergehend | Mehr als 3 Wochen andauernde Lücke > 10 % begründet nach BGH II ZR 277/16 Zahlungsunfähigkeit; keine Ausnahme für Saisonschwankungen ohne konkrete Abhilfemaßnahmen |
-| Cash Pool ist verfügbar | OLG München 7 U 2345/20: Cash Pool-Guthaben nur ansetzen, wenn kein Rückforderungsrecht des Poolführers besteht und Rückzahlung nicht kurzfristig gefordert wird |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Forecast zeigt Erholung in 6 Monaten | Für § 17 InsO zählt nur aktuelle Fälligkeit; Erholung in der Zukunft ändert nichts an gegenwärtiger Zahlungsunfähigkeit |
-| Geschäftsführer hatte keinen Überblick | Keine Entlastung: Pflicht zur Liquiditätsüberwachung ist organschaftliche Kermpflicht (BGH II ZR 277/16) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -199,13 +197,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 19.06.2018, Az. II ZR 277/16 (Zahlungsunfähigkeit, 10 %-Schwelle)
-- BGH, Urt. v. 19.12.2013, Az. IX ZR 61/12 (Fortbestehensprognose)
-- BGH, Urt. v. 14.10.2014, Az. II ZR 252/13 (Masseschmälernde Zahlungen)
-- OLG München, Urt. v. 14.04.2021, Az. 7 U 2345/20 (Cash Pool)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 (2022): Beurteilung des Vorliegens von Insolvenzeröffnungsgründen
 - §§ 17, 18, 19, 15a, 15b InsO; §§ 91, 91a AktG; § 43 GmbHG; § 321a HGB
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 22.10.2020 - IX ZR 208/17, NJW 2021, 538 — Liquiditaetsplanung und Insolvenzreife: Geschaeftsfuehrer muss eine 13-Wochen-Liquiditaetsplanung fuehren; Fehleinschaetzungen koennen § 15b InsO-Haftung ausloesen; Liquiditaetsplanung muss belastbar und dokumentiert sein
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

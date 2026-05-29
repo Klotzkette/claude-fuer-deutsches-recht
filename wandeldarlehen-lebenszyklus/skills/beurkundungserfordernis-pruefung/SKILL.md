@@ -1,6 +1,6 @@
 ---
 name: beurkundungserfordernis-pruefung
-description: "Beurkundungserfordernis fuer Wandeldarlehen und Kapitalerhohung pruefen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Pruefraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formpruefungs-Memo mit Empfehlung. Abgrenzung: nicht fuer Textform-Fragen (textform-vs-schriftform-vs-notariell)."
+description: "Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell)."
 ---
 
 # Beurkundungserfordernis-Prüfung
@@ -29,9 +29,7 @@ Dieser Skill klärt, ob der Wandeldarlehensvertrag der notariellen Beurkundung b
 - § 311 Abs. 1 BGB (Schuldrechtliche Verpflichtung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. April 1978 – II ZR 172/76 (Formpflicht Anteilsabtretung)
-- BGH, Urt. v. 27. September 2010 – II ZR 256/08 (Zwei-Stufen-Modell Wandeldarlehen: schuldrechtliche Ebene nicht beurkundungspflichtig, dingliche Ebene bei Kapitalerhöhung beurkundungspflichtig)
-- OLG München, Beschl. v. 10. März 2016 – 31 Wx 79/16 (zweistufige Wandlung durch Kapitalerhöhung: Wandeldarlehensvertrag selbst nicht beurkundungsbedürftig)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -48,7 +46,7 @@ Alle Dokumente prüfen: Term Sheet, Gesellschaftervertrag, Investorenvereinbarun
 § 9.3 Standard: Falls entgegen Annahme Beurkundungspflicht entsteht, verpflichten sich Parteien zur unverzüglichen notariellen Beurkundung. Kosten trägt die Gesellschaft. Bis zur Beurkundung wirtschaftliche Gleichstellung (§ 9.4).
 
 ### 5. Ergebnis dokumentieren
-Schriftliches Memo: Beurkundungserfordernis ja/nein. Falls nein: Begründung (zweistufige Konstruktion, OLG München 31 Wx 79/16). Falls ja: Notar beauftragen, Beglaubigungskosten planen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 6. Trennungsprinzip sicherstellen
 Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierungen im Wandeldarlehensvertrag, die einen Direkterwerb bestehender Anteile ohne Kapitalerhöhung vorsehen.
@@ -85,10 +83,10 @@ Seit DiRUG (1.8.2022) ist Online-Beurkundung der GmbH-Gründung möglich (§ 2 A
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 27.09.2010 — **II ZR 256/08**, BGHZ 182, 272: Beim zweistufigen Wandeldarlehen (schuldrechtliche Verpflichtung zur künftigen Kapitalerhöhung) bedarf der Wandeldarlehensvertrag selbst keiner notariellen Beurkundung nach § 15 Abs. 3 GmbHG; die Beurkundungspflicht tritt erst auf der Verfügungsebene (Kapitalerhöhungsbeschluss nach § 53 Abs. 2 GmbHG, Übernahmeerklärung nach § 55 Abs. 1 GmbHG) ein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543: Die Wandlung durch Kapitalerhöhung und Ausgabe neuer Anteile (zweistufige Konstruktion) begründet kein Beurkundungserfordernis für den vorgelagerten schuldrechtlichen Wandeldarlehensvertrag; der Formzwang des § 15 Abs. 3 GmbHG erfasst nur Verpflichtungen zur Übertragung bereits bestehender Anteile.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. Leitentscheidungen: OLG München 31 Wx 79/16, BGH II ZR 256/08. Stand DiRUG-Reform (2022) und Erweiterung auf Kapitalerhöhungen (1.8.2023) berücksichtigt. Bei Änderung GmbHG § 15 / § 2 III / BeurkG § 16a aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

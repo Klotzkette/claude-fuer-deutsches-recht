@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-streitwertgrenze-23-nr-2-gvg
-description: "Sonderzustaendigkeiten des Amtsgerichts unabhaengig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG."
+description: "Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG."
 ---
 
 # Wann ist das Amtsgericht **immer** zustaendig (egal wie hoch der Streitwert)?
@@ -47,7 +47,7 @@ Typische Fragen:
 - Kuendigung wegen Eigenbedarf? → AG.
 - Mieterhoehungs-Klage? → AG.
 - Schadensersatz wegen Mietsach-Beschaedigung 12.000 EUR? → AG.
-- Gewerbemiete 12.000 EUR? → LG (§ 23 Nr. 1 GVG-Wert oberhalb der historischen Grenze).
+- Gewerbemiete 12.000 EUR? → regelmäßig LG, weil über der aktuellen § 23 Nr. 1 GVG-Grenze von 10.000 EUR.
 
 ### Schritt 2 — Reisevertrag?
 

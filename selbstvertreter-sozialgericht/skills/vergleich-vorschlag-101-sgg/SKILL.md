@@ -1,6 +1,6 @@
 ---
 name: vergleich-vorschlag-101-sgg
-description: "Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps fuer Buerger im Termin."
+description: "Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin."
 ---
 
 # Der Vergleich im SG-Verfahren — § 101 SGG

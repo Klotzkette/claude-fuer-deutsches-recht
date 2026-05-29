@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich
-description: "Handelsvertreterausgleich § 89b HGB: drei kumulative Voraussetzungen (Unternehmervorteile, Provisionsverluste, Billigkeit). Höchstgrenze Durchschnitt 5-Jahres-Vergütung § 89b Abs. 2 HGB. Ausschlussgründe § 89b Abs. 3 HGB (Eigenkündigung ohne wichtigen Grund). Jahresfrist § 89b Abs. 4 HGB. Verzicht im Voraus unwirksam. Berechnung Münchener Modell (Abwanderungsquote, Abzinsung, Billigkeit). Analoge Anwendung auf Vertragshändler/Franchisenehmer (BGH VIII ZR 249/08). EuGH-Rechtsprechung Semen C-348/07. Schriftsatzvorlagen Geltendmachung und Klage."
+description: "Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -34,13 +34,7 @@ description: "Handelsvertreterausgleich § 89b HGB: drei kumulative Voraussetzun
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | VIII ZR 25/08 | 13.01.2010 | Sogwirkung starker Marke mindert Ausgleich; konkreter Nachweis der Sogwirkungsstärke erforderlich |
-| BGH | VIII ZR 209/07 | 06.10.2010 | Europarechtskonform: Münchener Modell grundsätzlich zulässig; EuGH-Vorgaben zu Provisionsverlust beachten |
-| EuGH | C-348/07 | 26.03.2009 | Semen/Deutsche Tamoil: Billigkeitsabwägung darf Provisionsverluste nicht allein durch Marken-Sogwirkung kappen; Provisionsverluste sind unverzichtbare Untergrenze |
-| BGH | VIII ZR 249/08 | 11.11.2009 | Vertragshändler: § 89b HGB analog, wenn Eingliederung in Absatzorganisation + Pflicht zur Kundenstammübertragung bei Vertragsende |
-| BGH | VIII ZR 203/10 | 23.11.2011 | Sogwirkung und Markenstärke im Billigkeitsrahmen; keine pauschale Kürzung ohne Marktanalyse |
-| BGH | VIII ZR 13/16 | 07.02.2018 | Jahresfrist § 89b Abs. 4: Geltendmachung kann durch Anwalt erfolgen; konkludente Geltendmachung reicht nicht |
-| OLG Hamburg | 9 U 4/19 | 15.01.2020 | Franchisenehmer und § 89b HGB analog: Kundenstammübertragung als entscheidendes Kriterium |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Berechnungsschema Münchener Modell
 
@@ -236,12 +230,12 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Eigenkündigung des HV — § 89b Abs. 3 Nr. 1 HGB" | Unternehmer | Nachweis wichtiger Grund (unzumutbares Verhalten des Unternehmers); oder Alter/Krankheit des HV |
-| „Keine Neukunden geworben — nur Bestandspflege" | Unternehmer | Provisionsabrechnungen detailliert aufschlüsseln; Anteil Neukunden- vs. Bestandsprovisionen |
-| „Starke Marken-Sogwirkung reduziert Billigkeit auf null" | Unternehmer | EuGH Semen C-348/07: Provisionsverluste dürfen nicht unter die Mindestgrenze gedrückt werden |
-| „Jahresfrist versäumt" | Unternehmer | Fristenwahrung durch anwaltliches Schreiben belegen; Datum des Poststempels |
-| „Kein Handelsvertreter sondern Arbeitnehmer" | Unternehmer | Selbständigkeit nach § 84 HGB: kein Weisungsrecht des Unternehmers über Arbeitszeit und -ort; Beweise für unternehmerische Freiheit |
-| „Vertragshändler hat keinen § 89b HGB-Anspruch" | Unternehmer | BGH VIII ZR 249/08: Analoge Anwendung bei Eingliederung in Absatzorganisation + Kundenstammübertragungspflicht |
+| "Eigenkündigung des HV — § 89b Abs. 3 Nr. 1 HGB" | Unternehmer | Nachweis wichtiger Grund (unzumutbares Verhalten des Unternehmers); oder Alter/Krankheit des HV |
+| "Keine Neukunden geworben — nur Bestandspflege" | Unternehmer | Provisionsabrechnungen detailliert aufschlüsseln; Anteil Neukunden- vs. Bestandsprovisionen |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| "Jahresfrist versäumt" | Unternehmer | Fristenwahrung durch anwaltliches Schreiben belegen; Datum des Poststempels |
+| "Kein Handelsvertreter sondern Arbeitnehmer" | Unternehmer | Selbständigkeit nach § 84 HGB: kein Weisungsrecht des Unternehmers über Arbeitszeit und -ort; Beweise für unternehmerische Freiheit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -262,7 +256,7 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 | Jahresfrist droht zu verstreichen | Sofort Geltendmachungsschreiben mit vorläufiger Berechnung | § 89b Abs. 4: Frist ist materiell-rechtlich; Versäumnis = endgültiger Verlust |
 | Unternehmer verweigert Provisionsauskünfte | Auskunftsklage vorbereiten; § 87c HGB Provisionsauskunftspflicht | Ohne Zahlen keine Hauptsacheklage bezifferbar |
 | Starke Marke des Unternehmers | EuGH Semen einsetzen; Provisionsverluste als Mindestuntergrenze verteidigen | Reine Billigkeitskürzung unzulässig |
-| Vertragshändler oder Franchisenehmer | § 89b HGB analog prüfen: Eingliederung und Kundenstammübertragung nachweisen | BGH VIII ZR 249/08 als Argument |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 

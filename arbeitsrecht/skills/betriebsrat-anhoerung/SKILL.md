@@ -34,24 +34,20 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
 ### Leitentscheidungen (BGH-Stil)
 
 - **Inhalt der Anhörungsmitteilung / subjektive Determinierung:**
-  BAG, Urt. v. 23.06.2009 – 2 AZR 474/07, NZA 2009, 1136 Rn. 22 ff.: Der Arbeitgeber muss dem Betriebsrat diejenigen Gründe mitteilen, auf die er die Kündigung stützt; eine subjektiv vollständige Mitteilung genügt – der Arbeitgeber muss dem BR nicht mehr mitteilen als das, was ihm selbst bekannt ist. Unvollständige oder fehlerhafte Angaben zu Sozialdaten können zur Unwirksamkeit der Kündigung führen, wenn sie bewusst erfolgen oder objektiv wesentlich sind.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Fristbeginn / Vollständigkeit der Unterlagen:**
-  BAG, Urt. v. 16.07.2015 – 2 AZR 15/15, NZA 2016, 99 Rn. 15 ff.: Die Wochenfrist des § 102 Abs. 2 Satz 1 BetrVG beginnt erst, wenn dem Betriebsrat alle zur Beurteilung der Kündigung wesentlichen Informationen vorliegen; eine unvollständige Anhörung setzt die Frist nicht in Lauf.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Widerspruch des BR / Weiterbeschäftigung:**
-  BAG, Urt. v. 24.06.2004 – 2 AZR 461/03, NZA 2005, 41 Rn. 20: Der Weiterbeschäftigungsanspruch nach § 102 Abs. 5 Satz 1 BetrVG setzt voraus, dass der Arbeitnehmer Kündigungsschutzklage erhoben hat und der BR form- und fristgerecht widersprochen hat; der Arbeitgeber kann nach § 102 Abs. 5 Satz 2 BetrVG beim Arbeitsgericht beantragen, von der Weiterbeschäftigungspflicht entbunden zu werden.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Nachschieben von Kündigungsgründen:**
-  BAG, Urt. v. 11.04.1985 – 2 AZR 239/84, BAGE 48, 320 Rn. 18: Das Nachschieben von Kündigungsgründen ist nur zulässig, wenn der BR auch zu diesen Gründen angehört wurde; nicht mitgeteilte Gründe sind im Prozess unbeachtlich.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Fitting, in: Fitting, BetrVG, 32. Aufl. 2024, § 102 Rn. 1 ff. (Anhörungspflicht, Inhalt, Fristen), Rn. 58 ff. (Widerspruchsrecht, Weiterbeschäftigung).
-- Richardi, in: Richardi, BetrVG, 17. Aufl. 2022, § 102 Rn. 1 ff. (subjektive Determinierung, Sozialdaten, Vollständigkeit), Rn. 95 ff. (Sanktionsfolge des § 102 Abs. 1 Satz 3 BetrVG).
-- Preis, in: ErfK, 25. Aufl. 2025, § 102 BetrVG Rn. 1 ff. (Überblick, Verhältnis KSchG / BetrVG, Abgrenzung Anhörungsfehler).
-- Kiel, in: APS, Kündigungsrecht, 6. Aufl. 2021, § 102 BetrVG Rn. 1 ff. (Inhalt der Mitteilung, Fristablauf, Widerspruchsgründe).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 – Prüfung: Betriebsrat vorhanden?
@@ -74,13 +70,13 @@ Das Anhörungsschreiben muss folgende Angaben enthalten:
 | **Vorherige Abmahnungen** | (bei verhaltensbedingter Kündigung) Datum, Inhalt der Abmahnungen |
 | **Sozialauswahl** | (bei betriebsbedingter Kündigung) Auswahlkriterien und Entscheidungsergebnis |
 
-**Grundsatz subjektiver Determinierung** (BAG, Urt. v. 23.06.2009 – 2 AZR 474/07, NZA 2009, 1136 Rn. 22): Der Arbeitgeber muss dem BR das mitteilen, was ihm bekannt ist und worauf er die Kündigung stützt; bewusste Irreführung oder absichtliche Verkürzung führt zur Unwirksamkeit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3 – Fristen (§ 102 Abs. 2 BetrVG)
 
 | Kündigungsart | Frist | Fristbeginn |
 |---|---|---|
-| Ordentliche Kündigung | 1 Woche | Zugang des vollständigen Anhörungsschreibens beim BR (BAG, Urt. v. 16.07.2015 – 2 AZR 15/15, NZA 2016, 99 Rn. 15) |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Außerordentliche Kündigung | 3 Tage | Zugang des vollständigen Anhörungsschreibens |
 
 - **Fristablauf ohne Stellungnahme des BR** → Arbeitgeber kann kündigen (§ 102 Abs. 2 Satz 2 BetrVG: BR gilt als angehört).
@@ -124,7 +120,7 @@ Checkliste für die Prüfung:
 
 **Anhörungsschreiben (Auszug):**
 
-> „Betreff: Anhörung nach § 102 BetrVG – Beabsichtigte ordentliche betriebsbedingte Kündigung von Herrn D
+> "Betreff: Anhörung nach § 102 BetrVG – Beabsichtigte ordentliche betriebsbedingte Kündigung von Herrn D
 >
 > Wir beabsichtigen, das Arbeitsverhältnis mit Herrn D, geb. [Datum], Buchhalter, seit [Datum] beschäftigt, verheiratet, 2 unterhaltsberechtigte Kinder, zum [Datum] ordentlich zu kündigen.
 >
@@ -132,7 +128,7 @@ Checkliste für die Prüfung:
 >
 > Wir bitten um Stellungnahme innerhalb von einer Woche nach Zugang dieses Schreibens."
 
-**Rechtliche Bewertung:** Die Mitteilung entspricht den Anforderungen des § 102 Abs. 1 Satz 2 BetrVG: Sozialdaten vollständig (BAG, Urt. v. 23.06.2009 – 2 AZR 474/07, NZA 2009, 1136 Rn. 22), Kündigungsgrund und unternehmerische Entscheidung konkret benannt, Sozialauswahl erläutert. Die Wochenfrist des § 102 Abs. 2 Satz 1 BetrVG läuft ab Zugang.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
@@ -154,7 +150,7 @@ Checkliste für die Prüfung:
 Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach **references/zitierweise.md** zu belegen:
 
 - Rechtsprechungsbelege im BGH-Stil (Gericht, Entscheidungsform, Datum, AZ, Fundstelle, Rn.).
-- Kommentarbelege mit Bearbeiter, Werk, Auflage, Jahr, §, Rn.; bei BetrVG-Kommentaren insbesondere Fitting und Richardi.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Bei umstrittenen Fragen (z. B. Umfang der Mitteilungspflicht, Fehlerfolgen) h. M. und Gegenauffassung getrennt zitieren.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen vor Einreichung verifizieren.
-- Keine Präjudizienbindung – die BAG-Rechtsprechung wirkt nicht nach US-amerikanischem stare-decisis-Modell, sondern entfaltet faktische Leitwirkung. Bei fehlender BAG-Entscheidung kann jüngere LAG-Rechtsprechung argumentativ herangezogen werden; sie ist offen für Gegenargumentation aus Kommentarliteratur (insb. Fitting, Richardi) und Aufsätzen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

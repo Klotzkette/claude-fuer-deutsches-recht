@@ -1,5 +1,14 @@
 # Testakte: ZVG-Versteigerung Eppendorf-Altbau
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` (diese Akte) | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vom Anordnungsbeschluss bis zum Zuschlag und Teilungsplan. Der Fall spielt in Hamburg-Eppendorf und umfasst eine vermietete Eigentumswohnung in einem Gründerzeit-Altbau. Die Akte deckt die gesamte Verfahrensstrecke ab: ZVG-Portal-Recherche, Grundbuchanalyse, Verkehrswertgutachten, Terminvorbereitung, Biettermin, Zuschlagsbeschluss und Erlösverteilung.
 
 ---
@@ -8,7 +17,7 @@ Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vo
 
 Jonas R. Albrecht (fiktiv) hinterlässt beim Tod seine Eigentumswohnung Nr. 9 im dritten Obergeschoss links des Altbau-Mehrfamilienhauses Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg. Die Wohnung gehört zur WEG Eppendorf Blatt 48291 (Flurstück 1842/7, 612 qm, MEA 39,20/1.000) und hat laut Teilungserklärung eine Wohnfläche von 95,30 qm. Das Gebäude wurde um 1890 errichtet; das Dachgeschoss wurde um 1994 ausgebaut.
 
-Die Erbengemeinschaft – bestehend aus den Miterben Heinrich J. Albrecht und Sofie Albrecht-Wegener (beide fiktiv) – bedient die Grundschuld der Nordelbe Kreditbank AG (fiktiv) in Höhe von 520.000,00 EUR nicht mehr. Die Kreditbank erwirkt zunächst die Anordnung der Zwangsverwaltung (Az. 71 L 44/25, eingetragen 18.11.2025) und anschließend die Anordnung der Zwangsversteigerung (Az. 71 K 18/26, eingetragen 12.02.2026). Die Wohnung ist seit dem 01.11.2021 an L. Sommer (fiktiv) vermietet; die Nettokaltmiete beträgt seit Mai 2023 monatlich 1.320,00 EUR. Auffällig sind drei Klingelnamenschilder sowie der Briefkastenzusatz „Atelier Nordbogen" – die tatsächliche Nutzung bleibt ungeklärt.
+Die Erbengemeinschaft – bestehend aus den Miterben Heinrich J. Albrecht und Sofie Albrecht-Wegener (beide fiktiv) – bedient die Grundschuld der Nordelbe Kreditbank AG (fiktiv) in Höhe von 520.000,00 EUR nicht mehr. Die Kreditbank erwirkt zunächst die Anordnung der Zwangsverwaltung (Az. 71 L 44/25, eingetragen 18.11.2025) und anschließend die Anordnung der Zwangsversteigerung (Az. 71 K 18/26, eingetragen 12.02.2026). Die Wohnung ist seit dem 01.11.2021 an L. Sommer (fiktiv) vermietet; die Nettokaltmiete beträgt seit Mai 2023 monatlich 1.320,00 EUR. Auffällig sind drei Klingelnamenschilder sowie der Briefkastenzusatz "Atelier Nordbogen" – die tatsächliche Nutzung bleibt ungeklärt.
 
 Der vom Gericht bestellte Sachverständige Dipl.-Ing. Thorsten Malkwitz (fiktiv) erstellt zum Stichtag 28.04.2026 ein Verkehrswertgutachten. Da eine Innenbesichtigung vom Mieter verweigert wird, stützt er sich auf Außenbesichtigung und Vergleichsdaten des Gutachterausschusses Hamburg. Der Verkehrswert wird auf 685.000,00 EUR festgesetzt; Abschläge für fehlende Innenbesichtigung (−25.000,00 EUR) und ungeklärte Nutzung (−10.000,00 EUR) sind eingerechnet. Die WEG hält eine Sonderumlage für Steigleitungen und Dachentwässerung im Raum; ein Beschluss hierüber liegt noch nicht vor.
 
@@ -110,6 +119,6 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 
 ## Disclaimer
 
-Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Aktenzeichen, Grundbuchdaten, Adressen, IBANs und sonstigen Angaben sind frei erfunden. Übereinstimmungen mit realen Personen, Gesellschaften oder Verfahren sind zufällig und nicht beabsichtigt. Originale Fotos, Grundrisse und Karten sind nicht enthalten; entsprechende Platzhalter sind als solche gekennzeichnet.
+Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Aktenzeichen, Grundbuchdaten, Adressen, IBANs und sonstigen Angaben sind frei erfunden. Übereinstimmungen mit realen Personen, Gesellschaften oder Verfahren sind zufällig und nicht beabsichtigt. Originale Fotos, Grundrisse und Karten sind nicht enthalten; entsprechende Bild- und Kartenbeschreibungen sind als Text dokumentiert.
 
 Die Inhalte dienen ausschließlich der Ausbildung und dürfen nicht als Rechtsberatung im Einzelfall verstanden werden. Für konkrete rechtliche Fragen zu Zwangsversteigerungsverfahren ist stets anwaltlicher Rat einzuholen.

@@ -9,7 +9,7 @@
 
 ## 1. Projektübersicht
 
-Das Quartier „Hafenbogen" entsteht auf einem 4,2 Hektar großen Brownfield­gelände am nördlichen Stadtrand von Lüdinghausen. Die SWKK entwickelt zusammen mit dem Projekt­entwickler Wohnraum NRW GbR (Grundstücks­verkäufer: DB Netz AG, Erbbaurecht 66 Jahre ab 01.07.2024) fünf Gebäuderiegel mit insgesamt 380 Wohn­einheiten (WE) und 22 Gewerbe­einheiten (GE) im Erdgeschossbereich. Bau­beginn ist für Juli 2026 geplant, Fertig­stellung gestaffelt bis Ende 2027.
+Das Quartier "Hafenbogen" entsteht auf einem 4,2 Hektar großen Brownfield­gelände am nördlichen Stadtrand von Lüdinghausen. Die SWKK entwickelt zusammen mit dem Projekt­entwickler Wohnraum NRW GbR (Grundstücks­verkäufer: DB Netz AG, Erbbaurecht 66 Jahre ab 01.07.2024) fünf Gebäuderiegel mit insgesamt 380 Wohn­einheiten (WE) und 22 Gewerbe­einheiten (GE) im Erdgeschossbereich. Bau­beginn ist für Juli 2026 geplant, Fertig­stellung gestaffelt bis Ende 2027.
 
 Energie­versorgungsstrategie: Das Quartier soll **fossil­frei** betrieben werden. Heizung und Warmwasser kommen vollständig aus dem Nahwärme­netz; der Strom­bedarf der Gemeinschafts­flächen und ein erheblicher Anteil des Haushalts­strombedarfs werden durch die Dach­PV-Anlage abgedeckt (Mieterstrom­modell). Für das angrenzende Kühlhaus (Industriekunde Hafenbogen Logistik GmbH) wird eine Sonder­versorgungslösung erarbeitet.
 
@@ -113,7 +113,7 @@ Die Versorgung des Industriekunden erfolgt über eine Kunden­anlage der SWKK, d
 ### Variante C: Geschlossenes Verteiler­netz (§ 110 EnWG)
 Als GVN qualifiziert ein Netz, das Energie innerhalb eines geografisch begrenzten Industrie- oder Gewerbe­geländes oder eines Gebiets für gemeinsame oder geteilte Zwecke überträgt oder verteilt. Die GVN-Betreiberin (SWKK) hat gegenüber dem Netz­betreiber und der BNetzA Anzeige­pflichten; sie unterliegt bestimmten Entflechtungs- und Regulierungs­pflichten, jedoch vereinfacht gegenüber einem regulären VNB.
 
-*Bewertung:* Langfristig die belastbarste Lösung, sofern das Gelände als „gemeinsames Areal" qualifiziert. Weiterer Rechtsbedarf: GVN-Anzeige bei BNetzA, Kunden­netz­zugangsbedingungen.
+*Bewertung:* Langfristig die belastbarste Lösung, sofern das Gelände als "gemeinsames Areal" qualifiziert. Weiterer Rechtsbedarf: GVN-Anzeige bei BNetzA, Kunden­netz­zugangsbedingungen.
 
 **Empfehlung der Kanzlei (vorläufig):** Detailprüfung Variante B (Kunden­anlage), parallel Vorbereitungen für Variante C; Variante A als Fallback.
 

@@ -1,6 +1,6 @@
 ---
 name: insolvenzrecht-kaltstart-interview
-description: "Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md mit Angaben zur Rolle (Insolvenzverwalter / Sachwalter / beratender Anwalt / Geschäftsleiter / Sanierungsberater / Wirtschaftsprüfer), typischen Verfahrensarten (Regelinsolvenz / Eigenverwaltung / Schutzschirm / StaRUG / Konzerninsolvenz), bevorzugten Gutachten-Standards (IDW S 6 / S 9 / S 11) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-pruefen nur für eine Konnektoren-Prüfung."
+description: "Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md mit Angaben zur Rolle (Insolvenzverwalter / Sachwalter / beratender Anwalt / Geschäftsleiter / Sanierungsberater / Wirtschaftsprüfer), typischen Verfahrensarten (Regelinsolvenz / Eigenverwaltung / Schutzschirm / StaRUG / Konzerninsolvenz), bevorzugten Gutachten-Standards (IDW S 6 / S 9 / S 11) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-prüfen nur für eine Konnektoren-Prüfung."
 ---
 
 # /insolvenzrecht:insolvenzrecht-kaltstart-interview
@@ -88,12 +88,9 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/i
 
 ## Hinweise
 
-Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (Beck-Online, juris) zu prüfen. Insolvenzantragspflicht und Eröffnungsgründe sind hochkomplex; im Zweifel **immer** anwaltliche Begleitung.
+Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang) zu prüfen. Insolvenzantragspflicht und Eröffnungsgründe sind hochkomplex; im Zweifel **immer** anwaltliche Begleitung.
 
 
 ## Rechtlicher Rahmen — Kaltstart-Orientierung
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Erstpruefung: sofortige Klärung ob Fortbestehensprognose positiv; negativer Status loest Antragspflicht aus.
-- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — ZU-Schnelltest: 10%-Luecken-Formel im Kaltstart anwenden; 3-Wochen-Fenster erfassen.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftungsrisiko GF: Kaltstart-Zeitpunkt ist haftungsrelevant; ab heute laeuft Uhr fuer § 15a, § 15b InsO.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Krisenstadium und Pfad-Wahl: im Kaltstart sofort Krisenstadium einordnen (StaRUG vs. InsO vs. Sanierung) — Entscheidung hat Anfechtungs- und Haftungsfolgen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

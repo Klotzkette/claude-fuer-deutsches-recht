@@ -1,6 +1,6 @@
 ---
 name: energierecht-kommandocenter
-description: "Navigationszentrum fuer alle Energierecht-Skills: Weiterleitung je Rechtsthema und Anfrageart. Normen: EnWG, EEG, KWKG, GEG. Pruefraster: Themenfeld Erzeugung/Netz/Vertrieb, Kundentyp, einschlaegige Norm. Output: Skillauswahl-Empfehlung Energierecht. Abgrenzung: kein inhaltlicher Pruef-Skill."
+description: "Navigationszentrum für alle Energierecht-Skills: Weiterleitung je Rechtsthema und Anfrageart. Normen: EnWG, EEG, KWKG, GEG. Prüfraster: Themenfeld Erzeugung/Netz/Vertrieb, Kundentyp, einschlaegige Norm. Output: Skillauswahl-Empfehlung Energierecht. Abgrenzung: kein inhaltlicher Prüf-Skill."
 ---
 
 # Energierecht — Kommandocenter (Eingangs-Routing)
@@ -154,20 +154,15 @@ Berufsrecht / DS-Pflichten: [Pruefung erfolgt]
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Beschl. v. 03.06.2014 — EnVR 10/13, RdE 2014, 385 — Beschwerde gegen BNetzA-Beschluss nach § 75 EnWG hat keine aufschiebende Wirkung; Eilantrag beim OLG Duesseldorf erforderlich; Frist ein Monat ab Zustellung
-- BVerwG, Urt. v. 10.12.2020 — 4 C 3.19, NVwZ 2021, 565 — Energieanlage mit BImSchG-Genehmigungspflicht; spatere Aenderung ohne erneutes Genehmigungsverfahren fuehrt zur Rechtswidrigkeit des Betriebs; § 16 BImSchG-Aenderungsgenehmigung bei wesentlicher Aenderung
-- EuGH, Urt. v. 20.04.2023 — C-348/22, NVwZ 2023, 967 — EE-Beschleunigung nach RED III verpflichtet Mitgliedstaaten zu konkreten Massnahmen bis 21.02.2026; keine Befreiung durch blossen Verweis auf nationale Buerokratie
-- BGH, Urt. v. 11.05.2021 — KZR 28/19, NJW 2021, 2279 — Konzessionsvertrag-Verlagerung Strom/Gas-Netz auf Gemeinde; wettbewerbliches Auswahlverfahren nach § 46 EnWG; Diskriminierungsverbot gilt auch bei kommunaler Eigengesellschaft
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 31 EnWG (BNetzA-Beschwerde) — § 75 EnWG (OLG-Beschwerde) — §§ 4, 16 BImSchG (Genehmigung, Aenderung) — § 46 EnWG (Konzessionsvertrag) — §§ 72-78 VwVfG (Planfeststellung) — § 80 Abs. 5 VwGO (Eilrechtsschutz)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, Einl. Rn. 1 ff. (Ueberblick Energiewirtschaftsrecht, Regulierungs-Systematik)
-- Kment, Energiewirtschaftsgesetz, 2. Aufl. 2022, § 31 Rn. 1 ff. (BNetzA-Beschwerde) und § 75 Rn. 1 ff. (OLG-Beschwerde)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen
 
 - EnWG 2024 (Energiewirtschaftsgesetz, Neufassung)

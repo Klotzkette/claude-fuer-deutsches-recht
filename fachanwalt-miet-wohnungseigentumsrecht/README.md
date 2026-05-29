@@ -16,13 +16,13 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json` und `skills/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json` und `skills/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Orientierung im Miet- und WEG-Recht. FAO § 14e Voraussetzungen Normen typische Mandate Fristen Standardliteratur. |
+| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Orientierung im Miet- und WEG-Recht. FAO § 14e Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. |
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Mieterhöhung bis zur ortsüblichen Vergleichsmiete §§ 558 ff. BGB. Mietspiegel Kappungsgrenze Modernisierungsumlage § 559. |
 | `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Kündigung Wohnraummietverhältnis ordentlich § 573 außerordentlich §§ 543 569 BGB. Eigenbedarf Zahlungsverzug. |
 | `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Beschlussanfechtung in der WEG-Versammlung § 44 WEG. Monatsfrist Anfechtungs- und Nichtigkeitsgründe. |

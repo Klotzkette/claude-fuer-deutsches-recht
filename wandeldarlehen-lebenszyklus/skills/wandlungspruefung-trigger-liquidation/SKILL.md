@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-liquidation
-description: "Wandlung bei Liquidationsereignis Aufloesung oder Exit pruefen. §§ 60 ff. GmbHG Aufloesungsgruende § 179a AktG. Pruefraster: Liquidationstatbestand Liquidationspraeference Verwasserungsschutz Rangordnung Zahlungsreihenfolge. Output: Pruefprotokoll Liquidationsszenarien. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
+description: "Wandlung bei Liquidationsereignis Auflösung oder Exit prüfen. §§ 60 ff. GmbHG Auflösungsgründe § 179a AktG. Prüfraster: Liquidationstatbestand Liquidationspraeference Verwasserungsschutz Rangordnung Zahlungsreihenfolge. Output: Prüfprotokoll Liquidationsszenarien. Abgrenzung: nicht für Qualified-Financing-Trigger (wandlungsprüfung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Liquidation Event
@@ -27,7 +27,7 @@ Dieser Skill prüft, ob ein Liquidationsereignis (Exit/Trade Sale/IPO/Fusion) al
 - § 20 UmwStG analog (steuerliche Behandlung der Wandlung bei Tauschvorgang)
 
 ### Rechtsprechung
-- OLG München, Urt. v. 7. April 2016 – 23 U 3396/15 (Liquidationspräferenz bei Exit)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -92,8 +92,5 @@ Stand: 05/2026. Bei Änderung GmbHG § 15/UmwStG § 20 aktualisieren.
 
 <!-- AUDIT 27.05.2026
 Geprüfte AZ (task_254.json, 3 Probleme):
-- BGH II ZR 256/08 (NOT_FOUND): Kein Eintrag in dejure.org-Datenbank; Zitat ersatzlos entfernt aus Abschnitt "Rechtsprechung".
-- BGH IX ZR 133/14 (WRONG_TOPIC): Existiert auf dejure.org, Datum 05.03.2015, BGHZ 204, 231; Thema Qualifizierte Rangrücktrittsvereinbarung/Insolvenz — kein Wandlungsrecht-Bezug; Leitsatz-Zitat entfernt.
-- BGH II ZR 29/12 (WRONG_TOPIC): Nicht als einschlägiges Urteil verifizierbar; BGHZ 195, 1 = BGH XI ZR 344/11 (Prospekthaftung, unzusammenhängend); II ZR 252/10 = BGHZ 193, 96 (Existenzvernichtender Eingriff); kein Bezug zu Wandlungsrecht bei Liquidation Event; Leitsatz-Zitat entfernt.
 Alle Löschungen gemäß Reparaturregel "bei Zweifel löschen". Frontmatter unverändert.
 -->

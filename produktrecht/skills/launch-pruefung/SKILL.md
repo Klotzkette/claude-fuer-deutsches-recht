@@ -1,15 +1,15 @@
 ---
 name: launch-pruefung
-description: "Produktmanager oder Rechtsabteilung will vor dem Launch pruefen ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollstaendige rechtliche Freigabeprufung gegen konfiguriertes Pruefrahmenwerk und Risikokalibrierung. Normen ProdSG Produktsicherheitsgesetz MarktueberwG CE-Konformitaet EU-Produktsicherheits-VO 2023/988. Pruefraster KI-VO-Anforderungen UWG-Verstoessrisiken DSGVO DSA Verbraucherschutz BGB. Output Launch-Freigabe-Checkliste mit Ampel-Status offenen Punkten und Eskalations-Empfehlung. Abgrenzung: feature-risikobewertung fuer vertiefte Einzel-Risiko-Analyse."
+description: "Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollständige rechtliche Freigabeprüfung gegen konfiguriertes Prüfrahmenwerk und Risikokalibrierung. Normen ProdSG Produktsicherheitsgesetz Marktüberwachung CE-Konformität EU-Produktsicherheits-VO 2023/988. Prüfraster KI-VO-Anforderungen UWG-Verstoßrisiken DSGVO DSA Verbraucherschutz BGB. Output Launch-Freigabe-Checkliste mit Ampel-Status, offenen Punkten und Eskalations-Empfehlung. Abgrenzung: feature-risikobewertung für vertiefte Einzel-Risiko-Analyse."
 ---
 
 # Produkt-Launch-Freigabeprüfung
 
 ## Zweck
 
-Diese Skill führt eine vollständige produktrechtliche Freigabeprüfung durch: Sie liest das PRD oder die technische Produktbeschreibung, prüft jeden Kategorie des konfigurierten Prüfrahmenwerks und kalibriert die Befunde gegen die hinterlegten Risikoschwellen. Das Ergebnis ist ein Prüfvermerk, den ein Produktmanager liest und daraus genau weiß, was vor der Markteinführung erledigt sein muss.
+Dieser Skill führt eine vollständige produktrechtliche Freigabeprüfung durch: Er liest das PRD oder die technische Produktbeschreibung, prüft jede Kategorie des konfigurierten Prüfrahmenwerks und kalibriert die Befunde gegen die hinterlegten Risikoschwellen. Das Ergebnis ist ein Prüfvermerk, den ein Produktmanager liest und daraus genau weiß, was vor der Markteinführung erledigt sein muss.
 
-Die Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prüfung, eine Konformitätsbewertung oder eine Produktsicherheitsprüfung anspricht.
+Der Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prüfung, eine Konformitätsbewertung oder eine Produktsicherheitsprüfung anspricht.
 
 ## Eingaben
 
@@ -25,35 +25,30 @@ Die Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prü
 ### Kernvorschriften
 
 **Produktsicherheit und Marktüberwachung**
-- Produktsicherheitsgesetz (ProdSG) i. d. F. der GPSR-Umsetzung vom 13.12.2024 (Umsetzung VO (EU) 2023/988)
+- Produktsicherheitsgesetz (ProdSG) für nationale Bereitstellungs-, Vollzugs- und Sanktionsfragen
 - VO (EU) 2023/988 über die allgemeine Produktsicherheit (GPSR), anwendbar ab 13.12.2024
 - Produkthaftungsgesetz (ProdHaftG), ggf. ab 09.12.2026 in der Fassung gemäß RL 2024/2853/EU
 - Maschinenverordnung (VO (EU) 2023/1230, MaschV) — für Maschinen und Sicherheitsbauteile
-- CE-Kennzeichnung: je nach Produktgruppe RL 2014/30/EU (EMV), RL 2014/35/EU (Niederspannung), RL 2014/53/EU (Funkanlagen RED), RL 93/42/EWG / MDR VO (EU) 2017/745 (Medizinprodukte)
+- CE-Kennzeichnung: je nach Produktgruppe RL 2014/30/EU (EMV), RL 2014/35/EU (Niederspannung), RL 2014/53/EU (Funkanlagen RED), MDR VO (EU) 2017/745 (Medizinprodukte)
 - VO (EU) 305/2011 (Bauprodukte-VO) — wo anwendbar
 
 **Produkthaftung**
 - §§ 1–15 ProdHaftG: Haftung des Herstellers für fehlerhafte Produkte, unabhängig vom Verschulden
 - §§ 823 Abs. 1, 826 BGB: deliktische Haftung (Parallelweg)
-- BGH, Urt. v. 16.06.2009 – VI ZR 107/08, NJW 2009, 2952 (Produkthaftung Hersteller — Beweislastverteilung) `[verify]`
-- BGH, Urt. v. 02.02.2021 – VI ZR 1234/19, NJW 2021, 3458 (Produkthaftung — Konstruktionsfehler und Beweislast) `[verify]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Verbraucher- und Wettbewerbsrecht**
 - §§ 433 ff. BGB: Kaufvertrag, Gewährleistung, Beschaffenheitsgarantie (§ 443 BGB)
 - § 5 UWG: Irreführende Werbung (betrifft auch Produktbeschreibungen)
-- BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 (Klimaneutralität — Irreführung durch Produktkennzeichnung) `[verify]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Marktüberwachung**
 - Marktüberwachungs-VO (EU) 2019/1020
 - Zuständige Behörden: Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) für den Geräte- und Produktsicherheitsbereich; Bundesnetzagentur für Funkanlagen und Elektromagnetische Verträglichkeit; Landesbehörden im Vollzug
 
-### Kommentarliteratur und Aufsätze
+### Quellenregel
 
-- Klindt/Schucht (Hrsg.), Produktsicherheitsgesetz (ProdSG/GPSR), 3. Aufl. 2025, § 3 ProdSG Rn. 12 ff. `[verify]`
-- Kullmann, Produkthaftungsgesetz, 6. Aufl. 2021, § 1 ProdHaftG Rn. 15 ff. `[verify]`
-- Foerste/Graf von Westphalen (Hrsg.), Produkthaftungshandbuch, 3. Aufl. 2012, § 24 Rn. 5 ff. `[verify]`
-- Pfeiffer, NJW 2025, 123 (Umsetzung der GPSR — Änderungen im deutschen Produktsicherheitsrecht) `[verify]`
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Eingaben erfassen
@@ -68,7 +63,7 @@ Vor der Checkliste in klarer Sprache beantworten:
 - Neue Materialien, neue Nutzungsszenarien, neue Zielmärkte, neue Vertriebswege?
 - Handelt es sich um ein reglementiertes Produkt (Medizinprodukt, Lebensmittel, Kosmetikum, Spielzeug, Maschine)?
 
-**KI-Komponente — vor dem Rahmenwerk-Durchlauf prüfen.** Enthält das Produkt eine KI-Funktionalität — Drittanbieter-Modell, intern trainiertes Modell, automatisierte Klassifikation, generative Inhalte, Empfehlungen, Prognosen — auch wenn das PRD den Begriff „KI" nicht verwendet? Wörter wie „intelligent", „automatisiert", „personalisiert", „generiert", „vorgeschlagen" sind Hinweise. Sofern KI-Komponente erkannt → explizit kennzeichnen und ergänzend zum Rahmenwerk-Durchlauf nach dem KI-Rechtsrahmen (KI-VO (EU) 2024/1689) prüfen.
+**KI-Komponente — vor dem Rahmenwerk-Durchlauf prüfen.** Enthält das Produkt eine KI-Funktionalität — Drittanbieter-Modell, intern trainiertes Modell, automatisierte Klassifikation, generative Inhalte, Empfehlungen, Prognosen — auch wenn das PRD den Begriff "KI" nicht verwendet? Wörter wie "intelligent", "automatisiert", "personalisiert", "generiert", "vorgeschlagen" sind Hinweise. Sofern KI-Komponente erkannt → explizit kennzeichnen und ergänzend zum Rahmenwerk-Durchlauf nach dem KI-Rechtsrahmen (KI-VO (EU) 2024/1689) prüfen.
 
 ### Schritt 3: Prüfrahmenwerk durcharbeiten
 
@@ -112,10 +107,10 @@ Für jede der nachfolgenden Kategorien prüfen. Auto-Überspringen nur mit einze
 ### Schritt 4: Schweregrad kalibrieren
 
 Jeden Befund gegen die Kalibrierungstabelle in der CLAUDE.md abgleichen:
-- Entspricht einem „typischerweise FYI"-Muster → vermerken, nicht blockieren
-- Entspricht „erfordert Maßnahme" → Maßnahme und Zeitrahmen konkret benennen
-- Entspricht „blockiert" → prominent kennzeichnen, eskalieren
-- **Neuartig** (nicht in der Tabelle) → explizit vermelden: „Dieser Befund entspricht keinem Muster in der Kalibrierung — menschliche Entscheidung erforderlich"
+- Entspricht einem "typischerweise FYI"-Muster → vermerken, nicht blockieren
+- Entspricht "erfordert Maßnahme" → Maßnahme und Zeitrahmen konkret benennen
+- Entspricht "blockiert" → prominent kennzeichnen, eskalieren
+- **Neuartig** (nicht in der Tabelle) → explizit vermelden: "Dieser Befund entspricht keinem Muster in der Kalibrierung — menschliche Entscheidung erforderlich"
 
 ### Schritt 5: Prüfvermerk zusammenstellen
 
@@ -184,26 +179,26 @@ Prüfvermerk im internen Format gemäß CLAUDE.md. Falls kein Hausformat vorgege
 **Beispielhafte Befunde:**
 - **Kategorie 1 (Produktsicherheit/CE):** CE-Kennzeichnung nach RED RL 2014/53/EU erforderlich; Konformitätsbewertungsverfahren (Selbsterklärung nach Modul A) noch nicht abgeschlossen — **Blocker**.
 - **Kategorie 3 (Kennzeichnung):** Betriebsanleitung liegt nur auf Englisch vor; § 3 Abs. 2 Nr. 4 ProdSG verlangt Unterlagen in der Amtssprache des Bestimmungslands — **Blocker** (Übersetzung DE/AT erforderlich).
-- **Kategorie 7 (Marketing):** Behauptung „das sicherste Gerät auf dem Markt" ohne Nachweis — potenziell irreführend nach § 5 UWG — Weiterleitung an `werbeaussagen-pruefung`.
+- **Kategorie 7 (Marketing):** Behauptung "das sicherste Gerät auf dem Markt" ohne Nachweis — potenziell irreführend nach § 5 UWG — Weiterleitung an `werbeaussagen-pruefung`.
 
 ## Risiken und typische Fehler
 
 - **CE-Kennzeichnung ohne vollständiges Konformitätsbewertungsverfahren:** Häufiger Fehler bei Start-ups. § 5 ProdSG (GPSR-Umsetzung) verbietet das Inverkehrbringen nicht konformer Produkte; Bußgeld und Marktrücknahme durch BAuA möglich.
 - **Fehlende oder unvollständige Betriebsanleitung in Landessprache:** Verletzt § 3 Abs. 2 ProdSG, führt zu Instruktionsfehler i. S. d. § 1 Abs. 2 Nr. 2 ProdHaftG (haftungsrelevant).
 - **Vernachlässigung der GPSR-Meldepflichten:** Art. 9 GPSR verpflichtet Hersteller zu unverzüglicher Meldung unsicherer Produkte an Marktüberwachungsbehörden; Unterlassen ist Ordnungswidrigkeit.
-- **Produkthaftungsrisiko durch unklare Gebrauchsanweisung:** BGH, Urt. v. 02.02.2021 – VI ZR 1234/19, NJW 2021, 3458: Instruktionsfehler kann Produkthaftung auslösen, auch wenn das Produkt technisch einwandfrei ist. `[verify]`
+- **Produkthaftungsrisiko durch unklare Gebrauchsanweisung:** Instruktionsfehler können haftungsrelevant sein, auch wenn das Produkt technisch einwandfrei konstruiert ist; Warnhinweise, bestimmungsgemäße Nutzung und naheliegender Fehlgebrauch müssen zusammen geprüft werden.
 - **Verwechslung von CE-Pflicht und CE-freier Produktkategorie:** Nicht jedes Produkt unterliegt CE-Pflicht; Fehlkennzeichnung (CE ohne einschlägige RL) ist ebenfalls unzulässig.
-- **KI-Komponenten ohne Risikobewertung nach KI-VO:** KI-VO (EU) 2024/1689 gilt ab 02.08.2026 für Hochrisiko-KI-Systeme; frühzeitige Klassifizierung verhindern.
+- **KI-Komponenten ohne Risikobewertung nach KI-VO:** KI-VO (EU) 2024/1689 gilt gestaffelt; Hochrisiko-Pflichten nach Art. 6 i. V. m. Anhang III müssen frühzeitig nach Zweckbestimmung und realem Einsatzkontext klassifiziert werden.
 
 ## Quellenpflicht
 
 Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 
 - **Primärquellen:** EUR-Lex (Verordnungen, Richtlinien), BAuA-Website, BfArM (Medizinprodukte), BVL (Lebensmittel)
-- **Rechtsprechung:** juris, beck-online, NJW, GRUR, Gewerblicher Rechtsschutz und Urheberrecht (GRUR-RS)
-- **Kommentare:** Klindt ProdSG, Kullmann ProdHaftG, Foerste/von Westphalen Produkthaftungshandbuch
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Quellenregel:** Klindt ProdSG, Kullmann ProdHaftG, Foerste/von Westphalen Produkthaftungshandbuch
 - **Zitierhinweis:** Entscheidungen in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`; Normen stets mit §-Zeichen und Absatz-/Nummerierungsangabe
 
-Quellen, die nur aus dem Modellwissen stammen, sind mit `[verify]` zu kennzeichnen. Pinpoint-Zitate (konkrete Randnummern) tragen `[verify-pinpoint]`.
+Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+Hinweis: Dieser Skill strukturiert die Launch-Freigabe so, dass juristische und technische Teams Risiken früh sehen, sauber dokumentieren und gezielt entscheiden können; die fachliche Endverantwortung bleibt beim zuständigen Menschen.

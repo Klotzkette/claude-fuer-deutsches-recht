@@ -1,6 +1,6 @@
 ---
 name: aussergerichtliche-mahnung-286-bgb
-description: "Aussergerichtliche Mahnung als Voraussetzung fuer Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebuehren und Folgen fuer Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren."
+description: "Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren."
 ---
 
 # Mahnen Sie zuerst — bevor Sie klagen

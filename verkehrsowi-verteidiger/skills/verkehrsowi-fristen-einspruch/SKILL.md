@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-fristen-einspruch
-description: "Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bussgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Pruefraster: Zustellungsdatum und -art, Fristberechnung, Beschraenkter Einspruch § 67 Abs. 2 OWiG (nur Fahrverbot). Output Fristenblatt, Einspruchs-Template, ggf. Wiedereinsetzungsantrag. Abgrenzung: Inhalt des Einspruchs siehe verkehrsowi-beweisverwertung-standardisiert; Rechtsbeschwerde siehe verkehrsowi-rechtsbeschwerde."
+description: "Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Prüfraster: Zustellungsdatum und -art, Fristberechnung, Beschraenkter Einspruch § 67 Abs. 2 OWiG (nur Fahrverbot). Output Fristenblatt, Einspruchs-Template, ggf. Wiedereinsetzungsantrag. Abgrenzung: Inhalt des Einspruchs siehe verkehrsowi-beweisverwertung-standardisiert; Rechtsbeschwerde siehe verkehrsowi-rechtsbeschwerde."
 ---
 
 # Einspruchsfrist und Einspruch — § 67 OWiG
@@ -24,18 +24,11 @@ description: "Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Re
 
 ## Aktuelle Rechtsprechung
 
-- OLG Celle, Beschl. v. 23.06.2020 - 3 Ss OWi 72/20, NZV 2020, 523 — Fehlerhafte Zustellungsurkunde fuehrt zu spaeterem Fristbeginn; Einspruch noch zulaessig wenn tatsaechliche Kenntnis spaeter erlangt.
-- OLG Hamm, Beschl. v. 14.06.2021 - 5 RVs 43/21, NZV 2021, 531 — Zustellungsfiktion nach § 180 ZPO gilt auch im OWi-Verfahren; spaetere Kenntnisnahme bedarf konkreter Darlegung.
-- BVerfG, Beschl. v. 26.04.2023 - 2 BvR 310/23, NJW 2023, 1951 — Zugang zu Wiedereinsetzungsmitteln muss tatsaechlich gewahrt werden; uebertrieben formale Anforderungen verstoessen gegen Art. 2 Abs. 1 GG.
-- OLG Koblenz, Beschl. v. 17.11.2020 - 1 OWi 6 SsBs 65/20, NZV 2021, 156 — Verwerfung nach § 74 OWiG erfordert tatsaechlich unentschuldigtes Ausbleiben; Gericht muss Entschuldigungsgruende vorab pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG § 67 Rn. 1-25 (Einspruch, Frist, Beschraenkung)
-- Goehler OWiG § 52 Rn. 1-15 (Wiedereinsetzung)
-- KK-OWiG / Lutz § 67 Rn. 1-20 (vollstaendige Kommentierung)
-- KK-OWiG / Mitsch § 74 Rn. 1-15 (Verwerfung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Berechnungsschema
 
 ```

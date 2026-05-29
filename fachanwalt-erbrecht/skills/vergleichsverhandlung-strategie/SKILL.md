@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Erbrechtlichen Streit durch Vergleich loesen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)."
+description: "Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)."
 ---
 
 # Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht
@@ -14,14 +14,11 @@ description: "Erbrechtlichen Streit durch Vergleich loesen und Verhandlungsstrat
 6. Steuerliche Einordnung: Abfindung versus Erbschaftsteuer-relevante Leistung klären vor Unterzeichnung.
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 29.01.2020 - IV ZR 224/18, NJW-RR 2020, 455 Rn. 14 — Pflichtteilsvergleich als Schuldanerkenntnis wirkt nur inter partes; überschiessende Abgeltungsklausel für Dritte unwirksam, wenn diese nicht Vertragspartei sind.
-- BGH, Urt. v. 27.09.2017 - IV ZR 500/15, NJW 2018, 150 Rn. 22 — Widerrufsvorbehalt im Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO) muss eindeutig formuliert sein; unklare Klausel geht zu Lasten der Partei, die den Widerruf geltend macht.
-- OLG München, Beschl. v. 11.03.2021 - 33 U 6836/20, NJW-RR 2021, 880 Rn. 12 — Anwaltsvergleich nach § 796a ZPO setzt beiderseitige anwaltliche Vertretung voraus; einseitige anwaltliche Beurkundung genügt nicht für Vollstreckungstitel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- MüKo-BGB/Lange §§ 2302 ff. (Erbverträge und Vergleiche im Erbrecht) — Abgeltungsklausel-Reichweite
-- Staudinger/Götz § 2311 BGB Rn. 1 ff. — Bewertungsgrundlage beim Vergleichsabschluss über Pflichtteil
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Sachverhalte aus dem Bereich Erb- und Pflichtteilsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -111,7 +108,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -174,5 +170,4 @@ Klassische Stolperfalle in Erb- und Pflichtteilsrecht:
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 <!-- AUDIT 27.05.2026 bundle_021
-GELÖSCHT: BGH XII ZR 49/11 (15.05.2013) – WRONG_TOPIC: Reales Urteil behandelt Vaterschaftsanfechtung/Samenspende (BGB § 1600), nicht Vollmacht zur Vergleichsschließung. NJW 2013 2589 Fundstelle korrekt für dieses Urteil, aber Themenbehauptung vollständig falsch. Eintrag aus Rechtsprechungsblock entfernt.
 -->

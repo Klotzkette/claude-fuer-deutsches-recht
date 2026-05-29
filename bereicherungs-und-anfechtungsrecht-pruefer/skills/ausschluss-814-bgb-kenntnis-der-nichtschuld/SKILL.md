@@ -1,6 +1,6 @@
 ---
 name: ausschluss-814-bgb-kenntnis-der-nichtschuld
-description: "Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Pruefraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Pruefergebnis Ausschlussgrund § 814 BGB mit Begruendung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoss)."
+description: "Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoß)."
 ---
 
 # Ausschluss nach § 814 BGB — Kenntnis der Nichtschuld
@@ -19,20 +19,17 @@ description: "Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenn
 
 ## Rechtsprechung
 
-BGH, Urt. v. 07.05.1997 – IV ZR 35/96, NJW 1997, 2381 — Positive Kenntnis i.S.d. § 814 BGB setzt voraus, dass der Leistende alle Tatsachen kennt, aus denen sich die Nichtschuld ergibt; bloße Zweifel oder Kennenmüssen genügen nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 28.11.1990 – XII ZR 130/89, NJW 1991, 919 — Rechtirrtum schließt § 814 BGB nicht aus, wenn der Leistende die anspruchsausschließenden Tatsachen vollständig kannte und nur die rechtliche Schlussfolgerung nicht zog.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.01.1979 – VII ZR 165/78, NJW 1979, 763 — Die Beweislast für die positive Kenntnis des Leistenden trägt derjenige, der sich auf § 814 BGB beruft; im Zweifel gilt Unkenntnis.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.12.2015 – XI ZR 488/14, NJW 2016, 1169 — § 814 Alt. 2 BGB (sittliche Pflicht) ist eng auszulegen; eine rein moralische Erwartungshaltung genügt nicht; der Ausschlusstatbestand muss konkret und individuell nachgewiesen werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 814 Rn. 1–35 (Kenntnis, Rechtsirrtum, Beweislast).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 814 Rn. 1–12.
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 814 Rn. 1–40 (ausführlich zu Rechtsirrtum und Alt. 2).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Hat der Leistende gewusst, dass er zur Leistung nicht verpflichtet war, ist die Rückforderung nach § 814 Alt. 1 BGB ausgeschlossen.

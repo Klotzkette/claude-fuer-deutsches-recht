@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-elternzeit-mutterschutz
-description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Pruefung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
+description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
 ---
 
 # Elternzeit, Mutterschutz, Mutterschaftsgeld, Elterngeld
@@ -55,7 +55,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 
 ### Phase 2 — Mutterschaftsgeld
 
-- Krankenkasse zahlt Mutterschaftsgeld (Hoechstsatz 13 EUR/Tag, § 24i Abs. 2 SGB V — Stand 2026 verifizieren).
+- Krankenkasse zahlt Mutterschaftsgeld (Hoechstsatz 13 EUR/Tag, § 24i Abs. 2 SGB V — seit 01.01.1992 unveraendert; bei Gesetzesaenderung GKV-Spitzenverband pruefen).
 - AG zahlt Zuschuss zum Mutterschaftsgeld bis zum durchschnittlichen Nettolohn der letzten 3 Monate (§ 20 Abs. 1 MuSchG).
 - Beide zusammen ergeben Nettolohn der Schwangeren waehrend Mutterschutz.
 - AG-Erstattung der gesamten Aufwendungen ueber U2-Umlage (100 Prozent) — vgl. `stb-lohn-umlage-u1-u2-insogeld-umlage`.
@@ -65,7 +65,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 - Elternzeit: bis zu 3 Jahre Anspruch, bis 8. Geburtstag.
 - Anmeldung: spaetestens 7 Wochen vor Beginn.
 - Waehrend Elternzeit: kein Anspruch auf Lohn vom AG.
-- Elterngeld vom Staat: 65 Prozent vom durchschnittlichen Nettolohn vor Geburt (max. 1.800 EUR/Monat; Stand 2026 ueber BEEG verifizieren — Einkommensgrenze Ehepartner-Gesamteinkommen 200.000 EUR ab 01.04.2024 abgesenkt auf 175.000 EUR; aktuelle Werte zwingend pruefen).
+- Elterngeld vom Staat: 65 Prozent vom durchschnittlichen Nettolohn vor Geburt (max. 1.800 EUR/Monat; Einkommensgrenze fuer Ehepartner-Gesamteinkommen ab 01.04.2024 abgesenkt auf 175.000 EUR, § 1 Abs. 8 BEEG; bei Gesetzesaenderung BMFSFJ pruefen).
 - Elterngeld Basis: 12 Monate; 14 Monate bei Partnermonaten.
 - Elterngeld Plus: doppelte Laufzeit bei halber monatlicher Hoehe (kombiniert mit Teilzeit, bis 32 Wochenstunden).
 
@@ -119,3 +119,5 @@ Stand: 05/2026.
 - BEEG.
 - EStG § 32b.
 - BMFSFJ-Merkblaetter.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mutterschaftsgeld 13 EUR/Tag seit 1992 stabil), 1 ersetzt (BEEG-Einkommensgrenze 175.000 EUR ab 01.04.2024 eingesetzt) -->

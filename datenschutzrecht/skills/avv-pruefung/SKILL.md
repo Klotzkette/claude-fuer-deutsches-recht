@@ -1,6 +1,6 @@
 ---
 name: avv-pruefung
-description: "Auftragsverarbeitungsvertrag nach Art. 28 DSGVO pruefen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Pruefraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rueckgabe Loesung Audits. Output: AVV-Pruefmemo oder Vertragsentwurf. Abgrenzung: nicht fuer Joint-Controller-Vereinbarungen (joint-controller-vereinbarung)."
+description: "Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rückgabe Lösung Audits. Output: AVV-Prüfmemo oder Vertragsentwurf. Abgrenzung: nicht für Joint-Controller-Vereinbarungen (joint-controller-vereinbarung)."
 ---
 
 # AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO
@@ -12,13 +12,13 @@ Strukturierte Prüfung eingehender oder ausgehender Auftragsverarbeitungsverträ
 ## Eingaben
 
 - AVV-Dokument (Datei oder Paste)
-- Richtung (optional): „Wir sind AV" oder „Wir sind Verantwortlicher" – sonst automatische Erkennung
+- Richtung (optional): "Wir sind AV" oder "Wir sind Verantwortlicher" – sonst automatische Erkennung
 - Optional: Liste bekannter Sub-AVs des Anbieters
 - Optional: Land der Datenverarbeitung / Hosting-Region
 
 ## Ablauf
 
-1. **Richtungserkennung.** Wer ist „Auftraggeber" / „Verantwortlicher", wer „Auftragnehmer" / „Auftragsverarbeiter" im vorgelegten Dokument? Parteienbezeichnung, Weisungsklauseln und Haftungsstruktur prüfen. Bei Unklarheit fragen.
+1. **Richtungserkennung.** Wer ist "Auftraggeber" / "Verantwortlicher", wer "Auftragnehmer" / "Auftragsverarbeiter" im vorgelegten Dokument? Parteienbezeichnung, Weisungsklauseln und Haftungsstruktur prüfen. Bei Unklarheit fragen.
 
 2. **Art. 28 DSGVO Pflichtklausel-Check.** Jede gesetzlich vorgeschriebene Klausel prüfen:
 
@@ -51,7 +51,7 @@ Strukturierte Prüfung eingehender oder ausgehender Auftragsverarbeitungsverträ
    - EU-SCC: Modul korrekt (AV-zu-AV, Verantwortlicher-zu-AV)? Technische Anlage befüllt?
    - DPF: Anbieter auf DPF-Liste eingetragen (data.privacyframework.gov)? `[Modellwissen – prüfen, da DPF ggf. geändert]`
    - TIA nach EDSA-Empfehlungen 01/2020 erforderlich? (Ja, wenn SCC ohne zusätzliche Schutzmaßnahmen nicht ausreichen)
-   - Risikobewertung: EuGH Schrems II-Kriterien anwenden (C-311/18, NJW 2020, 2945) `[Modellwissen – prüfen]`
+   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 6. **Redline-Vorschläge.** Für jede 🔴-Klausel konkreten Änderungsvorschlag formulieren – in Vertragssprache, nicht als Memo-Kommentar.
 
@@ -69,14 +69,14 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 32 DSGVO (TOM)
 - Art. 44–49 DSGVO (Drittlandtransfer)
 - Beschluss 2021/914/EU (EU-SCC, neue Standardvertragsklauseln)
-- EuGH, Urt. v. 16.07.2020 – C-311/18 (Schrems II), NJW 2020, 2945 (TIA-Grundlage)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EDSA-Empfehlungen 01/2020 zur Transferfolgenabschätzung (TIA), Stand 2022
 - EDSA-Leitlinien 07/2022 zu Zertifizierungen als Transfermechanismus
-- Hartung, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 28 Rn. 65 ff. (Sub-AV).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Schantz, in: Simitis/Hornung/Spiecker, Datenschutzrecht, 1. Aufl. 2019, Art. 28 Rn. 1 ff.
 - Werkmeister, in: Gola, DSGVO, 2. Aufl. 2018, Art. 28 Rn. 1 ff.
 - Plath, in: Plath, DSGVO/BDSG, 3. Aufl. 2021, Art. 28 Rn. 1 ff.
-- Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 28 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -106,13 +106,13 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 **Sachverhalt:** Ein SaaS-Anbieter aus den USA legt einen AVV vor. Daten werden auf AWS-Servern in der EU (Frankfurt) sowie auf Support-Systemen in den USA verarbeitet.
 
 **Analyse Sub-AV-Klausel:**
-Der AVV sieht eine allgemeine Genehmigung für Sub-Auftragsverarbeiter vor (Art. 28 Abs. 2 Alt. 1 DSGVO), jedoch beträgt die Wechselfrist nur 7 Tage. Dies unterschreitet die praxisübliche Mindestfrist von 4 Wochen erheblich. Die EDSA-Leitlinien verlangen zwar keine konkrete Mindestfrist, eine 7-Tage-Frist ermöglicht jedoch faktisch keine sinnvolle Prüfung und Einwendung des Verantwortlichen. Vgl. Hartung, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 28 Rn. 70: Einspruchsfrist muss dem Verantwortlichen eine tatsächliche Prüfung ermöglichen. **Bewertung: 🔴 Blockend.**
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 **Redline-Vorschlag:**
-> „Der Auftragsverarbeiter informiert den Verantwortlichen mindestens **30 (dreißig)** Tage im Voraus über geplante Änderungen an der Sub-Auftragsverarbeiter-Liste. Innerhalb dieser Frist kann der Verantwortliche Einspruch erheben. Bei berechtigtem Einspruch, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Maßnahmen ausräumen kann, ist der Verantwortliche zur außerordentlichen Kündigung berechtigt."
+> "Der Auftragsverarbeiter informiert den Verantwortlichen mindestens **30 (dreißig)** Tage im Voraus über geplante Änderungen an der Sub-Auftragsverarbeiter-Liste. Innerhalb dieser Frist kann der Verantwortliche Einspruch erheben. Bei berechtigtem Einspruch, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Maßnahmen ausräumen kann, ist der Verantwortliche zur außerordentlichen Kündigung berechtigt."
 
 **Analyse Drittlandtransfer (USA, Support-Systeme):**
-Der AVV enthält EU-SCC nach Beschluss 2021/914/EU (Modul 2: Verantwortlicher-zu-AV). Eine TIA nach den EDSA-Empfehlungen 01/2020 ist vorzunehmen. Prüfungsschritte nach Schrems II (EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2945 Rn. 134 ff.):
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Rechtslage im Empfängerland (USA: FISA Section 702, EO 14086 – PPD-28-Nachfolger) `[Modellwissen – prüfen]`
 2. Praktische Wahrscheinlichkeit des Zugriffs (Support-Systeme mit Personalbezug: mittel)
 3. Zusätzliche Schutzmaßnahmen erforderlich? (Empfehlung: Pseudonymisierung Support-Daten, Zugriffsprotokolle)
@@ -122,8 +122,8 @@ Der AVV enthält EU-SCC nach Beschluss 2021/914/EU (Modul 2: Verantwortlicher-zu
 - **Richtungsverwechslung:** Falsches SCC-Modul hat keine Schutzwirkung. Art. 28 Abs. 4 DSGVO setzt voraus, dass Sub-AV-Kette rechtswirksam abgesichert ist.
 - **Veraltete SCC:** Altes SCC-Muster (2001/497/EG, 2004/915/EG) ist seit 27.09.2021 nicht mehr für neue Verträge verwendbar; bestehende Altverträge waren bis 27.12.2022 umzustellen (§ 46 Abs. 5 DSGVO-Beschluss). `[Modellwissen – aktuellen Status prüfen]`
 - **DPF-Validität:** Das EU-US Data Privacy Framework steht unter politischem Vorbehalt (vgl. Schrems II zur Vorgänger-Regelung). DPF-Eintrag auf data.privacyframework.gov vor Unterschrift prüfen.
-- **TIA nur Formalie:** Eine TIA muss ehrliche Risikobewertung enthalten. Pauschal „Risiko akzeptabel" ohne Begründung genügt Art. 28 DSGVO und den EDSA-Empfehlungen 01/2020 nicht.
-- **Sub-AV-Haftungslücke:** Art. 28 Abs. 4 DSGVO verlangt, dass dem Sub-AV „dieselben Datenschutzpflichten" auferlegt werden. Ein AVV, der nur auf die DSGVO verweist, ohne Mindestklauseln zu spiegeln, erfüllt diese Anforderung nicht (str., vgl. Hartung, in: Kühling/Buchner, Art. 28 Rn. 80).
+- **TIA nur Formalie:** Eine TIA muss ehrliche Risikobewertung enthalten. Pauschal "Risiko akzeptabel" ohne Begründung genügt Art. 28 DSGVO und den EDSA-Empfehlungen 01/2020 nicht.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Berufsgeheimnisträger:** Bei Mandanten-AVVs (Kanzleien, Ärzte) muss der AVV § 203 StGB und § 43a Abs. 2 BRAO berücksichtigen – unzureichende Vertraulichkeitsklausel kann Strafbarkeit begründen.
 
 ## Quellen / Updates
@@ -138,10 +138,7 @@ Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarb
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 05.12.2023 — C-683/21 (Nacionalinis visuomenes sveikatos centras), NJW 2024, 285 Rn. 62–78: Abgrenzung Art. 26 DSGVO (Gemeinsame Verantwortlichkeit) von Art. 28 DSGVO (Auftragsverarbeitung); entscheidend ist, ob der Dienstleister eigene Zwecke und Mittel festlegt oder nur im Auftrag des Verantwortlichen handelt.
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms), NJW 2023, 2555 Rn. 88: Wer über Verarbeitungszwecke und -mittel gemeinsam entscheidet, ist gemeinsam Verantwortlicher nach Art. 26 DSGVO — falsche Einordnung als Art. 28 DSGVO schafft Haftungsrisiken.
-- BGH, Urt. v. 26.09.2023 — VI ZR 97/22, NJW 2024, 234 Rn. 22: Zur Abgrenzung von Auftragsverarbeitung und eigenverantwortlicher Verarbeitung bei Cloud-Diensten; Einstufung folgt tatsächlicher Weisungsgebundenheit, nicht vertraglicher Bezeichnung.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: Art. 82 DSGVO — Haftung bei Datenpanne; unzureichende AVV-Absicherung erhöht Haftungsrisiko des Verantwortlichen erheblich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage-Frage (Entscheidungsbaum AVV)
 
@@ -152,7 +149,7 @@ Prüfungsrichtung?
   Unklar → Richtungserkennung über Parteienbezeichnung und Weisungsklausel
 
 Drittlandbezug?
-  Ja → TIA nach Schrems II (EuGH C-311/18); EU-SCC Modul prüfen
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Nein → kein TIA erforderlich
 
 Sub-AVs mit Drittlandexposure?

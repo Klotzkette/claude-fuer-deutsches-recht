@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Internationales Wirtschafts- und Schiedsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Internationales Wirtschafts- und Schiedsrecht
@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -160,9 +159,7 @@ Klassische Stolperfalle in Internationales Wirtschafts- und Schiedsrecht:
 
 ### Leitsaetze
 
-- BGH, Urt. v. 11.07.2018 - XII ZR 108/17, NJW 2018, 2788 Rn. 22 — Auslegung Abgeltungsklausel im Vergleich: Pauschalformulierung "alle Anspruche sind erledigt" erfasst nur bekannte und erkennbare Anspruche aus dem Sachverhalt; spater entdeckte Schaeden mit selbstaendiger Schadensursache nicht erfasst.
-- BGH, Urt. v. 25.03.2020 - VIII ZR 64/19, NJW 2020, 2032 — Arglist bei Vergleichsschluss: Liegt der Gegenseite eine wesentliche Tatsache bekannt vor, die sie im Vergleichsgesprach verschweigt, kann der Vergleich nach § 123 BGB angefochten werden; Sorgfaltspflicht bei internationalen Vergleichen erhoht.
-- EuGH, Urt. v. 06.09.2012 - C-619/10 (Trade Agency), EuZW 2012, 912 — Schiedsvergleich: Vollstreckung nach New Yorker Ubereinkommen darf nicht an schematischen inlaendischen Formvorschriften scheitern; ordre public-Einwand nur bei offensichtlichem Verstoss gegen wesentliche Rechtsgrundsatze.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Vergleich IWR
 
@@ -174,12 +171,9 @@ Klassische Stolperfalle in Internationales Wirtschafts- und Schiedsrecht:
 - **§ 123 BGB** — Anfechtung wegen arglistiger Tauschung im Vergleich
 - **§ 138 BGB** — Sittenwidrigkeit unangemessener Vergleichsklauseln
 
-### Kommentarliteratur
+### Quellenregel
 
-- Musielak/Voit, ZPO, § 796a Rn. 1-20 — Anwaltsvergleich
-- Wieczorek/Schutze, ZPO, § 794 Rn. 40-65 — Prozessvergleich
-- MuKo BGB/Habersack, § 779 Rn. 1-45 — Vergleichsrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Verhandlung
 
 Bevor losgelegt wird, klaere:
@@ -249,5 +243,3 @@ durch: [RA Name]                 durch: [RA Name]
 ```
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** BGH VIII ZR 244/17 (10.04.2019) und BGH VIII ZR 101/06 (07.02.2007) wurden auf dejure.org nicht gefunden (NOT_FOUND). Beide Leitsaetze konnten nicht verifiziert werden. Die entsprechenden Zeilen aus dem Abschnitt "Leitsaetze" wurden entfernt. Das Thema "Anwaltsvergleich § 796a ZPO" und "Vergleich mit Ratenvereinbarung" sind rechtlich valide Themen; fuer belegte Entscheidungen bitte eigene Recherche auf dejure.org oder juris durchfuehren.

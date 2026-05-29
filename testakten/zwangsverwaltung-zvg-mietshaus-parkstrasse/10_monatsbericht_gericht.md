@@ -121,7 +121,7 @@ Die Zwangsverwalterin überreicht anliegend einen **Genehmigungsantrag** für fo
 
 **Gesamtbetrag Antrag: 6.500,00 EUR**
 
-Details und Angebote: vgl. gesondertes Dokument „Genehmigungsantrag Instandhaltung" (beiliegend).
+Details und Angebote: vgl. gesondertes Dokument "Genehmigungsantrag Instandhaltung" (beiliegend).
 
 ---
 

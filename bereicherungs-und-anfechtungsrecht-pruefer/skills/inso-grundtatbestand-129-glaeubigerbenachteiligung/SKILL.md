@@ -1,6 +1,6 @@
 ---
 name: inso-grundtatbestand-129-glaeubigerbenachteiligung
-description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klaeren: Rechtshandlung, objektive Glaeubigerbenachteiligung, Kausalitaet. Normen: § 129 InsO. Pruefraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitaetspruefung. Output: Checkliste Grundtatbestand als Einstieg fuer §§ 130 ff. InsO. Abgrenzung: nicht AnfG (ohne Insolvenzeroffnung)."
+description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Einstieg für §§ 130 ff. InsO. Abgrenzung: nicht AnfG (ohne Insolvenzeröffnung)."
 ---
 
 # Grundtatbestand Insolvenzanfechtung — § 129 InsO
@@ -12,6 +12,7 @@ description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klae
 3. Liegt eine Rechtshandlung (rechtlich wirksames Handeln/Unterlassen) oder ein bloßer Tatsachenakt vor?
 4. Sind die Befriedigungsaussichten der Insolvenzgläubiger durch die Handlung tatsächlich verschlechtert worden?
 5. Handelt es sich um unmittelbare oder mittelbare Benachteiligung?
+6. Sind alle Tatsachen aus der Akte belegt, oder handelt es sich um KI-Inferenz?
 
 ## Zentrale Normen
 
@@ -19,18 +20,15 @@ description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klae
 
 ## Rechtsprechung
 
-BGH, Urt. v. 09.06.2016 – IX ZR 314/14, NJW 2016, 2580 — Der Begriff der Rechtshandlung in § 129 InsO ist weit auszulegen; er umfasst jedes rechtserhebliche Handeln oder Unterlassen des Schuldners, das eine rechtliche Wirkung auslöst und das Schuldnervermögen berührt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.11.2007 – IX ZR 121/06, NJW-RR 2008, 573 — Mittelbare Benachteiligung ist ausreichend, wenn der Kausalzusammenhang zwischen der Rechtshandlung und der Schlechterstellung der Gläubiger feststeht; bloße Befürchtungen oder Vermutungen genügen nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.04.2006 – IX ZR 185/04, NJW 2006, 2701 — Das Anfechtungsrecht nach §§ 129 ff. InsO steht ausschließlich dem Insolvenzverwalter zu; der einzelne Gläubiger hat außerhalb des Insolvenzverfahrens nur das Recht nach §§ 1 ff. AnfG, das einen vollstreckbaren Titel erfordert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–80 (Rechtshandlung, Benachteiligung, Kausalität).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 129 Rn. 1–60 (Grundtatbestand, Abgrenzungen).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, Vorbem. §§ 129–147 Rn. 1–25 (Systematik der Insolvenzanfechtung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 129 InsO ist die Generalklausel der Insolvenzanfechtung. Sie bildet die Voraussetzungen, die jeder besondere Anfechtungstatbestand (§§ 130–135 InsO) zusätzlich erfüllen muss.
@@ -63,9 +61,13 @@ Die Rechtshandlung muss vor Eröffnung des Insolvenzverfahrens vorgenommen worde
 
 Die Rechtshandlung muss kausal für die Benachteiligung sein: Wären die Gläubiger ohne die Handlung besser gestellt?
 
+## KI-Auswertung von Schuldnerakten
+
+Bei KI-gestützter Aktenauswertung darf § 129 InsO nur als Kandidat markiert werden, wenn Rechtshandlung, Zeitpunkt, Vermögensabfluss und Gläubigerbenachteiligung jeweils mit einer Quelle belegt sind. Nicht belegte Plausibilitäten werden als Lücke ausgegeben, nicht als Tatsache.
+
 ## Anfechtungsberechtigte
 
-Nur der Insolvenzverwalter, der Sachwalter (§ 270b InsO) oder der starke vorläufige Insolvenzverwalter (§ 21 Abs. 2 S. 1 Nr. 1 InsO).
+Regelmäßig macht der Insolvenzverwalter die Anfechtung geltend. In Eigenverwaltung ist § 280 InsO zu beachten; dort kann der Sachwalter Rechtshandlungen nach §§ 129 bis 147 InsO anfechten. Bei vorläufiger Verwaltung ist die konkrete gerichtliche Anordnung zu prüfen.
 
 ## Prüfschema
 
@@ -95,12 +97,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 239/04 (als Urt. v. 16.11.2006 zitiert) geloescht: WRONG_TOPIC.
-Echtes Urteil existiert auf dejure.org (16.11.2006) und behandelt Anwendbarkeit
-der Verjaehrungsfrist § 146 InsO auf Altfaelle — kein Urteil zur Glaeubigerbenachteiligung
-als Tatbestandsmerkmal des § 129 InsO. NJW 2007, 1129 ist auf dejure.org nicht
-verzeichnet (dejure zeigt NJW 2007, 436). Falsche Fundstelle und WRONG_TOPIC.
-Verifiziert via dejure.org. Kein Ersatz ergaenzt.
--->

@@ -31,7 +31,7 @@ Blue Harbor Holdings Ltd.
     (Treuhandstruktur laut Selbstauskunft)
 ```
 
-Hinter Blue Harbor Holdings Ltd. steht nach eigener Aussage des Vertreters Andrei Moldovan eine „komplexe Treuhandkonstruktion mit mehreren Benefiziaries". Konkrete natürliche Personen wurden trotz Anforderung (16.04.2026, 08.05.2026) nicht benannt.
+Hinter Blue Harbor Holdings Ltd. steht nach eigener Aussage des Vertreters Andrei Moldovan eine "komplexe Treuhandkonstruktion mit mehreren Benefiziaries". Konkrete natürliche Personen wurden trotz Anforderung (16.04.2026, 08.05.2026) nicht benannt.
 
 ---
 
@@ -41,7 +41,7 @@ Hinter Blue Harbor Holdings Ltd. steht nach eigener Aussage des Vertreters Andre
 
 - Datum Selbstauskunft: 16.04.2026
 - Ergebnis: Blue Harbor Holdings Ltd. als Gesellschafter angegeben; keine natürliche Person identifiziert
-- Aussage GF Andrei Moldovan: „Beneficial ownership liegt bei einer Treuhandkonstruktion, Details sind aus Datenschutzgründen nicht offenlegbar"
+- Aussage GF Andrei Moldovan: "Beneficial ownership liegt bei einer Treuhandkonstruktion, Details sind aus Datenschutzgründen nicht offenlegbar"
 
 **Bewertung:** Die Berufung auf Datenschutz als Verweigerungsgrund für die UBO-Offenlegung ist rechtlich nicht tragfähig. Nach § 10 Abs. 1 Nr. 2 GwG i.V.m. § 3 GwG ist die Musterholding GmbH als Verpflichtete berechtigt und verpflichtet, Informationen zu wirtschaftlich Berechtigten zu erheben. Die Weigerung ist ein eigenständiger Risikoindikator.
 

@@ -1,0 +1,407 @@
+[
+  {
+    "court": "BGH",
+    "az": "VII ZB 38/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Austauschpfändung (ZPO)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZB 79/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Berufsausübung PC (Pfändungsschutz für Berufsgeräte)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZB 8/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Reichweite der Anschlusspfändung (ZPO)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 100/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Schadensersatz des Bestellers bei fehlerhafter Planung (Werkvertragsrecht), NJW 2019, 293",
+    "claimed_topic": "Arglistig verschwiegener Mangel, NJW 2019, 293",
+    "source_url": "https://dejure.org/2018,42720",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 11/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Reichweite Unterwerfung in das gesamte Vermögen (Zwangsvollstreckung)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 173/93",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Schiedsgutachten im Baurecht",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 19/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Fristdauer bei Nacherfüllung richtet sich nach Komplexität (Werkvertragsrecht)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 207/07",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Vertragstyp BGB-Werkvertrag vs. VOB/B-Vertrag",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 26/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Überhöhter Drittunternehmerpreis bei Selbstvornahme (Werkvertragsrecht)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 35/03",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Fiktive Abnahme § 640 Abs. 2 BGB (Werkvertragsrecht)",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 54/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "",
+    "claimed_topic": "Selbständiges Beweisverfahren (§ 485 ff. ZPO) im Werkvertragsrecht",
+    "source_url": "",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VII ZR 64/07",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Werkvertragsrecht (BGHZ 178, 267), Datum: 23.10.2008",
+    "claimed_topic": "Vortrag des Bestellers (Substantiierungspflicht), BGHZ 178, 267",
+    "source_url": "https://dejure.org/2008,938",
+    "skills": ""
+  },
+  {
+    "court": "BGH",
+    "az": "VIII ZR 152/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": null,
+    "claimed_topic": "- BGH VIII ZR 152/09 / VIII ZR 41/12 / VIII ZR 200/14 zur Unwirksamkeit starr Fristen-Klauseln",
+    "source_url": null,
+    "skills": "mietrecht/skills/mietkaution-rueckforderung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "VIII ZR 155/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH VIII ZR 155/21 (06.07.2022): Preisanpassungsklauseln in Fernwärmelieferungsverträgen; Teilnichtigkeit § 306 BGB",
+    "claimed_topic": "VIII ZR 155/21, NJW 2022, 2490 — Anschluss-und-Benutzungszwang Fernwaerme nach kommunalem Satzungsrecht; Verhaeltnismaessigkeit gegenueber Grundrecht ",
+    "source_url": "https://dejure.org/2022,20495",
+    "skills": "energierecht/skills/energierecht-waerme-quartier/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ARZ 60/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Verweisungsbeschluss §281 ZPO – Bindung, nur enge Ausnahmen",
+    "claimed_topic": "Streitige Zuständigkeit §281 ZPO: Verweisungsbeschluss bindet übernehmendes Gericht",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.09.2022&Aktenzeichen=X+ARZ+60%2F22",
+    "skills": "urteilsbauer-relationsmacher/skills/zulaessigkeit-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZB 1/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Patentrecht, keine Details aus Datenbanken verfügbar",
+    "claimed_topic": "Unwirksamkeit (Patentverfahren)",
+    "source_url": "",
+    "skills": "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-de-facto-vergabe-klage/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZB 1/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Konnte nicht verifiziert werden; möglicher Kontext: beA/Fristversäumung Verfahren",
+    "claimed_topic": "Mehrseitige Anlagen: erste Seite muss erkennbar sein (NJW 2021, 1959)",
+    "source_url": "",
+    "skills": "anlagen-zu-schriftsaetzen/skills/anlagen-zu-schriftsaetzen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZB 3/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "X ZB 3/14 nicht eindeutig als Patentnichtigkeitsurteil identifizierbar; X ZB 3/17 (Vergabe) gefunden",
+    "claimed_topic": "Patentnichtigkeit ex tunc Wirkung",
+    "source_url": "",
+    "skills": "patentrecherche/skills/rechtsstand-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 140/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; X ZR 140/09 als Patentanwaltspflichtenfall nicht in Datenbanken gefunden",
+    "claimed_topic": "Patentanwalt Belehrungspflicht bei Anmeldung",
+    "source_url": "",
+    "skills": "patentrecherche/skills/rueckfragen-mandant/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 149/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "X ZR 149/12 (20.10.2015) auf Dejure verzeichnet; Inhalt Patentanwaltshaftung nicht verifizierbar",
+    "claimed_topic": "Patentanwalt haftet bei fehlerhafter Anmeldung (14.03.2017 – abweichendes Datum)",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.10.2015&Aktenzeichen=X+ZR+149%2F12",
+    "skills": "patentrecherche/skills/patentrecherche-kaltstart-interview/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 166/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar in gefundenen Quellen",
+    "claimed_topic": "Nicht-Patent-Literatur (NPL) kann Stand der Technik begründen",
+    "source_url": "",
+    "skills": "patentrecherche/skills/stand-der-technik-recherche/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 181/03",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Einspruchsfrist §59 PatG beginnt mit Veröffentlichung der Patenterteilung",
+    "source_url": "",
+    "skills": "patentrecherche/skills/ueberwachung-konkurrenten/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 208/05",
+    "status": "UNVERIFIABLE",
+    "real_topic": "VIII ZR 208/05 (19.10.2005) auf Dejure gefunden (anderer Senat); X ZR 208/05 Patent-Vorbenutzung nicht verifiziert",
+    "claimed_topic": "Offenkundige Vorbenutzung erfordert öffentlich zugängliche Benutzung vor Anmeldetag",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.10.2005&Aktenzeichen=VIII+ZR+208%2F05",
+    "skills": "patentrecherche/skills/stand-der-technik-recherche/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 209/00",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Festmaterial: Auslegung der Patentansprüche, Beschreibung nur ergänzend",
+    "source_url": "",
+    "skills": "patentrecherche/skills/klassifikation-cpc-ipc/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 22/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Anspruchsänderung im Erteilungsverfahren – Offenbarungserfordernis",
+    "source_url": "",
+    "skills": "patentrecherche/skills/pruefungsbescheid-vorbereiten/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 3/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Rohrverzweigung: Vorveröffentlichungen nach dem Prioritätsdatum irrelevant",
+    "source_url": "",
+    "skills": "patentrecherche/skills/agentische-datenbank-recherche/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 35/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Erlöschen Patent wegen Nichtzahlung Jahresgebühr (§20 PatG)",
+    "source_url": "",
+    "skills": "patentrecherche/skills/rechtsstand-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 5/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Dreifingergreifer: offenbarte Obergrenze einer Zahlangabe begrenzt Schutzbereich",
+    "source_url": "",
+    "skills": "patentrecherche/skills/neuheit-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 72/94",
+    "status": "UNVERIFIABLE",
+    "real_topic": "IX ZR 72/94 (16.03.1995) auf Dejure; X ZR 72/94 Patentsache nicht direkt verifizierbar",
+    "claimed_topic": "Elektrische Steckverbindung: erfinderische Tätigkeit durch Kombination bekannter Elemente",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=16.03.1995&Aktenzeichen=IX+ZR+72%2F94",
+    "skills": "patentrecherche/skills/erfinderische-taetigkeit-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "X ZR 76/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "PCT-Patent erhält Wirkung erst nach nationaler/regionaler Phase",
+    "source_url": "",
+    "skills": "patentrecherche/skills/patentfamilien-analyse/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZB 23/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "XI ZB 23/22 nicht direkt gefunden; beA-Sorgfaltspflichten allgemein in verwandter Rspr. bestätigt",
+    "claimed_topic": "Sorgfaltspflichten bei beA-Übermittlung",
+    "source_url": "",
+    "skills": "forderungsmanagement-klagewerkstatt/skills/klagevorlage-aus-eigenen-mustern/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 101/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Bezeichnung 'Widerspruchsrecht' statt 'Widerrufsrecht' macht Belehrung fehlerhaft",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/widerrufsjoker-immobiliendarlehen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 130/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Plausibilitätsprüfung-Grundsatz allgemein in XI ZR 338/08 belegt",
+    "claimed_topic": "Bank: Pflicht zur Plausibilitätsprüfung des Prospekts",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/anlageberatungsfehler-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 159/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "XI ZR 159/21 nicht direkt verifizierbar; XI ZR 159/24 (03.02.2026) in NWB gefunden – andere Sache",
+    "claimed_topic": "BaFin-Beschwerde §4b FinDAG – Klagerecht Verbraucher (NJW 2022,1234)",
+    "source_url": "https://datenbank.nwb.de/Dokument/1088352/",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 18/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "XI ZR 18/08 (14.07.2009) gefunden (Verjährung Bürgschaft); XI ZR 18/09 nicht direkt bestätigt",
+    "claimed_topic": "Verjährung §197 Abs.1 Nr.5 BGB",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=XI+ZR+18%2F08",
+    "skills": "zwangsvollstreckung/skills/zv-tabellenauszug-201-inso/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 187/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "XI ZR 187/13 (10.02.2015) auf Streifler.de gefunden; Inhalt (Call-ID-Spoofing/Täuschung) nicht vollständig verifiziert",
+    "claimed_topic": "Call-ID-Spoofing: Täuschung über Anruferidentität durch Bankbetrüger",
+    "source_url": "https://www.streifler.de/urteil/bgh/urteil-xi-zr-18713-2015-02-10",
+    "skills": "phishing-vorfall-pruefer/skills/phishing-vorfall-pruefen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 199/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; XI ZR 199/16 (15.05.2018) gefunden – andere Sache",
+    "claimed_topic": "Widerrufsbelehrung nicht hervorgehoben, versteckt – fehlerhaft",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.05.2018&Aktenzeichen=XI+ZR+199%2F16",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/widerrufsjoker-immobiliendarlehen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 252/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "I ZR 252/15 (28.07.2016) auf Dejure gefunden – anderer Senat; XI ZR 252/15 nicht direkt verifizierbar",
+    "claimed_topic": "Sicherheitenverwertung erst nach Fälligkeit und Mahnung",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XI ZR 386/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Verjährung §195 BGB bei Anlageberatung ab Schadenseintritt",
+    "source_url": "",
+    "skills": "fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 232/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; Inhalt unbekannt",
+    "claimed_topic": "BGH XII ZB 232/23, NJW-RR 2024",
+    "source_url": "",
+    "skills": "verlagsredaktion/skills/verlagsredaktion/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 288/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; anwaltliche Verschwiegenheit in Betreuungsverfahren",
+    "claimed_topic": "Anwaltliche Verschwiegenheitspflicht im Betreuungsverfahren (NJW 2015,2944)",
+    "source_url": "",
+    "skills": "ki-governance/skills/ki-governance-mandat-arbeitsbereich/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZB 35/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; XII ZB 230/16 (2021) behandelt externe Teilung",
+    "claimed_topic": "Externe Teilung Versorgungsausgleich",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/skills/fachanwalt-familienrecht-versorgungsausgleich/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 113/04",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Fiktives Einkommen bei Verletzung Erwerbsobliegenheit (Unterhalt)",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/skills/unterhalt-duesseldorfer-tabelle/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 13/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Kaution bei Gewerbemietvertrag",
+    "source_url": "",
+    "skills": "mietrecht/skills/mietkaution-rueckforderung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XII ZR 138/06",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; XII ZR 138/08 (02.06.2010) gefunden – andere Sache",
+    "claimed_topic": "Eheliche Lebensverhältnisse als Maßstab für nachehelichen Unterhalt",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=02.06.2010&Aktenzeichen=XII+ZR+138%2F08",
+    "skills": "fachanwalt-familienrecht/skills/unterhalt-duesseldorfer-tabelle/SKILL.md"
+  }
+]

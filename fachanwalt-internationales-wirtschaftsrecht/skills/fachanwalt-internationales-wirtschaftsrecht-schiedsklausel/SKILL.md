@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-schiedsklausel
-description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Pruefraster: Formvorschrift Art. II UN-Uebereinkommen New York 1958 Schriftform Schiedsfaehigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren)."
+description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren)."
 ---
 
 # Schiedsklausel — Prüfung und Gestaltung
@@ -24,7 +24,7 @@ description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir e
 - § 1029 ZPO — Schiedsvereinbarung, Begriff: Vertrag über privat-rechtlichen Rechtsstreit mit Schiedsgericht anstelle von staatlichem Gericht.
 - § 1030 ZPO — Schiedsfähigkeit: vermögensrechtliche Ansprüche stets; nicht vermögensrechtliche soweit vergleichsfähig.
 - § 1031 ZPO — Schriftform: Abs. 1 eigene Urkunde oder gewechselte Schreiben; Abs. 2 Telekommunikation genügt; Abs. 3 Bezugnahme auf Dokument mit Schiedsklausel ausreichend; Abs. 5 Verbraucher gesonderte eigenhändig unterzeichnete Urkunde zwingend.
-- § 1032 ZPO — Einrede der Schiedsvereinbarung: muss spätestens mit dem ersten Sachvortrag vor dem staatlichen Gericht erhoben werden; vgl. BGH III ZR 172/02.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 1040 ZPO — Kompetenz-Kompetenz: Schiedsgericht entscheidet selbst über eigene Zuständigkeit; Trennungsprinzip (Severability): Schiedsvereinbarung ist selbständig vom Hauptvertrag zu beurteilen.
 - § 1051 ZPO — Anwendbares materielles Recht nach Parteiwahl; subsidiär Recht mit engster Verbindung.
 - § 1059 ZPO — Aufhebungsantrag für inländische Schiedssprüche: abschließender Katalog; Frist drei Monate ab Empfang des Schiedsspruchs.
@@ -45,11 +45,7 @@ description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir e
 
 ### Wichtige BGH-Entscheidungen
 
-- BGH, Beschl. v. 23.06.2015 — **I ZB 13/15**: enge Auslegung von Aufhebungsgründen § 1059 ZPO; Verfahrensfehler müssen entscheidungserheblich sein.
-- BGH, Urt. v. 06.04.2017 — **I ZR 154/15** (FIFA/Pechstein): Schiedsklausel im Sport grundsätzlich wirksam, aber Machtungleichgewicht beachten.
-- BGH, Beschl. v. 30.01.2020 — **I ZB 55/19**: inländischer Schiedsspruch; Aufhebung wegen verletzten rechtlichen Gehörs § 1059 Abs. 2 Nr. 1 lit. b) ZPO.
-- BGH, Beschl. v. 09.11.2023 — **I ZB 57/22**: Vollstreckbarerklärung ausländischer Schiedsspruch — ordre-public-Kontrolle.
-- OLG Frankfurt, Beschl. v. 26.01.2023 — **26 Sch 13/22**: Bestimmtheit der Schiedsklausel; Mindestinhalt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -213,11 +209,10 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 
 | Einwand | Reaktion |
 |---|---|
-| Schiedsklausel zu unbestimmt | Nachweisen, dass Mindestinhalt vorhanden (Institution oder UNCITRAL, Streitgegenstand); BGH I ZB 57/22 zum Mindestinhalt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verbraucherschutz § 1031 Abs. 5 ZPO | Parteieigenschaft als Unternehmer prüfen und belegen; bei echtem Verbraucher Klausel unwirksam — staatliche Gerichte |
 | Schiedsvereinbarung durch Insolvenz erlöschen | § 116 InsO analog: Schiedsvereinbarung bleibt grds. bestehen; Insolvenzverwalter kann eintreten |
-| Ordre-public-Verstoß Art. V Abs. 2 lit. b) NYC | Enger Maßstab — nur fundamentale Grundsätze; BGH I ZB 55/19; bloße Rechtsanwendungsfehler genügen nicht |
-| Schiedsfähigkeit fehlt (z. B. Markenrecht absolut) | Für Lizenz- und Vertragsstreitigkeiten Schiedsfähigkeit bejahen; Nichtigkeitsklagen patent- oder markenrechtlich strittig (BGH I ZB 38/13) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schiedsverfahren dauert zu lange — einstweiliger Rechtsschutz | §§ 1041, 1033 ZPO — staatliche Gerichte weiterhin für einstweiligen Rechtsschutz zuständig, sofern Schiedsvereinbarung nicht ausschließt |
 
 ## Streitwert und Kosten
@@ -252,7 +247,7 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 - UNCITRAL-Modellgesetz 2006
 - DIS-Schiedsgerichtsordnung 2021
 - ICC Rules of Arbitration 2021
-- BGH I ZB 13/15; I ZB 55/19; I ZB 57/22; I ZR 154/15; III ZR 172/02
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schwab/Walter Schiedsgerichtsbarkeit, 7. Aufl.
 - Born International Commercial Arbitration, 3rd ed.
 - Reithmann/Martiny Internationales Vertragsrecht
@@ -269,9 +264,7 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 
 ### Ergaenzende Leitsaetze Schiedsklausel
 
-- BGH, Beschl. v. 17.06.2021 - I ZB 25/20, NJW 2021, 2880 Rn. 22 — Form § 1031 ZPO: Textform genuegt; kaufmaennische Bestaetigung kann Schiedsklausel einbeziehen.
-- BGH, Beschl. v. 30.01.2020 - I ZB 42/19, NJW 2020, 1282 Rn. 18 — Pathologische Schiedsklausel: Bezeichnung als "ICC-London" unvereindeutig aber auslegbar als ICC Paris + Sitz London; Grundsatz der Wirksamkeitserhaltung.
-- BGH, Beschl. v. 25.03.2021 - I ZB 79/20, NJW 2021, 1967 Rn. 14 — Kompetenz-Kompetenz (§ 1040 ZPO): Schiedsgericht entscheidet selbst ueber seine Zustaendigkeit; staatliches Gericht nur bei Zustaendigkeitsruege am Schiedsgericht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Schiedsklausel (ICC-Standard)
 **Adressat:** Vertragspartner — Tonfall: sachlich-vertraglich

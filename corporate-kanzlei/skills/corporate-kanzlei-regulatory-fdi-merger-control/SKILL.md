@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-regulatory-fdi-merger-control
-description: "Anmeldepflichten Fusionskontrolle und FDI pruefen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionspruefung), SektSchV (Sektorschutz), TKG, EnWG. Pruefraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions."
+description: "Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions."
 ---
 
 # Regulatory, FDI und Fusionskontrolle
@@ -27,17 +27,11 @@ description: "Anmeldepflichten Fusionskontrolle und FDI pruefen: M&A-Transaktion
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 23.06.2020 - KVR 69/19, NZKart 2020, 375 — Facebook/WhatsApp: Bundeskartellamt kann aufgreifen wenn inlaendische Auswirkung; Marktdefinition bei Datenmaerkten
-- EuGH, Urt. v. 13.07.2023 - C-151/20, Rn. 54 — FKVO Aufgreifschwellen: Mitgliedstaat kann bei Unterschreitung der EU-Schwellen bei nationaler Zustaendigkeit bleiben; kein Verweisungsautomatismus
-- OLG Frankfurt, Beschl. v. 17.01.2022 - W 69/21 Kart, NZKart 2022, 218 — Gun Jumping: Vorfeldhandlungen vor Fusionskontrollfreigabe koennen Bussgeld auslosen; Informationsaustausch beschraenkt
-- BVerwG, Urt. v. 14.11.2023 - 6 C 8.22 — AWG-Investitionspruefung: BMWK-Untersagung von Erwerb chinesischer Investor in Halbleiterunternehmen; nationale Sicherheit als legitimer Grund
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Immenga/Mestmaecker, GWB (6. Aufl. 2020) §§ 35-43 — Zusammenschlusskontrolle
-- Stockenhuber in: MueKo Wettbewerbsrecht Bd. 2 FKVO Art. 1 ff. — EU-Fusionskontrolle
-- Ohler, AWG/AWV (2021) — FDI-Pruefung und Investitionspruefung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fusionskontrolle: Aufgreifschwellen
 
 ### Bundeskartellamt (§ 35 GWB)
@@ -134,5 +128,5 @@ Datum: [DATUM]
 ## Quellen
 
 - §§ 35-43 GWB; Art. 1-21 FKVO (EG) 139/2004; §§ 55, 56, 60 AWV; Verordnung (EU) 2019/452
-- BGH KVR 69/19 (Marktdefinition); EuGH C-151/20 (FKVO); BVerwG 6 C 8.22 (AWG-Untersagung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Immenga/Mestmaecker GWB (6. Aufl. 2020) §§ 35 ff.; Ohler AWG/AWV (2021)

@@ -11,7 +11,7 @@
 
 ## 1. Hintergrund
 
-Eine der zentralen SPA-Verhandlungsfragen im Projekt Silberfalke betrifft die Definition und den Umfang der sogenannten „Knowledge Clause". Diese Klausel bestimmt, wessen Kenntnis für die Qualifizierung der Garantien des Sellers relevant ist — insbesondere ob ein Seller, der einen Umstand „kennt", von der entsprechenden Garantie befreit ist, oder ob positive Kenntnis erst dann vorliegt, wenn ein namentlich benannter Wissensträger tatsächlich Kenntnis hat (gegenüber Kennenmüssen).
+Eine der zentralen SPA-Verhandlungsfragen im Projekt Silberfalke betrifft die Definition und den Umfang der sogenannten "Knowledge Clause". Diese Klausel bestimmt, wessen Kenntnis für die Qualifizierung der Garantien des Sellers relevant ist — insbesondere ob ein Seller, der einen Umstand "kennt", von der entsprechenden Garantie befreit ist, oder ob positive Kenntnis erst dann vorliegt, wenn ein namentlich benannter Wissensträger tatsächlich Kenntnis hat (gegenüber Kennenmüssen).
 
 Die Verhandlung der Knowledge Clause beeinflusst unmittelbar den Wert des Garantieregimes, die Abdeckung der W&I-Versicherung und die Risikoverteilung zwischen Seller und Käufer.
 
@@ -21,7 +21,7 @@ Die Verhandlung der Knowledge Clause beeinflusst unmittelbar den Wert des Garant
 
 **Formulierungsvorschlag Seller:**
 
-> „Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich ausschließlich auf die **tatsächliche, positive Kenntnis** (actual knowledge) der folgenden natürlichen Personen zum Zeitpunkt der Unterzeichnung dieses Vertrags:  
+> "Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich ausschließlich auf die **tatsächliche, positive Kenntnis** (actual knowledge) der folgenden natürlichen Personen zum Zeitpunkt der Unterzeichnung dieses Vertrags:  
 > (a) Friedrich Grünwald (Vorstand / CEO, Solaris Industries AG),  
 > (b) Thomas Bergmann (CFO, Solaris Industries AG),  
 > (c) Dr. Anna Seifert (Aufsichtsratsvorsitzende, Solaris Industries AG).  
@@ -44,7 +44,7 @@ Die Verhandlung der Knowledge Clause beeinflusst unmittelbar den Wert des Garant
 
 **Formulierungsvorschlag ECP:**
 
-> „Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich auf die tatsächliche, positive Kenntnis der folgenden natürlichen Personen sowie auf alles, was diese Personen bei Anwendung der in ihrer Position zu erwartenden Sorgfalt hätten wissen müssen (constructive knowledge):  
+> "Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich auf die tatsächliche, positive Kenntnis der folgenden natürlichen Personen sowie auf alles, was diese Personen bei Anwendung der in ihrer Position zu erwartenden Sorgfalt hätten wissen müssen (constructive knowledge):  
 > (a) Friedrich Grünwald (Vorstand / CEO),  
 > (b) Thomas Bergmann (CFO),  
 > (c) Dr. Anna Seifert (Aufsichtsratsvorsitzende),  
@@ -72,7 +72,7 @@ Für den Verhandlungsgang empfiehlt das Kanzlei-Team folgende Kompromissformulie
 
 **Formulierungsvorschlag MWK:**
 
-> „Knowledge des Verkäufers bezeichnet die tatsächliche, positive Kenntnis (actual knowledge) der nachfolgend genannten Schlüsselpersonen (die 'Wissensträger') zum Zeitpunkt der Unterzeichnung dieses Vertrags:  
+> "Knowledge des Verkäufers bezeichnet die tatsächliche, positive Kenntnis (actual knowledge) der nachfolgend genannten Schlüsselpersonen (die 'Wissensträger') zum Zeitpunkt der Unterzeichnung dieses Vertrags:  
 > (a) Friedrich Grünwald,  
 > (b) Thomas Bergmann,  
 > (c) Michael Krause,  
@@ -92,7 +92,7 @@ Für den Verhandlungsgang empfiehlt das Kanzlei-Team folgende Kompromissformulie
 Die W&I-Underwriter (Allianz Risk Transfer) haben klargestellt, dass sie folgende Knowledge-Clause-Ausgestaltungen akzeptieren:
 - Positive Kenntnis: Deckung **ja** (Standard)
 - VDR-Wissensfiktion: Deckung **ja** (anerkannt in Marktpraxis)
-- Constructive Knowledge umfassend: Deckung **problematisch** — Underwriter behalten sich vor, bereits im Datenraum offenbarierte Risiken als „bekannte Risiken" auszuschließen
+- Constructive Knowledge umfassend: Deckung **problematisch** — Underwriter behalten sich vor, bereits im Datenraum offenbarierte Risiken als "bekannte Risiken" auszuschließen
 
 **Folge:** ECP-Kompromissvariante (MWK-Vorschlag) ist W&I-konform und deckt den größten Teil des Schutzbedarfs.
 

@@ -20,7 +20,7 @@
 | **Auftraggeber** | Adriatic Commerce Ltd., Valletta, Malta |
 | **Auftraggeber-IBAN** | MT84 MALT 0110 0001 2345 MTLB 010 |
 | **Auftraggeber-Bank** | Bank of Valletta p.l.c., Valletta, Malta |
-| **Verwendungszweck** | „Advance Payment – Contract MH-DTS-2026-04" |
+| **Verwendungszweck** | "Advance Payment – Contract MH-DTS-2026-04" |
 | **Zugehöriger Vertrag** | MH-DTS-2026-04 (Danube Trade Solutions SRL — noch nicht unterschrieben) |
 | **Vertragspartner laut KYC** | Danube Trade Solutions SRL, Bukarest, Rumänien |
 | **Vertragspartner laut Zahlung** | Adriatic Commerce Ltd., Malta — abweichend |
@@ -65,7 +65,7 @@ Schwellenwert automatische Eskalation an GwB: 60. Schwellenwert Verdachtsmeldung
 
 ### 3.1 Hintergrund Adriatic Commerce Ltd.
 
-Adriatic Commerce Ltd. ist im maltesischen Handelsregister (MFSA Registry) eingetragen (Reg. Nr. C 74891, eingetragen 09.03.2021). Geschäftszweck laut Register: „General Trading". Director: Nominee. Jahresumsatz: nicht öffentlich verfügbar. Eine geschäftliche Verbindung zu Danube Trade Solutions SRL ist nicht dokumentiert; auf Anfrage (29.04.2026) gab Andrei Moldovan (Danube Trade) an, Adriatic Commerce Ltd. sei ein „verbundenes Unternehmen", ohne weitere Details zu nennen.
+Adriatic Commerce Ltd. ist im maltesischen Handelsregister (MFSA Registry) eingetragen (Reg. Nr. C 74891, eingetragen 09.03.2021). Geschäftszweck laut Register: "General Trading". Director: Nominee. Jahresumsatz: nicht öffentlich verfügbar. Eine geschäftliche Verbindung zu Danube Trade Solutions SRL ist nicht dokumentiert; auf Anfrage (29.04.2026) gab Andrei Moldovan (Danube Trade) an, Adriatic Commerce Ltd. sei ein "verbundenes Unternehmen", ohne weitere Details zu nennen.
 
 ### 3.2 Bewertung der Drittzahlung
 

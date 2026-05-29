@@ -1,6 +1,6 @@
 ---
 name: energietrassen-planfeststellung-rechtsschutz
-description: "Rechtsschutz gegen Planfeststellungsbeschluss fuer Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Pruefraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung."
+description: "Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Prüfraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung."
 ---
 
 # Energietrassen — Planfeststellung und Rechtsschutz
@@ -41,14 +41,7 @@ Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Off
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BVerwG 4 A 4.12 | 4 A 4.12 | 06.11.2013 | Planfeststellung Höchstspannungsleitung; Alternativenprüfung muss alle ernsthaft in Betracht kommenden Alternativen untersuchen |
-| BVerwG 4 C 7.04 | 4 C 7.04 | 26.04.2007 | Entwidmung Bahnflächen § 23 AEG vor Nutzung als Leitungstrasse |
-| BVerwG 9 A 5.20 | 9 A 5.20 | 12.11.2020 | Erdkabel-Vorrang § 4 EnLAG; Ermessen der Behörde bei Auswahl Kabelvariante; Lärmschutz-Abwägung |
-| BVerwG 4 A 11.18 | 4 A 11.18 | 14.03.2018 | LNG-Terminal-Planfeststellung; beschleunigtes Verfahren; Einschränkungen Rechtsschutz vereinbar mit Aarhus |
-| BVerfG 1 BvR 2656/18 | 1 BvR 2656/18 | 24.03.2021 | Klimaschutzpflicht; Ausstrahlungswirkung auf Genehmigungen fossiler Infrastruktur |
-| EuGH C-411/17 | C-411/17 | 29.07.2019 | UVP-Richtlinie; Verfahrensfehler bei UVP führen zu Aufhebungspflicht; keine pauschale Heilung |
-| EuGH C-275/09 | C-275/09 | 24.03.2011 | Aarhus-Konvention Art. 9; effektiver gerichtlicher Rechtsschutz in Umweltsachen |
-| OVG Hamburg 1 E 37/21 | 1 E 37/21 | 24.02.2022 | LNG-Terminal Brunsbüttel; Eilrechtsschutz gegen sofortige Vollziehung; Klimaschluss als Abwägungsposten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Planfeststellungs-Rechtsschutz
 
@@ -62,14 +55,13 @@ Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Off
 | 3 | Klagebefugnis Anlieger | Art. 14 GG Eigentumsgarantie; Enteignungs-Duldungspflicht; eigene Rechtsbetroffenheit aus Immissionsschutz | § 42 Abs. 2 VwGO analog |
 | 4 | Klagebefugnis Verband | § 2 UmwRG; Beteiligung im Planfeststellungsverfahren erfolgt; keine Verletzung eigener Rechte nötig | Beteiligung dokumentieren |
 | 5 | Sofortvollzug / Eilantrag | Anordnung sofortiger Vollziehung? Begründung § 80 Abs. 3 VwGO? | Eilantrag § 80 Abs. 5 VwGO |
-| 6 | Alternativenprüfung | Alle ernsthaft in Betracht kommenden Trassenvarianten geprüft? Erdkabel-Alternative erwogen? | BVerwG 4 A 4.12 |
-| 7 | UVP-Vollständigkeit | UVP-Bericht vollständig; Alternativenvergleich im UVP; alle erheblichen Umweltauswirkungen erfasst | EuGH C-411/17 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | saP / Artenschutz | Artenschutzrechtliche Prüfung nach § 44 BNatSchG; Erfassungsmethodik; Vermeidungsmaßnahmen | Methodenfehler geltend machen |
 | 9 | Lärmschutz / TA Lärm | Bei Konverteranlagen, Umspannwerken; TA Lärm-Richtwerte; Schallgutachten korrekt? | Gegengutachten einsetzen |
-| 10 | Erdkabel-Vorrang § 4 EnLAG | Wohnbebauung in Sichtweite? Erdkabel-Antrag gestellt? Abwägung der Behörde | BVerwG 9 A 5.20 |
-| 11 | Bahnflächen-Entwidmung | Trasse über Bahnflächen? § 23 AEG Entwidmung vor Nutzung | BVerwG 4 C 7.04 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Entschädigungsanspruch | Enteignungs-Entschädigung nach § 18 EnWG; Wertgutachten Grundstück vor und nach | Eigene Verhandlungsführung |
-| 13 | Klimaschluss | Fossile Infrastruktur: Klimaverträglichkeit der Genehmigung; BVerfG 1 BvR 2656/18 | Für LNG-/Erdgas-Vorhaben |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 14 | Aarhus-Kostenbarriere | Gerichtskosten dürfen effektiven Zugang nicht aushöhlen; Art. 9 Aarhus; EU-Recht | Kostenantrag bei Verband |
 | 15 | Beschwerde bei Eilabweisung | § 146 VwGO 2 Wochen; OVG/BVerwG; neue Tatsachen zulässig | Beschwerdebegründung 1 Monat |
 
@@ -101,9 +93,9 @@ Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Off
 |---|---|
 | "Beschleunigungsgesetz schränkt Prüfung ein" | Grundrechtliche Mindestanforderungen bleiben; UVP-Richtlinie EU-Recht geht vor; Aarhus-Konvention Art. 9 |
 | "Klimaschutz rechtfertigt sofortigen Bau" | § 80 Abs. 3 VwGO Begründung muss auf Einzelfall eingehen; fossiles Vorhaben: Klimaschluss wirkt gegen Sofortvollzug |
-| "Alternativenprüfung ausreichend" | BVerwG 4 A 4.12: alle ernsthaft in Betracht kommenden Alternativen; Erdkabel-Alternative bei Wohnbebauung konkret prüfen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Verband nicht klagebefugt — zu spät beteiligt" | Beteiligung muss nur im Planfeststellungsverfahren erfolgt sein, nicht bereits in Bundesfachplanung; Beteiligung dokumentieren |
-| "UVP-Fehler nachholbar" | EuGH C-411/17: nur bei echten Verfahrensfehlern; materielle Lücken im UVP-Bericht erfordern Neuaufstellung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Enteignungsentschädigung angemessen" | Unabhängiges Wertgutachten beauftragen; Folgeschäden (Wertminderung, Nutzungseinschränkung) erfassen |
 | "LNG-Terminal klimaneutral nutzbar" | Ohne verbindliche Wasserstoff-Umrüstungsklausel ist Klimaargument nicht tragfähig; BVerfG-Maßstab anlegen |
 
@@ -168,7 +160,7 @@ I. UVP-Defizite
 Der UVP-Bericht weist folgende materielle Lücken auf:
 — Alternativenprüfung unvollständig: Die Erdkabel-Variante
    entlang der Bestandsautobahn A[x] wurde nicht ernsthaft
-   untersucht (gegen BVerwG 4 A 4.12).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 — Artenschutzrechtliche Prüfung (saP) fehlerhaft: Rotmilan-
    Kartierung nur an [n] Terminen außerhalb der Hauptaktivitäts-
    zeiten.
@@ -177,7 +169,7 @@ II. Klimaschluss
 Das Vorhaben [LNG-Terminal / Erdgas-Pipeline] erhöht die
 Treibhausgasemissionen um [x] t CO2-Äquivalente p.a. und
 konterkariert die Pflicht des Staates zum Schutz künftiger
-Freiheiten (BVerfG 1 BvR 2656/18, Rn. 183 ff.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wir beantragen die Gewährung von Akteneinsicht in die vollständige
 Planfeststellungsakte sowie angemessene Verlängerung der
@@ -279,7 +271,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Streitwert Verbandsklage | § 52 Abs. 1 GKG; Auffangwert EUR 5.000 oder Orientierungswert Streitwertkatalog Verwaltungsgerichtsbarkeit; BVerwG-Streitwerte bei Großvorhaben bis EUR 100.000 | Keine wirtschaftlichen Eigeninteressen des Verbands |
 | Streitwert Anlieger | Wert der Eigentumsbeeinträchtigung; Entschädigungsforderung; typisch EUR 10.000–50.000 | § 52 Abs. 1 GKG nach wirtschaftlichem Interesse |
 | Eilantrag Streitwert | Hälfte des Hauptsache-Streitwerts | Beschlussmäßige Entscheidung |
-| BVerwG-Kosten erste Instanz | GKG Nr. 5210; bei EUR 10.000 Streitwert ca. EUR 948 Gerichtskosten | Plus Anwaltsgebühren nach RVG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Kostenprivileg Verbände | Art. 9 Abs. 4 Aarhus: Kosten dürfen nicht prohibitiv sein | Ermäßigung nach § 162 Abs. 3 VwGO beigeladener Verband |
 
 ## Strategische Empfehlung
@@ -288,10 +280,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | Klagefrist 1 Monat läuft | Sofortige Klage mit vorläufiger Begründung; Akteneinsicht parallel beantragen; Frist unbedingt wahren |
 | Sofortvollzug angeordnet | Eilantrag § 80 Abs. 5 VwGO; § 80 Abs. 3-Mangel als eigenständigen Aufhebungsgrund geltend machen |
-| LNG-Terminal fossiles Vorhaben | Klimaschluss BVerfG 1 BvR 2656/18 einsetzen; fehlende H2-Umrüstungsklausel angreifen |
-| UVP-Fehler erkannt | Eigenständige Rüge des UVP-Defizits; EuGH C-411/17 für Aufhebbarkeit; keine Beschränkung auf eigene Rechte bei Verband |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Anlieger Grundstück betroffen | Entschädigungsanspruch frühzeitig beziffern; Wertgutachten vor Baubeginn; ggf. zivilrechtliche Entschädigungsklage |
-| Erdkabel-Alternative übergangen | § 4 EnLAG-Antrag formal stellen; Versagung muss begründet werden; BVerwG 9 A 5.20 nutzen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 
@@ -301,9 +292,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
 
-- BVerwG, Urt. v. 14.03.2018 — 4 A 5.17, BVerwGE 161, 263 — Planfeststellung Hochspannungsleitung; Abwaegungsgebot; Trassenalternativen muss Planungsbehoerde ernsthaft pruefen.
-- BVerwG, Urt. v. 28.04.2016 — 9 A 9.15, BVerwGE 155, 91 — Planfeststellung Nachueberpruefbarkeit bei Verzoegerung; Behorde muss bei wesentlichen Aenderungen nach Planfeststellungsbeschluss Erneuerungsverfahren einleiten.
-- EuGH, Urt. v. 10.04.2014 — C-297/12, NVwZ 2014, 929 — Klagerecht Art. 9 Aarhus-Konvention; Oeffentlichkeit muss bei Planfeststellungsverfahren ausreichend beteiligt werden; Beschraenkungen unzulaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
@@ -316,7 +305,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - BNatSchG §§ 13, 44
 - UVPG
 - Aarhus-Konvention Art. 9 / EU-RL 2003/35
-- BVerfG 1 BvR 2656/18 (Klimaschluss)
-- BVerwG 4 A 4.12, 4 C 7.04, 9 A 5.20, 4 A 11.18
-- EuGH C-411/17, C-275/09
-- OVG Hamburg 1 E 37/21 (LNG-Eilantrag)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

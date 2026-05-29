@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren
-description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Pruefraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Uebernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit."
+description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Prüfraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Übernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit."
 ---
 
 # Squeeze-out Verfahren
@@ -75,7 +75,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 - Ertragswert-Methode Standard
 - Multiplikator-Methode subsidiaer
-- Borsenkurs als Untergrenze (BGH II ZR 234/18)
+- Borsenkurs als Untergrenze (BVerfG DAT/Altana; BGH Stollwerck)
 
 ### Prüfer-Bericht
 
@@ -148,7 +148,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 ### Risikomanagement
 
 - Freigabe-Antrag bei Anfechtungsklage
-- Vergleichs-Bereitschaft bei „Beruhms-Kläger"-Konstellation
+- Vergleichs-Bereitschaft bei "Beruhms-Kläger"-Konstellation
 
 ## 9) Minderheits-Aktionaers-Strategie
 
@@ -173,9 +173,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ## 11) BGH-Linien
 
-- BGH, Beschl. v. 24.4.2019 — II ZR 234/18 (Borsenkurs Untergrenze)
-- BGH, Beschl. v. 21.7.2020 — II ZB 7/19 (Prüfer-Unabhängigkeit)
-- BGH, Beschl. v. 12.1.2016 — II ZB 25/14 (Freigabe-Verfahren)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -187,23 +185,21 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ### Leitsatz-Zitate
 
-BVerfG, Beschl. v. 27.04.1999 — **1 BvR 1613/94**, BVerfGE 100, 289 Rn. 55: Aktienrechtlicher Squeeze-out (§§ 327a ff. AktG) ist verfassungsrechtlich mit Art. 14 GG (Eigentumsgarantie) vereinbar, sofern die Barabfindung den vollen wirtschaftlichen Wert der Aktien abdeckt; eine Abfindung unterhalb des Börsenkurses ist nicht zulässig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 21.07.2003 — **II ZB 17/01**, BGHZ 156, 57 Rn. 24: Im Spruchverfahren nach SpruchG überprüft das Gericht die Angemessenheit der Barabfindung; Bewertungsansatz ist der Unternehmenswert nach IDW S 1 (Ertragswertmethode); dem Hauptaktionär steht ein Bewertungsspielraum zu, der gerichtlich nur auf Vertretbarkeit überprüft wird.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Frankfurt, Beschl. v. 29.01.2016 — **21 W 70/15**, AG 2016, 329 Rn. 18: Bei Spruchverfahren nach Squeeze-out kann die Abfindung durch das Gericht erhöht werden; Maßstab für die Angemessenheit der Barabfindung ist der höhere Wert aus Börsenkurs (3-Monats-Durchschnitt vor Ankündigung) und Ertragswert nach IDW S 1.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 22.03.2011 — **II ZB 4/10**, BGHZ 188, 253 Rn. 16: Anfechtungsklage gegen Squeeze-out-Hauptversammlungsbeschluss ist statthaft nach § 246 AktG (1-Monat-Frist); sie hat jedoch keine aufschiebende Wirkung auf die Handelsregistereintragung; Beschleunigungsinteresse des Hauptaktionärs kann durch Freigabeverfahren § 246a AktG durchgesetzt werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 §§ 327a-f AktG (Squeeze-out Verfahren) → §§ 39a-c WpUG (WpUG-Squeeze-out) → § 62 Abs. 5 UmwG (Verschmelzungs-Squeeze-out) → SpruchG (Spruchverfahren Barabfindung) → § 246 AktG (Anfechtungsklage 1-Monat-Frist) → § 246a AktG (Freigabeverfahren) → IDW S 1 (Bewertungsstandard Ertragswert) → Art. 14 GG (Eigentumsgarantie, verfassungskonforme Barabfindung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Hüffer/Koch, AktG, 16. Aufl. 2024, §§ 327a-f AktG: Vollständige Kommentierung Squeeze-out; Verfahrensablauf, Spruchverfahren, Freigabe.
-- Lutter/Hommelhoff (Hrsg.), UmwG, 6. Aufl. 2019, § 62: Verschmelzungs-Squeeze-out; Vergleich mit §§ 327a ff. AktG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Sofortprüfung Squeeze-out
 
 1. **Beteiligungsschwelle prüfen:** > 95 % (§ 327a AktG oder WpUG § 39a) oder > 90 % (UmwG § 62)?

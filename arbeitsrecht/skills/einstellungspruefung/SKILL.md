@@ -1,6 +1,6 @@
 ---
 name: einstellungspruefung
-description: "Pruefung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung."
+description: "Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung."
 ---
 
 # /arbeitsrecht:einstellungsprüfung
@@ -30,18 +30,11 @@ description: "Pruefung von Arbeitsvertrag und Befristung bei Neueinstellungen: T
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt zeitlich unbegrenzt; die frühere BAG-Rechtsprechung mit 3-Jahres-Grenze ist aufgegeben. Ein früheres Arbeitsverhältnis mit demselben Arbeitgeber schließt sachgrundlose Befristung auch dann aus, wenn es viele Jahre zurückliegt.
-- BVerfG, Beschl. v. 06.06.2018 – 1 BvL 7/14, NZA 2018, 774 — Das lebenslange Vorbeschäftigungsverbot ist verfassungsgemäß, solange Gerichte bei sehr lange zurückliegenden oder ganz anders gearteten Vorbeschäftigungen eine Ausnahme zulassen können; die Gerichte müssen jedoch jeden Einzelfall werten.
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Die Befristungsabrede bedarf der eigenhändigen Unterschrift auf einer Urkunde vor Arbeitsaufnahme; elektronische Signatur genügt nicht (§ 14 Abs. 4 Satz 2 TzBfG).
-- BAG, Urt. v. 21.09.2017 – 2 AZR 57/17, NZA 2018, 226 — Alterstypische Anforderungen in einer Stellenausschreibung lösen Indizwirkung nach § 22 AGG aus; der Arbeitgeber muss dann konkret die sachliche Rechtfertigung nach § 10 AGG darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 1 ff. (Befristungsrecht umfassend)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 38 (Arbeitsvertrag und Befristung)
-- HWK/Rolfs, 11. Aufl. 2024, §§ 74–75 HGB Rn. 1 ff. (Wettbewerbsverbote)
-- Grüneberg/Grüneberg, 83. Aufl. 2024, § 305c BGB Rn. 10 ff. (AGB-Kontrolle Arbeitsvertrag)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 ### Schritt 1: Kontext und Unterlagen klären
@@ -155,12 +148,9 @@ Handlungsempfehlungen:
 
 ## Quellen und Zitierweise
 
-- Müller-Glöge / Preis / Schmidt, ErfK, 25. Aufl. 2025, § 14 TzBfG Rn. 1 ff.
-- Roloff, BeckOK ArbR, 71. Ed. 2025, § 14 TzBfG Rn. 1 ff.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 (Vorbeschäftigungsverbot)
-- BVerfG, Beschl. v. 06.06.2018 – 1 BvL 7/14, NZA 2018, 774 (Verfassungskonformität)
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 (Schriftform)
-- Thüsing, MüKoBGB, 9. Aufl. 2022, § 611a BGB Rn. 80 ff. (Arbeitnehmerbegriff)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Typische Fehler
 

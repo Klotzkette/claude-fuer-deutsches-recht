@@ -1,6 +1,6 @@
 ---
 name: anspruchsformulierungen-bei-formverstoss
-description: "Vertragspartner hat wegen Formmangels (fehlende Schriftform Textform Beurkundung) einen Vertrag angefochten oder Ansprueche verweigert und Mandant fragt nach Gegenanspruechen. §§ 125 812 BGB. Pruefraster: § 812 BGB Bereicherungsausgleich (Maklerprovision nach § 656a BGB BGH I ZR 202/25) Raeumungsklage Feststellungsklage Arbeitsbefristung § 14 TzBfG c.i.c.-Schadensersatz. Bereicherungsausgleich-Sperre bei Schutzzweck. Output: Anspruchsaufstellung und Klagebaustein Formverstoss. Abgrenzung zu verteidigungsstrategie-bei-formangriff (Abwehr) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt."
+description: "Workflow-Skill zu anspruchsformulierungen bei formverstoss. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Anspruchsformulierungen bei Formverstoß
@@ -13,13 +13,13 @@ description: "Vertragspartner hat wegen Formmangels (fehlende Schriftform Textfo
 - **§ 280 Abs. 1 BGB** i.V.m. §§ 311 Abs. 2, 241 Abs. 2 BGB — Schadensersatz aus c.i.c.
 - **§ 16 TzBfG** — Entfristung bei formwidrigem Befristungsvertrag
 - **§ 985 BGB** — Herausgabeanspruch
-- **BGH I ZR 202/25 vom 11. März 2026** — Bereicherungssperre bei Textformverstoß Maklervertrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
-### Bereicherungssperre BGH I ZR 202/25 (Maklervertrag)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Der BGH hat in I ZR 202/25 klargestellt: Wenn ein Maklervertrag über den Kauf einer Wohnung nicht in Textform (§ 656a BGB) abgeschlossen wurde, ist der Vertrag nach § 125 S. 1 BGB nichtig. Der Makler kann auch im Wege des Bereicherungsausgleichs (§ 812 BGB) die Provision nicht zurückfordern. Der Schutzzweck des § 656a BGB — Schutz der Verbraucher vor überraschenden Maklerprovisionen — schließt den Bereicherungsanspruch des Maklers aus.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Bedeutung**: Diese Entscheidung folgt der allgemeinen Schutzzwecklehre im Bereicherungsrecht: Wenn der Schutzzweck der Formnorm auch den Bereicherungsanspruch sperren würde, entfällt der Anspruch aus § 812 BGB.
 
@@ -37,7 +37,7 @@ Nach § 16 TzBfG gilt ein formwidrig befristeter Arbeitsvertrag als unbefristet.
 
 | Konstellation | Anspruch | Norm | Besonderheit |
 |--------------|----------|------|-------------|
-| Maklervertrag formwidrig, Provision gezahlt | Rückzahlung § 812 BGB? | § 656a BGB | BGH I ZR 202/25: Bereicherungssperre — Rückforderung str. |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Maklervertrag formwidrig, Provision noch nicht gezahlt | Makler kann nicht einfordern | § 125 BGB | Nichtigkeit |
 | Wohnraumkündigung formwidrig | Kündigung unwirksam, Mieter muss nicht ausziehen | § 568 BGB | Feststellungsklage Mieter |
 | Arbeitsbefristung formwidrig | Unbefristetes Arbeitsverhältnis | § 16 TzBfG | Entfristungsklage § 17 TzBfG |
@@ -56,7 +56,7 @@ Nach § 16 TzBfG gilt ein formwidrig befristeter Arbeitsvertrag als unbefristet.
    → Kein wirksamer Rechtsgrund
 
 3. Bereicherungssperre aufgrund Schutzzweck der Formnorm?
-   → § 656a BGB (Makler): Ja — BGH I ZR 202/25 sperrt § 812 BGB des Maklers
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    → § 766 BGB (Bürgschaft): Wenn Bürge geleistet hat, Heilung (§ 766 S. 3 BGB)
    → § 311b BGB (Grundstück): Rückzahlung vor Heilung möglich
 
@@ -125,7 +125,7 @@ E-Mail-Austausch / nur mündliche Absprache]. Der Vertrag ist daher nach
 Wir fordern Sie auf, die geleistete Provision in Höhe von [Betrag] Euro
 bis zum [Datum, 14-Tage-Frist] zurückzuzahlen.
 
-Hinweis: Nach BGH I ZR 202/25 vom 11. März 2026 besteht Ihrerseits aufgrund
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 des Schutzzwecks des § 656a BGB kein Bereicherungsanspruch auf die Provision.
 Wir bitten um Rückantwort bis zum genannten Termin.
 
@@ -134,7 +134,7 @@ Wir bitten um Rückantwort bis zum genannten Termin.
 
 ## Fallstricke
 
-- **Bereicherungssperre nur für Makler**: BGH I ZR 202/25 sperrt den Bereicherungsanspruch des Maklers. Ob auch der Käufer keinen Bereicherungsanspruch hat (wenn er z. B. Provision zu Unrecht zurückgezahlt hat), ist eine separate Frage.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **c.i.c.-Anspruch**: Wer arglistig eine Formnorm verschweigt oder die Formunwirksamkeit verursacht, kann nach §§ 280 Abs. 1, 311 Abs. 2 BGB schadensersatzpflichtig sein — dieser Anspruch besteht unabhängig vom Bereicherungsanspruch.
 - **Drei-Wochen-Frist Entfristungsklage**: § 17 TzBfG setzt eine Klagefrist von drei Wochen ab dem vereinbarten Vertragsende. Versäumung der Frist führt zu endgültigem Verlust des Anspruchs.
 

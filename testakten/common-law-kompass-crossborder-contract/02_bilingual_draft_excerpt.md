@@ -155,7 +155,7 @@ The Supplier's indemnification obligation shall not apply to claims arising from
 
 **DE:**
 
-[Anm.: „Hold harmless" hat im deutschen Recht keine eigenständige Bedeutung.]
+[Anm.: "Hold harmless" hat im deutschen Recht keine eigenständige Bedeutung.]
 
 **EN:**
 

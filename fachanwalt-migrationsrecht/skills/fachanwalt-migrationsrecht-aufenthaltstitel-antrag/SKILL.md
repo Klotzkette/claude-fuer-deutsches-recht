@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-aufenthaltstitel-antrag
-description: "Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identitaet kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung."
+description: "Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identität kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung."
 ---
 
 # Aufenthaltstitel-Antrag
@@ -48,10 +48,7 @@ description: "Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels na
 
 | Aktenzeichen | Gericht/Datum | Inhalt |
 |---|---|---|
-| BVerwG 1 C 32.09 | BVerwG, 16.11.2010 | Lebensunterhaltssicherung § 2 Abs. 3 AufenthG; Prüfmaßstab |
-| BVerwG 1 C 1.10 | BVerwG, 30.03.2010 | A1-Sprachnachweis Ehegattennachzug § 30; Verhältnismäßigkeit |
-| BVerwG 1 C 22.14 | BVerwG, 12.07.2016 | Fiktionswirkung § 81 Abs. 4 AufenthG; Voraussetzungen und Rechtsfolgen |
-| BVerwG 1 C 9.19 | BVerwG, 09.09.2021 | Ausweisungsinteresse § 54 AufenthG; Ermessensausübung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -62,7 +59,7 @@ description: "Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels na
 | 1 | Aufenthaltszweck identifizieren | § 4 AufenthG |
 | 2 | Spezialnorm finden (§§ 16–26 AufenthG) | Zweck-Matrix |
 | 3 | Allgemeine Voraussetzungen § 5 AufenthG vollständig prüfen | § 5 Abs. 1, 2 AufenthG |
-| 4 | Lebensunterhalt § 2 Abs. 3 AufenthG quantifizieren (Nettoeinkommen vs. Regelbedarf SGB II) | BVerwG 1 C 32.09 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Ausweisungsinteresse § 54 AufenthG prüfen (Vorstrafen, Ermittlungen) | §§ 53–55 AufenthG |
 | 6 | Identität und Pass § 3, § 5 Abs. 1 Nr. 1a AufenthG prüfen | § 3, § 5 AufenthG |
 | 7 | Visumserfordernis § 5 Abs. 2 AufenthG — mit dem richtigen Visum eingereist? | § 5 Abs. 2, § 39 AufenthV |
@@ -172,7 +169,7 @@ II. Rechtslage
 1. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG sind erfüllt:
    a) Lebensunterhalt gesichert (monatl. Nettoeinkommen EUR [Betrag]
       übersteigt Regelbedarf SGB II EUR [Betrag] für [Personen]),
-      BVerwG 1 C 32.09.
+      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    b) Identität geklärt, Pass gültig (Anlage K1).
    c) Kein Ausweisungsinteresse § 54 AufenthG (Anlage K2:
       Führungszeugnis ohne Eintrag).
@@ -262,7 +259,7 @@ Mit freundlichen Grüßen
 
 | Behörden-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| "Lebensunterhalt nicht gesichert" | Einkommensprüfung BVerwG 1 C 32.09: Nettoeinkommen mit Regelbedarf SGB II vergleichen, Abzüge korrekt berechnen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Sprachnachweis A1 fehlt" | Ausnahmen § 30 Abs. 1 Satz 3 AufenthG prüfen (Integrationsprogramm, Deutschkurs, Krankheit) |
 | "Visumserfordernis nicht erfüllt" | § 39 AufenthV-Ausnahmen (nachträgliche Erteilung im Inland) prüfen |
 | "Ausweisungsinteresse § 54 AufenthG" | Abwägung § 53 Abs. 1 AufenthG: Bleibeinteressen § 55 gegen Ausweisungsinteressen abwägen |
@@ -291,7 +288,7 @@ Mit freundlichen Grüßen
 | Fallkonstellation | Empfehlung |
 |---|---|
 | Verlängerungsantrag kurz vor Ablauf | Sofort stellen; Fiktionsbescheinigung beantragen; Arbeitgeber informieren |
-| Ablehnung wegen Lebensunterhalt | Einkommensprüfung BVerwG 1 C 32.09 detailliert; ggf. Bürge nach § 68 AufenthG |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Ablehnung wegen Ausweisungsinteresse | Abwägung § 53 AufenthG; Einzelfallgutachten; Ermessensreduktion |
 | Duldung läuft aus | § 25b AufenthG (nachhaltige Integration) prüfen; § 25a für Jugendliche |
 | Fehlendes Visum nachträgliche Erteilung | § 39 Nr. 1 AufenthV (Familienangehörige Deutscher); Nr. 5 (Aufenthalt > 6 Monate) |
@@ -309,7 +306,7 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. AufenthG §§ 4, 5, 8, 9, 9a, 18a, 18b, 18d, 21, 27–36, 39, 54, 60a, 81, 82. BeschV. BVerwG 1 C 32.09 (16.11.2010). BVerwG 1 C 1.10 (30.03.2010). BVerwG 1 C 22.14 (12.07.2016). BVerwG 1 C 9.19 (09.09.2021). Bergmann/Dienelt Ausländerrecht, aktuelle Auflage. Hailbronner Ausländerrecht. AufenthV § 39, § 45.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Output-Template: Antrag auf Erteilung / Verlaengerung Aufenthaltstitel
 

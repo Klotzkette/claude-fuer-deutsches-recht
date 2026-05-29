@@ -1,6 +1,6 @@
 ---
 name: energieanlagen-bimschg-genehmigung-verfahren
-description: "BImSchG-Genehmigung fuer Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Pruefraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Pruefung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin."
+description: "BImSchG-Genehmigung für Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Prüfraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Prüfung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Energieanlagen-BImSchG-Genehmigung-Verfahren
@@ -41,17 +41,11 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geotherm
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BVerwG 4 C 3.10 | 4 C 3.10 | 08.01.2014 | Windkraft BImSchG-Genehmigung: artenschutzrechtliche Prüfung; Methoden saP; signifikante Erhöhung Tötungsrisiko Rotmilan |
-| BVerwG 4 A 5.12 | 4 A 5.12 | 17.12.2013 | UVP-Prüfung Energieprojekt: Alternativenprüfung und Abwägung; BVerwG prüft Methodenfehler |
-| BVerwG 7 C 11.17 | 7 C 11.17 | 21.11.2018 | TA-Lärm-Werte als Tatbestandsmerkmale des § 5 BImSchG; drittschützende Wirkung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| EuGH C-411/17 | C-411/17 | 29.07.2019 | UVP-Richtlinie 2011/92: Nachholung der UVP-Prüfung bei Verfahrensfehlern; kein Automatismus |
-| BVerfG 1 BvR 2656/18 | 1 BvR 2656/18 | 24.03.2021 | Klimaschutzpflicht; Ausstrahlungswirkung auf Genehmigungsverfahren fossiler Vorhaben |
-| BVerwG 4 C 1.19 | 4 C 1.19 | 14.03.2023 | Windenergie-Repowering: Nichtanwendbarkeit alter Abstandsregelungen; Beschleunigung |
-| OVG Lüneburg 12 LA 73/20 | 12 LA 73/20 | 08.07.2021 | saP-Methodik Fledermäuse: Erfassungszeitraum-Konformität als Voraussetzung; mangelhafte Daten führen zu Aufhebung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema BImSchG-Genehmigungsverfahren
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -99,12 +93,12 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geotherm
 
 | Gegenargument | Gegenstrategie |
 |---|---|
-| "saP-Gutachten ist methodisch einwandfrei" | Erfassungszeitraum konkret angreifen (OVG Lüneburg 12 LA 73/20): wurden alle Witterungsverhältnisse und Aktivitätsphasen abgedeckt? Einzelarten-Erfassung nachvollziehen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "TA-Lärm-Werte eingehalten" | Vorbelastungs-Korrektur prüfen: wurden alle vorhandenen Windkraftanlagen in der Umgebung als Vorbelastung berücksichtigt? Kumulationseffekte? |
 | "Klimaschutz rechtfertigt sofortige Vollziehung" | § 80 Abs. 3 VwGO: Begründung muss auf Einzelfall eingehen; abstrakter Klimaschutzverweis reicht nicht (OVG-Ständige Rspr.) |
 | "Einwendungen präkludiert" | Präklusion greift nicht gegenüber UmwRG-Verbänden bei UVP-pflichtigen Vorhaben; UVP-Defizite jederzeit rügefähig |
 | "Drittbetroffener nicht klagebefugt" | § 5 Abs. 1 Nr. 1 BImSchG ist drittschützend; Nachbar im Einwirkungsbereich hat subjektives Recht; Möglichkeitstheorie großzügig |
-| "UVP-Fehler nachholbar" | EuGH C-411/17: Nachholung nur bei echten Verfahrensfehlern möglich, nicht bei inhaltlichen Mängeln; bei materiellen UVP-Defiziten muss neu aufgestellt werden |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Einwendungen nicht substantiiert" | Im BImSchG-Verfahren genügt allgemeine Darlegung der Betroffenheit; detaillierte Rüge erst in Klage erforderlich |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -119,7 +113,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Behoerde zoegert Untaetigkeit moegliche Alternative | Untaetigkeitsklage § 75 VwGO vorbereiten bei Verzoegerung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -270,7 +263,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Position | Berechnung | Hinweis |
@@ -289,8 +281,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Vorhabenträger | Klage Drittbetroffener | Sachverständige beiziehen; § 80 Abs. 3-Begründung präzise ausarbeiten; frühe Verhandlung anbieten |
 | Drittbetroffener | Bescheid ergangen | Eigenes Schallgutachten in Auftrag geben; Einwendungs-Präklusion prüfen; Klagefrist sichern |
 | Drittbetroffener | Sofortvollzug angeordnet | Eilantrag § 80 Abs. 5 VwGO; § 80 Abs. 3-Begründungsmangel angreifen; Hauptsache parallel einreichen |
-| Umweltverband | UVP-Fehler erkannt | Vorab-Mitwirkung dokumentieren; UVP-Defizit als eigenständigen Klagegrund entwickeln; EuGH C-411/17 nutzen |
-| Alle | Naturschutz-Defizit in saP | Methodischen Fehler konkret benennen; OVG Lüneburg 12 LA 73/20 zitieren; gerichtliches Sachverständigengutachten beantragen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 
@@ -301,9 +293,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
 
-- BVerwG, Urt. v. 25.11.2021 — 4 C 4.20, BVerwGE 174, 244 — BImSchG-Genehmigung Windkraftanlage; Drittschutz Nachbar; volle gerichtliche Kontrolle planungsrechtlicher Voraussetzungen; keine Beschraenkung des Pruefrahmens OVG.
-- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — UVP-Nachholung; Heilung von Verfahrensfehlern nur bei vollstaendiger Wiederholung unter gleichen Bedingungen; nachtraegliche Gutachten im Klageverfahren unzulaessig.
-- OVG Lueneburg, Urt. v. 12.04.2023 — 12 LC 5/22 — saP Fledermaeuse; Detailliertheit der Artenerhebung muss technischem Standard entsprechen; vereinfachte saP unzureichend bei Windpark.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
@@ -316,13 +306,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - VwGO §§ 42, 74, 80, 113
 - UmwRG § 2
 - EU-RED III (Beschleunigungsgebiete)
-- BVerfG 1 BvR 2656/18 (Klimaschluss)
-- BVerwG 4 C 3.10 (saP Rotmilan), 4 A 5.12 (UVP), 4 C 1.19 (Repowering)
-- OVG Lüneburg 12 LA 73/20 (saP Fledermäuse)
-- EuGH C-411/17 (UVP-Nachholung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: OVG NRW 8 A 926/14 (WRONG_TOPIC — tatsächliches AZ laut Bundle wäre 8 A 926/16 (Jahresdiskrepanz); beide Varianten auf dejure.org nicht auffindbar): Eintrag aus Leitentscheidungen-Tabelle gelöscht. Kein Ersatz gefunden. Schattenwurf-Rechtsprechung wird weiterhin durch OVG-Rechtsprechung in den Urteilen 7 D 211/23.AK und 7 D 214/23.AK (2025) abgedeckt, die in dieser Skill-Datei nicht einzeln benannt sind. Frontmatter unverändert.
 -->

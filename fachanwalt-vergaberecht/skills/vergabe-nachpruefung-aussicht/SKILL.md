@@ -1,6 +1,6 @@
 ---
 name: vergabe-nachpruefung-aussicht
-description: "Aussichten eines Vergabenachpruefungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Pruefraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgruende), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachpruefungsantrag selbst siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk."
+description: "Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk."
 ---
 
 # Vergabe-Nachprüfung — Erfolgs-Aussichten
@@ -44,12 +44,7 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | X ZB 12/19 | 03.07.2020 | Rügepräklusion; Bieter muss Vergabeverstoß aus Bekanntmachung bis Angebotsabgabe rügen |
-| BGH | X ZB 22/13 | 26.09.2014 | Zeitnahe Rüge; "unverzüglich" bedeutet binnen weniger Tage bei erkennbarem Verstoß |
-| BGH | XIII ZB 93/22 | 23.05.2023 | XIII. Zivilsenat; Kompetenzwechsel zum XIII. ZS ab 01.01.2021; Beachtung aller früheren Entscheidungen des X. ZS |
-| OLG Düsseldorf | Verg 23/19 | 26.02.2020 | Drohender Schaden bei berechtigter Auftragschance; Rüge nicht erfolgt — Präklusion |
-| EuGH | C-3/15 | 14.04.2016 | Wienstrom; effektiver Rechtsschutz Gebot; nationale Fristregeln dürfen Rechtsschutz nicht praktisch unmöglich machen |
-| BVerfG | 2 BvR 2454/17 | 13.06.2019 | Eigentumsschutz Bieter; Vergabe muss rechtsstaatlichen Anforderungen genügen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -167,7 +162,7 @@ K [X]].
 
 Nachweis einer plausibler Kalkulation setzt voraus, dass der Bieter
 saemtliche Einzelpreise, Stundenloehne und sonstige Kostenkomponenten
-offenbart (BVerwG 8 C 17.21). Eine pauschale Erklaerung genuegt nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der Antragsgegner haette das Angebot gemaess § 60 Abs. 3 VgV
 ausschliessen muessen.
@@ -213,7 +208,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand Auftraggeber | Reaktion |
 |---|---|
 | Rüge nicht rechtzeitig / keine Rüge | Kenntnisnachweis durch Vorlage Informationsschreiben; ggf. § 134 GWB Datum prüfen |
-| Bieter hat keine Auftragschance | Darlegung: bei fehlerloser Wertung wäre Bieter bestplatziert; BGH X ZB 12/19 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vergabeverstoß bloß rechnerisch nicht relevant | Kausalität genügt; drohender Schaden ausreichend |
 | Aufhebung des Verfahrens zulässig | § 63 VgV Aufhebungsgründe abarbeiten; tatsächliche Gründe müssen vorliegen |
 | Sofortiger Zuschlag im öffentlichen Interesse | § 169 Abs. 3 GWB Ausnahme; strenge Voraussetzungen; VK entscheidet nach Abwägung |
@@ -224,7 +219,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - **VK-Gebühren:** § 182 GWB; Gebührensatz 2500 EUR bis 50000 EUR; Bemessung nach Auftragswert und Aufwand.
 - **Unterlegener trägt** Verfahrensgebühren und notwendige Aufwendungen der obsiegenden Partei (§ 182 Abs. 3 GWB).
-- **RVG-Streitwert:** Auftragswert (netto), Streitwert für Anwaltskosten i.d.R. Auftragswert × 0,5 bis 1 (Hinweis: OLG Düsseldorf, Beschl. v. 09.11.2016 — Verg 25/16).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **OLG-Verfahren:** § 171 Abs. 3 GWB; Kosten nach GKG/ZPO; Streitwert = Auftragswert.
 - **Schadensersatz § 181 GWB:** Negativinteresse (Angebotskosten, Bearbeitungsaufwand) ohne besonderen Nachweis; Positivinteresse (entgangener Gewinn) nur bei hochgradiger Auftragschance und schuldhafter Verletzung.
 
@@ -246,7 +241,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-GWB §§ 97, 99, 106, 122–125, 127, 134, 135, 160, 165, 167, 169, 171, 181, 182; VgV §§ 14, 42, 53, 58, 60, 63; SektVO; KonzVgV; VOB/A-EU; BGH X ZB 12/19; BGH X ZB 22/13; BGH XIII ZB 93/22; OLG Düsseldorf Verg 23/19; EuGH C-3/15; BVerfG 2 BvR 2454/17; Burgi Vergaberecht 3. Aufl. 2022; Bechtold/Bosch GWB 10. Aufl. 2023.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Output-Template Erfolgsaussichten-Memo
 

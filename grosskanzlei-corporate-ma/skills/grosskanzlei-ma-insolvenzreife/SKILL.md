@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-insolvenzreife
-description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck fuer M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfaehigkeit drohende Zahlungsunfaehigkeit Ueberschuldung, § 1 StaRUG drohende Zahlungsunfaehigkeit. Pruefraster Zahlungsunfaehigkeitstest Liquiditaetsstatus, Ueberschuldungsbilanz Fortfuehrungswille, Antragspflicht-Timing. Output Insolvenzreife-Gutachten mit Ampelstatus Handlungsoptionen und Deal-Auswirkungen. Abgrenzung zu Liquiditaetsvorschau und zu Fortbestehensprognose-Plugin."
+description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG drohende Zahlungsunfähigkeit. Prüfraster Zahlungsunfähigkeitstest Liquiditaetsstatus, Überschuldungsbilanz Fortführungswille, Antragspflicht-Timing. Output Insolvenzreife-Gutachten mit Ampelstatus Handlungsoptionen und Deal-Auswirkungen. Abgrenzung zu Liquiditaetsvorschau und zu Fortbestehensprognose-Plugin."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck
@@ -40,11 +40,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 277/16 | 19.06.2018 | Zahlungsunfähigkeit: mehr als 10 % Deckungslücke über 3 Wochen; Antragspflicht entsteht objektiv; Unkenntnis des Geschäftsführers kein Entschuldigungsgrund |
-| BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose § 19 InsO: überwiegende Wahrscheinlichkeit des Fortbestehens; darf auf konkrete Finanzierungszusagen gestützt werden |
-| BGH | II ZR 252/13 | 14.10.2014 | Haftung nach § 15b InsO: Geschäftsführer haftet für jede Zahlung nach Eintritt der Insolvenzreife, die nicht mit der Sorgfalt eines ordentlichen Kaufmanns vereinbar ist |
-| BGH | II ZR 167/14 | 26.04.2016 | Rangrücktritt: schriftliche Rangrücktrittsvereinbarung scheidet Verbindlichkeit aus Überschuldungsstatus aus; mündlicher Rangrücktritt genügt nicht |
-| BGH | II ZR 6/09 | 01.03.2010 | Patronatserklärung: harte Patronatserklärung (direkte Verpflichtung) schließt Überschuldung aus; weiche Patronatserklärung nur indizierend |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | IDW S 11 | — | 2022 | Standard zur Beurteilung von Insolvenzeröffnungsgründen; Methodik Liquiditätsstatus, Überschuldungsstatus, Fortbestehensprognose |
 
 ## Prüfschema
@@ -57,7 +53,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 | 1 | Datenqualität prüfen | Bankstände, OPOS, Forecast, Bilanz, stille Lasten, Finanzierungslinien, Patronate, Rangrücktritte vorhanden und aktuell? | Datenlücken-Liste |
 | 2 | Liquiditätsstatus erstellen | Aktuelle Liquidität aus Bankdaten; fällige Verbindlichkeiten aus OPOS; Deckungslücke berechnen | EUR [X] Deckungslücke |
 | 3 | 3-Wochen-Vorschau (§ 17 InsO) | Liegt Deckungslücke > 10 % der fälligen Verbindlichkeiten vor? → Ampel rot = Zahlungsunfähigkeit | § 17-Status: [ZU / nicht ZU] |
-| 4 | Rangrücktritte und Stundungen prüfen | Sind Verbindlichkeiten wirksam rangrückgetreten (schriftlich, BGH II ZR 167/14)? Stundungen aktiv? | Adjustierter Liquiditätsstatus |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Überschuldungsstatus (§ 19 InsO) | Bilanz-Passiva > Aktiva zu Fortführungswerten? Stille Lasten, Rückstellungen aufdecken | Überschuldung: [Ja / Nein] |
 | 6 | Fortbestehensprognose (§ 19 InsO) | Überwiegende Wahrscheinlichkeit des Fortbestehens über 12 Monate? Finanzierungszusagen, Auftragsbestand, Geschäftsplan | Prognose: [positiv / negativ] |
 | 7 | Drohende Zahlungsunfähigkeit (§ 18 InsO) | Prognose 24 Monate: werden Verbindlichkeiten voraussichtlich nicht erfüllt werden können? StaRUG-Schwelle? | § 18-Status: [DZU / nicht DZU] |
@@ -88,7 +84,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 |---|---|---|
 | Zahlungsunfähigkeit bei Antragspflicht-Verletzung | Insolvenzverwalter | Bankkontoauszüge, OPOS, Zahlungsrückstände |
 | Positive Fortbestehensprognose (§ 19 InsO) | Geschäftsleitung | Finanzplan, Auftragsbestand, Finanzierungszusagen (schriftlich) |
-| Wirksamer Rangrücktritt | Gläubiger, der Rangrücktritt behauptet | Schriftliche Vereinbarung (BGH II ZR 167/14) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Masseschmälernde Zahlung (§ 15b InsO) | Insolvenzverwalter | Buchungsbelege, Zeitpunkt der Insolvenzreife, Vergleich ordentlicher Kaufmann |
 | MAC-Eintritt | Partei, die Vollzugsverweigerung geltend macht | Finanzberichte, Gutachten, Marktdaten |
 
@@ -106,9 +102,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Argument | Erwiderung |
 |---|---|
-| Zahlungsstockung ist nur temporär | BGH II ZR 277/16: > 10 % Lücke über 3 Wochen = Zahlungsunfähigkeit; keine Ausnahme für vorübergehende Stockungen ohne konkrete Lösung |
-| Patronatserklärung schließt Überschuldung aus | Nur harte Patronatserklärung (BGH II ZR 6/09); weiche Patronatserklärung genügt nicht |
-| Positive Fortbestehensprognose liegt vor | Prognose muss auf plausiblen Finanzierungszusagen beruhen (BGH IX ZR 61/12); bloße Erklärung ohne Substanz trägt nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rangrücktritt schriftlich vereinbart | Prüfen ob formwirksam; Zweckbindung; Vereinbarung muss alle Verbindlichkeiten mit Rang erfassen |
 | MAC-Klausel zu unbestimmt | Gerichtliche Auslegung der MAC-Definition; Verweis auf EBITDA-Schwellenwerte schärft Klausel |
 
@@ -234,10 +228,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 19.06.2018, Az. II ZR 277/16 (Zahlungsunfähigkeit 10 %-Schwelle)
-- BGH, Urt. v. 19.12.2013, Az. IX ZR 61/12 (Fortbestehensprognose)
-- BGH, Urt. v. 14.10.2014, Az. II ZR 252/13 (Masseschmälernde Zahlungen)
-- BGH, Urt. v. 26.04.2016, Az. II ZR 167/14 (Rangrücktritt)
-- BGH, Urt. v. 01.03.2010, Az. II ZR 6/09 (Patronatserklärung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 (2022): Beurteilung Insolvenzeröffnungsgründe
 - §§ 15a, 15b, 17, 18, 19 InsO; §§ 1–93 StaRUG; §§ 91 AktG, 43 GmbHG; § 321a HGB

@@ -24,17 +24,11 @@ description: "Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesam
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt ohne zeitliche Beschränkung. Das BAG hat die frühere 3-Jahres-Rechtsprechung (BAG 7 AZR 716/09) ausdrücklich aufgegeben. Jede frühere Beschäftigung beim selben Arbeitgeber — egal wie lange zurückliegend — sperrt grundsätzlich die sachgrundlose Befristung.
-- BVerfG, Beschl. v. 06.06.2018 – 1 BvL 7/14 und 1 BvR 1375/14, NZA 2018, 774 — Das lebenslange Vorbeschäftigungsverbot ist grundgesetzkonform, solange Gerichte eine Ausnahme machen, wenn das frühere Arbeitsverhältnis sehr weit zurückliegt oder ganz andersartig war; eine starre zeitliche Grenze schreibt das BVerfG nicht vor.
-- BAG, Urt. v. 21.08.2019 – 7 AZR 452/17, NZA 2020, 310 — Die Ausnahme vom Vorbeschäftigungsverbot nach BVerfG 2018 gilt nur für „sehr lange zurückliegende" Vorbeschäftigung; 8 Jahre zurückliegend ist noch nicht lange genug; das BAG lässt weiterhin keine feste Karenzzeit erkennen.
-- BAG, Urt. v. 06.04.2011 – 7 AZR 716/09, NZA 2011, 905 — Frühere Rechtslage (3-Jahres-Grenze), die durch BAG 7 AZR 733/16 ausdrücklich aufgegeben wurde; nur noch historisch bedeutsam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 95–120 (sachgrundlose Befristung und Vorbeschäftigung)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 38 Rn. 15 ff. (Vorbeschäftigungsverbot)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 55 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Voraussetzungen der sachgrundlosen Befristung
 
 Nach § 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
@@ -49,7 +43,7 @@ Nach § 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
 
 **Anwendungsbereich:**
 - Gilt für jede Art von Vorbeschäftigung: unbefristet oder befristet
-- Gilt auch für frühere Ausbildungsverhältnisse (str. — ErfK/Müller-Glöge § 14 Rn. 104)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Betrieb oder Unternehmen? Herrschende Meinung: Arbeitgeber-bezogen (Unternehmen), nicht betriebsbezogen
 
 ## Prüfungsschema § 14 Abs. 2 TzBfG
@@ -95,8 +89,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 <!-- AUDIT 27.05.2026 | Bundle 012 | Task 3
 AZ geprüft: Referenz auf 716/09
 Befund: Senatsfehler korrigiert.
-Alt: "(BAG 6 AZR 716/09)" — 6. Senat existiert nicht für TzBfG-Sachen.
-Neu: "(BAG 7 AZR 716/09)" — korrekt; 7. Senat BAG ist für Befristungsrecht zuständig.
-Korrekte Entscheidung bereits in Zeile 30 vorhanden: BAG, Urt. v. 06.04.2011 – 7 AZR 716/09, NZA 2011, 905.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+716%2F09
 -->

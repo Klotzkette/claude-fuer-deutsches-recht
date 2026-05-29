@@ -1,6 +1,6 @@
 ---
 name: paragraph-1-starug-pflichten-und-24-monats-horizont
-description: "§ 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklaeren und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Pruefraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
+description: "§ 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # § 1 StaRUG — Krisenfrüherkennungspflicht und 24-Monats-Horizont
@@ -26,7 +26,7 @@ Krisenfrüherkennung ist keine betriebswirtschaftliche Kür, sondern gesetzliche
 
 ### 1. Normadressaten nach Rechtsform
 
-§ 1 StaRUG richtet sich an „die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person" sowie an Personen, die bei einer Gesellschaft ohne Rechtspersönlichkeit die Vertretung ausüben. Im Einzelnen:
+§ 1 StaRUG richtet sich an "die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person" sowie an Personen, die bei einer Gesellschaft ohne Rechtspersönlichkeit die Vertretung ausüben. Im Einzelnen:
 
 | Rechtsform | Normadressaten |
 |---|---|
@@ -47,13 +47,13 @@ Einzelkaufleute und Personengesellschaften ohne Haftungsbeschränkung sind vom W
 2. **Rechtzeitige Ergreifung** geeigneter Gegenmaßnahmen bei erkannten bestandsgefährdenden Entwicklungen
 3. **Unterrichtung** der Gesellschafter bzw. des Aufsichtsrats bei erkannter bestandsgefährdender Entwicklung
 
-„Bestandsgefährdend" im Sinne des § 1 StaRUG ist weiter zu verstehen als der Insolvenzbegriff — es geht nicht erst um die drohende Zahlungsunfähigkeit, sondern um jede Entwicklung, die den Fortbestand des Unternehmens gefährden kann.
+"Bestandsgefährdend" im Sinne des § 1 StaRUG ist weiter zu verstehen als der Insolvenzbegriff — es geht nicht erst um die drohende Zahlungsunfähigkeit, sondern um jede Entwicklung, die den Fortbestand des Unternehmens gefährden kann.
 
 ### 3. Der 24-Monats-Planungshorizont als gesetzlicher Standard
 
 Der 24-Monats-Horizont ergibt sich systematisch aus dem Zusammenspiel mehrerer Normen:
 
-- **§ 18 InsO** definiert drohende Zahlungsunfähigkeit als Unfähigkeit, die „voraussichtlich" fälligen Verbindlichkeiten zu erfüllen — der BGH (IX ZR 285/14) und die h.M. legen den Prognosezeitraum mit 24 Monaten aus.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 29 Abs. 2 StaRUG** setzt für die Antragsstellung auf Eröffnung des Restrukturierungsverfahrens voraus, dass drohende Zahlungsunfähigkeit noch nicht eingetreten ist — der Zugang zum StaRUG-Verfahren erfordert also zwingend eine belastbare 24-Monats-Sicht.
 - **IDW S 11** und **IDW S 6** verankern den 24-Monats-Horizont in der Praxis der Sanierungsberatung.
 
@@ -142,7 +142,7 @@ Unterschriften: _________________ / _________________
 
 ## Fallstricke
 
-1. **„Wir machen das immer schon so"** ist kein Nachweis für § 1 StaRUG-Compliance — gefordert ist eine formale, dokumentierte Struktur, keine informelle Routine.
+1. **"Wir machen das immer schon so"** ist kein Nachweis für § 1 StaRUG-Compliance — gefordert ist eine formale, dokumentierte Struktur, keine informelle Routine.
 
 2. **Der 24-Monats-Horizont gilt für die Liquiditätsplanung, nicht nur für die GuV** — eine reine Ergebnisplanung ohne Cashflow-Modell erfüllt die Pflicht nicht.
 
@@ -168,7 +168,4 @@ Unterschriften: _________________ / _________________
 
 ## Weitere Leitentscheidungen
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

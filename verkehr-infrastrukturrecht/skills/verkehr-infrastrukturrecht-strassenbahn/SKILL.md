@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-strassenbahn
-description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Pruefraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Pruefung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe."
+description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe."
 ---
 
 # Strassenbahn und OEPNV — Infrastrukturrecht
@@ -25,18 +25,11 @@ description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Ko
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 19.02.2015 - 7 C 11.12, NVwZ 2015, 1542 — Planfeststellung fuer Strassenbahn; Abwaegung der Trassenalternativen muss alle raeumlich naheliegenden Alternativen ernsthaft pruefen; Nichtberuecksichtigung einer naheliegenden Alternative ist Abwaegungsfehler.
-- EuGH, Urt. v. 09.09.2021 - C-248/20, NZBau 2021, 670 — VO (EG) 1370/2007: Direktvergabe an interne Betreiber setzt voraus, dass der Auftraggeber aehnliche Kontrolle wie ueber eigene Abteilungen ausueben kann.
-- OVG Berlin-Brandenburg, Beschl. v. 12.04.2022 - OVG 6 N 122.18, NZV 2022, 398 — Laermschutzauflagen nach § 74 Abs. 2 VwVfG im Planfeststellungsbeschluss fuer Stadtbahn; aktive Schutzmaassnahmen (Laermschutzwand) haben Vorrang vor passivem Schutz.
-- VG Berlin, Urt. v. 24.03.2021 - 4 K 120.18, NZV 2021, 310 — Konzessionsvergabe nach § 9 PBefG: Bewerber mit bestem Angebot hat Anspruch auf Konzession; Ablehnung ohne Begruendung verletzt rechtliches Gehoer.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fielitz/Grane PBefG § 9 Rn. 1-25 (Konzession Strassenbahn)
-- Fielitz/Grane PBefG § 28 Rn. 1-30 (Planfeststellung Strassenbahn)
-- Fielitz/Grane PBefG § 8a Rn. 1-20 (Direktvergabe)
-- Landmann/Rohmer BImSchG § 41 (Laermschutz Strassenbahn)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow Planfeststellung Strassenbahn
 
 1. **Trassenauswahl prufen:** Wurden Alternativen ernsthaft geprueft?

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-pachtvertrag-streitig
-description: "Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverstaendiger Ertragslage."
+description: "Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage."
 ---
 
 # Pachtvertrags-Streitigkeiten
@@ -41,7 +41,7 @@ Wenn Verpaechter bereits über 2 ha verpachtet und Paechter mit deutlich juenger
 
 - Anpassung meist nach **Pachtpreisspiegel** des Landwirtschaftsamtes
 - Bei Streit: Sachverständiger zur Ertragslage
-- BGH-Linie: Änderung muss erheblich und dauerhaft sein (BGH NJW-RR 2017, 1227)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Verlängerung des Pachtvertrags § 595 BGB
 
@@ -111,23 +111,21 @@ Wenn Verpaechter bereits über 2 ha verpachtet und Paechter mit deutlich juenger
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 25.10.2019 — **BLw 6/18**, NJW-RR 2020, 121 Rn. 18: Pachtzins-Anpassung nach § 593 BGB setzt eine wesentliche Änderung der Verhältnisse voraus; bloße Marktpreisschwankungen beim Pächter-Betrieb genügen nicht — die Änderung muss strukturell und dauerhaft sein; Beweislast für die wesentliche Änderung trägt derjenige, der die Anpassung begehrt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 23.11.2018 — **BLw 4/17**, NJW-RR 2019, 215 Rn. 14: Kündigung eines Landpachtvertrags aus wichtigem Grund (§ 594e BGB) setzt eine schwerwiegende Verletzung der Vertragspflichten voraus; vertragswidriges Bewirtschaften (z.B. Raubbau an der Substanz) kann zur fristlosen Kündigung berechtigen, wenn eine Abmahnung fruchtlos geblieben ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 26.04.2013 — **LwZR 5/12**, NJW-RR 2013, 1226 Rn. 20: Das Vorkaufsrecht des Pächters nach § 577 BGB analog wird für Landpacht durch § 4 LPachtVG (Aufhebungsrecht) ergänzt; Pächter hat bei Verkauf des Pachtgegenstands kein gesetzliches Vorkaufsrecht, kann aber vertraglich vereinbartes Vorkaufsrecht geltend machen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 08.03.2017 — **3 C 12.15**, NVwZ 2017, 884 Rn. 16: Pachtanzeige nach § 2 LPachtVG ist Ordnungsvorschrift; Verstoß lässt Vertragswirksamkeit unberührt; Genehmigungsversagung nach § 4 LPachtVG ist nur bei Gefährdung der Agrarstruktur möglich — strenge Anforderungen (sachlicher Grund, Verhältnismäßigkeit).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 §§ 581-584 BGB (allgemeines Pachtverhältnis) → §§ 585-597 BGB (Landpachtrecht, Sonderregeln) → § 593 BGB (Pachtzins-Anpassung bei wesentlicher Änderung) → § 594a BGB (Kündigungsfristen) → § 594e BGB (fristlose Kündigung wichtiger Grund) → LPachtVG §§ 1-8 (Pachtanzeige, Aufhebungsrecht, Genehmigung) → GrdstVG (Grundstücksverkehr, Vorkaufsrecht) → LwVG (Zuständigkeit Landwirtschaftsgericht) → § 9 ZPO (Streitwert Dauerpacht)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Lange/Wulff/Lüdtke-Handjery, Landpachtrecht, 6. Aufl. 2016: Vollständige Kommentierung §§ 585 ff. BGB und LPachtVG; Pachtzins-Anpassung, Kündigung, Streitwert.
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. III: Pachtrecht und Betriebsstruktur.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Situation | Frist | Norm |

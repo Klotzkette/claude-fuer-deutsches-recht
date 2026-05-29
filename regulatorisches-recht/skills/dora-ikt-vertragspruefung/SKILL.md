@@ -1,6 +1,6 @@
 ---
 name: dora-ikt-vertragspruefung
-description: "IKT-Drittanbietervertraege auf DORA-Konformitaet pruefen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. 28 30 DORA VO (EU) 2022/2554. Pruefraster: Pflichtklauseln Art. 30 DORA Ausstiegsstrategien Aufsichtsrechte Subdienstleister Laufzeit Sicherheitsanforderungen. Output: DORA-Vertragspruefbericht Klausel-Gap-Analyse. Abgrenzung: nicht fuer allgemeine IKT-Vertraege ohne Finanzmarktbezug."
+description: "IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. 28 30 DORA VO (EU) 2022/2554. Prüfraster: Pflichtklauseln Art. 30 DORA Ausstiegsstrategien Aufsichtsrechte Subdienstleister Laufzeit Sicherheitsanforderungen. Output: DORA-Vertragsprüfbericht Klausel-Gap-Analyse. Abgrenzung: nicht für allgemeine IKT-Vertraege ohne Finanzmarktbezug."
 ---
 
 # DORA-IKT-Vertragsprüfung
@@ -59,13 +59,12 @@ Anwendungsfälle: Vertragsanbindung eines neuen IKT-Dienstleisters; Re-Papering 
 - Datenschutz: Art. 28 DSGVO AVV, § 11 BDSG.
 
 ### Leitentscheidungen / Auslegung
-- EuGH, Urt. v. 09.02.2023 – C-555/21 (UniCredit Bank Austria), BeckRS 2023, 1697 Rn. 31 (zur Reichweite finanzregulatorischer Vorgaben).
-- BVerwG, Urt. v. 22.09.2020 – 10 C 21.19, BVerwGE 169, 313 Rn. 18 (Aufsichtsbehördliche Anordnungsbefugnis).
-- BGH, Urt. v. 29.06.2023 – I ZR 211/22, NJW 2023, 3083 Rn. 24 – zur AGB-Kontrolle B2B-Cloudverträge.
-- Nemeczek, in: Boos/Fischer/Schulte-Mattler, KWG/CRR-VO, 6. Aufl. 2022, § 25b KWG Rn. 142.
-- Brock, in: BeckOK Bankrecht, 12. Ed. (Stand 01.02.2025), § 25b KWG Rn. 88.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Zetzsche/Anker-Sørensen, EuZW 2023, 645 (648) – DORA und vertragsrechtliche Konsequenzen.
-- Hingst/Lösing, BKR 2024, 1 (8) – DORA-Vertragsklauseln in der Praxis.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 ## Ablauf
 
@@ -154,7 +153,7 @@ Pro Verbesserungsvorschlag ein Patch-Block mit:
 
 - Klauselnummer alt / neu
 - Diff (alt → neu)
-- Begründung mit Zitat aus DORA / RTS / Kommentar (Bearbeiterstil)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Verhandlungsschwere (1–3)
 
 ## Beispiel (Auszug Memo)
@@ -164,7 +163,7 @@ Pro Verbesserungsvorschlag ein Patch-Block mit:
 > **Kurzantwort:** Der Vertrag ist in der aktuellen Fassung nicht DORA-konform. Von 20 Pflichtinhalten sind 7 vollständig, 9 teilkonform und 4 fehlend. Re-Papering bis 17.01.2025 erforderlich (Art. 64 II DORA).
 >
 > **Tragende Lücken:**
-> 1. Audit-/Einsichtsrechte: § 17 MSA gewährt nur jährliche Audits mit 60 Tagen Vorlauf und Kostenbeteiligung. Art. 30 III lit. f DORA verlangt anlassbezogene, kostenfreie Prüfungen einschließlich Lead Overseer (Brock, in: BeckOK Bankrecht, 12. Ed. [Stand 01.02.2025], § 25b KWG Rn. 88; Hingst/Lösing, BKR 2024, 1 [8]).
+> Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 > 2. Sub-Outsourcing-Liste ist statisch, ohne Anzeige- und Genehmigungspflichten. Delegierte VO (EU) 2024/1773 verlangt Materialitätsschwellen und Ex-ante-Anzeige.
 > 3. Exit-Strategie fehlt; § 18 MSA enthält nur eine Datenrückgabeklausel ohne Migrationsunterstützung – Verstoß gegen Art. 30 III lit. g DORA. Vgl. Zetzsche/Anker-Sørensen, EuZW 2023, 645 (648).
 > 4. Beteiligung an TLPT-Tests nicht vereinbart (Art. 30 III lit. e i. V. m. Art. 26, 27 DORA).
@@ -190,6 +189,6 @@ Jede juristische Aussage in der tabellarischen Auswertung wird belegt nach [`../
 - DORA-Artikel mit Absatz/Buchstabe und Anhang (sofern Anhang einschlägig).
 - Einschlägige delegierte VO mit CELEX-Nr.
 - Mindestens ein BaFin- oder ESA-Verlautbarungs-Beleg, sofern vorhanden.
-- Bei umstrittenen Auslegungsfragen: h. M. und Gegenauffassung mit Bearbeiterzitat (BeckOK Bankrecht, Boos/Fischer/Schulte-Mattler, Schimansky/Bunte/Lwowski Bankrechts-Handbuch, jeweils Bearbeiter).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Reihenfolge der Belege: EU-Recht vor nationalem Recht; Verordnung vor Soft Law; Rspr. vor Literatur (Rspr. zur DORA selbst liegt nur vereinzelt vor – ausdrücklich kennzeichnen: "Rspr. zu DORA liegt soweit ersichtlich noch nicht vor, vgl. aber …").

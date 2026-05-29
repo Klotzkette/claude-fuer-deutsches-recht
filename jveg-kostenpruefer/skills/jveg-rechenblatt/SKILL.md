@@ -1,6 +1,6 @@
 ---
 name: jveg-rechenblatt
-description: "JVEG-Verguetungsberechnung in strukturiertem Rechenblatt erstellen: alle Kostenpositionen je Kategorie. Normen: §§ 5 bis 12 JVEG. Pruefraster: Stunden, Fahrtkosten, Auslagen, Verguetungssaetze. Output: Ausfuellbares Rechenblatt JVEG. Abgrenzung: nicht Antragsgenerator."
+description: "JVEG-Verguetungsberechnung in strukturiertem Rechenblatt erstellen: alle Kostenpositionen je Kategorie. Normen: §§ 5 bis 12 JVEG. Prüfraster: Stunden, Fahrtkosten, Auslagen, Verguetungssaetze. Output: Ausfuellbares Rechenblatt JVEG. Abgrenzung: nicht Antragsgenerator."
 ---
 
 # JVEG-Rechenblatt
@@ -25,16 +25,14 @@ Erstelle ein vollständig nachvollziehbares Rechenblatt für JVEG-Vergütungsans
 - § 12 JVEG (Tagegeld)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Das Rechenblatt muss die erforderliche Zeit nachvollziehbar begründen; nicht die tatsächlich aufgewandte, sondern die objektiviert notwendige Zeit ist maßgeblich.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Bei der Berechnung sind Kappungsgrenzen strikt einzuhalten; eine Überschreitung löst nicht automatisch § 8a-Konsequenzen aus, ist aber nicht erstattungsfähig.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Fahrtkostenberechnungen müssen die Ausgangspunkte und Streckenlängen transparent dokumentieren.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Jede Position im Rechenblatt braucht einen Belegverweis; nicht belegte Positionen können nicht festgesetzt werden.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 8 Rn. 1 ff., § 9 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 8–12 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 9 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Fertigstellung der Positionserfassung (jveg-aktenstripper); vor Antragserstellung.
 

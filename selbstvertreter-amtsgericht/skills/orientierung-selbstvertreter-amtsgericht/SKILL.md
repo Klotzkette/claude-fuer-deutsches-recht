@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-amtsgericht
-description: "Triage und Einstieg fuer Buerger die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klaert Rolle (Klaeger oder Beklagter) Streitwert Zustaendigkeit und verweist auf die fuer Ihre Situation passenden Skills."
+description: "Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen."
 ---
 
 # Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten
@@ -15,6 +15,7 @@ Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie koenn
 - Sie wollen verstehen, was vor dem Amtsgericht ueberhaupt passiert.
 - Sie wollen wissen, ob ein Anwalt zwingend ist.
 - Sie suchen eine Reihenfolge, in der Sie die Skills lesen.
+- Sie wollen einen Anfänger-Modus oder einen Sanity-Check vor dem Absenden.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -41,6 +42,8 @@ Sind Sie
 - **Klaeger** (Sie wollen jemand verklagen)? → Block B-E, dann F-L bei Fortschritt.
 - **Beklagter** (Sie wurden verklagt)? → Block F, dann G, H, I, J, K.
 
+Wenn Sie Anfänger sind, starten Sie zuerst mit `anfaenger-workflow-amtsgericht`. Dieser Skill erklärt die Reihenfolge in kleineren Schritten.
+
 ### Schritt 2 — Streitwert bestimmen
 
 Schaetzen Sie, um welche Geldsumme es geht. Das ist Ihr Streitwert. Bei Sachen ohne Geldforderung (z. B. "Sie sollen die Garage raeumen") schaetzt das Gericht. Skill `klage-streitwert-angabe-3-zpo` hilft.
@@ -61,6 +64,10 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 
 ### Schritt 6 — Naechsten Skill auswaehlen
 
+- Sie sind Anfänger? → `anfaenger-workflow-amtsgericht`.
+- Sie wollen vor Versand prüfen? → `sanity-check-selbstvertretung-amtsgericht`.
+- Sie sind unsicher wegen Wertgrenze, Berufung oder Anwaltszwang? → `zulassungsgrenzen-check-amtsgericht`.
+- Sie brauchen Rechtsprechung zu einem Argument? → `rechtsprechungschat-amtsgericht`.
 - Sie wollen Klage erstellen? → `klageschrift-pflichtbestandteile-253-zpo`.
 - Sie haben eine Klage bekommen? → `klageerwiderung-fristen-274-zpo`.
 - Sie haben einen Termin? → `terminvorbereitung-checkliste`.
@@ -83,6 +90,10 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 ## Querverweise
 
 - `anwaltszwang-pruefen-78-zpo` — Anwaltszwang-Check.
+- `anfaenger-workflow-amtsgericht` — besonders geführter Einstieg.
+- `sanity-check-selbstvertretung-amtsgericht` — letzte Ampel vor Versand, Termin oder Rechtsmittel.
+- `zulassungsgrenzen-check-amtsgericht` — Streitwert, AG/LG, § 495a ZPO, Berufung, Anwaltszwang.
+- `rechtsprechungschat-amtsgericht` — Rechtsprechung finden, prüfen und sauber verwenden.
 - `sachliche-zustaendigkeit-amtsgericht-23-gvg` — AG ueberhaupt zustaendig?
 - `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Lohnt sich der Prozess?

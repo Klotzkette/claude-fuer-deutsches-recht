@@ -1,6 +1,6 @@
 ---
 name: iv-plan-stabilisierung-starug
-description: "StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen wenn Vollstreckungsdruck die Sanierung gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Pruefraster: Stabilisierungsbedarf Verhaeltnismaessigkeit Glaeubiger Dauer Verlaengerung Insolvenznaehe Organpflichten. Output: Stabilisierungsantrag Betroffenenliste Verhaeltnismaessigkeitsnotiz. Abgrenzung: nicht fuer Insolvenzantragsstellung oder Schutzschirmverfahren."
+description: "StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen wenn Vollstreckungsdruck die Sanierung gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Verlaengerung Insolvenznaehe Organpflichten. Output: Stabilisierungsantrag Betroffenenliste Verhältnismäßigkeitsnotiz. Abgrenzung: nicht für Insolvenzantragsstellung oder Schutzschirmverfahren."
 ---
 
 # IV-integrierte StaRUG-Stabilisierung
@@ -49,13 +49,9 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
 
-
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
-- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — Insolvenzplan Obstruktionsverbot § 245 InsO: Verwalter muss Best-Interest-Test dokumentieren; Vergleichsrechnung Liquidation vs. Plan als Pflicht-Anlage im Plan.
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — Mehrheiten und Stimmrecht: Kopf- und Summenmehrheit je Gruppe § 244 InsO; StaRUG 75%-Schwelle § 25 StaRUG je Klasse; Stimmrechtsstreitigkeiten vor Gericht § 238a InsO.
-- BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Planbestaetigung § 248 InsO: Gericht prueft von Amts wegen; formelle und materielle Anforderungen kumulativ; Planwirkung § 254 InsO mit Bestaetigung.
-- BGH, Urt. v. 22.01.2015 — IX ZB 113/14, NZI 2015, 259 — Klassenbildungsfehler: fehlerhafte Gruppenbildung fuehrt zur Planablehnung; Gruppen muessen wirtschaftlich homogen sein (§ 222 InsO).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette (IV-Insolvenzplan)
 
@@ -69,12 +65,9 @@ Bevor losgelegt wird, klaere:
 3. **Mehrheiten realistisch?** Simulation Kopf- + Summenmehrheit je Gruppe.
 4. **Cramdown-Szenario?** § 245 InsO: ablehnende Gruppe ueberstimmbar wenn Best-Interest-Test bestanden.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Eidenmüller §§ 217-269 InsO — Insolvenzplan-Recht umfassend.
-- Uhlenbruck/Lüer §§ 217-230 InsO — Plan-Struktur aus IV-Perspektive.
-- Braun/Herzig, StaRUG, §§ 7-39 StaRUG — StaRUG-Plan parallel.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## IV-Einordnung
 
 Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfaehigkeit gegenueber Gericht und Glaeubigerausschuss sowie Planvollzugsfaehigkeit.

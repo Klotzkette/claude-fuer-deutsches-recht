@@ -1,6 +1,6 @@
 ---
 name: vollstreckung
-description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Pruefraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung."
+description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung."
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis
@@ -44,7 +44,7 @@ Das Modell benötigt:
 ### Normen
 
 - **§§ 704–707 ZPO** – Vollstreckungstitel und allgemeine Voraussetzungen (Titel, Klausel,
-  Zustellung = „drei Säulen")
+  Zustellung = "drei Säulen")
 - **§ 724 ZPO** – vollstreckbare Ausfertigung (Klausel); § 725 ZPO – Klauselerteilung durch
   Urkundsbeamten; § 732 ZPO – Erinnerung gegen Klauselerteilung
 - **§ 750 ZPO** – Zustellungserfordernis vor Beginn der Vollstreckung
@@ -68,29 +68,20 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- BGH, Beschl. v. 23.10.2014 – VII ZB 17/14, NJW 2015, 73 Rn. 12 ff.: Zur Pfändung von
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Kontoguthaben; das Vollstreckungsgericht prüft den PfÜB nur formal; materielle Einwendungen
   des Schuldners sind im Wege der Vollstreckungsgegenklage (§ 767 ZPO) oder Erinnerung (§ 766
   ZPO) geltend zu machen.
-- BGH, Beschl. v. 09.11.2021 – VII ZB 22/20, NJW 2022, 229 Rn. 18 ff.: Zum P-Konto und
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Pfändungsschutz; der Gläubiger muss den Pfändungsschutz des § 850k ZPO gegen sich gelten
   lassen; eine nachträgliche Aufhebung des Pfändungsschutzes erfordert einen gesonderten Antrag.
-- BGH, Beschl. v. 12.05.2016 – VII ZB 62/13, NJW 2016, 2659 Rn. 22: Zur Zustellung als
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Vollstreckungsvoraussetzung § 750 ZPO; Vollstreckungsmaßnahmen ohne vorherige Zustellung
   sind rechtswidrig und auf Erinnerung hin aufzuheben.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Hess, in: MüKoZPO, 6. Aufl. 2020, § 829 Rn. 1 ff. (Forderungspfändung: Antrag, Inhalt
-  des PfÜB, Zustellungsreihenfolge; Rn. 45 ff. zu Drittschuldnerpflichten und Drittschuldner-
-  erklärung § 840 ZPO).
-- Stöber/Rellermeyer, Forderungspfändung, 17. Aufl. 2022, Rn. B.1 ff. (Praxisleitfaden;
-  Muster für PfÜB-Antrag; Besonderheiten bei Bankkonten, Mietforderungen, Sozialleistungen).
-- Gruber, in: MüKoZPO, 6. Aufl. 2020, § 802c Rn. 1 ff. (Vermögensauskunft: Ablauf,
-  Pflichten des Schuldners, Eidesstattliche Versicherung, Eintragung ins Schuldnerverzeichnis).
-- Vollkommer, in: Zöller, ZPO, 35. Aufl. 2024, § 885 Rn. 1 ff. (Räumungsvollstreckung:
-  Androhung, Terminierung, Einlagerungspflicht des GV für unpfändbare Sachen).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### A. Geldvollstreckung – Mobiliarpfändung (§ 808 ZPO)
@@ -148,12 +139,12 @@ ca. EUR 264/Monat pfändbar nach aktueller Pfändungstabelle). PfÜB ist beim Vo
 am Wohnsitz des S zu beantragen; Drittschuldnerin ist die Musterfirma GmbH.
 
 *Empfehlung*: Zusätzlich Kontopfändung bei bekannter Hausbank (§ 829 ZPO); Cave: P-Konto-
-Schutz nach § 850k ZPO prüfen (BGH, Beschl. v. 09.11.2021 – VII ZB 22/20, NJW 2022, 229 Rn. 18).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
 - **Fehlende Zustellung** (§ 750 ZPO): Vollstreckung rechtswidrig; Erinnerung § 766 ZPO
-  hat Erfolg (BGH, Beschl. v. 12.05.2016 – VII ZB 62/13, NJW 2016, 2659 Rn. 22).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **P-Konto übersehen**: Pfändung auf Girokonto leer, wenn Schuldner P-Konto führt;
   Freibeträge sind automatisch geschützt (§ 850k ZPO).
 - **Falsche Pfändungsfreigrenze**: Bei Unterhaltspflichten des Schuldners erhöhte Freigrenze
@@ -169,11 +160,10 @@ Schutz nach § 850k ZPO prüfen (BGH, Beschl. v. 09.11.2021 – VII ZB 22/20, NJ
 
 Jede Aussage zu Vollstreckungsvoraussetzungen, Pfändungsfreigrenzen und Rechtsbehelfen ist
 nach `references/zitierweise.md` zu belegen. BGH-Beschlüsse vollständig mit Datum, Az.,
-NJW-Fundstelle und Rn. Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Bei Monographien
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Stöber/Rellermeyer) Autoren, Titel, Aufl., Jahr, Rn. zitieren.
 
 <!-- AUDIT 27.05.2026
-AZ BGH IX ZR 165/09 (beide Vorkommen) entfernt: Entscheidung existiert auf dejure.org unter
 Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das Urteil von
 Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage § 771 ZPO (WRONG_TOPIC).
 Halluzinierte Referenz geloescht. Keine Ersatzquelle fuer § 771 ZPO-Leitentscheidung ergaenzt.

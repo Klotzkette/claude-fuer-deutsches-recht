@@ -1,6 +1,6 @@
 ---
 name: erfinderische-taetigkeit-pruefen
-description: "Prueft erfinderische Taetigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung loest und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Loesung umgesetzt. Beruecksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Beduerfnis und kommerziellen Erfolg. Disclaimer keine amtliche Pruefung."
+description: "Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung löst und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Lösung umgesetzt. Berücksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Bedürfnis und kommerziellen Erfolg. Disclaimer keine amtliche Prüfung."
 ---
 
 # erfinderische-tätigkeit-prüfen
@@ -30,7 +30,7 @@ Wenn mehrere Entgegenhaltungen in Frage kommen: zur Plausibilitätskontrolle den
 
 ### Stufe 2: Objektive technische Aufgabe
 
-Differenz zwischen Anspruch und nächstliegendem Stand der Technik bilden — die **unterscheidenden Merkmale**. Aus diesen unterscheidenden Merkmalen wird die **technische Wirkung** abgeleitet und als „**objektive technische Aufgabe**" formuliert:
+Differenz zwischen Anspruch und nächstliegendem Stand der Technik bilden — die **unterscheidenden Merkmale**. Aus diesen unterscheidenden Merkmalen wird die **technische Wirkung** abgeleitet und als "**objektive technische Aufgabe**" formuliert:
 
 > Wie kann der nächstliegende Stand der Technik so weiterentwickelt werden, dass [technische Wirkung]?
 
@@ -45,7 +45,7 @@ Nicht: **könnte** (could). Sondern: **würde** (would). Der Fachmann muss eine 
 Die Frage hat zwei Teilaspekte:
 
 1. **Steht es im Stand der Technik?** Gibt es eine andere Entgegenhaltung, die das fehlende Merkmal lehrt?
-2. **Hätte der Fachmann zugegriffen?** Gibt es eine Anregung („pointer", „teaching", „suggestion") in der Entgegenhaltung oder im allgemeinen Fachwissen, die den Fachmann von Entgegenhaltung A zu Entgegenhaltung B führt?
+2. **Hätte der Fachmann zugegriffen?** Gibt es eine Anregung ("pointer", "teaching", "suggestion") in der Entgegenhaltung oder im allgemeinen Fachwissen, die den Fachmann von Entgegenhaltung A zu Entgegenhaltung B führt?
 
 ## Ablauf
 
@@ -72,7 +72,7 @@ Tabelle der unterscheidenden Merkmale gegenüber dem Closest-Prior-Art-Dokument.
 
 ### 4. Technische Wirkung der unterscheidenden Merkmale
 
-„Was bringt M6?" — z. B.: bessere Vorhersagegenauigkeit bei nicht-linearen Lastprofilen, robuster gegenüber Lastspitzen, Stabilität ohne manuelle Parameter-Tuning.
+"Was bringt M6?" — z. B.: bessere Vorhersagegenauigkeit bei nicht-linearen Lastprofilen, robuster gegenüber Lastspitzen, Stabilität ohne manuelle Parameter-Tuning.
 
 ### 5. Objektive technische Aufgabe formulieren
 
@@ -102,10 +102,10 @@ Wenn die Could-Would-Prüfung nahelegend ausfällt, aber dennoch Zweifel bestehe
 
 ## Hinweise
 
-- **EPA-Standardphrase:** „Could-would-approach." Im DPMA-/BPatG-Verfahren weniger formelhaft, aber inhaltlich gleich.
+- **EPA-Standardphrase:** "Could-would-approach." Im DPMA-/BPatG-Verfahren weniger formelhaft, aber inhaltlich gleich.
 - **Mehrfach-PSA.** Wenn mehrere CPA-Kandidaten denkbar: PSA für jeden, schwächste Position für die Mandantin maßgeblich.
 - **Mosaike** sind hier — anders als bei der Neuheit — **zulässig**, aber nur, wenn der Fachmann eine Verbindung gezogen hätte (Pointer aus CPA, allgemeines Fachwissen).
-- **Hindsight-Verbot.** Die Argumentation darf nicht auf die Mandanten-Anmeldung zurückblicken („wenn man weiß, wie es geht, ist es immer leicht").
+- **Hindsight-Verbot.** Die Argumentation darf nicht auf die Mandanten-Anmeldung zurückblicken ("wenn man weiß, wie es geht, ist es immer leicht").
 - **Fachmann ist Konstrukt** — die für das technische Gebiet zuständige Fachperson mit durchschnittlichen Kenntnissen und Zugang zum gesamten Stand der Technik. Bei interdisziplinären Erfindungen: **Fachteam** (T 32/81).
 
 ## Disclaimer
@@ -122,8 +122,8 @@ Bevor der Problem-Solution-Approach angewendet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 26.09.1996 — X ZR 72/94 (Elektrische Steckverbindung):** Die erfinderische Taetigkeit fehlt, wenn der Fachmann ausgehend vom Stand der Technik durch naheliegende Kombination bekannter Massnahmen zur beanspruchten Loesung gelangt waere; der massgebliche Zeitpunkt ist der Prioritaetstag, nicht der Anmeldezeitpunkt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der ueber das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz fuer erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
 
-> **BGH, Urt. v. 30.04.2009 — Xa ZR 92/05 (Druckmaschine):** Kann der Fachmann ausgehend vom nächstliegenden Stand der Technik durch einfache Kombination mehrerer bekannter Massnahmen ohne erfinderisches Zutun zur Loesung gelangen, fehlt die erfinderische Taetigkeit; die Tatsache, dass die Kombination bisher nicht bekannt war, genuegt allein nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: notarielle-beurkundung-und-oeffentliche-beglaubigung
-description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Pruefraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift."
+description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift."
 ---
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung
@@ -22,16 +22,14 @@ description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grun
 - § 311b Abs. 1 BGB (Grundstückskauf — Heilung)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 17.02.2000 – IX ZR 32/99, NJW 2000, 1560 — Der Beurkundungsmangel bei der GmbH-Anteilsabtretung (§ 15 Abs. 4 GmbHG) ist nicht durch Erfüllung heilbar; eine Nachbeurkundung ist erforderlich.
-2. BGH, Urt. v. 07.02.1986 – V ZR 176/84, NJW 1986, 1167 — Beim Grundstückskauf tritt Heilung des Beurkundungsmangels nach § 311b Abs. 1 S. 2 BGB erst mit vollständiger Eintragung im Grundbuch ein; blosse Auflassung genügt nicht.
-3. BGH, Urt. v. 12.01.2001 – V ZR 468/99, NJW 2001, 1127 — Die notarielle Beurkundungspflicht nach § 1410 BGB für Eheverträge ist zwingend; ein privatschriftlicher Ehevertrag ist ohne Ausnahme nichtig.
-4. BGH, Urt. v. 29.11.2018 – III ZR 7/18, NJW 2019, 305 — Öffentliche Beglaubigung nach § 129 BGB bescheinigt nur die Echtheit der Unterschrift, nicht den Inhalt des Dokuments; für die Urkundsinhaltsbescheinigung ist notarielle Beurkundung erforderlich.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 128 Rn. 1 ff. (Notarielle Beurkundung).
-- MuKo-BGB/Einsele, 9. Aufl. 2023, § 128 Rn. 1 ff.
-- Schöner/Stöber, Grundbuchrecht, 16. Aufl. 2020, Rn. 100 ff. (Heilung Grundstückskauf).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 128 BGB** — Notarielle Beurkundung: gesetzlich angeordnete notarielle Beurkundung nach Beurkundungsgesetz (BeurkG)
@@ -118,7 +116,7 @@ zunächst einen Notartermin.
 
 ## Fallstricke
 
-- **Vorvertrag Grundstückskauf**: Auch ein Vorvertrag zum Grundstückskauf bedarf notarieller Beurkundung (BGH-Dauerrechtsprechung). Ein „Letter of Intent" ohne Notar ist bei Grundstücken unverbindlich.
+- **Vorvertrag Grundstückskauf**: Auch ein Vorvertrag zum Grundstückskauf bedarf notarieller Beurkundung (BGH-Dauerrechtsprechung). Ein "Letter of Intent" ohne Notar ist bei Grundstücken unverbindlich.
 - **GmbH-Gründung digital**: Die vereinfachte GmbH-Gründung per Musterprotokoll ist online ohne physische Präsenz möglich (§ 2 Abs. 3 GmbHG), aber dies ist eine gesetzliche Ausnahme, keine allgemeine Regel.
 - **Formwahrung Vollmacht für Grundstücksgeschäft**: Die Vollmacht zur Beurkundung eines Grundstückskaufs muss ebenfalls notariell beurkundet oder beglaubigt sein.
 - **Video-Beurkundung Schranken**: Nicht alle Notariate bieten Videobeurkundung an; Eheverträge und Testamente bleiben Präsenzgeschäft.

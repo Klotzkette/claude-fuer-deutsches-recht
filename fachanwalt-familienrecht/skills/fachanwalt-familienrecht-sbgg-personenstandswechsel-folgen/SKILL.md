@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen
-description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Personenstandswechsel ohne aerztliches Gutachten. Folgen fuer Sorgerecht Unterhalt Versorgungsausgleich Ehename Geschlechtseintrag Kinder. AG Lichtenberg 234 III 99/24 erste Verfahren. OLG Frankfurt 5 UF 33/25. Schreibvorlage Verstaendigung Familiengericht und Standesamt. Offenbarungsverbot § 6 SBGG Bussgeldbewehrung. Dreimonate-Vormerkungsfrist § 2 SBGG."
+description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
@@ -42,11 +42,7 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BVerfG | 1 BvR 2019/16 | 10.10.2017 | "Dritte Option" — Geschlechtseintrag divers verfassungsrechtlich erforderlich; Ausgangspunkt für TSG-Reform |
-| BVerfG | 1 BvR 3295/07 | 11.01.2011 | Operationspflicht im TSG verfassungswidrig; Körperliche Integrität vorrangig |
-| BVerfG | 1 BvR 1297/24 | 01.04.2024 | SBGG verfassungskonform — kein Verstoß gegen Art. 3 GG oder Art. 6 GG |
-| AG Lichtenberg | 234 III 99/24 | 15.01.2025 | Erstes SBGG-Verfahren bei bestehender Ehe — Ehe bleibt aufrechterhalten; kein automatischer Scheidungsgrund |
-| OLG Frankfurt | 5 UF 33/25 | 02.05.2025 | Sorgerecht nach Personenstandswechsel — § 11 SBGG schützt bestehende Eltern-Kind-Rechte; Sorgerechtsposition unverändert |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — SBGG-Verfahren und Familienrechtsfolgen
 
@@ -59,8 +55,7 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 | 2 | Jahresfrist seit letztem Wechsel? | § 5 SBGG | Kein Wechsel innerhalb eines Jahres möglich |
 | 3 | Dreimonate-Vormerkungsfrist eingeplant? | § 2 SBGG | Zwischen Anmeldung und Erklärung mindestens 3 Monate |
 | 4 | Mandatskonflikt prüfen | § 43a BRAO | Kanzlei darf nicht beide Ehegatten vertreten |
-| 5 | Ehe-Status nach Wechsel | § 11 SBGG, AG Lichtenberg 234 III 99/24 | Bestehende Ehe bleibt bestehen |
-| 6 | Sorgerecht und Eltern-Status | § 11 SBGG, OLG Frankfurt 5 UF 33/25 | Mutter-/Vater-Status unverändert |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Versorgungsausgleich beeinflusst? | §§ 1–49 VersAusglG | Anwartschaften berechnen; geschlechtsspezifische Tabellen Altverträge |
 | 8 | Offenbarungsverbot einhalten | § 6 SBGG | Kein Hinweis auf frühere Eintragung gegenüber Dritten |
 | 9 | Personalausweis, Reisepass, Versicherungen aktualisieren | § 4 SBGG | Ummeldungen nach Standesamtseintragung |
@@ -69,7 +64,7 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 
 ### Folge 1 — Ehestatus und Fortführung der Ehe
 
-**Rechtslage:** Bestehende Ehe bleibt gemäß § 11 SBGG i.V.m. AG Lichtenberg 234 III 99/24 erhalten. Dies gilt auch wenn nach dem Personenstandswechsel nach außen eine gleichgeschlechtliche Ehe entsteht — diese ist seit 01.10.2017 (Öffnung der Ehe für gleichgeschlechtliche Paare) ohnehin zulässig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praktische Konsequenzen:**
 - Kein automatischer Scheidungsgrund durch SBGG-Wechsel
@@ -102,7 +97,7 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 
 **Praktisches Problem:**
 - Versicherungsverträge (BU-Versicherung, Kapitallebensversicherung) mit geschlechtsspezifischen Tabellengrundlagen
-- Altverträge: nach EuGH C-236/09 (Test-Achats, 01.03.2011) nur noch Unisex-Tarife für Neuverträge ab 21.12.2012
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Altverträge mit geschlechtsspezifischen Tabellen: Versicherungsunternehmen anfragen ob Anpassung möglich
 
 **Versorgungsausgleich in der Scheidung:**
@@ -294,11 +289,9 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 | Gegenargument Behörde / Ehegatte | Reaktion |
 |----------------------------------|---------|
-| „SBGG verletzt Art. 3 GG — Benachteiligung anderer" | BVerfG 1 BvR 1297/24: SBGG verfassungskonform |
-| „Ehe muss wegen Geschlechtswechsel aufgelöst werden" | AG Lichtenberg 234 III 99/24: Ehe bleibt bestehen; keine automatische Auflösung |
-| „Sorgerecht ändert sich durch Wechsel" | § 11 SBGG + OLG Frankfurt 5 UF 33/25: Eltern-Status unverändert |
-| „Offenbarungsverbot verhindert Behördentransparenz" | § 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
-| „Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Offenbarungsverbot verhindert Behördentransparenz" | § 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
+| "Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
 
 ## Streitwert und Kosten
 
@@ -333,7 +326,5 @@ eines Vermittlungstermins innerhalb eines Monats.
 - SBGG (Selbstbestimmungsgesetz) §§ 1–14, in Kraft 01.11.2024
 - BGB §§ 1353, 1565, 1591, 1592, 1626, 1684
 - VersAusglG §§ 1–49
-- BVerfG 1 BvR 2019/16 (10.10.2017); 1 BvR 1297/24 (01.04.2024)
-- AG Lichtenberg 234 III 99/24 (15.01.2025)
-- OLG Frankfurt 5 UF 33/25 (02.05.2025)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stand: 05/2026; weitere SBGG-Rechtsprechung im Entstehen — bei BGH-Linie aktualisieren

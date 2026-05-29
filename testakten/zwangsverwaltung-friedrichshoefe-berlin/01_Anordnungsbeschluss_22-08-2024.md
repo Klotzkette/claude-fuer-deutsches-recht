@@ -24,7 +24,7 @@ zugleich als Insolvenzschuldnerin im Verfahren AG Charlottenburg 36w IN 4721/24,
 
 — Schuldnerin —
 
-wegen Zwangsverwaltung des Büro- und Geschäftshauses „Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte, eingetragen im Grundbuch des Amtsgerichts Mitte von Berlin Blatt 27841, Flurstück 4827 der Flur 18, Gemarkung Friedrichstadt,
+wegen Zwangsverwaltung des Büro- und Geschäftshauses "Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte, eingetragen im Grundbuch des Amtsgerichts Mitte von Berlin Blatt 27841, Flurstück 4827 der Flur 18, Gemarkung Friedrichstadt,
 
 ergeht aufgrund des Antrags der Gläubigerin vom 16.08.2024, eingegangen am selben Tage, folgender
 
@@ -42,7 +42,7 @@ bestellt. Sie ist gemäß § 152 ZVG befugt, die im Beschluss bezeichnete Immobi
 
 III. Die Verwalterin hat dem Gericht binnen sechs Wochen einen Bericht über den Bestand, die laufenden Einnahmen und Ausgaben sowie die ersten Verwaltungsmaßnahmen vorzulegen. Sie ist sodann verpflichtet, gemäß § 155 ZVG halbjährlich Verteilungsrechnungen zu erstellen und dem Gericht zur Genehmigung vorzulegen.
 
-IV. Die Verwalterin hat ein Anderkonto auf den Namen „RAin Y. Lindqvist-Bähr, Zwangsverwaltung Friedrichshöfe, AG Mitte 36 L 412/24" bei einem deutschen Kreditinstitut einzurichten und sämtliche Mieteinnahmen und sonstige Einkünfte auf dieses Konto fließen zu lassen. Eigenmittel der Verwalterin oder anderer Verfahrensbeteiligter dürfen nicht beigemischt werden.
+IV. Die Verwalterin hat ein Anderkonto auf den Namen "RAin Y. Lindqvist-Bähr, Zwangsverwaltung Friedrichshöfe, AG Mitte 36 L 412/24" bei einem deutschen Kreditinstitut einzurichten und sämtliche Mieteinnahmen und sonstige Einkünfte auf dieses Konto fließen zu lassen. Eigenmittel der Verwalterin oder anderer Verfahrensbeteiligter dürfen nicht beigemischt werden.
 
 V. Die Schuldnerin wird aufgefordert, der Verwalterin
 

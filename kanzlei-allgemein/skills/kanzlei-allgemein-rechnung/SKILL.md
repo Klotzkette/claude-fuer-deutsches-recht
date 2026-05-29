@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-rechnung
-description: "Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonorare vor. Anwendungsfall Mandat ist abgeschlossen oder Zeitpunkt fuer Zwischenrechnung ist gekommen. Normen § 10 RVG Pflichtangaben § 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung § 3a RVG Honorarvereinbarung. Pruefraster Timesheet Narrative Auslagen Umsatzsteuer Zahlungsstatus Rechtsschutz GoBD-Protokoll. Output Honorarrechnung als PDF und Markdown mit Eintrag im Honorar-Tracker Uebergabe an XRechnung oder ZUGFeRD moeglich. Abgrenzung zu rechnungserstellung-rvg (ausfuehrliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung."
+description: "Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonorare vor. Anwendungsfall Mandat ist abgeschlossen oder Zeitpunkt für Zwischenrechnung ist gekommen. Normen § 10 RVG Pflichtangaben § 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung § 3a RVG Honorarvereinbarung. Prüfraster Timesheet Narrative Auslagen Umsatzsteuer Zahlungsstatus Rechtsschutz GoBD-Protokoll. Output Honorarrechnung als PDF und Markdown mit Eintrag im Honorar-Tracker Übergabe an XRechnung oder ZUGFeRD möglich. Abgrenzung zu rechnungserstellung-rvg (ausführliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung."
 ---
 
 # Rechnungsvorbereitung und Abschluss
@@ -13,10 +13,7 @@ description: "Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen un
 4. Soll die Rechnung als E-Rechnung (XRechnung, ZUGFeRD) erstellt werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — RVG-Rechnung muss alle Pflichtangaben nach § 10 RVG enthalten; fehlende Angaben (z.B. Gegenstandswert) verzoegern Faelligkeit der Forderung.
-- BGH, Urt. v. 29.07.2021 - IX ZR 5/21, NJW 2021, 3320 — Honorarvereinbarung nach § 3a RVG erfordert Schriftform; muendlich vereinbarter Stundensatz ist nicht durchsetzbar.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Abrechnung gegen Rechtsschutzversicherung: Direktabrechnung nur mit Einwilligung des Mandanten zulaessig; sonst Erstattungsweg.
-- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — GoBD-konforme Rechnungsarchivierung: unveraenderte Aufbewahrung auch digitaler Ausgangsrechnungen fuer 10 Jahre.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 10 RVG — Pflichtangaben auf der Honorarrechnung; Faelligkeit bei ordnungsgemaesser Berechnung
@@ -24,10 +21,9 @@ description: "Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen un
 - Anlage 2 RVG — Gebuehrentabelle: Grundlage der RVG-Abrechnung
 - § 14b UStG — Aufbewahrungspflicht fuer Ausgangsrechnungen (10 Jahre)
 
-## Kommentarliteratur
-- Mueckenberger/Meiling RVG § 10 Rn. 1-30 (Pflichtangaben und Faelligkeit)
-- Gerold/Schmidt RVG Anlage 2 Rn. 1-30 (Gebuehrentabelle: Berechnung und Anwendung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill sammelt abrechnungsreife Informationen und erzeugt einen Rechnungsentwurf, Vorschussvorschlag oder eine Übergabe an den E-Rechnungs-Skill. Er ist die fachliche Rechnungsakte, nicht das Buchhaltungssystem.

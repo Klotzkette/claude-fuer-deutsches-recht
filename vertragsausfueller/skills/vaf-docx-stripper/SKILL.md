@@ -1,6 +1,6 @@
 ---
 name: vaf-docx-stripper
-description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Pruefraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung fuer Vertragstyp-Erkennung und zu Feldinventar."
+description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung für Vertragstyp-Erkennung und zu Feldinventar."
 ---
 
 # DOCX-Stripper
@@ -15,10 +15,7 @@ description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.11.2006 - VIII ZR 166/06, NJW 2007, 674 — Vertragsinhalt bestimmt sich nach dem Wortlaut der schriftlichen Urkunde; bei Widersprüchen zwischen Text und Anlagen gilt der Haupttext.
-- BGH, Urt. v. 14.01.2010 - VII ZR 213/07, NJW 2010, 1195 — Verjährung der Rückforderung von Mangelbeseitigungsvorschüssen: grob fahrlässige Unkenntnis i.S.d. § 199 Abs. 1 Nr. 2 BGB liegt vor wenn gleichsam auf der Hand liegende Erkenntnismöglichkeit versäumt wurde; BauR 2010, 618.
-- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Vertragsauslegung bei widersprüchlichen AGB-Klauseln: Spezialklausel geht Generalklausel vor.
-- BGH, Urt. v. 05.12.2019 - IX ZR 189/18, NJW 2020, 673 — Integrationsklausel ("dieser Vertrag enthält alle Vereinbarungen") schließt Einbeziehung vorvertraglicher E-Mails aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -26,11 +23,9 @@ description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-
 - § 305c Abs. 2 BGB — Unklarheitenregel (gilt für Platzhalter-Auslegung)
 - § 416 ZPO — Beweiskraft von Privaturkunden
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 133 Rn. 1-30 (Auslegung)
-- MüKo-BGB/Busche, 9. Aufl. 2022, § 157 Rn. 1-40 (Vertragsauslegung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill macht aus Word-Dokumenten ein bearbeitbares Vertragsmodell. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

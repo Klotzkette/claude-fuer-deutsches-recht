@@ -1,6 +1,6 @@
 ---
 name: unterhalt-duesseldorfer-tabelle
-description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Pruefraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstaetigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt fuer Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt."
+description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt."
 ---
 
 # Unterhalt nach Düsseldorfer Tabelle
@@ -70,7 +70,7 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 
 ### Bedarfsdeckung
 
-- Eheliche Lebensverhältnisse als Maßstab (BGH XII ZR 138/06).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eigeneinkommen anrechnen.
 - Wohnvorteil bewerten.
 
@@ -94,7 +94,7 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 ### Erwerbsobliegenheit
 
 - Nach Trennungsphase Erwerbsobliegenheit prüfen
-- Fiktives Einkommen bei Verletzung (BGH XII ZR 113/04)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Auskunftsanspruch § 1605 BGB
 

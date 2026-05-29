@@ -1,6 +1,6 @@
 ---
 name: zv-mahnbescheid-online
-description: "Glaeubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Pruefraster: Schlüssigkeitspruefung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt fuer Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter."
+description: "Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt für Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter."
 ---
 
 # Mahnbescheid online
@@ -15,10 +15,7 @@ description: "Glaeubiger will Forderung ohne Klage per Mahnbescheid titulieren l
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.10.2008 - XI ZR 466/07, NJW 2009, 56 — Anspruchsbezeichnung im Mahnantrag muss den Anspruch individualisieren; ohne ausreichende Bezeichnung entsteht keine Verjährungshemmung (§ 204 Abs. 1 Nr. 3 BGB).
-- BGH, Urt. v. 23.06.2015 - XI ZR 536/14, NJW 2015, 2584 — Verjährungshemmung erfordert, dass Anspruch im Mahnbescheid eindeutig bezeichnet ist; Fehler in der Antragsnummer schaden nicht, wenn Vertrag erkennbar.
-- BGH, Urt. v. 17.07.2019 - VIII ZR 224/18, NJW 2019, 2994 — "Demnächst"-Zustellung § 167 ZPO: Rückwirkung tritt ein, wenn Verzögerung nicht dem Antragsteller zuzurechnen ist; Fristversäumnis durch Gericht schadet nicht.
-- BGH, Urt. v. 06.05.2014 - XI ZR 217/12, NJW 2014, 2806 — Verjährungshemmung § 204 Abs. 2 BGB endet 6 Monate nach Erlass des VB, wenn das Verfahren nicht weiter betrieben wird.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,12 +27,9 @@ description: "Glaeubiger will Forderung ohne Klage per Mahnbescheid titulieren l
 - § 204 Abs. 1 Nr. 3 BGB — Verjährungshemmung durch Zustellung des Mahnbescheids
 - § 167 ZPO — Rückwirkung der Zustellung bei "demnächst"-Zustellung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Vollkommer, ZPO, 35. Aufl. 2024, § 688 Rn. 1-20 (Mahnverfahren Überblick)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 690 Rn. 1-15 (Antragsinhalt Individualisierung)
-- Grüneberg, BGB, 83. Aufl. 2024, § 204 Rn. 30-50 (Verjährungshemmung Mahnbescheid)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill führt durch das automatisierte Mahnverfahren, das in Deutschland ausschließlich über das gemeinsame Mahnportal der Länder läuft: [www.online-mahnantrag.de](https://www.online-mahnantrag.de). Anwälte sind seit 1.1.2018 zur elektronischen Einreichung verpflichtet (§ 702 Abs. 2 ZPO i.V.m. § 130d ZPO).
@@ -125,9 +119,7 @@ Privatperson oder Vereine ohne beA: über das Online-Portal anlegen, dann ausdru
 
 ## Leitentscheidungen
 
-- BGH, Urt. v. 21.10.2008 – XI ZR 466/07: Anspruchsbezeichnung im Mahnantrag muss Individualisierung erlauben; sonst kein Verjährungs-Hemmungseffekt.
-- BGH, Urt. v. 23.06.2015 – XI ZR 536/14: Verjährungshemmung scheitert, wenn Anspruch im Mahnantrag unrichtig oder schwankend bezeichnet ist.
-- BGH, Urt. v. 17.07.2019 – VIII ZR 224/18: "Demnächst"-Zustellung § 167 ZPO bei Verzögerungen, die nicht dem Antragsteller anzulasten sind.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

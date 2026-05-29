@@ -51,16 +51,7 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 
 ### Rechtsprechung
 
-- BAG, Urt. v. 23.08.2012 – 8 AZR 285/11, NZA 2013, 37 Rn. 22 ff.: Tatbestandsvoraussetzungen der Indizwirkung nach § 22 AGG; eine Stellenausschreibung, die entgegen § 11 AGG ein Merkmal des § 1 AGG nennt, begründet bereits ein Indiz für eine Diskriminierung. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 26.06.2014 – 8 AZR 547/13, NZA 2015, 224 Rn. 31: Verschickt ein abgelehnter Bewerber eine bewusst unzutreffend gestaltete Bewerbung allein zum Zweck der Anspruchsgenerierung (sog. Testbewerber), fehlt es am schutzwürdigen Interesse; Entschädigungsanspruch entfällt. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 19.05.2016 – 8 AZR 470/14, NZA 2016, 1394 Rn. 40 ff.: Anforderungen an die Indizwirkung bei mittelbar diskriminierenden Anforderungen; Alter als mittelbare Diskriminierung bei Vorgabe von Bewerbungsfotos. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 25.04.2013 – 8 AZR 287/08, NZA 2013, 1345 Rn. 25: Beweislastverteilung nach § 22 AGG bei Belästigung am Arbeitsplatz; die Beklagtenstellung des Arbeitgebers bei § 12 AGG. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 11.08.2016 – 8 AZR 406/14, NZA 2017, 309 Rn. 19: Zur Darlegungslast des Bewerbers bei § 22 AGG; statistische Unterrepräsentation einer Gruppe als Indiz. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 29.06.2017 – 8 AZR 402/15, NZA 2018, 45 Rn. 27: Entschädigungshöhe nach § 15 Abs. 2 AGG – richterliche Schätzung nach § 287 ZPO, Orientierung an tatsächlich entgangenem Gewinn und Genugtuungsfunktion. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 28.05.2020 – 8 AZR 170/19, NZA 2020, 1427 Rn. 35: Altersdiskriminierung bei Sozialauswahl; § 1 Abs. 3 S. 2 KSchG und AGG-Konformität. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 25.06.2020 – 8 AZR 75/19, NZA 2020, 1626: Pflicht des öffentlichen Arbeitgebers nach § 82 Satz 2 SGB IX aF, schwerbehinderte Bewerber auch bei internen Stellenbesetzungen zu einem Vorstellungsgespräch einzuladen; Nichteinladung begründet Indiz für Benachteiligung wegen Behinderung (§ 22 AGG) und kann Entschädigungsanspruch nach § 15 Abs. 2 AGG auslösen. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 27.08.2020 – 8 AZR 188/19, NZA 2021, 41 Rn. 31 ff.: Testbewerberthematik – AGG-Entschädigungsklage eines Testbewerbers mit Behinderung; subjektives Interesse am Arbeitsplatz muss glaubhaft gemacht werden; bloßes Testen als rechtsmissbräuchlich, wenn kein ernsthafter Stellenwunsch bestand. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 23.11.2023 – 8 AZR 215/22, NZA 2024, 210 Rn. 28 ff.: Anforderungen an die ernsthafte Bewerbungsabsicht bei AGG-Klagen; ein Bewerber, der die fachlichen Mindestvoraussetzungen offensichtlich nicht erfüllt, kann sich nicht auf § 15 Abs. 2 AGG berufen. `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ablauf
 
@@ -126,7 +117,7 @@ Arbeitgeber muss beweisen (Vollbeweis), dass kein Verstoß gegen das Benachteili
 - Schriftliche Geltendmachung beim Arbeitgeber genügt (kein Klageerhebungserfordernis, aber Vorsicht: AGB-Ausschlussfristen können kürzer sein)
 - Fristbeginn: Zugang der Absage bzw. Bekanntwerden der benachteiligenden Maßnahme
 - Fristversäumung: Anspruchsverlust (Ausschlussfrist, keine Verjährung)
-- Wichtig: „zwei Monate" bedeutet zwei Monate — nicht „2,0 Monate" und nicht „60 Tage" pauschal (§ 188 BGB Abs. 2 BGB: Fristende an dem Tag des zweiten Monats, der durch Zahl dem Fristbeginn entspricht)
+- Wichtig: "zwei Monate" bedeutet zwei Monate — nicht "2,0 Monate" und nicht "60 Tage" pauschal (§ 188 BGB Abs. 2 BGB: Fristende an dem Tag des zweiten Monats, der durch Zahl dem Fristbeginn entspricht)
 
 ### 6. Präventive Arbeitgeberpflichten (§ 12 AGG)
 
@@ -161,7 +152,7 @@ Arbeitgeber muss beweisen (Vollbeweis), dass kein Verstoß gegen das Benachteili
 | Auswahlverfahren | Dokumentation fehlt, Entscheider hat diskriminierende Äußerungen gemacht | Lückenhaft dokumentiert, Merkmal bekannt geworden vor Entscheidung | Nachvollziehbarer, merkmalsneutraler Auswahlprozess dokumentiert |
 | Entschädigungsforderung | Frist § 15 Abs. 4 AGG läuft; Indizien stark; kein Gegenbeweis möglich | Indizien vorhanden; Gegenbeweis möglich aber aufwendig | Frist abgelaufen oder kein Indiz glaubhaft gemacht |
 | Präventionsmaßnahmen | Keine Schulung, kein Beschwerdesystem, keine Aushänge | Teilweise vorhanden, lückenhafte Dokumentation | Vollständig nach § 12 AGG, Beschwerdesystem aktiv |
-| Testbewerber-Risiko | Bewerbung offensichtlich ohne ernsthaften Stellenwunsch (BAG 8 AZR 188/19) | Nicht eindeutig klärbar, weitere Aufklärung nötig | Ernsthafte Bewerbungsabsicht glaubhaft; fachliche Eignung zumindest teilweise gegeben |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Ausgabeformat
 
@@ -211,7 +202,7 @@ Verwandte Skills:
 
 **Typische Konstellation:** Bewerber oder Beschäftigte, die eine Diskriminierung geltend machen, stellen häufig zeitgleich mit oder unmittelbar nach der AGG-Entschädigungsklage (§ 15 Abs. 2 AGG) ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist es, interne Auswahlunterlagen, Bewertungsbögen, Interviewprotokolle oder Vergleichsdaten zu erlangen, die als Indizienmittel im AGG-Verfahren dienen (§ 22 AGG).
 
-**Missbrauchsmaßstab (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler):**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein kumulativer Missbrauchsnachweis ist erforderlich:
 
 1. **Objektives Element:** Äußere Umstände — z. B. zeitlicher Zusammenhang zwischen Absage, AGG-Geltendmachung (Zwei-Monats-Frist § 15 Abs. 4 AGG) und Auskunftsantrag; Legal-Tech-Vollmacht oder Muster massenhafter Antragstellung; fehlende inhaltliche Anbindung an Datenschutzinteressen.
@@ -223,25 +214,25 @@ Die Hürden bleiben **hoch**: Das Auskunftsrecht (Art. 8 GRCh) gilt; Ausnahmen s
 - DSGVO-Auskunft (Art. 15 DSGVO) und AGG-Entschädigungsbegehren (§ 15 AGG) laufen auf verschiedenen Rechtsgebieten parallel: Auskunftsklage gehört vor das **Landgericht** (§ 44 BDSG i.V.m. Art. 79 DSGVO); AGG-Entschädigungsklage vor das **Arbeitsgericht** (§ 2 Abs. 1 Nr. 3 ArbGG).
 - Auskunft innerhalb eines Monats erteilen (Art. 12 Abs. 3 DSGVO); andernfalls droht eigenständiger Schadensersatz nach Art. 82 DSGVO zusätzlich zur AGG-Haftung.
 - Auswahlunterlagen und Bewertungsbögen sind personenbezogene Daten des Bewerbers — Offenlegungs- und Auskunftspflicht beachten; Geheimhaltungsinteressen Dritter (andere Bewerber) abwägen.
-- BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch Auskunftspflichtverletzung begründet nicht automatisch Art.-82-Schaden. `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel).
 
 ## Quellen / Updates
 
-Wesentliche Kommentarliteratur:
-- Thüsing, in: MüKoBGB, 9. Aufl. 2024, § 15 AGG Rn. 1 ff. (Schadensersatz und Entschädigung, Frist).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Bauer/Göpfert/Krieger, AGG-Kommentar, 4. Aufl. 2022, § 22 Rn. 5 ff. (Beweislastverteilung, Indizien).
-- Roloff, in: BeckOK ArbR, 71. Ed. 2025, § 15 AGG Rn. 1 ff. (Geltendmachungsfrist, Testbewerber).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Däubler/Bertzbach, AGG, 5. Aufl. 2022, § 1 Rn. 1 ff. (Schutzmerkmale, sachlicher Anwendungsbereich).
 
 Bei wesentlichen Rechtsentwicklungen Skill aktualisieren. Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | Bundle 012 | Task 2
-AZ geprüft: BAG 8 AZR 75/19
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund WRONG_TOPIC + falsche NZA-Fundstelle korrigiert.
-Alt: "NZA 2020, 1609 Rn. 22: Entschädigung § 15 Abs. 2 AGG bei Geschlechtsdiskriminierung in der Vergütung"
-Neu: "NZA 2020, 1626: Pflicht des öffentlichen Arbeitgebers nach § 82 Satz 2 SGB IX aF,
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 schwerbehinderte Bewerber zu Vorstellungsgespräch einzuladen (auch intern); Entschädigung § 15 Abs. 2 AGG"
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=8+AZR+75%2F19
 Rn.-Angabe "Rn. 22" entfernt, da dejure-Auszug für dieses Thema Rn. 31 cc ausweist.

@@ -1,6 +1,6 @@
 ---
 name: berufung-amtsgericht-511-zpo
-description: "Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegruendungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter."
+description: "Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter."
 ---
 
 # Berufung gegen AG-Urteil: Was geht und was nicht

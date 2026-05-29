@@ -1,5 +1,14 @@
 # Schulungsakte: Solis Vision X Smartglasses
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-solis-vision-x-smartglasses` (diese Akte) | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Streitsache: **Datenschutzverein NORD e.V. ./. Lir Optics Ltd.**
 Aktenzeichen: **11 C 2406/26** (Amtsgericht Hamburg, Abteilung 11)
 Streitwert: **1577 EUR** (Testkauf 1197 EUR plus Gutachterkosten 380 EUR)

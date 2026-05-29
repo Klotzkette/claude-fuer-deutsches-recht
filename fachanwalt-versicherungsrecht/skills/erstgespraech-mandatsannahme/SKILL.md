@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Versicherungsvertragsrecht (Personen- und Sachversicherung)
@@ -156,17 +156,16 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 14.01.2015 — **IV ZR 38/14**, NJW 2015, 848 Rn. 16: Im Erstgespräch ist der Fristenlauf (§§ 195, 199 BGB) für jeden Versicherungsleistungsanspruch gesondert zu prüfen; Kenntnis des Versicherungsnehmers vom Schadenseintritt genügt für Fristbeginn — Rechtskenntnis ist nicht erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.10.2012 — **IV ZR 204/11**, NJW 2013, 225 Rn. 12: Beratungspflichten des Versicherungsvertreters/Maklers nach § 6 VVG (Beratungspflicht) bzw. § 61 VVG (Maklerpflichten) können im Erstgespräch relevant werden; verletzt der beratende Anwalt Informationspflichten über Rechtslage, haftet er aus § 280 Abs. 1 BGB i.V.m. dem Mandatsvertrag.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.02.2013 — **IX ZR 86/12**, NJW 2013, 1517 Rn. 15: Interessenkonflikt bei Versicherungsrechtsmandaten: Vertretung von Versicherungsnehmer und Versicherer in derselben Sache verstößt gegen § 43a Abs. 4 BRAO; auch bei verschiedenen Mandaten zu derselben Sache ist ein Konflikt zu prüfen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normenkette Erstgespräch / Mandatsannahme Versicherungsrecht
 
 § 6 VVG (Beratungspflicht Versicherer; Anwalt analog für Mandant) → §§ 195, 199, 203, 204 BGB (Verjährung, Hemmung) → § 215 VVG (Zuständigkeit bei Klage) → §§ 43a, 45 BRAO (Konfliktprüfung) → §§ 3, 3a RVG (Vergütungsvereinbarung) → §§ 10, 11 GwG (Identifizierungspflicht) → § 9 RVG (Vorschuss)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch, 3. Aufl. 2015, § 1 (Kanzlei-Organisation Versicherungsrecht): GwG-Compliance, Konflikt-Check, Fristenmanagement.
-- Prölss/Martin, VVG, 31. Aufl. 2021, § 6 VVG: Beratungspflichten und anwaltliche Analogie; Haftungsfolgen bei Pflichtverletzung.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-orientierung
-description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachpruefungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Pruefraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachpruefungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin."
+description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin."
 ---
 
 # Fachanwalt für Vergaberecht — Orientierung
@@ -51,13 +51,9 @@ description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen
 - **BGH** (XIII. Zivilsenat seit 01.01.2021) bei Divergenzvorlage § 179 Abs. 2 GWB des OLG-Vergabesenats.
 - **EuGH** bei EU-rechtlichen Vorabentscheidungen.
 
-## Standardliteratur
+## Quellenregel
 
-- Burgi, Vergaberecht.
-- Ziekow/Voelkl, Vergaberecht.
-- Beck'scher Vergaberechtskommentar.
-- Heuvels/Hoeß, GWB-Kartell- und Vergaberecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Vergaberecht DAV.
@@ -74,10 +70,7 @@ description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen
 
 ### Schluessel-Leitsaetze Vergaberecht 2020-2024
 
-- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 — Ruegeobliegenheit § 160 Abs. 3 GWB: unverzueglich, spaetestens 10 Tage nach Kenntnis; Versaeumnis = Praeklusion.
-- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Feststellung der Unwirksamkeit nach § 135 GWB: Antrag nur durch Bieter mit Teilnahmeberechtigungund Vergabeinteresse.
-- EuGH, Urt. v. 22.09.2022 - C-537/19, NZBau 2023, 38 — Verhaaltnismaessigkeitsgrundsatz bei Eignungsanforderungen: Anforderungen muessen zum Auftragsgegenstand verhaaltnismaessig sein; ueberschiessende Anforderungen = Vergaberechtsverstos.
-- OLG Dusseldorf, Beschl. v. 25.01.2023 - Verg 30/22, NZBau 2023, 255 — Wertungsmatrix: Auftraggeber darf Zuschlagskriterien und deren Gewichtung grundsaetzlich frei waehlen; aber transparente und diskriminierungsfreie Anwendung obligatorisch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ueberblick Vergaberecht
 | Regelwerk | Anwendungsbereich |
@@ -91,8 +84,6 @@ description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen
 | VOB/A Abschnitt 1 | Unterschwellige Bauleistungen |
 | VOB/A Abschnitt 2 | EU-Bauleistungen |
 
-### Kommentarliteratur (aktuell)
-- Ziekow/Voellink, Vergaberecht, 4. Aufl. (GWB, VgV, SektVO)
-- Burgi, Vergaberecht, 3. Aufl.
-- Beck Vergaberechtskommentar §§ 97-186 GWB
-- Pünder/Schellenberg, Vergaberecht Handkommentar
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

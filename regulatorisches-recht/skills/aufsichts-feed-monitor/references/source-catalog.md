@@ -38,7 +38,7 @@ eingestellt gemeldet — vor der Konfiguration verifizieren.
 
 ## Landesrecht — Primär (Auswahl)
 
-Abdeckung ist uneinheitlich. Bundesländer mit aktiver Datenschutz- und Verbraucherschutzdurchsetzung bevorzugt. Viele Landesbehörden veröffentlichen ausschließlich HTML-Seiten — falls kein RSS, als „manuell" konfigurieren oder Webseitenänderungserkennung einrichten.
+Abdeckung ist uneinheitlich. Bundesländer mit aktiver Datenschutz- und Verbraucherschutzdurchsetzung bevorzugt. Viele Landesbehörden veröffentlichen ausschließlich HTML-Seiten — falls kein RSS, als "manuell" konfigurieren oder Webseitenänderungserkennung einrichten.
 
 | Quelle | Feed-URL | Format | Abdeckung | Auth | Hinweise |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Abdeckung ist uneinheitlich. Bundesländer mit aktiver Datenschutz- und Verbrauc
 
 ## Sekundär / Aggregatoren
 
-**Inhalte aus diesen Quellen als Hinweise, nicht als Autorität behandeln.** Wenn eine Sekundärquelle meldet „BaFin hat X veröffentlicht" bedeutet das: X auf bafin.de suchen und dann darauf stützen. Aus diesen Feeds gezogene Einträge im Digest als `[Sekundärquelle]` kennzeichnen.
+**Inhalte aus diesen Quellen als Hinweise, nicht als Autorität behandeln.** Wenn eine Sekundärquelle meldet "BaFin hat X veröffentlicht" bedeutet das: X auf bafin.de suchen und dann darauf stützen. Aus diesen Feeds gezogene Einträge im Digest als `[Sekundärquelle]` kennzeichnen.
 
 | Quelle | Feed-URL | Format | Abdeckung | Auth | Hinweise |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@ Einige wichtige Quellen veröffentlichen keine Feeds oder deren RSS wurde einges
 Die Überwachung erfordert:
 - Webseitenänderungserkennung (derzeit nicht eingebaut)
 - E-Mail-Newsletter-Weiterleitung (erfordert Gmail/Outlook-MCP-Integration)
-- Manuelle Prüfung über den Reg-Feed-Watcher-Pfad „manuelle Eingabe"
+- Manuelle Prüfung über den Reg-Feed-Watcher-Pfad "manuelle Eingabe"
 
 | Quelle | URL | Hinweise |
 |---|---|---|

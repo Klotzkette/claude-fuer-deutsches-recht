@@ -31,7 +31,6 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 | **Moebelwerk Havelberg (Insolvenzverwaltung Regelverfahren)** | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
 | **Nordlicht Handels Kiel (Insolvenzverwaltung)** | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
 
-
 ## Kernmodule
 
 | Modul | Funktion |
@@ -66,7 +65,6 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 | `iv-berichte-gericht-glaeubiger` | Erstellt Zwischenberichte, Ausschussberichte, Sachstandsberichte und Beschlussvorlagen. |
 | `iv-verteilung-schlussrechnung` | Bereitet Schlussbericht, Schlussrechnung, Verteilung und Nachtragsverteilung vor. |
 | `iv-qualitaets-und-plausibilitaetsgate` | Findet Lücken, Widersprüche, Fristen, Rechenfehler und Rollenverwechslungen. |
-
 
 ## IV-integrierte Planwerkstatt
 

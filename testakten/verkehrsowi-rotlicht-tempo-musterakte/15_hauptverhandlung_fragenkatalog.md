@@ -17,7 +17,7 @@
 
 2. **Von Ihrem Standort aus – hatten Sie freie Sicht auf die Haltelinie selbst, auf die Ampel oder auf beides gleichzeitig?**
 
-3. **Sie schreiben im Zeugenvermerk, Sie hätten den Phasenwechsel an der „Seitenanzeige" erkannt – welche Seitenanzeige meinen Sie genau, und auf welcher Seite der Kreuzung befand sie sich?**
+3. **Sie schreiben im Zeugenvermerk, Sie hätten den Phasenwechsel an der "Seitenanzeige" erkannt – welche Seitenanzeige meinen Sie genau, und auf welcher Seite der Kreuzung befand sie sich?**
 
 4. **Befanden sich zum Zeitpunkt der Messung andere Fahrzeuge im Kreuzungsbereich, die Ihre Sicht eingeschränkt haben könnten?**
 
@@ -43,7 +43,7 @@
 
 ### Block 3: Fahrspurkorrektur
 
-12. **Im Messprotokoll ist die ursprüngliche Eintragung „Fahrspur 2" handschriftlich auf „Fahrspur 1" korrigiert. Wann ist Ihnen dieser Fehler aufgefallen?**
+12. **Im Messprotokoll ist die ursprüngliche Eintragung "Fahrspur 2" handschriftlich auf "Fahrspur 1" korrigiert. Wann ist Ihnen dieser Fehler aufgefallen?**
 
 13. **Sie geben an, die Korrektur um 16:04 Uhr vorgenommen zu haben – das ist fast eine Stunde nach der Messung. Was hat dazu geführt, dass Sie den Fehler erst so spät bemerkt haben?**
 

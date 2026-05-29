@@ -1,6 +1,6 @@
 ---
 name: mandatsverhaeltnis-hinweis
-description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Pruefraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begruendung. Kurz- und Langform fuer Antwortmail und Fusszeile. Output: Disclaimer-Texte fuer E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator."
+description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator."
 ---
 
 # Mandatsverhältnis-Hinweis
@@ -15,10 +15,7 @@ Dieser Skill formuliert den rechtlich erforderlichen Hinweis, dass mit der Beant
 4. Muss zusaetzlich auf die Kostenpflicht hingewiesen werden (§ 49b Abs. 5 BRAO)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Konkludente Mandatsbegrundung durch inhaltliche Erstauskunft moeglich; Disclaimer schutzt Kanzlei vor unkontrollierter Mandat-Entstehung.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Beratungsvertrag kommt durch Einigung ueber Gegenstand und Verguetung zustande (§§ 611, 675 BGB); eindeutiger Hinweis auf fehlendes Mandat verhindert konkludente Einigung.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Honoraranspruch entsteht erst mit Mandatsertueilung; vor Mandatsannahme kein Verguetungsanspruch nach RVG.
-- OLG Hamm, Urt. v. 23.03.2021 - 28 U 115/20, NJW-RR 2021, 895 — Erstantwort ohne Mandat-Disclaimer kann bei spaeterem Streit als Zugestaendnis einer Beratungspflicht gewertet werden; klarer Hinweis ist Haftungsschutz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 611, 675 BGB — Anwaltsvertrag: kommt durch Angebot und Annahme zustande; konkludente Entstehung moeglich
@@ -26,10 +23,9 @@ Dieser Skill formuliert den rechtlich erforderlichen Hinweis, dass mit der Beant
 - § 13 BGB — Verbraucher: erhoehtere Informationspflichten und Widerrufsrecht (§§ 355 ff. BGB) bei Fernkommunikation
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch gegenueber potenziellem Mandanten, der noch kein Mandat erteilt hat
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 49b Rn. 80-100 (Kostenbelehrung: Zeitpunkt und Inhalt)
-- MüKoBGB/Schaefer §§ 611, 675 Rn. 1-30 (Anwaltsvertrag: Entstehung und Disclaimer)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtlicher Hintergrund
 
 ### Entstehung des Mandatsverhältnisses
@@ -47,7 +43,7 @@ Ohne Mandat:
 
 ### Haftungsrisiko ohne klaren Disclaimer
 
-Wenn die Erstantwort inhaltliche Rechtshinweise enthält (z. B. „Ihre Kündigung dürfte unwirksam sein"), kann dies unter Umständen eine konkludente Rechtsberatung darstellen, für die Haftpflichtansprüche entstehen können. Der Disclaimer schützt die Kanzlei.
+Wenn die Erstantwort inhaltliche Rechtshinweise enthält (z. B. "Ihre Kündigung dürfte unwirksam sein"), kann dies unter Umständen eine konkludente Rechtsberatung darstellen, für die Haftpflichtansprüche entstehen können. Der Disclaimer schützt die Kanzlei.
 
 ## Kurzform (für den Fließtext der Erstantwort)
 

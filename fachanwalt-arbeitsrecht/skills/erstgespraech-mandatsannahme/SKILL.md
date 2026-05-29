@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Individual- und kollektives Arbeitsrecht
@@ -89,7 +89,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
@@ -150,8 +149,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 9 AZR 217/20: ersatzlos entfernt (Aktenzeichen betrifft Beschaeftigungsanspruch/Direktionsrecht, nicht Beratungspflicht beim Aufhebungsvertrag; kein verifiziertes Ersatz-AZ auffindbar)
-- BGH IX ZR 145/15: ersetzt durch BGH IX ZR 125/10 vom 10.05.2012 (BGHZ 193, 193; NJW 2012, 2435) — anwaeltliche Beratungspflicht, vollstaendige Belehrungspflicht (Quelle: dejure.org)
 
 ## Cross-Refs
 
@@ -161,8 +158,7 @@ Aktenzeichen geprueft und korrigiert:
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 11.12.2019 — 7 AZR 620/17**, NZA 2020, 449 — Sorgfaltspflichten des Rechtsanwalts bei Fristversäumnis im Arbeitsrecht; Wiedereinsetzung nach § 233 ZPO nur bei fehlendem Verschulden; sofortige Fristenerfassung im Erstgespräch ist anwaltliche Pflicht.
-- **BGH, Urt. v. 10.05.2012 — IX ZR 125/10**, BGHZ 193, 193; NJW 2012, 2435 — Anwaltliche Pflicht zur vollständigen und erschöpfenden Belehrung des Auftraggebers; Anwalt muss Erfolgsaussichten konkret bewerten und darf sich nicht auf eine "offene" Einschätzung beschränken; Grundsatz des beratungsgerechten Verhaltens (Quelle: dejure.org).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Fristen Arbeitsrecht
 
@@ -172,11 +168,9 @@ Aktenzeichen geprueft und korrigiert:
 - **§ 61b ArbGG** — Klage auf AGG-Entschädigung: drei Monate ab schriftlicher Geltendmachung
 - **§ 102 Abs. 2 BetrVG** — Betriebsratsanhörung: eine Woche ordentlich, drei Tage außerordentlich
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Reinhard, 25. Aufl. 2025, ArbGG § 4 Rn. 1 ff. (Klagefrist, Zugang, Wahrung)
-- HWK/Thüsing, 11. Aufl. 2024, KSchG § 4 Rn. 1 ff. (Fristberechnung, Zugangsnachweis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Erstgespräch-Einstieg
 
 1. Liegt eine sofortige Klagefrist vor? (Kündigung → § 4 KSchG, Befristungsende → § 17 TzBfG)

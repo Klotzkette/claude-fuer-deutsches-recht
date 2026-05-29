@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-erechnung-gobd
-description: "Kanzlei braucht GoBD-konforme E-Rechnung fuer M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Pruefraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Output XRechnung-XML ZUGFeRD-Paket Buchungsnachweis. Abgrenzung zu billing-narratives (Texterstellung) und mittelstand-ma-tabellenreview (Datenpruefung)."
+description: "Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Prüfraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Output XRechnung-XML ZUGFeRD-Paket Buchungsnachweis. Abgrenzung zu billing-narratives (Texterstellung) und mittelstand-ma-tabellenreview (Datenprüfung)."
 ---
 
 # Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)
@@ -42,10 +42,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | IX ZR 189/13 | 18.09.2014 | Anwaltshonorar bei Pauschalvereinbarung: Pauschale muss im angemessenen Verhältnis zur Leistung stehen; Unangemessenheit führt zur Sittenwidrigkeit |
-| BGH | IV ZR 394/12 | 25.09.2013 | Vergütungsvereinbarung: muss klar und eindeutig die abzurechnenden Leistungen beschreiben; unklare Abgrenzung geht zu Lasten des Anwalts |
-| FG Münster | 5 K 3536/17 | 12.03.2019 | GoBD: digital erzeugte Rechnung muss unveränderlich archiviert werden; rückwirkende Korrektur ohne Storno ist GoBD-Verstoß |
-| BFH | V R 37/18 | 20.10.2021 | E-Rechnung und Vorsteuerabzug: Pflichtangaben nach § 14 UStG müssen vollständig sein; Heilung fehlender Angaben nur unter engen Voraussetzungen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema / Billing-Workflow
 
@@ -197,7 +194,7 @@ Der gesamte Betrag EUR [X] brutto wird gutgeschrieben.
 Anschließend wurde Korrekturrechnung Nr. [KORREKTUR-NR] vom [Datum] erteilt.
 
 GoBD-HINWEIS: Diese Stornorechnung ist unveränderlich zu archivieren. Die
-Ursprungsrechnung bleibt im Archiv erhalten und wird als „storniert" gekennzeichnet.
+Ursprungsrechnung bleibt im Archiv erhalten und wird als "storniert" gekennzeichnet.
 Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässig.
 ```
 
@@ -206,8 +203,7 @@ Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässi
 | Risiko / Schadensfall | Ansatz | Norm |
 |---|---|---|
 | GoBD-Verstoß: Rechnungsänderung ohne Storno | Bußgeld bei Betriebsprüfung; Verweigerung Vorsteuerabzug Mandant | GoBD; § 15 UStG |
-| Fehlende Pflichtangaben § 14 UStG | Vorsteuerabzug des Mandanten gefährdet | § 15 UStG; BFH V R 37/18 |
-| Überschreitung Cap ohne Kommunikation | Honorarforderung ggf. nicht durchsetzbar | §§ 280, 242 BGB; BGH IX ZR 189/13 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rückdatierung von Rechnungen | Steuerstrafrecht; § 370 AO | § 370 AO; GoBD |
 | Nicht valide XRechnung | Ablehnung durch Empfangssystem; Verzug | KoSIT-Validierungsregeln |
 
@@ -227,13 +223,9 @@ Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässi
 
 ## Quellen
 
-- BGH, Urt. v. 18.09.2014, Az. IX ZR 189/13 (Anwaltshonorar, Sittenwidrigkeit)
-- BGH, Urt. v. 25.09.2013, Az. IV ZR 394/12 (Vergütungsvereinbarung Unklarheit)
-- BFH, Urt. v. 20.10.2021, Az. V R 37/18 (E-Rechnung, Vorsteuerabzug)
-- FG Münster, Urt. v. 12.03.2019, Az. 5 K 3536/17 (GoBD, unveränderliche Archivierung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 14, § 14a, § 13b, § 15 UStG; §§ 145–147 AO; GoBD-Erlass BMF 28.11.2019; §§ 4, 49b BRAO; XRechnung CEN EN 16931; ZUGFeRD 2.3 (Factur-X)
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- BFH, Urt. v. 12.03.2020 - V R 20/19, BStBl. II 2020, 645 — E-Rechnung und Vorsteuerabzug: eine Rechnung ohne gesetzliche Pflichtangaben nach § 14 Abs. 4 UStG berechtigt nicht zum Vorsteuerabzug; rueckwirkende Rechnungskorrektur ist unter engen Voraussetzungen moeglich
-- BFH, Urt. v. 14.07.2020 - IV R 12/16, BStBl. II 2021, 99 — GoBD-Pflichten: digitale Buchungs- und Archivierungspflichten nach GoBD sind eigenstaendige Pflichten; Verstoss kann Schätzungsbefugnis des Finanzamts begruenden; ZUGFeRD-konforme Archivierung entlastet
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

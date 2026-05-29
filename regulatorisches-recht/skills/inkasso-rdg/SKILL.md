@@ -1,13 +1,13 @@
 ---
 name: inkasso-rdg
-description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG pruefen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Pruefraster: Erlaubnispflicht Nebenleistungsprivileg Inkassoerlaubnis Zulassung Aufsicht Kundenschutz. Output: RDG-Pruefmemo Erlaubnis-Empfehlung. Abgrenzung: nicht fuer anwaltliche Forderungseinziehung."
+description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Prüfraster: Erlaubnispflicht Nebenleistungsprivileg Inkassoerlaubnis Zulassung Aufsicht Kundenschutz. Output: RDG-Prüfmemo Erlaubnis-Empfehlung. Abgrenzung: nicht für anwaltliche Forderungseinziehung."
 ---
 
 # Inkassodienstleistungen (RDG)
 
 ## Zweck
 
-Dieser Skill begleitet die rechtskonforme Durchführung von Inkassodienstleistungen durch registrierte Inkassounternehmen (§ 10 Abs. 1 Nr. 1 RDG) und Rechtsanwälte (§ 43d BRAO). Er deckt Registrierungsvoraussetzungen, erlaubten Tätigkeitsumfang, Hinweispflichten gegenüber Schuldnern, Vergütungsfragen (§ 4 RDGEG) und die datenschutzkonforme Verarbeitung von Schuldnerdaten (Art. 6 Abs. 1 lit. f DSGVO) ab. Relevanz insb. für Legal-Tech-Geschäftsmodelle nach dem „LexFox"-Urteil des BGH. Anwendungsfälle: Mietpreisbremse-Durchsetzung durch Inkassounternehmen, Consumer-Inkasso-Modelle, Forderungsinkasso im B2C-Bereich, anwaltliches Inkasso.
+Dieser Skill begleitet die rechtskonforme Durchführung von Inkassodienstleistungen durch registrierte Inkassounternehmen (§ 10 Abs. 1 Nr. 1 RDG) und Rechtsanwälte (§ 43d BRAO). Er deckt Registrierungsvoraussetzungen, erlaubten Tätigkeitsumfang, Hinweispflichten gegenüber Schuldnern, Vergütungsfragen (§ 4 RDGEG) und die datenschutzkonforme Verarbeitung von Schuldnerdaten (Art. 6 Abs. 1 lit. f DSGVO) ab. Relevanz insb. für Legal-Tech-Geschäftsmodelle nach dem "LexFox"-Urteil des BGH. Anwendungsfälle: Mietpreisbremse-Durchsetzung durch Inkassounternehmen, Consumer-Inkasso-Modelle, Forderungsinkasso im B2C-Bereich, anwaltliches Inkasso.
 
 ## Eingaben
 
@@ -36,22 +36,19 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 27.11.2019 – VIII ZR 285/18, NJW 2020, 208 Rn. 30–75 – „LexFox": Registriertes Inkassounternehmen darf Mieter bei Durchsetzung von Ansprüchen aus der Mietpreisbremse vertreten (§ 556d BGB). Entgeltliches Consumer-Legal-Tech-Inkasso-Modell (Erfolgsprovision) verstößt nicht per se gegen RDG oder UWG. Maßgeblich: Tätigkeit muss auf die wirtschaftliche Durchsetzung einer Forderung gerichtet sein, nicht auf umfassende Rechtsberatung.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. BGH, Urt. v. 13.06.2022 – VIa ZR 418/21, NJW 2022, 2701 Rn. 18–40: Zur Reichweite des Inkassobegriffs und den Grenzen der erlaubten Inkassotätigkeit; registrierte Inkassounternehmen dürfen keine umfassende Rechtsberatung betreiben, die über die Forderungseinziehung hinausgeht; Abgrenzung zur unerlaubten Rechtsdienstleistung (§ 3 RDG); Zulässigkeit von Abtretungsmodellen bestätigt.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Krenzler, in: Krenzler, RDG, 3. Aufl. 2024, § 10 Rn. 20–80: Zu den Tatbestandsvoraussetzungen der Inkassodienstleistung; Abgrenzung zu anderen erlaubnisfreien oder erlaubnispflichtigen Tätigkeiten; Registrierungsverfahren; Zuverlässigkeits- und Sachkunde-Anforderungen; Verhältnis zu § 43d BRAO.
-
-2. Deckenbrock, in: Henssler/Prütting, BRAO, 6. Aufl. 2024, § 43d Rn. 10–50: Zu den besonderen Pflichten des Rechtsanwalts beim Betrieb von Inkassodienstleistungen; Trennungsgebot zwischen Inkasso- und sonstigem Anwaltsmandat; Transparenzpflichten; Vergütung nach RVG vs. RDGEG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Schritt 1 – Zulässigkeitsprüfung: Inkassodienstleistung i.S.d. RDG**
 - Liegt Einziehung fremder oder abgetretener Forderungen als eigenständiges Geschäft vor (§ 2 Abs. 2 Satz 1 RDG)?
 - Abgrenzung zu unerlaubter Rechtsberatung: Geht die Tätigkeit über Forderungseinziehung hinaus (umfassende Rechtsberatung)? → Unzulässig ohne Anwaltszulassung.
-- BGH NJW 2020, 208: Consumer-Inkasso-Modelle zulässig, wenn auf Forderungseinziehung beschränkt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 2 – Registrierung prüfen (§ 13 RDG)**
 - Registrierung beim zuständigen OLG (§ 13 Abs. 1 RDG) vorhanden?
@@ -71,7 +68,7 @@ Das Modell benötigt:
 **Schritt 4 – Vergütung (§ 4 RDGEG)**
 - Vergütung nach RVG-Grundsätzen analog (Inkassovergütungsverordnung außer Kraft, nunmehr § 4 RDGEG).
 - Verbraucher-Schuldner: Inkassokosten nur in Höhe der nach RVG erstattungsfähigen Kosten (§ 4 Abs. 5 RDGEG); keine Kostenwälzung oberhalb RVG-Niveau auf Schuldner.
-- Erfolgsprovision vom Gläubiger: Grundsätzlich zulässig (BGH NJW 2020, 208); Offenlegungspflicht gegenüber Schuldner hinsichtlich der vom Gläubiger geschuldeten Inkassokosten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 5 – Datenschutz (Art. 6 Abs. 1 lit. f DSGVO)**
 - Rechtsgrundlage für Verarbeitung von Schuldnerdaten: berechtigtes Interesse des Forderungsgläubigers/Inkassounternehmens (Art. 6 Abs. 1 lit. f DSGVO; ErwGr. 47).
@@ -92,7 +89,7 @@ Das Modell benötigt:
 
 **Gutachtenstil**:
 
-*Zulässigkeit*: L erbringt eine Inkassodienstleistung i.S.d. § 2 Abs. 2 Satz 1 RDG (Einziehung abgetretener Forderung). Das Abtretungs-Erfolgsprovisionsmodell ist nach BGH, Urt. v. 27.11.2019 – VIII ZR 285/18, NJW 2020, 208 Rn. 45, grundsätzlich zulässig, solange L sich auf die Forderungseinziehung beschränkt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Hinweispflicht (§ 13d RDG)*: Das Schreiben an V muss V auf sein Recht hinweisen, die Forderung zu bestreiten. Das Fehlen dieses Hinweises verletzt § 13d RDG und kann als irreführende Geschäftspraxis nach § 5 UWG abgemahnt werden.
 
@@ -100,7 +97,7 @@ Das Modell benötigt:
 
 ## Risiken und typische Fehler
 
-- **Unerlaubte Rechtsberatung**: Inkassounternehmen darf keine umfassende Rechtsberatung betreiben; BGH NJW 2022, 2701 setzt enge Grenzen; Überschreitung → Nichtigkeit nach § 134 BGB, Registerentzug.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Hinweispflichten (§ 13d RDG)**: Erstes Schreiben ohne vollständige Pflichtangaben ist abmahn- und bußgeldfähig; v.a. fehlender Widerspruchshinweis.
 - **Überhöhte Inkassokosten**: Verbraucher-Schuldnern dürfen über RVG-Niveau hinausgehende Kosten nicht auferlegt werden (§ 4 Abs. 5 RDGEG); Überschreitung → Rückforderungsanspruch.
 - **Datenschutzverletzung bei Auskunftei-Meldung**: SCHUFA-Meldung ohne vorherige Mahnung und ohne Verhältnismäßigkeit ist ein eigenständiger DSGVO-Verstoß.
@@ -109,4 +106,4 @@ Das Modell benötigt:
 
 ## Quellenpflicht
 
-Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BGH NJW 2020, 208; BGH NJW 2022, 2701) und zwei Kommentarbelege im Bearbeiter-Stil. Bei Legal-Tech-Modellen nach LexFox auf aktuellen Rechtsprechungsstand prüfen; neue Entscheidungen des BGH und der OLGs explizit einbeziehen und ggf. als ergänzende Rspr. kennzeichnen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

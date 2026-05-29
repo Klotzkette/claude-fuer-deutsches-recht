@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-behandlungsfehler-pruefen
-description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalitaet bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjaehrung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist."
+description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist."
 ---
 
 # Behandlungsfehler prüfen
@@ -31,13 +31,9 @@ description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Stan
 
 ### Schlüsselentscheidungen BGH
 
-- BGH, Urt. v. 07.07.1987 — VI ZR 99/86: Maßstab des erfahrenen Facharztes; Anfänger hat denselben Sorgfaltsstandard.
-- BGH, Urt. v. 14.11.1995 — VI ZR 158/94: grober Behandlungsfehler = Verstoß, der einem Arzt schlechterdings nicht unterlaufen darf ("Unverständlichkeitstest").
-- BGH, Urt. v. 13.02.2001 — VI ZR 272/99: Befunderhebungsfehler mit hinreichend wahrscheinlichem reaktionspflichtigem Befund.
-- BGH, Urt. v. 20.09.2011 — VI ZR 55/09: Sekundärschäden bei grobem Fehler von Beweislastumkehr umfasst.
-- BGH, Urt. v. 14.09.1999 — VI ZR 8/98: Dokumentationspflicht und Beweislastumkehr § 630h Abs. 3 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Standardliteratur: Geiß/Greiner Arzthaftpflichtrecht; Martis/Winkhart Arzthaftungsrecht; Bergmann/Pauge/Steinmeyer Gesamtes Medizinrecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast — Übersicht
 
@@ -171,7 +167,7 @@ Anlagen: Behandlungsdokumentation, aerztl. Atteste, Vollmacht
 
 ## Streitwert und Kosten
 
-- Schmerzensgeld: Hacks/Wellner/Häcker-Tabellen; dauerhafte Invalidität 50.000–300.000 EUR.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Haushaltsführungsschaden: 8–14 EUR/h × ausgefallene Stunden; Kapitalisierung bei dauerhaft.
 - Verdienstausfall Selbstständige: Betriebsgewinn × ausgefallene Zeit; Nachweis durch EStV.
 - LG-Kosten bei 80.000 EUR Streitwert: ca. 3.000 EUR Gerichtskosten erste Instanz.
@@ -200,7 +196,5 @@ Anlagen: Behandlungsdokumentation, aerztl. Atteste, Vollmacht
 - BGB §§ 195, 199, 253, 280, 630a–630h, 823, 843, 844
 - ZPO §§ 286, 287
 - SGB X § 116; SGB V § 66
-- BGH VI ZR 99/86; VI ZR 158/94; VI ZR 272/99; VI ZR 8/98; VI ZR 55/09
-- Geiß/Greiner Arzthaftpflichtrecht, 8. Aufl.
-- Martis/Winkhart Arzthaftungsrecht
-- Bergmann/Pauge/Steinmeyer Gesamtes Medizinrecht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.

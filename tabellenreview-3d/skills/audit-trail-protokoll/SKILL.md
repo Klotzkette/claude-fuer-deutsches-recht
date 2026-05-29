@@ -1,6 +1,6 @@
 ---
 name: audit-trail-protokoll
-description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprueft und geaendert. Normen: §§ 238 257 HGB Buchfuehrungspflichten. Pruefraster: Zeitstempel, Pruefer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Pruefung (Zweck: Nachvollziehbarkeit)."
+description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Prüfung (Zweck: Nachvollziehbarkeit)."
 ---
 
 # /tabellenreview-3d:audit-trail-protokoll
@@ -14,10 +14,7 @@ description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was
 
 ## Rechtliche Grundlagen zur Dokumentationspflicht
 
-- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Anwaelte sind nach § 50 BRAO verpflichtet, die Mandatsakte vollstaendig zu fuehren; fehlende Dokumentation des Beratungsvorgangs begruendet Haftungsrisiko wenn der Mandant behauptet, keine Beratung erhalten zu haben.
-- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Die Aktenaufbewahrungspflicht des Anwalts (§ 50 Abs. 1 BRAO) betraegt grundsaetzlich 5 Jahre nach Mandatsende; bei Haftungsfragen koennen laengere Fristen geboten sein.
-- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Dokumentation muss so beschaffen sein, dass der Buerger seine Rechtslage nachvollziehen kann; unvollstaendige oder unverstaendliche Protokolle verletzen das Gebot der Nachvollziehbarkeit.
-- BGH, Urt. v. 23.05.2019 - IX ZR 143/18, NJW 2019, 2296 — Im Due-Diligence-Kontext haftet die Prueferkanzlei fuer fehlerhafte oder lueckenhafte Berichte; ein lueckenloses Audit-Trail sichert den Nachweis der ordnungsgemaessen Durchfuehrung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 

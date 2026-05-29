@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-testamentsvollstreckung
-description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Pruefraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht fuer allgemeine Nachlassabwicklung."
+description: "Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung."
 ---
 
 # Testamentsvollstreckung
@@ -42,12 +42,7 @@ description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstrec
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | IVa ZR 261/84 | 26.03.1986 | Hamburger Tabelle — Grundsatzentscheidung zur angemessenen TV-Vergütung; Prozentsatz nach Nachlassgröße |
-| BGH | IV ZR 137/14 | 08.10.2014 | Pflichtverletzung TV — eigenmächtige Entnahmen führen zur Haftung § 2219 BGB; kein Ermessen bei Interessenkonflikt |
-| BGH | IV ZB 14/17 | 21.06.2017 | Entlassung TV § 2227 BGB — grobe Pflichtverletzung; Interessenkonflikt als wichtiger Grund ausreichend |
-| BGH | IV ZR 30/16 | 29.03.2017 | Dauervollstreckung § 2210 BGB — Erblasser kann TV-Dauer im Testament auf 30 Jahre bestimmen |
-| OLG Düsseldorf | 3 Wx 103/18 | 14.01.2019 | Rechnungslegungspflicht § 2218 BGB — jährlich auch ohne Verlangen; Abschluss-Rechnungslegung zwingend |
-| OLG München | 31 Wx 209/14 | 21.07.2015 | TV-Vergütung Unternehmensnachlass — erhöhter Prozentsatz bei Unternehmensführung; 1 % bis 3 % Jahresvergütung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — TV-Amtsführung
 
@@ -101,7 +96,7 @@ description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstrec
 **Besonderheit TV-Verwaltung bei Unternehmen:**
 - Handelsregistereintragung wenn Unternehmen weitergeführt
 - Persönliche Haftung TV ausschließbar durch Hinweis-Publizität
-- Erhöhte Vergütung 1–3 % p.a. des verwalteten Unternehmenswerts (OLG München 31 Wx 209/14)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Dauer-TV § 2210 BGB
 
@@ -117,7 +112,7 @@ description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstrec
 
 ## Vergütung des TV § 2221 BGB
 
-### Hamburger Tabelle (BGH IVa ZR 261/84)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Nachlasswert | Vergütungssatz | Mindesthonorar |
 |-------------|---------------|----------------|
@@ -186,7 +181,7 @@ TV haftet für schuldhafte Pflichtverletzung nach §§ 276, 278 BGB (Verschulden
 
 | Wichtiger Grund | Beispiele |
 |----------------|---------|
-| Grobe Pflichtverletzung | Entnahmen, fehlende Rechnungslegung, Interessenkonflikt (BGH IV ZB 14/17) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Unfähigkeit | Krankheit, Inkompetenz, Überforderung |
 | Vermögensverfall | Insolvenz des TV; Sicherungsbedarf |
 | Dauerhafter Streit | Destruktiver Konflikt mit allen Erben der Amtsführung entgegenstehend |
@@ -324,11 +319,11 @@ Anlagen: Beweise für Pflichtverletzungen
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „TV-Vergütung nach Hamburger Tabelle zu hoch" | Nachlassgericht-Festsetzung § 2221 BGB; besondere Schwierigkeiten und Umfang der Tätigkeit beachten |
-| „TV-Annahme zu spät" | BGH: Aufgabe des Amts = Nichtannahme wenn unverhältnismäßig lange Untätigkeit; Nachlassgericht ernennt Ersatz § 2200 BGB |
-| „Kein wichtiger Grund für Entlassung" | BGH IV ZB 14/17: Interessenkonflikt reicht; keine Notwendigkeit strafrechtlicher Verurteilung |
-| „Rechnungslegung erfolgte mündlich" | § 2218 BGB verlangt nachvollziehbare Rechnungslegung; mündlich regelmäßig nicht ausreichend |
-| „Erben haben Entlastung erteilt" | Formlose Entlastung schließt Haftung für unbekannte Pflichtverletzungen nicht aus |
+| "TV-Vergütung nach Hamburger Tabelle zu hoch" | Nachlassgericht-Festsetzung § 2221 BGB; besondere Schwierigkeiten und Umfang der Tätigkeit beachten |
+| "TV-Annahme zu spät" | BGH: Aufgabe des Amts = Nichtannahme wenn unverhältnismäßig lange Untätigkeit; Nachlassgericht ernennt Ersatz § 2200 BGB |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Rechnungslegung erfolgte mündlich" | § 2218 BGB verlangt nachvollziehbare Rechnungslegung; mündlich regelmäßig nicht ausreichend |
+| "Erben haben Entlastung erteilt" | Formlose Entlastung schließt Haftung für unbekannte Pflichtverletzungen nicht aus |
 
 ## Streitwert und Kosten
 
@@ -363,8 +358,5 @@ Anlagen: Beweise für Pflichtverletzungen
 - BGB §§ 2197–2228, 2215–2219, 2221, 2227, 2368
 - ErbStG § 31
 - GNotKG
-- BGH IVa ZR 261/84 (26.03.1986) — Hamburger Tabelle
-- BGH IV ZR 137/14 (08.10.2014) — Pflichtverletzung
-- BGH IV ZB 14/17 (21.06.2017) — Entlassung
-- OLG München 31 Wx 209/14 (21.07.2015) — Unternehmensnachlass
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stand: 05/2026

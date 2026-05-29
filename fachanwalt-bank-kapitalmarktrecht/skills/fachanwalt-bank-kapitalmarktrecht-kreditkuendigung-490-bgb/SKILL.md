@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb
-description: "Bank kuendigt Kredit nach § 490 BGB wegen wesentlicher Vermoegensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Pruefraster Kuendigungs-Voraussetzungen Ankuendigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkuendigung (allg. Kuendigung) und widerrufsjoker (Widerruf)."
+description: "Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (allg. Kündigung) und widerrufsjoker (Widerruf)."
 ---
 
 # Kreditkündigung § 490 BGB
@@ -14,7 +14,7 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 1. **Welche Art von Kredit — Konsument, Immobiliendarlehen, Geschäftskredit, KfW?** — Bestimmt anwendbare Sondervorschriften (§ 498 BGB bei Konsumentenkredit).
 2. **Was ist der angegebene Kündigungsgrund?** — Wesentliche Vermögensverschlechterung (§ 490 BGB), Verzug (§ 498 BGB), Vertragsverstoß, AGB-Banken Nr. 19?
 3. **Wurde die Kündigung schriftlich erklärt?** — Form­erfordernis; mündliche Kündigung bei Verbraucher-Immobiliendarlehen unzureichend.
-4. **Hat die Bank eine Vorwarnung ausgesprochen?** — BGH-Linie (Hausbank-Prinzip): bei langjähriger Kundenbeziehung Pflicht zur Vorwarnung (BGH XI ZR 178/10).
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Wie hoch ist der Restschuldbetrag?** — Streitwert + Vollstreckungsgefahr; sofortige Vollstreckung aus Grundschuldurkunde möglich?
 6. **Wurden 2 Raten nicht bezahlt (Konsumentenkredit)?** — § 498 BGB: 10 %-Schwelle + 2-Wochen-Mahnung = Pflicht-Voraussetzungen.
 7. **Welche Sicherheiten bestehen?** — Grundschuld, Bürgschaft, Kfz-Sicherungsübereignung; Verwertungsreihenfolge?
@@ -51,11 +51,7 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | XI ZR 178/10 | 26.05.2020 | Hausbank-Prinzip: Vorwarnung bei langjähriger Kundenbeziehung nötig |
-| BGH | XI ZR 348/13 | 28.10.2014 | Wesentliche Verschlechterung: konkrete Tatsachen nötig; pauschale Einschätzung genügt nicht |
-| BGH | XI ZR 81/14 | 21.03.2017 | Verbraucherdarlehen: § 498 BGB-Voraussetzungen strikt; kein Satz-außer-Kraft durch AGB |
-| OLG Frankfurt | 17 U 183/17 | 28.11.2018 | AGB-Banken Nr. 19: Inhaltskontrolle § 307 BGB; nicht unangemessen benachteiligend |
-| BGH | XI ZR 252/15 | 19.01.2016 | Sicherheitenverwertung erst nach Fälligkeit und Mahnung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Kreditkündigung
 
@@ -63,7 +59,7 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 |---|---|---|---|
 | 1 | Schriftliche Kündigung mit Begründung? | Praxis-Pflicht | Kündigung angreifbar |
 | 2 | Wesentliche Verschlechterung konkret? | § 490 Abs. 1 BGB | Kündigung unwirksam |
-| 3 | Vorwarnung bei Hausbank-Beziehung? | BGH XI ZR 178/10 | Kündigung unwirksam |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Bei Konsument: 2 Raten + 10 % + Mahnung? | § 498 BGB | Kündigung unwirksam |
 | 5 | Stellungnahme-Frist gewährt? | Verhältnismäßigkeit | Kündigung ggf. unwirksam |
 | 6 | Sicherheiten-Verwertung: Fälligkeit + Mahnung? | § 252 BGB-Praxis | Vorzeitige Vollstreckung angreifbar |
@@ -75,7 +71,7 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 
 1. Bank stützt Kündigung auf negative BWA und fehlende Liquiditätsprognose
 2. Mandant hat keine Vorwarnung erhalten
-3. Reaktion: Widerspruch (fehlende Vorwarnung nach BGH XI ZR 178/10), Liquiditätsplan vorlegen, Stundungsvereinbarung beantragen
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Szenario B — Privatperson, Konsumentenkredit, 3 Raten in Verzug
 
@@ -111,7 +107,7 @@ Begründung:
 
 1. Fehlende Vorwarnung: Bei einer Kreditbeziehung von
    [x] Jahren war eine Vorwarnung vor Kündigung
-   erforderlich (BGH, 26.05.2020 — XI ZR 178/10).
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Eine solche ist nicht erfolgt.
 
 2. Keine wesentliche Vermögensverschlechterung: Die
@@ -150,7 +146,7 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 
 ## Beweislast und Darlegungslast
 
-- **Bank**: trägt Darlegungslast für wesentliche Vermögensverschlechterung; konkrete Tatsachen, nicht bloße Einschätzung (BGH XI ZR 348/13).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bank**: muss bei § 498 BGB belegen, dass Verzugsschwelle + Mahnung + Frist eingehalten wurden.
 - **Kreditnehmer**: kann Gegenbeweis durch Liquiditätsplan, aktuelle BWA, Sachverständigengutachten erbringen.
 - **SCHUFA-Meldung**: Bank muss Berechtigung nach § 31 BDSG belegen; ggf. Anspruch auf Löschung.
@@ -159,7 +155,7 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
-| Widerspruch gegen Kündigung | 2–4 Wochen (keine gesetzl. Frist, aber taktisch) | BGH XI ZR 178/10 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 498 BGB-Mahnung Reaktionsfrist | 2 Wochen nach Mahnung | § 498 Abs. 1 Nr. 2 BGB |
 | Klage gegen Kündigung | Vor Zwangsversteigerungs-Zuschlag | ZVG §§ 83, 100 |
 | Vollstreckungsgegenklage | Vor Beendigung der Vollstreckung | § 767 ZPO |
@@ -185,6 +181,5 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 - ZVG §§ 30b, 83, 100
 - ZPO §§ 767, 935, 940
 - BDSG § 31; DSGVO Art. 4
-- BGH XI ZR 178/10 (26.05.2020); BGH XI ZR 348/13 (28.10.2014)
-- BGH XI ZR 81/14 (21.03.2017); OLG Frankfurt 17 U 183/17 (28.11.2018)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Nobbe Kommentar Kreditrecht; Schimansky/Bunte/Lwowski Bankrechts-Handbuch

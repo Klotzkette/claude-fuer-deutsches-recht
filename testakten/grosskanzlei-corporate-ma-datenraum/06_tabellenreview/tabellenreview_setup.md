@@ -109,8 +109,8 @@ Gesamt: ca. **24 Verträge** im ersten Review-Durchgang.
 
 ## 5. Hinweise zur Interpretation
 
-- **Change-of-Control „bedingt":** Bedeutet, dass die Klausel nur bei Überschreiten eines Schwellenwerts (> 25 % oder > 50 %) greift. Formulierung im Vertrag ist entscheidend.
-- **Liability Cap „uncapped":** Bedeutet, dass keine vertragliche Haftungsbegrenzung vereinbart wurde. Dies ist aus Käufersicht besonders risikoreich, da der Verkäufer im SPA-Garantieregime diese Risiken vollständig übernehmen muss.
+- **Change-of-Control "bedingt":** Bedeutet, dass die Klausel nur bei Überschreiten eines Schwellenwerts (> 25 % oder > 50 %) greift. Formulierung im Vertrag ist entscheidend.
+- **Liability Cap "uncapped":** Bedeutet, dass keine vertragliche Haftungsbegrenzung vereinbart wurde. Dies ist aus Käufersicht besonders risikoreich, da der Verkäufer im SPA-Garantieregime diese Risiken vollständig übernehmen muss.
 - **Assignment:** Vertragsübertragungs- und Abtretungsklauseln sind bei Share Deals theoretisch nicht direkt ausgelöst (die Gesellschaft bleibt Vertragspartner); trotzdem können Zustimmungsklauseln formuliert sein, die auf den Anteilserwerb abstellen.
 
 ---

@@ -1,6 +1,6 @@
 ---
 name: betreuer-als-erbe
-description: "Beraet zur Frage, ob ein Berufsbetreuer testamentarisch bedacht werden darf und welche Folgen sich aus Paragraph 30 BtOG ergeben. Verweist auf Leitentscheidung OLG Nuernberg Beschluss 19.07.2023 Az. 15 Wx 988/23 (NJW-RR 2023 S. 1307; MDR 2023 S. 1460; BeckRS 2023 Nr. 25863): Verstoss gegen Paragraph 30 BtOG fuehrt nicht zur Nichtigkeit nach Paragraph 134 BGB; Testierfreiheit bleibt gewahrt; nur Sittenwidrigkeit nach Paragraph 138 BGB bei Ausnutzung der Vertrauensstellung. Klaert Herausgabepflichten nach dem Erbfall (Paragraph 1872 BGB, Konfusion), berufsrechtliche Folgen Paragraph 27 BtOG und Ausschlagungsfrist Paragraph 1944 BGB. Verwenden bei Fragen wie 'Darf ich als Berufsbetreuer erben', 'Testament zugunsten Betreuer', 'Schenkung Betreuer Erblasser', 'Paragraph 30 BtOG', 'Erbschein Betreuer'."
+description: "Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Betreuer als Erbe und Beschenkter
@@ -12,15 +12,11 @@ Immer dann, wenn die Frage steht, ob ein **Berufsbetreuer** im Sinne des § 19 A
 Der Skill greift nicht, wenn der Bedachte **ehrenamtlicher** Betreuer im Sinne der §§ 21, 22 BtOG ist — für diese gilt § 30 BtOG nicht. Hierzu siehe Skill `betreuer-registrierung` zur Abgrenzung.
 
 ## Aktuelle Rechtsprechung
-- OLG Nürnberg, Beschl. v. 19.07.2023 - 15 Wx 988/23, NJW-RR 2023, 1307 Rn. 14 — Verstoß gegen § 30 Abs. 1 BtOG durch Annahme einer Erbschaft führt nicht zur Nichtigkeit nach § 134 BGB; das Testament und der Vermögensübergang nach § 1922 BGB bleiben wirksam; Testierfreiheit des Erblassers hat Vorrang.
-- BGH, Beschl. v. 26.10.2011 - IV ZB 33/10, BGHZ 191, 224 Rn. 22 — Testament zugunsten Heimleiter nach § 14 HeimG a.F. nichtig nach § 134 BGB; BtOG-Regelung § 30 enthielt bewusst kein entsprechendes Verbotsgesetz und unterscheidet sich damit wesentlich von der Heimbewohnerschutznorm.
-- OLG Nürnberg, Urt. v. 07.01.2021 - 6 U 22/20, NJW-RR 2021, 890 Rn. 18 — Sittenwidrigkeit einer letztwilligen Verfügung nach § 138 BGB bei gezielter Ausnutzung der Vertrauensstellung; Betreuer, der Testamentserrichtung initiiert und Erblasser von Familie isoliert, handelt sittenwidrig.
-- OLG Hamm, Urt. v. 02.03.2017 - 10 U 9/16, FamRZ 2017, 1420 Rn. 14 — Auskunfts- und Rechnungslegungspflicht des Betreuer-Miterben gegenüber Miterben nach §§ 1872, 666 BGB; Konfusion beseitigt nur den Herausgabeanspruch gegenüber sich selbst, nicht die Pflicht zur Rechenschaft.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Jurgeleit BtOG § 30 (Zuwendungsverbot) und § 27 (Registrierungswiderruf)
-- Staudinger/Gülzow BGB § 1922 Rn. 18 ff. (Gesamtrechtsnachfolge und Betreuervermächtnis)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflichtbestandteile der Antwort
 
 Eine vollständige Antwort enthält mindestens:
@@ -46,8 +42,8 @@ Sanktion: Widerruf der Registrierung als beruflicher Betreuer nach § 27 BtOG we
 
 ## II. Leitentscheidung OLG Nürnberg
 
-**OLG Nürnberg, Beschluss vom 19.07.2023 — Az. 15 Wx 988/23**
-Fundstellen: NJW-RR 2023, S. 1307; MDR 2023, S. 1460; BeckRS 2023 Nr. 25863.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ### Drei amtliche Leitsätze
 
@@ -63,7 +59,7 @@ Ein Berufsbetreuer war von dem Betreuten in einem nur teilweise eigenhändigen T
 
 - § 30 BtOG richtet sich **einseitig** an den Berufsbetreuer und ist Berufsrecht, kein Verbotsgesetz mit zivilrechtlicher Nichtigkeitsfolge.
 - Die Testierfreiheit (Art. 14 Abs. 1 GG i.V.m. § 1937 BGB) würde durch eine Nichtigkeitsfolge unverhältnismäßig eingeschraenkt.
-- Der Gesetzgeber hat bewusst **keine** mit § 14 HeimG a.F. bzw. § 7 WBVG vergleichbare Verbotsnorm geschaffen — für diese Vorschriften hatte der BGH (Beschluss vom 26.10.2011, IV ZB 33/10, BGHZ Bd. 191 S. 224) die Nichtigkeit des Testaments angenommen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## III. Trennung erbrechtliche Wirksamkeit / berufsrechtliche Sanktion
 
@@ -77,7 +73,7 @@ Ein Berufsbetreuer war von dem Betreuten in einem nur teilweise eigenhändigen T
 
 ## IV. Sittenwidrigkeit nach § 138 Abs. 1 BGB
 
-Im Einzelfall kann das Testament dennoch nichtig sein, wenn der Betreuer seine **gerichtlich verliehene Vertrauensstellung** und seinen Einfluss auf einen älteren, kranken und alleinstehenden Erblasser gezielt ausnutzt, um auf den Testierwillen einzuwirken. Maßgeblich ist die **vorhergehende Linie** des OLG Nürnberg: Urteil vom 07.01.2021, Az. 6 U 22/20.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die blosse gesetzgeberische Wertung des § 30 BtOG führt aber **nicht automatisch** zur Sittenwidrigkeit — sonst würde die bewusste Entscheidung des Gesetzgebers gegen eine Verbotsnorm im Sinne des § 134 BGB unterlaufen.
 
@@ -110,7 +106,7 @@ Die Schlussrechnungslegung gegenüber dem **Betreuungsgericht** (§ 1872 Abs. 4 
 
 ### 3. Sonderkonstellation: Betreuer als Miterbe
 
-Ist der Betreuer **Miterbe** in einer Erbengemeinschaft (§ 2032 BGB) und verwaltet faktisch weiter Vermögen, so ist er nach OLG Hamm, Urteil vom 02.03.2017, Az. 10 U 9/16, **gegenüber den Miterben** aus §§ 1872, 1865 BGB sowie aus GoA / § 666 BGB zur Auskunft und Rechnungslegung verpflichtet — bezogen auf die Abwicklung der Erbengemeinschaft, nicht auf den Erbteil selbst.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 4. Übersicht mögliche Ansprueche Dritter
 
@@ -154,9 +150,9 @@ Die Faustformel "Berufsbetreuer darf nicht erben" ist daher zu pauschal und in d
 
 ## IX. Zitierhinweise im Antworttext
 
-- OLG Nürnberg Beschluss vom 19.07.2023 Az. 15 Wx 988/23, NJW-RR 2023 S. 1307; MDR 2023 S. 1460; BeckRS 2023 Nr. 25863.
-- OLG Nürnberg Urteil vom 07.01.2021 Az. 6 U 22/20 (Sittenwidrigkeit bei Ausnutzung der Vertrauensstellung).
-- BGH Beschluss vom 26.10.2011 Az. IV ZB 33/10, BGHZ Bd. 191 S. 224 (zu § 14 HeimG a.F.).
-- OLG Hamm Urteil vom 02.03.2017 Az. 10 U 9/16 (Betreuer-Miterbe, Auskunfts- und Rechnungslegungspflicht).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Pinpoint-Zitierung mit Randnummer und juengere Entscheidungen zuerst.

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-transaktionsstruktur
-description: "Transaktionsstruktur fuer M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur fuer seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Pruefraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht fuer spezifische UmwG-Faelle und zu SPA/APA-Entwurf."
+description: "Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Prüfraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht für spezifische UmwG-Faelle und zu SPA/APA-Entwurf."
 ---
 
 # Transaktionsstrukturierung
@@ -31,17 +31,11 @@ Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Ventu
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 26.09.2016 - II ZR 140/15, NJW 2017, 568 — Share Deal GmbH: Bei Abtretungsvertrag ohne notarielle Beurkundung ist die Uebertragung nach § 15 Abs. 3 GmbHG nichtig; Heilung durch spaetere Beurkundung gemaess § 15 Abs. 4 GmbHG moeglich
-- BGH, Urt. v. 16.12.2020 - VIII ZR 304/19, NJW 2021, 1016 — Change-of-Control-Klausel: Kontrolle liegt auch bei mittelbarem Anteilserwerb ueber Holdingstruktur vor, wenn wirtschaftlicher Durchgriff auf Zielgesellschaft stattfindet
-- BFH, Urt. v. 22.09.2021 - I R 40/17, BStBl. II 2022, 348 — Einbringung nach § 20 UmwStG: Buchwertansatz setzt voraus, dass das eingebrachte Betriebsvermogen als Teilbetrieb qualifiziert; blosse Vermoegensuebertragung genuegt nicht
-- BGH, Urt. v. 04.12.2012 - II ZR 199/11, NZG 2013, 105 — Betriebsuebergang nach § 613a BGB: Informationspflicht des Erwerbers und Veraeusserers; Widerspruchsrecht des Arbeitnehmers; Nichtinformation fuehrt zu Schadensersatzanspruchen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Lutter, UmwG-Kommentar, §§ 2-38 (Verschmelzung), §§ 123-137 (Spaltung), 7. Auflage
-- MueKo GmbHG/Reichert, § 15 Rn. 150-250 (Anteilsuebertragung, Share Deal)
-- Schnitger/Fehrenbacher, UmwStG, §§ 20-24 (Einbringung) Rn. 1-100
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich fuer Strukturentscheidung

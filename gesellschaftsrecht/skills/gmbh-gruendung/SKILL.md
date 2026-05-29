@@ -35,7 +35,7 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 1. **Gesellschafterkreis** – Namen, Adressen, Nationalität, Geschäftsfähigkeit;
    bei Minderjährigen: familiengerichtliche Genehmigung.
 2. **Firma** – Unterscheidungskraft (§ 18 HGB), Irreführungsverbot (§ 18 Abs. 2
-   HGB), Namenszusatz „GmbH" (§ 4 GmbHG) oder „UG (haftungsbeschränkt)" (§ 5a
+   HGB), Namenszusatz "GmbH" (§ 4 GmbHG) oder "UG (haftungsbeschränkt)" (§ 5a
    Abs. 1 GmbHG).
 3. **Stammkapital** – Mindestens 25.000 € bei GmbH (§ 5 Abs. 1 GmbHG); bei UG
    mindestens 1 € (§ 5a Abs. 1 GmbHG).
@@ -68,28 +68,20 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 27.09.1999 – II ZR 371/98, BGHZ 142, 315 Rn. 14 –
-   „ARGE Weißes Ross": Grundsätze zur Haftung in der Vorgesellschaft;
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   "ARGE Weißes Ross": Grundsätze zur Haftung in der Vorgesellschaft;
    Handeln im Namen der noch nicht eingetragenen GmbH begründet persönliche
    Haftung der Handelnden nach § 11 Abs. 2 GmbHG, es sei denn, die Gesellschaft
    wird eingetragen und die Verbindlichkeit übernommen.
 
-2. BGH, Urt. v. 09.12.2002 – II ZR 12/02, BGHZ 153, 158 Rn. 10 –
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Zur Verlustdeckungspflicht der Gründergesellschafter in der Vor-GmbH:
    Das Prinzip der realen Kapitalaufbringung gebietet, dass bei Eintragung
    das Gesellschaftsvermögen mindestens dem angemeldeten Stammkapital entspricht.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Altmeppen, in: Altmeppen, GmbHG, 11. Aufl. 2023, § 2 Rn. 3 ff. – Notarielles
-   Beurkundungserfordernis ist konstitutiv; Formmangel führt zur Nichtigkeit
-   (§ 125 BGB), geheilt erst durch Eintragung (§ 2 Abs. 2 GmbHG analog).
-
-2. Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 5 Rn. 9 – Zum
-   Mindestkapital: Die 25.000-€-Grenze ist nominal; Wertminderungen zwischen
-   Einzahlung und Eintragung gehen nach dem Grundsatz realer Kapitalaufbringung
-   zu Lasten der Gesellschafter (Vorbelastungshaftung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 
@@ -240,20 +232,20 @@ Anmeldung muss A mindestens 15.000 € (60 % von 25.000 €) und B mindestens
 Geschäftskonto der Gesellschaft eingezahlt sind – § 7 Abs. 2 Satz 1 GmbHG
 verlangt Einzahlung von mindestens der Hälfte, hier also 12.500 €; es empfiehlt
 sich jedoch die volle Einzahlung zur Vermeidung der Vorbelastungshaftung
-(BGH, Urt. v. 09.12.2002 – II ZR 12/02, BGHZ 153, 158 Rn. 10). A hat die
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Versicherung nach § 8 Abs. 3 GmbHG gegenüber dem Registergericht abzugeben.
 Die Transparenzregistereintragung ist innerhalb von 2 Wochen vorzunehmen
 (§ 20 Abs. 1 GwG).
 
-*(Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 5 Rn. 9; Altmeppen,
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 in: Altmeppen, GmbHG, 11. Aufl. 2023, § 2 Rn. 3.)*
 
 ## Risiken und typische Fehler
 
 - **Vorgesellschaftshaftung** – Handeln vor Eintragung begründet persönliche
   Haftung der Handelnden (§ 11 Abs. 2 GmbHG); Haftungsübernahme durch die
-  eingetragene GmbH ist möglich, aber nicht automatisch (BGH, Urt. v.
-  27.09.1999 – II ZR 371/98, BGHZ 142, 315 Rn. 14).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorbelastungshaftung** – Minderung des Gesellschaftsvermögens zwischen
   Gründung und Eintragung geht zu Lasten der Gesellschafter.
 - **Sacheinlagen unterschätzt** – Fehlender Sachgründungsbericht (§ 5 Abs. 4

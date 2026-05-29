@@ -39,19 +39,15 @@ Beispiel "Lesefassung_HGB_Paragraf_33.md" - das ist der Paragraf, wie er nach In
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 22.10.2014 — 2 BvE 3/11, BVerfGE 137, 185 Rn. 75 — Synopse im Gesetzgebungsverfahren ist kein verfassungsrechtliches Gebot, unterstuetzt aber parlamentarische Kontrolle; Abgeordnete haben Anspruch auf lesbare und verstaendliche Gesetzesfassung
-- BVerwG, Urt. v. 19.12.2019 — 8 C 11.18, NVwZ 2020, 640 — fehlende Synopse fuehrt nicht zur Nichtigkeit des Gesetzes, kann aber Auslegungs-Zweifelsfragen aufwerfen; bei Gesetzen mit zahlreichen Aenderungen empfiehlt BVerwG Lesefassung oder Synopse
-- OVG Hamburg, Urt. v. 19.04.2021 — 4 Bf 183/19, NVwZ-RR 2021, 711 — Synopse als Nachweis-Instrument im Verwaltungsstreit; bei Streit ueber Aenderungszeitpunkt ist Synopse wichtiges Beweismittel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 42-48 GGO (Synopse als Bestandteil der Begr.) — §§ 1-4 HdR (Rechtsfoermlichkeit, Vergleichs-Darstellungen) — Art. 76 Abs. 2 GG (Einbringungs-Unterlagen inkl. erlaeuternder Materialien)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 11 Rn. 1 ff. (Synopse-Erstellung, Vergleichs-Darstellung)
-- Maunz/Dürig, GG, Art. 76 Rn. 20 ff. (Gesetzgebungsverfahren, Begleit-Dokumente)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 `lesefassung-konsolidiert`.

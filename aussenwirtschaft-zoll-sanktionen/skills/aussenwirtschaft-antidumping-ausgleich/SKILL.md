@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-ausgleich
-description: "Antidumping Antisubvention und Ausgleichsmassnahmen im EU-Aussenhandelsrecht. Anwendungsfall Import- oder Exporteur ist von Antidumping-Massnahmen betroffen oder will Erstattungsantrag stellen. Normen EU-Antidumpingverordnung 2016/1036 Antisubventionsverordnung 2016/1037 UZK Art. 117 ff. Rueckzahlung. Pruefraster Antidumping Antisubvention Umgehung Zusatzzoll Erstattungsantrag Befreiung Kommissionsverfahren Abgabenbescheid. Output Antidumping-Pruefbericht mit Abgabenberechnung Erstattungsantrag und Widerspruchsstrategie. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
+description: "Antidumping Antisubvention und Ausgleichsmassnahmen im EU-Aussenhandelsrecht. Anwendungsfall Import- oder Exporteur ist von Antidumping-Massnahmen betroffen oder will Erstattungsantrag stellen. Normen EU-Antidumpingverordnung 2016/1036 Antisubventionsverordnung 2016/1037 UZK Art. 117 ff. Rückzahlung. Prüfraster Antidumping Antisubvention Umgehung Zusatzzoll Erstattungsantrag Befreiung Kommissionsverfahren Abgabenbescheid. Output Antidumping-Prüfbericht mit Abgabenberechnung Erstattungsantrag und Widerspruchsstrategie. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Antidumping- und Ausgleichszölle
@@ -62,10 +62,9 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 28.04.2022 - C-237/20 (Jindal Saw/Kommission) — Antidumping-Zollsatz-Differenzierung zwischen verbundenen und unverbundenen Exporteuren; Kommission muss repraesentativen Vergleichsmassstab begruenden.
-- EuG, Urt. v. 12.10.2011 - T-192/08 (Transnational Company/Rat) — Zur Bestimmung des normalen Werts bei Marktwirtschaftsstatus; Kommission hat Beurteilungsspielraum, unterliegt aber Ermessenspruefung.
-- BFH, Urt. v. 22.05.2012 - VII R 61/11, BFH/NV 2012, 1876 — Erstattungsantrag gemaess Art. 21 Grundantidumping-VO setzt Nachweis voraus, dass Antidumping-Zoll tatsaechlich auf den Kaufpreis aufgeschlagen wurde.
-- EuGH, Urt. v. 08.09.2015 - C-411/13 (Neuman/Kommission) — Umgehungsregeln Art. 13 Grundantidumping-VO; geringfuegige Bearbeitung in Drittland begründet keine wesentliche Veraenderung, wenn Zusammensetzung unveraendert bleibt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Antidumping/Ausgleich
 
@@ -76,11 +75,9 @@ Kläre vor der Pruefung:
 - TARIC-Datenbank — aktuelle Antidumping-Massnahmen mit Zollsaetzen
 - Art. 9 UZK — Rechtsbehelfsverfahren gegen Zollbescheide mit AD-Zollen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bierwagen, EU Antidumping Law and Practice, 2. Aufl. — massgebliches englisches Werk
-- Witte/Henke, Zollkodex-Kommentar, Anhang Antidumping
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Antidumping-Pruefungsvermerk
 
 **Adressat:** Importabteilung / Rechtsabteilung — **Tonfall:** bescheidnah, erstattungsorientiert

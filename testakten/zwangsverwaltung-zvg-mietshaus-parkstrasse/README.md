@@ -1,5 +1,14 @@
 # Testakte: Zwangsverwaltung ZVG – Mietshaus Parkstraße 18, Leipzig
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse` (diese Akte) | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für die Demonstration einer vollständigen gerichtlichen Zwangsverwaltung über ein vermietetes Mehrfamilienhaus mit Gewerbeanteilen. Die Akte deckt den vollständigen Verfahrensablauf ab: Anordnungsbeschluss, Besitzübernahme, Mietverhältnisse, Betriebskosten, Instandhaltungsnotfälle, Gläubigerkorrespondenz, Schuldnerwiderspruch, Insolvenzschnittstelle und Schlussrechnung.
 
 ---

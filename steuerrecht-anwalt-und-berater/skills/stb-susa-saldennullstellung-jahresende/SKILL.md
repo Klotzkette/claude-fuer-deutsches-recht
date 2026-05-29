@@ -1,6 +1,6 @@
 ---
 name: stb-susa-saldennullstellung-jahresende
-description: "Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Ueberleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen ueber GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberfuehrt."
+description: "Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberführt."
 ---
 
 # Erfolgskonten-Saldennullstellung zum Jahresende

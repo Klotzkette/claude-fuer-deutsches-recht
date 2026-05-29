@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung
-description: "Warnt vor typischen Falschverortungen im Recht: Vertrag statt Delikt, Verwaltungsakt vs. Realakt, Strafrecht statt Ordnungswidrigkeit, Unionsrecht statt nationales Recht. Mechanisches Durchpruefen der richtigen Pruefungsebene vor Normanwendung."
+description: "Warnt vor typischen Falschverortungen im Recht: Vertrag statt Delikt, Verwaltungsakt vs. Realakt, Strafrecht statt Ordnungswidrigkeit, Unionsrecht statt nationales Recht. Mechanisches Durchprüfen der richtigen Prüfungsebene vor Normanwendung."
 ---
 
 # Falsche-Wiese-Warnung
@@ -15,16 +15,13 @@ description: "Warnt vor typischen Falschverortungen im Recht: Vertrag statt Deli
 
 ## Zweck
 
-„Auf der falschen Wiese grasen" ist ein klassisches Problem der Rechtsanwendung: Man prüft eine Norm sorgfältig und korrekt — aber die falsche Norm. Dieser Skill kann auf typische Muster hinweisen und Nutzereingaben einer Plausibilitätskontrolle unterziehen.
+"Auf der falschen Wiese grasen" ist ein klassisches Problem der Rechtsanwendung: Man prüft eine Norm sorgfältig und korrekt — aber die falsche Norm. Dieser Skill kann auf typische Muster hinweisen und Nutzereingaben einer Plausibilitätskontrolle unterziehen.
 
 Dieser Skill wird automatisch oder auf Anforderung aktiviert, wenn der Sachverhalt oder die gewählte Norm Anzeichen einer Fehlverortung enthält.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 26.11.2020 - I ZR 245/19, GRUR 2021, 477 — Wenn vertragliche Sonderbeziehung besteht, ist deliktische Haftung für reine Vermögensschäden ausgeschlossen; § 823 Abs. 1 BGB schützt nur absolute Rechtsgüter, nicht das reine Integritätsinteresse an Vermögen.
-- BGH, Urt. v. 21.01.2021 - III ZR 122/19, NJW 2021, 1033 — Staatliche Warnungen vor Produkten sind Realakte, keine Verwaltungsakte; Rechtsschutz ist über allgemeine Leistungsklage (§ 40 VwGO) zu suchen, nicht über Anfechtungsklage.
-- EuGH, Urt. v. 24.10.2019 - C-507/17, NJW 2019, 3710 — Der Anwendungsvorrang des Unionsrechts verdrängt entgegenstehendes nationales Recht auch dann, wenn das nationale Gericht sich an nationales Recht gebunden fühlt; Gerichte sind zur unionskonformen Auslegung verpflichtet.
-- BVerfG, Beschl. v. 14.01.2021 - 1 BvR 2853/19, NJW 2021, 1587 — Die Abgrenzung Verwaltungsakt/öffentlich-rechtlicher Vertrag ist nach dem Empfängerhorizont und dem Regelungsgehalt zu bestimmen; formelle Bezeichnung allein ist nicht entscheidend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen zur Einordnung
 
@@ -42,7 +39,7 @@ Dieser Skill wird automatisch oder auf Anforderung aktiviert, wenn der Sachverha
 
 **Indizien für Fehlverortung:** Keine Willenserklärungen beschrieben; kein Vertragsschluss erwähnt; Handlung ist einseitig schädigend ohne Vertragsbezug.
 
-**Hinweis des Systems:** „Ihr Sachverhalt enthält keinen erkennbaren Vertragsschluss. Bitte prüfen Sie, ob eine deliktische Anspruchsgrundlage (§ 823 Abs. 1 oder Abs. 2 BGB, § 826 BGB) primär einschlägig ist."
+**Hinweis des Systems:** "Ihr Sachverhalt enthält keinen erkennbaren Vertragsschluss. Bitte prüfen Sie, ob eine deliktische Anspruchsgrundlage (§ 823 Abs. 1 oder Abs. 2 BGB, § 826 BGB) primär einschlägig ist."
 
 ### 2. Verwaltungsakt statt Realakt
 
@@ -61,13 +58,13 @@ Hat das staatliche Handeln Regelungscharakter (§ 35 VwVfG)?
 
 **Muster:** Nutzer prüft § 303 StGB (Sachbeschädigung), obwohl es sich um eine Ordnungswidrigkeit nach OWiG handeln könnte.
 
-**Hinweis des Systems:** „Prüfen Sie zunächst, ob der Sachverhalt eine Ordnungswidrigkeit nach dem OWiG oder einem Nebengesetz erfüllt. Tateinheit: § 21 OWiG — Strafrecht geht OWiG vor."
+**Hinweis des Systems:** "Prüfen Sie zunächst, ob der Sachverhalt eine Ordnungswidrigkeit nach dem OWiG oder einem Nebengesetz erfüllt. Tateinheit: § 21 OWiG — Strafrecht geht OWiG vor."
 
 ### 4. Unionsrecht statt nationales Recht (oder umgekehrt)
 
 **Muster:** Nutzer prüft nationales Datenschutzgesetz (BDSG), obwohl die DSGVO als EU-Verordnung unmittelbar gilt.
 
-**Hinweis des Systems:** „Bitte prüfen Sie, ob Unionsrecht (Verordnung mit unmittelbarer Geltung oder richtlinienkonforme Auslegung) vorgeht. Der Anwendungsvorrang des Unionsrechts verdrängt entgegenstehendes nationales Recht (EuGH, Rs. Costa/ENEL; EuGH C-507/17)."
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Weitere typische Muster
 
@@ -86,12 +83,6 @@ Das System gibt strukturierten Hinweis:
 
 Das System setzt die Prüfung der ursprünglich gewählten Norm nur auf ausdrücklichen Nutzerwunsch fort.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB Einl. (Anspruchskonkurrenz) — Übersicht über typische Konkurrenzlagen
-- Kopp/Ramsauer VwVfG § 35 (VA-Begriff) — maßgebend für Realakt-/VA-Abgrenzung
-- Jarass/Pieroth GG Art. 20 Rn. 73 ff. (Vorrang des Europarechts)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

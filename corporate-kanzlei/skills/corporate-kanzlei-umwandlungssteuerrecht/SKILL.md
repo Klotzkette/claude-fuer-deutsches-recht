@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-umwandlungssteuerrecht
-description: "Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Formwechsel nach UmwStG auf Steuerneutralitaet, Buchwertfortfuehrung, Sperrfristen, Verlustnutzung und Grunderwerbsteuer. Normen: §§ 11-25 UmwStG, §§ 1 ff. GrEStG, § 8c KStG."
+description: "Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Formwechsel nach UmwStG auf Steuerneutralitaet, Buchwertfortführung, Sperrfristen, Verlustnutzung und Grunderwerbsteuer. Normen: §§ 11-25 UmwStG, §§ 1 ff. GrEStG, § 8c KStG."
 ---
 
 # Umwandlungssteuerrecht
@@ -28,17 +28,11 @@ description: "Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Form
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 30.11.2021 - IX R 40/18, BFH/NV 2022, 470 — Sperrfrist-Verletzung nach § 22 UmwStG fuehrt zur rueckwirkenden Besteuerung des Einbringungsgewinns; kein Vertrauensschutz
-- BFH, Urt. v. 11.07.2019 - I R 26/18, BFHE 266, 105 = BStBl II 2020, 201 — Keine Buchwertfortfuehrung bei Einbringung wenn keine dauerhafte Absicherung der deutschen Besteuerung bei Ansatz gemeiner Wert
-- BFH, Urt. v. 29.08.2018 - I R 68/16, BStBl II 2019, 166 — § 6a GrEStG Konzernprivileg: Vorbehaltsfrist 5 Jahre vor und nach Umwandlung; auch mittelbare Beteiligungen relevant
-- FG Muenster, Urt. v. 14.09.2021 - 13 K 3010/18 K, EFG 2021, 1870 — § 8c KStG Verlustuntergang: Mittelbare Beteiligungserhoehung als schaedlicher Erwerb; kein Trostpflaster durch Sanierungsklausel
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Haritz/Menner/Bilitewski UmwStG (5. Aufl. 2019) — Standardkommentar
-- Rödder/Herlinghaus/van Lishaut UmwStG (3. Aufl. 2019) — vertieft
-- Tipke/Lang, Steuerrecht (24. Aufl. 2021) § 17 — Umwandlungssteuerrecht im System
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Steuerneutralitaet: Voraussetzungen der Buchwertfortfuehrung
 
 | Voraussetzung | Rechtsgrundlage | Pruefung |
@@ -125,5 +119,5 @@ OFFENE PUNKTE
 ## Quellen
 
 - §§ 11-25 UmwStG; § 8c KStG; § 6a GrEStG; § 1 II GrEStG
-- BFH I R 26/18 (Buchwertfortfuehrung); BFH I R 68/16 (§ 6a GrEStG); FG Muenster 13 K 3010/18 (§ 8c KStG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Haritz/Menner/Bilitewski UmwStG (5. Aufl. 2019); Tipke/Lang § 17

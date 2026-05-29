@@ -1,5 +1,14 @@
 # Testakte: Insolvenzforderungsanmeldungsprüfung Phoenix Solar Montage GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar` (diese Akte) | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Testakte für das KI-Plugin `insolvenzforderungsanmeldungspruefung`. Sie simuliert einen vollständigen Forderungsprüfungslauf nach Eröffnung des Insolvenzverfahrens über das Vermögen der Phoenix Solar Montage GmbH. Die Akte deckt alle typischen Problemlagen ab: formale Mängel, Dubletten, Sicherheiten mit unbekanntem Verwertungsausfall, besonderer Rechtsgrund (Steuerstraftat, vbuH), Nachrangdarlehen, Schuldnerwiderspruch, Feststellungsklage und abschließende Verteilung nach § 189 InsO.
 
 ---

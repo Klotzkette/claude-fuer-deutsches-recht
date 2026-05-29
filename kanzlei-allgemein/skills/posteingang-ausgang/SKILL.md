@@ -1,6 +1,6 @@
 ---
 name: posteingang-ausgang
-description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangstag (relevant fuer Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte.
+description: Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte.
 ---
 
 # Posteingang und Postausgang
@@ -13,10 +13,7 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 4. Muss der Eintrag per Audit-Trail unveraenderbar dokumentiert werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Posteingangs-Protokoll als Pflicht: Datum und Inhalt jedes Eingangs muessen sofort aufgezeichnet werden; spaetere Rekonstruktion ist beweisrechtlich minderwertig.
-- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Postausgangsbuch als Haftungsschutz: Versanddatum und Versandweg muessen nachweisbar sein; fehlendes Protokoll geht bei streitigen Zustellungen zu Lasten der Kanzlei.
-- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Vier-Tages-Fiktion (PostModG ab 01.01.2025): bei Postzustellung gilt Eingang vier Werktage nach Aufgabe als fikiv; Protokoll muss fruehestmoeglichen Eingang erfassen.
-- OLG Frankfurt, Beschl. v. 14.05.2019 - 20 W 192/18, NJW-RR 2020, 54 — Fehlender Postausgangs-Vermerk: ohne Nachweis des Versandtags traegt die sendende Kanzlei das Risiko der spaeten Zustellung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 187-188 BGB i.V.m. § 222 ZPO — Fristbeginn bei Zustellung
@@ -24,10 +21,9 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 - § 173 ZPO — beA-Zustellungszeitpunkt: Eingang im Empfangspostfach
 - § 51 BRAO — Haftung bei fehlerhafter oder fehlender Postbuchdokumentation
 
-## Kommentarliteratur
-- Zöller/Greger ZPO §§ 173, 222 Rn. 1-20 (Zustellung und Fristbeginn: beA und Post)
-- Gaier/Wolf/Göcken BRAO § 51 Rn. 1-30 (Haftung bei Postlauf-Organisationspflichtverletzung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Posteingang
 
 ### Erfassung pro eingegangenem Schriftstück

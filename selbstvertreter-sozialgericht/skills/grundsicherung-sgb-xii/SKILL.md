@@ -1,6 +1,6 @@
 ---
 name: grundsicherung-sgb-xii
-description: "Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermoegen. Abgrenzung zum Buergergeld fuer Buerger."
+description: "Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger."
 ---
 
 # Grundsicherung im Alter und bei Erwerbsminderung — SGB XII

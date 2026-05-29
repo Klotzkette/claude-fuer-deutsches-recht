@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-spielervertrag
-description: "Profi-Spielervertrag als befristeter Arbeitsvertrag pruefen. Sachgrundbefristung § 14 Abs. 1 TzBfG BAG-Heinz-Mueller-Urteil 7 AZR 312/16. Verbandsregelwerke FIFA RSTP DFB-Lizenzordnung. Transferentschaedigung Ausbildungsentschaedigung Solidaritaetsmechanismus. Beendigung Klauseln Ausstiegsklausel Vertragsstrafen. Schadensersatz bei Vertragsbruch ohne triftigen Grund Art. 17 FIFA RSTP. Sponsoring- und Persoenlichkeitsrechte parallel."
+description: "Workflow-Skill zu fachanwalt sportrecht spielervertrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Spielervertrag
@@ -40,8 +40,8 @@ description: "Profi-Spielervertrag als befristeter Arbeitsvertrag pruefen. Sachg
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| 7 AZR 312/16 | BAG, 16.01.2018 (Heinz Müller) | Sachgrundbefristung § 14 Abs. 1 Nr. 4 TzBfG für Profifußball wirksam |
-| C-415/93 | EuGH, 15.12.1995 (Bosman) | Art. 45 AEUV; Transferbeschränkungen für EU-Spieler am Vertragsende unzulässig |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | CAS 2014/A/3642 | CAS, 2014 | Just cause bei Gehaltsrückständen; zweimonatige Rückstandsdauer |
 | CAS 2019/A/6301 | CAS, 2019 | Art. 17 RSTP-Schadensberechnung; Restwert-Methode |
 
@@ -52,7 +52,7 @@ description: "Profi-Spielervertrag als befristeter Arbeitsvertrag pruefen. Sachg
 | Schritt | Inhalt | Grundlage |
 |---|---|---|
 | 1 | Vertragstyp identifizieren (Profi, Vertragsspieler, Amateur) | TzBfG, DFB-LOS |
-| 2 | Befristungsgrund § 14 Abs. 1 TzBfG prüfen (Nr. 4: Eigenart der Tätigkeit) | § 14 TzBfG; BAG 7 AZR 312/16 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 | AGB-Klauselkontrolle: Ausstiegsklausel, Vertragsstrafen §§ 305 ff. BGB | §§ 307 ff. BGB |
 | 4 | Bildrechte und Persönlichkeitsrechte: exklusiv oder nicht? §§ 22 ff. KUG | KUG, Art. 1, 2 GG |
 | 5 | Transferregelungen: FIFA RSTP anwendbar (internationaler Wechsel)? | FIFA RSTP Art. 17 |
@@ -80,7 +80,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Image-/Sponsorenrechte streitig | IP-Recht-Aspekte; Skill urheber-medienrecht einbeziehen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -178,7 +177,7 @@ I. Die vereinbarte Befristung ist unwirksam, weil:
 
 1. Sachgrundmangel § 14 Abs. 1 TzBfG: Der Vertrag benennt
    keinen Sachgrund. Die bloße Angabe "befristet" genügt nicht
-   (BAG 7 AZR 312/16).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. [Alternativ: Sachgrund nicht tatsächlich vorhanden; z.B.
    angebliche Eigenart der Arbeitsleistung liegt nicht vor,
@@ -235,7 +234,7 @@ Mit freundlichen Grüßen
 
 | Verein-Argument | Gegenstrategie |
 |---|---|
-| "Befristung war wirksam — Eigenart der Tätigkeit" | BAG 7 AZR 312/16: nur wenn konkrete Eigenart begründet; keine Automatik |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Kein just cause — Gehaltsrückstand nur ein Monat" | CAS 2014/A/3642: zwei Monate + förmliche Mahnung; Fristennachweis |
 | "Ausstiegsklausel unwirksam (zu niedrig)" | §§ 307 ff. BGB: Klausel wirksam wenn nicht unangemessen benachteiligend |
 | "Bildrechte exklusiv vertraglich übertragen" | §§ 22 ff. KUG: Einwilligung widerrufbar; Umfang der Übertragung prüfen |
@@ -279,9 +278,8 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. TzBfG §§ 14, 17. BGB §§ 305–310, 611a, 626. KUG §§ 22 ff. GG Art. 1, 2. AEUV Art. 45. FIFA RSTP Art. 14, 17, 20, 21 (aktuelle Fassung prüfen: jährliche Änderungen). BAG 7 AZR 312/16 (16.01.2018). EuGH C-415/93 Bosman (15.12.1995). CAS 2014/A/3642. CAS 2019/A/6301. DFB-Lizenzordnung Spieler (LOS). Fritzweiler/Pfister/Summerer Praxishandbuch Sportrecht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
-BAG 7 AZR 312/14: Az. falsch; korrigiert zu 7 AZR 312/16 (BAG 16.01.2018, Heinz Mueller, NJW 2018, 1992); alle Vorkommen ersetzt.
-BGH II ZR 294/11: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

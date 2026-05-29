@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bussgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bußgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im IT-, Datenschutz- und Telemedienrecht
@@ -195,10 +195,7 @@ Vor Versand:
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 22.12.2005 — VII ZR 183/04, NJW 2006, 1198 Rn. 14: Symptomrechtsprechung — Mangelrüge mit Symptombeschreibung genuegt; alle verursachenden Maengel werden davon umfasst; Beweisangebot zum Symptom ausreichend.
-- BGH, Urt. v. 25.05.2020 — VI ZR 252/19, NJW 2020, 1962 Rn. 35: Substantiierungsanforderungen an Klageschrift im Deliktrecht — primaerfaehige Tatsachen muesSen konkret und nachpruefbar vorgetragen werden, keine Pauschalbehauptungen.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: DSGVO-Schadensersatz Art. 82 — Betroffener muss Schaden konkret darlegen; blosser Verstosz genuegt nicht; Substantiierungslast liegt beim Klaeager.
-- BGH, Urt. v. 17.03.2022 — III ZR 79/21, NJW 2022, 2024 Rn. 19: Verpasste Replik-Frist § 296 ZPO bei IT-Rechtsstreit — spaetes Vorbringen ausgeschlossen, wenn Partei keine ausreichende Entschuldigung vorlegt; Rechtzeitigkeitspflicht gilt auch bei komplexen IT-Sachverhalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 253 ZPO — Inhalt der Klageschrift; Abs. 2 Nr. 2 Bestimmtheit des Antrags
@@ -208,11 +205,9 @@ Vor Versand:
 - § 138 ZPO — Erklaerungs- und Wahrheitspflicht; Vollstaendigkeitsgebot
 - Art. 82 DSGVO — Schadensersatz bei DSGVO-Versto§ (eigene Substantiierungslast)
 
-## Kommentarliteratur
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 253 Rn. 8 ff.: Bestimmtheitsgebot und Substantiierungsanforderungen.
-- Zöller, ZPO, 35. Aufl. 2024, § 296 Rn. 1 ff.: Praeklusion verspaeteten Vortrags.
-- Kühling/Buchner, DSGVO / BDSG, 4. Aufl. 2024, Art. 82 Rn. 60 ff.: Darlegungslast bei Schadensersatzklage.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welcher Verfahrenstyp liegt vor — Klageschrift, Berufungsbegruendung, Widerspruch gegen Buszgeldbescheid, einstweilige Verfuegung?
 2. Ist die Klagefrist bzw. Rechtsmittelfrist bekannt und im Kalender eingetragen?

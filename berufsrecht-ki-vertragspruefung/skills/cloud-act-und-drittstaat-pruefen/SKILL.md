@@ -1,6 +1,6 @@
 ---
 name: cloud-act-und-drittstaat-pruefen
-description: "Pruefe Auslandsbezug des KI-Anbieters nach Absatz vier der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). EU/EWR werden als gleichwertig unterstellt. Drittstaaten benoetigen vergleichbares Schutzniveau. US-CLOUD Act und Foreign Intelligence Surveillance Act schaffen Restzugriff. Professional Secrecy Addendum empfohlen. DAV-Stellungnahme Seite fuenfzehn sechzehn."
+description: "Prüfe Auslandsbezug des KI-Anbieters nach Absatz vier der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). EU/EWR werden als gleichwertig unterstellt. Drittstaaten benoetigen vergleichbares Schutzniveau. US-CLOUD Act und Foreign Intelligence Surveillance Act schaffen Restzugriff. Professional Secrecy Addendum empfohlen. DAV-Stellungnahme Seite fuenfzehn sechzehn."
 ---
 
 # Cloud Act und Drittstaat prüfen
@@ -86,10 +86,7 @@ Tabellarische Bewertung. Bei US-Bezug: Vorlage für Professional Secrecy Addendu
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II/Data Protection Commissioner), NJW 2020, 2557 Rn. 182–202: Privacy Shield USA war unwirksam; SCC bleiben grundsätzlich möglich, aber Einzelfallprüfung ob tatsächliches Schutzniveau gewährleistet; US-Nachrichtendienste können über FISA Section 702 und EO 12333 auf Daten europäischer Bürger zugreifen — dies begründet ein strukturelles Schutzdefizit. Maßstabsentscheidung für alle US-Datentransfers.
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Facebook Ireland), NJW 2023, 2555 Rn. 88–112: Zum Drittlandsübermittlungsregime nach Art. 44 ff. DSGVO; Verantwortliche müssen vor jeder Übermittlung das tatsächliche Schutzniveau im Zielland eigenständig bewerten.
-- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Verwertbarkeit von Erkenntnissen aus US-Datenquellen im deutschen Verwaltungsverfahren — auch bei formeller Zulässigkeit des Transfers können materielle Nutzungsschranken bestehen.
-- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zum internationalen Datentransfer und Verhältnismäßigkeitsprüfung; Verantwortliche können sich nicht auf AGB-Versprechen eines US-Anbieters verlassen, wenn die Rechtslage im Zielland den Schutz strukturell untergräbt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -99,11 +96,9 @@ Tabellarische Bewertung. Bei US-Bezug: Vorlage für Professional Secrecy Addendu
 - US CLOUD Act 2018, 18 U.S.C. § 2713 — Zugriff auf Daten unabhängig vom Speicherort
 - FISA Section 702, 50 U.S.C. § 1881a — Überwachung elektronischer Kommunikation von Nicht-US-Personen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Pauly, in: Paal/Pauly DSGVO/BDSG, 3. Aufl. 2021, Art. 44 DSGVO Rn. 1–45: Zur Systematik des Drittlandsübermittlungsverbots, den Ausnahmetatbeständen und der Einzelfallprüfung nach Schrems II.
-- Werkmeister, in: Gola DSGVO, 2. Aufl. 2018, Art. 46 Rn. 20–50: Zu SCC in der Praxis; Überwachungsrisiken in Drittländern als Hindernis für wirksame Garantien.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage-Frage (Entscheidungsbaum)
 
 ```

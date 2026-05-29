@@ -1,6 +1,6 @@
 ---
 name: dsa-art-40-forschungsdatenzugang-algorithmen
-description: "Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Pruefraster: Drei Ebenen (DSC-Zugang, vetted researchers, oeffentliche Daten), Antragsverfahren ueber DSC, Schutz Geschaeftsgeheimnisse und Datenschutz. Output Antrag vetted researcher, Datenzugangs-Vereinbarung-Entwurf. Abgrenzung: VLOP-Risikobewertung siehe dsa-art-34-systemische-risikobewertung; Algorithmen-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten."
+description: "Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Prüfraster: Drei Ebenen (DSC-Zugang, vetted researchers, öffentliche Daten), Antragsverfahren über DSC, Schutz Geschäftsgeheimnisse und Datenschutz. Output Antrag vetted researcher, Datenzugangs-Vereinbarung-Entwurf. Abgrenzung: VLOP-Risikobewertung siehe dsa-art-34-systemische-risikobewertung; Algorithmen-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten."
 ---
 
 # DSA — Art. 40 Forschungsdatenzugang
@@ -83,10 +83,8 @@ Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne
 
 ## Aktuelle Rechtsprechung
 
-- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55: Zur Durchsetzung von VLOP-Pflichten; Art. 40 DSA ist unmittelbar anwendbar nach Designation; Nichterfüllung begründet Bußgeld nach Art. 52 DSA (bis 6 % Jahresumsatz).
-- EuGH, Urt. v. 14.11.2023 — C-680/21 (Royal Antwerp Football Club), NJW 2024, 89 Rn. 38: Zur Verhältnismäßigkeit von Datenzugangsrechten; Zugang zu algorithmischen Daten muss gegen Geschäftsgeheimnisschutz und DSGVO abgewogen werden.
-- BGH, Urt. v. 26.10.2021 — KVR 73/20 (Facebook-Daten), NJW 2022, 123 Rn. 45: Zu algorithmischen Entscheidungen als Gegenstand aufsichtlicher Kontrolle; Transparenz über Algorithmen als datenschutz- und wettbewerbsrechtliche Pflicht.
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms), NJW 2023, 2555 Rn. 88: Zu Zugangsrechten von Behörden gegenüber Plattformen; Art. 40 DSA erweitert diese auf Forschende.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -96,11 +94,9 @@ Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne
 - Delegierte VO (EU) 2024/2987 — Verfahren und Bedingungen Forschungsdatenzugang
 - Art. 39 DSA — Werbetransparenz
 
-## Kommentarliteratur
+## Quellenregel
 
-- Spindler, NJW 2022, 1305: Zum Forschungsdatenzugang nach Art. 40 DSA; Abwägung Transparenz und Geschäftsgeheimnis.
-- Paal/Pauly, Medienrecht, 2024, DSA Art. 40 Rn. 1–60: Zu den drei Ebenen des Datenzugangs und dem Antragsverfahren.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Wer ist der Mandant: Plattform (Pflichtenseite) oder Forscher/Behörde (Anspruchsseite)?

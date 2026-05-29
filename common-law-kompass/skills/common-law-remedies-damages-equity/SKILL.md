@@ -1,6 +1,6 @@
 ---
 name: common-law-remedies-damages-equity
-description: "Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Pruefraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess)."
+description: "Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess)."
 ---
 
 # Remedies, Damages und Equity

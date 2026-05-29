@@ -1,6 +1,6 @@
 ---
 name: berufungs-zulassung-niedrig-streitwert
-description: "Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschliesslich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht."
+description: "Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht."
 ---
 
 # Berufungs-Zulassung bei Beschwer bis 1.000 EUR

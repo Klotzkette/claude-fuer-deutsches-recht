@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-kommandocenter
-description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Pruefraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing)."
+description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing)."
 ---
 
 # Umweltrecht-Kommandocenter
@@ -45,17 +45,11 @@ description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen 
 
 ## Leitentscheidungen (Ueberblick)
 
-- BVerwG, Urt. v. 28.04.2022 — 7 A 2.21, BVerwGE 175, 227 — UmwRG § 4; UVP-Fehler als Aufhebungsgrund; grundlegende Neurechtsprechung zugunsten Verbandsklagen.
-- BVerwG, Urt. v. 25.11.2021 — 4 A 4.20, BVerwGE 174, 274 — FFH-Vertraeglichkeit Windpark; Kumulations-Gebot; erhebliche Beeintraechtigung Schutzzweck.
-- BVerwG, Urt. v. 14.04.2022 — 7 C 3.20, NVwZ 2022, 1403 — BBodSchG Eigentuemer-Haftung; kein Gutglaeubigkeitsschutz; Kaufvertrag wirkt nur inter partes.
-- EuGH, Urt. v. 15.10.2015 — C-137/14 (Kommission/Deutschland) — UmwRG-Praeklusion unionsrechtswidrig; gerichtlicher Zugang Buerger bleibt erhalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur Umweltrecht allgemein
+## Quellenregel
 
-- Kloepfer Umweltrecht (Muenchen, aktuelle Auflage) — Systemdarstellung BImSchG, BBodSchG, WHG, KrWG, BNatSchG
-- Rehbinder/Schink Grundzuege des Umweltrechts (Beck)
-- Landmann/Rohmer Umweltrecht (Loseblatt-Kommentar zu BImSchG, WHG, KrWG, BNatSchG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ampelmatrix Risikobewertung (Standard-Output)
 
 | Risiko | Ampel | Fristen | Verantwortlich | Naechste Handlung |

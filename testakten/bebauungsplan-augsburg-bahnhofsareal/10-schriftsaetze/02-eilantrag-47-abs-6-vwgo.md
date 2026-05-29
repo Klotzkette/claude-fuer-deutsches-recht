@@ -23,7 +23,7 @@ stelle ich namens und in Vollmacht der Antragstellerin
 
 # Antrag
 
-> **Der Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West" der Stadt Augsburg vom 23.05.2024, bekanntgemacht am 14.06.2024, wird bis zur Entscheidung in der Hauptsache, längstens für sechs Monate, gemäß § 47 Abs. 6 VwGO einstweilen außer Vollzug gesetzt.**
+> **Der Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West" der Stadt Augsburg vom 23.05.2024, bekanntgemacht am 14.06.2024, wird bis zur Entscheidung in der Hauptsache, längstens für sechs Monate, gemäß § 47 Abs. 6 VwGO einstweilen außer Vollzug gesetzt.**
 
 > **Hilfsweise: Der Bebauungsplan wird hinsichtlich des Sondergebiets MU 3 (Wandhöhe 28 m, Tiefgaragenzufahrt Provinostraße) einstweilen außer Vollzug gesetzt.**
 

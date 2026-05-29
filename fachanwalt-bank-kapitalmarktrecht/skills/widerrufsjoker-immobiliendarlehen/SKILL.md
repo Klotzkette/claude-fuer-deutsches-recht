@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-immobiliendarlehen
-description: "Mandant hat Immobiliendarlehen und prueft ob fehlerhafter Widerrufsbelehrung ewiges Widerrufsrecht noch ausuebbar ist. BGH XI. Zivilsenat §§ 495 355 BGB Rueckabwicklung. Normen §§ 491-505 BGB §§ 355 357 BGB BGH XI ZR. Pruefraster Belehrungs-Inhalt Frist Beginn Klarheit Adresse Musterschutz-Check Verwirkung. Output Widerrufs-Erklaerung Rueckabwicklungs-Berechnung Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkuendigung (Kuendigung) und anlageberatungsfehler-pruefen (Beratung)."
+description: "Workflow-Skill zu widerrufsjoker immobiliendarlehen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Widerrufsjoker bei Immobiliendarlehen
@@ -49,32 +49,27 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 
 | Prüfpunkt | Fehlerkonstellation | BGH-Entscheidung | Folge |
 |---|---|---|---|
-| Fristbeginn-Formel | "frühestens..." ohne konkreten Zeitpunkt | BGH XI ZR 33/08 | Ewiges Widerrufsrecht |
-| Adressangabe der Bank | Fehlende oder falsche Empfänger-Adresse | BGH XI ZR 564/15 | Ewiges Widerrufsrecht |
-| Bezeichnung des Rechts | "Widerspruchsrecht" statt "Widerrufsrecht" | BGH XI ZR 101/10 | Fehlerhaft |
-| Optik und Erkennbarkeit | Belehrung nicht hervorgehoben, versteckt | BGH XI ZR 199/12 | Fehlerhaft |
-| Schriftform-Hinweis fehlt | Keine Angabe dass Widerruf schriftlich | BGH XI ZR 472/11 | Ggf. fehlerhaft |
-| Muster-Konformität | Abweichungen vom Muster ohne sachlichen Grund | BGH XI ZR 564/15 | Verlust der Muster-Schutzwirkung |
-| Verbundgeschäft-Hinweis fehlt | Bei verbundenem Kauf kein § 358-Hinweis | BGH XI ZR 456/14 | Fehlerhaft |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
-### Klassische "Frühestens"-Klausel (BGH XI ZR 33/08)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Fehlerhafter Wortlaut:**
 > "Die Frist beginnt frühestens mit Erhalt dieser Belehrung."
 
-**Problem:** Das Wort "frühestens" ist mehrdeutig — der Darlehensnehmer weiß nicht, wann die Frist wirklich beginnt. BGH XI ZR 33/08 vom 13.01.2009: diese Formulierung genügt nicht dem Deutlichkeitsgebot des § 355 Abs. 2 BGB.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Korrekter Wortlaut:** "Die Frist beträgt 14 Tage. Sie beginnt mit Abschluss des Vertrages, wenn dem Darlehensnehmer bei Vertragsschluss eine Widerrufsbelehrung ausgehändigt worden ist, die ..."
 
 ## Verwirkung
 
-### Grundsatz (BGH XI ZR 564/15)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Verwirkung erfordert:
 1. **Zeitmoment**: erheblicher Zeitablauf seit möglichem Widerruf
 2. **Umstandsmoment**: Vertrauen der Bank in Fortbestand des Vertrages durch Verhalten des Schuldners (z.B. Sondertilgungen, Neuvertrag, Ablösung mit Darlehen derselben Bank)
 
-Bloßer Zeitablauf genügt nicht (BGH XI ZR 564/15, Rn. 37).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Praxisbeurteilung
 
@@ -95,7 +90,7 @@ Bloßer Zeitablauf genügt nicht (BGH XI ZR 564/15, Rn. 37).
 
 **Was die Bank zurückgibt:**
 - Alle geleisteten Zahlungen (Zinsen + Tilgung)
-- Nutzungsentschädigung für die Zahlungen (5 Prozentpunkte über Basiszinssatz bis 13.6.2014 nach BGH XI ZR 33/08; danach gesetzlicher Verzugszins)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Berechnung des wirtschaftlichen Vorteils
 
@@ -161,7 +156,7 @@ Die Widerrufsbelehrung war fehlerhaft, weil:
 "Die Belehrung enthält die unklare Formulierung 'Die
 Frist beginnt frühestens mit Erhalt dieser Belehrung'
 (§ 355 Abs. 2 BGB i.d.F. v. [Datum]). Diese Formulierung
-genügt nicht dem Deutlichkeitsgebot (BGH, Urt. v.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 13.01.2009 — XI ZR 33/08). Die Widerrufsfrist hat daher
 nicht zu laufen begonnen."
 
@@ -199,7 +194,7 @@ Streitwert: EUR [Nettovorteil des Widerrufs].
 
 ## Beweislast und Darlegungslast
 
-- **Bank** trägt Beweislast dafür, dass die Widerrufsbelehrung ordnungsgemäß war (BGH XI ZR 564/15, Rn. 21): Belehrung muss den gesetzlichen Mindestinhalt klar und verständlich wiedergeben.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Mandant** muss darlegen, dass er Verbraucher war und der Vertrag ein Verbraucherdarlehen mit Immobilienzweck war.
 - **Verwirkung**: Bank trägt Darlegungslast für das Umstandsmoment (Vertrauenstatbestand).
 - **Nutzungsersatz**: Höhe durch Sachverständigen oder Marktzins-Nachweis belegt.
@@ -210,17 +205,17 @@ Streitwert: EUR [Nettovorteil des Widerrufs].
 |---|---|---|
 | Widerruf | Ab 22.3.2016: 1 Jahr + 14 Tage; davor: unbefristet | § 356b Abs. 2 BGB |
 | Verjährung Rückabwicklungsansprüche | 3 Jahre ab Kenntnis (str.) | §§ 195, 199 BGB |
-| Verwirkungseinrede | Einzelfallbewertung; kein starrer Zeitrahmen | BGH XI ZR 564/15 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Gegenargumente und Reaktion
 
 | Gegenargument Bank | Reaktion Anwalt |
 |---|---|
 | Muster-Schutzwirkung (BGB-InfoV) | Überprüfen ob Muster exakt eingehalten; jede Abweichung = kein Schutz |
-| Verwirkung durch Zeitablauf | Umstandsmoment bestreiten; BGH XI ZR 564/15: Zeit allein reicht nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kein wirtschaftlicher Vorteil durch Widerruf | Korrekte Rückabwicklungsberechnung entgegenstellen |
 | Gegenrechnung Nutzungsvorteil Immobilie | Gilt nur wenn Immobilie übergeben; bei laufendem Darlehen nicht anwendbar |
-| Widerruf rechtsmissbräuchlich | BGH XI ZR 564/15: kein Rechtsmissbrauch bei fehlerhafter Belehrung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -250,6 +245,5 @@ Streitwert: EUR [Nettovorteil des Widerrufs].
 - BGB §§ 355, 357, 357b, 491, 495, 358
 - EGBGB Art. 247, Anlage 7
 - BGB-InfoV (historisch)
-- BGH XI ZR 33/08 (13.01.2009); BGH XI ZR 564/15 (12.07.2016)
-- BGH XI ZR 116/15 (14.06.2016); BGH XI ZR 456/14 (21.02.2017)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bülow/Artz Verbraucherkredit; Nobbe Kommentar zum Kreditrecht

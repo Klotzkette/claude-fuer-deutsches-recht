@@ -1,6 +1,6 @@
 ---
 name: europarecht-beihilfen-vergaben
-description: "Beihilfenrecht und Vergaberecht pruefen wenn staatliche Foerderung oder oeffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Pruefraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabepruefmemo. Abgrenzung: nicht fuer allgemeines Kartellrecht (europarecht-wettbewerb-kartell)."
+description: "Beihilfenrecht und Vergaberecht prüfen wenn staatliche Foerderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell)."
 ---
 
 # Beihilfen, Förderungen und Vergabe
@@ -60,10 +60,9 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 19.03.2013 - C-399/10 P (Bouygues Télécom), EuZW 2013, 432 — Staatliche Mittel: der Begriff ist weit; Garantieleistungen und öffentliche Unternehmen erfasst; mittelbare Finanzierung genuegt wenn Staat Einnahmeentgang akzeptiert.
-- EuGH, Urt. v. 02.09.2010 - C-399/08 P (Kommission/Deutsche Post), NJW 2010, 3367 — Vorteil-Test: marktorientierter Investor-Test (Private Investor Principle); ob ein marktwirtschaftlich handelnder Investor unter gleichen Bedingungen investiert haette.
-- EuG, Urt. v. 12.09.2007 - T-239/04 (Frankreich/Kommission), EuZW 2007, 700 — Selektivitaet: Steuerbefreiung fuer bestimmte Unternehmensgruppen selektiv; fehlende objektive Rechtfertigung entscheidend.
-- EuGH, Urt. v. 09.10.2014 - C-522/13 (Ministerio de Hacienda), EuZW 2015, 34 — De-minimis-VO: Schwellenwert prueft Kumulierung mit anderen staatlichen Beihilfen; dreijähriger Referenzzeitraum zwingend zu berechnen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Beihilferecht
 
@@ -74,12 +73,9 @@ Bevor losgelegt wird, klaere:
 - **De-minimis-VO (EU) 2023/2831** — Schwelle EUR 300.000 in 3 Jahren
 - **DFO (EU) 2024/...** (Digitalinfrastruktur) und bereichsspezifische Beihilferahmen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schroeder, in: Streinz, EUV/AEUV, Art. 107-109 AEUV Rn. 1-100
-- Bartosch, EU-Beihilferecht, C.H. Beck, 3. Aufl. 2023
-- Jung, Beihilferecht Handbuch, Nomos 2022
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Beihilfe-Kurzprüfmemo
 
 **Adressat:** Mandant / interne Compliance

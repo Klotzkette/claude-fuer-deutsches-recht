@@ -1,6 +1,6 @@
 ---
 name: subsumtion-obersatz-definition-untersatz-ergebnis
-description: "Fuehrt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt ja/nein/fraglich). Ein Durchlauf pro Tatbestandsmerkmal."
+description: "Führt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt ja/nein/fraglich). Ein Durchlauf pro Tatbestandsmerkmal."
 ---
 
 # Subsumtion: Obersatz – Definition – Untersatz – Ergebnis
@@ -19,25 +19,23 @@ Dieses Vier-Schritt-Schema ist die Grundmethode juristischer Fallbearbeitung. De
 
 ## Aktuelle Rechtsprechung zur Subsumtionsmethode
 
-- BVerfG, Beschl. v. 06.06.2018 - 1 BvL 7/14, NJW 2018, 2542 — Das Bestimmtheitsgebot (Art. 103 Abs. 2 GG im Strafrecht; Art. 20 Abs. 3 GG allgemein) verlangt, dass die Subsumtion intersubjektiv nachvollziehbar ist; reine Wertungssubsumtionen ohne normativen Anknüpfungspunkt sind verfassungsrechtlich bedenklich.
-- BGH, Urt. v. 09.04.2019 - VI ZR 89/18, NJW 2019, 2162 — Ungeschriebene Merkmale (z.B. Verkehrspflichten) sind als zusätzliche TBM im Vier-Schritt zu prüfen; sie werden als richterrechtlich entwickeltes Tatbestandsmerkmal behandelt.
-- BGH, Urt. v. 19.11.2014 - VIII ZR 79/14, NJW 2015, 473 — Im Untersatz ist ausschließlich auf die vom Tatsachengericht festgestellten (oder vom Nutzer behaupteten) Tatsachen abzustellen; hypothetische Sachverhaltsvarianten werden im Untersatz nicht berücksichtigt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Das Vier-Schritt-Schema
 
 ### Schritt 1 — Obersatz
 
-**Struktur:** „[Person A] könnte gegen [Person B] einen Anspruch auf [Rechtsfolge] aus [§ Norm] haben."
+**Struktur:** "[Person A] könnte gegen [Person B] einen Anspruch auf [Rechtsfolge] aus [§ Norm] haben."
 
-**Beispiel:** „K könnte gegen V einen Anspruch auf Schadensersatz in Höhe von EUR 5.000 aus § 280 Abs. 1 BGB haben."
+**Beispiel:** "K könnte gegen V einen Anspruch auf Schadensersatz in Höhe von EUR 5.000 aus § 280 Abs. 1 BGB haben."
 
 ### Schritt 2 — Definition
 
 Das TBM wird aus der herrschenden Meinung und/oder der Rechtsprechung definiert.
 
-**Struktur:** „[TBM] liegt vor, wenn [Definition aus h.M./Rspr.]."
+**Struktur:** "[TBM] liegt vor, wenn [Definition aus h.M./Rspr.]."
 
-**Beispiel:** „Eine Pflichtverletzung liegt vor, wenn der Schuldner eine ihm obliegende Pflicht aus dem Schuldverhältnis nicht, nicht rechtzeitig oder nicht wie geschuldet erfüllt (§ 241 Abs. 1 BGB; BGH ständige Rechtsprechung)."
+**Beispiel:** "Eine Pflichtverletzung liegt vor, wenn der Schuldner eine ihm obliegende Pflicht aus dem Schuldverhältnis nicht, nicht rechtzeitig oder nicht wie geschuldet erfüllt (§ 241 Abs. 1 BGB; BGH ständige Rechtsprechung)."
 
 Das System gibt die Quelle der Definition an (Gesetz, BGH, EuGH, h.M.). Wenn die Definition unsicher ist, wird dies ausdrücklich markiert.
 
@@ -45,18 +43,18 @@ Das System gibt die Quelle der Definition an (Gesetz, BGH, EuGH, h.M.). Wenn die
 
 Der Sachverhalt wird unter die Definition subsumiert.
 
-**Struktur:** „Hier [hat A / liegt vor / fehlt es an]: [konkrete Sachverhaltsangabe des Nutzers]."
+**Struktur:** "Hier [hat A / liegt vor / fehlt es an]: [konkrete Sachverhaltsangabe des Nutzers]."
 
-**Beispiel:** „Hier hat V die Lieferpflicht aus § 433 Abs. 1 BGB nicht erfüllt, indem er die Ware trotz Fälligkeit am 01.03.2025 nicht geliefert hat (Nutzerangabe: keine Lieferung erfolgt)."
+**Beispiel:** "Hier hat V die Lieferpflicht aus § 433 Abs. 1 BGB nicht erfüllt, indem er die Ware trotz Fälligkeit am 01.03.2025 nicht geliefert hat (Nutzerangabe: keine Lieferung erfolgt)."
 
-**Kennzeichnung von Lücken:** Fehlt eine Tatsachenangabe, markiert das System das TBM als „offen" und listet auf, welche Beweise erforderlich sind.
+**Kennzeichnung von Lücken:** Fehlt eine Tatsachenangabe, markiert das System das TBM als "offen" und listet auf, welche Beweise erforderlich sind.
 
 ### Schritt 4 — Ergebnis
 
 Das System schließt mit einem Ergebnis für das jeweilige TBM:
-- „TBM [Name] ist erfüllt."
-- „TBM [Name] ist nicht erfüllt, weil [Grund]."
-- „TBM [Name] ist fraglich; Ergebnis hängt von weiteren Tatsachen / Beweisen / Auslegung ab."
+- "TBM [Name] ist erfüllt."
+- "TBM [Name] ist nicht erfüllt, weil [Grund]."
+- "TBM [Name] ist fraglich; Ergebnis hängt von weiteren Tatsachen / Beweisen / Auslegung ab."
 
 ## Gesamtergebnis
 
@@ -93,14 +91,6 @@ Ergebnis:
 TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Larenz/Canaris Methodenlehre der Rechtswissenschaft (Vier-Schritt-Methode — theoretisch)
-- Rüthers/Fischer/Birk Rechtstheorie (Subsumtionslehre — dogmatisch)
-- Grüneberg BGB Einl. (Anspruchsaufbau in der Praxis)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
-<!-- AUDIT 27.05.2026: BGH III ZR 42/19 entfernt — WRONG_TOPIC (echter Inhalt: Schadensersatz bei Verletzung einer Gerichtsstandsvereinbarung; kein Bezug zur Subsumtionsmethode). Kein Ersatz eingefuegt (kein passender BGH-Fall zur Vier-Schritt-Methode auf dejure.org auffindbar). -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

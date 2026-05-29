@@ -53,7 +53,7 @@ Unterschrift Geschäftsführer: __________________________
 
 ## Hinweise zur Verwendung
 
-- **Form**: Schriftlich oder textförmlich (E-Mail mit Eingangsbestätigung ausreichend, BeckOK StaRUG/Skauradszun, § 102 StaRUG Rn. 17).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Adressat**: Geschäftsleitung persönlich – nicht etwa nur Buchhaltung oder Prokurist.
 - **Konkretisierung**: Die Befunde 1–4 sind konkret und nachvollziehbar zu benennen; pauschale Hinweise genügen nicht (Pape/Schaltke, § 102 StaRUG Rn. 22).
 - **Aufbewahrung**: Original/Kopie in der Handakte; Empfangsbestätigung gesondert ablegen.
@@ -63,5 +63,5 @@ Unterschrift Geschäftsführer: __________________________
 - § 102 StaRUG (StaRUG vom 22.12.2020, BGBl. I S. 3256, in der jeweils geltenden Fassung)
 - §§ 15a, 15b, 17, 18, 19 InsO
 - Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 102 StaRUG Rn. 8–35
-- BeckOK StaRUG/Skauradszun, 8. Ed. (Stand 04.2025), § 102 StaRUG Rn. 10–22
-- BGH, Urt. v. 26.01.2017 – IX ZR 285/14, BGHZ 213, 374 Rn. 26 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

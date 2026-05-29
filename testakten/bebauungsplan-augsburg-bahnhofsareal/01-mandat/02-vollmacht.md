@@ -15,7 +15,7 @@ Maximilianstraße 47, 86150 Augsburg
 
 Ich bevollmächtige hiermit die Bevollmächtigten in der Angelegenheit
 
-> **Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West"** der Stadt Augsburg, Bekanntmachung 14. Juni 2024,
+> **Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West"** der Stadt Augsburg, Bekanntmachung 14. Juni 2024,
 
 mich zu vertreten und zwar insbesondere
 

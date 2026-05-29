@@ -1,6 +1,6 @@
 ---
 name: spam-und-massen-anfrage-filter
-description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Pruefraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker."
+description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker."
 ---
 
 # Spam-und-Massen-Anfrage-Filter
@@ -15,10 +15,7 @@ Dieser Skill erkennt und kennzeichnet eingehende E-Mails, die keine legitimen Ma
 4. Gibt es Zweifelsfaelle, bei denen die Sekretariatsmitarbeiterin manuell entscheiden soll?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Spam-Filter als zulaessige technisch-organisatorische Massnahme nach Art. 32 DSGVO; automatisierte Erkennung von Spam-Mustern ist berufsrechtlich unbedenklich.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — 419-Scam als Betrugsversuch: Kanzlei, die auf Vorschussbetrug-Anfragen antwortet, riskiert, in Betrug verwickelt zu werden; Erkennung und Nichtbearbeitung ist pflichtgemaess.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzlei hat kein Mandat gegenueber Spam-Absendern; Nichtbeantwortung ist berechtigt und begruendet keine Berufspflichtverletzung.
-- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — TOM nach Art. 32 DSGVO umfasst auch Spam-Erkennungssysteme fuer eingehende Kommunikation; Kanzlei muss unerwuenschte Nachrichten abfangen koennen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 32 DSGVO — TOM: Spam-Filter als Sicherheitsmassnahme fuer Kanzleikommunikation
@@ -26,19 +23,18 @@ Dieser Skill erkennt und kennzeichnet eingehende E-Mails, die keine legitimen Ma
 - § 43 BRAO — Sorgfaltspflicht: Ressourceneinsatz der Kanzlei darf auf legitime Anfragen beschraenkt werden
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: keine Verarbeitung von Spam-Daten
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 32 Rn. 1-25 (TOM: Sicherheitsanforderungen fuer Kanzleikommunikation)
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-20 (Sorgfaltspflicht: Selektion legitimer Mandantenanfragen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Spam-Muster-Katalog
 
 ### Kategorie 1: Klassischer 419-Scam (Vorschussbetrug)
 
 Kennzeichen:
 - Absender aus Drittländern, die nicht zum Sachverhalt passen
-- Schilderung großer Summen, die „transferiert" werden sollen
+- Schilderung großer Summen, die "transferiert" werden sollen
 - Anfrage nach Treuhandkonto, Bankkontodaten oder Vorleistungen
-- Formulierungen: „millions of dollars", „strictly confidential", „God bless you"
+- Formulierungen: "millions of dollars", "strictly confidential", "God bless you"
 - Regelmäßig schlechtes Deutsch oder maschinell übersetzter Text
 
 Aktion: `SPAM — 419-SCAM`
@@ -58,7 +54,7 @@ Aktion: `SPAM — MASSEN-ANFRAGE`
 Kennzeichen:
 - Angebotscharakter: Dienstleistungen, Produkte, Software für die Kanzlei
 - Opt-out-Link vorhanden
-- „Unsubscribe"- oder „Abbestellen"-Hinweis
+- "Unsubscribe"- oder "Abbestellen"-Hinweis
 - Absender ist erkennbar ein Unternehmen, nicht eine Privatperson
 
 Aktion: `KEIN-SPAM — WERBUNG` (gesonderter Kanal; kein Erstantwort-Prozess)
@@ -67,7 +63,7 @@ Aktion: `KEIN-SPAM — WERBUNG` (gesonderter Kanal; kein Erstantwort-Prozess)
 
 Kennzeichen:
 - Angebot von Kandidaten für offene Stellen
-- Formulierungen wie „Ich bin auf Ihr Unternehmen aufmerksam geworden"
+- Formulierungen wie "Ich bin auf Ihr Unternehmen aufmerksam geworden"
 - Anhänge mit Lebenslauf ohne Bezug zu einer Stellenausschreibung
 - Häufig über LinkedIn- oder XING-Weiterleitungen
 
@@ -86,9 +82,9 @@ Aktion: `SPAM — PHISHING` und: Hinweis an Kanzlei-IT
 ### Kategorie 6: Spamfilter-Umgehungsversuche
 
 Kennzeichen:
-- Wörter mit Ziffern statt Buchstaben: „R3cht", „An1walt"
+- Wörter mit Ziffern statt Buchstaben: "R3cht", "An1walt"
 - Unsichtbare Zeichen, übermäßige HTML-Formatierung
-- Betreff-Zeile in Großbuchstaben: „DRINGEND!!!" ohne Substanz
+- Betreff-Zeile in Großbuchstaben: "DRINGEND!!!" ohne Substanz
 - Mehrfache Leerzeichen oder Zeilenumbrüche zur Zeichentrennung
 
 Aktion: `SPAM — FILTER-UMGEHUNG`
@@ -109,14 +105,14 @@ SPAM-CHECK ERGEBNIS
 ===================
 Status:      [KLAR / VERDÄCHTIG / SPAM — TYP]
 Konfidenz:   [HOCH / MITTEL / NIEDRIG]
-Erkannte Muster: [Liste der erkannten Muster oder „keine"]
+Erkannte Muster: [Liste der erkannten Muster oder "keine"]
 Empfehlung:  [Normale Bearbeitung / Manuelle Prüfung / Aussortieren / IT-Meldung]
 ```
 
 ## Verhalten bei SPAM-Erkennung
 
 1. Keine Erstantwort generieren.
-2. Skeleton-Eintrag im CRM nur mit Status „SPAM" und Typ; keine vollständige Datenerfassung.
+2. Skeleton-Eintrag im CRM nur mit Status "SPAM" und Typ; keine vollständige Datenerfassung.
 3. Sekretariat erhält Hinweis mit Aussortierungsempfehlung.
 4. Bei Phishing: zusätzliche Meldung an die Kanzlei-IT.
 5. Bei VERDÄCHTIG (nicht eindeutig): Empfehlung zur manuellen Prüfung durch Rechtsanwalt oder erfahrene Mitarbeitende vor Beantwortung.

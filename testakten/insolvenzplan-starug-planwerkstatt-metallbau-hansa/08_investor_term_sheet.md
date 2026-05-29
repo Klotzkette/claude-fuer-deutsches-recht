@@ -3,7 +3,7 @@
 **Aktenzeichen:** MH-2026-001  
 **Datum:** 26. Mai 2026  
 **Version:** 0.3 (Verhandlungsstand)  
-**Parteien:** Nordlicht Turnaround Fonds GmbH & Co. KG (nachfolgend „Investor") und Metallbau Hansa GmbH (nachfolgend „Schuldnerin")  
+**Parteien:** Nordlicht Turnaround Fonds GmbH & Co. KG (nachfolgend "Investor") und Metallbau Hansa GmbH (nachfolgend "Schuldnerin")  
 **Status:** Nicht bindend; vorbehaltlich finaler Due-Diligence und Planbestätigung  
 
 ---

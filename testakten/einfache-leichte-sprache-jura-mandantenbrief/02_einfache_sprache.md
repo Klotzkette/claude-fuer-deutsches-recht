@@ -20,7 +20,7 @@ vielen Dank für Ihr Vertrauen. Wir schreiben Ihnen wegen des Bescheids vom Jobc
 
 ## Was steht in dem Bescheid?
 
-Das Jobcenter hat entschieden, wie viel Geld Sie für Miete und Heizung bekommen. Diese Geldleistung heißt „Kosten der Unterkunft und Heizung".
+Das Jobcenter hat entschieden, wie viel Geld Sie für Miete und Heizung bekommen. Diese Geldleistung heißt "Kosten der Unterkunft und Heizung".
 
 Das Jobcenter hat dabei Ihre Heizkosten nicht vollständig berücksichtigt. Sie haben dem Jobcenter im April 2026 Unterlagen zu Ihren Heizkosten geschickt. Darunter war:
 
@@ -47,7 +47,7 @@ Wir sind der Meinung: Das Jobcenter hat hier zwei Fehler gemacht.
 Wir empfehlen: Legen Sie Widerspruch ein.
 
 **Was bedeutet Widerspruch?**
-Sie sagen dem Jobcenter schriftlich: „Ich bin mit Ihrer Entscheidung nicht einverstanden. Bitte prüfen Sie den Bescheid noch einmal." Das Jobcenter muss dann seinen Bescheid erneut prüfen.
+Sie sagen dem Jobcenter schriftlich: "Ich bin mit Ihrer Entscheidung nicht einverstanden. Bitte prüfen Sie den Bescheid noch einmal." Das Jobcenter muss dann seinen Bescheid erneut prüfen.
 
 Wir können den Widerspruch für Sie schreiben und einreichen. Wir können außerdem Akteneinsicht beantragen. Das bedeutet: Wir fordern das Jobcenter auf, uns alle Unterlagen zu zeigen, die es bei seiner Entscheidung benutzt hat.
 
@@ -102,7 +102,7 @@ Sabine Muster, Rechtsanwältin
 | **Beratungshilfe** | Staatliche Unterstützung, damit Anwaltskosten nicht selbst gezahlt werden müssen. |
 | **Kosten der Unterkunft und Heizung (KdU)** | Das Geld, das das Jobcenter für Miete und Heizung zahlt. |
 | **SGB II** | Sozialgesetzbuch, zweites Buch — das Gesetz, das das Bürgergeld regelt. |
-| **Angemessenheit** | Das Jobcenter zahlt nur bis zu einer bestimmten Grenze. Was darüber liegt, gilt als „unangemessen". |
+| **Angemessenheit** | Das Jobcenter zahlt nur bis zu einer bestimmten Grenze. Was darüber liegt, gilt als "unangemessen". |
 
 ---
 

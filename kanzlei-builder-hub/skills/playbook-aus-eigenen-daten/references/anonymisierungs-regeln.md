@@ -21,19 +21,19 @@
 |---|---|
 | Datumsangaben | Pseudonymisierung relativ (`T0`, `T0+14`, `T0+30`) — absolute Daten nur, wenn rechtlich erforderlich (Fristbezug). |
 | Beträge | Auf nächsten 100/1.000-Schritt runden bei < 100.000 €, 10.000-Schritt darüber. |
-| Standorte | Stadt → Bundesland-Aggregat („Mandantin in NRW") außer wo Gerichtsstand entscheidend. |
-| Branchen | Auf Branchen-Cluster reduzieren (z. B. „Maschinenbau-Zulieferer" statt konkreter Firma). |
+| Standorte | Stadt → Bundesland-Aggregat ("Mandantin in NRW") außer wo Gerichtsstand entscheidend. |
+| Branchen | Auf Branchen-Cluster reduzieren (z. B. "Maschinenbau-Zulieferer" statt konkreter Firma). |
 | Mitarbeiterzahlen | Auf KSchG-relevante Schwellen reduzieren (`> 10`, `> 20`, `> 500`). |
 
 ## Stufe 3 — Inhaltliche Schutzfilter
 
 - **Geschäftsgeheimnisse** (i. S. v. § 2 Nr. 1 GeschGehG): jede explizite
-  Kennzeichnung als „vertraulich", „strictly confidential",
-  „Geschäftsgeheimnis" → automatischer Ausschluss der Passage aus dem
+  Kennzeichnung als "vertraulich", "strictly confidential",
+  "Geschäftsgeheimnis" → automatischer Ausschluss der Passage aus dem
   Spielbuch.
 - **Strafverfahren**: Verfahrensstand, Schuldfeststellungen,
   Persönlichkeitsdaten Beschuldigter werden vollständig entfernt
-  (BVerfG, Beschl. v. 25.11.1999 – 1 BvR 348/98, NJW 2000, 1859 Rn. 38;
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Schutz aus Art. 6 EMRK).
 - **Gesundheitsdaten** (Art. 9 DSGVO): Ersatz durch generische
   Beeinträchtigungsklassen, nie konkrete Diagnose.
@@ -57,13 +57,13 @@
 - BDSG § 26 Abs. 8 Satz 2 (anonymisiert ≠ pseudonymisiert).
 - § 43a Abs. 2 BRAO; § 203 Abs. 1 Nr. 3 StGB.
 - GeschGehG §§ 2, 3.
-- BGH, Urt. v. 13.07.2021 – VI ZR 128/20, NJW 2021, 2956 Rn. 17
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anonymisierungsmaßstab).
-- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, BVerfGE 113, 29 Rn. 99
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Vertrauensschutz Anwalt–Mandant).
 
 ## Kommentare
 
-- Buchner/Tinnefeld, in: Kühling/Buchner, DS-GVO BDSG, 4. Aufl. 2024,
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
   Art. 4 Nr. 5 Rn. 8 (Pseudonymisierung vs. Anonymisierung).
-- Henssler, in: Henssler/Prütting, BRAO, 6. Aufl. 2024, § 43a Rn. 41 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

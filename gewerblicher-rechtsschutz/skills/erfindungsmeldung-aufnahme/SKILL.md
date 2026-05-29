@@ -1,6 +1,6 @@
 ---
 name: erfindungsmeldung-aufnahme
-description: "Mitarbeiter meldet eine Erfindung oder Unternehmen prueft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Pruefraster: Neuheit erfinderische Taetigkeit technischer Charakter EPUe Schutzfaehigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung)."
+description: "Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung)."
 ---
 
 # Erfindungseingang — Erstprüfung
@@ -40,23 +40,20 @@ Bei formeller Erfindungsmeldung (IDF oder Unternehmensformular): Felder daraus e
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 11.02.2014 – X ZR 107/12, GRUR 2014, 647 (Bildunterschrift II) — Neuheitsschädlichkeit von Internetpublikationen; maßgeblicher Zeitpunkt der öffentlichen Zugänglichkeit
-- BGH, Urt. v. 26.10.2010 – X ZR 47/07, GRUR 2011, 129 (Lernspiele) — Abgrenzung technische Lehre / abstrakte Idee; Anforderungen an den technischen Charakter
-- BGH, Urt. v. 17.10.2001 – X ZR 58/99, BGHZ 149, 68 (Luftverteiler) — Arbeitnehmererfindung: Abgrenzung Dienst- und freie Erfindung; Meldepflicht nach § 5 ArbnErfG
-- BGH, Urt. v. 16.04.2002 – X ZR 127/99, GRUR 2002, 801 (Abgestuftes Getriebe) — Berechnung der Arbeitnehmererfindervergütung; Anteilsfaktor
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
 - Benkard/Melullis, PatG, 12. Aufl. 2023, § 3 Rn. 1 ff. (Neuheitsbegriff, Stand der Technik)
 - Bartenbach/Volz, ArbnErfG, 6. Aufl. 2019, § 5 Rn. 1 ff. (Meldepflicht und Form) und § 9 Rn. 1 ff. (Vergütung)
 - Mes, PatG/GebrMG, 5. Aufl. 2020, § 1 Rn. 20 ff. (technischer Charakter, Software- und KI-Erfindungen)
-- BeckOK PatR/Bremi, 30. Ed. (Stand 01.01.2025), Art. 56 EPÜ Rn. 10 ff. (Aufgabe-Lösungs-Ansatz EPA)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
 ### Schritt 1: Meldung aufnehmen
 
-Vorliegende Erfindungsmeldung vollständig lesen. Fehlen Angaben: Rückfragen gemäß Abschnitt „Eingaben" in einem Durchgang stellen. Unvollständige Meldungen nicht screenen — ein Screening von „einer neuen KI-Lösung für X" ohne technische Substanz ist schlechter als kein Screening.
+Vorliegende Erfindungsmeldung vollständig lesen. Fehlen Angaben: Rückfragen gemäß Abschnitt "Eingaben" in einem Durchgang stellen. Unvollständige Meldungen nicht screenen — ein Screening von "einer neuen KI-Lösung für X" ohne technische Substanz ist schlechter als kein Screening.
 
 **Arbeitnehmererfindung prüfen:** Wenn der Erfinder Arbeitnehmer ist, zunächst klären: Handelt es sich um eine Diensterfindung (§ 4 Abs. 2 ArbnErfG: Entstehung aus dem Arbeitverhältnis oder wesentlich auf betriebliche Erfahrungen/Tätigkeiten beruhend)? Wenn ja: Meldepflicht nach § 5 ArbnErfG auslösen und Inanspruchnahmefrist (4 Monate, § 6 Abs. 1) dokumentieren.
 
@@ -67,8 +64,8 @@ Jeden Schirm in der Reihenfolge abarbeiten. Ergebnis je Schirm: `✓ grün`, `�
 #### Schirm 1: Neuheitssignale (§ 3 PatG, Art. 54 EPÜ)
 
 **Rote Flaggen (🔴):**
-- „Wir haben [bekannte Technik] auf [neues Gebiet] angewandt" — Anwendung bekannter Methoden ohne technische Besonderheit
-- „Wettbewerber machen etwas Ähnliches" — Beschreibung selbst stellt Neuheit in Frage
+- "Wir haben [bekannte Technik] auf [neues Gebiet] angewandt" — Anwendung bekannter Methoden ohne technische Besonderheit
+- "Wettbewerber machen etwas Ähnliches" — Beschreibung selbst stellt Neuheit in Frage
 - Merkmal findet sich bereits in öffentlich zugänglichen Produkten, Publikationen oder Patenten
 
 **Grüne Flaggen (✓):**
@@ -83,7 +80,7 @@ EPA-Prüfungsansatz: Aufgabe-Lösungs-Ansatz. Würde ein Fachmann ausgehend vom 
 **Rote Flaggen (🔴):**
 - Kombinieren bekannter Elemente auf vorhersehbare Weise (predictable combination)
 - Routinemäßige Optimierung bekannter Parameter ohne überraschenden Effekt
-- „Obvious to try" — eine aus wenigen naheliegenden Alternativen ohne Hindernis
+- "Obvious to try" — eine aus wenigen naheliegenden Alternativen ohne Hindernis
 
 **Grüne Flaggen (✓):**
 - Stand der Technik lehrte vom Lösungsweg ab (teaching away)
@@ -92,7 +89,7 @@ EPA-Prüfungsansatz: Aufgabe-Lösungs-Ansatz. Würde ein Fachmann ausgehend vom 
 
 #### Schirm 3: Technischer Charakter und Schutzfähigkeit (Art. 52 EPÜ, § 1 PatG)
 
-Software, KI/ML und Geschäftsmethoden: Nicht per se ausgeschlossen, aber technischer Charakter muss vorliegen. EPA: „technical character" — weitgehend jeder Bezug zur Technik genügt; Abgrenzung gilt auf der Ebene der erfinderischen Tätigkeit.
+Software, KI/ML und Geschäftsmethoden: Nicht per se ausgeschlossen, aber technischer Charakter muss vorliegen. EPA: "technical character" — weitgehend jeder Bezug zur Technik genügt; Abgrenzung gilt auf der Ebene der erfinderischen Tätigkeit.
 
 **Rote Flaggen (🔴):**
 - Reine Geschäftsmethode ohne technische Umsetzung
@@ -206,7 +203,7 @@ Kein internes Arbeitsnarrativ im Vermerk. Der Vermerk ist sofort verwendbar.
 
 ## Beispiel
 
-**Eingabe:** „Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
+**Eingabe:** "Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
 
 **Ergebnis (Beispiel):**
 
@@ -227,7 +224,7 @@ Kein internes Arbeitsnarrativ im Vermerk. Der Vermerk ist sofort verwendbar.
 
 - **Neuheitsschädliche Vorveröffentlichung übersehen:** Jede öffentliche Zugänglichmachung vor Anmeldetag zerstört die Patentierbarkeit weltweit (außer engen Ausnahmefällen). Eine Schonfrist für Vorveröffentlichungen gilt nicht.
 - **ArbnErfG-Fristen versäumen:** Die 4-Monats-Inanspruchnahmefrist (§ 6 Abs. 1 ArbnErfG) läuft automatisch. Nicht im Fristenbuch eingetragen = Freigabe der Erfindung.
-- **Patentierbarkeit bestätigen:** Die Skill trifft keine Patentierbarkeitsaussage. „Besteht die Erstprüfung" ist nicht „patentierbar".
+- **Patentierbarkeit bestätigen:** Die Skill trifft keine Patentierbarkeitsaussage. "Besteht die Erstprüfung" ist nicht "patentierbar".
 - **Erkennbarkeitsfrage ignorieren:** Ein Patent auf eine nicht erkennbare Verletzungsform veröffentlicht das Know-how ohne Durchsetzungsmöglichkeit.
 - **KI/Software-Erfindungen: technischen Charakter unterschätzen:** Der EPA bewertet technischen Charakter weit; nicht vorschnell ablehnen.
 
@@ -250,12 +247,11 @@ Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 16.04.2013 — X ZR 49/12 (Fahrzeuggetriebesteuerung):** Eine erfinderische Taetigkeit liegt vor, wenn der Fachmann ausgehend vom naechstliegenden Stand der Technik nicht in naheliegender Weise zur beanspruchten Loesung gelangt waere; die Aufgabe-Loesung-Methode (Problem-and-Solution-Approach) des EPA ist auch vor deutschen Gerichten anerkannt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG ist jedes Merkmal des Anspruchs einzeln mit dem Stand der Technik zu vergleichen; eine Kombination von Merkmalen ist neu, wenn sie als Kombination nicht in einer einzigen Entgegenhaltung offenbart ist.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur
-Problem: BAG 7 AZR 524/10 (Datum 21.12.2011) nicht auffindbar auf dejure.org; Aktenzeichen existiert nicht.
 Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
 -->

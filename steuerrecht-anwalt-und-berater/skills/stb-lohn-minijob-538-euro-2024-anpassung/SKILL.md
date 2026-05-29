@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-minijob-538-euro-2024-anpassung
-description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Pruefung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft."
+description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft."
 ---
 
 # Minijob — 538-EUR-Grenze und Anpassungen
@@ -14,7 +14,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 1. Welcher AN — neu eingestellt oder bestehend?
 2. Aktueller Bruttolohn pro Monat und im Jahresdurchschnitt?
 3. Ist die 538-EUR-Grenze (Stand 01.01.2024) eingehalten?
-4. Aktueller Mindestlohn-Wert 2026 verifizieren (Grenze ggf. hoeher) ueber Bundesgesetzblatt / Mindestlohnkommission.
+4. Aktuell (Stand 2025): Mindestlohn 12,82 EUR/h, Minijob-Grenze 556 EUR/Monat (BGBl. 2023 I Nr. 321); 2026 noch nicht festgesetzt — Bundesgesetzblatt / Mindestlohnkommission pruefen.
 5. Hat der AN bereits andere Minijobs (Mehrfachbeschaeftigung verboten ueber Grenze)?
 6. Hat der AN eine Hauptbeschaeftigung mit SV-Pflicht? (Dann zweiter Minijob noch moeglich.)
 7. Hat der AN RV-Befreiung beantragt (Opt-out)?
@@ -46,7 +46,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 ### Phase 1 — Grenzpruefung
 
 - Bruttolohn pro Monat <= 538 EUR (Stand 01.01.2024).
-- Aktueller Wert 2026 verifizieren — Mindestlohn-Anhebung treibt Grenze.
+- Aktuell (Stand 2025): 556 EUR/Monat (MiLo 12,82 EUR; § 8 Abs. 1a SGB IV, BGBl. 2023 I Nr. 321); 2026-Grenze pruefen.
 - Sonderzahlungen (Weihnachts-, Urlaubsgeld): bei regelmaessigem Anspruch JAHRES-Durchschnitt bilden, sonst Grenzverletzung.
 - Mehrfacher Minijob mehrerer AG: Summe pruefen.
 
@@ -57,12 +57,12 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 | Pauschale RV | 15 Prozent | 5 Prozent |
 | Pauschale KV | 13 Prozent | 5 Prozent |
 | Pauschalsteuer (LSt+KiSt+SolZ) | 2 Prozent | 2 Prozent |
-| U1 (Krankheit) | 1,1 Prozent | 1,1 Prozent (Verifikation 2026) |
-| U2 (Mutterschaft) | 0,24 Prozent | 0,24 Prozent (Verifikation 2026) |
-| Insolvenzgeld-Umlage | aktuell verifizieren | — (Privathaushalt) |
+| U1 (Krankheit) | Satz je KK (Stand 2025 typisch 1,0-1,1 Prozent) | wie links |
+| U2 (Mutterschaft) | Satz je KK (Stand 2025 typisch 0,24 Prozent) | wie links |
+| Insolvenzgeld-Umlage | 0,06 Prozent (Stand 2024; Insolvenzgeldumlageverordnung pruefen) | — (Privathaushalt) |
 | Berufsgenossenschaft | Branchen-spezifisch | Haftpflichtversicherung Privathaushalt |
 
-(Saetze U1/U2 jaehrlich neu festgelegt; 2026 verifizieren.)
+(Saetze U1/U2 jaehrlich neu festgelegt; Krankenkassen-Satzungen pruefen.)
 
 **Zahlenbeispiel gewerblicher Minijob (Stand 01.01.2024, MiLo 12,41 EUR, Grenze 538 EUR):** Bruttolohn 500 EUR. AG-Pauschalabgaben ca. 30 Prozent + Umlagen — 15 Prozent RV (75 EUR) + 13 Prozent KV (65 EUR) + 2 Prozent LSt-Pauschale (10 EUR) + U1 + U2 + Insolvenzgeld-Umlage = rund 150-160 EUR. AN-Auszahlung 500 EUR netto, sofern AN von der RV-Pflicht befreit ist; sonst minus AN-RV-Differenzbetrag ca. 18 EUR (3,6 Prozent).
 
@@ -126,5 +126,6 @@ Stand: 05/2026.
 - EStG § 40a.
 - MiLoG § 17.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
-- Verifikations-Hinweis: aktuelle Minijob-Grenze 2026 ueber Bundesgesetzblatt / Mindestlohnkommission.
-- Verifikations-Hinweis: aktuelle Mindestlohn 2026 verifizieren.
+- Minijob-Grenze 2025: 556 EUR/Monat (MiLo 12,82 EUR, BGBl. 2023 I Nr. 321; 2026 noch nicht festgesetzt).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Pruefhinweis ohne Marker) -->

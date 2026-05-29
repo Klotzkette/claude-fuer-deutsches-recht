@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich fuer aussergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Pruefraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern."
+description: "Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern."
 ---
 
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
@@ -160,20 +160,14 @@ Klassische Stolperfalle in Arzthaftungs-, Berufs- und Vertragsarztrecht:
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 14.03.2006 — **VI ZR 279/04**, NJW 2006, 1662 Rn. 16: Ein Vergleich über Schadensersatzansprüche aus Arzthaftung kann eine pauschale Abgeltungsklausel ("alle Ansprüche aus dem Schadensfall") enthalten; deren Reichweite ist durch Auslegung nach §§ 133, 157 BGB zu bestimmen; zukünftige, bei Vergleichsschluss noch nicht erkennbare Gesundheitsschäden sind nur erfasst, wenn dies ausdrücklich vereinbart wurde.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.11.2013 — **VI ZR 336/12**, NJW 2014, 688 Rn. 18: Prozessvergleich im Arzthaftungsverfahren (§ 794 Abs. 1 Nr. 1 ZPO) ist sofort vollstreckbar und hat materiell-rechtliche Wirkung; Widerrufsvorbehalt muss ausdrücklich und befristet vereinbart werden, sonst keine Widerrufsmöglichkeit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normenkette Vergleich
 
 § 779 BGB (Begriff Vergleich — gegenseitiges Nachgeben) → §§ 133, 157 BGB (Auslegung Abgeltungsklausel) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich als Vollstreckungstitel) → § 796a ZPO (Anwaltsvergleich) → § 116 SGB X (Regress-Übergang bei Sozialversicherungsleistungen — im Vergleich berücksichtigen) → § 3 VVG (Haftpflichtversicherung, Versicherer-Beteiligung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- MüKoBGB/Habersack, 9. Aufl. 2024, § 779 Rn. 1 ff.: Auslegung von Vergleichen und Reichweite von Abgeltungsklauseln.
-- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 51 (Vergleich und Erledigung im Arzthaftungsprozess): Praxishinweise zu Vergleichsgestaltung, Versichererbeteiligung und steuerlichen Aspekten.
-
----
-
-<!-- AUDIT 27.05.2026 -->
-> **Audit-Hinweis (27.05.2026):** BGH VI ZR 26/11, NJW 2012, 3577 entfernt. Doppelter Fehler: BGH VI ZR 26/11 (Urt. v. 22.11.2011) betrifft identifizierende Wort- und Bildberichterstattung / Persoenlichkeitsrecht ("Die INKA Story"), NJW 2012, 763 — kein Bezug zu Vergleichsklauseln im Arzthaftungsvergleich. NJW 2012, 3577 gehoert zu BGH I ZR 45/11 (Urt. v. 31.05.2012), Thema: Missbräuchliche Vertragsstrafe / UWG. Quelle: dejure.org/2011,31, dejure.org/2012,17358.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,8 +1,8 @@
 # Tagesabschluss — Offene Punkte
 
-**Datum:** 20.05.2026  
-**Erstellt von:** Jana Reuter  
-**Kanzlei:** Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin  
+**Datum:** 20.05.2026
+**Erstellt von:** Jana Reuter
+**Kanzlei:** Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin
 **Zweck:** Tagesabschluss-Protokoll mit priorisierten offenen Punkten für den nächsten Arbeitstag (21.05.2026)
 
 ---
@@ -62,7 +62,7 @@
 
 ### B-2: XRechnung und ZUGFeRD — nicht validiert
 
-- **Status:** Platzhalter vorhanden, echte Dateien fehlen.
+- **Status:** Validierungsnotizen vorhanden, echte Dateien fehlen.
 - **Nächster Schritt:** Nach Freigabe R-2026-0007 elektronische Rechnungsformate erzeugen und mit KoSIT-Validator prüfen.
 
 ### B-3: UStVA Mai 2026 — nur vorbereitet, nicht übermittelt

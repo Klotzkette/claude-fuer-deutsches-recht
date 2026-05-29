@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung
-description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Pruefraster Monatsfrist Anfechtungsgruende ordnungsmaessige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Ueberschneidung) und miet-weg-mediation (aussergerichtlich)."
+description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ordnungsmäßige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Überschneidung) und miet-weg-mediation (außergerichtlich)."
 ---
 
 # WEG-Beschlussanfechtung (§ 44 WEG)
@@ -33,12 +33,7 @@ description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfe
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 16.09.2022 — **V ZR 69/21** (BGHZ 234, 252): Beschlussanfechtung nach reformiertem WEG (WEMoG); Klage gegen GdWE.
-- BGH, Urt. v. 09.07.2010 — **V ZR 202/09**: ordnungsmäßige Verwaltung als Anfechtungsmaßstab.
-- BGH, Urt. v. 13.07.2012 — **V ZR 254/11**: Klagebegründungsfrist § 45 Satz 2 WEG — Ausschlussfrist; Verlängerung nur in eng begrenzten Ausnahmen.
-- BGH, Urt. v. 23.08.2019 — **V ZR 195/17**: fehlende Beschlusskompetenz = Nichtigkeit.
-- BGH, Beschl. v. 17.01.2019 — **V ZB 121/18**: Streitwert § 49 GKG.
-- BGH, Urt. v. 27.10.2023 — **V ZR 79/22**: WEG-Reform-Anwendung; aktuelle Klagerichtung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -222,6 +217,6 @@ nichtig festzustellen.
 
 - WEG §§ 9a, 9b, 10, 19, 23–25, 44, 45
 - GKG § 49
-- BGH V ZR 69/21; V ZR 202/09; V ZR 254/11; V ZR 195/17; V ZB 121/18; V ZR 79/22
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG, aktuelle Aufl.

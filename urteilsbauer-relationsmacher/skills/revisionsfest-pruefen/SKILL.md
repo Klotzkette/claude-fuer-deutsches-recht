@@ -1,13 +1,13 @@
 ---
 name: revisionsfest-pruefen
-description: "Pruefung gegen Aufhebung in der Revision: absolute Revisionsgruende Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begruendungstiefe Beweiswuerdigung Vollstaendigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstpruefliste vor Urteilsversand."
+description: "Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstprüfliste vor Urteilsversand."
 ---
 
 # Revisionsfestigkeit prüfen
 
 ## Zweck
 
-Bei LG- und OLG-Endurteilen, gegen die Revision möglich ist (Paragraf 542 ZPO), muss das Urteil so geschrieben sein, dass es einer Prüfung durch den BGH standhaelt. „Revisionsfest" ist das Urteil, wenn es weder einen absoluten Revisionsgrund (Paragraf 547 ZPO) noch eine Verletzung von materiellem oder Verfahrensrecht im Sinne der Paragrafen 545, 546 ZPO erkennen laesst, das die Aufhebung tragen koennte.
+Bei LG- und OLG-Endurteilen, gegen die Revision möglich ist (Paragraf 542 ZPO), muss das Urteil so geschrieben sein, dass es einer Prüfung durch den BGH standhaelt. "Revisionsfest" ist das Urteil, wenn es weder einen absoluten Revisionsgrund (Paragraf 547 ZPO) noch eine Verletzung von materiellem oder Verfahrensrecht im Sinne der Paragrafen 545, 546 ZPO erkennen laesst, das die Aufhebung tragen koennte.
 
 Dieser Skill liefert die Selbstprüfung **vor** Verkündung — nicht erst, wenn die Revisionsbegründung schon vorliegt.
 
@@ -18,7 +18,7 @@ Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es a
 1. **Nicht vorschriftsmaessige Besetzung** des Gerichts (Nr. 1)
    - Geschäftsverteilungsplan eingehalten?
    - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
-   - BGH NJW 2018, 2055 Rn. 7 zur erforderlichen Begründung der Übertragung
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Mitwirkung eines ausgeschlossenen Richters** (Nr. 2)
    - Selbst-Ausschluss Paragraf 41 ZPO geprüft (Verwandtschaft, Voreintragung)
 3. **Mitwirkung eines mit Erfolg abgelehnten Richters** (Nr. 3)
@@ -30,7 +30,7 @@ Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es a
    - Keine Entscheidungsgründe überhaupt
    - Gründe lassen die wesentliche Erwaegung nicht erkennen
    - Widerspruch zwischen Tatbestand und Gründen
-   - BGH NJW 2019, 1517 Rn. 13: Bei Klageabweisung muss erkennbar sein, dass alle in Betracht kommenden Anspruchsgrundlagen geprüft wurden
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 2) Verfahrensrecht — Paragraf 545 ZPO
 
@@ -51,7 +51,7 @@ Die Beweiswürdigung muss erkennen lassen:
 - **wie** das Gericht zur Überzeugung gelangt ist
 - **warum** Gegenbeweise nicht durchgreifen
 
-BGH NJW-RR 2020, 939 Rn. 14: „Die Beweiswürdigung muss sich mit allen wesentlichen Umständen auseinandersetzen, die der Würdigung des Gerichts entgegenstehen koennten."
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 3) Materielles Recht — Paragraf 546 ZPO
 
@@ -80,8 +80,8 @@ Der BGH ist an die festgestellten Tatsachen gebunden, soweit nicht
 ### Vermeiden
 
 - **Lücken im Tatbestand.** Was nicht festgestellt ist, kann der BGH nicht annehmen.
-- **Widerspruch Tatbestand <-> Gründe.** Wenn der Tatbestand „A war anwesend" sagt, kann die Beweiswürdigung nicht „A war nicht anwesend" feststellen.
-- **Pauschale Tatsachen.** „Der Kläger wurde haeufig provoziert" ist keine Tatsachenfeststellung, sondern eine Wertung.
+- **Widerspruch Tatbestand <-> Gründe.** Wenn der Tatbestand "A war anwesend" sagt, kann die Beweiswürdigung nicht "A war nicht anwesend" feststellen.
+- **Pauschale Tatsachen.** "Der Kläger wurde haeufig provoziert" ist keine Tatsachenfeststellung, sondern eine Wertung.
 
 ## 5) Revisionszulassung — Paragraf 543 ZPO
 
@@ -107,7 +107,7 @@ mit Begründung in den Entscheidungsgründen — z.B.:
 ```
 Die Revision wird zugelassen, weil die Frage,
 ob [...], in der obergerichtlichen Rechtsprechung
-unterschiedlich beantwortet wird (vgl. OLG ..., NJW 2024,
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ... und OLG ..., NJW-RR 2023, ...), und damit die
 Sicherung einer einheitlichen Rechtsprechung im Sinne des
 Paragraf 543 II Nr. 2 Alt. 2 ZPO eine Entscheidung
@@ -121,18 +121,13 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 ## 6) Aktuelle BGH-Linien zu typischen Fallen
 
 ### Begründungsmangel
-- BGH NJW 2019, 1517 Rn. 13: Klageabweisungsurteil ohne Prüfung aller in Betracht kommenden Anspruchsgrundlagen
-- BGH NJW-RR 2021, 1265 Rn. 8: Widerspruch zwischen Tatbestand und Entscheidungsgründen
-- BGH NJW 2022, 1234 Rn. 11: Fehlende Auseinandersetzung mit substanziiertem Parteivortrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtliches Gehoer
-- BVerfG NJW 2020, 1492: Überraschungsentscheidung bei tragender Erwaegung
-- BGH NJW 2023, 56 Rn. 9: Hinweispflicht bei Abweichung von der Klägerseiten-Auffassung
-- BGH NJW-RR 2021, 1456 Rn. 7: Präklusion bedarf konkreter Verspätungsfeststellung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beweiswürdigung
-- BGH NJW-RR 2020, 939 Rn. 14: Vollständigkeit der Würdigung
-- BGH NJW 2022, 765 Rn. 12: Glaubhaftigkeitsbeurteilung bei Aussage gegen Aussage
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 7) Selbstpruefliste vor Urteilsversand
 

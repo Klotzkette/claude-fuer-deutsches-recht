@@ -1,6 +1,6 @@
 ---
 name: lesefassung-konsolidiert
-description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttreten. Format-Konventionen Inkrafttretens-Handling Verweis-Pflege DOCX-Ausgabe. Output Lesefassung pro Stammgesetz bereinigt datiert. Abgrenzung zu synopse-erstellen Gegenueberestellung alt und neu."
+description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttreten. Format-Konventionen Inkrafttretens-Handling Verweis-Pflege DOCX-Ausgabe. Output Lesefassung pro Stammgesetz bereinigt datiert. Abgrenzung zu synopse-erstellen Gegenüberestellung alt und neu."
 ---
 
 # Lesefassung konsolidiert
@@ -9,11 +9,11 @@ description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkra
 
 ## Zweck
 
-Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gültigen Form — **ohne** Änderungsmarkierung, **mit** allen Änderungen eingearbeitet. Adressaten (Bürger, Unternehmen) und Vollzugsbehörden brauchen diese Fassung, um zu sehen, „wie es ab Tag X heisst", ohne den Änderungs-Diff lesen zu müssen.
+Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gültigen Form — **ohne** Änderungsmarkierung, **mit** allen Änderungen eingearbeitet. Adressaten (Bürger, Unternehmen) und Vollzugsbehörden brauchen diese Fassung, um zu sehen, "wie es ab Tag X heisst", ohne den Änderungs-Diff lesen zu müssen.
 
 Komplementär zu:
 - **Synopse**: zeigt alt vs. neu in zwei Spalten
-- **Änderungsanordnung**: zeigt die Änderung als Befehl („Paragraf 3 Absatz 2 wird wie folgt geändert: ...")
+- **Änderungsanordnung**: zeigt die Änderung als Befehl ("Paragraf 3 Absatz 2 wird wie folgt geändert: ...")
 - **Lesefassung**: zeigt das fertige neue Gesetz
 
 ## 1) Inhalte pro Datei
@@ -64,7 +64,7 @@ Bis zum [Datum] gilt die vorherige Fassung (siehe Aenderungsanordnung vom ...).
 
 ### Stand und Datum
 
-Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten mehrere Lesefassungen erstellen (z.B. „Lesefassung Stand 01.01.2026" und „Lesefassung Stand 01.07.2026").
+Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten mehrere Lesefassungen erstellen (z.B. "Lesefassung Stand 01.01.2026" und "Lesefassung Stand 01.07.2026").
 
 ## 3) Prüfliste vor Freigabe
 
@@ -78,7 +78,7 @@ Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten
 ### Konsistenz
 
 - [ ] Numerierung konsistent (keine doppelten Paragrafen, keine Lücken)
-- [ ] Verweise innerhalb des Gesetzes aktualisiert (z.B. „Paragraf 3 Absatz 4" stimmt jetzt, nachdem Absatz 3 weggefallen ist)
+- [ ] Verweise innerhalb des Gesetzes aktualisiert (z.B. "Paragraf 3 Absatz 4" stimmt jetzt, nachdem Absatz 3 weggefallen ist)
 - [ ] Verweise auf externe Normen aktualisiert (z.B. wenn EuGVVO geändert wurde, deren Verweise aktualisieren)
 - [ ] Begriffsdefinitionen konsistent (wenn `Verbraucher` neu definiert ist, überall der neue Begriff)
 
@@ -98,7 +98,7 @@ Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten
 ## 4) Typische Fehler
 
 1. **Inkrafttretens-Verschachtelung übersehen.** Wenn das Änderungsgesetz mehrere Inkrafttretens-Daten hat (typisch bei Übergangsregelungen), braucht es mehrere Lesefassungen.
-2. **Verweise nicht nachgezogen.** Wenn Paragraf 3 Absatz 3 entfaellt, muss in Paragraf 7 der Verweis auf „Paragraf 3 Absatz 3" angepasst werden.
+2. **Verweise nicht nachgezogen.** Wenn Paragraf 3 Absatz 3 entfaellt, muss in Paragraf 7 der Verweis auf "Paragraf 3 Absatz 3" angepasst werden.
 3. **Anlagen vergessen.** Bei BGBl-Veröffentlichung sind Anlagen oft separat — leicht zu übersehen.
 4. **Standard-Header fehlt.** Adressaten müssen erkennen koennen, **welcher** Stand vorliegt.
 5. **DOCX mit Track Changes ausgegeben.** Lesefassung ist per Definition ohne Änderungsmarkierung — Word-Datei vor Export bereinigen.
@@ -123,22 +123,12 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 - `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Übergangsregelungen
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 15.01.2002 — 1 BvR 1783/99, BVerfGE 104, 357 Rn. 25 — Normenklarheits-Gebot erfordert, dass Buerger und Gerichte Geltungsinhalt eines Gesetzes ohne unzumutbaren Aufwand ermitteln koennen; unuebersichtliche Aenderungskette kann Normenklarheit verletzen
-- BVerwG, Urt. v. 28.07.2011 — 2 C 28.10, NVwZ 2012, 26 — Lesefassung als Hilfsmittel hat keine eigenstaendige Rechtswirkung; Geltung richtet sich stets nach dem im BGBl. veroeffentlichten Originaltext; abweichende Lesefassung begrundet keine Rechte
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 82 GG (Ausfertigung und Verkuendung) — § 1 BGBlG (Bundesgesetzblatt als amtliche Quelle) — §§ 1-5 NormDokVO (Normdokumentations-Verordnung) — Art. 20 Abs. 3 GG (Normklarheit als Rechtsstaatsprinzip)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 82 Rn. 1 ff. (Verkuendung, Normursprungs-Frage)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 7 Rn. 1 ff. (Normfassung, Konsolidierung)
-
----
-<!-- AUDIT 27.05.2026 | Bundle 036
-Entfernt: BGH VIII ZR 233/15 (26.04.2017) — WRONG_TOPIC.
-Echtes Thema: SIS-Fahndungsausschreibung als Rechtsmangel beim Gebrauchtwagenkauf (NJW 2017, 3292).
-Behauptetes Thema: Kollision Originalgesetz vs. nichtamtliche Lesefassung (NJW 2017, 2268) — falsch; diese Fundstelle gehoert nicht zu VIII ZR 233/15.
-Aktion: Eintrag geloescht.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

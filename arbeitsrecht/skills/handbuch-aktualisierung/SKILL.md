@@ -1,6 +1,7 @@
 ---
 name: handbuch-aktualisierung
-description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt „Handbuch aktualisieren\", „neue Regelung einpflegen\" oder „Richtlinie ändern\"."
+description: 'Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt "Handbuch aktualisieren", "neue Regelung einpflegen" oder "Richtlinie ändern".'
+
 ---
 
 # Personalhandbuch-Aktualisierung (Arbeitsrecht)
@@ -44,27 +45,27 @@ Folgewirkungen systematisch geprüft werden sollen.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 11.04.2006 – 9 AZR 557/05, NZA 2006, 1149 Rn. 20 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Wirksame Einbeziehung von Personalhandbuch-Regelungen durch Bezugnahmeklausel
   im Arbeitsvertrag; AGB-Kontrolle; Maßstab der überraschenden Klausel
   nach § 305c Abs. 1 BGB
-- BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 Rn. 31:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verschlechterung einer durch betriebliche Übung entstandenen
   Leistungsverpflichtung — einseitige Abänderung unwirksam; Änderungskündigung
   als richtiger Weg; Vertrauensschutz der Arbeitnehmer
-- BAG, Urt. v. 23.01.2018 – 1 AZR 65/17, NZA 2018, 735 Rn. 16 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Mitbestimmung des Betriebsrats bei einseitiger Änderung betrieblicher
   Regelungen, die in den Bereich des § 87 BetrVG fallen; Einigungsstellenverfahren
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Kania, in: ErfK, 25. Aufl. 2025, § 87 BetrVG Rn. 1:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Katalog erzwingbarer Mitbestimmungsrechte; Reichweite der Mitbestimmung
   bei Regelungsänderungen
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 200:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle
   und Transparenzgebot im Arbeitsverhältnis
-- Thüsing, in: HWK, 11. Aufl. 2024, § 2 NachwG Rn. 10:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Nachweispflicht bei Änderungen wesentlicher Arbeitsbedingungen,
   Formerfordernis und Folgen der Verletzung
 
@@ -90,7 +91,7 @@ Zeige den Vergleich:
 Durchsuche das Personalhandbuch nach Bezügen auf den geänderten Abschnitt:
 
 - Andere Regelungen, die auf diesen Abschnitt verweisen
-  („zur Urlaubsabgeltung siehe Abschnitt …")
+  ("zur Urlaubsabgeltung siehe Abschnitt …")
 - Definierte Begriffe, die dieser Abschnitt verwendet oder definiert
 - Standort- oder tarifvertragliche Sonderregelungen, die diesen Abschnitt
   modifizieren
@@ -124,13 +125,13 @@ Wird durch die Änderung eine bislang gewährte Leistung reduziert oder gestrich
 
 Falls ja: Risikokennzeichnung. In der Rechtsprechung können Handbuchregelungen
 als vertragliche Vereinbarung oder betriebliche Übung bindend sein
-(vgl. BAG, Urt. v. 12.01.2005 – 5 AZR 364/04). Eine Verschlechterung kann
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 eine Änderungskündigung oder eine Mitarbeiterinformation mit Zustimmungserfordernis
 erfordern. Nicht blockieren — kennzeichnen.
 
 **Schritt 7 — Nachweispflicht**
 
-Prüfe, ob die geänderte Regelung eine „wesentliche Arbeitsbedingung" i. S. d.
+Prüfe, ob die geänderte Regelung eine "wesentliche Arbeitsbedingung" i. S. d.
 § 2 Abs. 1 NachwG darstellt. Falls ja: Informationspflicht gegenüber den
 betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
@@ -149,7 +150,7 @@ betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
 ### Mitbestimmung
 [Falls § 87 BetrVG betroffen: Tatbestand und erforderliches Vorgehen]
-[Falls nicht betroffen: „Kein erzwingbares Mitbestimmungsrecht betroffen"]
+[Falls nicht betroffen: "Kein erzwingbares Mitbestimmungsrecht betroffen"]
 
 ### Standortspezifische Auswirkungen
 | Standort | Bestehende Betriebsvereinbarung | Nach Änderung | Maßnahme |
@@ -209,8 +210,7 @@ Jede Ausgabe dieser Skill muss bei mitbestimmungsrelevanten Änderungen zitieren
 - § 87 BetrVG (Mitbestimmungstatbestand), § 77 BetrVG (Betriebsvereinbarung)
 - § 2 NachwG (Nachweispflicht)
 - §§ 305 ff. BGB (AGB-Kontrolle)
-- BAG, Urt. v. 11.04.2006 – 9 AZR 557/05, NZA 2006, 1149 (Einbeziehung)
-- BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 (betriebliche Übung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

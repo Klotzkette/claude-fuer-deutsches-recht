@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-fair-disclosure-knowledge
-description: "Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Pruefraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmaessiges Wissen. Output Klauselvorschlaege fuer Knowledge-Qualifikation mit Risikobewertung fuer Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
+description: "Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Prüfraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmäßiges Wissen. Output Klauselvorschlaege für Knowledge-Qualifikation mit Risikobewertung für Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
 ---
 
 # Fair Disclosure und Knowledge
@@ -55,15 +55,11 @@ Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — Best Knowledge: DD-Berater-Kenntnis wird dem Kaeufer zugerechnet; der Kaeufer kann sich nicht auf Unkenntnis berufen, wenn DD-Team Kenntnis hatte
-- BGH, Urt. v. 30.09.2011 - V ZR 17/11, NJW 2012, 56 — Fair Disclosure: bloss zugaengliche Informationen genuegen nicht; klare und unmissverstaendliche Darstellung des Risikos erforderlich
-- BGH, Urt. v. 14.03.2003 - V ZR 64/02, NJW 2003, 1811 — Arglistige Taeusching: Arglist schliesst Haftungsausschluss aus; auch bei umfassendem Disclosure Letter
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 5 § 3 (Knowledge-Klauseln, Fair Disclosure), 8. Auflage
-- MueKo BGB/Westermann, § 442 Rn. 1-40 (Kaeuferwissen, Gewaehrleistungsausschluss)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Knowledge-Standard pruefen:** SPA-Klausel analysieren; "Best Knowledge" vs. "Actual Knowledge" vs. "Constructive Knowledge"

@@ -22,7 +22,7 @@ Notarin: Dr. Eva Wendthusen · Charlottenstraße 65 · 10117 Berlin · UR-Nr. 01
 | 8 | Einberufung außerordentliche Gesellschafterversammlung vom 18. Februar 2027 + Verzichtserklärungen auf Einberufungsfrist | Textform | Sonnenglas |
 | 9 | Aktualisierte Gesellschafterliste gemäß § 40 GmbHG (Vor-Wandlung) | Anlage | Geschäftsführerin Dr. Schoeneck |
 | 10 | Aktualisierte Gesellschafterliste gemäß § 40 GmbHG (Post-Wandlung) | Anlage | Notarin zur Einreichung beim Handelsregister |
-| 11 | Cap-Table-Datei „Cap-Table-Post-Money.xlsx" (Modellrechnung) | PDF-Ausdruck | Sonnenglas |
+| 11 | Cap-Table-Datei "Cap-Table-Post-Money.xlsx" (Modellrechnung) | PDF-Ausdruck | Sonnenglas |
 | 12 | Bestätigung der Berliner Sparkasse über Wertstellung der Wandlungssumme inkl. Bareinlage Nennbetrag | PDF | Sonnenglas · Eingang bis 3. März 2027 |
 | 13 | KYC-Identifikationsunterlagen der Northstar (Handelsregisterauszug, GwG-Erklärung wirtschaftlich Berechtigte) | Kopie | Northstar |
 | 14 | Steuerliche Selbstauskunft FATCA/CRS Northstar | Formular | Northstar |

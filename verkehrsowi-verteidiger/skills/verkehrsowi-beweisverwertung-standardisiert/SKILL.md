@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-beweisverwertung-standardisiert
-description: "Beweisverwertbarkeit im standardisierten OWi-Messverfahren angreifen: Mandant bestreitet Messergebnis. Normen: BGH NJW 1993 3081 (standardisiertes Messverfahren), § 77 Abs. 2 OWiG (Sachverstaendigen-Antrag). Pruefraster: Eichmaengel, Bedienungsfehler, Rohmessdaten-Verweigerung, Fahreridentifikation, Verwertungsverbote bei Verfahrensfehler. Output Beweisverwertungs-Einwand, Sachverstaendigen-Antrag. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte."
+description: "Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Standardisiertes Messverfahren und Beweisverwertung
@@ -9,7 +9,7 @@ description: "Beweisverwertbarkeit im standardisierten OWi-Messverfahren angreif
 
 1. **Standardisiertes Messverfahren oder nicht?** — BGH unterscheidet standardisierte Verfahren (keine detaillierte Urteilsbegruendung notwendig) von nichtstandardisierten (vollstaendige Darlegung erforderlich).
 2. **Welche konkreten Angriffspunkte auf die Messung gibt es?** — Pauschales Bestreiten genuegt nicht um das standardisierte Verfahren zu erschuettern.
-3. **Rohmessdaten vorhanden?** — BVerfG NJW 2021, 455: Verweigerung verletzt Art. 103 Abs. 1 GG.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Sachverstaendigenantrag gestellt?** — § 77 Abs. 2 OWiG: Gericht darf nur ablehnen wenn Antrag missbräuchlich oder Beweisthema nicht entscheidungserheblich.
 5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger fuer biometrischen Vergleich moeglich.
 
@@ -23,18 +23,11 @@ description: "Beweisverwertbarkeit im standardisierten OWi-Messverfahren angreif
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 19.08.1993 - 4 StR 627/93, NJW 1993, 3081 — Standardisiertes Messverfahren: Gerichte duerfen bei anerkannten Verfahren auf detaillierte Messbegruendung verzichten; aber konkrete Einwaende des Betroffenen sind aufzuklaeren.
-- BVerfG, Beschl. v. 12.11.2020 - 2 BvR 1616/18, NJW 2021, 455 — Wenn Rohmessdaten nicht herausgegeben werden, kann das rechtliche Gehoer verletzt sein; Gericht muss Auswirkung auf die Verteidigung pruefen.
-- OLG Bamberg, Beschl. v. 08.05.2017 - 3 Ss OWi 626/17, NZV 2017, 494 — Sachverstaendigenantrag zu Messfehlerursachen muss beschieden werden wenn konkrete Angriffspunkte vorgebracht sind; Ablehnung als offenkundig unerheblich nicht ohne weiteres moeglich.
-- OLG Saarbruecken, Beschl. v. 18.10.2021 - Ss BS 49/21 OWi, NZV 2022, 84 — Verwerfung eines Sachverstaendigenantrags ohne nachvollziehbare Begruendung verletzt das Recht auf ein faires Verfahren; Rechtsbeschwerde erfolgreich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- KK-OWiG / Senge § 77 Rn. 1-40 (Beweisaufnahme, Sachverstaendigenrecht)
-- Goehler OWiG § 77 Rn. 1-25 (Ablehnung von Beweisantraegen)
-- Burhoff, Handbuch OWi (Messverfahren und Beweisverwertung), Rn. 1500-1600
-- Krenberger/Krumm OWiG § 77 (Praxiswissen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standardisierte Messverfahren — anerkannt in Deutschland
 
 | Messgeraet | Verfahren |

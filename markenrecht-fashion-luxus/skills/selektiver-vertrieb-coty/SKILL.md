@@ -1,23 +1,22 @@
 ---
 name: selektiver-vertrieb-coty
-description: "Selektiven Vertrieb im Luxussegment kartellrechtskonform gestalten: Hersteller will Vertriebsnetz auf qualifizierte Partner beschraenken. Normen: EuGH C-230/16 Coty Germany/Parfuemerie Akzente (Plattformverbot Luxus), EuGH C-439/09 Pierre Fabre, Art. 4 Abs. 1 lit. c AEUV, Vertikal-GVO (EU) 2022/720. Pruefraster: qualitative Selektionskriterien, Plattformverbot-Zulassigkeit, Verhaltenskoordinierungs-Risiko. Output Selektiv-Vertriebsvertrags-Entwurf, kartellrechtliches Compliance-Memo. Abgrenzung: Preisbindung siehe vertikale-preisbindung-vbe-vo; AGB-Kontrolle siehe agb-haendlervertrag-luxus."
+description: "Workflow-Skill zu selektiver vertrieb coty. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Selektiver Vertrieb für Luxusgüter nach Coty
 
-Das Coty-Urteil des EuGH (C-230/16) war der entscheidende Durchbruch für Luxusmarken im selektiven Vertrieb: Qualitätskriterien dürfen Drittplattformen (wie Donauzon) aus dem Vertriebsnetz ausschließen, wenn sie dem Luxus-Image der Marke nicht gerecht werden. Das ist die strategische Verteidigungslinie von klôtzzkètté SA gegen unkontrollierten Graumarkt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, kartellrechtlich standhalten und die Exklusivität von klôtzzkètté SA absichern.
 
 ## Rechtsrahmen
 
-- **EuGH C-230/16 (Coty Germany / Parfümerie Akzente, 2017):** Selektives Vertriebssystem für Luxusparfum mit Plattformverbot für Drittmarktplätze (hier: Amazon) ist bei Luxusgütern mit Art. 101 I AEUV vereinbar, wenn: (1) Qualitätskriterien nicht diskriminierend angewendet werden, (2) Kriterien dem Qualitätsniveau der Ware entsprechen, (3) Kriterien nicht über das zur Qualitätssicherung Erforderliche hinausgehen. Plattformverbot für Luxus zulässig, wenn Plattform dem Luxus-Image nicht gerecht wird.
-- **EuGH C-439/09 (Pierre Fabre Dermo-Cosmétique, 2011):** Generelles Internetverkaufsverbot ist grundsätzlich kartellrechtswidrig (Art. 101 I AEUV); nur rechtfertigbar durch konkrete Qualitätsgründe für jedes Selektionskriterium
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 101 AEUV:** Kartellverbot — selektive Vertriebssysteme können unter Art. 101 I fallen, sind aber in der Regel nach Art. 101 III freigestellt
 - **Vertikal-GVO (EU) 2022/720:** Gruppenfreistellung für vertikale Vereinbarungen; Marktanteilsschwelle 30 % für Lieferant und Händler; vgl. Skill `vertikale-preisbindung-vbe-vo`
 - **Art. 4 lit. b/c Vertikal-GVO:** Hardcore-Beschränkungen (auch bei Selektivvertrieb)
 - **§ 1 GWB:** Deutsches Kartellverbot (inhaltsgleich mit Art. 101 AEUV für DE-Markt)
-- **BGH, Beschl. v. 12.12.2017 — KVR 45/17 (Asics-Plattformverbot):** Vor Coty-Urteil restriktiver; nach Coty: differenzierte Beurteilung nach Produktkategorie und Luxus-Image
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -36,7 +35,7 @@ Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, 
    - Geheimhaltung von Einkaufspreisen (MFN-Klausel — vgl. Skill `agb-haendlervertrag-luxus`)
 
 2. **Plattformverbot formulieren:**
-   - Klausel: „Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
+   - Klausel: "Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
    - Begründung: Marktplätze entsprechen nicht den Qualitätsstandards des Selektivvertriebssystems; fehlende Kontrolle über Markenpräsentation
    - Coty-Linie: Luxusimage-Argument genügt; kein generelles Internet-Verbot (eigener Online-Shop des Händlers erlaubt)
 
@@ -63,12 +62,10 @@ Reines Online-Unternehmen ohne physischen Store beantragt Händlerpartnerschaft.
 
 ## Belege & Kommentare
 
-- EuGH, Urt. v. 06.12.2017 — C-230/16 (Coty Germany) — Plattformverbot Luxusmarken
-- EuGH, Urt. v. 13.10.2011 — C-439/09 (Pierre Fabre) — Internetverkaufsverbot
-- EuGH, Urt. v. 25.10.1977 — 26/76 (Metro I) — Metro-Kriterien selektiver Vertrieb
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bundeskartellamt, Fallbericht Asics 2015 (Plattformverbot vor Coty)
 - Europäische Kommission, Vertikalleitlinien 2022/C 248, Rn. 210 ff. (selektiver Vertrieb)
-- BeckOK Kartellrecht, Art. 101 AEUV Rn. 200 ff. (Selektivvertrieb)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Templates
 
@@ -113,8 +110,8 @@ Bevor das selektive Vertriebssystem eingerichtet oder ein Haendler ausgeschlosse
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 06.12.2017 — C-230/16 (Coty Germany / Parfuemerie Akzente):** Ein selektives Vertriebssystem fuer Luxuswaren, das den Verkauf ueber bestimmte Drittmarktplattformen verbietet, kann kartellrechtlich gerechtfertigt sein, wenn die Qualitaet des Luxusguts und sein Luxusimage gewahrt werden muessen; das Verbot muss verhaeltnismaessig und nichtdiskriminierend sein.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 25.10.1977 — 26/76 (Metro / Commission):** Selektive Vertriebssysteme sind nach Art. 101 AEUV zulaessig, wenn (1) die Eigenschaften des Produkts ein solches System erfordern, (2) Haendler nach objektiven qualitativen Kriterien gewaehlt werden und (3) die Kriterien nicht ueber das erforderliche Mass hinausgehen (Metro-Kriterien).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 26.10.2011 — KZR 23/10 (Schulranzen):** Auch bei im Grundsatz zulaessigen selektiven Systemen ist das kartellrechtliche Diskriminierungsverbot zu beachten; Ausnahmen einzelner Haendler von den Selektionskriterien koennen kartellrechtliche Gleichbehandlungspflichten verletzen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-online-gruendung-dirug
-description: "Online-Gruendung der GmbH nach DiRUG ohne persoenlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Pruefraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gruendung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz)."
+description: "Online-Gründung der GmbH nach DiRUG ohne persoenlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz)."
 ---
 
 # Online-Gründung nach DiRUG
@@ -24,17 +24,11 @@ description: "Online-Gruendung der GmbH nach DiRUG ohne persoenlichen Notartermi
 
 ## Aktuelle Rechtsprechung
 
-- BayObLG, Beschl. v. 18.11.2020 - 101 AR 175/20 — Notar-Identifikation bei Videokonferenz: Notar muss Identität aller Beteiligten eigenständig sicherstellen; eID-Chip und standardisiertes Video-Verfahren reichen aus.
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vorbelastungshaftung gilt auch bei Online-gegründeter Vor-GmbH; zwischen Beurkundung und Eintragung entstehende Verbindlichkeiten treffen Gesellschafter persönlich.
-- OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Vollmacht muss in Beurkundungsform erteilt sein; bei Online-Gründung: Notar muss sicherstellen, dass Vollmacht formgerecht und aktuell ist.
-- BGH, Urt. v. 05.02.2007 - II ZR 84/05, NJW 2007, 1529 — Handelndenhaftung entfällt mit wirksamer HR-Eintragung; gilt auch nach Online-Gründung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 2 Rn. 25-40 (Online-Beurkundung, DiRUG, Voraussetzungen)
-- Baumbach/Hueck, GmbHG, § 2 Rn. 15-20 (Online-Gründung, Identifikation, Verfahrensablauf)
-- Keidel/Zimmermann, FamFG, § 167 Rn. 1-10 (elektronische Einreichung Handelsregister)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Online vs. Präsenz — Entscheidungsmatrix
 
 | Kriterium | Online (DiRUG) | Präsenz |
@@ -125,7 +119,7 @@ NACH BEURKUNDUNG
 - §§ 2 Abs. 3, 7 GmbHG (Online-Beurkundung, Bareinzahlungspflicht)
 - §§ 16a-d, 17, 40 BeurkG (Online-Beurkundungsverfahren, qeS)
 - DiRUG vom 05.07.2021 (BGBl. I S. 3338)
-- BayObLG 101 AR 175/20 (Identifikation Online)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 2 Rn. 25-40
 
 ## Übergabe an andere Skills

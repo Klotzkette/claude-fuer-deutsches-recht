@@ -15,14 +15,14 @@ NRW ist mit ca. 18 Mio. Einwohnern das bevölkerungsreichste Bundesland. Es umfa
 | Mietrecht – Kaution | Vermieter fordert Mietkaution | Max. 3 Nettokaltmieten; Rückzahlung innerhalb angemessener Frist nach Mietende (Rspr.: 3–6 Monate je nach Abrechnungslage) | § 551 Abs. 1 BGB |
 | Mietrecht – Mieterhöhung | Mieterhöhung auf ortsübliche Vergleichsmiete | Kappungsgrenze 20 % in 3 Jahren; in Köln, Düsseldorf, Bonn, Münster, Aachen, Essen, Dortmund u. a. gilt 15 % aufgrund der NRW-Mietpreisbegrenzungsverordnung; Mietpreisbremse (§§ 556d ff. BGB) gilt in Köln, Düsseldorf und weiteren Kommunen | § 558 Abs. 3 BGB; NRW-MietpreisbegrenzungsVO; NRW-KappungsgrenzenVO |
 | Mietrecht – Modernisierung | Mieterhöhung nach Modernisierung | Max. 8 % der Modernisierungskosten p. a. umlegen; Mieterhöhung darf nicht mehr als 3 EUR/m² in 6 Jahren betragen (§ 559e BGB) | §§ 559, 559e BGB |
-| Mietrecht – Mietminderung | Mietminderung wegen Schimmel, Heizungsausfall | Schimmel: 10–20 % (je nach Ausmaß); Heizungsausfall Winter: 20–50 %; Lärm durch Baustelle: 5–15 %; erheblicher Mangel Voraussetzung (§ 536 BGB) | § 536 BGB; BGH, Urt. v. 26.02.2003 – VIII ZR 5/02, NJW 2003, 1743 |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Mietrecht – Kündigung | Fristlose Kündigung wegen Zahlungsverzug | Rückstand ≥ 2 Nettokaltmieten (§ 543 Abs. 2 Nr. 3a BGB); Schonfristzahlung binnen 2 Monaten nach Zustellung der Räumungsklage heilt fristlose Kündigung (§ 569 Abs. 3 Nr. 2 BGB) | §§ 543, 569 BGB |
 | Arbeitsrecht – Kündigung | Ordentliche Kündigung; KSchG-Schwelle | KSchG gilt ab 6 Monaten Betriebszugehörigkeit und mehr als 10 Arbeitnehmern (§ 23 KSchG); Klagefrist 3 Wochen (§ 4 KSchG) – materiell-rechtliche Ausschlussfrist | § 1, § 4, § 23 KSchG |
-| Arbeitsrecht – Massenentlassung | Entlassung bei Massenentlassung (§ 17 KSchG) | Anzeige bei der Agentur für Arbeit Pflicht; Betriebsrat ist anzuhören; Verstoß führt zur Unwirksamkeit der Kündigung (BAG, Urt. v. 22.09.2016 – 2 AZR 276/16) | § 17 KSchG; §§ 111 ff. BetrVG |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Arbeitsrecht – Lohn | Mindestlohnunterschreitung | Allgemeiner gesetzlicher Mindestlohn 2025: 12,82 EUR brutto/Stunde; Verzichtbarkeit ausgeschlossen (§ 3 MiLoG); Verjährung 3 Jahre (§ 195 BGB); Arbeitgeberhaftung auch für Subunternehmer (§ 13 MiLoG) | §§ 1, 3, 13 MiLoG |
-| Arbeitsrecht – Betriebsrat | Betriebsrat nicht angehört vor Kündigung | Fehler bei der Anhörung nach § 102 BetrVG führt zur Unwirksamkeit der Kündigung; Studentinnen prüfen Anhörungsschreiben auf Vollständigkeit | § 102 BetrVG; BAG, Urt. v. 23.10.2014 – 2 AZR 736/13 |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Sozialrecht – SGB II | Leistungsberechnung Bürgergeld | Regelbedarf 2025 Alleinstehende: 563 EUR/Monat; Kosten der Unterkunft tatsächlich, soweit angemessen (§ 22 SGB II); in Köln und Düsseldorf gelten kommunale Angemessenheitsgrenzen nach Kosten-der-Unterkunft-Richtlinien | § 20 SGB II; § 22 SGB II |
-| Sozialrecht – SGB II | Sanktion wegen Pflichtverletzung | BVerfG-Urteil v. 05.11.2019 – 1 BvL 7/16: max. 30 % des Regelbedarfs; Grundversorgung muss gesichert bleiben | BVerfG, Urt. v. 05.11.2019 – 1 BvL 7/16, BVerfGE 152, 68 |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Sozialrecht – Widerspruchsfrist | Widerspruch gegen SGB-II-Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugangsfiktion: 4 Tage nach Aufgabe zur Post (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: 3 Tage a.F.) | § 84 SGG; § 37 SGB X |
 | Datenschutz – DSGVO/DSG NRW | Anfrage auf Auskunft aus Behördenakten | Auskunftsrecht Art. 15 DSGVO; Monatsfrist zur Beantwortung (Art. 12 Abs. 3 DSGVO); Datenschutzbeschwerden an LDI NRW | Art. 12, 15 DSGVO; § 5 DSG NRW |
 
@@ -95,13 +95,8 @@ Hinweis: Die NRW-Mietpreisbegrenzungsverordnung (MietBremse NRW) und die NRW-Kap
 - VwVfG NRW; VwGO §§ 68 ff., 74, 80
 - NRW-Mietpreisbegrenzungsverordnung (zuletzt verlängert 2022)
 - NRW-Kappungsgrenzenverordnung (zuletzt verlängert 2022)
-- BGH, Urt. v. 26.02.2003 – VIII ZR 5/02, NJW 2003, 1743 (Mietminderung)
-- BGH, Urt. v. 22.11.2023 – VIII ZR 77/23, NJW 2024, 430 (Mieterhöhung Begründungsanforderungen)
-- BSG, Urt. v. 18.01.2011 – B 4 AS 90/10 R, BSGE 107, 154 (Kosten der Unterkunft)
-- BVerfG, Urt. v. 05.11.2019 – 1 BvL 7/16, BVerfGE 152, 68 (Sanktionen SGB II)
-- BAG, Urt. v. 22.09.2016 – 2 AZR 276/16, NZA 2017, 175 (Massenentlassung)
-- BAG, Urt. v. 23.10.2014 – 2 AZR 736/13, NZA 2015, 476 (Betriebsratsanhörung)
-- Grüneberg, BGB, 84. Aufl. 2025, §§ 535 ff., 543, 551, 558 ff., 613a
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Erfurter Kommentar zum Arbeitsrecht, 25. Aufl. 2025, §§ 1, 4, 17, 23 KSchG; § 102 BetrVG
 - Kallert, in: Gagel, SGB II/III, Loseblatt (Stand 2024), § 22 SGB II
 - Mietspiegel Köln 2023 (Stadt Köln, Amt für Stadtentwicklung und Statistik)

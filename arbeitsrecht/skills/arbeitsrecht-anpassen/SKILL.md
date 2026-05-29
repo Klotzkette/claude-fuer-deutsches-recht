@@ -57,7 +57,7 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 Relevante Normen je nach Änderungsbereich:
 - Neues Bundesland: Landesurlaubsgesetze, LDSG des Landes, ggf. Tarifvertrag mit Landesbezug
 - Betriebsrat: BetrVG §§ 1, 87, 99, 102, 111 ff.
-- Tarifvertrag: TVG §§ 3, 4, 5; BAG, Urt. v. 18.04.2012 – 4 AZR 371/10, NZA 2012, 1166 (Bezugnahmeklauseln) `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

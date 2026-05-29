@@ -18,7 +18,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ### Zum Ausprobieren: Testakten (separat)
 
@@ -89,9 +89,9 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 | Skill | Funktion |
 |---|---|
-| `/arbeitsrecht:bag-equal-pay-paarvergleich-8azr30024` | BAG 23.10.2025 – 8 AZR 300/24: Ein Paarvergleich genügt für die Vermutung des § 22 AGG |
-| `/arbeitsrecht:bag-mindesturlaub-kein-verzicht-9azr10424` | BAG 03.06.2025 – 9 AZR 104/24: Kein Verzicht auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhältnis, auch nicht im Vergleich |
-| `/arbeitsrecht:bag-freistellungsklausel-unwirksam-5azr10825` | BAG 25.03.2026 – 5 AZR 108/25: Pauschale formularmäßige Freistellungsklausel nach Kündigung unwirksam § 307 BGB |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ## Interaktive Skills vs. geplante Agenten
 
@@ -189,8 +189,8 @@ Vollständiger Workflow für die Klage auf Feststellung, dass ein angeblich befr
 | `/arbeitsrecht:entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | § 14 Abs. 2 TzBfG; Vorbeschäftigungsverbot; BVerfG 2018; Karenzzeit |
 | `/arbeitsrecht:entfristung-sachgrundlos-14-abs-2a-neugruendung` | Neugründungsprivileg vier Jahre § 14 Abs. 2a TzBfG |
 | `/arbeitsrecht:entfristung-sachgrundlos-14-abs-3-aelter-52` | § 14 Abs. 3 TzBfG; Befristung ab 52; Vorarbeitslosigkeit |
-| `/arbeitsrecht:entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform § 14 Abs. 4 TzBfG; eigenhändige Unterschrift; KEINE elektronische Form |
-| `/arbeitsrecht:entfristung-elektronische-signatur-vorsicht` | DocuSign, Adobe Sign als Erkennungsmerkmale; Signaturtypen; Rechtslage |
+| `/arbeitsrecht:entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform § 14 Abs. 4 TzBfG; Papieroriginal oder echte QES; Scan/einfache Signatur genügt nicht |
+| `/arbeitsrecht:entfristung-elektronische-signatur-vorsicht` | DocuSign, Adobe Sign, Zertifikate, QES-Abgrenzung und Formrisiko |
 | `/arbeitsrecht:entfristung-rechtsfolge-16-tzbfg-unbefristet` | § 16 Satz 1 TzBfG Vertrag gilt als unbefristet; früheste Kündigung § 16 Satz 2 |
 | `/arbeitsrecht:entfristung-klageschrift-laie-baustein` | Schritt-für-Schritt Klageschrift Entfristungsklage für Laien |
 | `/arbeitsrecht:entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift mit Hilfsanträgen und Weiterbeschäftigungsantrag |
@@ -245,4 +245,4 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 - **Standortkenntnis ist der Kern.** Das Plugin kennt die Unterschiede zwischen Bundesländern und berücksichtigt betriebliche Besonderheiten (Betriebsgröße, Betriebsrat, Tarifbindung).
 - **Kündigungsprüfung ersetzt nicht das Gespräch mit HR und Führungskraft.** Sie ist eine Checkliste, die den vergessenen Punkt findet.
 - **Lohn-/Arbeitszeitfragen zitieren die Norm**, kennzeichnen aber Grenzfälle zur menschlichen Prüfung. Einstufungsentscheidungen haben Konsequenzen.
-- **Zitierstandard:** BGH-Stil gemäß `../references/zitierweise.md`. Rechtsprechung: BAG, BGH, EuGH im Format `BAG, Urt. v. TT.MM.JJJJ – Az., NZA JJJJ, Seite Rn. N.` Kommentare: ErfK, HWK, KR, APS, MüKoBGB, BeckOK Arbeitsrecht.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

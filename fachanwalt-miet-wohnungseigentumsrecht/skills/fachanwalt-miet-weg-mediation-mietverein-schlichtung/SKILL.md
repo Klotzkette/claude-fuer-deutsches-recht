@@ -92,15 +92,11 @@ Mietstreitigkeiten sind häufig Beziehungs-Streit (Hausgemeinschaft, Vermieter-M
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 25.01.2023 — VIII ZR 314/21, NJW 2023, 1040 Rn. 18: Der Raeumungsvergleich vor dem Amtsgericht gemaess § 794 Abs. 1 Nr. 1 ZPO schafft einen vollstreckbaren Titel; Vollstreckungsschutz nach § 765a ZPO nur bei ausserordentlicher Haerte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — Vorb. § 535 Rn. 1 ff. ADR im Mietrecht
-- BeckOK Mietrecht — § 278a ZPO Gerichtsmediation
-- Baermann, WEG, 15. Aufl. — § 44 Rn. 1 ff. Beschlussanfechtung
-- Greger/Stubbe, Schiedsverfahren und Mediation im Privatrecht — Kap. Mietrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Sofort-Check
 
 | Frist | Norm | Zeitfenster |
@@ -143,6 +139,3 @@ Stand: 05/2026. WEMoG seit 1.12.2020. MediationsG. Bei Mietpreisbremse-Reform ak
 ## Audit-Hinweis
 
 Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
-- BGH V ZR 30/20 (WRONG_TOPIC: Aktenzeichen existiert, betrifft aber Wegfall der Geschaeftsgrundlage eines Grundstuecksuebertragungsvertrags mit Pflegeverpflichtung, nicht WEG-Beschlussanfechtung/Mediation; zudem falsches Datum 18.11.2020 statt 09.07.2021).
-- BGH VIII ZR 169/22 (NOT_FOUND: Aktenzeichen nicht auf dejure.org nachweisbar).
-- BGH VIII ZR 356/21 (NOT_FOUND: Aktenzeichen nicht auf dejure.org nachweisbar).

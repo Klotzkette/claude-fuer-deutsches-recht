@@ -1,6 +1,6 @@
 ---
 name: mieterhoehung-pruefen-widersprechen
-description: Mietersicht — pruefe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begruendung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung. Pruefroutine deckt Textform Wartefrist Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) und Begruendungsmittel (Mietspiegel Sachverstaendigengutachten Vergleichswohnungen) ab. Erzeugt Entwurf mit Disclaimer.
+description: Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung. Prüfroutine deckt Textform Wartefrist Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) und Begründungsmittel (Mietspiegel Sachverständigengutachten Vergleichswohnungen) ab. Erzeugt Entwurf mit Disclaimer.
 ---
 
 # Mieterhöhung prüfen und widersprechen
@@ -65,21 +65,12 @@ Erzeuge ein höflich-bestimmtes Schreiben mit:
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Ein qualifizierter Mietspiegel bindet das Gericht als sachverstaendiges Zeugnis; Gegenbeweis durch Vermieter erfordert eigenes Sachverstaendigengutachten.
-- BGH, Urt. v. 21.09.2022 — VIII ZR 188/21, NJW 2022, 3580 Rn. 22: Formelle Anforderungen an Mieterhoehungsverlangen (§ 558a BGB) sind praezise; fehlerhafte Wohnlageangabe macht Verlangen unwirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
 §§ 558, 558a, 558b, 558c, 558d BGB
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 558 ff. BGB
-- BeckOK Mietrecht — §§ 558 ff. Mietspiegel und Kappungsgrenze
-
----
-<!-- AUDIT 27.05.2026 | bundle_037 | task 5/5
-BGH VIII ZR 275/22 (NOT_FOUND): Aktenzeichen und NJW 2023 S. 2893 auf dejure.org nicht auffindbar.
-Massnahme: Gesamten Rechtsprechungseintrag geloescht.
-Die verbleibenden BGH-Entscheidungen (VIII ZR 304/21, VIII ZR 188/21) sind verifiziert.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

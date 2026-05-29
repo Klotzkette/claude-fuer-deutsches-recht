@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-kassenarztrecht
-description: "Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Pruefraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Pruefungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV fuer reine Honorarstreitigkeiten und zu Approbations-Widerspruch."
+description: "Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Prüfraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Prüfungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV für reine Honorarstreitigkeiten und zu Approbations-Widerspruch."
 ---
 
 # Kassenarztrecht
@@ -22,10 +22,10 @@ description: "Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwen
 - Wirtschaftlichkeitsprüfung § 106 SGB V — Vergleich mit Vergleichsgruppe (Fachgruppendurchschnitt) bei Verordnungsverhalten und Behandlungsweise; Prüfvereinbarung der Partner.
 - Praxisbesonderheiten — können Überschreitung des Durchschnitts rechtfertigen; Patient mit besonderem Krankheitsbild, Patientenklientel.
 - Disziplinarverfahren § 81 Abs. 5 SGB V — bei Pflichtverletzungen; Maßnahmen Verwarnung, Verweis, Geldbuße, befristete Ruhensanordnung.
-- Zulassungsentziehung § 95 Abs. 6 SGB V — bei gröblicher Pflichtverletzung; verfassungsrechtlich strenger Prüfungsmaßstab (BVerfG 1 BvR 2348/06, Beschl. v. 17.07.2007, Rn. 32 ff.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsweg § 51 Abs. 1 Nr. 2 SGG Sozialgericht — Widerspruchsverfahren beim Berufungsausschuss vorgeschaltet § 96 SGB V; Klage erst nach Berufungsausschussentscheidung.
 
-Standardliteratur: Hauck/Noftz SGB V; Krauskopf Soziale Krankenversicherung Pflegeversicherung; Spickhoff Medizinrecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast
 
@@ -127,23 +127,21 @@ Anlagen
 
 ### Leitsatz-Zitate
 
-BSG, Urt. v. 12.04.2023 — **B 6 KA 11/22 R**, SGb 2023, 567 Rn. 22: Vertragsarzt hat bei Wirtschaftlichkeitsprüfung gemäß § 106 SGB V substantiiert Praxisbesonderheiten darzulegen; pauschale Hinweise auf besonderes Patientenklientel genügen nicht, vielmehr sind diagnosespezifische Behandlungsaufwendungen konkret zu dokumentieren und mit Vergleichsgruppe abzugleichen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BSG, Urt. v. 28.09.2022 — **B 6 KA 3/22 R**, NZS 2023, 112 Rn. 31: Sachlich-rechnerische Berichtigung nach § 106d SGB V setzt voraus, dass die KV die Unrichtigkeit der Abrechnung im Einzelfall nachweist; statistische Hochrechnung über Plausibilitätsprüfung genügt nur, wenn die Stichprobe repräsentativ und die Fehlerquote gesichert ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerfG, Beschl. v. 26.09.2005 — **1 BvR 1397/04**, BVerfGK 6, 283 Rn. 17: Zulassungsentziehung nach § 95 Abs. 6 SGB V berührt den Schutzbereich von Art. 12 Abs. 1 GG als schwerster Eingriff in die Berufsfreiheit; Verhältnismäßigkeitsprüfung verlangt Abwägung zwischen Schwere der Pflichtverletzung und Existenzvernichtung; milderes Mittel (Disziplinarmaßnahme, befristetes Ruhen) ist vorrangig zu prüfen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BSG, Urt. v. 17.05.2021 — **B 6 KA 7/20 R**, BSGE 132, 155 Rn. 40: Honorarverteilungsmaßstab gemäß § 87b SGB V muss diskriminierungsfrei und sachgerecht ausgestaltet sein; Benachteiligung von Praxen mit überdurchschnittlichem Leistungsbedarf ohne sachlichen Grund verletzt den Gleichheitsgrundsatz und ist auf Klage aufzuheben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 95 SGB V (Zulassung) → § 95 Abs. 6 SGB V (Entziehung) → § 87b SGB V (Honorarverteilungsmaßstab) → § 106 SGB V (Wirtschaftlichkeitsprüfung) → § 106d SGB V (Plausibilitätsprüfung, sachlich-rechnerische Berichtigung) → § 81 Abs. 5 SGB V (Disziplinarmaßnahmen) → § 96 SGB V i.V.m. § 51 SGG (Rechtsweg, Widerspruchsverfahren Berufungsausschuss) → § 86b Abs. 1 SGG (einstweiliger Rechtsschutz) → § 24 SGB X (Anhörung) → Art. 12 Abs. 1 GG (Berufsfreiheit Verhältnismäßigkeit)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Hauck/Noftz SGB V, Loseblatt-Kommentar, zu §§ 95, 106, 106d SGB V: Standardwerk zum Vertragsarztrecht mit ausführlicher Praxis- und Rechtsprechungsaufarbeitung.
-- Spickhoff, Medizinrecht, 4. Aufl. 2022, zu §§ 95, 106 SGB V: knapp strukturierter Kommentar mit Querverweis auf Sozialgerichtsrechtsprechung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Verfahren | Frist | Norm |

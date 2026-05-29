@@ -1,6 +1,6 @@
 ---
 name: joint-controller-vereinbarung
-description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Pruefraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Pruefprotokoll. Abgrenzung: nicht fuer Auftragsverarbeitung (avv-pruefung)."
+description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung)."
 ---
 
 # Gemeinsame Verantwortlichkeit Art. 26 DSGVO
@@ -384,20 +384,14 @@ Anhang 3: Innenhaftungs-Quote
 ## Quellen
 
 - DSGVO Art. 26 28 82 83
-- EuGH C-25/17 Zeugen Jehovas (10.7.2018)
-- EuGH C-40/17 Fashion ID (29.7.2019)
-- EuGH C-210/16 Wirtschaftsakademie (5.6.2018)
-- EuGH C-252/21 Meta Platforms Ireland (4.7.2023)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EDSA Guidelines 7/2020 zu Verantwortliche und Auftragsverarbeiter
 - BfDI-Informationen
 - DSK Kurzpapier
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Umfassende Entscheidung zur gemeinsamen Verantwortlichkeit nach Art. 26 DSGVO; Meta und Webseitenbesucher-Systeme sind gemeinsame Verantwortliche, wenn beide über Zwecke und Mittel der Verarbeitung entscheiden; Vereinbarung nach Art. 26 Abs. 1 DSGVO muss transparent und für Betroffene zugänglich sein.
-- EuGH, Urt. v. 10.07.2018 — C-25/17 (Zeugen Jehovas/Datenaufsichtsbehörde Finnland), NJW 2018, 2858 Rn. 65–75: Gemeinsame Verantwortlichkeit kann auch ohne schriftliche Vereinbarung entstehen, wenn mehrere Stellen tatsächlich gemeinsam über Zwecke und Mittel entscheiden.
-- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 35: Gemeinsame Verantwortliche haften nach Art. 82 Abs. 4 DSGVO gesamtschuldnerisch; Regressansprüche richten sich nach dem Verschuldensanteil jedes Verantwortlichen.
-- OLG Hamburg, Urt. v. 10.11.2022 — 13 U 37/22, GRUR-RS 2022, 35678 Rn. 22: Zur Pflicht, betroffene Personen über das Wesentliche der Vereinbarung nach Art. 26 Abs. 2 Satz 2 DSGVO zu informieren; Fehlen dieser Information begründet Datenschutzverstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

@@ -1,6 +1,6 @@
 ---
 name: europarecht-vertragsverletzung-durchsetzung
-description: "Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Pruefraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht fuer Nichtigkeitsklage (europarecht-klagearten-eugh)."
+description: "Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht für Nichtigkeitsklage (europarecht-klagearten-eugh)."
 ---
 
 # Vertragsverletzung und Durchsetzung
@@ -72,10 +72,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 25.01.1994 - C-474/93 (Houtwipper), EuGHE 1994 I — Art. 258 AEUV Vertragsverletzungsverfahren: Nachweis des Verstoßes durch Kommission; Mitgliedstaat kann sich nicht auf innerstaatliche Schwierigkeiten berufen.
-- EuGH, Urt. v. 08.07.1987 - 247/85 (Kommission/Belgien), EuGHE 1987, 3029 — Vertragsverletzung durch Unterlassen: keine Umsetzung der RL = klarer Verstoß; Kosten der Nichtbefolgung zulasten des MS.
-- EuGH, Urt. v. 12.07.2005 - C-304/02 (Kommission/Frankreich), Slg. 2005 I-6263 — Pauschalstrafen Art. 260 AEUV: EuGH kann Pauschalbetrag und Zwangsgeld nebeneinander auferlegen; Wiederholungsverstoß verschaerft Sanktion.
-- EuGH, Urt. v. 04.07.2000 - C-387/97 (Kommission/Griechenland), Slg. 2000 I-5047 — Zwangsgeld Art. 260 AEUV: Tagesgeldbetrag proportional zu Schwere und Dauer; Abschreckung als Hauptzweck.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette
 
@@ -84,11 +81,9 @@ Bevor losgelegt wird, klaere:
 - **Art. 260 AEUV** — Zwangsgeld und Pauschalstrafe bei Nichtbefolgung des ersten Urteils
 - **§ 839 BGB / Art. 34 GG** iVm Staatshaftungsgrundsaetzen — nationales Instrument fuer Private
 
-## Kommentarliteratur
+## Quellenregel
 
-- Cremer, in: Calliess/Ruffert, EUV/AEUV, Art. 258-260 AEUV Rn. 1-60
-- Bergmann/Vanhoonacker, EU-Handbuch Vertragsverletzungsverfahren 2022
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Beschwerde an EU-Kommission
 
 **Adressat:** Europaeische Kommission, Generaldirektion [ZUSTAENDIG]

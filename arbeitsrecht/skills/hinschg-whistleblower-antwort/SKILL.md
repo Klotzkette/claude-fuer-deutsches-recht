@@ -1,6 +1,6 @@
 ---
 name: hinschg-whistleblower-antwort
-description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Pruefraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt fuer Justiz § 19 ff. HinSchG. Geschuetzte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bussgelder § 40 HinSchG bis 50000 EUR. Output Pruef-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben."
+description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben."
 ---
 
 # HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
@@ -28,16 +28,11 @@ description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen m
 
 Das HinSchG ist erst seit 02.07.2023 in Kraft; BAG-Leitentscheidungen zur Beweislastumkehr (§ 36 HinSchG) liegen noch nicht vor. Für die analogen Regelungen gilt:
 
-- BAG, Urt. v. 23.06.2009 – 2 AZR 283/08, NZA 2009, 1136 — Bei einem vermeintlichen Zusammenhang zwischen einer Meldung und einer arbeitgeberischen Maßnahme trägt der Arbeitgeber die Darlegungslast für einen sachlichen Grund der Maßnahme; dies ist die Vorgängerstruktur der HinSchG-Beweislastumkehr.
-- BAG, Urt. v. 21.10.2014 – 2 AZR 595/13, NZA 2015, 294 — Die außerordentliche Kündigung eines Arbeitnehmers wegen einer Strafanzeige gegen den Arbeitgeber setzt voraus, dass die Anzeige leichtfertig falsch oder nur zur Schikanierung erstattet wurde; rechtmäßige Strafanzeigen sind kündigungsschutzrechtlich grundsätzlich geschützt.
-- EuGH, Urt. v. 04.05.2023 – C-189/22 — Das Verbot von Vergeltungsmaßnahmen nach der RL 2019/1937 ist weit auszulegen; auch mittelbare Benachteiligungen (z.B. Beförderungsblockade) fallen unter den Schutz.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Garden/Hiéramente, HinSchG, 1. Aufl. 2023, §§ 1-40 HinSchG (Standardkommentar)
-- Colneric/Gerdemann, Whistleblowing und Whistleblowerschutz, 2022
-- BeckOK ArbR/Besgen, 71. Ed. 2025, HinSchG § 33 Rn. 1 ff. (Repressalienverbot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Seit 2.7.2023 ist das HinSchG in Kraft (Umsetzung EU-RL 2019/1937). Dieses Skill bedient zwei Konstellationen: Mandant ist Beschäftigter (Whistleblower-Schutz) oder Arbeitgeber (Meldekanal-Pflicht und Repressalien-Verteidigung).

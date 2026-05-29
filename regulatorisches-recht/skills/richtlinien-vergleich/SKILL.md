@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vergleich
-description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Pruefraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht fuer Lueckenanalyse (luecken)."
+description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanalyse (luecken)."
 ---
 
 # Richtlinien-Diff
@@ -35,8 +35,8 @@ Neue Norm / Verlautbarung lesen und in nummerierte Anforderungen zerlegen:
 | A03 | AT 4.3.2 | Dokumentation der Datenklassifizierung | Empfehlung |
 
 Verbindlichkeitskennzeichnung:
-- **Verbindlich:** „hat sicherzustellen", „muss", „sind zu"
-- **Empfehlung/Best Practice:** „sollte", „kann", „wird empfohlen"
+- **Verbindlich:** "hat sicherzustellen", "muss", "sind zu"
+- **Empfehlung/Best Practice:** "sollte", "kann", "wird empfohlen"
 
 ### 2. Bestehende Richtlinie strukturieren
 
@@ -90,8 +90,8 @@ Einschlägige Normen und Verlautbarungen:
 - DORA Art. 5 ff. (EU) 2022/2554 (ICT Risk Management)
 - § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
 
-Kommentarliteratur:
-- Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl. 2016, § 25a Rn. 44 ff. (Risikomanagementsystem).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 ## Ausgabeformat
 
@@ -122,7 +122,7 @@ Kommentarliteratur:
 | Datenklassifizierungsdoku. | Keine Regelung | 🟡 | Abschnitt zu ergänzen |
 
 **Empfohlene Änderung für 🔴:**
-> § 4 Abs. 2 IKS-Richtlinie: „Aufbewahrungsfrist von 7 Jahren" → **„mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
+> § 4 Abs. 2 IKS-Richtlinie: "Aufbewahrungsfrist von 7 Jahren" → **"mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
 
 **Nächster Schritt:** `/regulatorisches-recht:richtlinien-neufassung` für den vollständigen Neufassungsentwurf.
 
@@ -130,13 +130,12 @@ Kommentarliteratur:
 
 - **Nur Wortlaut-Vergleich:** Eine Richtlinie kann die Norm wörtlich übernehmen, sie aber organisatorisch nicht umsetzen. Hinweis, dass der Diff nur den Dokumenteninhalt vergleicht, nicht die gelebte Praxis.
 - **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
-- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO „comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
+- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO "comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
 - **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- EuGH, Urt. v. 03.12.2020 — C-62/19, NJW 2021, 540 — Richtlinien-Vergleich bei Umsetzungsrecht; nationales Recht muss mit konsolidierter Richtlinien-Fassung verglichen werden; Verweis auf veraltete Richtlinien-Fassung ist Fehler
-- BVerwG, Urt. v. 22.09.2021 — 9 C 3.20, NVwZ 2022, 86 — Richtlinien-Vergleich als Grundlage fuer EU-Normenprüfung; Abweichungen zwischen nationaler Umsetzung und RL-Anforderung muessen begruendet werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
 
-**Kommentarliteratur:** Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 Rn. 1 ff. (Richtlinien-Systematik)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

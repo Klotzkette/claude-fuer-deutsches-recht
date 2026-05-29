@@ -1,6 +1,6 @@
 ---
 name: zv-pfueb-bank
-description: "Glaeubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Pruefraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto)."
+description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto)."
 ---
 
 # PfÜB Bankkonto
@@ -33,7 +33,7 @@ Pfändung und Überweisung einer Forderung des Schuldners gegen sein Kreditinsti
 3. **Antrag bauen** an das Vollstreckungsgericht am Wohnsitz des Schuldners (§ 828 Abs. 2 ZPO). Pflichtangaben:
    - Gläubiger, Schuldner, Drittschuldner-Bank
    - Forderungsaufstellung (Hauptforderung, Zinsen, Kosten, Verzugskosten)
-   - genaue Bezeichnung der gepfändeten Forderung („gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
+   - genaue Bezeichnung der gepfändeten Forderung ("gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
    - Auskunftsersuchen § 840 ZPO
 4. **Formular** verwenden – Pflichtformular der ZVFV. Ab 1.10.2026 neue Muster (vereinheitlicht, XML-Anhang).
 5. **Einreichen** beim Vollstreckungsgericht: derzeit Papier oder elektronisch über beA/eBO. Ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F. möglich (PDF + maschinenlesbare XML, XML führend).
@@ -56,9 +56,9 @@ Rechtsquellen: BT-Drs. 21/4815, Bundestagsbeschluss 19.3.2026, Verkündung im BG
 
 ## Leitentscheidungen
 
-- BGH 13.7.2017 – IX ZB 33/16 (Pfändung des gesamten Kontoguthabens zulässig)
-- BGH 4.12.2014 – VII ZB 8/13 (Reichweite der Anschlusspfändung)
-- BGH 21.11.2013 – IX ZR 52/13 (P-Konto und Vorrang)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -93,5 +93,3 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 - `zv-pfaendungstabelle-2025` – Freibeträge bei Lohnzufluss
 - `zv-elektronische-zustellung-2027` – operative Umsetzung ZVollstrDigitG
 - `zv-abwehr-schuldner` – Schuldnersicht
-
-<!-- AUDIT 27.05.2026: BGH IX ZR 116/23 aus "Leitentscheidungen" entfernt — NOT_FOUND. Auf dejure.org ist IX ZR 116/23 nicht nachweisbar. Das tatsächlich existierende AZ IX ZR 116/21 (25.05.2023) betrifft Factoring und Wissenszurechnung (NJW-RR 2023, 1413) — kein Bezug zu Drittschuldnererklärung Form und Frist. Streichung wegen fehlendem Nachweis und falschem Thema. -->

@@ -11,9 +11,9 @@
 
 Kurz nach Besitzübernahme (07.05.2026) wurde bekannt, dass der Schuldner Markus Feldmann gegenüber Mietern behauptete, die Mietzahlungen seien weiterhin an ihn zu leisten. Konkret betraf dies:
 
-- **WE02 – Bogdan Matuschek:** Herr Matuschek teilte am 09.05.2026 telefonisch mit, der Hauseigentümer (Schuldner) habe ihn aufgefordert, die Maimiete an sein privates Konto zu überweisen, da „die Zwangsverwaltung nichts mit ihm zu tun" habe. Herr Matuschek hatte bereits im April 2026 überwiesen und sei bereit, ab Mai auf das Treuhandkonto zu zahlen.
+- **WE02 – Bogdan Matuschek:** Herr Matuschek teilte am 09.05.2026 telefonisch mit, der Hauseigentümer (Schuldner) habe ihn aufgefordert, die Maimiete an sein privates Konto zu überweisen, da "die Zwangsverwaltung nichts mit ihm zu tun" habe. Herr Matuschek hatte bereits im April 2026 überwiesen und sei bereit, ab Mai auf das Treuhandkonto zu zahlen.
 
-- **GE01 – Bäckerei Kranz GmbH:** Werner Kranz erklärte am 10.05.2026, der Vermieter habe behauptet, die Mietforderungen für Mai und Juni 2026 seien an ihn „abgetreten" und er habe entsprechende Vorausverfügungen vorgenommen. Herr Kranz legte kein Dokument vor; er zahlte nicht.
+- **GE01 – Bäckerei Kranz GmbH:** Werner Kranz erklärte am 10.05.2026, der Vermieter habe behauptet, die Mietforderungen für Mai und Juni 2026 seien an ihn "abgetreten" und er habe entsprechende Vorausverfügungen vorgenommen. Herr Kranz legte kein Dokument vor; er zahlte nicht.
 
 ---
 
@@ -80,7 +80,7 @@ Julia Renner, Rechtsanwältin
 | 11.05.2026 | Zustellungsnachweis (Rückschein) |
 | 16.05.2026 | Fristablauf – keine Reaktion von Feldmann |
 | 17.05.2026 | Feldmanns Bevollmächtigter (Rechtsanwalt Dr. Norbert Krahl, Leipzig) meldet sich telefonisch |
-| 19.05.2026 | Schreiben RA Dr. Krahl: Feldmann bestreitet, Mieten erhalten zu haben; Abtretungsbehauptung nicht konkretisiert; gibt an, Unterlagen seien „beim Steuerberater" |
+| 19.05.2026 | Schreiben RA Dr. Krahl: Feldmann bestreitet, Mieten erhalten zu haben; Abtretungsbehauptung nicht konkretisiert; gibt an, Unterlagen seien "beim Steuerberater" |
 | 25.05.2026 | Schreiben Zwangsverwalterin an RA Dr. Krahl: Frist zur Unterlagenvorlage bis 08.06.2026; anderenfalls Klage auf Herausgabe und Antrag auf Ordnungsmittel |
 | 08.06.2026 | Teillieferung: Mietverträge WE01–WE07 übergeben (per E-Mail-Scan) |
 | 15.06.2026 | Nachtrag: Versicherungsschein LFK (Kopie), Hausmeistervertrag |

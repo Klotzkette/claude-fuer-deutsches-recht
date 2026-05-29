@@ -1,6 +1,6 @@
 ---
 name: gewerberaummiete-paragraph-550-bgb-langzeitform
-description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kuendbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Pruefraster: Schriftformerfordernis Mietvertraege ueber 1 Jahr Folge Verstoß ordentliche Kuendigung moeglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kuendigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kuendigung-paragraph-568-bgb (Wohnraum) und kuendigung-per-schriftsatz-zustellung-formfragen."
+description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen."
 ---
 
 # Gewerberaummiete § 550 BGB — Langzeitform
@@ -10,7 +10,7 @@ description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr lau
 - **§ 550 BGB** — Schriftform bei Mietverträgen über Räume für längere Zeit als ein Jahr: bei Verstoß gilt Vertrag als auf unbestimmte Zeit geschlossen → ordentlich kündbar nach einem Jahr
 - **§ 578 BGB** — Entsprechende Anwendung von § 550 BGB auf Pachtverhältnisse über Grundstücke
 - **§ 126 BGB** — Schriftform: eigenhändige Unterschrift
-- **BGH XII ZR 13/13** — Qualifizierte Schriftformklausel im Gewerberaummietvertrag
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
@@ -28,9 +28,9 @@ Alle wesentlichen Vertragsbestandteile müssen von der Schriftform erfasst sein.
 
 ### Auflockerungsrechtsprechung
 
-Der BGH hat die strenge Schriftformrechtsprechung durch die „Auflockerungsrechtsprechung" gemildert: Ergänzungen und Änderungen des Mietvertrags durch nachträgliche konkludente Vereinbarungen berühren nicht stets die Schriftform des Hauptvertrags, wenn sie von untergeordneter Bedeutung sind.
+Der BGH hat die strenge Schriftformrechtsprechung durch die "Auflockerungsrechtsprechung" gemildert: Ergänzungen und Änderungen des Mietvertrags durch nachträgliche konkludente Vereinbarungen berühren nicht stets die Schriftform des Hauptvertrags, wenn sie von untergeordneter Bedeutung sind.
 
-**BGH XII ZR 13/13 — Qualifizierte Schriftformklausel**: Eine qualifizierte Schriftformklausel, die bestimmt, dass auch mündliche Nebenabreden und Änderungen der Schriftform bedürfen, und auch Vertragsänderungen per E-Mail ausschließt, ist im gewerblichen Mietrecht zulässig und sinnvoll.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Reformdiskussion 2025/2026
 
@@ -103,11 +103,11 @@ Nachtrag Nr. [X] zum Mietvertrag vom [Datum] über [Adresse]
 
 zwischen
 
-[Vermieter-Name, Adresse]                — nachfolgend „Vermieter" —
+[Vermieter-Name, Adresse]                — nachfolgend "Vermieter" —
 
 und
 
-[Mieter-Name, Adresse]                   — nachfolgend „Mieter" —
+[Mieter-Name, Adresse]                   — nachfolgend "Mieter" —
 
 Die Parteien vereinbaren folgende Änderung des oben genannten Mietvertrages:
 

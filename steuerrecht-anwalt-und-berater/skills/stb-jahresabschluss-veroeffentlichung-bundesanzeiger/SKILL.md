@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-veroeffentlichung-bundesanzeiger
-description: "Jahresabschluss-Veroeffentlichung Bundesanzeiger § 325 HGB. Anwendungsfall Pflichtveroeffentlichung Kapitalgesellschaft Frist 12 Monate Groessenklassen Erleichterungen. Methodik elektronische Uebermittlung. Output Bundesanzeiger-Eintrag."
+description: "Jahresabschluss-Veröffentlichung Bundesanzeiger § 325 HGB. Anwendungsfall Pflichtveröffentlichung Kapitalgesellschaft Frist 12 Monate Groessenklassen Erleichterungen. Methodik elektronische Übermittlung. Output Bundesanzeiger-Eintrag."
 ---
 
 # Jahresabschluss-Offenlegung im Unternehmensregister

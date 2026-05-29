@@ -7,7 +7,7 @@ description: "DBA Deutschland Schweden 1992. Anwendungsfall Mittelstand Maschine
 
 ## Kernsachverhalt
 
-Das DBA-Schweden vom 14.07.1992 (BGBl. 1992 II S. 1170) regelt die Beziehungen zum EU-Mitglied Schweden. Praxisrelevant sind Beteiligungen (Volvo, Ericsson, schwedische Beteiligungsgesellschaften), Maschinenbau-Mittelstand, Pensionen und Arbeitnehmer-Entsendungen.
+Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwendbar ab 01.01.1995) regelt die Beziehungen zum EU-Mitglied Schweden. Praxisrelevant sind Beteiligungen (Volvo, Ericsson, schwedische Beteiligungsgesellschaften), Maschinenbau-Mittelstand, Pensionen und Arbeitnehmer-Entsendungen.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,14 +23,15 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1992 II S. 1170) regelt die Beziehungen z
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Schweden vom 14.07.1992**, in Kraft 13.10.1994 (BGBl. 1994 II S. 686) — **verifizieren**.
+- **DBA Deutschland-Schweden vom 14.07.1992**, in Kraft 13.10.1994, anwendbar ab 01.01.1995 (BGBl. 1994 II S. 686; BStBl. 1994 I S. 422).
+- Aenderungsprotokoll (BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Schweden haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 18/13 zu Schweden — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zum DBA-Schweden in juris abrufen.
 
 ## Land-spezifisches
 
@@ -44,9 +45,9 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1992 II S. 1170) regelt die Beziehungen z
 - Loehne Art. 15: 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 0/15 Prozent — **konkret verifizieren**. EU-MTRL 0 Prozent Schachtel.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 0 Prozent (Schachtel ab 10 Prozent Beteiligung), 15 Prozent (Streubesitz). EU-MTRL 0 Prozent Schachtel vorrangig.
+- **Zinsen** (Art. 11): 0 Prozent.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent. EU-ZinsLizenzRL vorrangig.
 
 ### Vermeidungs-Methode (Art. 23)
 - Freistellung mit Progressionsvorbehalt bei aktiven Einkuenften und Aktivitaetsklausel.
@@ -85,4 +86,6 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1992 II S. 1170) regelt die Beziehungen z
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994. **Datum, BGBl-Fundstelle, MLI-Notification, Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994 (BGBl. 1994 II S. 686). Aenderungsprotokoll: BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

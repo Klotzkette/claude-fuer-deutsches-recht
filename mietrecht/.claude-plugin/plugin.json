@@ -1,7 +1,7 @@
 {
   "name": "mietrecht",
-  "version": "14.2.0",
-  "description": "Mietrecht fuer Mieter und Vermieter mit ausschliesslich amtlichen Mietspiegel-Quellen pro Bundesland und fuer Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenpruefung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.",
+  "version": "24.2.0",
+  "description": "Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierten Schriftsatzkern fuer verwaltungsrechtliche Klagen und Antraege erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Pruefraster: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau. Output Schriftsatz-Geruest mit Klagepunkten und Begruendungs-Bausteine. Abgrenzung: Fertige Klageschrift siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergabe-Schriftsatz siehe fachanwalt-vergaberecht-Plugin."
+description: "Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Prüfraster: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. Output Schriftsatz-Geruest mit Klagepunkten und Begründungs-Bausteine. Abgrenzung: Fertige Klageschrift siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergabe-Schriftsatz siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Schriftsatzkern und Substantiierung im Allgemeines Verwaltungs- und Bauplanungsrecht
@@ -191,16 +191,11 @@ Vor Versand:
 
 ## Leitentscheidungen Schriftsatz-Substantiierung
 
-- BVerwG, Urt. v. 29.09.2021 — 6 C 2.20, BVerwGE 173, 267 — Darlegungspflicht im Verwaltungsprozess; unsubstantiiertes Vorbringen fuehrt zur Abweisung; Tatsachenbehauptungen muessen durch Beweisangebot untersetzt sein.
-- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — Sachverhaltsdarstellung im UVP-Verfahren; Schriftsatz muss konkret auf Verfahrensfehler hinweisen; pauschale Ruege genuegt nicht.
-- BVerfG, Beschl. v. 30.06.2022 — 2 BvR 2799/21, NVwZ 2022, 1350 — Substantiierungsgebot und rechtliches Gehoer Art. 103 Abs. 1 GG; Gericht muss substantiiertes Vorbringen ernsthaft pruefen.
-- BVerwG, Beschl. v. 21.06.2023 — 9 A 1.23, DVBl 2023, 1100 — Beweisantrag im Verwaltungsprozess; muss hinreichend bestimmt und entscheidungserheblich sein; vage Antraege ablaehnbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur Schriftsatz
+## Quellenregel
 
-- Kopp/Schenke VwGO § 86 Rn. 1-60 (Untersuchungsgrundsatz, Mitwirkungspflicht)
-- Schoch/Schneider VwGO § 108 Rn. 1-50 (Ueberzeugungsbildung, Substantiierungspflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.

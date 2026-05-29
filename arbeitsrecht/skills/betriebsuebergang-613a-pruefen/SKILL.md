@@ -1,6 +1,6 @@
 ---
 name: betriebsuebergang-613a-pruefen
-description: "Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber ueber und Arbeitnehmer fragen nach Rechten oder Kuendigungsschutz. Pruefraster Identitaetswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollstaendig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kuendigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Pruef-Memo Uebergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan."
+description: "Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan."
 ---
 
 # Betriebsübergang § 613a BGB prüfen
@@ -39,22 +39,16 @@ Bevor losgelegt wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 25.09.2014 – 8 AZR 635/13, NZA 2015, 235** — Identitätswahrung bei Outsourcing: Das BAG stellt klar, dass bei überwiegend personalintensiven Branchen (z. B. Gebäudereinigung) die Übernahme eines nach Zahl und Sachkunde wesentlichen Teils des Personals entscheidend für die Annahme eines Betriebsübergangs sein kann; bloße Funktionsnachfolge reicht dagegen nicht.
-- **BAG, Urt. v. 23.05.2013 – 8 AZR 207/12, NZA 2013, 1292 Rn. 28** — Unterrichtungspflicht § 613a Abs. 5 BGB: Eine Unterrichtung, die wesentliche Informationen über die wirtschaftlichen und sozialen Folgen des Übergangs auslässt, ist fehlerhaft; die Widerspruchsfrist beginnt nicht zu laufen — der Widerspruch kann auch noch Jahre nach dem Übergang erklärt werden.
-- **EuGH, Urt. v. 11.03.1997 – C-13/95, Süzen, NZA 1997, 433** — Grundlage der Sieben-Punkte-Prüfung: Der EuGH verneinte einen Betriebsübergang bei bloßem Wechsel des Reinigungsdienstleisters ohne Übernahme von Personal oder Betriebsmitteln; erst die kumulative Würdigung aller Umstände ergibt das Bild.
-- **EuGH, Urt. v. 20.11.2003 – C-340/01, Abler, NZA 2004, 89** — Krankenhausverpflegung: In personalintensiven Branchen ist die Übernahme des Personals das entscheidende Merkmal für die Identitätswahrung der wirtschaftlichen Einheit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Preis, in: ErfK, 25. Aufl. 2025, § 613a BGB Rn. 1 ff. (Identitätswahrung, Sieben-Punkte-Prüfung, Unterrichtungspflicht, Widerspruchsrecht)
-- Müller-Glöge, in: MüKoBGB, 9. Aufl. 2024, § 613a BGB Rn. 1 ff. (Tatbestand, Rechtsfolgen, Tarifvertragsfortwirkung)
-- Lembke, in: HWK, 11. Aufl. 2024, § 613a BGB Rn. 1 ff. (Outsourcing, Insourcing, Insolvenzfall)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Tatbestand: Identitätswahrung
 
-Nach EuGH C-13/95 Süzen und Folgerechtsprechung muss eine **wirtschaftliche Einheit** unter Wahrung ihrer **Identität** übergehen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Sieben-Punkte-Prüfung BAG / EuGH:**
 
@@ -96,7 +90,7 @@ Nach EuGH C-13/95 Süzen und Folgerechtsprechung muss eine **wirtschaftliche Ein
   - Widerspruchsrecht mit Frist (§ 613a Abs. 6 BGB)
 
 **Folge fehlerhafter Unterrichtung:**
-- Widerspruchsfrist beginnt nicht — Widerspruch auch noch Jahre später möglich (BAG, Urt. v. 23.05.2013 – 8 AZR 207/12, NZA 2013, 1292 Rn. 28)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadensersatz bei schuldhafter Verletzung
 
 ### Schritt 4 — Widerspruchsrecht § 613a Abs. 6 BGB
@@ -197,6 +191,5 @@ Handlungsempfehlungen:
 Zitierstandard: `../references/zitierweise.md`.
 
 - § 613a BGB; §§ 111–113 BetrVG; §§ 322 ff. UmwG; § 125 InsO
-- EuGH, Urt. v. 11.03.1997 – C-13/95, Süzen
-- BAG, Urt. v. 23.05.2013 – 8 AZR 207/12, NZA 2013, 1292
-- Preis, in: ErfK, 25. Aufl. 2025, § 613a BGB Rn. 1 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

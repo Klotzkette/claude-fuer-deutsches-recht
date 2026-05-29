@@ -35,7 +35,7 @@ Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sach
 
 ### § 43a BRAO — Sachlichkeitsgebot
 
-§ 43a Abs. 3 BRAO verpflichtet Rechtsanwälte zur Sachlichkeit in der Berufsausübung. Es verbietet bewusst unwahre Tatsachenbehauptungen, herabsetzende Äußerungen ohne sachliche Grundlage und reine Schmähkritik. Das Bundesverfassungsgericht hat in der Entscheidung 1 BvR 2477/08 bestätigt, dass das Sachlichkeitsgebot die Meinungsfreiheit verfassungsgemäß einschränkt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### § 25 BORA — Kollegialitätsgebot
 
@@ -49,9 +49,9 @@ Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sach
 
 § 14 BNotO verpflichtet Notare zur unparteiischen Amtsausübung. Notarielle Korrespondenz muss diese besondere Neutralitätspflicht widerspiegeln und darf keine Parteinahme erkennen lassen.
 
-### BVerfG-Rechtsprechung
+### Rechtsprechung
 
-Das Bundesverfassungsgericht hat mehrfach bestätigt, dass berufsrechtliche Sachlichkeitspflichten verfassungsgemäße Einschränkungen der Meinungsfreiheit aus Art. 5 Abs. 1 GG darstellen, soweit sie verhältnismäßig sind und dem Schutz des Ansehens der Rechtspflege dienen.
+Verfassungsrechtliche Aussagen zur Meinungsfreiheit und zu berufsrechtlichen Sachlichkeitspflichten werden nur nach Live-Verifikation der einschlägigen Entscheidung ausgegeben.
 
 ## Verwendung
 

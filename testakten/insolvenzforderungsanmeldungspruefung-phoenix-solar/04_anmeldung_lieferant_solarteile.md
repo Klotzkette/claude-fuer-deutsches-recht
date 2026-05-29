@@ -48,7 +48,7 @@ Trotz Mahnung vom 15. März 2026 (Anlage A3) und nochmaliger Mahnung vom 5. Apri
 
 ### Besonderheit Rechnung SN-2026-016
 
-Hinsichtlich der Rechnung SN-2026-016 (4.200,00 EUR) ist folgendes zu vermerken: Im Offenen-Posten-System (OPOS) der Schuldnerin ist diese Rechnung als „bezahlt" markiert. Auf dem Gläubigerkonto der Solarteile Nord GmbH ist hingegen kein entsprechender Zahlungseingang verbucht. Weder ein Kontoauszug noch ein Überweisungsbeleg konnte beigebracht werden. Die Gläubigerin geht von einer internen Buchungsdifferenz aus und meldet den Betrag vorsorglich mit an. Sie erklärt ausdrücklich, dass sie die Forderung zurückziehen wird, sofern der Insolvenzverwalter einen Zahlungsnachweis erbringt.
+Hinsichtlich der Rechnung SN-2026-016 (4.200,00 EUR) ist folgendes zu vermerken: Im Offenen-Posten-System (OPOS) der Schuldnerin ist diese Rechnung als "bezahlt" markiert. Auf dem Gläubigerkonto der Solarteile Nord GmbH ist hingegen kein entsprechender Zahlungseingang verbucht. Weder ein Kontoauszug noch ein Überweisungsbeleg konnte beigebracht werden. Die Gläubigerin geht von einer internen Buchungsdifferenz aus und meldet den Betrag vorsorglich mit an. Sie erklärt ausdrücklich, dass sie die Forderung zurückziehen wird, sofern der Insolvenzverwalter einen Zahlungsnachweis erbringt.
 
 Der Insolvenzverwalter hat die Kontoauszüge der Schuldnerin zu prüfen und festzustellen, ob ein Zahlungsabfluss aus dem Schuldnervermögen auf diesen Rechnungsbetrag erfolgt ist.
 
@@ -81,7 +81,7 @@ Nach erster Sichtung durch die Kanzlei Muster & Partner ergibt sich folgender vo
 
 1. **Rechnungen SN-2026-014, -015, -017, -018:** Dem Grunde und der Höhe nach schlüssig belegt. Lieferscheine vorhanden, keine Mängelrüge. Vorschlag: Feststellung als einfache Insolvenzforderung (§ 38 InsO) in Höhe von **24.250,20 EUR** (Summe dieser vier Rechnungen).
 
-2. **Rechnung SN-2026-016 (4.200,00 EUR):** Bestreiten vorläufig wegen OPOS-Vermerk „bezahlt". Klärung mit Kontoauszug erforderlich (Nachforderungsschreiben geplant). Vorschlag: vorläufig nicht zur Feststellung.
+2. **Rechnung SN-2026-016 (4.200,00 EUR):** Bestreiten vorläufig wegen OPOS-Vermerk "bezahlt". Klärung mit Kontoauszug erforderlich (Nachforderungsschreiben geplant). Vorschlag: vorläufig nicht zur Feststellung.
 
 3. **Zinsen 42,00 EUR (SN-2026-018):** Zeitraum endet korrekt am Eröffnungsstichtag, Berechnung nachvollziehbar. Vorschlag: Feststellung.
 

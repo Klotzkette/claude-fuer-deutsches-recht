@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-foerderung-vergabe
-description: "Foerderrecht und Vergabe fuer Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt oeffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Pruefraster: Foerderfaehigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Pruefung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin."
+description: "Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Foerderrecht und Vergabe — Verkehrsinfrastruktur
@@ -26,18 +26,11 @@ description: "Foerderrecht und Vergabe fuer Verkehrsinfrastruktur-Projekte: Komm
 
 ## Aktuelle Rechtsprechung
 
-- OLG Muenchen, Beschl. v. 17.06.2021 - Verg 6/21, NZBau 2021, 540 — Ruegepflicht nach § 160 Abs. 3 GWB ist nicht disponibel; verspaetete Ruege fuehrt zur Unzulaessigkeit des Nachpruefungsantrags auch wenn der Verstos objektiv schwerwiegend war.
-- BVerwG, Urt. v. 20.01.2022 - 3 C 13.20, NVwZ 2022, 801 — Zuwendungsrecht BHO: Nebenbestimmungen eines Foerderbescheids muessen verhaeltnismaessig sein; uebermassige Zweckbindungs-Anforderungen sind aufzuheben.
-- OLG Duesseldorf, Beschl. v. 15.09.2021 - Verg 24/21, NZBau 2022, 55 — Vergaberecht: unvollstaendige Angebotsunterlagen (fehlendes Referenzprojekt) fuehren zur Ausschluss-Pflicht; Ermessen des Auftraggebers nur in Grenzen.
-- BGH, Beschl. v. 14.01.2020 - XIII ZB 28/18, NZBau 2020, 347 — Vergaberechtliche Ruege genuegt formalen Anforderungen wenn der Verstos klar benannt und unverzueglich erhoben wird; Rechtsmittel bleibt zulaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Dreher/Kulartz/Kus/Portz/Prieß GWB § 160 Rn. 1-30 (Nachpruefungsverfahren)
-- Ziekow/Voelker, Vergaberecht § 97 GWB (Grundsaetze)
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 25 (Zuwendungsrecht)
-- Stelkens/Bonk/Sachs VwVfG § 36 (Nebenbestimmungen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow Vergabe
 
 1. **Schwellenwert pruefen:** EU-weite Ausschreibung oder national?

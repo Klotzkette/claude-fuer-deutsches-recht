@@ -1,6 +1,6 @@
 ---
 name: inkasso-zahlungsklage-ersteller
-description: "Glaeubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Pruefraster: Mahnvorlauf Anspruchs-Gatekeeper faellig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage fuer klare faellige belegte Ansprueche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)."
+description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)."
 ---
 
 # Inkasso-Zahlungsklage-Ersteller
@@ -20,20 +20,17 @@ description: "Glaeubiger hat offene Forderung die er vor Gericht einklagen will.
 
 ## Rechtsprechung
 
-BGH, Urt. v. 12.07.2006 – X ZR 157/05, NJW 2006, 3271 — Verzug nach § 286 BGB setzt eine wirksame Mahnung oder eine kalendermäßige Bestimmtheit der Fälligkeit voraus; eine bloße Rechnung ohne Fälligkeitsdatum genügt nicht für den Verzugseintritt ohne weitere Mahnung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 23.01.2008 – VIII ZR 246/06, NJW 2008, 1084 — Inkassokosten sind als Verzugsschaden nach § 280 Abs. 2 i.V.m. § 286 BGB erstattungsfähig, wenn ein Rechtsanwalt oder Inkassodienstleister eingeschaltet und die Einschaltung erforderlich war; die Kosten müssen der Höhe nach verhältnismäßig sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 10.01.2018 – VIII ZR 278/16, NJW 2018, 1391 — Hat der Schuldner die Hauptforderung vor Einreichung der Klage vollständig bezahlt und weiß der Gläubiger davon, ist eine Klage auf die Hauptforderung unzulässig (§ 91a ZPO) oder führt zur sofortigen Kostenpflicht nach § 93 ZPO bei sofortigem Anerkenntnis.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.10.2006 – VIII ZR 23/06, NJW 2007, 428 — Bei Abtretung der Forderung muss der Zessionar die lückenlose Abtretungskette darlegen und beweisen; fehlende Belege für die Abtretung führen zur Abweisung wegen fehlender Aktivlegitimation.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Zöller, ZPO, 35. Aufl. 2024, § 253 Rn. 1–40 (Klageantrag, Anlagen, Zuständigkeit).
-Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 286 Rn. 1–30, § 288 Rn. 1–15 (Verzug, Zinsen, Inkassokosten).
-Musielak/Voit, ZPO, 20. Aufl. 2023, §§ 12–29c Rn. 1–50 (örtliche Zuständigkeit, Verbraucherschutz).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill baut aus einer Forderungsakte einen sauberen Mahn- und Klageworkflow. **Eingeklagt werden nur Ansprüche, die klar, fällig, durchsetzbar und belegt sind.** Unsichere Positionen werden nicht eingeklagt, sondern als Rückfrage oder Nichtklage-Empfehlung ausgegeben.

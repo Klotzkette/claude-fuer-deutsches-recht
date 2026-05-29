@@ -42,7 +42,7 @@ Die Schuldnerin ist zahlungsunfähig im Sinne des § 17 InsO. Sie ist nicht in d
 
 **1. Erfolgloser Mahnlauf**
 
-Die Antragstellerin mahnte die offenen Beträge zunächst mit Zahlungserinnerung vom 18.03.2026, sodann mit förmlicher Mahnung vom 26.03.2026 und schließlich mit Letztmahnung vom 10.04.2026 an. Auf die Letztmahnung reagierte der Geschäftsführer der Schuldnerin per E-Mail vom 12.04.2026 mit der Erklärung, er könne derzeit „keine Zahlung in Aussicht stellen" und bitte um Geduld.
+Die Antragstellerin mahnte die offenen Beträge zunächst mit Zahlungserinnerung vom 18.03.2026, sodann mit förmlicher Mahnung vom 26.03.2026 und schließlich mit Letztmahnung vom 10.04.2026 an. Auf die Letztmahnung reagierte der Geschäftsführer der Schuldnerin per E-Mail vom 12.04.2026 mit der Erklärung, er könne derzeit "keine Zahlung in Aussicht stellen" und bitte um Geduld.
 
 **2. Gescheiterter Ratenplan**
 

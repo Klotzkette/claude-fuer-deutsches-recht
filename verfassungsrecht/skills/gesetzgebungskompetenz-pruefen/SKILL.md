@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-pruefen
-description: "Gesetzgebungskompetenz des Bundes oder eines Landes fuer konkretes Regelungsvorhaben pruefen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Pruefraster: ausschliessliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzpruefmemo Ergebnis mit Fundstellen. Abgrenzung: nicht fuer formelles Gesetzgebungsverfahren (formelle-verfassungsmaessigkeit)."
+description: "Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzprüfmemo Ergebnis mit Fundstellen. Abgrenzung: nicht für formelles Gesetzgebungsverfahren (formelle-verfassungsmäßigkeit)."
 ---
 
 # Gesetzgebungskompetenz prüfen
@@ -67,8 +67,7 @@ Bund darf nur, wenn und soweit die Herstellung gleichwertiger Lebensverhältniss
 
 **Leitentscheidungen:**
 
-- Altenpflege BVerfGE 106, 62 (strenge Prüfung der Erforderlichkeit, „erforderlich" nicht gleich „zweckmäßig")
-- Juniorprofessur BVerfGE 111, 226 (Bundeszuständigkeit zur Hochschulgesetzgebung war nicht erforderlich)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4c. Abweichungsgesetzgebung Art. 72 Abs. 3 GG
 
@@ -110,20 +109,15 @@ Gesetzgebungskompetenz nicht verwechseln mit Verwaltungskompetenz:
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Urt. v. 27.07.2005 — 1 BvR 668/04, BVerfGE 113, 348 Rn. 55 — Kompetenz-Schwerpunkt bestimmt Zuordnung zu Art. 73 oder 74 GG; Nebenaspekte fremder Materien schaden nicht wenn Kernregelung klar einer Kompetenz-Norm zugeordnet ist
-- BVerfG, Urt. v. 09.07.2007 — 2 BvF 1/04, BVerfGE 119, 59 Rn. 80 — Erforderlichkeitsklausel Art. 72 Abs. 2 GG; Bundestag muss positive Feststellung treffen; pauschale Begruendung bundeseinheitlicher Notwendigkeit genuegt nicht; inhaltliche Pruefung BVerfG moeglich
-- BVerfG, Beschl. v. 14.03.2017 — 2 BvL 6/13, BVerfGE 145, 20 Rn. 60 — Sperrwirkung Art. 72 Abs. 1 GG; Bund macht von konkurrierender Kompetenz Gebrauch sobald er inhaltlich abschliessend regelt; Schweigen des Bundesgesetzes in Teilbereichen gibt Laendern Spielraum
-- BVerfG, Beschl. v. 26.03.2019 — 1 BvR 673/17, BVerfGE 151, 101 Rn. 40 — Kompetenz kraft Natur der Sache; nur anerkannt fuer Angelegenheiten die ihrem Wesen nach Bundeskompetenz erfordern; strenge Anforderungen; nicht erweiterbar auf beliebige Bundesinteressen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 70-74 GG (Kompetenzverteilung) — Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 70 Rn. 1 ff. (Abgrenzungsgrundsaetze) und Art. 72 Rn. 1 ff. (Erforderlichkeit)
-- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 70 Rn. 1 ff. (Kompetenzverteilung) und Art. 74 Rn. 1 ff. (konkurrierende Kompetenz, Katalog)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Format
 
 ```

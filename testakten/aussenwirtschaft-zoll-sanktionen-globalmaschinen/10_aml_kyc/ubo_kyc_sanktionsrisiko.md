@@ -37,7 +37,7 @@ Im Rahmen der Neukundenprüfung für die Lieferkette CNC-Steuermodul GX-900 wurd
 | Handelsregisterauszug Istanbul Ticaret Sicili | 03/2026 | Gut, offiziell apostilliert | OK |
 | Gesellschaftsvertrag (Esas Sözleşme) | 02/2024 | Türkisch, ohne beglaubigte Übersetzung | Unvollständig |
 | Jahresabschluss 2024 | Fehlt | — | **Fehlt** |
-| UBO-Selbstauskunft | 04/2026 | Ausgefüllt, nur Initial „A." für Nachname | **Unvollständig** |
+| UBO-Selbstauskunft | 04/2026 | Ausgefüllt, nur Initial "A." für Nachname | **Unvollständig** |
 | Ausweisdokument UBO Murat A. | Fehlt | — | **Fehlt** |
 | Transparenzregister (Deutschland: §§ 18–21 GwG) | Nicht anwendbar (TK-Gesellschaft) | — | EU-Transparenzregister prüfen |
 
@@ -50,12 +50,12 @@ Der als wirtschaftlich Berechtigter gemeldete Murat A. hält laut Selbstauskunft
 **Red-Flag-Prüfung UBO:**
 - Kein vollständiger Nachname übermittelt
 - Geburtsdatum nicht bestätigt (Selbstauskunft ohne Dokument)
-- Trefferverdacht in WorldCheck auf „Murat Arslan" (vgl. Sanktionsprüfbericht GM-SANKT-2026-017)
+- Trefferverdacht in WorldCheck auf "Murat Arslan" (vgl. Sanktionsprüfbericht GM-SANKT-2026-017)
 - Mögliche doppelte Staatsangehörigkeit (TK + RU) nicht ausgeschlossen
 - Kein Nachweis über Herkunft des Geschäftskapitals
 
 **Politisch exponierte Person (PEP)?**
-Eine PEP-Abfrage in der WorldCheck-Datenbank für „Murat A." / Istanbul ergibt keinen direkten PEP-Treffer. Aufgrund des ungeklärten Sanktionstreffer-Verdachts ist eine eingehende PEP-Prüfung mit vollständigen Identitätsdaten erforderlich, bevor ein Negativ-Urteil ausgestellt werden kann.
+Eine PEP-Abfrage in der WorldCheck-Datenbank für "Murat A." / Istanbul ergibt keinen direkten PEP-Treffer. Aufgrund des ungeklärten Sanktionstreffer-Verdachts ist eine eingehende PEP-Prüfung mit vollständigen Identitätsdaten erforderlich, bevor ein Negativ-Urteil ausgestellt werden kann.
 
 ---
 
@@ -87,7 +87,7 @@ Die Jebel Ali Free Zone (JAFZA) ermöglicht die Gründung von Unternehmen mit mi
 - Phantom Shipment (Zahlung ohne reale Warenlieferung)
 - Multiple Invoicing
 
-Das Zahlungsmuster (Provision aus Deutschland an VAE-FZE, zeitgleich mit Industriegüterlieferung nach Kasachstan) entspricht Risikotypologie Nr. 3.1 der FATF-Guidance „Trade-Based Money Laundering – Typologies".
+Das Zahlungsmuster (Provision aus Deutschland an VAE-FZE, zeitgleich mit Industriegüterlieferung nach Kasachstan) entspricht Risikotypologie Nr. 3.1 der FATF-Guidance "Trade-Based Money Laundering – Typologies".
 
 ---
 

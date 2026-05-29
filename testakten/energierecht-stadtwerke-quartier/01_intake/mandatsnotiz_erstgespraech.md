@@ -28,7 +28,7 @@
 
 Die **Stadtwerke Klotzkette AG** (SWKK) ist ein kommunales Energieversorgungsunternehmen mit Sitz in Lüdinghausen (NRW), im Mehrheits­besitz der Stadt Lüdinghausen (75,1 % Anteil). Das Unternehmen betreibt Strom- und Gasverteil­netze im Stadtgebiet sowie zwei Nahwärme­netze (Altstadt und Gewerbegebiet Ost) und beschäftigt rund 280 Mitarbeitende.
 
-Frau Dr. Wohlfahrt schildert das Projekt „Hafenbogen" als strategisches Vorhaben, das die SWKK sowohl als Netz­betreiber als auch als Energie­dienstleister positionieren soll. Das Projekt verbinde erstmals alle Säulen der Energie­wende in einem einzigen Quartier: Wärme, Strom, Speicher, Mobilität. Ausdrücklich betont sie, dass das Projekt auch Signal­wirkung für den Stadtrat haben soll, der im Herbst 2024 über den Haushalt entscheidet.
+Frau Dr. Wohlfahrt schildert das Projekt "Hafenbogen" als strategisches Vorhaben, das die SWKK sowohl als Netz­betreiber als auch als Energie­dienstleister positionieren soll. Das Projekt verbinde erstmals alle Säulen der Energie­wende in einem einzigen Quartier: Wärme, Strom, Speicher, Mobilität. Ausdrücklich betont sie, dass das Projekt auch Signal­wirkung für den Stadtrat haben soll, der im Herbst 2024 über den Haushalt entscheidet.
 
 Herr Seltmann erläutert die technische Ausgangslage: Das Quartier­areal (4,2 ha) war bis 2019 Güter­umschlagplatz der DB. Der Erb­baurechts­vertrag mit der DB Netz AG befindet sich in der Finalisierung; die SWKK geht von einem Abschluss bis Q2 2024 aus. Bau­beginn ist für Q3 2026 geplant.
 

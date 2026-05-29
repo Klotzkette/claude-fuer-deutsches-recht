@@ -23,15 +23,15 @@ Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhaeltnis zum 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Litauen vom 22.07.1997**, in Kraft 28.12.1997 (BGBl. 1998 II S. 84) — **verifizieren**.
+- **DBA Deutschland-Litauen vom 22.07.1997**, in Kraft 28.12.1997 (BGBl. 1998 II S. 84).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Litauen sind beide MLI-Unterzeichner. Ob das DBA-Litauen als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Litauen sind selten; einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG (Substanz) und Betriebsstaette (Hafen Klaipeda).
-- BMF-Schreiben zur Anwendung § 43b EStG / MTRL und § 50g EStG / ZinsLizenzRL — **Datum verifizieren**.
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / ZinsLizenzRL: aktuellen Stand beim BMF pruefen.
 
 ## Land-spezifisches
 
@@ -40,14 +40,17 @@ Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhaeltnis zum 
 - Bauausfuehrung **12 Monate**.
 
 ### Quellensteuer
-- Dividenden, Zinsen, Lizenzen — **konkret verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft (keine Personengesellschaft) mit mindestens 25 Prozent Kapitalbeteiligung; 15 Prozent in allen anderen Faellen.
+- **Zinsen** (Art. 11): 10 Prozent des Bruttobetrags.
+- **Lizenzgebuehren** (Art. 12): 5 Prozent des Bruttobetrags bei Nutzung gewerblicher Ausruestung; 10 Prozent bei allen anderen Lizenzgebuehren.
+- EU-MTRL (§ 43b EStG) und ZinsLizenzRL (§ 50g EStG) gehen vor.
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
 
 ### Besonderheiten
 - **Fintech-Lizenzen Litauen**: regulatorischer Schwerpunkt — Substanztest.
-- KSt 15 Prozent — **aktuell verifizieren**.
+- KSt 15 Prozent (Stand 2025, bestaetigt).
 
 ## Workflow
 
@@ -80,4 +83,6 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Litauen 22.07.1997, in Kraft 28.12.1997. **Datum, BGBl, MLI-Notification und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Litauen 22.07.1997, BGBl. 1998 II S. 84, in Kraft 28.12.1997. Dividenden 5/15%, Zinsen 10%, Lizenzen 5/10% (Industrieausruestung/andere). KSt Litauen 15%. MLI-Status: aktuellen BMF-DBA-Stand pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 84 bestaetigt (BMF-Webseite, gesetze-im-internet.de); Art. 10 5/15% bestaetigt; Art. 11 10% bestaetigt; Art. 12 5/10% bestaetigt; KSt 15% bestaetigt (WKO); MLI allgemein gefasst; BMF-Datum allgemein gefasst -->

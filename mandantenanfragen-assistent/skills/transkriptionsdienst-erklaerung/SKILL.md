@@ -1,12 +1,11 @@
 ---
 name: transkriptionsdienst-erklaerung
-description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklaerung in Erstantwort. Pruefraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis fuer Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator."
+description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis für Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator."
 ---
 
 # Transkriptionsdienst-Erklärung
 
 Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird. Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
-
 
 ## Triage zu Beginn
 1. Liegt ein Ausloeser fuer den Transkriptionsservice vor (Anfrage kurz/fragmentarisch, Nutzer kann nicht schreiben, expliziter Wunsch)?
@@ -15,9 +14,7 @@ Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in
 4. Wird die Einwilligung per automatisierter Ansage (Tastendruck) oder schriftlich eingeholt?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Auftragsverarbeitung durch Transkriptionsdienstleister erfordert AVV nach Art. 28 DSGVO; fehlendes AVV begruendet Datenschutzverstoß.
-- EuGH, Urt. v. 11.11.2020 - C-61/19, NJW 2021, 141 — Einwilligung fuer Sprachaufnahme muss informiert und freiwillig sein; Druckknopf-Bestaetigung am Telefon gilt als valide Einwilligungsform, wenn Informationspflicht vorher erteilt wurde.
-- OLG Koeln, Urt. v. 14.07.2022 - 15 U 137/21 — Verspaetete oder unvollstaendige Auskunft nach Art. 15 DSGVO begruendet immateriellen Schadensersatzanspruch nach Art. 82 Abs. 1 DSGVO; der Schadensersatz setzt keinen Datenverlust voraus, sondern genuegt bei nachgewiesenem Kontrollverlust.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage fuer Sprachaufnahme vor Mandatsannahme
@@ -25,15 +22,14 @@ Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in
 - Art. 9 Abs. 2 lit. a DSGVO — Ausdrückliche Einwilligung bei besonderer Datenkategorien (Gesundheit, Strafrecht)
 - Art. 13 DSGVO — Informationspflicht bei Ersterhebung von Sprachdaten: vollstaendige Vorab-Aufklaerung
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 28 Rn. 1-40 (AVV: Anforderungen und Pflichtinhalt fuer Dienstleister)
-- Sydow/Marsch DSGVO Art. 9 Rn. 30-50 (Besondere Datenkategorien: Einwilligungsanforderungen bei Sprachdaten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann wird dieser Skill aktiviert?
 
 Aktivierung wenn einer der folgenden Auslöser erkannt wird:
 
-- Explizit: „Ich kann nicht schreiben", „Ich schreibe lieber nicht", „Ich würde lieber anrufen und erzählen", „kann mich nicht gut schriftlich ausdrücken", „bin nicht so gut mit dem Computer"
+- Explizit: "Ich kann nicht schreiben", "Ich schreibe lieber nicht", "Ich würde lieber anrufen und erzählen", "kann mich nicht gut schriftlich ausdrücken", "bin nicht so gut mit dem Computer"
 - Implizit: Kurze, fragmentarische Anfrage ohne Sachverhalts-Details trotz offensichtlich komplexem Anliegen
 - Manuell: Die Sekretariatsmitarbeiterin aktiviert den Modus explizit
 
@@ -42,7 +38,7 @@ Aktivierung wenn einer der folgenden Auslöser erkannt wird:
 Der Ablauf, der in der Mail erklärt wird:
 
 1. **Anruf:** Die anfragende Person ruft unter der Transkriptions-Telefonnummer an.
-2. **Einwilligungsabfrage:** Zu Beginn des Anrufs wird eine automatisierte Ansage abgespielt, die auf die Verarbeitung der Sprachdaten hinweist. Die anrufende Person muss ihr Einverständnis durch Drücken einer Taste oder durch ein klares mündliches „Ja" bestätigen.
+2. **Einwilligungsabfrage:** Zu Beginn des Anrufs wird eine automatisierte Ansage abgespielt, die auf die Verarbeitung der Sprachdaten hinweist. Die anrufende Person muss ihr Einverständnis durch Drücken einer Taste oder durch ein klares mündliches "Ja" bestätigen.
 3. **Wichtig:** Ohne Einverständnis-Bestätigung wird die Aufnahme nicht gestartet. Der Anruf endet, oder die Person wird an das Sekretariat weitergeleitet.
 4. **Schilderung:** Nach bestätigtem Einverständnis schildert die Person ihr Anliegen mündlich.
 5. **Automatische Verschriftung:** Die Sprachaufnahme wird durch einen automatisierten Transkriptionsservice verschriftlicht.
@@ -86,7 +82,7 @@ In diesem Stadium besteht noch kein Anwalts-Mandatsverhältnis. Das bedeutet:
 
 ### Keine Zusagen zur Mandatsannahme
 
-Die Formulierung des Transkriptionsservice-Abschnitts enthält keine Zusagen, dass die Kanzlei das Mandat annehmen wird. Zulässig: „Wir melden uns auf Basis des Transkripts bei Ihnen." Nicht zulässig: „Wir werden Ihren Fall übernehmen."
+Die Formulierung des Transkriptionsservice-Abschnitts enthält keine Zusagen, dass die Kanzlei das Mandat annehmen wird. Zulässig: "Wir melden uns auf Basis des Transkripts bei Ihnen." Nicht zulässig: "Wir werden Ihren Fall übernehmen."
 
 ### Technisch neutrale Sprache
 
@@ -106,6 +102,5 @@ Aus `kanzlei.json`:
 - `erstantwort-generator` — bettet diesen Abschnitt in die Antwortmail ein
 
 <!-- AUDIT 27.05.2026
-BGH VI ZR 207/21: Aktenzeichen existiert nicht auf dejure.org; dejure.org/2022,22528 = BGH V ZR 207/21 (WEG Beschlusskompetenz, NJW-RR 2022, 1598) — kein DSGVO-Sprachaufnahme-Bezug. Geloescht.
-OLG Koeln 15 U 137/20: Falsches Aktenzeichen und falsches Datum — echtes AZ ist 15 U 137/21, Datum 14.07.2022; echtes Thema ist Art. 15 DSGVO verspaetete Auskunft / Art. 82 Schadensersatz, nicht Art. 13 DSGVO Sprachaufnahme. AZ und Datum korrigiert, Beschreibung angepasst. Quelle: dejure.org (OLG Koeln 14.07.2022 - 15 U 137/21). Prufer: Bundle-005-Audit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

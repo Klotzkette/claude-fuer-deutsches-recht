@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-share-classes-a-b-c
-description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Pruefraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht."
+description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Prüfraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht."
 ---
 
 # Anteilsklassen A / B / C / Common
@@ -23,17 +23,11 @@ description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40 (Kali+Salz) — Bezugsrechtsausschluss bei Kapitalerhöhung zur Ausgabe neuer Vorzugsanteile (Class A) an Investor: sachliche Rechtfertigung zwingend; Investor-Mehrwert (Kapital, Netzwerk, Know-how) kann sachlicher Grund sein.
-- BGH, Urt. v. 17.02.1997 - II ZR 41/96, BGHZ 134, 364 (Gelatine) — Sachliche Rechtfertigung des Bezugsrechtsausschlusses muss im GV-Protokoll substantiiert dokumentiert werden.
-- BGH, Urt. v. 19.09.2005 - II ZR 173/04, BGHZ 164, 107 — Vorzugsklassen mit Liquidation Preference: zulässig; aber Klausel, die Gründer de facto beliebig hinauskündigt, ist unwirksam (Hinauskündigungsgrenze).
-- OLG München, Urt. v. 25.10.2017 - 7 U 2378/17, NZG 2018, 224 — Klassenstreit: fehlerhafte Kapitalerhöhungsbeschlüsse (Klasse ohne valide Satzungsgrundlage) sind anfechtbar; Investor kann einstweiligen Rechtsschutz beantragen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Seibt, GmbHG, § 47 Rn. 30-50 (Stimmrecht, Sonderstimmrecht, Klassen)
-- Lutter/Hommelhoff, GmbHG, § 45 Rn. 1-25 (Gesellschafterrechte, Abweichungen, Klassensystem)
-- Baumbach/Hueck, GmbHG, § 53 Rn. 20-35 (Satzungsänderung für Klassensystem)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Klassen-Übersichtstabelle
 
 | Klasse | Typischer Inhaber | Stimmrecht | Liquidation Preference | Anti-Dilution | Veto-Rechte |
@@ -126,15 +120,14 @@ VETORECHTE CLASS A (Investor)
 ## Rote Schwellen
 
 - Bezugsrechtsausschluss für neue Klasse ohne sachliche Rechtfertigung → anfechtbar (BGH Kali+Salz).
-- Liquidation Preference als verdeckte Hinauskündigungsklausel konstruiert → unwirksam (BGH II ZR 173/04).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Klassensystem ohne Satzungsgrundlage (nur in SHA) → keine dingliche Wirkung; schuldrechtlich nur.
 - Full-Ratchet-Anti-Dilution ohne explizite Zustimmung aller Gründer → Verwässerungsschutz kann ruinös wirken; sorgfältig verhandeln.
 
 ## Quellen und Vertiefung
 
 - §§ 14, 45, 47, 53, 55 GmbHG (Gesellschafterrechte, Stimmrecht, Satzungsänderung, Kapitalerhöhung)
-- BGH II ZR 142/76, BGHZ 71, 40 (Kali+Salz)
-- BGH II ZR 173/04, BGHZ 164, 107 (Hinauskündigungsgrenze)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Seibt, GmbHG, § 47 Rn. 30-50
 
 ## Übergabe an andere Skills

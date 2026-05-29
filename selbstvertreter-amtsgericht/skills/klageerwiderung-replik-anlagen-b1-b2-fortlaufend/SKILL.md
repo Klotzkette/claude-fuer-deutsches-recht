@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-replik-anlagen-b1-b2-fortlaufend
-description: "Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortfuehren. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren."
+description: "Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren."
 ---
 
 # Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren

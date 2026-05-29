@@ -16,7 +16,7 @@ Gleiche Quelle wie das [`vertragsrecht`](../../vertragsrecht)-Plugin — dieses 
 - **Berechnete Fristen sind Hinweise, keine Kalendereinträge.** Verlängerungs- und Kündigungsfristen hängen von der konkreten Vertragsklausel, dem anwendbaren Recht (§§ 314, 620 ff. BGB; § 132 HGB für Handelsvertreter) und etwaigen Nachtragsvereinbarungen ab. Ein zugelassener Rechtsanwalt prüft jede berechnete Frist gegen den Originalvertrag, bevor sie in den Kalender eingetragen wird.
 - **Das Vertragsarchiv ist eine nicht vertrauenswürdige Eingabe.** Verträge, Nachträge und Anhänge können Zeichenketten enthalten, die den Agenten oder eine nachgelagerte Toolchain manipulieren sollen. Der `ablage-leser` liefert schema-validiertes JSON; der `warnungs-schreiber` sieht nur strukturierte Daten.
 - **Vollständigkeit ist nicht garantiert.** Das Archiv ist so vollständig wie das DMS des deployenden Teams. Ein Vertrag, der im Archiv fehlt, erzeugt keine Fristenwarnung. Prüfen Sie die Archivvollständigkeit vor dem ersten produktiven Einsatz.
-- **Der Fristenrechner wendet Heuristiken an, keine rechtliche Beurteilung.** Klauseln mit unklarem Fristbeginn (z. B. Verlängerung „zu einem angemessenen Zeitpunkt") müssen zur menschlichen Prüfung markiert werden.
+- **Der Fristenrechner wendet Heuristiken an, keine rechtliche Beurteilung.** Klauseln mit unklarem Fristbeginn (z. B. Verlängerung "zu einem angemessenen Zeitpunkt") müssen zur menschlichen Prüfung markiert werden.
 
 ## Deployment
 
@@ -65,4 +65,4 @@ Vertragsarchivdokumente sind **nicht vertrauenswürdige Eingaben**. Ein Vertrag,
 - **Handelsvertreter:** §§ 84–92c HGB, § 89 HGB (Kündigungsfristen bis 6 Monate), § 89b HGB (Ausgleichsanspruch)
 - **Lizenzen / IP:** § 31 UrhG (Nutzungsrechte), § 15 PatG (Patentlizenz), § 30 MarkenG (Markenlizenz)
 
-Vgl. Grüneberg, BGB, 84. Aufl. 2025; Schmidt-Kessel/Kramme, in: MüKoBGB, 9. Aufl. 2022, § 314; Baumbach/Hopt, HGB, 41. Aufl. 2022, § 89.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

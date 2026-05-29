@@ -1,6 +1,6 @@
 ---
 name: widerspruch-vorverfahren-78-sgg
-description: "Das Vorverfahren nach § 78 SGG erklaert. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prueft und wie das Ganze ablaeuft. Mit Mustertext."
+description: "Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prüft und wie das Ganze ablaeuft. Mit Mustertext."
 ---
 
 # Das Widerspruchsverfahren — § 78 SGG

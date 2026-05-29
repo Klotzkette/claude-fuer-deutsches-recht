@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung
-description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner ueber Kaufvertrag und fragt: Gilt UN-Kaufrecht und welche Ansprueche bestehen? CISG UN-Kaufrecht. Pruefraster: Anwendungsbereich Art. 1-5 CISG Abbedingung Art. 6 Vertragsschluss Art. 14-24 Vertragsmaeßigkeit Art. 35 Untersuchungspflicht Art. 38 Ruegepflicht Art. 39 (1-Monats-Faustregel BGH VIII ZR 159/94) Rechtsbehelfe Art. 45-52 Schadensersatz Art. 74-77 Befreiung Art. 79. Output: Anspruchsanalyse und Schriftsatz-Entwurf. Abgrenzung zu fachanwalt-iwr-cisg-anwendbarkeit (Anwendbarkeitspruefung)."
+description: "Workflow-Skill zu fachanwalt internationales wirtschaftsrecht cisg pruefung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -9,7 +9,7 @@ description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner
 2. Handelt es sich um bewegliche Sachen (Warenkauf) – keine Wertpapiere, Schiffe, Luftfahrzeuge, Elektrizität (Art. 2 CISG)?
 3. Enthält der Vertrag eine ausdrückliche Abbedingung des CISG nach Art. 6 CISG (z.B. "BGB gilt ausschließlich" oder "CISG is excluded")?
 4. Wann wurden die Mängel entdeckt – wurde die Untersuchungspflicht Art. 38 CISG eingehalten (so kurz wie möglich)?
-5. Wurde die Mängelrüge rechtzeitig nach Art. 39 CISG erstattet – Frist ca. 1 Monat ab Entdeckung (BGH VIII ZR 159/94)?
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. Liegt eine wesentliche Vertragsverletzung i.S.v. Art. 25 CISG vor, die Vertragsaufhebung Art. 49 CISG rechtfertigt?
 7. In welcher Höhe ist Schadensersatz entstanden und wurden Minderungsmaßnahmen nach Art. 77 CISG ergriffen?
 8. Lag ein Hindernis außerhalb des Einflussbereichs des Verkäufers vor (force majeure Art. 79 CISG)?
@@ -45,12 +45,7 @@ description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| BGH | VIII ZR 159/94 | 08.03.1995 | Art. 39 CISG Rügefrist: ca. 1 Monat als Faustregel bei Qualitätsmängeln (Knochenmehl-Urteil); kürzere Fristen bei perishables |
-| BGH | VIII ZR 51/95 | 03.04.1996 | Art. 25 CISG wesentliche Vertragsverletzung (Kobaltsulfat): Lieferung völlig unverwendbarer Ware = wesentlich; singuläres Ereignis mit Totalschaden |
-| BGH | VIII ZR 60/01 | 23.01.2002 | "Es gilt deutsches Recht" schließt CISG nicht aus; CISG ist Teil des deutschen Rechts bei internationalen Warenkäufen |
-| BGH | VIII ZR 30/10 | 09.11.2011 | Art. 38 CISG Untersuchungspflicht: bei Verarbeitung in Produktion gilt Entdeckungszeitpunkt bei Verarbeitung; keine Nachfrist |
-| OLG Düsseldorf | I-6 U 104/13 | 2014 | Art. 79 CISG force majeure: Rohstoffpreisexplosion kein Hindernis; wirtschaftliche Unzumutbarkeit nicht erfasst |
-| BGH | VIII ZR 283/17 | 2019 | Art. 74 CISG: Vorhersehbarkeit des Schadens bei Vertragsschluss; Lieferant kennt Produktionsplanung des Käufers nicht per se |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | ICC Schied | 13194/MS | 2013 | Art. 35 CISG Beschaffenheit: Abweichung von Probe = Vertragsverletzung auch ohne ausdrückliche Vereinbarung |
 
 ## Prüfschema
@@ -59,12 +54,12 @@ description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner
 |---------|-----------|------|-------------|
 | 1 | Anwendungsbereich: Parteien in versch. CISG-Staaten? Warenkauf bewegliche Sachen? | Art. 1–3 CISG | CISG anwendbar; sonst nationales Recht |
 | 2 | Ausnahmen Art. 2 CISG: Verbraucher, Auktion, Schiffe, Wertpapiere? | Art. 2 CISG | Ausnahme → nationales Kaufrecht |
-| 3 | Abbedingung Art. 6 CISG: ausdrücklich oder durch Gesamtbild des Vertrages | Art. 6 CISG, BGH VIII ZR 60/01 | Bei Wahl "dt. Recht" ohne CISG-Ausschluss → CISG gilt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Vertragsschluss Art. 14–24: Angebot bestimmt? Annahme fristgerecht? Abweichende Antwort Art. 19? | Art. 14, 18, 19 CISG | Wesentliche Abweichung = Ablehnung + Gegenangebot |
 | 5 | Pflichten Verkäufer Art. 30: Lieferung vertragsgemäß, vollständig, rechtzeitig | Art. 30, 35 CISG | Pflichtverstoß → Käuferrechte Art. 45 ff. |
 | 6 | Vertragsmäßigkeit Art. 35: Beschaffenheit vereinbart oder gewöhnliche Verwendung | Art. 35 CISG | Mangel wenn Ware nicht vertragsgemäß; Beweislast Käufer |
 | 7 | Untersuchung Art. 38: so bald wie möglich nach Übergabe/Ankunft | Art. 38 CISG | Unterlassene Untersuchung → Rechtsverlust |
-| 8 | Rüge Art. 39: angemessene Frist nach Entdeckung (ca. 1 Monat, BGH VIII ZR 159/94); 2-Jahres-Ausschlussfrist | Art. 39 CISG | Verspätete Rüge → Verlust aller Mängelrechte |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Wesentliche Vertragsverletzung Art. 25: Vertragsaufhebungsrecht Art. 49 | Art. 25, 49 CISG | Wesentlich: Käufer bekommt nicht was er erwarten durfte; Verkäufer hätte Konsequenz vorhersehen können |
 | 10 | Rechtsbehelfe wählen: Nachbesserung Art. 46, Minderung Art. 50, SE Art. 74, Aufhebung Art. 49 | Art. 45–52 CISG | Wahl des Rechtsbehelfs nach Interessenlage |
 | 11 | Schadensersatz Art. 74–77: vorhersehbar + Mitigation | Art. 74, 77 CISG | Vorhersehbarkeit bei Vertragsschluss; Minderungspflicht des Geschädigten |
@@ -82,7 +77,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Ruegefrist verpasst | Art. 40 CISG-Ausnahme (Arglist) pruefen; sonst Schadensbegrenzung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatz-Bausteine
 
@@ -106,7 +100,7 @@ Ware [genaue Bezeichnung, Menge] folgende Mängel aufweist:
 
 Die Mängel wurden am [Entdeckungsdatum] nach pflichtgemäßer Untersuchung gemäß
 Art. 38 CISG festgestellt. Die Rüge erfolgt hiermit fristgerecht gemäß Art. 39 Abs. 1
-CISG [innerhalb 1 Monat nach Entdeckung; BGH VIII ZR 159/94].
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wir behalten uns alle Rechte gemäß Art. 45 ff. CISG vor, insbesondere Nachbesserung
 (Art. 46 Abs. 3 CISG), Minderung (Art. 50 CISG) und Schadensersatz (Art. 74 CISG).
@@ -203,11 +197,11 @@ Art. 49 CISG bleiben unberührt.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion |
 |---------------|---------------------|---------|
-| CISG abbedungen ("dt. Recht gilt") | Art. 6 CISG, BGH VIII ZR 60/01 | "Dt. Recht" schließt CISG nicht aus; nur ausdrücklicher CISG-Ausschluss wirksam |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rüge verspätet | Art. 39 Abs. 1 CISG | Entdeckungszeitpunkt belegen (Untersuchungsbericht, E-Mail); versteckte Mängel: späterer Fristbeginn |
-| Kein wesentlicher Mangel (Art. 25) | Art. 25 CISG, BGH VIII ZR 51/95 | Alternativ Minderung Art. 50 CISG ohne Wesentlichkeit; Schadensersatz Art. 74 CISG ohne Aufhebung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Mitigation versäumt | Art. 77 CISG | Deckungskauf nachweisen; Marktpreis-Alternative nachweisen; Mitigation war unmöglich (Art. 79) |
-| Force majeure: Rohstoffpreisexplosion | Art. 79 CISG, OLG Düsseldorf I-6 U 104/13 | Rein wirtschaftliche Unzumutbarkeit = kein Hindernis i.S.v. Art. 79; vertragliche Preisgleitklausel verhandeln |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Zinshöhe Art. 78 CISG unklar | Art. 78 CISG | Nationales Recht des Schuldnerstatuts bestimmt Zinssatz; dt. Recht: § 288 BGB (9 Prozentpunkte über Basiszinssatz im B2B) |
 
 ## Streitwert und Kosten
@@ -241,11 +235,7 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 ## Quellen
 
 - CISG UN-Kaufrecht (Wiener Übereinkommen v. 11.04.1980), BGBl. 1989 II S. 588
-- BGH VIII ZR 159/94, Urt. v. 08.03.1995, BGHZ 129, 75 (Knochenmehl)
-- BGH VIII ZR 51/95, Urt. v. 03.04.1996, NJW 1996, 2364 (Kobaltsulfat)
-- BGH VIII ZR 60/01, Urt. v. 23.01.2002, BGHZ 149, 337
-- BGH VIII ZR 283/17, Urt. v. 2019, NJW 2019, 2313
-- OLG Düsseldorf I-6 U 104/13, Urt. v. 2014
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schlechtriem/Schwenzer, Kommentar zum UN-Kaufrecht, 7. Aufl. 2019
 - Brunner/Gottlieb, Commentary on the UN Sales Law (CISG), 2019
 - UNCITRAL CLOUT Datenbank (clout.uncitral.org)
@@ -262,10 +252,7 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 
 ### Ergaenzende Leitsaetze CISG
 
-- BGH, Urt. v. 08.03.1995 - VIII ZR 159/94, BGHZ 129, 75 — Erstmaliges Grundsatzurteil zur CISG-Maengelanzeige Art. 39: Unverzueglichkeit bedeutet innerhalb angemessener Frist nach Entdeckung; Frist haengt von Umstaenden ab (Ware, Branche).
-- BGH, Urt. v. 04.12.1996 - VIII ZR 306/95, NJW 1997, 870 — Art. 39 CISG absolute Ausschlussfrist 2 Jahre ab Lieferung; Ausnahme nur bei Arglist Art. 40 CISG.
-- BGH, Urt. v. 02.03.2005 - VIII ZR 67/04, NJW 2005, 2066 Rn. 18 — Ausschluss des CISG durch AGB wirksam wenn AGB in Vertrag einbezogen; pauschale "Deutsches Recht" Klausel kann CISG nicht ausschliessen.
-- BGH, Urt. v. 30.06.2004 - VIII ZR 321/03, NJW 2004, 3037 — Voraussehbarkeit des Schadens Art. 74 CISG: Schaden muss bei Vertragsschluss vorhersehbar sein; entgangener Gewinn einbezogen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template CISG-Gutachten
 **Adressat:** Mandant oder Schiedsgericht — Tonfall: sachlich-juristisch
@@ -294,6 +281,5 @@ Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
 ```
 
 <!-- AUDIT 27.05.2026
-Geprüfte AZ: BGH VIII ZR 355/13 — auf dejure.org nicht auffindbar (NOT_FOUND); Eintrag in Leitentscheidungen-Tabelle entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->

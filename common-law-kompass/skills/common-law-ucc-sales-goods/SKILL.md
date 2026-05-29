@@ -1,6 +1,6 @@
 ---
 name: common-law-ucc-sales-goods
-description: "Anwalt prueft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschaeft. Pruefraster UCC Art. 2 Sale-of-Goods-Act-Pruefung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln)."
+description: "Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln)."
 ---
 
 # UCC und Sale of Goods

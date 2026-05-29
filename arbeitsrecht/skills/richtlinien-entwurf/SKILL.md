@@ -1,6 +1,7 @@
 ---
 name: richtlinien-entwurf
-description: "Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt „Richtlinie entwerfen zu [Thema]\", „wir brauchen eine Regelung zu\" oder eine Regelungslücke benennt."
+description: 'Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt "Richtlinie entwerfen zu [Thema]", "wir brauchen eine Regelung zu" oder eine Regelungslücke benennt.'
+
 ---
 
 # Richtlinien-Entwurf (Arbeitsrecht)
@@ -53,24 +54,24 @@ Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 Rn. 31:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Betriebliche Übung als Anspruchsgrundlage; einseitige Verschlechterung
   einer durch betriebliche Übung entstandenen Leistungspflicht unwirksam;
   Änderungskündigung als erforderliches Instrument
-- BAG, Urt. v. 23.01.2018 – 1 AZR 65/17, NZA 2018, 735 Rn. 16 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Mitbestimmungspflicht bei einseitiger Änderung betrieblicher Regelungen
   in § 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
   Einigung
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Kania, in: ErfK, 25. Aufl. 2025, § 87 BetrVG Rn. 1:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Katalog der erzwingbaren Mitbestimmungsrechte; Reichweite bei einzelnen
   Themenfeldern (Homeoffice, Datenschutz, Zeiterfassung)
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 200:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle;
   Transparenzgebot im Arbeitsrecht
-- Thüsing, in: HWK, 11. Aufl. 2024, § 2 NachwG Rn. 1:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Nachweispflicht; schriftliche Mitteilung bei Änderungen; Folgen
 
 ## Ablauf
@@ -138,7 +139,7 @@ Struktur:
 - Verfahren (wie beantragen, wer genehmigt, was passiert bei Verstoß)
 - Ansprechpartner (an wen wenden bei Fragen)
 
-Vermeiden: „unbeschadet", „vorbehaltlich", verschachtelte Ausnahmen.
+Vermeiden: "unbeschadet", "vorbehaltlich", verschachtelte Ausnahmen.
 Das ist eine Betriebsregelung, kein Vertrag.
 
 **Datenschutzprüfung:** Falls die Regelung die Verarbeitung von
@@ -271,8 +272,7 @@ Jede Ausgabe dieser Skill zitiert je nach Relevanz:
 - §§ 305 ff. BGB (AGB-Kontrolle), § 307 BGB (Inhaltskontrolle)
 - § 2 NachwG (Nachweispflicht)
 - § 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
-- BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 (betriebliche Übung)
-- BAG, Urt. v. 23.01.2018 – 1 AZR 65/17, NZA 2018, 735 (Mitbestimmung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.
 
 > **Entwurf, keine geltende Regelung.** Dieser Entwurf ist ein Arbeitsdokument
@@ -299,10 +299,8 @@ Anpassungsbedarf.
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 16.12.2021 — 7 AZR 432/20**, NZA 2022, 589 — Betriebliche Übung durch drei gleichförmige Gewährungen einer Leistung; einseitige Verschlechterung erfordert Änderungskündigung oder individualvertragliche Vereinbarung; pauschale Disclaimer-Klausel im Handbuch schließt betriebliche Übung nur aus, wenn sie klar und deutlich formuliert ist.
-- **BAG, Urt. v. 24.03.2021 — 10 AZR 16/20**, NZA 2021, 842 — Transparenzgebot § 307 Abs. 1 S. 2 BGB bei vorformulierten Arbeitsrichtlinien; unklare Klauseln über Geltungsbereich oder Ausnahmen gehen zu Lasten des Verwenders.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- BAG 9 AZR 557/05 (NZA 2006, 1149) entfernt: Urteil betrifft AGB-Kontrolle von Versetzungsklauseln (Redakteurin, billigem Ermessen), nicht AGB-Kontrolle von Handbuchregelungen/Bezugnahmeklausel wie behauptet. Quelle: dejure.org. Kein verifizierbarer Ersatz gefunden; Eintrag gelöscht.
 -->

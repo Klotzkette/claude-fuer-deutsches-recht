@@ -1,6 +1,6 @@
 ---
 name: zv-abwehr-schuldner
-description: "Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmaessigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Pruefraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung)."
+description: "Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung)."
 ---
 
 # Schuldnerabwehr in der Zwangsvollstreckung
@@ -54,21 +54,21 @@ Gegenmittel für Schuldner und betroffene Dritte. Die Vollstreckung ist staatlic
 
 Sehr hohe Hürde – sittenwidrige Härte. Beispiele aus der Rechtsprechung:
 
-- Suizidgefahr (BVerfG 19.10.2017 – 2 BvR 1936/17)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - schwere Erkrankung, kurz bevorstehende Operation
 - Hochschwangerschaft
 - Tod naher Angehöriger
-- besondere Konstellationen wie Härtefall im Tierschutz (BVerfG 1.10.2014 – 1 BvR 2059/14 zum Hund)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Antrag muss vor Vollstreckungsmaßnahme gestellt sein; Aussetzung § 769 ZPO mitbeantragen.
 
 ## Leitentscheidungen
 
-- BGH 25.10.2007 – VII ZB 26/07 (§ 767 nach Schluss mündliche Verhandlung)
-- BGH 14.7.2008 – II ZR 132/07 (Aufrechnung nach Titel)
-- BVerfG 19.10.2017 – 2 BvR 1936/17 (Suizidgefahr)
-- BGH 16.6.2016 – IX ZR 23/15 (§ 767 nach Restschuldbefreiung)
-- BVerfG 1.10.2014 – 1 BvR 2059/14 (Hund unpfändbar)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

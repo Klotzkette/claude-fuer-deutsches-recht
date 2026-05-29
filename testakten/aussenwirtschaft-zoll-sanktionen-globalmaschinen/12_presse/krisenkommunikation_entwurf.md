@@ -13,7 +13,7 @@
 
 Die Süddeutsche Wirtschaftszeitung (SWZ) hat am 14. April 2026 um 09:15 Uhr eine Presseanfrage an die Unternehmenskommunikation der Globalmaschinen GmbH übermittelt. Inhalt:
 
-> „Uns liegen Informationen vor, wonach die Globalmaschinen GmbH trotz der geltenden EU-Russland-Sanktionen CNC-Steuermodule über türkische und kasachische Zwischenhändler in die Russische Föderation geliefert haben soll. Können Sie dies bestätigen oder dementieren? Welche internen Kontrollmaßnahmen bestanden? Kooperiert Ihr Unternehmen mit den Behörden?"
+> "Uns liegen Informationen vor, wonach die Globalmaschinen GmbH trotz der geltenden EU-Russland-Sanktionen CNC-Steuermodule über türkische und kasachische Zwischenhändler in die Russische Föderation geliefert haben soll. Können Sie dies bestätigen oder dementieren? Welche internen Kontrollmaßnahmen bestanden? Kooperiert Ihr Unternehmen mit den Behörden?"
 
 ---
 
@@ -23,7 +23,7 @@ Die Süddeutsche Wirtschaftszeitung (SWZ) hat am 14. April 2026 um 09:15 Uhr ein
 |---|---|---|
 | Hat Globalmaschinen wissentlich RU beliefert? | Nein – es liegen keine Belege vor | Ja |
 | Sind Waren an Turan/KZ-Endkunden ausgeliefert worden? | Ja (Jan + März 2026) | Ja (eingeräumt) |
-| Gibt es internen Chat mit „Kasachstan"-Formulierung? | Ja – Bewertung durch RA läuft | Nein – kein Kommentar zu laufenden internen Untersuchungen |
+| Gibt es internen Chat mit "Kasachstan"-Formulierung? | Ja – Bewertung durch RA läuft | Nein – kein Kommentar zu laufenden internen Untersuchungen |
 | Ist BAFA/HZA eingeschaltet? | Ja – kooperieren | Ja (kooperativ darstellen) |
 | Ist Lieferstopp verhängt? | Ja, seit 12.04.2026 | Ja (proaktiv kommunizieren) |
 | Gibt es Strafverfolgungsrisiko? | Hoch bei Dual-Use, Sanktionen | Nicht kommentieren |
@@ -90,7 +90,7 @@ A: Erste Hinweise ergaben sich im Rahmen routinemäßiger Compliance-Prüfungen 
 
 Das Stuttgarter Maschinenbauunternehmen, das CNC-Steuermodule und Industriekomponenten weltweit vertreibt, betont, dass wissentliche Verstöße gegen die EU-Sanktionsregime weder stattgefunden haben noch geduldet werden. Erste interne Prüfungen haben jedoch ergeben, dass in einzelnen Liefervorgängen die internen Kontrollprozesse nicht in vollem Umfang gegriffen haben.
 
-„Wir nehmen diese Erkenntnisse mit größtem Ernst. Die vollständige Aufklärung hat absolute Priorität. Wir haben unverzüglich einen Lieferstopp verhängt, unsere Compliance-Strukturen intensiviert und informieren proaktiv die zuständigen Behörden", erklärt Marcus Vogt, Geschäftsführer der Globalmaschinen GmbH.
+"Wir nehmen diese Erkenntnisse mit größtem Ernst. Die vollständige Aufklärung hat absolute Priorität. Wir haben unverzüglich einen Lieferstopp verhängt, unsere Compliance-Strukturen intensiviert und informieren proaktiv die zuständigen Behörden", erklärt Marcus Vogt, Geschäftsführer der Globalmaschinen GmbH.
 
 Das Unternehmen hat am 12. April 2026 einen sofortigen Lieferstopp für die betroffenen Produktlinien verhängt. Zusätzlich wurden folgende Maßnahmen eingeleitet:
 

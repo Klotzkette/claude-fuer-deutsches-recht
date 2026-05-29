@@ -1,6 +1,7 @@
 ---
 name: antragspflicht-15a-inso
-description: "Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§ 823 Abs. 2 BGB iVm § 15a InsO) sowie das Zahlungsverbot nach § 15b InsO. Lädt, wenn Schlagwörter wie „Antragspflicht\", „Insolvenzverschleppung\", „3-Wochen-Frist\", „Zahlungsverbot\" oder „§ 15a InsO\" auftreten."
+description: 'Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§ 823 Abs. 2 BGB iVm § 15a InsO) sowie das Zahlungsverbot nach § 15b InsO. Lädt, wenn Schlagwörter wie "Antragspflicht", "Insolvenzverschleppung", "3-Wochen-Frist", "Zahlungsverbot" oder "§ 15a InsO" auftreten.'
+
 ---
 
 # § 15a InsO — Antragspflicht, Insolvenzverschleppung und § 15b InsO Zahlungsverbot
@@ -38,7 +39,7 @@ Wochen nach Eintritt der Zahlungsunfähigkeit oder sechs Wochen nach Eintritt
 der Überschuldung, Insolvenzantrag zu stellen. Die verlängerte Sechswochenfrist
 für Überschuldung wurde durch das Sanierungs- und Insolvenzrechtsfortentwick-
 lungsgesetz (SanInsFoG) zum 01.01.2021 eingeführt (zuvor ebenfalls drei
-Wochen). Beide Fristen sind **Höchstfristen**, kein „Recht zu warten": Der
+Wochen). Beide Fristen sind **Höchstfristen**, kein "Recht zu warten": Der
 Antrag ist zu stellen, sobald ein Eröffnungsgrund vorliegt und ernsthafte,
 objektiv erfolgversprechende Sanierungsbemühungen nicht nachgewiesen werden
 können.
@@ -79,7 +80,7 @@ können auch nach Eintritt der Insolvenzreife privilegiert sein, wenn die
 Nichtleistung zur persönlichen Haftung des Geschäftsführers (§ 69 AO) führen
 würde.
 
-> **BGH, Urt. v. 06.06.2023 – II ZR 88/22, NJW 2023, 3164 Rn. 22 ff.:**
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > Der BGH hat klargestellt, dass Steuerzahlungen nach Eintritt der
 > Insolvenzreife unter § 15b Abs. 8 InsO fallen können, soweit der
 > Geschäftsleiter andernfalls nach § 69 AO persönlich haftet; die Privilegierung
@@ -89,48 +90,41 @@ würde.
 
 ### Kanonische Rechtsprechung
 
-**BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Grundlegende Entscheidung zur Antragspflichthaftung: Der II. Zivilsenat
 befand, dass § 64 Abs. 1 GmbHG a.F. (heute § 15a InsO) ein Schutzgesetz
 i.S.d. § 823 Abs. 2 BGB ist. Neugläubiger können ihren vollen
 Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf den Quotenschaden
-beschränkt (BGHZ 126, 181, 190 ff.).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**BGH, Urt. v. 19.12.2017 – II ZR 234/18, NZG 2020, 1116 Rn. 17–23:**
-Der II. Zivilsenat konkretisiert die Dreiwochen­frist: Sie beginnt in dem
-Moment, in dem der Geschäftsführer die Zahlungsunfähigkeit kannte oder bei
-pflichtgemäßer Sorgfalt hätte kennen müssen. Bloße Sanierungsverhandlungen
-hemmen den Fristlauf nicht; erforderlich ist ein belastbares Sanierungskonzept
-mit konkreter Erfolgsaussicht (Rn. 20). Der Fristbeginn ist **objektiv** zu
-bestimmen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Der II. Zivilsenat konkretisiert die Feststellung der Zahlungsunfähigkeit
+anhand einer Liquiditätsbilanz. Fällige Verbindlichkeiten sind einzubeziehen;
+der Dreiwochenzeitraum dient nur der Abgrenzung einer vorübergehenden
+Zahlungsstockung. Für den Workflow heißt das: nicht auf eine Schonfrist
+vertrauen, sondern Eintritt und Erkennbarkeit des Insolvenzgrundes sofort
+dokumentieren.
 
-**BGH, Urt. v. 14.05.2012 – II ZR 88/22 [Hinweis: unterschiedl. Az.]:**
-Zu § 64 GmbHG a.F. / § 15b InsO: Zur Erstattungspflicht für verbotene
-Zahlungen nach Insolvenzreife; subjektive Kenntnis des Geschäftsführers ist
-nicht Tatbestandsvoraussetzung — maßgeblich ist objektiver Eintritt der
-Insolvenzreife.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Zur Insolvenzverschleppungshaftung und zum Neugläubigerschaden; für den
+subjektiven Tatbestand genügt die Erkennbarkeit der Insolvenzreife, die im
+Ausgangspunkt vermutet wird.
 
-**BGH, Urt. v. 29.01.2013 – IX ZR 88/11, NJW 2013, 940 Rn. 15–19:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zum Verschulden bei Antragspflichtverletzung: Der Geschäftsführer muss die
 wirtschaftliche Lage der Gesellschaft laufend im Blick behalten. Unterlässt er
 die gebotene Prüfung, handelt er fahrlässig. Der Berater (Steuerberater) hat
 Hinweispflichten, kann den Geschäftsführer aber nicht von seiner eigenen
 Verantwortung entbinden (Rn. 17).
 
-**BGH, Urt. v. 24.01.2012 – II ZR 309/03 (sinngemäß zur Differenzhaftung):**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Altgläubiger können lediglich den **Quotenschaden** (die Verringerung ihrer
 Insolvenzquote durch die Insolvenzverschleppung) ersetzt verlangen;
 Neugläubiger dagegen den vollständigen Vertrauensschaden.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Klöhn, in: MünchKomm InsO, 4. Aufl. 2019, § 15a Rn. 1 ff., 85 ff.
-  (Antragspflicht, Fristbeginn, Schutzgesetzeigenschaft).
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 15a Rn. 3–12, 45 ff.
-  (Abs. 4–6 Strafbarkeit, faktischer Geschäftsführer, § 15b).
-- Bork, ZIP 2021, 1457 (1460 ff.) (SanInsFoG-Reform: neue Sechswochenfrist
-  für Überschuldung, Schnittstellen StaRUG).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### IDW-Standard
 
 **IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen),
@@ -142,7 +136,6 @@ Fristbeginns nach § 15a Abs. 1 InsO. Tz. 8 ff. regeln den Stichtag der
 Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
 ## Ablauf
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -156,8 +149,8 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 2. **Beginn der Antragsfrist**
    Die Frist beginnt mit dem objektiven Eintritt des Eröffnungsgrundes,
    frühestens jedoch mit dem Zeitpunkt, in dem der Geschäftsleiter diesen kannte
-   oder bei pflichtgemäßer Sorgfalt hätte erkennen können (BGH, Urt. v.
-   06.06.1994 – II ZR 292/91, BGHZ 126, 181). Dreiwochen­frist bei Zahlungsunfähigkeit;
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Sechswochen­frist bei Überschuldung (seit 01.01.2021).
 
 3. **Sanierungsversuche dokumentieren**
@@ -196,7 +189,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Ausgabeformat
 
 Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
@@ -213,7 +205,6 @@ Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
   D&O-Deckungsprüfung.
 - **Belege:** Mindestens zwei BGH-Entscheidungen mit Randnummer, relevante
   Kommentar­stellen, IDW S 11.
-
 
 ## Beispiel
 
@@ -233,7 +224,7 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
    mit der GmbH eingegangen sind, können ihren Vertrauensschaden (vollständiger
    Forderungsausfall abzüglich etwaiger Insolvenzquote) von Müller persönlich
    ersetzt verlangen. Altgläubiger können den Quotenschaden geltend machen
-   (BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181, 190 ff.).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. *Zahlungsverbot (§ 15b InsO):*
    Zahlungen, die Müller nach dem 22.04.2026 veranlasst hat und die nicht unter
@@ -247,11 +238,11 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
 
 ## Risiken und typische Fehler
 
-**1. Fristbeginn bei „wusste oder musste wissen"**
+**1. Fristbeginn bei "wusste oder musste wissen"**
 Der Fristbeginn ist objektiv. Es genügt, dass der Geschäftsleiter bei
 pflichtgemäßer Sorgfalt — d.h. bei Führung einer ordnungsgemäßen Buchhaltung
 und zeitnäher Aufstellung von Liquiditätsplänen — den Eröffnungsgrund hätte
-erkennen können (BGH II ZR 234/18 Rn. 20). Faktische Unkenntnis infolge
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 mangelhafter interner Kontrolle schützt nicht.
 
 **2. Sanierungsverhandlungen hemmen den Fristlauf nicht automatisch**
@@ -262,8 +253,8 @@ Verschulden mindern. Fehlt das Konzept, bleibt die Frist unberührt.
 
 **3. Faktischer Geschäftsführer ist antragspflichtig**
 § 15a InsO erfasst auch faktische Geschäftsführer, d.h. Personen, die ohne
-formelle Bestellung die Geschäftsführung tatsächlich übernehmen (Mock, in:
-Uhlenbruck, InsO, 16. Aufl. 2024, § 15a Rn. 45). Gleiches gilt für
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 Gesellschafter, die die Geschäfte an sich gezogen haben.
 
 **4. D&O-Versicherung — Deckungslücken**
@@ -277,7 +268,7 @@ einer Deckungsbestätigung sind unverzichtbar.
 **5. Versäumnis bei mehrköpfiger Geschäftsführung**
 In einer GmbH mit mehreren Geschäftsführern ist jeder einzeln antragspflichtig;
 die Pflicht ist nicht delegierbar. Der ressortfremde Geschäftsführer kann sich
-nicht auf Arbeitsteilung berufen (BGH IX ZR 88/11 Rn. 17).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **6. § 15b InsO — Irrtum über zulässige Zahlungen**
 Verbreiteter Fehler: Geschäftsleiter nehmen an, Gehaltszahlungen an sich selbst
@@ -289,22 +280,23 @@ nicht unter die Ausnahmen fallen.
 
 Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
 
-- BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Antragspflicht-Haftung, Schutzgesetz, Vertrauensschaden Neugläubiger)
-- BGH, Urt. v. 19.12.2017 – II ZR 234/18, NZG 2020, 1116 Rn. 17 ff.
-  (Dreiwochen­frist, Fristbeginn)
-- BGH, Urt. v. 29.01.2013 – IX ZR 88/11, NJW 2013, 940 Rn. 15 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  (Zahlungsunfähigkeit, Liquiditätsbilanz, Passiva II)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  (Insolvenzverschleppungshaftung, Erkennbarkeit der Insolvenzreife)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Verschulden, Aufklärungspflicht)
-- BGH, Urt. v. 06.06.2023 – II ZR 88/22, NJW 2023, 3164 Rn. 22 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (§ 15b InsO, Steuerzahlungen)
-- Klöhn, in: MünchKomm InsO, 4. Aufl. 2019, § 15a Rn. 1 ff., 85 ff.
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 15a Rn. 3 ff., 45 ff.
-- Bork, ZIP 2021, 1457 (1460 ff.)
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - IDW S 11, Tz. 7 ff. (Beurteilung Insolvenzeröffnungsgründe)
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
-
 
 ## Triage — Antragspflicht § 15a InsO
 
@@ -312,7 +304,7 @@ Bevor losgelegt wird, klaere:
 
 1. **Rechtsform?** § 15a InsO gilt fuer GmbH, AG, UG, GmbH & Co. KG; natuerliche Personen: keine Antragspflicht, nur Antragsrecht.
 2. **Eröffnungsgrund?** ZU § 17 InsO: Frist 3 Wochen. Ueberschuldung § 19 InsO: Frist 6 Wochen. Frist-Uhr laeuft ab erstem Kenntnistag.
-3. **Wer ist verpflichtet?** Jeder Geschaeftsfuehrer/Vorstand individuell; Delegation an Mitgeschaeftsfuehrer unwirksam (BGH II ZR 119/14).
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Sanierungsversuch?** Antragspflicht wird durch echten Sanierungsversuch NICHT beseitigt; Frist laeuft weiter; Eigenantrag sichert Sanierungszeit.
 5. **Zahlungen nach Insolvenzreife?** § 15b InsO: Zahlungen nach Insolvenzreife von GF persoenlich erstattten; Ausnahme nur Betriebskostenentgeltsatz ohne Massebeeintraechtigung.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -359,11 +351,8 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BGH IX ZR 75/21 (WRONG_TOPIC) entfernt: Entscheidung betrifft Insolvenzanfechtung/Vorsatzanfechtung
   § 133 InsO (Gläubigerbenachteiligung durch Zahlung Konzernabschlussprüfung), nicht Antragspflichthaftung.
-  Alle vier Vorkommen ersetzt durch BGH II ZR 292/91, BGHZ 126, 181 (verifiziert; Grundsatzentscheidung
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Antragspflichthaftung als Schutzgesetz, Vertrauensschaden Neugläubiger).
 -->

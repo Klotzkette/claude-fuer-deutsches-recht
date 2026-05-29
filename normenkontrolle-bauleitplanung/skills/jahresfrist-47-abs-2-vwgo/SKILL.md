@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-47-abs-2-vwgo
-description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prueft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Pruefraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzendes Verfahren § 214 Abs. 4 BauGB setzt neue Frist. Ruegefrist § 215 BauGB ein Jahr parallel. Output: Fristberechnung Normenkontrolle und Fristenbuch-Eintrag. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und planerhaltung-214-215-baugb."
+description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Prüfraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzendes Verfahren § 214 Abs. 4 BauGB setzt neue Frist. Ruegefrist § 215 BauGB ein Jahr parallel. Output: Fristberechnung Normenkontrolle und Fristenbuch-Eintrag. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und planerhaltung-214-215-baugb."
 ---
 
 # Jahresfrist § 47 Abs. 2 VwGO
@@ -156,10 +156,8 @@ Die Jahresfrist ist die dritte Zulässigkeitssäule und zugleich die schärfste 
 
 ## Ergänzende Rechtsprechung
 
-- BVerwG, Urt. v. 18.11.2010 - 4 CN 3.10, BVerwGE 138, 166 Rn. 19 — Die Jahresfrist des § 47 Abs. 2 S. 1 VwGO beginnt mit der ortsüblichen Bekanntmachung der Satzung; bei Bekanntmachungsmängeln, die die Anstoßfunktion verfehlen, beginnt die Frist nicht zu laufen.
-- BVerwG, Beschl. v. 22.10.2014 - 4 BN 32.14, ZfBR 2015, 172 — Keine Wiedereinsetzung in den vorigen Stand bei unentschuldigter Fristversäumung; die Jahresfrist ist eine Ausschlussfrist. Antragstellerin trägt die Obliegenheit zur rechtzeitigen Kenntnis der Bekanntmachung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO 29. Aufl., § 47 Rn. 75-95 (Jahresfrist Normenkontrolle)
-- Redeker/von Oertzen VwGO 16. Aufl., § 47 Rn. 30-45 (Beginn und Berechnung Frist)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: cross-class-cram-down-und-absolute-priority
-description: "Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Glaeubiger-Gruppen bestaetigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Pruefraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Glaeubiger-schlechter-gestellt-Test, gerichtliche Planbestaetigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin."
+description: "Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin."
 ---
 
 # Cross-Class-Cram-Down und Absolute Priority — § 26 StaRUG
@@ -30,7 +30,7 @@ Wenn eine oder mehrere Gläubigergruppen den Restrukturierungsplan ablehnen (als
 
 **Voraussetzungen (§ 26 Abs. 1 StaRUG):**
 
-1. **Gruppenübergreifende Mehrheit:** Mind. eine Gruppe hat zugestimmt (die gegen den Plan keinen Widerspruch erhebt — „konsentierte Gruppe")
+1. **Gruppenübergreifende Mehrheit:** Mind. eine Gruppe hat zugestimmt (die gegen den Plan keinen Widerspruch erhebt — "konsentierte Gruppe")
 2. **Schlechterstellungsverbot eingehalten:** Kein Mitglied der ablehnenden Gruppe wird schlechter gestellt als im besten Alternativszenario (§ 30 StaRUG)
 3. **Absolute Priority Rule:** Gläubiger ranghöherer Gruppen werden vollständig befriedigt, bevor rangniedrigere Gruppen oder Anteilsinhaber etwas erhalten
 4. **Kein Obstruktionstatbestand:** Die ablehnende Gruppe verhält sich nicht rechtsmissbräuchlich
@@ -186,10 +186,8 @@ ERGEBNIS:
 
 ## Aktuelle Leitentscheidungen — Cross-Class Cramdown
 
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG Cramdown § 26: Plan kann gegen ablehnende Klasse bestaetigt werden wenn: (1) kein Glaeubiger schlechter als ohne Plan, (2) Mehrheit der Klassen zugestimmt, (3) keine Klasse uebervorteilt gegenueber anderen gleichrangigen.
 
-- LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Absolute Priority Rule: abgeleitete Anforderung aus § 26 StaRUG; nachrangige Glaeubiger duerfen keine Vorteile erhalten wenn vorrangige Klasse ablehnt.
-- BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cramdown-Pruefung: Gericht prueft Cramdown-Voraussetzungen selbstaendig; mangelhafte Vergleichsrechnung fuehrt zur Ablehnung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Cross-Class Cramdown
 
@@ -202,13 +200,6 @@ ERGEBNIS:
 3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
 4. **Gleichbehandlung?** Kein Glaeubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Braun/Herzig, StaRUG §§ 26-28 — Cramdown und Minderheitenschutz.
-- MüKo InsO/Eidenmüller § 245 InsO Rn. 1 ff. — Obstruktionsverbot.
-- Uhlenbruck/Lüer §§ 245-246 InsO Rn. 1 ff. — InsO Cramdown.
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
-- GELOESCHT: BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 (Status: WRONG_TOPIC; reale Entscheidung betrifft Eigenverwaltung: Haftung des vertretungsberechtigten Geschaeftsleiters analog §§ 60 61 InsO BGHZ 218 290 — kein Bezug zu InsO Cramdown § 245 oder Best-Interest-Test)
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

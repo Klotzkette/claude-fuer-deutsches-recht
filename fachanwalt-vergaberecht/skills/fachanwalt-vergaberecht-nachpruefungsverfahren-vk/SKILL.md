@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-nachpruefungsverfahren-vk
-description: "Nachpruefungsverfahren bei der Vergabekammer durchfuehren: Laufendes VK-Verfahren oder Beschluss der VK liegt vor. Normen: §§ 160 ff. GWB, § 169 GWB (Suspensiveffekt Zuschlagsverbot), § 171 GWB (Sofortige Beschwerde OLG). Pruefraster: Antragsfrist 15 Werktage nach Ruegen-Ablehnung, VK-Verfahren (muendliche Verhandlung, Aufklaerung), Sofortbeschwerde OLG-Vergabesenat. Output VK-Schriftsatz, OLG-Beschwerde-Entwurf. Abgrenzung: Erstantrag VK siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; VK-Vergleich siehe fachanwalt-vergaberecht-vk-aufklaerung-vergleich."
+description: "Nachprüfungsverfahren bei der Vergabekammer durchführen: Laufendes VK-Verfahren oder Beschluss der VK liegt vor. Normen: §§ 160 ff. GWB, § 169 GWB (Suspensiveffekt Zuschlagsverbot), § 171 GWB (Sofortige Beschwerde OLG). Prüfraster: Antragsfrist 15 Werktage nach Ruegen-Ablehnung, VK-Verfahren (muendliche Verhandlung, Aufklärung), Sofortbeschwerde OLG-Vergabesenat. Output VK-Schriftsatz, OLG-Beschwerde-Entwurf. Abgrenzung: Erstantrag VK siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; VK-Vergleich siehe fachanwalt-vergaberecht-vk-aufklärung-vergleich."
 ---
 
 # Nachprüfungsverfahren VK

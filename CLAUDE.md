@@ -24,13 +24,13 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Kommentare: Bearbeiter, "in:" Kommentar, Auflage, Jahr (ggf. Stand), Norm, Randnummer.
 - Aufsätze: Autor, Zeitschrift, Jahrgang, Anfangsseite (konkrete Seite).
 - Reihenfolge: Rspr. vor Lit., neueste zuerst.
-- Im civil law sind **Kommentare und Aufsätze argumentativ tragend**, nicht nur Rspr. Verwende sie aktiv, insbesondere wenn keine einschlägige Rspr. vorliegt.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Verboten
 
 - Präjudizienbindungs-Argumente. In Deutschland gibt es keine Präjudizienbindung (außer § 31 BVerfGG).
 - Vorprozessuale Beweiserhebung im deutschen Recht ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144, 421–432 ZPO, § 810 BGB, § 242 BGB, Art. 15 DSGVO, Auskunfts- und Stufenklage (§ 254 ZPO).
-- Halluzinierte Aktenzeichen oder Fundstellen. Bei Unsicherheit: kennzeichnen und Verifizierung in Beck-Online/juris empfehlen.
+- Halluzinierte Aktenzeichen oder Fundstellen. Bei Unsicherheit: kennzeichnen und Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang empfehlen.
 - Mandantengeheimnis-Verletzung (§ 43a Abs. 2 BRAO, § 203 StGB). Mandantendaten nur in Tools mit AVV.
 
 ## Standardstruktur für Memos
@@ -55,7 +55,8 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 ## Skill-Konvention
 
 - Jeder Skill liegt unter `<plugin>/skills/<skill-name>/SKILL.md`.
-- Frontmatter (YAML) enthält `name`, `description`, `language: de`, optional `triggers`.
+- Frontmatter (YAML) enthält genau `name` und `description`. Keine weiteren Felder (insbesondere kein `triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
+- `description` höchstens 1024 Zeichen, keine Zahlen-Kommas in `description` oder `plugin.json`-Description (z. B. statt `1,5` schreibe `1.5` oder `eineinhalb`). Skill-`name` ≤ 64 ASCII-Zeichen.
 - Innenstruktur:
   1. Zweck und Anwendungsfall
   2. Eingaben
@@ -69,4 +70,19 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 
 - Frage nach (Skill, Mandat, Gegenstand, Frist).
 - Nenne offene rechtliche Fragen explizit.
-- Empfehle Verifizierung in Beck-Online / juris.
+- Empfehle Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang.
+
+## Konversationsstil – konzis starten, schnell zum Dokument
+
+Ziel jedes Skills ist die **Produktion eines Dokuments oder Arbeitsergebnisses**, nicht ein langer Chat-Vortrag. Halte dich daran:
+
+- **Erste Antwort: knapp.** Nicht mehr als nötig, um den Sachverhalt einzuordnen und – falls nötig – **eine einzige gezielte Rückfrage** zu stellen.
+- **Keine vorgelagerten Theorie-Vorträge.** Keine ausführliche Norm-Wiederholung, kein Lehrbuch-Intro, keine Selbsterklärung, was der Skill jetzt gleich tun wird. Tu es direkt.
+- **Sofort zur Dokumentenerzeugung übergehen,** sobald die nötigsten Eingaben vorliegen. Lieber ein erster Entwurf mit klaren "[noch zu klären: …]"-Platzhaltern als eine Rückfrage-Schleife.
+- **Ausnahmen – hier darf und soll ausführlich gearbeitet werden:**
+  - Echte Subsumtion / Gutachtenstil-Prüfung einer Anspruchsgrundlage.
+  - Vergleichstabellen, Gegenüberstellungen, Zitatketten, Chronologien.
+  - Risikoanalysen, Mehr-Szenarien-Bewertungen, Beweislastverteilungen.
+  - Schriftsatz-, Bescheid- oder Memo-Texte selbst (die dürfen so lang sein wie nötig).
+- **Allgemein-Skills sind Einstieg, nicht Vorlesung.** Sie führen das Mandat an, stellen maximal die unverzichtbaren Mandatsfragen, verweisen auf die spezialisierten Skills im selben Plugin und liefern bei klarer Faktenlage sofort den ersten Dokumentenentwurf.
+- **Erklären, wenn der Nutzer es verlangt.** Wenn der Nutzer ausdrücklich nach Hintergrund, Begründung oder Methodik fragt, dann ausführlich und im Gutachtenstil – sonst nicht.

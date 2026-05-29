@@ -1,6 +1,6 @@
 ---
 name: kueschk-berufung-und-revision-lag-bag
-description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgruende Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgruende."
+description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe."
 ---
 
 # Berufung und Revision: LAG und BAG
@@ -25,17 +25,11 @@ description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen 
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Beschl. v. 27.05.2021 – 2 AZN 1158/20, NZA 2022, 200 — Grundsatzrevision nach § 72 Abs. 2 Nr. 1 ArbGG setzt voraus, dass die aufgeworfene Rechtsfrage klärungsbedürftig und klärungsfähig ist; eine bereits geklärte oder rein einzelfallbezogene Frage begründet keine Grundsatzrevision.
-- BAG, Beschl. v. 18.03.2014 – 9 AZN 200/14, NZA 2014, 670 — Zur Divergenzrevision nach § 72 Abs. 2 Nr. 2 ArbGG: Das LAG-Urteil muss von einem tragenden Rechtssatz des BAG, BVerfG oder EuGH in entscheidungserheblicher Weise abweichen; bloße Subsumtionsfehler begründen keine Divergenz.
-- BAG, Urt. v. 15.02.2011 – 9 AZR 584/09, NZA 2011, 739 — Zur Berufungsbegründung nach § 64 Abs. 6 ArbGG i.V.m. § 520 Abs. 3 ZPO: Sie muss auf den konkreten Streitfall zugeschnitten sein und die Angriffe gegen die Begründung des Urteils des Arbeitsgerichts erkennen lassen; formelhafte Wiederholungen genügen nicht.
-- BAG, Urt. v. 28.08.2013 – 10 AZR 248/13, NZA 2013, 1392 — Nichtzulassungsbeschwerde nach § 72a ArbGG ist nur zulässig, wenn der Beschwerdeführer die gesetzlichen Zulassungsgründe in einer den Anforderungen des § 72a Abs. 3 Satz 2 ArbGG entsprechenden Form darlegt; unzulässige Beschwerde wird ohne Sachprüfung verworfen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Koch, 24. Aufl. 2024, § 64 ArbGG Rn. 1–30 (Berufung; Statthaftigkeit; Fristen; Begründungsanforderungen)
-- Germelmann/Matthes/Prütting, ArbGG, 10. Aufl. 2023, § 72 Rn. 1–40 (Revisionszulassung; Grundsatz- und Divergenzrevision; Verfahrensrügen)
-- Schaub/Koch, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 154 Rn. 1–30 (Rechtsmittel im arbeitsgerichtlichen Verfahren; Kostenrisiken)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweite Instanz — Berufung beim Landesarbeitsgericht (LAG)
 
 ### Voraussetzungen der Berufung

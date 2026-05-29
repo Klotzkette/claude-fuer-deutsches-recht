@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-firmenname-pruefung
-description: "Firmenname auf Zulaessigkeit und Verwechslungsgefahr pruefen: Differenzierungsgebot, Irrefuehrungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Pruefraster: Unterscheidungskraft, Irrefuehrungsverbot, Handelsregisterfaehigkeit, Markenrecherche-Empfehlung. Output: Pruefergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA."
+description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA."
 ---
 
 # Firmenname-Prüfung
@@ -28,17 +28,11 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 05.11.2015 – I ZR 50/14, GRUR 2016, 705** — Ein Firmenname, der den Unternehmensgegenstand in generischer Form beschreibt (z.B. „Online Service GmbH"), ist nach § 18 I HGB nicht hinreichend kennzeichnungsfaehig; Ergaenzung durch Phantasie- oder Personenname erforderlich.
-- **BGH, Urt. v. 22.07.2004 – I ZR 135/01, NJW 2004, 3692** — Verwechslungsgefahr nach § 30 HGB besteht nicht nur bei identischer, sondern auch bei aehnlicher Firma im selben Registerbezirk; Klangs- und Schriftbild-Aehnlichkeit genuegen.
-- **OLG Hamm, Beschl. v. 23.03.2010 – 15 W 15/10, NZG 2010, 638** — Firmenzusatz „International" ist irrefuehrend (§ 18 II HGB), wenn das Unternehmen ausschliesslich lokal taetig ist; Beanstandung durch HR-Gericht gerechtfertigt.
-- **BGH, Urt. v. 14.12.2006 – I ZR 34/04, GRUR 2007, 614** — Verwendung eines geschuetzten Markennamens als Firma stellt Markenverletzung nach § 14 MarkenG dar; Unterlassungs- und Schadenersatzanspruch des Markeninhabers; Umfirmierungspflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo HGB/Heidinger, 5. Aufl. 2021, §§ 17-37 Rn. 1-100 (Firmenrecht; Kennzeichnungskraft; Irrefuehrungs-Verbot)
-- Baumbach/Hopt, HGB, 41. Aufl. 2022, § 18 Rn. 1-50 (Firma; Verwechslungsgefahr)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 1-200 (Marken-Verletzung durch Firmennamen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Firmennamen-Check
 
 | Schritt | Pruefung | Stelle | Ergebnis |
@@ -103,7 +97,7 @@ Naechste Schritte:
 
 ## Rote Schwellen
 
-- Branchenbezeichnung „Bank", „Versicherung", „Steuerberatung" ohne Zulassung: Beanstandung und Ordnungswidrigkeitsverfahren
+- Branchenbezeichnung "Bank", "Versicherung", "Steuerberatung" ohne Zulassung: Beanstandung und Ordnungswidrigkeitsverfahren
 - Verwechslungsgefahr mit bestehender Firma im Registerbereich: Beanstandung HR-Gericht (§ 30 HGB)
 - Fremder Name ohne Berechtigung: Namensklage nach § 12 BGB; Unterlassung und Schadenersatz
 - Marken-Verletzung durch Firmennamen: Unterlassungsklage; Umfirmierungspflicht; erhebliche Kosten
@@ -111,8 +105,8 @@ Naechste Schritte:
 ## Quellen und Vertiefung
 
 - §§ 17-30 HGB (Firmenrecht), § 12 BGB, § 14 MarkenG
-- BGH GRUR 2016, 705; BGH NJW 2004, 3692; OLG Hamm NZG 2010, 638; BGH GRUR 2007, 614
-- MüKo HGB/Heidinger §§ 17-37; Baumbach/Hopt § 18; Ingerl/Rohnke § 14 MarkenG
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Uebergabe an andere Skills
 

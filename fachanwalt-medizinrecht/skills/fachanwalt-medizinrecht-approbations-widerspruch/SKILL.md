@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-approbations-widerspruch
-description: "Approbationswiderruf und Berufsrecht fuer Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwuerdigkeit Unzuverlaessigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Pruefraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Moeglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht."
+description: "Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht."
 ---
 
 # Approbations-Widerspruch
@@ -39,8 +39,7 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 ### BAG-/BVerwG-Linie
 
-- BVerwG, Urt. v. 16.9.1997 — 3 C 12/95 (Maßstab Unwürdigkeit)
-- BVerwG, Urt. v. 28.4.2010 — 3 C 22/09 (Mass der Verfehlung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 3) Verfahren
 
@@ -164,20 +163,15 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 ### Leitsatz-Zitate
 
-- BVerwG, Urt. v. 16.09.1997 — **3 C 12/95**, BVerwGE 105, 214 Rn. 22: Unwürdigkeit i.S.d. § 5 BÄO erfordert ein Verhalten, das bei Würdigung aller Umstände das Vertrauen in eine ordnungsgemäße Berufsausübung nachhaltig erschüttert; eine einmalige Verfehlung kann genügen.
-- BVerwG, Urt. v. 28.04.2010 — **3 C 22/09**, NJW 2011, 244 Rn. 14: Der Widerruf der Approbation wegen Unwürdigkeit setzt nicht zwingend ein rechtskräftiges Strafurteil voraus; die Behörde kann eigene Feststellungen treffen.
-- BVerfG, Beschl. v. 19.01.1993 — **1 BvL 2/91**, BVerfGE 88, 40 Rn. 32: Approbationswiderruf ist ein Eingriff in die Berufsfreiheit (Art. 12 Abs. 1 GG); Verhältnismäßigkeit ist streng zu prüfen.
-- BVerwG, Urt. v. 26.09.2012 — **3 C 25/11**, NVwZ 2013, 374 Rn. 20: Bei Suchterkrankung genügt Berufsverbot nicht allein als Nachweis; konkrete gesundheitliche Beeinträchtigung der Berufsfähigkeit muss festgestellt werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 5 Abs. 1 BÄO (Widerruf Unwürdigkeit/Unzuverlässigkeit) → § 5 Abs. 2 BÄO (Ruhen) → § 4 BÄO (Voraussetzungen Approbationserteilung) → § 28 VwVfG (Anhörung) → §§ 68 ff. VwGO (Widerspruch) → § 74 VwGO (Klagefrist) → § 80 Abs. 2 Nr. 4 VwGO (Sofortvollzug) → § 80 Abs. 5 VwGO (Eilantrag Aussetzung).
 
-### Kommentarliteratur
+### Quellenregel
 
-- Spickhoff Medizinrecht, 3. Aufl. 2021, § 5 BÄO Rn. 1 ff.
-- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, §§ 12–18 (Approbationsrecht).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen
 
 | Frist | Dauer | Norm |

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-schufa-eintrag
-description: "Mandant erhaelt negativen SCHUFA-Eintrag und will diesen loeschen oder berichtigen lassen. Art. 16 17 DSGVO § 31 BDSG Scoring EuGH C-634/21. Normen Art. 6 16 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Pruefraster Eintragungsvoraussetzungen Loeschungsanspruch Scoring-Transparenz Schadensersatz Art. 82 DSGVO. Output Loeschungsschreiben SCHUFA Widerspruch Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch (Detail) und mandat-triage (Ersterfassung)."
+description: "Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # SCHUFA-Eintrag
@@ -19,14 +19,12 @@ description: "Mandant erhaelt negativen SCHUFA-Eintrag und will diesen loeschen 
 - Übermittlung durch Gläubiger nur bei: 1) Vorliegen einer fälligen, unbestrittenen Forderung; 2) zwei qualifizierten Mahnungen im Abstand von mindestens vier Wochen; 3) Hinweis auf Übermittlung in der Mahnung; 4) keine Bestreitung der Forderung.
 - Berichtigung unrichtiger Daten: Art. 16 DSGVO.
 - Löschung: Art. 17 DSGVO bei unrechtmäßiger Verarbeitung.
-- EuGH zu SCHUFA-Scoring: EuGH C-634/21, Urt. v. 07.12.2023, Rn. 60 ff. (Score kann automatisierte Entscheidung i.S.d. Art. 22 DSGVO darstellen).
-- BGH zu DSGVO-Schadensersatz und Kausalität: BGH VI ZR 1213/22, Urt. v. 18.11.2024, Rn. 32 ff.
-- Schadensersatz immateriell Art. 82 DSGVO; EuGH C-300/21, Urt. v. 04.05.2023, Rn. 50.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
 - Verantwortlicher (Gläubiger/Auskunftei) trägt Rechenschaftspflicht Art. 5 Abs. 2 DSGVO für rechtmäßige Verarbeitung und ordnungsgemäße Mahnung.
-- Betroffener trägt Beweislast für konkreten Schaden (BGH VI ZR 1213/22).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Reaktionsfrist Auskunftei auf Berichtigungs-/Löschungsverlangen Art. 12 Abs. 3 DSGVO: ein Monat, verlängerbar um zwei Monate.
 - Beschwerde bei Aufsichtsbehörde Art. 77 DSGVO und Klage Art. 79 DSGVO.
 
@@ -45,7 +43,7 @@ description: "Mandant erhaelt negativen SCHUFA-Eintrag und will diesen loeschen 
 7. Schadensersatz Art. 82 DSGVO mit konkretem Schadensnachweis
 ```
 
-Standardliteratur: Kühling/Buchner DSGVO Art. 17, 82; Gola DSGVO; Plath BDSG/DSGVO § 31 BDSG.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage Löschungsverlangen an SCHUFA und Gläubiger
 

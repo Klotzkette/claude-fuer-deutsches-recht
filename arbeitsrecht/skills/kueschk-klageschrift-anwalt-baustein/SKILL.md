@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-anwalt-baustein
-description: "Anwaltliche Klageschrift Kuendigungsschutzklage: Klageschrift mit Tenor und Hilfsantraegen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begruendung nach KSchG-Pruefschema; Beweisangebote; BAG-Zitierstil."
+description: "Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil."
 ---
 
 # Klageschrift — Anwaltliche Version
@@ -29,17 +29,12 @@ description: "Anwaltliche Klageschrift Kuendigungsschutzklage: Klageschrift mit 
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 — Betriebsbedingte Kündigung: Der Arbeitgeber muss konkret darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf dauerhaft entfallen ist; Pauschalbehauptung von Auftragsrückgang genügt nicht.
-- BAG, Urt. v. 29.06.2017 – 2 AZR 302/16, NZA 2018, 61 — Verhaltensbedingte Kündigung: Eine Abmahnung ist bei steuerbarem Verhalten grundsätzlich erforderlich; sie kann nur ausnahmsweise entbehrlich sein, wenn es sich um eine schwerwiegende Pflichtverletzung handelt, bei der eine Verhaltensänderung nicht zu erwarten ist.
-- BAG, Urt. v. 22.09.2016 – 2 AZR 700/15, NZA 2017, 175 — BR-Anhörung: Der Arbeitgeber hat dem Betriebsrat alle für die Kündigung maßgeblichen Tatsachen mitzuteilen; Nachschieben von Tatsachen, die dem Betriebsrat nicht mitgeteilt wurden, ist im Prozess ausgeschlossen.
-- BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Allgemeiner Weiterbeschäftigungsanspruch: Nach erstinstanzlichem Obsiegen besteht ein Anspruch auf tatsächliche Weiterbeschäftigung aus §§ 611, 613, 242 BGB i.V.m. Art. 1 und 2 GG; der Arbeitgeber muss überragende Gegeninteressen darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 200–300 (Darlegungs- und Beweislast betriebsbedingte Kündigung; Sozialauswahl)
-- Schaub/Linck, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 133 Rn. 1–50 (Klageschrift Kündigungsschutz; Anträge; Anlagen)
-- HWK/Quecke, 10. Aufl. 2022, § 102 BetrVG Rn. 1–50 (BR-Anhörung; formelle Anforderungen; Konsequenzen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill erzeugt eine anwaltliche Klageschrift für Kündigungsschutzverfahren vor dem Arbeitsgericht. Er setzt Kenntnisse des KSchG-Prüfschemas voraus und ist für Rechtsanwältinnen und Rechtsanwälte konzipiert.
@@ -103,7 +98,7 @@ Der Kläger beantragt:
 
 2. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist, sondern über den [DATUM] hinaus zu unveränderten Bedingungen fortbesteht (§ 256 ZPO — allgemeiner Feststellungsantrag, sog. Schleppnetz).
 
-3. Die Beklagte wird verurteilt, den Kläger bis zum rechtskräftigen Abschluss des Kündigungsschutzverfahrens zu den bisherigen Arbeitsbedingungen als [BERUFSBEZEICHNUNG] tatsächlich weiterzubeschäftigen (allgemeiner Weiterbeschäftigungsanspruch nach BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122).
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Hilfsweise zu Antrag 3:]
 3a. [Hilfsweise: Weiterbeschäftigung nach § 102 Abs. 5 BetrVG, sofern BR-Widerspruch vorliegt]
@@ -126,7 +121,7 @@ Das KSchG ist gemäß § 1 Abs. 1 KSchG anwendbar. Die Wartezeit von sechs Monat
 
 [HIER EINZUFÜGEN — betriebsbedingt / personenbedingt / verhaltensbedingt — je nach Fall:]
 
-*Betriebsbedingt:* Die Beklagte hat keinen konkreten unternehmerischen Entschluss dargelegt, der zum dauerhaften Wegfall des Beschäftigungsbedarfs des Klägers geführt hat. Bloße Behauptung eines Auftragsmangels genügt nicht (BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 Rn. 20). Die Sozialauswahl (§ 1 Abs. 3 KSchG) ist fehlerhaft; Mitarbeiterin K weist geringere Sozialdaten auf.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **D. Formfehler [soweit einschlägig]**
 

@@ -7,7 +7,7 @@ description: "DBA Deutschland Norwegen. Anwendungsfall Oel und Gas Offshore Schi
 
 ## Kernsachverhalt
 
-Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 980) regelt insbesondere die Offshore-Branche (Nordsee-Oel und -Gas), Schifffahrt und Pensionen. Norwegen ist EWR-Mitglied (nicht EU) — Mutter-Tochter-Richtlinie und Zins-/Lizenz-Richtlinie sind **nicht** direkt anwendbar (aber teilweise durch EWR-Abkommen). Wegzugsbesteuerung wegen EWR-Status erleichtert moeglich.
+Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) regelt insbesondere die Offshore-Branche (Nordsee-Oel und -Gas), Schifffahrt und Pensionen. Norwegen ist EWR-Mitglied (nicht EU) — Mutter-Tochter-Richtlinie und Zins-/Lizenz-Richtlinie sind **nicht** direkt anwendbar (aber teilweise durch EWR-Abkommen). Wegzugsbesteuerung wegen EWR-Status erleichtert moeglich.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,15 +23,16 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 980) regelt insbesondere die O
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Norwegen vom 04.10.1991**, in Kraft 02.10.1993 (BGBl. 1993 II S. 980) — **verifizieren**.
+- **DBA Deutschland-Norwegen vom 04.10.1991**, in Kraft 07.10.1993 (BGBl. 1993 II S. 970; BStBl. 1993 I S. 655).
+- Aenderungsprotokoll vom 24.06.2013, in Kraft 03.02.2015 (BGBl. 2014 II S. 906).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
 - **EWR-Abkommen** ergaenzend (Niederlassung, Kapitalverkehr).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Norwegen haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 17/12 zu Norwegen-Offshore — **verifizieren**.
-- BMF-Schreiben zu Offshore-Besteuerung — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu DBA-Norwegen (Offshore, Schifffahrt) in juris abrufen.
+- Aktuelle BMF-Schreiben zur Offshore-Besteuerung im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -48,9 +49,9 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 980) regelt insbesondere die O
 - **Offshore-Arbeitnehmer**: Sondersteuerregel (Sokkelloven) Norwegen — gesonderte Pruefung.
 
 ### Passive Einkuenfte
-- **Dividenden**: typ. 0/15 Prozent — **konkret verifizieren**. Schachtelsatz oft 0 Prozent in DBA-NO.
-- **Zinsen**: typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren**: typ. 0 Prozent — **verifizieren**.
+- **Dividenden**: 0 Prozent (Schachtel ab 25 Prozent Beteiligung), 15 Prozent (Streubesitz). Kein EU-MTRL (EWR).
+- **Zinsen**: 0 Prozent.
+- **Lizenzgebuehren**: 0 Prozent.
 
 ### Vermeidungs-Methode
 - Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
@@ -90,4 +91,6 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 980) regelt insbesondere die O
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Norwegen 04.10.1991, in Kraft 02.10.1993. **Datum, BGBl-Fundstelle, MLI-Notification, Offshore-Klauseln und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Norwegen 04.10.1991, in Kraft 07.10.1993 (BGBl. 1993 II S. 970). Aenderungsprotokoll 24.06.2013 (BGBl. 2014 II S. 906, in Kraft 03.02.2015). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

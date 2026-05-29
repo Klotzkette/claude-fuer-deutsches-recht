@@ -7,7 +7,7 @@ description: "Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsbera
 
 ## Zweck
 
-Studierende wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von „Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
+Studierende wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von "Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
 
 **Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studierende analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
 
@@ -27,7 +27,7 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 
 - **§ 6 RDG** — Unentgeltliche Rechtsdienstleistung: zulässig durch Rechtsberatungsstellen unter anwaltlicher Aufsicht; die Aufsicht muss durch eine zur Rechtsanwaltschaft zugelassene Person ausgeübt werden.
 - **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studierende der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
-- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studierende sind als „berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
+- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studierende sind als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
 - **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Entwürfe für PKH-Anträge müssen wirtschaftliche Verhältnisse vollständig darlegen; Prüfung hinreichender Erfolgsaussichten (§ 114 Abs. 1 S. 1 ZPO).
 - **§§ 1, 2 BerHG** — Beratungshilfe: Voraussetzungen, Bewilligung vor Erbringung der Leistung.
 - **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
@@ -35,18 +35,11 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 16.07.2015 – IX ZR 197/14, NJW 2015, 3087 Rn. 20 — Anwaltliche Sorgfaltspflicht bei der Erstellung von Schriftsätzen; sinngemäß auf Beratungsstellen unter Aufsicht übertragbar.
-- BAG, Urt. v. 27.02.2020 – 2 AZR 570/19, NZA 2020, 901 Rn. 12 — Formvoraussetzungen und Klarheit eines Beendigungsschreibens im Arbeitsrecht; Schriftformgebot des § 623 BGB.
-- BVerwG, Urt. v. 20.02.2019 – 6 C 1/18, NVwZ 2019, 735 Rn. 8 — Formwirksamkeit des Widerspruchs im Verwaltungsverfahren; Anforderungen an Bestimmtheit und Begründung.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 ff. — Voraussetzungen unentgeltlicher Rechtsdienstleistung; studentische Beratungsstellen.
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 242 Rn. 34 — Gestaltung von Schreiben im Schuldrecht; Grundsatz von Treu und Glauben als Stilprinzip.
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 70 Rn. 3 — Formvorschriften für den Widerspruch (Doppelautoren-Kommentar).
-- Vorwerk, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 114 Rn. 5 — Voraussetzungen der Prozesskostenhilfe.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Welches Schriftstück?
@@ -61,7 +54,7 @@ Den Anforderungstyp dem Musterbestand der Beratungsstelle zuordnen. Typischer Be
 | **Verbraucherrecht** | Widerrufserklärung (§ 355 BGB), Mahnschreiben, Antwort auf Inkassoschreiben, Antrag auf Lastschriftrückgabe |
 | **Allgemein** | Beratungshilfe-Antrag (BerH 1), PKH-Antrag (ZPO 117), Vollmacht, Empfangsbekenntnis |
 
-Falls das angeforderte Schriftstück nicht im Musterbestand vorhanden ist: „Der Musterbestand der Beratungsstelle enthält kein Muster für [X]. Ich kann einen Entwurf nach allgemeinen Grundsätzen versuchen, aber dieser muss besonders sorgfältig geprüft werden — er wurde nicht auf das Rechtsgebiet und die zuständige Behörde/das Gericht abgestimmt. Besser wäre, den Supervisor zu fragen, ob ein bewährtes Muster vorliegt."
+Falls das angeforderte Schriftstück nicht im Musterbestand vorhanden ist: "Der Musterbestand der Beratungsstelle enthält kein Muster für [X]. Ich kann einen Entwurf nach allgemeinen Grundsätzen versuchen, aber dieser muss besonders sorgfältig geprüft werden — er wurde nicht auf das Rechtsgebiet und die zuständige Behörde/das Gericht abgestimmt. Besser wäre, den Supervisor zu fragen, ob ein bewährtes Muster vorliegt."
 
 ### Schritt 2: Sachverhalt aufnehmen
 
@@ -97,8 +90,8 @@ Drei Arten von Markierungen, direkt im Text:
 
 Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle, verstärkt durch die Grundvoraussetzung, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin die Aufsicht innehat (§ 6 Abs. 2 RDG). Gerichtliche und behördliche Einreichungen gehen immer durch die Supervisoren-Prüfung, unabhängig vom gewählten Supervisionsmodell.
 
-- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studierender sieht „in Warteschlange für [Supervisor]"
-- **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: „VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
+- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studierender sieht "in Warteschlange für [Supervisor]"
+- **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
 - **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
 ## Ausgabeformat
@@ -152,6 +145,6 @@ Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: 
 
 ## Quellenpflicht
 
-Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (beck-online, juris, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
+Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

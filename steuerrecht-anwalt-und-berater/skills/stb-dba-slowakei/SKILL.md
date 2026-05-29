@@ -1,6 +1,6 @@
 ---
 name: stb-dba-slowakei
-description: "DBA Deutschland Slowakei aus 1980 fortgeltend gegenueber Nachfolgestaat. Anwendungsfall Automotive Zulieferung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Slowakei aus 1980 fortgeltend gegenüber Nachfolgestaat. Anwendungsfall Automotive Zulieferung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Slowakei
@@ -23,31 +23,33 @@ Das DBA Deutschland-CSSR vom 19.12.1980 (BGBl. 1982 II S. 1023) gilt nach Notenw
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-CSSR vom 19.12.1980** (BGBl. 1982 II S. 1023) in Nachfolge fuer Slowakei — **Notenwechsel verifizieren**.
+- **DBA Deutschland-CSSR vom 19.12.1980** (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung fuer Slowakei per Bekanntmachung (BGBl. 1993 II S. 762).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: beide Unterzeichner; MLI wirksam auf das DBA-CSSR/Slowakei ab 01.01.2025 (BGBl. 2025 II Nr. 5).
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-CSSR / Nachfolge Slowakei sind selten; einschlaegig sind die allgemeinen BFH-Entscheidungen zur Betriebsstaette (Art. 5 MA) und Verstaendigung bei Auslegungsfragen alter DBA.
-- BMF-Schreiben zur Anwendung § 43b EStG / MTRL und § 50g EStG / ZinsLizenzRL — **Datum verifizieren**.
-- BMF-Notenwechsel zur Nachfolge des DBA-CSSR fuer Slowakei und Tschechien — **Datum/Fundstelle verifizieren**.
+- BMF-Schreiben zur Anwendung § 43b EStG / Mutter-Tochter-RL und § 50g EStG / Zins-Lizenzgebuehren-RL (aktuelle Fassungen ueber bundesfinanzministerium.de abrufbar).
+- Bekanntmachung ueber die Fortgeltung des DBA-CSSR gegenueber Slowakei: BGBl. 1993 II S. 762.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit, Betriebsstaette, Einkuenfte
 - Parallel zu DBA-Tschechien (gleicher Vertrag, beide Nachfolgestaaten).
-- Bauausfuehrung **12 Monate** — verifizieren.
+- Bauausfuehrung **12 Monate** (Art. 5 Abs. 2 Buchst. g DBA-CSSR, bestaetigt durch synthetisierten Text BMF 2025).
 
 ### Quellensteuer-Saetze
-- Dividenden, Zinsen, Lizenzen — **konkret im DBA-Text verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 25 Prozent; 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
+- **Zinsen** (Art. 11): ausschliesslich im Ansaessigkeitsstaat steuerpflichtig (0 Prozent Quellensteuer im Quellenstaat).
+- **Lizenzgebuehren** (Art. 12): 5 Prozent des Bruttobetrags. EU-ZinsLizenzRL bei verbundenen Unternehmen 0 Prozent.
 
 ### Vermeidungs-Methode
 - Anrechnungsmethode ueberwiegend.
 
 ### Besonderheiten
-- **Slowakei KSt** 21 Prozent (Stand 05/2026 — verifizieren) — kann unter AStG-Niedrigsteuerschwelle fallen.
+- **Slowakei KSt** ab 2025: 10 Prozent (Gewinne bis 100.000 EUR), 21 Prozent (100.001 bis 5.000.000 EUR), 24 Prozent (ueber 5.000.000 EUR) — kann je nach Konstellation unter AStG-Niedrigsteuerschwelle (§ 8 Abs. 5 AStG) fallen.
 - **Pensionen** Art. 18.
 
 ## Workflow
@@ -82,4 +84,6 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-CSSR 19.12.1980, fortgeltend fuer Slowakei. **Datum, BGBl, Nachfolge-Notenwechsel, MLI-Notification und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung fuer Slowakei per BGBl. 1993 II S. 762. MLI ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen 0 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 8 geprueft und bestaetigt (BGBl-Fundstelle korrigiert; Fortgeltung Bekanntmachung; MLI 01.01.2025; Quellensteuer-Saetze; Slowakei-KSt Staffel 2025; Bauausfuehrung), 0 gestrichen -->

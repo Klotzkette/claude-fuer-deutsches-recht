@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-abschnitt
-description: "Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begruendung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Pruefraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt fuer Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollstaendige Klageschrift."
+description: "Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollständige Klageschrift."
 ---
 
 # Schriftsatzabschnitt-Entwurf
@@ -12,7 +12,7 @@ Entwurf einzelner Abschnitte eines Schriftsatzes – Klageschrift, Klageerwideru
 ## Eingaben
 
 - Aktives Mandat (Slug) mit mandat.md und verlauf.md
-- Bezeichnung des gewünschten Abschnitts (z. B. „Sachverhaltsdarstellung", „Rechtliche Ausführungen zu Klageantrag 1", „Berufungsangriff I: Übergangener Beweisantrag")
+- Bezeichnung des gewünschten Abschnitts (z. B. "Sachverhaltsdarstellung", "Rechtliche Ausführungen zu Klageantrag 1", "Berufungsangriff I: Übergangener Beweisantrag")
 - Anspruchstabelle (falls vorhanden, aus `/anspruchstabelle`)
 - Chronologie (falls vorhanden, aus `/chronologie`)
 - Beizufügende Dokumente / Anlagen (Vertrag, Schriftverkehr, Sachverständigengutachten)
@@ -45,20 +45,15 @@ Verbindlich: `../references/zitierweise.md`.
 
 Einschlägige Kommentare und Rechtsprechung:
 
-- Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 253 Rn. 12 ff. (Klageschrift, Bestimmtheit der Anträge).
-- Gruber, in: MüKoZPO, 6. Aufl. 2020, § 520 Rn. 30 ff. (Berufungsbegründung, Berufungsangriffe).
-- Wulf, in: BeckOK ZPO, 52. Ed. (Stand 01.03.2024), § 520 Rn. 20 ff.
-- BGH, Urt. v. 26.04.2023 – VIII ZR 121/22, NJW 2023, 2253 Rn. 18 (Schlüssigkeit der Klageschrift).
-- BGH, Urt. v. 19.01.2022 – IV ZR 295/19, NJW 2022, 1097 Rn. 22 (Berufungsangriff, § 520 Abs. 3 Nr. 2 ZPO).
-- BGH, Beschl. v. 21.02.2017 – VIII ZB 74/16, NJW 2017, 2273 Rn. 14 (Anforderungen § 551 Abs. 3 ZPO).
-- Heßler, in: Zöller, ZPO, 35. Aufl. 2024, § 520 Rn. 28 ff.
-- Steinmetz, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 520 Rn. 15 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
 Schriftsatzformat im deutschen Standard:
 1. **Rubrum** (Gericht, Parteien, Az., Datum) – sofern vollständiger Schriftsatz
-2. **Abschnittsüberschrift** (z. B. „I. Sachverhaltsdarstellung", „III. Zum Berufungsangriff")
+2. **Abschnittsüberschrift** (z. B. "I. Sachverhaltsdarstellung", "III. Zum Berufungsangriff")
 3. **Fließtext im Urteilsstil** mit Randnummern (fakultativ)
 4. **Beweisangebote** am Ende jedes bestrittenen Tatsachenblocks
 5. **Lücken-Notizen** in Klammern: `[LÜCKE: Beleg für Fristversäumnis fehlt]`
@@ -70,13 +65,13 @@ Schriftsatzformat im deutschen Standard:
 >
 > Das Landgericht hat das Beweisangebot der Klägerin auf Vernehmung des Zeugen Müller (Schriftsatz v. 14.03.2023, S. 7) übergangen, ohne dies in den Entscheidungsgründen zu begründen. Dies verletzt Art. 103 Abs. 1 GG und § 286 Abs. 1 ZPO.
 >
-> Nach ständiger Rechtsprechung des BGH ist ein Beweisangebot nur dann ohne Fehler übergehen, wenn es entweder unerheblich, unzulässig oder eindeutig untauglich ist (BGH, Urt. v. 29.03.2023 – IV ZR 28/22, NJW 2023, 1891 Rn. 23; Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 286 Rn. 14). Keine dieser Voraussetzungen liegt hier vor.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 >
 > *Beweis: Zeugnis des Herrn Max Müller, [Anschrift] – Beweis-Nr. 5.*
 
 ## Risiken / typische Fehler
 
-- **Unbestimmter Antrag** (§ 253 Abs. 2 Nr. 2 ZPO): Der Klageantrag muss vollstreckbar formuliert sein; das Gericht darf nicht selbst nach billigem Ermessen ergänzen (BGH, Urt. v. 26.04.2023 – VIII ZR 121/22, NJW 2023, 2253 Rn. 18).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Berufungsbegründungsfrist:** § 520 Abs. 2 ZPO: 2 Monate ab Urteilszustellung; verlängerbar auf Antrag, aber nur mit gegnerischer Zustimmung oder wichtigem Grund.
 - **Neue Tatsachen in der Berufung:** § 531 Abs. 2 ZPO begrenzt neues Vorbringen; stets prüfen, ob Nachlässigkeit im ersten Rechtszug vorlag.
 - **Revisionsanforderungen:** § 543 Abs. 2 ZPO – Grundsatzbedeutung oder Sicherung einheitlicher Rechtsprechung; ohne NZB-Begründung keine Revision (§ 544 ZPO).
@@ -86,7 +81,7 @@ Schriftsatzformat im deutschen Standard:
 ---
 
 <!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (« neue Angriffsmittel § 531 ZPO ») – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach § 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
+Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (" neue Angriffsmittel § 531 ZPO ") – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach § 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
 Quelle   : https://dejure.org/2021,4358
 Aktion   : Zeile entfernt
 -->

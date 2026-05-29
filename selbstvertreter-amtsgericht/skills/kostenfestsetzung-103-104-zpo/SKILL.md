@@ -1,6 +1,6 @@
 ---
 name: kostenfestsetzung-103-104-zpo
-description: "Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren Ihre Kosten gegen den Verlierer festsetzen lassen. Antrag bei Geschaeftsstelle was erstattungsfaehig was nicht. Mit Muster und Hinweis auf Selbstvertretung-Sonderfall."
+description: "Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren Ihre Kosten gegen den Verlierer festsetzen lassen. Antrag bei Geschäftsstelle was erstattungsfähig was nicht. Mit Muster und Hinweis auf Selbstvertretung-Sonderfall."
 ---
 
 # Kostenfestsetzung: Bei Erfolg Geld zurueckholen

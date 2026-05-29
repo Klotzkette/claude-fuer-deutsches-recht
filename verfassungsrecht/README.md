@@ -16,7 +16,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 
 ## Wofür
@@ -44,14 +44,14 @@ Verfassungsrecht ist ein hochspezialisiertes Rechtsgebiet mit existentiellen Fol
 
 ## Referenzen
 
-- `references/bverfg-leitentscheidungen.md` — Kanon der wichtigsten BVerfG-Entscheidungen mit Az., Datum, BVerfGE-Fundstelle, URL und Kernsatz.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenstrategie
 
 1. **Primär:** Live-Suche auf [www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) (offizielle Entscheidungssammlung). Zitat immer mit Aktenzeichen, Randnummer und URL.
 2. **Sekundär:** Eigene Kanon-Referenz unter `references/bverfg-leitentscheidungen.md` als Schnellzugriff.
 3. **Ersatzweise:** [servat.unibe.ch/dfr/](https://www.servat.unibe.ch/dfr/) (DFR-Volltextsammlung BVerfGE), [opinioiuris.de](https://opinioiuris.de), [dejure.org](https://dejure.org) — nur wenn auf bundesverfassungsgericht.de nicht greifbar.
-4. **Kommentarliteratur:** Maunz/Dürig (Loseblatt), Sachs (Kommentar), Dreier (Kommentar).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Jede verfassungsrechtliche Aussage benötigt eine BVerfG-Pinpoint-Quelle (Az. + Rn.). Modellwissen ohne Quelle wird als `[zu verifizieren auf bundesverfassungsgericht.de]` markiert.
 

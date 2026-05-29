@@ -1,6 +1,6 @@
 ---
 name: gesetzesentwurf-kabinett
-description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begruendung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Pruefbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begruendung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung."
+description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung."
 ---
 
 # Gesetzesentwurf Kabinett
@@ -76,19 +76,15 @@ Liste der angehörten Verbände, eingegangene Stellungnahmen, Bewertung.
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Urt. v. 07.09.2010 — 2 BvF 1/09, BVerfGE 127, 292 Rn. 85 — Kabinetts-Beschluss als politisch-gubernative Entscheidung hat keine normative Bindungswirkung; erst Gesetzesverkuendung im BGBl. schafft Verbindlichkeit
-- BVerwG, Urt. v. 23.03.2016 — 6 C 14.15, NVwZ 2016, 943 — Ressort-Abstimmung als Verfassungsprozess; Verletzung der GGO-Ressortpflichten fuehrt nicht zur Nichtigkeit, kann aber parlamentarische Kontrolle beeintraechtigen
-- BVerfG, Beschl. v. 28.11.2011 — 2 BvE 8/11, BVerfGE 130, 318 Rn. 48 — Unterrichtungspflichten der Bundesregierung gegenueber Bundestag schliessen Kabinetts-Vorlagen ein; Zugang zu Regierungsentwurf vor zweiter Lesung Verfassungsgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 65 GG (Ressortprinzip) — Art. 76 GG (Einbringung Bundesgesetze) — §§ 15-28 GGO (Kabinettssache, Ressortabstimmung) — § 62 GGO (Rechts- und Gesetzesfolgen-Pruefung) — Art. 80 GG (Verordnungsermaechtigung in Kabinettsbeschluss)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 21 Rn. 1 ff. (Gesetzgebungsverfahren, Rolle der Bundesregierung)
-- Maunz/Dürig, GG, Art. 65 Rn. 1 ff. (Ressortprinzip, Kabinettsdisziplin) und Art. 76 Rn. 1 ff. (Einbringungsrecht Bundesregierung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Vollständige Mappe mit allen 14 Bestandteilen als getrennte Dateien plus Inhaltsverzeichnis.

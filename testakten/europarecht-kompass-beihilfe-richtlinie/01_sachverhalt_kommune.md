@@ -67,7 +67,7 @@ Am 3. Oktober 2023 reichte die HeatBridge AG eine förmliche Beschwerde bei der 
 
 ## F. Verfahrensstand
 
-Das Verwaltungsgericht Lüneburg (Az.: 3 A 228/23) hat am 18. Oktober 2023 die aufschiebende Wirkung der Klage der HeatBridge AG angeordnet und die Stadt Lindenhafen aufgefordert, bis zum 15. Dezember 2023 zur beihilferechtlichen Einordnung des Zuschusses Stellung zu nehmen. Die Vorsitzende Richterin der 3. Kammer, Dr. Friederike Lenz, hat in der mündlichen Verhandlung über den Eilantrag signalisiert, dass das Gericht erwäge, dem Gerichtshof der Europäischen Union (EuGH) eine Vorlagefrage nach Art. 267 AEUV zu stellen, sollte die Auslegung des Tatbestandsmerkmals der „Beeinträchtigung des Handels zwischen Mitgliedstaaten" im Sinne des Art. 107 Abs. 1 AEUV klärungsbedürftig bleiben.
+Das Verwaltungsgericht Lüneburg (Az.: 3 A 228/23) hat am 18. Oktober 2023 die aufschiebende Wirkung der Klage der HeatBridge AG angeordnet und die Stadt Lindenhafen aufgefordert, bis zum 15. Dezember 2023 zur beihilferechtlichen Einordnung des Zuschusses Stellung zu nehmen. Die Vorsitzende Richterin der 3. Kammer, Dr. Friederike Lenz, hat in der mündlichen Verhandlung über den Eilantrag signalisiert, dass das Gericht erwäge, dem Gerichtshof der Europäischen Union (EuGH) eine Vorlagefrage nach Art. 267 AEUV zu stellen, sollte die Auslegung des Tatbestandsmerkmals der "Beeinträchtigung des Handels zwischen Mitgliedstaaten" im Sinne des Art. 107 Abs. 1 AEUV klärungsbedürftig bleiben.
 
 Parallel hat die Europäische Kommission mit Schreiben vom 28. November 2023 (Ref.: SA.2023/0847) die Bundesrepublik Deutschland gemäß Art. 10 Abs. 1 der Verordnung (EU) 2015/1589 aufgefordert, innerhalb von 20 Arbeitstagen Auskunft über den Fördervorgang zu erteilen. Die Bundesregierung hat die Anfrage an das Land Niedersachsen weitergeleitet, welches seinerseits die Stadt Lindenhafen um eine detaillierte Stellungnahme gebeten hat.
 
@@ -77,7 +77,7 @@ Parallel hat die Europäische Kommission mit Schreiben vom 28. November 2023 (Re
 
 Die Akte wirft folgende zentrale Rechtsfragen auf:
 
-- Liegt eine „staatliche Beihilfe" i. S. d. Art. 107 Abs. 1 AEUV vor, insbesondere: Besteht eine grenzüberschreitende Handelsbeeinträchtigung auch bei einem rein lokalen Fernwärmenetz?
+- Liegt eine "staatliche Beihilfe" i. S. d. Art. 107 Abs. 1 AEUV vor, insbesondere: Besteht eine grenzüberschreitende Handelsbeeinträchtigung auch bei einem rein lokalen Fernwärmenetz?
 - Greift die DAWI-Ausnahme (Dienstleistungen von allgemeinem wirtschaftlichem Interesse) des Art. 106 Abs. 2 AEUV, und falls ja: unter welchen Voraussetzungen?
 - Ist der Zuschuss nach der AGVO (Art. 36: Umweltschutzbeihilfen für Energieeffizienz) freigestellt, und welche formellen Anforderungen (Anzeige, Transparenzdatenbank) wurden nicht erfüllt?
 - Ist die Vergabeklausel (Bevorzugung regionaler Unternehmen) mit den Grundfreiheiten vereinbar?

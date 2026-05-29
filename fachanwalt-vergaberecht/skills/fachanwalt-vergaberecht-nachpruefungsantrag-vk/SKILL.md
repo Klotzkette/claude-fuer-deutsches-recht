@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-nachpruefungsantrag-vk
-description: "Nachpruefungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulaessig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachpruefungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Pruefraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachpruefungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk."
+description: "Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Prüfraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachprüfungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk."
 ---
 
 # Nachprüfungsantrag VK
@@ -38,13 +38,7 @@ description: "Nachpruefungsantrag bei der Vergabekammer nach §§ 160 ff. GWB st
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | X ZB 12/19 | 03.07.2020 | Rüge-Präklusion; in Bekanntmachung erkennbare Fehler sind bis Angebotsabgabe zu rügen |
-| BGH | X ZB 22/13 | 26.09.2014 | "Unverzüglich" bei sonstigem erkannten Fehler: binnen weniger Tage |
-| BGH | XIII ZB 93/22 | 23.05.2023 | XIII. ZS zuständig ab 01.01.2021; Bestätigung Präklusionsrechtsprechung |
-| OLG Düsseldorf | Verg 23/19 | 26.02.2020 | Antragsbefugnis: Bieter muss darlegen, bei fehlerloser Wertung bestplatziert zu sein |
-| OLG München | Verg 1/21 | 19.11.2021 | § 134 GWB: Frist läuft ab Absendung durch AG, nicht ab Empfang |
-| EuGH | C-3/15 | 14.04.2016 | Effektiver Rechtsschutz; nationale Fristen dürfen Rechtsschutz nicht praktisch unmöglich machen |
-| EuGH | C-19/00 | 18.10.2001 | Rechtsschutzsystem; Mitgliedstaaten müssen effektive Nachprüfung sicherstellen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -235,12 +229,12 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 | Einwand Auftraggeber / Beigeladener | Reaktion |
 |---|---|
 | Rüge nicht rechtzeitig erhoben | Nachweis: Rügeschreiben mit Datum; Frist § 160 Abs. 3 Nr. 1 (10 Tage) oder bis Angebotsabgabe |
-| Bieter hat keine Auftragschance | BGH XIII ZB 93/22: drohender Schaden genügt; Vollbeweis nicht erforderlich |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Fehler nicht kausal für Ergebnis | Denkbarer Einfluss ausreicht; Umkehr der Darlegungslast beim AG |
 | VK territorial nicht zuständig | § 159 Abs. 3 GWB: Sitz des AG entscheidet; ggf. VK Bund |
 | Beigeladener: Zuschlag im öffentlichen Interesse | § 169 Abs. 3 GWB: strenge Anforderungen; überragendes öffentliches Interesse muss glaubhaft gemacht werden |
 | Akteneinsicht gefährdet Betriebsgeheimnisse | § 165 Abs. 2 GWB: VK entscheidet nach Anhörung; schwärzen von Geheimnissen möglich |
-| Antrag rechtsmissbräuchlich (Trittbrettfahrer) | BGH X ZB 12/19: Interesse am Auftrag muss real sein; bloße Marktbeobachtung genügt nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -268,7 +262,7 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 
 ## Quellen
 
-GWB §§ 97, 99, 100, 106, 135, 160, 162, 163, 165, 167, 169, 171, 173, 181, 182; VgV §§ 14, 42 ff., 53, 58, 60, 63; SektVO; VOB/A-EU; BGH X ZB 12/19; BGH X ZB 22/13; BGH XIII ZB 93/22; OLG Düsseldorf Verg 23/19; OLG München Verg 1/21; EuGH C-3/15; EuGH C-19/00; Burgi Vergaberecht 3. Aufl. 2022; Bechtold/Bosch GWB 10. Aufl. 2023.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Triage und Output-Template Nachpruefungsantrag
 

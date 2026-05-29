@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bau-architektenrecht
-description: "Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Pruefraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
+description: "Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Bau- und Architektenrecht
@@ -117,17 +117,11 @@ Baurecht-Mandate hängen massiv vom Vertragstyp und der Mandantenrolle ab. Triag
 
 ## Aktuelle Rechtsprechung — Triage-Relevante Leitsaetze
 
-- BGH, Urt. v. 25.09.2014 — VII ZR 244/12, NJW 2014, 3642: Beweislastumkehr nach Abnahme — entscheidend fuer die Triage-Frage Abnahme ja/nein.
-- BGH, Urt. v. 22.06.2017 — VII ZR 37/16, NJW 2017, 2832: Abnahmeverweigerung berechtigt nur bei wesentlichen Maengeln; das Gewicht der Maengel bestimmt die Strategie-Weiche.
-- BGH, Urt. v. 02.06.2022 — VII ZR 174/19, NJW 2022, 2470: HOAI-Mindestsaetze nach EuGH-Urteil nicht mehr bindend — bei Honorarstreit Schritt Vertragsinhalt und Honorarvereinbarung pruefen.
-- BGH, Urt. v. 24.02.2011 — VII ZR 11/08, NJW 2011, 1789: Mehrkostenforderungen Bauablauf erfordern SOLL/IST-Vergleich — fruehzeitige Bautagebuch-Anforderung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Werner/Pastor, Der Bauprozess, 16. Aufl. — Kap. 1 Mandatsbeginn
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl. — Systematik Baurecht
-- BeckOK BGB §§ 631 ff. — Normen-Überblick
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Sofort-Check bei Triage
 
 | Frist | Norm | Zeitfenster |

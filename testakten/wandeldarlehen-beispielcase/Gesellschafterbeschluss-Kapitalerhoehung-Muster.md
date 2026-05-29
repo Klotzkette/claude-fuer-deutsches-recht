@@ -69,7 +69,7 @@ Zu TOP 5 (Satzungsänderung):
 
 Die Gesellschafterversammlung beschließt einstimmig die Änderung von § 3 Abs. 1 der Satzung wie folgt:
 
-„§ 3 Stammkapital. Das Stammkapital der Gesellschaft beträgt EUR 1.066,00 (eintausendsechsundsechzig Euro). Es ist eingeteilt in 1.066 Geschäftsanteile zu je EUR 1,00."
+"§ 3 Stammkapital. Das Stammkapital der Gesellschaft beträgt EUR 1.066,00 (eintausendsechsundsechzig Euro). Es ist eingeteilt in 1.066 Geschäftsanteile zu je EUR 1,00."
 
 
 Zu TOP 6 (Kapitalrücklage):

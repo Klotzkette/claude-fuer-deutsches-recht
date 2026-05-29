@@ -1,6 +1,6 @@
 ---
 name: oertliche-zustaendigkeit-12-37-zpo
-description: "Bestimmung des oertlich zustaendigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschliessliche Gerichtsstaende erklaert."
+description: "Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt."
 ---
 
 # Welches Amtsgericht ist oertlich zustaendig?

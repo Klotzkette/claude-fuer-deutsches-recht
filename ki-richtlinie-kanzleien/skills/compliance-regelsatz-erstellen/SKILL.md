@@ -1,6 +1,6 @@
 ---
 name: compliance-regelsatz-erstellen
-description: "Compliance-Regelsatz Zehn Gebote fuer KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln fuer alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Pruefraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett fuer vollstaendige Richtlinie und zu Berufsrecht-Bausteine."
+description: "Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine."
 ---
 
 # Compliance-Regelsatz erstellen
@@ -77,10 +77,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitenden müssen über Änderungen informiert und neu geschult werden.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 70: Kein Transfer personenbezogener Daten an US-Anbieter ohne angemessenes Schutzniveau; Compliance-Regelsatz muss Privat-Account-Verbot enthalten.
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht gilt auch fuer technische Dienstleister; Compliance-Regelsatz muss AVV-Anforderungen umsetzen.
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Anwaltshaftung bei unkritischer Uebernahme fehlerhafter KI-Ausgaben — Korrekturpflicht als Compliance-Anforderung.
-- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Mitbestimmungsrecht des Betriebsrats bei EDV-Nutzungsrichtlinien — KI-Compliance-Regelsatz erfordert Betriebsratseinbindung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit

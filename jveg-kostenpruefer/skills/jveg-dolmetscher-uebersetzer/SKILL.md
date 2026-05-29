@@ -1,6 +1,6 @@
 ---
 name: jveg-dolmetscher-uebersetzer
-description: "Verguetung fuer gerichtliche Dolmetscher und Uebersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Pruefraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Uebersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Uebersetzer. Abgrenzung: nicht Sachverstaendigenverguetung."
+description: "Verguetung für gerichtliche Dolmetscher und Übersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Prüfraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Übersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Übersetzer. Abgrenzung: nicht Sachverständigenverguetung."
 ---
 
 # JVEG-Dolmetscher-Uebersetzer
@@ -25,16 +25,14 @@ Prüfe die Vergütungsansprüche von Dolmetschern und Übersetzern nach §§ 13�
 - § 23 JVEG (Dreimonatsfrist)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Auch bei Dolmetschern ist die vergütungsfähige Zeit objektiv zu bestimmen; reine Wartezeiten ohne Dolmetschleistung sind nicht erstattungsfähig.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG gilt auch für Dolmetscher und Übersetzer ohne Ausnahme.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Fahrtkosten für Dolmetscher werden nach denselben Wirtschaftlichkeitsgrundsätzen wie bei Sachverständigen geprüft.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Eine Abrechnung nach Übersetzungszeilen setzt die Vorlage des Ausgangstextes und die Angabe der Normzeilenanzahl voraus.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 13–16 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 13–16 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 13 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Eingang einer Rechnung eines Dolmetschers oder Übersetzers im gerichtlichen Verfahren.
 

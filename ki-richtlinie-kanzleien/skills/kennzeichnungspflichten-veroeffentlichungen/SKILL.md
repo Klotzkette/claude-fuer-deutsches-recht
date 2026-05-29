@@ -1,6 +1,6 @@
 ---
 name: kennzeichnungspflichten-veroeffentlichungen
-description: "Kennzeichnungspflichten fuer KI-generierte Inhalte in Kanzlei-Veroeffentlichungen prüfen: Anwendungsfall Kanzlei veroeffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Pruefraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden fuer unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten."
+description: "Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Prüfraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden für unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten."
 ---
 
 # Kennzeichnungspflichten für Veröffentlichungen
@@ -9,7 +9,7 @@ Art. 50 Abs. 4 KI-VO regelt die Transparenzpflicht für Betreiber von KI-Systeme
 
 ## Rechtlicher Hintergrund
 
-Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zur Information der Öffentlichkeit über Angelegenheiten von öffentlichem Interesse erzeugt, müssen offenlegen, dass der Text KI-generiert ist. Art. 50 Abs. 4 Unterabs. 2 Satz 2 KI-VO: Ausnahme — keine Kennzeichnungspflicht, wenn (a) die Inhalte einem Verfahren der menschlichen Überprüfung oder redaktionellen Kontrolle unterzogen wurden und (b) eine natürliche oder juristische Person die redaktionelle Verantwortung für die Veröffentlichung trägt. Martini/Wendehorst, KI-VO, Art. 50 Rn. 113: Schriftsätze an Gerichte sind nicht „an die Öffentlichkeit" gerichtet, sondern an einen überschaubaren bekannten Empfängerkreis. Rn. 114: Anwalt, der Schriftsatz unterschreibt, übernimmt redaktionelle Verantwortung. Lauber-Rönsberg, BeckOK KI-Recht, Art. 50 Rn. 73: Schutzzweck der Norm ist massenhafter unkontrollierter Falschinformation vorzubeugen.
+Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zur Information der Öffentlichkeit über Angelegenheiten von öffentlichem Interesse erzeugt, müssen offenlegen, dass der Text KI-generiert ist. Art. 50 Abs. 4 Unterabs. 2 Satz 2 KI-VO: Ausnahme — keine Kennzeichnungspflicht, wenn (a) die Inhalte einem Verfahren der menschlichen Überprüfung oder redaktionellen Kontrolle unterzogen wurden und (b) eine natürliche oder juristische Person die redaktionelle Verantwortung für die Veröffentlichung trägt. Martini/Wendehorst, KI-VO, Art. 50 Rn. 113: Schriftsätze an Gerichte sind nicht "an die Öffentlichkeit" gerichtet, sondern an einen überschaubaren bekannten Empfängerkreis. Rn. 114: Anwalt, der Schriftsatz unterschreibt, übernimmt redaktionelle Verantwortung. Lauber-Rönsberg, lizenzpflichtige Literaturquelle KI-Recht, Art. 50 Rn. 73: Schutzzweck der Norm ist massenhafter unkontrollierter Falschinformation vorzubeugen.
 
 ## Vorgehen
 
@@ -40,7 +40,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Vorlagentext / Bausteine
 
 **Baustein Kennzeichnungsregel:**
-Veröffentlichungen der Kanzlei (Blogs, Newsletter, Social-Media-Beiträge, Pressemitteilungen), die wesentlich unter Mitwirkung von KI-Systemen erstellt wurden und ohne substantielle menschliche inhaltliche Überarbeitung veröffentlicht werden, sind mit dem Hinweis zu versehen: „Dieser Text wurde unter Mitwirkung eines KI-Assistenzsystems erstellt." Bei vollständiger menschlicher redaktioneller Kontrolle und inhaltlicher Überarbeitung entfällt die Kennzeichnungspflicht nach Art. 50 Abs. 4 KI-VO.
+Veröffentlichungen der Kanzlei (Blogs, Newsletter, Social-Media-Beiträge, Pressemitteilungen), die wesentlich unter Mitwirkung von KI-Systemen erstellt wurden und ohne substantielle menschliche inhaltliche Überarbeitung veröffentlicht werden, sind mit dem Hinweis zu versehen: "Dieser Text wurde unter Mitwirkung eines KI-Assistenzsystems erstellt." Bei vollständiger menschlicher redaktioneller Kontrolle und inhaltlicher Überarbeitung entfällt die Kennzeichnungspflicht nach Art. 50 Abs. 4 KI-VO.
 
 **Baustein Schriftsatz-Ausnahme:**
 Anwaltliche Schriftsätze, die unter Nutzung von KI-Assistenzsystemen erstellt wurden, unterliegen keiner gesetzlichen Kennzeichnungspflicht nach Art. 50 Abs. 4 KI-VO. Dies ergibt sich daraus, dass (1) Schriftsätze nicht an die Öffentlichkeit, sondern an einen überschaubaren Empfängerkreis gerichtet sind, und (2) die unterzeichnende Rechtsanwältin oder der unterzeichnende Rechtsanwalt die redaktionelle Verantwortung für den gesamten Inhalt übernimmt.
@@ -65,9 +65,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäische KI-Büro oder Gerichte ist zu beobachten. Ebenso entwickeln Berufsverbände (z.B. Presserats-Äquivalente für juristische Veröffentlichungen) möglicherweise eigene Standards zur Kennzeichnung.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 12.07.2018 — I ZR 69/17, GRUR 2018, 1234 Rn. 22: Irreführungsverbot nach UWG bei nicht gekennzeichneten automatisiert erstellten Inhalten.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungs- und Transparenzpflicht bei algorithmischen Entscheidungen.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung bei mangelhafter Transparenz ueber die Grundlage einer Beratung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)

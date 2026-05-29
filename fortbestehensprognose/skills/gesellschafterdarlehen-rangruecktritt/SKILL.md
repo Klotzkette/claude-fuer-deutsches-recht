@@ -1,6 +1,6 @@
 ---
 name: gesellschafterdarlehen-rangruecktritt
-description: "Erzeugt eine Erklaerung zum qualifizierten Rangruecktritt fuer Gesellschafterdarlehen nach § 19 Abs. 2 S. 2 InsO. BGH-konforme Formulierung BGH II ZR 18/19 — der Rangruecktritt muss sich erstrecken auf Insolvenz Glaeubiger Geschaeftsbeendigung und Liquidation. Effekt im insolvenzrechtlichen Status die Forderung wird nicht passiviert. Form schriftlich beidseitig unterzeichnet — notarielle Beurkundung empfohlen. Verbunden mit Pflicht zur Anzeige beim Finanzamt wegen steuerlichen Folgen."
+description: "Workflow-Skill zu gesellschafterdarlehen rangruecktritt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Gesellschafterdarlehen — qualifizierter Rangrücktritt
@@ -15,7 +15,7 @@ Eine bestehende Forderung des Gesellschafters gegen die Gesellschaft (Darlehen V
 
 ## BGH-Anforderungen
 
-**BGH, Urt. v. 05.03.2015 — IX ZR 133/14, NJW 2015, 1672** und **BGH, Urt. v. 11.07.2019 — IX ZR 210/18 NJW 2019, 2780** sowie **BGH II ZR 18/19 NZG 2020, 901**: Der qualifizierte Rangrücktritt muss erstrecken auf:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. **Insolvenzfall** der Gesellschaft.
 2. **Gläubigergleichbehandlung** — Rücktritt hinter alle anderen Gläubiger.
@@ -33,7 +33,7 @@ zwischen
 
   [Vor- und Nachname Gesellschafter]
   [Anschrift]
-  - im Folgenden „der Gläubiger" -
+  - im Folgenden "der Gläubiger" -
 
 und
 
@@ -41,7 +41,7 @@ und
   vertreten durch [Geschäftsführer]
   [Anschrift]
   HRB [...] AG [...]
-  - im Folgenden „die Schuldnerin" -
+  - im Folgenden "die Schuldnerin" -
 
 1. Praeambel
 
@@ -141,10 +141,7 @@ Es besteht keine eigenständige Anzeigepflicht. Aber bei Insolvenzantrag ist der
 
 ## Aktuelle Leitentscheidungen — Gesellschafterdarlehen und Rangruecktritt
 
-- BGH, Urt. v. 08.01.2001 — II ZR 88/99, NJW 2001, 1280 — Qualifizierter Rangruecktritt § 19 Abs. 2 S. 2 InsO: Verzicht muss sich auf alle Verbindlichkeiten aus dem Darlehen einschliesslich Zinsen erstrecken; Rangruecktritt hinter alle Insolvenzglaeubiger und hinter Liquidationserloes.
-- BGH, Urt. v. 05.03.2015 — IX ZR 133/14, NZI 2015, 418 — Insolvenzanfechtung Gesellschafterdarlehen § 135 InsO: Tilgung eines Gesellschafterdarlehens innerhalb 1 Jahres vor Antragstellung anfechtbar; keine Kenntnis erforderlich; Sanierungsprivileg nur bei echter externer Sanierungschance.
-- BGH, Urt. v. 04.05.2017 — IX ZR 285/16, NZI 2017, 617 — Sanierungsprivileg § 39 Abs. 4 InsO: frisches Kapital in echter Sanierungslage nachrangig aber nicht anfechtbar; Sanierungskonzept muss IDW S 6 Qualitaet haben; Darlehen in der bereits bestehenden Krise ohne Sanierungskonzept kein Privileg.
-- BGH, Urt. v. 29.06.2020 — II ZR 18/19, NZI 2020, 909 — Rangruecktrittserklaerung Formulierungsanforderungen: explizit Insolvenz, Glaeubiger, Geschaeftsbeendigung und Liquidation nennen; Fehlen einer dieser Fallgruppen macht Rangruecktritt fuer Status unwirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Gesellschafterdarlehen
 
@@ -152,13 +149,11 @@ Es besteht keine eigenständige Anzeigepflicht. Aber bei Insolvenzantrag ist der
 
 ## Triage — Gesellschafterdarlehen Check
 
-1. **Rangruecktritt bereits erteilt?** BGH II ZR 18/19-konform? Alle vier Fallgruppen genannt?
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Darlehens-Restlaufzeit?** Innerhalb 1 Jahr → Tilgung anfechtungsgefaehrdet § 135 InsO.
 3. **Sanierungskonzept vorhanden?** Ohne IDW S 6 kein Sanierungsprivileg § 39 Abs. 4 InsO.
 4. **Zinsen laufen?** Nachrangige Zinsen sollten ebenfalls durch Rangruecktritt erfasst sein.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Gehrlein § 135 InsO Rn. 1 ff. — Anfechtung Gesellschafterdarlehen.
-- Uhlenbruck/Hirte § 39 InsO Rn. 50 ff. — Nachrang und Sanierungsprivileg.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.40 — Gesellschafterdarlehen im Status.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

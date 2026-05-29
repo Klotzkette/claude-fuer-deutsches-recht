@@ -11,7 +11,7 @@ An der Blauen Kappe 18
 
 Augsburg, 4. Februar 2024
 
-Betreff: **Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West"**
+Betreff: **Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West"**
 **— Hilfsweise Einwendungen zur Aufstockung MU 3 von 6 auf 8 Vollgeschosse —**
 
 Sehr geehrte Damen und Herren,

@@ -1,5 +1,14 @@
 # Testakte Phishing-Vorfall Mayer ./. Sparkasse Berlin
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-phishing-vorfall-mayer-sparkasse-berlin` (diese Akte) | [testakte-phishing-vorfall-mayer-sparkasse-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-phishing-vorfall-mayer-sparkasse-berlin.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Diese Beispielakte gehört zum Plugin `phishing-vorfall-pruefer`.
 
 Sie simuliert einen Online-Banking-Phishing-Fall mit Call-ID-Spoofing, pushTAN-Freigabe, streitiger grober Fahrlässigkeit, Ombudsmann-Verfahren und anschließender Klage. Die Originalunterlagen liegen als PDF im Ordner `originale/` und zusätzlich als ZIP `Mandatsakte_Mayer_vs_Sparkasse_Berlin.zip`.

@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-vorbereitung-stichtag
-description: "Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematische JA-Vorbereitung Inventur Periodenabgrenzung Rueckstellungen Anlagenspiegel. Methodik 8-Wochen-Vorlauf. Output JA-Vorbereitungs-Routine."
+description: "Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematische JA-Vorbereitung Inventur Periodenabgrenzung Rückstellungen Anlagenspiegel. Methodik 8-Wochen-Vorlauf. Output JA-Vorbereitungs-Routine."
 ---
 
 # Jahresabschluss-Vorbereitung zum Stichtag

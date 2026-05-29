@@ -1,6 +1,6 @@
 ---
 name: output-alltagssprache-de
-description: "Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklaerung, fuer Mandanten, Betroffene oder Behoerdenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen und Fachterminologie ohne Erklaerung."
+description: "Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behoerdenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen und Fachterminologie ohne Erklärung."
 ---
 
 # Output: Alltagssprache (Deutsch)
@@ -18,8 +18,7 @@ Rechtliche Ergebnisse müssen auch für Menschen verständlich sein, die keine j
 
 ## Rechtsprechung und Normbasis
 
-- BVerfG, Beschl. v. 19.12.2017 - 2 BvR 424/17, NJW 2018, 677 — Das Gebot verständlicher Bescheide (Art. 3 Abs. 1 i.V.m. Art. 19 Abs. 4 GG) erfordert, dass staatliche Entscheidungen für den Bürger ohne juristische Kenntnisse nachvollziehbar sind; unverständliche Bescheide können rechtswidrig sein.
-- BGH, Urt. v. 10.11.2020 - VI ZR 342/19, NJW 2021, 306 — Die Pflicht zur verständlichen Kommunikation gilt auch für Anwälte gegenüber dem Mandanten; ein Anwalt verletzt seine Beratungspflicht (§ 43 BRAO), wenn er das Ergebnis so formuliert, dass der Mandant es nicht versteht und falsch handelt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übersetzungsprinzipien
 
@@ -49,7 +48,7 @@ Rechtliche Ergebnisse müssen auch für Menschen verständlich sein, die keine j
 
 ### 1. Zusammenfassung in zwei Sätzen
 
-Was geht es? Was ist das Ergebnis? Beispiel: „Sie möchten Geld zurück, weil das gekaufte Produkt kaputt war. Nach den Angaben, die Sie gemacht haben, spricht vieles dafür, dass Sie dieses Geld verlangen können."
+Was geht es? Was ist das Ergebnis? Beispiel: "Sie möchten Geld zurück, weil das gekaufte Produkt kaputt war. Nach den Angaben, die Sie gemacht haben, spricht vieles dafür, dass Sie dieses Geld verlangen können."
 
 ### 2. Was musste gegeben sein?
 
@@ -71,7 +70,7 @@ Checkliste: Welche Dokumente, welche nächsten Schritte, an wen wenden (Anwalt, 
 
 Das System vermeidet:
 - Lateinische Begriffe ohne sofortige Erklärung
-- Genitivkonstruktionen (z. B. statt „Erfüllung der Leistungspflicht des Schuldners": „wenn der Schuldner das, was er schuldet, erledigt hat")
+- Genitivkonstruktionen (z. B. statt "Erfüllung der Leistungspflicht des Schuldners": "wenn der Schuldner das, was er schuldet, erledigt hat")
 - Mehrfach verschachtelte Relativsätze
 - Amtsdeutsch und Bürokratensprache
 

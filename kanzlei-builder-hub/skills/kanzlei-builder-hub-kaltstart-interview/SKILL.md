@@ -1,6 +1,6 @@
 ---
 name: kanzlei-builder-hub-kaltstart-interview
-description: "Kaltstart-Interview fuer den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Pruefraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfiguration. Abgrenzung: nicht Plugin-Installation (Folgeschritt)."
+description: "Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Prüfraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfiguration. Abgrenzung: nicht Plugin-Installation (Folgeschritt)."
 ---
 
 # /kaltstart-interview — Kanzleiprofil-Interview
@@ -13,10 +13,7 @@ description: "Kaltstart-Interview fuer den Kanzlei-Builder-Hub: Kanzleiprofil, R
 4. Welche technischen Integrationen (beA, E-Mail, DMS, Buchhaltung) sind vorhanden und angebunden?
 
 ## Aktuelle Rechtsprechung
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — KI-basierte Verarbeitung von Mandantendaten ist Auftragsverarbeitung nach Art. 28 DSGVO; Kaltstart muss AVV-Status des KI-Anbieters abfragen.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzleiorganisation muss Pflichten ab erstem Mandatstag sicherstellen; Kaltstart-Interview dient als Nachweis strukturierter Einrichtung.
-- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Keine Schonfrist bei berufsrechtlichen Organisationspflichten (§§ 43, 43a BRAO); Kanzleiprofil muss von Beginn an vollstaendig sein.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Erstdokumentation des Kanzleiprofils (Rechtsgebiete, Abrechnungsart, Eingangskanale) als Teil der Sorgfaltspflicht nach § 43 BRAO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV mit KI-Infrastrukturanbieter: Pflicht bei jeder Auftragsverarbeitung
@@ -24,10 +21,9 @@ description: "Kaltstart-Interview fuer den Kanzlei-Builder-Hub: Kanzleiprofil, R
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag und erfordern strukturierte Kanzleiorganisation
 - § 203 StGB — Verletzung von Privatgeheimnissen: KI-Skills muessen mandatsgeheimnis-konform konfiguriert sein
 
-## Kommentarliteratur
-- Kühling/Buchner DSGVO Art. 28 Rn. 1-40 (Auftragsverarbeitung: Anforderungen fuer Kanzlei-KI)
-- Gaier/Wolf/Göcken BRAO §§ 43, 43a Rn. 1-30 (Berufspflichten: Inhalt und Ersteinrichtungspflichten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Das Interview fragt, was für eine Kanzlei oder Rechtsabteilung betrieben wird, und empfiehlt ein Starter-Paket passender Community-Skills. Kurz und direkt: Fünf Fragen, eine Empfehlung, fertig.
@@ -57,7 +53,7 @@ Vor der Orientierung: Falls das Arbeitsverzeichnis sich innerhalb eines Projekts
 ### Kanzleiprofil prüfen
 
 Prüfen ob `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md` existiert:
-- **Existiert:** Lesen. Einzeilige Bestätigung anzeigen: „Sie sind [Name], [Kanzleityp], [Rechtsgebiete]. Richtig? (Oder sagen Sie 'aktualisieren' um das geteilte Profil zu ändern.)" Bei Bestätigung Kanzlei-Fragen überspringen.
+- **Existiert:** Lesen. Einzeilige Bestätigung anzeigen: "Sie sind [Name], [Kanzleityp], [Rechtsgebiete]. Richtig? (Oder sagen Sie 'aktualisieren' um das geteilte Profil zu ändern.)" Bei Bestätigung Kanzlei-Fragen überspringen.
 - **Existiert nicht:** Kanzlei-Fragen stellen und in geteiltes Profil schreiben.
 
 ### Einstiegstext anzeigen
@@ -129,9 +125,9 @@ Für jeden empfohlenen Skill: SKILL.md-Beschreibung anzeigen. Nutzer wählt — 
 
 ### Deployment-Kontext für Positivliste
 
-> „Wie werden Sie die installierten Skills einsetzen — nur für sich selbst, geteilt in der Kanzlei oder eingebettet in ein Produkt oder eine Dienstleistung, die Sie an Mandanten liefern? (Persönlich / Kanzlei-intern / Produkteinbettung.) Dies beeinflusst die Lizenz-Standardwerte der Positivliste."
+> "Wie werden Sie die installierten Skills einsetzen — nur für sich selbst, geteilt in der Kanzlei oder eingebettet in ein Produkt oder eine Dienstleistung, die Sie an Mandanten liefern? (Persönlich / Kanzlei-intern / Produkteinbettung.) Dies beeinflusst die Lizenz-Standardwerte der Positivliste."
 
-Für **Kanzlei-intern** zusätzlich fragen: „Liegt eine Auftragsverarbeitungsvereinbarung (Art. 28 DSGVO) mit dem Anbieter der genutzten KI-Infrastruktur vor?"
+Für **Kanzlei-intern** zusätzlich fragen: "Liegt eine Auftragsverarbeitungsvereinbarung (Art. 28 DSGVO) mit dem Anbieter der genutzten KI-Infrastruktur vor?"
 
 ### Positivliste schreiben
 

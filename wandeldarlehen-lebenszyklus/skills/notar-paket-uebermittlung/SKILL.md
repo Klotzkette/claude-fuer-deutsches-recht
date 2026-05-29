@@ -1,6 +1,6 @@
 ---
 name: notar-paket-uebermittlung
-description: "Notarpaket fuer Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Pruefraster: Vollstaendigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitaetsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht fuer Handelsregisteranmeldung nach Beurkundung."
+description: "Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Paket zur Handelsregister-Anmeldung
@@ -27,8 +27,7 @@ Dieser Skill stellt das vollständige Paket für den Notar zusammen, der die Kap
 - § 8 GmbHG (Inhalt der Anmeldung allgemein)
 
 ### Rechtsprechung
-- BGH, Urt. v. 17. November 2008 – II ZR 244/07 (Gesellschafterliste und Gutglaubenswirkung § 16 GmbHG)
-- OLG Düsseldorf, Beschl. v. 10. April 2019 – 3 Wx 228/18 (Anforderungen Sacheinlagebericht bei Kapitalerhöhung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -47,7 +46,7 @@ Dieser Skill stellt das vollständige Paket für den Notar zusammen, der die Kap
 Nach Kapitalerhöhung neue Liste mit: fortlaufender Nummer, Name, Geburtsdatum, Wohnanschrift, Anteilszahl, Nennwert, Datum Erwerb. Alle Gesellschafterinnen plus neuer Lender. Unterschrift: Notar (§ 40 Abs. 2 GmbHG nach Kapitalerhöhung bei Notar-Mitwirkung) oder Geschäftsführerin.
 
 ### 3. Anmeldungstext § 57 GmbHG
-„Die Geschäftsführerin der Sonnenglas Solartechnologie UG (haftungsbeschränkt) meldet zur Eintragung in das Handelsregister an: Die Kapitalerhöhung vom [Datum] in Höhe von EUR [Betrag] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Sacheinlage ist vollzogen. Der neue Gesellschafter hat die Sacheinlage vollständig erbracht." Notarielle Beglaubigung der Anmeldung.
+"Die Geschäftsführerin der Sonnenglas Solartechnologie UG (haftungsbeschränkt) meldet zur Eintragung in das Handelsregister an: Die Kapitalerhöhung vom [Datum] in Höhe von EUR [Betrag] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Sacheinlage ist vollzogen. Der neue Gesellschafter hat die Sacheinlage vollständig erbracht." Notarielle Beglaubigung der Anmeldung.
 
 ### 4. Notar-Briefing
 E-Mail an Notar mit: Kurzdarstellung des Vorgangs, Anlagen (Beschluss, Sacheinlagebericht, neue Gesellschafterliste), gewünschtes Datum der Einreichung, Kontakt für Rückfragen.
@@ -95,9 +94,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 57 ff. oder GwG § 19 aktualisieren.
 
 ### Leitsatz-Zitate
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 16: Das Notar-Paket für eine Sachkapitalerhöhung (Wandlung Darlehen) muss vollständig sein: Wandeldarlehensvertrag, Wandlungserklärung, Sacheinlagebericht, Gesellschafterliste alt, Entwurf Gesellschafterliste neu, Beschlussentwurf, Übernahmeerklärung; unvollständige Pakete führen zu Terminverschiebungen mit Haftungsrisiko.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 16: Der Notar prüft die formelle Ordnungsmäßigkeit des Kapitalerhöhungsbeschlusses; Beurkundungsfehler (z.B. fehlende Personenidentifikation) führen zur Nichtigkeit des Beschlusses; der Anwalt trägt die Pflicht zur sorgfältigen Vorbereitung aller Unterlagen für den Notartermin.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

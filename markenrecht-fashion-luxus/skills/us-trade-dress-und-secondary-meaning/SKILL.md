@@ -1,6 +1,6 @@
 ---
 name: us-trade-dress-und-secondary-meaning
-description: "US Trade Dress Protection fuer Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schuetzen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Pruefraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke."
+description: "US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Prüfraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke."
 ---
 
 # US Trade Dress und Secondary Meaning
@@ -63,7 +63,7 @@ Für Product Configuration Trade Dress immer erforderlich:
 - Eingetragenes Trade Dress: stärker als unregistriertes (presumption of validity, constructive notice)
 - Anmeldung via TEAS als 3D-Marke (Three-Dimensional Mark) oder Design Mark
 - Specimen: Foto des Produkts oder Verpackung in tatsächlichem Commerce-Kontext
-- Statement: „The mark consists of [detailed description of trade dress elements]"
+- Statement: "The mark consists of [detailed description of trade dress elements]"
 
 ### Schritt 5: Infringement Claim
 
@@ -74,7 +74,7 @@ Für Product Configuration Trade Dress immer erforderlich:
 ## Falltypische Konstellationen
 
 ### Konstellation 1: Flakon-Trade-Dress K°° pour Femme vs. US-Copycat
-US-Discount-Brand „K-OTS" kopiert das Flakon-Design. Kategorie: Product Configuration → Secondary Meaning erforderlich. Beweispaket: (1) 3 Jahre US-Boutique-Exklusivität, (2) USD 6 Mio. US-Werbeetat, (3) 47 Vogue-Features, (4) Consumer Survey: 68 % assoziieren den Flakon mit klôtzzkètté. Infringement-Klage SDNY (Southern District of New York — bevorzugte Jurisdiktion für Fashion Trade Dress).
+US-Discount-Brand "K-OTS" kopiert das Flakon-Design. Kategorie: Product Configuration → Secondary Meaning erforderlich. Beweispaket: (1) 3 Jahre US-Boutique-Exklusivität, (2) USD 6 Mio. US-Werbeetat, (3) 47 Vogue-Features, (4) Consumer Survey: 68 % assoziieren den Flakon mit klôtzzkètté. Infringement-Klage SDNY (Southern District of New York — bevorzugte Jurisdiktion für Fashion Trade Dress).
 
 ### Konstellation 2: Boutique-Interieur als Trade Dress
 Das charakteristische elfenbeinfarbene und graphit-graue Raumkonzept aller klôtzzkètté-Boutiquen. Kategorie: Product Packaging analog (Ambient/Service Trade Dress). Two Pesos-Standard anwendbar? Argument: Boutique-Ambiente als inherently distinctive because arbitrary. Survey zur Verbraucherwahrnehmung.

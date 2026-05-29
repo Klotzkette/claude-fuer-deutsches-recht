@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch
-description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Pruefraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht fuer Loeschungsklage (§ 49 MarkenG)."
+description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG)."
 ---
 
 # Marken-Widerspruchsverfahren
@@ -22,25 +22,21 @@ description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen od
 - § 26 MarkenG — Benutzungspflicht und Nichtbenutzungseinwand
 - § 14 Abs. 2 Nr. 3 MarkenG — Bekanntheit als erweiterter Schutz
 - § 50 MarkenG — Nichtigkeit (nach Widerspruchsfrist: Loeschungsklage)
-- § 66 Abs. 1 MarkenG — Beschwerde zum BPatG binnen 1 Monat
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 46, 8 UMV — EUIPO-Widerspruch
 
 ## Verwechslungsgefahr: 4-Stufen-Test
 
 | Stufe | Pruefkriterium | Hinweis |
 |-------|---------------|---------|
-| 1 | Zeichenaehnlichkeit (klanglich, schriftbildlich, begrifflich) | BGH I ZR 207/12 — alle drei Dimensionen pruefen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | Waren-/Dienstleistungsaehnlichkeit | Nizza-Klassifikation; funktionale Austauschbarkeit |
 | 3 | Bekanntheitsgrad aeltere Marke | Steigernd auf Verwechslungsgefahr |
 | 4 | Wechselwirkung | Niedriger Wert Stufe 1 kann durch hohen Wert Stufe 3 kompensiert werden |
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 07.10.2020 – I ZR 236/19, GRUR 2021, 482 Rn. 17 – Goliathbbier: Klangliche Zeichenaehnlichkeit bestimmt sich nach dem Gesamteindruck unter Beruecksichtigung der Kennzeichnungskraft der aelteren Marke; auch geringe Zeichenaehnlichkeit kann bei hoher Waren-Aehnlichkeit Verwechslungsgefahr begruenden.
-- BGH, Urt. v. 24.07.2014 – I ZR 27/13, GRUR 2014, 1101 Rn. 28 – Gelbe Woerterbuecher: Farbkombinationen koennen als Wort-Bild-Marken verwechslungsfaehig sein, wenn der Verbraucher sie als betriebliches Herkunftskennzeichen auffasst; Kennzeichnungskraft muss konkret festgestellt werden.
-- BGH, Urt. v. 18.10.2017 – I ZR 6/16, GRUR 2018, 417 Rn. 22 – Resistograph: Erschoepfung nach § 24 MarkenG setzt voraus, dass der Markeninhaber die Ware selbst oder mit Zustimmung im EWR in Verkehr gebracht hat; fehlende Erschoepfung begrenzt Nichtbenutzungs-Einwand nicht.
-- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 33 – Wagenfeld-Leuchte: Gestaltungsmerkmale, die zugleich Marken- und Designschutz geniessen, werden nach dem jeweils einschlaegigen Schutzrecht beurteilt; Pruefung der ernsthaften Benutzung auch bei kombinierten Marken-Design-Verletzungen.
-- EuGH, Urt. v. 22.09.2011 – C-482/09, Slg. 2011, I-8701 Rn. 35 – Budejovicky Budvar: Das Widerspruchsrecht erlischt durch Nichterhebung des Widerspruchs innerhalb der Frist; spaetere Loeschungsklage nach nationalen Verjaehrungsregeln moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Pruefraster Benutzungspflicht § 26 MarkenG
 
@@ -97,17 +93,13 @@ Schritt 6: Inhaltliche Begruendung
   → Stellungnahmen-Austausch, DPMA/EUIPO entscheidet
 
 Schritt 7: Bei Niederlage — Beschwerde
-  → DPMA: BPatG binnen 1 Monat § 66 MarkenG
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   → EUIPO: Boards of Appeal binnen 2 Monaten Art. 68 UMV
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stroeble/Hacker/Thiering, Markengesetz (Heymanns) — §§ 9, 26, 42 MarkenG
-- Ingerl/Rohnke, Markengesetz (Beck) — Verwechslungsgefahr und Widerspruchsverfahren
-- Eisenfuehr/Schennen, Unionsmarkenverordnung (Heymanns) — Art. 8, 46 UMV
-- Fezer, Markenrecht (Beck) — Benutzungspflicht und Nichtbenutzungseinwand
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.

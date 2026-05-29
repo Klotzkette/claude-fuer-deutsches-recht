@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-wasser-bodenschutz
-description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Pruefraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A)."
+description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A)."
 ---
 
 # Wasser- und Bodenschutzrecht
@@ -31,17 +31,11 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 26.04.2006 — 7 C 15.05, BVerwGE 126, 1 — § 4 Abs. 3 BBodSchG; Eigentuemer-Sanierungsverantwortung; Verhaeltnismaessigkeit bei Kostenueberschuss relative zum Grundstueckswert; Ertragsgrenze pruefbar.
-- BGH, Urt. v. 02.04.2014 — IV ZR 16/13, NJW 2014, 2283 — § 24 BBodSchG; Gesamtschuldner-Ausgleich; Zurechnung historischer Kosten; Verjaeahrung (10 Jahre ab Sanierung) nach § 24 Abs. 2 BBodSchG.
-- BVerwG, Urt. v. 14.04.2022 — 7 C 3.20, NVwZ 2022, 1403 — gutglaeubiger Erwerber haftet als Eigentuemer nach § 4 Abs. 3 BBodSchG; kein Gutglaeubigkeitsschutz; Kaufvertrag-Freistellung wirkt nur inter partes.
-- OVG Nordrhein-Westfalen, Urt. v. 30.01.2020 — 20 A 2561/17 — § 12 WHG; Direkteinleitung Abwasser; Erteilung Erlaubnis muss Verschlechterungsverbot WRRL beruecksichtigen; Kumulationsbetrachtung mehrerer Einleitungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kloepfer Umweltrecht § 12 Rn. 1-200 (Bodenschutzrecht) und § 13 Rn. 1-150 (Wasserrecht)
-- Sanden BBodSchG §§ 4, 9, 10, 24 (Kommentar Bodenschutz und Altlasten)
-- Czychowski/Reinhardt WHG §§ 8-12, 57 (Kommentar Wasserrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 
@@ -62,7 +56,7 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 2. **Untersuchungsanordnung erhalten** (§ 9 BBodSchG): Historische Erkundung, Detailuntersuchung.
 3. **Sanierungsverantwortlicher bestimmen**: Verursacher, Rechtsnachfolger, Eigentuemer — in dieser Reihenfolge (§ 4 BBodSchG).
 4. **Sanierungsplan erstellen** (§ 13 BBodSchG): Technische Massnahmen, Zeitplan, Kosten-Schaetzung.
-5. **Sanierungsanordnung anfechten**: § 10 BBodSchG-Anordnung — Verhaeltnismaessigkeit (Sanierungskosten vs. Grundstueckswert, BVerwG 7 C 15.05).
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **Erstattungsanspruch geltend machen**: § 24 BBodSchG gegen Mitverantwortliche — Gesamtschuldner-Ausgleich; Verjaeahrung 10 Jahre.
 
 ### Entscheidungsbaum Bodenschutz
@@ -72,7 +66,7 @@ Kontamination festgestellt?
   JA → Wer hat verursacht?
          Bekannter Verursacher/Rechtsnachfolger → § 4 Abs. 3 BBodSchG-Haftung
          Nur Eigentuemer bekannt → Eigentuemer-Haftung § 4 Abs. 3; Verhaeltnismaessigkeit pruefen
-         Unbekannt → Zustandsverantwortung Eigentuemer (BVerwG 7 C 3.20)
+         Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   → Sanierungsanordnung § 10 BBodSchG:
        Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
        Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
@@ -111,7 +105,7 @@ Sanierungsanordnung vom [DATUM] ein.
 II. Unverhaelaenismaessigkeit
 Die angeordneten Sanierungskosten betragen ca. [BETRAG] EUR.
 Der Verkehrswert des Grundstuecks betraegt [BETRAG] EUR (Gutachten Anlage).
-Gemaess BVerwG 7 C 15.05 ist die Sanierungsanordnung unverhaelaenismaessig,
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wenn Sanierungskosten den Grundstueckswert wesentlich uebersteigen und
 kein ueberragend schutzwuerdiges oeffentliches Interesse besteht.
 

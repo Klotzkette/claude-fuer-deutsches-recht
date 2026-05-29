@@ -1,6 +1,6 @@
 ---
 name: mahnwesen-honorar
-description: "Mahnwesen fuer eigene Honorarforderungen der Kanzlei gegenueber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zustaendigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Pruefraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung."
+description: "Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung."
 ---
 
 # Mahnwesen für Kanzleihonorar
@@ -13,10 +13,7 @@ description: "Mahnwesen fuer eigene Honorarforderungen der Kanzlei gegenueber Ma
 4. Ist ein Inkasso- oder gerichtliches Mahnverfahren (§§ 688 ff. ZPO) bereits eingeleitet oder geplant?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Anwaltliches Honorar ist faellig nach ordnungsgemaesser Berechnung gem. § 10 RVG; Verzug tritt nach Ablauf einer angemessenen Zahlungsfrist oder nach Mahnung ein.
-- BGH, Urt. v. 29.07.2021 - IX ZR 5/21, NJW 2021, 3320 — Honorarvereinbarung: faellig nach Erbringung der vereinbarten Leistung; Verzugszinsen nach § 288 BGB (9 Prozentpunkte ueber Basiszinssatz bei B2B).
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Mahnung muss konkrete Zahlungsfrist setzen und Verzugsfolgen ankuendigen; unbestimmte Mahnungen loesen keinen qualifizierten Verzug aus.
-- AG Muenchen, Urt. v. 18.03.2021 - 113 C 14423/20, MDR 2021, 847 — Gerichtliches Mahnverfahren § 688 ZPO: Mahnbescheid bei unbestrittener Honorarforderung als schnelles Inkasso-Instrument (AG-Zustaendigkeit bis 10.000 EUR ab 01.01.2026).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 286 BGB — Verzug: Voraussetzungen (Faelligkeit, Mahnung oder Kalendertermin)
@@ -24,10 +21,9 @@ description: "Mahnwesen fuer eigene Honorarforderungen der Kanzlei gegenueber Ma
 - §§ 688-703 ZPO — Gerichtliches Mahnverfahren: schnelles Inkasso-Instrument
 - § 23 Nr. 1 GVG — Sachliche Zustaendigkeit des AG bis 10.000 EUR (ab 01.01.2026)
 
-## Kommentarliteratur
-- MüKoBGB/Ernst § 286 Rn. 1-60 (Verzug: Voraussetzungen und Rechtsfolgen)
-- Zöller/Vollkommer ZPO §§ 688-700 Rn. 1-30 (Mahnverfahren: Antrag, Ablauf und Vollstreckung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Disclaimer
 
 Honorarforderungen gegen Mandanten sind besonders sensible Eskalationen — das laufende Mandatsverhältnis kann darunter leiden. Vor jeder Eskalation Rücksprache mit dem zuständigen Anwalt; nichts ohne anwaltliche Freigabe versenden.

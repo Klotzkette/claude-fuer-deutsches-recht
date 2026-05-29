@@ -1,6 +1,6 @@
 ---
 name: anlagen-zu-schriftsaetzen
-description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nummerieren und als PDF-Konvolut aufbereiten. Anlagemanagement gerichtliche Schriftsaetze. Pruefraster: Schriftsatz lesen Beweisstuecke erkennen sortieren beA-konforme Benennung (Anlage K1 B1 A1) PDF-Konvertierung Stempel oben rechts Arial 12. Modi Auto-Benennung Schriftsatz folgt Pruefmodus. Output: nummeriertes Anlagenpaket in beA-Konvention. Abgrenzung zu anlagen-erstellen im Sozialrecht (K/W/A-Konvention) und normenkontrollantrag-schriftsatz."
+description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nummerieren und als PDF-Konvolut aufbereiten. Anlagemanagement gerichtliche Schriftsaetze. Prüfraster: Schriftsatz lesen Beweisstuecke erkennen sortieren beA-konforme Benennung (Anlage K1 B1 A1) PDF-Konvertierung Stempel oben rechts Arial 12. Modi Auto-Benennung Schriftsatz folgt Prüfmodus. Output: nummeriertes Anlagenpaket in beA-Konvention. Abgrenzung zu anlagen-erstellen im Sozialrecht (K/W/A-Konvention) und normenkontrollantrag-schriftsatz."
 ---
 
 # Zuordnung von Anlagen zu gerichtlichen Schriftsätzen
@@ -19,20 +19,17 @@ description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nu
 
 ## Rechtsprechung
 
-BGH, Beschl. v. 20.04.2023 – III ZB 75/21, NJW 2023, 1743 — Schriftsätze im elektronischen Rechtsverkehr (beA) müssen als strukturierte Datei übermittelt werden; Anlagen sind als gesonderte Dateien beizufügen und im Schriftsatz eindeutig zu bezeichnen (Anlage K 1, K 2 usw.).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 04.07.2018 – VII ZR 21/16, BauR 2018, 2056 — Anlagen können notwendigen schriftsätzlichen Vortrag nicht ersetzen; es ist nicht Aufgabe des Gerichts, umfangreiche oder ungeordnete Anlagenkonvolute von sich aus durchzuarbeiten, um Ansprüche zu konkretisieren; eine konkrete Bezugnahme im Schriftsatz auf eine aus sich heraus verständliche Anlage ist aber zulässig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 14.09.2017 – I ZB 85/16, NJW-RR 2017, 1452 — Die beA-taugliche Dateibezeichnung ohne Sonderzeichen und Umlaute ist keine rein formale Anforderung; fehlerhafte Bezeichnungen können zur Unverwertbarkeit der Anlage führen, wenn das Gericht die Datei nicht öffnen kann.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 06.04.2021 – X ZB 1/21, NJW 2021, 1959 — Bei mehrseitigen Anlagen muss die erste Seite die Anlage-Bezeichnung tragen; für Konvolute ist ein eigenes Deckblatt mit Inhaltsverzeichnis empfehlenswert, um die Einzelbestandteile zuordnen zu können.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Zöller, ZPO, 35. Aufl. 2024, § 130 Rn. 1–25 (Schriftsatz, Anlagen, Urkundenbeweis).
-Thomas/Putzo, ZPO, 45. Aufl. 2024, § 253 Rn. 10–25 (Klageschrift, Anlagen, beA).
-Musielak/Voit, ZPO, 20. Aufl. 2023, § 130a Rn. 1–30 (elektronisches Dokument, beA-Konventionen).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill nimmt einen vorliegenden Schriftsatz-Entwurf und eine Sammlung kuratierter Anlagen und macht daraus ein beA-fertiges Anlagenkonvolut mit korrekter Reihenfolge, PDF-Konvertierung, beA-tauglicher Benennung und Arial-12-Stempel oben rechts.

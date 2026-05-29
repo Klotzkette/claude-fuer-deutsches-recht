@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-elektronische-uebermittlung-ebilanz
-description: "E-Bilanz § 5b EStG elektronische Uebermittlung. Anwendungsfall Bilanzierer Pflicht zur elektronischen Uebermittlung der Steuerbilanz an FA Taxonomie-Standard. Methodik DATEV-E-Bilanz Modul. Output E-Bilanz uebermittelt."
+description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bilanzierer Pflicht zur elektronischen Übermittlung der Steuerbilanz an FA Taxonomie-Standard. Methodik DATEV-E-Bilanz Modul. Output E-Bilanz uebermittelt."
 ---
 
 # E-Bilanz — § 5b EStG elektronische Uebermittlung

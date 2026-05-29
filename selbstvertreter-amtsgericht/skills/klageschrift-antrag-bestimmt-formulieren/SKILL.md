@@ -1,6 +1,6 @@
 ---
 name: klageschrift-antrag-bestimmt-formulieren
-description: "Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsantraege Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp pruefen Antrag vollstreckungsfaehig formulieren typische Fehler vermeiden."
+description: "Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden."
 ---
 
 # Den Klageantrag richtig formulieren

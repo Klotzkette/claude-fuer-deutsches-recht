@@ -1,6 +1,6 @@
 ---
 name: output-antrag-beschwerde-klageschrift
-description: "Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen fuer Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher Schriftsatz ohne anwaltliche Pruefung."
+description: "Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen für Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher Schriftsatz ohne anwaltliche Prüfung."
 ---
 
 # Output: Antrag, Beschwerde, Klageschrift
@@ -21,13 +21,13 @@ Dieser Skill erzeugt formale Dokument-Bausteine für Anträge, Beschwerden und K
 ### Tenor-Bausteine
 
 **Zahlungsklage:**
-„Der Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen in Höhe von 5 Prozent über dem jeweils gültigen Basiszinssatz seit dem [Datum] zu zahlen."
+"Der Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen in Höhe von 5 Prozent über dem jeweils gültigen Basiszinssatz seit dem [Datum] zu zahlen."
 
 **Unterlassungsklage:**
-„Der Beklagte wird verurteilt, es zu unterlassen, [genaue Handlung zu beschreiben]. Für jeden Fall der Zuwiderhandlung wird dem Beklagten ein Ordnungsgeld bis zu EUR 250000, ersatzweise Ordnungshaft bis zu sechs Monaten, angedroht."
+"Der Beklagte wird verurteilt, es zu unterlassen, [genaue Handlung zu beschreiben]. Für jeden Fall der Zuwiderhandlung wird dem Beklagten ein Ordnungsgeld bis zu EUR 250000, ersatzweise Ordnungshaft bis zu sechs Monaten, angedroht."
 
 **Feststellungsklage:**
-„Es wird festgestellt, dass zwischen den Parteien ein [Rechtsverhältnis] besteht / nicht besteht."
+"Es wird festgestellt, dass zwischen den Parteien ein [Rechtsverhältnis] besteht / nicht besteht."
 
 ## Verwaltungsgerichtliche Klage (VwGO)
 
@@ -38,11 +38,11 @@ Dieser Skill erzeugt formale Dokument-Bausteine für Anträge, Beschwerden und K
 - Widerspruchsbescheid (soweit erforderlich)
 - Klagefrist: 1 Monat nach Zustellung des Widerspruchsbescheids (§ 74 Abs. 1 VwGO)
 
-**Tenor:** „Der Bescheid des [Behörde] vom [Datum], Az. [X], und der Widerspruchsbescheid vom [Datum] werden aufgehoben."
+**Tenor:** "Der Bescheid des [Behörde] vom [Datum], Az. [X], und der Widerspruchsbescheid vom [Datum] werden aufgehoben."
 
 ### Verpflichtungsklage (§ 42 Abs. 1 Alt. 2 VwGO)
 
-**Tenor:** „Der Beklagte wird verpflichtet, dem Kläger [Verwaltungsakt] zu erteilen / zu bewilligen."
+**Tenor:** "Der Beklagte wird verpflichtet, dem Kläger [Verwaltungsakt] zu erteilen / zu bewilligen."
 
 ## Beschwerde an das BVerfG (§ 90 BVerfGG)
 

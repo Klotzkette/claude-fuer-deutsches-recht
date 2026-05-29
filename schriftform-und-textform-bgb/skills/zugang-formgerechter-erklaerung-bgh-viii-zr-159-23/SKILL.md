@@ -1,13 +1,13 @@
 ---
 name: zugang-formgerechter-erklaerung-bgh-viii-zr-159-23
-description: "Vermieter hat Kuendigung per qES-E-Mail versandt und Mieter bestreitet wirksamen Zugang. BGH VIII ZR 159/23 vom 27.11.2024. Pruefraster: qES-Dokument muss so in Machtbereich gelangen dass Empfaenger Signatur pruefen kann Ausdruck mit Transfervermerk § 298 Abs. 3 ZPO genuegt nicht. Lehrsatz und Praxisfolgen fuer Vermieter. Output: Zugangs-Pruefung und Handlungsempfehlung Vermieter/Mieter. Abgrenzung zu mandantenwarnung-qes-per-email-whatsapp-und-zugang (Mandantenmemo) und elektronische-form-paragraph-126a-bgb-qes."
+description: "Workflow-Skill zu zugang formgerechter erklaerung bgh viii zr 159 23. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
-# Zugang der formgerechten Erklärung — BGH VIII ZR 159/23
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
-- **BGH VIII ZR 159/23 vom 27. November 2024** — Leitentscheidung zum Zugang einer qES-Kündigung im Wohnraummiete-Verhältnis
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 568 Abs. 1 BGB** — Schriftform der Wohnraummiete-Kündigung
 - **§ 126 Abs. 3 BGB** i.V.m. **§ 126a Abs. 1 BGB** — Ersatz der Schriftform durch qES
 - **§ 130 Abs. 1 S. 1 BGB** — Zugang empfangsbedürftiger Willenserklärungen
@@ -83,7 +83,7 @@ Schritt 4: Empfänger muss Signatur prüfen können
 ```
 Thema: Kündigung Wohnraummiete per qualifizierter elektronischer Signatur
 
-Nach BGH VIII ZR 159/23 vom 27. November 2024 gilt:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die Kündigung per qES ist grundsätzlich zulässig (§ 568 Abs. 1 BGB i.V.m.
 § 126a Abs. 1 BGB). Aber: Das qES-Dokument muss dem Mieter so zugehen,

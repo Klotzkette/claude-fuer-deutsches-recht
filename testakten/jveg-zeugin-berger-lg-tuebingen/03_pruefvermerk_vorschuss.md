@@ -12,7 +12,7 @@
 
 Mit Schreiben vom 17.01.2025 beantragte die als sachverständige Zeugin geladene Dr. Sophia Berger, Barcelona, beim Landgericht Tübingen einen Vorschuss auf ihre voraussichtliche Zeugenentschädigung. Die Zeugin begründete den Antrag mit der erheblichen Anreisestrecke (ca. 1.250 km einfache Strecke von Barcelona nach Tübingen) und den damit verbundenen Kosten für Fahrt und zwei notwendige Übernachtungen. Der Gesamtbetrag des Vorschussantrags belief sich auf 1.075,00 EUR (875,00 EUR Fahrtkosten + 200,00 EUR für zwei Übernachtungen).
 
-Das Landgericht Tübingen wies den Antrag mit Schreiben der Richterin Fischer vom 27.01.2026 zurück. Als Begründung wurde angeführt, eine Vorschusszahlung komme „insbesondere mangels dargelegter Bedürftigkeit nicht in Betracht", da die Zeugin ein Tageseinkommen von 176,00 EUR netto erziele.
+Das Landgericht Tübingen wies den Antrag mit Schreiben der Richterin Fischer vom 27.01.2026 zurück. Als Begründung wurde angeführt, eine Vorschusszahlung komme "insbesondere mangels dargelegter Bedürftigkeit nicht in Betracht", da die Zeugin ein Tageseinkommen von 176,00 EUR netto erziele.
 
 ## II. Rechtlicher Rahmen – § 3 JVEG
 
@@ -20,7 +20,7 @@ Das Landgericht Tübingen wies den Antrag mit Schreiben der Richterin Fischer vo
 
 § 3 Abs. 1 JVEG lautet in der aktuellen Fassung:
 
-> *„Auf Antrag ist dem Berechtigten ein angemessener Vorschuss zu bewilligen, wenn ihm erhebliche Fahrtkosten oder sonstige Aufwendungen entstehen."*
+> *"Auf Antrag ist dem Berechtigten ein angemessener Vorschuss zu bewilligen, wenn ihm erhebliche Fahrtkosten oder sonstige Aufwendungen entstehen."*
 
 Die Norm enthält zwei kumulative Tatbestandsmerkmale:
 
@@ -31,13 +31,13 @@ Ein drittes Merkmal – insbesondere eine **wirtschaftliche Bedürftigkeit** –
 
 ### Begriff der Erheblichkeit
 
-Was unter „erheblich" zu verstehen ist, regelt das Gesetz nicht ausdrücklich. In der Literatur und Rechtsprechung wird Erheblichkeit regelmäßig bejaht, wenn die Fahrtkosten einen Betrag von ca. 25–50 EUR übersteigen. Im vorliegenden Fall betragen die Fahrtkosten allein 875,00 EUR – ein Vielfaches jeder diskutierten Erheblichkeitsschwelle. Die Erheblichkeit der Aufwendungen steht damit außer Zweifel.
+Was unter "erheblich" zu verstehen ist, regelt das Gesetz nicht ausdrücklich. In der Literatur und Rechtsprechung wird Erheblichkeit regelmäßig bejaht, wenn die Fahrtkosten einen Betrag von ca. 25–50 EUR übersteigen. Im vorliegenden Fall betragen die Fahrtkosten allein 875,00 EUR – ein Vielfaches jeder diskutierten Erheblichkeitsschwelle. Die Erheblichkeit der Aufwendungen steht damit außer Zweifel.
 
 ## III. Rechtliche Würdigung des Ablehnungsschreibens
 
 ### Unzutreffende Begründung
 
-Das Gericht stützt die Ablehnung auf das Fehlen einer „dargelegten Bedürftigkeit". Diese Anforderung findet im Gesetz keine Grundlage. § 3 JVEG differenziert nicht nach der wirtschaftlichen Leistungsfähigkeit der Zeugin. Die Richterin Fischer hat damit ein Tatbestandsmerkmal in die Norm hineingelesen, das der Gesetzgeber nicht vorgesehen hat.
+Das Gericht stützt die Ablehnung auf das Fehlen einer "dargelegten Bedürftigkeit". Diese Anforderung findet im Gesetz keine Grundlage. § 3 JVEG differenziert nicht nach der wirtschaftlichen Leistungsfähigkeit der Zeugin. Die Richterin Fischer hat damit ein Tatbestandsmerkmal in die Norm hineingelesen, das der Gesetzgeber nicht vorgesehen hat.
 
 Der Hinweis auf das Tageseinkommen von 176,00 EUR mag im Zusammenhang mit der Frage relevant sein, ob ein Verdienstausfall tatsächlich entstanden ist. Im Rahmen des Vorschussantrags für Fahrt- und Übernachtungskosten ist er hingegen nicht zielführend: Selbst eine gut verdienende Zeugin muss keine 875,00 EUR Fahrtkosten vorfinanzieren, um ihrer staatsbürgerlichen Zeugenpflicht nachzukommen.
 

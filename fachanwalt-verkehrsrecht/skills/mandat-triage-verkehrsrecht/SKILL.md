@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verkehrsrecht
-description: "Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen pruefen. Eingangs-Triage Verkehrsrecht. Pruefraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjaehrung 3 Jahre § 195 BGB) Versicherungslage Eilbeduerftigkeit vorlaeufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bussgeld-einspruch-pruefen."
+description: "Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen. Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjährung 3 Jahre § 195 BGB) Versicherungslage Eilbedürftigkeit vorlaeufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bußgeld-einspruch-prüfen."
 ---
 
 # Mandat-Triage Verkehrsrecht
@@ -117,9 +117,6 @@ Bei Fahrerlaubnis-vorläufig-entzogen § 111a StPO:
 
 ## Aktuelle Rechtsprechung Triage
 
-- OLG Hamm, Beschl. v. 24.01.2019 - 4 RBs 1/19, NZV 2019, 254 — Einspruchsfrist im OWi-Verfahren (§ 67 OWiG): Frist beginnt mit Zustellung des Bussgeldbescheids; bei Zustellungsmangel beginnt Frist nicht zu laufen; Verteidiger muss Zustellungsdatum sofort pruefen.
-- BVerfG, Beschl. v. 06.08.2002 - 2 BvR 2357/00, NJW 2003, 58 — vorlaeufige Entziehung der Fahrerlaubnis nach § 111a StPO: gerichtliche Kontrolle muss effektiv sein; bei Berufstaetigkeits-Beeintraechtigung verstaerkte Pruefungspflicht; Beschwerde nach § 304 StPO unverzueglich.
-- BGH, Urt. v. 16.11.1999 - VI ZR 37/99, NJW 2000, 861 — Verjaehrungsbeginn bei Personenschaden: Die Verjaehrungsfrist beginnt mit positiver Kenntnis des Geschaedigten von Schaden und Person des Schaedigers (§ 852 BGB a.F., heute § 199 Abs. 1 BGB); bei Spaetfolgen laeuft die Frist erst ab Kenntnis der Spaetfolge, sofern diese fuer den Geschaedigten bei Ersterscha­edigung nicht vorhersehbar war.
-- OLG Koeln, Urt. v. 13.02.2018 - 15 U 73/17, NJW-RR 2018, 1055 — Rechtsschutzversicherung: Deckungsschutzpflicht entsteht nach Geltendmachung; Anwalt muss Deckungsanfrage stellen und Ergebnis bestaetigen lassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 1/21 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 37/99, NJW 2000, 861 (verifiziert auf dejure.org). -->

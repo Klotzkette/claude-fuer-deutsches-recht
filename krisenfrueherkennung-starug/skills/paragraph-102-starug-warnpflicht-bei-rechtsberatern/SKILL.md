@@ -1,6 +1,6 @@
 ---
 name: paragraph-102-starug-warnpflicht-bei-rechtsberatern
-description: "§ 102 StaRUG Warnpflicht fuer Rechtsberater rechtlich bewerten: Steuerberater, WP oder Anwalt prueft eigene Haftungsrisiken bei Krisenmandat. Normen: § 102 StaRUG (Hinweis- und Warnpflicht), BGH IX ZR 285/14 (Sanierungsberater-Haftung), § 43 GmbHG. Pruefraster: Warnpflicht-Ausloeser, Dokumentationspflicht, Haftungsrisiken bei Unterlassen, praktische Umsetzung. Output Haftungsanalyse Berater, Handlungsempfehlung. Abgrenzung: Template fuer den Warnbrief selbst siehe mandantenbrief-warnung-paragraph-102-starug-template; Krisenstadien siehe krisenstadien-stakeholder-strategie-ergebnis-liquiditaet."
+description: "Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberatern. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
@@ -15,9 +15,7 @@ description: "§ 102 StaRUG Warnpflicht fuer Rechtsberater rechtlich bewerten: S
 - § 43 StBerG (Allgemeine Berufspflichten des Steuerberaters)
 - § 43 WPO (Berufspflichten des Wirtschaftsprüfers)
 - § 43a BRAO (Grundpflichten des Rechtsanwalts)
-- BGH IX ZR 285/14 — Sanierungsberater-Haftung: Pflicht zur unaufgeforderten Warnung des Mandanten vor Insolvenzrisiken
-- BGH IX ZR 228/13 — Steuerberater-Haftung bei unterlassenem Hinweis auf drohende Insolvenz
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) — Haftung bei Verletzung der Überwachungspflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
 ---
@@ -54,7 +52,7 @@ Die Warnung muss konkret, verständlich und nachweisbar sein. Bloßer Hinweis in
 4. **Fristsetzung** — bis wann erwartet der Berater Rückmeldung?
 5. **Hinweis auf Insolvenzantragspflicht** — § 15a InsO und Drei-Wochen-Frist benennen
 
-### 4. BGH IX ZR 285/14 — Die Leitentscheidung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat in dieser Entscheidung klargestellt: Ein Steuerberater, der bei der Erstellung des Jahresabschlusses auf Anzeichen einer Unternehmenskrise stößt, ist verpflichtet, den Mandanten unaufgefordert auf das Risiko einer Insolvenzantragspflicht hinzuweisen. Diese Pflicht besteht auch dann, wenn der Berater nur mit einem Teilauftrag (z.B. nur Jahresabschluss, kein Sanierungsauftrag) betraut ist. Der Schutzbereich des Beratungsvertrags umfasst den wirtschaftlichen Gesamtschaden des Mandanten.
 
@@ -76,7 +74,7 @@ Monatliche Prüfung durch den Berater anhand der BWA:
 - [ ] Hat der Mandant Lieferantenrechnungen > 60 Tage offen?
 - [ ] Wurde die Bank über Covenant-Unterschreitungen informiert?
 
-Wenn mehr als zwei dieser Fragen mit „ja" beantwortet werden: Warnpflicht ist ausgelöst.
+Wenn mehr als zwei dieser Fragen mit "ja" beantwortet werden: Warnpflicht ist ausgelöst.
 
 ### Schritt 2: Warnung aussprechen und dokumentieren
 
@@ -183,7 +181,7 @@ Unterschrift Geschäftsführer
 
 1. **Mündliche Warnung ohne Protokoll ist wertlos** — im Haftungsprozess muss der Berater beweisen, wann er gewarnt hat. Ohne Schriftlichkeit kein Beweis.
 
-2. **„Vertrauliche" Warnung in der BWA-Erläuterung reicht nicht** — die Warnung muss explizit, unmissverständlich und dem Mandanten formal zugegangen sein.
+2. **"Vertrauliche" Warnung in der BWA-Erläuterung reicht nicht** — die Warnung muss explizit, unmissverständlich und dem Mandanten formal zugegangen sein.
 
 3. **Mandatsniederlegung ohne Warnung schützt nicht** — wer das Mandat niederlegt, ohne vorher zu warnen, haftet für den während der Mandatszeit entstandenen Schaden.
 
@@ -191,7 +189,7 @@ Unterschrift Geschäftsführer
 
 5. **Die Warnung muss an den richtigen Empfänger gehen** — bei der GmbH ist das die Geschäftsführung, nicht nur den Buchhalter. Bei der AG: der Vorstand.
 
-6. **Zeitdruck beachten** — zwischen Erkenntnis und Warnung darf keine unangemessene Zeit verstreichen. „Unverzüglich" bedeutet in der Praxis: innerhalb einer Woche nach Erkenntnis.
+6. **Zeitdruck beachten** — zwischen Erkenntnis und Warnung darf keine unangemessene Zeit verstreichen. "Unverzüglich" bedeutet in der Praxis: innerhalb einer Woche nach Erkenntnis.
 
 ---
 

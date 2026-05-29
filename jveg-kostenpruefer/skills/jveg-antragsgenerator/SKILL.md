@@ -1,6 +1,6 @@
 ---
 name: jveg-antragsgenerator
-description: "Antrag auf gerichtliche Kostenfestsetzung nach JVEG erstellen: Verguetungsantrag, Anlagen, Fristen. Normen: §§ 2 4 JVEG. Pruefraster: Antragsfrist, Formerfordernis, Anlagenliste. Output: Kostenfestsetzungsantrag nach JVEG. Abgrenzung: nicht Beschwerde gegen Festsetzung."
+description: "Antrag auf gerichtliche Kostenfestsetzung nach JVEG erstellen: Verguetungsantrag, Anlagen, Fristen. Normen: §§ 2 4 JVEG. Prüfraster: Antragsfrist, Formerfordernis, Anlagenliste. Output: Kostenfestsetzungsantrag nach JVEG. Abgrenzung: nicht Beschwerde gegen Festsetzung."
 ---
 
 # JVEG-Antragsgenerator
@@ -27,16 +27,14 @@ Erstelle druckfertige JVEG-Antragsschreiben (Vorschuss, Nachzahlung, Festsetzung
 - §§ 19–22 JVEG (Zeugen)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Vergütungsanträge müssen die tatsächlich erforderliche Zeit nachvollziehbar belegen; pauschale Schätzungen genügen nicht.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG ist eine Ausschlussfrist; bei Versäumnis entfällt der Anspruch endgültig.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Anträge müssen Fahrtkosten mit Streckennachweis und Wirtschaftlichkeitsprüfung belegen.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Ein Ergänzungsantrag ist nur möglich, soweit der Ursprungsantrag die Position nicht erfasst hat; keine Nachbesserung bereits beschiedener Positionen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 3 Rn. 1 ff., § 4 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG § 23 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 4 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Mandant oder Sachverständiger möchte JVEG-Vergütung gerichtlich festsetzen lassen oder Vorschuss beantragen.
 

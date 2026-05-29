@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-orientierung
-description: "Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Pruefraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
+description: "Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Fachanwalt fuer Urheber- und Medienrecht — Orientierung
@@ -55,11 +55,7 @@ KI-Training und Text-Data-Mining?
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 22.03.1990 – I ZR 59/88, GRUR 1990, 1008 – Lizenzanalogie: Werknutzung ohne Lizenz begruendet Schadensersatz nach Lizenzanalogie; Lizenzgebuehrenhoehe nach MFM-Tabellen als Anhaltspunkt (st. Rspr.).
-- BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1233 Rn. 21 – Loud: Schadensersatz bei Filesharing richtet sich nach tatsaechlichem Schaden; pauschale Lizenz i.H.v. 200-600 EUR pro Song-Titel als Ausgangspunkt.
-- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 22 – Doppelte Lizenzgebuehr: Lizenzanaloger Schadensersatz bei Bilderrechtsverletzungen orientiert sich an den MFM-Empfehlungen; Verdoppelung bei fehlender Urheberbenennung.
-- EuGH, Urt. v. 22.06.2021 – C-682/18, GRUR 2021, 1331 Rn. 55 – YouTube/Cyando: Plattformbetreiber haftet nicht als unmittelbarer Taeter; fahrlaeessige Kenntnis + schnelles Loeschen (notice and take down) als Massstaab; DSA Art. 6 setzt fort.
-- BGH, Urt. v. 28.07.2015 – VI ZR 340/14, NJW 2015, 3153 Rn. 18 – Persoenlichkeitsrecht Online: Unterlassungsanspruch bei rechtswidriger Berichterstattung nach § 1004 BGB analog; Abwaegung Art. 5 GG (Pressefreiheit) gegen Art. 2 Abs. 1, 1 Abs. 1 GG (Persoenlichkeitsrecht).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Typische Mandate mit Zeitschiene
 
@@ -71,15 +67,9 @@ KI-Training und Text-Data-Mining?
 | Gegendarstellung | LPG-Frist pruefen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
 | VGG-Schiedsstelle | Antrag DPMA | Vor Klage OLG Muenchen § 128 VGG |
 
-## Standardliteratur
+## Quellenregel
 
-- **Schricker/Loewenheim**, Urheberrecht (Beck) — Standardwerk UrhG
-- **Dreier/Schulze**, UrhG (Beck) — Praxiskommentar UrhG
-- **Wandtke/Bullinger**, Urheberrecht (Beck) — UrhG mit EU-Recht
-- **Wenzel**, Das Recht der Wort- und Bildberichterstattung (Beck) — Presserecht
-- **Soehring/Hoene**, Presserecht (Nomos) — Medienrecht Praxis
-- **Fechner**, Medienrecht (Mohr Siebeck) — Lehrbuch
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Checkliste
 
 - [ ] Abmahnreaktionsfrist: uebl. 7-14 Tage (§ 97a UrhG)

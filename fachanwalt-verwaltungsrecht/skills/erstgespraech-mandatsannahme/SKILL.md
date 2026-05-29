@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Allgemeines Verwaltungs- und Bauplanungsrecht
@@ -148,15 +148,11 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Leitentscheidungen Mandatsannahme / Erstkontakt
 
-- BGH, Urt. v. 22.09.2022 — IX ZR 148/21, NJW 2022, 3568 — Anwaltshaftung bei unzureichender Erstberatung; Anwalt muss ueber alle wesentlichen Risiken und Optionen aufklaeren; fehlende Hinweise auf kurze Klagefristen fuehren zu Schadensersatzpflicht.
-- BGH, Urt. v. 08.11.2018 — IX ZR 175/17, NJW 2019, 527 — Mandatsvereinbarung; Interessenkonflikt-Pruefung Pflicht; Ablehnung des Mandats bei Konfliktsituation.
-- BVerfG, Beschl. v. 12.12.2019 — 1 BvR 2231/16, NJW 2020, 596 — Beratungshilfe § 1 BerHG; Anspruch bei hinreichenden Erfolgsaussichten; Versagung erfordert substantiierte Begruendung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO §§ 43, 43a (Berufspflichten, Interessenkonflikte, Verschwiegenheit)
-- Gaier/Wolf/Göcken Anwaltliches Berufsrecht § 43a Rn. 1-60 (Mandatsannahme, Ablehnung, Pflichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.

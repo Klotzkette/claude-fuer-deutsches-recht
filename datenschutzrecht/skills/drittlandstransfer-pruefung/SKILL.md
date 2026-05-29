@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-pruefung
-description: "Datentransfer in Drittlaender ausserhalb EU und EWR auf Zulässigkeit pruefen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Pruefraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Pruefmemo TIA-Vorlage. Abgrenzung: nicht fuer innereuroaeischen Datenaustausch."
+description: "Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzung: nicht für innereuroaeischen Datenaustausch."
 ---
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
@@ -29,13 +29,12 @@ Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-
 - **Art. 46 DSGVO** – Geeignete Garantien: Standardvertragsklauseln (SCC), Binding Corporate Rules (BCR), Verhaltensregeln mit verbindlichen Verpflichtungen, Zertifizierungsmechanismen
 - **Art. 47 DSGVO** – Verbindliche interne Datenschutzvorschriften (BCR); Genehmigung durch federführende Aufsichtsbehörde erforderlich
 - **Art. 49 DSGVO** – Ausnahmen: Einwilligung (Art. 49 Abs. 1 lit. a), Vertragserfordernis (lit. b/c), wichtige Gründe des öffentlichen Interesses (lit. d), Rechtsansprueche (lit. e), lebenswichtige Interessen (lit. f), öffentliches Register (lit. g); Abs. 1 Satz 2: gelegentliche, nicht systematische Transfers bei zwingender Notwendigkeit
-- **Art. 4 Nr. 23 DSGVO** – Definition „Internationale Organisation"
+- **Art. 4 Nr. 23 DSGVO** – Definition "Internationale Organisation"
 - **Art. 13 Abs. 1 lit. f, Art. 14 Abs. 1 lit. f DSGVO** – Informationspflicht über Drittlandtransfer und Transfermechanismus
 
 ### Rechtsprechung und Leitlinien
 
-- **EuGH, Urt. v. 16.07.2020 – C-311/18 (Data Protection Commissioner/Facebook Ireland und Maximillian Schrems), NJW 2020, 2945** (Schrems II): Der EuGH erklärt den EU-US-Privacy-Shield-Angemessenheitsbeschluss für ungültig (Rn. 201). Standardvertragsklauseln bleiben als Transfermechanismus gültig, jedoch nur dann, wenn der Verantwortliche oder Auftragsverarbeiter vor der Übermittlung sicherstellt, dass im Drittland ein dem Unionsrecht aequivalentes Schutzniveau gewaehrleistet ist (Rn. 134). Der Verantwortliche muss prüfen, ob das Rechtssystem des Empfängerlandes einen Schutz bietet, der dem in der Union garantierten Schutzniveau der Sache nach gleichwertig ist; ist dies nicht der Fall, ist die Übermittlung zu unterlassen (Rn. 142–146). `[Modellwissen – Vollzitat geprueft]`
-- **EuGH, Urt. v. 06.10.2015 – C-362/14 (Maximillian Schrems/Data Protection Commissioner), NJW 2015, 3151** (Schrems I): Ungültigkeitserklärung des Safe-Harbor-Angemessenheitsbeschlusses; Grundlage für Schrems II
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **EDSA, Empfehlungen 01/2020 zu Maßnahmen zur Ergänzung von Übermittlungsinstrumenten**, angenommen am 18.06.2021 (Version 2.0): Sechsstufige Pruefmethodik für Transfer Impact Assessment (TIA); massgeblich für die Schrems-II-Umsetzung in der Praxis
 - **EDSA, Leitlinien 05/2021 zum Zusammenwirken von Art. 3 und Kapitel V DSGVO**, angenommen am 18.11.2021: Klärung, wann der raeumliche Anwendungsbereich (Art. 3 DSGVO) und die Drittlandregeln (Kapitel V) kumulativ oder alternativ gelten
 - **DSK Orientierungshilfe Drittstaatentransfer**: Handlungsempfehlungen für verantwortliche Stellen bei Transfers in Drittlaender; abrufbar auf dskonferenz.de `[Modellwissen – aktuellen Stand pruefen]`
@@ -66,7 +65,7 @@ Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-
 
 Prüfen, ob überhaupt ein Transfer i.S.d. Kapitel V DSGVO vorliegt:
 - Findet eine Übermittlung an einen Empfänger außerhalb EU/EWR statt?
-- Genügt ein „Zugriff" (z.B. Remote-Support, Administrationszugang) aus einem Drittland – nach EDSA-Leitlinien 05/2021 ja, wenn personenbezogene Daten im Zugriffsmittelpunkt stehen
+- Genügt ein "Zugriff" (z.B. Remote-Support, Administrationszugang) aus einem Drittland – nach EDSA-Leitlinien 05/2021 ja, wenn personenbezogene Daten im Zugriffsmittelpunkt stehen
 - Art. 3 Abs. 2 DSGVO (extraterritoriale Anwendung): Liegt der Empfänger zwar im Drittland, faellt aber schon unter den raeumlichen Anwendungsbereich der DSGVO? Dann kein Kapitel-V-Transfer, aber Compliance-Prüfung nach Leitlinien 05/2021
 
 ### 2. Prüfung Angemessenheitsbeschluss (Art. 45 DSGVO)
@@ -103,7 +102,7 @@ Prüfpunkte bei SCC: Richtiges Modul? Technische Anlage (Anhang I A–C und II) 
 
 ### 4. Transfer Impact Assessment (TIA) nach Schrems II
 
-Nach EuGH C-311/18 Rn. 134 und EDSA-Empfehlungen 01/2020 muss bei SCC-Transfers geprüft werden, ob das Rechtssystem des Empfängerlandes die Wirksamkeit der SCC nicht untergrabt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **TIA Sechsstufige Methodik (EDSA-Empfehlungen 01/2020):**
 
@@ -187,7 +186,7 @@ Datenkategorien: [Auflistung]
    Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
 
 3. Schutzlueckenanalyse
-   [Unterlaefen lokale Gesetze die SCC-Schutzwirkung? Pruefung nach EuGH C-311/18 Rn. 134 ff.]
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Ergaenzende Massnahmen
    [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
@@ -216,11 +215,14 @@ Wer ist Exporteur?
 
 ### Datenschutzerklärungsbaustein Drittlandtransfer
 
-> „Wir übermitteln personenbezogene Daten an Empfänger in [LAND]. Die Übermittlung erfolgt auf Grundlage von [EU-Standardvertragsklauseln nach Beschluss 2021/914/EU, Modul X / Angemessenheitsbeschluss der Kommission vom [DATUM]]. Für die USA gilt: der Empfänger ist unter dem EU-US Data Privacy Framework zertifiziert. Eine Transferfolgenabschätzung (TIA) liegt vor. Auf Anfrage stellen wir Ihnen eine Kopie der Standardvertragsklauseln zur Verfügung (Kontakt: [DSB])."
+> "Wir übermitteln personenbezogene Daten an Empfänger in [LAND]. Die Übermittlung erfolgt auf Grundlage von [EU-Standardvertragsklauseln nach Beschluss 2021/914/EU, Modul X / Angemessenheitsbeschluss der Kommission vom [DATUM]]. Für die USA gilt: der Empfänger ist unter dem EU-US Data Privacy Framework zertifiziert. Eine Transferfolgenabschätzung (TIA) liegt vor. Auf Anfrage stellen wir Ihnen eine Kopie der Standardvertragsklauseln zur Verfügung (Kontakt: [DSB])."
 
 ## Querverweise
 
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` – Drittlandtransfer-Prüfung im AVV-Kontext (Schritt 5)
+- `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` – US-Transfers mit DPF-Listing, SCC/BCR-Ausweichpfad, Schrems-Historie und TIA vertiefen
+- `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` – SCC-Modulwahl und Annex I-III konkret erstellen
+- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket fuer Aufsichtsbehoerden ausgeben
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` – DSFA bei Hochrisiko-Drittlandtransfers
 - `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` – Drittlandtransfer bei KI-Diensten für Berufsgeheimnisträger
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` – Datenpannen bei Drittlandempfaengern
@@ -230,7 +232,7 @@ Wer ist Exporteur?
 
 - **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen koennen ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
 - **Falsches SCC-Modul:** Ein Verantwortlicher, der SCC-Modul 3 (AV-zu-AV) verwendet, obwohl er selbst Verantwortlicher ist, erzeugt keine schutzwirkende Grundlage. Konstellation vor Unterzeichnung zwingend prüfen.
-- **TIA als Formalie:** EuGH C-311/18 Rn. 134: Die Prüfung muss ehrlich und konkret sein; pauschal „Risiko akzeptabel" ohne Begründung genuegt nicht. Transparenzberichte auswerten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 49 DSGVO als Regelfall:** Die Ausnahmen des Art. 49 DSGVO sind auf Einzelfälle beschraenkt; systematische und regelmäßige Transfers auf dieser Basis sind nicht zulaessig (EDSA-Leitlinien 2/2018).
 - **Sub-Processor-Kette übersehen:** SCC Modul 2/3 legt dem Importeur Pflichten für Sub-Auftragsverarbeiter auf; deren Drittlandstatus muss ebenfalls abgesichert sein (Art. 28 Abs. 4 DSGVO).
 - **Schlüsselhoheit nicht geprüft:** Verschlüsselung schuetzt nur dann, wenn Schlüssel nicht im Drittland liegen. Cloud-Dienste mit US-Schlüsselmanagement bieten keinen vollständigen Schutz gegen FISA 702-Zugriffe.
@@ -248,12 +250,9 @@ Stand: 05/2026. Aktualität bei folgenden Ereignissen prüfen und Skill aktualis
 
 Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
-## Aktuelle Rechtsprechung (v14.2)
+## Leitrechtsprechung
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Zum grenzüberschreitenden Datentransfer im Konzernkontext; Verantwortliche müssen für jede Übermittlung eigenständig das Schutzniveau im Zielland bewerten; konzerninterne Transfers sind nicht privilegiert.
-- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zum Drittlandsübermittlungsregime; Verantwortliche können sich nicht auf AGB-Versprechen eines US-Anbieters verlassen, wenn die Rechtslage im Zielland den Schutz strukturell untergräbt; eigene TIA zwingend.
-- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Verwertbarkeit von Erkenntnissen aus US-Datenquellen im deutschen Verwaltungsverfahren — strukturelles Schutzdefizit durch FISA begründet auch verwaltungsrechtliche Nutzungsschranken.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: Für die Meldepflicht Art. 33 DSGVO und für die TIA gilt: schon die Möglichkeit eines Risikos genügt; unzureichende Drittlandsabsicherung erhöht Haftungsrisiko für Datenpannen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn (Entscheidungsbaum)
 
@@ -261,7 +260,7 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 Findet eine Übermittlung außerhalb EU/EWR statt?
   Nein → kein Kapitel-V-DSGVO-Problem
   Ja → Angemessenheitsbeschluss vorhanden?
-        Ja (USA/DPF, UK, Schweiz etc.) → DPF-Listung aktuell prüfen; Schrems-II-Risiko bleibt
+        Ja (USA/DPF, UK, Schweiz etc.) → Angemessenheitsbeschluss, Scope, Empfänger und Monitoring prüfen
         Nein → SCC (Beschluss 2021/914) vorhanden?
                  Ja → TIA erforderlich; Modul korrekt?
                  Nein → BCR / Art. 49 Ausnahme?

@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-zulaessigkeit-407
-description: "Zulaessigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog § 407 Abs. 2 StPO. Sachliche Zustaendigkeit Amtsgericht. Keine U-Haft. Keine Beweisprobleme die Hauptverhandlung erfordern. Ablehnung durch Richter § 408 Abs. 3 StPO. Nichtigkeit bei Zulaessigkeitsmaengeln."
+description: "Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog § 407 Abs. 2 StPO. Sachliche Zuständigkeit Amtsgericht. Keine U-Haft. Keine Beweisprobleme die Hauptverhandlung erfordern. Ablehnung durch Richter § 408 Abs. 3 StPO. Nichtigkeit bei Zulässigkeitsmaengeln."
 ---
 
 # Zulaessigkeit des Strafbefehls — § 407 StPO
@@ -41,18 +41,13 @@ description: "Zulaessigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. San
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 18.12.2018 - 1 StR 410/18, NStZ 2019, 226 — Erlass eines Strafbefehls bei einem Verbrechen ist prozessual unwirksam; Strafbefehl ist nichtig und kann nicht durch Einspruchsruecknahme rechtskraeftig werden.
-- OLG Frankfurt a.M., Beschl. v. 03.07.2019 - 2 Ss 175/19, NStZ-RR 2019, 351 — Strafbefehl mit Freiheitsstrafe ohne Bewaehrung ist unzulaessig; Erlass fuehrt zur Nichtigkeit der Entscheidung.
-- BVerfG, Beschl. v. 15.01.2009 - 2 BvR 2044/07, NJW 2009, 1469 — Strafbefehlsverfahren vereinbar mit Art. 6 EMRK wenn Moeglichkeit zur Hauptverhandlung nach Einspruch besteht; keine Verletzung des Anspruchs auf rechtliches Gehoer.
-- OLG Koeln, Beschl. v. 17.05.2021 - 2 RVs 89/21, NStZ-RR 2021, 310 — Sachliche Unzustaendigkeit des Gerichts kann noch in der Hauptverhandlung nach Einspruch gerueget werden; Ruegeverzicht ist moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 407 Rn. 1-25 (Zulaessigkeit vollstaendig)
-- Meyer-Gossner/Schmitt StPO § 408 Rn. 1-20 (Richterliche Entscheidung)
-- SK-StPO / Weßlau § 407 (Zulaessigkeit, Abgrenzungsprobleme)
-- Fischer StGB § 12 Rn. 1-10 (Verbrechen-/Vergehen-Abgrenzung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruef-Checkliste Zulaessigkeit
 
 ```

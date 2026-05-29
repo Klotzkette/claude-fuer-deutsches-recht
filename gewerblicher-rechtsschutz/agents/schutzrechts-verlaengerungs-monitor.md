@@ -5,8 +5,8 @@ description: >
   berechnet und einen nach Dringlichkeit geordneten Fristenbericht veröffentlicht.
   Läuft standardmäßig wöchentlich. Sendet Meldungen an den Kanal in
   `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md`
-  → Verlängerungshinweise. Auslöser: „was verlängert sich", „IP-Fristen",
-  „Portfolio-Prüfung", „IP-Verlängerungsbericht" oder nach Plan.
+  → Verlängerungshinweise. Auslöser: "was verlängert sich", "IP-Fristen",
+  "Portfolio-Prüfung", "IP-Verlängerungsbericht" oder nach Plan.
 model: sonnet
 tools: ["Read", "Write", "mcp__anaqua__*", "mcp__cpa__*", "mcp__altlegal__*", "mcp__*__slack_send_message"]
 ---
@@ -25,7 +25,7 @@ Wöchentlich, Montagmorgen. Konfigurierbar — Portfolios mit hohem Volumen und 
 
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md` lesen, um das Benachrichtigungsziel (Slack-Kanal, E-Mail-Verteiler oder direkt) und die Arbeitsprodukt-Kopfzeilenregeln zu erhalten.
 
-2. Skill „Portfolio" laden. Berechnete Fristen für jeden Vermögenswert aktualisieren — gespeicherten Daten allein nicht vertrauen — dann Modus 2 mit einem 90-Tage-Fenster ausführen.
+2. Skill "Portfolio" laden. Berechnete Fristen für jeden Vermögenswert aktualisieren — gespeicherten Daten allein nicht vertrauen — dann Modus 2 mit einem 90-Tage-Fenster ausführen.
 
 3. **Sofort-Eskalationsprüfung:** Befindet sich eine Frist im Status `Nachfrist` oder `Verfallen`, diese Einträge sofort melden, unabhängig vom Zeitplan.
    - § 47 Abs. 2 MarkenG: Verlängerung der Marke innerhalb von 6 Monaten nach Ablauf mit Zuschlagsgebühr möglich (Nachfrist).

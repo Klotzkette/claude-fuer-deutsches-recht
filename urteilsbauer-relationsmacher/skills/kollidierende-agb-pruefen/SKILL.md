@@ -1,6 +1,6 @@
 ---
 name: kollidierende-agb-pruefen
-description: "Kollidierende AGB im B2B-Verkehr (Battle of the Forms) loesen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Pruefraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Loesungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-pruefen."
+description: "Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Prüfraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Lösungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-prüfen."
 ---
 
 # Kollidierende AGB
@@ -18,10 +18,7 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 20.01.1983 - VII ZR 105/81, NJW 1985, 1838 — Grundsatzentscheidung zur Knock-out-Doktrin: kollidierende AGB-Klauseln heben sich gegenseitig auf; an ihre Stelle tritt dispositives Gesetzesrecht.
-- BGH, Urt. v. 09.01.2002 - VIII ZR 304/00, NJW 2002, 1651 — Bestätigungsschreiben: enthalten AGB erst im Bestätigungsschreiben, ohne ausdrücklichen Widerspruch des Empfängers, gelten diese AGB wenn branchenüblich.
-- BGH, Urt. v. 01.03.2017 - VIII ZR 134/15, NJW 2017, 2202 — Eigentumsvorbehalt: einfacher Eigentumsvorbehalt des Verkäufers geht verlängertem Eigentumsvorbehalt des Käufers vor, wenn Käufer AGB zuletzt übergeben hat — Knock-out gilt nicht bei Eigentumsvorbehalts-Kollision.
-- BGH, Urt. v. 07.06.1978 - VIII ZR 84/77, NJW 1978, 1858 — Wer zuletzt AGB übermittelt und der andere schweigend leistet, dessen AGB gelten nur im Schweige-Einverständnis-Fall; ohne dieses gilt Knock-out.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,12 +27,9 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 - § 310 Abs. 1 BGB — B2B: erleichterte Einbeziehung, eingeschränkte Inhaltskontrolle
 - Art. 19 CISG — modifizierte Annahme (wesentliche Abweichung = Ablehnung + neues Angebot)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 50-70 (kollidierende AGB, Knock-out)
-- MüKo-BGB/Basedow, 9. Aufl. 2022, § 305 Rn. 80-100 (Einbeziehung und Kollision)
-- Schlechtriem/Schwenzer, CISG, 7. Aufl. 2019, Art. 19 Rn. 1-20 (battle of forms CISG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 
@@ -83,7 +77,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Beide Parteien haben auf ihre jeweiligen AGB verwiesen. Die Parteien haben den Vertrag
 gleichwohl vollzogen (Lieferung / Zahlung). Ein Vertrag ist zustande gekommen.
 
-Nach der Knock-out-Doktrin (BGH NJW 1985, 1838) heben sich kollidierende Klauseln auf:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Klausel | AGB Kläger | AGB Beklagte | Ergebnis |
 |---|---|---|---|

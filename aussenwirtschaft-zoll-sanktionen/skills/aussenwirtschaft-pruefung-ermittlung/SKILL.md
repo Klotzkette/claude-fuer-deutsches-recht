@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-pruefung-ermittlung
-description: "Begleitung von Aussenwirtschaftspruefungen Zollpruefungen Durchsuchungen und Strafverfahren. Anwendungsfall Behorde kueendigt Pruefung an oder Durchsuchung hat stattgefunden. Normen AWG § 34 Strafrecht OWiG § 19 Sanktionen ZK Art. 48 Zollpruefung StPO §§ 102 ff. Durchsuchung. Pruefraster Vorbereitung Pruefung Anhörung Selbstanzeige freiwillige Offenlegung Bussgeldbescheid Strafverfahren. Output Pruefungsbegleitpaket mit Dokumentenliste Anhoerungsstrategie und Sanktions-Risikobewertung. Abgrenzung zu aussenwirtschaft-presse-krise und aussenwirtschaft-icp-kontrollsystem."
+description: "Begleitung von Aussenwirtschaftsprüfungen Zollprüfungen Durchsuchungen und Strafverfahren. Anwendungsfall Behorde kueendigt Prüfung an oder Durchsuchung hat stattgefunden. Normen AWG § 34 Strafrecht OWiG § 19 Sanktionen ZK Art. 48 Zollprüfung StPO §§ 102 ff. Durchsuchung. Prüfraster Vorbereitung Prüfung Anhörung Selbstanzeige freiwillige Offenlegung Bußgeldbescheid Strafverfahren. Output Prüfungsbegleitpaket mit Dokumentenliste Anhoerungsstrategie und Sanktions-Risikobewertung. Abgrenzung zu aussenwirtschaft-presse-krise und aussenwirtschaft-icp-kontrollsystem."
 ---
 
 # Prüfungen, Ermittlungen und Offenlegung
@@ -62,10 +62,7 @@ Kläre vor der Erstreaktion:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BGH, Urt. v. 13.10.2011 - 1 StR 53/11, BGHSt 57, 60 — Strafrahmen AWG-Ausfuhrdelikt; besonders schwerer Fall bei gewerbsmaessiger Begehung oder Straftaten im Umfang ueber 1 Mio EUR wird mit Freiheitsstrafe bis 15 Jahre bestraft.
-- BVerfG, Beschl. v. 12.07.2018 - 2 BvR 1287/17, NJW 2018, 2930 — Grundsatz nemo tenetur (Selbstbelastungsfreiheit) schuetzt auch juristische Personen; Auskunftspflichten gegenüber Ermittlern muessen verhaeltnismaessig sein.
-- BGH, Urt. v. 29.08.2008 - 2 StR 587/07, BGHSt 52, 300 — Rechtliche Grenzen der Internal Investigation; anwaltliche Untersuchungsberichte unterliegen Beschlagnahmeschutz nach § 97 StPO.
-- OLG Hamburg, Beschl. v. 15.01.2010 - 2 Ws 9/10 — Durchsuchung bei Rechtsanwalt: Beschlagnahme von Mandantenunterlagen ist unzulassig, wenn Berufsgeheimnisschutz offensichtlich greift.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Pruefung/Ermittlung
 
@@ -77,11 +74,9 @@ Kläre vor der Erstreaktion:
 - § 153a StPO — Einstellung gegen Auflage (relevant fuer Compliance-Kooperation)
 - § 130 OWiG — Aufsichtspflichtverletzung, Verbandsgeldbusse § 30 OWiG bis 10 Mio EUR
 
-## Kommentarliteratur
+## Quellenregel
 
-- Wabnitz/Janovsky/Schmitt, Handbuch Wirtschafts- und Steuerstrafrecht, 5. Aufl. — Kap. Aussenwirtschaft
-- Kuhlen/Kudlich/Ortiz de Urbina, Compliance und Strafrecht — Internal Investigation
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Erste-Reaktion-Checkliste Behoerdenmassnahme
 
 **Adressat:** Geschaftsfuehrung / Verteidiger — **Tonfall:** defensiv-strukturiert, beweissichernd

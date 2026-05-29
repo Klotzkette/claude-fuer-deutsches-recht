@@ -1,6 +1,6 @@
 ---
 name: regulierungs-luecken-analyse
-description: "Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Pruefraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht fuer spezifische Pruefungen wie AVV oder DSFA."
+description: "Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht für spezifische Prüfungen wie AVV oder DSFA."
 ---
 
 # DS-Gap-Analyse – Datenschutzrecht
@@ -75,11 +75,10 @@ Verbindlich nach `../../references/zitierweise.md`.
 - EDSA-Leitlinien 05/2020 zu Einwilligung
 - EDSA-Empfehlungen 01/2020 (TIA)
 - DSK-Orientierungshilfe zu Telemedien (aktuell Stand) `[Modellwissen – aktuellen Stand auf dskonferenz.de prüfen]`
-- EuGH, Urt. v. 16.07.2020 – C-311/18 (Schrems II), NJW 2020, 2945 (Drittlandtransfer)
-- EuGH, Urt. v. 04.07.2023 – C-252/21 (Meta Platforms), NJW 2023, 2997 (berechtigtes Interesse)
-- Holznagel/Hartmann, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 83 Rn. 1 ff.
-- Nguyen, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 44 Rn. 1 ff.
-- Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 83 Rn. 1 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -101,7 +100,7 @@ Organisation nutzt AWS US-East als Backup-System. AVV enthält EU-SCC Modul 2. K
 - EDSA-Empfehlungen 01/2020, Schritt 3: Rechtslage im Empfängerland bewerten.
 - EDSA-Empfehlungen 01/2020, Schritt 4: Auf Lücken in Schutzäquivalenz prüfen.
 - EDSA-Empfehlungen 01/2020, Schritte 5–6: Ergänzende Maßnahmen / Zurückhalten der Übermittlung.
-- **Gap:** TIA fehlt vollständig. SCC ohne TIA schützt zwar formal, aber EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2945 Rn. 134: „Die Übermittlung auf der Grundlage von Standarddatenschutzklauseln ist nur dann zulässig, wenn der Schutz des angemessenen Schutzniveaus durch die Klauseln plus ergänzende Maßnahmen im Empfängerland gewährleistet ist."
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Maßnahme (Priorität 🟠):**
 1. TIA für AWS US-East nach EDSA-Empfehlungen 01/2020 erstellen (2 Wochen, DSB + IT-Sicherheit).
@@ -127,10 +126,7 @@ Stand: 05/2026. Lückenliste laufend aktualisieren bei neuen EDSA-Leitlinien (ed
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Regulierungslücke Scoring: automatisiertes Scoring kann Art. 22 DSGVO unterliegen; Compliance-Prüfung muss diese Lücke erfassen und mit KI-VO-Anforderungen abgleichen.
-- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: § 26 BDSG als Spezialregelung für Beschäftigtendaten; Gap-Analyse muss BDSG-Anwendungsbereich neben DSGVO erfassen.
-- BVerwG, Urt. v. 27.04.2022 — 6 C 8.20, BVerwGE 175, 234 Rn. 38: Zur Zuständigkeit der Aufsichtsbehörden bei grenzüberschreitenden Verarbeitungen; Gap-Analyse muss behördliche Zuständigkeitsfragen einbeziehen.
-- OLG Düsseldorf, Urt. v. 09.03.2023 — I-20 U 56/22, GRUR-RS 2023, 5678 Rn. 18: Zur TTDSG-Compliance bei Cookie-Bannern; fehlende Einwilligung nach § 25 TDDDG ist eigenständige Regulierungslücke neben DSGVO-Rechtsgrundlage.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

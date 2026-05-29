@@ -28,18 +28,11 @@ Rechtsberatungsstellen erstellen eine Vielzahl von Statusmitteilungen — an Man
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.06.2012 – IX ZR 145/11, NJW 2012, 2571 Rn. 12 — Aufklärungspflicht des Rechtsanwalts gegenüber dem Mandanten; unverständliche Erklärungen genügen der Pflicht nicht.
-- BGH, Urt. v. 20.01.2005 – IX ZR 403/00, NJW 2005, 1116 Rn. 8 — Pflicht zur vollständigen und rechtzeitigen Information des Mandanten über Verfahrensstände und Fristen.
-- BVerwG, Urt. v. 29.01.2019 – 2 C 1/18, NJW 2019, 2041 Rn. 15 — Anforderungen an Begründung von Behördenmitteilungen; sinngemäß für behördengerichtete Statusberichte.
-- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3305 Rn. 20 — Anwaltliche Haftung für Verzögerung bei Mandantenunterrichtung; Parallele für Studierende in der Beratungsstelle.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 22 ff. — Mandanteninformation; Form und Umfang der Unterrichtungspflicht.
-- Bacher, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 128 Rn. 5 — Schriftliche Verfahren; Formanforderungen.
-- Greger/Unberath/Steffek, Recht der alternativen Konfliktlösung, 3. Aufl. 2023, § 2 MediationsG Rn. 8 — Verständlichkeitspflicht bei der Mandanteninformation.
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 25 Rn. 1 ff. — Beratungspflichten der Behörde; spiegelbildliche Anforderungen an Verfahrensvertreter.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Modus: Mandantengerichtet
@@ -67,14 +60,14 @@ Sehr geehrte/r [Mandant/-in],
 
 ich möchte Sie über den aktuellen Stand Ihres Falls informieren.
 
-**Was passiert ist:** [Klares Deutsch. „Wir haben Ihren Widerspruch am [Datum]
-beim Amt eingereicht" — nicht „Der fristwahrende Schriftsatz wurde übermittelt."]
+**Was passiert ist:** [Klares Deutsch. "Wir haben Ihren Widerspruch am [Datum]
+beim Amt eingereicht" — nicht "Der fristwahrende Schriftsatz wurde übermittelt."]
 
-**Was als nächstes passiert:** [Was und wann. „Das Amt hat jetzt 3 Monate Zeit,
+**Was als nächstes passiert:** [Was und wann. "Das Amt hat jetzt 3 Monate Zeit,
 über Ihren Widerspruch zu entscheiden. Wir erwarten bis spätestens [Datum]
 eine Antwort. Falls nichts kommt, melden wir uns."]
 
-**Was Sie tun müssen:** [Konkret und klar. Oder: „Im Moment müssen Sie nichts
+**Was Sie tun müssen:** [Konkret und klar. Oder: "Im Moment müssen Sie nichts
 tun. Wir melden uns, sobald wir etwas von Ihnen brauchen."]
 
 **So erreichen Sie uns:** [Telefon, Sprechzeiten, Name des Studierenden]
@@ -189,17 +182,17 @@ Strukturierter Markdown-Text nach dem jeweiligen Zielgruppen-Modus oben. Interne
 
 **Szenario:** Mandantin Erdem, Widerspruch gegen Nebenkostennachforderung. Widerspruch eingereicht 01.04.2026. Bestätigung vom Vermieter erwartet.
 
-- `/status mandant` → „Wir haben Ihren Widerspruch gegen die Nebenkostenabrechnung am 01.04.2026 beim Vermieter eingereicht. Der Vermieter hat jetzt zwei Monate Zeit zu antworten. Sie müssen bis dahin nichts tun."
+- `/status mandant` → "Wir haben Ihren Widerspruch gegen die Nebenkostenabrechnung am 01.04.2026 beim Vermieter eingereicht. Der Vermieter hat jetzt zwei Monate Zeit zu antworten. Sie müssen bis dahin nichts tun."
 - `/status intern` → Verfahrensstand: Widerspruch eingereicht; Frist Vermieter-Antwort ca. 01.06.2026; Supervisoren-Input: Soll Klage vorbereitet werden, falls keine Antwort kommt?
 - `/status gericht` → (noch nicht relevant, da kein Gerichtsverfahren)
 
 ## Risiken und typische Fehler
 
-- **Mandantenbrief mit Fachjargon:** Formulierungen wie „Der Schuldner ist mit der Leistung in Verzug" sind für Mandanten unverständlich. Konkrete, einfache Sprache verwenden.
+- **Mandantenbrief mit Fachjargon:** Formulierungen wie "Der Schuldner ist mit der Leistung in Verzug" sind für Mandanten unverständlich. Konkrete, einfache Sprache verwenden.
 - **Strategische Hinweise an Mandanten ohne Supervisorengespräch:** Schlechte Nachrichten (z. B. geringer Erfolgsaussichten) oder strategische Optionen gehören in das Supervisorengespräch, nicht in einen Statusbrief.
 - **Gerichtlicher Statusbericht ohne Supervisoren-Freigabe:** Verstoß gegen § 6 Abs. 2 RDG. Jedes nach außen gehende Schriftstück wird vom Supervisor freigegeben.
 - **Falsche Datumsangaben:** Fristen- und Terminangaben im Mandantenbrief müssen mit `deadlines.yaml` abgeglichen werden.
-- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt „Einschätzung des Studierenden" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studierende selbst.
+- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt "Einschätzung des Studierenden" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studierende selbst.
 
 ## Quellenpflicht
 

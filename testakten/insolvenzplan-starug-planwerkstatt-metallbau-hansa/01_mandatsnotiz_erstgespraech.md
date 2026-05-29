@@ -10,7 +10,7 @@
 
 ## 1. Ausgangslage und Mandatsanlass
 
-Die Metallbau Hansa GmbH (nachfolgend: „Mandantin" oder „Gesellschaft") ist ein in Hamburg-Billbrook ansässiger Metallbaudienstleister mit rund 86 Beschäftigten. Das Unternehmen fertigt Stahlbaugruppen, Trägerkonstruktionen und vorgefertigte Moduleinheiten für kommunale Wärmeprojekte, Bahnstationen sowie industrielle Anlagenbauer. Der erzielte Jahresumsatz lag im Geschäftsjahr 2024 bei 18,4 Mio. Euro, brach jedoch 2025 auf vorläufig 16,9 Mio. Euro ein.
+Die Metallbau Hansa GmbH (nachfolgend: "Mandantin" oder "Gesellschaft") ist ein in Hamburg-Billbrook ansässiger Metallbaudienstleister mit rund 86 Beschäftigten. Das Unternehmen fertigt Stahlbaugruppen, Trägerkonstruktionen und vorgefertigte Moduleinheiten für kommunale Wärmeprojekte, Bahnstationen sowie industrielle Anlagenbauer. Der erzielte Jahresumsatz lag im Geschäftsjahr 2024 bei 18,4 Mio. Euro, brach jedoch 2025 auf vorläufig 16,9 Mio. Euro ein.
 
 Geschäftsführerin Anna Reimers hat die Kanzlei am 7. Mai 2026 telefonisch kontaktiert und um dringenden Beratungstermin gebeten. Die Gesellschaft steht nach ihren Angaben vor dem Hintergrund einer angespannten Liquiditätssituation, einer auslaufenden Kontokorrentlinie der NordBank AG sowie mehrerer offener Lieferantenforderungen vor der Frage, ob und wie das Unternehmen ohne Insolvenzantrag oder mit einer geregelten Insolvenz in Eigenverwaltung oder einem StaRUG-Restrukturierungsplan fortgeführt werden kann.
 
@@ -34,7 +34,7 @@ Nach Angabe der Geschäftsführung bestehen folgende wesentliche Verbindlichkeit
 
 Der CFO legte eine erste handschriftliche Übersicht vor. Auf dem Kontokorrentkonto (Stand 12. Mai 2026): Negativsaldo von ca. 8.000 Euro. Ein zweites Konto bei der Sparkasse Holstein weist ein Guthaben von ca. 193.000 Euro auf. Lohnzahlungen für Mai 2026 sind zum 25. Mai fällig (ca. 420.000 Euro brutto). Die NordBank hat keinen Ermessensspielraum mehr zugesagt.
 
-Die Mandantin erwartet in KW 22 eine Projektzahlung des Kunden „Elbe Anlagenbau GmbH" von 380.000 Euro (Abschlag auf Auftrag EA-2025-17). Diese Zahlung ist nicht final bestätigt; der Ansprechpartner beim Kunden hat auf übliche 10-tägige Prüffrist verwiesen.
+Die Mandantin erwartet in KW 22 eine Projektzahlung des Kunden "Elbe Anlagenbau GmbH" von 380.000 Euro (Abschlag auf Auftrag EA-2025-17). Diese Zahlung ist nicht final bestätigt; der Ansprechpartner beim Kunden hat auf übliche 10-tägige Prüffrist verwiesen.
 
 ### 2.4 Krisenursachen (vorläufige Einschätzung)
 
@@ -47,7 +47,7 @@ Die Mandantin erwartet in KW 22 eine Projektzahlung des Kunden „Elbe Anlagenba
 
 ### 3.1 Insolvenzrechtliche Statusprüfung
 
-Es ist dringend zu klären, ob zum Gesprächszeitpunkt bereits Zahlungsunfähigkeit im Sinne von § 17 InsO eingetreten ist. Eine Zahlungsunfähigkeit ist anzunehmen, wenn die Gesellschaft nicht in der Lage ist, die fälligen Zahlungspflichten zu erfüllen, und diese Unfähigkeit nicht nur vorübergehend ist. Die „Drei-Wochen-Regel" des IDW gilt als Orientierungsgröße, ist aber nicht der einzige Maßstab.
+Es ist dringend zu klären, ob zum Gesprächszeitpunkt bereits Zahlungsunfähigkeit im Sinne von § 17 InsO eingetreten ist. Eine Zahlungsunfähigkeit ist anzunehmen, wenn die Gesellschaft nicht in der Lage ist, die fälligen Zahlungspflichten zu erfüllen, und diese Unfähigkeit nicht nur vorübergehend ist. Die "Drei-Wochen-Regel" des IDW gilt als Orientierungsgröße, ist aber nicht der einzige Maßstab.
 
 Die Kanzlei hat die Mandantin ausdrücklich darauf hingewiesen, dass die Geschäftsführer gemäß § 15a InsO zur unverzüglichen Antragstellung verpflichtet sind, sobald Zahlungsunfähigkeit oder Überschuldung vorliegen. Bei Insolvenzverschleppung droht persönliche Haftung nach § 15b InsO sowie strafrechtliche Konsequenzen.
 

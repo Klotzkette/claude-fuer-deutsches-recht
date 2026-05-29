@@ -1,6 +1,6 @@
 ---
 name: fto-triage
-description: "Unternehmen will Produkt einfuehren oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Pruefraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket fuer Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte)."
+description: "Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte)."
 ---
 
 # Freedom-to-Operate-Triage (FTO)
@@ -75,7 +75,7 @@ Für jedes potenziell sperrende Patent:
 
 🔴 **Blocking:** Alle Merkmale des Anspruchs im Produkt vorhanden; Patent in Kraft; keine eindeutige Äquivalenzlücke; anwaltliche FTO-Analyse dringend erforderlich vor Markteinführung.
 
-🟠 **Hoch:** Die meisten Merkmale vorhanden; einzelne Merkmale zweifelhaft; Äquivalenzprüfung durch Patentanwalt erforderlich (BGH, Urt. v. 14.06.2016 – X ZR 29/15, GRUR 2016, 921 – „Pemetrexed"); Einführung ohne Prüfung riskant.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 🟡 **Mittel:** Einige Überschneidungen; erhebliche Merkmale nicht vorhanden; Design-around möglich; patentanwaltliche Prüfung empfohlen.
 
@@ -98,12 +98,9 @@ Zitierweise nach `../references/zitierweise.md`.
 **Normen:** §§ 9, 14, 16, 21 PatG; § 14 GebrMG; VO (EG) 469/2009 (SPC-VO Pharma); Art. 64 EPÜ (nationale Wirkung EP-Patent).
 
 **Leitentscheidungen:**
-- BGH, Urt. v. 14.06.2016 – X ZR 29/15, GRUR 2016, 921 Rn. 32 – „Pemetrexed" (Äquivalenz, Patentbereiche).
-- BGH, Urt. v. 12.03.2002 – X ZR 168/00, GRUR 2002, 515 Rn. 28 – „Schneidmesser I" (Äquivalenz, Merkmalslehre).
-- BGH, Urt. v. 06.05.2003 – X ZR 113/99, GRUR 2003, 707 Rn. 19 – „Gewindeschneideinrichtung" (Gesamtbetrachtung der Anspruchsmerkmale).
-- EuGH, Urt. v. 12.12.2013 – C-493/12 (Eli Lilly), GRUR Int. 2014, 152 Rn. 38 (SPC-Berechnung, Pharmabereich).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Kraßer/Ann, Patentrecht, 7. Aufl. 2016, § 33 Rn. 45 ff. (Schutzbereichsbestimmung). `[Modellwissen – prüfen; neuere Auflage verwenden falls verfügbar]`
 - Schulte/Moufang, PatG, 10. Aufl. 2017, § 14 Rn. 95 ff. (Äquivalenzlehre).
 
@@ -142,5 +139,5 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Status nicht prüfen:** Erloschene Patente (nicht bezahlte Jahresgebühren, Nichtigerklärung) sind kein Hindernis mehr; DPMA-Register auf aktuellen Status prüfen.
 - **SPC-Verlängerungen übersehen:** In Pharma- und Pflanzenschutzbereich können Ergänzende Schutzzertifikate (SPC) die Schutzdauer um bis zu 5 Jahre verlängern.
 - **Kein FTO-Gutachten:** Diese Triage ersetzt kein formelles FTO-Gutachten durch einen Patentanwalt; bei 🔴/🟠-Ergebnissen ist patentanwaltliche Einschaltung zwingend.
-- **Äquivalenz ist Recht, nicht Technik:** Die Äquivalenzprüfung erfordert rechtliche Wertung (BGH „Pemetrexed"); nicht dem Ingenieur überlassen.
+- **Äquivalenz ist Recht, nicht Technik:** Die Äquivalenzprüfung erfordert rechtliche Wertung (BGH "Pemetrexed"); nicht dem Ingenieur überlassen.
 - **Geheimhaltung:** Technologiebeschreibungen sind vertraulich (§ 43a Abs. 2 BRAO; Geschäftsgeheimnis § 2 GeschGehG); nur intern und über gesicherte Kanäle verarbeiten.

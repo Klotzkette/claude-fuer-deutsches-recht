@@ -1,15 +1,15 @@
 ---
 name: rdg-pruefung-chatbot
-description: "RDG-Pruefung ob KI-Chatbot unerlaubte Rechtsdienstleistung erbringt: Anwendungsfall Kanzlei betreibt oder beraet Mandanten bei KI-Chatbot-Service und muss prüfen ob Chatbot-Output als Rechtsdienstleistung nach RDG qualifiziert. § 2 RDG Rechtsdienstleistungs-Begriff, § 3 RDG Erlaubnisvorbehalt, BGH I ZR 113/20 smartlaw-Entscheidung. Pruefraster konkrete Einzelfall-Bezogenheit, erlaubnisfreie Rechtsdienstleistung, Bagatellgrenze, Abgrenzung allgemeine Rechtsinformation. Output RDG-Pruefprotokoll mit Einordnung und Gestaltungsempfehlung. Abgrenzung zu Berufsrecht-Bausteine und zu Transparenz-Mandanten."
+description: "Workflow-Skill zu rdg pruefung chatbot. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # RDG-Prüfung Chatbot
 
-Die Frage, ob ein KI-Chatbot „Rechtsdienstleistungen" im Sinne des Rechtsdienstleistungsgesetzes (RDG) erbringt, ist für Kanzleien in mehrfacher Hinsicht relevant: für die eigene Nutzung durch anwaltliche und nicht-anwaltliche Mitarbeitende sowie für die Beratung von Mandanten, die KI-gestützte Rechtsservices anbieten oder nutzen.
+Die Frage, ob ein KI-Chatbot "Rechtsdienstleistungen" im Sinne des Rechtsdienstleistungsgesetzes (RDG) erbringt, ist für Kanzleien in mehrfacher Hinsicht relevant: für die eigene Nutzung durch anwaltliche und nicht-anwaltliche Mitarbeitende sowie für die Beratung von Mandanten, die KI-gestützte Rechtsservices anbieten oder nutzen.
 
 ## Rechtlicher Hintergrund
 
-§ 2 Abs. 1 RDG: Rechtsdienstleistung ist „jede Tätigkeit in konkreten fremden Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert." § 3 RDG: Erlaubnispflicht für Rechtsdienstleistungen. BGH, Urteil vom 9. September 2021 — I ZR 113/20 (smartlaw): Der BGH hat entschieden, dass der Online-Dokumentengenerator smartlaw Rechtsdienstleistungen erbringt, die dem anwaltlichen Beratungsmonopol unterliegen. Diese Entscheidung ist auf KI-gestützte Rechtsservices übertragbar, wenn diese eine einzelfallbezogene rechtliche Prüfung vornehmen. § 5 RDG: Erlaubte Rechtsdienstleistungen als Nebenleistung.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -28,17 +28,15 @@ Mitarbeitende ohne Rechtsanwaltszulassung dürfen KI-generierten Output zu recht
 **Baustein RDG-Konformität bei anwaltlicher Nutzung:**
 Rechtsanwältinnen und Rechtsanwälte, die KI-Systeme als Hilfsmittel zur Erstellung von Schriftsätzen, Gutachten oder Beratungsschreiben nutzen und das Ergebnis eigenverantwortlich prüfen und freigeben, verstoßen nicht gegen das RDG. Die Rechtsdienstleistung erbringt in diesem Fall der Anwalt — der Chatbot ist lediglich ein unterstützendes Werkzeug.
 
-**Baustein BGH I ZR 113/20 (smartlaw):**
-Der BGH hat entschieden, dass ein automatisierter Vertrags-Generator, der auf Basis von Nutzereingaben individualisierte Rechtsdokumente erstellt, eine Rechtsdienstleistung im Sinne des § 2 Abs. 1 RDG erbringt (BGH, I ZR 113/20). Diese Rechtsprechung ist auf KI-Chatbots zu übertragen, soweit diese einzelfallbezogen rechtliche Fragen prüfen und Empfehlungen ausgeben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hinweise zur Aktualisierung
 
 Die Rechtsprechung zum RDG im Kontext von KI-Systemen ist noch im Entstehen. Nach neuen BGH-Entscheidungen oder Entscheidungen der Oberlandesgerichte zur Qualifikation von KI-Diensten als Rechtsdienstleistung ist dieser Baustein zu aktualisieren. Auch Gesetzgebungsvorhaben zur Anpassung des RDG an die KI-Realität sind zu beobachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 05.10.2006 — I ZR 7/04, NJW 2007, 2485 Rn. 22: Rechtsdienstleistungsbegriff § 2 RDG — Anwendungsabgrenzung zu erlaubter Informationserteilung; Chatbots beduerfend genauer Pruefung.
-- BGH, Urt. v. 29.07.2009 — I ZR 166/06, NJW 2009, 3238 Rn. 18: RDG-Verstos bei automatisierter Rechtsberatung ohne anwaltliche Aufsicht.
-- BVerfG, Beschl. v. 29.10.1997 — 1 BvR 780/87, NJW 1998, 1501 Rn. 30: Anwaltsvorbehalt schuetzt Mandanteninteressen — Einschaetzungsspielraum bei rechtsnahen Informationsdiensten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 2 RDG — Rechtsdienstleistung (Begriff)

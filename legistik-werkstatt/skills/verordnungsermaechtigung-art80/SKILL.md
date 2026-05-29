@@ -1,6 +1,6 @@
 ---
 name: verordnungsermaechtigung-art80
-description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG pruefen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz stehen. Pruefung ob Ermaechtigung das Regelungsziel deckt Sub-Delegation Art. 80 Abs. 1 S. 4 GG. Landesebene Landesverfassung parallel zu Art. 80 GG. Wenn Ermaechtigung fehlt zunaechst Gesetzgebungsverfahren. Output Pruefprotokoll Empfehlung Verordnung auf welcher Grundlage oder Ermaechtigung schaerfen. Abgrenzung zu gesetzgebungskompetenz-pruefen Kompetenztitel."
+description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz stehen. Prüfung ob Ermaechtigung das Regelungsziel deckt Sub-Delegation Art. 80 Abs. 1 S. 4 GG. Landesebene Landesverfassung parallel zu Art. 80 GG. Wenn Ermaechtigung fehlt zunaechst Gesetzgebungsverfahren. Output Prüfprotokoll Empfehlung Verordnung auf welcher Grundlage oder Ermaechtigung schaerfen. Abgrenzung zu gesetzgebungskompetenz-prüfen Kompetenztitel."
 ---
 
 # Verordnungsermaechtigung Art. 80 GG
@@ -26,7 +26,7 @@ Die Ermaechtigung muss bestimmen:
 
 Test: Kann der Bürger aus dem Gesetz vorhersehen, was die VO regeln darf?
 
-BVerfGE 1 / 14 (Suedweststaat) und folgende Rechtsprechung.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Pruefstation 3 - Sub-Delegation
 
@@ -62,19 +62,15 @@ Auf Landesebene gilt regelmäßig Art. 80 GG analog über die Landesverfassungen
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Urt. v. 06.07.1999 — 2 BvF 3/90, BVerfGE 101, 1 Rn. 60 — Art. 80 Abs. 1 Satz 2 GG Bestimmtheitstrias; Inhalt Zweck Ausmass muessen im Gesetz selbst erkennbar sein; Schaufelraeder-Formel: wenn Ermaechtigungs-Empfaenger aus Gesetz nicht entnehmen kann was ihm erlaubt ist, ist Ermaechtigungsnorm zu unbestimmt
-- BVerfG, Beschl. v. 11.07.2006 — 1 BvL 4/00, BVerfGE 116, 24 Rn. 55 — Sub-Delegation Art. 80 Abs. 1 Satz 4 GG erfordert ausdrueckliche Ermaechtigung im Gesetz; ohne Subdelegations-Klausel darf Minister nicht weiter-delegieren
-- BVerfG, Urt. v. 15.12.2020 — 2 BvF 4/17, NJW 2021, 625 Rn. 45 — dynamischer Verweis auf technische Normen in Verordnungen verfassungsmaessig wenn Parlamentsgesetz Mindeststandards vorgibt; Verordnungsgeber darf keine wesentlichen Entscheidungen an private Normgeber abgeben
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 80 Abs. 1 GG (Ermaechtigungs-Bestimmtheitstrias) — Art. 80 Abs. 1 Satz 4 GG (Sub-Delegation) — Art. 80 Abs. 2 GG (Bundesrats-Zustimmung) — § 51 BImSchG (Beispiel-Ermaechtigungsnorm mit Anhoerungspflicht)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 80 Rn. 1 ff. (Verordnungsermaechtigung, Bestimmtheitstrias)
-- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 80 Rn. 1 ff. (Ermaechtigungsnorm, Sub-Delegation, Bundesratszustimmung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Pruefprotokoll plus Empfehlung:

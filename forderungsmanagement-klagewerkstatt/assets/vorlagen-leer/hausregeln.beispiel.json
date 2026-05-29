@@ -23,9 +23,9 @@
     "nebenforderung_ra_kosten": "Geschäftsgebühr Nr. 2300 VV RVG abzgl. Anrechnung Vorbem. 3 Abs. 4 VV RVG"
   },
   "standardbeleg": {
-    "ra_kosten_als_verzugsschaden": "BGH, Urt. v. 22.01.2008 – VIII ZR 6/06, NJW 2008, 1888",
-    "mahnung_anforderungen": "BGH, Urt. v. 04.10.2007 – III ZR 180/06, NJW 2008, 50",
-    "verzugspauschale_reichweite": "BGH, Urt. v. 25.06.2020 – VII ZR 308/19, NJW 2020, 2884"
+    "ra_kosten_als_verzugsschaden": "Rechtsprechung vor Ausgabe live pruefen: Gericht, Entscheidungsform, Datum, Aktenzeichen, freie/amtliche Quelle und tragende Aussage dokumentieren.",
+    "mahnung_anforderungen": "Rechtsprechung vor Ausgabe live pruefen: Gericht, Entscheidungsform, Datum, Aktenzeichen, freie/amtliche Quelle und tragende Aussage dokumentieren.",
+    "verzugspauschale_reichweite": "Rechtsprechung vor Ausgabe live pruefen: Gericht, Entscheidungsform, Datum, Aktenzeichen, freie/amtliche Quelle und tragende Aussage dokumentieren."
   },
   "anlagen_default": [
     "Rechnung mit Fälligkeit",

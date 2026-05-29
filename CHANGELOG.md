@@ -1,3 +1,287 @@
+# v24.2.0 — References-Einzelfix und UNVERIFIABLE-Online-Check
+
+- **Welle 5 — References-Einzelfix.** Die 16 in v24.1.0 noch offenen toten `references/`-Verweise einzeln durchgegangen. 14 waren falsch-positiv (Aufloesungspfade, ASCII-Tree-Beispiele, generierte Skills). 1 echter Bug gefixt: `produktrecht/skills/produktrecht-kaltstart-interview` verwies auf `references/launch-pruefung-framework-de.md`, korrigiert auf den realen Pfad `produktrecht/skills/launch-pruefung/references/seven-category-framework.md`. 2 Laufzeit-Cache-Verweise (`kanzlei-builder-hub`: `registry-cache.json`, `surfaced.json`) durch leere `references/`-Verzeichnisse mit `README.md`-Hinweis dokumentiert.
+- **Welle 6 — UNVERIFIABLE-Online-Check.** Die 893 in Welle 2 als UNVERIFIABLE markierten Aktenzeichen wurden online gegen dejure.org, BGH-/BAG-/BFH-/BSG-Datenbanken, Curia, openJur und Landesjustizportale geprueft (20 parallele Batches a ~45 AZ). Ergebnis: 148 rehabilitiert, 621 in Schnellrunde nicht auffindbar, 30 widerspruechlich, 94 uebersprungen. Konservative Strip-Strategie (Welle-1-NOT_FOUND + Original-Audit-Negativ-Marker, ohne positive Hinweise) lieferte 7 sichere Loeschkandidaten – alle bereits durch v24.1.0 entfernt. Welle 6 entfernt netto keine weiteren Zeilen, liefert aber die konsolidierte Klassifikation in `audit/welle2_unverifiable_audit_2026-05-29.json` und die 20 Roh-Batches in `audit/unverifiable_batches/` als Grundlage fuer kuenftige Reparaturwellen.
+- **Audit-Bericht erweitert.** `audit/README.md` enthaelt jetzt sechs Wellen mit Methodik und Befunden.
+- **Versionsbump.** Alle 103 Plugins (inkl. neuer `meinungspruefer`), Marketplace-Top-Level und alle Marketplace-Plugin-Eintraege einheitlich auf `24.2.0`.
+- **Neues Plugin `meinungspruefer`** mit 36 Skills zur Pruefung von Aeusserungen nach einfachem Recht, Verfassungsrecht, Europarecht und Rechtsvergleich: Meinung/Tatsache, Beleidigung, ueble Nachrede, Verleumdung, § 188 StGB, § 193 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Arbeitsplatz, Schule und kommunale Machtkritik. Rechtsprechungsbank mit frei pruefbaren Quellen und ohne BeckRS-/Kommentar-/Aufsatz-Blindzitate.
+- Neue Testakte **`meinungspruefer-grenzfaelle-alltag`** mit X-Post zum kommunalen Bauprojekt, LinkedIn-Pinocchio, Kantinenaeusserung ueber Zahlen, Elternchat, Buergermeister-"Lackaffe", Abmahnung, polizeilicher Anhoerung, Belegmappe und USA-Vergleichsnotiz.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler, 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
+# v24.1.0 — AZ-Strip, Konversationsstil und LG Aachen 10 O 306/25
+
+- **Welle 3 — Halluzinations-AZ entfernt.** Die im Vollaudit (`audit/audit_problems_2026-05-27.json`) als WRONG_TOPIC oder NOT_FOUND klassifizierten 969 Aktenzeichen wurden aus den betroffenen SKILL.md gestrichen. Ergebnis: 175 Dateien geaendert, 392 Zeilen entfernt; YAML-Frontmatter blieb unangetastet. Dokumentiert in `audit/README.md` und `audit/references_audit_2026-05-29.json`.
+- **Welle 4 — References-Konsistenz.** 17 tote Markdown-Verweise auf `references/`-Dateien identifiziert; einer (`rechtsberatungsstelle/.../pruef-warteschlange.yaml` → `review-queue.yaml`) gefixt. Die restlichen 16 sind in `audit/references_audit_2026-05-29.json` dokumentiert.
+- **Konversationsstil-Update.** `CLAUDE.md` und alle 102 `<plugin>/skills/allgemein/SKILL.md` erhalten einen verbindlichen Block: erste Antwort konzis, hoechstens eine unverzichtbare Rueckfrage, dann schnell zur Dokumentenproduktion. Ausfuehrlich nur bei echter Subsumtion, Tabellen, Risikoanalysen oder Schriftsatz-/Memo-Text. Allgemein-Skills sind Einstieg, nicht Vorlesung.
+- **Frontmatter-Konvention geschaerft.** `CLAUDE.md` listet jetzt die verbotenen Frontmatter-Felder explizit (`triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
+- **LG Aachen 10 O 306/25 (Urteil vom 27.05.2026) als Leitentscheidung aufgenommen** in: `bgb-at-pruefer/.../kauf-im-internet-und-auktionen`, `bgb-at-pruefer/.../gesetzesverbot-sittenwidrigkeit-paragraphen-134-138`, `vertragsrecht/.../vertragspruefung`, `produktrecht/.../feature-risikobewertung`. Inhalt: Button-Beschriftung "Wette abgeben" beim Online-Gluecksspiel genuegt nicht § 312j Abs. 3 BGB; endgueltige Unwirksamkeit nach Abs. 4; Rueckabwicklung nach § 812 BGB unabhaengig von Lizenz. Quellenhinweis: offizieller Volltext zum Aufnahmezeitpunkt noch nicht oeffentlich; Aufnahme erfolgte auf Basis Pressehinweis Gamesright GmbH / rightmart, 28.05.2026.
+- **Audit-JSON-Fix bewahrt.** Zwei unescapte Quotes (Z. 425, 7661) aus dem Vollaudit-JSON sind gefixt (bereits in v24.0.0 als Commit `5b0676ef` gepusht).
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler, 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Alle 102 Plugins, Marketplace-Top-Level und alle Marketplace-Plugin-Eintraege einheitlich auf `24.1.0`
+
+---
+
+# v24.0.0 — Einheitliche Versionsbasis und vollständige Codex-Integration
+
+- Alle 102 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` einheitlich auf Version `24.0.0` gezogen. Damit sind erstmals seit mehreren Releases sämtliche Manifeste, der Marketplace-Top-Level und alle Marketplace-Plugin-Einträge auf identischer Versionsnummer.
+- Sämtliche Codex-Pull-Requests (Selbstvertreter Amtsgericht und Sozialgericht, Lobbyregister Bundestag, Wertgrenzen 2026 nach Justizstandort-Stärkungsgesetz, 150 Steuerberater-Skills BWA/Lohn/DBA) sind in `main` integriert und im Release enthalten.
+- YAML-Frontmatter-Hygiene aus v23.0.1 vollständig übernommen: 47 SKILL.md-Frontmatter und ein verbliebener Plugin-Root-CLAUDE.md-Bug aus dem ASCII-Quote-Sweep sind bereinigt; alle Skills passieren den offiziellen `claude plugin validate --strict`.
+- Validatoren erweitert: `scripts/validate-yaml-frontmatter.py` (echter pyyaml-Parse-Check inklusive Komma-Zahl-Sequenzen) und `scripts/validate-with-claude-cli.sh` (Wrapper für offizielles `claude plugin validate --strict`).
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `python3 scripts/validate-yaml-frontmatter.py`
+- `./scripts/validate-with-claude-cli.sh` (offizielle Anthropic CLI v2.1.153)
+- `git diff --check`
+
+---
+
+# v23.0.1 — Download-Abdeckung und Quellenhygiene
+
+- Alle 102 Plugin-READMEs geprüft: jedes Plugin nennt sein Plugin-ZIP aus dem `latest`-Release.
+- Alle 57 Testakten sind im Testakten-Index mit ZIP-Download eingetragen; jede Testakte ist aus mindestens einem passenden Plugin-README verlinkt.
+- Die zentrale README-Übersicht nennt alle 102 Plugins, inklusive `liquiditaetsplanung` und der beiden Selbstvertreter-Plugins.
+- Zitierweise v4.0 repo-weit nachgezogen: keine BeckRS-, Kommentar-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei/amtlich oder per lizenziertem Live-Zugriff verifizierter Quelle.
+- Unsichere oder nicht frei belegte Rechtsprechungs- und Literaturzeilen in Skills, README-Texten, Generatorvorlagen und Beispiel-Hausregeln durch Live-Verifikationshinweise ersetzt.
+- Alle Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `23.0.1` gezogen; der `v23.0.0`-Stand bleibt enthalten.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- Zusatzcheck: 102/102 Plugin-READMEs mit Plugin-ZIP, 57/57 Testakten-ZIPs im Index und aus Plugin-READMEs erreichbar, 0 unsichere Zitations-Treffer im engeren Audit.
+- lokaler Build und Validierung aller Plugin- und Testakten-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
+# v23.0.0 — Selbstvertreter-Ausbau und ASCII-Anführungszeichen
+
+- Alle 102 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `23.0.0` gezogen.
+- Beide Selbstvertreter-Testakten (`selbstvertreter-amtsgericht-kuechentisch-kaufpreis` und `selbstvertreter-sozialgericht-heizkosten-eilantrag`) deutlich ausgebaut: je drei neue Dokumente, alle bestehenden Dateien stark erweitert, mittlerer bis höherer Schwierigkeitsgrad. Neu in der Amtsgericht-Akte: AGB-Klauseln zur Prüfung, privat eingeholte Voreinschätzung eines Tischlermeisters, Foto-Inventar mit EXIF-Metadaten, zehn widersprüchliche Internet-Treffer. Neu in der Sozialgericht-Akte: vollständiger Bürgergeld-Bescheid mit Berechnungsblatt, Attest mit Mindesttemperaturangabe wegen kindlichem Asthma, vier Telefonnotizen, KdU-Konzept der Stadt Leipzig.
+- Beide Selbstvertreter-Plugins `selbstvertreter-amtsgericht` und `selbstvertreter-sozialgericht` in der Plugin-Übersichtstabelle im Root-README ergänzt (waren bislang versehentlich nicht in der Tabelle).
+- Steuerrecht-Plugin: Plugin-README-H1 von "Steuerrecht für Anwaltschaft und Steuerberatung" auf "Steuerrecht - Steuerberater und Anwälte" geändert (Slug `steuerrecht-anwalt-und-berater` bleibt — keine Breaking Changes).
+- Repo-weiter Sweep: alle typografischen Anführungszeichen (`"` `"` `'` `'` `"` `"`) durch ASCII `"`/`'` ersetzt in 909 Dateien. Verhindert HTML-Entity-Darstellung (`&#x201E;` etc.) in Plugin-Outputs bei Clients, die Markdown durch HTML-Escaping schicken.
+- Stand jetzt 102 Plugins, 2410 Skills und 55 Testakten.
+
+---
+
+# v22.0.0 — Nachbarschaftsstreit, US-Transfer-TIA, KI-VO-Evidence-Pack
+
+- Alle 102 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `22.0.0` gezogen.
+- Neues Plugin **`nachbarschaftsstreit-pruefer`** mit 19 Skills zum Nachbarrecht: Überbau (§§ 912-916 BGB), Überhang (§ 910 BGB), Grenzbaum/Grenzanlage (§§ 921-923 BGB), Einfriedung, Immissionen (§ 906 BGB), Notweg (§§ 917-918 BGB), Vertiefung/Baugrube (§ 909 BGB), Hammerschlagsrecht, Landesnachbarrecht-Router, Beweissicherung, Aufforderungsschreiben, einstweilige Verfügung und Vergleich. Mit zwölfteiliger Testakte `nachbarschaftsstreit-horrorfall-rosengarten`.
+- Drei neue Datenschutz-Skills im Plugin `datenschutzrecht`: `us-transfer-tia-dokumentation`, `standardvertragsklauseln-scc-paket`, `drittlandtransfer-behoerdenpaket-output`. Mit Testakte `datenschutz-us-transfer-cloudsuite-rheinmain` (CloudSuite Assist, DPF-Lücke, SCC Modul 2, hbDI-Antwortentwurf).
+- Neuer KI-VO-Skill `output-konformitaetsbescheinigung-evidence-pack` mit Statusleiter Final/Entwurf/Readiness/Drittstelle, EU-Konformitätserklärung nach Art. 47 / Anhang V, Evidence Index und Lückenliste. Mit Testakte `ki-vo-konformitaetsbescheinigung-bewerberpilot`.
+- Bereicherungs- und Arbeitsrecht-Cleanup: URL-Konsistenz `claude-fuer-deutsches-recht` und ASCII-Slugs in den Direkt-Download-Tabellen, Skill-Slugs in Plugin-README-Tabellen ohne Umlaute.
+- Direkt-Download-Blöcke in den beiden neuen Testakten-READMEs analog zu den 53 anderen.
+- Stand jetzt 102 Plugins, 2410 Skills und 55 Testakten.
+
+---
+
+# v21.0.0 — Direkt-Downloads und Bereicherungsrecht-Cleanup
+
+- Alle 101 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `21.0.0` gezogen.
+- 52 Testakten-Unterordner-READMEs mit sichtbarem Direkt-Download-Button für die jeweilige ZIP-Datei aus dem `latest`-Release.
+- 13 Plugin-READMEs mit eigenem **Zum Ausprobieren: Testakte**-Block und Direkt-Download-Link: `arbeitszeugnis-analyse`, `bgb-at-pruefer`, `fachanwalt-arbeitsrecht`, `fachanwalt-sozialrecht`, `fachanwalt-verwaltungsrecht`, `gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `insolvenzrecht`, `jveg-kostenpruefer`, `kanzlei-allgemein`, `liquiditaetsplanung`, `lobbyregister-bundestag`, `steuerrecht-anwalt-und-berater`.
+- Bereicherungsrecht-Cleanup: 77 Skills mit Umlaut- und Typo-Reparatur, 50 Skills mit vollständig ausgebauten Aktivierungs-Descriptions im Muster Trigger + Normen + Prüfraster + Output + Abgrenzung.
+- Stand bleibt 101 Plugins, 2386 Skills und 52 Testakten.
+
+---
+
+# v20.0.0 — Release 20 Gesamtstand
+
+- Alle 101 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `20.0.0` gezogen.
+- `README.md` und `testakten/README.md` auf Release `v20.0.0` aktualisiert; Stand bleibt 101 Plugins, 2332 Skills und 52 Testakten.
+- Inhaltlicher Stand aus `v19.1.0` bleibt enthalten: BGB-AT-Prüfer mit qES-/beA-/Formfiktion-Workflow, Arbeitszeugnis-Testakte, Legistik-Ausbau und die bisherigen Qualitätsbereinigungen.
+
+---
+
+# v19.1.0 — BGB AT, Arbeitszeugnis-Testakte und Legistik-Ausbau
+
+- Neues Plugin `bgb-at-pruefer` mit 53 Skills zum BGB Allgemeiner Teil: Fallaufnahme, Anspruchsaufbau, Willenserklärung, Zugang, Vertragsschluss, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung.
+- `bgb-at-pruefer` um einen eigenen qES-/beA-/Formfiktion-Skill erweitert: §§ 126, 126a, 130 BGB, § 130e ZPO, § 46h ArbGG, § 173 ZPO und BGH VIII ZR 155/23 / VIII ZR 159/23 werden jetzt als gemeinsamer BGB-AT-/Prozessrechts-Workflow geprüft.
+- Neue synthetische Testakte `bgb-at-altfraenkische-werkstatt` mit Online-Auktion, Annahmefrist, Minderjährigenkauf, Vollmacht, Anfechtung, Bedingung, Form-/Sittenwidrigkeitsprüffeldern und beA-/qES-/Formfiktion-Nachtrag.
+- Neue Testakte `arbeitszeugnis-analyse-bluehendes-leben` mit zehn vollständigen Arbeitszeugnissen aus zehn Branchen (PTA Apotheke, angestellter Anwalt, MTRA Radiologie, Lagermeister, ZFA, Filialleiterin Sparkasse, Speditionsdisponent, Hotel-Empfangsleiter, Wohnbereichsleitung Pflege, Industriemechanik); tatsächliche Noten verdeckt über gesamte Skala eins bis fünf, ohne Musterlösung.
+- `methodenlehre-buergerliches-recht` und `subsumtions-pruefer` verweisen nun auf `bgb-at-pruefer`, wenn die abstrakte Methodik in konkrete BGB-AT-Mechanik überführt werden soll.
+
+- Legistik-Werkstatt auf fünf Startbahnen erweitert: Bundesressort/Bundesregierung, Bundestag/Fraktion/Opposition, Landesressort/Landesregierung, Landtag/Landtagsfraktion und sonstige Normgeber.
+- Legistik-Allgemein-Skill fragt jetzt Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Verfahrensstand, Drucksache, Geschäftsordnung und Outputformat ab und routet sauber in Spezial-Skills.
+- `formulierungshilfe-bauen` kann jetzt nicht nur ministerielle Koalitions-Zulieferungen, sondern auch Gesetzentwürfe aus der Mitte, Änderungsanträge, Anträge und Entschließungsanträge für Bundestag und Landtage einschließlich Oppositionsarbeit.
+- `legistik-auftragsaufnahme`, `normhierarchie-routing` und `referentenentwurf-bauen` trennen fachlichen Verfasser, formalen Initiator und politischen Auftraggeber und führen Landesverfassung, Landes-Geschäftsordnung, Landtags-GO und Verkündungsrecht als Pflichtprüfpunkte mit.
+- Perplexitys stummer Upload-Block in allen 100 Allgemein-Skills geglättet: Fristenscan zuerst, Materialklassifikation, Kontextanker, Skill-Routing, nur eine konkrete Rückfrage und ein weniger begrenzender Co-Pilot-Ton.
+- Testakten mit `.placeholder`-Dateinamen in Chatbeschreibungen, Bildbeschreibungen, Fehlblätter, Inhaltsvermerke und Validierungsnotizen umbenannt; README-Verweise entsprechend aktualisiert.
+- Produktrecht-Skills von offenen Verify-/Pinpoint-Markern, einer nicht tragfähigen Produkthaftungsfundstelle und schematischen Influencer-/Green-Claims-Aussagen bereinigt.
+- KI-Governance-Beispiele auf Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO für Bewerbungs-/Beschäftigungssysteme korrigiert und die allgemeine Chatbot/GPAI-Abgrenzung geschärft.
+- BVerfG-Leitentscheidung "Soldaten sind Mörder" mit den konkreten Aktenzeichen ersetzt; Quellenhinweis auf geprüfte Primärquellen und Pinpoint-Nachtrag umgestellt.
+
+---
+
+# v19.0.0 — KI-VO-Härtung, BVG-Abschleppakte und Release-Stand
+
+- `ki-vo-ai-act-pruefer` vertieft Art. 3 Nr. 1 KI-VO mit einem dokumentierbaren KI-System-Vermerk zu Automation, Autonomie, Adaptivität, Inferenz, Output und Umgebungseinfluss.
+- Art. 6 Abs. 2 i.V.m. Anhang III ist neu aufgebaut: alle acht Bereiche mit Untertatbeständen, Zweckbestimmung, allgemeiner Chatbot/GPAI-Abgrenzung und Mitarbeitenden-Fehlgebrauch.
+- Allgemeine Chatbots/GPAI werden ausdrücklich nicht automatisch als Hochrisiko behandelt; maßgeblich sind Anbieter-Zweckbestimmung, Betreiberzweck und tatsächliche Integration in Anhang-III-Prozesse.
+- Art. 6 Abs. 3 wurde mit Profiling-Sperre, vier Fallgruppen, Grundrechtsrisiko und Art.-6-Abs.-4-Dokumentation geschärft.
+- Normen-/Standards-Skill trennt harmonisierte Normen, gemeinsame Spezifikationen, GPAI Code of Practice und ISO/IEC-Standards ohne falsche Vermutungswirkung.
+- Output-Dokumentation enthält jetzt Art.-3-Vermerk, Anhang-III-Matrix, Off-label-Governance, Re-Evaluation-Trigger und Standards-Hinweis.
+- Perplexitys BVG-/ÖPNV-Abschleppmaterial ist in `main` integriert: neuer Verwaltungsrechts-Skill `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` und neue Testakte `bvg-widerspruchsstelle-abschleppen-mobg`.
+- Die BVG-Testakte verwendet nun Lichtbildbeschreibungen statt Platzhalterdateien; die VG-Berlin-Fundstelle ist auf Urteil vom 30.05.2022, VG 11 K 298/21, mit Pressemitteilung vom 04.07.2022 korrigiert.
+- `README.md`, `SKILLS.md`, `testakten/README.md` und der Allgemein-Skill des Verwaltungsrechts-Plugins spiegeln nun 2279 Skills, 50 Testakten und das neue Routing zum BVG-Widerspruchsbescheid wider.
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `19.0.0`.
+- `README.md` und `testakten/README.md` auf Stand 101 Plugins, 2331 Skills, 52 Testakten und Release `v19.1.0` aktualisiert.
+
+---
+
+# v18.0.0 — Allgemein-Skills als schöne Plugin-Einstiege
+
+Version 18.0.0 ist ein repo-weiter Workflow-Release: Jedes Plugin hat nun einen eigenen `allgemein`-Einstiegsskill als schnellen Intake-, Workflow- und Routingpunkt.
+
+- 34 fehlende `skills/allgemein/SKILL.md` neu angelegt.
+- 66 vorhandene Allgemein-Skills mit einheitlichem Schnellstart-Workflow, Intake in 60 Sekunden, Sofort-Triage, Antwortformat und Routing-Regeln ergänzt.
+- Jeder Allgemein-Skill enthält eine automatisch aus dem jeweiligen Plugin gezogene Liste der verfügbaren Spezial-Skills und soll bei Bedarf zwei bis fünf passende Folge-Skills mit Grund und erwartetem Output vorschlagen.
+- `SKILLS.md` und README-Zählungen auf 2278 Skills aktualisiert.
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `18.0.0`.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- Zusatzcheck: 100 Plugins, 2278 Skills, 100 Allgemein-Skills mit Schnellstart-Workflow
+- lokaler Build und Validierung aller Plugin-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
+# v17.5.1 — Insolvenzanfechtung-Audit, KI-Screening und Verteidigung
+
+Version 17.5.1 ist ein gezielter Nachlauf nur für Insolvenzanfechtungsrecht. Der Schwerpunkt liegt auf den fehleranfälligen Normgruppen §§ 129, 130/131, 133, 134, 135, 142 und §§ 143-147 InsO, dem Reformstand nach der Anfechtungsreform 2017, den Fristen, dem Bargeschäft, Gesellschafterdarlehen und der Verteidigung des Anfechtungsgegners.
+
+## Korrigiert und gehärtet
+
+- **§§ 130/131 InsO:** kongruente und inkongruente Deckung wurden sauber getrennt; § 130 verlangt Kenntnis, während § 131 die objektive Monats-/Antragsnähe und die subjektiven Alternativen für den zweiten und dritten Monat abbildet.
+- **§ 133 InsO:** Vorsatzanfechtung arbeitet nun mit Zehnjahresgrundtatbestand, Vierjahresfenster für Deckungshandlungen, Zahlungsvereinbarungsregel und der Zweijahresvariante für entgeltliche Verträge mit nahestehenden Personen.
+- **§ 142 InsO:** Bargeschäft ist nicht mehr als starre 30-Tage-Regel beschrieben; die Skills prüfen unmittelbaren Leistungsaustausch nach Verkehrsauffassung, das Drei-Monats-Fenster für Arbeitsentgelt und die Sondergrenze bei § 133 InsO.
+- **§ 135 InsO:** neuer eigener Skill für Gesellschafterdarlehen, Gesellschaftersicherheiten, Rückzahlungen, Besicherungen, Kleinbeteiligungs-/Sanierungsprivileg und Drittfinanzierungsvarianten.
+- **§§ 143-147 InsO:** Rechtsfolgen, § 144 InsO, Rechtsnachfolge, Verjährung und Handlungen nach Verfahrenseröffnung wurden neu geordnet; Zinsen werden an § 143 Abs. 1 Satz 3 InsO, Verzug und § 291 BGB angebunden.
+- **Verteidigung des Anfechtungsgegners:** neuer eigener Skill mit defensiver Matrix zu Normauswahl, Gläubigerbenachteiligung, Kenntnis, Bargeschäft, Entreicherung, § 144 InsO, Verjährung und Vergleich.
+
+## KI-Anfechtungsworkflow
+
+- Neuer Skill `inso-ki-anfechtungsansprueche-schuldnerakten` für die Auswertung von Schuldnerakten mit Quellenankern, Zahlungschronologie, Anfechtungskandidaten-Matrix, Human-Review-Markierungen und Evidenzlücken.
+- Das System darf Anfechtungskandidaten identifizieren und strukturiert vorprüfen, ersetzt aber keine anwaltliche Wertung bei § 133 InsO, Gläubigerbenachteiligungsvorsatz, Kenntnisindizien, Sanierungsversuchen, Bargeschäftsverteidigung und komplexen Dreiecksverhältnissen.
+- Insolvenzverwaltung und Fachanwalt-Insolvenz/Sanierung wurden mit demselben Prüfungsmaßstab synchronisiert, damit Verwalterseite, Klagevorbereitung und Verteidigung nicht auseinanderlaufen.
+
+## Release-Stand
+
+- 100 Plugins
+- 2244 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `17.5.1`
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- gezielte Suche nach alten Fehlmustern zu SanInsFoG/Reform 2017, § 130/§ 131, § 133, § 142, § 146 und § 135 InsO
+- lokaler Build und Validierung aller Plugin-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
+# v17.5.0 — Text-/Quellenaudit, README-Gateway-Anleitung und Lobbyregister-API-Härtung
+
+Version 17.5 finalisiert den nachgezogenen Hauptstand nach v17 und zieht die Repository-Dokumentation, Plugin-Versionen und Release-Artefakte auf einen einheitlichen Zwischenrelease. Schwerpunkt ist ein konservativer Qualitätsschnitt: weniger erfundene Fundstellen, bessere deutsche Beschreibungstexte, klarere README-Anleitung für alternative Claude-kompatible API-Endpunkte und ein belastbareres Lobbyregister-Plugin.
+
+## Korrigiert und gehärtet
+
+- **Rechtsprechungs- und Literaturhinweise:** mehrere falsch oder unsicher zugeordnete BGH-/Kapitalmarkt-/Corporate-Nachweise wurden entfernt oder durch passendere, überprüfbare Leitentscheidungen ersetzt; methodische Skills sollen nicht mehr mit frei erfundenen Aktenzeichen arbeiten.
+- **Lobbyregister Bundestag:** die API-Hinweise wurden als lesende Kontroll- und Monitoring-Schicht geschärft. Mock-Artefakte verweisen auf den stabilen `current`-Schema-Pfad und dokumentieren den Stand `R2.21`, statt eine spekulative neue API-Version zu behaupten.
+- **README:** die Anleitung zum Einhängen einer eigenen oder zwischengeschalteten Claude-/Anthropic-kompatiblen API wurde providerneutral neu gefasst, mit klarer Trennung zwischen Claude Code im Terminal und Desktop-/Cowork-Oberflächen.
+- **Deutsche Beschreibungstexte:** Frontmatter-Descriptions und Marketplace-Texte wurden breit auf Umlaute, ß und lesbare deutsche Formulierungen bereinigt, ohne Pfade, Links oder technische IDs umzubenennen.
+- **Testakten:** Lobbyregister-Testakten bleiben bewusst realistisch-fragmentarisch, enthalten aber keine spekulativen API-Abgabeversprechen. Die API wird für Suche, Exportvergleich, Monitoring und Plausibilisierung genutzt.
+
+## Release-Stand
+
+- 100 Plugins
+- 2241 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `17.5.0`
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- JSON-Parsing der geänderten Lobbyregister-API-Mockdateien
+- lokaler Build und Validierung aller Plugin-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
+# v16.0.0 — Halluzinationsbereinigung, Audit-Hardening und v15-Finalstand
+
+Version 16 baut direkt auf `v15.0.0` auf und nimmt den dortigen Stand mit Lobbyregister-Plugin, Selbstvertreter-Plugins und Steuerberater-Werkzeugen vollständig mit. Der Schwerpunkt dieses Releases ist eine weitere Qualitätsschicht gegen erfundene oder falsch zugeordnete Rechtsprechungsnachweise.
+
+## Korrigiert und gehärtet
+
+- **KI-Governance / KI-VO:** falsche Altzuordnungen zu `EuGH C-203/22` wurden aus KI-VO-/Governance-Kontexten entfernt und auf den tatsächlich passenden DSGVO-Art.-15-Kontext umgestellt.
+- **Insolvenzplan / StaRUG / Insolvenzverwaltung:** unsichere oder nicht verifizierbare BGH-Nachweise wie `VI ZR 184/17`, `IX ZR 238/17`, `IX ZB 32/21` und `IX ZR 18/19` wurden aus produktiven Skills entfernt, soweit keine belastbare Ersatzfundstelle vorlag.
+- **Insolvenzrecht / D&O:** falsche `II ZR 234/18`- und `II ZR 199/19`-Zuordnungen wurden durch passende, überprüfte Leitentscheidungen ersetzt.
+- **Squeeze-out:** der Handels-/Gesellschaftsrecht-Skill verweist nun auf DAT/Altana und Stollwerck statt auf eine falsche Insolvenz-/Haftungszuordnung.
+- **Audit-Dokumentation:** `audit/HALLUZINATIONS_AUDIT_2026-05-27.md` dokumentiert die zusätzliche lokale Reparaturwelle und den Übergang auf `v16.0.0`.
+
+## Release-Stand
+
+- 100 Plugins
+- 2175 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `16.0.0`
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- Rest-Suche nach den bekannten problematischen Aktenzeichen-/Fundstellenmustern außerhalb der Audit-Historie
+
+---
+
+# v15.0.0 — Lobbyregister, Selbstvertreter, Steuerberater-Werkzeuge und Release-Finalisierung
+
+Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen `lobbyregister-bundestag` Plugin und setzt den gesamten Marketplace auf einen einheitlichen Major-Stand.
+
+## Neue und stark ausgebaute Inhalte
+
+- **`lobbyregister-bundestag` neu:** 50 gefuehrte Skills fuer Registrierungspflicht, Ausnahmen, Portal-Eingabeplan, Finanzdaten, Regelungsvorhaben, Stellungnahmen/Gutachten, Verhaltenskodex, Aktualisierung, Bussgeldrisiken, RfS-Kommunikation und Revisionsspur.
+- **Open Data/API V2 im Lobbyregister:** eigene Referenz, API-Abfrageplan, JSON-Mapping, Registerexport-Diff und Monitoringplan. Die API wird bewusst als lesende Kontrollschicht gefuehrt; Registrierung und Aktualisierung bleiben Portalhandlungen.
+- **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Buergerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
+- **Selbstvertreter-Plugins:** Amtsgericht und Sozialgericht sind auf `main` integriert und in die Marketplace-/Release-Struktur aufgenommen.
+- **Steuerberater-Werkzeuge:** `steuerrecht-anwalt-und-berater` enthaelt die neuen StB-Skills fuer BWA, SuSa, Lohn, Jahresabschluss, DBA, Mandantenkommunikation und Software-/Portalroutinen.
+- **Audit-Fixes:** Halluzinations- und Aktenzeichen-Reparaturwellen aus den v14.2.x Hotfixes sind mitenthalten.
+
+## Release-Stand
+
+- 100 Plugins
+- 2175 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `15.0.0`
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- JSON-Parsing der neuen Lobbyregister-Testakten
+- Release-ZIP-Validierung ueber `scripts/validate-release-zips.py` im Build/Workflow
+
+---
+
 # v14.2.0 — Vollumfaenglicher Wissensboost ueber alle 1800+ Skills
 
 Inhaltlicher Tiefenboost ueber alle 97 Plugins und ueber 1800 Skills. Jeder bearbeitete Skill bekommt eine konkrete Triage zum Mandatseinstieg, eine vollstaendige Paragrafenkette mit Wortlaut der zentralen Tatbestandsmerkmale, zwei bis vier aktuelle Leitsatz-Zitate aus BVerfG BGH BAG BFH BSG BVerwG EuGH oder OLG mit Aktenzeichen und Fundstelle, Hinweise auf die zentrale Kommentarliteratur des Rechtsgebiets, einen Schritt-fuer-Schritt-Workflow und ein passendes Output-Template fuer Schriftsatz Bescheid Beschluss oder Mandantenbrief. Strukturelle Bereinigung Plugin sozialrecht-kanzlei vollstaendig nach fachanwalt-sozialrecht uebernommen und alte Light-Touch-Selbstbezeichnung entfernt.
@@ -32,21 +316,9 @@ Der Boost erfolgte in 12 Wellen mit jeweils 90 bis 250 Skills.
 | 11 | Verwaltungs- Verfassungs- Energie- Umwelt- Kartell- Verbraucherrecht | 135 |
 | 12 | Prozessrecht Vertragsrecht Forderungsmanagement Compliance Kanzlei-Methodik Jurastudium | 308 |
 
-## Wichtigste Kommentarliteratur die jetzt zitiert wird
+## Quellenhygiene-Hinweis
 
-- **Zivilrecht** — Gruenneberg MüKo BGB BeckOK BGB Erman BGB
-- **Arbeitsrecht** — ErfK Schaub HWK
-- **Handels- und Gesellschaftsrecht** — MüKo HGB MüKo GmbHG MüKo AktG Baumbach Hueck Scholz Hueffer Koch
-- **Strafrecht** — Schoenke Schroeder MüKo StGB NK-StGB Fischer
-- **Insolvenz** — MüKo InsO Uhlenbruck Jaeger K. Schmidt Uhlenbruck
-- **Familienrecht** — MüKoBGB Band 9 und 10 Wendl Dose
-- **Mietrecht** — Schmidt-Futterer Staudinger BeckOK Mietrecht
-- **Steuerrecht** — Tipke Lang MüKo AO BeckOK Steuerrecht
-- **Verwaltungsrecht** — Maurer Waldhoff Kopp Schenke Stelkens Bonk Sachs
-- **Verfassungsrecht** — Maunz Duerig Jarass Pieroth Sachs GG
-- **IT- und Datenschutzrecht** — Sydow Marsch Kuehling Buchner Paal Pauly Wendehorst Grinzinger
-- **Bank- und Kapitalmarktrecht** — Schimansky Bunte Lwowski Hopt KapMarktR
-- **Berufsrecht** — Henssler Pruetting Feuerich Weyland
+Kommentar-, Handbuch- und Aufsatzfundstellen werden nicht aus Modellwissen erzeugt. Literatur darf nur mit vom Nutzer bereitgestellter Quelle oder lizenziertem Live-Zugriff verwendet werden.
 
 ## Strukturelle Bereinigung
 
@@ -209,7 +481,7 @@ Spezialisierter Ausbau des `arbeitszeugnis-analyse` Plugins um die Erkennung des
 ## Neue Skills (drei)
 
 - **`bereichs-drift-detektor`** — Erkennt Drift innerhalb derselben acht Themenbereiche (Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis, Sozialverhalten). Spreizung zwei Stufen = Rot, eine Stufe = Orange. Drift in weichen Bereichen (Lernen, Innovation, Sozialverhalten) wird gesondert geflaggt.
-- **`satzweise-notenmatrix`** — Bewertet jeden notenrelevanten Satz mit Schulnote von eins bis fuenf. Festes Raster: Steigerungsadverb plus Superlativ = 1, eins davon = 2, Grundaussage = 3, Einschraenkung oder „bemueht" = 4, Distanzformel = 5. Tabellarisches Ausgabeformat mit Themenbereich pro Satz — Datenbasis fuer Drift-Detektor und Gesamtnoten-Aggregation.
+- **`satzweise-notenmatrix`** — Bewertet jeden notenrelevanten Satz mit Schulnote von eins bis fuenf. Festes Raster: Steigerungsadverb plus Superlativ = 1, eins davon = 2, Grundaussage = 3, Einschraenkung oder "bemueht" = 4, Distanzformel = 5. Tabellarisches Ausgabeformat mit Themenbereich pro Satz — Datenbasis fuer Drift-Detektor und Gesamtnoten-Aggregation.
 - **`muster-arbeitszeugnis-gemischte-noten`** — Vollstaendiges anonymisiertes Schulungszeugnis mit Schaufenster-Pattern. Zeigt 1er- und 3er-Saetze gemischt, vollstaendige Satz-fuer-Satz-Notenmatrix, Bereichs-Drift-Analyse und gewichtete Gesamtnote mit Drift-Penalty.
 
 ## Updates
@@ -380,7 +652,7 @@ Alle wesentlichen Änderungen an diesem Repository werden hier dokumentiert. For
 
 ### Steuer-Plugin Erweiterung (PR #70, #71)
 - Neuer Skill **`anw-insolvenzreife-pruefung-17-19-inso`** (210 Zeilen): §§ 17, 19 InsO aus Steueranwalts-Sicht mit § 222 AO Stundung, § 361 AO AdV, § 69 AO GF-Haftung Lohnsteuer, § 266a StGB, BGH IX ZB 50/03, IDW S 11, SanInsKG 24-Monats-Prognose.
-- **`stb-warnschreiben-krisensignale`** um Abschnitt „Warum gerade der Steuerberater“ und „§ 102 StaRUG als Auslöser der StB-Hinweispflicht“ erweitert — Steuerberater als externer Bestandteil des Krisenfrüherkennungssystems.
+- **`stb-warnschreiben-krisensignale`** um Abschnitt "Warum gerade der Steuerberater" und "§ 102 StaRUG als Auslöser der StB-Hinweispflicht" erweitert — Steuerberater als externer Bestandteil des Krisenfrüherkennungssystems.
 - **Generalueberholung mit sechs neuen Skills**: `anw-stundung-erlass-vollstreckungsaufschub`, `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`, `anw-organschaft-konzern-grundlagen`, `anw-grunderwerbsteuer-share-deal-90-prozent`, `anw-dac7-dac8-plattformen-krypto`, `anw-minbestg-pillar2-konzernbesteuerung`, `stb-drv-sozialversicherungspruefung`.
 
 ### Juristische Korrekturen (Codex-Audit-Welle PR #72–#76)

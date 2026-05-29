@@ -1,6 +1,6 @@
 ---
 name: allgemeine-berufliche-korrespondenz
-description: "Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Pruefraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialitaet. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklaerung. Abgrenzung: nicht fuer spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich)."
+description: "Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich)."
 ---
 
 # Allgemeine Berufliche Korrespondenz
@@ -15,8 +15,7 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 4. Welcher Stil ist gewuenscht: sehr foermlich, foermlich, sachlich-freundlich oder kollegial?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Rufschaedigende Auesserungen in Geschaeftskorrespondenz koennen Ansprueche aus § 824 BGB ausloesen.
-- BAG, Urt. v. 24.04.2014 - 8 AZR 416/13, NJW 2014, 2906 — Sachliche Korrespondenz mit Mitarbeitern als Teil der Fuersorgepflicht des Arbeitgebers nach § 241 Abs. 2 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben als Massstab fuer sachliche Korrespondenz
@@ -24,10 +23,9 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 - § 241 Abs. 2 BGB — Ruecksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
 - § 5 UWG — Irrefuehrung durch unwahre Angaben in geschaeftlicher Kommunikation
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB § 242 Rn. 1-30 (Treu und Glauben in der Korrespondenz)
-- MüKoBGB/Wagner § 823 Rn. 350-380 (Persoenlichkeitsverletzung durch Aeusserungen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Ueberarbeitete Korrespondenz
 
 **Adressat:** [NAME / FUNKTION] — **Tonfall:** [sachlich-hoeflich / foermlich / kollegial]
@@ -51,7 +49,7 @@ Mit freundlichen Gruessen
 
 ## Grundsätze der deutschen Geschäftskorrespondenz
 
-Gute Geschäftskorrespondenz ist klar, höflich und ergebnisorientiert. Sie vermeidet Bandwurmsätze, aber auch unangemessene Kürze. Sie benennt konkret, was gewünscht wird oder was mitgeteilt werden soll. Sie wahrt die gebotene Distanz (formelles „Sie"), ohne kalt zu wirken. Sie schließt mit einem klaren Ausblick: Was passiert als nächstes? Bis wann? Von wem?
+Gute Geschäftskorrespondenz ist klar, höflich und ergebnisorientiert. Sie vermeidet Bandwurmsätze, aber auch unangemessene Kürze. Sie benennt konkret, was gewünscht wird oder was mitgeteilt werden soll. Sie wahrt die gebotene Distanz (formelles "Sie"), ohne kalt zu wirken. Sie schließt mit einem klaren Ausblick: Was passiert als nächstes? Bis wann? Von wem?
 
 ## Stilhierarchie in der Geschäftskorrespondenz
 
@@ -59,7 +57,7 @@ Sehr förmlich: Schreiben an unbekannte Institutionen, erstes Kontaktschreiben. 
 
 ## Häufige Probleme in Geschäftskorrespondenz
 
-Zu lange Einleitung: Der Kern des Schreibens erscheint erst im letzten Abschnitt. Korrekt: Kernanliegen im ersten Satz. Fehlende Struktur: Verschiedene Themen ohne Absätze oder Zwischenüberschriften. Korrekt: Ein Thema pro Absatz. Zu viele Entschuldigungen: „Ich bitte vielmals um Entschuldigung, wenn ich nerve, aber..." Korrekt: Direkte, höfliche Formulierung. Passiv-Überladung: Schreiben wirken unverbindlich und schwer verständlich. Korrekt: Ausgewogenes Verhältnis von Aktiv und Passiv.
+Zu lange Einleitung: Der Kern des Schreibens erscheint erst im letzten Abschnitt. Korrekt: Kernanliegen im ersten Satz. Fehlende Struktur: Verschiedene Themen ohne Absätze oder Zwischenüberschriften. Korrekt: Ein Thema pro Absatz. Zu viele Entschuldigungen: "Ich bitte vielmals um Entschuldigung, wenn ich nerve, aber..." Korrekt: Direkte, höfliche Formulierung. Passiv-Überladung: Schreiben wirken unverbindlich und schwer verständlich. Korrekt: Ausgewogenes Verhältnis von Aktiv und Passiv.
 
 ## Mandanten-Korrespondenz
 
@@ -71,17 +69,17 @@ Für allgemeine Korrespondenz ohne Berufsrechtsbezug gelten keine spezifischen b
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Sie müssen das bis Montag erledigen."
-**Nachher:** „Ich bitte Sie, die Unterlagen bis Montag, den TT.MM.JJJJ, zu übersenden."
+**Vorher:** "Sie müssen das bis Montag erledigen."
+**Nachher:** "Ich bitte Sie, die Unterlagen bis Montag, den TT.MM.JJJJ, zu übersenden."
 
-**Vorher:** „Das haben Sie total falsch verstanden."
-**Nachher:** „Ich möchte meinen Standpunkt gerne präzisieren, da es zu einem Missverständnis gekommen zu sein scheint."
+**Vorher:** "Das haben Sie total falsch verstanden."
+**Nachher:** "Ich möchte meinen Standpunkt gerne präzisieren, da es zu einem Missverständnis gekommen zu sein scheint."
 
-**Vorher:** „Warum antwortet hier niemand??"
-**Nachher:** „Bislang habe ich auf meine E-Mail vom TT.MM.JJJJ keine Rückmeldung erhalten und bitte höflich um Nachricht."
+**Vorher:** "Warum antwortet hier niemand??"
+**Nachher:** "Bislang habe ich auf meine E-Mail vom TT.MM.JJJJ keine Rückmeldung erhalten und bitte höflich um Nachricht."
 
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Überarbeiteter Text in sachlich-höflichem Stil. (2) Erläuterung der wichtigsten Änderungen. (3) Hinweis auf Stilkonsistenz.
 
-<!-- AUDIT 27.05.2026: BGH III ZR 198/80 (WRONG_TOPIC: Finanzierungskauf/Einwendungsdurchgriff BGHZ 83, 301 — kein Bezug zu Sachlichkeit in Korrespondenz) geloescht. OLG Hamburg 3 U 48/17 (NOT_FOUND: AZ nicht auf dejure.org auffindbar) ebenfalls geloescht. Kein Ersatz eingefuegt. Quellen: dejure.org/1982,336 -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

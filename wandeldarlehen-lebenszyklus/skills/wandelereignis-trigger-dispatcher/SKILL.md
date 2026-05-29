@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-trigger-dispatcher
-description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Pruefraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungspruefung-trigger-*."
+description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*."
 ---
 
 # Master-Dispatcher Wandelereignis
@@ -184,7 +184,7 @@ Szenario D: Exit mit Erloes EUR 2 Mio
 
 - **Rangrücktritt** § 39 Abs. 2 InsO gilt
 - Lender erhält Quote nachrangig
-- BGH IX ZR 133/14 qualifizierter Rangrücktritt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wandlungsoptik problematisch
 
 #### Strategische Optionen
@@ -319,16 +319,15 @@ Strategie Gesellschaft:
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 27.09.2010 — **II ZR 256/08**, BGHZ 182, 272: Das Wandeldarlehen in zweistufiger Konstruktion vermittelt dem Darlehensgeber erst auf der Verfügungsebene (Kapitalerhöhung, §§ 55 f. GmbHG) eine dingliche Rechtsstellung; bis zum Eintritt des Wandlungsereignisses und der Durchführung der Kapitalerhöhung verbleibt der Darlehensgeber schuldrechtlicher Gläubiger, sodass Trigger-Parallelität durch Vertragsauslegung nach §§ 133, 157 BGB aufzulösen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 22: Die Rückzahlung eines Gesellschafterdarlehens innerhalb des Anfechtungszeitraums des § 135 Abs. 1 InsO ist anfechtbar; bei einem zeitlichen Zusammentreffen von Maturity-Trigger und drohender Insolvenz ist die Wandlung der Rückzahlung vorzuziehen, sofern die Bewertungsgrundlage realistisch und nicht übersetzt ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
 - BGB §§ 133 157 § 15 GmbHG
 - InsO §§ 39 130 131 133
-- BGH II ZR 256/08 Heliad
-- BGH IX ZR 133/14 qualifizierter Rangrücktritt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11
 - Weitnauer Handbuch VC
 - Greuer Wandeldarlehensvertrag

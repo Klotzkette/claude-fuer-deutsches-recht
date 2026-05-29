@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-ausgleichszahlungen-altersteilzeit
-description: "Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Pruefung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung."
+description: "Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung."
 ---
 
 # Altersteilzeit — Block- und Gleichverteilungsmodell

@@ -30,7 +30,7 @@ Die energierechtliche Due Diligence der Hafenbogen Energie GmbH & Co. KG (Zielge
 
 ### DD-01: PPA-Entwurf – Bilanzkreisverantwortung
 
-**Sachverhalt:** Der vorliegende PPA-Entwurf (Direktvermarktungsvertrag mit EnPremium GmbH, Vertrag 15.04.2025) enthält keine klare Regelung zur Übernahme der Bilanzkreisverantwortung für die eingespeisten PV-Mengen. § 4 Abs. 2 PPA lautet: „Die Bilanzkreisverantwortung richtet sich nach den jeweils anwendbaren gesetzlichen und regulatorischen Vorgaben." Diese Formulierung ist unzureichend.
+**Sachverhalt:** Der vorliegende PPA-Entwurf (Direktvermarktungsvertrag mit EnPremium GmbH, Vertrag 15.04.2025) enthält keine klare Regelung zur Übernahme der Bilanzkreisverantwortung für die eingespeisten PV-Mengen. § 4 Abs. 2 PPA lautet: "Die Bilanzkreisverantwortung richtet sich nach den jeweils anwendbaren gesetzlichen und regulatorischen Vorgaben." Diese Formulierung ist unzureichend.
 
 **Risiko:** Nach § 4 Abs. 2 StromNZV ist der Anlagenbetreiber für die Einspeisung in den ihm zugewiesenen Bilanzkreis verantwortlich. Fehlt eine klare BKV-Übertragung an EnPremium GmbH, kann die Zielgesellschaft als Bilanzkreisverantwortliche für Ausgleichsenergiekosten herangezogen werden (Ausgleichsenergie: typisch 5–20 EUR/MWh Abweichungskosten).
 

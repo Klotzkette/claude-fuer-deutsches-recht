@@ -1,6 +1,6 @@
 ---
 name: anw-kaltstart-interview
-description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation Plugin oder Konfiguration enthaelt noch Platzhalter-Marker. Erfragt Schwerpunktbereiche ESt USt KSt GewSt ErbSt Steuerstrafrecht typische Mandate Einspruch Klage AdV Aussenpruefungs-Begleitung Selbstanzeige zustaendige Finanzaemter und Finanzgerichte Schnittstelle Steuerberater Aktenstruktur ELSTER-Praxis beA-Praxis. Output Kanzlei-Konfigurationsprofil unter CLAUDE.md Verzeichnis. Abgrenzung zu anw-mandat-triage-steuerrecht das mandatsbezogen arbeitet."
+description: "Kaltstart-Interview für die steuerrechtsanwaltliche Kanzlei um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation Plugin oder Konfiguration enthaelt noch Platzhalter-Marker. Erfragt Schwerpunktbereiche ESt USt KSt GewSt ErbSt Steuerstrafrecht typische Mandate Einspruch Klage AdV Aussenprüfungs-Begleitung Selbstanzeige zuständige Finanzaemter und Finanzgerichte Schnittstelle Steuerberater Aktenstruktur ELSTER-Praxis beA-Praxis. Output Kanzlei-Konfigurationsprofil unter CLAUDE.md Verzeichnis. Abgrenzung zu anw-mandat-triage-steuerrecht das mandatsbezogen arbeitet."
 ---
 
 # /steuerrecht-anwalt-und-berater:anw-kaltstart-interview
@@ -16,14 +16,11 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei um Pr
 - **§ 52d FGO** — beA-Pflicht gegenüber Finanzgerichten
 
 ### Aktuelle Rechtsprechung (Versandwege)
-- BFH, Urt. v. 22.06.2022 - XI R 25/20, BStBl II 2023, 42 Rn. 16 — Klagefrist § 47 Abs. 1 FGO beginnt mit Bekanntgabe der Einspruchsentscheidung; bei postalischer Zusendung greift die Vier-Tages-Fiktion des § 122 Abs. 2 AO.
-- BFH, Urt. v. 13.03.2018 - IX R 22/17, BStBl II 2018, 489 Rn. 11 — Die Einspruchsfrist ist eine Ausschlussfrist; Verschulden der Kanzlei beim Fristversaeumnis geht zu Lasten des Mandanten (keine Wiedereinsetzung).
-- BFH, Beschl. v. 12.11.2020 - V B 32/20, BFH/NV 2021, 228 Rn. 6 — Im AdV-Verfahren nach § 69 FGO ist vollständige Sachverhaltsprüfung nicht geboten; schlussiger Vortrag zu ernstlichen Zweifeln genügt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Tipke/Kruse, AO/FGO (Großkommentar) — für alle Verfahrensfragen
-- Golluch/Seib, FGO — für das Klageverfahren vor dem Finanzgericht
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
@@ -72,7 +69,7 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei um Pr
 
 ### 6. Versandwege
 
-- **ELSTER / ERiC** Pflichtkanal **gegenueber Finanzbehoerden** seit JStG 2024 (§ 87a Abs. 1 S. 2 AO n.F., 6.12.2024) — Einspruch AdV-Antrag verbindliche Auskunft Selbstanzeige Akteneinsicht. beA an Finanzamt unzulässig (Einspruch per beA formunwirksam; vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **beA** Pflicht **gegenueber Gerichten** (§ 52d FGO) — Klage Finanzgericht AdV-Antrag FG Revision BFH.
 - **EGVP** als Alternative zum beA gegenueber Gerichten.
 - **Briefpost / Telefax** weiterhin in alle Richtungen zulaessig (§ 87a AO bezieht sich nur auf elektronische Wege).
@@ -103,3 +100,5 @@ Profil wird geschrieben. Nächste Skills:
 ## Hinweise
 
 Steuerrechtliche Beratung für Erstellung von Steuererklärungen ist im Schwerpunkt Tatigkeit des Steuerberaters (StBerG § 3). Anwaltliche Steuerberatung ist zulässig (§ 3 Nr. 1 StBerG); die Erstellung von Erklärungen erfolgt aber regelmäßig durch den Steuerberater des Mandanten. Dieses Plugin fokussiert auf den streitbezogenen Teil.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (Nds. FG Urt. v. 12.02.2026 – 2 K 152/25 instanzgerichtlich bestaetigt, BFH-NZB I B 28/25 anhängig) -->

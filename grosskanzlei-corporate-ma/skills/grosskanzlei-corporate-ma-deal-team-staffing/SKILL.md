@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-deal-team-staffing
-description: "Deal-Team-Besetzung und Staffing-Plan fuer Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Pruefraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan fuer Fristen und zu Konflikt-GwG-Sanktions-Check fuer Mandat-Annahme."
+description: "Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan für Fristen und zu Konflikt-GwG-Sanktions-Check für Mandat-Annahme."
 ---
 
 # Deal-Team und Staffing
@@ -56,12 +56,11 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung im Team: fehlende Spezialisierung im Team kann Pflichtverletzung begründen; Teamleiter haftet fuer unzureichendes Staffing
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schramm/Alexander, BRAO, § 49b Rn. 1-40 (Honorarvereinbarung, M&A-Mandate)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline

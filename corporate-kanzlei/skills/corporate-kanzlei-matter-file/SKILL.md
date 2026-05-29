@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-matter-file
-description: "Transaktionsakte strukturieren und verwalten fuer Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO (Aufbewahrungspflichten), BRAO § 50 (Aktenaufbewahrung). Pruefraster: Dokumententypen, Versionierung, Vernichtungsfristen, DSGVO-Archivierung. Output Matter-File-Struktur, Versionierungsprotokoll, Aufbewahrungskalender. Abgrenzung: Closing Bible am Ende siehe closing-bible-archiv; Datenraum-Aufbau siehe datenraum-aufbau."
+description: "Transaktionsakte strukturieren und verwalten für Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO (Aufbewahrungspflichten), BRAO § 50 (Aktenaufbewahrung). Prüfraster: Dokumententypen, Versionierung, Vernichtungsfristen, DSGVO-Archivierung. Output Matter-File-Struktur, Versionierungsprotokoll, Aufbewahrungskalender. Abgrenzung: Closing Bible am Ende siehe closing-bible-archiv; Datenraum-Aufbau siehe datenraum-aufbau."
 ---
 
 # Matter File und Aktenstruktur
@@ -23,13 +23,11 @@ description: "Transaktionsakte strukturieren und verwalten fuer Corporate/M&A-Ma
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 09.04.2019 - II ZR 289/17, NJW 2019, 2218 — Dokumentationspflicht: Anwalt muss Akte so fuehren, dass Mandant bei Streit alle relevanten Tatsachen nachvollziehen kann
-- BGH, Urt. v. 07.12.2017 - IX ZR 101/17, NZI 2018, 131 — Aktenherausgabe (§ 50 BRAO): Mandant hat Herausgabeanspruch; Kanzlei darf Rueckbehaltungsrecht nur fuer eigene Honoraransprueche geltend machen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Pruestell BRAO § 50 Rn. 1 ff. — Aktenrecht und Herausgabepflicht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Matter-File-Struktur: Corporate M&A
 
 ```
@@ -110,5 +108,5 @@ VERTRAULICH — MANDATSGEHEIMNIS (§ 43a BRAO)
 ## Quellen
 
 - § 50 BRAO; §§ 257 f. HGB; § 147 AO; § 199 BGB; GoBD
-- BGH II ZR 289/17 (Dokumentationspflicht); BGH IX ZR 101/17 (§ 50 BRAO Herausgabe)
-- Henssler/Pruestell BRAO § 50
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.

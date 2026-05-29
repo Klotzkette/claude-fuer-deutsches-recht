@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-anpassen
-description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Ruecknahme. Normen: §§ 263 264 269 ZPO. Pruefraster: Klageaenderungsvoraussetzungen, Ruecknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill."
+description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: §§ 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill."
 ---
 
 # Praxisprofil anpassen
@@ -22,23 +22,21 @@ description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klage
 - BORA §§ 2, 3 (Sachlichkeit und Grundpflichten)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 21.10.2010 – IX ZR 37/10, NJW 2011, 375 — Die Wahl der Vergütungsart (Zeithonorar vs. gesetzliche Gebühren) muss klar und nachweisbar vereinbart sein; eine konkludente Vereinbarung gehört zur Sorgfaltspflicht des Anwalts.
-2. BGH, Beschl. v. 15.03.2021 – AnwZ (Brfg) 50/19, NJW 2021, 1523 — Rollenwechsel zwischen freiem Anwalt und Syndikusrechtsanwalt unterliegt besonderen zulassungsrechtlichen Anforderungen nach § 46a BRAO.
-3. BGH, Urt. v. 23.06.2016 – IX ZR 204/15, NJW 2016, 3365 — Praxisschwerpunktangaben im Briefkopf oder im Profil verpflichten den Anwalt auf den zugehörigen Wissensstandard; fehlerhafte Angaben können Haftungsgrundlage sein.
-4. BAG, Urt. v. 14.06.2017 – 10 AZR 301/16, NJW 2018, 327 — Der Syndikusrechtsanwalt darf nur im Rahmen seines Anstellungsverhältnisses tätig werden; eine gleichzeitige Vertretung gegenüber dem eigenen Arbeitgeber ist ausgeschlossen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 1 ff. (Grundpflichten und Verschwiegenheit).
-- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 46a Rn. 1 ff. (Syndikusrechtsanwalt).
-- Mayer/Kroiber, RVG, 8. Aufl. 2022, § 3a Rn. 1 ff. (Vergütungsvereinbarung).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Gezielte Änderung einzelner Felder des Praxisprofils in CLAUDE.md, ohne den gesamten Kaltstart-Prozess zu wiederholen. Geeignet für Wechsel des Praxisschwerpunkts, Anpassung der Risikostrategie, Aktivierung neuer Integrationen oder Korrektur falscher Angaben.
 
 ## Eingaben
 
-- Eines oder mehrere zu ändernde Felder (z. B. „Schwerpunkt auf Strafrecht hinzufügen", „Outlook MCP aktivieren")
+- Eines oder mehrere zu ändernde Felder (z. B. "Schwerpunkt auf Strafrecht hinzufügen", "Outlook MCP aktivieren")
 - Optional: `--alle` – zeigt alle aktuellen Einstellungen zur Auswahl
 
 ## Ablauf

@@ -1,16 +1,16 @@
 # Insolvenzreife-Checkliste für BWA-/SuSa-/Bilanz-Review
 
 > Dokumentationsfeste Indikatorenliste zur Anwendung neben dem Skill `stb-bwa-sus-bilanz-pruefung`.
-> Stand: 2026. Bei Gesetzesänderungen (insb. SanInsKG-Verlängerungen, StaRUG-Novellen) den aktuellen Rechtsstand verifizieren.
+> Stand: 2026. Bei Gesetzesaenderungen (insb. SanInsKG-Verlaengerungen, StaRUG-Novellen) den aktuellen Rechtsstand pruefen.
 
 ## A. Quantitative Indikatoren – Bilanz/SuSa
 
 | Indikator | Schwellenwert/Norm | Quelle |
 |---|---|---|
 | Eigenkapital negativ | EK < 0 → Verdacht § 19 InsO; Überschuldungsstatus erstellen | § 19 Abs. 2 InsO |
-| Eigenkapitalquote | < 10 % → Krisenindikation | Uhlenbruck/Mock, § 19 InsO Rn. 47 |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 | Liquidität 1. Grades | < 50 % → starke Krisenindikation | K. Schmidt/Herchen, § 17 InsO Rn. 12 |
-| Lieferantenkreditdauer | Anstieg > 30 Tage YoY → Indiz Zahlungsstockung/Zahlungsunfähigkeit | BGH NJW 2007, 78 Rn. 18 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verhältnis kurzfr. Verb. zu Umsatz | > 50 % | IDW S 11 Rn. 35 |
 | Rückgang Working Capital | YoY > 30 % | IDW S 11 Rn. 36 |
 
@@ -18,16 +18,14 @@
 
 | Indiz | Bewertung | Quelle |
 |---|---|---|
-| Eingestellte Zahlungen an Sozialversicherung | Starkes Indiz § 17 InsO | BGH NJW 2007, 78 Rn. 18 |
-| Eingestellte Steuerzahlungen | Starkes Indiz § 17 InsO | BGH NJW 2007, 78 Rn. 18 |
-| Stundungsersuchen an mehrere Gläubiger | Indiz § 17 InsO | BGH BGHZ 163, 134 Rn. 16 |
-| Lastschriftrückläufer | Indiz § 17 InsO | Uhlenbruck/Mock, § 17 InsO Rn. 22 |
-| Mahnverfahren/Vollstreckung Gläubiger | Indiz § 17 InsO | BGH NJW 2007, 78 Rn. 19 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kontokorrent dauerhaft ausgeschöpft | Indiz Zahlungsstockung → § 17 InsO | K. Schmidt/Herchen, § 17 InsO Rn. 18 |
 | Gesellschafterdarlehen ohne qualifizierten Rangrücktritt | Im Überschuldungsstatus zu passivieren | § 39 Abs. 2 InsO |
 | Anhängige Prozesse mit Schadens-Risiko > EK | Stille Last → Überschuldungsstatus | K. Schmidt/Herchen, § 19 InsO Rn. 60 |
 
-## C. § 102 StaRUG – Trigger-Liste „offenkundige Anhaltspunkte"
+## C. § 102 StaRUG – Trigger-Liste "offenkundige Anhaltspunkte"
 
 Die Hinweispflicht ist regelmäßig ausgelöst, wenn **mindestens eines** der folgenden Merkmale erkennbar ist (Pape/Schaltke, § 102 StaRUG Rn. 19 ff.):
 
@@ -41,7 +39,7 @@ Die Hinweispflicht ist regelmäßig ausgelöst, wenn **mindestens eines** der fo
 
 ## D. Dokumentation
 
-- Schriftliche oder textförmliche Aufzeichnung des Hinweises (BeckOK StaRUG/Skauradszun, § 102 StaRUG Rn. 17).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Mandantenquittung oder nachweisbare Übermittlung (E-Mail-Eingangsbestätigung, Einschreiben).
 - Vorhalten in der Handakte für mindestens 10 Jahre (§ 66 StBerG, § 50 BRAO analog).
 
@@ -49,4 +47,4 @@ Die Hinweispflicht ist regelmäßig ausgelöst, wenn **mindestens eines** der fo
 
 - `references/hinweisschreiben-102-starug.md` – Mustertext
 - IDW S 11 (Stand 22.08.2016 + Updates) – berufsständische Verlautbarung
-- BGH BGHZ 163, 134; BGH NJW 2007, 78; BGH NJW 2020, 1809; BGH BGHZ 213, 374
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

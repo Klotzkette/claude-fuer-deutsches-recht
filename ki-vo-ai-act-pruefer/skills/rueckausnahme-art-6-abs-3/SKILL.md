@@ -1,122 +1,161 @@
 ---
 name: rueckausnahme-art-6-abs-3
-description: "System wurde als Anhang-III-relevant eingestuft aber Unternehmen fragt: Greift eine der Ausnahmen vom Hochrisiko? Art. 6 Abs. 3 KI-VO Rueckausnahme. Pruefraster: vier Fallgruppen enge Verfahrensaufgabe Verbesserung menschlicher Taetigkeit ohne Ersetzung Mustererkennung ohne Entscheidungsrelevanz bloss vorbereitende Aufgabe. Sicherungsklausel: Profiling natuerlicher Personen ist stets Hochrisiko ohne Ausnahme. Output: Ausnahme-Entscheidungsbaum mit Begruendungspflicht. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Eingangseinordnung) und sachlicher-ausschluss-art-2-abs-3-bis-12 (voellige Ausnahme vom Anwendungsbereich)."
+description: "Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausnahmsweise nicht Hochrisiko ist. Art. 6 Abs. 3 KI-VO: kein erhebliches Risiko fuer Gesundheit, Sicherheit oder Grundrechte, vier enge Fallgruppen, Profiling-Sperre, Begruendungs- und Dokumentationspflicht nach Art. 6 Abs. 4. Besonders wichtig fuer allgemeine Assistenzsysteme, Chatbots und vorbereitende Tools in Personal, Justiz, Bildung, Kredit und Verwaltung. Output: begruendeter Rueckausnahme-Vermerk mit Risikobegruendung und Folge-Skills."
 ---
 
 # Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 KI-VO
 
 ## Zweck
 
-Art. 6 Abs. 3 KI-VO enthält eine Rückausnahme: Auch wenn ein KI-System in einem der acht Anhang-III-Bereiche tätig ist, kann es ausnahmsweise nicht als Hochrisiko-System eingestuft werden — wenn es kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte darstellt.
+Dieser Skill wird nur genutzt, wenn zuvor ein Anhang-III-Tatbestand nach Art. 6 Abs. 2 KI-VO möglich oder wahrscheinlich ist. Er prüft, ob das System ausnahmsweise nicht als Hochrisiko-KI-System gilt, weil es kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte darstellt und in eine der eng auszulegenden Fallgruppen fällt.
 
-## Wichtiger Vorbehalt vorab: Sicherungsklausel
+Der Skill ist besonders wichtig bei allgemeinen Assistenzsystemen, LLM-Tools, Chatbots und Dokumentationshilfen, die in sensiblen Bereichen eingesetzt werden, aber nur vorbereitende oder eng begrenzte Aufgaben erfüllen sollen.
 
-**Kein Ausschluss bei Profiling:** KI-Systeme, die Profiling natürlicher Personen vornehmen, sind IMMER als Hochrisiko einzustufen — unabhängig davon, ob eine der vier Fallgruppen der Rückausnahme einschlägig wäre. Profiling ist nach Art. 3 Nr. 33 KI-VO die automatisierte Verarbeitung personenbezogener Daten zur Bewertung persönlicher Aspekte einer natürlichen Person.
+## Prüfungsreihenfolge
 
-**Prüffragen (Ausschluss der Rückausnahme):**
-- Bewertet das System persönliche Aspekte einer natürlichen Person (Leistung, wirtschaftliche Situation, Gesundheit, Präferenzen, Verhalten, Aufenthaltsort, Bewegung)?
-- Wenn ja → Profiling → keine Rückausnahme → Hochrisiko
+1. Anhang-III-Treffer konkret benennen.
+2. Profiling natürlicher Personen ausschließen.
+3. Erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte bewerten.
+4. Eine der vier Fallgruppen prüfen.
+5. Tatsächliche Nutzung und vorhersehbaren Fehlgebrauch gegen die behauptete Rückausnahme halten.
+6. Dokumentationspflicht nach Art. 6 Abs. 4 vorbereiten.
 
-## Die vier Fallgruppen der Rückausnahme (Art. 6 Abs. 3 KI-VO)
+## Sperre: Profiling natürlicher Personen
 
-### Fallgruppe 1 — Enge Verfahrensaufgabe
+Wenn das System Profiling natürlicher Personen vornimmt, greift die Rückausnahme nicht.
 
-Das KI-System ist für eine eng definierte Verfahrensaufgabe bestimmt, die keinen wesentlichen Einfluss auf das Ergebnis einer Entscheidung hat.
+Prüfe:
+- Werden personenbezogene Daten automatisiert verarbeitet?
+- Werden persönliche Aspekte bewertet, analysiert oder vorhergesagt?
+- Geht es um Leistung, wirtschaftliche Lage, Gesundheit, Präferenzen, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Bewegung?
+- Hat der Output individualisierende Wirkung?
 
-**Prüffragen:**
-- Ist die Aufgabe des Systems auf einen einzelnen, eng begrenzten Verfahrensschritt beschränkt?
-- Hat das System keinen wesentlichen Einfluss auf das Gesamtergebnis?
+Bei Bewerberranking, Beschäftigtenbewertung, Kredit-Scoring, individueller Risikobewertung, Eignungsbewertung oder personalisiertem Leistungsmonitoring ist die Profiling-Sperre besonders sorgfältig zu prüfen.
 
-**Beispiel:** Ein System, das lediglich die Vollständigkeit eines Formulars prüft (fehlende Felder erkennt), ohne den Inhalt zu bewerten.
+## Erhebliches Risiko
 
-**Abgrenzung:** Wenn das System zwar scheinbar eine enge Verfahrensaufgabe hat, aber seine Ausgaben in der Praxis maßgeblich die finale Entscheidung bestimmen, greift die Rückausnahme nicht.
+Die Rückausnahme setzt voraus, dass das System kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte darstellt. Nicht nur technische Sicherheit zählt, sondern auch Gleichbehandlung, Datenschutz, Menschenwürde, Zugang zu Leistungen, Bildung, Arbeit, Rechtsschutz und effektiver menschlicher Kontrolle.
 
-### Fallgruppe 2 — Verbesserung des Ergebnisses menschlicher Tätigkeit
+Risikofaktoren:
+- Output beeinflusst Zugang, Ablehnung, Priorität, Score, Ranking oder Sanktion.
+- Betroffene können Output kaum erkennen, bestreiten oder korrigieren.
+- Menschliche Kontrolle ist nur formal oder faktisch überfordert.
+- Datenqualität, Bias, Halluzinationen oder Fehlklassifikationen können Personen treffen.
+- Nutzung erfolgt in Machtasymmetrie: Arbeitgeber, Schule, Behörde, Bank, Versicherung, Gericht.
+- Off-label-Nutzung ist naheliegend und nicht wirksam abgesichert.
 
-Das KI-System dient dazu, das Ergebnis einer bereits von einem Menschen erbrachten Tätigkeit zu verbessern, ohne eine wesentliche Auswirkung auf das eigentliche Ergebnis zu haben.
+## Vier Fallgruppen
 
-**Prüffragen:**
-- Ist das System darauf ausgerichtet, menschlich erzeugte Ergebnisse zu verfeinern oder zu verbessern, nicht aber zu ersetzen?
-- Trifft das System keine eigenständige Bewertung, sondern verbessert nur den Prozess einer menschlichen Bewertung?
+### 1. Enge Verfahrensaufgabe
 
-**Beispiel:** Ein System, das die sprachliche Verständlichkeit eines bereits von einem Prüfer bewerteten Dokuments verbessert, ohne die inhaltliche Bewertung zu verändern.
+Das System führt eine eng begrenzte Verfahrensaufgabe aus und hat keinen wesentlichen Einfluss auf das Ergebnis der Entscheidung.
 
-### Fallgruppe 3 — Erkennung von Entscheidungsmustern ohne Ersetzung menschlicher Bewertung
+Beispiele:
+- Vollständigkeitsprüfung eines Formulars
+- Erkennung fehlender Anlagen
+- Termin- oder Fristenhinweis ohne Bewertung des Anspruchs
 
-Das KI-System dient der Erkennung von Entscheidungsmustern oder Abweichungen von früheren Entscheidungsmustern und ist nicht dazu bestimmt, die menschliche Bewertung zu ersetzen.
+Nicht ausreichend:
+- "nur Vorprüfung", wenn die Vorprüfung praktisch über Weiterleitung, Ablehnung oder Ranking entscheidet
+- automatische Priorisierung von Personenfällen mit realer Entscheidungswirkung
 
-**Prüffragen:**
-- Dient das System der Anomalieerkennung oder der Mustererkennung zur Unterstützung (nicht Ersetzung) menschlicher Entscheidungen?
-- Gibt das System ausschließlich Hinweise auf Auffälligkeiten aus, ohne selbst Entscheidungen zu treffen?
+### 2. Verbesserung einer bereits abgeschlossenen menschlichen Tätigkeit
 
-**Beispiel:** Ein System, das bei Kreditanträgen darauf hinweist, wenn ein Antrag von der historischen Antragsnorm abweicht — ohne selbst über Kreditvergabe zu entscheiden.
+Das System verbessert das Ergebnis einer zuvor von einem Menschen erbrachten Tätigkeit, ohne dieses Ergebnis wesentlich zu verändern oder zu ersetzen.
 
-### Fallgruppe 4 — Vorbereitende Aufgabe für die Bewertung
+Beispiele:
+- sprachliche Glättung eines bereits entschiedenen Bescheids
+- Barrierefreiheits- oder Lesbarkeitsverbesserung ohne Inhaltsänderung
+- Formatierung, Übersetzung oder Zusammenfassung zur Nachvollziehbarkeit
 
-Das KI-System dient dazu, eine Bewertung vorzubereiten, die für in Anhang III genannte Zwecke relevant ist, ohne eine eigenständige Entscheidung oder Bewertung zu treffen.
+Nicht ausreichend:
+- das System schreibt die eigentliche Bewertung, Begründung oder Entscheidung
+- der Mensch übernimmt die KI-Ausgabe regelmäßig ungeprüft
 
-**Prüffragen:**
-- Ist das System ausschließlich für die Vorbereitung (Aufbereitung, Strukturierung) von Informationen für eine nachfolgende menschliche Bewertung bestimmt?
-- Trifft das System selbst keine Bewertung der für den Anhang-III-Zweck relevanten Aspekte?
+### 3. Mustererkennung ohne Ersetzung oder Beeinflussung menschlicher Bewertung
 
-**Beispiel:** Ein System, das Lebensläufe für eine Personalentscheidung strukturiert und kategorisiert, aber keine Aussage zur Eignung der Bewerber trifft.
+Das System erkennt Entscheidungsmuster oder Abweichungen von früheren Entscheidungsmustern, ohne eine bereits abgeschlossene menschliche Bewertung zu ersetzen oder zu beeinflussen.
 
-## Pflicht zur Dokumentation bei Inanspruchnahme der Rückausnahme
+Beispiele:
+- Qualitätskontrolle, die auffällige Abweichungen für interne Audit-Zwecke markiert
+- statistische Konsistenzprüfung ohne Einfluss auf Einzelfallentscheidung
 
-Wenn ein Anbieter oder Betreiber die Rückausnahme in Anspruch nimmt, muss er:
-- Die Entscheidung und ihre Begründung dokumentieren
-- Die Dokumentation der nationalen Aufsichtsbehörde auf Anfrage zur Verfügung stellen
-- Die Dokumentation bei Änderungen des Systems aktualisieren
+Nicht ausreichend:
+- Anomaliehinweis löst faktisch Ablehnung, Eskalation oder Benachteiligung aus
+- System gibt einen Risikoscore aus, der die menschliche Bewertung prägt
 
-## Ergebnis
+### 4. Vorbereitende Aufgabe
 
-- **Rückausnahme greift:** System ist trotz Anhang-III-Zugehörigkeit kein Hochrisiko-System. Dokumentationspflicht beachten. Begrenztes Risiko (Art. 50) und Minimal-Risiko-Prüfung folgen.
-- **Rückausnahme greift nicht (insbesondere wegen Profiling):** System ist Hochrisiko nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO.
+Das System bereitet eine Bewertung vor, die für einen Anhang-III-Zweck relevant ist, ohne selbst die bewertungsrelevanten Aspekte zu beurteilen.
 
----
+Beispiele:
+- Dokumente sortieren, OCR, Dubletten erkennen
+- Akten chronologisch strukturieren
+- Lebenslaufdaten in Felder übertragen, ohne Eignung zu bewerten
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Nicht ausreichend:
+- das System extrahiert nicht nur, sondern bewertet Eignung, Glaubhaftigkeit, Risiko, Bedürftigkeit, Leistung oder Rechtsfolge
+- die vorbereitende Ausgabe wird als Empfehlung oder Entscheidungsvorschlag genutzt
 
-## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+## Allgemeiner Chatbot im sensiblen Bereich
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+Bei ChatGPT-ähnlichen oder GPAI-basierten Tools:
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Abs. 3 Rn. 4: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+- Reine Textentwürfe, Zusammenfassungen oder Übersetzungen können unter die Rückausnahme fallen, wenn sie keine individuelle Bewertung steuern.
+- Prompt-Vorlagen wie "bewerte die Eignung", "ranke Bewerber", "prognostiziere Prozessrisiko für Richter", "entscheide Leistungsanspruch" sprechen gegen die Rückausnahme.
+- Wenn die Fachabteilung das Tool faktisch für Bewertungen nutzt, reicht eine schöne Richtlinie allein nicht. Prüfe Nutzung, Logs, Schulung, Freigabe und Kontrollen.
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+## Dokumentationspflicht nach Art. 6 Abs. 4
 
-## Output-Template — Pruefergebnis
-**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+Wenn ein Anbieter ein Anhang-III-System wegen Art. 6 Abs. 3 nicht als Hochrisiko einstuft, ist die Bewertung vor dem Inverkehrbringen oder der Inbetriebnahme zu dokumentieren. Die Dokumentation muss belastbar genug sein, um sie zuständigen Behörden auf Anfrage vorzulegen.
+
+Dokumentieren:
+- Anhang-III-Tatbestand
+- konkrete Zweckbestimmung
+- warum kein erhebliches Risiko besteht
+- welche Fallgruppe greift
+- warum kein Profiling natürlicher Personen vorliegt
+- welche Kontrollen Fehlgebrauch verhindern
+- Re-Evaluation-Trigger
+
+## Ergebnis und Routing
+
+- **Rückausnahme greift wahrscheinlich:** `nicht-hochrisiko-bestaetigt-end-to-end-roadmap`, zusätzlich Art. 50, GPAI und Art. 4 prüfen.
+- **Rückausnahme greift nicht:** `hochrisiko-bestaetigt-end-to-end-roadmap`.
+- **Fehlgebrauch oder Zweckänderung unklar:** `betreiber-deployer-pflichten-art-26`, `anbieter-werden-art-25`, ggf. `mandatsabbruch-empfehlung-komplexe-faelle`.
+
+## Output-Template — Rückausnahme-Vermerk
+
+```text
+RUECKAUSNAHME-VERMERK — ART. 6 ABS. 3 KI-VO
+Datum: [DATUM]
+System: [NAME]
+Anhang-III-Treffer: [NR. / BEREICH / KONKRETER TATBESTAND]
+
+1. Profiling-Sperre
+[Profiling natürlicher Personen: JA/NEIN/UNKLAR]
+[Begründung]
+
+2. Erhebliches Risiko
+[Gesundheit/Sicherheit/Grundrechte betroffen?]
+[Wirkpfad, betroffene Personen, Entscheidungseinfluss, Kontrollen]
+
+3. Fallgruppe
+[enge Verfahrensaufgabe / Verbesserung menschlicher Tätigkeit / Mustererkennung / vorbereitende Aufgabe / keine]
+
+4. Tatsächliche Nutzung und Fehlgebrauch
+[Zweckbestimmung, Richtlinie, Logs, Schulung, technische Sperren, bekannte Abweichungen]
+
+5. Ergebnis
+[Rückausnahme greift wahrscheinlich / greift nicht / offen]
+
+6. Dokumentations- und Re-Evaluation-Punkte
+[Was muss in der Art. 6 Abs. 4-Dokumentation stehen? Wann neu prüfen?]
+
+7. Nächster Skill
+[nicht-hochrisiko-bestaetigt-end-to-end-roadmap / hochrisiko-bestaetigt-end-to-end-roadmap / betreiber-deployer-pflichten-art-26 / anbieter-werden-art-25]
 ```
-PRUEFERGEBNIS — RUECKAUSNAHME ART 6 ABS 3
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 6 Abs. 3 Rn. 4]
+## Quellen- und Aktualitätshinweis
 
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
+Stand: 05/2026. Maßgeblich sind Art. 6 Abs. 3 und 4 KI-VO, Art. 3 Nr. 12/13/23 KI-VO und Anhang III. Keine Rechtsberatung; die Rückausnahme ist eng und tatsachenabhängig.

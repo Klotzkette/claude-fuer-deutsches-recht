@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft
-description: "Bank hat Kapitalanlage fehlerhaft beraten: Bond-Urteil-Pflichten Provisionen Kick-backs Risikoklassen-Aufklaerung. Vermutung aufklaerungsrichtigen Verhaltens BGH XI ZR. Normen §§ 280 311 826 BGB WpHG §§ 63 64 MiFID-II. Pruefraster Beratungspflicht-Inhalt Pflicht-Verletzung Kausalitaetsvermutung Schadenshoehe Verjaehrung §§ 195 199 Abs. 3 BGB. Output Schadensersatz-Klageschrift Verjaehrungs-Pruefung. Abgrenzung zu anlageberatungsfehler-pruefen (allg. Raster) und widerrufsjoker (Widerruf)."
+description: "Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Anlageberatung fehlerhaft
@@ -16,13 +16,12 @@ description: "Bank hat Kapitalanlage fehlerhaft beraten: Bond-Urteil-Pflichten P
 
 ## Anspruchsgrundlagen
 
-- Konkludenter Beratungsvertrag mit Bank/Berater bei eigener Anlageberatung: BGH XI ZR 12/93, Urt. v. 06.07.1993, Rn. 11 ff. (Bond-Urteil).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anleger- und anlagegerechte Beratung — Pflicht zur vollständigen, richtigen und verständlichen Information.
-- Aufklärungspflicht über Rückvergütungen (Kick-backs): BGH XI ZR 510/07, Beschl. v. 20.01.2009, Rn. 12 ff. (Kick-back III); grundlegend BGH XI ZR 56/05, Urt. v. 19.12.2006, Rn. 22 (Kick-back II).
-- Aufklärungspflicht über Innenprovisionen ab 15 Prozent: BGH III ZR 359/02, Urt. v. 12.02.2004, Rn. 38.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anspruchsgrundlage: §§ 280 Abs. 1, 311 Abs. 2 BGB i.V.m. Beratungsvertrag (Schadensersatz wegen Pflichtverletzung).
 - Bei Vorsatz oder Sittenwidrigkeit zusätzlich § 826 BGB und § 31 BGB für Organhaftung.
-- Vermutung aufklärungsrichtigen Verhaltens: BGH XI ZR 262/10, Urt. v. 08.05.2012, Rn. 28 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -49,7 +48,7 @@ description: "Bank hat Kapitalanlage fehlerhaft beraten: Bond-Urteil-Pflichten P
 6. Verjaehrung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
 ```
 
-Standardliteratur: Grüneberg BGB § 280; Ellenberger/Schäfer Anlegerschutz; Assmann/Schneider WpHG-Kommentar.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -78,10 +77,10 @@ Anlageprodukt [Produktbezeichnung WKN/ISIN] zu einem Erwerbspreis von
 EUR [Betrag].
 
 Beratungsfehler liegen in folgenden Punkten:
-1. fehlende Aufklaerung ueber Rueckverguetung (Kick-back BGH XI ZR
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    510/07 Beschl. v. 20.01.2009 Rn. 12 ff.)
 2. unterlassene Aufklaerung ueber Innenprovision von [...] Prozent
-   (BGH III ZR 359/02 Rn. 38)
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. anlegerunabhaengige Empfehlung trotz Risikoklasse [...]
 
 Wir fordern Sie auf bis [Datum vier Wochen] Zug um Zug gegen Rueckgabe
@@ -111,15 +110,12 @@ Mit freundlichen Gruessen
 
 1. Wann fand die Beratung statt? → Verjaebrung 3 Jahre ab Kenntnis + max. 10 Jahre absolut.
 2. Liegt Beratungsprotokoll (§ 83 WpHG / § 34 WpHG aF) oder Geeignetheitserklaerung (§ 64 WpHG) vor? → Fehlende Dokumentation = Beweisschwaeche Bank.
-3. Erhielt die Bank Rueckverguetungen / Innenprovisionen? → Aufklaerungspflicht nach BGH XI ZR 56/05.
-4. Wurde das Anlageprodukt anlegegerecht empfohlen (Risikoprofil vs. Produkt-Risikoklasse)? → Bond-Urteil BGH XI ZR 12/93.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. Schadenshoehe: Differenzhypothese oder negatives Interesse berechnen?
 
 ### Ergaenzende Leitsaetze
-- BGH, Urt. v. 17.09.2013 - XI ZR 332/12, NJW 2013, 3573 Rn. 22 — Fehlende WpHG-Dokumentation begruendet Vermutung, dass Beratung nicht anlegergerecht war; Bank muss diese Vermutung erschuettern.
-- BGH, Urt. v. 27.09.2011 - XI ZR 178/10, NJW 2012, 66 Rn. 28 — Lehman-Zertifikate: Emittentenrisiko aufklaerungs-pflichtig; Investment-Grade-Rating allein genuegt nicht zur Entbindung von Aufklaerungspflicht.
-- BGH, Urt. v. 22.03.2011 - XI ZR 33/10, NJW 2011, 1949 Rn. 33 — CMS Spread Ladder Swap: Aufklaerungspflicht ueber anfaenglichen negativen Marktwert; Eigeninteresse der Bank offenzulegen.
-- BGH, Beschl. v. 20.01.2009 - XI ZR 510/07, NJW 2009, 1416 Rn. 12 — Kick-back III: Rueckverguetungen auch bei verdeckten Vertriebsprovisionen aufklaerungspflichtig; kein Ermessen der Bank.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt-fuer-Schritt-Workflow Anlageberatungsfehler
 1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.

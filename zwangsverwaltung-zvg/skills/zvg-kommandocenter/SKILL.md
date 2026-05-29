@@ -1,6 +1,6 @@
 ---
 name: zvg-kommandocenter
-description: "Kommandocenter fuer Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen Workflow starten. Normen §§ 146-161 ZVG Kernvorschriften. Pruefraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Uebersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetspruefung vor Abschluss) und zvg-simulation-training."
+description: "Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen Workflow starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Übersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetsprüfung vor Abschluss) und zvg-simulation-training."
 ---
 
 # Zwangsverwaltungs-Kommandocenter
@@ -60,18 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Ergänzende Rechtsprechung
 
-- BGH, Beschl. v. 19.01.2006 - IX ZB 87/04, NZI 2006, 281 Rn. 22 — Der Zwangsverwalter ist zur vollständigen und geordneten Führung der Verwaltungsunterlagen verpflichtet; eine systematische Übersicht über alle laufenden Verfahrenshandlungen ist Grundlage der Rechenschaftspflicht.
-- BGH, Beschl. v. 07.12.2007 - IX ZB 74/04, NZI 2008, 186 — Rückstände in der Verwaltungsführung können zum Entzug des Amtes führen; das Vollstreckungsgericht prüft die ordnungsgemäße Verwaltung von Amts wegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Kommandocenter
 
 § 154 ZVG (Gerichtliche Aufsicht) → § 20 ZwVwV (Vergütung und Rechenschaft) → §§ 13-15 ZwVwV (Buchführung und Berichte) → § 159 ZVG (Aufhebung Zwangsverwaltung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 154 Rn. 15-35 (Gerichtliche Kontrolle)
-- Böttcher ZVG 6. Aufl., § 20 ZwVwV Rn. 5-20 (Vergütung und Pflichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Checkliste Kommandocenter (Monatlich)
 
 | Aufgabe | Fälligkeit | Erledigt |

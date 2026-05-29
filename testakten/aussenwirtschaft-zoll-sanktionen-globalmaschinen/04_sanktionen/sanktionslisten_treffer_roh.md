@@ -16,7 +16,7 @@ Im Rahmen der internen Neukundenprozesse wurde für den Abschluss eines Lieferve
 1. Den Händler Turan Industrial Trading Ltd. und deren Gesellschafter
 2. Den wirtschaftlich Berechtigten (UBO) laut Selbstauskunft: Murat A. (Vollname nach Transparenzregister geprüft)
 3. Die Zahlungspartei Al Noor FZE, Dubai/VAE
-4. Den kasachischen Endkunden (Identität unklar, nur Firmensitz „Almaty" angegeben)
+4. Den kasachischen Endkunden (Identität unklar, nur Firmensitz "Almaty" angegeben)
 
 **Rechtliche Grundlage der Prüfung:**
 - Verordnung (EU) Nr. 269/2014 (Ukraine-Sanktionen, konsolidierte Russland-Sanktionsliste)
@@ -49,7 +49,7 @@ Vor der Screeningdurchführung wurden folgende Identitätsdaten erhoben:
 - Tätigkeit laut Selbstauskunft: Handelsvertretung für Industrieprodukte MENA-Region
 
 **Kasachischer Endkunde:**
-- Nur teilweise bekannt: „Atyrau Machinery Partners LLP", Almaty
+- Nur teilweise bekannt: "Atyrau Machinery Partners LLP", Almaty
 - Kein Handelsregisterauszug vorhanden
 - Kein UBO bekannt
 
@@ -82,7 +82,7 @@ Keine Übereinstimmung mit EU-Sanktionsliste, UN-Konsolidierter Liste oder OFAC 
 
 **Ergebnis: Trefferverdacht (unklare Identität)**
 
-Im WorldCheck-System wurde ein Eintrag mit dem Namen **„Murat Arslan"** gefunden:
+Im WorldCheck-System wurde ein Eintrag mit dem Namen **"Murat Arslan"** gefunden:
 
 | Feld | Listeneintrag | Selbstauskunft UBO |
 |---|---|---|
@@ -96,20 +96,20 @@ Im WorldCheck-System wurde ein Eintrag mit dem Namen **„Murat Arslan"** gefund
 - Der Vorname stimmt überein.
 - Das Geburtsjahr weicht um 3 Jahre ab (1971 vs. 1974).
 - Die Staatsangehörigkeit weicht ab (russisch vs. türkisch).
-- Der Nachname ist seitens des UBO nur als Initial „A." angegeben – eine Prüfung auf „Arslan" war damit nicht vollständig möglich.
+- Der Nachname ist seitens des UBO nur als Initial "A." angegeben – eine Prüfung auf "Arslan" war damit nicht vollständig möglich.
 
 **Eskalationsstufe:** Die Abweichungen beim Geburtsdatum und der Staatsangehörigkeit schließen eine Identität nicht aus (mögliche Fehleintragungen in der Selbstauskunft; Doppelstaatsbürgerschaft ist in der Türkei grundsätzlich möglich). **Es liegt ein nicht aufgelöster Trefferverdacht vor.**
 
-**Handlungsanweisung:** Der Verdacht ist nicht als „Falsch-Positiv" abzulegen; eine erhöhte Sorgfaltsprüfung (Enhanced Due Diligence – EDD) ist einzuleiten.
+**Handlungsanweisung:** Der Verdacht ist nicht als "Falsch-Positiv" abzulegen; eine erhöhte Sorgfaltsprüfung (Enhanced Due Diligence – EDD) ist einzuleiten.
 
 ### 3.3 Al Noor FZE, Dubai
 
 **Ergebnis: Kein direkter Listeneintrag, aber erhöhtes Risikoprofil**
 
-Kein Treffer in EU-Sanktionsliste, UN-Konsolidierter Liste oder OFAC SDN für „Al Noor FZE" oder „Ahmed Al-Rashidi".
+Kein Treffer in EU-Sanktionsliste, UN-Konsolidierter Liste oder OFAC SDN für "Al Noor FZE" oder "Ahmed Al-Rashidi".
 
 **Indirekte Risikofaktoren:**
-- Die VAE stehen seit 2023 auf der FATF-„Grayliste" (enhanced monitoring); seit Q1 2026 wieder formal abgelistet, aber Residualrisiko besteht.
+- Die VAE stehen seit 2023 auf der FATF-"Grayliste" (enhanced monitoring); seit Q1 2026 wieder formal abgelistet, aber Residualrisiko besteht.
 - Zahlungen VAE → DE für Industriegüter mit Endbestimmung GUS/Iran sind ein klassisches Umgehungsmuster (vgl. BaFin-Rundschreiben 03/2024 zu Export-Sanctions-Circumvention).
 - Der Firmensitz in der Jebel Ali Freihandelszone (JAFZA) ermöglicht vereinfachte Unternehmensgründung mit geringer Substanz.
 - Provision von 48.000 EUR für Handelsvermittlung ohne erkennbare wirtschaftliche Gegenleistung (AWV-Zahlungsdaten).
@@ -120,7 +120,7 @@ Kein Treffer in EU-Sanktionsliste, UN-Konsolidierter Liste oder OFAC SDN für �
 
 **Ergebnis: Prüfung nicht abgeschlossen (Identität unvollständig)**
 
-In der EU-Sanktionsliste, UN-Liste und OFAC SDN: kein Treffer für „Atyrau Machinery Partners".
+In der EU-Sanktionsliste, UN-Liste und OFAC SDN: kein Treffer für "Atyrau Machinery Partners".
 
 **Problem:** Kein Handelsregisterauszug, kein UBO bekannt. Eine vollständige Sanktionslistenprüfung ist ohne Identifikation der wirtschaftlich Berechtigten nicht möglich.
 

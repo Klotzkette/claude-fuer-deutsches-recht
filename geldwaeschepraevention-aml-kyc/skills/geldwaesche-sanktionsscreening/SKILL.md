@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionsscreening
-description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschaeft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Pruefraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begruendung Freigabe oder Meldepflicht. Abgrenzung zu geldwaesche-pep-hochrisikoland und geldwaesche-transaktionsmonitoring."
+description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschäft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Prüfraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begründung Freigabe oder Meldepflicht. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-transaktionsmonitoring."
 ---
 
 # Sanktionslistenprüfung und Embargoabgleich
@@ -12,10 +12,7 @@ description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen 
 4. Gibt es eine Transaktionssperr-Pflicht oder eine Verdachtsmeldepflicht ausloesende Treffer?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- EuGH, Urt. v. 27.02.2014 - C-472/11, NJW 2014, 1665 — Sanktionslistenpruefung nach EU-Embargo-Verordnungen ist strikt einzuhalten; Vorsatz oder grobe Fahrlässigkeit beim Durchfuehren verbotener Zahlungen begruendet Haftung.
-- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Unzureichendes Sanktionsscreening (kein Alias-Check, kein Eigentums-Check) begruendet Fahrlässigkeit nach § 261 StGB wenn sanktionierte Entitaet involviert.
-- OLG Frankfurt, Beschl. v. 08.09.2016 - 3 Ss-OWi 1073/15 — False-Positive-Bearbeitung muss dokumentiert sein; pauschale Ablehnung von Treffern ohne Bewertung begruendet Ordnungswidrigkeit.
-- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — Automatisiertes Sanktionsscreening ersetzt nicht manuelle Pruefung bei Treffern; Freigabe erfordert dokumentierte menschliche Entscheidung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 2 EU-VO 2580/2001 — Einfrierungspflicht: sofortige Sperrung bei Sanktionstreffer
@@ -23,10 +20,9 @@ description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen 
 - Art. 4 EU-VO 269/2014 (Russlandsanktionen) — aktuelle Sanktionsregeln
 - § 18 AWG — Strafbarkeit bei Verstoss gegen Ausfuhrverbote und Embargos
 
-## Kommentarliteratur
-- Bülte in: Schimansky/Bunte/Lwowski Bankrechts-Handbuch, § 145 Rn. 100-130 (Sanktionsscreening: rechtliche Grundlagen)
-- Zentes/Glaab GwG, 2019, § 10 Rn. 60-90 (Screening im Rahmen der Sorgfaltspflichten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill verbindet AML/KYC mit Sanktions-Compliance und dokumentiert Trefferentscheidungen.

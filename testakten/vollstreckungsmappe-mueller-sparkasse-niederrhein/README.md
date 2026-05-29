@@ -1,5 +1,14 @@
 # Testakte: Vollstreckungsmappe Sparkasse Niederrhein gegen Mueller
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein` (diese Akte) | [testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Sammelakte fuer drei parallele Vollstreckungsvorgaenge der Sparkasse Niederrhein (Glaeubigerin) gegen die Familie Mueller. Alle Personen, Konten, Adressen, Aktenzeichen, Wallet-Adressen und Beraternamen sind frei erfunden. IBANs sind keine echten Bankverbindungen, BICs sind Beispielwerte.
 
 ## Mandantenkonstellation
@@ -42,7 +51,7 @@ vollstreckungsmappe-mueller-sparkasse-niederrhein/
 - 01_grundschuld_mueller/
 - 02_kontopfaendung_kuechen-mueller-gmbh/
 - 03_kryptowallets_mueller/
-- originale/ (gescannte Schriftstuecke - Platzhalter)
+- originale/ (gescannte Schriftstuecke - in dieser Testakte nur als Text beschrieben)
 - README.md
 ```
 

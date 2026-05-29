@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-abnahme-verweigerung
-description: "Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begruendungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Pruefraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt."
+description: "Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt."
 ---
 
 # Abnahme-Verweigerung wegen Mängeln
@@ -45,7 +45,7 @@ Mandate zur Abnahme: Auftraggeber will Abnahme verweigern wegen Mängeln; Auftra
 
 ### Verweigerung-Grenzwert
 
-BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Vergütung -> wesentlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Abnahme-Formen
 
@@ -62,7 +62,7 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 ### Fiktion § 640 II 2 BGB
 
 - Ohne Reaktion AG nach Aufforderung in **angemessener Frist** -> Abnahme fingiert
-- „Angemessen" typisch 12 Werktage (BGH NJW 2017, 3590)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Bei VOB/B
 
@@ -135,9 +135,7 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 25.6.2015 — VII ZR 220/14 (wesentlich vs. unwesentlich)
-- BGH, Urt. v. 25.02.2016 — VII ZR 49/15, NJW 2016, 1572 (Keine Verkürzung der Verjährungsfrist durch antizipierte Abnahme; AGB-Klausel in Bauträgervertrag, die Nachzügler an frühere Abnahme bindet, ist nach § 309 Nr. 8 lit. b ff BGB unwirksam)
-- BGH, Urt. v. 19.1.2017 — VII ZR 235/15 (Konkludente Abnahme)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 10) Honorar
 

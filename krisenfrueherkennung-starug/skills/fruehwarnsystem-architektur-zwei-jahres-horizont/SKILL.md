@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-architektur-zwei-jahres-horizont
-description: "StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Pruefung). Pruefraster: Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, Organisationseinbettung. Output Fruehwarnsystem-Konzept, Implementierungsplan, Governance-Struktur. Abgrenzung: KPI-Set Ampelsystem siehe kennzahlenset-und-ampelsystem-starug-konform; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
+description: "StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Prüfung). Prüfraster: Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, Organisationseinbettung. Output Fruehwarnsystem-Konzept, Implementierungsplan, Governance-Struktur. Abgrenzung: KPI-Set Ampelsystem siehe kennzahlenset-und-ampelsystem-starug-konform; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
 ---
 
 # Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
@@ -187,7 +187,7 @@ Die Geschäftsführung beschließt:
 
 1. **Frühwarnsystem auf Papier ist kein Frühwarnsystem** — im Haftungsfall wird geprüft, ob das System tatsächlich gelebt wurde. Fehlende Reports, keine Protokolle, keine Eskalationen: Indizienbeweis für Pflichtverletzung.
 
-2. **Schwellenwerte zu weit gefasst** schützen nicht. Wer „ROT erst ab Zahlungsunfähigkeit" definiert, hat kein Frühwarnsystem, sondern ein Brandmeldesystem nach dem Brand.
+2. **Schwellenwerte zu weit gefasst** schützen nicht. Wer "ROT erst ab Zahlungsunfähigkeit" definiert, hat kein Frühwarnsystem, sondern ein Brandmeldesystem nach dem Brand.
 
 3. **Keine Integration in Planungsprozess** — das Frühwarnsystem muss mit der operativen Planung verbunden sein. Eigenständige Silo-Lösung ohne Rückkopplung erfüllt IDW PS 340 n.F. nicht.
 
@@ -208,10 +208,7 @@ Die Geschäftsführung beschließt:
 
 ## Aktuelle Leitentscheidungen — Fruehwarnsystem und § 1 StaRUG
 
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Haftung bei fehlendem Fruehwarnsystem: IV klagt GF auf Schadensersatz wenn kein Monitoring-System vorhanden und Krise zu spaet erkannt; Mangel eines Fruehwarnsystems erhoht Fahrlaeissigkeitsvorwurf.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG Sorgfaltspflicht: ordentlicher GF muss Liquiditaet und Ertragslage laufend beobachten; Unterlassen loest Haftung aus.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — 24-Monats-Horizont StaRUG: § 1 StaRUG verlangt Fruehwarnsystem mit 24-Monats-Vorausschau; GF muss Bestandsgefaehrdungen fruehzeitig erkennen.
-- OLG Frankfurt, Urt. v. 12.09.2019 — 5 U 14/19 — Jahresabschluss als Fruehwarninstrument: Verpflichtung des GF Jahresabschluss zeitnah aufzustellen und aus negativen EK-Kennzahlen Handlungsbedarf abzuleiten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Fruehwarnsystem
 
@@ -224,8 +221,6 @@ Die Geschäftsführung beschließt:
 3. **Eskalationskette?** Wer wird bei roten Ampeln informiert? GF → Aufsichtsrat → Anwalt?
 4. **Historische Daten?** 2 Jahre Ruckschau fuer Trend-Erkennung vorhanden?
 
-## Kommentarliteratur
+## Quellenregel
 
-- Braun/Herzig, StaRUG § 1 — Pflicht zur Krisenfrueherkennung.
-- MüKo InsO/Gehrlein, StaRUG § 1 Rn. 1 ff. — Fruehwarnpflichten.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 3 — Krisenfrueherkennung in der GmbH-Praxis.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

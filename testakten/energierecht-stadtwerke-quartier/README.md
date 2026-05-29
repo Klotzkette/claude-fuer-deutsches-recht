@@ -1,5 +1,14 @@
 # Testakte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-energierecht-stadtwerke-quartier` (diese Akte) | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Aktenzeichen:** SWK/ENR/2024-047  
 **Mandant:** Stadtwerke Klotzkette AG, Bahnhofstraße 12, 59348 Lüdinghausen  
 **Bearbeitung:** Kanzlei Bernauer & Partnerinnen, Energierechtliche Beratung  
@@ -9,17 +18,17 @@
 
 ## Sachverhalt
 
-Die **Stadtwerke Klotzkette AG** (nachfolgend „SWKK" oder „Mandant"), ein kommunales Energie­versorgungs­unternehmen mit ca. 280 Mitarbeitenden und einem Jahresumsatz von rund 48 Mio. Euro, plant die energetische Erschließung des Neubauquartiers **„Hafenbogen"** im Nordwesten der Stadt Lüdinghausen. Das Quartier entsteht auf einem 4,2 Hektar großen ehemaligen Güterumschlagplatz und umfasst 380 Wohneinheiten in fünf Gebäuderiegeln sowie 22 Gewerbeeinheiten im Erdgeschossbereich.
+Die **Stadtwerke Klotzkette AG** (nachfolgend "SWKK" oder "Mandant"), ein kommunales Energie­versorgungs­unternehmen mit ca. 280 Mitarbeitenden und einem Jahresumsatz von rund 48 Mio. Euro, plant die energetische Erschließung des Neubauquartiers **"Hafenbogen"** im Nordwesten der Stadt Lüdinghausen. Das Quartier entsteht auf einem 4,2 Hektar großen ehemaligen Güterumschlagplatz und umfasst 380 Wohneinheiten in fünf Gebäuderiegeln sowie 22 Gewerbeeinheiten im Erdgeschossbereich.
 
 Die SWKK verfolgt ein integriertes Energie­versorgungs­konzept: Über ein Nahwärmenetz soll der gesamte Heizwärme- und Brauchwarmwasserbedarf der Wohnungen und Gewerbeflächen gedeckt werden. Die Wärmeerzeugung erfolgt primär über eine Groß­wärmepumpe mit einer Heizleistung von 1.200 kW (Wärmequelle: Grundwasser), ergänzt durch zwei Gas­spitzenlastkessel je 600 kW sowie eine Solarthermie­anlage (180 m² Kollektorfläche). Auf den Dachflächen der Gebäude soll eine Photovoltaik-Anlage mit einer Gesamtleistung von **1.200 kWp** installiert werden; ein Batteriespeicher mit **800 kWh** Nutzkapazität dient der Glättung von Einspeise­schwankungen. Den im Quartier selbst erzeugten Strom beabsichtigt die SWKK an die Mieter nach dem **Mieterstrom­modell** (§ 21 Abs. 3 EEG 2023) zu liefern; überschüssige Mengen werden in die Direkt­vermarktung abgegeben. An zehn öffentlich zugänglichen Ladepunkten (davon 4 × 22 kW AC, 2 × 50 kW DC) sowie weiteren zwanzig halb­öffentlichen Stellplatz­ladepunkten soll die Elektro­mobilität des Quartiers gefördert werden.
 
-Am südlichen Rand des Quartiers grenzt ein **Kühlhaus­betrieb** der Hafenbogen Logistik GmbH (nachfolgend „Industriekunde") mit einem Jahresstrombedarf von ca. 8,2 Mio. kWh (Jahres­benutzungs­stunden: 7.200 h, Lastspitze: 1.250 kW) an das Projektgebiet. Die SWKK möchte diesen Industriekunden über eine **Sonder­vereinbarung** mit Strom und ggf. Prozesswärme versorgen, möglicherweise über eine geschlossene Verteiler­netzstruktur (GVN) gemäß § 110 EnWG oder eine Kundenanlage gemäß § 3 Nr. 24a EnWG. Der zuständige Netzbetreiber (Netzgesellschaft Westfalen GmbH, nachfolgend „Netzbetreiber") besteht auf einem separaten Mittel­spannungs­anschluss für den Industriekunden und zweifelt die Zulässigkeit einer einheitlichen Kunden­anlage an.
+Am südlichen Rand des Quartiers grenzt ein **Kühlhaus­betrieb** der Hafenbogen Logistik GmbH (nachfolgend "Industriekunde") mit einem Jahresstrombedarf von ca. 8,2 Mio. kWh (Jahres­benutzungs­stunden: 7.200 h, Lastspitze: 1.250 kW) an das Projektgebiet. Die SWKK möchte diesen Industriekunden über eine **Sonder­vereinbarung** mit Strom und ggf. Prozesswärme versorgen, möglicherweise über eine geschlossene Verteiler­netzstruktur (GVN) gemäß § 110 EnWG oder eine Kundenanlage gemäß § 3 Nr. 24a EnWG. Der zuständige Netzbetreiber (Netzgesellschaft Westfalen GmbH, nachfolgend "Netzbetreiber") besteht auf einem separaten Mittel­spannungs­anschluss für den Industriekunden und zweifelt die Zulässigkeit einer einheitlichen Kunden­anlage an.
 
-Parallel plant die SWKK, bis zu **25,1 % der Anteile** an der für das Quartiers­projekt gegründeten Projekt­gesellschaft „Hafenbogen Energie GmbH & Co. KG" an einen institutionellen Investor (Stadtwerke-Beteiligungsgesellschaft Bayern mbH, nachfolgend „Investor") zu veräußern. Die entsprechende Transaktion befindet sich in der Term-Sheet-Phase; eine Due-Diligence-Prüfung ist eingeleitet.
+Parallel plant die SWKK, bis zu **25,1 % der Anteile** an der für das Quartiers­projekt gegründeten Projekt­gesellschaft "Hafenbogen Energie GmbH & Co. KG" an einen institutionellen Investor (Stadtwerke-Beteiligungsgesellschaft Bayern mbH, nachfolgend "Investor") zu veräußern. Die entsprechende Transaktion befindet sich in der Term-Sheet-Phase; eine Due-Diligence-Prüfung ist eingeleitet.
 
 Die Bundesnetzagentur (BNetzA) hat mit Bescheid vom 6. Mai 2026 ergänzende Unterlagen zur geplanten **Wärmeleitung im öffentlichen Straßenraum** angefordert (Aktenzeichen BNetzA: 8615-EnW/0193/2026). Die Kanzlei Bernauer & Partnerinnen prüft Rechtsbehelfe und koordiniert die Reaktion auf den Bescheid.
 
-Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) soll zu wesentlichen Teilen über **KfW-Fördermittel** (Programm 442 „Klimafreundlicher Neubau – Kommunen" sowie Programm 270 „Erneuerbare Energien – Standard") erfolgen. Ein Förderantrag ist in Vorbereitung.
+Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) soll zu wesentlichen Teilen über **KfW-Fördermittel** (Programm 442 "Klimafreundlicher Neubau – Kommunen" sowie Programm 270 "Erneuerbare Energien – Standard") erfolgen. Ein Förderantrag ist in Vorbereitung.
 
 ---
 

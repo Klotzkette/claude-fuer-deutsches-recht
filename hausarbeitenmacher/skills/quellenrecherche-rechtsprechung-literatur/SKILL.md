@@ -1,6 +1,6 @@
 ---
 name: quellenrecherche-rechtsprechung-literatur
-description: "Student sucht juristische Quellen fuer Hausarbeit: Beck-Online juris dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Pruefraster Quellen-Vollstaendigkeit Aktualitaet Zugaenglichkeit Alternativ-Strategien. Output Quellen-Liste Recherche-Strategie Fundstellen-Tipps. Abgrenzung zu zitierweise-jura-fundstellen (Zitierformat) und kommentar-und-literatur-hinweis im subsumtions-pruefer."
+description: "Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit Aktualitaet Zugaenglichkeit Alternativ-Strategien. Output Quellen-Liste Recherche-Strategie Fundstellen-Tipps. Abgrenzung zu zitierweise-jura-fundstellen (Zitierformat) und kommentar-und-literatur-hinweis im subsumtions-prüfer."
 ---
 
 # Quellen-Recherche — Rechtsprechung und Literatur
@@ -18,7 +18,7 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 - **Erstinstanz** (LG, VG, AG) bei Sonder-Konstellationen
 - **EU-Gerichte** (EuGH, EuG)
 
-### Literatur
+### Quellen (nur verifiziert)
 
 - **Kommentare** — die zentrale Quelle für rechtliche Anwendung
 - **Lehrbücher** — für die Grundlagen
@@ -33,17 +33,17 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 
 #### Beck-Online (kostenpflichtig, meist Uni-Zugang)
 
-- **Kommentare**: MüKo, Palandt/Grüneberg, Beck-OK, Wolf/Sauer
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Aufsätze**: NJW, NJOZ, MDR
 - **Rechtsprechung**: BGH, BVerfG, OLGs etc.
-- **Such-Strategie**: Norm in der erweiterten Suche; Filter auf „Kommentare" oder „Rechtsprechung"
+- **Such-Strategie**: Norm in der erweiterten Suche; Filter auf "Kommentare" oder "Rechtsprechung"
 
 #### juris
 
 - **Umfassendste Rechtsprechungs-Datenbank** in Deutschland
 - **Verlinkte Anwendung**: jede Norm-Anwendung verlinkt auf Entscheidungen
 - **Bibliographie**: Aufsätze zu jeder Norm
-- **Such-Strategie**: Suche nach „BGH" + „§ 280" + „letzte 2 Jahre"
+- **Such-Strategie**: Suche nach "BGH" + "§ 280" + "letzte 2 Jahre"
 
 #### dejure.org (kostenlos)
 
@@ -97,7 +97,7 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 
 ### Phase 1 — Überblick (1-2 Stunden)
 
-- **Standardkommentar** (Palandt/Grüneberg, MüKo) für die Norm überfliegen
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Lehrbuch** für die Grundlagen
 - Identifiziere Streit-Punkte und Schlüssel-Begriffe
 
@@ -124,31 +124,31 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 ### Beispiel 1: BGB § 433
 
 ```
-1. juris-Suche: „§ 433 BGB" + Datum-Filter „letzte 24 Monate"
+1. juris-Suche: "§ 433 BGB" + Datum-Filter "letzte 24 Monate"
    → aktuelle BGH-Entscheidungen
-2. Beck-Online: „§ 433 BGB" + Filter „Kommentar"
-   → MüKo, BeckOK, Palandt-Bearbeiter
+2. Lizensierte Datenbank nur bei vorhandenem Zugang: Normsuche und konkrete Quelle protokollieren
+   Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 3. dejure.org: Norm anklicken, Verweise auf Rechtsprechung
-4. JuS-Archiv: „Kaufvertrag" + „Pflichtverletzung"
+4. JuS-Archiv: "Kaufvertrag" + "Pflichtverletzung"
    → Studenten-orientierte Aufsätze
 ```
 
 ### Beispiel 2: Strafrecht § 263 StGB (Betrug)
 
 ```
-1. juris-Suche: „§ 263 StGB" + Filter „Senate 1-4 BGH"
+1. juris-Suche: "§ 263 StGB" + Filter "Senate 1-4 BGH"
    → BGH-Strafsachen
-2. BeckOK StGB / Schönke/Schröder
-3. JuS-Archiv: „Vermögensschaden" + „Konkretisierung"
-4. Bei Streit: Wessels/Hettinger Strafrecht BT
+2. Literatur nur mit bereitgestellter Quelle oder lizenziert verifiziertem Zugriff verwenden.
+3. JuS-Archiv: "Vermögensschaden" + "Konkretisierung"
+4. Bei Streit: Fundstelle nur aus bereitgestellter Quelle oder lizenziert verifizierter Recherche übernehmen.
 ```
 
 ### Beispiel 3: VwGO § 47 (Normenkontrolle)
 
 ```
-1. juris-Suche: „§ 47 VwGO" + BVerwG
-2. Kopp/Schenke VwGO (Beck-Online)
-3. BeckOK VwGO
+1. juris-Suche: "§ 47 VwGO" + BVerwG
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+3. lizenzpflichtige Literaturquelle VwGO
 4. Verfassungsblog für aktuelle Diskussionen
 ```
 
@@ -159,9 +159,8 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 | Quelle | Wichtigste Information | Anwendung in Hausarbeit |
 |---|---|---|
 | Standardkommentar | Etablierte Definition + Streit-Stand | Pflicht-Beleg bei jeder Aussage |
-| Beck-OK | Aktualität (häufige Updates) | Bei jüngeren Streit-Stände |
-| BGH | Höchstrichterliche Linie | Streit-Stände wer was vertritt |
-| BVerfG | Verfassungs-konforme Auslegung | Bei Grundrechts-Bezug |
+| Quellenprüfung | Aktualität (häufige Updates) | Bei jüngeren Streit-Stände |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Aufsatz NJW | Aktuelle Diskussion + Verteidigung Position | Streit-Stände + eigene Argumentation |
 | Lehrbuch | Grundlagen | Methoden + Definitionen |
 | JuS | Studenten-orientierte Erklärung | Verstehen, was Streit-Stand bedeutet |
@@ -169,7 +168,7 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 
 ## Schritt 6 — Wenn keine Uni-Lizenz
 
-Du hast keinen Uni-Zugang zu Beck-Online / juris? Alternativen:
+Du hast keinen Uni-Zugang zu amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang? Alternativen:
 
 ### Kostenlose Recherche
 
@@ -196,7 +195,7 @@ Wenn Du keine Online-Quelle für eine Aussage hast: **lies das Buch in der Bibli
 
 - Übernahme von Gedanken **ohne Beleg**
 - Übernahme von Formulierungen **wörtlich** ohne Anführungszeichen
-- „Sekundär-Zitate" — Du zitierst BGH zwar, aber hast den Volltext nicht gelesen, sondern abgeschrieben aus einem Kommentar
+- "Sekundär-Zitate" — Du zitierst BGH zwar, aber hast den Volltext nicht gelesen, sondern abgeschrieben aus einem Kommentar
 
 ### Was ist erlaubt?
 
@@ -206,7 +205,7 @@ Wenn Du keine Online-Quelle für eine Aussage hast: **lies das Buch in der Bibli
 
 ### Beste Praxis
 
-Lese die **Originalquelle** und zitiere sie. Wenn das nicht geht, mache klar: „Zitiert nach Müller in JZ 2024 Seite 765 (Sekundär-Zitat)".
+Lese die **Originalquelle** und zitiere sie. Wenn das nicht geht, mache klar: "Zitiert nach Müller in JZ 2024 Seite 765 (Sekundär-Zitat)".
 
 ## Schritt 8 — Aktualität prüfen
 

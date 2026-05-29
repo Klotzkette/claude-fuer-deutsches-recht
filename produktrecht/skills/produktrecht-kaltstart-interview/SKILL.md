@@ -1,6 +1,6 @@
 ---
 name: produktrecht-kaltstart-interview
-description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennzeichnungs-Pflichten EU-Produktsicherheits-VO 2023/988. Pruefraster Produktkategorien typische Risiken Eskalationsschwellen Kanzleiprofil. Output Praxisprofil in Konfiguration mit Risikokalibrierung Launch-Framework Eskalationsmatrix. Abgrenzung: produktrecht-anpassen fuer spaetere Einzelaenderungen."
+description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennzeichnungs-Pflichten EU-Produktsicherheits-VO 2023/988. Prüfraster Produktkategorien typische Risiken Eskalationsschwellen Kanzleiprofil. Output Praxisprofil in Konfiguration mit Risikokalibrierung Launch-Framework Eskalationsmatrix. Abgrenzung: produktrecht-anpassen für spaetere Einzelaenderungen."
 ---
 
 # /kaltstart-interview
@@ -40,7 +40,7 @@ Dieses Interview lernt die Risikokalibrierung *Ihres* Unternehmens durch Lesen I
 
 Nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` suchen.
 
-- **Wenn vorhanden:** Lesen. Einzeilige Bestätigung zeigen: „Sie sind [Name], [Praxissetting], bei [Unternehmen], [Branche], tätig in [Jurisdiktionen]. Stimmt das? (Oder sagen Sie 'aktualisieren' um das gemeinsame Profil zu ändern.)" Wenn bestätigt, Unternehmensfragen überspringen – direkt zu plugin-spezifischen Fragen.
+- **Wenn vorhanden:** Lesen. Einzeilige Bestätigung zeigen: "Sie sind [Name], [Praxissetting], bei [Unternehmen], [Branche], tätig in [Jurisdiktionen]. Stimmt das? (Oder sagen Sie 'aktualisieren' um das gemeinsame Profil zu ändern.)" Wenn bestätigt, Unternehmensfragen überspringen – direkt zu plugin-spezifischen Fragen.
 - **Wenn nicht vorhanden:** Dieses Plugin ist das erste das der Nutzer einrichtet. Nach Orientierung und Verzweigung die Unternehmensfragen stellen und das gemeinsame Profil schreiben.
 
 ## Installationsumfang-Prüfung
@@ -67,28 +67,28 @@ Auf die Wahl des Nutzers warten bevor etwas anderes gezeigt wird.
 
 Sobald der Nutzer gewählt hat, orientieren:
 
-> „Dieses Plugin pflegt Ihr Praxisprofil (Review-Framework, Risikokalibrierung, Eskalationsmatrix), ein Launch-Review-Archiv und ein Werbeaussagen-Log. Es agiert als Produktjurist – Launch-Reviews, Feature-Risikobewertungen, Werbeaussagen-Prüfungen – gegen die Risikokalibrierung und das Framework Ihres Unternehmens. Dieses Setup-Interview lernt wie Sie tatsächlich arbeiten – Ihre Risikokalibrierung, was Ihr Unternehmen als P0 vs. Info behandelt, Ihr Review-Framework, Ihre Konventionen – und schreibt es in eine Klartextdatei die das Plugin jedes Mal daraus liest. Alles was Sie antworten kann später geändert werden."
+> "Dieses Plugin pflegt Ihr Praxisprofil (Review-Framework, Risikokalibrierung, Eskalationsmatrix), ein Launch-Review-Archiv und ein Werbeaussagen-Log. Es agiert als Produktjurist – Launch-Reviews, Feature-Risikobewertungen, Werbeaussagen-Prüfungen – gegen die Risikokalibrierung und das Framework Ihres Unternehmens. Dieses Setup-Interview lernt wie Sie tatsächlich arbeiten – Ihre Risikokalibrierung, was Ihr Unternehmen als P0 vs. Info behandelt, Ihr Review-Framework, Ihre Konventionen – und schreibt es in eine Klartextdatei die das Plugin jedes Mal daraus liest. Alles was Sie antworten kann später geändert werden."
 
 Nicht das persönlichen KI-Tool-Verlauf, andere Gespräche oder die Home-Verzeichnis-Konfigurationsdatei des Nutzers lesen um das Interview vorzufüllen.
 
-**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: „Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:produktrecht-kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
+**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: "Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:produktrecht-kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
 
 **Vollständiger Setup-Pfad:** der bestehende Interviewablauf unten.
 
 ## Interview-Tempo
 
-- **Davon ausgehen dass die Antwort irgendwo existiert.** Wenn eine Frage nach Informationen fragt die wahrscheinlich irgendwo aufgeschrieben sind – Unternehmensbeschreibung, Playbook, Eskalationsmatrix, Styleguide – zuerst nach Link oder Einfügung fragen. „Fügen Sie einen Link oder ein Dokument ein, oder geben Sie mir die Kurzfassung" ist die Standard-Anfrage.
-- **Stapelgröße – Unterteile zählen.** „Nie mehr als 2–3 Fragen in einem Turn" bedeutet 2–3 *beantwortbare Prompts*, Unterteile zählend.
+- **Davon ausgehen dass die Antwort irgendwo existiert.** Wenn eine Frage nach Informationen fragt die wahrscheinlich irgendwo aufgeschrieben sind – Unternehmensbeschreibung, Playbook, Eskalationsmatrix, Styleguide – zuerst nach Link oder Einfügung fragen. "Fügen Sie einen Link oder ein Dokument ein, oder geben Sie mir die Kurzfassung" ist die Standard-Anfrage.
+- **Stapelgröße – Unterteile zählen.** "Nie mehr als 2–3 Fragen in einem Turn" bedeutet 2–3 *beantwortbare Prompts*, Unterteile zählend.
 
 **Für echte Antworten pausieren.** Wenn eine Frage mehr als eine schnelle Antwort braucht:
-- **Frage stellen und warten.** Klar sagen: „Diese braucht eine getippte Antwort – ich warte."
-- **Vor dem Schreiben des Praxis-Profils:** Interview überprüfen. Jede übersprungene Frage auflisten. Sagen: „Bevor ich Ihre Konfiguration schreibe, hier ist was noch offen ist: [Liste]. Möchten Sie diese jetzt ausfüllen, oder als Platzhalter lassen?" Auf Antwort warten bevor geschrieben wird.
+- **Frage stellen und warten.** Klar sagen: "Diese braucht eine getippte Antwort – ich warte."
+- **Vor dem Schreiben des Praxis-Profils:** Interview überprüfen. Jede übersprungene Frage auflisten. Sagen: "Bevor ich Ihre Konfiguration schreibe, hier ist was noch offen ist: [Liste]. Möchten Sie diese jetzt ausfüllen, oder als Platzhalter lassen?" Auf Antwort warten bevor geschrieben wird.
 
 ## Das Interview
 
 ### Eröffnung
 
-> Produktrecht ist der Bereich wo Recht am nächsten am Unternehmen ist – es ändert sich am meisten von Ort zu Ort. Ich muss lernen was „riskant" hier bedeutet bevor ich Ihnen sagen kann ob etwas riskant ist.
+> Produktrecht ist der Bereich wo Recht am nächsten am Unternehmen ist – es ändert sich am meisten von Ort zu Ort. Ich muss lernen was "riskant" hier bedeutet bevor ich Ihnen sagen kann ob etwas riskant ist.
 >
 > Ich werde nach Ihrem Unternehmen, Ihrem Review-Prozess und was Sie früher blockiert haben fragen. Dann möchte ich zehn Ihrer vergangenen Launch-Reviews lesen. Nicht die PRDs – *Ihre* Reviews. Dort lebt Ihre Kalibrierung.
 
@@ -106,7 +106,7 @@ Wenn Antwort 2 oder 3:
 
 > Sie können jedes Feature hier verwenden – Launch-Review, Feature-Risikobewertung, Werbeaussagen-Review und Triage. Zwei Dinge ändern sich in der Arbeitsweise:
 >
-> 1. **Ich werde Ausgaben als Recherche zur anwaltlichen Prüfung formulieren, nicht als Urteile.** Statt „freigegeben zum Shippen" bekommen Sie „hier ist was ich gefunden habe und hier sind die Fragen bevor Sie shippen."
+> 1. **Ich werde Ausgaben als Recherche zur anwaltlichen Prüfung formulieren, nicht als Urteile.** Statt "freigegeben zum Shippen" bekommen Sie "hier ist was ich gefunden habe und hier sind die Fragen bevor Sie shippen."
 > 2. **Ich pausiere vor Schritten mit rechtlichen Konsequenzen** – Launch freigeben, Werbeaussage veröffentlichen, Werbeaussage für externe Nutzung genehmigen. Ich frage ob Sie mit einem Anwalt besprochen haben und erstelle ein kurzes Briefing damit das Gespräch schnell geht.
 
 Wenn Antwort 3, hinzufügen:
@@ -119,7 +119,7 @@ Wenn Antwort 3, hinzufügen:
 
 **Was tatsächlich verbunden ist prüfen, nicht was konfiguriert ist.** Ein in `.mcp.json` gelisteter Konnektor ist *verfügbar*. Einer der tatsächlich antwortet ist *verbunden*. Das sind unterschiedliche Dinge.
 
-Für nicht verbundene Konnektoren dem Nutzer sagen wie er verbindet. Beispiel: „Jira ist nicht verbunden. In Claude Cowork: Einstellungen → Konnektoren → Hinzufügen → Jira → anmelden. In Claude Code: Jira-MCP zur Konfiguration hinzufügen. Dieses Plugin funktioniert ohne – Sie fügen PRDs und Review-Dokumente direkt ein – aber das Verbinden lässt den markteinführungs-monitor-Agenten Tickets automatisch abfragen."
+Für nicht verbundene Konnektoren dem Nutzer sagen wie er verbindet. Beispiel: "Jira ist nicht verbunden. In Claude Cowork: Einstellungen → Konnektoren → Hinzufügen → Jira → anmelden. In Claude Code: Jira-MCP zur Konfiguration hinzufügen. Dieses Plugin funktioniert ohne – Sie fügen PRDs und Review-Dokumente direkt ein – aber das Verbinden lässt den markteinführungs-monitor-Agenten Tickets automatisch abfragen."
 
 Ergebnisse in dieser Form melden:
 > - ✓ [Integration] – verbunden (getestet)
@@ -130,7 +130,7 @@ Ergebnisse in dieser Form melden:
 
 > Ein letztes kurzes bevor wir tief gehen:
 >
-> Was ist das Setting? (Das speist die Eskalationsmatrix die jeder Skill verwendet – In-House fragt nach GC-Routing, Solo bildet „eskalieren" auf „externen Anwalt konsultieren" ab, Kanzlei routet zum Supervisions-Anwalt.)
+> Was ist das Setting? (Das speist die Eskalationsmatrix die jeder Skill verwendet – In-House fragt nach GC-Routing, Solo bildet "eskalieren" auf "externen Anwalt konsultieren" ab, Kanzlei routet zum Supervisions-Anwalt.)
 >
 > - **Solo / kleine Kanzlei (keine Hierarchie)** – Ich überspringe Genehmigungsketten-Fragen.
 > - **Mittelgroße / große Kanzlei** – Ich frage nach Ihrer Genehmigungskette, Abrechnungsschwellen und wer über Ihnen unterschreibt.
@@ -139,7 +139,7 @@ Ergebnisse in dieser Form melden:
 
 ### Teil 1: Das Unternehmen (3–4 Min)
 
-**Was macht [Ihr Unternehmen]?** Das ist der wichtigste Kontext. Fügen Sie einen Link zur Website, Ihrer „Über uns"-Seite, einem Wikipedia-Artikel oder Ihrem Geschäftsbericht ein, und ich extrahiere was ich brauche. Oder geben Sie mir die Ein-Satz-Version: was Sie verkaufen, an wen, und wie.
+**Was macht [Ihr Unternehmen]?** Das ist der wichtigste Kontext. Fügen Sie einen Link zur Website, Ihrer "Über uns"-Seite, einem Wikipedia-Artikel oder Ihrem Geschäftsbericht ein, und ich extrahiere was ich brauche. Oder geben Sie mir die Ein-Satz-Version: was Sie verkaufen, an wen, und wie.
 
 **Was sind wir?**
 - Was macht das Unternehmen?
@@ -154,18 +154,18 @@ Ergebnisse in dieser Form melden:
 - Welche Märkte treiben unverhältnismäßig viel Risikoabwägung an?
 
 **Risikoappetit:** *(speist `/launch-prüfung` und `/ist-das-ein-problem`)*
-- Auf einer „konservativ / mittel / aggressiv"-Skala, wo steht die Unternehmensleitung bei Produktlaunch-Risiken? Kategoriespezifische Abweichungen?
+- Auf einer "konservativ / mittel / aggressiv"-Skala, wo steht die Unternehmensleitung bei Produktlaunch-Risiken? Kategoriespezifische Abweichungen?
 
 **Was hält Sie nachts wach?** *(speist `/launch-prüfung`)*
 - Wenn bei einem Produktlaunch etwas schiefläuft, was ist der realistisch schlimmste Fall?
 - Was fragt der GC in jedem Launch-Review?
 
 **Eskalation – wer unterschreibt über Ihnen?**
-> „Wenn ein Review etwas findet das jemand Senioreres absegnen muss – ein Launch-Risiko über Ihrer Richtlinienkalibrierung, eine Werbeaussage die Prüfung benötigt, eine neuartige Frage – wer bekommt das? Geben Sie einen Namen oder eine Rolle (der GC, Ihr Vorgesetzter, den Leiter des Produktrechts), oder sagen Sie 'Ich entscheide selbst.'"
+> "Wenn ein Review etwas findet das jemand Senioreres absegnen muss – ein Launch-Risiko über Ihrer Richtlinienkalibrierung, eine Werbeaussage die Prüfung benötigt, eine neuartige Frage – wer bekommt das? Geben Sie einen Namen oder eine Rolle (der GC, Ihr Vorgesetzter, den Leiter des Produktrechts), oder sagen Sie 'Ich entscheide selbst.'"
 
 ### Teil 2: Der Review-Prozess (3–4 Min)
 
-Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framework, eine Risikokalibrierungstabelle oder frühere Launch-Review-Memos die Sie teilen können? Fügen Sie die Inhalte ein oder teilen Sie einen Dateipfad, und ich extrahiere die Kategorien, die P0/Info-Grenzen und das Hausformat statt Sie sie neu eintippen zu lassen. Wenn nicht, sagen Sie 'nein' und ich stelle die Fragen einzeln."
+Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framework, eine Risikokalibrierungstabelle oder frühere Launch-Review-Memos die Sie teilen können? Fügen Sie die Inhalte ein oder teilen Sie einen Dateipfad, und ich extrahiere die Kategorien, die P0/Info-Grenzen und das Hausformat statt Sie sie neu eintippen zu lassen. Wenn nicht, sagen Sie 'nein' und ich stelle die Fragen einzeln."
 
 **Wie kommen Launches zu Ihnen?**
 - Launch-Tracker – Jira? Linear? Asana? Eine Tabelle?
@@ -179,7 +179,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 
 **P0 vs. Info – das ist die Schlüsselfrage:**
 - Was ist ein Beispiel für etwas womit Sie einen Launch blockiert haben?
-- Was ist ein Beispiel für etwas das beängstigend aussah aber „shippt es" hieß?
+- Was ist ein Beispiel für etwas das beängstigend aussah aber "shippt es" hieß?
 - Was fragen PMs ständig das fast nie ein Problem ist?
 
 ### Teil 3: Werbeaussagen (1–2 Min)
@@ -187,17 +187,17 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 *(speist `/werbeaussagen-prüfung` – Substanziierungsstandard und vergleichende Werbehaltung)*
 
 - Wer prüft Marketing-Copy – Sie, oder eine separate Marketing-Rechts-Funktion?
-- Vergleichende Werbung nach § 6 UWG („schneller als X") – erlaubt, abgeraten, verboten?
+- Vergleichende Werbung nach § 6 UWG ("schneller als X") – erlaubt, abgeraten, verboten?
 - Was ist der Substanziierungsstandard – brauchen Aussagen Daten bevor sie geshippt werden?
 - Gibt es Branchen-spezifische Restriktionen (Heilmittelwerbung, Finanzprodukte)?
 
 ### Teil 4: Seed-Dokumente (3–4 Min)
 
-> Ich möchte zehn Ihrer letzten Launch-Reviews lesen. Nicht zehn PRDs – zehn *Ihre* Dokumente. Wo Sie gesagt haben „hier ist was mich besorgt" oder „das ist in Ordnung, shippt es."
+> Ich möchte zehn Ihrer letzten Launch-Reviews lesen. Nicht zehn PRDs – zehn *Ihre* Dokumente. Wo Sie gesagt haben "hier ist was mich besorgt" oder "das ist in Ordnung, shippt es."
 >
 > Wenn Sie einen Launch-Tracker verbunden haben, kann ich sie finden. Andernfalls zeigen Sie mir auf einen Ordner oder ein paar Dokumente.
 
-**Wenn Jira/Linear/Asana verbunden:** Tickets mit rechtlichen Review-Kommentaren oder einem „Rechtliche Prüfung"-Status abfragen. Die letzten 10–15 abrufen.
+**Wenn Jira/Linear/Asana verbunden:** Tickets mit rechtlichen Review-Kommentaren oder einem "Rechtliche Prüfung"-Status abfragen. Die letzten 10–15 abrufen.
 
 **Seed-Dokumente lesen und extrahieren:**
 
@@ -210,10 +210,10 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 
 | Gesehenes Problem | Wie oft | Typische Entscheidung | Beispiel |
 |---|---|---|---|
-| Neue Datenerhebung | 8/10 | DSFA erforderlich, selten Blocker | „Analytics-Event hinzugefügt – DSFA fertig, geshippt" |
-| Drittanbieter-Integration | 6/10 | AV-Vertrag prüfen, selten Blocker | „Stripe-Webhook – bestehender AVV deckt es ab" |
-| Vergleichende Werbeaussage | 3/10 | Substanziierung erforderlich | „'Schnellste' Aussage blockiert bis Benchmarks vorliegen" |
-| Kinderdaten | 1/10 | **Blockiert bis Vollprüfung** | „Schul-Pilot – DSGVO Art. 8 Review zuerst" |
+| Neue Datenerhebung | 8/10 | DSFA erforderlich, selten Blocker | "Analytics-Event hinzugefügt – DSFA fertig, geshippt" |
+| Drittanbieter-Integration | 6/10 | AV-Vertrag prüfen, selten Blocker | "Stripe-Webhook – bestehender AVV deckt es ab" |
+| Vergleichende Werbeaussage | 3/10 | Substanziierung erforderlich | "'Schnellste' Aussage blockiert bis Benchmarks vorliegen" |
+| Kinderdaten | 1/10 | **Blockiert bis Vollprüfung** | "Schul-Pilot – DSGVO Art. 8 Review zuerst" |
 
 ## Praxis-Profil schreiben
 
@@ -264,12 +264,11 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 
 ## Zentrale Normen & Aktuelle Rechtsprechung
 
-<!-- AZ VIII ZR 72/20 entfernt: Urteil existiert nicht (NOT_FOUND, verifiziert via dejure.org); beanspruchtes Thema Kaltstart-Onboarding ist ohne Rspr.-Beleg; Eintrag geloescht. Audit 27.05.2026 -->
-- BVerfG, Beschl. v. 19.01.2021 — 1 BvR 2396/20, NJW 2021, 1088 — Datenschutz bei digitalen Profilen; DSGVO-Konfirmation bei Onboarding-Daten; Kaltstart-Interview darf keine datenschutzwidrige Verarbeitung ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 312 ff. BGB — §§ 1-4 ProdHaftG — §§ 5-6 DDG — § 11 PAngV — EU AI Act
 
-**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Verbraucherrecht, Produktrecht-Grundlagen)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgaben
 
@@ -294,7 +293,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 *Bei jedem Launch geprüfte Kategorien (aus Seed-Docs + Interview):*
 
 1. **[Kategorie]** – [was geprüft wird, was Eskalation auslöst]
-[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `references/launch-pruefung-framework-de.md` anbieten wenn nicht]
+[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `produktrecht/skills/launch-pruefung/references/seven-category-framework.md` anbieten wenn nicht]
 
 ---
 
@@ -335,7 +334,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 
 | Auslöser | Eskaliert an | Per |
 |---|---|---|
-| [Muster aus „blockiert normalerweise"] | [GC] | [Methode] |
+| [Muster aus "blockiert normalerweise"] | [GC] | [Methode] |
 | Neuartige Frage nicht in Kalibrierungstabelle | [Sie, dann GC wenn unklar] | |
 | Behördenanfrage im Zusammenhang mit Launch | [GC sofort] | |
 
@@ -370,21 +369,19 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 
 > **Hier ist womit ich im Produktrecht gut bin:**
 >
-> - **Rechtlicher Review eines Produktlaunchs** – z. B. „PRD rein, Review-Memo raus gegen Ihr Review-Framework und Ihre Risikokalibrierung." Probieren: `/produktrecht:launch-prüfung`
-> - **Schnelle Triage einer Slack-Frage** – z. B. „'Hey Legal, kurze Frage' bekommt ein Gleich-Minuten in-Ordnung / braucht-einen-Blick / Stop." Probieren: `/produktrecht:ist-das-ein-problem`
-> - **Werbeaussagen-Prüfung** – z. B. „Copy auf Aussagen prüfen die Substanziierung brauchen, Vergleiche nach § 6 UWG, Superlative, Versprechen die das Produkt nicht halten kann." Probieren: `/produktrecht:werbeaussagen-prüfung`
-> - **Impressum-Pflicht-Check** – z. B. „Impressum auf Vollständigkeit nach §§ 5, 6 DDG prüfen." Probieren: `/produktrecht:impressum-pflicht`
-> - **Preisangaben-Check** – z. B. „Preisdarstellung auf PAngV-Konformität prüfen, insb. Streichpreise und Grundpreise." Probieren: `/produktrecht:preisangaben`
+> - **Rechtlicher Review eines Produktlaunchs** – z. B. "PRD rein, Review-Memo raus gegen Ihr Review-Framework und Ihre Risikokalibrierung." Probieren: `/produktrecht:launch-prüfung`
+> - **Schnelle Triage einer Slack-Frage** – z. B. "'Hey Legal, kurze Frage' bekommt ein Gleich-Minuten in-Ordnung / braucht-einen-Blick / Stop." Probieren: `/produktrecht:ist-das-ein-problem`
+> - **Werbeaussagen-Prüfung** – z. B. "Copy auf Aussagen prüfen die Substanziierung brauchen, Vergleiche nach § 6 UWG, Superlative, Versprechen die das Produkt nicht halten kann." Probieren: `/produktrecht:werbeaussagen-prüfung`
+> - **Impressum-Pflicht-Check** – z. B. "Impressum auf Vollständigkeit nach §§ 5, 6 DDG prüfen." Probieren: `/produktrecht:impressum-pflicht`
+> - **Preisangaben-Check** – z. B. "Preisdarstellung auf PAngV-Konformität prüfen, insb. Streichpreise und Grundpreise." Probieren: `/produktrecht:preisangaben`
 
 **Mein Vorschlag für das erste:** Führen Sie `/ist-das-ein-problem` für eine PM-Frage aus die Sie bereits beantwortet haben – sehen Sie ob die Antwort Ihrer Kalibrierung entspricht.
 
 ## Fehler-Modi
 
-- **Kein Framework erfinden das sie nicht verwenden.** Wenn sie jeden Review freistilig machen, das erfassen – „Reviews sind ad hoc, keine formale Checkliste."
-- **„Wir haben das nie blockiert" nicht mit „das ist in Ordnung" verwechseln.** Manchmal haben sie das Problem einfach nie getroffen. Markieren: `[UNGETESTET – dieses Problem ist in Seed-Reviews nicht aufgetaucht, Kalibrierung ist eine Schätzung]`.
+- **Kein Framework erfinden das sie nicht verwenden.** Wenn sie jeden Review freistilig machen, das erfassen – "Reviews sind ad hoc, keine formale Checkliste."
+- **"Wir haben das nie blockiert" nicht mit "das ist in Ordnung" verwechseln.** Manchmal haben sie das Problem einfach nie getroffen. Markieren: `[UNGETESTET – dieses Problem ist in Seed-Reviews nicht aufgetaucht, Kalibrierung ist eine Schätzung]`.
 - **PRDs statt Review-Dokumente lesen ist ein Fehler.** Das PRD sagt was das Feature tut. Das Review-Dokument sagt was der Anwalt besorgt hat. Sie wollen das zweite.
 
-
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: BGH VIII ZR 72/20, NJW 2021, 1667 — Urteil nicht existent (NOT_FOUND, verifiziert via dejure.org). AZ VIII ZR 72/20 existiert nicht beim BGH; beanspruchtes Thema 'Kaltstart-Onboarding im digitalen Produkt-Bereich' ist ohne reale Rspr.-Grundlage. Eintrag durch HTML-Kommentar ersetzt (geloescht). Status: GELOESCHT.
 -->

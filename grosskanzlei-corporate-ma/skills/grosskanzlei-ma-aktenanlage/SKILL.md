@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-aktenanlage
-description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Pruefraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollstaendig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter."
+description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter."
 ---
 
 # Freistehende M&A-Aktenanlage
@@ -37,8 +37,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | IX ZR 10/99 | 22.01.2004 | Anwaltliche Handakte: lückenhafte Dokumentation geht im Schadensersatzprozess zu Lasten des Anwalts; Beweislastumkehr |
-| BGH | IX ZR 47/17 | 08.02.2018 | Kanzleipflichten: fehlende Fristerinnerung in der Akte begründet Organisationsverschulden des Anwalts |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema / Anlage-Checkliste
 
@@ -82,7 +81,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 
 | Anforderung | Norm | Konsequenz bei Verstoß |
 |---|---|---|
-| Handaktenführung | § 50 BRAO | Beweislastumkehr im Regressverfahren (BGH IX ZR 10/99) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | GwG-Identifikation | §§ 5, 6 GwG | Bußgeld, Meldepflicht, ggf. strafrechtliche Haftung |
 | Fristenüberwachung | § 43 BRAO, BORA § 26 | Organisationsverschulden; Haftung für Fristversäumnis |
 | Vertraulichkeit NDA | Vertragsrecht | Schadensersatz bei unberechtigter Weitergabe |
@@ -215,15 +214,13 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 22.01.2004, Az. IX ZR 10/99 (Handakte, Beweislastumkehr)
-- BGH, Urt. v. 08.02.2018, Az. IX ZR 47/17 (Fristerinnerung, Organisationsverschulden)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 50 BRAO; §§ 5, 6, 8 GwG; Art. 5, 25 DSGVO; §§ 257 HGB, 147 AO; MAR Art. 7, 8
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 26.01.2006 - IX ZR 185/04, NJW 2006, 1432 — Aktenaufbewahrung: Anwalt muss Akten so aufbewahren, dass wesentliche Informationen fuer Mandant jederzeit zugaenglich sind; § 257 HGB (10 Jahre) gilt analog fuer Handakten
-- OLG Frankfurt, Urt. v. 14.11.2019 - 4 U 225/18, NZG 2020, 217 — Aktenanlage und Dateisicherheit: Anwalt haftet bei Datenverlust, wenn keine angemessene Backup-Strategie vorhanden war; DSGVO-konforme Datenhaltung ist Sorgfaltspflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- OLG Muenchen 6 U 4558/19 (20.01.2020): NOT_FOUND auf dejure.org — Tabellenzeile und Quellenangabe geloescht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

@@ -56,7 +56,7 @@ Funktion: Sell-side Financial Advisor; kein Konflikt mit Kanzlei bekannt.
 
 ### 3.1 Datenbanksuche interne Mandate
 
-Die Suche in der kanzleiinternen Mandatsdatenbank nach den Suchbegriffen „Solaris", „Eagle Capital", „Grünwald", „Winkel", „Delta Maschinenbau", „Meridian Corporate Finance" und den natürlichen Personen der Geschäftsführung und Vorstände hat folgendes Ergebnis:
+Die Suche in der kanzleiinternen Mandatsdatenbank nach den Suchbegriffen "Solaris", "Eagle Capital", "Grünwald", "Winkel", "Delta Maschinenbau", "Meridian Corporate Finance" und den natürlichen Personen der Geschäftsführung und Vorstände hat folgendes Ergebnis:
 
 | Suchbegriff | Treffer | Bewertung |
 |---|---|---|

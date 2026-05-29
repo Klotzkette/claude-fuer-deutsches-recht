@@ -1,6 +1,6 @@
 ---
 name: richtlinien-update-zyklus
-description: "KI-Nutzungsrichtlinie regelmaessig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchfuehrungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Pruefraster Pruefintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prueftermin. Abgrenzung zu Richtlinien-Skelett fuer Neuerstellung und zu Literatur-und-Quellen."
+description: "KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen."
 ---
 
 # Richtlinien-Update-Zyklus
@@ -79,10 +79,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Dieser Skill selbst ist Teil des Update-Zyklus: Falls neue EU-Zeitpläne oder Inkrafttreten-Daten für KI-VO-Bestimmungen bekannt werden, ist die Trigger-Liste entsprechend anzupassen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Richtlinien muessen aktuelle Rechtsprechung widerspiegeln — Scoring-Entscheidung hatte direkte Richtlinienfolgen.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Algorithmus-Logik offenlegen — neue Pflicht erfordert Richtlinien-Update.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten muessen mit technischer Entwicklung Schritt halten — veraltete Richtlinien erhoehen Haftungsrisiko.
-- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen gelten auch fuer Richtlinien-Aktualitaet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 17 KI-VO — Qualitaetsmanagement-System mit laufender Ueberprueufung (Anbieter)

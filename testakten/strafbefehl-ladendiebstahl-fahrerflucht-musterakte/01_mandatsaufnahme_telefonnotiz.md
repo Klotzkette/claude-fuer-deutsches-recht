@@ -29,7 +29,7 @@ Frau Albrecht ist von Beruf medizinische Fachangestellte bei der Gemeinschaftspr
 ### Angaben zu den Tatvorwürfen
 
 **Zum Ladendiebstahl:**
-Frau Albrecht schilderte, dass sie Mitte März 2026 in der Drogerie „Beauté & Co" am Düsseldorfer Hauptbahnhof gewesen sei. Sie habe mehrere Artikel in der Hand gehalten und sei, wie sie sagte, „im Kopf ganz woanders" gewesen, weil ihre Tochter an diesem Tag krank war und sie eigentlich gar nicht hätte einkaufen sollen. Sie habe einen Lippenstift und eine Handcreme in der Manteltasche gehabt – bewusst oder unbewusst, daran könne sie sich nicht mehr erinnern. An der Kasse habe sie die anderen Waren bezahlt. Beim Verlassen des Geschäfts sei sie von einem Mann angesprochen worden (dem Ladendetektiv), der sie zurück in das Büro gebeten habe. Dort habe sie die Waren sofort aus der Tasche genommen, die Artikel zurückgegeben und sich mehrfach entschuldigt. Die Polizei sei dann gerufen worden, und sie habe eine Belehrung erhalten, aber keine Aussage gemacht – das bestätigte sie auf Nachfrage explizit: „Ich habe nichts unterschrieben, zumindest meine ich das."
+Frau Albrecht schilderte, dass sie Mitte März 2026 in der Drogerie "Beauté & Co" am Düsseldorfer Hauptbahnhof gewesen sei. Sie habe mehrere Artikel in der Hand gehalten und sei, wie sie sagte, "im Kopf ganz woanders" gewesen, weil ihre Tochter an diesem Tag krank war und sie eigentlich gar nicht hätte einkaufen sollen. Sie habe einen Lippenstift und eine Handcreme in der Manteltasche gehabt – bewusst oder unbewusst, daran könne sie sich nicht mehr erinnern. An der Kasse habe sie die anderen Waren bezahlt. Beim Verlassen des Geschäfts sei sie von einem Mann angesprochen worden (dem Ladendetektiv), der sie zurück in das Büro gebeten habe. Dort habe sie die Waren sofort aus der Tasche genommen, die Artikel zurückgegeben und sich mehrfach entschuldigt. Die Polizei sei dann gerufen worden, und sie habe eine Belehrung erhalten, aber keine Aussage gemacht – das bestätigte sie auf Nachfrage explizit: "Ich habe nichts unterschrieben, zumindest meine ich das."
 
 **Zur Unfallflucht:**
 Etwa zwei Wochen nach dem Ladendiebstahl-Vorfall, sie glaube Ende März oder Anfang April 2026, sei sie auf dem Parkdeck des Einkaufszentrums Arcaden Benrath gefahren und beim Einparken möglicherweise an ein anderes Fahrzeug gestoßen. Sie hat nach eigener Aussage nichts gespürt oder gehört. Als ihr Freund sie dann abends erwähnte, er habe gehört, dass auf dem Parkplatz ein Zettel hinterlassen worden sei, habe sie keine Vorstellung gehabt, ob das mit ihr zusammenhängen könnte. Etwa eine Woche später habe sie Post von der Polizei bekommen – einen Zeugenfragebogen, den sie nicht beantwortet habe, da sie nicht sicher war, ob sie überhaupt beteiligt war.
@@ -77,11 +77,11 @@ Frau Albrecht äußerte ausdrücklich die Sorge, dass ein Eintrag im Bundeszentr
 
 ## Gesprächsnotiz / Wörtliche Zitate (sinngemäß)
 
-> „Ich habe das wirklich nicht absichtlich getan. Ich weiß, das klingt blöd, aber an dem Tag war alles zu viel."
+> "Ich habe das wirklich nicht absichtlich getan. Ich weiß, das klingt blöd, aber an dem Tag war alles zu viel."
 
-> „Ich kann mir nicht leisten, den Führerschein zu verlieren. Mein Kind – ich bringe es jeden Morgen zur Schule."
+> "Ich kann mir nicht leisten, den Führerschein zu verlieren. Mein Kind – ich bringe es jeden Morgen zur Schule."
 
-> „Was passiert, wenn mein Chef das erfährt? Ich bin noch in der Probezeit."
+> "Was passiert, wenn mein Chef das erfährt? Ich bin noch in der Probezeit."
 
 Frau Albrecht wirkte kooperativ und vertrauenswürdig. Keine Anzeichen für mangelnde Glaubwürdigkeit. Telefonat endete damit, dass sie die Vollmacht per WhatsApp-Scan schickt und den Strafbefehl mit Umschlag einscannt.
 

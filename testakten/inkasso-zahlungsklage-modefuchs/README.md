@@ -1,5 +1,14 @@
 # Testakte Inkasso-Zahlungsklage ModeFuchs
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-inkasso-zahlungsklage-modefuchs` (diese Akte) | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive Schulungsakte für das Plugin `forderungsmanagement-klagewerkstatt`, Skill `inkasso-zahlungsklage-ersteller`.
 
 ## Kernfall

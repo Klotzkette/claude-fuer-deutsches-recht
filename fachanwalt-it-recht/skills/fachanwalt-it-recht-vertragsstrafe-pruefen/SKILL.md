@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-vertragsstrafe-pruefen
-description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen pruefen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschaeft § 341 Abs. 3 BGB Vorbehalt. Pruefraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenpruefvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr."
+description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr."
 ---
 
 # Vertragsstrafe prüfen
@@ -19,7 +19,7 @@ description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Ho
 - Vertragsstrafenversprechen § 339 BGB — fällig mit Verzug oder Verstoß bei verschuldeter Pflichtverletzung.
 - Bei Werkleistung Vorbehalt nötig § 341 Abs. 3 BGB sonst Verwirkung.
 - AGB-Kontrolle: Transparenz § 307 Abs. 1 Satz 2 BGB; unangemessene Benachteiligung § 307 Abs. 1 Satz 1 BGB.
-- BGH zur Höchstgrenze bei Tagessatz-Vertragsstrafen: BGH VII ZR 210/01, Urt. v. 23.01.2003, Rn. 19 (Bauvertrag, fünf Prozent der Auftragssumme als Obergrenze unbedenklich).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Herabsetzungsmöglichkeit § 343 BGB nur außerhalb beiderseitigen Handelsgeschäftes § 348 HGB.
 - Anrechnung auf Schadensersatz § 340 Abs. 2 BGB bzw. § 341 Abs. 2 BGB.
 
@@ -42,7 +42,7 @@ description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Ho
 8. Herabsetzungsantrag § 343 BGB bei Nicht-Handelsgeschaeft
 ```
 
-Standardliteratur: Grüneberg BGB §§ 339-345; Ulmer/Brandner/Hensen AGB-Recht.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -96,8 +96,7 @@ Mit freundlichen Gruessen
 - Verjährungsfrist im Aktenkalender notieren.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 23.01.2003 — VII ZR 210/01, NJW 2003, 1805 Rn. 19: Tagessatz-Vertragsstrafe im Bauvertrag bis fuenf Prozent der Auftragssumme als Hoechtgrenze in AGB wirksam.
-- BGH, Urt. v. 20.01.2016 — VIII ZR 26/15, NJW 2016, 1230 Rn. 14: Herabsetzungsantrag § 343 BGB — Masstab ist das Interesse des Glaubigers am Versprechen zum Zeitpunkt der Entstehung; Leistungsinteresse und Abschreckungsinteresse zu gewichten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 339 BGB — Verwirkung der Vertragsstrafe bei Verschulden
@@ -108,11 +107,9 @@ Mit freundlichen Gruessen
 - § 307 Abs. 1 Satz 2 BGB — Transparenzgebot AGB
 - § 309 Nr. 6 BGB — Klauselverbote ohne Wertungsspielraum (Vertragsstrafe im B2C-Bereich)
 
-## Kommentarliteratur
-- Grüneberg, in: Grüneberg BGB, 83. Aufl. 2024, §§ 339–345 Rn. 1 ff.: Grundstruktur Vertragsstrafe im IT-Recht.
-- Ulmer/Brandner/Hensen, AGB-Recht, 13. Aufl. 2022, § 307 BGB Rn. 540 ff.: Hoechstgrenze als AGB-Wirksamkeitsvoraussetzung.
-- Marly, Praxishandbuch Softwarerecht, 8. Aufl. 2023, Rn. 720 ff.: Vertragsstrafe in Software- und IT-Vertraegen.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
 2. Ist die strafbewehrte Pflicht hinreichend konkret beschrieben (Transparenzgebot)?

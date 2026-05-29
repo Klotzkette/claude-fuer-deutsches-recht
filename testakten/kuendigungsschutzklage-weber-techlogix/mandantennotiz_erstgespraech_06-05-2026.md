@@ -31,9 +31,9 @@ Das zuletzt vereinbarte Bruttogehalt beträgt EUR 4.850,00 monatlich (Gehaltsabr
 
 Ende März 2026 — Mandant schätzt ca. 25. März — bestellte Geschäftsführerin Kreutzfeldt Weber ohne Termin in ihr Büro. Das Gespräch fand unter vier Augen statt, kein weiterer Zeuge war anwesend. Weber schildert den Gesprächsinhalt sinngemäß wie folgt:
 
-> „Marcus, ich muss Ihnen etwas sagen. Wir haben entschieden, die IT nach außen zu geben. An DataFlow Solutions aus Frankfurt. Die machen das dann komplett. Das bedeutet, Ihre Stelle und die der anderen im IT-Bereich fallen weg. Wir sind noch nicht ganz fertig mit den Verhandlungen, aber das ist strategisch entschieden."
+> "Marcus, ich muss Ihnen etwas sagen. Wir haben entschieden, die IT nach außen zu geben. An DataFlow Solutions aus Frankfurt. Die machen das dann komplett. Das bedeutet, Ihre Stelle und die der anderen im IT-Bereich fallen weg. Wir sind noch nicht ganz fertig mit den Verhandlungen, aber das ist strategisch entschieden."
 
-Weber habe gefragt, ob das alle IT-Mitarbeiter betreffe — Antwort: „Das besprechen wir noch." Er habe nach einer Abfindung gefragt — Antwort: „Darüber reden wir zu gegebener Zeit." Das Gespräch dauerte ca. zehn Minuten. Weber hat die wesentlichen Inhalte noch am selben Abend in einer handschriftlichen Notiz festgehalten (Anlage: `notiz_weber_gespraech_maerz_2026.md`). Diese Notiz ist als Beweisurkunde von erheblicher Bedeutung.
+Weber habe gefragt, ob das alle IT-Mitarbeiter betreffe — Antwort: "Das besprechen wir noch." Er habe nach einer Abfindung gefragt — Antwort: "Darüber reden wir zu gegebener Zeit." Das Gespräch dauerte ca. zehn Minuten. Weber hat die wesentlichen Inhalte noch am selben Abend in einer handschriftlichen Notiz festgehalten (Anlage: `notiz_weber_gespraech_maerz_2026.md`). Diese Notiz ist als Beweisurkunde von erheblicher Bedeutung.
 
 **Beweiswert:** Einseitig, kein Zeuge — aber zeitnahe Fixierung stärkt die Beweiskraft erheblich. Ggf. als Beweisantritt: Vernehmung Kreutzfeldt als Partei.
 
@@ -47,7 +47,7 @@ Die schriftliche Kündigung datiert vom 28. April 2026. Sie wurde Weber am 30. A
 
 ### 1.4 Betriebsrat
 
-Ein Betriebsrat ist vorhanden (5 Mitglieder). Vorsitzender ist Torsten Hähnel. Weber hat ihn nach Erhalt der Kündigung angerufen. Hähnel sagte ihm telefonisch: „Wir haben das Anhörungsschreiben zu spät bekommen, ich hab aber nichts gemacht." Was „zu spät" konkret bedeutet, ließ Hähnel offen. Er legte keinen Widerspruch nach § 102 Abs. 3 BetrVG ein. Hähnel ist nicht bereit, Weber eine schriftliche Bestätigung zu geben — nur informell telefonisch.
+Ein Betriebsrat ist vorhanden (5 Mitglieder). Vorsitzender ist Torsten Hähnel. Weber hat ihn nach Erhalt der Kündigung angerufen. Hähnel sagte ihm telefonisch: "Wir haben das Anhörungsschreiben zu spät bekommen, ich hab aber nichts gemacht." Was "zu spät" konkret bedeutet, ließ Hähnel offen. Er legte keinen Widerspruch nach § 102 Abs. 3 BetrVG ein. Hähnel ist nicht bereit, Weber eine schriftliche Bestätigung zu geben — nur informell telefonisch.
 
 Weber hat ein offenbar unvollständiges Exemplar des Anhörungsschreibens der AG an den BR, das ihm Hähnel per Foto übermittelt hat. Das Schreiben weist kein Datum auf, und Seite 2 fehlt offenkundig (die Seite mit den Angaben zur Sozialauswahl und den Vergleichspersonen).
 
@@ -72,15 +72,15 @@ Nach dem Punkteschema des § 1 Abs. 3 KSchG (vgl. Rohtabelle) ergibt sich: Grune
 
 ### 1.6 Unternehmerische Entscheidung (DataFlow Solutions)
 
-Laut Weber und dem Inhalt des Gesprächs vom März 2026 war der Outsourcing-Vertrag mit DataFlow Solutions GmbH, Frankfurt, zum Zeitpunkt des Gesprächs „strategisch beschlossen, aber noch in Verhandlung". Die Kündigung datiert vom 28. April 2026. Nach Webers Kenntnisstand war der Vertrag zu diesem Zeitpunkt noch nicht unterzeichnet. Dies ist ein erheblicher Einwand: Nach ständiger Rechtsprechung des BAG muss die unternehmerische Entscheidung zum Zeitpunkt des Kündigungsausspruchs bereits feststehen und zu einem dauerhaften Wegfall des Beschäftigungsbedarfs führen. Eine bloß geplante oder erst in Verhandlung befindliche Auslagerung reicht nicht.
+Laut Weber und dem Inhalt des Gesprächs vom März 2026 war der Outsourcing-Vertrag mit DataFlow Solutions GmbH, Frankfurt, zum Zeitpunkt des Gesprächs "strategisch beschlossen, aber noch in Verhandlung". Die Kündigung datiert vom 28. April 2026. Nach Webers Kenntnisstand war der Vertrag zu diesem Zeitpunkt noch nicht unterzeichnet. Dies ist ein erheblicher Einwand: Nach ständiger Rechtsprechung des BAG muss die unternehmerische Entscheidung zum Zeitpunkt des Kündigungsausspruchs bereits feststehen und zu einem dauerhaften Wegfall des Beschäftigungsbedarfs führen. Eine bloß geplante oder erst in Verhandlung befindliche Auslagerung reicht nicht.
 
 ---
 
 ## 2. Mandantenwunsch
 
 1. Primär: **Weiterbeschäftigung** — Kündigung angreifen, Feststellung der Unwirksamkeit
-2. Hilfsweise: **Abfindung** — „Keine Einigung unter EUR 25.000" (Weber explizit)
-3. Weber fragt nach der „Abfindungsformel": Hinweis erteilt (½ Monatsgehalt × Betriebsjahre = orientierungsweise EUR 19.800 bis EUR 29.100)
+2. Hilfsweise: **Abfindung** — "Keine Einigung unter EUR 25.000" (Weber explizit)
+3. Weber fragt nach der "Abfindungsformel": Hinweis erteilt (½ Monatsgehalt × Betriebsjahre = orientierungsweise EUR 19.800 bis EUR 29.100)
 
 ---
 

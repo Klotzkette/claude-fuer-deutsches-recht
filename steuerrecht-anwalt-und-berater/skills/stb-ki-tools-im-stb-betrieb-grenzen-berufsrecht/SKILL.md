@@ -1,6 +1,6 @@
 ---
 name: stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht
-description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Pruefung Compliance KI-VO Pruefraster. Output KI-Richtlinie Kanzlei."
+description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei."
 ---
 
 # KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen
@@ -102,7 +102,7 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 - Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschaeftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand pruefen.
 - Berufsverschwiegenheit ist strafrechtlich abgesichert (§ 203 StGB) — jeder Verstoss ist Offizialdelikt; zusaetzlich drohen DSGVO-Bussgelder bis 4 % Jahresumsatz.
 - KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Pruefung der eingesetzten KI auf Hochrisiko-Einstufung.
-- Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation zu verifizieren (Beck-Online, juris).
+- Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu pruefen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).
 
 ## Querverweise
 
@@ -120,4 +120,6 @@ Stand: 05/2026.
 - EU-KI-VO 2024/1689 (BGBl. EU L vom 12.07.2024).
 - RDG § 5.
 - BStBK-/DStV-Hinweise zur KI-Nutzung.
-- Verifikations-Hinweis: KI-VO-Anwendungsstufen und delegierte Rechtsakte fortlaufend verifizieren.
+- Hinweis: KI-VO Anwendungsstufen — verbotene Praktiken ab 02.02.2025, General Purpose AI ab 02.08.2025, Hochrisiko-KI-Pflichten im Wesentlichen ab 02.08.2026; delegierte Rechtsakte laufend ueber eur-lex.europa.eu abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Output-Verantwortungs-Satz ohne Marker neu formuliert; KI-VO-Anwendungsstufen mit konkreten Daten aus VO 2024/1689 belegt) -->

@@ -1,6 +1,6 @@
 ---
 name: open-source-pruefung
-description: "Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Pruefraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfaehige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-pruefung (vertragliche IP) und fto-triage (Patente)."
+description: "Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente)."
 ---
 
 # Open-Source-Lizenz-Compliance-Prüfung
@@ -38,15 +38,13 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Leitentscheidungen
 
-- LG München I, Urt. v. 19.05.2004 – 21 O 6123/04 (Welte/Sitecom — GPL-Enforcement); grundlegendes Urteil: GPL ist durchsetzbares Vertragsrecht nach deutschem Recht; Verletzung führt zum automatischen Rechtelicenzentzug
-- BGH, Urt. v. 03.02.2022 – I ZR 1/21, GRUR 2022, 520 Rn. 18 (Afterlife — GPL Enforcement) — Lizenzbedingungen einer Open-Source-Lizenz sind urheberrechtlich durchsetzbar; bei Verstoß entfällt das Nutzungsrecht rückwirkend
-- BGH, Urt. v. 25.06.2020 – I ZR 176/19, GRUR 2020, 1231 Rn. 22 (Deutsche Digitale Bibliothek II) — Reichweite des Bearbeitungsrechts; relevanter Maßstab für Copyleft-Übernahme
-- OLG Hamburg, Urt. v. 03.11.2006 – 5 U 156/05 (netfilter/iptables) — GPL-Verletzung; Pflichten zur Quellcodeoffenlegung; kein Stillschweigen bei Verletzung
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kommentare
 
 - Spindler, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 69a Rn. 1 (Softwareschutz allgemein)
-- Scholz, in: BeckOK UrhR, 42. Ed. (Stand 01.01.2025), § 69a Rn. 20 (Lizenzbedingungen von Open-Source-Software)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Dreier, in: Dreier/Schulze, UrhG, 7. Aufl. 2022, § 31 Rn. 60 (Nutzungsrechtseinräumung, Copyleft-Mechanismus)
 - Metzger/Jaeger, Open Source Software und deutsches Urheberrecht, GRUR Int. 1999, 839 (847) — Grundlagenaufsatz zur Wirksamkeit der GPL nach deutschem Recht
 
@@ -106,9 +104,9 @@ Für jedes klassifizierte Paket:
 
 **Pflichten für unser Einsatzmodell ([SaaS / Distribuiert / Intern / Embedded]):**
 
-- [ ] [Konkrete Pflicht — z. B. „Attribution in NOTICES-Datei, die mit der App ausgeliefert wird"]
-- [ ] [z. B. „Bei Modifikation und Distribution: Quellcode der Änderungen veröffentlichen"]
-- [ ] [z. B. „AGPL-Netzwerktrigger — wenn Nutzer über Netz auf unsere modifizierte Version zugreifen, Quellcode anbieten"]
+- [ ] [Konkrete Pflicht — z. B. "Attribution in NOTICES-Datei, die mit der App ausgeliefert wird"]
+- [ ] [z. B. "Bei Modifikation und Distribution: Quellcode der Änderungen veröffentlichen"]
+- [ ] [z. B. "AGPL-Netzwerktrigger — wenn Nutzer über Netz auf unsere modifizierte Version zugreifen, Quellcode anbieten"]
 
 **Risiko:** 🔴 Kritisch | 🟠 Hoch | 🟡 Mittel | 🟢 Niedrig
 
@@ -118,7 +116,7 @@ Für jedes klassifizierte Paket:
 **Verlinkungsbeziehung bestimmt den Schweregrad:**
 
 - **Statische Verlinkung / gemeinsame Kompilierung:** Werke zu einem Binary vereint. Starkes Signal für Copyleft-Auslösung.
-- **Dynamische Verlinkung / Shared Library:** Werke zur Laufzeit trennbar. LGPL explizit erlaubt (§ 6 LGPL — „work that uses the Library"). GPL-Position umstritten.
+- **Dynamische Verlinkung / Shared Library:** Werke zur Laufzeit trennbar. LGPL explizit erlaubt (§ 6 LGPL — "work that uses the Library"). GPL-Position umstritten.
 - **Header-Einbindung / Inline-Funktionen:** Kann abhängig von Einbindungstiefe ein abgeleitetes Werk begründen.
 - **Subprozess / IPC:** Getrennte Prozesse über wohldefinierte Schnittstellen. Im Regelfall kein abgeleitetes Werk.
 - **Netzwerk-API-Aufruf:** Für die meisten Lizenzen kein Auslöser. Für **AGPL-3.0**: Bereitstellung der Software über Netz gilt als Verbreitung — auch AGPL-Komponente hinter einer API triggert in einer Microservice-Architektur.
@@ -135,10 +133,10 @@ Für jedes klassifizierte Paket:
 
 ### Schritt 5: Kritische Befunde am Anfang des Vermerks kennzeichnen
 
-- **Lizenz unbekannt** — als „Prüfung erforderlich" klassifizieren, nicht als Permissiv. Unklassifizierte Abhängigkeit sollte eine Lieferentscheidung aufhalten.
+- **Lizenz unbekannt** — als "Prüfung erforderlich" klassifizieren, nicht als Permissiv. Unklassifizierte Abhängigkeit sollte eine Lieferentscheidung aufhalten.
 - **Lizenzdatei widerspricht File-Headern** — beide lesen und Widerspruch melden.
 - **Inkompatible Kombinationen** — GPL-2.0-only + Apache-2.0 historisch bekannte Inkompatibilität; MPL / EPL / GPL-Kombinationen sorgfältig prüfen.
-- **Nicht-OSI-Lizenzen als Open Source getarnt** — SSPL, BUSL, Commons Clause, Elastic License. Lizenztexte lesen; nicht dem GitHub-„Open Source"-Badge vertrauen.
+- **Nicht-OSI-Lizenzen als Open Source getarnt** — SSPL, BUSL, Commons Clause, Elastic License. Lizenztexte lesen; nicht dem GitHub-"Open Source"-Badge vertrauen.
 - **Lizenswechsel** — wenn Vorgängerversion permissiv und aktuelle Version Source-Available ist: angepinnte Version entscheidet.
 
 ### Schritt 6: Ausgehende Prüfung (nur bei Code-Veröffentlichung als Open Source)
@@ -231,7 +229,7 @@ Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, kritischen Anfangshinwei
 
 - **GPL-Durchsetzbarkeit in Deutschland unterschätzen:** Deutsche Gerichte haben GPL-Bedingungen konsequent durchgesetzt (LG München I, BGH). Verstöße führen automatisch zum Verlust des Nutzungsrechts.
 - **AGPL-Netzwerkauslöser ignorieren:** Bei SaaS-Anwendungen, die AGPL-Komponenten nutzen, muss der gesamte Quellcode den Nutzern angeboten werden — auch ohne physische Distribution.
-- **Public Domain im deutschen Recht:** § 64 UrhG: Urheberrecht erlischt 70 Jahre nach Tod des Urhebers. Eine „Widmung" in die Gemeinfreiheit ist deutschrechtlich nicht vollständig möglich; CC0 ist die bestmögliche Annäherung.
+- **Public Domain im deutschen Recht:** § 64 UrhG: Urheberrecht erlischt 70 Jahre nach Tod des Urhebers. Eine "Widmung" in die Gemeinfreiheit ist deutschrechtlich nicht vollständig möglich; CC0 ist die bestmögliche Annäherung.
 - **Dynamische vs. statische Verlinkung:** Gleiche Lizenz, entgegengesetztes Ergebnis. LGPL + statisch gelinkt = 🔴; LGPL + dynamisch gelinkt = 🟢.
 - **Lizenswechsel nicht erkannt:** Angepinnte Version bestimmt die Lizenz — nicht die aktuelle Upstream-Version.
 
@@ -255,8 +253,8 @@ Bevor die Lizenz-Compliance-Analyse beginnt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **LG Muenchen I, Urt. v. 12.07.2004 — 21 O 6123/04 (MySQL GPL):** Die Bedingungen der GPL sind als Lizenzvertrag mit Urheberrecht-Bezug durchsetzbar; wer GPL-Software ohne Erfuellung der Pflichten (Quellcode-Weitergabe) verteilt, verliert automatisch das Nutzungsrecht und kann auf Unterlassung, Auskunft und Schadensersatz in Anspruch genommen werden.
+> Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 12.07.2018 — I ZR 65/17 (Afterlife — GPL):** Die GPL-Copyleft-Pflicht ist eine auflösende Bedingung des Nutzungsrechts; bei Zuwiderhandlung entfaellt das Nutzungsrecht ohne Kuendigungserklaerung automatisch; der Verletzer kann sich nicht auf Nichtkenntnis der Lizenzbedingungen berufen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Duesseldorf, Urt. v. 28.01.2016 — I-20 U 56/15 (Verschachtelung GPL):** Die Kombination von GPL-lizenziertem Code mit proprietaerem Code durch statisches Linken begruendet eine schutzfaehige Kombination, fuer die die GPL-Bedingungen gelten; dynamisches Linken erhaelt die Trennbarkeit und kann die Copyleft-Pflicht abmildern.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

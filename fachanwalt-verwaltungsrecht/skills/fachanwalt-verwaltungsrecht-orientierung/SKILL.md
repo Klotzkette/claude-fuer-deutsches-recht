@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-orientierung
-description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Pruefraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Ueberblick. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Detailarbeit in Spezialskills; Mandats-Triage siehe mandat-triage-verwaltungsrecht."
+description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Überblick. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Detailarbeit in Spezialskills; Mandats-Triage siehe mandat-triage-verwaltungsrecht."
 ---
 
 # Fachanwalt für Verwaltungsrecht — Orientierung
@@ -16,7 +16,7 @@ description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzu
 |---|---|
 | Verwaltungsverfahren | VwVfG (Bund) Landes-VwVfG |
 | Verwaltungsprozess | VwGO §§ 40 ff. 80 86b 123 |
-| Allgemeines Verwaltungsrecht | Maurer/Waldhoff Hartmann Grundbegriffe |
+| Allgemeines Verwaltungsrecht | Quellenprüfung Hartmann Grundbegriffe |
 | Polizei- und Ordnungsrecht | Polizei- und Ordnungsgesetze der Länder (PolG NRW BayPAG) |
 | Baurecht | BauGB BauNVO Landesbauordnungen |
 | Beamtenrecht | BeamtStG BBG Landesbeamtengesetze |
@@ -47,24 +47,16 @@ description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzu
 - OVG / VGH Berufung und Normenkontrolle.
 - BVerwG Leipzig Revision.
 
-## Standardliteratur
+## Quellenregel
 
-- Eyermann, VwGO.
-- Kopp/Schenke, VwGO und VwVfG.
-- Schoch/Schneider, VwGO/VwVfG.
-- Stelkens/Bonk/Sachs, VwVfG.
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Verwaltungsrecht DAV.
 
 ## Aktuelle Rechtsprechung (Leitsaetze)
 
-- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Klagebefugnis Dritter bei Genehmigungen; § 42 Abs. 2 VwGO setzt moeglich eigene Rechtsverletzung voraus; Schutznorm-Theorie gilt auch im Umweltverwaltungsrecht.
-- BVerwG, Urt. v. 14.11.2022 — 4 C 2.21, NVwZ 2023, 567 — Abwaegungsgebot § 1 Abs. 7 BauGB; fehlerhafte Ermiittlung des Abwaegungsmaterials fuehrt zur Unwirksamkeit des Bebauungsplans; Heilung nach § 215 BauGB setzt vollstaendige Neuplanung voraus.
-- BVerwG, Beschl. v. 12.07.2022 — 7 B 5.22, DVBl 2022, 1345 — Vorverfahrenspflicht nach Wegfall in Landesrecht; Widerspruch bleibt aus Vorsicht ratsam um Fristwahrung sicherzustellen.
-- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Gebot effektiven Rechtsschutzes Art. 19 Abs. 4 GG; Eilrechtsschutz § 80 Abs. 5 VwGO muss effektive Abwaegung leisten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Fristen im Ueberblick
 
@@ -78,12 +70,9 @@ description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzu
 | Verfassungsbeschwerde | 1 Monat | § 93 BVerfGG |
 | Revisionsantrag | 1 Monat | § 139 VwGO |
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 1-25 (Grundbegriffe, Handlungsformen, Rechtsquellen)
-- Stelkens/Bonk/Sachs VwVfG §§ 28, 35, 39, 41, 48, 49 (Verfahrensrecht detailliert)
-- Kopp/Schenke VwGO §§ 42, 68, 74, 80, 113, 124a (Prozessrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schnittstellen
 
 - **kanzlei-allgemein** fuer Fristen Versand.

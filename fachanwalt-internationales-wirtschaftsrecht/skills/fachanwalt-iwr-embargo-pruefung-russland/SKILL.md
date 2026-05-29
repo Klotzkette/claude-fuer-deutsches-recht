@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-embargo-pruefung-russland
-description: "Sanktions-Pruefung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermoegen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Pruefung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Pruefung."
+description: "Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung."
 ---
 
 # Embargo-Prüfung Russland-Sanktionen
@@ -38,10 +38,7 @@ description: "Sanktions-Pruefung EU-Russland-Sanktionen VO 833/2014 und VO 269/2
 
 ### Leitentscheidungen
 
-- EuGH, Urt. v. 14.10.2021 — C-338/19 (Rosneft): Vorrang EU-Sanktionsrecht, enge nationalen Ausnahmen.
-- EuGH, Urt. v. 28.03.2017 — C-72/15 (Rosneft I): Gültigkeit VO 833/2014 bestätigt.
-- BGH, Urt. v. 12.07.2018 — IX ZR 182/17: Sanktionsverstoß = Nichtigkeit des Vertrages (§ 134 BGB).
-- LG Berlin, Beschl. v. 16.08.2022 — 17 O 234/22: Einstweilige Verfügung bei Sanktionsverdacht Kontosperrung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Musterentscheidungen zu Art. 5a VO 833/2014 (Dienstleistungsverbote) — laufend aktualisiert.
 
 ## Prüfschema
@@ -219,18 +216,13 @@ Mit freundlichen Gruessen
 - VO (EU) 269/2014 in der aktuell geltenden Fassung
 - AWG, AWV in aktueller Fassung
 - GwG §§ 43, 11
-- EuGH C-338/19; C-72/15
-- BGH IX ZR 182/17
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Merkblätter Exportkontrolle und Sanktionen
 - EU-Sanctions Map: financial-sanctions.eu
 
 ## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 28.03.2017 - C-72/15 (Rosneft I), EuZW 2017, 389 — Sektorsanktionen VO 833/2014 beeintraechtigen nicht das Eigentumsrecht unverhältnismaessig; der EuGH bestaetigt die Gueltigkeit von Artikel 1 Buchstabe b Ziff. ii der VO und stellt klar, dass Gerichtsbarkeit nationaler Gerichte fuer Schadensersatzklagen besteht.
-- EuGH, Urt. v. 16.11.2017 - C-599/16 (LTTE), NJW 2018, 218 — Anforderungen an Listungsbegruendung: die Sanktionsliste muss hinreichend substantiierte Tatsachen enthalten; blosser Verdacht genuegt nicht fuer die Aufnahme.
-- BGH, Urt. v. 12.07.2018 - IX ZR 182/17, NJW 2018, 3023 — Vertrag mit sanktionierter Person ist nach § 134 BGB nichtig; kein Ruckgriffsrecht auf Leistungskondiktion des § 812 BGB wenn Sanktionsverstoß Willenserklarung infiziert.
-- OLG Frankfurt, Urt. v. 14.02.2023 - 16 U 180/22, BeckRS 2023, 5611 — Vertragliche Sanktionsklausel berechtigt zur fristlosen Kundigung ohne Schadensersatzpflicht, wenn Listung nach Vertragsschluss erfolgt; Verzug des Schuldners tritt nicht ein, wenn Leistungserbringung sanktionsrechtlich verboten ist.
-- BVerwG, Urt. v. 25.05.2022 - 6 C 3.21, NVwZ 2022, 1398 — BAFA-Ablehnungsbescheid bei Dual-Use-Gutern mit Russland-Bezug: Benutzung von § 42 AWV-Genehmigungsvorbehalt ist ultima ratio; Verhältnismaessigkeitsprufung beinhaltet wirtschaftliche Interessen des Antragstellers.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Embargo-Pruefung
 
@@ -241,12 +233,9 @@ Mit freundlichen Gruessen
 - **§ 134 BGB** — Nichtigkeit des Rechtsgeschaefts bei Verstoß gegen gesetzliches Verbot
 - **§ 31 OWiG** — Verjährung der Verbandsgeldbuße; § 78 Abs. 3 Nr. 4 StGB — Strafverfolgungsverjährung 5 Jahre
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bierwagen/Riemer, Exportkontrollrecht, C.H. Beck, 4. Aufl. 2023 — Standardwerk zu AWG/AWV und EU-Sanktionsrecht
-- Vogt/Fischer, in: MuKo Strafrecht, AWG §§ 17-19 — strafrechtliche Sanktionierung von Embargoverstoessen
-- Riegger, Sanktionsrecht, Kommentar, De Gruyter 2022 — systematisch zu EU-Russland-Sanktionspaketen
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Sanktionsrechtliches Pruefungsmemo
 
 **Adressat:** Geschaftsfuehrung / Compliance-Abteilung des Mandanten

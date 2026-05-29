@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-arbeitgeber
-description: "Aussergerichtliches Berichtigungsverlangen an den Arbeitgeber. Aufbau mit Mandatsanzeige, konkreter Beanstandung pro Streitstelle (Wortlaut alt, Wortlaut neu, Begruendung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Fristsetzung, Klageandrohung und Kostenfolge. Hoeflich-bestimmter Ton, juristisch sauber, ohne Drohgebaerden. Vorlage und Bausteine."
+description: "Außergerichtliches Berichtigungsverlangen an den Arbeitgeber. Aufbau mit Mandatsanzeige, konkreter Beanstandung pro Streitstelle (Wortlaut alt, Wortlaut neu, Begründung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Fristsetzung, Klageandrohung und Kostenfolge. Hoeflich-bestimmter Ton, juristisch sauber, ohne Drohgebaerden. Vorlage und Bausteine."
 ---
 
 # Aufforderungsschreiben an den Arbeitgeber
@@ -9,7 +9,7 @@ Nach dem Mandantenbericht und Zustimmung des Mandanten zur Option B (oder als Pf
 
 ## Funktion und Wirkung
 
-Das Aufforderungsschreiben hat drei Funktionen. Es ist die zwingende prozessuale Vorstufe (ohne erfolgloses aussergerichtliches Verlangen ist eine Klage nicht zulaessig). Es ist die letzte Chance fuer eine guetliche Loesung ohne Gericht. Es ist die Beweisgrundlage fuer Verzug und Kostenerstattung im spaeteren Verfahren.
+Das Aufforderungsschreiben hat drei Funktionen. Es gibt dem Arbeitgeber eine faire Gelegenheit zur Korrektur, schärft die Streitpunkte für eine mögliche Klage und schafft eine saubere Grundlage für Fristsetzung, Verzug und Kostenargumente. Es sollte fast immer vor einer Klage stehen, aber nicht als starre Zulässigkeitsformel behauptet werden.
 
 Der Ton ist hoeflich, sachlich und bestimmt. Drohgebaerden sind kontraproduktiv. Die Klageandrohung erfolgt einmal am Ende, klar und ohne Eskalation. Beleidigungen, Empoerungssprache und ironische Spitzen schwaechen die spaetere Prozessposition.
 
@@ -33,11 +33,11 @@ Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts i
 
 ### Baustein 5 Schlussformel und Gesamtbild
 
-Pruefung der Schlussformel mit Dankesformel und Bedauern. Bei Arbeitgeberkuendigung oder einvernehmlicher Beendigung wird das Bedauern in der Regel beansprucht. Bei einer Arbeitnehmerkuendigung oder Eigenkuendigung ist zumindest die Dankesformel zu erwarten. Die Begruendung erfolgt mit Verweis auf die Funktion der Schlussformel im Bewerbungsverkehr.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Baustein 6 Fristsetzung
 
-Konkrete kalendermaessige Frist mit Datum (kein „binnen zwei Wochen"). Empfohlen sind zwei bis drei Wochen ab Zugang. Bei Eilbeduerftigkeit (anstehendes Vorstellungsgespraech) kuerzere Frist mit Begruendung. Hinweis auf Verzug bei fruchtlosem Fristablauf.
+Konkrete kalendermaessige Frist mit Datum (kein "binnen zwei Wochen"). Empfohlen sind zwei bis drei Wochen ab Zugang. Bei Eilbeduerftigkeit (anstehendes Vorstellungsgespraech) kuerzere Frist mit Begruendung. Hinweis auf Verzug bei fruchtlosem Fristablauf.
 
 ### Baustein 7 Klageandrohung
 
@@ -57,11 +57,11 @@ Unsere Mandantin hat von Ihnen am [Datum] das beigefuegte qualifizierte Zeugnis 
 
 Wir beanstanden im Einzelnen:
 
-**Punkt 1 Arbeitsweise.** Sie haben formuliert: „Sie bemuehte sich, die ihr uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen." Diese Formulierung beschreibt nach gefestigter Rechtsprechung des BAG (etwa BAG vom 14. Oktober 2003, Az. 9 AZR 12/03) eine schlechtere als ausreichende Leistung. Sie steht in Widerspruch zu der von Ihnen gleichzeitig formulierten Gesamtzufriedenheit „stets zur vollen Zufriedenheit" in der Schlussformel. Wir bitten um folgende Formulierung: „Sie erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit."
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Punkt 2 Schlussformel.** Die Schlussformel enthaelt keine Dankesformel und kein Bedauern ueber das Ausscheiden. Da das Arbeitsverhaeltnis durch arbeitgeberseitige Kuendigung beendet wurde, entspricht das Fehlen einer Bedauernsformel weder dem Wohlwollensgebot noch der gefestigten Erwartungshaltung im Bewerbungsverkehr. Wir bitten um folgende Schlussformel: „Wir bedauern das Ausscheiden von Frau [Name], danken ihr fuer die geleistete Arbeit und wuenschen ihr fuer ihren weiteren beruflichen und persoenlichen Lebensweg alles Gute."
+**Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Ob daraus ein einklagbarer Berichtigungsanspruch folgt, ist nur nach live verifizierter Rechtsprechung zu bewerten. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: "Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
 
-**Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: „Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
+**Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: "Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
 
 [Weitere Punkte analog.]
 
@@ -80,8 +80,8 @@ Anlagen: Vollmacht, Zeugnis vom [Datum], Vorzeugnis vom [Datum]
 | Regel | Hinweis |
 | --- | --- |
 | Hoeflich, bestimmt, sachlich | Keine Drohgebaerden, kein Empoerungston |
-| Konkrete Wortlaute, nicht „bitte verbessern" | Pro Streitstelle alter und neuer Wortlaut in Anfuehrungszeichen |
-| Belege fuer Geheimcodes | BAG-Rechtsprechung, Standardliteratur, kein Verweis auf interne Notenmatrix |
+| Konkrete Wortlaute, nicht "bitte verbessern" | Pro Streitstelle alter und neuer Wortlaut in Anfuehrungszeichen |
+| Belege fuer Geheimcodes | BAG-Rechtsprechung, Quellenprüfung, kein Verweis auf interne Notenmatrix |
 | Frist kalendermaessig | Konkretes Datum, keine Zeitspanne ohne Anker |
 | Klageandrohung nur am Ende | Einmal, knapp, ohne Wiederholung |
 | Schlussformel mit Anlagenverzeichnis | Vollmacht, Zeugnis, Vorzeugnis, Korrespondenz |
@@ -98,10 +98,8 @@ Bleibt die Frist fruchtlos, geht es weiter mit `klage-strategie-zeugnisberichtig
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 14.10.2003 — 9 AZR 12/03**, NZA 2004, 428 — Aussergerichtliches Berichtigungsverlangen ist zwingende Voraussetzung der Klage; pauschale Aufforderung „bitte verbessern" genügt nicht; konkrete Streitstellen mit Alternativformulierung müssen benannt werden.
-- **BAG, Urt. v. 21.09.1999 — 9 AZR 893/98**, NZA 2000, 374 — Klagbarkeit von Schlussformelfehlern; Arbeitnehmer kann Aufnahme der vollständigen dreiteiligen Schlussformel verlangen, wenn Betriebsübung oder Umstände des Einzelfalls dies ergeben.
-- **LAG München, Urt. v. 09.09.2021 — 3 Sa 268/21** — Fristsetzung im Berichtigungsverlangen: zwei bis drei Wochen sind angemessen; bei Eilbedürftigkeit (z.B. unmittelbares Vorstellungsgespräch) auch kürzere Frist vertretbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 30 ff. (Berichtigungsanspruch, Geltendmachung, Verjährung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: sachlichkeitsgebot-anwendung
-description: "Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Pruefraster: unsachliche Formulierungen Emotionalisierung Abwertungen Versachlichungspotenzial. Output: Pruefprotokoll ueberarbeitete sachliche Version. Abgrenzung: systematischer Sachlichkeits-Skill; nicht fuer spezifische Situationen wie Ironie oder Angriffe."
+description: "Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen Versachlichungspotenzial. Output: Prüfprotokoll ueberarbeitete sachliche Version. Abgrenzung: systematischer Sachlichkeits-Skill; nicht für spezifische Situationen wie Ironie oder Angriffe."
 ---
 
 # Sachlichkeitsgebot-Anwendung
@@ -17,26 +17,26 @@ Erlaubte Kritik ist sachbezogen, bezieht sich auf nachprüfbare Tatsachen oder k
 
 ## Tatsachenbehauptungen vs. Werturteile
 
-Tatsachenbehauptungen sind einer Wahrheitsprüfung zugänglich und müssen wahr sein oder zumindest auf ausreichenden tatsächlichen Anhaltspunkten beruhen. Werturteile sind Meinungsäußerungen, die verfassungsrechtlich durch Art. 5 Abs. 1 GG geschützt sind — aber auch Werturteile können in Schmähkritik umschlagen. Die Aussage „Ihr Schriftsatz enthält keine Auseinandersetzung mit § 284 BGB" ist eine prüfbare Tatsachenbehauptung. Die Aussage „Ihr Schriftsatz ist eine Frechheit" ist ein Werturteil, das keine sachliche Auseinandersetzung enthält.
+Tatsachenbehauptungen sind einer Wahrheitsprüfung zugänglich und müssen wahr sein oder zumindest auf ausreichenden tatsächlichen Anhaltspunkten beruhen. Werturteile sind Meinungsäußerungen, die verfassungsrechtlich durch Art. 5 Abs. 1 GG geschützt sind — aber auch Werturteile können in Schmähkritik umschlagen. Die Aussage "Ihr Schriftsatz enthält keine Auseinandersetzung mit § 284 BGB" ist eine prüfbare Tatsachenbehauptung. Die Aussage "Ihr Schriftsatz ist eine Frechheit" ist ein Werturteil, das keine sachliche Auseinandersetzung enthält.
 
 ## BVerfG-Rechtsprechung
 
-Das Bundesverfassungsgericht hat in der Entscheidung 1 BvR 2477/08 bestätigt, dass das Sachlichkeitsgebot für Rechtsanwälte die Meinungsfreiheit verfassungsgemäß einschränkt. Anwälte genießen Meinungsfreiheit, müssen aber als Organe der Rechtspflege einen höheren Sachlichkeitsstandard wahren als der allgemeine Bürger. Die Grenze zur unzulässigen Äußerung liegt dort, wo der sachliche Bezug zur Rechtsverfolgung fehlt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Berufsrechtlicher Hintergrund
 
-§ 43a Abs. 3 BRAO und § 59b Abs. 2 Nr. 1 Buchst. d BRAO (Satzungsermächtigung). Ergänzend: § 6 BORA. Einschlägige Entscheidungen: BVerfG 1 BvR 2477/08 zur Verfassungsmäßigkeit des Sachlichkeitsgebots; BGH AnwZ (Brfg) 2/12 zur Abgrenzung Kritik und Herabsetzung; AGH NRW Entscheidung zur Schmähkritik in Schriftsätzen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Das Gericht hat offensichtlich nicht einmal die Klageschrift gelesen."
-**Nachher:** Werturteil mit sachlichem Bezug zulässig, wenn begründet. Besser: „Die Urteilsbegründung geht auf den Vortrag unter Ziffer 3 der Klageschrift nicht ein."
+**Vorher:** "Das Gericht hat offensichtlich nicht einmal die Klageschrift gelesen."
+**Nachher:** Werturteil mit sachlichem Bezug zulässig, wenn begründet. Besser: "Die Urteilsbegründung geht auf den Vortrag unter Ziffer 3 der Klageschrift nicht ein."
 
-**Vorher:** „Die Gegenpartei handelt rechtsmissbräuchlich und verwerflich."
-**Nachher:** Tatsachenbehauptung; Rechtsmissbrauch muss konkret belegt werden. Konform: „Es bestehen Anhaltspunkte für rechtsmissbräuchliches Verhalten, insbesondere aufgrund von X."
+**Vorher:** "Die Gegenpartei handelt rechtsmissbräuchlich und verwerflich."
+**Nachher:** Tatsachenbehauptung; Rechtsmissbrauch muss konkret belegt werden. Konform: "Es bestehen Anhaltspunkte für rechtsmissbräuchliches Verhalten, insbesondere aufgrund von X."
 
-**Vorher:** „Ich erwarte von einem Richter, dass er das Gesetz kennt."
-**Nachher:** Herabsetzend. Konform: „Ich bitte das Gericht, die Ausführungen zu § 284 BGB in der Berufungsbegründung zu berücksichtigen."
+**Vorher:** "Ich erwarte von einem Richter, dass er das Gesetz kennt."
+**Nachher:** Herabsetzend. Konform: "Ich bitte das Gericht, die Ausführungen zu § 284 BGB in der Berufungsbegründung zu berücksichtigen."
 
 ## Ausgabeformat
 

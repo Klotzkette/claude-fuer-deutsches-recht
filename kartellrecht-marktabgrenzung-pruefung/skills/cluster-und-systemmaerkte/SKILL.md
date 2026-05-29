@@ -1,6 +1,6 @@
 ---
 name: cluster-und-systemmaerkte
-description: "Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prueft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Pruefraster Pelikan-Doktrin Kyocera-Doktrin eigenstaendiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen fuer Plattform-Spezifika."
+description: "Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pelikan-Doktrin Kyocera-Doktrin eigenständiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen für Plattform-Spezifika."
 ---
 
 # Cluster- und Systemmärkte
@@ -31,11 +31,11 @@ Systemmärkte bestehen aus einem Primärmarkt (z.B. Gerät, Maschine, Software) 
 
 ### Pelikan-Doktrin
 
-Der EuGH hat in *Pelikan/Kyocera* (EuGH C-8/95 P — *Gründig/Consten*, und EuG-Praxis) das Verhältnis primärer/sekundärer Märkte behandelt. Kernaussage: Der Aftermarkt ist eigenständiger relevanter Markt, wenn Nachfrager nach dem Kauf des Primärprodukts nicht mehr frei substituieren können (lock-in).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### EuGH — Bronner
 
-EuGH, Rs. C-7/97 — *Oscar Bronner* (1998): Zugang zur Infrastruktur (Zeitungszustellnetz) als separates Marktbedürfnis.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Eigenständiger Aftermarkt — Voraussetzungen
 
@@ -64,9 +64,8 @@ Liegt ein Cluster- oder Systemmarkt vor? Begründung und Auswirkung auf Marktant
 ## Leitentscheidungen Cluster- und Systemmaerkte
 
 - EK, Entsch. v. 22.07.2009 — COMP/M.5529 (Oracle/Sun Microsystems) — Systemmarkt Hardware/Software; Buendelungsstrategien als wettbewerbsrelevante Faktoren; After-Sales-Markt separat zu betrachten.
-- EuGH, Urt. v. 22.01.2013 — C-283/11 (Sky Oesterreich), NJW 2013, 1205 — Systemprodukte und Nutzerbindung; Wechselkosten als Marktmacht-Indikator.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Plattform-Oekosystem als Systemmarkt; Netzwerkeffekte zwischen Marktseiten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 15-35 (Systemmaerkte, mehrseitige Maerkte, Netzwerkeffekte)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -18,18 +18,16 @@ Die Funktion des Aktenauszugs unterscheidet sich grundlegend von der Funktion ei
 
 Die Struktur des Aktenauszugs orientiert sich an den Anforderungen des deutschen Prozessrechts, wie es insbesondere in folgenden Standardwerken dargestellt wird:
 
-- **Zöller, Zivilprozessordnung** (Kommentar, C.H. Beck) — maßgebend für die Darstellung des Zivilverfahrens, der Fristen und der Verfahrensstruktur
-- **Thomas/Putzo, Zivilprozessordnung** (Kommentar, C.H. Beck) — ergänzend für Verfahrensfragen und Rechtsprechungshinweise
-- **Münchener Kommentar zur Zivilprozessordnung** (C.H. Beck) — für dogmatische Fragen zur Struktur der Schriftsätze und Beweisaufnahme
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Für strafprozessuale Verfahren:
 
-- **Meyer-Goßner/Schmitt, Strafprozessordnung** (Kommentar, C.H. Beck) — für StPO-Verfahrensschritte und Fristen
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Löwe-Rosenberg, Die Strafprozessordnung** (Großkommentar, de Gruyter) — für komplexe strafprozessuale Fragen
 
 Für verwaltungsgerichtliche Verfahren:
 
-- **Kopp/Schenke, Verwaltungsgerichtsordnung** (Kommentar, C.H. Beck) — für VwGO-Fristen und Verfahrensstruktur
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Schoch/Schneider, Verwaltungsgerichtsordnung** (Kommentar, C.H. Beck) — für vertiefte Fragen
 
 ---
@@ -52,7 +50,7 @@ Die Formulierung orientiert sich an den Leitsätzen der höchstrichterlichen Rec
 
 ### 2.3 Zusammenfassungsabsatz
 
-Der Zusammenfassungsabsatz mit acht bis zehn Sätzen entspricht dem „Executive Summary" in der angelsächsischen Anwaltspraxis, angepasst an die Anforderungen des deutschen Verfahrensrechts. Er kombiniert tatsächliche und prozessuale Informationen, ohne die Chronologie-Funktion der späteren Bausteine vorwegzunehmen.
+Der Zusammenfassungsabsatz mit acht bis zehn Sätzen entspricht dem "Executive Summary" in der angelsächsischen Anwaltspraxis, angepasst an die Anforderungen des deutschen Verfahrensrechts. Er kombiniert tatsächliche und prozessuale Informationen, ohne die Chronologie-Funktion der späteren Bausteine vorwegzunehmen.
 
 Die Satzanzahl von acht bis zehn ist eine pragmatische Richtgröße: weniger Sätze reichen für einfache Verfahren, mehr Sätze führen zu einer Überfrachtung, die dem Zweck der raschen Orientierung entgegenwirkt.
 
@@ -62,7 +60,7 @@ Die Trennung von Sachverhaltschronologie (außerprozessuale Ereignisse) und Verf
 
 Die Darstellung mit fettgedrucktem Datum am Anfang jedes Eintrags ist der Anlage von Chronologien in der anwaltlichen Ausbildung (Protokollierungstechniken) entlehnt. Die Fundstellenangabe mit Anlagebezeichnung und Blattangabe stellt sicher, dass jede Information verifizierbar ist.
 
-**Grundsatz:** Quod non est in actis non est in mundo. Nur Tatsachen, die in der Akte belegt sind, werden in der Chronologie aufgenommen. Nicht belegte Tatsachen werden mit dem Vermerk „nicht aus Akte ersichtlich" oder mit Quellenvorbehalt aufgenommen.
+**Grundsatz:** Quod non est in actis non est in mundo. Nur Tatsachen, die in der Akte belegt sind, werden in der Chronologie aufgenommen. Nicht belegte Tatsachen werden mit dem Vermerk "nicht aus Akte ersichtlich" oder mit Quellenvorbehalt aufgenommen.
 
 ### 2.5 Verfahrenschronologie und Fristen
 
@@ -92,8 +90,8 @@ Dies gilt insbesondere in Konstellationen, in denen der Aktenauszug von einem Sa
 
 Folgende Formulierungstypen werden in der Neutralitätsprüfung systematisch gesucht und korrigiert:
 
-- Erfolgsprognosen: „wird Erfolg haben", „dürfte begründet sein", „offensichtlich unbegründet"
-- Wertende Adjektive ohne Quellenattribution: „überzeugend", „substanzlos", „unhaltbar"
+- Erfolgsprognosen: "wird Erfolg haben", "dürfte begründet sein", "offensichtlich unbegründet"
+- Wertende Adjektive ohne Quellenattribution: "überzeugend", "substanzlos", "unhaltbar"
 - Implizit parteiische Darstellung: Ausführliche Wiedergabe einer Seite ohne entsprechende Gegenüberstellung
 
 ---
@@ -106,7 +104,7 @@ Das Zivilverfahren ist durch den Verhandlungsgrundsatz (§ 128 ZPO) geprägt: Da
 
 ### 4.2 Strafverfahren (StPO)
 
-Das Strafverfahren ist durch den Amtsermittlungsgrundsatz (§ 244 StPO) und die Unschuldsvermutung geprägt. Der Aktenauszug im Strafverfahren enthält keine Schuldeinschätzung. Die Darstellung der Anklage erfolgt neutral als „Vorwurf der Staatsanwaltschaft".
+Das Strafverfahren ist durch den Amtsermittlungsgrundsatz (§ 244 StPO) und die Unschuldsvermutung geprägt. Der Aktenauszug im Strafverfahren enthält keine Schuldeinschätzung. Die Darstellung der Anklage erfolgt neutral als "Vorwurf der Staatsanwaltschaft".
 
 ### 4.3 Verwaltungsverfahren (VwGO)
 

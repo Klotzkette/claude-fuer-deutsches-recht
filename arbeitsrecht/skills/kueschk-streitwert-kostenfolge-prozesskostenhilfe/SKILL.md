@@ -1,6 +1,6 @@
 ---
 name: kueschk-streitwert-kostenfolge-prozesskostenhilfe
-description: "Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO fuer einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten."
+description: "Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten."
 ---
 
 # Streitwert, Kostenfolge und Prozesskostenhilfe
@@ -67,16 +67,11 @@ Wer die Kosten des Prozesses nicht selbst tragen kann, kann Prozesskostenhilfe (
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 05.06.2003 – 2 AZR 690/02, NZA 2003, 914 — § 12a ArbGG schließt die Kostenerstattung für anwaltliche Vertretung in der ersten Instanz des Arbeitsgerichtsverfahrens vollständig aus; auch bei vollem Obsiegen erhält der Arbeitnehmer seinen Anwalt nicht erstattet.
-- BAG, Beschl. v. 17.12.2009 – 3 AZB 71/09, NZA 2010, 289 — Der Streitwert nach § 42 Abs. 2 GKG bemisst sich nach dem Bruttomonatsgehalt zum Zeitpunkt der Kündigung; Sonderzahlungen und Boni werden nicht eingerechnet, soweit kein Rechtsstreit darüber anhängig ist.
-- BAG, Beschl. v. 04.06.2014 – 3 AZB 10/14, NZA 2014, 1011 — PKH wird nur bewilligt, wenn die Klage hinreichende Aussicht auf Erfolg hat; ein Anspruch, der offensichtlich unbegründet ist, rechtfertigt keine PKH-Bewilligung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Koch, 24. Aufl. 2024, § 12a ArbGG Rn. 1-10 — (Kostenrecht erste Instanz, keine Erstattung)
-- Schwab/Weth, ArbGG, 6. Aufl. 2022, § 12a Rn. 1 ff. — (Ratio legis, Ausnahmen, Berufungsinstanz)
-- Zuck/Gercke, PKH im Arbeitsrecht, 4. Aufl. 2021, § 114 ZPO Rn. 5 ff. — (Bewilligungsvoraussetzungen, Einkommen, Aussichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gewerkschaft als Alternative
 
 Ist der Arbeitnehmer **Gewerkschaftsmitglied**, übernimmt die Gewerkschaft in vielen Fällen die anwaltliche Vertretung und Kosten — prüfe dies zuerst.
@@ -85,7 +80,6 @@ Ist der Arbeitnehmer **Gewerkschaftsmitglied**, übernimmt die Gewerkschaft in v
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 1 ABR 30/02 (29.04.2004): Eintrag geloescht. Skill behauptete Thema: Kostenrecht zweiter Rechtszug ZPO; NZA 2004, 1144. Dejure.org bestaetigt: Tatsaechliches Thema ist Gleitzeit Betriebsvereinbarung Durchfuehrung / Tarifvorrang § 77 BetrVG; NZA 2004, 670. Thema und NZA-Fundstelle beide falsch. Kein verifizierter Ersatz; Eintrag geloescht. Quelle: https://dejure.org/2004,299
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

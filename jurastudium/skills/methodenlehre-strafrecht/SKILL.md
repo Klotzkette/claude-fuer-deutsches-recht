@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-strafrecht
-description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer „Strafrecht-Aufbau\", „Verbrechensaufbau prüfen\", „Konkurrenzen Strafrecht\", „Analogieverbot\" oder „Vorsatz subsumieren\" sagt."
+description: 'Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau", "Verbrechensaufbau prüfen", "Konkurrenzen Strafrecht", "Analogieverbot" oder "Vorsatz subsumieren" sagt.'
+
 ---
 
 # Methodenlehre — Strafrecht
@@ -13,10 +14,7 @@ description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechen
 4. Liegt ein Analogieproblem oder ein Bestimmtheitsproblem (Art. 103 Abs. 2 GG) vor?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Bedingter Vorsatz als methodisch anspruchsvolles Tatbestandsmerkmal: Wissens- und Willenselement muessen getrennt geprueft werden.
-- BGH, Urt. v. 11.12.2018 - 2 StR 391/18, NStZ 2019, 469 — Notwehr § 32 StGB: Gegenwaertigkeit des Angriffs und Erforderlichkeit der Verteidigung als zwingend getrennte Pruefungsschritte.
-- BVerfG, Beschl. v. 23.06.2010 - 2 BvR 2559/08, BVerfGE 126, 170 — Bestimmtheitsgebot Art. 103 Abs. 2 GG: Analogieverbot ist strikt; nur gesetzlich beschriebenes Verhalten ist strafbar.
-- BGH, Urt. v. 28.06.2018 - 3 StR 108/18, NStZ 2019, 28 — Konkurrenzlehre: Tateinheit (§ 52 StGB) erfordert teilweise Identitaet der Tatbeitraege; Tatmehrheit (§ 53 StGB) bei vollstaendig trennbaren Handlungen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 13-35 StGB — Allgemeiner Teil: methodischer Kern des Strafrechts
@@ -24,10 +22,9 @@ description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechen
 - §§ 52, 53 StGB — Konkurrenzlehre: Tateinheit und Tatmehrheit
 - § 15 StGB — Vorsatz als Regelform; Fahrlässigkeit nur bei ausdrucklicher Normierung
 
-## Kommentarliteratur
-- Fischer StGB §§ 13-35 Rn. 1-200 (Allgemeiner Teil: vollstaendige Methodendarstellung)
-- Schoenke/Schroeder StGB Vor § 13 Rn. 1-150 (Verbrechensaufbau und Methodik)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Strafrecht hat den methodisch strengsten Aufbau aller drei großen Rechtsgebiete: dreistufig, formal trennscharf, mit Verboten, die in anderen Rechtsgebieten nicht gelten (Analogieverbot zulasten des Täters, Bestimmtheitsgebot, Rückwirkungsverbot, Schuldprinzip). Wer das innere Gerüst kennt, kann jede Klausur lösen — auch ohne den konkreten Tatbestand auswendig zu wissen.
@@ -60,7 +57,7 @@ Jede Strafrechtsprüfung folgt diesem Schema. Kein Tatbestand wird ohne dieses G
 
 ## Trennung objektiver / subjektiver Tatbestand
 
-Der häufigste Aufbaufehler in Anfängerklausuren: Vorsatz wird beim objektiven Tatbestand mitgeprüft („Da A wusste, dass …"). **Falsch.** Vorsatz ist ein Tatbestandsmerkmal des **subjektiven** Tatbestands und gehört dorthin — vollständig.
+Der häufigste Aufbaufehler in Anfängerklausuren: Vorsatz wird beim objektiven Tatbestand mitgeprüft ("Da A wusste, dass …"). **Falsch.** Vorsatz ist ein Tatbestandsmerkmal des **subjektiven** Tatbestands und gehört dorthin — vollständig.
 
 Subsumtions-Reihenfolge im Vorsatz:
 1. Vorsatz im Hinblick auf jedes objektive Tatbestandsmerkmal einzeln.
@@ -77,11 +74,11 @@ Analoger Schluss zulasten des Täters ist **verboten**. Das gilt für:
 
 **Erlaubt**: Analogie **zugunsten** des Täters (z. B. Erweiterung von Rechtfertigungsgründen, Entschuldigungsgründen).
 
-Wer in der Klausur einen Tatbestand „erweitert", weil das Verhalten „eigentlich auch strafwürdig" sei, ist methodisch raus.
+Wer in der Klausur einen Tatbestand "erweitert", weil das Verhalten "eigentlich auch strafwürdig" sei, ist methodisch raus.
 
 ## Bestimmtheitsgebot
 
-Der Tatbestand muss so bestimmt sein, dass der Bürger vorhersehen kann, was strafbar ist (lex certa). Bei unbestimmten Begriffen („Verwerflichkeit", „Sittenwidrigkeit"): verfassungskonforme Auslegung, die das Bestimmtheitsgebot wahrt.
+Der Tatbestand muss so bestimmt sein, dass der Bürger vorhersehen kann, was strafbar ist (lex certa). Bei unbestimmten Begriffen ("Verwerflichkeit", "Sittenwidrigkeit"): verfassungskonforme Auslegung, die das Bestimmtheitsgebot wahrt.
 
 ## Konkurrenzlehre
 
@@ -102,7 +99,7 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 
 ### Gesetzeskonkurrenz (Scheinkonkurrenz)
 - **Spezialität**: lex specialis derogat legi generali (§ 211 StGB verdrängt § 212 StGB).
-- **Subsidiarität**: ausdrücklich (z. B. § 246 I StGB „wenn die Tat nicht in anderen Vorschriften …") oder konkludent.
+- **Subsidiarität**: ausdrücklich (z. B. § 246 I StGB "wenn die Tat nicht in anderen Vorschriften …") oder konkludent.
 - **Konsumtion**: typische Begleittat geht im Hauptdelikt auf (Sachbeschädigung beim Diebstahl).
 
 ## Auslegung im Strafrecht
@@ -115,7 +112,7 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 ## Drill-Modus
 
 1. Studierender bekommt einen Sachverhalt.
-2. Skill fragt: „Welche Tatbestände kommen in Betracht — und in welcher Reihenfolge prüfst du?"
+2. Skill fragt: "Welche Tatbestände kommen in Betracht — und in welcher Reihenfolge prüfst du?"
 3. Pro Tatbestand: Aufbau strikt dreistufig durchgehen. Skill markiert jeden Aufbaufehler.
 4. Konkurrenzen werden **zum Schluss** geprüft, nicht zwischendrin.
 5. Skill prüft Trennung objektiv/subjektiv besonders streng.
@@ -129,6 +126,5 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 
 ## Was diese Skill nicht tut
 
-- Sie ersetzt nicht Wessels/Beulke/Satzger oder Roxin/Greco.
 - Sie korrigiert keine ausgeschriebenen Gutachten (das macht `gutachten-uebung`).
 - Sie übt nicht den Streit objektive/subjektive Theorie auf Detailniveau — sie übt die Anwendung in der Klausur.

@@ -23,12 +23,12 @@
 | Nutzung | Wohnnutzung, vermietet |
 | Besichtigung | Außenbesichtigung, Innenbesichtigung nicht ermöglicht |
 
-## Foto- und Kartenplatzhalter
+## Foto- und Kartenbeschreibungen
 
-- `[FOTO-PLATZHALTER: Straßenansicht Altbau mit markierter Einheit]`
-- `[FOTO-PLATZHALTER: schematischer Grundriss der Wohnung Nr. 9]`
-- `[FOTO-PLATZHALTER: Ausschnitt Lagekarte Hamburg-Eppendorf]`
-- `[FOTO-PLATZHALTER: Hofansicht / Seitenflügel]`
+- `[FOTO-BESCHREIBUNG: Straßenansicht Altbau mit markierter Einheit]`
+- `[FOTO-BESCHREIBUNG: schematischer Grundriss der Wohnung Nr. 9]`
+- `[FOTO-BESCHREIBUNG: Ausschnitt Lagekarte Hamburg-Eppendorf]`
+- `[FOTO-BESCHREIBUNG: Hofansicht / Seitenflügel]`
 
 ## Miet- und Nutzungsangaben
 

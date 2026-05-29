@@ -7,7 +7,7 @@ description: "DBA Deutschland Rumaenien 2001. Anwendungsfall Automotive-Produkti
 
 ## Kernsachverhalt
 
-Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1597) regelt Beziehungen zum EU-Mitglied Rumaenien (Beitritt 01.01.2007). Praxisrelevant sind Automotive-Produktion (Mercedes, Continental), IT-Branche, Pflege-Arbeitnehmer in Deutschland (24-Stunden-Pflege), Holding-Strukturen.
+Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1594) regelt Beziehungen zum EU-Mitglied Rumaenien (Beitritt 01.01.2007). Praxisrelevant sind Automotive-Produktion (Mercedes, Continental), IT-Branche, Pflege-Arbeitnehmer in Deutschland (24-Stunden-Pflege), Holding-Strukturen.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,14 +23,14 @@ Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1597) regelt Beziehungen zum 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Rumaenien vom 04.07.2001**, in Kraft 17.12.2003, anwendbar ab 01.01.2004 (BGBl. 2003 II S. 1597) — **verifizieren**.
+- **DBA Deutschland-Rumaenien vom 04.07.2001**, in Kraft 17.12.2003, anwendbar ab 01.01.2004 (BGBl. 2003 II S. 1594).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Rumaenien sind MLI-Unterzeichner; das DBA-Rumaenien ist Stand 01.01.2026 nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet; aktuellen Stand beim BMF pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BMF-Schreiben Pflege-Arbeitnehmer aus Rumaenien — **verifizieren**.
+- BMF-Schreiben zur steuerlichen Behandlung des Arbeitslohns nach DBA (zuletzt 12.12.2023, BStBl. I 2023, 2193) — einschliesslich Entsendungssituationen rumaenischer Pflege-Arbeitnehmer nach Art. 15 DBA-Rumaenien.
 
 ## Land-spezifisches
 
@@ -45,9 +45,9 @@ Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1597) regelt Beziehungen zum 
 - **Pflege-Arbeitnehmer**: Wohnsitz Rumaenien, Arbeitsort Deutschland — wenn 183-Tage in DE: deutsche Steuerpflicht.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0/3 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 3 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent bei direkter Beteiligung von mindestens 10 Prozent am Kapital; 15 Prozent in allen anderen Faellen. EU-MTRL Schachtel 0 Prozent.
+- **Zinsen** (Art. 11): 3 Prozent des Bruttobetrags im Quellenstaat (Art. 11 Abs. 2 DBA-Rumaenien); solange Deutschland nach innerstaatlichem Recht keine Abzugsteuer auf Zinsen erhebt, gilt faktisch 0 Prozent von deutscher Seite (Art. 11 Abs. 4 DBA-Rumaenien).
+- **Lizenzgebuehren** (Art. 12): 3 Prozent des Bruttobetrags im Quellenstaat. EU-ZinsLizenzRL (§ 50g EStG) bei verbundenen Unternehmen 0 Prozent.
 
 ### Vermeidungs-Methode (Art. 23)
 - Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
@@ -86,4 +86,6 @@ Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1597) regelt Beziehungen zum 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Rumaenien 04.07.2001, in Kraft 17.12.2003. **Datum, BGBl-Fundstelle, MLI-Notification und Quellensteuer-Saetze verifizieren.**
+Stand: 05/2026. DBA-Rumaenien 04.07.2001, in Kraft 17.12.2003 (BGBl. 2003 II S. 1594). MLI-Status: nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet (Stand 01.01.2026). Dividenden 5/15 Prozent, Zinsen 3 Prozent (faktisch 0% DE-Seite), Lizenzen 3 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2003 II S. 1594; MLI-Status geklaert; Quellensteuer-Saetze bestaetigt; BMF-Schreiben Pflegekraefte neu formuliert), 0 gestrichen -->

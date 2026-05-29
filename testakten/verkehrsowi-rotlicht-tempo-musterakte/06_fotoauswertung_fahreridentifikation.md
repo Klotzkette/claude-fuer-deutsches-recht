@@ -69,7 +69,7 @@ Laut Mandantenangaben: männlich, 22 Jahre, blond, Auszubildender. Führerschein
 
 ### 4.1 Beweislast und Identifikationsstandard
 
-Nach der Rechtsprechung des OLG Köln (Beschl. v. 12.11.2019, Az. III-1 RBs 334/19 – fiktiv) muss das Tatgericht bei Foto-Identifikation die Überzeugung von der Täterschaft aus dem Foto selbst schöpfen können. Ein bloßes „vereinbar mit" genügt nicht; es bedarf konkreter Merkmale, die eine sichere Identifizierung erlauben.
+Nach der Rechtsprechung des OLG Köln (Beschl. v. 12.11.2019, Az. III-1 RBs 334/19 – fiktiv) muss das Tatgericht bei Foto-Identifikation die Überzeugung von der Täterschaft aus dem Foto selbst schöpfen können. Ein bloßes "vereinbar mit" genügt nicht; es bedarf konkreter Merkmale, die eine sichere Identifizierung erlauben.
 
 Das Bundesverfassungsgericht (Beschl. v. 17.02.2016, 1 BvR 2380/15 – NJW 2016, 1081) stellt klar: Bleiben Zweifel an der Identität des Fahrzeugführers, darf keine Verurteilung allein auf dem Foto beruhen.
 

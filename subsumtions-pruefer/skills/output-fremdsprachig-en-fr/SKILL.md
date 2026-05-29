@@ -1,6 +1,6 @@
 ---
 name: output-fremdsprachig-en-fr
-description: "Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Uebersetzung und Abweichung von deutschen Originalnormen. Nuetzlich fuer internationale Mandanten, grenzueberschreitende Sachverhalte und EU-Verfahren."
+description: "Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Übersetzung und Abweichung von deutschen Originalnormen. Nuetzlich für internationale Mandanten, grenzüberschreitende Sachverhalte und EU-Verfahren."
 ---
 
 # Output: Fremdsprachig (Englisch und Französisch)
@@ -18,9 +18,7 @@ Für internationale Mandanten, grenzüberschreitende Sachverhalte und EU-rechtli
 
 ## Aktuelle Rechtsprechung mit EU-Bezug
 
-- EuGH, Urt. v. 06.10.2021 - C-561/19, NJW 2021, 3499 — Das Vorabentscheidungsverfahren (Art. 267 AEUV) erfordert eine genaue Formulierung der Vorlagefrage in der Amtssprache des vorlegenden Gerichts; Übersetzungen durch den EuGH erfolgen in alle EU-Amtssprachen, maßgeblich ist die Originalsprache des Vorlagegerichts.
-- BGH, Urt. v. 04.03.2020 - IV ZR 110/19, NJW 2020, 1353 — Bei einem internationalen Schiedsverfahren nach DIS-Regeln ist die Verfahrenssprache vertraglich zu vereinbaren; fehlt eine Vereinbarung, entscheidet das Schiedsgericht nach Billigkeit.
-- BVerfG, Beschl. v. 22.10.2019 - 2 BvR 1550/19, NJW 2020, 141 — Dokumente vor deutschen Gerichten müssen in deutscher Sprache eingereicht werden (§ 184 GVG); fremdsprachige Anlagen sind mit einer beglaubigten Übersetzung zu versehen, sofern das Gericht keine Ausnahme zulässt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Obligatorischer Hinweis (Pflicht in jeder fremdsprachigen Ausgabe)
 
@@ -64,7 +62,7 @@ Das System verwendet anerkannte Übersetzungen für deutsche und EU-Rechtsbegrif
 
 ## Struktur der fremdsprachigen Ausgabe
 
-Die fremdsprachige Ausgabe folgt derselben Struktur wie die deutsche Ausgabe (Vier-Schritt-Schema, Beweisübersicht, Ergebnis), aber in der gewählten Sprache. Rechtsbegriffe werden beim ersten Auftreten in eckigen Klammern mit dem deutschen Originalterm versehen: „legal basis [Anspruchsgrundlage]".
+Die fremdsprachige Ausgabe folgt derselben Struktur wie die deutsche Ausgabe (Vier-Schritt-Schema, Beweisübersicht, Ergebnis), aber in der gewählten Sprache. Rechtsbegriffe werden beim ersten Auftreten in eckigen Klammern mit dem deutschen Originalterm versehen: "legal basis [Anspruchsgrundlage]".
 
 ## Sprachauswahl
 

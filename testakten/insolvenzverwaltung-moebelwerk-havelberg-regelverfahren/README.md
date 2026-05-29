@@ -1,5 +1,14 @@
 # Testakte Insolvenzverwaltung – Möbelwerk Havelberg GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren` (diese Akte) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktive Testakte** für das Plugin `insolvenzverwaltung`. Vollständiges Regelinsolvenzverfahren mit vorläufiger Verwaltung, Betriebsfortführung, Eröffnung, Forderungsanmeldungen, Gläubigerausschuss, Anfechtung, § 15b InsO-Analyse, Masseunzulänglichkeitsszenario, Insolvenzplan-Planoption, StaRUG-Alternativroute und Schlussverteilung.
 
 ---

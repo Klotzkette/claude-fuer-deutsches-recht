@@ -28,7 +28,7 @@
 | Zinsen (7,5 % p.a., 12.08.2024–30.04.2026) | 9.796,23 |
 | **Angemeldeter Gesamtbetrag** | **94.796,23** |
 
-*Die Gläubigerin hat in der Anmeldung lediglich 85.000,00 EUR als Hauptforderung und „bankähnliche Zinsen" erwähnt, ohne den Zinsbetrag konkret beziffert zu haben. Der Insolvenzverwalter hat auf Basis des vorgelegten Darlehensvertrags die Zinsen nachgerechnet.*
+*Die Gläubigerin hat in der Anmeldung lediglich 85.000,00 EUR als Hauptforderung und "bankähnliche Zinsen" erwähnt, ohne den Zinsbetrag konkret beziffert zu haben. Der Insolvenzverwalter hat auf Basis des vorgelegten Darlehensvertrags die Zinsen nachgerechnet.*
 
 ---
 

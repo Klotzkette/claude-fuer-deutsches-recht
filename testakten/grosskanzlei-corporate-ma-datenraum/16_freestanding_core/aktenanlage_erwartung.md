@@ -1,12 +1,12 @@
 # Aktenanlage — Projekt Silberfalke (Vollständige Ausarbeitung)
 
-**Kanzleiaktenzeichen:** MA-2026-SF-001  
-**Deal-Code:** Projekt Silberfalke  
-**Mandant:** Eagle Capital Partners Fund V GmbH & Co. KG (Käuferin)  
-**Rol­le:** Buy-side  
-**Zielgesellschaft:** Solaris Industries AG, Düsseldorf  
-**Eröffnet:** 01.04.2026  
-**Letzte Aktualisierung:** 20.05.2026  
+**Kanzleiaktenzeichen:** MA-2026-SF-001
+**Deal-Code:** Projekt Silberfalke
+**Mandant:** Eagle Capital Partners Fund V GmbH & Co. KG (Käuferin)
+**Rol­le:** Buy-side
+**Zielgesellschaft:** Solaris Industries AG, Düsseldorf
+**Eröffnet:** 01.04.2026
+**Letzte Aktualisierung:** 20.05.2026
 **Zeichnung:** Partner A
 
 ---
@@ -80,12 +80,12 @@ Die Akte ist in folgende Unterordner gegliedert:
 
 Nach Closing wird die Closing Bible in folgender Grundstruktur erstellt:
 
-1. Band I — Transaktionsdokumente (SPA, Disclosure Letter, Sideletter)  
-2. Band II — Behördliche Genehmigungen  
-3. Band III — Unternehmensrechtliche Dokumente  
-4. Band IV — Finanzierungsdokumente  
-5. Band V — Disclosure Schedules  
-6. Band VI — Sonstiges (Legal Opinions, Vollmachten, Historisches)  
+1. Band I — Transaktionsdokumente (SPA, Disclosure Letter, Sideletter)
+2. Band II — Behördliche Genehmigungen
+3. Band III — Unternehmensrechtliche Dokumente
+4. Band IV — Finanzierungsdokumente
+5. Band V — Disclosure Schedules
+6. Band VI — Sonstiges (Legal Opinions, Vollmachten, Historisches)
 
 ---
 
@@ -93,19 +93,19 @@ Nach Closing wird die Closing Bible in folgender Grundstruktur erstellt:
 
 Der M&A-Kanzlei-Skill soll in der Lage sein, auf Basis folgender Eingaben selbständig eine vollständige Deal-Akte anzulegen:
 
-- Mandantenname  
-- Target-Name  
-- Transaktionstyp (Share Deal / Asset Deal / Carve-out)  
-- EV / Kaufpreis  
-- Rollenbezeichnung (Buy-side / Sell-side / Target Counsel)  
+- Mandantenname
+- Target-Name
+- Transaktionstyp (Share Deal / Asset Deal / Carve-out)
+- EV / Kaufpreis
+- Rollenbezeichnung (Buy-side / Sell-side / Target Counsel)
 
-**Erwartete Ausgaben:**  
-1. Aktenzeichen (kanzleiformat)  
-2. Vollständige Beteiligtenmatrix (Platzhalter)  
-3. Ordnerstruktur (Verzeichnisbaum)  
-4. CP-Kalender mit behördlichen Fristen  
-5. Closing-Bible-Grundstruktur  
-6. Erste Statusübersicht (Deal Briefing)  
+**Erwartete Ausgaben:**
+1. Aktenzeichen (kanzleiformat)
+2. Vollständige Beteiligtenmatrix aus den bekannten Aktenangaben
+3. Ordnerstruktur (Verzeichnisbaum)
+4. CP-Kalender mit behördlichen Fristen
+5. Closing-Bible-Grundstruktur
+6. Erste Statusübersicht (Deal Briefing)
 
 **Besteht nur, wenn kein Verweis auf externe Plugins erforderlich.**
 

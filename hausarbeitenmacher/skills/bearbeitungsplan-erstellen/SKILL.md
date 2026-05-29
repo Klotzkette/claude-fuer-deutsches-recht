@@ -1,6 +1,6 @@
 ---
 name: bearbeitungsplan-erstellen
-description: "Student erstellt Zeitplan und Arbeitsplan fuer juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Pruefungsordnungen Abgabetermin. Pruefraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss)."
+description: "Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss)."
 ---
 
 # Bearbeitungs-Plan erstellen
@@ -9,24 +9,20 @@ description: "Student erstellt Zeitplan und Arbeitsplan fuer juristische Hausarb
 ## Triage zu Beginn
 1. Welche Art von Hausarbeit (GuP, Anfänger, Fortgeschrittene, Examen, Seminar) mit welchem Seitenumfang?
 2. Wie viele Wochen bis zur Abgabe — und gibt es Meilensteine (Gliederungs-Abgabe, Zwischengespräch)?
-3. Welche Bibliotheksressourcen stehen zur Verfügung (Beck-online, juris, physische Kommentare)?
+3. Welche Bibliotheksressourcen stehen zur Verfügung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, physische Kommentare)?
 4. Gibt es persoenliche Kapazitaetseinschraenkungen (Nebenjob, Pflege, Krankheit)?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Sorgfaltspflicht beim juristischen Arbeiten umfasst ausreichende Recherche und Bearbeitungszeit; Zeitdruck entschuldigt keine methodischen Fehler.
-- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Planbarkeit und Tagespensum-Denken sind Grundprinzipien professionellen juristischen Arbeitens.
-- BVerfG, Beschl. v. 12.12.2000 - 2 BvR 1290/99, NJW 2001, 1269 — Griendliche Vorbereitung auf Pruefungssituationen als Massstab fuer Studienerfolg; strukturierter Lernplan beugt Pruefungsversagen vor.
-- OVG Muenster, Beschl. v. 03.05.2019 - 6 B 484/19 — Fristverlängerungsantrag erfordert nachvollziehbare Darlegung der Gruende; vorausschauende Planung vermeidet Notwendigkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 13 JAG NRW analog — Mindestanforderungen an juristische Arbeitstechnik im Examen
 - § 273 ZPO — Fruehzeitige Vorbereitung als Grundsatz ziviler Prozessfuehrung (Analogie: Hausarbeits-Vorbereitung)
 - §§ 195, 199 BGB — Fristen als tragendes Strukturprinzip: auch im Lernkontext Fristen-Denken einueben
 
-## Kommentarliteratur
-- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, Einleitung Rn. 1-15 (Juristische Arbeitsmethode im Studium)
-- Wank, Die Auslegung von Gesetzen, 6. Aufl. 2015, Kap. 1 (Vorgehensweise und Zeitplanung bei juristischen Analysen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Hausarbeit ohne Plan = Hausarbeit zu spät / unfertig / oberflächlich. Mit Plan ist sie schaffbar.
@@ -121,7 +117,7 @@ Annahme: 30-Seiten Anfänger-Übung Zivilrecht, 8 Wochen Bearbeitungszeit.
 
 **Bevor Du anfängst**, formuliere klar:
 
-- **Was möchte ich aus dieser Hausarbeit lernen?** (z.B. „Subsumtion an §§ 433 und 434 BGB, AGB-Prüfung, Bereicherungsrecht")
+- **Was möchte ich aus dieser Hausarbeit lernen?** (z.B. "Subsumtion an §§ 433 und 434 BGB, AGB-Prüfung, Bereicherungsrecht")
 - **Welche Fertigkeiten möchte ich verbessern?** (Gutachten-Stil, Methoden-Argumentation, Literatur-Recherche)
 - **Welches sind die fünf wichtigsten Lehrmeinungen, die ich verstehen möchte?**
 
@@ -133,7 +129,7 @@ Diese Ziele helfen, fokussiert zu bleiben.
 
 - Textverarbeitung mit Stilen (Word, LaTeX, Pages)
 - Literaturverwaltung (Citavi, Zotero, Mendeley)
-- Bibliotheks-Zugang Beck-online, juris
+- Bibliotheks-Zugang amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang
 - Cloud-Speicher für Backup
 
 ### Bibliothek
@@ -152,7 +148,7 @@ Diese Ziele helfen, fokussiert zu bleiben.
 
 - **Tages-Ziele**: Pro Arbeitstag konkretes Pensum festlegen
 - **Pomodoro-Methode**: 25 min Arbeit + 5 min Pause
-- **„Eat the frog"**: Schwierigste Aufgabe zuerst
+- **"Eat the frog"**: Schwierigste Aufgabe zuerst
 - **Schreibsessions im Pflicht-Modus**: 2-3 Stunden ohne Handy
 - **Bibliothek statt zu Hause**: Wenn zu Hause zu viele Ablenkungen
 
@@ -176,7 +172,7 @@ Wenn Du **zwei Wochen vor Abgabe** noch nicht fertig bist:
 
 ## Häufige Anfänger-Fehler
 
-1. **„Ich fange in zwei Wochen an"** — und am Ende fehlt Zeit
+1. **"Ich fange in zwei Wochen an"** — und am Ende fehlt Zeit
 2. **Tiefen-Recherche zu lange** — und Rohfassung wird gehetzt
 3. **Rohfassung perfekt schreiben** — und keine Korrektur-Zeit
 4. **Zitierweise erst am Ende** — und nichts mehr zurückverfolgbar

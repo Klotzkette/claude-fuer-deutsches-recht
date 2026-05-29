@@ -1,6 +1,6 @@
 ---
 name: untaetigkeitsklage-88-sgg
-description: "Die Untaetigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis fuer Buerger."
+description: "Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger."
 ---
 
 # Wenn die Behoerde nichts tut — Untaetigkeitsklage § 88 SGG

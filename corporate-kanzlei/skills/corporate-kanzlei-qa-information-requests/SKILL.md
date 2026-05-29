@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-qa-information-requests
-description: "Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Pruefraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules."
+description: "Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Prüfraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules."
 ---
 
 # Q&A und Information Requests
@@ -23,14 +23,11 @@ description: "Q&A- und Information-Request-Management in M&A-Transaktionen: DD-T
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — schriftliche Antwort auf DD-Frage gilt als vollstaendige Offenlegung wenn korrekt und vollstaendig; unvollstaendige Antwort = vorvertragliche Pflichtverletzung
-- OLG Frankfurt, Urt. v. 07.05.2021 - 5 U 160/19, NZG 2021, 1174 — Antworten im Q&A-Prozess werden Bestandteil des Informationsstandes des Kaeufers; muss in Disclosure Letter aufgenommen oder gesondert bestaetigend adressiert werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6 — Q&A-Prozess und Disclosure
-- MueKo BGB/Lorenz § 311 Rn. 45 ff. — Q&A-Antworten als vorvertragliche Handlungen
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Q&A-Prozess: Standardablauf
 
 | Schritt | Inhalt | Owner | Frist |
@@ -96,5 +93,5 @@ DURCHSCHNITTLICHE ANTWORTZEIT: [Tage]
 ## Quellen
 
 - §§ 311 II, 444 BGB; Art. 18 MAR; § 17 UWG
-- BGH V ZR 299/19 (Q&A-Vollstaendigkeit); OLG Frankfurt 5 U 160/19 (Q&A und Disclosure)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6

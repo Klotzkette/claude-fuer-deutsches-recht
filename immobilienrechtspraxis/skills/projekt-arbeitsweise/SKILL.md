@@ -1,6 +1,6 @@
 ---
 name: projekt-arbeitsweise
-description: "Projektmethodik fuer Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Pruefraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren."
+description: "Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren."
 ---
 
 # Projekt-Arbeitsweise Immobilienrecht
@@ -156,13 +156,6 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 - GwG-Dokumentation: §§ 10 ff. GwG
 - Aufbewahrungspflicht: § 50 StBerG analog, Steuerrecht 10 Jahre
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hartung/Scharmer, BORA/FAO, 7. Aufl. — Mandatsfuehrung und Dokumentation
-- BeckOK Datenschutzrecht — Art. 28 DSGVO AVV-Anforderungen
-
----
-<!-- AUDIT 27.05.2026 bundle_004 -->
-**Halluzinations-Audit 27.05.2026**
-- BGH VIII ZR 285/22 (behauptet Urt. v. 12.09.2023, NJW 2023 3578, Aktenhaltung und Fristenkontrolle): Auf dejure.org nicht gefunden. Eintrag geloescht.
-- BGH VIII ZR 199/21 (behauptet Urt. v. 09.11.2022, NJW 2023 516 Rn. 18, Vollmachten und Archivierung): Auf dejure.org nicht gefunden. Eintrag geloescht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

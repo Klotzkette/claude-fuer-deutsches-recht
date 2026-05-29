@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-vgh-strategie
-description: "Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder OVG. Vorbereitung muendliche Verhandlung Normenkontrolle. Pruefraster: Plaedoyer Einleitung Sachverhalt Rechtsausfuehrungen Antraege schriftliche Beweisantraege Ortsbesichtigung Hilfsantraege Teilunwirksamkeit Wirkungsausspruch Kostenentscheidung. Revision § 132 VwGO nur grundsaetzliche Bedeutung. Output: Verhandlungsstruktur und Plaedoyer-Entwurf. Abgrenzung zu normenkontrollantrag-schriftsatz (Schriftsatz vor Verhandlung) und einstweilige-anordnung-47-abs-6-vwgo."
+description: "Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder OVG. Vorbereitung muendliche Verhandlung Normenkontrolle. Prüfraster: Plaedoyer Einleitung Sachverhalt Rechtsausführungen Anträge schriftliche Beweisanträge Ortsbesichtigung Hilfsanträge Teilunwirksamkeit Wirkungsausspruch Kostenentscheidung. Revision § 132 VwGO nur grundsaetzliche Bedeutung. Output: Verhandlungsstruktur und Plaedoyer-Entwurf. Abgrenzung zu normenkontrollantrag-schriftsatz (Schriftsatz vor Verhandlung) und einstweilige-anordnung-47-abs-6-vwgo."
 ---
 
 # Mündliche Verhandlung BayVGH/OVG
@@ -207,11 +207,8 @@ Die mündliche Verhandlung ist der entscheidende Auftritt. Senatsentscheidungen 
 
 ## Aktuelle Rechtsprechung — Leitsaetze Verhandlung
 
-- BVerwG, Urt. v. 09.04.2008 — 4 CN 1.07, BVerwGE 131, 100 Rn. 18: Wirkungsausspruch im Normenkontrollverfahren ist Festststellung der Unwirksamkeit; bei Teilunwirksamkeit praezise Benennung des unwirksamen Teils zwingend.
-- BVerwG, Urt. v. 16.06.2021 — 4 CN 5.20, BVerwGE 172, 340 Rn. 25: Hilfsantrag auf Teilunwirksamkeit kann in der Verhandlung gestellt werden; Gericht ist an Hauptantrag gebunden aber darf ueber Teilunwirksamkeit entscheiden.
-- BVerwG, Urt. v. 04.04.2023 — 4 CN 2.22, NVwZ 2023, 1390 Rn. 22: Nichtzulassungsbeschwerde nach § 132 VwGO erfordert konkrete Darlegung der grundsaetzlichen Bedeutung oder der Divergenz; pauschaler Hinweis auf Fehler genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke, VwGO, 29. Aufl. — §§ 101 ff. muendliche Verhandlung
-- Schoch/Schneider, VwGO — § 132 Rn. 1 ff. Revision
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

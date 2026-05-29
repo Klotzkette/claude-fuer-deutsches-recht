@@ -1,6 +1,6 @@
 ---
 name: zeugnis-ueberblick-extraktion
-description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen fuer Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen fuer Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Pruefraster Arbeitgeber Arbeitnehmer Beschaeftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollstaendigkeit. Output Strukturiertes Kopfdatenblatt mit Vollstaendigkeitspruefung und Zeugnisart-Einordnung als Eingabe fuer alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren."
+description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Prüfraster Arbeitgeber Arbeitnehmer Beschaeftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollständigkeit. Output Strukturiertes Kopfdatenblatt mit Vollständigkeitsprüfung und Zeugnisart-Einordnung als Eingabe für alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren."
 ---
 
 # Zeugnis-Überblick und Kopfdaten-Extraktion
@@ -25,9 +25,9 @@ Die Unterschrift muss von einer zeichnungsberechtigten Person stammen. In der Re
 
 ## Beispiele
 
-**Beispiel 1 – Vollständige Kopfdaten (Grün):** „Frau Sabine Müller, geboren am 12. März 1985, war vom 1. April 2018 bis zum 31. März 2024 in unserem Unternehmen als Abteilungsleiterin Marketing tätig." — Alle Pflichtangaben vorhanden.
+**Beispiel 1 – Vollständige Kopfdaten (Grün):** "Frau Sabine Müller, geboren am 12. März 1985, war vom 1. April 2018 bis zum 31. März 2024 in unserem Unternehmen als Abteilungsleiterin Marketing tätig." — Alle Pflichtangaben vorhanden.
 
-**Beispiel 2 – Fehlende Positionsangabe (Orange):** „Herr Thomas Braun war von 2019 bis 2023 bei uns beschäftigt." — Keine Positionsbezeichnung, kein vollständiges Datum.
+**Beispiel 2 – Fehlende Positionsangabe (Orange):** "Herr Thomas Braun war von 2019 bis 2023 bei uns beschäftigt." — Keine Positionsbezeichnung, kein vollständiges Datum.
 
 **Beispiel 3 – Unterschrift Sachbearbeiter (Rot):** Unterschrift eines HR-Sachbearbeiters für einen ausscheidenden Abteilungsleiter — hierarchisches Missverhältnis signalisiert Abwertung.
 
@@ -37,7 +37,7 @@ Die Unterschrift muss von einer zeichnungsberechtigten Person stammen. In der Re
 
 ## Ausgabeformat
 
-Der Skill gibt eine strukturierte Übersichtstabelle aus mit den Feldern: Arbeitgeber (Name, Rechtsform, Ort), Arbeitnehmer (Name, ggf. Geburtsdatum), Beschäftigungszeitraum (Von–Bis oder „Zwischenzeugnis"), Position/Tätigkeit, Ausstellungsdatum, Unterschriftsberechtigte(r) (Name, Titel), Zeugnisart (einfach/qualifiziert/Zwischen-/Endzeugnis). Unter der Tabelle folgt ein Hinweis auf erkannte Vollständigkeitsmängel.
+Der Skill gibt eine strukturierte Übersichtstabelle aus mit den Feldern: Arbeitgeber (Name, Rechtsform, Ort), Arbeitnehmer (Name, ggf. Geburtsdatum), Beschäftigungszeitraum (Von–Bis oder "Zwischenzeugnis"), Position/Tätigkeit, Ausstellungsdatum, Unterschriftsberechtigte(r) (Name, Titel), Zeugnisart (einfach/qualifiziert/Zwischen-/Endzeugnis). Unter der Tabelle folgt ein Hinweis auf erkannte Vollständigkeitsmängel.
 
 ## Rechtliche Einordnung und Normen
 
@@ -46,5 +46,4 @@ Der Skill gibt eine strukturierte Übersichtstabelle aus mit den Feldern: Arbeit
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

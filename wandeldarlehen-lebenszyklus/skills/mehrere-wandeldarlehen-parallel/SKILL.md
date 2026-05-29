@@ -1,6 +1,6 @@
 ---
 name: mehrere-wandeldarlehen-parallel
-description: "Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren und Konflikte erkennen. §§ 488 ff. BGB § 39 InsO Rangruecktritt. Pruefraster: Pari-passu-Stellung Rangregelungen Wandlungsrechte Verwasserungsschutz Vesting. Output: Uebersichtsmatrix Konfliktliste Handlungsempfehlung. Abgrenzung: nicht fuer Einzeldarlehen-Erstellung."
+description: "Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren und Konflikte erkennen. §§ 488 ff. BGB § 39 InsO Rangrücktritt. Prüfraster: Pari-passu-Stellung Rangregelungen Wandlungsrechte Verwasserungsschutz Vesting. Output: Übersichtsmatrix Konfliktliste Handlungsempfehlung. Abgrenzung: nicht für Einzeldarlehen-Erstellung."
 ---
 
 # Mehrere parallele Wandeldarlehen
@@ -26,8 +26,7 @@ Dieser Skill behandelt die Besonderheiten, wenn gleichzeitig mehrere Wandeldarle
 - § 328 BGB (Drittschutz der Rangrücktrittsvereinbarung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 20. Oktober 2011 – IX ZR 10/11 (Gleichrang mehrerer qualifizierter Rangrücktritte)
-- OLG München, Urt. v. 4. April 2018 – 23 U 2945/17 (MFN-Klausel in Wandeldarlehensvertrag)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -88,9 +87,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. oder InsO § 39 aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 16: Bei mehreren parallelen Wandeldarlehen muss die Rangfolge der Wandlung und die Ermittlung der Beteiligungsquoten für jedes Darlehen separat berechnet werden; dabei ist bei MFN-Klauseln (Most-Favoured-Nation) der jeweils günstigste Wandlungspreis über alle Darlehen hinweg anzuwenden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.07.2008 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 14: Wenn mehrere Gesellschafterdarlehen parallel bestehen, sind Rangrücktritts-Erklärungen für jedes Darlehen separat einzuholen; fehlt bei einem Darlehen der qualifizierte Rangrücktritt, sind alle Darlehen als nicht nachrangig zu behandeln, was die Insolvenzquoten der übrigen Gläubiger beeinflussen kann.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

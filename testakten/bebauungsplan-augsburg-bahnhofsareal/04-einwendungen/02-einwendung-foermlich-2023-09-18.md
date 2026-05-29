@@ -11,7 +11,7 @@ An der Blauen Kappe 18
 
 Augsburg, 18. September 2023
 
-Betreff: **Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West"**
+Betreff: **Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West"**
 **Öffentliche Auslegung (§ 3 Abs. 2 BauGB) 04.09.–06.10.2023**
 **— Einwendungen —**
 
@@ -41,7 +41,7 @@ ich nehme Bezug auf meine frühzeitige Einwendung vom 27. März 2023 und erhebe 
 
 ## V. Anpassung Flächennutzungsplan
 
-9. Der FNP weist das Gebiet als „Bahnanlage" aus. Eine Entwidmung nach § 23 AEG ist bisher nicht erkennbar.
+9. Der FNP weist das Gebiet als "Bahnanlage" aus. Eine Entwidmung nach § 23 AEG ist bisher nicht erkennbar.
 
 ## VI. Verschattung
 

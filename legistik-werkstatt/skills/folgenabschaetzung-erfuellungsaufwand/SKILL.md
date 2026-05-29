@@ -1,6 +1,6 @@
 ---
 name: folgenabschaetzung-erfuellungsaufwand
-description: "Erfuellungsaufwand fuer Buerger Wirtschaft und Verwaltung ermitteln und darstellen. Anwendungsfall Referentenentwurf soll NKR-konformes Vorblatt und Begruendung erhalten oder NKR verlangt Nachbesserung. Methodik Leitfaden BMJ BMI Statistisches Bundesamt Fallzahlen Bearbeitungszeit Lohnsatz. Pro Vorschrift pro Adressat Bagatell-Schwelle KMU-Aspekt mittelstandsrelevant. One-in-one-out-Regel der Bundesregierung. Output Erfuellungsaufwand-Tabelle Vorblatt Begruendung Empfehlung NKR-Vorlage. Abgrenzung zu folgenabschaetzung-nachhaltigkeit SDG-Folgen."
+description: "Erfuellungsaufwand für Buerger Wirtschaft und Verwaltung ermitteln und darstellen. Anwendungsfall Referentenentwurf soll NKR-konformes Vorblatt und Begründung erhalten oder NKR verlangt Nachbesserung. Methodik Leitfaden BMJ BMI Statistisches Bundesamt Fallzahlen Bearbeitungszeit Lohnsatz. Pro Vorschrift pro Adressat Bagatell-Schwelle KMU-Aspekt mittelstandsrelevant. One-in-one-out-Regel der Bundesregierung. Output Erfuellungsaufwand-Tabelle Vorblatt Begründung Empfehlung NKR-Vorlage. Abgrenzung zu folgenabschaetzung-nachhaltigkeit SDG-Folgen."
 ---
 
 # Folgenabschätzung - Erfüllungsaufwand
@@ -46,19 +46,17 @@ Wenn KMU betroffen: Prüfung Verhältnismaessigkeit. Ggf. Schwellenwerte einfüh
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 05.03.2013 — 1 BvR 2457/08, BVerfGE 133, 143 Rn. 30 — Folgenabschaetzung ist Teil der Gesetzes-Begruendungspflicht bei intensiven Grundrechtseingriffen; unterlassene Abschaetzung ist Indiz fuer fehlende Verhaeltnismaessigkeit
-- VerfGH NRW, Urt. v. 10.03.2020 — VerfGH 19/18, NVwZ-RR 2020, 561 — Kosten-Nutzen-Analyse bei Vorschriften mit erheblichem Erfuellungsaufwand fuer die Wirtschaft; Ausnahmen nur bei zwingendem Handlungsbedarf zeitkritischer Natur
-- EuGH, Urt. v. 22.01.2020 — C-177/19 (Glencore Agriculture France), NZBau 2020, 234 — nationale Gesetzgebung muss nachweislich den Grundsatz der Verhaeltnismaessigkeit beachten; bloss behauptete Kostenneutralitaet reicht nicht; Folgenabschaetzung Pflicht bei wirtschaftlich signifikanten Massnahmen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 44a, 62 GGO (Erfuellungsaufwand-Berechnung, Folgenabschaetzung) — §§ 1-4 SKMBericht (Statistisches Bundesamt, Standardkosten-Modell) — Art. 5 Abs. 4 EUV (EU-Verhaeltnismaessigkeit) — § 39a VwVfG (Vorwegbegruendung bei Massenverfahren)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 1 Rn. 24 ff. (Legistik, Folgenabschaetzung als modernes Gesetzgebungsmittel)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 6 Rn. 40 ff. (Folgenabschaetzung, Kostenanalyse Standardkosten-Modell)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Tabelle plus Beschreibung in Vorblatt-Abschnitt E und in Begründung-Abschnitt A.VI.4.

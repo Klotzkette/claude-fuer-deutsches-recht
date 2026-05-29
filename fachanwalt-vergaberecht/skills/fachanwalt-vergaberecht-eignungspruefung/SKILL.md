@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-eignungspruefung
-description: "Bieter-Eignungspruefung im Vergabeverfahren pruefen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgruende), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Pruefraster: Befaehigung, Zuverlaessigkeit, wirtschaftliche/finanzielle/technische Leistungsfaehigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachpruefungsantrag siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2."
+description: "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2."
 ---
 
 # Eignungsprüfung
@@ -35,12 +35,7 @@ description: "Bieter-Eignungspruefung im Vergabeverfahren pruefen: Bieter wurde 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | X ZB 9/15 | 03.05.2016 | Eignungsprüfung Konkurrent: Rüge muss substanziiert darlegen, warum Konkurrent ungeeignet ist |
-| BGH | X ZB 10/19 | 25.06.2019 | Schwere Verfehlung § 124 Abs. 1 Nr. 3 GWB: Ermessensentscheidung des AG; VK prüft nur auf Ermessensfehler |
-| OLG Düsseldorf | Verg 21/18 | 28.11.2018 | Verhältnismäßigkeit Eignungskriterien: Mindestjahresumsatz darf 2-fachen Auftragswert nicht übersteigen |
-| OLG München | Verg 4/19 | 26.03.2019 | Referenzanforderungen: müssen mit Auftragsgegenstand in Verbindung stehen |
-| OLG Frankfurt | 11 Verg 9/21 | 09.11.2021 | Selbstreinigung § 125 GWB: Maßnahmen müssen zur Tatzeit vollständig umgesetzt sein |
-| EuGH | C-465/11 | 13.12.2012 | Hornsby: Eignungsnachweise dürfen nicht nachgereicht werden nach Fristablauf außer bei Formfehlern |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Bund | VK 2-35/22 | 15.04.2022 | PQ-Verzeichnis: Eintragung ersetzt Einzelnachweise vollständig; AG darf keine Zusatznachweise fordern |
 
 ## Prüfschema in Tabellenform
@@ -151,7 +146,7 @@ eignungskriterium einen Jahresumsatz von EUR [Betrag] im
 Bereich [Leistungsgebiet]. Dieser Betrag entspricht dem
 [X-fachen] des geschätzten Auftragswerts.
 
-Gemäß OLG Düsseldorf, Beschl. v. 28.11.2018 — Verg 21/18 und
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 § 122 Abs. 4 GWB ist ein Mindestjahresumsatz von mehr als dem
 Zweifachen des Auftragswerts unverhältnismäßig. Das geforderte
 Kriterium liegt erheblich darüber und schließt wirtschaftlich
@@ -227,9 +222,9 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 | Eignungsanforderungen verhältnismäßig — Markteindruck | Konkret darlegen: Auftragswert vs. geforderter Umsatz; Marktdaten zu Zertifizierungsstand |
 | Selbstreinigung unvollständig — Schadensersatz nicht nachgewiesen | Vergleichsvertrag mit Zahlungsbeleg; keine Vollständigkeitspflicht wenn Schaden noch offen |
 | Eignungsleihe unzulässig bei bauspezifischen Leistungen | § 47 Abs. 1 Satz 2 VgV lässt Einschränkungen zu; prüfen ob Auftraggeber Einschränkung in Bekanntmachung aufgenommen hat |
-| EEE nachgereicht — formaler Fehler entschuldigt | EuGH C-465/11: Formfehler dürfen nachgebessert werden; inhaltliche Mängel nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Konkurrent hat parallele Ausschlussmaßnahme laufen | Offenes Strafverfahren genügt nicht für § 123 GWB; rechtskräftige Verurteilung erforderlich |
-| AG hat Ermessen bei § 124 GWB — keine Rechtswidrigkeit | VK prüft auf Ermessensausfall und -überschreitung; Begründung AG muss erkennbar sein |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 
 ## Streitwert und Kosten
 
@@ -251,7 +246,7 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 
 ## Quellen
 
-GWB §§ 97, 122, 123, 124, 125, 160, 165, 181; VgV §§ 42–50; BGH X ZB 9/15; BGH X ZB 10/19; OLG Düsseldorf Verg 21/18; OLG München Verg 4/19; OLG Frankfurt 11 Verg 9/21; EuGH C-465/11; VK Bund VK 2-35/22; Pünder/Schellenberg Vergaberecht 3. Aufl. 2019; Burgi Vergaberecht 3. Aufl. 2022.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Triage und Output-Template Eignungspruefung
 
@@ -265,9 +260,7 @@ GWB §§ 97, 122, 123, 124, 125, 160, 165, 181; VgV §§ 42–50; BGH X ZB 9/15;
 
 ### Ergaenzende Leitsaetze Eignungspruefung
 
-- EuGH, Urt. v. 22.09.2022 - C-537/19, NZBau 2023, 38 — Eignungsanforderungen muessen verhaeltnismaessig zum Auftragsgegenstand sein; unverhaaltnismaessige Anforderungen = Vergaberechtsverstos.
-- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Eignungsanforderung muss in Bekanntmachung aufgefuehrt sein; nachtraegliche Einfuehrung unzulaessig.
-- OLG Frankfurt, Beschl. v. 15.03.2022 - 11 Verg 15/21, NZBau 2022, 340 — Ausschluss wegen fehlender Eignung muss auf eindeutiger Grundlage beruhen; Zweifelsfaelle gehen zu Lasten des Auftraggebers.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Begruendung Eignung
 **Adressat:** Vergabestelle oder Vergabekammer — Tonfall: sachlich-juristisch
@@ -284,7 +277,7 @@ Vergabeverfahren [BEZEICHNUNG]
 2. Zum streitigen Kriterium [XYZ]:
    [Konkreter Nachweis + BGH/EuGH-Bezug]
    Das Kriterium ist im Verhältnis zum Auftragsgegenstand
-   angemessen (§ 122 Abs. 4 GWB / EuGH C-537/19).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Antrag:
    Unser Mandant ist als geeignet anzusehen.

@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft-antwort
-description: "DSGVO-Auskunftsantwort an Betroffenen vollstaendig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Pruefraster: Antwortinhalt Format Fristen Klarheit Weglassungsgruende Begleitschreiben. Output: vollstaendiges Auskunftsschreiben. Abgrenzung: nicht fuer Antragseingang und Pruefung (dsgvo-auskunft)."
+description: "DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (dsgvo-auskunft)."
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO
@@ -76,11 +76,10 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 21 DSGVO (Widerspruch)
 - Art. 77 DSGVO (Beschwerderecht Aufsichtsbehörde)
 - §§ 34, 35 BDSG (Auskunfts- und Löscheinschränkungen)
-- EuGH, Urt. v. 26.10.2023 – C-307/22 (FT/BFI), NJW 2023, 3548 – Umfang Datenkopie Art. 15 Abs. 3 DSGVO `[Modellwissen – prüfen]`
-- BGH, Urt. v. 15.06.2021 – VI ZR 576/19, NJW 2021, 3179 – Auskunftsumfang Art. 15 DSGVO im Arbeitsrecht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kamlah, in: Plath, DSGVO/BDSG, 3. Aufl. 2021, Art. 15 Rn. 1 ff.
 - Dix, in: Simitis/Hornung/Spiecker, Datenschutzrecht, 1. Aufl. 2019, Art. 15 Rn. 1 ff.
-- Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 15 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -100,7 +99,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 
 **Identität:** E-Mail-Adresse allein reicht bei reinen Newsletter-Abonnenten aus, wenn keine weiteren personenbezogenen Daten verarbeitet werden. Vgl. EDSA-Leitlinien 01/2022, Abschn. 3.2: Verhältnismäßigkeit der Verifikation.
 
-**Datenkopie (Art. 15 Abs. 3 DSGVO):** Der EuGH hat in EuGH, Urt. v. 26.10.2023 – C-307/22 (FT/BFI) festgestellt, dass Art. 15 Abs. 3 DSGVO eine vollständige Kopie der verarbeiteten personenbezogenen Daten (nicht nur eine Zusammenfassung) umfasst. `[Modellwissen – prüfen]` Sofern Rechte Dritter tangiert (Art. 15 Abs. 4 DSGVO), sind betroffene Passagen zu schwärzen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Ausnahmen:** § 34 BDSG: keine einschlägigen Tatbestände. Art. 17 Abs. 3 DSGVO: nicht relevant (kein Löschantrag). Keine weiteren Ausnahmen erkennbar.
 
@@ -112,17 +111,17 @@ Verbindlich nach `../../references/zitierweise.md`.
 - **Fristversäumnis:** Art. 12 Abs. 4 DSGVO – Untätigkeit gilt als Ablehnung, eröffnet Klagerecht Art. 79 DSGVO und Beschwerde Art. 77 DSGVO. Fristmitteilung bei Verlängerung ist eigenständige Pflicht.
 - **Unvollständige Systemabfrage:** Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht) verpflichtet zu nachweisbarer vollständiger Prüfung. Backup-Systeme und Archive werden häufig vergessen.
 - **Übermäßige Identitätshürde:** Passverlangen ohne Anlass verletzt Art. 12 Abs. 6 DSGVO; EDSA warnt vor übermäßiger Identifizierung als faktischem Abwehrmittel.
-- **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung „wegen Geschäftsgeheimnisse" ist nicht ausreichend.
-- **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein „strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
-- **Schadensersatz Art. 82 DSGVO:** BGH, Beschl. v. 26.09.2023 – VI ZR 97/22, ZIP 2023, 2472: Vorlage an den EuGH zu den Anforderungen an den immateriellen Schaden nach Art. 82 Abs. 1 DSGVO; bloßer Datenschutzverstoß ohne nachgewiesenen Schaden genügt nicht. Fehlerhaft bearbeitete Betroffenenanfragen begründen Haftungsrisiko.
+- **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung "wegen Geschäftsgeheimnisse" ist nicht ausreichend.
+- **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein "strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ablehnung wegen Rechtsmissbrauch — EuGH C-526/24
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtliche Grundlage
 
-EuGH, Urt. v. 19.03.2026 – C-526/24 (Brillen Rottler); Schlussanträge GA Maciej Szpunar v. 12.09.2025 in C-526/24.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als „exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
+Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als "exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
 
 ### Zweistufiges Prüfschema vor Ablehnung
 
@@ -147,7 +146,7 @@ Beide Stufen müssen kumulativ dokumentiert sein, bevor eine Ablehnung erfolgt:
 > 1. [Objektives Element – z.B.: Ihre Anmeldung für unseren Newsletter erfolgte am [DATUM], d.h. [N] Tage vor Eingang Ihres Auskunftsantrags, ohne erkennbares Informationsinteresse.]
 > 2. [Subjektives Element – z.B.: Ihr Schreiben enthält bereits bei Antragstellung die Ankündigung von Schadensersatzforderungen nach Art. 82 DSGVO, was in der Gesamtschau auf eine instrumentalisierende Nutzung des Auskunftsrechts hindeutet.]
 >
-> Gemäß EuGH, Urt. v. 19.03.2026 – C-526/24 (Brillen Rottler) sind beide Elemente kumulativ nachzuweisen; wir sehen diese Voraussetzungen im vorliegenden Einzelfall als erfüllt an.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 >
 > Sie haben das Recht, gegen diese Entscheidung Beschwerde bei [zuständige Aufsichtsbehörde] gemäß Art. 77 DSGVO oder Klage gemäß Art. 79 DSGVO zu erheben.
 
@@ -185,24 +184,23 @@ Verantwortlich (DSB-Freigabe): [Name, Datum]
 
 ### Querverweise
 
-- `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` — Abschnitt „Rechtsmissbrauch" mit vollständigem Prüfschema und Indizien-Checkliste
+- `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` — Abschnitt "Rechtsmissbrauch" mit vollständigem Prüfschema und Indizien-Checkliste
 
 ## Ergänzende Rechtsprechung (Aktualitäten)
 
-### EuGH C-579/21 — Protokolldaten und EuGH C-487/21 — Reichweite der Datenkopie
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**EuGH, Urt. v. 22.06.2023 – C-579/21 (Pankki S), NJW 2023, 2545:** Protokolldaten (Zugriffslogs, Server-Protokolle), in denen eine Person identifizierbar ist, sind personenbezogene Daten und unterliegen dem Auskunftsrecht nach Art. 15 DSGVO. Die IT-Sicherheitsfunktion der Protokollierung schließt die Auskunftspflicht nicht aus. Konsequenz: In der Systemabfrage (Schritt 4) sind Protokolldateien und Zugangslogs zwingend einzubeziehen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**EuGH, Urt. v. 04.05.2023 – C-487/21 (Österreichische Datenschutzbehörde), NJW 2023, 2253:** Art. 15 Abs. 3 DSGVO verlangt eine originalgetreue Reproduktion der personenbezogenen Daten; eine bloße Zusammenfassung oder strukturierte Übersicht genügt nicht, wenn nicht alle Daten vollständig abgebildet sind.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellen / Updates
 
-Stand: 05/2026. Aktualität prüfen bei weiteren EuGH-Entscheidungen zu Art. 15 und Art. 12 DSGVO. Insbesondere Entwicklungen zur Rechtsmissbrauchsrechtsprechung (EuGH C-526/24) und deren nationaler Umsetzung durch Instanzgerichte beobachten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung (v14.2 — Ergaenzung)
 
-- EuGH, Urt. v. 04.10.2024 — C-200/23 (Agentsia po vpisvaniyata), NJW 2025, 180 Rn. 38: Zur Verhältnismäßigkeit der Datenweitergabe an Dritte im Rahmen von Betroffenenrechten; der Verantwortliche muss bei Auskunftserteilung die Rechte Dritter (Art. 15 Abs. 4 DSGVO) und das Recht auf Schutz der eigenen Geschäftsgeheimnisse abwägen.
-- BGH, Urt. v. 15.11.2022 — VI ZR 617/20, NJW 2023, 512 Rn. 28: Zur Durchsetzung des Art. 15 DSGVO; fehlende Auskunft begründet Anspruch auf Schadensersatz nach Art. 82 DSGVO und Zwangsvollstreckung nach § 888 ZPO (Handlungspflicht).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

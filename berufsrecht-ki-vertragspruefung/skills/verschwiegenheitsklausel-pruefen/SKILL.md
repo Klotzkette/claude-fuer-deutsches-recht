@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklausel-pruefen
-description: "Pruefe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenueber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Lokalisiere Fundstelle im Vertrag bewerte Luecken."
+description: "Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Lokalisiere Fundstelle im Vertrag bewerte Luecken."
 ---
 
 # Verschwiegenheitsklausel prüfen
@@ -74,9 +74,7 @@ Tabellarische Bewertung pro Anforderung. Gelbe und rote Punkte fließen automati
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28–38: Verschwiegenheitspflicht des Rechtsanwalts gilt unabhängig von einer besonderen Schutzeinstufung der Daten; die Weitergabe an Dritte ohne Verschwiegenheitsbindung ist berufsrechtlich unzulässig.
-- BGH, Beschl. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Dienstleister muss als Berufshelfer nach § 53a StPO gebunden sein — dies setzt voraus, dass er vertraglich zur Mitwirkung am anwaltlichen Beruf verpflichtet ist, einschließlich der Verschwiegenheitspflicht.
-- BAG, Urt. v. 26.08.2021 — 8 AZR 253/20, NZA 2022, 192 Rn. 45: Zum Textformerfordernis nach § 126b BGB; E-Mail-Verpflichtungserklärungen erfüllen Textform, wenn sie dauerhaft zugänglich und dem Erklärenden zuzurechnen sind.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -85,11 +83,9 @@ Tabellarische Bewertung pro Anforderung. Gelbe und rote Punkte fließen automati
 - § 126b BGB — Textformerfordernis
 - § 203 Abs. 4 StGB — Strafrechtliche Sekundärpflicht
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 25–40: Zu den Anforderungen an die Verschwiegenheitsklausel; Textform; zeitlich unbegrenzte Geltung; sachlicher Anwendungsbereich.
-- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 60–70: Zur Sekundärpflicht des Berufsgeheimnisträgers nach § 203 Abs. 4 Satz 2 Nr. 1 StGB; Verpflichtung in Textform als strafbarkeitsbegrenzendes Merkmal.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Enthält der Vertrag eine explizite Verschwiegenheitsklausel — nicht nur eine allgemeine Vertraulichkeitsklausel?
@@ -125,7 +121,7 @@ Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE]
 
 <!-- AUDIT 27.05.2026
 Task: Bundle 016 – Halluzinations-Reparatur
-Problem: OLG Frankfurt 8 U 25/20 – NOT_FOUND. Keine Entscheidung OLG Frankfurt 8 U 25/20 vom 17.11.2020 in dejure.org nachweisbar ("Nichts gefunden").
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Beanspruchtes Thema: Haftung Notar Geheimnisverrat § 18 BNotO; NJW-RR 2021, 145.
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20

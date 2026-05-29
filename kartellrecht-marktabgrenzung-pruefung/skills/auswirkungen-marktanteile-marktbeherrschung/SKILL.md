@@ -1,6 +1,6 @@
 ---
 name: auswirkungen-marktanteile-marktbeherrschung
-description: "Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der Markt abgegrenzt wird. Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Normen § 18 Abs. 4 GWB 40-Prozent-Einzelmarktbeherrschungs-Vermutung § 18 Abs. 6 GWB gemeinsame Beherrschung Art. 102 AEUV. Pruefraster Marktanteilsberechnung je Marktdefinition rechtliche Konsequenzen Untersagung Missbrauch Zulassung. Output Sensitivitaets-Tabelle Marktanteil pro Szenario mit Ampelbewertung. Abgrenzung: gesamtbewertung-tragfaehigkeit fuer das Gesamturteil."
+description: "Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der Markt abgegrenzt wird. Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Normen § 18 Abs. 4 GWB 40-Prozent-Einzelmarktbeherrschungs-Vermutung § 18 Abs. 6 GWB gemeinsame Beherrschung Art. 102 AEUV. Prüfraster Marktanteilsberechnung je Marktdefinition rechtliche Konsequenzen Untersagung Missbrauch Zulassung. Output Sensitivitaets-Tabelle Marktanteil pro Szenario mit Ampelbewertung. Abgrenzung: gesamtbewertung-tragfähigkeit für das Gesamturteil."
 ---
 
 # Auswirkungen auf Marktanteile und Marktbeherrschung
@@ -26,7 +26,7 @@ Die Wahl der Marktdefinition ist selten neutral: Sie bestimmt, welcher Marktante
 | < 25% | Keine FKVO-Bedenken bei Fusion | EU-Fusionsleitlinien 2004 |
 | < 30% | GVO-Freistellung Vertikales (je Partei) | VO 2022/720 |
 | 40% | Marktbeherrschungsvermutung Deutschland | § 18 Abs. 4 GWB |
-| 50% | AKZO-Vermutung Marktmacht | EuGH Rs. C-62/86 |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | > 50% (kumuliert 3 Unternehmen) | Oligopol-Vermutung | § 18 Abs. 6 Nr. 1 GWB |
 | > 66⅔% (kumuliert 5 Unternehmen) | Oligopol-Vermutung | § 18 Abs. 6 Nr. 2 GWB |
 
@@ -59,7 +59,7 @@ HHI (weite Alternative): [Wert]
 
 ### 5. Schaltereffekte
 
-Identifizierung der „kritischen Grenze": Bei welchem Marktanteil kippt das rechtliche Ergebnis?
+Identifizierung der "kritischen Grenze": Bei welchem Marktanteil kippt das rechtliche Ergebnis?
 
 ```
 Kritische Grenze: [40% / 50% / GVO-Schwelle / andere]
@@ -74,10 +74,9 @@ Marktdefinitionsabhängigkeit des Ergebnisses: **gering (< 5 Prozentpunkte Unter
 
 ## Leitentscheidungen Marktanteile / Marktbeherrschung
 
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Marktanteil als primaerer Indikator Marktbeherrschung; Stabilitaet des Marktanteils ueber Zeit als Verstaerker.
-- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Widerlegung Marktbeherrschungsvermutung; trotz 40 Prozent Marktanteil wesentlicher Wettbewerb nachweisbar; Gesamtwuerdigung aller Faktoren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Ueberragende Marktstellung § 18 Abs. 3a GWB; Marktanteil plus Netzwerkeffekte plus Datenzugang kumulativ.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 40-70 (Vermutungsregel, Faktoren, Marktanteil)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

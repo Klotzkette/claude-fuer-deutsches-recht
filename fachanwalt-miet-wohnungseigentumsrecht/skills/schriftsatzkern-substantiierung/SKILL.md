@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Raeumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Räumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Wohnraum-, Gewerberaum- und WEG-Recht
@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Wohnraum-, Gewerberaum- und WEG-Recht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 535 ff. BGB, WEG, BetrKV, II. BV, MietenWoG (Land) und ihre Substantiierungs-Anforderungen:
@@ -196,20 +195,15 @@ Vor Versand:
 
 ## Aktuelle Rechtsprechung Miet-/WEG-Schriftsatz
 
-- BGH, Urt. v. 29.03.2017 - VIII ZR 45/16, NJW 2017, 1890 Rn. 18 — Der Vermieter muss in der Räumungsklage substantiiert darlegen, wann und wie die Kündigung zugegangen ist; bloße Behauptung "per Post am [Datum]" ohne Zugangsnachweis ist unzureichend; Einschreiben-Rückschein oder Boten-Protokoll sind vorzulegen.
-- BGH, Urt. v. 16.02.2005 - VIII ZR 6/04, NJW 2005, 1186 Rn. 11 — Bei der Mietminderungsklage muss der Mieter den Mangel so konkret beschreiben, dass das Gericht ohne Sachverständigen erkennen kann, ob ein erheblicher Mangel vorliegen könnte; pauschale Rügen wie "Schimmelpilzbefall" ohne Angabe von Lage Ausmaß Zeitraum reichen nicht aus.
-- BGH, Urt. v. 08.07.2022 - V ZR 202/21, NJW 2022, 3003 Rn. 15 — Im WEG-Anfechtungsverfahren nach § 44 Abs. 2 Satz 1 WEG n.F. ist eine gegen die übrigen Wohnungseigentümer gerichtete Klage unzulässig; Klagegegner ist ausschließlich die Gemeinschaft der Wohnungseigentümer.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Schriftsatz Miet-/WEG
 
 § 543 BGB (außerordentliche Kündigung) → § 546 BGB (Räumungsanspruch) → § 535 BGB (Gebrauchsgewährung) → § 536 BGB (Mietminderung) → § 44 WEG (Beschlussanfechtungsklage) → § 23 WEG (Beschlussfassung) → §§ 130 131 ZPO (Schriftsatz-Anforderungen) → § 259 ZPO (Klage auf künftige Leistung Miete)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer Mietrecht 15. Aufl., § 543 BGB Rn. 100-140 (Substantiierung Räumungsklage)
-- Baermann WEG 15. Aufl., § 44 Rn. 30-70 (Beschlussanfechtungsklage prozessual)
-- Lützenkirchen Mietrecht 3. Aufl., § 536 Rn. 80-100 (Substantiierung Mietminderungsklage)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Schriftsatzerstellung
 
 Kläre vor Beginn:
@@ -232,7 +226,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Berufung zum LG | Anpassung auf Berufungsbegruendung statt Klageschrift |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template Räumungsklage (Auszug)
 
@@ -277,6 +270,4 @@ Beweis: Kontoauszüge Anlage K4; Zeuge [NAME] zum Beweisthema Nicht-Zahlung.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- AUDIT 27.05.2026
-BGH V ZR 96/20 (03.12.2021): Az. nicht auffindbar auf dejure.org; ersetzt durch BGH V ZR 202/21 (08.07.2022) mit gleicher WEG-n.F.-Aussage (NJW 2022, 3003 Rn. 15).
-BGH VIII ZR 261/07: WRONG_TOPIC; tatsaechliches Thema ist Betriebskostenabrechnung formelle Ordnungsmaessigkeit (NJW 2008, 2260), nicht WEG-Beschlussanfechtungsbezeichnung; Eintrag geloescht.
 -->

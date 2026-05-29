@@ -1,6 +1,6 @@
 ---
 name: playbook-aus-eigenen-daten
-description: "Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Pruefraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. Abgrenzung: nicht Standardvorlagen aus Plugin-Bibliothek."
+description: "Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Prüfraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. Abgrenzung: nicht Standardvorlagen aus Plugin-Bibliothek."
 ---
 
 # Skill: Playbook aus eigenen Daten
@@ -33,8 +33,8 @@ Mandantenansprachen.
 
 Pflichtangabe der Nutzerin / des Nutzers:
 
-- **Mandatstyp** (z. B. „Kündigungsschutzklage Arbeitnehmer", „NDA-Review
-  Inbound", „Mietkündigung Vermieter", „GmbH-Gründung").
+- **Mandatstyp** (z. B. "Kündigungsschutzklage Arbeitnehmer", "NDA-Review
+  Inbound", "Mietkündigung Vermieter", "GmbH-Gründung").
 - **Erwarteter Wiederverwendungs-Kontext** (Mandantenkommunikation vs.
   interne Bearbeitung vs. Schriftsatzentwurf).
 - **Vertraulichkeitsstufe** der Eingaben (anonymisiert vs. echte
@@ -53,27 +53,27 @@ Pflichtangabe der Nutzerin / des Nutzers:
   Arbeitsorganisation; Abwägung gegen schutzwürdige Mandanteninteressen.
 - **Art. 32 DSGVO** — technische und organisatorische Maßnahmen
   (Zugriffsbeschränkung, Pseudonymisierung).
-- **BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, BVerfGE 113, 29 Rn. 99** —
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Schutz des Vertrauensverhältnisses zwischen Anwalt und Mandant
   (Vertraulichkeit auch gegenüber technischen Hilfsmitteln).
-- **BGH, Urt. v. 13.07.2021 – VI ZR 128/20, NJW 2021, 2956 Rn. 17** —
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Anforderungen an Anonymisierung in juristischen Veröffentlichungen,
   übertragbar auf interne Mustergenerierung.
-- **EuGH, Urt. v. 04.05.2023 – C-487/21, ECLI:EU:C:2023:369 Rn. 45** —
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Auskunftsrecht nach Art. 15 DSGVO umfasst keine Geschäftsgeheimnisse
   (anwendbar bei Mandantenauskunftsersuchen zu intern abgeleiteten
   Spielbüchern).
 
 Kommentare:
 
-- Henssler, in: Henssler/Prütting, BRAO, 6. Aufl. 2024, § 43a Rn. 41 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   (Reichweite der Verschwiegenheitspflicht bei interner
   Wissensverarbeitung).
 - Paal, in: Paal/Pauly, DS-GVO BDSG, 4. Aufl. 2024, Art. 6 Rn. 38
   (berechtigtes Interesse bei interner Arbeitsorganisation).
-- Grüneberg, BGB, 84. Aufl. 2025, § 666 Rn. 4 (Rechenschafts- und
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Aufbewahrungspflichten als Hintergrund anwaltlicher Aktenführung).
-- Fischer, StGB, 71. Aufl. 2024, § 203 Rn. 6a (Schweigepflicht bei
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   EDV-gestützter Verarbeitung).
 
 ## Ablauf
@@ -188,7 +188,7 @@ ausnahme: § 5 KSchG nachträgliche Zulassung
 
 - **Re-Identifikation trotz Pseudonymisierung.** Datums-Kombinationen,
   ungewöhnliche Sachverhalte und Standortangaben können Mandanten
-  identifizierbar machen, auch wenn Namen ersetzt sind (BGH, NJW 2021,
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   2956 Rn. 17). Anonymisierung muss mehrstufig sein.
 - **Übergeneralisierung.** Wenige Vergleichsfälle führen zu Spielbüchern,
   die seltene Konstellationen ignorieren — daher Mindestkorpus
@@ -206,7 +206,7 @@ ausnahme: § 5 KSchG nachträgliche Zulassung
   `regulierungs-aenderungs-monitor` und den `verlaengerungs-monitor`.
 - **§ 203 StGB-Risiko bei Cloud-Verarbeitung.** Wenn die Generierung
   in einer Cloud-Umgebung läuft, sind die Anforderungen aus
-  Fischer, StGB, § 203 Rn. 6a einzuhalten (Auftragsverarbeitungsvertrag,
+  lizenzpflichtige Literaturquelle, § 203 Rn. 6a einzuhalten (Auftragsverarbeitungsvertrag,
   Verschwiegenheitsverpflichtung der Auftragsverarbeiterin).
 
 ## Quellenpflicht

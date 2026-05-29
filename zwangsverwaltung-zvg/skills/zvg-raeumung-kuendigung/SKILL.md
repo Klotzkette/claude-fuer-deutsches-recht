@@ -1,6 +1,6 @@
 ---
 name: zvg-raeumung-kuendigung
-description: "Raeumung Kuendigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kuendigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kuendigung § 573 BGB ordentliche Kuendigung § 721 ZPO Raeumungsfrist. Pruefraster Schuldnerwohnrechte Mieterrechte Kuendigungsgruende Zutrittsrechte gerichtlicher Klageweg Raeumungsantrag. Output Kuendigungsschreiben und Raeumungsklage-Baustein mit Disclaimer. Abgrenzung zu zvg-mieteinzug-rueckstaende und zvg-glaeubiger-schuldner-kommunikation."
+description: "Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kündigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kündigung § 573 BGB ordentliche Kündigung § 721 ZPO Räumungsfrist. Prüfraster Schuldnerwohnrechte Mieterrechte Kündigungsgründe Zutrittsrechte gerichtlicher Klageweg Räumungsantrag. Output Kündigungsschreiben und Räumungsklage-Baustein mit Disclaimer. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-gläubiger-schuldner-kommunikation."
 ---
 
 # Räumung, Kündigung und Besitzkonflikte
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 12.01.2012 - IX ZB 258/10, NZI 2012, 250 Rn. 14 — Der Zwangsverwalter ist im Rahmen seiner Verwaltungsbefugnis berechtigt, bei erheblichem Zahlungsverzug des Mieters die außerordentliche Kündigung nach § 543 Abs. 2 Nr. 3 BGB auszusprechen; er muss die Verhältnismäßigkeit wahren und das Gericht informieren.
-- BGH, Beschl. v. 04.10.2007 - IX ZB 220/06, NZI 2007, 726 Rn. 19 — Bei der Räumung des Schuldners aus dem Objekt ist § 149 ZVG zu beachten; der Schuldner genießt besonderen Schutz, wenn er die Wohnung als Eigenheimbesitzer selbst nutzt; das Gericht entscheidet über die Zulässigkeit der Räumung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Räumung/Kündigung ZVG
 
 § 543 BGB (außerordentliche Kündigung Zahlungsverzug) → § 546 BGB (Räumungsanspruch) → § 149 ZVG (Schutz Schuldnerwohnraum) → §§ 5-6 ZwVwV (Besitzkonflikte) → §§ 885-886 ZPO (Räumungsvollstreckung) → § 940a ZPO (Räumungsverfügung einstweiliger Rechtsschutz)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 149 Rn. 5-25 (Schuldnerwohnraum Schutz)
-- Böttcher ZVG 6. Aufl., § 149 Rn. 10-30 (Räumungsrecht Zwangsverwaltung)
-- Schmidt-Futterer Mietrecht 15. Aufl., § 543 BGB Rn. 80-120 (fristlose Kündigung Verwaltung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Räumung/Kündigung
 
 1. Wer nutzt das Objekt — Mieter oder Schuldner selbst? (§ 149 ZVG Sonderschutz für Schuldner)

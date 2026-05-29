@@ -5,8 +5,8 @@ description: >
   Fristen meldet. Läuft standardmäßig wöchentlich. Sendet Meldungen an den
   Kanal, der in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`
   → Kanzleistil → Verlängerungshinweise eingetragen ist.
-  Auslöser: „was verlängert sich", „Verlängerungen prüfen",
-  „Verlängerungsbericht" oder nach Plan.
+  Auslöser: "was verlängert sich", "Verlängerungen prüfen",
+  "Verlängerungsbericht" oder nach Plan.
 model: sonnet
 tools: ["Read", "Write", "mcp__ironclad__*", "mcp__*__slack_send_message"]
 ---
@@ -24,7 +24,7 @@ Wöchentlich, Montagmorgen. Konfigurierbar — bei hohem Vertragsvolumen täglic
 ## Funktionsweise
 
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` lesen, um das Benachrichtigungsziel (Slack-Kanal oder E-Mail-Verteiler) zu ermitteln.
-2. Skill „Verlängerungs-Tracker" laden, Modus 2 ausführen (nächste 90 Tage).
+2. Skill "Verlängerungs-Tracker" laden, Modus 2 ausführen (nächste 90 Tage).
 3. Bei 🔴-Einträgen (Kündigungsfrist in 0–13 Tagen): sofort melden, unabhängig vom Zeitplan.
 4. Ist das Vertragsmanagementsystem (CLM) verbunden und das Register seit mehr als 30 Tagen nicht synchronisiert: Modus 3 ausführen, um die Daten zu aktualisieren.
 5. Bericht an das Benachrichtigungsziel senden.

@@ -1,6 +1,6 @@
 ---
 name: widerspruch-ohne-anwalt-einreichen
-description: "Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persoenliche Abgabe zur Niederschrift. Sicherer Versandweg fuer Buerger ohne Anwalt."
+description: "Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persoenliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt."
 ---
 
 # Widerspruch einreichen — die sicheren Wege

@@ -1,6 +1,6 @@
 ---
 name: elsj-einfache-sprache
-description: "Kanzlei oder Behoerde will juristischen Text fuer normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklaerte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Pruefraster Satzlaenge Aktiv-Passiv-Balance Glossar Fristen-Sicherung Rechtsinhalt-Vollstaendigkeit. Output Einfache-Sprache-Version mit Erklaerungen. Abgrenzung zu elsj-leichte-sprache (noch staerkere Vereinfachung B2/A2) und elsj-qualitaetsgate (Pruefung)."
+description: "Kanzlei oder Behoerde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Prüfraster Satzlaenge Aktiv-Passiv-Balance Glossar Fristen-Sicherung Rechtsinhalt-Vollständigkeit. Output Einfache-Sprache-Version mit Erklärungen. Abgrenzung zu elsj-leichte-sprache (noch staerkere Vereinfachung B2/A2) und elsj-qualitaetsgate (Prüfung)."
 ---
 
 # Einfache Sprache
@@ -16,10 +16,7 @@ verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 4. Gibt es bereits einen Hausstil oder eine Vorlage für Einfache Sprache in der Einrichtung?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 09.07.1981 - III ZR 198/80, BGHZ 81, 175 — Verstaendlichkeit von Vertragsklauseln gegenueber Verbrauchern als Massstab der Inhaltskontrolle nach § 9 AGBG.
-- BGH, Urt. v. 15.11.2006 - VIII ZR 3/06, NJW 2007, 504 — Informationspflicht bei Fristen muss so ausgestaltet sein, dass ein Durchschnittskunde sie ohne Rechtskenntnis verstehen kann.
-- BVerfG, Beschl. v. 19.10.1993 - 1 BvR 567/89, BVerfGE 89, 214 — Buergerinformationen muessen so gestaltet sein, dass sie dem Adressaten eine selbstbestimmte Entscheidung ermoeglichen.
-- EuGH, Urt. v. 03.06.2010 - C-484/08, NJW 2010, 2651 — Transparenzgebot bei Verbrauchervertraegen verlangt Klarheit und Verstaendlichkeit der Klausel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 11 BGG — Barrierefreiheit von Bescheiden und oeffentlichen Dokumenten
@@ -27,10 +24,9 @@ verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 - § 242 BGB — Treu und Glauben als Grundlage des Transparenzgebots
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung, Anhang 1 (Verstaendlichkeit digitaler Dokumente)
 
-## Kommentarliteratur
-- Kellner, Einfache Sprache im Recht, 2. Aufl. 2022, Kap. 3 (Juristische Verstaendlichkeitspflichten)
-- Bredel/Maaß, Leichte Sprache, 2016, Teil II (Uebertragungsregeln fuer Rechtstexte)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Einfache-Sprache-Fassung
 
 **Adressat:** Mandant / Buerger — **Tonfall:** klar, direkt, respektvoll

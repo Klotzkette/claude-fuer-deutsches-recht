@@ -1,6 +1,6 @@
 ---
 name: zv-notarielle-urkunde-grundschuld
-description: "Glaeubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Pruefraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung Sicherungsabrede Kuendigung § 1193 BGB 6-Monats-Frist Vollstreckung Grundstueck ZVG vs. persoenliches Vermoegen PfUeB. Output: Vollstreckungsstrategie und Schriftsatz-Entwurf. Abgrenzung zu zv-zvg-antrag-glaeubiger (Versteigerung) und zv-titel-klausel-zustellung."
+description: "Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Prüfraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung Sicherungsabrede Kündigung § 1193 BGB 6-Monats-Frist Vollstreckung Grundstueck ZVG vs. persoenliches Vermögen PfUeB. Output: Vollstreckungsstrategie und Schriftsatz-Entwurf. Abgrenzung zu zv-zvg-antrag-gläubiger (Versteigerung) und zv-titel-klausel-zustellung."
 ---
 
 # Vollstreckung aus notarieller Grundschuldurkunde
@@ -12,7 +12,7 @@ Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf ei
 ## Startet bei
 
 - Notarielle Urkunde mit Grundschuld vorhanden
-- Unterwerfung des Eigentümers/Schuldners „in sein gesamtes Vermögen" und/oder „in den jeweiligen Grundbesitz"
+- Unterwerfung des Eigentümers/Schuldners "in sein gesamtes Vermögen" und/oder "in den jeweiligen Grundbesitz"
 - Sicherungsabrede (Zweckerklärung) liegt vor
 - Forderung fällig (gekündigt, Zahlungsverzug)
 
@@ -30,8 +30,8 @@ Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf ei
 ## Workflow
 
 1. **Drei-Säulen-Prüfung speziell**:
-   - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als „Vollstreckungstitel" ausgestellt (in der Regel formularmäßig „der Eigentümer unterwirft sich ...").
-   - **Klausel** § 795 i.V.m. § 724 ZPO durch den Notar oder beim Amtsgericht. Bei Forderungsabtretung Klauselumschreibung § 727 ZPO – zwingend (BGH 30.3.2010 – XI ZR 200/09).
+   - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als "Vollstreckungstitel" ausgestellt (in der Regel formularmäßig "der Eigentümer unterwirft sich ...").
+   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - **Zustellung** der vollstreckbaren Ausfertigung an den Schuldner; bei dinglicher Vollstreckung an den Eigentümer (auch Dritter) nach § 800 Abs. 2 ZPO.
 2. **Kündigung Grundschuld § 1193 BGB**: sechs Monate Kündigungsfrist, abdingbar nur eingeschränkt (AGB-Kontrolle gem. § 307 BGB). Kündigungsschreiben zustellen.
 3. **Sicherungsabrede prüfen**: Welche Forderungen sichert die Grundschuld? Aktuelle Höhe? Zinsen? Übersicherung? Einrede § 1192 Abs. 1a BGB bei Abtretung.
@@ -47,7 +47,7 @@ Wird die gesicherte Forderung an einen neuen Gläubiger abgetreten (typisch bei 
 - den Klauselantrag beim ausstellenden Notar (oder hilfsweise § 797 ZPO) stellen
 - die Klauselzustellung an den Schuldner durchführen, bevor er aus der Urkunde vollstrecken darf.
 
-BGH 30.3.2010 – XI ZR 200/09: Ohne wirksame Klauselumschreibung keine Vollstreckung.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sicherungsgrundschuld – Einreden § 1192 Abs. 1a BGB
 
@@ -55,11 +55,10 @@ Schuldner kann gegenüber neuem Erwerber alle Einreden geltend machen, die ihm g
 
 ## Leitentscheidungen
 
-- BGH 30.3.2010 – XI ZR 200/09 (Klauselumschreibung Zessionar)
-- BGH 26.11.2009 – VII ZR 11/09 (Reichweite Unterwerfung in das gesamte Vermögen)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026: BGH XI ZR 181/08 (08.12.2009) entfernt – real topic MaBV-Buergschaft in Bautraeger-Insolvenz (NJW 2010,1284), nicht Kuendigung Grundschuld § 1193 BGB (WRONG_TOPIC). BGH VII ZR 56/13 (05.12.2013) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
-- BGH 9.7.2020 – V ZR 60/19 (Auslegung der Sicherungsabrede)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

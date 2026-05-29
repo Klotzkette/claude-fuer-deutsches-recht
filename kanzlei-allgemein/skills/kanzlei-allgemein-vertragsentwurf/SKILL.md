@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-vertragsentwurf
-description: "Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen fuer jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor. Normen §§ 305 ff. BGB AGB-Kontrolle § 134 BGB Gesetzesverstoesse § 311 BGB vorvertragliche Pflichten. Pruefraster Parteien Vertretung Handelsregister Leistungsbild Verguetung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte. Output Kommentierter Vertragsentwurf mit Risikomarkierungen offenen Verhandlungspunkten und Qualitaetsgate-Freigabe. Abgrenzung zu vertragsausfueller-Plugin (ausfuellen bestehender Vorlagen) und kanzlei-allgemein-schriftsatz-turbo."
+description: "Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor. Normen §§ 305 ff. BGB AGB-Kontrolle § 134 BGB Gesetzesverstoesse § 311 BGB vorvertragliche Pflichten. Prüfraster Parteien Vertretung Handelsregister Leistungsbild Verguetung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte. Output Kommentierter Vertragsentwurf mit Risikomarkierungen offenen Verhandlungspunkten und Qualitaetsgate-Freigabe. Abgrenzung zu vertragsausfueller-Plugin (ausfuellen bestehender Vorlagen) und kanzlei-allgemein-schriftsatz-turbo."
 ---
 
 # Vertragsentwurf und Vertrags-Canvas
@@ -13,10 +13,7 @@ description: "Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vo
 4. Gibt es Haftungsobergrenzen, Datenschutzklauseln (Art. 28 DSGVO AVV) oder IP-Regelungen, die benoetigt werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 25.11.2009 - VIII ZR 318/08, NJW 2010, 1061 — AGB-Unklarheitenregel § 305c Abs. 2 BGB: zweideutige Klauseln gehen zu Lasten des Verwenders; Vertragsentwurf muss eindeutig sein.
-- BGH, Urt. v. 06.11.2013 - KZR 58/11, NJW 2014, 1230 — Haftungsfreizeichnung in B2B-Vertrag: AGB-Klausel zur Haftungsbegrenzung auf grobe Fahrlassigkeit ist zulässig, bei Vorsatz unwirksam (§ 309 Nr. 7 BGB).
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Auftragsverarbeitungsklausel nach Art. 28 DSGVO als Pflichtbestandteil, wenn personenbezogene Daten verarbeitet werden; fehlende AVV-Klausel begründet DSGVO-Verstoß.
-- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung nach §§ 133, 157 BGB: objektiver Empfaengerhorizont als Massstab; Vertragsentwurf muss aus Empfaengerperspektive klar sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 305-310 BGB — AGB-Recht: Einbeziehung, Inhaltskontrolle, Klauselverbote
@@ -24,10 +21,9 @@ description: "Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vo
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag: Pflichtbestandteil bei Datenweitergabe
 - § 631 ff. BGB — Werkvertrag; § 611 ff. BGB — Dienstvertrag: Grundtypen-Abgrenzung
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB §§ 305-310 Rn. 1-80 (AGB: Kontrolle und Klauselverbote)
-- MüKoBGB/Basedow §§ 305-310 Rn. 1-100 (AGB-Recht: Systematik und Fallgruppen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill erzeugt schnell einen brauchbaren Vertragsentwurf oder eine Vertragsstruktur. Er hilft bei Dienstleistungsvertrag, Mandatsvereinbarung, NDA, SaaS, Kauf, Werkvertrag, Miet- oder Kooperationsvertrag. Er ist bewusst playbook-orientiert: erst die wirtschaftliche Logik, dann die Klauseln.

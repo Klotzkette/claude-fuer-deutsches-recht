@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2
-description: "IT-Sicherheits-Vergabe fuer KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei oeffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Pruefraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungspruefung allgemein siehe fachanwalt-vergaberecht-eignungspruefung; DSA/DMA siehe dsa-dma-Plugin."
+description: "IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin."
 ---
 
 # IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2
@@ -49,9 +49,9 @@ Spezial-Mandat: Öffentlicher Auftraggeber (KRITIS oder NIS2-Einrichtung) vergib
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
 | VK Bund | VK 2-71/23 | BSI C5-Zertifikat als Mindest-Eignungskriterium bei Cloud-Vergabe zulässig |
-| OLG Düsseldorf | Verg 18/22 | ISO 27001 als Mindeststandard verhältnismäßig; Bieter ohne Zertifikat zu Recht ausgeschlossen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Südbayern | Z3-3-3194-1-27-05/23 | NIS2-Anforderungen als Zuschlagskriterium mit 25 % Gewichtung vergaberechtskonform |
-| EuGH | C-263/19 | IT-Sicherheitsanforderungen bei strategisch wichtigen Aufträgen dürfen Wettbewerb einschränken |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -82,10 +82,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — IT-Sicherheits-Vergabe BSI IT-Sig-2 | Ruege/NPA IT-Sicherheits-Anforderungen; Template unten |
 | Variante A — BSI-Anforderung sachlich falsch | Sachliche Ruege + technische Stellungnahme |
 | Variante B — Auftraggeber besteht auf BSI-Zertifikat | Nachbesserungsmoeglichkeit pruefen; Zertifizierungs-Timeline |
-| Variante C — Auslaendischer Anbieter betroffen | Gleichwertigkeit-Nachweis Art. 25 RL 2014/24/EU |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -227,7 +225,7 @@ Mit freundlichen Gruessen
 | Einwand | Reaktion |
 |---|---|
 | ISO 27001 Typ 1 genügt nicht — KRITIS-Pflicht | BSI C5 Typ 2 nur zwingend bei Cloud nach BSI C5-Anwendungshinweis; Im On-Premises-Betrieb ISO 27001 ausreichend |
-| US-Cloud-Act-Risiko nicht mitigierbar | EU-Hosting-Verpflichtung; DSGVO Art. 46 SCC-Klauseln; Keine automatische Ablehnung US-Anbieter nach EuGH C-311/18 (Schrems II) wenn Zusatzmaßnahmen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | NIS2 gilt noch nicht vollständig | BSIG-Übergangsfristen beachten; Vertragsklauseln schon jetzt auf NIS2-Niveau formulieren |
 | Bieter hat nur ISO 27001 Typ 1 | Nachbesserungspflicht prüfen: Kann Bieter bis Vertragsstart Typ 2 erwerben? Zustimmungsvorbehalt-Klausel |
 | Sub-Prozessor-Zustimmung nicht praktikabel | Allgemeine Sub-Prozessor-Liste im Vertrag; Widerspruchsrecht statt Vorab-Zustimmung nach Art. 28 Abs. 2 Satz 2 DSGVO |
@@ -253,7 +251,7 @@ Mit freundlichen Gruessen
 
 ## Quellen
 
-GWB §§ 97, 122, 124, 127, 160, 169; VgV §§ 14, 42 ff.; BSIG §§ 2, 8a, 8b, 9b, 32; NIS2UmsuCG; IT-SiG 2.0 (18.05.2021); DORA VO (EU) 2022/2554; NIS2-RL 2022/2555; CRA VO (EU) 2024/2847; DSGVO Art. 28, 32, 46; SÜG; BSI C5-Anforderungskatalog 2023; ISO/IEC 27001:2022; VK Bund VK 2-71/23; OLG Düsseldorf Verg 18/22; EuGH C-311/18; EuGH C-263/19. Stand 06/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Output-Template IT-Sicherheitsvergabe
 
@@ -282,7 +280,7 @@ Vergabe: [BEZEICHNUNG]
 2. Normen:
    § 122 Abs. 4 GWB (Eignungsanforderungen verhaeltnismaessig)
    § 97 Abs. 2 GWB (Gleichbehandlung)
-   EuGH C-537/19
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Antrag:
    Abaenderung der Eignungsanforderung auf [angemessene Stufe].
@@ -294,5 +292,4 @@ Vergabe: [BEZEICHNUNG]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- Art. 25 RL 2014/24/EU: Kein Gerichtsurteil, sondern Artikel der EU-Vergaberichtlinie (Zugang von Drittstaaten-Bietern unter internationalen Übereinkommen). Die Verwendung im SKILL als Normverweis in der Strategischen Optionen-Tabelle (Variante C – Ausländischer Anbieter) ist inhaltlich korrekt. Kein Eintrag als fake Gerichtsentscheidung vorhanden. Kein Änderungsbedarf.
 -->

@@ -1,6 +1,6 @@
 ---
 name: einreichung-papierform-sozialgericht-mit-abschriften
-description: "Klage und Schriftsatz per Post beim SG einreichen. Abschriften fuer Gegner und Akte. Adressierung Einschreiben Empfangsbestaetigung. Praktischer Versandweg fuer Buerger."
+description: "Klage und Schriftsatz per Post beim SG einreichen. Abschriften für Gegner und Akte. Adressierung Einschreiben Empfangsbestätigung. Praktischer Versandweg für Buerger."
 ---
 
 # Klage per Post einreichen — mit Abschriften

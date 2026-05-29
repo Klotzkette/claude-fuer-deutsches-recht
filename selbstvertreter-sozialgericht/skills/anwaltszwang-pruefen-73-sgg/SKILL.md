@@ -1,6 +1,6 @@
 ---
 name: anwaltszwang-pruefen-73-sgg
-description: "Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklaert. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen."
+description: "Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen."
 ---
 
 # Brauchen Sie einen Anwalt? Der § 73 SGG

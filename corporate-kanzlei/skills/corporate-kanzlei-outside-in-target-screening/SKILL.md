@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-outside-in-target-screening
-description: "Outside-In-Zielunternehmen-Screening aus oeffentlichen Quellen fuer M&A-Vorpruefung: M&A-Team benoetigt schnellen Ueberblick ueber Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 21 ff. (Stimmrechtsmitteilungen). Pruefraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf."
+description: "Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen für M&A-Vorprüfung: M&A-Team benoetigt schnellen Überblick über Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 33 ff. (Stimmrechtsmitteilungen). Prüfraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf."
 ---
 
 # Outside-In Target Screening
@@ -18,21 +18,17 @@ description: "Outside-In-Zielunternehmen-Screening aus oeffentlichen Quellen fue
 
 - **§ 3 GwG** — UBO-Identifizierung; wirtschaftlich Berechtigter; auch im Screening erfassen
 - **Art. 14 DSGVO** — Informationspflicht bei Datenerhebung von Dritten; Grenzen oeffentlicher Quellen
-- **§ 38 WpHG** — Stimmrechtsmitteilungen bei borsennotierten Gesellschaften; BaFin-Datenbank
+- **§§ 33 ff. WpHG** — Stimmrechtsmitteilungen bei börsennotierten Gesellschaften; BaFin-Datenbank
 - **§ 325 HGB** — Offenlegungspflicht Jahresabschluss; Abrufbar im Bundesanzeiger
 - **§ 9 HGB** — Handelsregister-Einsichtsrecht; jedermann kann einsehen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.10.2019 - III ZR 42/19, NJW 2019, 3298 — oeffentliche Unternehmensregisterdaten koennen fuer Screening-Zwecke genutzt werden; keine Datenschutzverletzung bei Abfrage aus oeffentlichem Register
-- BVerfG, Beschl. v. 16.07.2021 - 1 BvR 2942/15, NJW 2021, 2875 — Transparenzregister-Daten wirtschaftlich Berechtigter: eingeschraenkte oeffentliche Zugangsmoeglichkeit nach EuGH-Entscheidung; berufliche Begruendung fuer Zugang erforderlich
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 1 — Target Screening und Vorbereitung
-- MueKo HGB/Schmidt § 9 Rn. 1 ff. — Handelsregister-Einsicht
-- Richter/Schuurman GwG § 3 — UBO im Screening-Prozess
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Outside-In-Quellen-Matrix
 
 | Quelle | Informationen | Verfuegbarkeit | Verlaesslichkeit |
@@ -135,14 +131,14 @@ VERTRAULICH
 
 ## Rote Schwellen
 
-- UBO ungeklaert → GwG-Pflicht; keine Mandatsannahme ohne vollstaendige UBO-Klaerung
+- UBO ungeklärt → GwG-Pflicht; keine Mandatsannahme ohne vollständige UBO-Klärung
 - Jahresabschluss fehlt → grosses Risiko; § 325 HGB-Verstoss als Red Flag
 - Screening ohne Transparenzregister-Abfrage → wirtschaftlich Berechtigter unbekannt
 - DSGVO: Personendaten aus Screening speichern ohne Zweck → unzulaessige Verarbeitung (Art. 5 DSGVO)
-- Insider-Probleme bei borsennotierten Targets → Art. 14 MAR; Insider-Log anlegen
+- Insider-Probleme bei börsennotierten Targets → Art. 14, 17, 18 MAR; Insider-Liste und Ad-hoc-Prüfung anlegen
 
 ## Quellen
 
-- § 3 GwG; § 9 HGB; § 325 HGB; § 38 WpHG; Art. 14 DSGVO
-- BGH III ZR 42/19 (Registerabfrage); BVerfG 1 BvR 2942/15 (Transparenzregister-Zugang)
+- § 3 GwG; § 9 HGB; § 325 HGB; §§ 33 ff. WpHG; Art. 14 DSGVO
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 1

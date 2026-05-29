@@ -1,6 +1,6 @@
 ---
 name: nyc-korrespondenz-und-conflict-check
-description: "Mandat-Workflow mit US-Korrespondenzkanzlei fuer Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Pruefung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Pruefraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation."
+description: "Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
@@ -179,4 +179,4 @@ Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klae
 
 > **ABA Model Rules of Professional Conduct, Rule 1.7 / Rule 1.10:** Konflikte muessen schon vor Mandatsbeginn gecheckt werden; ein spaeter entdeckter Interessenkonflikt erfordert Niederlegung des Mandats und kann US-Anwaltszulassung gefaehrden; internationale Kanzleien mit gemeinsamen Mandanten muessen einen konsolidierten Conflicts-Check fuehren.
 
-> **EuGH, Urt. v. 18.05.2021 — C-537/19 (Ryanair DAC / DelayFix):** Bei internationalen Mandatsverhaeltnissen bestimmt sich die anwendbare Berufsordnung nach dem Recht des Staates, in dem der Anwalt taetig wird; for US-Prozesshandlungen gilt ausschliesslich US-Anwaltsrecht, was direkte Konsequenzen fuer die Muenchener Instruktions-Praxis hat.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

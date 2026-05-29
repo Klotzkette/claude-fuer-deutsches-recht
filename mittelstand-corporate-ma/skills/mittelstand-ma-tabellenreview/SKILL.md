@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-tabellenreview
-description: "Kanzlei prueft Dokumente Tabellen Formeln und Datenpunkte fuer Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Pruefraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet)."
+description: "Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet)."
 ---
 
 # Freistehender Tabellenreview (Mittelstand)
@@ -36,10 +36,7 @@ Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 17/03 | 16.02.2004 | Unrichtige Bilanzierung: Geschäftsführer haftet; kein Schutz durch Steuerberater-Irrtum |
-| OLG München | 23 U 3469/21 | 11.01.2023 | Formelbruch in Excel-Finanzmodell: Käufer kann Kaufpreisminderung verlangen, wenn Fehler für Kaufentscheidung kausal war |
-| BGH | II ZR 212/06 | 14.01.2008 | Working Capital im SPA: Abweichung von vereinbarter Methodik führt zu Kaufpreisanpassung |
-| OLG Frankfurt | 26 U 35/19 | 10.09.2020 | Inkonsistente Daten im Verkaufsprozess: Verkäufer haftet für erkennbar falsche Angaben |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema / Review-Würfel (Mittelstand-angepasst)
 
@@ -179,8 +176,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 16.02.2004, Az. II ZR 17/03 (Unrichtige Bilanzierung, GF-Haftung)
-- OLG München, Urt. v. 11.01.2023, Az. 23 U 3469/21 (Formelbruch Excel)
-- BGH, Urt. v. 14.01.2008, Az. II ZR 212/06 (Working Capital im SPA)
-- OLG Frankfurt, Urt. v. 10.09.2020, Az. 26 U 35/19 (Inkonsistente Daten)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 242, 252, 253, 255, 264 HGB; §§ 4, 5 EStG

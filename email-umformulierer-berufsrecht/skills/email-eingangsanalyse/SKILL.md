@@ -1,6 +1,6 @@
 ---
 name: email-eingangsanalyse
-description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Pruefraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht fuer die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz)."
+description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz)."
 ---
 
 # E-Mail-Eingangsanalyse
@@ -15,10 +15,7 @@ Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotion
 4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — Ehrverletzende Aeusserungen in E-Mails loesen Unterlassungs- und Schadensersatzansprueche aus § 823 Abs. 1 BGB aus.
-- BAG, Urt. v. 27.09.2012 - 2 AZR 646/11, NZA 2013, 334 — Beleidigende Inhalte in elektronischer Korrespondenz koennen ausserordentliche Kuendigung rechtfertigen.
-- OLG Koeln, Urt. v. 06.12.2016 - 15 U 57/16 — Sarkasmus und Ironie in schriftlicher Kommunikation koennen als herabsetzende Aeusserung i.S.v. § 43a Abs. 3 BRAO gewertet werden.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Geschaeftliche Korrespondenz mit kreditschaedigenden Aeusserungen erfullt Tatbestand des § 824 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: verhindert Uebernahme aggressiven Tons aus Eingangskorrespondenz
@@ -26,10 +23,9 @@ Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotion
 - § 241 StGB — Bedrohung: bei Drohungen Dokumentationspflicht und ggf. Strafanzeige erwaegen
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Gegenschreiben darf keine neuen Verletzungen setzen
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 1-40 (Sachlichkeitsgebot: Analyse unsachlicher Eingaben)
-- Fischer, StGB § 185 Rn. 1-30 (Beleidigung in schriftlicher Kommunikation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Analyseebenen
 
 Die Eingangsanalyse untersucht den Text auf vier Ebenen: sprachliche Auffälligkeiten (Schimpfwörter, Großbuchstaben, übermäßige Satzzeichen), rhetorische Stilmittel (Sarkasmus, Ironie, Übertreibung), inhaltliche Vorwürfe (Kompetenzabsprache, Unterstellungen, Drohungen) sowie strukturelle Mängel (fehlende sachliche Begründung, reine Emotionsäußerung ohne Kernbotschaft).
@@ -48,13 +44,13 @@ Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder S�
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „SIE HABEN MIR NICHT GEANTWORTET!!! Das ist eine Frechheit!!!"
+**Vorher:** "SIE HABEN MIR NICHT GEANTWORTET!!! Das ist eine Frechheit!!!"
 **Nachher (Analyse):** Konfliktgrad hoch. Trigger: Großbuchstaben, Mehrfach-Ausrufezeichen, Vorwurf fehlender Reaktion. Kern: Bitte um Rückmeldung auf ein früheres Schreiben.
 
-**Vorher:** „Ich erwarte sofort eine Erklärung, sonst schalte ich meinen Anwalt ein."
+**Vorher:** "Ich erwarte sofort eine Erklärung, sonst schalte ich meinen Anwalt ein."
 **Nachher (Analyse):** Konfliktgrad mittel. Trigger: Drohgebärde, Ultimatum. Kern: Bitte um Stellungnahme zu einem bestimmten Sachverhalt.
 
-**Vorher:** „Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
+**Vorher:** "Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
 **Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
 
 ## Ausgabeformat

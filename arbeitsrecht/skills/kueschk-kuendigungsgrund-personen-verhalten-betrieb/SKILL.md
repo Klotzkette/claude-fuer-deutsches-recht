@@ -1,6 +1,6 @@
 ---
 name: kueschk-kuendigungsgrund-personen-verhalten-betrieb
-description: "Drei Kuendigungsgruende nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkuendigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts."
+description: "Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts."
 ---
 
 # Kündigungsgrund: Personen-, Verhaltens- oder Betriebsbedingt
@@ -64,18 +64,11 @@ Mehrere Gründe kombiniert? → Alle Pfade prüfen, schwächsten angreifen
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 — Betriebsbedingte Kündigung: Der Arbeitgeber muss konkret darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf dauerhaft entfallen ist. Pauschaler Verweis auf Auftragseinbrüche genügt nicht.
-- BAG, Urt. v. 29.06.2017 – 2 AZR 302/16, NZA 2018, 61 — Verhaltensbedingte Kündigung: Bei steuerbarem Verhalten ist eine Abmahnung grundsätzlich erforderlich; Ausnahme nur bei schwerwiegender Pflichtverletzung, die das Vertrauen endgültig zerstört (z.B. Diebstahl).
-- BAG, Urt. v. 26.11.2009 – 2 AZR 272/08, NZA 2010, 743 — Personenbedingte Kündigung wegen Krankheit: Dreistufenprüfung — (1) Negativprognose, (2) erhebliche Beeinträchtigung betrieblicher Interessen, (3) Interessenabwägung —; der Arbeitgeber trägt die volle Darlegungs- und Beweislast.
-- BAG, Urt. v. 23.01.2014 – 2 AZR 582/13, NZA 2014, 962 — Sozialauswahl nach § 1 Abs. 3 KSchG: Der Arbeitnehmer muss konkret vortragen, welche vergleichbaren Arbeitnehmer weniger schutzwürdig sind; eine „Forderung auf Auskunft“ reicht nicht aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 100-180 — (Drei Grundarten, Prüfungsreihenfolge)
-- KR/Griebeling/Rachor, 13. Aufl. 2022, § 1 KSchG Rn. 300 ff. — (betriebsbedingte Kündigung, Darlegungslast)
-- Schaub/Linck, ArbeitsR-HdB, 20. Aufl. 2023, § 133 Rn. 1 ff. — (verhaltensbedingter Kündigungsgrund)
-- APS/König, 6. Aufl. 2022, § 1 KSchG Rn. 500 ff. — (personenbedingte Kündigung Krankheit)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sonderkündigungsschutz immer prüfen
 
 Unabhängig vom Kündigungsgrund: Prüfe stets, ob ein besonderer Kündigungsschutz besteht (Skill `kueschk-sonderkuendigungsschutz-checkliste`). Sonderkündigungsschutz geht dem allgemeinen Kündigungsschutz vor und erfordert zusätzliche behördliche Zustimmungen.

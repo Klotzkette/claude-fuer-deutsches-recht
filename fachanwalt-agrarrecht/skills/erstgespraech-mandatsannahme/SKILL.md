@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Agrar-, Forst- und Lebensmittelrecht
@@ -156,16 +156,16 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 28.04.2016 — **BLw 1/14**, RdL 2016, 230 Rn. 12: Im Erstgespräch für Agrarsachen ist sofort die sachliche Zuständigkeit (Landwirtschaftsgericht nach LwVG oder Verwaltungsgericht) zu klären; Fehlleitungen zu Gerichten ohne Zuständigkeit können Fristversäumnisse auslösen, da das unzuständige Gericht die Klage nicht von Amts wegen weiterleitet.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 14.03.2019 — **3 C 1.18**, BVerwGE 165, 111 Rn. 14: Fristen im Verwaltungsrecht (§§ 70, 74 VwGO) laufen unabhängig von der Mandat-Erteilung; der Anwalt muss daher im Erstgespräch sofort alle Bescheide und deren Zustellungsdatum prüfen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 26.04.2013 — **LwZR 5/12**, NJW-RR 2013, 1226 Rn. 12: GwG-Identifizierung gilt auch für Agrarsachen bei Beratung über Grundstücksveräußerungen und Hofübertragungen; wirtschaftlich Berechtigter bei Landwirtschaftsbetrieb in GbR-Form muss nach §§ 11 ff. GwG identifiziert werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normenkette Erstgespräch Agrarrecht
 
 LwVG §§ 1 ff. (Zuständigkeit klären) → §§ 70, 74 VwGO (Fristen Förderbescheide sofort prüfen) → GrdstVG (Genehmigungspflicht prüfen) → §§ 10, 11 GwG (GwG-Identifizierung, bes. GbR) → §§ 3, 3a RVG (Honorarvereinbarung) → § 9 RVG (Vorschuss) → §§ 195, 199 BGB (Verjährungsstand sofort ermitteln)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. I (Kanzleiorganisation Agrarrecht): Erstgespräch-Besonderheiten (Sachverständige Ertragslage, LwVG-Zuständigkeit, Hofbewertung).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

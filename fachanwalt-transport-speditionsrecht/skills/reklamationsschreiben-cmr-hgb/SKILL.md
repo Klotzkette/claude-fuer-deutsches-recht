@@ -1,6 +1,6 @@
 ---
 name: reklamationsschreiben-cmr-hgb
-description: "Reklamationsschreiben fuer Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Pruefraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift."
+description: "Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift."
 ---
 
 # Reklamationsschreiben CMR und HGB
@@ -51,12 +51,9 @@ Das Reklamationsschreiben ist im Transport- und Speditionsrecht die entscheidend
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 76/13 | BGH, 22.05.2014 | CMR Art. 30: Reklamationsfrist beginnt ab tatsächlicher Ablieferung; bei erkennbarem Schaden ist schriftliche Erklärung im Frachtbrief ausreichend |
-| BGH I ZR 95/05 | BGH, 04.05.2007 | § 435 HGB: Leichtfertigkeit bei Systemversagen in der Eingangsabteilung (kein Scan); Organisationsmängel begründen qualifiziertes Verschulden |
-| BGH I ZR 88/04 | BGH, 13.10.2005 | CMR Art. 29: gleichstehendes Verschulden bei fehlender Schnittstellenkontrolle im Paketumschlag |
-| OLG Hamburg 6 U 201/18 | OLG Hamburg, 2019 | Frachtbrief-Vorbehalt bei Annahme genügt als wirksame Reklamation nach Art. 30 CMR; formalisierte Einzel-Reklamation entbehrlich |
-| OLG München 7 U 3912/20 | OLG München, 2021 | SDR-Kurs für Haftungshöchstbetrag CMR Art. 23: maßgeblich Ablieferungstag oder Klagetag, nicht Schadenstag |
-| BGH I ZR 100/19 | BGH, 30.01.2020 | CMR Art. 29: Mangelnde Schnittstellenkontrolle begründet leichtfertiges Organisationsverschulden; Frachtführer trägt Beweislast für Entlastung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -207,7 +204,7 @@ Warenwert:         EUR 75.000 (Handelsrechnung, Anlage K1)
 
 Differenz zu regulärer Haftung: EUR 65.583
 → Nachweis qualifiziertes Verschulden Art. 29 CMR
-  (Organisationsverschulden BGH I ZR 100/19) anstreben.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---
@@ -224,7 +221,7 @@ Differenz zu regulärer Haftung: EUR 65.583
 | Übernahme in ordnungsgemäßem Zustand | Absender/Empfänger; erleichtert durch Frachtbrief ohne Vorbehalt seitens Frachtführer |
 | Schaden zwischen Übernahme und Ablieferung | Anspruchsteller; durch Frachtbrief mit Vorbehalt und Fotos |
 | Haftungsausschluss CMR Art. 17 Abs. 2/4 | Frachtführer |
-| Qualifiziertes Verschulden CMR Art. 29 | Anspruchsteller muss Organisationsmangel darlegen; BGH I ZR 95/05: systemisches Versagen genügt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Wertdeklaration (erhöhte Haftung) | Absender: Nachweis des Eintrags im Frachtbrief; fehlender Eintrag geht zu seinen Lasten |
 
 ---
@@ -246,11 +243,11 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Frachtbrief-Vorbehalt nicht ausreichend formuliert" | Rechtsprechung ist großzügig: allgemeiner Vorbehalt bei Annahme reicht (OLG Hamburg 6 U 201/18); nur völliges Schweigen schadet |
-| „Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
-| „Haftungshöchstbetrag gilt; voller Warenwert nicht ersatzfähig" | Art. 29 CMR prüfen: Organisationsverschulden (kein Scan, keine Kontrolle) kann qualifiziertes Verschulden begründen (BGH I ZR 100/19) |
-| „Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
-| „Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| "Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
+| "Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
 
 ---
 
@@ -289,4 +286,4 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 ## Quellen
 
-CMR Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr 1956, Art. 17, 23–32, 41. HGB §§ 407–475 (Frachtrecht), §§ 453–466 (Speditionsrecht). BGH I ZR 76/13 (Reklamationsfrist CMR). BGH I ZR 95/05 (Leichtfertigkeit § 435 HGB). BGH I ZR 88/04 (Art. 29 CMR). BGH I ZR 100/19 (Schnittstellenkontrolle). Koller, Transportrecht, aktuelle Auflage. Thume, CMR-Kommentar. MüKo-HGB Boesche §§ 425 ff. Stand: 05/2026.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

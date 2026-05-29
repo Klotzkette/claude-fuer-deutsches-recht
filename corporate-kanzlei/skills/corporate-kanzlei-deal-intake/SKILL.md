@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-deal-intake
-description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Pruefraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); fuer laufendes Mandat siehe kommandocenter."
+description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter."
 ---
 
 # Deal-Intake
@@ -25,16 +25,11 @@ description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.07.2018 - III ZR 183/17, NJW 2018, 2957 — Interessenkollision: Anwalt darf nicht fuer beide Seiten in einer Transaktion taetig sein; § 43a BRAO; Rechtsfolge: Schadensersatz
-- BGH, Urt. v. 15.06.2021 - IX ZR 225/17, NJW 2021, 2425 — Mandate trotz potenziellem Interessenwiderstreit: Mandant kann auf Konfliktpruefung verzichten, wenn vollstaendig informiert (Informed Consent); aber bei Loyalitaetskonflikten kein Verzicht moeglich
-- BGH, Urt. v. 23.09.2020 - III ZR 453/19, NJW 2021, 148 — GwG-Pflicht bei M&A: Kanzlei muss wirtschaftlich Berechtigten des Mandanten kennen; bei PEP-Status: erhoehte Sorgfalt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Pruestell, BRAO (3. Aufl. 2019) § 43a Rn. 1 ff. — Interessenwiderstreit
-- Richter/Schuurman, Geldwaeschegesetz (2021) §§ 2-17 — CDD-Pflichten bei Kanzleien
-- Fleischer/Goette, MueKo GmbHG Bd. 1 — Deal-Strukturierung und Mandatsrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Deal-Intake-Checkliste
 
 ### A. Erste Informationen sichern
@@ -133,5 +128,5 @@ NAECHSTE AKTION: [TODO mit Datum und Owner]
 ## Quellen
 
 - §§ 43, 43a, 45 BRAO; §§ 2-17 GwG; Art. 18 MAR; § 13 WpHG
-- BGH III ZR 183/17 (Interessenkollision); BGH IX ZR 225/17 (Informed Consent); BGH III ZR 453/19 (GwG-Pflicht)
-- Henssler/Pruestell BRAO § 43a Rn. 1 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.

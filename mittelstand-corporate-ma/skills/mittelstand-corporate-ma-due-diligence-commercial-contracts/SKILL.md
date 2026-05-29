@@ -56,15 +56,11 @@ Prüft Kunden-, Lieferanten-, Händler-, SaaS-, Lizenz- und Materialverträge au
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 16.12.2020 - VIII ZR 304/19, NJW 2021, 1016 — Change-of-Control: KoC-Klausel greift auch bei mittelbarem Anteilserwerb; wirtschaftlicher Durchgriff auf die Zielgesellschaft ist massgeblich; nicht nur formaler Kontrollerwerb
-- BGH, Urt. v. 22.06.2011 - VIII ZR 98/10, BGHZ 190, 94 — AGB-Haftungsklausel: Pauschalschadenersatz-Klausel in B2B-Liefervertrag ist unwirksam nach § 309 Nr. 5 BGB, wenn sie den tatsaechlichen Schaden erheblich uebersteigt
-- BGH, Urt. v. 25.09.2014 - I ZR 24/14, NJW 2015, 328 — IP-Lizenzvertrag: bei Change-of-Ownership greift Kuendigungsrecht des Lizenzgebers, sofern vertraglich vereinbart; Zustimmungsklausel ist zu beachten
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Basedow, §§ 305-310 Rn. 1-100 (AGB-Recht)
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 2 § 4 (Kommerzielle Vertrags-DD), 8. Auflage
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Vertragsmatrix erstellen:** alle materiellen Vertraege auflisten; je Vertrag: Parteien, Laufzeit, Kuendigungsrechte, Wert, Change-of-Control-Klausel

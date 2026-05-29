@@ -1,6 +1,6 @@
 ---
 name: richtlinien-skelett-erzeugen
-description: "KI-Nutzungsrichtlinie Skelett fuer Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollstaendige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Pruefraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine fuer Kurzfassung und zu Compliance-Regelsatz."
+description: "KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz."
 ---
 
 # Richtlinien-Skelett erzeugen
@@ -20,7 +20,7 @@ Eine vollständige KI-Nutzungsrichtlinie muss die relevanten Rechtsquellen kohä
 2. **13 Kapitel anlegen**: Alle Kapitel mit Überschrift und Kurzbeschreibung vorstrukturieren.
 3. **Kapitel priorisieren**: Je nach Kanzlei-Profil einzelne Kapitel ausführlicher oder schlanker gestalten (z.B. Drittland-Transfer nur bei internationalen Mandaten relevant).
 4. **Prompting-Anlage anhängen**: Vier-Elemente-Methode als Anhang immer beifügen.
-5. **Platzhalter einbauen**: Für kanzleispezifische Angaben (Name, DSB, Ansprechpartner, Datum) Platzhalter „[...]" verwenden.
+5. **Platzhalter einbauen**: Für kanzleispezifische Angaben (Name, DSB, Ansprechpartner, Datum) Platzhalter "[...]" verwenden.
 6. **Versionierung einrichten**: Stand-Datum und Versions-Nummer im Dokumentkopf festhalten.
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -89,10 +89,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrechtsakte, neue BRAK-Hinweise, neue BAG- oder OLG-Entscheidungen) anzupassen. Der Skill `richtlinien-update-zyklus` legt das Prüfintervall fest.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht § 43a Abs. 2 BRAO erfordert strukturierte interne Regelungen — Richtlinien-Skelett als Dokumentationsgrundlage.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer-Regelung muss in Richtlinie verankert werden.
-- BGH, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Betriebsrats-Beteiligung bei Richtlinien-Erstellung (§ 87 BetrVG); Skelett muss Mitbestimmungsrelevanz abbilden.
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Art. 22 DSGVO muss in Richtlinie operationalisiert werden — Richtlinien-Skelett muss diesen Abschnitt vorsehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 KI-VO — KI-Kompetenzverpflichtung als Richtlinien-Anforderung

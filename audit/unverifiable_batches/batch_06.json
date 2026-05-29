@@ -1,0 +1,497 @@
+[
+  {
+    "court": "?",
+    "az": "5 RJ 64/02",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 5 RJ 64/02 R: Erwerbsminderung Mehrfacherkrankungen Summierung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "8 SO 33/07",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 8 SO 33/07 R: Begründungspflicht sozialrechtlicher Bescheide § 35 SGB X",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-widerspruch-sozialleistung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "9 SB 5/10",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BSG B 9 SB 5/10 R: GdB-Vergleich Bindungswirkung Abänderungsklausel",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "I ZR 107/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH I ZR 107/21",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "produktrecht/skills/ist-das-ein-problem/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "I ZR 202/25",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH I ZR 202/25: Maklervertrag § 656a BGB Textform",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "schriftform-und-textform-bgb/skills/maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "II ZR 165/95",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH II ZR 165/95 (1996): Einstweilige Verfügung gegen Vereinsstrafe",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sportrecht/skills/fachanwalt-sportrecht-vereinsstrafrecht/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "II ZR 294/11",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH II ZR 294/11 (11.06.2013): AGB-Kontrolle Sportvertragsklauseln",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-sportrecht/skills/fachanwalt-sportrecht-spielervertrag/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "IV ZR 31/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH IV ZR 31/12 (in reference list of VVG/BGB cases)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-versicherungsrecht/skills/deckungsanfrage-pruefen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "IX ZB 37/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH IX ZB 37/12 (Insolvenzrecht)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "IX ZR 104/18",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH IX ZR 104/18: Insolvenzantragspflicht",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "steuerrecht-anwalt-und-berater/skills/stb-warnschreiben-krisensignale/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "IX ZR 48/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH IX ZR 48/21: Liquiditätsbilanz Zahlungseinstellung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 142/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 142/19 (in StVG reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/unfall-haftungsquote-berechnen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 241/09",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 241/09 (in BGH Medizinrecht reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 290/11",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 290/11 (in StVG reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/unfall-haftungsquote-berechnen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 35/04",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 35/04 (in StVG reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-regulierungsanforderung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 53/09",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 53/09 (in StVG reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-regulierungsanforderung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 76/87",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 76/87 (in StVG reference list, old 1987 case)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/unfall-haftungsquote-berechnen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 87/15",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 87/15 (in BGH Medizinrecht Aufklärungsfehler reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VI ZR 91/79",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VI ZR 91/79 (in StVG reference list, old 1979 case)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-regulierungsanforderung/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VII ZR 183/04",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VII ZR 183/04 (in IT-Recht Softwarefehler reference list)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-it-recht/skills/softwarefehler-mangelhaftung-pruefen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VIII ZR 159/23",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VIII ZR 159/23: qES per E-Mail Schriftform Mietrecht",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "schriftform-und-textform-bgb/skills/wohnraummiete-kuendigung-paragraph-568-bgb/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "VIII ZR 56/23",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH VIII ZR 56/23 (in Zitierweise example)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "hausarbeitenmacher/skills/zitierweise-jura-fundstellen/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "XI ZR 285/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH XI ZR 285/21: NJW 2022, 2098 Widerruf Verwirkung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "vertragsrecht/skills/widerruf-fernabsatz/SKILL.md"
+    ]
+  },
+  {
+    "court": "?",
+    "az": "XII ZB 174/18",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BGH XII ZB 174/18 Rn. 14 (Betreuungsrecht)",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "betreuungsrecht/skills/vermoegensverzeichnis-pruefung/SKILL.md"
+    ]
+  },
+  {
+    "court": "AG Bautzen",
+    "az": "21 C 256/23",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "AG Bautzen 21 C 256/23 (5.3.2024): Tesla Level-2-Mode Haftung",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/fachanwalt-verkehr-autonom-1d-stvg/SKILL.md"
+    ]
+  },
+  {
+    "court": "AG Stuttgart",
+    "az": "15 C 3049/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "AG Stuttgart (22.06.2022): Datensicherungspflicht § 1g StVG; NZV 2022, 584",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-verkehrsrecht/skills/fachanwalt-verkehr-autonom-1d-stvg/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "1 AZR 1083/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 1 AZR 1083/12 (30.09.2014): NZA 2015, 121 Rn. 25 ff.",
+    "real_topic": null,
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BAG&Datum=30.09.2014&Aktenzeichen=1+AZR+1083%2F12",
+    "skills": [
+      "arbeitsrecht/skills/expansion-aktualisierung/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "1 AZR 146/20",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 1 AZR 146/20: Mitbestimmung Betriebsrat BAV Durchführungswechsel; NZA 2022, 581",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "bav-strategie-konzern/skills/mitbestimmung-betriebsrat-einigungsstelle-bav/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "1 AZR 366/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 1 AZR 366/19 (08.12.2020): Sozialplan-Dotierung Einigungsstellenspruch wirtschaftliche Belastungsgrenze",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "1 AZR 729/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 1 AZR 729/13 (09.12.2014): Gleichbehandlung Sozialplan Altersgruppenbildung BAV",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZB 30/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZB 30/21 (22.09.2021): Aktenzeichen-Angabe Korrekturfpflicht; NZA 2022, 55",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "kanzlei-allgemein/skills/kanzlei-allgemein-aktenzeichen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 129/92",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 129/92 (28.10.1992): Sozialplan BAV Anrechnung anderer Leistungen",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 16/20",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 16/20 (24.03.2021): Transparenzgebot § 307 Abs. 1 S. 2 BGB Arbeitsrichtlinien; NZA 2021, 842",
+    "real_topic": null,
+    "source_url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-16-20/",
+    "skills": [
+      "arbeitsrecht/skills/richtlinien-entwurf/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 174/20",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 174/20 (17.11.2021): Haftungsübergang § 613a BGB; NZA 2022, 263",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "bav-strategie-konzern/skills/buyout-im-ma-deal-asset-vs-share/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 248/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 248/13 (28.08.2013): Nichtzulassungsbeschwerde § 72a ArbGG; NZA 2013, 1392",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-berufung-und-revision-lag-bag/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 301/16",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 301/16 (14.06.2017): Syndikusrechtsanwalt Tätigkeitsbereich; NJW 2018, 327",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "prozessrecht/skills/prozessrecht-anpassen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 386/14",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 386/14 (20.01.2016): Abmahnung Bestimmtheit; NZA 2016, 809",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "email-umformulierer-berufsrecht/skills/frist-und-mahnung-hoeflich/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 414/15",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 414/15 (15.03.2017): Prozessvergleich Vollstreckbarkeit Widerrufsvorbehalt; NZA 2017, 861",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/vergleichsverhandlung-strategie/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 439/06",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 439/06 (26.09.2007): Arbeitnehmer-Whistleblowing Kündigungsschutz",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "10 AZR 99/17",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 10 AZR 99/17 (20.03.2018): Syndikusrechtsanwalt digitale Arbeitstools Datenschutz; NJW 2018, 2204",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "prozessrecht/skills/prozessrecht-kaltstart-interview/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZN 1158/20",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZN 1158/20 (27.05.2021): Grundsatzrevision § 72 ArbGG; NZA 2022, 200",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-berufung-und-revision-lag-bag/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 107/89",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 107/89 (28.09.1989): Vergleichsprotokoll kein Irrtum; NZA 1990, 545",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-muendliche-verhandlung-praxistipps-laie/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 139/09",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 139/09 (17.06.2010): Sozialauswahl Sozialdaten offenlegen; NZA 2010, 1025",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-replik-arbeitnehmer-baustein/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 140/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 140/19 (19.12.2019): Gütetermin § 54 ArbGG Hinweispflicht Vergleich; NZA 2020, 530",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 189/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 189/12 (25.04.2013): § 5 KSchG Antragsfrist Ausschlussfrist; NZA 2013, 1076",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-frist-und-zugang-pruefen/SKILL.md"
+    ]
+  }
+]

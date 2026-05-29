@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg
-description: "Klimaklage gegen Bundeslaender oder Bund nach KSG und BVerfG-Klimabeschluss: Mandant will unzureichende Klimaschutzmassnahmen angreifen. Normen: Klimaschutzgesetz KSG, BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021), § 42 Abs. 2 VwGO (Klagebefugnis). Pruefraster: Verfassungsbeschwerde vs. VG-Klage, Klagebefugnis generationsuebergreifend, EuGH C-411/22 Klimaseniorinnen. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; UmwRG-Verbandsklage siehe fachanwalt-verwaltungsrecht-drittanfechtung-umwelt."
+description: "Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
 ## Zweck
 
-Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen Bundesland auf Erlass / Verschärfung von Klimaschutzmaßnahmen. Rechtsgrundlage: KSG (Bundes-Klimaschutzgesetz), Landes-Klimaschutzgesetze, BVerfG 1 BvR 2656/18 ("Klimaschluss" 24.3.2021) und EGMR-Linie (Verein KlimaSeniorinnen Schweiz 9.4.2024).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -28,11 +28,7 @@ Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen B
 
 ### Leitentscheidungen
 
-- BVerfG, Beschl. v. 24.3.2021 — **1 BvR 2656/18** ("Klimaschluss") — KSG verfassungswidrig hinsichtlich Generationen-Verantwortung; verpflichtete Bundestag zur Konkretisierung der Reduktionswege nach 2030
-- BVerfG, Beschl. v. 18.1.2022 — 1 BvR 1565/21 ("Klima-NRW") — Verfassungsbeschwerde gegen Landesgesetze abgelehnt; Maßstab aber bestätigt
-- EGMR, Urt. v. 9.4.2024 — **Verein KlimaSeniorinnen Schweiz** ./. Schweiz (53600/20) — Art. 8 EMRK schützt Klima
-- OVG Berlin-Brandenburg, Urt. v. 2.11.2023 — OVG 11 A 1/22 (Berlin-Klimaklage erfolgreich)
-- VG Berlin, Urt. v. 16.5.2024 — 10 K 12/22 ("Klimaschutz Berlin")
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Klagearten
 
@@ -46,11 +42,11 @@ Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen B
 
 - Antrag: Feststellung, dass Bundesland gegen KSG-Reduktionsziele verstößt
 - Niedrigere Hürde, da kein konkretes Beanspruchungsziel
-- Beispiel: VG Berlin 10 K 12/22
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Variante C — Verfassungsbeschwerde / Landesverfassungsbeschwerde
 
-- BVerfG: nur bei Bund (1 BvR 2656/18)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Landesverfassungsgerichte: bei Landesgesetz (mehrfach geprüft, Schwerpunkte BW, NRW, Bayern)
 
 ### Variante D — Normenkontrollantrag § 47 VwGO
@@ -76,7 +72,7 @@ Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen B
 
 ### Phase 3 — Klagebegründung
 
-- BVerfG 1 BvR 2656/18 als Leit-Argument
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EGMR Verein KlimaSeniorinnen (Art. 8 EMRK)
 - Sektor-Ziele KSG-Bezug
 - Verhältnismäßigkeits-Prüfung
@@ -110,9 +106,8 @@ Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen B
 
 ## Quellen und Updates
 
-Stand: 05/2026. BVerfG 1 BvR 2656/18 stehende Rspr. EGMR Verein KlimaSeniorinnen 9.4.2024. VG Berlin 10 K 12/22. Bei BVerwG-Folge-Entscheidungen aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- AUDIT 27.05.2026
-Problem: BVerwG 7 C 32/20 (Datum 30.05.2022, "Klimaklage Bundesregierung – Sektorenziele justiziabel") – NOT_FOUND auf dejure.org; AZ existiert nicht verifizierbar.
 Aktion: Eintrag gelöscht.
-Hinweis: Die Klimaklage DUH gegen Bundesregierung ist BVerwG 7 C 6.20 (Urt. v. 25.11.2021); neueste DUH-Entscheidung ist BVerwG 7 C 6.24 (Urt. v. 29.01.2026) – Klimaschutzprogramm 2023 unzureichend.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

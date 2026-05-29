@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-schulung-awareness
-description: "Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgefuehrt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Pruefraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwaesche-sicherungsmassnahmen-icp und geldwaesche-audit-internal-revision."
+description: "Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision."
 ---
 
 # Schulung und Awareness
@@ -12,10 +12,7 @@ description: "Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen na
 4. Muss die Schulung Teilnahme und Pruefung protokollieren (Nachweis fuer Aufsicht)?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Schulungsnachweise sind Pflichtbestandteil der internen Sicherungsmaßnahmen nach § 4 GwG; fehlende Protokolle begruenden Bußgeldbewehrung.
-- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Mitarbeiterkenntnis ueber Geldwäscherisiken ist keine Selbstverstaendlichkeit; fehlende Schulung kann Vorsatz der Geschaeftsleitung bei Unterlassen nahelegen.
-- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — BaFin kann Schulungsnachweise im Rahmen von Aufsichtspruefungen anfordern; unvollstaendige Protokolle fuehren zu Massnahmenpflichtenanordnung.
-- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Awareness-Schulungen muessen an Berufs-/Sektorrisiken angepasst sein; allgemeine Compliance-Trainings genuegen nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 4 Abs. 3 GwG — Mitarbeiterschulung als Pflichtbestandteil interner Sicherungsmaßnahmen
@@ -23,10 +20,9 @@ description: "Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen na
 - BaFin AuA GwG Abschn. 4.3 — Mindestanforderungen an AML-Schulungen
 - § 6 Abs. 3 Nr. 1 GwG — Schulung als Teil des risikobasierten Ansatzes
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 4 Abs. 3 Rn. 1-30 (Mitarbeiterschulung: Pflichtinhalt und Nachweis)
-- Zentes/Glaab GwG, 2019, § 7 Rn. 40-60 (Geldwäschebeauftragter und Schulungsverantwortung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill macht Geldwäscheprävention verständlich, wiederholbar und prüfbar.

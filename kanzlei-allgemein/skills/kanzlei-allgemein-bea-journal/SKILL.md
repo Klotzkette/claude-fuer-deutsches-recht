@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-bea-journal
-description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Pruefraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-pruefen (Pruefung Versandweg) und kanzlei-allgemein-output-versand."
+description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand."
 ---
 
 # beA-Nachrichtenjournal und EB-Workflow
@@ -13,10 +13,7 @@ description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfang
 4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch muessen?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Elektronisches Empfangsbekenntnis (EB) ersetzt die koerperliche Zustellung; Datum des EB-Klicks ist Zustelldatum mit allen Fristfolgen.
-- BGH, Beschl. v. 17.05.2023 - VIII ZB 68/22, NJW 2023, 2273 — Versandquittung des beA begruendet Anscheinsbeweis fuer den Eingang beim Gericht; Kanzlei muss Quittung sichern.
-- BGH, Beschl. v. 26.01.2023 - III ZB 7/22, NJW 2023, 1000 — beA-Journalprotokoll ist Beweismittel fuer die Dokumentation von Versand und Empfang; Luecken gehen zu Lasten der Kanzlei.
-- BVerfG, Beschl. v. 12.12.2022 - 1 BvR 2369/22, NJW 2023, 592 — Elektronischer Zugang an beA ist unverzueglich nach Einrichtung zu nutzen; Verweigerung begruendet Verfahrensfehler.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 173 Abs. 2 ZPO — Zustellung per beA: Zustelldatum ist der Tag des EB-Klicks
@@ -24,10 +21,9 @@ description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfang
 - § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Formerfordernis und Fristausloesung
 - § 130a ZPO — Anforderungen an elektronische Dokumente und Uebermittlung
 
-## Kommentarliteratur
-- Zöller/Greger ZPO § 173 Rn. 1-15, § 174 Rn. 1-20 (beA-Zustellung und EB)
-- Henssler/Prütting BRAO § 31a Rn. 1-30 (beA-Nutzungspflicht und Haftungsfolgen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill wird genutzt, sobald eine technische beA-Verbindung, ein beA-Export oder ein beA-Screenshot vorliegt. Er macht aus beA-Zugriffen einen nachvollziehbaren Kanzleivorgang: Journal sichern, Nachrichten archivieren, Eingänge und Ausgänge der Akte zuordnen, Fristen erkennen und elektronische Empfangsbekenntnisse nur nach ausdrücklicher Freigabe vorbereiten oder abgeben.

@@ -16,13 +16,13 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-versicherungsrecht-orientierung` | Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VVG (Versicherungsvertragsgesetz) VAG (Versicherungsaufsichtsgesetz) Berufsunfähigkeit Krankenversicherung L… |
+| `fachanwalt-versicherungsrecht-orientierung` | Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. VVG (Versicherungsvertragsgesetz) VAG (Versicherungsaufsichtsgesetz) Berufsunfähigkeit Krankenversicherung L… |
 
 ## Lizenz
 

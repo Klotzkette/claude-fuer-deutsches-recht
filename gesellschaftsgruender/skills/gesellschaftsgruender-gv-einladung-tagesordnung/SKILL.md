@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gv-einladung-tagesordnung
-description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Pruefraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfaehigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll."
+description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Prüfraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfähigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll."
 ---
 
 # Einladung zur Gesellschafterversammlung
@@ -29,24 +29,18 @@ Klaere vor Erstellung der Einladung:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 11.02.2008 – II ZR 187/06, NJW 2008, 1680** — Beschluesse der GmbH koennen analog § 241 Nr. 1 AktG nichtig sein, wenn die Einberufung nicht an alle Gesellschafter ergangen ist; fehlende Einladung eines Gesellschafters fuehrt grundsaetzlich zur Nichtigkeit der gefassten Beschluesse.
-- **BGH, Urt. v. 07.06.1993 – II ZR 81/92, BGHZ 123, 15** — Eine zu kurze Einberufungsfrist (weniger als 1 Woche) fuehrt zur Anfechtbarkeit der Beschluesse; Heilung nach § 51 III GmbHG setzt Einverstaendnis aller Gesellschafter voraus.
-- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; ein Tagesordnungspunkt „Personalfragen" als Grundlage fuer eine Abberufungs-Abstimmung ist nicht ausreichend.
-- **BGH, Urt. v. 24.11.2008 – II ZR 116/08, NZG 2009, 183** — Heilung einer fehlerhaften Einberufung durch Vollversammlung (§ 51 III GmbHG) erfordert, dass sich alle Gesellschafter in der Versammlung mit der Beschlussfassung einverstanden erklaeren; Schweigen eines Gesellschafters genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Seibt, GmbHG, 13. Aufl., § 51 Rn. 1-80 (Form und Frist; Einberufungsmaengel; Heilung)
-- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 49 Rn. 1-40 (Einberufungspflicht; Pflichtversammlung)
-- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 50 Rn. 1-30 (Einberufungsrecht Gesellschafter)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Einladungs-Rechtmaessigkeit
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
 |---|---|---|---|
 | 1 | Alle Gesellschafter eingeladen? | § 51 GmbHG | Nein: Nichtigkeit der Beschluesse |
 | 2 | Frist eingehalten? (≥ 1 Woche; Satzung beachten) | § 51 I GmbHG | Nein: Anfechtbarkeit |
-| 3 | Tagesordnung konkret genug? | BGH NZG 2009; OLG Muenchen 2022 | Vage Punkte: Anfechtbarkeit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Elektronischer Versand satzungskonform? | § 51 II GmbHG | Nein: Anfechtbarkeit |
 | 5 | Beschlussvorlagen beigefuegt? | Satzung (haeufig) | Fehlen kann Anfechtungsrisiko erhoehen |
 | 6 | Jahresabschluss bei ordentl. GV beigefuegt? | § 42a GmbHG | Fehlende Unterlage = Anfechtbarkeit |
@@ -152,16 +146,15 @@ Anlage: [RELEVANTE DOKUMENTE]
 
 ## Rote Schwellen
 
-- Fehlende Einladung eines Gesellschafters: Nichtigkeit aller Beschluesse (BGH NJW 2008, 1680)
-- Frist unter 1 Woche ohne Einverstaendnis aller: Anfechtbarkeit (BGH BGHZ 123, 15)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vage Tagesordnung fuer wichtige Beschluesse: Anfechtbarkeit (OLG Muenchen 2022)
 - Elektronischer Versand ohne Satzungs-Ermaechtigung: Anfechtbarkeit (§ 51 II GmbHG)
 
 ## Quellen und Vertiefung
 
 - §§ 49, 50, 51, 51a, 42a GmbHG; §§ 241 ff. AktG analog
-- BGH NJW 2008, 1680; BGH BGHZ 123, 15 (1993); OLG Muenchen GmbHR 2022, 764; BGH NZG 2009, 183
-- Scholz/Seibt § 51; Lutter/Hommelhoff § 49; Baumbach/Hueck § 50
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 

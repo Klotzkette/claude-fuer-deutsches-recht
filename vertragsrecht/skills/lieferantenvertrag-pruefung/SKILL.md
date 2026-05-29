@@ -1,13 +1,13 @@
 ---
 name: lieferantenvertrag-pruefung
-description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragspruefung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird."
+description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird."
 ---
 
 # Lieferanten-/Dienstleistervertrag-Prüfung
 
 ## Zweck
 
-Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen „Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
+Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen "Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
 
 ## Eingaben
 
@@ -30,12 +30,12 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen und Ausgaben dort spe
 >
 > **Zwei Optionen:**
 > - `/vertragsrecht:vertragsrecht-kaltstart-interview` ausführen (ca. 10 Minuten), dann Prüfung auf Ihr eigenes Playbook zugeschnitten.
-> - „Provisorisch" sagen – dann Prüfung gegen generische Standardpositionen (deutsches Recht, mittlere Risikobereitschaft, Juristenrolle), alle Ausgaben mit `[PROVISORISCH – Praxisprofil für individuell zugeschnittene Ausgabe konfigurieren]` gekennzeichnet.
+> - "Provisorisch" sagen – dann Prüfung gegen generische Standardpositionen (deutsches Recht, mittlere Risikobereitschaft, Juristenrolle), alle Ausgaben mit `[PROVISORISCH – Praxisprofil für individuell zugeschnittene Ausgabe konfigurieren]` gekennzeichnet.
 
 **Welche Seite?**
 - Lieferant/Auftragnehmer liefert Waren/Leistungen → Käufer-/Auftraggeber-Seite
 - Das Unternehmen verkauft Waren/Leistungen → Verkäufer-/Auftragnehmer-Seite
-- Reseller, JV, Umsatzbeteiligung? → Fragen: „Auf welcher Seite steht [Unternehmen]?"
+- Reseller, JV, Umsatzbeteiligung? → Fragen: "Auf welcher Seite steht [Unternehmen]?"
 
 Zutreffenden Playbook-Abschnitt lesen. **Das K.-o.-Kriterium zuerst prüfen.** Falls vorhanden: am Anfang des Vermerks kennzeichnen und Detailprüfung einstellen – kein Sinn, 30 Minuten an Haftungsdeckeln zu arbeiten, wenn ein Vertragspartner IP-Rechte an unseren Produkten erhalten soll.
 
@@ -48,7 +48,7 @@ Den Vertrag einmal schnell lesen:
 | Vertragstyp | Werkvertrag (§ 631 BGB) / Dienstvertrag (§ 611 BGB) / Kaufvertrag (§ 433 BGB) / gemischt |
 | Wer sind wir? | Auftraggeber / Auftragnehmer (Plugin geht von Auftraggeber aus – kennzeichnen falls abweichend) |
 | Vertragspartner | Name; Groß-Konzern (verhandelt kaum) oder KMU (verhandelt)? |
-| Jahreswert (ACV) | Betrag oder „nicht angegeben" → fragen |
+| Jahreswert (ACV) | Betrag oder "nicht angegeben" → fragen |
 | Laufzeit | Dauer, Verlängerungsmechanismus |
 | AVV | beigefügt / referenziert / fehlt |
 | Auftragsformular | separat / integriert |
@@ -66,11 +66,11 @@ Haftungsklauseln haben vier Dimensionen:
 **b) Mittelbare Schäden / Folgeschäden:**
 - § 309 Nr. 7a BGB: Haftungsausschluss für Körperverletzung / Vorsatz gegenüber Verbrauchern absolut unwirksam.
 - Im B2B: Ausschluss für leichte Fahrlässigkeit bei nicht wesentlichen Pflichten möglich; bei Kardinalpflichten nach BGH-Rspr. unwirksam.
-- BGH, Urt. v. 19.09.2007 – VIII ZR 141/06, NJW 2007, 3774: AGB-Klausel, die Haftung für leichte Fahrlässigkeit auch bei Verletzung wesentlicher Pflichten ausschließt, ist nach § 307 Abs. 2 Nr. 2 BGB unwirksam. `[Trainingswissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **c) Ausnahmen vom Deckel:** Vorsatz, grobe Fahrlässigkeit, Verletzung von Leben/Körper/Gesundheit, Kardinalpflichten, Datenpannen, produkthaftungsrechtliche Ansprüche.
 
-**d) Bemessungsgrundlage:** „im letzten Jahr gezahlte Vergütung" vs. „nach Vertrag insgesamt zu zahlende Vergütung" – prüfen.
+**d) Bemessungsgrundlage:** "im letzten Jahr gezahlte Vergütung" vs. "nach Vertrag insgesamt zu zahlende Vergütung" – prüfen.
 
 ### Schritt 4: Gewährleistung (§§ 433 ff., 631 ff. BGB)
 
@@ -78,7 +78,7 @@ Haftungsklauseln haben vier Dimensionen:
 - Mangelfreiheitspflicht § 633 BGB
 - Nacherfüllungsrecht § 634 Nr. 1, § 635 BGB (Vorrang vor Rücktritt/Minderung)
 - Verjährung § 634a BGB: 2 Jahre bei körperlichen Bauwerken/Sachen; 3 Jahre bei Arglist
-- Abkürzung der Verjährung in B2B-AGB: nach § 307 BGB prüfen; BGH, Urt. v. 23.01.2013 – VIII ZR 47/12, NJW 2013, 1374. `[Trainingswissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kaufvertrag (§§ 434 ff. BGB; ggf. CISG):**
 - Sachmangelfreiheit § 434 BGB; Beschaffenheitsvereinbarung prüfen
@@ -109,9 +109,7 @@ Falls Lieferant in der Lieferkette und LkSG anwendbar (§ 1 LkSG: ab 1.000 AN se
 - Außerordentliches Kündigungsrecht bei LkSG-Verstößen (§ 7 Abs. 3 LkSG)
 - Weitergabepflicht an Unterlieferanten (§ 9 LkSG)
 
-**BGH/OLG-Rspr. noch im Aufbau.** `[Trainingswissen – prüfen]` Prüfung anhand BAFA-Leitlinien und Gesetzestext.
-
-Kommentare: Rühl/Frank, LkSG, 2022; Grabosch, LkSG, 2021.
+**Rechtsprechung und Quellenlage noch im Aufbau.** Prüfung anhand Gesetzestext, BAFA-Leitlinien und konkret bereitgestellter oder lizenziert verifizierter Quellen. Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 
 ### Schritt 7: IP und Nutzungsrechte (§§ 15 ff. UrhG, PatG)
 
@@ -132,7 +130,7 @@ Kommentare: Rühl/Frank, LkSG, 2022; Grabosch, LkSG, 2021.
 - Überraschende Klauseln: § 305c BGB
 - Transparenzgebot: § 307 Abs. 1 S. 2 BGB
 - Klauselverbote §§ 308, 309 BGB; im B2B als Indiz-Wirkung
-- Kollidierende AGB („battle of forms"): §§ 154, 155 BGB; Konsenstheorie vs. Restgültigkeitslösung
+- Kollidierende AGB ("battle of forms"): §§ 154, 155 BGB; Konsenstheorie vs. Restgültigkeitslösung
 
 ## Abweichungsklassifikation
 
@@ -174,7 +172,7 @@ VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
 
 ### 🔴 Blockierend
 **[Klauseltitel]** – § [X.X]
-> „[Zitat]"
+> "[Zitat]"
 **Rechtliches Risiko:** 🔴 | **Geschäftliche Reibung:** [Stufe]
 Warum problematisch: [konkretes Risiko; Norm + BGH-Rspr.]
 Empfohlener Redline: `[Streichung/Ersatz mit konkreter Formulierung]`
@@ -208,17 +206,14 @@ Zitierweise nach `../references/zitierweise.md`.
 Normen und Rspr.:
 - §§ 611, 631 BGB – Dienst-/Werkvertrag; § 433 BGB – Kaufvertrag
 - §§ 305–310 BGB – AGB-Recht
-- BGH, Urt. v. 19.09.2007 – VIII ZR 141/06, NJW 2007, 3774 – Kardinalpflichten
-- BGH, Urt. v. 23.01.2013 – VIII ZR 47/12, NJW 2013, 1374 – Gewährleistungs-Verjährung AGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 377 HGB – Rügepflicht Handelskauf
 - §§ 1 ff. LkSG; §§ 15 ff. UrhG – Nutzungsrechte
 - Art. 28 DSGVO – AVV; Art. 1, 6 CISG – Anwendbarkeit/Abwahl
 
 Kommentare:
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 1 ff.
-- Pfeiffer, in: Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2022, § 307 Rn. 1 ff.
-- Grüneberg, in: Grüneberg, BGB, 83. Aufl. 2024, § 631 Rn. 1 ff.
-- Rühl/Frank, LkSG, 2022, §§ 6, 7 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken / typische Fehler
 

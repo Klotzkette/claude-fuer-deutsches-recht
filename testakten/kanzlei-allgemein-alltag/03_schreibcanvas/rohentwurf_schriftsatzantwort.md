@@ -40,7 +40,7 @@ Die Darstellung des Beklagten, die Klägerin befinde sich mit Mietzahlungen in R
 
 ### 1. Mietverhältnis
 
-Die Klägerin ist seit dem 01.09.2022 Mieterin der Wohnung Brunnenstraße 8, 2. OG links, 10119 Berlin (nachfolgend: „die Wohnung") aufgrund des Wohnraummietvertrages vom 01.09.2022, geschlossen mit dem Beklagten als Vermieter. Die monatliche Kaltmiete beträgt 920,00 EUR.
+Die Klägerin ist seit dem 01.09.2022 Mieterin der Wohnung Brunnenstraße 8, 2. OG links, 10119 Berlin (nachfolgend: "die Wohnung") aufgrund des Wohnraummietvertrages vom 01.09.2022, geschlossen mit dem Beklagten als Vermieter. Die monatliche Kaltmiete beträgt 920,00 EUR.
 
 ### 2. Vollständige Mietzahlungen April und Mai 2026
 
@@ -55,7 +55,7 @@ Beide Zahlungen gingen auf das Konto des Beklagten ein. Ein Rückstand besteht n
 
 Am 19.05.2026, gegen 14:30 Uhr, stellte die Klägerin bei ihrer Rückkehr zur Wohnung fest, dass das Türschloss ohne ihre Kenntnis oder Zustimmung ausgetauscht worden war. Der neue Schlüssel wurde ihr nicht übergeben. Ihr Hausrat und ihre persönlichen Gegenstände befinden sich noch in der Wohnung.
 
-Um 14:52 Uhr erhielt die Klägerin eine WhatsApp-Nachricht des Beklagten mit dem Wortlaut: *„Sie wohnen ab jetzt woanders. Den Schlüssel bekommen Sie nicht mehr."* (Anlage K5).
+Um 14:52 Uhr erhielt die Klägerin eine WhatsApp-Nachricht des Beklagten mit dem Wortlaut: *"Sie wohnen ab jetzt woanders. Den Schlüssel bekommen Sie nicht mehr."* (Anlage K5).
 
 Die Klägerin war gezwungen, in den Nächten des 19. und 20. Mai 2026 bei ihrer Schwester zu übernachten.
 

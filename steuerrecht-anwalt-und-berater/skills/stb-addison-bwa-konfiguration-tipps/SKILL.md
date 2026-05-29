@@ -37,7 +37,7 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 ### Phase 2 — Konten-Konfiguration
 
 - Kontenrahmen SKR 03 / SKR 04 wie in DATEV; alternativ branchenspezifische Rahmen (z.B. SKR 14 Landwirtschaft, IKR fuer Industrieunternehmen).
-- BWA-Konten-Zuordnung ueber Berater-Stammdaten (typischer Pfad `Stammdaten → BWA-Konfiguration → Konten-Zuordnung`; exakter Menue-Pfad in aktueller Programmversion verifizieren).
+- BWA-Konten-Zuordnung ueber Berater-Stammdaten (typischer Pfad `Stammdaten → BWA-Konfiguration → Konten-Zuordnung`; konkreter Menue-Pfad variiert je Addison-Version — im Zweifelsfall in der Programm-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
 - Bei individuellen Konten manuelle Zuordnung zur BWA-Zeile vor erstem Lauf.
 
 ### Phase 3 — Periodenvergleich
@@ -87,3 +87,5 @@ Stand: 05/2026.
 - Wolters Kluwer Addison Programm- und Bedienungsdokumentation (aktuelle Version pruefen).
 - Wolters Kluwer Branchenberichte als Vergleichsdatenbank.
 - Verifikations-Hinweis: konkrete Programmpfade und Form-Nummern ggf. abweichend in aktueller Addison-Version.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Programmpfad-Hinweis ohne Marker neu formuliert) -->

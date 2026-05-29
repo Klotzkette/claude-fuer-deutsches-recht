@@ -11,7 +11,7 @@
 
 ## 1. Einleitung und Auftrag
 
-Das Deal Team von MWK Rechtsanwälte führt auf Anforderung von Eagle Capital Partners (nachfolgend „ECP" oder „Mandant") eine Legal Due Diligence (Legal DD) und eine Tax Due Diligence (Tax DD) der Solaris Industries AG und der Carve-out-Perimeter durch. Dieses Memo beschreibt den vereinbarten Prüfungsumfang (Scope), die anwendbaren Materialitätsschwellen sowie die Einteilung in Workstreams und die jeweilige Teambesetzung.
+Das Deal Team von MWK Rechtsanwälte führt auf Anforderung von Eagle Capital Partners (nachfolgend "ECP" oder "Mandant") eine Legal Due Diligence (Legal DD) und eine Tax Due Diligence (Tax DD) der Solaris Industries AG und der Carve-out-Perimeter durch. Dieses Memo beschreibt den vereinbarten Prüfungsumfang (Scope), die anwendbaren Materialitätsschwellen sowie die Einteilung in Workstreams und die jeweilige Teambesetzung.
 
 ---
 

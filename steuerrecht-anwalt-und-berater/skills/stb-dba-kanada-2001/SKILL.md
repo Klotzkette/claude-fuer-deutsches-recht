@@ -23,14 +23,14 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Kanada vom 19.04.2001**, in Kraft 28.03.2002, anwendbar ab 01.01.2001 fuer einbehaltene Steuern (BGBl. 2002 II S. 670) — **verifizieren**.
+- **DBA Deutschland-Kanada vom 19.04.2001**, in Kraft 28.03.2002, anwendbar ab 01.01.2001 fuer einbehaltene Steuern (BGBl. 2002 II S. 670; Inkrafttreten: BGBl. 2002 II S. 962).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Kanada sind beide MLI-Unterzeichner. Ob das DBA-Kanada 2001 als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 9/14 zu RRSP — **verifizieren**.
-- BMF-Schreiben zu RRSP/RRIF — **verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BMF-Schreiben zu RRSP/RRIF: aktuellen Stand beim BMF pruefen.
 
 ## Land-spezifisches
 
@@ -45,15 +45,15 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 - Loehne 183-Tage.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**.
-- **Zinsen** (Art. 11): typ. 0/10 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0/10 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft mit mindestens 10 Prozent Stimmrechten; 15 Prozent in allen anderen Faellen.
+- **Zinsen** (Art. 11): 10 Prozent des Bruttobetrags.
+- **Lizenzgebuehren** (Art. 12): 10 Prozent des Bruttobetrags.
 
 ### Vermeidungs-Methode (Art. 23)
 - Deutschland: Anrechnungsmethode bei passiven Einkuenften; Freistellung mit Progressionsvorbehalt bei aktiven Einkuenften und Aktivitaetsklausel.
 
 ### Besonderheiten
-- **Pensionen Art. 18**: CPP, OAS (gesetzlich) typ. Wohnsitzstaat; RRSP/RRIF Auszahlungen behandelt — **konkret im DBA-Text verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Branch Profits Tax** Kanada: bei deutscher Filiale in Kanada — DBA-Ermaessigung pruefen.
 - **Quebec Pension Plan** vs. CPP.
 
@@ -76,7 +76,7 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 
 - RRSP-Auszahlung bei Wohnsitz Deutschland: kanadische Quellensteuer (typ. 25 Prozent national; DBA ermaessigt) — Erstattung via CRA.
 - CPP/OAS: gesetzliche Renten — DBA-Regelung typ. Wohnsitzstaat.
-- Branch Profits Tax (Branch Tax) Kanada: 25 Prozent national; DBA ermaessigt — **konkret verifizieren**.
+- Branch Profits Tax (Branch Tax) Kanada: 25 Prozent national; DBA-Kanada 2001 Art. 10 Abs. 6 ermaessigt auf hoechstens 5 Prozent (gleicher Satz wie Schachtel-Dividenden).
 - Wegzug Kanada: USA und Kanada beide Drittland — § 6 AStG-Stundung schwierig.
 - Quebec-Spezifika: doppelte Provinzialsteuer.
 - MLI relevant — PPT.
@@ -87,4 +87,6 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Kanada 19.04.2001, in Kraft 28.03.2002. **Datum, BGBl-Fundstelle, MLI-Notification, RRSP/RRIF-Klausel, Branch Profits Tax und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Kanada 19.04.2001, BGBl. 2002 II S. 670, in Kraft 28.03.2002. Dividenden 5/15%, Zinsen 10%, Lizenzen 10%, Branch Profits Tax max. 5% (Art. 10 Abs. 6). MLI-Status: aktuellen BMF-DBA-Stand pruefen.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-automation-monitoring
-description: "Mandant oder Kanzlei will Deal-Aktivitaeten automatisch tracken: Datenraum-Neuzugaenge Fristen Q&A MAR-Signale PMI-Aufgaben. Normen MAR VO 596/2014 §§ 35-44 GWB Insiderlisten. Pruefraster Datenraum-Monitor CP-Deadline-Kalender Register-Update-Check News-Screening PMI-Task-Tracking. Output Monitoring-Protokoll Alert-Regeln Ampel-Dashboard. Abgrenzung zu mittelstand-ma-fristen-cp-kalender (Fristen-only) und mittelstand-corporate-ma-deal-intake (Eingang)."
+description: "Mandant oder Kanzlei will Deal-Aktivitaeten automatisch tracken: Datenraum-Neuzugaenge Fristen Q&A MAR-Signale PMI-Aufgaben. Normen MAR VO 596/2014 §§ 35-44 GWB Insiderlisten. Prüfraster Datenraum-Monitor CP-Deadline-Kalender Register-Update-Check News-Screening PMI-Task-Tracking. Output Monitoring-Protokoll Alert-Regeln Ampel-Dashboard. Abgrenzung zu mittelstand-ma-fristen-cp-kalender (Fristen-only) und mittelstand-corporate-ma-deal-intake (Eingang)."
 ---
 
 # Automationen und Monitoring
@@ -49,13 +49,11 @@ Entwirft Monitore für Datenraum-Neuzugänge, Q&A, CP-Deadlines, Registerupdates
 - §§ 93, 116 AktG; § 43 GmbHG — Business Judgment Rule: Entscheidung auf ausreichender Informationsgrundlage; Dokumentationspflicht
 
 ### Leitsaetze
-- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 — Business Judgment Rule: Geschaeftsfuehrer handelt pflichtgemaess, wenn er bei einer unternehmerischen Entscheidung vernuenftigerweise annehmen durfte, zum Wohl der Gesellschaft zu handeln; Informationsgrundlage muss angemessen sein
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: vollstaendige Information des Mandanten ist Kernpflicht; Luecken koennen Schadensersatz ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- MueKo GmbHG/Fleischer, § 43 Rn. 1-80 (Geschaeftsfuehrerhaftung, Business Judgment Rule)
-- Schaub, Arbeitsrechts-Handbuch, § 12 (Mandate, Vollmachten, Honorare)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Qualitaetssicherung
 - Human-in-the-loop bei allen automatisierten Ausgaben
 - Dokumentation: Datum, Methodik, Human-Check-Protokoll

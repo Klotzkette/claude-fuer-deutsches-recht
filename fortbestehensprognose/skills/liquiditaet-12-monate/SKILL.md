@@ -1,6 +1,6 @@
 ---
 name: liquiditaet-12-monate
-description: "Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Pruefung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfaehigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate."
+description: "Workflow-Skill zu liquiditaet 12 monate. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Zwölf-Monats-Liquidität
@@ -46,7 +46,7 @@ liquiditaet:
 
 Bei kritischen Phasen (Monaten mit knapp positivem Saldo oder negativem Endbestand) muss die Wochenplanung herangezogen werden:
 
-- Drei-Wochen-Schwelle § 17 InsO BGHZ 163, 134 — bei Lücke größer als zehn Prozent über laenger als drei Wochen liegt Zahlungsunfähigkeit vor.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Plugin `liquiditaetsplanung` enthält die wochenbasierten Vorlagen.
 
 ### Schicht 3 — Sensitivitätsszenarien
@@ -102,13 +102,13 @@ ist die Liquidität über den Horizont zu sichern.
 
 ## 90-Prozent-Deckung ist der operative Maßstab
 
-Die „überwiegende Wahrscheinlichkeit" nach § 19 Abs. 2 InsO ist nicht abstrakt zu prüfen, sondern operativ über den Liquiditätsplan. Das Unternehmen ist „überwiegend wahrscheinlich fortfuehrbar" wenn über den gesamten Zwölf-Monats-Horizont mit hoher Wahrscheinlichkeit **keine Zahlungsunfähigkeit nach § 17 InsO eintritt**. Damit gilt durchgehend der BGH-Maßstab aus BGHZ 163, 134 (BGH IX ZR 123/04):
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **In jedem Zeitabschnitt** muss die Deckung der fälligen Verbindlichkeiten mindestens **90 Prozent** betragen (Liquiditätslücke unter zehn Prozent).
-- **Eine vorübergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht „fortfuehrbar".
+- **Eine vorübergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht "fortfuehrbar".
 - **Über den vollen Zwölf-Monats-Horizont** muss diese Schwelle eingehalten werden — andernfalls ist die Fortbestehensprognose **negativ**.
 
-Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf dass dieses Szenario (Einhaltung der BGH-Schwelle über zwölf Monate) eintritt — also nicht ein abstrakter Erfolgswert sondern die methodische Wahrscheinlichkeit dass das Unternehmen die 90-Prozent-Deckung bzw. die Drei-Wochen-Karenz **über den gesamten Horizont durchhaelt**.
+Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf dass dieses Szenario (Einhaltung der BGH-Schwelle über zwölf Monate) eintritt — also nicht ein abstrakter Erfolgswert sondern die methodische Wahrscheinlichkeit dass das Unternehmen die 90-Prozent-Deckung bzw. die Drei-Wochen-Karenz **über den gesamten Horizont durchhaelt**.
 
 **Konsequenz für die Liquiditätsprognose:**
 
@@ -127,10 +127,7 @@ Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf 
 
 ## Aktuelle Leitentscheidungen — 12-Monats-Liquiditaetsplanung
 
-- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — Zahlungsunfaehigkeit § 17 InsO: 10%-Liquiditaetslueecke indiziert ZU wenn keine Beseitigung innerhalb von 3 Wochen absehbar; Monats-Vorschau muss 3-Wochen-Fenster explizit abbilden.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose Liquiditaet: 12-Monats-Forecast als Standardformat; direkte Methode (Cash In / Cash Out) gegenueber indirekter Methode bevorzugt fuer InsO-Beurteilung.
-- OLG Duesseldorf, Urt. v. 17.03.2016 — I-12 U 100/15, NZI 2016, 499 — Cashflow-Forecast Mindeststandard: Monatsgenaue Aufstellung genuegt fuer Fortbestehensprognose; Wochen-Forecast nur bei akuter ZU-Naehe erforderlich.
-- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Liquiditaet und Sanierungskonzept: Cashflow-Planung muss konsistent mit Sanierungsmassnahmen sein; Annahmen-Aenderungen muessen dokumentiert und neu durchgerechnet werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette 12-Monats-Liquiditaet
 
@@ -143,8 +140,6 @@ Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf 
 3. **Annahmen konsistent?** Mit Umsatz- und Kostenplanung aus `annahmen-sammeln-fortfuehrung` abgestimmt?
 4. **Engpaesse sichtbar?** Negative Saldi in einzelnen Monaten klar hervorgehoben und mit Gegenmassnahmen unterlegt?
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 11, Stand 11/2022 Rn. 50-65 — Liquiditaetsvorschau als Kernbaustein der Fortbestehensprognose.
-- MüKo InsO/Drukarczyk § 19 InsO Rn. 65-80 — Liquiditaetsplanung und insolvenzrechtliche Beurteilung.
-- Uhlenbruck/Mock § 17 InsO Rn. 15-30 — Zahlungsunfaehigkeit und Liquiditaetslueecken-Berechnung.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

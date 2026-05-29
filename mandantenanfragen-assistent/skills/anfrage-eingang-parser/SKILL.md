@@ -1,6 +1,6 @@
 ---
 name: anfrage-eingang-parser
-description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Pruefraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf)."
+description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf)."
 ---
 
 # Anfrage-Eingang-Parser
@@ -15,10 +15,7 @@ Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle r
 4. Ist die Anfrage in deutscher Sprache oder in einer Fremdsprache (Weiterleitung an mehrsprachige-antwort)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Dokumentationspflicht des Anwalts gilt ab Eingang der Anfrage; strukturiertes Parsing als Nachweis ordnungsgemaesser Bearbeitung.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Verarbeitung von Anfragedaten erfordert Rechtsgrundlage nach Art. 6 DSGVO; Erstanfrage ist noch kein Vertrag, daher ist berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO oder Vertragsanbahnung nach lit. b massgeblich.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzlei ist verpflichtet, Fristen aus eingehenden Schreiben sofort zu erkennen; verspätetes Parsing begruendet Haftungsrisiko.
-- OLG Hamm, Urt. v. 23.03.2021 - 28 U 115/20, NJW-RR 2021, 895 — Fehlende oder verspaetete Eingangsbestaetigung kann als Ablehnung des Mandats interpretiert werden; strukturiertes Parsing unterstuetzt rechtzeitige Reaktion.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. b, f DSGVO — Rechtsgrundlage fuer Verarbeitung von Erstanfrage-Daten
@@ -26,10 +23,9 @@ Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle r
 - § 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen
 - § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: vor Mandatsannahme ueber voraussichtliche Kosten informieren
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfaltspflicht: Eingangsbearbeitung und Dokumentation)
-- Kühling/Buchner DSGVO Art. 6 Rn. 60-80 (Vertragsanbahnung und berechtigtes Interesse als Rechtsgrundlage)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext, als kurze Notiz oder als ausführlicher Erlebnisbericht formuliert sein. Dieser Skill normiert die Extraktion und legt eine Grundlage für alle folgenden Skills (Anrede, Erstantwort, Dringlichkeit, Konfliktcheck, CRM-Eintrag).
@@ -38,8 +34,8 @@ Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext
 
 ### 1. Anrede (Pflichtfeld für Folge-Skills)
 
-- Vollständige Anredezeile aus der Mail, z. B. „Sehr geehrte Damen und Herren", „Guten Tag, ich heiße Maria Mustermann", „Hallo"
-- Falls die Anfragende Person ihre eigene Anredeform nennt (z. B. „Meine Name ist Dr. Klaus-Dieter Müller-Strauss"), diese festhalten.
+- Vollständige Anredezeile aus der Mail, z. B. "Sehr geehrte Damen und Herren", "Guten Tag, ich heiße Maria Mustermann", "Hallo"
+- Falls die Anfragende Person ihre eigene Anredeform nennt (z. B. "Meine Name ist Dr. Klaus-Dieter Müller-Strauss"), diese festhalten.
 - Titel aus der Signatur, aus dem E-Mail-Header oder aus dem Fließtext extrahieren.
 - Hinweis: Die exakte Anrede wird im Skill `anrede-uebernehmen` weiterverarbeitet.
 
@@ -71,7 +67,7 @@ Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext
 ### 6. Dringliche Hinweise
 
 - Explizite Fristnennung: Datum, Fristende, Hauptverhandlung, Klagefrist
-- Implizite Eile-Signale: „sofort", „dringend", „nächste Woche", „bis Ende der Woche"
+- Implizite Eile-Signale: "sofort", "dringend", "nächste Woche", "bis Ende der Woche"
 - Haftungsrisiken: Versäumnisurteil, Zwangsvollstreckung, Insolvenzantrag
 - Hinweis an den Skill `dringlichkeitsmarker` weitergeben
 
@@ -84,20 +80,20 @@ PARSED ANFRAGE
 Anrede (roh):        [Originaltext der Anrede / Grußformel]
 Name:                [Vollständiger Name mit Titeln]
 E-Mail:              [Absenderadresse]
-Telefon:             [Nummer oder „nicht genannt"]
-Weitere Kontakte:    [Adresse, Fax, etc. — oder „keine"]
+Telefon:             [Nummer oder "nicht genannt"]
+Weitere Kontakte:    [Adresse, Fax, etc. — oder "keine"]
 
-Rechtsgebiet:        [Ersteinschätzung oder „unklar"]
+Rechtsgebiet:        [Ersteinschätzung oder "unklar"]
 Sachverhalt-Stichwörter:
   - [Stichwort 1]
   - [Stichwort 2]
   - [...]
 
-Beteiligte:          [Gegner/Behörde/weitere Personen oder „nicht genannt"]
-Relevante Daten/Beträge: [oder „nicht genannt"]
+Beteiligte:          [Gegner/Behörde/weitere Personen oder "nicht genannt"]
+Relevante Daten/Beträge: [oder "nicht genannt"]
 
 DRINGLICHKEIT:       [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Dringlichkeit-Grund: [Kurze Begründung oder „keiner erkannt"]
+Dringlichkeit-Grund: [Kurze Begründung oder "keiner erkannt"]
 ```
 
 ## Heuristiken und Sonderfälle
@@ -108,14 +104,14 @@ Beispiel: `kd.mueller-strauss@example.de` → Hinweis: Vorname K.D., Nachname M�
 
 ### Keine Anrede vorhanden
 
-Manche Anfragen beginnen direkt mit dem Sachverhalt: „Ich habe von meinem Arbeitgeber eine Kündigung erhalten ...". In diesem Fall:
+Manche Anfragen beginnen direkt mit dem Sachverhalt: "Ich habe von meinem Arbeitgeber eine Kündigung erhalten ...". In diesem Fall:
 - Anrede (roh): `[nicht vorhanden]`
 - Name aus Signatur oder Fließtext suchen
 - Skill `anrede-uebernehmen` erhält den Hinweis, eine neutrale Höflichkeitsform zu verwenden.
 
 ### Mehrere Absender / Ehepaar / Erbengemeinschaft
 
-Bei „Wir möchten uns melden ..." oder „Ich schreibe im Namen meiner Mutter ...":
+Bei "Wir möchten uns melden ..." oder "Ich schreibe im Namen meiner Mutter ...":
 - Alle Personen aufführen
 - Hauptkontakt kennzeichnen
 - Komplexere Anrede-Heuristik für Skill `anrede-uebernehmen` vormerken

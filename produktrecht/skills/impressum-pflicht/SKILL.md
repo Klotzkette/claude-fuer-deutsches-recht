@@ -33,16 +33,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 20.07.2006 – I ZR 228/03, GRUR 2007, 159 Rn. 17–22 – „Anbieterkennzeichnung": Das Impressum muss „leicht erkennbar, unmittelbar erreichbar und ständig verfügbar" sein (§ 5 Abs. 1 TMG, jetzt § 5 DDG). Eine Erreichbarkeit über maximal zwei Klicks vom Startseiten-Link „Impressum" genügt; tiefere Verschachtelung oder unklare Bezeichnung (z.B. „Kontakt") genügt nicht.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. OLG Hamm, Urt. v. 13.07.2010 – I-4 U 38/10, MMR 2011, 55 Rn. 15–25: Fehlende Telefonnummer im Impressum stellt einen abmahnfähigen Wettbewerbsverstoß dar, wenn kein anderes „schnelles elektronisches Kommunikationsmittel" angegeben ist, das eine unmittelbare Kontaktaufnahme ermöglicht. Die bloße E-Mail-Adresse genügt nicht, wenn keine rechtzeitige Reaktion sichergestellt ist.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Schirmbacher, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2019, § 5 TMG Rn. 25–80 (historisch; § 5 TMG durch § 5 DDG zum 14.5.2024 ersetzt): Ausführlich zu den Pflichtangaben im Einzelnen; zur Auslegung von „geschäftsmäßig" (weiter Anwendungsbereich: auch Blogs mit Werbebannern, Influencer-Profile); zu Social-Media-Profilen als eigenständige Telemedien. Aktuell: BeckOK Informations- und Medienrecht (Stand 2025) zu § 5 DDG.
-
-2. Ott, in: BeckOK Informations- und Medienrecht, 44. Ed. (Stand 01.02.2025), § 5 DDG Rn. 10–55: Zur Umsetzung des DDG (Ablösung des TMG ab 14.05.2024); Kontinuität der Rspr. zu § 5 TMG; zur v.i.S.d.P.-Pflicht nach § 18 MStV für Social-Media-Kanäle mit redaktionellem Inhalt.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 **Schritt 1 – Impressumspflicht dem Grunde nach**
@@ -66,7 +63,7 @@ Das Modell benötigt:
 - Angabe: vollständiger Name, vollständige Anschrift im Impressum.
 
 **Schritt 4 – Platzierung und Zugänglichkeit**
-- Beschriftung: „Impressum" oder „Anbieterkennzeichnung" (nicht „Kontakt" o.Ä.) – BGH GRUR 2007, 159.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erreichbarkeit: maximal zwei Klicks von jeder Seite aus.
 - Ständige Verfügbarkeit: kein Login erforderlich, keine Paywall.
 - Bei Social-Media-Profilen: Impressum im Profilbereich (Bio/Info) oder direkt verlinkt.
@@ -78,20 +75,15 @@ Das Modell benötigt:
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 20.07.2006 — I ZR 228/03, NJW 2006, 3633 — Impressumspflicht bei kommerziell genutzter Website; auch freiberuflich oder nebenbewerblich genutzte Angebote koennen "geschaeftliche Handlung" sein; teleologische Auslegung des Anbieters-Begriffs
-- OLG Muenchen, Urt. v. 27.01.2022 — 29 U 6101/21, MMR 2022, 345 — Impressumspflicht auf Social-Media-Profil (Instagram) bei kommerziellen Inhalten; profilinternes Impressum zulaessig wenn leicht erkennbar erreichbar; "deutlich wahrnehmbar" Massstab aus § 5 DDG
-- LG Muenchen I, Urt. v. 25.10.2023 — 1 HK O 8693/23, juris — fehlendes Pflichtangaben-Impressum als Wettbewerbsverstoss nach §§ 3, 3a UWG i.V.m. § 5 DDG; Abmahnfaehigkeit bejaht wenn Wettbewerber und Marktteilnehmer
-- EuGH, Urt. v. 16.10.2008 — C-298/07 (Bundesverband der Verbraucherzentralen/Deutsche Internet Versicherung), NJW 2008, 3553 — E-Mail-Adresse als Pflichtangabe nach RL 2000/31/EG reicht fuer "schnelle Kontaktaufnahme"; Telefonnummer nur zusaetzlich wenn vorhanden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 5, 6 DDG (Anbieterkennzeichnung, Pflichtangaben) — § 18 MStV (Impressum journalistisch-redaktionelle Angebote) — §§ 3, 3a UWG (Wettbewerbsverstoss, Marktverhaltensregel) — Art. 5 Abs. 1 RL 2000/31/EG (Hinterlegungspflicht elektronischer Geschaeftsverkehr)
+## Quellenregel
 
-## Kommentarliteratur
-
-- BeckOK IT-Recht/Mantz, 34. Ed. 2024, § 5 DDG Rn. 1 ff. (Impressumspflicht, Pflichtangaben)
-- Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Verbraucherschutz, Fernabsatz, Informationspflichten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabeformat
 
 - **Impressumstext** (fertig formuliert, vollständig, einfügebereit).
@@ -106,7 +98,7 @@ Das Modell benötigt:
 
 *Impressumspflicht*: G betreibt einen geschäftsmäßigen Telemediendienst i.S.d. § 5 Abs. 1 DDG (Online-Shop + Blog mit Werbebezug). Impressumspflicht besteht unzweifelhaft.
 
-*Fehlende Handelsregisternummer*: Für eine GmbH ist die Angabe von Handelsregisternummer und Registergericht nach § 5 Abs. 1 Nr. 4 DDG (i.V.m. § 35a GmbHG) verpflichtend. Das Fehlen begründet einen abmahnfähigen Verstoß nach § 5a Abs. 4 UWG (OLG Hamm, Urt. v. 13.07.2010 – I-4 U 38/10, MMR 2011, 55).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *v.i.S.d.P.*: Der Blog mit Meinungsbeiträgen ist ein journalistisch-redaktionell gestaltetes Angebot i.S.d. § 18 Abs. 2 MStV. Eine verantwortliche Person mit vollständigem Namen und Anschrift ist zu benennen. Fehlt die Angabe, droht Bußgeld nach § 49 MStV bis 500.000 EUR.
 
@@ -114,18 +106,17 @@ Das Modell benötigt:
 
 ## Risiken und typische Fehler
 
-- **Postfach statt Anschrift**: Ladungsfähige Anschrift erforderlich; Postfach oder c/o-Adresse genügt nicht (Ott, BeckOK Informations- und Medienrecht, § 5 DDG Rn. 22).
-- **Nur E-Mail ohne Telefon**: OLG Hamm (I-4 U 38/10) verlangt schnelles elektronisches Kommunikationsmittel; E-Mail mit Reaktionszeit > 24 h kann unzureichend sein.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Social Media vergessen**: Instagram-, LinkedIn-, TikTok-Profile sind eigenständige Telemedien; kein gesondertes Impressum erforderlich, wenn eines eindeutig verlinkt ist.
-- **TMG-Altlinks**: Nach DDG-Inkrafttreten (14.05.2024) sind Verweise auf „§ 5 TMG" veraltet; aktuell § 5 DDG angeben.
+- **TMG-Altlinks**: Nach DDG-Inkrafttreten (14.05.2024) sind Verweise auf "§ 5 TMG" veraltet; aktuell § 5 DDG angeben.
 - **v.i.S.d.P. durch juristische Person**: Unzulässig nach § 18 Abs. 2 Satz 2 MStV; muss natürliche Person sein.
 - **Abmahnmissbrauch-Schranke**: Seit UWG-Reform 2021 begrenzt § 8c UWG missbräuchliche Abmahnungen; qualifizierte Einrichtungen und Mitbewerber mit echtem Wettbewerbsverhältnis bleiben abmahnberechtigt.
 
 ## Quellenpflicht
 
-Alle Aussagen in Impressumsprüfungen und Risikomemos sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BGH GRUR 2007, 159; OLG Hamm MMR 2011, 55) und zwei Kommentarbelege im Bearbeiter-Stil. Bei Änderungen durch das DDG (seit 14.05.2024) auf Aktualität der Kommentarauflage achten.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: AZ '1 RL 2000/31' — kein Gerichtsurteil; korrekt als EU-Richtlinie 2000/31/EG (Art. 5 Abs. 1) in Normenabschnitt gelistet, keine halluzinierte Fallzitierung gefunden. EuGH C-298/07 korrekt und thematisch passend. Kein Aenderungsbedarf am Inhalt. Status: CLEAN.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

@@ -45,18 +45,18 @@ soll, die nicht den vollständigen Vermerk erhalten darf oder soll.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 23.08.2018 – 2 AZR 133/18, NZA 2018, 1329 Rn. 29 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Inhalt der BR-Anhörung — die Anhörung muss den Sachverhalt vollständig
   und richtig wiedergeben; fehlerhafte Grundlage (z. B. aus unvollständiger
   HR-Zusammenfassung) macht die Kündigung unwirksam
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 Rn. 14 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verdachtskündigung — Ergebnisse müssen auf objektiven Tatsachen beruhen,
   die auch in einer HR-Kommunikation lückenlos nachvollziehbar sind
-- BGH, Urt. v. 04.07.2017 – II ZR 319/15, NJW 2017, 3143 Rn. 22 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Informationspflichten der Geschäftsleitung gegenüber dem Aufsichtsrat bei
   laufenden Untersuchungen; Dokumentationspflicht für Governance-Entscheidungen
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Erfurter Kommentar/Kiel, 24. Aufl. 2024, § 102 BetrVG Rn. 50 ff.:
   Inhalt und Anforderungen der BR-Anhörung; Folgen unvollständiger Mitteilung;
@@ -102,7 +102,7 @@ Nicht enthalten:
 - Anwaltliche Arbeitseindrücke und mentale Bewertungen
 - Protokoll-Eintrags-IDs oder Dokumentenverweise
 
-Kopfzeile: „Vertraulich — Nur HR — Keine Weitergabe"
+Kopfzeile: "Vertraulich — Nur HR — Keine Weitergabe"
 
 **§ 102 BetrVG-Hinweis:** Diese Zusammenfassung wird oft als Grundlage
 der BR-Anhörung verwendet. Sachverhaltsdarstellung muss vollständig und
@@ -118,7 +118,7 @@ Inhalt:
   (nur grob — keine Detailrechtsanalyse)
 - Ergriffene und geplante Maßnahmen
 
-Kopfzeile: „Vertraulich — Interne Untersuchung — Geschäftsleitung"
+Kopfzeile: "Vertraulich — Interne Untersuchung — Geschäftsleitung"
 
 **§§ 93, 116 AktG / § 43 GmbHG-Hinweis:** Die Zusammenfassung muss den
 Informationsgehalt haben, der für eine ordnungsgemäße und haftungsbefreiende
@@ -134,7 +134,7 @@ Inhalt:
 - Dokumente mit erhöhter Prozessrelevanz
 - Eintrags-IDs und Quellendokumentation
 
-Kopfzeile: „Vertraulich — Interne Untersuchung"
+Kopfzeile: "Vertraulich — Interne Untersuchung"
 
 **HinSchG-Schutzpflicht (bei Hinweisgebersachen):**
 In allen Zielgruppen-Zusammenfassungen: Identität der hinweisgebenden
@@ -212,7 +212,7 @@ Bei allen Ausgaben zitieren (zielgruppenspezifisch):
   Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 12 Rn. 45 ff.
 - Bei Hinweisgebersachen: §§ 8, 37 HinSchG
 - Bei GF/AR-Briefing: §§ 93, 116 AktG / § 43 GmbHG;
-  BGH, Urt. v. 04.07.2017 – II ZR 319/15, NJW 2017, 3143
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 26 BDSG (Zweckbindung, Datenminimierung)
 
 Detaillierte Zielgruppen-Stripping-Regeln und Zusammenfassungs-Templates
@@ -223,8 +223,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 19.04.2012 — 2 AZR 258/11**, NZA 2012, 1295 — Theorie der subjektiven Determinierung bei der Betriebsratsanhörung: der Betriebsrat ist nur über die Kündigungsgründe zu unterrichten, die der Arbeitgeber kennt und die für seine Kündigung maßgeblich sind; eine unvollständige HR-Zusammenfassung als Grundlage der BR-Anhörung kann zur Unwirksamkeit der Kündigung führen.
-- **BGH, Urt. v. 04.07.2017 — II ZR 319/15**, NJW 2017, 3143 — Informationspflichten der Geschäftsleitung gegenüber dem Aufsichtsrat bei laufenden Compliance-Untersuchungen; der Vorstand muss den AR zeitnah und vollständig über Risiken informieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — vor der Zusammenfassung klären
 

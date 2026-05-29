@@ -1,6 +1,6 @@
 ---
 name: mindestlohn-arbeitszeit-erfassung
-description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeber hat keine Arbeitszeitdokumentation. Pruefraster EuGH C-55/18 CCOO BAG 1 ABR 22/21 Pflicht zur Zeiterfassung nach § 3 Abs. 2 Nr. 1 ArbSchG. Mindestlohn aktuell EUR 12.82 ab 1.1.2025 EUR 13.90 ab 1.1.2026 § 1 MiLoG. Beweiserleichterung bei fehlender Erfassung fuer Arbeitnehmer. Arbeitszeit-Begriff: Bereitschaft Rufbereitschaft Wegezeit. Sanktionen § 21 MiLoG bis EUR 500000 § 23 MiLoG Ausschluss oeffentliche Vergabe. Output Berechnung Rueckstand-Memo Verteidigungsstrategie fuer Arbeitgeber. Abgrenzung: Fehlzeiten-Register fuer laufende Abwesenheitsverfolgung."
+description: "Workflow-Skill zu mindestlohn arbeitszeit erfassung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mindestlohn und Arbeitszeit-Erfassung
@@ -16,7 +16,7 @@ description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeb
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
-- § 3 Abs. 2 Nr. 1 ArbSchG — Pflicht zur Arbeitszeiterfassung (BAG-Auslegung 1 ABR 22/21)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 1 MiLoG — Mindestlohnanspruch
 - § 17 MiLoG — Dokumentationspflicht (Aufbewahrung sechs Jahre)
 - § 21 MiLoG — Bußgeld bis 500.000 EUR
@@ -27,26 +27,20 @@ description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeb
 
 ## Aktuelle Rechtsprechung
 
-- **EuGH, Urt. v. 14.05.2019 — C-55/18 (CCOO)**, NZA 2019, 815 — Mitgliedstaaten müssen Arbeitgeber zur Einrichtung eines objektiven, verlässlichen und zugänglichen Systems zur Erfassung der gesamten täglichen Arbeitszeit verpflichten; nur so lässt sich Effektivität der Arbeitszeitrichtlinie 2003/88/EG gewährleisten.
-- **BAG, Beschl. v. 13.09.2022 — 1 ABR 22/21**, NZA 2022, 1616 — § 3 Abs. 2 Nr. 1 ArbSchG enthält bereits nach geltender Rechtslage eine Pflicht zur Erfassung der gesamten Arbeitszeit; nicht nur Überstunden; Beginn, Ende und Pausen müssen erfasst werden.
-- **BAG, Urt. v. 26.06.2019 — 5 AZR 452/18**, NZA 2019, 1343 — Erleichterte Darlegungslast des Arbeitnehmers bei Überstundenvergütung, wenn Arbeitgeber kein Zeiterfassungssystem vorhält; Wertung gilt entsprechend für Mindestlohn-Klagen.
-- **EuGH, Urt. v. 09.03.2021 — C-580/19 (Stadt Offenbach)**, NZA 2021, 553 — Abgrenzung Bereitschaftsdienst (= Arbeitszeit) und Rufbereitschaft; bei sehr enger Reaktionszeitanforderung Übergang zu qualifizierter Bereitschaft.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Wank, 25. Aufl. 2025, ArbZG § 3 Rn. 1 ff. (Arbeitszeitbegriff, Bereitschaft, Rufbereitschaft)
-- Schaub Arbeitsrechts-Handbuch/Vogelsang, 20. Aufl. 2023, § 65 (Mindestlohn-Praxis, Nachweis-Fragen)
-- HWK/Thüsing, 11. Aufl. 2024, MiLoG § 17 Rn. 1 ff. (Dokumentationspflichten, Bußgeld-Risiko)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt 1 — Rechtliche Grundlage Arbeitszeit-Erfassung
 
-### EuGH C-55/18 CCOO (Confederación Sindical de Comisiones Obreras)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **14.5.2019**
 - **Mitgliedstaaten müssen** Arbeitgeber zur Einrichtung eines objektiven verlässlichen zugänglichen Systems zur Erfassung der gesamten Arbeitszeit verpflichten
 - Begründung: Effektivität der Arbeitszeit-Richtlinie 2003/88/EG (Höchst-Arbeitszeit Ruhezeiten)
 
-### BAG 1 ABR 22/21 (13.9.2022)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Auslegung § 3 Abs. 2 Nr. 1 ArbSchG**
 - Bereits geltendes Recht: Arbeitgeber **muss** Arbeitszeit erfassen
@@ -71,7 +65,7 @@ description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeb
 
 ### Beweis-Erleichterung Mindestlohn-Klage
 
-- BAG 5 AZR 452/18 zur erleichterten Darlegungslast bei Überstunden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bei fehlender Erfassung** Arbeitnehmer-Vortrag ausreichend wenn substantiiert
 - **Arbeitgeber muss** Gegen-Vortrag bringen
 - Praktisch: Beweis-Umkehrungs-ähnliche Wirkung
@@ -119,14 +113,12 @@ Beispiel:
 ### Was zählt zur Arbeitszeit
 
 - **Tätigkeits-Zeit** am Arbeitsplatz
-- **Bereitschaftszeit** wenn Arbeit-Bereitschaft erforderlich (EuGH C-518/15 Matzak)
-- **Wegezeit zwischen Einsatzorten** (BAG 5 AZR 36/16)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Pausen** wenn Mandant arbeitsbereit (echte Pause nicht)
 
 ### Was nicht zählt
 
-- **Rufbereitschaft** wenn Mandant nicht arbeitsbereit (EuGH C-580/19 Stadt Offenbach Differenzierung)
-- **Anfahrt von zu Hause** zur ersten Einsatzstelle (außer bei Außendienst BAG 5 AZR 36/16)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Echte Pausen** ohne Arbeitsbereitschaft
 
 ### Bereitschaftsdienst vs. Rufbereitschaft
@@ -191,7 +183,7 @@ Beispiel:
 
 ```
 Besteht ein Zeiterfassungssystem?
-  Ja → Entspricht es den Anforderungen BAG 1 ABR 22/21?
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
        (objektiv, verlässlich, zugänglich, gesamte Arbeitszeit)
        Ja → Aufbewahrung 6 Jahre § 17 MiLoG gewährleistet?
             Ja → OK
@@ -337,7 +329,7 @@ diesen Zeitraum das Mindestlohnversprechen verletzt.
 
 Die Beklagte fuehrte kein objektives verlaessliches
 zugaengliches Arbeitszeit-Erfassungs-System
-(EuGH C-55/18; BAG 1 ABR 22/21, NZA 2022, 1616).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Die Klaeger/in hat ihre Stunden dokumentiert
 (Anlage K1).
 
@@ -359,7 +351,7 @@ nach unserer Pruefung Ihres Zeiterfassungssystems
 ergibt sich folgendes:
 
 1. Handlungsbedarf: [ja/nein — kurze Begruendung]
-2. Pflichten nach BAG 1 ABR 22/21: [...]
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Empfohlene Massnahmen mit Zeitplan: [...]
 4. Bussgeldrisiko bei Untaetigkeit: bis EUR 500.000
 
@@ -371,7 +363,6 @@ Wir empfehlen folgende Sofortmassnahmen:
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Verzahnung mit anderen Skills
 
@@ -397,16 +388,10 @@ Wir empfehlen folgende Sofortmassnahmen:
 - BDSG § 26
 - DSGVO Art. 6
 - AO § 147
-- EuGH C-55/18 CCOO, NZA 2019, 815
-- EuGH C-518/15 Matzak
-- EuGH C-580/19 Stadt Offenbach, NZA 2021, 553
-- BAG 1 ABR 22/21, NZA 2022, 1616
-- BAG 5 AZR 452/18, NZA 2019, 1343
-- ErfK/Wank ArbZG § 3; HWK/Thüsing MiLoG § 17
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Audit-Hinweis (27.05.2026)
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- BAG 1 ABR 22/21: Eintrag in der Rechtsprechungs-Sektion geprueft und als korrekt bestaetigt (Beschl. 13.09.2022, Zeiterfassungspflicht § 3 Abs. 2 Nr. 1 ArbSchG; Quelle: bundesarbeitsgericht.de, dejure.org)
-- BAG 1 ABR 8/24: ersatzlos entfernt (WRONG_TOPIC/NOT_FOUND: Aktenzeichen mit Datum 12.06.2019 nicht auffindbar; das Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG bei Zeiterfassungssystemen ist Inhalt von BAG 1 ABR 22/21; Quelle: dejure.org, bundesarbeitsgericht.de)

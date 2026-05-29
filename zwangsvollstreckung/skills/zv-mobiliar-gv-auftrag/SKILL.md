@@ -1,6 +1,6 @@
 ---
 name: zv-mobiliar-gv-auftrag
-description: "Glaeubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Pruefraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschaeftsraeume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-raeumung-885 (Raeumung)."
+description: "Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-räumung-885 (Räumung)."
 ---
 
 # Mobiliar-Pfändung durch den Gerichtsvollzieher
@@ -52,10 +52,10 @@ Die häufigsten Fehlbewertungen:
 
 ## Leitentscheidungen
 
-- BGH 19.3.2004 – IXa ZB 321/03 (Wertgrenze Pfändbarkeit)
-- BGH 28.7.2009 – VII ZB 38/08 (Austauschpfändung)
-- BGH 28.5.2009 – VII ZB 79/08 (Berufsausübung PC)
-- BVerfG 1.10.2014 – 1 BvR 2059/14 (Hund unpfändbar)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

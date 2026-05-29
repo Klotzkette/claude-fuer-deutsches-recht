@@ -1,6 +1,6 @@
 ---
 name: zvg-betriebskosten-hausgeld
-description: "Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten pruefen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Pruefraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Uebersicht mit Abrechnungsprotokoll und Zahlungsplan fuer Gericht. Abgrenzung zu zvg-konten-kassenfuehrung und zvg-rechnungslegung."
+description: "Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Prüfraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Übersicht mit Abrechnungsprotokoll und Zahlungsplan für Gericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung."
 ---
 
 # Betriebskosten, Hausgeld und laufende Objektkosten
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 04.11.2004 - IX ZB 64/02, NZI 2005, 161 Rn. 18 — Betriebskosten und Hausgeldvorauszahlungen der WEG-Einheit sind laufende Ausgaben der Zwangsverwaltung und bevorzugt aus der Verwaltungsmasse zu bestreiten; rückständiges Hausgeld aus der Zeit vor Beschlagnahme ist Masseschuld.
-- BGH, Beschl. v. 21.11.2013 - IX ZB 23/12, NZI 2014, 194 — Hausgeld-Rückstände die während der Zwangsverwaltung entstehen sind nach § 10 Abs. 1 Nr. 2 ZVG vorrangig zu befriedigen; der Verwalter darf Hausgeld nicht aus eigenen Mitteln vorschießen ohne Genehmigung des Gerichts.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Betriebskosten/Hausgeld
 
 § 153 ZVG (laufende Ausgaben) → § 155 ZVG (Verteilungsplan) → § 10 Abs. 1 Nr. 2 ZVG (Rangklasse Hausgeld) → §§ 8-10 ZwVwV (Ausgaben Verwaltung) → § 16 Abs. 2 WEG (Kostentragung Wohnungseigentuemer) → §§ 556-556d BGB (Betriebskosten Mietverhältnis)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 155 Rn. 15-45 (Rangklassen Betriebskosten Hausgeld)
-- Böttcher ZVG 6. Aufl., § 153 Rn. 30-55 (laufende Ausgaben)
-- Baermann WEG 15. Aufl., § 16 Rn. 50-80 (Hausgeld und Zwangsverwaltung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Betriebskosten/Hausgeld
 
 1. Handelt es sich um eine WEG-Einheit? (Hausgeld-Rückstände haben Vorrang in § 10 ZVG)

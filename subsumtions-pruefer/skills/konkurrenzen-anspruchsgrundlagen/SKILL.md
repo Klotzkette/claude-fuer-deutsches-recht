@@ -1,6 +1,6 @@
 ---
 name: konkurrenzen-anspruchsgrundlagen
-description: "Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhaeltnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG."
+description: "Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG."
 ---
 
 # Konkurrenzen und Anspruchsgrundlagen
@@ -27,10 +27,7 @@ Oft sind mehrere Normen auf einen Sachverhalt anwendbar. Dieser Skill klärt das
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 23.03.2021 - VI ZR 3/20, NJW 2021, 1956 — Deliktshaftung (§ 823 BGB) und Vertragshaftung (§§ 280 ff. BGB) stehen in echter Anspruchskonkurrenz; das Vertragsverhältnis schließt Deliktshaftung nur aus, wenn ausschließlich das Äquivalenzinteresse betroffen ist (Weiterfresserschaden-Dogmatik).
-- BGH, Urt. v. 07.05.2019 - VI ZR 512/17, NJW 2019, 2382 — Die Kaufgewährleistung (§§ 434 ff. BGB) verdrängt als lex specialis die deliktische Haftung für reine Sachmangelschäden; bei Weiterfresserschäden (Beschädigung anderer Rechtsgüter durch Mangel) besteht § 823 Abs. 1 BGB daneben.
-- EuGH, Urt. v. 05.06.2018 - C-210/16, NJW 2018, 2123 — Der Anwendungsvorrang des Unionsrechts erfordert, dass nationale Gerichte die unionsrechtswidrige nationale Norm in konkreten Fällen unangewendet lassen, auch ohne Nichtigerklärung durch den nationalen Gesetzgeber.
-- BGH, Urt. v. 18.01.2018 - III ZR 45/17, NJW 2018, 939 — Das Bereicherungsrecht (§§ 812 ff. BGB) ist gegenüber vertraglichen und deliktischen Ansprüchen subsidiär; es kommt nur zum Zuge, wenn kein vorrangiger Leistungsanspruch besteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Grundbegriffe
 
@@ -62,7 +59,7 @@ Eine Norm gilt nur, wenn eine andere Norm nicht eingreift.
 
 **Beispiele:**
 - § 826 BGB — subsidiär, aber eigenständig bei sittenwidrigem Schädigungsvorsatz
-- §§ 812 ff. BGB — subsidiär gegenüber Vertrag (BGH NJW 2018, 939)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Lex posterior und lex superior
 
@@ -76,7 +73,7 @@ Eine Norm gilt nur, wenn eine andere Norm nicht eingreift.
 
 **Ausnahme Spezialität bei reinem Äquivalenzinteresse:** Wenn der Schaden nur im Wert der mangelhaften Sache selbst besteht und kein Weiterfresserschaden vorliegt, verdrängt Kaufgewährleistung den Deliktsanspruch.
 
-**Weiterfresserschaden:** Wenn der Mangel andere Rechtsgüter des Käufers beschädigt, besteht § 823 Abs. 1 BGB daneben (BGH NJW 2019, 2382).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabe
 
@@ -86,12 +83,6 @@ Das System erstellt eine Konkurrenz-Tabelle:
 - Empfohlene Prüfungsreihenfolge
 - Hinweis auf verbleibende Kumulation oder Ausschluss
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB Einl. Rn. 1 ff. (Anspruchskonkurrenz) — übersichtlich
-- MüKo BGB §§ 823-826 (Deliktsrecht und Konkurrenzen)
-- Calliess/Ruffert Art. 288 AEUV (Anwendungsvorrang)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -44,7 +44,7 @@ Nach Auswertung der Kontoauszüge (Januar bis Eröffnung 12.06.2026) und des Sch
 
 ### A-2: Havelbank eG – 35.000 EUR vom 02.04.2026
 
-**Sachverhalt:** Mit Schreiben vom 28.04.2026 bestätigte die Havelbank eG, dass sie die Sondertilgung nach einer „dringenden Besprechung" am 01.04.2026 mit dem Geschäftsführer und einer schriftlichen Androhung der sofortigen Kontosperrung erwirkt hat. Der Darlehensvertrag sieht keine Sondertilgungspflicht vor; die Bank hatte keinen fälligen Rückzahlungsanspruch.
+**Sachverhalt:** Mit Schreiben vom 28.04.2026 bestätigte die Havelbank eG, dass sie die Sondertilgung nach einer "dringenden Besprechung" am 01.04.2026 mit dem Geschäftsführer und einer schriftlichen Androhung der sofortigen Kontosperrung erwirkt hat. Der Darlehensvertrag sieht keine Sondertilgungspflicht vor; die Bank hatte keinen fälligen Rückzahlungsanspruch.
 
 **Anfechtungsgrundlage:** § 131 Abs. 1 Nr. 1 InsO (inkongruente Deckung). Zudem kommt § 130 Abs. 1 Nr. 1 InsO in Betracht, wenn die Bank Kenntnis der Zahlungsunfähigkeit hatte (was aufgrund der laufenden Gespräche naheliegt).
 
@@ -68,7 +68,7 @@ Nach Auswertung der Kontoauszüge (Januar bis Eröffnung 12.06.2026) und des Sch
 
 ### A-4: Brauer Holding UG – 9.500 EUR vom 29.04.2026
 
-**Sachverhalt:** Die Brauer Holding UG ist zu 100 % Eigentum von Tim Brauer. Der Zahlungsgrund „Managementfee" ist weder durch einen Management-Service-Agreement belegt noch wirtschaftlich nachvollziehbar. Die Zahlung erfolgte 5 Tage vor Insolvenzantragstellung.
+**Sachverhalt:** Die Brauer Holding UG ist zu 100 % Eigentum von Tim Brauer. Der Zahlungsgrund "Managementfee" ist weder durch einen Management-Service-Agreement belegt noch wirtschaftlich nachvollziehbar. Die Zahlung erfolgte 5 Tage vor Insolvenzantragstellung.
 
 **Anfechtungsgrundlage:** § 133 Abs. 1 InsO i.V.m. § 138 InsO (nahestehende Person). Bei nahestehenden Personen wird die Kenntnis des Vorsatzes vermutet (§ 133 Abs. 2 InsO). Da kein vertraglicher Grund ersichtlich ist, kommt auch § 134 InsO (unentgeltliche Leistung) in Betracht.
 

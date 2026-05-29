@@ -21,15 +21,15 @@ Abschnitt I: Allgemeine Bestimmungen
 
 § 2  Definitionen
 
-„Planbestätigung": Beschluss des Amtsgerichts Hamburg nach § 248 InsO.
+"Planbestätigung": Beschluss des Amtsgerichts Hamburg nach § 248 InsO.
 
-„Rechtskraft": Zeitpunkt, ab dem die Planbestätigung unanfechtbar ist.
+"Rechtskraft": Zeitpunkt, ab dem die Planbestätigung unanfechtbar ist.
 
-„Planquote": Prozentualer Anteil an der festgestellten Forderung, den jede Gruppe erhält.
+"Planquote": Prozentualer Anteil an der festgestellten Forderung, den jede Gruppe erhält.
 
-„Treuhänder": Vom Gericht eingesetzte Person zur Überwachung und Ausschüttung (§§ 261, 260 InsO).
+"Treuhänder": Vom Gericht eingesetzte Person zur Überwachung und Ausschüttung (§§ 261, 260 InsO).
 
-„Investor-Tranche": Darlehen der Nordlicht Turnaround Fonds GmbH & Co. KG, gesamt 1.400.000 Euro.
+"Investor-Tranche": Darlehen der Nordlicht Turnaround Fonds GmbH & Co. KG, gesamt 1.400.000 Euro.
 
 Abschnitt II: Gruppe 1 – Absonderungsberechtigte Gläubiger
 

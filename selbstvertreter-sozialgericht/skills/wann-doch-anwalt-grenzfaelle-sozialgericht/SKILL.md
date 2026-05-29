@@ -67,7 +67,7 @@ Warum Anwalt: Verfassungsrechtliche Argumente, Praezedenzfaelle.
 
 Wann: Hohe Sanktionen ueber laengere Zeit.
 
-Warum Anwalt: Verfassungsargument BVerfG 1 BvL 7/16, schnelles Verfahren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation 7 — Schwerwiegende psychische Belastung
 

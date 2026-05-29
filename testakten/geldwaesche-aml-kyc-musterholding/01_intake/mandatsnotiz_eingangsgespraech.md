@@ -42,7 +42,7 @@ Der Geschäftsführer der Danube Trade Solutions SRL, Andrei Moldovan (geb. 14.0
 
 ### 2.3 Die Drittzahlung
 
-Am 28.04.2026 ging ein Betrag von 187.500 EUR auf dem Konto der Musterholding GmbH bei der Commerzbank Frankfurt (IBAN DE44 5004 0000 0517 8837 00) ein. Als Auftraggeber war nicht die Danube Trade Solutions SRL, sondern die Adriatic Commerce Ltd. mit Sitz in Valletta, Malta, angegeben. Im Verwendungszweck stand lediglich „Advance Payment – Contract MH-DTS-2026-04". Eine Vorabinformation oder Zustimmung zur Drittzahlung lag nicht vor. Der Betrag wurde sicherheitshalber noch nicht weiterverarbeitet.
+Am 28.04.2026 ging ein Betrag von 187.500 EUR auf dem Konto der Musterholding GmbH bei der Commerzbank Frankfurt (IBAN DE44 5004 0000 0517 8837 00) ein. Als Auftraggeber war nicht die Danube Trade Solutions SRL, sondern die Adriatic Commerce Ltd. mit Sitz in Valletta, Malta, angegeben. Im Verwendungszweck stand lediglich "Advance Payment – Contract MH-DTS-2026-04". Eine Vorabinformation oder Zustimmung zur Drittzahlung lag nicht vor. Der Betrag wurde sicherheitshalber noch nicht weiterverarbeitet.
 
 ### 2.4 Das Auskunftsersuchen der Landesaufsicht
 
@@ -102,7 +102,7 @@ Gemäß § 23a GwG ist die Musterholding Immobilien GmbH verpflichtet, Unstimmig
 
 ## 5. Hinweise zur Vertraulichkeit
 
-Gemäß § 47 GwG darf die Musterholding GmbH weder den Betroffenen noch Dritten mitteilen, dass eine Verdachtsmeldung abgegeben wurde oder wird. Der Vertrieb ist anzuweisen, gegenüber Danube Trade Solutions SRL lediglich auf „regulatorische Prüfungsprozesse" zu verweisen und keine inhaltlichen Auskünfte zu erteilen. Ein Verstoß gegen das Vertraulichkeitsgebot nach § 47 GwG ist bußgeldbewehrt (§ 56 Abs. 1 GwG).
+Gemäß § 47 GwG darf die Musterholding GmbH weder den Betroffenen noch Dritten mitteilen, dass eine Verdachtsmeldung abgegeben wurde oder wird. Der Vertrieb ist anzuweisen, gegenüber Danube Trade Solutions SRL lediglich auf "regulatorische Prüfungsprozesse" zu verweisen und keine inhaltlichen Auskünfte zu erteilen. Ein Verstoß gegen das Vertraulichkeitsgebot nach § 47 GwG ist bußgeldbewehrt (§ 56 Abs. 1 GwG).
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: jveg-vorschuss
-description: "Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerfordernis, Verfahren. Normen: § 3 JVEG. Pruefraster: Vorschusshoehe, Belegpflicht, Auszahlungsverfahren. Output: Vorschussantrag nach JVEG. Abgrenzung: nicht Kostenfestsetzungsantrag (endgueltige Abrechnung)."
+description: "Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerfordernis, Verfahren. Normen: § 3 JVEG. Prüfraster: Vorschusshoehe, Belegpflicht, Auszahlungsverfahren. Output: Vorschussantrag nach JVEG. Abgrenzung: nicht Kostenfestsetzungsantrag (endgueltige Abrechnung)."
 ---
 
 # JVEG-Vorschuss
@@ -30,16 +30,14 @@ Prüfe Vorschussanträge nach § 3 JVEG auf Zulässigkeit und Höhe, insbesonder
 - § 23 JVEG (Fristen — beginnen trotz Vorschuss mit Leistungserbringung)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Der Vorschuss nach § 3 JVEG setzt keine wirtschaftliche Bedürftigkeit voraus; maßgeblich ist ausschließlich das Vorliegen erheblicher Aufwendungen.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Überschreitung des bewilligten Vorschusses ohne vorherigen Hinweis führt zum Ausschluss der Vergütung für den übersteigenden Betrag.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Erhebliche Fahrtkosten liegen vor, wenn sie nach überschlägiger Berechnung einen wesentlichen Teil der Gesamtvergütung ausmachen.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Vorschuss und Hauptvergütung werden im Festsetzungsverfahren verrechnet; eine doppelte Auszahlung derselben Position ist ausgeschlossen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 3 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG § 3 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 3 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Sachverständiger, Zeuge oder Dolmetscher beantragt Vorschuss vor oder während der Leistungserbringung.
 

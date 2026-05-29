@@ -1,5 +1,14 @@
 # Testakte: Krisenfrüherkennung & StaRUG – Vier Varianten
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-krisenfrueherkennung-starug-vier-varianten` (diese Akte) | [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Unternehmen, Aktenzeichen, IBANs, Telefonnummern und
 > sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
 > Testmaterial für das Plugin `krisenfrueherkennung-starug`. Jede Ähnlichkeit mit realen

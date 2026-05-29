@@ -1,6 +1,6 @@
 ---
 name: soundmarke-und-bewegungsmarke
-description: "Hoermarken (Soundmarken) und Bewegungsmarken fuer Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schuetzen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Pruefraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen fuer Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke."
+description: "Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke."
 ---
 
 # Hörmarken (Soundmarken) und Bewegungsmarken
@@ -15,8 +15,7 @@ Beide Markenarten wurden durch die UMV-Reform 2017/1001 erheblich vereinfacht: G
 - **§ 8 II Nr. 1 MarkenG n.F. (seit 14.01.2019):** Übereinstimmend — ausreichend ist klare/eindeutige Darstellung
 - **EUIPO-Leitlinien Teil B Kap. 5:** Hörmarken — MP3-Datei bis 2 MB oder Notenschrift (PNG/JPEG), Sonagramm akzeptiert
 - **DPMA-Bekanntmachung 2019:** Technische Anforderungen für Hörmarken: MP3 (max. 2 MB, max. 30 Sek.) oder Notenschrift
-- **EuGH C-283/01 (Shield Mark):** Hörmarken grundsätzlich markenfähig, wenn grafische Darstellung präzise (alte Rechtslage); nach 2019 MP3-Datei ausreichend
-- **BGH I ZB 52/05 (Markenform):** Anforderungen an Notenschrift-Hinterlegung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bewegungsmarken:** EUIPO-Leitlinien — Videoformat (mp4/AVI bis 20 MB), Frame-Beschreibung
 
 ## Prüfungsschritte
@@ -35,7 +34,7 @@ Beide Markenarten wurden durch die UMV-Reform 2017/1001 erheblich vereinfacht: G
 
 3. **Beschreibung der Hörmarke:**
    - Pflichtfeld beim EUIPO: textliche Beschreibung des Klangs
-   - Beispiel: „Fünf absteigende Harfentöne in e-Moll: e4 – d4 – c4 – h3 – a3, Achtelnotenwerte, Tempo 60 bpm"
+   - Beispiel: "Fünf absteigende Harfentöne in e-Moll: e4 – d4 – c4 – h3 – a3, Achtelnotenwerte, Tempo 60 bpm"
    - Beim DPMA: Beschreibung optional, aber empfehlenswert
 
 4. **Unterscheidungskraft prüfen:**
@@ -65,9 +64,9 @@ Die animierte Version des Doppel-K-Signets (2 Sek. Rotation und Aufleuchten) als
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 100 ff. (Hörmarken) und Rn. 180 ff. (Bewegungsmarken)
-- BeckOK MarkenR, § 3 MarkenG Rn. 30 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 180 ff.
-- EuGH, Urt. v. 27.11.2003 — C-283/01 (Shield Mark) — Hörmarken grafische Darstellung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EUIPO-Leitlinien zur Prüfung, Teil B Kap. 5 (Hörmarken/Multimediamarken), Stand 2023
 - DPMA, Merkblatt Hörmarken (aktualisiert 2019)
 
@@ -116,8 +115,8 @@ Bevor die Hörmarke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 27.11.2003 — C-283/01 (Shield Mark):** Hörmarken sind grundsätzlich markenfähig; eine Tonfolge in Notenschrift kann eine klare und eindeutige Darstellung sein, wenn Taktart, Tonhoehe und Notenwerte angegeben sind; blosse Onomatopoesie (z.B. „Kikeriki") genuegt nicht als praezise Darstellung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 08.05.2008 — I ZB 52/05 (Markenform — Hörmarke):** Eine Hörmarke muss in der hinterlegten Form eindeutig mit der tatsaechlich verwendeten klingenden Form identisch sein; bereits geringe Abweichungen in Tempo oder Instrumentierung koennen die Identitaet in Frage stellen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsaetzlich eintragungsfaehig fuer Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).

@@ -1,6 +1,6 @@
 ---
 name: neuheit-pruefen
-description: "Prueft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollstaendige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik). Beruecksichtigt die EPA-Konzepte unmittelbare und eindeutige Offenbarung implizite Offenbarung und unzulaessige Auswahlerfindungen. Erzeugt Merkmalsanalyse-Tabelle pro Entgegenhaltung. Bewertet jedes Merkmal als offenbart nicht offenbart oder implizit offenbart mit Pinpoint. Gibt Gesamtergebnis und Empfehlung an die Patentanwaeltin. Disclaimer keine amtliche Pruefung."
+description: "Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollständige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik). Berücksichtigt die EPA-Konzepte unmittelbare und eindeutige Offenbarung implizite Offenbarung und unzulässige Auswahlerfindungen. Erzeugt Merkmalsanalyse-Tabelle pro Entgegenhaltung. Bewertet jedes Merkmal als offenbart nicht offenbart oder implizit offenbart mit Pinpoint. Gibt Gesamtergebnis und Empfehlung an die Patentanwaeltin. Disclaimer keine amtliche Prüfung."
 ---
 
 # neuheit-prüfen
@@ -37,14 +37,14 @@ M6: dadurch gekennzeichnet, dass das Prognosemodell ein neuronales Netzwerk mit 
 
 ### Schritt 2: Pro Entgegenhaltung eine Tabelle
 
-Pro Entgegenhaltung Spalte „offenbart / nicht offenbart / implizit offenbart" mit Pinpoint:
+Pro Entgegenhaltung Spalte "offenbart / nicht offenbart / implizit offenbart" mit Pinpoint:
 
 | Merkmal | EP 3 456 789 A1 | Pinpoint |
 | --- | --- | --- |
 | M1 | offenbart | Abs. [0001], Fig. 1 (Bezugszeichen 1, 2, 3) |
 | M2 | offenbart | Abs. [0012], Fig. 1 (Bezugszeichen 4) |
 | M3 | offenbart | Abs. [0014], Bezugszeichen 5 |
-| M4 | offenbart | Abs. [0016]: „Prognosemodell" |
+| M4 | offenbart | Abs. [0016]: "Prognosemodell" |
 | M5 | offenbart | Abs. [0020]–[0022] |
 | M6 | **nicht offenbart** | — Modell ist linear, kein neuronales Netz |
 
@@ -72,14 +72,14 @@ Tabelle aller Entgegenhaltungen mit Bewertungsspalte:
 
 ## Hinweise
 
-- **Sprache des Anspruchs** spielt eine Rolle. „Umfassend" ist offen (weitere Bauteile möglich), „bestehend aus" ist abgeschlossen. Bei der Merkmalsanalyse exakt am Wortlaut bleiben.
-- **Funktionale Merkmale** (z. B. „eingerichtet, X zu tun") sind in der Auslegung delikat. EPA-Praxis: Eine Vorrichtung, die geeignet ist, X zu tun, nimmt das funktionale Merkmal vorweg (T 219/89, T 1090/12) — die Mandantin sollte daher nicht zu weit funktional formulieren.
-- **Zahlenbereiche** (M6 „mindestens drei Schichten") — eine Entgegenhaltung mit „zwei Schichten" nimmt M6 nicht vorweg. Eine Entgegenhaltung mit „beliebige Anzahl von Schichten" nimmt M6 vorweg.
+- **Sprache des Anspruchs** spielt eine Rolle. "Umfassend" ist offen (weitere Bauteile möglich), "bestehend aus" ist abgeschlossen. Bei der Merkmalsanalyse exakt am Wortlaut bleiben.
+- **Funktionale Merkmale** (z. B. "eingerichtet, X zu tun") sind in der Auslegung delikat. EPA-Praxis: Eine Vorrichtung, die geeignet ist, X zu tun, nimmt das funktionale Merkmal vorweg (T 219/89, T 1090/12) — die Mandantin sollte daher nicht zu weit funktional formulieren.
+- **Zahlenbereiche** (M6 "mindestens drei Schichten") — eine Entgegenhaltung mit "zwei Schichten" nimmt M6 nicht vorweg. Eine Entgegenhaltung mit "beliebige Anzahl von Schichten" nimmt M6 vorweg.
 - **Kombinationen aus zwei Entgegenhaltungen** sind in der Neuheitsprüfung verboten (T 153/85). Wenn die Mandantin nur dann neuheitsschädlich getroffen wird, wenn man Entgegenhaltung A mit Entgegenhaltung B mosaikartig zusammenfügt → Neuheit ist gegeben, Frage verschiebt sich zur erfinderischen Tätigkeit.
 
 ## Disclaimer
 
-> **Hinweis zur Prüfung.** Diese Neuheitsprüfung ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Die Bewertung als „neu" oder „nicht neu" ist eine Einschätzung anhand der Recherche-Treffer; die amtliche Prüfung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfällt.
+> **Hinweis zur Prüfung.** Diese Neuheitsprüfung ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Die Bewertung als "neu" oder "nicht neu" ist eine Einschätzung anhand der Recherche-Treffer; die amtliche Prüfung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfällt.
 
 ## Triage-Fragen vor Neuheitspruefung
 
@@ -91,8 +91,8 @@ Bevor die Neuheitspruefung beginnt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG muessen alle Merkmale des beanspruchten Gegenstands in einer einzigen Entgegenhaltung unmittelbar und eindeutig offenbart sein; eine Mosaik-Argumentation aus mehreren Entgegenhaltungen ist bei der Neuheitspruefung verboten (anders als bei der erfinderischen Taetigkeit).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 153/85:** Bei der Neuheitspruefung ist jede Entgegenhaltung einzeln zu betrachten; eine neuheitsschaedliche Wirkung kann nur aus einer einzigen Schrift hergeleitet werden, nicht durch Kombination mehrerer Dokumente.
 
-> **BGH, Urt. v. 15.11.2012 — X ZR 5/11 (Dreifingergreifer):** Eine offenbarte Obergrenze eines Zahlbereichs (z.B. „maximal 10") nimmt auch Werte oberhalb dieses Bereichs nicht vorweg; eine Entgegenhaltung mit dem Bereich „5 bis 10" nimmt einen beanspruchten Wert von „11" nicht vorweg — wichtig fuer die Abgrenzungsstrategie durch Zahlbereichsmerkmale.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

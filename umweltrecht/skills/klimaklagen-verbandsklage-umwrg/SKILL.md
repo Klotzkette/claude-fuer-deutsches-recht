@@ -1,13 +1,13 @@
 ---
 name: klimaklagen-verbandsklage-umwrg
-description: "Umweltverband oder Buerger klagt gegen Genehmigung oder Klimaschutz-Versaeumnis. BVerfG 1 BvR 2656/18 Klimabeschluss UmwRG §§ 1 2 Verbandsklagebefugnis KSG. Normen UmwRG § 2 BImSchG WHG UVPG EuGH Aarhus-Konvention C-664/15. Pruefraster Klagebefugnis Klagegegenstand Aarhus-Anforderungen FFH-Vertraeglichkeit § 34 BNatSchG. Output Klageschrift-Entwurf Klagebefugnis-Pruefung Strategie-Memo. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (BImSchG-Genehmigung)."
+description: "Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Klimaklagen und Verbandsklagen nach UmwRG
 
 ## Zweck
 
-Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichtigste Wachstumssegment im Umweltrecht. Dieses Skill bedient Klage-Vorbereitung und -Abwehr.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -21,14 +21,13 @@ Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichti
 
 ### Typ 1 — Klimaklage individuelle Verfassungsbeschwerde
 
-- BVerfG 1 BvR 2656/18 — Erfolg
-- BVerfG 1 BvR 78/20, 1 BvR 96/20, 1 BvR 288/20 (Verfahrensverbund)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Argumentation:** intertemporale Freiheits-Sicherung — heutige unzureichende Klimapolitik beschränkt künftige Freiheits-Spielräume
 
 ### Typ 2 — Klimaklage gegen Bundesregierung
 
 - Verwaltungsgerichtliche Klage auf Erlass von Klimaschutz-Maßnahmen
-- VG Berlin 10 K 412.18 — Klage abgewiesen (Bauern)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OVG Berlin-Brandenburg
 - BVerwG-Berufung
 
@@ -68,17 +67,17 @@ Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichti
 
 - Verbandsklage ohne eigene Rechtsverletzung
 - Aarhus-Konvention Art. 9 Abs. 2
-- EuGH C-664/15 Protect Natur, C-243/15 Brown Bear, C-826/18 Stichting Varkens
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Materielle Anforderungen Klage-Erfolg
 
 - Verletzung umweltbezogener Rechtsvorschriften
 - Subjektive und objektive Rechte
-- BVerwG 7 C 13.17 Trianel zur Materialisierung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 3 — BVerfG-Klimabeschluss als Argumentation
 
-### Kernaussagen 1 BvR 2656/18
+### Rechtsprechung live prüfen
 
 - **Klimaschutz-Verfassungs-Verbot** (Art. 20a GG iVm Grundrechten)
 - **Intertemporale Freiheits-Sicherung** — zukünftige Generationen
@@ -109,7 +108,7 @@ Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichti
 
 ### Klage gegen UVP-Pflicht-Verneinung
 
-- BVerwG 4 C 11/06 zur Verbandsklage-Möglichkeit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anhörungs-Mangel begründet selbstständig Klage
 
 ## Schritt 5 — Materiell-rechtliche Klage-Linien
@@ -141,7 +140,7 @@ Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichti
 
 - Zugang zu Gerichten für Umweltverbände
 - Effektivitätsprinzip
-- EuGH C-664/15 (Protect Natur) — weite Auslegung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Compliance-Komitee
 
@@ -293,9 +292,7 @@ Es wird beantragt:
 - BNatSchG § 34
 - BauGB § 1
 - GG Art. 20a
-- BVerfG 1 BvR 2656/18 (Klimabeschluss)
-- BVerwG 4 C 11/06 7 C 13/17
-- EuGH C-664/15 Protect Natur, C-243/15 Brown Bear
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EGMR Verein KlimaSeniorinnen Schweiz, App. No. 53600/20, 9.4.2024
 - Hoge Raad Urgenda 20.12.2019
 - Aarhus-Konvention

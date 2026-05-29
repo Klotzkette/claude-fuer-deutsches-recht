@@ -16,7 +16,7 @@ Berlin, den 13. März 2026
 
 Alpenländische Hypotheken- und Handelsbank AG ./. Kronprinz Friedrich Immobilien GmbH & Co. KG
 Aktenzeichen: 36 L 412/24
-Objekt: Büro- und Geschäftshaus „Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin
+Objekt: Büro- und Geschäftshaus "Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin
 
 erstatte ich folgenden
 

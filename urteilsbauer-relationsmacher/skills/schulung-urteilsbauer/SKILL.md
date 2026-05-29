@@ -1,6 +1,6 @@
 ---
 name: schulung-urteilsbauer
-description: "Schulungs-Trainerleitfaden fuer Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag fuer Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Pruefraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Uebungen anhand Schulungsakte, Musterloesung. Output Seminarplan, Uebungsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Pruefungsvorbereitung siehe vollrelation-langfassung."
+description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Uebungen anhand Schulungsakte, Musterlösung. Output Seminarplan, Uebungsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer
@@ -17,10 +17,9 @@ Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 
 ## Aktuelle Rechtsprechung (für Schulungsunterlagen)
 
-- BGH, Urt. v. 04.07.2017 - XI ZR 562/15, NJW 2017, 2986 — Entscheidungsgründe müssen nachvollziehbar sein; pauschalisierende Formulierungen verletzen Begründungsgebot (→ für Schulungsblock "Entscheidungsgründe schreiben" verwenden).
-- BGH, Urt. v. 21.02.2017 - XI ZR 185/16, NJW 2017, 1823 — § 139 ZPO Hinweispflicht; Gericht darf Klage nicht ohne Vorankündigung abweisen (→ für Schulungsblock "Aktenintake und Hinweispflicht" verwenden).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- BVerfG, Beschl. v. 19.01.2021 - 1 BvR 2681/19, NJW 2021, 1431 — Art. 103 Abs. 1 GG: Gericht muss wesentliche Argumentation im Urteil berücksichtigen (→ für Schulungsblock "Verfassungsrechtliche Grundlagen").
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (für Schulungsunterlagen)
 
@@ -31,12 +30,9 @@ Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 - § 38 FamFG — Beschluss (bei Familiensachen)
 - §§ 708, 709 ZPO — vorläufige Vollstreckbarkeit
 
-## Kommentarliteratur (für Literaturliste der Schulung)
+## Quellenregel
 
-- Zöller, ZPO, 35. Aufl. 2024 (Standardkommentar für alle Schulungsblöcke)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024 (Kurzkommentar für schnelle Nachschläge)
-- Musielak/Voit, ZPO, 21. Aufl. 2024 (vertiefend)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Erweiterter Stundenplan Zweitagesschulung
 
 ### Tag 1

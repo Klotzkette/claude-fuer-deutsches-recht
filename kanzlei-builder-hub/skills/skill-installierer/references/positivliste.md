@@ -51,7 +51,7 @@ lizenzen:
 
 ## Lizenzpolitik und Quellenvertrauenspolitik sind orthogonal
 
-Eine Registrierung, der Sie vertrauen, kann Skills unter beliebigen Lizenzen bereitstellen, die die Beitragenden wählen — MIT, Apache, AGPL-3.0, proprietär, nebeneinander. Das Vertrauen in die Quelle bedeutet nicht, jede Lizenz zu akzeptieren, die die Quelle bereitstellt. Das Feld `lizenzen:` ist ein separates Tor auf Skill-Ebene: Die Listen `registrierungen:` und `herausgeber:` beantworten „Ist diese Quelle vertrauenswürdig?" und `lizenzen:` beantwortet „Sind die Pflichten, die dieser Skill trägt, für meine Nutzungsweise akzeptabel?" Für ein Werkzeug, das Drittanbietercode in eine Rechtsarbeitsumgebung installiert, ist das Nicht-Verfolgen von Lizenzen eine Glaubwürdigkeitslücke — ein Rechtsanwalt, der nicht sagen kann, welche Lizenzen in seiner eigenen Umgebung vorhanden sind, kann niemand anderen zu Lizenzen beraten.
+Eine Registrierung, der Sie vertrauen, kann Skills unter beliebigen Lizenzen bereitstellen, die die Beitragenden wählen — MIT, Apache, AGPL-3.0, proprietär, nebeneinander. Das Vertrauen in die Quelle bedeutet nicht, jede Lizenz zu akzeptieren, die die Quelle bereitstellt. Das Feld `lizenzen:` ist ein separates Tor auf Skill-Ebene: Die Listen `registrierungen:` und `herausgeber:` beantworten "Ist diese Quelle vertrauenswürdig?" und `lizenzen:` beantwortet "Sind die Pflichten, die dieser Skill trägt, für meine Nutzungsweise akzeptabel?" Für ein Werkzeug, das Drittanbietercode in eine Rechtsarbeitsumgebung installiert, ist das Nicht-Verfolgen von Lizenzen eine Glaubwürdigkeitslücke — ein Rechtsanwalt, der nicht sagen kann, welche Lizenzen in seiner eigenen Umgebung vorhanden sind, kann niemand anderen zu Lizenzen beraten.
 
 ### Wie Lizenzstrings gelesen werden — als Daten, nicht als Anweisungen
 
@@ -79,9 +79,9 @@ Für kanzleiweite Bereitstellungen, interne Rechtsteams mit verwalteten Werkzeug
 
 ## Standardverhalten bei fehlender Datei
 
-Wenn `positivliste.yaml` nicht vorhanden ist, behandelt der Installer die Umgebung als `permissiv` mit einer leeren Zulässigkeitsliste — alles ist „nicht auf der Liste", sodass jede Installation eine Warnung ausgibt und der Benutzer diese explizit akzeptieren muss, bevor etwas geschrieben wird.
+Wenn `positivliste.yaml` nicht vorhanden ist, behandelt der Installer die Umgebung als `permissiv` mit einer leeren Zulässigkeitsliste — alles ist "nicht auf der Liste", sodass jede Installation eine Warnung ausgibt und der Benutzer diese explizit akzeptieren muss, bevor etwas geschrieben wird.
 
-Der Installer geht NICHT stillschweigend zu „Alles erlauben" über. Fehlende Zulässigkeitsliste = sichtbare Warnung bei jeder Ausführung.
+Der Installer geht NICHT stillschweigend zu "Alles erlauben" über. Fehlende Zulässigkeitsliste = sichtbare Warnung bei jeder Ausführung.
 
 ## Verwendung durch den Installer
 

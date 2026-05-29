@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-umwandlungssteuerrecht
-description: "Umwandlungssteuerrecht Buchwertantrag steuerliche Rueckwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungstatbestand. Pruefraster Buchwertantrag-Voraussetzungen, steuerliche Rueckwirkung Siebenmonatsfrist, § 8c KStG Schaedlichkeitspruefung, GrESt-Befreiung und Nachbehaltefristen. Output Steuerliche Strukturmatrix mit Buchwertantrag und Risikobewertung. Abgrenzung zu Umwandlungsrecht fuer gesellschaftsrechtliche Seite und zu Transaktionsstruktur."
+description: "Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungstatbestand. Prüfraster Buchwertantrag-Voraussetzungen, steuerliche Rückwirkung Siebenmonatsfrist, § 8c KStG Schaedlichkeitsprüfung, GrESt-Befreiung und Nachbehaltefristen. Output Steuerliche Strukturmatrix mit Buchwertantrag und Risikobewertung. Abgrenzung zu Umwandlungsrecht für gesellschaftsrechtliche Seite und zu Transaktionsstruktur."
 ---
 
 # Umwandlungssteuerrecht
@@ -30,17 +30,11 @@ Erfasst und bewertet umwandlungssteuerliche Strukturfragen als Arbeitsmatrix fue
 
 ## Aktuelle Rechtsprechung
 
-- BFH, Urt. v. 22.09.2021 - I R 40/17, BStBl. II 2022, 348 — Einbringung § 20 UmwStG: Buchwertansatz setzt Einbringung eines qualifizierten Teilbetriebs voraus; reine Holdinggesellschaft ohne operativen Anteil erfullt Teilbetriebsvoraussetzung nicht
-- BFH, Urt. v. 12.12.2019 - IV R 18/17, BStBl. II 2020, 339 — GrEStG-Ergaenzungstatbestand § 1 Abs. 2a: bereits 90 % Anteilsuebergang innerhalb von 10 Jahren loest Grunderwerbsteuer aus; mittelbare Anteilsuebertragungen werden einbezogen
-- BFH, Urt. v. 14.07.2020 - I R 12/17, BStBl. II 2021, 99 — § 8c KStG: Verlustuntergang greift auch bei mittelbarem Anteilserwerb ueber zwischengeschaltete Holding; die wirtschaftliche Betrachtungsweise massgeblich
-- BFH, Urt. v. 19.10.2022 - XI R 29/21, BStBl. II 2023, 120 — Sanierungsertrag § 3a EStG: kumulierte Voraussetzungen muessen im Zeitpunkt des Forderungsverzichts vorliegen; spaecter eintretende Scheitern der Sanierung aendert die Steuerfreistellung nicht rueckwirkend
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schnitger/Fehrenbacher, UmwStG, §§ 11-22 Rn. 1-200 (Umwandlungsbesteuerung)
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 8 (Steuerliche Strukturierung), 8. Auflage
-- Blumenberg/Kring, UmwStG, §§ 20-24 Rn. 1-150 (Einbringung, Sperrfristen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Zielstruktur mit Corporate-Team abstimmen:** welche Umwandlungsform (Verschmelzung, Ausgliederung, Formwechsel) ist beabsichtigt?

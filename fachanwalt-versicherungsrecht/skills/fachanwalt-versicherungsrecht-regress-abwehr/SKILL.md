@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-regress-abwehr
-description: "Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung. Anwendungsfall Sozialversicherungstraeger oder Versicherung macht Regress auf Haftenden geltend. Normen § 116 SGB X Forderungsuebergang § 86 VVG Uebergang § 76 LBG Dienstherrenregress. Pruefraster sachliche und zeitliche Kongruenz Quotenvorrecht Geschaedigter § 116 Abs. 3 SGB X Familienprivileg § 86 Abs. 3 VVG Mitverschulden Verjaehrung Hemmung Verhandlungen. Output Regressabwehrschreiben mit Konkurrenz-Einrede Quotenvorrecht-Argumentation und Verjaehrungseinrede. Abgrenzung zu klage-versicherer-strategie und schriftsatzkern-substantiierung."
+description: "Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung. Anwendungsfall Sozialversicherungstraeger oder Versicherung macht Regress auf Haftenden geltend. Normen § 116 SGB X Forderungsuebergang § 86 VVG Übergang § 76 LBG Dienstherrenregress. Prüfraster sachliche und zeitliche Kongruenz Quotenvorrecht Geschaedigter § 116 Abs. 3 SGB X Familienprivileg § 86 Abs. 3 VVG Mitverschulden Verjährung Hemmung Verhandlungen. Output Regressabwehrschreiben mit Konkurrenz-Einrede Quotenvorrecht-Argumentation und Verjährungseinrede. Abgrenzung zu klage-versicherer-strategie und schriftsatzkern-substantiierung."
 ---
 
 # Regress-Abwehr
@@ -45,13 +45,7 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH VI ZR 132/11 | VI ZR 132/11 | 24.04.2012 | Quotenvorrecht § 116 Abs. 3 SGB X bei Mitverschulden des Geschädigten; übergegangener Anspruch nachrangig gegenüber eigenem Schadensersatz des Geschädigten |
-| BGH VI ZR 239/14 | VI ZR 239/14 | 10.03.2015 | Sachliche Kongruenz zwischen Verdienstausfall und Krankengeld; Kongruenzprüfung streng nach Schadensart |
-| BGH IV ZR 50/03 | IV ZR 50/03 | 08.10.2003 | § 67 VVG a.F. (jetzt § 86 VVG): Forderungsübergang bei privater Unfallversicherung; Quotenvorrecht gilt entsprechend |
-| BGH VI ZR 390/02 | VI ZR 390/02 | 20.01.2004 | Familienprivileg § 116 Abs. 6 SGB X: enge Auslegung des Begriffs "häusliche Gemeinschaft"; Wohngemeinschaft ohne familiären Bezug reicht nicht |
-| BSG B 2 U 3/17 R | B 2 U 3/17 R | 26.06.2018 | Grobe Fahrlässigkeit § 110 SGB VII bei Berufsgenossenschaftsregress; hohe Anforderungen an subjektiven Tatbestand |
-| BGH VI ZR 155/08 | VI ZR 155/08 | 14.07.2009 | Verjährung des Regressanspruchs nach § 116 SGB X; Beginn mit Kenntnis des Trägers vom Schadensereignis und Person des Schädigers |
-| BGH VI ZR 286/00 | VI ZR 286/00 | 19.02.2002 | Sozialleistungsvermerk: Pflicht des Geschädigten zur Benachrichtigung des Trägers; andernfalls Erlöschen des übergegangenen Anspruchs |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Regress-Abwehr
 
@@ -106,10 +100,9 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 | Gegenargument des Regressnehmers | Gegenstrategie |
 |---|---|
 | "Kongruenz ist evident — Krankenbehandlungskosten für Unfallverletzung" | Einzelpositionen prüfen: Wahlleistungen, Eigenanteile, nicht unfallbedingte Behandlungen herausrechnen |
-| "Verjährung beginnt erst mit Rechtskraft des Haftpflichturteils" | BGH VI ZR 155/08: Kenntnis des Trägers vom Ereignis genügt; keine Abhängigkeit vom Ausgang des Haftpflichtprozesses |
-| "Familienprivileg gilt nicht bei Haftpflichtversicherungsschutz" | BGH VI ZR 390/02: Privileg gilt auch bei bestehender Haftpflichtversicherung; Versicherer kann nicht besser gestellt sein als Schädiger |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Quote mindert Regress nicht, weil Gesamtschaden gedeckt ist" | § 116 Abs. 3 SGB X ist zwingend: Quotenvorrecht des Geschädigten geht vor; Übergang nur soweit Haftungsanteil vorhanden |
-| "Grobe Fahrlässigkeit reicht für § 110 SGB VII" | Hohe Anforderungen BSG B 2 U 3/17 R: subjektive Komponente der groben Fahrlässigkeit muss positiv festgestellt werden |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hemmung durch Korrespondenz" | Nur echte Verhandlungen hemmen; reine Sachverhaltsaufklärung oder bloße Forderungsübermittlung sind keine Verhandlungen i.S.d. § 203 BGB |
 | "Vorteilsausgleichung ist ausgeschlossen" | Vorteilsausgleichung greift nur bei Vorteilen die kausal durch das Schadensereignis entstanden sind und nicht unzumutbar sind |
 
@@ -292,7 +285,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Gerichtskosten | Nach GKG Anlage 1 Nr. 1210 (Zivilklage): z.B. bei EUR 50.000 Streitwert ca. EUR 3 nach GKG | Beim LG Kammer für Handelssachen bei Versicherern; beim SG bei öffentlich-rechtlichen Trägern |
 | Anwaltskosten | RVG nach Streitwert; bei 50.000 EUR Gegenstandswert 1,3 Verfahrensgebühr ca. EUR 1.564 zzgl. MwSt. | Kostenerstattung bei Obsiegen |
 | Sachverständigenkosten | Kongruenzgutachten ca. EUR 1.500–3.500 je nach Umfang | Investition lohnt bei Regressforderung über EUR 10.000 |
-| Zuständiges Gericht | Zivilklage: AG/LG nach Streitwert; BG-Regress § 110 SGB VII: Arbeitsgericht; GKV/RV-Regress § 116 SGB X: Zivilgericht (BGH ZIP 2019, 1234) | Zuständigkeit prüfen vor Einlassung |
+| Zuständiges Gericht | Zivilklage: AG/LG nach Streitwert; BG-Regress § 110 SGB VII: Arbeitsgericht; GKV/RV-Regress § 116 SGB X: Zivilgericht. Rechtsprechung nur live verifiziert eintragen. | Zuständigkeit prüfen vor Einlassung |
 
 ## Strategische Empfehlung
 
@@ -316,12 +309,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH VI ZR 132/11, Urt. v. 24.04.2012 — Quotenvorrecht § 116 Abs. 3 SGB X
-- BGH VI ZR 239/14, Urt. v. 10.03.2015 — sachliche Kongruenz Verdienstausfall/Krankengeld
-- BGH VI ZR 390/02, Urt. v. 20.01.2004 — Familienprivileg § 116 Abs. 6 SGB X
-- BGH IV ZR 50/03, Urt. v. 08.10.2003 — Forderungsübergang § 86 VVG
-- BGH VI ZR 155/08, Urt. v. 14.07.2009 — Verjährungsbeginn Regressanspruch § 116 SGB X
-- BSG B 2 U 3/17 R, Urt. v. 26.06.2018 — grobe Fahrlässigkeit § 110 SGB VII
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geigel, Der Haftpflichtprozess, 28. Aufl. 2022
 - Küppersbusch/Höher, Ersatzansprüche bei Personenschaden, 13. Aufl. 2021
 - Eichenhofer/Wenner, SGB X, 3. Aufl. 2022
@@ -330,21 +318,17 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ### Leitsatz-Zitate
 
-BSG, Urt. v. 05.09.2006 — **B 2 U 24/05 R**, BSGE 97, 73 Rn. 15: Sachliche Kongruenz im Sinne von § 116 SGB X erfordert, dass der Regress-Anspruch des Sozialversicherungsträgers sachlich mit dem Schadensersatzanspruch des Geschädigten übereinstimmt; Verdienstausfallersatz kann nur insoweit übergehen, als der Träger Leistungen zur Lohnersatz erbracht hat (z.B. Krankengeld, Verletztengeld).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.06.2008 — **VI ZR 197/07**, NJW 2008, 2776, VersR 2008, 1350 Rn. 12: Der Übergang von Schadensersatzansprüchen auf den Sozialversicherungsträger nach § 116 SGB X erfolgt regelmäßig schon im Zeitpunkt des Unfalls, soweit Leistungen des Trägers sachlich und zeitlich mit den Schadensersatzansprüchen des Geschädigten kongruent sind; der gesetzliche Forderungsübergang setzt keine endgültige Leistungserbringung voraus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 116 SGB X (Übergang Schadensersatzansprüche auf Sozialversicherungsträger) → § 116 Abs. 3 SGB X (Quotenvorrecht des Geschädigten) → § 86 VVG (Übergang Schadensersatzanspruch auf Versicherer) → § 86 Abs. 3 VVG (Familienprivileg) → § 67 VVG a.F. (für Altverträge) → § 195 BGB (Verjährung) → § 203 BGB (Hemmung) → § 254 BGB (Mitverschulden, relevant für Quotenvorrecht)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Bruck/Möller, VVG, 9. Aufl. 2012 ff., § 86 VVG: Forderungsübergang, Familienprivileg, sachliche und zeitliche Kongruenz.
-- Hauck/Noftz SGB X, § 116 SGB X: Detailkommentierung Sozialversicherungsregress, Quotenvorrecht, Kongruenz.
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Audit-Hinweis
 
 **Datum:** 27.05.2026
@@ -352,7 +336,5 @@ BGH, Urt. v. 17.06.2008 — **VI ZR 197/07**, NJW 2008, 2776, VersR 2008, 1350 R
 
 | AZ | Status | Massnahme |
 |---|---|---|
-| OLG Frankfurt 7 U 225/18 | NOT_FOUND (dejure.org: keine Treffer) | Geloescht aus Leitentscheidungen-Tabelle |
-| BGH VI ZR 109/07 | NOT_FOUND (dejure.org: "Nichts gefunden") | Ersetzt durch BGH VI ZR 197/07, Urt. v. 17.06.2008, NJW 2008, 2776, VersR 2008, 1350 (verifiziert auf dejure.org) |
-| BGH VI ZR 179/10 | WRONG_TOPIC (dejure.org: Arzthaftung/Aufklaerungspflicht, nicht Quotenvorrecht; VersR 2011, 1450) | Leitsatz-Zitat geloescht |
-| BGH VI ZR 268/12 | NOT_FOUND (dejure.org: keine Treffer fuer dieses AZ mit keinem Datum) | Leitsatz-Zitat geloescht |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |

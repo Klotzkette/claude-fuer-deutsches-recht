@@ -3,7 +3,7 @@ name: verzeichnis-synchronisierung
 description: >
   Regelmäßige Prüfung überwachter Registries auf neue und aktualisierte
   Skills. Sendet Benachrichtigungen gemäß Aktualisierungspräferenzen.
-  Auslöser: „Registries synchronisieren", „gibt es Neues" oder nach Plan.
+  Auslöser: "Registries synchronisieren", "gibt es Neues" oder nach Plan.
 model: sonnet
 tools: ["Read", "Write", "WebFetch", "mcp__*__slack_send_message"]
 ---
@@ -37,7 +37,7 @@ Standardmäßig wöchentlich.
 **Neue Skills passend zu Ihrem Profil:**
 • [Skill] aus [Registry] — [Beschreibung]
 
-[Falls Auto-Update aktiv: „[N] Aktualisierungen angewendet."]
+[Falls Auto-Update aktiv: "[N] Aktualisierungen angewendet."]
 ```
 
 ## Was dieser Agent NICHT tut

@@ -1,6 +1,6 @@
 ---
 name: dsa-art-34-systemische-risikobewertung
-description: "Jaehrliche Risikobewertung nach Art. 34 DSA fuer VLOP/VLOSE durchfuehren: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Pruefraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen."
+description: "Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen."
 ---
 
 # DSA — Systemische Risikobewertung nach Art. 34
@@ -88,10 +88,8 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 
 ## Aktuelle Rechtsprechung
 
-- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55: VLOP-Designation als Voraussetzung für Pflichten nach Art. 34 DSA; Risikobewertungspflicht entsteht mit Designation; Erstbewertung muss binnen 4 Monaten vorliegen.
-- EuGH, Urt. v. 22.06.2023 — C-422/21 (Tele2 Sverige), NJW 2023, 2800 Rn. 42: Zur Verhältnismäßigkeit von Risikominderungsmaßnahmen; Art. 34 DSA-Risikobewertung muss Grundrechtsabwägung (Art. 11, 16, 8 GRCh) enthalten.
-- EuGH, Urt. v. 03.10.2019 — C-18/18 (Eva Glawischnig-Piesczek), NJW 2019, 3571 Rn. 28: Zu systemischen Risiken sozialer Netzwerke durch illegale Inhalte; Art. 34 DSA kodifiziert und erweitert die Schutzpflichten.
-- OVG Hamburg, Beschl. v. 15.03.2023 — 14 Bs 12/23, NVwZ 2023, 890 Rn. 22: Zur nationalen Umsetzung von Plattformpflichten; Behörden können auf Basis von Risikobewertungen Auflagen erteilen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -101,11 +99,9 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 - Art. 40 DSA — Forschungsdatenzugang
 - Art. 11 GRCh — Meinungsfreiheit als Abwägungsposten in Risikobewertung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Spindler, NJW 2022, 1305: Zur Risikobewertungsmethodik nach Art. 34 DSA; vier Risikoarten und deren praktische Bewertung.
-- Paal/Pauly, Medienrecht, 2024, DSA Art. 34 Rn. 1–60: Umfassend zu Methodik, Dokumentationspflichten und Audit-Schnittstelle.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Ist der Mandant VLOP oder VLOSE (Art. 33 DSA)? Designation abgewartet?

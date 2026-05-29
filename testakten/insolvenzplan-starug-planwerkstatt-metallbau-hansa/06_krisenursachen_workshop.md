@@ -2,7 +2,7 @@
 
 **Aktenzeichen:** MH-2026-001  
 **Datum:** 19. Mai 2026, 09:00–16:30 Uhr  
-**Ort:** Konferenzraum „Elbe", Kanzlei Westphal & Partner, Hamburg  
+**Ort:** Konferenzraum "Elbe", Kanzlei Westphal & Partner, Hamburg  
 **Moderatorin:** RA Dr. Karolin Westphal  
 **Teilnehmende:** Anna Reimers (GF), Lukas Petersen (GF), Björn Hollender (CFO), Karin Metzger (Betriebsratsvorsitzende, 14:00–15:00 Uhr), Rainer Buchholz (Herstellungsleiter, 09:00–12:00 Uhr)  
 **Methode:** Ursachen-Wirkungs-Analyse (Ishikawa), ergänzt durch SWOT-Kurzfassung  
@@ -11,7 +11,7 @@
 
 ## 1. Zweck und Methode
 
-Der Workshop dient der strukturierten Erfassung aller Krisenursachen als Grundlage für das Sanierungskonzept und den späteren Insolvenzplan bzw. StaRUG-Restrukturierungsplan. Die Analyse folgt der Leitfrage: „Warum ist die Metallbau Hansa GmbH trotz ausreichender Auftragslage in eine Liquiditäts- und Ertragskrise geraten?" Die Ergebnisse werden in den darstellenden Teil des Plans einfließen.
+Der Workshop dient der strukturierten Erfassung aller Krisenursachen als Grundlage für das Sanierungskonzept und den späteren Insolvenzplan bzw. StaRUG-Restrukturierungsplan. Die Analyse folgt der Leitfrage: "Warum ist die Metallbau Hansa GmbH trotz ausreichender Auftragslage in eine Liquiditäts- und Ertragskrise geraten?" Die Ergebnisse werden in den darstellenden Teil des Plans einfließen.
 
 Als Moderationswerkzeug wurde das Ishikawa-Diagramm (Ursache-Wirkungs-Diagramm) eingesetzt. Die sechs Kategorien wurden an die Spezifika eines Fertigungsunternehmens angepasst: Markt/Preise, Verträge/Konditionen, Controlling/Steuerung, Finanzierung/Kapitalstruktur, Personal/Organisation, externe Faktoren.
 
@@ -24,7 +24,7 @@ Als Moderationswerkzeug wurde das Ishikawa-Diagramm (Ursache-Wirkungs-Diagramm) 
 **Leitbefund:** Der Rohstoffpreisschock 2022/2023 traf das Unternehmen ohne ausreichende Absicherung.
 
 - Warmgewalzter Bandstahl (HRC) stieg von ca. 600 Euro/t (Anfang 2022) auf über 900 Euro/t (Mitte 2022) und pendelte sich 2023 auf ca. 780–850 Euro/t ein. Die Kalkulationsgrundlage der laufenden Festpreisverträge beruhte auf 640–680 Euro/t.
-- Keine systematische Absicherung über Rohstoff-Futures oder Index-Klauseln in Verträgen vor 2025. Herr Buchholz berichtete, dass Absicherungsangebote der Hausbank 2021 als „zu teuer" abgelehnt worden seien.
+- Keine systematische Absicherung über Rohstoff-Futures oder Index-Klauseln in Verträgen vor 2025. Herr Buchholz berichtete, dass Absicherungsangebote der Hausbank 2021 als "zu teuer" abgelehnt worden seien.
 - Die Bahnbranche (InfraRail) zahlt nach Abnahme mit fixer Zahlungsfrist; Verzögerungen in Planfeststellungsverfahren verschoben Abnahmen um 4–8 Monate, während Material und Lohn bereits geflossen waren.
 - Wettbewerber aus Osteuropa haben einzelne Aufträge bei Neuausschreibungen mit Preisen gewonnen, die die eigenen Kalkulationen um 12–18 % unterboten. Bisher kein direkter Kundenverlust, aber Margendruck bei Angeboten spürbar.
 
@@ -61,7 +61,7 @@ Als Moderationswerkzeug wurde das Ishikawa-Diagramm (Ursache-Wirkungs-Diagramm) 
 **Leitbefund:** Schlüsselpersonenrisiken und Kommunikationsdefizite haben die Krise verstärkt.
 
 - Rainer Buchholz ist der einzige zertifizierte Schweißfachingenieur im Unternehmen (DVS-Zertifikat). Bei Krankheit oder Kündigung würde die Zertifizierung nach DIN EN 1090-2 erlöschen, was den Bahn- und Anlagenbaubereich lahmlegen würde. Eine Nachfolge ist nicht geregelt.
-- Die Betriebsratsvorsitzende Karin Metzger berichtete im Nachmittags-Teil des Workshops, dass die Belegschaft seit Anfang 2025 verunsichert sei. Informationspolitik der Geschäftsführung sei „spärlich" gewesen; es kursierten Gerüchte über Schließung. Zwei erfahrene Facharbeiter haben das Unternehmen bereits verlassen.
+- Die Betriebsratsvorsitzende Karin Metzger berichtete im Nachmittags-Teil des Workshops, dass die Belegschaft seit Anfang 2025 verunsichert sei. Informationspolitik der Geschäftsführung sei "spärlich" gewesen; es kursierten Gerüchte über Schließung. Zwei erfahrene Facharbeiter haben das Unternehmen bereits verlassen.
 - Kommunikation zwischen kaufmännischer Leitung (Reimers) und technischer Leitung (Petersen) lief phasenweise aneinander vorbei: Projektnachträge wurden nicht systematisch an die kaufmännische Leitung weitergeleitet.
 - Keine strukturierte Einarbeitung der neuen Projektleiterin Sinja Ohlmanns Vertreterin (seit Oktober 2025 teilzeitbeschäftigt); dadurch Wissensabfluss-Risiko bei Ohlmanns Sonderurlaub im April 2026.
 

@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-amtsgericht
-description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zustaendigkeit fuer Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Ruecksicht auf den Streitwert; bei Geschaeftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG (zehntausend Euro seit Reform 2024). Oertliche Zustaendigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Antraege Sachverhalt rechtliche Wuerdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Pruefung. Disclaimer mehrfach.
+description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG (zehntausend Euro seit Reform 2024). Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach.
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)
@@ -77,8 +77,7 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 23.02.2022 — VIII ZR 305/20, NJW 2022, 1670 Rn. 22: Bei Klage auf Zustimmung zur Mieterhoehung muss die neue Miete als konkreter Betrag beantragt werden; Verweis auf Berechnungsgrundlage genuegt nicht fuer vollstreckbaren Urteilstenor.
-- BGH, Urt. v. 27.11.2019 — VIII ZR 285/18, NJW 2020, 208 Rn. 97: Mietpreisbremsen-Klage: Ruege nach § 556g Abs. 2 BGB ist Tatbestandsvoraussetzung fuer das Entstehen des Rueckzahlungsanspruchs, nicht bloss Faelligkeitsvoraussetzung; Rueckzahlungsanspruch besteht erst ab Zugang der Ruege.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -87,15 +86,10 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 - Streitwert: §§ 41, 48 GKG, § 3 ZPO
 - Vollstreckbarkeit: §§ 708 ff. ZPO
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — Prozessrecht Kap. 1
-- Zoeller, ZPO, 35. Aufl. — § 29a Rn. 1 ff. Gerichtsstand Mietsachen
-- Musielak/Voit, ZPO — §§ 41 GKG Streitwert Mietsachen
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Audit-Hinweis
 
 Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt "Aktuelle Rechtsprechung" geprueft und korrigiert:
-- VIII ZR 106/20 (geloescht): Aktenzeichen existiert auf dejure.org, bezeichnet jedoch eine Leasing-/Widerrufssache (kein Mietrecht); der behauptete Raeumungsklage-Leitsatz ist falsch.
-- VIII ZR 233/20 (geloescht): Aktenzeichen existiert auf dejure.org, bezeichnet jedoch eine ZPO-Verfahrenssache (Fristberechnung Nichtzulassungsbeschwerde); der behauptete Betriebskosten-Leitsatz ist falsch. Tatsaechliche Fundstelle: NJW-RR 2022, 709, nicht NJW 2022, 918.
-- VIII ZR 309/18 (ersetzt): Aktenzeichen nicht in der dejure-Datenbank vorhanden. Ersetzt durch BGH VIII ZR 285/18 (27.11.2019, NJW 2020, 208), das die Ruege nach § 556g Abs. 2 BGB als Tatbestandsvoraussetzung des Rueckzahlungsanspruchs ausdruecklich behandelt (Rn. 97).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

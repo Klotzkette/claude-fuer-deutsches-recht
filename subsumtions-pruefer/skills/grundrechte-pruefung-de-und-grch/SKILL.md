@@ -1,6 +1,6 @@
 ---
 name: grundrechte-pruefung-de-und-grch
-description: "Prueft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhaeltnismaessigkeitspruefung mit Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit."
+description: "Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit."
 ---
 
 # Grundrechte prüfen — GG und GRCh

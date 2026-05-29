@@ -143,9 +143,9 @@ Aufgaben:
 
 ## Vergleichende Konstellationen aus der Praxis
 
-- BGH NJW 2005, 985 — Macrotron (Boersengang ohne Aktionaersinteresse): Bezugsrecht ohne sachlichen Grund nichtig
-- BGH NJW 2011, 1144 — Faktura: Sondervetorecht aus dem SHA bindet die Stimmabgabe
-- BGH NJW 2018, 1233 — Treuepflicht bei Mehrheits-Gesellschaftern
+- BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40 (Kali+Salz): Bezugsrechtsausschluss nur mit sachlicher Rechtfertigung und Verhältnismäßigkeitskontrolle
+- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck): Organentscheidungen verlangen eigenverantwortliche Prüfung und dokumentierte Abwägung
+- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361: Informationsgrundlage als Voraussetzung unternehmerischen Ermessens
 
 ## Anschluss-Skills
 

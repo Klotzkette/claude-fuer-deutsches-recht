@@ -1,23 +1,17 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
 ## Aktuelle Rechtsprechung (Familienrecht Erstgespräch)
 
-- BGH, Beschl. v. 07.09.2011 - XII ZB 12/11, NJW 2011, 3715 Rn. 18 — Im familiengerichtlichen Verfahren nach dem FamFG gilt das Amtsermittlungsprinzip; der Anwalt muss dennoch alle streitigen Tatsachen konkret vortragen, da das Gericht nicht von sich aus alle Ermittlungen anstellt.
-- BGH, Beschl. v. 10.10.2018 - XII ZB 231/18, FamRZ 2018, 1929 Rn. 12 — In Kindschaftssachen (Sorge, Umgang) hat das Kindeswohl absoluten Vorrang; der Kindeswohlbegriff des § 1666 BGB ist weit auszulegen und umfasst auch emotionale Vernachlässigung.
-- BGH, Beschl. v. 15.11.2017 - XII ZB 503/16, FamRZ 2018, 260 Rn. 16 — Der Anspruch auf Prozesskostenhilfe im Familienverfahren richtet sich nach § 76 FamFG i.V.m. § 114 ZPO; ausreichende Erfolgsaussichten müssen auf der Grundlage der vorgelegten Unterlagen beurteilt werden können.
-- BGH, Urt. v. 25.01.2012 - XII ZR 139/09, FamRZ 2012, 621 Rn. 22 — Beim nachehelichen Unterhalt trägt die unterhaltsberechtigte Partei die Beweislast für das Fortbestehen des Unterhaltsbedarfs; die unterhaltspflichtige Partei trägt die Beweislast für Erwerbs- und Einkommenssteigerungen der anderen Partei.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Wendl/Dose, Das Unterhaltsrecht in der familiengerichtlichen Praxis — Standardwerk Familienrecht
-- MuKoBGB/Maier, § 1610 Rn. 1-30 (Unterhaltsbedarf, Erstgespräch-Schätzung)
-- BeckOK FamFG/Schael, § 76 Rn. 1-25 (Prozesskostenhilfe im Familienverfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Neue Anfrage aus dem Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht (Telefon, Mail, Empfehlung, Walk-in).

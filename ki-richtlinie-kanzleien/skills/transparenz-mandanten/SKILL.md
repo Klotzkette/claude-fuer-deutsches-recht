@@ -1,6 +1,6 @@
 ---
 name: transparenz-mandanten
-description: "Transparenz gegenueber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Pruefraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklaerung. Output Musterklauseln fuer Mandatsvertrag und Datenschutzerklaerung. Abgrenzung zu Kennzeichnungspflichten-Veroeffentlichungen und zu Berufsrecht-Bausteine."
+description: "Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine."
 ---
 
 # Transparenz gegenüber Mandanten
@@ -35,10 +35,7 @@ Soweit wir KI-Dienste von Anbietern außerhalb des Europäischen Wirtschaftsraum
 Die Transparenzpflichten sind bei jedem Wechsel des KI-Anbieters und bei jeder Änderung des Drittlandtransfer-Rahmens anzupassen. Die Datenschutzerklärung der Kanzlei muss entsprechend aktualisiert und Mandanten über wesentliche Änderungen informiert werden.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik verstaendlich offenlegen — massgeblich fuer Transparenz gegenueber Mandanten.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Anwalt muss Mandant ueber wesentliche Aspekte des Arbeitsprozesses informieren — KI-Einsatz gehrt dazu.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: Art. 13/14 DSGVO-Informationspflicht umfasst auch Automatisierungsgrad der Datenverarbeitung.
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Vertrauensverhaeltnis Anwalt-Mandant erfordert Transparenz ueber eingesetzte Hilfsmittel.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 13 Abs. 1 lit. f DSGVO — Information ueber automatisierte Entscheidungsfindung bei Ersterhebung

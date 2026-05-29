@@ -1,6 +1,6 @@
 ---
 name: territorialer-anwendungsbereich-art-2
-description: "Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch fuer uns obwohl wir ausserhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Pruefraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb ausserhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begruendung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3."
+description: "Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb außerhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begründung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3."
 ---
 
 # Territorialer Anwendungsbereich — Art. 2 KI-VO
@@ -76,10 +76,7 @@ Art. 2 Abs. 3 bis 12 KI-VO enthält explizite Ausnahmen. Relevante Ausnahmen wer
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung wenn KI-Score massgebliche Grundlage fuer Drittentscheidung; Masstab fuer KI-Scoring-Systeme nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Entscheidungssysteme muss Entscheidungslogik verstaendlich offenlegen; Art. 13 KI-VO Transparenzpflicht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Informationssystemen — Organisationspflicht bei KI-Einsatz; massgeblich fuer Art. 26 KI-VO Betreiberpflichten.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-Anbieter-APIs erfordert Schutzgarantien; massgeblich fuer Art. 28 DSGVO i.V.m. KI-VO Lieferkette.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 2 Abs. 1 KI-VO — Anwendungsbereich (EU-Marktplatzierung, EU-Inbetriebnahme, Betreiber in EU)

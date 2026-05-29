@@ -4,7 +4,18 @@ Dieses Plugin analysiert deutsche Arbeitszeugnisse nach dem Ampelsystem (Rot/Ora
 
 Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder verbessern wollen, an Rechtsanwälte, die Zeugnisstreitigkeiten begleiten, und an Personalverantwortliche, die Zeugnisse professionell ausstellen oder prüfen möchten.
 
-**Hinweis:** Keine Testakte enthalten. Jede Ausgabe ist ein Analyse-Entwurf zur eigenverantwortlichen Prüfung — kein Ersatz für anwaltliche Beratung im Einzelfall.
+**Hinweis:** Im Repository liegt ergänzend die Testakte `testakten/arbeitszeugnis-analyse-bluehendes-leben/` mit zehn realistisch ausgearbeiteten Zeugnisfällen. Jede Ausgabe ist ein Analyse-Entwurf zur eigenverantwortlichen Prüfung — kein Ersatz für anwaltliche Beratung im Einzelfall.
+
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **arbeitszeugnis analyse bluehendes leben** | [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -16,7 +27,7 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 1. ZIP herunterladen (Link oben).
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Alle 31 Skills sind sofort verfügbar.
+3. Fertig. Alle 32 Skills sind sofort verfügbar.
 
 ## Ampelsystem
 
@@ -28,11 +39,11 @@ Das Ampelsystem klassifiziert jeden notenrelevanten Satz in drei Kategorien:
 | **Orange** | Schwache positive Formulierung, Note 3, oft durch fehlende Steigerungsadverbien oder Einschränkungen | Note 3 |
 | **Rot** | Kodierte Negativaussage, entspricht Note 4 oder Note 5, oft scheinbar positiv formuliert | Note 4-5 |
 
-Rote Signale entstehen durch: das Wort „bemüht", Einschränkungen wie „im Wesentlichen", fehlende Pflichtbausteine wie Integritätsaussagen, falsche Reihenfolge bei Personengruppen in der Verhaltensbeurteilung, oder eine unvollständige Schlussformel.
+Rote Signale entstehen durch: das Wort "bemüht", Einschränkungen wie "im Wesentlichen", fehlende positionsnahe Erwartungsbausteine wie Integritäts- oder Führungsverhalten, falsche Reihenfolge bei Personengruppen in der Verhaltensbeurteilung oder eine auffällig kühle Schlussformel. Bei der Schlussformel ist strikt zu trennen: starke Signalwirkung im Bewerbungsverkehr, aber kein automatischer einklagbarer Anspruch auf Dank, Bedauern und Wünsche.
 
 ## Enthaltene Skills
 
-Die 31 Skills sind alphabetisch geordnet:
+Die 32 Skills sind alphabetisch geordnet:
 
 | Skill | Funktion |
 |---|---|
@@ -57,9 +68,9 @@ Die 31 Skills sind alphabetisch geordnet:
 | `/arbeitszeugnis-analyse:notenrelevante-saetze-identifizieren` | Trennung notenrelevanter Sätze von neutralen Aufgabenbeschreibungen |
 | `/arbeitszeugnis-analyse:orange-flaggen-katalog` | Schwache positive Formulierungen, Note 3, fehlende Steigerungen |
 | `/arbeitszeugnis-analyse:rechtliche-bewertung-bag-rechtsprechung` | § 109 GewO, BAG-Rechtsprechung, Beweislast, Zeugnisklage |
-| `/arbeitszeugnis-analyse:rote-flaggen-katalog` | Klassische Warnsignale: „bemüht", „im Großen und Ganzen", Note 4-5 |
+| `/arbeitszeugnis-analyse:rote-flaggen-katalog` | Klassische Warnsignale: "bemüht", "im Großen und Ganzen", Note 4-5 |
 | `/arbeitszeugnis-analyse:satzweise-notenmatrix` | Satz-für-Satz-Notenzuweisung von eins bis fünf mit Themenbereich — Datenbasis für Drift |
-| `/arbeitszeugnis-analyse:schlussformel-bewertung` | Bedauern, Dank, Zukunftswünsche — Vollständigkeit und Formulierungsstärke |
+| `/arbeitszeugnis-analyse:schlussformel-bewertung` | Bedauern, Dank, Zukunftswünsche — Signalwirkung, Ton und rechtliche Durchsetzbarkeit getrennt |
 | `/arbeitszeugnis-analyse:steigerungsadverbien-katalog` | Vollständige Referenzliste der Steigerer mit Notenwirkung — echte, scheinbare und negative Adverbien |
 | `/arbeitszeugnis-analyse:verbesserungsvorschlaege-formulieren` | Konkrete Textvorschläge zur Aufwertung von roten und orangen Formulierungen |
 | `/arbeitszeugnis-analyse:verhaltensbeurteilung-analyse` | Verhalten zu Vorgesetzten, Kollegen, Kunden; Reihenfolge und Euphemismen |
@@ -89,7 +100,7 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 6. `satzweise-notenmatrix` — Note eins bis fünf pro Satz mit Themenzuordnung
 7. `zufriedenheitsformel-decodierung` — Kernformel decodieren
 8. `leistungsbeurteilung-analyse` + `verhaltensbeurteilung-analyse` — Detailanalyse
-9. `schlussformel-bewertung` — Schlussformel bewerten
+9. `schlussformel-bewertung` — Schlussformel als Signal und als Rechtsproblem getrennt bewerten
 10. `negationen-und-auslassungen-erkennen` — Auslassungen prüfen
 11. `negative-codeworte-katalog` — Geheimcodes für Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität prüfen
 12. `bereichs-drift-detektor` — Schaufenster-Pattern prüfen
@@ -106,8 +117,6 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 
 - **§ 109 GewO** — Zeugnisanspruch: Anspruch auf einfaches oder qualifiziertes Zeugnis, Wahrheitspflicht, Wohlwollensgebot
 - **§ 16 BBiG** — Zeugnisanspruch für Auszubildende
-- **BAG, Urt. v. 12. August 2008 – 9 AZR 632/07** — Anspruch auf wohlwollendes Zeugnis, das das berufliche Fortkommen nicht unnötig erschwert
-- **BAG, Urt. v. 18. November 2014 – 9 AZR 386/10** — Beweislastverteilung: Arbeitgeber muss schlechtere Note als „befriedigend" beweisen; Arbeitnehmer muss bessere Note als „befriedigend" beweisen
-- **BAG, Urt. v. 14. Oktober 2003 – 9 AZR 12/03** — Zeugnisberichtigung: Kein Anspruch auf bestimmte Formulierung, aber Anspruch auf wahre und wohlwollende Formulierung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eines Zeugnisberichtigungsanspruchs ist die Beauftragung eines Rechtsanwalts empfohlen.

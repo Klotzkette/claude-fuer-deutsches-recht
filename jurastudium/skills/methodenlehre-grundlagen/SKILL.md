@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-grundlagen
-description: "Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer „Methodenlehre üben\", „auslegen\", „Analogie prüfen\", „teleologische Reduktion\", „verfassungskonform auslegen\" oder „warum brauche ich Methodenlehre\" sagt."
+description: 'Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer "Methodenlehre üben", "auslegen", "Analogie prüfen", "teleologische Reduktion", "verfassungskonform auslegen" oder "warum brauche ich Methodenlehre" sagt.'
+
 ---
 
 # Methodenlehre — Grundlagen
@@ -14,7 +15,7 @@ Diese Skill übt die vier (oft fünf) Auslegungsmethoden, die Rechtsfortbildung 
 ## Eingaben
 
 - **Norm**, deren Auslegung geübt werden soll
-- **Auslegungsproblem** (z. B. ist „Sache" in § 90 BGB auch ein Tier? Greift § 823 I BGB auch bei reinen Vermögensschäden? Ist Online-Banking eine „Erklärung gegenüber Anwesenden"?)
+- **Auslegungsproblem** (z. B. ist "Sache" in § 90 BGB auch ein Tier? Greift § 823 I BGB auch bei reinen Vermögensschäden? Ist Online-Banking eine "Erklärung gegenüber Anwesenden"?)
 - Optional: **dein eigener Auslegungsvorschlag** zur Korrektur
 
 ## Die vier Auslegungsmethoden — Savigny-Kanon
@@ -49,7 +50,7 @@ Diese Skill übt die vier (oft fünf) Auslegungsmethoden, die Rechtsfortbildung 
 
 In Lehrbüchern steht oft eine starre Rangfolge (Wortlaut > Systematik > Historie > Telos). **Das ist didaktisch nützlich, aber falsch.** Der BGH und das BVerfG arbeiten **pragmatisch**: Wortlaut ist Ausgangspunkt und Grenze, aber innerhalb dieser Grenze hat keine Methode Vorrang. Welches Auslegungsergebnis am Ende trägt, entscheidet die Gesamtbetrachtung — und in der Praxis sehr oft der Telos.
 
-Für die Klausur: **alle vier Methoden anwenden**, transparent argumentieren, zu einem begründeten Ergebnis kommen. Wer nur „nach dem Wortlaut" sagt und damit abschließt, verliert Punkte.
+Für die Klausur: **alle vier Methoden anwenden**, transparent argumentieren, zu einem begründeten Ergebnis kommen. Wer nur "nach dem Wortlaut" sagt und damit abschließt, verliert Punkte.
 
 ## Rechtsfortbildung — jenseits der Wortlautgrenze
 
@@ -95,11 +96,11 @@ Wer eine Auslegung gegen den Wortlaut, eine Analogie, eine Reduktion vornimmt, *
 1. Skill stellt ein Auslegungsproblem (Norm + zweideutiger Sachverhalt).
 2. Studierender wendet **selbst** alle vier Methoden an.
 3. Skill korrigiert pro Methode einzeln:
-   - „Wortlaut: Ist der Sachverhalt vom möglichen Wortsinn erfasst — und woran machst du das fest?"
-   - „Systematik: Welche Nachbarnorm spricht dafür/dagegen — und warum?"
-   - „Historie: Was sagt die Gesetzesbegründung — und wenn du sie nicht kennst, warum?"
-   - „Telos: Welchen Zweck schützt die Norm — und welche Auslegung erreicht den Zweck besser?"
-4. Skill stellt erst dann die Frage: „Welche Methode trägt hier — und warum?"
+   - "Wortlaut: Ist der Sachverhalt vom möglichen Wortsinn erfasst — und woran machst du das fest?"
+   - "Systematik: Welche Nachbarnorm spricht dafür/dagegen — und warum?"
+   - "Historie: Was sagt die Gesetzesbegründung — und wenn du sie nicht kennst, warum?"
+   - "Telos: Welchen Zweck schützt die Norm — und welche Auslegung erreicht den Zweck besser?"
+4. Skill stellt erst dann die Frage: "Welche Methode trägt hier — und warum?"
 5. Erst zum Schluss: Ergebnis mit Argumentationslast.
 
 ## Querverweise
@@ -110,6 +111,5 @@ Wer eine Auslegung gegen den Wortlaut, eine Analogie, eine Reduktion vornimmt, *
 
 ## Was diese Skill nicht tut
 
-- Sie ersetzt nicht das Methodenlehre-Lehrbuch (Larenz/Canaris, Wank, Bydlinski, Möllers, Rüthers/Fischer/Birk). Sie übt die Anwendung.
 - Sie schreibt keine Mustergutachten zur Auslegung.
 - Sie verzichtet auf den Streit zwischen subjektiver und objektiver Auslegungstheorie als akademische Detailfrage, übt aber die praktische Anwendung beider Ansätze.

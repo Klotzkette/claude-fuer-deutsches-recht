@@ -13,13 +13,13 @@ Stand: 06. Mai 2026 (Übersandtesdatum an AG Düsseldorf zur Strafbefehlsbeantra
 
 | Bl. | Datum | Dokumentbezeichnung | Verfasser / Herkunft |
 |---|---|---|---|
-| Bl. 1–3 | 17.03.2026 | Strafanzeige der Drogerie „Beauté & Co", Immermannstraße 38, 40210 Düsseldorf, erstattet durch Filialleiterin Britta Seifert, nebst Strafantrag gem. § 248a StGB | Ladengeschäft / Polizeiprotokoll PHK'in König |
+| Bl. 1–3 | 17.03.2026 | Strafanzeige der Drogerie "Beauté & Co", Immermannstraße 38, 40210 Düsseldorf, erstattet durch Filialleiterin Britta Seifert, nebst Strafantrag gem. § 248a StGB | Ladengeschäft / Polizeiprotokoll PHK'in König |
 | Bl. 4 | 17.03.2026 | Kassenbon der Kasse Nr. 3 vom 17.03.2026, 14:48 Uhr, Betrag 12,90 EUR (bezahlte Waren) | Kopie, Drogerie |
-| Bl. 5–6 | 17.03.2026 | Warenliste der nicht bezahlten Artikel nebst Preisschildern und Barcode-Auszug aus der Warenwirtschaft; Gesamtwert 47,80 EUR | Drogerie „Beauté & Co" |
+| Bl. 5–6 | 17.03.2026 | Warenliste der nicht bezahlten Artikel nebst Preisschildern und Barcode-Auszug aus der Warenwirtschaft; Gesamtwert 47,80 EUR | Drogerie "Beauté & Co" |
 | Bl. 7–11 | 17.03.2026 | Zeugenvernehmungsprotokoll Ladendetektiv Erik Neumann, geb. 03.08.1984, Fa. ProSec GmbH, Detektionsbüro Immermannstraße, PNr. Fa. 88-1194 | PHK'in König, KK 32 |
 | Bl. 12–16 | 17.03.2026 | Lichtbilder der Videoüberwachungsanlage (Ausdrucke, Anlage A1–A9): Eingangsbereich, Regalgang Kosmetik, Kassenbereich, Ausgangsbereich; zeitlich sequenziert 14:41 – 14:52 Uhr | Drogerie, ausgewertet PHK'in König |
 | Bl. 17 | 18.03.2026 | Auswertungsvermerk zur Videoüberwachung durch PHK'in König; Beschreibung der erkennbaren Handlungen der Beschuldigten | PHK'in König, KK 32 |
-| Bl. 18–19 | 02.04.2026 | Unfallanzeige des Parkhauses „Arcaden Benrath", Bonner Straße 253, 40589 Düsseldorf; erstattet durch Schichtsprecher Herrn Rolf Wächtler | Parkhaus / PHK Breuer, KVD 6 |
+| Bl. 18–19 | 02.04.2026 | Unfallanzeige des Parkhauses "Arcaden Benrath", Bonner Straße 253, 40589 Düsseldorf; erstattet durch Schichtsprecher Herrn Rolf Wächtler | Parkhaus / PHK Breuer, KVD 6 |
 | Bl. 20–22 | 03.04.2026 | Schadensanzeige und Erklärung der Geschädigten Martina Fröhlich, geb. 12.05.1979, Bonner Straße 301, 40589 Düsseldorf; VW Golf VIII, Kz. D-MT 7712; beschädigtes Fahrzeug | PHK Breuer, KVD 6 |
 | Bl. 23–24 | 04.04.2026 | Kostenvoranschlag der Autohaus Rheinland GmbH, Düsseldorf-Benrath, für die Instandsetzung der hinteren linken Stoßstange; Betrag: 1.180,00 EUR (netto: 991,60 EUR) | Autohaus Rheinland GmbH |
 | Bl. 25 | 04.04.2026 | Lichtbilder des beschädigten Fahrzeugs (VW Golf VIII), Aufnahmen Nr. F1–F6: Stoßstangenschaden links hinten, Lackabrieb, Deformierung des Stoßfängerunterteils | PHK Breuer, KVD 6 |

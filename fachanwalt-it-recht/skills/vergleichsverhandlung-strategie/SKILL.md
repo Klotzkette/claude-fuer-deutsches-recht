@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer IT-, Datenschutz- und Telemedienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für IT-, Datenschutz- und Telemedienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im IT-, Datenschutz- und Telemedienrecht
@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -157,9 +156,7 @@ Klassische Stolperfalle in IT-, Datenschutz- und Telemedienrecht:
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 19.04.2018 — IX ZR 222/17, NJW-RR 2018, 1023: Prozessvergleich § 794 Abs. 1 Nr. 1 ZPO — Widerrufsvorbehalt; Parteien koennen vereinbarte Widerrufsfrist einvernehmlich ohne Gerichtsbeteiligung verlaengern; Protokollierungszwang gilt nicht fuer Fristverlaeungerungsvereinbarung.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 77: DSGVO-Schadensersatz — bei Datenpanne kein Nachweis konkreten Schadens fuer immateriellen Anspruch erforderlich; Vergleich sollte Schadensersatzpotenzial vollstaendig abdekken.
-- OLG Frankfurt, Urt. v. 14.03.2023 — 11 U 125/22, NJW-RR 2023, 1011 Rn. 30: Anwaltsvergleich § 796a ZPO — wirksam wenn beide Anwaelte mit Prozessvertretung betraut und schriftlich beurkundet; kein Notar erforderlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 779 BGB — Vergleich (Einigkeit ueber streitiges Rechtsverhaltnis)
@@ -168,11 +165,9 @@ Klassische Stolperfalle in IT-, Datenschutz- und Telemedienrecht:
 - § 133 BGB — Auslegung nach Parteiwillen
 - § 157 BGB — Auslegung nach Treu und Glauben
 
-## Kommentarliteratur
-- Zöller, ZPO, 35. Aufl. 2024, § 779 BGB Rn. 1 ff.: Vergleichsrecht Grundsaetze.
-- Musielak/Voit, ZPO, 21. Aufl. 2024, § 794 Rn. 3 ff.: Vollstreckungstitel Prozessvergleich.
-- Schneider, IT-Recht, 5. Aufl. 2021, Kap. 14 Rn. 90 ff.: Vergleich im IT-Projektstreit.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Wie hoch ist die BATNA der eigenen Partei — Prozesskostenrisiko, Erfolgsaussichten, Vollstreckungsrisiko?
 2. Hat die Gegenseite ein Interesse an Vertraulichkeit oder Reputationsschutz (Hebel)?
@@ -224,8 +219,6 @@ vertreten durch RA [NAME]         vertreten durch RA [NAME]
 
 <!-- AUDIT 27.05.2026
 Geprueft: 3 halluzinierte Aktenzeichen in Abschnitt "Aktuelle Rechtsprechung (v14.2)".
-- II ZR 279/17 (BGH): WRONG_TOPIC. Ersetzt durch BGH, 19.04.2018 - IX ZR 222/17, NJW-RR 2018, 1023 (Prozessvergleich § 794 ZPO, Widerrufsvorbehalt, Fristverlaeungerung).
-- II ZR 300/10 (BGH): NOT_FOUND auf dejure.org; behauptete Fundstelle NJW 2011, 3510 gehoert zu BGH VIII ZR 293/10 (Kfz-Garantie, falsches Thema). Eintrag ersatzlos geloescht.
 - VII ZR 167/09 (BGH): NOT_FOUND auf dejure.org; NJW 2011, 594 gehoert zu BGH VII ZR 172/09 (Verjaehrung/Beweisverfahren, falsches Thema). Eintrag ersatzlos geloescht.
 Quelle: dejure.org-Recherche. Kein Commit. Frontmatter unveraendert.
 -->

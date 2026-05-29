@@ -75,11 +75,11 @@ Das Arbeitsgericht Berlin ist sachlich und örtlich zuständig (§§ 2 Abs. 1 Nr
 
 2. Hauptantrag: Schriftformverstoß § 14 Abs. 4 TzBfG
 
-§ 14 Abs. 4 TzBfG verlangt für die Wirksamkeit der Befristungsabrede zwingend Schriftform nach § 126 BGB; die elektronische Form ist ausgeschlossen.
+§ 14 Abs. 4 TzBfG verlangt für die Wirksamkeit der Befristungsabrede Schriftform. Bei digitaler Abwicklung müsste die elektronische Form nach § 126a BGB durch qualifizierte elektronische Signatur gewahrt sein.
 
 § 126 Abs. 2 BGB erfordert, dass jede Partei die für die andere Partei bestimmte körperliche Urkunde eigenhändig unterzeichnet. Im vorliegenden Fall hat die Beklagte der Klägerin zu keiner Zeit ein körperliches Schriftstück mit eigenhändiger Unterschrift ausgehändigt. Das per E-Mail versandte PDF ist keine Urkunde i.S.d. § 126 BGB.
 
-Auch der Rückversand des Scan-PDFs durch die Klägerin heilt den Mangel nicht: Ein Scan einer Unterschrift ist keine eigenhändige Namensunterschrift; das elektronisch übermittelte Dokument entspricht nicht § 126a BGB und unterliegt dem Ausschluss des § 14 Abs. 4 TzBfG.
+Auch der Rückversand des Scan-PDFs durch die Klägerin heilt den Mangel nicht: Ein Scan einer Unterschrift ist keine eigenhändige Namensunterschrift; das elektronisch übermittelte Dokument entspricht mangels qualifizierter elektronischer Signatur nicht § 126a BGB.
 
 Rechtsfolge: § 16 Satz 1 TzBfG -- der Arbeitsvertrag gilt als auf unbestimmte Zeit geschlossen. Das Arbeitsverhältnis besteht fort.
 
@@ -91,7 +91,7 @@ Nach dem Grundsatzbeschluss des Großen Senats des BAG vom 27.02.1985 (GS 1/84) 
 
 4. Hilfsantrag: Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG
 
-Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG ist grundsätzlich erfüllt. Für eine verfassungskonforme Einschränkung nach BVerfG 2018 (1 BvL 7/14) ist ein Abstand von mindestens ca. 3 Jahren erforderlich; der vorliegende Abstand von 2 Jahren und 5 Monaten liegt darunter. Zudem unterscheiden sich Tätigkeiten und Standorte. Das Hilfsargument wird der Vollständigkeit halber geltend gemacht.
+Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG ist grundsätzlich erfüllt. Nach BVerfG 2018 (1 BvL 7/14) gibt es keine starre Drei-Jahres-Grenze; Ausnahmen kommen insbesondere bei sehr lange zurückliegender, ganz anders gearteter oder sehr kurzer Vorbeschäftigung in Betracht. Der vorliegende Abstand von 2 Jahren und 5 Monaten ist nicht sehr lang; zugleich unterscheiden sich Tätigkeit, Standort und Vertragsumfang. Das Hilfsargument wird der Vollständigkeit halber geltend gemacht.
 
 V. Streitwert
 

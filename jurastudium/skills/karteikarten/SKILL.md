@@ -1,13 +1,13 @@
 ---
 name: karteikarten
-description: "Karteikarten fuer Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Loesungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht oeffentliches Recht. Pruefraster Karteikarten-Format Vorderseite Begriff/Norm Rueckseite Definition/Schema, Schwierigkeitsgrad einordnen, pruefungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert fuer Spaced-Repetition. Abgrenzung zu Lernplan fuer Zeitmanagement und zu Tatbestaende-Lernen."
+description: "Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen."
 ---
 
 # Karteikarten-Drill
 
 ## Zweck
 
-Definitionen, Tatbestandsmerkmale und Normstrukturen für das Staatsexamen müssen exakt und abrufbar sein — nicht „ungefähr bekannt". Diese Skill erzeugt Karteikarten aus eigenen Materialien (Skripten, Lernblättern, Definitionen-Sammlungen) oder aus eigenen Notizen, übt sie im Leitner-System und zeigt, welche Wissenslücken bestehen.
+Definitionen, Tatbestandsmerkmale und Normstrukturen für das Staatsexamen müssen exakt und abrufbar sein — nicht "ungefähr bekannt". Diese Skill erzeugt Karteikarten aus eigenen Materialien (Skripten, Lernblättern, Definitionen-Sammlungen) oder aus eigenen Notizen, übt sie im Leitner-System und zeigt, welche Wissenslücken bestehen.
 
 Nicht diese Skill: Anki selbst ersetzen. Wer Anki bereits nutzt, sollte es behalten. Diese Skill ist für den Direkteinstieg im Chat — ohne Programmwechsel.
 
@@ -15,37 +15,27 @@ Modi: `--erstellen` | `--üben` (Standard) | `--durchsehen` | `--statistik` | `-
 
 ## Eingaben
 
-- **Rechtsgebiet oder Thema** (z. B. „BGB AT Willenserklärung", „§ 242 StGB", „Allgemeines Verwaltungsrecht Ermessen")
+- **Rechtsgebiet oder Thema** (z. B. "BGB AT Willenserklärung", "§ 242 StGB", "Allgemeines Verwaltungsrecht Ermessen")
 - **Quelle** (Skript, Lernblatt, eigene Notizen — optional, aber für genaue Karten erforderlich)
 - **Kartenanzahl** (Standard: 10–20 pro Einheit)
 - **Prüfungsziel** (Erstes Staatsexamen, Zweites Staatsexamen, Klausur, Hausarbeit)
 
 ## Rechtlicher Rahmen
 
-Die Karteikarten folgen der kanonischen Definitionsliteratur des deutschen Rechts. Definitionen ohne zuverlässige Quellenangabe werden mit `[PRÜFEN]` markiert.
+Karteikarten aus bereitgestellten Materialien sind vorrangig. Definitionen oder Streitstände ohne zuverlässige Quelle werden mit `[PRÜFEN]` markiert.
 
-**Maßgebliche Literatur und Rechtsprechung:**
+**Quellenregel und Rechtsprechung:**
 
-- Larenz/Wolf, BGB Allgemeiner Teil, 9. Aufl. 2004 — Grundlagendefinitionen BGB AT
-- Medicus/Lorenz, Schuldrecht I Allgemeiner Teil, 22. Aufl. 2021 — Schuldrecht
-- Roxin/Greco, Strafrecht Allgemeiner Teil, Bd. I, 5. Aufl. 2020 — StGB AT
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020 — VerwR
-- Brox/Walker, Allgemeines Schuldrecht, 46. Aufl. 2022
-- Wessels/Beulke/Satzger, Strafrecht AT, 53. Aufl. 2023
-- Grüneberg, BGB, 84. Aufl. 2025 (vormals Palandt) — maßgeblich für Kurzformeln
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Leitentscheidungen (Beispiele für Kartenkontexte):**
 
-- BGH, Urt. v. 07.06.1984 – IX ZR 66/83, BGHZ 91, 324 — Schweigen als Willenserklärung
-- BGH, Urt. v. 08.03.2005 – XI ZR 170/04, NJW 2005, 1579 Rn. 14 — Anfechtung § 119 BGB
-- BGH, Urt. v. 26.11.2015 – I ZR 174/14, NJW 2016, 1575 — Bestimmtheitsgrundsatz
-- BGH BGHZ 213, 374 Rn. 26 ff. — Vorsatz und dolus eventualis im Zivilrecht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentare:**
+**Quellenregel:**
 
-- Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, § 119 Rn. 4
-- Armbrüster, in: MüKoBGB, 9. Aufl. 2021, § 123 Rn. 12
-- Wendtland, in: BeckOK BGB, 70. Ed. (Stand 01.08.2024), § 133 Rn. 5
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -75,7 +65,7 @@ Die Karteikarten folgen der kanonischen Definitionsliteratur des deutschen Recht
 
 **Kartenregeln:**
 1. Ein Begriff, ein Tatbestandsmerkmal = eine Karte. Nie mehrere Definitionen auf einer Karte.
-2. Die Forderseite stellt eine Frage, kein Stichwort. Nicht „Vorsatz" — sondern „Was ist Vorsatz im Sinne des § 15 StGB?"
+2. Die Forderseite stellt eine Frage, kein Stichwort. Nicht "Vorsatz" — sondern "Was ist Vorsatz im Sinne des § 15 StGB?"
 3. Die Rückseite enthält die Definition in Examensqualität — so wie sie in der Klausur gefordert wird.
 4. Paragraphenangabe immer mit §-Zeichen: `§ 242 StGB`, `§ 812 Abs. 1 S. 1 Alt. 1 BGB`.
 5. Karten aus eigenen Quellen sind zuverlässig. Karten aus meinem Wissen ohne Quelle erhalten `[PRÜFEN: Definition bestätigen]`.
@@ -87,7 +77,6 @@ F: Was ist Beleidigung im Sinne des § 185 StGB?
 A: Beleidigung ist die Kundgabe der Miss- oder Nichtachtung gegenüber einer bestimmten Person
    durch Erklärung oder tätliches Verhalten.
 Norm: § 185 StGB
-Quelle: Wessels/Hettinger/Engländer, Strafrecht BT 1, 46. Aufl. 2023, Rn. 401
 ```
 
 ### Schritt 3: Drill-Modus (`--üben`)
@@ -99,7 +88,7 @@ Quelle: Wessels/Hettinger/Engländer, Strafrecht BT 1, 46. Aufl. 2023, Rn. 401
 
 **Drill-Ablauf je Karte:**
 1. Frage zeigen. Auf Antwort warten.
-2. Nutzer antwortet (oder: „weiß nicht" / „überspringen")
+2. Nutzer antwortet (oder: "weiß nicht" / "überspringen")
 3. Antwort und Norm zeigen
 4. Selbsteinschätzung: `gewusst` / `teilweise` / `nicht gewusst` / `weiß nicht`
 5. Bucket und Wiederholungstermin aktualisieren:
@@ -135,16 +124,16 @@ sitzungs_verlauf:
 
 > F: Wann liegt eine Willenserklärung vor?
 > A: Eine Willenserklärung ist eine private Willensäußerung, die unmittelbar auf die Herbeiführung einer Rechtsfolge gerichtet ist (Handlungswille, Erklärungsbewusstsein [str.], Geschäftswille).
-> Norm: §§ 116 ff. BGB; Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, Vor § 116 Rn. 1.
+> Norm: §§ 116 ff. BGB; Ellenberger, in: lizenzpflichtige Literaturquelle, BGB, 84. Aufl. 2025, Vor § 116 Rn. 1.
 
 > F: Was ist der Unterschied zwischen Anfechtung nach § 119 und § 123 BGB?
-> A: § 119 BGB: Irrtum über Inhalt oder Erklärungsinhalt (ohne Verschulden des Anfechtungsgegners); § 123 BGB: arglistige Täuschung oder widerrechtliche Drohung (Verschulden des Täuschenden erforderlich). Ausschlussfrist: § 119 „unverzüglich", § 123 Abs. 1 i.V.m. § 124 BGB ein Jahr.
+> A: § 119 BGB: Irrtum über Inhalt oder Erklärungsinhalt (ohne Verschulden des Anfechtungsgegners); § 123 BGB: arglistige Täuschung oder widerrechtliche Drohung (Verschulden des Täuschenden erforderlich). Ausschlussfrist: § 119 "unverzüglich", § 123 Abs. 1 i.V.m. § 124 BGB ein Jahr.
 > Norm: §§ 119, 123, 124 BGB.
 
 ## Risiken und typische Fehler
 
 - **Ungenaue Definitionen lernen**: Eine Karte mit einer im Wesentlichen richtigen, aber examensuntauglichen Definition ist schlimmer als keine Karte. Definitionen aus Skripten sind oft schärfer als solche aus meinem Wissen — Skripte bevorzugen.
-- **Zu viel auf eine Karte**: Tatbestandsmerkmale sind einzeln zu üben, nicht als Block. Wer „Betrug § 263 StGB: alle Merkmale" auf eine Karte schreibt, hat sechs Karten in eine gepresst.
+- **Zu viel auf eine Karte**: Tatbestandsmerkmale sind einzeln zu üben, nicht als Block. Wer "Betrug § 263 StGB: alle Merkmale" auf eine Karte schreibt, hat sechs Karten in eine gepresst.
 - **Karte als Lernersatz**: Karteikarten sind Abruftraining für bereits Verstandenes. Eine Karte, die regelmäßig falsch beantwortet wird, zeigt ein Verständnisproblem — dann ist mündliches Durcharbeiten mit `pruefungsgespraech-ag` angezeigt.
 - **Wiederholungstermine ignorieren**: Das Leitner-System funktioniert nur, wenn die Abstände eingehalten werden. Ausgefallene Tage akkumulieren Rückstand.
 - **Keine Normangabe**: Jede Karte muss die einschlägige Norm nennen. Definitionen ohne Norm sind im Examen wertlos.
@@ -156,6 +145,6 @@ Jede Karte, die aus eigenen Unterlagen generiert wurde, trägt die Quellangabe d
 **Kanonische Definitionen-Quellen:**
 - Skripten: Alpmann Schmidt, Hemmer/Wüst, Jura Intensiv, Kaiser-Skripten
 - Lehrbücher: s. Rechtlicher Rahmen
-- Kommentare: Grüneberg (vormals Palandt), MüKoBGB, BeckOK BGB
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

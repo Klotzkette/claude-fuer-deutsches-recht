@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-wirtschaftsverkehr
-description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Pruefraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Pruefung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
+description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
 # Wirtschaftsverkehr — Liefer- und Ladezonen, Logistikrecht
@@ -28,16 +28,11 @@ description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestal
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 25.04.2018 - 3 C 25.16, NJW 2018, 2900 — Lieferzeitfenster in Fussgaengerzone: Gemeinde darf Lieferverkehr auf bestimmte Uhrzeiten beschraenken, muss aber ausreichende Zeitfenster gewaeseinen (konkret: 4 Stunden taegliche Lieferzeit ausreichend).
-- OVG Berlin-Brandenburg, Beschl. v. 02.07.2020 - OVG 1 S 48.20 — Ausnahmegenehmigung nach § 46 StVO fuer Schwerlasttransport: Behoerde kann Nebenbedingungen (Fahrtweg, Uhrzeiten) anordnen; kein Anspruch auf uneingeschraenkte Nutzung.
-- VG Koeln, Urt. v. 14.03.2019 - 18 K 6123/17 — Gewerbetreibender hat keinen Anspruch auf Einrichtung einer Haltezone direkt vor seinem Betrieb; Gemeingebrauch der Strasse geht vor Sonderinteresse.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hentschel/Koenig/Dauer, Strassenverkehrsrecht, 47. Aufl. 2023, § 12 StVO Rn. 1-80 (Halteverbot, Lieferzonen)
-- Hentschel/Koenig/Dauer, a.a.O., § 46 StVO Rn. 1-50 (Ausnahmegenehmigungen)
-- Kodal, Strassenrecht, 7. Aufl. 2010, Kap. 25 Rn. 1-60 (Sondernutzung Strasse)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Bedarf analysieren:** Welche Betriebe brauchen Lieferflaeche, welche Frequenz, welche Fahrzeugklassen?

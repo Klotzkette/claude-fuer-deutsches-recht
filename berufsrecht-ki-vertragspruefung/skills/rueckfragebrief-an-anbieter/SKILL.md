@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-an-anbieter
-description: "Erstelle einen strukturierten Rueckfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. Klare praezise Fragen die der Anbieter beantworten kann."
+description: "Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. Klare praezise Fragen die der Anbieter beantworten kann."
 ---
 
 # Rückfragebrief an Anbieter
@@ -95,10 +95,7 @@ Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrech
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: Vertragsklauseln, die den Anbieter nicht eindeutig an berufsrechtliche Anforderungen binden, sind im Zweifel eng auszulegen — daher müssen Klauseln im Vertragstext stehen, nicht nur in FAQs oder Trust-Center-Versprechen.
-- BGH, Urt. v. 19.03.2019 — XI ZR 9/18, NJW 2019, 2080 Rn. 45: Textformklausel nach § 126b BGB; schriftliche Rückfrageantworten des Anbieters erfüllen Textform und können als vertragliche Zusicherungen gewertet werden.
-- OLG Köln, Urt. v. 14.01.2020 — 19 U 93/19, NJW-RR 2020, 678 Rn. 22: Zur Haftung für unrichtige vorvertragliche Angaben; Anbieterauskünfte im Rückfrageverfahren können vorvertragliche Aufklärungspflichten nach §§ 241 Abs. 2, 311 Abs. 2 BGB begründen.
-- BGH, Urt. v. 08.10.2020 — III ZR 1/20, NJW 2021, 156 Rn. 38: Zum Vorrang verhandelter Individualklauseln (§ 305b BGB) gegenüber AGB; Rückfrageantworten können zu Individualvereinbarungen werden, wenn sie konkret und für den Vertrag bindend sind.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -107,11 +104,9 @@ Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrech
 - § 126b BGB — Textform
 - § 43e Abs. 3 BRAO, § 62a Abs. 3 StBerG etc. — Vertragsinhalt der Dienstleisterregelung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg/Grüneberg BGB, 83. Aufl. 2024, § 305b Rn. 1–15: Zum Vorrang von Individualabreden; wie Rückfrageantworten Vertragsbestandteil werden.
-- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 30–45: Pflichtinhalte des Dienstleistervertrags; was schriftlich (Textform) festgehalten werden muss.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Lücken hat die bisherige Vertragsprüfung ergeben (Ampel: gelb/rot)?

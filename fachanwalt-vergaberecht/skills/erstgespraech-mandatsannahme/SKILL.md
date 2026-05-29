@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Vergaberecht (Oberschwellen- und Unterschwellenvergabe): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
@@ -170,10 +170,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Leitsaetze Erstgespräch und Fristen
 
-- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 Rn. 38 — Ruegeobliegenheit § 160 Abs. 3 GWB: Bieter muss Ruege unverzueglich nach Kenntnis erheben; Zuwarten von mehr als 10 Tagen ohne triftigen Grund fuehrt zur Praeklusion.
-- OLG Karlsruhe, Beschl. v. 07.04.2022 - 15 Verg 3/22, NZBau 2022, 445 — Ruegebeginn setzt positive Kenntnis des Bieters voraus; Wissenszurechnung drueck Praxis-Erfahrung reicht nicht aus.
-- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Nachpruefungsantrag nach § 160 GWB erfordert Ruege als Zulaessigkeitsvoraussetzung; fehlende Ruege fuehrt zu Verwerfung ohne Sachentscheidung.
-- BGH, Beschl. v. 30.08.2011 - X ZB 1/11, NZBau 2011, 752 Rn. 24 — Streitwert im Vergabenachpruefungsverfahren: 5 % der Auftragssumme als Untergrenze bei unklarer Auftragssumme.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Vergaberecht Erstmandat
 - §§ 97-109 GWB — Grundsaetze des Vergaberechts (Wettbewerb, Transparenz, Gleichbehandlung)

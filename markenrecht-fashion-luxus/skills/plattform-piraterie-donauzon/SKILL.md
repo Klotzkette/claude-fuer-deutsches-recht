@@ -1,13 +1,13 @@
 ---
 name: plattform-piraterie-donauzon
-description: "Online-Markenverletzungen auf Plattformen unterbinden: Notice-and-Action nach DSA und Sperrverfuegungen gegen Marketplace-Betreiber. Normen: DSA VO (EU) 2022/2065 Art. 16 (Notice-and-Action), § 14 MarkenG, EuGH C-324/09 L'Oreal/eBay, BGH I ZR 140/14 (Hostprovider-Haftung). Pruefraster: VLOP-Status, Notice-Anforderungen DSA, Sperrverfuegungs-Antrag VG/ZPO. Output DSA-konforme Meldung, Sperrverfuegungs-Antrag, Take-Down-Protokoll. Abgrenzung: Messe-Verletzung siehe messe-verletzung-und-gv-einsatz; Zoll-Grenzbeschlagnahme siehe produktpiraterie-und-zoll."
+description: "Workflow-Skill zu plattform piraterie donauzon. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Plattform-Piraterie und Notice-and-Action nach DSA
 
 Donauzon Marketplace GmbH ist das digitale Schaulaufen der Counterfeiting-Szene: Drittanbieter auf Donauzon verkaufen täglich Dutzende gefälschte klôtzzkètté-Produkte. Die Plattform wächst, die Fälschungen häufen sich, und die Comtesse Beatrice de Klotzzkettie ist zu Recht besorgt.
 
-Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutlich schärfere Instrumente. Donauzon ist als „Mittler" nach Art. 2 lit. f DSA und als „Online-Plattform" nach Art. 2 lit. h DSA in der Pflicht.
+Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutlich schärfere Instrumente. Donauzon ist als "Mittler" nach Art. 2 lit. f DSA und als "Online-Plattform" nach Art. 2 lit. h DSA in der Pflicht.
 
 ## Rechtsrahmen
 
@@ -18,9 +18,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
   - Art. 45 DSA: Zuständigkeit Koordinator für digitale Dienste
 - **Art. 14/15 E-Commerce-Richtlinie (RL 2000/31/EG):** Noch anwendbar für Haftungsprivileg (Hosting); wird durch DSA nicht vollständig ersetzt (DSA schafft kein neues Haftungsrecht, sondern Verfahrenspflichten)
 - **§§ 7-10 DDG (Digitale-Dienste-Gesetz, abgeloest § 10 TMG zum 14.5.2024):** Haftungsprivileg Hosting-Provider (Umsetzung E-Commerce-RL)
-- **BGH I ZR 140/14 (mySpace):** Prüfpflichten von Online-Plattformen nach Kenntnis einer Verletzung; keine allgemeine Überwachungspflicht, aber konkrete Prüfpflicht nach Hinweis
-- **BGH I ZR 171/10 (Alone in the Dark):** Haftung Online-Speicher
-- **EuGH C-324/09 (L'Oréal/eBay):** Online-Plattform-Haftung für Markenverletzungen durch Drittanbieter; aktive Rolle begründet eigene Haftung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 14 II/V MarkenG:** Verletzungsanspruch auch gegen mittelbare Verletzer
 - **§ 1004 BGB analog / § 14 V MarkenG:** Sperrverfügung als Hauptanspruch
 
@@ -29,7 +27,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 ### Schritt 1: Monitoring und Beweissicherung
 
 1. **Überwachung Donauzon:**
-   - Regelmäßige Suchanfragen nach „klôtzzkètté", „klotzzkette", „K°°" etc.
+   - Regelmäßige Suchanfragen nach "klôtzzkètté", "klotzzkette", "K°°" etc.
    - Screenshot mit URL, Datum, Anbieter-ID, Preis (Beweis)
    - Testkauf-Dokumentation: Kaufbeleg, Lieferdaten, Warenprüfung
 
@@ -46,7 +44,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
    - Bei Trusted-Flagger-Status (klôtzzkètté als etablierte IP-Inhaberin): beschleunigte Bearbeitung
 
 4. **Reaktionsfrist Donauzon:**
-   - „Unverzüglich" bei offensichtlich illegalen Inhalten (DSA Art. 16 VI)
+   - "Unverzüglich" bei offensichtlich illegalen Inhalten (DSA Art. 16 VI)
    - 7 Werktage bei nicht-offensichtlichen Fällen
    - Bestätigung des Eingangs und der Entscheidung (Art. 17 DSA: Begründungspflicht bei Abweichung von Meldung)
 
@@ -64,7 +62,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 
 7. **Proaktive Prüfpflichten:**
    - Nach BGH mySpace: Einmalige konsequente Kontrolle nach Hinweis; Filter für bekannte Verletzungszeichen
-   - Antrag: Donauzon soll „klotzzkette" und „klôtzzkètté" aus Produkttiteln herausfiltern und zugehörige Anbieter verifizieren
+   - Antrag: Donauzon soll "klotzzkette" und "klôtzzkètté" aus Produkttiteln herausfiltern und zugehörige Anbieter verifizieren
 
 ## Falltypische Konstellationen
 
@@ -72,19 +70,16 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 Drei Donauzon-Händler (CN/HK-Adressen) verkaufen täglich je 20-50 gefälschte klôtzzkètté-Handtaschen. DSA-Notice: Alle drei URLs gemeldet. Donauzon reagiert nach 10 Tagen nicht. Eilantrag LG Hamburg: Sperrverfügung gegen die drei Angebote + Beauskunftung der Händlerdaten nach § 19 MarkenG.
 
 ### Konstellation 2: Donauzon empfiehlt gefälschte Produkte durch Algorithmus
-Donauzon-Empfehlungs-Algorithmus schiebt Fälschungen bei der Suche „klôtzzkètté günstig" nach oben. DSA Art. 27 (Recommender System Transparenz): Klage auf Unterlassung der algorithmischen Bevorzugung.
+Donauzon-Empfehlungs-Algorithmus schiebt Fälschungen bei der Suche "klôtzzkètté günstig" nach oben. DSA Art. 27 (Recommender System Transparenz): Klage auf Unterlassung der algorithmischen Bevorzugung.
 
-### Konstellation 3: Anbieter „Style4All GmbH" nutzt Marke als Keyword
-Donauzon-Händler „Style4All GmbH" (Duisburg) verkauft Eigenware und bewirbt diese mit Keyword „klôtzzkètté" in der Produktbeschreibung ohne Markenverletzung bei der Ware selbst. Abmahnung an Style4All direkt; DSA-Notice gegen das Keyword in der Produktbeschreibung.
+### Konstellation 3: Anbieter "Style4All GmbH" nutzt Marke als Keyword
+Donauzon-Händler "Style4All GmbH" (Duisburg) verkauft Eigenware und bewirbt diese mit Keyword "klôtzzkètté" in der Produktbeschreibung ohne Markenverletzung bei der Ware selbst. Abmahnung an Style4All direkt; DSA-Notice gegen das Keyword in der Produktbeschreibung.
 
 ## Belege & Kommentare
 
 - VO (EU) 2022/2065 (Digital Services Act), ABl. L 277 v. 27.10.2022
-- BeckOK InfoMedienR, DSA Art. 16/17 Rn. 1 ff. (Notice-and-Action, Stand 2024)
-- BGH, Urt. v. 25.10.2011 — VI ZR 93/10 (Hostprovider-Haftung)
-- BGH, Urt. v. 12.07.2012 — I ZR 18/11 (Alone in the Dark II) — Online-Speicher
-- BGH, Urt. v. 15.08.2013 — I ZR 80/12 (File-Hosting-Dienst) — Prüfpflichten
-- EuGH, Urt. v. 12.07.2011 — C-324/09 (L'Oréal/eBay) — Aktivrolle Plattform
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -134,8 +129,8 @@ Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 22.06.2021 — C-682/18 (YouTube / Frank Peterson):** Eine Videoplattform ist nicht allein deswegen für Urheberrechtsverletzungen ihrer Nutzer verantwortlich, weil sie die Moeglichkeit dazu schafft; Haftung setzt voraus, dass die Plattform keine wirksamen Massnahmen ergreift, wenn sie von der Verletzung weiss (aktive Kenntnis oder Notice-and-Stay-Down-Pflicht).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 17.08.2011 — I ZR 57/09 (Stiftparfuem):** Ein Online-Marktplatz ist als Stoerer fuer Markenrechtsverletzungen durch Drittanbieter haftbar, wenn er nach Hinweis auf eine klare Verletzung keine wirksamen Massnahmen ergreift, um Wiederholungen zu verhindern (Stay-Down-Pflicht).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DSA (EU) 2022/2065, Art. 16/17/45:** Sehr grosse Online-Plattformen muessen wirksame Notice-and-Action-Verfahren einrichten, innerhalb angemessener Frist auf qualifizierte Notices reagieren und dem Melder den Bearbeitungsstatus mitteilen; Nichteinhaltung kann zu Bussgeldern bis zu 6 % des globalen Jahresumsatzes fuehren.

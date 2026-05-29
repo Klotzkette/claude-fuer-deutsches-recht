@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-vorbereitung-strafverteidigung
-description: "Plaedoyer fuer Strafverteidigung vorbereiten und strukturieren: Anwendungsfall nach Abschluss der Beweisaufnahme muss Strafverteidiger Schlusspledoyer mit Schuldfrage Strafzumessung und Verfahrenshindernissen vorbereiten. § 258 StPO Schlusspledoyer, § 46 StGB Strafzumessung, § 261 StPO freie Beweiswuerdigung. Pruefraster Schuldfrage anhand Beweisaufnahme, Beweiswuerdigungs-Angriff, Strafzumessung Milderungsgruende, Verfahrenshindernisse. Output Plaedoyer-Gliederung mit Kernargumentation und Antragsformulierungen. Abgrenzung zu Hauptverhandlung-Vorbereiten fuer Gesamtvorbereitung und zu Schriftsatzkern."
+description: "Plaedoyer für Strafverteidigung vorbereiten und strukturieren: Anwendungsfall nach Abschluss der Beweisaufnahme muss Strafverteidiger Schlusspledoyer mit Schuldfrage Strafzumessung und Verfahrenshindernissen vorbereiten. § 258 StPO Schlusspledoyer, § 46 StGB Strafzumessung, § 261 StPO freie Beweiswürdigung. Prüfraster Schuldfrage anhand Beweisaufnahme, Beweiswürdigungs-Angriff, Strafzumessung Milderungsgründe, Verfahrenshindernisse. Output Plaedoyer-Gliederung mit Kernargumentation und Antragsformulierungen. Abgrenzung zu Hauptverhandlung-Vorbereiten für Gesamtvorbereitung und zu Schriftsatzkern."
 ---
 
 # Plädoyer-Vorbereitung Strafverteidigung
@@ -54,12 +54,7 @@ Das Plädoyer ist der letzte große Auftritt der Verteidigung in der Hauptverhan
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH 2 StR 334/18 | BGH, 17.04.2019 | Strafzumessung: Geständnis muss auf Reue und Einsicht beruhen; formales Geständnis ohne innere Überzeugung wirkt weniger strafmildernd |
-| BGH 4 StR 488/19 | BGH, 27.02.2020 | § 21 StGB: Verminderung der Schuldfähigkeit setzt nicht voraus, dass alle Eingangsmerkmale vollständig erfüllt sind; erhebliche Einschränkung genügt |
-| BGH 1 StR 372/20 | BGH, 18.11.2020 | Verwertungsverbot bei rechtswidriger Wohnungsdurchsuchung: Abwägung zwischen Beweissicherungsinteresse und Rechtsstaatsprinzip; Sachdienlichkeit im Einzelfall |
-| BGH 2 StR 209/20 | BGH, 10.03.2021 | Doppelverwertungsverbot § 46 StGB: Tatbestandsmerkmal darf nicht gleichzeitig als Strafschärfungsgrund herangezogen werden |
-| BGH 5 StR 547/21 | BGH, 23.02.2022 | § 56 StGB Bewährung: Sozialprognose muss positiv sein; längere Straffreiheit vor der Tat ist wesentlicher Indikator |
-| BGH 3 StR 412/14 | BGH, 19.03.2015 | Revisionsbegründung § 344 StPO: Verfahrensrüge muss vollständig und aus sich heraus verständlich sein |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -110,7 +105,7 @@ Hauptverhandlung am [Datum]
 
 I. ERÖFFNUNG
    Zusammenfassung des Sachverhalts aus Verteidigersicht.
-   „Was ist in dieser Sache tatsächlich passiert?"
+   "Was ist in dieser Sache tatsächlich passiert?"
 
 II. BEWEISWÜRDIGUNG – TATSÄCHLICHES
    A. Zeugenaussagen
@@ -136,7 +131,7 @@ III. RECHTLICHE WÜRDIGUNG
 IV. STRAFZUMESSUNG (hilfsweise)
    Strafrahmen: § [X] StGB: [Mindeststrafe] bis [Höchststrafe].
    Strafmilderung:
-   - Geständnis (BGH 2 StR 334/18: ehrliches Geständnis mit Reue)
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - Erstmals straffällig
    - Schadenswiedergutmachung: [Betrag EUR] bereits geleistet
    - Familie: [X] Kinder, Alleinverdiener
@@ -191,7 +186,7 @@ Empfehlung für Inhalt des letzten Wortes:
 
 2. Sachverhaltshinweise:
    Nur wenn Plädoyer und letztes Wort koordiniert:
-   „Ich möchte noch einmal betonen, dass ich nie die Absicht
+   "Ich möchte noch einmal betonen, dass ich nie die Absicht
    hatte, [Person X] zu schädigen."
 
 3. Persönliche Situation:
@@ -240,11 +235,10 @@ Timing: Kurz (1–3 Minuten). Wirkung: Menschlichkeit zeigen.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Geständnis wurde freiwillig abgelegt" | § 136a StPO prüfen; Geständnis nach langer Vernehmung ohne Pause, unter psychischem Druck oder nach falscher Versprechung kann Verwertungsverbot begründen |
-| „Zeuge ist glaubwürdig, kein Grund zur Zweifel" | Methodische Glaubwürdigkeitsprüfung: Konstanz (Aussage-Polizei vs. HV), Detailreichtum, Eigeninteresse; BGH-Maßstäbe (BGH NStZ 2007, 112) |
-| „§ 21 StGB greift nicht ohne psychiatrisches Gutachten" | BGH 4 StR 488/19: Gericht darf eigene Erkenntnisse einbeziehen; Gutachten nicht zwingend bei klarem Sachverhalt; bei Zweifeln ist Gutachten beantragt worden |
-| „Bewährung nach § 56 StGB kommt nicht in Betracht wegen Vorstrafen" | § 56 Abs. 1 StGB – Sozialprognose ist Einzelfallbewertung; Vorstrafen allein schließen positive Prognose nicht aus (BGH 5 StR 547/21) |
-| „Keine Revision möglich, da Berufungsurteil" | § 333 StPO erlaubt Revision auch gegen Berufungsurteile; Verfahrensrügen aus der Berufungsverhandlung sind rügefähig |
+| "Geständnis wurde freiwillig abgelegt" | § 136a StPO prüfen; Geständnis nach langer Vernehmung ohne Pause, unter psychischem Druck oder nach falscher Versprechung kann Verwertungsverbot begründen |
+| "Zeuge ist glaubwürdig, kein Grund zur Zweifel" | Methodische Glaubwürdigkeitsprüfung: Konstanz (Aussage-Polizei vs. HV), Detailreichtum, Eigeninteresse; BGH-Maßstäbe (BGH NStZ 2007, 112) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Keine Revision möglich, da Berufungsurteil" | § 333 StPO erlaubt Revision auch gegen Berufungsurteile; Verfahrensrügen aus der Berufungsverhandlung sind rügefähig |
 
 ---
 
@@ -284,4 +278,4 @@ Timing: Kurz (1–3 Minuten). Wirkung: Menschlichkeit zeigen.
 
 ## Quellen
 
-StPO §§ 136a, 244, 257, 257c, 258, 261, 344, 345. StGB §§ 20–24, 32, 34, 35, 46, 46a, 49, 52, 53, 56, 78. BGH 2 StR 334/18 (Geständnis Strafzumessung). BGH 4 StR 488/19 (§ 21 StGB). BGH 1 StR 372/20 (Verwertungsverbot Durchsuchung). BGH 2 StR 209/20 (Doppelverwertungsverbot). BGH 5 StR 547/21 (§ 56 Bewährung). BGH 3 StR 412/14 (Revisionsbegründung). Meyer-Goßner/Schmitt StPO, aktuelle Auflage. Fischer StGB, aktuelle Auflage. Beulke/Swoboda, Strafprozessrecht. Stand: 05/2026.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

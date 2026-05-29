@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-icp-kontrollsystem
-description: "Entwurf und Haertung eines integrierten Compliance-Programms ICP fuer Exportkontrolle Zoll Sanktionen CBAM und AML. Anwendungsfall Unternehmen will rechtssicheres ICP aufbauen oder bestehendes System haerten. Normen AWG § 22 Sorgfaltspflicht EU-Dual-Use-Verordnung Art. 9 internes Compliance-Programm EU-Sanktionsverordnungen Art. 15b. Pruefraster Rollen Kontrollen Schulungen Audit-Trail Screening-Integration Eskalationswege Dokumentation. Output ICP-Handbuch mit Prozessmatrix Rollenzuordnung Schulungsplan und Audit-Trail-Konzept. Abgrenzung zu aussenwirtschaft-aml-kyc-sanktionen und aussenwirtschaft-pruefung-ermittlung."
+description: "Entwurf und Haertung eines integrierten Compliance-Programms ICP für Exportkontrolle Zoll Sanktionen CBAM und AML. Anwendungsfall Unternehmen will rechtssicheres ICP aufbauen oder bestehendes System haerten. Normen AWG § 22 Sorgfaltspflicht EU-Dual-Use-Verordnung Art. 9 internes Compliance-Programm EU-Sanktionsverordnungen Art. 15b. Prüfraster Rollen Kontrollen Schulungen Audit-Trail Screening-Integration Eskalationswege Dokumentation. Output ICP-Handbuch mit Prozessmatrix Rollenzuordnung Schulungsplan und Audit-Trail-Konzept. Abgrenzung zu aussenwirtschaft-aml-kyc-sanktionen und aussenwirtschaft-prüfung-ermittlung."
 ---
 
 # Internal Compliance Program
@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BGH, Urt. v. 09.12.2014 - II ZR 360/13, NJW 2015, 1014 — Geschaftsfuehrerverantwortung fuer Compliance-Systeme; fehlende Exportkontroll-Compliance ist Organisationspflichtverletzung mit personlicher Haftung.
-- BGH, Urt. v. 13.10.2011 - 1 StR 53/11, BGHSt 57, 60 — Vorsatzmilderung durch nachweisliches ICP: gutes Kontrollsystem kann Grad des Verschuldens im Strafmass beeinflussen.
-- BVerwG, Beschl. v. 10.04.2008 - 20 F 1.07, BVerwGE 131, 41 — BAFA beruecksichtigt bei Genehmigungsentscheidung das ICP des Exporteurs; strukturiertes Compliance-Programm ist mittelbar Entscheidungskriterium.
-- OLG Frankfurt, Urt. v. 15.03.2018 - 2 Ss-OWi 1056/17 — Sorgfaltspflichtverletzung bei bewusster Nichtimplementierung von Screening-Prozessen; Bussgeld deutlich erhoht bei systematischen Kontrollluecken.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette ICP/Exportkontroll-Compliance
 
@@ -75,11 +72,9 @@ Kläre vor der Pruefung:
 - § 30 OWiG — Verbandsgeldbusse bis 10 Mio EUR
 - ISO 37001:2016 — Anti-Bribery Management System (best practice Parallele)
 
-## Kommentarliteratur
+## Quellenregel
 
-- BAFA, Leitfaden Interne Compliance-Programme (ICP), aktuelle Fassung — offizielle Mindeststandards
-- Bieneck, Handbuch Aussenwirtschaftsrecht, Kap. Compliance und Organisationspflichten
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: ICP-Audit-Checkliste
 
 **Adressat:** Geschaftsfuhrung / Compliance-Beauftragter — **Tonfall:** systemprufend, lueckenorientiert

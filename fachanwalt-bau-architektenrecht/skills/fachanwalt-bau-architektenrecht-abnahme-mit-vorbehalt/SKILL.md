@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt
-description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Pruefraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklaerung mit Maengelvorbehalt. Abgrenzung: nicht vollstaendige Abnahmeverweigerung."
+description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Prüfraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklärung mit Maengelvorbehalt. Abgrenzung: nicht vollständige Abnahmeverweigerung."
 ---
 
 # Abnahme mit Vorbehalt
@@ -37,13 +37,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | VII ZR 244/12 | 25.09.2014 | Beweislastumkehr nach Abnahme — Auftraggeber trägt nach Abnahme Beweis für Mangel |
-| BGH | VII ZR 117/97 | 02.10.1997 | Konkludente Abnahme durch Ingebrauchnahme bei rügeloser Hinnahme — gilt als Abnahme |
-| BGH | VII ZR 35/03 | 25.09.2003 | Fiktive Abnahme § 640 Abs. 2 BGB: Frist zur Abnahme; nach Ablauf Abnahmewirkung |
-| BGH | VII ZR 225/03 | 28.10.2004 | Vorbehalt § 640 Abs. 3 BGB: Nur bekannte Mängel erfasst; arglistig verschwiegene Mängel behalten Anspruchsgrundlage |
-| BGH | VII ZR 339/99 | 23.11.2000 | § 341 Abs. 3 BGB Vertragsstrafenvorbehalt — bei Abnahme ohne diesen Vorbehalt Verwirkung |
-| BGH | VII ZR 37/16 | 22.06.2017 | Abnahme-Verweigerung — wesentlicher Mangel berechtigt; unwesentlicher Mangel nicht; kein Zurückbehaltungsrecht bei bloßer Verzögerung |
-| OLG Stuttgart | 10 U 58/20 | 18.11.2021 | Teilabnahme § 640 Abs. 1 Satz 2 BGB: eigenständige Wirkungen; Verjährung läuft für Teilwerk separat |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Abnahme und ihre Rechtswirkungen
 
@@ -59,7 +53,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 | 5 | Vertragsstrafe verwirkt — Vorbehalt § 341 Abs. 3 erklärt? | § 341 Abs. 3 BGB | Nein → Verlust Vertragsstrafenrecht |
 | 6 | Einbehalt nach § 641 Abs. 3 BGB? | § 641 Abs. 3 BGB | Bis zu doppelte Mängelbeseitigungskosten zurückbehalten |
 | 7 | Verjährungsfrist dokumentiert? | § 634a BGB | Beginn Fristlauf; Fristenbuch eintragen |
-| 8 | Beweissicherung für künftige Mängelrügen? | BGH VII ZR 244/12 | Fotos, Gutachten, Protokoll bewahren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Abnahmeformen im Detail
 
@@ -83,7 +77,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 ### Konkludente Abnahme
 
 **Tatbestand:** Ingebrauchnahme ohne ausdrückliche Rüge oder Vorbehalt.
-- BGH VII ZR 117/97: Ingebrauchnahme + rügelose Nutzung über längeren Zeitraum
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gefahr: Auftraggeber nimmt Werk in Betrieb → Abnahme unterstellt
 - Schutz: Nutzungsaufnahme unter Vorbehalt schriftlich erklären
 
@@ -117,7 +111,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 | Rechtswirkung | Inhalt | Konsequenz |
 |--------------|--------|-----------|
 | Fälligkeit Werklohn | § 641 Abs. 1 BGB | Auftraggeber muss Schlussrechnung innerhalb vereinbarter Frist bezahlen |
-| Beweislastumkehr | BGH VII ZR 244/12 | Vor Abnahme: AN trägt Beweis Mangelfreiheit; nach Abnahme: AG trägt Beweis Mangel vorhanden |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verjährungsbeginn | § 634a Abs. 2 BGB | 5-Jahres-Frist beginnt mit Abnahme; Fristenbuch eintragen |
 | Gefahrübergang | § 644 BGB | Zufallsschäden (Brand, Sturm) nach Abnahme trägt Auftraggeber |
 | Verlust Mangelansprüche | § 640 Abs. 3 BGB | Für bei Abnahme bekannte Mängel ohne Vorbehalt |
@@ -267,7 +261,7 @@ wesentlichen Mängel möglich.
 |--------|---------------------|--------------|
 | Auftragnehmer | Fertigstellung des Werks | Baubeschreibung, Fotos, Bautagebuch |
 | Auftragnehmer | Abnahme erfolgt | Abnahmeprotokoll, E-Mail-Bestätigung |
-| Auftraggeber (nach Abnahme) | Mangel vorhanden | SV-Gutachten, Fotos (BGH VII ZR 244/12) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Auftraggeber | Vorbehalt erklärt | Abnahmeprotokoll, Vorbehaltserklärung |
 | Auftraggeber | Abnahme-Verweigerung berechtigt | Wesentlicher Mangel laut SV |
 | Auftragnehmer | Vorbehalt § 341 Abs. 3 (Vertragsstrafe) | Protokolleintrag oder schriftliche Erklärung |
@@ -288,11 +282,9 @@ wesentlichen Mängel möglich.
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „Abnahme nie erklärt — keine Abnahme erfolgt" | Konkludente Abnahme prüfen — Ingebrauchnahme, Restzahlung, Nutzungsdauer (BGH VII ZR 117/97) |
-| „Vorbehalt § 640 Abs. 3 nicht erklärt, Mängel trotzdem" | Arglistig verschwiegene Mängel behalten Anspruchsgrundlage unabhängig von Vorbehalt (BGH VII ZR 225/03) |
-| „Abnahme-Verweigerung wegen Kleinmängeln" | § 640 Abs. 1 Satz 2 BGB: Verweigerung nur bei wesentlichen Mängeln zulässig; Kleinmängel berechtigen nicht (BGH VII ZR 37/16) |
-| „Vertragsstrafenvorbehalt vergessen" | § 341 Abs. 3 BGB ist Ausschlussregel — kein Wiedereinsetzungsrecht; Schaden als Schadensersatz nach §§ 280, 286 BGB geltend machen |
-| „Einbehalt überhöht" | § 641 Abs. 3 BGB: Einbehalt auf doppelten Mängelbeseitigungsaufwand begrenzt; Unverhältnismäßigkeit als Einwand |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Vertragsstrafenvorbehalt vergessen" | § 341 Abs. 3 BGB ist Ausschlussregel — kein Wiedereinsetzungsrecht; Schaden als Schadensersatz nach §§ 280, 286 BGB geltend machen |
+| "Einbehalt überhöht" | § 641 Abs. 3 BGB: Einbehalt auf doppelten Mängelbeseitigungsaufwand begrenzt; Unverhältnismäßigkeit als Einwand |
 
 ## Streitwert und Kosten
 
@@ -329,10 +321,7 @@ wesentlichen Mängel möglich.
 
 - BGB §§ 339, 341, 634a, 640, 641, 644
 - VOB/B § 12, § 13 Nr. 4–5
-- BGH VII ZR 244/12 (25.09.2014) — Beweislastumkehr
-- BGH VII ZR 117/97 (02.10.1997) — Konkludente Abnahme
-- BGH VII ZR 339/99 (23.11.2000) — Vertragsstrafenvorbehalt
-- BGH VII ZR 37/16 (22.06.2017) — Abnahme-Verweigerung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
 - Stand: 05/2026

@@ -1,6 +1,6 @@
 # Produktrecht-Plugin
 
-Rechtliche Abläufe für Produktteams: Launch-Review, Werbeaussagen-Prüfung, Feature-Risikobewertung und schnelle „Ist-das-ein-Problem?"-Triage. Das Plugin baut auf einer Risikokalibrierung auf, die aus tatsächlichen Launch-Reviews gelernt wird – was bei *Ihrem* Unternehmen blockiert, nicht was generisch riskant wäre.
+Rechtliche Abläufe für Produktteams: Launch-Review, Werbeaussagen-Prüfung, Feature-Risikobewertung und schnelle "Ist-das-ein-Problem?"-Triage. Das Plugin baut auf einer Risikokalibrierung auf, die aus tatsächlichen Launch-Reviews gelernt wird – was bei *Ihrem* Unternehmen blockiert, nicht was generisch riskant wäre.
 
 **Alle Ausgaben sind Entwürfe zur anwaltlichen Prüfung – zitiert, markiert und abgesichert – keine rechtlichen Schlussfolgerungen.** Das Plugin erledigt die Arbeit: liest Dokumente, wendet Ihr Playbook an, findet Probleme, erstellt das Memo. Ein Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Quelle gekennzeichnet. Berufsrechtliche Verschwiegenheitspflichten (§ 43a Abs. 2 BRAO, § 203 StGB) werden konservativ angewendet. Folgenreiche Maßnahmen – Abmahnungen, Einreichungen, Vertragsunterzeichnungen – sind durch explizite Bestätigung gesichert.
 
@@ -18,7 +18,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 
 ## Für wen ist dieses Plugin?
@@ -26,7 +26,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 | Rolle | Hauptworkflows |
 |---|---|
 | **Produktjurist / Syndikusanwalt** | Launch-Review, Feature-Risikobewertung, Kalibrierungspflege |
-| **Produktmanager** | „Ist-das-ein-Problem?"-Triage in Eigenregie |
+| **Produktmanager** | "Ist-das-ein-Problem?"-Triage in Eigenregie |
 | **Marketing / Brand** | Werbeaussagen-Prüfung vor Veröffentlichung |
 | **GC / Leiter Rechtsabteilung** | Feature-Risikobewertung für eskalierte Punkte |
 
@@ -47,7 +47,7 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-re
 | `/produktrecht:produktrecht-kaltstart-interview` | Kaltstart-Interview |
 | `/produktrecht:launch-pruefung [PRD oder Ticket]` | Vollständiger Launch-Review gegen Ihr Framework |
 | `/produktrecht:werbeaussagen-pruefung [Text]` | Werbeaussagen-Prüfung |
-| `/produktrecht:ist-das-ein-problem [Frage]` | Schnelle „Ist-das-ein-Problem?"-Antwort |
+| `/produktrecht:ist-das-ein-problem [Frage]` | Schnelle "Ist-das-ein-Problem?"-Antwort |
 | `/produktrecht:feature-risikobewertung [Feature]` | Tiefgehende Feature-Risikobewertung |
 | `/produktrecht:impressum-pflicht` | Impressumspflichten prüfen (DDG, MStV) |
 | `/produktrecht:preisangaben` | Preisangabenpflichten prüfen (PAngV) |

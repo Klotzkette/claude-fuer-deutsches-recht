@@ -1,6 +1,6 @@
 ---
 name: stb-eau-elektronische-arbeitsunfaehigkeit-2023
-description: "eAU elektronische Arbeitsunfaehigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration."
+description: "eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration."
 ---
 
 # eAU — Elektronische Arbeitsunfaehigkeitsbescheinigung
@@ -41,7 +41,7 @@ Seit 01.01.2023 (mit Uebergangsphase) ist die elektronische Arbeitsunfaehigkeits
 
 ### Phase 1 — Anmeldung des AG zum eAU-Verfahren
 
-- Schnittstelle im Lohnprogramm einrichten (DATEV LODAS / Lohn und Gehalt, Sage HR, eGecko, sage Lohn). Konkrete Programmpfade in aktueller Programmversion verifizieren.
+- Schnittstelle im Lohnprogramm einrichten (DATEV LODAS / Lohn und Gehalt, Sage HR, eGecko, sage Lohn). Konkrete Programmpfade je Lohnprogramm-Version in der Programm-Onlinehilfe oder Dokumentation nachschlagen.
 - ITSG-Zertifikat erforderlich (Sicherheitszertifikat fuer SV-Datenuebermittlung); Verlaengerung jaehrlich.
 - Anmeldung des AG zum eAU-Abrufverfahren ueber den GKV-Datenaustausch-Standard (Verfahren der GKV-Spitzenverbaende auf Basis § 109 SGB IV); konkrete technische Konfiguration in der Lohnprogramm-Dokumentation pruefen.
 
@@ -108,3 +108,5 @@ Stand: 05/2026.
 - EFZG §§ 3, 5.
 - BMAS zum eAU-Verfahren.
 - GKV-Spitzenverband Rundschreiben.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (generischer Programmpfad-Hinweis, nicht versionsspezifisch belegbar, Verweis auf Onlinehilfe) -->

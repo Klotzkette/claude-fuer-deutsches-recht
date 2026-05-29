@@ -63,7 +63,7 @@ Der Verdienstausfall (528,00 EUR, 24 h × 22,00 EUR nach § 22 JVEG) wird zurüc
 
 ## E. Musterformulierung (Kernabsatz)
 
-> „Der Antrag auf Bewilligung eines Vorschusses nach § 3 JVEG wird aufrechterhalten. § 3 JVEG knüpft die Vorschusspflicht allein an das Entstehen erheblicher Fahrtkosten oder sonstiger Aufwendungen, nicht an eine wirtschaftliche Bedürftigkeit der Zeugin. Bei einer Gesamtstrecke von 2.500 km und erstattungsfähigen Fahrtkosten von 875,00 EUR ist die Erheblichkeit der Aufwendungen außer Zweifel. Der hilfsweise auf Fahrtkosten und notwendige Übernachtungskosten begrenzte Vorschuss von 1.035,00 EUR wird beantragt."
+> "Der Antrag auf Bewilligung eines Vorschusses nach § 3 JVEG wird aufrechterhalten. § 3 JVEG knüpft die Vorschusspflicht allein an das Entstehen erheblicher Fahrtkosten oder sonstiger Aufwendungen, nicht an eine wirtschaftliche Bedürftigkeit der Zeugin. Bei einer Gesamtstrecke von 2.500 km und erstattungsfähigen Fahrtkosten von 875,00 EUR ist die Erheblichkeit der Aufwendungen außer Zweifel. Der hilfsweise auf Fahrtkosten und notwendige Übernachtungskosten begrenzte Vorschuss von 1.035,00 EUR wird beantragt."
 
 ---
 

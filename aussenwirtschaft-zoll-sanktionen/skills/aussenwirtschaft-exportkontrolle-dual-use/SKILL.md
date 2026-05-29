@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Exportkontrolle Dual-Use-Pruefung fuer Gueter Software Technologie und Dienstleistungen mit Doppelverwendungszweck. Anwendungsfall Exporteur prueft ob Ware oder Software unter Dual-Use-Regulierung faellt und Genehmigung benoetigt. Normen EU-Dual-Use-Verordnung 2021/821 AWG § 8 AWV §§ 8 ff. Anhang I Liste Dual-Use. Pruefraster Gueterklassifizierung Endverwendung Endverwender Bestimmungsland Technologietransfer Genehmigungspflicht. Output Exportkontroll-Klassifizierungsdossier mit Listenpruefung Genehmigungspfad und Dokumentation fuer BAFA. Abgrenzung zu aussenwirtschaft-gueterlisten-klassifizierung (technische Klassifizierung) und aussenwirtschaft-bafa-genehmigungen."
+description: "Exportkontrolle Dual-Use-Prüfung für Gueter Software Technologie und Dienstleistungen mit Doppelverwendungszweck. Anwendungsfall Exporteur prüft ob Ware oder Software unter Dual-Use-Regulierung faellt und Genehmigung benoetigt. Normen EU-Dual-Use-Verordnung 2021/821 AWG § 8 AWV §§ 8 ff. Anhang I Liste Dual-Use. Prüfraster Gueterklassifizierung Endverwendung Endverwender Bestimmungsland Technologietransfer Genehmigungspflicht. Output Exportkontroll-Klassifizierungsdossier mit Listenprüfung Genehmigungspfad und Dokumentation für BAFA. Abgrenzung zu aussenwirtschaft-gueterlisten-klassifizierung (technische Klassifizierung) und aussenwirtschaft-bafa-genehmigungen."
 ---
 
 # Exportkontrolle und Dual-Use
@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 17.06.2010 - C-376/08 (Saman/Hauptzollamt) — Zur unmittelbaren Geltung von Dual-Use-Genehmigungspflichten aus EU-VO auch ohne nationalen Umsetzungsakt; nationale Behoerden sind unmittelbar gebunden.
-- BVerwG, Urt. v. 23.10.2007 - 3 C 33.06, BVerwGE 129, 367 — BAFA-Ermessen bei Ablehnung einer Ausfuhrgenehmigung fuer sicherheitssensible Gueter; technische Einschatzung der Behoerde ist nur eingeschrankt nachpruefbar.
-- BGH, Urt. v. 13.10.2011 - 1 StR 53/11, BGHSt 57, 60 — Direktvorsatz beim AWG-Ausfuhrdelikt; fahrlassige Unkenntnis der Genehmigungspflicht entlastet nicht, wenn Red Flags vorlagen.
-- BGH, Urt. v. 11.07.2019 - 1 StR 634/18, NStZ 2020, 34 — Zur Tatbestandsmaessigkeit der Vermittlung von Exports gemaess § 18 V AWG; Vermittler haftet wie Exporteur bei Kenntnis des Endverwendungszwecks.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Exportkontrolle/Dual Use
 
@@ -76,11 +73,9 @@ Kläre vor der Pruefung:
 - § 19 AWG — Bussgeldbewehrte Ordnungswidrigkeiten bei leichtfertiger Verletzung
 - Art. 26 UZK — Zollanmeldungspflicht bei kontrollierten Waren
 
-## Kommentarliteratur
+## Quellenregel
 
-- Wolffgang/Simonsen, AWR-Kommentar, Loseblatt — massgeblich zu AWG/AWV
-- Bieneck, Handbuch Aussenwirtschaftsrecht, Kap. Exportkontrolle
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Exportkontroll-Pruefungsvermerk
 
 **Adressat:** Compliance/Exportabteilung — **Tonfall:** systematisch, guterlistennah

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-haftung-43-gmbhg
-description: "Geschaeftsfuehrer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Pruefraster § 43 GmbHG Sorgfalt ordentlicher Geschaeftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjaehrung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Pruef-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung."
+description: "Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjährung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Prüf-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung."
 ---
 
 # Geschäftsführer-Haftung § 43 GmbHG prüfen
@@ -23,17 +23,11 @@ Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 21.04.1997 – II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) — Leitentscheidung zur Business Judgement Rule bei Organmitgliedern; ein GF handelt pflichtgemäß, wenn er bei unternehmerischen Entscheidungen auf angemessener Informationsgrundlage, ohne Sonderinteressen und zum Wohl der Gesellschaft handelt.
-- BGH, Urt. v. 04.11.2002 – II ZR 224/00, NJW 2003, 358 — Für GmbH-Geschäftsführer gilt die Business Judgement Rule des § 93 Abs. 1 Satz 2 AktG analog; Beweislast für das Vorliegen der BJR-Voraussetzungen trägt der GF.
-- BGH, Urt. v. 29.09.2008 – II ZR 234/07, NZG 2009, 107 — Entlastungsbeschluss nach § 46 Nr. 5 GmbHG entfaltet Sperrwirkung nur für der Gesellschaft bei Beschlussfassung bekannte Pflichtverletzungen; verheimlichte Pflichtverletzungen sind nicht erfasst.
-- BGH, Urt. v. 18.11.2014 – II ZR 231/13, NJW 2015, 550 — Haftung nach § 64 GmbHG a.F. (jetzt § 15b InsO) setzt voraus, dass der GF Zahlungen nach Insolvenzreife vornahm; er muss exkulpieren, dass er die Sorgfalt eines ordentlichen Geschäftsmannes nicht verletzt hat.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Schneider/Verse, GmbHG, 12. Aufl. 2021, § 43 Rn. 1 ff. (Haftung des Geschäftsführers, Sorgfaltsmaßstab, BJR).
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2023, § 43 Rn. 1 ff. (Pflichten und Haftung des GF).
-- Lutter/Hommelhoff/Kleindiek, GmbHG, 21. Aufl. 2023, § 43 Rn. 5 ff. (Sorgfalt, BJR, Insolvenzantragspflicht).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: GF-Haftung § 43 GmbHG
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -117,10 +111,9 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 - InsO §§ 15a, 15b, 17, 18, 19
 - AO § 69
 - StGB §§ 14, 263, 266, 266a, 283 ff.
-- BGH, Urt. v. 21.04.1997 – II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck).
-- BGH, Urt. v. 29.09.2008 – II ZR 234/07, NZG 2009, 107 (Entlastungsbeschluss Sperrwirkung).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Schneider/Verse, GmbHG, 12. Aufl. 2021, § 43 Rn. 1 ff.
-- Lutter/Hommelhoff/Kleindiek, GmbHG, 21. Aufl. 2023, § 43 Rn. 5 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 

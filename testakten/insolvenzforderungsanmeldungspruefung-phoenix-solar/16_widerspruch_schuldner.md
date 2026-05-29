@@ -25,7 +25,7 @@ Der Geschäftsführer Marcus Wendler erschien ohne anwaltliche Vertretung. Er wu
 
 **Begründung des Schuldners (wörtliche Wiedergabe aus Protokoll):**
 
-> „Die von Solarteile Nord gelieferten Photovoltaikmodule haben nicht die vereinbarte Leistung von 400 Wp bzw. 410 Wp erbracht. Eigene Messungen nach Inbetriebnahme auf dem Referenzdach in Potsdam-Golm haben einen Leistungsabfall von 12 bis 18 % gegenüber der Typenblatt-Spezifikation ergeben. Wir haben deswegen in 2026 erhebliche Einbußen bei Projektabrechnungen erlitten. Die Zahlung wurde zu Recht eingestellt. Ich bestreite die Forderung insgesamt."
+> "Die von Solarteile Nord gelieferten Photovoltaikmodule haben nicht die vereinbarte Leistung von 400 Wp bzw. 410 Wp erbracht. Eigene Messungen nach Inbetriebnahme auf dem Referenzdach in Potsdam-Golm haben einen Leistungsabfall von 12 bis 18 % gegenüber der Typenblatt-Spezifikation ergeben. Wir haben deswegen in 2026 erhebliche Einbußen bei Projektabrechnungen erlitten. Die Zahlung wurde zu Recht eingestellt. Ich bestreite die Forderung insgesamt."
 
 **Formale Erfassung:**
 
@@ -52,7 +52,7 @@ Wird keine Feststellungsklage erhoben, gilt die Forderung in Höhe des bestritte
 
 **Begründung des Schuldners (wörtliche Wiedergabe aus Protokoll):**
 
-> „Frau Vogt war in den letzten zwei Wochen des April 2026 unentschuldigt abwesend, ohne Krankmeldung oder sonstigen Nachweis. Sie hat die Arbeit eigenmächtig eingestellt. Für diese Zeit besteht kein Lohnanspruch."
+> "Frau Vogt war in den letzten zwei Wochen des April 2026 unentschuldigt abwesend, ohne Krankmeldung oder sonstigen Nachweis. Sie hat die Arbeit eigenmächtig eingestellt. Für diese Zeit besteht kein Lohnanspruch."
 
 **Formale Erfassung:**
 

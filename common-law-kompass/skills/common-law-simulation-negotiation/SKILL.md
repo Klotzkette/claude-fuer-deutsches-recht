@@ -1,6 +1,6 @@
 ---
 name: common-law-simulation-negotiation
-description: "Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Pruefraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklaerung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklaerung)."
+description: "Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung)."
 ---
 
 # Simulation und Verhandlungstraining

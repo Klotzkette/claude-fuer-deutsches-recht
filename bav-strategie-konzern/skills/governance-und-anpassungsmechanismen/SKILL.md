@@ -1,6 +1,6 @@
 ---
 name: governance-und-anpassungsmechanismen
-description: "Governance-Strukturen und Anpassungsmechanismen fuer Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Pruefraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill)."
+description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill)."
 ---
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
@@ -13,26 +13,22 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 ## Rechtsgrundlagen
 
 - § 16 BetrAVG (Anpassungsprüfungspflicht; Ermessen; wirtschaftliche Lage)
-- BAG 28.5.2013 — 3 AZR 417/11 (sachlich-billige Ermessensausübung bei § 16 BetrAVG)
-- BAG 17.6.2014 — 3 AZR 298/13 (Prognoseprinzip bei § 16 BetrAVG — Stichtag der Entscheidung maßgeblich)
-- BAG 11.10.2011 — 3 AZR 527/09 (Eigenkapitalrendite als Maßstab für Leistungsfähigkeit)
-- BAG 28.5.2013 — 3 AZR 304/13 (Reallohnbezugsgrößen-Verfahren)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 77 Abs. 4 BetrVG (Betriebsvereinbarungen wirken normativ)
 - §§ 76, 80 BetrVG (Einigungsstelle, allgemeine Aufgaben Betriebsrat)
 - IORP II Art. 21–26 (System of Governance für Einrichtungen der betrieblichen Altersversorgung)
 - VAG §§ 26, 234 (Governance-Anforderungen Pensionskassen und Pensionsfonds)
 - MaRisk (Mindestanforderungen an das Risikomanagement — analog anwendbar auf interne Pension Committees)
 - IAS 19.135–145 (Angabepflichten zu Governance und Risikomanagement)
-- BAG 24.09.2019 — 3 AZR 747/17 (Anpassungsentscheidung § 16 BetrAVG: volle gerichtliche Überprüfung der Prognoseentscheidung; AG trägt Darlegungslast für ausreichende Eigenkapitalrendite)
-- BAG 16.06.2020 — 3 AZR 530/19 (Prognoseprinzip bei wirtschaftlicher Leistungsfähigkeit § 16 BetrAVG: Dreijahres-Finanzplan muss konkrete Pläne des Unternehmens abbilden; keine pauschalen Branchenprognosen)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 16 BetrAVG Rn. 1 ff. (Anpassungsprüfungspflicht, Prognoseprinzip)
-- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 16 Rn. 50 ff. (Eigenkapitalrendite, Ermessen)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Aufbau Pension Committee
@@ -62,7 +58,7 @@ Dr. von Sompeh-Ostermann empfiehlt für Konzerne mit einer DBO über EUR 100 Mio
 
 **Dreijährlicher Prüfungsrhythmus (Stichtag):**
 - Maßgeblicher Zeitpunkt: Dreijahresende ab Rentenbeginn des jeweiligen Rentnerkollektivs (praxisüblich: gemeinsamer Stichtag 1. Januar alle drei Jahre für gesamtes Kollektiv)
-- Prognoseprinzip: Entscheidung auf Basis der zum Stichtag erkennbaren wirtschaftlichen Entwicklung der nächsten drei Jahre (BAG 17.6.2014 — 3 AZR 298/13)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Zweistufige Prüfung:**
 
@@ -70,7 +66,7 @@ Dr. von Sompeh-Ostermann empfiehlt für Konzerne mit einer DBO über EUR 100 Mio
 Vergleich VPI (Statistisches Bundesamt) über Dreijahreszeitraum → ermittelt Anpassungsbedarf.
 
 *Stufe 2 — Wirtschaftliche Leistungsfähigkeit:*
-- Eigenkapitalrendite nach Steuern: Muss mindestens die Eigenkapitalrendite öffentlicher Anleihen übersteigen (BAG 11.10.2011 — 3 AZR 527/09)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Maßgeblich: HGB-Einzelabschluss des versorgungsverpflichteten Unternehmens (nicht Konzernabschluss, nicht IFRS)
 - Prognosezeitraum: Dreijahresfenster in die Zukunft
 
@@ -172,7 +168,7 @@ B. WIRTSCHAFTLICHE LEISTUNGSFÄHIGKEIT (STUFE 2)
 C. PROGNOSE
    Dreijahres-Finanzplanung ergibt [ausreichende / nicht ausreichende]
    wirtschaftliche Leistungsfähigkeit für Anpassung.
-   [Begründung im Einzelnen gemäß BAG 17.6.2014 — 3 AZR 298/13]
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 D. BESCHLUSS
    Der Vorstand beschließt:
@@ -205,14 +201,14 @@ c) einem unabhängigen Sachverständigen (benannt durch Arbeitgeber und Betriebs
 a) Überwachung der Anlagerichtlinien (Investment Policy Statement)
 b) Billigung des Jahresberichts des Treuhänders
 c) Zustimmung zu wesentlichen Änderungen der Anlagestruktur
-d) Sicherstellung der Insolvenzfestigkeit gem. BAG, Urt. v. 22.09.2020 — 3 AZR 303/18
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ---
 
 ## Fallstricke
 
-1. **Prognosezeitpunkt § 16 BetrAVG:** Entscheidend ist die zum Prüfstichtag erkennbare künftige wirtschaftliche Entwicklung — rückblickende Betrachtung der letzten drei Jahre allein genügt nicht (BAG 17.6.2014 — 3 AZR 298/13). Nachträgliche Verschlechterungen können die Ablehnung nicht nachträglich rechtfertigen.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. **IORP II Governance — oft unterschätzt:** Konzerneigene Pensionskassen und Pensionsfonds müssen seit 2019 vollständige IORP II-Governance implementieren: eigene Risikobeurteilung (ORSA), Schlüsselfunktionen (Risiko, Compliance, interne Revision, versicherungsmathematische Funktion), Vergütungspolitik. BaFin-Prüfungen nehmen zu.
 

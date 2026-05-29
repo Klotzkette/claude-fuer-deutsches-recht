@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-intake-decision-tree
-description: "Entscheidungsbaum fuer GmbH-Gruendung: Rechtsformwahl, Gruendungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Pruefraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster."
+description: "Entscheidungsbaum für GmbH-Gründung: Rechtsformwahl, Gründungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Prüfraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster."
 ---
 
 # Intake Decision Tree
@@ -52,11 +52,7 @@ Frist: unverzüglich nach Eintragung der Gesellschaft im Handelsregister und unv
 
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
-| BSG | B 12 R 25/18 R | NJW 2020, 1015 | Echte Sperrminorität in Satzung → SV-Freiheit |
-| BSG | B 12 KR 13/14 R | NZA 2016, 444 | SHA-Stimmbindung begründet keine SV-Freiheit |
-| BSG | B 12 KR 13/17 R | NJW 2018, 2717 | Aufgabe der „Kopf-und-Seele"-Rechtsprechung |
-| BGH | II ZR 142/76 | BGHZ 71, 40 | Bezugsrechtsausschluss; sachliche Rechtfertigung |
-| BGH | II ZR 193/10 | NJW 2012, 2945 | Stimmverbot § 47 Abs. 4 GmbHG |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Intake-Knotenpunkte
 
@@ -498,17 +494,12 @@ Jede Eingabe und jede Entscheidung wird protokolliert mit:
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität und SV-Freiheit).
-- BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
-- BSG, Urt. v. 14.03.2018 – B 12 KR 13/17 R, NJW 2018, 2717 (Aufgabe Kopf-und-Seele-Rspr.).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung (Ergaenzung)
 
-- **BGH, Urt. v. 14.02.2023 – II ZR 3/21, NJW 2023, 1234** — Bei der Rechtsformwahl ist die Treuepflicht der Gesellschafter untereinander zu beachten; Entscheidungen, die einen Gesellschafter strukturell benachteiligen (z.B. Einbringung ohne angemessene Gegenleistung), koennen sittenwidrig sein (§ 138 BGB).
-- **BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015** — Eine gesellschaftsvertraglich verankerte Sperrminoritaet schafft sozialversicherungsrechtliche Selbstaendigkeit des Gesellschafter-GF; alleinige SHA-Stimmbindung ohne Satzungsverankerung genuegt nicht.
-- **BSG, Urt. v. 14.03.2018 – B 12 KR 13/17 R, NJW 2018, 2717** — Das BSG gibt die "Kopf-und-Seele"-Rechtsprechung auf; allein persoenliche Unentbehrlichkeit des GF genuegt fuer SV-Freiheit nicht; massgeblich ist die formale Kapitalmehrheit und satzungsmaessige Vetomacht.
-- **BGH, Urt. v. 08.07.2021 – II ZR 191/19, NZG 2021, 1389** — Beim Intake eines Gruendungs-Mandats sind alle weichenstellenden Entscheidungen (Rechtsform, Kapitalstruktur, SV-Status) aufzuzeigen; anwaltliche Haftung nach § 280 BGB bei fehlender Aufklaerung ueber Gestaltungsalternativen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Intake-Ergebnis-Zusammenfassung
 

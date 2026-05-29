@@ -1,0 +1,7 @@
+Name,Rolle,Land,Datenarten,Zweck,Transferinstrument,Status,Naechste Aktion
+CloudSuite Assist Inc.,Technischer Plattformbetreiber/Importer,USA,CRM-Kontakte Supporttickets Telemetrie,Support und Plattformbetrieb,DPF behauptet plus SCC Modul 2,Gelb,DPF-Scope und Produktabdeckung archivieren
+CloudSuite Ireland Ltd.,Vertragspartner/EU Processor,Irland,CRM-Kontakte Supporttickets,Vertragsverwaltung und EU-Betrieb,Kein Drittlandtransfer,Gruen,DPA-Rollenbeschreibung anpassen
+MainRack GmbH,Hosting-Subprozessor,Deutschland,Produktive Datenbank und Logs,Hosting Frankfurt,Kein Drittlandtransfer,Gruen,ISO-Nachweis 2026 ablegen
+NorthPeak Analytics LLC,KI-Subprozessor ReplyPilot,USA,Ticketauszuege bis 2000 Zeichen,Antwortvorschlaege,SCC-Kette unvollstaendig,Rot,SCC/TIA Nachtrag und Freitextsperre
+TicketForge LLC,Notfall-Wartung,USA,Fehlerlogs und Ticket-ID,Incident Support,Nachweis offen,Rot,Zugriff deaktivieren bis Rollenklärung
+TrustLine Dispute Resolution Services,Streitbeilegung,USA,Beschwerdedaten nur im Streitfall,DPF-Beschwerdemechanismus,DPF-spezifisch,Gelb,Kontakt und Prozess in Datenschutzhinweis aufnehmen

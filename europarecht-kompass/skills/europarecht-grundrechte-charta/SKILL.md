@@ -1,6 +1,6 @@
 ---
 name: europarecht-grundrechte-charta
-description: "EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Pruefraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhaeltnismaessigkeit. Output: GRC-Pruefschema Pruefmemo. Abgrenzung: nicht fuer EMRK oder nationales Grundgesetz."
+description: "EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz."
 ---
 
 # EU-Grundrechte und Charta
@@ -58,10 +58,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 26.02.2013 - C-617/10 (Akerberg Fransson), EuZW 2013, 302 — Anwendungsbereich GRCh Art. 51: bei Vollziehung eines EU-rechtlich harmonisierten Strafrechts (Mehrwertsteuerbeihilfe) ist Charta anwendbar; nationaler Spielraum bei sanktionsrechtlicher Umsetzung beschraenkt.
-- EuGH, Urt. v. 08.04.2014 - C-293/12 (Digital Rights Ireland), NJW 2014, 2169 — Verhaeltnismaessigkeitspruefung GRCh Art. 7, 8 (Datenschutz): VDS-RL unverhältnismaessig; erheblicher Eingriff in Grundrechte erfordert strikte Pruefung; kein allgemeiner Vorbehalt oeffentliche Sicherheit.
-- EuGH, Urt. v. 05.04.2016 - C-404/15 (Aranyosi), EuZW 2016, 388 — Charta Art. 4 EMRK Art. 3 im EuHB-Verfahren: Europaeischer Haftbefehl muss ausgesetzt werden wenn reales Risiko unmenschlicher Behandlung besteht; Grundrecht hat Vorrang vor Prinzip gegenseitiger Anerkennung.
-- BVerfG, Beschl. v. 06.11.2019 - 1 BvR 16/13 (Recht auf Vergessen I), NJW 2020, 300 — Verhaeltnis GRCh/GG: bei reinem EU-Recht primaer EuGH zustaendig; bei Spielraum Mitgliedstaat prueft BVerfG GG; doppelter Grundrechtsschutz moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette GRCh
 
@@ -72,11 +69,9 @@ Bevor losgelegt wird, klaere:
 - **Art. 51 GRCh** — Anwendungsbereich: nur bei Durchfuehrung von EU-Recht durch MS
 - **Art. 52 GRCh** — Tragweite und Auslegung der Rechte; Verhältnismaessigkeit; EMRK-Parallelnorm
 
-## Kommentarliteratur
+## Quellenregel
 
-- Jarass, GRCh Kommentar, 4. Aufl. 2021 — Standardkommentar Grundrechtecharta
-- Calliess/Ruffert, EUV/AEUV, Art. 51-54 GRCh Rn. 1-40
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: GRCh-Grundrechtepruefung
 
 **Adressat:** Kanzlei-intern

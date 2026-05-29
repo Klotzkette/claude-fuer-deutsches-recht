@@ -1,6 +1,6 @@
 ---
 name: wohnraummiete-kuendigung-paragraph-568-bgb
-description: "Vermieter oder Mieter hat Kuendigung des Wohnraummietvertragsempfangen oder versendet und Anwalt prueft Schriftform. § 568 Abs. 1 BGB Schriftformerfordernis Kuendigung Wohnraummietvertrag. Pruefraster: qES grundsaetzlich moeglich § 126a BGB aber Zugangserfordernis BGH VIII ZR 159/23 Begruendungspflicht § 569 Abs. 2 BGB Empfehlung Papier mit Boten. Output: Formwirksamkeits-Analyse Kuendigung und Empfehlung Zustellungsweg. Abgrenzung zu gewerberaummiete-paragraph-550-bgb-langzeitform (Gewerbe) und kuendigung-per-schriftsatz-zustellung-formfragen."
+description: "Workflow-Skill zu wohnraummiete kuendigung paragraph 568 bgb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Wohnraummiete-Kündigung — § 568 BGB und Formfragen
@@ -12,7 +12,7 @@ description: "Vermieter oder Mieter hat Kuendigung des Wohnraummietvertragsempfa
 - **§ 573c BGB** — Kündigungsfristen
 - **§ 569 BGB** — Außerordentliche fristlose Kündigung: Begründungspflicht
 - **§ 126 Abs. 3 BGB** i.V.m. **§ 126a BGB** — Ersatz der Schriftform durch qES
-- **BGH VIII ZR 159/23 vom 27. November 2024** — qES-Kündigung muss digital (mit prüfbarer Signatur) zugehen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 130 BGB** — Zugang der Willenserklärung
 
 ## BGH-Linie
@@ -21,7 +21,7 @@ description: "Vermieter oder Mieter hat Kuendigung des Wohnraummietvertragsempfa
 
 Die Kündigung des Wohnraummietverhältnisses bedarf gemäß § 568 Abs. 1 BGB zwingend der Schriftform. Die Schriftform kann nach § 126 Abs. 3 BGB durch die elektronische Form (qES, § 126a BGB) ersetzt werden. Ein ausdrücklicher gesetzlicher Ausschluss der qES-Möglichkeit besteht im Mietrecht — anders als z. B. in § 623 BGB (Arbeitsrecht) — nicht.
 
-### BGH VIII ZR 159/23 — Zugangserfordernis bei qES
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zugehen muss, dass er die Signatur selbst prüfen kann. Das qES-Dokument muss elektronisch beim Mieter eingehen. Ein Ausdruck durch das Gericht mit Transfervermerk (§ 298 Abs. 3 ZPO) ersetzt diesen Zugang nicht.
 
@@ -145,7 +145,7 @@ Mit freundlichen Grüßen
 ## Fallstricke
 
 - **E-Mail ohne qES**: Eine bloße E-Mail des Vermieters mit dem Kündigungstext erfüllt nicht die Schriftform des § 568 Abs. 1 BGB. Nur qES ersetzt die Schriftform — einfache oder fortgeschrittene Signatur reichen nicht.
-- **Mieter löscht qES-Mail**: Kann trotzdem als zugegangen gelten. Mieter sollten nach BGH VIII ZR 159/23 E-Mail-Anhänge vom Vermieter nicht löschen (→ `mandantenwarnung-qes-per-email-whatsapp-und-zugang`).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Begründung**: Fehlt die Begründung bei ordentlicher Kündigung durch den Vermieter, ist die Kündigung formell unwirksam (§ 573 Abs. 3 S. 1 BGB). Nachschieben von Gründen ist eingeschränkt.
 - **Teilkündigung**: Bei Wohnraummiete grundsätzlich unzulässig.
 

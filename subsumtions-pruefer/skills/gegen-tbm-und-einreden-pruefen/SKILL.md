@@ -1,6 +1,6 @@
 ---
 name: gegen-tbm-und-einreden-pruefen
-description: "Prueft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden: Nichtigkeitsgründe, Anfechtung, Erfuellung, Aufrechnung, Verjährung, Zurueckbehaltungsrecht, Verwirkung, Verzicht. Strukturierte Gegenprüfung nach Anspruchsaufbau."
+description: "Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden: Nichtigkeitsgründe, Anfechtung, Erfuellung, Aufrechnung, Verjährung, Zurückbehaltungsrecht, Verwirkung, Verzicht. Strukturierte Gegenprüfung nach Anspruchsaufbau."
 ---
 
 # Gegen-TBM und Einreden prüfen
@@ -32,9 +32,7 @@ Nach der positiven Subsumtion (Anspruch entstanden dem Grunde nach) prüft diese
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 05.11.2020 - IX ZR 175/19, NJW 2021, 225 — Die Aufrechnung setzt die Aufrechnungslage voraus: Gleichartigkeit, Gegenseitigkeit, Fälligkeit der Gegenforderung und Durchsetzbarkeit der Hauptforderung. Eine verjährte Gegenforderung kann aufgerechnet werden, wenn sie vor Eintritt der Verjährung aufrechenbar war (§ 215 BGB).
-- BGH, Urt. v. 09.06.2021 - VIII ZR 26/20, NJW 2021, 2793 — Für die Verwirkung eines Anspruchs genügt nicht allein das Zeitmoment; das Umstandsmoment erfordert, dass der Schuldner sich aufgrund des Verhaltens des Gläubigers darauf eingerichtet hat, nicht mehr in Anspruch genommen zu werden.
-
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Systematik der Gegenrechte
 
@@ -65,7 +63,7 @@ Rechtshindernde Einwendungen verhindern die Entstehung des Anspruchs:
 
 ### 4. Verwirkung (§ 242 BGB)
 
-Zeit- und Umstandsmoment: BGH erfordert beide kumulativ (BGH NJW 2021, 2793).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Mitverschulden (§ 254 BGB)
 
@@ -83,12 +81,9 @@ Ist ein Nichtigkeitsgrund vorhanden?
                     └─ Nein → Mitverschulden § 254 BGB prüfen → Quote
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB §§ 194-217 (Verjährung) und §§ 362-397 (Erlöschen)
-- MüKo BGB §§ 119-124 (Anfechtungsrecht) — Große Kommentierung
-- BeckOK BGB §§ 305-310 (AGB-Recht) — laufend aktualisiert
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreifend / fraglich). Gesamtergebnis: Anspruch besteht vollständig / gemindert / nicht durchsetzbar / nicht entstanden.
@@ -100,6 +95,4 @@ Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreife
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026
-BGH IX ZR 213/18 (WRONG_TOPIC): Kein Urteil des IX. Senats zum Zurückbehaltungsrecht § 273 BGB unter diesem AZ nachweisbar; VIII ZR 213/18 betrifft Mietrecht. Zeile entfernt.
-BGH VIII ZR 158/17 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 23.01.2019. Zeile entfernt.
 -->

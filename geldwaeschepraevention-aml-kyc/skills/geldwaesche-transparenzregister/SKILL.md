@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transparenzregister
-description: "Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprueft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Pruefraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Pruefprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation fuer KYC-Akte. Abgrenzung zu geldwaesche-ubo-wirtschaftlich-berechtigte und geldwaesche-datenqualitaet-register."
+description: "Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Prüfraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Prüfprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation für KYC-Akte. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-datenqualitaet-register."
 ---
 
 # Transparenzregister und Unstimmigkeitsmeldung
@@ -12,10 +12,7 @@ description: "Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung na
 4. Handelt es sich um eine initiale Eintragung, eine Aenderung oder eine Loeschung?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- EuGH, Urt. v. 22.11.2022 - C-37/20, NJW 2023, 279 — Transparenzregister-Oeffentlichkeit muss mit DSGVO-Datenschutz abgewogen werden; unbeschraenkter Oeffentlichkeitszugang ist nicht mit DSGVO vereinbar.
-- OVG Berlin-Brandenburg, Beschl. v. 12.09.2017 - OVG 1 S 67.17, NVwZ-RR 2018, 67 — Eintragungspflicht im Transparenzregister ist bussgeldbewertet; fahrlässige Nichtmeldung genuegt fuer Ahndung.
-- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Transparenzregister-Abfrage ist Pflichtbestandteil des KYC-Onboardings; Nichtabfrage trotz offensichtlichem UBO-Risiko begruendet Sorgfaltspflichtverletzung.
-- LG Frankfurt, Urt. v. 18.03.2021 - 3-15 O 10/20 — Unstimmigkeitsmeldung nach § 23a GwG ist unverzueglich; Verpflichteter darf nicht auf spatere Klärung warten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 18-26 GwG — Transparenzregister: Eintragungspflicht, Inhalt, Aktualisierung
@@ -23,10 +20,9 @@ description: "Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung na
 - § 19 GwG — Wirtschaftlich Berechtigte: 25-Prozent-Schwelle und fiktiver Eigentuemer
 - Art. 30 AMLD5 — EU-Vorgaben fuer Transparenzregister
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, §§ 18-26 Rn. 1-100 (Transparenzregister: vollstaendige Kommentierung)
-- Zentes/Glaab GwG, 2019, § 23a Rn. 1-25 (Unstimmigkeitsmeldung: Pflicht und Verfahren)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill verbindet KYC-Unterlagen mit Transparenzregisterdaten und Eskalation bei Abweichungen.

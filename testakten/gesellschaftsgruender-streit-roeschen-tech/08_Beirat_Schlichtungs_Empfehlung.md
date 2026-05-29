@@ -90,7 +90,7 @@ Der Beirat weist ausdruecklich darauf hin, dass die Schlichtungs-Empfehlung **ni
 Sollte der Streit weiter eskalieren, weist der Beirat auf folgende Risiken hin:
 
 - **Reputations-Risiko** fuer alle Beteiligten
-- **Verzoegerung der Pi-Mu-Investition** bei laufender Klage (Pi Mu hat „Material Adverse Change"-Klausel)
+- **Verzoegerung der Pi-Mu-Investition** bei laufender Klage (Pi Mu hat "Material Adverse Change"-Klausel)
 - **Hohe Gerichtskosten** und Streitwert-Gebuehren
 - **Belastung der Geschaeftsfuehrer** durch Anfechtung der Beschluesse
 

@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-neutral-darstellen
-description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Pruefraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht fuer rechtliche Stellungnahmen."
+description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht für rechtliche Stellungnahmen."
 ---
 
 # Sachverhalt neutral darstellen
@@ -15,10 +15,7 @@ Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sa
 4. Gibt es Passagen, bei denen die Distanzierungsformel ("nach Ihrer Darstellung") benoetigt wird?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 22.04.2008 - VI ZR 83/07, NJW 2008, 2262 — Neutrale Sachverhaltsschilderung in Schriftsaetzen schafft keinen Anknuepfungspunkt fuer Rufschaedigungsansprueche; wertende Zusaetze dagegen koennen haften.
-- BGH, Urt. v. 09.04.2019 - VI ZR 89/18, NJW 2019, 2927 — Tatsachenbehauptung und Meinungsauesserung sind strikt zu trennen; neutrale Sachverhaltsschilderung faellt unter Tatsachenbereich.
-- BVerfG, Beschl. v. 25.06.2009 - 1 BvR 134/03, NJW 2009, 3016 — Sachverhaltsschilderung im Rahmen berechtigter Interessenwahrnehmung ist auch dann zulaessig, wenn sie den Anderen nachteilig trifft.
-- OLG Muenchen, Urt. v. 17.03.2016 - 29 U 3682/15 — Passivkonstruktionen in neutraler Sachverhaltsschilderung loesen regelmassig keine Ehrschutzansprueche aus, solange keine falsche Tatsachenbehauptung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot und Wahrheitspflicht bei Sachverhaltsschilderungen
@@ -26,21 +23,20 @@ Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sa
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: neutrale Schilderung schutzt vor Haftung
 - § 193 StGB — Wahrnehmung berechtigter Interessen: Schutzbereich bei wahrheitsgemaesser sachlicher Darstellung
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 30-50 (Wahrheitspflicht und sachliche Darstellung)
-- MüKoZPO/Fritsche § 138 Rn. 20-40 (Wahrheitspflicht und Sachverhaltsdarstellung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundprinzipien der neutralen Darstellung
 
-Die wichtigsten Werkzeuge sind: Passivkonstruktionen (nicht „Sie haben versäumt" sondern „die Frist ist verstrichen"), Datumsbezüge statt unbestimmter Zeitangaben (nicht „seit Wochen" sondern „seit dem TT.MM.JJJJ"), unpersönliche Pronomen (nicht „Sie ignorieren" sondern „eine Rückmeldung steht noch aus"), Distanzierungsformeln (nicht „Sie behaupten" sondern „nach Ihrer Darstellung" oder „ausweislich Ihres Schreibens") sowie Trennung von Sachverhalt und Wertung.
+Die wichtigsten Werkzeuge sind: Passivkonstruktionen (nicht "Sie haben versäumt" sondern "die Frist ist verstrichen"), Datumsbezüge statt unbestimmter Zeitangaben (nicht "seit Wochen" sondern "seit dem TT.MM.JJJJ"), unpersönliche Pronomen (nicht "Sie ignorieren" sondern "eine Rückmeldung steht noch aus"), Distanzierungsformeln (nicht "Sie behaupten" sondern "nach Ihrer Darstellung" oder "ausweislich Ihres Schreibens") sowie Trennung von Sachverhalt und Wertung.
 
 ## Passiv vs. Aktiv
 
-Die Entscheidung zwischen Passiv und Aktiv hat im juristischen Kontext erhebliche Bedeutung. Passivkonstruktionen entlasten den Text von Schuldzuweisungen: „Eine Frist wurde bislang nicht gewährt" statt „Sie haben keine Frist gesetzt". Aktiv ist angebracht, wenn die handelnde Person bewusst benannt werden soll: „Mit Schreiben vom TT.MM.JJJJ hat die Gegenseite mitgeteilt...". Aktivkonstruktionen mit klarem Subjektbezug auf Dokumente oder Daten (nicht auf Personen) sind besonders effektiv.
+Die Entscheidung zwischen Passiv und Aktiv hat im juristischen Kontext erhebliche Bedeutung. Passivkonstruktionen entlasten den Text von Schuldzuweisungen: "Eine Frist wurde bislang nicht gewährt" statt "Sie haben keine Frist gesetzt". Aktiv ist angebracht, wenn die handelnde Person bewusst benannt werden soll: "Mit Schreiben vom TT.MM.JJJJ hat die Gegenseite mitgeteilt...". Aktivkonstruktionen mit klarem Subjektbezug auf Dokumente oder Daten (nicht auf Personen) sind besonders effektiv.
 
 ## Distanzierungsformeln
 
-Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Formeln: „nach Ihrer Darstellung", „ausweislich Ihrer E-Mail vom TT.MM.JJJJ", „wie Sie mitteilen", „soweit ich Ihrem Schreiben entnehme", „nach dem mir vorliegenden Sachstand". Diese Formeln signalisieren, dass der Schreiber die Aussage zitiert, ohne sie zu bestätigen oder abzulehnen.
+Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Formeln: "nach Ihrer Darstellung", "ausweislich Ihrer E-Mail vom TT.MM.JJJJ", "wie Sie mitteilen", "soweit ich Ihrem Schreiben entnehme", "nach dem mir vorliegenden Sachstand". Diese Formeln signalisieren, dass der Schreiber die Aussage zitiert, ohne sie zu bestätigen oder abzulehnen.
 
 ## Berufsrechtlicher Hintergrund
 
@@ -48,17 +44,17 @@ Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Fo
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Sie ignorieren mich seit Wochen."
-**Nachher:** „Eine Rückmeldung auf das Schreiben vom TT.MM.JJJJ steht bislang aus."
+**Vorher:** "Sie ignorieren mich seit Wochen."
+**Nachher:** "Eine Rückmeldung auf das Schreiben vom TT.MM.JJJJ steht bislang aus."
 
-**Vorher:** „Sie haben einfach die Frist verstreichen lassen, ohne mich zu informieren."
-**Nachher:** „Die Frist vom TT.MM.JJJJ ist verstrichen. Eine vorherige Mitteilung ist nicht erfolgt."
+**Vorher:** "Sie haben einfach die Frist verstreichen lassen, ohne mich zu informieren."
+**Nachher:** "Die Frist vom TT.MM.JJJJ ist verstrichen. Eine vorherige Mitteilung ist nicht erfolgt."
 
-**Vorher:** „Ihre Mandantin behauptet frech, sie habe nie zugestimmt."
-**Nachher:** „Nach der Darstellung Ihrer Mandantin liegt eine Zustimmung nicht vor."
+**Vorher:** "Ihre Mandantin behauptet frech, sie habe nie zugestimmt."
+**Nachher:** "Nach der Darstellung Ihrer Mandantin liegt eine Zustimmung nicht vor."
 
-**Vorher:** „Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
-**Nachher:** „Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
+**Vorher:** "Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
+**Nachher:** "Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
 
 ## Ausgabeformat
 

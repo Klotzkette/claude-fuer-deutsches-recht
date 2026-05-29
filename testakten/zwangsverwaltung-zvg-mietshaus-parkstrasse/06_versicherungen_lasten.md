@@ -109,7 +109,7 @@ Kehrbezirk Leipzig-Mitte; Kehrgeld und Abgasuntersuchung für 2026 fällig, Betr
 
 ## 5. Genehmigungsvorbehalt
 
-Prämienzahlungen für die Gebäudeversicherung bis zur laufenden Jahresprämie bedürfen keiner gerichtlichen Genehmigung (§ 156 ZVG, § 6 ZwVwV – „notwendige Erhaltungsmaßnahmen"). Die rückständige Halbjahresprämie wurde dem Gericht im Monatsbericht Mai 2026 mitgeteilt.
+Prämienzahlungen für die Gebäudeversicherung bis zur laufenden Jahresprämie bedürfen keiner gerichtlichen Genehmigung (§ 156 ZVG, § 6 ZwVwV – "notwendige Erhaltungsmaßnahmen"). Die rückständige Halbjahresprämie wurde dem Gericht im Monatsbericht Mai 2026 mitgeteilt.
 
 ---
 

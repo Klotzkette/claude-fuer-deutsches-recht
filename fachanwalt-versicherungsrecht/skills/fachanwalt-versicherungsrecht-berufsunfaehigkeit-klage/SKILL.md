@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage
-description: "Klage bei abgelehnter Berufsunfaehigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Taetigkeit ausgesprochen. Normen §§ 172 ff. VVG BU-Versicherung § 15 VVG Anzeigepflicht BAG-Begriff Berufsunfaehigkeit 50-Prozent-Grenze. Pruefraster Begriff Berufsunfaehigkeit letzte berufliche Taetigkeit Verweisung zumutbare andere Taetigkeit Gutachtenstreit Pruefverfahren. Output Klageschrift-Baustein mit Leistungsantrag Sachverstaendigenantrag Feststellungsantrag und Durchsetzungsstrategie. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und fachanwalt-versicherungsrecht-leistungsablehnung-pruefen."
+description: "Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen §§ 172 ff. VVG BU-Versicherung § 15 VVG Anzeigepflicht BAG-Begriff Berufsunfähigkeit 50-Prozent-Grenze. Prüfraster Begriff Berufsunfähigkeit letzte berufliche Tätigkeit Verweisung zumutbare andere Tätigkeit Gutachtenstreit Prüfverfahren. Output Klageschrift-Baustein mit Leistungsantrag Sachverständigenantrag Feststellungsantrag und Durchsetzungsstrategie. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen."
 ---
 
 # Berufsunfähigkeit-Klage
@@ -27,12 +27,12 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ### Standard
 
-- „Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
+- "Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
 - Verweisung auf vergleichbare Berufe
 
 ### Änderung 1989
 
-- BGH IV ZR 14/87: Verweisungs-Klausel ohne konkrete Verweisung unwirksam
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Heute: nur **konkrete** Verweisung (auf tatsächlich ausgeuebte Tätigkeit)
 
 ## 3) Ablehnungs-Gründe Versicherer
@@ -135,9 +135,7 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ## 8) Aktualität — BGH-Linien
 
-- BGH, Urt. v. 11.12.2019 — IV ZR 8/19 (Anzeige-Pflicht)
-- BGH, Urt. v. 22.4.2015 — IV ZR 419/13 (Verweisung)
-- BGH, Urt. v. 6.7.2016 — IV ZR 44/15 (50 %-Schwelle)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 9) Honorar
 
@@ -162,23 +160,21 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 22.04.2015 — **IV ZR 419/13**, NJW 2015, 1963 Rn. 24: Konkrete Verweisung in der BU-Versicherung setzt voraus, dass der Versicherte tatsächlich eine andere, vergleichbar vergütete Tätigkeit ausübt; bloße abstrakte Verweisungsmöglichkeit (theoretisch ausübbarer Beruf) genügt in neueren Vertragswerken nicht mehr für die Annahme von Berufsunfähigkeit ohne Versicherungsschutz.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.07.2016 — **IV ZR 44/15**, VersR 2016, 1173 Rn. 18: Die 50-Prozent-Schwelle der Berufsunfähigkeit bezieht sich auf die zuletzt ausgeübte Tätigkeit des Versicherten in ihrer konkreten Ausgestaltung; ein Vergleich mit einem typisierten Berufsbild ist unzulässig — maßgeblich ist die individuelle Tätigkeitsbeschreibung vor Eintritt der BU.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.06.2014 — **IV ZR 117/13**, NJW 2014, 2954 Rn. 12: Anzeigepflichtverletzung nach § 19 VVG gibt dem Versicherer nur dann ein Rücktrittsrecht, wenn er die verletzte Frage klar und eindeutig gestellt hat und den Versicherungsnehmer nach § 19 Abs. 5 VVG belehrt hat; ohne ordnungsgemäße Belehrung ist Rücktritt ausgeschlossen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 11.12.2019 — **IV ZR 8/19**, NJW 2020, 679 Rn. 20: Der Sachverständigenbeweis im BU-Prozess unterliegt der freien Beweiswürdigung nach § 286 ZPO; das Gericht ist nicht an das Gutachten gebunden und muss bei widerstreitenden Privatgutachten die methodische Überzeugungskraft beider Gutachten im Urteil begründen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 §§ 172 ff. VVG (BU-Versicherung) → § 19 VVG (Anzeigepflicht) → § 28 VVG (Obliegenheitsverletzung) → § 81 VVG (vorsätzliche/grob fahrlässige Herbeiführung) → § 286 ZPO (freie Beweiswürdigung Gutachten) → § 287 ZPO (Schadensschätzung) → § 402 ZPO (Sachverständiger) → § 195 BGB (Verjährung 3 Jahre) → § 203 BGB (Hemmung durch Verhandlungen) → § 256 ZPO (Feststellungsklage bei laufender Rente)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Prölss/Martin, VVG, 31. Aufl. 2021, §§ 172–176 VVG: Vollständige Kommentierung der BU-Versicherung, Begriffsdefinition, Verweisung, Nachprüfungsverfahren.
-- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, § 172 VVG Rn. 1 ff.: Abgrenzung Berufsunfähigkeit vs. Erwerbsminderung; Sachverständigenrecht im BU-Prozess.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Situation | Frist | Norm |
@@ -201,12 +197,12 @@ BGH, Urt. v. 11.12.2019 — **IV ZR 8/19**, NJW 2020, 679 Rn. 20: Der Sachverst�
 ```
 Ablehnung Versicherer?
 ├─ Verweisung → konkret oder abstrakt?
-│   ├─ Abstrakt → angreifbar (BGH IV ZR 419/13)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 │   └─ Konkret → übt Mandant Verweisungstätigkeit tatsächlich aus?
 ├─ Bestreiten BU-Grad → 50-%-Schwelle ärztlich belegen
 │   └─ Privatgutachten + gerichtliches Gutachten beantragen
 ├─ Anzeigepflichtverletzung → Belehrung erfolgt?
-│   ├─ Nein → Rücktritt ausgeschlossen (BGH IV ZR 117/13)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 │   └─ Ja → Kausalität zwischen Vorerkrankung und BU?
 └─ Verjährung → Verhandlungen dokumentieren (§ 203 BGB Hemmung)
 ```
@@ -247,7 +243,7 @@ BEGRÜNDUNG
 2. 50-%-Schwelle: Laut Privatgutachten Dr. [NAME] vom [DATUM]
    (Anlage K3) ist Kläger zu [X]% beeinträchtigt.
 3. Verweisung verfehlt: Versicherer verweist auf [Beruf] — nicht
-   konkret ausgeübt (BGH IV ZR 419/13).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Anzeigepflicht: Keine Belehrung § 19 Abs. 5 VVG (Anlage K5);
    Rücktrittsrecht des Versicherers ausgeschlossen.
 5. Verjährung: Durch Verhandlungen bis [DATUM] gehemmt (§ 203 BGB).

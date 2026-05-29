@@ -1,6 +1,6 @@
 ---
 name: forderungsverzicht-besserungsschein
-description: "Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Glaeubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfaehigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im insolvenzrechtlichen Status die verzichtete Forderung wird nicht passiviert. Steuerliche Folge beim Schuldner Ertragsbuchung (Sanierungserloes Sanierungsgewinn § 3a EStG bei Sanierungsbedarf). Beim Glaeubiger Forderungsausfall ggf abzugsfaehig."
+description: "Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Gläubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfähigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im insolvenzrechtlichen Status die verzichtete Forderung wird nicht passiviert. Steuerliche Folge beim Schuldner Ertragsbuchung (Sanierungserlös Sanierungsgewinn § 3a EStG bei Sanierungsbedarf). Beim Gläubiger Forderungsausfall ggf abzugsfähig."
 ---
 
 # Forderungsverzicht mit Besserungsschein
@@ -42,7 +42,7 @@ zwischen
 
   [Vor- und Nachname Gläubiger]
   [Anschrift]
-  - im Folgenden „der Gläubiger" -
+  - im Folgenden "der Gläubiger" -
 
 und
 
@@ -50,7 +50,7 @@ und
   vertreten durch [Geschäftsführer]
   [Anschrift]
   HRB [...] AG [...]
-  - im Folgenden „die Schuldnerin" -
+  - im Folgenden "die Schuldnerin" -
 
 1. Praeambel
 
@@ -133,7 +133,7 @@ Bei Sanierungsverzicht ist auf Gläubigergleichbehandlung zu achten. Wenn nur ei
 
 ### Besserungsschein-Trigger genau definieren
 
-Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klauseln wie „wenn es uns wieder besser geht" sind ungeeignet.
+Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klauseln wie "wenn es uns wieder besser geht" sind ungeeignet.
 
 ## Ausgabe
 
@@ -145,9 +145,7 @@ Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klausel
 
 ## Aktuelle Leitentscheidungen — Forderungsverzicht und Besserungsschein
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Forderungsverzicht als Sanierungsmassnahme: beseitigt Passivposten im insolvenzrechtlichen Status und verbessert Fortbestehensprognose; steuerlicher Sanierungserloes nach § 3a EStG bei Sanierungsplan.
-- BGH, Urt. v. 26.01.2006 — IX ZR 282/03, NZI 2006, 231 — Anfechtung von Forderungsverzichten: Glaeubiger, der in Kenntnis der Zahlungsunfaehigkeit verzichtet und gleichzeitig Sicherheit erhaelt, kann anfechtbar handeln (§ 133 InsO); echter Sanierungsplan schutzt.
-- BFH, Urt. v. 12.12.2023 — X R 29/22 — Sanierungsgewinn § 3a EStG: umfasst auch Forderungsverzichte von Gesellschaftern; Begueinstigungsvoraussetzungen (Sanierungsplan, Sanierungsabsicht, Sanierungseignung) muessen nachgewiesen werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Forderungsverzicht
 
@@ -160,12 +158,6 @@ Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klausel
 3. **Besserungsschein-Formulierung?** Bedingung klar definiert (Wiederherstellung ZF anhand konkreter Liquiditaets-Schwelle).
 4. **Anfechtungsschutz?** Verzicht muss Teil eines Gesamtsanierungskonzepts sein (IDW S 6 Qualitaet) um Vorsatzanfechtung § 133 InsO auszuschliessen.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Drukarczyk § 19 InsO Rn. 100 ff. — Passivierungsverbot durch Verzicht.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.30 — Forderungsverzicht mit Besserungsschein.
-- Uhlenbruck/Mock §§ 129-135 InsO Rn. 50 ff. — Anfechtungsrisiko bei selektivem Glaeubigerverzicht.
-<!-- AUDIT 27.05.2026
-Problem: BGH IX ZR 181/04 (Datum 02.06.2005, NZI 2005, 547 – "Besserungsschein: Wiederaufleben bei Wiederherstellung der Zahlungsfähigkeit") – WRONG_TOPIC und falsches Datum. BGH IX ZR 181/04 hat laut dejure.org Datum 03.11.2005 und betrifft Bürgenhaftung/§ 776 BGB (Absonderungsrecht, Verwertung durch Selbsteintritt), nicht Besserungsschein. BGH IX ZR 181/03 (02.06.2005) betrifft Sicherheitenpoolvertrag – ebenfalls kein Besserungsschein.
-Aktion: Eintrag gelöscht.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

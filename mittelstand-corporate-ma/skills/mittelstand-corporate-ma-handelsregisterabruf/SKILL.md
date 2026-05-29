@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-handelsregisterabruf
-description: "Handelsregister- und Registerabruf: offizielle Registerabrufe fuer Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff."
+description: "Handelsregister- und Registerabruf: offizielle Registerabrufe für Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff."
 ---
 
 # Handelsregister- und Registerabruf
@@ -26,15 +26,11 @@ Fuehrt offizielle Registerabrufe fuer Zielgesellschaft, Verkaeufer, Erwerber, Be
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.04.2011 - II ZR 163/10, NJW 2011, 2508 — Registeroeffentlichkeit: wer im Handelsregister eingetragene Tatsachen nicht kennt, kann sich auf Unkenntnis nicht berufen (§ 15 Abs. 2 HGB); dies gilt auch fuer anwaltliche Berater, die die oeffentlich zugaengliche Eintragung haetten einsehen koennen
-- BGH, Urt. v. 02.07.2019 - II ZR 406/17, NZG 2019, 985 — Gesellschafterliste § 16 GmbHG: massgeblich ist die zuletzt eingereichte Liste; Eintrag entfaltet Legitimationswirkung; gutglaeubiger Erwerb nach § 16 Abs. 3 GmbHG moeglich, wenn Liste mindestens 3 Jahre unberichtigt war
-- OLG Muenchen, Beschl. v. 22.03.2017 - 31 Wx 74/17, NZG 2017, 828 — HR-Eintragungspflicht: fehlt ein HR-Eintrag, der fuer Dritte relevant ist, hat der Inhaber keinen Schutz nach § 15 HGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Baumbach/Hopt, HGB, §§ 29-33 Rn. 1-50 (Handelsregisterpflicht)
-- Scholz/Seibt, GmbHG, § 16 Rn. 1-60 (Gesellschafterliste, Legitimationswirkung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Abruf-Liste erstellen:** alle zu recherchierenden Gesellschaften (inkl. Komplementaer-GmbH, Holdinggesellschaften) auflisten

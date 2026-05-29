@@ -58,7 +58,7 @@ Die Antragspflicht gemäß § 15a InsO ist daher nicht nur wegen Zahlungsunfähi
 
 ### 3. Subjektives Element
 
-Mir, dem unterzeichnenden Geschäftsführer, ist die Zahlungsunfähigkeit seit Anfang Mai 2024 bekannt. Mehrere Versuche, mit dem Mitgeschäftsführer Herrn Sebastian Richter eine außergerichtliche Sanierung zu vereinbaren (Bankgespräche bei der Sparkasse Frankfurt 02.05.2024 und 15.05.2024, Steuerberatergespräch 08.05.2024), sind erfolglos geblieben. Herr Richter weigert sich, dem Insolvenzantrag zuzustimmen, und hat angekündigt, dass er privat versuchen wolle, „Geld aufzutreiben".
+Mir, dem unterzeichnenden Geschäftsführer, ist die Zahlungsunfähigkeit seit Anfang Mai 2024 bekannt. Mehrere Versuche, mit dem Mitgeschäftsführer Herrn Sebastian Richter eine außergerichtliche Sanierung zu vereinbaren (Bankgespräche bei der Sparkasse Frankfurt 02.05.2024 und 15.05.2024, Steuerberatergespräch 08.05.2024), sind erfolglos geblieben. Herr Richter weigert sich, dem Insolvenzantrag zuzustimmen, und hat angekündigt, dass er privat versuchen wolle, "Geld aufzutreiben".
 
 Da gemäß § 15 Abs. 1 Satz 2 InsO jeder Geschäftsführer einzeln antragspflichtig ist, stelle ich diesen Antrag in eigener Verantwortung.
 
@@ -83,7 +83,7 @@ Da gemäß § 15 Abs. 1 Satz 2 InsO jeder Geschäftsführer einzeln antragspflic
 
 Bedauerlicherweise ist die Buchhaltung der Gesellschaft ab Oktober 2023 in zunehmend mangelhaftem Zustand. Ursachen:
 
-- Verlust des Mandats unseres bisherigen Steuerberaters StB Hartmann (Mandatsniederlegung 22.11.2023 mit der Begründung „erhebliche Diskrepanz Belege/Buchungen, fehlende Mitwirkung Geschäftsführung")
+- Verlust des Mandats unseres bisherigen Steuerberaters StB Hartmann (Mandatsniederlegung 22.11.2023 mit der Begründung "erhebliche Diskrepanz Belege/Buchungen, fehlende Mitwirkung Geschäftsführung")
 - Anschluss-Mandat war geplant, kam aber wegen Streit mit Herrn Richter über Auswahl des Nachfolgers nicht zustande
 - Q4 2023 Buchungen nur teilweise erfasst; Jahresabschluss 2023 nicht fertig
 - 2024 (Januar bis Mai) Buchungen praktisch nicht erfasst, lediglich Bankauszüge und Belegmappe vorhanden
@@ -128,4 +128,4 @@ _Florian Weber_
 ---
 
 **Hinweis des Gerichts (zu Akte genommen):**
-Am 22.05.2024, 14:38 Uhr, ist auch ein Antrag des Mitgeschäftsführers Herrn Sebastian Richter eingegangen, in dem dieser die „Rücknahme des Antrags des Herrn Weber" begehrt. Hierzu wird gesondert verfügt.
+Am 22.05.2024, 14:38 Uhr, ist auch ein Antrag des Mitgeschäftsführers Herrn Sebastian Richter eingegangen, in dem dieser die "Rücknahme des Antrags des Herrn Weber" begehrt. Hierzu wird gesondert verfügt.

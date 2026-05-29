@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung
-description: "Landwirt und Verpaechter streiten ueber Pacht oder Hof-Erbe und muessen Einigung aussergerichtlich versuchen. Pruefraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig fuer streitiges Gerichtsverfahren."
+description: "Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren."
 ---
 
 # Verhandlung und Schlichtung im Agrarrecht
@@ -35,9 +35,7 @@ Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpach
 
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
-| BGH | LwZR 1/19 | Pacht-Anpassung nur bei substanzieller Verhältnisänderung; ortsübliche Pacht = relevanter Vergleichsmaßstab |
-| OLG Stuttgart | 8 U 119/15 | § 23 LwVG-Schlichtung: schriftliche Anrufung des Landwirtschaftsgerichts genügt; kein formelles Gesuch erforderlich |
-| BGH | LwZR 3/05 | Kündigungsrecht Verpächter: Bewirtschaftungsmangel muss konkret und nachgewiesen sein; pauschale Vorwürfe reichen nicht |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Kommunikations-Pfade
 
@@ -203,7 +201,7 @@ Wir bitten um Anberaumung eines Schlichtungstermins.
 ## Beweislast und Darlegungslast
 
 - Bei § 593 BGB-Anpassung: Verlangende Partei legt Verhältnisänderung dar (LWK-Statistik, Bodenrichtwert).
-- Bei Bewirtschaftungsmangel: Verpächter muss konkreten Mangel benennen und belegen (BGH LwZR 3/05).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Im Schlichtungsverfahren: kein formelles Beweisverfahren; Glaubhaftmachung und Unterlagen genügen.
 
 ## Fristen
@@ -235,11 +233,11 @@ Wir bitten um Anberaumung eines Schlichtungstermins.
 - LwVG §§ 2, 13, 23
 - MediationsG §§ 1 ff.
 - ZPO §§ 278, 794
-- BGH LwZR 1/19; LwZR 3/05; OLG Stuttgart 8 U 119/15
-- Düsing/Martinez Agrarrecht; Lange/Wulff/Lüdtke-Handjery LPachtVG
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-BGH, Beschl. v. 25.10.2019 — **BLw 6/18**, NJW-RR 2020, 121 Rn. 14: Schlichtungsverfahren vor der Landwirtschaftsbehörde (LWA) ist Voraussetzung für die Zulässigkeit der Klage bei Pachtzins-Anpassungsstreitigkeiten in einigen Bundesländern; Nichtbetreiben des Schlichtungsverfahrens führt zur Unzulässigkeit der Klage (Prozessvoraussetzung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 24.09.2021 — **LwZR 2/19**, RdL 2022, 11 Rn. 16: Vergleich über Pachtverhältnis schließt künftige Nachabfindungsansprüche nach § 13 HöfeO nur aus, wenn dies ausdrücklich in die Vereinbarung aufgenommen wird; pauschale Erledigungsklauseln im Pacht-Vergleich sind eng auszulegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

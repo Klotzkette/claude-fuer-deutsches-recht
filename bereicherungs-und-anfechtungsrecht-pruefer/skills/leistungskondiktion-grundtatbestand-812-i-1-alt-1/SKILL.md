@@ -1,6 +1,6 @@
 ---
 name: leistungskondiktion-grundtatbestand-812-i-1-alt-1
-description: "Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Schritt-Schema pruefen: etwas erlangt, durch Leistung, ohne Rechtsgrund. Normen: §§ 812 813 814 817 818 819 BGB. Pruefraster: Erlangen, Leistungsbegriff, Rechtsgrundmangel, Ausschlussggruende, Umfang. Output: Bereicherungsanspruchs-Gutachten. Abgrenzung: nicht Alt. 2 Eingriffskondiktion."
+description: "Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Schritt-Schema prüfen: Erlangtes, Leistung, Rechtsgrund, Behaltensgrund, Ausschlussgründe und Umfang. Output: Bereicherungsanspruchs-Gutachten mit Abgrenzung zur Nichtleistungskondiktion."
 ---
 
 # Leistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 1 BGB
@@ -17,22 +17,31 @@ description: "Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Sch
 
 § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion) — § 812 Abs. 1 S. 2 Alt. 1 BGB (condictio ob causam finitam) — § 813 BGB (dauernde Einreden) — § 814 BGB (Kenntnis der Nichtschuld) — § 817 BGB (Gesetzes-/Sittenverstoß) — § 818 BGB (Umfang der Herausgabe) — § 819 BGB (verschärfte Haftung) — §§ 134, 138, 142 BGB (Nichtigkeitsgründe)
 
+## Dogmatischer Kontrollblick
+
+Prüfe die Leistungskondiktion nicht als bloße Rückholung eines Gegenstands. Baue immer eine kurze Vermögens- und Zweckanalyse ein:
+
+1. **Erlangtes:** Welcher messbare Vorteil ist dem Beklagten wirklich zugeflossen oder erspart worden?
+2. **Leistungszweck:** Welchen Zweck sollte die Zuwendung aus Sicht eines objektiven Empfängers erfüllen?
+3. **Rechtsgrund:** Gab es für diesen Zweck einen wirksamen Grund bei Leistung?
+4. **Behaltensgrund:** Darf der Empfänger den Vorteil heute noch behalten, obwohl der ursprüngliche Zweck fehlt, weggefallen oder nur teilweise erfüllt ist?
+5. **Risikozuweisung:** Würde eine Rückforderung eine gesetzliche oder vertragliche Risikoverteilung unterlaufen?
+
+Wenn eine dieser Ebenen unklar bleibt, verwende zuerst `rechtsgrund-und-behaltensgrund-prüfen` und bei gegenseitigen Verträgen zusätzlich `saldotheorie-rueckabwicklung-nichtiger-vertraege`.
+
 ## Rechtsprechung
 
-BGH, Urt. v. 10.02.1994 – III ZR 45/93, NJW 1994, 1461 — § 812 Abs. 1 S. 1 Alt. 1 BGB setzt voraus, dass der Empfänger etwas durch die Leistung des Gläubigers erlangt hat; maßgeblich ist, ob ein vermögensmäßig messbarer Vorteil zugeflossen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.11.1995 – XII ZR 192/93, NJW 1996, 250 — Fehlt der Rechtsgrund von Anfang an, entsteht der Kondiktionsanspruch sofort mit der Leistung; ist er nachträglich weggefallen (condictio ob causam finitam, § 812 Abs. 1 S. 2 Alt. 1 BGB), entsteht er mit dem Wegfall.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.1999 – XII ZR 313/98, NJW 2000, 203 — Der Entreicherungseinwand nach § 818 Abs. 3 BGB schützt den gutgläubigen Empfänger; er entfällt nach § 819 BGB bei Bösgläubigkeit und nach § 818 Abs. 4 BGB bei Rechtshängigkeit.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.03.2015 – IV ZR 414/13, NJW 2015, 1540 — Die Beweislast für das Fehlen des Rechtsgrundes trägt der Bereicherungsgläubiger; er muss darlegen, dass kein wirksamer Rechtsgrund bestanden hat oder dieser weggefallen ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 65–130 (Tatbestandsmerkmale, Rechtsgrund, Beweislast).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 1–38 (Überblick, Leistungsbegriff, Rechtsfolgen).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 130–200 (Rechtsgrund, Ausschlussgründe, Entreicherung).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Der Schuldner des Bereicherungsanspruchs hat etwas ohne rechtlichen Grund durch die Leistung des Gläubigers erlangt und ist daher zur Herausgabe verpflichtet (§ 812 Abs. 1 S. 1 Alt. 1 BGB).
@@ -41,11 +50,11 @@ Der Schuldner des Bereicherungsanspruchs hat etwas ohne rechtlichen Grund durch 
 
 ### 1. Etwas erlangt
 
-Jeder vermögenswerte Vorteil: Eigentum, Geld, Forderungen, Nutzungen, Befreiung von Verbindlichkeiten.
+Jeder vermögenswerte Vorteil: Eigentum, Geld, Forderungen, Nutzungen, Befreiung von Verbindlichkeiten, ersparte Aufwendungen oder ein wirtschaftlich bewertbarer Gebrauchsvorteil. Die Bezeichnung des Gegenstands reicht nicht; der Vorteil muss in der Vermögensbilanz des Empfängers nachvollziehbar werden.
 
 ### 2. Durch Leistung
 
-Bewusste und zweckgerichtete Mehrung fremden Vermögens (h.M. und BGH). Zweckbestimmung muss dem Empfänger erkennbar sein.
+Bewusste und zweckgerichtete Mehrung fremden Vermögens. Die Zweckbestimmung muss dem Empfänger erkennbar sein. In Mehrpersonenverhältnissen ist vor jeder Anspruchsformulierung eine Leistungskarte zu erstellen: Wer bestimmt den Zweck, wer soll tilgen, wem wird der Vorteil rechtlich zugerechnet?
 
 ### 3. Ohne Rechtsgrund
 
@@ -53,6 +62,18 @@ Bewusste und zweckgerichtete Mehrung fremden Vermögens (h.M. und BGH). Zweckbes
 - Vertrag nichtig (§§ 134, 138 BGB).
 - Vertrag wirksam angefochten (§ 142 BGB).
 - Rechtsgrund nachträglich weggefallen (Rücktritt, Bedingungseintritt).
+- Zweck verfehlt oder nicht erreicht, wenn der Zweck rechtlich beachtlich und für den Empfänger erkennbar war.
+- Teilmangel, etwa Überzahlung, falscher Zeitraum oder falsche Abrechnung.
+
+## Behaltensgrund nachschalten
+
+Auch bei fehlendem Rechtsgrund kann die Anspruchshöhe oder der Anspruch selbst an einer Behaltenswertung scheitern:
+
+- § 814 BGB bei positiver Kenntnis der Nichtschuld.
+- § 817 S. 2 BGB bei eigenem Gesetzes- oder Sittenverstoß.
+- Spezielle Rückabwicklung, etwa Rücktrittsrecht, Widerrufsrecht, EBV, Gesellschaftsrecht oder Insolvenzrecht.
+- Saldierung bei nichtigem gegenseitigem Vertrag.
+- § 818 Abs. 3 BGB nur nach Prüfung von Nutzungen, Surrogaten, ersparten Aufwendungen und Risikozurechnung.
 
 ## Rechtsfolge
 
@@ -69,8 +90,9 @@ Herausgabe des Erlangten (§ 818 Abs. 1 BGB). Bei Unmöglichkeit: Wertersatz (§
 1. Etwas erlangt (messbarer Vorteil)?
 2. Durch Leistung (bewusst, zweckgerichtet)?
 3. Ohne Rechtsgrund (ursprünglich fehlend oder nachträglich weggefallen)?
-4. Ausschlussgrund (§§ 813–817 BGB)?
-5. Umfang Herausgabe (§§ 818–819 BGB)?
+4. Behaltensgrund oder spezielles Rückabwicklungsregime?
+5. Ausschlussgrund (§§ 813–817 BGB)?
+6. Umfang Herausgabe (§§ 818–819 BGB)?
 
 ## Output-Template
 
@@ -83,6 +105,7 @@ Sachverhalt (kurz): [...]
 | Erlangter Vorteil | [...] (Geld / Sache / Forderung / Nutzung) |
 | Leistung (bewusst, zweckgerichtet) | ja / nein |
 | Rechtsgrund | fehlte von Anfang an / nachträglich weggefallen |
+| Behaltensgrund heute | nein / ja: [...] |
 | Ausschlussgrund (§§ 813–817 BGB) | nein / ja: [...] |
 | Entreicherung (§ 818 Abs. 3 BGB) | nein / ja: noch [...] EUR vorhanden |
 | Verschärfte Haftung (§ 819 BGB) | nein / ja: bösgläubig seit [...] |

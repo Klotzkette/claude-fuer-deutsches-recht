@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-automation-monitoring
-description: "Monitoring und Automatisierungen fuer laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Ueberwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Pruefraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO fuer manuelle Aufgabenlisten und zu Fristen-CP-Kalender."
+description: "Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Überwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Prüfraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO für manuelle Aufgabenlisten und zu Fristen-CP-Kalender."
 ---
 
 # Automationen und Monitoring (Corporate M&A)
@@ -22,17 +22,11 @@ Art. 17 MAR (Ad-hoc-Publizitaet; Insiderinformationen) — §§ 33 ff. WpHG (Sti
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067 — Vollzugsverbot § 41 GWB: Bereits vorbereitende Massnahmen koennen einen verbotenen Vollzug darstellen; das Monitoring des CP-Status "Fusionskontrolle" ist als Deal-Sicherung zwingend.
-- EuGH, Urt. v. 28.06.2018 – C-654/16, NJW 2018, 2633 Rn. 18 — Verarbeitung von Insiderinformationen auch im internen Monitoring erfordert klare Zugangsbeschraenkungen; unkontrollierter Informationsfluss verletzt Art. 8 MAR.
-- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 — CoC-Klauseln erfordern aktives Monitoring; unbemerkte Ausloesungen koennen Closing-Hindernisse schaffen.
-- OLG Frankfurt, Urt. v. 22.08.2018 – 13 U 35/17, NZG 2019, 112 Rn. 15 — Pflicht des Vorstands zur Einrichtung von Compliance-Monitoring-Systemen; fehlende Eskalationsregeln begruenden Haftungsrisiken nach § 93 AktG.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, § 41 Rn. 1 ff. (Vollzugsverbot; Monitoring-Pflicht bei CP-Deadlines).
-- Assmann, in: Assmann/Schneider/Mülbert, WpHR, 8. Aufl. 2023, Art. 17 MAR Rn. 20 ff. (Insiderinformationen; Ad-hoc-Pflicht; Monitoring-Systeme).
-- Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 10 ff. (Business Judgment Rule; Informationsbeschaffungspflicht des Vorstands).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Monitoring-Kategorien und Pruefliste
 
 ### A: Datenraum-Monitoring (Pre-Signing)
@@ -154,7 +148,7 @@ ALARM: [BESCHREIBUNG] — Eskalation an: [PERSON] — Frist: [DATUM]
 - §§ 55 ff. AWV (FDI-Screening)
 - § 40 GmbHG (Gesellschafterliste; Registerpublizitaet)
 - Art. 28 DSGVO (Datenschutz bei Monitoring-Dienstleistern)
-- BGH: `BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, § 41 Rn. 1 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

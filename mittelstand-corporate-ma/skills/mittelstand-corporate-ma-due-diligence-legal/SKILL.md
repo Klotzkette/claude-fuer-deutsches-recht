@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-due-diligence-legal
-description: "Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report fuer Share Deal und Asset Deal."
+description: "Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report für Share Deal und Asset Deal."
 ---
 
 # Legal Due Diligence
@@ -29,17 +29,11 @@ Fuehrt standardisierte Legal Due Diligence mit strukturierten Findings, Material
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — Due Diligence und Kenntnis: Kaeufer, der einen Unternehmensberater mit der Pruefung beauftragt, muss sich dessen Kenntnis von DD-Ergebnissen zurechnen lassen; unterbleibt die Untersuchung trotz Verdacht, kann dies Kenntnis des Mangels begruenden
-- BGH, Urt. v. 14.03.2003 - V ZR 64/02, NJW 2003, 1811 — Offenbarungspflicht: Verkaeuf er muss ungefragt alle wesentlichen Umstaende offen legen, die den Vertragszweck des Kaeufers gefaehrden; Verschweigen ist arglistige Taeusching nach § 123 BGB
-- BGH, Urt. v. 16.10.2012 - X ZR 37/12, BGHZ 195, 135 — Materiality: wesentlicher Mangel liegt vor, wenn der Kaeufer bei Kenntnis die Transaktion nicht oder nur zu anderen Konditionen geschlossen haette; Materiality-Schwelle ist am Einzelfall zu messen
-- OLG Frankfurt, Urt. v. 22.02.2021 - 23 U 70/19, NZG 2021, 680 — Red-Flag-Report-Haftung: anwaltliche Haftung bei unvollstaendigem Red-Flag-Report; wesentliche Risiken muessen auch bei eingeschraenktem Zeitrahmen benannt werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Westermann, §§ 437-444 Rn. 1-120 (Gewaehrleistung beim Unternehmenskauf)
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 2 (Due Diligence, Informationspflichten), 8. Auflage
-- Picot, Unternehmenskauf, Kapitel 2 (Legal DD, Materiality-Konzepte)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **DD-Scope festlegen:** Workstream-Matrix erstellen; Materiality-Schwellen mit Kaeufer abstimmen; Zeitplan und DD-Team staffeln

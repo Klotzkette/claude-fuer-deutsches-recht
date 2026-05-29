@@ -1,6 +1,6 @@
 ---
 name: verbaendeanhoerung-ressortabstimmung
-description: "Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten. Anwendungsfall Referentenentwurf ist fertig und muss Verbaenden und Ressorts zugeleitet werden vor Kabinettsbefassung. Anschreiben Liste zu beteiligender Verbaende Ressorts Fristsetzung drei bis sechs Wochen. Auswertung Stellungnahmen zustimmend kritisch ablehnend mit konkreten Aenderungsvorschlaegen. Eigene Stellungnahme je kritischer Position Aenderungen dokumentiert. Output Auswertungsmatrix geaenderter Entwurf bereit fuer Kabinett. Abgrenzung zu begruendung-allgemein-und-besonders inhaltliche Begruendung."
+description: "Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten. Anwendungsfall Referentenentwurf ist fertig und muss Verbaenden und Ressorts zugeleitet werden vor Kabinettsbefassung. Anschreiben Liste zu beteiligender Verbaende Ressorts Fristsetzung drei bis sechs Wochen. Auswertung Stellungnahmen zustimmend kritisch ablehnend mit konkreten Aenderungsvorschlaegen. Eigene Stellungnahme je kritischer Position Aenderungen dokumentiert. Output Auswertungsmatrix geaenderter Entwurf bereit für Kabinett. Abgrenzung zu begründung-allgemein-und-besonders inhaltliche Begründung."
 ---
 
 # Verbändeanhörung und Ressortabstimmung
@@ -70,19 +70,15 @@ Pro Änderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegan
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 15.12.1970 — 2 BvF 1/69, BVerfGE 29, 338 Rn. 40 — Anhoerungsrecht von Betroffenen-Verbaenden als Ausfluss des Rechtsstaatsprinzips und der Demokratieprinzips; kein individuelles Recht auf Verbands-Anhoerung aber Gebot sachgerechter Information
-- BVerwG, Urt. v. 18.03.2004 — 4 CN 4.02, BVerwGE 120, 239 Rn. 28 — Pflicht zur Verbandsbeteiligung nach § 63 BNatSchG; fehlerhafte oder vorenthaltene Verbandsbeteiligung fuehrt zur Rechtwidrig-keit wenn kausal fuer Entscheidung
-- BVerfG, Beschl. v. 12.01.1988 — 1 BvL 9/86, BVerfGE 77, 381 Rn. 38 — Ressortabstimmung nach GGO ist verfassungsrechtlich nicht erzwingbar; aber bei gravierenden Ressort-Kompetenz-Konflikten kann Omission zur Sachwalter-Verfehlung des Ministeriums fuehren
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 47-50 GGO (Ressortabstimmung, Verbands-Anhoerung) — § 63 BNatSchG (Verbandsbeteiligung Umwelt-NGOs) — § 47 Abs. 2 GGO (Fristen Ressortbeteiligung) — §§ 28, 29 VwVfG (Anhoerungsrecht Betroffener, Parallele zu Verbands-Beteiligung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 28 Rn. 1 ff. (Anhoerungsrecht, Verbands-Beteiligung)
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 13 Rn. 1 ff. (Ressortabstimmung, Verbaende-Beteiligung im Gesetzgebungsverfahren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - Verbandsliste (Excel)

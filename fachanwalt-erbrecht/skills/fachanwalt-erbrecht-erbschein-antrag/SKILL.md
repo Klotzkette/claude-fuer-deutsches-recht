@@ -1,23 +1,17 @@
 ---
 name: fachanwalt-erbrecht-erbschein-antrag
-description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Pruefraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht fuer Europaeisches Nachlasszeugnis."
+description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Prüfraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht für Europaeisches Nachlasszeugnis."
 ---
 
 # Erbschein-Antrag
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 10.04.2013 - IV ZB 19/12, NJW 2013, 1813 Rn. 12 — Das Nachlassgericht ist bei der Erteilung des Erbscheins auf die formalen Voraussetzungen beschraenkt; die materielle Gueltigkeit einer letztwilligen Verfuegung prueft es nur im Rahmen des Erbscheinsverfahrens summarisch.
-- BGH, Beschl. v. 19.06.2019 - IV ZB 30/17, NJW 2019, 2534 Rn. 12 — Ein eigenhaendiges Testament muss vollstaendig handschriftlich verfasst sein; Maschinenschrift fuehrt zur Nichtigkeit (kein formheilender Durchgriff moeglich).
-- BGH, Beschl. v. 29.04.2020 - IV ZB 2/19, NJW 2020, 2181 Rn. 14 — Das Europaeische Nachlasszeugnis nach Art. 62 ff. EU-ErbVO ist ein eigenstaendiger Titel; es entfaltet in allen EU-Mitgliedstaaten (ausser DK und IR) Wirkung und ersetzt in diesen Laendern einen nationalen Erbschein.
-- OLG Muenchen, Beschl. v. 23.05.2018 - 31 Wx 163/17, FamRZ 2018, 1500 Rn. 8 — Bei Erbscheinsantraegen, bei denen sich die gesetzliche Erbfolge und ein letztwilliges Testament widersprechen, hat das Nachlassgericht beide Erbfolgen zu pruefén und darf den Erbschein nicht auf Basis nur einer Erbfolge erteilen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MuKoBGB/Grziwotz, §§ 2353-2370 Rn. 1-60 (Erbschein, Antragsvoraussetzungen, Wirkung)
-- BeckOK BGB/Litzenburger, § 2356 Rn. 1-20 (eidesstattliche Versicherung)
-- Burandt/Rojahn, Erbrecht, § 343 FamFG Rn. 1-25 (Zustaendigkeit Nachlassgericht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Wann und wo ist der Erblasser verstorben? Wo war der letzte gewöhnliche Aufenthalt (Zuständigkeitsfrage § 343 FamFG)?
@@ -41,7 +35,7 @@ description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 
 - Gebühren nach GNotKG KV-Nr. 12210 — Wert ist der Nachlasswert; bei Eigenkostenpflicht zwei Gebühren (Erteilung Erbschein + eidesstattliche Versicherung).
 - Europäisches Nachlasszeugnis ergänzend bei Auslandsvermögen Art. 62 ff. EU-ErbVO; Antrag formularbasiert (Formblatt IV nach DurchführungsVO 1329/2014).
 
-Standardliteratur: Grüneberg BGB §§ 2353 ff.; MüKo-BGB / J. Mayer zu § 2353; Keidel/Sternal FamFG § 343.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beweislast und Risiken
 

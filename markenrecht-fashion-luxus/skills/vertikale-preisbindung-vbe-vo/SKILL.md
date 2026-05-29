@@ -1,6 +1,6 @@
 ---
 name: vertikale-preisbindung-vbe-vo
-description: "Vertikale Preisbindung und Vertikal-GVO-Compliance fuer Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Pruefraster: Verbotene Mindestpreise, zulaessige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus."
+description: "Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Prüfraster: Verbotene Mindestpreise, zulässige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus."
 ---
 
 # Vertikale Preisbindung und Vertikal-GVO
@@ -34,7 +34,7 @@ Als Anwältin kenne ich die Grenze zwischen verbotener Preisbindung und zulässi
    | MAP-Policy (Minimum Advertised Price) | Grauzone — im EU-Recht problematisch |
 
 2. **UPE-Konzept rechtssicher gestalten:**
-   - Klausel in Händlervertrag: „klôtzzkètté SA empfiehlt unverbindlich den Verkaufspreis von EUR [X]."
+   - Klausel in Händlervertrag: "klôtzzkètté SA empfiehlt unverbindlich den Verkaufspreis von EUR [X]."
    - Kein Monitoring mit Sanktionierung bei Abweichung (sonst Scheinfreistellung)
    - Kein direkter oder indirekter Druck auf Händler, UPE einzuhalten (kein Lieferstopp bei Unterschreitung)
    - Dokumentation: Händler erhält UPE-Information, aber keine Verpflichtung
@@ -70,9 +70,8 @@ klôtzzkètté möchte Online-Händler EUR 50 mehr je Produkt zahlen lassen als 
 
 - Vertikal-GVO (EU) 2022/720, ABl. L 134 v. 11.05.2022
 - Vertikalleitlinien der Kommission 2022/C 248, Rn. 100-220 (Preisbindung)
-- BeckOK Kartellrecht, Art. 4 Vertikal-GVO Rn. 1 ff.
-- EuGH, Urt. v. 04.06.2009 — C-8/08 (T-Mobile Netherlands) — bezweckte Wettbewerbsbeschränkung
-- BGH, Urt. v. 02.02.2021 — KZR 20/17 (Vertikale Preisbindung) — Hardcore
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bundeskartellamt, Jahresbericht 2022 (UPE-Problematik im Luxusgüterbereich)
 
 ## Templates
@@ -112,7 +111,7 @@ Dual Pricing (Online-Aufschlag pauschal) | NEIN      | Art. 4e VGG
 ## Risiken & Stolperfallen
 
 - **Monitoring = de facto Preisbindung:** Selbst wenn UPE im Vertrag steht, macht regelmäßiges Preismonitoring + Sanktionierung die UPE zur verbotenen Mindestpreisbindung (Bundeskartellamt-Linie)
-- **E-Mail-Beweise:** Interne E-Mails mit Formulierungen wie „Händler muss EUR 1.200 einhalten" sind gefährliche Beweise im Kartellverfahren
+- **E-Mail-Beweise:** Interne E-Mails mit Formulierungen wie "Händler muss EUR 1.200 einhalten" sind gefährliche Beweise im Kartellverfahren
 - **Dual-Pricing-Falle 2022:** Seit Vertikal-GVO 2022 ist Dual Pricing explizit als potentielle Hardcore-Beschränkung eingestuft — alter Vertrag muss angepasst werden
 - **Marktanteilsmonitor:** Jährliche Überprüfung ob 30 %-Schwelle überschritten wird — bei Überschreitung sofortige kartellrechtliche Beratung
 
@@ -126,8 +125,8 @@ Bevor die Preisklauseln in Händlerverträgen verabschiedet werden, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 02.02.2021 — KZR 20/17 (Vertikale Preisbindung Schulranzen):** Auch wenn ein Lieferant keine formelle Preisbindungsklausel einsetzt, begruendet ein systematisches Monitoring der Haendlerpreise mit anschliessenden Sanktionierungsdrohungen eine nach Art. 101 I AEUV verbotene bezweckte Wettbewerbsbeschraenkung.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 13.10.2011 — C-439/09 (Pierre Fabre):** Ein generelles Internetverkaufsverbot in selektiven Vertriebssystemen ist als Hardcore-Beschraenkung i.S.v. Art. 4 lit. c Vertikal-GVO einzustufen; es genuegt kein Nachweis, dass das Verbot dem Luxusimage des Produkts dient.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **Bundeskartellamt, Beschl. v. 26.08.2015 — B 11-13/14 (Sennheiser):** Hersteller verstoessen gegen Art. 101 AEUV, wenn sie Online-Haendler durch Preismonitoring-Software und drohende Lieferstopps faktisch auf die UPE verpflichten; die Absicht, das Luxusimage zu schuetzen, entschuldigt nicht.

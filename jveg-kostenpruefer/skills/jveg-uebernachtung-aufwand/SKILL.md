@@ -1,6 +1,6 @@
 ---
 name: jveg-uebernachtung-aufwand
-description: "Uebernachtungs- und Verpflegungskosten nach JVEG berechnen: Pauschalen und Einzelnachweise. Normen: § 6 JVEG. Pruefraster: Uebernachtungserfordernis, Hotelkosten, Verpflegungspauschalen. Output: Uebernachtungskosten-Nachweis JVEG. Abgrenzung: nicht Fahrtkosten § 5 JVEG."
+description: "Übernachtungs- und Verpflegungskosten nach JVEG berechnen: Pauschalen und Einzelnachweise. Normen: § 6 JVEG. Prüfraster: Übernachtungserfordernis, Hotelkosten, Verpflegungspauschalen. Output: Übernachtungskosten-Nachweis JVEG. Abgrenzung: nicht Fahrtkosten § 5 JVEG."
 ---
 
 # JVEG-Uebernachtung-Aufwand
@@ -24,16 +24,14 @@ Prüfe Ansprüche auf Tagegeld und Übernachtungsgeld nach §§ 11–12 JVEG auf
 - § 5 JVEG (Fahrtkostenabgrenzung)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Übernachtungskosten sind nur in der tatsächlich notwendigen Höhe erstattungsfähig; eine schlichte Hotelrechnung ohne Notwendigkeitsnachweis kann auf die BRKG-Grenze gekürzt werden.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Tagegeld-Ansprüche sind an die BRKG-Staffelung gebunden; An- und Abreisetag zählen als halbe Tage.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Eine Übernachtung ist nur notwendig, wenn Hin- und Rückreise am selben Tag bei zumutbaren Bedingungen nicht möglich waren.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Ohne Hotelrechnung im Original ist Übernachtungsgeld auf den Pauschalbetrag nach § 12 JVEG zu kürzen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 11–12 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 11–12 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 11 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Reise-/Übernachtungsposition in JVEG-Rechnung oder Kostenfestsetzungsantrag.
 

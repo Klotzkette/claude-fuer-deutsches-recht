@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild. Normen: §§ 631 633 650a ff. BGB, VOB/B. Pruefraster: Werkvertrag vs. Bauvertrag, Mangelkatalog, Fristen, Interessenlage. Output: Erstgespraeches-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Klageschrift oder Gutachten."
+description: "Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild. Normen: §§ 631 633 650a ff. BGB, VOB/B. Prüfraster: Werkvertrag vs. Bauvertrag, Mangelkatalog, Fristen, Interessenlage. Output: Erstgespraeches-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Klageschrift oder Gutachten."
 ---
 
 # Erstgespraech und Mandatsannahme im Privates Baurecht, Architekten- und Ingenieurrecht

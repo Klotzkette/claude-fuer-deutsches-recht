@@ -1,6 +1,6 @@
 ---
 name: energierecht-energievertraege
-description: "Energieliefervertraege pruefen und entwerfen: Strom- und Gasliefervertraege mit Industrie- und Privatkunden. Normen: §§ 41 ff. EnWG, StromGVV, GasGVV. Pruefraster: Preisanpassungsklauseln, Laufzeiten, Sonderkuendigungsrecht, Lieferbedingungen. Output: Vertragspruefergebnis oder Vertragsentwurf. Abgrenzung: nicht Netzanschlussvertrag."
+description: "Energieliefervertraege prüfen und entwerfen: Strom- und Gasliefervertraege mit Industrie- und Privatkunden. Normen: §§ 41 ff. EnWG, StromGVV, GasGVV. Prüfraster: Preisanpassungsklauseln, Laufzeiten, Sonderkündigungsrecht, Lieferbedingungen. Output: Vertragsprüfergebnis oder Vertragsentwurf. Abgrenzung: nicht Netzanschlussvertrag."
 ---
 
 # Energie-Verträge — Strukturierung und Prüfung
@@ -53,7 +53,7 @@ Behandelt die Vertrags-Architektur im Energie-Bereich: Liefer-Verträge Strom / 
 - §§ 305 ff. BGB
 - Bei Haushaltskunden besonders streng
 - Bei Industrie-Sondervertrag Verhandlungs-Vertrag möglich
-- BGH VIII ZR-Linien
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — Preisanpassungs-Klauseln
 
@@ -66,9 +66,7 @@ Behandelt die Vertrags-Architektur im Energie-Bereich: Liefer-Verträge Strom / 
 
 ### Wirksamkeits-Kriterien BGH
 
-- BGH VIII ZR 56/08 zu Grund-Tarif-Anpassung
-- BGH VIII ZR 191/18 zu Sondervertrags-Anpassung
-- BGH VIII ZR 263/22 (Fernwärme, 2024) — Anwendung auf Energie generell
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Häufige Klausel-Fehler
 
@@ -126,7 +124,7 @@ Behandelt die Vertrags-Architektur im Energie-Bereich: Liefer-Verträge Strom / 
 
 ### BGH-Linie
 
-- BGH EnVR 25/16 zu Konzessions-Wettbewerb
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BGH EnVR-Linie zu Übernahme-Bedingungen
 
 ## Schritt 5 — Industrie-Sondervertrag
@@ -164,7 +162,7 @@ Kern-Punkte hier:
 
 - AVBFernwärmeV als Standard-AGB
 - Preisanpassungs-Klauseln nach § 24 Abs. 4 AVBFernwärmeV
-- BGH VIII ZR 263/22 (2024) zu Klausel-Wirksamkeit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vertragsdauer max. 10 Jahre + Verlängerung
 
 ## Schritt 7 — Mieterstrom-Vertrag
@@ -249,20 +247,15 @@ Kern-Punkte:
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 28.10.2015 — VIII ZR 158/11, NJW 2016, 475 — Preisanpassungsklausel in Energievertraegen muss hinreichend bestimmt und transparent sein; einseitiges Leistungsbestimmungsrecht nach § 315 BGB setzt billiges Ermessen voraus; Billigkeitspruefung durch Gericht moeglich
-- BGH, Urt. v. 24.03.2021 — VIII ZR 263/19, NJW 2021, 1596 — AGB-Klauseln in Energievertraegen zur Spotpreis-Indizierung von Fernwaerme-Preisen halten AGB-Inhaltskontrolle stand, wenn Anpassungs-Mechanismus hinreichend transparent und fuer Kunden nachvollziehbar
-- BGH, Urt. v. 06.04.2016 — VIII ZR 79/15, NJW 2016, 2101 — Grundversorgungs-Tarif-Aenderung bedarftransparente Bekanntgabe; fehlende Bekanntgabe fuehrt zur Unwirksamkeit der Tarif-Aenderung gegenueber dem Kunden
-- OLG Duesseldorf, Urt. v. 09.03.2022 — VI-2 U 5/21, ZNER 2022, 134 — Hardship-Klausel in Energie-Grosskunden-Vertrag begruendet Anpassungspflicht bei dauerhafter wesentlicher Aenderung der Preis-Grundlagen; Gaspreis-Krise 2022 als Ausloese-Ereignis anerkannt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 315 BGB (billiges Ermessen Leistungsbestimmung) — §§ 305-310 BGB (AGB-Kontrolle) — §§ 36-38 EnWG (Grundversorgung) — § 46 EnWG (Konzessionsvertrag) — AVBEltV / AVBFernwaermeV (Vertragsbeziehungen Grundversorgung) — §§ 313, 314 BGB (Stoerung Geschaeftsgrundlage, Hardship)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 36-38 Rn. 1 ff. (Grundversorgung, Sondervertrag)
-- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 315 Rn. 1 ff. (billiges Ermessen) und §§ 305 ff. Rn. 1 ff. (AGB-Kontrolle Energie)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-vertrieb-marktrollen`
@@ -279,7 +272,6 @@ Kern-Punkte:
 - StromGVV / GasGVV
 - AVBFernwärmeV
 - EEG § 21 Mieterstrom
-- BGH VIII ZR 56/08, 191/18, 263/22, 304/16
-- BGH EnVR 25/16 (Konzession)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DIS / ICC Schieds-Standards
 - Schiedsstelle Energie

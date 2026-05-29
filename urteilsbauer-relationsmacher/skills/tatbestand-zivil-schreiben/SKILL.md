@@ -1,12 +1,11 @@
 ---
 name: tatbestand-zivil-schreiben
-description: "Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Pruefraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klaegervorbringen mit Antrag, Beklagtenvorbringen mit Antrag, Bezugnahmen auf Anlagen. Output Tatbestand-Entwurf: knapp, nuechtern, objektiv im Urteilsstil. Abgrenzung: Entscheidungsgruende siehe entscheidungsgruende-zivil-schreiben; Relation (Vorstufe) siehe relation-zivil."
+description: "Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Prüfraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klaegervorbringen mit Antrag, Beklagtenvorbringen mit Antrag, Bezugnahmen auf Anlagen. Output Tatbestand-Entwurf: knapp, nuechtern, objektiv im Urteilsstil. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Relation (Vorstufe) siehe relation-zivil."
 ---
 
 # Tatbestand schreiben
 
 Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesens, nicht im Perfekt.
-
 
 ## Triage zu Beginn
 
@@ -18,8 +17,7 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.03.2015 - II ZR 15/14, NJW 2015, 2041 — Streitiges Vorbringen ist im Tatbestand als Parteivorbringen zu kennzeichnen ("Der Kläger behauptet ..."); nicht als festgestellte Tatsache darstellen.
-- BVerfG, Beschl. v. 25.07.2012 - 1 BvR 2640/11, NJW 2013, 289 — Tatbestand muss den Streitgegenstand klar umreißen; lückenhafter Tatbestand verletzt Anspruch auf rechtliches Gehör.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -28,16 +26,10 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 - § 320 ZPO — Tatbestandsberichtigung auf Antrag
 - § 286 ZPO — Beweiswürdigung (gehört in Entscheidungsgründe, nicht Tatbestand)
 
+## Quellenregel
 
-<!-- AUDIT 27.05.2026: BGH V ZR 282/16 (22.09.2017) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH VI ZR 94/03 (10.02.2004) entfernt – real topic § 540 ZPO Berufungsurteilsinhalt (BGHZ 158,60; NJW 2004,1389), nicht § 313 ZPO Bezugnahme (WRONG_TOPIC). -->
-## Kommentarliteratur
-
-- Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 10-20 (Tatbestand Inhalt und Form)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 314 Rn. 1-10 (Beweiskraft)
-- MüKo-ZPO/Musielak, 6. Aufl. 2022, § 320 Rn. 1-15 (Tatbestandsberichtigung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -61,7 +53,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Tatbestand wird angesteuert auf Revision | Revisionssichere Tatbestandsdarstellung; alle relevanten Tatsachen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template
 

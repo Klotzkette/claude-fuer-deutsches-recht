@@ -1,5 +1,14 @@
 # Testakte: Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-befristungskontrollklage-vogt-stadtwerke` (diese Akte) | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktiver Beispielfall** zur Demonstration der `entfristung-*`-Skills im Plugin `arbeitsrecht`.
 
 ---
@@ -18,7 +27,7 @@ Die Vertragsunterzeichnung verlief vollständig elektronisch: Personalreferentin
 versandte den Arbeitsvertrag am 14. Februar 2024 per E-Mail als PDF-Anhang. Vogt druckte das
 Dokument zu Hause aus, unterzeichnete es handschriftlich, scannte es ein und sandte das
 Scan-PDF am 16. Februar 2024 per E-Mail zurück. Ein beidseitig original unterschriebenes
-Papierdokument existiert nicht. Schönfeld hatte Vogt zugesagt, sie erhalte „am ersten Tag ein
+Papierdokument existiert nicht. Schönfeld hatte Vogt zugesagt, sie erhalte "am ersten Tag ein
 Originalexemplar"; tatsächlich lag am 01. März 2024 im Einführungsordner kein solches Exemplar.
 Dieses Vorgehen begründet einen Schriftformverstoß nach § 14 Abs. 4 TzBfG i.V.m. § 126 BGB,
 mit der Folge, dass die Befristungsabrede nichtig ist und das Arbeitsverhältnis gemäß § 16
@@ -97,16 +106,17 @@ rechtskräftiges Feststellungsurteil.
 ## Rechtliche Knackpunkte dieser Akte
 
 1. **Schriftformverstoß § 14 Abs. 4 TzBfG** — Die Befristungsabrede bedarf nach § 14 Abs. 4
-   TzBfG der Schriftform i.S.d. § 126 BGB. Eine eingescannte Unterschrift, die per E-Mail
-   übersandt wird, erfüllt diese Anforderung nicht; die elektronische Form ist gemäß § 14
-   Abs. 4 TzBfG i.V.m. § 125 BGB ausdrücklich ausgeschlossen. Rechtsfolge: Die
-   Befristungsabrede ist nichtig; der Vertrag gilt nach § 16 Satz 1 TzBfG als auf
-   unbestimmte Zeit geschlossen.
+   TzBfG der Schriftform. Eine eingescannte Unterschrift, die per E-Mail übersandt wird,
+   erfüllt weder § 126 BGB noch § 126a BGB; eine qualifizierte elektronische Signatur liegt
+   in der Akte gerade nicht vor. Rechtsfolge: Die Befristungsabrede ist nichtig; der Vertrag
+   gilt nach § 16 Satz 1 TzBfG als auf unbestimmte Zeit geschlossen.
 
 2. **Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG** — Vogt war 2021 (3 Monate,
    Ferienaushilfe, Lager/Posteingang) beim selben Arbeitgeber beschäftigt. Abstand 2 J. 5 M.
-   BVerfG 2018 (1 BvL 7/14): kein zwingender Verstoß bei sehr lange zurückliegender
-   Vorbeschäftigung; hier anderer Bereich, anderer Standort, anderer Vertragstyp → Hilfsargument.
+   BVerfG 2018 (1 BvL 7/14): keine starre Drei-Jahres-Grenze; Ausnahmen kommen bei sehr
+   lange zurückliegender, ganz anders gearteter oder sehr kurzer Vorbeschäftigung in Betracht.
+   Hier anderer Bereich, anderer Standort, anderer Vertragstyp → vertretbares Hilfsargument,
+   aber nicht der stärkste Angriff.
 
 3. **3-Wochen-Frist § 17 TzBfG** — Frist läuft 20.03.2026 ab. Erstgespräch 09.03.2026 →
    Klage muss noch diese Woche eingereicht werden.

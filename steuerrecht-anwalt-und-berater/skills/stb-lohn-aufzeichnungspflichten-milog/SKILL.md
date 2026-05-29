@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-aufzeichnungspflichten-milog
-description: "Aufzeichnungspflichten nach MiLoG § 17 fuer Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Pruefung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Loesungen. Output Aufzeichnungssystem Mandanten-Notiz."
+description: "Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz."
 ---
 
 # Aufzeichnungspflichten nach MiLoG § 17
@@ -18,7 +18,7 @@ Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft
 5. Werden Pausen erfasst?
 6. Wer hat Aufzeichnungs-Verantwortung (Mandant oder StB)?
 7. Welche Pruefung durch Zoll-Hauptzollamt schon erfolgt?
-8. Bei allgemeiner Arbeitszeit-Erfassung Pflicht — Mandant informiert (BAG 1 ABR 22/21)?
+8. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtlicher Rahmen
 
@@ -30,14 +30,13 @@ Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft
 
 **§ 16 ArbZG** — Aufzeichnungspflicht Mehrarbeit allgemein.
 
-**Art. 31 Abs. 2 GR-Charta + RL 2003/88/EG** — EuGH C-55/18 ("CCOO"): Arbeitgeber-Pflicht zur allgemeinen Arbeitszeit-Erfassung; BAG-Umsetzung BAG 1 ABR 22/21.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen
 
-- EuGH C-55/18 v. 14.05.2019 — Verpflichtung zur Arbeitszeit-Erfassung.
-- BAG 1 ABR 22/21 v. 13.09.2022 — Umsetzung in Deutschland; allgemeine Pflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-(Aktenzeichen vor Uebernahme in juris/beck-online verifizieren.)
+(Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.)
 
 ## Workflow
 
@@ -90,7 +89,7 @@ Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft
 
 ## Strategie und Praxis-Tipps
 
-- BAG 1 ABR 22/21 verschaerft die Pflicht erheblich — alle Mandanten ggf. mit System ausstatten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Sondersituation Aussendienst, Home-Office: Aufzeichnung am Ort der Taetigkeit.
 - Bei Pruefung durch Zoll: Vorlage in Deutsch in Originalform oder beglaubigter Uebersetzung.
 - Bei Minijob: Aufzeichnung ist zentrale Pruefungsstelle der Pruefer.
@@ -111,5 +110,6 @@ Stand: 05/2026.
 - MiLoG §§ 17, 21.
 - SchwarzArbG § 2a.
 - ArbZG § 16.
-- EuGH C-55/18.
-- BAG 1 ABR 22/21.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Pruefungshinweis neu formuliert ohne Marker) -->

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-einlassung-vorbereiten
-description: "Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO. Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teilschweigen kann gewuerdigt werden. Strategie nach Aktenlage Beweiswert Belastungszeugen Bewertung Indizien. Schriftliche oder muendliche Einlassung Schutz vor Falschangaben Glaubwuerdigkeitsanalyse. Einlassung wirkt nach BGH zugunsten Beweisbewertung."
+description: "Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO. Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teilschweigen kann gewürdigt werden. Strategie nach Aktenlage Beweiswert Belastungszeugen Bewertung Indizien. Schriftliche oder muendliche Einlassung Schutz vor Falschangaben Glaubwürdigkeitsanalyse. Einlassung wirkt nach BGH zugunsten Beweisbewertung."
 ---
 
 # Einlassung vorbereiten
@@ -16,18 +16,17 @@ description: "Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweig
 
 ## Strategische Grundlagen
 
-- Schweigerecht § 136 Abs. 1 Satz 2 StPO — vollumfänglich, darf nicht zum Nachteil gewertet werden (BGH 5 StR 138/04, Urt. v. 13.07.2004, Rn. 13; st. Rspr.).
-- Teilschweigen kann jedoch in die Beweiswürdigung einfließen wenn der Beschuldigte sich teilweise einlässt und dann verstummt (BGH 1 StR 240/12, Urt. v. 06.11.2012, Rn. 14).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Lüge ist nicht strafbar als solche aber kann beweisrechtlich gegen den Beschuldigten ausschlagen.
 - Schriftliche Einlassung über den Verteidiger ist regelmäßig sicherer — keine spontanen Aussagen unter Druck, präzise Formulierung, Dokumentation.
 - Mündliche Einlassung in der Hauptverhandlung kann strategischen Mehrwert haben (persönlicher Eindruck Glaubwürdigkeit).
 
-Standardliteratur: Meyer-Goßner/Schmitt StPO § 136 § 243; Beck'sches Strafverteidigerhandbuch / Eisenberg Beweisrecht der StPO.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast und Würdigung
 
 - In dubio pro reo: Bei nicht ausräumbaren Zweifeln Freispruch.
-- Glaubwürdigkeitsbeurteilung erfolgt unter Berücksichtigung des Aussageverhaltens — Konstanz, Detailreichtum, Erlebnistypizität, Nebensächlichkeiten (BGH 1 StR 618/98, Urt. v. 30.07.1999).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Einlassung kann der Verteidigung dienen wenn sie die Tatversion plausibel macht oder Beweise zugunsten des Beschuldigten einleitet.
 
 ## Strategie-Matrix
@@ -112,5 +111,4 @@ Mit kollegialen Gruessen
 
 ## Ergaenzende Rechtsprechung Einlassung
 
-- BVerfG, Beschl. v. 09.07.1979 - 2 BvR 537/79, BVerfGE 51, 324 — Schweigerecht des Beschuldigten ist Ausfluss des nemo-tenetur-Grundsatzes (Art. 2 I i.V.m. Art. 1 I GG); das Gericht darf aus dem Schweigen keine fuer den Angeklagten nachteiligen Schluesse ziehen.
-- BGH, Urt. v. 03.12.2015 - 4 StR 223/15, NStZ 2016, 351 — Beweiswuerdigung bei wechselnden Einlassungen: spaeteres Gestaendnis nach anfaenglichem Leugnen verliert nicht automatisch seine strafmildernde Wirkung nach § 46 II StGB; Gericht muss Gesamtverhalten wuerdigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

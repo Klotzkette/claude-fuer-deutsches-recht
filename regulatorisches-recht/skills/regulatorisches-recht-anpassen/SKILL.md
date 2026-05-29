@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-anpassen
-description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Pruefraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht fuer Neuerstellung von Richtlinien (richtlinien-neufassung)."
+description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht für Neuerstellung von Richtlinien (richtlinien-neufassung)."
 ---
 
 # Praxisprofil anpassen
@@ -56,18 +56,15 @@ Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerwG, Urt. v. 23.10.2019 — 10 C 1.18, NVwZ 2020, 475 — Anpassungspflicht bei Aenderung regulatorischen Rechts; Behörde muss bei wesentlicher Aenderung der Rechtsgrundlage Bescheide von Amts wegen anpassen oder aufheben; Bestandsschutz nur bei Vertrauens-Schutz-Voraussetzungen
-- EuGH, Urt. v. 22.11.2017 — C-251/16, NVwZ 2018, 345 — regulatorische Anpassungspflicht bei neuem EU-Recht; nationales Recht muss binnen Umsetzungsfrist angepasst werden; spaetere Anpassung durch Gerichte nur im Wege richtlinienkonformer Auslegung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
 §§ 48, 49 VwVfG (Ruecknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, §§ 48-49 Rn. 1 ff. (Anpassung von Verwaltungsakten)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 11 Rn. 10 ff. (Bestandsschutz vs. Anpassungspflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -81,7 +78,7 @@ Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderu
 
 ## Beispiel
 
-**Eingabe:** „Bitte die BNetzA als weitere beobachtete Behörde hinzufügen. Feed: https://www.bundesnetzagentur.de/DE/Presse/RSS/rss_node.html"
+**Eingabe:** "Bitte die BNetzA als weitere beobachtete Behörde hinzufügen. Feed: https://www.bundesnetzagentur.de/DE/Presse/RSS/rss_node.html"
 
 **Ausgabe:**
 

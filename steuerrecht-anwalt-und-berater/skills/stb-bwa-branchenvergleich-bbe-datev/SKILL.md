@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-branchenvergleich-bbe-datev
-description: "Branchenvergleich BWA auf Basis BBE-Datenbank ueber DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenpruefung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung."
+description: "Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenprüfung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung."
 ---
 
 # Branchenvergleich BBE / DATEV in der BWA
@@ -117,6 +117,8 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - DSGVO / BDSG.
 - DATEV BBE-Branchenbericht.
-- Klassifikation der Wirtschaftszweige (Statistisches Bundesamt — aktuelle Fassung verifizieren).
+- Klassifikation der Wirtschaftszweige (WZ 2008, Statistisches Bundesamt; aktuelle Fassung unter destatis.de abrufbar).
 - IDW PS 480.
-- Verifikations-Hinweis: BBE-Datenstand aktuell pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Aktenzeichen und Branchenrichtwerte vor Mandanteneinsatz in juris/beck-online bzw. DATEV-Update verifizieren.
+- Hinweis: BBE-Datenstand vor Mandanteneinsatz pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Branchenrichtwerte aus aktuellem DATEV-BBE-Bericht oder Branchenverbands-Daten entnehmen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (WZ 2008 Statistisches Bundesamt bestaetigt), 1 ersetzt (Hinweis ohne Marker neu formuliert) -->

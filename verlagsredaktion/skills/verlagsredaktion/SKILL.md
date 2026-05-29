@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Juristischer Autor oder Verlag benoetigt Redaktionsunterstuetzung fuer Aufsatz Kommentierung Buchkapitel Festschriftbeitrag. Redaktionsassistent juristische Verlage. Modus A Rohmanuskript: aus Audiotranskripten Konzeptpapieren Slides Videos handschriftlichen Notizen erste Manuskriptfassung als Anschubhilfe. Modus B Edition: umgliedern verdichten Widersprueche erkennen veredeln auf hohem Niveau. Zitierweise Hauszitierweise Pinpoint-Randnummer BGH-RSP zuerst Grueneberg MuenchKomm vorrangig. Output: Manuskript-Entwurf oder ediertes Manuskript mit transparenter Eigenleistungsabgrenzung. Abgrenzung zu hauseigenem Schreibservice (kein fertiger Text)."
+description: "Juristischer Autor oder Verlag benoetigt Redaktionsunterstuetzung für Aufsatz Kommentierung Buchkapitel Festschriftbeitrag. Redaktionsassistent juristische Verlage. Modus A Rohmanuskript: aus Audiotranskripten Konzeptpapieren Slides Videos handschriftlichen Notizen erste Manuskriptfassung als Anschubhilfe. Modus B Edition: umgliedern verdichten Widersprueche erkennen veredeln auf hohem Niveau. Zitierweise Hauszitierweise Pinpoint-Randnummer; Literatur nur aus Nutzerquelle oder lizenziertem Live-Zugriff. Output: Manuskript-Entwurf oder ediertes Manuskript mit transparenter Eigenleistungsabgrenzung. Abgrenzung zu hauseigenem Schreibservice (kein fertiger Text)."
 ---
 
 # Verlagsredaktion
@@ -29,7 +29,7 @@ Material kommt und was die Redaktion ergänzt hat.
 - Videoausschnitte mit Transkript oder Untertiteln
 - Handschriftliche Notizen mit OCR
 - Eigene ältere Texte des Autors zur Stilreferenz
-- Beigefügte Rechtsprechung und Kommentarliteratur
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Optional: Redaktions-Leitlinien des Verlags (Hauszitierweise
   Spaltenbreite Fußnotenstil Umfangsvorgabe)
 
@@ -93,30 +93,23 @@ Format: Gericht Urteil oder Beschluss vom Datum — Aktenzeichen
 Fundstelle Randnummer.
 
 Beispiele:
-- BGH Urteil vom 12. Januar 2022 — VIII ZR 42/21 NJW 2022 S. 1234
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Rn. 24
-- BGH Beschluss vom 8. April 2024 — XII ZB 232/23 NJW-RR 2024
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   S. 567 Rn. 11
-- OLG Nürnberg Beschluss vom 30. November 2023 — 15 Wx 988/23
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   NJW-RR 2023 S. 1307
 
 Reihenfolge juengere zuerst. Bei mehreren Belegen Punkt-Trennung.
 
-### Kommentarliteratur
+### Quellenregel
 
-Vorrangig Grüneberg und Münchener Kommentar. Format: Bearbeiter
-in Herausgeber Kommentartitel Auflage Jahr § Randnummer.
-
-Beispiele:
-- Ellenberger in Grüneberg BGB 83. Auflage 2024 § 138 Rn. 51
-- Schaefer in MuenchKomm BGB 9. Auflage 2023 § 823 Rn. 412
-- Pohlmann in Wieczorek/Schuetze ZPO 5. Auflage 2024 § 91 Rn. 7
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Aufsätze
 
 Format: Autor Titel Zeitschrift Jahr Anfangsseite konkrete Seite.
 
-Beispiel: Mueller Die Grenzen der Vertragsfreiheit NJW 2023
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 S. 1234 konkret S. 1237.
 
 ### Woertliche Zitate
@@ -186,7 +179,7 @@ Modus B:
 Verlagsmaterialien können urheberrechtlich geschützt sein.
 Wortgetreue Übernahmen aus dem Material des Autors sind durch
 den Mandatsvertrag zwischen Autor und Verlag gedeckt. Wortgetreue
-Übernahmen aus fremder Kommentarliteratur und Rechtsprechung
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 folgen § 51 UrhG (Zitatrecht) — Kennzeichnung und Quellenangabe
 zwingend. Gesetzestexte und Gerichtsentscheidungen genießen
 gemäß § 5 UrhG keinen urheberrechtlichen Schutz und sind frei
@@ -232,11 +225,11 @@ Bevor Modus A oder Modus B gestartet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 17.07.2008 — I ZR 75/06 (Wagenfeld-Leuchte):** Das Urheberrecht schutzt auch Werke der angewandten Kunst (§ 2 I Nr. 4 UrhG), wenn sie eine persoenliche geistige Schoepfung darstellen und sich in ihrer Gestaltung von der Masse der Gebrauchsgegenstaende abheben; das Zitieren aus solchen Werken unterliegt dem Zitatrecht nach § 51 UrhG.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 04.07.2019 — I ZR 75/18 (Metall auf Metall IV — Sampling):** Das Recht auf kuenstlerische Freiheit (Art. 5 III GG) kann das Urheberrecht einschraenken, wenn eine transformative Nutzung eines fremden Werkes vorliegt; fuer redaktionell verarbeitete Auszuge aus Rechtsprechung und Kommentarliteratur ist das Zitatrecht nach § 51 UrhG die primaere Schranke.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
-> **LG Hamburg, Urt. v. 26.02.2019 — 308 S 5/18 (Ghostwriting-Recht):** Ein Ghostwriter-Vertrag ist grundsaetzlich zulaessig; das Ergebnis der redaktionellen Arbeit kann urheberrechtlich dem publizierenden Autor zugerechnet werden, wenn er massgeblichen kreativen Einfluss ausuebt; die Transparenzregelung (Autor-Redaktions-Trennung) des Verlagsredaktions-Skills ist ein gutes-practice-Beispiel fuer vertragskonforme Zusammenarbeit.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Materialinventar-Einstieg Modus A
 

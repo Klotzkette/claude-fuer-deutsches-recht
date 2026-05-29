@@ -37,7 +37,7 @@ VO 261/2004 gilt für Fluggäste:
   - 2 Stunden bei Flügen ≤ 1500 km;
   - 3 Stunden bei innergemeinschaftlichen Flügen > 1500 km und nicht-innergemeinschaftlichen Flügen 1500–3500 km;
   - 4 Stunden bei nicht-innergemeinschaftlichen Flügen > 3500 km.
-- **Großverspätung am Endziel ≥ 3 Stunden**: Ausgleichsanspruch wie bei Annullierung (EuGH C-402/07 Sturgeon, st. Rspr.).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgleichsanspruch (Art. 7)
 
@@ -108,7 +108,7 @@ Fluggast hat das Wahlrecht zwischen:
 
 ## Gerichtsstand
 
-- **EuGH C-204/08 (Rehder, 09.07.2009)**: Wahlrecht des Fluggasts — Klage am Abflugflughafen oder am Zielflughafen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Subsidiär Sitz/Niederlassung der Airline in Deutschland (§§ 12 13 17 ZPO).
 
 ## Hinweise

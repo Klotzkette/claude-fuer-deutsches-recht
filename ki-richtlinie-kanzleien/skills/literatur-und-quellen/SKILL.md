@@ -1,6 +1,6 @@
 ---
 name: literatur-und-quellen
-description: "Pflicht-Literatur und Aktualisierungsliste fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise 12/2024, DAV-Stellungnahme 32/2025, Braegelmann KIR 2024, KI-VO EU 2024/1689. Pruefraster Kernliteratur Berufsrecht Datenschutz KI-VO, Recherche aktueller Entwicklungen, offene Aktualisierungsliste fuer neue Entscheidungen. Output kommentierte Quellenliste mit Relevanz-Einordnung und Update-Pflicht. Abgrenzung zu Richtlinien-Update-Zyklus und zu Berufsrecht-Bausteine."
+description: "Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise 12/2024, DAV-Stellungnahme 32/2025, Braegelmann KIR 2024, KI-VO EU 2024/1689. Prüfraster Kernliteratur Berufsrecht Datenschutz KI-VO, Recherche aktueller Entwicklungen, offene Aktualisierungsliste für neue Entscheidungen. Output kommentierte Quellenliste mit Relevanz-Einordnung und Update-Pflicht. Abgrenzung zu Richtlinien-Update-Zyklus und zu Berufsrecht-Bausteine."
 ---
 
 # Literatur und Quellen
@@ -9,7 +9,7 @@ Eine fundierte KI-Nutzungsrichtlinie stützt sich auf anerkannte Primärquellen 
 
 ## Rechtlicher Hintergrund
 
-Rechtsquellen und Softlaw zum KI-Einsatz in der Anwaltschaft sind auf mehreren Ebenen zu unterscheiden: Primärrecht (Verordnungen wie KI-VO und DSGVO), nationales Recht (BRAO, BORA, StGB, UrhG, GeschGehG, RDG, AGG), Rechtsprechung (BGH, OLG, EuGH), berufsständisches Softlaw (BRAK, DAV) sowie wissenschaftliche Kommentierung. Das Softlaw der BRAK und des DAV ist zwar rechtlich nicht verbindlich, wird aber von Gerichten zur Konkretisierung berufsrechtlicher Mindeststandards herangezogen (vgl. BRAK-Hinweise 12/2024; DAV 32/2025 zur Halluzinationspflicht).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -18,7 +18,7 @@ Rechtsquellen und Softlaw zum KI-Einsatz in der Anwaltschaft sind auf mehreren E
 
 1. **Primärquellen stets prüfen**: Bei allen Normanwendungen auf den aktuellen Gesetzestext verweisen (gesetze-im-internet.de, EUR-Lex).
 2. **BRAK und DAV regelmäßig konsultieren**: Neue Hinweise, Stellungnahmen und Leitfäden werden auf den jeweiligen Websites veröffentlicht.
-3. **Kommentarliteratur nutzen**: Martini/Wendehorst (KI-VO), BeckOK KI-Recht (Lauber-Rönsberg u.a.) sowie KI-Zeitschriften wie KI-Recht und InTeR.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 4. **Judikatur beobachten**: Neue BGH- und OLG-Entscheidungen zum Thema KI in der Anwaltschaft zeitnah in die Richtlinie einarbeiten.
 5. **EU-Instanzen verfolgen**: Leitlinien des EU-KI-Büros (https://digital-strategy.ec.europa.eu/de/policies/ai-office) und FAQ der Europäischen Kommission zur KI-Kompetenz.
 6. **Aktualisierungsliste führen**: Neu erscheinende relevante Quellen in einer offenen Liste erfassen, die beim nächsten Halbjahres-Review ausgewertet wird.
@@ -31,7 +31,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Quellenverzeichnis und Verifizierungsprotokoll erstellen | Quellenverzeichnis nach Schema; Template unten |
 | Variante A — Quellenangaben aus KI unvollstaendig | Luecken als ungepruefte KI-Angaben markieren; Nachpruefung dokumentieren |
-| Variante B — Nur Gerichtsentscheidungen zu zitieren | Rechtsprechungs-Subset; Kommentarliteratur weglassen |
+| Variante B — Nur Gerichtsentscheidungen zu zitieren | Rechtsprechungs-Subset; Quellenprüfung weglassen |
 | Variante C — Quellenangaben auf Englisch | Englischsprachige Zitierweise; Bluebook oder OSCOLA als Standard |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -49,16 +49,16 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - Braegelmann, Tom, KI-VO und Compliance — aktuelle Brennpunkte, KIR 2024, 39-42.
 - Braegelmann, Tom, KI in der Anwaltschaft, Kammerton RAK Berlin, Ausgabe 07/08-2025.
 - Martini/Wendehorst (Hrsg.), KI-VO — Kommentar zur Verordnung (EU) 2024/1689, 1. Aufl.
-- Lauber-Rönsberg u.a., BeckOK KI-Recht, Art. 50.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **EU-Institutionen:**
 - Europäische Kommission, FAQ zur KI-Kompetenz (Art. 4 KI-VO). Abrufbar unter: https://digital-strategy.ec.europa.eu
 - Bundesnetzagentur, Hinweise zur KI-Kompetenz. Abrufbar unter: https://www.bundesnetzagentur.de
 
 **Rechtsprechung:**
-- BGH, Urteil vom 9. September 2021 — I ZR 113/20 (smartlaw/RDG).
-- OLG Koblenz, NJW 2001, 1364 (Prozessbetrug/Falschzitat).
-- AG Köln, Beschluss vom 2. Juli 2025 — 312 F 130/25 (KI-Halluzinationen im Familienrecht).
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Primärrechtsquellen:**
 - Verordnung (EU) 2024/1689 (KI-VO): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
@@ -90,10 +90,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu überprüfen und um neu erschienene relevante Beiträge zu ergänzen. Sobald ein KI-VO-Durchführungsrechtsakt erscheint, ist er sofort in die Primärquellenliste aufzunehmen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftung bei Verwendung halluzinierter Quellen — Anwalt muss KI-generierte Fundstellen verifizieren.
-- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Sorgfaltspflicht umfasst korrekte Quellenangaben in Rechtsgutachten und Schriftsaetzen.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: Sekundaerquellen zur DSGVO muessen mit Primaerrecht abgeglichen werden.
-- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflicht bei zitierten Informationsquellen — nicht nur bei KI, auch bei anderen automatisierten Recherchetools.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Sorgfaltspflicht und korrekte Quellenangaben

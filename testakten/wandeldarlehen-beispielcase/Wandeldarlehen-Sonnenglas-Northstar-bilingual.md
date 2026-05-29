@@ -24,7 +24,7 @@ eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter HRB 123456 
 
 vertreten durch ihre alleinvertretungsberechtigte Geschäftsführerin Dr. Mira Schoeneck,
 
-– nachstehend die „Gesellschaft" –
+– nachstehend die "Gesellschaft" –
 
 **EN:**
 
@@ -36,7 +36,7 @@ registered with the commercial register of the local court (Amtsgericht) Charlot
 
 represented by its managing director with sole power of representation Dr. Mira Schoeneck,
 
-– hereinafter the „Company" –
+– hereinafter the "Company" –
 
 
 ---
@@ -47,7 +47,7 @@ represented by its managing director with sole power of representation Dr. Mira 
 
 Wohnanschrift: Friedrichstraße 88, 10117 Berlin
 
-– nachstehend die „Gesellschafterin 1" –
+– nachstehend die "Gesellschafterin 1" –
 
 **EN:**
 
@@ -55,7 +55,7 @@ Wohnanschrift: Friedrichstraße 88, 10117 Berlin
 
 Private address: Friedrichstraße 88, 10117 Berlin
 
-– hereinafter „Shareholder 1" –
+– hereinafter "Shareholder 1" –
 
 
 ---
@@ -66,9 +66,9 @@ Private address: Friedrichstraße 88, 10117 Berlin
 
 Wohnanschrift: Beispielweg 5, 20095 Hamburg
 
-– nachstehend die „Gesellschafterin 2" –
+– nachstehend die "Gesellschafterin 2" –
 
-– Gesellschafterin 1 und Gesellschafterin 2 gemeinsam die „Gesellschafterinnen" –
+– Gesellschafterin 1 und Gesellschafterin 2 gemeinsam die "Gesellschafterinnen" –
 
 **EN:**
 
@@ -76,9 +76,9 @@ Wohnanschrift: Beispielweg 5, 20095 Hamburg
 
 Private address: Beispielweg 5, 20095 Hamburg
 
-– hereinafter „Shareholder 2" –
+– hereinafter "Shareholder 2" –
 
-– Shareholder 1 and Shareholder 2 jointly the „Shareholders" –
+– Shareholder 1 and Shareholder 2 jointly the "Shareholders" –
 
 
 ---
@@ -93,9 +93,9 @@ eingetragen im Handelsregister des Amtsgerichts Frankfurt am Main unter HRA 9999
 
 vertreten durch ihre Komplementärin Northstar Management GmbH, diese vertreten durch ihren Geschäftsführer Henrik Brendelmann,
 
-– nachstehend der „Darlehensgeber" –
+– nachstehend der "Darlehensgeber" –
 
-– die Gesellschaft, die Gesellschafterinnen und der Darlehensgeber jeweils eine „Partei" und gemeinsam die „Parteien" –
+– die Gesellschaft, die Gesellschafterinnen und der Darlehensgeber jeweils eine "Partei" und gemeinsam die "Parteien" –
 
 **EN:**
 
@@ -107,9 +107,9 @@ registered with the commercial register of the local court of Frankfurt am Main 
 
 represented by its general partner Northstar Management GmbH, this represented by its managing director Henrik Brendelmann,
 
-– hereinafter the „Lender" –
+– hereinafter the "Lender" –
 
-– the Company, the Shareholders and the Lender each a „Party" and together the „Parties" –
+– the Company, the Shareholders and the Lender each a "Party" and together the "Parties" –
 
 
 ---
@@ -153,7 +153,7 @@ Now, therefore, the Parties agree as follows:
 
 **DE:**
 
-1.1  Der Darlehensgeber gewährt der Gesellschaft hiermit ein Darlehen in Höhe von EUR 250.000 (in Worten: zweihundertfünfzigtausend Euro) (das „Darlehen"). Die Gesellschaft nimmt das Darlehen zu den Bedingungen dieses Vertrages an.
+1.1  Der Darlehensgeber gewährt der Gesellschaft hiermit ein Darlehen in Höhe von EUR 250.000 (in Worten: zweihundertfünfzigtausend Euro) (das "Darlehen"). Die Gesellschaft nimmt das Darlehen zu den Bedingungen dieses Vertrages an.
 
 1.2  Das Darlehen ist innerhalb von sieben (7) deutschen Bankarbeitstagen nach vollständiger Unterzeichnung dieses Vertrages durch alle Parteien zur Auszahlung fällig. Die Auszahlung erfolgt in voller Höhe, in EUR und kosten- sowie gebührenfrei durch Überweisung auf folgendes Konto der Gesellschaft:
 
@@ -171,7 +171,7 @@ Verwendungszweck: Wandeldarlehen Northstar 2026-01
 
 **EN:**
 
-1.1  The Lender hereby grants the Company a loan in the amount of EUR 250,000 (in words: two hundred and fifty thousand euros) (the „Loan"). The Company accepts the Loan subject to the terms and conditions of this Agreement.
+1.1  The Lender hereby grants the Company a loan in the amount of EUR 250,000 (in words: two hundred and fifty thousand euros) (the "Loan"). The Company accepts the Loan subject to the terms and conditions of this Agreement.
 
 1.2  The Loan shall be disbursed within seven (7) German banking days after due execution of this Agreement by all Parties. Disbursement shall be made in full, in EUR and free of any costs or fees, by wire transfer to the following account of the Company:
 
@@ -197,7 +197,7 @@ Reference:       Convertible Loan Northstar 2026-01
 
 **DE:**
 
-2.1  Dieser Vertrag hat eine feste Laufzeit von vierundzwanzig (24) Monaten ab vollständiger Unterzeichnung durch alle Parteien (die „Feste Laufzeit") und endet mit Ablauf der Festen Laufzeit, ohne dass es einer Kündigung bedarf.
+2.1  Dieser Vertrag hat eine feste Laufzeit von vierundzwanzig (24) Monaten ab vollständiger Unterzeichnung durch alle Parteien (die "Feste Laufzeit") und endet mit Ablauf der Festen Laufzeit, ohne dass es einer Kündigung bedarf.
 
 2.2  Vorbehaltlich des qualifizierten Rangrücktritts nach § 6 und einer Wandlung nach § 4 sind das Darlehen und die aufgelaufenen Zinsen am Tag nach (i) dem Ablauf der Festen Laufzeit, (ii) einer wirksamen Fälligstellung nach § 2.5 oder (iii) einer wirksamen Kündigung aus wichtigem Grund unter Ablauf einer etwa anwendbaren Kündigungsfrist zur Rückzahlung fällig.
 
@@ -209,7 +209,7 @@ Reference:       Convertible Loan Northstar 2026-01
 
 **EN:**
 
-2.1  This Agreement has a fixed term of twenty-four (24) months from the date of due execution of this Agreement by all Parties (the „Fixed Term"), and shall expire upon the end of the Fixed Term without any termination being required.
+2.1  This Agreement has a fixed term of twenty-four (24) months from the date of due execution of this Agreement by all Parties (the "Fixed Term"), and shall expire upon the end of the Fixed Term without any termination being required.
 
 2.2  Subject to the qualified subordination set out in Section 6 and to a conversion pursuant to Section 4, the Loan and accrued interest shall fall due for repayment on the day after (i) the expiry of the Fixed Term, (ii) an effective declaration of acceleration pursuant to Section 2.5 or (iii) an effective termination for cause, observing any applicable notice period.
 
@@ -253,9 +253,9 @@ Reference:       Convertible Loan Northstar 2026-01
 
 **DE:**
 
-4.1  Der Darlehensgeber ist berechtigt, auf einseitige Erklärung in Textform gegenüber der Gesellschaft die Wandlung des Darlehens nebst aufgelaufener Zinsen in Geschäftsanteile der Gesellschaft zu verlangen (die „Wandlungsoption"). Die Wandlung kann nur einheitlich für den gesamten zum Zeitpunkt der Ausübung offenen Betrag (Darlehensvaluta zuzüglich aufgelaufener Zinsen, zusammen die „Wandlungssumme") ausgeübt werden.
+4.1  Der Darlehensgeber ist berechtigt, auf einseitige Erklärung in Textform gegenüber der Gesellschaft die Wandlung des Darlehens nebst aufgelaufener Zinsen in Geschäftsanteile der Gesellschaft zu verlangen (die "Wandlungsoption"). Die Wandlung kann nur einheitlich für den gesamten zum Zeitpunkt der Ausübung offenen Betrag (Darlehensvaluta zuzüglich aufgelaufener Zinsen, zusammen die "Wandlungssumme") ausgeübt werden.
 
-4.2  Die Wandlung setzt den Eintritt eines der folgenden Ereignisse voraus (jeweils ein „Wandlungsereignis"):
+4.2  Die Wandlung setzt den Eintritt eines der folgenden Ereignisse voraus (jeweils ein "Wandlungsereignis"):
 
 (a)  Qualified Financing: ein Beschluss der Gesellschafterversammlung über eine Barkapitalerhöhung, durch die der Gesellschaft – ohne Berücksichtigung der Wandlung dieses Wandeldarlehens – frisches Eigenkapital in Höhe von mindestens EUR 1.000.000 zugeführt wird, und bei der die der Finanzierungsrunde zugrunde liegende Pre-Money-Bewertung mindestens EUR 4.000.000 beträgt;
 
@@ -267,7 +267,7 @@ Reference:       Convertible Loan Northstar 2026-01
 
 (e)  Maturity: Ablauf der Festen Laufzeit (§ 2.1).
 
-4.3  Die Gesellschaft informiert den Darlehensgeber unverzüglich, spätestens jedoch zwei (2) Wochen vor Durchführung der entsprechenden Maßnahme, in Textform über den (drohenden) Eintritt eines Wandlungsereignisses (die „Wandlungsmitteilung"). Die Wandlungsmitteilung enthält insbesondere (i) den Namen des/der Investor(en), (ii) die zugrunde liegende Pre-Money-Bewertung, (iii) den Gesamtbetrag des zugeführten Eigenkapitals und (iv) die Anzahl und Gattung der vom Investor zu übernehmenden Geschäftsanteile.
+4.3  Die Gesellschaft informiert den Darlehensgeber unverzüglich, spätestens jedoch zwei (2) Wochen vor Durchführung der entsprechenden Maßnahme, in Textform über den (drohenden) Eintritt eines Wandlungsereignisses (die "Wandlungsmitteilung"). Die Wandlungsmitteilung enthält insbesondere (i) den Namen des/der Investor(en), (ii) die zugrunde liegende Pre-Money-Bewertung, (iii) den Gesamtbetrag des zugeführten Eigenkapitals und (iv) die Anzahl und Gattung der vom Investor zu übernehmenden Geschäftsanteile.
 
 4.4  Die Wandlungsoption kann durch Erklärung in Textform gegenüber der Gesellschaft innerhalb einer Frist von einem (1) Monat nach Zugang der Wandlungsmitteilung ausgeübt werden. Wird sie nicht fristgerecht ausgeübt, gilt sie für das jeweilige Wandlungsereignis als nicht ausgeübt; die Ausübung im Hinblick auf ein späteres Wandlungsereignis bleibt unberührt.
 
@@ -285,7 +285,7 @@ Wandlungspreis = MIN(A; B; C). Anzahl neue Geschäftsanteile = Wandlungssumme / 
 
 4.7  Die Ausgabe neuer Geschäftsanteile an den Darlehensgeber erfolgt gegen Bareinlage in Höhe ihres jeweiligen Nennbetrages. Die neuen Geschäftsanteile haben die gleichen Rechte (und im Fall unterschiedlicher Rechte die jeweils günstigsten Rechte), wie sie den Investoren in der Finanzierungsrunde gewährt werden. Most-Favoured-Nation: Nimmt die Gesellschaft vor der Finanzierungsrunde ein weiteres Wandeldarlehen oder ein nachrangiges Darlehen mit für den dortigen Darlehensgeber günstigeren Rechten (insbesondere niedrigerem Cap oder höherem Discount) auf, so sind diese günstigeren Rechte auch dem Darlehensgeber zu gewähren.
 
-4.8  Nach Übernahme der neuen Geschäftsanteile ist der Darlehensgeber verpflichtet, seine Ansprüche aus dem Darlehen (Rückzahlung und Zinsen) im Wege der Einlage in die Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB einzubringen oder auf diese Ansprüche zu verzichten („Wandlung im engeren Sinne").
+4.8  Nach Übernahme der neuen Geschäftsanteile ist der Darlehensgeber verpflichtet, seine Ansprüche aus dem Darlehen (Rückzahlung und Zinsen) im Wege der Einlage in die Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB einzubringen oder auf diese Ansprüche zu verzichten ("Wandlung im engeren Sinne").
 
 4.9  Die Gesellschaft und die Gesellschafterinnen verpflichten sich, mit Erhalt einer wirksamen Ausübungserklärung der Wandlungsoption unverzüglich eine Gesellschafterversammlung einzuberufen und alle für die Durchführung der Wandlung erforderlichen Beschlüsse zu fassen, insbesondere über die Kapitalerhöhung, die Zulassung des Darlehensgebers zur Übernahme der neuen Geschäftsanteile und den Verzicht der Gesellschafterinnen auf ihre Bezugsrechte. Die Parteien sind ferner verpflichtet, alle für die Durchführung erforderlichen Erklärungen, einschließlich notariell zu beurkundender Erklärungen, abzugeben.
 
@@ -299,9 +299,9 @@ Wandlungspreis = MIN(A; B; C). Anzahl neue Geschäftsanteile = Wandlungssumme / 
 
 **EN:**
 
-4.1  The Lender is entitled to demand, by unilateral declaration in text form addressed to the Company, the conversion of the Loan including accrued interest into shares of the Company (the „Conversion Option"). The conversion may only be exercised in respect of the entire outstanding amount (principal plus accrued interest, together the „Conversion Amount").
+4.1  The Lender is entitled to demand, by unilateral declaration in text form addressed to the Company, the conversion of the Loan including accrued interest into shares of the Company (the "Conversion Option"). The conversion may only be exercised in respect of the entire outstanding amount (principal plus accrued interest, together the "Conversion Amount").
 
-4.2  Conversion is conditional upon the occurrence of one of the following events (each a „Conversion Event"):
+4.2  Conversion is conditional upon the occurrence of one of the following events (each a "Conversion Event"):
 
 (a)  Qualified Financing: a shareholders' resolution on a cash capital increase providing the Company with fresh equity of at least EUR 1,000,000 (excluding the conversion of this convertible loan), at a pre-money valuation of at least EUR 4,000,000;
 
@@ -313,7 +313,7 @@ Wandlungspreis = MIN(A; B; C). Anzahl neue Geschäftsanteile = Wandlungssumme / 
 
 (e)  Maturity: expiry of the Fixed Term (Section 2.1).
 
-4.3  The Company shall notify the Lender without undue delay, but no later than two (2) weeks prior to implementation of the relevant corporate measure, in text form of the (imminent) occurrence of a Conversion Event (the „Conversion Notice"). The Conversion Notice shall in particular include (i) the name(s) of the investor(s), (ii) the underlying pre-money valuation, (iii) the total amount of equity contributed and (iv) the number and class of shares to be subscribed by the investor.
+4.3  The Company shall notify the Lender without undue delay, but no later than two (2) weeks prior to implementation of the relevant corporate measure, in text form of the (imminent) occurrence of a Conversion Event (the "Conversion Notice"). The Conversion Notice shall in particular include (i) the name(s) of the investor(s), (ii) the underlying pre-money valuation, (iii) the total amount of equity contributed and (iv) the number and class of shares to be subscribed by the investor.
 
 4.4  The Conversion Option may be exercised by declaration in text form addressed to the Company within one (1) month after receipt of the Conversion Notice. If not exercised in time, it shall be deemed not exercised for the relevant Conversion Event; the right to exercise upon a subsequent Conversion Event remains unaffected.
 
@@ -331,7 +331,7 @@ Conversion Price = MIN(A; B; C). New shares = Conversion Amount / Conversion Pri
 
 4.7  The new shares shall be issued to the Lender against a cash contribution in the amount of their nominal value. The new shares shall carry the same rights (or, in case of differing rights, the most favourable rights) as the shares granted to the investors in the Financing Round. Most-Favoured-Nation: if the Company enters into a further convertible loan or subordinated loan prior to the Financing Round granting more favourable rights to the relevant lender (in particular a lower cap or higher discount), such rights shall also be granted to the Lender.
 
-4.8  After subscription of the new shares, the Lender shall be obliged to contribute its claims under the Loan (repayment and interest) into the capital reserves pursuant to Section 272 (2) no. 4 HGB or to waive such claims („conversion in the narrower sense").
+4.8  After subscription of the new shares, the Lender shall be obliged to contribute its claims under the Loan (repayment and interest) into the capital reserves pursuant to Section 272 (2) no. 4 HGB or to waive such claims ("conversion in the narrower sense").
 
 4.9  Upon receipt of a valid declaration of exercise of the Conversion Option, the Company and the Shareholders undertake to convene a shareholders' meeting without undue delay and to adopt all resolutions necessary to implement the conversion, in particular regarding the capital increase, the admission of the Lender to subscribe for the new shares and the waiver of the Shareholders' subscription rights. The Parties shall make all declarations required for implementation, including those subject to notarisation.
 
@@ -377,7 +377,7 @@ Conversion Price = MIN(A; B; C). New shares = Conversion Amount / Conversion Pri
 
 **DE:**
 
-6.1  Nachrang im Insolvenzverfahren. Der Darlehensgeber tritt hiermit mit seinen sämtlichen gegenwärtigen und zukünftigen Ansprüchen aus diesem Vertrag (insbesondere auf Rückzahlung der Darlehensvaluta, Zahlung von Zinsen und auf etwaigen Schadensersatz, zusammen die „Nachrangforderungen") gemäß § 19 Abs. 2 Satz 2 InsO und § 39 Abs. 2 InsO im Rang hinter sämtliche gegenwärtigen und zukünftigen Forderungen aller anderen Gläubiger der Gesellschaft im Sinne der §§ 38, 39 Abs. 1 Nr. 1 bis 5 InsO zurück. In einem Insolvenzverfahren über das Vermögen der Gesellschaft können die Nachrangforderungen erst nach vollständiger Befriedigung sämtlicher in §§ 38 und 39 Abs. 1 InsO genannten Forderungen, mithin im Rang des § 39 Abs. 2 InsO, geltend gemacht werden.
+6.1  Nachrang im Insolvenzverfahren. Der Darlehensgeber tritt hiermit mit seinen sämtlichen gegenwärtigen und zukünftigen Ansprüchen aus diesem Vertrag (insbesondere auf Rückzahlung der Darlehensvaluta, Zahlung von Zinsen und auf etwaigen Schadensersatz, zusammen die "Nachrangforderungen") gemäß § 19 Abs. 2 Satz 2 InsO und § 39 Abs. 2 InsO im Rang hinter sämtliche gegenwärtigen und zukünftigen Forderungen aller anderen Gläubiger der Gesellschaft im Sinne der §§ 38, 39 Abs. 1 Nr. 1 bis 5 InsO zurück. In einem Insolvenzverfahren über das Vermögen der Gesellschaft können die Nachrangforderungen erst nach vollständiger Befriedigung sämtlicher in §§ 38 und 39 Abs. 1 InsO genannten Forderungen, mithin im Rang des § 39 Abs. 2 InsO, geltend gemacht werden.
 
 6.2  Vorinsolvenzliche Durchsetzungssperre. Außerhalb eines Insolvenzverfahrens darf der Darlehensgeber Befriedigung der Nachrangforderungen nur aus künftigen Jahresüberschüssen, aus einem Liquidationsüberschuss oder aus sonstigem freien Vermögen verlangen, das die sonstigen Verbindlichkeiten übersteigt, und auch dies nur insoweit und solange, als die teilweise oder vollständige Erfüllung weder eine Zahlungsunfähigkeit (§ 17 InsO) noch eine Überschuldung (§ 19 InsO) verursacht, vertieft oder zu verursachen droht. Die Gesellschaft und ihre Geschäftsführerinnen sind nicht verpflichtet, die Nachrangforderungen zu erfüllen, soweit und solange die vorstehenden Voraussetzungen nicht erfüllt sind.
 
@@ -391,7 +391,7 @@ Conversion Price = MIN(A; B; C). New shares = Conversion Amount / Conversion Pri
 
 **EN:**
 
-6.1  Subordination in insolvency. The Lender hereby subordinates all of its present and future claims under this Agreement (in particular for repayment of the principal, payment of interest and any damages, together the „Subordinated Claims") pursuant to Section 19 (2) sentence 2 InsO and Section 39 (2) InsO behind all present and future claims of all other creditors of the Company within the meaning of Sections 38, 39 (1) nos. 1 to 5 InsO. In insolvency proceedings opened over the Company's assets, the Subordinated Claims may only be asserted after full satisfaction of all claims set out in Sections 38 and 39 (1) InsO.
+6.1  Subordination in insolvency. The Lender hereby subordinates all of its present and future claims under this Agreement (in particular for repayment of the principal, payment of interest and any damages, together the "Subordinated Claims") pursuant to Section 19 (2) sentence 2 InsO and Section 39 (2) InsO behind all present and future claims of all other creditors of the Company within the meaning of Sections 38, 39 (1) nos. 1 to 5 InsO. In insolvency proceedings opened over the Company's assets, the Subordinated Claims may only be asserted after full satisfaction of all claims set out in Sections 38 and 39 (1) InsO.
 
 6.2  Pre-insolvency enforcement restriction. Outside insolvency proceedings, the Lender may only demand satisfaction of the Subordinated Claims out of future annual net profits, a liquidation surplus or other free assets exceeding other liabilities, and only to the extent and as long as such satisfaction neither causes nor deepens, nor threatens to cause, illiquidity (Section 17 InsO) or over-indebtedness (Section 19 InsO). The Company and its managing directors are not obliged to satisfy the Subordinated Claims to the extent and as long as the foregoing conditions are not met.
 

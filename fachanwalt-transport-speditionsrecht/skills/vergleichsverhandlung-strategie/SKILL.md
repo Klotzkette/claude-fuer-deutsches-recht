@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung im Transport- und Speditionsrecht strategisch vorbereiten: BATNA, Angebotsstrategie. Normen: §§ 779 BGB, § 278 ZPO. Pruefraster: Forderungshoehe, Haftungslimits, Vergleichsspielraum. Output: Vergleichsverhandlungs-Strategie Transport. Abgrenzung: nicht ADSP-Schiedsverfahren."
+description: "Vergleichsverhandlung im Transport- und Speditionsrecht strategisch vorbereiten: BATNA, Angebotsstrategie. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Forderungshoehe, Haftungslimits, Vergleichsspielraum. Output: Vergleichsverhandlungs-Strategie Transport. Abgrenzung: nicht ADSP-Schiedsverfahren."
 ---
 
 # Vergleichsverhandlung und Einigung im Transport-, Speditions- und Logistikrecht
@@ -158,7 +158,4 @@ Klassische Stolperfalle in Transport-, Speditions- und Logistikrecht:
 
 ## Aktuelle Rechtsprechung Vergleich Transportrecht
 
-- BGH, Urt. v. 29.01.2015 - I ZR 195/13, NJW 2015, 2426 — CMR-Vergleich und Restansprueche: durch Vergleich erloeschen nur die ausdruecklich geregelten Ansprueche; Kondiktionsansprueche wegen nachtraglich entdeckter Schaeden bleiben bestehen, wenn die Abgeltungsklausel nicht allumfassend formuliert war.
-- BGH, Urt. v. 24.10.2018 - I ZR 103/17, NJW 2019, 857 — ADSP-Haftungsbeschraenkung im Vergleich: Partei kann im Vergleich auf ADSP-Haftungsdeckelung verzichten; Vergleich mit hoeherer Zahlung als ADSP-Betrag ist wirksam.
-- OLG Hamburg, Urt. v. 12.02.2019 - 6 U 50/18, TranspR 2019, 240 — Schiedsklausel im Frachtvertrag: Vergleich der Parteien vor Schiedsgericht nach TIO-Schiedsordnung ist wirksamer Vollstreckungstitel nach § 1053 ZPO; Bestimmtheitserfordernis muss erfuellt sein.
-- BGH, Urt. v. 17.05.2017 - I ZR 252/16, NJW 2017, 3143 — Mitwirkungsobliegenheit nach Schadenseintritt (Art. 17 Abs. 3 CMR): Versender muss Schaden unverzueglich ruegen und Beweise sichern; verspaetete Ruege kann Anspruchsverlust begruenden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,7 @@
 ---
 name: schriftliche-beschlussfassung
-description: "Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei „Umlaufbeschluss\", „schriftlicher Beschluss\", „Gesellschafterbeschluss\" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung."
+description: 'Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei "Umlaufbeschluss", "schriftlicher Beschluss", "Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung.'
+
 ---
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss
@@ -34,19 +35,19 @@ Routinemäßige Gesellschafterbeschlüsse einer GmbH erfordern keine Versammlung
 **GmbH-Beschlussfassung:**
 § 48 GmbHG (Gesellschafterversammlung; Abs. 2: schriftliche Abstimmung); § 47 Abs. 4 GmbHG (Stimmverbot bei Interessenkonflikt); § 53 GmbHG (Satzungsänderungen — notarielle Beurkundung); § 46 GmbHG (Zuständigkeiten der Gesellschafterversammlung).
 
-BGH, Urt. v. 11.02.2008 – II ZR 187/06, NZG 2008, 381 Rn. 12 (§ 48 Abs. 2 GmbHG: Einverständnis aller Gesellschafter zum Verfahren erforderlich); BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332 Rn. 15 (Stimmverbot und Treuepflichten bei GmbH-Beschluss); BGH, Urt. v. 07.11.1994 – II ZR 108/93, NJW 1995, 260 Rn. 10 (Beschlussmängelrecht GmbH analog §§ 241 ff. AktG).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **AG/SE:** § 108 Abs. 4 AktG (Aufsichtsratumlaufbeschluss); § 118a AktG (virtuelle HV); § 130 AktG (notarielle Niederschrift HV-Beschlüsse).
 
 **Personengesellschaften (MoPeG ab 01.01.2024):** § 714 BGB n.F. (GbR-Beschlussfassung); §§ 105, 110 HGB (OHG); § 163 HGB (KG-Stimmrechte).
 
-**Kommentarliteratur:** Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 48 Rn. 1 ff., § 47 Rn. 60 ff.; Scholz/Priester, GmbHG, 13. Aufl. 2022, § 48 Rn. 20 ff.; Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 48 Rn. 10 ff.; Hüffer/Koch, AktG, 16. Aufl. 2024, § 108 Rn. 15 ff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 
 ### Sicherheits-Stopp: Wesentliche Maßnahme + Sofortunterzeichnung
 
-Bei Maßnahmen aus der Überprüfungsliste (M&A, Kapitalmaßnahme, Satzungsänderung, Auflösung) und gleichzeitigem Sofortunterzeichnungssignal („heute DocuSign", „vor Closing"):
+Bei Maßnahmen aus der Überprüfungsliste (M&A, Kapitalmaßnahme, Satzungsänderung, Auflösung) und gleichzeitigem Sofortunterzeichnungssignal ("heute DocuSign", "vor Closing"):
 
 > ⛔ **Wesentliche Maßnahme + Sofortunterzeichnung — nur Entwurf zur Prüfung.** Ich erstelle den Entwurf, aber nicht in unterschriftsreifer Form ohne anwaltliche Prüfung. Bitte einen der zwei Wege wählen: (1) externer Anwalt prüft zuerst, oder (2) bestätigen, dass externer Anwalt das Vorgehen bereits freigegeben hat.
 
@@ -121,7 +122,7 @@ Formhinweise: Präzise formulieren (keine Vagen Formulierungen); bevollmächtigt
 1. **Beschlussentwurf** — vollständig, zur Prüfung und Zirkulation bereit.
 2. **Unterzeichner-Checkliste** mit Stimmverbot-Flag, Mehrheitserfordernis, Notarerfordernis.
 3. **Prüf-Checkliste** (Präzision der Formulierung, Anlagen, Gesellschaftsvertrag, § 47 Abs. 4, Handelsregister).
-4. **Entwurfs-Hinweis** (vor Unterzeichnung zu entfernen): „Dies ist ein Entwurf zur anwaltlichen Prüfung. Die Unterzeichnung begründet rechtswirksame Gesellschafterbeschlüsse — ein zugelassener Rechtsanwalt prüft, bevor der Beschluss zirkuliert wird."
+4. **Entwurfs-Hinweis** (vor Unterzeichnung zu entfernen): "Dies ist ein Entwurf zur anwaltlichen Prüfung. Die Unterzeichnung begründet rechtswirksame Gesellschafterbeschlüsse — ein zugelassener Rechtsanwalt prüft, bevor der Beschluss zirkuliert wird."
 
 ## Ausgabeformat
 
@@ -187,7 +188,7 @@ rechtswirksame Gesellschafterbeschluesse. Vor Zirkulation mit Rechtsanwalt pruef
 
 ## Beispiel
 
-GmbH mit drei Gesellschaftern, schriftliche Geschäftsführerbestellung. Einer der Gesellschafter wird selbst bestellt (Stimmverbot § 47 Abs. 4 GmbHG — str. bei Eigenbestellung, vgl. BGH NJW 1995, 260). Ausgabe: Beschlussentwurf, Unterzeichner-Checkliste ohne befangenen Gesellschafter (Stimmverbot zu klären), Hinweis auf Handelsregisteranmeldung § 39 GmbHG.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
@@ -201,7 +202,7 @@ GmbH mit drei Gesellschaftern, schriftliche Geschäftsführerbestellung. Einer d
 
 - `§ 48 Abs. 2 GmbHG` (schriftliches Verfahren), `§ 47 Abs. 4 GmbHG` (Stimmverbot)
 - `§ 53 GmbHG` (Satzungsänderung), `§ 108 Abs. 4 AktG` (AR-Umlaufbeschluss), `§ 118a AktG` (virtuelle HV)
-- BGH: `BGH, Urt. v. 11.02.2008 – II ZR 187/06, NZG 2008, 381 Rn. 12`; `BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332 Rn. 15`
-- Kommentare: `Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 48 Rn. 5`; `Scholz/Priester, GmbHG, 13. Aufl. 2022, § 48 Rn. 20`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

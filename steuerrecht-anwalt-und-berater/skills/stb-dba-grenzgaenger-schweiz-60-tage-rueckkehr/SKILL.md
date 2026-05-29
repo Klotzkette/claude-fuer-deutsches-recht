@@ -1,6 +1,6 @@
 ---
 name: stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr
-description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichkeit. Anwendungsfall Arbeitnehmer Wohnsitz Suedbaden Baden-Wuerttemberg Bayern Taetigkeit Schweiz. Arbeitstaegliche Rueckkehr maximal 60 Nicht-Rueckkehrtage je Kalenderjahr. Schweizer Quellensteuer im DBA Art. 15a normiert in Deutschland nach Paragraph 34c EStG anrechenbar Satz aus DBA-Text verifizieren. Output Mandanten-Memo Grenzgaengernachweis Reisekalender Berechnungsbeispiel."
+description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichkeit. Anwendungsfall Arbeitnehmer Wohnsitz Suedbaden Baden-Wuerttemberg Bayern Tätigkeit Schweiz. Arbeitstaegliche Rückkehr maximal 60 Nicht-Rückkehrtage je Kalenderjahr. Schweizer Quellensteuer im DBA Art. 15a normiert in Deutschland nach Paragraph 34c EStG anrechenbar Satz aus DBA-Text uebernehmen. Output Mandanten-Memo Grenzgaengernachweis Reisekalender Berechnungsbeispiel."
 ---
 
 # Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit)
@@ -23,16 +23,15 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Schweiz vom 11.08.1971**, **Art. 15a** in der Fassung Aenderungsprotokoll vom 12.03.2002 — **verifizieren**.
+- **DBA Deutschland-Schweiz vom 11.08.1971** (BGBl. 1972 II S. 1021/1022), **Art. 15a** in der Fassung Aenderungsprotokoll vom 12.03.2002 (BGBl. 2003 II S. 68).
 - **§ 1 EStG, § 49 EStG**.
 - **§ 34c EStG** Anrechnung Schweizer Quellensteuer.
-- **Konsultationsvereinbarung Home-Office Deutschland-Schweiz** vom 11.06.2020 und Folgevereinbarungen — **Aktualitaet verifizieren**.
+- **Konsultationsvereinbarung Home-Office Deutschland-Schweiz** vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 81/15 zu 60-Tage-Schaedlichkeit — **Aktenzeichen verifizieren**.
-- BFH I R 22/16 zu Krankheits- und Reisezeiten — **verifizieren**.
-- BMF-Schreiben zu Grenzgaenger Schweiz (regelmaessig aktualisiert) — **konkretes Datum verifizieren**.
-- Konsultationsvereinbarung Home-Office — **Aktualitaet verifizieren**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- Konsultationsvereinbarung Home-Office — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Anwendungsvoraussetzungen
 
@@ -48,7 +47,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 - **Maximal 60 Nicht-Rueckkehrtage pro Kalenderjahr** ("schaedliche Tage").
 - Krankheitstage und Urlaubstage zaehlen nicht als "schaedlich".
 - Dienstreisen, mehrtaegige Schulungen, Dienst nach 22 Uhr zaehlen schaedlich (BFH-Praxis).
-- Home-Office-Tage: nach Konsultationsvereinbarung als "Rueckkehrtage" qualifizierbar — **konkrete Regelung verifizieren**.
+- Home-Office-Tage: nach Konsultationsvereinbarung DE-CH vom 11.06.2020 als "Rueckkehrtage" qualifizierbar — aktuellen Anwendungsstand der Folgevereinbarungen pruefen.
 
 ### Folge bei Erfuellung
 - Wohnsitzstaat-Besteuerung (Deutschland).
@@ -117,4 +116,6 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 15a DBA-Schweiz (Aenderungsprotokoll vom 12.03.2002). Konsultationsvereinbarung Home-Office von 11.06.2020 und Folgevereinbarungen. **Konkreten Quellensteuer-Hoechstsatz (in der Praxis traditionell 4,5 Prozent), 60-Tage-Schaedlichkeitsschwelle und aktuell geltende Home-Office-Konsultationsvereinbarung im konsolidierten BMF-DBA-Verzeichnis und im DBA-Text Art. 15a verifizieren.**
+Stand: 05/2026. Art. 15a DBA-Schweiz in der Fassung Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68). Konsultationsvereinbarung Home-Office vom 11.06.2020 und Folgevereinbarungen. Konkreten Quellensteuer-Hoechstsatz und 60-Tage-Schaedlichkeitsschwelle im DBA-Text Art. 15a pruefen; aktuelle Home-Office-Konsultationsvereinbarung im BMF-Veroeffentlichungsverzeichnis abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 2 belegt (BGBl. 1972 II S. 1021/1022 bestaetigt; BGBl. 2003 II S. 68 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert; FM-description final ohne Marker) -->

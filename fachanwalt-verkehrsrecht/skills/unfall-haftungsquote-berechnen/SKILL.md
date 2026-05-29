@@ -1,6 +1,6 @@
 ---
 name: unfall-haftungsquote-berechnen
-description: "Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Pruefraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverstaendige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Glaeubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
+description: "Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Prüfraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverständige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Gläubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
 ---
 
 # Unfall-Haftungsquote berechnen
@@ -39,14 +39,7 @@ Konkrete Quotelung der Haftung zwischen Unfallbeteiligten — Grundlage für Sch
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | VI ZR 220/16 | 13.12.2016 | Anscheinsbeweis Auffahrunfall; Hinteren trifft Verschulden, wenn kein atypischer Verlauf belegt |
-| BGH | VI ZR 91/79 | 30.01.1979 | Anschnallpflichtverletzung; Reduktion Schmerzensgeld 25 bis 50 % je nach Unfallverlauf |
-| BGH | VI ZR 70/04 | 23.05.2006 | 130-%-Grenze; Reparatur bis 130 % Wiederbeschaffungswert erstattungsfähig bei Reparaturnachweis und 6-Monats-Nutzung |
-| BGH | VI ZR 132/04 | 07.06.2005 | Restwert; Geschädigter nicht verpflichtet, auf höchsten Restwert-Bieter hinzuweisen |
-| BGH | VI ZR 35/03 | 29.04.2003 | Totalschaden: Wiederbeschaffungswert minus Restwert ohne fiktive MwSt |
-| BGH | VI ZR 491/15 | 26.04.2016 | Sachverständigenkosten erstattungsfähig auch bei fiktiver Abrechnung |
-| BGH | VI ZR 290/11 | 18.12.2012 | Mietwagenkosten; Schwacke-/Fraunhofer-Methode; Gericht kann Mittelwert bilden |
-| BGH | VI ZR 76/87 | 30.11.1999 | Nutzungsausfall; Ersatz wenn Nutzungswille und -möglichkeit bestanden |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -60,13 +53,10 @@ Konkrete Quotelung der Haftung zwischen Unfallbeteiligten — Grundlage für Sch
 | 3 | Fahrerverschulden feststellbar? | § 18 StVG; § 823 BGB | Entlastungsnachweis durch Fahrer möglich |
 | 4 | Direktanspruch gegen Versicherer? | § 115 VVG | Deckungsschutz prüfen; Versicherungsschein beschaffen |
 | 5 | Beidseitige Betriebsgefahr — Quote? | § 17 StVG; § 254 BGB | Verursachungsbeiträge: Verschulden + Betriebsgefahr |
-| 6 | Anscheinsbeweis anwendbar? | BGH VI ZR 220/16 | Typisches Unfallbild → Gegner muss widerlegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Mitverschulden Mandant? | § 254 BGB | Tempo, Abstand, Anschnallen, Alkohol |
-| 8 | Totalschaden oder Reparaturschaden? | § 249 BGB; BGH VI ZR 70/04 | 130-%-Grenze; Fiktive vs. konkrete Abrechnung |
-| 9 | Wiederbeschaffungswert und Restwert? | BGH VI ZR 35/03; VI ZR 132/04 | Restwert-Angebot AG nicht zwingend |
-| 10 | Mietwagenkosten / Nutzungsausfall? | §§ 249, 251 BGB; BGH VI ZR 290/11 | Wahlrecht Geschädigter; Schadensminderungspflicht |
-| 11 | Sachverständigenkosten erstattungsfähig? | BGH VI ZR 491/15 | Auch bei fiktiver Abrechnung; Bagatellgrenze prüfen |
-| 12 | Schmerzensgeld (Personenschaden)? | § 253 Abs. 2 BGB | Hacks/Wellner/Häcker-Tabelle; Verletzungsbild maßgeblich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 | 13 | Verdienstausfall? | § 252 BGB | Bruttolohn-Ausfall; Eigenanteil Krankengeld abziehen |
 | 14 | SGB X-Regress droht? | § 116 SGB X | Krankenkasse, BG regressieren — Quote beachten |
 | 15 | Verjährung eingetreten oder drohend? | §§ 195, 199 BGB | 3 Jahre ab Kenntnis; Personenschaden 30 Jahre § 199 Abs. 2 BGB |
@@ -172,7 +162,7 @@ unseres Mandanten liegt nicht vor, da [Begründung].
 [Bei Anscheinsbeweis: Der Anscheinsbeweis des Auffahrunfalls
 spricht für alleiniges Verschulden Ihres VN gemäß
 § 4 Abs. 1 StVO; ein atypischer Geschehensverlauf ist nicht
-ersichtlich — BGH VI ZR 220/16.]
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Schaden
 [Schadensaufstellung wie oben, konkret ausfüllen]
@@ -211,7 +201,7 @@ Zu [Anschnallpflicht]: Soweit behauptet wird, unser Mandant
 sei nicht angeschnallt gewesen, fehlt hierfür jeder Beleg.
 Im Übrigen wäre die konkrete Kausalität der Anschnallpflicht-
 verletzung für die eingetretenen Verletzungen darzulegen —
-BGH VI ZR 91/79 lässt nur eine Kürzung zu bei nachgewiesener
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kausalität.
 ```
 
@@ -254,12 +244,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand Versicherer | Reaktion |
 |---|---|
 | Mandant war selbst zu schnell | Nachfragen: Konkrete Messung? Zeugen? Beweislast liegt beim Versicherer |
-| Restwert höher — Abzug | BGH VI ZR 132/04: Mandant nicht verpflichtet, höchsten Bieter zu ermitteln; Abzug nur bei Zumutbarkeit |
-| Fiktive Abrechnung ohne MwSt | BGH VI ZR 142/19: fiktive Abrechnung netto; bei tatsächlicher Reparatur MwSt ersetzbar |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Sachverständigenkosten zu hoch | BGH: Geschädigter darf Vertrauenssachverständigen beauftragen; nur grobe Unverhältnismäßigkeit schadet |
-| Mietwagen Schwacke zu hoch | Fraunhofer-Gegengutachten; BGH VI ZR 290/11: Gericht kann Mittelwert bilden |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | SGB X-Übergang bestimmte Positionen | Nur sachlich und zeitlich kongruente Positionen; Quotenvorrecht des Geschädigten § 116 Abs. 3 SGB X |
-| Unangemessenes Schmerzensgeld | Vergleichsfälle aus Hacks/Wellner/Häcker-Tabelle vorlegen |
+| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 
 ## Streitwert und Kosten
 
@@ -286,4 +275,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-StVG §§ 7, 17, 18; VVG §§ 86, 115, 116, 117; BGB §§ 249, 251, 252, 253, 254, 280, 286, 288, 195, 199; SGB X § 116; BGH VI ZR 220/16; VI ZR 91/79; VI ZR 70/04; VI ZR 132/04; VI ZR 35/03; VI ZR 491/15; VI ZR 290/11; VI ZR 76/87; VI ZR 142/19; Sanden/Danner/Küppersbusch Nutzungsausfall-Tabelle; Hacks/Wellner/Häcker Schmerzensgeld-Tabelle 2023; Geigel Haftpflichtprozess 28. Aufl. 2020.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

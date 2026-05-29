@@ -1,6 +1,6 @@
 ---
 name: anmeldung-strategie-portfolio
-description: "Strategische Markenportfolio-Planung fuer Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schuetzen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Pruefraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung."
+description: "Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung."
 ---
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
@@ -25,7 +25,7 @@ Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken,
    - EU-Unionsmarke (UM) für einheitlichen EU-Schutz via EUIPO
    - Internationale Registrierung via Madrid-Protokoll für Drittstaaten (CH, UK, US, JP, CN, AE)
 3. **Klassenstrategie für Mode-Luxus:**
-   - Klasse 3: Parfums, Kosmetika, Pflegeprodukte (klôtzzkètté Parfum „Abîme Dorée")
+   - Klasse 3: Parfums, Kosmetika, Pflegeprodukte (klôtzzkètté Parfum "Abîme Dorée")
    - Klasse 14: Schmuck, Uhren, Edelmetalle (klôtzzkètté Bijou)
    - Klasse 18: Leder, Reiseartikel, Handtaschen (klôtzzkètté Sac)
    - Klasse 25: Bekleidung, Schuhwerk, Kopfbedeckungen (Kernklasse)
@@ -44,26 +44,25 @@ Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken,
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Erstanmeldung „klôtzzkètté" als Wortmarke
+### Konstellation 1: Erstanmeldung "klôtzzkètté" als Wortmarke
 klôtzzkètté SA plant die Markteinführung in DE/EU. Strategie: Gleichzeitige DPMA-Anmeldung (Klassen 14/18/25/35) und EUIPO-Anmeldung mit 6-Monats-Priorität. Sonderzeichen ô/è im Markenwort sind zulässig (Art. 26 I lit. b UMV), erfordern aber eine phonetische Entsprechung in der Beschreibung.
 
 ### Konstellation 2: Erweiterung nach Asien
 Nach 3 Jahren Markterfolg plant die Comtesse Expansion nach CN/JP/KR. Lösung: Madrid-Protokoll-Anmeldung auf Basis der bestehenden EUIPO-Registrierung. WIPO-Gebühren variieren je Bestimmungsland (CN-Zuschlag besonders hoch für Klasse 25).
 
-### Konstellation 3: Neue Produktlinie „klôtzzkètté Maison"
+### Konstellation 3: Neue Produktlinie "klôtzzkètté Maison"
 Haushaltstextilien (Klasse 24), Möbel (Klasse 20), Innenausstattung (Klasse 42 Designdienstleistungen). Eigenständige Unter-Marke oder Erweiterung der bestehenden Registrierungen? Bei über 5 Jahren Benutzungsnachweis in Klasse 25 können neue Klassen via DPMA-Einzel-Anmeldung hinzugefügt werden (keine Zusammenlegung möglich — neue Aktenzeichen).
 
 ### Konstellation 4: Reaktive Verteidigung gegen Brezelmann Discount
-Brezelmann Discount KG (Bad Mergentheim) hat „KLÖTZ-KETTE" in Klasse 25 beim DPMA angemeldet. Prioritätslücke! Sofortiger Widerspruch §§ 42 ff. MarkenG — vgl. Skill `dpma-widerspruch-und-loeschung`.
+Brezelmann Discount KG (Bad Mergentheim) hat "KLÖTZ-KETTE" in Klasse 25 beim DPMA angemeldet. Prioritätslücke! Sofortiger Widerspruch §§ 42 ff. MarkenG — vgl. Skill `dpma-widerspruch-und-loeschung`.
 
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 32-40 (Anmeldeverfahren)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, Vor §§ 3-7 (Markenfähigkeit)
-- BeckOK MarkenR, Hrsg. Büscher, Stand 2024, § 32 MarkenG Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - EUIPO-Leitlinien zur Prüfung, Teil B: Untersuchung, Abschnitt 1 (Formvoraussetzungen)
-- BGH, Urt. v. 02.04.2009 — I ZR 78/06 (ATOZ / ATOZ II) — Klasseneinteilung und Ähnlichkeit
-- EuGH, Urt. v. 19.06.2012 — C-307/10 (IP Translator) — Klassenüberschriften dürfen nicht pauschal verwendet werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -117,8 +116,8 @@ Bevor die Anmeldekaskade gestartet wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.11.2015 — I ZR 167/14 (Durchgerostetes Fahrzeug):** Maßgeblich für die Verwechslungsgefahr zwischen älteren und jüngeren Marken ist der Gesamteindruck; selbst gering unterscheidungskräftige ältere Marken können Schutz gegenüber jüngeren Anmeldungen beanspruchen, wenn die Ähnlichkeit der Zeichen und Waren hoch ist.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 19.06.2012 — C-307/10 (IP Translator):** Klassenüberschriften der Nizza-Klassifikation dürfen nicht pauschal für alle enthaltenen Waren/Dienstleistungen beansprucht werden; das Warenverzeichnis muss hinreichend klar und präzise sein. Übergangsfristenregelung für vor 2012 eingetragene Marken beachten.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 29.01.2020 — C-371/18 (Sky / SkyKick):** Ein zu unklares oder zu weitgefasstes Warenverzeichnis kann zwar nicht allein wegen Bösgläubigkeit nach Art. 59 I lit. b UMV angefochten werden, macht die Marke aber für Löschungsangriffe anfälliger. Präzise Warenverzeichnisse sind daher strategisch überlegen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

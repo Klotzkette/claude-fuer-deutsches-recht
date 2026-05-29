@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-zeugenbeistand
-description: "Zeugenbeistand im Strafverfahren fuer Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat aber eigenes Aussageverweigerungsrecht oder Selbstbelastungsrisiko und benoetigt anwaltlichen Beistand. § 68b StPO Zeugenbeistand, § 55 StPO Auskunftsverweigerungsrecht, § 52 StPO Zeugnisverweigerungsrecht. Pruefraster Auskunftsverweigerungsrecht nach § 55 prüfen, Schutz vor Selbstbelastung, Zeugen-Aussage vorbereiten oder Aussage verweigern, Beistand aktiv ausüben. Output Strategie-Memo fuer Zeugenbeistand mit Aussagepfaden und Verweigerungs-Optionen. Abgrenzung zu Erstgespraeach fuer Beschuldigte und zu Nebenklage."
+description: "Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat aber eigenes Aussageverweigerungsrecht oder Selbstbelastungsrisiko und benoetigt anwaltlichen Beistand. § 68b StPO Zeugenbeistand, § 55 StPO Auskunftsverweigerungsrecht, § 52 StPO Zeugnisverweigerungsrecht. Prüfraster Auskunftsverweigerungsrecht nach § 55 prüfen, Schutz vor Selbstbelastung, Zeugen-Aussage vorbereiten oder Aussage verweigern, Beistand aktiv ausüben. Output Strategie-Memo für Zeugenbeistand mit Aussagepfaden und Verweigerungs-Optionen. Abgrenzung zu Erstgespraeach für Beschuldigte und zu Nebenklage."
 ---
 
 # Zeugenbeistand im Strafverfahren
@@ -50,12 +50,7 @@ Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des 
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH 1 StR 491/09 | BGH, 23.09.2010 | Akteneinsichtsrecht des Zeugenbeistands ist aus § 406e StPO analog abzuleiten; kein gesetzlicher Ausschluss |
-| BVerfG 2 BvR 1421/10 | BVerfG, 27.04.2010 | § 55 StPO schützt vor Selbstbelastung; Belehrungspflicht ist konstitutiv, nicht dispositiv |
-| BGH 2 StR 275/18 | BGH, 12.09.2018 | Erzwingungshaft nach § 70 StPO setzt rechtskräftige Weigerungsfeststellung voraus; Beschwerdemöglichkeit vor Vollzug |
-| OLG München 2 Ws 356/17 | OLG München, 2017 | Adressanonymisierung nach § 68 Abs. 3 StPO setzt konkrete Gefahrenlage voraus; pauschale Befürchtungen reichen nicht |
-| BVerfG 2 BvR 2480/10 | BVerfG, 15.07.2010 | Zeugnisverweigerungsrecht § 52 StPO gilt auch für eheähnliche Lebensgemeinschaft; verfassungskonforme Auslegung |
-| BGH 4 StR 589/14 | BGH, 05.02.2015 | Reichweite § 53 StPO bei Anwaltssekretärin: nur auf konkrete Mandatsinformation bezogen, nicht pauschal |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -179,7 +174,7 @@ Ich beantrage Einsicht in die Verfahrensakte, insbesondere:
 Das berechtigte Interesse ergibt sich aus der bevorstehenden
 Zeugenvernehmung am [Termin]. Eine sachgerechte Vorbereitung
 ist ohne Kenntnis des Verfahrensstands und der bereits vor-
-liegenden Beweise nicht möglich (BGH 1 StR 491/09).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Ort, Datum]
 [Unterschrift]
@@ -219,11 +214,11 @@ liegenden Beweise nicht möglich (BGH 1 StR 491/09).
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
-| „§ 55 StPO greift nur bei konkreter Anklage der Zeugin" | Nein; § 55 StPO greift bereits bei objektiver Verfolgungsgefahr, also wenn aufgrund der Antwort ein Anfangsverdacht entstehen könnte (BGH NJW 2006, 1529) |
-| „Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
-| „Akteneinsicht steht dem Zeugenbeistand nicht zu" | BGH 1 StR 491/09: Analogie zu § 406e StPO anerkannt; auch § 475 StPO als Rechtsgrundlage möglich |
-| „Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
+| "Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
 
 ---
 
@@ -243,7 +238,7 @@ liegenden Beweise nicht möglich (BGH 1 StR 491/09).
 
 ### Konstellation A: Familienmitglied als Zeuge gegen Angehörigen
 
-Prüfung § 52 StPO zunächst: Ist die Beziehung formalisiert (Ehe, eingetragene Lebenspartnerschaft)? Bei eheähnlicher Lebensgemeinschaft: BVerfG 2 BvR 2480/10 beachten (verfassungskonforme Erweiterung möglich). Entscheidung der Zeugin/des Zeugen dokumentieren. Schriftliche Belehrung anfertigen. Bei Vernehmung: Erklärung zur Verweigerung formulieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation B: Mit-Beschuldigter als Zeuge im Parallelverfahren
 
@@ -287,4 +282,4 @@ HinSchG-Schutz prüfen (Hinweisgeberschutzgesetz 2023). Identitätsschutz und Ad
 
 ## Quellen
 
-Strafprozessordnung §§ 48, 52–55, 68–68b, 70, 97, 136a, 161a, 163a, 247, 406e, 475 StPO. BGH 1 StR 491/09 (Akteneinsicht Zeugenbeistand). BVerfG 2 BvR 1421/10 (§ 55 StPO Belehrungspflicht). BVerfG 2 BvR 2480/10 (§ 52 StPO eheähnliche Lebensgemeinschaft). BGH 2 StR 275/18 (Erzwingungshaft). HinSchG 2023. Meyer-Goßner/Schmitt StPO, aktuelle Auflage. Stand: 05/2026.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

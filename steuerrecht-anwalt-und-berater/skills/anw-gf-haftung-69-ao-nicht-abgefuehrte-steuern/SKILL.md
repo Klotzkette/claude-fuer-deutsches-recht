@@ -1,6 +1,6 @@
 ---
 name: anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern
-description: "Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgefuehrter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschaeftsfuehrer erhaelt persoenlichen Haftungsbescheid des Finanzamts fuer Steuerschulden der Gesellschaft in der Krise. Pruefung vorsaetzliche oder grob fahrlaessige Pflichtverletzung Kausalitaet Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente."
+description: "Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persoenlichen Haftungsbescheid des Finanzamts für Steuerschulden der Gesellschaft in der Krise. Prüfung vorsaetzliche oder grob fahrlässige Pflichtverletzung Kausalität Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente."
 ---
 
 # GF-Haftung § 69 AO für nicht abgeführte Lohn-/Umsatzsteuer
@@ -33,13 +33,7 @@ Anwaltliche Verteidigung der Geschäftsführerin oder des Geschäftsführers ein
 
 ### Leitentscheidungen
 
-- BFH, Urt. v. 26.7.1988 — **VII R 83/87**, BFHE 153, 512 (Grundsatz **anteilige Tilgung**: in der Krise hat der GF die Gesellschaftsmittel proportional auf alle Gläubiger zu verteilen; keine Vorzugsbehandlung).
-- BFH, Urt. v. 13.7.1994 — **I R 112/93** (Lohnsteuer ist **Treuhandvermögen** des Arbeitgebers; bei Liquiditätsknappheit Pflicht zur anteiligen Abführung, ggf. Reduzierung der Nettolöhne).
-- BFH, Urt. v. 11.3.2004 — **VII R 19/02** (Verschulden: einfache Fahrlässigkeit reicht nicht; Substantiierungslast FA für grobe Fahrlässigkeit / Vorsatz).
-- BFH, Urt. v. 1.8.2000 — **VII R 110/99** (Ressortteilung mehrerer GF: Entlastung nur bei klarer Aufgabenverteilung und Überwachungspflicht durch nicht zuständigen GF).
-- BFH, Urt. v. 26.9.2017 — **VII R 40/16** (Haftung der GmbH-GF auch nach Bestellungsende für laufende Steuerverpflichtungen).
-- BGH, Urt. v. 21.2.2013 — **5 StR 263/12** (§ 266a StGB; SV-Beiträge unabhängig von Liquidität abzuführen; **anders als** § 69 AO bei Steuern).
-- BFH, Urt. v. 28.4.2015 — **VII R 23/14** (Mitverschulden FA bei verzögerter Vollstreckung; selten relevant, aber Verteidigungslinie).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Haftungsvoraussetzungen § 69 AO
 
@@ -51,7 +45,7 @@ Anwaltliche Verteidigung der Geschäftsführerin oder des Geschäftsführers ein
 
 ## Verteidigungslinien
 
-### Linie 1 — Anteilige Tilgung (BFH VII R 83/87)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wenn liquide Mittel **nicht für alle Gläubiger** ausreichten, war der GF berechtigt, die Mittel **proportional** zu verteilen. Berechnung:
 
@@ -61,7 +55,7 @@ Wenn liquide Mittel **nicht für alle Gläubiger** ausreichten, war der GF berec
 - Proportional auf FA: Z × Y / X
 - → **Haftung nur in Höhe der nicht-anteiligen Differenz.**
 
-Für Lohnsteuer gilt eine **Sonderregel** (BFH I R 112/93): Lohnsteuer ist Treuhandvermögen. Bei Liquiditätsmangel muss der GF die Nettolöhne **anteilig kürzen**, damit das Verhältnis zu Lohnsteuer erhalten bleibt — d. h. Lohnsteuer ist im Verhältnis der ausgezahlten Nettolöhne abzuführen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Linie 2 — Verschulden bestreiten
 
@@ -90,7 +84,7 @@ Bei mehreren GF: schriftliche **Aufgabenverteilung** vorgelegt? Hat der Steuerve
 
 **Vorsicht — anders als § 69 AO:**
 
-- § 266a StGB (Beitragsvorenthaltung **Arbeitnehmeranteil** SV) gilt **strikt** — Liquidität ist **kein Rechtfertigungsgrund**. Der GF muss SV-Beiträge unabhängig von der Liquidität abführen (BGH 5 StR 263/12).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anteilige-Tilgung-Argument der § 69 AO greift bei § 266a StGB **nicht**.
 - Strategie: Steuerstrafrechtliche Selbstbelastung vermeiden (§ 393 AO trotz Verteidigung StB-Akte). Vgl. `anw-steuerstrafverteidigung-verstaendigung`.
 - Bei parallelem Strafverfahren: Verteidigung primär im Strafverfahren (§ 266a StGB-Folge ist Freiheitsstrafe; § 69 AO-Folge ist Vermögenshaftung).
@@ -141,4 +135,4 @@ Bei Ablehnung Einspruch: Klage nach `anw-klage-finanzgericht`; AdV beim FG § 69
 
 ## Quellen und Updates
 
-Stand: 05/2026. BFH-Linie zur anteiligen Tilgung (VII R 83/87) und Lohnsteuer-Treuhand (I R 112/93) ungebrochen. § 15b InsO-Zusammenspiel mit § 69 AO seit SanInsFoG geprüft. Bei Reform AO/InsO oder neuer BFH-Linie zur Anteiligkeit aktualisieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

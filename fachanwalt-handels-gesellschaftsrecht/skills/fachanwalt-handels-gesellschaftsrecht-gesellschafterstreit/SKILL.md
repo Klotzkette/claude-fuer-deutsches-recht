@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit
-description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246 AktG (4 Wochen) analog GmbH (1 Monat). Nichtigkeitsklage § 249 AktG. Stimmverbot § 47 Abs. 4 GmbHG. Ausschluss des Gesellschafters aus wichtigem Grund und Einziehung § 34 GmbHG. Abfindung Verkehrswert (Buchwertklausel BGH II ZR 24/14). Hinauskündigungsklauseln § 138 BGB. MoPeG GbR-Streit §§ 706 ff. BGB nF. Gesellschafterdarlehen MoMiG. Schriftsatzvorlagen Anfechtungsklage, Ausschlussklage, einstweilige Verfügung."
+description: "Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -11,7 +11,7 @@ description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246
 4. Geht es um Anfechtbarkeit (Verfahrens-/Inhaltsmangel) oder Nichtigkeit (§§ 241, 249 AktG analog)?
 5. Liegt ein Stimmverbotsverstoß vor (§ 47 Abs. 4 GmbHG, § 136 AktG) — war der Beschluss Gegenstand einer Rechtsangelegenheit des abstimmenden Gesellschafters?
 6. Wurde bei der AG Widerspruch zur Niederschrift erklärt (§ 245 Nr. 1 AktG)?
-7. Frist beachtet — AG 4 Wochen § 246 Abs. 1 AktG; GmbH i. d. R. 1 Monat?
+7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 8. Liegt ein wichtiger Grund für Ausschluss eines Mitgesellschafters vor (Treuepflichtverletzung, strafrechtliches Verhalten, Zerrüttung)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -39,13 +39,7 @@ description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | II ZR 73/11 | 12.03.2013 | Stimmverbot § 47 Abs. 4 GmbHG: gilt auch für mittelbar betroffene Beschlüsse; weite Auslegung |
-| BGH | II ZR 343/16 | 13.07.2017 | Hinauskündigungsklausel: freie Klausel ohne sachlichen Grund = § 138 BGB; Manager-Modell mit Leistungsvereinbarung zulässig |
-| BGH | II ZR 24/14 | 16.06.2015 | Einziehung Geschäftsanteil: Abfindung nach Verkehrswert; Buchwertklausel nur zulässig wenn nicht unverhältnismäßig unter Verkehrswert |
-| BGH | II ZR 273/11 | 09.04.2013 | Einberufungsmangel GmbH: Fristverstoß § 51 GmbHG heilt bei Anwesenheit aller Gesellschafter nicht automatisch |
-| BGH | II ZR 255/16 | 19.06.2018 | Ausschluss OHG/KG aus wichtigem Grund: unzumutbare Zerüttung des Vertrauensverhältnisses als wichtiger Grund |
-| BGH | II ZR 175/95 | 21.04.1997 | ARAG/Garmenbeck: Aufsichtsrat AG hat Verfolgungspflicht bei Vorstandsschäden; Ermessen nur im engen Rahmen |
-| OLG München | 7 U 1994/20 | 22.12.2021 | MoPeG-Vorwirkung: GbR-Beschlussanfechtung nach § 709 BGB nF analog anwendbar |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Beschlussanfechtungsklage GmbH
 
@@ -70,7 +64,7 @@ description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246
 | 1 | Ausschlussklausel in Satzung vorhanden? | § 34 GmbHG | Bei Fehlen: Ausschlussklage mit Gestaltungsurteil |
 | 2 | Wichtiger Grund: Pflichtverletzung, Zerrüttung, Schaden? | BGH-Rspr. | Konkrete Tatsachen darlegen |
 | 3 | Abmahnung vor Ausschluss? | Treu und Glauben | Bei wiederholten Verstößen Abmahnung erforderlich |
-| 4 | Abfindung: Verkehrswert oder Buchwert? | § 34 GmbHG; BGH II ZR 24/14 | Buchwertklausel: nur zulässig wenn kein offensichtliches Missverhältnis |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Einziehungsbeschluss in GV mit erforderlicher Mehrheit? | § 34 GmbHG; Satzung | Einstimmigkeit oder qualifizierte Mehrheit je nach Satzung |
 | 6 | Einstweilige Verfügung auf Amtsniederlegung Geschäftsführer? | §§ 935, 940 ZPO | Gefährdungsnachweis |
 
@@ -105,7 +99,7 @@ wegen Anfechtung Gesellschafterbeschluss vom [Datum]
 Anträge:
 
 1. Der Beschluss der Gesellschafterversammlung der Beklagten vom [Datum]
-   zu Tagesordnungspunkt [Nr.] — Wortlaut: „[...]" — wird für nichtig erklärt.
+   zu Tagesordnungspunkt [Nr.] — Wortlaut: "[...]" — wird für nichtig erklärt.
 
 2. Hilfsweise: Es wird festgestellt, dass der Beschluss nichtig ist.
 
@@ -204,7 +198,7 @@ Diese Pflichtverletzungen machen das Verbleiben des Beklagten in der
 Gesellschaft unzumutbar.
 
 II. Abfindung
-Die Abfindung bemisst sich nach dem Verkehrswert (BGH II ZR 24/14).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Satzungsklauseln mit Buchwertabfindung sind anzupassen, soweit sie zu
 einer evident unangemessenen Unterbewertung führen.
 
@@ -244,12 +238,10 @@ einer evident unangemessenen Unterbewertung führen.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Anfechtungsfrist versäumt" | Beklagte | Fristbeginn exakt dokumentieren; bei AG: Bekanntmachung maßgeblich |
-| „Verfahrensmangel war kausal irrelevant" | Beklagte | BGH: Kausalität nur bei offensichtlicher Unerheblichkeit entfallen; Zweifel gehen zu Lasten der Gesellschaft |
-| „Stimmverbot nicht anwendbar — Beschluss betrifft Gesellschaft, nicht Person" | Beklagte | § 47 Abs. 4 GmbHG: weite Auslegung BGH II ZR 73/11; mittelbare Betroffenheit reicht |
-| „Buchwertabfindung wirksam vereinbart" | Beklagte | BGH II ZR 24/14: Unverhältnismäßigkeit prüfen; nur bei maximal moderatem Abschlag zulässig |
-| „Hinauskündigungsklausel wirksam" | Beklagte | BGH II ZR 343/16: sachlicher Grund erforderlich; bloßes Mehrheitswille reicht nicht |
-| „Kein wichtiger Grund für Ausschluss" | Beklagter (Ausschlossener) | Schwere der Pflichtverletzung + Zumutbarkeit des Verbleibs darlegen; mehrere Vorfälle kumulativ |
+| "Anfechtungsfrist versäumt" | Beklagte | Fristbeginn exakt dokumentieren; bei AG: Bekanntmachung maßgeblich |
+| "Verfahrensmangel war kausal irrelevant" | Beklagte | BGH: Kausalität nur bei offensichtlicher Unerheblichkeit entfallen; Zweifel gehen zu Lasten der Gesellschaft |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Kein wichtiger Grund für Ausschluss" | Beklagter (Ausschlossener) | Schwere der Pflichtverletzung + Zumutbarkeit des Verbleibs darlegen; mehrere Vorfälle kumulativ |
 
 ## Streitwert und Kosten
 

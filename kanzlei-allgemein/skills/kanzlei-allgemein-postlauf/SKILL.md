@@ -13,10 +13,7 @@ description: "Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingä
 4. Welche offenen Action-Items aus dem letzten Postlauf sind noch ausstehend?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Taeglich strukturierter Postlauf als Kanzleipflicht; ein Fristversaeuumnis wegen verspaetem Postlauf begruendet Haftung nach § 51 BRAO.
-- BGH, Beschl. v. 22.02.2021 - II ZB 3/20, NJW 2021, 1385 — Doppelkontrolle im Postlauf: Eingang und Fristenwirkung muessen voneinander unabhaengig kontrolliert werden.
-- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — beA-Eingang ist unverzueglich zu pruefen; verspätete Kenntnisnahme schutzt nicht vor Fristfolgen.
-- BGH, Beschl. v. 26.01.2021 - VIII ZB 73/19, NJW 2021, 695 — Vier-Tages-Fiktion (PostModG ab 01.01.2025) ist im Postlauf zu beachten; frueherer Eingang ist immer als moeglich zu behandeln.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 173 ZPO — Zeitpunkt der beA-Zustellung: Eingang im Empfangspostfach
@@ -24,10 +21,9 @@ description: "Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingä
 - Art. 7 PostModG — Vier-Tages-Zustellungsfiktion seit 01.01.2025
 - § 51 BRAO — Haftung bei Organisationspflichtverletzung im Postlauf
 
-## Kommentarliteratur
-- Zöller/Greger ZPO §§ 173-174 Rn. 1-20 (Zustellung durch beA und EB)
-- Gaier/Wolf/Göcken BRAO § 51 Rn. 1-30 (Haftung: Postlauf-Fehler als Organisationspflichtverletzung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill bildet die tägliche Kanzleipost ab. Er ist für den manuellen Aufruf oder für eine Umgebung mit Automationen gedacht.

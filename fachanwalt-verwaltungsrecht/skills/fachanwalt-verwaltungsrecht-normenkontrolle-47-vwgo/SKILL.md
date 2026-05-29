@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo
-description: "Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen. Normen: § 47 VwGO (Normenkontrolle OVG), Art. 14 GG (Eigentumsschutz), § 1 Abs. 7 BauGB (Abwaegungsgebot). Pruefraster: Antragsfrist 1 Jahr ab Inkrafttreten, Antragsbefugnis, OVG-Zustaendigkeit, Abwaegungsfehler. Output Normenkontrollantrag-Entwurf. Abgrenzung: Anfechtungsklage gegen einzelnen VA siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Planfeststellung siehe energietrassen-planfeststellung-rechtsschutz."
+description: "Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen. Normen: § 47 VwGO (Normenkontrolle OVG), Art. 14 GG (Eigentumsschutz), § 1 Abs. 7 BauGB (Abwaegungsgebot). Prüfraster: Antragsfrist 1 Jahr ab Inkrafttreten, Antragsbefugnis, OVG-Zuständigkeit, Abwaegungsfehler. Output Normenkontrollantrag-Entwurf. Abgrenzung: Anfechtungsklage gegen einzelnen VA siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Planfeststellung siehe energietrassen-planfeststellung-rechtsschutz."
 ---
 
 # Normenkontrolle § 47 VwGO
@@ -145,17 +145,11 @@ Prüfung untergesetzlicher Rechtsnormen (Bebauungspläne, Satzungen, Rechtsveror
 
 ## 11) Aktuelle BVerwG-Leitentscheidungen
 
-- BVerwG, Urt. v. 09.04.2008 — 4 CN 1.07, BVerwGE 131, 100 — Antragsbefugnis Normenkontrolle; bloss mittelbare Betroffenheit genuegt nicht; eigene Rechtsbeeintraechtigung muss moeglich sein (§ 47 Abs. 2 VwGO).
-- BVerwG, Urt. v. 14.11.2022 — 4 C 2.21, NVwZ 2023, 567 — Abwaegungsgebot § 1 Abs. 7 BauGB; Abwaegungsmaterial muss vollstaendig ermiittelt sein; fehlerhaftes Abwaegungsergebnis fuehrt zur Unwirksamkeit des Bebauungsplans.
-- BVerwG, Urt. v. 18.05.2022 — 4 CN 3.20, BVerwGE 175, 345 — Heilung nach § 215 BauGB; Ruege im laufenden Normenkontrollverfahren zeitlich unbegrenzt; Praeklusion nur bei verspaetetem Vortrag ausserhalb Jahresfrist des § 215 Abs. 1 BauGB.
-- OVG Berlin-Brandenburg, Urt. v. 21.04.2023 — OVG 10 A 5.22 — Antragsfrist § 47 Abs. 2 Satz 1 VwGO; 1 Jahr ab Bekanntmachung; jede wesentliche Aenderung des Plans loest neue Jahresfrist aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## 12) Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO § 47 Rn. 1-100 (Normenkontrolle systematisch)
-- Schoch/Schneider VwGO § 47 Rn. 1-80 (Antragsbefugnis, Frist, Fehlerfolgen)
-- Battis/Krautzberger/Loeehr BauGB § 1 Rn. 50-120 (Abwaegungsgebot, § 215 Heilung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 - `normenkontrolle-bauleitplanung` (Vollplugin) — Vertieftes Verfahren

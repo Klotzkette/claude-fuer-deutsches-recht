@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-an-fachanwalt-insolvenz
-description: "Komplexitaetsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Pruefungstool und erfordert Fachanwalt fuer Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Pruefraster: Komplexitaetssignale, Mandatsgrenzen, Hinweispflicht. Output: Warnhinweis mit Empfehlung Fachanwalt Insolvenzrecht. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
+description: "Komplexitätsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Prüfungstool und erfordert Fachanwalt für Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Prüfraster: Komplexitätssignale, Mandatsgrenzen, Hinweispflicht. Output: Warnhinweis mit Empfehlung Fachanwalt Insolvenzrecht. Abgrenzung: kein inhaltlicher Anspruchsgutachter."
 ---
 
 # Mandatsabbruch und Empfehlung an Fachanwalt
@@ -19,18 +19,15 @@ description: "Komplexitaetsindikatoren erkennen: Wann uebersteigt der Sachverhal
 
 ## Rechtsprechung
 
-BGH, Urt. v. 05.12.2013 – IX ZR 93/11, NJW 2014, 1388 — Die Feststellung des Zeitpunkts der Zahlungsunfähigkeit nach § 17 InsO erfordert eine umfassende Liquiditätsprüfung; bei Streit über den Zeitpunkt ist sachverständige Unterstützung und anwaltliche Spezialberatung unerlässlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.02.2013 – IX ZR 52/10, NJW 2013, 1873 — Bei konzerninternen Vermögenstransfers und Anfechtung nach § 133 InsO ist die Prüfung der Benachteiligungsabsicht besonders komplex; eine mechanische Prüfung anhand einfacher Indikatoren reicht nicht aus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.05.2011 – IX ZR 9/10, NJW 2011, 2492 — Bei Grundstücksübertragungen kurz vor Insolvenz sind neben Anfechtungsrecht auch notarielle, grundbuchrechtliche und steuerrechtliche Fragen zu klären; anwaltliche Spezialisierung ist erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–20 (Anfechtungsrecht allgemein, Grenzen der Selbsthilfe).
-Uhlenbruck in: Uhlenbruck, InsO, 15. Aufl. 2023, Einleitung Rn. 50–70 (Spezialisierungsbedarf im Insolvenzrecht).
-Kirchhof in: MüKoInsO, 4. Aufl. 2023, § 17 Rn. 50–80 (Streit über Zahlungsunfähigkeit, Sachverständige).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill benennt Situationen, in denen die mechanische Prüfung an ihre Grenzen stößt. In diesen Fällen ist anwaltliche Beratung durch einen Spezialisten zwingend.
@@ -88,11 +85,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 016 – Halluzinations-Reparatur
-Problem: BGH XI ZR 338/08 – WRONG_TOPIC und falsches Datum (Skill behauptete 27.04.2010, real: 27.10.2009).
-Realthema laut dejure.org: Anlageberatung, Pflicht der Bank zur Prospektprüfung mit banküblichem kritischem Sachverstand, Kick-backs/Innenprovisionen, kein Bereicherungsrecht/Prospekthaftungsüberlagerung wie behauptet (ZIP 2009, 2380; WM 2009, 2306).
-Massnahme: Eintrag vollständig gelöscht (falsches Thema, falsches Datum, falsche NJW-Fundstelle).
-Quelle: https://dejure.org/2009,27
--->

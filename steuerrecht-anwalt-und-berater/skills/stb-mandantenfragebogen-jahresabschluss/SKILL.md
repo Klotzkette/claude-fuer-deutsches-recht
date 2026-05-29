@@ -1,6 +1,6 @@
 ---
 name: stb-mandantenfragebogen-jahresabschluss
-description: "Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbereitung systematische Datenerhebung vom Mandanten Bestaende Forderungen Verbindlichkeiten Rueckstellungen Sondervorgaenge. Methodik strukturierter Fragebogen Pruefliste. Output ausgefuellter Fragebogen Datenbasis fuer Jahresabschluss."
+description: "Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbereitung systematische Datenerhebung vom Mandanten Bestaende Forderungen Verbindlichkeiten Rückstellungen Sondervorgaenge. Methodik strukturierter Fragebogen Prüfliste. Output ausgefuellter Fragebogen Datenbasis für Jahresabschluss."
 ---
 
 # Mandantenfragebogen zum Jahresabschluss

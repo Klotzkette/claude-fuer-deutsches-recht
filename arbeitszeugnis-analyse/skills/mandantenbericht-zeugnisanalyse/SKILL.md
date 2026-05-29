@@ -17,7 +17,7 @@ Der Bericht hat eine feste Struktur. Die Reihenfolge stellt sicher, dass der Man
 
 ### Abschnitt 1 Gesamtbewertung und Note
 
-Beginnt mit der ermittelten Gesamtnote in Worten und einer Einordnung. Die Note wird begruendet mit Verweis auf die zentrale Zufriedenheitsformel und die Schlussformel. Wichtig: Wenn die Drift-Analyse eine andere Note ergibt als die reine Zufriedenheitsformel, ist beides anzugeben und der Unterschied zu erklaeren.
+Beginnt mit der ermittelten Gesamtnotenspanne in Worten und einer Einordnung. Die Spanne wird begründet mit Verweis auf die zentrale Zufriedenheitsformel, den Leistungsteil, den Verhaltensteil, Drift und Schlussformel. Wichtig: Wenn die Drift-Analyse eine andere Tendenz ergibt als die reine Zufriedenheitsformel, ist beides anzugeben und der Unterschied zu erklären.
 
 ### Abschnitt 2 Befund pro Themenbereich
 
@@ -29,11 +29,11 @@ Wortlauf der problematischen Saetze mit kurzer Erklaerung. Pro Stelle ein Absatz
 
 ### Abschnitt 4 Rechtliche Einordnung
 
-Erklaerung des Anspruchs nach Paragraf 109 GewO, der Beweislastverteilung und der einschlaegigen BAG-Rechtsprechung. Bei Schlussformel-Streit Hinweis auf die Rechtsprechung zu Dankesformel und Bedauern. Dauer der Verjaehrungsfrist und Verwirkungsrisiko werden konkret benannt.
+Erklärung des Anspruchs nach § 109 GewO, der Beweislastverteilung und der einschlägigen BAG-Rechtsprechung. Bei Schlussformel-Streit immer trennen: Signalwirkung für Bewerbungen einerseits, einklagbarer Anspruch andererseits. Dauer der Verjährungsfrist und Verwirkungsrisiko werden konkret benannt.
 
 ### Abschnitt 5 Erfolgsaussichten
 
-Realistische Einschaetzung pro Streitpunkt. Drei Stufen: gut belegbar, vertretbar, schwierig. Beispiele: Eine fehlende Bedauernsformel bei Arbeitgeberkuendigung ist gut belegbar. Eine schwache Schlussformel ohne Dankesformel ist vertretbar, weil das BAG hier nicht durchgaengig zwingend einen Anspruch annimmt. Eine reine Wortwahl-Aenderung ohne Notenrelevanz ist schwierig.
+Realistische Einschätzung pro Streitpunkt. Drei Stufen: gut belegbar, vertretbar, schwierig. Beispiele: "bemüht" im Leistungsteil ist regelmäßig gut angreifbar. Eine schwache Schlussformel ohne Dankesformel ist eher verhandelbar und nur mit Zusatzkontext klagegeeignet, weil das BAG keinen allgemeinen Anspruch auf Dank, Bedauern und Wünsche annimmt. Eine reine Wortwahl-Änderung ohne Notenrelevanz ist schwierig.
 
 ### Abschnitt 6 Drei Handlungsoptionen
 
@@ -59,12 +59,12 @@ Gesamtbewertung: Note befriedigend bis ausreichend (zwischen drei und vier auf d
 
 Kritisch sind insbesondere folgende Stellen:
 
-- Schlussformel ohne Bedauern und ohne Dankesformel
-- Wendung „bemuehte sich" im Bereich Arbeitsweise
+- Schlussformel ohne Bedauern und ohne Dankesformel (Signalpunkt, rechtlich gesondert zu prüfen)
+- Wendung "bemuehte sich" im Bereich Arbeitsweise
 - Auslassung der Aussage zur Vorgesetztenbeurteilung trotz Fuehrungsverantwortung
-- Steigerungsadverb „im Grossen und Ganzen" in der Gesamtzufriedenheit
+- Steigerungsadverb "im Grossen und Ganzen" in der Gesamtzufriedenheit
 
-Diese Befunde sind nach der staendigen Rechtsprechung des Bundesarbeitsgerichts berichtigungspflichtig. Der Anspruch ergibt sich aus Paragraf 109 GewO.
+Diese Befunde werden am Maßstab des Paragraf 109 GewO und nur mit live verifizierter Rechtsprechung eingeordnet.
 
 ## Anschluss
 
@@ -81,5 +81,4 @@ Der Bericht ist fertig, wenn vier Kriterien erfuellt sind. Er kommt ohne juristi
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

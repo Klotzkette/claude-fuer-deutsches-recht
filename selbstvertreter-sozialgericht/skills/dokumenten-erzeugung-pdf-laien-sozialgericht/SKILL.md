@@ -1,6 +1,6 @@
 ---
 name: dokumenten-erzeugung-pdf-laien-sozialgericht
-description: "PDF-Dateien fuer SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden fuer Buerger ohne EDV-Kenntnisse."
+description: "PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse."
 ---
 
 # PDFs erzeugen — Schritt fuer Schritt

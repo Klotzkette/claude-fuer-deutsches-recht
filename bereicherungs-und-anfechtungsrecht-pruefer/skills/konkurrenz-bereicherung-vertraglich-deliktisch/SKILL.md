@@ -1,6 +1,6 @@
 ---
 name: konkurrenz-bereicherung-vertraglich-deliktisch
-description: "Verhältnis von Bereicherungsrecht zu vertraglichen Anspruechen und Deliktsrecht §§ 823 ff. BGB klaeren. Normen: §§ 812 823 987 ff. BGB. Pruefraster: Vorrang-/Spezialitaetsfragen, bereicherungsrechtliche Lueckenfuellung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill)."
+description: "Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klären. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitätsfragen, bereicherungsrechtliche Lückenfüllung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill)."
 ---
 
 # Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV
@@ -19,20 +19,17 @@ description: "Verhältnis von Bereicherungsrecht zu vertraglichen Anspruechen un
 
 ## Rechtsprechung
 
-BGH, Urt. v. 10.12.2014 – VIII ZR 9/14, NJW 2015, 1167 — Beim Rücktritt vom Vertrag gehen §§ 346 ff. BGB als Sonderregelung vor; § 812 BGB ist für die Rückabwicklung des konkreten Vertragsverhältnisses ausgeschlossen, solange §§ 346 ff. BGB einschlägig sind.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.02.1999 – IX ZR 30/98, NJW 1999, 1704 — Ist der Vertrag nach § 134 oder § 138 BGB nichtig, fehlt der Rechtsgrund; § 812 Abs. 1 S. 1 BGB greift unmittelbar; die nichtigen Vertragsklauseln begründen weder Erfüllungs- noch Rückgewähransprüche.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 18.01.1979 – VII ZR 165/78, NJW 1979, 763 — Bereicherungsanspruch und Deliktsanspruch stehen grundsätzlich nebeneinander; der Anspruchsteller wählt die günstigste Anspruchsgrundlage, solange keine Doppelbefriedigung eintritt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 09.03.2012 – V ZR 115/11, NJW 2012, 1793 — Das Eigentümer-Besitzer-Verhältnis (§§ 987–993 BGB) ist gegenüber § 812 BGB lex specialis, solange Eigentum und Besitz auseinanderfallen und der Herausgabeanspruch aus § 985 BGB besteht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 30–60 (Verhältnis zu Vertrag, Delikt, EBV).
-Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 812 Rn. 5–20 (Subsidiarität, Vorrang der Sondernormen).
-Schwab in: MüKoBGB, 9. Aufl. 2024, § 812 Rn. 30–70 (Konkurrenzfragen, nichtiger Vertrag).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundsatz: Subsidiarität des Bereicherungsrechts
 
 Das Bereicherungsrecht ist in bestimmten Konstellationen subsidiär, in anderen kann es neben anderen Ansprüchen stehen.

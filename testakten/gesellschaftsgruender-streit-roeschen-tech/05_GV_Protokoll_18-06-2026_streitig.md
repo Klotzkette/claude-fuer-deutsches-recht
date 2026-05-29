@@ -68,7 +68,7 @@ Andrea berichtet ueber den Stand der Series-B-Verhandlungen mit Pi Mu Holding Gm
 - Sondervetorechte: bei Aenderung Satzung, Aufnahme weiterer Investoren
 - Strategische Beitraege: Markt-Zugang Industrie, technologische Synergien mit Portfolio
 
-Christine kritisiert: „Pi Mu Holding hat **keine** echten strategischen Beitraege. Das Portfolio von Pi Mu enthaelt nur Finanzinvestments, keine industriellen Beteiligungen. Der Vorwand „strategischer Investor" dient nur dazu, das Bezugsrecht der Minderheits-Gesellschafter auszuhebeln."
+Christine kritisiert: "Pi Mu Holding hat **keine** echten strategischen Beitraege. Das Portfolio von Pi Mu enthaelt nur Finanzinvestments, keine industriellen Beteiligungen. Der Vorwand "strategischer Investor" dient nur dazu, das Bezugsrecht der Minderheits-Gesellschafter auszuhebeln."
 
 Diskussion: Andrea und Stahlauge widersprechen.
 
@@ -111,7 +111,7 @@ Die nach § 11 (5) Satzung erforderliche 75 %-Mehrheit (fuer Kapitalerhoehung un
 
 Christine erhebt **Anfechtungsvorbehalt**:
 
-„Ich erhebe hiermit Anfechtungsvorbehalt gegen den vorstehenden Beschluss und behalte mir vor, binnen Monatsfrist Anfechtungsklage zu erheben. Begruendung:
+"Ich erhebe hiermit Anfechtungsvorbehalt gegen den vorstehenden Beschluss und behalte mir vor, binnen Monatsfrist Anfechtungsklage zu erheben. Begruendung:
 
 a) Sachliche Rechtfertigung des Bezugsrechtsausschlusses fehlt (Paragraf 55 IV GmbHG, BGH-Linie Kali+Salz, BGHZ 71, 40).
 b) Verstoss gegen die Treuepflicht der Mitgesellschafter (Paragraf 242 BGB).

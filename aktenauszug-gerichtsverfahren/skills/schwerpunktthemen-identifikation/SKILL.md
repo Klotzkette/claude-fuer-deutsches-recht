@@ -1,6 +1,6 @@
 ---
 name: schwerpunktthemen-identifikation
-description: "Anwalt braucht schnellen Ueberblick ueber drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Pruefraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Ueberblick) und rechtsargumente-gegenueberstellung (alle Argumente)."
+description: "Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente)."
 ---
 
 # Schwerpunktthemen-Identifikation
@@ -25,16 +25,11 @@ Dieser Skill identifiziert die drei bis fünf zentralen Rechtsfragen, auf denen 
 
 ## Rechtsprechung zu Schwerpunktthemen im Zivilprozess
 
-- BGH, Urt. v. 12.05.2016 - VII ZR 171/15, BGHZ 210, 206 — Bauträgervertrag: Ansprüche wegen Mängeln an neu errichteten Eigentumswohnungen richten sich nach Werkvertragsrecht; Abnahme des Gemeinschaftseigentums obliegt jedem einzelnen Erwerber individuell.
-- BGH, Urt. v. 12.02.2019 - VI ZR 141/18, NJW 2019, 2538 — Schadensminderungspflicht bei Mietwagennahme nach Verkehrsunfall: Unfallgeschädigter kann gehalten sein, ein vom Kfz-Haftpflichtversicherer vermitteltes günstigeres Mietwagenangebot im Sondertarif anzunehmen.
-- BGH, Urt. v. 08.01.2019 - XI ZR 535/17, NJW 2019, 1296 — Zur Darlegungs- und Beweislastverteilung als zentralem Schwerpunktthema: die Partei, die sich auf einen anspruchsbegründenden Umstand beruft, trägt die Beweislast.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 139 Rn. 1 ff. (Materielle Prozessleitung, Hinweispflicht)
-- MüKo ZPO/Becker-Eberhard § 286 Rn. 1 ff. (Entscheidungserheblichkeit und Beweislast)
-- Thomas/Putzo ZPO, § 359 Rn. 1 ff. (Beweisbeschluss)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kriterien für ein Schwerpunktthema
 
 Ein Thema ist Schwerpunkt, wenn:
@@ -75,9 +70,9 @@ Drei bis fünf Schwerpunktthemen. Bei einfachen Verfahren können es weniger sei
 
 **Beschreibung:** Streitig ist, ob der Schadensersatzanspruch der Klägerin nach § 634a Abs. 1 Nr. 1 BGB (zwei Jahre ab Abnahme) bereits verjährt ist.
 
-**Parteiposition Klägerin:** Verjährungsfrist beginnt erst mit Kenntnis des verdeckten Mangels; Frist läuft noch. Gestützt auf BGH Urt. v. 08.07.2021 — VII ZR 149/20.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Parteiposition Beklagte:** Fristbeginn ist objektiv der Abnahmezeitpunkt; zwei Jahresfrist bereits abgelaufen. Gestützt auf BGH Urt. v. 12.03.2015 — VII ZR 173/13.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Fundstellen:** Klageschrift Bl. 30-32; Klageerwiderung Bl. 55-58.
 
@@ -102,8 +97,6 @@ Schwerpunktthemen werden neutral dargestellt. Die Identifikation eines Themas al
 <!-- AUDIT 27.05.2026 -->
 **Halluzinations-Reparatur durchgeführt am 27.05.2026.**
 
-- BGH, Beschl. v. 26.06.2018 - VIII ZR 289/17 (behauptet NJW-RR 2018, 966): Aktenzeichen auf dejure.org nicht auffindbar — **ersatzlos gelöscht**.
-- BGH, Urt. v. 19.11.2019 - VI ZR 141/18, NJW 2020, 545 (behauptet: Entscheidungserheblichkeit/Revisionszulassung): Falsche Zuordnung. Tatsächliches Urteil vom 12.02.2019, Thema: Schadensminderungspflicht bei Mietwagennahme nach Verkehrsunfall, NJW 2019, 2538 — **korrigiert**.
-- BGH, Urt. v. 12.05.2016 - VII ZR 171/15, NJW-RR 2016, 853 (behauptet: richterlicher Hinweis § 139 ZPO): Falsche Zuordnung. Tatsächliches Urteil: Bauträgervertrag/Werkvertragsrecht, BGHZ 210, 206, NJW 2016, 2878 — **korrigiert**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Quellen: dejure.org (https://dejure.org/2016,13484 ; https://dejure.org/2019,4759)

@@ -1,6 +1,6 @@
 ---
 name: konkurrenz-bereicherung-anfechtung-und-vindikation
-description: "Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klaeren. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Pruefraster: Verdraengungsregeln, Subsidiaritaet, Parallelitaet der Ansprueche. Output: Konkurrenzuebersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelpruefung innerhalb eines Regelungskreises."
+description: "Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klären. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Prüfraster: Verdrängungsregeln, Subsidiarität, Parallelität der Ansprüche. Output: Konkurrenzübersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung innerhalb eines Regelungskreises."
 ---
 
 # Konkurrenz: Bereicherung, Anfechtung und Vindikation
@@ -19,20 +19,17 @@ description: "Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB
 
 ## Rechtsprechung
 
-BGH, Urt. v. 19.01.2012 – IX ZR 2/11, NJW 2012, 1209 — § 985 BGB ist gegenüber § 812 BGB vorrangig, solange das Eigentum des Anspruchstellers besteht; erst nach Eigentumsübergang (z. B. gutgläubiger Erwerb, § 932 BGB) greift das Bereicherungsrecht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Bereicherungsansprüche und Anfechtungsansprüche (§§ 129 ff. InsO) können nebeneinander stehen, wenn ihre Tatbestandsvoraussetzungen je selbständig erfüllt sind; Doppelbefriedigung ist aber ausgeschlossen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 06.04.2006 – IX ZR 185/04, NJW 2006, 2701 — Die Anfechtungsansprüche nach §§ 129 ff. InsO stehen dem Insolvenzverwalter zu; Bereicherungsansprüche der Insolvenzmasse (§ 812 BGB) sind als Masseforderungen (§ 55 InsO) vorrangig zu befriedigen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 25.02.1999 – IX ZR 30/98, NJW 1999, 1704 — Bei Anfechtung nach § 812 BGB wegen fehlenden Rechtsgrundes und paralleler Anfechtung nach AnfG schließt der Erfolg eines Anspruchs den weiteren nicht aus, solange keine Doppelbefriedigung eintritt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 1–30 (Subsidiarität, Verhältnis zu § 985 BGB).
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 90–105 (Konkurrenz Bereicherungsrecht / Anfechtungsrecht).
-Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 20–35 (AnfG neben § 812 BGB).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verhältnis § 812 BGB zu AnfG
 
 **Grundsatz Nebeneinander:** Bereicherungsrecht und AnfG schützen unterschiedliche Interessen und können nebeneinander angewendet werden.

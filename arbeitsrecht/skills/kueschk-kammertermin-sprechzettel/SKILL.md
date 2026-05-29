@@ -1,6 +1,6 @@
 ---
 name: kueschk-kammertermin-sprechzettel
-description: "Kammertermin Hauptverhandlung im Kuendigungsschutzprozess: Sprechzettel mit Antraegen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkuendung; Prozessleitung durch Vorsitzenden."
+description: "Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden."
 ---
 
 # Kammertermin: Sprechzettel für die Hauptverhandlung
@@ -9,7 +9,7 @@ description: "Kammertermin Hauptverhandlung im Kuendigungsschutzprozess: Sprechz
 
 1. Liegt die Klageerwiderung des Arbeitgebers vor? Hat der Mandant darauf repliziert?
 2. Welche Beweismittel sind für den Kammertermin vorzubereiten? (Urkunden, Zeugen)
-3. Soll ein Weiterbeschäftigungsantrag gestellt werden? (BAG GS 1/84)
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Ist ein Auflösungsantrag nach § 9 KSchG zu erwägen?
 5. Was ist das Vergleichsminimum des Mandanten?
 
@@ -20,20 +20,17 @@ description: "Kammertermin Hauptverhandlung im Kuendigungsschutzprozess: Sprechz
 - § 58 ArbGG — Beweisaufnahme; Zeugenvernehmung nach ZPO-Grundsätzen
 - § 60 ArbGG — Urteilsverkündung; Urteilsfrist
 - § 9 KSchG — Auflösungsantrag des Arbeitnehmers (bis Schluss der letzten mündlichen Verhandlung)
-- BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Weiterbeschäftigungsanspruch
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 19.04.2012 – 6 AZR 677/10, NZA 2012, 1232 — Zur Prozessleitung im Kammertermin: Der Vorsitzende ist zur Erteilung von Hinweisen nach § 56 ArbGG i.V.m. § 139 ZPO verpflichtet, wenn eine Partei wesentliche rechtliche oder tatsächliche Aspekte erkennbar übersehen hat; eine unterbliebene Hinweispflicht kann zur Aufhebung des Urteils führen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- BAG, Urt. v. 27.09.2012 – 2 AZR 646/11, NZA 2013, 331 — Zum Weiterbeschäftigungsanspruch nach BAG GS 1/84: Nach erstinstanzlichem Obsiegen kann der Arbeitnehmer den allgemeinen Weiterbeschäftigungsanspruch aus §§ 611, 613, 242 BGB geltend machen; der Arbeitgeber kann nur bei überwiegenden schutzwürdigen Eigeninteressen die Weiterbeschäftigung verweigern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Germelmann/Matthes/Prütting, ArbGG, 10. Aufl. 2023, § 57 Rn. 1–20 (Kammertermin; Ablauf; Protokoll; Urteilsverkündung)
-- ErfK/Koch, 24. Aufl. 2024, § 58 ArbGG Rn. 1–15 (Beweisaufnahme; Zeugenvernehmung)
-- Schaub/Koch, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 152 Rn. 40–60 (Kammertermin; Antragsstellung; Protokoll)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** als Hauptverhandlung. Im Kammertermin entscheidet die Kammer (Vorsitzender + zwei ehrenamtliche Richter) über die Klage. Dieser Skill bereitet den Arbeitnehmer auf diesen Termin vor.
@@ -47,7 +44,7 @@ Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** 
 
 ## Ablauf des Kammertermins
 
-1. Aufruf der Sache — Parteien melden sich: „Kläger/Klägerin erschienen"
+1. Aufruf der Sache — Parteien melden sich: "Kläger/Klägerin erschienen"
 2. Antragstellung: Richter fragt nach Anträgen
 3. Mündliche Verhandlung — Sachvortrag beider Seiten
 4. Ggf. Beweisaufnahme (Zeugen, Urkunden)
@@ -60,20 +57,20 @@ Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** 
 
 **Wenn der Richter nach Anträgen fragt:**
 
-*„Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage festzustellen, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist. Ich beantrage weiter festzustellen, dass das Arbeitsverhältnis über den [DATUM] hinaus fortbesteht."*
+*"Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage festzustellen, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist. Ich beantrage weiter festzustellen, dass das Arbeitsverhältnis über den [DATUM] hinaus fortbesteht."*
 
 Falls Weiterbeschäftigung beantragt:
-*„Ich beantrage außerdem, die Beklagte zu verurteilen, mich bis zur rechtskräftigen Entscheidung als [BERUFSBEZEICHNUNG] weiterzubeschäftigen."*
+*"Ich beantrage außerdem, die Beklagte zu verurteilen, mich bis zur rechtskräftigen Entscheidung als [BERUFSBEZEICHNUNG] weiterzubeschäftigen."*
 
 ---
 
 ## Reaktionsmuster bei typischen Situationen
 
 **Arbeitgeber trägt Neues vor, das du noch nicht kennst:**
-*„Ich bitte um Schriftsatzfrist zur Erwiderung auf diesen neuen Vortrag."*
+*"Ich bitte um Schriftsatzfrist zur Erwiderung auf diesen neuen Vortrag."*
 
 **Zeuge des Arbeitgebers macht falsche Aussagen:**
-Ruhig bleiben. Nach der Vernehmung durch den Richter kommt dein Fragerecht: *„Darf ich eine Frage stellen?"* — Dann konkrete, präzise Fragen stellen.
+Ruhig bleiben. Nach der Vernehmung durch den Richter kommt dein Fragerecht: *"Darf ich eine Frage stellen?"* — Dann konkrete, präzise Fragen stellen.
 
 **Richter macht Vergleichsvorschlag:**
 Nicht sofort ablehnen. Bedenkzeit erbitten. Vergleich auf alle Punkte prüfen (Skill `kueschk-vergleichsverhandlung-checkliste`).
@@ -99,7 +96,6 @@ Ruhig bleiben. Richterliche Hinweise sind keine Urteile. Erst das Urteil abwarte
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 8 AZR 838/12: Eintrag geloescht. Skill behauptete Thema: Zeugenbeweis im Kuendigungsschutzverfahren / Beweisbehauptung hinreichend konkret, NZA 2014, 618. Dejure.org bestaetigt: Tatsaechliches Thema ist AGG § 15 / MuSchG Kuendigung Schwangere Diskriminierung wegen Geschlechts, NZA 2014, 722. Thema und NZA-Fundstelle falsch; kein verifizierter Ersatz. Eintrag geloescht. Quelle: https://dejure.org/2013,35683
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

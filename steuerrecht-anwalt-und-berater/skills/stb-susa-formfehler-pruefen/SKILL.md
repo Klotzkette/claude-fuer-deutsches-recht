@@ -1,6 +1,6 @@
 ---
 name: stb-susa-formfehler-pruefen
-description: "SuSa-Pruefung auf Formfehler Plausibilitaet und Differenzen. Anwendungsfall Qualitaetspruefung der SuSa vor Versand oder Pruefung Buchungsdifferenzen typische Anomalien. Methodik Checkliste Plausibilitaet Differenz-Analyse. Output Fehlerprotokoll Korrekturmassnahmen."
+description: "SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwendungsfall Qualitaetsprüfung der SuSa vor Versand oder Prüfung Buchungsdifferenzen typische Anomalien. Methodik Checkliste Plausibilitaet Differenz-Analyse. Output Fehlerprotokoll Korrekturmassnahmen."
 ---
 
 # SuSa-Pruefung — Formfehler, Plausibilitaet, Differenzen
@@ -66,7 +66,7 @@ Eine fehlerhafte SuSa ist Risiko fuer alle Folgeauswertungen — BWA, USt-VA, Ja
 - USt-Konto 19 Prozent (typisch SKR 03 1776) gegen USt-Voranmeldung pruefen.
 - Vorsteuer-Konto 19 Prozent (typisch SKR 03 1576) gegen USt-Voranmeldung pruefen.
 - Innergemeinschaftlicher Erwerb (USt-Konten im 1780er-Bereich, z. B. SKR 03 1786): Erfassung pruefen.
-- Reverse-Charge nach § 13b UStG: korrekte Konten in aktuellem DATEV-Kontenrahmen verifizieren (typisch SKR 03 1787 und 1576/1577 fuer Vorsteuer-Gegenbuchung).
+- Reverse-Charge nach § 13b UStG: typische Konten SKR 03 1787 (Umsatzsteuer) und 1576/1577 (Vorsteuer-Gegenbuchung); konkrete Kontonummern in DATEV-Kontenrahmen SKR 03 nachschlagen (DATEV-Kontenrahmen-PDF unter datev.de).
 
 ### Phase 4 — Hauptbuch-Nebenbuch-Konsistenz
 
@@ -92,7 +92,7 @@ Datum: [Datum] Bearbeiter: [Name]
 
 2. Erloeskonto Habensaldo wider Erwarten gering, Sollsaldo 850 EUR.
    Ursache: Gutschrift Kunde 10002 wurde gegen Erloeskonto gebucht statt Erloesschmaelerung.
-   Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; aktuelle DATEV-Kontonummer verifizieren).
+   Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; typisch Konto 8736 oder 8739 je nach Steuerklasse; konkrete Kontonummer in DATEV-Kontenrahmen-Dokumentation nachschlagen).
 
 3. Differenz USt-Konto (z. B. SKR 03 1776) vs. USt-Voranmeldung 240 EUR.
    Ursache: vergessene Buchung am 30.04.2026.
@@ -131,3 +131,5 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->

@@ -1,6 +1,6 @@
 ---
 name: europarecht-vorrang-unmittelbare-wirkung
-description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen pruefen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Pruefraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Pruefmemo Anwendungsempfehlung. Abgrenzung: nicht fuer Richtlinienumsetzung (europarecht-richtlinie-umsetzung)."
+description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung)."
 ---
 
 # Vorrang und unmittelbare Wirkung
@@ -58,23 +58,18 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 05.02.1963 - 26/62 (Van Gend en Loos), EuGHE 1963, 1 — Grundstein unmittelbare Wirkung: EU-Recht schafft unmittelbar Rechte fuer Einzelne; nationales Gericht muss diese schuetzen; unabhaengig von nationaler Umsetzung.
-- EuGH, Urt. v. 15.07.1964 - 6/64 (Costa/ENEL), EuGHE 1964, 1141 — Vorranggrundsatz: EU-Recht hat Vorrang vor nationalem Recht jeder Rangstufe; nationale Gerichte mussen entgegenstehendes nationales Recht unangewendet lassen.
-- EuGH, Urt. v. 19.11.1991 - C-6/90, C-9/90 (Francovich), EuZW 1991, 758 — Staatshaftung: wenn Mitgliedstaat Richtlinie nicht umsetzt, haftet er fuer Schaden des Buergers; unmittelbare Wirkung der Richtlinie nicht Voraussetzung fuer Staatshaftung.
-- EuGH, Urt. v. 14.07.1994 - C-91/92 (Faccini Dori), EuZW 1994, 627 — Keine horizontale Direktwirkung von Richtlinien zwischen Privaten; Staatshaftung als Kompensation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Vorrang / Unmittelbare Wirkung
 
 - **Art. 288 AEUV** — Verordnung (allg. verbindlich und unmittelbar anwendbar), Richtlinie (Umsetzungspflicht), Beschluss
 - **Art. 4 Abs. 3 EUV** — Unionsreue; nationales Gericht muss EU-Recht vollen Vorrang sichern
 - **Art. 19 EUV** — Effektiver Rechtsschutz; nationales Gericht als Erstgericht EU-Recht
-- **BVerfG, Urt. v. 05.05.2020 - 2 BvR 859/15 (PSPP)** — Ultra-vires-Kontrolle: BVerfG behaelt sich Pruefung ultravires-Akte vor; Kompetenzueberschreitung EZB; Grundsatz: Anwendungsvorrang EU-Recht gilt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schorkopf, in: Grabitz/Hilf/Nettesheim, Art. 288 AEUV Rn. 1-60
-- Jarass/Beljin, EU-Grundrechte, Vorrang-Kapitel
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Vorrang-Kurzpruefung
 
 **Adressat:** Kanzlei-intern / nationales Gericht

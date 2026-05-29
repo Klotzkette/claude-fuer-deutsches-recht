@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zolltarif-vzta
-description: "Wareneinreihung TARIC-Massnahmen und verbindliche Zolltarifauskunft VzTA. Anwendungsfall Unternehmen will CN-Code fuer Ware bestimmen oder VzTA-Antrag stellen. Normen UZK Art. 33-37 VzTA Kombinierte Nomenklatur VO 2658/87 Vorabentscheidungsverfahren EuGH. Pruefraster Wareneinreihung Auslegungsregeln TARIC-Massnahmen Zusatzcodes Dokumentencodes VzTA-Antrag. Output Einreihungsdossier mit CN-Code Begruendungskette TARIC-Massnahmen und VzTA-Antragsunterlagen. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zollverfahren-bewilligungen."
+description: "Workflow-Skill zu aussenwirtschaft zolltarif vzta. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Zolltarif, TARIC und vZTA
@@ -62,10 +62,7 @@ Kläre vor der Tarifierung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 21.06.1988 - 253/87 (Sportex/Oberfinanzdirektion Hamburg) — Tarifierung gemischter Waren nach der wesentlichen Beschaffenheit (KN-Allgemeine Vorschrift 3b); das Gepraege einer Ware bestimmt die Einreihung.
-- EuGH, Urt. v. 18.05.2017 - C-154/16 (Latvijas Dzelzcels) — Zur Auslegung der KN anhand der Erlauterungen zum HS und der KN-Erlauterungen der Kommission; diese binden die Zollstellen als Interpretationshilfe.
-- BFH, Urt. v. 14.11.2006 - VII R 19/05, BFH/NV 2007, 545 — Bindungswirkung und Widerruf von vZTA; Inhaber kann Gultigkeit nach Ablauf von 3 Jahren nicht verlangern — muss neuen Antrag stellen.
-- EuGH, Urt. v. 11.01.2007 - C-288/05 (Krupp Hoesch Stahl) — Zum Umfang des Vertrauensschutzes bei Widerruf einer vZTA infolge geaenderter Nomenklaturs-Klassifizierung; Auslauffrist von 6 Monaten ist gemeinschaftsrechtlich geboten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Zolltarif/vZTA
 
@@ -75,11 +72,9 @@ Kläre vor der Tarifierung:
 - VO (EU) 952/2013 Art. 56 — Zollsaetze und zolltarifarische Einstufung
 - GZT (Gemeinsamer Zolltarif) i.V.m. HS-Erlauterungen (WZO)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Gellert, Zolltarif-Kommentar, Loseblatt — KN-Einreihungspraxis
-- Witte, Zollkodex-Kommentar, Art. 33-34 UZK (vZTA)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Tarifierungsvermerk
 
 **Adressat:** Zollabteilung / Buchhaltung — **Tonfall:** technisch, nomenklatur-prazise
@@ -114,5 +109,4 @@ Bearbeiter: [NAME]
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- EuGH C-49/96 (behauptet: Otex/Hauptzollamt Hamburg, Tarifierung gemischter Waren KN-Allgemeine Vorschrift 3b) ersetzt: C-49/96 ist tatsächlich Beamtenrecht (Progoulis/Kommission, Rechtsmittel offensichtlich unzulässig, 12.12.1996). Quelle: curia.europa.eu. Ersetzt durch EuGH 253/87 (Sportex/Oberfinanzdirektion Hamburg, Urt. v. 21.06.1988), das tatsächlich den Leitsatz zur KN-Allgemeinen Vorschrift 3b / wesentliche Beschaffenheit begründet hat. Quelle: dejure.org (C-280/97 Schlussanträge, Slg. 1988, 3351).
 -->

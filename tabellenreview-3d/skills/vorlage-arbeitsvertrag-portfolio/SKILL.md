@@ -1,6 +1,6 @@
 ---
 name: vorlage-arbeitsvertrag-portfolio
-description: "Vorlagetabelle fuer Portfolio-Review von Arbeitsvertraegen im 3D-Format: Forderung/Pruefung/Stellung. Normen: BGB, KSchG, ArbZG. Pruefraster: Vertragsbedingungen, Klauselgueltigkeit, HR-Compliance. Output: Arbeitsvertrag-Portfolio-Tabelle. Abgrenzung: nicht allgemeine 3D-Review-Konfiguration."
+description: "Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-Format: Forderung/Prüfung/Stellung. Normen: BGB, KSchG, ArbZG. Prüfraster: Vertragsbedingungen, Klauselgueltigkeit, HR-Compliance. Output: Arbeitsvertrag-Portfolio-Tabelle. Abgrenzung: nicht allgemeine 3D-Review-Konfiguration."
 ---
 
 # /tabellenreview-3d:vorlage-arbeitsvertrag-portfolio

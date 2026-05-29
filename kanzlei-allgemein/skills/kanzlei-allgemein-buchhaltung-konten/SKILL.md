@@ -1,10 +1,9 @@
 ---
 name: kanzlei-allgemein-buchhaltung-konten
-description: "Kanzlei-Buchhaltung mit Geschaeftskonto offenen Posten Debitoren Kreditoren und Bankmatching. Anwendungsfall Anwalt oder Kanzleibuero will Zahlungseingang pruefen offene Posten abgleichen oder Buchhaltungsuebergabe an DATEV vorbereiten. Normen GoBD § 147 AO Aufbewahrung § 556b BGB. Pruefraster Kontenbewegungen Rechnungsalter Mahnwesen Bankmatching Klaerfaelle DATEV-Export. Output Offene-Posten-Liste Debitoren-Kreditoren-Uebersicht Bankmatching-Protokoll DATEV-Uebergabepaket. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-buchhaltung."
+description: "Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren Kreditoren und Bankmatching. Anwendungsfall Anwalt oder Kanzleibuero will Zahlungseingang prüfen offene Posten abgleichen oder Buchhaltungsuebergabe an DATEV vorbereiten. Normen GoBD § 147 AO Aufbewahrung § 556b BGB. Prüfraster Kontenbewegungen Rechnungsalter Mahnwesen Bankmatching Klaerfaelle DATEV-Export. Output Offene-Posten-Liste Debitoren-Kreditoren-Übersicht Bankmatching-Protokoll DATEV-Übergabepaket. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-buchhaltung."
 ---
 
 # Kanzlei-Buchhaltung, Konten und Zahlungsabgleich
-
 
 ## Triage zu Beginn
 1. Geht es um Ausgangsrechnungen, Eingangsrechnungen, Fremdgeld/Anderkonto oder Bankmatching?
@@ -13,9 +12,7 @@ description: "Kanzlei-Buchhaltung mit Geschaeftskonto offenen Posten Debitoren K
 4. Werden Fremdgelder kanzleiintern von eigenen Geldern getrennt gefuehrt (§ 43a Abs. 5 BRAO)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Vermischung von Fremdgeld und Kanzleivermogen begruendet Schadensersatzpflicht des Anwalts und disziplinarrechtliche Konsequenzen.
-- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — Betriebsausgabenabzug setzt Belegpflicht voraus; fehlende Belege fuehren zur Schaetzung durch das Finanzamt.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Offene Posten im Honorarwesen: Faelligkeit tritt mit ordnungsgemaesser Berechnung nach § 10 RVG ein; Verzug nach § 286 BGB ab Mahnung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermoegen
@@ -23,10 +20,9 @@ description: "Kanzlei-Buchhaltung mit Geschaeftskonto offenen Posten Debitoren K
 - § 147 AO — Aufbewahrungspflichten fuer Buchungsbelege (10 Jahre)
 - § 286 BGB — Verzug: Voraussetzungen und Verzugszinsen bei offenen Posten
 
-## Kommentarliteratur
-- MüKo HGB/Ballwieser §§ 238-241 Rn. 1-40 (GoBD und Buchfuehrungspflicht fuer Freiberufler)
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 100-130 (Fremdgeldverwaltung: Trennung und Dokumentation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill führt die operative Kanzlei-Buchhaltung als Vorbereitung: Ausgangsrechnungen, Eingangsrechnungen, offene Posten, Geschäftskonto, Zahlungseingänge, Zahlungsausgänge, Bankmatching, Mahnwesen und Klärfälle. Er bucht nicht verbindlich und löst keine Bankzahlungen aus.
@@ -113,5 +109,3 @@ Im Simulationsmodus:
 
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
-
-- **BGH IX ZR 52/20 (27.01.2022) entfernt.** Das Aktenzeichen existiert nicht als BGH IX ZR 52/20 mit dem behaupteten Thema „GoBD-konforme Buchfuehrung“. Laut dejure.org existiert BGH VIII ZR 52/20 (07.07.2021, anderer Senat), Thema: Mietrecht / Betriebskosten-Abrechnung / GbR-Prozessfuehrung — kein Bezug zur Kanzleibuchhaltung. Das Aktenzeichen IX ZR 52/20 mit Datum 27.01.2022 und NJW 2022, 1234 ist eine Halluzination (WRONG_TOPIC). Eintrag geloescht.

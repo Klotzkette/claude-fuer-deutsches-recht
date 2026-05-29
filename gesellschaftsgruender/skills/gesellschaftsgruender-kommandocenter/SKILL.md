@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kommandocenter
-description: "Navigationszentrum fuer alle Gruendungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Pruefraster: aktueller Gruendungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gruendungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gruendungs-Skill."
+description: "Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gründungs-Skill."
 ---
 
 # Kommandocenter Gesellschaftsgründung
@@ -26,17 +26,11 @@ description: "Navigationszentrum fuer alle Gruendungs-Skills: Fortschrittsanzeig
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vorbelastungshaftung: zwischen Beurkundung und Handelsregistereintragung bestehende Verbindlichkeiten treffen Gesellschafter persönlich anteilig nach Stammkapitalquote.
-- BGH, Urt. v. 27.01.1997 - II ZR 123/94, BGHZ 134, 333 — Vorgesellschaft ist rechtsfähig; GF haftet persönlich für eigenmächtig eingegangene Verbindlichkeiten, die nicht von Gesellschaftern genehmigt werden.
-- BGH, Urt. v. 05.02.2007 - II ZR 84/05, NJW 2007, 1529 — Handelndenhaftung entfällt nach wirksamer Eintragung der GmbH; kein Durchgriff auf Gesellschafter.
-- BFH, Urt. v. 14.03.2012 - I R 13/11, BStBl. II 2012, 819 — Steuerliche Erfassung: Beginn der Steuerpflicht mit Gründung der Vorgesellschaft (Beurkundung), nicht erst mit HR-Eintragung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 11 Rn. 1-40 (Vorgesellschaft, Handelndenhaftung, Vorbelastungshaftung)
-- Lutter/Hommelhoff, GmbHG, § 7 Rn. 1-30 (Anmeldung Handelsregister)
-- Baumbach/Hueck, GmbHG, § 2 Rn. 1-20 (Beurkundungsform, Musterprotokoll)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gründungsphasen-Übersicht
 
 | Phase | Inhalt | Dauer (ca.) | Spezialskill |
@@ -136,7 +130,7 @@ Geschäftsführer: [Namen]
 - § 138 AO (Steuerliche Erfassung)
 - §§ 19, 56 GwG (Transparenzregister)
 - § 15a InsO (Insolvenzantragspflicht)
-- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 11 Rn. 1-40
 
 ## Übergabe an andere Skills

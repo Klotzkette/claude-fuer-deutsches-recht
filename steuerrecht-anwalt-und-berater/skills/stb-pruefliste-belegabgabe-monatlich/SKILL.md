@@ -1,6 +1,6 @@
 ---
 name: stb-pruefliste-belegabgabe-monatlich
-description: "Pruefliste monatliche Belegabgabe. Anwendungsfall standardisierte Belegabgabe-Kontrolle Mandant Vollstaendigkeit Bankauszuege Kasse Eingangsrechnungen Ausgangsrechnungen Lohnauswertung. Methodik Pruefliste Eingangskontrolle Mahnung. Output Pruefprotokoll Belegmahnung."
+description: "Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte Belegabgabe-Kontrolle Mandant Vollständigkeit Bankauszuege Kasse Eingangsrechnungen Ausgangsrechnungen Lohnauswertung. Methodik Prüfliste Eingangskontrolle Mahnung. Output Prüfprotokoll Belegmahnung."
 ---
 
 # Pruefliste monatliche Belegabgabe

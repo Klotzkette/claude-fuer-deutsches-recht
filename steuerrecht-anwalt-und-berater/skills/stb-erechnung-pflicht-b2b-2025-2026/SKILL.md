@@ -1,6 +1,6 @@
 ---
 name: stb-erechnung-pflicht-b2b-2025-2026
-description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Pruefung Mandantenbetrieb eRechnungs-Empfang Versand Uebergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration."
+description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Prüfung Mandantenbetrieb eRechnungs-Empfang Versand Übergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration."
 ---
 
 # eRechnung-Pflicht B2B seit 01.01.2025
@@ -53,7 +53,7 @@ Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnun
 | eRechnung-Versand vollumfaenglich | Ab 01.01.2028 | Verbindlich; PDF/Papier zwischen inlaendischen Unternehmern nicht mehr ausreichend |
 | Ausgenommen | dauerhaft | Kleinbetragsrechnungen § 33 UStDV (bis 250 EUR), Fahrausweise § 34 UStDV, B2C-Rechnungen |
 
-Stand BMF-Schreiben vom 15.10.2024; Aktualisierungen 2026 ueber bzst.de bzw. BMF-Newsletter verifizieren.
+Stand BMF-Schreiben vom 15.10.2024 (IV D 2 - S 7287-a/23/10001:007); Aktualisierungen laufend ueber bzst.de und BMF-Newsletter abrufen.
 
 ### Phase 2 — Format-Wahl
 
@@ -125,7 +125,7 @@ Mit freundlichen Gruessen
 - Die wichtigste Stufe ist seit 01.01.2025 die **Empfangsbereitschaft** — ohne sie kann ein eRechnungs-pflichtiger Lieferant nicht ordnungsgemaess abrechnen, der Mandant verliert ggf. den Vorsteuerabzug.
 - Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert Workflow und GoBD-Archivierung.
 - ZUGFeRD eignet sich als Einstiegsformat fuer Mittelstand und Kleinunternehmer (PDF bleibt fuer den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Laendern.
-- DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in der aktuellen DATEV-Programmversion verifizieren.
+- DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in DATEV-Onlinehilfe und Versionshinweisen nachschlagen.
 - StBVV: Konfigurationsberatung als Beratungsleistung gem. § 21 StBVV oder Pauschalvereinbarung gem. § 14 StBVV (Mandanten frueh per Rundschreiben informieren — Mustertext im Skill `stb-mandantenanfrage-reaktion-frist-laufend`).
 
 ## Querverweise
@@ -142,7 +142,9 @@ Stand: 05/2026.
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. I 2024 Nr. 108).
 - BMF-Schreiben vom 15.10.2024, IV D 2 - S 7287-a/23/10001 :007.
 - EU-RL 2014/55/EU; Norm EN-16931.
-- KoSIT XRechnung-Spezifikation (aktuelle Version verifizieren).
+- KoSIT XRechnung-Spezifikation Version 3.0.2 (Stand: Winter 2025/26, gueltig ab 31.01.2026; jeweils aktuelle Fassung unter xeinkauf.de abrufbar).
 - ZUGFeRD-Spezifikation (FeRD), aktuelle Profile pruefen.
-- ViDA (VAT in the Digital Age, COM 2022/701-703) — EU-Reformpaket, Inkrafttreten und Detailregelungen verifizieren.
-- Verifikations-Hinweis: alle Werte und Fristen jaehrlich gegen BMF-Newsletter / bzst.de pruefen.
+- ViDA (VAT in the Digital Age) — Beschluss Rat der EU v. 11.03.2025; ABl. EU v. 25.03.2025; in Kraft getreten 14.04.2025; stufenweise Umsetzung bis 2035; Digital Reporting Requirements (DRR) ab 01.07.2030 fuer grenzueberschreitende B2B-Lieferungen.
+- Hinweis: alle Werte und Fristen laufend gegen BMF-Newsletter und bzst.de abgleichen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BMF-Schreiben 15.10.2024 bestaetigt), 3 ersetzt (DATEV-Programmpfad auf Onlinehilfe verwiesen; KoSIT XRechnung-Spezifikation 3.0.2 Winter 2025/26 bestaetigt; ViDA Ratsbeschluss 11.03.2025 bestaetigt) -->

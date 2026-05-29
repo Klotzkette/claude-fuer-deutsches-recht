@@ -1,11 +1,11 @@
 ---
 name: haptik-und-tastmarke
-description: "Tastmarken und Haptik-Marken fuer Stoffstrukturen und Flakon-Oberflaechen: Schutz und Alternativen pruefen. Normen: Sieckmann-Kriterien analog, EuG T-305/02 Eden SARL (Riechmarke), DPMA-Praxis restriktiv, USPTO Reg. 3896100 (David Yurman). Pruefraster: Eintragbarkeits-Analyse, Darstellungs-Anforderungen, Workarounds DesignG/GGV, UWG § 4 Nr. 3 Nachahmungsschutz. Output Strategie-Memo Haptik-Schutz mit realisierbaren Alternativen. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke auf Stoff siehe positionsmarke."
+description: "Workflow-Skill zu haptik und tastmarke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Tastmarken und Haptik-Marken
 
-Das faszinierendste Grenzgebiet des nichtvisuellen Markenrechts: Kann die charakteristische Oberflächenstruktur eines Seidenschals oder die Mikrogravur eines Parfumflakons als Marke geschützt werden? Für klôtzzkètté SA ist dies hochrelevant — die Seidenschalkollektionen „K°° Touch Royal" mit ihrer einzigartigen dreidimensionalen Seiden-Twill-Köper-Struktur und der Parfumflakon „K°° pour Femme" mit seiner gestrichelten Mikro-Haptik-Oberfläche sind sensorische Erkennungszeichen ersten Ranges.
+Das faszinierendste Grenzgebiet des nichtvisuellen Markenrechts: Kann die charakteristische Oberflächenstruktur eines Seidenschals oder die Mikrogravur eines Parfumflakons als Marke geschützt werden? Für klôtzzkètté SA ist dies hochrelevant — die Seidenschalkollektionen "K°° Touch Royal" mit ihrer einzigartigen dreidimensionalen Seiden-Twill-Köper-Struktur und der Parfumflakon "K°° pour Femme" mit seiner gestrichelten Mikro-Haptik-Oberfläche sind sensorische Erkennungszeichen ersten Ranges.
 
 Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar, aber es gibt substanzielle Schutzalternativen.
 
@@ -13,9 +13,9 @@ Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar,
 
 ### Markenrecht (Eintragungsversuch)
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit offen für jede Art von Zeichen — Tasteindrücke sind abstrakt denkbar
-- **§ 8 II Nr. 1 MarkenG n.F. / Art. 4 UMV:** Seit UMV-Reform 2017 keine grafische Darstellbarkeit mehr erforderlich — „klare und eindeutige" Darstellung genügt
-- **EuGH C-273/00 (Sieckmann):** Sieben-Kriterien-Test (klar/eindeutig/in sich abgeschlossen/leicht zugänglich/verständlich/dauerhaft/objektiv) — für Tastmarken analog anzuwenden; kaum erfüllbar
-- **EuG T-305/02 (Eden SARL — Erdbeer-Geruch):** Erweitertes Kriterienspektrum für nicht-visuelle Zeichen; textliche Beschreibung + Probe allein nicht ausreichend
+- **§ 8 II Nr. 1 MarkenG n.F. / Art. 4 UMV:** Seit UMV-Reform 2017 keine grafische Darstellbarkeit mehr erforderlich — "klare und eindeutige" Darstellung genügt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **USPTO US-Marke 3.896.100 (David Yurman — Fabrikgewebe-Haptik):** US-Trademark für die haptische Wahrnehmung eines geflochtenen Kabelmusters auf Schmuckstücken — eingetragen mit Nachweis von Secondary Meaning. Zeigt: In den USA ist Haptik-Marke theoretisch möglich (vgl. Skill `us-trade-dress-und-secondary-meaning`)
 - **DPMA-Praxis:** Sehr restriktiv; keine bekannte erfolgreiche Tastmarken-Eintragung in Deutschland
 - **EUIPO-Leitlinien:** Nicht-traditionelle Marken — Tastmarken theoretisch möglich (Art. 4 UMV n.F.), praktisch keine erfolgreiche Eintragung dokumentiert
@@ -32,9 +32,9 @@ Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar,
 ### Schritt 1: Eintragungsversuch DPMA/EUIPO (Vollständigkeitshalber)
 
 1. **Darstellungsformen prüfen:**
-   - Textliche Beschreibung: „Die Marke besteht aus einer regelmäßigen dreidimensionalen Twill-Köper-Struktur mit [X mm] Erhöhung, [Y mm] Absenkung, Diagonalwinkel 45°, auf Seidenstoff"
-   - Mikroskopie-Aufnahme/REM-Scan (Rasterelektronenmikroskop): präzise, aber fachspezifisch — nicht „leicht zugänglich"
-   - 3D-CAD-Modell: präzise und eindeutig, aber Sieckmann-Kriterium „verständlich" fraglich
+   - Textliche Beschreibung: "Die Marke besteht aus einer regelmäßigen dreidimensionalen Twill-Köper-Struktur mit [X mm] Erhöhung, [Y mm] Absenkung, Diagonalwinkel 45°, auf Seidenstoff"
+   - Mikroskopie-Aufnahme/REM-Scan (Rasterelektronenmikroskop): präzise, aber fachspezifisch — nicht "leicht zugänglich"
+   - 3D-CAD-Modell: präzise und eindeutig, aber Sieckmann-Kriterium "verständlich" fraglich
    - Physikalische Probe: nicht hinterlegbar beim DPMA/EUIPO; kein akzeptiertes Darstellungsmittel
 
 2. **Sieckmann-Check für Tastmarke:**
@@ -91,12 +91,12 @@ Brezelmann Discount KG (Bad Mergentheim) verkauft Schals mit identischer Webestr
 
 ## Belege & Kommentare
 
-- EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann) — Darstellungsanforderungen nichtvisuelle Marken
-- EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL) — Riechmarke, Analogieschluss für Tastmarken
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - USPTO, Reg. Nr. 3.896.100 (David Yurman) — Haptik-Marke Schmuck
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 150 ff. (nichtvisuelle Marken)
-- BeckOK DesignR, § 2 DesignG Rn. 1 ff. (Schutzvoraussetzungen Geschmacksmuster)
-- BGH, Urt. v. 22.01.2015 — I ZR 107/13 (Exzenterzähne) — UWG-Nachahmungsschutz Produktgestaltung
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -147,8 +147,8 @@ Bevor der Schutzweg gewaehlt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 22.01.2015 — I ZR 107/13 (Exzenterzähne):** Der Schutz einer technisch bedingten Produktgestaltung nach UWG § 4 Nr. 3 setzt voraus, dass die ästhetische Gestaltung eine eigenständige wettbewerbliche Eigenart aufweist, die unabhängig von der Funktion besteht; rein technisch determinierte Formen sind schutzlos.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann):** Ein nicht-visuell wahrnehmbares Zeichen ist als Marke nur eintragbar, wenn seine Darstellung klar, eindeutig, in sich abgeschlossen, leicht zugaenglich, verstaendlich, dauerhaft und objektiv ist; eine bloß textliche Beschreibung eines Tasteindrucks genuegt diesen Anforderungen in der Regel nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Hamburg, Urt. v. 11.02.2021 — 5 U 87/19 (Taschenmuster):** Wettbewerbliche Eigenart einer Textiloberflache setzt voraus, dass der angesprochene Verkehr die spezifische Gestaltung einem bestimmten Unternehmen zuordnet; allgemein verbreitete Webmuster erfuellen diese Anforderung nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

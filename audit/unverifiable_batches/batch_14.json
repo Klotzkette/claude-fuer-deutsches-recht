@@ -1,0 +1,407 @@
+[
+  {
+    "court": "BGH",
+    "az": "XIII ZB 28/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "XIII ZB 28/18 (14.01.2020): Rüge im Vergaberecht formfrei (NZBau 2020,347) – nicht direkt in Suchergebnissen bestätigt",
+    "claimed_topic": "Vergaberechtliche Rüge muss formfrei sein §160 Abs.3 GWB",
+    "source_url": "",
+    "skills": "verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-foerderung-vergabe/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XIII ZR 4/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Rügeobliegenheit gilt analog für Sektorenauftraggeber §160 GWB",
+    "source_url": "",
+    "skills": "fachanwalt-vergaberecht/skills/ruegeschriftsatz-erstellen/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XIV ZR 217/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; nur als Listeneintrag erwähnt",
+    "claimed_topic": "Nicht spezifiziert (mit BGH XII ZR 120/04 und III ZR 326/12 erwähnt)",
+    "source_url": "",
+    "skills": "fachanwalt-it-recht/skills/fachanwalt-it-recht-saas-vertrag-verhandlung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "XVI ZR 195/94",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar; XVI-Zivilsenat des BGH ungewöhnlich",
+    "claimed_topic": "Kooperative Grundhaltung in Korrespondenz (NJW 1995,2232)",
+    "source_url": "",
+    "skills": "email-umformulierer-berufsrecht/skills/kooperativer-abschluss/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "11 AL 18/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG B 11 AL 18/18 R nicht direkt verifizierbar; B 11 AL 8/18 R (27.06.2019) gefunden – andere Sache",
+    "claimed_topic": "Abfindungshöhe und Sperrzeit-Faustformel bei ALG I (BSGE 129,1)",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=27.06.2019&Aktenzeichen=B+11+AL+8%2F18+R",
+    "skills": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "11 AL 24/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifizierbar",
+    "claimed_topic": "Arbeitslosengeld (BSG B 11 AL 24/15 R)",
+    "source_url": "",
+    "skills": "arbeitsrecht/skills/aufhebungsvertrag-sperrzeit-prognose/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "11 AL 9/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 03.11.2021 - B 11 AL 8/20 R - dejure.org. |BSG, 03.11.2021 - B 11 AL 8/20 R|\n...\n**BSG, 03.11.2021 - B 11 AL 8/20 R**",
+    "claimed_topic": "B 11 AL 9/20 R, NZA 2022, 80 — Sperrzeit-Prüfung der Bundesagentur; \"betriebsbedingte Kündigung wäre ausgesprochen worden\" muss im Aufhebungsvertrag oder in einer Zusat",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=03.11.2021&Aktenzeichen=B+11+AL+8%2F20+R",
+    "skills": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "12 KR 14/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung: B 12 KR 14/16 - dejure.org. ## Rechtsprechung\n| |BSG, 16.08.2017 - B 12 KR 14/16 R| |\n|--|--|--|\n...\nBSG, 16.08.2017 - B 12 KR 14/16 R (https://dejure.org/2017,29418)\n...\n#### Verfahrensgang\n- SG Schleswig, 11.08.2015 - S 23 KR 54/12\n- LSG Schleswig-Holstein, 24.02.2016 - L 5 KR 117/",
+    "claimed_topic": "Krankengeld-Bezugsdauer (§ 48 SGB V): 78 Wochen innerhalb von 3 Jahren für dieselbe Erkrankung; neue Erkrankung löst neuen",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=B+12+KR+14%2F16",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-krankengeld-aussteuerung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "12 KR 34/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 17.05.2001 - B 12 KR 34/00 R. |BSG, 17.05.2001 - B 12 KR 34/00 R|",
+    "claimed_topic": "Akteneinsicht nach § 25 SGB X umfasst alle Unterlagen des Verwaltungsverfahrens einschliesslich interner Aktenvermerke; Bes",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=17.05.2001&Aktenzeichen=B+12+KR+34%2F00+R",
+    "skills": "fachanwalt-sozialrecht/skills/akteneinsicht-anfordern/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "12 KR 65/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 31.03.2015 - B 12 KR 17/13 R - dejure.org.",
+    "claimed_topic": "Vergleichsinhalt muss konkret und vollstreckbar sein; Blankoformeln genügen nicht; das Gericht darf bei unklarem Vergleich ni",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=31.03.2015&Aktenzeichen=B+12+KR+17%2F13+R",
+    "skills": "fachanwalt-sozialrecht/skills/vergleichsverhandlung-strategie/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "12 R 12/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 04.06.2019 - B 12 R 22/18 R - dejure.org. | |BSG, 04.06.2019 - B 12 R 22/18 R| |\n...\nOb jemand beschäftigt oder selbstständig tätig ist, richtet sich danach, welche Umstände das Gesamtbild der Arbeitsleistung prägen und hängt davon ab, welche Merkmale überwiegen (stRspr; vgl zum Ganzen zB BSG U",
+    "claimed_topic": "B 12 R 12/18 R (DRV-Statusfeststellung Voraussetzungen).",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=04.06.2019&Aktenzeichen=B+12+R+22%2F18+R",
+    "skills": "steuerrecht-anwalt-und-berater/skills/stb-drv-sozialversicherungspruefung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "12 R 21/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 14.03.2018 - B 12 R 3/17 R - d e j u r e . o r g.",
+    "claimed_topic": "Für die Fristwahrung via beA ist der Zeitpunkt der erfolgreichen Übertragung auf dem Server des Gerichts maßgeblich, nicht",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=14.03.2018&Aktenzeichen=B+12+R+3%2F17+R",
+    "skills": "fachanwalt-sozialrecht/skills/sozialrecht-kanzlei-kaltstart-interview/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "13 R 291/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "[PDF] BUNDESSOZIALGERICHT Urteil vom 23.4.2015, B 2 U 6/13 R - DGUV.",
+    "claimed_topic": "Vorlagepflicht bei Klage: fehlende Anlagen können durch das Gericht im Wege der Amtsermittlung (§ 103 SGG) beigezogen werden",
+    "source_url": "https://www.dguv.de/rundschreiben/dokcenterimport/2015/0418_2015_bsg_urteil_b_2_u_6_13_vom_23.04.2015.pdf",
+    "skills": "fachanwalt-sozialrecht/skills/anlagen-erstellen/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "13 R 44/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Literatursystem - 2007 - B 13 R 44/07 R. # B 13 R 44/07 R\n## Aus den Gründen\nDie Revision der Klägerin ist begründet.\nLSG und SG haben zu Unrecht den Anspruch der Klägerin auf Gewährung von Altersrente für schwer behinderte Menschen unter Berücksichtigung eines Zugangsfaktors von 1,0 an Stelle der i",
+    "claimed_topic": "Verwertung von Akteninhalt als Beweismittel (§ 103 SGG): Sozialgericht darf Akteninhalt als Beweismittel verwenden; belaste",
+    "source_url": "https://rvrecht.deutsche-rentenversicherung.de/SharedDocs/rvRecht/06_Urteile/BSG/2007/urt_bsg_2007_11_29_b13r44_07r.html",
+    "skills": "fachanwalt-sozialrecht/skills/akteneinsicht-auswerten/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 158/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 12.07.2012 - B 14 AS 158/11 R - dejure.org. BSG, 12.07.2012 - B 14 AS 158/11 R\n...\n- **BSG, 12.07.2012 - B 14 AS 158/11 R**\n...\nDurch Verkauf zB tatsächlich nicht verwertbar ist ein Vermögensgegenstand, für den in absehbarer Zeit kein Käufer zu finden sein wird, etwa weil Gegenstände dieser Art",
+    "claimed_topic": "Die Antragstellung ist im Sozialrecht konstitutiv; ohne wirksamen Antrag entsteht kein Anspruch auf Leistungen, auch wenn",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=12.07.2012&Aktenzeichen=B+14+AS+158%2F11+R",
+    "skills": "fachanwalt-sozialrecht/skills/mandanten-intake/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 22/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 23.08.2011 - B 14 AS 91/10 R - NWB Datenbank.",
+    "claimed_topic": "Prozesskostenhilfe-Bewilligung: hinreichende Erfolgsaussicht (nicht Erfolgsgewissheit) genügt; sozialrechtliche Materie i",
+    "source_url": "https://datenbank.nwb.de/Dokument/428987/",
+    "skills": "fachanwalt-sozialrecht/skills/schriftsatzkern-substantiierung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 23/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG - B 14 AS 23/14 R - d e j u r e . o r g.",
+    "claimed_topic": "Vermögensprüfung (§ 12 SGB II): angemessener Pkw mit Wert bis 7500 EUR ist Grundfreibetrag-unabhängig geschützt; kein Verw",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=B+14+AS+23%2F14+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-sgb-ii-bescheid/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 25/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 27.01.2021 - B 14 AS 25/20 R.",
+    "claimed_topic": "Einstweilige Anordnung (§ 86b Abs. 2 SGG): bei drohender Wohnungslosigkeit durch Mietschulden ist Anordnungsgrund regelmäss",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=27.01.2021&Aktenzeichen=B+14+AS+25%2F20+R",
+    "skills": "fachanwalt-sozialrecht/skills/eilantrag-sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 28/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 16.04.2013 - B 14 AS 28/12 R - d e j u r e . o r g. - **BSG, 16.04.2013 - B 14 AS 28/12 R**",
+    "claimed_topic": "Prozesskostenhilfe im Sozialrechtsstreit: Mutwilligkeit der Klageführung (Versagungsgrund § 73a Abs. 1 SGG i.V.m. § 114 ZP",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=16.04.2013&Aktenzeichen=B+14+AS+28%2F12+R",
+    "skills": "fachanwalt-sozialrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 5/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 12.06.2013 - B 14 AS 50/12 R - d e j u r e . o r g. | |BSG, 12.06.2013 - B 14 AS 50/12 R| |\n...\n- SG Düsseldorf, 27.01.2012 - S 21 AS 3986/10\n- **BSG, 12.06.2013 - B 14 AS 50/12 R**",
+    "claimed_topic": "Kosten des Widerspruchsverfahrens (§ 63 SGB X): bei Erfolg des Widerspruchs hat die Behörde die notwendigen Aufwendungen eins",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=12.06.2013&Aktenzeichen=B+14+AS+50%2F12+R",
+    "skills": "fachanwalt-sozialrecht/skills/erstgespraech-mandatsannahme/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 62/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 09.04.2014 - B 14 AS 23/13 R - d e j u r e . o r g. |BSG, 09.04.2014 - B 14 AS 23/13 R|\n...\n**BSG, 09.04.2014 - B 14 AS 23/13 R**\n...\nRn.\n25 Wie auch der Senat bereits in einer früheren Entscheidung ausgeführt hat, gilt die Kostenbegrenzung des § 22 Abs.\n1 Satz 2 SGB II nur, sola",
+    "claimed_topic": "Fehlende oder unrichtige Rechtsbehelfsbelehrung (§ 66 Abs. 2 SGG): Widerspruchsfrist beträgt dann ein Jahr; Unrichtigkeit l",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=09.04.2014&Aktenzeichen=B+14+AS+23%2F13+R",
+    "skills": "fachanwalt-sozialrecht/skills/bescheid-frist-quick-check/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 71/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG - B 14 AS 23/14 R.",
+    "claimed_topic": "Gegen die Ablehnung von PKH ist Beschwerde nach § 172 Abs. 1 SGG (bis 2020 § 127 ZPO iVm § 73a SGG) statthaft; die Besc",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=B+14+AS+23%2F14+R",
+    "skills": "fachanwalt-sozialrecht/skills/pkh-erfolgsaussicht-pruefen/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "14 AS 89/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 11.11.2021 - B 14 AS 89/20 R - dejure.org. 17), abgegrenzt nach dem allgemeinen Kriterium der Erwerbsfähigkeit (vgl.\ndazu BSG…, Urteil vom 20.1.2016 - B 14 AS 15/15 R - juris Rn.\n27 f. m.w.N.;… Senatsbeschluss vom 23.5.2014 - L 8 SO 129/14 B ER - juris Rn.",
+    "claimed_topic": "Widerspruch zwischen Akteninhalt und Bescheidbegründung: Abweichung von Aktenvermerken von der im Bescheid genannten Begründ",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=11.11.2021&Aktenzeichen=B+14+AS+89%2F20+R",
+    "skills": "fachanwalt-sozialrecht/skills/akteneinsicht-auswerten/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "2 U 11/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "[PDF] Beweislastumkehr bei beruflichem Kontakt mit Listenstoff. Titel:\nUnfallversicherung: Beweislastumkehr bei beruflichem Kontakt mit Listenstoff\n...\n1. Mit Urteil vom 27.09.2023, B 2 U 8/21 R, hat das BSG für Berufskrankheiten ohne normative oder ohne\n...\n3. Die vom BSG im Urteil vom 27.09.2023,",
+    "claimed_topic": "Amtsermittlungsgrundsatz (§ 103 SGG): Gericht ist an Anträge der Beteiligten nicht gebunden; muss aber bei begründeten Anhalt",
+    "source_url": "https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2024-N-23682?all=False",
+    "skills": "fachanwalt-sozialrecht/skills/schriftsatzkern-substantiierung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "2 U 19/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 13.11.2012 - B 2 U 19/11 R - d e j u r e . o r g. ###### Auszug aus BSG, 13.11.2012 - B 2 U 19/11 RDie Verrichtung muss ein zeitlich begrenztes, von außen auf den Körper einwirkendes Ereignis und dadurch einen Gesundheitserstschaden oder den Tod des Versicherten objektiv und rech",
+    "claimed_topic": "31.05.2022",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=13.11.2012&Aktenzeichen=B+2+U+19%2F11+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "3 KR 23/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 30.03.2000 - B 3 KR 23/99 R - d e j u r e . o r g.",
+    "claimed_topic": "29.03.2012",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=30.03.2000&Aktenzeichen=B+3+KR+23%2F99+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "3 P 14/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 16.05.2012 - B 3 KR 14/11 R - d e j u r e . o r g. |BSG, 16.05.2012 - B 3 KR 14/11 R|\n...\n**BSG, 16.05.2012 - B 3 KR 14/11 R**\n...\nRechtsgrundlage des zulässig mit der (echten) Leistungsklage nach § 54 Abs.\n5 SGG verfolgten Vergütungsanspruchs (stRspr, vgl zB\n...\n13, RdNr 9) ist",
+    "claimed_topic": "Die Beurteilung der Pflegebedürftigkeit hat unter Berücksichtigung der individuellen Situation zu erfolgen; Schwankungen im G",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=16.05.2012&Aktenzeichen=B+3+KR+14%2F11+R",
+    "skills": "fachanwalt-sozialrecht/skills/pflegegrad-widerspruch/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "4 AS 11/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 16.05.2012 - B 4 AS 109/11 R - d e j u r e . o r g.",
+    "claimed_topic": "Überprüfungsantrag § 44 SGB X: Rückwirkung 4 Jahre ab Antragsjahr; unrichtige Anwendung des Rechts reicht; keine Verschuld",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=16.05.2012&Aktenzeichen=B+4+AS+109%2F11+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-widerspruch-sozialleistung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "4 AS 27/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 09.11.2010 - B 4 AS 27/10 R. | |BSG, 09.11.2010 - B 4 AS 27/10 R| |\n...\n- BSG, 29.04.2015 - B 14 AS 19/14 R\n...\nDie Rechtmäßigkeit der Meldeaufforderung ist als Vorfrage für die Feststellung eines Meldeversäumnisses inzident zu überprüfen, weil sich die Meldeaufforderung als solc",
+    "claimed_topic": "Zur einstweiligen Anordnung nach § 86b Abs. 2 SGG: Anordnungsanspruch und Anordnungsgrund müssen glaubhaft gemacht werden; besondere Eilbedü",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=09.11.2010&Aktenzeichen=B+4+AS+27%2F10+R",
+    "skills": "aktenauszug-gerichtsverfahren/skills/sozialgerichtsverfahren-modus/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "4 AS 44/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 11.12.2012 - B 4 AS 44/12 R - d e j u r e . o r g.",
+    "claimed_topic": "09.02.2010, BVerfGE 125, 175",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=11.12.2012&Aktenzeichen=B+4+AS+44%2F12+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-sgb-ii-bescheid/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "4 AS 60/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 01.06.2010 - B 4 AS 60/09 R - d e j u r e . o r g. Denn den Einschränkungen des § 22 Abs.\n1 S 2 SGB II unterliegen weder Leistungsberechtigte, die in den örtlichen Vergleichsraum zuziehen (dazu BSG Urteil vom 1.6.2010 - **B 4 AS 60/09 R** - **BSGE 106, 147** = SozR\n4-4200 § 22 Nr",
+    "claimed_topic": "Streitwert im Eilverfahren: bei laufenden Sozialleistungen wird Streitwert als Summe der streitigen Leistungen für 6 Monate b",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=01.06.2010&Aktenzeichen=B+4+AS+60%2F09+R",
+    "skills": "fachanwalt-sozialrecht/skills/eilantrag-sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "4 RA 32/03",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 08.06.2004 - B 4 RA 56/03 R - NWB Datenbank.",
+    "claimed_topic": "19.12.1996, BSGE 80, 24",
+    "source_url": "https://datenbank.nwb.de/Dokument/227944/",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "5 R 44/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 03.12.2015 - B 4 AS 44/15 R - NWB Datenbank.",
+    "claimed_topic": "Zusammenrechnung von Versicherungszeiten (Art. 6 VO 883/2004): alle in EU-Mitgliedstaaten zurückgelegten Versicherungszeit",
+    "source_url": "https://datenbank.nwb.de/Dokument/597883/",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-eu-rente-antrag/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "6 KA 3/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 25.03.2015 - B 6 KA 22/14 R - d e j u r e . o r g.",
+    "claimed_topic": "B 6 KA 3/22 R, NZS 2023, 112 Rn. 31: Sachlich-rechnerische Berichtigung nach § 106d SGB V setzt voraus, dass die KV die Unrichtigkeit der Abrechnung im Einzelfall nachwei",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=25.03.2015&Aktenzeichen=B+6+KA+22%2F14+R",
+    "skills": "fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-kassenarztrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "7 AL 12/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 14.09.2010 - B 7 AL 33/09 R - NWB Datenbank.",
+    "claimed_topic": "Auskunft an Betroffene (§ 83 SGB X) und Akteneinsicht (§ 25 SGB X) sind nebeneinander anwendbar; Art. 15 DSGVO ergänzt diese",
+    "source_url": "https://datenbank.nwb.de/Dokument/384604/",
+    "skills": "fachanwalt-sozialrecht/skills/akteneinsicht-anfordern/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "8 SO 17/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 15.11.2012 - B 8 SO 25/11 R.",
+    "claimed_topic": "Beweislast beim Kläger für anspruchsbegründende Tatsachen; gut strukturierte Anlage-Vorlage unterstützt prima-facie-Beweis.",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=15.11.2012&Aktenzeichen=B+8+SO+25%2F11+R",
+    "skills": "fachanwalt-sozialrecht/skills/anlagen-erstellen/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "8 SO 37/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 10.11.2011 - B 8 SO 18/10 R - NWB Datenbank.",
+    "claimed_topic": "Aufhebung der aufschiebenden Wirkung (§ 86b Abs. 1 SGG): bei Sanktionsbescheiden SGB II ist aufschiebende Wirkung kraft Geset",
+    "source_url": "https://datenbank.nwb.de/Dokument/427165/",
+    "skills": "fachanwalt-sozialrecht/skills/eilantrag-sozialrecht/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "8 SO 39/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 23.07.2014 - B 8 SO 12/13 R - NWB Datenbank.",
+    "claimed_topic": "Akteneinsicht im gerichtlichen Verfahren (§ 120 SGG): Gericht kann Akteneinsicht nicht auf Kernakte beschränken; alle beigezo",
+    "source_url": "https://datenbank.nwb.de/Dokument/529161/",
+    "skills": "fachanwalt-sozialrecht/skills/akteneinsicht-anfordern/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 2/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 12.12.2024 - B 9 SB 2/24 R - dejure.org. Auszug aus BSG, 12.12.2024 - B 9 SB 2/24 RRn.\n26 ee) Eine dauernde elterliche Begleitung und Überwachung minderjähriger Diabetespatienten kann im Einzelfall trotzdem einen höheren GdB bedingen, wenn sie nachweisbar\ndie Integrationsfähigkeit des Kindes er",
+    "claimed_topic": "Mündliche Verhandlung im Sozialgerichtsverfahren (§ 124 SGG): Recht des Klägers auf mündliche Verhandlung ist grundsätzlich",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=12.12.2024&Aktenzeichen=B+9+SB+2%2F24+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 2/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 16.12.2014 - B 9 SB 2/13 R - NWB Datenbank.",
+    "claimed_topic": "Beweisangebote und Anlagen im Sozialrechtsstreit: Kläger muss Beweismittel konkret bezeichnen; Gericht ist nicht verpflichte",
+    "source_url": "https://datenbank.nwb.de/Dokument/538784/",
+    "skills": "fachanwalt-sozialrecht/skills/anlagen-erstellen/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 33/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Urteil v. 09.03.2023 - B 9 SB 8/21 R - NWB Urteile.",
+    "claimed_topic": "Wiedereinsetzung (§ 67 SGG): Antrag muss binnen zwei Wochen nach Wegfall des Hindernisses gestellt werden; verspasste Zwei-Wo",
+    "source_url": "https://datenbank.nwb.de/Dokument/1021663/",
+    "skills": "fachanwalt-sozialrecht/skills/bescheid-frist-quick-check/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 4/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, 16.02.2012 - B 9 SB 48/11 B - dejure.org. |BSG, 16.02.2012 - B 9 SB 48/11 B|\n...\n###### Auszug aus BSG, 16.02.2012 - B 9 SB 48/11 BDazu hat das BSG entschieden, dass die zuständige Behörde im Verfügungssatz eines Bescheides nach § 4 Abs.\n1 S 1 SchwbG das Vorliegen einer (unbenannten) Behinderun",
+    "claimed_topic": "Gutachten auf Antrag (§ 109 SGG): Kläger hat Recht auf Einholung eines Gutachtens durch Arzt des Vertrauens; Ablehnung nur b",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=16.02.2012&Aktenzeichen=B+9+SB+48%2F11+B",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 5/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung BSG, 14.11.2013 - B 9 SB 5/12 R - d e j u r e . o r g. |BSG, 14.11.2013 - B 9 SB 5/12 R|\n|--|\n...\n**BSG, 14.11.2013 - B 9 SB 5/12 R**",
+    "claimed_topic": "29.03.2012",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=14.11.2013&Aktenzeichen=B+9+SB+5%2F12+R",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 6/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Bundessozialgericht, Urteil vom 16.03.2016, Az. B 9 SB 1/15 R.",
+    "claimed_topic": "Gesamt-GdB-Berechnung: Einzel-GdB-Werte werden nicht addiert; massgeblich ist das Gesamtbild aller Funktionsbeeinträchtigung",
+    "source_url": "https://rewis.io/urteile/urteil/n25-16-03-2016-b-9-sb-115-r/",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-gdb-schwerbehinderung/SKILL.md"
+  },
+  {
+    "court": "BSG",
+    "az": "9 SB 70/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BSG, Beschluss v. 09.01.2023 - B 9 SB 24/22 B - NWB Urteile. 2Gegen die Nichtzulassung der Revision in dieser Entscheidung hat die Klägerin Beschwerde beim BSG eingelegt und mit der Verletzung des § 103 SGG begründet.\n3II.\nDie Nichtzulassungsbeschwerde der Klägerin ist unzulässig.\nDie Beschwerdebegr",
+    "claimed_topic": "Wiedereinsetzung (§ 67 SGG): Verschulden des Bevollmächtigten ist dem Mandanten zuzurechnen; nur bei nachweislich unverschul",
+    "source_url": "https://datenbank.nwb.de/Dokument/1012183/",
+    "skills": "fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md"
+  }
+]

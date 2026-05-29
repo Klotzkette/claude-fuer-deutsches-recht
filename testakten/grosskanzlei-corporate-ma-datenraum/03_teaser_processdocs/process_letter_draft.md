@@ -10,13 +10,13 @@
 
 ## PROCESS LETTER — STRUKTURIERTER BIETERPROZESS
 
-### Transaktion: Erwerb der Solaris Industries AG (Sparte „Precision Drive Systems")
+### Transaktion: Erwerb der Solaris Industries AG (Sparte "Precision Drive Systems")
 
 ---
 
 ## I. Einleitung
 
-Meridian Corporate Finance GmbH (nachfolgend „Finanzberater") ist exklusiv durch die Solaris Familienholding AG (nachfolgend „Verkäuferin") beauftragt, den Verkauf der Solaris Industries AG (nachfolgend „Gesellschaft" oder „Target") im Wege eines strukturierten, zweiphasigen Bieterprozesses zu begleiten. Die Gesellschaft wird als Carve-out der Sparte „Precision Drive Systems" (PDS) aus dem Konzernverbund der Verkäuferin veräußert.
+Meridian Corporate Finance GmbH (nachfolgend "Finanzberater") ist exklusiv durch die Solaris Familienholding AG (nachfolgend "Verkäuferin") beauftragt, den Verkauf der Solaris Industries AG (nachfolgend "Gesellschaft" oder "Target") im Wege eines strukturierten, zweiphasigen Bieterprozesses zu begleiten. Die Gesellschaft wird als Carve-out der Sparte "Precision Drive Systems" (PDS) aus dem Konzernverbund der Verkäuferin veräußert.
 
 Dieser Process Letter beschreibt die Regeln, Fristen und Anforderungen des Bieterprozesses. Jeder Bieter, der an diesem Prozess teilnimmt, anerkennt die Verbindlichkeit dieser Regeln und verpflichtet sich zur Einhaltung der darin enthaltenen Vertraulichkeitsbestimmungen.
 
@@ -32,7 +32,7 @@ Der Bieterprozess ist in drei Phasen gegliedert:
 - Unterzeichnung der Vertraulichkeitsvereinbarung (NDA) durch alle teilnehmenden Bieter
 - Übergabe des Management Summary (Teaser) an unterzeichnende Bieter
 - Management Call / Präsentation (ca. 60 Minuten, telefonisch oder Video; auf Anfrage)
-- Abgabe des indikatives Angebots (Non-Binding Offer, „NBO")
+- Abgabe des indikatives Angebots (Non-Binding Offer, "NBO")
 
 **Frist Abgabe NBO:** 31. Oktober 2024, 17:00 Uhr MEZ
 

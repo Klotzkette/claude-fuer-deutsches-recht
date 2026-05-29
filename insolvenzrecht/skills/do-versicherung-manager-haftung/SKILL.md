@@ -1,6 +1,6 @@
 ---
 name: do-versicherung-manager-haftung
-description: "Insolvenzverwalter verklagt Geschaeftsfuehrer und D&O-Versicherung soll Deckung pruefen oder Manager fragt nach Versicherungsschutz in der Krise. Pruefraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso fuer die Haftung selbst."
+description: "Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung prüfen oder Manager fragt nach Versicherungsschutz in der Krise. Prüfraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso für die Haftung selbst."
 ---
 
 # D&O-Versicherung bei Manager-Haftung
@@ -35,7 +35,7 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 ### Bei Insolvenz Versicherungs-Nehmer
 
 - **Vertrag bleibt bestehen** wenn Prämien gezahlt
-- **Prämien-Anfechtung** § 130 ff. InsO möglich (BGH IX ZR 73/14)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Rückwirkungs-Risiken** prüfen
 
 ## Schritt 2 — Claims-made-Prinzip
@@ -90,8 +90,7 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 
 ### BGH-Rechtsprechung
 
-- **BGH II ZR 234/18** zur Auslegung § 15b
-- **BGH II ZR 199/19** Geschäftsführer-Haftung Wirksamkeits-Voraussetzungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 5 — Deckungs-Ausschlüsse
 
@@ -110,7 +109,7 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 
 ### Praktische Auslegung
 
-- BGH IV ZR-Rechtsprechung zu Ausschluss-Klauseln
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wissentliches Pflichtverletzungs-Risiko** häufig streitig
 - **Beweis-Last Versicherer** für Ausschluss
 
@@ -198,7 +197,7 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 ### Insolvenz-Anfechtung § 130 ff. InsO
 
 - Insolvenz-Verwalter kann Prämien-Zahlung anfechten
-- BGH IX ZR 73/14 zur Anfechtung von D&O-Prämien
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Versicherer als Anfechtungs-Adressat
 
 ### Folge
@@ -340,16 +339,14 @@ Mit freundlichen Gruessen
 - GmbHG §§ 43 46
 - BGB § 823 Abs. 2
 - ZPO § 72
-- BGH II ZR 234/18 II ZR 199/19
-- BGH IX ZR 73/14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BGH IV. Zivilsenat zu D&O-Auslegungs-Fragen
-- Bruck/Möller VVG
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Werber D&O-Versicherung
 
 
 ## Ergaenzende Leitentscheidungen
 
-- BGH, Urt. v. 05.04.2017 — IV ZR 360/15, NJW 2017, 2466 — D&O-Versicherung in der Insolvenz: Die Verfuegungsbefugnis ueber die Rechte des Versicherungsnehmers aus dem D&O-Vertrag geht gemaess § 80 Abs. 1 InsO auf den Insolvenzverwalter ueber; die Sozialbindung der Haftpflichtversicherung gilt auch in Innenha­ftungsfaellen; rechtsmissbraeuchliche Berufung des Versicherers auf fehlende Prozessfuehrungs­befugnis ist unzulaessig.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung § 15b InsO: GF haftet persoenlich fuer Zahlungen nach Insolvenzreife; D&O-Versicherung deckt § 15b-Anspruch als "wrongful trading" ab wenn Versicherungspolice weit genug.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 111/12 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH IV ZR 360/15, NJW 2017, 2466 (verifiziert auf dejure.org). -->

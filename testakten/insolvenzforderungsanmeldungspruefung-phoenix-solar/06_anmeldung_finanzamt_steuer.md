@@ -53,11 +53,11 @@ Die Lohnsteueranmeldung für März 2026 wurde von der Schuldnerin fristgerecht a
 
 ## III. Besonderer Rechtsgrund – Steuerstraftat (§ 302 Nr. 1 InsO)
 
-Das Finanzamt hat in der Anmeldung für die Positionen Umsatzsteuer 02/2026 und Lohnsteuer 03/2026 das Kästchen „besonderer Rechtsgrund – vorsätzlich begangene unerlaubte Handlung (§ 302 Nr. 1 InsO)" angekreuzt.
+Das Finanzamt hat in der Anmeldung für die Positionen Umsatzsteuer 02/2026 und Lohnsteuer 03/2026 das Kästchen "besonderer Rechtsgrund – vorsätzlich begangene unerlaubte Handlung (§ 302 Nr. 1 InsO)" angekreuzt.
 
 **Begründung durch das Finanzamt (Auszug aus der Anmeldung):**
 
-> „Gegen den Geschäftsführer Marcus Wendler wird wegen Verdachts der Steuerhinterziehung nach § 370 AO ermittelt. Die Steuerfahndungsstelle Potsdam führt ein Ermittlungsverfahren Az. StFA-2026-044. Es wird der Verdacht erhoben, dass die abgegebenen Voranmeldungen bewusst zu niedrige Umsätze ausgewiesen und Vorsteuer zu Unrecht geltend gemacht wurde."
+> "Gegen den Geschäftsführer Marcus Wendler wird wegen Verdachts der Steuerhinterziehung nach § 370 AO ermittelt. Die Steuerfahndungsstelle Potsdam führt ein Ermittlungsverfahren Az. StFA-2026-044. Es wird der Verdacht erhoben, dass die abgegebenen Voranmeldungen bewusst zu niedrige Umsätze ausgewiesen und Vorsteuer zu Unrecht geltend gemacht wurde."
 
 **Bewertung durch den Insolvenzverwalter:**
 

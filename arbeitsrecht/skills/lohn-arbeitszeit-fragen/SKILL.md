@@ -7,7 +7,7 @@ description: "Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarb
 
 ## Zweck
 
-„Es kommt darauf an" ist wahr, aber keine nützliche Antwort. Dieser Skill liefert standortspezifische Antworten mit der maßgeblichen Norm, zitiert und mit Kennzeichnung von Grenzfällen.
+"Es kommt darauf an" ist wahr, aber keine nützliche Antwort. Dieser Skill liefert standortspezifische Antworten mit der maßgeblichen Norm, zitiert und mit Kennzeichnung von Grenzfällen.
 
 ## Eingaben
 
@@ -39,7 +39,7 @@ Falls aus dem Profil erkennbar: direkt verwenden. Andernfalls fragen. Prüfen:
 - § 18 ArbZG: Nicht anwendbar auf leitende Angestellte i.S.d. § 5 Abs. 3 BetrVG
 
 **Arbeitszeiterfassung:**
-EuGH, Urt. v. 14.05.2019 – C-55/18 (CCOO), NZA 2019, 683: Mitgliedstaaten müssen objektives, verlässliches und zugängliches System zur Erfassung der täglichen Arbeitszeit einführen. BAG, Beschl. v. 13.09.2022 – 1 ABR 22/21, NZA 2022, 1562: Arbeitgeber ist bereits nach § 3 Abs. 2 Nr. 1 ArbSchG verpflichtet, ein System zur Arbeitszeiterfassung einzuführen `[Modellwissen – prüfen]`. Gesetzliche Ausgestaltung (ArbZG-Reform) noch offen – auf aktuellen Stand prüfen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. MiLoG (Mindestlohngesetz)
 
@@ -71,7 +71,7 @@ EuGH, Urt. v. 14.05.2019 – C-55/18 (CCOO), NZA 2019, 683: Mitgliedstaaten müs
 
 ### 5. Überstunden
 
-- Gesetzlich: keine Pflicht zur Überstundenvergütung, wenn Arbeitsvertrag oder Tarifvertrag Überstunden als „mit dem Gehalt abgegolten" regelt. AGB-Kontrolle beachten: zu weitgehende Klauseln (ohne Stundenbegrenzung) sind unwirksam; BAG, Urt. v. 22.02.2012 – 5 AZR 765/10, NZA 2012, 861 `[Modellwissen – prüfen]`.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Freizeitausgleich vor Auszahlung bevorzugen, um Lohnnebenkostenbelastung zu reduzieren.
 - Überstunden-Dokumentationspflicht (aus BAG-Rspr. seit CCOO-Entscheidung EuGH): `[Modellwissen – prüfen]`.
 
@@ -88,11 +88,9 @@ Frage des Nutzers beantworten:
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
-- Baeck/Deutsch/Winzer, in: ErfK, 24. Aufl. 2024, ArbZG § 3 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Riechert/Nimmerjahn, MiLoG, 3. Aufl. 2021, § 1 Rn. 1 ff.
-- EuGH, Urt. v. 14.05.2019 – C-55/18 (CCOO), NZA 2019, 683 (Arbeitszeiterfassung)
-- BAG, Beschl. v. 13.09.2022 – 1 ABR 22/21, NZA 2022, 1562 (Pflicht zur Zeiterfassung)
-- BAG, Urt. v. 22.02.2012 – 5 AZR 765/10, NZA 2012, 861 (Überstundenpauschalabgeltung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schmitt, EFZG, 9. Aufl. 2023, § 3 Rn. 1 ff.
 
 ## Ausgabeformat
@@ -115,9 +113,9 @@ Grenzfall-Flags: [ggf. [prüfen]]
 
 ## Beispiele
 
-**Frage:** Muss ich Überstunden bezahlen, wenn der Arbeitsvertrag sagt „Überstunden sind mit dem Gehalt abgegolten"?
+**Frage:** Muss ich Überstunden bezahlen, wenn der Arbeitsvertrag sagt "Überstunden sind mit dem Gehalt abgegolten"?
 
-**Antwort:** Eine solche Klausel ist nur wirksam, wenn die Anzahl der abgegoltenen Überstunden klar begrenzt ist und der Stundensatz über dem Mindestlohn bleibt. Unbegrenzte Pauschalabgeltungsklauseln sind nach § 307 Abs. 1 BGB unwirksam (BAG, Urt. v. 22.02.2012 – 5 AZR 765/10, NZA 2012, 861 `[Modellwissen – prüfen]`). Im Zweifel: Einzelfallprüfung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Frage:** Wie viele Stunden darf ein Mitarbeiter täglich arbeiten?
 

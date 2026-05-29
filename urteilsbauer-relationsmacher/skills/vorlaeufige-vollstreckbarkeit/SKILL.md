@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-vollstreckbarkeit
-description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Pruefraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-pruefen."
+description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen."
 ---
 
 # Vorläufige Vollstreckbarkeit
@@ -15,9 +15,7 @@ description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZP
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 05.12.2012 - III ZB 47/12, NJW 2013, 1232 — § 713 ZPO setzt voraus, dass keine Berufung statthaft ist; Gericht muss Beschwer prüfen, bevor Vollstreckbarkeit ohne Sicherheit ausgesprochen wird.
-- BGH, Urt. v. 17.09.1998 - I ZR 184/97, NJW 1999, 654 — § 709 ZPO Sicherheitsleistung von 110 Prozent ist Regelfall; Abweichung bedarf besonderer Begründung.
-- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Vollstreckungsschutz nach § 719 ZPO bei Berufung möglich, wenn Vollstreckung zu nicht zu ersetzenden Nachteilen führt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -30,12 +28,9 @@ description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZP
 - § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
 - § 719 ZPO — Einstellung der Vollstreckung bei Berufung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 708 Rn. 1-25, § 709 Rn. 1-15, § 713 Rn. 1-10
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 711 Rn. 1-10 (Schutzantrag)
-- MüKo-ZPO/Götz, 6. Aufl. 2022, § 719 Rn. 1-15 (Vollstreckungsschutz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Entscheidungsbaum
 
 ```

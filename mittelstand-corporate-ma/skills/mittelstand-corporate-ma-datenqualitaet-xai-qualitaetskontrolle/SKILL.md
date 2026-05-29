@@ -56,14 +56,11 @@ Sichert KI-gestützte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme u
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 22.02.2021 - 23 U 70/19, NZG 2021, 680 — DD-Beraterhaftung: auch bei eingeschraenktem Zeitrahmen und eingeschraenktem Datenraum muessen wesentliche Risiken erkannt und kommuniziert werden; keine Entlastung durch unvollstaendige Datenbasis
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Sorgfaltspflicht: Anwalt muss Datengrundlage seiner Einschaetzung kennen und dem Mandanten kommunizieren; blinde Uebernahme von Ergebnissen ohne Pruefung ist Pflichtverletzung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Sydow/Marsch, DSGVO, Art. 22 Rn. 1-60 (Automatisierte Entscheidungen, Transparenz)
-- Picot, Unternehmenskauf, Kapitel 2 (Qualitaetssicherung, Sorgfaltspflichten), 5. Auflage
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Datenquellen dokumentieren:** alle verwendeten Quellen mit Datum, Version, Zugaenglichkeit; Luecken explizit benennen

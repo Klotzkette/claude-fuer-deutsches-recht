@@ -1,6 +1,6 @@
 ---
 name: fluggastrechte-anlagen-bauen
-description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestaetigung Boardingpass Annullierungsbestaetigung E-Mail-Verkehr Quittungen. Konvertiert alles nach PDF nummeriert in der Reihenfolge der ersten Erwaehnung im Schriftsatz stempelt oben rechts Anlage K 1 in Arial 12 fett und benennt beA-tauglich. Liefert Einzel-PDFs Konvolut-PDF Anlagenverzeichnis und optional ein Schriftsatz-mit-Anlagen-Bundle als ein PDF."
+description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass Annullierungsbestätigung E-Mail-Verkehr Quittungen. Konvertiert alles nach PDF nummeriert in der Reihenfolge der ersten Erwaehnung im Schriftsatz stempelt oben rechts Anlage K 1 in Arial 12 fett und benennt beA-tauglich. Liefert Einzel-PDFs Konvolut-PDF Anlagenverzeichnis und optional ein Schriftsatz-mit-Anlagen-Bundle als ein PDF."
 ---
 
 # Fluggastrechte — Anlagen bauen
@@ -38,7 +38,7 @@ Fehlt LibreOffice oder Pillow, gibt der Skill eine konkrete Installations-Anweis
 
 ### Schritt 2 — Anlagen aus dem Schriftsatz lesen
 
-Der Skill liest den Schriftsatz und extrahiert alle Bezugnahmen vom Muster „Anlage K 1", „Anlage K2", „Anlage K 3a". Reihenfolge: die der **ersten Erwähnung im Schriftsatz** (BGH-Stil, nicht chronologisch). Wenn der Schriftsatz noch keine Anlagen-Nummern enthält, wird alphabetisch durchnummeriert — dann sollte der Schreiben-Skill in einem zweiten Lauf die Bezeichnungen im Schriftsatz nachtragen.
+Der Skill liest den Schriftsatz und extrahiert alle Bezugnahmen vom Muster "Anlage K 1", "Anlage K2", "Anlage K 3a". Reihenfolge: die der **ersten Erwähnung im Schriftsatz** (BGH-Stil, nicht chronologisch). Wenn der Schriftsatz noch keine Anlagen-Nummern enthält, wird alphabetisch durchnummeriert — dann sollte der Schreiben-Skill in einem zweiten Lauf die Bezeichnungen im Schriftsatz nachtragen.
 
 ### Schritt 3 — Stempel oben rechts (Arial 12 fett)
 
@@ -107,10 +107,10 @@ Abhängigkeiten: `pypdf`, `reportlab`, optional `Pillow` (für Bild-Konvertierun
 
 Der Skill stoppt mit einer klaren Frage zurück an den Mandanten / die Sekretariatskraft, wenn:
 
-- der Belege-Ordner leer ist (Frage: „Welche Belege liegen vor und in welchem Format? Bitte alle in den Ordner kopieren, auch Fotos und E-Mails.");
-- der Schriftsatz weder PDF noch DOCX ist (Frage: „Liegt der Schriftsatz als PDF vor? Wenn er noch in der Mahnung-Skill-Vorschau steht, bitte erst dort als PDF exportieren.");
-- mehr Anlagen im Schriftsatz benannt sind, als Belege im Ordner liegen (Frage: „Der Schriftsatz nennt Anlage K 5, im Ordner sind aber nur 4 Dateien — welcher Beleg fehlt?");
-- ein Beleg im Ordner liegt, der im Schriftsatz nicht erwähnt wird (Hinweis: „Beleg X wird im Schriftsatz nicht zitiert. Soll er trotzdem als zusätzliche Anlage angehängt werden, oder weggelassen?").
+- der Belege-Ordner leer ist (Frage: "Welche Belege liegen vor und in welchem Format? Bitte alle in den Ordner kopieren, auch Fotos und E-Mails.");
+- der Schriftsatz weder PDF noch DOCX ist (Frage: "Liegt der Schriftsatz als PDF vor? Wenn er noch in der Mahnung-Skill-Vorschau steht, bitte erst dort als PDF exportieren.");
+- mehr Anlagen im Schriftsatz benannt sind, als Belege im Ordner liegen (Frage: "Der Schriftsatz nennt Anlage K 5, im Ordner sind aber nur 4 Dateien — welcher Beleg fehlt?");
+- ein Beleg im Ordner liegt, der im Schriftsatz nicht erwähnt wird (Hinweis: "Beleg X wird im Schriftsatz nicht zitiert. Soll er trotzdem als zusätzliche Anlage angehängt werden, oder weggelassen?").
 
 ## Was dieser Skill bewusst NICHT tut
 
@@ -121,17 +121,15 @@ Der Skill stoppt mit einer klaren Frage zurück an den Mandanten / die Sekretari
 
 ## Beispiele typischer Nutzerformulierungen, die diesen Skill auslösen
 
-- „Bitte die Belege aus dem Ordner ./belege als Anlagen K 1 bis K 5 zum Forderungsschreiben aufbereiten."
-- „Erstelle ein Anlagenkonvolut für die Klage, alles in einem PDF."
-- „Stemple meine Belege als Anlagen und benenne sie beA-konform."
-- „Mach aus dem Schriftsatz und den Belegen ein einziges PDF zum Einreichen."
+- "Bitte die Belege aus dem Ordner ./belege als Anlagen K 1 bis K 5 zum Forderungsschreiben aufbereiten."
+- "Erstelle ein Anlagenkonvolut für die Klage, alles in einem PDF."
+- "Stemple meine Belege als Anlagen und benenne sie beA-konform."
+- "Mach aus dem Schriftsatz und den Belegen ein einziges PDF zum Einreichen."
 
 ## Übergabe
 
-Die Schreiben-Skills (`forderungsschreiben-erste-stufe`, `forderungsschreiben-mahnung`, `klage-amtsgericht-fluggast`) rufen diesen Skill **automatisch** am Ende ihrer Arbeit auf, sobald ein Belege-Ordner im Mandatsverzeichnis vorhanden ist. Der Nutzer kann das mit der Option „Anlagen separat lassen" abwählen.
+Die Schreiben-Skills (`forderungsschreiben-erste-stufe`, `forderungsschreiben-mahnung`, `klage-amtsgericht-fluggast`) rufen diesen Skill **automatisch** am Ende ihrer Arbeit auf, sobald ein Belege-Ordner im Mandatsverzeichnis vorhanden ist. Der Nutzer kann das mit der Option "Anlagen separat lassen" abwählen.
 
 ## Leitentscheidungen Anlagen / Schriftsatz
 
-- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Klage auf Ausgleichszahlung; Anlagen muessen Buchungsbestaetigung, Bordkarte und Nachweis der Verspaetung enthalten; Gericht kann Vorlage verlangen.
-- BGH, Urt. v. 12.11.2019 — X ZR 117/18, NJW 2020, 464 — Klage vor Amtsgericht; Streitwert pro Passagier bis 600 EUR; Anwaltsbeistand nicht notwendig; einfache Form genuegt.
-- EuGH, Urt. v. 17.02.2016 — C-429/14 (Air Baltic), NJW 2016, 961 — Kombination VO 261/2004 und MUe; Ausgleichszahlung nach VO 261/2004 unabdingbar; keine Verrechnung mit Schadensersatz nach MUe.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

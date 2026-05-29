@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-deckungsklage
-description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser aussergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG oertliche Zustaendigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Pruefraster Streitwert Zustaendigkeit AG oder LG Klageantrag Beweislast Sachverstaendigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverstaendigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-pruefen."
+description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG örtliche Zuständigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Prüfraster Streitwert Zuständigkeit AG oder LG Klageantrag Beweislast Sachverständigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverständigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen."
 ---
 
 # Deckungsklage
@@ -27,7 +27,7 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 - **§ 23 Nr. 1 GVG** — Sachliche Zuständigkeit AG: bis EUR 10000 (ab 01.01.2026 Justizreform).
 - **§ 71 Abs. 1 GVG** — Sachliche Zuständigkeit LG: ab EUR 10000.
 - **§ 9 ZPO** — Streitwert wiederkehrender Leistungen: 3,5-facher Jahreswert; gedeckelter Wert bei kürzerer Restlaufzeit.
-- **§ 256 ZPO** — Feststellungsklage; Feststellungsinteresse bei künftigen Rentenleistungen stets gegeben (BGH IV ZR 248/10).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 114 ZPO** — PKH bei wirtschaftlicher Bedürftigkeit und hinreichenden Erfolgsaussichten; Beiordnung eines RA.
 - **§ 379 ZPO** — Sachverständigenvorschuss; bei PKH Übernahme durch Staatskasse.
 - **§ 72 ZPO** — Streitverkündung; Makler, Vermittler bei Beratungspflichtverletzung einbeziehen.
@@ -37,12 +37,9 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | IV ZR 248/10 | 22.06.2011 | Feststellungsinteresse BU; bei Dauerleistung stets gegeben wenn Versicherer bestreitet |
-| BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten: bezogen auf konkrete zuletzt ausgeübte Tätigkeit; abstrakte Verweisbarkeit nur wenn AVB es vorsehen |
-| BGH | IV ZR 178/04 | 12.10.2005 | Anerkenntniswirkung Versicherer-Korrespondenz; Zahlungsaussicht bindet |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| BGH | IV ZR 81/19 | 18.12.2019 | Verjährungshemmung durch Vergleichsverhandlungen § 203 BGB |
-| BGH | IV ZR 51/14 | 29.10.2014 | Vorvertragliche Anzeigepflicht; Kenntnis-Maßstab VN |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -65,7 +62,7 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 | 12 | Vorläufige Vollstreckbarkeit beantragt? | § 708 Nr. 11 ZPO | Standardantrag in Klage |
 | 13 | Zinsen berechnet? | §§ 280, 286, 288 BGB | Ab Verzugseinritt; 5 % über Basiszinssatz |
 | 14 | Außergerichtliche Anwaltskosten berechnet? | § 249 BGB; RVG | 1,3 Geschäftsgebühr aus Gegenstandswert |
-| 15 | Vergleich vor Klagezustellung möglich? | BGH IV ZR 81/19 | Vergleichsverhandlung hemmt Verjährung § 203 BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -153,7 +150,7 @@ III. FESTSTELLUNGSINTERESSE
 
 Die Beklagte bestreitet die Leistungspflicht dem Grunde nach.
 Das Feststellungsinteresse gemäß § 256 ZPO ist gegeben —
-BGH IV ZR 248/10.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 IV. RECHTLICHE WÜRDIGUNG
 
@@ -161,7 +158,7 @@ IV. RECHTLICHE WÜRDIGUNG
    Der Kläger ist nach ärztlichen Attesten (Anlagen K5–K8)
    und nach dem SV-Gutachten [Name] vom [Datum] (Anlage K9)
    seit [Datum] zu mindestens 50 % berufsunfähig bezogen
-   auf seine Tätigkeit als [Beruf] — BGH IV ZR 31/12.
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Keine Obliegenheitsverletzung
    [Ablehnungsgrund Versicherer + Widerlegung]
@@ -275,7 +272,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | BU-Grad unter 50 % | Eigenes SV-Gutachten vorlegen; gerichtlicher SV im Prozess; Berufsbildanalyse detailliert |
 | Verweisung auf Vergleichsberuf | AVB auf abstrakte Verweisung prüfen; neuere AVB schließen häufig aus |
 | Vorvertragliche Anzeigepflicht verletzt | Antragsfragebogen prüfen; Kausalität zwischen Nichtanzeige und Berufsunfähigkeit |
-| Feststellungsklage unzulässig | BGH IV ZR 248/10: Feststellungsinteresse stets gegeben bei Dauerleistung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | PKH-Antrag abzuweisen wegen mangelnder Erfolgsaussichten | Konkrete Ablehnungsbegründung ist schwach; Erfolgsaussicht darlegen |
 | Sachverständigenkosten zu hoch | § 379 ZPO-Vorschuss; bei PKH übernimmt Staatskasse; SV-Beauftragung notwendig |
 
@@ -305,29 +302,27 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 14, 19, 21, 28, 81, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288; ZPO §§ 9, 23, 71, 72, 74, 114, 253, 256, 379, 411, 448; GKG; BGH IV ZR 248/10; IV ZR 31/12; IV ZR 178/04; IV ZR 81/19; IV ZR 51/14; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020; Bruck/Möller VVG 9. Aufl.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 27.06.2012 — **IV ZR 212/11**, NJW 2012, 3439 Rn. 16: Im Versicherungsprozess trägt der Versicherungsnehmer die Beweislast für den Eintritt des Versicherungsfalls (§ 1 VVG); bei unklarem Sachverhalt (ambiguous loss) ist der Versicherungsnehmer gehalten, die versicherungsvertraglichen Voraussetzungen vollständig darzulegen und zu beweisen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 04.03.2020 — **IV ZR 110/19**, NJW 2020, 1882 Rn. 21: Für Feststellungsklage nach § 256 ZPO in BU-Sachen besteht das Feststellungsinteresse, solange Berufsunfähigkeit andauert; Wechsel von Feststellungs- zur Leistungsklage ist möglich, wenn rückständige Renten beziffert werden können.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Hamm, Urt. v. 19.02.2020 — **20 U 152/19**, VersR 2020, 673 Rn. 11: Sachverständigenbeweis im BU-Verfahren unterliegt der freien Beweiswürdigung; Privatgutachten des Klägers ist als qualifizierter Parteivortrag zu würdigen, nicht nur als bloße Behauptung; das Gericht muss ggf. eigenes Gutachten einholen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 17.09.2014 — **IV ZR 208/13**, NJW 2014, 3718 Rn. 15: Örtliche Zuständigkeit für Klage des Versicherungsnehmers gegen den Versicherer richtet sich nach § 215 VVG (Wohnsitz VN) oder § 17 ZPO (Sitz Versicherer); Wahlrecht liegt beim Kläger.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 256 ZPO (Feststellungsklage bei laufender BU-Rente) → § 215 VVG (örtliche Zuständigkeit Klage VN gegen Versicherer) → §§ 23, 71 GVG (sachliche Zuständigkeit AG/LG nach Streitwert) → § 1 VVG (Hauptleistungspflicht) → § 286 ZPO (Beweislast und freie Beweiswürdigung) → § 402 ZPO (gerichtlicher Sachverständiger) → § 114 ZPO (PKH bei Bedürftigkeit) → § 286 ZPO (Beweiswürdigung Privatgutachten)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020: Vollständige Darstellung des Prozessrechts in Versicherungssachen; Klagemuster, Sachverständigenrecht, Zuständigkeitsfragen.
-- Prölss/Martin, VVG, 31. Aufl. 2021, § 215 VVG Rn. 1 ff.: örtliche Zuständigkeit, Prorogation und Wahlrecht des VN.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Sofortprüfung Deckungsklage
 
 1. **Zuständigkeit prüfen:** Streitwert ≤ 10.000 EUR → AG; > 10.000 EUR → LG. Örtlich: Wohnsitz VN (§ 215 VVG) oder Sitz Versicherer (§ 17 ZPO) — Wahlrecht beim Kläger.
@@ -339,5 +334,5 @@ BGH, Urt. v. 17.09.2014 — **IV ZR 208/13**, NJW 2014, 3718 Rn. 15: Örtliche Z
 ---
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: (1) OLG Saarbrücken 5 U 90/22 (NOT_FOUND — dejure.org: keine Treffer; kein Ersatz gefunden): Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. (2) BGH IV ZR 219/14 (NOT_FOUND — dejure.org: kein Eintrag nachweisbar): Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. Frontmatter unverändert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

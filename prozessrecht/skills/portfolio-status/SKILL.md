@@ -1,6 +1,6 @@
 ---
 name: portfolio-status
-description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte. Normen: ZPO, RVG. Pruefraster: Fristenliste, offene Antraege, Termine, Mahnfristen. Output: Portfolio-Statusbericht Prozessmandate. Abgrenzung: nicht Einzelmandat-Briefing."
+description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte. Normen: ZPO, RVG. Prüfraster: Fristenliste, offene Anträge, Termine, Mahnfristen. Output: Portfolio-Statusbericht Prozessmandate. Abgrenzung: nicht Einzelmandat-Briefing."
 ---
 
 # Prozessportfolio-Status
@@ -21,16 +21,14 @@ description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahre
 - § 233 ZPO (Wiedereinsetzung in den vorigen Stand bei Fristversäumnis)
 
 ## Rechtsprechung (ergänzt)
-1. BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 12 — Anwaltliche Haftung bei versaeumter Rechtsmittelfrist; die Kanzlei haftet, wenn keine systematische Fristenkontrolle vorhanden ist.
-2. BGH, Urt. v. 26.05.2011 – IX ZR 160/10, NJW 2011, 2513 Rn. 18 — Der Anwalt muss den Mandanten unverzueglich über drohende Fristversaeumnisse informieren; eine verspätete Warnung begründet Schadensersatzpflicht.
-3. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt ist verpflichtet, erkenntliche Prozessrisiken aktiv zu kommunizieren; eine laufende Portfolioüberwachung gehört zur mandatsbezögenen Sorgfaltspflicht.
-4. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Die Pflicht zur vollständigen Risikoaufklärung gilt für jede Phase des Mandats; spät erkannte Risiken müssen sofort kommuniziert werden.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Sorgfaltspflicht und Fristenkontrolle).
-- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 233 Rn. 1 ff. (Wiedereinsetzung).
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80 ff. (Pflicht zur Mandantinformation).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Eine Abfrage, die beantwortet: Was führe ich gerade, was erfordert Aufmerksamkeit, was droht zu versanden? Die Ausgabe ist auf schnelles Überfliegen ausgelegt — geeignet für einen Anwalt, der drei Minuten vor dem nächsten Termin hat. Lädt bei allen Anfragen zu einer Gesamtübersicht aktiver oder aller Prozessmandate.
@@ -54,16 +52,11 @@ Eine Abfrage, die beantwortet: Was führe ich gerade, was erfordert Aufmerksamke
 
 ### Leitentscheidungen
 
-- **BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 12 ff.** — Anwaltliche Haftung bei versäumter Rechtsmittelfrist; Anforderungen an die Fristenkontrolle einer Kanzlei.
-- **BGH, Urt. v. 26.05.2011 – IX ZR 160/10, NJW 2011, 2513 Rn. 18** — Pflicht zur unverzüglichen Information des Mandanten über drohende Fristversäumnisse und Verfahrensrisiken.
-- **BVerfG, Beschl. v. 20.06.1995 – 1 BvR 166/93, NJW 1995, 3173** — Recht auf effektiven Rechtsschutz; staatliche Gerichte dürfen überhöhte Anforderungen an Fristen nicht stellen; Gegenseite: Anwaltspflicht zur Ausschöpfung aller Rechtsmittelwege.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233 Rn. 5` — Sorgfaltsanforderungen an Fristenkontrolle; organisatorische Pflichten der Kanzlei.
-- `Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214 Rn. 8` — Fristenberechnung und Überwachungspflichten; praktische Anforderungen.
-- `Förschle, in: BeckOK HGB, 60. Ed. (Stand 01.11.2023), § 249 Rn. 30` — Rückstellungspflicht bei Rechtsstreitigkeiten; Kriterien für „wahrscheinlich" und „schätzbar".
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1: Kontext laden
@@ -191,7 +184,7 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 ## Quellenpflicht
 
 - Gesetzestexte: §§ 43a BRAO; § 11 BORA; §§ 214 ff., 516, 520, 548, 569 ZPO; § 317 StPO; § 74 VwGO; §§ 249, 285 HGB
-- Rechtsprechung: BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655; BGH, Urt. v. 26.05.2011 – IX ZR 160/10, NJW 2011, 2513
-- Kommentare: Zöller/Greger, ZPO, 35. Aufl. 2024, § 233; BeckOK HGB/Förschle, 60. Ed. 2023, § 249
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

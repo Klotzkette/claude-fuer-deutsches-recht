@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungs-rente-streit-sgb-vi
-description: "EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie fuer Buerger bei Ablehnung durch DRV."
+description: "EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV."
 ---
 
 # Erwerbsminderungs-Rente — Streit mit der Rentenversicherung
@@ -131,7 +131,7 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 
 - **Versicherungsverlauf zwingend pruefen** — wenn die Voraussetzungen nicht erfuellt sind, ist EM-Rente nicht moeglich.
 - **Befristete EM-Rente** § 102 SGB VI: meist 3 Jahre, Verlaengerung moeglich.
-- **Verschlossener Teilzeitarbeitsmarkt** als Argument: BSG, Beschl. v. 19.12.1996 — GS 2/95, in juris pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Krankengeld-Ende** als Trigger: oft erfolgt EM-Antrag erst nach Aussteuerung.
 
 ## Typische Fehler
@@ -152,4 +152,4 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. §§ 43, 240 SGB VI aktuell. BSG-Linie zur verschlossenen Teilzeitarbeit BSG GS 2/95 (verifizieren in juris). Volkstuemlicher Hinweis: bei laufender Erwerbsminderung Reha-Vorrang § 9 SGB IX beachten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

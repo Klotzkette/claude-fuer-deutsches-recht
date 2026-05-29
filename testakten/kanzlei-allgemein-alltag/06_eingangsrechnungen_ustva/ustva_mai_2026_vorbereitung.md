@@ -22,4 +22,4 @@ Die UStVA darf nur vorbereitet werden. ELSTER ist nicht angeschlossen. Soll ich 
 - Dauerfristverlängerung prüfen.
 - Ausgangsrechnung final oder Entwurf?
 - Übertragungsprotokoll nach echter Abgabe ablegen.
-- Freie XML-Platzhalterdatei nicht als echte ELSTER-XML verwenden.
+- Freie XML-Validierungsnotiz nicht als echte ELSTER-XML verwenden.

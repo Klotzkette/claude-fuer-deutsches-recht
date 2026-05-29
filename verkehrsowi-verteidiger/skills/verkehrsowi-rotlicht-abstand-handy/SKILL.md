@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rotlicht-abstand-handy
-description: "Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bussgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnung Tacho-Laenge), § 23 Abs. 1a StVO (Festhalten-Begriff BGH). Pruefraster: Beweisgrundlagen (Videobeweise, Polizeizeugen), typische Verteidigungsargumente je Tatvorwurf. Output Verteidigungs-Strategie, Beweisantrags-Entwurf. Abgrenzung: Geschwindigkeit siehe verkehrsowi-messverfahren-geschwindigkeit; Zeugen-Strategie siehe verkehrsowi-zeugen-polizei-strategie."
+description: "Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bußgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnung Tacho-Laenge), § 23 Abs. 1a StVO (Festhalten-Begriff BGH). Prüfraster: Beweisgrundlagen (Videobeweise, Polizeizeugen), typische Verteidigungsargumente je Tatvorwurf. Output Verteidigungs-Strategie, Beweisantrags-Entwurf. Abgrenzung: Geschwindigkeit siehe verkehrsowi-messverfahren-geschwindigkeit; Zeugen-Strategie siehe verkehrsowi-zeugen-polizei-strategie."
 ---
 
 # Rotlicht, Abstand und Handy — §§ 23, 37, 4 StVO
@@ -23,18 +23,12 @@ description: "Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat B
 
 ## Aktuelle Rechtsprechung
 
-- OLG Koeln, Beschl. v. 01.07.2019 - 1 RBs 185/19, NZV 2019, 558 — Qualifiziertes Rotlicht (> 1 Sekunde) erfordert exakte Messung der Rotlicht-Dauer; Zeugenaussage des Polizeibeamten genuegt wenn sie auf konkreter Wahrnehmung beruht, nicht auf Schaetzung.
-- BGH, Beschl. v. 03.07.2019 - 4 StR 193/19, NZV 2019, 416 — Handy am Steuer nach § 23 Abs. 1a StVO setzt bewusstes Aufnehmen und Halten des Geraets voraus; kurzzeitiges Anfassen ohne bewusstes Festhalten ist kein Verstoss.
-- OLG Bamberg, Beschl. v. 22.02.2021 - 3 Ss OWi 164/21, NZV 2021, 266 — Abstandsmessung durch Videomethode (Tacholaengenmethode): Urteil muss Berechnungsgrundlagen nachvollziehbar darlegen; fehlende Erklaerung der Berechnungsmethode ist Rechtsfehler.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Frankfurt a.M., Beschl. v. 29.01.2021 - 2 Ss OWi 800/20, NZV 2021, 210 — Rotlicht-Video-Beweis: Kalibrierung der Messanlage muss nachgewiesen sein; ohne Kalibrier-Nachweis ist Messung in der Rechtsbeschwerde angreifbar.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG Vor § 1 OWiG; zu § 49 StVO
-- Janiszewski/Jagow/Burmann StVR § 37 StVO Rn. 1-25 (Lichtzeichen, Rotlicht)
-- Janiszewski/Jagow/Burmann StVR § 4 StVO Rn. 1-20 (Abstand)
-- Janiszewski/Jagow/Burmann StVR § 23 StVO Rn. 1-15 (Handy am Steuer)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Besonderheiten je Verstos-Typ
 
 ### Rotlicht (§ 37 StVO)

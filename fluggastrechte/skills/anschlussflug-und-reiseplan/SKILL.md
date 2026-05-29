@@ -1,13 +1,13 @@
 ---
 name: anschlussflug-und-reiseplan
-description: "Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und mehreren Etappen. Massgeblich ist die Ankunftsverspaetung am Endziel der Reise (EuGH C-11/11 Folkerts und C-559/16 Wegener). Pruefraster eine Buchung mit einer PNR oder mehrere Buchungen. Codeshare-Sonderfaelle. Bei Verspaetung am Anschlussflughafen die zu Verpassen des Anschlusses fuehrt — Anspruch wird nach Endziel-Verspaetung berechnet. Bei separaten Buchungen je Strecke Einzelanspruch."
+description: "Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Anschlussflug und Reiseplan
 
 ## Grundregel — Endziel zählt
 
-EuGH C-11/11 (Folkerts 26.02.2013) und C-559/16 (Wegener 31.05.2018):
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Bei einer **einheitlichen Buchung** mit Anschlussflug ist maßgeblich die **Verspätung am Endziel** — nicht am Anschlussflughafen.
 - Anspruch besteht auch wenn der erste Flug puenktlich war aber der Anschlussflug ausfällt und das Endziel mehr als drei Stunden verspätet erreicht wird.
@@ -29,7 +29,7 @@ EuGH C-11/11 (Folkerts 26.02.2013) und C-559/16 (Wegener 31.05.2018):
 
 ### 3. Wo wird die Distanz gemessen?
 
-EuGH C-559/16 (Wegener) und C-832/18 (Airhelp / SAS): bei einheitlicher Buchung **Gesamtdistanz** vom ersten Abflugflughafen bis zum letzten Zielflughafen — auf Direktdistanz-Basis (nicht Umweg).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beispiel
 
@@ -82,16 +82,11 @@ Anspruchsgegner: Lufthansa (operating carrier Etappe 2)
 
 ## Leitentscheidungen Anschlussflug
 
-- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts), NJW 2013, 1291 — Anschlussflug; massgeblich Ankunftsverspaetung am Endziel nicht am Anschlussflughafen; einheitliche Buchung entscheidend.
-- EuGH, Urt. v. 31.05.2018 — C-559/16 (Wegener), NJW 2018, 2261 — Gesamtdistanz vom ersten Abflughafen bis Endziel; nicht Umwegdistanz; Grosskeiis-Rechnung.
-- EuGH, Urt. v. 12.09.2013 — C-509/11 (OERVar-OAE), NJW 2013, 3086 — Codeshare-Fluege; operating carrier haftet; vermarktendes LFU haftet nicht nach VO 261/2004.
-- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Einheitliche Buchung bei verschiedenen PNR; tatsaechliche Verknuepfung der Fluege muss ausdruecklich erkennbar sein; Schliessung Luecke durch ergaenzende Auslegung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Staudinger/Arnold BGB-Fluggastrechte Art. 7, 3 VO 261/2004 (Ausgleich, Anwendungsbereich)
-- Grigoleit VO 261/2004 Art. 3 Rn. 10-40 (Anwendungsbereich, Buchungsvertraege)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Hinweise
 
 - Bei einheitlicher Buchung lohnt eine sorgfaeltige Prüfung — viele Airlines berechnen falsch.

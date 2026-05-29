@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-vertragsmarkup-key-issues
-description: "SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433 ff. BGB Kaufrecht, SPA Reps and Warranties. Pruefraster Aenderungen nach wirtschaftlicher Relevanz clustern, Rote Linien und Konzessionen trennen, Parteiposition Buy-side/Sell-side dokumentieren. Output Key Issues List mit priorisierten Verhandlungspunkten und Gegenmarkup-Vorschlaegen. Abgrenzung zu SPA/APA-Entwurf fuer Erstellung und zu Disclosure-Schedules."
+description: "SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433 ff. BGB Kaufrecht, SPA Reps and Warranties. Prüfraster Aenderungen nach wirtschaftlicher Relevanz clustern, Rote Linien und Konzessionen trennen, Parteiposition Buy-side/Sell-side dokumentieren. Output Key Issues List mit priorisierten Verhandlungspunkten und Gegenmarkup-Vorschlaegen. Abgrenzung zu SPA/APA-Entwurf für Erstellung und zu Disclosure-Schedules."
 ---
 
 # Markup und Key Issues
@@ -55,14 +55,11 @@ Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Geg
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.10.2020 - I ZR 153/17, NJW 2021, 780 — Haftungscap: Cap begraenzt Ansprueche; aber: Cap gilt nicht fuer arglistige Taeusching; ist separat zu klauseln
-- BGH, Urt. v. 24.11.2010 - VIII ZR 235/09, NJW 2011, 594 — Kaeuferwissen: "Best Knowledge" Klausel schliesst Ansprueche aus bei Kaeuferwissen; "Actual Knowledge" ist enger; Formulierung ist entscheidend
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 5 (SPA-Verhandlung, Markup, Key Issues), 8. Auflage
-- Picot, Unternehmenskauf, Kapitel 4 (Vertragsgestaltung, Markup)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Key Issues List erstellen:** alle nicht geklarten Punkte aus Term Sheet extrahieren; Prioritaet festlegen

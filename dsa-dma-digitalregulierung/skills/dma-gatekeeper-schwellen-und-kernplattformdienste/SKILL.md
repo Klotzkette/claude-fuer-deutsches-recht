@@ -1,6 +1,6 @@
 ---
 name: dma-gatekeeper-schwellen-und-kernplattformdienste
-description: "Gatekeeper-Designation nach Art. 3 DMA pruefen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Pruefraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Pruefschema, Pflichten-Ueberblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten."
+description: "Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Prüfschema, Pflichten-Überblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten."
 ---
 
 # DMA — Gatekeeper-Schwellen und Kernplattformdienste
@@ -78,10 +78,10 @@ Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeep
 
 ## Aktuelle Rechtsprechung
 
-- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Nichtigkeitsklage gegen VLOP-Designation; EuG bestätigt weiten Ermessensspielraum der Kommission; quantitative Schwellen Art. 3 Abs. 2 DMA begründen widerlegliche Vermutung des Gatekeeper-Status.
-- EuGH, Urt. v. 25.03.2021 — C-299/17 (VG Media), NJW 2021, 1508 Rn. 38: Zur Auslegung der Marktmacht digitaler Plattformen; Grundlage für DMA-Schwellenwert-Konzept.
-- EuG, Urt. v. 22.09.2021 — T-612/17 (Google Shopping), NJW 2021, 3295 Rn. 180: Missbrauch marktbeherrschender Stellung durch bevorzugte Platzierung eigener Dienste; Art. 6 Abs. 5 DMA kodifiziert diesen Standard.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Facebook-Datenschutz), NJW 2020, 2759 Rn. 48: Marktbeherrschung und Datenschutzmissbrauch; DMA-Pflichten ergänzen nationales Missbrauchsrecht nach § 19a GWB.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -90,11 +90,9 @@ Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeep
 - Art. 5–7 DMA — Per-se-Verbote und spezifizierbare Pflichten
 - Art. 26 ff. DMA — Aufsicht durch Kommission
 
-## Kommentarliteratur
+## Quellenregel
 
-- Körber/Kühling/Podszun, Digitalrecht, 2022, DMA Art. 3 Rn. 1–80: Zu den Gatekeeper-Kriterien und dem Designationsverfahren.
-- Grabitz/Hilf/Nettesheim, 80. EL 2024, DMA Einführung Rn. 1–50: Überblick Regelungszweck und systematische Einordnung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Überschreitet der Anbieter die quantitativen Schwellen? (Umsatz EWR 7.5 Mrd. EUR / Marktwert 75 Mrd. / 45 Mio. EU-Nutzer / 10.000 Gewerbekunden)

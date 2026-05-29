@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-klauselkatalog-bilingual
-description: "Klauselkatalog fuer GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln fuer internationale Investoren. Normen: GmbHG, BGB. Pruefraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollstaendiger Gesellschaftsvertrag."
+description: "Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaftsvertrag."
 ---
 
 # Klauselkatalog bilingual DE/EN
@@ -28,19 +28,15 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 
 | Klausel | Norm | BGH / BSG |
 |---|---|---|
-| Sprachvorrang | § 184 GVG; § 5 BeurkG | BGH II ZR 75/14 |
-| Stimmbindung | § 47 GmbHG | BGH II ZR 105/66; BGH II ZR 243/81 |
-| Golden Share / StaRUG-Veto | §§ 15a InsO; 32 StaRUG; 37 GmbHG | Bitter, ZIP 2021, 321; Thole, ZIP 2020, 1985 |
-| Sperrminorität / SV | § 7 Abs. 1 SGB IV; § 7a SGB IV | BSG B 12 R 25/18 R; BSG B 12 KR 13/14 R |
-| Drag-Along | § 53 Abs. 2 GmbHG analog | BGH II ZR 173/04 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Golden Share / StaRUG-Veto | §§ 15a InsO; 32 StaRUG; 37 GmbHG | Quellenregel: Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Tag-Along | §§ 15, 47 GmbHG | allg. Vertragsfreiheit |
 | Liquidation Preference | §§ 72, 53 GmbHG | allg. Vertragsfreiheit |
 | Anti-Dilution | §§ 55, 53 GmbHG | allg. Vertragsfreiheit |
-| Vesting / Bad-Leaver | §§ 34, 15 GmbHG | BGH II ZR 173/04 (Hinauskündigung) |
-| Koppelungsklausel | § 38 GmbHG; § 611 BGB | BGH II ZR 220/88 |
-| Wettbewerbsverbot | §§ 74, 74a HGB | BGH II ZR 77/00; § 138 BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schlichtungspflicht | §§ 1025 ff. ZPO analog | allg. Vertragsfreiheit |
-| Schiedsklausel DIS | §§ 1029 ff. ZPO; DIS-SchO 2021 | BGH III ZB 99/09 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Prüfschema: Klausel-Auswahl
 
@@ -62,7 +58,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Sprache
 >
-> Diese Urkunde ist in deutscher und englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln geht der deutsche Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG erforderlich ist, ist allein die deutsche Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als „Convenience Translation".
+> Diese Urkunde ist in deutscher und englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln geht der deutsche Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG erforderlich ist, ist allein die deutsche Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als "Convenience Translation".
 
 **EN:**
 > § X Language
@@ -97,9 +93,9 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (4) This voting undertaking shall apply to any present and future Shareholder (Joinder Obligation).
 
-**Belege:** BGH, Urt. v. 29.05.1967 – II ZR 105/66, BGHZ 48, 163 (Stimmbindung wirksam, aber nur schuldrechtlich); BGH, Urt. v. 20.01.1983 – II ZR 243/81, BGHZ 86, 348; OLG München, Urt. v. 09.08.2018 – 23 U 1669/17 (Durchsetzbarkeit einstweilige Verfügung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**ACHTUNG:** SHA-Stimmbindung ist sozialversicherungsrechtlich irrelevant (BSG B 12 KR 13/14 R). Für SV-Freiheit des Gesellschafter-GF muss die Sperrminorität in der Satzung stehen — nicht nur im SHA.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -108,7 +104,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Golden Share — Sondervetorecht in Restrukturierungs- und Insolvenz-Konstellationen
 >
-> (1) Die Inhaberin des Geschäftsanteils der Klasse „Golden Share", [Name], geboren am [Datum], wohnhaft [Anschrift], hat zusätzlich zu den allgemeinen Stimmrechten ein Sondervetorecht. Folgende Maßnahmen der Geschäftsführung sowie folgende Beschlüsse der Gesellschafterversammlung bedürfen ihrer ausdrücklichen Zustimmung:
+> (1) Die Inhaberin des Geschäftsanteils der Klasse "Golden Share", [Name], geboren am [Datum], wohnhaft [Anschrift], hat zusätzlich zu den allgemeinen Stimmrechten ein Sondervetorecht. Folgende Maßnahmen der Geschäftsführung sowie folgende Beschlüsse der Gesellschafterversammlung bedürfen ihrer ausdrücklichen Zustimmung:
 >
 > a) Stellung eines Antrags auf Bestätigung eines Restrukturierungsplans nach § 60 StaRUG,
 > b) Inanspruchnahme einer Stabilisierungsanordnung nach §§ 49 ff. StaRUG,
@@ -126,7 +122,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **EN:**
 > § X Golden Share — Special Veto Right in Restructuring and Insolvency Scenarios
 >
-> (1) The holder of the Share of class „Golden Share", [Name], born on [date], residing at [address], shall have a Special Veto Right in addition to general voting rights. The following management measures and the following shareholders' resolutions shall require her express consent: [a-f as above in English].
+> (1) The holder of the Share of class "Golden Share", [Name], born on [date], residing at [address], shall have a Special Veto Right in addition to general voting rights. The following management measures and the following shareholders' resolutions shall require her express consent: [a-f as above in English].
 >
 > (2) Clarification regarding the Insolvency Filing Obligation: To the extent that the Management is legally obligated to file for insolvency pursuant to § 15a InsO, the Special Veto Right under paragraph (1) lit. a) shall not apply. The filing obligation of the Managing Directors shall remain unaffected and cannot be overridden by any corporate veto right.
 >
@@ -134,7 +130,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (4) The Golden Share may only be transferred to direct descendants of first order or to the family foundation [name]; in case of any other transfer, the share shall automatically convert into a common share without veto right.
 
-**Belege:** § 15a InsO (Insolvenzantragspflicht — nicht abdingbar, Strafbarkeit § 15a IV InsO); § 32 StaRUG; § 37 GmbHG. Bitter, ZIP 2021, 321; Thole, ZIP 2020, 1985.
+**Belege:** § 15a InsO (Insolvenzantragspflicht — nicht abdingbar, Strafbarkeit § 15a IV InsO); § 32 StaRUG; § 37 GmbHG. Quellenregel: Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ---
 
@@ -160,7 +156,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (3) This blocking minority is comprehensive and anchored in the Articles of Association. It cannot be circumvented by separate agreement between the other shareholders.
 
-**Belege:** BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R (echte satzungsmäßige Sperrminorität → SV-frei); BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R (schuldrechtliche SHA-Stimmbindungen SV-rechtlich irrelevant); § 7 SGB IV; § 7a SGB IV; § 25 SGB IV.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praxis-Hinweis:** Stets zusätzlich Statusfeststellungsverfahren nach § 7a SGB IV bei der Clearingstelle der DRV Bund beantragen. Nicht nur auf die Satzungsklausel verlassen.
 
@@ -171,7 +167,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Mitziehverpflichtung (Drag-Along)
 >
-> (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Geschäftsanteile halten („Drag-Along-Initiatoren"), einem Verkauf sämtlicher Geschäftsanteile an einen Dritten zu, können sie die übrigen Gesellschafter verpflichten, ihre Anteile zu denselben Bedingungen mitzuveräußern.
+> (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Geschäftsanteile halten ("Drag-Along-Initiatoren"), einem Verkauf sämtlicher Geschäftsanteile an einen Dritten zu, können sie die übrigen Gesellschafter verpflichten, ihre Anteile zu denselben Bedingungen mitzuveräußern.
 >
 > (2) Die Drag-Along-Verpflichtung gilt nur, wenn: a) der Verkaufspreis pro Anteil für alle Anteilsklassen gleich ist und unter Berücksichtigung von Liquidation Preferences fair berechnet wird; b) der Drag-Erwerber ein unabhängiger Dritter (kein verbundenes Unternehmen eines Initiators) ist; c) keine der Gegenleistungen disproportional zugunsten einzelner Initiatoren ist.
 >
@@ -190,7 +186,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (4) The drag-along obligation is enforceable by way of preliminary injunction pursuant to §§ 935, 940 ZPO and by action for the required declarations (§ 894 ZPO).
 
-**Belege:** BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungs-Grenze; sachliche Rechtfertigung erforderlich).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -221,7 +217,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Liquidationsvorrang (Liquidation Preference)
 >
-> (1) Bei Auflösung der Gesellschaft oder bei einem Liquidations-Ereignis (Trade Sale, Asset Sale, IPO, Verschmelzung, vollständige Abtretung sämtlicher Geschäftsanteile) erhalten die Inhaber der Class-B-Geschäftsanteile ihre tatsächlich an die Gesellschaft geleistete Einlage einschließlich Aufgeld (zusammen „Investmentbetrag") als bevorrechtigte Auszahlung vor den übrigen Gesellschaftern (1x non-participating Liquidation Preference).
+> (1) Bei Auflösung der Gesellschaft oder bei einem Liquidations-Ereignis (Trade Sale, Asset Sale, IPO, Verschmelzung, vollständige Abtretung sämtlicher Geschäftsanteile) erhalten die Inhaber der Class-B-Geschäftsanteile ihre tatsächlich an die Gesellschaft geleistete Einlage einschließlich Aufgeld (zusammen "Investmentbetrag") als bevorrechtigte Auszahlung vor den übrigen Gesellschaftern (1x non-participating Liquidation Preference).
 >
 > (2) Nach Bedienung der Liquidation Preference wird der verbleibende Betrag anteilig auf alle Geschäftsanteile (Class Common, Class B) nach deren Anteilshöhe verteilt.
 >
@@ -230,7 +226,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **EN:**
 > § X Liquidation Preference
 >
-> (1) In case of dissolution or a Liquidation Event (Trade Sale, Asset Sale, IPO, merger, complete assignment of all shares), the holders of Class B shares shall receive their actual contribution including share premium (the „Investment Amount") as a preferred payment before the other Shareholders (1x non-participating Liquidation Preference).
+> (1) In case of dissolution or a Liquidation Event (Trade Sale, Asset Sale, IPO, merger, complete assignment of all shares), the holders of Class B shares shall receive their actual contribution including share premium (the "Investment Amount") as a preferred payment before the other Shareholders (1x non-participating Liquidation Preference).
 >
 > (2) After payment of the Liquidation Preference, the remaining amount shall be distributed pro rata among all shares.
 >
@@ -243,7 +239,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Verwässerungsschutz (Anti-Dilution)
 >
-> (1) Bei einer künftigen Kapitalerhöhung, bei welcher der Ausgabepreis je neuem Geschäftsanteil unter dem Ausgabepreis je Class-B-Anteil (von [X] EUR) liegt („Down Round"), werden den Inhabern der Class-B-Anteile zusätzliche Geschäftsanteile nach der Weighted-Average-Broad-Based-Methode kostenfrei zugeteilt. Die Berechnungsformel lautet:
+> (1) Bei einer künftigen Kapitalerhöhung, bei welcher der Ausgabepreis je neuem Geschäftsanteil unter dem Ausgabepreis je Class-B-Anteil (von [X] EUR) liegt ("Down Round"), werden den Inhabern der Class-B-Anteile zusätzliche Geschäftsanteile nach der Weighted-Average-Broad-Based-Methode kostenfrei zugeteilt. Die Berechnungsformel lautet:
 >
 > CP2 = CP1 × (A + B) / (A + C)
 >
@@ -292,7 +288,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (4) Repurchase by redemption pursuant to § [X] of the Articles or share transfer with notarial recording pursuant to § 15(4) GmbHG.
 
-**Belege:** BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungs-Grenze; sachlich gerechtfertigte Bad-Leaver-Klauseln zulässig).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -312,7 +308,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (2) Removal as Managing Director (by shareholders' resolution pursuant to § 38 GmbHG) shall not automatically result in termination of the service agreement. Termination of the service agreement shall be governed by its provisions.
 
-**Belege:** BGH, Urt. v. 29.05.1989 – II ZR 220/88, BGHZ 107, 351.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -321,7 +317,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Nachvertragliches Wettbewerbsverbot
 >
-> (1) Der Geschäftsführer verpflichtet sich, für einen Zeitraum von 12 Monaten nach Beendigung des Anstellungsvertrags weder selbständig noch unselbständig in der Branche „[konkrete Branche]" innerhalb des Gebiets [konkretes Gebiet] tätig zu sein.
+> (1) Der Geschäftsführer verpflichtet sich, für einen Zeitraum von 12 Monaten nach Beendigung des Anstellungsvertrags weder selbständig noch unselbständig in der Branche "[konkrete Branche]" innerhalb des Gebiets [konkretes Gebiet] tätig zu sein.
 >
 > (2) Die Gesellschaft zahlt eine Karenzentschädigung in Höhe von 50 % der zuletzt bezogenen vertragsgemäßen Bezüge. Anderweitiges Erwerbseinkommen ist gemäß § 74c HGB anzurechnen.
 >
@@ -332,7 +328,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **EN:**
 > § X Post-Contractual Non-Compete
 >
-> (1) The Managing Director undertakes not to be active, either self-employed or as an employee, in the industry „[specific industry]" within the territory [specific territory] for 12 months after termination of the service agreement.
+> (1) The Managing Director undertakes not to be active, either self-employed or as an employee, in the industry "[specific industry]" within the territory [specific territory] for 12 months after termination of the service agreement.
 >
 > (2) For the duration of the non-compete, the Company shall pay compensation of 50 % of the most recently received contractual remuneration. Other employment income shall be credited pursuant to § 74c HGB.
 >
@@ -340,7 +336,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 >
 > (4) In case of breach, liquidated damages of 3 gross monthly salaries per breach plus damages.
 
-**Belege:** BGH, Urt. v. 04.03.2002 – II ZR 77/00, NJW 2002, 1875 (Karenzentschädigung 50 % analog § 74 Abs. 2 HGB empfohlen); §§ 74, 74a, 74c HGB; § 138 BGB (max. 2 Jahre; sonst Sittenwidrigkeit).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -410,7 +406,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 | 11 Schlichtungspflicht Beirat | + | + | – | + |
 | 12 Schiedsklausel DIS | + | + | (separat) | + |
 
-**WICHTIG zu Klausel 3:** Für SV-Freiheit muss die Sperrminorität zwingend in der Satzung stehen (Spalte Satzung = `+` fett). SHA-Stimmbindung (Klausel 1) erzeugt keine SV-Freiheit (BSG B 12 KR 13/14 R).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Typische Kombinationen
 
@@ -464,13 +460,10 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Scholz, GmbHG, 13. Aufl. 2024, § 47 Rn. 240 ff. (Stimmbindung); § 34 Rn. 60 ff. (Einziehung / Bad-Leaver).
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 15 Rn. 90 ff. (Abtretungsform).
-- BGH, Urt. v. 29.05.1967 – II ZR 105/66, BGHZ 48, 163 (Stimmbindung).
-- BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungsgrenze).
-- BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität SV-Freiheit).
-- BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Klausel-Pruefprotokoll
 

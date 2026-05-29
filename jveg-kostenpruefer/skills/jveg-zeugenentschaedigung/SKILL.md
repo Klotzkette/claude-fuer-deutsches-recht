@@ -1,6 +1,6 @@
 ---
 name: jveg-zeugenentschaedigung
-description: "Zeugenentschaedigung nach JVEG berechnen: Fahrtkosten, Zeitversaeumnis, Verdienstausfall. Normen: §§ 19 ff. JVEG. Pruefraster: tatsaechliche Kosten, Zeitaufwand, Pauschalen. Output: Zeugenentschaedigungs-Berechnung. Abgrenzung: nicht Sachverstaendigenverguetung (hoehere Saetze)."
+description: "Zeugenentschaedigung nach JVEG berechnen: Fahrtkosten, Zeitversaeumnis, Verdienstausfall. Normen: §§ 19 ff. JVEG. Prüfraster: tatsaechliche Kosten, Zeitaufwand, Pauschalen. Output: Zeugenentschaedigungs-Berechnung. Abgrenzung: nicht Sachverständigenverguetung (hoehere Saetze)."
 ---
 
 # JVEG-Zeugenentschaedigung
@@ -24,16 +24,14 @@ Berechne und plausibilisiere Zeugenentschädigungen vollständig nach §§ 19–
 - § 23 JVEG (Dreimonatsfrist)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die Zeugenentschädigung setzt förmliche Ladung voraus; freiwilliges Erscheinen ohne Ladung begründet keinen JVEG-Anspruch.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG gilt auch für Zeugen; die Frist beginnt mit dem Tag des Erscheinens.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Zeugen, die mit eigenem Kfz anreisen, erhalten den niedrigeren Kilometersatz nach § 5 Abs. 2 JVEG; der Sachverständigensatz des § 5 Abs. 1 JVEG ist nicht anwendbar.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. LG München I, Beschl. v. 15.04.2019 — Zeitversäumnis nach § 22 JVEG kann nicht kumulativ zu Verdienstausfall nach § 21 JVEG geltend gemacht werden; eine subsidiäre Alternativberechnung ist anzubieten.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 19–22 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 19–22 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 19 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Zeuge möchte nach dem Gerichtstermin Entschädigungsantrag stellen.
 

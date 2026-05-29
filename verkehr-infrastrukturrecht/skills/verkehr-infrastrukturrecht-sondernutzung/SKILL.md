@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-sondernutzung
-description: "Sondernutzung oeffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis fuer Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Pruefraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Pruefung, Gebuehren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung."
+description: "Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Prüfraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Prüfung, Gebühren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung."
 ---
 
 # Sondernutzung oeffentlicher Strassenflaechen
@@ -24,18 +24,11 @@ description: "Sondernutzung oeffentlicher Strassenflaechen beantragen und anfech
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 22.11.2021 - 4 C 8.20, NVwZ 2022, 392 — Sondernutzungserlaubnis fuer Ladeinfrastruktur; Gemeinde hat Ermessen, muss aber Gleichbehandlung beachten; willkuerliche Ablehnung rechtswidrig.
-- OVG NRW, Urt. v. 09.06.2020 - 11 A 2148/17, NVwZ-RR 2020, 817 — Sondernutzungsgebuehren mussen nach tatsaechlicher Nutzungsdauer und Flaeche berechnet werden; pauschalierte Gebuehren nur bei Gleichbehandlung und Verhältnismaessigkeit.
-- VGH Bayern, Beschl. v. 11.03.2021 - 11 CS 21.231, NZBau 2021, 512 — Widerruf einer Sondernutzungserlaubnis fuer Aussengastronomie wegen veraenderter Verkehrslage ist zulaessig aber nur unter Beachtung des Verhaeltnismaessigkeitsgrundsatzes.
-- OVG Hamburg, Urt. v. 29.01.2019 - 5 Bf 77/17, NJW 2019, 2190 — Werbetafeln auf oeffentlichem Strassengrund sind Sondernutzung; gleichfoermige Ablehnungspraxis ohne Einzelfallpruefung ist willkuerlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kodal, Strassenrecht § 16 (Sondernutzung, vollstaendig)
-- Marschall/Kastner FStrG § 8 Rn. 1-30 (Sondernutzung Bundesstrassen)
-- Stelkens/Bonk/Sachs VwVfG § 49 Rn. 1-20 (Widerruf)
-- Kopp/Ramsauer VwVfG § 40 Rn. 1-30 (Ermessen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Sondernutzungsart und Strassenkategorie bestimmen** → zustaendige Behoerde.

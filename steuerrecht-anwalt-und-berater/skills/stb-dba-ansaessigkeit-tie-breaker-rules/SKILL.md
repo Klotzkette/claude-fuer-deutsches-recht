@@ -1,6 +1,6 @@
 ---
 name: stb-dba-ansaessigkeit-tie-breaker-rules
-description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschaeftsleitung in unterschiedlichen Staaten. Pruefung staendige Wohnstaette Mittelpunkt der Lebensinteressen gewoehnlicher Aufenthalt Staatsangehoerigkeit Verstaendigung. MLI-Anpassung Place of Effective Management. Output Ansaessigkeitsmemo Beweismittelliste."
+description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschäftsleitung in unterschiedlichen Staaten. Prüfung ständige Wohnstaette Mittelpunkt der Lebensinteressen gewoehnlicher Aufenthalt Staatsangehoerigkeit Verständigung. MLI-Anpassung Place of Effective Management. Output Ansaessigkeitsmemo Beweismittelliste."
 ---
 
 # Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)
@@ -37,11 +37,8 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-An
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 50/14 (Mittelpunkt der Lebensinteressen, Ehegatten und Kinder als Indiz) — **Aktenzeichen und Fundstelle in juris verifizieren**.
-- BFH I R 23/10 (gewoehnlicher Aufenthalt; Mehrfachwohnsitz) — **verifizieren**.
-- BFH I R 81/09 (Geschaeftsleitung; tatsaechliche Entscheidungsmacht ueber laufende Geschaefte) — **verifizieren**.
-- BFH I R 28/15 (Ansaessigkeit doppelansaessiger Personengesellschaft) — **verifizieren**.
-- BMF-Schreiben zur Wegzugsbesteuerung (ATAD-Umsetzung 2022) — **Datum konkret in BMF-Datenbank pruefen**.
+- Aktuelle BFH-Rechtsprechung zu Mittelpunkt der Lebensinteressen, gewoehnlichem Aufenthalt und Gesellschafts-Ansaessigkeit in amtliche/freie Quellen oder lizenzierte Datenbanken abrufen (Suche: BFH I. Senat, Art. 4 OECD-MA).
+- BMF-Schreiben zur Wegzugsbesteuerung nach ATAD-Umsetzung 2022 — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -59,7 +56,7 @@ Pruefungskaskade in dieser Reihenfolge:
 
 - **Alte Fassung (OECD-MA 2014)**: Ort der tatsaechlichen Geschaeftsleitung (Place of Effective Management — POEM).
 - **Neue Fassung (OECD-MA 2017 / MLI Art. 4)**: Verstaendigungsverfahren der Behoerden unter Beruecksichtigung der Geschaeftsleitung, Sitz, sonstiger Faktoren. Ohne Verstaendigung keine DBA-Verguenstigungen.
-- Praxis: in vielen aelteren deutschen DBA noch POEM-Regelung; **konkrete Klausel im DBA-Text und MLI-Notification verifizieren**.
+- Praxis: in vielen aelteren deutschen DBA noch POEM-Regelung; konkrete Klausel im DBA-Text und MLI-Notification konsultieren.
 
 ### Staendige Wohnstaette
 
@@ -125,7 +122,7 @@ Pruefungskaskade in dieser Reihenfolge:
 
 - Bei strittiger Ansaessigkeit: Verstaendigungsverfahren Art. 25 MA in Erwaegung ziehen, da Tie-Breaker im Einzelfall ambivalent ist.
 - Mittelpunkt der Lebensinteressen ist Beweisfrage — sauber dokumentieren mit Photos, Verbrauchsbelegen, Reisekalender.
-- Bei Wegzug: § 6 AStG-Stundungsantrag pruefen (seit ATAD-Umsetzung 2022 nur noch EU/EWR-rechtskonform); **konkrete Stundungsbedingungen verifizieren**.
+- Bei Wegzug: § 6 AStG-Stundungsantrag pruefen (seit ATAD-Umsetzung 2022 nur noch EU/EWR-rechtskonform); konkrete Stundungsbedingungen nach § 6 Abs. 4 und 5 AStG i.d.F. ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) pruefen.
 - Bei Gesellschaften: Protokolle ueber Vorstandssitzungen sind das zentrale Beweismittel.
 - MLI-Anpassung Art. 4 Abs. 3 fuehrt zu "kein DBA-Schutz ohne Verstaendigung" — kann Mandanten kalt erwischen.
 
@@ -137,4 +134,6 @@ Pruefungskaskade in dieser Reihenfolge:
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 4 OECD-MA 2017. §§ 8, 9, 10, 11 AO. §§ 1, 1a, 6 EStG. § 1 KStG. § 6 AStG. MLI Art. 4. **Aktenzeichen der zitierten BFH-Entscheidungen und BMF-Schreiben-Daten zur Wegzugsbesteuerung vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. Art. 4 OECD-MA 2017. §§ 8, 9, 10, 11 AO. §§ 1, 1a, 6 EStG. § 1 KStG. § 6 AStG nach ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). MLI Art. 4. Aktuelle BFH-Rechtsprechung zu Art. 4 OECD-MA in juris abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 1 belegt (Fundstelle/Datum bestaetigt), 6 ersetzt (Az nicht belegbar, Satz neu formuliert) -->

@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-mit-richter-input
-description: "Strukturierte Beweiswuerdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgruende-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswuerdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverstaendige). Pruefraster: Glaubwuerdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverstaendigen-Bewertung. Output Beweiswuerdigung-Abschnitt fuer Entscheidungsgruende. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgruende gesamt siehe entscheidungsgruende-zivil-schreiben."
+description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben."
 ---
 
 # Beweiswürdigung mit haendischem Richter-Input
@@ -17,9 +17,7 @@ Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laes
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 13.09.2023 - IV ZR 228/22, NJW 2023, 3515 — Beweiswürdigung ist Sache des Tatrichters; Revisionsgericht prüft nur ob Würdigung lückenhaft, widersprüchlich oder gegen Denk- und Erfahrungssätze verstößt.
-- BGH, Urt. v. 12.04.2011 - VI ZR 300/09, NJW 2011, 1811 — Sachverständigengutachten ist auf Plausibilität zu überprüfen; Gericht muss Bedenken gegen das Gutachten dem Sachverständigen vorlegen (§ 411 ZPO).
-- BGH, Urt. v. 29.01.2019 - VI ZR 113/17, NJW 2019, 2092 — Beweismaß Kfz-Unfall: § 286 ZPO gilt für haftungsbegründende Kausalität (Primärverletzung); erleichtertes Beweismaß § 287 ZPO nur für haftungsausfüllende Kausalität.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 96/11 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). BGH VI ZR 113/17 korrigiert – Thema war falsch angegeben (Parteivernehmung § 448 ZPO statt Beweismaß § 287 ZPO) und NJW-Fundstelle korrigiert (2019, 2092 statt 2019, 1668). -->
 
@@ -31,12 +29,9 @@ Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laes
 - § 402, 411 ZPO — Sachverständiger, Ergänzungsgutachten
 - § 448 ZPO — Parteivernehmung von Amts wegen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger, ZPO, 35. Aufl. 2024, § 286 Rn. 1-30 (Beweiswürdigung Grundsätze)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 286 Rn. 1-20
-- MüKo-ZPO/Hauger, 6. Aufl. 2022, § 411 Rn. 1-20 (Sachverständigengutachten)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Beweismittel auflisten:** chronologische Liste aller erhobenen Beweismittel aus dem Protokoll.

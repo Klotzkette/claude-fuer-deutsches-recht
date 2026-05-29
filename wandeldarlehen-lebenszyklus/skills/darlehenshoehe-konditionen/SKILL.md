@@ -1,6 +1,6 @@
 ---
 name: darlehenshoehe-konditionen
-description: "Darlehenshoehe Zinsen Laufzeit und Konditionen fuer Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Pruefraster: Darlehenshoehe Zinssatz Disagio Laufzeit Faelligkeit Sicherheiten Rangruecktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
+description: "Darlehenshoehe Zinsen Laufzeit und Konditionen für Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Prüfraster: Darlehenshoehe Zinssatz Disagio Laufzeit Fälligkeit Sicherheiten Rangrücktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Darlehensbetrag und Konditionen
@@ -30,13 +30,12 @@ Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens u
 - §§ 3, 4 StaRUG (Einschränkung Kündigungsrechte im Restrukturierungsrahmen)
 
 ### Rechtsprechung
-- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Kongruenzdeckung Darlehensrückzahlung)
-- BGH, Urt. v. 29. Januar 2015 – IX ZR 279/13 (Fälligkeitsklausel und Insolvenz)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
 ### 1. Darlehensbetrag festhalten
-EUR-Betrag in Ziffern und in Worten (z. B. „EUR 250000 (in Worten: zweihundertfünfzigtausend Euro)"). Keine Tausenderpunkte in Zifferndarstellung, um Verwechslungen zu vermeiden.
+EUR-Betrag in Ziffern und in Worten (z. B. "EUR 250000 (in Worten: zweihundertfünfzigtausend Euro)"). Keine Tausenderpunkte in Zifferndarstellung, um Verwechslungen zu vermeiden.
 
 ### 2. Laufzeit und Festes Ende
 Startdatum: Datum vollständiger Unterzeichnung durch alle Parteien. Enddatum: Startdatum plus zwei Jahre ohne Kündigung erforderlich. Beispiel: Unterzeichnung 01.06.2025 → Ende 31.05.2027.
@@ -86,11 +85,11 @@ Stand: 05/2026. Bei Änderung BGB-Darlehensrecht aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 18: Rückzahlung eines Gesellschafterdarlehens innerhalb eines Jahres vor Insolvenzantragstellung ist nach § 135 Abs. 1 InsO anfechtbar; bei Wandeldarlehen gilt dies entsprechend, wenn die Rückzahlung anstelle der Wandlung gewählt wird und der Gesellschafter im Nachrangverhältnis steht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.01.2015 — **IX ZR 279/13**, NJW 2015, 1181 Rn. 14: Fälligkeitsklauseln in Darlehensverträgen, die bei Insolvenzantragstellung sofortige Rückzahlung vorsehen, sind nach § 119 InsO unwirksam; Wandeldarlehen sollten deshalb keine insolvenzabhängige Fälligkeitsbeschleunigung enthalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 29.09.2015 — **II ZR 271/14**, BGHZ 207, 54 Rn. 22: Der Zinssatz eines Gesellschafterdarlehens muss fremdüblich sein; ein übermäßiger Zinssatz kann als verdeckte Gewinnausschüttung gewertet werden oder der Sittenwidrigkeitskontrolle nach § 138 BGB unterliegen; Maßstab ist der Vergleich mit dem Marktzins für vergleichbare Risiken.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

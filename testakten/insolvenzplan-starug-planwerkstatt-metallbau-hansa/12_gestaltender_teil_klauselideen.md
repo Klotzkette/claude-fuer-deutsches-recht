@@ -9,7 +9,7 @@
 
 ## Vorbemerkung
 
-Der gestaltende Teil des Insolvenzplans legt nach § 221 InsO verbindlich fest, wie die Rechtsstellung der Beteiligten geändert wird. Jede Klausel muss hinreichend bestimmt sein, d.h. Betrag, Fälligkeit, Schuldner und Gläubiger müssen eindeutig benannt sein. Vage Formulierungen wie „angemessene Quote" oder „soweit verfügbar" sind unzureichend und können zur Planablehnung durch das Gericht führen (§ 231 InsO). Die nachfolgenden Klauselideen sind Entwürfe, die nach Finalisierung der Planrechnung und Vergleichsrechnung in die endgültige DOCX-Fassung überführt werden.
+Der gestaltende Teil des Insolvenzplans legt nach § 221 InsO verbindlich fest, wie die Rechtsstellung der Beteiligten geändert wird. Jede Klausel muss hinreichend bestimmt sein, d.h. Betrag, Fälligkeit, Schuldner und Gläubiger müssen eindeutig benannt sein. Vage Formulierungen wie "angemessene Quote" oder "soweit verfügbar" sind unzureichend und können zur Planablehnung durch das Gericht führen (§ 231 InsO). Die nachfolgenden Klauselideen sind Entwürfe, die nach Finalisierung der Planrechnung und Vergleichsrechnung in die endgültige DOCX-Fassung überführt werden.
 
 ---
 
@@ -25,11 +25,11 @@ Der gestaltende Teil des Insolvenzplans legt nach § 221 InsO verbindlich fest, 
 
 **§ 2 – Definitionen**
 
-- „Planbestätigung": Der Beschluss des Amtsgerichts Hamburg nach § 248 InsO.
-- „Rechtskraft": Der Zeitpunkt, ab dem die Planbestätigung unanfechtbar ist.
-- „Planquote": Der in diesem Plan für jede Gruppe festgelegte prozentuale Anteil an der angemeldeten und festgestellten Forderung.
-- „Treuhänder": Die vom Gericht eingesetzte Person zur Überwachung und Ausschüttung (§§ 261, 260 InsO).
-- „Investor-Tranche": Das Darlehen der Nordlicht Turnaround Fonds GmbH & Co. KG gemäß Term Sheet vom 26. Mai 2026 in Höhe von 1.400.000 Euro.
+- "Planbestätigung": Der Beschluss des Amtsgerichts Hamburg nach § 248 InsO.
+- "Rechtskraft": Der Zeitpunkt, ab dem die Planbestätigung unanfechtbar ist.
+- "Planquote": Der in diesem Plan für jede Gruppe festgelegte prozentuale Anteil an der angemeldeten und festgestellten Forderung.
+- "Treuhänder": Die vom Gericht eingesetzte Person zur Überwachung und Ausschüttung (§§ 261, 260 InsO).
+- "Investor-Tranche": Das Darlehen der Nordlicht Turnaround Fonds GmbH & Co. KG gemäß Term Sheet vom 26. Mai 2026 in Höhe von 1.400.000 Euro.
 
 ---
 

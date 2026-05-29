@@ -1,0 +1,407 @@
+[
+  {
+    "court": "BGH",
+    "az": "II ZR 234/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 234/17 nicht auf dejure verifiziert",
+    "claimed_topic": "BGH II ZR 234/17 — Sorgfaltspflichten in der Krise",
+    "source_url": "",
+    "skills": "krisenfrueherkennung-starug/skills/pflichtenkollision-und-shift-of-fiduciary-duties/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 289/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 289/17 nicht mit Datum 09.04.2019 und NJW 2019, 2218 auf dejure verifiziert; II ZR-Senat behandelt GmbH-/AktG-Recht, nicht typisch Anwaltshaftung",
+    "claimed_topic": "BGH II ZR 289/17, NJW 2019, 2218 — Dokumentationspflicht: Anwalt muss Akte speichern",
+    "source_url": "",
+    "skills": "corporate-kanzlei/skills/corporate-kanzlei-matter-file/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZB 41/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH IX ZB 41/09 nicht direkt auf dejure verifiziert",
+    "claimed_topic": "BGH IX ZB 41/09, NZI 2010, 339 Rn. 9 — 12.01.2010",
+    "source_url": "",
+    "skills": "insolvenzrecht/skills/glaeubigerantrag-pruefung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZB 63/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; StaRUG § 9 Eingriffe plausibel",
+    "claimed_topic": "BGH IX ZB 63/22, NZI 2024, 117, 16.11.2023 — Gestaltender Teil § 9 StaRUG: Rechtseingriff",
+    "source_url": "",
+    "skills": "krisenfrueherkennung-starug/skills/restrukturierungsplan-architektur-paragraph-7ff-starug/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 1/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Interessenkonflikt/Sozietätswechsel plausibel",
+    "claimed_topic": "BGH IX ZR 1/21, NJW 2022, 137 — Interessenkonflikt: Sozietätswechsel eines Anwalts",
+    "source_url": "",
+    "skills": "mittelstand-corporate-ma/skills/mittelstand-corporate-ma-deal-intake/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 225/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Informed Consent bei Anwalt/Mandat plausibel",
+    "claimed_topic": "BGH IX ZR 225/17, NJW 2021, 2425 — Informed Consent des Mandanten beim Konflikt",
+    "source_url": "",
+    "skills": "corporate-kanzlei/skills/corporate-kanzlei-deal-team-staffing/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 290/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH IX ZR 290/14 nicht auf dejure gefunden",
+    "claimed_topic": "BGH IX ZR 290/14, NJW 2017, 3373 Rn. 17 ff. — 12.02.2015, Überschuldung",
+    "source_url": "",
+    "skills": "insolvenzrecht/skills/ueberschuldung-pruefung-19-inso/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 54/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Anfechtungsrisiko bei Distressed-M&A plausibel",
+    "claimed_topic": "BGH IX ZR 54/18, ZIP 2020, 1086 Rn. 22 — Anfechtungsrisiko bei Distressed-M&A; 14.05.2020",
+    "source_url": "",
+    "skills": "gesellschaftsgruender/skills/gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IX ZR 69/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Insolvenzplan-Bestätigungsvoraussetzungen plausibel",
+    "claimed_topic": "BGH IX ZR 69/19, NZI 2021, 62 — Insolvenzplan-Bestätigungsvoraussetzungen; 05.11.2020",
+    "source_url": "",
+    "skills": "mittelstand-corporate-ma/skills/mittelstand-corporate-ma-restructuring-starug-insolvenzplan/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "V ZR 25/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Earn-Out-Vereinbarung plausibel",
+    "claimed_topic": "BGH V ZR 25/12, NJW 2013, 1158 — Earn-Out-Vereinbarung; Verkäufer trägt Informationspflichten; 30.11.2012",
+    "source_url": "",
+    "skills": "mittelstand-corporate-ma/skills/mittelstand-corporate-ma-spa-apa-entwurf/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "V ZR 79/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; WEG-Reform-Anwendung plausibel",
+    "claimed_topic": "BGH V ZR 79/22 — WEG-Reform-Anwendung; aktuelle Klagerichtung; 27.10.2023",
+    "source_url": "",
+    "skills": "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "4 C 12/01",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Futterbasis-Grenze für Tierhaltungsanlagen plausibel (BVerwG 4. Senat Baurecht)",
+    "claimed_topic": "BVerwG 4 C 12/01 — Futterbasis-Grenze: >50% Futterbedarf aus eigenen Flächen",
+    "source_url": "",
+    "skills": "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md"
+  },
+  {
+    "court": "OLG Düsseldorf",
+    "az": "6 U 68/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Steuerberater-Haftung für Insolvenzverschleppung plausibel",
+    "claimed_topic": "OLG Düsseldorf 6 U 68/19, 10.12.2020 — Steuerberater haftet, wenn er Insolvenzreife nicht aufdeckt",
+    "source_url": "",
+    "skills": "mittelstand-corporate-ma/skills/mittelstand-ma-liquiditaetsvorschau/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 U 134/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; lückenhafte Disclosure Schedules im M&A plausibel",
+    "claimed_topic": "OLG Frankfurt 5 U 134/20, ZIP 2022, 310, 07.12.2021 — Lückenhafte Disclosure Schedules",
+    "source_url": "",
+    "skills": "corporate-kanzlei/skills/corporate-kanzlei-rechtsprechungsrecherche/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "6 U 70/10",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Dokumentation/NJW-RR 2011, 105 plausibel",
+    "claimed_topic": "OLG Frankfurt 6 U 70/10, NJW-RR 2011, 105, 19.08.2010 — Nachvollziehbare Dokumentation",
+    "source_url": "",
+    "skills": "email-umformulierer-berufsrecht/skills/vorher-nachher-tabelle/SKILL.md"
+  },
+  {
+    "court": "OLG Hamburg",
+    "az": "5 U 10/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Globalisierungsklausel in Unterlassungserklärung plausibel",
+    "claimed_topic": "OLG Hamburg 5 U 10/18, 2018 — Globalisierungsklausel in Unterlassungserklärung zu weit gefasst",
+    "source_url": "",
+    "skills": "fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-mod-erklaerung/SKILL.md"
+  },
+  {
+    "court": "OLG Karlsruhe",
+    "az": "9 U 128/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Cyber-Versicherung/Ransomware plausibel",
+    "claimed_topic": "OLG Karlsruhe 9 U 128/22, 16.05.2023 — Cyber-Versicherung; Ransomware als Versicherungsfall",
+    "source_url": "",
+    "skills": "fachanwalt-versicherungsrecht/skills/klage-versicherer-strategie/SKILL.md"
+  },
+  {
+    "court": "OLG Köln",
+    "az": "6 U 156/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; TDM-Opt-out OLG Köln 2024 plausibel",
+    "claimed_topic": "OLG Köln 6 U 156/23, 14.06.2024 — TDM Reservation Notice: maschinenlesbares Opt-out",
+    "source_url": "",
+    "skills": "fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out/SKILL.md"
+  },
+  {
+    "court": "OLG Stuttgart",
+    "az": "8 U 119/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Behinderungsanzeige VOB/B plausibel",
+    "claimed_topic": "OLG Stuttgart 8 U 119/15 — Behinderungsanzeige bei Weigerung Anpassung",
+    "source_url": "",
+    "skills": "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md"
+  },
+  {
+    "court": "OVG Lüneburg",
+    "az": "4 ME 27/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Eilrechtsschutz Wolfsentnahme plausibel",
+    "claimed_topic": "OVG Lüneburg 4 ME 27/22, 25.05.2022 — Eilrechtsschutz Wolfsentnahme: Substantiierung Tierhalter",
+    "source_url": "",
+    "skills": "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg/SKILL.md"
+  },
+  {
+    "court": "OVG NRW",
+    "az": "13 B 1459/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Gaststättenerlaubnis/Sofortvollzug plausibel",
+    "claimed_topic": "OVG NRW 13 B 1459/17, 23.11.2017 — Gaststättenerlaubnis Sofortvollzug; Existenzgefährdung",
+    "source_url": "",
+    "skills": "fachanwalt-verwaltungsrecht/skills/eilantrag-80-abs-5-vwgo/SKILL.md"
+  },
+  {
+    "court": "OVG NRW",
+    "az": "13 B 789/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; § 123 VwGO Prüfungsrecht plausibel",
+    "claimed_topic": "OVG NRW 13 B 789/20, 14.09.2020 — § 123 VwGO Prüfungsrecht; Glaubhaftmachung",
+    "source_url": "",
+    "skills": "fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz/SKILL.md"
+  },
+  {
+    "court": "OVG NRW",
+    "az": "8 A 2543/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Rechtsbehelfsbelehrung/Jahresfrist plausibel",
+    "claimed_topic": "OVG NRW 8 A 2543/12, 06.06.2013 — Rechtsbehelfsbelehrung fehlerhaft → 1-Jahres-Frist",
+    "source_url": "",
+    "skills": "fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-widerspruchsschrift/SKILL.md"
+  },
+  {
+    "court": "AGH NRW",
+    "az": "1 AGH 14/18",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Berufsrechtliche Kontrolle von Korrespondenz setzt Nachfrage voraus (NJW-RR 2019, 55)",
+    "real_topic": "Not independently verified via dejure.org",
+    "source_url": "",
+    "skills": "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-anwaltliches-zeugnisverweigerungsrecht/SKILL.md"
+  },
+  {
+    "court": "EU",
+    "az": "4 RL 2011/95",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Art. 4 Abs. 4 RL 2011/95/EU Beweiserleichterung für Vorverfolgte",
+    "real_topic": "EU Directive 2011/95/EU Art. 4 — this is a legislative provision, not a court case",
+    "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32011L0095",
+    "skills": ""
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 254/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Aufhebungsvertrag Sperrzeit Prüfraster §159 SGB III",
+    "real_topic": "Context is skill description not case citation; case not independently verified",
+    "source_url": "",
+    "skills": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-aufhebungsvertrag/SKILL.md"
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 532/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Sozialauswahl: Vergleichsgruppe und Auswahlentscheidung im Anhörungsschreiben (13.02.2020)",
+    "real_topic": "Not independently verified via dejure.org search",
+    "source_url": "",
+    "skills": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsbedingte-kuendigung/SKILL.md"
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 547/05",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Allgemeines Berufswissen kein Geschäftsgeheimnis; Datenträger-Mitnahme (23.03.2006)",
+    "real_topic": "Not independently verified via dejure.org",
+    "source_url": "",
+    "skills": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-wettbewerbsverbot/SKILL.md"
+  },
+  {
+    "court": "BAG",
+    "az": "5 AZR 501/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Freistellung bei berechtigtem konkreten Interesse zulässig (19.03.2014)",
+    "real_topic": "Not independently verified via dejure.org",
+    "source_url": "",
+    "skills": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-freistellung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZB 103/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "NY-Übereinkommen ordre public Versagungsgrund (25.01.2021, NJW 2021, 1378)",
+    "real_topic": "Not found on dejure.org with given date; could not verify",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/skills/schiedsverfahren/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZB 55/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Inländischer Schiedsspruch; Aufhebung wegen verletzten rechtlichen Gehörs §1059 ZPO (30.01.2020)",
+    "real_topic": "Not found on dejure.org with given date",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/skills/schiedsverfahren/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZB 57/22",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Vollstreckbarerklärung ausländischer Schiedsspruch; ordre-public-Kontrolle (09.11.2023)",
+    "real_topic": "Not found on dejure.org with given court and date",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/skills/schiedsverfahren/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZB 70/14",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Drittauskunft §802l ZPO (22.10.2015)",
+    "real_topic": "Not found on dejure.org with given date 22.10.2015",
+    "source_url": "",
+    "skills": "zwangsvollstreckung/skills/zv-drittauskunft/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 120/16",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Selbstwiderlegung Dringlichkeit: 4 Wochen als Faustregel (23.11.2017)",
+    "real_topic": "Not found on dejure.org with given date 23.11.2017",
+    "source_url": "",
+    "skills": "fachanwalt-gewerblicher-rechtsschutz/skills/einstweilige-verfuegung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 153/19",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "CMR Art. 31: Gerichtsstandswahl bindend (12.11.2020)",
+    "real_topic": "Not found on dejure.org with given date 12.11.2020",
+    "source_url": "",
+    "skills": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-cmr/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 159/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "§431 HGB Haftungshöchstbetrag SDR-Kurs am Zahltag (21.05.2015)",
+    "real_topic": "Not found on dejure.org with given date 21.05.2015",
+    "source_url": "",
+    "skills": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-hgb/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 171/23",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "KI-Training §44b UrhG TDM-Ausnahme (anhängig 2025/2026)",
+    "real_topic": "Pending/anhängiges Verfahren; not yet decided",
+    "source_url": "",
+    "skills": "fachanwalt-it-recht/skills/fachanwalt-it-recht-ki-urheberrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 176/14",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "ADSp-Klauseln AGB-Kontrolle §§305 ff. BGB (22.10.2015)",
+    "real_topic": "Not found on dejure.org with given date 22.10.2015",
+    "source_url": "",
+    "skills": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-adsp/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 195/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "CMR-Vergleich: durch Vergleich erlöschen nur ausdrücklich geregelte Ansprüche (29.01.2015)",
+    "real_topic": "Not found on dejure.org with given date 29.01.2015",
+    "source_url": "",
+    "skills": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-cmr/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 252/22",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Greenwashing/ESG-Bericht; CSRD Anforderungen (anhängig)",
+    "real_topic": "Context is skill description; not a real case citation",
+    "source_url": "",
+    "skills": "nachhaltigkeit/skills/esg-berichterstattung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 27/09",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "§435 HGB: Frachtführer muss Kontrollsystem vollständig darlegen (14.07.2010)",
+    "real_topic": "Not found on dejure.org with given date and AZ in I-ZR series",
+    "source_url": "",
+    "skills": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-hgb/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 49/13",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "§427 HGB: Privilegierung setzt aktive Schadensminderungsmaßnahmen voraus (12.06.2014)",
+    "real_topic": "Not found on dejure.org with given date 12.06.2014",
+    "source_url": "",
+    "skills": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-hgb/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "I ZR 73/14",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Hamburger Brauch: Vertragsstrafe nach billigem Ermessen §315 BGB (17.09.2015)",
+    "real_topic": "Not found on dejure.org with given date 17.09.2015",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/skills/vertragsrecht/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 75/14",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "Sprachvorrang §184 GVG §5 BeurkG",
+    "real_topic": "Context is only a table row with norm references; case not independently verified",
+    "source_url": "",
+    "skills": "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-gruendung/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "IV ZR 124/12",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "PKH Prozesskostenhilfe Sozialrecht Erfolgsaussichten",
+    "real_topic": "Context is skill description not case citation",
+    "source_url": "",
+    "skills": "fachanwalt-sozialrecht/skills/prozesskostenhilfe/SKILL.md"
+  }
+]

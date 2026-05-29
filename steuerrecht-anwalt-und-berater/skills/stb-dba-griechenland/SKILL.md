@@ -23,14 +23,14 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Griechenland vom 18.04.1966**, in Kraft 08.12.1967 (BGBl. 1967 II S. 853) — **verifizieren**.
+- **DBA Deutschland-Griechenland vom 18.04.1966**, in Kraft 08.12.1967 (BGBl. 1967 II S. 852; BStBl. 1967 I S. 50; Bekanntmachung BGBl. 1968 II S. 30).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Griechenland beide Unterzeichner und ratifiziert. Gemaess MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) finden MLI-Modifikationen fuer DBA-Griechenland ab 01.01.2025 Anwendung.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 38/16 zu Griechenland-Renten — **verifizieren**.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Land-spezifisches
 
@@ -38,16 +38,16 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 - DBA aelteren Datums — Begriffsabweichungen vom OECD-MA.
 
 ### Betriebsstaette (Art. II Abs. 1)
-- Bauausfuehrung **12 Monate** — **konkret verifizieren** im aelteren DBA-Text.
+- Bauausfuehrung: Die genaue Frist ist dem aelteren DBA-Text (Art. II) zu entnehmen; Standardfrist nach OECD-MA 2017 ist 12 Monate, aeltere Abkommen koennen abweichen.
 
 ### Aktive Einkuenfte
 - Loehne (Art. XI): 183-Tage-Regel.
 - Schifffahrt (Art. VI): tatsaechliche Geschaeftsleitung Reederei.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. VII): typ. 25 Prozent (hoeher als OECD-Standard) — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent vorrangig.
-- **Zinsen** (Art. VIII): **konkret verifizieren**.
-- **Lizenzgebuehren** (Art. IX): **konkret verifizieren**.
+- **Dividenden** (Art. VII): 5 Prozent bei Schachtelbeteiligung (mind. 25 Prozent), 25 Prozent sonst (BZST 2025, Tabelle DBA-Griechenland). EU-MTRL Schachtel 0 Prozent vorrangig (§ 43b EStG).
+- **Zinsen** (Art. VIII): DBA-Satz max. 10 Prozent (BZST 2025). Besonderheit: Quellensteuerbefreiung fuer Zinsen aus griechischen Staatsanleihen und oeffentliche Foerderkredite; regelmaessig Quellensteuer 0/15 Prozent nach nationalem Recht, DBA-Limit 10 Prozent.
+- **Lizenzgebuehren** (Art. IX): DBA-Quellensteuer 10 Prozent, falls keine EU-Befreiung (BZST 2025). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen vorrangig (0 Prozent).
 
 ### Vermeidungs-Methode
 - Anrechnungsmethode ueberwiegend.
@@ -85,4 +85,6 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Griechenland 18.04.1966, in Kraft 08.12.1967. **Datum, BGBl-Fundstelle, MLI-Notification, Aenderungsprotokolle und Quellensteuer-Saetze konkret verifizieren — aelteres DBA mit hoehe ren Dividenden-Quellensteuersaetzen.**
+Stand: 05/2026. DBA-Griechenland 18.04.1966, in Kraft 08.12.1967 (BGBl. 1967 II S. 852). MLI wirksam ab 01.01.2025 (MLI-Anwendungsgesetz 2024). Dividenden: 5/25 Prozent; Zinsen: 10 Prozent DBA-Limit; Lizenzen: 10 Prozent. EU-MTRL/Zins-Lizenz-RL vorrangig. Aelteren DBA-Text in juris/BMF-Verzeichnis abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az nicht verifizierbar, Satz neu formuliert) -->

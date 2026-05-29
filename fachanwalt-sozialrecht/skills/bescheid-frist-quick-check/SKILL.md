@@ -1,15 +1,14 @@
 ---
 name: bescheid-frist-quick-check
-description: "60-Sekunden-Sofortpruefung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill fuer alles weitere. Pruefung Wiedereinsetzung § 67 SGG bei roter Ampel. Pruefung § 44 SGB X Ueberpruefungsantrag wenn Wiedereinsetzung ausgeschlossen."
+description: "60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill für alles weitere. Prüfung Wiedereinsetzung § 67 SGG bei roter Ampel. Prüfung § 44 SGB X Überprüfungsantrag wenn Wiedereinsetzung ausgeschlossen."
 ---
 
 # Frist-Quick-Check
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 27.10.2020 - B 14 AS 31/19 R, SozR 4-4200 § 11 Nr. 91 Rn. 18 — Bekanntgabe-Fiktion § 37 SGB X (seit 01.01.2025: 4 Tage n.F.): Bei Bestreiten der Bekanntgabe trägt die Behörde die Beweislast für den Zeitpunkt der Aufgabe zur Post; Zweifel gehen zulasten der Behörde.
-- BSG, Urt. v. 04.03.2014 - B 14 AS 62/13 R, SozR 4-4200 § 37 Nr. 6 Rn. 14 — Fehlende oder unrichtige Rechtsbehelfsbelehrung (§ 66 Abs. 2 SGG): Widerspruchsfrist beträgt dann ein Jahr; Unrichtigkeit liegt auch bei Fehlen des Hinweises auf Schriftform oder Dienststelle vor.
-- BSG, Beschl. v. 26.07.2018 - B 9 SB 33/18 B, BeckRS 2018, 23455 Rn. 11 — Wiedereinsetzung (§ 67 SGG): Antrag muss binnen zwei Wochen nach Wegfall des Hindernisses gestellt werden; verspasste Zwei-Wochen-Frist führt zur Unzulässigkeit des Antrags; keine Nachsicht bei anwaltlich vertretener Partei.
-- BSG, Urt. v. 09.11.2010 - B 2 U 10/10 R, SozR 4-1300 § 44 Nr. 21 Rn. 16 — Überprüfungsantrag § 44 SGB X nach Bestandskraft: Rückwirkung maximal 4 Jahre ab Antragsjahr; keine Ausschlussfrist; jederzeit stellbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Sofort-Eingangstür zu jedem Bescheid. Vor Bescheidanalyse, vor Widerspruchsentwurf. **Nichts** vorher tun.
 
@@ -52,7 +51,7 @@ Schritt 4 — Falls Rechtsbehelfsbelehrung fehlt oder fehlerhaft: Frist ist ein 
 |---|---|---|
 | GRUEN | mehr als 14 | normale Bearbeitung, Akteneinsicht parallel |
 | GELB | 4 bis 14 | Vorrang Widerspruch heute oder morgen, Begründung nachreichen § 84 Abs. 1 SGG |
-| ROT | weniger als 4 | sofort Widerspruchsschreiben „dem Grunde nach" — Begründung folgt |
+| ROT | weniger als 4 | sofort Widerspruchsschreiben "dem Grunde nach" — Begründung folgt |
 | VERSTRICHEN | minus | Wiedereinsetzung § 67 SGG prüfen, ggf. § 44 SGB X |
 | EILBEDARF | egal | parallel `eilantrag-sozialrecht` |
 

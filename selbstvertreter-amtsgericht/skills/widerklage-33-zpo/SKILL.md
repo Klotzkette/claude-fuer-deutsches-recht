@@ -1,6 +1,6 @@
 ---
 name: widerklage-33-zpo
-description: "Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zustaendigkeit Kostenrisiko Vorteile gegenueber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen."
+description: "Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen."
 ---
 
 # Widerklage: Eigener Angriff gegen den Klaeger
@@ -40,7 +40,7 @@ In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vert
 
 ### Schritt 2 — Zustaendigkeit
 
-- **Sachliche Zustaendigkeit**: Wenn beide Streitwerte addiert oberhalb der AG-Grenze (Stand 2026: 10.000 EUR; vorher 5.000 EUR) liegen, kann das AG **dennoch** zustaendig bleiben — § 33 II ZPO Widerklage faellt unter die Gerichtsbarkeit fuer die Klage.
+- **Sachliche Zuständigkeit**: Die allgemeine AG-Grenze liegt seit 01.01.2026 bei 10.000 EUR. Wenn Klage und Widerklage zusammen darüber liegen, kann das Amtsgericht für die Widerklage dennoch zuständig bleiben, wenn § 33 Abs. 2 ZPO greift; prüfen Sie das aber sauber mit `zulassungsgrenzen-check-amtsgericht`.
 - **Oertliche Zustaendigkeit**: Gericht der Hauptklage gilt auch fuer Widerklage.
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?
@@ -104,7 +104,7 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 - Wenn Widerklage abgewiesen: Sie zahlen deren Kosten.
 - Praeklusion: Spaete Widerklage im Termin kann zurueckgewiesen werden.
-- Verfahren komplexer; bei hohen Streitwerten kann die Gesamtsumme die AG-Grenze (10.000 EUR seit 01.01.2026) ueberschreiten.
+- Verfahren komplexer; bei hohen Streitwerten kann die Gesamtsumme die AG-Grenze ueberschreiten.
 
 ### Schritt 8 — Wann eher Aufrechnung?
 
@@ -140,4 +140,4 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 33 ZPO unveraendert. AG-Wertgrenze § 23 Nr. 1 GVG seit 01.01.2026 bei 10.000 EUR (vorher 5.000 EUR; Justizstandort-Staerkungsgesetz).
+Stand: 05/2026. § 33 ZPO unveraendert.

@@ -1,6 +1,7 @@
 ---
 name: nda-durchsetzer
-description: "Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie „NDA durchsetzen\", „NDA Redline\", „NDA Gegenseite überarbeiten\", „Geheimhaltungsvereinbarung Änderungsmodus\", „Mindeststandard NDA\" oder „NDA-Verhandlung\" auftreten."
+description: 'Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie "NDA durchsetzen", "NDA Redline", "NDA Gegenseite überarbeiten", "Geheimhaltungsvereinbarung Änderungsmodus", "Mindeststandard NDA" oder "NDA-Verhandlung" auftreten.'
+
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse
@@ -45,26 +46,11 @@ Falls Referenzvorlage oder Checkliste fehlen, fragt der Skill zunächst nach —
 
 ### Kanonische Rechtsprechung
 
-- **BGH, Urt. v. 17.10.2024 – I ZR 75/23, GRUR 2025, 137 Rn. 22 ff.** — Anforderungen an angemessene Geheimhaltungsmaßnahmen i. S. d. § 2 Nr. 1 lit. b GeschGehG; ohne dokumentierte Schutzmaßnahmen kein Schutz, das NDA selbst ist Bestandteil der angemessenen Maßnahmen.
-- **BGH, Urt. v. 18.06.2014 – I ZR 242/12, GRUR 2014, 1233 Rn. 31** — Reichweite vertraglicher Geheimhaltungspflichten und Auslegung zugunsten des Geheimnisträgers.
-- **BGH, Urt. v. 07.11.2019 – I ZR 222/17, NJW 2020, 540 Rn. 39 ff.** — AGB-Kontrolle bei vorformulierten Vertraulichkeitsklauseln; einseitig stellende Partei trägt das Risiko der § 307-Kontrolle.
-- **BGH, Urt. v. 17.07.2008 – I ZR 168/05, GRUR 2009, 173 Rn. 16** — Vertragsstrafe in B2B-NDAs zulässig, jedoch Höhe nach § 343 BGB kontrollierbar; im kaufmännischen Verkehr Herabsetzung gem. § 348 HGB ausgeschlossen, prüfen.
-- **OLG Düsseldorf, Urt. v. 11.03.2021 – I-15 U 6/20, GRUR-RR 2021, 305 Rn. 28** — Beweislastumkehr in NDA-Klauseln auf AGB-Wirksamkeit zu prüfen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Maume, in: BeckOK GeschGehG, 18. Ed. (Stand 15.03.2025), § 2 Rn. 25 ff., § 3 Rn. 12 ff.
-- Reinfeld, Das neue Geschäftsgeheimnisrecht, 2. Aufl. 2023, § 4 Rn. 18 ff.
-- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 1 GeschGehG Rn. 12 ff.
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 339 Rn. 5 ff. (Vertragsstrafe), § 307 Rn. 1 ff. (AGB-Kontrolle).
-- Gores, NJW 2019, 2540 (2543 f.) — Auswirkungen GeschGehG auf bestehende NDAs.
-
-> **Hinweis:** Der Begriff `Confidential Information` und ähnliche
-> englischsprachige Fachtermini (z. B. `Disclosing Party`, `Receiving
-> Party`, `Residual`, `Term Sheet`) gehören zur eingeführten deutschen
-> Wirtschaftsrechtsfachsprache und werden im NDA-Kontext üblicherweise
-> nicht zwingend übersetzt.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Mindeststandard-Katalog
 
 Die folgenden zehn Bereiche sind in **jedem** NDA zu prüfen.
@@ -80,7 +66,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 7. **Rechtswahl und Gerichtsstand** — deutsches Recht, ausschließlicher Gerichtsstand am Sitz der Mandantin oder ein neutraler deutscher Gerichtsstand.
 8. **Einbeziehung verbundener Unternehmen** — i. S. d. § 15 AktG, einschließlich Mitarbeiter, Berater und gleichgestellter Personen mit gleichwertiger Verschwiegenheitspflicht.
 9. **Kein konkludenter Lizenzübergang** — ausdrücklicher Ausschluss von Eigentums-, Lizenz- oder sonstigen Nutzungsrechten an offengelegten Informationen.
-10. **Salvatorische Klausel im zulässigen Rahmen** — abgemildert wegen BGH-Rspr. (BGH, Urt. v. 24.09.2002 – KZR 10/01, NJW 2003, 347) und AGB-Kontrolle; im Zweifel zurückhaltend formulieren.
+10. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ablauf
 
@@ -90,7 +76,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 2. **Strukturschutz** — keine Klausel löschen, keine Klauseln umstellen, keine neue Nummerierung. Änderungen nur durch:
    - Einfügung einzelner Wörter (z. B. `mindestens`, `auch mündlich`, `unwiderruflich`, `verschuldensunabhängig`)
    - Einfügung kurzer Halbsätze (z. B. `einschließlich verbundener Unternehmen i. S. d. § 15 AktG`)
-   - Streichung einzelner kritischer Wörter (z. B. „**ausschließlich** schriftlich gekennzeichnete" → „schriftlich gekennzeichnete")
+   - Streichung einzelner kritischer Wörter (z. B. "**ausschließlich** schriftlich gekennzeichnete" → "schriftlich gekennzeichnete")
    - Ersetzung problematischer Begriffe durch minimale sprachliche Anpassung
 3. **Neue Absätze nur, wenn zwingend** — und dann möglichst als Unterabsatz innerhalb der nächstgelegenen bestehenden Klausel (z. B. `(neu) Im Übrigen gilt …`).
 4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben + `references/mindeststandards.md`) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
@@ -125,10 +111,10 @@ Drei Artefakte:
 ### Beispiel Redline-Snippet
 
 > Originalklausel (Prüfling):
-> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser als „vertraulich" gekennzeichnet werden.*
+> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser als "vertraulich" gekennzeichnet werden.*
 >
 > Redline (im Änderungsmodus):
-> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser **erkennbar oder** als „vertraulich" gekennzeichnet **übermittelt** werden**, einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen, sofern ihre Vertraulichkeit nach der Art der Information oder den Umständen der Offenlegung erkennbar ist**.*
+> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser **erkennbar oder** als "vertraulich" gekennzeichnet **übermittelt** werden**, einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen, sofern ihre Vertraulichkeit nach der Art der Information oder den Umständen der Offenlegung erkennbar ist**.*
 
 ### Beispiel Klausel-Vergleichseintrag
 
@@ -138,8 +124,8 @@ Drei Artefakte:
 | Prüfling-Klausel | § 1 Vertrauliche Informationen |
 | Inhaltlicher Vergleich | Prüfling: nur schriftlich gekennzeichnete Informationen. Referenz: alle erkennbar vertraulichen Informationen, auch mündlich/visuell. |
 | Risikoampel | `[NACHTEILIG]` |
-| Begründung | Schutzlücke bei mündlich offengelegten Geschäftsgeheimnissen; widerspricht § 2 Nr. 1 lit. b GeschGehG („angemessene Geheimhaltungsmaßnahmen" verlangt umfassenden Schutz). |
-| Redline-Vorschlag | Einfügung von „erkennbar oder" sowie Halbsatz „einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen" |
+| Begründung | Schutzlücke bei mündlich offengelegten Geschäftsgeheimnissen; widerspricht § 2 Nr. 1 lit. b GeschGehG ("angemessene Geheimhaltungsmaßnahmen" verlangt umfassenden Schutz). |
+| Redline-Vorschlag | Einfügung von "erkennbar oder" sowie Halbsatz "einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen" |
 | Verhandlungsargument | Marktstandard nach GeschGehG-Inkrafttreten 2019; auch im Eigeninteresse der Gegenseite, da sie bei eigener Offenlegung gleichermaßen geschützt ist (bilateral). |
 
 ## Beispiel-Ablauf
@@ -157,7 +143,7 @@ Drei Artefakte:
 ## Risiken und typische Fehler
 
 **1. Über-Redaktion**
-Verlockung, das Dokument sprachlich zu glätten. Verboten. Jede stilistische Änderung ohne materielle Notwendigkeit verletzt das Grundprinzip „Gegenseite erkennt ihr Dokument wieder" und torpediert die Verhandlung.
+Verlockung, das Dokument sprachlich zu glätten. Verboten. Jede stilistische Änderung ohne materielle Notwendigkeit verletzt das Grundprinzip "Gegenseite erkennt ihr Dokument wieder" und torpediert die Verhandlung.
 
 **2. Neue Klauseln**
 Neue eigenständige Paragraphen wirken auf die Gegenseite wie ein Re-Draft und reduzieren die Annahmewahrscheinlichkeit. Erst nach Ausschöpfung aller Möglichkeiten der punktuellen Ergänzung; dann als Unterabsatz innerhalb bestehender Klauseln.
@@ -166,13 +152,12 @@ Neue eigenständige Paragraphen wirken auf die Gegenseite wie ein Re-Draft und r
 Ergänzungen, die die eigene Seite einseitig begünstigen (z. B. drastische Vertragsstrafe, weitgehende Beweislastumkehr), unterliegen bei Einseitig-Stellung wiederum § 305 ff. BGB — und können vor Gericht für unwirksam erklärt werden. Lieber moderat formulieren als überspitzt einfügen.
 
 **4. Vertragsstrafe ohne Höhenbegrenzung**
-„Vertragsstrafe in vom Anbieter zu bestimmender Höhe" ist unwirksam. Höhe konkret oder bestimmbar formulieren (z. B. `25.000 EUR pro Einzelverstoß, maximal 250.000 EUR insgesamt`). § 343 BGB / § 348 HGB beachten.
+"Vertragsstrafe in vom Anbieter zu bestimmender Höhe" ist unwirksam. Höhe konkret oder bestimmbar formulieren (z. B. `25.000 EUR pro Einzelverstoß, maximal 250.000 EUR insgesamt`). § 343 BGB / § 348 HGB beachten.
 
-**5. „Vormals Palandt" nicht in der Analyse zitieren**
-Aktueller BGB-Kommentar heißt **Grüneberg** (84. Aufl. 2025). Palandt-Zitate nur, wenn historische Altauflage tatsächlich gemeint und kenntlich gemacht. Siehe `references/zitierweise.md` Abschnitt 10a.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **6. Gerichtsstand und Schiedsklausel verwechselt**
-Häufig bietet die Gegenseite Schiedsverfahren in Genf, London oder Singapur an — „neutraler Schiedsort" klingt fair, ist aber faktisch eine massive Kostenfalle für die kleinere Partei. Im Zweifel deutscher staatlicher Gerichtsstand vorziehen.
+Häufig bietet die Gegenseite Schiedsverfahren in Genf, London oder Singapur an — "neutraler Schiedsort" klingt fair, ist aber faktisch eine massive Kostenfalle für die kleinere Partei. Im Zweifel deutscher staatlicher Gerichtsstand vorziehen.
 
 **7. Anwendbares Recht vergessen**
 Wird in B2B-NDAs überraschend oft übersehen. Ohne Rechtswahlklausel gilt Art. 4 Rom-I-VO — bei grenzüberschreitenden NDAs unklar. Immer ausdrücklich `Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.`
@@ -193,12 +178,11 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 - §§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1, 339, 343 BGB; § 348 HGB; § 15 AktG
 - §§ 2, 3, 5, 6, 7, 10 GeschGehG
 - §§ 305, 307 BGB (bei AGB-Konstellation)
-- BGH, Urt. v. 17.10.2024 – I ZR 75/23, GRUR 2025, 137 Rn. 22 ff.
-- BGH, Urt. v. 07.11.2019 – I ZR 222/17, NJW 2020, 540 Rn. 39 ff.
-- Maume, in: BeckOK GeschGehG, 18. Ed. (Stand 15.03.2025), § 2 Rn. 25 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 1 GeschGehG Rn. 12 ff.
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 339 Rn. 5 ff., § 307 Rn. 1 ff.
-- Gores, NJW 2019, 2540 (2543 f.)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 *Dieser Skill produziert einen Arbeitsentwurf. Inhalt, Risikobewertung

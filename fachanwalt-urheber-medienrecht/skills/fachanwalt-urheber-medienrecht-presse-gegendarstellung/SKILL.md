@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-presse-gegendarstellung
-description: "Gegendarstellungsanspruch in der Presse pruefen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Pruefraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht fuer Widerruf oder Unterlassung von Tatsachenbehauptungen."
+description: "Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen."
 ---
 
 # Presse-Gegendarstellung
@@ -26,9 +26,9 @@ description: "Gegendarstellungsanspruch in der Presse pruefen und Gegendarstellu
 - Rundfunkrechtliche Gegendarstellung § 9 MStV (früher Rundfunkstaatsvertrag) — analoge Voraussetzungen für Rundfunk und Telemedien.
 - Abdruckpflicht — gleichwertige Platzierung in nächster erreichbarer Ausgabe ohne Veränderung, ohne Einschaltungen, lediglich kurzer redaktioneller Hinweis zulässig.
 - Einstweilige Verfügung § 935, § 940 ZPO — bei Eilbedürftigkeit und Dringlichkeitsvermutung im Presserecht regelmäßig gegeben.
-- Verfassungsrechtlich gewährleistet durch Art. 5 Abs. 1 GG (Pressefreiheit) i. V. m. Art. 1 Abs. 1, 2 Abs. 1 GG (allgemeines Persönlichkeitsrecht) (BVerfG 1 BvR 850/82, Beschl. v. 14.01.1998, Rn. 21).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Standardliteratur: Wenzel Das Recht der Wort- und Bildberichterstattung; Soehring/Hoene Presserecht; Löffler Presserecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast
 
@@ -91,10 +91,7 @@ in Vollmacht des Betroffenen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.12.2010 – VI ZR 30/09, NJW 2011, 745 Rn. 14: Gegendarstellungsanspruch bei Online-Medien; massgeblicher Zeitpunkt fuer Fristbeginn ist Kenntnisnahme vom Beitrag; Online-Abrufbarkeit verlaengert Frist nicht unbegrenzt.
-- BGH, Urt. v. 23.06.2009 – VI ZR 196/08, NJW 2009, 3576 Rn. 19: Gegendarstellung darf keine Wertungen enthalten; Ablehnung durch Redaktion bei Schmaehinhalt zulässig; reine Tatsachengegendarstellung ist Pflicht.
-- BVerfG, Beschl. v. 14.01.1998 – 1 BvR 850/82, NJW 1998, 1381 Rn. 21: Verfassungskonformitaet des presserechtlichen Gegendarstellungsanspruchs; Gegendarstellung als Ausfluss des Persoenlichkeitsrechts Art. 2 Abs. 1 GG.
-- OLG Muenchen, Urt. v. 12.11.2020 – 18 U 2929/20, GRUR-RS 2020, 36941: Unterlassungsanspruch bei wiederholter unwahren Tatsachenbehauptung; Wiederholungsgefahr nach erstmaliger Verletzung vermutet; strafbewehrte Erklaerung erforderlich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Übergabe
 
@@ -107,5 +104,5 @@ in Vollmacht des Betroffenen
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 026:
-- OLG Hamburg, Urt. v. 18.01.2022 – 7 U 126/21, NJW-RR 2022, 554 Rn. 33: Aktenzeichen nicht auf dejure.org auffindbar; direkte Abfrage ergab "Nichts gefunden". Eintrag vollständig gelöscht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

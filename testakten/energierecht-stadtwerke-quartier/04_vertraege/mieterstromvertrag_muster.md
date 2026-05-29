@@ -14,7 +14,7 @@ HRB 4218 AG Coesfeld
 Vorstandsvorsitzende: Dr. Gerda Wohlfahrt
 Telefon: 02591 / 887 – 0 · E-Mail: mieterstrom@swkk.de
 
-— im Folgenden „Mieterstrom-Lieferant" oder „Lieferant" —
+— im Folgenden "Mieterstrom-Lieferant" oder "Lieferant" —
 
 und
 
@@ -22,9 +22,9 @@ und
 [Anschrift im Gebäude]
 [Geburtsdatum]
 
-— im Folgenden „Mieter" oder „Stromabnehmer" —
+— im Folgenden "Mieter" oder "Stromabnehmer" —
 
-— gemeinsam „die Vertragsparteien" —
+— gemeinsam "die Vertragsparteien" —
 
 ---
 

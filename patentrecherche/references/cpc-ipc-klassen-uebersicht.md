@@ -1,6 +1,6 @@
 # CPC- und IPC-Klassen — Übersicht für die Patentrecherche
 
-Diese Übersicht ist eine Schnellreferenz für die Klassenbestimmung im Skill `klassifikation-cpc-ipc`. Sie ersetzt nicht den **Espacenet Classification Browser** (`https://worldwide.espacenet.com/patent/cpc-browser`) und die **WIPO IPC Online Publication** (`https://www.wipo.int/classifications/ipc/ipcpub`).
+Diese Übersicht ist eine Schnellreferenz für die Klassenbestimmung im Skill `klassifikation-cpc-ipc`. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 
 ## Symbol-Aufbau
 
@@ -197,7 +197,7 @@ Beispiel: `H04L 9/00` = Sektion H (Elektrotechnik), Klasse 04 (Nachrichtentechni
 
 ## CPC-IPC-Differenz
 
-Beispiel: `Y02E 60/00` (CPC) — „Technologies for the reduction of GHG emissions, related to the energy sector". In IPC nicht vorhanden, weil Y eine reine CPC-Querschnitts-Sektion ist. Wer in einer IPC-only-Datenbank sucht, würde die Treffer in H02J (Stromversorgung) und H02S (Photovoltaik) suchen müssen — größere Streuung, mehr Lärm, mehr Klassen.
+Beispiel: `Y02E 60/00` (CPC) — "Technologies for the reduction of GHG emissions, related to the energy sector". In IPC nicht vorhanden, weil Y eine reine CPC-Querschnitts-Sektion ist. Wer in einer IPC-only-Datenbank sucht, würde die Treffer in H02J (Stromversorgung) und H02S (Photovoltaik) suchen müssen — größere Streuung, mehr Lärm, mehr Klassen.
 
 ## Quellen
 

@@ -1,6 +1,6 @@
 ---
 name: video-verhandlung-110a-sgg
-description: "Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise fuer Buerger mit gesundheitlichen Einschraenkungen."
+description: "Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen."
 ---
 
 # Video-Verhandlung am SG — § 110a SGG

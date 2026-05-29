@@ -1,6 +1,6 @@
 ---
 name: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa
-description: "Account-Sperre oder Inhaltsentfernung durch soziales Netzwerk anfechten: Nutzer oder Unternehmen ist von Plattform gesperrt worden. Normen: DSA (EU) 2022/2065 Art. 17 (Begruendungspflicht), Art. 20 (internes Beschwerdesystem), Art. 21 (aussergerichtliche Streitbeilegung), BGH III ZR 179/20 und III ZR 192/20 (Vertragsrecht vs. Auslandsanbieter). Pruefraster: Stufenmodell: Art. 17 Begruendung siehe Art. 20 Beschwerde siehe Art. 21 ADR siehe Klage; einstweiliger Rechtsschutz §§ 935 und 940 ZPO; Schadensersatz; DSGVO-Schnittstelle. Output Beschwerdebrief-Entwurf, Klageschrift-Geruest, DSA-Compliance-Check. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Risikobewertung VLOP siehe dsa-art-34-systemische-risikobewertung."
+description: "Workflow-Skill zu account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
@@ -41,7 +41,7 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 #### Hauptsache
 
 - **Anspruchsgrundlage:** Wiederherstellung des Accounts / Freischaltung des Beitrags aus dem **Nutzungsvertrag** (positive Vertragsverletzung, § 280 BGB; Erfüllungsanspruch)
-- **BGH 29.07.2021 — III ZR 179/20 und III ZR 192/20** (Facebook-Sperre): AGB-Klauseln zur Entfernung von Beiträgen und Sperre sind nur wirksam, wenn sie für die Entfernung eine **Anhörungspflicht** vorsehen; einseitige Entfernungs- und Sperrkompetenz ist nach § 307 BGB unwirksam; mittelbare Drittwirkung der Meinungsfreiheit Art. 5 Abs. 1 GG
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Die BGH-Linie ist mit dem DSA kompatibel und wird ergänzt — Art. 14 Abs. 4 DSA verlangt **sorgfältige, objektive und verhältnismäßige Anwendung** der AGB unter Berücksichtigung der Grundrechte
 
 #### Eilrechtsschutz
@@ -91,10 +91,7 @@ Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfül
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.07.2021 — III ZR 179/20, NJW 2021, 3179 Rn. 38–55: Soziale Netzwerke sind an Grundrechte (mittelbar) gebunden; Account-Sperrungen ohne hinreichende Begründung verstoßen gegen das Gebot fairer Vertragsabwicklung (§ 241 Abs. 2 BGB); Betroffene haben Anspruch auf Anhörung vor Sperrung.
-- BGH, Urt. v. 29.07.2021 — III ZR 192/20, NJW 2021, 3185 Rn. 28: Inhaltsbasierte Sperrungen durch soziale Netzwerke unterliegen AGB-Inhaltskontrolle nach § 307 BGB; unangemessen benachteiligende AGB-Klauseln sind unwirksam.
-- OLG München, Urt. v. 18.02.2020 — 18 U 3465/19 Pre, NJW 2020, 1441 Rn. 22: Vorläufiger Rechtsschutz bei Account-Sperre; Verfügungsanspruch aus § 241 Abs. 2 BGB iVm Grundrechtsbindung sozialer Netzwerke; Irreparabilität des Schadens bei Kommunikationssperrung begründet Verfügungsgrund.
-- EuGH, Urt. v. 22.06.2023 — C-422/21 (Tele2 Sverige/Polismyndigheten), NJW 2023, 2800 Rn. 42: Zur Verhältnismäßigkeit von Inhaltssperrungen; Art. 11 GRCh (Meinungsfreiheit) muss bei Sperrungen gegen illegale Inhalte berücksichtigt werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -103,11 +100,9 @@ Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfül
 - §§ 935, 940 ZPO — Einstweilige Verfügung
 - Art. 11 GRCh — Meinungsfreiheit
 
-## Kommentarliteratur
+## Quellenregel
 
-- Spindler/Schmitz, TMG, 2. Aufl. 2018 (demnächst DSA-Kommentar): Zur AGB-Kontrolle bei sozialen Netzwerken und den Anforderungen des DSA-Beschwerdeverfahrens.
-- MüKo BGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 1–80: Zur Inhaltskontrolle von Nutzungsbedingungen sozialer Netzwerke.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Art der Maßnahme: Account-Sperrung / Inhaltsdeaktivierung / Einschränkung?

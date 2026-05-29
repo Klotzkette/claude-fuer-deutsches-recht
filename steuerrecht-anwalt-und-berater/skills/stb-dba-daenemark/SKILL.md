@@ -7,7 +7,7 @@ description: "DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler
 
 ## Kernsachverhalt
 
-Das DBA-Daenemark vom 22.11.1995 regelt insbesondere Pendlersachverhalte im deutsch-daenischen Grenzbereich (Flensburg-Padborg-Toender), die Schifffahrt mit Anlandung in beiden Staaten, Pensionsleistungen aus der ATP (Arbejdsmarkedets Tillaegspension) und Beteiligungseinkuenfte aus daenischen Holding-Strukturen. Daenemark wendet eigene Schachtelvorschriften an und ist EU-Mitglied (MTRL anwendbar).
+Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) regelt insbesondere Pendlersachverhalte im deutsch-daenischen Grenzbereich (Flensburg-Padborg-Toender), die Schifffahrt mit Anlandung in beiden Staaten, Pensionsleistungen aus der ATP (Arbejdsmarkedets Tillaegspension) und Beteiligungseinkuenfte aus daenischen Holding-Strukturen. Daenemark wendet eigene Schachtelvorschriften an und ist EU-Mitglied (MTRL anwendbar).
 
 ## Kaltstart-Rueckfragen
 
@@ -24,15 +24,16 @@ Das DBA-Daenemark vom 22.11.1995 regelt insbesondere Pendlersachverhalte im deut
 
 ### Primaernormen
 
-- **DBA Deutschland-Daenemark vom 22.11.1995**, in Kraft 25.12.1996, anwendbar ab 01.01.1997 (BGBl. 1996 II S. 2566) — **Datum und BGBl verifizieren**.
+- **DBA Deutschland-Daenemark vom 22.11.1995**, in Kraft 25.12.1996, anwendbar ab 01.01.1997 (BGBl. 1996 II S. 2565; BStBl. 1996 I S. 1219).
+- Aenderungsprotokoll, in Kraft 23.12.2021, anwendbar ab 01.01.2022 (BGBl. 2021 II S. 483).
 - **OECD-MA 1992/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: beide Staaten Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Daenemark haben das MLI unterzeichnet und ratifiziert; DBA-DE-DK gilt MLI-modifiziert. Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 79/12 zu Schifffahrt — **Aktenzeichen verifizieren**.
-- BMF-Schreiben zur Sozialversicherung Daenemark — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zum DBA-Daenemark (Schifffahrt, Folkepension) in juris abrufen.
+- Aktuelle BMF-Schreiben zur Sozialversicherung Daenemark im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -48,18 +49,19 @@ Das DBA-Daenemark vom 22.11.1995 regelt insbesondere Pendlersachverhalte im deut
 - Schifffahrt/Luftverkehr (Art. 8): tatsaechliche Geschaeftsleitung der Reederei.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 10 Prozent Beteiligung), 15 Prozent (Streubesitz). EU-MTRL 0 Prozent vorrangig.
+- **Zinsen** (Art. 11): 0 Prozent.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent. EU-ZinsLizenzRL vorrangig.
 
 ### Vermeidungs-Methode (Art. 24)
 - Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
 - Anrechnung passive Einkuenfte.
 
 ### Besonderheiten
-- **Sozialversicherungsleistungen** Folkepension: in Daenemark als oeffentliche Pension klassifiziert; Pensions-Klausel im DBA-DK gesondert.
+- **Sozialversicherungsleistungen** Folkepension: in Daenemark als oeffentliche Pension klassifiziert; Pensions-Klausel im DBA-DK gesondert — konkreten DBA-Text pruefen.
 - **ATP**: separate Behandlung.
 - **Grenzpendler**: ohne klassische Grenzgaengerregelung gelten 183-Tage-Regelung und Methodenartikel.
+- **Schiffsoffiziere** unter daenischer Flagge: Art. 8/15 DBA — Wohnsitzstaat-Besteuerung haeufig nicht durchsetzbar; konkrete Klausel im DBA-Text pruefen.
 
 ## Workflow
 
@@ -79,9 +81,9 @@ Das DBA-Daenemark vom 22.11.1995 regelt insbesondere Pendlersachverhalte im deut
 
 ## Strategie und Praxis-Tipps
 
-- Folkepension wird oft falsch eingeordnet — sie ist staatliche Sozialleistung, das DBA enthaelt eine Spezialregelung — **DBA-Text konkret pruefen**.
+- Folkepension wird oft falsch eingeordnet — sie ist staatliche Sozialleistung, das DBA enthaelt eine Spezialregelung — DBA-Text konkret pruefen.
 - ATP und betriebliche Pensionen separat klassifizieren — Wohnsitzstaat vs. Kassenstaat unterschiedlich.
-- Schiffsoffiziere unter daenischer Flagge: Art. 8/15 DBA — Wohnsitzstaat-Besteuerung haeufig nicht durchsetzbar; **konkrete Klausel verifizieren**.
+- Schiffsoffiziere unter daenischer Flagge: Art. 8/15 DBA — konkrete Klausel aus dem DBA-Text entnehmen.
 - EU-Mutter-Tochter-RL geht regelmaessig vor DBA — 0 Prozent Quellensteuer bei Schachtel.
 - Kein klassischer Grenzgaengerstatus — Wohnsitz/Taetigkeit muessen 183 Tage-Regel oder Methodenartikel nutzen.
 
@@ -91,4 +93,6 @@ Das DBA-Daenemark vom 22.11.1995 regelt insbesondere Pendlersachverhalte im deut
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996. **Datum, BGBl-Fundstelle, MLI-Notification und Pensions-Klassifikation Folkepension/ATP vor Uebernahme verifizieren. Aktuelle Quellensteuer-Saetze konkret im DBA-Text pruefen.**
+Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Aenderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

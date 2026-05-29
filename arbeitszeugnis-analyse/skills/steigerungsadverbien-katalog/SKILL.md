@@ -1,19 +1,19 @@
 ---
 name: steigerungsadverbien-katalog
-description: "Vollstaendige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note faellt. Trennt echte Steigerer (stets, jederzeit, vollkommen, hoechst) von scheinbaren Steigerern (regelmaessig, ueberwiegend, weitgehend) und Frequenzadverbien (oft, meist, gelegentlich) und ordnet jede Kombination einer Schulnote zu."
+description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note faellt. Trennt echte Steigerer (stets, jederzeit, vollkommen, hoechst) von scheinbaren Steigerern (regelmäßig, ueberwiegend, weitgehend) und Frequenzadverbien (oft, meist, gelegentlich) und ordnet jede Kombination einer Schulnote zu."
 ---
 
 # Steigerungsadverbien-Katalog
 
-Das Steigerungsadverb ist der zentrale Sprachhebel des deutschen Arbeitszeugnisses. Ein Satz wie „erledigte die Aufgaben zur Zufriedenheit" tragt Note 4, derselbe Satz mit „stets" davor wird zu Note 2 und mit „stets vollster" zu Note 1. Der Unterschied zwischen Top-Bewertung und Unterdurchschnitt ist haeufig nur ein einziges Wort. Dieser Katalog listet alle gebraeuchlichen Steigerer und ordnet jeder Position eine Notenwirkung zu.
+Das Steigerungsadverb ist der zentrale Sprachhebel des deutschen Arbeitszeugnisses. Ein Satz wie "erledigte die Aufgaben zur Zufriedenheit" tragt Note 4, derselbe Satz mit "stets" davor wird zu Note 2 und mit "stets vollster" zu Note 1. Der Unterschied zwischen Top-Bewertung und Unterdurchschnitt ist haeufig nur ein einziges Wort. Dieser Katalog listet alle gebraeuchlichen Steigerer und ordnet jeder Position eine Notenwirkung zu.
 
-Echte Steigerungsadverbien sind „stets", „jederzeit", „immer", „durchgehend", „in allen Belangen". Sie heben die nachfolgende Aussage um eine volle Note an. Maximalsteigerer sind „vollkommen", „aeusserst", „in hoechstem Masse", „uneingeschraenkt", „absolut". Sie heben um eine weitere halbe Note an und sind das Kennzeichen der Note 1.
+Echte Steigerungsadverbien sind "stets", "jederzeit", "immer", "durchgehend", "in allen Belangen". Sie heben die nachfolgende Aussage um eine volle Note an. Maximalsteigerer sind "vollkommen", "aeusserst", "in hoechstem Masse", "uneingeschraenkt", "absolut". Sie heben um eine weitere halbe Note an und sind das Kennzeichen der Note 1.
 
-Scheinsteigerer haben die Form eines Steigerers, wirken aber neutral oder sogar abschwaechend: „regelmaessig" beschreibt nur die Haeufigkeit, nicht die Qualitaet (Note 3). „ueberwiegend" und „weitgehend" sind Abschwaecher, weil sie Ausnahmen mitdenken (Note 3 bis 4). „im Wesentlichen" und „im Grossen und Ganzen" sind sogar starke Negativsignale (Note 4 bis 5).
+Scheinsteigerer haben die Form eines Steigerers, wirken aber neutral oder sogar abschwaechend: "regelmaessig" beschreibt nur die Haeufigkeit, nicht die Qualitaet (Note 3). "ueberwiegend" und "weitgehend" sind Abschwaecher, weil sie Ausnahmen mitdenken (Note 3 bis 4). "im Wesentlichen" und "im Grossen und Ganzen" sind sogar starke Negativsignale (Note 4 bis 5).
 
-Frequenzadverbien wie „oft", „meist", „haeufig", „gelegentlich" haben eine eigene Skala: „oft" ist Note 2 bis 3, „meist" ist Note 3, „haeufig" je nach Kontext Note 3, „gelegentlich" ist Note 4. Sie sind keine echten Steigerer, weil sie die ausgepraegte Qualitaet nicht garantieren, sondern nur die Haeufigkeit beschreiben.
+Frequenzadverbien wie "oft", "meist", "haeufig", "gelegentlich" haben eine eigene Skala: "oft" ist Note 2 bis 3, "meist" ist Note 3, "haeufig" je nach Kontext Note 3, "gelegentlich" ist Note 4. Sie sind keine echten Steigerer, weil sie die ausgepraegte Qualitaet nicht garantieren, sondern nur die Haeufigkeit beschreiben.
 
-Auch fehlende Steigerer sind Information. Wenn ein typischer Steigerer („stets") im Zeugnis weitgehend gesetzt wird, an einer kritischen Stelle aber fehlt, ist die Auslassung das Signal. Beispiel: „Sein Verhalten gegenueber Vorgesetzten und Kollegen war einwandfrei" — ohne „stets" — direkt nach mehreren Saetzen mit „stets" signalisiert: an dieser Stelle nicht durchgaengig einwandfrei.
+Auch fehlende Steigerer sind Information. Wenn ein typischer Steigerer ("stets") im Zeugnis weitgehend gesetzt wird, an einer kritischen Stelle aber fehlt, ist die Auslassung das Signal. Beispiel: "Sein Verhalten gegenueber Vorgesetzten und Kollegen war einwandfrei" — ohne "stets" — direkt nach mehreren Saetzen mit "stets" signalisiert: an dieser Stelle nicht durchgaengig einwandfrei.
 
 ## Geheimcode-Regeln
 
@@ -79,22 +79,22 @@ Auch fehlende Steigerer sind Information. Wenn ein typischer Steigerer („stets
 
 | Befund | Wirkung |
 |---|---|
-| Steigerer „stets" im Zeugnis durchgaengig, fehlt an einer Stelle | Punktuelle Abwertung, Drift-Signal |
+| Steigerer "stets" im Zeugnis durchgaengig, fehlt an einer Stelle | Punktuelle Abwertung, Drift-Signal |
 | Steigerer fehlt vollstaendig im ganzen Zeugnis | Maximalnote nicht erreichbar, Note 2 oder schlechter |
 
 ## Beispiele
 
-**Beispiel 1 – Maximalformel:** „Er erledigte alle Aufgaben jederzeit zu unserer vollsten Zufriedenheit" → drei Steigerer („jederzeit", „vollsten", implizites „alle"), Note 1.
+**Beispiel 1 – Maximalformel:** "Er erledigte alle Aufgaben jederzeit zu unserer vollsten Zufriedenheit" → drei Steigerer ("jederzeit", "vollsten", implizites "alle"), Note 1.
 
-**Beispiel 2 – Standardformel:** „Sie erledigte ihre Aufgaben stets zu unserer Zufriedenheit" → ein Standardsteigerer ohne Maximalsteigerer, Note 2.
+**Beispiel 2 – Standardformel:** "Sie erledigte ihre Aufgaben stets zu unserer Zufriedenheit" → ein Standardsteigerer ohne Maximalsteigerer, Note 2.
 
-**Beispiel 3 – Abgestufte Formel:** „Er erledigte seine Aufgaben zur Zufriedenheit" → kein Steigerer, Note 3.
+**Beispiel 3 – Abgestufte Formel:** "Er erledigte seine Aufgaben zur Zufriedenheit" → kein Steigerer, Note 3.
 
-**Beispiel 4 – Scheinsteigerer:** „Sie nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" → „regelmaessig" ist Haeufigkeit, kein Qualitaetssteigerer; ohne „stets" oder „mit grossem Erfolg" bleibt die Aussage Note 3.
+**Beispiel 4 – Scheinsteigerer:** "Sie nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" → "regelmaessig" ist Haeufigkeit, kein Qualitaetssteigerer; ohne "stets" oder "mit grossem Erfolg" bleibt die Aussage Note 3.
 
-**Beispiel 5 – Abschwaecher:** „Sein Verhalten war ueberwiegend korrekt" → „ueberwiegend" denkt Ausnahmen mit, „korrekt" ohne Steigerer, Note 4.
+**Beispiel 5 – Abschwaecher:** "Sein Verhalten war ueberwiegend korrekt" → "ueberwiegend" denkt Ausnahmen mit, "korrekt" ohne Steigerer, Note 4.
 
-**Beispiel 6 – Auslassung als Signal:** Zeugnis enthaelt zehnmal „stets", einmal aber „Sein Verhalten war einwandfrei" ohne „stets" → punktuelle Drift, Sozialverhalten-Note rutscht von 1 auf 2 bis 3.
+**Beispiel 6 – Auslassung als Signal:** Zeugnis enthaelt zehnmal "stets", einmal aber "Sein Verhalten war einwandfrei" ohne "stets" → punktuelle Drift, Sozialverhalten-Note rutscht von 1 auf 2 bis 3.
 
 ## Ausgabeformat
 
@@ -107,5 +107,4 @@ Der Skill kann zweifach eingesetzt werden. Erstens als Nachschlagewerk: Eingabe 
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

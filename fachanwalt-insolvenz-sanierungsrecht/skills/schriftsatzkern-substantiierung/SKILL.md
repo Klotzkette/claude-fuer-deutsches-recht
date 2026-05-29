@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Insolvenz- und Restrukturierungsrecht
@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Insolvenz- und Restrukturierungsrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus InsO, StaRUG, AnfG, EuInsVO, COVInsAG-Nachwirkungen und ihre Substantiierungs-Anforderungen:
@@ -194,13 +193,9 @@ Vor Versand:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
-
 ## Aktuelle Leitentscheidungen fuer Schriftsaetze im Insolvenzrecht
 
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO: klagende IV muss konkrete Bedrohungslage (nicht nur drohende ZU) in Klageschrift darlegen; Indizien wie Ratenzahlungsangebote, Mahnungen, ZV-Massnahmen.
-- BGH, Urt. v. 16.07.2015 — IX ZR 197/14, NZI 2015, 892 — Substantiierungslast im Anfechtungsprozess: klagender IV muss alle Zahlungen, Daten und Gegner-Kenntnis-Indizien im Schriftsatz konkret vortragen; pauschaler Verweis auf Kontoauszuege reicht nicht.
-- BGH, Urt. v. 20.02.2014 — IX ZR 164/13, NZI 2014, 473 — Klagaenderung InsO-Anfechtung: Wechsel des Tatbestands (z.B. von § 130 auf § 133) ist Klagaenderung nach § 263 ZPO; Glaubhaftmachung Zulassung bei neuen Tatsachen.
-- BGH, Urt. v. 10.01.2013 — IX ZR 3/12, NZI 2013, 391 — Bargeschaeft § 142 InsO: Gegner muss im Prozess Bargeschaeft-Einrede erstatten und Gleichwertigkeit + Zeitlichkeit tatsaechlich darlegen; keine Beweislastumkehr zugunsten Gegner.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Schriftsatz-Grundgeruest Insolvenz
 

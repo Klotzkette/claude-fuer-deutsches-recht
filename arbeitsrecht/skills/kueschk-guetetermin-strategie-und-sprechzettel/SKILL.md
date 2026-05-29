@@ -1,6 +1,6 @@
 ---
 name: kueschk-guetetermin-strategie-und-sprechzettel
-description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template fuer den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen."
+description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen."
 ---
 
 # Gütetermin: Strategie und Sprechzettel
@@ -23,16 +23,11 @@ description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und w
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 25.04.2018 – 2 AZR 6/18, NZA 2018, 1071 — Ein im Gütetermin geschlossener Vergleich ist ein Prozessvergleich nach § 794 Abs. 1 Nr. 1 ZPO; er ist unmittelbar vollstreckbar und kann nur bei einem Willensmangel (Irrtum, arglistige Täuschung) nach §§ 119, 123 BGB angefochten werden; eine bloße Reue genügt nicht.
-- BAG, Urt. v. 12.05.2010 – 2 AZR 544/08, NZA 2010, 1278 — Zum Vergleich unter Zeitdruck: Ein Vergleich ist wirksam, auch wenn er unter dem Druck einer laufenden Frist oder eines Gerichtstermins geschlossen wird; nachträgliche Reue oder veränderte Einschätzungen begründen kein Anfechtungsrecht.
-- BAG, Urt. v. 28.06.2012 – 6 AZR 780/10, NZA 2012, 1029 — Widerrufsvorbehalt im Vergleich: Haben die Parteien einen Widerrufsvorbehalt vereinbart, muss der Widerruf innerhalb der vereinbarten Frist zugehen; nach Ablauf der Widerrufsfrist ist der Vergleich bindend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Germelmann/Matthes/Prütting, ArbGG, 10. Aufl. 2023, § 54 Rn. 1–25 (Güteverhandlung; Ablauf; Prozessvergleich)
-- ErfK/Koch, 24. Aufl. 2024, § 54 ArbGG Rn. 1–15 (Gütetermin; keine Anwaltspflicht; Protokoll)
-- Schaub/Koch, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 152 Rn. 10–30 (Vergleich im Gütetermin; Anfechtung; Vollstreckung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Der Gütetermin nach § 54 ArbGG ist der erste Verhandlungstermin vor dem Arbeitsgericht. Er findet in der Regel wenige Wochen nach Klageerhebung statt. In der Praxis werden viele Kündigungsschutzstreitigkeiten im Gütetermin durch Vergleich erledigt. Dieser Skill bereitet auf diesen Termin vor.
@@ -66,20 +61,20 @@ Der Gütetermin nach § 54 ArbGG ist der erste Verhandlungstermin vor dem Arbeit
 **IM TERMIN — was sagen:**
 
 Wenn der Richter fragt, warum ich die Kündigung angreife:
-*„Die Kündigung ist meiner Einschätzung nach unwirksam, weil [KURZER HAUPTGRUND — z.B.: keine Sozialauswahl durchgeführt / keine Abmahnung / BR nicht angehört]. Ich beantrage Feststellung, dass das Arbeitsverhältnis fortbesteht."*
+*"Die Kündigung ist meiner Einschätzung nach unwirksam, weil [KURZER HAUPTGRUND — z.B.: keine Sozialauswahl durchgeführt / keine Abmahnung / BR nicht angehört]. Ich beantrage Feststellung, dass das Arbeitsverhältnis fortbesteht."*
 
 Wenn der Richter nach einer Vergleichsbereitschaft fragt:
-*„Ich bin bereit, über eine Einigung zu sprechen. Ich bitte aber um Bedenkzeit und möchte die Bedingungen schriftlich sehen, bevor ich zustimme."*
+*"Ich bin bereit, über eine Einigung zu sprechen. Ich bitte aber um Bedenkzeit und möchte die Bedingungen schriftlich sehen, bevor ich zustimme."*
 
 **IM TERMIN — was nicht sagen:**
 
 - Keine persönlichen Angriffe auf den Arbeitgeber oder Kollegen
 - Keine Beträge oder Kompromissvorschläge nennen, bevor der Arbeitgeber etwas anbietet
-- Keine Aussagen zu Themen machen, bei denen du dir unsicher bist — sage dann: „Dazu kann ich jetzt keine Angabe machen."
+- Keine Aussagen zu Themen machen, bei denen du dir unsicher bist — sage dann: "Dazu kann ich jetzt keine Angabe machen."
 - Nicht unter Druck eine Entscheidung treffen
 
 **Wenn ein Vergleich vorgeschlagen wird:**
-*„Ich bitte um kurze Unterbrechung / um Bedenkzeit bis [DATUM]. Ich möchte das prüfen, bevor ich zustimme."*
+*"Ich bitte um kurze Unterbrechung / um Bedenkzeit bis [DATUM]. Ich möchte das prüfen, bevor ich zustimme."*
 
 ---
 
@@ -87,11 +82,11 @@ Wenn der Richter nach einer Vergleichsbereitschaft fragt:
 
 | Frage | Empfohlene Antwort |
 |---|---|
-| „Wann haben Sie die Kündigung erhalten?" | Genaues Datum nennen, Beleg zeigen |
-| „Warum meinen Sie, die Kündigung ist unwirksam?" | Hauptgrund kurz und klar nennen |
-| „Wie lange waren Sie beschäftigt?" | Datum des Arbeitsbeginns und Endes nennen |
-| „Haben Sie schon einen neuen Job?" | Wahrheitsgemäß antworten |
-| „Was wären Ihre Vorstellungen für eine Einigung?" | Erst hören, was der Arbeitgeber anbietet |
+| "Wann haben Sie die Kündigung erhalten?" | Genaues Datum nennen, Beleg zeigen |
+| "Warum meinen Sie, die Kündigung ist unwirksam?" | Hauptgrund kurz und klar nennen |
+| "Wie lange waren Sie beschäftigt?" | Datum des Arbeitsbeginns und Endes nennen |
+| "Haben Sie schon einen neuen Job?" | Wahrheitsgemäß antworten |
+| "Was wären Ihre Vorstellungen für eine Einigung?" | Erst hören, was der Arbeitgeber anbietet |
 
 ## Was tun wenn Vergleich vorgeschlagen wird?
 

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gewerbeanmeldung-finanzamt
-description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gruendung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Pruefraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB."
+description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB."
 ---
 
 # Gewerbeanmeldung und Finanzamt-Erfassung
@@ -25,15 +25,10 @@ description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gruendung
 
 ## Aktuelle Rechtsprechung
 
-- BFH, Urt. v. 19.09.2019 - V R 10/18, BStBl. II 2020, 127 — Kleinunternehmer-Wahlrecht: Unternehmer kann auf Anwendung § 19 UStG verzichten; Bindung 5 Jahre; Widerruf erst nach Ablauf möglich.
-- FG München, Urt. v. 28.06.2018 - 14 K 2612/16, EFG 2018, 1634 — Verzugszinsen und Säumniszuschläge bei verspäteter USt-Voranmeldung; kein Verschulden bei Erstgründung als Milderungsgrund.
-- BFH, Urt. v. 27.01.2011 - V R 38/09, BStBl. II 2011, 547 — rückwirkende Steuerschätzung: Finanzamt darf bei fehlender Steuererklärung nach § 162 AO schätzen; bei kleinen Unternehmen kann Schätzung überproportional ausfallen.
-## Kommentarliteratur
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Quellenregel
 
-- Tipke/Lang, Steuerrecht, § 17 Rn. 1-40 (Umsatzsteuer, Kleinunternehmer, Vorsteuer)
-- Sölch/Ringleb, UStG, § 19 Rn. 1-30 (Kleinunternehmer-Regelung)
-- BeckOK AO/Koenig, § 138 Rn. 1-15 (steuerliche Erfassungsmeldepflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anmeldungs-Matrix
 
 | Behörde | Pflicht | Frist | Kosten | Konsequenz Versäumnis |
@@ -116,7 +111,7 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 - § 138 AO (steuerliche Erfassung)
 - §§ 18, 19 UStG (USt-Voranmeldung, Kleinunternehmer)
 - § 41a EStG (Lohnsteuer-Anmeldung)
-- BFH V R 10/18, BStBl. II 2020, 127 (Kleinunternehmer-Wahlrecht)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Tipke/Lang, Steuerrecht, § 17 Rn. 1-40
 
 ## Übergabe an andere Skills
@@ -125,5 +120,3 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 - `gesellschaftsgruender-ihk-und-berufsgenossenschaft` — weitere Pflichtmeldungen
 - `gesellschaftsgruender-transparenzregister` — GwG-Pflicht
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Steuerpflichten
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 246/08 entfernt. Tatsächliches Thema: Preiserhöhungsklauseln in Erdgas-Sonderverträgen, AGB-Inhaltskontrolle § 307 BGB — kein Bezug zu Gewerbebetrieb oder Steuerrecht. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

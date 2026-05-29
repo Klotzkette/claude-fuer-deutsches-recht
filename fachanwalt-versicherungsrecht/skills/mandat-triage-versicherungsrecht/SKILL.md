@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-versicherungsrecht
-description: "Strukturierte Eingangs-Abfrage fuer versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjaehrung drei Jahre §§ 12 14 VVG Faelligkeit Schadensmeldung AVB-Klagefristen. Pruefraster Sparte Ereignis Stichtag Deckungsablehnung Hoehe Frist-Sofort-Check Eskalation bei BU-Ablehnung oder lebensbedrohlichen Krankheitskosten. Output Triage-Ergebnis mit Routing zu deckungsanfrage-pruefen und Fristen-Eskalationshinweis. Abgrenzung zu deckungsanfrage-pruefen und erstgespraech-mandatsannahme."
+description: "Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjährung drei Jahre §§ 12 14 VVG Fälligkeit Schadensmeldung AVB-Klagefristen. Prüfraster Sparte Ereignis Stichtag Deckungsablehnung Hoehe Frist-Sofort-Check Eskalation bei BU-Ablehnung oder lebensbedrohlichen Krankheitskosten. Output Triage-Ergebnis mit Routing zu deckungsanfrage-prüfen und Fristen-Eskalationshinweis. Abgrenzung zu deckungsanfrage-prüfen und erstgespraech-mandatsannahme."
 ---
 
 # Mandat-Triage Versicherungsrecht
@@ -114,24 +114,23 @@ Versicherungsmandate sind sparten-spezifisch — KFZ-Vollkasko ist anders als BU
 - VVG §§ 1 ff.
 - BGB §§ 195 199 305 ff.
 - BGH IV. Zivilsenat
-- Prölss/Martin VVG
-- Langheid/Wandt Münchener Kommentar
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Vertiefung — Rechtsprechung und Normenkette Triage
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 14.01.2015 — **IV ZR 38/14**, NJW 2015, 848 Rn. 16: Verjährungsbeginn bei Versicherungsleistungen richtet sich nach § 199 Abs. 1 BGB: Kenntnis vom Anspruch (nicht notwendig volle Kenntnis des Rechtsgrunds) genügt; bei lang andauernder BU beginnt Verjährung für jeden Monatsanspruch gesondert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.05.2014 — **IV ZR 76/11**, NJW 2014, 2100 Rn. 12: Obliegenheit zur unverzüglichen Schadensanzeige (§ 28 VVG i.V.m. AVB) ist bei erstem Anlass, d.h. Kenntnis des Versicherungsnehmers vom Schadenseintritt zu erfüllen; Verzögerung über wenige Tage hinaus begründet Obliegenheitsverletzung, sofern keine Entschuldigung vorliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 22.01.2020 — **IV ZR 125/18**, NJW 2020, 985 Rn. 11: Kfz-Pflichtversicherung nach PflVG schützt Dritte unmittelbar; Direktklage des Geschädigten gegen den Haftpflichtversicherer des Schädigers (§ 115 Abs. 1 VVG) ist zulässig; Versicherer kann Einwand der Obliegenheitsverletzung des VN gegenüber dem Direktkläger grundsätzlich nicht geltend machen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 195 BGB (Verjährung 3 Jahre) i.V.m. § 199 BGB (Kenntnis-Beginn) → § 203 BGB (Hemmung Verhandlungen) → § 28 VVG (Obliegenheit Schadensanzeige) → § 115 VVG (Direktklage Haftpflicht) → § 204 BGB (Hemmung Mahnbescheid, Klage, Schlichtungsantrag) → § 214 VVG (Ombudsmann-Verjährungshemmung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Prölss/Martin, VVG, 31. Aufl. 2021, §§ 28, 115, 195–204 BGB: Übersicht Fristen und Obliegenheiten in der Eingangsberatung.
-- Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch, 3. Aufl. 2015, § 1 (Mandatsaufnahme Versicherungsrecht): Triage-Systematik für die Kanzlei.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

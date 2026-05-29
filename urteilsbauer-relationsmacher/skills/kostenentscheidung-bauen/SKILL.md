@@ -1,10 +1,9 @@
 ---
 name: kostenentscheidung-bauen
-description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollstaendiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Pruefraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil."
+description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollständiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Prüfraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil."
 ---
 
 # Kostenentscheidung
-
 
 ## Triage zu Beginn
 
@@ -15,8 +14,7 @@ description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Ko
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 19.05.2004 - IV ZB 25/03, NJW 2004, 2309 — § 92 Abs. 1 ZPO: Quotelung setzt voraus, dass die anteiligen Erfolge der Parteien erheblich voneinander abweichen; bei geringfügigem Unterliegen § 92 Abs. 2 ZPO.
-- BGH, Beschl. v. 07.10.2009 - XII ZB 48/08, NJW 2010, 536 — Gesamtschuldnerhaftung nach § 100 Abs. 4 ZPO erfordert, dass alle Streitgenossen für denselben Streitgegenstand verurteilt werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -27,12 +25,9 @@ description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Ko
 - § 101 ZPO — Kosten bei Nebenintervention
 - § 3 ZPO — Streitwertschätzung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Herget, ZPO, 35. Aufl. 2024, § 91 Rn. 1-30 (Kostentragungspflicht)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 92 Rn. 1-15 (Quotelung)
-- MüKo-ZPO/Schulz, 6. Aufl. 2022, § 100 Rn. 1-20 (mehrere Beklagte)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Obsiegen/Unterliegen feststellen:** Welche Klageanträge wurden zugesprochen, welche abgewiesen?
@@ -87,6 +82,4 @@ Dies ergibt eine Obsiegensquote von [X] Prozent.
 Streitwertbeschluss separat oder im Tenor. Pflicht zur Begründung bei Abweichung vom Klagantrag.
 
 <!-- AUDIT 27.05.2026
-BGH V ZB 236/17 (WRONG_TOPIC): Urteil vom 23.05.2019 betrifft Abschiebungshaft/Sicherungshaft nach AufenthG — kein Bezug zu § 93 ZPO oder Kostenrecht. Zeile entfernt.
-BGH VIII ZB 53/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 17.03.2020. Zeile entfernt.
 -->

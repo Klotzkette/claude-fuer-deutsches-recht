@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-und-ampelsystem-starug-konform
-description: "StaRUG-konformes KPI-Set und Ampelsystem fuer Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte fuer Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Pruefraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
+description: "StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
 ---
 
 # Kennzahlenset und Ampelsystem — StaRUG-konform
@@ -16,7 +16,7 @@ Ein Ampelsystem ohne kalibrierte Schwellenwerte ist eine Farbenspielerei ohne St
 - IDW PS 340 n.F. (Risikobewertung, Schwellenwerte, Eskalationsstufen)
 - IDW S 6 Tz. 40 ff. (Leistungsfähigkeitsanalyse, Kennzahlen)
 - IDW S 11 (Beurteilung Insolvenzeröffnungsgründe — Liquiditätstest)
-- BGH IX ZR 285/14 (Sanierungsberater-Pflicht: frühzeitige KPI-Auswertung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -24,10 +24,10 @@ Ein Ampelsystem ohne kalibrierte Schwellenwerte ist eine Farbenspielerei ohne St
 
 ### 1. Warum quantitative Schwellen unverzichtbar sind
 
-Qualitative Urteile wie „die Liquidität ist angespannt" genügen nicht. § 1 StaRUG verlangt rechtzeitiges Erkennen und Handeln — das setzt messbare Auslöser voraus. Ohne definierte Schwellen:
+Qualitative Urteile wie "die Liquidität ist angespannt" genügen nicht. § 1 StaRUG verlangt rechtzeitiges Erkennen und Handeln — das setzt messbare Auslöser voraus. Ohne definierte Schwellen:
 
 - Keine objektive Eskalationspflicht auslösbar
-- Keine Beweissicherung für „rechtzeitig erkannt"
+- Keine Beweissicherung für "rechtzeitig erkannt"
 - Kein Nachweis gegenüber Insolvenzverwalter oder Gericht
 
 ### 2. Das KPI-Set — Sieben Kern-Indikatoren
@@ -232,10 +232,7 @@ MAßNAHMEN BEI GELB/ROT:
 
 ## Weitere Leitentscheidungen
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
 ## Triage — Erste Einordnung

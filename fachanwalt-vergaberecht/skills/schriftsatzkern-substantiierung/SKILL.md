@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Nachpruefungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
@@ -202,14 +202,11 @@ Vor Versand:
 2. Wurde Ruege § 160 Abs. 3 GWB fristgerecht erhoben? → Ohne Ruege NPA unzulaessig.
 3. Liegt Ablehnungsbescheid der Vergabestelle vor (15-Tage-Frist § 160 Abs. 3 Nr. 4 GWB)?
 4. Zuschlag bereits erteilt? → Feststellung Unwirksamkeit § 135 GWB oder Schadensersatz § 181 GWB
-5. Streitwert (5 % der Auftragssumme als Untergrenze BGH X ZB 1/11)?
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schluessel-Leitsaetze Schriftsatz Vergaberecht
 
-- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 Rn. 22 — Nachpruefungsantrag: Bieter muss konkrete Beeintraechtigung seiner Vergabechancen durch behaupteten Verstoss darlegen; abstrakte Rechtsverletzung genuegt nicht.
-- BGH, Beschl. v. 30.08.2011 - X ZB 1/11, NZBau 2011, 752 Rn. 24 — Streitwert im Nachpruefungsverfahren: 5 % der Auftragssumme als Richtwert.
-- OLG Dusseldorf, Beschl. v. 29.06.2022 - Verg 18/22, NZBau 2022, 511 Rn. 18 — Sachvortrag im Nachpruefungsantrag muss konkreten Verstoss bezeichnen; pauschale Ruege auf Vergabefehler genuegt nicht.
-- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 Rn. 28 — Sofortige Beschwerde gegen VK-Entscheidung: Frist 2 Wochen ab Zustellung; Begruendung kann bis 2 Wochen nach Ablauf der Beschwerdefrist nachgereicht werden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Schriftsatz Vergaberecht
 - §§ 160-163 GWB — Nachpruefungsantrag Vergabekammer

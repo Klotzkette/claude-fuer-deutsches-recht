@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-wandeldarlehen
-description: "Wandeldarlehensmandat einordnen Verfahrensroute bestimmen und erste Prioritaeten setzen. §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Vertragstyp SAFE Convertible Note Laufzeit Wandlungsereignisse offene Punkte. Output: Mandatssteckbrief Routen-Empfehlung Datenliste. Abgrenzung: Triage und Einstieg; Detailarbeit in Spezialist-Skills."
+description: "Wandeldarlehensmandat einordnen Verfahrensroute bestimmen und erste Prioritaeten setzen. §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Vertragstyp SAFE Convertible Note Laufzeit Wandlungsereignisse offene Punkte. Output: Mandatssteckbrief Routen-Empfehlung Datenliste. Abgrenzung: Triage und Einstieg; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Wandeldarlehen – Erstgespräch
@@ -32,8 +32,7 @@ Dieser Skill strukturiert das erste Gespräch mit dem Mandanten über ein beabsi
 - § 126b BGB (Textform)
 
 ### Rechtsprechung
-- BGH, Urt. v. 8. Mai 2006 – II ZR 123/05 (Voraussetzungen Wandelrecht GmbH)
-- BGH, Urt. v. 24. April 1978 – II ZR 172/76 (II ZR 172/76 – Beurkundungspflicht Vorverpflichtung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -96,9 +95,9 @@ Stand: 05/2026. Bei Änderung GmbHG/UmwStG aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 16: Wandeldarlehen ist eine zweistufige Konstruktion (§ 488 BGB + §§ 55, 56 GmbHG); bei der Triage ist sofort zu klären, in welcher Phase sich das Mandat befindet (Phase A: Vertragsgestaltung, Phase B: Trigger, Phase C: Wandlung, Phase D: Post-Closing).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.07.2008 — **IX ZR 133/14** (Rangrücktritt-Entscheidung), BGHZ 198, 64 Rn. 18: Qualifizierter Rangrücktritt ist bei Gesellschafterdarlehen (und damit auch bei Wandeldarlehen nach Wandlung) obligatorisch nach § 39 Abs. 1 Nr. 5 InsO; bei Fehlen des Rangrücktritts droht insolvenzrechtliche Anfechtung nach §§ 135, 143 InsO.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

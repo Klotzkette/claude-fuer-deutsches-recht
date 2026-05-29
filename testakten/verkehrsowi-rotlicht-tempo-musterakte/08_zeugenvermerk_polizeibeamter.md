@@ -24,35 +24,35 @@
 
 ## 2. Beobachteter Sachverhalt (eigene Wahrnehmung)
 
-> „Um 15:12 Uhr beobachtete ich im Rahmen meines Dienstauftrags die Kreuzung Innere Kanalstraße / Subbelrather Straße. Die Lichtzeichenanlage zeigte für die Fahrtrichtung Nord ROTLICHT. Ein weißer VW Transporter mit dem Kennzeichen K-JM 426 überfuhr die Haltelinie, obwohl das Rotlicht bereits anlag. Das Fahrzeug verlangsamte nicht, sondern fuhr mit erkennbar erhöhter Geschwindigkeit in den Kreuzungsbereich ein. Das Gerät ESO TraffiPhot III registrierte den Vorgang automatisch. Ich habe den Vorgang zusätzlich eigenständig wahrgenommen."
+> "Um 15:12 Uhr beobachtete ich im Rahmen meines Dienstauftrags die Kreuzung Innere Kanalstraße / Subbelrather Straße. Die Lichtzeichenanlage zeigte für die Fahrtrichtung Nord ROTLICHT. Ein weißer VW Transporter mit dem Kennzeichen K-JM 426 überfuhr die Haltelinie, obwohl das Rotlicht bereits anlag. Das Fahrzeug verlangsamte nicht, sondern fuhr mit erkennbar erhöhter Geschwindigkeit in den Kreuzungsbereich ein. Das Gerät ESO TraffiPhot III registrierte den Vorgang automatisch. Ich habe den Vorgang zusätzlich eigenständig wahrgenommen."
 >
-> „Die Rotlichtdauer zum Zeitpunkt des Überfahrens der Haltelinie entnahm ich der Gerätemessung: 1,21 Sekunden. Eine eigene Stoppuhr-Messung führte ich nicht durch; das ist bei Einsatz des TraffiPhot III standardmäßig nicht vorgesehen."
+> "Die Rotlichtdauer zum Zeitpunkt des Überfahrens der Haltelinie entnahm ich der Gerätemessung: 1,21 Sekunden. Eine eigene Stoppuhr-Messung führte ich nicht durch; das ist bei Einsatz des TraffiPhot III standardmäßig nicht vorgesehen."
 >
-> „Ich befand mich am Standfuß des Lichtmasten, ca. 5 Meter von der Haltelinie entfernt. Von dort habe ich freie Sicht auf die Haltelinie. Die Sicht auf die Ampel selbst war durch den Mast leicht eingeschränkt, jedoch konnte ich den Phasenwechsel an der Seitenanzeige erkennen."
+> "Ich befand mich am Standfuß des Lichtmasten, ca. 5 Meter von der Haltelinie entfernt. Von dort habe ich freie Sicht auf die Haltelinie. Die Sicht auf die Ampel selbst war durch den Mast leicht eingeschränkt, jedoch konnte ich den Phasenwechsel an der Seitenanzeige erkennen."
 
 ---
 
 ## 3. Angaben zur Fahreridentifikation
 
-> „Das Frontfoto zeigt deutlich das Kennzeichen K-JM 426. Eine Person ist auf dem Foto erkennbar. Die genaue Identifizierung des Fahrers durch mich persönlich ist nicht erfolgt; das Foto wurde dem Landesamt übermittelt."
+> "Das Frontfoto zeigt deutlich das Kennzeichen K-JM 426. Eine Person ist auf dem Foto erkennbar. Die genaue Identifizierung des Fahrers durch mich persönlich ist nicht erfolgt; das Foto wurde dem Landesamt übermittelt."
 
 ---
 
 ## 4. Angaben zur Fahrspurkorrektur
 
-> „Im Messprotokoll hatte ich anfänglich ‚Fahrspur 2' eingetragen. Dies war ein Schreibfehler meinerseits. Das Fahrzeug befuhr die Spur 1 (die rechte Fahrspur in nördlicher Richtung). Ich habe den Fehler am Einsatztag um 16:04 Uhr handschriftlich korrigiert und mit meinen Initialen (KK) sowie dem Datum versehen. Die Korrektur hat auf die Messergebnisse keinerlei Einfluss, da die Schleifenzuordnung im Gerät elektrisch erfolgt."
+> "Im Messprotokoll hatte ich anfänglich 'Fahrspur 2' eingetragen. Dies war ein Schreibfehler meinerseits. Das Fahrzeug befuhr die Spur 1 (die rechte Fahrspur in nördlicher Richtung). Ich habe den Fehler am Einsatztag um 16:04 Uhr handschriftlich korrigiert und mit meinen Initialen (KK) sowie dem Datum versehen. Die Korrektur hat auf die Messergebnisse keinerlei Einfluss, da die Schleifenzuordnung im Gerät elektrisch erfolgt."
 
 ---
 
 ## 5. Beurteilung der Witterung und Sichtverhältnisse
 
-> „Es war trocken und sonnig. Die Sonne stand tief (Nachmittagsstand). Die Blendung durch die Sonne war bemerkbar, hat aber meinen Blick auf die Haltelinie nicht wesentlich beeinträchtigt, da ich seitlich zur Fahrtrichtung stand. Das Messgerät arbeitet mit eigenem Blitzlicht, sodass die Sonneneinstrahlung auf die Aufnahmequalität begrenzte Auswirkungen haben dürfte."
+> "Es war trocken und sonnig. Die Sonne stand tief (Nachmittagsstand). Die Blendung durch die Sonne war bemerkbar, hat aber meinen Blick auf die Haltelinie nicht wesentlich beeinträchtigt, da ich seitlich zur Fahrtrichtung stand. Das Messgerät arbeitet mit eigenem Blitzlicht, sodass die Sonneneinstrahlung auf die Aufnahmequalität begrenzte Auswirkungen haben dürfte."
 
 ---
 
 ## 6. Ergänzende Angaben zu Schulung und Gerät
 
-> „Ich bin seit September 2022 auf das ESO TraffiPhot III geschult (Refresher März 2024). Das Gerät war nach meinem Kenntnisstand zum Einsatztag gültig geeicht. Den Eichschein habe ich vor dem Einsatz geprüft. Aufbau und Abbau des Geräts erfolgten nach der Bedienungsanleitung. Das Gerät zeigte beim Einschalt-Selbsttest den Fehlercode 00000 (fehlerfrei). Vor dem Einsatz führte ich eine Referenzfahrt durch, die korrekte Werte ergab."
+> "Ich bin seit September 2022 auf das ESO TraffiPhot III geschult (Refresher März 2024). Das Gerät war nach meinem Kenntnisstand zum Einsatztag gültig geeicht. Den Eichschein habe ich vor dem Einsatz geprüft. Aufbau und Abbau des Geräts erfolgten nach der Bedienungsanleitung. Das Gerät zeigte beim Einschalt-Selbsttest den Fehlercode 00000 (fehlerfrei). Vor dem Einsatz führte ich eine Referenzfahrt durch, die korrekte Werte ergab."
 
 ---
 
@@ -79,7 +79,7 @@ Der Vermerk wurde durch die Kanzlei am 02.06.2026 nach Erhalt der Akteneinsicht 
 | Nr. | Befragungspunkt | Ziel |
 |---|---|---|
 | 1 | Position des Beamten (5 m von Haltelinie, seitlich) | Sichtwinkel auf Haltelinie und Ampel klären |
-| 2 | „Seitenanzeige" der Ampel – welche Seite genau? | Wahrnehmung der Rotphase hinterfragen |
+| 2 | "Seitenanzeige" der Ampel – welche Seite genau? | Wahrnehmung der Rotphase hinterfragen |
 | 3 | Eigene Rotzeitmessung – nicht durchgeführt | Keine eigene Zeitwahrnehmung belegt |
 | 4 | Fahrspurkorrektur Beweggründe | Blendung als Erklärung? Wann bemerkt? |
 | 5 | Personalausweis-Feststellung des Fahrers? | Kein Anhaltegespräch stattgefunden |

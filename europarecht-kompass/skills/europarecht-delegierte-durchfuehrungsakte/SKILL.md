@@ -1,6 +1,6 @@
 ---
 name: europarecht-delegierte-durchfuehrungsakte
-description: "Delegierte Rechtsakte und Durchfuehrungsrechtsakte der EU einordnen und deren Verbindlichkeit pruefen. Art. 290 291 AEUV Delegierung. Pruefraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht fuer primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung)."
+description: "Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung)."
 ---
 
 # Delegierte und Durchführungsakte
@@ -57,9 +57,7 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 05.09.2012 - C-355/10 (Parlament/Rat), EuZW 2012, 793 — Abgrenzung Art. 290/291 AEUV: wesentliche Elemente des Basisrechtsakts muessen vom Gesetzgeber selbst geregelt werden; Delegation wesentlicher politischer Entscheidungen an Kommission unzulaessig.
-- EuGH, Urt. v. 11.05.2017 - C-636/15 (Spanien/Kommission), EuZW 2017, 640 — Durchfuehrungsakt Art. 291: Kommission hat nur Durchfuehrungsspielraum; keine neuen Regeln die ueber das hinausgehen was im Basisrechtsakt vorgesehen; Widerspruchsrecht Rat und EP.
-- EuGH, Urt. v. 22.01.2014 - C-270/12 (UK/Parlament und Rat), EuZW 2014, 276 — ESMA-Sonderbefugnisse: EU-Agentur kann im Rahmen klar begrenzter Bedinungen mit Einzelfallentscheidungen ausgestattet werden; Meroni-Doktrin einschraenkend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette
 

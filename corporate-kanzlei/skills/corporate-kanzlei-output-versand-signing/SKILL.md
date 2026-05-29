@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-output-versand-signing
-description: "Signing-Management und Output-Verteilung fuer M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Pruefraster: Formerfordernis pro Vertrag, Signatur-Reihenfolge, Counterpart-Klauseln, Exekutions-Bestaetigungen. Output Signing-Protokoll, Signaturseiten-Matrix, Verteilungsliste. Abgrenzung: Closing-Bedingungen siehe signing-closing-conditions; Archivierung siehe closing-bible-archiv."
+description: "Signing-Management und Output-Verteilung für M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Prüfraster: Formerfordernis pro Vertrag, Signatur-Reihenfolge, Counterpart-Klauseln, Exekutions-Bestätigungen. Output Signing-Protokoll, Signaturseiten-Matrix, Verteilungsliste. Abgrenzung: Closing-Bedingungen siehe signing-closing-conditions; Archivierung siehe closing-bible-archiv."
 ---
 
 # Output, Versand und Signing-Management
@@ -25,15 +25,11 @@ description: "Signing-Management und Output-Verteilung fuer M&A-Vertraege: Koord
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.07.2019 - III ZR 202/18, NJW 2019, 2923 — Schriftform-Substitut eSignatur: einfache eSignatur (Scan) reicht nur fuer vertragliche, nicht gesetzliche Schriftform; bei § 126 BGB muss QES angewendet werden
-- BGH, Urt. v. 23.01.2020 - VII ZR 234/18, NJW 2020, 1137 — Counterpart-Signing: Signing-Seiten koennen separat unterzeichnet und zusammengefuegt werden; vollstaendige Vertragsfassung muss aber vorab vereinbart sein
-- OLG Frankfurt, Urt. v. 14.05.2021 - 25 U 37/20, NZG 2021, 1032 — Virtuelle Signing-Prozedur: wenn alle Beteiligten dieselbe Endfassung unterschreiben (per Counterpart), ist Vertrag wirksam geschlossen; keine Anwesenheitspflicht am selben Ort
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Einsele § 126 Rn. 1 ff. — Schriftform; eSignatur
-- MueKo BGB/Einsele § 126a Rn. 1 ff. — elektronische Form
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Signing-Verfahren: Vergleich
 
 | Methode | Vorteile | Nachteile | Einsatz |
@@ -101,5 +97,5 @@ RUECKFRAGEN: [NAME, EMAIL, TEL]
 ## Quellen
 
 - §§ 126, 126a, 127, 128 BGB; eIDAS-VO (EU) 910/2014; §§ 1-14 BeurkG
-- BGH III ZR 202/18 (eSignatur vs. § 126 BGB); BGH VII ZR 234/18 (Counterpart-Signing)
-- MueKo BGB/Einsele §§ 126, 126a
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

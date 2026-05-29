@@ -1,6 +1,6 @@
 ---
 name: anw-betriebsausgaben-werbungskosten-pruefraster
-description: "Pruefraster Betriebsausgaben § 4 Abs. 4 EStG und Werbungskosten § 9 EStG abgrenzen von Kosten der privaten Lebensfuehrung § 12 EStG. Anwendungsfall Mandant fragt ob Ausgabe steuerlich absetzbar ist Finanzamt streicht Posten oder Betriebspruefung beanstandet Abzug. Aufteilungsgebot gemischt veranlasste Aufwendungen GrS BFH GrS 1/06. Spezialfall Arbeitsmittel doppelte Haushaltsfuehrung Fahrtkosten Pendlerpauschale Verpflegungsmehraufwand Fortbildung Studienreisen Pkw-Nutzung Bewirtungsaufwendungen § 4 Abs. 5 EStG Geschenke Sponsoring. Nachweispflicht Aufzeichnungspflichten § 4 Abs. 7 EStG. Output Pruefprotokoll Abzugs- entscheidung Empfehlung Belegnachweise."
+description: "Workflow-Skill zu anw betriebsausgaben werbungskosten pruefraster. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster
@@ -53,7 +53,7 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 
 ### Aufteilungsgebot
 
-- **GrS BFH GrS 1/06** — Aufteilung sachgerecht möglich
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Reine privat-betriebliche Aufteilung nach **objektiven Kriterien**
 - Bei Aufteilbarkeit: anteiliger Abzug
 - Bei Untrennbarkeit: vollständiger Abzug oder Verbot je nach Schwerpunkt
@@ -135,7 +135,7 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 
 ### Sponsoring
 
-- BFH I R 23/02 — Werbung-Charakter prüfen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei genuinem Werbe-Effekt abzugsfähig
 
 ### Spenden § 10b EStG
@@ -195,7 +195,7 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 
 - EStG §§ 4 6 9 10 10b 12
 - AO §§ 90 147
-- BFH GrS 1/06 (Aufteilungsgebot)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-Std-Spruch
 - Schmidt EStG
 - Frotscher/Geurts EStG

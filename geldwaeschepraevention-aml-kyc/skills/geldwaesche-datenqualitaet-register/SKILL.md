@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-datenqualitaet-register
-description: "Prueft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollstaendige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Pruefraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwaesche-ubo-wirtschaftlich-berechtigte und geldwaesche-transparenzregister."
+description: "Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Prüfraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-transparenzregister."
 ---
 
 # Datenqualität, Register und Screening-Tools
@@ -12,10 +12,7 @@ description: "Prueft Datenqualitaet im KYC-System und Transparenzregister-Abglei
 4. Gibt es einen Audit-Trail-Anforderung oder eine Behoerdenpruefung zu den Daten?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Sanktionsscreening mit veralteten oder qualitativ minderwertigen Daten erfullt nicht die Sorgfaltsanforderungen des § 25h KWG.
-- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin beanstandet systematische Datenqualitaetsprobleme im KYC-Register als Verstoss gegen § 10 GwG (Sorgfaltspflichten).
-- EuGH, Urt. v. 11.11.2020 - C-801/19, EuZW 2021, 120 — Datenaktualisierungspflicht im Transparenzregister nach AMLD5 verlangt regelmaessige Revision und Unstimmigkeitsmeldung.
-- OVG Berlin-Brandenburg, Beschl. v. 12.09.2017 - OVG 1 S 67.17, NVwZ-RR 2018, 67 — Transparenzregister-Eintragung muss inhaltlich korrekt und vollstaendig sein; Bussgeldbewehrung bei Fehlern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 10 GwG — Allgemeine Sorgfaltspflichten: Identifizierung und Ueberpruefung von Kundendaten
@@ -23,10 +20,9 @@ description: "Prueft Datenqualitaet im KYC-System und Transparenzregister-Abglei
 - § 23a GwG — Unstimmigkeitsmeldung an Transparenzregister
 - Art. 5 DSGVO — Datengenauigkeit und -aktualitaet als Datenschutzgrundsatz
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 10 Rn. 40-80 (Identifizierung: Datenqualitaet und Aktualisierung)
-- Sydow/Marsch DSGVO Art. 5 Rn. 30-50 (Datengenauigkeit in regulierten Branchen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill härtet die Datenbasis, damit KYC und Screening nicht an schlechten Stammdaten scheitern.

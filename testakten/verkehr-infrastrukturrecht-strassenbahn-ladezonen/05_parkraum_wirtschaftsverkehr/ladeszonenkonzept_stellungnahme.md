@@ -1,4 +1,4 @@
-# E-Mail: Stellungnahme der Bürgerinitiative „Westpark lebenswert e.V." zum Ladeszonenkonzept
+# E-Mail: Stellungnahme der Bürgerinitiative "Westpark lebenswert e.V." zum Ladeszonenkonzept
 
 ---
 
@@ -13,7 +13,7 @@
 
 Sehr geehrte Damen und Herren des Planungsamts,
 
-die Bürgerinitiative „Westpark lebenswert e.V." nimmt mit diesem Schreiben – stellvertretend für 847 Unterzeichnerinnen und Unterzeichner unserer Petition (Stand: 10. Juli 2026) – Stellung zum Entwurf des Wirtschaftsverkehrs- und Ladeszonenkonzepts der Stadt Friedrichshöfe (Vorlage DS-2026/0311, Beschlussfassung im Ausschuss für Stadtentwicklung und Verkehr vorgesehen für den 21. Juli 2026).
+die Bürgerinitiative "Westpark lebenswert e.V." nimmt mit diesem Schreiben – stellvertretend für 847 Unterzeichnerinnen und Unterzeichner unserer Petition (Stand: 10. Juli 2026) – Stellung zum Entwurf des Wirtschaftsverkehrs- und Ladeszonenkonzepts der Stadt Friedrichshöfe (Vorlage DS-2026/0311, Beschlussfassung im Ausschuss für Stadtentwicklung und Verkehr vorgesehen für den 21. Juli 2026).
 
 Wir begrüßen grundsätzlich, dass die Stadt das seit Jahren bestehende Problem des Lieferverkehrs in zweiter Reihe in der Marktstraße und am Siemensring endlich konzeptionell angehen will. Die vorgeschlagenen Maßnahmen sind jedoch aus unserer Sicht in wesentlichen Punkten unzureichend oder ohne hinreichende Rechtsgrundlage. Im Einzelnen:
 
@@ -64,7 +64,7 @@ Wir bitten um schriftliche Stellungnahme zu unseren Punkten und eine Einladung z
 
 Mit freundlichen Grüßen
 
-**Bürgerinitiative „Westpark lebenswert e.V."**
+**Bürgerinitiative "Westpark lebenswert e.V."**
 Vorstand: Margit Schönfeld (1. Vorsitzende), Dr. Reinhard Paasch (2. Vorsitzender), Petra Klose (Schatzmeisterin)
 Westparkstraße 3, 47112 Friedrichshöfe
 E-Mail: buergerinitiative-westpark@posteo.de

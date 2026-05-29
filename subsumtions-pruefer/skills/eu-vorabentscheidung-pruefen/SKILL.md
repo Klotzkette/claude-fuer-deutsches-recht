@@ -1,6 +1,6 @@
 ---
 name: eu-vorabentscheidung-pruefen
-description: "Prueft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen."
+description: "Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen."
 ---
 
 # EU-Vorabentscheidung prüfen (Art. 267 AEUV)
@@ -13,14 +13,14 @@ Das Vorabentscheidungsverfahren nach Art. 267 AEUV ermöglicht nationalen Gerich
 
 ### 1. Vorlagebefugnis (Art. 267 Abs. 2 AEUV)
 
-Berechtigt zur Vorlage ist jedes „Gericht eines Mitgliedstaats". Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:
+Berechtigt zur Vorlage ist jedes "Gericht eines Mitgliedstaats". Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:
 - Gesetzliche Grundlage des Spruchkörpers
 - Ständiger Charakter
 - Obligatorische Gerichtsbarkeit
 - Kontradiktorisches Verfahren
 - Anwendung von Rechtsnormen
 
-Auch Schiedsgerichte können vorlegen, wenn sie im öffentlichen Interesse errichtet sind (EuGH, Rs. C-102/81 — Nordsee: private Schiedsgerichte grundsätzlich nicht vorlagebefugt).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Vorlagepflicht (Art. 267 Abs. 3 AEUV)
 
@@ -41,7 +41,7 @@ Vorlage ist möglich für:
 
 ## CILFIT-Ausnahmen (Befreiung von der Vorlagepflicht)
 
-EuGH, Rs. 283/81 — CILFIT (1982) und EuGH, Rs. C-561/19 — Consorzio (2021):
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. **Acte clair:** Die Auslegung ist so offenkundig, dass kein vernünftiger Zweifel verbleibt; das Gericht muss sich vergewissern, dass andere Mitgliedstaaten und der EuGH dieselbe Auffassung teilen würden.
 
@@ -57,7 +57,7 @@ Das System unterstützt bei der Formulierung der Vorlagefrage:
 - Kein Verweis auf nationales Recht
 - Entscheidungserheblichkeit erkennbar
 
-Beispiel: „Ist Art. 6 Abs. 1 Buchst. f der Verordnung 2016/679 dahin auszulegen, dass die Verarbeitung personenbezogener Daten zur Direktwerbung als berechtigtes Interesse des Verantwortlichen anzusehen ist, wenn der Betroffene nachweislich Widerspruch eingelegt hat?"
+Beispiel: "Ist Art. 6 Abs. 1 Buchst. f der Verordnung 2016/679 dahin auszulegen, dass die Verarbeitung personenbezogener Daten zur Direktwerbung als berechtigtes Interesse des Verantwortlichen anzusehen ist, wenn der Betroffene nachweislich Widerspruch eingelegt hat?"
 
 ## Verfahrensablauf
 

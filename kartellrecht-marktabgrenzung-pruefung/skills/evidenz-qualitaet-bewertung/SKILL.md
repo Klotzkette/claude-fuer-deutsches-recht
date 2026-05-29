@@ -1,6 +1,6 @@
 ---
 name: evidenz-qualitaet-bewertung
-description: "Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege fuer eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation."
+description: "Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege für eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation."
 ---
 
 # Evidenz-Qualitätsbewertung
@@ -73,10 +73,8 @@ Selektivitätsrisiko: [niedrig / mittel / hoch]
 
 ## Leitentscheidungen Evidenzqualitaet
 
-- EuGH, Urt. v. 10.07.2008 — C-413/06 P (Bertelsmann/Sony), Slg. 2008, I-4951 — Oekonomische Gutachten vor EuGH; Beweiswuerdigung; Sachverstaendige EK und Parteien; Gesamtschau.
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Qualitaetsanforderungen an Marktdefinitions-Begruendung der EK; nicht nur kumulative Behauptungen.
-- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Deutsche Rezeption; oekonomische Sachverstaendige als Beweismittel; Gericht prueft selbst nach § 86 VwGO-Pendant.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-30 (Beweislast, Beweismittel, Sachverstaendige)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

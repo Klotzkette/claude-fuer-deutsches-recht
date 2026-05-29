@@ -37,7 +37,7 @@ gem. § 1850 Nr. 1 BGB i.V.m. §§ 1849 ff. BGB
 
 ## I. Sachverhalt
 
-Der Unterzeichner wurde durch Beschluss des Amtsgerichts Mitte vom 18. November 2024 (Az. 70 XVII 4421/24) als Berufsbetreuer für Frau Hildegard Sauer, geboren am 03. Juni 1939 in Stettin, wohnhaft im Pflegeheim „Haus Charlottenstift", Charlottenstraße 88, 10117 Berlin, bestellt.
+Der Unterzeichner wurde durch Beschluss des Amtsgerichts Mitte vom 18. November 2024 (Az. 70 XVII 4421/24) als Berufsbetreuer für Frau Hildegard Sauer, geboren am 03. Juni 1939 in Stettin, wohnhaft im Pflegeheim "Haus Charlottenstift", Charlottenstraße 88, 10117 Berlin, bestellt.
 
 Der Aufgabenkreis umfasst u.a. die Vermögenssorge und die Wohnungsangelegenheiten.
 

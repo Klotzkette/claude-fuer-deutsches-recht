@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsbeauftragter-und-sachwalter
-description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Glaeubigervertreter prueft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Pruefraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug."
+description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug."
 ---
 
 # Restrukturierungsbeauftragter und Sachwalter — § 73 StaRUG
@@ -191,10 +191,9 @@ Sonstiges:
 
 ## Aktuelle Leitentscheidungen — Restrukturierungsbeauftragter und Sachwalter
 
-- BGH, Urt. v. 06.07.2017 — IX ZB 105/15, NZI 2017, 807 — Sachwalterauswahl § 270d InsO: Gericht kann Vorschlag uebergehen wenn Unabhaengigkeit nicht gewahrt; frueherer Berater des Schuldners in derselben Sache nicht geeignet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- BGH, Urt. v. 22.11.2018 — IX ZB 14/18, NZI 2019, 91 — Restrukturierungsbeauftragter § 73 StaRUG: bestellter Restrukturierungsbeauftragter hat umfassende Pruef- und Berichtspflichten; Unabhaengigkeit erforderlich; frueherer GmbH-Berater problematisch.
-- BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Aufhebung Schutzschirm: wenn Schuldner Schutzschirmverpflichtungen verletzt kann Gericht Eigenverwaltung aufheben und Sachwalter zum IV bestellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -207,13 +206,6 @@ Sonstiges:
 3. **Interessen-Konflikt?** Sachwalter darf kein eigenes Interesse an Verwertungs-Ergebnis haben.
 4. **Pflichten-Umfang?** § 274 InsO: Kassenprueung, Zahlungsverkehr-Kontrolle, Bericht an Gericht und Ausschuss.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kern §§ 270-285 InsO — Eigenverwaltung und Sachwalter.
-- Uhlenbruck/Zipperer §§ 270-270f InsO — Schutzschirm und Sachwalterauswahl.
-- Braun/Herzig, StaRUG §§ 73-90 — Restrukturierungsbeauftragter.
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
-- GELOESCHT: BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 (Status: NOT_FOUND; Entscheidung in dejure.org-Datenbank nicht auffindbar; kein Nachweis einer realen Entscheidung BGH IX ZR 178/08 vom 08.10.2009)
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

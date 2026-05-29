@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Pruefraster: Sachverhaltserfassung Schutzfaehigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
+description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Prüfraster: Sachverhaltserfassung Schutzfähigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Urheber- und Medienrecht
@@ -26,10 +26,7 @@ description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 12.11.2009 – I ZR 166/07, GRUR 2010, 616 Rn. 24 – marions-kochbuch.de: Streitwert bei Urheberrechtsverletzungen im Internet; Einzelbild bei gewerblichem Kontext typisch 6.000-10.000 EUR je Foto.
-- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 17 – Posterlounge: Schadensersatz nach Lizenzanalogie erfordert Feststellung der ortsueblicherweise zu zahlenden Lizenz; MFM-Tarife als Richtwert bei Pressefotografie.
-- BGH, Urt. v. 18.12.2018 – VI ZR 439/17, NJW 2019, 1881 Rn. 9 – Persoenlichkeitsrecht Online: Bereithalten identifizierender Berichterstattung im Online-Archiv eines Presseorgans begruendet Unterlassungsanspruch nach Abwaegung; Streitwert 15.000-50.000 EUR je nach Schwere.
-- BVerfG, Beschl. v. 25.06.2009 – 1 BvR 134/03, NJW 2010, 47 Rn. 18: Anwaltliche Vertretung bei Presserecht und Persoenlichkeitsrechtssachen; § 43a BRAO Interessenkonflikt bei Vertretung des Presseorgans und des Betroffenen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Phasen des Erstgespraechs
 
@@ -60,7 +57,7 @@ Standard-Streitwerte im Urheber- und Medienrecht:
 |---------|---------------------|------|
 | Einzel-Foto Verletzung | 6.000-10.000 EUR | BGH marions-kochbuch.de |
 | Filesharing Film/Musik | 1.000-10.000 EUR | § 97a Abs. 3 UrhG |
-| Persoenlichkeitsrecht Boulevard | 15.000-50.000 EUR | BGH VI ZR Rspr. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Gegendarstellung Presse | 10.000-30.000 EUR | OLG-Rspr. |
 | Software Open Source | 5.000-50.000 EUR | Marktbedeutung |
 

@@ -1,6 +1,6 @@
 ---
 name: verjaehrungsfrist-pruefen-195-bgb
-description: "Pruefung von Verjaehrungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjaehrbaren Anspruechen."
+description: "Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen."
 ---
 
 # Ist Ihre Forderung schon verjaehrt?

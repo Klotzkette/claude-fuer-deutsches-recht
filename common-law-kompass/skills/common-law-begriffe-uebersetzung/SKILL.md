@@ -1,13 +1,13 @@
 ---
 name: common-law-begriffe-uebersetzung
-description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht woertliche Uebersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Pruefraster Zielrechtsordnung-Pruefung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklaerung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen)."
+description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen)."
 ---
 
 # Begriffs- und Übersetzungswerkstatt
 
 ## Zweck
 
-Der Skill baut mandatsbezogene Glossare mit Do/Don’t-Spalte und Formulierungen für deutsches Recht in englischer Sprache.
+Der Skill baut mandatsbezogene Glossare mit Do/Don't-Spalte und Formulierungen für deutsches Recht in englischer Sprache.
 
 ## Wann verwenden
 

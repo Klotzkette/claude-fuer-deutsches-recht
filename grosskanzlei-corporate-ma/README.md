@@ -1,10 +1,23 @@
-# Big-Law-Großkanzlei-Corporate-M&A-Plugin
+# Big-Law-Großkanzlei-Corporate/M&A-Plugin
 
 Technischer Plugin-Name: `grosskanzlei-corporate-ma`.
 
 Dies ist das freistehende Großkanzlei-Corporate/M&A-Plugin für den gesamten Transaktionslebenszyklus: Intake, Aktenanlage, Konflikt-/GwG-/Sanktionscheck, Datenraum, Due Diligence, Tabellenreview, Liquiditätsvorschau, Insolvenzreife, Q&A, SPA/APA, Disclosure Schedules, Signing, Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, Umwandlungssteuerrecht, KG/GmbH & Co. KG, StaRUG, Insolvenzplan, Distressed M&A, Board Paper, PMI, Deal-PMO, Billing, XRechnung/ZUGFeRD-Vorbereitung, GoBD-Protokoll und Closing Bible.
 
+Für neue Nutzerinnen und Nutzer gibt es zusätzlich einen **Anfänger-/First-Year-Associate-Modus**: Das Plugin fragt bei Bedarf am Anfang, wie viel Führung gewünscht ist, erklärt Deal-Begriffe nur dort, wo sie gebraucht werden, zerlegt Aufgaben in kleine Schritte und setzt Senior-Review-Gates, bevor etwas an Mandanten, Gegenseite, Notar, Bank oder Behörde geht.
+
 **Wichtig:** Dieses Plugin funktioniert vollständig allein. Alle Kernabläufe, Hilfstabellen, Prüfungsschablonen und Workflows liegen im Plugin selbst; für die hier beschriebenen M&A-Workflows ist keine Zusatzinstallation nötig.
+
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **sachverstaendigengutachten ki vorwurf lg regensburg sieglinger** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
 
 ## Direkt-Download
 
@@ -35,6 +48,7 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 | Modul | Enthaltene Funktion |
 | --- | --- |
+| Anfänger-Modus | Geführter First-Year-Associate-Workflow mit Level-Abfrage, Begriffserklärungen, Kleinschritten und Senior-Review-Gates. |
 | Aktenanlage | Deal-Akte, Aktenzeichen, Parteienregister, Ordnerplan, Datenraumspiegel, Closing-Bible-Grundgerüst. |
 | Tabellenreview | Interner Review-Würfel für Dokumente, Datenpunkte, Tabellen, Formeln und Perspektiven. |
 | Liquiditätsvorschau | 3-Wochen-Prüfung, 13-Wochen-Cash-Bridge, Runway, OPOS, Bankdaten, Distressed-M&A-Ampel. |
@@ -47,6 +61,7 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 | Skill | Zweck |
 | --- | --- |
+| `grosskanzlei-corporate-ma-anfaenger-modus` | Anfänger- und First-Year-Associate-Modus: fragt Erfahrungslevel, Deal-Phase, Aufgabe, Frist und gewünschte Führung ab; erklärt Begriffe, zerlegt Aufgaben in kleine Schritte, routet zu Spezialskills und setzt Senior-Review-Gates. |
 | `grosskanzlei-corporate-ma-automation-monitoring` | Automationen und Monitoring: Entwirft Monitore für Datenraum-Neuzugänge, Q&A, CP-Deadlines, Registerupdates, News, MAR-Signale und PMI-Aufgaben. |
 | `grosskanzlei-corporate-ma-billing-narratives` | Big-Law Billing Narratives: erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, Cap/Success-Fee-Hinweise und Matter-Controlling. |
 | `grosskanzlei-corporate-ma-board-paper-business-judgment` | Board Paper und Business Judgment: Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat mit Informationsgrundlage, Alternativen, Risiken und KI-Einsatztransparenz. |

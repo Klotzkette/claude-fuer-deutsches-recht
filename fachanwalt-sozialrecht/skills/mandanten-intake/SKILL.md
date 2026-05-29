@@ -1,6 +1,6 @@
 ---
 name: mandanten-intake
-description: "Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Pruefraster: Geburtsdatum Versichertennummer zustaendige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebuehren und GwG-Check)."
+description: "Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check)."
 ---
 
 # Mandanten-Intake (Sozialrecht)
@@ -84,12 +84,8 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 26.04.1994 - 1 RK 16/93, SozR 3-2500 § 13 Nr. 10 Rn. 14 — Der Beratungsanspruch nach § 14 SGB I ist umfassend; die Behörde muss von sich aus auf alle Leistungen hinweisen, die nach der Aktenlage in Betracht kommen (sozialrechtlicher Herstellungsanspruch).
-- BSG, Urt. v. 11.03.2004 - B 13 RJ 16/03 R, SozR 4-1200 § 14 Nr. 5 Rn. 19 — Der sozialrechtliche Herstellungsanspruch setzt voraus, dass die Behörde eine ihr obliegende Pflicht verletzt hat und diese Pflichtverletzung kausal für den Nachteil des Versicherten war; der Mandant ist so zu stellen, als hätte die Behörde richtig beraten.
-- BSG, Urt. v. 24.01.2013 - B 14 AS 158/12 R, SozR 4-4200 § 37 Nr. 5 Rn. 15 — Die Antragstellung ist im Sozialrecht konstitutiv; ohne wirksamen Antrag entsteht kein Anspruch auf Leistungen, auch wenn ein Bedarf tatsächlich bestand. Das Datum des Eingangs des Antrags ist für die Wirkung entscheidend.
-- BSG, Urt. v. 29.11.2018 - B 14 AS 31/17 R, SozR 4-4200 § 36 Nr. 5 Rn. 12 — Sozialdaten (§ 67 SGB X) unterliegen besonderem Schutz; Offenbarungen dürfen nur auf gesetzlicher Grundlage oder mit ausdrücklicher Einwilligung des Betroffenen erfolgen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kasseler Kommentar Sozialversicherungsrecht, Mrozynski § 14 SGB I Rn. 1 ff. (Beratungspflicht)
-- Hauck/Noftz SGB X, § 67 Rn. 1 ff. (Sozialdatenschutz)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

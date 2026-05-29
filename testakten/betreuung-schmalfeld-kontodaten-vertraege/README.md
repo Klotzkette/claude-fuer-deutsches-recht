@@ -1,5 +1,14 @@
 # Testakte Betreuung Schmalfeld: Kontodaten und verdächtige Verträge
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-betreuung-schmalfeld-kontodaten-vertraege` (diese Akte) | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Diese fiktive Beispielakte gehört zum Plugin `betreuungsrecht`, Skill
 `kontodaten-vertragsverdacht-pruefung`.
 

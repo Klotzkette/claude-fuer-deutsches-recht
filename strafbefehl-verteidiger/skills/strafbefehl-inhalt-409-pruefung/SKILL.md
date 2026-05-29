@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-inhalt-409-pruefung
-description: "Prueft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgruende. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste."
+description: "Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste."
 ---
 
 # Strafbefehlsinhalt pruefen — § 409 StPO
@@ -27,10 +27,8 @@ description: "Prueft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestan
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 22.02.2022 - 4 StR 482/21, NStZ 2022, 439 — Tatbeschreibung im Strafbefehl muss den Sachverhalt so konkret bezeichnen, dass der Angeklagte weiss, welche einzelne Tat ihm vorgeworfen wird; pauschale Formulierung "in 2020 und 2021 mehrfach" genuegt nicht dem Bestimmtheitsgrundsatz.
-- OLG Bamberg, Beschl. v. 15.11.2021 - 3 Ss OWi 1411/21, NZV 2022, 108 — Fehlen der Tagessatzhoehe im Strafbefehl (§ 409 Abs. 1 Nr. 6 StPO) fuehrt zur Aufhebung; ohne Tagessatzhoehe ist Rechtsfolge nicht vollstreckbar.
-- BVerfG, Beschl. v. 25.10.2006 - 2 BvR 1682/06, NJW 2007, 204 — Art. 103 Abs. 2 GG gilt auch im Strafbefehlsverfahren; eine Verurteilung fuer eine nicht hinreichend bestimmte Tat verletzt das Bestimmtheitsgebot.
-- OLG Frankfurt a.M., Beschl. v. 06.04.2020 - 1 Ss 51/20, NStZ-RR 2020, 282 — Fehlt die Belehrung ueber das Einspruchsrecht (§ 409 Abs. 1 Nr. 7 StPO) oder ist sie fehlerhaft, laeuft die Einspruchsfrist nicht an; Wiedereinsetzung ist zu gewaehren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -41,13 +39,9 @@ description: "Prueft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestan
 - **Art. 103 Abs. 2 GG** — Bestimmtheitsgrundsatz
 - **§ 40 StGB** — Tagessatz-System (Anzahl nach Schuld, Hoehe nach Einkommen)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 409 Rn. 1-20 (Pflichtinhalt im Einzelnen)
-- SK-StPO / Weßlau § 409 (Nichtigkeit und Heilung bei Formfehlern)
-- Fischer StGB § 40 Rn. 1-25 (Tagessatzsystem, Berechnungsmethode)
-- Schoenke/Schroeder/Kinzig StGB § 46 Rn. 1-50 (Strafzumessungserwagungen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruef-Checkliste Strafbefehlsinhalt
 
 ```

@@ -1,6 +1,6 @@
 ---
 name: stb-susa-kreditorenliste-ova
-description: "Kreditoren-Saldenliste OVA Offene-Verbindlichkeiten-Auswertung. Anwendungsfall Monats- oder Quartalsauswertung Zahlungsdisposition Lieferanten-Analyse Bilanzvorbereitung. Methodik Faelligkeitsstaffel Top-Lieferanten Skonti-Optionen. Output Kreditoren-Liste mit Faelligkeit Zahlungsempfehlung."
+description: "Kreditoren-Saldenliste OVA Offene-Verbindlichkeiten-Auswertung. Anwendungsfall Monats- oder Quartalsauswertung Zahlungsdisposition Lieferanten-Analyse Bilanzvorbereitung. Methodik Fälligkeitsstaffel Top-Lieferanten Skonti-Optionen. Output Kreditoren-Liste mit Fälligkeit Zahlungsempfehlung."
 ---
 
 # Kreditoren-Saldenliste (OVA) — Offene Verbindlichkeiten

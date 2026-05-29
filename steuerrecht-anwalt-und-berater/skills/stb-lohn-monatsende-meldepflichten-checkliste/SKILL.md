@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-monatsende-meldepflichten-checkliste
-description: "Lohn-Meldepflichten zum Monatsende Checkliste LSt-Anmeldung SV-Beitragsnachweis DEUEV BG-Lohnnachweis. Anwendungsfall standardisierter Pruefablauf vor Monatsende und Fristen Auswertung. Methodik Pruefliste Termincontrolling. Output Erledigungs-Liste."
+description: "Lohn-Meldepflichten zum Monatsende Checkliste LSt-Anmeldung SV-Beitragsnachweis DEUEV BG-Lohnnachweis. Anwendungsfall standardisierter Prüfablauf vor Monatsende und Fristen Auswertung. Methodik Prüfliste Termincontrolling. Output Erledigungs-Liste."
 ---
 
 # Monatsende-Meldepflichten Lohn — Checkliste

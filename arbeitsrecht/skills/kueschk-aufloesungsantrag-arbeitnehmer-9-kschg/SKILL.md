@@ -22,17 +22,11 @@ description: "Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung 
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — Der Arbeitnehmer hat nach § 9 Abs. 1 Satz 1 KSchG ein freies Auflösungsrecht ohne Darlegung einer Unzumutbarkeit; Voraussetzung ist allein, dass das Arbeitsgericht die Kündigung für sozialwidrig hält und der Antrag spätestens in der letzten mündlichen Verhandlung gestellt wird.
-- BAG, Urt. v. 11.07.2013 – 2 AZR 241/12, NZA 2013, 1259 — Auflösungsantrag des Arbeitnehmers nach § 9 Abs. 1 Satz 1 KSchG: Unzumutbarkeit der Weiterbeschäftigung kann sich aus der Schärfe der Prozessführung durch den Arbeitgeber bei offensichtlich sozialwidriger Kündigung sowie aus der begründeten Erwartung schikanösen Verhaltens bei Rückkehr in den Betrieb ergeben; auch Depressionen infolge der ungerechtfertigten Kündigung können die Unzumutbarkeit begründen.
-- BAG, Urt. v. 08.10.2009 – 2 AZR 682/08, NZA 2010, 631 — Die Abfindungshöchstgrenze des § 10 Abs. 1 KSchG ist eine absolute Deckelung; ein Billigkeitsanspruch über diese Grenze hinaus besteht auch bei besonderer Sozialwidrigkeit der Kündigung nicht.
-- BAG, Urt. v. 28.09.1978 – 2 AZR 2/77, BAGE 31, 83 — Der Auflösungsantrag kann nicht mit einem Rechtsmittel (Berufung) weiterverfolgt werden, wenn er in der Vorinstanz nicht gestellt wurde; er ist im Berufungsverfahren nur unter den Voraussetzungen eines erstinstanzlichen Antrags zulässig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Oetker, 24. Aufl. 2024, § 9 KSchG Rn. 1–25 (Auflösungsantrag Arbeitnehmer; freies Auflösungsrecht; Verhältnis zu § 12 KSchG)
-- Schaub/Linck, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 139 Rn. 10–25 (Auflösungsantrag; Abfindungsrahmen; Verfahrensfragen)
-- HWK/Quecke, 10. Aufl. 2022, § 9 KSchG Rn. 1–20 (Freies Auflösungsrecht des Arbeitnehmers; Zeitpunkt)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 9 Abs. 1 Satz 1 KSchG gibt dem Arbeitnehmer das Recht, beim Arbeitsgericht zu beantragen, dass das Arbeitsverhältnis gegen Zahlung einer Abfindung aufgelöst wird — wenn das Arbeitsgericht die Kündigung für unwirksam hält, aber dem Arbeitnehmer die Weiterbeschäftigung nicht zuzumuten ist.
@@ -43,7 +37,7 @@ description: "Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung 
 2. **Antragstellung** — der Arbeitnehmer stellt den Auflösungsantrag bis zum Schluss der letzten mündlichen Verhandlung.
 
 **Wichtiger Unterschied Arbeitnehmer/Arbeitgeber:**
-- Der Arbeitnehmer muss Unzumutbarkeit **nicht** besonders begründen — er hat ein **freies Auflösungsrecht** (§ 9 Abs. 1 Satz 1 KSchG: „ohne dass es auf einen besonderen Grund ankommt").
+- Der Arbeitnehmer muss Unzumutbarkeit **nicht** besonders begründen — er hat ein **freies Auflösungsrecht** (§ 9 Abs. 1 Satz 1 KSchG: "ohne dass es auf einen besonderen Grund ankommt").
 - Nur der Arbeitgeber muss beim Auflösungsantrag seinerseits (§ 9 Abs. 1 Satz 2 KSchG) Gründe darlegen, die einer den Betriebszwecken dienlichen Zusammenarbeit entgegenstehen.
 
 ## Abfindung nach § 10 KSchG
@@ -113,5 +107,4 @@ Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung fest
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 241/12: Zitiertes Thema korrigiert. Ursprüngliche Fassung behauptete Abfindungsfestsetzung nach § 10 KSchG (NZA 2014, 115). Dejure.org bestätigt: tatsächliches Thema ist Auflösungsantrag des Arbeitnehmers nach § 9 Abs. 1 Satz 1 KSchG / Unzumutbarkeit (NZA 2013, 1259). Themenbeschreibung und NZA-Fundstelle korrigiert. Quelle: https://dejure.org/2013,23784
 -->

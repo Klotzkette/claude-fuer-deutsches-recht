@@ -93,7 +93,7 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
      Schlichtung durch Beirat
 ```
 
-## Enthaltene Skills (36)
+## Enthaltene Skills (37)
 
 ### Phase 0 — Intake und Rechtsformwahl (5 Skills)
 
@@ -222,9 +222,9 @@ Berücksichtigt:
 - **DiRUG** (Digitalisierungsrichtlinie-Umsetzungsgesetz, 1.8.2022) — Online-Gründung
 - **TraFinG** (2021) — Transparenzregister als Vollregister
 - **GwG**-Novellen — wirtschaftlich Berechtigter, Bußgeld bis 150.000 EUR
-- **BGH Kali+Salz** (BGHZ 71, 40) — Bezugsrechtsausschluss-Linie
-- **BGH Macrotron** (BGH NJW 2005, 985) — Bezugsrecht-Schutz
-- **BGH NJW 2007, 917 / 2018, 1233** — Treuepflicht in Kapitalgesellschaften
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Tipps für die Bearbeitung
 

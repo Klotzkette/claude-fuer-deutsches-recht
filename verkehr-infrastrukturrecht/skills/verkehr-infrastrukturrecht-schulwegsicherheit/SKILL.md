@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-schulwegsicherheit
-description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Pruefraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
+description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
 # Schulwegsicherheit
@@ -24,17 +24,11 @@ description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend m
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.05.2020 - VI ZR 252/19, NJW 2020, 2592 — Amtshaftung nach § 839 BGB bei Verkehrsunfall auf nicht hinreichend gesicherter Gefahrenstelle; Gemeinde haftet wenn Gefahrenstelle bekannt und Sicherungsmasssnahmen unterlassen wurden.
-- OLG Muenchen, Urt. v. 14.12.2020 - 1 U 3488/20, NZV 2021, 178 — Schulweg-Gefahrenstelle: Eltern haben nach Schadenseintritt Anspruch aus §§ 823, 839 BGB wenn Gemeinde trotz Kenntnis von Gefahrenstelle nicht taetig wurde.
-- BVerwG, Urt. v. 10.09.2020 - 3 C 19.19, NZV 2021, 30 — Anordnung einer 30er-Zone nach § 45 StVO erfordert Vorliegen einer besonderen Gefaehrdung; rein vorsorglich ist § 45 Abs. 9 StVO nicht erfuellt.
-- OVG NRW, Urt. v. 28.08.2018 - 8 A 1267/16, NVwZ-RR 2019, 204 — Ablehnung der Einrichtung eines Schulweghelpersystems ist ermessensgebundene Entscheidung; willkuerliche Ablehnung bei bekannter Gefahrenlage ist rechtswidrig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hentschel/Koenig/Dauer StVO § 45 Rn. 1-40 (Verkehrszeichen, 30er-Zone)
-- MueKo BGB / Wagner § 839 Rn. 1-40 (Amtshaftung, Verkehrssicherungspflicht)
-- Muenchener Kommentar BGB § 823 Rn. 1-50 (Verkehrssicherungspflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Situation vor Ort analysieren:** Gefahrenstellen, Sichtbehinderungen, fehlende Querungshilfen.

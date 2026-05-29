@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-simulation-training
-description: "Simulationstraining fuer OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Beispielfaelle mit Musterloesung. Training ohne echte Mandatsdaten."
+description: "Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Beispielfaelle mit Musterlösung. Training ohne echte Mandatsdaten."
 ---
 
 # Simulationstraining OWi-Mandate

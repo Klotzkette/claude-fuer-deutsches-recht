@@ -1,6 +1,6 @@
 ---
 name: telefon-konfiguration
-description: "Kanzlei muss Telefonnummern fuer Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Pruefraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort."
+description: "Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort."
 ---
 
 # Telefon-Konfiguration
@@ -15,10 +15,7 @@ Dieser Skill verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Te
 4. Sollen die Konfigurationsdaten verschluesselt gespeichert werden (Datenschutzanforderungen)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzlei-Kontaktdaten muessen immer aktuell sein; veraltete Telefonnummern in Schreiben verhindern Mandantenkontakt und begruenden Sorgfaltspflichtverletzung.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzleiimpressum (Kontaktdaten) als Pflichtangabe: falsche oder fehlende Angaben koennen Abmahnrisiken begruenden.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Verantwortliche Stelle nach Art. 4 Nr. 7 DSGVO muss korrekt und erreichbar angegeben sein; veraltete Kontaktdaten verletzen Betroffenenrechte.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Angaben zur Kanzlei auf Briefbogen und in E-Mails muessen vollstaendig und korrekt sein; fehlerhafte Pflichtangaben koennen Formfehler des Schreibens begruenden.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 5 TMG — Impressumspflicht: vollstaendige Kanzlei-Kontaktdaten fuer elektronische Kommunikation
@@ -26,10 +23,9 @@ Dieser Skill verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Te
 - Art. 13 Abs. 1 lit. a DSGVO — Informationspflicht: Kontaktdaten des Verantwortlichen bei Ersterhebung
 - § 43 BRAO — Sorgfaltspflicht: korrekte und aktuelle Kanzlei-Stammdaten in aller Kommunikation
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-20 (Kanzlei-Stammdaten: Aktualitaetspflicht)
-- Kühling/Buchner DSGVO Art. 13 Rn. 1-20 (Kontaktdaten des Verantwortlichen als Informationspflicht)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Platzhalter-Konfiguration: kanzlei.json
 
 Die Kanzlei hinterlegt ihre Kontaktdaten in einer Datei `kanzlei.json`. Das Beispiel-Format:

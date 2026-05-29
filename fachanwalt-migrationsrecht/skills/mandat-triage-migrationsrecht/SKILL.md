@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-migrationsrecht
-description: "Eingangs-Abfrage fuer migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Ueberstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-pruefung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
+description: "Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Migrationsrecht
@@ -141,14 +141,12 @@ Bei drohender Abschiebung:
 - AufenthG AsylG StAG VwGO §§ 80 123
 - DublinIII-VO (EU) 604/2013
 - BVerwGE Std.Spruch
-- Hailbronner AuslR
-- Bergmann/Dienelt AusländerR
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BVerfG, Beschl. v. 12.05.2005 - 2 BvR 569/05, NJW 2005, 1858 — Eilrechtsschutz im Migrationsrecht: Gericht muss Grundrechte auch im beschleunigten Verfahren beachten; PKH-Bewilligung darf Eilbeduerftigkeit nicht ignorieren; effektiver Rechtsschutz Art. 19 Abs. 4 GG gilt auch bei drohender Abschiebung.
-- BVerwG, Urt. v. 27.04.2010 - 10 C 4.09, BVerwGE 136, 360 — Wiederaufgreifenspruefung bei Folgeantrag: BAMF prueft zunaechst Zulaessigkeit; Gericht kann bei offensichtlich zulaessigem Folgeantrag Eilrechtsschutz gewaehren auch bevor BAMF entschieden hat.
-- BVerwG, Urt. v. 14.12.2016 - 1 C 4.16, BVerwGE 157, 18 — Streitwert im Asylverfahren: § 52 Abs. 2 GKG Regelstreitwert EUR 5.000; gerichtskostenfrei nach § 83b AsylG; bei Abschiebungsverbot § 60 AufenthG Streitwert EUR 2.500.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Triage
 

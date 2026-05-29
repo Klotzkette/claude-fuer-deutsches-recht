@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-orientierung
-description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin sozialrecht-kanzlei und kanzlei-allgemein."
+description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin sozialrecht-kanzlei und kanzlei-allgemein."
 ---
 
 # Fachanwalt für Medizinrecht — Orientierung
@@ -47,13 +47,9 @@ description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typisc
 - Verwaltungsgericht (Berufsrecht Krankenhausrecht).
 - BGH VI. Zivilsenat (Arzthaftung) und Bundessozialgericht.
 
-## Standardliteratur
+## Quellenregel
 
-- Laufs/Kern, Handbuch des Arztrechts.
-- Spickhoff, Medizinrecht.
-- Geiß/Greiner, Arzthaftpflichtrecht.
-- Quaas/Zuck, Medizinrecht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Medizinrecht DAV.
@@ -69,13 +65,13 @@ description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typisc
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 10.03.2020 — **VI ZR 281/19**, NJW 2020, 1789 Rn. 14: Beim Behandlungsfehlervorwurf trägt der Patient die Beweislast für das Vorliegen eines Behandlungsfehlers und dessen Kausalität; bei einem groben Behandlungsfehler kehrt sich die Beweislast zugunsten des Patienten um (§ 630h Abs. 5 BGB), wobei der Fehler generell geeignet sein muss, den eingetretenen Schaden zu verursachen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BSG, Urt. v. 09.12.2020 — **B 6 KA 14/19 R**, BSGE 131, 125 Rn. 24: Das Wirtschaftlichkeitsgebot des § 12 SGB V gilt auch für Vertragsärzte im Bereich der Verordnung von Heilmitteln; die Prüfungsinstanzen haben bei der Wirtschaftlichkeitsprüfung nach § 106 SGB V einen Beurteilungsspielraum, der gerichtlicher Kontrolle nur eingeschränkt unterliegt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 28.04.2016 — **3 C 15.14**, BVerwGE 155, 97 Rn. 30: Der Widerruf der Approbation nach § 5 BÄO setzt voraus, dass der Arzt sich eines Verhaltens schuldig gemacht hat, das ihn für den ärztlichen Beruf ungeeignet erscheinen lässt; der Verhältnismäßigkeitsgrundsatz gebietet eine umfassende Abwägung zwischen Schwere des Fehlverhaltens und Berufsfreiheit (Art. 12 Abs. 1 GG).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerfG, Beschl. v. 25.10.2004 — **1 BvR 1437/02**, BVerfGK 4, 179 Rn. 21: Ärztliche Informationsfreiheit und Patientenautonomie sind verfassungsrechtlich geschützt; Aufklärungspflicht des Arztes dient der Selbstbestimmung des Patienten und ist integraler Bestandteil des Behandlungsvertrags gemäß §§ 630a, 630e BGB.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -89,13 +85,9 @@ Krankenhausrecht: KHG, KHEntgG, § 108 SGB V (Zulassung) → DRG-Abrechnungsrege
 
 Medizinprodukte: MPDG (Umsetzung EU-MDR 2017/745) → § 97 AMG (Arzneimittelhaftung analog)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019: Umfassendes Standardwerk zu allen Bereichen des Medizinrechts; Einzel-Kapitel zu Arzthaftung, Vertragsarztrecht, Berufsrecht, Krankenhausrecht.
-- Spickhoff, Medizinrecht, 4. Aufl. 2022: Kommentierung der arztrechtlich relevanten Normen (BGB §§ 630a–h, SGB V, BÄO, GOÄ, AMG, MPDG) mit Rechtsprechungsübersicht.
-- Geiß/Greiner, Arzthaftpflichtrecht, 7. Aufl. 2021: Praxisbuch speziell zur Arzthaftung mit Beweislastverteilung und Gutachterfragen.
-- Quaas/Zuck/Clemens, Medizinrecht, 4. Aufl. 2018: Überblick über das gesamte Medizin- und Gesundheitsrecht mit Schwerpunkt öffentliches Recht.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Mandatstyp | Frist | Norm |

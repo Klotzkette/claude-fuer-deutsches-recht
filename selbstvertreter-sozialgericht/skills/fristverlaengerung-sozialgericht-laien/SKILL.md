@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-sozialgericht-laien
-description: "Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext fuer Buerger. Begruendung Stellungnahme zum Gutachten."
+description: "Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten."
 ---
 
 # Fristverlaengerung im SG-Verfahren

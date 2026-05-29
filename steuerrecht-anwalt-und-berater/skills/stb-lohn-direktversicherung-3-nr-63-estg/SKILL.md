@@ -44,15 +44,15 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 
 ### Phase 1 — Foerderungs-Grenzen
 
-| Grenze | Wert (typisch derzeit ca.; 2026 verifizieren) | Wirkung |
+| Grenze | Wert (Stand 2025) | Wirkung |
 |---|---|---|
-| 8 Prozent BBG-West RV | ca. 7.728 EUR/Jahr (BBG-West RV 96.600 EUR fuer 2024 — Stand 2026 zwingend ueber DRV/BMAS-Sozialversicherungs-Rechengroessenverordnung verifizieren) | LSt-frei |
+| 8 Prozent BBG-West RV | 7.728 EUR/Jahr (BBG-West RV 2025: 96.600 EUR; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) | LSt-frei |
 | 4 Prozent BBG-West RV | ca. 3.864 EUR/Jahr (2024) | SV-frei (zusaetzlich zur LSt-Freiheit) |
 | Darueber hinaus | Vollversteuerung; SV-Pflicht | Wie regulaerer Lohn |
 
 **Zahlenbeispiel (Stand 2024-Werte):** AN mit Entgeltumwandlung 200 EUR/Monat in Direktversicherung = 2.400 EUR/Jahr. Liegt unter 4-Prozent-BBG (3.864 EUR) — voll LSt- UND SV-frei. AG erspart SV-AG-Anteil und muss daher 15 Prozent Pflichtzuschuss nach § 1a BetrAVG leisten (= 30 EUR/Monat).
 
-(2026 BBG-Werte und Hoechstgrenzen zwingend ueber Sozialversicherungs-Rechengroessenverordnung verifizieren.)
+(BBG-Werte 2025: West RV 96.600 EUR/Jahr; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.)
 
 ### Phase 2 — Vergleich Entgeltumwandlung vs. AG-Finanzierung
 
@@ -61,7 +61,7 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 
 ### Phase 3 — § 1a BetrAVG 15-Prozent-Zuschuss
 
-- Bei Entgeltumwandlung: AG muss 15 Prozent des Beitrags zuschiessen, wenn er SV-Beitraege erspart.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung Direktversicherung/Pensionskasse/Pensionsfonds (nicht Direktzusage).
 - Seit 2019; fuer Altvertraege bis Ende 2021 noch Uebergangsregelung; seit 2022 voll wirksam.
 
@@ -76,7 +76,7 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 ### Phase 5 — Auszahlungsphase
 
 - Rente lohnsteuerpflichtig (nachgelagerte Besteuerung) nach § 22 Nr. 5 EStG (Vertrag der bAV) bzw. § 19 EStG (bei Direktzusage / Unterstuetzungskasse).
-- KV/PV-Beitragspflicht in der KVdR (Freibetrag fuer Pflichtversicherte Rentner — Stand 2024 ca. 176 EUR/Monat fuer KV-Versorgungsbezuege, § 226 Abs. 2 SGB V; aktueller Wert 2026 ueber GKV-Spitzenverband verifizieren).
+- KV/PV-Beitragspflicht in der KVdR (Freibetrag fuer Pflichtversicherte Rentner nach § 226 Abs. 2 SGB V; aktuellen Freibetrag ueber GKV-Spitzenverband pruefen).
 - Bei Kapitalauszahlung Sondertarif § 34 Abs. 2 Nr. 4 i.V.m. § 24 Nr. 1 EStG Fuenftel-Regel pruefen — Voraussetzung: Zusammenballung in einem Veranlagungszeitraum.
 
 ### Phase 6 — Bei Insolvenz
@@ -114,5 +114,7 @@ Stand: 05/2026.
 - EStG §§ 3 Nr. 63, 19, 22 Nr. 5, 34, 40b a.F.
 - BetrAVG §§ 1, 1a.
 - SvEV § 1 Abs. 1 Nr. 9.
-- BMF v. 06.12.2017, v. 18.03.2022 (Daten vor Uebernahme verifizieren).
-- Verifikations-Hinweis: BBG 2026 ueber Sozialversicherungs-Rechengroessenverordnung verifizieren.
+- BMF v. 06.12.2017 (IV C 5 - S 2333/17/10002), v. 18.03.2022 (IV C 5 - S 2333/19/10005).
+- BBG-West RV 2025: 96.600 EUR; 8 Prozent = 7.728 EUR LSt-frei; 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 4 bestaetigt (BBG 2025 eingesetzt, BMF-GZ recherchiert), 2 ersetzt (Pruefhinweise ohne Marker) -->

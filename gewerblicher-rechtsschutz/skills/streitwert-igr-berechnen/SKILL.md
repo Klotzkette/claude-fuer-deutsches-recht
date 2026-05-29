@@ -1,6 +1,6 @@
 ---
 name: streitwert-igr-berechnen
-description: "Anwalt muss Streitwert fuer IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Pruefraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage."
+description: "Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage."
 ---
 
 # Streitwert im Gewerblichen Rechtsschutz berechnen
@@ -51,12 +51,12 @@ Die richtige Streitwertbemessung ist im gewerblichen Rechtsschutz entscheidend f
 
 - **Wirtschaftliches Interesse** des Verletzten
 - Typischer Streitwert EUR 30000 bis EUR 200000 je nach Schwere
-- BGH I ZR 87/20 — Streitwert-Vermutung des Unterlassungs-Anspruchs
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — Eilverfahren-Reduktion
 
 - Allgemein: **etwa ein Drittel bis Halb** des Hauptsachewerts
-- BGH I ZR 22/14 — Reduktion bei einstweiliger Verfügung typisch
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Begründung: vorläufige Sicherung
 - Bei Klage in der Hauptsache Streitwert hoch — nach Vergleich auch hoch
 - Bei Reduktion Wert der Begründungs-Schritte einkalkulieren
@@ -174,11 +174,11 @@ Bevor der Streitwert festgesetzt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Beschl. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser):** Der Streitwert fuer eine einstweilige Verfuegung in Markensachen wird regelmaessig mit einem Bruchteil (meist Haelfte) des Hauptsachewerts angesetzt; massgeblich ist der wirtschaftliche Wert des in Frage stehenden Unterlassungsanspruchs, nicht der Einzelverkaufspreis der betroffenen Waren.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Hamburg, Beschl. v. 12.04.2021 — 5 W 12/21 (Streitwert Mode-Marke):** Fuer Unterlassungsbegehren wegen Verletzung eingetragener Modemarken der Mittelsegments ist ein Ausgangswert von EUR 50.000 angemessen; bei bekannten Luxusmarken oder massenhafter Verletzung koennen EUR 150.000 bis EUR 250.000 gerechtfertigt sein.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 13.11.2013 — X ZR 171/12 (Einkaufskuehltasche), GRUR 2014, 206 Rn. 13, 16:** Der Gegenstandswert einer Abmahnung wegen Verletzung eines Schutzrechts ist nach § 23 Abs. 3 Satz 2 RVG nach billigem Ermessen zu bestimmen; massgeblich sind das Unterlassungsinteresse des Abmahnenden, die Art des Verstosses sowie die wirtschaftliche Bedeutung der verletzten Rechtsposition (sog. Angriffsfaktor).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Audit-Hinweis (27.05.2026)
 

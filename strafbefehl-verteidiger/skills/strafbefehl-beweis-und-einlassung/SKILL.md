@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-beweis-und-einlassung
-description: "Beweispruefung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisantraege § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO."
+description: "Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisanträge § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO."
 ---
 
 # Beweis und Einlassung im Strafbefehlsverfahren
@@ -24,18 +24,11 @@ description: "Beweispruefung und Einlassungsstrategie im Strafbefehlsverfahren. 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 25.01.2022 - 1 StR 431/21, NStZ 2022, 318 — Schweigen des Beschuldigten darf nicht zu seinem Nachteil verwertet werden; keine Schlussfolgerungen aus dem Schweigen auf Schuldbewusstsein.
-- BGH, Urt. v. 09.02.2021 - 6 StR 411/20, NJW 2021, 1156 — Beweisverwertungsverbot nach § 136a StPO setzt qualifizierte Rechtsverletzung voraus; Taeusching durch Polizeibeamten genuegt; Verbot gilt unabhaengig von der Revisionsbeschraenkung.
-- BGH, Beschl. v. 15.06.2021 - 3 StR 112/21, NStZ 2022, 46 — Gestaendnis das auf Falschbelehrung beruht unterliegt Verwertungsverbot nach § 136a StPO Abs. 3; nicht heilbar durch spaetere ordnungsgemaesse Belehrung wenn erster Aussageentschluss unter Taeuscheeinfluss stand.
-- BVerfG, Beschl. v. 07.12.2011 - 2 BvR 2500/09, NJW 2012, 907 — Recht auf ein faires Verfahren (Art. 6 EMRK, Art. 2 Abs. 1 GG) schliesst das Recht ein, die Belastungszeugen zu befragen; Verletzung wenn Hauptbelastungszeuge einzige Beweisgrundlage ist und nicht befragt werden kann.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 136 Rn. 1-30 (Schweigerecht, Belehrung)
-- Meyer-Gossner/Schmitt StPO § 136a Rn. 1-25 (Verbotene Vernehmungsmethoden)
-- Fischer StGB § 46 Rn. 30-45 (Gestaendnis als Strafzumessungsfaktor)
-- Schoenke/Schroeder/Kinzig StGB § 46 Rn. 20-40 (Schuld und Strafzumessung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Einlassungsstrategie
 
 ```

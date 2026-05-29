@@ -1,6 +1,6 @@
 ---
 name: anfg-vorsatzanfechtung-3-i
-description: "Vorsatzanfechtung ausserhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Pruefraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisfuehrung. Output: Pruefergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren)."
+description: "Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren)."
 ---
 
 # Vorsatzanfechtung — § 3 Abs. 1 AnfG
@@ -21,16 +21,11 @@ description: "Vorsatzanfechtung ausserhalb der Insolvenz geltend machen: Benacht
 
 ## Rechtsprechung (BGH — Leitsätze § 3 AnfG Vorsatzanfechtung)
 
-- BGH, Urt. v. 26.04.2012 - IX ZR 74/11, NJW 2012, 2182 — Zum Benachteiligungsvorsatz: dolus eventualis genügt; Schuldner muss wissen oder billigend in Kauf nehmen dass die Rechtshandlung seine Gläubiger benachteiligt. Kenntnis der eigenen Zahlungsunfähigkeit ist starkes Indiz.
-- BGH, Urt. v. 05.03.2015 - IX ZR 133/14, NJW 2015, 1600 — Zur Kenntnis des Anfechtungsgegners: blosse Kenntnis der wirtschaftlichen Schwierigkeiten des Schuldners genügt nicht; Kenntnis von tatsächlichen Umständen die auf Benachteiligungsabsicht schliessen lassen erforderlich.
-- BGH, Urt. v. 22.09.2016 - IX ZR 219/14, NJW 2017, 57 — Zu inkongruenter Deckung als Indiz: Inkongruenz begründet starke Vermutung für Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners; beide Tatbestandsmerkmale werden dadurch erheblich erleichtert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 3 AnfG Rn. 1 ff. (Vorsatzanfechtung tatbestandlich)
-- Uhlenbruck InsO § 3 AnfG Rn. 1 ff. (Beweislast und Indizien)
-- Jaeger InsO § 133 Rn. 1 ff. (Vergleich mit InsO-Vorsatzanfechtung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Anfechtbar sind Rechtshandlungen des Schuldners, die er mit dem Vorsatz vorgenommen hat, seine Gläubiger zu benachteiligen, wenn der Anfechtungsgegner zur Zeit der Handlung den Vorsatz des Schuldners kannte (§ 3 Abs. 1 AnfG).
@@ -69,12 +64,3 @@ Der Anfechtungsgegner muss zum Zeitpunkt der Handlung den Benachteiligungsvorsat
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 176/07 (als Urt. v. 17.09.2009 zitiert) geloescht: WRONG_TOPIC.
-dejure.org findet unter IX ZR 176/07 kein Urteil; NJW 2009, 3498 ist laut
-dejure.org nicht vorhanden. Aktenzeichen vollstaendig halluziniert.
-Bundle-Report: Aktenzeichen gehoert anderem Senat (VI ZR 176/07, Schadensersatz).
-Kein Ersatz ergaenzt (kein verifizierbares BGH-Urteil zur Kenntnisvermutung
-bei nahestehenden Personen § 138 InsO analog im AnfG gefunden).
--->

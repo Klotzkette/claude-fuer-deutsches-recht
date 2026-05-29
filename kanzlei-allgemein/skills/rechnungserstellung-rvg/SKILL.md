@@ -1,6 +1,6 @@
 ---
 name: rechnungserstellung-rvg
-description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG Gebuehrentabelle) oder nach Honorarvereinbarung mit Stundensatz. Pflichtangaben § 10 RVG (Aktenzeichen Mandant Gegenstand der Taetigkeit Verguetungstatbestaende Stundensaetze Auslagen Umsatzsteuer Gesamtbetrag Zahlungsweg Belehrung). Reisekosten und Tage- und Abwesenheitsgeld nach VV RVG. Auslagen-Pauschale Nr. 7002 VV RVG. Erzeugt rechtsgueltige Rechnung als PDF und Markdown. Mit Eintrag im Honorar-Tracker.
+description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG Gebührentabelle) oder nach Honorarvereinbarung mit Stundensatz. Pflichtangaben § 10 RVG (Aktenzeichen Mandant Gegenstand der Tätigkeit Verguetungstatbestaende Stundensaetze Auslagen Umsatzsteuer Gesamtbetrag Zahlungsweg Belehrung). Reisekosten und Tage- und Abwesenheitsgeld nach VV RVG. Auslagen-Pauschale Nr. 7002 VV RVG. Erzeugt rechtsgueltige Rechnung als PDF und Markdown. Mit Eintrag im Honorar-Tracker.
 ---
 
 # Rechnungserstellung Honorar (RVG oder Vereinbarung)
@@ -13,10 +13,8 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 4. Sind alle Auslagen (Porto, Kopien, Fahrtkosten, Nr. 7001, 7002 VV RVG) vollstaendig erfasst?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Pflichtangaben nach § 10 RVG als Faelligkeitsvoraussetzung: Rechnung ohne vollstaendige Gebuehrentatbestaende ist nicht faellig.
-- BGH, Urt. v. 29.07.2021 - IX ZR 5/21, NJW 2021, 3320 — Stundensatz-Vereinbarung nach § 3a RVG: schriftlich und mit Mindestangaben; ohne Schriftform kein Stundensatz-Honorar.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Aufgliederungspflicht bei mehreren Gebuehrentatbestaenden: jeder Tatbestand einzeln mit Gegenstandswert und Gebuehrenziffer ausweisen.
-- LG Frankfurt a.M., Urt. v. 14.03.2022 - 2-04 O 301/21, AnwBl 2022, 415 — Auslagenpauschale Nr. 7002 VV RVG: maximal 20 EUR pro Angelegenheit, sofern keine hoeheren tatsaechlichen Auslagen nachgewiesen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 10 RVG — Pflichtangaben auf der Honorarrechnung
@@ -24,10 +22,9 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 - Nr. 2300, 3100, 3104 VV RVG — Geschaefts-, Verfahrens- und Terminsgebuehr
 - Nr. 7001, 7002 VV RVG — Auslagenpauschale Kopien und Entgelte fuer Post-/Telefonkommunikation
 
-## Kommentarliteratur
-- Gerold/Schmidt RVG § 10 Rn. 1-30 (Pflichtangaben: Faelligkeit und Fehlerfolgen)
-- Mueckenberger/Meiling RVG Nr. 2300 VV Rn. 1-20, Nr. 3100 VV Rn. 1-20 (Gebuehren: Berechnungsgrundlagen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **RVG** Rechtsanwaltsvergütungsgesetz — § 10 Berechnung der Vergütung; Anlage 1 (RVG-VV) Vergütungstabelle.

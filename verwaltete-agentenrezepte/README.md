@@ -70,4 +70,4 @@ Die Agenten arbeiten ausschließlich nach deutschem Recht. Maßgebliche Normen u
 | Berufsrecht | BRAO, BORA, FAO, RVG |
 | Berufskammern | Rechtsanwaltskammer (RAK), BRAK |
 
-**Zitierweise:** Alle System-Prompts und Ausgaben folgen dem BGH-/Beck-Stil gemäß `references/zitierweise.md`. Rechtsprechung ist nicht bindend; Ausnahme: § 31 BVerfGG. Kommentare und Aufsätze sind argumentativ tragend.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

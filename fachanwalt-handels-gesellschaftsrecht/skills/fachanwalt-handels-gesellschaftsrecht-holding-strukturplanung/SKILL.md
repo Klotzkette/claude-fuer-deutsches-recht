@@ -38,11 +38,7 @@ description: "Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuer
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BFH | I R 20/13 | 28.10.2015 | § 8b KStG: Schachtelprivileg gilt auch bei mittelbarer Beteiligung über Personengesellschaft |
-| BFH | I R 80/07 | 19.10.2011 | Erweiterte Kürzung § 9 Nr. 1 S. 2 GewStG: gewerbliche Beimengung durch Nebentätigkeit schadet |
-| BFH | I R 31/03 | 22.02.2006 | § 8b Abs. 4 KStG Mindestbeteiligung: Tag der Dividendenausschüttung maßgeblich |
-| BGH | II ZR 256/10 | 25.01.2011 | GmbH-Konzernhaftung: Holding haftet für Tochtergesellschaft bei qualifizierter Einflussnahme |
-| BFH | I R 14/08 | 21.01.2009 | § 6 AStG Wegzugsbesteuerung: Ratenzahlung möglich; keine sofortige Liquidität nötig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | OFD Frankfurt | S 2241 A – 11 – St 211 | 2019 | Praktische Anwendung § 8b KStG: Kettenausschüttung Tochter → Holding → Privat |
 
 ## Struktur-Varianten im Vergleich
@@ -130,12 +126,12 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ANTEILSÜBERTRAGUNGSVERTRAG
 
 Parteien:
-Übertragender: [Name/GmbH], [Anschrift] (nachfolgend „Übertragender")
-Erwerber: [Holding-GmbH], vertreten durch Geschäftsführer [Name] (nachfolgend „Holding")
+Übertragender: [Name/GmbH], [Anschrift] (nachfolgend "Übertragender")
+Erwerber: [Holding-GmbH], vertreten durch Geschäftsführer [Name] (nachfolgend "Holding")
 
 § 1 Übertragungsgegenstand
 Der Übertragende ist Inhaber eines Geschäftsanteils von EUR [Betrag] (nominal)
-an der [Operative GmbH], [Sitz], HRB [Nr.] (nachfolgend „Gesellschaft").
+an der [Operative GmbH], [Sitz], HRB [Nr.] (nachfolgend "Gesellschaft").
 Der Übertragende überträgt diesen Geschäftsanteil auf die Holding.
 
 § 2 Kaufpreis / Einbringungswert
@@ -174,7 +170,7 @@ Schritt 2: Notartermin
 [ ] Gesellschaftsvertrag (Satzung) vorbereiten:
     - Firma: [Name] Holding GmbH
     - Stammkapital: mind. EUR 25.000 (§ 5 GmbHG)
-    - Gesellschafterzweck: „Erwerb, Verwaltung und Veräußerung von
+    - Gesellschafterzweck: "Erwerb, Verwaltung und Veräußerung von
       Unternehmensbeteiligungen"
     - Geschäftsführer(-in) benennen
     - Stammeinlagen aufteilen
@@ -228,12 +224,12 @@ Kosten ca.:
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „§ 8b KStG Beteiligung < 10 %" | Finanzamt | Stichtag = Beginn des Wirtschaftsjahres; unterjährigen Erwerb so planen, dass Jahresbeginn überschritten |
-| „Gewerbliche Beimengung schadet § 9 Nr. 1 S. 2 GewStG" | Finanzamt | Nebentätigkeiten aus Immobilien-GmbH ausgliedern; reine Verwaltungsgesellschaft sicherstellen |
-| „Wegzugsbesteuerung bei Wohnsitzwechsel" | Steuerberater/Mandant | § 6 AStG Ratenzahlung bei EU/EWR-Wohnsitz; Rückkehroption innerhalb 7 Jahre |
-| „Holding nach operativer GmbH gegründet — Umwandlung nötig" | Mandant | §§ 20, 21 UmwStG: Einbringung zu Buchwerten möglich; Sperrfrist 7 Jahre beachten |
-| „Pflichtteils-Schutz durch Stiftung fraglich" | Erbe | Stiftung muss seit > 10 Jahren bestehen für vollständigen Schutz; BGH-Linie beachten |
-| „Doppelbesteuerung Holding → Privat" | Mandant | Holding thesauriert; Ausschüttung strategisch planen; Vermögensaufbau in Holding günstiger als Direkteinnahme |
+| "§ 8b KStG Beteiligung < 10 %" | Finanzamt | Stichtag = Beginn des Wirtschaftsjahres; unterjährigen Erwerb so planen, dass Jahresbeginn überschritten |
+| "Gewerbliche Beimengung schadet § 9 Nr. 1 S. 2 GewStG" | Finanzamt | Nebentätigkeiten aus Immobilien-GmbH ausgliedern; reine Verwaltungsgesellschaft sicherstellen |
+| "Wegzugsbesteuerung bei Wohnsitzwechsel" | Steuerberater/Mandant | § 6 AStG Ratenzahlung bei EU/EWR-Wohnsitz; Rückkehroption innerhalb 7 Jahre |
+| "Holding nach operativer GmbH gegründet — Umwandlung nötig" | Mandant | §§ 20, 21 UmwStG: Einbringung zu Buchwerten möglich; Sperrfrist 7 Jahre beachten |
+| "Pflichtteils-Schutz durch Stiftung fraglich" | Erbe | Stiftung muss seit > 10 Jahren bestehen für vollständigen Schutz; BGH-Linie beachten |
+| "Doppelbesteuerung Holding → Privat" | Mandant | Holding thesauriert; Ausschüttung strategisch planen; Vermögensaufbau in Holding günstiger als Direkteinnahme |
 
 ## Streitwert und Kosten
 
@@ -274,4 +270,4 @@ Kosten ca.:
 - § 6a GrEStG: https://www.gesetze-im-internet.de/grestg_1983/__6a.html
 - § 6 AStG: https://www.gesetze-im-internet.de/astg/__6.html
 - UmwStG: https://www.gesetze-im-internet.de/umwstg_2006/
-- BFH I R 20/13: https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201510183/
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

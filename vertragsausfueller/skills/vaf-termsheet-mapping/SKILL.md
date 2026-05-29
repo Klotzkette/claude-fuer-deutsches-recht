@@ -1,10 +1,9 @@
 ---
 name: vaf-termsheet-mapping
-description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Pruefraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar."
+description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar."
 ---
 
 # Term-Sheet-Mapping
-
 
 ## Triage zu Beginn
 
@@ -15,9 +14,7 @@ description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet li
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.10.2011 - XI ZR 373/10, NJW 2012, 47 — Letter of Intent ist grundsätzlich unverbindlich; Bindungswirkung nur bei ausdrücklicher Vereinbarung oder wenn wesentliche Elemente bereits abschließend geregelt.
-- BGH, Urt. v. 11.02.2016 - III ZR 322/14, NJW 2016, 1583 — Term Sheet bei M&A: ausgehandelte Eckdaten binden die Parteien nicht, wenn noch wesentliche Punkte offen; aber Abbruch von Verhandlungen kann culpa in contrahendo auslösen.
-- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Spezialklausel geht Generalklausel vor; Term-Sheet-Vereinbarungen gehen Standardklauseln der Vorlage vor.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -25,11 +22,9 @@ description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet li
 - § 150 BGB — modifizierte Annahme (Term-Sheet-Abweichungen vom Angebot)
 - §§ 133, 157 BGB — Auslegung (Term Sheet als Auslegungshilfe)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 311 Rn. 30-50 (culpa in contrahendo)
-- MüKo-BGB/Emmerich, 9. Aufl. 2022, § 311 Rn. 60-100 (Vertragsanbahnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill überführt wirtschaftliche Eckdaten in Vertragsklauseln. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
@@ -66,6 +61,5 @@ Der Skill überführt wirtschaftliche Eckdaten in Vertragsklauseln. Er arbeitet 
 ---
 
 <!-- AUDIT 27.05.2026
-BGH VIII ZR 127/98 (behauptetes Thema: handschriftliche Ergänzung geht vor vorgedrucktem Formular, NJW 1999 2442) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
 Bundle: bundle_047.json
 -->

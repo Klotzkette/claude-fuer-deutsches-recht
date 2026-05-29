@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher-tabelle
-description: "Vorher-Nachher-Vergleich fuer umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklaeren. § 43a BRAO § 26 BORA. Pruefraster: Vollstaendigkeit Erklaerbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Ueberarbeitung und Erklaerungsspalte. Abgrenzung: nicht eigenstaendiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
+description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
 ---
 
 # Vorher-Nachher-Tabelle
@@ -15,10 +15,8 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 4. Ist das Ergebnis fuer sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 05.11.2012 - AnwZ (Brfg) 1/12, NJW 2013, 175 — Dokumentation von Formulierungsaenderungen in anwaltlichen Schreiben schafft Nachweis der Sorgfaltspflichterfuellung nach § 43a BRAO.
-- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Transparenz bei Kommunikationsueberarbeitungen schuetzt vor dem Vorwurf, Originalinhalt verfaelscht zu haben.
-- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — Nachvollziehbare Dokumentation von Formulierungsaenderungen ist im Streitfall Beweis fuer sachliche Bearbeitung.
-- AGH NRW, Beschl. v. 15.06.2018 - 1 AGH 14/18, NJW-RR 2019, 55 — Berufsrechtliche Kontrolle von Korrespondenz setzt Nachvollziehbarkeit der Aenderungen voraus; undokumentierte Ueberarbeitungen erschweren Aufsichtspruefung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Tabellenformat belegt Normkonformitaet
@@ -26,10 +24,9 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 - § 138 ZPO — Wahrheitspflicht: Transparenz der Aenderungen sichert Authentizitaet
 - § 45 BRAO — Interessenkonflikt-Check: Tabellenformat hilft, Risiken zu identifizieren
 
-## Kommentarliteratur
-- Gaier/Wolf/Goebel, BRAO § 43a Rn. 1-20 (Dokumentationspflichten und Sachlichkeitsgebot)
-- Hartung/Scharmer, BORA Einl. Rn. 40-55 (Qualitaetssicherung in der Kanzlei: Dokumentation)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck des Standardformats
 
 Ein einheitliches Ausgabeformat erfüllt mehrere Funktionen: Es macht die Überarbeitung für den Nutzer kontrollierbar (er kann jede Änderung akzeptieren oder ablehnen), es dokumentiert die berufsrechtliche Begründung jeder Formulierungsänderung und es dient als Lernwerkzeug für zukünftige Korrespondenz.
@@ -64,9 +61,9 @@ Um die Tabelle übersichtlich zu halten, können folgende Kürzel verwendet werd
 
 | Vorher | Nachher | Begründung | Berufsrechts-Bezug |
 |---|---|---|---|
-| „SIE HABEN VERSAGT" | „Es bestehen Abweichungen von der vereinbarten Leistung" | Großbuchstaben und Kompetenzabsprache entfernt | BRAO-43a, BORA-25 |
-| „Schicken Sie das endlich!" | „Ich bitte um Übersendung bis TT.MM.JJJJ" | Forderung in Bitte umgewandelt, Frist ergänzt | GK |
-| „Das ist lächerlich" | „Diese Einschätzung erscheint mir nicht nachvollziehbar" | Abwertendes Adjektiv entfernt | BRAO-43a |
+| "SIE HABEN VERSAGT" | "Es bestehen Abweichungen von der vereinbarten Leistung" | Großbuchstaben und Kompetenzabsprache entfernt | BRAO-43a, BORA-25 |
+| "Schicken Sie das endlich!" | "Ich bitte um Übersendung bis TT.MM.JJJJ" | Forderung in Bitte umgewandelt, Frist ergänzt | GK |
+| "Das ist lächerlich" | "Diese Einschätzung erscheint mir nicht nachvollziehbar" | Abwertendes Adjektiv entfernt | BRAO-43a |
 
 **Überarbeitete E-Mail:**
 [Vollständiger überarbeiteter Text]

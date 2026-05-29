@@ -1,5 +1,14 @@
 # Testakte: Fortbestehensprognose Paragrafix GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-fortbestehensprognose-paragrafix-gmbh` (diese Akte) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **HINWEIS:** Alle Personen, Unternehmen, Zahlen, Adressen, IBAN-Nummern, 
 > Handelsregisternummern, Steuernummern und sonstigen Angaben in dieser Testakte 
 > sind **vollständig frei erfunden**. Die Akte dient ausschließlich zu Testzwecken 

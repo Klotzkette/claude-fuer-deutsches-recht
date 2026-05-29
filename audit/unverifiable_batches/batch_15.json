@@ -1,0 +1,407 @@
+[
+  {
+    "court": "BVerwG",
+    "az": "1 C 8/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BVerwG 1 C 16.24, Urteil vom 25. September 2025.",
+    "claimed_topic": "Lebensunterhalt",
+    "source_url": "https://www.bverwg.de/250925U1C16.24.0",
+    "skills": "fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-familiennachzug/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "2 B 53/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BVerwG 2 B 36.18, Beschluss vom 05. März 2019.",
+    "claimed_topic": "Fristwahrung im verwaltungsgerichtlichen Verfahren; Zugangsfiktion bei Bekanntgabe nach § 41 Abs. 2 VwVfG.",
+    "source_url": "https://www.bverwg.de/050319B2B36.18.0",
+    "skills": "rechtsberatungsstelle/skills/fristen/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "2 C 11/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BVerwG 2 C 18.21, Urteil vom 20. April 2023.",
+    "claimed_topic": "Formvoraussetzungen behördlicher Antragsformulare; fehlerhafte Formulare können Fristen versäumen lassen.",
+    "source_url": "https://www.bverwg.de/200423U2C18.21.0",
+    "skills": "rechtsberatungsstelle/skills/formular-erzeugung/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "3 C 2/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BVerwG 3 C 3.18, Urteil vom 12. September 2019.",
+    "claimed_topic": "Ermessensausübung im Verwaltungsrecht; Prüfungsreihenfolge bei Ermessensentscheidungen.",
+    "source_url": "https://www.bverwg.de/120919U3C3.18.0",
+    "skills": "rechtsberatungsstelle/skills/memo/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "4 BN 22/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BVerwG 4 BN 22.23, Beschluss vom 20. Februar 2024.",
+    "claimed_topic": "Verbands-Klage",
+    "source_url": "https://www.bverwg.de/de/200224B4BN22.23.0",
+    "skills": "fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-drittanfechtung-umwelt/SKILL.md"
+  },
+  {
+    "court": "BVerwG",
+    "az": "7 C 13/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BVerwG 7 C 23.17, Urteil vom 28. Februar 2019.",
+    "claimed_topic": "BVerwG 4 C 11/06 7 C 13/17",
+    "source_url": "https://www.bverwg.de/280219U7C23.17.0",
+    "skills": "umweltrecht/skills/klimaklagen-verbandsklage-umwrg/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-100/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung EuGH, 04.07.2013 - C-100/12 - d e j u r e . o r g.",
+    "claimed_topic": "Vergabe-Einigung darf Transparenzgebot und Gleichbehandlung nicht unterlaufen; nachtraegliche Vertragsanpassungen im Vergleich sind verg",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=04.07.2013&Aktenzeichen=C-100%2F12",
+    "skills": "fachanwalt-vergaberecht/skills/vergleichsverhandlung-strategie/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-100/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "RPEX - curia. Ergebnis der Suche: 1 Rechtssache(n)\n...\n1/1\nC-100/21 - Mercedes-Benz Group (Responsabilité des constructeurs de véhicules munis de dispositifs d’invalidation)\n[Erledigte Rechtssache]\nVerfahren zur Hauptsache\nUrteil - 21/03/2023 - Mercedes-Benz Group (Responsabilité des constructeurs d",
+    "claimed_topic": "Produkthaftung bei Softwarefehler: Software-Update das zu einem Fahrzeugdefekt fuehrt, kann Produktfehler nach § 3 ProdHaftG darstellen; Herstel",
+    "source_url": "https://curia.europa.eu/juris/liste.jsf?language=de&num=C-100%2F21",
+    "skills": "fachanwalt-verkehrsrecht/skills/fachanwalt-verkehr-autonom-1d-stvg/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-107/98",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Rechtsprechung EuGH, 18.11.1999 - C-107/98 - d e j u r e . o r g. |EuGH, 18.11.1999 - C-107/98|\n...\nAuszug aus EuGH, 18.11.1999 - C-107/98Schließlich kann der Gerichtshof nach ständiger Rechtsprechung im Fall ungenau formulierter Fragen aus den vom vorlegenden Gericht gemachten Angaben und aus den A",
+    "claimed_topic": "EuGH C-107/98 Teckal",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=C-107%2F98",
+    "skills": "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-de-facto-vergabe-klage/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-108/97",
+    "status": "UNVERIFIABLE",
+    "real_topic": "EuGH, 04.05.1999 - C-108/97, C-109/97 - dejure.org.",
+    "claimed_topic": "C-108/97 (Chiemsee): Geographische Herkunftsangaben, die fuer den relevanten Mitbewerberkreis freizuhalten sind, koennen nur durch Nachweis von Verkehrsdurchsetzung ei",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=04.05.1999&Aktenzeichen=C-108%2F97",
+    "skills": "gewerblicher-rechtsschutz/skills/markenanmeldung-dpma/SKILL.md"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-116/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "EuGH, 12.12.2013 - C-116/12 - dejure.org. |EuGH, 12.12.2013 - C-116/12|\n|--|\n**Tipp:**Um den Kurzlink (hier: https://dejure.org/2013,35622) schnell in die Zwischenablage zu kopieren, können Sie die Tastenkombination Alt + R verwenden - auch ohne diesen Bereich zu öffnen.\n...\n27 Kann der Zollwert jed",
+    "claimed_topic": "Nichtpraferentieller Ursprung und letzte wesentliche Be- oder Verarbeitung; Montagetatigkeit mit geringem Wertschoepfungsanteil",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=12.12.2013&Aktenzeichen=C-116%2F12",
+    "skills": "aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zollwert-ursprung/SKILL.md"
+  },
+  {
+    "index": 22,
+    "az": "C-175/22",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "- EuGH, Urt. v. 18.01.2024 - C-175/22, EuZW 2024, 300 — Kryptowertedienstleister unterliegen seit MiCA und AMLD6 denselben KYC/AML-Standards wie Kreditinstitute; kein Regulierungsarbitrage.",
+    "real_topic": "Unbekannt",
+    "notes": "Context references skill description, could not verify topic"
+  },
+  {
+    "index": 26,
+    "az": "C-188/89",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "Das System gibt Zitate im BGH-Stil: Gericht, Datum, Aktenzeichen, Fundstelle (Zeitschrift/Seite), ggf. Randnummer. Beispiel: BGH, 12.03.2021, Az. VI ZR 89/20, NJW 2021, 1234 Rn. 15. EuGH-Zitate mit EC",
+    "real_topic": "Systemnote über Zitierweise (kein echtes Urteil)",
+    "notes": "Context ist eine Systembeschreibung, kein Urteil"
+  },
+  {
+    "index": 41,
+    "az": "C-22/16",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "- **EuGH C-22/16 (DHL Air)** und **EuGH C-22/19 (RLBwm)** — Klage gegen den ausführenden Carrier auch bei Pauschalreise möglich.",
+    "real_topic": "C-22/16 (DHL Air) Klage gegen ausführenden Carrier bei Pauschalreise",
+    "notes": "No independent EuGH case found with exactly C-22/16 as DHL Air case"
+  },
+  {
+    "index": 42,
+    "az": "C-22/19",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "- **EuGH C-22/16 (DHL Air)** und **EuGH C-22/19 (RLBwm)** — Klage gegen den ausführenden Carrier auch bei Pauschalreise möglich.",
+    "real_topic": "C-22/19 (RLBwm) Klage gegen ausführenden Carrier bei Pauschalreise",
+    "notes": "Same context as C-22/16; no independent verification"
+  },
+  {
+    "index": 46,
+    "az": "C-236/08",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – „Ortlieb I\"; BGH, Urt. v. 11.04.2019 – I ZR 108/18, GRUR 2019, 1289 Rn. 21 – „Ortlieb II\" (keyword advertising); EuGH, Urt. ",
+    "real_topic": "C-236/08 (Google/Louis Vuitton) AdWords Keyword-Werbung; Markenrecht",
+    "notes": "Context is a list of BGH and EuGH cases on keyword advertising, not a direct citation"
+  },
+  {
+    "index": 50,
+    "az": "C-238/08",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – „Ortlieb I\"; BGH, Urt. v. 11.04.2019 – I ZR 108/18, GRUR 2019, 1289 Rn. 21 – „Ortlieb II\" (keyword advertising); EuGH, Urt. ",
+    "real_topic": "C-238/08 AdWords Keyword-Werbung",
+    "notes": "Same issue as C-236/08 - context is a list, not direct citation"
+  },
+  {
+    "index": 76,
+    "az": "C-301/97",
+    "court": "EuGH",
+    "status": "UNVERIFIABLE",
+    "first_context": "- EuGH, Urt. v. 22.11.2001 - C-301/97 (Niederlande/Rat) — EU-Schutzklauselmassnahmen unterliegen Pruefung auf Verhaltensmaessigkeit; unverhaeltnismaessige Handelseinschraenkungen sind gemeinschaftsrec",
+    "real_topic": "Niederlande/Rat; VO 338/97 (CITES); Tierschutzhandel; Rechtsgrundlage",
+    "notes": "Context claims EU-Schutzklauseln WTO-Verhältnismäßigkeit; could not fully confirm real topic"
+  },
+  {
+    "court": "EuGH",
+    "az": "C-726/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Instituto Madrileño de Investigación — Befristete Arbeitsverhältnisse, Kettenverträge (RL 1999/70)",
+    "claimed_topic": "Instituto Madrileño de Investigación — (Kontext abgeschnitten, NZA 2021, 929)",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Text=C-726%2F19",
+    "skills": []
+  },
+  {
+    "court": "FG Koeln",
+    "az": "13 K 3309/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Gemeinnützigkeit eSports — Finanzgericht Köln (17.05.2021), eSports nicht als gemeinnützig anerkannt",
+    "claimed_topic": "Gemeinnuetzigkeit eSports: abgelehnt",
+    "source_url": "https://www.fg-koeln.nrw.de",
+    "skills": []
+  },
+  {
+    "court": "FG Muenchen",
+    "az": "14 K 2131/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "UStVA-Abgabefrist 10. des Folgemons — nicht öffentlich zugänglich verifiziert",
+    "claimed_topic": "UStVA-Abgabefrist 10. des Folgemonats",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "FG München",
+    "az": "14 K 2612/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Verzugszinsen und Säumniszuschläge — steuerliche Abzugsfähigkeit (EFG 2018)",
+    "claimed_topic": "Verzugszinsen und Säumniszuschläge steuerlich abzugsfähig",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Berlin",
+    "az": "15 O 261/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Kein veröffentlichtes Urteil bekannt (Hinweis im Skill selbst: Stand 05/2026 existiert keine veröffentlichte deutsche Leitentscheidung)",
+    "claimed_topic": "Laut Skill selbst: kein veröffentlichtes Urteil",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Berlin",
+    "az": "16 O 341/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Airbnb — AGB-Kontrolle, Transparenzgebot (Urt. v. 26.11.2020)",
+    "claimed_topic": "Airbnb — AGB-Kontrolle, Transparenzgebot",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Berlin",
+    "az": "17 O 234/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Einstweilige Verfügung bei Sanktionsverdacht Kontosperrung",
+    "claimed_topic": "Einstweilige Verfügung bei Sanktionsverdacht Kontosperrung",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Berlin",
+    "az": "27 O 550/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Telefonnotiz als Dokumentationspflicht DSGVO — nicht öffentlich verifizierbar",
+    "claimed_topic": "Telefonnotiz als Dokumentationspflicht nach DSGVO",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Berlin",
+    "az": "52 O 83/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "SaaS, SLA-Unterschreitung als Mangel — nicht öffentlich verifizierbar",
+    "claimed_topic": "Zur Mängelrüge bei SaaS; SLA-Unterschreitung",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Bonn",
+    "az": "10 O 59/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Unvollständiges VVT als Indiz für mangelnden Datenschutz (DSGVO)",
+    "claimed_topic": "Unvollständiges VVT als Indiz für mangelnden Datenschutz",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Duesseldorf",
+    "az": "25 RES 1/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Dauer der Stabilisierungsanordnung (StaRUG) — nicht öffentlich verifizierbar",
+    "claimed_topic": "Stabilisierungsanordnung: maximal 3 Monate Dauer (StaRUG)",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "04 O 301/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Auslagenpauschale Nr. 7002 RVG — Höhe und Erstattungsfähigkeit",
+    "claimed_topic": "Auslagenpauschale Nr. 700 RVG",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "08 O 123/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Vergleich (Kurzbeschreibung) — kein Urteil, nur Vergleichstext",
+    "claimed_topic": "Vergleich: gegenseitige Erledigung",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "13 O 130/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Befristetes Stadionverbot — Dauer und Verhältnismäßigkeit (SpuRt 2019)",
+    "claimed_topic": "Befristetes Stadionverbot: Dauer und Verhältnismäßigkeit",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "13 S 8/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "§ 554 BGB n.F. — Mieter hat Anspruch auf Ladestation E-Auto",
+    "claimed_topic": "§ 554 BGB n.F.: Mieter hat Anspruch auf Einbau von Ladestation",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "15 O 10/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Unstimmigkeitsmeldung § 23a GwG unverzüglich — nicht öffentlich verifizierbar",
+    "claimed_topic": "Unstimmigkeitsmeldung nach § 23a GwG ist unverzüglich zu erstatten",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "21 O 173/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Enhanced Disclosure beim Closing — nicht öffentlich verifizierbar",
+    "claimed_topic": "Enhanced Disclosure beim Closing: neue Fakten nach Signing",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Frankfurt",
+    "az": "6 O 15/25",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Prozessbetrug bei wissentlicher Vorlage falscher Urkunden (Urt. v. 02.07.2025)",
+    "claimed_topic": "Prozessbetrug bei wissentlicher Vorlage falscher Urkunden",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG Muenchen",
+    "az": "1 HK O 8693/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Fehlendes Pflichtangaben-Impressum als UWG-Verstoß — nicht öffentlich verifizierbar",
+    "claimed_topic": "Fehlendes Pflichtangaben-Impressum als Wettbewerbsverstoß",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LG München",
+    "az": "13 O 1212/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Produkthaftung Software — Softwarefehler in Assistenzsystemen (2023)",
+    "claimed_topic": "Produkthaftung Software: Softwarefehler in Assistenzsystemen",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "LSG NRW",
+    "az": "5 KR 87/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sozialrecht/Krankenversicherung — nicht öffentlich verifizierbar",
+    "claimed_topic": "BVerfG und BSG Rechtsprechung zum Leistungsrecht GKV (Kontext unklar)",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "12 U 100/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Cashflow-Forecast als Mindeststandard — nicht öffentlich verifizierbar",
+    "claimed_topic": "Cashflow-Forecast als Mindeststandard für Insolvenzprüfung",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "2 U 5/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Hardship-Klausel in Energie-Grundversorgungsvertrag — nicht öffentlich verifizierbar",
+    "claimed_topic": "Hardship-Klausel in Energie-Grundversorgungsvertrag",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "20 U 155/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Lieferanten-Insolvenz — nicht öffentlich verifizierbar",
+    "claimed_topic": "Lieferanten-Insolvenz, Ersatzlieferant",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "20 U 180/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Kinderwagen-Design — nicht öffentlich verifizierbar auf dejure",
+    "claimed_topic": "Kinderwagen-Design: Beurteilung des Gesamteindrucks",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "20 U 56/15",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Verschachtelung GPL-Code — nicht öffentlich verifizierbar (ähnlich: 20 U 117/15 geprüft)",
+    "claimed_topic": "Kombination GPL-Code: Copyleft-Wirkung bei Verschachtelung",
+    "source_url": "",
+    "skills": []
+  },
+  {
+    "court": "OLG Duesseldorf",
+    "az": "20 W 61/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Kein Kostenerstattungsanspruch bei GRUR-RR 2022 — nicht öffentlich verifizierbar",
+    "claimed_topic": "Kein Kostenerstattungsanspruch für Schutzschrift ohne Vollstreckungsversuch",
+    "source_url": "",
+    "skills": []
+  }
+]

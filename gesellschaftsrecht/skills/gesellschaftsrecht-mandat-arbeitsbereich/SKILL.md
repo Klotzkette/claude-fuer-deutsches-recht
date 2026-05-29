@@ -1,6 +1,7 @@
 ---
 name: gesellschaftsrecht-mandat-arbeitsbereich
-description: "Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei „neues Mandat\", „Mandat wechseln\", „Mandate auflisten\", „Mandat schließen\" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte."
+description: 'Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte.'
+
 ---
 
 # Mandats-Workspace
@@ -32,15 +33,15 @@ Vor Anlage eines neuen Mandats-Workspace sind folgende Angaben erforderlich:
 ### Normtexte mit Auszügen
 
 **§ 43a Abs. 2 BRAO — Verschwiegenheitspflicht**
-> „Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
+> "Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
 
 Die Verschwiegenheitspflicht gilt unbegrenzt zeitlich, auch nach Mandatsbeendigung. Sie gilt für alle Mitarbeiter der Kanzlei (§ 43a Abs. 2 S. 3 BRAO) und für alle Informationsträger — physisch und digital.
 
 **§ 203 Abs. 1 Nr. 3 StGB — Verletzung von Privatgeheimnissen**
-> „Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als Rechtsanwalt [...] anvertraut worden ist oder sonst bekanntgeworden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft."
+> "Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als Rechtsanwalt [...] anvertraut worden ist oder sonst bekanntgeworden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft."
 
 **§ 43a Abs. 4 BRAO — Verbot der Wahrnehmung widerstreitender Interessen**
-> „Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
+> "Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
 
 Dieser Skill führt **keine** Interessenkonfliktprüfung durch. Die Konfliktprüfung obliegt dem Anwalt vor jeder Mandatsannahme. Der Skill stellt lediglich sicher, dass Mandatsinhalte technisch getrennt bleiben.
 
@@ -54,14 +55,10 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
-| BGH | IX ZR 199/14 | NJW 2015, 3239 | Anwaltliche Verschwiegenheitspflicht; Schadensersatz nach § 280 Abs. 1 BGB bei schuldhafter Verletzung durch den Anwalt |
-| BGH | IX ZR 280/14 | NJW 2016, 317 | Interessenkonflikt; fristlose Kündigung des Mandatsvertrags bei Pflichtenkollision; Schadensersatz des Mandanten |
-| <!-- IX ZR 221/15 entfernt (27.05.2026): AZ existiert nicht auf dejure.org; V ZR 221/15 ist ein WEG-Sachenrechtsfall (NJW-RR 2017, 260); NJW 2017, 2835 nicht verifizierbar --> | | | |
-| BVerfG | 1 BvR 2241/16 | NJW 2018, 2392 | Beschlagnahmeverbot für Handakten des Rechtsanwalts (§ 97 StPO); Schutzbereich der Verschwiegenheitspflicht |
-| OLG München | 15 U 3248/19 | NJW-RR 2020, 638 | Schadensersatz wegen Verletzung des Interessenkonfliktverbots; Mandant kann Herausgabe von Vorteilen verlangen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Mandats-Workspace
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -106,7 +103,7 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 |---|---|---|
 | Mandatsworkspace für In-house-Juristen unnötig | In-house-Jurist arbeitet nur für einen Mandanten (das eigene Unternehmen) | Richtig — Skill bei In-house-Standard deaktiviert; nur bei tatsächlichem Mehrfachmandatsverhältnis aktivieren |
 | Mandatsinformationen können zusammengefasst werden | Effizienzgewinn bei mandatsübergreifendem Vergleich | § 43a Abs. 2 BRAO gilt für jedes einzelne Mandat; mandatsübergreifende Auswertung nur mit ausdrücklicher Erlaubnis jedes Mandanten |
-| Interessenkonfliktprüfung übertrieben | Kein Interessenkonflikt bei reinen Transaktionsmandaten | § 43a Abs. 4 BRAO ist streng; bereits latente Interessenkollision begründet Pflicht zur Niederlegung (BGH IX ZR 280/14) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Digitale Trennung nicht ausreichend | Mandatsinhalte sind ohnehin in unterschiedlichen Softwaresystemen gespeichert | Verschwiegenheitspflicht gilt auch für KI-gestütztes Drafting und Kontextverarbeitung; mandatsübergreifender Kontext-Schalter muss bewusst gesetzt werden |
 | Slug-System zu komplex | Einfachere Identifikation reicht | Slug-Eindeutigkeit ist zentral für fehlerfreies Routing; klares Muster (Mandant-Typ-Jahr) verhindert Verwechslungen |
 
@@ -122,7 +119,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — M-and-A-Transaktion laeuft parallel | M-and-A-Skill parallel; Arbeitsbereich entsprechend erweitern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -171,7 +167,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ### Baustein 2: Mandats-Workspace-Vorlage (mandat.md)
 
 ```markdown
@@ -206,9 +201,9 @@ Was macht dieses Mandat vom Standardprofil abweichend?]
 
 *Jede Abweichung vom Kanzlei-Standard auf Mandatsebene — gilt nur für dieses Mandat.*
 
-- [z.B. „Haftungsdeckelung: Mandant besteht auf 24 Monaten statt Hausstandard 12 Monate."]
-- [z.B. „Ton: beziehungspflegend — Gegenpartei ist strategischer Partner."]
-- [z.B. „Anwendbares Recht: Deutsches Recht zwingend, kein englisches Recht."]
+- [z.B. "Haftungsdeckelung: Mandant besteht auf 24 Monaten statt Hausstandard 12 Monate."]
+- [z.B. "Ton: beziehungspflegend — Gegenpartei ist strategischer Partner."]
+- [z.B. "Anwendbares Recht: Deutsches Recht zwingend, kein englisches Recht."]
 
 ## GwG-Compliance (§§ 1 ff. GwG)
 
@@ -218,7 +213,7 @@ Was macht dieses Mandat vom Standardprofil abweichend?]
 
 ## Verbundene Mandate
 
-- [slug — ein Satz, warum verbunden; z.B. „NDA-Phase vorgelagerter Rechtsauftrag"]
+- [slug — ein Satz, warum verbunden; z.B. "NDA-Phase vorgelagerter Rechtsauftrag"]
 
 ## Vertraulichkeitshinweise
 
@@ -238,13 +233,13 @@ Nur-Anhängen-Ereignisprotokoll. Neuestes oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Ggf. anfänglicher Kontext — z.B. „Eröffnet auf Eingang eines SPA-Entwurfs von [Gegenpartei]."]
+[Ggf. anfänglicher Kontext — z.B. "Eröffnet auf Eingang eines SPA-Entwurfs von [Gegenpartei]."]
 
 ---
 
 ## [JJJJ-MM-TT] — Transaktionsphase gewechselt
 
-Von [Phase A] zu [Phase B]. Anlass: [Ereignis, z.B. „LOI unterzeichnet"].
+Von [Phase A] zu [Phase B]. Anlass: [Ereignis, z.B. "LOI unterzeichnet"].
 
 ---
 
@@ -261,9 +256,9 @@ Abschlussdatum: [JJJJ-MM-TT]. Anlass: [Abschluss der Transaktion / Mandatsnieder
 1. Slug prüfen: nicht bereits in `mandate/<slug>/` oder `mandate/_archiv/<slug>/` vorhanden. Falls wiederverwendet: anderen Slug vorschlagen.
 2. Aufnahme-Interview nach Kaltstart-Rückfragen durchführen.
 3. `mandate/<slug>/mandat.md` anhand der Vorlage schreiben.
-4. `mandate/<slug>/verlauf.md` mit Eintrag „Eröffnet" anlegen.
+4. `mandate/<slug>/verlauf.md` mit Eintrag "Eröffnet" anlegen.
 5. Leere `mandate/<slug>/notizen.md` erstellen.
-6. Nicht automatisch wechseln. Fragen: „Möchten Sie jetzt zu `<slug>` wechseln?"
+6. Nicht automatisch wechseln. Fragen: "Möchten Sie jetzt zu `<slug>` wechseln?"
 
 ### `liste`
 
@@ -283,7 +278,7 @@ Aktives Mandat mit `*` markieren. Archiv unter separater Überschrift.
 ### `schließen <slug>`
 
 1. `mandate/<slug>/` auf Existenz prüfen.
-2. Eintrag „Geschlossen" mit heutigem Datum an `verlauf.md` anhängen.
+2. Eintrag "Geschlossen" mit heutigem Datum an `verlauf.md` anhängen.
 3. `mandate/<slug>/` → `mandate/_archiv/<slug>/` verschieben.
 4. War das geschlossene Mandat das aktive: `Aktives Mandat:` auf `keine — nur Praxiskontextdaten` setzen.
 
@@ -297,7 +292,7 @@ CLAUDE.md auf Praxisebene enthält einen `Mandatsübergreifender Kontext:`-Schal
 
 **Wenn `aus` (Standard):** Ein Skill, der in Mandat A arbeitet, liest niemals Dateien in `mandate/B/`. Dies ist die Vertraulichkeitsgarantie.
 
-**Wenn `an`:** Ein Skill darf Mandatsdaten mandatsübergreifend nur dann lesen, wenn der Nutzer dies ausdrücklich verlangt (z.B. „Vergleiche die Haftungsbegrenzungen in den letzten fünf Vendor-Mandaten"). Auch bei `an` ist der Standard: nur das aktive Mandat laden, außer bei ausdrücklicher Vergleichsanfrage.
+**Wenn `an`:** Ein Skill darf Mandatsdaten mandatsübergreifend nur dann lesen, wenn der Nutzer dies ausdrücklich verlangt (z.B. "Vergleiche die Haftungsbegrenzungen in den letzten fünf Vendor-Mandaten"). Auch bei `an` ist der Standard: nur das aktive Mandat laden, außer bei ausdrücklicher Vergleichsanfrage.
 
 **Bei erhöhter Vertraulichkeit:** Auch wenn der globale Schalter auf `an` steht, gilt für Mandate mit `Vertraulichkeit: erhöht` oder `clean-team`: mandatsübergreifender Kontext nur nach Einzelgenehmigung des Anwalts.
 
@@ -388,17 +383,14 @@ Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, Einl. Rn. 15 ff. (Mandatsverhältnis im Gesellschaftsrecht).
-- Baumbach/Hopt, HGB, 41. Aufl. 2024, Einl. vor § 1 Rn. 10 ff. (Berufsrecht der rechtsberatenden Berufe).
-- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3239 Rn. 18 (Anwaltliche Verschwiegenheitspflicht).
-- BGH, Urt. v. 17.09.2015 – IX ZR 280/14, NJW 2016, 317 Rn. 20 (Interessenkonflikt; Kündigung des Mandats).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine Interessenkonfliktprüfung.
 
 ---
 ## Audit-Hinweis (27.05.2026)
 
-Geprüfte AZ: BGH IX ZR 221/15.
-Status: WRONG_TOPIC — AZ IX ZR 221/15 existiert auf dejure.org nicht. Das reale Urteil V ZR 221/15 (18.11.2016) betrifft WEG-Sachenrecht (Nutzungsbeendigung/Unterlassung, NJW-RR 2017, 260), nicht Verschwiegenheitspflicht bei Kanzleiwechsel. NJW 2017, 2835 nicht verifizierbar.
-Maßnahme: Tabellenzeile mit IX ZR 221/15 entfernt. Kein Ersatz eingefuegt; der Verschwiegenheitspflicht-Stoff ist ueber BGH IX ZR 199/14 und IX ZR 280/14 sowie die Normtexte (§ 43a BRAO, § 203 StGB) abgedeckt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

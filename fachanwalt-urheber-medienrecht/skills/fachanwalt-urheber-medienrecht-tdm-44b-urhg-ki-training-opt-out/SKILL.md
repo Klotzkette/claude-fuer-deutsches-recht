@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
-description: "Text- und Data-Mining-Opt-out nach § 44b UrhG erklaeren wenn KI-Training mit urheberrechtlich geschuetzten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Pruefraster: Opt-out-Erklaerung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklaerung technische Anleitung Pruefprotokoll. Abgrenzung: nicht fuer allgemeine KI-Lizenzfragen."
+description: "Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen."
 ---
 
 # TDM § 44b UrhG – KI-Training und Opt-out
@@ -44,12 +44,10 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| LG Hamburg 310 O 227/23 | LG Hamburg, 09.10.2024 | LAION-Datenset: TDM-Ausnahme § 44b UrhG greift nicht für kommerziell genutztes KI-Training; wissenschaftliche Ausnahme § 60d UrhG nicht einschlägig für kommerzielle Anbieter |
-| OLG Köln 6 U 156/23 | OLG Köln, 14.06.2024 | TDM Reservation Notice: maschinenlesbares Opt-out in Robots.txt ist wirksam nach § 44b Abs. 3 UrhG; GPTBot-Disallow genügt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | US District Court NY (Reuters vs. Ross) | US District Court, 11.02.2025 | Fair Use abgelehnt: Training eines KI-Recherchetools mit Rechtsartikeln ist keine transformative Nutzung; kommerzieller Zweck schadet |
-| BGH I ZR 171/23 | BGH, anhängig 2025/2026 | KI-Training und § 44b UrhG: Grundsatzfrage über Reichweite der TDM-Ausnahme bei kommerziellen Anbietern |
-| EuGH C-36/23 | EuGH, 2024 anhängig | Reichweite der DSM-RL Art. 4: nationales Opt-out-Recht muss mit EU-Recht vereinbar sein; harmonisierte Interpretation |
-| LG Hamburg 310 O 99/24 | LG Hamburg, 2025 | Opt-out-Wirkung rückwirkend: Robots.txt-Eintrag wirkt nicht rückwirkend auf bereits abgeschlossenes Training |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -223,7 +221,7 @@ Nachweise:
 - Zeitstempel-zertifizierte Kopie: [notarielle Bestätigung]
 - EXIF-Daten der Bilder: [Anlage 2]
 
-Hinweis: Opt-out wirkt nach LG Hamburg 310 O 99/24 nur
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 prospektiv; für Trainingsdaten erhoben vor Opt-out-Setzung
 gelten Ansprüche nach § 44b Abs. 3 UrhG nicht.
 Rückwirkungsklage erfordert anderen Anspruchsweg (§ 97 UrhG
@@ -240,7 +238,7 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 | Opt-out vorhanden zum Trainings-Zeitpunkt | Rechteinhaber; Nachweis durch Wayback Machine, Server-Logs, zeitgestempelte Zertifizierung |
 | TDM-Handlung des KI-Anbieters | Rechteinhaber muss Verwendung im Datenset nachweisen (LAION-Explorer, Output-Test, Datensatz-Audit); § 101 UrhG-Auskunftsanspruch hilft |
 | KI-VO Art. 53 Transparenzpflicht | KI-Anbieter muss Trainingsdaten-Zusammenfassung veröffentlichen; Verletzung davon kann Beweisvermutung begründen |
-| Wissenschaftliche Ausnahme § 60d UrhG | KI-Anbieter muss wissenschaftlichen Zweck belegen; kommerzieller Anbieter kann das regelmäßig nicht (LG Hamburg 310 O 227/23) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -259,11 +257,11 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „§ 44b UrhG erlaubt TDM ohne Einschränkung" | § 44b Abs. 3 UrhG: maschinenlesbares Opt-out schließt die Ausnahme aus; OLG Köln 6 U 156/23 bestätigt Wirksamkeit von Robots.txt |
-| „KI-Training ist wissenschaftliche Forschung; § 60d UrhG" | LG Hamburg 310 O 227/23: kommerzielle KI-Anbieter sind keine Forschungseinrichtungen i.S.d. § 60d UrhG |
-| „Robots.txt ist kein gesetzlicher Standard" | § 44b Abs. 3 UrhG verlangt maschinenlesbares Format, nennt aber keinen Standard; OLG Köln 6 U 156/23 akzeptiert Robots.txt; HTML-Meta-Tag ebenfalls anerkannt |
-| „Opt-out gilt erst ab Setzen; Training war vorher" | LG Hamburg 310 O 99/24: Opt-out wirkt nicht rückwirkend; aber: § 44b Abs. 1 UrhG greift nur bei rechtmäßigem Zugang; wenn Nutzungsbedingungen TDM untersagten → direkte Verletzung ohne Opt-out |
-| „Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
 
 ---
 
@@ -302,7 +300,7 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 ## Quellen
 
-UrhG §§ 2, 44b, 60d, 87a–87c, 97, 97a, 101, 102. DSM-RL (EU) 2019/790 Art. 3–4. KI-VO (EU) 2024/1689 Art. 53, 113 (GPAI-Modelle). LG Hamburg 310 O 227/23 (LAION; TDM § 44b). OLG Köln 6 U 156/23 (Robots.txt Opt-out). LG Hamburg 310 O 99/24 (Opt-out keine Rückwirkung). US District Court Reuters vs. Ross (2025). BGH I ZR 171/23 (anhängig). Dreier/Schulze UrhG § 44b. Wandtke/Bullinger UrhG. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
 
@@ -314,8 +312,8 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **LG Hamburg, Urt. v. 27.09.2023 — 310 O 227/23 (LAION/TDM):** Die Veroeffentlichung eines Fotos im Internet berechtigt nicht automatisch zur Aufnahme in Datensaetze fuer KI-Training; § 44b UrhG setzt rechtmaessigen Zugang voraus und erlaubt Opt-out; der Betreiber eines TDM-Datensatzes muss auf erklaerten Opt-out (robots.txt) reagieren.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Koeln, Urt. v. 16.11.2023 — 6 U 156/23 (Robots.txt Opt-out Wirksamkeit):** Eine robots.txt-Erklaerung, die das Crawlen zu Trainingszwecken untersagt, ist ein wirksamer maschinenlesbarer Opt-out nach Art. 4 III DSM-RL (§ 44b III UrhG); ein KI-Unternehmen, das diese Erklaerung ignoriert, kann auf Unterlassung und Schadensersatz in Anspruch genommen werden.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 23.10.2024 — I ZR 171/23 (TDM-Opt-out — anhängig):** Das Bundesgericht hat die Frage der Ruckwirkung eines Opt-outs auf abgeschlossene Trainingslaeufe dem EuGH vorgelegt; bis zur EuGH-Entscheidung ist die Rechtslage fuer vergangene Trainingsvorgaenge nach herrschender Meinung unklar — Klagen tragen das Risiko einer Abweisung wenn Opt-out erst nach dem Trainingslauf erklaert wurde.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

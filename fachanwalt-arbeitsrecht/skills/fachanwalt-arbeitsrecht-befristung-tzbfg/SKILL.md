@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-befristung-tzbfg
-description: "Befristungskontrolle und Befristungsgestaltung nach TzBfG fuer Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprueft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Pruefraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungspruef-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung."
+description: "Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Prüfraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungsprüf-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung."
 ---
 
 # Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)
@@ -15,10 +15,10 @@ description: "Befristungskontrolle und Befristungsgestaltung nach TzBfG fuer Arb
 
 ## Rechtsgrundlagen
 
-- **Schriftform:** § 14 Abs. 4 TzBfG iVm § 126 BGB — Verstoß führt zur Unwirksamkeit der Befristung; Arbeitsverhältnis gilt als unbefristet (BAG, Urt. v. 23.06.2004 – Az. 7 AZR 636/03, BAGE 111, 158 Rn. 14).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sachgrundbefristung:** § 14 Abs. 1 TzBfG, sachliche Gründe in S. 2 Nr. 1 bis 8.
 - **Sachgrundlos:** § 14 Abs. 2 TzBfG — bis zu zwei Jahre, höchstens dreimalige Verlängerung in dieser Zeit.
-- **Vorbeschäftigungsverbot:** § 14 Abs. 2 S. 2 TzBfG — keine sachgrundlose Befristung, wenn bereits zuvor ein Arbeitsverhältnis mit demselben Arbeitgeber bestanden hat. Sehr lange zurückliegende Vorbeschäftigungen können nach BVerfG, Beschl. v. 06.06.2018 – Az. 1 BvL 7/14, BVerfGE 149, 126 Rn. 63 ff. in eng begrenzten Fällen unbeachtlich sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Befristungskontrollklage:** § 17 TzBfG — drei Wochen nach vereinbartem Ende; Versäumung führt zur Fiktion der Wirksamkeit (§ 17 S. 2 iVm § 7 KSchG).
 - **Neueinstellung Älterer:** § 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat **und** unmittelbar vor Beginn des Arbeitsverhältnisses **mindestens vier Monate** beschäftigungslos war (§ 138 SGB III), Transferkurzarbeitergeld bezog oder an einer Maßnahme nach SGB II/III teilgenommen hat. Mehrfachverlaengerung innerhalb der Gesamtdauer von fünf Jahren zulaessig.
 - **Wissenschaftszeitvertragsgesetz (WissZeitVG):** Sondergesetz für Wissenschaft.
@@ -94,9 +94,7 @@ Rechtliche Bewertung:
 
 ## Aktuelle Rechtsprechung (Ergaenzung v14.2)
 
-- **BAG, Urt. v. 23.01.2019 — 7 AZR 733/16**, NZA 2019, 905 — Vorbeschäftigungsverbot § 14 Abs. 2 S. 2 TzBfG gilt auch bei sehr weit zurückliegender Vorbeschäftigung grundsätzlich; Ausnahme nur in eng begrenzten Fällen wenn Vorbeschäftigung sehr lange zurückliegt und völlig andersartig war (BVerfG-Vorgabe beachten).
-- **BAG, Urt. v. 14.04.2021 — 7 AZR 537/19**, NZA 2021, 928 — Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG): Kausalzusammenhang zwischen Abwesenheit des Vertretenen und Einsatz des Befristeten; mittelbare Vertretung zulässig wenn gedankliche Verbindungslinie nachvollziehbar.
-- **EuGH, Urt. v. 03.06.2021 — C-726/19 (Instituto Madrileño de Investigación)**, NZA 2021, 929 — Kettenbefristungen im öffentlichen Dienst; § 5 Rahmenvereinbarung verlangt Maßnahmen gegen Missbrauch von Befristungsketten; nationales Recht muss wirksamen Schutz bieten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -107,7 +105,6 @@ Rechtliche Bewertung:
 - § 17 TzBfG — Befristungskontrollklage (Frist drei Wochen ab vereinbartem Ende)
 - § 16 TzBfG — Rechtsfolge Unwirksamkeit: Arbeitsverhältnis gilt als unbefristet geschlossen
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, TzBfG § 14 Rn. 1 ff. (Sachgründe, sachgrundlose Befristung, Vorbeschäftigung)
-- HWK/Schmalenberg, 11. Aufl. 2024, TzBfG § 17 Rn. 1 ff. (Befristungskontrollklage, Frist, Rechtsfolgen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

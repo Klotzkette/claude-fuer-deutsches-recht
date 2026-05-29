@@ -17,7 +17,7 @@ Entspricht der Fall-ID, die auch in der Aufnahmeakte und in `deadlines.yaml` unt
 
 ## Zweck dieses Verzeichnisses
 
-- **Haftungsschutz** — „Wir haben X am Datum Y mitgeteilt" erfordert einen schriftlichen Beleg.
+- **Haftungsschutz** — "Wir haben X am Datum Y mitgeteilt" erfordert einen schriftlichen Beleg.
 - **Kontinuität bei Übergaben** — die übernehmenden Studierenden können das Protokoll lesen und kennen den Sachverhalt des Mandanten, ohne ihn erneut befragen zu müssen.
 - **Muster erkennen** — fünf nicht zurückgerufene Nachrichten in sechs Wochen ist ein Hinweiszeichen, das der Aufsicht gemeldet werden sollte.
 - **Mandantenakten-Aufbewahrung** — Rechtsberatungsstellen haben Aufbewahrungspflichten für Akten; dieses Protokoll ist Teil der vollständigen Akte.

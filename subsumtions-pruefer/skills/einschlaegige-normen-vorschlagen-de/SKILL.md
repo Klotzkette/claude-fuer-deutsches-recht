@@ -1,6 +1,6 @@
 ---
 name: einschlaegige-normen-vorschlagen-de
-description: "Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Pruefungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgrundlagen."
+description: "Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Prüfungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgrundlagen."
 ---
 
 # Einschlägige Normen vorschlagen — Deutsches Recht
@@ -27,8 +27,7 @@ Dieser Skill unterstützt den Nutzer bei der Identifikation einschlägiger Norme
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 23.03.2021 - VI ZR 3/20, NJW 2021, 1956 — Die Deliktshaftung nach § 823 Abs. 1 BGB und vertragliche Haftung nach §§ 280 ff. BGB stehen in echter Anspruchskonkurrenz; das Vertragsverhältnis schließt Deliktshaftung nicht aus, außer bei rein äquivalentem Äquivalenzinteresse.
-- BVerwG, Urt. v. 15.04.2021 - 2 C 9.20, NVwZ 2021, 1222 — Im öffentlichen Recht gilt das Gebot der Normklarheit; eine Blankettnorm muss hinreichend bestimmt sein, damit der Betroffene sein Verhalten darauf einstellen kann.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 188/17 geloescht – AZ existiert (19.01.2021, NJW 2021, 1818), betrifft aber Haftungsmassstab Sporttrainer (Tischtennis-Erste-Hilfe), nicht Einbeziehung AGB / Schutzgesetz § 823 Abs. 2 BGB (WRONG_TOPIC). BGH VI ZR 26/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). -->
 
@@ -43,10 +42,10 @@ Das System kategorisiert den Sachverhalt nach Rechtsgebiet:
 | Vertragsrecht | §§ 433 ff. BGB (Kauf); §§ 611 ff. BGB (Dienst/Arbeitsvertrag); §§ 631 ff. BGB (Werkvertrag); §§ 535 ff. BGB (Miete) |
 | Deliktsrecht | § 823 Abs. 1 BGB; § 823 Abs. 2 BGB i.V.m. Schutzgesetz; § 826 BGB; § 831 BGB |
 | Bereicherungsrecht | §§ 812 ff. BGB — Leistungskondiktion, Nichtleistungskondiktion |
-| Sachenrecht | §§ 854 ff. BGB (Besitz); §§ 903 ff. BGB (Eigentum); §§ 985 ff. BGB (Herausgabe) |
+| Sachenrecht | Normtext, bereitgestellte Materialien, verifizierte Rechtsprechung |
 | Strafrecht | § 263 StGB (Betrug); § 303 StGB (Sachbeschädigung); § 223 StGB (Körperverletzung); § 242 StGB (Diebstahl); § 266 StGB (Untreue) |
 | Arbeitsrecht | KSchG; § 623 BGB (Schriftform Kündigung); ArbGG; MuSchG; AGG |
-| Verwaltungsrecht | § 35 VwVfG (Verwaltungsakt); § 48 VwVfG (Rücknahme); § 49 VwVfG (Widerruf); § 42 VwGO (Klagen) |
+| Verwaltungsrecht | Normtext, amtliche Materialien, verifizierte Rechtsprechung |
 | Sozialrecht | SGB I-XII; § 44 SGB X (Rücknahme); § 45 SGB X (Aufhebung) |
 | Steuerrecht | § 38 AO (Entstehung der Steuerschuld); §§ 172 ff. AO (Bestandskraft) |
 | Erbrecht | §§ 1922 ff. BGB; §§ 2303 ff. BGB (Pflichtteil) |
@@ -78,12 +77,9 @@ Das System weist darauf hin, dass für die Auslegung der vorgeschlagenen Normen 
 
 Das System listet Vorschläge auf und bittet den Nutzer, die zu prüfende Norm zu bestätigen oder eine andere Norm anzugeben. Erst nach Bestätigung wird die Norm in `norm-zerlegen-in-tatbestandsmerkmale` übergeben.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg/Palandt BGB (allg. Schuldrecht, Deliktsrecht) — kompakt, praxisrelevant
-- MüKo BGB §§ 823 ff. (Deliktshaftung) — Großkommentar mit aktueller Rspr.
-- Staudinger BGB §§ 812 ff. (Bereicherungsrecht) — historisch und dogmatisch fundiert
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grenzen
 
 Das System weist ausdrücklich darauf hin, dass:

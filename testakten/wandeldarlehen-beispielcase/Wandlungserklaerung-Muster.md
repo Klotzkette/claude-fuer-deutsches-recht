@@ -33,12 +33,12 @@ E-Mail: mira.schoeneck@sonnenglas.example
 
 Betreff
 
-Ausübung der Wandlungsoption gemäß § 4 des Wandeldarlehensvertrages vom 22. Mai 2026 (Wandlungsereignis: Qualified Financing „Seed-Runde 2027")
+Ausübung der Wandlungsoption gemäß § 4 des Wandeldarlehensvertrages vom 22. Mai 2026 (Wandlungsereignis: Qualified Financing "Seed-Runde 2027")
 
 
 Sehr geehrte Frau Dr. Schoeneck,
 
-unter Bezugnahme auf den zwischen der Sonnenglas Solartechnologie UG (haftungsbeschränkt), Dr. Mira Schoeneck, Lina Habersaat und der Northstar Pre-Seed Partners GmbH & Co. KG geschlossenen Wandeldarlehensvertrag vom 22. Mai 2026 (das „Darlehen") sowie Ihre Wandlungsmitteilung vom 14. Februar 2027 (zugegangen am 15. Februar 2027) üben wir hiermit die uns nach § 4.1 des Darlehens zustehende Wandlungsoption fristgerecht und vollumfänglich aus.
+unter Bezugnahme auf den zwischen der Sonnenglas Solartechnologie UG (haftungsbeschränkt), Dr. Mira Schoeneck, Lina Habersaat und der Northstar Pre-Seed Partners GmbH & Co. KG geschlossenen Wandeldarlehensvertrag vom 22. Mai 2026 (das "Darlehen") sowie Ihre Wandlungsmitteilung vom 14. Februar 2027 (zugegangen am 15. Februar 2027) üben wir hiermit die uns nach § 4.1 des Darlehens zustehende Wandlungsoption fristgerecht und vollumfänglich aus.
 
 
 1. Wandlungssumme

@@ -1,6 +1,6 @@
 ---
 name: common-law-contract-formation-consideration
-description: "Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Pruefraster Consideration-Pruefung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklaerung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln)."
+description: "Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklärung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln)."
 ---
 
 # Contract Formation und Consideration

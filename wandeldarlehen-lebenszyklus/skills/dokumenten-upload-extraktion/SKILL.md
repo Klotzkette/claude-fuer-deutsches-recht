@@ -1,6 +1,6 @@
 ---
 name: dokumenten-upload-extraktion
-description: "Hochgeladene Wandeldarlehens-Dokumente analysieren und Kerndaten extrahieren fuer Mandatsbearbeitung. BGB GmbHG Standardterminologie. Pruefraster: Vertragsparteien Darlehenshoehe Zinsen Wandlungspreisbeschreibung Trigger Laufzeit Sonderrechte. Output: strukturiertes Datenmemo mit Extraktionsergebnis. Abgrenzung: Extraktion und Triage; Detailpruefung in Spezialist-Skills."
+description: "Hochgeladene Wandeldarlehens-Dokumente analysieren und Kerndaten extrahieren für Mandatsbearbeitung. BGB GmbHG Standardterminologie. Prüfraster: Vertragsparteien Darlehenshoehe Zinsen Wandlungspreisbeschreibung Trigger Laufzeit Sonderrechte. Output: strukturiertes Datenmemo mit Extraktionsergebnis. Abgrenzung: Extraktion und Triage; Detailprüfung in Spezialist-Skills."
 ---
 
 # Dokumenten-Upload und Datenextraktion
@@ -22,7 +22,7 @@ Dieser Skill extrahiert aus hochgeladenen Transaktionsdokumenten (Term Sheet, SP
 - § 194 AktG analog (Wandelschuldverschreibungen und Klassen – Orientierung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 15. März 2010 – II ZR 4/09 (Auslegung von Term Sheets im GmbH-Bereich)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -30,16 +30,16 @@ Dieser Skill extrahiert aus hochgeladenen Transaktionsdokumenten (Term Sheet, SP
 Term Sheet: Enthält Rahmenbedingungen (Pre-Money, Anteilsklassen, Liquidationspräferenz, Anti-Dilution, ESOP, Board-Rechte). SPA: Enthält Kaufpreis (als Post-Money oder implizit), Warranties, CP-Liste. IRA/SHA: Enthält Informationsrechte, Vetorechte, Drag-Along/Tag-Along.
 
 ### 2. Pre-Money-Bewertung extrahieren
-Suche nach „pre-money valuation", „Pre-Money-Bewertung", „company valuation before investment". Umrechnung falls nur Post-Money angegeben: Pre-Money = Post-Money − Investitionsvolumen.
+Suche nach "pre-money valuation", "Pre-Money-Bewertung", "company valuation before investment". Umrechnung falls nur Post-Money angegeben: Pre-Money = Post-Money − Investitionsvolumen.
 
 ### 3. Investitionsvolumen extrahieren
-„Investment amount", „aggregate investment", „total subscription amount". Achtung: Aufteilen nach Investorengruppen falls mehrere.
+"Investment amount", "aggregate investment", "total subscription amount". Achtung: Aufteilen nach Investorengruppen falls mehrere.
 
 ### 4. Anteilsklassen extrahieren
 Bestehende und neue Anteilsklassen (Ordinary Shares, Preferred Shares A, B). Wandlungsrechte, Liquidationspräferenzen je Klasse, Dividendenpräferenzen. Einfluss auf vollverwässerte Anteile.
 
 ### 5. ESOP-Pool extrahieren
-„Employee Option Pool", „Management Option Programme". Größe in Anteilen oder Prozent. Vor- oder nach-Kapitalerhöhung? (Beeinflusst vollverwässerte Basis für Wandlungspreis).
+"Employee Option Pool", "Management Option Programme". Größe in Anteilen oder Prozent. Vor- oder nach-Kapitalerhöhung? (Beeinflusst vollverwässerte Basis für Wandlungspreis).
 
 ### 6. Strukturierten Extrakt ausgeben
 Tabelle mit allen extrahierten Werten, Quellenangabe (Dokument, Seite, Klausel), offene Fragen markiert. Übergabe an `wandlungspreis-berechnung`.
@@ -80,9 +80,9 @@ Stand: 05/2026. Bei Änderung GmbHG/HGB-Eigenkapitalausweis aktualisieren.
 
 ### Normen-Ergänzung und Rechtsprechung
 
-BGH, Urt. v. 01.12.2014 — **II ZR 241/13**, NJW 2015, 565 Rn. 14: Vertragsunterlagen für Kapitalerhöhung bei Wandlung müssen vollständig und inhaltlich konsistent sein; lückenhafte oder widersprüchliche Dokumente führen zu Zurückweisung durch den Notar und verzögern die Handelsregistereintragung; der Geschäftsführer trägt die Pflicht zur vollständigen Vorlage.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 05.11.2020 — **III ZR 110/19**, NJW 2021, 222 Rn. 12: Bei elektronisch eingereichten Unterlagen nach § 12 HRV muss die Authentizität durch qualifizierte elektronische Signatur nach eIDAS-VO oder notarielle Bestätigung sichergestellt sein; unsignierte PDF-Scans genügen nicht für rechtserhebliche Eingaben.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen
 

@@ -9,8 +9,8 @@ description: >
   wann erforderlich ist.
   Manuell aufrufen (montags empfohlen): `/arbeitsrecht:fehlzeiten-register`.
   Automatisches Scheduling erfordert eine separate Integration.
-  Auslöser: „Abwesenheits-Tracker", „offene Abwesenheiten", „Elternzeit-Status",
-  „Abwesenheiten prüfen", „Fristen Abwesenheiten".
+  Auslöser: "Abwesenheits-Tracker", "offene Abwesenheiten", "Elternzeit-Status",
+  "Abwesenheiten prüfen", "Fristen Abwesenheiten".
 model: sonnet
 tools: ["Read", "Write", "mcp__*__query", "mcp__*__search", "mcp__*__list"]
 ---
@@ -58,7 +58,7 @@ Alle Mitarbeitenden mit aktivem Abwesenheitsstatus abfragen. Abrufen: Mitarbeite
 
 **Bei manuellem Betrieb:**
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/abwesenheits-register.yaml` lesen. Existiert die Datei nicht, auffordern:
-> „Ich sehe kein Abwesenheitsregister. Verbinden Sie Ihr Personalverwaltungssystem oder legen Sie Ihre aktuelle Abwesenheitstabelle hier ab, damit ich sie laden kann. Sie können auch `/arbeitsrecht:fehlzeit-erfassen` nutzen, um Abwesenheiten einzeln zu ergänzen."
+> "Ich sehe kein Abwesenheitsregister. Verbinden Sie Ihr Personalverwaltungssystem oder legen Sie Ihre aktuelle Abwesenheitstabelle hier ab, damit ich sie laden kann. Sie können auch `/arbeitsrecht:fehlzeit-erfassen` nutzen, um Abwesenheiten einzeln zu ergänzen."
 Warten, bis Daten bereitgestellt werden.
 
 ### Schritt 3 — Abwesenheitsstatus je offener Abwesenheit berechnen

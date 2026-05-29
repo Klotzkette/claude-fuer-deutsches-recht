@@ -2,7 +2,7 @@
 
 **Stichtag:** {Stichtag, Montag KW {KW_t}}
 **Erstellt am:** {Erstellungsdatum}
-**Prüfmaßstab:** § 17 InsO, BGH BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle, 3-Wochen-Horizont)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Ampel:** {🟢 GRÜN | 🟡 GELB | 🔴 ROT}
 **Liquiditätslücke:** {Lücke_abs €} ({Lücke_% }%)
-**Indizien (BGH IX ZR 81/06):** {Anzahl} gesetzt
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Position | Wert |
 |---|---:|
@@ -59,11 +59,11 @@
 | davon zweifelhaft / wertberichtigt | {OF_Zweifel €} |
 | **Deckungsgrad Forderungen vs. Lücke** | **{OF/Lücke %}** |
 
-Titulierte Forderungen sind bei laufender Vollstreckung in Höhe des Nennwerts in die Liquiditätsbilanz einzustellen — BGH, Urt. v. 23.01.2025 – IX ZR 229/22.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
-## Indizienkatalog (§ 17 Abs. 2 S. 2 InsO, BGH IX ZR 81/06)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - [ ] Lohnsteuer-Rückstände
 - [ ] Sozialversicherungs-Rückstände
@@ -87,7 +87,7 @@ Ab zwei aktiv gesetzten Indizien wird auf 🔴 eskaliert, auch wenn die Quote re
 
 ## Gutachtenstil-Kurzfazit
 
-{Kurzfazit: Subsumtion in 3–5 Sätzen, Zitat BGH BGHZ 163, 134 Rn. 12 ff. und BGHZ 217, 129 Rn. 24 ff.}
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Handlungsempfehlung
 
@@ -97,15 +97,9 @@ Ab zwei aktiv gesetzten Indizien wird auf 🔴 eskaliert, auch wenn die Quote re
 
 ## Quellen
 
-- BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134
-- BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78
-- BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129
-- BGH, Urt. v. 28.04.2022 – IX ZR 48/21, ZIP 2022, 1341
-- BGH, Urt. v. 28.06.2022 – II ZR 112/21, ZIP 2022, 1606
-- BGH, Urt. v. 23.01.2025 – IX ZR 229/22, DB 2025, 381
-- BGH, Urt. v. 11.03.2025 – II ZR 139/23
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 (Stand 12.08.2021), Tz. 16 f., 31–37 (Hintergrund)
 - IDW S 6 (Hintergrund, integrierte Planung)
 - K. Schmidt/Herchen, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 5 ff.
-- Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 10 ff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 Rn. 10 ff.

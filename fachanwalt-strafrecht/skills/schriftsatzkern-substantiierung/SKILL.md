@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Strafverfahren Einspruch und Revision: Anwendungsfall Strafverteidiger muss Einspruch gegen Strafbefehl Revisionsbegruendung oder Klageerzwingungsantrag verfassen. §§ 410 ff. StPO Einspruch Strafbefehl, § 344 StPO Revisionsbegruendung, § 172 Abs. 2 bis 3 StPO Klageerzwingungsantrag, § 147 StPO Akteneinsicht. Pruefraster Tatsachenvortrag-Geruest, Beweisantrag-Liste, Verfahrenshindernisse, Sachrügen und Verfahrensrügen, Strafmass-Hilfsantrag. Output vollstaendiger Verteidigungs-Schriftsatz mit Antrag Begruendung und Beweisangebot. Abgrenzung zu Plaedoyer-Vorbereitung und zu Hauptverhandlung."
+description: "Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision: Anwendungsfall Strafverteidiger muss Einspruch gegen Strafbefehl Revisionsbegründung oder Klageerzwingungsantrag verfassen. §§ 410 ff. StPO Einspruch Strafbefehl, § 344 StPO Revisionsbegründung, § 172 Abs. 2 bis 3 StPO Klageerzwingungsantrag, § 147 StPO Akteneinsicht. Prüfraster Tatsachenvortrag-Geruest, Beweisantrag-Liste, Verfahrenshindernisse, Sachrügen und Verfahrensrügen, Strafmass-Hilfsantrag. Output vollständiger Verteidigungs-Schriftsatz mit Antrag Begründung und Beweisangebot. Abgrenzung zu Plaedoyer-Vorbereitung und zu Hauptverhandlung."
 ---
 
 # Schriftsatzkern und Substantiierung im Allgemeines und Wirtschaftsstrafrecht
@@ -125,7 +125,7 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 - Vermoegensbetreuungspflicht: Rechtsgrund (Anstellungsvertrag, gesetzliche Pflicht, Geschaeftsfuehrer).
 - Pflichtverletzung: konkrete Handlung gegen das Innenverhaeltnis.
-- Vermoegensnachteil: bezifferbar, bei Risikogeschaeft Gefaehrdungsschaden mit Konkretisierungsgebot (BVerfG 2 BvR 2559/08).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vorsatz auch hinsichtlich Pflichtwidrigkeit.
 
 ## Antrags-Muster nach Verfahrenstyp

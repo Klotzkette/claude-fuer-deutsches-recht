@@ -40,7 +40,7 @@ Das StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz, BGBl. I 2
 ### 2.2 Verfahrensschritte StaRUG
 
 **Schritt 1 – Anzeige des Restrukturierungsvorhabens (§ 31 StaRUG):**  
-Anzeige beim Amtsgericht Hamburg als Restrukturierungsgericht. Zuständig nach § 35 StaRUG: AG Hamburg (Unternehmenssitz). Die Anzeige löst den Restrukturierungsrahmen aus. Die Schuldnerin ist ab diesem Zeitpunkt „Restrukturierungsschuldnerin" und unterliegt den Pflichten nach §§ 32–34 StaRUG.
+Anzeige beim Amtsgericht Hamburg als Restrukturierungsgericht. Zuständig nach § 35 StaRUG: AG Hamburg (Unternehmenssitz). Die Anzeige löst den Restrukturierungsrahmen aus. Die Schuldnerin ist ab diesem Zeitpunkt "Restrukturierungsschuldnerin" und unterliegt den Pflichten nach §§ 32–34 StaRUG.
 
 **Schritt 2 – Stabilisierungsanordnung (§ 49 StaRUG):**  
 Antrag auf Stabilisierungsanordnung, um NordBank-Vollstreckung zu unterbinden. Voraussetzung: Mehr als die Hälfte der planbetroffenen Gläubiger (gemessen an Stimmrechten) unterstützen das Vorhaben, oder die Anordnung ist zur Wahrung der Verhandlungsgrundlage erforderlich.

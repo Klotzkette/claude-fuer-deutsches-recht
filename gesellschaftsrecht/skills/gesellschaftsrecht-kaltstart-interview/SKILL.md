@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-kaltstart-interview
-description: "Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxisprofil — erfasst Tätigkeitsbereiche (M&A, Gesellschafterversammlung/Aufsichtsrat, Kapitalmarkt, Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Hausstil und Eskalationsmatrix. Lädt, wenn CLAUDE.md noch [PLATZHALTER]-Marker enthält, bei Neumandat (--neues-mandat) oder zur Überprüfung von Integrationen (--integrationen-pruefen)."
+description: "Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxisprofil — erfasst Tätigkeitsbereiche (M&A, Gesellschafterversammlung/Aufsichtsrat, Kapitalmarkt, Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Hausstil und Eskalationsmatrix. Lädt, wenn CLAUDE.md noch [PLATZHALTER]-Marker enthält, bei Neumandat (--neues-mandat) oder zur Überprüfung von Integrationen (--integrationen-prüfen)."
 ---
 
 # Ersteinrichtungs-Interview
@@ -19,7 +19,7 @@ Vor dem Kaltstart-Interview klaeren:
 
 Gesellschaftsrechtliche Mandate variieren erheblich: Ein GmbH-Syndikusrechtsanwalt (§ 46 BRAO) bei einem Start-up führt M&A-Transaktionen durch, pflegt die Gesellschafterliste und protokolliert Gesellschafterbeschlüsse. Ein Kanzleianwalt bei einem DAX-Konzern verantwortet möglicherweise nur BaFin-Meldepflichten oder die Vorbereitung von Hauptversammlungen. Dieses Interview ermittelt, welche Bereiche für den Nutzer aktiv sind, und baut ausschließlich das relevante Praxisprofil — keine leeren Abschnitte für nicht anwendbare Bereiche.
 
-Beim Aufruf mit `--integrationen-prüfen`: Nur Teil 0 „Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
+Beim Aufruf mit `--integrationen-prüfen`: Nur Teil 0 "Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
 
 ## Eingaben
 
@@ -38,9 +38,9 @@ Die nachfolgenden Vorschriften bilden den rechtlichen Rahmen der unterstützten 
 
 **Beschlussfassung / Governance:** § 48 GmbHG (Gesellschafterversammlung; Abs. 2: schriftliche Abstimmung ohne Versammlung); § 49 GmbHG (Einberufung); §§ 118 ff. AktG (Hauptversammlung; § 130 AktG: Niederschrift durch Notar bei AG); §§ 95 ff. AktG (Aufsichtsrat); § 23 Abs. 5 AktG (Satzungsstrenge).
 
-**Mitbestimmung:** MitbestG (Unternehmen > 2.000 Arbeitnehmer); DrittelbG (Unternehmen 500–2.000 Arbeitnehmer); § 76 AktG (Vorstand); BetrVG (betriebliche Mitbestimmung). BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332 (Beschlussmängelrecht GmbH, analoge Anwendung der §§ 241 ff. AktG). BGH, Urt. v. 29.01.2020 – II ZR 417/18, NJW 2020, 1804 (Treuepflicht im GmbH-Gesellschafterverhältnis).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:** Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 48 Rn. 1 ff. (schriftliche Abstimmung); Hüffer/Koch, AktG, 16. Aufl. 2024, § 130 Rn. 1 ff. (Niederschrift HV); MüKoAktG/Kubis, 5. Aufl. 2022, § 130 Rn. 5 ff.; Scholz/Priester, GmbHG, 13. Aufl. 2022, § 48 Rn. 20 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -200,22 +200,22 @@ Vollstaendige Neueinrichtung per `/gesellschaftsrecht:gesellschaftsrecht-kaltsta
 
 **Szenario:** Syndikusrechtsanwalt einer GmbH mit 200 Mitarbeitern, aktive Module M&A und Governance.
 
-Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR für Vertragsreview, Hausstil „BESCHLOSSEN:" für schriftliche Gesellschafterbeschlüsse nach § 48 Abs. 2 GmbHG, Eskalation zu externem M&A-Berater ab Transaktionsvolumen > 5 Mio. EUR. Kapitalmarkt- und Gesellschaftsverwaltungsmodul: nicht aktiviert.
+Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR für Vertragsreview, Hausstil "BESCHLOSSEN:" für schriftliche Gesellschafterbeschlüsse nach § 48 Abs. 2 GmbHG, Eskalation zu externem M&A-Berater ab Transaktionsvolumen > 5 Mio. EUR. Kapitalmarkt- und Gesellschaftsverwaltungsmodul: nicht aktiviert.
 
 ## Risiken und typische Fehler
 
 - **Alle Module als aktiv annehmen.** Erst fragen, dann nur relevante Abschnitte aufbauen. Ein M&A-Anwalt braucht kein Kapitalmarkt-Modul.
 - **Käuferseite als Regelfall annehmen.** Das Praxisprofil erfasst den Hausstandard; die spezifische Rolle je Transaktion wird mit `--neues-mandat` festgelegt.
-- **Generische Platzhalter eintragen.** „Übliche Wesentlichkeitsschwellen" ist kein Schwellenwert. Nach konkreten Zahlen fragen.
+- **Generische Platzhalter eintragen.** "Übliche Wesentlichkeitsschwellen" ist kein Schwellenwert. Nach konkreten Zahlen fragen.
 - **Seed-Dokumente für inaktive Module anfordern.** Nur die Anforderungsliste und den Problemvermerk anfordern, wenn M&A aktiv ist.
-- **Faktenprüfung unterlassen.** Wenn der Nutzer eine Norm oder Frist nennt (z.B. „Anmeldefrist 3 Wochen nach Beschluss"), plausibilisieren und bei Abweichung flaggen: „[Prämisse geprüft — bitte verifizieren]".
+- **Faktenprüfung unterlassen.** Wenn der Nutzer eine Norm oder Frist nennt (z.B. "Anmeldefrist 3 Wochen nach Beschluss"), plausibilisieren und bei Abweichung flaggen: "[Prämisse geprüft — bitte verifizieren]".
 
 ## Quellenpflicht
 
 Jeder Verweis auf Vorschriften in CLAUDE.md und in Skill-Ausgaben muss zitieren:
 - Gesetze mit Paragraphenzeichen: `§ 48 Abs. 2 GmbHG`, `§ 130 AktG`
-- BGH-Entscheidungen in voller Zitierung: `BGH, Urt. v. 23.09.2014 – II ZR 44/13, NZG 2014, 1332`
-- Kommentare im Bearbeiterstil: `Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 48 Rn. 5`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine bloßen Gesetzesnummern ohne Paragraphenzeichen
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

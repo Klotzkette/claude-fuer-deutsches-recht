@@ -1,6 +1,6 @@
 ---
 name: klageschrift-tatsachenvortrag-strukturieren
-description: "Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Wuerdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern."
+description: "Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern."
 ---
 
 # Den Sachverhalt richtig in die Klage schreiben

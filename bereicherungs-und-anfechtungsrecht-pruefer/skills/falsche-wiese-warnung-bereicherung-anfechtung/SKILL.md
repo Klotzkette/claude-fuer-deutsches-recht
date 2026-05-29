@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung-bereicherung-anfechtung
-description: "Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Abgrenzungsmatrix, haeufige systematische Fehler, Weiterleitung. Output: Warnhinweis mit korrekter Weiterleitung zum richtigen Regelungskreis. Abgrenzung: kein eigener Anspruchsguetachter, nur Navigationshilfe."
+description: "Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Abgrenzungsmatrix, häufige systematische Fehler, Weiterleitung. Output: Warnhinweis mit korrekter Weiterleitung zum richtigen Regelungskreis. Abgrenzung: kein eigener Anspruchsgutachter, nur Navigationshilfe."
 ---
 
 # Falsche-Wiese-Warnung: Bereicherung und Anfechtung
@@ -19,20 +19,17 @@ description: "Typische Falschverortungen erkennen: Vertrag statt Bereicherung, B
 
 ## Rechtsprechung
 
-BGH, Urt. v. 25.02.1999 – IX ZR 30/98, NJW 1999, 1704 — Ist der Vertrag nach § 134 BGB nichtig, kann der Leistende nicht aus dem Vertrag klagen; Anspruchsgrundlage ist ausschließlich § 812 Abs. 1 S. 1 BGB; die nichtigen Vertragsklauseln sind für die Rückabwicklung irrelevant.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 19.01.2012 – III ZR 7/11, NJW-RR 2012, 823 — § 985 BGB ist gegenüber § 812 BGB vorrangig, solange das Eigentum des Anspruchstellers besteht; Bereicherungsrecht greift erst, wenn der dingliche Anspruch nicht mehr durchsetzbar ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Das Recht der Insolvenzanfechtung (§§ 129 ff. InsO) steht ausschließlich dem Insolvenzverwalter zu; Einzelgläubiger haben außerhalb des Insolvenzverfahrens nur die Möglichkeit der Anfechtung nach §§ 1 ff. AnfG, die einen vollstreckbaren Titel voraussetzt (§ 2 AnfG).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 08.12.2015 – XI ZR 488/14, NJW 2016, 1169 — Bereicherungsansprüche setzen voraus, dass kein Rechtsgrund für das Behaltendürfen besteht; besteht eine wirksame Schuld, ist § 812 BGB nicht anwendbar, auch wenn die Leistung wirtschaftlich nachteilig war.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 1–30 (Verhältnis zu vertraglichen Ansprüchen, Subsidiarität).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 129 Rn. 1–15 (Abgrenzung InsO-Anfechtung / AnfG).
-Huber in: AnfG, 12. Aufl. 2022, § 2 Rn. 1–20 (Titelerfordernis, Abgrenzung zu §§ 129 ff. InsO).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill benennt die häufigsten systematischen Fehler bei der Auswahl des richtigen Regelungskreises und erklärt, warum sie das Ergebnis vollständig entwerten.

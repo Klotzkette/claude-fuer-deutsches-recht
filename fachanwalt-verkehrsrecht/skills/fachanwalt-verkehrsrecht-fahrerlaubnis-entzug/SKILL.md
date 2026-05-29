@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-fahrerlaubnis-entzug
-description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entziehung und fragt nach Moeglichkeiten. § 69 StGB strafgerichtlich § 3 StVG verwaltungsrechtlich. Pruefraster: Sperrfrist § 69a StGB vorlaeufige Entziehung § 111a StPO Wiedererteilung § 20 FeV MPU-Anordnung §§ 13 14 FeV Beschwerde § 304 StPO Widerspruch Verwaltungsverfahren Punkteabbau § 4 Abs. 7 StVG. Output: Verteidigungsstrategie und Antragsschriftsatz. Abgrenzung zu fachanwalt-verkehrsrecht-mpu-vorbereitung (MPU-Prep) und mandat-triage-verkehrsrecht."
+description: "Mandant hat Führerschein entzogen bekommen oder befuerchtet Entziehung und fragt nach Möglichkeiten. § 69 StGB strafgerichtlich § 3 StVG verwaltungsrechtlich. Prüfraster: Sperrfrist § 69a StGB vorlaeufige Entziehung § 111a StPO Wiedererteilung § 20 FeV MPU-Anordnung §§ 13 14 FeV Beschwerde § 304 StPO Widerspruch Verwaltungsverfahren Punkteabbau § 4 Abs. 7 StVG. Output: Verteidigungsstrategie und Antragsschriftsatz. Abgrenzung zu fachanwalt-verkehrsrecht-mpu-vorbereitung (MPU-Prep) und mandat-triage-verkehrsrecht."
 ---
 
 # Fahrerlaubnis-Entzug
@@ -36,15 +36,11 @@ description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entzi
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| BGH | 4 StR 479/93 | 25.11.1993 | § 69 Abs. 2 StGB Regelfall; Abweichung nur bei erheblichen atypischen Umständen |
-| BGH | 4 StR 200/03 | 05.11.2003 | Anrechnung vorläufige Entziehung auf Sperrfrist § 69a Abs. 7 StGB |
-| BVerwG | 3 C 45.15 | 17.03.2016 | Cannabis-Eignung; gelegentlicher Konsum + fehlende Trennungsfähigkeit = Entziehung |
-| BVerwG | 3 C 15.10 | 26.09.2013 | Gelegenheitskonsum Cannabis; kein automatischer Entzug; Trennungsfähigkeit entscheidend |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| VGH Bayern | 11 CS 20.1780 | 10.11.2020 | Haaranalyse als Abstinenznachweise; Zeitraum mindestens 6 Monate |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -56,7 +52,7 @@ description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entzi
 | 4 | Sperrfristdauer — BAK, Schadensgrad, Vorstrafen? | § 69a StGB | Anrechnung vorläufige Entziehung § 69a Abs. 7 |
 | 5 | Punktestand und Verwarnungen § 4 StVG | § 4 StVG | Prozedurale Anforderungen (Ermahnung, Verwarnung) eingehalten? |
 | 6 | MPU-Anlass § 13 oder § 14 FeV? | §§ 13, 14 FeV | BAK-Wert; Drogenkonsum; Abstinenznachweis sichern |
-| 7 | Abstinenzbelege vorhanden? | §§ 13, 14 FeV; BVerwG 3 C 45.15 | Haaranalyse 6 Monate; Urinproben monatlich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Anfechtungsklage gegen Verwaltungsentzug? | § 42 VwGO | Aufschiebende Wirkung § 80 VwGO; § 80 Abs. 2 Nr. 4 VwGO — AG ordnet sofortige Vollziehbarkeit an |
 | 9 | Eilantrag § 80 Abs. 5 VwGO bei Verwaltungsentzug? | § 80 Abs. 5 VwGO | Suspendierung des Entzugsbescheids für Dauer Hauptverfahren |
 | 10 | Verlängerung der Sperrfrist vermeiden? | § 69a Abs. 4 StGB | Vor Ablauf Sperrfrist keine Neutat |
@@ -78,7 +74,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Strafverfahren parallel laufend | Abstimmung Strafverteidiger; Widerspruch ggf. nach Strafverfahren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -225,7 +220,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Beweislast und Darlegungslast
 
 | Frage | Beweislast |
@@ -253,10 +247,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand | Reaktion |
 |---|---|
 | BAK-Wert belegt Ungeeignetheit | Rückrechnung BAK zur Tatzeit; Abbauwerte 0,1 Promille/h; ggf. Trinkmengenberechnung durch Sachverständigen |
-| Regelfall § 69 Abs. 2 StGB unwiderleglich | Unrichtig: BGH 4 StR 479/93 lässt Atypik bei erheblichen Besonderheiten zu |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | MPU zwingend nach § 13 FeV | Maßnahme kann durch anderweitigen Eignungsnachweis (positives Gutachten, Abstinenzbelege) ersetzt werden |
 | Punkteentzug ohne weitere Prüfung | Verfahrensfehler (fehlende Verwarnungsschritte) begründen Rechtswidrigkeit |
-| Cannabis — Trennungsvermögen fehlt | BVerwG 3 C 15.10: Gelegenheitskonsum allein reicht nicht; fehlende Trennungsfähigkeit muss positiv belegt werden |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -283,10 +277,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-StGB §§ 69, 69a; StPO §§ 111a, 304; StVG §§ 3, 4, 24a, 25, 29; FeV §§ 11–14, 20, 46; VwGO §§ 42, 70, 74, 80; BGH 4 StR 479/93; BGH 4 StR 200/03; BVerwG 3 C 45.15; BVerwG 3 C 15.10; VGH Bayern 11 CS 20.1780; Hentschel/König/Dauer Straßenverkehrsrecht 47. Aufl. 2023; Burhoff Handbuch des Verkehrsrechts.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
-AZ geprüft: OVG NRW 16 B 1120/19 (WRONG_TOPIC — tatsächlich Konkurrentenstreit Schwerbehinderung Senat 6, nicht MPU-Anordnung Senat 16; AZ auf dejure.org nicht auffindbar). Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. Kein Ersatz gefunden. Alle übrigen AZ in diesem Skill wurden nicht beanstandet. Frontmatter unverändert.
 -->

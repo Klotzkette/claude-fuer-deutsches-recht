@@ -1,6 +1,6 @@
 ---
 name: mandant-aufnahme
-description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und muss Sachverhalt strukturiert erfassen Rechtsgebiet einordnen und naechste Schritte bestimmen. BeratungsHiG § 2 Beratungsberechtigung, BRAO § 43a Interessenkonflikte, niedrigschwellige Erstberatung. Pruefraster Sachverhalt aufnehmen, Dringlichkeit und Fristen erfassen, Interessenkonflikt prüfen, Beratungsschein-Berechtigungen klaeren. Output Mandantenaufnahme-Protokoll mit Sachverhalts-Zusammenfassung und Sofortmassnahmen. Abgrenzung zu Kaltstart-Interview fuer Plugin-Konfiguration und zu Memo fuer rechtliche Analyse."
+description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und muss Sachverhalt strukturiert erfassen Rechtsgebiet einordnen und naechste Schritte bestimmen. BeratungsHiG § 2 Beratungsberechtigung, BRAO § 43a Interessenkonflikte, niedrigschwellige Erstberatung. Prüfraster Sachverhalt aufnehmen, Dringlichkeit und Fristen erfassen, Interessenkonflikt prüfen, Beratungsschein-Berechtigungen klaeren. Output Mandantenaufnahme-Protokoll mit Sachverhalts-Zusammenfassung und Sofortmassnahmen. Abgrenzung zu Kaltstart-Interview für Plugin-Konfiguration und zu Memo für rechtliche Analyse."
 ---
 
 # /mandant-aufnahme
@@ -37,13 +37,13 @@ Bevor das Gespräch beginnt:
 2. Gegen bestehende Mandate und Mandantenregister abgleichen.
 3. Wenn Konflikt erkannt: Intake sofort stoppen; Mandant höflich über Hindernis informieren; keine Rechtsauskünfte mehr erteilen; an alternative Beratungsstelle verweisen.
 
-> Prüffrage: „Hat unsere Beratungsstelle oder unser Anleiter je die Gegenseite dieses Verfahrens beraten?" – wenn ja: Konflikt.
+> Prüffrage: "Hat unsere Beratungsstelle oder unser Anleiter je die Gegenseite dieses Verfahrens beraten?" – wenn ja: Konflikt.
 
 ## Datenschutz-Hinweis zu Beginn (Pflicht)
 
 Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 
-> „Wir sind eine studentische Rechtsberatungsstelle. Ihre Daten werden nur für Ihre Beratung genutzt und nach Abschluss des Mandats mindestens 5 Jahre aufbewahrt (§ 50 BRAO). Sie können jederzeit Auskunft, Berichtigung oder Löschung verlangen (DSGVO Art. 15–17). Ihre Angaben sind vertraulich (§ 203 StGB)."
+> "Wir sind eine studentische Rechtsberatungsstelle. Ihre Daten werden nur für Ihre Beratung genutzt und nach Abschluss des Mandats mindestens 5 Jahre aufbewahrt (§ 50 BRAO). Sie können jederzeit Auskunft, Berichtigung oder Löschung verlangen (DSGVO Art. 15–17). Ihre Angaben sind vertraulich (§ 203 StGB)."
 
 ## Fachbereichsspezifisches Intake
 
@@ -59,7 +59,7 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 - **Sprache:** Welche Sprachen spricht der Mandant? Dolmetscher notwendig?
 - **Dringlichkeit:** Abschiebung angekündigt? Ankündigungsschreiben der Ausländerbehörde?
 
-**Wichtige Normen:** AsylG §§ 3–3e (Flüchtlingsschutz), § 4 (subsidiärer Schutz), § 36 (beschleunigtes Verfahren), § 74 (Klagefristen), §§ 77, 78 (Berufung/Revision); AufenthG §§ 25, 60, 60a; BVerwG, Urt. v. 20.02.2020 – 1 C 1.19, BVerwGE 167, 319 Rn. 24 (Prognosestandard subsidiärer Schutz).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### SGB II / Bürgergeld
 - **Bescheid:** Art des Bescheids (Bewilligung, Änderung, Ablehnung, Sanktion) und Datum der Bekanntgabe → **Widerspruchsfrist: 1 Monat ab Bekanntgabe (§ 84 SGG)**.
@@ -70,7 +70,7 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 - **Vorherige Rechtsmittel:** Frühere Widersprüche oder Klagen?
 - **Dringlichkeit:** Droht Obdachlosigkeit? Einstweiliger Rechtsschutz (§ 86b SGG) nötig?
 
-**Wichtige Normen:** SGB II §§ 7, 9, 11–12, 22, 31–31b; SGG §§ 84, 87, 86b; BSG, Urt. v. 14.03.2018 – B 14 AS 17/17 R, BSGE 125, 210 Rn. 18 (Sanktionen); BSG, Urt. v. 18.01.2011 – B 4 AS 90/10 R, BSGE 107, 154 (Kosten der Unterkunft).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Mietrecht
 - **Mietverhältnis:** Privat, sozial gefördert (WoBindG), Genossenschaft?
@@ -78,11 +78,11 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 - **Dokumente:** Mietvertrag, Kündigungsschreiben, Mieterhöhungsverlangen, Mietspiegel vorhanden?
 - **Fristen:** Datum des Kündigungsschreibens / Mieterhöhungsverlangens? Gerichtstermin?
 - **Mietspiegel:** Liegt ein qualifizierter Mietspiegel i. S. v. § 558d BGB vor? (Berlin: Berliner Mietspiegel 2023/2024)
-- **AGB-Klauseln:** Schönheitsreparaturen, Anfangsrenovierung – nach BGH i. d. R. unwirksam (BGH, Urt. v. 18.03.2015 – VIII ZR 185/14, NJW 2015, 1594 – starres Fristenschema).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sozialklausel:** § 574 BGB – Widerspruch des Mieters gegen Kündigung? Härtegründe?
 - **Dringlichkeit:** Räumungsklage anhängig? Vollstreckungsankündigung?
 
-**Wichtige Normen:** BGB §§ 535 ff., 536, 543, 558–558e, 559, 574; Wurmnest, in: MüKoBGB, 9. Aufl. 2022, §§ 305 ff. Rn. 1 ff. (AGB); BGH, Urt. v. 22.11.2023 – VIII ZR 77/23, NJW 2024, 430 (Mieterhöhung Begründung).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ### Verbraucherrecht
 - **Vertragsart:** Fernabsatz (§§ 312 ff. BGB), Energielieferung, Mobilfunk, Versicherung, Finanzierung?
@@ -146,4 +146,4 @@ anleitenden Volljuristen erforderlich. Kein Versand ohne Prüfung.]
 - **Fehlende Konfliktprüfung:** Ohne Check kann § 43a Abs. 4 BRAO verletzt sein. Dann keine weiteren Informationen mehr entgegennehmen.
 - **Sprachbarriere nicht dokumentiert:** Wenn der Mandant die Erläuterungen nicht verstanden hat, ist die Aufklärungspflicht nicht erfüllt.
 - **Falsche Rechtsbereichszuordnung:** Asylmandat schlägt fast immer auf SGB II durch (§ 7 Abs. 1 Satz 2 SGB II: Leistungsausschluss für bestimmte Ausländer – prüfen!).
-- **Entgeltlichkeit:** Kein Entgelt entgegennehmen – auch kein „freiwilliges Geschenk". Verletzt § 6 Abs. 2 Nr. 2 RDG (Unentgeltlichkeitspflicht) und ist bußgeldbewehrt (§ 20 RDG).
+- **Entgeltlichkeit:** Kein Entgelt entgegennehmen – auch kein "freiwilliges Geschenk". Verletzt § 6 Abs. 2 Nr. 2 RDG (Unentgeltlichkeitspflicht) und ist bußgeldbewehrt (§ 20 RDG).

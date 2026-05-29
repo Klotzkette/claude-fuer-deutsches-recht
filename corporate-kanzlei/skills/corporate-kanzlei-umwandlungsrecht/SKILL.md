@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-umwandlungsrecht
-description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermoegensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG."
+description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG."
 ---
 
 # Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel
@@ -29,17 +29,11 @@ description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel u
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 08.01.2019 - II ZB 25/17, BGHZ 220, 203 — Formwechsel GmbH → AG: Bewertungsfragen bei Abfindung; Barabfindungsanspruch der Minderheit nach § 207 UmwG
-- BGH, Urt. v. 25.10.2021 - II ZR 174/20, NJW 2022, 462 — Ausserordentliche Kuendigung von Dauerschuldverhaeltnissen bei Spaltung; § 133 I UmwG Gesamtrechtsnachfolge umfasst Kuendigungsrechte nicht automatisch
-- BayObLG, Beschl. v. 11.03.2022 - 101 W 6/22 e, AG 2022, 380 — Spruchverfahren nach Verschmelzung; Barabfindung muss dem vollen wirtschaftlichen Wert entsprechen; IDW S1-Ertragswertmethode angewandt
-- BGH, Beschl. v. 12.05.2020 - II ZB 14/18, BGHZ 225, 231 — Grenzueberschreitende Verschmelzung nach SEVIC-Entscheidung; Registergericht muss ausl. Verschmelzungsbescheinigung anerkennen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo UmwG/Mayer (3. Aufl. 2021) — umfassende Kommentierung aller Umwandlungsarten
-- Lutter/Bayer UmwG (6. Aufl. 2019) — Standardwerk mit Praxishinweisen
-- Kallmeyer/Meister/Schiffer UmwG (7. Aufl. 2020) — Praxiskommentar
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruefungsschema: Verschmelzung (§§ 2 ff. UmwG)
 
 | Schritt | Inhalt | Norm | Frist/Formalitaet |
@@ -153,5 +147,5 @@ Minderheitsgesellschafter koennen im Spruchverfahren (§§ 2, 34 ff. SpruchG) ei
 ## Quellen
 
 - §§ 2-304 UmwG; §§ 11-25 UmwStG; § 613a BGB; SpruchG
-- BGH II ZB 25/17 (Formwechsel-Abfindung); BGH II ZR 174/20 (Kuendigung bei Spaltung); BayObLG 101 W 6/22 (Spruchverfahren)
-- MueKo UmwG/Mayer (3. Aufl. 2021); Lutter/Bayer UmwG (6. Aufl. 2019)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

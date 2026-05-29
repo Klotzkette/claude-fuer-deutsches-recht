@@ -1,6 +1,6 @@
 ---
 name: deaktivieren
-description: "Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Pruefraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestaetigung. Abgrenzung: nicht vollstaendige Deinstallation."
+description: "Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige Deinstallation."
 ---
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)
@@ -27,13 +27,12 @@ Erneutes Ausführen des Befehls mit demselben Skillnamen reaktiviert den Skill.
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858 — Rechtsanwaltskanzlei haftet für ordnungsgemäße Aktenführung und Nachweisbarkeit; Protokollierungslücken bei Statusänderungen gehen zu Lasten der Kanzlei.
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9 — Sorgfaltsgemäße Einrichtung und Überwachung technischer Systeme ist geschuldeter Anwaltspflichtstandard; Deaktivierungsmöglichkeit gehört zum Grundrepertoire ordnungsgemäßer Kanzleiorganisation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12 — Anforderungen an die Kanzleiorganisation und digitale Aktenführung.
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55 — Verschwiegenheitspflicht und technische Schutzmaßnahmen beim Einsatz und bei der Außerbetriebnahme von KI-Werkzeugen.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -43,7 +42,7 @@ Den Deaktivierungs-Arbeitsablauf aus dem `skill-verwalter`-Referenz-Skill ausfü
 
 1. `installations-protokoll.yaml` lesen. Neuesten Eintrag für den genannten Skill suchen.
 2. **Wenn nicht gefunden oder letzte Aktion ist `deinstallieren`:** Mitteilen und stoppen.
-3. **Wenn letzte Aktion ist `deaktivieren`:** „Dieser Skill ist bereits deaktiviert. Reaktivieren? (ja / nein)" — bei ja Reaktivierungs-Arbeitsablauf ausführen.
+3. **Wenn letzte Aktion ist `deaktivieren`:** "Dieser Skill ist bereits deaktiviert. Reaktivieren? (ja / nein)" — bei ja Reaktivierungs-Arbeitsablauf ausführen.
 4. **Wenn letzte Aktion ist `install` oder `enable`:** Weiter zu Schritt 2.
 
 ### Schritt 2: Dateien identifizieren
@@ -95,7 +94,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
    - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
    - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
 2. Umbenennungsliste anzeigen
-3. „Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
+3. "Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
 4. Protokolleintrag mit `action: enable` anhängen
 
 ## Sicherheitsregeln
@@ -111,7 +110,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 - Liste der umzubenennenden Dateien
 - Bestätigungsprompt
 - Bestätigung der Deaktivierung mit Protokollpfad
-- Kurzhinweis zur Reaktivierung: „Zur Reaktivierung: `/kanzlei-builder-hub:deaktivieren [skillname]` erneut ausführen."
+- Kurzhinweis zur Reaktivierung: "Zur Reaktivierung: `/kanzlei-builder-hub:deaktivieren [skillname]` erneut ausführen."
 
 ## Beispiel
 
@@ -153,10 +152,9 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - § 43a Abs. 2 BRAO, § 203 StGB (Verschwiegenheit; Schutz von Mandantendaten)
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen; Deaktivierung als Sicherheitsinstrument)
 - AI Act Art. 26 (Deployer-Pflichten; Kontrollmechanismen für KI-Systeme)
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12
-- Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 > Detaillierte Deaktivierungs-, Deinstallations- und Reaktivierungs-Arbeitsabläufe liegen im `skill-verwalter`-Referenz-Skill — vor substanzieller Arbeit laden.
 

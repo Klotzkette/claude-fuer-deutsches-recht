@@ -1,6 +1,6 @@
 ---
 name: stb-online-portal-datev-mandantenshop
-description: "DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransfer Bank-Abruf Auswertungs-Download Mandantenakte digital fuer Mandant. Methodik Konfiguration Benutzer Schulung Mandant. Output eingerichtetes Portal."
+description: "DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransfer Bank-Abruf Auswertungs-Download Mandantenakte digital für Mandant. Methodik Konfiguration Benutzer Schulung Mandant. Output eingerichtetes Portal."
 ---
 
 # DATEV Unternehmen Online — Mandantenshop

@@ -7,7 +7,7 @@ description: "DBA Deutschland Finnland 2016. Anwendungsfall Maschinenbau IT Tele
 
 ## Kernsachverhalt
 
-Das DBA-Finnland wurde 2016 neu gefasst (Datum 19.02.2016, BGBl. 2017 II S. 18) und loeste das DBA von 1979 ab. Es ist OECD-MA 2014/2017-konform. Praxisrelevant sind IT-/Telekom-Beteiligungen (Nokia, Spieleentwickler), Maschinenbau und Pensionen.
+Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 II S. 466/467, in Kraft 16.11.2017, anwendbar ab 01.01.2018) und loeste das DBA vom 05.07.1979 ab. Es ist OECD-MA 2014/2017-konform. Praxisrelevant sind IT-/Telekom-Beteiligungen (Nokia, Spieleentwickler), Maschinenbau und Pensionen.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,15 +23,16 @@ Das DBA-Finnland wurde 2016 neu gefasst (Datum 19.02.2016, BGBl. 2017 II S. 18) 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Finnland vom 19.02.2016**, in Kraft 28.12.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 18) — **verifizieren**.
-- Altes DBA-Finnland vom 05.07.1979 fuer Zeitraeume bis 2017 — **verifizieren**.
+- **DBA Deutschland-Finnland vom 19.02.2016**, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467; BStBl. 2017 I S. 1527/1528).
+- Altes DBA-Finnland vom 05.07.1979 fuer Zeitraeume bis 2017.
+- Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755).
 - **OECD-MA 2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Finnland haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 32/14 zu Finnland — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zum DBA-Finnland in juris abrufen.
 
 ## Land-spezifisches
 
@@ -45,9 +46,9 @@ Das DBA-Finnland wurde 2016 neu gefasst (Datum 19.02.2016, BGBl. 2017 II S. 18) 
 - Loehne Art. 14: 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**. EU-MTRL Schachtel 0 Prozent.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 10 Prozent Beteiligung), 15 Prozent (Streubesitz). EU-MTRL 0 Prozent Schachtel vorrangig.
+- **Zinsen** (Art. 11): 0 Prozent.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent. EU-ZinsLizenzRL vorrangig.
 
 ### Vermeidungs-Methode (Art. 22)
 - Anrechnungsmethode in Neufassung 2016 ueberwiegend.
@@ -86,4 +87,6 @@ Das DBA-Finnland wurde 2016 neu gefasst (Datum 19.02.2016, BGBl. 2017 II S. 18) 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 28.12.2017. Altes DBA 05.07.1979. **Datum, BGBl-Fundstelle, MLI-Notification, Quellensteuer-Saetze und Pensions-Klassifikation verifizieren.**
+Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

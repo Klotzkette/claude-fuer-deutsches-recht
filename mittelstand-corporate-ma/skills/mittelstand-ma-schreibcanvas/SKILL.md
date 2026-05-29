@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-schreibcanvas
-description: "Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Pruefraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollstaendigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Pruefung. Abgrenzung zu vertragsmarkup-key-issues (Vertragspruefung) und output-versand-signing (Ausgabe)."
+description: "Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe)."
 ---
 
 # Freistehender Corporate-Schreibcanvas
@@ -19,11 +19,11 @@ Dieser Skill ist der freundliche Schreib- und Qualitätsbegleiter im M&A-Plugin.
 
 ## Typische Hinweise
 
-- „Das ist als Finding noch zu dünn: Bitte Belegstelle, Risikoauswirkung und SPA-Relevanz ergänzen.“
-- „Hier klingt es nach einer Garantieverletzung; soll ich eine Disclosure-Schedule-Zeile vorbereiten?“
-- „Das sieht nach einem CP aus; soll ich es in den Deal-Fristenkalender ziehen?“
-- „Für beA/Notar/Register fehlt noch die Versand- oder Vollmachtsprüfung.“
-- „Bei KI-gestützter DD sollte der Validierungsgrad im Report stehen.“
+- "Das ist als Finding noch zu dünn: Bitte Belegstelle, Risikoauswirkung und SPA-Relevanz ergänzen."
+- "Hier klingt es nach einer Garantieverletzung; soll ich eine Disclosure-Schedule-Zeile vorbereiten?"
+- "Das sieht nach einem CP aus; soll ich es in den Deal-Fristenkalender ziehen?"
+- "Für beA/Notar/Register fehlt noch die Versand- oder Vollmachtsprüfung."
+- "Bei KI-gestützter DD sollte der Validierungsgrad im Report stehen."
 
 ## Ausgabe
 
@@ -49,13 +49,11 @@ Dieser Skill ist der freundliche Schreib- und Qualitätsbegleiter im M&A-Plugin.
 - §§ 130, 133, 157 BGB — Auslegung und Zugang von Erklaerungen: Schriften muessen klar und verstaendlich sein; Auslegungsrisiken minimieren
 
 ### Leitsaetze
-- BGH, Urt. v. 14.03.2003 - V ZR 64/02, NJW 2003, 1811 — Offenbarungspflicht: rechtliche Schriften muessen saemtliche relevanten Risiken klar und verstaendlich benennen
-- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: Anwalt muss vollstaendige Information in verstaendlicher Form uebermitteln
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Picot, Unternehmenskauf, Kapitel 1 (Kommunikation im M&A-Mandat), 5. Auflage
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 1 § 1 (Mandatskommunikation)
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Workflow-Empfehlung
 1. Zielgruppe bestimmen: Gericht / Mandant / Gegenseite
 2. Tonfall waehlen: sachlich-juristisch / erklaerend / konfrontativ

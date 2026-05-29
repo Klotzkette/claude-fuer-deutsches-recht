@@ -45,13 +45,13 @@ Standort-Fußabdruck, HRIS-Status, Tarifvertrag prüfen. Falls HRIS verbunden: H
 Je nach Abwesenheitstyp:
 
 **Krankheit (EFZG):**
-- EFZG-Erschöpfungsdatum: Startdatum + 42 Tage (6 Wochen) [Achtung: Werktage vs. Kalendertage; § 3 EFZG zählt Kalendertage, nicht Arbeitstage; BAG, Urt. v. 13.07.2005 – 5 AZR 578/04, NZA 2006, 98 `[Modellwissen – prüfen]`]
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BEM-Prüfdatum: ab 6-wöchiger AU innerhalb von 12 Monaten (§ 167 Abs. 2 SGB IX)
 - Wenn gleiche Erkrankung: Neuer EFZG-Anspruch? Letzter AU-Zeitraum prüfen.
 
 **Urlaub (BUrlG):**
 - Verfallsdatum: 31.12. des laufenden Jahres (§ 7 Abs. 3 S. 1 BUrlG) bzw. 31.03. des Folgejahres bei Übertragung
-- Hinweispflichts-Erinnerung: 3 Monate vor Verfall (EuGH C-684/16)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Resturlaub berechnen: Gesamtanspruch − genommene Tage
 
 **Mutterschutz (MuSchG):**
@@ -100,7 +100,7 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 - § 3 MuSchG (Schutzfristen), § 17 MuSchG (Kündigungsschutz)
 - §§ 15–18 BEEG (Elternzeit, Anmeldung, Kündigungsschutz)
 - § 167 Abs. 2 SGB IX (BEM-Pflicht)
-- EuGH, Urt. v. 06.11.2018 – C-684/16 (Max-Planck), NZA 2018, 1474
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -132,5 +132,5 @@ Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
 
 - **BEEG-Anmeldung nachträglich** – Elternzeit kann nicht rückwirkend beantragt werden; Anmeldedatum prüfen.
 - **Mehrere Abwesenheitsperioden bei gleicher Erkrankung** – EFZG-Neuanspruch-Prüfung nicht vergessen.
-- **Urlaubsverfall ohne Hinweis-Dokumentation** – Arbeitgeber muss nachweisen, dass er auf drohenden Urlaubsverfall hingewiesen hat (EuGH C-684/16); im Register dokumentieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Anonymisierung** – auch im internen Register: Mitarbeiter-IDs statt Namen verwenden; § 26 BDSG.

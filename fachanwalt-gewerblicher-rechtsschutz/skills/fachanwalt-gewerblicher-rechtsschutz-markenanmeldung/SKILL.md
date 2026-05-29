@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
-description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Pruefraster: Markenfaehigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht fuer Markenrechtsverletzungen (§ 14 MarkenG)."
+description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht für Markenrechtsverletzungen (§ 14 MarkenG)."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -42,13 +42,7 @@ description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch ge
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | I ZB 59/12 | 06.11.2013 | smartbook: Unterscheidungskraft; kombinierte Begriffe ohne Eigenwert schutzunfähig wenn Gesamteindruck beschreibend |
-| BGH | I ZB 68/11 | 13.09.2012 | Beschreibender Charakter: Gesamteindruck maßgeblich; jeder Bestandteil gesondert und dann kombiniert prüfen |
-| EuGH | C-218/01 | 12.02.2004 | Henkel: 3D-Marken haben keine erhöhte Schutzfähigkeit; gleicher Maßstab wie Wortmarken |
-| EuGH | C-307/10 | 19.06.2012 | IP Translator: Klasse-Überschriften schützen nur die wörtlich genannten Waren/Dienstleistungen; keine automatische Gesamtklasse |
-| BGH | I ZR 27/13 | 24.07.2014 | Gelbe Wörterbücher: Markenähnlichkeit; Gesamteindruck prägende Bestandteile bei Wort-Bild-Marken |
-| BGH | I ZB 21/16 | 11.05.2017 | Benutzungszwang: ernsthafter Benutzungswille; bloße Token-Verwendung reicht nicht |
-| EuGH | C-371/18 | 29.01.2020 | Sky: Waren-/Dienstleistungsverzeichnis muss hinreichend klar sein; zu breite Angaben löschungsanfällig |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Markenanmeldung
 
@@ -63,7 +57,7 @@ description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch ge
 | 4 | Üblichkeit? | § 8 Abs. 2 Nr. 3 MarkenG | Zurückweisung bei Gattungsbezeichnungen |
 | 5 | Weitere absolute Hindernisse (Hoheitszeichen, Sittenverstoß, Täuschung)? | § 8 Abs. 2 Nr. 4–10 MarkenG | Zurückweisung |
 | 6 | Ähnlichkeitsrecherche: ältere identische oder ähnliche Zeichen? | § 9 MarkenG | Widerspruch möglich nach Eintragung |
-| 7 | Nizza-Klassifikation korrekt und spezifisch? | § 33 MarkenG; EuGH C-307/10 | IP-Translator-Pflicht: konkrete Angaben |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Priorität aus Voranmeldung nutzbar? | § 34 MarkenG; PVÜ Art. 4 | Prioritätsfrist 6 Monate prüfen |
 | 9 | Schutzumfang (national/EU/international) festlegen | UMV 2017/1001; Madrider Protokoll | Kostenkalkulation je Schutzgebiet |
 | 10 | Benutzungsbereitschaft realistisch? | § 25 MarkenG | Einrede Nichtbenutzung nach 5 Jahren |
@@ -110,11 +104,11 @@ Markenform:
 
 Waren- und Dienstleistungsverzeichnis (Nizza-Klassifikation, 12. Edition):
 
-Klasse [Nr.]: [Konkrete Aufzählung der Waren, z. B. „Bekleidungsstücke,
+Klasse [Nr.]: [Konkrete Aufzählung der Waren, z. B. "Bekleidungsstücke,
 nämlich T-Shirts, Hemden und Hosen; Schuhwaren; Kopfbedeckungen"]
 Klasse [Nr.]: [Konkrete Aufzählung der Dienstleistungen]
 
-[Wichtig: keine Klassenüberschriften-Hop ohne Konkretisierung, EuGH C-307/10]
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Priorität:
 [ ] Keine
@@ -143,7 +137,7 @@ Mit freundlichen Grüßen
 ```
 EUIPO Unionsmarken-Anmeldung — Checkliste
 
-Portal: https://euipo.europa.eu/eSearch/ → „eFiling"
+Portal: https://euipo.europa.eu/eSearch/ → "eFiling"
 
 Pflichtangaben:
 - Markenform (gemäß UMV 2017/1001 Art. 4)
@@ -236,12 +230,12 @@ W 3: Benutzungsnachweise (Kataloge, Rechnungen, Umsatzzahlen)
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Marke ist beschreibend — § 8 Abs. 2 Nr. 2 MarkenG" | DPMA / Widersprechende | Verkehrsdurchsetzung § 8 Abs. 3 MarkenG nachweisen; alternativ: Fantasy-Element hinzufügen und Neuanmeldung |
-| „Fehlende Unterscheidungskraft" | DPMA | Benutzungsnachweis vor Anmeldung (Verkehrsgeltung); Beschwerde BPatG § 66 MarkenG |
-| „Verwechslungsgefahr mit älterer Marke" | Widerspruch | Klanglich/schriftbildlich/begrifflich differenzieren; geringe Ähnlichkeit der Waren beantragen; ältere Marke auf Benutzungszwang prüfen (§ 25 MarkenG) |
-| „Ältere Marke nicht benutzt" | Markeninhaber gegen Angreifer | Einrede Nichtbenutzung § 25 MarkenG nach 5 Jahren; Benutzungsnachweise anfordern |
-| „Waren-/Dienstleistungsverzeichnis zu breit" | Dritter / EuGH C-371/18 (Sky) | Limitation des Verzeichnisses nach § 39 MarkenG; Teilzurücknahme möglich |
-| „Internationale Registrierung abgelaufen" | Markeninhaber | Verlängerung beim WIPO Central Attack nicht rechtzeitig; abhängige Marke verlischt ohne Basismarke |
+| "Marke ist beschreibend — § 8 Abs. 2 Nr. 2 MarkenG" | DPMA / Widersprechende | Verkehrsdurchsetzung § 8 Abs. 3 MarkenG nachweisen; alternativ: Fantasy-Element hinzufügen und Neuanmeldung |
+| "Fehlende Unterscheidungskraft" | DPMA | Benutzungsnachweis vor Anmeldung (Verkehrsgeltung); Beschwerde BPatG § 66 MarkenG |
+| "Verwechslungsgefahr mit älterer Marke" | Widerspruch | Klanglich/schriftbildlich/begrifflich differenzieren; geringe Ähnlichkeit der Waren beantragen; ältere Marke auf Benutzungszwang prüfen (§ 25 MarkenG) |
+| "Ältere Marke nicht benutzt" | Markeninhaber gegen Angreifer | Einrede Nichtbenutzung § 25 MarkenG nach 5 Jahren; Benutzungsnachweise anfordern |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Internationale Registrierung abgelaufen" | Markeninhaber | Verlängerung beim WIPO Central Attack nicht rechtzeitig; abhängige Marke verlischt ohne Basismarke |
 
 ## Streitwert und Kosten
 
@@ -296,8 +290,8 @@ Bevor die Anmeldestrategie festgelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 12.11.2002 — C-206/01 (Arsenal / Matthew Reed):** Das Markenrecht schuetzt die herkunftshinweisende Funktion des Zeichens; eine markenmaeßige Benutzung liegt vor, wenn das angegriffene Zeichen im Wirtschaftsverkehr als Hinweis auf die betriebliche Herkunft der Waren wahrgenommen wird.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 24.06.2010 — I ZB 115/08 (Tooor!):** Marken mit offensichtlich anpreisender Bedeutung ohne zurechenbaren Herkunftshinweis sind nicht eintragungsfaehig; das Zeichen muss fuer den Verbraucher als betrieblicher Identifikator wahrnehmbar sein, nicht nur als Qualitaetsversprechen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 06.11.2013 — I ZR 61/13 (Mescher vs. mexxer):** Beim Klangvergleich zweier Wortmarken ist der Gesamteindruck massgeblich; phonetische Aehnlichkeit allein kann Verwechslungsgefahr begruenden, wenn die Waren identisch oder aehnlich sind — daher ist die akustische Vorrecherche unverzichtbarer Teil der Kollisionsrecherche.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

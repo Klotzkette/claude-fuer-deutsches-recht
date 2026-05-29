@@ -86,7 +86,7 @@
 | T-01 | **Empfänger** | Musterholding GmbH |
 | T-01 | **Empfänger-IBAN** | DE44 5004 0000 0517 8837 00 |
 | T-01 | **Empfänger-Bank** | Commerzbank AG Frankfurt (BIC: COBADEFFXXX) |
-| T-01 | **Verwendungszweck** | „Advance Payment – Contract MH-DTS-2026-04" |
+| T-01 | **Verwendungszweck** | "Advance Payment – Contract MH-DTS-2026-04" |
 | T-01 | **Zahlungsweg** | SEPA-Überweisung |
 | T-01 | **Status** | Sichergestellt auf Sperrkonto; nicht verarbeitet |
 
@@ -101,7 +101,7 @@ Im April 2026 nahm die Musterholding GmbH Verhandlungen mit der Danube Trade Sol
 ### 4.2 Einzelne Verdachtsmomente
 
 **Verdachtsmoment 1 — Drittzahlung ohne Erklärung:**  
-Am 28.04.2026 ging eine Vorauszahlung von 187.500 EUR auf dem Konto der Musterholding GmbH ein. Als Auftraggeber war nicht der Vertragspartner (Danube Trade Solutions SRL), sondern die Adriatic Commerce Ltd. (Malta) angegeben. Eine vertragliche Grundlage oder schriftliche Erklärung für diese Drittzahlung lag zu diesem Zeitpunkt nicht vor und wurde trotz Anfrage nicht vollständig nachgereicht. Die Verbindung zwischen Adriatic Commerce Ltd. und Danube Trade Solutions SRL beschränkt sich auf die mündliche Erklärung, es handele sich um ein „verbundenes Unternehmen".
+Am 28.04.2026 ging eine Vorauszahlung von 187.500 EUR auf dem Konto der Musterholding GmbH ein. Als Auftraggeber war nicht der Vertragspartner (Danube Trade Solutions SRL), sondern die Adriatic Commerce Ltd. (Malta) angegeben. Eine vertragliche Grundlage oder schriftliche Erklärung für diese Drittzahlung lag zu diesem Zeitpunkt nicht vor und wurde trotz Anfrage nicht vollständig nachgereicht. Die Verbindung zwischen Adriatic Commerce Ltd. und Danube Trade Solutions SRL beschränkt sich auf die mündliche Erklärung, es handele sich um ein "verbundenes Unternehmen".
 
 **Verdachtsmoment 2 — Ungeklärter wirtschaftlich Berechtigter:**  
 Als Gesellschafter von Danube Trade Solutions SRL wurde die Blue Harbor Holdings Ltd. (Nikosia, Zypern) angegeben. Trotz zweier schriftlicher Anforderungen (16.04.2026 und 08.05.2026) wurde keine natürliche Person als wirtschaftlich Berechtigter benannt. Das zyprische Handelsregister weist lediglich einen Nominee Director aus. Die behauptete Treuhandkonstruktion wurde nicht dokumentiert.
@@ -120,7 +120,7 @@ Die am Sachverhalt beteiligten Einheiten haben Bezüge zu Rumänien (Mittel), Zy
 
 ### 4.3 Gesamtwürdigung
 
-Keines der genannten Verdachtsmomente allein würde zwingend eine Verdachtsmeldung begründen. Jedoch liegt eine Kumulierung von sechs unabhängigen Risikoindikatoren vor, die in ihrer Gesamtheit auf mögliche Geldwäsche-Aktivitäten (§ 261 StGB) hindeuten. Insbesondere der Einsatz einer Drittzahlergesellschaft in einer Offshore-Jurisdiktion in Verbindung mit einem ungeklärten UBO entspricht dem typischen Erscheinungsbild des „Layering" (zweite Phase der Geldwäsche). Die Musterholding GmbH ist nach § 43 Abs. 1 GwG zur Meldung verpflichtet, da Tatsachen auf Geldwäsche hindeuten und keine eindeutige Widerlegung des Verdachts möglich ist.
+Keines der genannten Verdachtsmomente allein würde zwingend eine Verdachtsmeldung begründen. Jedoch liegt eine Kumulierung von sechs unabhängigen Risikoindikatoren vor, die in ihrer Gesamtheit auf mögliche Geldwäsche-Aktivitäten (§ 261 StGB) hindeuten. Insbesondere der Einsatz einer Drittzahlergesellschaft in einer Offshore-Jurisdiktion in Verbindung mit einem ungeklärten UBO entspricht dem typischen Erscheinungsbild des "Layering" (zweite Phase der Geldwäsche). Die Musterholding GmbH ist nach § 43 Abs. 1 GwG zur Meldung verpflichtet, da Tatsachen auf Geldwäsche hindeuten und keine eindeutige Widerlegung des Verdachts möglich ist.
 
 ### 4.4 Vortat-Hypothese
 

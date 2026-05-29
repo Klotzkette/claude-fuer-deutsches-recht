@@ -36,7 +36,7 @@ Das Jobcenter zahlt nichts mehr. Sie haben kein Geld zum Leben. Gehen Sie schnel
 - **§ 31 SGB II** — Sanktionen.
 - **§ 7 SGB II** — Leistungsberechtigte.
 - **Art. 1 Abs. 1 GG i.V.m. Art. 20 Abs. 1 GG** — Existenzminimum als Verfassungsanspruch.
-- **BVerfG 1 BvL 7/16** — Sanktionen verfassungsrechtlich begrenzt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -104,7 +104,7 @@ III. Anordnungsgrund
 - Mein Vermieter hat angedeutet, bei weiterer Nichtzahlung zu kuendigen.
 - Lebensmittel- und Hygieneartikel kann ich derzeit nicht mehr finanzieren.
 
-Ohne Eilentscheidung wird mein Existenzminimum verletzt (Art. 1 Abs. 1 GG i.V.m. Art. 20 Abs. 1 GG; BVerfG 1 BvL 1/09).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 IV. Glaubhaftmachung
 Beigefuegt ist eine eidesstattliche Versicherung.
@@ -136,7 +136,7 @@ Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eila
 
 ## Worauf Sie besonders achten muessen
 
-- **Sanktionen seit BVerfG-Urteil 1 BvL 7/16 begrenzt**: max. 30 % bei Erstverstoss. Hoehere Kuerzungen verfassungswidrig. Pruefen Sie das.
+- **Sanktionen:** Aktuelle Grenzen und Folgen nur nach Prüfung von Gesetzesstand, Behördenpraxis und verifizierter Rechtsprechung darstellen.
 - **Schonvermoegen** seit Buergergeld-Reform 2023 erweitert: in der Karenzzeit 40.000 EUR fuer den ersten und 15.000 EUR fuer weitere Personen — pruefen Sie aktuelle Werte.
 - **Vorlaeufige Bewilligung**: Wenn Anspruch nicht klar ist, kann das SG vorlaeufige Zahlung anordnen. Das ist auch ein Erfolg.
 - **Mitwirkungspflichten** nicht ignorieren: Termine wahrnehmen, Unterlagen einreichen. Sonst verschlechtert sich Ihre Lage.
@@ -158,4 +158,4 @@ Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eila
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Sanktionsregeln nach BVerfG 1 BvL 7/16 stark begrenzt. Buergergeld-Reform 2023 mit Schonvermoegen-Erhoehung. Regelbedarf jaehrlich anpassbar — aktuellen Wert pruefen. BSG-Linie zur Hilfebeduerftigkeit zu verifizieren in juris.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

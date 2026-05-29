@@ -1,6 +1,6 @@
 ---
 name: leistungsklage-54-sgg
-description: "Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext fuer Buerger."
+description: "Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger."
 ---
 
 # Die Leistungsklage — § 54 Abs. 5 SGG

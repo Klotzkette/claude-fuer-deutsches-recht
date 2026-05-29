@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-weg-waermepumpe-geg
-description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankuendigung § 555c BGB. KfW-Foerderung BAFA BEG-EM."
+description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Foerderung BAFA BEG-EM."
 ---
 
 # Wärmepumpen-Einbau in WEG nach GEG 2024
@@ -50,9 +50,8 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG n
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 09.02.2024 — **V ZR 33/23**: privilegierte Beschlüsse § 20 Abs. 2 WEG — enger Auslegung.
-- BGH, Urt. v. 15.10.2021 — **V ZR 23/21**: energetische Modernisierung WEG — ordnungsmäßige Verwaltung.
-- LG München I, Urt. v. 14.07.2023 — **1 S 14207/22**: Wärmepumpen-Lärm — TA-Lärm-Überschreitung kann Beschluss unwirksam machen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -209,7 +208,6 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - GEG §§ 71, 71d, 71f, 5, 79 ff. (i. d. F. 2024)
 - WEG §§ 19, 20, 21, 44, 45
 - BGB §§ 555b–555e, 559–559b
-- BGH V ZR 33/23; V ZR 23/21
-- LG München I 1 S 14207/22
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024
 - TA Lärm (Technische Anleitung zum Schutz gegen Lärm)

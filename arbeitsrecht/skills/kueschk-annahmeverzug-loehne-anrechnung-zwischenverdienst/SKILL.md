@@ -24,17 +24,11 @@ description: "Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung and
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 19.05.2010 – 5 AZR 253/09, NZA 2010, 939 — Annahmeverzugslohn ist das volle vereinbarte Arbeitsentgelt einschließlich Sonderzahlungen; der Arbeitnehmer muss sich anderweitig erzielten Verdienst nach § 11 Nr. 1 KSchG anrechnen lassen, nicht jedoch ALG I (§ 11 Nr. 3 KSchG — Forderungsübergang auf Agentur für Arbeit).
-- BAG, Urt. v. 07.11.2002 – 2 AZR 650/00, NZA 2003, 545 — Böswilliges Unterlassen i.S.d. § 11 Nr. 2 KSchG liegt vor, wenn der Arbeitnehmer zumutbare Arbeit vorsätzlich nicht annimmt; Unzumutbarkeit ist weit zu verstehen (weite Entfernung, deutlich schlechtere Bedingungen, Branchen- oder Statuswechsel).
-- BAG, Urt. v. 16.05.2012 – 5 AZR 251/11, NZA 2012, 989 — Der Arbeitgeber trägt die Darlegungs- und Beweislast für böswilliges Unterlassen; bloße Behauptung, es gebe offene Stellen im Markt, reicht nicht aus.
-- BAG, Urt. v. 29.09.2021 – 5 AZR 51/21, NZA 2022, 120 — Annahmeverzugslöhne können erhebliche Beträge erreichen und wirken als Druckmittel im Vergleich; der Arbeitgeber hat wirtschaftliches Interesse an einem frühen Vergleichsabschluss, um das Annahmeverzugsrisiko zu begrenzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Preis, 25. Aufl. 2025, § 615 BGB Rn. 1 ff. (Annahmeverzug und Anrechnung)
-- ErfK/Kiel, 25. Aufl. 2025, § 11 KSchG Rn. 1 ff. (Zwischenverdienst und böswilliges Unterlassen)
-- HWK/Linck, 11. Aufl. 2024, § 615 BGB Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Annahmeverzug § 615 BGB
 
 **Voraussetzungen:**
@@ -59,7 +53,7 @@ Nach § 11 Nr. 1 KSchG muss sich der Arbeitnehmer auf den Annahmeverzugslohn anr
 
 Arbeitnehmer muss sich auch dasjenige anrechnen lassen, was er **böswillig** nicht verdient hat.
 
-**Maßstab (BAG 2 AZR 650/00):** Vorsätzliche Nichtannahme einer zumutbaren Stelle; Fahrlässigkeit genügt nicht. Unzumutbar: deutlich schlechtere Bedingungen, weite Entfernung, branchenfremder Branchen-/Statuswechsel.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Berechnung (Beispiel)
 

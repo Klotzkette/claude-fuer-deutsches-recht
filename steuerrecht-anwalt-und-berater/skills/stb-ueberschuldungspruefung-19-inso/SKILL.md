@@ -1,6 +1,6 @@
 ---
 name: stb-ueberschuldungspruefung-19-inso
-description: "Stichtagsbezogene Ueberschuldungspruefung einer GmbH nach § 19 Abs. 2 InsO durch den Steuerberater. Anwendungsfall Jahresabschluss oder BWA zeigt Krisensignale Steuerberater muss Ueberschuldung rechtssicher pruefen. Zweistufig rechnerische Ueberschuldung Aktiva vs. Passiva Liquidationswerte und Fortbestehensprognose 24 Monate nach SanInsKG IDW S 6 IDW S 11. Passiva II BGH II ZR 233/18 und BGH II ZR 88/16. Output Ampel-Bewertung Pruefprotokoll Uebergang zu stb-warnschreiben-krisensignale bei roter Ampel."
+description: "Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)
@@ -9,7 +9,7 @@ description: "Stichtagsbezogene Ueberschuldungspruefung einer GmbH nach § 19 Ab
 
 Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung** vorliegt und ob die **Fortbestehensprognose** positiv oder negativ ausfällt. Pflicht-Workflow für den Steuerberater bei jeder Bilanz/SuSa mit Krisensignalen aus `stb-bwa-sus-bilanz-pruefung`. Ergebnis steuert direkt das Warnschreiben an die Geschäftsführung (`stb-warnschreiben-krisensignale`) und damit die eigene Haftungsvermeidung des Steuerberaters.
 
-> ⚠️ **Steuerberater leistet keine insolvenzrechtliche Rechtsberatung** (§ 5 RDG). Ergebnis ist **technische Indikation** als Grundlage für den Hinweis an die Geschäftsführung, anwaltliche Beratung einzuholen. Die rechtliche Beurteilung der Insolvenzantragspflicht (§ 15a InsO) gehört nicht zur StB-Aufgabe — aber der Hinweis darauf gehört zur StB-Sorgfaltspflicht (BGH IX ZR 285/14, IX ZR 110/14).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -34,11 +34,7 @@ Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung**
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 19.11.2019 — **II ZR 233/18**, NJW 2020, 1809 (Fortbestehensprognose: tragfähiges Unternehmenskonzept + Finanzplan; Maßstab überwiegende Wahrscheinlichkeit).
-- BGH, Urt. v. 9.10.2012 — **II ZR 298/11**, BGHZ 195, 42 Rn. 12 ff. (insolvenzrechtliche Überschuldung; Abgrenzung zu handelsbilanziell).
-- BGH, Urt. v. 19.12.2017 — **II ZR 88/16**, BGHZ 217, 129 (Passiva II — verknüpft mit Zahlungsunfähigkeit, Volumeneffekt; einschlägig bei rechtzeitiger Liquiditätsprognose).
-- BGH, Urt. v. 26.1.2017 — **IX ZR 285/14** (Beratungspflicht Steuerberater bei Krisensignalen — "Steuerberater-Haftungsfalle").
-- BGH, Urt. v. 7.3.2013 — **IX ZR 64/12** (Steuerberater muss auf Krise hinweisen, sobald er sie aus der Buchhaltung erkennt).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Berufsständischer Hintergrund
 
@@ -145,7 +141,7 @@ Nur bei negativer Stufe-1-Prognose. Liquidationswerte ansetzen — stille Reserv
 
 ## Eigene Haftungsvermeidung Steuerberater
 
-- **Hinweis-/Warnpflicht** ergibt sich aus laufender Buchhaltungsbetreuung (BGH IX ZR 285/14, IX ZR 64/12, IX ZR 110/14). Wer die Krisensignale aus der eigenen Auswertung kennt, muss darauf hinweisen — sonst Schadensersatzhaftung bei Insolvenzverschleppung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Form des Hinweises** schriftlich, mit Eingangsbeleg (Einschreiben oder beA an Mandantenvertretung; **kein ELSTER**, da nicht Empfänger Finanzbehörde).
 - **Inhalt** klar: konkrete Krisensignale benennen, Empfehlung anwaltlicher Beratung, Hinweis auf § 15a InsO und § 102 StaRUG. Keine eigene rechtliche Beurteilung (§ 5 RDG).
 - **Wiedervorlage und erneuter Hinweis** dokumentieren, wenn die Krise fortbesteht.

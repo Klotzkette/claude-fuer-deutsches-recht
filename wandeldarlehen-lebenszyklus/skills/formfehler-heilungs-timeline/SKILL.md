@@ -1,6 +1,6 @@
 ---
 name: formfehler-heilungs-timeline
-description: "Formfehler in Wandeldarlehen oder Kapitalerhohungsdokumenten identifizieren und Heilungsmassnahmen planen. §§ 125 311b BGB Nichtigkeit §§ 15 55 GmbHG Formerfordernisse. Pruefraster: Formmangel Nichtigkeit Heilung Nachbeurkundung Fristen. Output: Fehlerliste Heilungsplan Fristenkalender. Abgrenzung: nicht fuer allgemeine Beurkundungspruefung (beurkundungserfordernis-pruefung)."
+description: "Formfehler in Wandeldarlehen oder Kapitalerhohungsdokumenten identifizieren und Heilungsmassnahmen planen. §§ 125 311b BGB Nichtigkeit §§ 15 55 GmbHG Formerfordernisse. Prüfraster: Formmangel Nichtigkeit Heilung Nachbeurkundung Fristen. Output: Fehlerliste Heilungsplan Fristenkalender. Abgrenzung: nicht für allgemeine Beurkundungsprüfung (beurkundungserfordernis-prüfung)."
 ---
 
 # Formfehler und Heilungs-Timeline
@@ -42,7 +42,7 @@ Bei Wandeldarlehen sind Form-Fragen oft komplex (Textform reicht für Verpflicht
 
 - **Textform § 126b BGB** ausreichend (Lenders Beweis-Sicherheit)
 - **Schriftform empfohlen** für Rangrücktritt-Klarheit
-- Heliad-Linie BGH II ZR 256/08 — keine Beurkundungs-Pflicht für reines Verpflichtungs-Geschäft, das die Gesellschaft zur künftigen Kapitalerhöhung verpflichtet
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Verfügungs-Geschäft (Anteils-Übertragung bei Wandlung)
 
@@ -183,7 +183,7 @@ Vertrags-Schluss.
 
 - **Sofortige Form-Heilung** sicherstellen
 - **Beratung mit Skill** `mandat-triage-insolvenzrecht`
-- **Rangrücktritt-Wirksamkeit** prüfen BGH IX ZR 133/14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wandlung erwägen** vor Insolvenz-Eröffnung
 
 ### Nach Insolvenz-Eröffnung
@@ -307,9 +307,9 @@ Termin-Vorschlag: [Datum-Vorschlaege]
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 27.09.2010 — **II ZR 256/08**, BGHZ 182, 272: Der Wandeldarlehensvertrag in zweistufiger Konstruktion ist auf der schuldrechtlichen Ebene formfrei wirksam; ein Formfehler auf der Verfügungsebene (fehlende Beurkundung des Kapitalerhöhungsbeschlusses nach § 53 Abs. 2 GmbHG) führt zur Nichtigkeit nach § 125 BGB, kann aber durch einen erneuten ordnungsgemäß beurkundeten Beschluss geheilt werden.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.07.2014 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 31: Für die Wirksamkeit eines qualifizierten Rangrücktritts genügt Schriftform gemäß § 126 BGB; ein in bloßer Textform (E-Mail) erklärter Rangrücktritt bleibt im Insolvenzfall in seiner Nachrang-Wirkung nach § 39 Abs. 2 InsO anfechtbar, wenn Schriftformzweck (Dokumentation und Beweissicherung) verfehlt wird.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
@@ -318,6 +318,5 @@ BGH, Urt. v. 21.07.2014 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 31: Für die Wirk
 - HGB § 12
 - InsO §§ 39 130 131 132 133 174
 - eIDAS-VO 910/2014 und 2024/1183
-- BGH II ZR 256/08 Heliad
-- BGH IX ZR 133/14 qualifizierter Rangrücktritt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - GNotKG

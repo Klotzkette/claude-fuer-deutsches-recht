@@ -36,25 +36,25 @@ ohne alle Protokolleinträge einzeln lesen zu müssen.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 Rn. 14 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verdachtskündigung — dringender Tatverdacht erfordert objektive Schwere
   auf Basis des tatsächlich Ermittelten; Protokollauswertung bestimmt, ob
   Schwelle erreicht ist
-- BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 Rn. 20:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Tatkündigung — Überzeugungsmaßstab des Arbeitgebers; Protokollauswertung
   zur Überprüfung, ob der volle Nachweis einer Pflichtverletzung vorliegt
-- BAG, Urt. v. 22.11.2012 – 2 AZR 732/11, NZA 2013, 665 Rn. 30 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Widersprüchliche Zeugenaussagen im Kündigungsschutzprozess — der Arbeitgeber
   trägt die Darlegungs- und Beweislast für den Kündigungsgrund; nur was
   bei der Kündigung bekannt war, zählt (Nachschieben von Gründen nur
   eingeschränkt möglich)
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.:
   Verdachtsgrad; objektive Indizien; Abgrenzung Tatverdacht von bloßem
   Verdacht
-- HWK/Thüsing, 11. Aufl. 2024, § 1 KSchG Rn. 220 ff.:
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Darlegungs- und Beweislast des Arbeitgebers; Nachschieben von
   Kündigungsgründen
 - Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 22 Rn. 15 ff.:
@@ -89,21 +89,21 @@ Anbieten, den Punkt als Beweislücke zu protokollieren.
 
 **Schritt 5 — Abfragetypen**
 
-**Sachverhaltsabfrage** („Was hat [Person] zu [Thema] gesagt?"):
+**Sachverhaltsabfrage** ("Was hat [Person] zu [Thema] gesagt?"):
 Aus Protokolleinträgen antworten, Eintrags-IDs zitieren.
 
-**Widerspruchsabfrage** („Wo widersprechen sich die Schilderungen?"):
+**Widerspruchsabfrage** ("Wo widersprechen sich die Schilderungen?"):
 Alle `widerspricht_eintrag`-Verknüpfungen zeigen. Pro Widerspruch:
 Was ist der Konflikt, welche Einträge stehen in Spannung, welche
 dokumentarische Evidenz bezieht sich auf den Widerspruch.
 
-**Deckungsabfrage** („Was fehlt noch?" / „Wo haben wir Lücken?"):
+**Deckungsabfrage** ("Was fehlt noch?" / "Wo haben wir Lücken?"):
 `quellen-checkliste.yaml` und `beweislücken` im log.yaml auslesen. Melden:
 - Noch offene Checklistenpunkte
 - Protokollierte Beweislücken
 - Schilderungen, die auf noch nicht erhobene Quellen hinweisen
 
-**Stärkeabfrage** („Was ist die stärkste Evidenz zu jeder Frage?"):
+**Stärkeabfrage** ("Was ist die stärkste Evidenz zu jeder Frage?"):
 Für jede Untersuchungsfrage: höchstbewertete Protokolleinträge, dokumentarische
 Bestätigungen und ungelöste Widersprüche — frageweise strukturiert.
 
@@ -159,7 +159,7 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
   Einträge sichten.
 - **Fehlende Eintrags-IDs**: Antworten ohne Eintrags-ID-Referenzen sind
   nicht rückverfolgbar und erschweren spätere Anfechtungen.
-- **Lücken nicht als Lücken benennen**: „Dazu weiß ich nichts" ist kein
+- **Lücken nicht als Lücken benennen**: "Dazu weiß ich nichts" ist kein
   angemessenes Ergebnis — die Nicht-Existenz von Erkenntnissen im Protokoll
   muss explizit als potenzielle Beweislücke benannt werden.
 - **Widersprüche glätten**: Widersprechende Schilderungen dürfen nicht
@@ -173,8 +173,7 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
 
 Bei Abfragen zur Beweislage für Kündigung zitieren:
 - § 626 BGB (Tatverdacht / Wichtiger Grund)
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 (Verdachtsgrad)
-- BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 (Tatkündigung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei AGG-Sachverhalt: § 22 AGG, Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 22 Rn. 15 ff.
 
 Detaillierter Abfrageprozess, Zitierregeln und Lückendokumentations-Templates
@@ -185,8 +184,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 22.09.2016 — 2 AZR 848/15**, NZA 2017, 112 — Verwertbarkeit von Erkenntnissen aus interner Untersuchung im Kündigungsschutzprozess; Beweisverwertungsverbot greift nicht, wenn die Erkenntnisgewinnung verhältnismäßig war und datenschutzkonform erfolgte.
-- **BAG, Urt. v. 20.10.2016 — 2 AZR 395/15**, NZA 2017, 443 — Abgrenzung dringender Tatverdacht von bloßem Anfangsverdacht; für die Verdachtskündigung ist eine belastbare Indizienkette erforderlich, nicht nur eine bloße Möglichkeit der Täterschaft; Protokollabfragen müssen diesen Schwellenwert dokumentieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — vor der Protokollabfrage klären
 

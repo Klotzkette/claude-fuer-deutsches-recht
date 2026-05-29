@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-vertragsmarkup-key-issues
-description: "Juristischen Markup fuer M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Pruefraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Pruefung allgemein siehe Vertragsrecht-Plugin."
+description: "Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Prüfung allgemein siehe Vertragsrecht-Plugin."
 ---
 
 # Vertragsmarkup und Key Issues
@@ -25,16 +25,11 @@ description: "Juristischen Markup fuer M&A-Vertraege und Key-Issues-Memo erstell
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.01.2023 - VII ZR 243/22, NJW 2023, 843 — AGB-Kontrolle im B2B-Bereich: Haftungsausschluss fuer Fahrlaessigkeit in Allgemeinen Geschaeftsbedingungen kann gegen § 307 BGB verstossen, wenn er wesentliche Vertragspflichten aushebelt
-- BGH, Urt. v. 29.01.2013 - II ZR 26/11, BGHZ 196, 51 — Garantieversprechen im SPA: Garantien koennen als selbststaendige Versprechen (§ 311 I BGB) ausgestaltet werden; dann kein § 444 BGB-Problem
-- OLG Frankfurt, Urt. v. 26.10.2021 - 5 U 74/20, NZG 2022, 98 — Key Issues im SPA: Schiedsklausel-Formulierung; ICC-Schiedsverfahren in Frankfurt klar vereinbaren; Unklarheiten ueber Schiedsvereinbarung machen Vollstreckung schwierig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Wurmnest §§ 307-310 — AGB-Recht Unternehmensvertraege
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) — Klauselkommentierung SPA
-- Grau/Markworth, M&A-Vertragsmarkup (2020) — praxisorientierte Markupanleitung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Key Issues Abweichungen vom Marktstandard
 
 ### Haftungsregime
@@ -134,5 +129,5 @@ NAECHSTE SCHRITTE
 ## Quellen
 
 - §§ 305-310, 307, 444, 276 III BGB
-- BGH VII ZR 243/22 (AGB B2B); BGH II ZR 26/11 (Garantieversprechen SPA)
-- MueKo BGB/Wurmnest §§ 307-310; Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

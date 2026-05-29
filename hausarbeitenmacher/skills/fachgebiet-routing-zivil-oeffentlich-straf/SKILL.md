@@ -1,6 +1,6 @@
 ---
 name: fachgebiet-routing-zivil-oeffentlich-straf
-description: "Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht oeffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Pruefraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu oeffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema)."
+description: "Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu öffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema)."
 ---
 
 # Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht
@@ -66,25 +66,25 @@ Hausarbeiten haben oft Schwerpunkte mit Neben-Aspekten:
 
 - Mittelbare Grundrechts-Wirkung im Zivilrecht
 - Z.B. AGG-Diskriminierung im Mietverhältnis
-- BVerfGE Band 7 Seite 198 (Lüth-Urteil) als Linie
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 3 — Hilfsfragen
 
 ### Bei Unklarheit, ob Zivilrecht oder ÖR
 
-> „Steht eine Behörde / der Staat auf einer Seite?"
+> "Steht eine Behörde / der Staat auf einer Seite?"
 
 - **Ja**: ÖR (Anfechtungsklage, Verpflichtungsklage, Eilantrag)
 - **Nein, beide Seiten Privat**: Zivilrecht
 
-> „Wird ein Verwaltungsakt erlassen oder abgewehrt?"
+> "Wird ein Verwaltungsakt erlassen oder abgewehrt?"
 
 - **Ja**: ÖR
 - **Nein**: Zivilrecht / Strafrecht
 
 ### Bei Unklarheit, ob Strafrecht oder Zivilrecht
 
-> „Geht es darum, dass jemand bestraft werden soll?"
+> "Geht es darum, dass jemand bestraft werden soll?"
 
 - **Ja**: Strafrecht
 - **Nein, Schadensersatz?**: Zivilrecht
@@ -92,11 +92,11 @@ Hausarbeiten haben oft Schwerpunkte mit Neben-Aspekten:
 
 ### Bei Mehrebenen-Konstellation
 
-> „Welches ist das Schwerpunkt-Problem im Sachverhalt?"
+> "Welches ist das Schwerpunkt-Problem im Sachverhalt?"
 
 - Schwerpunkt ist meist im Bearbeitungs-Vermerk erkennbar
-- Bei „Beurteilen Sie die strafrechtliche Verantwortlichkeit" → klares Strafrecht
-- Bei „Welche Klagemöglichkeit besteht?" mit Behörden-Beteiligung → ÖR
+- Bei "Beurteilen Sie die strafrechtliche Verantwortlichkeit" → klares Strafrecht
+- Bei "Welche Klagemöglichkeit besteht?" mit Behörden-Beteiligung → ÖR
 
 ## Schritt 4 — Reihenfolge bei Mix
 
@@ -133,8 +133,8 @@ B. Strafrechtliche Verantwortlichkeit
 
 ### Indikatoren im Bearbeitungs-Vermerk
 
-- Genaue Wort-Wahl: „Ansprüche" → Zivilrecht; „Klage" → ÖR; „Strafbarkeit" → Strafrecht
-- „Im Schriftsatz an das Gericht XYZ" → Gerichtsname verrät Fachgebiet (Verwaltungsgericht → ÖR; Strafgericht → StR; Zivilgericht → Zivilrecht)
+- Genaue Wort-Wahl: "Ansprüche" → Zivilrecht; "Klage" → ÖR; "Strafbarkeit" → Strafrecht
+- "Im Schriftsatz an das Gericht XYZ" → Gerichtsname verrät Fachgebiet (Verwaltungsgericht → ÖR; Strafgericht → StR; Zivilgericht → Zivilrecht)
 
 ## Schritt 6 — Bei Unsicherheit
 

@@ -18,7 +18,7 @@ Registergericht: Amtsgericht Bremen, HR B 4953 HB
 
 USt-IdNr.: DE 811136151
 
-– nachfolgend „Vermieter“ genannt –
+– nachfolgend "Vermieter" genannt –
 
 und
 
@@ -34,7 +34,7 @@ Registergericht: [Gericht, HRB-Nr.]
 
 USt-IdNr.: [USt-IdNr.]
 
-– nachfolgend „Mieter“ genannt –
+– nachfolgend "Mieter" genannt –
 
 wird folgender Mietvertrag geschlossen:
 
@@ -162,7 +162,7 @@ Bei Beendigung des Mietverhältnisses sind die Mieträume in ordnungsgemäßem, 
 
 8.1 Der Vertrag wird wirksam, sobald die Parteien den Vertrag in qualifizierter Textform signiert und ausgetauscht haben.
 
-8.2 „Qualifizierte Textform“ liegt vor, wenn die Erklärung in Textform mit elektronischer Unterschrift abgegeben wird.
+8.2 "Qualifizierte Textform" liegt vor, wenn die Erklärung in Textform mit elektronischer Unterschrift abgegeben wird.
 
 8.3 Die Parteien verpflichten sich, Vertragsdokumente dauerhaft zu speichern.
 

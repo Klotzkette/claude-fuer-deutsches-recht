@@ -24,15 +24,15 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ### Primaernormen
 
-- **DBA Deutschland-Belgien vom 11.04.1967**, in der Fassung der Protokolle (zuletzt 05.11.2002) — **Datum, BGBl-Fundstelle und alle Protokolle verifizieren**.
+- **DBA Deutschland-Belgien vom 11.04.1967** (BGBl. 1969 II S. 17/18), Zusatzabkommen 05.11.2002 (BGBl. 2003 II S. 1616), Aenderungsprotokoll 21.01.2010 (BGBl. 2010 II S. 1279).
 - **OECD-MA 2017** als Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: beide Staaten Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Belgien sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 73/11 zu Belgien-Lohnsteuer — **Aktenzeichen verifizieren**.
-- BMF-Schreiben zu DBA Belgien — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu DBA-Belgien in juris abrufen.
+- BMF-Schreiben zu DBA Belgien — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -48,13 +48,13 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ### Aktive Einkuenfte
 
 - Loehne (Art. 15): 183-Tage-Regel.
-- Achtung: Es gab in den 1960er-DBA fuer Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — **konkret im DBA-Text und Protokoll-Stand verifizieren**.
+- Achtung: Es gab in den 1960er-DBA fuer Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text pruefen.
 
 ### Passive Einkuenfte
 
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkret verifizieren**.
-- **Zinsen** (Art. 11): typ. 0/15 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): typ. 5/15 Prozent — massgebend ist Art. 10 DBA-Belgien in der jeweils geltenden Fassung.
+- **Zinsen** (Art. 11): typ. 0/15 Prozent — massgebend ist Art. 11 DBA-Belgien in der jeweils geltenden Fassung.
+- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — massgebend ist Art. 12 DBA-Belgien in der jeweils geltenden Fassung.
 
 ### Vermeidungs-Methode (Art. 23)
 
@@ -95,7 +95,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 - DBA-Belgien war fruehe Generation; Begriffe entsprechen nicht in allen Punkten dem OECD-MA 2017 — Protokolle vollstaendig durchgehen.
 - Belgische DBI (Definitief Belaste Inkomsten) ist nationales Aequivalent zur Schachtelprivilegierung — Verhaeltnis zu deutscher § 8b KStG-Befreiung beachten.
-- Pensionen Art. 18 DBA-Belgien: Spezialregelung in einigen Fallgruppen vom OECD-Standard abweichend — **verifizieren**.
+- Pensionen Art. 18 DBA-Belgien: Spezialregelung in einigen Fallgruppen vom OECD-Standard abweichend — aktuellen DBA-Text und BMF-Schreiben pruefen.
 - 183-Tage-Regelung: Kalenderjahr oder 12-Monatszeitraum — DBA-Text konkret pruefen, weicht historisch ab.
 - Bruessel-EU-Beamte: Wohnsitzfiktion erhaelt deutsche Steueransaessigkeit; deutsche Steuerpflicht greift weiter, EU-Bezuege sind frei nach EU-Protokoll.
 
@@ -105,4 +105,6 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Belgien 11.04.1967 mit Protokollen (zuletzt 05.11.2002) — **alle Datumsangaben, BGBl-Fundstellen und MLI-Notifications vor Uebernahme in juris/beck-online verifizieren. Aktuelle Quellensteuer-Saetze und Pensionsregelung im DBA-Text pruefen.**
+Stand: 05/2026. DBA-Belgien 11.04.1967 (BGBl. 1969 II S. 17/18), Zusatzabk. 05.11.2002 (BGBl. 2003 II S. 1616), Aend.-Prot. 21.01.2010 (BGBl. 2010 II S. 1279). MLI-Notifications beim OECD-Portal pruefen. Aktuelle Quellensteuer-Saetze und Pensionsregelung im konsolidierten DBA-Text pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 3 belegt (BGBl. 1969 II S. 17/18 bestaetigt; BGBl. 2003 II S. 1616 bestaetigt; Aend.-Prot. 21.01.2010 BGBl. 2010 II S. 1279 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

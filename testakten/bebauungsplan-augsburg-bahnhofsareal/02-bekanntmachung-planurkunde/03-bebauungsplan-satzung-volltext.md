@@ -2,7 +2,7 @@
 
 Stadt Augsburg
 Bebauungsplan Nr. 900 mit integrierter Grünordnungsplanung
-„Augsburg-Bahnhofsviertel West — Quartier zwischen Halderstraße, Provinostraße und Bahntrasse"
+"Augsburg-Bahnhofsviertel West — Quartier zwischen Halderstraße, Provinostraße und Bahntrasse"
 
 **Fassung Satzungsbeschluss vom 23. Mai 2024**
 
@@ -107,7 +107,7 @@ Eine Überschreitung der GRZ durch die in § 19 Abs. 4 BauNVO genannten Anlagen 
 
 (4) Die Bezugshöhe für die Höhenmessung ist die obere Geländekante der jeweils nächstgelegenen Erschließungsstraße auf Höhe der Mitte der zugewandten Hausfront, gemittelt über die Bauflucht.
 
-(5) Im Teilgebiet MU 1 ist im Bereich des in der Planzeichnung als „HHP" gekennzeichneten Hochhauspunkts eine Mindest-Wandhöhe von 36 m einzuhalten.
+(5) Im Teilgebiet MU 1 ist im Bereich des in der Planzeichnung als "HHP" gekennzeichneten Hochhauspunkts eine Mindest-Wandhöhe von 36 m einzuhalten.
 
 ### § 4 Bauweise, überbaubare Grundstücksflächen
 
@@ -122,7 +122,7 @@ d) bauliche Anlagen für die Versorgung des Plangebiets mit Strom, Gas, Wärme, 
 
 ### § 5 Verkehrsflächen und Erschließung
 
-(1) Die in der Planzeichnung als „öffentliche Verkehrsfläche" festgesetzten Flächen dienen der Anbindung des Plangebiets an das öffentliche Straßennetz.
+(1) Die in der Planzeichnung als "öffentliche Verkehrsfläche" festgesetzten Flächen dienen der Anbindung des Plangebiets an das öffentliche Straßennetz.
 
 (2) Die Erschließung erfolgt:
 
@@ -130,9 +130,9 @@ a) im Norden über die Halderstraße,
 b) im Süden über die Provinostraße,
 c) der Riedingerstraße kommt eine ergänzende Erschließungsfunktion zu.
 
-(3) Die **Tiefgaragenzufahrt für das Teilgebiet MU 3** wird auf der Südseite des Teilgebiets von der **Provinostraße** ausgehend festgesetzt. Ihre Lage ist in der Planzeichnung durch das Pfeilsymbol „Z-3" zwischen den Grundstücksgrenzen Provinostraße 16 und Provinostraße 20 markiert. Die Zufahrtsbreite beträgt einschließlich Schleppkurven 6,50 m.
+(3) Die **Tiefgaragenzufahrt für das Teilgebiet MU 3** wird auf der Südseite des Teilgebiets von der **Provinostraße** ausgehend festgesetzt. Ihre Lage ist in der Planzeichnung durch das Pfeilsymbol "Z-3" zwischen den Grundstücksgrenzen Provinostraße 16 und Provinostraße 20 markiert. Die Zufahrtsbreite beträgt einschließlich Schleppkurven 6,50 m.
 
-(4) Die Tiefgaragenzufahrt für die Teilgebiete MU 1 und MU 2 wird auf der Nordseite von der Halderstraße aus festgesetzt (Pfeilsymbol „Z-1" und „Z-2" in der Planzeichnung).
+(4) Die Tiefgaragenzufahrt für die Teilgebiete MU 1 und MU 2 wird auf der Nordseite von der Halderstraße aus festgesetzt (Pfeilsymbol "Z-1" und "Z-2" in der Planzeichnung).
 
 (5) Die Stadt Augsburg behält sich vor, die Verkehrsführung auf der Provinostraße im Bereich der Tiefgaragenzufahrt MU 3 durch verkehrsregelnde Anordnung (Halteverbote, Tempo-30-Regelung) anzupassen. Diese Anpassung ist im Mobilitätskonzept gemäß § 11 dieser Satzung beschrieben.
 
@@ -142,7 +142,7 @@ c) der Riedingerstraße kommt eine ergänzende Erschließungsfunktion zu.
 
 (2) **Abweichend von § 1 Abs. 1 der Stellplatzsatzung der Stadt Augsburg vom 12.12.2018 wird für Wohnungen im Plangebiet ein Stellplatzschlüssel von 0,3 Stellplätzen je Wohneinheit festgesetzt.** Diese Reduzierung beruht auf:
 
-a) der hervorragenden ÖPNV-Anbindung (Hauptbahnhof in 350 m Entfernung, Tramlinie 2 mit Haltestelle „Königsplatz" in 280 m Entfernung, neun Buslinien in 250 m Entfernung),
+a) der hervorragenden ÖPNV-Anbindung (Hauptbahnhof in 350 m Entfernung, Tramlinie 2 mit Haltestelle "Königsplatz" in 280 m Entfernung, neun Buslinien in 250 m Entfernung),
 b) dem in § 11 dieser Satzung festgesetzten integrierten Mobilitätskonzept,
 c) dem Stadtratsbeschluss vom 14.12.2023 (Drs.-Nr. SR/2023/487) zur Förderung autoarmer Quartiere.
 
@@ -154,9 +154,9 @@ c) dem Stadtratsbeschluss vom 14.12.2023 (Drs.-Nr. SR/2023/487) zur Förderung a
 
 ### § 7 Flächen für den Gemeinbedarf, Grünflächen
 
-(1) Festgesetzt wird eine öffentliche Grünfläche „Quartiersplatz" mit 0,40 ha im zentralen Bereich zwischen MU 1, MU 2 und MU 3 (in der Planzeichnung als „QP" gekennzeichnet).
+(1) Festgesetzt wird eine öffentliche Grünfläche "Quartiersplatz" mit 0,40 ha im zentralen Bereich zwischen MU 1, MU 2 und MU 3 (in der Planzeichnung als "QP" gekennzeichnet).
 
-(2) Festgesetzt wird eine öffentliche Grünfläche „Lärmschutz-Grünstreifen" mit 0,15 ha entlang der östlichen Plangebietsgrenze zur Bahntrasse.
+(2) Festgesetzt wird eine öffentliche Grünfläche "Lärmschutz-Grünstreifen" mit 0,15 ha entlang der östlichen Plangebietsgrenze zur Bahntrasse.
 
 (3) Die Grünflächen sind dauerhaft als landschaftlich gestaltete, der Allgemeinheit zugängliche Flächen zu erhalten und zu pflegen. Die Pflege obliegt der Stadt Augsburg.
 
@@ -178,7 +178,7 @@ c) dem Stadtratsbeschluss vom 14.12.2023 (Drs.-Nr. SR/2023/487) zur Förderung a
 
 (2) **Fassadenbegrünung:** An den nicht-fensterseitigen Fassadenabschnitten ist je Teilgebiet ein Anteil von mindestens 25 % der bauteilbezogenen Fassadenfläche als grüne Wand auszubilden (Rankhilfen oder lebende Wandsysteme).
 
-(3) **Baumbestand:** Der in der Planzeichnung mit Baumsymbol „B" markierte Baumbestand ist zu erhalten. Bei Verlust eines Baums durch Krankheit, Sturmschaden oder unvermeidbare Bauarbeiten ist eine Neupflanzung im Verhältnis 1:1 mit einem standortgerechten Laubbaum mindestens 14 / 16 cm Stammumfang an gleicher Stelle vorzunehmen.
+(3) **Baumbestand:** Der in der Planzeichnung mit Baumsymbol "B" markierte Baumbestand ist zu erhalten. Bei Verlust eines Baums durch Krankheit, Sturmschaden oder unvermeidbare Bauarbeiten ist eine Neupflanzung im Verhältnis 1:1 mit einem standortgerechten Laubbaum mindestens 14 / 16 cm Stammumfang an gleicher Stelle vorzunehmen.
 
 (4) **Artenschutz:** An den Fassaden der Teilgebiete MU 1, MU 2 und MU 3 sind im Bereich der Dachzonen mindestens 60 künstliche Nisthilfen für Mauersegler (Apus apus) und 30 künstliche Nisthilfen für Mehlschwalben (Delichon urbicum) anzubringen. Die genaue Lage und Ausführung ist mit der unteren Naturschutzbehörde abzustimmen. Bauzeitfenster für Bestandsgebäude-Abbruch und Baufeld-Freimachung: **1. Oktober bis 28. Februar** (außerhalb der Brutzeit).
 
@@ -206,7 +206,7 @@ e) bauliche und betriebliche Maßnahmen zur Förderung des Radverkehrs.
 
 (2) Auf den Dachflächen sind Photovoltaikanlagen mit einer installierten Mindestleistung von 12 kWp je 1.000 m² Bruttogeschossfläche zu errichten. Die Photovoltaik-Anlagen sind mit der Dachbegrünung kombinierbar (Solar-Gründach).
 
-(3) Die Wärmeversorgung erfolgt über den Fernwärme-Anschluss des Energieanbieters Stadtwerke Augsburg (Fernwärme-Konzession „Bahnhofsviertel West", Beschluss Stadtrat 12.10.2023).
+(3) Die Wärmeversorgung erfolgt über den Fernwärme-Anschluss des Energieanbieters Stadtwerke Augsburg (Fernwärme-Konzession "Bahnhofsviertel West", Beschluss Stadtrat 12.10.2023).
 
 ---
 
@@ -248,8 +248,8 @@ e) bauliche und betriebliche Maßnahmen zur Förderung des Radverkehrs.
 
 Das Plangebiet umfasst Flächen mit historisch bedingter Vorbelastung (ehemaliger Eisenbahnbetrieb, Lokschuppen, Treibstoff-Lagerung). Folgende Flächen sind im Altlasten-Verdachtsflächen-Kataster der Stadt Augsburg verzeichnet:
 
-- Fl.-Nr. 1420/1 (Verdachtsfläche „Lok-Tankplatz", Vor-Sanierung 2019 abgeschlossen),
-- Fl.-Nr. 1430 bis 1433 („Werkstattbereich Güterbahnhof", Sanierung in Vorbereitung).
+- Fl.-Nr. 1420/1 (Verdachtsfläche "Lok-Tankplatz", Vor-Sanierung 2019 abgeschlossen),
+- Fl.-Nr. 1430 bis 1433 ("Werkstattbereich Güterbahnhof", Sanierung in Vorbereitung).
 
 Vor Baubeginn sind durchgeführte Sanierungs-Maßnahmen mit der Unteren Bodenschutzbehörde abzustimmen.
 
@@ -257,7 +257,7 @@ Vor Baubeginn sind durchgeführte Sanierungs-Maßnahmen mit der Unteren Bodensch
 
 Die Flächen Fl.-Nr. 1422/1 bis 1422/8 (DB Netz AG / DB Immobilien GmbH) waren zum Zeitpunkt der Auslegung dieses Bebauungsplans noch nicht förmlich entwidmet im Sinne des § 23 AEG. Die DB Netz AG hat mit Schreiben vom 08.02.2024 mitgeteilt, dass mit einer Entwidmung im Q4/2024 gerechnet werde.
 
-[Anmerkung Kanzlei Brögel (Akteneinsicht 22.07.2024): Diese Hinweise sind kein „Hinweis" im Sinne der Planzeichenverordnung, sondern materiell-rechtlich entscheidend. Nach § 38 BauGB und der Rechtsprechung des BVerwG (Urt. v. 16.12.2004 – 4 C 7.04) kann die Stadt für nicht-entwidmete Bahnflächen keine bauleitplanerischen Festsetzungen treffen. Der Bebauungsplan ist insoweit nichtig.]
+[Anmerkung Kanzlei Brögel (Akteneinsicht 22.07.2024): Diese Hinweise sind kein "Hinweis" im Sinne der Planzeichenverordnung, sondern materiell-rechtlich entscheidend. Nach § 38 BauGB und der Rechtsprechung des BVerwG (Urt. v. 16.12.2004 – 4 C 7.04) kann die Stadt für nicht-entwidmete Bahnflächen keine bauleitplanerischen Festsetzungen treffen. Der Bebauungsplan ist insoweit nichtig.]
 
 ### § 19 Denkmalschutz
 

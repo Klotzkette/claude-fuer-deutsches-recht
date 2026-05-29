@@ -1,6 +1,6 @@
 ---
 name: bussgeld-einspruch-pruefen
-description: "Mandant erhielt Bussgeldbescheid wegen Tempoverstoß Rotlichtvergehen Handynutzung oder Abstandsmangel und fragt nach Einspruch. OWiG § 67 Abs. 1 Einspruchsfrist. Pruefraster: Tatvorwurf § 24 StVG BKatV Bussgeldhoehe Punkte Fahrverbot Messverfahren (PoliScan TraffiStar Lidar) Eichung Toleranzabzug BGH 4 StR 627/92 Identitaetsbestreitung Akteneinsicht. Output: Einspruch-Pruefliste und Einspruchsschreiben-Entwurf. Abgrenzung zu fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen (Detailpruefung) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
+description: "Workflow-Skill zu bussgeld einspruch pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Bußgeldbescheid prüfen und Einspruch
@@ -27,7 +27,7 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszw
 
 - **§ 26 Abs. 3 StVG** — Verjährung drei Monate ab Tatzeit (bei Geschwindigkeitsüberschreitung etc.); Unterbrechung durch Anhörungsmaßnahmen § 33 OWiG.
 - **§ 33 OWiG** — Unterbrechungsgründe: Bekanntgabe der Einleitung des Verfahrens, Erlass des Bußgeldbescheids; Klageerhebung; nach Unterbrechung neue volle Verjährungsfrist.
-- **§ 49 OWiG** — Akteneinsicht des Verteidigers; umfasst Bußgeldakte, Messprotokoll, Eichschein, Schulungsnachweise; Anspruch auf Rohmessdaten nach BVerfG 2 BvR 1167/20.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 55 OWiG** — Anhörung: Betroffener muss vor Erlass des Bußgeldbescheids Gelegenheit zur Stellungnahme erhalten; Verletzung kann zu Verfahrenshindernis führen.
 - **§ 67 Abs. 1 OWiG** — Einspruch innerhalb zwei Wochen nach Bekanntgabe bei der erlassenden Behörde; schriftlich oder zur Niederschrift.
 - **§ 52 OWiG** — Wiedereinsetzung in den vorigen Stand bei unverschuldetem Fristversäumnis; unverzüglicher Antrag.
@@ -49,9 +49,9 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszw
 | ProViDa 2000 | Video-Nachfahren | variabel | Abstandsberechnung fehleranfällig | Fallweise zu prüfen |
 | Multanova 6F | Radar | 3 km/h bis 100; 3 % über 100 | Schlechter Einstel-lungsnachweis | Standardisiert |
 
-**Grundsatzentscheidung:** BGH, Beschl. v. 19.08.1993 — 4 StR 627/92 (BGHSt 39, 291): Standardisiertes Messverfahren; Toleranzabzug vorgenommen → Richtigkeitsvermutung; Verteidigung muss konkrete Anhaltspunkte vortragen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**BVerfG 2 BvR 1167/20, Beschl. v. 12.11.2020:** Anspruch auf Zugang zu Rohmessdaten und nicht in der Akte befindlichen Messunterlagen für effektive Verteidigung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Bußgeldkatalog-Übersicht (Auszug, Stand 2024)
 
@@ -83,7 +83,7 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszw
 | 6 | Eichschein gültig zur Tatzeit? | § 31 MessEG | Abgelaufene Eichung: Beweisverwertungsverbot möglich |
 | 7 | Schulungsnachweis Messbeamter vorhanden? | Gerätebedienungsanleitung | Fehlt: Fehler im Messverfahren rügbar |
 | 8 | Toleranzabzug korrekt vorgenommen? | BGHSt 39, 291 | Zu geringe Toleranz: Abzug erhöhen |
-| 9 | Rohmessdaten vorhanden / angefordert? | BVerfG 2 BvR 1167/20 | Fehlen: Unverwertbarkeit prüfen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Bußgeld-Höhe und Punkte korrekt nach BKatV? | BKatV Anlage 1, 2 | Fehler: unmittelbare Rüge |
 | 11 | Fahrverbot regelkonform angeordnet? | § 25 StVG; BKatV | Kein Regelfall → Ermessen AG prüfen |
 | 12 | Härtefall Fahrverbot darlegbar? | § 4 Abs. 4 BKatV | Existenzgefährdung → Ersatz durch erhöhte Geldbuße |
@@ -137,7 +137,7 @@ ANTRÄGE
    einschließlich:
    a) Messprotokoll und vollständige Falldatensätze (alle
       Rohmessdaten, nicht nur das Tatfoto), gemäß BVerfG,
-      Beschl. v. 12.11.2020 - 2 BvR 1167/20;
+      Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    b) Eichschein des eingesetzten Messgeräts, gültig zur Tatzeit;
    c) Schulungsnachweis des messenden Beamten (Bedienerlaubnis
       für das konkrete Gerät);
@@ -179,7 +179,7 @@ II. Messung nicht verwertbar
 
 3. Rohmessdaten: Trotz Akteneinsichtsantrags wurden die Rohmess-
    daten des Falldatensatzes nicht vorgelegt. Nach BVerfG
-   2 BvR 1167/20 ist der Betroffene berechtigt, sämtliche für
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    eine effektive Verteidigung notwendigen Mess-Rohdaten zu
    erhalten. Die Verweigerung der Herausgabe begründet ein
    Beweisverwertungsverbot.
@@ -304,4 +304,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-OWiG §§ 33, 46, 47, 49, 50, 51, 52, 55, 67, 73; StVG §§ 24, 24a, 25, 26, 29; StVO §§ 3, 23, 37; BKatV Anlage 1, 2; MessEG § 31; BGHSt 39, 291; BVerfG 2 BvR 1167/20; Burhoff Handbuch für das straßenverkehrsrechtliche OWi-Verfahren 6. Aufl. 2022; KK-OWiG; Bouska/Laeverenz Fahrerlaubnisrecht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

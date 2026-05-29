@@ -1,6 +1,6 @@
 ---
 name: insolvenzgeld-165-sgb-iii
-description: "Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Pruefraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate § 324 SGB III Vor-Finanzierung Banken bis 75 Prozent. Output Antragsentwurf Bescheinigung Abrechnung Schnittstelle Sozialversicherungs-Beitraege. Abgrenzung: forderungsanmeldung-glaeubiger fuer allgemeine Forderungsanmeldung."
+description: "Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate § 324 SGB III Vor-Finanzierung Banken bis 75 Prozent. Output Antragsentwurf Bescheinigung Abrechnung Schnittstelle Sozialversicherungs-Beitraege. Abgrenzung: forderungsanmeldung-gläubiger für allgemeine Forderungsanmeldung."
 ---
 
 # Insolvenzgeld nach § 165 SGB III
@@ -324,10 +324,7 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 
 ## Aktuelle Leitentscheidungen — Insolvenzgeld
 
-- BSG, Urt. v. 29.09.2020 — B 11 AL 7/19 R — Insolvenzgeld-Anspruch § 165 SGB III: Anspruch entsteht bei Eroffnung des Insolvenzverfahrens, Abweisung mangels Masse (§ 26 InsO) oder vollstaendiger Betriebsstilllegung; rueckwirkend fuer die letzten 3 Monate vor dem Insolvenzereignis.
-- BSG, Urt. v. 22.03.2018 — B 11 AL 9/17 R — Insolvenzgeld-Vorfinanzierung: Bank kann Insolvenzgeld vorfinanzieren; nach Eroffnung erfolgt Abtretung des Insolvenzgeld-Anspruchs an Bank; Abtretung erfordert Zustimmung des Arbeitnehmers; kein Wahlrecht des IV.
-- BSG, Urt. v. 18.11.2021 — B 11 AL 5/20 R — Insolvenzgeld fuer Geschaeftsfuehrer: GF einer GmbH ist grundsaetzlich kein Arbeitnehmer; Insolvenzgeld nur wenn GF tatsaechlich wie Arbeitnehmer (weisungsgebunden) taetig war.
-- BAG, Urt. v. 25.06.2020 — 6 AZR 480/19, NZA 2020, 1352 — Insolvenzgeld und Kurzarbeit: Insolvenzgeld deckt vollstaendigen ausgefallenen Lohn; Kurzarbeitergeld waehrend Insolvenzgeld-Zeitraum wird angerechnet; Doppelzahlung ausgeschlossen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Insolvenzgeld
 
@@ -340,8 +337,6 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 3. **Vorfinanzierung?** Haushausbank ansprechen; Abtretungserklaerungen der Arbeitnehmer einholen; Zeitplan Vorfinanzierung → Auszahlung BA.
 4. **GF-Anspruch?** GF ist nur Arbeitnehmer wenn tatsaechlich weisungsgebunden; bei Gesellschafter-GF selten Insolvenzgeld.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fuenfhausen/Rupp, SGB III §§ 165-168 (Insolvenzgeld) — Standardkommentar Insolvenzgeld.
-- MüKo InsO/Caspers § 55 InsO Rn. 80 ff. — Insolvenzgeld als Massekostenersatz.
-- ErfK/Koch § 165 SGB III Rn. 1 ff. — Arbeitnehmer-Insolvenzgeld Anspruchsvoraussetzungen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

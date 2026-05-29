@@ -157,7 +157,7 @@ Felder automatisch belegen.
    - `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"`
    - bundesweit `pplx content fetch "https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php"`
    - Treffer übernehmen: Bezeichnung, Postanschrift, ggf. BeA-SAFE-ID
-     (sonst Hinweis: „über beA-Adressbuch nachtragen").
+     (sonst Hinweis: "über beA-Adressbuch nachtragen").
 4. Quelle und Abrufdatum in Anlage **Zuständigkeitsprüfung** dokumentieren.
 
 **3. Klage erzeugen:**
@@ -283,7 +283,7 @@ Die SAFE-ID des Empfangsgerichts wird im **beA-Adressbuch** geführt. Bei
 elektronischer Einreichung (§ 130d ZPO) wird sie beim Versand aus beA gewählt;
 in der Klage genügt regelmäßig die Postanschrift. Falls eine SAFE-ID nicht
 öffentlich gelistet ist, im Output mit dem Hinweis
-„über beA-Adressbuch zu ergänzen" markieren.
+"über beA-Adressbuch zu ergänzen" markieren.
 """
 
 
@@ -307,7 +307,7 @@ Formatvorlage.
 
 ## Verwendung
 
-> „Neue Forderungsklage in Hausvorlage."
+> "Neue Forderungsklage in Hausvorlage."
 
 Das Plugin fragt dann strukturiert nach Sachverhalt und Beklagtenadresse, prüft
 **online** sachliche und örtliche Zuständigkeit über

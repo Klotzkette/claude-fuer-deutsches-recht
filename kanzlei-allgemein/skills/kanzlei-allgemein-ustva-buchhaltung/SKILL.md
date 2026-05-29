@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-ustva-buchhaltung
-description: "Sammelt Rechnungsdaten und Belege fuer die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen fuer ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG UStVA-Pflicht § 14 UStG Rechnungspflichtangaben GoBD-Aufbewahrung. Pruefraster Ausgangsrechnungen Eingangsrechnungen Betriebsausgaben Vorsteuer Umsatzsteuer Zahlungsstatus Belegpruefung. Output UStVA-Vorbereitung mit strukturierter Belegsammlung ELSTER-Uebergabepaket oder Steuerkanzlei-Paket ohne stille Abgabe. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-simulation."
+description: "Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen für ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG UStVA-Pflicht § 14 UStG Rechnungspflichtangaben GoBD-Aufbewahrung. Prüfraster Ausgangsrechnungen Eingangsrechnungen Betriebsausgaben Vorsteuer Umsatzsteuer Zahlungsstatus Belegprüfung. Output UStVA-Vorbereitung mit strukturierter Belegsammlung ELSTER-Übergabepaket oder Steuerkanzlei-Paket ohne stille Abgabe. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-simulation."
 ---
 
 # UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung
@@ -13,10 +13,7 @@ description: "Sammelt Rechnungsdaten und Belege fuer die monatliche Umsatzsteuer
 4. Soll die Uebergabe an ELSTER, Steuerkanzlei oder an eine Buchhaltungssoftware erfolgen?
 
 ## Aktuelle Rechtsprechung
-- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — GoBD-konforme Belegführung: alle Buchungsbelege muessen unveraenderbar und zeitgerecht archiviert werden; nachtraeglich erstellte Belege koennen abgelehnt werden.
-- BFH, Urt. v. 20.10.2021 - XI R 38/19, BStBl. II 2022, 342 — Vorsteuerabzug erfordert ordnungsgemaesse Rechnung nach § 14 UStG; fehlende Pflichtangaben schliessen Vorsteuerabzug aus.
-- BFH, Urt. v. 25.09.2019 - XI R 34/17, BStBl. II 2020, 122 — Dauerfristverlaengerung setzt 1/11-Sondervorauszahlung voraus; Versaeumnis begruendet Spaetverzugsfolgen.
-- FG Muenchen, Urt. v. 23.06.2022 - 14 K 2131/21, EFG 2023, 201 — UStVA-Abgabefrist 10. des Folgemonats (mit Dauerfristverlaengerung: 10. des uebernnaechsten Monats); Verpaetung fuehrt zu Verspaetungszuschlag nach § 152 AO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 18 UStG — Voranmeldungspflicht; Abgabefrist 10. des Folgemonats
@@ -24,10 +21,9 @@ description: "Sammelt Rechnungsdaten und Belege fuer die monatliche Umsatzsteuer
 - § 147 AO — Aufbewahrungspflicht 10 Jahre fuer Buchungsbelege
 - § 152 AO — Verspaetungszuschlag bei verspaeteter Abgabe
 
-## Kommentarliteratur
-- Tipke/Lang Steuerrecht, 24. Aufl. 2021, § 17 Rn. 1-50 (Umsatzsteuer-Voranmeldung: Pflichten und Verfahren)
-- Beck'scher Online-Kommentar Steuerrecht/Weymans § 18 UStG Rn. 1-40 (Voranmeldung: Frist und Inhalt)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill bereitet die monatliche Umsatzsteuer-Voranmeldung und die Belegsammlung der Kanzlei vor. Er gibt keine Steuerberatung, bucht nicht verbindlich und übermittelt nichts ohne Freigabe.

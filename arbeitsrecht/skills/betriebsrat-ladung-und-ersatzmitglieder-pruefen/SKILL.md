@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-ladung-und-ersatzmitglieder-pruefen
-description: "Prüfung der ordnungsgemäßen Ladung und Besetzung einer Betriebsratssitzung nach § 29 Abs. 2 BetrVG und § 25 Abs. 2 BetrVG. Wer war geladen, wer war verhindert, wer ist nachgerückt, hat das richtige Ersatzmitglied entlang der Nachrückreihenfolge teilgenommen. Berücksichtigt BAG 25.09.2024 — 7 ABR 37/23 zur Wesentlichkeit der Nachrückreihenfolge und BAG 20.05.2025 — 1 AZR 35/24 zur Nachladung bei Verhinderung am Sitzungstag."
+description: "Workflow-Skill zu betriebsrat ladung und ersatzmitglieder pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Betriebsrat — Ladung und Ersatzmitglieder prüfen
@@ -12,8 +12,8 @@ description: "Prüfung der ordnungsgemäßen Ladung und Besetzung einer Betriebs
 - **§ 33 BetrVG** — Beschlussfähigkeit; Mehrheitsbeschluss
 - **§ 24 BetrVG** — Erlöschen der Mitgliedschaft
 - **§ 25 Abs. 1 BetrVG** — Nachrücken in den Betriebsrat
-- **BAG 25.09.2024 — 7 ABR 37/23** — § 25 Abs. 2 BetrVG ist wesentliche Verfahrensvorschrift; Verstoß führt zur Unwirksamkeit des Beschlusses (heilbar — siehe Skill `betriebsrat-beschluss-heilung-nachtraeglich`)
-- **BAG 20.05.2025 — 1 AZR 35/24** — Nachladungspflicht bei Verhinderung; Beurteilungsspielraum des Vorsitzenden, wenn Verhinderung erst am Tag der Sitzung bekannt wird
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Warum diese Prüfung — Anker für die ganze Beschlussfassung
 
@@ -26,7 +26,7 @@ Ein Betriebsratsbeschluss ist nur wirksam, wenn das Gremium ordnungsgemäß zusa
 5. **Wer hat tatsächlich teilgenommen?**
 6. **Stimmen Ladung, Verhinderung und tatsächliche Besetzung überein?**
 
-Wenn auch nur ein falsches Ersatzmitglied teilgenommen hat — z. B. Ersatz Nr. 2 einer Liste wurde geladen, obwohl Ersatz Nr. 1 nicht verhindert war —, ist der gefasste Beschluss **unwirksam** (BAG 25.09.2024 — 7 ABR 37/23, Leitsatz 1). Das kann allerdings nachträglich geheilt werden.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -55,7 +55,7 @@ Für jedes ordentliche Mitglied:
 □ Wann wurde die Verhinderung bekannt?
    → Vor dem Sitzungstag: rechtzeitige Nachladung möglich → war erforderlich
    → Am Sitzungstag: Beurteilungsspielraum des Vorsitzenden
-     (BAG 20.05.2025 — 1 AZR 35/24)
+     Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 □ Dokumentierte Mitteilung der Verhinderung?
 ```
 
@@ -92,7 +92,7 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
    → Beschluss wirksam
 
 □ Verstoß gegen Nachrückreihenfolge (§ 25 Abs. 2 BetrVG)?
-   → Beschluss unwirksam (BAG 25.09.2024 — 7 ABR 37/23)
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    → ABER: Heilung möglich (→ Skill `betriebsrat-beschluss-heilung-nachtraeglich`)
 
 □ Verstoß gegen Ladungsvorschriften (§ 29 Abs. 2 BetrVG)?
@@ -101,7 +101,7 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 □ Verhinderung erst am Sitzungstag bekannt und Vorsitzender hat
    keine Nachladung versucht?
-   → BAG 20.05.2025 — 1 AZR 35/24: regelmäßig kein Fehler
+   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    → Beurteilungsspielraum des Vorsitzenden
    → Beschluss bleibt wirksam, wenn das Quorum auch ohne
      Nachladung erreicht war

@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-vertragspruefung-kaltstart-interview
-description: "Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtschaftspruefer Patentanwalt Notar) Anbieter Produktname Vertragsdokument Datenarten Verarbeitungszweck Hostingland und Subunternehmerstruktur. Bilde daraus den Norm-Adapter (BRAO StBerG WPO PAO BNotO) und entscheide ob Kanzleiinfrastruktur oder Einzelmandats-Tool im Sinne Absatz fuenf vorliegt. Lade dazu die Skill parallelnormen-andere-berufe."
+description: "Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar) Anbieter Produktname Vertragsdokument Datenarten Verarbeitungszweck Hostingland und Subunternehmerstruktur. Bilde daraus den Norm-Adapter (BRAO StBerG WPO PAO BNotO) und entscheide ob Kanzleiinfrastruktur oder Einzelmandats-Tool im Sinne Absatz fuenf vorliegt. Lade dazu die Skill parallelnormen-andere-berufe."
 ---
 
 # Kaltstart-Interview
@@ -99,10 +99,7 @@ Wenn der Auftraggeber Antworten nicht hat, ist das selbst schon ein Befund. Fehl
 
 ## Aktuelle Rechtsprechung zum Berufsgeheimnis
 
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Das anwaltliche Berufsgeheimnis nach § 43a Abs. 2 BRAO schützt alle dem Rechtsanwalt anvertrauten Tatsachen unabhängig davon, ob der Mandant ein Interesse an der Geheimhaltung erkennen lässt; der Schutzbereich ist weit auszulegen.
-- BGH, Beschl. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: § 53a StPO erstreckt das Zeugnisverweigerungsrecht auf Berufshelfer; der KI-Dienstleister kann unter diese Norm fallen, wenn er zur Berufsausübung des Anwalts mitwirkt — Voraussetzung ist vertragliche Mitwirkungspflicht.
-- BVerwG, Urt. v. 25.06.2020 — 2 C 12.19, BVerwGE 168, 315 Rn. 42: Zur Reichweite des Verschwiegenheitsschutzes bei Steuerberatern nach § 57 StBerG; der Schutz erfasst auch interne Arbeitsdokumente, die dem Mandatsverhältnis dienen.
-- EuGH, Urt. v. 26.06.2007 — C-305/05 (Ordre des barreaux francophones), NJW 2007, 2413 Rn. 31: Das anwaltliche Berufsgeheimnis ist ein grundrechtlich geschütztes Prinzip im Unionsrecht; Eingriffe müssen verhältnismäßig sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -114,11 +111,9 @@ Wenn der Auftraggeber Antworten nicht hat, ist das selbst schon ein Befund. Fehl
 - §§ 203, 204 StGB — Straftatbestände Verletzung/Verwertung von Privatgeheimnissen
 - §§ 53a, 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot für Berufshelfer
 
-## Kommentarliteratur
+## Quellenregel
 
-- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 1–55: Ausführlich zu den Voraussetzungen der Dienstleisterregelung, dem Begriff des Dienstleisters und den Anforderungen an die Verpflichtung in Textform.
-- Böttcher/Peylo, AnwBl 2024, 124: Zur Einordnung von KI-Sprachmodellen als Dienstleister im Sinne des § 43e BRAO; Praxishinweise zur vertraglichen Ausgestaltung.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage-Frage (Entscheidungsbaum)
 
 ```

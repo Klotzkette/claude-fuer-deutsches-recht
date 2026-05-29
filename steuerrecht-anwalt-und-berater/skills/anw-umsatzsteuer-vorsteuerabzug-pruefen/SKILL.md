@@ -1,6 +1,6 @@
 ---
 name: anw-umsatzsteuer-vorsteuerabzug-pruefen
-description: "Vorsteuerabzug nach § 15 UStG pruefen und Risiken bei Umsatzsteuer-Pruefung bewerten. Anwendungsfall Finanzamt streicht Vorsteuer Mandant fragt ob Rechnung ausreicht oder Vorsteuer-Karussell-Vorwurf droht. Voraussetzungen Unternehmer-Eigenschaft Leistungsbezug fuer Unternehmen ordnungsgemaesse Rechnung § 14 UStG Pflichtangaben § 14 Abs. 4 UStG. Ausschluss Vorsteuerabzug steuerfreie Umsaetze § 4 UStG § 15 Abs. 2 UStG. Berichtigung § 15a UStG GoBD-Anforderungen BFH XI R 23/15. Output Pruefraster Vorsteuerabzug Berichtigungs-Berechnung Risikohinweis Strafrecht."
+description: "Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen
@@ -149,7 +149,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 - **Berichtigung** erfordern beim Rechnungsstellers
 - **Vor-Vorsteuer-Abzug nicht möglich** bis Berichtigung
-- **Berichtigte Rechnung** kann rückwirkend Anwendung finden BFH XI R 23/15
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 6 — Klein-Betrag-Rechnung § 33 UStDV
 
@@ -185,7 +185,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 ### Karussell-Geschäfte
 
 - Vorsteuer-Abzug aus Schein-Lieferungen
-- BFH V R 8/16 zu Wissens-Anforderungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Aufmerksamkeits-Pflicht bei unüblich niedrigen Preisen
 - Verpflichtung zur Sorgfalts-Pflicht
 

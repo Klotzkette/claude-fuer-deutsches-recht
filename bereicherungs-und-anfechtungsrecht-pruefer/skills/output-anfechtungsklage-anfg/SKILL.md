@@ -1,6 +1,6 @@
 ---
 name: output-anfechtungsklage-anfg
-description: "Klageschrift fuer AnfG-Anfechtungsklage des Vollstreckungsglaeubigers aufbauen: Rubrum, Duldungsantrag, Begruendungsstruktur. Normen: §§ 2 11 13 AnfG. Pruefraster: Antragsformulierung, Begruendungsaufbau Anfechtungstatbestand, Streitwertangabe. Output: Klageschriftentwurf AnfG mit Tenorvorschlag. Abgrenzung: nicht InsO-Anfechtungsklage durch Insolvenzverwalter."
+description: "Klageschrift für AnfG-Anfechtungsklage des Vollstreckungsgläubigers aufbauen: Rubrum, Duldungsantrag, Begründungsstruktur. Normen: §§ 2 11 13 AnfG. Prüfraster: Antragsformulierung, Begründungsaufbau Anfechtungstatbestand, Streitwertangabe. Output: Klageschriftentwurf AnfG mit Tenorvorschlag. Abgrenzung: nicht InsO-Anfechtungsklage durch Insolvenzverwalter."
 ---
 
 # Output: Anfechtungsklage nach AnfG
@@ -19,20 +19,17 @@ description: "Klageschrift fuer AnfG-Anfechtungsklage des Vollstreckungsglaeubig
 
 ## Rechtsprechung
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Das AnfG ist außerhalb des Insolvenzverfahrens anwendbar; Voraussetzung ist ein vollstreckbarer Titel und die fruchtlose Zwangsvollstreckung; der Anfechtungsgegner ist auf Duldung der Vollstreckung zu verklagen (§ 11 AnfG).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.07.2005 – IX ZR 221/04, NJW 2005, 2983 — Die Vorsatzanfechtung nach § 3 Abs. 1 AnfG setzt voraus, dass der Schuldner mit dem Vorsatz handelte, seine Gläubiger zu benachteiligen; Kenntnis des Benachteiligungsvorsatzes beim Anfechtungsgegner ist Voraussetzung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 20.03.2014 – IX ZR 80/13, NJW-RR 2014, 872 — Bei der Anfechtung wegen Unentgeltlichkeit nach § 4 AnfG genügt objektive Unentgeltlichkeit; Verschulden des Anfechtungsgegners ist nicht erforderlich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 21.01.2010 – IX ZR 65/09, NJW 2010, 1144 — § 13 AnfG sieht eine dreijährige Verjährungsfrist vor, die mit Kenntnis des Gläubigers von der Anfechtbarkeit beginnt; bei fehlender Kenntnis gilt spätestens zehn Jahre nach der anfechtbaren Rechtshandlung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Huber in: AnfG, 12. Aufl. 2022, §§ 1–13 Rn. 1–80 (Tatbestand, Rechtsfolge, Klageantrag).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, Vorbem. §§ 129–147 Rn. 1–20 (AnfG neben InsO-Anfechtung).
-Gerhardt in: Uhlenbruck, InsO, 15. Aufl. 2023, § 129 Rn. 1–10 (Abgrenzung AnfG / §§ 129 ff. InsO).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Hinweis
 
 Dieser Skill liefert ein strukturiertes Muster für eine Anfechtungsklage nach dem AnfG. Es handelt sich um keine Rechtsberatung. Alle Angaben sind Platzhalter.

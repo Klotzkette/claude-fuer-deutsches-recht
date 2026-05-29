@@ -16,13 +16,13 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-erbrecht-orientierung` | Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkürte Erbfolge Testament Erbvertrag Pflichtteil Vermächtnis)… |
+| `fachanwalt-erbrecht-orientierung` | Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkürte Erbfolge Testament Erbvertrag Pflichtteil Vermächtnis)… |
 
 ## Lizenz
 

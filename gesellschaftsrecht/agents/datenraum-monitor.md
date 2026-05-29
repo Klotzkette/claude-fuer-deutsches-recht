@@ -3,8 +3,8 @@ name: datenraum-monitor
 description: >
   Überwacht den virtuellen Datenraum (VDR) auf neue Dokument-Uploads und
   meldet den Status der Closing-Checkliste nach Zeitplan. Kennzeichnet neue
-  Uploads in prioritären Kategorien. Auslöser: „was ist neu im Datenraum",
-  „VDR-Aktualisierungen" oder nach Plan.
+  Uploads in prioritären Kategorien. Auslöser: "was ist neu im Datenraum",
+  "VDR-Aktualisierungen" oder nach Plan.
 model: sonnet
 tools: ["Read", "Write", "mcp__box__*", "mcp__intralinks__*", "mcp__datasite__*", "mcp__*__slack_send_message"]
 ---

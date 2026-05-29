@@ -37,11 +37,7 @@ description: "Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russ
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| EuGH | C-72/15 (Rosneft) | 28.03.2017 | Gültigkeitsprüfung EU-Sanktionen: Breit angelegte Wirtschaftssanktionen verhältnismäßig; kein individ. Klagerecht gegen Sektorsanktionen |
-| EuGH | C-220/03 (Bank Melli Iran) | 2012 | Asset-Freeze: Bereitstellungsverbot auch bei indirekter Verfügung über gelistete Person; wirtschaftliche Ressourcen weit definiert |
-| BGH | 1 StR 366/19 | 19.11.2019 | AWG § 18: Export von Dual-Use-Gütern an iranisches Unternehmen; Kenntnis des Endverbleibs entscheidend |
-| LG München I | 16 HKO 22189/21 | 2022 | Sanktionsverstoß durch Leistungserbringung gegenüber SDN-gelisteter Person; Vertragsunwirksamkeit nach § 134 BGB |
-| OLG Frankfurt | 16 U 46/21 | 2022 | Russland-Sanktionen VO 833/2014: Dienstleistungsverbot für Unternehmensberatung erfasst auch vertragliche Restleistungen nach Inkrafttreten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | OFAC | TSECO 2023 | 2023 | Secondary-Sanctions-Enforcement: nicht-US-Unternehmen mit USD-Transaktionen zu sanktionierten Einheiten; Bußgeld ohne Strafverfolgung in USA |
 
 ## Prüfschema
@@ -224,17 +220,12 @@ Compliance-Kosten (Prävention): Screening-Software 5.000–50.000 EUR/Jahr; Rec
 - EG-VO 428/2009 (Dual-Use-VO)
 - OFAC Regulations 31 CFR Part 500 ff.; SDN List (treasury.gov)
 - UK Sanctions and Anti-Money Laundering Act 2018; OFSI
-- EuGH C-72/15 (Rosneft), Urt. v. 28.03.2017, NJW 2017, 1533
-- BGH 1 StR 366/19, Urt. v. 19.11.2019, NStZ 2020, 397
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Merkblätter Embargorecht (bafa.de), Stand 2024
 
 ## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 13.09.2013 - C-431/11 (Bank Melli Iran), NJW 2013, 3709 — EU-Sanktionsrecht gilt unmittelbar fuer alle in der EU ansaessigen Unternehmen; keine Umgehung durch Tochtergesellschaft ausserhalb der EU wenn Muttergesellschaft in EU ansaessig.
-- EuGH, Urt. v. 14.10.2021 - C-124/20 (Bank Melli Iran / Telekom), EuZW 2021, 1051 — Blocking-Statut VO 2271/96: EU-Unternehmen duerfen US-Secondary-Sanctions in EU-Gerichten nicht als Kundigungsgrund heranziehen; nationales Gericht muss Vorrang des EU-Blocking-Statuts sicherstellen.
-- BGH, Urt. v. 19.11.2019 - 1 StR 366/19, NStZ 2020, 397 — Strafbarkeit Embargoverstoß AWG § 18: Kenntnis des Endverbleibs im sanktionierten Staat entscheidend; bedingt vorsaetzliches Wegsehen genuegt fuer Vorsatz.
-- OLG Dusseldorf, Urt. v. 10.07.2019 - VI-U (Kart) 3/18, WuW 2019, 524 — Vertragsklauseln die OFAC-Compliance erzwingen, koennen kartellrechtswidrig sein wenn sie den Wettbewerb unverhältnismaessig beschraenken; OFAC-Klausel muss auf sanktionierten Personen beschrankt sein.
-- BVerwG, Urt. v. 25.05.2022 - 6 C 3.21, NVwZ 2022, 1398 — BAFA-Ablehnungsbescheid bei Dual-Use: Verhältnismaessigkeitspruefung der Verweigerung; wirtschaftliche Interessen des Ausf herers zu beruecksichtigen, jedoch nationale Sicherheitsinteressen vorrangig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Sanktions-Compliance
 
@@ -245,12 +236,9 @@ Compliance-Kosten (Prävention): Screening-Software 5.000–50.000 EUR/Jahr; Rec
 - **§ 43 GwG** — Verdachtsmeldung FIU; **§ 11 GwG** — Identifizierungspflicht UBO
 - **§ 134 BGB** — Nichtigkeit Rechtsgeschaeft bei Gesetzesverstoß
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bierwagen/Riemer, Exportkontrollrecht, C.H. Beck, 4. Aufl. 2023
-- Zinkahn/Winter, in: MuKo Strafrecht, AWG §§ 17-19 Rn. 1-80
-- Ehlers/Paal, Sanktionsrecht und Compliance, Nomos 2022 — internationale Perspektive OFAC/EU/UK
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Sanktions-Compliance-Pruefungsbericht
 
 **Adressat:** Geschaftsfuehrung und Legal / Compliance-Beauftragter

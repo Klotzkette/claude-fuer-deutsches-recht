@@ -1,6 +1,6 @@
 ---
 name: zvg-konten-kassenfuehrung
-description: "Kontenfuehrung und Buchfuehrung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Pruefraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung."
+description: "Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Prüfraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung."
 ---
 
 # Konten, Kasse und Buchführung
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 14.06.2007 - IX ZB 170/04, NZI 2007, 598 Rn. 16 — Der Zwangsverwalter muss die Verwaltungsgelder auf einem gesonderten Treuhandkonto führen; eine Vermischung mit eigenem Vermögen ist verboten und begründet Schadensersatzpflicht; das Treuhandkonto muss als solches gegenüber der Bank ausgewiesen sein.
-- BGH, Beschl. v. 25.09.2008 - IX ZB 205/06, NZI 2009, 55 Rn. 22 — Alle Einnahmen aus Nutzungen und alle Ausgaben sind zeitnah und vollständig zu verbuchen; eine nachträgliche Rekonstruktion der Buchführung ist zwar zulässig aber erhöht das Haftungsrisiko.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Konten/Kassenführung
 
 § 153 ZVG (Einnahmen aus Nutzungen) → § 152 ZVG (Pflichten Verwaltung) → § 13 ZwVwV (Buchführung) → § 14 ZwVwV (Jahresrechnung) → § 675 BGB (Geschäftsbesorgungsvertrag) → § 667 BGB (Herausgabe Treuhandgelder) → § 280 BGB (Schadensersatz Treuhandvermischung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., § 152 Rn. 60-80 (Treuhandkonto Buchführung)
-- Böttcher ZVG 6. Aufl., § 13 ZwVwV Rn. 1-20 (Buchführungspflichten)
-- Palandt/Sprau § 675 BGB Rn. 30-45 (Treuhand Rechenschaftspflicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Konten/Kassenführung
 
 1. Ist das Treuhandkonto eindeutig als solches bei der Bank benannt?

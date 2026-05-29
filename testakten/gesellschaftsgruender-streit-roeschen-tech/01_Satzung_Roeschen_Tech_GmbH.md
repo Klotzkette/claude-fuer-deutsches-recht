@@ -6,7 +6,7 @@
 
 ## § 1 Firma, Sitz, Geschaeftsjahr
 
-(1) Die Gesellschaft fuehrt die Firma „**Roeschen Tech GmbH**".
+(1) Die Gesellschaft fuehrt die Firma "**Roeschen Tech GmbH**".
 
 (2) Sitz der Gesellschaft ist Berlin.
 

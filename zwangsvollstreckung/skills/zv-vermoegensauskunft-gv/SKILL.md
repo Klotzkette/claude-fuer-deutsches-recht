@@ -1,6 +1,6 @@
 ---
 name: zv-vermoegensauskunft-gv
-description: "Glaeubiger weiss nichts ueber Vermoegen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Pruefraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung)."
+description: "Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung)."
 ---
 
 # Vermögensauskunft
@@ -41,7 +41,7 @@ Sachstandsermittlung beim Schuldner über alle Vermögenswerte. Voraussetzung f�
 
 Zwei Jahre ab letzter Vermögensauskunft. Neue Abnahme nur, wenn:
 
-- Gläubiger glaubhaft macht, dass sich die Vermögensverhältnisse wesentlich geändert haben (BGH 8.3.2018 – I ZB 70/17),
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - oder neuer Gläubiger und altes Verzeichnis bereits älter als sechs Monate ist und Aktualität gefordert wird (in Grenzen).
 
 Andernfalls genügt es, beim zentralen Vollstreckungsgericht Einsicht in das vorhandene Vermögensverzeichnis zu nehmen.
@@ -54,10 +54,10 @@ Andernfalls genügt es, beim zentralen Vollstreckungsgericht Einsicht in das vor
 
 ## Leitentscheidungen
 
-- BGH 8.3.2018 – I ZB 70/17 (wesentliche Vermögensänderung)
-- BGH 18.12.2014 – I ZB 27/14 (Modul 3 Sachpfändung, Anforderungen)
-- BGH 22.10.2015 – I ZB 70/14 (Drittauskunft § 802l)
-- BGH 22.3.2018 – I ZB 76/17 (Schuldnerverzeichnis-Eintragung)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

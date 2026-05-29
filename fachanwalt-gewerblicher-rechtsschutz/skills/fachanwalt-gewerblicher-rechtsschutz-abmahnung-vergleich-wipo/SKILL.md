@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo
-description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Pruefraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzustaendigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht fuer Markenrecht vor EUIPO oder DPMA."
+description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht für Markenrecht vor EUIPO oder DPMA."
 ---
 
 # Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz
@@ -28,11 +28,7 @@ description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsve
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 31 – Energieeffizienzklasse III: Abmahnung ist nur dann nicht rechtsmissbraeuchlich i.S.v. § 8c UWG, wenn der Abmahnende ein ernsthaftes Interesse an der Unterlassung hat; pauschale Serienabmahnungen ohne echten Wettbewerbsbezug koennen rechtsmissbraeuchlich sein.
-- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 27 – Goldbaerenbarren: Vertragsstrafe nach Hamburger Brauch muss in einem angemessenen Verhaeltnis zur Verletzungshandlung stehen; pauschale 5.001-EUR-Vertragsstrafe kann unangemessen niedrig oder unverhältnismässig hoch sein — Einzelfallpruefung.
-- BGH, Urt. v. 13.09.2018 – I ZR 26/17, GRUR 2019, 82 Rn. 19 – Jogginghosen: Fuer den Aufwendungsersatzanspruch des Abmahnenden nach § 13 Abs. 3 UWG ist eine berechtigte Abmahnung Voraussetzung; unwirksame oder missbräuchliche Abmahnung loest keinen Erstattungsanspruch aus.
-- BGH, Urt. v. 14.01.2016 – I ZR 65/14, GRUR 2016, 399 Rn. 23 – Markenverletzung Lizenz: Lizenzanaloger Schadensersatz bei Markenverletzung richtet sich nach dem, was verstaendige Parteien als Lizenzentgelt vereinbart haetten; 5-15 % Umsatzlizenz ist branchenuebliche Ausgangspunkt.
-- OLG Hamburg, Urt. v. 09.06.2022 – 5 U 4/21, GRUR-RS 2022, 17892 Rn. 44: Anti-Hammer-Klausel in modifizierter Unterlassungserklaerung — "nur bei rechtskraeftiger Feststellung" ist wirksam und schuetzt vor Vertragsstrafe bei streitigem Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette bei Reaktion auf Abmahnung
 
@@ -108,13 +104,9 @@ Schritt 6: Bei Scheitern
   → Negative Feststellungsklage (Abgemahnter)
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8, 8c, 13 UWG
-- Ingerl/Rohnke, MarkenG (Beck) — § 14 MarkenG und Schadensersatz
-- Stroe bele/Hacker/Thiering, MarkenG (Heymanns) — Verletzungsfolgen
-- Fezer, UWG (Beck) — Missbra uchliche Abmahnung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Modifizierte Unterlassungserklaerung
 
 **Adressat:** Abmahnender/Gegenseite — Tonfall sachlich-juristisch

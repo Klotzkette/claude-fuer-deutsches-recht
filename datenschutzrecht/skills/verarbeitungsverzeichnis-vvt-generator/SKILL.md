@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis-vvt-generator
-description: "Verzeichnis der Verarbeitungstaetigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Pruefraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollstaendiges VVT je Verarbeitungstaetigkeit. Abgrenzung: nicht fuer Datenschutz-Folgenabschaetzung (dsfa-erstellung)."
+description: "Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung)."
 ---
 
 # VVT — Verzeichnis von Verarbeitungstätigkeiten
@@ -371,9 +371,7 @@ TOMs:
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 05.12.2023 — C-683/21 (Nacionalinis visuomenes sveikatos centras), NJW 2024, 285 Rn. 62: Art. 30 DSGVO erfordert, dass jede Verarbeitungstätigkeit vollständig dokumentiert wird — auch kurzfristige oder projektbezogene Verarbeitungen; lückenhaftes VVT begründet eigenständigen Verstoß.
-- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 35: Zur Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO; das VVT ist das zentrale Nachweisinstrument; fehlende Einträge können bei Datenpannen als erschwerend gewertet werden.
-- LG Bonn, Urt. v. 11.11.2021 — 10 O 59/20, ZD 2022, 55 Rn. 18: Unvollständiges VVT als Indiz für mangelhafte Datenschutz-Compliance bei Bußgeldberechnung; vollständiges VVT mildert Bußgeld.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 
@@ -402,4 +400,4 @@ TOM (Verweis): Art. 32 DSGVO — Anlage [X]
 Rechtsgrundlage (Empfehlung): Art. [X] DSGVO [§ BDSG]
 ```
 
-<!-- AUDIT 27.05.2026: OLG Hamburg 13 U 37/22 (10.11.2022) entfernt. Tatsaechliches Urteil OLG Hamburg 7 U 37/22 (21.11.2023): Persoenlichkeitsrecht auslaendischer Staaten, MDR 2024, 109 — kein Datenschutzbezug. SKILL behauptete: Datenschutzaufsicht VVT Art. 30 DSGVO, GRUR-RS 2022, 35678 — AZ, Datum, Senat und Thema falsch. Eintrag geloescht. Kein verifizierbarer Ersatz gefunden. Bundle 017, Task 5. -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

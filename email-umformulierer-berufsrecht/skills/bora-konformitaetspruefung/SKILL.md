@@ -1,6 +1,6 @@
 ---
 name: bora-konformitaetspruefung
-description: "E-Mail auf BORA-Konformitaet pruefen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Pruefraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulaessige Versprechen. Output: BORA-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BRAO-Pruefung (brao-konformitaetspruefung)."
+description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung)."
 ---
 
 # BORA-Konformitätsprüfung
@@ -15,10 +15,9 @@ Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Beruf
 4. Gibt es Hinweise auf Direktkontakt mit dem Mandanten des Kollegen (§ 12 BORA)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Beschl. v. 29.06.2011 - AnwZ (Brfg) 11/10, NJW 2011, 3234 — § 2 BORA Verschwiegenheitspflicht gilt auch fuer Kommunikation per E-Mail und Cloud-Dienste; keine Abschwachung durch technische Mittel.
-- BGH, Urt. v. 27.10.2014 - AnwZ (Brfg) 67/13, NJW 2015, 490 — § 6 BORA Werbung: sachliche Informationen ueber Kanzleitaetigkeit in Schreiben an Interessenten sind zulaessig, sofern keine irreführenden Kompetenz-Claims.
-- AGH NRW, Beschl. v. 15.06.2018 - 1 AGH 14/18, NJW-RR 2019, 55 — § 25 BORA: herabsetzende Aeusserungen ueber Kollegen in Mandantenschreiben verletzen Kollegialitaetsgebot, auch wenn diese keine Schriftsaetze darstellen.
-- BGH, Beschl. v. 23.09.2002 - AnwZ (B) 40/01, NJW 2002, 3718 — § 12 BORA Direktkontaktverbot: unmittelbare Korrespondenz mit anwaltlich vertretener Gegenseite ohne Zustimmung des Kollegen ist berufsrechtlich unzulaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 2 BORA — Verschwiegenheitspflicht (Erweiterung der BRAO-Pflicht auf alle Kommunikationsmittel)
@@ -27,10 +26,9 @@ Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Beruf
 - § 25 BORA — Kollegialitaetsgebot
 - § 43a Abs. 2 BRAO — Grundlegende Verschwiegenheitspflicht
 
-## Kommentarliteratur
-- Hartung/Scharmer, BORA § 2 Rn. 1-45 (Verschwiegenheit in digitaler Kommunikation)
-- Hartung/Scharmer, BORA § 25 Rn. 1-30 (Kollegialitaetsgebot: Inhalt und Grenzen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## § 2 BORA — Verschwiegenheit
 
 § 2 BORA dehnt die anwaltliche Verschwiegenheitspflicht auf alle Kommunikationsmittel aus. In E-Mails besonders relevant: Offenlegung mandatsbezogener Informationen an Dritte, Nutzung von Mandantendaten in werblichen Kontexten, unverschlüsselte Übermittlung sensibler Mandantendaten. Jede E-Mail, die Mandantendaten enthält, ist auf Verschwiegenheitskonformität zu prüfen — insbesondere bei CC-Feldern und Weiterleitungen.
@@ -53,13 +51,13 @@ Maßgebliche Normen: § 2 BORA (Verschwiegenheit), § 6 BORA (Werbung), § 12 BO
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ich schreibe Ihnen direkt, weil Ihr Anwalt offenbar keine Zeit hat."
+**Vorher:** "Ich schreibe Ihnen direkt, weil Ihr Anwalt offenbar keine Zeit hat."
 **Nachher (Prüfergebnis):** Verstoß gegen § 12 BORA (Direktkontaktverbot bei anwaltlicher Vertretung). Lösung: Schreiben an den Kollegen richten.
 
-**Vorher:** „Ihr Kollege hat mir gesagt, dass er unsicher ist."
-**Nachher (Prüfergebnis):** Möglicher Verstoß gegen § 25 BORA; Wiedergabe einer Äußerung des Kollegen ohne dessen Einwilligung. Formulierung: „Es wurde mündlich erörtert, ob..."
+**Vorher:** "Ihr Kollege hat mir gesagt, dass er unsicher ist."
+**Nachher (Prüfergebnis):** Möglicher Verstoß gegen § 25 BORA; Wiedergabe einer Äußerung des Kollegen ohne dessen Einwilligung. Formulierung: "Es wurde mündlich erörtert, ob..."
 
-**Vorher:** „Wir sind bekannt für unsere Erfolge vor dem BGH."
+**Vorher:** "Wir sind bekannt für unsere Erfolge vor dem BGH."
 **Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 6 BORA, sofern nicht durch öffentliche Informationen (Urteilslisten) belegt. Empfehlung: Konkrete, nachprüfbare Angabe.
 
 ## Ausgabeformat

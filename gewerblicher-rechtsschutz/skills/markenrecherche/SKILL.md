@@ -1,6 +1,6 @@
 ---
 name: markenrecherche
-description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Pruefraster: Identitaets- und Aehnlichkeitspruefung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket fuer anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage."
+description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage."
 ---
 
 # Markenrecherche (Clearance)
@@ -29,7 +29,7 @@ Art des Zeichens bestimmen und Schutzfähigkeit vorprüfen:
 | Wortmarke (Fantasiebegriff) | i. d. R. schutzfähig; Prüfung auf absolute Schutzhindernisse |
 | Wortmarke (beschreibend) | Schutzhindernis § 8 Abs. 2 Nr. 2 MarkenG; Art. 7 Abs. 1 lit. c UMV; Verkehrsdurchsetzung möglich |
 | Bildmarke / Logo | Schutz für bildliche Gestaltung; Wortbestandteile separat prüfen |
-| Farbmarke | Hohe Hürde; Verkehrsdurchsetzung regelmäßig erforderlich (BGH, Urt. v. 23.10.2003 – I ZR 195/00, GRUR 2004, 241 – „Telekom") |
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Dreidimensionale Marke | Funktionale Formen vom Schutz ausgeschlossen (§ 3 Abs. 2 MarkenG) |
 
 Absolute Schutzhindernisse prüfen (§ 8 MarkenG; Art. 7 UMV): Fehlende Unterscheidungskraft, beschreibende Angaben, täuschende Angaben, Gattungsbezeichnungen.
@@ -59,7 +59,7 @@ Absolute Schutzhindernisse prüfen (§ 8 MarkenG; Art. 7 UMV): Fehlende Untersch
 
 ### 3. Kollidierende Zeichen analysieren – Verwechslungsfaktoren
 
-**Maßgeblicher Prüfungsrahmen:** BGH, Urt. v. 13.01.2000 – I ZR 223/97, GRUR 2000, 506 – „ATTACHÉ/TISSERAND"; BGH, Urt. v. 26.06.2014 – I ZR 9/13, GRUR 2014, 1101 Rn. 32 – „Gelbe Wörterbücher"; EuGH, Urt. v. 11.11.1997 – C-251/95 (Sabel), NJW 1998, 297 Rn. 22 (Wechselwirkung der Faktoren).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Faktoren der Verwechslungsgefahr (§ 9 Abs. 1 Nr. 2 MarkenG; Art. 8 Abs. 1 lit. b UMV):**
 
@@ -75,7 +75,7 @@ Absolute Schutzhindernisse prüfen (§ 8 MarkenG; Art. 7 UMV): Fehlende Untersch
 - Klangliche Ähnlichkeit: Vokal- und Silbenstruktur, Akzentuierung, dominierender Bestandteil
 - Schriftbildliche Ähnlichkeit: Buchstabenfolge, Länge, Groß-/Kleinschreibung
 - Konzeptionelle Ähnlichkeit: Bedeutungsgehalt; bei Fantasiebegriffen ohne Bedeutung entfällt dieser Aspekt
-- Prägung durch dominanten Bestandteil: BGH, Urt. v. 22.03.2012 – I ZR 55/10, GRUR 2012, 635 Rn. 23 – „METRO/ROLLER's Metro"
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 4. Risikobewertung erstellen
 
@@ -105,16 +105,12 @@ Zitierweise nach `../references/zitierweise.md`.
 **Normen:** §§ 4, 5, 8, 9, 14, 26 MarkenG; Art. 7, 8 VO (EU) 2017/1001 (UMV).
 
 **Leitentscheidungen:**
-- BGH, Urt. v. 13.01.2000 – I ZR 223/97, GRUR 2000, 506 – „ATTACHÉ/TISSERAND" (Verwechslungsgefahr Wortmarken).
-- BGH, Urt. v. 26.06.2014 – I ZR 9/13, GRUR 2014, 1101 Rn. 32 – „Gelbe Wörterbücher" (Kennzeichnungskraft).
-- BGH, Urt. v. 22.03.2012 – I ZR 55/10, GRUR 2012, 635 Rn. 23 – „METRO/ROLLER's Metro" (dominanter Bestandteil).
-- EuGH, Urt. v. 11.11.1997 – C-251/95 (Sabel/Puma), NJW 1998, 297 Rn. 22 (Wechselwirkung).
-- BGH, Urt. v. 23.10.2003 – I ZR 195/00, GRUR 2004, 241 Rn. 21 – „Telekom" (Farbmarke, Verkehrsdurchsetzung).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 9 Rn. 165 ff.; § 14 Rn. 345 ff. `[Modellwissen – prüfen; neuere Rspr. beachten]`
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 9 Rn. 95 ff.
-- BeckOK MarkenR, hrsg. von Kur/v. Bomhard/Albrecht, § 9 MarkenG Rn. 45 ff. (Stand 2024).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -124,7 +120,7 @@ Zitierweise nach `../references/zitierweise.md`.
 
 **Geplantes Zeichen:** NORDBLATT, angemeldet für Kl. 25 (Bekleidung), Kl. 35 (Einzelhandel)
 
-**Recherche DPMAregister:** Treffer: „NORDBLATT" (DPMA-Reg.-Nr. 30 2015 053 422), Inhaber: N.N. GmbH, Kl. 25, Status: eingetragen.
+**Recherche DPMAregister:** Treffer: "NORDBLATT" (DPMA-Reg.-Nr. 30 2015 053 422), Inhaber: N.N. GmbH, Kl. 25, Status: eingetragen.
 
 **Analyse:**
 
@@ -132,7 +128,7 @@ Zitierweise nach `../references/zitierweise.md`.
 
 *Waren-/Dienstleistungsähnlichkeit:* Kl. 25 identisch.
 
-*Verwechslungsgefahr:* Bei Zeichenidentität und Warenidentität besteht zwingend Verwechslungsgefahr gem. § 9 Abs. 1 Nr. 1 MarkenG (Doppelidentität); keine gesonderte Prüfung der übrigen Faktoren erforderlich (BGH, Urt. v. 25.04.2019 – I ZR 29/18, GRUR 2019, 849 Rn. 14 – „Goldbären").
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 🔴 **Bewertung: Blocking.** Identische Eintragung in identischer Klasse. Anmeldung unter diesem Zeichen nicht empfehlenswert ohne Abstandsvergrößerung oder vorherige Freigabe durch Inhaber.
 
@@ -146,8 +142,8 @@ Zitierweise nach `../references/zitierweise.md`.
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 25.04.2019 — I ZR 29/18 (Goldbaeren):** Bei Doppelidentitaet von Zeichen und Waren (§ 14 II Nr. 1 MarkenG) bedarf es keiner gesonderten Verwechslungsgefahr-Pruefung; das Vorliegen der Identitaetsvoraussetzungen begruendet den Verletzungstatbestand automatisch — daher ist die Recherche auf identische Zeichen das Erstprioritaet.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 06.10.2011 — I ZR 117/10 (ICE COFFEE):** Fur die Verwechslungsgefahr bei einer reinen Wortmarke ist der phonetische Eindruck von besonderer Bedeutung; eine lautliche Aehnlichkeit kann auch dann bestehen, wenn Schriftbild und Bedeutung voneinander abweichen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 22.09.2011 — C-323/09 (Interflora / Marks & Spencer):** Bei Suchwortmarketing (AdWords) verletzt der Mitbewerber die Marke, wenn ein normaler Internetnutzer aufgrund der Anzeige glauben kann, die beworbenen Waren stammten vom Markeninhaber; Recherche auf Keyword-Benutzung ist deshalb Teil einer umfassenden Markenrecherche.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

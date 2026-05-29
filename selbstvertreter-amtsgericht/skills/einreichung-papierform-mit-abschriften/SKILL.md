@@ -1,6 +1,6 @@
 ---
 name: einreichung-papierform-mit-abschriften
-description: "Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschaeftsstelle. Eingangsstempel Sendebeleg Beweis fuer rechtzeitige Einreichung. Vorteile und Nachteile gegenueber elektronischer Einreichung."
+description: "Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung."
 ---
 
 # Klage in Papierform einreichen

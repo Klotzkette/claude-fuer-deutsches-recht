@@ -71,31 +71,21 @@ werden kann.
 
 ### Leitentscheidungen
 
-1. BGH, Beschl. v. 17.09.2013 – II ZB 6/13, NZG 2013, 1294 Rn. 9 –
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Zum Eintragungserfordernis bei Prokura-Erteilung: Die Eintragung der Prokura
    hat keine konstitutive Wirkung; die Prokura entsteht durch Erteilung, nicht
    durch Eintragung. Aus § 15 Abs. 1 HGB folgt jedoch, dass der nicht eingetragene
    Widerruf der Prokura Dritten gegenüber unwirksam ist, wenn diese keine
    Kenntnis hatten.
 
-2. OLG Düsseldorf, Beschl. v. 03.07.2018 – I-3 Wx 207/17, BeckRS 2018, 14452
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
    Rn. 14 – Zur Zurückweisung einer Handelsregisteranmeldung wegen unzureichender
    Beglaubigung: § 12 HGB verlangt öffentliche Beglaubigung der Unterschrift;
    bloße notarielle Beglaubigung von Ablichtungen genügt nicht.
 
-### Kommentarliteratur
+### Quellenregel
 
-1. Krafka, in: MüKoHGB, 5. Aufl. 2021, § 12 Rn. 14 – Das Beglaubigungserfordernis
-   des § 12 Abs. 1 HGB ist zwingend; Nachholung ist möglich, führt aber zur
-   Zurückweisung bis zur ordnungsgemäßen Vorlage. Bei elektronischer Übermittlung
-   durch den Notar trägt dieser die Verantwortung für die Form.
-
-2. Heinrich/Holland, in: Ebenroth/Boujong/Joost/Strohn, HGB, 4. Aufl. 2020,
-   § 15 Rn. 28 – Die negative Publizität des § 15 Abs. 1 HGB schützt den
-   Rechtsverkehr: Dritte, die ohne Kenntnis von der nicht eingetragenen und
-   nicht bekannt gemachten Tatsache handeln, werden geschützt; Kenntnis schadet
-   auch dann, wenn sie nicht aus dem Register stammt.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 
@@ -246,17 +236,17 @@ neuen GF müssen alle unterschreiben. Der Notar beglaubigt die Unterschrift
 (§ 12 Abs. 1 HGB) und übermittelt die Anmeldung elektronisch (§ 12 Abs. 2 HGB).
 Bis zur Eintragung kann Dritten gegenüber weder das Ausscheiden des A noch die
 Vertretungsmacht des B aus dem Register entgegengehalten werden (§ 15 Abs. 1 HGB;
-BGH, Beschl. v. 17.09.2013 – II ZB 6/13, NZG 2013, 1294 Rn. 9). Um Haftungsrisiken
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 zu vermeiden, sollte B A sofort eine Löschungsvollmacht für etwaige von A noch
 einzugehende Verbindlichkeiten entziehen.
 
-*(Krafka, in: MüKoHGB, 5. Aufl. 2021, § 12 Rn. 14.)*
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken und typische Fehler
 
 - **Formfehler § 12 HGB:** Bloße Kopienbeglaubigung oder fehlende Originalunterschrift
-  führt zur Zurückweisung (OLG Düsseldorf, Beschl. v. 03.07.2018 – I-3 Wx 207/17,
-  BeckRS 2018, 14452 Rn. 14).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Literaturhinweis gesperrt: Kommentar-, Handbuch- und Aufsatzfundstellen nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Negative Publizität (§ 15 HGB):** Nicht eingetragene Änderungen können
   Dritten gegenüber nicht geltend gemacht werden; erhebliches Haftungsrisiko
   bei verspäteter Prokura-Widerrufseintragung.

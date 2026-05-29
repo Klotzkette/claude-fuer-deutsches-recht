@@ -90,10 +90,10 @@ MITTLERE MÄNGEL (vertiefende Prüfung empfohlen):
 
 ## Leitentscheidungen Red Flags
 
-- BGH, Urt. v. 26.06.2018 — KZR 47/16, WuW 2018, 460 — Red-Flag-Konstellation Informationsaustausch; abgestimmtes Verhalten; Vermutung bei parallelem Marktverhalten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Red Flag ueberragende Marktstellung; § 19a GWB neue Eingriffsvoraussetzung; BKartA erhaelt praezise Eingriffsbefugnis.
-- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Methodische Red Flags Marktdefinition; nicht belegte Substitutionsannahmen fuehren zur Kassation.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB §§ 1, 18-21 Rn. 1-50 (Red-Flag-Konstellationen in Praxis und Rechtsprechung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,13 +1,13 @@
 ---
 name: anw-tatsaechliche-verstaendigung-schlussbesprechung
-description: "Tatsaechliche Verstaendigung mit dem Finanzamt und Schlussbesprechung nach § 201 AO vorbereiten und durchfuehren. Anwendungsfall Betriebspruefung geht zu Ende oder Steuerstreit soll durch Einigung beigelegt werden. BFH IV R 87/85 tatsaechliche Verstaendigung ueber Sachverhaltsfragen binaendend. Schlussbesprechung Verhandlungshoehy-punkt Aussenpruefung. Eroerterungstermin FG § 79 FGO Vergleichschance. Output Verstaendigungsprotokoll Verhandlungsstrategie Schlussbesprechungs-Vorbereitung. Abgrenzung zu anw-aussenpruefung-strategien und vergleichsverhandlung-strategie."
+description: "Workflow-Skill zu anw tatsaechliche verstaendigung schlussbesprechung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich
 
 ## Zweck
 
-Im Steuerrecht gibt es **keinen** echten Vergleich über Rechtsfragen (Grundsatz: Steuern entstehen nach Gesetz, § 38 AO). Aber: **tatsächliche Verständigung** über Sachverhalts-Fragen ist BFH-anerkannt (IV R 87/85), **Schlussbesprechung § 201 AO** am Ende der Außenprüfung ist Verhandlungs-Höhepunkt, **Erörterungstermin § 79 FGO** kann Vergleichs-Chance bieten.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -28,18 +28,15 @@ Im Steuerrecht gibt es **keinen** echten Vergleich über Rechtsfragen (Grundsatz
 - **§ 364a AO** — Erörterung im Einspruchsverfahren
 - **§ 79 FGO** — Erörterungstermin Finanzgericht
 - **§ 76 FGO** — Sachaufklärungs-Pflicht
-- **BFH IV R 87/85** — Grundsatz tatsächliche Verständigung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen
 
-- BFH, Urt. v. 11.12.1984 – VIII R 131/76 (frühe Linie)
-- BFH, Urt. v. 6.2.1991 – I R 13/86 (Wirksamkeits-Voraussetzungen)
-- BFH, Urt. v. 25.11.2009 – I R 105/08 (Treu und Glauben Bindung)
-- BFH, Urt. v. 21.10.2014 – VIII R 44/11 (sachverhalts-bezogen, nicht rechts-bezogen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
-### Pfad 1 — Tatsächliche Verständigung (BFH IV R 87/85)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Nur** über Sachverhalts-Fragen (nicht Rechtsfragen)
 - Voraussetzung: tatsächliche Ungewissheit oder unverhältnismäßige Aufklärungs-Schwierigkeit
@@ -111,7 +108,7 @@ Im Steuerrecht gibt es **keinen** echten Vergleich über Rechtsfragen (Grundsatz
 ## Strategie und Taktik
 
 - **Sachverhalts-Streit vs. Rechtsfragen-Streit unterscheiden** — nur erster ist verhandelbar
-- **Amtsleiter-Genehmigung** für tatsächliche Verständigung: erhöht Verbindlichkeit (BFH I R 13/86)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 153 AO Berichtigungs-Pflicht beachten** — keine Strafbefreiung, aber Pflichten
 - **Bei Schätzungen § 162 AO**: Verständigung über Schätzungs-Grundlagen häufig möglich
 - **Außenprüfung Streit-Phasen**: nicht eskalieren vor Schlussbesprechung
@@ -128,4 +125,4 @@ Im Steuerrecht gibt es **keinen** echten Vergleich über Rechtsfragen (Grundsatz
 
 ## Quellen und Updates
 
-Stand: 05/2026. BFH-Linie zur tatsächlichen Verständigung (IV R 87/85, I R 13/86, VIII R 44/11) stabil. § 201 AO unverändert.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

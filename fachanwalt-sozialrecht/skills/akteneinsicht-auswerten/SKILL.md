@@ -1,14 +1,13 @@
 ---
 name: akteneinsicht-auswerten
-description: "Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch fuer Widerspruch oder Klage auswerten. § 25 SGB X § 120 SGG. Pruefraster: chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke Widersprueche zwischen Aktenteilen Beweislage. Output: Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend/hilfreich/neutral/belastend) und Pruefkatalog fuer Folgeschriftsatz. Abgrenzung zu akteneinsicht-anfordern (Antrag) und bescheidanalyse (Bescheid-Fokus)."
+description: "Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch für Widerspruch oder Klage auswerten. § 25 SGB X § 120 SGG. Prüfraster: chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke Widersprueche zwischen Aktenteilen Beweislage. Output: Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend/hilfreich/neutral/belastend) und Prüfkatalog für Folgeschriftsatz. Abgrenzung zu akteneinsicht-anfordern (Antrag) und bescheidanalyse (Bescheid-Fokus)."
 ---
 
 # Akteneinsicht auswerten
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 08.09.2022 - B 9 SB 3/21 R, SozR 4-3250 § 69 Nr. 27 Rn. 14 — Sachverständigengutachten in der Verwaltungsakte: Kläger hat Anspruch auf vollständige Einsicht auch in Befundunterlagen die dem Gutachter vorlagen; geschwArzte Teile müssen begründet werden.
-- BSG, Urt. v. 20.07.2011 - B 13 R 44/10 R, SozR 4-2600 § 43 Nr. 17 Rn. 16 — Verwertung von Akteninhalt als Beweismittel (§ 103 SGG): Sozialgericht darf Akteninhalt als Beweismittel verwenden; belastende Aktenstellen müssen dem Kläger mitgeteilt werden bevor das Gericht sie zu seinem Nachteil verwertet.
-- BSG, Beschl. v. 26.04.2016 - B 14 AS 89/15 B, BeckRS 2016, 69724 Rn. 11 — Widerspruch zwischen Akteninhalt und Bescheidbegründung: Abweichung von Aktenvermerken von der im Bescheid genannten Begründung ist Anhaltspunkt für Ermessensfehler oder unrichtige Sachverhaltsermittlung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Zweck
 

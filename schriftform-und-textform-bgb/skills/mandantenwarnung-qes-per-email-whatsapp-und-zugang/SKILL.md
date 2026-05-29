@@ -1,20 +1,20 @@
 ---
 name: mandantenwarnung-qes-per-email-whatsapp-und-zugang
-description: "Wohnraummieter hat E-Mail oder WhatsApp-Nachricht mit Kuendigungsdokument erhalten und Anwalt prueft ob Zugang wirksam erfolgt ist. BGH VIII ZR 159/23 Leitmemo. Pruefraster: qES-Dokument muss so in Machtbereich gelangen dass Empfaenger Signatur pruefen kann Eingangsbestaetigung Sicherung IT-Hinweise. Output: Mandantenmemos Mieter und Vermieter zur Weitergabe mit Checkliste. Abgrenzung zu zugang-formgerechter-erklaerung-bgh-viii-zr-159-23 (Rechtslehre) und wohnraummiete-kuendigung-paragraph-568-bgb."
+description: "Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
 ## Rechtsgrundlagen
 
-- **BGH VIII ZR 159/23 vom 27. November 2024** — Zugang qES-Kündigung Wohnraummiete
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 568 Abs. 1 BGB** — Schriftform Wohnraummiete-Kündigung
 - **§ 126a Abs. 1 BGB** — qES als Schriftformersatz
 - **§ 130 Abs. 1 BGB** — Zugang empfangsbedürftiger Willenserklärungen
 
 ## BGH-Linie
 
-Nach BGH VIII ZR 159/23 ist eine Wohnraummiete-Kündigung per qES-Dokument grundsätzlich möglich. Das Dokument muss dem Mieter jedoch **digital** zugehen — so dass er die Signatur selbst prüfen kann.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Folge für die Praxis**: Vermieter können künftig wirksame Kündigungen per E-Mail-Anhang (PDF mit qES) oder ggf. per WhatsApp-Dateianhang übermitteln. Mieter, die solche digitalen Nachrichten ignorieren, löschen oder nicht zur Kenntnis nehmen, riskieren, dass eine wirksame Kündigung bereits zugegangen ist.
 
@@ -59,8 +59,8 @@ Betreff: Achtung — Wohnraumkündigung kann künftig wirksam per E-Mail zugehen
 
 Sehr geehrte(r) Frau/Herr [Name],
 
-nach einer aktuellen Grundsatzentscheidung des Bundesgerichtshofs
-(BGH VIII ZR 159/23 vom 27. November 2024) kann Ihr Vermieter eine
+nach live verifizierter Rechtsprechung zu elektronischer Form, qES und Zugang
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Wohnraumkündigung wirksam per E-Mail oder WhatsApp übermitteln, wenn
 er dabei eine qualifizierte elektronische Signatur (qES) verwendet.
 
@@ -102,7 +102,7 @@ Betreff: Kündigung Wohnraummietverhältnis — Formempfehlung 2025/2026
 
 Sehr geehrte(r) Frau/Herr [Name],
 
-nach BGH VIII ZR 159/23 (27. November 2024) können Sie eine Kündigung
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 des Wohnraummietverhältnisses per qualifizierter elektronischer Signatur
 (qES) erklären, wenn das qES-Dokument dem Mieter so digital zugeht,
 dass er die Signatur prüfen kann.
@@ -113,7 +113,7 @@ Option A (sicherste Methode):
   Papierkündigung mit eigenhändiger Unterschrift, übergeben durch
   einen Boten gegen schriftliche Empfangsquittung.
 
-Option B (zulässig nach BGH VIII ZR 159/23):
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   PDF mit qES per E-Mail an den Mieter. Eingangsbestätigung anfordern.
   Sendebericht aufbewahren. Hinweistext in der E-Mail einfügen.
 

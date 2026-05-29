@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-widerspruchsschrift
-description: "Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Pruefraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begruendung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo."
+description: "Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Prüfraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begründung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruchsschrift
@@ -49,14 +49,7 @@ Gegen einen belastenden Verwaltungsakt ist als Vorverfahren — sofern nicht dur
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BVerwG 6 C 17.78 | 6 C 17.78 | 14.03.1979 | Widerspruchsverfahren als Sachurteilsvoraussetzung; kein Verzicht bei laufendem Vorverfahren |
-| BVerwG 3 C 44.04 | 3 C 44.04 | 20.01.2005 | Ermessensfehler § 114 VwGO; Nachschieben von Ermessenserwägungen im Gerichtsverfahren |
-| BVerwG 8 C 39.84 | 8 C 39.84 | 14.06.1985 | Heilung Anhörungsmangel § 45 VwVfG; auch im Widerspruchsverfahren möglich |
-| BVerwG 9 C 23.88 | 9 C 23.88 | 17.01.1989 | Verhältnismäßigkeitsgrundsatz bei belastendem VA; dreistufige Prüfung |
-| OVG NRW 8 A 2543/12 | 8 A 2543/12 | 06.06.2013 | Rechtsbehelfsbelehrung fehlerhaft → 1-Jahres-Frist § 58 Abs. 2 VwGO; keine Kenntniszurechnung |
-| VGH Bayern 4 B 19.120 | 4 B 19.120 | 18.02.2020 | Widerspruchsverfahren in Bayern: Abschaffung im Bereich des Baurechts; unmittelbare Klage statthaft |
-| BVerwG 1 C 16.14 | 1 C 16.14 | 01.03.2016 | Aufschiebende Wirkung Widerspruch; keine automatische Suspendierung bei Abschiebungsanordnung |
-| OVG Rheinland-Pfalz 8 A 10048/20 | 8 A 10048/20 | 21.04.2021 | Begründungspflicht § 39 VwVfG; pauschale Begründung genügt nicht; Abwägungspflichten darlegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Widerspruch
 
@@ -108,10 +101,7 @@ Gegen einen belastenden Verwaltungsakt ist als Vorverfahren — sofern nicht dur
 | Gegenargument der Behörde | Gegenstrategie |
 |---|---|
 | "Anhörungsmangel geheilt — Widerspruch ist Nachholung" | § 45 Abs. 1 Nr. 3 VwVfG: Heilung nur durch eigenständige, nicht nur pro forma erfolgte Anhörung; bloße Übersendung des Bescheids genügt nicht |
-| "Frist versäumt" | § 58 Abs. 2 VwGO bei Belehrungsfehlern; fehlt Hinweis auf Zuständigkeit der Behörde → 1-Jahres-Frist (OVG NRW 8 A 2543/12) |
-| "Begründung ausreichend" | § 39 VwVfG; Begründung muss die wesentlichen tatsächlichen und rechtlichen Gründe mitteilen; pauschale Verweise nicht ausreichend (OVG Rheinland-Pfalz 8 A 10048/20) |
-| "Ermessen fehlerlos ausgeübt" | BVerwG 3 C 44.04: Nachschieben von Ermessenserwägungen ist nur begrenzt zulässig; neue Erwägungen im Gerichtsverfahren grundsätzlich unbeachtlich |
-| "Verhältnismäßigkeit gewahrt" | Milderes Mittel konkret benennen; Wirkungsgleichheit des milderen Mittels darlegen; BVerwG 9 C 23.88 dreistufige Prüfung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Widerspruchsverfahren ausgeschlossen" | Landespezifische Ausnahmen genau prüfen; bei Ausschluss nur in bestimmten Sachgebieten prüfen ob hier ein solches vorliegt |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -319,9 +309,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
 
-- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, NVwZ 2023, 567 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG seit PostModG (01.01.2025) vier Tage; Widerspruchsfrist § 70 VwGO laeuft ab Ablauf der Fiktion auch bei spaeterem tatsaechlichen Zugang.
-- BVerwG, Beschl. v. 15.06.2022 — 6 B 14.21, DVBl 2022, 1110 — Wiedereinsetzung § 60 VwGO; unverschuldete Fristversaeumnis; zwei-Wochen-Frist ab Wegfall des Hindernisses; strikte Darlegungslast Antragsteller.
-- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Nachschieben von Begruendung § 114 Satz 2 VwGO; zulassig nur wenn Kerncharakter des Bescheids unveraendert bleibt; keine erstmalige Begruendung im Klageverfahren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
@@ -329,10 +317,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - VwVfG §§ 28, 35, 39, 40, 41, 43, 44, 45, 80
 - GKG § 52
 - RVG Nr. 2300 VV
-- BVerwG 6 C 17.78 (Widerspruch Sachurteilsvoraussetzung)
-- BVerwG 3 C 44.04 (Ermessenserwägungen Nachschieben)
-- BVerwG 8 C 39.84 (Heilung Anhörungsmangel § 45 VwVfG)
-- BVerwG 9 C 23.88 (Verhältnismäßigkeit)
-- OVG NRW 8 A 2543/12 (Belehrungsfehler 1-Jahres-Frist)
-- OVG Rheinland-Pfalz 8 A 10048/20 (Begründungspflicht)
-- Kopp/Schenke VwGO; Stelkens/Bonk/Sachs VwVfG; Schoch/Schneider VwGO
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

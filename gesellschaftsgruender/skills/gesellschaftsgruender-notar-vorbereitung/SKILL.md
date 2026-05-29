@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-notar-vorbereitung
-description: "Notartermin fuer GmbH-Gruendung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Pruefraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung."
+description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Vorbereitung
@@ -25,17 +25,11 @@ description: "Notartermin fuer GmbH-Gruendung vorbereiten: Unterlagencheck, Voll
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vor-GmbH ist rechtsfähig; GF haftet für Verbindlichkeiten zwischen Beurkundung und Eintragung, die er ohne Gesellschafter-Deckung eingeht.
-- BGH, Urt. v. 04.03.1996 - II ZR 89/95, NJW 1996, 1476 — Sacheinlage Differenzhaftung: Gesellschafter trägt Werthaltigkeitsrisiko seiner Sacheinlage bis zur Einzahlungspflicht; gutgläubige Falscheinschätzung schützt nicht.
-- OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Beurkundung durch Notar: persönliche Anwesenheit oder wirksame Vollmacht erforderlich; Vollmacht muss in Beurkundungsform erteilt sein bei Gründungsakten.
-- BayObLG, Beschl. v. 18.11.2020 - 101 AR 175/20 — Notar-Identifikation bei Online-Beurkundung: eID-Chip und Video-Identifikation reichen aus; Notar muss aber eigenständig Identität sicherstellen können.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Emmerich, GmbHG, § 2 Rn. 1-30 (Beurkundung, Musterprotokoll, Online-Gründung)
-- Lutter/Hommelhoff, GmbHG, § 5 Rn. 50-70 (Sachgründung, Sachgründungsbericht, Differenzhaftung)
-- Baumbach/Hueck, GmbHG, § 2a Rn. 1-15 (Musterprotokoll, Vereinfachungsvoraussetzungen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kosten-Überblick (GNotKG 2026)
 
 | Gründungsart | Stammkapital | Notar ca. | HR ca. | Gesamt ca. |
@@ -119,8 +113,7 @@ T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
 
 - §§ 2, 2a, 5, 7, 9 GmbHG (Beurkundung, Musterprotokoll, Sachgründung)
 - §§ 16a-d, 17, 40 BeurkG (Online-Beurkundung, Belehrungspflicht)
-- BGH II ZR 171/06, NJW 2008, 1589 (Vor-GmbH)
-- BGH II ZR 89/95, NJW 1996, 1476 (Differenzhaftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Emmerich, GmbHG, § 2 Rn. 1-30
 
 ## Übergabe an andere Skills

@@ -1,6 +1,6 @@
 ---
 name: common-law-client-explainer
-description: "Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklaerung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schliessen US-Vertrag ab. Pruefraster Verstaendlichkeit Vollstaendigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklaerungsschreiben oder Memo fuer Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton)."
+description: "Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklärungsschreiben oder Memo für Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton)."
 ---
 
 # Mandanten-Erklärer

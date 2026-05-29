@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-cashflow-laienverstaendlich
-description: "Cashflow-Darstellung fuer Mandant in laienverstaendlicher Form. Anwendungsfall Quartals-BWA mit vereinfachter Cashflow-Aufstellung fuer GF ohne Finanz-Hintergrund. Methodik einfache Mittelfluss-Tabelle Brutto-Netto-Cashflow Trennung zahlungswirksam vs nicht-zahlungswirksam. Output 1-seitige Cashflow-Uebersicht."
+description: "Cashflow-Darstellung für Mandant in laienverstaendlicher Form. Anwendungsfall Quartals-BWA mit vereinfachter Cashflow-Aufstellung für GF ohne Finanz-Hintergrund. Methodik einfache Mittelfluss-Tabelle Brutto-Netto-Cashflow Trennung zahlungswirksam vs nicht-zahlungswirksam. Output 1-seitige Cashflow-Übersicht."
 ---
 
 # Cashflow laienverstaendlich darstellen

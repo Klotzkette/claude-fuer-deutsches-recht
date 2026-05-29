@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-vorlagen
-description: Standardvorlagen fuer den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachstand Empfehlung naechste Schritte Frist Kostenhinweis Unterschrift mit Berufsbezeichnung. Verschiedene Vorlagen fuer Mandatseroeffnung Zwischenbericht Beratungsergebnis Abschlussbericht Schlussrechnung. Hauptregel klar verstaendlich kein Juristenjargon ohne Erklaerung. Bei Mandantenkommunikation auf Mandantenseite Rolle pruefen (Verbraucher vs Geschaeftskunde). Disclaimer und Kostenhinweis Pflicht.
+description: Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachstand Empfehlung naechste Schritte Frist Kostenhinweis Unterschrift mit Berufsbezeichnung. Verschiedene Vorlagen für Mandatseroeffnung Zwischenbericht Beratungsergebnis Abschlussbericht Schlussrechnung. Hauptregel klar verstaendlich kein Juristenjargon ohne Erklärung. Bei Mandantenkommunikation auf Mandantenseite Rolle prüfen (Verbraucher vs Geschäftskunde). Disclaimer und Kostenhinweis Pflicht.
 ---
 
 # Mandantenbrief-Vorlagen
@@ -13,10 +13,7 @@ description: Standardvorlagen fuer den Mandantenbrief der Kanzlei. Aufbau Anrede
 4. Soll das Schreiben postalisch, per E-Mail oder ueber beA versandt werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwaltliche Aufklaerungs- und Hinweispflicht gegenueber Mandanten: alle wesentlichen Risiken und Kosten muessen schriftlich mitgeteilt werden.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kostenbelehrung nach § 49b Abs. 5 BRAO: Mandant muss ueber voraussichtliche Gesamtkosten informiert werden; fehlende Belehrung kann Honoraranspruch gefaehrden.
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Zwischenbericht als Pflicht: bei langer Mandatsdauer muss Mandant regelmaessig ueber den Stand informiert werden.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzinformation nach Art. 13 DSGVO: erstmalige Datenerhebung beim Mandanten erfordert Transparenzpflicht-Erfullung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 49b Abs. 5 BRAO — Pflicht zur Kostenbelehrung bei Auftragsannahme
@@ -24,10 +21,9 @@ description: Standardvorlagen fuer den Mandantenbrief der Kanzlei. Aufbau Anrede
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch fuer Inhalte im Mandantenbrief
 - § 2 BORA — Gewissenhaftigkeit: verstaendliche und klare Kommunikation mit dem Mandanten
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 49b Rn. 80-100 (Kostenbelehrung: Inhalt und Konsequenzen)
-- Kühling/Buchner DSGVO Art. 13 Rn. 1-30 (Informationspflicht bei Mandantsaufnahme)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Allgemeine Aufbauregel
 
 ```

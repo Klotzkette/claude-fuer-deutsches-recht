@@ -1,6 +1,6 @@
 ---
 name: widerspruchsbescheid-was-jetzt
-description: "Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser fuer Buerger nach dem Widerspruchsbescheid."
+description: "Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid."
 ---
 
 # Widerspruchsbescheid erhalten — was jetzt?

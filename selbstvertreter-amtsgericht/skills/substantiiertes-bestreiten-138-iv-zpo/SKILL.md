@@ -1,6 +1,6 @@
 ---
 name: substantiiertes-bestreiten-138-iv-zpo
-description: "Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen ausser eigener Wahrnehmung. Mustertext und typische Fallen."
+description: "Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen."
 ---
 
 # Bestreiten muss substantiiert sein — wie es geht

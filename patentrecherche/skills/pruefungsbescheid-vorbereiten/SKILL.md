@@ -1,6 +1,6 @@
 ---
 name: pruefungsbescheid-vorbereiten
-description: "Bereitet Antwort auf Pruefungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Taetigkeit Argument Anspruchsanpassung). Beruecksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden."
+description: "Bereitet Antwort auf Prüfungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Tätigkeit Argument Anspruchsanpassung). Berücksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden."
 ---
 
 # prüfungsbescheid-vorbereiten
@@ -72,7 +72,7 @@ Beanstandung 4: Art. 123(2) EPUe / Beschreibung Abs. [0034]
 
 #### Bei Art. 84 (Klarheit)
 
-- **Unklare Begriffe** definieren oder ersetzen (z. B. „im Wesentlichen" → konkrete Toleranz „±5 %").
+- **Unklare Begriffe** definieren oder ersetzen (z. B. "im Wesentlichen" → konkrete Toleranz "±5 %").
 - **Stütze in der Beschreibung** zeigen — auf Stellen der Beschreibung verweisen.
 
 #### Bei Art. 123(2) (Added Subject-Matter)
@@ -150,7 +150,7 @@ Mit freundlichen Grüßen
 
 ## Hinweise
 
-- **EPA-typische Argumente:** „No pointer in D1 to D2", „D1 teaches away from the claimed solution", „unexpected technical effect".
+- **EPA-typische Argumente:** "No pointer in D1 to D2", "D1 teaches away from the claimed solution", "unexpected technical effect".
 - **Hilfsanträge** sollten so formuliert sein, dass sie inhaltlich noch sinnvoll bleiben — keine Überengung, die das Patent wirtschaftlich wertlos macht.
 - **Auxiliary Requests** sind im EPA-Verfahren Standard. Im DPMA-Verfahren formal nicht zwingend, aber inhaltlich übernehmbar.
 - **Bei Anhörung** (§ 47 PatG / Art. 116 EPÜ): die Eingabe ist die schriftliche Grundlage. Hilfsanträge müssen vorab eingereicht werden.
@@ -169,8 +169,8 @@ Bevor die Antwort auf den Pruefungsbescheid formuliert wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 12.09.2013 — X ZR 22/10 (Anspruchsaenderung im Pruefungsverfahren):** Im Erteilungsverfahren koennen Patentansprueche geaendert werden, sofern die Aenderung durch die urspruengliche Offenbarung gestuetzt ist (§ 38 PatG / Art. 123 EPU); eine Erweiterung uber den ursprunglich offenbarten Gegenstand hinaus fuehrt zur Nichtigkeit des Patents.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Erweiterte Beschwerdekammer, G 2/21 (Plausibilitaet):** Die technische Wirkung, auf die eine erfinderische Taetigkeit gestuetzt wird, muss in der Anmeldung plausibel offenbart sein; spaetere Versuchsbelege koennen die Plausibilitaet ersetzen, wenn der Fachmann den Effekt nachtraeglich als glaubhaft bestaetigt ansehen kann.
 
-> **BGH, Urt. v. 14.10.2010 — Xa ZR 36/08 (Hilfsantrag EPA):** Im EPA-Beschwerdeverfahren spaetest eingereichte Hilfsantraege koennen als verspaetet zurueckgewiesen werden; die Pruefungstaktik muss daher fruehzeitig eine vollstaendige Hilfsantragsstaffel vorbereiten, auch wenn der Hauptantrag als verteidbar erscheint.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

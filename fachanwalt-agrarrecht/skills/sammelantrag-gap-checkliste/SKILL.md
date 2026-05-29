@@ -1,6 +1,6 @@
 ---
 name: sammelantrag-gap-checkliste
-description: "Landwirt muss jaehrlichen Sammelantrag fuer GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollstaendig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Moeglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung fuer Widerspruch gegen Foerderbescheid."
+description: "Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid."
 ---
 
 # Sammelantrag GAP — Checkliste
@@ -41,15 +41,13 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
-| BVerwG | 3 C 21/18 | Anforderungen an Flächenbeschreibung im Förderantrag; Unschärfen gehen zu Lasten des Antragstellers |
-| OVG Münster | 18 A 2567/17 | Rückforderung bei rückwirkender Flächenänderung; Vertrauensschutz nur bei vollständiger Offenlegung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| EuGH | C-434/16 | Verhältnis GLÖZ-Verstoß zu Direktzahlungskürzung; Verhältnismäßigkeitsprinzip gilt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Sammelantrag
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -169,11 +167,9 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast und Darlegungslast
 
-- **Antragsteller** muss Anspruchsvoraussetzungen (Flächengröße, Kulturart, GLÖZ-Einhaltung) nachweisen; Beweislast liegt beim Förderungsempfänger (BVerwG 3 C 21/18).
-- **Behörde** trägt bei Kürzung wegen GLÖZ-Verstoß die Feststellungslast für den konkreten Verstoß (OVG Münster 18 A 2567/17).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Vor-Ort-Kontrolle: Protokollinhalt hat faktische Beweiskraft — Widerspruch ohne Gegengutachten selten erfolgreich.
 
 ## Fristen
@@ -226,15 +222,14 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 - VO (EU) 2021/2116 Horizontale Verordnung
 - GAPDZG, GAPInVeKoSG, GAPKondV
 - § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
-- BVerwG 3 C 21/18; OVG Münster 18 A 2567/17
-- Düsing/Martinez Agrarrecht; Schweizer/Schwind GAP-Praxis
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 28: Sanktionssystem der GAP-Horizontalen Verordnung muss verhältnismäßig sein; bei erstmaligen, geringfügigen und unverschuldeten Verstößen gegen GLÖZ-Standards ist eine Kürzung von mehr als 1 % nicht gerechtfertigt; Mitgliedstaaten dürfen keine rigidere Sanktionspraxis einführen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 04.07.2019 — **3 C 24.17**, BVerwGE 166, 88 Rn. 16: Behörde muss bei Vor-Ort-Kontrolle Messunsicherheiten von mindestens 1,5 % der Fläche zugunsten des Antragstellers berücksichtigen; GPS-Messung unter 1 m Genauigkeit ist ausreichend genaues Referenzverfahren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026
-OVG Lüneburg 10 LA 189/20 (NOT_FOUND): Auf dejure.org keine Treffer. Zitat gelöscht aus Leitentscheidungen-Tabelle und Quellen-Abschnitt.
 -->

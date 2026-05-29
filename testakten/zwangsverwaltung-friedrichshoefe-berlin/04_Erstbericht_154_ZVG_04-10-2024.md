@@ -16,7 +16,7 @@ Berlin, den 04. Oktober 2024
 
 Alpenländische Hypotheken- und Handelsbank AG ./. Kronprinz Friedrich Immobilien GmbH & Co. KG
 Aktenzeichen: 36 L 412/24
-Objekt: Büro- und Geschäftshaus „Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte
+Objekt: Büro- und Geschäftshaus "Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte
 
 erstatte ich gemäß § 154 ZVG und Ziffer III des Anordnungsbeschlusses vom 22.08.2024 den
 
@@ -52,7 +52,7 @@ Das Objekt umfasst sieben Obergeschosse mit Büro- und Geschäftsflächen, ein E
 | Einzelhandel EG | 2 | 11,4 % |
 | Tiefgarage (Einzelstellplätze, Sondernutzung) | 32 | 4,2 % |
 | Lagerräume Souterrain | 5 | 1,5 % |
-| Konferenzraum „Forum Friedrichshöfe" (tageweise) | – | 1,1 % |
+| Konferenzraum "Forum Friedrichshöfe" (tageweise) | – | 1,1 % |
 | Werbeflächen / Fassade (Dauervertrag) | 1 | 0,8 % |
 | Antennenstandort Mobilfunk (Vodafone) | 1 | 4,2 % |
 
@@ -61,7 +61,7 @@ Größter Mieter: Cobaltech AG (Etage 5 vollständig, EUR 26.480 monatlich netto
 ### 3.3 Leerstand
 
 - **Etage 6 Mitte (412 m²)**, ehemals Sustainable Future Consulting GmbH, fristlos gekündigt zum 31.05.2024. Vermarktung wurde von mir am 12.09.2024 an die Engel & Völkers Commercial Berlin GmbH übergeben. Erste Besichtigungstermine ab 23.09.2024 mit insgesamt vier Interessenten. Marktmieten-Spanne lt. Engel & Völkers: EUR 21,50 bis EUR 24,80 / m² nettokalt.
-- **Einzelhandelsfläche EG-West (218 m²)**, ehemals Pop-up-Store „Salon Anouchka" (Mietvertrag regulär ausgelaufen 31.07.2024). Vermarktung läuft.
+- **Einzelhandelsfläche EG-West (218 m²)**, ehemals Pop-up-Store "Salon Anouchka" (Mietvertrag regulär ausgelaufen 31.07.2024). Vermarktung läuft.
 - **6 Tiefgaragen-Stellplätze**, davon 4 zuvor von Sustainable Future angemietet. Aufnahme in das laufende Vermarktungspaket.
 
 ## 4. Einnahmen und Ausgaben
@@ -76,7 +76,7 @@ Ist-Eingänge auf Anderkonto: EUR 312.842,18
 | Differenz | Betrag |
 |---|---:|
 | Mietminderung Lichtenberg & Sieboldt PartG (Wasserschaden Et. 4 West) | EUR 4.840,00 |
-| Mietrückstand „Aurelius Concept Studio" (Et. 3, August und September 2024) | EUR 7.840,00 |
+| Mietrückstand "Aurelius Concept Studio" (Et. 3, August und September 2024) | EUR 7.840,00 |
 | Sonstige Differenzen (Heizkosten-Vorauszahlung Streit) | EUR 3.367,82 |
 | Differenzsumme | EUR 16.047,82 |
 
@@ -114,9 +114,9 @@ Eine vorzeitige Verteilung im Berichtszeitraum war nicht angezeigt, da die Miete
 
 ## 6. Rechtsstreitigkeiten und besondere Vorgänge
 
-### 6.1 Mietrückstand „Aurelius Concept Studio"
+### 6.1 Mietrückstand "Aurelius Concept Studio"
 
-Die Mieterin „Aurelius Concept Studio Christian Aurelius e.K." (Etage 3, ca. 220 m², MV vom 01.04.2022) ist seit August 2024 mit Mietzahlungen rückständig. Stand 30.09.2024 beträgt der Rückstand EUR 7.840,00 (zwei Monatsmieten). Eine fristlose Kündigung wegen Zahlungsverzugs nach § 543 Abs. 2 Nr. 3 BGB ist bei Erreichen der gesetzlichen Schwelle (zwei Monate, hier erreicht zum 05.10.2024) möglich. Die Verwalterin hat zunächst eine Mahnung mit Fristsetzung zum 15.10.2024 versandt. Über das weitere Vorgehen wird im Folgebericht berichtet.
+Die Mieterin "Aurelius Concept Studio Christian Aurelius e.K." (Etage 3, ca. 220 m², MV vom 01.04.2022) ist seit August 2024 mit Mietzahlungen rückständig. Stand 30.09.2024 beträgt der Rückstand EUR 7.840,00 (zwei Monatsmieten). Eine fristlose Kündigung wegen Zahlungsverzugs nach § 543 Abs. 2 Nr. 3 BGB ist bei Erreichen der gesetzlichen Schwelle (zwei Monate, hier erreicht zum 05.10.2024) möglich. Die Verwalterin hat zunächst eine Mahnung mit Fristsetzung zum 15.10.2024 versandt. Über das weitere Vorgehen wird im Folgebericht berichtet.
 
 ### 6.2 Wasserschaden Lichtenberg & Sieboldt (Etage 4 West)
 

@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-strukturpruefung
-description: "Fertig erstellten Aktenauszug auf Vollstaendigkeit pruefen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Pruefraster Bausteine-Vollstaendigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Pruefergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetspruefung (Wertungs-Check)."
+description: "Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check)."
 ---
 
 # Aktenauszug — Strukturprüfung
@@ -25,17 +25,11 @@ Dieser Skill prüft einen erstellten Aktenauszug auf formale Vollständigkeit al
 
 ## Rechtsprechung zu Vollstaendigkeit und Ordnung der Akte
 
-- BGH, Urt. v. 17.03.2022 - IX ZR 147/20, NJW 2022, 2106 — Zur Rekonstruktion eines Sachverhalts aus unvollständiger Akte; lückenhafte Dokumentation geht zu Lasten der beweispflichtigen Partei.
-- BGH, Beschl. v. 12.01.2021 - VIII ZB 73/19, NJW-RR 2021, 571 — Fristversäumnis wegen unzureichender Aktenkontrolle begründet Anwaltshaftung nach § 280 Abs. 1 i.V.m. § 675 BGB.
-- BGH, Urt. v. 09.06.2020 - VI ZR 261/19, NJW 2020, 2811 — Anforderungen an die Vollständigkeit des Tatbestandes im Urteil; Aktenauszug muss tatbestandsrelevante Tatsachen vollständig abbilden.
-- BVerfG, Beschl. v. 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 — Rechtliches Gehör (Art. 103 Abs. 1 GG) als Massstab: Gericht muss gesamten Akteninhalt kennen und berücksichtigen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Greger ZPO, § 139 Rn. 1 ff. (Hinweispflicht und Folgen der Verletzung)
-- MüKo ZPO/Fritsche, § 253 Rn. 1 ff. (Klageschrift Mindestinhalt)
-- Thomas/Putzo ZPO, § 128 Rn. 1 ff. (Muendliche Verhandlung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfcheckliste
 
 ### Baustein 1 — Verfahrensidentifikation

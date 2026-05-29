@@ -1,6 +1,6 @@
 ---
 name: wandlung-kommunikation-paketverteilung
-description: "Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Pruefraster: Empfaengerliste Dokumente Zugang Fristen Bestaetigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht fuer inhaltliche Pruefung der Wandlung (wandelereignis-eingang)."
+description: "Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Prüfraster: Empfaengerliste Dokumente Zugang Fristen Bestätigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht für inhaltliche Prüfung der Wandlung (wandelereignis-eingang)."
 ---
 
 # Wandlung – Kommunikation und Paketverteilung
@@ -27,7 +27,7 @@ Dieser Skill koordiniert alle Kommunikationsmaßnahmen nach der Wandlungsentsche
 - § 8 Wandeldarlehensvertrag (Vertraulichkeit – an wen darf kommuniziert werden?)
 
 ### Rechtsprechung
-- BGH, Urt. v. 29. April 2002 – II ZR 330/00 (Mitwirkungspflicht Gesellschafterinnen bei Kapitalerhöhung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -85,9 +85,9 @@ Stand: 05/2026. Bei Änderung HGB § 272 oder UmwStG § 20 aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 18: Kommunikation nach vollzogener Wandlung muss alle relevanten Parteien gleichzeitig und vollständig informieren; asynchrone Information kann als Insiderinformation-Problem qualifiziert werden, wenn das Unternehmen auf Wertpapiermärkten aktiv ist; bei GmbH ist die Gesellschafterliste das maßgebliche öffentliche Instrument.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 28: Alle beteiligten Gesellschafter müssen über die Wandlung informiert werden; ihre Zustimmung zum Bezugsrechtsverzicht muss dokumentiert sein; fehlt die Information oder Zustimmung, können sie den Kapitalerhöhungsbeschluss anfechten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

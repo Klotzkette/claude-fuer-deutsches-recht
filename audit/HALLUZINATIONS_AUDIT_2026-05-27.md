@@ -99,7 +99,7 @@
 | BGH | IV ZR 81/19 | NOT_FOUND |  |  |  |
 | BGH | IX ZR 145/20 | NOT_FOUND |  |  |  |
 
-_(Vollstaendige Liste: 976 Problemfaelle in audit_problems.json)_
+_(Vollstaendige Liste: 976 Problemfaelle in audit_problems_2026-05-27.json)_
 ---
 
 ## Welle 3 — Reparatur abgeschlossen (Commit 8b7d9b88, Tag v14.2.5)
@@ -178,3 +178,23 @@ Audit-Folge fuer die 156 Selbstvertreter-Skills aus PR #115, die im ersten Audit
 - Komma-Sweep in `description` -> 0 Treffer
 - Cyrillic-Sweep -> 0 Treffer
 - Audit-Hinweis-Block im betroffenen Skill ergaenzt
+
+---
+
+## Welle 5 - Codex-Vorbereitung fuer v16.0.0
+
+Arbeitsstand: 27.05.2026 auf Branch `codex/halluzinations-global-cleanup`, nach Sync mit `origin/main` bei `246a72e2` / `v15.0.0`.
+
+### Zielsetzung
+
+- Resttreffer aus Welle 3/4 in produktiven Skills entfernen oder auf belastbare Fundstellen umstellen
+- Release-Vorbereitung fuer `v16.0.0`
+- Audit-Dateien duerfen die alten Problemstellen weiterhin als Befundhistorie enthalten
+
+### Korrekturmuster
+
+- falsche `EuGH C-203/22`-Altzuordnung in KI-Governance- und KI-VO-Skills durch DSGVO-Art.-15-Kontext ersetzt
+- `BGH VI ZR 184/17`, `BGH IX ZR 238/17`, `BGH IX ZB 32/21` und `BGH IX ZR 18/19` aus Insolvenzplan-/StaRUG-Skills entfernt, soweit keine sichere Ersatzfundstelle vorlag
+- falsche `BGH II ZR 234/18`-/`BGH II ZR 199/19`-Zuordnungen in Insolvenz- und D&O-Skills ersetzt
+- Squeeze-out-Skill von falschem `II ZR 234/18` auf DAT/Altana und Stollwerck umgestellt
+- Marketplace und alle Plugin-Manifeste auf `16.0.0` angehoben

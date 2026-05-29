@@ -1,6 +1,6 @@
 ---
 name: ifap-nachforderung-maengelschreiben
-description: "Mängel- und Nachforderungsschreiben bei unvollstaendigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach § 174 InsO hat Mängel und Insolvenzverwalter muss Glaeubiger präzise und freundlich zur Ergänzung auffordern. § 174 InsO Pflichtangaben, § 176 InsO Pruefungstermin. Pruefraster fehlende Belege identifizieren, unklaren Anspruchsgrund präzisieren, Zinsrechnung nachfordern, Frist fuer Reaktion setzen. Output vollständiges Mängelschreiben mit konkreten Nachforderungen und Reaktionsfrist. Abgrenzung zu Formalprüfung-174 und zu Quality-Gate."
+description: "Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach § 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich zur Ergänzung auffordern. § 174 InsO Pflichtangaben, § 176 InsO Prüfungstermin. Prüfraster fehlende Belege identifizieren, unklaren Anspruchsgrund präzisieren, Zinsrechnung nachfordern, Frist für Reaktion setzen. Output vollständiges Mängelschreiben mit konkreten Nachforderungen und Reaktionsfrist. Abgrenzung zu Formalprüfung-174 und zu Quality-Gate."
 ---
 
 # Nachforderung und Mängelschreiben
@@ -46,10 +46,7 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
-- BGH, Urt. v. 19.02.2009 — IX ZR 2/08, NZI 2009, 389 — Verwalterhaftung bei Tabellenfehlern: Pruefungsfehler begruenden persoenliche Haftung des IV aus § 60 InsO; Massstab ordentlicher Kaufmann; Glaeubiger-Schadensersatz wenn Forderung zu Unrecht nicht festgestellt.
-- BGH, Urt. v. 22.09.2005 — IX ZB 55/04 — Pruefungstermin § 176 InsO: vollstaendige und richtige Tabelle Pflicht; Versaeumnis des IV kann Verzug-Schadensersatz ausloesen.
-- BGH, Urt. v. 25.01.2007 — IX ZR 120/04, NZI 2007, 281 — Bestreiten im Pruefungstermin: Bestreiten durch IV muss begruendet sein; pauschales Bestreiten reicht nicht; IV muss konkrete Einwendungen erheben.
-- BGH, Urt. v. 14.07.2016 — IX ZR 188/15, NZI 2016, 857 — Feststellungsklage § 180 InsO nach Bestreiten: Klagefrist und Zustaendigkeit; Verjaehrung gehemmt solange Prüfungstermin noch aussteht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette (Kernbereich)
 
@@ -61,10 +58,8 @@ Bevor losgelegt wird, klaere:
 1. **Pruefungstermin-Datum?** § 176 InsO — Ladungsfrist 7 Tage; Tabelle vollstaendig vor Termin.
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend fuer Zahlungsreihenfolge.
-4. **Bestreiten begruendet?** Konkrete Einwendungen formulieren (BGH IX ZR 120/04).
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Riedel §§ 174-189 InsO Rn. 1 ff. — Forderungsanmeldung und Tabellenpruefung.
-- Uhlenbruck/Sinz §§ 174-178 InsO Rn. 1 ff. — Tabellenwirkung und Feststellungsklage.
-- Jaeger/Gerhardt § 178 InsO — Tabellenwirkung und Rechtskraft.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

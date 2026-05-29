@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-it-recht
-description: "Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Pruefraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h."
+description: "Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h."
 ---
 
 # Mandat-Triage IT-Recht
@@ -162,9 +162,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - Schneider IT-Recht
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Mandatsuebernahme ohne Konflikt-Check — Interessenkonflikt bereits bei Beratung desselben Sachverhalts auf Gegenseite entsteht.
-- EuGH, Urt. v. 07.03.2024 — C-604/22 (IAB Europe), NJW 2024, 1205 Rn. 48: Consent-Management-Betreiber als gemeinsam Verantwortlicher i.S.d. Art. 26 DSGVO; relevant fuer Mandatspruefung IT-Dienstleister.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a BRAO — Anwaltliche Grundpflichten: Interessenkonflikt-Verbot
@@ -173,10 +171,9 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - § 32 BSIG n. F. — NIS-2-Meldepflicht 24 Stunden / 72 Stunden
 - Art. 19 NIS-2-RL (EU 2022/2555) — Haftung Geschaeftsleitungsorgane
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken, Anwaltliches Berufsrecht, 3. Aufl. 2020, § 43a BRAO Rn. 12 ff.: Konflikt-Check als Mandats-Voraussetzung.
-- Schneider, IT-Recht, 5. Aufl. 2021, Kap. 1 Rn. 45 ff.: Mandatseinleitung im IT-Recht.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Besteht ein Interessenkonflikt — wurde dieselbe Partei oder Gegenseite bereits beraten (§ 43a BRAO)?
 2. Liegt ein Cyber-Vorfall oder eine Datenpanne vor — laeuft die 72-Stunden-Frist (Art. 33 DSGVO)?

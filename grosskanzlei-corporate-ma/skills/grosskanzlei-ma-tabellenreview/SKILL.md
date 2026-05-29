@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-tabellenreview
-description: "Freistehender Tabellenreview fuer Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche Zahlen und Inkonsistenzen geprüft werden. SPA Financial Statements, DD-Modelle. Pruefraster Formel-Integritaet prüfen, Dokumenten-Cluster als Zeilen, Workstream-Perspektiven Legal/Tax/Finance als Blaetter, Querverweise prüfen. Output Review-Matrix mit Befunden Ampelstatus und Korrekturbedarf. Abgrenzung zum 3D-Tabellenreview-Datenraum-Skill und zu Datenqualitaet-XAI."
+description: "Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche Zahlen und Inkonsistenzen geprüft werden. SPA Financial Statements, DD-Modelle. Prüfraster Formel-Integritaet prüfen, Dokumenten-Cluster als Zeilen, Workstream-Perspektiven Legal/Tax/Finance als Blaetter, Querverweise prüfen. Output Review-Matrix mit Befunden Ampelstatus und Korrekturbedarf. Abgrenzung zum 3D-Tabellenreview-Datenraum-Skill und zu Datenqualitaet-XAI."
 ---
 
 # Freistehender Tabellenreview
@@ -38,10 +38,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 17/03 | 16.02.2004 | Jahresabschluss mit falschen Zahlen: unrichtige Bilanzierung begründet Haftung des Geschäftsführers; keine Berufung auf Steuerberaterirrtum |
-| OLG Frankfurt | 26 U 35/19 | 10.09.2020 | Zahlen-Widersprüche im Datenraum: Verkäufer haftet für erkennbar inkonsistente Angaben; Fair-Disclosure-Obliegenheit |
-| BGH | II ZR 212/06 | 14.01.2008 | Working Capital im SPA: Berechnung nach vereinbarter Methodik; Abweichung vom Stichtag führt zu Kaufpreisanpassung |
-| OLG München | 23 U 3469/21 | 11.01.2023 | Formelbruch im Excel-Finanzmodell: Käufer kann Kaufpreisminderung verlangen, wenn Fehler für Kaufentscheidung kausal war |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema / Review-Würfel
 
@@ -187,7 +184,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Schadensfall | Ansatz | Hinweis |
 |---|---|---|
-| Kaufpreisanpassung wegen Formelbruch | Wert des Fehlers (z.B. Working Capital-Differenz) | OLG München 23 U 3469/21: Formelbruch-Haftung |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Garantieverletzung wegen fehlender Unterlagen | Differenz tatsächlicher vs. garantierter Wert | SPA Rep & Warranties |
 | Schadensersatz wegen CoC-Verletzung | Vertragsstrafrisiko + Neuverhandlungskosten | Wichtigste CoC-Verträge priorisieren |
 
@@ -208,8 +205,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 16.02.2004, Az. II ZR 17/03 (fehlerhafte Bilanzierung)
-- OLG Frankfurt, Urt. v. 10.09.2020, Az. 26 U 35/19 (Zahlen-Widersprüche im Datenraum)
-- BGH, Urt. v. 14.01.2008, Az. II ZR 212/06 (Working Capital im SPA)
-- OLG München, Urt. v. 11.01.2023, Az. 23 U 3469/21 (Formelbruch Excel)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 242, 249, 252, 256a, 264 HGB; IDW S 1

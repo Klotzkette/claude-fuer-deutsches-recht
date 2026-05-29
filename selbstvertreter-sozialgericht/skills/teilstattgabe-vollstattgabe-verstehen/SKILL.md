@@ -1,6 +1,6 @@
 ---
 name: teilstattgabe-vollstattgabe-verstehen
-description: "Was bedeutet Vollabhilfe Teilabhilfe Zurueckweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen."
+description: "Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen."
 ---
 
 # Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen

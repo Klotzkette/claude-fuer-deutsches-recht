@@ -35,7 +35,7 @@ Alle Quellen wurden zwischen dem 7. und 15. Oktober 2024 abgerufen und sind im v
 
 **Quelle:** Creditreform-Auskunft (kostenpflichtig, abgerufen 09. Oktober 2024 durch Sophie Maurer)
 
-- Bonitätsindex: 242 (Skala 100–600, je niedriger desto besser; Wert 242 = „noch gute Bonität")
+- Bonitätsindex: 242 (Skala 100–600, je niedriger desto besser; Wert 242 = "noch gute Bonität")
 - Umsatz 2022 laut Jahresabschluss: EUR 198,4 Mio.
 - Mitarbeiterzahl: ca. 920 (Stand Bundesanzeiger 2022)
 - Zahlungsverhalten: Überwiegend pünktlich; ein Eintrag über Mahnverfahren aus 2021 (EUR 12.800, erledigt)
@@ -48,15 +48,15 @@ Alle Quellen wurden zwischen dem 7. und 15. Oktober 2024 abgerufen und sind im v
 
 #### Relevante Artikel:
 
-1. **„Augsburger Präzisionstechnik unter Druck"**, Handelsblatt, 14. Februar 2024:  
+1. **"Augsburger Präzisionstechnik unter Druck"**, Handelsblatt, 14. Februar 2024:  
    Bericht über Lieferkettenprobleme bei deutschen Maschinenbauern. Solaris Industries AG wird namentlich erwähnt als betroffenes Unternehmen mit Abhängigkeiten von Halbleiterlieferanten aus Taiwan. Das Management habe laut Artikel eine Dual-Sourcing-Strategie angekündigt, diese sei jedoch noch nicht vollständig implementiert.  
    *Bewertung:* Lieferkettenrisiko relevant für DD-Commercial (Bestandsrisiken, Vertragskonzentration). Management sollte in Präsentation erläutern, wie weit die Dual-Sourcing-Maßnahmen sind.
 
-2. **„Solaris Industries: Expansionspläne in Nordamerika"**, industry-manager.de, 3. April 2024:  
+2. **"Solaris Industries: Expansionspläne in Nordamerika"**, industry-manager.de, 3. April 2024:  
    CEO Friedrich Grünwald kündigt Ausbau der US-Tochter (Solaris Distribution US Inc.) an; Investition in neue Lagerhaltung in Ohio. Investment-Budget: USD 8 Mio.  
    *Bewertung:* Investment muss im Carve-out berücksichtigt werden: Wer trägt die Schulden? Ist die US-Tochter bereits in der Carve-out-Perimeter?
 
-3. **„Exportkontrolle im Maschinenbau: Neue Anforderungen durch EU-Dual-Use-Verordnung"**, Compliance-Magazin, 22. August 2024:  
+3. **"Exportkontrolle im Maschinenbau: Neue Anforderungen durch EU-Dual-Use-Verordnung"**, Compliance-Magazin, 22. August 2024:  
    Allgemeiner Branchenbericht; Solaris Industries AG wird als Beispiel für einen Hersteller antriebstechnischer Produkte mit potenziell Dual-Use-Relevanz genannt, ohne konkrete Vorwürfe.  
    *Bewertung:* Bestätigt Relevanz der Exportkontrollprüfung. Dr. Fuchs (Regulatory) hat bereits Prüfauftrag.
 
@@ -80,12 +80,12 @@ Hauptkunden (aus öffentlichen Geschäftsberichten rekonstruiert): branchentypis
 
 **Quelle:** DPMA-Register (deutsches-patent- und markenamt.de), Espacenet (abgerufen 12. Oktober 2024)
 
-Recherche auf Anmeldernamen „Solaris Industries", „Solaris AG", „Solaris GmbH":
+Recherche auf Anmeldernamen "Solaris Industries", "Solaris AG", "Solaris GmbH":
 - 14 eingetragene deutsche Patente (Klassen F16H, H02K, G05B) — letzte Anmeldung 2023
 - 4 erteilte europäische Patente (EP) mit Benennung DE, FR, IT, GB
 - 2 PCT-Anmeldungen (USA-Phase noch offen)
 - Kein Hinweis auf anhängige Einspruchsverfahren (Stand DPMA-Register 12.10.2024)
-- Markeneintragungen: „PDS-GreenDrive" und „S-Care" als Wortmarken beim DPMA eingetragen
+- Markeneintragungen: "PDS-GreenDrive" und "S-Care" als Wortmarken beim DPMA eingetragen
 
 *Bewertung:* Schutzrechtsportfolio substanziell. Kritischer Punkt: IP-Rechte liegen laut Gesellschaftsstruktur noch bei der Holding (nicht bei der Target). Die IP-Übertragung ist Carve-out-Bedingung vor Closing. IP-DD durch Dr. Brandt muss Abtretungsketten prüfen.
 

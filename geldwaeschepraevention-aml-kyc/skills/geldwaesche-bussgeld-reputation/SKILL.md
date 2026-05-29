@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-bussgeld-reputation
-description: "Strukturierung von Bussgeldriskien Geschaeftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bussgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bussgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Pruefraster Bussgeldrisko Geschaeftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwaesche-behoerdenverfahren und geldwaesche-audit-internal-revision."
+description: "Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bußgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bußgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Prüfraster Bußgeldrisko Geschäftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwäsche-behoerdenverfahren und geldwäsche-audit-internal-revision."
 ---
 
 # Bußgeld, Haftung und Reputation
@@ -12,10 +12,7 @@ description: "Strukturierung von Bussgeldriskien Geschaeftsleiterhaftung und Rep
 4. Gibt es eine externe Kommunikations- oder PR-Strategie fuer den Reputationsschaden?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Persoenliche Haftung der Geschaeftsfuehrer bei wissentlichem Duldung von AML-Kontrollversagen; kein Vertrauensabzug auf Compliance-Abteilung.
-- BVerfG, Beschl. v. 26.03.1987 - 2 BvR 589/79, BVerfGE 75, 329 — Nemo-tenetur-Grundsatz gilt auch in Ordnungswidrigkeitenverfahren wegen GwG-Verstoessen.
-- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Bußgeld nach § 56 GwG muss beguenstigte Transaktionsvorteile abschoepfen; Verwarnung bei geringfuegigen erstmaligen Verstaessen moeglich.
-- OLG Frankfurt, Urt. v. 16.02.2021 - 5 U 35/20, NJW 2021, 1620 — Reputationsschaden durch oeffenliche BaFin-Bußgeldentscheidung begruendet keinen eigenen Schadensersatzanspruch gegen Aufsicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 56 GwG — Bußgeldtatbestaende (bis 5 Mio. EUR oder 10 % des Jahresumsatzes bei Kreditinstituten)
@@ -23,10 +20,9 @@ description: "Strukturierung von Bussgeldriskien Geschaeftsleiterhaftung und Rep
 - § 30 OWiG — Verbandsgeldbusse
 - § 130 OWiG — Aufsichtspflichtverletzung durch Geschaeftsleiter
 
-## Kommentarliteratur
-- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 56 Rn. 1-80 (Bussgeldsystem und Sanktionsrahmen)
-- Gürtler/Seitz OWiG § 130 Rn. 1-60 (Aufsichtspflichtverletzung und Verantwortlichkeit)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill verbindet Recht, Compliance, Kommunikation und Nachbesserung in kritischen AML-Lagen.

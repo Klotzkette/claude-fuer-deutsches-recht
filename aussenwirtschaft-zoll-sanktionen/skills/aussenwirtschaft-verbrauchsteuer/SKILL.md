@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-verbrauchsteuer
-description: "Verbrauchsteuerrecht fuer Energieerzeugnisse Strom Tabak Alkohol Bier Schaumwein und Kaffee. Anwendungsfall Hersteller oder Haendler prueft Steuerlager Steueraussetzungsverfahren oder Entlastungsantrag. Normen EnergieStG StromStG TabakStG BierStG §§ 1-39 Steuerlager EMCS-Verfahren UZK Art. 189 ff. Pruefraster Energieerzeugnisse Strom Tabak Alkohol Steuerlager Steueraussetzung EMCS Entlastung Steuerentstehung. Output Verbrauchsteuer-Pruefprotokoll mit Steuerlagerkonzept EMCS-Begleitung und Entlastungsantrag. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
+description: "Verbrauchsteuerrecht für Energieerzeugnisse Strom Tabak Alkohol Bier Schaumwein und Kaffee. Anwendungsfall Hersteller oder Haendler prüft Steuerlager Steueraussetzungsverfahren oder Entlastungsantrag. Normen EnergieStG StromStG TabakStG BierStG §§ 1-39 Steuerlager EMCS-Verfahren UZK Art. 189 ff. Prüfraster Energieerzeugnisse Strom Tabak Alkohol Steuerlager Steueraussetzung EMCS Entlastung Steuerentstehung. Output Verbrauchsteuer-Prüfprotokoll mit Steuerlagerkonzept EMCS-Begleitung und Entlastungsantrag. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Verbrauchsteuer
@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 05.04.2001 - C-325/99 (Van de Water) — Entstehung der Verbrauchsteuerpflicht bei unregelmaessiger Entnahme aus dem Steueraussetzungsverfahren; schon das Verlassen des zugelassenen Verfahrens loest Steuerpflicht aus.
-- BFH, Urt. v. 11.05.2010 - VII R 36/09, BFHE 230, 186 — Haftung des Lagerhalters fuer Energiesteuerschulden; Sorgfaltspflicht bei Warenannahme und Dokumentation der Steueraussetzung.
-- EuGH, Urt. v. 17.10.2019 - C-579/18 (Amorim) — Zum Verbrauchsteuer-Entstehungstatbestand bei Tabakwaren; unregelmaessige Einfuhr erzeugt Verbrauchsteuer unabhaengig von Zollschuld-Entstehungszeitpunkt.
-- BFH, Urt. v. 20.10.2015 - VII R 32/14, BFHE 252, 229 — Zur Auslegung des Begriffs der "gewerblichen Verwendung" im Energiesteuerrecht; Vergutungsanspruch setzt eindeutige Zweckwidmung voraus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Verbrauchsteuer
 
@@ -76,11 +73,9 @@ Kläre vor der Pruefung:
 - Art. 7, 9, 10 Systemrichtlinie RL 2020/262/EU — Harmonisierte Verbrauchsteuerregeln EU
 - §§ 21-23 UStG i.V.m. Art. 201 UZK — Einfuhrumsatzsteuer-Entstehung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Dorsch, Verbrauchsteuerrecht, Loseblatt — praxisorientiert
-- Moench, Energiesteuer- und Stromsteuerrecht, 2. Aufl.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Verbrauchsteuer-Pruefungsvermerk
 
 **Adressat:** Steuerabteilung / Zollbeauftragter — **Tonfall:** abgabenrechtlich-praezise

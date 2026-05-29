@@ -1,6 +1,6 @@
 ---
 name: formelle-verfassungsmaessigkeit
-description: "Formelle Verfassungsmaessigkeit eines Gesetzes pruefen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Pruefraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Pruefmemo mit Ergebnis. Abgrenzung: nicht fuer materielle Verfassungsmaessigkeit (grundrechtspruefung)."
+description: "Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit Ergebnis. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung)."
 ---
 
 # Formelle Verfassungsmäßigkeit prüfen
@@ -58,7 +58,7 @@ Aus dem **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) folgt:
 
 **Stufenverhältnis:** Je intensiver der Grundrechtseingriff, desto höher die Bestimmtheitsanforderungen. Bei strafrechtlichen Normen verschärft durch Art. 103 Abs. 2 GG (`nullum crimen sine lege`).
 
-**Leitentscheidungen** (Live-Pinpoint einholen): BVerfG zu Vorratsdatenspeicherung (BVerfGE 125, 260), Großer Lauschangriff (BVerfGE 109, 279), BKA-Gesetz (BVerfGE 141, 220).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3 — Zitiergebot (Art. 19 Abs. 1 S. 2 GG)
 
@@ -67,11 +67,11 @@ Aus dem **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) folgt:
 - **Folge bei Verstoß:** Nichtigkeit der Norm.
 - **Reichweite (Auslegung BVerfG):** Zitiergebot gilt **nur** für nachkonstitutionelle, gezielt grundrechtseinschränkende Gesetze. Vorkonstitutionelle Gesetze und solche, die Grundrechte nur ausgestalten (z. B. Eigentumsausgestaltung Art. 14 Abs. 1 S. 2 GG), unterliegen ihm nicht.
 
-**Praktische Anwendung:** Im Eingangsabschnitt des Gesetzes (vor § 1) findet sich häufig die Formulierung „Das Grundrecht auf … (Art. … GG) wird durch dieses Gesetz eingeschränkt."
+**Praktische Anwendung:** Im Eingangsabschnitt des Gesetzes (vor § 1) findet sich häufig die Formulierung "Das Grundrecht auf … (Art. … GG) wird durch dieses Gesetz eingeschränkt."
 
 ### Schritt 4 — Wesentlichkeitstheorie und Parlamentsvorbehalt
 
-**Leitentscheidung:** Kalkar I, BVerfGE 49, 89.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kerngedanke:** Wesentliche Entscheidungen muss der Gesetzgeber selbst treffen; sie dürfen nicht der Exekutive (Verordnungsgeber, Verwaltung) überlassen werden.
 
@@ -87,30 +87,25 @@ Aus dem **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) folgt:
 
 ### Schritt 5 — Allgemeinheit des Gesetzes (Art. 19 Abs. 1 S. 1 GG)
 
-- **Einzelfallgesetz-Verbot:** Ein Grundrecht einschränkendes Gesetz muss „allgemein und nicht nur für den Einzelfall" gelten.
+- **Einzelfallgesetz-Verbot:** Ein Grundrecht einschränkendes Gesetz muss "allgemein und nicht nur für den Einzelfall" gelten.
 - **Folge bei Verstoß:** Verfassungswidrigkeit.
 
 ### Schritt 6 — Wesensgehaltsgarantie (Art. 19 Abs. 2 GG)
 
 - In keinem Fall darf ein Grundrecht in seinem **Wesensgehalt** angetastet werden.
-- Diese „Schranken-Schranke" bildet die absolute Untergrenze jeder Grundrechtseinschränkung.
+- Diese "Schranken-Schranke" bildet die absolute Untergrenze jeder Grundrechtseinschränkung.
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Urt. v. 18.07.2012 — 1 BvL 10/10, BVerfGE 132, 134 Rn. 40 — formelle Verfassungsmaessigkeit erfordert Pruefung des Gesetzgebungsverfahrens; Fehler im Verfahren fuehren nur zur Nichtigkeit wenn wesentlich fuer das Ergebnis; formelle Fehler heilbar wenn keine materielle Unterscheidlichkeit
-- BVerfG, Beschl. v. 08.12.2009 — 2 BvR 758/07, BVerfGE 125, 175 Rn. 60 — Zitiergebot Art. 19 Abs. 1 Satz 2 GG; Norm die Grundrecht einschraenkt muss Grundrecht ausdruecklich nennen; Verstoss fuehrt zur Nichtigkeit der einschraenkenden Norm
-- BVerfG, Urt. v. 07.05.2014 — 2 BvR 1641/11, BVerfGE 136, 194 Rn. 70 — Wesentlichkeitstheorie (BVerfGE 49 Kalkar) bei formeller Pruefung; alle wesentlichen Grundrechtsfragen muss Parlament selbst entscheiden; unzulaessige Delegation auf Verordnungsgeber verletzt Art. 20 Abs. 3 GG
-- BVerfG, Urt. v. 15.12.2020 — 2 BvF 4/17, NJW 2021, 625 Rn. 55 — Art. 80 Abs. 1 GG Verordnungsermaechtigung; zu unbestimmte Ermaechtigung fuehrt zur Nichtigkeit der darauf beruhenden Verordnung; Grundsatz der Normenklarheit gilt fuer Ermaechtigungsgrundlagen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 76-78 GG (Gesetzgebungsverfahren) — Art. 79 GG (Verfassungsaenderung) — Art. 19 Abs. 1 Satz 2 GG (Zitiergebot) — Art. 80 GG (Verordnungsermaechtigung, formelle Anforderungen) — Art. 82 GG (Ausfertigung und Verkuendung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 76 Rn. 1 ff. (Gesetzgebungsverfahren) und Art. 19 Abs. 1 Rn. 50 ff. (Zitiergebot)
-- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 19 Rn. 5 ff. (Zitiergebot) und Art. 20 Rn. 75 ff. (Wesentlichkeitstheorie)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Format
 
 ```
@@ -132,7 +127,7 @@ Prüfungsgegenstand: <Gesetz / Norm>
 2. Form
    - Bestimmtheitsgebot: ___
    - Zitiergebot (Art. 19 Abs. 1 S. 2 GG): ___
-   - Wesentlichkeit (Kalkar BVerfGE 49, 89 Rn. ___): ___
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - Einzelfallverbot (Art. 19 Abs. 1 S. 1 GG): ___
    - Wesensgehalt (Art. 19 Abs. 2 GG): ___
 

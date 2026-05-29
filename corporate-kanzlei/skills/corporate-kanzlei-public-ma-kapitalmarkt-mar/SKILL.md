@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-public-ma-kapitalmarkt-mar
-description: "Public M&A und Kapitalmarkt: Begleitet Oeffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis."
+description: "Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis."
 ---
 
 # Public M&A und Kapitalmarkt / MAR
@@ -22,24 +22,19 @@ description: "Public M&A und Kapitalmarkt: Begleitet Oeffentliche Angebote (Wpue
 - **§§ 29-39 WpUeG** — Pflichtangebot ab 30 % Stimmrechtsanteil; Mindestpreisregel; 3 Monate Referenzperiode
 - **§§ 39a-c WpUeG** — Squeeze-Out nach Uebernahme; Ausschluss Minderheit; Gerichtliches Spruchverfahren
 - **§§ 327a-f AktG** — aktienrechtlicher Squeeze-Out; Hauptgesellschafter 95 %; angemessene Barabfindung; Spruchverfahren
-- **§ 38 WpHG** — Stimmrechtsmitteilungen; Schwellenwerte 5, 10, 15, 20, 25, 30, 50, 75 %
-- **Art. 17 MAR / § 15 WpHG** — Ad-hoc-Publizitat; unverzueglich; Aufschub moeglich (Insider-Liste)
+- **§§ 33 ff. WpHG** — Stimmrechtsmitteilungen; Schwellenwerte 5, 10, 15, 20, 25, 30, 50, 75 %
+- **Art. 17 MAR** — Ad-hoc-Publizität; unverzüglich; Aufschub möglich (Insider-Liste), nationale Sanktionen nach WpHG
 - **Art. 14-16 MAR** — Insiderhandelsverbot; Marktmanipulation
 - **§ 39 BoeRsG / DelistingVO** — Delisting; Pflichtangebot und Mindestpreis auch beim Rueckzug
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.11.2014 - II ZB 8/13 (BGHZ 203, 185) — Squeeze-Out-Abfindung: Barabfindung muss voellem wirtschaftlichem Wert der Aktie entsprechen; Boersenkurs als Untergrenze; DCF-Methode zulaessig
-- BGH, Urt. v. 12.03.2001 - II ZR 274/99, BGHZ 147, 108 — Mannesmann/Vodafone-Rspr.: Vorstandspflichten bei feindlicher Uebernahme; keine Abwehrmassnahmen auf Kosten der Gesellschaft
-- BGH, Urt. v. 25.11.2002 - II ZR 133/01, BGHZ 153, 32 — ARAG/Garmenbeck: Aufsichtsrat muss Schadensersatz gegen Vorstand verfolgen; Business Judgment Rule bei Uebernahme-Abwehr
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Bescheid vom 27.01.2023 (veroeffentl. BaFin-Jahresbericht 2023) — Pflichtangebot: Erwerb von Stimmrechten durch Konsortium als gemeinsam handelnde Person iSd § 2 V WpUeG; Zusammenrechnung der Anteile
 
-## Kommentarliteratur
+## Quellenregel
 
-- Assmann/Pötzsch/Schneider, WpUeG (4. Aufl. 2022) — Standardkommentar
-- Hopt/Wiedemann, AktG § 327a Rn. 1 ff. — Squeeze-Out
-- Hueffer/Koch, AktG (16. Aufl. 2023) § 327a — Squeeze-Out Grundlagen; § 93 Vorstandspflichten bei Uebernahme
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prozessablauf: Oeffentliches Uebernahmeangebot (WpUeG)
 
 | Phase | Inhalt | Norm | Frist |
@@ -146,12 +141,12 @@ weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird fuer [QUARTAL] erwartet
 - Squeeze-Out-Abfindung unangemessen → Spruchverfahren; Nachbesserungspflicht
 - Voranmeldung vergessen (§ 10 WpUeG) → BaFin-Bussgeld; Verfahren unterbrochen
 
-## Vertiefung: Mannesmann/Vodafone-Prazedenz
+## Vertiefung: Delisting-Linie Macrotron/Frosta
 
-Der BGH II ZR 133/01 (Mannesmann/Vodafone) stellte fest, dass der Aufsichtsrat keine Zuwendungen (hier: 111 Mio. DM) an Vorstandsmitglieder vergeben darf, die nicht im Unternehmensinteresse stehen. Diese Grundentscheidung praegt seither die Corporate Governance bei Uebernahmesituationen: Abwehrmassnahmen sind nur erlaubt wenn sie im Unternehmensinteresse und durch BJR gedeckt sind.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen
 
 - §§ 1-68 WpUeG; §§ 327a-f AktG; §§ 38, 48 WpHG; Art. 17, 18 MAR; SpruchG
-- BGH II ZB 8/13 (Squeeze-Out-Abfindung); BGH II ZR 274/99 (Mannesmann/Vodafone); BGH II ZR 133/01 (ARAG/Garmenbeck)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Assmann/Poetzsch/Schneider, WpUeG (4. Aufl. 2022); Hueffer/Koch AktG § 327a

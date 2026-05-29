@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Kanzlei oder Mandant muss entscheiden ob Kuendigung Maklervertrag oder Buergschaft per Papier oder elektronisch uebermittelt werden soll. Prozessablauf Formwahl praktisch. Pruefraster: wann Originalunterschrift Papier per Boten wann qES-Versand mit Empfangsbestaetigung wann Textform per E-Mail mit Quittung wann Einschreiben. Output: konkrete Prozessablaeufe fuer Kuendigung Makler Buergschaft Gewerberaummietvertrag. Abgrenzung zu dokumentations-und-beweisarchitektur (Archivierung) und mandantenkorrespondenz-form-und-zugang-templates."
+description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch
@@ -9,7 +9,7 @@ description: "Kanzlei oder Mandant muss entscheiden ob Kuendigung Maklervertrag 
 
 1. **Erklärungstyp:** Kündigung, Vertragsschluss, Maklerwiderruf, Bürgschaft oder sonstige Erklärung mit Formerfordernis?
 2. **Formerfordernis:** Schriftform (§ 126 BGB), Textform (§ 126b BGB) oder elektronische Form mit qES (§ 126a BGB)?
-3. **Empfänger:** Ist der Empfänger für den elektronischen Empfang eingerichtet (qES-fähiges Postfach, E-Mail mit Empfangsbekenntnis)?
+3. **Empfänger und Weg:** Direktzustellung, E-Mail, beA/EGVP, gerichtliche Zustellung oder Mitteilung?
 4. **Zugangsrisiko:** Welcher Versandweg bietet den sichersten Zugangsbeweis (Bote, Einschreiben/Rückschein, qES-Protokoll)?
 5. **Dringlichkeit:** Gilt eine Frist, bei der der Zugang beweissicher vor Fristablauf erfolgen muss?
 
@@ -19,25 +19,28 @@ description: "Kanzlei oder Mandant muss entscheiden ob Kuendigung Maklervertrag 
 - § 126b BGB (Textform — dauerhafter Datenträger)
 - § 127 BGB (Vertragliche Formvorschriften)
 - § 130 BGB (Zugang empfangsbeduerftiger Willenserklärungen)
+- § 130a ZPO (elektronisches Dokument im Zivilprozess)
+- § 130e ZPO (Formfiktion bei elektronischen vorbereitenden Schriftsätzen)
+- § 46h ArbGG (arbeitsgerichtliche Formfiktion)
 - § 371a ZPO (Beweiskraft elektronischer Dokumente mit qES)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 06.04.2022 – VIII ZR 159/23, NJW 2022, 1654 — Eine per qES signierte Kündigung gilt als zugegangen, wenn sie im Machtbereich des Empfängers gespeichert ist; die bloss mögliche Kenntnisnahme genügt.
-2. BGH, Urt. v. 22.04.2015 – XII ZR 55/14, NJW 2015, 2034 — Bei vertraglich vereinbarter Schriftform genügt im Zweifel Textform; ein ausdrücklicher Ausschluss der elektronischen Form muss eindeutig vereinbart sein.
-3. BGH, Urt. v. 04.06.2014 – VIII ZR 289/13, NJW 2014, 2480 — Bei Einschreiben mit Rückschein spricht ein Anscheinsbeweis für den Zugang, wenn der Rückschein rückläuft; fehlt der Rückschein, ist der Zugang einzeln zu beweisen.
-4. BAG, Urt. v. 16.09.2021 – 2 AZR 781/20, NJW 2021, 3545 — Papierform bleibt für Beendigungserklärungen des Arbeitsverhältnisses zwingend; digitale Übermittlungswege (WhatsApp, E-Mail, PDF) erfüllen § 623 BGB nicht.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 126 Rn. 1 ff. und § 130 Rn. 1 ff.
-- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 371a Rn. 1 ff. (qES-Beweiskraft).
-- Ernst in MuKo-BGB, 9. Aufl. 2023, § 126a Rn. 1 ff. (Elektronische Form).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - §§ 126-126b BGB — Formvorschriften
 - § 130 BGB — Zugang
-- BGH VIII ZR 159/23 — qES-Zugang
-- BGH I ZR 202/25 — Textform Maklervertrag
+- §§ 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
+- § 46h ArbGG — arbeitsgerichtliche Formfiktion
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -103,6 +106,36 @@ Schritt 5: qES-Validierungsprotokoll erstellen
   → Validierungsbericht (validator.bund.de oder eIDAS-konformes Tool) in Akte
 ```
 
+### Prozess B2 — beA-Schriftsatz mit Formfiktion
+
+```
+Schritt 1: Anwendungsbereich klären
+  → Zivilprozess: § 130e ZPO
+  → Arbeitsgericht: § 46h ArbGG
+  → andere Prozessordnung: ausdrückliche Grundlage suchen
+
+Schritt 2: Erklärung im Schriftsatz formulieren
+  → Willenserklärung klar und unübersehbar aufnehmen
+  → nicht nur Tatsachenvortrag oder Rechtsansicht
+  → Erklärungsträger und Vertretung offenlegen
+  → Vollmacht und § 174 BGB gesondert absichern
+
+Schritt 3: elektronisch einreichen
+  → qES oder einfache Signatur plus sicherer Übermittlungsweg
+  → bei beA: Versandjournal und Prüfprotokoll sichern
+  → Schriftsatz als vorbereitenden Schriftsatz einordnen
+
+Schritt 4: Zustellung oder Mitteilung nachweisen
+  → gerichtliche Zustellung, eEB oder Mitteilung dokumentieren
+  → Datum und Empfänger eindeutig in der Akte erfassen
+  → bei Alt-Fällen vor 17.07.2024 nicht rückwirkend mit § 130e arbeiten
+
+Schritt 5: Ergebnis trennen
+  → prozessual ordnungsgemäß eingereicht
+  → materielle Form direkt durch qES oder fiktiv durch § 130e/§ 46h
+  → Zugang und Fristbeginn dokumentiert
+```
+
 ### Prozess C — Textform per E-Mail (§ 126b BGB)
 
 ```
@@ -153,12 +186,12 @@ Schritt 4: Risikobewertung
 | Rechtsgeschäft | Zwingend | Empfohlen | Elektronisch möglich? |
 |---------------|----------|-----------|----------------------|
 | Grundstückskauf | Notar | Notar | Nein |
-| Wohnraumkündigung | Schriftform | Papier + Bote | qES möglich (BGH VIII ZR 159/23) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Gewerbemietvertrag >1 Jahr | Schriftform | Papier + Urkundeneinheit | qES möglich |
 | Maklervertrag Wohnraum | Textform | E-Mail | Ja |
-| Bürgschaft | Schriftform | Papier + Unterschrift | qES str. |
-| Arbeitsbefristung | Schriftform | Papier vor Arbeitsbeginn | qES str. |
-| Kündigung Arbeitsvertrag | Schriftform | Papier | qES str. |
+| Bürgschaft | Schriftform | Papier + Unterschrift | qES nur nach Spezialprüfung |
+| Arbeitsbefristung | Schriftform | Papier vor Arbeitsbeginn | qES möglich, aber technisch streng |
+| Kündigung Arbeitsvertrag | Schriftform | Papier | direkt elektronisch nein; § 46h ArbGG als Prozesspfad prüfen |
 | Mieterhöhung | Textform | E-Mail | Ja |
 
 ### Musterschreiben Boten-Quittung
@@ -169,7 +202,7 @@ Empfangsquittung
 Hiermit bestätige ich, [Name Empfänger], heute am [Datum] um [Uhrzeit] Uhr
 von [Name Überbringer] folgendes Dokument erhalten zu haben:
 
-[Bezeichnung des Dokuments, z. B. „Kündigung des Mietverhältnisses vom [Datum]"]
+[Bezeichnung des Dokuments, z. B. "Kündigung des Mietverhältnisses vom [Datum]"]
 
 [Unterschrift Empfänger]               [Unterschrift Überbringer]
 [Datum]
@@ -179,6 +212,8 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 
 - **qES per E-Mail und Spam**: Das qES-Dokument landet im Spam-Ordner des Empfängers — technisch zugegangen, aber Nachweis des Zugangs schwierig. Eingangsbestätigung ist unverzichtbar.
 - **Papierausdruck des qES-Dokuments**: Wenn der Empfänger das qES-PDF ausdruckt, verliert die Signatur ihre Prüfbarkeit — das ist sein Problem, nicht das des Absenders. Aber: Beweislast für den Zugang trägt der Erklärende.
+- **beA mit einfacher Signatur**: Prozessual kann das genügen; materiell trägt es nur über eine gesetzliche Formfiktion wie § 130e ZPO oder § 46h ArbGG.
+- **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach § 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
 - **WhatsApp-Geräteaustausch**: Nach Gerätewechsel können WhatsApp-Nachrichten verloren gehen, wenn kein Backup aktiviert war. Für Beweiszwecke: Screenshots und Chat-Export sofort nach der Erklärung sichern.
 
 ## Querverweise

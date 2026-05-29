@@ -1,5 +1,14 @@
 # Testakte: Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa` (diese Akte) | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 Fiktive, realistische Testakte für die **Insolvenzplan- und StaRUG-Planwerkstatt** (`insolvenzplan-starug-planwerkstatt`). Die Schuldnerin, die Metallbau Hansa GmbH aus Hamburg-Billbrook, ist ein mittelständischer Stahlbaudienstleister mit 86 Beschäftigten, der nach zwei Verlustprojekten und einer ausgeschöpften Bankenlinie in eine Liquiditäts- und Ertragskrise geraten ist. Die Akte demonstriert alle wesentlichen Schritte eines Insolvenzplan- oder StaRUG-Verfahrens: Krisendiagnose, Gläubigerstruktur, Vergleichsrechnung, Gruppen-/Klassenbildung, Investor-Einbindung, gestaltender und darstellender Teil, Stimmrechtssimulation, Cram-Down-Vorbereitung und Planvollzug.
 
 ---

@@ -1,6 +1,6 @@
 ---
 name: zvg-bestellung-beschlagnahme
-description: "Prueft Bestellungsbeschluss und Beschlagnahme am Anfang einer Zwangsverwaltung nach §§ 146-149 ZVG. Anwendungsfall Anordnungsbeschluss des Vollstreckungsgerichts liegt vor und Bestellung muss rechtlich geprueft werden. Normen § 146 ZVG Anordnung § 148 ZVG Beschlagnahme § 149 ZVG Wirkung Umfang. Pruefraster Beschluss Bestallung Objekt Schuldner Glaeubiger Rang Umfang Weisungen des Gerichts. Output Pruefliste Beschluss mit Vollstaendigkeitsvermerk und naechsten Schritten fuer Besitzuebernahme. Abgrenzung zu zvg-besitzuebernahme und zvg-aktenanlage-objektcockpit."
+description: "Prüft Bestellungsbeschluss und Beschlagnahme am Anfang einer Zwangsverwaltung nach §§ 146-149 ZVG. Anwendungsfall Anordnungsbeschluss des Vollstreckungsgerichts liegt vor und Bestellung muss rechtlich geprüft werden. Normen § 146 ZVG Anordnung § 148 ZVG Beschlagnahme § 149 ZVG Wirkung Umfang. Prüfraster Beschluss Bestallung Objekt Schuldner Gläubiger Rang Umfang Weisungen des Gerichts. Output Prüfliste Beschluss mit Vollständigkeitsvermerk und naechsten Schritten für Besitzuebernahme. Abgrenzung zu zvg-besitzuebernahme und zvg-aktenanlage-objektcockpit."
 ---
 
 # Bestellung und Beschlagnahme
@@ -60,19 +60,15 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 02.12.2010 - IX ZB 120/09, NZI 2011, 108 Rn. 12 — Die Beschlagnahme des Grundstücks wird mit Zustellung des Anordnungsbeschlusses an den Schuldner wirksam; ab diesem Zeitpunkt sind Verfügungen des Schuldners über das Grundstück und dessen Früchte dem Gläubiger gegenüber unwirksam.
-- BGH, Beschl. v. 17.07.2003 - IX ZB 525/02, NJW 2003, 3347 — Mieten aus dem Grundstück fallen mit Beschlagnahme unter die Verwaltungsmasse; Zahlungen des Mieters an den Schuldner nach Beschlagnahme haben schuldbefreiende Wirkung nur wenn der Mieter keine Kenntnis von der Beschlagnahme hatte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Bestellung/Beschlagnahme
 
 § 146 ZVG (Anordnung Zwangsverwaltung) → § 147 ZVG (Beschlagnahme) → § 148 ZVG (Wirkung Beschlagnahme) → § 150 ZVG (Besitzeinweisung) → § 20 ZVG (Wirkung auf Verfügungen) → § 23 ZVG (Beschlagnahme Früchte) → § 57 ZVG (Mieterschutz bei Beschlagnahme)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., §§ 146-150 Rn. 1-50 (Anordnung und Beschlagnahme)
-- Böttcher ZVG 6. Aufl., § 147 Rn. 5-25 (Beschlagnahmewirkung)
-- Dassler/Schiffhauer/Hintzen/Engels ZVG 15. Aufl., § 148 Rn. 10-40 (Umfang Beschlagnahme)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Bestellung/Beschlagnahme
 
 1. Datum des Zustellungsbeschlusses und Datum der Zustellung an Schuldner? (Beschlagnahme ab Zustellung)

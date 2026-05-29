@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-billing-narratives
-description: "Big-Law Billing Narratives und Abrechnung fuer M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Pruefraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffaehige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD fuer freistehende Abrechnung."
+description: "Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Prüfraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffähige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD für freistehende Abrechnung."
 ---
 
 # Big-Law Billing Narratives (Corporate M&A)
@@ -19,20 +19,13 @@ Vor der Erstellung von Billing Narratives klaeren:
 
 ## Zentrale Normen
 
-§ 3a RVG (Stundenhonorar-Vereinbarung; Formerfordernis Textform; Verbraucherschutz) — § 49b BRAO (Vergaetungsvereinbarung; Verbot unzulaessiger Erfolgshonorare) — § 4a RVG (Erfolgshonorar; Zulassungsvoraussetzungen) — § 10 UStG (Umsatzsteuerbarkeit; Leistungszeitpunkt) — §§ 14, 33 UStG (Rechnungspflichtangaben) — § 146 AO, §§ 238 ff. HGB (GoBD: Buchfuehrungspflicht; Aufbewahrungspflicht 10 Jahre) — § 50 BRAO (Handakten; Aufbewahrungspflicht 5 Jahre) — Art. 3 RL 2014/55/EU (E-Rechnungspflicht oeffentliche Auftraggeber)
-
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 05.06.2014 – IX ZR 137/12, NJW 2014, 2653 Rn. 18 — Anwaltliche Honorarvereinbarung nach § 3a RVG: Textformerfordernis zwingend; muendliche Abrede genuegt auch bei Kaufleuten nicht; Vereinbarung ist bei Formverstos nichtig, Anwalt kann nur RVG-Gebuehren verlangen.
-- BGH, Urt. v. 23.10.2003 – IX ZR 27/02, NJW 2004, 1169 Rn. 12 — Erfolgshonorar unzulaessig bei unklarer Vereinbarung; § 49b Abs. 2 BRAO: Erfolgshonorar nur bei Einzel-/Verbraucherfall nach § 4a RVG zulaessig.
-- BFH, Urt. v. 22.04.2015 – XI R 10/14, BStBl. II 2015, 847 — Rechnungspflichtangaben nach § 14 UStG: Bei fehlerhafter Rechnung kein Vorsteuerabzug fuer Mandant; Kanzlei haftet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Mayer, in: Gerold/Schmidt, RVG, 26. Aufl. 2023, § 3a Rn. 5 ff. (Stundenhonorar; Formerfordernis; Wirksamkeitsvoraussetzungen).
-- Hartung, in: Hartung/Scharmer, BRAO, 7. Aufl. 2024, § 49b Rn. 15 ff. (Verguetungsvereinbarung; Erfolgshonorar; Verbote).
-- Sterzinger, in: Tipke/Kruse, AO/FGO, § 146 AO Rn. 5 ff. (GoBD; Buchfuehrungspflicht bei Kanzleien).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Billing-Narrative-Struktur fuer M&A-Deals
 
 ### Time-Entry-Kategorien
@@ -74,7 +67,6 @@ Verhandlungssitzung [DATUM] mit Gegenseite.
 
 ## Schritt-fuer-Schritt-Workflow
 
-
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Time Entries importieren:** Alle Zeiteintragungen fuer den Abrechnungszeitraum nach Phase und Workstream sortieren.
@@ -98,7 +90,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mehrteiliges Projekt Abrechnung in Phasen | Phasen-Narrative separat; Gesamtnachweis am Ende |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template
 
@@ -162,7 +153,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Rote Schwellen
 
 - **Honorarvereinbarung § 3a RVG muendlich oder fehlend** — Formverstos; Anwalt kann nur RVG-Pflichtgebuehren verlangen; Vereinbarung unverzueglich schriftlich nachholen.
@@ -198,7 +188,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - § 4a RVG (Erfolgshonorar)
 - § 14 UStG (Rechnungspflichtangaben)
 - § 146 AO / §§ 238 ff. HGB (GoBD; Buchfuehrungspflicht)
-- BGH: `BGH, Urt. v. 05.06.2014 – IX ZR 137/12, NJW 2014, 2653 Rn. 18`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mayer, in: Gerold/Schmidt, RVG, 26. Aufl. 2023, § 3a Rn. 5 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
@@ -206,5 +196,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
-- BGH IX ZR 70/09 (behauptet Urt. v. 30.09.2010, NJW 2011 63): Auf dejure.org nicht gefunden (weder IX ZR 70/09 noch ein BGH-Urteil dieses Datums mit diesem AZ). Laut Bundle-Hinweis existiert ein II ZR 70/09 (10.05.2010, GmbH-Recht, falscher Senat). Eintrag geloescht.
-- Art. 3 RL 2014/55/EU (Normenreferenz): Korrekte Gesetzesangabe, kein Gerichtsurteil; verbleibt unveraendert im Normen-Abschnitt.

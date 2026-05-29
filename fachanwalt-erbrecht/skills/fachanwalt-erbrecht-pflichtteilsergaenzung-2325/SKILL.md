@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-pflichtteilsergaenzung-2325
-description: "Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Pruefraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht fuer einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung)."
+description: "Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung)."
 ---
 
 # Pflichtteilsergänzungsanspruch § 2325 BGB
@@ -33,7 +33,7 @@ Pflichtteilsberechtigter erhaelt ergänzenden Pflichtteil aus Schenkungen, die E
 
 ### Bei Niessbrauch / Wohnrecht
 
-- Schenkungs-Frist beginnt **erst mit Erlöschen** des Vorbehaltsrechts (BGH-Linie BGH IV ZR 132/12, IV ZR 1/00)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Praktisch: Schenkung mit Wohnrecht läuft erst nach Tod des Wohnrecht-Inhabers an
 
 ## 3) Berechnung
@@ -56,7 +56,7 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 - Schenkungs-Wert: **niedrigster** der beiden:
   - Wert zum Schenkungs-Zeitpunkt (mit Indexierung)
   - Wert zum Erbfalls-Zeitpunkt
-- BGH IVa ZR 85/88 zur korrekten Berechnung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Beispiel
 
@@ -117,10 +117,7 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 
 ## 9) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.04.2013 — IV ZR 132/12, NJW 2013, 1950 Rn. 16 — Wohnrecht als Nutzungsvorbehalt: 10-Jahres-Frist beginnt nicht vor Erlöschen des Wohnrechts; Schenkung erst mit Wegfall der Gegenleistung vollzogen.
-- BGH, Urt. v. 29.04.2015 — IV ZR 138/14, NJW 2015, 2185 Rn. 22 — Niessbrauchsvorbehalt: 10-Jahres-Frist läuft erst ab dem Tag, an dem der Niessvorbehalt tatsächlich erlöscht (Tod oder Wegfall des Niessbrauchs); Vertragsdatum irrelevant.
-- BGH, Urt. v. 17.04.1991 — IVa ZR 85/88, BGHZ 114, 272, Rn. 18 — Niederstwertprinzip für nicht verbrauchbare Sachen: Ansatz des geringeren Wertes aus bereinigtem Schenkungswert und aktuellem Verkehrswert; verhindert inflationsbedingten Ausgleich zulasten des Beschenkten.
-- BGH, Urt. v. 23.11.2016 — IV ZR 132/15, NJW 2017, 556 Rn. 14 — Schenkung an Ehegatten: 10-Jahres-Frist beginnt fruhestens mit Auflösung der Ehe, nicht mit dem Schenkungsdatum; gilt auch für eingetragene Lebenspartnerschaften.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

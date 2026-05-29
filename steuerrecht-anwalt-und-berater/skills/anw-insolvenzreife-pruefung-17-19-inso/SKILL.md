@@ -1,6 +1,6 @@
 ---
 name: anw-insolvenzreife-pruefung-17-19-inso
-description: "Anwaltliches Pruefgutachten zur Insolvenzreife einer GmbH oder UG aus Steueranwalts-Sicht. Anwendungsfall GF einer Krisengesellschaft mit Steuerrueckstaenden kommt zum Anwalt und Insolvenzreife muss rechtssicher geprueft werden vor Belehrung ueber Antragspflicht. Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Schema drei Wochen BGH IX ZR 123/04. Ueberschuldung § 19 InsO zweistufig IDW S 11 Fortbestehensprognose 24 Monate SanInsKG. Steuerspezifisch Steuerschulden Lohnsteuer Umsatzsteuer als Passiva I AdV § 361 AO Stundung § 222 AO beeinflussen Faelligkeit. Output Pruefgutachten Antragspflicht-Bewertung Uebergang zu anw-haftungswarn-15a-inso-mandant."
+description: "Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
@@ -53,13 +53,7 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH IX ZR 123/04 | IX ZR 123/04 | 24.05.2005 | Zahlungsunfähigkeit: 10-Prozent-Schwelle; Liquiditätslücke ≥ 10 % und innerhalb von 3 Wochen nicht beseitigbar (BGHZ 163, 134) |
-| BGH IX ZR 123/04 / Zahlungseinstellung | IX ZR 123/04 | 24.05.2005 | Zahlungseinstellung § 17 Abs. 2 S. 2 InsO; auch ein einzelner gewichtiger Indizfall genügt; SV-Forderungen besonders gewichtig |
-| BGH II ZR 233/18 | II ZR 233/18 | 19.11.2019 | Fortbestehensprognose: tragfähiges Unternehmenskonzept plus Finanzplan; überwiegende Wahrscheinlichkeit |
-| BGH II ZR 88/16 | II ZR 88/16 | 19.12.2017 | Passiva II verzahnt mit Liquiditätsprognose; Abgrenzung Fortführungs-/Liquidationswerte |
-| BGH II ZR 298/11 | II ZR 298/11 | 09.10.2012 | Insolvenzrechtliche vs. handelsbilanzielle Überschuldung; Fortführungswerte bei positiver Prognose |
-| BFH VII R 24/15 | VII R 24/15 | 14.06.2016 | Haftung GF § 69 AO für Lohnsteuer in der Krise; Grundsatz anteiliger Tilgung |
-| BGH IX ZR 207/18 | IX ZR 207/18 | 14.05.2020 | Anfechtung von Steuerzahlungen § 130 Abs. 1 InsO bei Kenntnis der Zahlungsunfähigkeit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Insolvenzreife
 
@@ -109,11 +103,10 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 
 | Gegenargument des GF | Erwiderung |
 |---|---|
-| "AdV § 361 AO schiebt die Forderung heraus" | AdV hemmt Vollziehung, nicht Fälligkeit; Forderung bleibt Passiva I; BGH II ZR 298/11 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Steuerberater hat noch nichts gesagt" | § 102 StaRUG-Pflicht des StB trifft ihn, nicht den GF; GF muss eigenständig prüfen |
 | "Rangrücktritt des Gesellschafters liegt vor" | Qualifizierter Rangrücktritt nach § 39 Abs. 2 InsO erfordert: Verzicht auf Rückzahlung bis Beseitigung der Krise und nur aus freiem Vermögen; einfacher Rangrücktritt genügt nicht |
-| "Zahlungsunfähigkeit liegt nicht vor — wir zahlen die meisten Rechnungen noch" | BGH IX ZR 123/04: einzelne gewichtige Forderung (SV) reicht für Zahlungseinstellung; nicht 100 % Zahlungseinstellung nötig |
-| "Fortbestehensprognose ist positiv laut internem Plan" | BGH II ZR 233/18: tragfähiges Unternehmenskonzept mit integrierter Planung erforderlich; rein intern erstellte Planung ohne IDW S 6-Struktur genügt gerichtlich nicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Es gibt noch Stille Reserven" | Stille Reserven sind im Überschuldungsstatus zu berücksichtigen, aber konkret zu belegen; bloße Behauptung genügt nicht |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -296,7 +289,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Anwaltliche Beratungsgebühr | RVG § 34 i.V.m. § 13 für Beratungsmandat; nach Gegenstandswert und Stundensatz | Ausgehend von Schadensvolumen oder Stundensatz vereinbaren |
 | Strafverteidigung bei § 15a Abs. 4 InsO | RVG § 14; gesonderte Vergütungsvereinbarung empfohlen | Strafrahmen bis 3 Jahre; Gegenstandswert hoch |
 | Insolvenzantrag durch beauftragten FA-InsR | Gerichtskostenvorschuss InsO | Muss vom GF als natürliche Person gestellt werden |
-| Steuerberater-Haftung bei Schweigen | Schadensersatz BGH IX ZR 285/14 | Verschleppungsschaden; Höhe nach Insolvenzmasse |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Empfehlung
 
@@ -304,7 +297,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | § 17 InsO eindeutig + keine Sanierungsperspektive | Sofortiger Eigenantrag beim Insolvenzgericht; FA InsR sofort mandatieren |
 | § 18 InsO drohende ZU, noch nicht § 17 | Schutzschirmverfahren § 270b InsO oder StaRUG-Restrukturierung erwägen |
-| AdV läuft, GF hofft auf Erfolg im Einspruch | Falsche Beruhigung: AdV lässt Passiva I bestehen; BGH II ZR 298/11 erläutern |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Gesellschafterdarlehen ohne Rangrücktritt | Umgehend qualifizierten Rangrücktritt § 39 Abs. 2 InsO vereinbaren lassen |
 | SV-Rückstände über 2 Monate | § 266a StGB sofort erläutern; GF persönlich haftend und strafbar |
 
@@ -322,17 +315,12 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - EStG § 41a
 - SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
 - SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.)
-- BGH IX ZR 123/04 (10-%-Schwelle, Zahlungsunfähigkeit, BGHZ 163, 134)
-- BGH IX ZR 123/04 (Zahlungseinstellung, § 17 Abs. 2 S. 2 InsO)
-- BGH II ZR 233/18 (Fortbestehensprognose)
-- BGH II ZR 298/11 (insolvenzrechtliche Überschuldung)
-- BFH VII R 24/15 (GF-Haftung § 69 AO)
-- BGH IX ZR 207/18 (Anfechtung Steuerzahlungen)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 (Insolvenzeröffnungsgründe)
 - IDW S 6 (Sanierungskonzept)
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BGH IX ZB 50/03 (WRONG_TOPIC: echtes Thema Vergütung vorläufiger Insolvenzverwalter InsVV, nicht Zahlungsunfähigkeit)
-  → ersetzt durch BGH IX ZR 123/04, 24.05.2005, BGHZ 163, 134 (10-%-Schwelle, § 17 InsO)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   → Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.05.2005&Aktenzeichen=IX+ZR+123%2F04
 -->

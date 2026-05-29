@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-weit
-description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktanteile zu zeigen oder Behoerden-Markt anzugreifen. Generiert weitere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024. Pruefraster einzuschliessende Produkte Regionen Supply-Side-Faktoren Nachfragesubstitution. Auswirkung auf Marktanteil und Widerlegung Marktbeherrschungsvermutung. Output Argumentationsmemo mit Begruendung und Angreifbarkeits-Analyse. Abgrenzung: alternative-marktdefinition-eng fuer engere Abgrenzung."
+description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktanteile zu zeigen oder Behoerden-Markt anzugreifen. Generiert weitere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024. Prüfraster einzuschließende Produkte Regionen Supply-Side-Faktoren Nachfragesubstitution. Auswirkung auf Marktanteil und Widerlegung Marktbeherrschungsvermutung. Output Argumentationsmemo mit Begründung und Angreifbarkeits-Analyse. Abgrenzung: alternative-marktdefinition-eng für engere Abgrenzung."
 ---
 
 # Alternative Marktdefinition — Weiter
@@ -33,7 +33,7 @@ Kriterien für den Einschluss:
 
 Referenz auf Rechtsprechung, die breitere Definitionen stützt:
 - EU-Bekanntmachung 2024, Rn. 28 ff.: Supply-Side Substitution als Marktabgrenzungsinstrument.
-- EuGH Rs. 322/81 — *Michelin I*: Angebotsseitige Umstellungen bei Reifenherstellung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Praxis der Kommission: Fusionsfälle, in denen Markt breit definiert wurde.
 
 ### Schritt 4: Ökonomische Begründung
@@ -60,19 +60,16 @@ Auswirkung auf Verfahrensergebnis: [...]
 
 ## Leitentscheidungen Weitere Marktdefinition
 
-- EuGH, Urt. v. 09.11.1983 — Rs. 322/81 (Michelin I), Slg. 1983, 3461 — Angebotsseitige Umstellung bei Reifenherstellung als Abgrenzungskriterium; Produzenten koennen kurzfristig auf anderen Markt wechseln.
-- EuGH, Urt. v. 26.11.1998 — C-7/97 (Bronner), Slg. 1998, I-7791 — Weiter Markt fuer Hauszustellungsdienste; infrastrukturbedingte Abhaengigkeit als Faktor.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Weiter Markt Wearables; Substitution zwischen Smart-Watch und Fitness-Band trotz Unterschiede moeglich.
-- BGH, Urt. v. 06.11.2018 — KZR 54/17, WuW 2019, 87 — Supply-Side-Substitution als Einschlusskritierium; kurzfristige Produktionsumstellung gruendet weite Marktdefinition.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 1-40 (Marktabgrenzungsmethoden, Angebots-/Nachfragesub.)
-- EU-Marktdefinitionsbekanntmachung 2024 Rn. 28-50 (Supply-Side Substitution)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standardformulierung für Schriftsatz
 
-> „Bezieht man — dem Verständnis der Nachfrager entsprechend — auch [Produkt X] in den relevanten Markt ein, weil [Begründung], reduziert sich der Marktanteil auf [Y%]. Die Marktbeherrschungsvermutung des § 18 Abs. 4 GWB wäre dann nicht erfüllt."
+> "Bezieht man — dem Verständnis der Nachfrager entsprechend — auch [Produkt X] in den relevanten Markt ein, weil [Begründung], reduziert sich der Marktanteil auf [Y%]. Die Marktbeherrschungsvermutung des § 18 Abs. 4 GWB wäre dann nicht erfüllt."
 
 ## Ergänzung: räumliche Erweiterung
 

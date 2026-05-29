@@ -1,23 +1,17 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollstaendig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Pruefraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
+description: "Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht
 
 ## Aktuelle Rechtsprechung (Erbrecht Erstgespräch)
 
-- BGH, Urt. v. 27.09.2017 - IV ZR 253/15, NJW 2017, 3663 Rn. 16 — Die Ausschlagungsfrist nach § 1944 BGB (sechs Wochen) beginnt erst mit Kenntnis vom Erbfall und vom Berufungsgrund; der Erbe muss sich Kenntnis zurechnen lassen, die er bei zumutbarer Erkundigung haette erwerben koennen.
-- BGH, Urt. v. 26.05.2021 - IV ZR 174/20, NJW 2021, 2269 Rn. 14 — Der Pflichtteilsanspruch verjaehrt nach § 2332 BGB in drei Jahren ab Kenntnis vom Erbfall und von der die Pflichtteilsentziehung begruendenden Verfuegung; Unkenntnis ohne grobes Verschulden hemmt den Lauf.
-- BGH, Urt. v. 12.07.2017 - IV ZR 584/15, NJW 2017, 3167 Rn. 18 — Die Erbenhaftung nach § 1967 BGB erfasst alle Nachlassverbindlichkeiten; die Haftung ist auf den Nachlass beschraenkt, wenn rechtzeitig die Dreimonatseinrede (§ 2014 BGB) oder Nachlassinsolvenz beantragt wird.
-- BGH, Urt. v. 19.01.2022 - IV ZR 140/20, NJW 2022, 1030 Rn. 22 — Der Auskunftsanspruch nach § 2314 BGB richtet sich auf vollstaendige und wahrheitsgemaeße Auskunft ueber den Nachlass; der Erbe ist zur Vorlage von Belegen und zur eidesstattlichen Versicherung verpflichtet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MuKoBGB/Siegmann, § 1944 Rn. 1-25 (Ausschlagungsfrist, Fristbeginn, Wiedereinsetzung)
-- Staudinger/Schaefer, § 2332 Rn. 1-30 (Pflichtteilsverjaehrung)
-- BeckOK BGB/Litzenburger, § 2314 Rn. 1-20 (Auskunftsanspruch Pflichtteil)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Skill greift
 
 - Neue Anfrage aus dem Bereich Erb- und Pflichtteilsrecht (Telefon, Mail, Empfehlung, Walk-in).

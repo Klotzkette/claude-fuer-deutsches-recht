@@ -1,6 +1,6 @@
 ---
 name: stb-dba-oesterreich
-description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzueberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausfuehrung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-oesterreich-rueckkehr."
+description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-oesterreich-rückkehr."
 ---
 
 # DBA Deutschland-Oesterreich
@@ -24,17 +24,16 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Primaernormen
 
-- **DBA Deutschland-Oesterreich vom 24.08.2000**, in Kraft seit 01.01.2003 (BGBl. 2002 II S. 734). Aenderungsprotokoll vom 29.12.2010 (BGBl. 2011 II S. 1209) — **Daten und Fundstellen vor Uebernahme verifizieren**.
+- **DBA Deutschland-Oesterreich vom 24.08.2000**, in Kraft seit 18.08.2002 (BGBl. 2002 II S. 734; BStBl. 2002 I S. 584). Aenderungsprotokoll vom 29.12.2010, in Kraft 01.03.2012 (BGBl. 2011 II S. 1209; BStBl. 2012 I S. 366). Zweites Aenderungsprotokoll vom 21.08.2023, in Kraft 28.12.2023, anwendbar ab 01.01.2024 (BGBl. 2023 II S. 335; BGBl. 2024 II S. 236).
 - **OECD-MA 2017** als Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **Verstaendigungsvereinbarungen / Konsultationsvereinbarung** zu Home-Office (waehrend Pandemie 2020/2021 und Folgevereinbarungen) — **aktuelle Fassung im BMF-Verzeichnis verifizieren**.
-- **MLI**-Anpassungen: Deutschland und Oesterreich beide Unterzeichner — **Notification-Status verifizieren**.
+- **Konsultationsvereinbarung Grenzgaenger DE-AT** (BMF, aktualisiert 20.12.2023): Grenzzone 30 km Luftlinie; bis 31.12.2023 Toleranzregelung max. 45 Nichtrückkehrtage; ab 01.01.2024 (Protokoll 2023) Homeoffice-Tage keine schaedlichen Nicht-Rueckkehrtage mehr — schaedlich sind Tage ausserhalb der Grenzzone, max. 45 Arbeitstage bzw. 20 Prozent der tatsaechlichen Arbeitstage.
+- **MLI**-Anpassungen: Deutschland und Oesterreich beide Unterzeichner und ratifiziert (Deutschland ab 01.04.2021, Oesterreich ab 01.01.2022). DBA-DE-AT gilt ab 01.01.2022 MLI-modifiziert.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH I R 50/14 (Ansaessigkeit Doppelwohnsitz) — **verifizieren**.
-- BFH I R 73/16 zu Grenzgaengerregelung — **verifizieren**.
-- BMF-Schreiben zu Konsultationsvereinbarungen Home-Office Oesterreich — **Datum verifizieren**.
+- BFH-Rechtsprechung zu Ansaessigkeit bei Doppelwohnsitz: Mittelpunkt der Lebensinteressen pruefbar nach Art. 4 DBA-Oesterreich (aktuelle Entscheidungen in juris abrufen).
+- BMF-Konsultationsvereinbarung zur Grenzgaengerregelung DBA-Oesterreich, zuletzt aktualisiert 20.12.2023 (BMF-Schreiben IV B 2 — S 1301/22/10002 :001).
 
 ## Land-spezifisches
 
@@ -55,9 +54,9 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Passive Einkuenfte
 
-- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkreten Hoechstsatz im aktuellen DBA-Text verifizieren**. Schachtelbeteiligung 10 Prozent.
-- **Zinsen** (Art. 11): typ. 0 Prozent fuer Banken, sonst niedriger Satz — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): Wohnsitzstaat-Prinzip in vielen Faellen, ggf. niedriger Quellensteuersatz — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent bei Schachtelbeteiligung (direkter Anteil mind. 10 Prozent), ansonsten 15 Prozent (Art. 10 Abs. 2 DBA-Oesterreich). EU-Mutter-Tochter-Richtlinie (§ 43b EStG) bei Vorliegen der Voraussetzungen vorrangig.
+- **Zinsen** (Art. 11): 0 Prozent — ausschliessliches Besteuerungsrecht des Wohnsitzstaats (Art. 11 Abs. 1 DBA-Oesterreich). EU-Zins-Lizenz-Richtlinie (§ 50g EStG) bei verbundenen Unternehmen ohnehin anwendbar.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent — ausschliessliches Besteuerungsrecht des Wohnsitzstaats (Art. 12 Abs. 1 DBA-Oesterreich).
 
 ### Vermeidungs-Methode (Art. 23)
 
@@ -67,8 +66,8 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Besonderheiten
 
-- **Grenzgaengerregelung** Art. 15 Abs. 6 DBA-Oest. (oder Protokoll — **konkret im DBA verifizieren**): Wohnsitzstaat besteuert, wenn taegliche Rueckkehr und Wohnsitz in Grenzregion.
-- **Home-Office**: Konsultationsvereinbarung gestattet bis zu einem bestimmten Anteil Home-Office-Tage je Jahr ohne Verlust Grenzgaengerstatus — **aktuelle Schwelle vor Anwendung im Konsultations-Memo des BMF verifizieren**.
+- **Grenzgaengerregelung** Art. 15 Abs. 6 DBA-Oesterreich: Grenzzone 30 km Luftlinie beiderseits der Grenze; Wohnsitzstaat-Besteuerung, wenn Wohnort und Arbeitsort in der Grenzzone liegen und der Arbeitnehmer ueblicherweise dort taetig ist.
+- **Home-Office** ab 01.01.2024: Homeoffice-Tage in der Grenzzone des Wohnsitzstaats sind keine schaedlichen Tage mehr. Schaedlich bleiben Arbeitstage ausserhalb der Grenzzone (beider Staaten), sofern diese mehr als 45 Arbeitstage bzw. 20 Prozent der tatsaechlichen Arbeitstage im Kalenderjahr betragen (Konsultationsvereinbarung BMF, 20.12.2023).
 - **Pensionen**: in einigen Faellen Kassenstaatsprinzip (gesetzliche Renten an Beamte oeffentlicher Dienst); Privatpensionen ueberwiegend Wohnsitzstaat — **konkret pruefen**.
 - **Subject-to-Tax**: einzelne DBA-Klauseln, daneben § 50d Abs. 9 EStG.
 
@@ -126,4 +125,6 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Oesterreich vom 24.08.2000, Aenderungsprotokoll 29.12.2010 — **Datum, BGBl-Fundstelle, MLI-Notification verifizieren**. Konsultationsvereinbarungen Home-Office (BMF) — **Aktualitaet und Schwellen verifizieren**. **Aktuelle Quellensteuer-Saetze und Sonderregelungen vor Uebernahme in juris/beck-online oder im konsolidierten BMF-DBA-Verzeichnis verifizieren.**
+Stand: 05/2026. DBA-Oesterreich vom 24.08.2000 (BGBl. 2002 II S. 734), Aenderungsprotokoll 29.12.2010 (BGBl. 2011 II S. 1209, in Kraft 01.03.2012), Zweites Protokoll 21.08.2023 (BGBl. 2023 II S. 335, anwendbar ab 01.01.2024). MLI wirksam ab 01.01.2022. Quellensteuer: Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Grenzgaenger-Grenzzone: 30 km Luftlinie; schaedliche Tage ausserhalb Grenzzone max. 45 Arbeitstage. Aktuelle Konsultationsvereinbarungen und DBA-Text im konsolidierten BMF-DBA-Verzeichnis abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 12 Marker aufgeloest: 8 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

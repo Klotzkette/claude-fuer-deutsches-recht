@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-datenraum-aufbau
-description: "Virtuellen Datenraum strukturieren und befuellen fuer Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Pruefraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests."
+description: "Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests."
 ---
 
 # Datenraum-Aufbau
@@ -25,16 +25,11 @@ description: "Virtuellen Datenraum strukturieren und befuellen fuer Private M&A,
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 14.09.2021 - 5 U 63/21, NZG 2022, 112 — Unvollstaendiger Datenraum: Verkaefer darf wesentliche Informationen nicht verstecken; alleiniger Hinweis im Index-Titel genuegt nicht fuer Disclosure-Wirkung
-- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — Datenraum als Informationsquelle: bloss Bereitstellen im Datenraum = keine selbst. Disclosure, wenn Kaeufer Fundstelle nicht erkennen kann
-- BGH, Urt. v. 15.03.2022 - II ZR 4/21, NJW 2022, 1940 — Beweis: Datenraum-Log (wer hat wann was heruntergeladen) ist zulassiges Beweismittel; Kaeufer-Kenntnis kann belegt werden
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5 — Datenraum und DD-Prozess
-- Sydow/Marsch DSGVO Art. 28 Rn. 1 ff. — Auftragsverarbeitung
-- Herzog/Muehlhausen, GwG (3. Aufl. 2022) — vertrauliche Transaktionsdaten
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standard-Datenraum-Index: Corporate M&A
 
 ```
@@ -154,5 +149,5 @@ Separate NDA unterzeichnet: [Ja]
 ## Quellen
 
 - Art. 5, 25, 28 DSGVO; Art. 18 MAR; § 13 WpHG; § 17 UWG
-- OLG Frankfurt 5 U 63/21 (Disclosure-Datenraum); BGH V ZR 299/19 (Datenraum-Kenntnis); BGH II ZR 4/21 (Datenraum-Log als Beweis)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5

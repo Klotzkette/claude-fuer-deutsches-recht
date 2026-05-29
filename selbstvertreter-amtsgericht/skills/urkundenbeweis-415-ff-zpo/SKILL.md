@@ -1,6 +1,6 @@
 ---
 name: urkundenbeweis-415-ff-zpo
-description: "Urkundenbeweis nach §§ 415 ff. ZPO. Oeffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten."
+description: "Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten."
 ---
 
 # Urkundenbeweis: Schriftliche Dokumente als Beweis

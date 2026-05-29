@@ -52,7 +52,7 @@ Nach § 222 InsO sind Gläubiger in Gruppen einzuteilen, wenn ihre Rechte durch 
 - Im Gegenzug: Fortsetzung der Lieferbeziehung zu Marktkonditionen, Mindestabnahmeverpflichtung für 24 Monate.
 
 **Offene Fragen:**
-- Welche Lieferanten sind tatsächlich „betriebsnotwendig" im Sinne der Planfortführung?
+- Welche Lieferanten sind tatsächlich "betriebsnotwendig" im Sinne der Planfortführung?
 - EV-Klärung Prignitz Forst KG könnte separate Einigung erfordern.
 - Gruppeninterne Drittsicherheiten zu prüfen (keine bekannt, aber nicht abschließend geprüft).
 

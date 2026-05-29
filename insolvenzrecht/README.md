@@ -2,6 +2,17 @@
 
 Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, COVInsAG-Nachwirkungen). Zielgruppe: Insolvenzverwalter, beratende Rechtsanwälte (Insolvenz-/Sanierungsrecht), Geschäftsführer, Vorstände, Sanierungsberater, Wirtschaftsprüfer (IDW-S-11-/S-6-/S-9-Praxis).
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -16,7 +27,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ### Zum Ausprobieren: Testakte (separat)
 
@@ -48,8 +59,8 @@ Fiktive Mandantsakte der Edelholz Manufaktur Berlin GmbH (Insolvenz-Schwelle) �
 
 ## Abgrenzung zu den Schwester-Plugins
 
-- Das Plugin [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater/) enthält `bwa-sus-bilanz-pruefung` — Prüfung BWA/SuSa/Bilanz auf Krisensignale, **Hinweispflicht des Steuerberaters** nach § 102 StaRUG (BGH-Vorläufer IX ZR 285/14).
-- Das Plugin [Liquiditätsplanung](../liquiditaetsplanung/) enthält die rollierenden Liquiditätsvorschauen 3 Wochen / 13 / 26 / 52 Wochen mit Ampel nach BGH BGHZ 163, 134 und Fortführungsprognose nach IDW S 6.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es liefert die rechtlichen Subsumtionsbausteine und Beweismittel, wenn die Krise bereits eingetreten ist — Zeitpunkt der Zahlungsunfähigkeit, Überschuldungsstatus zum Stichtag, Antragspflichtfrist, Haftung Geschäftsleiter.
 
@@ -64,25 +75,11 @@ Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es li
 
 ## Leitentscheidungen
 
-- BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 (Zahlungsunfähigkeit: 10%-/3-Wochen-Schema)
-- BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 (Indizienkatalog Zahlungsunfähigkeit)
-- BGH, Urt. v. 13.06.2006 – IX ZR 92/04, BGHZ 168, 158 (Stundungen, Liquiditätsbilanz)
-- BGH, Urt. v. 18.10.2010 – II ZR 151/09, NZG 2010, 1393 (Überschuldungsprognose)
-- BGH, Urt. v. 13.07.2017 – IX ZR 290/14, NJW 2017, 3373 (insolvenzrechtl. Überschuldung)
-- BGH, Urt. v. 23.06.2022 – IX ZR 75/21, NJW 2022, 3018 (Antragspflicht § 15a, Haftung)
-- BGH, Urt. v. 26.01.2017 – IX ZR 285/14, BGHZ 213, 374 (Steuerberater-Hinweispflicht — Vorläufer § 102 StaRUG)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Standardliteratur
+## Quellenregel
 
-- *Uhlenbruck*, InsO, 16. Aufl. 2024 (Hrsg. Uhlenbruck/Mock)
-- *K. Schmidt*, InsO, 20. Aufl. 2023
-- *MüKoInsO*, 4. Aufl. 2019 ff.
-- *Pape/Uhländer*, StaRUG, 1. Aufl. 2021
-- *BeckOK StaRUG*, hrsg. Skauradszun, 8. Ed. (Stand 04.2025)
-- *IDW S 11* — Beurteilung des Vorliegens von Insolvenzeröffnungsgründen
-- *IDW S 6* — Anforderungen an Sanierungskonzepte
-- *IDW S 9* — Bescheinigungen nach §§ 50, 51 StaRUG
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Lizenz
 
 Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`). Siehe `LICENSE`, `LICENSE-APACHE`, `LICENSE-MIT` und `NOTICE` im Repository-Wurzelverzeichnis.

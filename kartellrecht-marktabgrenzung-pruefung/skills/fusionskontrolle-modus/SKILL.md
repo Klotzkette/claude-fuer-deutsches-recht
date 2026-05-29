@@ -1,6 +1,6 @@
 ---
 name: fusionskontrolle-modus
-description: "Prueft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zustaendigkeit BKartA."
+description: "Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA."
 ---
 
 # Fusionskontrolle — Modus
@@ -58,16 +58,13 @@ Fusionsbedingte Effizienzgewinne können wettbewerbsschädliche Effekte aufwiege
 
 ## Leitentscheidungen Fusionskontrolle
 
-- EuGH, Urt. v. 10.07.2008 — C-413/06 P (Bertelsmann/Sony), Slg. 2008, I-4951 — SIEC-Test FKVO; koordinierte Effekte; fehlende Nachweise fuer Oligopolkoordinierung.
-- EuGH, Urt. v. 08.07.2003 — C-179/00 (Schneider/Legrand), Slg. 2003, I-7049 — Schadensersatz bei rechtswidriger Fusionsuntersagung; EK-Haftung bei unzulaessiger Marktdefinition.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Fusionspraxisfaelle Digitalmärkte; Datenzugang als Wettbewerbsfaktor.
-- BGH, Urt. v. 19.01.2021 — KZR 10/19, NZKart 2021, 287 — § 40 GWB nationales Fusionskontrollverfahren; Drittbeteiligung; Zugang zu Verfahrensakten BKartA.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB §§ 35-43 Rn. 1-100 (Nationales Fusionskontrollrecht)
-- Immenga/Mestmaecker EU-Wettbewerbsrecht FKVO 139/2004 Art. 1-10 Rn. 1-120 (Schwellenwerte, Verfahren, SIEC-Test)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfprotokoll Fusionskontrolle
 
 ```

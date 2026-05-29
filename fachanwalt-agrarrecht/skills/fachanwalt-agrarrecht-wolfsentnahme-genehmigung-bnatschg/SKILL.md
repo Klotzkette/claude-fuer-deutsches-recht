@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg
-description: "Sondergenehmigung zur Entnahme einzelner Woelfe nach § 45 Abs. 7 BNatSchG bei nachgewiesenen Nutztierrissen. Schnellabschuss-Verfahren § 45a BNatSchG 2024 mit 1000-Meter-Radius. Antrag bei oberster Naturschutzbehoerde des Landes. Voraussetzungen ernster wirtschaftlicher Schaden zumutbare Schutzmassnahmen erfolglos keine zumutbare Alternative. EuGH C-674/17 Pieksaemen. EU-Habitatrichtlinie Art. 16 Anhang IV. Workflow Antrag Begruendung Beweisfuehrung."
+description: "Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
@@ -35,11 +35,7 @@ Anwaltliche Vertretung eines Tierhalters (Schäfer, Rinderhalter, Hobbyhalter) b
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| EuGH | C-674/17 (Tapiola) | 10.10.2019 | Art. 16 FFH-RL streng auszulegen; Alternativen vorrangig; pauschale Entnahme-Quoten unzulässig |
-| EuGH | C-463/20 (Kommission/Polen) | 17.03.2022 | Artenschutz-Verstoß trotz nationaler Ausnahme-VO möglich |
-| BVerwG | 4 C 31/13 | 27.11.2014 | Maßstab "keine zumutbare Alternative": alle technisch und wirtschaftlich möglichen Alternativen müssen ausgeschöpft sein |
-| OVG Lüneburg | 4 ME 27/22 | 25.05.2022 | Eilrechtsschutz Wolfsentnahme: Substantiierung Tierhalter zur fehlgeschlagenen Schutzmaßnahme erforderlich |
-| VG Hannover | 4 A 5471/22 | 15.06.2023 | Anforderungen an Schutzmaßnahmen-Standard vor Entnahme-Genehmigung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Voraussetzungen § 45 Abs. 7 BNatSchG
 
@@ -152,12 +148,11 @@ nach Vorliegen der DNA-Bestätigung.
 ### Phase 5 — Bei Ablehnung
 
 - **Widerspruch** mit sofortiger Begründung; kein aufschiebender Effekt ex lege
-- **Eilantrag § 80 Abs. 5 VwGO**: bei akuter Herdengefährdung; Substantiierung erforderlich (OVG Lüneburg 4 ME 27/22)
-- **Argumentation**: BVerwG 4 C 31/13 — bei nachgewiesener Schadens-Eskalation und ausgeschöpften Alternativen besteht Genehmigungsanspruch
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Darlegungslast
 
-- **Antragsteller** trägt volle Darlegungslast für alle Tatbestandsmerkmale des § 45 Abs. 7 BNatSchG; pauschale Behauptungen genügen nicht (OVG Lüneburg 4 ME 27/22).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Schutzmaßnahmen-Standard**: Tierhalter muss positiv belegen, dass Schutzmaßnahmen wolfssicher installiert und überwunden wurden.
 - **Erhaltungszustand**: Liegt amtliches DBBW-Monitoring vor, hat Behörde keine Beurteilungs-Freiheit mehr — günstiger Zustand ist Beweistatsache, keine Prognose.
 - **Alternative**: Behörde trägt Sekundärdarlegungslast für konkrete Alternativmaßnahme, wenn sie Antrag ablehnt.
@@ -179,7 +174,7 @@ nach Vorliegen der DNA-Bestätigung.
 | Schutzmaßnahmen nicht wolfssicher | Spannungsmessprotokoll, Foto Einbruchsstelle, LWK-Sachverständiger |
 | Kein ernster wirtschaftlicher Schaden | Kumulation aller Risse der Saison; Stressaborte als Folgeschaden; Marktwert-Gutachten |
 | Zumutbare Alternative: Zaun erhöhen | Topographie-Nachweis; wirtschaftliche Kalkulation; Zeitaufwand bei laufender Saison |
-| Erhaltungszustand lokal kritisch | Bundesweites DBBW-Monitoring: günstig; lokale Verdichtung irrelevant (EuGH C-674/17) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 45a nicht anwendbar wegen fehlender Überwundunheit | Foto Einbruchsstelle als Beweismittel; Riss-Berater-Protokoll |
 
 ## Streitwert und Kosten
@@ -210,18 +205,15 @@ nach Vorliegen der DNA-Bestätigung.
 - BNatSchG §§ 44, 45, 45a (Stand 19.12.2023)
 - FFH-Richtlinie 92/43/EWG Art. 12, 16
 - BArtSchV
-- EuGH C-674/17 (10.10.2019); C-463/20 (17.03.2022)
-- BVerwG 4 C 31/13 (27.11.2014)
-- OVG Lüneburg 4 ME 27/22 (25.05.2022)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DBBW Wolfsvorkommen Deutschland — Monitoring (laufend)
 - Louis/Engelke BNatSchG-Kommentar
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-BVerwG, Urt. v. 27.11.2018 — **9 A 8.17**, BVerwGE 163, 380 Rn. 84: Wolf (Canis lupus) ist nach Anhang IV Habitat-RL streng geschützt; eine Ausnahmegenehmigung zur Entnahme nach § 45 Abs. 7 BNatSchG setzt voraus, dass der günstige Erhaltungszustand der Wolfspopulation auch nach der Entnahme gewahrt bleibt; Behörde muss populationsdynamische Gutachten einholen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OVG Berlin-Brandenburg, Beschl. v. 25.06.2020 — **11 S 46/19**, NVwZ-RR 2020, 817 Rn. 14: Einstweiliger Rechtsschutz gegen eine Wolfsentnahme-Genehmigung ist statthaft nach § 80 Abs. 5 VwGO; es besteht wegen der Irreversibilität des Eingriffs (Tod des Tieres) ein erhöhtes Schutzbedürfnis; das Gericht kann die Vollziehung aussetzen, wenn ernstliche Zweifel an der Rechtmäßigkeit der Genehmigung bestehen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- OVG Schleswig 4 MB 13/23 (WRONG_TOPIC): Tatsächliches Thema = Ausländerrecht/Aufenthaltstitel (§ 38a AufenthG, Daueraufenthalts-RL); kein Bezug zu Wolfsschutz oder Elektrozaun-Standard. Tabellenzeile und Quellen-Eintrag entfernt. -->

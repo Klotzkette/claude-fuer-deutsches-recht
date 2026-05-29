@@ -1,6 +1,6 @@
 ---
 name: anw-organschaft-konzern-grundlagen
-description: "Beratung zur ertragsteuerlichen gewerbesteuerlichen und umsatzsteuerlichen Organschaft bei Holding- oder Konzernstrukturen. Anwendungsfall Mandant plant Organschaft Holding oder prueft ob bestehende Organschaft wirksam ist. Voraussetzungen KSt-Organschaft § 14 KStG finanzielle Eingliederung Gewinnabfuehrungsvertrag fuenf Jahre GewSt-Organschaft § 2 Abs. 2 GewStG USt-Organschaft § 2 Abs. 2 UStG finanziell wirtschaftlich organisatorisch eingegliedert. EuGH C-141/20 Norddeutsche Gesellschaft fuer Diakonie USt-Organschaft Reform. Output Beratungsmemo Wirksamkeitspruefung Risiken Mehrmuetter-Organschaft Vorlage Gewinnabfuehrungsvertrag."
+description: "Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
@@ -37,12 +37,7 @@ Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverh
 
 ### Leitentscheidungen
 
-- BFH, Urt. v. 13.6.2018 — **I R 31/17** (Finanzielle Eingliederung: Stimmenmehrheit > 50 %; nicht reine Kapitalmehrheit).
-- BFH, Urt. v. 24.7.2013 — **I R 40/12** (Gewinnabführungsvertrag — formelle Wirksamkeit Pflicht; rückwirkende Heilung selten).
-- BFH, Urt. v. 1.2.2017 — **V R 56/15** (USt-Organschaft: organisatorische Eingliederung verlangt aktive Steuerungsmöglichkeit).
-- EuGH, Urt. v. 1.12.2022 — **C-141/20** Norddeutsche Gesellschaft für Diakonie (Reform USt-Organschaft; Organträger = einziger Steuerschuldner; Organgesellschaft nicht zusätzlich verpflichtet).
-- EuGH, Urt. v. 16.7.2020 — **C-77/19** Kaplan International Colleges UK (Mehrwertsteuerliche Behandlung von Personenvereinigungen).
-- BFH, Urt. v. 16.3.2023 — **V R 14/21** (USt-Organschaft: Folge der EuGH-Rspr.; nationaler Rechtsrahmen unverändert, aber europarechtliche Reichweite angepasst).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## I. Ertragsteuerliche Organschaft (KSt + GewSt)
 
@@ -81,7 +76,7 @@ Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverh
 2. **Wirtschaftliche Eingliederung** — Organgesellschaft erbringt für Organträger oder Konzern wirtschaftlich bedeutsame Leistungen (Lieferungen, Dienstleistungen).
 3. **Organisatorische Eingliederung** — Organträger kann seine Willen tatsächlich durchsetzen (personell verflochtene Geschäftsführung, Beherrschungsvertrag, weisungsabhängige GF).
 
-**Wichtig nach EuGH C-141/20:** Organträger ist der **einzige Steuerschuldner**; Organgesellschaft ist nicht zusätzlich USt-pflichtig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Wirkungen
 
@@ -97,7 +92,7 @@ Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverh
 
 ### Praxis-Punkte 2026
 
-- **EuGH C-141/20** hat die alleinige USt-Schuldnerschaft des Organträgers bestätigt — DT-Verwaltung hat das ausführlich umgesetzt (BMF-Schreiben).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Reform** der UStOrg-Anwendung diskutiert; bis dahin gilt klare Rechtslage.
 - Bei Mehrmütter-Organschaft komplexer; ggf. nicht möglich.
 
@@ -165,4 +160,4 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 
 ## Quellen und Updates
 
-Stand: 05/2026. EuGH C-141/20 zur USt-Organschaft umgesetzt; BFH-Folgerechtsprechung (V R 14/21) eingearbeitet. SanInsKG / MinBestG-Bezug 2026 zu beachten. Bei Reform UStG (geplant) oder DBA aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,0 +1,106 @@
+{
+  "$schema": "https://www.lobbyregister.bundestag.de/json-schemas/current/Lobbyregistersuche-Registereintrag-Details-schema.json",
+  "apiRelease": "R2.21",
+  "source": "Deutscher Bundestag, Lobbyregister fuer die Interessenvertretung gegenueber dem Deutschen Bundestag und der Bundesregierung",
+  "sourceUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries?q=HansaH2%20Storage&format=json",
+  "sourceDate": "2026-07-05T10:34:48.553+02:00",
+  "jsonDocumentationUrl": "https://www.lobbyregister.bundestag.de/informationen-und-hilfe/open-data-1049716",
+  "searchUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries?q=HansaH2%20Storage&format=json",
+  "searchParameters": {
+    "q": "HansaH2 Storage",
+    "format": "json"
+  },
+  "resultCount": 2,
+  "cursor": "mock-hansah2-final",
+  "results": [
+    {
+      "registerNumber": "R008442",
+      "registerEntryDetails": {
+        "version": 4,
+        "legislation": "GL2024",
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R008442",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/R008442/4.pdf",
+        "validFromDate": "2026-07-03T14:21:00.000+02:00",
+        "fiscalYearUpdate": {
+          "updateMissing": false,
+          "lastFiscalYearUpdate": "2026-04-18T11:06:00.000+02:00"
+        },
+        "refusedAnything": false
+      },
+      "accountDetails": {
+        "activeLobbyist": true,
+        "lastUpdateDate": "2026-07-03T14:21:00.000+02:00",
+        "accountHasCodexViolations": false
+      },
+      "lobbyistIdentity": {
+        "identity": "ORGANIZATION",
+        "companyName": "Spreebogen Regulatory GmbH"
+      },
+      "activitiesAndInterests": {
+        "generalInformation": "Interessenvertretung im Auftrag einzelner Unternehmen und Konsortien zu Energie- und Infrastrukturvorhaben.",
+        "regulatoryProjects": [
+          {
+            "title": "Wasserstoffbeschleunigungsgesetz",
+            "description": "Speicher- und Elektrolyseaspekte, Netzanbindung, Genehmigungsbeschleunigung und Foerderkulisse."
+          }
+        ]
+      },
+      "contracts": {
+        "contractsPresent": true,
+        "clients": [
+          {
+            "referenceName": "HansaH2 Storage AG",
+            "role": "Auftraggeber fuer Speicher- und Kavernenfragen"
+          },
+          {
+            "referenceName": "Nordsee Elektrolyse Konsortium GbR",
+            "role": "Auftraggeber fuer Elektrolyse- und Netzanbindungsfragen"
+          }
+        ],
+        "contractors": [
+          {
+            "referenceName": "OpenGrid Events UG",
+            "role": "Unterauftrag fuer Stakeholder-Mapping und Veranstaltungsvorbereitung"
+          }
+        ]
+      },
+      "statements": {
+        "statementsPresent": true,
+        "items": [
+          {
+            "title": "Stellungnahme HansaH2 Storage AG zum Wasserstoffbeschleunigungsgesetz",
+            "submissionDate": "2026-05-28",
+            "publicationDate": "2026-07-03"
+          },
+          {
+            "title": "Kurzgutachten Nordsee Elektrolyse Konsortium zur Netzanbindung",
+            "submissionDate": "2026-06-03",
+            "publicationDate": "2026-07-03"
+          }
+        ]
+      }
+    },
+    {
+      "registerNumber": "R006771",
+      "registerEntryDetails": {
+        "version": 2,
+        "legislation": "GL2024",
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R006771",
+        "validFromDate": "2026-04-12T08:12:00.000+02:00",
+        "refusedAnything": false
+      },
+      "accountDetails": {
+        "activeLobbyist": true,
+        "lastUpdateDate": "2026-04-12T08:12:00.000+02:00",
+        "accountHasCodexViolations": false
+      },
+      "lobbyistIdentity": {
+        "identity": "ORGANIZATION",
+        "companyName": "HansaH2 Storage AG"
+      },
+      "activitiesAndInterests": {
+        "generalInformation": "Eigene Interessenvertretung zu Wasserstoffspeicherung, Kavernennutzung und Energieinfrastruktur."
+      }
+    }
+  ]
+}

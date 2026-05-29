@@ -1,6 +1,6 @@
 ---
 name: glaeubigerausschuss-mitwirkung
-description: "Mandant ist Mitglied des Glaeubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Pruefraster §§ 67 ff. InsO Glaeubigerausschuss vorlaeufiger Glaeubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Ueberwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungspruefung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Pruefung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: glaeubigerantrag-pruefung fuer Eroefffnungsantrag des Glaeubiger."
+description: "Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger."
 ---
 
 # Gläubigerausschuss-Mitwirkung
@@ -207,17 +207,14 @@ Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im I
 - InsO §§ 22a 59 67–73 156 160 175 270 270d
 - StaRUG
 - InsVV
-- Uhlenbruck InsO
-- MüKo InsO
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - HK-InsO
 
 
 ## Aktuelle Leitentscheidungen — Glaeubigerausschuss
 
-- BGH, Urt. v. 09.10.2014 — IX ZR 188/13, NZI 2014, 1004 — Glaeubigerausschuss-Haftung: Ausschussmitglieder haften persoenlich nach § 71 InsO wenn sie Pflichten vorsaetzlich oder grob fahrlaeissig verletzen; Verwertungszustimmung ohne Kenntnisnahme des Gutachtens ist grob fahrlaeissig.
-- BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 — Mitwirkungspflichten § 69 InsO: Ausschuss hat Recht und Pflicht auf Information durch IV; IV muss zeitgerecht berichten; bei wichtigen Einzelgeschaeften Zustimmung erforderlich.
-- BGH, Urt. v. 05.07.2007 — IX ZB 197/06 — Bestellung § 67 InsO: Glaeubigerversammlung kann jederzeit neuen Ausschuss waehlen; Abberufung eines Mitglieds aus wichtigem Grund durch Gericht moeglich (§ 70 InsO).
-- BGH, Urt. v. 12.09.2018 — IX ZB 72/16 — Verguetung § 73 InsO: Ausschussmitglieder haben Anspruch auf angemessene Verguetung aus Insolvenzmasse; Festsetzung durch Gericht; Hoehe richten nach Umfang und Schwierigkeit.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Glaeubigerausschuss
 
@@ -231,8 +228,6 @@ Bevor losgelegt wird, klaere:
 3. **Interessenkonflikt?** Ausschussmitglied ist gleichzeitig Glaeubiger und Bieter in Verwertung → § 71 InsO Haftungsrisiko.
 4. **Informations-Hol-Pflicht?** Mitglieder muessen aktiv Informationen vom IV anfordern; passives Warten genuegt nicht.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Schmid-Burgk §§ 67-73 InsO Rn. 1 ff. — Glaeubigerausschuss umfassend.
-- Uhlenbruck/Zipperer §§ 67-73 InsO Rn. 1 ff. — Ausschuss-Pflichten und Haftung.
-- Jaeger/Gerhardt § 69 InsO — Informationsrechte und Zustimmungspflichten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-schreibcanvas
-description: "Bietet ein freies Schreib-Canvas fuer Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Pruefraster Tatsachenvortrag Beweisangebote Antraege Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Antraegen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening."
+description: "Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Prüfraster Tatsachenvortrag Beweisangebote Anträge Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Anträgen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Schreib-Canvas
@@ -13,10 +13,7 @@ description: "Bietet ein freies Schreib-Canvas fuer Schriftsaetze Briefe Rechnun
 4. Ist eine Frist einzuhalten, die den Schreibprozess zeitlich begrenzt?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Schriftsatz mit lueckenhaftem Sachvortrag begruendet Anwaltshaftung; Canvas-Hinweise auf Tatsachenluecken helfen dieses Risiko zu vermeiden.
-- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Fehlende Beweisangebote im Schriftsatz fuehren zu Beweisfaelligkeit; Canvas soll Beweisangebote aktiv einfordern.
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Anwalt muss rechtliche Argumentation vollstaendig entwickeln; Canvas-Hinweise auf Normen und Rechtsprechung unterstuetzen dies.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Vollstaendiger Klageantrag als Prozessvoraussetzung: vage Antraege fuehren zur Unzulaessigkeit; Canvas-Antragspruefung verhindert dies.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 130 ZPO — Inhalt von Schriftsaetzen: Vollstaendigkeit von Antraegen und Tatsachen
@@ -24,10 +21,9 @@ description: "Bietet ein freies Schreib-Canvas fuer Schriftsaetze Briefe Rechnun
 - § 138 ZPO — Wahrheitspflicht und Erklaerungslast: Tatsachen muessen vollstaendig und wahrheitsgemass sein
 - § 43 BRAO — Sorgfaltspflicht: Canvas-Pruefung als Teil anwaltlicher Dokumentenerstellung
 
-## Kommentarliteratur
-- Zöller/Greger ZPO §§ 130, 253 Rn. 1-20 (Anforderungen an Schriftsatz und Klageantrag)
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfalt bei Dokumentenerstellung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill stellt ein Arbeitsbrett für Entwürfe bereit: links der Rohtext, rechts Hinweise, darunter offene Tatsachen, Beweise, Fristen, Anlagen, Versand- und Abrechnungspunkte. Das Canvas soll beim Schreiben helfen, ohne ständig zu stören.

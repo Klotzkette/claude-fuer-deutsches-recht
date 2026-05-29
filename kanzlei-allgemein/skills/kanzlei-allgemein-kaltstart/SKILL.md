@@ -13,10 +13,7 @@ description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleip
 4. Sind beA, E-Mail, DMS oder Buchhaltungssoftware bereits vorhanden und angebunden?
 
 ## Aktuelle Rechtsprechung
-- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Berufsrechtliche Organisationspflichten gelten von Beginn der Kanzleitaetigkeit an; keine Schonfrist bei Berufseinstieg.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzleieinrichtung mit Fristenbuch, Postlauf und Mandatsorganisation ist Teil der Sorgfaltspflicht nach § 43 BRAO.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzleiprofil (Abrechnungsart RVG oder Vereinbarung) muss von Anfang an klar definiert sein; spaetere Aenderungen koennen vertragliche Konsequenzen haben.
-- BVerwG, Beschl. v. 09.11.2020 - 2 B 35.20, NVwZ 2021, 488 — Rechtsform der Kanzlei (PartG, GmbH) bestimmt Haftungsrahmen; Kaltstart muss Rechtsform korrekt erfassen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag
@@ -24,10 +21,9 @@ description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleip
 - § 31a BRAO — beA-Nutzungspflicht: sofort bei Zulassung
 - § 8 PartGG — Haftung in der Partnerschaftsgesellschaft: wichtig fuer Kanzleistruktur-Entscheidung
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Berufspflichten: Inhalt und Geltung)
-- Henssler/Prütting BRAO § 31a Rn. 1-20 (beA: Einrichtungspflicht und Nutzung)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill richtet das Plugin für eine Kanzlei, ein Dezernat oder einen Einzelanwalt ein. Ziel ist ein handhabbares Betriebsprofil, das spätere Workflows nicht blockiert.

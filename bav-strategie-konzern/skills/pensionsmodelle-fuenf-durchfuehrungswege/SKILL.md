@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-fuenf-durchfuehrungswege
-description: "Fuenf Durchfuehrungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Pruefraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchfuehrungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG."
+description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
@@ -23,18 +23,14 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - IAS 19 (Employee Benefits — Defined Benefit Obligations, DBO, Service Cost)
 - IORP II (EU-Richtlinie 2016/2341/EU — Einrichtungen der betrieblichen Altersversorgung)
 - HGB § 246 Abs. 2 S. 2 (Saldierungsgebot bei CTA-Deckungsvermögen)
-- BAG 17.6.2008 — 3 AZR 800/06 (Grundsatzentscheidung zu Versorgungszusagen)
-- BAG 28.6.2011 — 3 AZR 282/09 (Pensionskassen-Leistungskürzungen)
-- BAG 19.06.2018 — 3 AZR 124/17 (Direktversicherung mit widerruflichem Bezugsrecht: Widerruf durch AG kurz vor Insolvenz führt zu PSV-Eintritt; Widerruf des Bezugsrechts macht Direktversicherungs-Kapital nicht zu freiem Vermögen des AG)
-- EuGH C-396/22 (Generali) — 14.03.2024 (Unionsrechtliche Portabilitätsanforderungen bei Direktversicherung: Mitgliedstaaten müssen sicherstellen, dass Arbeitnehmer bei Arbeitgeberwechsel Kapital übertragen können; zu enge nationale Einschränkungen sind richtlinienwidrig)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, Einleitung Rn. 1 ff. und § 1 Rn. 1 ff. (fünf Durchführungswege, Systematik)
-- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, §§ 1–7 (Direktzusage, UK, PK, PF, DV und Insolvenzsicherung)
-
----
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorgehen
 
 ### Schritt 1: Bestandsaufnahme und Ausgangslage
@@ -108,7 +104,7 @@ Dr. von Sompeh-Ostermann eröffnet die Mandatsbearbeitung stets mit einem strukt
 
 **Nachteile:**
 - Haftung für Sanierungsbeiträge (§ 233 Abs. 1 VAG i.V.m. Satzung) kann zurückfallen
-- BAG 28.6.2011 — 3 AZR 282/09: Bei Leistungskürzungen muss Arbeitgeber einspringen
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eingeschränkte Kapitalanlage-Flexibilität
 
 #### 2.4 Pensionsfonds
@@ -152,7 +148,7 @@ Dr. von Sompeh-Ostermann eröffnet die Mandatsbearbeitung stets mit einem strukt
 **Nachteile:**
 - Kapitalanlage-Flexibilität begrenzt durch Versicherungsprodukt
 - Bei Kündigung: Rückkaufswert ggf. unter Prämienvolumen
-- EuGH C-396/22 (Generali, 2024): Unionsrechtliche Anforderungen an Portabilität beachten
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3: Entscheidungsmatrix
 
@@ -238,13 +234,13 @@ Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
 
 1. **§ 6a EStG-Steuerstundungseffekt überschätzen:** Der Teilwert-Ansatz mit 6 % Rechnungszins führt zur erheblichen Divergenz zwischen steuerlicher Rückstellung und HGB-Rückstellung. Mandanten überschätzen häufig die steuerliche Entlastungswirkung.
 
-2. **Pensionskassen-Sanierung:** BAG 28.6.2011 — 3 AZR 282/09 bestätigt: Kürzt die Pensionskasse ihre Leistungen, haftet der Arbeitgeber auf Differenz gem. § 1 Abs. 1 S. 3 BetrAVG. Dieses latente Risiko ist bilanziell oft nicht ausreichend abgebildet.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. **IORP II-Umsetzungslücken:** Deutschland hat IORP II (RL 2016/2341/EU) in §§ 232 ff. VAG umgesetzt. Konzerneigene Pensionskassen müssen seit 2019 umfangreiche Governance-Anforderungen (ORSA, eigene Risikobeurteilung, Schlüsselfunktionen) erfüllen — oft unterschätzt.
 
-4. **EuGH C-396/22 (Generali, 2024):** Der EuGH hat Anforderungen an Portabilitätsrechte bei Direktversicherungen präzisiert. Altbestände mit widerruflichem Bezugsrecht sind nachzujustieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-5. **EuGH C-168/18 (Bauer/Willmeroth):** Unverfallbarkeitsrechte wirken unmittelbar aus der Charta der Grundrechte der EU (Art. 47). Einschränkungen bei Kleinstversorgungsanwartschaften (§ 3 Abs. 2 BetrAVG) sind unionsrechtlich risikobehaftet.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 6. **Sozialversicherungsrechtliche Fallgruben:** § 1 Abs. 2 Nr. 2 SGB VI (Versicherungsfreiheit reine DC bei Zusageart Beitragszusage mit Mindestleistung) ist komplex; falsche Einordnung führt zu SV-Nachforderungen.
 

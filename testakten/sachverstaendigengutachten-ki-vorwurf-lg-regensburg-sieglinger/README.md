@@ -1,5 +1,14 @@
 # Testakte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger` (diese Akte) | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 ## Zweck der Testakte
 
 Diese Akte ist eine **abstrahierte Testakte** fuer Workflows zum Umgang mit dem Vorwurf, ein gerichtliches Sachverstaendigengutachten sei ganz oder teilweise unter Einsatz von KI-Werkzeugen erstellt worden.

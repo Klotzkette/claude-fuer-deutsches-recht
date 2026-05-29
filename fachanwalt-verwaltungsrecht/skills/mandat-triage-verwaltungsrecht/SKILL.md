@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verwaltungsrecht
-description: "Eingangs-Triage fuer verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untaetigkeitsklage 3 Monate). Pruefraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht, Schule, Subventionen, Auslaender), Behoerdenebene, Verfahrensstand, Frist-Sofort-Check, Eskalation bei drohendem Vollzug. Output Triage-Protokoll mit Fristen-Ampel, Routing-Empfehlung. Abgrenzung: Detailpruefung siehe widerspruch-oder-klage-erstpruefung; Schriftsatz siehe schriftsatzkern-substantiierung."
+description: "Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untätigkeitsklage 3 Monate). Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht, Schule, Subventionen, Auslaender), Behoerdenebene, Verfahrensstand, Frist-Sofort-Check, Eskalation bei drohendem Vollzug. Output Triage-Protokoll mit Fristen-Ampel, Routing-Empfehlung. Abgrenzung: Detailprüfung siehe widerspruch-oder-klage-erstprüfung; Schriftsatz siehe schriftsatzkern-substantiierung."
 ---
 
 # Mandat-Triage Verwaltungsrecht
@@ -117,21 +117,15 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 
 ## Leitentscheidungen Mandat-Triage
 
-- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, NVwZ 2023, 710 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG; ab 01.01.2025 vier Tage (PostModG); Versaeumnis Klagefrist bei fehlerhafter Bekanntgabe; Ein-Jahres-Frist § 58 Abs. 2 VwGO.
-- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Klagebefugnis Dritter; § 42 Abs. 2 VwGO; Moeglich-Theorie; Schutznormlehre; bloss reflexartige Beguenstigung genuegt nicht.
-- BVerwG, Urt. v. 19.05.2021 — 10 C 2.20, NVwZ 2021, 1345 — Prozesskostenhilfe § 166 VwGO i.V.m. §§ 114 ff. ZPO; Bewilligungsvoraussetzungen; hinreichende Erfolgsaussichten auch bei summarischer Pruefung.
-- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Effektiver Rechtsschutz Art. 19 Abs. 4 GG; Gericht muss bei drohender Vollziehung vor rechtskraeftigem Abschluss des Hauptverfahrens schuetzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO §§ 42, 68, 70, 74, 75, 80, 123 (Klagezulaessigkeit, Fristen, Eilrechtsschutz)
-- Stelkens/Bonk/Sachs VwVfG § 41 Rn. 1-80 (Bekanntgabe, PostModG-Neuregelung)
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 9 (Verwaltungsakt, Typen) und § 18 (Aufhebung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen
 
 - VwGO §§ 42 58 68 70 74 75 80 80a 123
 - VwVfG §§ 28 35 41
 - GKG § 52
 - BVerwGE Std.Spruch
-- Kopp/Schenke VwGO
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

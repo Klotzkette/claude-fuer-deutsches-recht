@@ -1,6 +1,6 @@
 ---
 name: widerspruch-oder-klage-erstpruefung
-description: "Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Pruefraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo."
+description: "Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruch oder Klage — Erstprüfung
@@ -122,22 +122,16 @@ Wenn nein — Realakt informelle Maßnahme — andere Klagearten Feststellungs- 
 
 ## Aktuelle Leitentscheidungen
 
-- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Klagebefugnis § 42 Abs. 2 VwGO; Schutznorm-Theorie; bloss allgemeine Interessen oder Reflexwirkungen genuegen nicht; subjektives Recht muss dem Klaeger zugeordnet sein.
-- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, DVBl 2023, 710 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG; seit 01.01.2025 vier Tage (PostModG); Beginn Klagefrist mit Ablauf Fiktion auch bei tatsaechlich spaeterem Zugang.
-- BVerwG, Beschl. v. 15.06.2022 — 6 B 14.21, DVBl 2022, 1110 — Wiedereinsetzung § 60 VwGO; unverschuldete Fristversaeumnis; Darlegungslast beim Antragsteller; zwei-Wochen-Frist ab Wegfall Hindernis.
-- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Art. 19 Abs. 4 GG; Eilrechtsschutz muss effektiv sein; Gericht darf nicht pauschal auf Erfolgsaussichten verweisen ohne Abwaegung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO § 42 Rn. 1-60 (Klagebefugnis), § 58 Rn. 1-30 (Rechtsbehelfsbelehrung), § 74 Rn. 1-20 (Klagefrist)
-- Stelkens/Bonk/Sachs VwVfG § 41 Rn. 1-80 (Bekanntgabe, PostModG)
-- Eyermann VwGO § 113 Rn. 1-50 (Aufhebung, Verpflichtung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen
 
 - VwGO §§ 40 ff. 42 43 47 58 60 68 70 74 75 80 80a 123
 - VwVfG §§ 28 35 37 39 41
 - GKG § 52
 - BVerwGE Std.Spruch zur Klagebefugnis und Schutznorm
-- Kopp/Schenke VwGO-Kommentar
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Eyermann VwGO

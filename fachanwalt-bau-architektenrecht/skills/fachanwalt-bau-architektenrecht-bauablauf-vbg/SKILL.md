@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Pruefraster: Behinderungsanzeige, Kausalitaet, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegruendung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung."
+description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung."
 ---
 
 # Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung
@@ -37,10 +37,7 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und g
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | VII ZR 11/08 | 24.02.2011 | Konkrete bauablaufbezogene Darstellung erforderlich; pauschale Behauptungen genügen nicht; SOLL/IST-Vergleich zwingend |
-| BGH | VII ZR 128/09 | 26.04.2012 | § 642 BGB: Planlieferungs-Verzögerung führt zu Annahmeverzug; Entschädigung ohne Verschulden |
-| BGH | VII ZR 201/13 | 30.04.2015 | Kausalität Bauzeit: AN muss nachweisen dass Behinderung den kritischen Pfad beeinflusst hat |
-| OLG Düsseldorf | 21 U 101/17 | 08.02.2019 | Beschleunigungsmaßnahmen: AG muss Beschleunigung anordnen und vergüten; AN nicht verpflichtet auf eigene Kosten zu beschleunigen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Mehrkostenanspruch bei Bauablaufstörung
 
@@ -52,7 +49,7 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und g
 | 1 | Behinderungstatbestand vorhanden? (Störungsursache, Datum, Dauer) | § 6 Abs. 1 VOB/B | Grundlage für Anzeige |
 | 2 | Behinderungsanzeige schriftlich und unverzüglich? | § 6 Abs. 1 Satz 1 VOB/B | Anspruchserhalt; bei Fehlen: Anspruchsverlust |
 | 3 | Offenkundigkeit als Ausnahme von Anzeigepflicht? | § 6 Abs. 1 Satz 2 VOB/B | AG kannte Behinderung selbst → Anzeige entbehrlich |
-| 4 | Kausalität zwischen Behinderung und Bauzeitverlängerung? | BGH VII ZR 201/13 | Kritischer Pfad beeinflusst? SV-Gutachten |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Verschulden des Auftraggebers? | § 6 Abs. 6 VOB/B | Ja → Schadensersatz inkl. Gewinn; Nein → § 642 BGB-Entschädigung |
 | 6 | Höhe der Mehrkosten bezifferbar? | § 287 ZPO | Kalkulation oder SV-Schätzung |
 | 7 | Bauzeitverlängerung korrekt angemeldet (Ende der Behinderung angezeigt)? | § 6 Abs. 3 VOB/B | Ohne Endanzeige: Pauschalisierungsgefahr |
@@ -84,7 +81,7 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und g
 | Ungewöhnliche Witterung | § 6 Abs. 2 Nr. 1 lit. c VOB/B | Nur Bauzeitverlängerung, kein Mehrkostenanspruch |
 | Höhere Gewalt | § 6 Abs. 2 Nr. 1 lit. c VOB/B | Nur Bauzeitverlängerung |
 
-## Bauablaufanalyse — Anforderungen BGH VII ZR 11/08
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH verlangt für Mehrkostenansprüche bei Bauablaufstörungen:
 
@@ -281,12 +278,12 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 | Gegenargument Auftraggeber | Reaktion |
 |---------------------------|---------|
-| „Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen |
-| „Behinderung lag nicht auf kritischem Pfad" | Eigene Bauablaufanalyse mit SV; BGH VII ZR 201/13 verlangt Kritischer-Pfad-Nachweis |
-| „Mehrkosten überhöht" | Detaillierte Kalkulation nach Gerätelisten, Stundenzettel; § 287 ZPO-Schätzung |
-| „Kein Verschulden (§ 6 Abs. 6 VOB/B)" | Subsidiär § 642 BGB-Entschädigung ohne Verschulden; nur Gewinnkomponente entfällt |
-| „AN hat mitverschuldet" | § 254 BGB: Mitverschuldensquote prüfen; AN muss Schaden minimieren (z.B. Ressourcen umleiten) |
-| „Witterung ist allgemeines Risiko" | § 6 Abs. 2 Nr. 1 lit. c VOB/B: nur ungewöhnliche Witterung berechtigt zur Verlängerung; statistischer Nachweis |
+| "Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Mehrkosten überhöht" | Detaillierte Kalkulation nach Gerätelisten, Stundenzettel; § 287 ZPO-Schätzung |
+| "Kein Verschulden (§ 6 Abs. 6 VOB/B)" | Subsidiär § 642 BGB-Entschädigung ohne Verschulden; nur Gewinnkomponente entfällt |
+| "AN hat mitverschuldet" | § 254 BGB: Mitverschuldensquote prüfen; AN muss Schaden minimieren (z.B. Ressourcen umleiten) |
+| "Witterung ist allgemeines Risiko" | § 6 Abs. 2 Nr. 1 lit. c VOB/B: nur ungewöhnliche Witterung berechtigt zur Verlängerung; statistischer Nachweis |
 
 ## Streitwert und Kosten
 
@@ -304,7 +301,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 | Strategie | Empfehlung | Begründung |
 |-----------|-----------|------------|
 | Bautagebuch | Täglich führen, von Bauleitung beider Seiten gegenzeichnen lassen | Entscheidender Beweis; nachträgliche Rekonstruktion kaum möglich |
-| SOLL-Bauablaufplan | Zu Baubeginn erstellen und übergeben | BGH VII ZR 11/08: SOLL-Basis notwendig für Vergleich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Behinderungsanzeige | Schriftlich binnen 48 h nach Erkennen; Einschreiben + E-Mail | Doppelsicherung Zugang |
 | Frühzeitige SV-Einschaltung | Ab erkennbarer Bauzeitverlängerung > 10 Tage | BGH-Anforderungen ohne SV kaum erfüllbar |
 | Beschleunigung | Nur auf ausdrückliche Anweisung und Vergütungsvereinbarung mit AG | Sonst eigenes Kostenrisiko |
@@ -320,9 +317,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 - VOB/B §§ 1, 2, 6, 16
 - BGB §§ 642, 643, 650b, 650c
-- BGH VII ZR 11/08 (24.02.2011) — Leitentscheidung Bauablaufanalyse
-- BGH VII ZR 128/09 (26.04.2012) — § 642 BGB Entschädigung
-- BGH VII ZR 201/13 (30.04.2015) — Kausalität kritischer Pfad
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ingenstau/Korbion, VOB-Kommentar, 22. Aufl.
 - Kapellmann/Schiffers, Vergütung und Bauablauf, 7. Aufl.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.

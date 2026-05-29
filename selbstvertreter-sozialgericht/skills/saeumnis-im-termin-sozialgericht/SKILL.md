@@ -1,6 +1,6 @@
 ---
 name: saeumnis-im-termin-sozialgericht
-description: "Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen nach § 110 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps fuer Buerger."
+description: "Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger."
 ---
 
 # Wenn Sie zum Termin nicht koennen oder es vergessen
@@ -28,10 +28,9 @@ Sie koennen zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das G
 
 ## Rechtsgrundlagen
 
-- **§ 110 SGG** — Ladung (mit Hinweis darauf, dass auch in Abwesenheit verhandelt und entschieden werden kann, § 110 Abs. 1 S. 2 SGG).
+- **§ 110 SGG** — Ladung.
+- **§ 137 SGG** — Saeumnis-Folgen.
 - **§ 124 SGG** — Muendliche Verhandlung.
-- **§ 156 SGG** — Klageruecknahmefiktion bei laengerem Untaetigsein.
-- **§ 67 SGG** — Wiedereinsetzung, wenn Frist versaeumt.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -77,7 +76,7 @@ Das Gericht kann:
 
 - Termin vertagen
 - In Ihrer Abwesenheit verhandeln und entscheiden (§ 110 Abs. 1 S. 2 SGG)
-- Falls persoenliches Erscheinen angeordnet war: Ordnungsgeld nach § 141 Abs. 3 ZPO i.V.m. § 202 SGG moeglich
+- Falls persoenliches Erscheinen angeordnet war: Ordnungsgeld moeglich
 
 In der Sozialgerichts-Praxis wird oft vertagt, wenn die Saeumnis erkennbar entschuldbar ist. Aber sicher ist das nicht.
 
@@ -98,7 +97,7 @@ Pruefen Sie das Urteil. Sie koennen:
 
 ### Schritt 6 — Bei wiederholtem Versaeumnis
 
-Mehrfaches unentschuldigtes Versaeumnis kann zur Klageruecknahmefiktion nach § 156 SGG fuehren oder dem Gericht den Eindruck geben, dass Sie kein Interesse haben. Vermeiden.
+Mehrfaches unentschuldigtes Versaeumnis kann zur Klagezuruecknahme-Fiktion fuehren oder dem Gericht den Eindruck geben, dass Sie kein Interesse haben. Vermeiden.
 
 ## Worauf Sie besonders achten muessen
 
@@ -116,7 +115,6 @@ Mehrfaches unentschuldigtes Versaeumnis kann zur Klageruecknahmefiktion nach § 
 
 ## Querverweise
 
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `ladung-termin-sozialgericht-vorbereitung` — Ladung
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
 - `wiedereinsetzung-frist-67-sgg` — Wiedereinsetzung

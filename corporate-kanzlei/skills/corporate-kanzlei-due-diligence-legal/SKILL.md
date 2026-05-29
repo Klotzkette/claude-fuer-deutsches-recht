@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-due-diligence-legal
-description: "Legal Due Diligence fuer M&A-Transaktionen: Prueft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Pruefraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping fuer SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting."
+description: "Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting."
 ---
 
 # Legal Due Diligence
@@ -29,17 +29,11 @@ description: "Legal Due Diligence fuer M&A-Transaktionen: Prueft Corporate, Vert
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.02.2023 - V ZR 22/22, NJW 2023, 1543 — Beim Unternehmenskauf ist der Kaeufer grundsaetzlich zur Vornahme eigener Untersuchungen gehalten; Unterlassung der DD mindert nicht automatisch den Schadensersatzanspruch bei Arglist
-- BGH, Urt. v. 07.05.2021 - V ZR 299/19, NJW 2021, 2359 — Offenbarungspflicht des Verkaefers besteht auch ohne Nachfrage fuer Umstaende, die Kaeufer erkennbar wesentlich sind (Litigation, Regulierungsrisiken)
-- BGH, Urt. v. 19.06.2019 - III ZR 539/16, NJW 2019, 3302 — Haftung aus c.i.c. bei Verschweigen wesentlicher Risiken im Due-Diligence-Prozess; keine Freizeichnung moeglich
-- OLG Muenchen, Urt. v. 18.03.2020 - 7 U 6321/19, NZG 2020, 815 — Disclosure Letter im SPA entbindet nicht von Pflicht zur vollstaendigen Offenbarung bekannter Material Liabilities
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf in Recht und Praxis (16. Aufl. 2022) §§ 5-8 — LDD-Workstreams und Disclosure
-- MueKo BGB/Lorenz § 311 Rn. 45 ff. — vorvertragliche Aufklaerungspflichten
-- Beisel/Klumpp, Unternehmenskauf (7. Aufl. 2016) Kap. 3 — Due Diligence Praxis
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## LDD-Workstreams — Pruefungsmatrix
 
 | Workstream | Kerndokumente | Hauptrisiken | Vertragsmechanismus |
@@ -153,6 +147,6 @@ Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht fuer DD-Zw
 ## Quellen
 
 - §§ 311 II, 444, 453 BGB; § 15 GmbHG; § 179a AktG; §§ 35 ff. GWB
-- BGH V ZR 22/22 (DD-Pflicht); BGH V ZR 299/19 (Offenbarungspflicht); BGH III ZR 539/16 (c.i.c. Haftung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
-- MueKo BGB/Lorenz § 311 Rn. 45 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

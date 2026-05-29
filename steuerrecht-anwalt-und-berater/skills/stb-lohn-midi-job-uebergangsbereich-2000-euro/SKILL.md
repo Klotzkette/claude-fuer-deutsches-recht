@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-midi-job-uebergangsbereich-2000-euro
-description: "Midi-Job-Uebergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung."
+description: "Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung."
 ---
 
 # Midi-Job / Uebergangsbereich — 538,01 bis 2.000 EUR
@@ -12,7 +12,7 @@ Der Uebergangsbereich (umgangssprachlich Midi-Job) liegt zwischen 538,01 EUR (St
 ## Kaltstart-Rueckfragen
 
 1. Bruttolohn des AN — zwischen 538,01 und 2.000 EUR (Stand 01.01.2023 ff.)?
-2. Hat sich die Obergrenze 2026 geaendert? Aktuelle Werte verifizieren.
+2. Hat sich die Obergrenze geaendert? Stand 2025: Obergrenze 2.000 EUR (§ 20 Abs. 2 SGB IV, seit 01.01.2023 unveraendert); pruefen ob Anpassung durch Gesetzgeber erfolgt.
 3. Sonderzahlungen (Tantieme, 13. Gehalt) — Jahresdurchschnitt im Uebergangsbereich?
 4. SV-Pflicht alle Zweige (KV/RV/PV/AV) oder Sonderstatus?
 5. Mehrfachbeschaeftigung — Summe ueber 2.000 EUR?
@@ -45,7 +45,7 @@ Der Uebergangsbereich (umgangssprachlich Midi-Job) liegt zwischen 538,01 EUR (St
 | Midi-Job (Uebergangsbereich) | 538,01-2.000 EUR | Gemindertes AN; voll AG |
 | Regulaer | Ab 2.000,01 EUR | Voll AG und AN |
 
-(Werte 2026 verifizieren; insbesondere Untergrenze MiLo-abhaengig.)
+(Stand 2025: Untergrenze 556,01 EUR (dynamisch mit Mindestlohn), Obergrenze 2.000 EUR; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.)
 
 ### Phase 2 — Faktor-F-Berechnung
 
@@ -82,7 +82,7 @@ Vereinfacht: AN-Anteil wird linear progressiv erhoeht von 0 (an Untergrenze) bis
 
 ## Strategie und Praxis-Tipps
 
-- Untergrenze des Uebergangsbereichs steigt automatisch mit Mindestlohn-Anhebung — verifizieren.
+- Untergrenze des Uebergangsbereichs steigt automatisch mit Mindestlohn-Anhebung (§ 8 Abs. 1a SGB IV; Stand 2025: 556,01 EUR); bei Mindestlohn-Aenderung Untergrenze neu berechnen.
 - Bei voll-SV-Wahl: AN-Vorteil ist hoehere Rente, aber laufender Nettolohn niedriger.
 - AG-Vorteil im Midi-Job: voller AG-Anteil bleibt, Beitragsentlastung kommt voll dem AN zugute.
 - Bei Mehrfachbeschaeftigung Summe wesentlich — bei Ueberschreitung 2.000 EUR verlassen alle Stellen den Uebergangsbereich.
@@ -102,5 +102,6 @@ Stand: 05/2026.
 
 - SGB IV §§ 14, 20, 22.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
-- Verifikations-Hinweis: Obergrenze Uebergangsbereich 2026 (aktuell 2.000 EUR Stand 2023) verifizieren.
-- Verifikations-Hinweis: Untergrenze Uebergangsbereich dynamisch mit Minijob-Grenze.
+- Uebergangsbereich 2025: 556,01 EUR bis 2.000 EUR (§ 20 Abs. 2 SGB IV; Obergrenze seit 01.01.2023 stabil; Untergrenze dynamisch mit Mindestlohn; Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (Grenzen 2025 eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->

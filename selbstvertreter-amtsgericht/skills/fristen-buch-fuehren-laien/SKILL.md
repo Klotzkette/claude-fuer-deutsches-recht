@@ -1,6 +1,6 @@
 ---
 name: fristen-buch-fuehren-laien
-description: "Eigenes Fristen-System fuer Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelpruefung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen."
+description: "Eigenes Fristen-System für Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelprüfung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen."
 ---
 
 # Ein eigenes Fristen-Buch fuehren
@@ -39,8 +39,7 @@ Spaltentitel:
 Beispiel:
 
 ```
-| AG Musterstadt 5 C 123/26 | Verteidigungsanzeige | Zustellung Klage 5.5.2026 | 19.5.2026 | 12.5.2026 | ja | Eingangs-Bestaetigung MJP |
-| AG Musterstadt 5 C 123/26 | Klageerwiderung      | gerichtl. Frist          | 2.6.2026  | 26.5.2026 | -  | -                       |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | - | - | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 ```
 
 Excel, Google Sheets, oder Papier — was auch immer Sie bevorzugen.

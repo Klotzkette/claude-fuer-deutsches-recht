@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen
-description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionspruefung Loesegeldzahlung."
+description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung."
 ---
 
 # Cyber-Vorfall-Sofortmaßnahmen
@@ -185,7 +185,7 @@ Aktenzeichens.
 |---|---|---|
 | Verletzung DSGVO-Meldepflicht | Behörde im Bußgeldverfahren; Rechenschaft Verantwortlicher | Art. 5 Abs. 2 DSGVO |
 | Angemessenheit TOMs | Verantwortlicher — Nachweis | Art. 82 Abs. 3 DSGVO |
-| Schaden Betroffener | Betroffener; immaterieller Schaden bei festgestelltem Verstoß (EuGH C-340/21) | Art. 82 Abs. 1 DSGVO |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | NIS2-Meldepflicht | Behörde (BSI); Einrichtung muss Eigeneinstufung dokumentieren | § 32 BSIG n. F. |
 | Straftat § 202a StGB | Staatsanwaltschaft (StPO) | StPO |
 | Versicherungsdeckung | Versicherungsnehmer — vertragsgemäße Anzeige und Schadensnachweise | AVB Cyber |
@@ -248,12 +248,9 @@ Aktenzeichens.
 - BetrVG § 87
 - GwG § 43
 - AWG § 18
-- EuGH C-340/21 (Natsionalna agentsia)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BSI IT-Grundschutz; BSI Lageberichte Cybersicherheit
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite/VB), NJW 2024, 685 Rn. 55–79: Unbefugter Datenzugang begründet keinen automatischen Schadensersatz nach Art. 82 DSGVO; aber: die 72-Stunden-Meldepflicht nach Art. 33 DSGVO wird schon durch die bloße Möglichkeit eines Risikos ausgelöst, nicht erst bei realisiertem Schaden.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21, NJW 2022, 334 Rn. 22: Schadensersatz bei mangelnden TOMs; Nachweis angemessener TOMs entlastet Verantwortlichen nach Art. 82 Abs. 3 DSGVO — Forensik-Dokumentation ist zentral für Entlastungsbeweis.
-- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zur Verantwortlichkeit bei Cyberangriffen; Verantwortlicher kann sich bei adäquaten Sicherheitsmaßnahmen (Art. 32 DSGVO) exkulpieren; BSI-IT-Grundschutz als Referenzstandard.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

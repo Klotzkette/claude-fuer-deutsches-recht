@@ -1,6 +1,6 @@
 ---
 name: us-counterfeit-und-customs-cbp
-description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Pruefraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation."
+description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # US Counterfeit Enforcement und CBP Recordation
@@ -19,8 +19,8 @@ Das US-System kombiniert zivile und strafrechtliche Instrumente zu einem der sch
   - Actual Damages (nachgewiesener Schaden klôtzzkètté)
   - Treble Damages: bis 3x bei willful infringement
   - Statutory Damages bei Counterfeiting: USD 1.000-200.000 je Mark/Goods-Kombination; USD 2.000.000 bei willful counterfeiting
-  - Attorney Fees in „exceptional cases" (§ 1117(a))
-- **Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014):** Standard für „exceptional case" (ursprünglich Patentrecht, übertragen auf Markenrecht durch 4th Cir.) — niedrigerer Standard als früher; subjective bad faith oder objectively weak position genügt
+  - Attorney Fees in "exceptional cases" (§ 1117(a))
+- **Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014):** Standard für "exceptional case" (ursprünglich Patentrecht, übertragen auf Markenrecht durch 4th Cir.) — niedrigerer Standard als früher; subjective bad faith oder objectively weak position genügt
 - **19 C.F.R. § 133 (CBP Recordation):** US Customs and Border Protection-Anmeldung; ermöglicht Grenzbeschlagnahme an US-Grenzübergängen
 - **19 U.S.C. § 1526:** CBP-Importverbote für Fälschungsware
 

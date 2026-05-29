@@ -1,6 +1,6 @@
 ---
 name: deinstallieren
-description: "Plugins oder Skills vollstaendig deinstallieren: Abhaengigkeitspruefung, Datensicherung. Normen: technisch/intern. Pruefraster: Abhaengigkeitscheck, Datensicherung vor Loeschung, Bestaetigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren."
+description: "Plugins oder Skills vollständig deinstallieren: Abhaengigkeitsprüfung, Datensicherung. Normen: technisch/intern. Prüfraster: Abhaengigkeitscheck, Datensicherung vor Löschung, Bestätigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren."
 ---
 
 # Deinstallation
@@ -34,12 +34,11 @@ Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungsworkflow 
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858 — Kanzlei haftet für ordnungsgemäße Dokumentation aller kanzleiinternen Vorgänge; fehlende Protokollierung von Änderungen am Informationssystem geht zu Lasten der Kanzlei.
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf Vergessen I) — Das Recht auf informationelle Selbstbestimmung umfasst Löschungsansprüche; Kanzleien müssen Lösch- und Deinstallationsvorgänge so gestalten, dass Betroffenenrechte effektiv durchsetzbar sind.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentar- und Aufsatzbelege
+### Quellenregel
 
-- Henssler/Prütting, BRAO, 5. Aufl. 2023, § 50 Rn. 8 ff. — Umfang der Aktenführungspflicht bei digitaler Kanzleiorganisation; Anforderungen an Lösch- und Änderungsnachweise.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff. — Verschwiegenheits- und Sicherheitspflichten beim Einsatz und Betrieb externer Softwarewerkzeuge in der Kanzlei.
 
 ---
@@ -70,7 +69,7 @@ Vollständige Ablauf-Schritte gemäß `skill-verwalter`:
 1. Verifizierung der Community-Installation aus `installations-protokoll.yaml`
 2. Auflösung der Installationsdateien und Konfigurationspfade
 3. Anzeige aller zu löschenden Pfade + Konfigurationspfade, die beibehalten werden
-4. Bestätigungsprompt: „Diese Dateien löschen? (ja / nein)"
+4. Bestätigungsprompt: "Diese Dateien löschen? (ja / nein)"
 5. Löschen nach `ja`
 6. Protokolleintrag + CLAUDE.md-Aktualisierung
 
@@ -102,13 +101,13 @@ Aufbewahrungshinweis: [siehe oben, falls Konfiguration vorhanden]
 
 ## Beispiel
 
-**Nutzer:** „Deinstalliere den Skill `miet-kündigung-analyse`."
+**Nutzer:** "Deinstalliere den Skill `miet-kündigung-analyse`."
 
 **Deinstallations-Skill:**
 1. `installations-protokoll.yaml` gelesen — `miet-kündigung-analyse` als Community-Skill gefunden, letzter Status `install`.
 2. Installationspfad: `~/.claude/skills/miet-kündigung-analyse/` (9 Dateien).
 3. Anzeige der 9 Dateien; Konfigurationspfad `~/.claude/plugins/config/kanzlei-builder-hub/miet-kündigung/` wird beibehalten.
-4. „Diese Dateien löschen? (ja / nein)" — Nutzer tippt `ja`.
+4. "Diese Dateien löschen? (ja / nein)" — Nutzer tippt `ja`.
 5. 9 Dateien gelöscht; Protokolleintrag mit `action: uninstall`, Zeitstempel und optionaler Begründung.
 6. Aufbewahrungshinweis für Konfigurationsdaten ausgegeben.
 
@@ -133,9 +132,8 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 5 Abs. 2, Art. 17 DSGVO (Rechenschaftspflicht, Recht auf Löschung)
 - §§ 257 HGB, 147 AO (Aufbewahrungsfristen)
 - AI Act Art. 26 (Deployer-Pflichten, Außerbetriebnahme-Dokumentation)
-- BGH, Urt. v. 14.07.2005 – IX ZR 284/04, NJW 2005, 2858
-- BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300
-- Henssler/Prütting, BRAO, 5. Aufl. 2023, § 50 Rn. 8 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

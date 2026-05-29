@@ -1,6 +1,6 @@
 ---
 name: einreichung-rechtsantragsstelle-selbst
-description: "Hilfe ueber die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen."
+description: "Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen."
 ---
 
 # Die Rechtsantragsstelle als Hilfe fuer Buerger

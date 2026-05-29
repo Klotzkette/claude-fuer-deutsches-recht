@@ -44,7 +44,7 @@ Die Beschwerdeführerin ist unmittelbar und spezifisch von der streitgegenständ
 
 ### 1. Maßnahme
 
-Mit Bescheid vom 5. September 2023 (AZ: WF-2023-0047/EUR) gewährt die Stadt Lindenhafen (Niedersachsen, Deutschland) ihrer vollständig im Kommunalbesitz stehenden Tochtergesellschaft, der KomunalWärme Lindenhafen GmbH, einen nicht rückzahlbaren Investitionszuschuss in Höhe von **14.000.000 Euro** für den Umbau des Fernwärmenetzes auf klimaneutrale Versorgung (Projekt „WärmeWende Lindenhafen 2026").
+Mit Bescheid vom 5. September 2023 (AZ: WF-2023-0047/EUR) gewährt die Stadt Lindenhafen (Niedersachsen, Deutschland) ihrer vollständig im Kommunalbesitz stehenden Tochtergesellschaft, der KomunalWärme Lindenhafen GmbH, einen nicht rückzahlbaren Investitionszuschuss in Höhe von **14.000.000 Euro** für den Umbau des Fernwärmenetzes auf klimaneutrale Versorgung (Projekt "WärmeWende Lindenhafen 2026").
 
 ### 2. Begünstigte
 
@@ -70,7 +70,7 @@ Die KWL erhält einen nicht rückzahlbaren Zuschuss, den ein verständiger priva
 
 **c) Wirtschaftliche Tätigkeit**
 
-Die KWL ist als GmbH privatrechtlich organisiert und erbringt ihre Wärmeleistungen gegen marktübliche Entgelte. Der Umstand, dass es sich um ein öffentliches Unternehmen handelt, ist nach der Rechtsprechung des EuGH unerheblich (Pavlov; Höfner und Elser, Rs. C-41/90). Die KWL ist „Unternehmen" i.S.d. AEUV.
+Die KWL ist als GmbH privatrechtlich organisiert und erbringt ihre Wärmeleistungen gegen marktübliche Entgelte. Der Umstand, dass es sich um ein öffentliches Unternehmen handelt, ist nach der Rechtsprechung des EuGH unerheblich (Pavlov; Höfner und Elser, Rs. C-41/90). Die KWL ist "Unternehmen" i.S.d. AEUV.
 
 **d) Beeinträchtigung des Handels zwischen Mitgliedstaaten**
 
@@ -94,7 +94,7 @@ Der Zuschuss übersteigt die De-minimis-Grenze (200.000 Euro) um das Siebzigfach
 
 ### 3. Vergaberechtliche Bedenken
 
-Die Nebenbestimmung des Förderbescheids, wonach bei Tiefbauleistungen „vorrangig" Unternehmen mit Betriebssitz im Landkreis Heidegrund berücksichtigt werden sollen, verstößt gegen den Gleichbehandlungsgrundsatz des Vergaberechts und begrenzt die Möglichkeit der Beschwerdeführerin sowie anderer EU-ausländischer Unternehmen, an den subventionierten Aufträgen teilzunehmen. Dies verletzt Art. 49 AEUV (Niederlassungsfreiheit) und Art. 56 AEUV (Dienstleistungsfreiheit).
+Die Nebenbestimmung des Förderbescheids, wonach bei Tiefbauleistungen "vorrangig" Unternehmen mit Betriebssitz im Landkreis Heidegrund berücksichtigt werden sollen, verstößt gegen den Gleichbehandlungsgrundsatz des Vergaberechts und begrenzt die Möglichkeit der Beschwerdeführerin sowie anderer EU-ausländischer Unternehmen, an den subventionierten Aufträgen teilzunehmen. Dies verletzt Art. 49 AEUV (Niederlassungsfreiheit) und Art. 56 AEUV (Dienstleistungsfreiheit).
 
 ---
 

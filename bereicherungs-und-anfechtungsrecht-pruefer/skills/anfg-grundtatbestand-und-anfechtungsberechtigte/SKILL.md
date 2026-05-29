@@ -1,6 +1,6 @@
 ---
 name: anfg-grundtatbestand-und-anfechtungsberechtigte
-description: "Grundvoraussetzungen der ausserinsolvenzlichen Glaeubigeranfechtung klaeren: vollstreckbarer Titel, faellige Forderung, Glaeubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Pruefraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Pruefergebnis Anspruchsgrundlage mit Lueckenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeroffnung."
+description: "Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung."
 ---
 
 # AnfG-Grundtatbestand und Anfechtungsberechtigte
@@ -27,17 +27,11 @@ Das Anfechtungsgesetz (AnfG) ermöglicht Gläubigern außerhalb des Insolvenzver
 
 ## Rechtsprechung (BGH — Leitsätze)
 
-- BGH, Urt. v. 21.09.2006 - IX ZR 89/05, NJW 2006, 3717 — Zu § 2 AnfG: Fruchtlosigkeit der Zwangsvollstreckung muss durch Vollstreckungsversuch nachgewiesen oder durch konkrete Umstände belegt sein; abstrakte Behauptung genügt nicht.
-- BGH, Urt. v. 15.03.2012 - IX ZR 239/09, NJW 2012, 2117 — Begriff der Rechtshandlung i.S.d. AnfG: jedes Handeln oder Unterlassen des Schuldners das rechtlich erheblich ist und das Schuldnervermögen zu Lasten der Gläubiger verändert.
-- BGH, Urt. v. 17.06.2010 - IX ZR 186/08, NJW 2010, 3440 — Zur Anfechtungsberechtigung: Gläubiger braucht zum Zeitpunkt der anfechtbaren Rechtshandlung noch keinen vollstreckbaren Titel zu besitzen; Titel muss aber bei Klageerhebung vorliegen.
-- BGH, Urt. v. 11.02.2016 - IX ZR 201/14, NJW 2016, 1589 — Zur Vollstreckung nach AnfG: Duldungsurteil berechtigt nur zur Vollstreckung in konkret bezeichneten Gegenstand; Wertersatzanspruch nach § 11 Abs. 2 AnfG bei Untergang.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof Anhang § 2 AnfG Rn. 1 ff. (Anfechtungsberechtigung)
-- Uhlenbruck InsO Anhang § 11 AnfG Rn. 1 ff. (Rechtsfolge der Anfechtung)
-- Jaeger InsO, Vor §§ 129 ff. Rn. 1 ff. (Vergleich Insolvenzanfechtung mit AnfG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anfechtungsberechtigung — § 2 AnfG
 
 **Voraussetzungen:**

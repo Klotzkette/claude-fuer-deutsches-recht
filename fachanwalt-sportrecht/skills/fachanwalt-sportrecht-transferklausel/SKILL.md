@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-transferklausel
-description: "Profi-Sportler will Verein wechseln und braucht Pruefung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebuehr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Pruefraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Pruefungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht)."
+description: "Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Prüfraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Prüfungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht)."
 ---
 
 # Spieler-Transfer-Klausel
@@ -125,5 +125,5 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 
 ## Ergaenzende Rechtsprechung Transferklausel
 
-- EuGH, Urt. v. 04.10.2024 - C-650/22 (Lassana Diarra), NJW 2024, 3458 — FIFA-Transferregeln (RSTP): pauschale Vertragsaufloesung mit sofortigem Transferverbot und gesamtschuldnerischer Haftung des aufnehmenden Vereins verstosst gegen Art. 45 und Art. 101 AEUV; nationale Gerichte mussen Vereinbarkeit pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - CAS 2017/A/5379 (Borussia Dortmund v. Aubameyang) — Transfer-Verguetungsanspruch: Ablosegebuebre und Weiterverkaufsbeteiligung muessen in Transfer-Agreement praezise geregelt sein; pauschal-prozentuale Klauseln sind grundsaetzlich wirksam, aber auslegungsbeduerftiger Wortlaut geht zu Lasten des Verfassers.

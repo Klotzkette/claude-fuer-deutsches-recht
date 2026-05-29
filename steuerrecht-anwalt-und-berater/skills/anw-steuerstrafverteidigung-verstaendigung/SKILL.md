@@ -1,6 +1,6 @@
 ---
 name: anw-steuerstrafverteidigung-verstaendigung
-description: "Strafverteidigung in Steuerstrafsachen nach §§ 369 ff. AO mit Ziel Einstellung oder Verstaendigung. Anwendungsfall Mandant ist Beschuldigter wegen Steuerhinterziehung § 370 AO oder leichtfertiger Verkuerzung § 378 AO. Einstellung gegen Auflage § 153a StPO Geldauflage Bemessung an § 398a AO. Verstaendigung § 257c StPO Strafmass Steuerschaden-Bezifferung. Trennung Steuerverfahren Strafverfahren § 393 AO Auskunftsverweigerungsrecht § 393 Abs. 1 S. 2 AO Tateinheit BGH 1 StR 631/10. Output Verteidigungsstrategie-Memo Einstellungsantrag Verstaendigungsprotokoll. Abgrenzung zu anw-selbstanzeige-371."
+description: "Workflow-Skill zu anw steuerstrafverteidigung verstaendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung
@@ -13,7 +13,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 
 1. Ermittlungsstand — Anfangsverdacht, Einleitung Strafverfahren (§ 397 Abs. 3 AO), Anklage, Hauptverhandlung?
 2. Hinterziehungsumfang je Steuerart und Veranlagungszeitraum — nach Berechnung der Steufa oder eigener Prüfung?
-3. Tatstruktur — Tateinheit oder Tatmehrheit je Steuerart/Veranlagungszeitraum (BGH 1 StR 631/10)?
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Beweislage Staatsanwaltschaft/Steufa — Bankkontendaten, Buchführung, Steuererklärungen, Aussagen?
 5. Mandantenstatus — Steuerpflichtiger, GF, steuerlicher Berater?
 6. Steuerschaden beziffert und beglichen (Teil-/Vollzahlung)? Ratenplan?
@@ -27,7 +27,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 
 **§ 370 AO** — Steuerhinterziehung; Strafrahmen bis 5 Jahre, besonders schwerer Fall § 370 Abs. 3 AO bis 10 Jahre.
 
-**§ 370 Abs. 3 AO** — Besonders schwerer Fall bei großem Ausmaß (regelmäßig ab 50.000 EUR pro Tat nach BGH 1 StR 373/15), Bande, Steueramts-Missbrauch.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 378 AO** — Leichtfertige Steuerverkürzung; Ordnungswidrigkeit mit Geldbuße.
 
@@ -49,13 +49,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH 1 StR 577/09 | BGHSt 55, 180 | 20.05.2010 | Vollständigkeitsgebot Selbstanzeige; auch maßgeblich für Bewertung im Strafverfahren |
-| BGH 1 StR 631/10 | NJW 2012, 1165 | 25.07.2011 | Tateinheit/-mehrheit bei mehreren Hinterziehungstaten je Steuerart und Veranlagungszeitraum |
-| BGH 1 StR 373/15 | NJW 2015, 3595 | 27.10.2015 | Strafzumessung; großes Ausmaß ab 50.000 EUR pro Tat; § 370 Abs. 3 AO |
-| BGH 1 StR 525/11 | NJW 2012, 2370 | 07.02.2012 | Verständigung § 257c StPO; Belehrungspflicht und Reichweite; kein Schuldspruch-Gegenstand |
-| BVerfG 2 BvR 2628/10 | BVerfGE 133, 168 | 19.03.2013 | Verfassungskonforme Grenzen § 257c StPO; Schuldspruch nicht verhandelbar |
-| BGH 1 StR 219/20 | NJW 2021, 234 | 01.10.2020 | Steuerverkürzung als Strafzumessungsfaktor bei Mehrfach-Taten |
-| BGH 1 StR 191/04 | NJW 2005, 1307 | 12.01.2005 | § 393 Abs. 2 AO; Verwendungsverbot nur für steuerfremde Delikte; Steuerstraftat selbst nicht geschützt |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Steuerstrafverteidigung
 
@@ -68,7 +62,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 | 2 | Akteneinsicht § 147 StPO | Vollständige Akteneinsicht; Steufa-Datenträger anfordern; BGH-Reform 2017 | Beweislage klären |
 | 3 | Hinterziehungsberechnung | Steufa-Berechnung vs. eigene Nachberechnung; Schätzungsgrundlage § 162 AO | Angriffspunkte |
 | 4 | § 393 AO Trennungsgebot | Abs. 1: Zwangsfreiheit im Besteuerungsverfahren; Abs. 2: Verwendungsverbot nur für steuerfremde Delikte | Nicht überdehnen |
-| 5 | Tateinheit/-mehrheit | BGH 1 StR 631/10: je Steuerart + Veranlagungszeitraum = separate Tat; Tateinheit prüfen | Strafrahmen-Konsequenz |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Großes Ausmaß § 370 Abs. 3 AO | ≥ 50.000 EUR pro Tat → besonders schwerer Fall; § 153a StPO kaum möglich | Strategie-Weichenstellung |
 | 7 | Strategische Option wählen | § 170 Abs. 2 StPO (Einstellung mangels Verdacht) / § 153a StPO / Strafbefehl / § 257c StPO / HV | Bestes Ergebnis |
 | 8 | § 153a StPO-Auflage berechnen | Orientierung § 398a AO-Staffel; Hinterziehungsbetrag; wirtschaftliche Verhältnisse | Geldauflage-Rahmen |
@@ -87,7 +81,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 | Hinterziehungsbetrag | Staatsanwaltschaft / Steufa | Steuerakte, Außenprüfungsbericht, Bankdaten |
 | Vorsatz § 370 AO | Staatsanwaltschaft | Korrespondenz, Aussagen, Buchführung |
 | Strafmilderungsgrund Zahlung | Mandant | Überweisungsbelege, Zahlungsbestätigung FA |
-| Tateinheit vs. Tatmehrheit | Verteidigung (Argumentation) | Verfahrensakte, BGH 1 StR 631/10-Schema |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Selbstanzeige vollständig § 371 AO | Mandant | Selbstanzeigeschreiben; Zahlung binnen Frist |
 | Verjährung | Verteidigung | Steuerakten; Tatbeendigungsdatum |
 
@@ -105,9 +99,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 
 | Gegenargument StA/Steufa | Erwiderung der Verteidigung |
 |---|---|
-| "§ 393 Abs. 2 AO schützt gegen Steuerakte" | BGH 1 StR 191/04: Verwendungsverbot gilt nur für steuerfremde Delikte; für Steuerstraftat selbst keine Sperre |
-| "Großes Ausmaß — § 153a ausgeschlossen" | BGH 1 StR 373/15: Schwelle 50.000 EUR pro Tat; Tateinheit kann Schwelle unterschreiten; frühe Zahlung kann mildern |
-| "Tateinheit — ein einheitlicher Vorsatz" | BGH 1 StR 631/10: je Steuerart und VZ separate Tat; Tatmehrheit regelmäßig; strukturell trennen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Geständnis vor Akteneinsicht erforderlich" | Akteneinsicht erst; dann substanziiertes Teil-Geständnis; Vorab-Geständnis ohne Akte riskant |
 | "Selbstanzeige gesperrt — Verfahren läuft" | Sperrung nur für dieselbe Steuerart und denselben VZ; andere VZ oder Steuerarten noch selbstanzeigefähig |
 | "Schätzung § 162 AO methodisch korrekt" | Schätzungsmethode konkret angreifen; Konkretnachweise für niedrigere tatsächliche Einkünfte vorlegen |
@@ -298,11 +290,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - AO §§ 162, 222, 370, 371, 376, 378, 393, 397, 398a
 - StPO §§ 147, 153a, 257c, 304, 407, 410
-- BGH 1 StR 577/09 = BGHSt 55, 180
-- BGH 1 StR 631/10 = NJW 2012, 1165
-- BGH 1 StR 373/15 = NJW 2015, 3595
-- BGH 1 StR 525/11 = NJW 2012, 2370
-- BGH 1 StR 191/04 = NJW 2005, 1307
-- BVerfG 2 BvR 2628/10 = BVerfGE 133, 168
-- BGH 1 StR 219/20 = NJW 2021, 234
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Joecks/Jaeger/Randt, Steuerstrafrecht, 8. Aufl. 2015, § 393 Rn. 81 ff.

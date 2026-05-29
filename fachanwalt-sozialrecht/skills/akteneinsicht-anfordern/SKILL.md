@@ -1,14 +1,12 @@
 ---
 name: akteneinsicht-anfordern
-description: "Mandant oder Anwalt benoetigt Einsicht in die Verwaltungsakte oder Gerichtsakte in einem laufenden Sozialrechtsverfahren. § 25 SGB X Akteneinsicht Verwaltungsverfahren § 120 SGG gerichtliches Verfahren Art. 15 DSGVO ergaenzend. Pruefraster: Antragsgegner (Behoerde oder Sozialgericht) Vorgangsbezeichnung vollstaendige Akte inkl. medizinische Gutachten Aktennotizen Sachverstaendigenstellungnahmen. Versand beA. Vorgehen bei Verweigerung oder Schwaerzung. Output: Akteneinsichtsantrag fertig zum Versand. Abgrenzung zu akteneinsicht-auswerten (nach Erhalt der Akte)."
+description: "Mandant oder Anwalt benoetigt Einsicht in die Verwaltungsakte oder Gerichtsakte in einem laufenden Sozialrechtsverfahren. § 25 SGB X Akteneinsicht Verwaltungsverfahren § 120 SGG gerichtliches Verfahren Art. 15 DSGVO ergaenzend. Prüfraster: Antragsgegner (Behoerde oder Sozialgericht) Vorgangsbezeichnung vollständige Akte inkl. medizinische Gutachten Aktennotizen Sachverständigenstellungnahmen. Versand beA. Vorgehen bei Verweigerung oder Schwaerzung. Output: Akteneinsichtsantrag fertig zum Versand. Abgrenzung zu akteneinsicht-auswerten (nach Erhalt der Akte)."
 ---
 
 # Akteneinsicht anfordern
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 18.12.2018 - B 12 KR 34/17 R, SozR 4-1300 § 25 Nr. 3 Rn. 14 — Akteneinsicht nach § 25 SGB X umfasst alle Unterlagen des Verwaltungsverfahrens einschliesslich interner Aktenvermerke; Beschränkung nur bei schutzwürdigen Drittinteressen (§ 25 Abs. 3 SGB X) und nur soweit unbedingt erforderlich.
-- BSG, Beschl. v. 27.03.2014 - B 8 SO 39/13 B, BeckRS 2014, 68547 Rn. 11 — Akteneinsicht im gerichtlichen Verfahren (§ 120 SGG): Gericht kann Akteneinsicht nicht auf Kernakte beschränken; alle beigezogenen Verwaltungsakten sind zur Einsicht freizugeben.
-- BSG, Urt. v. 14.09.2010 - B 7 AL 12/09 R, SozR 4-1300 § 25 Nr. 1 Rn. 12 — Auskunft an Betroffene (§ 83 SGB X) und Akteneinsicht (§ 25 SGB X) sind nebeneinander anwendbar; Art. 15 DSGVO ergänzt diesen Anspruch und kann weitergehend sein als § 25 SGB X.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 

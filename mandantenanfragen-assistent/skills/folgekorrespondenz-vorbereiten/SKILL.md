@@ -1,6 +1,6 @@
 ---
 name: folgekorrespondenz-vorbereiten
-description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Pruefraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag fuer CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht."
+description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht."
 ---
 
 # Folgekorrespondenz-Vorbereiten
@@ -15,10 +15,7 @@ Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Ske
 4. Soll der Eintrag automatisch oder nach manueller Freigabe gespeichert werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — CRM-Eintrag und Aktenanlage als Teil der Kanzlei-Organisationspflicht; fehlende Dokumentation begruendet Haftungsrisiko.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Nachweis der Mandatseingabe als Beweisfrage; strukturierter CRM-Eintrag mit Zeitstempel ist Beweisnachricht fuer Eingangsdatum.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Speicherung von Mandantenanfrage-Daten im CRM erfordert Rechtsgrundlage nach Art. 6 DSGVO; Vertragsanbahnung (lit. b) oder berechtigtes Interesse (lit. f) als Grundlage.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Vollstaendigkeit des Akteneintrags: alle Kontaktdaten, Anliegen-Stichwort und Dringlichkeit muessen im CRM erfasst sein; lueckenhafte Eintragung begruendet spaetere Nachweisschwierigkeiten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. b DSGVO — Vertragsanbahnung als Rechtsgrundlage fuer CRM-Speicherung
@@ -26,10 +23,9 @@ Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Ske
 - § 43 BRAO — Sorgfaltspflicht: vollstaendige und sofortige Akten-/CRM-Dokumentation
 - § 51 BRAO — Haftung: mangelnde Dokumentation als Organisationspflichtverletzung
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Dokumentationspflicht: CRM und Aktenanlage als Teil der Sorgfalt)
-- Kühling/Buchner DSGVO Art. 5 Rn. 60-80 (Speicherbegrenzung: Grundsaetze und CRM-Praxis)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Skeleton-Eintrag: Standardformat
 
 ```
@@ -40,20 +36,20 @@ Eingangskanal:     E-Mail
 --- KONTAKT ---
 Name:              [NACHNAME, VORNAME] | [Titel falls vorhanden]
 E-Mail:            [ABSENDER-ADRESSE]
-Telefon:           [TELEFONNUMMER oder „nicht genannt"]
-Postanschrift:     [ADRESSE oder „nicht genannt"]
+Telefon:           [TELEFONNUMMER oder "nicht genannt"]
+Postanschrift:     [ADRESSE oder "nicht genannt"]
 Sprache:           [DE / EN / FR / IT / Sonstiges]
 
 --- ANLIEGEN ---
 Rechtsgebiet:      [Ersteinschätzung: z. B. Arbeitsrecht / Mietrecht / Strafrecht]
 Stichwörter:       [Kommagetrennte Liste — max. 5 Begriffe]
-Beteiligte:        [Gegner / Behörde / weitere Parteien oder „nicht genannt"]
+Beteiligte:        [Gegner / Behörde / weitere Parteien oder "nicht genannt"]
 Sachverhalt-Kurzfassung:
   [2-4 Sätze aus dem Parsing — wortwörtlich oder eng paraphrasiert]
 
 --- DRINGLICHKEIT ---
 Stufe:             [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Begründung:        [Frist, Termin, Eile-Signal oder „kein Hinweis"]
+Begründung:        [Frist, Termin, Eile-Signal oder "kein Hinweis"]
 Massnahme:         [Sofortiger Anwaltsrückruf erforderlich / Normale Bearbeitung / Abwarten]
 
 --- STATUS ---
@@ -73,11 +69,11 @@ Transkription:     [AKTIV / NICHT AKTIV]
 ### Eingangsdatum und -kanal
 
 - Automatisch befüllt mit dem aktuellen Zeitstempel (ISO 8601: `YYYY-MM-DD HH:MM`)
-- Eingangskanal: E-Mail, Telefon, Kontaktformular, Post — für E-Mail-basierte Anfragen stets „E-Mail"
+- Eingangskanal: E-Mail, Telefon, Kontaktformular, Post — für E-Mail-basierte Anfragen stets "E-Mail"
 
 ### Kontakt-Felder
 
-Aus dem Parsing-Skill (`anfrage-eingang-parser`) übernommen. Fehlende Felder werden mit „nicht genannt" markiert und für manuelle Ergänzung hervorgehoben.
+Aus dem Parsing-Skill (`anfrage-eingang-parser`) übernommen. Fehlende Felder werden mit "nicht genannt" markiert und für manuelle Ergänzung hervorgehoben.
 
 ### Rechtsgebiet-Ersteinschätzung
 
@@ -116,7 +112,7 @@ Standardmäßig: `AUSSTEHEND`. Die Sekretariatsmitarbeitende trägt nach Durchf�
 Dieser Skill gibt einen Text-basierten Skeleton aus, der in alle gängigen Systeme eingefügt werden kann:
 
 - **RA-MICRO:** Als neue Akte anlegen; Felder manuell übertragen; Aktenzeichen generieren.
-- **Advoware:** Neues Mandat anlegen; Kontaktdaten übertragen; Status auf „Erstanfrage" setzen.
+- **Advoware:** Neues Mandat anlegen; Kontaktdaten übertragen; Status auf "Erstanfrage" setzen.
 - **DATEV Anwalt:** Neues Verfahren anlegen; Mandantenakte erstellen.
 - **Eigenentwicklung / Excel:** Tabellenzeile; CSV-Import möglich.
 

@@ -57,13 +57,11 @@ Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Lücken, Widersprü
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 31.05.2018 - C-633/16, NZKart 2018, 321 — Clean Room: kartellrechtlich sensitiver Austausch vor Fusionskontrollfreigabe ist verboten; Clean Room muss technisch und rechtlich nachweisbar abgegrenzt sein
-- BGH, Urt. v. 30.09.2011 - V ZR 17/11, NJW 2012, 56 — Fair Disclosure: Informationen gelten nur dann als discloset, wenn sie klar und deutlich sind; blosse Zugaenglichkeit im Datenraum ohne erkennbaren Hinweis auf das Risiko genuegt nicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Picot, Unternehmenskauf, Kapitel 2 (Datenraum, Gap-Analyse, Clean Room), 5. Auflage
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Datenraum-Index auswerten:** Kategorien, Vollstaendigkeit, Duplikate, Versionierung

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-conflict-gwg-sanctions
-description: "Mandatsannahme-Pruefung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwaeschegesetz-Pruefung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Pruefraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Laenderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau."
+description: "Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Prüfraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Laenderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck
@@ -30,17 +30,11 @@ Fuehrt Annahme- und Begleitpruefung fuer Corporate/M&A-Mandate: Interessenkonfli
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.10.2021 - IX ZR 1/21, NJW 2022, 137 — Interessenkonflikt nach § 43a BRAO: Sozietaetswechsel des Anwalts begruendet kein automatisches Mandatsverbot; massgeblich ist tatsaechliche Kenntnis und Gefaehrdung der Parteiinteressen
-- BGH, Urt. v. 19.02.2009 - IX ZR 174/05, BGHZ 180, 9 — Parteiverrat nach § 356 StGB und berufsrechtliche Pflichten stehen in engem Zusammenhang; Widerstreit der Interessen muss konkret und nicht nur abstrakt sein
-- EuGH, Urt. v. 26.10.2023 - C-147/23, NJW 2024, 432 — Rechtsanwaelte als Verpflichtete nach der 6. EU-Geldwaescherichtlinie; Meldeschwelle gilt fuer Transaktionsberatung auch ohne Geldtransfer
-- OLG Frankfurt, Beschl. v. 14.09.2020 - 6 U 107/20, NZG 2021, 47 — Sanktionsverstoesse: Bereitstellungsverbot gilt auch fuer mittelbare Leistungen an sanktionierte Personen ueber Mittelsmanner
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Gercke/Leimenstoll, GwG-Kommentar, §§ 10-17 Rn. 1-120 (Sorgfaltspflichten)
-- Schramm/Alexander, BRAO, § 43a Rn. 50-100 (Interessenkonflikt)
-- Ambos/Rackow, AWG/AWV, §§ 17-18 AWG Rn. 1-60 (Sanktionsstrafrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Parteien-Screening:** alle Parteien inkl. wirtschaftlich Berechtigter (mind. 25 % Beteiligungsschwelle, § 3 GwG) identifizieren und in internem Conflicts-System abgleichen

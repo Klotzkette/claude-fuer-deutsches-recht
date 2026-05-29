@@ -1,6 +1,6 @@
 ---
 name: verteidigungsstrategie-bei-formangriff
-description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Pruefraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklaerung."
+description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklärung."
 ---
 
 # Verteidigungsstrategie bei Formangriff
@@ -12,8 +12,7 @@ description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontie
 - **§ 311b Abs. 1 S. 2 BGB** — Heilung Grundstückskauf
 - **§ 766 S. 3 BGB** — Heilung Bürgschaft
 - **§ 518 Abs. 2 BGB** — Heilung Schenkungsversprechen
-- **BGH XII ZR 13/13** — Qualifizierte Schriftformklausel
-- **BGH VII ZR 153/13** — Doppelte Schriftformklausel AGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
@@ -54,7 +53,7 @@ Wenn keine gesetzliche Heilungsnorm existiert, können die Parteien das Rechtsge
 SCHRITT 1: Liegt tatsächlich ein Formmangel vor?
   → Welche Form war vorgeschrieben? (Gesetzliche oder gewillkürte Form?)
   → Wurde die Form eingehalten? (Unterschrift? qES? Textform?)
-  → Wurde die Erklärung formgerecht zugestellt? (BGH VIII ZR 159/23)
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 SCHRITT 2: Ist Heilung möglich?
   → § 311b Abs. 1 S. 2 BGB (Grundstück): Auflassung + Eintragung?
@@ -135,7 +134,7 @@ Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 - **Hohe Hürden § 242 BGB**: Der BGH lässt den Treuwidrigkeitseinwand nur in engen Grenzen zu. Wer lediglich argumentiert, es sei "unfair", sich auf den Formmangel zu berufen, wird damit regelmäßig scheitern.
 - **Heilung ≠ Rückwirkung**: Selbst wenn Heilung möglich ist (z. B. § 766 S. 3 BGB), wirkt sie nicht auf den ursprünglichen Zeitpunkt zurück — Zwischenzeiträume (z. B. Zinslauf) bleiben ggf. unberührt.
 - **§ 174 BGB Unverzüglichkeit**: Wer nicht unverzüglich (d. h. ohne schuldhaftes Zögern, in der Regel binnen einer Woche) zurückweist, verliert das Recht zur Zurückweisung wegen fehlender Vollmacht — die Kündigung gilt dann als wirksam erklärt.
-- **Spezialgesetzliche Schutzzwecke**: Manche Formnormen schließen auch den Treuwidrigkeitseinwand aus, wenn der Schutzzweck der Norm ihn nicht erlaubt (z. B. § 656a BGB nach BGH I ZR 202/25).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Querverweise
 
@@ -145,8 +144,7 @@ Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 - → `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem (Audit-Meldung): BGH I ZR 202/25 als NOT_FOUND gemeldet ("AZ noch nicht entschieden").
-Befund: BGH I ZR 202/25 ist real — Urteil vom 11.03.2026 (Maklervertrag § 656a BGB, Textform, Bereicherungsausschluss). Inhaltliche Aussage in Fallstricke (Zeile 138: spezialgesetzliche Schutzzwecke schließen Treuwidrigkeitseinwand aus) ist korrekt und durch die Entscheidung gedeckt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Maßnahme: Keine Änderung am Skill-Text erforderlich. AZ und Inhalt bestätigt.
 Quelle: https://www.otto-schmidt.de/blog/zivil-und-zivilverfahrensrecht-blog/montagsblog-neues-vom-bgh-ZRBLOG0004000.html
 -->

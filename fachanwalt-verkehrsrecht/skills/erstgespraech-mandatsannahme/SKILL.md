@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
@@ -154,7 +154,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Aktuelle Rechtsprechung Erstgespraech Verkehrsrecht
 
-- OLG Koeln, Urt. v. 28.02.2020 - 6 U 196/19, NJW-RR 2020, 1055 — GwG-Identifizierungspflicht: Anwalt haftet bei Verletzung der Sorgfaltspflichten nach § 10 GwG; Mandat ohne Identifizierung fuehrt zur Ordnungswidrigkeitssanktion.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Erstgespraech Verkehrsrecht
 

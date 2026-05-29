@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief
-description: "Mandantenbrief fuer Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Pruefraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte fuer Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe fuer barrierefreie Kommunikation und zu Entwurf fuer Schriftsaetze."
+description: "Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Prüfraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte für Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe für barrierefreie Kommunikation und zu Entwurf für Schriftsaetze."
 ---
 
 # /mandantenbrief
@@ -23,10 +23,7 @@ description: "Mandantenbrief fuer Rechtsberatungsstelle verfassen: Anwendungsfal
 4. Hat der anleitende Volljurist den Briefentwurf bereits freigegeben oder ist das Gate noch ausstehend?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Mitteilungspflicht des Anwalts ueber wesentliche Verfahrensschritte; Mandantenbrief als notwendige Kommunikation nach BORA § 11.
-- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Verstaendlichkeit des Mandantenbriefs als Bestandteil anwaltlicher Sorgfalt; unverstaendliche Briefe koennen Beratungsfehler darstellen.
-- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzanforderungen bei Mandantenkommunikation: Brief darf keine Drittdaten oder interne Bewertungen enthalten (Art. 5 Abs. 1 lit. c DSGVO).
-- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Mandant muss ueber sein Anliegen und den Fortschritt verstaendlich informiert werden; fehlende Mitteilung begruendet Pflichtverletzung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - BORA § 11 — Mitteilungspflicht: Mandant ist ueber wesentliche Verfahrensschritte zu informieren
@@ -34,10 +31,9 @@ description: "Mandantenbrief fuer Rechtsberatungsstelle verfassen: Anwendungsfal
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur fuer Mandanten bestimmte Informationen im Brief
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Reichweite bei Mandantenkommunikation)
-- Krenzler (Hrsg.) RDG § 6 Rn. 40-52 (Anleitungserfordernis: Kontrolle studentischer Schriftstuecke)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Viele Mandanten der Beratungsstelle haben wenig oder keine juristische Vorbildung. Bei Geflüchteten kommen Sprachbarrieren und ein anderes Verständnis von Behörden und Rechtssystem hinzu. Ein unverständlicher Brief ist genauso wertlos wie kein Brief.
@@ -59,16 +55,16 @@ Dieser Skill erzeugt Briefe, die der Mandant versteht – und die ihn in die Lag
 
 | Regel | Schlecht | Besser |
 |---|---|---|
-| Kurze Sätze (max. 15 Wörter) | „Die Frist zur Einlegung des Widerspruchs beträgt nach § 84 SGG einen Monat ab Bekanntgabe des Bescheids." | „Sie haben einen Monat Zeit, um Widerspruch einzulegen. Die Frist beginnt mit dem Datum auf dem Bescheid." |
-| Aktiv statt Passiv | „Der Widerspruch wird eingelegt." | „Wir legen Widerspruch ein." |
-| Bekannte Wörter | „Klagefrist", „Begründetheit", „Subsumtion" | „Frist", „Grund für den Widerspruch" |
-| Keine Abkürzungen ohne Erklärung | „SGB II § 22" | „Bürgergeld-Gesetz (Abschnitt über Wohnen)" |
-| Handlungsorientierung | Nur Information | „Was Sie jetzt tun müssen: ..." |
+| Kurze Sätze (max. 15 Wörter) | "Die Frist zur Einlegung des Widerspruchs beträgt nach § 84 SGG einen Monat ab Bekanntgabe des Bescheids." | "Sie haben einen Monat Zeit, um Widerspruch einzulegen. Die Frist beginnt mit dem Datum auf dem Bescheid." |
+| Aktiv statt Passiv | "Der Widerspruch wird eingelegt." | "Wir legen Widerspruch ein." |
+| Bekannte Wörter | "Klagefrist", "Begründetheit", "Subsumtion" | "Frist", "Grund für den Widerspruch" |
+| Keine Abkürzungen ohne Erklärung | "SGB II § 22" | "Bürgergeld-Gesetz (Abschnitt über Wohnen)" |
+| Handlungsorientierung | Nur Information | "Was Sie jetzt tun müssen: ..." |
 | Freundlicher Ton | Amtsdeutsch | Persönliche, respektvolle Ansprache |
 
 ### Bei Geflüchteten / mehrsprachigem Kontext
 - Brief auf Deutsch schreiben; wenn möglich parallel auf Arabisch / Dari / Tigrinya (mit Hinweis, dass dies kein Rechtsrat in der Zielsprache ist, sondern eine Orientierungshilfe).
-- Keine Terminologie verwenden, die kulturell unterschiedlich verstanden wird (z. B. „Widerspruch" → erklären, was das ist).
+- Keine Terminologie verwenden, die kulturell unterschiedlich verstanden wird (z. B. "Widerspruch" → erklären, was das ist).
 - Ansprechperson und Erreichbarkeit der Beratungsstelle immer angeben.
 
 ## Briefstruktur (Standard)
@@ -100,7 +96,7 @@ wir beraten Sie in Ihrer Sache: [kurze Stichwortbeschreibung, 1 Satz].
 → Bitte kommen Sie zu unserem nächsten Termin am: [Datum, Uhrzeit, Ort]
 
 **Was darf ich nicht?**
-[Ggf. Hinweis, was der Mandant nicht ohne uns tun sollte – z. B. „Bitte unterschreiben Sie keine neuen Dokumente des Jobcenters, ohne uns zu fragen."]
+[Ggf. Hinweis, was der Mandant nicht ohne uns tun sollte – z. B. "Bitte unterschreiben Sie keine neuen Dokumente des Jobcenters, ohne uns zu fragen."]
 
 **Bei Fragen:**
 Wenden Sie sich an: [Name des Studierenden / der Beratungsstelle]
@@ -116,19 +112,19 @@ Mit freundlichen Grüßen
 ## Häufige Briefanlässe und Formulierungshilfen
 
 ### Widerspruch eingelegt (SGB II / SGB XII)
-> „Wir haben für Sie am [Datum] Widerspruch gegen den Bescheid vom [Datum] eingelegt. Der Widerspruch heißt, dass wir dem Jobcenter schreiben: Der Bescheid ist nicht korrekt. Das Jobcenter muss jetzt prüfen, ob es recht hat. Das kann einige Wochen dauern. Wir informieren Sie, sobald eine Antwort kommt."
+> "Wir haben für Sie am [Datum] Widerspruch gegen den Bescheid vom [Datum] eingelegt. Der Widerspruch heißt, dass wir dem Jobcenter schreiben: Der Bescheid ist nicht korrekt. Das Jobcenter muss jetzt prüfen, ob es recht hat. Das kann einige Wochen dauern. Wir informieren Sie, sobald eine Antwort kommt."
 
 ### Klage erhoben (Verwaltungsgericht / Sozialgericht)
-> „Wir haben für Sie am [Datum] Klage beim [Gericht, Ort] eingereicht. Das Aktenzeichen ist: [AZ]. Sie erhalten möglicherweise einen Brief vom Gericht – bitte leiten Sie diesen sofort an uns weiter."
+> "Wir haben für Sie am [Datum] Klage beim [Gericht, Ort] eingereicht. Das Aktenzeichen ist: [AZ]. Sie erhalten möglicherweise einen Brief vom Gericht – bitte leiten Sie diesen sofort an uns weiter."
 
 ### Mietmangel-Schreiben an Vermieter
-> „Wir haben Ihrem Vermieter am [Datum] geschrieben, dass die Wohnung [Mangel] hat. Wir haben ihn aufgefordert, das bis zum [Datum] zu reparieren. Wenn er das nicht tut, können Sie die Miete mindern. Das bedeutet: Sie zahlen weniger Miete, weil die Wohnung nicht in Ordnung ist. Wie viel weniger – das besprechen wir mit Ihnen."
+> "Wir haben Ihrem Vermieter am [Datum] geschrieben, dass die Wohnung [Mangel] hat. Wir haben ihn aufgefordert, das bis zum [Datum] zu reparieren. Wenn er das nicht tut, können Sie die Miete mindern. Das bedeutet: Sie zahlen weniger Miete, weil die Wohnung nicht in Ordnung ist. Wie viel weniger – das besprechen wir mit Ihnen."
 
 ### BAMF-Klage eingereicht
-> „Wir haben fristgerecht Klage gegen den Bescheid des BAMF vom [Datum] eingereicht. Das Verwaltungsgericht [Ort] prüft jetzt Ihren Fall. Das Aktenzeichen der Klage ist: [AZ]. Der Aufenthalt ist während des Klageverfahrens sichergestellt (§ 81 Abs. 3 AufenthG). Bitte informieren Sie uns sofort, wenn Sie Post vom Gericht oder der Ausländerbehörde bekommen."
+> "Wir haben fristgerecht Klage gegen den Bescheid des BAMF vom [Datum] eingereicht. Das Verwaltungsgericht [Ort] prüft jetzt Ihren Fall. Das Aktenzeichen der Klage ist: [AZ]. Der Aufenthalt ist während des Klageverfahrens sichergestellt (§ 81 Abs. 3 AufenthG). Bitte informieren Sie uns sofort, wenn Sie Post vom Gericht oder der Ausländerbehörde bekommen."
 
 ### Termin-Erinnerung
-> „Ihr nächster Termin bei uns ist: [Datum], [Uhrzeit], [Adresse, Raum]. Bitte bringen Sie mit: [Aufzählung der Unterlagen]. Wenn Sie nicht kommen können: Bitte rufen Sie uns vorher an unter [Nummer]."
+> "Ihr nächster Termin bei uns ist: [Datum], [Uhrzeit], [Adresse, Raum]. Bitte bringen Sie mit: [Aufzählung der Unterlagen]. Wenn Sie nicht kommen können: Bitte rufen Sie uns vorher an unter [Nummer]."
 
 ## Ausgabeformat
 
@@ -139,7 +135,7 @@ Jede Ausgabe trägt:
 
 ## Risiken / typische Fehler
 
-- **Juristischer Rat im Mandantenbrief ohne Freigabe:** Kein Brief darf Aussagen enthalten wie „Sie werden gewinnen" oder „Die Klage hat gute Chancen" – das ist unzulässige Prognose ohne Anleiterbilligung.
-- **Falsches Fristenverständnis beim Mandanten:** Der Brief muss Fristen, die der Mandant wahren muss (z. B. Vorlage von Dokumenten), klar und mit genauen Daten benennen. Keine vagen Formulierungen wie „möglichst bald".
+- **Juristischer Rat im Mandantenbrief ohne Freigabe:** Kein Brief darf Aussagen enthalten wie "Sie werden gewinnen" oder "Die Klage hat gute Chancen" – das ist unzulässige Prognose ohne Anleiterbilligung.
+- **Falsches Fristenverständnis beim Mandanten:** Der Brief muss Fristen, die der Mandant wahren muss (z. B. Vorlage von Dokumenten), klar und mit genauen Daten benennen. Keine vagen Formulierungen wie "möglichst bald".
 - **Keine Rückfrage-Möglichkeit:** Mandantenbrief ohne Kontaktangabe ist wertlos. Immer Erreichbarkeit der Beratungsstelle angeben.
 - **Vertraulichkeit verletzt:** Keine Drittdaten (z. B. Informationen über den Vermieter, den Arbeitgeber) im Brief an den Mandanten – es sei denn, der Mandant hat alle relevanten Informationen ohnehin selbst geliefert.

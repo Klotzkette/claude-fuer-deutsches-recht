@@ -1,24 +1,20 @@
 ---
 name: slogan-marke
-description: "Slogan-Marken fuer Luxus-Mode auf Eintragbarkeit pruefen und anmelden: Kampagnen-Claim soll als Marke geschuetzt werden. Normen: §§ 3 und 8 MarkenG, Art. 7 Abs. 1 lit. b UMV, EuGH C-398/08 Audi/Vorsprung durch Technik, BGH I ZB 22/20 Quadratisch Praktisch Gut. Pruefraster: Unterscheidungskraft (kein reines Werbemittel), Freihaltebeduerftigkeit, Verkehrsdurchsetzung. Output Pruefgutachten Eintragbarkeit, Anmelde-Strategie fuer Slogan. Abgrenzung: Wortmarke (keine Slogan-Thematik) siehe wortmarke-anmeldung-dpma; Bildmarke siehe bildmarke-und-wort-bild."
+description: "Workflow-Skill zu slogan marke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Slogan-Marken für Luxus-Mode
 
 Slogans sind die vielleicht schwierigste Markenart — sie sollen Kunden begeistern, dürfen aber nicht so allgemein sein, dass sie keinen Herkunftshinweis liefern. Für klôtzzkètté SA prüfe ich jeden Kampagnen-Claim auf Eintragungsfähigkeit, bevor die Comtesse Beatrice de Klotzzkettie einen EUR 300.000-Kampagnenetat investiert.
 
-Die Grenze zwischen begeisterndem Werbeslogan und schutzfähiger Marke ist nach der EuGH-Rechtsprechung seit C-398/08 etwas klarer — aber immer noch einzelfallabhängig.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsrahmen
 
 - **§ 8 II Nr. 2 MarkenG:** Fehlende Unterscheidungskraft — Haupthürde für Slogans
 - **§ 8 II Nr. 3 MarkenG:** Beschreibende Angaben (selten für Slogans, aber möglich)
 - **Art. 7 I lit. b UMV:** Fehlende Unterscheidungskraft auf EUIPO-Ebene
-- **EuGH C-398/08 P (Audi / Vorsprung durch Technik):** Slogans können Unterscheidungskraft haben, wenn sie über eine werbliche Bedeutung hinaus auf die Herkunft hinweisen; kein strengerer Maßstab als für andere Markenarten
-- **BGH, Beschl. v. 21.11.2013 — I ZB 67/12 (Ziegelrot / Quadratisch. Praktisch. Gut.):** Slogan mit ausschliesslich lobender oder qualitaetsbeschreibender Aussage kann keine Markeneintragung erlangen; intensive Werbenutzung begründet allein keine Unterscheidungskraft
-- **BGH, Beschl. v. 27.04.2017 — I ZB 83/16 (#darferdas?):** Hashtag-Slogan — fehlende Unterscheidungskraft
-- **EuGH C-64/02 P (OHIM / Erpo Möbelwerk):** „Das Prinzip der Bequemlichkeit" — keine Unterscheidungskraft
-- **EuGH C-265/09 P (OHIM / BORCO-Marken):** Strengerer Maßstab nicht gerechtfertigt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verkehrsdurchsetzung § 8 III MarkenG:** Rettungsanker bei ursprünglich fehlendem Schutz
 
 ## Prüfungsschritte
@@ -31,7 +27,7 @@ Die Grenze zwischen begeisterndem Werbeslogan und schutzfähiger Marke ist nach 
 2. **Sprachliche Originalität:**
    - Kreative Wortschöpfung, ungewöhnliche Grammatik, Fremdsprachenmix
    - Einprägsamkeit und Eigenartigkeit (nicht austauschbar mit anderen Marken)
-   - Mehrdeutigkeit kann Schutzfähigkeit begründen (EuGH C-398/08)
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. **Marktrecherche:**
    - Wird der Slogan als Markenzeichen oder als allgemeine Werbephrase wahrgenommen?
@@ -48,27 +44,24 @@ Die Grenze zwischen begeisterndem Werbeslogan und schutzfähiger Marke ist nach 
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: „Tissu du Silence" — klôtzzkètté Herbstkampagne
-klôtzzkètté will „Tissu du Silence" (frz.: Stoff der Stille) für Klasse 25 schützen. Analyse: Der Ausdruck beschreibt keine Bekleidungseigenschaft, evoziert eine poetic-luxury-Atmosphäre, ist nicht im Deutschen/Französischen als beschreibende Wendung etabliert. Prognose: Eintragungsfähig mit Argument aus EuGH C-398/08 — ungewöhnliche Kombination, die über bloße Werbebotschaft hinausgeht.
+### Konstellation 1: "Tissu du Silence" — klôtzzkètté Herbstkampagne
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Konstellation 2: „Pure Luxury for the Few" — Englischer Slogan
-Für den US-Markt (vgl. Skill `uspto-anmeldung-und-lanham-act`). EUIPO-Anmeldung schwierig: „PURE LUXURY" ist anpreisend, „FOR THE FEW" beschreibt Exklusivität. EuGH-Linie: Diese Kombination hat allein anpreisenden Charakter — Zurückweisung wahrscheinlich. Strategie: Als Wort-Bild-Marke mit besonderer Typografie anmelden.
+### Konstellation 2: "Pure Luxury for the Few" — Englischer Slogan
+Für den US-Markt (vgl. Skill `uspto-anmeldung-und-lanham-act`). EUIPO-Anmeldung schwierig: "PURE LUXURY" ist anpreisend, "FOR THE FEW" beschreibt Exklusivität. EuGH-Linie: Diese Kombination hat allein anpreisenden Charakter — Zurückweisung wahrscheinlich. Strategie: Als Wort-Bild-Marke mit besonderer Typografie anmelden.
 
-### Konstellation 3: „KLOTZ IST STIL" — Brezelmann-Kopie
-Brezelmann Discount KG (Bad Mergentheim) verwendet „KLOTZ IST PREIS" als Gegenslogan. Prüfung: Verwechslungsgefahr mit eingetragenem Slogan von klôtzzkètté? Warenidentität (Klasse 25), aber keine Slogan-Ähnlichkeit, die Verwechslung begründet. Ansatz: UWG § 4 Nr. 3 (unlautere Anlehnung an bekannte Marke) und § 6 (vergleichende Werbung).
+### Konstellation 3: "KLOTZ IST STIL" — Brezelmann-Kopie
+Brezelmann Discount KG (Bad Mergentheim) verwendet "KLOTZ IST PREIS" als Gegenslogan. Prüfung: Verwechslungsgefahr mit eingetragenem Slogan von klôtzzkètté? Warenidentität (Klasse 25), aber keine Slogan-Ähnlichkeit, die Verwechslung begründet. Ansatz: UWG § 4 Nr. 3 (unlautere Anlehnung an bekannte Marke) und § 6 (vergleichende Werbung).
 
 ### Konstellation 4: Hashtag-Marke #klotzzkette
-Seit BGH I ZB 83/16 (#darferdas?) sind Hashtag-Slogans als Wortmarken mit normaler Unterscheidungskraft-Hürde zu prüfen — das Rautensymbol allein begründet keine Besonderheit. Für klôtzzkètté: #klotzzkette als Wortmarke anmelden, # als rein technisches Symbol im Warenverzeichnis nicht erwähnen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 8 Rn. 350 ff. (Slogans)
-- BeckOK MarkenR, § 8 MarkenG Rn. 300 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 8 Rn. 120 ff.
-- EuGH, Urt. v. 21.01.2010 — C-398/08 P (Vorsprung durch Technik)
-- EuGH, Urt. v. 21.10.2004 — C-64/02 P (Das Prinzip der Bequemlichkeit)
-- BGH, Beschl. v. 27.04.2017 — I ZB 83/16 (#darferdas?)
-- BGH, Beschl. v. 09.11.2016 — I ZB 43/15 (Sparkassen-Rot — Farbmarke als Slogan-Ergänzung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -83,14 +76,14 @@ Vertreter: [Kanzlei], München
 
 ### Stellungnahme-Baustein Unterscheidungskraft Slogan
 ```
-Das Zeichen „TISSU DU SILENCE" weist über seine werblich-atmosphärische
+Das Zeichen "TISSU DU SILENCE" weist über seine werblich-atmosphärische
 Bedeutung hinaus auf die betriebliche Herkunft der Mandantin hin.
 Insbesondere:
-(1) Die Kombination aus dem Substantiv „tissu" und dem Abstraktum
-„silence" ist in der Modewelt nicht gebräuchlich.
+(1) Die Kombination aus dem Substantiv "tissu" und dem Abstraktum
+"silence" ist in der Modewelt nicht gebräuchlich.
 (2) Das Zeichen wird im Marktauftritt stets als Herkunftshinweis
 für klôtzzkètté-Produkte eingesetzt (vgl. beigefügte Belege).
-(3) Nach EuGH C-398/08 P (Vorsprung durch Technik) ist für Slogans
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kein strengerer Maßstab anzulegen als für andere Wortmarken.
 ```
 
@@ -119,16 +112,16 @@ Bevor der Slogan als Marke angemeldet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 21.01.2010 — C-398/08 P (Audi / HABM — Vorsprung durch Technik):** Slogans koennen Unterscheidungskraft besitzen, wenn sie beim angesprochenen Publikum eine unerwartete originelle Note aufweisen, die zugleich als Herkunftshinweis auf ein bestimmtes Unternehmen wahrgenommen wird; bloss anpreisende Aussagen ohne Eigenart genuegen nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 21.11.2013 — I ZB 67/12 (Ziegelrot):** Ein Slogan, der ausschliesslich lobende oder qualitaetsbeschreibende Aussagen macht, kann keine Markeneintragung erlangen; auch wenn der Slogan durch intensive Werbenutzung im Verkehr bekannt geworden ist, folgt daraus nicht automatisch Unterscheidungskraft.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 04.10.2001 — C-517/99 (Merz & Krell / Brylcream):** Der Eintragungsversagungsgrund der fehlenden Unterscheidungskraft ist anhand aller relevanten Tatsachen und Umstaende zu prufen, einschliesslich der angesprochenen Verkehrskreise und der Art der Waren; fuer Luxuswaren ist der Adressatenkreis enger und oft stilbewusster.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 3/5
 BGH I ZB 22/20 (WRONG_TOPIC / NOT_FOUND): Aktenzeichen auf dejure.org nicht auffindbar.
-Vorkommen: Rechtsrahmen-Eintrag 'BGH, Beschl. v. 15.01.2015 — I ZB 22/20 (Quadratisch. Praktisch. Gut.)'
-  ersetzt durch verifizierten BGH I ZB 67/12 (Ziegelrot, 21.11.2013), der denselben Rechtssatz traegt.
-Frontmatter unveraendert (description-Feld belassen). EuGH C-398/08 ist korrekt und wurde beibehalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

@@ -23,7 +23,7 @@ ursprüngliche Struktur des Prüflings nicht verletzt wird.
 - Bezugnahme auf § 2 Nr. 1 GeschGehG nicht zwingend, aber sinnvoll.
 
 ### Rote Linien
-- Definition nur „schriftlich gekennzeichnete" Informationen — **ausschließen**.
+- Definition nur "schriftlich gekennzeichnete" Informationen — **ausschließen**.
 - Definition mit zwingender 30-Tage-Frist zur Nachkennzeichnung — **ausschließen**.
 - Definition, die Geschäftsgeheimnisse i. S. d. § 2 Nr. 1 GeschGehG **ausschließt**.
 
@@ -36,10 +36,10 @@ ursprüngliche Struktur des Prüflings nicht verletzt wird.
 > Offenlegung erkennbar ist.
 
 ### Typische Abweichungen
-- „Vertraulich sind nur Informationen, die schriftlich als ‚vertraulich'
+- "Vertraulich sind nur Informationen, die schriftlich als ‚vertraulich'
   gekennzeichnet sind." — **NACHTEILIG**, Schutzlücke bei mündlicher
   Offenlegung.
-- „Mündlich offengelegte Informationen sind nur vertraulich, wenn sie
+- "Mündlich offengelegte Informationen sind nur vertraulich, wenn sie
   binnen 30 Tagen schriftlich bestätigt werden." — **NACHTEILIG**,
   praktisch nicht handhabbar.
 
@@ -60,9 +60,9 @@ Abschließende Liste:
   — **mit Vorabbenachrichtigung der offenlegenden Partei**, soweit zulässig.
 
 ### Rote Linien
-- Ausnahme „in der Branche allgemein bekannt" ohne Beweispflicht
+- Ausnahme "in der Branche allgemein bekannt" ohne Beweispflicht
   — **ausschließen**.
-- Pauschalausnahme für „interne Geschäftszwecke" — **ausschließen**.
+- Pauschalausnahme für "interne Geschäftszwecke" — **ausschließen**.
 - Offenlegung an Behörden ohne Vorabbenachrichtigungspflicht
   — nachverhandeln, wenn rechtlich möglich.
 
@@ -160,10 +160,10 @@ Geschäftsgeheimnisse zwingend.
 - **Beweiserleichterungen** möglich, soweit § 307 BGB und § 138 ZPO gewahrt.
 
 ### Rote Linien
-- Klausel: „Eine Pflichtverletzung wird vermutet, wenn die offengelegten
+- Klausel: "Eine Pflichtverletzung wird vermutet, wenn die offengelegten
   Informationen bei einem Dritten auftauchen." — **NACHTEILIG**, gegen
-  § 138 ZPO und § 307 BGB; OLG Düsseldorf I-15 U 6/20.
-- Klausel: „Die empfangende Partei trägt die Beweislast für das Eingreifen
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Klausel: "Die empfangende Partei trägt die Beweislast für das Eingreifen
   von Ausnahmen." — **akzeptabel**, bewährter Marktstandard.
 
 ### Soll-Formulierung (Beweiserleichterung, nicht -umkehr)
@@ -178,21 +178,21 @@ Geschäftsgeheimnisse zwingend.
 ## 6. Vertragsstrafe / Schadensersatz
 
 ### Soll-Inhalt
-- **Konkrete Vertragsstrafe pro Verstoß** oder **bestimmbar** (z. B. „pro
+- **Konkrete Vertragsstrafe pro Verstoß** oder **bestimmbar** (z. B. "pro
   unbefugter Offenlegung").
 - Höhe: Marktüblich 10.000–50.000 EUR je Verstoß; bei hochsensiblen
   Geschäftsgeheimnissen auch deutlich höher.
 - **Höchstbetrag** als Gesamtcap (z. B. 250.000–500.000 EUR) zur
   Begrenzung der Risikoexposition.
 - Klarstellung: **Vertragsstrafe und Schadensersatz daneben**, nicht
-  alternativ (sonst „Strafe statt Schadensersatz" — Beweisproblem bei
+  alternativ (sonst "Strafe statt Schadensersatz" — Beweisproblem bei
   hohem Schaden).
 - § 343 BGB: gerichtliche Herabsetzung möglich; nach § 348 HGB im
   beiderseitigen Handelsverkehr ausgeschlossen — prüfen, ob beide Parteien
   Kaufleute i. S. d. HGB sind.
 
 ### Rote Linien
-- Vertragsstrafe „in von der offenlegenden Partei zu bestimmender Höhe"
+- Vertragsstrafe "in von der offenlegenden Partei zu bestimmender Höhe"
   — **unwirksam**, BGH-Rspr.
 - Vertragsstrafe ohne Verschuldenserfordernis — kritisch prüfen.
 - Vertragsstrafe als **einzige** Sanktion (Ausschluss weitergehenden
@@ -256,7 +256,7 @@ Geschäftsgeheimnisse zwingend.
 ### Rote Linien
 - Empfangende Partei haftet **nicht** für verbundene Unternehmen
   — **ausschließen**, bricht das Haftungssystem.
-- Verteilung an „alle Konzerngesellschaften weltweit" ohne Need-to-know
+- Verteilung an "alle Konzerngesellschaften weltweit" ohne Need-to-know
   — **ausschließen** (insb. wegen DSGVO bei personenbezogenen Daten).
 
 ### Soll-Formulierung
@@ -308,15 +308,15 @@ Geschäftsgeheimnisse zwingend.
 
 ### Soll-Inhalt
 - Salvatorische Klausel **zurückhaltend** formulieren wegen BGH-Rspr.
-  (BGH, Urt. v. 24.09.2002 – KZR 10/01, NJW 2003, 347) und AGB-Kontrolle:
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   pauschale Salvatorik kann § 307 BGB verletzen, weil sie die Risikoverteilung
   zulasten des Vertragspartners verlagert.
-- Klassische Formulierung: „die Parteien werden eine wirksame Regelung
+- Klassische Formulierung: "die Parteien werden eine wirksame Regelung
   vereinbaren, die dem wirtschaftlichen Zweck am nächsten kommt" — von
   BGH 2002 als Indiz für Umgehung der dispositiven Norm kritisch gesehen.
 
 ### Rote Linien
-- Pauschale Klausel: „Sollte eine Bestimmung unwirksam sein, gilt die
+- Pauschale Klausel: "Sollte eine Bestimmung unwirksam sein, gilt die
   ihrem Sinn am nächsten kommende wirksame Bestimmung als vereinbart."
   — **NACHTEILIG**, AGB-rechtlich risikobehaftet.
 

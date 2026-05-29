@@ -1,6 +1,6 @@
 ---
 name: rechtsargumente-gegenueberstellung
-description: "Erstellt eine tabellarische Gegenueberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjaehrungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches Argument ueberzeugt. Normen §§ 195-218 BGB Verjaehrung §§ 280 ff. BGB Schadensersatz."
+description: "Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjährungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches Argument ueberzeugt. Normen §§ 195-218 BGB Verjährung §§ 280 ff. BGB Schadensersatz."
 ---
 
 # Rechtsargumente — Gegenüberstellung
@@ -28,12 +28,9 @@ Die Rechtsargumenten-Tabelle stellt die juristischen Positionen beider Parteien 
 
 ## Rechtsprechung zu Anspruchsgrundlagen und Einreden
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg BGB (vormals Palandt), § 280 Rn. 1 ff. (Schadensersatz wegen Pflichtverletzung)
-- MüKo BGB/Ernst, § 195 Rn. 1 ff. (Verjährung regelmässige Frist)
-- BeckOK BGB/Lorenz, § 254 Rn. 1 ff. (Mitverschulden)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Tabellenstruktur
 
 ```markdown
@@ -62,7 +59,7 @@ Kausalität, Mitverschulden (§ 254 BGB), Schadenshöhe.
 
 ### Rechtsprechung
 
-Pinpoint-Zitate werden mit Aktenzeichen und Datum angegeben. Beispiel: BGH Urt. v. 19.01.2022 — VIII ZR 123/21.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiel
 
@@ -71,7 +68,7 @@ Pinpoint-Zitate werden mit Aktenzeichen und Datum angegeben. Beispiel: BGH Urt. 
 | Anspruchsgrundlage | § 634 Nr. 4 i.V.m. § 280 Abs. 1 BGB (Schadensersatz wegen Mangel) | Kein Mangel i.S.d. § 633 BGB; Abnahme erfolgte vorbehaltlos |
 | Wirksamkeit Abnahme | Abnahme unter Vorbehalt gem. § 640 Abs. 1 S. 2 BGB | Abnahmeprotokoll ohne Vorbehalt unterzeichnet |
 | Verjährung | Frist läuft noch; Fristbeginn erst mit Kenntnis des Mangels | Verjährungsfrist von zwei Jahren ab Abnahme (§ 634a Abs. 1 Nr. 1 BGB) bereits abgelaufen |
-| Rspr. Verjährungsbeginn | BGH Urt. v. 08.07.2021 — VII ZR 149/20: Fristbeginn bei verdecktem Mangel | BGH Urt. v. 12.03.2015 — VII ZR 173/13: Massstab ist objektive Abnahmereife |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Schadenshöhe | Volle Kosten der Mängelbeseitigung nach § 635 BGB (EUR 45.000) | § 254 BGB: Mitverschulden wegen unterlassener Wartung mindert Anspruch |
 
 ## Umgang mit Rechtsprechung
@@ -98,4 +95,3 @@ Aktenzeichen geprueft und korrigiert:
 - VI ZR 136/20: ersatzlos entfernt — WRONG_TOPIC; reale Entscheidung 05.10.2021 betrifft Feststellungsklage VW-Abgasskandal (NJW-RR 2022, 23), nicht Verjährungsbeginn § 199 BGB; beanspruchte NJW 2022, 53 existiert nicht in dejure
 - VI ZR 282/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
 - VI ZR 259/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
-- VIII ZR 123/19 (Beispiel-AZ): ersetzt durch VIII ZR 123/21 (BGH 19.01.2022, verifiziert auf dejure.org)

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-regulatory-fdi-merger-control
-description: "Fusionskontrolle und FDI-Investitionspruefung fuer M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prueft ob Kartellrechts-Freigabe oder AWV-Pruefung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, §§ 55 ff. AWV FDI-Pruefung. Pruefraster Umsatzschwellen je Jurisdiktion, Vollzugsverbot bis Freigabe, Multi-Jurisdiction-Filing-Koordination, Sektorrisiken. Output Regulatorische Freigabe-Landkarte mit Filing-Pflichten, Zeitplan und Risikobewertung. Abgrenzung zu Signing-Closing-CPs und zu Transaktionsstruktur."
+description: "Fusionskontrolle und FDI-Investitionsprüfung für M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prüft ob Kartellrechts-Freigabe oder AWV-Prüfung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, §§ 55 ff. AWV FDI-Prüfung. Prüfraster Umsatzschwellen je Jurisdiktion, Vollzugsverbot bis Freigabe, Multi-Jurisdiction-Filing-Koordination, Sektorrisiken. Output Regulatorische Freigabe-Landkarte mit Filing-Pflichten, Zeitplan und Risikobewertung. Abgrenzung zu Signing-Closing-CPs und zu Transaktionsstruktur."
 ---
 
 # Fusionskontrolle und Investitionskontrolle
@@ -29,17 +29,12 @@ Erstellt Freigabe-Landkarte fuer Kartellrecht (GWB, FKVO), FDI-Investitionspruef
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 31.05.2018 - C-633/16, NZKart 2018, 321 — Gun Jumping: jede Massnahme, die dem Erwerber vor der kartellrechtlichen Freigabe tatsaechlichen Einfluss auf das Zielunternehmen verschafft, ist ein verbotener Vollzug nach Art. 7 FKVO; dies umfasst auch Informationsaustausch ueber wettbewerbssensible Daten
-- BGH, Beschl. v. 14.04.2015 - KVR 27/13, WuW 2015, 765 — Vollzugsverbot § 41 GWB: Verstoss begruendet Bussgeldhaftung bis 10 % des Konzernumsatzes; zivilrechtliche Nichtigkeit des vollzogenen Rechtsgeschaefts; rueckabwicklung moeglich
-- BVerwG, Urt. v. 25.07.2017 - 6 C 8.16, BVerwGE 159, 231 — FDI-Screening nach AWV: Untersagung eines Unternehmenserwerbs durch BMWi ist rechtmaessig, wenn konkrete Anhaltspunkte fuer Bedrohung der oeffentlichen Sicherheit bestehen; pauschale Mutmassungen genuegen nicht
-- EuG, Urt. v. 22.09.2021 - T-425/18, NZKart 2022, 45 — EU-Fusionskontrolle Phase II: Kommission muss konkrete Beweise fuer wettbewerbsschaedliche Auswirkungen vorlegen; Prognosen muessen auf belastbarer empirischer Grundlage beruhen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Jaeger/Kokott/Pohlmann/Schroeder, Frankfurter Kommentar zum Kartellrecht, §§ 35-44 GWB (Zusammenschlusskontrolle) Rn. 1-200
-- Langen/Bunte, Kartellrecht, Art. 1-4 FKVO Rn. 1-100 (EU-Fusionskontrolle)
-- Heidenhain/Lengyel, Handbuch der AWV-Investitionskontrolle, §§ 55-62 AWV Rn. 1-80
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Umsatz-Screening:** weltweit und in Deutschland (GWB), in der EU (FKVO), in USA, UK, China — Schwellenwerte der Parteien zusammenstellen

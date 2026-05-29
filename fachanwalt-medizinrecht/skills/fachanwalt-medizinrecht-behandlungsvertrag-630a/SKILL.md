@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-behandlungsvertrag-630a
-description: "Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklaerungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Pruefraster Behandlungsstandard § 630a Abs. 2, Aufklaerungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Pruefprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Pruefen und zu Gutachterkommission."
+description: "Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission."
 ---
 
 # Behandlungsvertrag §§ 630a-h BGB
@@ -14,7 +14,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 ### Behandlung nach Stand med. Wissenschaft § 630a II BGB
 
 - Sorgfaltspflicht des allg. anerkannten fachlichen Standards
-- BGH NJW 2014, 2960: Maßstab Facharzt-Standard
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Aufklärung § 630e BGB
 
@@ -128,9 +128,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 25.6.2014 — VI ZR 21/13 (Standardbegriff)
-- BGH, Urt. v. 27.4.2017 — III ZR 351/15 (Grober Behandlungsfehler)
-- BGH, Urt. v. 19.5.2020 — VI ZR 156/18 (Aufklärungs-Beweis)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -142,21 +140,15 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 ### Leitsatz-Zitate
 
-- BGH, Urt. v. 19.05.2020 — **VI ZR 156/18**, NJW 2020, 2397 Rn. 14: Der Behandlungsvertrag begründet eine Sonderverbindung, in der die Beweislastregeln des § 630h BGB abschließend sind; ein Rückgriff auf allgemeine Beweiserleichterungen ist ausgeschlossen.
-- BGH, Urt. v. 25.06.2014 — **VI ZR 21/13**, NJW 2014, 2952 Rn. 10: Der medizinische Standard i.S.d. § 630a Abs. 2 BGB bestimmt sich nach dem Stand der Wissenschaft zum Behandlungszeitpunkt und nicht nach späteren Erkenntnissen (ex-ante-Maßstab).
-- BGH, Urt. v. 27.04.2021 — **VI ZR 84/19**, MedR 2021, 786 Rn. 12: Dokumentationsmangel nach § 630h Abs. 3 BGB führt zur Vermutung des Nichtdurchführens; der Arzt kann diese Vermutung durch andere Beweismittel widerlegen.
-- BGH, Urt. v. 02.07.2013 — **VI ZR 554/12**, NJW 2013, 3094 Rn. 8: Beweislastumkehr bei grobem Behandlungsfehler gilt für alle Schadensfolgen, die in den Schutzbereich der verletzten Pflicht fallen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 630a BGB (Behandlungsvertrag) → § 630a Abs. 2 BGB (Standardpflicht) → § 630e BGB (Aufklärung) → § 630d BGB (Einwilligung) → § 630f BGB (Dokumentation) → § 630g BGB (Akteneinsicht) → § 630h BGB (Beweislast) → § 280 Abs. 1 BGB (Schadensersatz) → § 823 Abs. 1 BGB (Delikt) → § 253 Abs. 2 BGB (Schmerzensgeld).
 
-### Kommentarliteratur
+### Quellenregel
 
-- MüKo BGB/Wagner §§ 630a–630h (Behandlungsvertrag, 9. Aufl. 2024).
-- Spickhoff Medizinrecht, 3. Aufl. 2021, §§ 630a–h BGB Rn. 1 ff.
-- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 93 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Sofortprüfung bei Mandatsannahme
 
 Bevor losgelegt wird, kläre sofort:

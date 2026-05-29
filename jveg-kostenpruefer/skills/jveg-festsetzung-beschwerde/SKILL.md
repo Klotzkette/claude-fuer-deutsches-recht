@@ -1,6 +1,6 @@
 ---
 name: jveg-festsetzung-beschwerde
-description: "Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zulaessigkeit, Frist, Begruendung. Normen: § 4 Abs. 3 JVEG, §§ 569 ff. ZPO. Pruefraster: Beschwerdewert, Beschwerdefrist, Verfahrensart. Output: Beschwerdeschrift JVEG. Abgrenzung: nicht Antragsgenerator (Erstantrag)."
+description: "Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zulässigkeit, Frist, Begründung. Normen: § 4 Abs. 3 JVEG, §§ 569 ff. ZPO. Prüfraster: Beschwerdewert, Beschwerdefrist, Verfahrensart. Output: Beschwerdeschrift JVEG. Abgrenzung: nicht Antragsgenerator (Erstantrag)."
 ---
 
 # JVEG-Festsetzung-Beschwerde
@@ -24,16 +24,14 @@ Begleite das Verfahren der gerichtlichen Kostenfestsetzung nach § 4 JVEG und be
 - § 68 GKG (Erinnerung gegen Kostenansatz, Analogie)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die gerichtliche Festsetzung hat die objektiv erforderliche Zeit zu prüfen; Ermessen des Kostenbeamten ist auf Null reduziert bei eindeutiger Normenlage.
-2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Zur Beschwerde nach § 4 Abs. 3 JVEG: Das Gericht ist an die geltend gemachten Positionen gebunden; von Amts wegen wird nicht erhöht.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Die Beschwerde muss die beanstandeten Positionen konkret benennen; pauschale Rügen sind unzulässig.
-4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Bei § 8a-Kürzungen im Festsetzungsbeschluss muss die Beschwerde die Mangelhaftigkeit der Kürzungsbegründung substantiiert darlegen.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 4 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG § 4 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 4 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Erhalt eines Kostenfestsetzungsbeschlusses mit Kürzungen oder Ablehnung.
 

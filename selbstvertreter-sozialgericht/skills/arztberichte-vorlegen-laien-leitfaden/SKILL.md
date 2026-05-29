@@ -1,6 +1,6 @@
 ---
 name: arztberichte-vorlegen-laien-leitfaden
-description: "Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen fuer Laien Mustertext."
+description: "Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext."
 ---
 
 # Arzt-Atteste richtig nutzen

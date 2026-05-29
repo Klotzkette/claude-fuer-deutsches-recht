@@ -1,6 +1,6 @@
 ---
 name: brao-konformitaetspruefung
-description: "E-Mail auf BRAO-Konformitaet pruefen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Pruefraster: Verschwiegenheitspflicht Interessenkonflikt unabhaengige Berufsausuebung Werbegrenzen Mandatsbeziehung. Output: BRAO-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BORA-Detailpruefung (bora-konformitaetspruefung)."
+description: "E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung)."
 ---
 
 # BRAO-Konformitätsprüfung
@@ -9,7 +9,7 @@ Dieser Skill prüft Ausgangsschreiben von Rechtsanwälten auf Einklang mit den B
 
 ## § 43a BRAO — Allgemeine Berufspflichten
 
-§ 43a Abs. 3 BRAO enthält das Sachlichkeitsgebot in seiner zentralen Form: Der Rechtsanwalt darf in Ausübung seines Berufs keine Äußerungen machen, die bewusst unwahr oder in sonstiger Weise unzulässig sind. Darunter fallen insbesondere herabsetzende Äußerungen über Personen ohne sachliche Grundlage, reine Schmähkritik und Behauptungen „ins Blaue hinein" — also ohne tatsächliche Grundlage. § 43a Abs. 1 BRAO verpflichtet zur Unabhängigkeit, § 43a Abs. 2 BRAO zur Verschwiegenheit über mandatsbezogene Tatsachen.
+§ 43a Abs. 3 BRAO enthält das Sachlichkeitsgebot in seiner zentralen Form: Der Rechtsanwalt darf in Ausübung seines Berufs keine Äußerungen machen, die bewusst unwahr oder in sonstiger Weise unzulässig sind. Darunter fallen insbesondere herabsetzende Äußerungen über Personen ohne sachliche Grundlage, reine Schmähkritik und Behauptungen "ins Blaue hinein" — also ohne tatsächliche Grundlage. § 43a Abs. 1 BRAO verpflichtet zur Unabhängigkeit, § 43a Abs. 2 BRAO zur Verschwiegenheit über mandatsbezogene Tatsachen.
 
 ## § 43b BRAO — Werbung
 
@@ -25,14 +25,14 @@ Die relevanten Normen sind: § 43a Abs. 3 BRAO (Sachlichkeitsgebot), § 43b BRAO
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ihre Argumentation ist an Unkenntnis des geltenden Rechts kaum zu überbieten."
-**Nachher (Prüfergebnis):** Unzulässig — Schmähkritik ohne sachliche Grundlage. Risiko: Berufsrechtliche Rüge, Beleidigungsklage. Empfehlung: „Die rechtliche Einordnung in Ihrem Schreiben weicht von der geltenden BGH-Rechtsprechung ab."
+**Vorher:** "Ihre Argumentation ist an Unkenntnis des geltenden Rechts kaum zu überbieten."
+**Nachher (Prüfergebnis):** Unzulässig — Schmähkritik ohne sachliche Grundlage. Risiko: Berufsrechtliche Rüge, Beleidigungsklage. Empfehlung: "Die rechtliche Einordnung in Ihrem Schreiben weicht von der geltenden BGH-Rechtsprechung ab."
 
-**Vorher:** „Wir sind die führende Kanzlei für Wirtschaftsrecht in Bayern."
+**Vorher:** "Wir sind die führende Kanzlei für Wirtschaftsrecht in Bayern."
 **Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 43b BRAO, sofern keine objektive Grundlage (Rankings, Zertifizierungen) vorhanden. Empfehlung: Sachliche Beschreibung des Tätigkeitsschwerpunkts.
 
-**Vorher:** „Der Gegner handelt bösgläubig und versucht, uns zu täuschen."
-**Nachher (Prüfergebnis):** Tatsachenbehauptung ohne Belegbasis — Risiko gemäß § 43a Abs. 3 Satz 2 BRAO. Empfehlung: „Die Darstellung der Gegenseite weicht von den uns vorliegenden Unterlagen erheblich ab."
+**Vorher:** "Der Gegner handelt bösgläubig und versucht, uns zu täuschen."
+**Nachher (Prüfergebnis):** Tatsachenbehauptung ohne Belegbasis — Risiko gemäß § 43a Abs. 3 Satz 2 BRAO. Empfehlung: "Die Darstellung der Gegenseite weicht von den uns vorliegenden Unterlagen erheblich ab."
 
 ## Ausgabeformat
 

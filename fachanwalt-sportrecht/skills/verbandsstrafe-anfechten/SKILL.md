@@ -1,6 +1,6 @@
 ---
 name: verbandsstrafe-anfechten
-description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs. gerichtliche Inhaltskontrolle vereinsrechtlich § 25 BGB Schiedsklauseln § 1029 ZPO CAS-Schiedsgerichtsbarkeit (BGH Pechstein-Urteil KZR 6/15 v. 07.06.2016 Kartellsenat). Dopingverfahren NADA Code WADA-Code Anti-Doping-Gesetz § 4 AntiDopG. Vertraglicher und persoenlichkeitsrechtlicher Schutz Spieler bei Vereinswechsel Lizenzentzug Spielsperre Bewertungs-Verfahren. Inhaltskontrolle nach §§ 305 ff. BGB AGB-Anwendung auf Verbandssatzung BGH II ZR 235/95.
+description: "Workflow-Skill zu verbandsstrafe anfechten. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Verbandsstrafe anfechten
@@ -12,7 +12,7 @@ description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spann
 3. Auf welche Satzungs- oder Regelwerksnorm stützt sich die Entscheidung?
 4. Wurde ein ordnungsgemäßes Disziplinarverfahren durchgeführt (Anhörung, Akteneinsicht, schriftliche Begründung)?
 5. Welche verbandsinternen Rechtsmittelinstanzen sieht die Satzung vor (Verbandsgericht, Berufungsausschuss, DIS)?
-6. Besteht eine Schiedsklausel zugunsten des CAS — und ist diese wirksam nach BGH KZR 6/15?
+6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 7. Ist die Saison aktuell laufend — ist vorläufiger Rechtsschutz (§ 935 ZPO oder CAS R37) nötig?
 8. Tangiert die Sanktion die Berufsausübung des Mandanten (Art. 12 GG — Berufssportler)?
 
@@ -40,12 +40,12 @@ description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spann
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| II ZR 70/86 | BGH, 28.11.1994 | Richterliche Inhaltskontrolle Vereinsstrafe; materiell satzungsgemäß, verhältnismäßig |
-| KZR 6/15 | BGH, 07.06.2016 (Pechstein) | Sportschiedsklauseln wirksam bei struktureller Ausgewogenheit |
-| II ZR 235/95 | BGH, 1997 | AGB-Kontrolle Verbandssatzung bei faktischem Beitrittszwang |
-| 1 BvR 2103/16 | BVerfG, 03.06.2022 | Sportschiedsgerichtsbarkeit verfassungsgemäß; Mindeststandards |
-| C-415/93 | EuGH, 15.12.1995 (Bosman) | Freizügigkeit Art. 45 AEUV; Transferbeschränkungen kartellrechtswidrig |
-| C-680/21 | EuGH, 21.12.2023 (Super League) | Exklusivität internationaler Dachverbände muss EU-Wettbewerbsrecht standhalten |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -57,13 +57,12 @@ description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spann
 | 2 | Formelle Wirksamkeit: Ordnungsgemäße Besetzung des Gremiums? | Satzung; § 25 BGB |
 | 3 | Anhörungsrecht gewährt — schriftlich und mit angemessener Frist? | Art. 103 Abs. 1 GG analog |
 | 4 | Akteneinsicht in Disziplinarakten gewährt oder verweigert? | Verfahrensgrundsätze |
-| 5 | Begründungspflicht: Ist die Entscheidung schriftlich begründet? | § 25 BGB; BGH II ZR 70/86 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Tatbestand der Sanktionsnorm tatsächlich erfüllt? | Materielle Prüfung |
 | 7 | Verschulden nachgewiesen (Vorsatz / Fahrlässigkeit)? | Verbandssatzung |
-| 8 | Verhältnismäßigkeit: Strafrahmen, Vorbelastung, Präzedenzfälle vergleichen | BGH II ZR 70/86 |
-| 9 | AGB-Kontrolle der Satzungsklauseln (§§ 307 ff. BGB)? | BGH II ZR 235/95 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Verbandsinterne Rechtsmittel ausgeschöpft (Berufungsinstanz)? | Satzung |
-| 11 | Schiedsklausel wirksam (BGH Pechstein; strukturelle Ausgewogenheit)? | BGH KZR 6/15 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Vorläufiger Rechtsschutz nötig (Saison, Existenz)? | § 935 ZPO; CAS R37 |
 | 13 | EU-Wettbewerbsrecht relevant (Monopol-Strukturen, Bosman)? | Art. 101, 102 AEUV |
 | 14 | Parallelweg Strafrecht (§ 4 AntiDopG) koordinieren? | AntiDopG |
@@ -234,11 +233,10 @@ Mit freundlichen Grüßen
 
 | Verband-Argument | Gegenstrategie |
 |---|---|
-| "Verbandsautonomie Art. 9 GG schützt die Entscheidung" | Inhaltskontrolle BGH II ZR 70/86: materiell satzungsgemäß und verhältnismäßig erforderlich |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Schiedsklausel schließt Staatsgericht aus" | § 1033 ZPO: einstweilige Verfügung trotzdem möglich; BGH Pechstein: strukturelle Ausgewogenheit prüfen |
 | "Verfahren ordnungsgemäß" | Protokoll analysieren; Anhörungsrecht und Akteneinsicht nachweisen |
-| "Strafrahmen angemessen" | Vergleichsfälle vorlegen; BGH II ZR 70/86 Verhältnismäßigkeit |
-| "AGB-Kontrolle nicht anwendbar" | BGH II ZR 235/95: bei faktischem Beitrittszwang §§ 307 ff. BGB anwendbar |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Doping: strict liability" | WADA-Code Art. 10.5, 10.6: Schuldminderung; Quellnachweis |
 
 ---
@@ -278,4 +276,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. BGB §§ 21, 25, 242, 305 ff., 823, 1004. GG Art. 9, 12. AntiDopG § 4. ZPO §§ 935, 1029, 1033. BGH II ZR 70/86 (28.11.1994). BGH KZR 6/15 (07.06.2016). BGH II ZR 235/95. BVerfG 1 BvR 2103/16 (03.06.2022). EuGH C-415/93 Bosman (15.12.1995). EuGH C-680/21 Super League (21.12.2023). CAS Code R37, R47 ff. WADA-Code 2021. Adolphsen Sportrecht. Vieweg/Sprenger Sportrecht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

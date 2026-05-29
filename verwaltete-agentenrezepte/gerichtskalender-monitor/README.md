@@ -13,7 +13,7 @@ Gleiche Quelle wie der [`terminkalender-monitor`](../../prozessrecht/agents/term
 - **Berechnete Fristen sind Hinweise, keine Kalendereinträge.** Gerichtliche Fristenregeln variieren je nach Gericht, Richter und Einzelanordnung (§ 224 ZPO, Verlängerungsanträge). Eine versäumte Gerichtsfrist hat Haftungsfolgen. Ein zugelassener Rechtsanwalt prüft jede berechnete Frist gegen die tatsächlichen Verfahrensvorschriften und etwaige gerichtliche Verfügungen, bevor sie eingetragen wird.
 - **Eingangsklassifizierungen sind heuristisch.** Ein Eingang, den der Agent falsch klassifiziert – ein Prozesskostenhilfeantrag, der als Sachantrag gelesen wird, ein Vergleichsangebot, das als streitiger Schriftsatz gelesen wird – kann eine falsche Fristenregel erzeugen. Lesen Sie den Eingang; vertrauen Sie nicht der Bezeichnung.
 - **Ein unbekanntes Gericht ist kein Standardwert.** Wenn die Fristentabelle ein Gericht nicht abdeckt, muss der Mapper `confidence: niedrig` + `verifizierung_erforderlich: true` zurückgeben, niemals einen stillen Standard. Wenn Sie eine sichere Frist bei einem unbekannten Gericht sehen, behandeln Sie die Regeltabelle als veraltet bis zum Beweis des Gegenteils.
-- **Ein ruhiger Kalender ist kein sauberer Kalender.** Gerichtliche Eingänge werden manchmal verzögert zugestellt. Protokollnotizen kommen manchmal Tage nach dem Ereignis. „Keine neuen Eingänge" ist eine Aussage über den Datenstand, nicht über den Verfahrensstand.
+- **Ein ruhiger Kalender ist kein sauberer Kalender.** Gerichtliche Eingänge werden manchmal verzögert zugestellt. Protokollnotizen kommen manchmal Tage nach dem Ereignis. "Keine neuen Eingänge" ist eine Aussage über den Datenstand, nicht über den Verfahrensstand.
 
 ## Deployment
 
@@ -65,4 +65,4 @@ Jede Frist führt `confidence`- und `verifizierung_erforderlich`-Felder. Der Ber
 - **Arbeitsgericht:** § 61b ArbGG (Kündigungsschutzklage: 3 Wochen), §§ 64, 66 ArbGG (Berufung)
 - **Berechnung:** §§ 186–193 BGB (Fristenberechnung), § 222 ZPO
 - **Zustellung:** §§ 166 ff. ZPO, beA-Verordnung (BRAV)
-- **Wiedereinsetzung:** BGH, Beschl. v. 27.09.2022 – VI ZB 67/21, NJW-RR 2022, 1571 (Anforderungen an anwaltliche Fristenkontrolle)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

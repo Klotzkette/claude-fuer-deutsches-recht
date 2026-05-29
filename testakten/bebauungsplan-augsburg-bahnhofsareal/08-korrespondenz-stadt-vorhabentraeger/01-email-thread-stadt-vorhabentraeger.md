@@ -23,7 +23,7 @@ Magnus Reiff
 Geschäftsführer
 Bahnhofsquartier Augsburg GmbH & Co. KG
 
-> **[Kanzleimarkierung: „Acht Geschosse MU 3 wurden bereits im April 2022 — VOR Aufstellungsbeschluss, VOR jeglicher Bürgerbeteiligung — vertraglich abgestimmt. Die spätere ‚Aufstockung 6→8 Geschosse' im Januar 2024 war also tatsächlich nur die Wiederherstellung der ursprünglichen Vereinbarung."]**
+> **[Kanzleimarkierung: "Acht Geschosse MU 3 wurden bereits im April 2022 — VOR Aufstellungsbeschluss, VOR jeglicher Bürgerbeteiligung — vertraglich abgestimmt. Die spätere 'Aufstockung 6→8 Geschosse' im Januar 2024 war also tatsächlich nur die Wiederherstellung der ursprünglichen Vereinbarung."]**
 
 ---
 
@@ -41,7 +41,7 @@ einverstanden, 12. Mai bestätigt. Den Aufstellungsbeschluss bekommen wir im Jun
 VG
 KHS
 
-> **[Kanzleimarkierung: „Wörtlich: ‚nach außen mit sechs Geschossen kommunizieren … Aufstockung später per Bauausschuss'. Das ist ein **Geständnis** zur bewussten Umgehung der Öffentlichkeitsbeteiligung. § 3 Abs. 2 BauGB, § 4a Abs. 3 BauGB, ggf. § 214 Abs. 3 S. 2 BauGB. Höchst relevantes Beweismittel. Akteneinsichtsvermerk 22.07.2024 dokumentiert Fundort: Verwaltungsvorgang 6.1-900/22, Heft 3, Bl. 217."]**
+> **[Kanzleimarkierung: "Wörtlich: 'nach außen mit sechs Geschossen kommunizieren … Aufstockung später per Bauausschuss'. Das ist ein **Geständnis** zur bewussten Umgehung der Öffentlichkeitsbeteiligung. § 3 Abs. 2 BauGB, § 4a Abs. 3 BauGB, ggf. § 214 Abs. 3 S. 2 BauGB. Höchst relevantes Beweismittel. Akteneinsichtsvermerk 22.07.2024 dokumentiert Fundort: Verwaltungsvorgang 6.1-900/22, Heft 3, Bl. 217."]**
 
 ---
 
@@ -60,7 +60,7 @@ Beste Grüße
 Bettina Witzel
 DB Immobilien
 
-> **[Kanzleimarkierung: „Bei Satzungsbeschluss 23.05.2024 lag KEINE Entwidmung vor. Damit waren die Flächen bauplanungsrechtlich noch Bahnanlage (§ 38 BauGB; BVerwG 4 C 7.04). Ein Bebauungsplan kann für Bahnanlagen erst Festsetzungen treffen, wenn die Entwidmung wirksam ist. Schwerer Mangel."]**
+> **[Kanzleimarkierung: "Bei Satzungsbeschluss 23.05.2024 lag KEINE Entwidmung vor. Damit waren die Flächen bauplanungsrechtlich noch Bahnanlage (§ 38 BauGB; BVerwG 4 C 7.04). Ein Bebauungsplan kann für Bahnanlagen erst Festsetzungen treffen, wenn die Entwidmung wirksam ist. Schwerer Mangel."]**
 
 ---
 
@@ -78,4 +78,4 @@ wie kurz besprochen anbei die Kurzfassung des Mobilitätskonzepts (zwei Seiten).
 Beste Grüße
 M. Reiff
 
-> **[Kanzleimarkierung: „Mobilitätskonzept als Grundlage für Stellplatzreduktion auf 0,3/WE wurde **20 Tage vor Satzungsbeschluss** als Zweiseiter eingereicht — und die ausführliche Fassung erst NACH Satzungsbeschluss. Substantielle Abwägungsgrundlage fehlt. Art. 47 Abs. 2 S. 2 BayBO nicht erfüllt."]**
+> **[Kanzleimarkierung: "Mobilitätskonzept als Grundlage für Stellplatzreduktion auf 0,3/WE wurde **20 Tage vor Satzungsbeschluss** als Zweiseiter eingereicht — und die ausführliche Fassung erst NACH Satzungsbeschluss. Substantielle Abwägungsgrundlage fehlt. Art. 47 Abs. 2 S. 2 BayBO nicht erfüllt."]**

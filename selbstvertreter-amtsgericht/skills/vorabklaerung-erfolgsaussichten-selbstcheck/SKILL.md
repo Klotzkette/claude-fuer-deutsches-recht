@@ -1,6 +1,6 @@
 ---
 name: vorabklaerung-erfolgsaussichten-selbstcheck
-description: "Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjaehrung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstpruefung vor."
+description: "Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor."
 ---
 
 # Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck

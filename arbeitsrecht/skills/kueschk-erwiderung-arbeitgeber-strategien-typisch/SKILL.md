@@ -1,6 +1,6 @@
 ---
 name: kueschk-erwiderung-arbeitgeber-strategien-typisch
-description: "Typische Verteidigungsstrategien des Arbeitgebers im Kuendigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rueckkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik."
+description: "Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik."
 ---
 
 # Typische Arbeitgeber-Strategien im Kündigungsschutzprozess
@@ -24,16 +24,11 @@ description: "Typische Verteidigungsstrategien des Arbeitgebers im Kuendigungssc
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 — Betriebsbedingte Kündigung: Der Arbeitgeber muss konkret darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf für die Position des Arbeitnehmers dauerhaft entfallen ist; eine pauschale Behauptung von Auftragsmangel genügt nicht.
-- BAG, Urt. v. 18.10.2012 – 6 AZR 41/11, NZA 2013, 101 — Betriebsgröße nach § 23 KSchG: Der Arbeitgeber trägt die Darlegungs- und Beweislast dafür, dass der Betrieb die Schwellenwerte nicht überschreitet; der Arbeitnehmer muss substantiiert bestreiten; bloßes Bestreiten des Arbeitnehmers reicht, wenn der Arbeitgeber substantiiert vorgetragen hat.
-- BAG, Urt. v. 22.09.2016 – 2 AZR 700/15, NZA 2017, 175 — Zur Betriebsratsanhörung nach § 102 BetrVG: Der Arbeitgeber muss alle dem Gericht bekannten Kündigungsgründe mitteilen; Nachschieben nicht mitgeteilter Gründe ist im Prozess grundsätzlich ausgeschlossen; nachlässige Anhörung macht die Kündigung unwirksam.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 200–220 (Darlegungs- und Beweislast betriebsbedingte Kündigung; Substantiierungstiefe)
-- Schaub/Linck, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 132 Rn. 50–80 (Klageerwiderung und Verteidigungsstrategien; Prozessrealität)
-- HWK/Quecke, 10. Aufl. 2022, § 102 BetrVG Rn. 50–70 (Beweislast des Arbeitgebers für ordnungsgemäße BR-Anhörung; Formfehler)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Kenntnis der typischen Arbeitgeberstrategien hilft dem Arbeitnehmer und seinem Anwalt, sich vorzubereiten und nicht in Fallen zu tappen. Dieser Skill beleuchtet die häufigsten Vorgehensweisen.
@@ -46,19 +41,19 @@ Kenntnis der typischen Arbeitgeberstrategien hilft dem Arbeitnehmer und seinem A
 - Wird die Wartezeit bestritten? Arbeitgeber behauptet, Beschäftigung begann nach dem behaupteten Datum.
 - Wurden Fristen eingehalten? Angriff auf den Zeitpunkt des Zugangs.
 
-**Vorbereitung:** Arbeitsvertrag, Lohnabrechnungen, Zeugen für Arbeitsbeginn parat halten. Zugangsdatum belegen. Zur Betriebsgröße: Arbeitgeber trägt Beweislast (BAG, Urt. v. 18.10.2012 – 6 AZR 41/11).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Strategie 2: Pauschalbestreitung der Klagebegründung
 
-**Taktik:** Arbeitgeberanwalt bestreitet pauschal alle Behauptungen des Arbeitnehmers — „Wird bestritten."
+**Taktik:** Arbeitgeberanwalt bestreitet pauschal alle Behauptungen des Arbeitnehmers — "Wird bestritten."
 
 **Was das bedeutet:** Pauschalbestreiten ist unbeachtlich, wenn der Arbeitnehmer zuvor substantiiert vorgetragen hat (§ 138 Abs. 2 ZPO). Es erhöht aber den Druck auf den Arbeitnehmer, jeden Vortrag mit Beweisen zu unterlegen.
 
-**Vorbereitung:** Konkrete Tatsachenbehauptungen mit Beweisangeboten verbinden. Nicht nur „es gab keine Sozialauswahl" — sondern konkret: Kollegin K (Sozialdaten: Alter X, Betriebszugehörigkeit Y, keine Unterhaltspflichten) hätte statt mir entlassen werden müssen.
+**Vorbereitung:** Konkrete Tatsachenbehauptungen mit Beweisangeboten verbinden. Nicht nur "es gab keine Sozialauswahl" — sondern konkret: Kollegin K (Sozialdaten: Alter X, Betriebszugehörigkeit Y, keine Unterhaltspflichten) hätte statt mir entlassen werden müssen.
 
 ## Strategie 3: Die Stricken-Anwalt-Hinhaltetaktik
 
-**Was ist ein „Stricken-Anwalt"?**
+**Was ist ein "Stricken-Anwalt"?**
 
 Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeitgeberanwalt zieht das Verfahren bewusst in die Länge — er stellt Anträge auf Schriftsatzfristen, beantragt Vertagungen, reicht verspätet Unterlagen ein. Ziel: Der Arbeitnehmer wird müde, verliert die finanzielle Ausdauer oder findet zwischenzeitlich einen neuen Job.
 
@@ -71,7 +66,7 @@ Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeit
 
 ## Strategie 4: Vergleichsdruck aufbauen
 
-**Taktik:** Im Gütetermin oder Kammertermin bietet der Arbeitgeberanwalt eine Abfindung an — aber unter Zeitdruck. „Nehmen Sie jetzt oder nie."
+**Taktik:** Im Gütetermin oder Kammertermin bietet der Arbeitgeberanwalt eine Abfindung an — aber unter Zeitdruck. "Nehmen Sie jetzt oder nie."
 
 **Gegenmaßnahme:** Keine Entscheidung unter Druck. Um Bedenkzeit bitten. Vergleich schriftlich festhalten. Alle Punkte prüfen (Beendigungsdatum, Freistellung, Zeugnisnote, Urlaubsabgeltung).
 
@@ -109,5 +104,4 @@ Arbeitgeber bietet Vergleich an?
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 <!-- AUDIT 27.05.2026
-BAG 2 AZR 672/01: Eintrag geloescht. Skill behauptete Thema: Ausserordentliche Nachkuendigung § 626 BGB / § 4 KSchG, NZA 2003, 614. Dejure.org bestaetigt: Tatsaechliches Thema ist Kleinbetriebsklausel Treuwidrigkeit § 242 BGB, NZA 2003, 717. Thema stimmt nicht mit Skill-Kontext ueberein; keine verifizierbarer Ersatz gefunden. Eintrag geloescht. Quelle: https://dejure.org/2003,705
 -->

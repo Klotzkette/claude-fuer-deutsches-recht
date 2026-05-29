@@ -55,8 +55,8 @@ Zum 31.08.2013 wurde der Geschäftsbetrieb vollständig eingestellt. Die Mitarbe
 | Position | Erlös (EUR) | Anmerkung |
 |---|---:|---|
 | Räumungsverkäufe Modehaus + Outlet | 158.420 brutto | bis 31.08.2013 |
-| Verkauf Warenrest an Restposten-Händler „Skandinavische Mode AG" | 18.420 | Pauschalpreis Restbestand 30.08.2013 |
-| Verkauf Online-Shop-Domain + Kundenstamm | 6.500 | an „Norddeutsche Mode-Welt UG" |
+| Verkauf Warenrest an Restposten-Händler "Skandinavische Mode AG" | 18.420 | Pauschalpreis Restbestand 30.08.2013 |
+| Verkauf Online-Shop-Domain + Kundenstamm | 6.500 | an "Norddeutsche Mode-Welt UG" |
 | Verkauf Ladeneinrichtung Hafen-Geschäft | 4.200 | Pauschal an Gastronom Nachfolger |
 | Ladeneinrichtung Modehaus / Outlet | noch nicht verwertet | Verwertung Q4 2013 / Q1 2014 |
 | Forderungen aus L+L (Reklamationen, Rückläufer, Versand-Nachlieferungen) | 4.840 bisher beigetrieben | Beitreibung läuft |
@@ -110,7 +110,7 @@ Konkret habe ich folgende Zahlungen identifiziert (Auszug):
 
 - 12.12.2012: Zahlung an Lieferanten X-Mode KG iHv EUR 8.420 (kein Eil-Lieferungs-Erfordernis nachweisbar)
 - 19.12.2012: Zahlung an Lieferanten Trendyfashion GmbH iHv EUR 14.200 (Mahn-Druck bestand, aber Lieferung schon erfolgt)
-- 03.01.2013: Privatentnahme Stefan Berger iHv EUR 12.000 zur „Tilgung Privatdarlehen Sparkasse Kiel"
+- 03.01.2013: Privatentnahme Stefan Berger iHv EUR 12.000 zur "Tilgung Privatdarlehen Sparkasse Kiel"
 - 08.01.2013: Geschäftsführer-Gehalt Januar 2013 iHv EUR 9.840 (beide Berger jeweils EUR 4.920)
 - Diverse Kleinbeträge
 

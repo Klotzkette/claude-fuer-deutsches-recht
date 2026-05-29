@@ -1,5 +1,14 @@
 # Testakte: Betriebliche Altersversorgung – MEISSNER RHEINWERK AG
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-bav-strategie-konzern-meissner-rheinwerk-ag` (diese Akte) | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 > **Hinweis: Alle Personen, Unternehmen, Aktenzeichen, Finanzdaten, Adressen und sonstigen
 > Angaben in dieser Akte sind vollständig fiktiv und dienen ausschließlich als Testmaterial
 > für das Plugin `bav-strategie-konzern`. Jede Ähnlichkeit mit realen Personen, Unternehmen
@@ -89,7 +98,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
    Rating-Schutz)
 2. **Pension Buyout** für ca. 4.300 Rentner (DBO ca. EUR 780 Mio.) mit Hanseatica
    Lebensversicherung AG; Financial Close geplant 31.12.2026
-3. **CTA-Ausweitung** des „Rheinland Trust e.V." von EUR 780 Mio. auf EUR 1,1 Mrd.
+3. **CTA-Ausweitung** des "Rheinland Trust e.V." von EUR 780 Mio. auf EUR 1,1 Mrd.
    (Doppeltreuhand, insolvenzfest nach BAG, Urt. v. 22.09.2020 — 3 AZR 303/18)
 
 ### Laufende Verfahren
@@ -116,7 +125,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 | `Versorgungsordnung_Werk_Stuttgart_2002.pdf` | PDF | VO 1981/2002, Werk Stuttgart-Vaihingen (K-VO-2) | Unterstützungskasse, Gesamtversorgung 75 % Bruttogehalt |
 | `Versorgungsordnung_Werk_Bremen_2014.pdf` | PDF | VO 2008/2014, Werk Bremen-Häfen (K-VO-5) | Pensionsfonds § 112 VAG; DC-Modell; BaFin-reguliert |
 | `Konzept_Projekt_Rheingold_2030.pdf` | PDF | Strategiepapier Sompeh-Ostermann, 8 Seiten, Version 2.1 | Risikomatrix, Meilensteinplan, internationale Dimension UK/JP |
-| `Memo_CTA_Strukturierung.pdf` | PDF | Memo zur Doppeltreuhand „Rheinland Trust e.V." | IAS-19-Qualifizierung; BAG, Urt. v. 22.09.2020 — 3 AZR 303/18; Aufstockung EUR 320 Mio. |
+| `Memo_CTA_Strukturierung.pdf` | PDF | Memo zur Doppeltreuhand "Rheinland Trust e.V." | IAS-19-Qualifizierung; BAG, Urt. v. 22.09.2020 — 3 AZR 303/18; Aufstockung EUR 320 Mio. |
 | `Memo_Pension_Buyout_Versicherer.pdf` | PDF | Verhandlungsstand Hanseatica Lebensversicherung AG | Indikativpreis EUR 820 Mio.; § 4 Abs. 4 BetrAVG; Japan-Segment |
 | `Memo_DB_zu_DC_Transition.pdf` | PDF | DB→DC-Transition: Rechtliches, Steuerfolgen, IAS 19 (Curtailment) | Curtailment-Gewinn ca. EUR 100 Mio.; Settlement-Verlust ca. EUR 40 Mio. |
 | `Mail_Vorstand_an_Kanzlei.pdf` | PDF | Drei E-Mails: CFO↔Partner, Kanzlei-intern, Kyoto-Update | Budgetstatus, Einigungsstellenstand, BaFin-Kyoto, Tokyo District Court |
@@ -124,7 +133,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 | `Honorarvereinbarung_Treuenfels_Yamamoto.pdf` | PDF | Detaillierte Honorarvereinbarung mit Stundensatztabelle und Kappungsklausel | EUR 980 Partner / EUR 720 Counsel / EUR 520 Sr. Associate |
 | `Bilanzielle_Auswirkungen_HGB_IFRS.xlsx` | Excel | Pensionsrückstellungen HGB/IFRS/§ 6a EStG; Sensitivitätsanalyse; Meilensteine | 5 Tabs: Rollforward IAS 19; HGB; § 6a; Sensitivität; Meilensteine |
 | `Notiz_Mandantengespraech_Vorstand.txt` | Text | Chaotische handschriftliche Mitschrift Kick-off 14.01.2026 | Nicht autorisiert; enthält Hintergrundinfos COO, BR-Lage, Kyoto-Video |
-| `whatsapp-cfo-an-partner.png.placeholder.txt` | Placeholder | WhatsApp CFO → Sompeh-Ostermann (08.04.2026, 21:37 Uhr) | Original aus Datenschutzgründen nicht in Akte; Inhalt sinngemäß dokumentiert |
+| `Aktenvermerk_WhatsApp_CFO_an_Partner_2026-04-08.md` | Beschreibung | WhatsApp CFO → Sompeh-Ostermann (08.04.2026, 21:37 Uhr) | Original aus Datenschutzgründen nicht in Akte; Inhalt sinngemäß dokumentiert |
 
 ---
 
@@ -133,7 +142,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 ### 1. Komplexe bAV-Landschaft analysieren
 
 Der `bav-strategie-konzern`-Skill muss aus einem gemischten Aktendossier (PDFs, Excel, TXT,
-Placeholders) die relevante Struktur extrahieren:
+Bildbeschreibungen und Aktenvermerken) die relevante Struktur extrahieren:
 
 - Sechs Versorgungsordnungen mit unterschiedlichen Durchführungswegen (Direktzusage,
   Unterstützungskasse, Pensionsfonds, Direktversicherung)
@@ -171,7 +180,7 @@ Placeholders) die relevante Struktur extrahieren:
 
 ### 6. Informelle Dokumente auswerten
 
-Anhand der `Notiz_Mandantengespraech_Vorstand.txt` und des WhatsApp-Placeholders muss
+Anhand der `Notiz_Mandantengespraech_Vorstand.txt` und des WhatsApp-Aktenvermerks muss
 der Skill Hintergrundinformationen einordnen:
 - Spannungsfeld CFO / Beratungsbudget
 - COO wenig involviert

@@ -1,6 +1,6 @@
 ---
 name: haeufige-fehler-vermeiden
-description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 haeufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Pruefraster Fehlertypen-Scan Selbstpruefung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil)."
+description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil)."
 ---
 
 # Häufige Fehler vermeiden — Top-20
@@ -13,10 +13,7 @@ description: "Student will typische Fehler in juristischen Hausarbeiten vermeide
 4. Ist die Arbeit zum ersten Mal gelesen (Ersterkennung) oder nach einer Pause (frische Perspektive)?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Typischer Subsumtionsfehler: Tatbestandsmerkmal ohne Sachverhaltsbezug abgehandelt; BGH kassiert entsprechende Urteile wegen Begruendungsmangels.
-- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Unbelegte Tatsachenbehauptungen in juristischen Schriften begründen zivilrechtliche Haftung; im Lernkontext: Fehler ohne Beleg wird als methodisch unzulaessig bewertet.
-- BGH, Urt. v. 14.10.2003 - VI ZR 425/02, NJW 2004, 356 — Sorgfaeltige Quellenrecherche als Sorgfaltspflicht; im Studienkontext: fehlende Fundstellen begruenden Abzug.
-- BVerfG, Beschl. v. 04.02.1975 - 2 BvL 5/74, BVerfGE 38, 386 — Logisch-konsistente Argumentation als rechtsstaatliches Gebot; Fehler in Prüfungslogik fuehren zu materiell falschen Ergebnissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: haeufig vergessener Pruefungspunkt, fuehrt zu Fehler 19
@@ -24,10 +21,9 @@ description: "Student will typische Fehler in juristischen Hausarbeiten vermeide
 - § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab fuer Definitionen und Subsumtion
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 40-70 (Haeufige Fehler in der Rechtsanwendung)
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 4 (Korrekte und fehlerhafte Subsumtion)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**, typische Fehler zu vermeiden. Jeder Fehler kommt mit einer sanften Korrektur-Anregung.
@@ -47,7 +43,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 2: Sprung-Subsumtion
 
-**Symptom**: „Hier liegt ein Kaufvertrag vor." — ohne Definition, ohne Subsumtion.
+**Symptom**: "Hier liegt ein Kaufvertrag vor." — ohne Definition, ohne Subsumtion.
 
 **Korrektur**:
 - Vier Schritte: Obersatz – Definition – Subsumtion – Ergebnis.
@@ -55,15 +51,15 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 3: Ergebnis-Vorausnahme im Obersatz
 
-**Symptom**: „A hat einen Anspruch gegen B." — vor der Prüfung.
+**Symptom**: "A hat einen Anspruch gegen B." — vor der Prüfung.
 
 **Korrektur**:
-- Hypothetisch beginnen: „A könnte einen Anspruch gegen B haben."
+- Hypothetisch beginnen: "A könnte einen Anspruch gegen B haben."
 - Erst nach Prüfung das Ergebnis ziehen.
 
 ### Fehler 4: Definitions-Mangel
 
-**Symptom**: „Eine Willenserklärung liegt vor." — ohne juristische Definition.
+**Symptom**: "Eine Willenserklärung liegt vor." — ohne juristische Definition.
 
 **Korrektur**:
 - Jedes Tatbestandsmerkmal mit Definition aus Kommentar / Lehrbuch / Norm.
@@ -71,10 +67,10 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 5: Subsumtion ohne Sachverhalts-Bezug
 
-**Symptom**: „Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen."
+**Symptom**: "Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen."
 
 **Korrektur**:
-- Nach der allgemeinen Erläuterung **konkret** subsumieren: „Hier hat A am 12.03. gesagt: ..."
+- Nach der allgemeinen Erläuterung **konkret** subsumieren: "Hier hat A am 12.03. gesagt: ..."
 
 ---
 
@@ -82,18 +78,18 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 6: Wertende Wendungen ohne Beleg
 
-**Symptom**: „Natürlich ist das so." — „Selbstverständlich ..."
+**Symptom**: "Natürlich ist das so." — "Selbstverständlich ..."
 
 **Korrektur**:
-- Streiche „natürlich", „selbstverständlich", „klar".
+- Streiche "natürlich", "selbstverständlich", "klar".
 - Stattdessen: juristisch begründen.
 
 ### Fehler 7: Umgangssprache
 
-**Symptom**: „Der Typ hat dem A das Auto abgezogen."
+**Symptom**: "Der Typ hat dem A das Auto abgezogen."
 
 **Korrektur**:
-- Juristische Sprache: „T hat dem A das Fahrzeug unter Bruch fremden Gewahrsams entzogen."
+- Juristische Sprache: "T hat dem A das Fahrzeug unter Bruch fremden Gewahrsams entzogen."
 
 ### Fehler 8: Lange Sätze
 
@@ -108,12 +104,12 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: Du schreibst aus Sicht eines Anwalts statt eines Gutachters.
 
 **Korrektur**:
-- In der Hausarbeit ist die Rolle „neutraler Gutachter", außer der Bearbeitungs-Vermerk verlangt anderes.
+- In der Hausarbeit ist die Rolle "neutraler Gutachter", außer der Bearbeitungs-Vermerk verlangt anderes.
 - Bei Schriftsatz-Aufgabe: Parteilich, aber sachlich.
 
 ### Fehler 10: Indikativ statt Konjunktiv im Obersatz
 
-**Symptom**: „A hat einen Anspruch" statt „A könnte einen Anspruch haben".
+**Symptom**: "A hat einen Anspruch" statt "A könnte einen Anspruch haben".
 
 **Korrektur**:
 - Vor der Prüfung Konjunktiv.
@@ -125,14 +121,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 11: Fehlende Fundstelle
 
-**Symptom**: „BGH NJW 2024" ohne Anfangsseite.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Korrektur**:
 - Volle Fundstelle: Gericht, Datum, Aktenzeichen, Zeitschrift Jahrgang Anfangs-Seite konkrete Stelle / Randnummer.
 
 ### Fehler 12: Unbelegte Behauptungen
 
-**Symptom**: „Die h.M. sagt..." ohne Quelle.
+**Symptom**: "Die h.M. sagt..." ohne Quelle.
 
 **Korrektur**:
 - Bei jeder juristischen Aussage: Quelle in der Fußnote.
@@ -142,14 +138,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: BGH zitieren, aber nur aus einem Kommentar entnommen.
 
 **Korrektur**:
-- Original lesen, oder kennzeichnen: „Zitiert nach Müller in NJW 2024 Seite 765."
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Fehler 14: Lehrbuch-Plagiat
 
 **Symptom**: Du übernimmst Formulierungen wörtlich ohne Anführungszeichen.
 
 **Korrektur**:
-- Eigene Formulierung **mit Beleg**: „So Müller in JZ 2024 Seite 765."
+- Eigene Formulierung **mit Beleg**: "So Müller in JZ 2024 Seite 765."
 - Bei wörtlicher Wiedergabe: Anführungszeichen + Fundstelle.
 
 ---
@@ -174,14 +170,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 17: Fehlender Sachverhalts-Bezug in Überschriften
 
-**Symptom**: „Strafbarkeit T" — ohne Konkretion.
+**Symptom**: "Strafbarkeit T" — ohne Konkretion.
 
 **Korrektur**:
-- „Strafbarkeit T wegen Diebstahls gemäß § 242 StGB"
+- "Strafbarkeit T wegen Diebstahls gemäß § 242 StGB"
 
 ### Fehler 18: Inkonsistente Personen-Buchstaben
 
-**Symptom**: Mal „A", mal „der Kläger", mal „Müller".
+**Symptom**: Mal "A", mal "der Kläger", mal "Müller".
 
 **Korrektur**:
 - Einmal vergeben (z.B. K für Kläger, B für Beklagter), durchgehend verwenden.
@@ -192,7 +188,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 19: Sachverhalts-Tatsachen ignoriert
 
-**Symptom**: Im Sachverhalt steht „A war zur Tatzeit volltrunken", in der Subsumtion nicht erwähnt.
+**Symptom**: Im Sachverhalt steht "A war zur Tatzeit volltrunken", in der Subsumtion nicht erwähnt.
 
 **Korrektur**:
 - Jede Sachverhalts-Tatsache ist relevant, soweit nicht bewiesen ist, dass sie unwesentlich ist.
@@ -203,7 +199,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: Bei mehrdeutigem Sachverhalt nur eine Lesart geprüft.
 
 **Korrektur**:
-- Wenn der Sachverhalt mehrdeutig ist: Beide Lesarten prüfen oder „hilfsweise" anführen.
+- Wenn der Sachverhalt mehrdeutig ist: Beide Lesarten prüfen oder "hilfsweise" anführen.
 
 ---
 

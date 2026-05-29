@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-datenraum-gap-clean-room
-description: "Gap-Analyse des Datenraums und Clean-Room-Protokoll fuer M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Pruefraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragspruefung siehe due-diligence-commercial-contracts."
+description: "Gap-Analyse des Datenraums und Clean-Room-Protokoll für M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Prüfraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragsprüfung siehe due-diligence-commercial-contracts."
 ---
 
 # Datenraum Gap-Analyse und Clean Room
@@ -23,16 +23,12 @@ description: "Gap-Analyse des Datenraums und Clean-Room-Protokoll fuer M&A-Trans
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 15.03.2022 - II ZR 4/21, NJW 2022, 1940 — Datenraum-Access-Log ist Beweismittel fuer Kaeufer-Kenntnis von Disclosure; Download-Protokolle rechtlich relevant
-- OLG Frankfurt, Urt. v. 14.09.2021 - 5 U 63/21, NZG 2022, 112 — Nur indexiertes und leicht auffindbares Dokument im Datenraum gilt als disclosed; versteckte Ablage reicht nicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bundeskartellamt, Leitfaden Clean Team 2019 — kartellrechtlicher Clean Team-Betrieb; nur ausgewaehlte, operativ unabhaengige Personen erhalten Zugang zu wettbewerbssensiblen Informationen
 
-## Kommentarliteratur
+## Quellenregel
 
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5 — DD-Prozessorganisation
-- Immenga/Mestmaecker GWB § 1 Rn. 250 ff. — Informationsaustausch und Clean Room
-- Kühling/Buchner DSGVO Art. 28 Rn. 1 ff. — Auftragsverarbeitung
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gap-Analyse: Bewertungsmatrix
 
 | Status | Bedeutung | Handlung |
@@ -101,5 +97,5 @@ Verpflichtungen unterschrieben: [Ja/Nein]
 ## Quellen
 
 - Art. 5, 28 DSGVO; §§ 1, 19 GWB; § 17 UWG; Art. 18 MAR
-- BGH II ZR 4/21 (Datenraum-Log); OLG Frankfurt 5 U 63/21 (Disclosure); BKartA Leitfaden Clean Team 2019
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5

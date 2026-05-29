@@ -23,13 +23,13 @@ gegen
 **Stadt Augsburg**, vertreten durch die Oberbürgermeisterin Eva Weber, Rathausplatz 1, 86150 Augsburg
 — Antragsgegnerin —
 
-wegen Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West", Bekanntmachung 14.06.2024
+wegen Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West", Bekanntmachung 14.06.2024
 
 stelle ich namens und in Vollmacht der Antragstellerin
 
 # Antrag
 
-> **Der Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West — Quartier zwischen Halderstraße, Provinostraße und Bahntrasse" der Stadt Augsburg, beschlossen vom Stadtrat am 23. Mai 2024, bekanntgemacht im Amtsblatt der Stadt Augsburg Nr. 12/2024 vom 14. Juni 2024, wird für unwirksam erklärt.**
+> **Der Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West — Quartier zwischen Halderstraße, Provinostraße und Bahntrasse" der Stadt Augsburg, beschlossen vom Stadtrat am 23. Mai 2024, bekanntgemacht im Amtsblatt der Stadt Augsburg Nr. 12/2024 vom 14. Juni 2024, wird für unwirksam erklärt.**
 
 Weiter wird beantragt:
 
@@ -60,7 +60,7 @@ Der Bebauungsplan ist nichtig, hilfsweise teilnichtig, wegen einer Vielzahl beac
 
 Nach Ende der förmlichen Auslegung (06.10.2023) wurde mit Beschluss des Bauausschusses vom 23.01.2024 das Maß der baulichen Nutzung im MU 3 von **6 auf 8 Vollgeschosse** aufgestockt (+ 33 % Wandhöhe). Diese Änderung berührt die Grundzüge der Planung. Eine erneute Auslegung wurde nicht durchgeführt. Verstoß gegen § 4a Abs. 3 S. 1 BauGB. Beachtlich nach § 214 Abs. 1 S. 1 Nr. 2 BauGB. Innerhalb der Frist des § 215 BauGB durch Schreiben vom 04.02.2024 substantiiert gerügt.
 
-Der Verstoß wird vertieft (Beweisangebot: Akteneinsicht, Heft 3 Bl. 217 — interne E-Mail Schimanek/Reiff 12.04.2022, wonach „8 Geschosse" stets das Ziel waren und die 6-Geschosse-Variante nur die öffentlichkeitswirksame Etappe darstellte).
+Der Verstoß wird vertieft (Beweisangebot: Akteneinsicht, Heft 3 Bl. 217 — interne E-Mail Schimanek/Reiff 12.04.2022, wonach "8 Geschosse" stets das Ziel waren und die 6-Geschosse-Variante nur die öffentlichkeitswirksame Etappe darstellte).
 
 #### 2. Online-Veröffentlichung Umweltbericht (§ 4a Abs. 4 BauGB)
 
@@ -70,7 +70,7 @@ Der Umweltbericht war in der Auslegungsphase nicht — wie nach § 4a Abs. 4 Bau
 
 #### 1. Lärm Tiefgaragenzufahrt MU 3
 
-Die Tiefgaragenzufahrt im MU 3 liegt 8 m gegenüber den Schlafraumfenstern der Antragstellerin. Das Schallschutzgutachten der IBA Akustik GmbH (17.04.2024) klammert diese Emissionsquelle ausdrücklich aus. Auch die Außenwohnbereiche der Bestandsbebauung Provinostraße 16, 18, 20 wurden nicht untersucht. Der Gutachter weist selbst darauf hin, dass die Stadt Augsburg „bewusst" auf eine entsprechende Beauftragung verzichtet hat.
+Die Tiefgaragenzufahrt im MU 3 liegt 8 m gegenüber den Schlafraumfenstern der Antragstellerin. Das Schallschutzgutachten der IBA Akustik GmbH (17.04.2024) klammert diese Emissionsquelle ausdrücklich aus. Auch die Außenwohnbereiche der Bestandsbebauung Provinostraße 16, 18, 20 wurden nicht untersucht. Der Gutachter weist selbst darauf hin, dass die Stadt Augsburg "bewusst" auf eine entsprechende Beauftragung verzichtet hat.
 
 Damit fehlt zentrales Abwägungsmaterial. Verstoß gegen § 2 Abs. 3 BauGB. Beachtlich nach § 214 Abs. 1 S. 1 Nr. 1 BauGB. Innerhalb der Rügefrist gerügt.
 
@@ -98,7 +98,7 @@ Der Durchführungs- und Erschließungsvertrag wurde am **12. Mai 2022** geschlos
 
 ### IV. Anpassung Flächennutzungsplan / Bahnanlage
 
-Der FNP weist das Plangebiet als „Bahnanlage" aus. Eine Entwidmung nach § 23 AEG war zum Zeitpunkt des Satzungsbeschlusses nicht abgeschlossen (DB-Mitteilung 08.02.2024 — Entscheidung „voraussichtlich Q4/2024"). Für Bahnanlagen können nach § 38 BauGB i. V. m. BVerwG, Urteil vom 16.12.1988 – 4 C 7.04, im Bebauungsplan keine Festsetzungen getroffen werden, solange die Entwidmung nicht wirksam ist. Schwerer materieller Fehler.
+Der FNP weist das Plangebiet als "Bahnanlage" aus. Eine Entwidmung nach § 23 AEG war zum Zeitpunkt des Satzungsbeschlusses nicht abgeschlossen (DB-Mitteilung 08.02.2024 — Entscheidung "voraussichtlich Q4/2024"). Für Bahnanlagen können nach § 38 BauGB i. V. m. BVerwG, Urteil vom 16.12.1988 – 4 C 7.04, im Bebauungsplan keine Festsetzungen getroffen werden, solange die Entwidmung nicht wirksam ist. Schwerer materieller Fehler.
 
 ## E. Zwischenergebnis
 

@@ -1,6 +1,6 @@
 ---
 name: klageschrift-beweisangebote-einbauen-373-zpo
-description: "Einbau von Beweisangeboten in die Klageschrift. Urkundenbeweis Zeugenbeweis Sachverstaendigenbeweis Augenscheinsbeweis Parteivernehmung. Mit Mustern fuer Beweisantraege und Hinweisen zur Benennung ladungsfaehiger Anschriften und konkretem Beweisthema."
+description: "Einbau von Beweisangeboten in die Klageschrift. Urkundenbeweis Zeugenbeweis Sachverständigenbeweis Augenscheinsbeweis Parteivernehmung. Mit Mustern für Beweisanträge und Hinweisen zur Benennung ladungsfähiger Anschriften und konkretem Beweisthema."
 ---
 
 # Beweisantraege richtig in die Klage einbauen

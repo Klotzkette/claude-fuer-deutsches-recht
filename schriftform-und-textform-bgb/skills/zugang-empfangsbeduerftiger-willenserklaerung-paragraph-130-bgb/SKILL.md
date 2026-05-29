@@ -1,6 +1,6 @@
 ---
 name: zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb
-description: "Mandant fragt: Wann gilt Kuendigung Mahnung oder sonstige Erklaerung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Pruefraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Pruefprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklaerung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kuendigung-paragraph-568-bgb."
+description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb."
 ---
 
 # Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
@@ -26,7 +26,7 @@ Maßgebend ist der **Empfänger-Horizont**: Wann ist gewöhnlicherweise mit Kenn
 - Einwurf nach der üblichen Postzustellungszeit (z. B. abends 18 Uhr) → Zugang erst am nächsten Werktag
 - Bei gewerblichem Empfänger: Bürozeiten maßgebend
 
-**E-Mail-Zugang (BGH VII ZR 895/21)**:
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - E-Mail geht zu, wenn sie auf dem Mailserver des Empfängers eingegangen und abrufbar ist
 - Nicht erst, wenn der Empfänger sie tatsächlich gelesen hat
 - Absendung allein reicht nicht: Eingang im Postfach des Empfängers erforderlich
@@ -55,7 +55,7 @@ Grundloses Zurückweisen eines eingeschriebenen Briefs: Zugang mit Rückgabezeit
 | E-Mail (Empfänger-Postfach) | Eingang auf Empfänger-Mailserver, wenn abrufbar |
 | Fax | Eingang im Speicher des Empfänger-Faxgeräts |
 | WhatsApp / Messenger | Eingang auf Empfänger-Gerät (Doppelhaken) — str. |
-| qES-Dokument per E-Mail | Eingang der Datei im Empfänger-Postfach, aber Formwirksamkeit setzt qES-Prüfbarkeit voraus (BGH VIII ZR 159/23) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ### Beweislast Zugang
 
@@ -82,7 +82,7 @@ Option A — Papier:
 Option B — Elektronisch (qES):
   qES-Dokument per E-Mail an Empfänger; Eingangsbestätigung anfordern.
   Achtung: Ausdruck durch Gericht oder Dritte wahrt keine Formwirksamkeit
-  (BGH VIII ZR 159/23 vom 27. November 2024).
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Option C — Gerichtliche Zustellung:
   Bei streitigem Verhältnis: Antrag auf Zustellung nach § 132 BGB möglich.
@@ -114,7 +114,6 @@ Option C — Gerichtliche Zustellung:
 - → `wohnraummiete-kuendigung-paragraph-568-bgb`
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH VIII ZR 276/14 (Abschnitt "E-Mail-Zugang") war NOT_FOUND — Aktenzeichen nicht auffindbar als E-Mail-Zugangsentscheidung.
-Maßnahme: Ersetzt durch BGH VII ZR 895/21, Urt. v. 06.10.2022, NJW 2022, 3791 — echte BGH-Leitentscheidung zum E-Mail-Zugang im unternehmerischen Geschäftsverkehr (§ 130 BGB, Mailserver-Zeitpunkt).
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.10.2022&Aktenzeichen=VII+ZR+895%2F21
 -->

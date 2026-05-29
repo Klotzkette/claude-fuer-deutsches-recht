@@ -50,7 +50,7 @@ Ich habe in der Zeit vom 22.05.2024 bis 15.07.2024 folgende Maßnahmen durchgef�
 | Forderungen aus Lieferungen und Leistungen | 42.840,00 | Brutto offen; nach Sichtung Werthaltigkeit ca. 60 % = 25.704 |
 | Honoraransprüche laufende Projekte | 18.420,00 | Realisierungsgrad fraglich, da Mitwirkungsleistung erforderlich |
 | Vorräte (Verbrauchsmaterial, Festplatten, kleinere Technik) | 4.200,00 | Verkehrswert |
-| Immaterielles Vermögen (Markenname „LUMEN") | 5.000,00 | geschätzt, Marktwert begrenzt |
+| Immaterielles Vermögen (Markenname "LUMEN") | 5.000,00 | geschätzt, Marktwert begrenzt |
 | Anlagevermögen Technik (Kameras, Schnittarbeitsplätze, Drohne) — Restwert | 38.400,00 | Bewertet zu 30 % unter Buchwert wegen Schnellverwertung |
 | Sicherheitsleistung Mietkaution | 4.800,00 | An Vermieter geleistet, Rückforderung nach Beendigung |
 | **Summe Aktiva (realistischer Verwertungswert)** | **75.971,22** | bei sofortiger Verwertung |
@@ -87,7 +87,7 @@ Der von Herrn Richter genannte Investor Dr. Lorenz Petersen (Petersen Family Off
 
 - Eine Beteiligungs-Vereinbarung sei zwar in Erwägung gezogen, aber nach Sichtung der vorliegenden Bilanz-Daten und der nun erkennbaren Schuldenlage nicht mehr realistisch.
 - Eine Investition iHv EUR 150.000 wäre keinesfalls ausreichend, um die akute Schuldenlage zu bewältigen.
-- Petersen erwäge allenfalls eine Übernahme von Vermögenswerten (Marke „LUMEN", Kunden-Stammdaten) im Rahmen eines Asset Deals nach Eröffnung des Insolvenzverfahrens. Hierzu sei er bereit, ein Angebot über ca. EUR 25.000 abzugeben.
+- Petersen erwäge allenfalls eine Übernahme von Vermögenswerten (Marke "LUMEN", Kunden-Stammdaten) im Rahmen eines Asset Deals nach Eröffnung des Insolvenzverfahrens. Hierzu sei er bereit, ein Angebot über ca. EUR 25.000 abzugeben.
 
 Die von Herrn Richter dargestellte Sanierungs-Option ist daher nicht belastbar.
 
@@ -103,7 +103,7 @@ Die Buchhaltung der Schuldnerin ist ab Oktober 2023 erheblich mangelhaft.
 
 - Vorhanden: Belegmappe (chronologisch, aber nicht systematisch erfasst); Bankauszüge; einige Excel-Dateien
 - Nicht vorhanden: ordnungsgemäße Buchführung (DATEV oder vergleichbar) ab Oktober 2023; Inventar zum 31.12.2023; Jahresabschluss 2023; Bilanz; GuV
-- Steuerberater Hartmann hat sein Mandat am 22.11.2023 niedergelegt wegen „mangelnder Mitwirkung". Eine Nachfolge wurde nicht beauftragt.
+- Steuerberater Hartmann hat sein Mandat am 22.11.2023 niedergelegt wegen "mangelnder Mitwirkung". Eine Nachfolge wurde nicht beauftragt.
 - Die laufende Lohnbuchhaltung wurde durch eine externe Lohnbuchhalterin (Frau Andrea Sturm) bis April 2024 noch fortgeführt; SV- und Lohnsteuer-Anmeldungen wurden erstattet, aber nicht alle Zahlungen durchgeführt.
 
 Aus Sicht des Insolvenzrechts: Die Buchhaltungs-Lage ist so unzureichend, dass eine ordnungsgemäße Verwertung erheblich erschwert wird. Es ist nicht zuverlässig festzustellen, welche Vermögensverschiebungen (insbesondere Zahlungen an einzelne Gläubiger) im Zeitraum 10/2023 bis 05/2024 stattgefunden haben und damit ggf. anfechtbar sein könnten.

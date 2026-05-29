@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-unfallregulierung-quoten
-description: "Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Pruefraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
+description: "Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
 ---
 
 # Unfallregulierung — Quoten
@@ -42,7 +42,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 ### BGH-Linie
 
 - Reparatur zulaessig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
-- BGH, Urt. v. 15.10.1991 — VI ZR 314/90
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Über 130 %: nur Wiederbeschaffungswert (Totalschaden)
 
 ### Fiktive Abrechnung
@@ -117,9 +117,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 23.5.2017 — VI ZR 9/17 (Stundensätze)
-- BGH, Urt. v. 14.5.2019 — VI ZR 393/18 (Schmerzensgeld)
-- BGH, Urt. v. 28.5.2024 — VI ZR 178/93 (Mitverschulden bei OEsen-Verkehr)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 

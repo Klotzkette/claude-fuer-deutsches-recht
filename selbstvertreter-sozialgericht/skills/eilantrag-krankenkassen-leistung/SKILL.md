@@ -1,6 +1,6 @@
 ---
 name: eilantrag-krankenkassen-leistung
-description: "Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext fuer Buerger."
+description: "Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext für Buerger."
 ---
 
 # Eilantrag gegen die Krankenkasse — wenn Sie nicht warten koennen
@@ -34,7 +34,7 @@ Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie koennen zum
 - **§ 27 SGB V** — Anspruch auf Krankenbehandlung.
 - **§ 33 SGB V** — Hilfsmittel.
 - **§ 40 SGB V** — Reha.
-- **BSG-Linie zur lebensbedrohlichen Erkrankung**: Anspruch auf nicht zugelassene Leistung, wenn lebensbedrohlich und keine Alternative (BSG, Urt. v. 4.4.2006 — B 1 KR 7/05 R; verifizieren).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -157,4 +157,4 @@ Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsa
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 13 Abs. 3a SGB V Genehmigungsfiktion. BSG zur lebensbedrohlichen Erkrankung Linie weiterhin BSG B 1 KR 7/05 R — Vor Uebernahme der genauen Entscheidung in juris pruefen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

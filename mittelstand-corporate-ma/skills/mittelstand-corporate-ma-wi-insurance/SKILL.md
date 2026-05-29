@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-wi-insurance
-description: "W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter fuer M&A."
+description: "W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A."
 ---
 
 # W&I-Versicherung
@@ -28,15 +28,11 @@ Bereitet W&I-Prozess (Warranty and Indemnity Insurance), Underwriting, DD-Berich
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 15.04.2021 - 3 U 61/18, NZG 2021, 1120 — W&I-Deckungsausschluss: bekannte Risiken, die im Disclosure Letter vollstaendig offengelegt wurden, koennen nicht unter die W&I-Versicherung fallen; Kenntnis des Versicherungsnehmers ist massgeblich
-- BGH, Urt. v. 29.10.2020 - I ZR 153/17, NJW 2021, 780 — Garantiehaftung Cap: vertraglich vereinbarter Cap begrenzt die Inanspruchnahme; W&I-Versicherungssumme und Cap muessen koordiniert sein
-- OLG Duesseldorf, Urt. v. 19.03.2019 - 20 U 116/16, VersR 2019, 789 — Underwriting-Obliegenheit: Versicherungsnehmer muss im Underwriting-Fragebogen vollstaendige und zutreffende Angaben machen; bewusste Falschaussagen fuehren zur Leistungsfreiheit nach § 28 VVG
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Picot, Unternehmenskauf, Kapitel 7 (W&I-Versicherung), 5. Auflage
-- Beisel/Klumpp, Unternehmenskauf, § 5 Rn. 80-120 (W&I-Versicherung, Synthetic Warranties), 8. Auflage
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **W&I-Struktur entscheiden:** Buy-side (Kaeufer versichert sich gegen Garantienverletzung des Verkaeuf ers) vs. Sell-side (Verkaeufer versichert seine Haftung); Buy-side in Europa Standard

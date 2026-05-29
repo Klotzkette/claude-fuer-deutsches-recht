@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-verkehrsplanung
-description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Pruefraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begruendung, Abwaegungsgebot. Output Projektfahrplan, Begruendungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende."
+description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende."
 ---
 
 # Verkehrsplanung und Projektstrategie
@@ -27,17 +27,11 @@ description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant St
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 12.08.2009 - 9 A 64.07, BVerwGE 134, 308 — Abwaegungsgebot bei Strassenplanung: alle betroffenen Belange (Laerm, Eigentumsbetroffenheit, Umwelt) muessen ermittelt und gewichtet werden; Abwaegungsdefizit fuehrt zu Planergaenzung.
-- BVerwG, Urt. v. 28.04.2016 - 9 A 9.15, BVerwGE 155, 91 — UVP-Pflicht bei Strassenausbau: kumulierende Projekte koennen zusammen die Schwellenwerte der Anlage 1 UVPG ueberschreiten.
-- OVG NRW, Urt. v. 06.09.2019 - 11 D 170/17.AK, NVwZ-RR 2020, 235 — Beteiligungsfehler bei Planfeststellungsverfahren: fehlerhafte Auslegung der Planunterlagen fuehrt zur Anfechtbarkeit des Beschlusses.
-- BVerwG, Urt. v. 10.11.2022 - 9 A 18.21, NVwZ 2023, 577 — Laermschutzansprueche Dritter bei Strassenneuplanung; Abwaegung muss aktive und passive Schutzmassnahmen (BImSchV 16/24) erwaegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 24 Rn. 1-60 (Planfeststellung)
-- Stelkens/Bonk/Sachs, VwVfG, 10. Aufl. 2023, § 74 Rn. 1-200 (Planfeststellungsbeschluss)
-- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. 2022, § 1 Rn. 1-120 (Abwaegungsgebot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Projekttyp bestimmen:** informelle Planung, Bauleitplanung (FNP/B-Plan) oder Planfeststellung (§ 74 VwVfG)

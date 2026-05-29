@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-filesharing-verteidigung
-description: "Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Pruefraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklaerung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht fuer allgemeine Urheberrechtsverletzungen."
+description: "Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Prüfraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklärung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht für allgemeine Urheberrechtsverletzungen."
 ---
 
 # Filesharing-Abmahnung Verteidigung
@@ -25,8 +25,7 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 ### Anschluss-Inhaber-Haftung
 
-- BGH, Urt. v. 27.7.2017 — I ZR 68/16 (Loud-Entscheidung)
-- BGH, Urt. v. 11.6.2015 — I ZR 19/14 (Tauschbörse III)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sekundaere Darlegungslast**: Anschluss-Inhaber muss mitwirken, aber nicht selbst sich belasten
 
 ## 3) Strategie
@@ -49,7 +48,7 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 - Bei Verbraucher und einfach gelagerter Verletzung: **Gegenstandswert 1.000 EUR** für Anwaltsgebuehren-Berechnung
 - Maximale Erstattung der Abmahnung: ca. 124 EUR Anwaltsgebuehren
-- BGH-Linie zu „einfach gelagert"
+- BGH-Linie zu "einfach gelagert"
 
 ## 5) Schadensersatz
 
@@ -106,9 +105,7 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 27.7.2017 — I ZR 68/16 (Loud)
-- BGH, Urt. v. 12.5.2016 — I ZR 86/15 (Tauschbörse VII)
-- BGH, Urt. v. 11.6.2015 — I ZR 19/14 (Tauschbörse III)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -126,8 +123,8 @@ Bevor die Verteidigungsstrategie festgelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 11.06.2015 — I ZR 75/14 (Tauschboerse III):** Der Inhaber eines Internetanschlusses kann die Vermutung seiner Taetertschaft widerlegen, indem er konkret vortraegt, welche anderen Familienangehoerigen den Anschluss zu der fraglichen Zeit genutzt haben und dass diese als Taeter in Betracht kommen; die blosse Moeglichkeit fremden Zugangs genuegt nicht.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 12.05.2016 — I ZR 86/15 (Tauschboerse VII):** Die Anschlussinhabers-Haftung setzt verschuldetes Handeln voraus; ein Familienmitglied, das ohne Wissen des Anschlussinhabers Tauschboersen-Software installiert hat, begruendet keine Mitstoerurhaftung des Anschlussinhabers, sofern kein Aufsichtspflicht-Verstoß vorliegt.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EuGH, Urt. v. 18.10.2018 — C-149/17 (Bastei Lubbe / Herrmann):** Das Unionsrecht verlangt, dass nationale Gerichte auch bei widerspruechlichen Aussagen der Haushaltsmitglieder eine effektive Durchsetzung des Urheberrechts ermoeglichen; ein nationales Recht, das Berechtigten jede Moeglichkeit der Rechtsdurchsetzung nimmt, vertoesst gegen Art. 8 Durchsetzungsrichtlinie 2004/48.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-versorgungsausgleich
-description: "Versorgungsausgleich im Scheidungsverbund durchfuehren: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Pruefraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
+description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
 ---
 
 # Versorgungsausgleich
@@ -148,8 +148,7 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 
 ## 11) BGH-Linien
 
-- BGH, Beschl. v. 22.11.2017 — XII ZB 35/16 (Externe Teilung)
-- BGH, Beschl. v. 6.2.2018 — XII ZB 401/17 (Ehevertrags-Kontrolle)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -158,11 +157,10 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 - `bav-strategie-konzern` — bei komplexer betrieblicher AV
 
 <!-- AUDIT 27.05.2026 | Bundle 022 | Task 2
-AZ: BGH XII ZB 233/21
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC
-Befund: Laut dejure.org (dejure.org/2022,6551) betrifft XII ZB 233/21 vom 09.03.2022
 Kindesunterhalt und Immobilienfinanzierung (Tilgungsraten bis Wohnwert berücksichtigbar,
 § 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
-Fundstellen: BGHZ 233, 136; NJW 2022, 1386; FamRZ 2022, 781.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
 -->

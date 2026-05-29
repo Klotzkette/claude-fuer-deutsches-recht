@@ -49,36 +49,24 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- EuGH, Urt. v. 03.09.2009 – C-489/07, NJW 2009, 3015 – „Messner": Der Verbraucher hat einen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Wertersatzanspruch des Unternehmers für die Benutzung der Ware vor Ausübung des Widerrufs nur
   dann zu leisten, wenn er die Ware über das zur Prüfung notwendige Maß hinaus benutzt hat; eine
   pauschale Nutzungsentschädigung ist mit dem Widerrufsrecht unvereinbar.
-- BGH, Urt. v. 12.10.2016 – VIII ZR 55/15, NJW 2017, 878 Rn. 24 ff.: Zur Fristberechnung bei
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   fehlerhafter Widerrufsbelehrung; die Widerrufsfrist beginnt nicht zu laufen, wenn der
   Unternehmer keine oder eine fehlerhafte Belehrung erteilt hat; der Verbraucher kann auch
   Monate nach Lieferung noch widerrufen.
-- BGH, Urt. v. 16.03.2016 – VIII ZR 146/15, NJW 2016, 2344 Rn. 18 ff.: Ausnahme für
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   versiegelte Waren § 312g Abs. 2 Nr. 3 BGB; die Entsiegelung muss produktspezifisch
   hygienisch bedeutsam sein; eine Schutzfolie auf einem Buch fällt nicht darunter.
-- BGH, Urt. v. 26.04.2022 – XI ZR 285/21, NJW 2022, 2098 Rn. 31 ff.: Zur Verwirkung des
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Widerrufsrechts bei Verbraucherdarlehen; auch bei formell fehlerhafter Belehrung kann das
   Widerrufsrecht verwirkt sein, wenn der Verbraucher jahrelang Leistungen erbracht hat.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Wendehorst, in: MüKoBGB, 9. Aufl. 2022, § 312g Rn. 1 ff. (Systematik des Widerrufsrechts;
-  Abgrenzung der Ausnahmen; insbesondere Rn. 23 ff. zu § 312g Abs. 2 Nr. 1 BGB –
-  individuell angefertigte Waren).
-- Schmidt-Räntsch, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 355 Rn. 1 ff. (Ausübung des
-  Widerrufs: Form, Frist, keine Begründung erforderlich; Rn. 18 ff. zur Fristberechnung bei
-  Stückellieferungen).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 357 Rn. 12 ff. (Rückabwicklung: Unternehmer
-  trägt Rücksendekosten; Wertersatz nach § 357 Abs. 7 BGB nur bei Verschlechterung durch
-  bestimmungswidrige Nutzung).
-- Möller, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 356 Rn. 7 ff. (Verlängerung der
-  Widerrufsfrist auf 12 Monate + 14 Tage bei fehlender Belehrung; Muster-Belehrung als
-  safe harbour).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Qualifikation des Vertrags**: Liegt ein Fernabsatz- oder Außergeschäftsraumvertrag vor?
@@ -97,7 +85,7 @@ Das Modell benötigt:
    binnen 14 Tagen zurückgewähren. Verbraucher muss Ware binnen 14 Tagen zurücksenden.
    Kosten der Rücksendung trägt Unternehmer, sofern er darüber informiert hat (§ 357 Abs. 6 BGB).
 7. **Wertersatz** (§ 357 Abs. 7 BGB): Unternehmer kann Wertersatz verlangen bei Verschlechterung
-   durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – „Messner").
+   durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – "Messner").
 8. **Auskunft zu Kosten**: Ggf. Hinweis auf Schadensersatzpflicht bei schuldhafter Verletzung
    der Rückgabepflicht.
 
@@ -126,8 +114,8 @@ in Gang gesetzt, sofern die übrigen Belehrungsinhalte korrekt waren. Widerruf a
 (19 Tage nach Lieferannahme) ist verspätet, sofern Lieferung vor dem 06.03.2025 erfolgte.
 
 *Kostenfolge*: Da U nicht über die Pflicht zur Übernahme der Rücksendekosten informiert hat,
-trägt U die Rücksendekosten nach § 357 Abs. 6 S. 2 BGB (BGH, Urt. v. 12.10.2016 –
-VIII ZR 55/15, NJW 2017, 878 Rn. 27).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
@@ -137,9 +125,9 @@ VIII ZR 55/15, NJW 2017, 878 Rn. 27).
   Zahlungsverzug, Verzugszinsen, Schadensersatz.
 - **Wertersatz nach § 357 Abs. 7 BGB**: Zu hohe Forderung → Verbraucher schuldet nur
   Verschlechterung über normalen Prüfgebrauch hinaus; pauschale Nutzungsentschädigung
-  unionsrechtswidrig (EuGH – „Messner").
-- **Verwirkung**: BGH lässt Verwirkung des Widerrufsrechts zu (BGH, Urt. v. 26.04.2022 –
-  XI ZR 285/21, NJW 2022, 2098); Prüfung im Einzelfall (Zeit- + Umstandsmoment).
+  unionsrechtswidrig (EuGH – "Messner").
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Berufsrecht**: Mandantendaten (Bestell- und Zahlungsdaten) unterliegen § 43a Abs. 2 BRAO,
   § 203 StGB; Verarbeitung nur in gesicherten Systemen.
 
@@ -147,6 +135,6 @@ VIII ZR 55/15, NJW 2017, 878 Rn. 27).
 
 Jede Aussage zur Belehrungspflicht, Fristberechnung und Rückabwicklung ist nach
 `references/zitierweise.md` zu belegen. Insbesondere EuGH-Entscheidungen mit vollständigem
-Zitat (Gericht, Datum, Az., NJW-Fundstelle, Rn.). Bei fehlender nationaler Rechtsprechung zu
-einem Punkt: Kommentarliteratur mit Bearbeiter, Werk, Aufl., §, Rn. zitieren und kenntlichmachen,
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 dass Rechtsprechung insoweit nicht vorliegt.

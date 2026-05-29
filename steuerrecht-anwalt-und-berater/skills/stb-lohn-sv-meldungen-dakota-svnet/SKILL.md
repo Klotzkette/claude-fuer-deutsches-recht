@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-sv-meldungen-dakota-svnet
-description: "SV-Meldungen ueber sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Uebermittlung Pruefung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen."
+description: "SV-Meldungen über sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Übermittlung Prüfung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen."
 ---
 
 # SV-Meldungen ueber sv.net oder DAKOTA
@@ -43,7 +43,7 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 
 | System | Vorteile | Nachteile |
 |---|---|---|
-| sv.net (ITSG) | Kostenfrei; Standard GKV-Spitzenverband; sv.net classic wurde 2024 abgeloest durch sv.net online (Browser) und sv.net comfort (Lokalinstallation); Stand 2026 ITSG-Verfuegbarkeit verifizieren | Beschraenkter Funktionsumfang; nicht mandantenoptimal bei vielen AN |
+| sv.net (ITSG) | Kostenfrei; Standard GKV-Spitzenverband; sv.net classic wurde 2024 abgeloest durch sv.net online (Browser) und sv.net comfort (Lokalinstallation); aktuelle Verfuegbarkeit ueber ITSG.de pruefen | Beschraenkter Funktionsumfang; nicht mandantenoptimal bei vielen AN |
 | DATEV DAKOTA | Integriert in DATEV LODAS / Lohn und Gehalt; mandantenoptimiert; jaehrliches Zertifikat ueber DATEV-eService | Kostenpflichtig |
 | ITSG-Software anderer Anbieter (z.B. Lexware, Addison) | Mandanten-spezifisch | Pruefung Kosten/Nutzen |
 
@@ -113,3 +113,5 @@ Stand: 05/2026.
 - SGB IV §§ 28a, 28b, 28f, 95.
 - DEUEV.
 - ITSG-Spezifikation.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (sv.net-Verfuegbarkeit Pruefhinweis ohne Marker) -->

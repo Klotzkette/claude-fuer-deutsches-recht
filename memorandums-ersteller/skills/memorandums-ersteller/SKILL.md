@@ -1,6 +1,6 @@
 ---
 name: memorandums-ersteller
-description: "Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar fuer Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete. Pruefraster Vier-Teile-Gliederung Sachverhalt mit Quellenreferenz Fragestellung als Ein-Satz-Fragen Antworten als Ein-Satz-Zusammenfassung Rechtliche Ausfuehrungen mit Anspruchsgrundlage Tatbestandsmerkmale Subsumtion Ergebnis. Identifiziert Widersprueche offene Punkte und bietet Piercing-Questions. Output Strukturiertes Rechtsmemorandum mit Pinpoint-Zitierung aktueller Rechtsprechung. Abgrenzung zu kanzlei-allgemein-schreibcanvas und kanzlei-allgemein-schriftsatz-turbo."
+description: "Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar für Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete. Prüfraster Vier-Teile-Gliederung Sachverhalt mit Quellenreferenz Fragestellung als Ein-Satz-Fragen Antworten als Ein-Satz-Zusammenfassung Rechtliche Ausführungen mit Anspruchsgrundlage Tatbestandsmerkmale Subsumtion Ergebnis. Identifiziert Widersprueche offene Punkte und bietet Piercing-Questions. Output Strukturiertes Rechtsmemorandum mit Pinpoint-Zitierung aktueller Rechtsprechung. Abgrenzung zu kanzlei-allgemein-schreibcanvas und kanzlei-allgemein-schriftsatz-turbo."
 ---
 
 # Memorandums-Ersteller
@@ -22,15 +22,13 @@ description: "Erstellt ein professionelles juristisches Memorandum aus heterogen
 - §§ 280, 311, 241 BGB (Schadensersatz, culpa in contrahendo, Nebenpflichten)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Anwaltliche Beratungspflicht umfasst die vollständige Sachverhaltsaufklärung; Widerspüche in Mandantenunterlagen sind auszuräumen, bevor Schlussfolgerungen gezogen werden.
-2. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt schuldet die Abklärung erkennbarer Risiken; eine lückenhafte Tatsachenbasis führt zur Haftung für ungenügende Beratung.
-3. BAG, Urt. v. 25.10.2012 – 2 AZR 495/11, NJW 2013, 1107 — Im arbeitsrechtlichen Memorandum zur Kündigungswirksamkeit ist die ständige BAG-Rechtsprechung zur Interessenabwägung mit konkreter Subsumtion auf den Einzelfall anzuwenden.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Verschwiegenheitspflicht und KI-Einsatz).
-- Ellenberger in Grüneberg, BGB, 83. Aufl. 2024, § 138 Rn. 1 ff. (Subsumtion im Memorandum).
-- Henssler/Strohn, Gesellschaftsrecht, 5. Aufl. 2021, Einf. Rn. 1 ff. (Memorandum-Anforderungen im Gesellschaftsrecht).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Leitidee
 
 Strukturierte Sachverhaltsaufbereitung ist das Fundament jeder
@@ -48,7 +46,7 @@ Aliasnamen je nach Kanzleikultur: Memorandumsmacher, Memorandumisierer.
   Fotos handschriftliche Notizen Chats Kontoauszüge Gutachten
   Aktenvermerke Gesprächsnotizen
 - Optional: vorgegebene Prüfungsrichtung (gerichtete Prüfung)
-- Optional: beigefügte Rechtsprechung und Kommentarliteratur
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Optional: vorhandenes Memorandum zur Aktualisierung
 
 OCR ist Pflicht. Gescannte Dokumente ohne Texterkennung werden nicht
@@ -134,23 +132,18 @@ Format: Gericht Urteil oder Beschluss vom Datum — Aktenzeichen
 Fundstelle Randnummer.
 
 Beispiel: BGH Urteil vom neunzehnten März zweitausendundzwanzig
-— IX ZR 239/18 NJW 2020 S. 2034 Rn. 14.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Juengere Entscheidungen stehen zuerst.
 
-## Pinpoint-Zitierung Kommentarliteratur
+## Quellenregel
 
-Format: Bearbeiter in Herausgeber Kommentartitel Auflage Jahr §
-Randnummer.
-
-Beispiel: Ellenberger in Grüneberg BGB 83. Auflage 2024 § 138
-Rn. 51.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pinpoint-Zitierung Aufsätze
 
 Format: Autor Titel Zeitschrift Jahr Anfangsseite konkrete Seite.
 
-Beispiel: Mueller Die Grenzen der Vertragsfreiheit NJW 2023 S. 1234
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 konkret S. 1237.
 
 ## Halluzinations-Schutz
@@ -235,7 +228,6 @@ zulässig. Der Skill weist im Output-Hinweis darauf hin.
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 4/5
-BGH VIII ZR 42/21 (NOT_FOUND): Aktenzeichen und NJW 2022 S. 1234 auf dejure.org nicht auffindbar.
 Vorkommen 1: Rechtsprechungsliste Eintrag Nr. 1 geloescht, Nummerierung korrigiert (3->2, 4->3).
-Vorkommen 2: Pinpoint-Zitierungs-Beispiel ersetzt durch BGH IX ZR 239/18 (NJW 2020 S. 2034), der im selben Skill als verifizierter Beleg vorkommt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

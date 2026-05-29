@@ -1,6 +1,6 @@
 ---
 name: stb-susa-vorperiode-vergleich
-description: "SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Pruefung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten ueber Perioden. Methodik Differenz-Tabelle Auffaelligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalten Auswertung Differenzen."
+description: "SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalten Auswertung Differenzen."
 ---
 
 # SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode

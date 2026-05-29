@@ -39,7 +39,7 @@ Im Bereich des Schuleingangs und auf der gegenüberliegenden Fahrbahnseite parke
 Aus der Einmündung der Rosenstraße (T-Einmündung, Vorfahrt Gartenstraße) ist die Querungsstelle G1 aufgrund des Längsparkstreifens und der Bepflanzung erst auf weniger als 15 m einsehbar. Dies entspricht nicht den Anforderungen der Richtlinien für die Anlage von Stadtstraßen (RASt 06) an Einmündungen in der Nähe von Schulen.
 
 **G4 – Fehlender Schulwegplan und mangelnde Beschilderung:**
-Ein amtlicher Schulwegplan (Empfehlung der Unfallkasse NRW) liegt für die Grundschule Nord nicht vor. Beschilderung nach § 42 StVO (Zeichen 136 „Kinder") existiert nur an einer der zwei wesentlichen Zufahrten.
+Ein amtlicher Schulwegplan (Empfehlung der Unfallkasse NRW) liegt für die Grundschule Nord nicht vor. Beschilderung nach § 42 StVO (Zeichen 136 "Kinder") existiert nur an einer der zwei wesentlichen Zufahrten.
 
 ---
 
@@ -79,7 +79,7 @@ Der Schulträger (Amt 40) wird gebeten, in Zusammenarbeit mit der Schulleitung u
 
 ## IV. Finanzierung
 
-Die geschätzten Kosten des Maßnahmenpakets (ohne Bedarfsampel) belaufen sich auf ca. 38.000 Euro. Das Bundesförderprogramm „Sicherer Schulweg" (BMDV, Förderaufruf 2026) ermöglicht eine Förderung von bis zu 80 % der zuwendungsfähigen Kosten. Das Planungsamt bereitet einen entsprechenden Förderantrag vor; voraussichtlicher Einreichtermin: 28. Februar 2026. Der städtische Eigenanteil (ca. 7.600 Euro) wird aus dem Haushalt des Tiefbauamts (Konto 680-61-0012) finanziert.
+Die geschätzten Kosten des Maßnahmenpakets (ohne Bedarfsampel) belaufen sich auf ca. 38.000 Euro. Das Bundesförderprogramm "Sicherer Schulweg" (BMDV, Förderaufruf 2026) ermöglicht eine Förderung von bis zu 80 % der zuwendungsfähigen Kosten. Das Planungsamt bereitet einen entsprechenden Förderantrag vor; voraussichtlicher Einreichtermin: 28. Februar 2026. Der städtische Eigenanteil (ca. 7.600 Euro) wird aus dem Haushalt des Tiefbauamts (Konto 680-61-0012) finanziert.
 
 ---
 
@@ -90,7 +90,7 @@ Die geschätzten Kosten des Maßnahmenpakets (ohne Bedarfsampel) belaufen sich a
 | Abstimmungsgespräch mit Polizeiinspektion zu Maßnahmen 1–3 | Ordnungsamt | 30.11.2025 |
 | Verkehrsrechtliche Anordnung Tempo 30 (Entwurf) | Ordnungsamt | 31.01.2026 |
 | Ausführungsplanung Querungshilfe G1 | Tiefbauamt | 28.02.2026 |
-| Förderantrag „Sicherer Schulweg" | Planungsamt | 28.02.2026 |
+| Förderantrag "Sicherer Schulweg" | Planungsamt | 28.02.2026 |
 | Beschlussvorlage für Stadtrat | Planungsamt / Ordnungsamt | 31.03.2026 |
 | Baubeginn Querungshilfe (vorbehaltl. Bewilligung) | Tiefbauamt | Q3 2026 |
 

@@ -32,7 +32,7 @@ Eigentumsverhältnisse:
 
 ## 2. Gegenstand des Mandats
 
-Mandantin wendet sich gegen den **Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West – Quartier zwischen Halderstraße, Provinostraße und Bahntrasse"** der Stadt Augsburg. Stadtratsbeschluss vom **23. Mai 2024**, ortsübliche Bekanntmachung im Amtsblatt der Stadt Augsburg Nr. 12/2024 vom **14. Juni 2024**.
+Mandantin wendet sich gegen den **Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West – Quartier zwischen Halderstraße, Provinostraße und Bahntrasse"** der Stadt Augsburg. Stadtratsbeschluss vom **23. Mai 2024**, ortsübliche Bekanntmachung im Amtsblatt der Stadt Augsburg Nr. 12/2024 vom **14. Juni 2024**.
 
 Der B-Plan setzt auf den bisherigen Gleisbrachen der Deutschen Bahn AG ein Hochhausquartier fest:
 - Mischgebiet (MU) mit Wandhöhen bis 28 m (acht Vollgeschosse) und einem Hochhauspunkt 42 m
@@ -54,13 +54,13 @@ Mandantin wünscht:
 
 ### 4.1 Vorgeschichte (Schilderung Mandantin)
 
-> „Wir wohnen seit 33 Jahren in der Provinostraße. Auf der anderen Straßenseite war immer das Gleisfeld der Bahn, da war es ruhig. Mit den Plänen für das neue Quartier hat man uns vom ersten Tag an nicht ernst genommen. Auf der Bürgerversammlung im November 2023 hat Herr Stadtbaurat Dr. Schimanek gesagt, das Projekt sei alternativlos und werde so gebaut. Auf meine Einwendungen hat die Stadt im Mai 2024 mit zwei Sätzen geantwortet. Ich kann nicht akzeptieren, dass mein Schlafzimmer künftig direkt gegenüber einer Tiefgaragenausfahrt liegt."
+> "Wir wohnen seit 33 Jahren in der Provinostraße. Auf der anderen Straßenseite war immer das Gleisfeld der Bahn, da war es ruhig. Mit den Plänen für das neue Quartier hat man uns vom ersten Tag an nicht ernst genommen. Auf der Bürgerversammlung im November 2023 hat Herr Stadtbaurat Dr. Schimanek gesagt, das Projekt sei alternativlos und werde so gebaut. Auf meine Einwendungen hat die Stadt im Mai 2024 mit zwei Sätzen geantwortet. Ich kann nicht akzeptieren, dass mein Schlafzimmer künftig direkt gegenüber einer Tiefgaragenausfahrt liegt."
 
 ### 4.2 Konkret befürchtete Beeinträchtigungen
 
 - Lärmbelastung durch Tiefgaragenzufahrt direkt gegenüber Schlafraumfenstern
 - Verschattung durch 28-m-Riegel im Süd-Osten
-- Wegfall des bisherigen Gleisbiotops (Mauersegler-Population, Mandantin nennt namentlich „seit Jahren in Mauerseglerbrutkasten Nr. 4 unseres Hauses einfliegende Vögel")
+- Wegfall des bisherigen Gleisbiotops (Mauersegler-Population, Mandantin nennt namentlich "seit Jahren in Mauerseglerbrutkasten Nr. 4 unseres Hauses einfliegende Vögel")
 - Wertverlust der Immobilie (Mandantin hat 2023 Verkehrswertgutachten Wagner & Partner: 1.480.000 €)
 - Verkehrszunahme Provinostraße, bisher Anliegerstraße, künftig laut Verkehrsgutachten +3.200 Kfz/Tag
 
@@ -84,7 +84,7 @@ Mandantin ist unmittelbare Anliegerin (Flurstück 1421/4 grenzt straßenseitig a
 | § 215 Abs. 1 BauGB (Rügefrist, 1 Jahr) | 15.06.2024 | **14.06.2025** |
 | § 47 Abs. 6 VwGO (Eilantrag) | jederzeit, solange Hauptsache statthaft | offen |
 
-Hinweis Mandantin: Stadt hat zugesagt, mit Baugenehmigungen „nicht vor Herbst 2024" zu beginnen – nicht verbindlich, nicht schriftlich.
+Hinweis Mandantin: Stadt hat zugesagt, mit Baugenehmigungen "nicht vor Herbst 2024" zu beginnen – nicht verbindlich, nicht schriftlich.
 
 ## 7. Honorar und RVG
 

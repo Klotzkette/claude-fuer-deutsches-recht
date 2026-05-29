@@ -1,6 +1,6 @@
 ---
 name: produktmarkt-nachfragesubstitution
-description: "Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prueft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Pruefraster Verallgemeinerungsannahmen fehlende Differenzierungen nach Kundensegmenten SSNIP-Test. Output Nachfragesubstitutions-Memo mit Marktdefinition und Argument-Schwachstellen-Liste. Abgrenzung: produktmarkt-angebotsumstellung fuer Supply-Side-Perspektive."
+description: "Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prüft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Verallgemeinerungsannahmen fehlende Differenzierungen nach Kundensegmenten SSNIP-Test. Output Nachfragesubstitutions-Memo mit Marktdefinition und Argument-Schwachstellen-Liste. Abgrenzung: produktmarkt-angebotsumstellung für Supply-Side-Perspektive."
 ---
 
 # Produktmarkt — Nachfragesubstitution
@@ -34,7 +34,7 @@ Dokumentation: Auflistung aller Produkte, die als Substitute behauptet werden, m
 
 Checkliste zu trennenden Merkmalen:
 - Technische Standards und Normen (z.B. Medizinproduktezulassung)
-- Marken- und Wahrnehmungsunterschiede (sog. „commercial reality")
+- Marken- und Wahrnehmungsunterschiede (sog. "commercial reality")
 - Regulatorische Anforderungen für Einsatz des Produkts
 - Kundensegmentierung (Konsumenten vs. professionelle Verwender)
 
@@ -61,10 +61,8 @@ Stufe: **eng / angemessen / zu weit** — mit Kurzformulierung der Hauptschwäch
 
 ## Leitentscheidungen Nachfragesubstitution
 
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Nachfragesubstitution Primaerkriterium; Verbraucherperspektive; saisonale und qualitative Faktoren.
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Kreuzpreiselastizitaet als Indikator; Vitamingruppen nicht substitutionsfaehig.
-- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Kundenbefragungen als Evidenz Nachfragesubstitution; Methodenqualitaet entscheidend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bechtold/Bosch GWB § 18 Rn. 5-20 (Nachfragesubstitution, Kreuzpreiselastizitaet, SSNIP)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

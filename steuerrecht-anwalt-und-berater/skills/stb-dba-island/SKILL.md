@@ -7,7 +7,7 @@ description: "DBA Deutschland Island. Anwendungsfall Fischerei Geothermie Touris
 
 ## Kernsachverhalt
 
-Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, jedoch durch Protokoll vom 20.06.1996 modernisiert. Praxisrelevant sind Fischerei (Trawler-Aktivitaeten), Geothermie/Energie, Tourismusinvestitionen. Island ist EWR-Mitglied — keine direkte MTRL-Anwendung. **Datum, Protokolle und MLI-Anpassungen verifizieren.**
+Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, jedoch durch Protokoll vom 20.06.1996 modernisiert. Praxisrelevant sind Fischerei (Trawler-Aktivitaeten), Geothermie/Energie, Tourismusinvestitionen. Island ist EWR-Mitglied — keine direkte MTRL-Anwendung.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,14 +23,14 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Island vom 18.03.1971** (BGBl. 1973 II S. 209) mit Aenderungsprotokoll vom 20.06.1996 — **verifizieren**.
+- **DBA Deutschland-Island vom 18.03.1971** (BGBl. 1973 II S. 209) mit Aenderungsprotokoll vom 20.06.1996. Aktuelle konsolidierte Fassung im BMF-DBA-Verzeichnis pruefen.
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **EWR-Abkommen**.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland und Island haben das MLI unterzeichnet. Aktuellen MLI-Ratifizierungsstatus und Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BMF-Schreiben Island — **verifizieren**.
+- Aktuelle BMF-Schreiben und Verwaltungsanweisungen zum DBA-Island im BMF-Schreiben-Verzeichnis abrufen.
 
 ## Land-spezifisches
 
@@ -44,9 +44,9 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 - Schifffahrt/Fischerei (Art. 8): tatsaechliche Geschaeftsleitung.
 
 ### Passive Einkuenfte
-- **Dividenden**: typ. 5/15 Prozent — **konkret verifizieren**.
-- **Zinsen**: typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren**: typ. 0/5 Prozent — **verifizieren**.
+- **Dividenden**: DBA-Quellensteuer-Hoechstsatz 15 Prozent (islaendische nationale Quellensteuer 22 Prozent; BZSt-Erstattung auf DBA-Satz 15 Prozent). Kein EU-MTRL (EWR).
+- **Zinsen**: 0 Prozent (Wohnsitzstaat nach DBA-Island).
+- **Lizenzgebuehren**: Konkreten DBA-Satz aus DBA-Text Art. 12 entnehmen; kein EU-ZinsLizenzRL (EWR).
 
 ### Vermeidungs-Methode
 - Anrechnung ueberwiegend.
@@ -83,4 +83,6 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Island 18.03.1971 mit Protokoll 20.06.1996. **Datum, BGBl, Protokolle, MLI-Notification und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Island 18.03.1971 (BGBl. 1973 II S. 209) mit Protokoll 20.06.1996. Dividenden-Quellensteuer: national 22 Prozent, DBA-Hoechstsatz 15 Prozent (BZSt 2025). MLI-Ratifizierungsstatus im BMF-Verzeichnis pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 3 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

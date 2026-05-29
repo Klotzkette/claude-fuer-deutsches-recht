@@ -1,6 +1,6 @@
 ---
 name: common-law-quality-gate
-description: "Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet pruefen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Pruefraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Pruefbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich)."
+description: "Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich)."
 ---
 
 # Common-Law-Qualitätstor

@@ -1,6 +1,6 @@
 ---
 name: distanz-und-ausgleich-berechnen
-description: "Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich oder 1500 bis 3500 km nicht-innergemeinschaftlich / 600 EUR mehr als 3500 km nicht-innergemeinschaftlich. Halbierung des Ausgleichs bei kurzer Verspaetungs-Beifoerderung. Bei mehreren Passagieren pro Person eigenstaendig. Pro Anspruchsfall ein Berechnungsdokument."
+description: "Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich oder 1500 bis 3500 km nicht-innergemeinschaftlich / 600 EUR mehr als 3500 km nicht-innergemeinschaftlich. Halbierung des Ausgleichs bei kurzer Verspaetungs-Beifoerderung. Bei mehreren Passagieren pro Person eigenständig. Pro Anspruchsfall ein Berechnungsdokument."
 ---
 
 # Distanz und Ausgleichszahlung berechnen
@@ -20,7 +20,7 @@ Art. 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:
 
 - **Großkreisrechnung** (Great Circle Distance) zwischen Abflug- und Zielflughafen.
 - IATA-Standardkoordinaten der Flughaefen.
-- Bei mehreren Etappen (Anschlussfluege) gilt die **Gesamtdistanz Abflug zu Endziel** (EuGH C-559/16 Birkenstrand).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab).
 
 ## Begriff innergemeinschaftlich vs nicht-innergemeinschaftlich
@@ -62,7 +62,7 @@ Folge: Stufe 1 → 125 EUR; Stufe 2 → 200 EUR; Stufe 3 → 300 EUR.
 ## Pauschalreise
 
 - Bei Pauschalreise greifen zusätzliche Ansprueche gegen den Reiseveranstalter nach §§ 651a ff. BGB.
-- **EuGH C-22/16 (DHL Air)** und **EuGH C-22/19 (RLBwm)** — Klage gegen den ausführenden Carrier auch bei Pauschalreise möglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabe
 
@@ -85,16 +85,11 @@ Halbierungsregel prüfen:
 
 ## Leitentscheidungen Distanz und Ausgleich
 
-- EuGH, Urt. v. 07.09.2012 — C-863/11 (Espada Sanchez), NJW 2012, 3029 — Art. 7 VO 261/2004; Eigenstaendiger Ausgleichsanspruch pro Passagier; kein Abzug bei Kindertarifen.
-- EuGH, Urt. v. 04.09.2014 — C-452/13 (Germanwings), NJW 2014, 2932 — Halbierungsregel Art. 7 Abs. 2 VO 261/2004; Airline muss konkretes Alternativangebot unterbreitet haben; bloss allgemeine Umbuchung genuegt nicht.
-- EuGH, Urt. v. 10.07.2008 — C-173/07 (Emirates Airlines), NJW 2008, 2921 — Distanzberechnung; Grosskeiisrechnung massgeblich; kein Umweg zu berechnen; einheitliche Methode fuer alle Gerichte.
-- BGH, Urt. v. 12.11.2019 — X ZR 117/18, NJW 2020, 464 — Verzugszinsen bei VO 261/2004-Anspruechen; Verbraucherschuldner 5 Prozentpunkte ueber Basiszinssatz § 288 Abs. 1 BGB; Mahnung nicht erforderlich bei sofort faelliger Ausgleichspflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Staudinger/Arnold VO 261/2004 Art. 7 Rn. 1-60 (Ausgleichszahlung, Halbierung)
-- Schmid MUe-Kom Fluggastrechte Art. 7 Rn. 1-40 (Berechnung, Distanzformel)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Hinweise
 
 - Beweislast für Distanzangaben liegt nicht beim Fluggast (Standard-Flugplandaten frei zugänglich).

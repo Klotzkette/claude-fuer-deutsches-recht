@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gf-meeting-templates
-description: "Vorlagen fuer Geschaeftsfuehrersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Pruefraster: Beschlussfaehigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates fuer GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll."
+description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Prüfraster: Beschlussfähigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates für GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll."
 ---
 
 # GF-Meeting-Templates
@@ -22,17 +22,11 @@ description: "Vorlagen fuer Geschaeftsfuehrersitzungen und Protokolle erstellen:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — GF muss in der konkreten Entscheidungssituation alle verfügbaren Informationsquellen ausschoepfen; BJR-Haftungsprivileg setzt sorgfaeltige Ermittlung der Entscheidungsgrundlage voraus; Protokoll dokumentiert die Informationsbasis.
-- BGH, Urt. v. 21.04.1997 - II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat / Beirat muss eigenständig Informationen einholen; Verlassen auf GF-Bericht ohne Nachfrage begründet Haftung.
-- BGH, Urt. v. 15.01.2013 - II ZR 90/11, NZG 2013, 428 — GmbH-GF-Beschluss per E-Mail / Umlaufverfahren: zulässig, wenn alle GF zustimmen; bei Widerspruch auch eines GF: kein wirksamer Beschluss.
-- OLG Hamburg, Urt. v. 14.01.2015 - 11 U 71/14, GmbHR 2015, 362 — Protokoll als Beweismittel: lückenhaftes oder nachträglich geändertes Protokoll begründet Zweifel an der Ordnungsgemäßheit des Beschlusses; GF trägt Beweislast.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Crezelius, GmbHG, § 43 Rn. 10-25 (Sorgfaltspflicht, Haftungsschutz durch Dokumentation)
-- Lutter/Hommelhoff, GmbHG, § 48 Rn. 1-20 (Umlaufbeschluss, Beschlussfähigkeit)
-- Baumbach/Hueck, GmbHG, § 35 Rn. 1-15 (Vertretung, Entscheidungsprozess GF)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Meeting-Typen und Rhythmus
 
 | Meeting-Typ | Rhythmus | Teilnehmer | Zweck |
@@ -187,8 +181,7 @@ Datum, Ort: __________ Unterschriften: __________
 ## Quellen und Vertiefung
 
 - §§ 35, 43, 48, 51 GmbHG (GF-Pflichten, Beschlussfähigkeit, Einberufung)
-- BGH II ZR 202/07, NJW 2008, 3361 (BJR Informationspflicht GF)
-- BGH II ZR 90/11, NZG 2013, 428 (Umlaufbeschluss)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Crezelius, GmbHG, § 43 Rn. 10-25
 
 ## Übergabe an andere Skills
@@ -196,5 +189,3 @@ Datum, Ort: __________ Unterschriften: __________
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — GV-Protokoll (Gesellschafterversammlung)
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlungs-Einladung
 - `gesellschaftsgruender-beirat-advisory-board` — Beiratssitzungs-Templates
-
-<!-- AUDIT 27.05.2026: BGH II ZR 234/20 (04.05.2021) existiert nicht (dejure.org: keine Entscheidung gefunden). Thema-Claim GF BJR-Informationspflicht war halluziniert. Ersetzt durch BGH II ZR 202/07, NJW 2008, 3361 — verifizierter Beschluss zu GF Informationspflicht und BJR. Bundle 029 / WRONG_TOPIC. -->

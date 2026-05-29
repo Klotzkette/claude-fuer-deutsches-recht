@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelfrist-517-zpo
-description: "Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollstaendigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen."
+description: "Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollständigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen."
 ---
 
 # Berufungsfrist: 1 Monat — keine Verlaengerung

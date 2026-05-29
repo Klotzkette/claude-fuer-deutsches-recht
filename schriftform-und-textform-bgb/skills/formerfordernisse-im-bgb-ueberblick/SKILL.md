@@ -46,7 +46,7 @@ Heilung trotz Formmangels ist nur in gesetzlich bestimmten Ausnahmefällen mögl
 - **Grundstückskauf** § 311b Abs. 1 S. 2 BGB: Heilung durch Auflassung und Eintragung
 - **GmbH-Anteilsübertragung** § 15 Abs. 4 GmbHG: analog Heilung durch vollständige Erfüllung (streitig)
 - **Bürgschaft** § 766 S. 3 BGB: Heilung durch Hauptschuldnertilgung (str.)
-- **Maklervertrag** § 656a BGB: keine Heilung, Bereicherungsanspruch bei Textformverstoß gesperrt (BGH I ZR 202/25)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 4 — § 242 BGB Treuwidrigkeitseinwand
 
@@ -78,9 +78,9 @@ Die Berufung auf einen Formmangel kann nach § 242 BGB treuwidrig sein, wenn:
 
 ## Fallstricke
 
-- **Gewillkürte Schriftformklausel** in AGB: § 305b BGB — individuelle Abreden gehen AGB vor, auch wenn mündlich abweichend vereinbart. Doppelte Schriftformklausel kann helfen, ist aber selbst AGB-pflichtig (BGH VII ZR 153/13).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Digitale Konvergenz**: WhatsApp und E-Mail erfüllen Textform (§ 126b BGB), aber nicht Schriftform (§ 126 BGB). Wer irrtümlich Textform für ausreichend hält, riskiert Nichtigkeit bei gesetzlichem Schriftformerfordernis.
-- **qES und Zugang**: qES ersetzt Schriftform nur wenn das qES-Dokument so zugeht, dass der Empfänger die Signatur prüfen kann (BGH VIII ZR 159/23 vom 27. November 2024).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Querverweise
 

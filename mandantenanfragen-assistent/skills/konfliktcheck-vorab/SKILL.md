@@ -1,6 +1,6 @@
 ---
 name: konfliktcheck-vorab
-description: "Sekretariat soll vor Terminvergabe Interessenkonflikt pruefen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Pruefraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und Abfragemuster. Abgrenzung zu mandatsverhaeltnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung."
+description: "Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Prüfraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und Abfragemuster. Abgrenzung zu mandatsverhältnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung."
 ---
 
 # Konfliktcheck-Vorab
@@ -15,10 +15,7 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 4. Bei Interessenkonflikt: welche Konsequenz (Mandatsablehnug, Hinweis an Suchenden auf andere Kanzlei)?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 08.11.2007 - IX ZR 5/06, NJW 2008, 371 — Verstoß gegen § 43a Abs. 4 BRAO durch gleichzeitige Vertretung gegenlaeufiger Interessen: Honoraranspruch kann verlustig gehen; Mandat muss niedergelegt werden.
-- BGH, Urt. v. 25.02.2016 - IX ZR 109/15, NJW 2016, 1590 — Ehemalige-Mandanten-Konflikt: § 43a Abs. 4 BRAO gilt auch bei vorangegangener Beratung in derselben Sache; Kanzlei muss Altakten pruefen.
-- BGH, Urt. v. 01.04.2014 - IX ZB 73/11, NJW 2014, 2298 — Parteiverrat nach § 356 StGB: Strafbarkeit setzt voraus, dass Anwalt in derselben Sache mit widerstrebenden Interessen taetig war; berufsrechtliche Pflichtverletzung geniegt nicht.
-- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Interessenkonflikt-Check vor Mandatsannahme als verfassungsrechtlich gebotene Massnahme zur Sicherung des Vertrauens in die Rechtspflege.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
@@ -26,15 +23,14 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 - § 356 StGB — Parteiverrat: strafrechtliche Konsequenz bei gleichzeitiger Vertretung gegenlaeufiger Interessen
 - § 14 BRAO — Widerruf der Zulassung bei schwerwiegenden Berufsrechtsverletzungen
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43a Rn. 150-200 (Interessenkonflikt: Tatbestand, Ausnahmen und Rechtsfolgen)
-- Henssler/Prütting BRAO § 3 BORA Rn. 1-30 (Konkretisierung: Ehemalige Mandanten und Sozietaets-Konflikt)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlage
 
 ### § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
 
-> „Der Rechtsanwalt darf nicht tätig werden, wenn er eine andere Partei in derselben Rechtssache im widerstreitenden Interesse bereits beraten oder vertreten hat oder mit ihr in Sozietät verbunden ist."
+> "Der Rechtsanwalt darf nicht tätig werden, wenn er eine andere Partei in derselben Rechtssache im widerstreitenden Interesse bereits beraten oder vertreten hat oder mit ihr in Sozietät verbunden ist."
 
 ### § 3 BORA — Verbot der Vertretung widerstreitender Interessen (Konkretisierung)
 
@@ -82,12 +78,12 @@ Das Sekretariat muss vor Terminvergabe — oder spätestens beim Erstgespräch �
 ## Skript für das Sekretariat: Was beim Erstanruf zu fragen ist
 
 ```
-„Um sicherzustellen, dass wir Ihnen helfen dürfen, benötige ich noch
+"Um sicherzustellen, dass wir Ihnen helfen dürfen, benötige ich noch
 kurz einige Angaben. Wen haben Sie als Gegenseite — also: gegen wen
 oder gegen welches Unternehmen geht es in Ihrem Fall?"
 
 Falls die anfragende Person zögert:
-„Das ist für uns nur intern wichtig, um zu prüfen, ob wir Sie in
+"Das ist für uns nur intern wichtig, um zu prüfen, ob wir Sie in
 diesem Fall vertreten dürfen. Ich leite nichts an die Gegenseite weiter."
 ```
 

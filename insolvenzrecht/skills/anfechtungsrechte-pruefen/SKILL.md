@@ -1,6 +1,6 @@
 ---
 name: anfechtungsrechte-pruefen
-description: "Insolvenzverwalter klagt auf Rueckgewaehr einer Zahlung vor Insolvenz oder Glaeubiger muss Insolvenzanfechtung abwehren. Pruefraster §§ 129 ff. InsO kongruente Deckung § 130 inkongruente Deckung § 131 vorsaetzliche Benachteiligung § 133 unentgeltliche Leistung § 134 Gesellschafterdarlehen § 135. Anfechtungsfrist drei Monate bis zehn Jahre Bargeschaefts-Privileg § 142 InsO. Berechnung Anfechtungsansprueche Beweislast Hin- und Herwirkung Forderungsanmeldung. Output Anfechtungs-Pruef-Memo mit Tatbestands-Checkliste Betrag und Verteidigungslinien. Abgrenzung: vorsatzanfechtung-133-inso fuer vertiefte § 133-Pruefung."
+description: "Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläubiger muss Insolvenzanfechtung abwehren. Prüfraster §§ 129 ff. InsO kongruente Deckung § 130 inkongruente Deckung § 131 vorsaetzliche Benachteiligung § 133 unentgeltliche Leistung § 134 Gesellschafterdarlehen § 135. Anfechtungsfrist drei Monate bis zehn Jahre Bargeschäfts-Privileg § 142 InsO. Berechnung Anfechtungsansprüche Beweislast Hin- und Herwirkung Forderungsanmeldung. Output Anfechtungs-Prüf-Memo mit Tatbestands-Checkliste Betrag und Verteidigungslinien. Abgrenzung: vorsatzanfechtung-133-inso für vertiefte § 133-Prüfung."
 ---
 
 # Insolvenzanfechtungsrechte prüfen
@@ -58,7 +58,7 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 **BGH-Rechtsprechung dazu** restriktiver geworden mit § 133-Reform 2017:
 
-- BGH IX ZR 65/14 (alte Fassung) — weit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Seit 2017 Vorsatz-Anfechtung verkürzt:
   - **Vier Jahre** für Deckungs-Konstellationen wo Anfechtungs-Gegner zur Zeit der Handlung Gläubiger war und Erfüllung erhalten hat
   - **Zehn Jahre** für sonstige Konstellationen
@@ -88,7 +88,7 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 - Tausch sofortig
 - Bezahlung gegen Lieferung
 - Lohnzahlung gegen Arbeit
-- Bargeschäft-Privileg seit Reform 2017 enger gefasst (BGH IX ZR 191/06 → klassische Linie)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 4 — Rechtshandlung Definition
 
@@ -111,7 +111,7 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 ### Bei Steuerbehörden
 
-- BGH IX ZR 22/13 — Finanzamt-Forderung-Pfändung Kenntnis Zahlungs-Unfähigkeit
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 130 131 anwendbar bei Steuer-Beitreibung
 
 ## Schritt 6 — Rechtsfolge
@@ -186,8 +186,8 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 - InsO §§ 129–147
 - BGH IX. Zivilsenat
-- Uhlenbruck InsO
-- Münchener Kommentar InsO (Schmidt/K. Schmidt)
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - HK-InsO
 
 
@@ -195,13 +195,12 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 Bevor losgelegt wird, klaere:
 
-1. **ZU-Datum?** Tag der Zahlungsunfaehigkeit exakt festlegen (BGH IX ZR 123/04 10%-Schwelle).
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Verjährung § 146 InsO?** 3 Jahre ab Kenntnis des IV, max. 10 Jahre ab Rechtshandlung — Frist sofort prufen!
 3. **Nahestehende Person § 138 InsO?** Gesellschafter >25%, GF, Ehegatte → Beweislastumkehr zugunsten IV.
-4. **Bargeschaeft § 142 InsO?** Gleichwertige Gegenleistung zeitgleich (max. 30 Tage)? BGH IX ZR 3/12.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Vorsatz § 133 InsO?** Nach SanInsFoG-Reform: konkrete Bedrohungslage, nicht bloss drohende ZU.
 
 ## Weitere Leitentscheidungen
 
-- BGH, Urt. v. 06.04.2006 — IX ZR 185/04, NZI 2006, 416 — kongruente Deckung § 130 InsO: Gesamtbild wirtschaftliche Verhaeltnisse; Zahlungseinstellung als ZU-Indiz.
-- BGH, Urt. v. 24.09.2009 — IX ZR 62/09, NZI 2010, 30 — Kenntnis ZU § 130: GF der Schuldnerin muss ZU-Schluss gezogen haben; allg. finanzielle Schwierigkeiten reichen nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

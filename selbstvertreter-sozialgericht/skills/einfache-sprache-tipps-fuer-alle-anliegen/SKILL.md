@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-tipps-fuer-alle-anliegen
-description: "Tipps zur klaren und einfachen Sprache fuer eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behoerdendeutsch. Beispiele fuer Buerger."
+description: "Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behoerdendeutsch. Beispiele für Buerger."
 ---
 
 # Klar schreiben — Tipps fuer Schriftsaetze

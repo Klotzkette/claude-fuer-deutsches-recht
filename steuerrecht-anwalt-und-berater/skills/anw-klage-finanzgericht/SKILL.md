@@ -1,6 +1,6 @@
 ---
 name: anw-klage-finanzgericht
-description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurueckgewiesen Mandant will Klage einreichen oder Untaetigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untaetigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zustaendigkeit FG § 33 FGO oertlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde."
+description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untätigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zuständigkeit FG § 33 FGO örtlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde."
 ---
 
 # Klage zum Finanzgericht
@@ -16,17 +16,11 @@ description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anw
 
 ## Aktuelle Rechtsprechung
 
-- BFH, Urt. v. 22.06.2022 - XI R 25/20, BStBl II 2023, 42 Rn. 16 — Die Klagefrist des § 47 Abs. 1 FGO beginnt mit der Bekanntgabe der Einspruchsentscheidung; bei postalischer Zusendung greift die Vier-Tages-Fiktion des § 122 Abs. 2 AO i.V.m. § 155 FGO.
-- BFH, Urt. v. 14.03.2012 - XI R 33/09, BStBl II 2012, 477 Rn. 17 — Das Finanzgericht ist verpflichtet, die vollständige Steuerakte beizuziehen; der Kläger kann Akteneinsicht nach § 78 FGO verlangen.
-- BFH, Beschl. v. 28.08.2019 - XI B 68/18, BFH/NV 2020, 34 Rn. 10 — Eine Präklusion nach § 79b Abs. 3 FGO setzt voraus, dass das Gericht eine angemessene Frist gesetzt und auf die Folgen der Fristversäumung hingewiesen hat.
-- BFH, Urt. v. 29.06.2016 - X R 1/15, BStBl II 2016, 865 Rn. 22 — Im finanzgerichtlichen Verfahren gilt der Untersuchungsgrundsatz (§ 76 FGO); das Gericht ist nicht auf den Vortrag der Beteiligten beschränkt, muss aber nur entscheidungserheblichen Tatsachen nachgehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Tipke/Kruse, AO/FGO, § 47 FGO Rn. 1-30 (Klagefrist, Berechnung, Wiedereinsetzung)
-- Gräber/Stapperfend, FGO, § 76 Rn. 1-60 (Untersuchungsgrundsatz, Mitwirkungspflichten)
-- MüKo FGO/Thielo, § 79b Rn. 1-30 (Präklusion, richterliche Fristsetzung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Voraussetzungen
 
 - **Vorverfahren** durchgeführt — Einspruchsentscheidung liegt vor (§ 44 FGO).

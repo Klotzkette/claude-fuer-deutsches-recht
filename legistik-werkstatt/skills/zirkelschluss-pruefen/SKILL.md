@@ -1,6 +1,6 @@
 ---
 name: zirkelschluss-pruefen
-description: "Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren. Anwendungsfall Entwurf enthaelt viele Querverweise und soll auf ungewollte Zirkel und tautologische Definitionen geprueft werden. Direkte Zirkel A verweist auf A indirekte Zirkel A verweist B B verweist C C verweist A. Tautologische Definitionen Vermutung der Vermutung. Dynamische Verweisungen auf EU-Recht Pruefung Reichweite statische Verweisungen Datum der Fassung. Erstellt Verweisgraf markiert problematische Kanten. Output Liste der zu entzerrenden Stellen. Anschluss terminologie-konsistenz normenkartierung."
+description: "Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren. Anwendungsfall Entwurf enthaelt viele Querverweise und soll auf ungewollte Zirkel und tautologische Definitionen geprüft werden. Direkte Zirkel A verweist auf A indirekte Zirkel A verweist B B verweist C C verweist A. Tautologische Definitionen Vermutung der Vermutung. Dynamische Verweisungen auf EU-Recht Prüfung Reichweite statische Verweisungen Datum der Fassung. Erstellt Verweisgraf markiert problematische Kanten. Output Liste der zu entzerrenden Stellen. Anschluss terminologie-konsistenz normenkartierung."
 ---
 
 # Zirkelschluss prüfen
@@ -52,19 +52,15 @@ Bei dynamischen Verweisen auf EU-Recht: Demokratieprinzip prüfen. Der nationale
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 23.10.1973 — 2 BvC 3/73, BVerfGE 36, 139 Rn. 25 — Norm darf nicht ihrer eigenen Grundlage widersprechen; Zirkelschluss in Begruendung ist Indiz fuer normative Unklarheit; Gericht klaert Zirkelschluss zulasten des Normgebers
-- BVerwG, Urt. v. 12.05.2016 — 4 C 13.15, NVwZ 2016, 1163 — Verweis-Kette in Normen darf nicht in sich zurueckfuehren; wenn Norm A auf Norm B verweist und Norm B auf Norm A, ist Auslegung praejudiziell offen; zirkulaere Verweisungen verletzten Bestimmtheitsgebot
-- BGH, Urt. v. 19.07.2018 — III ZR 127/17, NJW 2018, 3253 — Zirkelschluss in AGB-Klauseln fuehrt zu Unwirksamkeit nach § 307 BGB; Klarheitsgebot verlangt, dass Rechte und Pflichten ohne Zirkel erkennbar sind; analog fuer Gesetzesbegruendung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 20 Abs. 3 GG (Bestimmtheitsgebot) — §§ 1-5 HdR (Normenklarheit, Verweisungs-Regeln) — § 307 BGB (Analogie: Zirkelschluss als Klarheits-Verstoß) — §§ 133, 157 BGB (Auslegungsgrundsaetze bei zirkulaeren Formulierungen)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schneider, Gesetzgebung, 3. Aufl. 2002, § 4 Rn. 50 ff. (Verweisungs-Normen, Zirkelschluss-Vermeidung)
-- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 20 Rn. 84 ff. (Bestimmtheitsgebot, Auslegungsregeln)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Verweisgraf, Liste detektierter Schleifen, Vorschläge zur Entzerrung.

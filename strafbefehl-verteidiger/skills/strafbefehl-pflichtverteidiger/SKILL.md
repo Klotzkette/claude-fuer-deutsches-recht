@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-pflichtverteidiger
-description: "Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebuehren Nr. 4100 ff. VV-RVG."
+description: "Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebühren Nr. 4100 ff. VV-RVG."
 ---
 
 # Pflichtverteidiger im Strafbefehlsverfahren
@@ -24,18 +24,11 @@ description: "Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 11.07.2022 - 5 StR 264/22, NStZ 2022, 586 — Pflichtverteidiger-Bestellung erforderlich wenn wegen erheblicher Schwierigkeit der Rechtslage (§ 140 Abs. 2 StPO) Verteidigung durch Laien nicht zugemutet werden kann; Verurteilung ohne ordnungsgemaesse Bestellung verletzt Art. 6 Abs. 3 Buchst. c EMRK.
-- BVerfG, Beschl. v. 08.04.2021 - 2 BvR 1833/20, NJW 2021, 1738 — Recht auf Beiordnung des Verteidigers des Vertrauens hat Verfassungsrang; willkuerliche Ablehnung des Wunschverteidigers verletzt Art. 2 Abs. 1 GG.
-- BGH, Beschl. v. 14.09.2021 - 4 StR 301/21, NStZ 2022, 46 — Beiordnung kann auch noch in der laufenden Hauptverhandlung beantragt werden wenn notwendiger Verteidigungsfall erst jetzt erkennbar wird.
-- OLG Muenchen, Beschl. v. 12.05.2020 - 3 Ws 270/20, NStZ-RR 2020, 281 — Auswechslung des Pflichtverteidigers nach § 143a StPO setzt ernsthaftes und endgueltiges Zerruettnis des Vertrauensverhaeltnisses voraus; einfache Unzufriedenheit genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 140 Rn. 1-40 (notwendige Verteidigung)
-- Meyer-Gossner/Schmitt StPO § 141 Rn. 1-20 (Bestellungszeitpunkt)
-- Meyer-Gossner/Schmitt StPO § 143a Rn. 1-15 (Auswechslung)
-- Gerold/Schmidt RVG Nr. 4100 VV Rn. 1-20 (Strafverteidigergebuehren)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Pflichtverteidiger-Bestellung
 
 ```

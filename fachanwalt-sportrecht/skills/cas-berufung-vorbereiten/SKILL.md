@@ -1,6 +1,6 @@
 ---
 name: cas-berufung-vorbereiten
-description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13 IPRG Art. 77 (Schweizer BGer). Pruefraster Statement of Appeal Appeal Brief Fristen-Check Verfahrenswahl Kosten-Abschaetzung. Output Berufungsschrift-Entwurf Verfahrens-Checkliste. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (Doping-Spezifisch) und verbandsstrafe-anfechten (Allgemein)."
+description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13 IPRG Art. 77 (Schweizer BGer). Prüfraster Statement of Appeal Appeal Brief Fristen-Check Verfahrenswahl Kosten-Abschaetzung. Output Berufungsschrift-Entwurf Verfahrens-Checkliste. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (Doping-Spezifisch) und verbandsstrafe-anfechten (Allgemein)."
 ---
 
 # CAS-Berufung vorbereiten
@@ -36,11 +36,11 @@ description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| KZR 6/15 | BGH, 07.06.2016 (Kartellsenat) — Pechstein | Sport-Schiedsklauseln wirksam bei struktureller Ausgewogenheit des Schiedsgerichts |
-| 1 BvR 2103/16 | BVerfG, 03.06.2022 | Sportschiedsgerichtsbarkeit verfassungsgemäß; Mindeststandards |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | 4A_558/2011 | Schweizer BGer, 27.03.2012 — Pechstein | Anfechtung CAS-Spruch; enge Prüfung Ordre public |
 | CAS 2014/A/3642 | CAS | Just cause bei Gehaltsrückständen Art. 14 FIFA RSTP |
-| C-415/93 | EuGH, 15.12.1995 — Bosman | Art. 45 AEUV; Freizügigkeit; Transferbeschränkungen |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -333,4 +333,4 @@ The Appellant is available for emergency contact:
 
 ## Quellen
 
-Stand: 05/2026. CAS Code Art. R29, R37, R38, R47–R64. WADA-Code 2021 Art. 2.1, 3.1, 9, 10, 13, 17. IPRG Art. 77. BGH KZR 6/15 (07.06.2016). BVerfG 1 BvR 2103/16 (03.06.2022). Schweizer BGer 4A_558/2011 (27.03.2012). EuGH C-415/93 Bosman (15.12.1995). Adolphsen Internationale Sportschiedsgerichtsbarkeit. Reeb/Mavromati Code of CAS Commentary.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

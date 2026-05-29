@@ -1,6 +1,6 @@
 ---
 name: video-verhandlung-128a-zpo
-description: "Video-Verhandlung nach § 128a ZPO. Teilnahme an muendlicher Verhandlung per Bild und Ton-Uebertragung. Antrag technische Voraussetzungen Einverstaendnis-Pflichten. Praktischer Leitfaden fuer Selbstvertreter."
+description: "Video-Verhandlung nach § 128a ZPO. Teilnahme an muendlicher Verhandlung per Bild und Ton-Übertragung. Antrag technische Voraussetzungen Einverstaendnis-Pflichten. Praktischer Leitfaden für Selbstvertreter."
 ---
 
 # Video-Verhandlung nach § 128a ZPO

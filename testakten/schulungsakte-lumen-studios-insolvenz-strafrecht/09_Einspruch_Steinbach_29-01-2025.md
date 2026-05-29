@@ -48,14 +48,14 @@ Eine entsprechende Korrespondenz wird mit der Begründung des Einspruchs vorgele
 
 ### 2. Rechtliche Bewertung
 
-Die Tatbestandsmerkmale des § 283b Abs. 1 Nr. 1 StGB („nicht-, nicht-richtig oder nicht-rechtzeitig führen") sind tatbestandlich erfüllt, soweit eine systematische, geordnete und nachvollziehbare Buchführung im Sinne §§ 238 ff. HGB nicht stattgefunden hat. Die durch meinen Mandanten geführten Excel-Aufzeichnungen erfüllen diese Anforderungen nur teilweise.
+Die Tatbestandsmerkmale des § 283b Abs. 1 Nr. 1 StGB ("nicht-, nicht-richtig oder nicht-rechtzeitig führen") sind tatbestandlich erfüllt, soweit eine systematische, geordnete und nachvollziehbare Buchführung im Sinne §§ 238 ff. HGB nicht stattgefunden hat. Die durch meinen Mandanten geführten Excel-Aufzeichnungen erfüllen diese Anforderungen nur teilweise.
 
 Aber die **subjektive Tatseite** (Vorsatz, mindestens dolus eventualis) ist nach unserer Auffassung nicht erfüllt:
 
 - Mein Mandant wusste um die Mandatsniederlegung des Steuerberaters und hat aktiv nach Nachfolge gesucht.
 - Er hat in dieser Übergangsphase eigenständig Buchungs-Aufzeichnungen geführt.
 - Eine bewusst-billigend-in-Kauf-genommene Verletzung der Buchführungs-Pflicht liegt nicht vor; er hat vielmehr in Erwartung der baldigen Bestellung eines Nachfolgers das Beste versucht.
-- Die Vorwurfs-Begründung im Strafbefehl, mein Mandant habe „gewusst, dass ein Steuerberater fehlt, dass keine Software-gestützte Buchführung läuft, und nicht für eine ordnungsgemäße Buchführung gesorgt", verkennt diese aktive Übergangs-Bemühung.
+- Die Vorwurfs-Begründung im Strafbefehl, mein Mandant habe "gewusst, dass ein Steuerberater fehlt, dass keine Software-gestützte Buchführung läuft, und nicht für eine ordnungsgemäße Buchführung gesorgt", verkennt diese aktive Übergangs-Bemühung.
 
 ### 3. Strafzumessung
 

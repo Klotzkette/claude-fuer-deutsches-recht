@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie
-description: "Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekuendigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Pruefraster Hinweisgebertatbestand geschuetzte Meldung Repressalie-Kausalitaet Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Anspruechen Eilantrag bei Kuendigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren."
+description: "Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren."
 ---
 
 # HinSchG-Whistleblower-Schutz gegen Repressalie
@@ -55,14 +55,7 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| EGMR | 28274/08 (Heinisch) | 21.07.2011 | Whistleblower-Schutz aus Art. 10 EMRK; Verhältnismäßigkeit der Sanktion relevant |
-| EGMR | 23922/19 (Gawlik) | 16.02.2021 | Kein Art. 10 EMRK-Schutz bei leichtfertig falscher Meldung; Sorgfaltspflicht der hinweisgebenden Person |
-| LAG Köln | 6 Sa 593/23 | 02.02.2024 | Erste HinSchG-Anwendung: § 36 Beweislastumkehr greift bei zeitlichem Zusammenhang Meldung/Kündigung |
-| LAG Baden-Württemberg | 4 Sa 26/24 | 18.09.2024 | Interne Meldung per E-Mail an Compliance-Abteilung erfüllt die Anforderungen des § 7 HinSchG; Schriftform nicht zwingend |
-| ArbG Berlin | 36 Ca 15296/23 | 15.06.2024 | Mobbing als HinSchG-Repressalie; § 37 HinSchG-Schmerzensgeld 8.000 EUR |
-| BAG | 2 AZR 235/02 | 03.07.2003 | Vor HinSchG: Loyalitätspflicht-Abwägung bei externen Meldungen; Kündigung verhältnismäßig wenn interne Meldewege zuvor nicht ausgeschöpft |
-| BAG | 2 AZR 6/19 | 15.12.2016 | Vor HinSchG: strafrechtlich relevante Anzeige gegen AG-Mitarbeiter kann durch Meinungsfreiheit gedeckt sein; Einzelfallabwägung nach Art. 5 GG |
-| EuGH | C-817/19 | 27.10.2022 | RL 2019/1937 gilt auch für intern handelnde Aufsichtspersonen; mitgliedstaatliche Regelung muss Schutzbereich nicht enger ziehen als Richtlinie |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Beweislastumkehr § 36 HinSchG — Aufbau und Wirkung
 
@@ -199,7 +192,7 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 |---|---|
 | Meldung nicht im Anwendungsbereich § 2 | Anhang RL 2019/1937 sorgfältig prüfen; weit auslegen; ggf. parallele allgemeine Arbeitnehmer-Schutzrechte |
 | Leistungsprobleme schon vor Meldung | Zeitstrahl mit HR-Dokumenten; fehlende Abmahnungen vor Meldung widersprechen dieser These |
-| Restrukturierung ohne Meldungs-Bezug | Zeitlicher Konnex (LAG Köln 6 Sa 593/23): bei enger zeitlicher Nähe Beweislastumkehr greift |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Bewusst unwahre Meldung (§ 38) | Nur bei positiver Kenntnis der Unwahrheit; Verdacht genügt nach § 3 Abs. 5 |
 | KSchG nicht anwendbar (Kleinstbetrieb) | § 35 HinSchG gilt unabhängig von § 23 KSchG; HinSchG-Unwirksamkeit = separater Unwirksamkeitsgrund |
 
@@ -244,13 +237,9 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 
-## Kommentarliteratur
+## Quellenregel
 
-- Dzida/Granetzny, NZA 2023, 1401 ff. (Praxiskommentar HinSchG mit Workflow-Empfehlungen)
-- HK-ArbR/Schmidt, 4. Aufl. 2024, HinSchG §§ 35–38 (Repressalieverbote und Schadensersatz)
-- Gerdemann, NZA-Beilage 2022, 2 (Umsetzungsanforderungen aus RL 2019/1937)
-- Mengel, CCZ 2023, 153 (Compliance-Pflichten nach HinSchG aus Unternehmenssicht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Adressat & Tonfall
 
 | Phase | Adressat | Tonfall |
@@ -266,9 +255,5 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 - RL 2019/1937/EU (EU-Whistleblower-Richtlinie)
 - KSchG §§ 4, 5
 - BGB §§ 195, 199, 249
-- EGMR 28274/08 (21.07.2011); EGMR 23922/19 (16.02.2021)
-- EuGH C-817/19 (27.10.2022)
-- LAG Köln 6 Sa 593/23 (02.02.2024); LAG Baden-Württemberg 4 Sa 26/24 (18.09.2024)
-- ArbG Berlin 36 Ca 15296/23 (15.06.2024)
-- BAG 2 AZR 235/02 (03.07.2003); BAG 2 AZR 6/19 (15.12.2016)
-- HK-ArbR/Schmidt HinSchG; Dzida/Granetzny NZA 2023, 1401
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

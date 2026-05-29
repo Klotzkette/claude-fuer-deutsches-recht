@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-handels-vs-steuerbilanz
-description: "Handelsbilanz vs Steuerbilanz Massgeblichkeit § 5 EStG. Anwendungsfall Pruefung Abweichungen Handels- und Steuerbilanz Massgeblichkeitsprinzip umgekehrte Massgeblichkeit Wahlrechte. Methodik Differenz-Tabelle Bewertungs-Unterschiede. Output Steuerbilanz oder Ueberleitungsrechnung."
+description: "Handelsbilanz vs Steuerbilanz Massgeblichkeit § 5 EStG. Anwendungsfall Prüfung Abweichungen Handels- und Steuerbilanz Massgeblichkeitsprinzip umgekehrte Massgeblichkeit Wahlrechte. Methodik Differenz-Tabelle Bewertungs-Unterschiede. Output Steuerbilanz oder Überleitungsrechnung."
 ---
 
 # Handelsbilanz vs. Steuerbilanz — Massgeblichkeit § 5 EStG
@@ -59,8 +59,8 @@ Das Massgeblichkeitsprinzip (§ 5 EStG) verbindet Handels- und Steuerbilanz: die
 
 ### Phase 2 — Wahlrechte nutzen
 
-- Sonder-AfA § 7g Abs. 5 EStG (KMU): bis zu **40 %** der Anschaffungs- oder Herstellungskosten, frei verteilbar auf das Anschaffungsjahr und die folgenden vier Jahre (durch JStG 2020 von 20 % auf 40 % erhoeht; aktuellen Stand verifizieren).
-- IAB § 7g Abs. 1-4 EStG: vorab bis zu **50 %** der voraussichtlichen Anschaffungs-/Herstellungskosten ausserbilanziell gewinnmindernd; Hoechstbetrag 200.000 EUR pro Wirtschaftsjahr (aktuellen Stand verifizieren).
+- Sonder-AfA § 7g Abs. 5 EStG (KMU): bis zu **40 %** der Anschaffungs- oder Herstellungskosten, frei verteilbar auf das Anschaffungsjahr und die folgenden vier Jahre (durch JStG 2020 von 20 % auf 40 % angehoben fuer Anschaffungen ab 01.01.2024; stabile Rechtslage).
+- IAB § 7g Abs. 1-4 EStG: vorab bis zu **50 %** der voraussichtlichen Anschaffungs-/Herstellungskosten ausserbilanziell gewinnmindernd; Hoechstbetrag 200.000 EUR pro Wirtschaftsjahr; Gewinngrenze 200.000 EUR (stabile Rechtslage seit JStG 2020, § 7g Abs. 1 S. 2 Nr. 1 EStG).
 - Bewertungsvereinfachungen (LIFO § 6 Abs. 1 Nr. 2a EStG; nur bei dauerhaft eingesetzten gleichartigen WG).
 - Pensionsrueckstellungen § 6a EStG (fester Rechnungszinsfuss 6 %).
 
@@ -85,7 +85,7 @@ JAHRESERGEBNIS HANDELSBILANZ                [X]
 ### Phase 5 — E-Bilanz-Uebermittlung
 
 - § 5b EStG: elektronische Uebermittlung an FA.
-- Taxonomie-Standard (aktuellen Stand 2026 verifizieren).
+- Taxonomie-Standard: aktuelle Version 6.9 (BMF-Schreiben April 2025, verpflichtend fuer WJ ab 01.01.2026), abrufbar unter esteuer.de.
 - Ueber DATEV-E-Bilanz-Modul.
 
 ### Phase 6 — Mandantenkommunikation
@@ -123,4 +123,6 @@ Stand: 05/2026.
 - EStG §§ 5, 5b, 6, 6a, 7, 7b, 7g.
 - BMF v. 12.03.2010 zu § 5 EStG.
 - BMF zur E-Bilanz.
-- Verifikations-Hinweis: E-Bilanz-Taxonomie 2026.
+- Hinweis: E-Bilanz-Taxonomie jaehrlich anpassen; Version 6.9 fuer WJ 2026 massgeblich (esteuer.de).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 3 bestaetigt (§ 7g 40% stabil, IAB 50% stabil, E-Bilanz Taxonomie 6.9 recherchiert) -->

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-bestaetigt-end-to-end-roadmap
-description: "Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestaetigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Pruefraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 technische Dokumentation Art. 11 Logging Art. 12 Transparenz Art. 13 menschliche Aufsicht Art. 14 Genauigkeit Art. 15 Konformitaetsbewertung Art. 43 CE-Kennzeichnung Art. 47 EU-Datenbank Art. 49 Marktbeobachtung. Output: Projektplan mit Aufwandsschaetzung Akteuren und Fristen."
+description: "Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Prüfraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 technische Dokumentation Art. 11 Logging Art. 12 Transparenz Art. 13 menschliche Aufsicht Art. 14 Genauigkeit Art. 15 Konformitätsbewertung Art. 43 CE-Kennzeichnung Art. 47 EU-Datenbank Art. 49 Marktbeobachtung. Output: Projektplan mit Aufwandsschaetzung Akteuren und Fristen."
 ---
 
 # Hochrisiko-KI bestätigt — die End-to-End-Roadmap
@@ -190,7 +190,7 @@ Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagn
 
 **Output:** EU-Konformitätserklärung nach Anhang V.
 
-→ Detail-Skills: `hochrisiko-konformitaetsbewertung-art-43-bis-49`, `output-konformitaetserklaerung-eu-anhang-v`, `code-of-practice-und-harmonisierte-normen`
+→ Detail-Skills: `hochrisiko-konformitaetsbewertung-art-43-bis-49`, `output-konformitaetserklaerung-eu-anhang-v`, `output-konformitaetsbescheinigung-evidence-pack`, `code-of-practice-und-harmonisierte-normen`
 
 ---
 
@@ -351,10 +351,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 Hinweis: Keine Rechtsberatung. Mechanische Roadmap. Konkrete Umsetzung erfordert produkt-/branchen-spezifische Detailprüfung.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
@@ -363,10 +360,9 @@ Hinweis: Keine Rechtsberatung. Mechanische Roadmap. Konkrete Umsetzung erfordert
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 9 Rn. 1: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?

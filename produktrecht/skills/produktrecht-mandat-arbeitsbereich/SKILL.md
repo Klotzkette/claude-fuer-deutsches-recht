@@ -34,14 +34,11 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 - § 2 BORA: Konkretisierung der Verschwiegenheitspflicht, Pflicht zur Einweisung von Mitarbeitern
 - § 203 StGB: Verletzung von Privatgeheimnissen — strafrechtliche Sanktion bei unbefugter Weitergabe von Mandatsinformationen
 - § 43a Abs. 4 BRAO: Interessenkollisionsverbot — Mandat-Workspace-Trennung unterstützt die Konfliktprüfung, ersetzt sie jedoch nicht
-- BGH, Urt. v. 07.11.2019 – IX ZR 285/17, NJW 2020, 461 (Anwaltliche Verschwiegenheitspflicht — Grenzen): Zur Reichweite der Verschwiegenheitspflicht im zivilrechtlichen Anwaltshaftungsrecht. `[verify]`
-- BGH, Urt. v. 12.05.2016 – IX ZR 241/14, NJW 2016, 2561 (Interessenkonflikt: Nichtigkeit des Anwaltsvertrags bei Vertretung widerstreitender Interessen): Erstmalige Klärung, dass Verstoß gegen § 43a Abs. 4 BRAO zur Nichtigkeit des Mandatsvertrags führt; Konfliktpräventionspflichten bei übergreifendem Mandatswissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Henssler/Prütting (Hrsg.), BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff. (Verschwiegenheitspflicht) `[verify]`
-- Feuerich/Weyland (Hrsg.), BRAO, 10. Aufl. 2022, § 43a Rn. 20 ff. (Verschwiegenheit und digitale Arbeitsmittel) `[verify]`
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Aufbewahrungspflichten
 
 - § 50 BRAO: Aufbewahrungspflicht für Handakten — grundsätzlich 5 Jahre ab Ende des Mandats; Archivierung ist keine Löschung
@@ -53,7 +50,7 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 
 `CLAUDE.md` der Kanzlei lesen und `## Mandats-Workspaces` prüfen.
 
-- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: „Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:produktrecht-kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
+- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: "Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:produktrecht-kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
 - Wenn `Aktiviert: ✓` → weiter mit dem angegebenen Unterbefehl.
 
 ### Schritt 1: Unterbefehl erkennen und ausführen
@@ -74,12 +71,12 @@ Auf das erste Argument (Unterbefehl) reagieren:
    - **Mandatstyp** (aus dem Kanzleiprofil; für Produktrecht: Produkt-Launch | Feature-Review | Marketingaussagen-Prüfung | Risikoanalyse | Produktbereich dauerhaft | Sonstiges)
    - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team — erhöhte Stufe erfordert besondere Vorsicht bei mandatsübergreifenden Einstellungen)
    - **Kernsachverhalt** (2–5 Sätze: Worum geht es? Wer sind die Beteiligten? Was steht auf dem Spiel?)
-   - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. „Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", „Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
+   - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. "Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", "Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
    - **Zusammenhängende Mandate** (Slugs verbundener Vorgänge)
 3. `mandate/<slug>/mandat.md` mit der unten beschriebenen Vorlage anlegen.
-4. `mandate/<slug>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
+4. `mandate/<slug>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. **Nicht automatisch wechseln.** Fragen: „Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>`)"
+6. **Nicht automatisch wechseln.** Fragen: "Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>`)"
 
 ### Schritt 3: Liste ausgeben (nur bei `liste`)
 
@@ -88,7 +85,7 @@ Alle `mandate/*/mandat.md` einlesen. Kurze Titelzeile und Statusfelder extrahier
 | Slug | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Überschrift „Archiviert" aufführen.
+Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Überschrift "Archiviert" aufführen.
 
 ### Schritt 4: Mandat wechseln (nur bei `wechsel`)
 
@@ -99,7 +96,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 ### Schritt 5: Mandat schließen (nur bei `schließen`)
 
 1. Prüfen, ob `mandate/<slug>/` existiert.
-2. Einen „Geschlossen"-Eintrag mit dem heutigen Datum an `mandate/<slug>/verlauf.md` anhängen.
+2. Einen "Geschlossen"-Eintrag mit dem heutigen Datum an `mandate/<slug>/verlauf.md` anhängen.
 3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (§ 50 BRAO: Aufbewahrungspflicht beachten — nie löschen).
 4. Wenn das geschlossene Mandat das aktive Mandat war: `Aktives Mandat:` auf `keine — nur Kanzleikontext` setzen.
 
@@ -109,12 +106,11 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — Mandatsaufnahme und Mandatsfuehrung; korrekte Auftragsaufnahme und -abgrenzung verhindert Schadensersatzansprueche wegen unvollstaendiger Leistungserbringung
-- BGH, Urt. v. 10.01.2019 — III ZR 109/17, NJW 2019, 1312 — Mandatsgrenzen bei Produktrecht-Beratung; Berater muss aktiv auf Grenzen des Mandats hinweisen; unaufgefordertes Ergaenzen von offensichtlichen Luecken als Sekundaerpflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 1-4 ProdHaftG — §§ 3, 3a UWG
 
-**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 611 ff. Rn. 1 ff. (Dienstvertrag, Anwalts-Mandatsrecht)
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ausgabeformat
 
@@ -147,9 +143,9 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 *Jede Abweichung vom kanzleiweiten Standard, die nur für dieses Mandat gilt.*
 
-- [z. B. „Haftungsbeschränkung: Mandant besteht auf 24 Monaten statt Kanzleistandard 12 Monate."]
-- [z. B. „Ton: partnerschaftlich — Gegenseite ist strategischer Partner."]
-- [z. B. „Rechtsstand: österreichisches Recht statt deutschem."]
+- [z. B. "Haftungsbeschränkung: Mandant besteht auf 24 Monaten statt Kanzleistandard 12 Monate."]
+- [z. B. "Ton: partnerschaftlich — Gegenseite ist strategischer Partner."]
+- [z. B. "Rechtsstand: österreichisches Recht statt deutschem."]
 
 ## Zusammenhängende Mandate
 
@@ -172,7 +168,7 @@ Anhängendes Ereignisprotokoll. Neuestes oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Anfangskontext, der über mandat.md hinausgeht — z. B. „Eröffnet auf Basis des eingehenden PRD-Entwurfs von [Gegenseite]."]
+[Anfangskontext, der über mandat.md hinausgeht — z. B. "Eröffnet auf Basis des eingehenden PRD-Entwurfs von [Gegenseite]."]
 ```
 
 ## Beispiel
@@ -201,15 +197,14 @@ Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließli
 ## Quellenpflicht
 
 - **Berufsrecht:** BRAO-Volltext (gesetze-im-internet.de), BORA, FAO
-- **Strafrecht:** § 203 StGB-Kommentar (Schönke/Schröder, 30. Aufl. 2019)
 - **Aufbewahrung:** § 50 BRAO, ggf. §§ 257 HGB, 147 AO
-- **Rechtsprechung:** juris, beck-online — BGH-Entscheidungen zum Mandatsgeheimnis und Interessenkonflikt in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
+- **Rechtsprechung:** amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang — BGH-Entscheidungen zum Mandatsgeheimnis und Interessenkonflikt in der Form `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
 
-Quellen, die nur aus dem Modellwissen stammen, tragen `[verify]`. Pinpoint-Zitate tragen `[verify-pinpoint]`.
+Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und führt keine Interessenkonfliktprüfung durch — dies obliegt dem verantwortlichen Rechtsanwalt.
+Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die anwaltliche Arbeitsorganisation; Interessenkonflikte bewertet weiterhin der verantwortliche Rechtsanwalt.
 
 
 <!-- AUDIT 27.05.2026 bundle_040
-Geprueft: BGH IX ZR 294/16, NJW 2019, 378 — WRONG_TOPIC. NJW 2019, 378 gehoert zu BGH 1 StR 194/18 (Untreue/Kommunalfinanzierung, 19.09.2018), nicht zu Interessenkonflikt beim Kanzleiwechsel. IX ZR 294/16 existiert nicht als BGH-Urteil zu diesem Thema (verfuegbare Fundstelle III ZR 294/16 ist Amtshaftung). Ersetzt durch: BGH, Urt. v. 12.05.2016 — IX ZR 241/14, NJW 2016, 2561 (Nichtigkeit bei Vertretung widerstreitender Interessen, dejure.org bestaetigt). Status: ERSETZT.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
@@ -158,6 +158,6 @@ Klassische Stolperfalle in Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht):
 
 ## Aktuelle Rechtsprechung Vergleich Verkehrsrecht
 
-- OLG Koeln, Urt. v. 19.03.2019 - 25 U 60/18, NJW-RR 2019, 1232 — Ratenzahlungsvergleich: bleibt Schuldner mit zwei Raten in Verzug, entsteht Faelligkeitsklausel des Gesamtbetrages; Vollstreckung aus dem Vergleichstitel moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 217/21 (NOT_FOUND dejure.org), BGH VI ZR 440/13 (NOT_FOUND dejure.org) und BGH VI ZR 314/10 (WRONG_TOPIC: Stasi/Persoenlichkeitsrecht, NJW 2013, 790, nicht Direktanspruch) entfernt. Ersatzlos geloescht gemaess Reparaturauftrag task_275. -->

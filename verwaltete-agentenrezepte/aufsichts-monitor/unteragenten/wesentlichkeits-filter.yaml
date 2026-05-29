@@ -24,7 +24,7 @@ system:
       Prüfung; `mittel` ist in den Digest aufzunehmen; `niedrig` kann
       archiviert werden.
     - **Begründung**: kurze Stichworte, warum der Eintrag eingestuft wurde
-      (z. B. „Art. 17 MAR, Ad-hoc-Pflicht; Frist: unverzüglich").
+      (z. B. "Art. 17 MAR, Ad-hoc-Pflicht; Frist: unverzüglich").
 
     **Wesentlichkeitsheuristiken für deutsches Aufsichtsrecht:**
     - `hoch`: Einträge mit konkreten Handlungsfristen (Art. 17 MAR: unverzüglich;

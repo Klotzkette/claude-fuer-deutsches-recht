@@ -1,7 +1,7 @@
 {
   "name": "anlagen-zu-schriftsaetzen",
-  "version": "14.2.0",
-  "description": "Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik; konvertiert alles nach PDF; benennt beA-konform; stempelt oben rechts Anlage K1/B1/A1 in Arial 12; baut Anlagenkonvolut; Pruefmodus fuer bereits zugeordnete Anlagen.",
+  "version": "24.2.0",
+  "description": "Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik; konvertiert alles nach PDF; benennt beA-konform; stempelt oben rechts Anlage K1/B1/A1 in Arial 12; baut Anlagenkonvolut; Prüfmodus für bereits zugeordnete Anlagen.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

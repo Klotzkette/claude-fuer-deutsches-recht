@@ -1,0 +1,13 @@
+datum,adressat,auftraggeber,person,kanal,erstkontakt,offenlegung_ok
+2026-04-08,BMWK Referat III B 2,HansaH2,Lea Sommer,E-Mail,ja,ja
+2026-04-10,Bundestag MdB A,HansaH2,Lea Sommer,Telefon,ja,ja
+2026-04-12,Bundestag Buero MdB B,HansaH2,Nils Tietjen,E-Mail,ja,unklar
+2026-04-16,BMF Referat Energie,Nordsee Elektrolyse,Tarek Abadi,Teams,ja,ja
+2026-04-18,Fraktion Arbeitsgruppe Wirtschaft,HansaH2,Lea Sommer,E-Mail,ja,ja
+2026-04-22,Bundestag Ausschusssekretariat,beide,Lea Sommer,E-Mail,nein,ja
+2026-05-02,BMWK Leitungsebene,HansaH2,Nils Tietjen,Termin,ja,ja
+2026-05-05,Bundestag MdB C,Nordsee Elektrolyse,Tarek Abadi,Telefon,ja,ja
+2026-05-09,Bundestag Mitarbeitender D,beide,Lea Sommer,E-Mail,ja,ja
+2026-05-15,BMF Referatsleitung,HansaH2,Nils Tietjen,Teams,nein,ja
+2026-05-20,Bundestag MdB E,Nordsee Elektrolyse,Tarek Abadi,E-Mail,ja,ja
+2026-05-24,BMWK Staatssekretaersbuero,beide,Lea Sommer,E-Mail,ja,ja

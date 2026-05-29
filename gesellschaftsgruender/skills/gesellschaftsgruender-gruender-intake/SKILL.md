@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gruender-intake
-description: "Ersterfassung des Gruendungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschaeftszweck. Normen: GmbHG, AktG, HGB. Pruefraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gruendungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill)."
+description: "Ersterfassung des Gründungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschäftszweck. Normen: GmbHG, AktG, HGB. Prüfraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gründungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill)."
 ---
 
 # Gründer-Intake
@@ -23,17 +23,11 @@ description: "Ersterfassung des Gruendungsvorhabens: Rechtsform, Gesellschafterk
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 25.09.2017 - II ZR 174/16, NJW 2018, 298 Rn. 14 — Stimmbindungsvertrag (SHA): wirkt nur schuldrechtlich zwischen den Parteien; kein dinglicher Effekt auf GmbH-Beschlüsse; erzwingbar nur durch Schadensersatz oder einstweilige Verfügung.
-- BGH, Urt. v. 19.09.2005 - II ZR 173/04, BGHZ 164, 107 — Bad-Leaver-Einziehung: sachliche Rechtfertigung erforderlich; willkürliche Hinauskündigungsklauseln unwirksam.
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 — Vorbelastungshaftung: Holding-GmbH als Gesellschafterin haftet anteilig; Holding muss vor HR-Eintragung zahlungsfähig sein.
-- OLG München, Urt. v. 25.10.2017 - 7 U 2378/17, NZG 2018, 224 — Cap Table Streit: fehlerhafte Gesellschafterliste im HR kann Dritterwerb von Anteilen blockieren (§ 16 GmbHG).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Winter, GmbHG, § 15 Rn. 1-30 (Abtretung Geschäftsanteile, Vesting)
-- Lutter/Hommelhoff, GmbHG, § 34 Rn. 1-25 (Einziehung, Bad-Leaver)
-- Baumbach/Hueck, GmbHG, § 47 Rn. 1-20 (Stimmrecht, Stimmbindung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Frageleitfaden (9 Blöcke)
 
 ### Block 1 — Gründer
@@ -167,8 +161,7 @@ OFFENE PUNKTE / STOPPSCHILDER
 - §§ 2, 5, 15, 34, 47 GmbHG (Grundlagen Gründung und Anteilsstruktur)
 - § 8b KStG (steuerlicher Holding-Vorteil)
 - § 19 GwG (Transparenzregister)
-- BGH II ZR 174/16, NJW 2018, 298 (Stimmbindung)
-- BGH II ZR 173/04, BGHZ 164, 107 (Bad-Leaver)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Scholz/Winter, GmbHG, § 15 Rn. 1-30
 
 ## Übergabe an andere Skills

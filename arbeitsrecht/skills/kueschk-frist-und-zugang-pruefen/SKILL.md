@@ -1,6 +1,6 @@
 ---
 name: kueschk-frist-und-zugang-pruefen
-description: "Fristpruefung Kuendigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB."
+description: "Fristprüfung Kündigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB."
 ---
 
 # Frist und Zugang prüfen
@@ -24,17 +24,11 @@ description: "Fristpruefung Kuendigungsschutzklage: § 4 KSchG drei Wochen ab Zu
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 26.03.2015 – 2 AZR 483/14, NZA 2015, 1183 — Zugang setzt voraus, dass das Schreiben in den Machtbereich des Empfängers gelangt ist und dieser unter gewöhnlichen Umständen Kenntnis nehmen kann; Einwurf in Briefkasten am späten Abend bewirkt Zugang erst am nächsten Tag (gewöhnlicher Zustellungsgang).
-- BAG, Urt. v. 22.04.2010 – 2 AZR 568/08, NZA 2010, 1348 — Zur Beweislast für den Zugang: Der Absender trägt die Beweislast dafür, dass die Kündigung dem Empfänger zugegangen ist; bloße Aufgabe zur Post ohne Einwurfeinschreiben begründet keine Zugangsvermutung; Übergabeeinschreiben und Rückschein sind die sichersten Nachweise.
-- BAG, Urt. v. 25.04.2013 – 2 AZR 189/12, NZA 2013, 1076 — Zu § 5 KSchG: Die Antragsfrist von 2 Wochen nach Wegfall des Hindernisses (§ 5 Abs. 3 KSchG) ist ebenfalls eine Ausschlussfrist; bei Krank­heit als Hinderungsgrund kommt es darauf an, dass der Arbeitnehmer aufgrund der Erkrankung tatsächlich und objektiv nicht in der Lage war, eine Klage zu erheben oder anzuregen.
-- BAG, Urt. v. 01.03.2007 – 2 AZR 525/05, NZA 2007, 809 — Drei-Wochen-Frist und Sonderkündigungsschutz: Auch bei Kündigungen, die den Sonderkündigungsschutz (z.B. § 17 MuSchG) verletzen, muss die Klage innerhalb von drei Wochen erhoben werden; § 4 KSchG gilt ausnahmslos.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Kiel, 24. Aufl. 2024, § 4 KSchG Rn. 1–30 (Klagefrist; Fristbeginn; Fristberechnung; Sonderkündigungsschutz)
-- ErfK/Kiel, 24. Aufl. 2024, § 5 KSchG Rn. 1–25 (Nachträgliche Klagezulassung; Voraussetzungen; Antragsfrist)
-- Schaub/Linck, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 133 Rn. 50–80 (Fristberechnung; Zugangsprobleme; Beweislast)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## KRITISCHE SOFORTPRÜFUNG (Schritte)
 
 ### Schritt 1: Zugangsdatum feststellen

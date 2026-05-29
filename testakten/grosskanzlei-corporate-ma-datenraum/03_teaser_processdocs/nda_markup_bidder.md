@@ -50,7 +50,7 @@ Nachfolgend sind die wesentlichen Änderungen und Anmerkungen von Eagle Capital 
 
 **Seller-Position (Entwurf):** Vollständige Rückgabe oder Löschung aller Unterlagen innerhalb von 10 Werktagen nach Beendigung des Prozesses oder Aufforderung.  
 **ECP-Forderung:** Ausnahme für gesetzlich vorgeschriebene Aufbewahrungspflichten und regulatorische Compliance-Anforderungen (KWG, GwG, Compliance-Archivierungspflichten des Fonds). Frist verlängern auf 30 Tage.  
-**Kanzlei-Einschätzung:** ECP-Position ist marktüblich und sachlich geboten. Einschränkung: Aufbewahrung nur für den gesetzlich zwingend erforderlichen Mindestumfang; keine „goldene Brücke" für allgemeine Archivierung zu kommerziellen Zwecken.
+**Kanzlei-Einschätzung:** ECP-Position ist marktüblich und sachlich geboten. Einschränkung: Aufbewahrung nur für den gesetzlich zwingend erforderlichen Mindestumfang; keine "goldene Brücke" für allgemeine Archivierung zu kommerziellen Zwecken.
 
 ---
 

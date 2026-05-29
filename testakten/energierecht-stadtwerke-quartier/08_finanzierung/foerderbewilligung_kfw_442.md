@@ -22,7 +22,7 @@ Bahnhofstraße 12
 
 **KfW-Darlehensnummer:** DE-KfW-442-2026-00812  
 **Datum:** 14. Juni 2026  
-**Betreff: Bewilligung eines Darlehens nach dem KfW-Programm 442 „Klimafreundlicher Neubau – Kommunen" (KfN-K) – Quartier Hafenbogen, Lüdinghausen**
+**Betreff: Bewilligung eines Darlehens nach dem KfW-Programm 442 "Klimafreundlicher Neubau – Kommunen" (KfN-K) – Quartier Hafenbogen, Lüdinghausen**
 
 ---
 

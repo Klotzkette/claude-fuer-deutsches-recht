@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-datenschutz-folgenabschaetzung
-description: "Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko fuer Betroffene soll eingefuehrt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Pruefraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung."
+description: "Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung."
 ---
 
 # Datenschutz-Folgenabschätzung
@@ -20,8 +20,7 @@ description: "Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei vorauss
 - Einbeziehung des Datenschutzbeauftragten Art. 35 Abs. 2 DSGVO.
 - Verzeichnis von Verarbeitungstätigkeiten Art. 30 DSGVO.
 - Rechtmäßigkeit der Verarbeitung Art. 6 DSGVO bzw. Art. 9 DSGVO.
-- EuGH zu Schadenersatz bei DSGVO-Verstoß: EuGH C-300/21, Urt. v. 04.05.2023, Rn. 32 ff. (immaterieller Schaden bedarf konkreten Nachweises).
-- BGH zu DSGVO-Auskunftsanspruch: BGH VI ZR 1213/22, Urt. v. 27.09.2023, Rn. 24 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -42,7 +41,7 @@ description: "Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei vorauss
 8. Periodische Ueberpruefung
 ```
 
-Standardliteratur: Kühling/Buchner DSGVO Art. 35; Gola DSGVO; DSK Kurzpapier Nr. 5.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage Konsultationsanfrage Art. 36 DSGVO
 
@@ -79,10 +78,7 @@ Mit freundlichen Gruessen
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: DSFA-Pflicht nach Art. 35 DSGVO und Risikobewertung sind eigenständige Pflichten; fehlende DSFA begründet Verstoß nach Art. 83 Abs. 4 DSGVO unabhängig vom Schadenseintritt.
-- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht bei KI-gestützten Entscheidungssystemen; neue Technologien nach Art. 35 Abs. 1 DSGVO iVm EDSA-Kriterien lösen regelmäßig DSFA-Pflicht aus — auch wenn kein Hochrisiko-KI-System nach KI-VO vorliegt.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
-- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Verstoß gegen Art. 35 DSGVO (fehlende DSFA) begründet keinen automatischen Schadensersatz, ist aber eigenständiger Bußgeldtatbestand Art. 83 Abs. 4 DSGVO.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

@@ -16,7 +16,7 @@
 | **Vernehmungsart** | Beschuldigtenanhörung (formlos, vor Ort) |
 | **Datum** | 17. März 2026 |
 | **Uhrzeit** | 15:22 Uhr bis 15:47 Uhr |
-| **Ort** | Detektionsbüro, Drogerie „Beauté & Co", Immermannstraße 38, 40210 Düsseldorf |
+| **Ort** | Detektionsbüro, Drogerie "Beauté & Co", Immermannstraße 38, 40210 Düsseldorf |
 | **Vernehmungsbeamtin** | PHK'in Monika König, KK 32, PNr. 41-8837 |
 | **Dolmetscher** | keiner erforderlich |
 
@@ -42,7 +42,7 @@
 
 Die Beschuldigte wurde über folgenden Sachverhalt belehrt:
 
-1. **Tatvorwurf:** Verdacht des Diebstahls gemäß § 242 Abs. 1 StGB, hilfsweise Diebstahl geringwertiger Sachen gemäß § 248a StGB, begangen am 17.03.2026, ca. 14:45 Uhr, in der Drogerie „Beauté & Co", Immermannstraße 38, 40210 Düsseldorf.
+1. **Tatvorwurf:** Verdacht des Diebstahls gemäß § 242 Abs. 1 StGB, hilfsweise Diebstahl geringwertiger Sachen gemäß § 248a StGB, begangen am 17.03.2026, ca. 14:45 Uhr, in der Drogerie "Beauté & Co", Immermannstraße 38, 40210 Düsseldorf.
 
 2. **Schweigerecht:** Die Beschuldigte wurde darüber belehrt, dass sie nicht verpflichtet ist, sich zur Sache zu äußern, und dass es ihr freisteht, zu schweigen (§ 136 Abs. 1 Satz 2 StPO).
 
@@ -64,7 +64,7 @@ Die Beschuldigte wurde nach ihrer Belehrung gefragt, ob sie sich zur Sache äuß
 
 **Die Beschuldigte erklärte:**
 
-> „Ich möchte im Moment nichts weiter sagen. Ich bin im Schock. Ich habe das nicht so gewollt."
+> "Ich möchte im Moment nichts weiter sagen. Ich bin im Schock. Ich habe das nicht so gewollt."
 
 Weitere Angaben zur Tat lehnte sie ab. Sie gab an, keine Aussage machen zu wollen, bis sie mit einem Anwalt gesprochen habe.
 
@@ -113,5 +113,5 @@ Vermerkt:               Beschuldigte verweigerte Unterschrift, da sie zuvor
 - Die Mandantin hat im Wesentlichen **geschwiegen** – korrekte Entscheidung.
 - Die Ware wurde **vollständig zurückgegeben** – strafmildernd.
 - Der Strafantrag nach § 248a StGB wurde gestellt – jedoch kann er nach Einleitung des Verfahrens nicht zurückgezogen werden (§ 77d StGB).
-- Die Aussage „Ich habe das nicht so gewollt" ist ambivalent; es fehlt darin eine ausdrückliche Schuldanerkennung, jedoch auch kein klares Bestreiten. **Für die Hauptverhandlung: Keine Verwertung ohne Kontext.**
+- Die Aussage "Ich habe das nicht so gewollt" ist ambivalent; es fehlt darin eine ausdrückliche Schuldanerkennung, jedoch auch kein klares Bestreiten. **Für die Hauptverhandlung: Keine Verwertung ohne Kontext.**
 - Einlassung bleibt nach Akteneinsicht vorbehalten (vgl. Akteneinsichtsantrag Bl. 10 d. A.).

@@ -1,6 +1,6 @@
 ---
 name: verhalten-im-saal-sozialgericht-laienleitfaden
-description: "Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden fuer Buerger ohne Anwalt."
+description: "Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt."
 ---
 
 # Wie verhalte ich mich im Sitzungssaal?

@@ -1,6 +1,6 @@
 ---
 name: output-memo-und-mandantenbrief
-description: "Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo fuer interne Nutzung mit juristischer Tiefe; Mandantenbrief fuer Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis."
+description: "Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis."
 ---
 
 # Output: Memo und Mandantenbrief
@@ -14,9 +14,7 @@ description: "Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbri
 
 ## Rechtsprechung und berufsrechtliche Grundlage
 
-- BGH, Urt. v. 10.11.2020 - VI ZR 342/19, NJW 2021, 306 — Die Pflicht des Anwalts zur verständlichen Kommunikation mit dem Mandanten ergibt sich aus § 43 BRAO; Memos und Mandantenbriefe müssen so formuliert sein, dass der Mandant die wesentlichen Aussagen versteht und entsprechend handeln kann.
-- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Aktennotizen des Anwalts sind Bestandteil der Mandatsakte (§ 50 BRAO); sie müssen hinreichend dokumentieren, welche Beratung erteilt und welche Empfehlungen gegeben wurden.
-- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Mandantenbriefe müssen Fristen deutlich erkennbar nennen; ein Anwalt, der eine drohende Frist im Brief nicht hervorhebt, verletzt seine Hinweispflicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 

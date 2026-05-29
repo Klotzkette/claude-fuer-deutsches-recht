@@ -1,0 +1,497 @@
+[
+  {
+    "court": "BAG",
+    "az": "2 AZR 2/77",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 2/77 (28.09.1978): Auflösungsantrag kein Rechtsmittel; BAGE 31, 83",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-aufloesungsantrag-arbeitnehmer-9-kschg/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 214/22",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 214/22 (25.08.2022): Sozialauswahl Altersgruppen § 1 Abs. 3 S. 2 KSchG",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-kuendigungsschutzklage/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 235/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 235/21 (16.12.2021): NZA 2022, 487",
+    "real_topic": null,
+    "source_url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-235-21/",
+    "skills": [
+      "zitierweise-deutsches-recht/skills/zitierweise-anwenden/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 254/06",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 254/06 (12.4.2007): KSchG-Vergleich Sperrzeit",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 256/21",
+    "status": "UNVERIFIABLE",
+    "claimed_topic": "BAG 2 AZR 256/21 (11.11.2021): Erledigungsklausel Ansprüche Arbeitsverhältnis; NZA 2022, 223",
+    "real_topic": null,
+    "source_url": null,
+    "skills": [
+      "arbeitsrecht/skills/kueschk-vergleichsverhandlung-checkliste/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 314/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Prozessvergleich Abfindung §§9,10 KSchG",
+    "claimed_topic": "Abfindung Vergleich §§9,10 KSchG Auflösungsantrag",
+    "source_url": "",
+    "skills": [
+      "arbeitsrecht/skills/kueschk-stricken-anwalt-risiko-und-vergleichsdruck/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 326/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Kleinkanzlei KSchG Schwellenwert",
+    "claimed_topic": "Kleinkanzlei §23 KSchG Anwendbarkeit",
+    "source_url": "",
+    "skills": [
+      "kanzlei-allgemein/skills/kanzlei-allgemein-hr-personal/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 335/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Schriftform Kündigung §623 BGB Zugangszeitpunkt",
+    "claimed_topic": "Schriftform Kündigung §623 BGB Zugangszeitpunkt",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-kuendigungsschutzklage/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 400/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BEM §167 SGB IX Kündigung",
+    "claimed_topic": "BEM §167 SGB IX allgemein",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 418/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Aufhebungsvertrag Anfechtung widerrechtliche Drohung",
+    "claimed_topic": "Aufhebungsvertrag Androhung fristlose Kündigung Anfechtung §123 BGB",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 468/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Substantiierung Sachvortrag bei Kündigung",
+    "claimed_topic": "Substantiierung Sachvortrag Kündigung §626 BGB",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/schriftsatzkern-substantiierung/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 595/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Außerordentliche Kündigung Betriebsratsmitglied §15 KSchG",
+    "claimed_topic": "Außerordentliche Kündigung Betriebsratsmitglied §15 KSchG §626 BGB",
+    "source_url": "",
+    "skills": [
+      "arbeitsrecht/skills/hinschg-whistleblower-antwort/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "2 AZR 63/22",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Personenbedingte Kündigung Gesundheitsprognose",
+    "claimed_topic": "Personenbedingte Kündigung Gesundheitsprognose",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-kuendigungsschutzklage/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZB 10/14",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Prozesskostenhilfe PKH Erfolgsaussichten",
+    "claimed_topic": "PKH Prozesskostenhilfe Erfolgsaussichten §114 ZPO",
+    "source_url": "",
+    "skills": [
+      "arbeitsrecht/skills/kueschk-streitwert-kostenfolge-prozesskostenhilfe/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZB 71/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Streitwert §42 Abs.2 GKG Betriebsrentensachen",
+    "claimed_topic": "Streitwert Betriebsrentenklage §42 Abs.2 GKG",
+    "source_url": "",
+    "skills": [
+      "arbeitsrecht/skills/kueschk-streitwert-kostenfolge-prozesskostenhilfe/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 124/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Direktversicherung widerrufliches Bezugsrecht bAV",
+    "claimed_topic": "Direktversicherung widerrufliches Bezugsrecht §1b BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/pensionsmodelle-fuenf-durchfuehrungswege/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 162/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Gesamtbetriebsvereinbarung Versorgungsordnung Vereinheitlichung",
+    "claimed_topic": "Gesamtbetriebsvereinbarung Versorgungsordnung Vereinheitlichung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/harmonisierung-und-migration-rechtssicher/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 18/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "CTA Contractual Trust Arrangement Insolvenzfestigkeit",
+    "claimed_topic": "CTA Insolvenzfestigkeit Anforderungen §1b BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 23/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Drei-Stufen-Theorie individualvertragliche Zusage bAV",
+    "claimed_topic": "Drei-Stufen-Theorie individualvertraglicher Anspruch bAV",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/drei-stufen-theorie-eingriffsanalyse/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 264/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Gesamtversorgungsklausel Nettolohn Dynamisierung Einfrierung",
+    "claimed_topic": "Gesamtversorgungsklausel Nettolohn Einfrierung §16 BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/drei-stufen-theorie-eingriffsanalyse/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 267/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Abtretungsverbot Versorgungsansprüche bAV",
+    "claimed_topic": "Abtretungsverbot Versorgungsansprüche §17 Abs.3 BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/pension-buyout-strukturierung-und-de-risking/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 288/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Einigungsstellenspruch Versorgungsordnung bAV Mitbestimmung",
+    "claimed_topic": "Einigungsstellenspruch BAV-Versorgungsordnung §87 BetrVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/mitbestimmung-betriebsrat-einigungsstelle-bav/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 304/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Anpassungsprüfung §16 BetrAVG Reallohnbezugsgrößen",
+    "claimed_topic": "Reallohnbezugsgrößen-Verfahren §16 BetrAVG Anpassungsprüfung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 323/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "PSV Unterstützungskasse Insolvenzsicherung Arbeitnehmer §7 BetrAVG",
+    "claimed_topic": "PSV Unterstützungskasse §7 BetrAVG Arbeitnehmer Insolvenzsicherung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 339/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Unverfallbarkeit historische Fristen §30f BetrAVG",
+    "claimed_topic": "Unverfallbarkeit historische Fristen §30f BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 349/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Widerrufsvorbehalt Versorgungsordnung sachliche Gründe",
+    "claimed_topic": "Widerrufsvorbehalt Versorgungsordnung sachliche Gründe §308 BGB",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 410/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Versorgungswerkschließung Einfrierung Future Service §1 BetrAVG",
+    "claimed_topic": "Versorgungswerkschließung Einfrierung Future Service Drei-Stufen-Theorie",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/drei-stufen-theorie-eingriffsanalyse/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 411/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Spätehenklausel Altersgrenze AGG §§ 1,7 AGG",
+    "claimed_topic": "Spätehenklausel Altersgrenze §§1,7 AGG Diskriminierung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 417/11",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sachlich-billige Ermessensausübung §16 BetrAVG Rentenanpassung",
+    "claimed_topic": "Sachlich-billige Ermessensausübung §16 BetrAVG Anpassungsentscheidung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 50/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Haftungskette Konzern PSV-Ausfall Insolvenzsicherung §7 BetrAVG",
+    "claimed_topic": "Haftungskette Konzern PSV-Ausfall §7 BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 530/19",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Prognoseprinzip §16 BetrAVG wirtschaftliche Leistungsfähigkeit",
+    "claimed_topic": "Prognoseprinzip §16 BetrAVG wirtschaftliche Leistungsfähigkeit Anpassung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 553/08",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Gleichbehandlungsgrundsatz anbieterfinanzierte Direktversicherung bAV",
+    "claimed_topic": "Gleichbehandlungsgrundsatz anbieterfinanzierte Direktversicherung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/country-by-country-benefits-matrix-konzern/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 558/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "AGG Hinterbliebenenversorgung Spätehenklausel",
+    "claimed_topic": "AGG Hinterbliebenenversorgung Spätehenklausel Diskriminierung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 635/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Handlungsaufforderungen Korrespondenz bAV Auskunftsanspruch",
+    "claimed_topic": "Handlungsaufforderungen Korrespondenz BAV Auskunftsanspruch",
+    "source_url": "",
+    "skills": [
+      "email-umformulierer-berufsrecht/skills/klare-bitte-formulieren/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 668/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "PSV Haftung Insolvenz §7 BetrAVG",
+    "claimed_topic": "PSV Haftung Insolvenz §7 BetrAVG Insolvenzsicherung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/pension-buyout-strukturierung-und-de-risking/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 697/99",
+    "status": "UNVERIFIABLE",
+    "real_topic": "ATV VBL Gesamtversorgungssystem historisches Versorgungsrecht",
+    "claimed_topic": "ATV VBL Gesamtversorgungssystem §18 BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 72/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "§613a BGB BAV Betriebsübergang Versorgungsansprüche",
+    "claimed_topic": "§613a BGB BAV Betriebsübergang Versorgungsansprüche",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/buyout-im-ma-deal-asset-vs-share/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 747/17",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Anpassungsentscheidung §16 BetrAVG gerichtliche Überprüfung Ermessen",
+    "claimed_topic": "Anpassungsentscheidung §16 BetrAVG gerichtliche Überprüfung",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 798/16",
+    "status": "UNVERIFIABLE",
+    "real_topic": "EuGH C-168/18 Umsetzung Betriebsrente Unverfallbarkeit",
+    "claimed_topic": "EuGH C-168/18 Umsetzung Betriebsrente Unverfallbarkeit §1b BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 904/12",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Eingriff erdiente Dynamik Rentenformel Drei-Stufen-Theorie",
+    "claimed_topic": "Eingriff erdiente Dynamik Rentenformel Drei-Stufen-Theorie §1 BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/drei-stufen-theorie-eingriffsanalyse/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 98/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Altzusagen Dynamisierungsklausel gehaltsabhängige Rente",
+    "claimed_topic": "Altzusagen Dynamisierungsklausel gehaltsabhängige Rente §1 BetrAVG",
+    "source_url": "",
+    "skills": [
+      "bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "5 AZR 187/05",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Erledigungsklausel Vergleich Reichweite unbekannte Ansprüche",
+    "claimed_topic": "Erledigungsklausel Vergleich Reichweite unbekannte Ansprüche Mandatspflicht",
+    "source_url": "",
+    "skills": [
+      "arbeitsrecht/skills/entfristung-vergleichsverhandlung-checkliste/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "7 ABR 12/23",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Betriebsratsbeschluss Ladungsmängel Nichtigkeit",
+    "claimed_topic": "Ladungsmängel Betriebsratsbeschluss Nichtigkeit §29 BetrVG",
+    "source_url": "",
+    "skills": [
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "8 AZR 416/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Sachliche Korrespondenz Fürsorgepflicht §241 Abs.2 BGB",
+    "claimed_topic": "Sachliche Korrespondenz Fürsorgepflicht Arbeitgeber §241 Abs.2 BGB",
+    "source_url": "",
+    "skills": [
+      "email-umformulierer-berufsrecht/skills/allgemeine-berufliche-korrespondenz/SKILL.md"
+    ]
+  },
+  {
+    "court": "BAG",
+    "az": "9 AZR 246/99",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Arbeitszeugnis Schlussformel (Vollständigkeit Bedauern/Dank/Wunsch)",
+    "claimed_topic": "Vollständigkeit der Schlussformel kein eigenständiger Anspruch auf Note 1; vollständiges Fehlen belastet",
+    "source_url": "https://www.bundesarbeitsgericht.de/entscheidung/",
+    "skills": [
+      "arbeitszeugnis-analyse/skills/ampelsystem-tabellenausgabe/SKILL.md"
+    ]
+  }
+]

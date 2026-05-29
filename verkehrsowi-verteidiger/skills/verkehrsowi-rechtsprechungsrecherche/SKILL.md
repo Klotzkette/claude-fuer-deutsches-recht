@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rechtsprechungsrecherche
-description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverbot. Normen: §§ 24 StVG, 25 StVG, 4 StVG; OWiG §§ 67 und 79 und 80. Pruefraster: OLG-Datenbanken (juris, beck-online), Suchstrategien fuer Messverfahren/Rohmessdaten/Verjaehrung/Fahrverbot, Kernzitate BVerfG, BGH, OLGs. Output Fundstellen-Liste mit Aktenzeichen, Datum, Leitsatz, Verwertungsnotiz. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Corporate-Rspr-Recherche siehe corporate-kanzlei-rechtsprechungsrecherche."
+description: "Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverbot. Normen: §§ 24 StVG, 25 StVG, 4 StVG; OWiG §§ 67 und 79 und 80. Prüfraster: OLG-Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang), Suchstrategien für Messverfahren/Rohmessdaten/Verjährung/Fahrverbot, Kernzitate BVerfG, BGH, OLGs. Output Fundstellen-Liste mit Aktenzeichen, Datum, Leitsatz, Verwertungsnotiz. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Corporate-Rspr-Recherche siehe corporate-kanzlei-rechtsprechungsrecherche."
 ---
 
 # Rechtsprechungsrecherche OWi-Verkehrsrecht
@@ -9,9 +9,9 @@ description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OL
 
 1. **Konkrete Rechtsfrage?** — "Darf der Betroffene Rohmessdaten anfordern?" vs. "War die Eichung gueltig?" — Suchstrategien verschieden.
 2. **Gericht?** — OLG des jeweiligen Bundeslandes fuer Rechtsbeschwerde-Entscheidungen; BGH fuer grundsaetzliche Fragen; BVerfG fuer Grundrechtsfragen.
-3. **Zeitraum?** — Aktuelle OLG-Rspr. bevorzugen; BVerfG NJW 2021, 455 zu Rohmessdaten ist Schluesselentscheidung.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Messgeraet-spezifische Rspr.?** — Fuer PoliScan, ESO, TraffiStar gibt es geraetespezifische OLG-Entscheidungen.
-5. **Fundstellen-Format fuer Schriftsatz?** — NZV (Neue Zeitschrift fuer Verkehrsrecht), DAR (Deutsches Autorecht), NJW.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Rechtsprechungs-Kette OWi
 
@@ -20,7 +20,7 @@ description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OL
 - OLG Bamberg NZV 2017, 494 — Sachverstaendigenantrag bei konkreten Angriffspunkten
 
 ### Rohmessdaten
-- BVerfG NJW 2021, 455 (2 BvR 1616/18) — Art. 103 GG; Rohmessdaten-Anspruch
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Koeln NZV 2021, 42 — Vollstaendige Messakte einschliesslich Rohmessdaten
 
 ### Verjaehrung
@@ -32,7 +32,7 @@ description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OL
 - OLG Hamm NZV 2021, 531 — Einwurf-Einschreiben gilt im OWi-Verfahren
 
 ### Alkohol / Drogen
-- BVerfG NJW 2007, 2539 — Blutentnahme: Richtervorbehalt, Gefahr im Verzug
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Bamberg NZV 2021, 282 — THC-Grenzwert 1 ng/ml reicht fuer § 24a StVG
 
 ### Fahrverbot Haertefall
@@ -40,7 +40,7 @@ description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OL
 - OLG Muenchen NZV 2021, 54 — Vier-Monats-Frist § 25 Abs. 2a StVG in Entscheidung erwaehnen
 
 ### Fahreridentifikation
-- BVerfG NJW 2012, 524 — Richterlicher Lichtbild-Vergleich verfassungskonform wenn sorgfaeltig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Bamberg NZV 2021, 92 — Sachverstaendigenantrag Lichtbild bei schlechter Qualitaet
 
 ## Suchstrategien Datenbanken
@@ -78,7 +78,7 @@ description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OL
 1. **Rechtsfrage praezisieren:** "Kann Betroffener Rohmessdaten verlangen?"
 2. **Normenkette aufbauen:** Art. 103 GG, § 77 OWiG, § 49 OWiG, § 147 StPO.
 3. **Datenbanksuche mit Normen:** "Art. 103 GG Rohmessdaten OWi".
-4. **Treffer sichten:** BVerfG NJW 2021, 455 als Schluessel; OLG-Entscheidungen ergaenzend.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Kernaussage paraphrasieren** fuer Schriftsatz.
 6. **Vollstaendiges Zitat:** Gericht + Datum + Az + Fundstelle + Randnummer wenn vorhanden.
 

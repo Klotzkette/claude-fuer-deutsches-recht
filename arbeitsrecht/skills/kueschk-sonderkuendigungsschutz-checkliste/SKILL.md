@@ -1,6 +1,6 @@
 ---
 name: kueschk-sonderkuendigungsschutz-checkliste
-description: "Checkliste Sonderkuendigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche Zustimmungserfordernisse."
+description: "Checkliste Sonderkündigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche Zustimmungserfordernisse."
 ---
 
 # Sonderkündigungsschutz-Checkliste
@@ -28,18 +28,11 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 01.03.2007 – 2 AZR 525/05, NZA 2007, 809 — Die Drei-Wochen-Frist des § 4 KSchG gilt auch bei Sonderkündigungsschutz; wer die Frist versäumt, verliert sein Klagerecht unabhängig davon, ob eine behördliche Zustimmung fehlte.
-- BAG, Urt. v. 27.07.2017 – 2 AZR 812/16, NZA 2017, 1227 — Die Kündigung eines schwerbehinderten Arbeitnehmers ohne vorherige Zustimmung des Integrationsamts ist nach § 168 SGB IX unwirksam; die Unwirksamkeit tritt von Gesetzes wegen ein.
-- BAG, Urt. v. 02.03.2006 – 2 AZR 83/05, NZA 2006, 988 — Der Sonderkündigungsschutz von Betriebsratsmitgliedern nach § 15 KSchG gilt uneingeschränkt auch in Kleinbetrieben, die dem KSchG nicht unterliegen; er ist verschuldensunabhängig.
-- BAG, Urt. v. 26.03.2009 – 2 AZR 879/07, NZA 2009, 914 — Der Sonderkündigungsschutz nach § 17 MuSchG greift auch dann, wenn der Arbeitgeber bei Ausspruch der Kündigung keine Kenntnis von der Schwangerschaft hatte, sofern die Arbeitnehmerin innerhalb von zwei Wochen nach Zugang mitteilt, schwanger zu sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Gallner, 24. Aufl. 2024, § 17 MuSchG Rn. 1-20 — (Absolutes Kündigungsverbot, behördliche Ausnahme)
-- ErfK/Reinhard, 24. Aufl. 2024, § 15 KSchG Rn. 1-15 — (Betriebsratsmitglieder, Amtszeit, Nachwirkung)
-- Schaub/Linck, ArbeitsR-HdB, 20. Aufl. 2023, § 125 Rn. 1 ff. — (Schwerbehinderung, Zustimmungsverfahren Integrationsamt)
-- Fitting, BetrVG, 31. Aufl. 2022, § 15 KSchG Rn. 5 ff. — (Sonderschutz Betriebsratsmitglied, Ausnahmen)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Checkliste: Liegt Sonderkündigungsschutz vor?
 
 ### 1. Schwangerschaft und Mutterschutz § 17 MuSchG

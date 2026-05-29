@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-mandat-arbeitsbereich
-description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Datenschutzpruefung."
+description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung."
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei
@@ -27,7 +27,7 @@ Beachte: Mandantendaten unterliegen § 43a Abs. 2 BRAO, § 203 StGB. Mandatsisol
 2. Verzeichnis anlegen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/mandate/[mandat-id]/`
 3. Leere `mandat.md` mit Pflichtfeldern anlegen (s. Struktur unten).
 4. Aktives Mandat in Praxisprofil auf neue ID setzen.
-5. Bestätigung ausgeben: „Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."
+5. Bestätigung ausgeben: "Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."
 
 ### `liste` – Mandatsübersicht
 
@@ -44,8 +44,8 @@ Alle Verzeichnisse unter `mandate/` auflisten:
 
 ### `schließe [Mandat-ID]` – Mandat abschließen
 
-1. Status in `mandat.md` auf „abgeschlossen" und Abschlussdatum setzen.
-2. Aktives Mandat zurücksetzen (auf „keins").
+1. Status in `mandat.md` auf "abgeschlossen" und Abschlussdatum setzen.
+2. Aktives Mandat zurücksetzen (auf "keins").
 3. Ausgabedateien des Mandats sind weiter zugänglich, werden aber nicht mehr von Skills aktiv gelesen.
 
 ### `keins` – Kanzlei-Kontext (kein aktives Mandat)
@@ -72,7 +72,7 @@ Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext.
 
 ## Ansprechpartner
 - **Mandant:** [Name, E-Mail]
-- **DSB Mandant:** [Name oder „nicht bestellt"]
+- **DSB Mandant:** [Name oder "nicht bestellt"]
 - **Kanzlei intern:** [zuständige·r Anwalt/Anwältin]
 
 ## Abweichungen vom Kanzlei-Praxisprofil
@@ -86,7 +86,7 @@ Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext.
 - [System 2]
 
 ## Verarbeitungsverzeichnis
-[Pfad oder „noch nicht bereitgestellt"]
+[Pfad oder "noch nicht bereitgestellt"]
 
 ## Ausgaben dieses Mandats
 [Ordnerpfad oder Auflistung erstellter Dokumente]
@@ -129,10 +129,7 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen der BRAO (Aktenaufbewahrungs
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88: Datenschutzrechtliche Verantwortlichkeit ist mandatsbezogen zu bewerten; Kontext-Isolation zwischen Mandaten ist datenschutzrechtlich geboten, wenn unterschiedliche Verantwortliche betroffen sind.
-- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Berufsgeheimnis nach § 43a Abs. 2 BRAO gilt mandatsbezogen; keine mandatsübergreifende Nutzung von Mandatsgeheimnissen ohne Einwilligung.
-- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Zur Abgrenzung der Berufshelfer-Stellung (§ 53a StPO) im mandatsbezogenen Kontext; ein mandatsübergreifender KI-Kontext kann das Zeugnisverweigerungsrecht gefährden.
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Berufsgeheimnis erfordert strikte Trennung der Mandatssphären; IT-Systeme müssen diese Trennung technisch sicherstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 

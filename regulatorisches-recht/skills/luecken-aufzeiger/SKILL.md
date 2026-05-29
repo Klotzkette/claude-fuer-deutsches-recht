@@ -1,6 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Pruefraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaege. Output: Lueckenanalyse Stellungnahmen-Vorentwurf. Abgrenzung: nicht fuer interne Compliance-Luecken (luecken)."
+description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Prüfraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaege. Output: Lueckenanalyse Stellungnahmen-Vorentwurf. Abgrenzung: nicht für interne Compliance-Luecken (luecken)."
 ---
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen
@@ -93,19 +93,15 @@ Gap-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisch
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Beschl. v. 06.07.2010 — 2 BvL 13/09, BVerfGE 126, 268 Rn. 40 — Gesetzgeber-Pflicht zur Luecken-Schliesssung bei verfassungsrechtlich gebotenem Handeln; BVerfG kann Gesetzgeber zur Nachbesserung verpflichten ohne Norm sofort fuer nichtig zu erklaeren
-- EuGH, Urt. v. 19.11.2015 — C-509/13 (Montis Design), NJW 2016, 215 — Luecken im nationalen Recht bei RL-Umsetzung; Mitgliedstaaten haben Luecken durch richtlinienkonforme Auslegung zu schliessen; vollstaendige Nichtbefassung kann Vertragsverletzung begruenden
-- BGH, Urt. v. 25.01.2022 — XI ZR 559/20, NJW 2022, 1303 — Luecken in AGB-Kontrolle bei regulatorischen Finanzprodukten; BGB-Luecken bei Regulierungs-Compliance schliessen Gerichte nach § 306 Abs. 2 BGB
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 20 Abs. 3 GG (Lueckenfuellungs-Pflicht) — § 5 EGBGB (Analogie) — §§ 133, 157 BGB (Auslegung) — §§ 306 Abs. 2 BGB (Lueckenfuellung AGB-Recht) — Art. 288 AEUV (Richtlinien-Umsetzungs-Luecken)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Maunz/Dürig, GG, Art. 20 Abschn. VI Rn. 80 ff. (Rechtsstaatsprinzip, Lueckenfuellung)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 45 ff. (Norm-Luecken im Verwaltungsrecht)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -119,8 +115,8 @@ Einschlägige Verlautbarungen und Normen:
 - § 25b KWG (Auslagerungen)
 - Art. 74 CRD V (Governance-Anforderungen)
 
-Kommentarliteratur:
-- Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl. 2016, § 25a Rn. 1 ff. (Organisationspflichten).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 1 ff. (Risikomanagement Zahlungsinstitute).
 
 ## Ausgabeformat
@@ -133,7 +129,7 @@ Kommentarliteratur:
 
 ## Beispiel
 
-**Eingabe:** „Bitte die MaRisk-Novelle 2023 gegen unsere Risikomanagement-Richtlinien prüfen. Richtlinien sind im Ordner /compliance/richtlinien/ hinterlegt."
+**Eingabe:** "Bitte die MaRisk-Novelle 2023 gegen unsere Risikomanagement-Richtlinien prüfen. Richtlinien sind im Ordner /compliance/richtlinien/ hinterlegt."
 
 **Ausgabe (Auszug):**
 

@@ -1,6 +1,6 @@
 ---
 name: anwaltskosten-bei-erfolg-erstattung
-description: "Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis fuer Buerger und ihre Anwaelte."
+description: "Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte."
 ---
 
 # Anwaltskosten erstattet bekommen

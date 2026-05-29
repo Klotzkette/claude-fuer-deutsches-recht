@@ -14,4 +14,4 @@ Alle Angaben sind geändert oder frei erfunden:
 - fiktives Flurstück: 1842/7
 - fiktive Personen: keine Übereinstimmung mit realen Personen beabsichtigt
 
-Fotos, Straßenansichten, Grundrisse und Karten werden nur als Platzhalter beschrieben und nicht als Bilddateien mitgeliefert.
+Fotos, Straßenansichten, Grundrisse und Karten werden als Textbeschreibungen dokumentiert und nicht als Bilddateien mitgeliefert.

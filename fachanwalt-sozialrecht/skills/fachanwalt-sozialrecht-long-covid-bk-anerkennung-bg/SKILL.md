@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg
-description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob Berufserkrankungsanerkennung bei der Berufsgenossenschaft moeglich ist. § 9 SGB VII BK-Liste Anlage 1 BKV insbesondere BK 3101 Infektionskrankheiten Gesundheitsdienst. Pruefraster: Versicherungsfall haftungsbegruendende Kausalitaet Beweisfuehrung ME/CFS als Folge RKI-Empfehlungen BSG B 2 U 23/21 R. Output: BG-Anzeige Widerspruchsbaustein oder Klagebaustein Long-COVID BK. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (DRV-Rente)."
+description: "Workflow-Skill zu fachanwalt sozialrecht long covid bk anerkennung bg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
@@ -13,15 +13,11 @@ description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob
 5. Frist für Widerspruch gegen Ablehnungsbescheid der BG (1 Monat § 84 SGG) bereits angelaufen?
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 23.04.2015 - B 2 U 20/14 R, SozR 4-2700 § 9 Nr. 26 Rn. 14 — Berufskrankheit (§ 9 SGB VII): haftungsbegründende Kausalität muss mit Wahrscheinlichkeit belegt sein; Vollbeweis für Expositionsereignis, Wahrscheinlichkeit für Kausalzusammenhang zwischen Exposition und Erkrankung.
-- BSG, Urt. v. 27.06.2017 - B 2 U 17/15 R, SozR 4-2700 § 9 Nr. 29 Rn. 18 — Äquivalenztheorie bei Berufskrankheiten: alle möglichen Ursachen für Erkrankung müssen abgewogen werden; berufliche Exposition ist nur eine Ursache unter mehreren möglichen; Einzelfall-Abwägung durch Gutachter notwendig.
-- BSG, Urt. v. 02.04.2009 - B 2 U 29/07 R, SozR 4-2700 § 9 Nr. 14 Rn. 16 — BK 3101 (Infektionskrankheiten Gesundheitsdienst): Anerkennung setzt voraus, dass in dem betreffenden Beruf die Infektionskrankheit deutlich häufiger auftritt als in der Allgemeinbevölkerung; statistischer Nachweis erforderlich.
-- BSG, Urt. v. 12.01.2010 - B 2 U 23/08 R, SozR 4-2700 § 8 Nr. 35 Rn. 12 — Kausalitätsnachweis bei Infektionskrankheiten: es reicht nicht aus, dass Berufskontakt möglich war; Kontakt mit nachweislich infizierten Personen müssen konkret belegt werden können.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Kasseler Kommentar SGB VII § 9 (Berufskrankheiten, BK-Liste, Kausalitätsanforderungen)
-- Hauck/Noftz SGB VII §§ 56-62 (Berufskrankheitsrente und Entschädigungsleistungen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. In welchem Beruf war der Mandant tätig (Pflegekraft, Arzt, Lehrer, Kassierer, Sozialarbeiter) — und liegt der Beruf im Anwendungsbereich der BK 3101?
@@ -56,12 +52,12 @@ description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| B 2 U 23/21 R | BSG, 31.05.2022 | BK 3101 bei Pflegepersonal; Anwendungsmaßstab; Expositionsschwelle |
-| B 2 U 8/04 R | BSG, 12.04.2005 | Haftungsbegründende Kausalität BK; Vollbeweis Erkrankung, Wahrscheinlichkeit Kausalität |
-| B 2 U 19/16 R | BSG, 23.04.2019 | Beweisanforderungen BK; Berufskrankheiten-Kausalität |
-| L 17 U 232/22 | LSG NRW, 09.03.2023 | Long-COVID-Anerkennung Gesundheitspersonal; ME/CFS als BK-Folge |
-| B 2 U 3/17 R | BSG, 30.01.2020 | Wie-BK § 9 Abs. 2 SGB VII; Aufgreifschwelle |
-| B 2 U 4/21 R | BSG, 08.06.2021 | MdE-Bemessung bei chronischen Erkrankungen |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -72,9 +68,7 @@ description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob
 | 1 | Beruf im Anwendungsbereich BK 3101? (Gesundheitsdienst, Wohlfahrtspflege, Labor) | BKV Anlage 1 Nr. 3101 |
 | 2 | Bei Nicht-Listenberuf: Wie-BK § 9 Abs. 2 SGB VII möglich? | § 9 Abs. 2 SGB VII |
 | 3 | Höhere Infektionsgefährdung als Allgemeinbevölkerung dokumentiert? | RKI-Empfehlung |
-| 4 | COVID-19-Infektion durch Testnachweis gesichert? | Vollbeweis BSG B 2 U 8/04 R |
-| 5 | Berufliche Exposition konkret dokumentiert? (Kontaktereignis, Zeitpunkt, Ort) | BSG B 2 U 23/21 R |
-| 6 | Haftungsbegründende Kausalität: berufliche Tätigkeit wesentliche Ursache? | BSG B 2 U 8/04 R |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Long-COVID-Symptome dauerhaft belegt? (Fatigue, PEM, POTS, Kognition) | Arztberichte, Spezialambulanz |
 | 8 | ME/CFS (ICD G93.3) als Folgeerkrankung diagnostiziert? | Diagnostik-Kriterien (CCC/ICC) |
 | 9 | BG-Anzeige nach § 193 SGB VII durch Arbeitgeber erfolgt? | § 193 SGB VII |
@@ -143,16 +137,16 @@ Stellungnahme Betriebsarzt).
 III. Kausalität
 
 Die haftungsbegründende Kausalität ist überwiegend wahr-
-scheinlich (BSG B 2 U 8/04 R). Konkrete Übertragungs-
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ereignisse am [Datum] mit [Kontaktpersonen] sind dokumentiert
 (Anlage W5: Kontakttagebuch / Schichtprotokoll).
 
 IV. Versicherungsfall Long-COVID / ME/CFS
 
 Long-COVID als Folge von COVID-19 ist eine Erkrankung im Sinne
-der BK 3101. BSG B 2 U 23/21 R (31.05.2022) bestätigt die
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Anwendbarkeit der BK 3101 auf Infektionskrankheiten im
-Gesundheitsdienst. LSG NRW L 17 U 232/22 (09.03.2023) hat
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Long-COVID als anerkennungsfähige Folge anerkannt.
 
 Wir beantragen:
@@ -189,7 +183,7 @@ licher Höhe zu gewähren.
 Begründung:
 
 [Zusammenfassung Sachverhalt, Anwendungsbereich BK 3101,
-Kausalität, Gutachten-Lage, BSG B 2 U 23/21 R, LSG NRW
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 L 17 U 232/22, Ablehnung der BG mit Gegenargumenten]
 
 Beweisangebot:
@@ -220,7 +214,7 @@ Mit freundlichen Grüßen
 | Höhere Exposition als Allgemeinbevölkerung | Kläger | Wahrscheinlichkeit | RKI-Empfehlung, Betriebsarzt-Bericht |
 | Konkretes Infektionsereignis | Kläger | Vollbeweis | PCR-Nachweis, Kontakttagebuch |
 | Erkrankung Long-COVID/ME/CFS | Kläger | Vollbeweis | Arztberichte, ICD-Codierung |
-| Haftungsbegründende Kausalität (Beruf→Infektion) | Kläger | Überwiegende Wahrscheinlichkeit | BSG B 2 U 8/04 R |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Haftungsausfüllende Kausalität (Infektion→Long-COVID) | Kläger | Überwiegende Wahrscheinlichkeit | Neurolog./immunolog. Gutachten |
 | MdE-Grad | Gutachter | Schätzung | Arbeitsambulanzbericht |
 
@@ -245,7 +239,7 @@ Mit freundlichen Grüßen
 |---|---|
 | "Beruf nicht im Gesundheitsdienst" | BK 3101-Anwendungsbereich weit auslegen; ggf. Wie-BK § 9 Abs. 2 SGB VII |
 | "Infektion privat, nicht beruflich" | Kontaktereignisse dokumentieren; Schichtprotokolle, Infektionsketten belegen |
-| "Long-COVID keine anerkannte BK-Folge" | BSG B 2 U 23/21 R; LSG NRW L 17 U 232/22; RKI-Empfehlung 2024 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "MdE unter 20 %, keine Rente" | MdE-Gutachten angreifen; Schweregradsskalen (Bell-Score, FSS) belegen |
 | "Kausalität nicht wahrscheinlich" | Gegenexpositionsanalyse; eigenes arbeitsmedizinisches Gutachten |
 | "ME/CFS nicht nachgewiesen" | Diagnose-Leitlinien (CCC/ICC) anwenden; Spezialambulanz-Gutachten |
@@ -286,4 +280,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. SGB VII §§ 7, 8, 9, 26, 45, 56, 193. BKV Anlage 1 Nr. 3101. SGG §§ 84, 87, 109, 183. BSG B 2 U 23/21 R (31.05.2022). BSG B 2 U 8/04 R (12.04.2005). BSG B 2 U 19/16 R (23.04.2019). BSG B 2 U 3/17 R (30.01.2020). LSG NRW L 17 U 232/22 (09.03.2023). RKI-Empfehlung zu Long-COVID als BK (2024). § 44 SGB X.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

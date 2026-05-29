@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-pruefen
-description: "Prueft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister fuer DE-Schutzrechte EPO Register fuer EP-Schutzrechte USPTO PAIR PEDS fuer US-Patente nationale Register fuer JP CN KR. Liefert Anmeldetag Veroeffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurueckgenommen zurueckgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebuehren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC fuer Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren."
+description: "Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO Register für EP-Schutzrechte USPTO PAIR PEDS für US-Patente nationale Register für JP CN KR. Liefert Anmeldetag Veröffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurückgenommen zurückgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebühren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC für Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren."
 ---
 
 # rechtsstand-prüfen
@@ -120,8 +120,8 @@ Bevor der Rechtsstand geprueft wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 28.06.2011 — X ZR 35/08 (Jahresgebuehr):** Das Erlöschen eines Patents wegen Nichtentrichtung der Jahresgebuehr tritt von Rechts wegen ein (§ 20 PatG); der Patentinhaber kann das erloschene Patent durch Zahlung der rueckstaendigen Gebuehr und der Zuschlaegsgebuehr innerhalb von 2 Jahren wiederhergestellt erhalten (§ 20 III PatG); nach Ablauf dieser Frist ist die Wiederherstellung ausgeschlossen.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Erweiterte Beschwerdekammer, G 1/10 (Widerruf nach Einspruch):** Ein durch Einspruch angegriffenes Patent bleibt bis zur abschliessenden Einspruchsentscheidung in Kraft; der Rechtsstand ist waehrend des Einspruchsverfahrens unsicher, und ein Lizenznehmer sollte Klauseln fuer den Fall des Widerrufs vorsehen.
 
-> **BGH, Urt. v. 08.03.2016 — X ZB 3/14 (Patentnichtigkeit Wirkung):** Die Nichtigkeit eines Patents wirkt auf den Anmeldetag zurueck (§ 21 PatG); bereits gezahlte Lizenzgebuehren koennen nicht automatisch zurueckgefordert werden, sofern die Nichtigkeit nicht im Vertrag als aufloesende Bedingung vorgesehen war.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

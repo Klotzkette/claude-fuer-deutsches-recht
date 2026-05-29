@@ -1,17 +1,17 @@
 ---
 name: ampelsystem-tabellenausgabe
-description: "Erstellt die standardisierte Ampel-Ausgabetabelle fuer analysierte Arbeitszeugnisse. Anwendungsfall Zeugnisanalyse ist abgeschlossen und Ergebnis soll in einheitlicher Tabelle mit Satz Ampel Bewertung Notentendenz und Begruendung dargestellt werden. Vereinheitlicht Output aller Analyse-Skills fuer Mandantenbericht und Klagebegruendung. Output strukturierte Ampeltabelle als Grundlage fuer mandantenbericht-zeugnisanalyse und klage-strategie-zeugnisberichtigung."
+description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte Arbeitszeugnisse. Anwendungsfall Zeugnisanalyse ist abgeschlossen und Ergebnis soll in einheitlicher Tabelle mit Satz Ampel Bewertung Notentendenz und Begründung dargestellt werden. Vereinheitlicht Output aller Analyse-Skills für Mandantenbericht und Klagebegründung. Output strukturierte Ampeltabelle als Grundlage für mandantenbericht-zeugnisanalyse und klage-strategie-zeugnisberichtigung."
 ---
 
 # Ampelsystem-Tabellenausgabe
 
 Dieser Skill definiert das Standardausgabeformat für die vollständige Zeugnis-Analyse. Er sammelt die Ergebnisse der einzelnen Analyse-Skills und bringt sie in eine einheitliche, gut lesbare Tabellenstruktur. Das Ampelsystem (Rot/Orange/Grün) macht den Befund auf einen Blick sichtbar und erlaubt eine schnelle Orientierung über die Qualität des Zeugnisses.
 
-Die Haupttabelle enthält für jeden notenrelevanten Satz fünf Spalten: den Satz (als Zitat oder Kurzform), die Ampelfarbe (Grün/Orange/Rot), die Bewertung (Note 1 bis Note 5), die Notentendenz (aufwärts/stabil/abwärts im Gesamtkontext), und eine kurze Begründung (welches Schlüsselwort oder welche Auslassung das Signal ausgelöst hat). Nicht-notenrelevante Sätze wie die Aufgabenbeschreibung erscheinen in einer separaten Übersichtstabelle als „neutral".
+Die Haupttabelle enthält für jeden notenrelevanten Satz fünf Spalten: den Satz (als Zitat oder Kurzform), die Ampelfarbe (Grün/Orange/Rot), die Bewertung (Note 1 bis Note 5), die Notentendenz (aufwärts/stabil/abwärts im Gesamtkontext), und eine kurze Begründung (welches Schlüsselwort oder welche Auslassung das Signal ausgelöst hat). Nicht-notenrelevante Sätze wie die Aufgabenbeschreibung erscheinen in einer separaten Übersichtstabelle als "neutral".
 
 Die Farbcodierung folgt festen Regeln: Grün steht für Note 1 und Note 2, Orange für Note 3, Rot für Note 4 und Note 5. Bei gemischten Signalen (z. B. ein Satz mit grüner Leistungsaussage und orangem Abschluss) wird der Satz als Orange gewertet — schwächstes Element bestimmt die Farbe.
 
-Die Gesamtbewertung am Ende der Tabelle fasst die Ampelverteilung zusammen: Anzahl grüner, oranger und roter Sätze, gewichteter Durchschnitt (Leistung mit höherem Gewicht als Verhaltensdetails), und die sich ergebende Gesamtnote als Spanne (z. B. „Note 2 bis Note 3"). Die Spanne ist wichtiger als eine einzelne Zahl, weil Zeugnisse selten exakt eine Note entsprechen.
+Die Gesamtbewertung am Ende der Tabelle fasst die Ampelverteilung zusammen: Anzahl grüner, oranger und roter Sätze, gewichteter Durchschnitt (Leistung mit höherem Gewicht als Verhaltensdetails), und die sich ergebende Gesamtnote als Spanne (z. B. "Note 2 bis Note 3"). Die Spanne ist wichtiger als eine einzelne Zahl, weil Zeugnisse selten exakt eine Note entsprechen.
 
 ## Geheimcode-Regeln
 
@@ -32,16 +32,16 @@ Die Gesamtbewertung am Ende der Tabelle fasst die Ampelverteilung zusammen: Anza
 
 | Satz | Ampel | Bewertung | Notentendenz | Begründung |
 |---|---|---|---|---|
-| „stets zur vollsten Zufriedenheit" | Grün | Note 1 | Stabil | Vollständige Maximalformel |
-| „stets einwandfrei" (Verhalten) | Grün | Note 1 | Stabil | Maximale Verhaltensformel |
+| "stets zur vollsten Zufriedenheit" | Grün | Note 1 | Stabil | Vollständige Maximalformel |
+| "stets einwandfrei" (Verhalten) | Grün | Note 1 | Stabil | Maximale Verhaltensformel |
 | Vollständige Schlussformel | Grün | Note 1-2 | Stabil | Alle drei Elemente vorhanden |
 
 **Beispiel 2 – Ausgabe für gemischtes Zeugnis:**
 
 | Satz | Ampel | Bewertung | Notentendenz | Begründung |
 |---|---|---|---|---|
-| „zur vollen Zufriedenheit" | Orange | Note 3 | Abschwächend | Fehlendes „stets" |
-| „bemüht" (Leistungsaussage) | Rot | Note 4 | Abwärts | Rotes Signal durch „bemüht" |
+| "zur vollen Zufriedenheit" | Orange | Note 3 | Abschwächend | Fehlendes "stets" |
+| "bemüht" (Leistungsaussage) | Rot | Note 4 | Abwärts | Rotes Signal durch "bemüht" |
 | Schlussformel ohne Bedauern | Orange | Note 3 | Abschwächend | Fehlendes Bedauern |
 
 **Beispiel 3 – Gesamtzusammenfassung:** Grüne Sätze: 4 / Orange Sätze: 2 / Rote Sätze: 1 → Gewichtete Gesamtnote: Note 2 bis 3. Empfehlung: Nachverhandlung des roten Satzes und eines orangen Satzes sinnvoll.
@@ -57,16 +57,11 @@ Die Ausgabe umfasst: (1) Übersichtstabelle aller Sätze mit Ampelzuordnung, (2)
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Bei Streit über eine Note schlechter als befriedigend (Note 3) trägt der Arbeitgeber die Beweislast; bei Begehren einer besseren Note liegt die Beweislast beim Arbeitnehmer; das Ampelsystem dient als Entscheidungsmatrix für die Klage-Erfolgsprognose.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Zeugnis ausstellen, das Fortkommen nicht unnötig erschwert; auch wahre Aussagen können gegen Wohlwollensgebot verstoßen, wenn sie kodiert Negatives signalisieren.
-- **LAG Hamm, Urt. v. 13.03.2009 — 10 Sa 1782/08** — Streitwert der Zeugnisberichtigungsklage entspricht einem Monatsbruttogehalt; Ampel-Gesamtbewertung ist Ausgangspunkt für die Klageantrag-Konkretisierung.
-- **BAG, Urt. v. 06.06.2000 — 9 AZR 246/99**, BAGE 95, 48 — Vollständigkeit der Schlussformel (Bedauern, Dank, Wunsch) ist kein eigenständiger Anspruch auf die Note 1; aber das vollständige Fehlen belegt eine schlechtere Gesamtnote.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 1 ff. (Anspruch, Wohlwollensgebot, Wahrheitspflicht)
-- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 (Zeugnisrecht, Berichtigungsanspruch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Tabellenausgabe klären
 
 1. Welche Analyse-Skills wurden bereits ausgeführt? (Leistungsbeurteilung, Verhaltensbeurteilung, Schlussformel)

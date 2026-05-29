@@ -1,6 +1,6 @@
 # IDW S 6 – Kernelemente eines Sanierungskonzepts (Strukturmatrix)
 
-> Auszug, angepasst für die Anwendung im Skill `stb-liquiditaetsvorschau-3-6-12-monate`. Maßgeblich ist der aktuelle Wortlaut der IDW-Verlautbarung. Zitierweise: „IDW S 6, Tz. ..."
+> Auszug, angepasst für die Anwendung im Skill `stb-liquiditaetsvorschau-3-6-12-monate`. Maßgeblich ist der aktuelle Wortlaut der IDW-Verlautbarung. Zitierweise: "IDW S 6, Tz. ..."
 
 ## 1. Auftrag und Auftragsdurchführung
 - Auftragsgegenstand, Auftraggeber, Stichtag, Berichtsadressaten.
@@ -43,7 +43,7 @@
 
 ## 7. Aussage zur Sanierungsfähigkeit
 - **Eintritt nachhaltige Sanierungsfähigkeit** = überwiegend wahrscheinlich, dass am Ende des Planungszeitraums **branchenübliche Ertragskraft** und **angemessene Eigenkapitalausstattung** erreicht werden.
-- Davon **zu trennen**: positive Fortführungsprognose nach § 19 Abs. 2 InsO – Maßstab ist **überwiegende Wahrscheinlichkeit** der Zahlungsfähigkeit in den nächsten 12 Monaten (BGH NJW 2020, 1809 Rn. 18). Eine positive Fortführungsprognose IDW-S-11-mäßig ist ein notwendiges, aber nicht hinreichendes Element der Sanierungsfähigkeit IDW-S-6-mäßig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 8. Zusammenfassung und Empfehlungen
 - Klare Aussage: positive oder negative Sanierungsfähigkeit; positive oder negative Fortführungsprognose.
@@ -52,6 +52,4 @@
 ## Querverweise
 - IDW S 11 (Insolvenzeröffnungsgründe) – für Liquiditätsstatus und Überschuldungsstatus.
 - IDW S 9 (Bescheinigung StaRUG) – wenn StaRUG-Restrukturierungsverfahren in Betracht kommt.
-- BGH BGHZ 163, 134 (§ 17 InsO).
-- BGH NJW 2020, 1809 (§ 19 InsO Fortbestehensprognose).
-- BGH BGHZ 195, 42 (insolvenzrechtliche vs. handelsbilanzielle Überschuldung).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

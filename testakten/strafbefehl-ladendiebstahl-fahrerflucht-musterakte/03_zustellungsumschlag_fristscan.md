@@ -18,15 +18,15 @@ Eingang und Prüfung des Zustellungsumschlags zum Strafbefehl des Amtsgerichts D
 
 Die Mandantin übermittelte am 19.05.2026 gegen 19:15 Uhr per WhatsApp-Nachricht zwei Fotos:
 
-1. **Vorderseite des Umschlags:** Gelber DIN-C4-Umschlag der Deutschen Post, Aufdruck „EINSCHREIBEN / ZUGESTELLT". Absenderfeld: Amtsgericht Düsseldorf, Werdener Straße 1, 40227 Düsseldorf. Empfängerfeld: Samira Albrecht, Kasernenstraße 14, 40213 Düsseldorf. Freimachung durch Deutsche Post AG. Barcode-Aufkleber rechts unten sichtbar.
+1. **Vorderseite des Umschlags:** Gelber DIN-C4-Umschlag der Deutschen Post, Aufdruck "EINSCHREIBEN / ZUGESTELLT". Absenderfeld: Amtsgericht Düsseldorf, Werdener Straße 1, 40227 Düsseldorf. Empfängerfeld: Samira Albrecht, Kasernenstraße 14, 40213 Düsseldorf. Freimachung durch Deutsche Post AG. Barcode-Aufkleber rechts unten sichtbar.
 
 2. **Rückseite des Umschlags:** Nassklebestreifen geöffnet, keine Niederlegungsankündigung erkennbar. Stempel der Deutschen Post (blauer Rund­stempel): unleserlich, da verwischt – Datum nicht sicher lesbar.
 
-Eine Postzustellungsurkunde (PZU) als separates Dokument ist nicht übermittelt worden. Die Zustellungsart ergibt sich aus dem Akteninhalt (vgl. Bl. 48 d. A.: Richterlicher Vermerk „PZU zugestellt 10.05.2026").
+Eine Postzustellungsurkunde (PZU) als separates Dokument ist nicht übermittelt worden. Die Zustellungsart ergibt sich aus dem Akteninhalt (vgl. Bl. 48 d. A.: Richterlicher Vermerk "PZU zugestellt 10.05.2026").
 
 ### Tatsächlicher Zugang beim Empfänger
 
-Die Mandantin hat nach eigenen Angaben den Umschlag am Abend des **19.05.2026** erstmals geöffnet. Sie kann nicht mit Sicherheit angeben, seit wann der Umschlag im Briefkasten lag. Sie vermutete, dass er „seit Ende letzter Woche" (also etwa 13.-15.05.2026) dort lag.
+Die Mandantin hat nach eigenen Angaben den Umschlag am Abend des **19.05.2026** erstmals geöffnet. Sie kann nicht mit Sicherheit angeben, seit wann der Umschlag im Briefkasten lag. Sie vermutete, dass er "seit Ende letzter Woche" (also etwa 13.-15.05.2026) dort lag.
 
 ---
 

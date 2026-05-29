@@ -8,7 +8,7 @@
 
 ## Zweck dieser Checkliste
 
-Bevor ein Insolvenzplan dem Insolvenzgericht und den Gläubigern vorgelegt werden darf, muss die Insolvenzverwalterin sicherstellen, dass alle formellen und materiellen Mindestvoraussetzungen (§§ 219 ff. InsO) erfüllt sind und der Plan einer kritischen Prüfung standhält. Dieses „Quality Gate" dokumentiert die Prüfung im Fall Möbelwerk Havelberg.
+Bevor ein Insolvenzplan dem Insolvenzgericht und den Gläubigern vorgelegt werden darf, muss die Insolvenzverwalterin sicherstellen, dass alle formellen und materiellen Mindestvoraussetzungen (§§ 219 ff. InsO) erfüllt sind und der Plan einer kritischen Prüfung standhält. Dieses "Quality Gate" dokumentiert die Prüfung im Fall Möbelwerk Havelberg.
 
 ---
 

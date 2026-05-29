@@ -1,6 +1,6 @@
 ---
 name: widerspruch-begruendung-laienleitfaden
-description: "Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begruenden. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele fuer typische Streitthemen."
+description: "Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen."
 ---
 
 # So begruenden Sie Ihren Widerspruch — fuer Laien

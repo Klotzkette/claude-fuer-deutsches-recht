@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-anfechtungsklage
-description: "Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis moegliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zustaendigkeit). Pruefraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo."
+description: "Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Anfechtungsklage
@@ -24,7 +24,7 @@ description: "Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formu
 - Streitwert § 52 GKG nach wirtschaftlichem Interesse; bei Bauverwaltungssachen typischerweise 7.500 EUR pro Wohneinheit; bei Versammlungsverboten Auffangstreitwert 5.000 EUR § 52 Abs. 2 GKG.
 - Aufhebung nur soweit rechtswidrig und Kläger in seinen Rechten verletzt (§ 113 Abs. 1 Satz 1 VwGO).
 
-Standardliteratur: Kopp/Schenke VwGO; Schoch/Schneider VwGO; Eyermann VwGO.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Beweislast und Sachaufklärung
 
@@ -144,17 +144,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Aktuelle Leitentscheidungen Anfechtungsklage
 
-- BVerwG, Urt. v. 29.09.2021 — 6 C 2.20, BVerwGE 173, 267 — Anfechtungsklage gegen Bescheid bei gleichzeitiger Verpflichtungsklage; Haupt- und Hilfsantrag kombinierbar; § 113 Abs. 1 i.V.m. Abs. 5 VwGO.
-- BVerwG, Urt. v. 14.04.2022 — 4 C 3.21, NVwZ 2022, 1324 — Schutznorm-Theorie; Drittanfechtung einer Baugenehmigung; § 42 Abs. 2 VwGO; Nachbar hat Klagebefugnis bei Verletzung drittschuetzender Vorschriften des Abstandsrechts.
-- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, DVBl 2023, 710 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG ab 01.01.2025 vier Tage (PostModG); Klagefrist beginnt mit Ablauf der Fiktion; keine Fristverlaengerung bei schlechter Post.
-- OVG Muenster, Beschl. v. 19.02.2024 — 13 B 78/24 — Ermessen Behorde bei Aufhebung bestandskraeftiger Genehmigung; Rücknahme § 48 VwVfG; Vertrauensschutz des Beguemstigten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO § 42 Rn. 1-80 (Klagebefugnis, Statthaftigkeit), § 74 Rn. 1-30 (Klagefrist)
-- Stelkens/Bonk/Sachs VwVfG § 41 Rn. 1-60 (Bekanntgabe-Fiktion, PostModG)
-- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 17 (Verwaltungsakt, Anfechtung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Uebergabe
 
 - Bei Sofortvollzug parallel Antrag § 80 Abs. 5 VwGO — Skill `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`.

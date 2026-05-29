@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-duenge-ordnungswidrigkeit
-description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bussgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bussgeldhoehe bis 150 000 EUR. Verjaehrung § 31 OWiG."
+description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG."
 ---
 
 # Düngerechtliche Ordnungswidrigkeit
@@ -21,7 +21,7 @@ description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bussgel
 - Ausbringungsobergrenzen 170 kg N/ha pro Jahr aus organischem Dünger § 6 Abs. 4 DüV.
 - Stoffstrombilanz § 11a DüG — Pflicht je nach Betriebsgröße/Tierhaltung.
 - Rote Gebiete § 13a DüV — verschärfte Auflagen (20% reduzierte N-Obergrenze, längere Sperrfristen).
-- EU-rechtlicher Rahmen: Nitratrichtlinie 91/676/EWG; EuGH zur deutschen Umsetzung: EuGH C-543/16, Urt. v. 21.06.2018, Rn. 60 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Verfahrensrecht OWiG: Anhörung § 55 OWiG, Bußgeldbescheid § 65 OWiG, Einspruch § 67 OWiG.
 - Verjährung § 31 OWiG: Ordnungswidrigkeiten bei Geldbußen über 15.000 EUR drei Jahre; sonst zwei Jahre.
 
@@ -46,7 +46,7 @@ description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bussgel
 9. Verjaehrung § 31 OWiG kontrollieren
 ```
 
-Standardliteratur: Düsing/Martinez Agrarrecht; Krohn DüG-Kommentar; Bayreuther/Krämer Düngerecht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Schreibvorlage Einspruch
 
@@ -103,17 +103,16 @@ Mit freundlichen Gruessen
 
 ### Leitsatz-Zitate
 
-EuGH, Urt. v. 21.06.2018 — **C-543/16**, NVwZ 2018, 1349 Rn. 60: Deutschland hat durch unzureichende Umsetzung der Nitratrichtlinie 91/676/EWG seine EU-Verpflichtungen verletzt; die Ausweisung nitratbelasteter Roten Gebiete und die dortigen Ausbringungsbeschränkungen sind unionsrechtlich zwingend, was zu schärferen DüV-Anforderungen 2020 und 2022 geführt hat.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 02.12.2021 — **7 C 4.20**, NVwZ 2022, 322 Rn. 24: Düngungsverbote und Ausbringungsobergrenzen in Roten Gebieten nach § 13a DüV sind verhältnismäßige Eingriffe in die Berufsfreiheit (Art. 12 Abs. 1 GG); die Verschärfungen dienen dem legitimen Ziel des Gewässerschutzes; der Landwirt kann im Einzelfall überschrittene Obergrenzen durch Nachweis atypischer betrieblicher Verhältnisse widerlegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Hamm, Beschl. v. 14.05.2020 — **4 RBs 77/20**, AUR 2020, 265 Rn. 15: Aufzeichnungspflichten nach § 11 DüV müssen vollständig und zeitnah nach Ausbringung erfüllt werden; lückenhafte Aufzeichnungen begründen den objektiven Tatbestand des § 14 Nr. 5 DüV auch ohne konkreten Nachweis des Verstoßes in der Fläche; die Verwaltungsbehörde kann ohne eigene Kontrollmessung allein aus Aufzeichnungsmängeln bußen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
 § 14 DüV (Bußgeldtatbestände — Liste der Verstöße) → § 13a DüV (Rote Gebiete: 20%-Reduktion, verlängerte Sperrfristen) → § 11 DüG (Aufzeichnungspflicht) → § 11a DüG (Stoffstrombilanz) → § 31 OWiG (Verjährung: 3 Jahre bei Bußgeld über 15.000 EUR, 2 Jahre darunter) → § 17 OWiG (Zumessung, Verhältnismäßigkeit) → § 49 OWiG (Akteneinsicht)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. VIII (Düngerecht): Vollständige Übersicht zu DüG, DüV, Sperrfristen, Bußgeldtatbeständen.
-- Krohn, Kommentar zum Düngegesetz, 2021: Einzelnorm-Kommentierung §§ 11, 11a, 13a DüG mit OWiG-Kontext.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

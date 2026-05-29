@@ -1,0 +1,385 @@
+[
+  {
+    "court": "BGH",
+    "az": "II ZR 17/03",
+    "status": "UNVERIFIABLE",
+    "real_topic": "GmbH-GF Haftung unrichtige Bilanzierung — II ZR 17/03 nicht in dejure verifiziert",
+    "claimed_topic": "| BGH | II ZR 17/03 | 16.02.2004 | Unrichtige Bilanzierung: Geschäftsführer haftet; kein Schutz durch Steuerberater-Irrt",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+17%2F03",
+    "skills": [
+      "mittelstand-corporate-ma/skills/mittelstand-ma-tabellenreview/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 234/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "§ 15b InsO Zahlungsverbot — II ZR 234/18 nicht in dejure verifiziert",
+    "claimed_topic": "- **BGH II ZR 234/18** zur Auslegung § 15b",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+234%2F18",
+    "skills": [
+      "insolvenzrecht/skills/do-versicherung-manager-haftung/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 235/95",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Vereinssatzung Verbandsstrafe Anfechtung — II ZR 235/95 nicht in dejure verifiziert",
+    "claimed_topic": "description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs.",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+235%2F95",
+    "skills": [
+      "fachanwalt-sportrecht/skills/verbandsstrafe-anfechten/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 404/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "GmbH Zitiergenauigkeit/Beschlussfassung — II ZR 404/13 nicht in dejure verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Zitiergenauigkeit ist anwaltliche Pflicht; falsch zitierte Ent",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+404%2F13",
+    "skills": [
+      "kanzlei-allgemein/skills/kanzlei-allgemein-rechtsprechungsrecherche/SKILL.md"
+    ]
+  },
+  {
+    "court": "BGH",
+    "az": "III ZR 251/01",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Anwaltliche Hinweispflicht NJW 2003, 826 — III ZR 251/01 nicht in dejure mit Datum 05.12.2002 verifiziert",
+    "claimed_topic": "- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Anwalt muss Mandant ueber wesentliche Aspekte des Arbei",
+    "source_url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=III+ZR+251%2F01",
+    "skills": [
+      "ki-richtlinie-kanzleien/skills/transparenz-mandanten/SKILL.md"
+    ]
+  },
+  {
+    "idx": 9,
+    "court": "EuGH",
+    "az": "C-204/08",
+    "status": "UNVERIFIABLE",
+    "note": "EuGH C-204/08 (Peter Rehder / Air Baltic) - Fluggastrechte Gerichtsstand. Kein eindeutiger Treffer fuer dieses AZ, aber bekannte Entscheidung. Thema in Skill (Fluggastrechte Klage AG) passt nicht exakt zum EuGH-Urteil (Gerichtsstand Art. 5 Nr. 1 EuGVVO).",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 16,
+    "court": "BAG",
+    "az": "3 AZR 392/06",
+    "status": "UNVERIFIABLE",
+    "note": "BAG 3 AZR 392/06 (bAV, erdiente Anwartschaften) - kein direkter Treffer verifiziert. AZ erscheint in Kommentarliteratur zu bAV-Eingriffen. Thema plausibel aber nicht direkt bestaetigt.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 19,
+    "court": "BFH",
+    "az": "IV R 87/85",
+    "status": "UNVERIFIABLE",
+    "note": "BFH IV R 87/85 existiert vermutlich (19.03.1987). Kein direkter Treffer zum behaupteten Thema 'Vergleichsverhandlungen Steuerstreit' gefunden.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 21,
+    "court": "BGH",
+    "az": "I ZR 153/17",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 153/17, 29.10.2020 (NJW 2021, 780) - Thema 'Garantiehaftung Cap' nicht verifiziert; kein direkter Treffer fuer dieses spezifische Thema.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 22,
+    "court": "BGH",
+    "az": "II ZB 35/20",
+    "status": "UNVERIFIABLE",
+    "note": "BGH II ZB 35/20 existiert (15.06.2021) - Thema ist Aussetzung Brüssel Ia VO einseitige Gerichtsstandsvereinbarung. Skill nennt 'Gerichtsstand Rechtswahl internationale Handelsstreitigkeiten' - grob verwandt aber nicht klar verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 25,
+    "court": "BGH",
+    "az": "II ZR 174/00",
+    "status": "UNVERIFIABLE",
+    "note": "BGH II ZR 174/00 (harte Patronatserklaerung) - kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 28,
+    "court": "BGH",
+    "az": "II ZR 24/14",
+    "status": "UNVERIFIABLE",
+    "note": "BGH II ZR 24/14 - Beschlussanfechtungsklage GmbH/AG. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 31,
+    "court": "BGH",
+    "az": "III ZR 453/19",
+    "status": "UNVERIFIABLE",
+    "note": "BGH III ZR 453/19 vom 23.09.2020 - GwG-Pflichten fuer Rechtsanwaelte. Kein direkter Treffer auf dejure; nur OLG-Entscheidungen gefunden.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 39,
+    "court": "BGH",
+    "az": "IX ZR 250/15",
+    "status": "UNVERIFIABLE",
+    "note": "BGH IX ZR 250/15 - Vorsatzanfechtung § 133 InsO. Kein direkter Treffer fuer das behauptete Datum und Thema verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 42,
+    "court": "BGH",
+    "az": "IX ZR 48/21",
+    "status": "UNVERIFIABLE",
+    "note": "BGH IX ZR 48/21 existiert, aber Datum in Skill (10.02.2022) ist falsch (real: 28.04.2022). Thema Zahlungsunfaehigkeit / 10-%-Schwelle ist plausibel aber nicht direkt als spezifischer Leitsatz des AZ verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 50,
+    "court": "BGH",
+    "az": "VI ZR 320/00",
+    "status": "UNVERIFIABLE",
+    "note": "BGH VI ZR 320/00 - Aufklaerungsfehler § 630e BGB. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 55,
+    "court": "BGH",
+    "az": "VII ZR 153/13",
+    "status": "UNVERIFIABLE",
+    "note": "BGH VII ZR 153/13 - doppelte Schriftformklausel AGB. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 61,
+    "court": "BSG",
+    "az": "2 U 23/21",
+    "status": "UNVERIFIABLE",
+    "note": "BSG B 2 U 23/21 R - Long-COVID Berufskrankheit. Aehnliches AZ B 2 U 2/21 R (30.03.2023) gefunden, aber nicht exakt dieses AZ. Unverifizierbares AZ.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 66,
+    "court": "EuGH",
+    "az": "C-537/23",
+    "status": "UNVERIFIABLE",
+    "note": "EuGH C-537/23 - Gerichtsstand/Rechtswahl internationale Handelsstreitigkeiten. Kein direkter Treffer verifiziert; das AZ könnte pending oder fehlerhaft sein.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 68,
+    "court": "OLG Frankfurt",
+    "az": "5 U 160/19",
+    "status": "UNVERIFIABLE",
+    "note": "OLG Frankfurt 5 U 160/19, 07.05.2021 (NZG 2021, 1174) - Earn-Out-Klausel. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 69,
+    "court": "OLG Frankfurt",
+    "az": "5 U 63/21",
+    "status": "UNVERIFIABLE",
+    "note": "OLG Frankfurt 5 U 63/21, 14.09.2021 (NZG 2022, 112) - Tabelleneintrag Insolvenzforderung. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 70,
+    "court": "BAG",
+    "az": "3 AZR 540/15",
+    "status": "UNVERIFIABLE",
+    "note": "BAG 3 AZR 540/15, 21.03.2017 - bAV Insolvenzsicherung / Schliessung Versorgungswerk. Existiert vermutlich, aber Thema nicht direkt verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 75,
+    "court": "BAG",
+    "az": "7 AZR 946/08",
+    "status": "UNVERIFIABLE",
+    "note": "BAG 7 AZR 946/08, 02.06.2010 (NZA 2010, 1289) - Arbeitnehmerueberlassung/Befristung. Existiert, aber spezifisches Thema in Skill nicht klar verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 77,
+    "court": "BFH",
+    "az": "I R 22/24",
+    "status": "UNVERIFIABLE",
+    "note": "BFH I R 22/24 - eSports als Sport/Gemeinnuetzigkeit. Verfahren war anhängig (Stand 2025/2026), Entscheidung noch nicht veröffentlicht verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 80,
+    "court": "BGH",
+    "az": "I ZR 113/20",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 113/20 - RDG-Pruefung KI-Chatbot. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 83,
+    "court": "BGH",
+    "az": "I ZR 193/20",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 193/20 vom 29.04.2021 - Anpassung von Risikobewertungen. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 84,
+    "court": "BGH",
+    "az": "I ZR 220/15",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 220/15 vom 26.01.2017 - Kerntheorie Unterlassungsverpflichtung. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 85,
+    "court": "BGH",
+    "az": "I ZR 239/14",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 239/14 vom 04.02.2016 - CMR Art. 17 Abs. 4 Privilegierung. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 86,
+    "court": "BGH",
+    "az": "I ZR 25/19",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 25/19 vom 07.11.2019 - negative Feststellungsklage § 256 ZPO. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 87,
+    "court": "BGH",
+    "az": "I ZR 59/21",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 59/21 vom 14.10.2021 - modifizierte Unterlassungserklarung. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 88,
+    "court": "BGH",
+    "az": "I ZR 65/14",
+    "status": "UNVERIFIABLE",
+    "note": "BGH I ZR 65/14 vom 14.01.2016 (NJW 2016, 2269) - Reaktionspruefung / Markenrecht. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 92,
+    "court": "BGH",
+    "az": "II ZR 18/19",
+    "status": "UNVERIFIABLE",
+    "note": "BGH II ZR 18/19 - Rangruecktrittsformulierung. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 95,
+    "court": "BGH",
+    "az": "II ZR 44/13",
+    "status": "UNVERIFIABLE",
+    "note": "BGH II ZR 44/13 - § 48 Abs. 2 GmbHG Gesellschafterbeschluss ohne Versammlung. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 102,
+    "court": "BGH",
+    "az": "IX ZB 8/04",
+    "status": "UNVERIFIABLE",
+    "note": "BGH IX ZB 8/04 - Rechtsschutzbeduernis Insolvenzantrag. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 120,
+    "court": "BGH",
+    "az": "VII ZB 62/13",
+    "status": "UNVERIFIABLE",
+    "note": "BGH VII ZB 62/13 - formelle Vollstreckungsvoraussetzungen. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 138,
+    "court": "BSG",
+    "az": "14 AS 30/13",
+    "status": "UNVERIFIABLE",
+    "note": "BSG B 14 AS 30/13 R, 04.06.2014 - Alg II Mehrbedarf. Kein direkter Treffer zum behaupteten Thema verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "idx": 142,
+    "court": "EuGH",
+    "az": "C-141/20",
+    "status": "UNVERIFIABLE",
+    "note": "EuGH C-141/20 - Steuerrecht/Gemeinnuetzigkeit. Kein direkter Treffer verifiziert.",
+    "first_skill": "unknown"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "4 U 162/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Kartellschadensersatz-Kontext plausibel",
+    "claimed_topic": "Käufer muss Kartell-Freigabe aktiv einfordern; OLG Frankfurt 13.10.2021 4 U 162/20, NZG 2022, 213",
+    "source_url": "",
+    "skills": "corporate-kanzlei/skills/corporate-kanzlei-steps-plan-pmo/SKILL.md"
+  },
+  {
+    "court": "OLG Frankfurt",
+    "az": "5 UF 33/25",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht verifiziert (2025-AZ, Selbstbestimmungsgesetz — zu neu für Datenbanken)",
+    "claimed_topic": "SBGG Personenstandswechsel, OLG Frankfurt 5 UF 33/25",
+    "source_url": "",
+    "skills": "fachanwalt-familienrecht/skills/fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen/SKILL.md"
+  },
+  {
+    "court": "OLG München",
+    "az": "23 U 3469/21",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Formelbruch im Excel-Kaufpreismodell plausibel",
+    "claimed_topic": "Formelbruch in Excel-Finanzmodell: Käufer kann Kaufpreisanpassung verlangen; OLG München 11.01.2023",
+    "source_url": "",
+    "skills": "mittelstand-corporate-ma/skills/mittelstand-ma-tabellenreview/SKILL.md"
+  },
+  {
+    "court": "OVG Lüneburg",
+    "az": "12 LA 73/20",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; saP-Methodik für Fledermäuse/Artenschutz plausibel",
+    "claimed_topic": "saP-Methodik Fledermäuse: Erfassungszeitraum, OVG Lüneburg 08.07.2021 12 LA 73/20",
+    "source_url": "",
+    "skills": "fachanwalt-verwaltungsrecht/skills/energieanlagen-bimschg-genehmigung-verfahren/SKILL.md"
+  },
+  {
+    "court": "OVG Muenster",
+    "az": "4 B 533/18",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht direkt verifiziert; Prüfungsanordnung BaFin/Sofortvollzug plausibel",
+    "claimed_topic": "Pruefungsanordnung durch BaFin; Sofortvollzug; OVG Muenster 28.05.2018 4 B 533/18, NVwZ-RR 2019, 89",
+    "source_url": "",
+    "skills": "geldwaeschepraevention-aml-kyc/skills/geldwaesche-simulation-testlauf/SKILL.md"
+  },
+  {
+    "court": "BAG",
+    "az": "3 AZR 174/13",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht auf dejure gefunden mit Datum 28.04.2015 — AZ nicht verifizierbar",
+    "claimed_topic": "Spätehenklausel — sachliche Rechtfertigung erforderlich; reine Altersgrenze unzulässig; BAG 28.04.2015 3 AZR 174/13",
+    "source_url": "",
+    "skills": "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 151/09",
+    "status": "UNVERIFIABLE",
+    "real_topic": "Nicht auf dejure verifiziert",
+    "claimed_topic": "BGH 27.04.2010 II ZR 151/09, NZG 2010, 1393 Rn. 12 ff. — Überschuldung/Fortführungsprognose",
+    "source_url": "",
+    "skills": "insolvenzrecht/skills/ueberschuldung-pruefung-19-inso/SKILL.md"
+  },
+  {
+    "court": "BGH",
+    "az": "II ZR 212/06",
+    "status": "UNVERIFIABLE",
+    "real_topic": "BGH II ZR 212/06 nicht auf dejure gefunden",
+    "claimed_topic": "BGH II ZR 212/06, 14.01.2008 — Working Capital im SPA: Abweichung von vereinbarter Methodik",
+    "source_url": "",
+    "skills": "mittelstand-corporate-ma/skills/mittelstand-ma-tabellenreview/SKILL.md"
+  }
+]

@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-mandantengespraech-uebergabe
-description: "BWA-Uebergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
+description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
 ---
 
 # BWA-Uebergabegespraech mit dem Mandanten
@@ -38,7 +38,7 @@ Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem M
 
 - IDW PS 480 (Erstellungsgrundsaetze).
 - BStBK Berufsrichtlinien.
-- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NJW 2017, 1611 (Warnpflicht bei Krisensignalen, ggf. auch persoenlich).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -144,5 +144,5 @@ Stand: 05/2026.
 - StaRUG § 102.
 - RDG § 5.
 - BGB § 627.
-- BGH IX ZR 285/14, NJW 2017, 1611.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BStBK Berufsrichtlinien.

@@ -1,6 +1,6 @@
 ---
 name: stb-dba-home-office-pandemie-folgeregelung
-description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzueberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berechnungsbeispiel Pruef-Checkliste."
+description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzüberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berechnungsbeispiel Prüf-Checkliste."
 ---
 
 # Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung)
@@ -22,7 +22,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 
 ## Rechtlicher Rahmen
 
-### Konsultationsvereinbarungen (Auswahl, Stand 05/2026 — alle **verifizieren**)
+### Konsultationsvereinbarungen (Auswahl, Stand 05/2026 — alle Vereinbarungen und aktuellen Status im jeweiligen BMF-Schreiben pruefen)
 
 | Vertragsstaat | Vereinbarung | Status |
 |---|---|---|
@@ -47,7 +47,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 1. **Anwendungsbereich**: bestimmte Zeitperiode (z.B. waehrend Pandemie-Anordnungen).
 2. **Fiktion**: Home-Office-Tage werden so behandelt, als waere der Arbeitnehmer am gewoehnlichen Arbeitsort taetig gewesen.
 3. **Folge**: Grenzgaengerstatus erhalten; Aufteilung Lohnsteuer unveraendert; 183-Tage-Pruefung unveraendert.
-4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ueber 19 Tage Home-Office aus DE = Verlust Pendlerstatus, **Schwelle nach EU-Reform 2023 auf 34 Tage erhoeht — verifizieren**).
+4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Aenderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, gilt eine erhoeite Toleranzschwelle fuer Home-Office-Tage — massgebend sind das DBA-LU und die BMF-Konsultationsvereinbarung in der jeweils aktuellen Fassung).
 
 ## Workflow
 
@@ -80,7 +80,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 ## Strategie und Praxis-Tipps
 
 - Konsultationsvereinbarungen sind nicht alle als Dauerregelungen bestehen geblieben — Stichtag fuer Anwendbarkeit beachten.
-- Luxemburg ist Sonderfall: aus der Pandemie-Vereinbarung wurde 2023/2024 eine strukturelle Anhebung der Toleranzschwelle abgeleitet — **konkret verifizieren**.
+- Luxemburg ist Sonderfall: durch das Aenderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334, in Kraft 29.12.2023) wurde eine strukturelle Anpassung der Home-Office-Toleranzschwelle verankert — massgebend ist das BMF-Konsultationsvereinbarungsschreiben in aktueller Fassung.
 - Bei Schwellen-Ueberschreitung erfolgt regelmaessig Aufteilung der Lohnsteuer auf den Wohnsitz- und Taetigkeitsstaat — Doppelbesteuerungs-Risiko.
 - Bei strittiger Anwendung: Verstaendigungsverfahren Art. 25 MA.
 - Bei Mandanten mit hohem Home-Office-Anteil: planerische Beratung — Schwellen einhalten oder bewusst Statuswechsel.
@@ -94,4 +94,6 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 
 ## Quellen und Updates
 
-Stand: 05/2026. Konsultationsvereinbarungen Home-Office DE-CH, DE-AT, DE-LU, DE-NL, DE-FR, DE-BE (Pandemie 2020/2021 und Folgeregelungen). **Aktualitaet jeder Vereinbarung, Toleranzschwellen und Anwendungszeitraeume vor Anwendung im jeweiligen BMF-Schreiben verifizieren.**
+Stand: 05/2026. Konsultationsvereinbarungen Home-Office DE-CH, DE-AT, DE-LU (Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334), DE-NL, DE-FR, DE-BE (Pandemie 2020/2021 und Folgeregelungen). Aktualitaet jeder Vereinbarung, Toleranzschwellen und Anwendungszeitraeume im jeweiligen BMF-Schreiben vor Anwendung pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 belegt (DBA-LU Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

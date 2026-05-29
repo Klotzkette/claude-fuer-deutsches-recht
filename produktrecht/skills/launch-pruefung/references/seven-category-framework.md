@@ -5,7 +5,7 @@ Produkt-Legal-Praxis. Jede Kategorie hat eine Schlüsselfrage und eine
 automatische Überspringbedingung.
 
 Die Kategorien sind stabile Rahmenbegriffe. Was innerhalb einer Kategorie als
-„Nachbesserungsbedarf" oder „Blocker" gilt, hängt von den anwendbaren Rechtsordnungen,
+"Nachbesserungsbedarf" oder "Blocker" gilt, hängt von den anwendbaren Rechtsordnungen,
 Sektorregimen und der eigenen Kalibrierung des Unternehmens in
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` ab.
 Die einschlägigen Regulierungsregime für den Sektor, die Zielgruppe und die
@@ -26,7 +26,7 @@ Infrastruktur oder für Benutzer unsichtbare Änderung.
 **Häufige Befunde:**
 - Neues Feature widerspricht einer AGB-Einschränkung
 - SLA-Auswirkungen einer neuen Abhängigkeit
-- Feature wurde als „enthalten" vermarktet und wird in einen kostenpflichtigen Tarif verschoben
+- Feature wurde als "enthalten" vermarktet und wird in einen kostenpflichtigen Tarif verschoben
 
 ## 2. Datenschutz
 
@@ -50,7 +50,7 @@ reine Infrastruktur ohne neue Protokollierung.
 Prüfen: neue Endpunkte, neue ruhende Daten, neue Zugriffspfade, neue Authentifizierungsanforderungen.
 
 **Automatisch überspringen wenn:** Reine UI-Änderung, kein Backend. (Aber sorgfältig prüfen,
-ob es wirklich rein UI ist — eine „UI-Änderung", die einen neuen API-Aufruf hinzufügt, ist es nicht.)
+ob es wirklich rein UI ist — eine "UI-Änderung", die einen neuen API-Aufruf hinzufügt, ist es nicht.)
 
 **Nicht allein Sache der Rechtsabteilung** — Sicherheitsteam einbeziehen. Die Aufgabe der
 Rechtsabteilung ist es sicherzustellen, dass die Sicherheitsprüfung stattgefunden hat und

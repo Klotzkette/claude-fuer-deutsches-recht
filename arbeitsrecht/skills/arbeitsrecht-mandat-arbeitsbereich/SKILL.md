@@ -11,7 +11,7 @@ Anwälte und Kanzleien arbeiten für mehrere Mandanten gleichzeitig. Eine Mandat
 
 Für Kanzleien mit mehreren Mandanten (Einzelkanzlei, Mittelkanzlei, Großkanzlei). Für Syndikusrechtsanwälte mit einem Arbeitgeber ist diese Funktion standardmäßig **deaktiviert** – alle Skills nutzen automatisch den Kanzlei-/Unternehmenskontext.
 
-Im Arbeitsrecht entspricht eine „Akte" typischerweise einem bestimmten Mandanten-Sachverhalt:
+Im Arbeitsrecht entspricht eine "Akte" typischerweise einem bestimmten Mandanten-Sachverhalt:
 - Eine konkrete Kündigung oder Kündigungsschutzklage
 - Eine interne Untersuchung
 - Ein Entsendungsprojekt

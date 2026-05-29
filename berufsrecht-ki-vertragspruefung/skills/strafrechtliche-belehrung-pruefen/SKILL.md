@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-belehrung-pruefen
-description: "Pruefe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters nach § 203 Absatz vier Satz zwei Nummer eins StGB."
+description: "Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters nach § 203 Absatz vier Satz zwei Nummer eins StGB."
 ---
 
 # Strafrechtliche Belehrung prüfen
@@ -76,10 +76,7 @@ Im Skill `klauselvorschlaege` befindet sich ein Mustertext der Anlage Normtext �
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 10.11.2020 — 5 StR 264/20, NStZ 2021, 156 Rn. 18: § 203 Abs. 4 StGB (n.F.) setzt voraus, dass die zur Berufsausübung hinzugezogene Person über die strafrechtliche Tragweite der Verschwiegenheitspflicht informiert wurde; fehlende Belehrung kann strafrechtliche Mitverantwortung des Berufsgeheimnisträgers begründen.
-- BGH, Urt. v. 14.06.2018 — 4 StR 97/18, BGHSt 63, 126 Rn. 32: Zur Reichweite des § 203 StGB bei unbefugter Weitergabe von Mandatsdaten; der Begriff "offenbart" schließt auch die Zugänglichmachung über IT-Systeme ein.
-- BAG, Urt. v. 07.09.2021 — 9 AZR 3/21, NZA 2021, 1645 Rn. 27: Zur Pflicht des Arbeitgebers, Mitarbeiter auf datenschutzrechtliche und verschwiegenheitsbezogene Pflichten hinzuweisen; entsprechende Belehrungspflichten gelten auch für Vertragspartner.
-- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Schutz des Berufsgeheimnisses erfordert, dass alle am Mandatsverhältnis Beteiligten (inkl. Dienstleister) über die Tragweite ihrer Pflichten informiert sind.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -87,11 +84,9 @@ Im Skill `klauselvorschlaege` befindet sich ein Mustertext der Anlage Normtext �
 - § 204 StGB — Verwertung fremder Geheimnisse
 - §§ 43e Abs. 3 Nr. 1 BRAO, 62a Abs. 3 Nr. 1 StBerG, 50a Abs. 3 Nr. 1 WPO, 39c Abs. 3 Nr. 1 PAO, 26a Abs. 3 Nr. 1 BNotO — Pflicht zur Belehrung in Textform
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 50–100: Gesamtdarstellung des § 203 StGB; zur Sekundärpflicht in Abs. 4 Satz 2 Nr. 1; zur Belehrungspflicht bei Einschaltung von Dienstleistern.
-- Fischer StGB, 71. Aufl. 2024, § 204 Rn. 1–25: Zur Strafbarkeit nach § 204 StGB; Verwertung erfasst auch wirtschaftliche Nutzung wie KI-Training.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Enthält der Dienstleistervertrag eine explizite Belehrung über §§ 203, 204 StGB?

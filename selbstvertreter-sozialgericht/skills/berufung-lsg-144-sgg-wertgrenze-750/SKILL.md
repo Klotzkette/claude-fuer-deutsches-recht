@@ -1,6 +1,6 @@
 ---
 name: berufung-lsg-144-sgg-wertgrenze-750
-description: "Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen ueber 1 Jahr. Mustertext fuer Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung."
+description: "Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung."
 ---
 
 # Berufung zum LSG — § 144 SGG
@@ -139,7 +139,7 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `urteil-sozialgericht-was-jetzt` — vorgelagert
 - `berufung-zulassung-besondere-bedeutung` — Zulassung
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — wenn Wertgrenze nicht erreicht
+- `berufung-zulassung-besondere-bedeutung` — wenn Wertgrenze nicht erreicht oder die Berufung nicht zugelassen wurde
 - `pkh-vor-sozialgericht-73a-sgg` — PKH auch im LSG
 
 ## Quellen und Aktualitaet

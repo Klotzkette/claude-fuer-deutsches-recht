@@ -1,6 +1,6 @@
 ---
 name: triage-vermoegensverschiebung-erfassen
-description: "Erster Schritt: Vermoegenverschiebung strukturiert erfassen fuer Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung, Weichenstellung Regelungskreis. Output: Erfassungsbogen Vermoegenverschiebung. Abgrenzung: nicht inhaltliche Pruefung."
+description: "Erster Schritt: Vermögenverschiebung strukturiert erfassen für Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung, Weichenstellung Regelungskreis. Output: Erfassungsbogen Vermögenverschiebung. Abgrenzung: nicht inhaltliche Prüfung."
 ---
 
 # Triage: Vermögensverschiebung erfassen
@@ -19,20 +19,17 @@ description: "Erster Schritt: Vermoegenverschiebung strukturiert erfassen fuer B
 
 ## Rechtsprechung
 
-BGH, Urt. v. 31.10.1963 – VII ZR 285/61, BGHZ 40, 272 — Die Zweckbestimmung des Leistenden bei § 812 BGB muss dem Empfänger erkennbar sein; unvollständige oder mehrdeutige Sachverhaltsangaben führen zu unbrauchbaren Prüfungsergebnissen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 09.06.2016 – IX ZR 314/14, NJW 2016, 2580 — Für die Insolvenzanfechtung nach § 129 InsO ist der genaue Zeitpunkt der Rechtshandlung (nicht der Vertragsschluss, sondern die tatsächliche Vermögensverschiebung) entscheidend für die Fristberechnung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.07.2007 – IX ZR 235/03, NJW 2007, 3069 — Teilvermögensverschiebungen über mehrere Tranchen sind für Anfechtungsfristen und Verjährungsbeginn gesondert zu betrachten; eine Zusammenfassung als Einheitstat ist nur ausnahmsweise möglich.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 07.07.2005 – IX ZR 221/04, NJW 2005, 2983 — Für die AnfG-Anfechtung muss die Fruchtlosigkeit der Zwangsvollstreckung nachgewiesen sein; fehlende Belegerfassung (kein Pfändungsprotokoll) führt zur Unzulässigkeit der Klage nach § 2 AnfG.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 812 Rn. 1–30 (Tatsachenbasis der Leistungskondiktion, Sachverhaltserfassung).
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 30–50 (Zeitpunkt der Rechtshandlung, Fristberechnung).
-Huber in: AnfG, 12. Aufl. 2022, § 2 Rn. 1–20 (Titelerfordernis, Belegpflichten).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ist der Einstiegspunkt. Bevor eine Weichenstellung zwischen Bereicherungsrecht, AnfG-Anfechtung und InsO-Anfechtung erfolgen kann, muss der Lebenssachverhalt vollständig und strukturiert vorliegen.

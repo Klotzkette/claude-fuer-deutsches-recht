@@ -1,6 +1,6 @@
 ---
 name: entfristung-klageschrift-anwalt-baustein
-description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsantraegen; Weiterbeschaeftigungsantrag; strukturierte Begruendung nach § 14 Abs. 4 TzBfG und Sachgrundpruefung; Beweisangebote im BAG-Zitierstil."
+description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil."
 ---
 
 # Klageschrift Entfristungsklage — Anwaltliche Version
@@ -26,17 +26,11 @@ description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hil
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Die Befristungsabrede bedarf der eigenhändigen Unterschrift beider Parteien auf einer Urkunde vor Arbeitsaufnahme; elektronische Signaturen (DocuSign, qualifizierte eSignatur) sind nach § 14 Abs. 4 Satz 2 TzBfG ausdrücklich ausgeschlossen.
-- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Die Schriftform des § 14 Abs. 4 TzBfG erfordert Einheitlichkeit der Urkunde; beide Parteien müssen dieselbe körperliche Urkunde unterschreiben. Eine getrennte Unterzeichnung zweier gleichlautender Dokumente wahrt die Schriftform nur, wenn der Wille zur Verbindung erkennbar ist.
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot (§ 14 Abs. 2 Satz 2 TzBfG) gilt zeitlich unbegrenzt; eine frühere Beschäftigung beim selben Arbeitgeber — auch wenn sie viele Jahre zurückliegt — schließt die sachgrundlose Befristung grundsätzlich aus.
-- BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber darlegen, dass ein Vertretungsbedarf bei Vertragsschluss objektiv vorhanden war; pauschale Behauptungen genügen nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 80 ff. (Schriftformerfordernis)
-- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 40 Rn. 55 ff. (Klageschrift Entfristung)
-- HWK/Schmalenberg, 11. Aufl. 2024, § 17 TzBfG Rn. 1 ff. (Frist und Klageziel)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorprüfung (Checkliste)
 
 - [ ] Dreiwochenfrist § 17 TzBfG gewahrt
@@ -110,7 +104,7 @@ Der Kläger ist seit dem [DATUM] bei der Beklagten beschäftigt (Anlage K 1). Da
 
 **I. Schriftformmangel (§ 14 Abs. 4 TzBfG)**
 
-Die Befristungsabrede genügt nicht der nach § 14 Abs. 4 TzBfG i.V.m. § 126 Abs. 1 BGB erforderlichen Schriftform. Beide Parteien müssen die Befristungsabrede eigenhändig auf einer Urkunde unterschreiben (BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 Rn. 18 ff.). Vorliegend wurde der Vertrag [SACHVERHALT — z.B. über die Plattform DocuSign unterzeichnet / per E-Mail ausgetauscht]. Eine eigenhändig unterzeichnete Originalurkunde existiert nicht. Die elektronische Form ist nach § 14 Abs. 4 Satz 2 TzBfG ausdrücklich ausgeschlossen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Rechtsfolge:** Gemäß § 16 Satz 1 TzBfG gilt der Arbeitsvertrag als auf unbestimmte Zeit geschlossen.
 

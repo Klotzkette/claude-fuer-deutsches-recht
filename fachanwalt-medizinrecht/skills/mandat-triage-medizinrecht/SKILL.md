@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-medizinrecht
-description: "Strukturierte Eingangs-Abfrage fuer medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklaerungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-pruefen."
+description: "Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen."
 ---
 
 # Mandat-Triage Medizinrecht
@@ -132,17 +132,17 @@ Medizinrecht ist breit — vom Behandlungsfehler bis zur Pharmavermarktung. Tria
 - StGB §§ 203 222 229 299a 299b
 - SGB V § 66 SGB X §§ 116 199
 - BGH VI. Zivilsenat 5. Strafsenat
-- Spickhoff Medizinrecht-Kommentar
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 
 ## Vertiefung — Rechtsprechung und Normenkette
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 26.05.2020 — **VI ZR 186/17**, NJW 2020, 2534: Die regelmäßige Verjährungsfrist nach § 195 BGB wird mangels grob fahrlässiger Unkenntnis (§ 199 Abs. 1 Nr. 2 Alt. 2 BGB) grundsätzlich nicht schon dann in Lauf gesetzt, wenn der Geschädigte es unterlässt, Krankenhausunterlagen auf ärztliche Behandlungsfehler hin zu überprüfen; erforderlich ist vielmehr Kenntnis von Tatsachen, die den Schluss auf ein schuldhaftes Fehlverhalten des Behandlers als naheliegend erscheinen lassen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 27.03.2007 — **VI ZR 55/05**, NJW 2007, 2771 Rn. 14: Der Behandler ist nach § 630f BGB (früher gewohnheitsrechtlich anerkannt) zur vollständigen und zeitnahen Dokumentation verpflichtet; lückenhafte Dokumentation begründet zugunsten des Patienten die Vermutung, dass die nicht dokumentierte Maßnahme unterblieben ist.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BSG, Urt. v. 18.11.2014 — **B 1 KR 8/13 R**, BSGE 117, 212 Rn. 30: Krankenkassen-Regress nach § 116 SGB X setzt voraus, dass der Dritte (Schädiger/Behandler) gegenüber dem Geschädigten (Versicherten) schadensersatzpflichtig ist; der Anspruch geht im Zeitpunkt des Schadenseintritts auf die Krankenkasse über, soweit diese Leistungen erbringt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Ergänzung — Wichtige Normen Triage-Routing
 
@@ -152,15 +152,6 @@ BSG, Urt. v. 18.11.2014 — **B 1 KR 8/13 R**, BSGE 117, 212 Rn. 30: Krankenkass
 - § 299a StGB (Bestechlichkeit im Gesundheitswesen), § 299b StGB (Bestechung im Gesundheitswesen)
 - §§ 203, 204 StGB (Schweigepflicht, Schweigepflichtentbindung obligatorisch vor Aktenweitergabe)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Spickhoff, Medizinrecht, 4. Aufl. 2022: Mandantsrollen und Sachgebietssystematik; Querverweis auf Einzelkommentierungen §§ 630a–h BGB und SGB V.
-
----
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 79/22 vom 07.11.2023, NJW 2024, 392 – Urteil auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.11.2023&Aktenzeichen=VI+ZR+79%2F22
-Ersatz   : BGH, Urt. v. 26.05.2020 – VI ZR 186/17, NJW 2020, 2534 (Verjährung Behandlungsfehler, Kenntnis, § 199 Abs. 1 BGB). Verifiziert: https://dejure.org/2020,16850
-Aktion   : Leitsatz-Zitat ersetzt
--->
-- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 13 (Mandatsaufnahme Behandlungsfehler) und § 52 (Vertragsarztrecht): Triage-Systematik und Fallkonstellationen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

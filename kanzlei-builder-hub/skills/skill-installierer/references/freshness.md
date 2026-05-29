@@ -28,13 +28,13 @@ Ein Skill, der vor zwei Jahren zuletzt bearbeitet wurde, kann weiterhin eine au�
   `heute + freshness_window` vor der Ausführung. Wenn das Fenster abgelaufen ist, gibt er
   eine Warnung aus, bevor er fortfährt.
 - Das **Skills-QA**-Review markiert Skills mit gebündelten `references/` und fehlendem
-  `last_verified` als „Eingeschränkte Zuverlässigkeit".
+  `last_verified` als "Eingeschränkte Zuverlässigkeit".
 - Der **Auto-Updater** behandelt ein veraltetes `last_verified` als Neuverifizierungs-
   Auslöser, selbst wenn sich der Git-SHA nicht geändert hat.
 - Die Aktualitätsschwellenwerte des Benutzers (beim Kaltstart festgelegt) können **strenger** sein als
   das Fenster des Autors — der strengere der beiden Werte gilt.
 
-Ohne diese Felder markiert der Hub den Skill als „Aktualität unbekannt" und warnt
+Ohne diese Felder markiert der Hub den Skill als "Aktualität unbekannt" und warnt
 den Benutzer bei Installation und Aufruf.
 
 ## Zulässige Werte (streng)
@@ -68,9 +68,9 @@ Im Zweifelsfall wählen Sie die engere (schneller wechselnde) Kategorie. Der Sch
 schränkt sie weiter ein, wenn er einen strengeren Maßstab möchte; der Wert des Autors ist
 eine Obergrenze, keine Untergrenze.
 
-## Was „zuletzt verifiziert" tatsächlich bedeutet
+## Was "zuletzt verifiziert" tatsächlich bedeutet
 
-Nicht „zuletzt bearbeitet". Nicht „letzter Commit". **Das letzte Mal, als Sie, der Autor, die URLs in
+Nicht "zuletzt bearbeitet". Nicht "letzter Commit". **Das letzte Mal, als Sie, der Autor, die URLs in
 `verified_against` geöffnet und bestätigt haben, dass die gebündelten Referenzen immer noch
 wiedergeben, was diese Quellen aussagen.** Wenn das gebündelte Dokument eine alte Fassung des BGB enthält,
 der aktuelle Stand auf gesetze-im-internet.de jedoch anderen Text zeigt, ist die Verifizierung

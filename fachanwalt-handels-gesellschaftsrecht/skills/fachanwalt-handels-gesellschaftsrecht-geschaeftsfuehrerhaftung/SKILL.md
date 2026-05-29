@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung
-description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 AktG: Innenhaftung gegenüber Gesellschaft, Business Judgement Rule § 93 Abs. 1 S. 2 AktG (analog GmbH), Beweislastumkehr § 93 Abs. 2 S. 2 AktG. Haftungsauslöser: Buchhaltungspflichten, Steuern § 69 AO, Sozialversicherung § 266a StGB, verspäteter Insolvenzantrag § 15a InsO, Zahlungsverbot § 15b InsO. Verjährung 5 Jahre § 43 Abs. 4 GmbHG (börsennotierte AG 10 Jahre). D&O-Versicherung Selbstbehalt 10 %. Schriftsatzvorlagen Klage, Gesellschafterbeschluss § 46 Nr. 8 GmbHG."
+description: "Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 ## Mandantenfragen beim Kaltstart
@@ -10,7 +10,7 @@ description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 Ak
 3. Welche konkrete Pflichtverletzung liegt vor — Zahlung trotz Insolvenzreife, verbotene Kapitalrückzahlung, Steuerschulden, Verstöße gegen Legalitätspflicht?
 4. Ist die Business Judgement Rule anwendbar — handelt es sich um eine unternehmerische Ermessensentscheidung auf angemessener Informationsgrundlage?
 5. Besteht eine D&O-Versicherung — bei AG-Vorstand zwingender Selbstbehalt 10 % bis 1,5-faches Festvergütung (§ 93 Abs. 2 S. 3 AktG)?
-6. Wie ist der Verjährungsstand — 5 Jahre § 43 Abs. 4 GmbHG; börsennotierte AG 10 Jahre § 93 Abs. 6 AktG?
+6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 7. Wurde ein Gesellschafterbeschluss zur Geltendmachung nach § 46 Nr. 8 GmbHG gefasst?
 8. Besteht Strafbarkeit — Untreue § 266 StGB, Vorenthalten Sozialversicherung § 266a StGB?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -28,7 +28,7 @@ description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 Ak
 | § 93 Abs. 2 S. 2 AktG | Beweislastumkehr: Vorstand / Geschäftsführer muss Pflichterfüllung und fehlendes Verschulden darlegen |
 | § 93 Abs. 2 S. 3 AktG | D&O-Selbstbehalt: zwingend 10 % des Schadens, mindestens bis 1,5-faches der Festvergütung |
 | § 93 Abs. 3 AktG | Qualifizierte Sonderhaftungstatbestände: verbotene Kapitalrückzahlung, Bezahlung eigener Aktien, verbotene Kreditgewährung |
-| § 93 Abs. 6 AktG | Verjährung: 5 Jahre; börsennotierte AG 10 Jahre |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 46 Nr. 8 GmbHG | Gesellschafterbeschluss zur Geltendmachung von Schadensersatz gegen Geschäftsführer |
 | § 15a InsO | Insolvenzantragspflicht: spätestens 6 Wochen nach Zahlungsunfähigkeit; 8 Wochen nach Überschuldung |
 | § 15b InsO | Zahlungsverbot bei Insolvenzreife (seit 1.1.2021 rechtsformneutral; ersetzt § 64 GmbHG und § 92 Abs. 2 AktG aF) |
@@ -42,13 +42,7 @@ description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 Ak
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | II ZR 175/95 | 21.04.1997 | ARAG/Garmenbeck: Aufsichtsrat hat Verfolgungspflicht bei klaren Pflichtverstößen des Vorstands; Ermessen sehr eng |
-| BGH | II ZR 146/09 | 22.02.2011 | Business Judgement Rule: vier Voraussetzungen kumulativ — unternehmerische Entscheidung, angemessene Information, Wohl der Gesellschaft, keine Eigeninteressen |
-| BGH | II ZR 224/00 | 04.11.2002 | Beweislastumkehr § 43 GmbHG/§ 93 AktG: Gesellschaft muss Pflichtverletzung und Schaden beweisen; GF/Vorstand muss pflichtgemäßes Handeln darlegen |
-| BGH | II ZR 280/07 | 16.03.2009 | Insolvenzverschleppungshaftung: Schaden = Massedifferenz zwischen rechtzeitigem und verspätetem Antrag |
-| BGH | II ZR 202/07 | 14.07.2008 | Innenausgleich bei Mehrgliederhaftung: Gesamtschuld zwischen GF nach Verursachungsanteilen |
-| BGH | 5 StR 516/08 | 17.12.2008 | Strafbarkeit Insolvenzantragsverzögerung § 15a InsO als Bestandteil der Organpflichten |
-| OLG Düsseldorf | I-6 U 44/20 | 09.12.2021 | D&O-Deckung: Versicherungsfall ist Anspruchserhebung (Claims-made-Prinzip); Anzeige unverzüglich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Geschäftsführerhaftung
 
@@ -64,7 +58,7 @@ description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 Ak
 | 5 | Kausalität? | Conditio-sine-qua-non | Würde pflichtgemäßes Handeln Schaden verhindert haben? |
 | 6 | Verschulden? | Beweislastumkehr § 93 Abs. 2 S. 2 AktG | GF/Vorstand muss exculpieren |
 | 7 | Sonderhaftungstatbestände? | § 43 Abs. 3 GmbHG; § 15a, § 15b InsO; § 69 AO; § 266a StGB | Verschärfte Haftung ohne Business Judgement Rule |
-| 8 | Verjährung? | § 43 Abs. 4 GmbHG; § 93 Abs. 6 AktG | 5 Jahre; börsennotierte AG 10 Jahre |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Gesellschafterbeschluss zur Klage gefasst? (GmbH) | § 46 Nr. 8 GmbHG | Ohne Beschluss: GF kann einwenden, Klage ohne Befugnis |
 
 ## Sonderhaftungstatbestände im Detail
@@ -171,7 +165,7 @@ Der Klägerin ist ein Schaden in Höhe von EUR [Betrag] entstanden
 Schaden nicht entstanden.
 
 V. Beweislastumkehr
-Gemäß § 43 Abs. 2 GmbHG iVm der Beweislastumkehr (BGH II ZR 224/00) hat
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 der Beklagte seine Pflichterfüllung und fehlendes Verschulden darzulegen.
 
 VI. Verjährung
@@ -235,12 +229,12 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
-| „Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
-| „Schaden nicht kausal durch meine Handlung" | Geschäftsführer | Beweislastumkehr: GF muss mangelnde Kausalität darlegen; BGH II ZR 224/00 |
-| „D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
-| „Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
-| „Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |
+| "Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
+| "Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
+| "Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
+| "Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |
 
 ## Streitwert und Kosten
 

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-firmenrad-leasing-jobrad
-description: "JobRad Dienstrad Leasingmodell steuerliche Behandlung. Anwendungsfall AG-Leasing eines Fahrrads oder E-Bikes Ueberlassung an AN durch Gehaltsumwandlung Sachbezug von einem Viertel Prozent. Methodik Pruefung Konfiguration Leasingvertrag. Output Lohn-Abrechnung mit JobRad."
+description: "JobRad Dienstrad Leasingmodell steuerliche Behandlung. Anwendungsfall AG-Leasing eines Fahrrads oder E-Bikes Überlassung an AN durch Gehaltsumwandlung Sachbezug von einem Viertel Prozent. Methodik Prüfung Konfiguration Leasingvertrag. Output Lohn-Abrechnung mit JobRad."
 ---
 
 # JobRad / Dienstrad — Steuerliche Behandlung

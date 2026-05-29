@@ -1,6 +1,6 @@
 ---
 name: textform-paragraph-126b-bgb-dauerhafter-datentraeger
-description: "Mandant schickte Erklaerung per E-Mail WhatsApp oder SMS und fragt ob Textform eingehalten wurde. § 126b BGB Textform dauerhafter Datentraeger. Pruefraster: lesbare Erklaerung Person des Erklaerenden erkennbar Abschluss der Erklaerung erkennbar (Provisionshinweis unter Grussformel BGH I ZR 202/25). E-Mail WhatsApp SMS PDF im Vergleich. Output: Textform-Pruefung und Empfehlung. Abgrenzung zu schriftform-paragraph-126-bgb-eigenhaendige-unterschrift (strengere Form) und maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25."
+description: "Workflow-Skill zu textform paragraph 126b bgb dauerhafter datentraeger. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Textform § 126b BGB — Dauerhafter Datenträger
@@ -19,7 +19,7 @@ description: "Mandant schickte Erklaerung per E-Mail WhatsApp oder SMS und fragt
 
 ## BGH-Linie
 
-### BGH I ZR 202/25 vom 11. März 2026 — Maklervertrag
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat in der Leitentscheidung zum Maklervertrag § 656a BGB bestätigt:
 
@@ -103,20 +103,17 @@ Begründung: [Vergleichswohnungen / Mietspiegel / Sachverständigengutachten]
 
 ## Fallstricke
 
-- **Textform ist keine Schriftform**: Wer einen Maklervertrag nur per E-Mail schließt, hat Textform gewahrt (§ 656a BGB). Eine Kündigung des Wohnraummitverhältnisses per E-Mail wahrte hingegen nicht die Schriftform des § 568 Abs. 1 BGB — selbst wenn qES angehängt ist, muss die Signatur zugehen und prüfbar sein (BGH VIII ZR 159/23).
-- **Bereicherungssperre bei Textformverstoß** (Makler): BGH I ZR 202/25 hat klargestellt, dass bei Verstoß gegen § 656a BGB (Textform Maklervertrag) kein Bereicherungsanspruch des Maklers auf die Provision besteht — Schutzzweck der Norm steht dem entgegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **WhatsApp-Sicherung**: WhatsApp-Nachrichten können als dauerhafter Datenträger dienen — aber: nach Verlust des Geräts oder Löschen der App sind Nachrichten ggf. nicht mehr reproduzierbar. Für Beweissicherung Screenshot anfertigen und in Akte nehmen.
-- **Getrennter Datenträger**: Bei Textform im Maklervertrag können Angebot und Annahme auf verschiedenen Datenträgern (verschiedene E-Mails) stehen — Einheitsurkunde nicht erforderlich (BGH I ZR 202/25, anders als bei § 126 Abs. 2 BGB).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Querverweise
 
-- → `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` (Volldetail BGH I ZR 202/25)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` (Abgrenzung)
 - → `formerfordernisse-im-bgb-ueberblick`
 - → `dokumentations-und-beweisarchitektur` (Sicherung WhatsApp/E-Mail)
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH VIII ZR 215/19 (Abschnitt "BGH-Linie") war NOT_FOUND — Aktenzeichen existiert nicht als Entscheidung zur Textform Mieterhöhung.
-Maßnahme: Abschnitt "BGH VIII ZR 215/19 — Textform Mieterhöhung" vollständig gelöscht. Die Aussage (E-Mail erfüllt Textform § 558a Abs. 1 BGB) ist inhaltlich richtig, aber dem Fake-AZ nicht zuzuordnen.
-BGH I ZR 202/25 (11.03.2026, Maklervertrag) bleibt erhalten — Entscheidung ist real und bestätigt.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

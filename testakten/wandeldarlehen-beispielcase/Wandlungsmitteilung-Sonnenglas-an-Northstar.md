@@ -29,7 +29,7 @@ zu Händen Henrik Brendelmann
 
 Betreff
 
-Wandlungsmitteilung gemäß § 4.3 des Wandeldarlehensvertrages vom 22. Mai 2026 — Eintritt eines Wandlungsereignisses „Qualified Financing" (Seed-Runde 2027)
+Wandlungsmitteilung gemäß § 4.3 des Wandeldarlehensvertrages vom 22. Mai 2026 — Eintritt eines Wandlungsereignisses "Qualified Financing" (Seed-Runde 2027)
 
 
 Sehr geehrter Herr Brendelmann,

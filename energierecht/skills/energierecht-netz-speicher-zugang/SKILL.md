@@ -1,6 +1,6 @@
 ---
 name: energierecht-netz-speicher-zugang
-description: "Netzanschluss und Netzzugang fuer Erzeugungsanlagen und Speicher pruefen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Pruefraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetspruefung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht."
+description: "Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher prüfen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Prüfraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetsprüfung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht."
 ---
 
 # Netz- und Speicher-Zugang
@@ -117,7 +117,7 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 
 ### Verfassungsrechtliche Probleme
 
-- BGH EnVR 7/14: § 19 Abs. 2 Satz 2 ohne ausreichende parlamentarische Grundlage (a.F.) — Neufassung 2023
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BNetzA-Festlegung BK4-21-049 zu Anwendungs-Modalitäten
 
 ### Streit-Konstellation
@@ -215,20 +215,15 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Beschl. v. 29.04.2014 — EnVR 7/14, RdE 2014, 283 — § 19 Abs. 2 Satz 2 StromNEV a.F. mangels hinreichender Ermaechtigungsgrundlage nichtig; bis zur Neuregelung keine Grundlage fuer Bandlast-Privileg; rueckwirkende Geltendmachung abgelehnt
-- OLG Duesseldorf, Beschl. v. 11.04.2018 — VI-3 Kart 1241/17, ZNER 2018, 206 — diskriminierungsfreier Netzzugang nach § 20 EnWG; Netzbetreiber darf Netzanschluss nicht aus wirtschaftlichen Eigeninteressen verzögern; Frist 8 Wochen bindend
-- BGH, Urt. v. 18.04.2023 — KZR 20/21, NJW 2023, 1890 — Redispatch-Entschaedigung nach § 13a EnWG ist vertraglich nicht abdingbar; Pauschalierung nur zulassig soweit sie tatsaechlich entstehende Mehrkosten abdeckt
-- EuGH, Urt. v. 29.09.2016 — C-492/14 (Essent Belgium), NVwZ 2016, 1542 — Netzentgelt-Befreiung fuer erneuerbare Energien beihilferechtlich pruefbar; nationale Befreiungsregelungen muessen mit Art. 107 AEUV vereinbar sein
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 § 17 EnWG (Netzanschluss-Pflicht) — § 8 EEG (Anschluss EE-Anlagen vorrangig) — § 13 EnWG (Engpass-Management) — § 13a EnWG (Redispatch-Entschaedigung) — § 19 StromNEV (Sondernetzentgelte) — § 118 EnWG (Speicher-Privileg) — §§ 31, 75 EnWG (BNetzA-Beschwerde, OLG-Beschwerde)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 13, 13a Rn. 1 ff. (Redispatch, Engpass-Management) und § 17 Rn. 1 ff. (Netzanschluss)
-- Bourwieg/Hellermann, StromNEV, 2. Aufl. 2021, § 19 Rn. 1 ff. (Sondernetzentgelte Industrie)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung` — Erzeugungs-Anlagen
@@ -248,6 +243,6 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 - BNetzA-Beschlüsse BK4 / BK6 / BK8 / BK9
 - BGH EnVR-Linien
 - OLG Düsseldorf VI-3 Kart-Verfahren
-- EuGH C-718/18, C-718/19
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EU REMIT 1227/2011
 - EU-Strommarktordnung 2019/943 + Reform 2024

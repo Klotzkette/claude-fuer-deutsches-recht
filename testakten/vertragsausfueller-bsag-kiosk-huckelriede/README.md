@@ -1,5 +1,14 @@
 # Testakte Vertragsausfueller - BSAG Kiosk Huckelriede
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-vertragsausfueller-bsag-kiosk-huckelriede` (diese Akte) | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 ## Sachverhalt
 
 Die Bremer Straßenbahn AG (BSAG) vermietet ein Kioskobjekt im Haltestellenbereich Huckelriede an die Scherflein GmbH, die dort einen Imbiss-Kiosk mit Zeitungsverkauf, Heissgetraenkeausschank und Lottoannahmestelle betreiben moechte. Es liegen zwei Word-Dokumente vor: eine generische BSAG-Mietvertragsvorlage mit Platzhaltern (zum Beispiel `<<MIETER>>`, `<<KALTMIETE>>`) und ein konkretes Term Sheet mit den vereinbarten Eckdaten zum Fall.

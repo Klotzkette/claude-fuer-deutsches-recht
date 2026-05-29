@@ -18,7 +18,7 @@ In dem Zwangsverwaltungsverfahren
 
 Alpenländische Hypotheken- und Handelsbank AG ./. Kronprinz Friedrich Immobilien GmbH & Co. KG
 Az. AG Mitte von Berlin 36 L 412/24
-Objekt: Büro- und Geschäftshaus „Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin
+Objekt: Büro- und Geschäftshaus "Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin
 
 ---
 
@@ -39,7 +39,7 @@ Objekt: Büro- und Geschäftshaus „Friedrichshöfe", Friedrichstraße 143–14
 | Mieteinnahmen netto kalt (5 Monate) | 1.572.108,00 |
 | Nebenkosten-Vorauszahlungen | 287.560,00 |
 | Sondernutzungen Tiefgarage | 25.600,00 |
-| Konferenzraum „Forum Friedrichshöfe" | 4.860,00 |
+| Konferenzraum "Forum Friedrichshöfe" | 4.860,00 |
 | Werbeflächen / Antenne anteilig | 4.733,33 |
 | **Bruttoeinnahmen** | **1.894.861,33** |
 

@@ -93,13 +93,7 @@ Der erzeugte Skill enthält die Hausregeln fest verdrahtet und führt weiterhin 
 
 ## Leitentscheidungen (Auswahl, siehe `references/rechtsprechung/INDEX.md`)
 
-- BGH, Urt. v. 25.06.2020 – VII ZR 308/19, NJW 2020, 2884 (§ 288 Abs. 5 BGB)
-- BGH, Urt. v. 22.01.2008 – VIII ZR 6/06, NJW 2008, 1888 (RA-Kosten als Verzugsschaden)
-- BGH, Urt. v. 04.10.2007 – III ZR 180/06, NJW 2008, 50 (Mahnung)
-- BGH, Beschl. v. 23.06.2022 – V ZB 12/22 (§ 130a ZPO)
-- BGH, Beschl. v. 31.01.2023 – XI ZB 23/22 (beA-Sorgfalt)
-- BGH, Urt. v. 22.04.2009 – VIII ZR 156/07, NJW 2009, 2197 (§ 29 ZPO)
-- EuGH, Urt. v. 14.09.2023 – C-393/22 (Brüssel Ia VO)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Lizenz
 
@@ -107,4 +101,4 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Quellen-Disclaimer
 
-Alle Aussagen beruhen auf der zitierten BGH-Rechtsprechung und genannter Kommentarliteratur. Die Skills ersetzen keine eigene anwaltliche Prüfung im Einzelfall.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

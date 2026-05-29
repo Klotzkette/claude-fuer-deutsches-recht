@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gv-protokoll-und-versammlungsleiter
-description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchfuehren. Normen: §§ 48 ff. GmbHG. Pruefraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung."
+description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchführen. Normen: §§ 48 ff. GmbHG. Prüfraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung."
 ---
 
 # Protokoll der Gesellschafterversammlung
@@ -27,17 +27,11 @@ Klaere vor Erstellung und Pruefung des Protokolls:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 11.02.2008 – II ZR 187/06, NJW 2008, 1680** — Fehlende Einladung eines Gesellschafters zur GV fuehrt zur Nichtigkeit der gefassten Beschluesse; analoge Anwendung des § 241 Nr. 1 AktG; keine Heilung durch nachtraegliche Genehmigung einzelner Gesellschafter.
-- **BGH, Urt. v. 24.11.2008 – II ZR 116/08, NZG 2009, 183** — Heilung einer fehlerhaften Einberufung durch Vollversammlung (§ 51 III GmbHG) setzt ausdrueckliches Einverstaendnis aller Gesellschafter voraus; Schweigen genuegt nicht.
-- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; pauschale Punkte wie „Personalfragen" genuegen fuer Abberufungsbeschluesse nicht.
-- **BGH, Urt. v. 20.01.1986 – II ZR 73/85, BGHZ 97, 28** — Gesellschafter, der ein Stimmverbot nach § 47 IV GmbHG hat, darf an der Abstimmung nicht teilnehmen; abgegebene Stimme ist nicht zu zaehlen; bei Zweifel entscheidet das Gericht auf Anfechtungsklage.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Seibt, GmbHG, 13. Aufl., § 47 Rn. 1-150 (Abstimmung; Stimmverbote; Protokoll)
-- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 53 Rn. 1-60 (Satzungsaenderung; notarielle Form)
-- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 51 Rn. 1-50 (Beschlussfaehigkeit; Heilung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Protokoll-Rechtmaessigkeit
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
@@ -107,16 +101,16 @@ Schriftfuehrer:     ___________  [NAME]
 
 ## Rote Schwellen
 
-- Fehlende Einladung eines Gesellschafters: NICHTIGKEIT aller Beschluesse (BGH NJW 2008, 1680)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Satzungsaenderung ohne Notar: NICHTIGKEIT (§ 53 GmbHG)
-- Stimmverbot verletzt: Beschluss anfechtbar; ggf. Mehrheit damit unterschritten (BGH BGHZ 97, 28)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Beschlusstext vage: HR beanstandet Eintragung; Nacharbeit und erneute Beurkundung noetig
 
 ## Quellen und Vertiefung
 
 - §§ 47, 47 IV, 51, 53, 60 GmbHG; §§ 241, 246, 249 AktG analog
-- BGH NJW 2008, 1680; BGH NZG 2009, 183; OLG Muenchen GmbHR 2022, 764; BGH BGHZ 97, 28
-- Scholz/Seibt § 47; Lutter/Hommelhoff § 53; Baumbach/Hueck § 51
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 

@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-verkehrswende
-description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Pruefraster: Rechtsgrundlage Verkehrsanordnung, Verhaeltnismaessigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begruendungsbausteine fuer Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
+description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung, Verhältnismäßigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begründungsbausteine für Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
 # Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung
@@ -27,17 +27,11 @@ description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fus
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 05.04.2001 - 3 C 23.00, BVerwGE 114, 160 — Anordnung einer Tempo-30-Zone setzt konkrete Laerm- oder Unfallgefahren voraus; rein fiskalische oder klimapolitische Ziele reichen als alleinige Begruendung nicht aus.
-- OVG Berlin-Brandenburg, Urt. v. 30.11.2022 - OVG 1 A 10.18 — Ausweitung einer Fussgaengerzone: Verhaeltnismaessigkeit erfordert Abwaegung der Erreichbarkeit fuer Anlieger und Gewerbetreibende; vollstaendige Sperrung ohne Ausnahme unverhaltsnismaessig.
-- VGH Bayern, Beschl. v. 15.03.2021 - 11 CS 20.3185, BayVBl 2021, 450 — Lieferzonenmangement: Gemeinde darf Ladezonen zeitlich beschraenken (§ 45 I StVO); Anlieger haben keinen Anspruch auf unbeschraenkte Haltemoglichkeit.
-- OVG NRW, Urt. v. 19.09.2019 - 8 A 2004/18, DVBl 2020, 120 — Radstreifen auf Fahrbahn: verkehrsrechtliche Anordnung nach § 45 I StVO genuegt; kein Planfeststellungsverfahren erforderlich, wenn keine wesentliche Strassenumgestaltung vorliegt.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Hentschel/Koenig/Dauer, Strassenverkehrsrecht, 47. Aufl. 2023, § 45 StVO Rn. 1-120 (Anordnungsbefugnis, Ermessen)
-- Janker, Strassenverkehrsrecht, 25. Aufl. 2022, VwV-StVO zu § 45 (Tempo-30, Fussgaengerzonen)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 8 Rn. 1-30 (Ermessen und Verhaeltnismaessigkeit)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Massnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
@@ -65,7 +59,7 @@ Anordnung per Verkehrszeichen (§ 45 StVO)?
         |
 Begruendung ausreichend?
   Laerm/Unfall nachgewiesen ──→ Anordnung tragfaehig
-  Nur politisches Ziel ──→ erweitertes Gutachten erforderlich (BVerwG 3 C 23.00)
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
         |
 Ausnahmen noetig?
   Lieferverkehr ──→ zeitliche Freigabe + Zeichen 1026-37

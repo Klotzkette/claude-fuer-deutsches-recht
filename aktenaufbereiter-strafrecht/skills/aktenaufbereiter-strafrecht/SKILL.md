@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-strafrecht
-description: "Strafverteidiger erhaelt Strafakte nach § 147 StPO Akteneinsicht und will diese strukturiert aufbereiten. Wirtschaftsstrafverfahren BtM-Verfahren Vermoegensdelikte komplexe Strafverfahren. Sechs Uebersichten: Aktenvorblatt Personenverzeichnis Tatkomplex-Vorwurfsverzeichnis Beziehungsverzeichnis Chronologie Fristen-Terminverzeichnis. Normen § 147 StPO §§ 112 116 StPO Untersuchungshaft §§ 203 207 StPO Eroeffnungsbeschluss. Pruefraster Band-Blatt-Fundstellen Excel-faehige Tabellen Widersprueche zwischen Vernehmungen Neuzugang-Markierung OCR-Pflicht. Output strukturierte Akten-Uebersichten alle Tabellen. Keine rechtliche Bewertung nur Aufbereitung."
+description: "Strafverteidiger erhaelt Strafakte nach § 147 StPO Akteneinsicht und will diese strukturiert aufbereiten. Wirtschaftsstrafverfahren BtM-Verfahren Vermögensdelikte komplexe Strafverfahren. Sechs Übersichten: Aktenvorblatt Personenverzeichnis Tatkomplex-Vorwurfsverzeichnis Beziehungsverzeichnis Chronologie Fristen-Terminverzeichnis. Normen § 147 StPO §§ 112 116 StPO Untersuchungshaft §§ 203 207 StPO Eroeffnungsbeschluss. Prüfraster Band-Blatt-Fundstellen Excel-fähige Tabellen Widersprueche zwischen Vernehmungen Neuzugang-Markierung OCR-Pflicht. Output strukturierte Akten-Übersichten alle Tabellen. Keine rechtliche Bewertung nur Aufbereitung."
 ---
 
 # Aktenaufbereiter Strafrecht
@@ -223,10 +223,7 @@ Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturie
 
 ## Rechtsprechung zur Aktenaufbereitung und Verwertungsverboten
 
-- BVerfGE 103, 142 (Beschl. v. 20.02.2001 - 2 BvR 1444/00) — Beweisverwertungsverbot bei formwidrigen Hausdurchsuchungen: Erkennt der Verteidiger in der Aktenauswertung, dass der Durchsuchungsbeschluss fehlt oder unzureichend begruendet wurde, entsteht ein Verwertungsverbot; die Dokumentation in der Aktenuebersicht schafft die Grundlage fuer spaetere Prozessruegen.
-- BGH, Urt. v. 26.11.1998 - 4 StR 493/98, BGHSt 44, 308 — fehlende Belehrung nach § 136 StPO macht Vernehmungsprotokoll grundsaetzlich unverwertbar; bei der Aktenauswertung: Belehrungsprotokoll immer auf korrekte Formel und Unterschrift pruefen und dokumentieren.
-- BGH, Urt. v. 18.04.2007 - 5 StR 546/06, BGHSt 51, 285 — TKU-Zufallsfunde (§ 108 StPO): Erkenntnisse aus TKU duerfen nur in anderen Verfahren nach Massgabe von § 100e Abs. 6 StPO verwertet werden; Aktenaufbereitung muss TKU-Beschluesse erfassen und Verwendungsbeschrankungen dokumentieren.
-- BGH, Urt. v. 30.07.1999 - 1 StR 618/98, BGHSt 45, 221 — Widersprueche zwischen Vernehmungen sind prozessual relevant; systematischer Aussagenvergleich in der Aktenauswertung deckt Inkonsistenzen auf, die als Beweisantragsstoff oder Plaeadoyer-Argument genutzt werden koennen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Aktenaufbereitung
 
@@ -237,8 +234,6 @@ Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturie
 - § 100a-100e StPO — TKU: Anordnungsvoraussetzungen, Katalogstraftaten, Verwendungsbeschrankung
 - § 108 StPO — Zufallsfunde; eingeschraenkte Verwertung
 
-## Kommentarliteratur
+## Quellenregel
 
-- Eisenberg, Beweisrecht der StPO, 11. Aufl. 2022 (Standardwerk zu Verwertungsverboten)
-- Meyer-Gossner/Schmitt, StPO, 67. Aufl. 2024, § 147 Rn. 1-50 (Akteneinsicht) und § 136a Rn. 1-40
-- Schaefer/Sander/van Gemmeren, Praxis der Strafzumessung, 6. Aufl. 2017 (Kontextliteratur)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

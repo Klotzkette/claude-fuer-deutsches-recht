@@ -1,6 +1,6 @@
 ---
 name: generalklauseln-pruefen
-description: "Prueft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, oeffentliches Interesse und Verhaeltnismaessigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automatisierter Pruefung."
+description: "Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, öffentliches Interesse und Verhältnismäßigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automatisierter Prüfung."
 ---
 
 # Generalklauseln prüfen
@@ -27,9 +27,7 @@ Generalklauseln entziehen sich per definitionem der rein mechanischen Subsumtion
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 22.01.2020 - VIII ZR 191/18, NJW 2020, 1506 — Ein auffälliges Missverhältnis von Leistung und Gegenleistung indiziert Sittenwidrigkeit nach § 138 BGB ab einem Verhältnis von ca. 100 Prozent Überschreitung des Marktwertes; bei Hinzutreten subjektiver Umstände (Ausbeutung) genügt ein geringeres Missverhältnis.
-- BVerfG, Beschl. v. 11.06.2019 - 1 BvR 587/17, NJW 2019, 2392 — Das Übermaßverbot als Ausdruck der Verhältnismäßigkeit gilt als verfassungsrechtlicher Prüfungsmaßstab auch für privatrechtliche Normen, soweit Grundrechte mittelbar berührt sind.
-- BGH, Urt. v. 26.09.2018 - VIII ZR 187/17, NJW 2019, 139 — Die Ausübung eines Leistungsbestimmungsrechts (§ 315 BGB) ist am Maßstab billigen Ermessens zu messen; das Gericht bestimmt im Fall der Unbilligkeit die Leistung selbst (§ 315 Abs. 3 BGB), nicht die Partei.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Wichtige Generalklauseln
 
@@ -58,7 +56,7 @@ Zeitmoment: Ungewöhnlich lange Nichtausübung?
 
 **Fallgruppen:**
 - Wucherische Rechtsgeschäfte (§ 138 Abs. 2 BGB): Ausbeutung einer Zwangslage, Leichtsinn oder Unerfahrenheit
-- Auffälliges Missverhältnis von Leistung und Gegenleistung (BGH: mehr als 100 Prozent Äquivalenzstörung indiziert Sittenwidrigkeit; BGH NJW 2020, 1506)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bürgschaftsverträge von einkommensschwachen Angehörigen (BGH ständige Rechtsprechung)
 - Knebelungsverträge, Schmiergeldabreden
 
@@ -75,26 +73,22 @@ Im öffentlichen Recht: Geeignetheit, Erforderlichkeit, Angemessenheit (Überma�
 
 Bei einseitiger Leistungsbestimmung: Das System prüft, ob die Bestimmung sich im Rahmen des Üblichen und Sachgerechten hält. Indizien: Marktvergleich, frühere Vertragspraxis, Begründung der Bestimmung.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo BGB/Schubert § 242 Rn. 1 ff. (Treu und Glauben, Fallgruppen) — umfassend
-- Staudinger/Looschelders § 138 BGB (Sittenwidrigkeit) — historisch und dogmatisch
-- Maurer/Waldhoff Allg. Verwaltungsrecht § 8 (Verhältnismäßigkeit)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Das System gibt:
 - Name der Generalklausel
 - Einschlägige Fallgruppe (soweit erkennbar)
 - Indizien pro und contra
-- Ausdrücklichen Hinweis: „Das Ergebnis dieser Prüfung ist eine Indiziensammlung, keine rechtliche Bewertung."
+- Ausdrücklichen Hinweis: "Das Ergebnis dieser Prüfung ist eine Indiziensammlung, keine rechtliche Bewertung."
 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026 bundle_044
-- BGH VIII ZR 279/19 (NOT_FOUND: Entscheidung nicht auf dejure.org nachweisbar, AZ existiert nicht)
   → Vollzitat-Zeile und Fundstellen-Verweis NJW 2021, 1952 gelöscht
   → kein Ersatz eingetragen (keine verifizierte Alternative gefunden)
 -->

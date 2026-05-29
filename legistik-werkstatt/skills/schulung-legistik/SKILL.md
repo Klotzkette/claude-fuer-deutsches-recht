@@ -1,6 +1,6 @@
 ---
 name: schulung-legistik
-description: "Trainerleitfaden fuer Legistik-Schulung mit der Schulungsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begruendung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Musterloesung. Output Trainerleitfaden Aufgabenhefte Musterloesungen je Station. Kompatibel mit Testakte legistik-pflichtpostfach."
+description: "Trainerleitfaden für Legistik-Schulung mit der Schulungsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begründung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Musterlösung. Output Trainerleitfaden Aufgabenhefte Musterlösungen je Station. Kompatibel mit Testakte legistik-pflichtpostfach."
 ---
 
 # Trainerleitfaden Schulung Legistik
@@ -106,15 +106,12 @@ Siehe Testakte `legistik-pflichtpostfach`.
 - Smartphone für Online-Recherche in BGBl und Bundesanzeiger
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BVerfG, Urt. v. 05.11.2014 — 1 BvF 3/11, BVerfGE 137, 250 Rn. 60 — Legistik-Qualitaet als demokratische Pflicht; schlechte Gesetzgebungsqualitaet kann Wesentlichkeitstheorie und Normenklarheits-Gebot verletzen; regelmässige Schulungen als praeventieves Mittel anerkannt
-- BVerwG, Urt. v. 10.11.2016 — 2 C 11.15, NVwZ 2017, 718 — Fehlerhafte Anwendung von Legistik-Regeln ist kein eigenstaendiger Aufhebungsgrund; fuehrt aber regelmaessig zu Auslegungs- und Anwendungsproblemen; Schulungspflicht fuer Referenten in GGO verankert
-- EuGH, Urt. v. 14.03.2019 — C-695/17 (Kommission/Griechenland), NJW 2019, 1432 — EU-Mitgliedstaaten haften fuer qualitative Maengel in RL-Umsetzungsgesetzen; Schulung und Know-how im Legistik-Bereich als Sorgfaltspflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 38-42 GGO (Legistik-Grundregeln, Schulungs-Pflicht fuer Referenten) — §§ 1-5 HdR (Handbuch der Rechtsfoermlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualitaet) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 1-3 Rn. 1 ff. (Grundlagen Legistik-Ausbildung)
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 1 Rn. 1 ff. (Rechtsstaat und Gesetzgebungsqualitaet)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

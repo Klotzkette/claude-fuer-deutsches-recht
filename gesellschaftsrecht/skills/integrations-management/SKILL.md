@@ -1,6 +1,7 @@
 ---
 name: integrations-management
-description: "Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei „Post-Merger-Integration\", „Post-Closing\", „Betriebsübergang\", „Vertragsübertragung\" oder „was ist noch offen\"."
+description: 'Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei "Post-Merger-Integration", "Post-Closing", "Betriebsübergang", "Vertragsübertragung" oder "was ist noch offen".'
+
 ---
 
 # Post-Merger-Integrations-Management
@@ -22,17 +23,11 @@ Vor dem Start des Integrations-Trackings klären:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 — CoC-Klauseln können auch bei mittelbarem Kontrollwechsel ausgelöst werden; maßgeblich ist die vertragliche Formulierung, nicht nur der gesellschaftsrechtliche Kontrollbegriff.
-- BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 Rn. 20 — Widerspruchsfrist § 613a Abs. 6 BGB beträgt 1 Monat ab vollständiger und ordnungsgemäßer Information; fehlerhafte oder unvollständige Information verlängert die Frist unbegrenzt.
-- BAG, Urt. v. 20.03.2008 – 8 AZR 1022/06, NZA 2008, 917 — Informationspflicht nach § 613a Abs. 5 BGB muss alle wesentlichen Aspekte des Betriebsübergangs umfassen; pauschale oder unvollständige Unterrichtung ist unwirksam.
-- BGH, Urt. v. 21.01.2010 – I ZR 172/08, NJW 2010, 2506 Rn. 20 — Vertragsübernahme im Kontext des Betriebsübergangs; drei-Parteien-Einvernehmen bei privatrechtlicher Schuldübernahme.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Roth, in: MüKoBGB, 9. Aufl. 2022, § 613a Rn. 5 ff. (Betriebsübergang; Informationspflicht; Widerspruchsfrist).
-- Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1 ff. (Haftung bei Firmenfortführung nach Betriebsübernahme).
-- ErfK/Preis, Arbeitsrechts-Kommentar, 24. Aufl. 2024, § 613a BGB Rn. 30 ff. (Unterrichtungspflicht; Widerspruchsrecht).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill ist die Programmmanagement-Ebene für die rechtliche Post-Closing-Integration — nicht operative Geschäftsintegration oder IT-Systeme. Der rechtliche Workstream: Drittpartei-Zustimmungen, Vertragsübertragungen, Gesellschaftsbereinigung, IP-Umschreibungen, SPA-Pflichten, Betriebsübergang nach § 613a BGB, betriebliche Mitbestimmung nach BetrVG.
@@ -46,13 +41,13 @@ Dieser Skill ist die Programmmanagement-Ebene für die rechtliche Post-Closing-I
 
 ## Rechtlicher Rahmen
 
-**Betriebsübergang:** § 613a BGB (Übergang kraft Gesetzes; Widerspruchsrecht Abs. 6; Informationspflicht Abs. 5 — Frist: rechtzeitig vor Übergang). BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 Rn. 20 (Widerspruchsfrist § 613a Abs. 6 BGB); BGH, Urt. v. 21.01.2010 – I ZR 172/08, NJW 2010, 2506 Rn. 20 (Vertragsübernahme im Betriebsübergang).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Betriebliche Mitbestimmung:** §§ 111 ff. BetrVG (Interessenausgleich und Sozialplan bei Betriebsänderung); § 17 KSchG (Massenentlassung, Anzeigepflicht). BAG, Urt. v. 22.01.2004 – 2 AZR 111/02, NZA 2004, 593 Rn. 30 (Betriebsrat-Anhörung § 102 BetrVG im Integrationskontext).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Change of Control / Vertragskontinuität:** BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (CoC-Klausel, Auslegung; mittelbarer Kontrollwechsel); §§ 414 f. BGB (Schuldübernahme); § 25 HGB (Haftung bei Firmenfortführung).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Gesellschaftsrechtliche Post-Closing-Pflichten:** § 40 GmbHG (Gesellschafterliste aktualisieren); §§ 17 ff. UmwG (Verschmelzung); §§ 65 ff. GmbHG (Liquidation). Roth, in: MüKoBGB, 9. Aufl. 2022, § 414 Rn. 5; Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Ablauf
 
@@ -175,7 +170,7 @@ Begründung: [KURZBESCHREIBUNG]
 
 ## Rote Schwellen
 
-- **§ 613a Abs. 5 BGB-Frist überschritten** → Widerspruchsfrist läuft unbegrenzt weiter (BAG, NZA 2009, 842); sofort nachbessern.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Tier-3-CoC-Klausel ausgelöst, aber kein Kontakt** → Recht kann mit Closing-Datum zu laufen begonnen haben; Gegenseite sofort anschreiben.
 - **SPA-Pflicht-Zustimmungen: Frist < 14 Tage, < 100 %** → Transaktionsleiter eskalieren; MAC-Klausel prüfen.
 - **Gesellschafterliste § 40 GmbHG > 3 Wochen nach Closing nicht beim Notar** → Haftungsrisiko; sofort beauftragen.
@@ -195,8 +190,7 @@ GmbH-Anteilskauf, Closing 01.03.2025, 15 Pflicht-Zustimmungen aus SPA-Anhang, 3 
 
 - `§ 613a Abs. 5 BGB` (Information), `§ 613a Abs. 6 BGB` (Widerspruchsfrist)
 - `§§ 17 ff. UmwG` (Verschmelzung), `§§ 65 ff. GmbHG` (Liquidation), `§ 40 GmbHG` (Gesellschafterliste)
-- BGH: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
-- BAG: `BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 Rn. 20`
-- Kommentare: `Roth, in: MüKoBGB, 9. Aufl. 2022, § 414 Rn. 5`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

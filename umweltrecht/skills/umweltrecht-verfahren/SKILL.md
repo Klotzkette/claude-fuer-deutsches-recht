@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-verfahren
-description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Pruefraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zustaendigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bussgeld-sanktionen (Ordnungsrecht)."
+description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht)."
 ---
 
 # Umweltrechtliche Verwaltungs- und Gerichtsverfahren
@@ -32,17 +32,11 @@ description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren An
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 28.04.2022 — 7 A 2.21, BVerwGE 175, 227 — Planfeststellung Windenergie; UmwRG § 4 Abs. 1a; Verfahrensfehler (fehlende UVP) fuehrt zu Aufhebung ohne Kausalitaetspruefung.
-- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — Heilung von UVP-Verfahrensfehlern; NaVeRe nur bei vollstaendiger Nachholung unter gleichen Bedingungen; Nachbesserung nach Klage unzulaessig.
-- EuGH, Urt. v. 15.10.2015 — C-137/14 (Kommission/Deutschland), NVwZ 2015, 1665 — § 44a VwGO, § 5 UmwRG Praeklusion unvereinbar mit EU-Umweltrecht; Buerger muessen gerichtlichen Zugang behalten.
-- BVerwG, Urt. v. 26.09.2019 — 7 C 5.18, DVBl 2020, 176 — § 2 UmwRG Verbandsklage; Anerkennungsvoraussetzungen; UmwRG-Verein muss im Bereich der betroffenen Umweltgueeter taetig sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kopp/Schenke VwGO §§ 42, 80, 113, 123 (Prozessrecht systematisch)
-- Schoch/Schneider/Bier VwGO §§ 42, 43, 47 (Klagearten)
-- Jarass/Kloepfer UmwRG §§ 1, 2, 4, 5 (Kommentar Umweltrechtsbehelfsgesetz)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 
@@ -51,7 +45,7 @@ description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren An
 ### A) Anfechtungsklage (Dritter gegen Genehmigung)
 
 1. **Klagebefugnis pruefen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
-2. **Praeklusionsrisiko**: Im Genehmigungsverfahren Einwendungen erhoben? Sonst § 5 UmwRG Praeklusion pruefbar (aber EuGH C-137/14 schwaecht).
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Klagefrist**: § 74 Abs. 1 VwGO — 1 Monat ab Bekanntgabe; bei Auslegung § 10 BImSchG: 2 Wochen nach Auslegungsende (§ 10 Abs. 8 BImSchG beachten).
 4. **Eilantrag § 80a**: Sofort wenn Genehmigung vollziehbar und Bauarbeitten drohen.
 5. **Klageschrift**: Klageantrag, Sachverhalt, rechtliche Begruendung mit Leitsaetzen.
@@ -161,7 +155,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Beschwerde OVG § 146 | 2 Wochen / Begruendung 1 Monat | § 146 VwGO |
 | Normenkontrolle OVG | 1 Jahr ab Bekanntmachung | § 47 Abs. 2 VwGO |
 
-## Vertiefung: UmwRG nach EuGH C-137/14
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - EuGH hat deutsche Praeklusion § 5 UmwRG fuer unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
 - Praxis: Gericht prueft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance fuer Klaeger.

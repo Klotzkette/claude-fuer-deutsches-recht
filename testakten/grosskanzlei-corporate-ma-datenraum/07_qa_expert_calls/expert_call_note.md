@@ -21,7 +21,7 @@ Die Management Presentation fand am 4. Dezember 2024 von 10:00 bis 13:00 Uhr sta
 
 ### 2.1 Friedrich Grünwald (CEO) — Strategische Einordnung
 
-- Grünwald erläuterte, dass die Entscheidung zum Verkauf der Sparte PDS von der Familie nach einem mehrjährigen Strategieprozess getroffen wurde; Hintergrund sei die strategische Fokussierung der Holding auf das Kerngeschäft „Solarmodule" (nicht Teil dieser Transaktion).
+- Grünwald erläuterte, dass die Entscheidung zum Verkauf der Sparte PDS von der Familie nach einem mehrjährigen Strategieprozess getroffen wurde; Hintergrund sei die strategische Fokussierung der Holding auf das Kerngeschäft "Solarmodule" (nicht Teil dieser Transaktion).
 - Grünwald betonte die Kontinuität des Managementteams post-Closing. Er selbst werde nicht im Unternehmen verbleiben; COO Michael Krause habe Bereitschaft signalisiert, unter dem neuen Eigentümer weiter tätig zu sein.
 - Auf die Frage nach Interesse Dritter (andere Bieter) antwortete Grünwald ausweichend; Meridian unterbrach und verwies auf die Prozessregeln.
 
@@ -30,7 +30,7 @@ Die Management Presentation fand am 4. Dezember 2024 von 10:00 bis 13:00 Uhr sta
 - **Umsatz 2024 YTD (Jan–Sep):** EUR 158,3 Mio. (+4,2 % ggü. Vorjahr)
 - **Bereinigtes EBITDA 2024 YTD:** EUR 28,7 Mio. (Marge 18,1 %)
 - **Bereinigungs-Items:** EUR 2,1 Mio. Restrukturierungskosten (Standort Gera, Q2 2024) sowie EUR 0,8 Mio. Beratungskosten M&A-Prozess.
-- Auf Nachfrage zu den Verlustvorträgen: Bergmann bestätigte Verlustvorträge von ca. EUR 12 Mio., räumte aber ein, dass deren steuerliche Nutzbarkeit im Licht des geplanten Anteilserwerbs „noch offen" sei. Dr. Roth notiert: **bestätigt RF-005**.
+- Auf Nachfrage zu den Verlustvorträgen: Bergmann bestätigte Verlustvorträge von ca. EUR 12 Mio., räumte aber ein, dass deren steuerliche Nutzbarkeit im Licht des geplanten Anteilserwerbs "noch offen" sei. Dr. Roth notiert: **bestätigt RF-005**.
 - Investitionsprogramm US-Tochter: USD 8 Mio. Ohio-Investition wurde im September 2024 eingeleitet; Finanzierung über konzerninterne Darlehen der Holding (kein Fremdkapital). Bergmann bestätigt, dass das Darlehen im Rahmen des Carve-out durch ECP übernommen oder getilgt werden muss (Debt-like-Item).
 
 ### 2.3 Dr. Anna Seifert (AR-Vorsitz) — Governance
@@ -48,7 +48,7 @@ Die Management Presentation fand am 4. Dezember 2024 von 10:00 bis 13:00 Uhr sta
 ### 3.1 Lieferkette und Dual Sourcing
 
 - Krause bestätigte, dass die Abhängigkeit von Halbleiter-Lieferant aus Taiwan (ca. 68 % der Chip-Bedarfe aus einer einzigen Quelle) ein bekanntes Risiko sei.
-- Dual-Sourcing-Verhandlungen mit einem europäischen Alternativlieferanten seien „weit fortgeschritten" (Phase der technischen Qualifizierung). Krause erwartet Abschluss im Q1 2025. Vertragsabschluss noch nicht erfolgt.
+- Dual-Sourcing-Verhandlungen mit einem europäischen Alternativlieferanten seien "weit fortgeschritten" (Phase der technischen Qualifizierung). Krause erwartet Abschluss im Q1 2025. Vertragsabschluss noch nicht erfolgt.
 - **Bewertung:** Aussage ist nicht durch Datenraum verifizierbar; Q-001 im qa_register: Bitte um Nachweis des Qualifizierungsprotokolls.
 
 ### 3.2 Kunde A — Beziehungshistorie

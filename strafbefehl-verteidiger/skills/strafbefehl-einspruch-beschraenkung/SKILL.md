@@ -25,18 +25,11 @@ description: "Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. 
 
 ## Aktuelle Rechtsprechung
 
-- OLG Koeln, Beschl. v. 23.03.2020 - 2 RVs 31/20, NStZ-RR 2020, 246 — Beschraenkung des Einspruchs auf Rechtsfolgen nach § 410 Abs. 2 StPO bindet das Gericht; Schuldspruch wird rechtskraeftig und ist in der Hauptverhandlung nicht mehr angreifbar.
-- BGH, Beschl. v. 17.09.2020 - 4 StR 134/20, NStZ 2021, 108 — Tagessatzhoehe richtet sich nach dem tatsaechlichen Nettoeinkommen zur Tatzeit; § 40 Abs. 2 Satz 3 StGB erlaubt Schaetzung wenn Einkommen nicht festgestellt werden kann.
-- BGH, Urt. v. 24.01.2019 - 1 StR 481/18, NJW 2019, 1894 — Fahrverbot als Nebenstrafe nach § 44 StGB bei einer Tat, die im Zusammenhang mit dem Fuehren eines Kraftfahrzeugs steht, ist keine obligatorische Massnahme; Verhältnismaessigkeit pruefen.
-- OLG Duesseldorf, Beschl. v. 11.02.2019 - IV-2 RVs 9/19, NZV 2019, 368 — Beschraenkter Einspruch auf Tagessatzhoehe zulaessig; Gericht pruefte nur die Einkommenssituation neu und setzte Tagessatz herab.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 410 Rn. 10-20 (beschraenkter Einspruch)
-- Fischer StGB § 40 Rn. 1-30 (Tagessatzsystem, Berechnungsmethode)
-- Fischer StGB § 44 Rn. 1-20 (Fahrverbot als Nebenstrafe)
-- MueKo StGB / Radtke § 40 Rn. 1-25 (Nettoeinkommensberechnung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum: Beschraenkt oder unbeschraenkt?
 
 ```

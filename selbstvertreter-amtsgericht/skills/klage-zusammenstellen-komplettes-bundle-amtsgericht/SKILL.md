@@ -1,6 +1,6 @@
 ---
 name: klage-zusammenstellen-komplettes-bundle-amtsgericht
-description: "Klage und Anlagen als komplettes Paket fuer das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch fuer Klageerwiderung und Replik mit B-Anlagen."
+description: "Klage und Anlagen als komplettes Paket für das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch für Klageerwiderung und Replik mit B-Anlagen."
 ---
 
 # Klage komplett zusammenstellen — Schritt fuer Schritt

@@ -1,6 +1,6 @@
 ---
 name: vaf-clean-output
-description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Pruefraster alle Platzhalter aufgelöst, Anlagenverzeichnis vollstaendig, Format-Konsistenz geprueft, Track Changes entfernt. Output Clean-Entwurf mit Ausfüllprotokoll, Annahmenregister und offener-Punkte-Liste. Abgrenzung zu Quality-Gate fuer Vorabpruefung und zu Track-Changes-Skill."
+description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Prüfraster alle Platzhalter aufgelöst, Anlagenverzeichnis vollständig, Format-Konsistenz geprüft, Track Changes entfernt. Output Clean-Entwurf mit Ausfüllprotokoll, Annahmenregister und offener-Punkte-Liste. Abgrenzung zu Quality-Gate für Vorabprüfung und zu Track-Changes-Skill."
 ---
 
 # Clean-Output
@@ -15,9 +15,7 @@ description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: 
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.03.2005 - II ZR 194/03, NJW 2005, 2061 — Vertragstext muss aus sich heraus vollstreckbar und verständlich sein; Verweise auf externe Dokumente ohne Übergabe sind unwirksam (§ 305c BGB).
-- BGH, Urt. v. 27.04.2016 - VIII ZR 61/15, NJW 2016, 1881 — AGB-Klauseln in Muster verträgen sind nach ihrem objektivierten Verständnis auszulegen; Unklarheiten gehen zu Lasten des Verwenders (§ 305c Abs. 2 BGB).
-- BGH, Urt. v. 25.03.2015 - VIII ZR 243/13, NJW 2015, 1510 — Salvatorische Klausel kann Teilnichtigkeit nicht heilen, wenn die unwirksame Klausel wesentlicher Bestandteil ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -26,11 +24,9 @@ description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: 
 - § 126 BGB — Schriftform (wo erforderlich)
 - § 127 BGB — gewillkürte Schriftform
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 1-30 (Einbeziehung)
-- MüKo-BGB/Basedow, 9. Aufl. 2022, § 305c Rn. 1-20 (Unklarheitenregel)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill liefert den ersten belastbaren Vertragsentwurf. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

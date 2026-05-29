@@ -1,6 +1,6 @@
 ---
 name: cisg-pruefen
-description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen pruefen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmaessigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Pruefraster: sachlicher/persoenlicher/raeumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Pruefschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang."
+description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang."
 ---
 
 # CISG-Prüfung
@@ -17,10 +17,7 @@ Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 08.03.1995 - VIII ZR 159/94, NJW 1995, 2101 — Bloße Rechtswahl "deutsches Recht" schließt CISG nicht aus, weil CISG Teil des deutschen Rechts ist; ausdrücklicher Ausschluss erforderlich.
-- BGH, Urt. v. 03.04.1996 - VIII ZR 51/95, NJW 1996, 2364 — Rügeobliegenheit Art. 39 CISG: Käufer muss Vertragswidrigkeit innerhalb angemessener Frist rügen; kurze Frist von ca. zwei Wochen nach Entdeckung.
-- OLG Hamburg, Urt. v. 25.01.2008 - 12 U 39/00, NJW-RR 2008, 845 — Wesentliche Vertragsverletzung Art. 25 CISG erfordert erhebliche Beeinträchtigung des Vertragszwecks; Aufhebungsrecht Art. 49 CISG ist eng auszulegen.
-- EuGH, Urt. v. 19.12.2013 - C-9/12, NJW 2014, 1166 — CISG als internationales Einheitsrecht ist autonom auszulegen, ohne Rückgriff auf nationales Vertragsrecht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -32,12 +29,9 @@ Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über
 - Art. 49 CISG — Aufhebungsrecht des Käufers
 - Art. 74-78 CISG — Schadensersatz und Zinsen
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo-BGB/Gruber, 8. Aufl. 2019, vor Art. 1 CISG Rn. 1-30 (Anwendungsbereich)
-- Staudinger/Magnus, CISG, 2018, Art. 39 Rn. 1-40 (Rügeobliegenheit)
-- Schlechtriem/Schwenzer/Schroeter, CISG, 7. Aufl. 2019, Art. 25 Rn. 1-30
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Anwendbarkeit prüfen:** Vertragsstaaten? Warenkauf? Kein Konsumkauf? Kein wirksamer Ausschluss?

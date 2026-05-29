@@ -1,6 +1,6 @@
 ---
 name: pkh-vor-sozialgericht-73a-sgg
-description: "Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklaerung wirtschaftlicher Verhaeltnisse Anwaltsbeiordnung."
+description: "Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung."
 ---
 
 # Prozesskostenhilfe vor dem SG — § 73a SGG

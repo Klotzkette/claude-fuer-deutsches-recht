@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-wto-handelspolitik
-description: "WTO Handelspolitik GATT GATS TRIPS und Streitbeilegung fuer Aussenhandelsmandate. Anwendungsfall Handelspartner klagt WTO-Verstoss oder Unternehmen ist von Schutzmassnahmen betroffen. Normen GATT 1994 GATS TRIPS DSU Streitbeilegungsvereinbarung WTO Schutzmassnahmen-Abkommen. Pruefraster GATT-Grundsaetze GATS-Verpflichtungen TRIPS-Schutz WTO-Streitbeilegungsweg Schutzmassnahmen Quoten handelspolitische Konflikte. Output Handelsrechtliche Einordnung mit WTO-Pruefschema Streitbeilegungsoptionen und Risikoabschaetzung. Abgrenzung zu aussenwirtschaft-antidumping-ausgleich und aussenwirtschaft-sanktionen-embargos."
+description: "WTO Handelspolitik GATT GATS TRIPS und Streitbeilegung für Aussenhandelsmandate. Anwendungsfall Handelspartner klagt WTO-Verstoss oder Unternehmen ist von Schutzmassnahmen betroffen. Normen GATT 1994 GATS TRIPS DSU Streitbeilegungsvereinbarung WTO Schutzmassnahmen-Abkommen. Prüfraster GATT-Grundsaetze GATS-Verpflichtungen TRIPS-Schutz WTO-Streitbeilegungsweg Schutzmassnahmen Quoten handelspolitische Konflikte. Output Handelsrechtliche Einordnung mit WTO-Prüfschema Streitbeilegungsoptionen und Risikoabschaetzung. Abgrenzung zu aussenwirtschaft-antidumping-ausgleich und aussenwirtschaft-sanktionen-embargos."
 ---
 
 # WTO und handelspolitische Maßnahmen
@@ -63,8 +63,7 @@ Kläre vor der Pruefung:
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
 - WTO-AB, Bericht v. 25.09.1998 - AB-1998-5 (EC — Hormones) — SPS-Massnahmen muessen auf einer Risikoabschaetzung beruhen; Vorsorgeprinzip allein genuegt nicht zur Rechtfertigung handelshemmender Massnahmen nach Art. 5.7 SPS.
-- EuGH, Urt. v. 12.12.1972 - 21-24/72 (International Fruit Company) — WTO/GATT-Recht hat keine unmittelbare Wirkung im Unionsrecht; einzelne Buerger koennen sich nicht direkt auf GATT berufen.
-- EuGH, Urt. v. 22.11.2001 - C-301/97 (Niederlande/Rat) — EU-Schutzklauselmassnahmen unterliegen Pruefung auf Verhaltensmaessigkeit; unverhaeltnismaessige Handelseinschraenkungen sind gemeinschaftsrechtswidrig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - WTO-Panel, Bericht v. 07.10.2022 - DS591 (EU — Methode zur Berechnung von Dumpingspannen) — EU-Netting-Methode bei Antidumping bestaetigt; asymmetrische Berechnung nur unter engen Voraussetzungen WTO-konform.
 
 ## Normen-Kette WTO/Handelspolitik
@@ -76,11 +75,9 @@ Kläre vor der Pruefung:
 - Art. 207 AEUV — Gemeinsame Handelspolitik der EU
 - VO (EU) 2016/1036 (Grundantidumping-VO) i.V.m. ADA
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stoll/Schorkopf, WTO — World Economic Order, World Trade Law, 2006
-- Herrmann/Krajewski, Europaeisches Aussenhandelsrecht — EU-Handelsinstrumente und WTO-Konformitaet
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: WTO-Compliance-Vermerk
 
 **Adressat:** Rechts-/Handelsabteilung / Verband — **Tonfall:** voelkerrechtlich-technisch, fristen-prazise

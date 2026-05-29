@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Zollverfahren und Bewilligungen im Union-Zollkodex fuer AEO vereinfachte Anmeldung und besondere Verfahren. Anwendungsfall Unternehmen will Versandverfahren Zolllager aktive Veredelung oder AEO-Zertifizierung nutzen. Normen UZK Art. 77 ff. Anmeldung Art. 210 ff. besondere Verfahren Art. 38 ff. AEO Delegierte VO 2015/2446. Pruefraster Versandverfahren Zolllager aktive Veredelung Endverwendung AEO-Antrag vereinfachte Anmeldung Buergschaft Bewilligungsrisiken. Output Verfahrenskonzept mit Bewilligungsantrag Buergschaftsplan und Compliance-Checkliste fuer Zollabteilung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-cbam-co2-zoll."
+description: "Zollverfahren und Bewilligungen im Union-Zollkodex für AEO vereinfachte Anmeldung und besondere Verfahren. Anwendungsfall Unternehmen will Versandverfahren Zolllager aktive Veredelung oder AEO-Zertifizierung nutzen. Normen UZK Art. 77 ff. Anmeldung Art. 210 ff. besondere Verfahren Art. 38 ff. AEO Delegierte VO 2015/2446. Prüfraster Versandverfahren Zolllager aktive Veredelung Endverwendung AEO-Antrag vereinfachte Anmeldung Buergschaft Bewilligungsrisiken. Output Verfahrenskonzept mit Bewilligungsantrag Buergschaftsplan und Compliance-Checkliste für Zollabteilung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-cbam-co2-zoll."
 ---
 
 # Zollverfahren, Bewilligungen und Vereinfachungen
@@ -62,10 +62,7 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- EuGH, Urt. v. 23.02.2006 - C-201/04 (Molenbergnatie) — Zur Bindungswirkung einer Zollbewilligung; Widerruf nur nach den Verfahrensgrundsaetzen der VO (EWG) 2913/92 (jetzt Art. 28 ff. UZK), Vertrauensschutz des Inhabers ist zu beachten.
-- BFH, Urt. v. 22.05.2012 - VII R 61/11, BFH/NV 2012, 1876 — Zum Verschulden bei der Inanspruchnahme des Zollschuldners gemaess Art. 204 ZK (jetzt Art. 79 UZK); leichte Fahrlassigkeit des Vertreters wird dem Einfu-herer zugerechnet.
-- EuGH, Urt. v. 11.11.1999 - C-48/98 (Soex/Hauptzollamt Hamburg-Jonas) — Korrekte Zollanmeldung als Voraussetzung fuer das Entstehen der Zollschuld gemaess Art. 201 ZK; unrichtige Tarifierung loest Nacherhebung aus.
-- BFH, Urt. v. 16.10.2018 - VII R 3/18, BFHE 263, 47 — Zur Festsetzungsverjaehrung im Zollrecht; die 3-Jahres-Frist des Art. 103 UZK beginnt mit dem Entstehen der Zollschuld, nicht mit Bekanntgabe.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Zollverfahren
 
@@ -75,11 +72,9 @@ Kläre vor der Pruefung:
 - § 21 UStG i.V.m. Art. 201 UZK — Einfuhrumsatzsteuer
 - §§ 370, 378 AO — Steuerhinterziehung / leichtfertige Steuerverk�rzung bei Zollabgaben
 
-## Kommentarliteratur
+## Quellenregel
 
-- Witte/Henke, Zollkodex-Kommentar, 7. Aufl. — massgeblich zum UZK
-- Dorsch, Zollrecht, Loseblatt — praxisorientiert zu Verfahren und Bewilligungen
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Zollverfahrenspruefung
 
 **Adressat:** Zollbeauftragter / Steuerabteilung — **Tonfall:** verfahrenstechnisch, fristen-bewusst

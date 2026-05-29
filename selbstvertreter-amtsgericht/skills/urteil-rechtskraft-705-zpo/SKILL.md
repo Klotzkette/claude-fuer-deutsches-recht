@@ -1,6 +1,6 @@
 ---
 name: urteil-rechtskraft-705-zpo
-description: "Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft fuer Vollstreckung und gegen erneute Klage Bedeutung fuer Sie als Selbstvertreter."
+description: "Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter."
 ---
 
 # Rechtskraft des Urteils

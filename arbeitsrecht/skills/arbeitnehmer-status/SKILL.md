@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-status
-description: "Statusfeststellung fuer eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbstaendiger nach § 611a BGB, Scheinselbstaendigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschliesslich prospektiv - fuer bestehende Verhaeltnisse Aussenberater einschalten."
+description: "Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten."
 ---
 
 # /arbeitsrecht:arbeitnehmer-status
@@ -38,17 +38,11 @@ Bevor losgelegt wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 21.05.2019 – 9 AZR 295/18, NZA 2019, 1558** — Gesamtbildbetrachtung bei der Arbeitnehmereigenschaft: Das BAG stellt klar, dass für die Beurteilung nach § 611a BGB alle Umstände der tatsächlichen Durchführung maßgeblich sind; die vertragliche Bezeichnung als „Freelancer" ist unerheblich, wenn Weisungsgebundenheit und Eingliederung in der Praxis vorliegen.
-- **BAG, Urt. v. 17.10.2017 – 9 AZR 792/16, NZA 2018, 173 Rn. 24** — Tatsächliche Durchführung entscheidend: Wie der Vertrag bezeichnet wird (Honorarvertrag, Werkvertrag), ist nach § 611a Abs. 1 S. 5 BGB nicht ausschlaggebend; es kommt auf die gelebte Wirklichkeit an.
-- **BSG, Urt. v. 04.09.2018 – B 12 KR 11/17 R, NZA 2019, 275** — Statusfeststellung nach § 7 SGB IV: Das BSG betont, dass auch bei Vorliegen einzelner Selbständigkeitsmerkmale das Gesamtbild für abhängige Beschäftigung sprechen kann, wenn die faktische Eingliederung in die fremde Betriebsorganisation überwiegt.
-- **BAG, Urt. v. 14.06.2016 – 9 AZR 305/15, NZA 2016, 1331** — IT-Freelancer in Großprojekten: Werden Softwareentwickler dauerhaft in Entwicklungsteams des Auftraggebers eingebunden und erhalten sie inhaltliche Weisungen über das Jira-System des Auftraggebers, begründet dies regelmäßig Arbeitnehmerstatus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Wank, in: ErfK, 25. Aufl. 2025, § 611a BGB Rn. 1 ff. (Arbeitnehmerbegriff, Weisungsgebundenheit, tatsächliche Durchführung)
-- Thüsing, in: MüKoBGB, 9. Aufl. 2024, § 611a BGB Rn. 80 ff. (Abgrenzungskriterien, Gesamtbildbetrachtung, Missbrauch durch Vertragsgestaltung)
-- Schüren, in: HWK, 11. Aufl. 2024, § 1 AÜG Rn. 1 ff. (Abgrenzung Werkvertrag und Arbeitnehmerüberlassung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 – Arbeitnehmereigenschaft (§ 611a BGB)
@@ -97,7 +91,7 @@ Falls Dienstleistung durch Dritte (Werkvertrag, Dienstleistungsvertrag):
 - Erlaubnispflichtig (§ 1 AÜG)
 - Höchstüberlassungsdauer: 18 Monate (§ 1 Abs. 1b AÜG)
 - Equal Pay nach § 8 AÜG ab Monat 10 (tariflich verlängerbar bis 15 Monate)
-- Kein „verdeckter" Arbeitnehmer – Offenlegungspflicht in Vertrag (§ 1 Abs. 1 S. 5 AÜG)
+- Kein "verdeckter" Arbeitnehmer – Offenlegungspflicht in Vertrag (§ 1 Abs. 1 S. 5 AÜG)
 
 **Scheinselbständigkeit bei Werkvertrag:**
 Wenn der Auftragnehmer nach Weisungen des Auftraggebers in dessen Betrieb eingegliedert ist, liegt verdeckte Arbeitnehmerüberlassung vor. Bei fehlender AÜG-Erlaubnis: Arbeitsverhältnis entsteht kraft Gesetzes (§ 10 Abs. 1 AÜG).
@@ -166,9 +160,9 @@ Risikobewertung: [🔴 / 🟡 / 🟢]
 
 **Beispiel – IT-Freelancer:**
 
-*Sachverhalt:* Softwareentwickler K soll als „freier Mitarbeiter" für 12 Monate ausschließlich für einen Auftraggeber tätig sein, arbeitet täglich im Büro des Auftraggebers, nutzt dessen Laptop, nimmt an Daily-Standup-Meetings teil, erhält Aufgaben über das Jira-Board des Auftraggebers.
+*Sachverhalt:* Softwareentwickler K soll als "freier Mitarbeiter" für 12 Monate ausschließlich für einen Auftraggeber tätig sein, arbeitet täglich im Büro des Auftraggebers, nutzt dessen Laptop, nimmt an Daily-Standup-Meetings teil, erhält Aufgaben über das Jira-Board des Auftraggebers.
 
-*Ergebnis:* 🔴 Arbeitnehmerstatus sehr wahrscheinlich. Faktoren: Ausschließlichkeit, Eingliederung in Betriebsabläufe, kein eigenes unternehmerisches Risiko, Betriebsmittel gestellt (BAG, Urt. v. 14.06.2016 – 9 AZR 305/15, NZA 2016, 1331). Clearingverfahren § 7a SGB IV dringend empfohlen. Alternativ: reguläres Arbeitsverhältnis oder AÜG-konforme Leiharbeit (mit Erlaubnis).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken / typische Fehler
 
@@ -183,9 +177,5 @@ Risikobewertung: [🔴 / 🟡 / 🟢]
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
-- Wank, in: ErfK, 25. Aufl. 2025, § 611a BGB Rn. 1 ff.
-- Thüsing, in: MüKoBGB, 9. Aufl. 2024, § 611a BGB Rn. 80 ff.
-- Schüren, in: HWK, 11. Aufl. 2024, § 1 AÜG Rn. 1 ff.
-- BAG, Urt. v. 21.05.2019 – 9 AZR 295/18, NZA 2019, 1558
-- BAG, Urt. v. 17.10.2017 – 9 AZR 792/16, NZA 2018, 173
-- BSG, Urt. v. 04.09.2018 – B 12 KR 11/17 R, NZA 2019, 275
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

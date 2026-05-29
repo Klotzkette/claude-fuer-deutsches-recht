@@ -1,6 +1,6 @@
 ---
 name: stb-susa-haupt-und-personenkonten
-description: "SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswerten. Anwendungsfall Pruefung Hauptbuch Sammelkonten 1400 1500 vs Personenkonten Debitoren Kreditoren OPOS. Methodik Konsistenz Hauptbuch zu Personenkonten Abstimmung. Output Vollabstimmung Hauptbuch Nebenbuch."
+description: "SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswerten. Anwendungsfall Prüfung Hauptbuch Sammelkonten 1400 1500 vs Personenkonten Debitoren Kreditoren OPOS. Methodik Konsistenz Hauptbuch zu Personenkonten Abstimmung. Output Vollabstimmung Hauptbuch Nebenbuch."
 ---
 
 # Hauptbuchkonten und Personenkonten — Abstimmung
@@ -41,7 +41,7 @@ Die SuSa zeigt einen Saldo auf dem Sammelkonto "Forderungen aus Lieferungen und 
 
 ### Phase 1 — Sammelkonten-Saldo aus SuSa
 
-Typische SKR-03-Sammelkonten (Nummern beispielhaft; konkret im aktuellen DATEV-Kontenrahmen verifizieren):
+Typische SKR-03-Sammelkonten (Nummern beispielhaft; bei Abweichungen in der aktuellen DATEV-Kontenrahmenfassung nachschlagen):
 
 ```
 1200  Bank                    [X]
@@ -120,3 +120,5 @@ Stand: 05/2026.
 - StBerG § 33.
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Kontenrahmen-Hinweis ohne Marker neu formuliert) -->

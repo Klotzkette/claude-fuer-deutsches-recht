@@ -11,7 +11,7 @@ E-Mail: zwangsverwaltung@lindqvist-partner.de
 ---
 
 An die Mieterinnen und Mieter
-des Büro- und Geschäftshauses „Friedrichshöfe"
+des Büro- und Geschäftshauses "Friedrichshöfe"
 Friedrichstraße 143–145
 10117 Berlin
 
@@ -25,7 +25,7 @@ Berlin, den 28. August 2024
 
 Sehr geehrte Damen und Herren,
 
-mit Beschluss des Amtsgerichts Mitte von Berlin vom 22. August 2024 (Aktenzeichen 36 L 412/24) ist die Zwangsverwaltung des Büro- und Geschäftshauses „Friedrichshöfe" angeordnet worden. Zur Zwangsverwalterin wurde die Unterzeichnerin bestellt.
+mit Beschluss des Amtsgerichts Mitte von Berlin vom 22. August 2024 (Aktenzeichen 36 L 412/24) ist die Zwangsverwaltung des Büro- und Geschäftshauses "Friedrichshöfe" angeordnet worden. Zur Zwangsverwalterin wurde die Unterzeichnerin bestellt.
 
 Damit gehen die Verwaltung des Objekts, die Verwaltung Ihres Mietverhältnisses sowie das Recht zur Einziehung der Mieten gemäß § 152 ZVG auf die Zwangsverwalterin über. Ihr Mietvertrag bleibt im Übrigen unverändert. Sie bleiben Mieter zu den vertraglich vereinbarten Konditionen. Die Vermieterstellung wird jedoch ausschließlich durch die Zwangsverwaltung wahrgenommen.
 
@@ -35,7 +35,7 @@ Ab Zugang dieses Schreibens, spätestens jedoch ab Eintragung des Zwangsverwaltu
 
 | | |
 |---|---|
-| Kontoinhaberin | RAin Y. Lindqvist-Bähr — Zwangsverwaltung „Friedrichshöfe" — 36 L 412/24 |
+| Kontoinhaberin | RAin Y. Lindqvist-Bähr — Zwangsverwaltung "Friedrichshöfe" — 36 L 412/24 |
 | Kreditinstitut | Berliner Volksbank eG |
 | IBAN | DE38 1009 0000 5547 8932 11 |
 | BIC | BEVODEBB |
@@ -59,7 +59,7 @@ Bitte beachten Sie: Aufrechnungen mit Forderungen, die gegen die Schuldnerin (Kr
 
 Mängelanzeigen, Reparaturwünsche und Belange der laufenden Gebäudeverwaltung richten Sie ab sofort bitte ausschließlich an:
 
-- per E-Mail: zwangsverwaltung@lindqvist-partner.de (Betreff: „Friedrichshöfe / Mieternummer")
+- per E-Mail: zwangsverwaltung@lindqvist-partner.de (Betreff: "Friedrichshöfe / Mieternummer")
 - per Telefon: 030 / 28 39 47 11 (Sprechzeiten Mo–Fr 9–13 Uhr)
 - für dringende technische Notfälle (Wasserrohrbruch, Heizungsausfall etc.) außerhalb der Sprechzeiten: Hausmeister Sergio Cortinhal, 0177 / 42 87 561
 
@@ -71,7 +71,7 @@ Die Gebäudeversicherung (Allianz Versicherungs-AG, Police 7-294-3847-2014) wird
 
 ## 6. Bestehende Sondernutzungen (Tiefgarage, Lagerräume)
 
-Bestehende Sondernutzungs-Vereinbarungen (Tiefgaragenstellplätze, Lagerräume, Konferenzraum „Forum Friedrichshöfe") bleiben unverändert bestehen. Bei Buchungen des Konferenzraums wenden Sie sich wie bisher an Herrn Cortinhal.
+Bestehende Sondernutzungs-Vereinbarungen (Tiefgaragenstellplätze, Lagerräume, Konferenzraum "Forum Friedrichshöfe") bleiben unverändert bestehen. Bei Buchungen des Konferenzraums wenden Sie sich wie bisher an Herrn Cortinhal.
 
 ## 7. Bezug zum Insolvenzverfahren
 

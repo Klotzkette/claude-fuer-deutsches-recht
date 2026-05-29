@@ -1,11 +1,11 @@
 ---
 name: fortbestehensprognose-zweistufig
-description: "Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist moeglicherweise ueberschuldet und braucht positive Fortfuehrungsprognose. Normen: § 19 InsO (Ueberschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Pruefraster: Stufe 1 Fortfuehrungswille, Stufe 2 Fortfuehrungsfaehigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfaehigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow."
+description: "Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Prüfraster: Stufe 1 Fortführungswille, Stufe 2 Fortführungsfähigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfähigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow."
 ---
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
 
-Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldung und Insolvenzantragspflicht. § 19 Abs. 2 InsO lässt bei positiver Fortführungsprognose Fortführungswerte in der Überschuldungsbilanz zu — was den Unterschied zwischen „noch sanierbar" und „Antragspflicht ausgelöst" machen kann. IDW S 11 formalisiert diesen Prüfungsprozess zweistufig. Wer die Fortbestehensprognose nicht aktuell und dokumentiert hält, riskiert die persönliche Haftung — auch wenn das Unternehmen de facto noch fortgeführt werden könnte.
+Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldung und Insolvenzantragspflicht. § 19 Abs. 2 InsO lässt bei positiver Fortführungsprognose Fortführungswerte in der Überschuldungsbilanz zu — was den Unterschied zwischen "noch sanierbar" und "Antragspflicht ausgelöst" machen kann. IDW S 11 formalisiert diesen Prüfungsprozess zweistufig. Wer die Fortbestehensprognose nicht aktuell und dokumentiert hält, riskiert die persönliche Haftung — auch wenn das Unternehmen de facto noch fortgeführt werden könnte.
 
 ---
 
@@ -17,8 +17,7 @@ Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldun
 - § 15a InsO (Insolvenzantragspflicht)
 - IDW S 11 Tz. 65 ff. (Fortführungsprognose — Zweistufenmodell)
 - IDW S 6 (Sanierungskonzept als Basis der positiven FBP)
-- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Haftung bei falscher Fortbestehensprognose)
-- BGH IX ZR 285/14 (Prüfpflicht des Beraters)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -195,10 +194,7 @@ Hinweis: Dieser Vermerk ersetzt kein Sachverständigengutachten.
 
 ## Weitere Leitentscheidungen
 
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
-- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
-- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 
 ## Triage — Erste Einordnung

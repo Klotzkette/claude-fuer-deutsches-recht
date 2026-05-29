@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kapitalerhoehung-bezugsrecht
-description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchfuehren. Normen: §§ 55 56 56a GmbHG. Pruefraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital."
+description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchführen. Normen: §§ 55 56 56a GmbHG. Prüfraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital."
 ---
 
 # Kapitalerhöhung und Bezugsrecht
@@ -98,7 +98,7 @@ Bei Mitarbeiter-Beteiligung:
 ### Anfechtungsrisiko
 
 - Bezugsrechtsausschluss ohne sachliche Rechtfertigung: anfechtbar (BGH-Linie Kali+Salz)
-- BGH BGHZ 71, 40 — Kali+Salz-Entscheidung zur AG, analog auf GmbH
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 5) Streit-Konstellation
 
@@ -126,7 +126,7 @@ TOP X — Kapitalerhoehung um 10.000 EUR mit
 Bezugsrechtsausschluss
 
 Beschluss-Vorlage:
-„Die Gesellschafterversammlung beschliesst,
+"Die Gesellschafterversammlung beschliesst,
 
 a) das Stammkapital der Gesellschaft um 10.000 EUR
    auf 35.000 EUR durch Ausgabe von 10.000 neuen
@@ -218,24 +218,18 @@ Klaere vor Bearbeitung einer Kapitalerhoehung:
 
 1. **Art der Erhoehung?** Bareinlage (Cash) oder Sacheinlage (Assets, IP, Forderungen)?
 2. **Bezugsrecht ausgeschlossen oder gewahrt?** Neuer Investor: typisch Ausschluss; interne Erhoehung: typisch gewahrt.
-3. **Sachliche Rechtfertigung vorhanden?** Bei Ausschluss zwingend (BGH BGHZ 71, 40 analog).
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **75%-Mehrheit gesichert?** Stimmverbot § 47 IV GmbHG pruefen; Golden-Share-Veto pruefen.
 5. **Anti-Dilution-Klauseln in SHA?** Bestehende Investoren-Schutzrechte koennen durch neue Runde ausgeloest werden.
 6. **Stamm- oder Nennkapital nach Erhoehung?** Handelsregister-Eintragung erst nach vollstaendiger Einzahlung moeglich.
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 13.03.1978 – II ZR 142/76, BGHZ 71, 40 (Kali+Salz)** — Bezugsrechtsausschluss bei der AG (analog GmbH) erfordert sachliche Rechtfertigung und Verhaeltnismaessigkeit; fehlende Rechtfertigung fuehrt zur Anfechtbarkeit des Beschlusses; die Mehrheitsgesellschafter duerfen Minderheitsgesellschafter nicht ohne sachlichen Grund verwaessern.
-- **BGH, Urt. v. 10.10.2005 – II ZR 90/03, NZG 2006, 17** — Beim Bezugsrechtsausschluss zum Zweck des Investor-Eintritts ist es ausreichend, wenn der Investor strategischen Mehrwert einbringt, der die Verwaesserung der Altgesellschafter sachlich rechtfertigt; blosse Kapitalzufuhr genuegt nicht.
-- **OLG Frankfurt, Beschl. v. 08.11.2016 – 5 W 82/16, GmbHR 2017, 203** — Bei einer Down-Round (Kapitalerhoehung zu niedrigerem Preis als Vorrundenpreis) haben Altinvestoren mit Anti-Dilution-Klauseln einen Anpassungsanspruch; Gesellschaft muss entweder Anpassung vornehmen oder Anti-Dilution-Beschluss herbeiführen.
-- **BGH, Urt. v. 23.06.2015 – II ZR 261/13, NZG 2015, 1067** — Einstweilige Verfuegung auf Anmeldungssperre ist bei glaubhaft gemachter Anfechtbarkeit eines Erhoehungsbeschlusses moeglich; das Gericht kann die HR-Eintragung bis zur Entscheidung in der Hauptsache aussetzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Priester, GmbHG, 13. Aufl., §§ 55-57 Rn. 1-100 (Kapitalerhoehung; Bezugsrecht; sachliche Rechtfertigung)
-- MüKo GmbHG/Lieder, 4. Aufl., § 55 Rn. 1-80 (Kapitalerhoehung; Bezugsrechtsausschluss; Anfechtung)
-- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 55 Rn. 1-60 (Bezugsrecht; Anti-Dilution)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kapitalerhoehungs-Beschluss
 
 **Adressat:** Gesellschafterversammlung GmbH — Tonfall rechtspraezise

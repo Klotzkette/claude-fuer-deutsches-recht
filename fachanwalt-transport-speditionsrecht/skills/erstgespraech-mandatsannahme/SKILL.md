@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchfuehren: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Pruefraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift."
+description: "Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Prüfraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift."
 ---
 
 # Erstgespraech und Mandatsannahme im Transport-, Speditions- und Logistikrecht
@@ -154,10 +154,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Aktuelle Rechtsprechung Erstgespraech Transport
 
-- BGH, Urt. v. 29.01.2015 - I ZR 195/13, NJW 2015, 2426 — Spediteurshaftung: Frachtfuehrerhaftung nach §§ 407 ff. HGB unterliegt der Jahresnachfrist des § 439 HGB; Ersatz-Ansprueche verjahren abweichend von § 195 BGB in einem Jahr ab Ablieferung.
-- BGH, Urt. v. 01.02.2018 - I ZR 246/16, NJW 2018, 1382 — CMR-Frist: nach Art. 32 CMR verjahren Ansprueche in einem Jahr (drei Jahre bei Vorsatz/Leichtfertigkeit); Fristbeginn mit Ablieferung oder Verzugsbeginn; keine Unterbrechung durch Mahnschreiben allein.
-- OLG Hamm, Urt. v. 21.05.2020 - 18 U 18/20, TranspR 2020, 380 — GwG-Pflicht im Logistikmandat: Rechtsanwalt muss auch im Transportrechts-Mandat Auftraggeber identifizieren, wenn Verdacht auf wirtschaftlich berechtigte Dritte besteht.
-- BGH, Urt. v. 24.10.2018 - I ZR 103/17, NJW 2019, 857 — ADSP-Klauseln: Allgemeine Deutsche Spediteurbedingungen (ADSP) wirksam einbezogen, wenn vor Vertragsschluss ein deutlicher Hinweis auf die ADSP und Moeglichkeit zur Kenntnisnahme gegeben wurde.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Erstgespraech Transport
 

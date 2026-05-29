@@ -1,6 +1,6 @@
 ---
 name: stb-dba-lizenzgebuehren-art-12-bzst
-description: "Lizenzgebuehren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebuehren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
+description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
 ---
 
 # Lizenzgebuehren (Art. 12 OECD-MA)
@@ -33,12 +33,12 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 - **DBA** je Vertragsstaat — Hoechstsaetze Art. 12.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 64/17 zu Lizenzgebuehren-Quellensteuer — **verifizieren**.
-- BFH I R 73/15 zu Irland-Lizenzgebuehren — **verifizieren**.
-- BMF-Schreiben zu § 4j EStG (Lizenzschranke) — **verifizieren**.
-- BMF-Schreiben zu § 50g EStG — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu Lizenzgebuehren-Quellensteuer in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Irland-Lizenzgebuehren in juris abrufen.
+- BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
-## DBA-Hoechstsaetze fuer Lizenzen (Uebersicht — **alle konkret im DBA verifizieren**)
+## DBA-Hoechstsaetze fuer Lizenzen (Uebersicht — alle Saetze konkret im DBA-Text pruefen)
 
 | DBA | Lizenz-Hoechstsatz (typ.) | Bemerkung |
 |---|---|---|
@@ -116,4 +116,6 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. **DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und juris abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

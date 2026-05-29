@@ -12,7 +12,7 @@
 
 Das **geringste Gebot** (§ 49 Abs. 1 ZVG) ist die gesetzliche Untergrenze, unterhalb derer kein Zuschlag erteilt werden darf. Es setzt sich aus dem **Bargebot** und den **bestehenbleibenden Rechten** zusammen. Das geringste Gebot wird erst im Versteigerungstermin vom Rechtspfleger festgestellt, wenn die Versteigerungsbedingungen bekannt gegeben und bestehenbleibende Rechte endgültig bestimmt sind.
 
-Diese Berechnung ist eine Vorab-Schätzung auf Grundlage der Aktenlage. Sie ersetzt nicht die Angaben im Termin.
+Diese Berechnung ist eine Vorab-Schätzung auf Grundlage der Aktenlage. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 
 ---
 
@@ -103,7 +103,7 @@ Das **wirtschaftliche Bietlimit** ist keine Rechtsgröße, sondern die intern ka
 
 ## 7. Anmerkungen für junge Anwältinnen und Anwälte
 
-**Verwechslungsgefahr:** Der Begriff „Mindestgebot" wird im Volksmund oft fälschlich für das wirtschaftliche Bietlimit verwendet. Im ZVG bedeutet „geringstes Gebot" ausschließlich die gesetzliche Untergrenze nach § 49 ZVG – nicht das persönliche Maximalgebot.
+**Verwechslungsgefahr:** Der Begriff "Mindestgebot" wird im Volksmund oft fälschlich für das wirtschaftliche Bietlimit verwendet. Im ZVG bedeutet "geringstes Gebot" ausschließlich die gesetzliche Untergrenze nach § 49 ZVG – nicht das persönliche Maximalgebot.
 
 **Terminstrategie:** Wer das geringste Gebot bietet, erhält den Zuschlag nur, wenn kein anderer Bieter mehr geboten hat. Im Regelfall liegen die tatsächlichen Gebote weit über dem geringsten Gebot, wenn die Immobilie einen höheren Marktwert hat.
 

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-ueberstunden-abbau-arbeitszeitkonto
-description: "Ueberstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsfall AN haeuft Ueberstunden an Bilanzierung im Arbeitszeitkonto Abbau in Freizeit oder Auszahlung lohn- und sv-rechtliche Behandlung. Methodik Aufzeichnung MiLoG Bewertung Stand. Output Arbeitszeitkonto-Abrechnung."
+description: "Überstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsfall AN haeuft Überstunden an Bilanzierung im Arbeitszeitkonto Abbau in Freizeit oder Auszahlung lohn- und sv-rechtliche Behandlung. Methodik Aufzeichnung MiLoG Bewertung Stand. Output Arbeitszeitkonto-Abrechnung."
 ---
 
 # Ueberstunden und Arbeitszeitkonto

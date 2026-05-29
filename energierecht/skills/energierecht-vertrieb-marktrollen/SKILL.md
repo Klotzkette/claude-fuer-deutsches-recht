@@ -1,6 +1,6 @@
 ---
 name: energierecht-vertrieb-marktrollen
-description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Pruefraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse und Vertriebsstruktur. Abgrenzung: nicht Energieliefervertrag (eigener Skill)."
+description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Prüfraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse und Vertriebsstruktur. Abgrenzung: nicht Energieliefervertrag (eigener Skill)."
 ---
 
 # Vertrieb und Marktrollen
@@ -29,7 +29,7 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 - Wirtschaftlich angemessen
 - Veröffentlichungs-Pflicht im Internet und im Versorgungsgebiet
 - BNetzA-Marktmonitoring
-- BGH VIII ZR 56/08 zu Tarif-Angemessenheits-Prüfung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Tarif-Änderung
 
@@ -48,11 +48,11 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 
 - AGB-Kontrolle §§ 305 ff. BGB
 - Spezial-Recht des EnWG (insbesondere § 41 EnWG)
-- Strompreis-Anpassungs-Klauseln eng auszulegen — BGH VIII ZR-Linien
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Tarif-Anpassungs-Klauseln
 
-- BGH VIII ZR 191/18 zur Wirksamkeit Preisanpassungs-Klauseln
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Transparenz-Erfordernis
 - Begrenzungs- und Ausgleichs-Mechanismen
 - Bei AGB-Unwirksamkeit: Vertrag mit ursprünglichem Preis fortgesetzt — erheblicher Schaden Versorger
@@ -227,20 +227,15 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 28.10.2015 — VIII ZR 158/11, NJW 2016, 475 — einseitige Preisaenderungsklausel in Sondervertrag Strom unterliegt AGB-Kontrolle §§ 307 ff. BGB; Klausel muss transparenten Anpassungs-Mechanismus enthalten; billiges Ermessen § 315 BGB allein genuegt nicht
-- BGH, Urt. v. 06.04.2016 — VIII ZR 79/15, NJW 2016, 2101 — Tarifaenderung im Grundversorgungsverhaeltnis erfordert oeffentliche Bekanntgabe nach § 41 EnWG; unterbliebene Bekanntgabe macht Tarif-Aenderung unwirksam gegenueber Haushaltskunden
-- OLG Duesseldorf, Urt. v. 03.05.2022 — I-20 U 155/21, ZNER 2022, 233 — Lieferanten-Insolvenz; Ersatz-Versorgung durch Grundversorger § 38 EnWG; Verbraucher kann nicht auf Liefervertrag beharren; Grundversorger hat Kontrahierungspflicht
-- EuGH, Urt. v. 10.09.2015 — C-359/14 und C-475/14, NJW 2015, 3720 — Verpflichtung zur Herkunftskennzeichnung § 42 EnWG; EU-Elektrizitaets-Binnenmarkt-RL; Stromkennzeichnung muss zutreffend und nachvollziehbar sein; keine Doppel-Verwendung von Herkunftsnachweisen HKN
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 36-38 EnWG (Grundversorgung, Ersatzversorgung) — § 41 EnWG (Vertragsaenderung Haushaltskunden) — § 42 EnWG (Stromkennzeichnung) — §§ 305-310 BGB (AGB-Kontrolle) — § 315 BGB (billiges Ermessen Preisbestimmung) — § 5 MaStRV (Marktstammdatenregister Pflichten)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 36-42 Rn. 1 ff. (Grundversorgung, Tarif, Kennzeichnung)
-- Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 305 ff. Rn. 1 ff. (AGB-Kontrolle Energie-Sondervertraege)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung`
@@ -256,7 +251,7 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 - StromGVV / GasGVV
 - StromPBG / EWPBG (Nachlauf)
 - MaStRV
-- BGH VIII ZR-Linien (insbes. 56/08, 191/18, 304/16)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BNetzA-Marktmonitoring-Berichte
 - UBA HKN-Register
 - Schiedsstelle Energie

@@ -80,7 +80,7 @@ EBITDA-MARGE:
 | Umsatzrentabilitaet | ueber ca. 8 Prozent | ca. 3-8 Prozent | unter ca. 3 Prozent |
 | EBITDA-Marge | ueber ca. 15 Prozent | ca. 8-15 Prozent | unter ca. 8 Prozent |
 
-Die Schwellenwerte sind Branchen-Daumenregeln und vor Mandantengespraech mit aktuellen BBE-Branchendaten zu verifizieren. Industriebetriebe weisen typischerweise hoehere EK-Renditen aus; Handel hat oft geringe Umsatzrentabilitaet bei hohem Kapitalumschlag.
+Die Schwellenwerte sind Branchen-Daumenregeln und vor dem Mandantengespraech mit aktuellen BBE-Branchendaten abzugleichen. Industriebetriebe weisen typischerweise hoehere EK-Renditen aus; Handel hat oft geringe Umsatzrentabilitaet bei hohem Kapitalumschlag.
 
 ### Phase 4 — DuPont-Analyse
 
@@ -137,3 +137,5 @@ Stand: 05/2026.
 - IDW S 1, DRS 17.
 - BBE-Branchenkennzahlen.
 - Coenenberg, Jahresabschluss und Jahresabschlussanalyse.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->

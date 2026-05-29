@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-frist-67-sgg
-description: "Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann moeglich was vortragen welche Beweise. Mit Mustertext fuer Buerger ohne Anwalt."
+description: "Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt."
 ---
 
 # Frist verpasst? Wiedereinsetzung nach § 67 SGG

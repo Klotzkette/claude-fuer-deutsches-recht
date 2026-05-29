@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-quality-gate
-description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prueft Kanzlei Vollstaendigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisantraege), BVerfG Rohmessdaten. Pruefraster: Messakte vollstaendig, Rohmessdaten vorhanden, Eichschein geprueft, Fahrverbot-Haertefall-Pruefung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Pruefprotokoll fuer jede Phase. Abgrenzung: Detailpruefungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter."
+description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter."
 ---
 
 # Quality Gate — OWi-Mandat

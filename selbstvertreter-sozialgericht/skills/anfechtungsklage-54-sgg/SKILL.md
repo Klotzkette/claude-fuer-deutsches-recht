@@ -1,6 +1,6 @@
 ---
 name: anfechtungsklage-54-sgg
-description: "Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext fuer Buerger ohne Anwalt."
+description: "Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt."
 ---
 
 # Die Anfechtungsklage — § 54 Abs. 1 SGG

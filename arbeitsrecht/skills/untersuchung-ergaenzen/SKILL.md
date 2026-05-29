@@ -42,19 +42,19 @@ für eine laufende Untersuchung zur Verarbeitung eingehen.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 13.12.2007 – 2 AZR 537/06, NZA 2008, 1008 Rn. 18 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Beweisverwertungsverbot bei rechtswidrig erlangten Dokumenten — heimliche
   Videoüberwachung ohne Betriebsratsinhaber führt zum Verwertungsverbot
   auch im Kündigungsschutzprozess; Grundsatz gilt sinngemäß für
   rechtswidrig ausgewertete Kommunikation
-- BAG, Urt. v. 20.06.2013 – 2 AZR 546/12, NZA 2014, 143 Rn. 18 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Verdachtskündigung — Anforderungen an die Dokumentation des Tatverdachts;
   objektive Schwere; inhaltliche Mindestanforderungen an die Anhörung
-- BAG, Urt. v. 28.10.2010 – 8 AZR 547/09, NZA 2011, 345 Rn. 26 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Erstattungsfähigkeit von Untersuchungskosten (Detektivkosten) — nur bei
   konkreter Verdachtslage bei Beauftragung und Verhältnismäßigkeit
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.:
   Zulässigkeitsvoraussetzungen der Datenverarbeitung zur Straftatenaufdeckung;
@@ -104,7 +104,7 @@ Relevante Funde:
 **Schritt 5 — Quellencheckliste aktualisieren**
 
 Wenn die hinzugefügten Daten einen Checklistenpunkt abdecken: Anwalt fragen,
-ob der Punkt als „erledigt" oder „in Bearbeitung" markiert werden soll.
+ob der Punkt als "erledigt" oder "in Bearbeitung" markiert werden soll.
 Nicht automatisch als erledigt markieren — der Anwalt entscheidet, wann eine
 Quelle ausreichend abgedeckt ist.
 
@@ -173,7 +173,7 @@ Bei Ausgaben zu Dokumentenverarbeitung zitieren:
 - § 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung)
 - Art. 5 Abs. 1 lit. c DSGVO (Datenminimierung)
 - § 626 Abs. 2 BGB (Zwei-Wochen-Frist, Kenntnisdatum)
-- BAG, Urt. v. 13.12.2007 – 2 AZR 537/06, NZA 2008, 1008 (Verwertungsverbot)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.
 
 Detaillierte Auswahlkriterien, Protokolleintrag-Format und
@@ -184,8 +184,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 29.06.2017 — 2 AZR 597/16**, NZA 2017, 1179 — Aufklärungsobliegenheit des Arbeitgebers vor Verdachtskündigung; mutwillige Verzögerung der Ermittlungen lässt die Zwei-Wochen-Frist des § 626 Abs. 2 BGB nicht aufleben; neuzugegangene Erkenntnisse müssen daher zeitnah in das Protokoll eingespeist und dokumentiert werden.
-- **BAG, Urt. v. 19.02.2015 — 8 AZR 1007/13**, NZA 2015, 932 — Verhältnismäßigkeitsmaßstab bei Auswertung dienstlicher E-Mails ohne Betriebsvereinbarung; heimliche Auswertung ohne konkrete Verdachtslage unzulässig; Erkenntnisse unterliegen Beweisverwertungsverbot.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage — vor der Dateneingabe klären
 

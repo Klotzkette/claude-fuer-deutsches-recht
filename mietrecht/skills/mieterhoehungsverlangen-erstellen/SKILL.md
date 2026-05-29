@@ -1,6 +1,6 @@
 ---
 name: mieterhoehungsverlangen-erstellen
-description: Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemaesser Begruendung (Mietspiegel Sachverstaendigengutachten oder drei Vergleichswohnungen). Pruefroutine deckt Textform Wartefrist (fuenfzehn Monate seit Einzug oder letzter Erhoehung) Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) Zustimmungsfrist (zwei Monate plus Ablauf des Kalendermonats) und Begruendungsmittel ab. Spiegelt den Pruef-Skill `mieterhoehung-pruefen-widersprechen` aus der Mietersicht. Erzeugt fertiges Schreiben mit Disclaimer.
+description: Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen). Prüfroutine deckt Textform Wartefrist (fuenfzehn Monate seit Einzug oder letzter Erhoehung) Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) Zustimmungsfrist (zwei Monate plus Ablauf des Kalendermonats) und Begründungsmittel ab. Spiegelt den Prüf-Skill `mieterhoehung-prüfen-widersprechen` aus der Mietersicht. Erzeugt fertiges Schreiben mit Disclaimer.
 ---
 
 # Mieterhöhungsverlangen erstellen (Vermieter / Hausverwaltung)
@@ -78,18 +78,12 @@ In Gebieten mit Mietpreisbremse darf eine Erhöhung bei bestehendem Mietverhält
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 18.05.2022 — VIII ZR 214/21, NJW 2022, 2669 Rn. 22: Das Mieterhoehungsverlangen muss das Begruendungsmittel eindeutig benennen und klar beziffern; Verweis auf allgemeine Mietspiegel ohne konkreten Tabellenplatz genuegt nicht.
-- BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Qualifizierter Mietspiegel als Begruendungsmittel muss korrekt angewandt werden; fehlerhafte Einordnung der Wohnlage ist substantiierungspflichtig ruegbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
 §§ 558, 558a, 558b BGB — Begruendungsmittel, Wartefrist, Kappungsgrenze
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 558a BGB Rn. 1 ff.
-- BeckOK Mietrecht — § 558a BGB Begruendungsanforderungen
-
----
-<!-- AUDIT 27.05.2026 -->
-<!-- BGH VIII ZR 374/20 (claimed: NJW 2022, 2829 Rn. 18, Kappungsgrenze absolut / Teilzustimmung): NOT_FOUND auf dejure.org (Datum 22.06.2022 + AZ nicht vorhanden). Halluziniertes Urteil entfernt. Kein Ersatz gefunden; kein verifiziertes BGH-Urteil zur Kappungsgrenze / Teilzustimmung aus 2022 mit diesem AZ auf dejure.org nachweisbar. -->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

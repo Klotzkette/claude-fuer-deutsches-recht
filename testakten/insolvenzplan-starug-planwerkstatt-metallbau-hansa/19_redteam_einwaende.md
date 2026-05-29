@@ -73,7 +73,7 @@ Organhaftung nach § 43 Abs. 2 GmbHG: Ein Anspruch erfordert den Nachweis einer 
 
 ## Einwand 6: Abstimmungsergebnis Gruppe 1 (NordBank) unsicher
 
-**Einwand:** Die NordBank AG hat bislang keine Zustimmungssignale gegeben. Im Gespräch vom 19. Mai 2026 hat der zuständige Firmenkundenbetreuer lediglich „Prüfung intern" zugesagt. Ohne NordBank-Zustimmung ist ein Cram-Down (§ 245 InsO) notwendig. Voraussetzung des Cram-Down ist unter anderem, dass die NordBank im Plan nicht schlechter gestellt wird als im Vergleichsfall. Ist die Vergleichsrechnung hierfür wasserdicht (vgl. Einwand 1)?
+**Einwand:** Die NordBank AG hat bislang keine Zustimmungssignale gegeben. Im Gespräch vom 19. Mai 2026 hat der zuständige Firmenkundenbetreuer lediglich "Prüfung intern" zugesagt. Ohne NordBank-Zustimmung ist ein Cram-Down (§ 245 InsO) notwendig. Voraussetzung des Cram-Down ist unter anderem, dass die NordBank im Plan nicht schlechter gestellt wird als im Vergleichsfall. Ist die Vergleichsrechnung hierfür wasserdicht (vgl. Einwand 1)?
 
 **Status: Kritisch – Cram-Down-Vorbereitung parallel vorantreiben.**
 

@@ -1,6 +1,6 @@
 ---
 name: europarecht-kommandocenter
-description: "Einstiegspunkt fuer Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Pruefraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
+description: "Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Europarecht-Kommandocenter
@@ -50,10 +50,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 ## Vertiefung: Kernentscheidungen EU-Recht
 
-- EuGH, Urt. v. 05.02.1963 - 26/62 (Van Gend en Loos) — unmittelbare Wirkung EU-Recht
-- EuGH, Urt. v. 15.07.1964 - 6/64 (Costa/ENEL) — Vorranggrundsatz
-- EuGH, Urt. v. 19.11.1991 - C-6/90 (Francovich) — Staatshaftung bei Nichtumsetzung RL
-- EuGH, Urt. v. 15.07.1963 - 25/62 (Plaumann) — Klagebefugnis Privater Art. 263 AEUV
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage Kommandocenter
 

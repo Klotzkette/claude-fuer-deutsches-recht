@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-conflict-gwg-sanctions
-description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmepruefung fuer Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
+description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck
@@ -27,17 +27,11 @@ description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmepruefung fuer Co
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 23.09.2020 - III ZR 453/19, NJW 2021, 148 — Kanzlei muss nach GwG wirtschaftlich Berechtigten des Mandanten kennen; bei PEP-Status erhoehte Sorgfalt erforderlich; Unterlassung = Pflichtverletzung
-- BGH, Urt. v. 12.07.2018 - III ZR 183/17, NJW 2018, 2957 — § 43a BRAO Interessenwiderstreit: Kanzlei haftet bei Vertretung beider Seiten in Transaktion auch ohne ausgedruecklichen Schaden
-- EuGH, Urt. v. 13.07.2023 - C-55/22 — 5. Geldwaescherichtlinie: wirtschaftlich Berechtigter in Transparenzregister pflicht; Zugaenglichkeit auch fuer Anwaelte; Datenschutzgrundrecht beschraenkt Oeffentlichkeit
-- OLG Frankfurt, Urt. v. 15.11.2021 - 23 U 51/21, NZI 2022, 205 — Sanktionen: Vertrag mit sanktionierter Partei nach EU-Recht nichtig (§ 134 BGB); kein Anspruch auf Kaufpreis
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Richter/Schuurman, Geldwaeschegesetz (2021) §§ 2-17 — CDD-Pflichten bei Kanzleien
-- Henssler/Pruestell, BRAO (3. Aufl. 2019) § 43a — Interessenwiderstreit und Vertretungsverbot
-- Herzog/Muehlhausen, GwG (3. Aufl. 2022) § 43 — Verdachtsmeldepflicht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## GwG-CDD-Pruefungsmatrix
 
 | Pruefschritt | Inhalt | Nachweis | Risikostufe |
@@ -144,5 +138,5 @@ Freigabe durch: [PARTNER-NAME], [DATUM]
 ## Quellen
 
 - §§ 43a BRAO; §§ 2-17, 43 GwG; EU-Sanktionsverordnungen (EG) 833/2014, 765/2006
-- BGH III ZR 453/19 (GwG-Kanzlei-Pflicht); BGH III ZR 183/17 (Interessenwiderstreit)
-- Richter/Schuurman GwG (2021); Henssler/Pruestell BRAO § 43a
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.

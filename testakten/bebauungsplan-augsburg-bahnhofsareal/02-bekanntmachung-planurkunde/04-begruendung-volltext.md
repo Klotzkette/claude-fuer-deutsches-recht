@@ -2,7 +2,7 @@
 
 **Stadt Augsburg — Stadtplanungsamt**
 Bebauungsplan Nr. 900 mit integrierter Grünordnungsplanung
-„Augsburg-Bahnhofsviertel West"
+"Augsburg-Bahnhofsviertel West"
 
 **Begründung gemäß § 9 Abs. 8 BauGB einschließlich Umweltbericht (separate Anlage)**
 
@@ -35,9 +35,9 @@ Bearbeitung: Stadtplanungsamt Stadt Augsburg, Stadtbaurat Manfred Schimanek; Arc
 
 Mit der Stilllegung des Güter-Bahnhofs Augsburg-Hauptbahnhof (Schritt-für-Schritt 2014 bis 2020) sind westlich des Hauptbahnhofs zwischen Halderstraße, Provinostraße und Bahntrasse ca. 6,4 ha Bahnflächen entbehrlich geworden. Die DB Immobilien GmbH hat diese Flächen ab 2021 schrittweise an einen privaten Vorhabenträger veräußert (Bahnhofsquartier Augsburg GmbH & Co. KG, im Folgenden: Vorhabenträger). Dieser hat Anfang 2022 erstmalig konzeptionelle Überlegungen zu einer Quartiersentwicklung vorgelegt.
 
-Die Stadt Augsburg verfolgt mit dem Bebauungsplan Nr. 900 das Ziel, die seit der Stilllegung der Güterabfertigung brachliegenden Bahnflächen einer hochwertigen städtebaulichen Nutzung zuzuführen. Das Quartier soll als „urbanes Stadttor" Maßstäbe setzen und einen Beitrag zur dringend benötigten Wohnraumversorgung leisten.
+Die Stadt Augsburg verfolgt mit dem Bebauungsplan Nr. 900 das Ziel, die seit der Stilllegung der Güterabfertigung brachliegenden Bahnflächen einer hochwertigen städtebaulichen Nutzung zuzuführen. Das Quartier soll als "urbanes Stadttor" Maßstäbe setzen und einen Beitrag zur dringend benötigten Wohnraumversorgung leisten.
 
-**[Markierung Kanzlei Brögel:** Formulierung „dringend benötigte Wohnraumversorgung" ist Standard-Topos. Sie ersetzt nicht die Prüfung der Erforderlichkeit § 1 Abs. 3 BauGB konkret für 480 Wohneinheiten in diesem Mischungsverhältnis mit Bürotürmen, Hotel etc. Eine wohnraumbedarfsbezogene Analyse, die das Verhältnis Wohnen : Büro : Hotel rechtfertigt, fehlt. **]**
+**[Markierung Kanzlei Brögel:** Formulierung "dringend benötigte Wohnraumversorgung" ist Standard-Topos. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit. **]**
 
 ## 2. Ziele und Zwecke
 
@@ -49,9 +49,9 @@ Folgende Ziele werden mit der Planung verfolgt:
 - Schaffung eines Hotelstandorts (rd. 280 Zimmer),
 - Anlage öffentlicher Freiflächen und eines Quartiersplatzes,
 - Umsetzung der mobilitätsbezogenen Klimaschutzziele der Stadt Augsburg (Stadtratsbeschluss 14.12.2023, autoarme Quartiere),
-- Schaffung eines städtebaulich markanten „Stadttors" mit Hochhauspunkt am Übergang Halderstraße/Bahn.
+- Schaffung eines städtebaulich markanten "Stadttors" mit Hochhauspunkt am Übergang Halderstraße/Bahn.
 
-**[Markierung Kanzlei Brögel:** Die Ziele „Hochhauspunkt" und „autoarmes Quartier" sind klar erst durch den Vorhabenträger-Vorschlag 2022 in die Planung eingeflossen, nicht aus eigenständigem städtebaulichen Konzept der Stadt entstanden. Indiz für Gefälligkeitsplanung. **]**
+**[Markierung Kanzlei Brögel:** Die Ziele "Hochhauspunkt" und "autoarmes Quartier" sind klar erst durch den Vorhabenträger-Vorschlag 2022 in die Planung eingeflossen, nicht aus eigenständigem städtebaulichen Konzept der Stadt entstanden. Indiz für Gefälligkeitsplanung. **]**
 
 ## 3. Plangebiet und Bestand
 
@@ -77,7 +77,7 @@ Die südlich angrenzende Bebauung an der Provinostraße ist überwiegend gründe
 
 ### 4.1 Flächennutzungsplan
 
-Der wirksame Flächennutzungsplan der Stadt Augsburg vom 13.02.2017 stellt den Geltungsbereich als **„Bahnanlage"** dar. Eine Anpassung des B-Plans an den FNP wird im Wege der Berichtigung gemäß § 13 Abs. 2 S. 2 BauGB durchgeführt; eine förmliche FNP-Änderung wird parallel oder nachgehend vorbereitet.
+Der wirksame Flächennutzungsplan der Stadt Augsburg vom 13.02.2017 stellt den Geltungsbereich als **"Bahnanlage"** dar. Eine Anpassung des B-Plans an den FNP wird im Wege der Berichtigung gemäß § 13 Abs. 2 S. 2 BauGB durchgeführt; eine förmliche FNP-Änderung wird parallel oder nachgehend vorbereitet.
 
 **[Markierung Kanzlei Brögel: § 13 Abs. 2 S. 2 BauGB ist hier sachlich falsch zitiert.** § 13 Abs. 2 betrifft das beschleunigte Verfahren bei B-Plan-Änderungen, nicht die FNP-Anpassung. Die FNP-Berichtigung ist nach **§ 13a Abs. 2 Nr. 2 BauGB** (im beschleunigten Verfahren) oder über **§ 8 Abs. 3 BauGB (Parallelverfahren)** zu klären. Hier hätte ein Parallelverfahren (gleichzeitige FNP-Änderung) erfolgen müssen. **Verstoß gegen Anpassungsgebot § 8 Abs. 2 BauGB.**
 
@@ -85,7 +85,7 @@ Hinzu kommt: Bei Bahnflächen, die noch nicht entwidmet sind, kann auch die FNP-
 
 ### 4.2 Sonstige Planungen
 
-- Landschaftsplan Augsburg: Fläche als „Bahnanlage" ohne Pflege-Hinweise.
+- Landschaftsplan Augsburg: Fläche als "Bahnanlage" ohne Pflege-Hinweise.
 - Lärm-Aktionsplan Augsburg 2018: Hinweise auf hohe Bahnlärm-Belastung im Bereich.
 - Klimaschutz-Konzept Augsburg 2030: Förderung Innenentwicklung mit autoarmen Quartieren.
 
@@ -132,7 +132,7 @@ Die festgesetzte GFZ (Geschossflächenzahl) liegt mit Werten bis 4,5 (MU 1 Hochh
 
 Die Wandhöhen werden gestaffelt festgesetzt — Hochhauspunkt MU 1 bis 42 m, übrige Bereiche MU 1 / MU 2 / MU 3 bis 28 m. Das städtebauliche Gesamtkonzept sieht eine Höhenstaffelung von Osten (Bahn-zugewandte Seite mit Hochhauspunkt) nach Westen (Riedingerstraße) und Süden (Provinostraße) vor, um eine harmonische Anpassung an die niedriger ausgebildete Bestandsbebauung zu erreichen.
 
-**[Markierung Kanzlei Brögel:** Die Behauptung einer „harmonischen Anpassung" an die Bestandsbebauung im Süden (Provinostraße) hält einer Überprüfung nicht stand. Die Provinostraße-Bestandsbebauung ist drei- bis viergeschossig (12 — 16 m Wandhöhe). Das **MU 3 wird mit 28 m Wandhöhe direkt gegenüber** der dreigeschossigen Bestandsbebauung festgesetzt. Das ist keine „Staffelung", sondern eine **abrupte Höhendifferenz**. Verschattung der Provinostraße-Bestandsgebäude in den Wintermonaten wird unzureichend gewürdigt — Verschattungsstudie wurde erst NACH der Auslegung erstellt. **Abwägungsdefizit § 1 Abs. 7 BauGB.** **]**
+**[Markierung Kanzlei Brögel:** Die Behauptung einer "harmonischen Anpassung" an die Bestandsbebauung im Süden (Provinostraße) hält einer Überprüfung nicht stand. Die Provinostraße-Bestandsbebauung ist drei- bis viergeschossig (12 — 16 m Wandhöhe). Das **MU 3 wird mit 28 m Wandhöhe direkt gegenüber** der dreigeschossigen Bestandsbebauung festgesetzt. Das ist keine "Staffelung", sondern eine **abrupte Höhendifferenz**. Verschattung der Provinostraße-Bestandsgebäude in den Wintermonaten wird unzureichend gewürdigt — Verschattungsstudie wurde erst NACH der Auslegung erstellt. **Abwägungsdefizit § 1 Abs. 7 BauGB.** **]**
 
 ### 6.3 Geschäftsbereiche und Hotel
 
@@ -176,7 +176,7 @@ Die Stellplatzreduzierung von 1,0 (Stellplatzsatzung Augsburg 2018) auf **0,3 St
 - AVV-Jahresticket-Förderung für jede Wohneinheit (24 Monate),
 - 2,0 Fahrradabstellplätze je Wohneinheit (davon mindestens 30 % Lastenrad-tauglich).
 
-**[Markierung Kanzlei Brögel:** Die behauptete „Tragfähigkeit" des Mobilitätskonzepts ist substanziell nicht belegt:
+**[Markierung Kanzlei Brögel:** Die behauptete "Tragfähigkeit" des Mobilitätskonzepts ist substanziell nicht belegt:
 
 a) Das Konzept liegt nur als **zweiseitige Stichpunktliste vom 03.05.2024** vor (drei Wochen vor Satzungsbeschluss).
 
@@ -186,7 +186,7 @@ c) Eine **Vereinbarung** des Vorhabenträgers zur 24-Monats-AVV-Förderung ist n
 
 d) Die **Übertragbarkeit** auf nachfolgende Eigentümer (insbesondere bei WEG-Aufteilung) ist rechtlich nicht abgesichert.
 
-**Art. 47 Abs. 2 Satz 2 BayBO verlangt ein „tragfähiges" Mobilitätskonzept — das vorliegende Konzept genügt diesen Anforderungen nicht.** **]**
+**Art. 47 Abs. 2 Satz 2 BayBO verlangt ein "tragfähiges" Mobilitätskonzept — das vorliegende Konzept genügt diesen Anforderungen nicht.** **]**
 
 ## 8. Immissionsschutz
 
@@ -254,7 +254,7 @@ Eingriffs-Ausgleichs-Bilanz nach Bayerischem Modell ist unter B-2 ausgewiesen.
 
 ## 11. Bahnflächen / § 38 BauGB
 
-Die Flächen Fl.-Nrn. 1422/1 bis 1422/8 (DB Netz AG / DB Immobilien) waren zum Zeitpunkt der Auslegung des Bebauungsplans noch **nicht förmlich entwidmet** im Sinne des § 23 AEG. Die DB Netz AG hat mit Schreiben vom 08.02.2024 mitgeteilt, dass eine Entscheidung über die Entwidmung „voraussichtlich in Q4/2024" zu erwarten sei.
+Die Flächen Fl.-Nrn. 1422/1 bis 1422/8 (DB Netz AG / DB Immobilien) waren zum Zeitpunkt der Auslegung des Bebauungsplans noch **nicht förmlich entwidmet** im Sinne des § 23 AEG. Die DB Netz AG hat mit Schreiben vom 08.02.2024 mitgeteilt, dass eine Entscheidung über die Entwidmung "voraussichtlich in Q4/2024" zu erwarten sei.
 
 Die Stadt Augsburg geht davon aus, dass die Entwidmung bis zur Bekanntmachung des B-Plans abgeschlossen sein wird; eine entsprechende Verzahnung wurde mit DB vereinbart.
 
@@ -313,7 +313,7 @@ Diese Belange werden in der Abwägung berücksichtigt (siehe `06-abwaegung/01-ab
 
 Die Stadt Augsburg hält die mit dem Bebauungsplan Nr. 900 verfolgten städtebaulichen Ziele für rechtlich tragfähig und für überwiegend mit den schutzwürdigen Belangen vereinbar. Die festgestellten Konflikte (Lärm, Verschattung, Verkehr) werden durch die festgesetzten Schallschutz- und Vermeidungsmaßnahmen sowie das Mobilitätskonzept ausgeglichen. Die Erforderlichkeit der Planung ergibt sich aus der Notwendigkeit zur Reaktivierung der Bahnbrache, zur Schaffung von Wohnraum und zur Schaffung eines städtebaulichen Schwerpunkts am Hauptbahnhof.
 
-**[Markierung Kanzlei Brögel:** Eine echte „zusammenfassende Bewertung" mit Abwägung der widerstreitenden Belange fehlt. Die Schluss-Aussage ist formelhaft und ohne substantielle Auseinandersetzung mit den im Verfahren erhobenen Einwendungen, insbesondere zu
+**[Markierung Kanzlei Brögel:** Eine echte "zusammenfassende Bewertung" mit Abwägung der widerstreitenden Belange fehlt. Die Schluss-Aussage ist formelhaft und ohne substantielle Auseinandersetzung mit den im Verfahren erhobenen Einwendungen, insbesondere zu
 
 - Lärm Tiefgaragenzufahrt MU 3 (Hauptanliegen Mandantin),
 - Verschattung Bestandsbebauung Provinostraße,

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich
-description: "Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Pruefraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie)."
+description: "Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Prüfraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie)."
 ---
 
 # Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
@@ -113,7 +113,6 @@ Stand: 05/2026. StVG, § 254 BGB. BGH-Linie zu Schmerzensgeld stabil.
 
 ## Aktuelle Rechtsprechung Quotenverhandlung
 
-- OLG Saarbruecken, Urt. v. 02.06.2022 - 4 U 89/21, NJW-RR 2022, 1290 — Mitverschuldensquote § 254 BGB bei Radfahrer ohne Helm: fehlender Helm ist nur dann mitursaechlich, wenn der Schaden durch Helm haette verhindert oder vermindert werden koennen.
-- BGH, Urt. v. 11.02.2020 - VI ZR 286/19, NJW 2020, 2116 — Reichweite der Gefaehrdungshaftung des Halters eines Anhaengers (§ 7 Abs. 1 StVG): Haftung besteht, solange ein durch pflichtwidriges Abstellen verursachter Gefahrenbereich fortwirkt; kein Erfordernis, dass der Schaden nur durch ein Fahrzeug verursacht werden kann.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- audit: 27.05.2026 — VI ZR 73/22 (NOT_FOUND auf dejure.org) geloescht; VI ZR 233/19 (NOT_FOUND auf dejure.org) geloescht; VI ZR 286/19 WRONG_TOPIC korrigiert: Thema Anhaenger-Gefaehrdungshaftung § 7 StVG, NJW-Zitat 2020 2116 (nicht 1876), Quelle dejure.org/2020,9266. -->

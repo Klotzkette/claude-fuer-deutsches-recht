@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitspruefung. Pruefraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverstaendigen-Gutachten, Hilfsantraege Replik-Vorausschau. Output vollstaendiger Schriftsatz mit Antrag Begruendung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission."
+description: "Substantiierter Schriftsatzkern für Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverständigen-Gutachten, Hilfsanträge Replik-Vorausschau. Output vollständiger Schriftsatz mit Antrag Begründung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission."
 ---
 
 # Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht
@@ -198,25 +198,18 @@ Vor Versand:
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 20.09.2011 — **VI ZR 55/09**, NJW 2012, 227 Rn. 20: Im Arzthaftungsprozess hat der Kläger (Patient) grundsätzlich den vollen Beweis für den Behandlungsfehler, dessen Kausalität und den Schaden zu führen; bei einem groben Behandlungsfehler dreht sich die Beweislast zur Kausalität gemäß § 630h Abs. 5 BGB um — der Arzt muss beweisen, dass der grobe Fehler für den Schaden nicht ursächlich war.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 02.07.2013 — **VI ZR 554/12**, NJW 2013, 3094: Auch eine nicht grob fehlerhafte Unterlassung der Befunderhebung kann zur Beweislastumkehr hinsichtlich der haftungsbegründenden Kausalität führen, wenn die gebotene Abklärung mit hinreichender Wahrscheinlichkeit einen so deutlichen und gravierenden Befund ergeben hätte, dass dessen Verkennung als fundamental oder die Nichtreaktion darauf als grob fehlerhaft zu bewerten wäre; diese Fehler müssen generell geeignet sein, den tatsächlich eingetretenen Gesundheitsschaden herbeizuführen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerfG, Beschl. v. 08.11.2006 — **1 BvR 2378/05**, NJW 2007, 663 Rn. 12: Aus dem Grundsatz des fairen Verfahrens (Art. 20 Abs. 3, Art. 2 Abs. 1 GG) folgt, dass Sachverständigenbeweis im Arzthaftungsverfahren für den Patienten zugänglich sein muss; Gericht darf Privatgutachten des Klägers nicht ohne sachlichen Grund ignorieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BSG, Urt. v. 23.06.2015 — **B 1 KR 26/14 R**, BSGE 119, 196 Rn. 18: Im sozialgerichtlichen Klageverfahren gegen Krankenkassen-Regress-Bescheid trägt der Vertragsarzt die Beweislast für das Vorliegen von Praxisbesonderheiten; Tatsachenvortrag muss konkret, quartalsbezogen und diagnosespezifisch sein.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Ergänzung Paragrafenkette Arzthaftungsklage
 
 § 630h BGB (Beweislastverteilung) → §§ 630a, 630e BGB (Behandlungs- und Aufklärungspflicht) → § 823 Abs. 1, § 253 BGB (deliktische Ansprüche, Schmerzensgeld) → § 286 ZPO (freie Beweiswürdigung) → § 287 ZPO (Schadensschätzung Arzthaftung) → § 402 ZPO (Sachverständigenbeweis) → §§ 249 ff. BGB (Schadensumfang, Heilbehandlungskosten, Haushaltsführungsschaden)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Geiß/Greiner, Arzthaftpflichtrecht, 7. Aufl. 2021, B I-III: Substanziierungsanforderungen, Beweislastverteilung und Sachverständigenbeweis im Arzthaftungsprozess.
-- MüKoBGB/Wagner, 9. Aufl. 2024, § 630h Rn. 1 ff.: Beweislastregeln §§ 630a–h BGB; Vertiefung Vollbeweislast vs. Umkehr bei grobem Fehler.
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 228/14 (NJW 2015, 2101) – NOT_FOUND; dejure.org bestätigt: keine Entscheidung des BGH vom 24.03.2015 mit diesem Aktenzeichen vorhanden.
-Maßnahme: Ersetzt durch BGH VI ZR 554/12, 02.07.2013, NJW 2013, 3094 (Befunderhebungsfehler/Beweislastumkehr, verifiziert auf dejure.org).
-Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.03.2015&Aktenzeichen=VI+ZR+228%2F14
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

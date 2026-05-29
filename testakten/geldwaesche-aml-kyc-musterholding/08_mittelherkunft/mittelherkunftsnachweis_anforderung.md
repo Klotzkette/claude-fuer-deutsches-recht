@@ -22,7 +22,7 @@
 
 Sehr geehrter Herr Moldovan,
 
-wir beziehen uns auf die laufenden Verhandlungen über den Distributorvertrag Nr. MH-DTS-2026-04 sowie auf die uns am 28.04.2026 zugegangene Überweisung in Höhe von **187.500,00 EUR** von der Adriatic Commerce Ltd., Valletta, Malta (Verwendungszweck: „Advance Payment – Contract MH-DTS-2026-04").
+wir beziehen uns auf die laufenden Verhandlungen über den Distributorvertrag Nr. MH-DTS-2026-04 sowie auf die uns am 28.04.2026 zugegangene Überweisung in Höhe von **187.500,00 EUR** von der Adriatic Commerce Ltd., Valletta, Malta (Verwendungszweck: "Advance Payment – Contract MH-DTS-2026-04").
 
 Im Rahmen unserer gesetzlichen Pflichten nach dem **Geldwäschegesetz (GwG)** sind wir als Verpflichtete gehalten, bei Geschäftsbeziehungen und Transaktionen, die bestimmte Risikomerkmale aufweisen, die **Herkunft der eingesetzten Mittel** zu überprüfen und zu dokumentieren. Dies gilt insbesondere bei Transaktionen mit erhöhtem Risiko gemäß § 15 Abs. 3 und 4 GwG.
 

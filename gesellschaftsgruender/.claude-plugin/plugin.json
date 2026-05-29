@@ -1,7 +1,7 @@
 {
   "name": "gesellschaftsgruender",
-  "version": "14.2.0",
-  "description": "Gruendungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl ueber Gesellschaftsvertrag und Geschaeftsfuehrervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz fuer Anwaltsberatung.",
+  "version": "24.2.0",
+  "description": "Gründungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl über Gesellschaftsvertrag und Geschäftsführervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz für Anwaltsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

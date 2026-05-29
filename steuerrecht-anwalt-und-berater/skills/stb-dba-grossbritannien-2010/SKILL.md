@@ -7,7 +7,7 @@ description: "DBA Deutschland Vereinigtes Koenigreich 2010 mit Protokollen 2014 
 
 ## Kernsachverhalt
 
-Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1334) mit Aenderungsprotokoll vom 17.03.2014 und weiteren MLI-Anpassungen regelt das Verhaeltnis zur drittwichtigsten Wirtschaftsmacht Europas. Mit Brexit (Austritt 31.01.2020, Uebergang bis 31.12.2020) wurde UK Drittstaat: Mutter-Tochter-Richtlinie, Zins-/Lizenz-Richtlinie und Fusionsrichtlinie sind seither **nicht mehr** anwendbar. DBA-Hoechstsaetze sind seither maßgeblich.
+Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1333, in Kraft 30.12.2010) mit Aenderungsprotokoll vom 17.03.2014 (BGBl. 2015 II S. 1297, in Kraft 29.12.2015) und weiterem Aenderungsprotokoll vom 12.01.2021 (BGBl. 2021 II S. 666, in Kraft 17.12.2021) regelt das Verhaeltnis zur drittwichtigsten Wirtschaftsmacht Europas. Mit Brexit (Austritt 31.01.2020, Uebergang bis 31.12.2020) wurde UK Drittstaat: Mutter-Tochter-Richtlinie, Zins-/Lizenz-Richtlinie und Fusionsrichtlinie sind seither **nicht mehr** anwendbar. DBA-Hoechstsaetze sind seither maßgeblich.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,17 +23,16 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1334) mit Aenderungsprotokoll vom 17
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Vereinigtes Koenigreich vom 30.03.2010**, in Kraft 30.12.2010 (BGBl. 2010 II S. 1334) — **verifizieren**.
-- Aenderungsprotokoll vom 17.03.2014 — **verifizieren**.
-- Aenderungsprotokoll vom 12.01.2021 (Post-Brexit) — **verifizieren**.
+- **DBA Deutschland-Vereinigtes Koenigreich vom 30.03.2010**, in Kraft 30.12.2010 (BGBl. 2010 II S. 1333; BStBl. 2011 I S. 469).
+- Aenderungsprotokoll vom 17.03.2014, in Kraft 29.12.2015, anwendbar ab 01.01.2016 (BGBl. 2015 II S. 1297).
+- Aenderungsprotokoll vom 12.01.2021, in Kraft 17.12.2021, anwendbar ab 01.01.2022 (BGBl. 2021 II S. 666).
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: UK Unterzeichner — DBA-DE-UK gilt MLI-modifiziert. **Status verifizieren**.
+- **MLI**: UK und Deutschland haben das MLI unterzeichnet und ratifiziert; DBA-DE-UK gilt MLI-modifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 51/15 zu UK-Domicile — **verifizieren**.
-- BFH I R 11/19 zu UK-Pensionen — **verifizieren**.
-- BMF-Schreiben zu Brexit-Folgen — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu DBA-UK (Domicile, Non-Dom-Status, Pensionen, Brexit-Folgen) in juris abrufen.
+- BMF-Schreiben zu Brexit-Folgen: aktuelle Fassung im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
@@ -49,16 +48,16 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1334) mit Aenderungsprotokoll vom 17
 - Loehne (Art. 14): 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/10/15 Prozent — **konkret verifizieren**. Keine EU-MTRL nach Brexit.
-- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+- **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 10 Prozent Beteiligung), 15 Prozent (Streubesitz). Keine EU-MTRL nach Brexit.
+- **Zinsen** (Art. 11): 0 Prozent.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent. Keine EU-ZinsLizenzRL nach Brexit.
 
 ### Vermeidungs-Methode (Art. 23)
 - **Anrechnungsmethode** in DBA-UK ueberwiegend.
 
 ### Besonderheiten
 - **Brexit-Folgen**: Wegfall MTRL/ZinsLizenzRL; DBA-Hoechstsaetze gelten unmittelbar.
-- **Domicile (Non-Dom)**: UK-Sonderbesteuerung; ab 2025 grundlegend reformiert — **konkrete UK-Reform 2025/2026 verifizieren**.
+- **Non-Dom-Reform UK 2025**: Das bisherige Remittance-Basis-System (Non-Dom-Status) wurde zum 06.04.2025 abgeschafft. Neues Regime: Fuer Personen, die in den vorangegangenen 10 Steuerjahren nicht in UK ansaessig waren, gilt ein 4-jaehriges "Foreign Income and Gains" (FIG)-Regime mit weitgehender Steuerbefreiung auslaendischer Einkuenfte. Konkrete Auswirkungen auf DBA-Berechtigung und Ansaessigkeit im Einzelfall pruefen.
 - **City-Branchen**: Finanzdienstleister mit grenzueberschreitenden Strukturen — Substanz und Funktionsanalyse.
 - **Wegzugsbesteuerung § 6 AStG**: UK als Drittland — Stundung schwieriger als bei EU-Mitgliedern.
 - **Pensionen**: National Insurance, Workplace Pensions, SIPPs — unterschiedliche Behandlung.
@@ -89,7 +88,7 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1334) mit Aenderungsprotokoll vom 17
 ## Strategie und Praxis-Tipps
 
 - Brexit: Schachtel-Dividenden UK an deutsche Mutter: jetzt Quellensteuer (vor Brexit MTRL 0 Prozent). § 50d Abs. 3 EStG-Substanztest.
-- Non-Dom-Reform UK 2025: Auswirkungen auf Ansaessigkeit, DBA-Berechtigung. **konkret verifizieren**.
+- Non-Dom-Reform UK 2025: Ab 06.04.2025 gilt das neue FIG-Regime fuer Neuankoemmlinge mit 10 Jahren Nicht-Ansaessigkeit; Auswirkungen auf DBA-Berechtigung und Subject-to-Tax pruefen.
 - Wegzugsbesteuerung § 6 AStG bei Wegzug UK: Drittland-Regelungen seit ATAD 2022 strenger.
 - Bei Sportlern/Kuenstlern in UK: Art. 17 DBA, HMRC-Quellensteuer.
 - UK-Pensionen: Workplace Pension Auszahlung als Kapital — steuerliche Einordnung pruefen.
@@ -100,4 +99,6 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1334) mit Aenderungsprotokoll vom 17
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-UK 30.03.2010, in Kraft 30.12.2010. Aenderungsprotokolle 17.03.2014 und 12.01.2021. Brexit 31.01.2020 / 31.12.2020. **Datum, BGBl-Fundstellen, MLI-Notifications, Non-Dom-Reform-Stand und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-UK 30.03.2010, in Kraft 30.12.2010 (BGBl. 2010 II S. 1333). Aenderungsprotokolle: 17.03.2014 (BGBl. 2015 II S. 1297), 12.01.2021 (BGBl. 2021 II S. 666). Brexit 31.01.2020 / 31.12.2020. Non-Dom-Reform: ab 06.04.2025 neues FIG-Regime.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-streitwert-berechnen-gkg
-description: "Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverstaendigen-Kosten. Mit Beispielen fuer typische Streitwerte und Tabellen-Hinweisen zur Verifikation."
+description: "Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation."
 ---
 
 # Was kostet eine Klage vor dem Amtsgericht?
@@ -49,7 +49,7 @@ Gerichtsgebuehren = Verfahrensgebuehr 3,0 (im Klageverfahren). Bei Anwendung der
 - Streitwert bis 3.000 EUR: 1,0 ca. 108 EUR → 3,0 ca. 324 EUR.
 - Streitwert bis 5.000 EUR: 1,0 ca. 161 EUR → 3,0 ca. 483 EUR.
 
-**Werte aktualisieren** — die letzte GKG-Aenderung verifizieren in juris/beck-online oder ueber das Justizportal.
+**Werte aktualisieren** — die letzte GKG-Aenderung verifizieren in amtliche/freie Quellen oder lizenzierte Datenbanken oder ueber das Justizportal.
 
 Bei Vergleich: Verfahrensgebuehr reduziert sich auf 1,0 (statt 3,0). Erheblicher Anreiz, sich zu vergleichen.
 

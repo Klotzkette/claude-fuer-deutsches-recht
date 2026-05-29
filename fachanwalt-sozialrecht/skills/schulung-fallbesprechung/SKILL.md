@@ -1,6 +1,6 @@
 ---
 name: schulung-fallbesprechung
-description: "Strukturierte Fallbesprechung fuer Schulung Inhouse-Fortbildung Referendariats-AG oder Pruefungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und fuehrt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Musterloesung. Eignet sich fuer 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Testakte sozialrecht-rollstuhl-tannenberg in der vier disparate Faelle einer Familie als Trainings-Setting vorliegen."
+description: "Strukturierte Fallbesprechung für Schulung Inhouse-Fortbildung Referendariats-AG oder Prüfungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und führt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Musterlösung. Eignet sich für 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Testakte sozialrecht-rollstuhl-tannenberg in der vier disparate Faelle einer Familie als Trainings-Setting vorliegen."
 ---
 
 # Schulungs-Fallbesprechung — Trainerleitfaden
@@ -29,7 +29,7 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 - Frist wird mit Bescheid-Datum verwechselt statt mit Zugang
 - Eilbedarf wird unterschaetzt (Hilfsmittel als Standardfall)
 
-**Diskussionsfrage:** „Was waere die schlechteste Entscheidung in dieser Stunde?"
+**Diskussionsfrage:** "Was waere die schlechteste Entscheidung in dieser Stunde?"
 
 **Musterlösung:** Routing-Karte ausfuellen.
 
@@ -100,15 +100,15 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 
 ### Eisbrecher zum Start
 
-„Wenn ein Bescheid in Ihrer Kanzlei eingeht — was tun Sie in den ersten 60 Sekunden? Drei Worte." (Sammlung an Flipchart — Frist, Zugang, Mandant, Rechtsgebiet …)
+"Wenn ein Bescheid in Ihrer Kanzlei eingeht — was tun Sie in den ersten 60 Sekunden? Drei Worte." (Sammlung an Flipchart — Frist, Zugang, Mandant, Rechtsgebiet …)
 
 ### Auflocker
 
-„Welcher Skill aus dem Plugin würden Sie noch erfinden?"
+"Welcher Skill aus dem Plugin würden Sie noch erfinden?"
 
 ### Abschlussfrage
 
-„Was nehmen Sie morgen Vormittag in Ihre Kanzlei mit?"
+"Was nehmen Sie morgen Vormittag in Ihre Kanzlei mit?"
 
 ## Bewertungsraster für Trainer
 
@@ -126,7 +126,7 @@ Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder 
 ## Anschluss-Skills
 
 - alle aufgerufenen Skills je Station
-- `fristenbuch-sozialrecht` als Eintrag „heute Schulung durchgeführt"
+- `fristenbuch-sozialrecht` als Eintrag "heute Schulung durchgeführt"
 
 ## Triage — kläre vor der Schulung
 
@@ -138,12 +138,8 @@ Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder 
 
 ## Aktuelle Rechtsprechung — didaktische Querschnittsnormen für Schulungen
 
-- BSG, Urt. v. 14.12.2016 - B 4 AS 60/15 R, SozR 4-4200 § 43 Nr. 3 Rn. 17 — In der Schulungspraxis besonders lehrreich: Das BSG verdeutlicht hier, wie Amtsermittlung (§ 103 SGG) und Mitwirkungspflichten (§§ 60 ff. SGB I) sich ergänzen — Gericht muss von Amts wegen ermitteln, auch wenn der Kläger keine Beweisanträge stellt.
-- BSG, Urt. v. 26.05.2011 - B 14 AS 54/10 R, SozR 4-1500 § 84 Nr. 4 Rn. 14 — Musterfall für Station 2 (Bescheidanalyse): das Gericht analysiert eine fehlerhafte Rechtsbehelfsbelehrung, die die Jahresfrist auslöst; typischer Fehler in Behördenbescheiden, den Berufseinsteiger häufig übersehen.
-- BSG, Urt. v. 29.11.2012 - B 14 AS 196/11 R, SozR 4-4200 § 22 Nr. 62 Rn. 21 — Fristberechnungs-Lehrbeispiel: das Urteil demonstriert die Anwendung des § 26 SGB X iVm §§ 187 ff. BGB — Wochenende-Verschiebung, Feiertag, Postfiktionen. Ideal für Station 1 (Triage-Übung).
-- BSG, Urt. v. 09.03.2016 - B 14 KG 1/15 R, SozR 4-4200 § 40 Nr. 12 Rn. 15 — Für Station 3 (Strategiebesprechung): das Urteil illustriert, wann ein Überprüfungsantrag nach § 44 SGB X statt Widerspruch zu wählen ist — wichtige Weichenstellung, die Berufsanfänger oft verwechseln.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses — Standardwerk für alle Prozessrechts-Stationen
-- Hauck/Noftz SGB I-XII — Kommentarwerk für materiellrechtliche Detailfragen je Fall
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

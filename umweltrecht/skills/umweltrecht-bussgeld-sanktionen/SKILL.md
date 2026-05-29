@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-bussgeld-sanktionen
-description: "Unternehmen erhaelt Anhoerung oder Bussgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bussgeld bis 100000 EUR. Pruefraster Tatbestandspruefung Verjaehrung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung)."
+description: "Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung)."
 ---
 
 # Bussgeld, Sanktionen und Anhoerung im Umweltrecht
@@ -31,17 +31,11 @@ description: "Unternehmen erhaelt Anhoerung oder Bussgeld-Bescheid wegen Umwelt-
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 22.06.2023 — 7 C 18.22, NVwZ 2023, 1456 — § 62 BImSchG; Ordnungswidrigkeitstatbestand setzt Vorsatz oder Fahrlassigkeit voraus; blosze objektive Pflichtverletzung genuegt nicht; Betreiberpflicht bei Wechsel der Verantwortlichen.
-- OVG Nordrhein-Westfalen, Beschl. v. 10.02.2022 — 15 E 450/21 — Akteneinsicht § 49 OWiG im Bussgeldverfahren; vollstaendiges Akteneinsichtsrecht; Behoerde darf nur bei Gefaehrdung anderer Ermittlungen beschraenken.
-- BGH, Beschl. v. 27.04.2021 — KRB 12/20, NJW 2021, 2287 — § 30 OWiG; Verbandsgeldbuse; Zumessung nach wirtschaftlichem Vorteil und Schwere der Pflichtverletzung; keine Doppelbestrafung bei parallelem Bussgeld GF und jur. Person.
-- VG Duesseldorf, Urt. v. 15.09.2023 — 17 K 4411/22 — Nachtraegliche Auflagen § 17 BImSchG als Alternative zu Bussgeld; Verhaeltnismaessigkeit; milderes Mittel vorrangig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Rebmann/Roth/Herrmann OWiG §§ 30, 31, 55, 67, 68 (Verbandsbussgeld, Verjaeahrung, Anhoerung)
-- Kloepfer Umweltrecht § 7 Rn. 100-180 (Durchsetzung und Sanktionen)
-- Jarass BImSchG §§ 62-64 (Bussgeld- und Straftatbestaende)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 

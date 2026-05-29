@@ -1,6 +1,6 @@
 ---
 name: anfg-unentgeltliche-leistung-4
-description: "Anfechtung unentgeltlicher Leistungen ausserhalb der Insolvenz pruefen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Pruefraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen fuer Anstandsschenkungen, kein Verschuldenserfordernis. Output: Pruefergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeroffnung)."
+description: "Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung)."
 ---
 
 # Unentgeltliche Leistung — § 4 AnfG
@@ -21,16 +21,11 @@ description: "Anfechtung unentgeltlicher Leistungen ausserhalb der Insolvenz pru
 
 ## Rechtsprechung (BGH — Leitsätze § 4 AnfG / unentgeltliche Leistung)
 
-- BGH, Urt. v. 07.11.2013 - IX ZR 248/12, NJW 2014, 231 — Zum Begriff der Unentgeltlichkeit i.S.v. § 4 AnfG: Maßgeblich ist der objektive Wert der Gegenleistung; subjektive Wertvorstellungen des Schuldners sind unerheblich.
-- BGH, Urt. v. 24.07.2014 - IX ZR 313/13, NJW 2014, 2870 — Zur gemischten Schenkung im Rahmen des § 4 AnfG: Anfechtung ist auf den unentgeltlichen Teil beschränkt; verhältnismässige Aufteilung nach Verkehrswert.
-- BGH, Urt. v. 05.06.2008 - IX ZR 17/07, NJW 2008, 2580 — Zur Ausnahme des § 4 Abs. 2 AnfG (sittliche Pflicht): enge Auslegung; übliche Gelegenheitsgeschenke in bescheidenem Umfang; Massstab ist Lebensstellung des Schenkers.
-- BGH, Urt. v. 19.04.2018 - IX ZR 241/17, NJW 2018, 2561 — Zur Anfechtung von Grundstücksübertragungen nach § 4 AnfG: Fristbeginn mit Vollendung der Übertragung (Grundbucheintragung); Verpflichtungsgeschäft allein reicht nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MüKo InsO/Kirchhof § 4 AnfG Rn. 1 ff. (Unentgeltliche Leistung und Ausnahmen)
-- Uhlenbruck InsO § 4 AnfG Rn. 1 ff. (Abgrenzung und gemischte Schenkung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Anfechtbar sind unentgeltliche Leistungen des Schuldners, es sei denn, sie sind früher als vier Jahre vor der Anfechtungserklärung vorgenommen worden (§ 4 Abs. 1 AnfG).

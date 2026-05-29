@@ -1,6 +1,6 @@
 ---
 name: phishing-vorfall-pruefen
-description: "Prueft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprueche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlaessigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Pruefraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlaessigkeit Beweislast Banklogs Ombudsmann. Output Pruefvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin."
+description: "Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin."
 ---
 
 # Phishing-Vorfall Prüfen
@@ -119,10 +119,7 @@ python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/
 ```
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 26.01.2016 — XI ZR 91/14, NJW 2016, 2260 Rn. 22: § 675u BGB — Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang; Beweislast liegt beim Zahlungsdienstleister fuer Autorisierung.
-- BGH, Urt. v. 24.04.2012 — XI ZR 96/11, NJW 2012, 2422 Rn. 18: Grobe Fahrlaessigkeit § 675v BGB — TAN-Weitergabe am Telefon an angeblichen Bankmitarbeiter kann grobe Fahrlaessigkeit begruenden; Warnhinweise der Bank massgeblich.
-- BGH, Urt. v. 25.03.2014 — XI ZR 187/13, NJW 2014, 1958 Rn. 14: Call-ID-Spoofing — Taeuschung ueber Anrufer-Identitaet schliessst grobe Fahrlaessigkeit nicht automatisch aus; Einzelfallbewertung erforderlich.
-- OLG Frankfurt, Urt. v. 27.06.2022 — 1 U 76/22, NJW-RR 2022, 1245 Rn. 28: PushTAN-Phishing — Weitergabe des TAN-Codes aus App-Nachricht an Dritte trotz eindeutiger Warntexte als grobe Fahrlaessigkeit; § 675v Abs. 3 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 675u BGB — Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang
@@ -131,11 +128,9 @@ python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/
 - § 675l BGB — Pflichten des Zahlers zum Schutz personalisierter Sicherheitsmerkmale
 - PSD2-RL (EU 2015/2366) — Zahlungsdiensterichtlinie; in BGB umgesetzt
 
-## Kommentarliteratur
-- Ellenberger/Bunte, Bankrecht und Bankpraxis, 2022, § 675u BGB Rn. 15 ff.: Erstattungsanspruch bei Online-Phishing.
-- Grüneberg, BGB, 83. Aufl. 2024, § 675v Rn. 5 ff.: Grobe Fahrlaessigkeit im Online-Banking.
-- Schwintowski, Bankrecht, 6. Aufl. 2023, Kap. 10 Rn. 45 ff.: Phishing und Beweislastverteilung.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. War der Zahlungsvorgang autorisiert — hat Mandant konkret dieser Zahlung zugestimmt oder nur einem Sicherheitsvorgang?
 2. Welcher Phishing-Kanal wurde genutzt — Call-ID-Spoofing, SMS, E-Mail, Messenger, Malware?

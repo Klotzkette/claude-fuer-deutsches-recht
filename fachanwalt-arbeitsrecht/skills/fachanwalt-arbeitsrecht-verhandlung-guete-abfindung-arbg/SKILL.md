@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg
-description: "Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Aufloesungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Aufloesungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Aufloesungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Pruefraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie."
+description: "Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie."
 ---
 
 # Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
@@ -32,9 +32,7 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 
 ### Leitentscheidungen
 
-- BAG, Urt. v. 12.4.2007 — 2 AZR 254/06 (KSchG-Vergleich Sperrzeit)
-- BSG, Urt. v. 12.7.2006 — B 11a AL 47/05 R (Sperrzeit-Vermeidung)
-- BAG, Urt. v. 19.06.2007 — 1 AZR 340/06 (BAGE 123 121) — Abfindung nach § 1a KSchG: gesetzliche Formel 0,5 Monatsgehalt je Beschaeftigungsjahr; Parteien koennen hoeheren oder niedrigeren Betrag vereinbaren
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kommunikations-/Verhandlungs-Pfade
 
@@ -139,9 +137,7 @@ Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG
 
 ## Aktuelle Rechtsprechung (Ergaenzung v14.2)
 
-- **BAG, Urt. v. 19.12.2019 — 2 AZR 140/19**, NZA 2020, 530 — Gütetermin § 54 ArbGG; Vorsitzender muss auf mögliche Vergleichsmöglichkeit hinweisen; Parteien sind nicht zur Einigung gezwungen, aber Vorsitzender darf Vergleichsvorschlag machen.
-- **BAG, Urt. v. 28.01.2020 — 3 AZR 84/18**, NZA 2020, 694 — Abfindung nach § 1a KSchG: Arbeitnehmer muss auf diesen Weg verzichten wenn er Kündigungsschutzklage erhebt; kein paralleles Vorgehen.
-- **BSG, Urt. v. 12.07.2006 — B 11a AL 47/05 R**, BSGE 97, 31 — Sperrzeit-konforme Abfindungsformulierung; Protokollvergleich kann Sperrzeit-Klausel enthalten die BA-rechtlich anerkannt ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette
 
@@ -152,11 +148,6 @@ Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG
 - § 779 BGB — Vergleich
 - § 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Koch, 25. Aufl. 2025, ArbGG § 54 Rn. 1 ff. (Güteverhandlung, Vergleich, Protokollierung)
-- KR/Friedrich, 13. Aufl. 2022, KSchG § 9 Rn. 1 ff. (Auflösungsantrag, Abfindung)
-
-<!-- AUDIT 27.05.2026
-BAG 11 AL 65/01 (WRONG_TOPIC / falsches Gericht): Zitat war als "BAG, Urt. v. 25.4.2002 — B 11 AL 65/01 R (Faustformel-Anerkennung)" eingetragen. Laut dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=25.04.2002&Aktenzeichen=B+11+AL+65%2F01+R) handelt es sich um ein BSG-Urteil (nicht BAG) zu Sperrzeit/Arbeitslosengeld — kein Bezug zur Abfindungs-Faustformel. Ersetzt durch BAG, 19.06.2007 — 1 AZR 340/06 (BAGE 123 121): etablierte BAG-Entscheidung zur Abfindung nach § 1a KSchG mit der 0,5-Monatsgehalt-Formel je Beschäftigungsjahr.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

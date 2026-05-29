@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-haertefall-fahrverbot
-description: "Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Fuehrerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Pruefraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Pruefung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begruendung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht."
+description: "Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht."
 ---
 
 # Haertefall-Argumentation beim Fahrverbot — § 25 StVG
@@ -23,18 +23,13 @@ description: "Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 11.09.1997 - 4 StR 638/96, NJW 1997, 3252 — Fahrverbot nach § 25 StVG dient der Erzieheung und Praeventtion; Haertefall ist kein Automatismus, sondern erfordert konkrete und nachgewiesene Existenzgefaehrdung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Frankfurt a.M., Beschl. v. 18.03.2021 - 2 Ss OWi 148/21, NZV 2021, 448 — Berufsbedingte Angewiesenheit ist typischerweise kein Haertefall; der Betroffene muss zusaetzlich darlegen, dass keine Alternative zum Selbstfahren besteht und Existenzgefaehrdung nachweisbar ist.
-- OLG Muenchen, Beschl. v. 07.09.2020 - 3 Ss OWi 840/20, NZV 2021, 54 — Vier-Monats-Frist nach § 25 Abs. 2a StVG ist ein Recht des Betroffenen; das Gericht muss die Moeglichkeit der Verschiebung des Fristbeginns in der Entscheidung erwaehnen.
-- OLG Koblenz, Beschl. v. 03.11.2020 - 1 OWi 6 Ss Bs 101/20, NZV 2021, 115 — Absehen vom Fahrverbot wegen ueberlanger Verfahrensdauer (mehr als 2 Jahre seit Tat ohne grobe Fahrlassigkeit) kommt als mildernder Umstand in Betracht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG § 4 BKatV Rn. 1-15 (Regelfahrverbot, Haertefall)
-- KK-OWiG / Lutz § 25 StVG Rn. 1-25 (Fahrverbot vollstaendig)
-- Burhoff, Handbuch OWi (Haertefall-Fahrverbot), Rn. 850-900
-- Janiszewski/Jagow/Burmann § 25 StVG (Praxiswissen Fahrverbot)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Haertefall-Argumentation — Checkliste
 
 ```

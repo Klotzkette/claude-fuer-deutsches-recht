@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung
-description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Pruefraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation)."
+description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation)."
 ---
 
 # Methodenlehre und Auslegung
@@ -21,10 +21,10 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 
 ### Beispiele
 
-- „Treu und Glauben" § 242 BGB — Generalklausel, immer auslegungsbedürftig
-- „Wichtiger Grund" § 626 BGB — unbestimmter Rechtsbegriff
-- „Versammlung im Sinne des Art. 8 GG" — was ist eine Versammlung?
-- „Sache" im Sinne des § 90 BGB — Tier? Daten? Krypto-Asset?
+- "Treu und Glauben" § 242 BGB — Generalklausel, immer auslegungsbedürftig
+- "Wichtiger Grund" § 626 BGB — unbestimmter Rechtsbegriff
+- "Versammlung im Sinne des Art. 8 GG" — was ist eine Versammlung?
+- "Sache" im Sinne des § 90 BGB — Tier? Daten? Krypto-Asset?
 
 ## Schritt 2 — Die vier klassischen Auslegungs-Methoden
 
@@ -36,7 +36,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 - Juristischer Fachsprachen-Gebrauch
 - Sprachlicher Kontext im Gesetz
 
-**Beispiel**: § 90 BGB „Sachen sind nur körperliche Gegenstände." → körperlich = mit den Sinnen wahrnehmbar.
+**Beispiel**: § 90 BGB "Sachen sind nur körperliche Gegenstände." → körperlich = mit den Sinnen wahrnehmbar.
 
 ### 2. Systematische Auslegung
 
@@ -47,7 +47,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 - Verhältnis Lex specialis zu Lex generalis
 - Gesamt-Aufbau des Rechts-Gebiets
 
-**Beispiel**: § 626 BGB („wichtiger Grund") steht im Dienstverhältnis. Im Arbeitsrecht hat „wichtiger Grund" durch Spezial-Gesetze (KSchG) eine eigene Bedeutung — systematisch beeinflusst.
+**Beispiel**: § 626 BGB ("wichtiger Grund") steht im Dienstverhältnis. Im Arbeitsrecht hat "wichtiger Grund" durch Spezial-Gesetze (KSchG) eine eigene Bedeutung — systematisch beeinflusst.
 
 ### 3. Historische Auslegung
 
@@ -57,7 +57,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 - Wirtschafts- und gesellschaftliche Lage zum Gesetzgebungs-Zeitpunkt
 - Vorgänger-Normen
 
-**Beispiel**: § 138 BGB („sittenwidrig") — Gesetzgeber 1900 hatte ein anderes Sitten-Verständnis als heute. Die historische Auslegung allein reicht nicht; sie ist mit der teleologischen zu verbinden.
+**Beispiel**: § 138 BGB ("sittenwidrig") — Gesetzgeber 1900 hatte ein anderes Sitten-Verständnis als heute. Die historische Auslegung allein reicht nicht; sie ist mit der teleologischen zu verbinden.
 
 ### 4. Teleologische Auslegung (Sinn und Zweck)
 
@@ -67,7 +67,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 - Welches Übel soll vermieden werden?
 - Welche Funktion hat die Norm in der Rechts-Ordnung?
 
-**Beispiel**: § 826 BGB („vorsätzliche sittenwidrige Schädigung") — Zweck: Schutz vor besonders verwerflichem Verhalten. Sittenwidrigkeit ist daher nicht moralisch, sondern rechtsfunktional auszulegen.
+**Beispiel**: § 826 BGB ("vorsätzliche sittenwidrige Schädigung") — Zweck: Schutz vor besonders verwerflichem Verhalten. Sittenwidrigkeit ist daher nicht moralisch, sondern rechtsfunktional auszulegen.
 
 ## Schritt 3 — Verfassungs-konforme Auslegung
 
@@ -75,7 +75,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 
 - Wenn mehrere Auslegungen denkbar sind, ist die zu wählen, die verfassungs-konform ist
 - BVerfG-Linie: bei Grundrechts-Eingriffen
-- BVerfGE Band 49 Seite 304 (Zugang zur Rechtsprechung)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BVerfGE Band 88 Seite 145 (Steuer-rechtliche Auslegung)
 
 **Beispiel**: § 1004 BGB analog bei Persönlichkeitsrecht — der allgemeine Persönlichkeitsrechts-Schutz (Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG) wirkt mittelbar auf das Zivilrecht ein.
@@ -88,7 +88,7 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 - Richtlinien-konforme Auslegung Marleasing
 - Bei Richtlinien-Umsetzung: das nationale Recht ist im Licht der Richtlinie auszulegen
 
-**Beispiel**: § 312 BGB iVm Verbraucherrechte-Richtlinie 2011/83/EU — die Definition „Verbraucher" ist EU-konform auszulegen.
+**Beispiel**: § 312 BGB iVm Verbraucherrechte-Richtlinie 2011/83/EU — die Definition "Verbraucher" ist EU-konform auszulegen.
 
 ## Schritt 5 — Rechtsfortbildung
 
@@ -105,13 +105,13 @@ Wenn der Wortlaut nicht passt, der Zweck aber die Anwendung verlangt:
 - BVerfGE Band 71 Seite 354 — Voraussetzungen Analogie
 - BGH-Linien zu Einzel-Analogien
 
-**Beispiel**: § 985 BGB analog auf Daten — wenn man Daten als „Sache" im weiteren Sinne versteht.
+**Beispiel**: § 985 BGB analog auf Daten — wenn man Daten als "Sache" im weiteren Sinne versteht.
 
 ### Teleologische Reduktion
 
 - Wortlaut umfasst Fall mit, Sinn nicht
 - Norm wird einschränkend ausgelegt
-- Bei „über-schießender" Norm
+- Bei "über-schießender" Norm
 
 **Beispiel**: § 309 Nr. 8b BGB — wörtlich auch bei Reden anwendbar, aber teleologisch nur auf vertragliche Klauseln zu beschränken.
 
@@ -145,16 +145,16 @@ Die teleologische Auslegung hat häufig das letzte Wort, weil sie den **Sinn der
 ### Aufbau Auslegungs-Argumentation
 
 ```
-Streitig ist, wie der Begriff „Sache" im Sinne des § 90 BGB
+Streitig ist, wie der Begriff "Sache" im Sinne des § 90 BGB
 auszulegen ist.
 
 [Wortlaut]
-Der Wortlaut beschränkt sich auf „körperliche Gegenstände".
+Der Wortlaut beschränkt sich auf "körperliche Gegenstände".
 Im Sprachgebrauch sind dies mit den Sinnen wahrnehmbare
 materielle Dinge.
 
 [Systematik]
-Im Gesamt-System des BGB sind „Sachen" Gegenstand von
+Im Gesamt-System des BGB sind "Sachen" Gegenstand von
 Eigentum und sachen-rechtlichen Verfügungen. Eine
 Erweiterung auf nicht-körperliche Gegenstände würde
 das gesamte Sachenrecht systematisch erweitern.
@@ -189,9 +189,9 @@ geschützt.
 
 ### Bei unbestimmten Rechtsbegriffen
 
-- „Treu und Glauben" → Verkehrsanschauung
-- „Sittenwidrig" → Rechtsprechungs-Linien
-- „Verkehrserforderlich" → konkrete Maßnahmen-Bezug
+- "Treu und Glauben" → Verkehrsanschauung
+- "Sittenwidrig" → Rechtsprechungs-Linien
+- "Verkehrserforderlich" → konkrete Maßnahmen-Bezug
 
 ### Bei wertenden Generalklauseln
 

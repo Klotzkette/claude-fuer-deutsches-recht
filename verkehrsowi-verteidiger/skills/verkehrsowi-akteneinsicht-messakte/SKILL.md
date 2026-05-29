@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-akteneinsicht-messakte
-description: "Vollstaendige Messakte im OWi-Verfahren anfordern und pruefen: Pflichtverteidigung benoetigt Rohmessdaten und Eichunterlagen. Normen: § 49 OWiG i.V.m. § 147 StPO (Akteneinsicht), BVerfG NJW 2021 455 (Rohmessdaten-Recht). Pruefraster: Eichschein, Schulungsnachweis Messbeamter, Messprotokoll, Rohmessdaten, Beschilderungsplan vollstaendig. Output Akteneinsichts-Antrag, Checkliste fehlende Unterlagen, Beschwerde bei Verweigerung. Abgrenzung: Beweisverwertung siehe verkehrsowi-beweisverwertung-standardisiert; Messverfahren Details siehe verkehrsowi-messverfahren-geschwindigkeit."
+description: "Workflow-Skill zu verkehrsowi akteneinsicht messakte. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Akteneinsicht und Messakte im OWi-Verfahren
@@ -24,18 +24,11 @@ description: "Vollstaendige Messakte im OWi-Verfahren anfordern und pruefen: Pfl
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 12.11.2020 - 2 BvR 1616/18, NJW 2021, 455 — Art. 103 Abs. 1 GG verlangt Zugang zu Rohmessdaten; wenn Messgeraet keine Rohmessdaten speichert, verletzt die Verurteilung das rechtliche Gehoer des Betroffenen nicht automatisch, aber die Anforderung muss ernsthaft geprueft werden.
-- OLG Koeln, Beschl. v. 16.09.2020 - 2 RVs 97/20, NZV 2021, 42 — Im OWi-Verfahren hat der Betroffene Anspruch auf Einsicht in die vollstaendige Messakte einschliesslich aller technischen Unterlagen; pauschale Weigerung verletzt das rechtliche Gehoer.
-- OLG Stuttgart, Beschl. v. 25.07.2016 - 4 Ss 540/16, NZV 2017, 88 — Fehlende Offenbarung des Schulungsnachweises hindert eine ordnungsgemaesse Verteidigung; Ablehnung des Beweisantrags auf Sachverstaendigen-Anhörung ohne Akteneinsicht in Schulungsunterlagen ist rechtsfehlerhaft.
-- OLG Rostock, Beschl. v. 26.11.2019 - 21 Ss OWi 207/19, NZV 2020, 256 — Messakte ist vollstaendiger Bestandteil der Bussgeldsakte; Verweigerung der Herausgabe von Messunterlagen durch Behoerde ist mit Beschwerde anfechtbar.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Goehler OWiG § 49 Rn. 1-20 (Akteneinsicht im OWi-Verfahren)
-- KK-OWiG / Ellbogen § 49 Rn. 1-15 (Rechte des Betroffenen)
-- Burhoff, Handbuch OWi, S. 450-480 (Akteneinsicht in der Praxis)
-- KK-OWiG / Senge § 77 Rn. 1-30 (Beweisaufnahme)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vollstaendige Messakte — Was muss enthalten sein?
 
 ```
@@ -67,7 +60,7 @@ VERWALTUNG:
 2. **Akteneinsichtsgesuch stellen** bei der Bussgeldstelle (vor Einspruch) oder dem Amtsgericht (nach Einspruch); explizit alle Messunterlagen aufzaehlen.
 3. **Eingang kontrollieren:** Ist die Messakte vollstaendig? Fehlendes sofort schriftlich ruegen.
 4. **Eichschein-Datum pruefen:** Eichgueltigkeit zum Messzeitpunkt?
-5. **Rohmessdaten-Status ermitteln:** Wurden sie herausgegeben? Wenn nein: BVerfG NJW 2021, 455 zitieren.
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **Messprotokoll auswerten:** Aufstellungsort korrekt? Messtechnik-Vorgaben eingehalten?
 7. **Bei Verweigerung:** Beschwerde nach § 49 Abs. 2 OWiG i.V.m. § 147 Abs. 5 StPO.
 
@@ -86,7 +79,7 @@ Ich fordere vollstaendige Akteneinsicht einschliesslich:
 2. Eichschein (beglaubigte Kopie)
 3. Bedienungsanleitung [MESSGERAET]
 4. Schulungsnachweis des messenden Beamten
-5. Rohmessdaten und Statistik-Dateien (nach BVerfG NJW 2021, 455)
+5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. Messfoto hochaufloesend
 7. Beschilderungsplan / Lageplan
 

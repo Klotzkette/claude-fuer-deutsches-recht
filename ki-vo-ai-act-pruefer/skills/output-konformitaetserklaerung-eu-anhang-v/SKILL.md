@@ -1,6 +1,6 @@
 ---
 name: output-konformitaetserklaerung-eu-anhang-v
-description: "Anbieter benoetigt das fertige Musterdokument fuer die EU-Konformitaetserklaerung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitaetserklaerung. Pflichtinhalt Anhang V: eindeutige Systemidentifikation Anbieter Bevollmaechtigter Verweis auf harmonisierte Normen gemeinsame Spezifikationen oder andere Referenzen Unterzeichnung. Output: vollstaendige Muster-Konformitaetserklaerung als Formular. Abgrenzung zu hochrisiko-konformitaetsbewertung-art-43-bis-49 (Bewertungsverfahren) und eu-datenbank-registrierung-art-49-und-71 (Registrierung)."
+description: "Anbieter benoetigt das fertige Musterdokument für die EU-Konformitätserklärung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitätserklärung. Pflichtinhalt Anhang V: eindeutige Systemidentifikation Anbieter Bevollmaechtigter Verweis auf harmonisierte Normen gemeinsame Spezifikationen oder andere Referenzen Unterzeichnung. Output: vollständige Muster-Konformitätserklärung als Formular. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren) und eu-datenbank-registrierung-art-49-und-71 (Registrierung)."
 ---
 
 # Output: EU-Konformitätserklärung — Art. 47 und Anhang V KI-VO
@@ -56,9 +56,9 @@ Nr.: [Eindeutige Erklärungsnummer]
    Normen, gemeinsamen Spezifikationen oder
    sonstigen Spezifikationen, auf die sich
    die Konformitätserklärung bezieht:
-   [Verweis auf harmonisierte Normen, z.B. EN ISO/IEC 42001:2023]
-   [Verweis auf gemeinsame Spezifikationen]
-   [Verweis auf sonstige technische Spezifikationen]
+   [Harmonisierte Norm nur nennen, wenn einschlaegige Fundstelle im Amtsblatt der EU veroeffentlicht ist]
+   [Verweis auf gemeinsame Spezifikationen, falls einschlaegig]
+   [Verweis auf sonstige technische Spezifikationen, z.B. interne Tests oder ISO/IEC-Standards ohne Vermutungswirkung]
 
 8. Angaben zur beteiligten benannten Stelle
    (falls zutreffend):
@@ -95,6 +95,10 @@ Die Erklärung muss mindestens enthalten:
 
 Die EU-Konformitätserklärung ist zehn Jahre ab dem Datum des Inverkehrbringens oder der Inbetriebnahme aufzubewahren. Marktüberwachungsbehörden müssen auf Anfrage Zugang erhalten.
 
+## Verbindung zum Evidence-Pack
+
+Wenn nicht nur die Erklärung, sondern eine druckreife Konformitätsbescheinigung, ein Art.-43-Nachweis, ein Evidence Index und eine Lückenliste gebraucht werden, nutze `output-konformitaetsbescheinigung-evidence-pack`. Dieser Skill verhindert, dass eine interne Readiness-Bewertung fälschlich als finale Konformität oder als Bescheinigung einer notifizierten Stelle ausgegeben wird.
+
 ## Aktualisierung
 
 Die Erklärung ist zu aktualisieren, wenn:
@@ -107,10 +111,7 @@ Die Erklärung ist zu aktualisieren, wenn:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
@@ -119,10 +120,9 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Kommentarliteratur
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Anhang V Rn. 2: Anwendungsbereich und Pflichten.
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Wechselwirkung KI-VO und DSGVO.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?

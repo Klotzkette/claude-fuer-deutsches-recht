@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Pruefraster: Schutzrecht Verletzungshandlung Parteistellung Eilbeduerfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills."
+description: "Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistellung Eilbedürfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Marken-, Patent-, Design- und Wettbewerbsrecht
@@ -57,10 +57,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 17.10.2019 – I ZR 34/18, GRUR 2020, 401 Rn. 22 – DSDS: Vorwegnahme der Hauptsache im einstweiligen Verfuegungsverfahren setzt voraus, dass ohne Erlass der Verfuegung wesentliche Nachteile drohen; Eilbeduerftigkeits-Pruefung schon im Erstgespraech.
-- BGH, Urt. v. 28.02.2019 – I ZR 231/15, GRUR 2019, 765 Rn. 14 – Martini Baby: Parallelitaet marken- und lauterkeitsrechtlicher Ansprueche; beide Stossrichtungen im Erstgespraech erfassen.
-- BGH, Beschl. v. 07.04.2022 – I ZB 75/21, GRUR 2022, 905 Rn. 11 – Streitwert Markenverletzung: Regelstreitwert bei Markenverletzung 50.000 EUR; Erhoehung bei gesteigerter Bekanntheit.
-- OLG Duesseldorf, Beschl. v. 15.11.2021 – I-20 W 61/21, GRUR-RR 2022, 45 Rn. 8: Kein Kostenerstattungsanspruch bei verspaeteter Vollmachtsvorlage; Vollmachtsklarheit schon im Erstgespraech sichern.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -71,12 +68,9 @@ Drei Weichen am Ende des Erstgespraechs:
 - § 3a RVG — Schriftformerfordernis Stundenhonorar
 - §§ 195, 199 BGB — Regelverjaehrung 3 Jahre
 
-## Kommentarliteratur
+## Quellenregel
 
-- Gaier/Wolf/Goecken, Anwaltliches Berufsrecht (Beck) — BRAO und BORA-Kommentar
-- Hartung/Scharmer, BORA/FAO (Beck) — Standesrecht fuer Rechtsanwaelte
-- Ingerl/Rohnke, MarkenG (Beck) — fuer Fristenuebersicht Marke
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.

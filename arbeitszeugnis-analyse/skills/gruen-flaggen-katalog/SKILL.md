@@ -7,38 +7,38 @@ description: "Katalog starker positiver Formulierungen im Arbeitszeugnis, die au
 
 Grüne Flaggen sind Formulierungen, die eine sehr gute bis ausgezeichnete Leistung oder ein sehr gutes Verhalten kodieren. Sie stehen für Note 1 oder Note 2 und sind durch den Einsatz von Superlativen, Steigerungsadverbien und starken Bewertungswörtern gekennzeichnet. Ein Zeugnis mit überwiegend grünen Flaggen ist das Ziel einer jeden Zeugnisverhandlung.
 
-Die stärksten Einzelformulierungen sind: „stets zur vollsten Zufriedenheit" (Note 1-Leistungsformel), „hervorragend", „ausgezeichnet", „außerordentlich" als Bewertungsadjektive, „stets einwandfrei" als Verhaltensformel, und eine vollständige Schlussformel mit Bedauern, Dank und persönlich klingenden Zukunftswünschen. Diese Formeln sind eindeutig und werden selbst von erfahrenen Personalern als starke Signale erkannt.
+Die stärksten Einzelformulierungen sind: "stets zur vollsten Zufriedenheit" (Note 1-Leistungsformel), "hervorragend", "ausgezeichnet", "außerordentlich" als Bewertungsadjektive, "stets einwandfrei" als Verhaltensformel, und eine vollständige Schlussformel mit Bedauern, Dank und persönlich klingenden Zukunftswünschen. Diese Formeln sind eindeutig und werden selbst von erfahrenen Personalern als starke Signale erkannt.
 
-Wichtig: Nicht jede Häufung positiver Adjektive ist automatisch grün. Es kommt auf die kodierte Struktur an. „Außerordentliche Leistungen" ist grün. „Sehr gute Leistungen" ist grün bis orange, je nach Kontext. „Gute Leistungen" ist orange. Die Abstufung liegt oft in einem einzigen Wort — daher ist der Gesamtkontext entscheidend.
+Wichtig: Nicht jede Häufung positiver Adjektive ist automatisch grün. Es kommt auf die kodierte Struktur an. "Außerordentliche Leistungen" ist grün. "Sehr gute Leistungen" ist grün bis orange, je nach Kontext. "Gute Leistungen" ist orange. Die Abstufung liegt oft in einem einzigen Wort — daher ist der Gesamtkontext entscheidend.
 
-Verstärker der grünen Kategorie sind: „jederzeit", „in jeder Hinsicht", „außergewöhnlich", „in besonderem Maße", „weit über das normale Maß hinaus". Diese Adverbien und Phrasen steigern eine bereits positive Aussage weiter und können eine Note-2-Formulierung zur Note-1-Formulierung machen.
+Verstärker der grünen Kategorie sind: "jederzeit", "in jeder Hinsicht", "außergewöhnlich", "in besonderem Maße", "weit über das normale Maß hinaus". Diese Adverbien und Phrasen steigern eine bereits positive Aussage weiter und können eine Note-2-Formulierung zur Note-1-Formulierung machen.
 
 ## Geheimcode-Regeln
 
 | Grüne-Flagge-Formulierung | Bedeutung | Notentendenz |
 |---|---|---|
-| „stets zur vollsten Zufriedenheit" | Maximale Zufriedenheitsformel | Note 1 |
-| „stets zur vollen Zufriedenheit" | Sehr gute Zufriedenheitsformel | Note 2 |
-| „hervorragende Leistungen" | Höchste Leistungsqualität | Note 1 |
-| „ausgezeichnete Fachkenntnisse" | Exzellente Qualifikation | Note 1 |
-| „stets einwandfrei" (Verhalten) | Maximale Verhaltensformel | Note 1 |
-| „außerordentliches Engagement" | Weit über das Normale hinaus | Note 1 |
-| „weit über den Erwartungen" | Übererfüllung der Anforderungen | Note 1 |
-| „in besonderem Maße" | Besondere Herausragung | Note 1-2 |
+| "stets zur vollsten Zufriedenheit" | Maximale Zufriedenheitsformel | Note 1 |
+| "stets zur vollen Zufriedenheit" | Sehr gute Zufriedenheitsformel | Note 2 |
+| "hervorragende Leistungen" | Höchste Leistungsqualität | Note 1 |
+| "ausgezeichnete Fachkenntnisse" | Exzellente Qualifikation | Note 1 |
+| "stets einwandfrei" (Verhalten) | Maximale Verhaltensformel | Note 1 |
+| "außerordentliches Engagement" | Weit über das Normale hinaus | Note 1 |
+| "weit über den Erwartungen" | Übererfüllung der Anforderungen | Note 1 |
+| "in besonderem Maße" | Besondere Herausragung | Note 1-2 |
 | Vollständige warme Schlussformel | Alle drei Elemente, persönlich | Note 1-2 |
-| „jederzeit vertreten" (Schlussverstärker) | Absolut positives Gesamtzeugnis | Note 1 |
+| "jederzeit vertreten" (Schlussverstärker) | Absolut positives Gesamtzeugnis | Note 1 |
 
 ## Beispiele
 
-**Beispiel 1 – Note 1 (maximale Formel):** „Frau Dr. Wagner erfüllte alle ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit. Ihre hervorragenden Fachkenntnisse und ihr außerordentliches Engagement haben unser Unternehmen maßgeblich vorangebracht."
+**Beispiel 1 – Note 1 (maximale Formel):** "Frau Dr. Wagner erfüllte alle ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit. Ihre hervorragenden Fachkenntnisse und ihr außerordentliches Engagement haben unser Unternehmen maßgeblich vorangebracht."
 
-**Beispiel 2 – Note 2 (starke Formel):** „Herr Richter erledigte seine Aufgaben stets zur vollen Zufriedenheit. Seine Fachkenntnisse waren sehr gut und sein Verhalten gegenüber Vorgesetzten und Kollegen jederzeit einwandfrei."
+**Beispiel 2 – Note 2 (starke Formel):** "Herr Richter erledigte seine Aufgaben stets zur vollen Zufriedenheit. Seine Fachkenntnisse waren sehr gut und sein Verhalten gegenüber Vorgesetzten und Kollegen jederzeit einwandfrei."
 
-**Beispiel 3 – Vollständige grüne Schlussformel:** „Wir bedauern es sehr, Frau Krause zu verlieren, danken ihr herzlich für ihren herausragenden Beitrag zu unserem Unternehmenserfolg und wünschen ihr für ihren weiteren beruflichen und persönlichen Weg nur das Allerbeste."
+**Beispiel 3 – Vollständige grüne Schlussformel:** "Wir bedauern es sehr, Frau Krause zu verlieren, danken ihr herzlich für ihren herausragenden Beitrag zu unserem Unternehmenserfolg und wünschen ihr für ihren weiteren beruflichen und persönlichen Weg nur das Allerbeste."
 
-**Beispiel 4 – Verstärkte grüne Beurteilung:** „Seine Leistungen lagen weit über dem Durchschnitt. In jeder Hinsicht ein außerordentlicher Mitarbeiter." — Doppelter Verstärker, eindeutig Note 1.
+**Beispiel 4 – Verstärkte grüne Beurteilung:** "Seine Leistungen lagen weit über dem Durchschnitt. In jeder Hinsicht ein außerordentlicher Mitarbeiter." — Doppelter Verstärker, eindeutig Note 1.
 
-**Beispiel 5 – Grüne Verhaltensformel mit Erweiterung:** „Ihr Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei und hinterließ durchweg hervorragende Eindrücke."
+**Beispiel 5 – Grüne Verhaltensformel mit Erweiterung:** "Ihr Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei und hinterließ durchweg hervorragende Eindrücke."
 
 ## Ausgabeformat
 
@@ -51,5 +51,4 @@ Der Skill listet alle grünen Signale mit Zitat, Signaltyp (Zufriedenheitsformel
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

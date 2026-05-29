@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt
-description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant will Kindes- oder Ehegattenunterhalt berechnen oder anfechten. Normen: § 1601 ff. BGB (Verwandtenunterhalt), § 1612a BGB (Mindestunterhalt), §§ 1569-1587 BGB (nachehelicher Unterhalt), § 1361 BGB (Trennungsunterhalt). Pruefraster: Bereinigtes Nettoeinkommen (Berufsaufwendungen, Fahrtkosten, Altersvorsorge), Selbstbehalts-Saetze, Mangelfall § 1609 BGB Rangfolge, Abbaenderungsklage § 238 FamFG, Wechselmodell BGH XII ZB 234/19. Output Unterhaltsberechnung, Tabellen-Auswertung. Abgrenzung: Duesseldorfer Tabelle-Berechnung siehe unterhalt-duesseldorfer-tabelle; Trennungsunterhalt spezifisch siehe fachanwalt-familienrecht-unterhaltsberechnung."
+description: "Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle unterhalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Unterhaltsberechnung Düsseldorfer Tabelle
@@ -13,7 +13,7 @@ description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant w
 4. Trennungs-/Scheidungsdatum; seit wann wird Unterhalt verlangt?
 5. Besteht ein Unterhaltstitel (Jugendamtsurkunde, Beschluss, Vergleich)? Änderungsklage § 238 FamFG prüfen?
 6. Weitere Unterhaltspflichten (andere Kinder, Elternunterhalt, weiterer Ehegatte)?
-7. Liegt ein Wechselmodell vor — BGH XII ZB 234/19 Berechnung?
+7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 8. Hat der Unterhaltspflichtige fiktives Einkommen zu berücksichtigen (Obliegenheit zur Erwerbstätigkeit, Schwarzarbeit, verschleiertes Einkommen)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -39,11 +39,7 @@ description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant w
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | XII ZB 234/19 | 11.12.2019 | Wechselmodell-Unterhalt — gegenseitige Anrechnung; Mehrbedarf aus Einkommensunterschied |
-| BGH | XII ZR 42/17 | 18.10.2017 | Fiktives Einkommen — Obliegenheit zur vollschichtigen Erwerbstätigkeit auch bei Betreuungsunterhalt ab Schulalter |
-| BGH | XII ZB 607/16 | 07.06.2017 | Schulden-Abzug — nur unterhaltsrechtlich leistungsfähigkeitsmindernd soweit für notwendige Lebensführung |
-| BGH | XII ZR 80/14 | 05.11.2014 | Begrenzung nachehelicher Unterhalt § 1578b BGB — einvernehmliche Ehedauer als Indiz für Nachteil |
-| BGH | XII ZR 27/14 | 20.05.2015 | Betreuungsunterhalt § 1570 BGB — stufenweise Erwerbsobliegenheit; ab 3 Jahren Halbtagsstelle zumutbar |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Einkommensermittlung — Bereinigtes Netto
 
@@ -73,10 +69,10 @@ description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant w
 | Berufliche Fahrtkosten | EUR 0.30/km × Arbeitstage × Einfachstrecke | Tatsächlich beruflich veranlasst |
 | Private Krankenversicherung | Tatsächlicher Eigenbeitrag | Soweit nicht überhöht |
 | Altersvorsorge-Beitrag | 4 % des Bruttoeinkommens | Primäre Altersvorsorge; "Sockel-Beitrag" |
-| Ehebedingte Schulden | Tatsächliche Rate | Nur soweit lebensnotwendig (BGH XII ZB 607/16) |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Krankheitskosten | Tatsächlich, soweit ungedeckt | Arztkosten, Medikamente, Zuzahlungen |
 
-**Achtung:** Nicht jede Schuld wird abgezogen — nur unterhaltsrechtlich anerkannte Verbindlichkeiten (BGH XII ZB 607/16).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kindesunterhalt
 
@@ -124,7 +120,7 @@ Die Tabelle enthält 11 Einkommensstufen (ca. EUR 1.900 bis EUR 11.000 Netto) mi
 - Zahlbetrag Kind 14: EUR 706 - EUR 125 = EUR 581
 - **Gesamt: EUR 1.056 monatlich**
 
-### Wechselmodell (BGH XII ZB 234/19)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Berechnung beim paritätischen Wechselmodell:**
 1. Tabellenunterhalt nach dem Einkommen des Besserverdienenden berechnen
@@ -164,9 +160,9 @@ Trennungsunterhalt (3/7 der Differenz): EUR [(A-B) × 3/7]
 
 | Streitpunkt | Lösung |
 |-------------|--------|
-| Fiktives Einkommen bei Untätigkeit | Obliegenheit zur vollschichtigen Arbeit ab Kindesalter 3 Jahre (BGH XII ZR 27/14) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Übergangszeit 0–3 Jahre Kind | Keine Vollerwerbsobliegenheit; Betreuungsunterhalt |
-| Schulden des Pflichtigen | Nur anerkannte Schulden abzugsfähig (BGH XII ZB 607/16) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Nachehelicher Unterhalt §§ 1569 ff. BGB
 
@@ -199,7 +195,7 @@ Nachehelicher Unterhalt = (A + B) / 2 - B (Berechtiger-Einkommen)
 
 **Voraussetzung:** Kein oder nur geringer ehebed. Nachteil; kurze Ehedauer ohne Kinder-Bezug.
 
-**BGH XII ZR 80/14:** Einvernehmliche Ehedauer als Indiz für ehebed. Nachteil; bei kurzen Ehen Befristung regelmäßig.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Verwirkung § 1579 BGB
 
@@ -267,7 +263,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Kindesunterhalt oder nachehelichen Unterhalt berechnen | Berechnungsschema Duesseldorfer Tabelle; Template unten |
-| Variante A — Wechselmodell streitig | BGH XII ZB 234/19 anwenden; Barunterhalt-Reduktion pruefen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Variante B — Einkommensermittlung komplex (Selbststaendiger) | Bereinigtes Netto sorgfaeltig berechnen; ggf. Steuererklaerung anfordern |
 | Variante C — Mandant will ohne Gericht regeln | Aussergerichtliche Einigung; Jugendamt und URK als Weg |
 
@@ -357,11 +353,10 @@ der Verhältnisse dar.
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „Einkommen niedriger als behauptet" | Auskunftsklage § 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
-| „Kein fiktives Einkommen" | BGH XII ZR 42/17: Erwerbsobliegenheit ab Kindesalter 3 Jahre; Vollzeitstelle zumutbar |
-| „Schuldentilgung macht Unterhalt unmöglich" | BGH XII ZB 607/16: Nur lebensnotwendige Schulden abzugsfähig |
-| „Düsseldorfer Tabelle veraltet" | Tabelle jährlich angepasst; bei Mandatsbeginn aktuelle Version prüfen |
-| „Wechselmodell — kein Unterhalt nötig" | BGH XII ZB 234/19: Beim Wechselmodell Ausgleich trotzdem notwendig wenn Einkommensunterschied vorhanden |
+| "Einkommen niedriger als behauptet" | Auskunftsklage § 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Düsseldorfer Tabelle veraltet" | Tabelle jährlich angepasst; bei Mandatsbeginn aktuelle Version prüfen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -393,6 +388,6 @@ der Verhältnisse dar.
 - BGB §§ 1601–1615n, 1361, 1569–1586b
 - FamFG § 238
 - Düsseldorfer Tabelle, OLG Düsseldorf (jährlich aktualisiert)
-- BGH XII ZB 234/19 (11.12.2019); XII ZR 42/17 (18.10.2017); XII ZB 607/16 (07.06.2017)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wendl/Dose Das Unterhaltsrecht, 11. Aufl.
 - Stand: 05/2026; Tabellenwerte 2024 — bei Jahreswechsel aktualisieren

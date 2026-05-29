@@ -7,7 +7,7 @@ description: "DBA Deutschland Israel Neufassung 2014 in Kraft 21.5.2016. Anwendu
 
 ## Kernsachverhalt
 
-Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 552) trat am 21.05.2016 in Kraft und ersetzte das DBA von 1962. Praxisrelevant sind Hightech- und IT-Branche (Israelische Startups und Software-Unternehmen), Beteiligungen, Software-Lizenzen, Pensionsfaelle (Aliyah deutscher Juden mit Wohnsitzverlagerung Israel) und Investmentstrukturen.
+Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, anwendbar ab 01.01.2017) ersetzte das DBA von 1962. Praxisrelevant sind Hightech- und IT-Branche (Israelische Startups und Software-Unternehmen), Beteiligungen, Software-Lizenzen, Pensionsfaelle (Aliyah deutscher Juden mit Wohnsitzverlagerung Israel) und Investmentstrukturen.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,20 +23,20 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 552) trat am 21.05.2016 in Kraft
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Israel vom 21.08.2014**, in Kraft 21.05.2016, anwendbar ab 01.01.2017 (BGBl. 2015 II S. 552) — **verifizieren**.
+- **DBA Deutschland-Israel vom 21.08.2014**, in Kraft 09.05.2016, anwendbar ab 01.01.2017 (BGBl. 2015 II S. 1301/1302; Bekanntmachung BGBl. 2016 II S. 1060).
 - **OECD-MA 2010/2014**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: beide Unterzeichner — **Status verifizieren**.
+- **MLI**: Deutschland hat das MLI ratifiziert. Israel hat das MLI unterzeichnet; Ratifizierungsstatus und konkrete Listung des DBA-DE-IL im BMF-Verzeichnis vor Anwendung pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH I R 52/19 zu Israel — **verifizieren**.
-- BMF-Schreiben zum DBA-Israel — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu DBA-Israel (Software-Lizenzen, Aliyah-Status, Subject-to-Tax) in juris abrufen.
+- Aktuelle BMF-Schreiben zum DBA-Israel im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- **Aliyah-Steuerstatus** (Olim Chadashim, Neueinwanderer mit zeitlich befristeter weitgehender Steuerbeguenstigung — Dauer in der Literatur regelmaessig mit 10 Jahren beschrieben; aktuelle Dauer und Anwendungsumfang nach israelischem Steuerrecht verifizieren): pruefen DBA-Berechtigung und Subject-to-Tax (§ 50d Abs. 9 EStG).
+- **Aliyah-Steuerstatus** (Olim Chadashim, Neueinwanderer): Nach israelischem Steuerrecht geniessen Neueinwanderer nach Meldung bei der israelischen Steuerbehoerde fuer einen begrenzten Zeitraum eine weitgehende Steuerbefreiung auslaendischer Einkuenfte (in der Literatur regelmaessig mit 10 Jahren beschrieben; aktuelle Dauer und Anwendungsumfang nach israelischem Steuerrecht im Einzelfall pruefen). DBA-Berechtigung und Subject-to-Tax nach § 50d Abs. 9 EStG pruefen.
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -45,9 +45,9 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 552) trat am 21.05.2016 in Kraft
 - Loehne Art. 14: 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): typ. 5/10 Prozent — **konkret verifizieren** (Schachtelsatz 10 Prozent Beteiligung).
-- **Zinsen** (Art. 11): typ. 5 Prozent — **verifizieren**.
-- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**. Wichtig: Software-Lizenzen.
+- **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 10 Prozent Beteiligung), 10 Prozent (Streubesitz).
+- **Zinsen** (Art. 11): 5 Prozent.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent. Wichtig: Software-Lizenzen.
 
 ### Vermeidungs-Methode (Art. 23)
 - Anrechnungsmethode ueberwiegend.
@@ -55,7 +55,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 552) trat am 21.05.2016 in Kraft
 
 ### Besonderheiten
 - **Software-Lizenzen**: nach OECD-MA-Kommentar Lizenzeinkuenfte; Israel hat IT-Schwerpunkt; Abgrenzung Software-Lizenz vs. Software-Standardware (Art. 7 vs. Art. 12) sorgfaeltig fuehren.
-- **Aliyah-Status (Olim Chadashim)**: nach israelischem Recht zeitlich begrenzte weitgehende Steuerbefreiung auslaendischer Einkuenfte fuer Neueinwanderer (in der Literatur regelmaessig mit 10 Jahren referenziert) — **Dauer, Voraussetzungen, Anwendungsbereich und ggf. Reformen nach israelischem Steuerrecht und ggf. einschlaegigen BMF-Schreiben verifizieren**. Folgen fuer DBA-Anwendung: DBA-Berechtigung pruefen (Ansaessigkeit i.S. Art. 4); deutsches FA prueft § 50d Abs. 9 EStG Subject-to-Tax-Rueckfall bei Nichtbesteuerung in Israel.
+- **Aliyah-Status (Olim Chadashim)**: Steuerbefreiung auslaendischer Einkuenfte fuer Neueinwanderer (Dauer und konkrete Beguenstigungstatbestaende nach aktuellem israelischem Steuerrecht pruefen; in der Literatur mit 10 Jahren referenziert). Folgen fuer DBA-Anwendung: DBA-Berechtigung (Ansaessigkeit i.S. Art. 4) und deutsches FA prueft § 50d Abs. 9 EStG Subject-to-Tax-Rueckfall bei Nichtbesteuerung in Israel.
 - **Pensionen** Art. 17: gesetzliche Renten Wohnsitzstaat; Beamtenpensionen Kassenstaat.
 - **Diplomaten und religioese Bedienstete**: Sonderregelungen.
 
@@ -88,11 +88,11 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 552) trat am 21.05.2016 in Kraft
 
 ## Strategie und Praxis-Tipps
 
-- Aliyah-Status (Olim Chadashim): Israel besteuert in der Steuerbeguenstigungs-Periode auslaendische Einkuenfte regelmaessig nicht (Dauer und konkrete Begueststigungstatbestaende **aus israelischem Steuerrecht verifizieren**, in der Literatur mit 10 Jahren referenziert); deutsches FA prueft § 50d Abs. 9 EStG-Rueckfallklausel auf Anrechnung.
-- Software-Lizenz an israelische Empfaenger: 0 Prozent DBA-Quellensteuer (oder konkreter Satz) — BZSt-Freistellungsbescheinigung beantragen.
+- Aliyah-Status (Olim Chadashim): Israel besteuert in der Beguenstigungs-Periode auslaendische Einkuenfte regelmaessig nicht (Dauer nach aktuellem israelischen Steuerrecht pruefen; in der Literatur mit 10 Jahren referenziert); deutsches FA prueft § 50d Abs. 9 EStG-Rueckfallklausel.
+- Software-Lizenz an israelische Empfaenger: 0 Prozent DBA-Quellensteuer — BZSt-Freistellungsbescheinigung beantragen.
 - Pensionen Wohnsitz Israel: deutsche DRV bleibt steuerlich anbindbar — pruefen.
 - Bei Startups Israel: Beteiligungs- und Veraeusserungsgewinne aufschlussreich behandeln.
-- MLI PPT.
+- MLI-Anwendbarkeit (PPT) im BMF-Verzeichnis pruefen.
 
 ## Querverweise
 
@@ -100,4 +100,6 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 552) trat am 21.05.2016 in Kraft
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Israel 21.08.2014, in Kraft 21.05.2016, Anwendung ab 01.01.2017. **Datum, BGBl-Fundstelle, MLI-Notification, Aliyah-Status-Wirkung und Quellensteuer-Saetze konkret verifizieren.**
+Stand: 05/2026. DBA-Israel 21.08.2014, in Kraft 09.05.2016, Anwendung ab 01.01.2017 (BGBl. 2015 II S. 1301/1302). MLI-Status Israel: unterzeichnet, Ratifizierungsstatus im BMF-Verzeichnis pruefen. Aliyah-Steuerstatus: nach israelischem Steuerrecht im Einzelfall pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

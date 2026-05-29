@@ -1,6 +1,6 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Pruefraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt."
+description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung
@@ -22,16 +22,14 @@ description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form 
 - § 623 BGB (Kündigungsschutz Arbeitsrecht — Schriftformzwang)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 25.11.2015 – XII ZR 114/14, NJW 2016, 311 — Das gesetzliche Schriftformerfordernis des § 550 BGB (Langzeitmietvertrag) führt bei Verstoß zur Kündbarkeit des Vertrages, nicht zur Nichtigkeit; die Parteien sind an einen unbefristeten Vertrag gebunden.
-2. BGH, Urt. v. 22.04.2015 – XII ZR 55/14, NJW 2015, 2034 — Bei vertraglich vereinbarter Schriftform (§ 127 BGB) genügt im Zweifel E-Mail, wenn sich aus der Vereinbarung nichts anderes ergibt.
-3. BGH, Urt. v. 25.03.2015 – IV ZR 29/14, NJW 2015, 1963 — Eine Schriftformheilungsklausel (Klausel, die nachträgliche mündliche Änderungen trotz Schriftformvorbehalt erlaubt) ist wegen § 305 ff. BGB in AGB in engen Grenzen zulässig.
-4. BAG, Urt. v. 16.09.2021 – 2 AZR 781/20, NJW 2021, 3545 — Der Schriftformzwang des § 623 BGB für Beendigungserklärungen von Arbeitsverhältnissen ist absolut; eine WhatsApp-Kündigung erfüllt ihn nicht.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 125 Rn. 1 ff. (Formmangel und Nichtigkeit).
-- MuKo-BGB/Einsele, 9. Aufl. 2023, § 125 Rn. 1 ff.
-- Palandt, BGB, 82. Aufl. 2023, § 127 Rn. 1 ff. (Vertragliche Formvorschriften).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - §§ 125-129 BGB — Formerfordernisse und Sanktionen
@@ -65,7 +63,7 @@ Welches Rechtsgeschäft liegt vor?
 → Wohnraummiete-Kündigung
    → Schriftform § 568 Abs. 1 BGB
    → qES möglich, aber Zugang mit prüfbarer Signatur erforderlich
-     (BGH VIII ZR 159/23)
+     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Gewerberaummietvertrag länger als 1 Jahr
    → Schriftform § 550 BGB
@@ -74,7 +72,7 @@ Welches Rechtsgeschäft liegt vor?
 → Maklervertrag Wohnraum (Kauf)
    → Textform § 656a BGB
    → E-Mail-Austausch reicht, kein Bereicherungsanspruch bei Verstoß
-     (BGH I ZR 202/25)
+     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Bürgschaft (Nicht-Kaufmann)
    → Schriftform § 766 BGB
@@ -90,7 +88,8 @@ Welches Rechtsgeschäft liegt vor?
 
 → Kündigung Arbeitsvertrag / Aufhebungsvertrag
    → Schriftform § 623 BGB
-   → qES str. — Papier empfohlen
+   → direkte elektronische Form ausgeschlossen
+   → Papier empfohlen; im Arbeitsgerichtsverfahren § 46h ArbGG gesondert prüfen
 
 → Mieterhöhungsverlangen
    → Textform § 558a Abs. 1 BGB (E-Mail zulässig)
@@ -187,7 +186,6 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 - → alle spezifischen Form-Skills
 
 <!-- AUDIT 27.05.2026 bundle_043
-Problem: BGH V ZR 78/14 (Rechtsprechung Nr. 1) war WRONG_TOPIC — Entscheidung betrifft Beschaffenheitsvereinbarung beim Grundstückskauf (§ 434 BGB), nicht § 550 BGB Schriftformerfordernis.
-Maßnahme: Ersetzt durch BGH XII ZR 114/14, Urt. v. 25.11.2015, NJW 2016, 311 — echte Leitentscheidung zu § 550 BGB Schriftformerfordernis Langzeitmietvertrag.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2015&Aktenzeichen=XII+ZR+114%2F14
 -->

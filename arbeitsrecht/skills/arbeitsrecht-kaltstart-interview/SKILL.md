@@ -24,7 +24,7 @@ Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem t
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` prüfen.
    - `--check-integrations`: Nur den Integrationsabschnitt neu ermitteln, Interview überspringen.
    - `--redo`: Vollständiges Interview neu ausführen, auch wenn Konfiguration vorhanden.
-   - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: „Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
+   - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: "Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
    - Falls Konfiguration aus altem Cache-Pfad vorhanden: Dorthin migrieren und mitteilen.
 
 2. **Teil 0 – Was ist verbunden?**
@@ -151,7 +151,7 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 
 ## Risiken / typische Fehler
 
-- **KSchG-Schwellenwert nicht korrekt ermittelt.** § 23 KSchG zählt nur regelmäßig Beschäftigte, nicht Leiharbeitnehmer (BAG, Urt. v. 24.01.2013 – 2 AZR 140/12, NZA 2013, 726 Rn. 14 `[Modellwissen – prüfen]`). Bei Grenzfällen zur Prüfung markieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Tarifbindung übersehen.** Nachwirkung (§ 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (§ 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
 - **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (§ 1 BetrVG). Auf § 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
 - **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; § 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.

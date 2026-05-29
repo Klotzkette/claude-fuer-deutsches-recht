@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-post-closing-integration
-description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Pruefraster: Handelsregisteranmeldungen, Vertragsanpassungen, Konzernanpassungen, Organschaft-Pruefung. Output PMI-Checkliste, Zeitplan, Aktionsprotokoll, § 613a-Informationsschreiben. Abgrenzung: Closing selbst siehe signing-closing-conditions; Umwandlung siehe umwandlungsrecht."
+description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranmeldungen, Vertragsanpassungen, Konzernanpassungen, Organschaft-Prüfung. Output PMI-Checkliste, Zeitplan, Aktionsprotokoll, § 613a-Informationsschreiben. Abgrenzung: Closing selbst siehe signing-closing-conditions; Umwandlung siehe umwandlungsrecht."
 ---
 
 # Post-Closing-Integration (PMI)
@@ -27,17 +27,11 @@ description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar na
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 31.01.2018 - VIII ZR 39/17, NJW 2018, 1166 — § 613a-Informationspflicht: Fehlerhafte oder unvollstaendige Information schiebt Widerspruchsfrist auf unbestimmte Zeit hinaus; kein Fristlauf ohne vollstaendige Info
-- BGH, Urt. v. 24.10.2013 - IX ZR 74/12, BGHZ 198, 357 — Organschaft-Voraussetzungen: 5-Jahres-Mindestelaufzeit des GAV; vorzeitige Aufhebung fuehrt zu rueckwirkender Steuer fuer alle Organschaftsjahre
-- BGH, Urt. v. 26.04.2010 - II ZR 69/09, BGHZ 185, 297 — Beherrschungsvertrag: Minderheitsaktionaere der Tochtergesellschaft haben Anspruch auf angemessene Abfindung und Ausgleich (§§ 304-305 AktG)
-- BAG, Urt. v. 23.07.2020 - 8 AZR 512/18, NZA 2020, 1452 — § 613a Unterrichtungspflicht bei Betriebsteiluebergang: muss vollstaendig alle relevanten wirtschaftlichen und rechtlichen Aspekte der Transaktion enthalten
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Fleischer/Goette, MueKo GmbHG §§ 39-45 — Handelsregister-Aenderungen
-- MueKo AktG/Altmeppen §§ 291-310 — Vertragskonzern; Beherrschungsvertrag
-- ErfK/Preis § 613a BGB Rn. 60 ff. — Unterrichtungspflichten und Widerspruchsrecht
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Post-Closing-Aktionsplan: Priorisierte Massnahmen
 
 ### Sofort (bis 2 Wochen post-Closing)
@@ -124,5 +118,5 @@ Mit freundlichen Gruessen
 ## Quellen
 
 - §§ 39-45 GmbHG; §§ 291-310, 304-305 AktG; §§ 14-19 KStG; § 613a BGB; § 106 BetrVG
-- BGH VIII ZR 39/17 (§ 613a Information); BGH IX ZR 74/12 (Organschaft 5 Jahre); BGH II ZR 69/09 (Beherrschungsvertrag Minderheit)
-- MueKo AktG/Altmeppen §§ 291-310; ErfK/Preis § 613a Rn. 60 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

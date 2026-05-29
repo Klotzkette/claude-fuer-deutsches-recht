@@ -1,6 +1,7 @@
 ---
 name: pruefungsvorschlaege
-description: "Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer „Playbook-Vorschläge prüfen\", „welche Playbook-Updates sind ausstehend\" oder „Abweichungsvorschläge durchgehen\" sagt."
+description: 'Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer "Playbook-Vorschläge prüfen", "welche Playbook-Updates sind ausstehend" oder "Abweichungsvorschläge durchgehen" sagt.'
+
 ---
 
 # Playbook-Vorschläge prüfen und genehmigen
@@ -35,7 +36,7 @@ muss an den gesetzlichen Grenzen gemessen werden:
 - § 305c BGB — Überraschende und mehrdeutige Klauseln; eine Klausel, die
   nach Entstehung und Inhalt so ungewöhnlich ist, dass der Vertragspartner
   nicht mit ihr rechnet, wird nicht Vertragsbestandteil — auch ein Playbook,
-  das solche Klauseln als „Standard" führt, erzeugt keine belastbaren Positionen
+  das solche Klauseln als "Standard" führt, erzeugt keine belastbaren Positionen
 - § 307 Abs. 1 S. 2 BGB — Transparenzgebot; das Playbook muss die eigene
   Position klar und verständlich formulieren, um sie in Verhandlungen
   durchzusetzen und AGB-rechtliche Kontrolle zu bestehen
@@ -44,47 +45,33 @@ muss an den gesetzlichen Grenzen gemessen werden:
 - §§ 308, 309 BGB — Klauselverbote; Positionen, die gegen diese Verbote
   verstoßen, dürfen nicht als reguläre Playbook-Positionen geführt werden
 
-### Begründungspflicht mit Kommentarbelegen
+### Begründungspflicht mit verifizierten Quellen
 
 Jeder Vorschlag zur Änderung einer Playbook-Position muss mit Quellen
-begründet sein. Maßgebliche Kommentare für Playbook-Vorschläge im Vertragsrecht:
-
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 1 — Leitstelle für
-  Inhaltskontrolle und Transparenzgebot
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 — Differenzierte Analyse
-  zu einzelnen Klauseltypen
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100
-  — Klauselkontrolle in der Verhandlungspraxis (Doppelautoren-Kommentar)
-- Coester-Waltjen, in: Staudinger, BGB, Neubearbeitung 2022, § 307 Rn. 200
-  — Systematische Darstellung Generalklausel
+begründet sein: zuerst Normtext, dann verifizierte Rechtsprechung mit Datum
+und Aktenzeichen, danach nur konkret bereitgestellte oder lizenziert
+verifizierte Literatur. Kommentar-, Handbuch- und Aufsatzfundstellen dürfen
+nicht aus Modellwissen ergänzt werden.
 
 ### Leitentscheidungen für Playbook-Anpassungen
 
-- BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104 Rn. 14
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung;
   § 309 Nr. 7 BGB)
-- BGH, Urt. v. 19.11.2019 – XI ZR 9/18, NJW 2020, 461 Rn. 22 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Transparenzgebot; Änderungsklauseln müssen klar und verständlich sein)
-- BGH, Urt. v. 08.12.2011 – VII ZR 111/11, NJW 2012, 1431 Rn. 20
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Haftungsfreizeichnung für Vorsatz unwirksam; § 276 Abs. 3 BGB;
   § 309 Nr. 7 lit. b BGB; kein Verhandlungsspielraum für das Playbook)
-- BGH, Urt. v. 14.01.2020 – VIII ZR 163/18, NJW 2020, 1431 Rn. 25
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Klauselkontrolle Gewährleistungsverkürzung; § 309 Nr. 8 BGB;
   Grenzen für Mängelrechtsausschluss in AGB)
-- BGH, Urt. v. 29.06.2011 – VIII ZR 212/08, BGHZ 190, 115 Rn. 20 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (AGB-Einbeziehung im unternehmerischen Verkehr; § 305 Abs. 2 BGB)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45
-  (Transparenzgebot bei Haftungsklauseln)
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Rn. 90
-  (Haftungsausschlussverbote im Detail)
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, Vor § 307 BGB
-  Rn. 50 ff. (Verhandlungsspielraum bei AGB-Klauseln)
-- Lehmann-Richter, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 307
-  Rn. 100 ff. (Inhaltskontrolle Schritt für Schritt)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Vorschlagsdatei laden
@@ -130,8 +117,8 @@ Begründung (Monitor): 7 von 12 unterzeichneten Verträgen in den letzten
 12 Monaten wurden mit 18 Monaten abgeschlossen. Muster liegt oberhalb
 des Schwellenwerts (5 Mal).
 
-Quelle: Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Nr. 7 Rn. 15
-(Zulässigkeit 18-Monate-Cap als Fallback bei IT-Dienstleistungsverträgen)
+Quelle: Nur verifizierte Rechtsprechung oder vom Nutzer bereitgestellte/lizenziert live geprüfte Literaturquelle mit exakter Fundstelle.
+(Beleg für Zulässigkeit eines 18-Monate-Cap als Fallback live prüfen.)
 
 Übernehmen? (ja / nein / bearbeiten)
 ```
@@ -141,7 +128,7 @@ Quelle: Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Nr. 7 Rn. 15
 Entscheidung protokollieren. Kanzleiprofil unverändert lassen.
 
 Bei **Ablehnen**: In Abweichungslog eintragen, mit Begründung des Anwalts
-(falls angegeben) oder mit dem Vermerk „Abgelehnt ohne Begründung".
+(falls angegeben) oder mit dem Vermerk "Abgelehnt ohne Begründung".
 
 Bei **Zurückstellen**: Vorschlag für die nächste Runde erhalten.
 
@@ -189,19 +176,19 @@ Begründung: 8/10 unterzeichneter Verträge aus den letzten 12 Monaten
 wurden mit 2 Jahren abgeschlossen.
 
 Quelle:
-- BGH, Urt. v. 14.01.2020 – VIII ZR 163/18, NJW 2020, 1431 Rn. 25
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Grenzen Gewährleistungsverkürzung in AGB)
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 438 Rn. 10
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   (Zulässige Verjährungszeiträume in AGB)
 ```
 
-Anwalt wählt „Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
+Anwalt wählt "Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
 
 ## Risiken und typische Fehler
 
 - **Vorschlag ohne Quellenbeleg akzeptieren.** Jeder Vorschlag zur Änderung
-  einer Klauselposition muss mit BGH-Rechtsprechung oder Kommentarbeleg
-  unterlegt sein. Vorschläge ohne Beleg nicht als „Übernehmen"-fähig markieren.
+  Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+  unterlegt sein. Vorschläge ohne Beleg nicht als "Übernehmen"-fähig markieren.
 - **Diff nicht anzeigen.** Ohne Anzeige des exakten Diffs kann der Anwalt
   nicht beurteilen, ob die Änderung korrekt ist. Niemals direkt schreiben
   ohne Bestätigung.
@@ -217,7 +204,7 @@ Anwalt wählt „Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
 Jeder Vorschlag in der Ausgabe muss enthalten:
 - Den betroffenen Paragraphen (z. B. § 309 Nr. 7 BGB, § 438 BGB)
 - Mindestens eine BGH-Entscheidung zur Klauselgrenze in korrekter Zitierweise
-- Mindestens einen Kommentarbeleg im Bearbeiterstil „Bearbeiter, in: Werk"
-  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45)
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

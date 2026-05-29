@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-naturschutz-artenschutz
-description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Pruefraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Pruefung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage)."
+description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Prüfraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Prüfung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage)."
 ---
 
 # Naturschutz und Artenschutz
@@ -29,17 +29,11 @@ description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff 
 
 ## Leitentscheidungen
 
-- BVerwG, Urt. v. 25.11.2021 — 4 A 4.20, BVerwGE 174, 274 — FFH-Vertraeglichkeit Windpark; Erheblichkeitsschwelle zu Schutzzweck; Kumulationsbetrachtung mehrerer Projekte zwingend.
-- BVerwG, Urt. v. 12.06.2019 — 9 A 2.18, NVwZ 2019, 1615 — Artenschutz Stromleitungs-Planfeststellung; § 44 BNatSchG; Vermeidungsmasfnahmen im Urteil bindend; saP muss aktuell sein.
-- EuGH, Urt. v. 02.03.2023 — C-278/21 (Balambio) — Art. 12 FFH-RL; strenger Artenschutz ohne Ermessen; Mitgliedstaaten muessen wirksame Verbotsmechanismen sicherstellen.
-- OVG Lueneburg, Urt. v. 16.12.2022 — 12 KN 277/19 — Windenergie-Raumordnungsplan; Artenschutz-Belange als Tabuzone; Vorsorgeprinzip auch bei unsicherer Datenlage.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kloepfer Umweltrecht § 11 Rn. 80-200 (Naturschutzrecht)
-- Gassner/Bendomir-Kahlo/Schmidt-Raentsch BNatSchG §§ 34-36, 44, 45 (Kommentar)
-- Louis BNatSchG §§ 14-15 Rn. 1-80 (Eingriffs-Ausgleichs-Regelung)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 ### A) Vorhabentraeger: Artenschutzpruefung und FFH-VS
@@ -96,7 +90,7 @@ Die saP vom [DATUM] genuegt nicht den Anforderungen:
 III. FFH-Vertraeglichkeit § 34 BNatSchG
 Das FFH-Gebiet [NAME] liegt [X] m entfernt. Eine FFH-VS liegt nicht vor,
 obwohl erhebliche Beeintraechtigung des Schutzzwecks [ZIELART] nicht
-ausgeschlossen werden kann (BVerwG 4 A 4.20).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 IV. Antrag
 Die Genehmigung darf erst erteilt werden, wenn aktuelle saP und FFH-VS

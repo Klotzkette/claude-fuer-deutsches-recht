@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-orientierung
-description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Ueberblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Pruefraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
+description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)."
 ---
 
 # Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
@@ -52,13 +52,9 @@ description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder 
 - VG / OVG / BVerwG bei BaFin-Verwaltungsverfahren.
 - BaFin selbst als Aufsichtsbehörde.
 
-## Standardliteratur
+## Quellenregel
 
-- Schimansky/Bunte/Lwowski, Bankrechts-Handbuch.
-- Assmann/Schneider/Mülbert, WpHG.
-- Bork, Allgemeines Schuldrecht und Kapitalmarktrecht.
-- BeckOK KWG / WpHG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Bank- und Kapitalmarktrecht DAV.
@@ -74,10 +70,7 @@ description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder 
 
 ### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht
 
-- BGH, Urt. v. 25.04.2023 - XI ZR 225/21, NJW 2023, 2037 Rn. 19 — Negativzinsen auf Einlagen: Bank darf Negativzinsen nur erheben, wenn Klausel klar und transparent formuliert ist (AGB-Kontrolle § 307 BGB); pauschale AGB-Zinssatz-Klausel unwirksam wenn Einlagenkunde nicht auf Negativzins hingewiesen wird.
-- BGH, Urt. v. 13.04.2021 - XI ZR 26/20, NJW 2021, 2274 Rn. 15 — Kreditbearbeitungsentgelt bei gewerblichen Kreditnehmern: AGB-Klausel unangemessen benachteiligend; § 307 BGB greift auch bei Unternehmer-AGB wenn keine echte Gegenleistung vorhanden.
-- BGH, Urt. v. 16.03.2021 - XI ZR 79/20, NJW 2021, 1944 Rn. 22 — Anpassungsklausel im Darlehensvertrag (Zinsanpassung) muss Masstab und Verfahren hinreichend bestimmt festlegen; pauschale "Aenderung marktabhaengiger Zinsen" genuegt nicht.
-- BGH, Urt. v. 27.04.2021 - XI ZR 26/20, WM 2021, 907 Rn. 33 — Rueckzahlung vereinbarter Bearbeitungsentgelte bei Verbraucher: Verjaebrungsbeginn mit Kenntnis der Unwirksamkeit; § 199 Abs. 1 BGB ab jeweiligem Jahr.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ueberblick nach Mandatstyp
 | Mandat | Zentralnorm |
@@ -91,13 +84,9 @@ description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder 
 | AML/KYC | §§ 2, 10-17 GwG |
 | MiCA Stablecoin | MiCA Art. 16-21 VO 2023/1114 |
 
-### Kommentarliteratur (aktuell)
-- Schimansky/Bunte/Lwowski, Bankrechts-Handbuch, 5. Aufl. (Standardwerk Bank)
-- Assmann/Schneider/Muelbert WpHG, 8. Aufl. (Kapitalmarkt)
-- Reischauer/Kleinhans KWG (Bankaufsichtsrecht, Loseblatt)
-- BeckOK BGB/Grueneberg §§ 488 ff. (Darlehensrecht)
-- Hopt Kapitalmarktrecht 12. Aufl. — Marktmissbrauch, Prospekt, MAR
+### Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen Ueberblick
 | Frist | Dauer | Norm |
 |---|---|---|

@@ -32,12 +32,12 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 - **Alterseinkuenftegesetz 2005** — schrittweise nachgelagerte Besteuerung.
 
 ### Leitentscheidungen und BMF-Schreiben
-- BFH X R 27/16 zur nachgelagerten Besteuerung Renten — **verifizieren**.
-- BFH I R 5/18 zu DBA-Spanien-Renten — **verifizieren**.
-- BFH I R 11/19 zu Niederlanden-Pension — **verifizieren**.
-- BMF-Schreiben zur Anwendung Art. 18/19 DBA — **konkretes Datum verifizieren**.
+- Aktuelle BFH-Rechtsprechung zur nachgelagerten Besteuerung von Renten in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Spanien-Renten in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in juris abrufen.
+- BMF-Schreiben zur Anwendung Art. 18/19 DBA — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
-## Rentenarten und DBA-Behandlung (Uebersicht — **alle Saetze und Klauseln konkret im jeweiligen DBA verifizieren**)
+## Rentenarten und DBA-Behandlung (Uebersicht — alle Saetze und Klauseln konkret im jeweiligen DBA-Text pruefen)
 
 ### Gesetzliche Rente (DRV) bei Wohnsitz Ausland
 
@@ -49,7 +49,7 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 | Frankreich | Sonderregelung Art. 13 DBA-Frankreich |
 | Schweiz | Wohnsitzstaat regelmaessig (Art. 18 DBA-CH); Sonderregelung bei Beamten |
 | Oesterreich | Wohnsitzstaat |
-| Niederlande | Schwelle im DBA Art. 17 normiert (in der Praxis als 15.000 EUR/Jahr referenziert) — Quellenstaat ueber Schwelle; **konkrete Schwelle und Berechnungsgrundlage aus DBA-Text verifizieren** |
+| Niederlande | Schwelle im DBA Art. 17 normiert (in der Praxis 15.000 EUR/Jahr; massgebend ist Art. 17 DBA-NL 2012) — Quellenstaat ueber Schwelle; konkrete Schwelle im DBA-Text pruefen |
 | Tuerkei | Wohnsitzstaat oder Kassenstaat — **konkret pruefen** |
 | USA | Wohnsitzstaat; Pension Protection im Protokoll 2006 fuer IRA/401(k) |
 | Kanada | Wohnsitzstaat; RRSP/RRIF separat |
@@ -117,4 +117,6 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 18, 19 OECD-MA. § 22 Nr. 1 EStG. § 49 Abs. 1 Nr. 7 EStG. § 50d Abs. 8, 9 EStG. Alterseinkuenftegesetz 2005. **DBA-spezifische Pensionsklauseln und Schwellenwerte konkret im jeweiligen DBA-Text verifizieren. Subject-to-Tax-Anwendungsschreiben des BMF pruefen.**
+Stand: 05/2026. Art. 18, 19 OECD-MA. § 22 Nr. 1 EStG. § 49 Abs. 1 Nr. 7 EStG. § 50d Abs. 8, 9 EStG. Alterseinkuenftegesetz 2005. DBA-spezifische Pensionsklauseln und Schwellenwerte konkret im jeweiligen DBA-Text pruefen. Subject-to-Tax-Anwendungsschreiben des BMF im BMF-Veroeffentlichungsverzeichnis abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

@@ -14,18 +14,18 @@ zwischen
 
 **Stadtwerke Klotzkette AG** (Veräußerer)  
 Bahnhofstraße 12, 59348 Lüdinghausen  
-(nachfolgend „SWKK")
+(nachfolgend "SWKK")
 
 und
 
 **Stadtwerke-Beteiligungsgesellschaft Bayern mbH** (Erwerber)  
 Prinzregentenstraße 42, 80538 München  
 HRB 221588, AG München  
-(nachfolgend „Investor")
+(nachfolgend "Investor")
 
 ---
 
-> **Vorbemerkung:** Dieses Term Sheet ist nicht rechtsverbindlich, soweit nicht explizit als verbindlich gekennzeichnet. Es dient als Grundlage für die Verhandlung und Ausgestaltung des notariellen Abtretungsvertrags. Verbindlich sind lediglich die Abschnitte „Exklusivität" und „Vertraulichkeit".
+> **Vorbemerkung:** Dieses Term Sheet ist nicht rechtsverbindlich, soweit nicht explizit als verbindlich gekennzeichnet. Es dient als Grundlage für die Verhandlung und Ausgestaltung des notariellen Abtretungsvertrags. Verbindlich sind lediglich die Abschnitte "Exklusivität" und "Vertraulichkeit".
 
 ---
 

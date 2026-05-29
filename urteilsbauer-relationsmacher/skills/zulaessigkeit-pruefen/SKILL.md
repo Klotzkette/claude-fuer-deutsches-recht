@@ -1,12 +1,11 @@
 ---
 name: zulaessigkeit-pruefen
-description: "Zulaessigkeit der Zivilklage systematisch pruefen: Richter oder Referendar prueft Pruefstation Zulaessigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zustaendigkeit), §§ 12 ff. ZPO (oertliche Zustaendigkeit), § 23 GVG (sachliche Zustaendigkeit), §§ 1 ff. GKG (Streitwert). Pruefraster: Rechtsweg, internationale Zustaendigkeit, oertliche und sachliche Zustaendigkeit, Partei-/Prozessfaehigkeit, Rechtsschutzbeduerfnis, besondere Verfahrensarten. Output Zulaessigkeits-Pruefungsschema. Abgrenzung: Meritorische Pruefung siehe anspruchsgrundlagen-pruefen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin."
+description: "Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (sachliche Zuständigkeit), §§ 1 ff. GKG (Streitwert). Prüfraster: Rechtsweg, internationale Zuständigkeit, örtliche und sachliche Zuständigkeit, Partei-/Prozessfähigkeit, Rechtsschutzbedürfnis, besondere Verfahrensarten. Output Zulässigkeits-Prüfungsschema. Abgrenzung: Meritorische Prüfung siehe anspruchsgrundlagen-prüfen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin."
 ---
 
 # Zulässigkeit der Zivilklage
 
 Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
-
 
 ## Triage zu Beginn
 
@@ -17,10 +16,7 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 27.09.2022 - X ARZ 60/22, NJW 2022, 3508 — Streitige Zuständigkeit nach § 281 ZPO: Bei Verweisung bindet der Verweisungsbeschluss das übernehmende Gericht; Überprüfung nur in engen Grenzen.
-- EuGH, Urt. v. 15.07.2021 - C-30/20, NJW 2021, 3099 — Internationale Zuständigkeit für Kartellschadensersatzklagen: Erfolgsort nach Art. 7 Nr. 2 EuGVVO ist der Markt, auf dem der Wettbewerb beeinträchtigt wurde.
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 209/17 (15.05.2018) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH VIII ZR 90/19 (21.01.2020) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -32,12 +28,9 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 - § 38 ZPO — Gerichtsstandsvereinbarung (B2B)
 - Art. 4, 7, 17 EuGVVO (VO Nr. 1215/2012) — internationale Zuständigkeit
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Schultzky, ZPO, 35. Aufl. 2024, § 12 Rn. 1-30, § 29 Rn. 1-20 (Gerichtsstand)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 23 GVG Rn. 1-10 (sachliche Zuständigkeit)
-- MüKo-ZPO/Patzina, 6. Aufl. 2022, Art. 4 EuGVVO Rn. 1-20 (internationale Zuständigkeit)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Rechtsweg (§ 13 GVG):** Ist die ordentliche Gerichtsbarkeit eröffnet (kein Arbeits-, Verwaltungs- oder Sozialrecht)?

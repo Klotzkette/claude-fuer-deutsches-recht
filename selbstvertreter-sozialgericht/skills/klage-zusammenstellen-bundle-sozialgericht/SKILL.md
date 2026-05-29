@@ -1,6 +1,6 @@
 ---
 name: klage-zusammenstellen-bundle-sozialgericht
-description: "Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis fuer Gericht und Gegner. Checkliste fuer Buerger ohne Anwalt."
+description: "Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis für Gericht und Gegner. Checkliste für Buerger ohne Anwalt."
 ---
 
 # Die Klage als komplettes Paket zusammenstellen

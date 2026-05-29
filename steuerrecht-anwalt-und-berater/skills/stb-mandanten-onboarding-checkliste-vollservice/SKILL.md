@@ -1,6 +1,6 @@
 ---
 name: stb-mandanten-onboarding-checkliste-vollservice
-description: "Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchfuehrung Lohn Steuererklaerung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar."
+description: "Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar."
 ---
 
 # Mandanten-Onboarding-Checkliste Vollservice
@@ -57,7 +57,7 @@ B. VOLLMACHTEN
 [ ] Vollmacht DRV (SV-Pruefung)
 [ ] Vollmacht Krankenkassen
 [ ] Vollmacht BG
-[ ] Vollmacht IHK/HWK (Veroeffentlichung)
+[ ] Vollmacht IHK/lizenzpflichtige Literaturquelle (Veroeffentlichung)
 [ ] Bestellung Empfangsbevollmaechtigter beim FA
 
 C. STAMMDATEN

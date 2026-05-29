@@ -28,16 +28,11 @@ Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Ga
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — Disclosure-Kenntnis: Kaeufer muss sich Kenntnis seines Due-Diligence-Beraters zurechnen lassen; ein Umstand ist dann "discloset", wenn er im Datenraum enthalten und bei sorgfaeltiger Pruefung erkennbar war
-- BGH, Urt. v. 14.03.2003 - V ZR 64/02, NJW 2003, 1811 — Arglistiges Verschweigen: auch wenn der Kaeufer haette pruefen koennen, ist arglistiges Verschweigen des Verkaeuf ers nicht durch Mitverschulden ausgeschlossen; Arglist geht vor Mitverschulden
-- BGH, Urt. v. 30.09.2011 - V ZR 17/11, NJW 2012, 56 — Fair Disclosure: ein Umstand ist nur dann wirksam discloset, wenn er so klar und zutreffend dargestellt wurde, dass der Kaeufer die Tragweite erkennen konnte; verschwommene Hinweise genuegen nicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- MueKo BGB/Westermann, §§ 441-444 Rn. 1-60 (Kenntnis und Gewaehrleistungsausschluss)
-- Beisel/Klumpp, Unternehmenskauf, Kapitel 5 § 3 (Disclosure, Garantien), 8. Auflage
-- Picot, Unternehmenskauf, Kapitel 4 (Disclosure Schedules, Vendor DD)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **SPA-Garantienliste erstellen:** alle Business Warranties mit Disclosure-Vorbehalt identifizieren; je Garantie: Scope, Carve-out, Disclosure-Methode
@@ -109,4 +104,4 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 ---
 <!-- AUDIT 27.05.2026 -->
-<!-- OLG Muenchen 7 U 1635/19 (claimed: Urt. 26.02.2020, NZG 2020, 670, Earn-Out-Offenlegungspflicht): NOT_FOUND auf dejure.org. Halluziniertes Urteil entfernt. Hinweis: OLG Muenchen 23 U 5742/19 (Urt. 03.12.2020, NZG 2021, 423) existiert und betrifft vorvertragliche Aufklaerungspflichten beim Unternehmenskauf allgemein, nicht spezifisch Earn-Out. Kein verifiziertes Ersatzurteil zum Earn-Out-Thema gefunden; kein Ersatz eingefuegt. -->
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-orientierung
-description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate Standardliteratur. Output Orientierungs-Uebersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-migrationsrecht fuer konkreten Mandats-Einstieg."
+description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg."
 ---
 
 # Fachanwalt für Migrationsrecht — Orientierung
@@ -50,14 +50,9 @@ description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsr
 - EuGH — Vorabentscheidung bei EU-rechtlichen Fragen.
 - EGMR — Strassburg bei Konventionsverletzungen.
 
-## Standardliteratur
+## Quellenregel
 
-- Bergmann/Dienelt, Ausländerrecht.
-- Kluth/Heusch, BeckOK Ausländerrecht.
-- Hailbronner, Ausländerrecht.
-- Marx, Aufenthalts- Asyl- und Fluechtlingsrecht.
-- Funke-Kaiser/Goebel-Zimmermann, GK-AsylG.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Migrationsrecht DAV.
@@ -72,11 +67,7 @@ description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsr
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- BVerwG, Urt. v. 22.06.2011 - 1 C 5.10, BVerwGE 140, 64 — Zum Fluechtlingsbegriff Art. 1A GFK: Verfolgungshandlung und Verfolgungsgrund muessen verknuepft sein; staatliche Schutzlosigkeit bei nichtstaatlichen Akteuren genuegt.
-- BVerwG, Urt. v. 09.12.2010 - 10 C 13.09, BVerwGE 138, 289 — Subsidiarer Schutz § 4 AsylG: ernsthafter Schaden bei innerem bewaffnetem Konflikt erfordert individuelle Bedrohung; allgemeine Gefahren im Buergerkrieg koennen genuegen wenn Sicherheitslage extrem schlecht.
-- BVerfG, Beschl. v. 12.05.2005 - 2 BvR 569/05, NJW 2005, 1858 — Eilrechtsschutz vor Abschiebung: Art. 19 Abs. 4 GG gebietet effektiven Rechtsschutz; Gericht darf einstweiligen Rechtsschutz nicht durch zu hohe Anforderungen an Glaubhaftmachung aushebeln.
-- EuGH, Urt. v. 26.02.2013 - C-617/10 (Åkerberg Fransson) — Grundrechtecharta Art. 51 Abs. 1: EU-Grundrechte gelten bei jeder Durchfuehrung von Unionsrecht durch Mitgliedstaaten; Art. 50 GRCh (ne bis in idem) bei Steuerhinterziehung mit steuerlichen und strafrechtlichen Sanktionen (NJW 2013, 1415). Fuer das Migrationsrecht relevant: Soweit AsylG und DublinVO EU-Recht durchfuehren, sind EU-Grundrechte anwendbar — jedoch betrifft das Urteil selbst das Steuerstrafrecht, nicht Asylrecht.
-- EGMR, Urt. v. 21.01.2011 - 30696/09 (M.S.S. v. Belgium) — Systemische Maengel im Aufnahmesystem eines EU-Staates koennen Abschiebung dorthin nach Art. 3 EMRK verbieten; DublinVO entbindet nicht von Pruefung EMRK-Konformitaet.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Migrationsrecht
 
@@ -87,12 +78,9 @@ description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsr
 - **Dublin III-VO (EU) 604/2013** Art. 3 Abs. 2 — systemische Maengel; Art. 17 — Selbsteintrittsrecht
 - **GFK 1951** Art. 1A Fluechtlingsbegriff; Art. 33 Refoulementverbot
 
-## Kommentarliteratur
+## Quellenregel
 
-- Bergmann/Dienelt, Auslaenderrecht, 14. Aufl. 2024 — Standardkommentar AufenthG, AsylG
-- Marx, Aufenthalts-, Asyl- und Fluechtlingsrecht, 7. Aufl. 2020 — Vertiefung Fluechtlingsstatus
-- Kluth/Heusch, BeckOK Auslaenderrecht — Online, regelmaessig aktualisiert
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Bevor losgelegt wird, klaere:
@@ -137,7 +125,7 @@ Datum: [DATUM]
 ```
 
 <!-- AUDIT 27.05.2026
-EuGH C-617/10 (Åkerberg Fransson): Inhaltsbeschreibung korrigiert.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
 Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
 (Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).

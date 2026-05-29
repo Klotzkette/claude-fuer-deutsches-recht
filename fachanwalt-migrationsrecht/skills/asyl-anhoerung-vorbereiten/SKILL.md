@@ -1,6 +1,6 @@
 ---
 name: asyl-anhoerung-vorbereiten
-description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die Schilderung der Fluchtgruende vor. Pruefraster § 25 AsylG Bedeutung der Anhoerung Verfolgungs-Schilderung nach GFK-Schutzgruenden politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Pruefung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand fuer unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhoerungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie fuer behordliche Kommunikation."
+description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die Schilderung der Fluchtgründe vor. Prüfraster § 25 AsylG Bedeutung der Anhoerung Verfolgungs-Schilderung nach GFK-Schutzgründen politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Prüfung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand für unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhoerungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie für behordliche Kommunikation."
 ---
 
 # Asyl-Anhörung beim BAMF vorbereiten
@@ -48,12 +48,9 @@ description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die 
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| BVerwG 10 C 21.08 | BVerwG, 05.05.2009 | Beweiserleichterung für Vorverfolgte nach Art. 4 Abs. 4 Qualifikations-RL 2004/83/EG |
-| BVerwG 1 C 22.15 | BVerwG, 14.12.2016 | GFK-Schutzgründe; sozialer Gruppe; LGBTQI |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | BVerwGE 124, 276 | BVerwG, 18.02.2021 | Subsidiärer Schutz bewaffneter Konflikt; innerstaatliche Fluchtalternative |
-| EuGH C-175/17 | EuGH, 19.03.2019 | Effektiver Rechtsschutz im Asylverfahren; aufschiebende Wirkung |
-| BVerfG 2 BvR 1516/93 | BVerfG, 14.05.1996 | Flughafenverfahren verfassungskonform; Mindestgarantien |
-| EGMR 30696/09 | EGMR, 21.01.2011 | M.S.S. ./. Belgien und Griechenland; systemische Mängel Dublin-Erstland |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -85,7 +82,7 @@ description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die 
 | 10 | Dolmetscher-Eignung prüfen (Dialekt, Vertrauen, keine Verfolger-Nationalität) | § 25 AsylG |
 | 11 | Logistik sichern (Anreise, Vollmacht, Beistand-Anmeldung) | § 25 Abs. 5 AsylG |
 | 12 | Vortrag strukturieren: chronologisch, konkret, eigene Wahrnehmung | Keine Spekulation |
-| 13 | Beweiserleichterung § 4 Abs. 4 RL 2011/95/EU bei Vorverfolgung geltend machen | BVerwG 10 C 21.08 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 14 | Protokoll-Prüfung nach Anhörung: Korrekturen vor Unterschrift | § 25 AsylG |
 | 15 | Ergänzungsschreiben BAMF bei vergessenen Aspekten (mit Fristsetzung) | Mitwirkungspflicht |
 
@@ -167,7 +164,7 @@ II. Verfahrensfehler
    [konkret] wurde nicht abschließend erörtert.
 2. Dolmetscher sprach nicht den Dialekt des Mandanten [konkret].
 3. Trauma-Attest wurde dem BAMF nicht zur Kenntnis gegeben;
-   scheinbare Widersprüche sind traumabedingt (BVerwG 10 C 21.08).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Materielles Schutzbegehren
 [Verfolgungshandlungen, Akteur, fehlender Schutz, keine
@@ -176,7 +173,7 @@ innerstaatliche Fluchtalternative]
 IV. Anordnungsgrund
 Ohne aufschiebende Wirkung droht Überstellung nach [Staat] /
 Abschiebung in den Herkunftsstaat. Dies verletzt Art. 33 GFK,
-Art. 3 EMRK, Art. 4 EU-Grundrechte-Charta (EGMR 30696/09
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 M.S.S. ./. Belgien).
 
 Mit freundlichen Grüßen
@@ -232,7 +229,7 @@ Mit freundlichen Grüßen
 |---|---|---|
 | Glaubhaftmachung Verfolgungsgefahr | Antragsteller | Eigener Vortrag, Dokumente, Atteste, Zeugen (§ 25 AsylG) |
 | Innerstaatliche Fluchtalternative | BAMF | BAMF trägt Darlegungslast; Einzelfallprüfung |
-| Vorverfolgung = Beweiserleichterung | Antragsteller legt dar, BAMF widerlegt | Art. 4 Abs. 4 RL 2011/95/EU; BVerwG 10 C 21.08 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Systemische Mängel Dublin-Erstland | Antragsteller | EGMR-Urteile, Länderberichte (UNHCR, AIDA) |
 | Trauma-bedingte Inkonsistenz erklärt | Antragsteller | Fachärztliches PTBS-Attest |
 | Staatlicher Schutz vorhanden | BAMF | Lageberichte AA; Prüfpflicht des BAMF |
@@ -260,7 +257,7 @@ Mit freundlichen Grüßen
 | Widersprüche zum Erstbefragungsprotokoll | Glaubwürdigkeitseinbruch | Erklärung: Erstbefragung war kurz/stressig; Ergänzung rechtzeitig |
 | Verfolgungsakteur unklar | Kein Zuständigkeitstreffer | Klarstellung: Staat / Miliz / Privatperson + staatlicher Schutz fehlt |
 | Dolmetscher-Qualität mangelhaft | Falsch-Protokoll | Sofort in Anhörung monieren; Protokoll korrigieren vor Unterschrift |
-| PTBS-Attest fehlt | Inkonsistenzen gewertet | Attest vorab einholen; BVerwG 10 C 21.08 zitieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Dublin-III nicht thematisiert | Überstellung unangefochten | Fristen prüfen; Humanitäre Klausel Art. 17 Dublin-III; Familienzusammenführung |
 | Identitätsdokumente vernichtet | Identitätszweifel | Erklärungspflicht; Plausibilitätsprüfung; sonstige Beweise |
 
@@ -301,7 +298,7 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. AsylG §§ 3, 4, 12a, 25, 26a, 36, 74. AufenthG § 60. Dublin-III VO (EU) 604/2013 Art. 8–11, 17, 20, 29. RL 2011/95/EU Art. 4 Abs. 4. BVerwG 10 C 21.08 (05.05.2009). BVerwG 1 C 22.15 (14.12.2016). EGMR 30696/09 M.S.S. (21.01.2011). BVerfG 2 BvR 1516/93 (14.05.1996). Hailbronner Ausländerrecht. Bergmann/Dienelt AuslR. UNHCR-Länderberichte laufend aktualisieren.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Output-Template: Vorbereitungs-Checkliste Asyl-Anhoerung
 

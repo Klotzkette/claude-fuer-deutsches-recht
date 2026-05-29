@@ -1,6 +1,6 @@
 ---
 name: klageschrift-pflichtbestandteile-253-zpo
-description: "Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung fuer eine vollstaendige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe."
+description: "Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe."
 ---
 
 # So bauen Sie eine Klageschrift auf

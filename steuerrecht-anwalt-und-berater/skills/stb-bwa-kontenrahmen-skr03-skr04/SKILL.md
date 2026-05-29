@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-kontenrahmen-skr03-skr04
-description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 fuer BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen."
+description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen."
 ---
 
 # Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung fuer BWA
@@ -36,7 +36,7 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 
 - DATEV-Kontenrahmen-Dokumentation (jaehrliche Updates).
 - IDW RS HFA 38 — Gliederungsgrundsaetze nach HGB.
-- BMF v. 28.09.2011 (BStBl I 2011, 855) — E-Bilanz-Taxonomie; jaehrliche Anpassung. Aktuelle Taxonomie-Version (Stand 2026) ueber datev.de oder bmf-bezogen-portal verifizieren.
+- BMF v. 28.09.2011 (BStBl I 2011, 855) — E-Bilanz-Taxonomie; jaehrliche Anpassung durch BMF-Schreiben. Aktuelle Version ist die Taxonomie 6.9 (BMF-Schreiben April 2025, verpflichtend fuer WJ ab 01.01.2026); aktuelle Fassung ueber esteuer.de abrufbar.
 
 ## Workflow
 
@@ -102,5 +102,7 @@ Stand: 05/2026.
 - HGB §§ 238, 252, 275.
 - EStG § 5b.
 - DATEV-Kontenrahmen SKR 03 und SKR 04 (Stand 2026).
-- BMF v. 28.09.2011, BStBl I 2011, 855 (E-Bilanz-Grundsaetze; jaehrliche Taxonomie-Aktualisierung; Stand 2026 verifizieren).
+- BMF v. 28.09.2011, BStBl I 2011, 855 (E-Bilanz-Grundsaetze); jaehrliche Taxonomie-Aktualisierung: aktuelle Version 6.9 (WJ ab 01.01.2026), abrufbar unter esteuer.de.
 - IDW RS HFA 38.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (E-Bilanz Taxonomie 6.9 fuer WJ 2026 bestaetigt, esteuer.de-Quelle angegeben) -->

@@ -1,6 +1,6 @@
 ---
 name: kollegialitaetsgebot-pruefung
-description: "E-Mail auf Einhaltung des Kollegialitaetsgebots gegenueber Kollegen und Kolleginnen pruefen. § 43a Abs. 3 BRAO § 26 BORA Kollegialitaet. Pruefraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitaets-Pruefprotokoll Korrekturvorschlaege. Abgrenzung: nicht fuer Mandantenkommunikation."
+description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation."
 ---
 
 # Kollegialitätsgebot-Prüfung
@@ -15,10 +15,9 @@ Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kolleg
 4. Hat die Gegenseite ihrerseits das Kollegialitaetsgebot verletzt — und verleitet das zur Erwiderung?
 
 ## Aktuelle Rechtsprechung
-- AGH NRW, Beschl. v. 15.06.2018 - 1 AGH 14/18, NJW-RR 2019, 55 — § 25 BORA: Kollegialitaetsgebot gilt auch in Mandantenschreiben, wenn darin ueber den gegnerischen Anwalt geurteilt wird.
-- BGH, Beschl. v. 07.07.2014 - AnwZ (Brfg) 6/14, NJW 2014, 3168 — Persoenliche Herabwuerdigung des Kollegen in Schriftsatz begruendet berufsrechtliche Ruege; sachliche Fachkritik bleibt zulaessig.
-- OLG Frankfurt, Urt. v. 20.02.2015 - 2-06 O 310/14 — Eigenes Fehlverhalten des Kollegen rechtfertigt keine Herabsetzung als Reaktion; beide Seiten muessen Sachlichkeitsgebot einhalten.
-- AGH Hamm, Beschl. v. 22.11.2013 - 2 AGH 22/13, AnwBl 2014, 180 — Herabsetzende Aeusserungen ueber Kollegen in E-Mail-Korrespondenz ausreichend fuer berufsrechtliche Massnahme.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 25 BORA — Kollegialitaetsgebot
@@ -26,17 +25,16 @@ Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kolleg
 - § 12 BORA — Direktkontaktverbot: kein Schreiben an Mandanten des Kollegen ohne Einwilligung
 - § 43b BRAO — Werbeverbot: keine herabsetzenden Vergleiche mit Kollegen in Aussenkommunikation
 
-## Kommentarliteratur
-- Hartung/Scharmer, BORA § 25 Rn. 1-35 (Kollegialitaetsgebot: Inhalt, Grenzen und Rechtsfolgen)
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 80-100 (Sachlichkeit gegenueber Kollegen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Das Kollegialitätsgebot nach § 25 BORA
 
 § 25 BORA verpflichtet Rechtsanwälte zu gegenseitiger Rücksichtnahme und einem fairen Umgang auch in streitigen Situationen. Das bedeutet konkret: keine persönlichen Angriffe auf den Kollegen (auch wenn der Mandant das wünscht), keine Herabsetzung der fachlichen Leistung ohne sachliche Grundlage, keine Unterstellungen über persönliche Motive. Das Kollegialitätsgebot gilt nicht nur in der Kommunikation von Anwalt zu Anwalt, sondern auch in Mandantenanschreiben, wenn darin über den gegnerischen Kollegen gesprochen wird.
 
 ## Zulässige vs. unzulässige Kritik an Kollegen
 
-Zulässig ist sachlich begründete Kritik: „Der Schriftsatz Ihres Kollegen enthält keine ausreichende Auseinandersetzung mit der BGH-Rechtsprechung zu XY." Unzulässig ist persönliche Herabsetzung: „Ihr unfähiger Anwalt hat die Frist versäumt." Zulässig ist die Beschreibung eines Verfahrensfehlers: „Die Klagefrist wurde nicht gewahrt." Unzulässig ist die Qualifikation als persönliches Versagen: „Ihr Anwalt hat sein Handwerk nicht gelernt."
+Zulässig ist sachlich begründete Kritik: "Der Schriftsatz Ihres Kollegen enthält keine ausreichende Auseinandersetzung mit der BGH-Rechtsprechung zu XY." Unzulässig ist persönliche Herabsetzung: "Ihr unfähiger Anwalt hat die Frist versäumt." Zulässig ist die Beschreibung eines Verfahrensfehlers: "Die Klagefrist wurde nicht gewahrt." Unzulässig ist die Qualifikation als persönliches Versagen: "Ihr Anwalt hat sein Handwerk nicht gelernt."
 
 ## Besondere Problemfelder
 
@@ -52,14 +50,14 @@ Schritt 1: Kommt der Name oder die Berufsbezeichnung eines Kollegen im Schreiben
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ihr unfähiger Anwalt hat meine Mandantin falsch beraten."
-**Nachher:** „Die Beratung Ihrer Mandantin durch den Kollegen hat nach meiner Einschätzung zu einem rechtlich nachteiligen Ergebnis geführt."
+**Vorher:** "Ihr unfähiger Anwalt hat meine Mandantin falsch beraten."
+**Nachher:** "Die Beratung Ihrer Mandantin durch den Kollegen hat nach meiner Einschätzung zu einem rechtlich nachteiligen Ergebnis geführt."
 
-**Vorher:** „Ihr Kollege versteht offenbar nicht, was ein Erfüllungsanspruch ist."
-**Nachher:** „Die rechtliche Einordnung im Schreiben des Kollegen weicht von der geltenden Dogmatik ab."
+**Vorher:** "Ihr Kollege versteht offenbar nicht, was ein Erfüllungsanspruch ist."
+**Nachher:** "Die rechtliche Einordnung im Schreiben des Kollegen weicht von der geltenden Dogmatik ab."
 
-**Vorher:** „Der Herr Kollege sollte vielleicht nochmal die Grundlagen studieren."
-**Nachher:** Streichen oder ersetzen durch: „Ich erlaube mir, auf folgende Rechtsprechung hinzuweisen, die für den Sachverhalt einschlägig sein dürfte..."
+**Vorher:** "Der Herr Kollege sollte vielleicht nochmal die Grundlagen studieren."
+**Nachher:** Streichen oder ersetzen durch: "Ich erlaube mir, auf folgende Rechtsprechung hinzuweisen, die für den Sachverhalt einschlägig sein dürfte..."
 
 ## Ausgabeformat
 

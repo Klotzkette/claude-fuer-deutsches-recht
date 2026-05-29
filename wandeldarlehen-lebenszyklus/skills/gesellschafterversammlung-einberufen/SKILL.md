@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlung-einberufen
-description: "Gesellschafterversammlung fuer Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Pruefraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht fuer spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten)."
+description: "Gesellschafterversammlung für Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Prüfraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht für spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten)."
 ---
 
 # Gesellschafterversammlung einberufen (Kapitalerhöhung)
@@ -28,8 +28,7 @@ Dieser Skill leitet die Einberufung der außerordentlichen Gesellschafterversamm
 - § 53 Abs. 2 GmbHG (Satzungsänderungsbeschluss: notarielle Beurkundung, drei Viertel-Mehrheit)
 
 ### Rechtsprechung
-- BGH, Urt. v. 14. Juli 2008 – II ZR 28/07 (Mängel bei Einberufung und Heilung durch Einstimmigkeit)
-- OLG Frankfurt, Urt. v. 28. Juni 2016 – 5 U 4/16 (Einberufungsmängel und Beschlussanfechtung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -96,9 +95,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 49 ff. aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 14.05.2019 — **II ZR 299/17**, NJW 2019, 2169 Rn. 14: Gesellschafterversammlung muss für Kapitalerhöhungsbeschluss nach § 51 GmbHG mindestens eine Woche vor der Versammlung einberufen werden; kürzere Fristen sind nur mit Zustimmung aller Gesellschafter zulässig; mündliche Einberufung (Vollversammlung nach § 51 Abs. 3 GmbHG) ist nur möglich, wenn alle Gesellschafter anwesend oder vertreten sind.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 10: Bei notariell zu beurkundenden Beschlüssen (§ 53 GmbHG) muss die Einladung den genauen Beschlussgegenstand enthalten; allgemeiner Hinweis auf "Kapitalerhöhung" ohne Nennung des Betrags und der Einlage reicht nicht aus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

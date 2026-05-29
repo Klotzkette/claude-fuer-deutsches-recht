@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-kuendigung
-description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuendigung und prueft Wirksamkeit. Ordentliche Kuendigung § 573 BGB ausserordentliche Kuendigung §§ 543 569 BGB Eigenbedarfskuendigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Pruefraster Kuendigungs-Grund Abmahnung Kuendigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kuendigungs-Schreiben Widerspruch Raeumugsklage. Abgrenzung zu eigenbedarfskuendigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht)."
+description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht)."
 ---
 
 # Kündigung eines Wohnraummietverhältnisses
@@ -22,10 +22,10 @@ description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuend
 ### Ordentliche Kündigung
 
 - **§ 573 Abs. 1 BGB** — berechtigtes Interesse des Vermieters erforderlich; abschließende Regelung.
-- **§ 573 Abs. 2 Nr. 1 BGB** — Pflichtverletzung: schuldhaftes Verhalten des Mieters, das Kündigung als angemessene Reaktion erscheinen lässt; i. d. R. Abmahnung Voraussetzung (BGH VIII ZR 191/10).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 573 Abs. 2 Nr. 2 BGB** — Eigenbedarf: Vermieter oder Familienangehörige (§ 573 Abs. 2 Nr. 2 Halbsatz 2: Familienangehörige = namentlich aufzuführen); Nutzungswunsch muss ernsthaft, vernünftig und nachvollziehbar sein.
 - **§ 573 Abs. 2 Nr. 3 BGB** — Wirtschaftliche Verwertung: angemessene wirtschaftliche Verwertung ohne Kündigung nicht möglich; strenge Voraussetzungen.
-- **§ 573 Abs. 3 BGB** — Begründungspflicht im Kündigungsschreiben: Anfechtungsgrund konkret und aktuell; Austausch nach Zugang grundsätzlich nicht möglich (BGH VIII ZR 61/18).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 568 Abs. 1 BGB** — Schriftform zwingend.
 - **§ 568 Abs. 2 BGB** — Belehrung über Widerspruchsrecht §§ 574 ff. BGB.
 
@@ -40,7 +40,7 @@ description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuend
 - **§ 543 Abs. 2 Nr. 3 BGB** — Zahlungsverzug: lit. a bei zwei aufeinanderfolgenden Monaten jeweils mind. eine Monatsmiete; lit. b Verzug über zwei Mietzeiträume mit mehr als einer Monatsmiete.
 - **§ 543 Abs. 3 BGB** — Abmahnungserfordernis vor Kündigung wegen Ruhestörung/Pflichtverletzung.
 - **§ 569 Abs. 3 Nr. 1 BGB** — Schonfristzahlung heilt die fristlose Kündigung: vollständige Begleichung binnen zwei Monaten nach Zustellung der Räumungsklage.
-- **BGH VIII ZR 91/20** — Schonfristzahlung heilt nur die fristlose Kündigung, nicht die hilfsweise erklärte ordentliche Kündigung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Sozialklausel / Widerspruch
 
@@ -50,11 +50,7 @@ description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuend
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 22.08.2018 — **VIII ZR 277/16** (BGHZ 219, 297): Eigenbedarf — ernsthafte, tatsächliche Nutzungsabsicht; Tatgericht hat Härtegründe zu würdigen.
-- BGH, Urt. v. 27.06.2007 — **VIII ZR 271/06**: vorgetäuschter Eigenbedarf = Schadensersatz Umzugskosten + Mietzinsdifferenz.
-- BGH, Urt. v. 13.10.2021 — **VIII ZR 91/20**: Schonfristzahlung heilt nur fristlose, nicht hilfsweise ordentliche Kündigung.
-- BGH, Urt. v. 04.05.2011 — **VIII ZR 191/10**: Abmahnung vor Pflichtverletzungskündigung grundsätzlich erforderlich.
-- BGH, Beschl. v. 23.10.2018 — **VIII ZR 61/18**: Begründungspflicht § 573 Abs. 3 BGB — Auswechslung nach Zugang grundsätzlich unzulässig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -142,7 +138,7 @@ Hinweis Schonfristzahlung § 569 Abs. 3 BGB: Die fristlose
 Kündigung kann durch vollständige Begleichung aller ausstehenden
 Beträge binnen zwei Monaten nach Zustellung einer Räumungsklage
 geheilt werden. Die hilfsweise ordentliche Kündigung wird
-dadurch nicht berührt (BGH VIII ZR 91/20).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Unterschrift]
 ```
@@ -181,8 +177,7 @@ dadurch nicht berührt (BGH VIII ZR 91/20).
 |---|---|
 | Eigenbedarf vorgetäuscht | Ernsthafte Nutzungsabsicht durch Belege und Zeugen; keine Weitervermietung nach Auszug |
 | Kein Verwandtschaftsgrad nach § 573 Abs. 2 Nr. 2 BGB | Kreis der Angehörigen ist weit: Kinder, Eltern, Geschwister, Enkel, Ehegatte |
-| Schonfristzahlung heilt Kündigung | Nur fristlose wird geheilt (BGH VIII ZR 91/20); ordentliche bleibt wirksam |
-| Härteklausel § 574 BGB | Abwägung im Prozess; hohe Latte bei echtem Eigenbedarf (BGH VIII ZR 277/16) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Abmahnung nicht erfolgt | Bei Zahlungsverzug § 543 Abs. 2 Nr. 3 BGB keine Abmahnung erforderlich |
 
 ## Streitwert und Kosten
@@ -212,6 +207,6 @@ dadurch nicht berührt (BGH VIII ZR 91/20).
 
 - BGB §§ 535, 543, 549–574b
 - GKG § 41
-- BGH VIII ZR 277/16; VIII ZR 271/06; VIII ZR 91/20; VIII ZR 191/10; VIII ZR 61/18
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
-- Staudinger BGB §§ 535 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

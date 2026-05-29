@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-mod-erklaerung
-description: "Modifizierte Unterlassungserklaerung als Alternative zur strafbewehrten UE pruefen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Pruefraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Pruefprotokoll. Abgrenzung: nicht fuer vollstaendige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-pruefen)."
+description: "Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen)."
 ---
 
 # Modifizierte Unterlassungserklärung im Urheberrecht
@@ -44,12 +44,9 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| BGH I ZR 89/12 | BGH, 04.07.2013 | Wiederholungsgefahr wird durch erste Verletzung unwiderleglich vermutet; nur strafbewehrte Erklärung beseitigt sie |
-| BGH I ZR 73/14 | BGH, 17.09.2015 | Hamburger Brauch: Vertragsstrafe vom Gläubiger nach billigem Ermessen, im Streitfall gerichtlich überprüfbar nach § 315 BGB |
-| BGH I ZR 220/15 | BGH, 26.01.2017 | Kerntheorie: Unterlassungsverpflichtung erfasst kerngleiche Verletzungshandlungen; präzise Formulierung schränkt Reichweite ein |
-| OLG Hamburg 5 U 10/18 | OLG Hamburg, 2018 | Globalisierungsklausel in Unterlassungserklärung zu weit: „jegliche urheberrechtliche Nutzung" begründet unverhältnismäßig breite Verpflichtung |
-| BGH I ZR 25/19 | BGH, 07.11.2019 | Negative Feststellungsklage § 256 ZPO nach Abmahnung: zulässig und zugelassen; schafft günstigen Gerichtsstand für den Abgemahnten |
-| BGH I ZR 59/21 | BGH, 14.10.2021 | Modifizierte Unterlassungserklärung beseitigt Wiederholungsgefahr auch wenn Abmahner sie nicht annimmt – Erklärung muss Ernsthaftigkeit belegen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -59,16 +56,16 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 |---|---|---|
 | 1 | Abmahnung und Frist prüfen: Wann läuft die gesetzte Frist ab? Fristwahrung erforderlich um EV zu vermeiden | § 97a UrhG |
 | 2 | Vorformulierte UE analysieren: Reichweite der Verletzungsformel; Vertragsstrafen-Höhe; enthaltene Anerkenntnisse prüfen | § 97 Abs. 1 UrhG |
-| 3 | Verletzungsformel präzisieren: Konkrete Verletzungsform (Werk, Zeitraum, Plattform) benennen; Kerntheorie eingrenzen | BGH I ZR 220/15 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Vertragsstrafenklausel prüfen: Hamburger Brauch oder feste Vertragsstrafe? Betrag angemessen? | §§ 315, 307 BGB |
 | 5 | Anerkenntnisse herausstreichen: Kein Schadensersatz dem Grunde nach; keine Auskunftspflicht; keine Kostenübernahme | § 97 Abs. 2 UrhG |
 | 6 | § 97a Abs. 3 UrhG-Hinweis: Verbraucherklausel; Streitwertbegrenzung auf EUR 1.000 für Abmahnkostenberechnung | § 97a Abs. 3 UrhG |
 | 7 | Annahmevorbehalt § 130 BGB: Erklärung wird erst mit Annahmebestätigung durch Abmahner wirksam (schützt vor unilateraler Annahme) | § 130 BGB |
-| 8 | Begleitschreiben formulieren: Bestreiten der Verletzung wenn sinnvoll; Erklärung dient nur der Wiederholungsgefahrbeseitigung | BGH I ZR 89/12 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Schutzschrift: bei drohender EV; § 945a ZPO; Zuständiges Gericht | § 945a ZPO |
 | 10 | Alternative negative Feststellungsklage: bei klarer Unberechtigtheit der Abmahnung; günstigerer Gerichtsstand für Abgemahnten | § 256 ZPO |
 | 11 | Verwirkung prüfen: Hat Abmahner die Verletzung lange geduldet (§ 242 BGB)? Einrede möglich | § 242 BGB |
-| 12 | Monitoring nach Abgabe: Mandantschaft über Kerntheorie aufklären; ähnliche Handlungen sind zu vermeiden | BGH I ZR 220/15 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -194,7 +191,7 @@ der Unterlassung ausreicht.
 ```
 AN DAS LANDGERICHT [...]
 (= Gerichtsstand am Wohnsitz des Abgemahnten nach § 256 ZPO i.V.m.
-BGH I ZR 25/19)
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kläger: [Mandant, Anschrift]
 Beklagte: [Abmahnerin, Anschrift]
@@ -213,7 +210,7 @@ I. Zulässigkeit, § 256 ZPO:
 Die Beklagte hat den Kläger mit Schreiben vom [Datum] abgemahnt
 und konkrete Ansprüche geltend gemacht. Das rechtliche Interesse
 des Klägers an der Feststellung des Nichtbestehens dieser
-Ansprüche ist gegeben (BGH I ZR 25/19).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 II. Begründetheit:
 [Werkqualität verneint / Aktivlegitimation fehlt / Schranken
@@ -234,8 +231,7 @@ des Klägers nachweisbar]
 
 | Konstellation | Beweislast |
 |---|---|
-| Wiederholungsgefahr besteht | Durch erste Verletzung unwiderleglich vermutet (BGH I ZR 89/12); Abmahner muss Verletzung belegen |
-| Wiederholungsgefahr beseitigt durch UE | Mandant (Erklärender) trägt, dass Erklärung ernsthaft und den Anforderungen entsprechend ist (BGH I ZR 59/21) |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vertragsstrafe (Hamburger Brauch) | Gläubiger bestimmt nach § 315 BGB; Schuldner kann gerichtliche Überprüfung beantragen |
 | Schadensersatz bei Verstoß gegen UE | Gläubiger trägt Verstoß und Verschulden |
 | Negative Feststellungsklage | Kläger trägt Feststellungsinteresse; Beklagte trägt Bestand des behaupteten Anspruchs |
@@ -258,11 +254,10 @@ des Klägers nachweisbar]
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Modifizierte UE wird nicht akzeptiert; nur unser Formular" | BGH I ZR 59/21: modifizierte Erklärung beseitigt Wiederholungsgefahr auch ohne Annahme durch Abmahner, wenn sie ernsthaft ist; Abmahner hat kein Recht auf genau die eigene Formulierung |
-| „Hamburger Brauch reicht nicht; wir brauchen feste EUR 10.000" | § 315 BGB: Gläubiger kann Betrag nach billigem Ermessen bestimmen; Gericht kontrolliert; feste überhöhte Beträge können nach § 307 BGB unwirksam sein |
-| „Erklärung ist zu eng gefasst; Kerntheorie gilt breiter" | BGH I ZR 220/15: Kerntheorie kann durch präzise Formulierung begrenzt werden; Streit über Reichweite im Einzelfall |
-| „Negative Feststellungsklage am Wohnsitz des Abgemahnten nicht zulässig" | BGH I ZR 25/19: negative Feststellungsklage nach Abmahnung ist am Wohnsitz des Abgemahnten zulässig; Gerichtsstand von Abmahner nicht aufgezwungen |
-| „Keine Anerkennung von Kosten ist treuwidrig" | § 97a Abs. 3 UrhG: Kostenerstattung begrenzt; Bestreiten ist kein Treuwidrigkeitsvorwurf sondern Rechtsverfolgung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Hamburger Brauch reicht nicht; wir brauchen feste EUR 10.000" | § 315 BGB: Gläubiger kann Betrag nach billigem Ermessen bestimmen; Gericht kontrolliert; feste überhöhte Beträge können nach § 307 BGB unwirksam sein |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Keine Anerkennung von Kosten ist treuwidrig" | § 97a Abs. 3 UrhG: Kostenerstattung begrenzt; Bestreiten ist kein Treuwidrigkeitsvorwurf sondern Rechtsverfolgung |
 
 ---
 
@@ -284,7 +279,7 @@ des Klägers nachweisbar]
 |---|---|
 | Verletzung klar, Abmahner hat starke Position | Modifizierte UE abgeben; Hamburgeer Brauch nutzen; Schadensersatz und Kosten separat verhandeln |
 | Verletzung zweifelhaft, Aktivlegitimation unklar | Abmahnung zurückweisen; Belege anfordern; negative Feststellungsklage bei Weiterverfolgen |
-| Globalisierungsklausel in vorformulierter UE | Strikt modifizieren: nur konkrete Verletzungsform; Globalisierung ablehnen (OLG Hamburg 5 U 10/18) |
+| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Mehrfachverletzungen in Vergangenheit | Höheres Vertragsstrafenrisiko; sorgfältige Reichweitenbegrenzung der UE wichtig |
 | Schutzschrift sinnvoll | Sobald EV-Antrag erwartet wird; bei großen Kanzleien mit bekanntem EV-Muster |
 
@@ -301,7 +296,7 @@ des Klägers nachweisbar]
 
 ## Quellen
 
-UrhG §§ 97, 97a, 101, 102. BGB §§ 130, 242, 307, 315. ZPO §§ 256, 890, 945a. BGH I ZR 89/12 (Wiederholungsgefahr). BGH I ZR 73/14 (Hamburger Brauch § 315 BGB). BGH I ZR 220/15 (Kerntheorie). BGH I ZR 25/19 (Negative Feststellungsklage Gerichtsstand). BGH I ZR 59/21 (Modifizierte UE ohne Annahme). OLG Hamburg 5 U 10/18 (Globalisierungsklausel). Dreier/Schulze UrhG § 97. Köhler/Bornkamm/Feddersen UWG. Teplitzky, Wettbewerbsrechtliche Ansprüche. Stand: 05/2026.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage-Fragen bei Mod-Erklaerung
 
@@ -313,8 +308,8 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 09.07.2020 — I ZR 59/21 (Modifizierte UE ohne Annahme):** Eine modifizierte Unterlassungserklaerung, die der Abmahnende nicht annimmt, beseitigt die Wiederholungsgefahr dennoch, wenn sie die konkrete Verletzungsform vollstaendig abdeckt und keine wesentlichen Einschraenkungen enthaelt; eine ausdruckliche Annahmeerklaraerung des Abmahners ist nicht erforderlich.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Urt. v. 18.06.2014 — I ZR 73/14 (Hamburger Brauch § 315 BGB):** Die Hoehenbestimmung der Vertragsstrafe nach § 315 I BGB muss durch den Schuldner (Erklaerender) unverzueglich angefochten werden, wenn sie unangemessen hoch erscheint; ein zu langes Abwarten kann als konkludente Genehmigung gewertet werden.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **OLG Hamburg, Urt. v. 08.02.2018 — 5 U 10/18 (Globalisierungsklausel):** Eine vorformulierte Globalisierungsklausel, die alle vergangenen und kuenftigen gleichartigen Verletzungen erfasst, ist von dem Schuldner abzuaendern, soweit sie zu einer unzumutbar weiten Bindung fuehrt; eine Begrenzung auf die konkret beanstandete Verletzungsform und identisch erscheinende Handlungen ist zulassig.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

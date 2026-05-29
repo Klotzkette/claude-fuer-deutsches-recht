@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-aufnahme
-description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Pruefraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output: Einordnungsnotiz und Empfehlung Reaktion. Abgrenzung: nicht eigenes Mahnschreiben erstellen."
+description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Prüfraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output: Einordnungsnotiz und Empfehlung Reaktion. Abgrenzung: nicht eigenes Mahnschreiben erstellen."
 ---
 
 # Mahnschreiben-Intake
@@ -22,16 +22,14 @@ description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: A
 - § 203 BGB (Verjährungshemmung durch Verhandlungen)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 25.10.2007 – III ZR 91/07, NJW 2008, 435 Rn. 14 — Eine Mahnung muss die Forderung inhaltlich so bestimmt bezeichnen, dass der Schuldner erkennen kann, worauf sie sich bezieht; eine pauschale Zahlungsaufforderung ohne Forderungsbezeichnung genügt nicht.
-2. BGH, Urt. v. 13.01.2011 – IX ZR 110/10, NJW 2011, 1603 Rn. 9 — Die anwaltliche Geschäftsgebühr für das Mahnschreiben (VV 2300 RVG, Faktor 1,3) ist nur erstattungsfähig, wenn die vorgerichtliche Inanspruchnahme eines Anwalts aus Sicht des Gläubigers notwendig war.
-3. BGH, Urt. v. 12.07.2006 – X ZR 157/05, NJW 2006, 3271 — Eine Mahnung setzt den Schuldner in Verzug; für den Verzugseintritt ist es ausreichend, wenn der Gläubiger die fällige Leistung eindeutig einfordert.
-4. BGH, Urt. v. 19.11.2014 – IV ZR 77/14, NJW 2015, 452 — Verhandlungen über den Anspruch hemmen die Verjährung nach § 203 BGB bereits ab dem Zeitpunkt, in dem eine Seite ernsthaft verhandlungsbereit ist; spätere Ablehnung endet die Hemmung.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 286 Rn. 1 ff. (Verzug und Mahnungserfordernis).
-- Palandt, BGB, 82. Aufl. 2023, § 195 Rn. 1 ff. (Regelverjährung).
-- Mayer/Kroiber, RVG, 8. Aufl. 2022, VV 2300 Rn. 1 ff. (Geschäftsgebühr vorgerichtlich).
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Strukturierte Erfassung aller für ein Mahnschreiben oder eine vorgerichtliche Aufforderung notwendigen Informationen, bevor der Entwurf erstellt wird. Der Skill führt ein geordnetes Interview und schreibt die Antworten in `demand-letters/[slug]/intake.md`.
@@ -81,10 +79,8 @@ Strukturierte Erfassung aller für ein Mahnschreiben oder eine vorgerichtliche A
 
 Verbindlich: `../references/zitierweise.md`.
 
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 286 Rn. 14 ff. (Mahnung: Bestimmtheit, Form, Empfangsbedürftigkeit).
-- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 288 Rn. 1 ff. (Verzugszinsen: Höhe, Fälligkeit, Verbraucher vs. Unternehmer).
-- BGH, Urt. v. 25.10.2007 – III ZR 91/07, NJW 2008, 435 Rn. 14 (Mahnungserfordernisse: Bestimmtheit und Ernsthaftigkeit).
-- RVG § 13 i. V. m. VV 2300 (Geschäftsgebühr für vorgerichtliche Tätigkeit; Faktor 1,3 als Schwellenwert – BGH, Urt. v. 13.01.2011 – IX ZR 110/10, NJW 2011, 1603 Rn. 9).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

@@ -1,6 +1,6 @@
 ---
 name: berufungsfest-pruefen
-description: "Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begruendungsmangel). Pruefraster: Tatsachenfeststellung vollstaendig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begruendungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitspruefung siehe revisionsfest-pruefen; Tenorierung siehe tenor-bauen-zivil."
+description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil."
 ---
 
 # Berufungsfestigkeit prüfen
@@ -49,40 +49,6 @@ description: "Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen:
 - [ ] Unterschrift der erkennenden Richter (§ 315 Abs. 1 ZPO)?
 - [ ] Hinweispflicht § 139 ZPO dokumentiert?
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Heßler §§ 511-541 ZPO (Berufung) — maßgebend für Berufungsrecht
-- Thomas/Putzo ZPO § 546 (Revisionsgründe) — knapp und praxisnah
-- MüKo ZPO § 529 (Tatsachenfeststellung Berufung)
-
----
-
-Adressat: Richter/Referendar vor Urteilsverkündung — Tonfall: sachlich-prüfend
-
-<!-- AUDIT 27.05.2026
-Geprüft im Rahmen von Repair-Task 235 (Halluzinations-Reparatur).
-Alle 4 in der Sektion "Aktuelle Rechtsprechung zu Berufungsgründen" enthaltenen
-Rechtsprechungsnachweise wurden auf dejure.org verifiziert und für ungültig befunden:
-
-- BGH V ZR 200/19 (behauptetes Datum 23.04.2021): NICHT GEFUNDEN. Das AZ
-  II ZR 200/19 existiert (23.02.2021), betrifft aber Gesellschaftsrecht
-  (Kommanditist/Filmfonds), nicht § 286 ZPO. Status: WRONG_TOPIC → gelöscht.
-
-- BGH VI ZR 377/19 (behauptetes Datum 16.06.2020): NICHT GEFUNDEN auf
-  dejure.org. Status: NOT_FOUND → gelöscht.
-
-- BGH VIII ZR 191/19 (behauptetes Datum 11.11.2020): AZ existiert unter
-  dem Datum 07.04.2021, betrifft jedoch Verbrauchsgüterkauf/§ 13 BGB,
-  nicht § 547 Nr. 6 ZPO. Thema der Zitation halluziniert. Status:
-  NOT_FOUND (falsches Datum) + WRONG_TOPIC → gelöscht.
-
-- BGH VII ZR 83/20 (behauptetes Datum 04.02.2021): NICHT GEFUNDEN auf
-  dejure.org. Status: NOT_FOUND → gelöscht.
-
-Die Sektion "Aktuelle Rechtsprechung zu Berufungsgründen" ist nun leer.
-Kein Ersatz eingetragen, da keine verifizierten BGH-Entscheidungen mit
-passendem Thema (§ 286 ZPO Beweiswürdigung im Berufungskontext,
-§ 547 Nr. 6 ZPO Begründungsmangel, § 511 Abs. 4 ZPO Berufungszulassung,
-§ 139 ZPO Hinweispflicht) im Rahmen dieser Reparatur auf dejure.org
-nachgewiesen werden konnten. Neubestückung obliegt dem Skill-Maintainer.
--->
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

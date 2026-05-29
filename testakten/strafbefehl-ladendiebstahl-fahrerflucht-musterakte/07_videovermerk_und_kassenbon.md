@@ -16,14 +16,14 @@
 | **Aktenzeichen** | 402 Js 1182/26 |
 | **Sicherungsnr. Datenmaterial** | DS-0347-26 |
 | **Kamera-System** | Hikvision DS-2CD2143G2-I, Deckeninstallation, 4 MP Auflösung |
-| **Betriebsort** | Drogerie „Beauté & Co", Immermannstraße 38, 40210 Düsseldorf |
+| **Betriebsort** | Drogerie "Beauté & Co", Immermannstraße 38, 40210 Düsseldorf |
 | **Gesichteter Zeitraum** | 17.03.2026, 14:38 Uhr bis 14:53 Uhr |
 
 ---
 
 ### Beschreibung der ausgewerteten Kamerasequenzen
 
-Die Videoüberwachungsanlage der Drogerie „Beauté & Co" umfasst 6 Kameras:
+Die Videoüberwachungsanlage der Drogerie "Beauté & Co" umfasst 6 Kameras:
 
 | Kamera | Position | Relevanz für Tat |
 |---|---|---|
@@ -80,7 +80,7 @@ Die Originalvideodatei (Komprimierungsformat: H.264, Auflösung 2560×1440 px na
 | **Bon-Datum** | 17.03.2026, 14:48 Uhr |
 | **Kassen-ID** | Kasse Nr. 3, Filiale 0714, Düsseldorf Immermannstraße |
 | **Bon-Nr.** | 201-0347-1448 |
-| **Kassiererin** | Mitarbeiterin „Hanna" (Vollname aus Datenschutzgründen geschwärzt) |
+| **Kassiererin** | Mitarbeiterin "Hanna" (Vollname aus Datenschutzgründen geschwärzt) |
 
 ### Gebuchte Artikel (bezahlte Ware)
 
@@ -97,10 +97,10 @@ Die Originalvideodatei (Komprimierungsformat: H.264, Auflösung 2560×1440 px na
 
 | Pos. | Artikel | EAN | Listenpreis |
 |---|---|---|---|
-| 1 | Revlon ColorStay Lippenstift Nr. 210 „Nude" | 3052819919055 | 9,99 EUR |
+| 1 | Revlon ColorStay Lippenstift Nr. 210 "Nude" | 3052819919055 | 9,99 EUR |
 | 2 | Artdeco Perfect Teint Foundation Nr. 12 | 4052136027891 | 14,33 EUR |
 | 3 | KIKO Milano Eyeshadow Palette Nr. 03 | 8025272911290 | 18,99 EUR |
-| 4 | Nivea Body Lotion „Repair & Care" 250 ml | 4005900022707 | 4,49 EUR |
+| 4 | Nivea Body Lotion "Repair & Care" 250 ml | 4005900022707 | 4,49 EUR |
 | | **Gesamtwert Tatware** | | **47,80 EUR** |
 
 ---

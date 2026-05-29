@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-vereinsstrafrecht
-description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: Spielsperre Geldstrafe Lizenzentzug. § 25 BGB Satzungsautonomie BGH II ZR 7/70 Inhaltskontrolle Vereinsstrafe AGB §§ 305 ff. BGB BGH Pechstein KZR 6/15. Normen § 25 BGB §§ 305 ff. BGB § 1029 ZPO CAS Code. Pruefraster Rechtsgrundlage Verhaeltnismaessigkeit Verfahrensrechte Anhoerung Gerichtsweg. Output Widerspruchs-Schrift Klage-Entwurf CAS-Berufung. Abgrenzung zu verbandsstrafe-anfechten (Raster allg.) und cas-berufung-vorbereiten (CAS)."
+description: "Workflow-Skill zu fachanwalt sportrecht vereinsstrafrecht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Vereinsstrafrecht
@@ -39,12 +39,12 @@ description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: 
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| II ZR 70/86 | BGH, 28.11.1994 | Inhaltskontrolle Vereinsstrafe: materiell satzungsgemäß, verhältnismäßig, nicht ermessensfehlerhaft |
-| KZR 6/15 | BGH, 07.06.2016 (Pechstein) | Sportschiedsklauseln wirksam bei struktureller Ausgewogenheit |
-| II ZR 235/95 | BGH, 1997 | AGB-Kontrolle Verbandssatzung bei faktischem Beitrittszwang |
-| 1 BvR 2103/16 | BVerfG, 03.06.2022 | Sportschiedsgerichtsbarkeit verfassungskonform; Mindeststandards |
-| II ZR 165/95 | BGH, 1996 | Einstweilige Verfügung gegen Vereinsstrafe; Zulässigkeit trotz Satzungsweg |
-| C-415/93 | EuGH, 15.12.1995 (Bosman) | Freizügigkeit; Diskriminierungsverbot; Transferbeschränkungen |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -57,13 +57,12 @@ description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: 
 | 3 | Ordnungsgemäße Einberufung des Spruchorgans (Frist, Tagesordnung)? | Satzung |
 | 4 | Anhörung: Hat der Betroffene schriftliche Ankündigung mit angemessener Frist erhalten? | Art. 103 Abs. 1 GG analog |
 | 5 | Akteneinsicht: War Einsicht in alle Beweisunterlagen möglich? | Verfahrensgrundsätze |
-| 6 | Begründung: Ist die Entscheidung schriftlich und mit konkreter Subsumtion begründet? | BGH II ZR 70/86 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Tatbestandserfüllung: Ist der vorgeworfene Sachverhalt tatsächlich eine Verletzung der Satzungsnorm? | Materielle Prüfung |
 | 8 | Verschulden: Ist Vorsatz oder Fahrlässigkeit nachgewiesen? | Satzung |
-| 9 | Verhältnismäßigkeit: Entspricht die Strafhöhe dem Strafrahmen und Präzedenzfällen? | BGH II ZR 70/86 |
-| 10 | AGB-Kontrolle §§ 307 ff. BGB: Ist die Satzungsklausel bei faktischem Beitrittszwang wirksam? | BGH II ZR 235/95 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 11 | Vorrangige verbandsinterne Instanzen ausschöpfen? | Satzung |
-| 12 | Schiedsklausel wirksam (BGH Pechstein)? | BGH KZR 6/15 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 13 | Vorläufiger Rechtsschutz erforderlich (§ 935 ZPO, § 1033 ZPO)? | §§ 935, 1033 ZPO |
 | 14 | Art. 12 GG-Verstoß (Berufsfreiheit) bei Profisportler prüfen? | Art. 12 GG |
 
@@ -152,7 +151,7 @@ II. Materielle Fehler
    verhängt: [Auflistung aus Verbandsrechtsprechung] (Anlage B9).
    Die hier ausgesprochene Sperre von [N] Spielen überschreitet
    den üblichen Strafrahmen erheblich. Art. 12 GG gebietet
-   Verhältnismäßigkeit bei Berufssportlern (BGH II ZR 70/86).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Hilfsantrag
 
@@ -231,7 +230,7 @@ Mit freundlichen Grüßen
 | Verhältnismäßigkeit (Vergleichsfälle) | Mandant | Verbandsrechtsprechung; Präzedenzfälle |
 | Fehlender Tatbestand (Videobeweis) | Mandant | Videos, Zeugenaussagen |
 | AGB-Unwirksamkeit Satzungsklausel | Mandant | Analyse nach §§ 307 ff. BGB |
-| Schiedsklausel-Wirksamkeit | Verband | BGH KZR 6/15; strukturelle Ausgewogenheit |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -251,11 +250,10 @@ Mit freundlichen Grüßen
 
 | Verband-Argument | Gegenstrategie |
 |---|---|
-| "Satzungsautonomie Art. 9 GG" | BGH II ZR 70/86: Inhaltskontrolle auf Verhältnismäßigkeit und Satzungsgemäßheit |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Verbandsweg nicht erschöpft" | Ggf. Dringlichkeit: § 1033 ZPO-Antrag schon vor Erschöpfung |
 | "Schiedsklausel wirksam, staatliche Gerichte ausgeschlossen" | § 1033 ZPO: einstweilige Verfügung trotzdem möglich |
-| "Strafrahmen satzungsgemäß" | Verhältnismäßigkeit BGH II ZR 70/86; Präzedenzfälle |
-| "AGB-Kontrolle nicht anwendbar" | BGH II ZR 235/95: bei faktischem Beitrittszwang §§ 307 ff. BGB anwendbar |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Tatbestand liegt vor" | Video-Beweis; Zeugenbeweis; eigene Auswertung Schiedsrichterprotokoll |
 
 ---
@@ -295,4 +293,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. BGB §§ 21–79, 242, 305–310, 823, 1004. GG Art. 9, 12. ZPO §§ 32, 935, 1029, 1033. BGH II ZR 70/86 (28.11.1994). BGH KZR 6/15 (07.06.2016). BGH II ZR 235/95. BGH II ZR 165/95. BVerfG 1 BvR 2103/16 (03.06.2022). EuGH C-415/93 Bosman. CAS Code Art. R49. Vieweg Sportrecht. Heermann Verbandsautonomie. Reichert Vereins- und Verbandsrecht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -15,7 +15,7 @@
 | Projektname | Silberfalke |
 | Käuferin | Eagle Capital Partners GmbH & Co. KG (PE-Fonds) |
 | Verkäuferin | Solaris Familienholding AG |
-| Zielgesellschaft | Solaris Industries AG (Carve-out Sparte „Precision Drive Systems") |
+| Zielgesellschaft | Solaris Industries AG (Carve-out Sparte "Precision Drive Systems") |
 | Enterprise Value | ca. EUR 180 Mio. |
 | Transaktionsart | Strukturierter Bieterprozess, Buy-side-Counsel |
 | Closing-Ziel | Q1 2025 (ca. 10 Wochen ab Signing) |
@@ -26,11 +26,11 @@
 
 ## 2. Sachverhalt und Hintergrund
 
-Die Solaris Industries AG (nachfolgend „Target" oder „Gesellschaft") ist eine deutsche Aktiengesellschaft mit Sitz in Augsburg und entwickelt sowie produziert hochpräzise Antriebssysteme für industrielle Fertigungsanlagen. Das Unternehmen beschäftigt rund 920 Mitarbeiter und erzielte im Geschäftsjahr 2023 einen Konzernumsatz von ca. EUR 214 Mio. (unbereinigt, inklusive Sparten, die nicht Gegenstand dieser Transaktion sind) bei einem bereinigten EBITDA von ca. EUR 38 Mio. (Marge ca. 17,8 %).
+Die Solaris Industries AG (nachfolgend "Target" oder "Gesellschaft") ist eine deutsche Aktiengesellschaft mit Sitz in Augsburg und entwickelt sowie produziert hochpräzise Antriebssysteme für industrielle Fertigungsanlagen. Das Unternehmen beschäftigt rund 920 Mitarbeiter und erzielte im Geschäftsjahr 2023 einen Konzernumsatz von ca. EUR 214 Mio. (unbereinigt, inklusive Sparten, die nicht Gegenstand dieser Transaktion sind) bei einem bereinigten EBITDA von ca. EUR 38 Mio. (Marge ca. 17,8 %).
 
 Die Verkäuferin, die Solaris Familienholding AG, hält 94,7 % der Aktien der Target; die verbleibenden 5,3 % werden von einem Minderheitsgesellschafter (Beteiligungsgesellschaft der Gründerfamilie Grünwald, zweiter Ast) gehalten. Diese Splitterminderheit ist im Gesellschaftervertrag nicht mit besonderen Rechten ausgestattet, könnte aber im Rahmen des Squeeze-out-Verfahrens nach §§ 327a ff. AktG relevant werden.
 
-Die Transaktion ist als **Carve-out** der Sparte „Precision Drive Systems" (PDS) aus dem Konzernverbund strukturiert. PDS umfasst drei Produktionsstandorte (Augsburg, Gera, Brünn/Tschechien), drei Vertriebsgesellschaften (Solaris Distribution Italia S.r.l., Solaris Distribution US Inc., Solaris Distribution Singapore Pte. Ltd.) sowie die gruppeninternen IP-Rechte, die aktuell noch bei der Holding lizenziert sind. Eine Vorab-Ausgliederung der Servicegesellschaft Solaris Service GmbH in die Target-Struktur ist Teil des Transaktionsdesigns und muss vor Signing abgeschlossen sein.
+Die Transaktion ist als **Carve-out** der Sparte "Precision Drive Systems" (PDS) aus dem Konzernverbund strukturiert. PDS umfasst drei Produktionsstandorte (Augsburg, Gera, Brünn/Tschechien), drei Vertriebsgesellschaften (Solaris Distribution Italia S.r.l., Solaris Distribution US Inc., Solaris Distribution Singapore Pte. Ltd.) sowie die gruppeninternen IP-Rechte, die aktuell noch bei der Holding lizenziert sind. Eine Vorab-Ausgliederung der Servicegesellschaft Solaris Service GmbH in die Target-Struktur ist Teil des Transaktionsdesigns und muss vor Signing abgeschlossen sein.
 
 Der strukturierte Bieterprozess wurde am 3. Oktober 2024 mit Versand des Process Letter Phase 1 durch die Investmentbank Meridian Corporate Finance GmbH eröffnet. Gegenwärtig befinden sich vier Bieter im Prozess (Eagle Capital Partners als unser Mandant sowie drei weitere, nicht offengelegte Interessenten). Der Exklusivitätsanspruch für Eagle Capital Partners besteht noch nicht; ein Preferred Bidder Letter wird für Ende November 2024 erwartet.
 

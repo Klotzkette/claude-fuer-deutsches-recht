@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-fristen-cp-kalender
-description: "Freistehender Deal-Fristen- und CP-Kalender fuer M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengefuehrt werden. SPA Closing Conditions, §§ 35 ff. GWB Kartellfristen, §§ 55 ff. AWV FDI-Fristen. Pruefraster Fristen aus E-Mail SPA Regulatory Filing und Board extrahieren, Duplikate zusammenfuehren, Wiedervorlagedaten setzen. Output Fristenkalender mit Quelle Owner Ampel und Eskalationsprotokoll. Abgrenzung zu Steps-Plan-PMO fuer Aufgabenmanagement und zu Automation-Monitoring."
+description: "Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing Conditions, §§ 35 ff. GWB Kartellfristen, §§ 55 ff. AWV FDI-Fristen. Prüfraster Fristen aus E-Mail SPA Regulatory Filing und Board extrahieren, Duplikate zusammenführen, Wiedervorlagedaten setzen. Output Fristenkalender mit Quelle Owner Ampel und Eskalationsprotokoll. Abgrenzung zu Steps-Plan-PMO für Aufgabenmanagement und zu Automation-Monitoring."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender
@@ -48,9 +48,8 @@ Dieser Skill führt die Transaktionsfristen im Plugin selbst. Er bündelt Q&A-De
 - §§ 195, 199 BGB — Verjaehrungsfristen: Fristenkalender muss auch gesetzliche Verjaehrungsfristen erfassen
 
 ### Leitsaetze
-- BFH, Urt. v. 12.03.2020 - V R 20/19, BStBl. II 2020, 645 — Rechnungsanforderungen: eine Rechnung ohne Pflichtangaben nach § 14 Abs. 4 UStG berechtigt nicht zum Vorsteuerabzug; rueckwirkende Rechnungskorrektur moeglich, aber nur unter engen Voraussetzungen
-- BGH, Urt. v. 15.05.2012 - VI ZR 157/11, NJW 2012, 2178 — Fristenversaeumnis: Anwalt haftet fuer schuldhaft versaeumte Fristen; Wiedervorlage und Kalenderfuehrung sind Kernpflicht
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
-- Kopp/Schenke, VwGO, Fristen und Fristen-Berechnung § 57 VwGO Rn. 1-40
-- MueKo HGB/Ebke, §§ 238-241a Rn. 1-60 (Buchfuehrungspflicht, GoBD, Aufbewahrung)
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

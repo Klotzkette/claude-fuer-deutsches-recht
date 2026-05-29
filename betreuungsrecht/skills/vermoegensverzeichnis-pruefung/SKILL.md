@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-pruefung
-description: "Vermögensverzeichnis fuer Betreuung prüfen und erstellen: Anwendungsfall Betreuer muss nach § 1835 BGB Vermögensverzeichnis aufnehmen oder bestehendes Verzeichnis auf Vollstaendigkeit und Richtigkeit prüfen. § 1835 BGB Vermögensverzeichnis, § 1836 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung Vorsorgevollmacht. Pruefraster Vermoegensgegenstaende vollstaendig Konten Immobilien Wertpapiere, Verbindlichkeiten, Vermoegensveraenderungen seit letztem Verzeichnis, Bestandsnachweis Belege. Output vollstaendiges Vermögensverzeichnis mit Prüfprotokoll und Differenzliste. Abgrenzung zu Jahresbericht-Betreuungsgericht und zu Kontodaten-Vertragsverdacht."
+description: "Vermögensverzeichnis für Betreuung prüfen und erstellen: Anwendungsfall Betreuer muss nach § 1835 BGB Vermögensverzeichnis aufnehmen oder bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. § 1835 BGB Vermögensverzeichnis, § 1836 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung Vorsorgevollmacht. Prüfraster Vermögensgegenstaende vollständig Konten Immobilien Wertpapiere, Verbindlichkeiten, Vermögensveraenderungen seit letztem Verzeichnis, Bestandsnachweis Belege. Output vollständiges Vermögensverzeichnis mit Prüfprotokoll und Differenzliste. Abgrenzung zu Jahresbericht-Betreuungsgericht und zu Kontodaten-Vertragsverdacht."
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)
@@ -73,29 +73,25 @@ das einer Einlagensicherung angehört.
 
 ### Kanonische Rechtsprechung
 
-**BGH, Beschl. v. 14.11.2018 – XII ZB 174/18, FamRZ 2019, 232 Rn. 14:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Das Vermögensverzeichnis muss alle vermögensrechtlich relevanten
 Positionen aufführen. Fahrzeugen, Schmuck und sonstigen beweglichen
 Sachen sind mit Schätzwert anzugeben; pauschale Auslassungen sind
 unzureichend.
 
-**BGH, Beschl. v. 22.01.2014 – XII ZB 632/12, FamRZ 2014, 644 Rn. 21:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Die Rechnungslegung muss in **kontinuierlicher** Buchführung erfolgen.
 Eine einmal jährliche zusammenfassende Aufstellung ohne Belege genügt
 nicht; das Gericht muss die Mittelverwendung nachprüfen können.
 
-**BGH, Beschl. v. 04.05.2016 – XII ZB 530/15, FamRZ 2016, 1264 Rn. 9 ff.:**
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Verstöße gegen die Pflicht zur mündelsicheren Anlage (§ 1839 BGB) können
 Ersatzansprüche der betreuten Person nach § 1826 BGB iVm § 280 Abs. 1
 BGB auslösen; Zinsausfallschäden sind ersatzfähig.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Götz, in: Grüneberg, BGB, 84. Aufl. 2025, § 1835 Rn. 1 ff., § 1865 Rn. 1 ff.
-- Schwab, in: MünchKomm BGB, 9. Aufl. 2024, § 1835 Rn. 8–22.
-- Bienwald/Sonnenfeld/Harm, Betreuungsrecht, 7. Aufl. 2024, § 1835 BGB
-  Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. **Bestandsaufnahme zum Stichtag der Bestellung**
@@ -114,7 +110,7 @@ BGB auslösen; Zinsausfallschäden sind ersatzfähig.
    Beträge, die nicht binnen 12 Monaten für laufende Ausgaben benötigt
    werden, sind verzinslich anzulegen. Tagesgeld bei
    einlagengesichertem Institut genügt. Bei Sperrvermerk-Anordnung:
-   Konto in „Mündelkonto mit Sperrvermerk" umwandeln.
+   Konto in "Mündelkonto mit Sperrvermerk" umwandeln.
 
 4. **Sperrvermerk einrichten**
    Antrag beim Betreuungsgericht; nach Genehmigung Sperrvermerk-Vereinbarung
@@ -207,7 +203,7 @@ XII ZB 174/18 Rn. 14).
 
 **2. Mündelsicherheit verletzt**
 Belassen größerer Beträge auf unverzinslichem Girokonto verstößt gegen
-§ 1839 BGB; Zinsausfallschäden sind dem Betreuer zurechenbar (BGH XII ZB
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 530/15 Rn. 9 ff.).
 
 **3. Verfügung über gesperrte Konten ohne Genehmigung**
@@ -216,7 +212,7 @@ sind nach § 1848 BGB unwirksam und können Schadensersatzansprüche der
 betreuten Person auslösen.
 
 **4. Rechnungslegung nur zusammenfassend**
-Eine pauschale Jahresaufstellung ohne Belege genügt nicht (BGH XII ZB
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 632/12 Rn. 21). Belege sind chronologisch und kontinuierlich zu führen.
 
 **5. Schonvermögen Sozialhilfe verkannt**
@@ -234,11 +230,9 @@ des Betreuers. Verstöße können strafrechtliche Folgen haben (Untreue
 Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 
 - §§ 1835, 1839, 1841, 1845, 1865 BGB
-- BGH, Beschl. v. 14.11.2018 – XII ZB 174/18, FamRZ 2019, 232 Rn. 14
-- BGH, Beschl. v. 22.01.2014 – XII ZB 632/12, FamRZ 2014, 644 Rn. 21
-- BGH, Beschl. v. 04.05.2016 – XII ZB 530/15, FamRZ 2016, 1264 Rn. 9 ff.
-- Götz, in: Grüneberg, BGB, 84. Aufl. 2025, § 1835 Rn. 1 ff.
-- Schwab, in: MünchKomm BGB, 9. Aufl. 2024, § 1835 Rn. 8 ff.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 
 ---
 *Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.*

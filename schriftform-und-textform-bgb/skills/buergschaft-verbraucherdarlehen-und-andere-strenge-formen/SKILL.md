@@ -1,6 +1,6 @@
 ---
 name: buergschaft-verbraucherdarlehen-und-andere-strenge-formen
-description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Pruefraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmoeglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-oeffentliche-beglaubigung (Notarfragen)."
+description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmöglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-öffentliche-beglaubigung (Notarfragen)."
 ---
 
 # Bürgschaft, Verbraucherdarlehen und andere strenge Formen
@@ -21,14 +21,12 @@ description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und f
 - § 518 Abs. 2 BGB (Heilung Schenkungsversprechen durch Vollzug)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 29.01.2015 – IX ZR 279/13, NJW 2015, 1367 — Die Schriftform des § 766 BGB erfordert die Originalunterschrift des Bürgen auf der Urkunde; ein Telefax-Bürgschaftsbrief ohne Originalunterschrift genügt nicht.
-2. BGH, Urt. v. 14.10.2003 – XI ZR 121/02, NJW 2004, 161 — Die Heilung der formwidrigen Bürgschaft nach § 766 S. 3 BGB setzt voraus, dass der Bürge die Hauptschuld vollständig erfüllt; eine Teilleistung genügt nicht.
-3. BGH, Urt. v. 04.12.2007 – XI ZR 227/06, NJW 2008, 644 — Beim Verbraucherdarlehen führen fehlende Pflichtangaben nach § 492 Abs. 2 BGB nicht zur Gesamtnichtigkeit, sondern zu den Rechtsfolgen des § 494 BGB (Zinsanpassung auf gesetzlichen Satz).
-## Kommentarliteratur
-- Grüneberg, BGB, 83. Aufl. 2024, § 766 Rn. 1 ff. (Bürgschaftsform und Heilung).
-- Palandt/Weidenkaff, BGB, 82. Aufl. 2023, § 492 Rn. 1 ff. (Verbraucherdarlehen).
-- MuKo-BGB/Berger, 9. Aufl. 2023, § 766 Rn. 1 ff.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 766 BGB** — Bürgschaft: schriftliche Erteilung der Bürgschaftserklärung
@@ -162,6 +160,6 @@ den vorbereiteten Urkundentext zu.
 ---
 
 <!-- AUDIT 27.05.2026
-Geprueft: BGH IX ZR 224/12
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. Skill hatte falsches Datum (07.03.2013; korrekt: 16.05.2013) und falsches Thema (Kaufmannseigenschaft des Buergen / § 350 HGB). Echtes Thema: Zwangsverwaltung (ZVG); Nutzungsentschaedigungsanspruch; Wohnschutz des Schuldners (§ 149 ZVG); kein Bezug zu Buergschaft oder HGB. Quelle: dejure.org/2013,18267. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->

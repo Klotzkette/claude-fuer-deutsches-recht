@@ -1,6 +1,6 @@
 ---
 name: europarecht-quality-gate
-description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken pruefen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Pruefraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformitaet fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate fuer alle Europarechts-Skills."
+description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills."
 ---
 
 # Europarecht-Qualitätstor
@@ -50,8 +50,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 ## Vertiefung: Pruefpunkte und Leitsaetze
 
-- EuGH, Urt. v. 06.10.1982 - 283/81 (Cilfit) — Acte-clair keine CELEX-Fundstelle erfinden: jede behauptete Offenkundigkeit muss an allen Sprachfassungen verifiziert werden.
-- EuGH, Urt. v. 26.02.2013 - C-617/10 (Akerberg Fransson) — Anwendungsbereich GRCh: kein bloßes "Charta greift" behaupten ohne Art. 51 GRCh zu pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage Quality Gate
 

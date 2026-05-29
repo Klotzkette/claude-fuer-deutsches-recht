@@ -81,7 +81,7 @@ Nach § 37a Abs. 1 BImSchG i.V.m. der 38. BImSchV sind Mineralölunternehmen ver
 | 3 | Vollständige Gehwegbreiten-Messung Standort S2 und S5 | Ordnungsamt | 30.04.2025 |
 | 4 | Abstimmungsgespräch mit Polizeiinspektion zu Standort S2 | Ordnungsamt | 15.04.2025 |
 | 5 | Beschlussvorlage für ASV | Planungsamt | 30.06.2025 |
-| 6 | Förderantrag Bundesförderprogramm „Ladeinfrastruktur für Elektrofahrzeuge" (BMDV) | SWF / Planungsamt | Q3 2025 |
+| 6 | Förderantrag Bundesförderprogramm "Ladeinfrastruktur für Elektrofahrzeuge" (BMDV) | SWF / Planungsamt | Q3 2025 |
 | 7 | Registrierung SWF bei BNetzA für THG-Quote | SWF | Q3 2025 (vor Inbetriebnahme) |
 
 ---

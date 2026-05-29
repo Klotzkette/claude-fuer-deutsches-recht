@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-kassenfuehrung-gobd-pflichten
-description: "Kassenfuehrung GoBD-Pflichten. Anwendungsfall Mandanten mit Bargeschaeft Kasse Aufzeichnungspflichten Kassenbuch elektronische Aufzeichnungssysteme TSE technische Sicherheitseinrichtung. Methodik Pruefung Sorgfalt. Output GoBD-konforme Kassenfuehrung."
+description: "Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Bargeschäft Kasse Aufzeichnungspflichten Kassenbuch elektronische Aufzeichnungssysteme TSE technische Sicherheitseinrichtung. Methodik Prüfung Sorgfalt. Output GoBD-konforme Kassenführung."
 ---
 
 # Kassenfuehrung — GoBD-Pflichten

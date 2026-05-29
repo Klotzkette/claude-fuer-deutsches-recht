@@ -1,6 +1,7 @@
 ---
 name: regulierungs-luecken-analyse
-description: "Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer „Lückenanalyse AI Act\", „gilt der AI Act für uns\", „Compliance-Prüfung KI\", „neue KI-Verordnung prüfen\" oder Regelungstext eingibt."
+description: 'Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act", "gilt der AI Act für uns", "Compliance-Prüfung KI", "neue KI-Verordnung prüfen" oder Regelungstext eingibt.'
+
 ---
 
 # KI-Regulierungs-Lückenanalyse
@@ -45,10 +46,7 @@ konservative Lesart nennen, bei Materialität externe Beratung empfehlen.
 
 **Leitentscheidungen**
 
-- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 (Schufa-Score): Maßstab für Lückenanalysen zu DSGVO Art. 22 bei Scoring-Systemen; automatisiertes Profiling als Art. 22 Abs. 1-Entscheidung bei maßgeblicher Grundlage für Drittentscheidung.
-- EuGH, Urt. v. 04.10.2024 – C-203/22, NJW 2025, 56 Rn. 38 (Dun & Bradstreet): Verantwortlicher muss Algorithmus-Logik verständlich offenlegen; Maßstab für Transparenzlücken.
-- BGH, Urt. v. 13.01.2015 – VI ZR 204/14, NJW 2015, 1236 Rn. 12: Produkthaftung für fehlerhafte Informationsprodukte; übertragbar auf KI-Haftung unter RL 2024/2853.
-- BVerwG, Urt. v. 04.04.2019 – 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Transparenz algorithmischer Verwaltungsentscheidungen; relevant bei Behörden-KI.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare**
 
@@ -70,7 +68,7 @@ Sektor-Ausnahmen, Anbieter-/Betreiber-Unterscheidung (Art. 3 KI-VO).
 Wann? Inkrafttreten; Durchsetzungsdatum; Phase-in-Fristen.
 Was ist tatsächlich neu? Delta zum Status quo ermitteln, nicht Volltext
 wiedergeben.
-→ Bei eindeutiger Nichtanwendbarkeit: „Nicht anwendbar. Begründung: [Grund].
+→ Bei eindeutiger Nichtanwendbarkeit: "Nicht anwendbar. Begründung: [Grund].
 Kein Handlungsbedarf."
 
 **Schritt 2 — Anforderungen extrahieren**
@@ -126,24 +124,18 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 ## Ausgabeformat
 
 Datiertes Markdown-Dokument; Maßnahmenplan-Tabelle wird zum Tracker.
-Auch bei „keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
+Auch bei "keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 
 **Quellen-Tagging:**
 - `[gesichert]` — stabile Normen (z. B. DSGVO Art. 22, VO (EU) 2024/1689).
 - `[prüfen]` — Durchführungsrechtsakte, Leitlinien, Schwellenwerte.
-- `[prüfen-pinpoint]` — konkrete Artikelnummern, Anhang-Referenzen: IMMER
-  gegen Primärquelle (ABl., beck-online, juris) verifizieren. AI Act
-  Artikelnummern haben sich während der Konsolidierung verschoben.
+- **Pinpoint-Pflicht** — konkrete Artikelnummern, Anhang-Referenzen und Erwägungsgründe immer gegen die Primärquelle (ABl./EUR-Lex, amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) verifizieren. AI-Act-Artikelnummern haben sich während der Konsolidierung verschoben; im Output keine ungeprüften Pinpoint-Tags stehen lassen.
 
 ## Beispiel
 
-**Anfrage:** „Gilt der AI Act für unsere interne Bewerbungs-Screening-KI?"
+**Anfrage:** "Gilt der AI Act für unsere interne Bewerbungs-Screening-KI?"
 
-**Ablauf:** Betreiberrolle; Hochrisiko Anhang III Nr. 2 lit. a KI-VO
-(Einstellungsentscheidung) `[prüfen-pinpoint]`. Betreiber-Pflichten:
-Art. 26, 29 KI-VO `[prüfen]`; kein dokumentiertes Risikomanagementsystem
-→ Teilweise Lücke. Maßnahme: Folgenabschätzung nach Art. 9 KI-VO erstellen,
-Human-in-the-Loop dokumentieren, bis 01.08.2026.
+**Ablauf:** Betreiberrolle; Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. Betreiber-Pflichten aus Art. 26 KI-VO und ggf. Grundrechte-Folgenabschätzung nach Art. 27 KI-VO; bei eigener Anbieterrolle zusätzlich Anbieterpflichten, insbesondere Risikomanagement nach Art. 9 KI-VO. Maßnahme: Rollen sauber trennen, Human-in-the-Loop dokumentieren, Betriebsrat einbeziehen und Umsetzungsfrist im Maßnahmenplan führen.
 
 ## Risiken und typische Fehler
 
@@ -157,7 +149,7 @@ Human-in-the-Loop dokumentieren, bis 01.08.2026.
 
 - **AI Act Art. 5, Art. 6 i.V.m. Anhang III, Art. 9–15, Art. 26/29, Art. 99.**
 - **DSGVO Art. 22** bei automatisierten Entscheidungsverfahren.
-- **EuGH C-634/21 (Schufa-Score)** und **C-203/22 (Dun & Bradstreet)**.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **RL 2024/2853/EU** (Produkthaftung) bei Haftungslücken.
 - **DSGVO Art. 35** bei Folgenabschätzungspflicht.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5.**

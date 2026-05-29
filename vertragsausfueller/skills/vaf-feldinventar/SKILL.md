@@ -1,6 +1,6 @@
 ---
 name: vaf-feldinventar
-description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Pruefraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview."
+description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview."
 ---
 
 # Feldinventar
@@ -15,9 +15,7 @@ description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwa
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 14.07.2004 - VIII ZR 163/03, NJW 2004, 2884 — Wesentliche Vertragsbestandteile (essentialia negotii): Vertrag kommt nur zustande, wenn Parteien, Gegenstand und Entgelt hinreichend bestimmt sind.
-- BGH, Urt. v. 08.03.1994 - VI ZR 16/93, NJW 1994, 1529 — Formerfordernisse: Fehlen gesetzlich vorgeschriebener Formfelder (z.B. Schriftform § 126 BGB) führt zur Nichtigkeit.
-- BGH, Urt. v. 29.10.2019 - II ZR 211/18, NJW 2020, 461 — Bestimmtheitsgrundsatz: Gesellschaftsvertragsklauseln müssen so bestimmt sein, dass die Rechtsfolge ohne weiteres Ermessen feststellbar ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -27,11 +25,9 @@ description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwa
 - § 2 NachwG — Mindestinhalt Arbeitsvertrag
 - § 481 ff. BGB — Verbrauchsgüterkauf (Pflichtangaben)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Grüneberg, BGB, 83. Aufl. 2024, §§ 145-150 Rn. 1-30 (Vertragsschluss)
-- MüKo-BGB/Armbrüster, 9. Aufl. 2022, § 126 Rn. 1-25 (Schriftform)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill baut die zentrale Datenmatrix für den Vertrag. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.

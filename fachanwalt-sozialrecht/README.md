@@ -2,6 +2,17 @@
 
 Vollumfaengliches Plugin fuer Fachanwaltschaft Sozialrecht inkl. Kanzleioperative. Fachanwalt fuer Sozialrecht nach FAO § 11. Widerspruch, Klage, Eilantrag, SGB-II-Bescheid, Erwerbsminderungsrente, GdB-Schwerbehinderung, Pflegegrad, Hilfsmittel, Eingliederungshilfe. Kanzleioperative: Bescheidanalyse, Akteneinsicht, PKH, Fristenbuch, Mandanten-Intake, Mandantenbrief Leichte Sprache.
 
+
+## ⬇️ Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **sozialrecht rollstuhl tannenberg** | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
+
+Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
 ## Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -20,7 +31,7 @@ Vollumfaengliches Plugin fuer Fachanwaltschaft Sozialrecht inkl. Kanzleioperativ
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-sozialrecht-orientierung` | FAO § 11, SGB I bis XII, Sozialgerichtsbarkeit, Standardliteratur. |
+| `fachanwalt-sozialrecht-orientierung` | FAO § 11, SGB I bis XII, Sozialgerichtsbarkeit, Quellenprüfung. |
 | `fachanwalt-sozialrecht-widerspruch-sozialleistung` | Widerspruch gegen Sozialleistungsbescheid, § 84 SGG, Frist ein Monat. |
 | `fachanwalt-sozialrecht-sgb-ii-bescheid` | Bürgergeld-Bescheid SGB II — Bedarfsberechnung, Regelbedarf, Sanktionen. |
 | `fachanwalt-sozialrecht-erwerbsminderungsrente` | Volle / teilweise Erwerbsminderungsrente nach §§ 43, 240 SGB VI. |

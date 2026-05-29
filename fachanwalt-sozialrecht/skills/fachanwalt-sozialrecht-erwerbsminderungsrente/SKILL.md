@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-erwerbsminderungsrente
-description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Pruefraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Uebergang)."
+description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang)."
 ---
 
 # Erwerbsminderungsrente (§§ 43, 240 SGB VI)
@@ -13,15 +13,11 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 5. Ablehnungsbescheid vorhanden? Widerspruchsfrist 1 Monat (§ 84 SGG) gesichert?
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 19.10.2011 - B 13 R 79/11 R, SozR 4-2600 § 43 Nr. 16 Rn. 14 — Volle Erwerbsminderung: quantitatives Leistungsvermögen unter 3 Stunden/Tag auf dem allgemeinen Arbeitsmarkt reicht für volle EM-Rente aus; es kommt auf den allgemeinen Arbeitsmarkt an, nicht auf den konkreten bisherigen Beruf.
-- BSG, Urt. v. 11.12.2019 - B 13 R 7/18 R, SozR 4-2600 § 43 Nr. 22 Rn. 18 — Teilweise Erwerbsminderung bei verschlossenem Arbeitsmarkt (§ 43 Abs. 3 SGB VI): wenn kein Arbeitsplatz für 3-6 Stunden/Tag auf dem allgemeinen Arbeitsmarkt realistisch vorhanden ist, gilt Vollrente; Nachweis durch Statistik und gutachterliche Einschätzung.
-- BSG, Urt. v. 17.08.2017 - B 5 R 16/16 R, SozR 4-2600 § 240 Nr. 5 Rn. 16 — Berufsschutz § 240 SGB VI (Jahrgaenge vor 1961): Vergleichbarkeit des Verweisungsberufs; qualitative und quantitative Zumutbarkeit; Verweisung auf un- oder angelernte Tätigkeit beim Facharbeiter unzulässig.
-- BSG, Urt. v. 30.03.2011 - B 12 KR 16/10 R, SozR 4-2600 § 5 Nr. 6 Rn. 12 — Versicherungsrechtliche Voraussetzungen § 43 SGB VI: Pflichtbeitragszeiten im 5-Jahres-Zeitraum müssen als Pflichtbeiträge (nicht freiwillige Beiträge) erbracht sein; Unterbrechungen durch Krankengeld, ALG zählen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Kasseler Kommentar SGB VI §§ 43, 50, 240 (Erwerbsminderungsrente, Wartezeit, Berufsschutz)
-- Hauck/Noftz SGB VI § 15 (Medizinische Rehabilitation vor Rente)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Welche Erkrankungen liegen vor (somatisch, psychisch, Kombination) — und welche Fachärzte sind behandelnd?
@@ -57,11 +53,11 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| GS 2/95 | BSG, 19.12.1996, BSGE 80, 24 | Verschlossener Teilzeitarbeitsmarkt bei 3–6 Stunden Leistungsvermögen |
-| B 5 RJ 64/02 R | BSG, 10.12.2003 | Erwerbsminderung bei Mehrfacherkrankungen; Summierung von Einschränkungen |
-| B 4 RA 32/03 R | BSG, 23.10.2003 | Anforderungen an sozialmedizinisches Gutachten |
-| B 5 R 8/10 R | BSG, 11.05.2011 | Pflichtbeitragszeiten in den letzten fünf Jahren; Lückenberechnung |
-| B 5 RE 8/14 R | BSG, 05.08.2015 | Berufsschutz § 240 SGB VI; Verweisungstätigkeit; soziale Zumutbarkeit |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -74,9 +70,9 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 | 3 | Pflichtbeiträge drei Jahre in letzten fünf Jahren vor EM-Eintritt | § 43 Abs. 1 S. 1 Nr. 2 SGB VI |
 | 4 | Ausnahmen von versicherungsrechtlichen Voraussetzungen prüfen | § 53 SGB VI |
 | 5 | Leistungsvermögen medizinisch quantifizieren (Stunden täglich) | § 43 Abs. 1, 2 SGB VI |
-| 6 | Mehrfacherkrankungen kumulieren (BSG B 5 RJ 64/02 R) | § 43 Abs. 2 SGB VI |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Berufsschutz § 240 SGB VI bei Jahrgang vor 02.01.1961 | § 240 SGB VI |
-| 8 | Verschlossener Teilzeitarbeitsmarkt bei 3–6 Stunden prüfen | BSG GS 2/95 |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Befristung § 102 Abs. 2 SGB VI beachten | § 102 SGB VI |
 | 10 | Beginn der Rente (§ 99 SGB VI — Antragsdatum) | § 99 SGB VI |
 | 11 | Hinzuverdienstgrenze § 96a SGB VI klären | § 96a SGB VI |
@@ -98,7 +94,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Berufsunfaehigkeit Privatversicherung parallel | BU-Versicherungs-Leistungsklage koordinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -159,7 +154,7 @@ Belegt durch:
 - Reha-Entlassungsbericht [Klinik] vom [Datum] (Anlage W4)
 
 Die Erkrankungen sind in ihrer Gesamtwirkung zu beurteilen
-(BSG B 5 RJ 64/02 R, 10.12.2003: Summierungseffekt).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Falls 3–6 Stunden angenommen wird:]
 IV. Verschlossener Teilzeitarbeitsmarkt
@@ -169,7 +164,7 @@ vermögen von 3 bis unter 6 Stunden täglich annehmen, ist
 die Rente wegen voller Erwerbsminderung dennoch zu gewähren.
 Der Teilzeitarbeitsmarkt ist für Personen mit dem Profil
 unserer Mandantschaft faktisch verschlossen (BSG, Beschl.
-v. 19.12.1996, GS 2/95, BSGE 80, 24). Konkrete verfügbare
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Stellen in dem in Betracht kommenden Bereich sind nicht
 benannt worden.
 
@@ -180,7 +175,7 @@ Unsere Mandantschaft hat Geburtsjahrgang [Jahr] und fällt
 damit in den Anwendungsbereich des § 240 SGB VI. Sie ist
 als [Beruf] im bisherigen Beruf nicht mehr zu sechs Stunden
 täglich einsetzbar. Eine sozial und gesundheitlich zumutbare
-Verweisungstätigkeit (BSG B 5 RE 8/14 R) ist nicht benannt
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 worden.
 
 Wir beantragen:
@@ -240,10 +235,9 @@ Mit freundlichen Grüßen
 |---|---|---|
 | Versicherungsrechtliche Voraussetzungen | Kläger | Versicherungsverlauf DRV, Beitragsnachweise |
 | Quantitatives Leistungsvermögen (< 3 h) | Kläger | Ärztliche Berichte, Gutachten, Entlassungsberichte |
-| Summierungseffekt Mehrfacherkrankungen | Kläger | BSG B 5 RJ 64/02 R; interdisziplinäres Gutachten |
-| Verschlossener Teilzeitarbeitsmarkt | DRV muss konkrete Stellen benennen | BSG GS 2/95; BA-Auskunft |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Berufsschutz § 240 (bisheriger Beruf) | Kläger | Arbeitsvertrag, Tätigkeitsbeschreibung |
-| Verweisungstätigkeit zumutbar | DRV | BSG B 5 RE 8/14 R; konkrete Benennung erforderlich |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Befristung sachlich gerechtfertigt | DRV | Gutachten, Prognose |
 
 ---
@@ -264,8 +258,7 @@ Mit freundlichen Grüßen
 
 | DRV-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| "Leistungsvermögen noch 3–6 Stunden" | Verschlossener Teilzeitarbeitsmarkt BSG GS 2/95; keine konkreten Stellen benannt |
-| "Erkrankungen einzeln nicht ausreichend" | Summierungseffekt BSG B 5 RJ 64/02 R; Gesamtbewertung aller Erkrankungen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Versicherungsrechtliche Voraussetzungen fehlen" | Beitragszeiten exakt nachweisen; Ausnahmen § 53 SGB VI prüfen |
 | "Eigenes Gutachten widerspricht" | § 109 SGG: Antrag auf Gegengutachten; Widersprüche im Gutachten angreifen |
 | "Rehabilitation vorrangig" | § 15 SGB VI: Reha bereits durchgeführt und ohne Erfolg; DRV muss konkrete Maßnahmen benennen |
@@ -291,8 +284,7 @@ Mit freundlichen Grüßen
 | Fallkonstellation | Empfehlung |
 |---|---|
 | DRV-Ablehnung, Gutachten intern ungünstig | § 109 SGG-Antrag eigener Gutachter; inhaltliche Fehler des internen Gutachtens angreifen |
-| Mehrfacherkrankungen | Kumulationsargumentation BSG B 5 RJ 64/02 R; fachübergreifendes Gutachten |
-| 3–6 Stunden Leistungsvermögen | Verschlossener Teilzeitmarkt BSG GS 2/95 geltend machen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Berufsschutz § 240 | Bisherigen Beruf und Verweisungstätigkeiten präzise definieren |
 | Versicherungszeiten-Lücke | § 53 SGB VI-Ausnahmen prüfen; Anrechnungszeiten nachweisen |
 | Klage anhängig | Parallele Leistungssicherung (Bürgergeld, Krankengeld) sicherstellen |
@@ -327,8 +319,6 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. SGB VI §§ 43, 50, 53, 96a, 99, 102, 240. SGG §§ 84, 87, 88, 109. BSG GS 2/95 (19.12.1996, BSGE 80, 24). BSG B 5 RJ 64/02 R (10.12.2003). BSG B 4 RA 32/03 R (23.10.2003). BSG B 5 R 8/10 R (11.05.2011). BSG B 5 RE 8/14 R (05.08.2015). § 44 SGB X. SGB X §§ 24, 25.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-> **Audit 27.05.2026** — BSG B 13 R 278/05 R (behauptetes Thema: Beginn der Erwerbsminderungsrente § 99 SGB VI) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); keine verlässliche Quelle ermittelbar. Eintrag gelöscht.

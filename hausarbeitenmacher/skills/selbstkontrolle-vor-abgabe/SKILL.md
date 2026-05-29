@@ -1,10 +1,9 @@
 ---
 name: selbstkontrolle-vor-abgabe
-description: "Student prueft Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit. Zwei Durchgaenge Lernziel-Selbstpruefung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Pruefungsordnungen. Pruefraster Inhalt-Checkliste Formal-Checkliste Selbstpruefung-Reflexion. Output Abgabe-Checkliste Pruefergebnis Korrekturen. Abgrenzung zu haeufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan)."
+description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan)."
 ---
 
 # Selbst-Kontrolle vor Abgabe
-
 
 ## Triage zu Beginn
 1. Wie viel Zeit bleibt noch bis zur Abgabe fuer den Endcheck?
@@ -13,9 +12,7 @@ description: "Student prueft Hausarbeit vor Abgabe auf inhaltliche und formale V
 4. Sind alle Formalia (Inhaltsverzeichnis, Literaturverzeichnis, Zitierweise, Seitenzahlen) geprueft?
 
 ## Aktuelle Rechtsprechung und Methodik
-- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Sorgfaeltiger Endcheck einer juristischen Arbeit entspricht dem Sorgfaltsmassstab des § 276 BGB; Fehler bei erkennbarer Pruefungsmoeglichkeit sind vorwerfbar.
-- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Selbstkontrolle vor Herausgabe von Dokumenten ist anwaltliche Sorgfaltspflicht; im Studium zu ueben.
-- BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Sorgfaeltige Begruendung als Qualitaetsmerkmal: Endfassung muss methodisch konsistent sein.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 276 BGB — Verschulden: Massstab fuer erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
@@ -23,10 +20,9 @@ description: "Student prueft Hausarbeit vor Abgabe auf inhaltliche und formale V
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
 - § 17 JAG NRW analog — Qualitaetsstandards fuer schriftliche Pruefungsleistungen
 
-## Kommentarliteratur
-- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 60-80 (Qualitaetssicherung in der Rechtsanwendung)
-- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 5 (Sorgfalt und Endkontrolle juristischer Texte)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle. Sie nimmt einen Tag in Anspruch, aber sie kann Dir eine ganze Note retten.
@@ -112,7 +108,7 @@ Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle
 ### Schritt 2.5 — Sprache
 
 - Konsistente Personen-Bezeichnung?
-- Klare Subsumtions-Sprache („Hier hat...")?
+- Klare Subsumtions-Sprache ("Hier hat...")?
 - Keine Tipp- und Rechtschreib-Fehler?
 - Trennungen vermieden bei wichtigen Begriffen?
 
@@ -211,25 +207,25 @@ Beantworte Dir **mündlich** (oder schriftlich für Dich) folgende Fragen, **ohn
 
 ## Bei Erkenntnis nach Endcheck
 
-### „Mir fehlt eine wesentliche Anspruchs-Grundlage"
+### "Mir fehlt eine wesentliche Anspruchs-Grundlage"
 
 - Berechne, wie viel Zeit noch bleibt
 - Bei hinreichend Zeit: nachträglich einarbeiten
 - Bei knapper Zeit: ggf. als Hilfsweise-Erwähnung in Schluss
 
-### „Ich habe einen Streit nicht erkannt"
+### "Ich habe einen Streit nicht erkannt"
 
 - Recherche kurz
 - Bei wichtigem Streit: kurze Ergänzung
 - Bei nebensächlichem Streit: ggf. weglassen
 
-### „Mein Stil ist inkonsistent"
+### "Mein Stil ist inkonsistent"
 
 - Suche nach Stellen mit Indikativ statt Konjunktiv (im Obersatz)
-- Suche nach „natürlich" / „selbstverständlich" / „offensichtlich"
+- Suche nach "natürlich" / "selbstverständlich" / "offensichtlich"
 - Überarbeite
 
-### „Zitate fehlen"
+### "Zitate fehlen"
 
 - Markiere alle Stellen ohne Beleg
 - Recherchiere die Quellen nach
@@ -245,7 +241,7 @@ Bevor Du die Hausarbeit abgibst, halte einen Moment inne:
 - Habe ich mein Bestes gegeben?
 - Habe ich gelernt?
 
-Wenn Du diese Fragen mit „ja" beantworten kannst — gib die Hausarbeit ab.
+Wenn Du diese Fragen mit "ja" beantworten kannst — gib die Hausarbeit ab.
 
 Wenn nicht — überarbeite noch eine Stunde.
 
@@ -263,8 +259,6 @@ Wenn nicht — überarbeite noch eine Stunde.
 - Abgabe — Du hast es geschafft.
 - Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
 
-
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  BAG 5 AZR 428/12 (WRONG_TOPIC) entfernt: Entscheidung betrifft Arbeitszeitkonto/Kürzung von Gleitzeitguthaben,
   nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
 -->

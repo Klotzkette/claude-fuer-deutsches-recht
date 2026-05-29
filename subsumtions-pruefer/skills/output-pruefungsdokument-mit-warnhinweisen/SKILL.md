@@ -1,6 +1,6 @@
 ---
 name: output-pruefungsdokument-mit-warnhinweisen
-description: "Erzeugt das vollstaendige Pruefungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Pruefung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer."
+description: "Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer."
 ---
 
 # Output: Prüfungsdokument mit Warnhinweisen
@@ -18,10 +18,7 @@ Dieses Ausgabe-Format ist das vollständigste und transparenteste Format des Sub
 
 ## Rechtsprechung zur Dokumentationspflicht
 
-- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Anwälte müssen ihre Beratungsleistung dokumentieren; unzureichende Dokumentation gefährdet den Nachweis der Pflichterfüllung im Haftungsfall.
-- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Fehlen Warnhinweise zu drohenden Fristen im Beratungsdokument, verletzt der Berater seine Pflicht.
-- BGH, Urt. v. 23.05.2019 - IX ZR 143/18, NJW 2019, 2296 — Eine mechanisch erzeugte Prüfung ersetzt niemals die persönliche anwaltliche Haftung; der Anwalt haftet für Fehler auch dann, wenn er sich auf ein externes Hilfsmittel gestützt hat.
-- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Das Recht auf effektiven Rechtsschutz (§ 19 Abs. 4 GG) setzt voraus, dass Betroffene ihre Rechtslage korrekt einschätzen können; irreführende Rechtsdokumente können dieses Recht verletzen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Pflicht-Kopf (jedes Prüfungsdokument beginnt damit)
 
@@ -59,11 +56,11 @@ Alle Nutzerangaben werden wortwörtlich wiedergegeben. Keine Ergänzungen durch 
 
 ### Abschnitt 2 — Normwahl (mit Warnhinweis)
 
-> **Normwahl-Warnung:** Die nachfolgende Prüfung bezieht sich ausschließlich auf die vom Nutzer genannte Norm. Das System hat keine unabhängige Prüfung vorgenommen, ob diese Norm die einschlägige, vollständige oder richtige Grundlage ist. Die „falsche-Wiese-Warnung" (Skill `falsche-wiese-warnung`) empfiehlt, die Normwahl vorab zu validieren.
+> **Normwahl-Warnung:** Die nachfolgende Prüfung bezieht sich ausschließlich auf die vom Nutzer genannte Norm. Das System hat keine unabhängige Prüfung vorgenommen, ob diese Norm die einschlägige, vollständige oder richtige Grundlage ist. Die "falsche-Wiese-Warnung" (Skill `falsche-wiese-warnung`) empfiehlt, die Normwahl vorab zu validieren.
 
 ### Abschnitt 3 — Tatbestandsmerkmale (je TBM mit Warnhinweis)
 
-Bei jedem Tatbestandsmerkmal, das mit „fraglich" oder „offen" endet:
+Bei jedem Tatbestandsmerkmal, das mit "fraglich" oder "offen" endet:
 
 > **TBM-Warnhinweis:** Dieses Tatbestandsmerkmal konnte nicht abschließend beurteilt werden. Das Gesamtergebnis ist entsprechend unsicher.
 

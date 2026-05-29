@@ -1,6 +1,6 @@
 ---
 name: zv-kontensuche-drittschuldner
-description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Pruefraster: Rentenversicherung Bund Bundeszentralamt fuer Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermoegensauskunft-gv (Glaeubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung)."
+description: "Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung)."
 ---
 
 # Kontensuche und Drittschuldnerermittlung
@@ -15,10 +15,7 @@ description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber d
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 22.10.2015 - I ZB 70/14, NJW 2016, 466 — § 802l ZPO: Drittauskünfte sind subsidiär gegenüber der Vermögensauskunft; aber bei unbekanntem Aufenthalt sofort zulässig.
-- BGH, Beschl. v. 26.01.2017 - I ZB 38/16, NJW 2017, 1540 — § 802l ZPO: Gläubiger kann alle drei Auskunftsquellen gleichzeitig beantragen; Reihenfolge steht in seinem Ermessen.
-- BGH, Beschl. v. 20.04.2017 - I ZB 88/16, NJW 2017, 1897 — Kontenabruf über BZSt auch nach bereits erfolgter Vermögensauskunft zulässig, wenn neue Erkenntnisse erwartet werden.
-- BGH, Beschl. v. 22.01.2015 - I ZB 77/14, NJW 2015, 2509 — § 802l ZPO: Drittauskünfte nach einer für die Vollstreckung unergiebigen Vermögensauskunft können auch dann eingeholt werden, wenn keine Anhaltspunkte für die Unrichtigkeit oder Unvollständigkeit der Vermögensauskunft vorliegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -29,12 +26,9 @@ description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber d
 - § 93 Abs. 7 AO — Kontenabrufverfahren BZSt
 - § 24c KWG — Kontenevidenzzentrale BaFin/BZSt
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller/Herget, ZPO, 35. Aufl. 2024, § 802l Rn. 1-20 (Drittauskünfte Voraussetzungen)
-- MüKo-ZPO/Gruber, 6. Aufl. 2022, § 802c Rn. 1-30 (Vermögensauskunft)
-- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 882b Rn. 1-10 (Schuldnerverzeichnis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Bevor eine Forderungspfändung Sinn ergibt, muss der Drittschuldner bekannt sein. Dieser Skill beschafft die Daten, ohne unnötige PfÜB ins Leere zu werfen.
@@ -74,9 +68,9 @@ Bevor eine Forderungspfändung Sinn ergibt, muss der Drittschuldner bekannt sein
 
 ## Leitentscheidungen
 
-- BGH 22.10.2015 – I ZB 70/14 (Voraussetzungen § 802l)
-- BGH 26.1.2017 – I ZB 38/16 (Reihenfolge der Drittauskünfte)
-- BGH 20.4.2017 – I ZB 88/16 (Kontenabruf trotz neuer Vermögensauskunft)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

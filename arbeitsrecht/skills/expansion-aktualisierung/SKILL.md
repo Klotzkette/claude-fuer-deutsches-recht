@@ -38,18 +38,18 @@ sind und der Tracker aktualisiert werden soll.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289 Rn. 18 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Rechtsfolgen fehlender AÜG-Erlaubnis; Entstehung eines Arbeitsverhältnisses
   zum Entleiher kraft Gesetzes — Relevanz, wenn EOR ohne korrekte AÜG-Struktur
   fortgeführt wird
-- BAG, Urt. v. 30.09.2014 – 1 AZR 1083/12, NZA 2015, 121 Rn. 25 ff.:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Interessenausgleich und Sozialplan bei Betriebsänderungen infolge
   Auslandsexpansion — zu beachten, wenn durch den Aufbau im Ausland
   inländische Strukturen betroffen werden
-- BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254:
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Gesamtbetrachtung bei der Statusfeststellung nach § 7a SGB IV
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Abs. 1b Rn. 10 ff.:
   Fristberechnung und Unterbrechungsregeln bei der 18-Monats-Grenze
@@ -88,9 +88,9 @@ Nächste Prioritäten (offene Punkte nach Fälligkeit / Abhängigkeit):
 Frage alle Änderungen in einem einzigen Block ab:
 
 > Welche Punkte haben sich seit der letzten Sitzung bewegt? Bitte schildern
-> Sie kurz die Änderungen (z. B. „EOR-Entscheidung getroffen — Anbieter ist
-> Deel", „externe Arbeitsrechtler beauftragt — Erstgespräch nächste Woche",
-> „Betriebsstättenanalyse noch offen, Steuerberater wartet auf Mandatserteilung").
+> Sie kurz die Änderungen (z. B. "EOR-Entscheidung getroffen — Anbieter ist
+> Deel", "externe Arbeitsrechtler beauftragt — Erstgespräch nächste Woche",
+> "Betriebsstättenanalyse noch offen, Steuerberater wartet auf Mandatserteilung").
 > Neue Punkte oder geänderte Fristen können ebenfalls mitgeteilt werden.
 
 **Schritt 4 — Updates anwenden**
@@ -168,6 +168,6 @@ Bei AÜG-relevanten Warnungen zitieren:
 - § 1 Abs. 1b AÜG (Höchstüberlassungsdauer)
 - § 8 AÜG (Equal-Pay-Gebot)
 - § 10 Abs. 1 AÜG (Fiktion des Arbeitsverhältnisses)
-- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

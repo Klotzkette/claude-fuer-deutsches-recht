@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-strafrecht-auswerten
-description: "Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverstaendige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Pruefung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisantraegen Befangenheits-Pruefung und Vermerk fuer Beweisverwertung."
+description: "Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Prüfung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisanträgen Befangenheits-Prüfung und Vermerk für Beweisverwertung."
 ---
 
 # Akteneinsicht — Strafakte auswerten
@@ -84,7 +84,7 @@ Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie):
 
 ### Wohnungsdurchsuchung
 
-- **§ 105 StPO** richterliche Anordnung Pflicht Gefahr im Verzug eng auszulegen (BVerfGE 103, 142)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 102 StPO** Beschuldigten-Wohnung
 - Fund von Beweismitteln über Anordnungs-Gegenstand hinaus — Zufallsfund § 108 StPO
 
@@ -143,20 +143,15 @@ Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie):
 ## Quellen
 
 - StPO §§ 136 136a 137 140 141 147 163a
-- BVerfGE 103, 142 (Hausdurchsuchung Gefahr im Verzug)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BGH 2. und 5. Strafsenat (Verwertungsverbote)
-- Meyer-Goßner/Schmitt StPO
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Beulke/Swoboda Strafprozessrecht
 
 ## Aktuelle Rechtsprechung Aktenauswertung
 
-- BVerfGE 103, 142 (Beschl. v. 20.02.2001 - 2 BvR 1444/00) — Hausdurchsuchung: "Gefahr im Verzug" nach § 105 I StPO ist eng auszulegen; richterliche Anordnung bleibt Regelfall; polizeiliche Eigenmaechtikeit ohne konkrete Eilbegruendung fuehrt zum Beweisverwertungsverbot.
-- BGH, Urt. v. 26.11.1998 - 4 StR 493/98, BGHSt 44, 308 — Beweisverwertungsverbot bei Belehrungsfehler (§ 136 StPO): Vernehmungsprotokoll ist grundsaetzlich unverwertbar, wenn der Beschuldigte nicht ordnungsgemaess ueber sein Schweigerecht belehrt wurde.
-- BGH, Urt. v. 18.04.2007 - 5 StR 546/06, BGHSt 51, 285 — TKU-Zufall-Funde (§ 108 StPO): aus einer TKU nach § 100a StPO gewonnene Erkenntnisse duerfen nur in dem Mass in anderen Verfahren verwertet werden wie § 100e VI StPO es erlaubt; Verwendungsbeschrankung.
-- BGH, Urt. v. 30.07.1999 - 1 StR 618/98, BGHSt 45, 221 — Aussagen-Wuerdigung bei Aussage-gegen-Aussage: Gericht muss alle Glaubwuerdigkeitsmerkmale pruefen (Konstanz, Detailreichtum, Entstehungsgeschichte); Revisionsgericht kontrolliert Methodenfehler.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur Aktenauswertung
+## Quellenregel
 
-- Meyer-Gossner/Schmitt, StPO, 67. Aufl. 2024, § 136a Rn. 1-40 (verbotene Vernehmungsmethoden)
-- Eisenberg, Beweisrecht der StPO, 11. Aufl. 2022 (Standardwerk Beweisverwertungsverbote)
-- Schoenke/Schroeder, StGB, 30. Aufl. 2019, Vorb. §§ 1 ff. Rn. 1-30 (Grundlagen Strafrecht)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

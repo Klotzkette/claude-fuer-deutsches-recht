@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-pyramide-check
-description: "Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Pruefraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzpruefschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-pruefer-Plugin."
+description: "Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin."
 ---
 
 # Digitalregulierung — Pyramiden-Check
@@ -85,10 +85,8 @@ Wer hat das Anliegen?
 
 ## Aktuelle Rechtsprechung
 
-- EuGH, Urt. v. 03.10.2019 — C-18/18 (Eva Glawischnig-Piesczek), NJW 2019, 3571 Rn. 28: Zur Reichweite von Pflichten sozialer Netzwerke bei illegalen Inhalten; Vorläufer des DSA-Regimes; Art. 17 DSA kodifiziert und erweitert diese Pflichten.
-- EuGH, Urt. v. 22.06.2023 — C-422/21 (Tele2 Sverige), NJW 2023, 2800 Rn. 42: Verhältnismäßigkeit bei Inhaltssperrungen; Art. 11 GRCh als Grenze für Plattformpflichten nach DSA.
-- BGH, Urt. v. 29.07.2021 — III ZR 179/20, NJW 2021, 3179 Rn. 38: Zivilrechtliche Pflichten sozialer Netzwerke; DSA ergänzt und überlagert nationales Recht nach dem Herkunftslandprinzip (Art. 3 DSA).
-- EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55: Zum VLOP-Designationsverfahren; Kommission hat weiten Ermessensspielraum; Herausforderung durch Art. 263 AEUV möglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -98,11 +96,9 @@ Wer hat das Anliegen?
 - Art. 2–6 NIS-2-RL (RL 2022/2555) — Cybersicherheit
 - § 19a GWB — Nationales Digitalrecht
 
-## Kommentarliteratur
+## Quellenregel
 
-- Spindler, NJW 2022, 1305: Überblick DSA und DMA; Anwendungsbereich und Systematik.
-- Grabitz/Hilf/Nettesheim, Das Recht der EU, 80. EL 2024, Art. 114 AEUV Rn. 50–80: Zur Rechtsgrundlage des DSA/DMA.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welcher Akteurstyp ist der Mandant? (Nutzer / Plattformbetreiber / Drittanbieter / Behörde)

@@ -1,6 +1,6 @@
 ---
 name: prozesskostenhilfe-antrag
-description: "Anwalt erstellt PKH-Antrag fuer Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Pruefraster: Erklaerung persoenliche und wirtschaftliche Verhaeltnisse Formular ZP1a Nachweise Einkommen Vermoegen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung moeglich. Output: vollstaendiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-pruefen (Vorpruefung Erfolgsaussicht) und klage-sozialgericht."
+description: "Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persoenliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht."
 ---
 
 # Prozesskostenhilfe-Antrag (Sozialgericht)
@@ -98,12 +98,8 @@ PKH-Bescheid des Gerichts mit Akte aufheben. Bei Ablehnung: Beschwerde § 127 ZP
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 29.09.2015 - B 9 SB 1/14 R, SozR 4-1500 § 73a Nr. 8 Rn. 14 — PKH nach § 73a SGG iVm § 114 ZPO ist zu bewilligen, wenn die Rechtsverfolgung hinreichende Aussicht auf Erfolg hat; dabei ist keine Vorausbeurteilung der Hauptsache vorzunehmen, sondern lediglich die Erfolgswahrscheinlichkeit auf Grundlage des Aktenbestands einzuschätzen.
-- BSG, Beschl. v. 20.02.2020 - B 14 AS 19/20 B, SozR 4-1500 § 73a Nr. 12 Rn. 11 — Die Beiordnung eines Rechtsanwalts nach § 121 ZPO iVm § 73a SGG erfolgt, wenn das Verfahren nach Art und Umfang eine anwaltliche Vertretung erfordert oder wenn der Gegner (z.B. eine Behörde) anwaltlich vertreten ist.
-- BSG, Beschl. v. 06.11.2014 - B 11 AL 9/14 B, SozR 4-1500 § 127 Nr. 6 Rn. 10 — Gegen Beschlüsse, durch die die Bewilligung von PKH abgelehnt oder aufgehoben wird, ist Beschwerde nach § 172 SGG statthaft; die Beschwerdebegründung muss auf den konkreten Versagungsgrund eingehen.
-- BVerfG, Beschl. v. 19.02.2008 - 1 BvR 1807/07, NJW 2008, 1060 Rn. 16 — PKH darf nicht versagt werden, wenn die entscheidende Rechtsfrage nicht abschließend geklärt ist; ein ungeklärter Sachverhalt ist bei der PKH-Prüfung grundsätzlich zugunsten des Antragstellers auszulegen (Verfassungsgebot der Rechtsschutzgleichheit).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Zöller ZPO, §§ 114-127 Rn. 1 ff. (PKH) — über § 73a SGG anwendbar
-- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses, Kap. VII Rn. 20 ff. (Antragstellung, Belege, Beiordnung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

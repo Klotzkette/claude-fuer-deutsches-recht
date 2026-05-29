@@ -1,13 +1,13 @@
 ---
 name: verletzungs-triage
-description: "Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Pruefraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz."
+description: "Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz."
 ---
 
 # Verletzungs-Triage
 
 ## Zweck
 
-Strukturierte Erstbewertung einer möglichen Schutzrechtsverletzung. Der Skill klärt, welches Recht verletzt sein könnte, bewertet den kommerziellen und rechtlichen Schweregrad und empfiehlt die verhältnismäßige Reaktion auf einer fünfstufigen Skala: von „Ignorieren" bis „Sofortklage". Die Empfehlung wird kalibriert an der im Kanzleiprofil hinterlegten Durchsetzungsstrategie.
+Strukturierte Erstbewertung einer möglichen Schutzrechtsverletzung. Der Skill klärt, welches Recht verletzt sein könnte, bewertet den kommerziellen und rechtlichen Schweregrad und empfiehlt die verhältnismäßige Reaktion auf einer fünfstufigen Skala: von "Ignorieren" bis "Sofortklage". Die Empfehlung wird kalibriert an der im Kanzleiprofil hinterlegten Durchsetzungsstrategie.
 
 ## Eingaben
 
@@ -38,7 +38,7 @@ Zunächst bestimmen, welches Recht verletzt sein könnte:
 - [ ] Ist die Marke schutzfähig und nicht durch Einreden (Benutzungsschonfrist § 26 MarkenG, Verfalls § 53 MarkenG) gefährdet?
 - [ ] Greift keine Schranke (§§ 20–26 MarkenG: beschreibende Benutzung, rein dekorative Benutzung)?
 
-Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – „Ortlieb I"; BGH, Urt. v. 11.04.2019 – I ZR 108/18, GRUR 2019, 1289 Rn. 21 – „Ortlieb II" (keyword advertising); EuGH, Urt. v. 23.03.2010 – C-236/08 bis C-238/08 (Google France), GRUR 2010, 445 Rn. 89 (AdWords).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Patentrecht (§ 9 PatG)
 
@@ -50,7 +50,7 @@ Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – 
 **Checkliste Patentverletzung:**
 - [ ] Patent in Kraft (Jahresgebühren, keine Nichtigerklärung)?
 - [ ] Alle Merkmale des Hauptanspruchs im Verletzungsgegenstand?
-- [ ] Äquivalenzprüfung erforderlich? (BGH – „Pemetrexed")
+- [ ] Äquivalenzprüfung erforderlich? (BGH – "Pemetrexed")
 - [ ] Schranken (§§ 11, 12 PatG: Privatbenutzung, Vorbenützungsrecht)?
 
 #### Urheberrecht (§ 97 Abs. 1 UrhG)
@@ -64,7 +64,7 @@ Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – 
 - [ ] Keine Schranke (§§ 44a ff. UrhG: Zitat, Karikaturl Parodik)?
 - [ ] Nachweis der Verletzung ausreichend (z. B. Hash-Vergleich bei Filesharing)?
 
-Leiturteil: BGH, Beschl. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1027 – „Reformistischer Aufbruch I“ (Umfang des Pressezitat- und Berichterstattungsrechts; öffentliche Zugänglichmachung von Texten eines ehemaligen Bundestagsabgeordneten).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Wettbewerbsrecht (§ 8 UWG)
 
@@ -76,7 +76,7 @@ Leiturteil: BGH, Beschl. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1027 – „R
 - [ ] Mitbewerber, qualifizierte Einrichtung oder Verbraucherschutzverband anspruchsberechtigt (§ 8 Abs. 3 UWG)?
 - [ ] Besondere Gefahr des Leistungsschutzes nach § 4 Nr. 3 UWG (konkrete Nachahmung)?
 
-Leiturteil: BGH, Urt. v. 29.04.2021 – I ZR 193/20, GRUR 2021, 1308 Rn. 25 – „Pelikan" (Abgrenzung Produkt-Imitation); BGH, Urt. v. 12.07.2018 – I ZR 74/17, GRUR 2018, 1157 – „Pelikan-Apotheke" (UWG und Markenrecht im Verhältnis).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Schwere der Verletzung bewerten
 
@@ -102,7 +102,7 @@ Leiturteil: BGH, Urt. v. 29.04.2021 – I ZR 193/20, GRUR 2021, 1308 Rn. 25 – 
 | **E) Hauptsacheklage** | Klage auf Unterlassung, Schadensersatz, Auskunft | Schwere Verletzung; Abmahnung erfolglos; hoher Streitwert; Grundsatzklärung |
 
 **Dringlichkeitsprüfung für einstweilige Verfügung:**
-- EV-Dringlichkeit wird von OLG Hamburg/Köln/München regelmäßig auf **1 Monat** ab Kenntnis des Verletzers begrenzt; danach Dringlichkeit widerlegt (BGH, Urt. v. 01.07.2010 – I ZR 160/08, GRUR 2010, 1103 Rn. 12 – „Pralinenform II"); `[prüfen – je nach Gericht]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EV-Antrag muss schlüssig und mit eidesstattlichen Versicherungen gestützt sein
 - Vollziehungsfrist: EV muss innerhalb 1 Monat zugestellt werden (§ 929 Abs. 2 ZPO)
 
@@ -130,16 +130,11 @@ Zitierweise nach `../references/zitierweise.md`.
 **Normen:** §§ 14, 15 MarkenG; §§ 9, 10, 139 PatG; §§ 97, 97a UrhG; §§ 3, 8 UWG; §§ 935–945 ZPO (EV); § 256 ZPO (NFL).
 
 **Leitentscheidungen:**
-- BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 – „Ortlieb I" (Marke).
-- BGH, Urt. v. 12.07.2018 – I ZR 74/17, GRUR 2018, 1157 – „Pelikan-Apotheke" (UWG/Marke).
-- BGH, Urt. v. 14.06.2016 – X ZR 29/15, GRUR 2016, 921 – „Pemetrexed" (Patent, Äquivalenz).
-- BGH, Beschl. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1027 – „Reformistischer Aufbruch I“ (Pressezitat- und Berichterstattungsrecht; öffentliche Zugänglichmachung).
-- BGH, Urt. v. 01.07.2010 – I ZR 160/08, GRUR 2010, 1103 – „Pralinenform II" (EV-Dringlichkeit).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Kommentarliteratur:**
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 1.100 ff.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 345 ff.
-- Wandtke/Bullinger, UrhR, 6. Aufl. 2022, § 97 Rn. 1 ff.
 - Dreier/Schulze, UrhG, 7. Aufl. 2022, § 97 Rn. 10 ff.
 - Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 42 ff.
 
@@ -162,5 +157,5 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Verjährung beachten:** § 20 MarkenG (3 Jahre), § 141 PatG (3 Jahre), § 102 UrhG (3 Jahre), § 11 UWG (6 Monate ab Kenntnis / 3 Jahre absolut); `[Modellwissen – prüfen]`.
 
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- BGH I ZR 228/15: GRUR-Fundstelle korrigiert von GRUR 2018, 178 zu GRUR 2017, 1027; Fallname korrigiert von 'Afterlife' zu 'Reformistischer Aufbruch I' (Pressezitat- und Berichterstattungsrecht). GRUR 2018, 178 = BGH I ZR 11/16 'Vorschaubilder III'.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

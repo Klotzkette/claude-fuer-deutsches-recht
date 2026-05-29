@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-kanzlei-kaltstart-interview
-description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zustaendige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behoerde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
+description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behoerde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
 ---
 
 # /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview
@@ -95,12 +95,8 @@ Dieses Plugin ist Werkzeug der zugelassenen Anwaltschaft. Mandantenkommunikation
 
 ## Aktuelle Rechtsprechung — Kanzleibetrieb und beA-Pflichten
 
-- BSG, Urt. v. 14.11.2018 - B 8 SO 12/17 R, SozR 4-1500 § 65d Nr. 1 Rn. 15 — Die aktive Nutzungspflicht des beA nach § 65d SGG gilt ab 01.01.2022 für alle zugelassenen Rechtsanwälte; Schriftsätze, die nach diesem Datum per Telefax oder Post eingehen, sind formunwirksam, sofern kein zugelassener Ausnahmetatbestand vorliegt.
-- BSG, Urt. v. 29.09.2021 - B 12 R 21/19 R, SozR 4-1500 § 65a Nr. 3 Rn. 17 — Für die Fristwahrung via beA ist der Zeitpunkt der erfolgreichen Übertragung auf dem Server des Gerichts maßgeblich, nicht der Absendetag in der Kanzlei; bei technischen Problemen ist die Störung zu dokumentieren und unverzüglich postalisch nachzusenden.
-- BSG, Urt. v. 23.05.2019 - B 14 AS 28/18 R, SozR 4-4200 § 37 Nr. 9 Rn. 12 — Das Fristenbuch ist als internes Sicherungssystem nicht durch externe Rechtspflicht vorgeschrieben, aber haftungsrechtlich unumgänglich; Fehler im Fristenbuch begründen Anwaltshaftung nach § 280 BGB iVm dem Mandatsvertrag.
-- BSG, Urt. v. 04.03.2014 - B 1 KR 69/12 R, SozR 4-1500 § 183 Nr. 12 Rn. 19 — Im Sozialgerichtsverfahren sind Versicherte, Leistungsempfänger und Behinderte nach § 183 SGG kostenfrei; Anwaltshonorare werden nach RVG-VV abgerechnet, bei PKH-Beiordnung aus der Staatskasse.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Ladewig/Keller/Leitherer/Schmidt, SGG, § 65d Rn. 1 ff. (beA-Pflicht im Sozialgerichtsverfahren)
-- BRAO § 31a — aktive Nutzungspflicht beA; RVG-VV Nr. 3102 ff. (Sozialrechtliche Vergütung)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

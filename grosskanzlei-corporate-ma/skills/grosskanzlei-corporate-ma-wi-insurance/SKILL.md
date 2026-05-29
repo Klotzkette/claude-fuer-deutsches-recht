@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-wi-insurance
-description: "W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung fuer SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Pruefraster Buy-side vs. Sell-side Policy, vollstaendiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
+description: "W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
 ---
 
 # W&I-Versicherung
@@ -28,15 +28,11 @@ Bereitet W&I-Prozess (Warranty and Indemnity Insurance), Underwriting, DD-Berich
 
 ## Aktuelle Rechtsprechung
 
-- OLG Frankfurt, Urt. v. 15.04.2021 - 3 U 61/18, NZG 2021, 1120 — W&I-Deckungsausschluss: bekannte Risiken, die im Disclosure Letter vollstaendig offengelegt wurden, koennen nicht unter die W&I-Versicherung fallen; Kenntnis des Versicherungsnehmers ist massgeblich
-- BGH, Urt. v. 29.10.2020 - I ZR 153/17, NJW 2021, 780 — Garantiehaftung Cap: vertraglich vereinbarter Cap begrenzt die Inanspruchnahme; W&I-Versicherungssumme und Cap muessen koordiniert sein
-- OLG Duesseldorf, Urt. v. 19.03.2019 - 20 U 116/16, VersR 2019, 789 — Underwriting-Obliegenheit: Versicherungsnehmer muss im Underwriting-Fragebogen vollstaendige und zutreffende Angaben machen; bewusste Falschaussagen fuehren zur Leistungsfreiheit nach § 28 VVG
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Picot, Unternehmenskauf, Kapitel 7 (W&I-Versicherung), 5. Auflage
-- Beisel/Klumpp, Unternehmenskauf, § 5 Rn. 80-120 (W&I-Versicherung, Synthetic Warranties), 8. Auflage
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **W&I-Struktur entscheiden:** Buy-side (Kaeufer versichert sich gegen Garantienverletzung des Verkaeuf ers) vs. Sell-side (Verkaeufer versichert seine Haftung); Buy-side in Europa Standard

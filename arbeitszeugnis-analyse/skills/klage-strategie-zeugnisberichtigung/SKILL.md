@@ -1,17 +1,17 @@
 ---
 name: klage-strategie-zeugnisberichtigung
-description: "Strategie und Antragsformulierungen fuer die Zeugnisberichtigungsklage vor dem Arbeitsgericht. Anwendungsfall aussergerichtliches Berichtigungsverlangen ist gescheitert und Klage soll eingereicht werden. Normen § 109 GewO Berichtigungsanspruch § 46 ArbGG Verfahren § 253 ZPO Klageantrag BAG-Beweislastverteilung. Pruefraster Streitwertberechnung Klageantrag mit Wortlautformulierung Fristen Verjaehrung aussergerichtliche Phase Kostenrisiko. Output Klageschrift-Baustein mit Antrag Sachverhalt Zeugnisanalyse Beweisangeboten und Kostenantrag. Abgrenzung zu aufforderungsschreiben-arbeitgeber (aussergerichtlich) und schriftsatzkern-substantiierung."
+description: "Strategie und Antragsformulierungen für die Zeugnisberichtigungsklage vor dem Arbeitsgericht. Anwendungsfall außergerichtliches Berichtigungsverlangen ist gescheitert und Klage soll eingereicht werden. Normen § 109 GewO Berichtigungsanspruch § 46 ArbGG Verfahren § 253 ZPO Klageantrag BAG-Beweislastverteilung. Prüfraster Streitwertberechnung Klageantrag mit Wortlautformulierung Fristen Verjährung außergerichtliche Phase Kostenrisiko. Output Klageschrift-Baustein mit Antrag Sachverhalt Zeugnisanalyse Beweisangeboten und Kostenantrag. Abgrenzung zu aufforderungsschreiben-arbeitgeber (außergerichtlich) und schriftsatzkern-substantiierung."
 ---
 
 # Klagestrategie Zeugnisberichtigung
 
 Wer in der Ampelanalyse rote oder orange Signale erkennt, steht vor der Frage, was tun. Dieser Skill fuehrt vom Befund zur konkreten Klagestrategie. Er deckt den vollen Weg ab: aussergerichtliches Berichtigungsverlangen, Klageantrag, Beweislastverteilung, Streitwertberechnung und Verfahrensoekonomie.
 
-Erste Stufe ist immer das aussergerichtliche Berichtigungsverlangen. Der Arbeitgeber muss zunaechst die Chance haben, das Zeugnis selbst zu korrigieren. Erst nach erfolglosem Verlangen wird Klage zulaessig. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Saetze benennen und die gewuenschte Formulierung vorschlagen. Eine pauschale Aufforderung „bitte verbessern" reicht nicht.
+Erste Stufe ist regelmäßig das außergerichtliche Berichtigungsverlangen. Der Arbeitgeber sollte die Chance haben, das Zeugnis selbst zu korrigieren. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Sätze benennen und die gewünschte Formulierung vorschlagen. Eine pauschale Aufforderung "bitte verbessern" hilft weder in der Verhandlung noch im späteren Prozess.
 
 Zweite Stufe ist die Klagepruefung. Nicht jedes orange Signal ist klagbar. Die Beweislast nach BAG-Rechtsprechung ist klar verteilt: Bei Streit um eine Note schlechter als befriedigend traegt der Arbeitgeber die Beweislast fuer die schlechte Bewertung. Bei Streit um eine Note besser als befriedigend traegt der Arbeitnehmer die Beweislast fuer die bessere Leistung. Wer also aus einer Drei eine Eins machen will, muss substantiieren — wer aus einer Vier eine Drei machen will, muss nur die Vier bestreiten und Wohlwollensgebot ruegen.
 
-Dritte Stufe ist der Klageantrag. Er sollte konkret formuliert werden: nicht nur „der Beklagte wird verurteilt, das Zeugnis zu berichtigen", sondern mit Wortlautvorschlag fuer die beanstandeten Saetze. Das Gericht entscheidet sonst nach billigem Ermessen, was selten der Wunschformulierung entspricht.
+Dritte Stufe ist der Klageantrag. Er sollte konkret formuliert werden: nicht nur "der Beklagte wird verurteilt, das Zeugnis zu berichtigen", sondern mit Wortlautvorschlag fuer die beanstandeten Saetze. Das Gericht entscheidet sonst nach billigem Ermessen, was selten der Wunschformulierung entspricht.
 
 Der Streitwert einer Zeugnisberichtigungsklage liegt nach gefestigter Rechtsprechung bei einem Monatsbruttogehalt. Auch das Bruchteilsverhaeltnis bei mehreren Streitpunkten folgt diesem Wert. Bei einer reinen Schlussformel-Korrektur kann der Streitwert auf ein Drittel oder ein Halbes Monatsgehalt reduziert sein.
 
@@ -23,9 +23,9 @@ Die Verjaehrung folgt der regelmaessigen Verjaehrungsfrist nach §§ 195, 199 BG
 
 | Befund | Klagbarkeit | Erfolgsaussicht |
 |---|---|---|
-| „bemueht" als Leistungsformel | Klagbar | Hoch |
+| "bemueht" als Leistungsformel | Klagbar | Hoch |
 | Falsche Reihenfolge im Sozialverhalten | Klagbar | Hoch |
-| Unvollstaendige Schlussformel | Klagbar | Hoch |
+| Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
 | Negatives Codewort aus dem Codeworte-Katalog | Klagbar | Hoch |
 | Drift im selben Themenbereich | Klagbar (bei nachgewiesenem Schaufenster) | Mittel |
 | Konstante Note 3 in weichen Bereichen | Klagbar bei Wohlwollensverstoss | Mittel |
@@ -60,11 +60,11 @@ Sehr geehrte Damen und Herren,
 
 das mir unter dem aktuellen Datum erteilte Arbeitszeugnis habe ich erhalten. Mit folgenden Formulierungen bin ich nicht einverstanden und bitte um Berichtigung mit den jeweils vorgeschlagenen Wortlauten:
 
-Statt „war stets bemueht, die ihm uebertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": „erledigte die ihm uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+Statt "war stets bemueht, die ihm uebertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
-Statt „sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": „sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
+Statt "sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
 
-Statt fehlender Schlussformel: „Wir bedauern sein Ausscheiden, danken ihm fuer die geleistete Arbeit und wuenschen ihm fuer seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg".
+Als Vergleichsvorschlag zur knappen Schlussformel: "Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
 
 Ich bitte um Uebersendung des berichtigten Zeugnisses innerhalb von zwei Wochen ab Zugang dieses Schreibens.
 
@@ -74,11 +74,11 @@ Mit freundlichen Gruessen
 
 Der Beklagte wird verurteilt, der Klaegerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
 
-Erstens, in der Leistungsbeurteilung statt „war stets bemueht" die Formulierung „erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung "erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
-Zweitens, in der Verhaltensbeurteilung statt „Kollegen und Vorgesetzten" die Reihenfolge „Vorgesetzten, Kollegen und Kunden" mit dem Steigerer „stets" und dem Praedikat „einwandfrei".
+Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Reihenfolge "Vorgesetzten, Kollegen und Kunden" mit dem Steigerer "stets" und dem Praedikat "einwandfrei".
 
-Drittens, in der Schlussformel die Aufnahme der drei Elemente Bedauern, Dank und Zukunftswuensche im Wortlaut: „Wir bedauern ihr Ausscheiden, danken ihr fuer die geleistete Arbeit und wuenschen ihr fuer ihren weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg".
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beispiel 3 – Streitwert-Begruendung
 
@@ -104,12 +104,8 @@ Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalys
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Bei Note schlechter als befriedigend trägt der Arbeitgeber die Beweislast; Klage auf Aufwertung von Note 4 auf Note 3 hat daher gute Ausgangslage.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot als Anspruchsgrundlage; Formulierungen, die das Fortkommen erschweren, sind berichtigungspflichtig auch ohne Notenstreit.
-- **BAG, Urt. v. 16.09.1997 — 9 AZR 663/96**, NZA 1998, 253 — Streitwert Zeugnisberichtigung entspricht einem Monatsbruttogehalt; gilt auch bei mehreren Streitpunkten, da Anspruch einheitlich ist.
-- **BAG, Urt. v. 09.09.1992 — 5 AZR 509/91** — Verwirkung des Zeugnisanspruchs: Zeitmoment bei drei bis vier Jahren Untätigkeit; Umstandsmoment wenn Arbeitgeber auf Akzeptanz vertrauen durfte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 30-50 (Berichtigungsklage, Beweislast, Streitwert, Verjährung)
-- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 Rn. 50 ff. (Klageantrag, Formulierungsanforderungen)
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

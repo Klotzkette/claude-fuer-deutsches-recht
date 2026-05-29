@@ -1,6 +1,6 @@
 ---
 name: entfristung-vergleichsverhandlung-checkliste
-description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestaetigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung; Erledigungsklausel-Risiken."
+description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung; Erledigungsklausel-Risiken."
 ---
 
 # Vergleichsverhandlung: Checkliste Entfristungsklage
@@ -25,9 +25,7 @@ description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristung
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 19.05.2010 – 5 AZR 253/09, NZA 2010, 939 — Annahmeverzugslohn steht dem Arbeitnehmer für den Zeitraum zu, in dem der Arbeitgeber die Weiterbeschäftigung trotz Unwirksamkeit der Befristung verweigert; anderweitiger Verdienst ist nach § 615 Satz 2 BGB anzurechnen.
-- BAG, Urt. v. 01.02.2006 – 5 AZR 187/05, NZA 2006, 619 — Eine weit gefasste Erledigungsklausel im Vergleich erfasst auch Ansprüche, die die Parteien nicht bedacht haben; der Mandant muss auf das Risiko der Vernichtung offener Forderungen hingewiesen werden.
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 1184 — Schriftformerfordernis bei befristetem Arbeitsvertrag (§ 14 Abs. 4 TzBfG); spätere schriftliche Niederlegung einer mündlich vereinbarten Befristung heilt nicht rückwirkend den Formfehler; stellt jedoch die neue Befristungsgrundlage dar, wenn Sachgrund vorliegt; bei mängelbehafteter Schriftform ist die Rechtsposition des Arbeitnehmers in Vergleichsverhandlungen günstig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zweck
 
@@ -103,10 +101,10 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
 
 <!-- AUDIT 27.05.2026 | Bundle 012 | Task 4
-AZ geprüft: BAG 7 AZR 1048/06
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund WRONG_TOPIC + falsche NZA-Fundstelle korrigiert.
-Alt: "NZA 2008, 999 — starker Schriftformmangel-Fall (elektronische Signatur)"
-Neu: "NZA 2008, 1184 — Schriftformerfordernis § 14 Abs. 4 TzBfG; mündliche Befristung + späte
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 schriftliche Niederlegung; keine rückwirkende Heilung; Schwäche der Arbeitgeberposition nutzbar"
 Das AZ betrifft nicht elektronische Signaturen sondern Unterzeichnung nach Arbeitsaufnahme.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+1048%2F06

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-recherche-strategie
-description: "Gibt eine Strategie fuer die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de."
+description: "Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de."
 ---
 
 # Rechtsprechung-Recherche-Strategie
@@ -12,7 +12,7 @@ Subsumtion ohne Rechtsprechung ist unvollständig. Dieser Skill vermittelt, wie 
 ## Wann reicht das Systemwissen?
 
 Das System kann aus seinem Wissenstand zitieren bei:
-- Langjährig gefestigter höchstrichterlicher Rechtsprechung (z. B. BGH-Grundsätze zum Schadensersatzrecht, klassische BGHZ-Entscheidungen)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Grundlegenden EuGH-Leitentscheidungen (z. B. Francovich, Simmenthal, Marleasing, CILFIT, Courage/Crehan)
 - Grundsatzurteilen des BVerfG (z. B. Lüth, Apothekenurteil, Solange I und II, Lissabon)
 
@@ -30,26 +30,17 @@ Das System kann aus seinem Wissenstand zitieren bei:
 
 | Gericht | Kostenlose Fundstelle | Hinweis |
 |---------|----------------------|---------|
-| BVerfG | bundesverfassungsgericht.de, rechtsprechung-im-internet.de | Volltext |
-| BGH | bundesgerichtshof.de, dejure.org, openjur.de | BGHZ = amtliche Sammlung; NJW, MDR = Fachzeitschriften |
-| BAG | bundesarbeitsgericht.de, dejure.org | BAGE = amtliche Sammlung |
-| BSG | bsg.bund.de, dejure.org | BSGE = amtliche Sammlung |
-| BVerwG | bverwg.de, dejure.org | BVerwGE = amtliche Sammlung |
-| BFH | bundesfinanzhof.de | BFHE = amtliche Sammlung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | OLG / LG | openjur.de, dejure.org (je nach Gericht und Land) | Nicht alle Urteile veröffentlicht |
-| EuGH / EuG | curia.europa.eu | Volltext; ECLI-Nummer verwenden |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Kommentare | beck-online.de (kostenpflichtig), juris.de (kostenpflichtig) | Kurzhinweise frei; Volltexte kostenpflichtig |
 
 ## Zitierweise
 
-Das System gibt Zitate im BGH-Stil: Gericht, Datum, Aktenzeichen, Fundstelle (Zeitschrift/Seite), ggf. Randnummer. Beispiel: BGH, 12.03.2021, Az. VI ZR 89/20, NJW 2021, 1234 Rn. 15. EuGH-Zitate mit ECLI-Nummer: EuGH, 12.07.1990, Rs. C-188/89, ECLI:EU:C:1990:313 — Foster.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Bei ungesicherten Zitaten weist das System ausdrücklich darauf hin und empfiehlt Verifikation in dejure.org oder curia.europa.eu.
 
-## Hinweis auf Kommentarliteratur
+## Quellenregel
 
-Für die Auslegung von Normen verweist das System auf Standardkommentare (ohne Volltext-Wiedergabe). Details in Skill `kommentar-und-literatur-hinweis`.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

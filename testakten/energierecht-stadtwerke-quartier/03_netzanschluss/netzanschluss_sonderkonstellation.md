@@ -48,7 +48,7 @@ Errichtet die SWKK eine öffentliche Netzinfrastruktur, die den Quartier und den
 
 **Wirtschaftliche Beurteilung:** Für ein Kleinst-VNB mit einer einzigen MS-Leitung ist die Regulierungslast unverhältnismäßig hoch. Praktisch würde die SWKK als kleiner VNB unter der vereinfachten Regulierung nach § 24 ARegV behandelt.
 
-**Ergebnis Variante C (reguliertes Netz):** Diese Variante ist der „sicherste" Weg aus regulatorischer Sicht, aber wirtschaftlich die teuerste, da alle Netzentgelte auf den Industriekunden entfallen und der Bürokratieaufwand hoch ist. Als Fallback-Lösung sollte sie jedoch jederzeit umsetzbar sein.
+**Ergebnis Variante C (reguliertes Netz):** Diese Variante ist der "sicherste" Weg aus regulatorischer Sicht, aber wirtschaftlich die teuerste, da alle Netzentgelte auf den Industriekunden entfallen und der Bürokratieaufwand hoch ist. Als Fallback-Lösung sollte sie jedoch jederzeit umsetzbar sein.
 
 ---
 

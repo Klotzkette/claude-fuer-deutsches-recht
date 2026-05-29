@@ -1,6 +1,6 @@
 ---
 name: berufung-zulassung-besondere-bedeutung
-description: "Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis fuer Buerger ohne Anwalt."
+description: "Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt."
 ---
 
 # Wenn die Wertgrenze nicht erreicht ist — Zulassung?
@@ -106,7 +106,7 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 
 ## Worauf Sie besonders achten muessen
 
-- **Sehr formell**: hier muss man juristisch praezise argumentieren.
+- **Sehr formell**: hier muss man juristisch sauber argumentieren.
 - **Anwalt sinnvoll** mit PKH.
 - **Frist 1 Monat** wie ueblich.
 
@@ -118,10 +118,9 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 
 ## Querverweise
 
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `urteil-sozialgericht-was-jetzt` — vorgelagert
 - `berufung-lsg-144-sgg-wertgrenze-750` — wenn Wertgrenze erreicht
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — Aequivalent zum BSG
+- `nichtzulassungsbeschwerde-bsg-160a-sgg` — erst nach einem LSG-Urteil ohne zugelassene Revision
 - `pkh-vor-sozialgericht-73a-sgg` — PKH
 
 ## Quellen und Aktualitaet

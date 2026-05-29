@@ -1,6 +1,6 @@
 ---
 name: zvg-bieterangebot-bewertung
-description: "Bewertet Zwangsversteigerungsobjekte aus Investorensicht fuer Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Pruefraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle."
+description: "Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Prüfraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle."
 ---
 
 # Bieterangebot Bewerten
@@ -53,18 +53,15 @@ Bewertet ein Objekt aus der Zwangsversteigerung oder ein vor-/außerterminliches
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Beschl. v. 05.11.2004 - IX ZB 183/03, NZI 2005, 108 Rn. 14 — Der Zwangsverwalter ist nicht berechtigt, das verwaltete Grundstück zu veräußern; er kann jedoch Mietrechte begründen und ist verpflichtet, unberechtigte Nutzungen zu beenden, wenn sie den Grundstückswert gefährden.
-- BGH, Beschl. v. 18.05.2006 - IX ZB 25/05, NZI 2006, 531 — Wenn in der Zwangsverwaltung ein Versteigerungstermin ansteht, hat der Zwangsverwalter das Gericht über den Objektzustand und bestehende Mietverhältnisse zu unterrichten; er muss sicherstellen, dass Bieter über die tatsächliche Vermietungssituation informiert werden können.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Bieterangebot/Versteigerungsschnittstelle
 
 § 152 ZVG (Verwalterpflichten) → § 56 ZVG (Übergabe an Ersteher) → § 57 ZVG (Mieterschutz bei Eigentumsübergang) → § 57a ZVG (Sonderkündigungsrecht Ersteher) → §§ 566-566e BGB (Kauf bricht nicht Miete) → § 155 ZVG (Verteilungsplan bis Versteigerung)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Stöber ZVG 22. Aufl., §§ 56-57a Rn. 1-40 (Übergang auf Ersteher Mietrecht)
-- Böttcher ZVG 6. Aufl., § 56 Rn. 10-30 (Übergabepflicht Zwangsverwalter)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Bieterangebot/Versteigerung
 
 1. Ist ein Versteigerungstermin angesetzt? (Auftrag des Gerichts, Mieterliste und Zustands-Bericht vorzubereiten)

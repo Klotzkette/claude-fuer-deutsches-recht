@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-vergaberecht
-description: "Eingangs-Triage fuer vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Pruefraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailpruefung siehe vergabe-nachpruefung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen."
+description: "Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen."
 ---
 
 # Mandat-Triage Vergaberecht
@@ -94,7 +94,7 @@ Bei Stillhaltefrist § 134 GWB läuft:
 ## Mandatsannahme
 
 - **Konflikt-Check** — kein Doppel-Mandat unter Bietern
-- **Streitwert** § 50 Abs. 2 GKG fünf Prozent Brutto-Auftragssumme bei Liefer- Dienstleistungs- und Bauaufträgen — ohne gesetzliche Höchst- oder Mindestgrenze (BGH XIII ZB 64/21 vom 29.11.2022 zur Berechnungsgrundlage einschließlich durchlaufender Posten)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Komplexität** Sachverständigen-Bedarf technisch Kalkulationen
 - **Versicherungs-Deckung** Bietern selten — Berufshaftpflicht Anwalt prüfen
 
@@ -146,10 +146,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Triage-Vertiefung — kritische Vergaberecht-Fristen
 
-- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 — Ruegeobliegenheit: max. 10 Tage nach Kenntnis.
-- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 — 15 Tage Nachpruefungsantrag nach Ruegerueckweisung.
-- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Bieter muss konkrete Beeintraechtigung seiner Vergabechancen darlegen.
-- OLG Dusseldorf, Beschl. v. 25.01.2023 - Verg 30/22, NZBau 2023, 255 — Wertungsmatrix: transparente Anwendung obligatorisch.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Triage-Protokoll Vergaberecht
 **Adressat:** Intern — Tonfall: schnell, fristorientiert

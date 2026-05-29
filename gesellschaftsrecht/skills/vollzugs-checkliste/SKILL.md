@@ -1,13 +1,14 @@
 ---
 name: vollzugs-checkliste
-description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: „Vollzugscheckliste\", „Closing-Checkliste\", „was fehlt noch zum Closing\", „Checklisten-Status\", „zur Checkliste hinzufügen\"."
+description: 'Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: "Vollzugscheckliste", "Closing-Checkliste", "was fehlt noch zum Closing", "Checklisten-Status", "zur Checkliste hinzufügen".'
+
 ---
 
 # Vollzugscheckliste M&A
 
 ## Kernsachverhalt
 
-In deutschen M&A-Transaktionen fallen Signing (Vertragsunterzeichnung) und Closing (Vollzug) regelmäßig auseinander. Die Zeitspanne zwischen beiden Ereignissen ist durch Vollzugsbedingungen (Conditions Precedent, „CPs") gefüllt, deren Erfüllung den Vollzug erst ermöglicht. Das Management dieser Bedingungen ist eine der zentralen anwaltlichen Aufgaben in der Closing-Phase.
+In deutschen M&A-Transaktionen fallen Signing (Vertragsunterzeichnung) und Closing (Vollzug) regelmäßig auseinander. Die Zeitspanne zwischen beiden Ereignissen ist durch Vollzugsbedingungen (Conditions Precedent, "CPs") gefüllt, deren Erfüllung den Vollzug erst ermöglicht. Das Management dieser Bedingungen ist eine der zentralen anwaltlichen Aufgaben in der Closing-Phase.
 
 Vollzugsbedingungen entstehen aus dem SPA (Share Purchase Agreement), aus regulatorischen Erfordernissen (Kartellrecht, Außenwirtschaft), aus gesellschaftsrechtlichen Zustimmungspflichten (§ 179a AktG, § 293 AktG) und aus den im Due-Diligence-Prozess identifizierten Risiken (Change-of-Control-Klauseln, Fremdfinanzierungsfreigaben, Gesellschafterbeschlüsse).
 
@@ -44,18 +45,18 @@ Vollzugsverbot bis Freigabe: § 41 Abs. 1 GWB — Angemeldete Zusammenschlüsse 
 > § 55 AWV: Bei Erwerb von Beteiligungen an deutschen Unternehmen durch Erwerber aus Drittstaaten (Nicht-EU/EWR) ab Überschreiten bestimmter Stimmrechtsschwellen (je nach Sektor 10–25 %) ist eine Prüfung durch das BMWK möglich. Prüffrist: 4 Monate nach Vollständigkeitserklärung des Antrags. In bestimmten Sektoren (kritische Infrastruktur, Energie, Telekommunikation, Gesundheit, Medien, Rüstung): strenge Prüfung nach §§ 60 ff. AWV. `[Modellwissen — aktuelle AWV-Sektoren und Schwellen beim BMWK verifizieren]`
 
 **§ 179a AktG — Übertragung des gesamten Gesellschaftsvermögens**
-> „Ein Rechtsgeschäft, durch das die Gesellschaft das zur Zeit des Abschlusses des Rechtsgeschäfts vorhandene Gesellschaftsvermögen insgesamt überträgt, bedarf eines Beschlusses der Hauptversammlung nach den Vorschriften über die Satzungsänderung."
+> "Ein Rechtsgeschäft, durch das die Gesellschaft das zur Zeit des Abschlusses des Rechtsgeschäfts vorhandene Gesellschaftsvermögen insgesamt überträgt, bedarf eines Beschlusses der Hauptversammlung nach den Vorschriften über die Satzungsänderung."
 
 Qualifizierte Mehrheit (§ 179 Abs. 2 AktG): 3/4 des vertretenen Grundkapitals. Notariell beurkundete Niederschrift (§ 130 Abs. 1 AktG).
 
 **§ 15 Abs. 3, 4 GmbHG — Abtretungsform**
-> § 15 Abs. 3 GmbHG: „Die Abtretung von Geschäftsanteilen und die Begründung von Rechten an Geschäftsanteilen bedürfen der Form des § 15 Abs. 3 GmbHG, also eines in notarieller Form geschlossenen Vertrages."
+> § 15 Abs. 3 GmbHG: "Die Abtretung von Geschäftsanteilen und die Begründung von Rechten an Geschäftsanteilen bedürfen der Form des § 15 Abs. 3 GmbHG, also eines in notarieller Form geschlossenen Vertrages."
 > § 15 Abs. 4 GmbHG: Eine ohne diese Form getroffene Vereinbarung wird mit dem Abschluss des formgerechten Vertrages gültig.
 
 **§ 313 BGB — Störung der Geschäftsgrundlage (MAC)**
-> „Hat sich die Geschäftsgrundlage eines Vertrages nach Vertragsschluss schwerwiegend verändert und hätten die Parteien den Vertrag nicht oder mit anderem Inhalt geschlossen, wenn sie diese Veränderung vorausgesehen hätten, so kann Anpassung des Vertrages verlangt werden."
+> "Hat sich die Geschäftsgrundlage eines Vertrages nach Vertragsschluss schwerwiegend verändert und hätten die Parteien den Vertrag nicht oder mit anderem Inhalt geschlossen, wenn sie diese Veränderung vorausgesehen hätten, so kann Anpassung des Vertrages verlangt werden."
 
-In deutschen SPA-Formulierungen wird MAC häufig als „wesentliche nachteilige Veränderung" oder über spezifische Auslösetatbestände definiert. § 313 BGB greift nur subsidiär; Vorrang des Vertrags.
+In deutschen SPA-Formulierungen wird MAC häufig als "wesentliche nachteilige Veränderung" oder über spezifische Auslösetatbestände definiert. § 313 BGB greift nur subsidiär; Vorrang des Vertrags.
 
 **§ 293 AktG — Unternehmensvertrag (Beherrschungs-/Gewinnabführungsvertrag)**
 > HV-Beschluss des Tochterunternehmens mit 3/4-Mehrheit; Zustimmung der Hauptversammlung des Mutterunternehmens nach § 293 Abs. 2 AktG.
@@ -67,12 +68,7 @@ In deutschen SPA-Formulierungen wird MAC häufig als „wesentliche nachteilige 
 
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
-| BGH | KVZ 57/17 | NJW 2019, 1067 | Vollzugsverbot § 41 GWB; rechtswidriger Vollzug vor Freigabe; Bußgeld und Unwirksamkeit |
-| BGH | II ZB 22/19 | NZG 2020, 1067 | § 179a AktG; HV-Beschlusserfordernis bei wesentlicher Vermögensübertragung |
-| BGH | II ZR 15/16 | NJW 2018, 2114 | § 15 GmbHG Abtretungsform; Heilung nach § 15 Abs. 4 GmbHG |
-| EuGH | C-633/16 | NJW 2018, 1735 (Ernst & Young) | Art. 7 FKVO; Vollzugsverbot gilt erst ab Begründung der Kontrolle; vorbereitende Maßnahmen ausgenommen |
-| OLG Frankfurt | 11 U 26/17 | NZG 2018, 712 | MAC-Klausel im SPA; enge Auslegung nach deutschem Recht; § 313 BGB subsidiär |
-| OLG Düsseldorf | 16 U 105/19 | NZG 2020, 1264 | Change-of-Control-Klausel; Drittpartei-Zustimmungspflicht als blockierende Vollzugsbedingung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Vollzugscheckliste
 
@@ -406,11 +402,11 @@ Vor Ausstellung einer Vollzugsfreigabe oder eines Vollzugsmemos: Falls Rolle **N
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- MüKoGmbHG/Fleischer, 4. Aufl. 2022, § 15 Rn. 90 ff. (Abtretungsform).
-- Hüffer/Koch, AktG, 16. Aufl. 2023, § 179a Rn. 5 ff.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, § 35 Rn. 1 ff. (Fusionskontrolle).
-- BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067 (Fusionskontrolle, Vollzugsverbot).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template
 

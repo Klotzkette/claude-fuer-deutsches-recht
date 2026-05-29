@@ -1,6 +1,6 @@
 ---
 name: positionsmarke
-description: "Positionsmarken (z.B. roter Sohlenstreifen Louboutin, Adidas-Streifen, Burberry-Karo) anmelden: Position auf Traeger exakt beschreiben und schuetzen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV, EuGH C-163/16 Louboutin. Pruefraster: Positions-Beschreibung (Traeger, Position, Ausdehnung), Unterscheidungskraft, Verkehrsdurchsetzung, Freihaltebeduerftigkeit. Output Anmelde-Strategie, Beschreibungs-Entwurf fuer Anmeldeformular, Nachweis-Konzept. Abgrenzung: 3D-Formmarke siehe dreidimensionale-marke; Bild-/Wort-Bild-Marke siehe bildmarke-und-wort-bild."
+description: "Workflow-Skill zu positionsmarke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Positionsmarken
@@ -12,9 +12,8 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
 ## Rechtsrahmen
 
 - **Art. 3 I lit. f DurchfVO (EU) 2018/626 zur UMV:** Positionsmarke als anerkannte Markenart
-- **§ 3 I MarkenG:** Positionsmarke unter „andere Aufmachungen" markenfähig
-- **EuGH C-163/16 (Christian Louboutin / Van Haren):** Roter Sohlenstreifen an High Heels ist Positionsmarke, nicht reine Formmarke — Formausschluss § 3 II MarkenG greift nicht, wenn Farbe (nicht Form) den Schutz begründet. WICHTIG: Nach Vorabentscheidung durch EuGH schließlich LG Hamburg Eintragung bestätigt
-- **Adidas AG Drei-Streifen-Marke:** EUIPO und BGH zur Unterscheidungskraft paralleler Streifen; BGH I ZB 2/15 (Drei-Streifen-Marke Adidas) — Verkehrsdurchsetzung nach intensiver Benutzung
+- **§ 3 I MarkenG:** Positionsmarke unter "andere Aufmachungen" markenfähig
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bottega Veneta Intrecciato:** EUIPO R 2592/2011-4 — Webmuster-Positionsmarke für Lederhandtaschen, Verkehrsdurchsetzung nachgewiesen
 - **Burberry-Karo:** Eingetragene Marke für charakteristisches Karomuster in Beige/Schwarz/Rot — Unterscheidungskraft durch Verkehrsdurchsetzung
 
@@ -39,7 +38,7 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
    - Marktanteil: mind. 40 % der beteiligten Verkehrskreise erkennen das Zeichen als Herkunftshinweis
    - Werbeaufwand letzte 5 Jahre (Euro-Beträge)
    - Medienberichte, Fachpresse, Social Media
-   - Verbraucherbefragungsgutachten (Mindestanforderungen BGH I ZB 56/12 — Verlegerkennung)
+   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - Umsatzzahlen
 
 5. **Warenverzeichnis:** Präzise Warenbeschreibung, da Positionsmarke an konkrete Produktkategorie gebunden
@@ -50,7 +49,7 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
 Ein 3 mm breiter goldener Streifen aus Goldfolie, genau 15 mm vom Handgelenk-Rand, auf der Innenseite aller Lederhandschuhe. Analyse: Position klar definiert, Goldstreifen nicht branchenüblich an Handschuh-Innenseite → Unterscheidungskraft möglicherweise inhärent. Strategie: Anmeldung als Positionsmarke mit detaillierter Beschreibung und gestrichelter Handschuh-Zeichnung; Verkehrsdurchsetzungsnachweis als Backup vorbereiten.
 
 ### Konstellation 2: Intrecciato-Webmuster der K°° Handtaschen
-Das charakteristische Flechtmuster der „Sac Maillé"-Kollektion. Analogie zu Bottega Veneta: Nach 8 Jahren Marktpräsenz und EUR 15 Mio. Marketingaufwand: Verkehrsdurchsetzungsantrag beim EUIPO mit Meinungsumfrage in DE/FR/IT/ES.
+Das charakteristische Flechtmuster der "Sac Maillé"-Kollektion. Analogie zu Bottega Veneta: Nach 8 Jahren Marktpräsenz und EUR 15 Mio. Marketingaufwand: Verkehrsdurchsetzungsantrag beim EUIPO mit Meinungsumfrage in DE/FR/IT/ES.
 
 ### Konstellation 3: Adidas-Analogie — Schutz paralleler Nähte
 Zwei parallele Kontrastnähte an der Schulterpartie aller klôtzzkètté-Jacken. Problem: Adidas-Rechtsprechung zeigt, dass einfache Streifen schwer schutzfähig sind. Empfehlung: Mustermarke (ggf. als Bildmarke eingetragen) kombiniert mit Positionsmarke; Verkehrsdurchsetzung zentraler Angriffspunkt.
@@ -58,12 +57,11 @@ Zwei parallele Kontrastnähte an der Schulterpartie aller klôtzzkètté-Jacken.
 ## Belege & Kommentare
 
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 200 ff. (Positionsmarken)
-- BeckOK MarkenR, § 3 MarkenG Rn. 60 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 220 ff.
-- EuGH, Urt. v. 12.06.2018 — C-163/16 (Louboutin) — roter Sohlenstreifen
-- BGH, Beschl. v. 21.07.2016 — I ZB 52/15 (Drei-Streifen-Marke Adidas) — Verkehrsdurchsetzung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato)
-- EuGH, Urt. v. 18.07.2013 — C-252/12 (Specsavers) — Farbkombination und Benutzung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Templates
 
@@ -112,8 +110,8 @@ Bevor die Anmeldung eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 12.06.2018 — C-163/16 (Louboutin / Van Haren):** Der rote Sohlenstreifen an High-Heel-Schuhen ist eine Positionsmarke, keine Formmarke; der Ausschlussgrund fuer Formen (Art. 7 I lit. e UMV) greift nicht, weil die Farbe an einer bestimmten Position — nicht die Form des Produkts — den Markenschutz begruendet.
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **BGH, Beschl. v. 21.07.2016 — I ZB 52/15 (Drei-Streifen-Marke Adidas):** Einfache Streifen-Gestaltungen besitzen in der Modeindustrie keine inhärente Unterscheidungskraft; Adidas gelang der Nachweis der Verkehrsdurchsetzung nach jahrzehntelanger, lückenloser Benutzung und massivem Marketingeinsatz (Meinungsumfrage: 71 % Zuordnung in DE).
+> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato):** Ein charakteristisches Flechtmuster auf Lederhandtaschen kann als eingetragene Positionsmarke geschuetzt werden, wenn durch Verkehrsdurchsetzung belegt ist, dass der angesprochene Verkehr das Muster als Herkunftshinweis auf den Hersteller versteht.

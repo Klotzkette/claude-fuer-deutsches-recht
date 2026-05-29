@@ -1,9 +1,9 @@
 # GoBD-Protokoll — Rechnung R-2026-0007
 
-**Protokoll-Nr.:** GoBD-2026-0007  
-**Erstellt:** 20.05.2026  
-**Erstellt von:** Jana Reuter, Kanzlei Reuter Rechtsanwälte  
-**Bezug:** Rechnung R-2026-0007, Mandantin Clara Meyer, Akte 2026-MIET-004  
+**Protokoll-Nr.:** GoBD-2026-0007
+**Erstellt:** 20.05.2026
+**Erstellt von:** Jana Reuter, Kanzlei Reuter Rechtsanwälte
+**Bezug:** Rechnung R-2026-0007, Mandantin Clara Meyer, Akte 2026-MIET-004
 
 ---
 
@@ -47,8 +47,8 @@
 | Objekt | Status | Aufbewahrungsfrist |
 |--------|:------:|-------------------|
 | Rechnungs-MD (Entwurf) | gespeichert | 10 Jahre (§ 147 Abs. 1 Nr. 1 AO) |
-| XRechnung-XML (R-2026-0007.xml) | FEHLT — Platzhalter vorhanden | 10 Jahre |
-| ZUGFeRD PDF/A-3 | FEHLT — Platzhalter vorhanden | 10 Jahre |
+| XRechnung-XML (R-2026-0007.xml) | FEHLT — Validierungsnotiz vorhanden | 10 Jahre |
+| ZUGFeRD PDF/A-3 | FEHLT — Validierungsnotiz vorhanden | 10 Jahre |
 | Validierungsbericht (XRechnung-Validator) | FEHLT | empfohlen; mind. bis Steuerbescheid bestandskräftig |
 | Versandnachweis (beA oder E-Mail-Header) | FEHLT | 10 Jahre |
 | Zahlungseingangsbeleg | FEHLT — ausstehend (Rechnung noch nicht versandt) | 10 Jahre |
@@ -65,7 +65,7 @@ Validierungsprogramm: KoSIT Validator (https://www.xrechnung.de) — noch nicht 
 
 ## Offene Punkte vor Freigabe
 
-1. **Steuer-Nr. eintragen:** Entwurf enthält Platzhalter — vor Versand aktualisieren.
+1. **Steuer-Nr. eintragen:** Entwurf enthält noch einen offenen Wert — vor Versand aktualisieren.
 2. **XRechnung generieren:** Aus dem genehmigten PDF/A-3 eine valide XRechnung-XML erzeugen und validieren.
 3. **ZUGFeRD PDF/A-3 erzeugen:** Rechnung als eingebettetes PDF/A-3 mit maschinenlesbaren Metadaten abschließen.
 4. **Validierungsbericht ablegen:** Ergebnis des KoSIT-Validators als Datei in `/05_rechnungen_ausgang/` archivieren.

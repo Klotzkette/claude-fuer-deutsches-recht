@@ -115,7 +115,7 @@ Die wirtschaftliche Fortführungsprognose ist positiv. Gestützt wird sie auf:
 2. **Marktposition:** Zertifizierung DIN EN 1090-2 EXC 3 schützt vor Substitution durch nichtzertifizierte Wettbewerber. Bahninfrastruktur-Segment wächst durch Bundesinvestitionsprogramm.
 3. **Strukturelle Verbesserungen:** Materialgleitklauseln in allen Neuverträgen, PMO-Einführung, Factoring-Option.
 4. **Investor-Finanzierung:** 1,4 Mio. Euro sichern Überbrückung der Liquiditätslücke und Erstauszahlung an Gläubiger.
-5. **Planrechnung:** EBITDA 2026 Plan 980 TEUR; 2027 Plan 1.800 TEUR. Bei Szenario „pessimistisch" (20 % Umsatzabweichung): EBITDA 2026 ca. 540 TEUR, Schuldendienst darstellbar.
+5. **Planrechnung:** EBITDA 2026 Plan 980 TEUR; 2027 Plan 1.800 TEUR. Bei Szenario "pessimistisch" (20 % Umsatzabweichung): EBITDA 2026 ca. 540 TEUR, Schuldendienst darstellbar.
 
 ---
 

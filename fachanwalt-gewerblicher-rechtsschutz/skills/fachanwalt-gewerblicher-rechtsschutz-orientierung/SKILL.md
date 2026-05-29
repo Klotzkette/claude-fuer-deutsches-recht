@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-orientierung
-description: "Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Pruefraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbeduerfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
+description: "Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbedürfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Orientierung Gewerblicher Rechtsschutz
@@ -59,22 +59,11 @@ Keine Eintragungs-Barriere vorhanden?
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 28.02.2019 – I ZR 231/15, GRUR 2019, 765 Rn. 19 – Martini Baby: Parallelitaet marken- und lauterkeitsrechtlicher Ansprueche; Anspruchsgrundlagen kumulieren, nicht verdraengen — beide pruefen.
-- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 31 – Energieeffizienzklasse III: Abmahnung des Mitbewerbers nach § 8 Abs. 3 Nr. 1 UWG erfordert ernsthaftes Interesse an der Unterlassung; Serienabmahner-Check nach § 8c UWG.
-- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 27 – Goldbaerenbarren: Vertragsstrafe nach Hamburger Brauch erfordert Verhaeltnismaessigkeit; 5.001 EUR-Pauschale ist nicht automatisch angemessen.
-- BGH, Urt. v. 02.12.2021 – I ZR 117/20, GRUR 2022, 264 Rn. 44 – Porsche 911: Bekannte Marke nach § 14 Abs. 2 Nr. 3 MarkenG schuetzt auch ohne Verwechslungsgefahr gegen Ausnutzung der Unterscheidungskraft; weiter Schutzumfang bei hohem Bekanntheitsgrad.
-- EuGH, Urt. v. 11.06.2020 – C-833/18, GRUR 2020, 736 Rn. 22 – SI und Brompton Bicycle: DesignG und UrhG koennen gleichzeitig schuetzen, wenn die Gestaltung Ausdruck eines kuenstlerischen Schaffens ist; kumulativer Schutz moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Standardliteratur
+## Quellenregel
 
-- **Stroeble/Hacker/Thiering**, Markengesetz (Heymanns) — Standardwerk Markenrecht
-- **Ingerl/Rohnke**, Markengesetz (Beck) — Praxiskommentar Markenrecht
-- **Eichmann/Kur**, Designrecht (Beck) — Designschutz
-- **Eisenfuehr/Schennen**, Unionsmarkenverordnung (Heymanns) — EUIPO-Verfahren
-- **Koehler/Bornkamm/Feddersen**, UWG (Beck) — Standardwerk Lauterkeitsrecht
-- **Benkard**, Patentgesetz (Beck) — Standardwerk Patentrecht
-- **Schulte**, PatG (Heymanns) — Patentrecht und GebrMG
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Checkliste
 
 - [ ] Widerspruchsfrist Marke: 3 Monate (§ 42 MarkenG / Art. 46 UMV)

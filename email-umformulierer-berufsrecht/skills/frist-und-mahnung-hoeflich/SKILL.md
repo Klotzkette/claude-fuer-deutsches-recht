@@ -1,6 +1,6 @@
 ---
 name: frist-und-mahnung-hoeflich
-description: "Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Pruefraster: Fristklarheit Verbindlichkeit Ton kollegiale Formulierung fehlende Aggression. Output: professioneller Fristbrief oder Mahnung mit erklaertem Pruefergebnis. Abgrenzung: nicht fuer allgemeine Korrespondenz."
+description: "Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Fristklarheit Verbindlichkeit Ton kollegiale Formulierung fehlende Aggression. Output: professioneller Fristbrief oder Mahnung mit erklärtem Prüfergebnis. Abgrenzung: nicht für allgemeine Korrespondenz."
 ---
 
 # Frist und Mahnung höflich formulieren
@@ -16,10 +16,7 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 25.01.2007 - III ZR 4/06, NJW 2007, 1584 — Mahnung muss so formuliert sein, dass der Schuldner die Ernsthaftigkeit der Forderung erkennt; bloss hoefliche Bitte genuegt nicht fuer Verzug nach § 286 BGB.
-- BGH, Urt. v. 11.11.2008 - VIII ZR 265/07, NJW 2009, 197 — Konkludente Mahnung durch Rechnung mit Zahlungsfrist; Frist muss eindeutig benannt sein.
-- BAG, Urt. v. 20.01.2016 - 10 AZR 386/14, NZA 2016, 809 — Arbeitsrechtliche Abmahnungen muessen so formuliert sein, dass der Arbeitnehmer klar versteht, welches Verhalten beanstandet wird.
-- BGH, Urt. v. 23.01.2014 - III ZR 37/13, NJW 2014, 1380 — Noetigungstatbestand (§ 240 StGB) wird nicht durch foermliche Mahnungen erfuellt, solange angekuendigte Massnahmen zulaessige Rechtsverfolgung darstellen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 286 BGB — Schuldnerverzug: Mahnungserfordernis und -wirkung
@@ -27,10 +24,9 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 - § 240 StGB — Noetigung: Grenze zwischen zulaessigem Folgehinweis und strafbarer Drohung
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Mahnschreiben
 
-## Kommentarliteratur
-- Grüneberg/Grüneberg BGB § 286 Rn. 15-40 (Mahnung: Form, Inhalt, Wirkung)
-- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 60-75 (Sachlichkeitsgebot in Mahnschreiben)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -78,19 +74,19 @@ Mit freundlichen Gruessen
 
 ## Die drei Mahnstufen
 
-**Erste Erinnerung:** Freundlicher Hinweis, dass eine Leistung oder Rückmeldung noch aussteht. Kein Vorwurf, keine Mahnung im Rechtssinne. Beispiel: „Ich möchte Sie freundlich daran erinnern, dass die Übersendung der Unterlagen nach unserer Vereinbarung bis zum TT.MM.JJJJ vorgesehen war. Falls Verzögerungen eingetreten sind, bitte ich um kurze Nachricht."
+**Erste Erinnerung:** Freundlicher Hinweis, dass eine Leistung oder Rückmeldung noch aussteht. Kein Vorwurf, keine Mahnung im Rechtssinne. Beispiel: "Ich möchte Sie freundlich daran erinnern, dass die Übersendung der Unterlagen nach unserer Vereinbarung bis zum TT.MM.JJJJ vorgesehen war. Falls Verzögerungen eingetreten sind, bitte ich um kurze Nachricht."
 
-**Qualifizierte Mahnung:** Förmliche Mahnung mit Verweis auf den Verzug und klarer Fristsetzung. Sachlich, aber bestimmt. Beispiel: „Die vereinbarte Leistung ist bislang nicht erbracht worden. Ich setze Ihnen eine Nachfrist bis zum TT.MM.JJJJ und bitte Sie, bis dahin zu leisten."
+**Qualifizierte Mahnung:** Förmliche Mahnung mit Verweis auf den Verzug und klarer Fristsetzung. Sachlich, aber bestimmt. Beispiel: "Die vereinbarte Leistung ist bislang nicht erbracht worden. Ich setze Ihnen eine Nachfrist bis zum TT.MM.JJJJ und bitte Sie, bis dahin zu leisten."
 
-**Fristsetzung mit Folgehinweis:** Letzte Stufe vor rechtlichen Schritten; klar, sachlich, ohne persönliche Drohgebärde. Beispiel: „Da die gesetzten Fristen ungenutzt verstrichen sind, bin ich nach Ablauf der erneuten Frist zum TT.MM.JJJJ gehalten, die Angelegenheit einer rechtlichen Prüfung zuzuführen."
+**Fristsetzung mit Folgehinweis:** Letzte Stufe vor rechtlichen Schritten; klar, sachlich, ohne persönliche Drohgebärde. Beispiel: "Da die gesetzten Fristen ungenutzt verstrichen sind, bin ich nach Ablauf der erneuten Frist zum TT.MM.JJJJ gehalten, die Angelegenheit einer rechtlichen Prüfung zuzuführen."
 
 ## Besonderheiten anwaltlicher Mahnschreiben
 
-Anwaltliche Mahnschreiben haben besonderes Gewicht: Sie lösen häufig Verjährungshemmung aus (§ 203 BGB) und gelten als Ankündigung gerichtlicher Maßnahmen. Gleichzeitig unterliegen sie dem Sachlichkeitsgebot nach § 43a Abs. 3 BRAO. Drohformeln wie „Ich werde Sie vernichten" oder „Sie werden sich noch wundern" sind berufsrechtlich unzulässig und können als Nötigung strafbar sein (§ 240 StGB).
+Anwaltliche Mahnschreiben haben besonderes Gewicht: Sie lösen häufig Verjährungshemmung aus (§ 203 BGB) und gelten als Ankündigung gerichtlicher Maßnahmen. Gleichzeitig unterliegen sie dem Sachlichkeitsgebot nach § 43a Abs. 3 BRAO. Drohformeln wie "Ich werde Sie vernichten" oder "Sie werden sich noch wundern" sind berufsrechtlich unzulässig und können als Nötigung strafbar sein (§ 240 StGB).
 
 ## Zulässige Folgehinweise
 
-Zulässig: „Ich behalte mir vor, die Angelegenheit gerichtlich geltend zu machen." — „Nach Fristablauf werde ich meiner Mandantin empfehlen, den Rechtsweg zu beschreiten." — „Ich weise darauf hin, dass weitere Schritte nach Ablauf der Frist möglich sind." Unzulässig: „Ich mache Sie fertig." — „Das wird Folgen haben, die Sie sich nicht vorstellen können."
+Zulässig: "Ich behalte mir vor, die Angelegenheit gerichtlich geltend zu machen." — "Nach Fristablauf werde ich meiner Mandantin empfehlen, den Rechtsweg zu beschreiten." — "Ich weise darauf hin, dass weitere Schritte nach Ablauf der Frist möglich sind." Unzulässig: "Ich mache Sie fertig." — "Das wird Folgen haben, die Sie sich nicht vorstellen können."
 
 ## Berufsrechtlicher Hintergrund
 
@@ -98,14 +94,14 @@ Zulässig: „Ich behalte mir vor, die Angelegenheit gerichtlich geltend zu mach
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Zahlen Sie sofort oder es gibt Konsequenzen!"
-**Nachher:** „Ich bitte Sie, den offenen Betrag bis zum TT.MM.JJJJ zu begleichen. Nach Ablauf dieser Frist behalte ich mir vor, rechtliche Schritte einzuleiten."
+**Vorher:** "Zahlen Sie sofort oder es gibt Konsequenzen!"
+**Nachher:** "Ich bitte Sie, den offenen Betrag bis zum TT.MM.JJJJ zu begleichen. Nach Ablauf dieser Frist behalte ich mir vor, rechtliche Schritte einzuleiten."
 
-**Vorher:** „Das ist Ihre letzte Chance!"
-**Nachher:** „Ich setze Ihnen eine letzte Nachfrist bis zum TT.MM.JJJJ. Sollte bis dahin keine Zahlung eingegangen sein, werde ich die weitere Vorgehensweise mit meiner Mandantin besprechen."
+**Vorher:** "Das ist Ihre letzte Chance!"
+**Nachher:** "Ich setze Ihnen eine letzte Nachfrist bis zum TT.MM.JJJJ. Sollte bis dahin keine Zahlung eingegangen sein, werde ich die weitere Vorgehensweise mit meiner Mandantin besprechen."
 
-**Vorher:** „Jetzt reicht es mir mit Ihnen!"
-**Nachher:** „Da trotz mehrfacher Erinnerung keine Reaktion erfolgt ist, sehe ich mich gehalten, formell zu mahnen und eine Frist bis TT.MM.JJJJ zu setzen."
+**Vorher:** "Jetzt reicht es mir mit Ihnen!"
+**Nachher:** "Da trotz mehrfacher Erinnerung keine Reaktion erfolgt ist, sehe ich mich gehalten, formell zu mahnen und eine Frist bis TT.MM.JJJJ zu setzen."
 
 ## Ausgabeformat
 

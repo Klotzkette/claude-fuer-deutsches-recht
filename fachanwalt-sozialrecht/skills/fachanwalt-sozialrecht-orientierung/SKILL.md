@@ -1,20 +1,16 @@
 ---
 name: fachanwalt-sozialrecht-orientierung
-description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Ueberblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing)."
+description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. verifizierbare Quellen lizenzpflichtige Literaturquellen Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing)."
 ---
 
 # Fachanwalt für Sozialrecht — Orientierung
 
 ## Aktuelle Rechtsprechung
-- BSG, Urt. v. 03.09.2014 - B 10 ÜG 12/13 R, SozR 4-1720 Art. 23 Nr. 2 Rn. 14 — Drei-Instanzenzug der Sozialgerichtsbarkeit (SG, LSG, BSG) ist als solcher verfassungsgemäss; Revisionsrecht des BSG (§ 160 SGG) ist auf Rechtsfehler beschränkt; Tatsachenfeststellung endet beim LSG.
-- BSG, Beschl. v. 17.07.2013 - B 14 AS 83/12 B, BeckRS 2013, 71285 Rn. 11 — Nichtzulassungsbeschwerde (§ 160a SGG): nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel; hohe Hürde für Zulassung; reine Tatsachenfehler des LSG genügen nicht.
-- BVerfG, Beschl. v. 25.09.1992 - 2 BvL 5/91, BVerfGE 87, 153 Rn. 16 — Verfassungsmässigkeit der Sozialversicherungspflicht: Zwangsmitgliedschaft in der gesetzlichen Kranken- und Rentenversicherung grundsätzlich mit Art. 2 Abs. 1 GG vereinbar; Solidaritätsprinzip rechtfertigt Einschränkung.
-- BSG, Urt. v. 06.04.2011 - B 4 AS 119/10 R, SozR 4-1500 § 54 Nr. 23 Rn. 18 — Klageart im Sozialrecht: kombinierte Anfechtungs- und Leistungsklage (§ 54 Abs. 4 SGG) ist die Regelklageart bei Ablehnung einer Sozialleistung; Feststellungsklage nur bei Subsidiaritätsproblem zulässig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Kasseler Kommentar Sozialversicherungsrecht (Hrsg. Rolfs/Giesen/Kreikebohm) — Standard-Referenzwerk zu SGB I-XII
-- Hauck/Noftz SGB X §§ 39-48 (Aufhebung und Rücknahme von Verwaltungsakten)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## FAO-Voraussetzungen (§ 11 FAO)
 
 - Lehrgang 120 Stunden + drei Klausuren.
@@ -62,17 +58,12 @@ description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialr
 - Sozialgericht (SG) — erste Instanz, Kammern.
 - Landessozialgericht (LSG) — Berufung.
 - Bundessozialgericht (BSG) — Revision, Kassel.
-- BVerfG bei Grundrechtsfragen (z. B. Sanktionsrechtsprechung BVerfG, Urt. v. 05.11.2019 – Az. 1 BvL 7/16, BVerfGE 152, 68).
-- EuGH bei Koordinierungsrecht (VO 883/2004).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Standardliteratur
+## Quellenregel
 
-- Hauck/Noftz, SGB (Großkommentar, Erich Schmidt).
-- Kasseler Kommentar Sozialversicherungsrecht (Beck).
-- Eichenhofer, Sozialrecht (Lehrbuch, Mohr Siebeck).
-- Waltermann, Sozialrecht (Lehrbuch, C. F. Müller).
-- Meyer-Ladewig/Keller/Leitherer, SGG (Beck).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Sozialrecht im DAV.

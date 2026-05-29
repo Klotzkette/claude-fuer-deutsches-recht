@@ -1,6 +1,6 @@
 ---
 name: saas-msa-pruefung
-description: "Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (§§ 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Art. 28 DSGVO), Haftungsbegrenzung und Vertragsstrafe (§ 339 BGB). Wird von /vertragsrecht:vertragspruefung geladen, wenn ein SaaS- oder Abonnementvertrag erkannt wird."
+description: "Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (§§ 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Art. 28 DSGVO), Haftungsbegrenzung und Vertragsstrafe (§ 339 BGB). Wird von /vertragsrecht:vertragsprüfung geladen, wenn ein SaaS- oder Abonnementvertrag erkannt wird."
 ---
 
 # SaaS-/MSA-Prüfung
@@ -28,7 +28,7 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen. Falls keine aktive A
 **Welche Seite?** Vor der Playbook-Anwendung ermitteln:
 - Gegenpartei ist SaaS-Anbieter, der die Plattform verkauft → Käuferseite
 - Das Unternehmen ist SaaS-Anbieter, Gegenpartei ist Kunde → Verkäuferseite
-- Reseller/White-Label? → Fragen: „Auf welcher Seite steht [Unternehmen] – Anbieter oder Kunde?"
+- Reseller/White-Label? → Fragen: "Auf welcher Seite steht [Unternehmen] – Anbieter oder Kunde?"
 
 Aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` den zutreffenden Playbook-Abschnitt lesen. Falls nicht konfiguriert: Setup-Befehl nennen.
 
@@ -36,7 +36,7 @@ AGB-Kontrolle nach §§ 305–310 BGB:
 - Einbeziehungsvoraussetzungen (§ 305 Abs. 2 BGB) prüfen
 - Überraschende Klauseln (§ 305c BGB)
 - Transparenzgebot (§ 307 Abs. 1 S. 2 BGB)
-- Klauselverbote §§ 308, 309 BGB (direkt anwendbar gegenüber Verbrauchern; im B2B als Indiz, BGH, Urt. v. 31.10.1984 – VIII ZR 226/83, NJW 1985, 623)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei B2B: § 310 Abs. 1 BGB – eingeschränkte Kontrolle, aber § 307 BGB gilt
 
 ### Schritt 2: Standard-Playbook-Prüfung
@@ -70,9 +70,9 @@ Prüfen und mit CLAUDE.md vergleichen:
 |---|---|
 | Jährliche Erhöhungsklausel | fester %, VPI, unbegrenzt |
 | Überverbrauch-Preise | Veröffentlichte Preisliste / Prämienrate / undefiniert |
-| Umfang „Vergütung" | nur Abonnement / „Zusatzleistungen" weit definiert |
+| Umfang "Vergütung" | nur Abonnement / "Zusatzleistungen" weit definiert |
 
-**AGB-Hinweis (§ 307 BGB):** Einseitige Preiserhöhungsklauseln ohne sachgerechten Grund oder ohne ausreichende Ankündigung sind gegenüber Verbrauchern regelmäßig unwirksam. Im B2B ist die Schwelle höher, aber § 307 BGB gilt. BGH, Urt. v. 15.11.2006 – VIII ZR 3/06, NJW 2007, 1054 – Preisanpassungsklausel. `[Trainingswissen – prüfen]`
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 3.3 Datenportabilität und Exit
 
@@ -80,13 +80,13 @@ Wenn (nicht falls) das Unternehmen den Anbieter wechselt: Können die Daten mitg
 
 | Element | Inhalt |
 |---|---|
-| Exportformat | offen/standardisiert / proprietär-dokumentiert / „wirtschaftlich zumutbar" |
+| Exportformat | offen/standardisiert / proprietär-dokumentiert / "wirtschaftlich zumutbar" |
 | Export-Verfügbarkeit | Selbstbedienung jederzeit / auf Anfrage / nur bei Kündigung |
 | Zugang nach Vertragsende | Tage nach Kündigung |
 | Exportkosten | kostenlos / T&M / je GB oder Datensatz |
 | Löschbestätigung | auf Anfrage / keine / Anbieter behält Derivate |
 
-**DSGVO-Hinweis (Art. 20 DSGVO):** Datenportabilität ist für personenbezogene Daten ein Betroffenenrecht. Der AVV sollte Löschpflichten und Rückgabe nach Vertragsende regeln (Art. 28 Abs. 3 lit. g DSGVO). Anbieterbehalt „anonymisierter" Derivate: Playbook-Position aus CLAUDE.md prüfen.
+**DSGVO-Hinweis (Art. 20 DSGVO):** Datenportabilität ist für personenbezogene Daten ein Betroffenenrecht. Der AVV sollte Löschpflichten und Rückgabe nach Vertragsende regeln (Art. 28 Abs. 3 lit. g DSGVO). Anbieterbehalt "anonymisierter" Derivate: Playbook-Position aus CLAUDE.md prüfen.
 
 #### 3.4 Verfügbarkeit und SLA
 
@@ -94,7 +94,7 @@ Nur relevant, wenn das Unternehmen vom Dienst abhängt. Bei Nice-to-have-Tools �
 
 | Element | Inhalt |
 |---|---|
-| Verfügbarkeitszusage | Prozentsatz / „wirtschaftlich zumutbare Bemühung" |
+| Verfügbarkeitszusage | Prozentsatz / "wirtschaftlich zumutbare Bemühung" |
 | Messzeitraum | monatlich / quartalsweise / jährlich |
 | Abhilfe | Service-Credits (Berechnung, Deckelung, ausschließliche Abhilfe?) |
 | Wartungsfenster | definierter Zeitraum / Voranmeldung / unbegrenzt |
@@ -195,19 +195,15 @@ Zitierweise nach `../references/zitierweise.md`.
 
 Normen und Rspr.:
 - §§ 305–310 BGB – AGB-Recht
-- § 307 Abs. 1 S. 2 BGB – Transparenzgebot; BGH, Urt. v. 09.05.2012 – XII ZR 79/10, NJW 2012, 2187 Rn. 25 – Transparenzgebot
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 309 Nr. 7 BGB – Haftungsausschlussverbote
 - § 309 Nr. 9 BGB – Vertragslaufzeit
-- BGH, Urt. v. 15.11.2006 – VIII ZR 3/06, NJW 2007, 1054 – Preisanpassungsklausel
-- BGH, Urt. v. 31.10.1984 – VIII ZR 226/83, NJW 1985, 623 – AGB B2B
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 28 DSGVO – AVV; Art. 82 DSGVO – Datenschutz-Schadensersatz
 - § 339 BGB – Vertragsstrafe; § 343 BGB – Herabsetzung
 
 Kommentare:
-- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 12 ff.; § 309 Rn. 1 ff.
-- Bonin, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 307 Rn. 1 ff.
-- Ulmer/Brandner/Hensen, AGB-Recht, 13. Aufl. 2023, § 307 BGB Rn. 1 ff.
-- Pfeiffer, in: Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2022, § 307 Rn. 1 ff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken / typische Fehler
 

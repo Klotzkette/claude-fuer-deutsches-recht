@@ -1,6 +1,6 @@
 ---
 name: executive-summary-bausteine
-description: "Executive Summary der KI-Nutzungsrichtlinie fuer Kanzleien erstellen: Anwendungsfall Kanzleifuehrung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Pruefraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett fuer vollstaendige Richtlinie und zu Compliance-Regelsatz."
+description: "Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz."
 ---
 
 # Executive Summary Bausteine
@@ -47,10 +47,10 @@ Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 
 Personenbezogene Daten, Mandatsgeheimnisse und Geschäftsgeheimnisse dürfen nur in Ausnahmefällen und nach Möglichkeit anonymisiert in KI-Systeme eingegeben werden. Dokumente, Akten und Informationen müssen vor einem Upload anonymisiert werden. Im Zweifel ist der Upload zu unterlassen.
 
 **Eckpunkt 4 – Quellenprüfung und Risikobewusstsein:**
-Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein „Grundvertrauen" wie bei menschlichen Mitarbeitenden ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
+Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitenden ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
 
 **Eckpunkt 5 – Keine Privat-Accounts:**
-Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der „Schatten-KI" entgegenzuwirken.
+Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der "Schatten-KI" entgegenzuwirken.
 
 **Eckpunkt 6 – Kennzeichnung und Transparenz:**
 Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.
@@ -71,10 +71,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungnahmen veröffentlicht werden oder wenn die KI-VO durch Durchführungsrechtsakte konkretisiert wird. Auch neue Gerichtsentscheidungen zur Haftung bei KI-Nutzung können eine Anpassung erforderlich machen.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht als Kern des Berufsrechts — Executive Summary muss Mandantengeheimnis als oberste Prioritaet klar vermitteln.
-- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftungsrisiko bei unkritischer Verwendung von KI-Ausgaben — Executive Summary muss Pruefpflicht als Non-Negotiable klar stellen.
-- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Kein Privat-Account-Einsatz ohne DSGVO-Sicherheitsnetz — Executive Summary muss das klar kommunizieren.
-- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (Kern jedes Executive Summary)

@@ -31,7 +31,7 @@ Der Stadt Lindenhafen bewilligt der KommunalWaerme Lindenhafen GmbH auf Grundlag
 
 14.000.000,00 Euro (vierzehn Millionen Euro)
 
-fuer das Vorhaben „WaermeWende Lindenhafen 2026“.
+fuer das Vorhaben "WaermeWende Lindenhafen 2026".
 
 
 2. Zweck – Teilmassnahmen

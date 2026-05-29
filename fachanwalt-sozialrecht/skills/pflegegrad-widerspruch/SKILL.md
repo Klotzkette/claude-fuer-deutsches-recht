@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-widerspruch
-description: "Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Pruefraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Beruecksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisantraege. Abgrenzung zu hilfsmittelantrag-pruefen (Sachmittel) und eilantrag-sozialrecht."
+description: "Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Berücksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisanträge. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und eilantrag-sozialrecht."
 ---
 
 # Pflegegrad-Widerspruch — Praxisleitfaden
@@ -43,8 +43,8 @@ Pflegegrad-Ablehnungen oder Niedrigerstufungen sind in 60 Prozent der Fälle ang
 1. **Begutachtung in einem einzigen Termin** ohne Verlaufsbeobachtung — Tagesform-Problem
 2. **Befragung nur Mandant**, nicht pflegende Angehörige
 3. **Pflegetagebuch nicht berücksichtigt** trotz Vorlage
-4. **„Vorhandene Fähigkeit" mit „angewandte Fähigkeit" verwechselt** — § 14 SGB XI verlangt aber **regelmäßige Anwendung** im Alltag
-5. **Bei Demenz, Depression, Suchterkrankungen Module 2/3 zu niedrig** — die Begutachtung zaehlt „kann sprechen" als Fähigkeit, prüft aber nicht ob der Mensch noch sinnerfasst kommuniziert
+4. **"Vorhandene Fähigkeit" mit "angewandte Fähigkeit" verwechselt** — § 14 SGB XI verlangt aber **regelmäßige Anwendung** im Alltag
+5. **Bei Demenz, Depression, Suchterkrankungen Module 2/3 zu niedrig** — die Begutachtung zaehlt "kann sprechen" als Fähigkeit, prüft aber nicht ob der Mensch noch sinnerfasst kommuniziert
 6. **Schwankende Krankheitsbilder** (MS, Parkinson, Demenz) nur in der besseren Tagesform erfasst
 7. **Modul 5 systematisch unterbewertet** — Insulinpflicht, Wundversorgung, mehrfache Arzttermine pro Woche zaehlen voll
 
@@ -63,20 +63,20 @@ Tipp: Schon eine **Verschiebung um 2 bis 5 Modulpunkte** kann die Pflegegrad-Sch
 ```
 I. Modul 1 — Mobilitaet
 
-Der MD bewertet den Positionswechsel im Bett mit „selbstaendig". Tatsaechlich
+Der MD bewertet den Positionswechsel im Bett mit "selbstaendig". Tatsaechlich
 benoetigt die Versicherte nach Schilderung der Tochter (siehe Pflegetagebuch
 Anlage W [Nr]) regelmaessig Hilfe beim Drehen, weil die Spastik in der
 rechten Koerperhaelfte das selbststaendige Aufrichten verhindert. Korrekt
-waere die Bewertung „ueberwiegend unselbstaendig".
+waere die Bewertung "ueberwiegend unselbstaendig".
 
 II. Modul 4 — Selbstversorgung
 
-Die Bewertung „Waschen Oberkoerper selbstaendig" beruht auf der Beobachtung
+Die Bewertung "Waschen Oberkoerper selbstaendig" beruht auf der Beobachtung
 einer einzelnen Geste am Begutachtungstag. Aerztlich attestiert
 (Anlage W [Nr]) ist eine wechselhafte Belastbarkeit — an drei von sieben
 Tagen pro Woche kann die Versicherte die Koerperpflege nicht eigenstaendig
-durchfuehren. Modul 4 ist daher als „ueberwiegend unselbstaendig" oder
-„unselbstaendig" zu bewerten.
+durchfuehren. Modul 4 ist daher als "ueberwiegend unselbstaendig" oder
+"unselbstaendig" zu bewerten.
 
 III. Module 2 und 3 — Demenz, Depression
 
@@ -124,15 +124,8 @@ Wenn der Mandant kein Pflegetagebuch hat, biete als Sofortmaßnahme an, eines f�
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 22.04.2015 - B 3 P 8/13 R, SozR 4-3300 § 14 Nr. 7 Rn. 19 — Für die Feststellung des Pflegegrads ist der regelmäßige, zeitlich überwiegende Zustand maßgeblich; eine Einzelbeobachtung bei der Begutachtung ist nicht ausreichend, wenn Befunde eine schlechtere Alltagssituation belegen.
-- BSG, Urt. v. 21.02.2013 - B 3 P 14/11 R, SozR 4-3300 § 15 Nr. 4 Rn. 18 — Die Beurteilung der Pflegebedürftigkeit hat unter Berücksichtigung der individuellen Situation zu erfolgen; Schwankungen im Gesundheitszustand (z.B. bei Demenz, Parkinson) sind durch Verlaufsbeobachtung und Befragung von Hauptpflegepersonen zu erfassen.
-- BSG, Urt. v. 29.11.2018 - B 3 P 1/18 R, SozR 4-3300 § 18 Nr. 9 Rn. 22 — § 18 Abs. 7 SGB XI verpflichtet den Medizinischen Dienst, bei der Begutachtung pflegende Angehörige einzubeziehen; ein ohne Befragung der Hauptpflegeperson erstelltes Gutachten ist methodisch fehlerhaft und begründet Zweifel an der Richtigkeit der Punktevergabe.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Kasseler Kommentar Sozialversicherungsrecht, Leitherer §§ 14-15 SGB XI Rn. 1 ff. (Pflegebedürftigkeit, Module)
-- Hauck/Noftz SGB XI, § 18 Rn. 1 ff. (Begutachtungsverfahren, Pflichten des MD)
-
----
-
-> **Audit 27.05.2026** — BSG B 1 KR 6/16 R (behauptetes Thema: Pflegegrad wird nach NBA § 15 SGB XI berechnet) aus Aktuelle Rechtsprechung entfernt. Das Urteil existiert (BSG, 25.10.2016), betrifft aber ausschließlich die gesetzliche Krankenversicherung (stationäre Behandlung § 39 SGB V, Verhältnis Krankenkasse/Krankenhaus); kein Bezug zum Pflegegrad oder SGB XI. Falschthema (WRONG_TOPIC) — Eintrag gelöscht.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -1,6 +1,7 @@
 ---
 name: wesentliche-vertraege-anlage
-description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei „Vertragsanhang erstellen\", „Disclosure Schedule\", „wesentliche Verträge\", „Anhang 3.X\" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext."
+description: 'Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext.'
+
 ---
 
 # Material-Vertragsverzeichnis (Disclosure Schedule)
@@ -18,11 +19,11 @@ Vor der Anhangs-Erstellung klaeren:
 
 ## Zweck
 
-Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: „Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
+Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: "Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
 
 ## Eingaben
 
-- Unternehmenskaufvertrag (SPA) oder Entwurf davon — für die Definition „wesentlicher Vertrag" und das Anhangformat
+- Unternehmenskaufvertrag (SPA) oder Entwurf davon — für die Definition "wesentlicher Vertrag" und das Anhangformat
 - Due-Diligence-Erkenntnisse aus dem Vertragsreview (vertragsebene Daten)
 - Praxisprofil (CLAUDE.md) → Wesentlichkeitsschwellen (können von der SPA-Definition abweichen — SPA-Definition hat Vorrang)
 - Optional: Bestehende Anhänge im SPA als Formatvorlage
@@ -33,19 +34,19 @@ Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistu
 §§ 443, 444 BGB (Garantien; Haftungsausschluss); §§ 453, 435 BGB (Sachmängelgewährleistung beim Rechtskauf, Unternehmenskauf); § 311 Abs. 2 BGB (culpa in contrahendo; Offenlegungspflichten in der Due Diligence).
 
 **Change-of-Control-Klauseln:**
-BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Auslegung einer Change-of-Control-Klausel; Kündigung bei mittelbarem Kontrollwechsel); BGH, Urt. v. 10.11.2016 – I ZR 193/15, NJW-RR 2017, 877 Rn. 14 (Vertragsübernahme ohne Zustimmung des Schuldners; Grenzen der Abtretbarkeit). Vendor Disclosure: Hat der Verkäufer in einem Vendor Due Diligence Report (VDR) auf eine Tatsache hingewiesen, kann er sich im Rahmen der Gewährleistung hierauf berufen (§ 442 BGB analog; str., vgl. BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Vertragsregister und Anhangpflichten:**
 § 15 GmbHG (Abtretung von Geschäftsanteilen — Auswirkung auf Vertragsabschluss); § 40 GmbHG (Gesellschafterliste); §§ 246 ff. HGB (Jahresabschluss, Vollständigkeit); Art. 6 Abs. 1 lit. c DSGVO (Datenverarbeitung in Due Diligence).
 
-**Kommentarliteratur:**
-Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 15 Rn. 5; Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 (Unternehmenskauf, Gewährleistung); Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1 (Firmenfortführung und Vertragskontinuität).
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Ablauf
 
 ### Schritt 1: SPA-Definition ermitteln
 
-Die Definition „wesentlicher Vertrag" aus dem SPA extrahieren — die SPA-Definition ist maßgeblich, nicht der eigene Schwellenwert aus CLAUDE.md. Bei Abweichungen: SPA-Definition verwenden und die Differenz flaggen.
+Die Definition "wesentlicher Vertrag" aus dem SPA extrahieren — die SPA-Definition ist maßgeblich, nicht der eigene Schwellenwert aus CLAUDE.md. Bei Abweichungen: SPA-Definition verwenden und die Differenz flaggen.
 
 Transaktionsstruktur beachten (Share Deal / Asset Deal / Verschmelzung): Bei einem Asset Deal nach §§ 433 ff. BGB sind Zustimmungserfordernisse bei Vertragsübergang nach § 415 BGB anders zu behandeln als beim Share Deal, wo die Gesellschaft mit ihren Verträgen übergeht. Regulierte Branchen (Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Aufträge) können zusätzliche behördliche Zustimmungspflichten begründen — diese sind gesondert zu recherchieren und mit Norm zu belegen.
 
@@ -74,7 +75,7 @@ Für jeden geprüften Vertrag:
 - Vertrag liegt knapp unterhalb des Schwellenwerts, ist aber geschäftlich bedeutsam
 - Vertrag erfüllt ein Prüfkriterium, wird aber ohnehin beendet
 - Mündliche Vereinbarungen oder Side Letters, deren Zuordnung zweifelhaft ist
-- Lieferantenverträge mit Exklusivitätsklauseln, die nicht ausdrücklich als „wesentlich" eingestuft wurden
+- Lieferantenverträge mit Exklusivitätsklauseln, die nicht ausdrücklich als "wesentlich" eingestuft wurden
 
 ### Schritt 3: Anhangdaten zusammenstellen
 
@@ -231,13 +232,13 @@ Due-Diligence-Ergebnis: 127 geprüfte Verträge. 23 erfüllen mindestens ein Kri
 - **Datenraum-Referenzen weglassen.** Jeder Eintrag muss lokalisierbar sein — Käuferberater muss Ursprungsdokument finden können.
 - **Anhang-Konsistenz nicht prüfen.** Ein Vertrag kann mehrere Anhänge berühren (z.B. Hauptkundensvertrag + Pfandrecht + verwandte Partei). Querverweisung notwendig.
 - **Interne Annotationen im Lieferanhang belassen.** Vertraulichkeitsstatus und Arbeitsnotizen vor finaler Übergabe entfernen.
-- **Asset-Deal-Besonderheiten ignorieren.** Bei Asset Deal: § 415 BGB (Schuldübernahme mit Gläubigerzustimmung), §§ 398 ff. BGB (Forderungsabtretung). Change-of-Control-Klauseln können auch bei Share Deals ausgelöst werden — BGH, Urt. v. 29.04.2008 – KZR 2/07.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenpflicht
 
 Alle rechtlichen Beurteilungen in der Analyse sind mit Norm und ggf. Rechtsprechung zu belegen:
 - Gesetzliche Grundlage: `§§ 443, 444 BGB`, `§ 415 BGB`
-- BGH-Entscheidungen: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
-- Kommentare: `Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

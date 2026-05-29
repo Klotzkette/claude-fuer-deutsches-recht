@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-messverfahren-geschwindigkeit
-description: "Geschwindigkeitsmessungen im OWi-Verfahren angreifen: Mandant bestreitet Messergebnis von TraffiStar, Riegl, ESO 3.0 oder PoliScan. Normen: BGH NJW 1993 3081 (standardisiertes Messverfahren), § 77 OWiG (Beweisantraege), BVerfG NJW 2021 455 (Rohmessdaten). Pruefraster: Toleranzabzug, Eichung, Aufstellungsprotokoll, Bedienungsfehler, Rohmessdaten-Anforderung, OLG-Rspr zur Verwertbarkeit. Output Sachverstaendigen-Antrag, Beweisantrag-Entwurf. Abgrenzung: Rotlicht/Handy siehe verkehrsowi-rotlicht-abstand-handy; Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte."
+description: "Workflow-Skill zu verkehrsowi messverfahren geschwindigkeit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Geschwindigkeitsmessung OWi-Verfahren
@@ -24,19 +24,11 @@ description: "Geschwindigkeitsmessungen im OWi-Verfahren angreifen: Mandant best
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Beschl. v. 12.11.2020 - 2 BvR 1616/18, NJW 2021, 455 — Betroffener hat aus Art. 103 Abs. 1 GG und dem Grundsatz des fairen Verfahrens Anspruch auf Zugang zu den Rohmessdaten; Verweigerung mit Hinweis auf fehlende Speicherung verletzt Verfahrensrecht.
-- BGH, Beschl. v. 30.10.1997 - 4 StR 24/97, BGHSt 43, 277 — Standardisiertes Messverfahren befreit Gericht von detaillierter Begruendungspflicht; aber konkreter Angriff auf Messumstaende ist zulaessig und muss beschieden werden.
-- OLG Bamberg, Beschl. v. 08.05.2017 - 3 Ss OWi 626/17, NZV 2017, 494 — Ablehnung des Sachverstaendigen-Antrags zu Messfehler-Ursachen ist rechtsfehlerhaft wenn Betroffener konkrete Angriffspunkte auf die Messung vorgebracht hat.
-- OLG Koblenz, Beschl. v. 17.04.2020 - 1 OWi 6 SsBs 18/20, NZV 2020, 479 — Fehlende Schulung des Messbeamten fuer das konkrete Geraet stellt Verfahrensfehler dar der zur Verwertbarkeit der Messung berechtigterweise in Frage gestellt werden kann.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- KK-OWiG / Ellbogen § 79 Rn. 1-30 (Beschwerderecht, Rechtsbehelfe)
-- Goehler OWiG § 46 Rn. 1-20 (Beweisrecht, Sachverstaendige)
-- Krenberger/Krumm OWiG § 77 Rn. 1-40 (Beweisaufnahme Hauptverhandlung)
-- Burhoff, Handbuch fuer das strafrechtliche Ermittlungsverfahren (Messverfahren)
-- Rebler/Henseler, OWi-Messmethoden (Praxishandbuch)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Messverfahren-Angriffspunkte — Checkliste
 
 ```
@@ -99,7 +91,7 @@ Ich fordere die vollstaendige Messakte einschliesslich:
 - Eichschein (original oder beglaubigte Kopie)
 - Bedienungsanleitung fuer [GERAET]
 - Schulungsnachweis des Messbeamten
-- Rohmessdaten / Statistik-Dateien (nach BVerfG NJW 2021, 455)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Messfoto hochaufloesend
 
 Ohne vollstaendige Herausgabe wird Verwertungsverbot gerueget.

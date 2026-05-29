@@ -60,6 +60,6 @@ Y  Ampel = WENN(X >= 10%; "ROT"; WENN(X > 0%; "GELB"; "GRÜN"))
 
 - IDW S 11 Rn. 35 ff. (Liquiditätsstatus, 3-Wochen-Finanzplan)
 - IDW S 6 Tz. 6.4 (integrierte Planung)
-- BGH BGHZ 163, 134 Rn. 14 (10-%-Grenze, 3-Wochen-Horizont)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - K. Schmidt/Herchen, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 InsO Rn. 12
-- Uhlenbruck/Mock, InsO, 16. Aufl. 2024, § 17 InsO Rn. 22
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

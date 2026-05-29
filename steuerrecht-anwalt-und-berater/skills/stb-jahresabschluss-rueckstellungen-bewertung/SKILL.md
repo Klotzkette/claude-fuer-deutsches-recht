@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-rueckstellungen-bewertung
-description: "Rueckstellungen Bewertung § 249 HGB. Anwendungsfall Jahresabschluss Bildung Rueckstellungen Garantie drohende Verluste Tantieme Urlaub Steuern Prozesskosten. Methodik Pruefung Anlass Quantifizierung Aufloesung. Output Rueckstellungs-Aufstellung."
+description: "Rückstellungen Bewertung § 249 HGB. Anwendungsfall Jahresabschluss Bildung Rückstellungen Garantie drohende Verluste Tantieme Urlaub Steuern Prozesskosten. Methodik Prüfung Anlass Quantifizierung Auflösung. Output Rückstellungs-Aufstellung."
 ---
 
 # Rueckstellungen — Bildung und Bewertung § 249 HGB

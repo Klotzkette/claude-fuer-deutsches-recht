@@ -58,14 +58,11 @@ Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.10.2021 - IX ZR 1/21, NJW 2022, 137 — Interessenkonflikt: Sozietaetswechsel eines Anwalts begruendet kein automatisches Mandatsverbot; massgeblich ist tatsaechliche Kenntnisbedrohung; fruehere Mandatsbeziehung muss dokumentiert werden
-- BGH, Urt. v. 23.05.2000 - IX ZR 353/98, NJW 2000, 2815 — Mandatsannahme: Anwalt haftet fuer Fehler bei der Pruefung, ob ein Mandat rechtmaessig angenommen werden kann; Unterlassen der Conflicts-Pruefung kann Schadenersatz ausloesen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Schramm/Alexander, BRAO, § 43a Rn. 40-70 (Interessenkonflikt, Mandatsannahme)
-- Gercke/Leimenstoll, GwG, §§ 10-11 Rn. 1-50 (Sorgfaltspflichten bei Mandatsannahme)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-fuer-Schritt-Workflow
 
 1. **Parteien extrahieren:** Verkaeufer, Kaeufer, Zielgesellschaft, Intermediar, Finanzier — volle Bezeichnung, Sitz, HR-Nummer

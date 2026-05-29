@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht
-description: "Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwaescherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prueft Loesegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwaesche AWG § 34 Aussenwirtschaftsstrafrecht. Pruefraster Deckungsschutz Versicherer Loesegeldzahlung Sanktionspruefung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionspruefung Deckungsanalyse und Handlungsempfehlung fuer oder gegen Loesegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage."
+description: "Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prüft Lösegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwäsche AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster Deckungsschutz Versicherer Lösegeldzahlung Sanktionsprüfung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionsprüfung Deckungsanalyse und Handlungsempfehlung für oder gegen Lösegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Cyber-Lösegeld bei Ransomware mit Sanktions-Risiko
@@ -49,9 +49,7 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| LG Bonn | 22 O 51/23 | 14.06.2024 | Cyber-Deckung bei Lösegeldzahlung; Sanctions-Klausel-Wirksamkeit im konkreten Fall |
-| OLG Düsseldorf | I-4 U 80/22 | 22.11.2023 | Versicherungsfall Ransomware; AVB-Auslegung zu "Datenzerstörung" |
-| OLG Karlsruhe | 9 U 128/22 | 16.05.2023 | Cyber-Police; Ransomware als IT-Sicherheitsverletzung im Sinne AVB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | US: Travelers Ins. v. Universal Health | — | 2023 | Sanctions Exclusion; US-Gericht zur Wirksamkeit Ausschlussklausel |
 
 ## Prüfschema in Tabellenform
@@ -71,7 +69,7 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 | 8 | BSI/LKA informiert? | § 8b BSIG; Polizei | Pflicht bei KRITIS; ggf. rechtfertigend für Zahlung |
 | 9 | Lösegeldzahlung strafbar § 261 StGB? | § 261 StGB | Vortat Erpressung: Vortatanknüpfung ja; Strafbarkeit bei Leichtfertigkeit |
 | 10 | § 89c StGB Terrorismusfinanzierung? | § 89c StGB | Bei OFAC-gelisteten Terrorgruppen |
-| 11 | Sanctions Limitation Clause unwirksam? | § 307 BGB; BGH IV ZR 219/14 | Intransparente Klausel → unwirksam; Deckung wieder offen |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Grob fahrlässige Herbeiführung § 81 VVG? | § 81 VVG | Sicherheitspflichten verletzt? Kein Backup? |
 | 13 | Deckungsklage LG-Sitz des Versicherers? | § 215 VVG; § 71 GVG | LG bei Streitwert ab EUR 10000 |
 | 14 | Parallele Strafverteidigung nötig? | §§ 17, 18 AWG; § 261 StGB | Bei Zahlung an SDN: sofort Strafverteidiger |
@@ -163,7 +161,7 @@ b) welcher Standard für eine "Sanktionierung" gilt (SDN-Direkteintrag,
 c) ab welchem Grad der Verbindung zwischen Angreifer und Sanctions-Liste
    die Klausel auslöst.
 
-Auf BGH IV ZR 219/14 wird hingewiesen: Risikoausschlüsse müssen
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 klar und verständlich formuliert sein; bei Unklarheit gilt
 § 305c Abs. 2 BGB zugunsten des Versicherungsnehmers.
 
@@ -252,7 +250,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand Versicherer | Reaktion |
 |---|---|
 | SDN-Match vorhanden | Screening-Bericht vorlegen; konkrete Wallet-Rückverfolgung durch SV; Versicherer muss Match beweisen |
-| Sanctions Limitation Clause klar formuliert | § 307 BGB Transparenztest; Beschreibung welche Listen gelten; BGH IV ZR 219/14 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kein Backup = grobe Fahrlässigkeit | § 28 Abs. 3 VVG: Kausalität; Backup-Fehler muss kausal für konkrete Lösegeldhöhe sein |
 | Lösegeld = Vorsatz § 81 VVG | Keine Vorsatz-Herbeiführung des Angriffs durch VN; Zahlung als Notreaktion |
 | Kein Versicherungsfall — "vorsätzliche Tat Dritter" | Drittangriff ist Versicherungsfall; kein Vorsatz des VN |
@@ -280,29 +278,27 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 14, 19, 28, 81; BGB §§ 195, 199, 203, 204, 280, 286, 305–310; AWG §§ 17, 18; AWV § 81; StGB §§ 261, 89c; BSIG §§ 8a, 8b; VO (EU) 833/2014; VO (EU) 269/2014; NIS2-RL 2022/2555; OFAC Advisory 21.09.2021; LG Bonn 22 O 51/23; OLG Düsseldorf I-4 U 80/22; OLG Karlsruhe 9 U 128/22; BGH IV ZR 219/14; Prölss/Martin VVG 31. Aufl. 2022. Stand 06/2026.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 20.01.2022 — **5 StR 320/21**, NJW 2022, 1029 Rn. 14: § 261 StGB (Geldwäsche) erfasst nach der Neufassung durch das Gesetz zur Verbesserung der strafrechtlichen Bekämpfung der Geldwäsche (2021) auch Vortaten im Ausland und erfordert keine spezifische Katalogtat mehr; Lösegeld-Zahlungen an Ransomware-Akteure können daher Geldwäsche darstellen, wenn Herkunft aus Straftaten bekannt oder als möglich erkannt wird.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-OLG Frankfurt, Urt. v. 12.10.2022 — **7 U 33/22**, VersR 2023, 211 Rn. 18: Eine Cyber-Versicherung, die Lösegeld-Zahlungen als versicherten Schaden aufführt, kann die Leistung versagen, wenn die Zahlung gegen EU-Sanktionsrecht (VO 833/2014) verstößt; Versicherer schuldet in diesem Fall keinen Deckungsschutz wegen Verstöße gegen § 134 BGB i.V.m. der Sanktionsverordnung.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-EuGH, Urt. v. 27.01.2022 — **C-175/20**, NJW 2022, 764 Rn. 30: EU-Sanktionsverordnungen (VO 833/2014, VO 269/2014) sind unmittelbar anwendbares EU-Recht; Verstöße gegen Bereitstellungsverbote können zivilrechtliche Nichtigkeit (§ 134 BGB analog) und strafrechtliche Folgen (§ 16 AWG) auslösen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 28.06.2022 — **XI ZR 525/21**, NJW 2022, 2785 Rn. 22: Bei Transaktionen mit OFAC-sanktionierten Personen ist das US-Recht extraterritorial anwendbar; deutsche Unternehmen, die US-Dollar-Transaktionen abwickeln oder US-Bankverbindungen nutzen, unterliegen OFAC-Jurisdiction auch ohne direkten US-Nexus.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
 § 261 StGB (Geldwäsche, n.F. seit 2021) → § 16 AWG (Verstöße gegen Außenwirtschaftsgesetz bei Sanktionsbruch) → Art. 4 VO 833/2014, Art. 2 VO 269/2014 (Russland-Sanktionen, Bereitstellungsverbot) → OFAC SDN-Liste (US-Treasury, extraterritoriale Wirkung) → § 134 BGB (Nichtigkeit bei Gesetzesverstößen) → §§ 100 ff. VVG (Haftpflichtversicherung Cyber) → § 1 VVG i.V.m. Cyber-AVB (Versicherungsfall Definition) → § 81 VVG (Ausschluss vorsätzliche Schadenverursachung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch, 3. Aufl. 2015, § 37 (Cyber-Versicherung): Deckungsstruktur, Lösegeld-Klauseln, Sanktions-Ausschlüsse in neueren Bedingungswerken.
-- Münchener Anwalts-Handbuch IT-Recht, 4. Aufl. 2021, Teil 9 (Ransomware und Versicherung): OFAC-Compliance, Sorgfaltspflichten, Meldeobliegenheiten.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### Fristen-Übersicht
 
 | Maßnahme | Frist | Rechtsgrundlage |

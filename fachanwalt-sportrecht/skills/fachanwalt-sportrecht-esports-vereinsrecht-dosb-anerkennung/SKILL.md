@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung
-description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung moeglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Pruefraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Pruefung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage)."
+description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Prüfraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Prüfung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage)."
 ---
 
 # eSports-Verein — Vereinsrecht und DOSB-Anerkennung
 
 ## Zweck
 
-Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Bereich in einen bestehenden Sportverein integrieren. Zwei zentrale Rechtsfragen: (1) Ist eSports „Sport" i.S.d. § 52 AO (gemeinnützig)? — aktuell strittig. (2) DOSB / LSB-Anerkennung als Spitzenverband: nicht erfolgt.
+Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Bereich in einen bestehenden Sportverein integrieren. Zwei zentrale Rechtsfragen: (1) Ist eSports "Sport" i.S.d. § 52 AO (gemeinnützig)? — aktuell strittig. (2) DOSB / LSB-Anerkennung als Spitzenverband: nicht erfolgt.
 
 ## Eingaben
 
@@ -29,8 +29,7 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 
 ### Gerichts-/Verwaltungsentscheidungen
 
-- BFH-anhängig zu eSports als Sport (BFH I R 22/24)
-- OLG Köln, Beschl. v. 19.5.2022 — 2 Wx 56/22 (eSports-Verein-Eintragungsfähigkeit BGB)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - FinMin NRW Erlass 2024 zu eSports-Verein-Gemeinnützigkeit (eSports nicht als Sport § 52 AO anerkannt)
 - DOSB-Beschluss 2018 (eSports keine Mitgliedssportart) — bis 2026 unverändert
 
@@ -81,7 +80,7 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 
 - Antrag auf Gemeinnützigkeit
 - Bei Ablehnung: Widerspruch + ggf. Klage Finanzgericht
-- BFH I R 22/24 als Argumentationsanker
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Phase 5 — Verbandsanbindung
 
@@ -92,7 +91,7 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 
 | Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
-| eSports als Hauptzweck mit GMNS-Antrag | Aberkennung; Steuernachzahlung | BFH I R 22/24 abwarten | Hauptverein-Modell |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Profi-Spieler mit Gehalt aus Verein | Selbstlosigkeit § 55 AO verletzt | Klärung läuft | klare Trennung Profi-/Amateur-Bereich |
 | Werbung / Sponsoring überwiegt | Wirtschaftsbetrieb statt Idealverein | Klärung läuft | Idealzweck-Schwerpunkt |
 | Jugendschutz-Verstoß (USK) | Vereinsaufsicht; Imageschaden | Compliance läuft | USK-konforme Spiele |
@@ -105,14 +104,11 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 
 ## Quellen und Updates
 
-Stand: 05/2026. FinMin NRW Erlass 2024. BFH I R 22/24 anhängig (Entscheidung in 2026 erwartet). DOSB-Position aktuell unverändert. Bei BFH-Linie oder DOSB-Aufnahme aktualisieren.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aktuelle Rechtsprechung eSports / Vereinsrecht
 
-- BFH, Beschl. v. 21.11.2023 - I R 22/24 (anhangig) — Gemeinnuetzigkeit eSports: der BFH hat die Vorinstanz-Entscheidung zur Pruefung zurueckverwiesen; bis zur Entscheidung kein gesicherter Gemeinnuetzigkeitsstatus; Beratungsmandat muss diese Rechtsunsicherheit klar kommunizieren.
-- OLG Koeln, Beschl. v. 19.05.2022 - 2 Wx 56/22 — eSports-Vereins-Eintragung: Eintragungsfahigkeit im Vereinsregister nach § 21 BGB haengt nicht vom DOSB-Status ab; Vereinszweck "Foerderung des eSports" ist eintragungsfahig; Gemeinnuetzigkeit ist separate Finanzamts-Frage.
-- FG Koeln, Urt. v. 17.05.2021 - 13 K 3309/18, EFG 2022, 44 — Gemeinnuetzigkeit eSports: abgelehnt; eSports faellt nicht unter § 52 Abs. 2 Nr. 21 AO (Foerderung des Sports), weil keine koerperliche Ertuechtigung erforderlich; Revisionsverfahren laeuft.
-- BGH, Urt. v. 28.11.2005 - II ZR 355/03, NJW 2006, 598 — Vereinsstrafrecht: Sanktionen im eSports-Verein muessen auf klarer Satzungsgrundlage beruhen und verhaeltnismaessig sein; auch in nicht-anerkannten Sportarten gelten Rechtsstaatsprinzipien.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen eSports-Vereinsrecht
 

@@ -41,14 +41,9 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | IV ZR 42/20 | 21.04.2021 | Sachverständigenpflicht: Übertragung der gesamten Gutachtenerstattung auf Dritte verletzt § 407a ZPO; Gutachten unverwertbar |
-| BGH | VI ZR 271/09 | 08.06.2010 | Sachverständigenhaftung: Bei grober Pflichtverletzung haftet Sachverständiger dem Gericht gegenüber; keine Haftungsbeschränkung durch Leistungsausschluss |
-| OLG München | 10 W 882/20 | 15.12.2020 | JVEG § 8a: Vergütungssperre setzt konkret festgestellten Pflichtenverstoß voraus; pauschaler KI-Verdacht ohne Nachweis genügt nicht |
-| BGH | VII ZB 55/19 | 30.01.2020 | § 412 ZPO: Neues Gutachten anordnen ist Ermessen des Gerichts; Partei hat Antragsrecht, aber keinen Anspruch auf Stattgabe |
-| LAG Hamm | 18 Sa 1/22 | 12.04.2022 | Privatgutachten: Parteigutachten ohne erkennbare persönliche Eigenleistung des Gutachters trägt geringen Beweiswert |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
-
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
@@ -111,7 +106,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — KI-Output enthalt Halluzinationen | Halluzinations-Handhabung-Skill einschalten; Pruefprotokoll erstellen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -222,7 +216,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Posten | Betrag / Ansatz | Hinweis |
@@ -249,16 +242,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 21.04.2021, Az. IV ZR 42/20 (höchstpersönliche Gutachtenpflicht)
-- BGH, Urt. v. 08.06.2010, Az. VI ZR 271/09 (Sachverständigenhaftung)
-- OLG München, Beschl. v. 15.12.2020, Az. 10 W 882/20 (JVEG § 8a)
-- BGH, Beschl. v. 30.01.2020, Az. VII ZB 55/19 (§ 412 ZPO)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 406, 407a, 411, 412, 1059 ZPO; §§ 4, 8a JVEG
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
 <!-- AUDIT 27.05.2026: 3 halluzinierte Entscheidungen entfernt.
-- OLG Köln 5 W 25/21 (03.05.2021): Nicht auf dejure.org auffindbar; Thema "Befangenheit / falsche Angaben zur Erstellungsweise" nicht verifizierbar. Ersatzlos geloescht.
-- BGH VI ZB 45/21 (15.02.2022): AZ existiert, aber Datum falsch (korrekt: 09.11.2021) und Thema falsch (tatsaechlich: Wert des Beschwerdegegenstandes bei Widerklage, § 511 ZPO); kein Bezug zu Sachverstaendigenhaftung § 839a BGB. Ersatzlos geloescht.
 - BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, § 826 BGB); kein Bezug zu § 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
 Pruefmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->

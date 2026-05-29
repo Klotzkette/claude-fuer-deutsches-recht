@@ -41,24 +41,20 @@ Für eine vollständige Bearbeitung werden benötigt:
 ### Leitentscheidungen (BGH-Stil)
 
 - **Betriebsbedingte Kündigung / unternehmerische Entscheidung:**
-  BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 Rn. 20 ff.: Der Arbeitgeber muss darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf für den Arbeitnehmer dauerhaft entfallen ist; eine bloß pauschale Behauptung eines Auftragsrückgangs genügt nicht.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Sozialauswahl / Vergleichbarkeit:**
-  BAG, Urt. v. 29.01.2015 – 2 AZR 164/14, NZA 2015, 426 Rn. 11 ff.: Vergleichbar im Sinne von § 1 Abs. 3 KSchG sind nur Arbeitnehmer, die gegeneinander ausgetauscht werden können, ohne dass es einer Einarbeitung oder Umschulung von mehr als kurzer Dauer bedarf.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Außerordentliche Kündigung / wichtiger Grund:**
-  BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227 Rn. 16 ff. – „Emmely": Die außerordentliche Kündigung ist ultima ratio; es ist eine umfassende Interessenabwägung vorzunehmen, bei der auch langjährige Betriebszugehörigkeit und Verdienst zu berücksichtigen sind.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Kündigungserklärung / Zugang:**
-  BAG, Urt. v. 26.03.2015 – 2 AZR 483/14, NZA 2015, 1183 Rn. 24: Der Zugang einer Kündigung unter Abwesenden setzt voraus, dass das Schreiben in den Machtbereich des Empfängers gelangt und er unter gewöhnlichen Umständen Kenntnis nehmen kann.
+  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Kommentarliteratur
+### Quellenregel
 
-- Preis, in: ErfK, 25. Aufl. 2025, § 1 KSchG Rn. 1–30 (Anwendungsbereich und Kündigungsgründe), Rn. 540 ff. (Sozialauswahl).
-- Kiel/Schmidt, in: APS, Kündigungsrecht, 6. Aufl. 2021, § 1 KSchG Rn. 700 ff. (Sozialauswahl, Vergleichbarkeit, Auswahlkriterien).
-- Linck, in: HWK, 11. Aufl. 2024, § 622 BGB Rn. 14 ff. (Kündigungsfristen, Fristberechnung).
-- Spinner, in: ErfK, 25. Aufl. 2025, § 4 KSchG Rn. 1 ff. (Klagefrist, Fristbeginn, Nachholung nach § 5 KSchG).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 – Fristprüfung (KRITISCH, SOFORT)
@@ -157,9 +153,9 @@ Für eine vollständige Bearbeitung werden benötigt:
 **Bewertung:**
 *1. Geltungsbereich KSchG:* Die Wartezeit von 6 Monaten (§ 1 Abs. 1 KSchG) ist mit 8 Jahren erfüllt. Die Betriebsgröße von 85 Arbeitnehmern überschreitet den Schwellenwert des § 23 Abs. 1 KSchG. Das KSchG ist anwendbar.
 
-*2. Soziale Rechtfertigung (§ 1 Abs. 2 KSchG):* Als Grund ist Betriebsbedingtheit angeführt. Ob die unternehmerische Entscheidung und der dauerhafte Wegfall des Beschäftigungsbedarfs substantiiert dargetan werden können, ist im Gütetermin zu klären (BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 Rn. 20).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-*3. Sozialauswahl (§ 1 Abs. 3 KSchG):* Kollegin K ist mit A vergleichbar (gleiche Tätigkeit, gegenseitig austauschbar, vgl. BAG, Urt. v. 29.01.2015 – 2 AZR 164/14, NZA 2015, 426 Rn. 11). Die Sozialpunkte der A (8 Jahre BZ, Unterhaltspflichten) überwiegen erkennbar jene der K. Die Nichteinhaltung der Sozialauswahl begründet die soziale Ungerechtfertigtheit der Kündigung (Kiel/Schmidt, in: APS, 6. Aufl. 2021, § 1 KSchG Rn. 700).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Klagefrist:** Die 3-Wochen-Frist nach § 4 KSchG läuft bis zum 06.05.2025. Klage ist sofort einzureichen.
 
@@ -176,18 +172,17 @@ Für eine vollständige Bearbeitung werden benötigt:
 | Vertraulichkeit / § 203 StGB | Strafbarkeit bei unbefugter Datenweitergabe | Mandantendaten nur in zulässigen Systemen verarbeiten |
 | Berufsrechtliche Pflichten (§ 43a BRAO) | Haftungs- und Berufsrechtsrisiko | Fristenkontrolle, Dokumentation, Belehrungspflichten |
 
-**Beweislast:** Der Arbeitgeber trägt die Beweislast für das Vorliegen von Kündigungsgründen (§ 1 Abs. 2 Satz 4 KSchG); für die ordnungsgemäße Sozialauswahl trägt er die Darlegungslast nach § 1 Abs. 3 Satz 3 KSchG, soweit der Arbeitnehmer Indizien darlegt (Preis, in: ErfK, 25. Aufl. 2025, § 1 KSchG Rn. 540).
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## DSGVO-Auskunft parallel zur KSchG-Klage
 
 **Regelfall in der Praxis:** Arbeitnehmer und ihre Bevollmächtigten stellen häufig zeitgleich mit der KSchG-Klage oder unmittelbar nach Zugang der Kündigung ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist der Zugang zu Personalakten, internen Vermerken, Abmahnungsunterlagen oder elektronischer Korrespondenz, die im Kündigungsschutzprozess als Beweismittel dienen oder den Arbeitgeber zu Verhandlungen über eine höhere Abfindung bewegen sollen.
 
-**Missbrauchsmaßstab (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler):**
-Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DSGVO als „exzessiv“ eingestuft werden, wenn der Arbeitgeber sowohl ein **objektives Element** (z. B. ungewöhnlich kurzer Abstand zwischen Ausspruch der Kündigung und Auskunftsantrag; massenhaftes Legal-Tech-Vorgehen) als auch ein **subjektives Element** (missbräuchliche Absicht — Instrumentalisierung zur Schadensersatzgenerierung nach Art. 82 DSGVO statt Datenschutzschutz) nachweist. Die Hürden sind hoch; das Auskunftsrecht ist Grundrecht (Art. 8 GRCh).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DSGVO als "exzessiv" eingestuft werden, wenn der Arbeitgeber sowohl ein **objektives Element** (z. B. ungewöhnlich kurzer Abstand zwischen Ausspruch der Kündigung und Auskunftsantrag; massenhaftes Legal-Tech-Vorgehen) als auch ein **subjektives Element** (missbräuchliche Absicht — Instrumentalisierung zur Schadensersatzgenerierung nach Art. 82 DSGVO statt Datenschutzschutz) nachweist. Die Hürden sind hoch; das Auskunftsrecht ist Grundrecht (Art. 8 GRCh).
 
 **BAG-Linie zum immateriellen Schaden:**
-- BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch eine Auskunftspflichtverletzung nach Art. 15 DSGVO begründet ohne objektiv erhöhtes Missbrauchsrisiko keinen eigenständigen Schaden nach Art. 82 DSGVO. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 20.02.2025 – 8 AZR 61/24: Der Betroffene muss konkrete nachteilige Auswirkungen der Auskunftspflichtverletzung darlegen. `[Modellwissen – prüfen]`
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Prozessuale Koordination:**
 - Auskunftsklage nach Art. 15 DSGVO ist vor dem **Landgericht** einzuklagen (§ 44 BDSG i.V.m. Art. 79 DSGVO); das Arbeitsgericht ist nicht zuständig.
@@ -202,7 +197,7 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach **references/zitierweise.md** zu belegen. Insbesondere:
 
 - Rechtsprechungsbelege im BGH-Stil (Gericht, Entscheidungsform, Datum, Aktenzeichen, Fundstelle, Rn.).
-- Kommentarbelege mit Bearbeiter, Werk, Auflage, Jahr, §, Rn.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Bei umstrittenen Fragen (z. B. Vergleichbarkeitsbegriff, Interessenabwägung) h. M. und Gegenauffassung getrennt zitieren.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen vor Einreichung gegenzuprüfen.
-- Keine reine „vgl."-Floskel ohne nachvollziehbaren Verweis.
+- Keine reine "vgl."-Floskel ohne nachvollziehbaren Verweis.

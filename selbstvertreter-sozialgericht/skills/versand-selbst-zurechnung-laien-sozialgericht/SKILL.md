@@ -1,6 +1,6 @@
 ---
 name: versand-selbst-zurechnung-laien-sozialgericht
-description: "Beweise fuer den Versand sicher organisieren. Einlieferungsschein Rueckschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung."
+description: "Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung."
 ---
 
 # Versand-Beweise sicher aufheben

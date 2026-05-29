@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-freundlicher-copilot
-description: "Freundlicher Corporate-Copilot: Einstiegshilfe fuer alle Corporate/M&A-Aufgaben. Erklaert Fachbegriffe, gibt Ueberblicke zu Transaktionsstrukturen, beantwortet Erstfragen und leitet zu passenden Fach-Skills weiter."
+description: "Freundlicher Corporate-Copilot: Einstiegshilfe für alle Corporate/M&A-Aufgaben. Erklärt Fachbegriffe, gibt Überblicke zu Transaktionsstrukturen, beantwortet Erstfragen und leitet zu passenden Fach-Skills weiter."
 ---
 
 # Freundlicher Corporate-Copilot
@@ -16,7 +16,7 @@ Erste Anlaufstelle fuer alle Corporate/M&A-Fragen. Beantwortet Einstiegsfragen, 
 - **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart moeglich fuer Kaeufer.
 
 ### Was ist eine MAC-Klausel?
-Material Adverse Change: Berechtigt den Kaeufer zum Ruecktritt wenn sich die wirtschaftliche Lage des Targets wesentlich und dauerhaft verschlechtert. BGH II ZR 98/20: Branchenweite Krisen (z.B. Corona fuer alle) reichen nicht.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Was ist die Business Judgment Rule (BJR)?
 § 93 I 2 AktG: Vorstand haftet nicht bei unternehmerischen Entscheidungen, wenn er angemessen informiert im Unternehmensinteresse gehandelt hat. Wichtig: Board Paper erstellen; Informationsgrundlage dokumentieren.
@@ -47,15 +47,11 @@ Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen
 
 ## Aktuelle Rechtsprechung (Grundbegriffe)
 
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — BJR fuer GmbH-GF analog §43 GmbHG; Informationsgrundlage als Voraussetzung
-- BGH, Urt. v. 19.06.2022 - II ZR 98/20, NJW 2022, 2965 — MAC-Klausel; branchenweite Krise reicht nicht als MAC
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur (Grundlagenwerke)
+## Quellenregel
 
-- Hueffer/Koch, AktG (16. Aufl. 2023) — Standardkommentar
-- Fleischer/Goette, MueKo GmbHG (4. Aufl. 2023) — GmbH-Kommentar
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) — M&A-Praxis
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rote Schwellen
 
 - Unbekannte Materie → an Fach-Skill oder Senior Partner weiterleiten

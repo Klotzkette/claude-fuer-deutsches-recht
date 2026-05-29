@@ -1,6 +1,6 @@
 ---
 name: immissionsschutz-laerm-bauleitplanung
-description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Pruefraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Pruefprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltpruefung (UVPG)."
+description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG)."
 ---
 
 # Immissionsschutz und Lärm in der Bauleitplanung
@@ -193,21 +193,15 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 
 ## Aktuelle Rechtsprechung
 
-- BVerwG, Urt. v. 10.10.2012 - 9 A 18.11, BVerwGE 144, 243 Rn. 60 — DIN 18005 hat den Charakter einer antizipierten Sachverständigenaussage; Überschreitungen sind abwägungspflichtig begründet; bei mehr als 5 dB(A) über dem Orientierungswert regelmäßig unverhältnismäßig ohne aktive Schutzmaßnahmen.
-- BVerwG, Urt. v. 16.03.2006 - 4 A 1075.04, BVerwGE 125, 116 Rn. 368 — Außenwohnbereiche sind in der Lärmschutzplanung eigenständig zu berücksichtigen; Schallschutzfenster ersetzen den Schutz des Außenwohnbereichs nicht.
-- BVerwG, Urt. v. 13.05.2009 - 9 A 72.07, BVerwGE 134, 45 Rn. 51 — Der Trennungsgrundsatz § 50 BImSchG ist eine strikte Abwägungsdirektive; eine heranrückende Wohnbebauung an bestehende Lärmquellen muss aktiv geschützt werden, bloße Festsetzung von Schallschutzfenstern reicht nicht aus.
-- OVG NRW, Urt. v. 24.06.2019 - 10 D 26.17.NE, NVwZ-RR 2020, 46 — Verkehrslärm-Kumulationsbetrachtung (Straße plus Schiene) ist Pflichtbestandteil des Schallschutzgutachtens; fehlende Summation begründet Ermittlungsdefizit § 2 Abs. 3 BauGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Lärmschutz
 
 § 50 BImSchG (Trennungsgrundsatz) → § 41 BImSchG (Verkehrslärmschutz) → 16. BImSchV (Grenzwerte Schiene/Straße) → 18. BImSchV (Sportlärm) → DIN 18005-1 (Orientierungswerte) → § 9 Abs. 1 Nr. 24 BauGB (Schallschutzflächen) → § 1 Abs. 6 Nr. 1 BauGB (allgemeine Wohlfahrtspflege) → § 2 Abs. 3 BauGB (Ermittlungspflicht)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 1 Rn. 95-105 (Immissionsschutz als Belang)
-- Hansmann/Röckinghausen in Landmann/Rohmer Umweltrecht, § 50 BImSchG Rn. 30-55 (Trennungsgrundsatz Planung)
-- Fickert/Fieseler BauNVO 13. Aufl., Vor §§ 2-9 Rn. 20-40 (Lärmschutz in Gebietstypologie)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Kläre bei Mandantenübernahme:
@@ -242,16 +236,16 @@ IV. Verstoß gegen § 50 BImSchG und § 2 Abs. 3 BauGB — Lärmermittlung unvol
 1. Kumulation Straßen- und Schienenlärm nicht berücksichtigt
    Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
    separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
-   (OVG NRW 10 D 26.17.NE).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Außenwohnbereiche ungeschützt
    Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
    werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
-   Passive Schallschutzmaßnahmen schützen Außenwohnbereiche nicht (BVerwG 4 A 1075.04 Rn. 368).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Abwägungsdisproportionalität
    Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
-   ist die Abwägung regelmäßig unverhältnismäßig (BVerwG 9 A 18.11 Rn. 60).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---

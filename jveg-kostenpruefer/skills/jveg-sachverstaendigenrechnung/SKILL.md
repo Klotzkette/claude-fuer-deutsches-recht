@@ -1,6 +1,6 @@
 ---
 name: jveg-sachverstaendigenrechnung
-description: "Sachverstaendigenrechnung nach JVEG pruefen oder erstellen: Stundenverguetung, Nebenkosten, Festbetrag. Normen: §§ 8 9 JVEG, Anlage 1 JVEG. Pruefraster: Verguetungshoehe, Berichtumfang, Auslagen. Output: Geprufte Sachverstaendigenrechnung. Abgrenzung: nicht Zeugenentschaedigung."
+description: "Sachverständigenrechnung nach JVEG prüfen oder erstellen: Stundenverguetung, Nebenkosten, Festbetrag. Normen: §§ 8 9 JVEG, Anlage 1 JVEG. Prüfraster: Verguetungshoehe, Berichtumfang, Auslagen. Output: Geprufte Sachverständigenrechnung. Abgrenzung: nicht Zeugenentschaedigung."
 ---
 
 # JVEG-Sachverstaendigenrechnung
@@ -25,16 +25,14 @@ Prüfe Sachverständigenrechnungen vollständig nach §§ 8–10 JVEG: Honorargr
 - § 3 JVEG (Vorschuss)
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die abgerechnete Zeit eines Sachverständigen ist am Maßstab eines erfahrenen Gutachters auf dem jeweiligen Fachgebiet zu messen; überlange Bearbeitungszeiten werden objektiviert gekürzt.
-2. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — § 8a JVEG rechtfertigt Kürzung, wenn das Gutachten wesentliche Mängel aufweist, die auf unzureichende Sorgfalt zurückgehen.
-3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Reisezeiten nach § 10 JVEG sind von der Gutachtenarbeitszeit strikt zu trennen; Vermischung führt zur Kürzung.
-4. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Vorschussüberschreitungen ohne vorherigen Hinweis an das Gericht führen zur Nichterstattung des übersteigenden Betrags.
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
-- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 8–10 Rn. 1 ff.
-- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 8–10 Rn. 1 ff.
-- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 8 Rn. 1 ff.
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Eingang einer Sachverständigenrechnung zur Festsetzung nach § 4 JVEG.
 

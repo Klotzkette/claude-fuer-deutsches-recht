@@ -13,10 +13,7 @@ description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen 
 4. Soll die Fundstelle in die Akte oder in einen Schriftsatz eingearbeitet werden?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Zitiergenauigkeit ist anwaltliche Pflicht; falsch zitierte Entscheidungen koennen Glaubwuerdigkeit und Argumentation beschaedigen.
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Recherchepflicht des Anwalts: bekannte einschlaegige Rechtsprechung muss beachtet und ggf. beruecksichtigt werden.
-- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Uebersehen einschlaegiger BGH-Rechtsprechung als Anwaltsfehler: Anwalt muss aktuellen Stand kennen; veraltetes Zitieren begruendet Haftungsrisiko.
-- BVerfG, Beschl. v. 23.06.2010 - 2 BvR 2559/08, BVerfGE 126, 170 — Bindung an Rechtsprechung: Gerichte folgen BGH-Leitsaetzen im Regelfall; Abweichung erfordert substantiierte Begruendung.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43 BRAO — Sorgfaltspflicht: Recherchepflicht als Teil der anwaltlichen Beratung
@@ -24,10 +21,9 @@ description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen 
 - Art. 3 GG i.V.m. Art. 20 Abs. 3 GG — Bindung an Gesetz und Recht: einschlaegige Rechtsprechung ist massgebend
 - § 139 ZPO — Richterliche Hinweispflicht: Gericht nutzt bekannte Rechtsprechung; Anwalt muss vorbereitet sein
 
-## Kommentarliteratur
-- Gaier/Wolf/Göcken BRAO § 43 Rn. 20-40 (Recherchepflicht und Haftungsrisiko bei Fehler)
-- Zöller/Greger ZPO § 139 Rn. 1-20 (Hinweispflicht und Vorbereitung auf Rechtsprechungsfragen)
+## Quellenregel
 
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill recherchiert gezielt Rechtsprechung zu einer Akte, einem Schriftsatz, einer Replik, einem Vertragsrisiko oder einer internen Rechtsfrage. Er arbeitet quellenbewusst: zuerst amtliche Quellen, dann freie Ergänzungsdatenbanken, danach nur mit Kennzeichnung weitere Quellen.

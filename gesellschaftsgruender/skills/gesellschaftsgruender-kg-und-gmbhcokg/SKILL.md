@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kg-und-gmbhcokg
-description: "KG und GmbH und Co. KG gruenden: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Pruefraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gruendung."
+description: "KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung."
 ---
 
 # KG und GmbH & Co. KG
@@ -23,22 +23,17 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 - **§ 170 HGB** — Kommanditist: keine gesetzliche Vertretungsmacht
 - **§ 171 I HGB** — Hafteinlage: Begrenzung der Kommanditisten-Aussenhaftung
 - **§ 172 IV HGB** — Riickgewaehr einlagegelebter Betrage; Wiederaufleben Haftung
-- **§ 19 II HGB** — Pflicht-Namenszusatz „GmbH & Co. KG"
+- **§ 19 II HGB** — Pflicht-Namenszusatz "GmbH & Co. KG"
 - **§ 15 EStG** — Mitunternehmerschaft; Personengesellschaftsbesteuerung
 - **§ 15a EStG** — Verlustverrechnung Kommanditist bis zur Hoehe der Hafteinlage
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 14.11.2005 – II ZR 178/03, BGHZ 165, 85** — Eine Ein-Personen GmbH & Co. KG, bei der die GmbH Komplementaerin und einzige Kommanditistin ist, ist zulaessig; die wirtschaftliche Einheit von GmbH und KG fuehrt nicht zu einer Zusammenfassung der Haftungsmassen.
-- **BFH, Urt. v. 25.06.2009 – IV R 3/07, BFHE 226, 62** — Sonderbetriebsvermoegen des Kommanditisten (von ihm der KG ueberlassene Wirtschaftsgueter) gehoert zur Mitunternehmerschaft; Einnahmen daraus sind gewerbliche Einkuenfte nach § 15 EStG.
-- **BGH, Urt. v. 18.01.2000 – II ZR 207/98, NJW 2000, 1197** — Bei werbewirtschaftlicher Taetigkeit des Kommanditisten fuehrt die Herabsetzung der Einlage (§ 172 Abs. 4 HGB) zum Wiederaufleben der Aussenhaftung; Kommanditist hafte Glaeubigern in der Hoehe des rueckgewaehrten Betrags.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Baumbach/Hopt, HGB, 41. Aufl. 2022, §§ 161-177a Rn. 1-150 (KG; Komplementaer; Kommanditist; Hafteinlage)
-- MüKo HGB/Schmidt, 5. Aufl. 2021, §§ 161, 170, 171 Rn. 1-100 (Grundstruktur; Haftung; Vertretung)
-- Tipke/Lang, Steuerrecht, 24. Aufl. 2021, § 18 Rn. 1-100 (Mitunternehmerschaft; § 15 EStG)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: GmbH & Co. KG vs. GmbH
 
 | Merkmal | GmbH & Co. KG | GmbH |
@@ -97,15 +92,15 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 ## Rote Schwellen
 
 - Reihenfolge nicht beachtet: KG ohne bestehende Komplementaer-GmbH scheitert beim HR
-- Firma ohne „GmbH & Co. KG"-Zusatz: irrefuehrend (§ 18 II HGB; Paragraf 19 II HGB)
-- Hafteinlage-Rueckgewaehr: Wiederaufleben der Aussenhaftung (§ 172 IV HGB; BGH NJW 2000, 1197)
+- Firma ohne "GmbH & Co. KG"-Zusatz: irrefuehrend (§ 18 II HGB; Paragraf 19 II HGB)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Sonderbetriebsvermoegen uebersehen: unerwartete Steuerpflicht fuer Kommanditisten
 
 ## Quellen und Vertiefung
 
 - §§ 161, 170, 171, 172 HGB; § 19 II HGB; §§ 15, 15a EStG
-- BGH BGHZ 165, 85 (2005); BFH BFHE 226, 62 (2009); BGH NJW 2000, 1197
-- Baumbach/Hopt §§ 161-177a; MüKo HGB/Schmidt §§ 161, 171; Tipke/Lang § 18
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Uebergabe an andere Skills
 
@@ -113,5 +108,3 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung Komplementaer-GmbH
 - `gesellschaftsgruender-handelsregister-anmeldung` — KG-Eintragung
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte der KG
-
-<!-- AUDIT 27.05.2026: BGH VIII ZR 296/88 (24.01.1990) entfernt. Tatsächliches Thema: Nicht unterzeichneter Nachsatz im Mietvertrag, § 566 BGB Schriftformerfordernis — kein Bezug zu GmbH & Co. KG. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

@@ -1,6 +1,6 @@
 ---
 name: sanierungsbausteine-vorschlagen
-description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklaerung hart Comfortletter Gesellschafterdarlehen mit Rangruecktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklaerung-extern-hart-erzeugen gesellschafterdarlehen-rangruecktritt stundungsanfrage-glaeubiger)."
+description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklärung-extern-hart-erzeugen gesellschafterdarlehen-rangrücktritt stundungsanfrage-gläubiger)."
 ---
 
 # Sanierungsbausteine vorschlagen
@@ -40,7 +40,7 @@ Aus der Zusammenführung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 
 - Bestehendes Gesellschafterdarlehen wird mit **qualifiziertem Rangrücktritt** versehen.
 - Im Status nicht passiviert (§ 19 Abs. 2 S. 2 InsO).
-- BGH-Anforderungen an die Rangrücktrittsformulierung beachten (BGH II ZR 18/19).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Form: **notariell oder mit Schriftform unterzeichnet von beiden Parteien**.
 - Skill `gesellschafterdarlehen-rangruecktritt`.
 
@@ -134,10 +134,7 @@ empfehlungen:
 
 ## Aktuelle Leitentscheidungen — Sanierungsbausteine
 
-- BGH, Urt. v. 04.05.2017 — IX ZR 285/16, NZI 2017, 617 — Sanierungskonzept Qualitaet: Sanierungsbausteine muessen zusammen ein schlussiges Konzept ergeben; isolierte Massnahmen ohne Gesamtkonzept schuetzen nicht vor Vorsatzanfechtung § 133 InsO.
-- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — IDW S 6 Standard: Sanierungskonzept braucht nicht von WP erstellt zu sein; aber muss alle IDW S 6 Kernelemente enthalten (Lagedarstellung, Krisenursachen, Massnahmenplan, integrierten Finanzplan).
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungsversuch und Vorsatzanfechtung: Schuldner mit echtem Sanierungsplan hat keinen Benachteiligungsvorsatz auch wenn Plan spaeter scheitert; ex-ante-Betrachtung massgeblich.
-- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Sanierungsbausteine und Fortbestehensprognose: Massnahmen muessen mit ihren Wirkungen in Liquiditaetsplan eingerechnet sein und tragen die positive Prognose erst dann wenn ihre Umsetzung ueberwiegend wahrscheinlich ist.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Sanierungsbausteine
 
@@ -150,8 +147,6 @@ empfehlungen:
 3. **Steuerliche Wirkung?** Sanierungserloes § 3a EStG: Voraussetzungen pruefen; Steuerberater einbinden.
 4. **Gesamtkonzept?** Alle Bausteine zusammen muessen eine positive Prognose tragen (IDW S 11 Konformitaet).
 
-## Kommentarliteratur
+## Quellenregel
 
-- IDW S 6, Stand 06/2022 — Sanierungskonzept-Standard; Massnahmenplanung und Umsetzungscontrolling.
-- MüKo InsO/Drukarczyk § 19 InsO Rn. 80-100 — Sanierungsmassnahmen und Prognose-Wirkung.
-- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 — Sanierungsbausteine in der Praxis.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

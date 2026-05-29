@@ -1,6 +1,6 @@
 ---
 name: wandlungspreis-berechnung
-description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgeloest wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht fuer Cap-Table-Update (cap-table-update-pre-post)."
+description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgelöst wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht für Cap-Table-Update (cap-table-update-pre-post)."
 ---
 
 # Wandlungspreis-Berechnung
@@ -30,8 +30,7 @@ Dieser Skill führt die vollständige Wandlungspreis-Berechnung durch – von de
 - § 9 GmbHG (Differenzhaftung bei Überbewertung der Sacheinlage)
 
 ### Rechtsprechung
-- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Kapitalerhöhung gegen Sacheinlage – Differenzhaftung)
-- BGH, Urt. v. 6. Dezember 2010 – II ZR 14/09 (Werthaltigkeit einzubringender Forderung)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -100,9 +99,9 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 5 und 55 ff. sowie HGB § 272 aktualisi
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 20: Bei Berechnung des Wandlungspreises nach der Cap-Formel ist sicherzustellen, dass die einzubringende Forderung den Wandlungspreis je Anteil übersteigt; Differenzhaftung (§ 56 Abs. 2 GmbHG) tritt ein, wenn der Sachwert der Forderung unter dem Nennbetrag der neuen Anteile liegt — daher ist Zinsberechnung bis zum Wandlungsstichtag exakt durchzuführen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 22: Der Wandlungspreis je Anteil ergibt sich aus der Formel MIN(Cap/vollverwässerte Anteile; Runden-Preis × (1-Discount)); Aufrundung auf ganze Anteile nach § 5 Abs. 1 GmbHG (Mindestnennbetrag 1 EUR je Anteil) ist zwingend.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

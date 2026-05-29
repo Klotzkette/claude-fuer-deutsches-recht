@@ -16,7 +16,7 @@ Vorgelegt wurden die Hefte 1 bis 5 des Verwaltungsvorgangs Az. 6.1-900/22 (Baule
 
 ### 2.1 Heft 3, Bl. 217 — E-Mail-Thread Schimanek / Reiff
 
-Am 11./12.04.2022 — vor dem Aufstellungsbeschluss vom 14.06.2022 — gab es eine schriftliche Verständigung des Stadtbaurats mit dem Geschäftsführer des Vorhabenträgers zur Geometrie MU 3 mit 8 Geschossen und zur Strategie, gegenüber der Öffentlichkeit zunächst nur 6 Geschosse zu kommunizieren („Aufstockung später per Bauausschuss"). Wörtliches Zitat protokolliert. **Hochrelevantes Beweismittel — Indiz für bewussten Beteiligungsmangel und Vorfestlegung.**
+Am 11./12.04.2022 — vor dem Aufstellungsbeschluss vom 14.06.2022 — gab es eine schriftliche Verständigung des Stadtbaurats mit dem Geschäftsführer des Vorhabenträgers zur Geometrie MU 3 mit 8 Geschossen und zur Strategie, gegenüber der Öffentlichkeit zunächst nur 6 Geschosse zu kommunizieren ("Aufstockung später per Bauausschuss"). Wörtliches Zitat protokolliert. **Hochrelevantes Beweismittel — Indiz für bewussten Beteiligungsmangel und Vorfestlegung.**
 
 ### 2.2 Heft 3, Bl. 442 — Mobilitätskonzept
 
@@ -36,7 +36,7 @@ Schreiben DB Immobilien (Frau Witzel) vom 08.02.2024 bestätigt, dass Entwidmung
 
 ## 3. Kopien
 
-Kopien angefertigt (Stadtplanungsamt § 29 VwVfG, gebührenfrei für Anwälte): 47 Blatt. Im Original gelassen, eingestempelt „Kopie zur Akte" 22.07.2024.
+Kopien angefertigt (Stadtplanungsamt § 29 VwVfG, gebührenfrei für Anwälte): 47 Blatt. Im Original gelassen, eingestempelt "Kopie zur Akte" 22.07.2024.
 
 ## 4. Bewertung
 
@@ -44,7 +44,7 @@ Die Aktenfunde verstärken die Erfolgsaussichten deutlich. Insbesondere E-Mail S
 
 ## 5. Nächste Schritte
 
-- Eintrag Bauantrag 02.07.2024 in Fristenkalender als „akute Eilbedürftigkeit"
+- Eintrag Bauantrag 02.07.2024 in Fristenkalender als "akute Eilbedürftigkeit"
 - Entwurf Eilantrag vorzieht, Ziel: Einreichung Ende September 2024
 - Auswertung E-Mail-Konvolut Heft 3 Bl. 217 ff.
 

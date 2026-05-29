@@ -1,6 +1,6 @@
 ---
 name: dd-findings-extraktion
-description: "Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum pruefen, DD-Issues extrahieren aus [Ordner], Due-Diligence-Pruefung oder was ist im VDR sagt oder auf VDR-Dokumente hinweist."
+description: "Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum prüfen, DD-Issues extrahieren aus [Ordner], Due-Diligence-Prüfung oder was ist im VDR sagt oder auf VDR-Dokumente hinweist."
 ---
 
 # DD-Issue-Extraktion (Findings-Report)
@@ -22,17 +22,11 @@ Vor dem Start des DD-Reviews folgende Fragen klären:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 01.03.2010 – II ZR 213/08, NJW 2010, 1808 Rn. 12 — Beim Unternehmenskauf traegt der Kaeufer grundsaetzlich das Risiko nicht offenbarter Maengel; der Verkaeufer haftet aber nach den Grundsaetzen der c.i.c., wenn er arglistig Auskunft verweigert oder falsche Auskuenfte erteilt.
-- BGH, Urt. v. 06.04.2001 – V ZR 394/99, NJW 2001, 2875 Rn. 17 — Vorvertragliche Aufklaerungspflicht des Verkaefers bei Unternehmenskauf; sie besteht bei objektiv wesentlichen, fuer den Kaeufer wertbestimmenden Umstaenden, die dieser nicht selbst erkennen kann.
-- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 — Change-of-Control-Klauseln koennen auch bei mittelbarem Kontrollwechsel ausgeloest werden; massgeblich ist die vertragliche Formulierung und nicht nur der gesellschaftsrechtliche Kontrollbegriff.
-- OLG Frankfurt, Urt. v. 10.09.2020 – 26 U 35/19 — Unzureichende Offenlegung im Datenraum genuegte nicht; spaeterer Hinweis auf versteckte Dokumente heilt die Aufklaerungspflichtverletzung nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 10 ff. (Unternehmenskauf, Gewährleistung und Due Diligence).
-- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2023, § 15 Rn. 80 (Übertragung GmbH-Anteile, Abtretungsverbote).
-- Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 (Abtretungsverbot zwischen Kaufleuten).
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für den Deal entscheidend sind. Dieser Skill liest Dokumente gegen die DD-Kategorien und Wesentlichkeitsschwellen aus dem Praxisprofil, extrahiert Issues und schreibt sie im Hausformat.
@@ -207,11 +201,10 @@ Dokument: [VDR-PFAD/DOKUMENTENNAME]
 
 Zitierweise nach `../../references/zitierweise.md`.
 
-Kommentarliteratur:
-- Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 10 (Unternehmenskauf, Gewährleistung).
-- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2023, § 15 Rn. 80 (Übertragung GmbH-Anteile).
-- BGH, Urt. v. 01.03.2010 – II ZR 213/08, NJW 2010, 1808 Rn. 12 (Informationsasymmetrie und Risikoverteilung beim Unternehmenskauf).
-- BGH, Urt. v. 06.04.2001 – V ZR 394/99, NJW 2001, 2875 Rn. 17 (Aufklärungspflicht Verkäufer beim Unternehmenskauf).
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Was dieser Skill nicht tut
 

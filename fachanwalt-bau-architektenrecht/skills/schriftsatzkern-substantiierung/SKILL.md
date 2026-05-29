@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Pruefraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
+description: "Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollständiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht
@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Privates Baurecht, Architekten- und Ingenieurrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 631 ff. BGB, VOB/B, HOAI, MaBV, BauFordSiG und ihre Substantiierungs-Anforderungen:
@@ -196,19 +195,15 @@ Vor Versand:
 
 ## Aktuelle Rechtsprechung Bau-/Architektenrecht
 
-- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1537 Rn. 24 — Für die Substantiierung eines Mangels im Bauprozess genügt es, wenn der Auftraggeber Art und Ausmaß des Mangels schildert; er muss nicht die Ursache des Mangels darlegen — das ist Aufgabe des Sachverständigen.
-- BGH, Urt. v. 23.10.2008 - VII ZR 64/07, BGHZ 178, 267 Rn. 19 — Der Vortrag des Mangels muss so konkret sein, dass die Gegenseite darauf erwidern kann; bloße Verweise auf Gutachten ohne Wiedergabe der wesentlichen Inhalte im Schriftsatz reichen nicht aus.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Paragrafenkette Substantiierung Bauprozess
 
 § 631 BGB (Werkvertrag) → §§ 633-638 BGB (Mängelhaftung) → § 641 BGB (Fälligkeit) → § 650a BGB (Bauvertrag) → § 650p BGB (Architektenvertrag) → VOB/B § 13 (Mängelhaftung VOB) → VOB/B § 14 (Abrechnung) → §§ 130, 131 ZPO (Schriftsatz-Anforderungen) → § 296 ZPO (Zurückweisung verspäteten Vortrags)
 
-## Kommentarliteratur
+## Quellenregel
 
-- Werner/Pastor Der Bauprozess 16. Aufl., Kap. 5 Rn. 1200-1250 (Substantiierung Baumangel-Klage)
-- Kniffka/Koeble Kompendium des Baurechts 5. Aufl., 5. Teil Rn. 80-120 (Werklohanklage Schlussrechnung)
-- BeckOK BGB/Voit § 631 Rn. 120-145 (Prozessführung Werkvertrag)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Schriftsatzerstellung
 
 Kläre vor Beginn:
@@ -263,6 +258,4 @@ III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- VII ZR 68/10: ersatzlos entfernt (BGH 07.03.2013 – VII ZR 68/10 betrifft Sittenwidrigkeit von Nachtragspreisen im Bauvertrag nach § 138 BGB / VOB/B § 2 Nr. 6, nicht Schlussrechnungslegung oder § 641 Abs. 1 BGB; Quelle: dejure.org/2013,7542)
 - VII ZR 181/00: ersatzlos entfernt (BGH 09.01.2003 – VII ZR 181/00 betrifft Baumangel Betondecke B25/B35 und Minderungsberechnung nach VOB/B § 13 Nr. 1, 6 a.F., BGHZ 153, 279; kein Bezug zu HOAI-Honorarklage; der im Skill genannte BGHZ-Band 153, 244 existiert fuer dieses AZ nicht; Quelle: dejure.org/2003,455)
-

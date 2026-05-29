@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-gemischte-noten
-description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern fuer Training und Demonstration. Anwendungsfall Rechtsanwalt oder Mitarbeiter will Zeugnisanalyse-Skills an einem Musterfall trainieren. Zeigt klassisches Drift-Muster einzelne Saetze Note eins benachbarte Saetze Note drei gleicher Themenbereich. Output vollstaendige Satz-fuer-Satz-Notenmatrix mit Bereichs-Drift-Analyse als kommentiertes Lernbeispiel. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und muster-arbeitszeugnis-note-1."
+description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Training und Demonstration. Anwendungsfall Rechtsanwalt oder Mitarbeiter will Zeugnisanalyse-Skills an einem Musterfall trainieren. Zeigt klassisches Drift-Muster einzelne Saetze Note eins benachbarte Saetze Note drei gleicher Themenbereich. Output vollständige Satz-fuer-Satz-Notenmatrix mit Bereichs-Drift-Analyse als kommentiertes Lernbeispiel. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und muster-arbeitszeugnis-note-1."
 ---
 
 # Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)
@@ -15,19 +15,19 @@ Das Zeugnis zeigt Drift in fuenf von acht Themenbereichen und endet mit einer ho
 
 | Satz im Muster | Themenbereich | Note | Befund |
 |---|---|---|---|
-| „verfuegt auch in Randbereichen ueber aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
-| „nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" | Lernbereitschaft | 3 | Kein Steigerungsadverb |
-| „ausgepraegt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | „stets" plus Superlativ |
-| „zeigte sich bei neuen Aufgabenbereichen flexibel und aufgeschlossen" | Flexibilitaet | 3 | „zeigte" ohne Steigerung |
-| „besonders hohe Arbeitsmoral, stets aeusserst motiviert, beharrlich zu verfolgen" | Engagement | 1 | Drei Steigerer |
-| „zeigte eine hohe Lernbereitschaft" | Lernbereitschaft | 3 | „hohe" ohne Adverb |
-| „jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig, planvoll durchdacht" | Arbeitsweise | 1 | Drei Steigerer |
-| „fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | „gute" statt „hervorragende" |
-| „Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
-| „war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | „war in der Lage" |
-| „vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
-| „geschaetzter Ansprechpartner, persoenliches Verhalten war einwandfrei" | Sozialverhalten | 3 | „einwandfrei" ohne „stets" |
-| „stets ausgezeichnete Mitarbeit" plus volles Bedauern und voller Dank | Schlussformel | 1 | Vollstaendig auf Spitze |
+| "verfuegt auch in Randbereichen ueber aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
+| "nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" | Lernbereitschaft | 3 | Kein Steigerungsadverb |
+| "ausgepraegt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | "stets" plus Superlativ |
+| "zeigte sich bei neuen Aufgabenbereichen flexibel und aufgeschlossen" | Flexibilitaet | 3 | "zeigte" ohne Steigerung |
+| "besonders hohe Arbeitsmoral, stets aeusserst motiviert, beharrlich zu verfolgen" | Engagement | 1 | Drei Steigerer |
+| "zeigte eine hohe Lernbereitschaft" | Lernbereitschaft | 3 | "hohe" ohne Adverb |
+| "jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig, planvoll durchdacht" | Arbeitsweise | 1 | Drei Steigerer |
+| "fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | "gute" statt "hervorragende" |
+| "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
+| "war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | "war in der Lage" |
+| "vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
+| "geschaetzter Ansprechpartner, persoenliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
+| "stets ausgezeichnete Mitarbeit" plus volles Bedauern und voller Dank | Schlussformel | 1 | Vollstaendig auf Spitze |
 
 ## Beispiele
 
@@ -103,5 +103,4 @@ Der Skill liefert: vollstaendiges Mustertextzeugnis, satzweise Notenmatrix gemae
 
 ## Aktuelle Rechtsprechung
 
-- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
-- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

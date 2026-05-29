@@ -1,5 +1,14 @@
 # Testakte: Außenwirtschaft, Zoll, Sanktionen und CBAM – Globalmaschinen GmbH
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen` (diese Akte) | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+
+
 **Fiktive Lehrakte** | Maschinenbau | Exportkontrolle | Dual-Use | Sanktionsrecht | Zollrecht | CBAM | Verbrauchsteuer | AML/KYC
 
 ---
@@ -8,7 +17,7 @@
 
 Die **Globalmaschinen GmbH** mit Sitz in Stuttgart-Zuffenhausen ist ein mittelständischer Maschinenbauer (ca. 280 Beschäftigte), der CNC-Steuermodule und Ersatzteile für Werkzeugmaschinen entwickelt, produziert und weltweit vertreibt. Das Unternehmen beliefert seit Jahren Händler in der Türkei, den VAE, der Schweiz und Zentralasien.
 
-Im Frühjahr 2026 häufen sich ernste Compliance-Probleme: Ein neuer türkischer Händler – die **Turan Industrial Trading Ltd.** (Istanbul) – soll das CNC-Steuermodul GX-900 an einen Endkunden in Kasachstan weiterverkaufen. Ein Teil der Zahlungen läuft über die Zwischenentität **Al Noor FZE** mit Sitz in der Jebel Ali Freihandelszone (Dubai). Interne Chatprotokolle enthalten die Formulierung „dann halt über Kasachstan" – ein Hinweis, der auf bewusste Sanktionsumgehung zugunsten eines russischen Endabnehmers hindeuten könnte.
+Im Frühjahr 2026 häufen sich ernste Compliance-Probleme: Ein neuer türkischer Händler – die **Turan Industrial Trading Ltd.** (Istanbul) – soll das CNC-Steuermodul GX-900 an einen Endkunden in Kasachstan weiterverkaufen. Ein Teil der Zahlungen läuft über die Zwischenentität **Al Noor FZE** mit Sitz in der Jebel Ali Freihandelszone (Dubai). Interne Chatprotokolle enthalten die Formulierung "dann halt über Kasachstan" – ein Hinweis, der auf bewusste Sanktionsumgehung zugunsten eines russischen Endabnehmers hindeuten könnte.
 
 Parallel dazu hat das **Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)** in Eschborn Unterlagen zu drei Ausfuhren angefordert und das **Hauptzollamt Stuttgart** eine umfassende Zollprüfung für Mai 2026 angekündigt. Außerdem stellt eine Wirtschaftsredaktion Fragen zu angeblichen Russland-Lieferungen.
 
@@ -57,7 +66,7 @@ Die Syndikusrechtsanwältin **Dr. Sabine Brennecke** koordiniert die interne Kri
 | 05.02.2026 | Zollanmeldung Sechskantmuttern aus China (Antidumping-Versäumnis) |
 | 22.02.2026 | Zollanmeldung Unterlegscheiben aus China |
 | Februar 2026 | Ausfuhr Servo-Interface-Boards an Al Noor FZE (50 Stück) |
-| 15.03.2026 | Teams-Chat „dann halt über Kasachstan" |
+| 15.03.2026 | Teams-Chat "dann halt über Kasachstan" |
 | 22.03.2026 | Vorauszahlung 125.000 EUR durch Turan Industrial Trading |
 | März 2026 | 2. Ausfuhr GX-900 (25 Stück) an Turan Industrial Trading |
 | 02.04.2026 | HZA Stuttgart kündigt Zollprüfung an |

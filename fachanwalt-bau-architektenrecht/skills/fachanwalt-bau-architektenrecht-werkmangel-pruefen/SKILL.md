@@ -1,14 +1,14 @@
 ---
 name: fachanwalt-bau-architektenrecht-werkmangel-pruefen
-description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Pruefraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme."
+description: "Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme."
 ---
 
 # Werkmangel prüfen — Bau- und Werkvertragsrecht
 
 ## Triage — Bevor du loslegst, kläre
 
-1. **Vertragstyp**: BGB-Werkvertrag (§§ 631 ff. BGB) oder VOB/B-Vertrag — VOB/B wirksam einbezogen? Bei Verbrauchern: AGB-Kontrolle §§ 305 ff. BGB, VOB/B als Ganzes (BGH VII ZR 207/07)?
-2. **Abnahme erfolgt?**: Förmlich, konkludent, fiktiv § 640 Abs. 2 BGB — Datum und Beweise? Vor Abnahme: AN trägt Beweislast; nach Abnahme: AG trägt Beweislast (BGH VII ZR 244/12).
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Sollbeschaffenheit**: Leistungsverzeichnis, Planung, anerkannte Regeln der Technik (aRdT), DIN-Normen, Beschaffenheitsvereinbarung?
 4. **Mangelerscheinungen**: Beschreibung, Lichtbilder, SV-Gutachten? Kausalität zu Werk des AN?
 5. **Mängelrechte**: Nacherfüllung noch möglich oder Frist abgelaufen? Selbstvornahme, Minderung, Rücktritt, Schadensersatz?
@@ -35,10 +35,7 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 
 ## Aktuelle Rechtsprechung (BGH VII. Zivilsenat)
 
-- BGH, Urt. v. 25.09.2014 — VII ZR 244/12, NJW 2014, 3642 Rn. 15: Mit wirksamer Abnahme kehrt sich die Beweislast um; nach Abnahme muss der Auftraggeber beweisen, dass der Mangel bei Abnahme bereits vorhanden war. Vor Abnahme trägt der Auftragnehmer den Beweis der vertragsgemäßen Herstellung.
-- BGH, Urt. v. 09.01.2003 — VII ZR 181/00, NJW 2003, 1188 Rn. 21: Minderung nach § 638 BGB bemisst sich nach dem Verhältnis des Minderwertes zum vertragsmäßigen Wert; die Berechnung nach Mangelbeseitigungskosten ist nur moeglich wenn die Mangelbeseitigung nicht unverhaeltnismaessig ist.
-- BGH, Urt. v. 07.03.2013 — VII ZR 119/10, NJW 2013, 1528 Rn. 28: Zur Art der Mängelbeseitigung vor Abnahme: Der Auftraggeber kann keine bestimmte Art der Mängelbeseitigung verlangen; der Auftragnehmer bestimmt die Methode selbst; Neuherstellung ist nur geschuldet wenn vertragsgemaeße Erfüllung anders nicht moeglich ist.
-- BGH, Urt. v. 08.11.2018 — VII ZR 100/16, NJW 2019, 293 Rn. 21: Arglistig verschwiegene Mängel unterliegen nicht der kurzen Verjährung nach § 634a Abs. 1 BGB sondern der 10-Jahres-Frist nach § 634a Abs. 3 Satz 2 BGB.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
 
@@ -76,7 +73,7 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 
 **Kostenvorschuss § 637 Abs. 3 BGB**: Vor Ausführung der Selbstvornahme einklagbar; Höhe: voraussichtliche Selbstvornahmekosten nach SV-Gutachten.
 
-**Fallstrick**: Überhöhter Drittunternehmerpreis — AG muss wirtschaftlichstes Angebot einholen (BGH VII ZR 26/17).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Minderung § 638 BGB
 
@@ -112,7 +109,7 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 | Konstellation | Mangelbestand | Kausalität | Verschulden |
 |---|---|---|---|
 | Vor Abnahme | AN beweist Mangelfreiheit | — | — |
-| Nach Abnahme BGB | AG beweist Mangel vorhanden (BGH VII ZR 244/12) | AG | vermutet bei Sachmangel |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Arglist | AG muss arglistiges Verschweigen beweisen | AG | AG |
 | VOB/B nach Abnahme | AG beweist Mangel | AG | — |
 | Selbstvornahmekosten | AG beweist Notwendigkeit + Höhe | AG | — |
@@ -193,14 +190,9 @@ Mit freundlichen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 
-## Kommentarliteratur
+## Quellenregel
 
-- Werner/Pastor, Der Bauprozess, 16. Aufl. — Rn. 1800 ff. zu Mängelrechten
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl. — 5. Teil Mängelrecht
-- Beck'scher Online-Kommentar BGB (BeckOK BGB) §§ 633–640 — aktuelle Rechtsprechung
-- Grüneberg, BGB, 83. Aufl. — § 634 Rn. 1 ff., § 637 Rn. 1 ff.
-- Ingenstau/Korbion, VOB-Kommentar, 22. Aufl. — § 13 VOB/B Rn. 1 ff.
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Empfehlung
 
 | Situation | Empfehlung | Begründung |
@@ -209,7 +201,7 @@ Mit freundlichen Grüßen
 | Beweislage unklar | Beweissicherungsverfahren § 485 ZPO | Gerichtlicher SV mit Hemmungswirkung |
 | AN verweigert Nacherfüllung | Direkt Selbstvornahme-Kostenvorschuss einklagen | Kein weiteres Zuwarten erforderlich |
 | Arglist (Mängel verborgen) | 10-Jahres-Verjährung prüfen | Verlängerte Anspruchslage |
-| Komplexe Schäden | SV frühzeitig beauftragen | BGH VII ZR 244/12: AG trägt Beweislast |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 

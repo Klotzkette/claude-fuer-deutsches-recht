@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Agrar-, Forst- und Lebensmittelrecht
@@ -198,17 +198,16 @@ Vor Versand:
 
 ### Leitsatz-Zitate
 
-BGH, Beschl. v. 29.04.2010 — **BLw 5/09**, BGHZ 185, 133 Rn. 22: In Landwirtschaftssachen (LwVG) gelten die ZPO-Grundsätze zur Substantiierung entsprechend; pauschales Bestreiten ohne konkreten Gegenvortrag gilt als Geständnis (§ 138 Abs. 3 ZPO); Schriftsatz muss konkrete Flächen-, Pachtzins- und Bewirtschaftungsdaten enthalten.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BVerwG, Urt. v. 04.07.2019 — **3 C 24.17**, BVerwGE 166, 88 Rn. 22: Im verwaltungsgerichtlichen Verfahren über Agrarbescheide muss die Klagebegründung konkrete Fehler der Behörde benennen; allgemeiner Hinweis auf Unverhältnismäßigkeit genügt nicht — Tatbestand, Rechtsfehler und Schadensberechnung sind jeweils gesondert darzulegen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-BGH, Beschl. v. 25.10.2019 — **BLw 6/18**, NJW-RR 2020, 121 Rn. 16: Sachverständigenbeweis zur Ertragslage ist im Pachtzins-Anpassungsverfahren regelmäßig erforderlich; Parteivorlage eines Pachtpreisspiegels ersetzt das gerichtliche Gutachten nicht, kann aber als qualifizierter Parteivortrag die Schätzungsgrundlage nach § 287 ZPO beeinflussen.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung Schriftsatz Agrarrecht
 
 §§ 12-24 LwVG (Verfahrensrecht Landwirtschaftsgericht) → § 286 ZPO (freie Beweiswürdigung) → § 287 ZPO (Schätzung Ertragslage, Pachtzins) → § 24 VwVfG (Amtsermittlung Agrarbehörde) → § 114 VwGO (gerichtliche Kontrolldichte Verwaltungsentscheidung) → § 80 Abs. 5 VwGO (Eilrechtsschutz bei Rückforderung)
 
-### Kommentarliteratur
+### Quellenregel
 
-- Keidel, LwVG, 7. Aufl. 2019: Verfahrensrecht im Landwirtschaftsgericht; Substantiierungsanforderungen, Beweislast, Sachverständiger.
-- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. II (Prozessrecht): Schriftsatz-Standards in Agrar- und Verwaltungssachen.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

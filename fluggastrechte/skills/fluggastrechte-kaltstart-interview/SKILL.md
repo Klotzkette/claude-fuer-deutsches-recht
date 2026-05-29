@@ -1,6 +1,6 @@
 ---
 name: fluggastrechte-kaltstart-interview
-description: "Kaltstart-Interview fuer das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md. Bei Erstinstallation laufen lassen. Mit --redo neu interviewen. Disclaimer Selbstmandat ersetzt nicht anwaltliche Pruefung im Streitfall."
+description: "Kaltstart-Interview für das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md. Bei Erstinstallation laufen lassen. Mit --redo neu interviewen. Disclaimer Selbstmandat ersetzt nicht anwaltliche Prüfung im Streitfall."
 ---
 
 # /fluggastrechte:fluggastrechte-kaltstart-interview
@@ -53,13 +53,12 @@ Profil wird geschrieben. Empfohlene nächste Skills:
 - **VO (EG) Nr. 261/2004** — Fluggastrechteverordnung des Europaeischen Parlaments und des Rates.
 - **EuGH-Rechtsprechung** — Auslegungsmaßstab für alle Mitgliedstaaten.
 - **BGB §§ 631 ff.** — Reisevertrag bei Pauschalreisen ergänzend.
-- **§§ 12 13 ZPO** Gerichtsstand allgemein, **EuGH C-204/08 Rehder** Wahlrecht Abflug- oder Zielort für EU-Fluege.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verjährung** drei Jahre § 195 BGB (Ende Kalenderjahr Kenntnis § 199 Abs. 1 BGB).
 
 ## Leitentscheidungen Kaltstart / Eingangsinterview
 
-- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — Massgebliche Anspruchsvoraussetzungen VO 261/2004; Verspaetung, Annullierung oder Nichtbefoerderung als Anknuepfungspunkte.
-- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Erstgespreaech-relevante Informationen: PNR, Flugdaten, Ankunftszeit; ohne vollstaendige Daten keine Anspruchsbewertung moeglich.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hinweise
 

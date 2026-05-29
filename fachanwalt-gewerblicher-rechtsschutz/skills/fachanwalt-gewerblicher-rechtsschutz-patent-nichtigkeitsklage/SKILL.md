@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
-description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgruende. Pruefraster: Nichtigkeitsgrund Stand der Technik erfinderische Taetigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht fuer Verletzungsverfahren (§ 139 PatG)."
+description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Tätigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht für Verletzungsverfahren (§ 139 PatG)."
 ---
 
 # Patent-Nichtigkeitsklage
@@ -54,11 +54,7 @@ description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung d
 
 ## Zentrale Rechtsprechung
 
-- BGH, Urt. v. 17.02.2015 – X ZR 47/13, GRUR 2015, 573 Rn. 23 – Zugzylinder: Anspruch auf erfinderische Taetigkeit ist aus Sicht des Durchschnittsfachmanns zum Anmeldetag zu beurteilen; Rueckschaufehlervermeidung (ex-ante-Betrachtung).
-- BGH, Urt. v. 11.02.2014 – X ZR 107/12, GRUR 2014, 542 Rn. 18 – Kommunikationskanal: Fuer Nichtneuheit genuegt es, dass jedes Merkmal des Anspruchs fuer sich in einer einzigen Entgegenhaltung offenbart ist; kombinierte Entgegenhaltungen setzen Nahelegen voraus.
-- BGH, Urt. v. 20.12.2011 – X ZR 33/09, GRUR 2012, 380 Rn. 35 – Beschlagfreie Scheibe: Beschraenkung des Patentanspruchs nach § 65 PatG muss am Offenbarungsinhalt der Anmeldeunterlagen orientiert bleiben; Neu-Anspruch darf nicht ueber urspruenglich Offenbartes hinausgehen.
-- BGH, Urt. v. 05.10.2021 – KZR 35/17, NJW 2022, 291 Rn. 78 – FRAND-Bedingungen: Inhaber eines standard-essentiellen Patents muss Lizenz zu FRAND-Bedingungen anbieten; Verletzungsklage bei laufenden FRAND-Verhandlungen kann missbräuchlich sein.
-- EuGH, Urt. v. 16.07.2015 – C-170/13, GRUR Int. 2015, 925 Rn. 55 – Huawei/ZTE: SEP-Inhaber muss vor Einleitung des Verletzungsverfahrens FRAND-Angebot unterbreiten; Nichtigkeitsklage parallel zu FRAND-Verhandlungen zulaessig.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zustaendigkeit und Bifurkation
 
@@ -122,13 +118,9 @@ Schritt 8: Berufung BGH (wenn noetig)
   → Frist: 1 Monat nach Urteilszustellung (§ 110 Abs. 1 PatG)
 ```
 
-## Kommentarliteratur
+## Quellenregel
 
-- Benkard, Patentgesetz (Beck) — §§ 3, 4, 21, 22, 81 PatG
-- Schulte, PatG mit EPUe (Heymanns) — Nichtigkeitsklage und BPatG-Verfahren
-- Mes, PatG / GebrMG (Beck) — Praxiskommentar Verletzung und Nichtigkeit
-- Kraßer/Ann, Patentrecht (Beck) — Lehrbuch Grundlagen
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.

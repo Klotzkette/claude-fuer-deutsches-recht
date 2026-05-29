@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-erbrecht-erbschaftsausschlagung
-description: "Erbschaftsausschlagung erlaeutern und Erklaerung formulieren wenn Erbe ueberschuldet ist oder sonstige Gruende vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Pruefraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklaerung Antragsentwurf. Abgrenzung: nicht fuer Pflichtteilsausschlagung oder Erbverzicht."
+description: "Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht."
 ---
 
 # Erbschaftsausschlagung
 
 ## Zweck
 
-Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
+Beratung bei Frage "Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
 
 ## 1) Eingangs-Abfrage
 
@@ -59,7 +59,7 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 ### Bei Sozialhilfe-Beziehern
 
 - **Sozialhilfe-Träger kann Ausschlagung anfechten** § 138 BGB (Sittenwidrigkeit) bei drohender Sozialhilfe-Belastung
-- BGH NJW 2006, 2113 zur Anfechtungs-Voraussetzung
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 5) Strategische Erwaegungen
 
@@ -147,10 +147,7 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 
 ## 10) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.10.2007 — IV ZR 134/06, NJW 2008, 218 Rn. 14 — Konkludente Erbschaftsannahme durch Konten-Verfügung oder Wohnungsauflösung; Erbe gilt dann als angenommen, Ausschlagung nicht mehr möglich.
-- BGH, Beschl. v. 19.4.2018 — IV ZB 11/17, NJW 2018, 2636 Rn. 18 — 6-Monatsfrist bei Auslandsaufenthalt des Erblassers (§ 1944 Abs. 3 BGB) gilt auch wenn Erbe selbst im Inland wohnt; massggeblich ist letzter gewöhnlicher Aufenthalt des Erblassers.
-- BGH, Urt. v. 19.1.2011 — IV ZR 7/10, NJW 2011, 1353 Rn. 22 — Sittenwidrige Ausschlagung zugunsten des Sozialamts; Sozialhilfeträger kann Ausschlagung nach § 138 BGB anfechten wenn ausschlagender Erbe Sozialhilfe bezieht und Ausschlagung das Sozialamt schadigt.
-- BGH, Beschl. v. 25.09.2019 — IV ZB 8/19, FamRZ 2019, 1936 Rn. 11 — Anfechtung der Ausschlagung (§ 1954 BGB) wegen Irrtums über Nachlasswert: Irrtum über Wertverhältnisse ist Eigenschaftsirrtum; Anfechtung zulässig wenn Erbe von wesentlich höherem Nachlass-Aktiva-Wert keine Kenntnis hatte.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -159,5 +156,4 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 - `fachanwalt-erbrecht-testamentsentwurf` — bei Nachfolge-Planung
 
 <!-- AUDIT 27.05.2026 bundle_021
-Prüfung: BGH IV ZR 113/15 – AZ in dieser Datei nicht vorhanden; kein Handlungsbedarf. Alle 4 enthaltenen BGH-Entscheidungen (IV ZR 134/06, IV ZB 11/17, IV ZR 7/10, IV ZB 8/19) auf dejure.org verifiziert und thematisch korrekt.
 -->

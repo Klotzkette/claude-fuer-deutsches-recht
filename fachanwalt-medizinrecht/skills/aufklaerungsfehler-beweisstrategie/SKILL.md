@@ -1,6 +1,6 @@
 ---
 name: aufklaerungsfehler-beweisstrategie
-description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB. Beweislast fuer ordnungsgemaesse Aufklaerung beim Arzt § 630h Abs. 2 BGB. Inhalts-Anforderungen Risiken Folgen Alternativen Diagnose Prognose wirtschaftliche Aufklaerung § 630c Abs. 3 BGB. Zeitpunkt rechtzeitig Patient soll frei entscheiden koennen. Form muendlich plus schriftliche Unterlagen. Hypothetische Einwilligung als Verteidigung. Substantiierter Entscheidungskonflikt. BGH VI ZR 320/00 VI ZR 87/15 Aufklaerungs-Pflichten-Linie."
+description: "Workflow-Skill zu aufklaerungsfehler beweisstrategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # Aufklärungsfehler — Beweisstrategie
@@ -9,7 +9,7 @@ description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB.
 
 1. Welcher Eingriff war Gegenstand der Aufklärung — elektiver oder dringlicher Eingriff, ambulant oder stationär? Begründung: Zeitanforderungen differieren.
 2. Wer hat aufgeklärt — Operateur persönlich oder Assistenzarzt? Begründung: § 630e Abs. 2 Nr. 1 BGB verlangt Arzt mit ausreichender Ausbildung, idealerweise den Operateur selbst.
-3. Wann genau erfolgte die Aufklärung — wie viele Tage/Stunden vor dem Eingriff? Begründung: Rechtzeitigkeitsgebot; BGH VI ZR 320/00 — bei stationärem Eingriff Vortag grundsätzlich genügend.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Wurden konkrete eingriffsspezifische Risiken besprochen — welche wurden genannt, welche fehlen?
 5. Wurde über Behandlungsalternativen gesprochen (konservativ, abwartend, Alternativmethode)? Begründung: fehlt regelmäßig, obwohl § 630e Abs. 1 Satz 3 BGB ausdrücklich fordert.
 6. Liegt ein Aufklärungsbogen vor — handschriftliche Eintragungen oder nur Standardtext?
@@ -28,14 +28,7 @@ description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB.
 
 ### BGH-Rechtsprechung
 
-- BGH, Urt. v. 17.03.1998 — **VI ZR 320/00**: Aufklärungsgespräch kurz vor Anästhesie unzureichend; bei stationärem Eingriff Aufklärung im Verlaufe des Vortages grundsätzlich genügend; persönliches Gespräch unverzichtbar.
-- BGH, Urt. v. 25.03.2003 — **VI ZR 131/02**: stationärer Eingriff — Aufklärung Vortag genügend, sofern ausreichend Bedenkzeit.
-- BGH, Urt. v. 14.06.1994 — **VI ZR 178/93**: ambulante Eingriffe — Aufklärung am Tag des Eingriffs selbst grundsätzlich ausreichend.
-- BGH, Urt. v. 20.12.2022 — **VI ZR 375/21**: keine zwingende Sperrfrist zwischen Aufklärung und Einwilligung; Gesamtbetrachtung.
-- BGH, Urt. v. 14.06.1994 — **VI ZR 260/93**: substantiierter Entscheidungskonflikt — Formulierung durch Patient; nicht bloße Behauptung.
-- BGH, Urt. v. 11.10.2016 — **VI ZR 130/16**: hypothetische Einwilligung — strenger Maßstab; Arzt muss Einwilligung bei richtiger Aufklärung positiv belegen.
-- BGH, Urt. v. 28.01.2014 — **VI ZR 87/15**: Aufklärung über neue Methode mit weniger Erfahrungswerten.
-- BGH, Urt. v. 10.12.2019 — **VI ZR 198/10**: Sprachbarriere — Pflicht zur Bereitstellung eines Dolmetschers oder anderssprachigen Bogens.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -51,7 +44,7 @@ description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB.
 | 8 | Wirksame Einwilligung | § 630d BGB | Einwilligungsfähig? Ausreichend informiert? |
 | 9 | Beweislastumkehr | § 630h Abs. 2 BGB | Arzt hat Beweis für ordnungsgemäße Aufklärung? |
 | 10 | Kausalität Aufklärungsmangel — Schaden | § 630h Abs. 2 BGB analog | Eingetretene Folge von nicht aufgeklärtem Risiko? |
-| 11 | Hypothetische Einwilligung | BGH VI ZR 130/16 | Arzt: Patient hätte auch eingewilligt? Patient: Entscheidungskonflikt? |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Schadensumfang | §§ 249, 253 BGB | Körperverletzung rechtswidrig = alle Schadensfolgen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -142,7 +135,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
    last fuer eine ordnungsgemaesse Aufklaerung und eine
    wirksame Einwilligung. Diese Beweislast kann mit dem
    vorgelegten Standard-Aufklaerungsbogen nicht erfuellt werden
-   (BGH VI ZR 320/00).
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Keine hypothetische Einwilligung
    Die Beklagte kann sich nicht mit Erfolg auf eine
@@ -151,7 +144,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
    einem plausiblen Entscheidungskonflikt, weil [konkret:
    Familienplanung, weniger invasive Alternative bekannt etc.].
    Dies ergibt sich aus [Mandantenvortrag + ggf. Zeuge].
-   (BGH VI ZR 260/93)
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---
@@ -184,15 +177,14 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 | Einwand Arzt | Reaktion Patient |
 |---|---|
-| Aufklärungsbogen liegt unterschrieben vor | Allein Bogen ohne Gespräch unzureichend (BGH VI ZR 320/00); mangelnde Individualisierung belegt formale Aufklärung |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Patient kannte Risiko aus früherer Behandlung | Aufklärungspflicht bleibt bei jedem Eingriff; früheres Wissen entlastet nur bei identischen Risiken und sehr kurzem Abstand |
 | Eingriff war eilbedürftig | § 630d Abs. 1 Satz 4 BGB — bei Notfall mutmaßliche Einwilligung; Eilbedürftigkeit muss dokumentiert sein |
-| Telefon-Aufklärung ausreichend | BGH VI ZR 96/05 — persönliches Gespräch grundsätzlich erforderlich; Telefon nur in dokumentierten Ausnahmen |
-| Hypothetische Einwilligung — jeder hätte zugestimmt | BGH VI ZR 130/16 — strenger Maßstab; Arzt muss individuell und konkret vortragen |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
-- Schmerzensgeld bei Eingriff ohne wirksame Einwilligung (rechtswidrige Körperverletzung): 500–30.000 EUR je nach Schwere; OLG-Tabellen und Hacks/Wellner/Häcker.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Materieller Schadensersatz: Heilbehandlungskosten, Verdienstausfall, Haushaltführungsschaden additiv.
 - Gerichtskosten LG bei 20.000 EUR Streitwert: ca. 979 EUR (GKG-Anlage 1).
 - RVG Anwalt: 1,3-fache Verfahrensgebühr + 1,2-fache Terminsgebühr; bei 20.000 EUR ca. 2.000 EUR netto.
@@ -216,7 +208,6 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 ## Quellen
 
 - BGB §§ 630c, 630d, 630e, 630h, 249, 253
-- BGH VI ZR 320/00; VI ZR 131/02; VI ZR 178/93; VI ZR 375/21; VI ZR 260/93; VI ZR 130/16; VI ZR 87/15; VI ZR 198/10
-- Geiß/Greiner Arzthaftpflichtrecht, 8. Aufl.
-- Spickhoff Medizinrecht, 3. Aufl.
-- Hacks/Wellner/Häcker Schmerzensgeld-Beträge
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
+- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

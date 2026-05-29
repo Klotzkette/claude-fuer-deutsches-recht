@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-deal-verstaendigung
-description: "Verstaendigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB."
+description: "Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB."
 ---
 
 # Verstaendigung im Strafbefehlsverfahren — § 257c StPO
@@ -26,18 +26,11 @@ description: "Verstaendigung nach § 257c StPO im Strafbefehlsverfahren. Vorauss
 
 ## Aktuelle Rechtsprechung
 
-- BVerfG, Urt. v. 19.03.2013 - 2 BvR 2628/10 u.a., NJW 2013, 1058 — Verstaendigung nach § 257c StPO ist verfassungsrechtlich zulaessig aber nur unter strikter Einhaltung der gesetzlichen Vorgaben; informelle Absprachen ausserhalb des Gerichtssaals verstoessen gegen Art. 2 Abs. 1 GG i.V.m. dem Rechtsstaatsprinzip.
-- BGH, Urt. v. 28.07.2016 - 3 StR 153/16, NStZ 2017, 48 — Belehrungsfehler nach § 257c Abs. 5 StPO fuehrt bei kausalem Gestaendnis zu Revisionserfolg; Beschuldigter muss wissen, dass Verstaendigung nicht bindend ist wenn sich Sachlage aendert.
-- BGH, Beschl. v. 20.09.2016 - 3 StR 326/16, NJW 2017, 98 — § 257c StPO ist abschliessende Regelung; zusaetzliche informelle Zusagen ueber Rechtsfolgen ausserhalb des foermlichen Verfahrens sind unwirksam und koennen Revisionsgrund sein.
-- BGH, Urt. v. 10.07.2013 - 2 StR 195/12, NJW 2013, 3256 — Taeter-Opfer-Ausgleich nach § 46a StGB setzt ernsthafte und erfolgreich abgeschlossene Bemuehungen um Wiedergutmachung voraus; finanzielle Zahlung allein genuegt nicht.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Meyer-Gossner/Schmitt StPO § 257c Rn. 1-45 (vollstaendige Kommentierung)
-- SK-StPO / Velten § 257c (kritische Wuerdigung nach BVerfG)
-- Fischer StGB § 46a Rn. 1-25 (TOA Voraussetzungen und Wirkung)
-- MueKo StGB / Maier § 46a Rn. 1-30 (Taeter-Opfer-Ausgleich in der Praxis)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Abgrenzung: Wann welches Instrument?
 
 | Instrument | Geeignet wenn | Vorteil |

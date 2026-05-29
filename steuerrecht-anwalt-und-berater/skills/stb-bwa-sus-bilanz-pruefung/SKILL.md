@@ -1,13 +1,13 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "BWA SuSa Summen- und Saldenliste und Bilanzentwurf einer GmbH oder UG auf insolvenzrechtliche Krisensignale pruefen. Anwendungsfall Steuerberater erstellt Jahresabschluss BWA-Review oder Krisenfrueherkennung und muss Hinweispflicht nach § 102 StaRUG beurteilen. Pruefung Zahlungsunfaehigkeit § 17 InsO Ueberschuldung § 19 InsO Fortbestehensprognose Warn- und Hinweispflicht § 102 StaRUG. BGH-Haftungsrechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18. Output Krisensignal-Protokoll Ampel-Bewertung ggf. Pflichthinweis Uebergang zu stb-ueberschuldungspruefung-19-inso."
+description: "Workflow-Skill zu stb bwa sus bilanz pruefung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)
 
 ## Kernsachverhalt
 
-Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschlüsse für GmbH/UG-Mandanten. Dabei ist er strukturell der erste externe Berater, der Krisensignale erkennt. Die BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18) und § 102 StaRUG verpflichten ihn, bei offenkundigen Krisensignalen ausdrücklich zu warnen. Unterlässt er dies, haftet er persönlich für Verschleppungsschäden. Dieser Skill führt die Prüfung systematisch durch und generiert ggf. einen Pflichthinweis.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -25,7 +25,7 @@ Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschl�
 
 ### Primärnormen
 
-**§ 17 InsO** — Zahlungsunfähigkeit: Liquiditätslücke ≥ 10 %, nicht beseitigbar binnen 3 Wochen (BGH BGHZ 163, 134).
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 19 InsO** — Überschuldung: Vermögen deckt Verbindlichkeiten nicht, es sei denn positive Fortbestehensprognose. Prognosezeitraum 24 Monate (SanInsKG, gültig bis 31.12.2026).
 
@@ -45,11 +45,7 @@ Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschl�
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH IX ZR 123/04 | BGHZ 163, 134 | 24.05.2005 | Zahlungsunfähigkeit: 10-%-Lücke und 3-Wochen-Frist; Abgrenzung zur Zahlungsstockung |
-| BGH IX ZR 228/03 | NJW 2007, 78 | 12.10.2006 | Beweisanzeichen: Stundungsanträge, Nichtzahlung SV-Abgaben, Rücklastschriften |
-| BGH II ZR 233/18 | NJW 2020, 1809 | 19.11.2019 | Fortbestehensprognose: tragfähiges Konzept + Finanzplan; überwiegende Wahrscheinlichkeit |
-| BGH IX ZR 285/14 | NJW 2017, 1611 | 26.01.2017 | StB-Haftung: Hinweispflicht bei Krisensignalen aus Buchhaltung; Vorläufer § 102 StaRUG |
-| BGH II ZR 298/11 | BGHZ 195, 42 | 09.10.2012 | Insolvenzrechtliche ≠ handelsbilanzielle Überschuldung; Fortführungs-/Liquidationswerte |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema BWA/SuSa/Bilanz
 
@@ -91,8 +87,7 @@ Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschl�
 | "Negatives Eigenkapital ist nur buchhalterisch — Stille Reserven gleichen aus" | Stille Reserven konkret quantifizieren; Nachweis durch Sachverständige erforderlich; bloße Behauptung genügt nicht |
 | "Going concern rechtfertigt Fortführungsannahme" | § 252 Abs. 1 Nr. 2 HGB: nur solange keine entgegenstehenden Anhaltspunkte; bei Krisensignalen schriftliche Begründung Pflicht |
 | "Gesellschafterdarlehen ist nachrangig" | Qualifizierter Rangrücktritt nach § 39 Abs. 2 InsO prüfen; einfacher Rangrücktritt lässt Verbindlichkeit im Status |
-| "§ 102 StaRUG-Schwelle nicht erreicht — keine offenkundigen Signale" | BGH NJW 2017, 1611: bereits bei erkennbaren Krisensignalen; nicht erst manifeste Insolvenzreife |
-| "StB haftet nicht — er erstellt nur Buchhaltung" | BGH IX ZR 285/14: auch laufende Buchhaltungsbetreuung begründet Hinweispflicht |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -173,7 +168,7 @@ dringend die unverzügliche Konsultation eines Fachanwalts für
 Insolvenz-/Sanierungsrecht oder Steuerrecht.
 
 Als Ihr Steuerberater leisten wir mit diesem Schreiben den nach
-BGH IX ZR 285/14, IX ZR 64/12, IX ZR 104/18 obliegenden Hinweis.
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Eine rechtliche Beurteilung der Antragspflicht ist uns nach § 5 RDG
 nicht erlaubt.
 
@@ -199,7 +194,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Position | Berechnung | Hinweis |
 |---|---|---|
-| StB-Haftung bei unterlassenem Hinweis | Verschleppungsschaden = Differenz Insolvenzmasse mit/ohne Verschleppung | BGH IX ZR 285/14; kann erheblich sein |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kosten Krisenprüfung | Steuerberater-Gebühren nach StBVV; ggf. Zeithonorar | Auftrag klar vereinbaren |
 | Kosten Sachverständigengutachten stille Reserven | EUR 1.500–8.000 je nach Umfang | Lohnt bei größeren Gesellschaften |
 | Kosten Sanierungskonzept IDW S 6 | EUR 10.000–50.000+ je nach Komplexität | WP/StB-Kanzlei mit Sanierungserfahrung |
@@ -227,13 +222,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - StaRUG §§ 1, 102
 - StBerG §§ 1, 33
 - RDG § 5
-- BGH IX ZR 123/04 = BGHZ 163, 134
-- BGH IX ZR 228/03 = NJW 2007, 78
-- BGH II ZR 233/18 = NJW 2020, 1809
-- BGH IX ZR 285/14 = NJW 2017, 1611
-- BGH IX ZR 64/12 (drohende Insolvenzreife)
-- BGH IX ZR 104/18 (Substantiierungslast StB)
-- BGH II ZR 298/11 = BGHZ 195, 42
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzept) / IDW S 11 (Insolvenzeröffnungsgründe)
 - K. Schmidt/Herchen, InsO § 17 Rn. 5–35
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
+
+<!-- AUDIT 27.05.2026 | welle 5c | IX ZR 104/18 (familienrechtlich, NJW 2019, 2770 erfunden) ersetzt durch IX ZR 56/22 (BGH 29.06.2023, NJW 2023, 2775 = ZIP 2023, 1740, Drittschutz Hinweis- und Warnpflicht bei moeglichem Insolvenzgrund) -->

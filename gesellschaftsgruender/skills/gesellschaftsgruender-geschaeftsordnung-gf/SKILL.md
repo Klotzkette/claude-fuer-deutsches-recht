@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsordnung-gf
-description: "Geschaeftsordnung fuer GmbH-Geschaeftsfuehrung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Pruefraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschaeftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung."
+description: "Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung."
 ---
 
 # Geschäftsordnung Geschäftsführung
@@ -26,17 +26,11 @@ Klaere vor Erstellung der Geschaeftsordnung:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 14.10.1991 – II ZR 239/90, NJW 1992, 499** — Verstoss des GF gegen Zustimmungsvorbehalt der Gesellschafterversammlung (z.B. Kreditaufnahme ueber Schwelle) begruendet Schadensersatzpflicht nach § 43 GmbHG; nach aussen bleibt das Rechtsgeschaeft wirksam (keine Aussenwirkung des Vorbehalts).
-- **BGH, Urt. v. 25.02.2002 – II ZR 374/00, BGHZ 150, 61** — Die Geschaeftsordnung kann wesentliche Pflichten und Zustimmungskataloge fuer Geschaeftsfuehrer festlegen; Verletzung dieser Pflichten ist ein Pflichtversto nach § 43 GmbHG und kann Abberufungsgrund darstellen.
-- **OLG Hamburg, Urt. v. 05.06.2020 – 11 U 108/19, GmbHR 2020, 978** — Patt-Situation bei zwei Geschaeftsfuehrern ohne Eskalationsmechanismus fuehrt zur Handlungsunfaehigkeit; Gesellschafterversammlung muss nach § 49 GmbHG einberufen werden; Notgeschaeftsfuehrung nach § 29 BGB analog kann Abhilfe schaffen.
-- **BGH, Urt. v. 19.01.2009 – II ZR 148/07, NZG 2009, 393** — Zustimmungspflichtige Geschaefte koennen auch nachtraeglich genehmigt werden; rueckwirkende Genehmigung durch Gesellschafterversammlung heilt den Innenpflichtversto.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Kommentarliteratur
+## Quellenregel
 
-- Scholz/Verse, GmbHG, 13. Aufl., § 37 Rn. 1-80 (Weisungsgebundenheit; Zustimmungsvorbehalte; Aussenwirkung)
-- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 37 Rn. 1-40 (Geschaeftsordnung; Erlass durch GV)
-- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 43 Rn. 1-60 (Sorgfaltspflichten; Haftung bei Verletzung Zustimmungsvorbehalt)
-
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Geschaeftsordnung-Qualitaet
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
@@ -46,7 +40,7 @@ Klaere vor Erstellung der Geschaeftsordnung:
 | 3 | SHA-Berichtspflichten gespiegelt? | SHA | Investor-Infos rechtzeitig |
 | 4 | Beirats-Zustimmungsvorbehalte koordiniert? | § 52 GmbHG | Doppel-Genehmigungen vermeiden |
 | 5 | Erlass durch GV oder GF selbst? | § 46 Nr. 6 GmbHG | Aenderbarkeit festlegen |
-| 6 | Aussenwirkung beachtet? | BGH NJW 1992, 499 | Kein Gutglaubensschutz fuer Gesellschaft |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Schritt-fuer-Schritt-Workflow
 
@@ -115,7 +109,7 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 
 ## Rote Schwellen
 
-- Verletzung Zustimmungsvorbehalt: Innen-Haftung GF (§ 43 GmbHG); Abberufungsgrund — trotzdem wirksam nach aussen (BGH NJW 1992, 499)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Patt ohne Mechanismus bei 2 GF: Gesellschaft handlungsunfaehig; GV-Einberufung nach § 49 GmbHG
 - Keine Eskalationsregel: GF koennen wichtige Entscheidungen blocken -> teure Streitigkeiten
 - Zu hohe Schwellen: Geschaeftsordnung faktisch leer; Kontrollzweck nicht erfullt
@@ -123,8 +117,8 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 ## Quellen und Vertiefung
 
 - §§ 37, 43, 46 Nr. 6, 49 GmbHG
-- BGH NJW 1992, 499; BGH BGHZ 150, 61 (2002); OLG Hamburg GmbHR 2020, 978; BGH NZG 2009, 393
-- Scholz/Verse § 37; Lutter/Hommelhoff § 37; Baumbach/Hueck § 43
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills
 
