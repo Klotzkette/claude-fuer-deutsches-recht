@@ -1,3 +1,27 @@
+# v39.0.0 — Codex-Round-5: CO2KostAufG-Praezisierung (§ 3-Pflichtangaben + § 8 Nichtwohngebaeude 2025)
+
+Zwei Codex-Findings zur Testakte `testakten/weg-hausverwaltung-hohenzollernhof/11-co2kostaufg-aufteilungspruefung.md`:
+
+## Findings
+
+- **§ 3 vs. § 5/§ 7 — Primaerdaten von Berechnungsfeldern trennen.** Das Beanstandungsschreiben fuehrte `gebaeudespezifischer Wert in kg CO2/m2/a` und `Einstufung in die Anlage zu § 5` als angeblich vom Gaslieferanten nach § 3 CO2KostAufG zu uebermittelnde Angaben auf. Tatsaechlich kennt der Lieferant weder die relevante Wohnflaeche noch die resultierende § 5-Stufe; § 3 Abs. 1 Nr. 1-5 schuldet nur (1) Brennstoffemissionen in kg CO2, (2) CO2-Preisbestandteil in EUR, (3) heizwertbezogener Emissionsfaktor in kg CO2/kWh, (4) Energiegehalt in kWh, (5) Hinweis auf Erstattungsansprueche §§ 6 Abs. 2, 8 Abs. 2. `gebaeudespezifischer Wert` und `Einstufung` sind § 5/§ 7-Berechnungen des Vermieters. Klarstellung im Datenpflichten-Abschnitt, im Beanstandungsschreiben und im Hinweis fuer die Verwalterin eingebaut.
+- **§ 8 CO2KostAufG — Stufenmodell fuer Nichtwohngebaeude 2025 noch nicht operativ.** Der frueher Abschnitt schrieb `ab 01.01.2025 auch Nichtwohngebaeude im Stufenmodell`. § 8 Abs. 4 sieht aber nur vor, dass die haelftige Aufteilung im Jahr 2025 abgeloest werden soll; ein operatives Stufenmodell fuer Nichtwohngebaeude ist im Gesetzestext noch nicht enthalten. Bis zur Einfuehrung der Tabelle gilt nach § 8 Abs. 1 weiterhin **50/50** (Vereinbarungen ueber mehr als 50 % Mieteranteil unwirksam). Korrigiert in der Anwendungsbereichs-Beschreibung und im Berechnungsabschnitt.
+
+Quelle (verifiziert): https://www.gesetze-im-internet.de/co2kostaufg/__3.html, https://www.gesetze-im-internet.de/co2kostaufg/__8.html
+
+## Plugin-Versionsbumps
+
+- `weg-hausverwaltung` 37.0.0 → 38.0.0
+- `.claude-plugin/marketplace.json` synchronisiert
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v38.0.0 — Sanity-Check Tax + Bug-Fix § 1 Abs. 3 GrEStG statt AO
 
 Sanity-Check des Tax-Commits `4ab560c2` (16 neue GrESt- und Grundsteuer-Skills, zwei neue Testakten). Validatoren alle grün, Rechtsstand-Anker verifiziert (§ 6a GrEStG noch 95 %, BFH II B 13/25, II B 23/25, II B 47/25, BFH II R 25/24 zum Bundesmodell, BVerfG 1 BvL 11/14). Ein Bug gefunden und behoben.
