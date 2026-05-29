@@ -112,9 +112,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ### 5. Spezial-Skills in diesem Plugin
 
-| Skill | Wann vorschlagen? |
-|---|---|
-| `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB… |
+| Skill | Wann vorschlagen? | Erwarteter Output |
+|---|---|---|
+| `methodenlehre-anwenden` | Immer dann, wenn eine zivilrechtliche Frage methodisch sauber gepruft werden soll: Anspruchsgrundlagen-Reihenfolge, Auslegung der einschlaegigen Norm nach Wortlaut/System/Historie/Telos, Lueckenfuellung durch Analogie oder teleologische Reduktion, Pruefung von Generalklauseln nur als Auffangargument. Auch fuer Memo-Strukturierung, Schriftsatzentwurf und die Selbstkontrolle der eigenen Argumentation. | Strukturierte Rechtsbewertung im Gutachtenstil mit Anspruchsgrundlagen-Pruefung, Auslegungsbegruendung, Verjaehrungs- und Beweislast-Check, sauber belegt nach Hauszitierweise. |
+
+**Routing-Faustregel:**
+
+- *Schnelle Erstbewertung einer zivilrechtlichen Frage* → `methodenlehre-anwenden` direkt aktivieren.
+- *BGB-AT-Detailpruefung (Vertragsschluss, Anfechtung, Stellvertretung, Form, Verjaehrung)* → Plugin `bgb-at-pruefer` zusaetzlich hinzuladen; dieses Plugin bleibt die methodische Klammer.
+- *Zitierfragen* → Plugin `zitierweise-deutsches-recht`.
+- *Konkrete Rechtsgebiete* (Erbrecht, Arbeitsrecht, Familienrecht, Gesellschaftsrecht etc.) → das jeweilige Fachplugin; die Methodenlehre dieses Plugins gilt als Grundierung.
 
 ## Qualitätsversprechen
 

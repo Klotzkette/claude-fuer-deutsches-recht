@@ -1,3 +1,33 @@
+# v47.2.0 — Plugin methodenlehre-buergerliches-recht: README und Skills geschaerft
+
+Das Plugin `methodenlehre-buergerliches-recht` wurde an drei Stellen verbessert; die alte Breaking-Change-Sektion in der README ist entfernt, weil sie seit dem Plugin-Rename in v3.0 ihren Zweck erfuellt hat und nun nur noch Laerm war.
+
+## README
+
+- Sektion `Breaking Change in v3.0` entfernt.
+- Neue Sektion `Was dieses Plugin konkret macht`: praezise Beschreibung der Plugin-Leistung mit allen Komponenten (Anspruchsgrundlagen-Reihenfolge, vier Kanones plus zwei Querschnittskanones, Lueckenfuellung, Generalklauseln, Querschnittsthemen, Verbotsliste, Memo-Standardstruktur, Selbstpruefungs-Checkliste).
+- Skill-Tabelle um den `allgemein`-Skill erweitert (war bisher untertabelliert).
+- Neuer Abschnitt `Verknuepfung mit anderen Plugins`.
+
+## Skill `methodenlehre-anwenden`
+
+- Neue Begruendung der Anspruchsgrundlagen-Reihenfolge (Speziellere vor Allgemeineren, rechtsgeschaeftliche Bindung vor gesetzlichen Schuldverhaeltnissen, etc.).
+- Drei konkrete Praxisbeispiele zur Gewichtung der Auslegungskanones (§ 199 Abs. 1 BGB, § 138 Abs. 2 BGB, §§ 651a ff. BGB Pauschalreise).
+- Erweiterter Abschnitt zu Rechtsfortbildung mit vier klassischen BGH-Argumentationsmustern (Vertrag mit Schutzwirkung, Drittschadensliquidation, c.i.c. vor 2002, Verwirkung/Treuwidrigkeit ueber § 242 BGB).
+- Neuer Hinweis zu typischen Fehlanwendungen von Generalklauseln als Erstargument.
+- Verbotsliste um Punkt "keine ergebnisorientierte Rueckwaerts-Subsumtion" erweitert.
+- Selbstpruefungs-Checkliste um Rechtsfortbildungs-Frage erweitert.
+- Verlinkung zu `bgb-at-pruefer` ergaenzt.
+
+## Skill `allgemein`
+
+- Sektion `Spezial-Skills in diesem Plugin`: aussagekraeftige Beschreibung statt Trunkierung; neue Spalte `Erwarteter Output`.
+- Neuer Block `Routing-Faustregel` mit vier konkreten Weiterleitungen (BGB-AT-Detailpruefung zu `bgb-at-pruefer`, Zitierfragen zu `zitierweise-deutsches-recht`, Fachgebiete zu Fachplugins).
+
+## Plugin-Version
+
+- `methodenlehre-buergerliches-recht/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `42.1.0`. Description und Slug unveraendert.
+
 # v47.1.1 — Plugin gesellschaftsrecht-legal-english: Codex-Feedback zu bgb-at-schuldrecht-at-im-ma
 
 Reaktion auf zwei P2-Badges aus dem Codex-Review zu PR #142:
