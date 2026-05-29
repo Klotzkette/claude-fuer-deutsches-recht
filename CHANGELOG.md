@@ -1,3 +1,24 @@
+# v37.0.0 — Codex-Round-4-Fixes: CO2KostAufG-Datenpflichten richtig zuordnen
+
+Drei Codex-Findings zur Testakte `11-co2kostaufg-aufteilungspruefung.md` aus dem v36-PR behoben:
+
+- **Datenpflichten-Basis korrigiert**: `§ 2 Abs. 2 CO2KostAufG` war falsche Anspruchsgrundlage — § 2 regelt nur den Anwendungsbereich. Datenpflichten differenziert nach § 3 (Lieferanteninformation an den Bezieher = WEG/Verwalter), § 5 (Stufentabelle/Anlage), § 6 (Begrenzung Umlagefähigkeit/Erstattungsanspruch Mieter), § 7 Abs. 3 und 4 (Vermieter-Abrechnungspflicht gegenüber Mieter), § 8 (Nichtwohngebäude). Praxis-Klarstellung: die WEG-Jahresabrechnung muss die CO2-Datenfelder selbst **nicht** ausweisen; die Verwalterin muss die § 3-Lieferantendaten an die vermietenden Eigentümer **weiterreichen**, damit diese ihrer § 7-Pflicht nachkommen können.
+- **Stufe-5-Anteile entreversed**: Das Beanstandungsschreiben hatte "60 % Vermieter / 40 % Mieter" — die Stufentabelle weist Stufe 5 (27–32 kg CO2/m2/a) korrekt mit **60 % Mieter / 40 % Vermieter** aus. Korrigiert.
+- **Endempfehlung konsistent**: Der Schlussabschnitt "Hinweis fuer Verwalterin" empfahl noch die Anwendung des Stufenmodells in der WEG-Heizkostenabrechnung — widersprach der neuen WEG-Analyse. Korrigiert: WEG-interne Verteilung nach HeizkostenV (70/30) bleibt unverändert; Stufenmodell **nicht** in der WEG-Abrechnung; stattdessen separate Anlage "CO2-Lieferantendaten nach § 3 CO2KostAufG" zur Jahresabrechnung. Anfechtungs-Praxisempfehlung entsprechend nachgezogen.
+
+## Plugin-Versionsbumps
+
+- `weg-hausverwaltung` 36.0.0 → 37.0.0
+- `.claude-plugin/marketplace.json` synchronisiert
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v36.0.0 — Codex-Round-3-Fixes: HeizkostenV-Bandbreite, § 18 vs. § 28 WEG, CO2KostAufG WEG-Grenzen, Gewährleistungs-Werkart, § 55a GmbHG, negatives Agio
 
 Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
