@@ -1,3 +1,24 @@
+# v35.0.0 — Agio-Dogmatik in drei Plugins, Codex-Round-2-Fixes, Umlaut-Hygiene Testakte
+
+- **Codex-Round-2-Fixes in `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/`.** Der `§ 14 GmbHG`-Anker für Sonderrechte/Vorzugsanteile wurde in den Dateien `06-associate-arbeitsstand.md` und `07-erwarteter-output-ohne-musterloesung.md` durch den korrekten Anker `Satzungsautonomie + § 35 BGB analog` ersetzt; gestützt auf ständige Rechtsprechung (BGHZ 123, 15; BGH II ZR 89/79 = LM BGB § 35 Nr. 4; OLG Nürnberg 12 U 813/99). § 14 GmbHG (Einlagepflicht/Nennbetrag) wird explizit als Nicht-Anker markiert. In `02-cap-table-und-gesellschafterliste.md` wurde der irreführende Verweis auf eine angebliche Subscription-Liste in Datei 03 Ziff. 2 berichtigt — die 4,8/0,4-Aufteilung steht in Datei 02 selbst (CFO-Slack-Thread vom 28.05.2026); Datei 03 Ziff. 2 verlangt nur eine Lead-Mindestquote von 75 Prozent.
+- **Umlaut-Hygiene Testakte.** Sämtliche deutschen Wörter in der Testakte wurden auf korrekte Umlaute (ä/ö/ü/ß) umgestellt. Wortgrenzen-basiertes Ersetzungsskript mit expliziter Wörterliste; englische Termini (gross proceeds, business, issued, less, loss, passu, Voss, Stein, Goetheplatz, ...) bleiben unangetastet. 17 Dateien geändert.
+- **Agio-Dogmatik in drei Plugins.** Echtes/korporatives vs. unechtes/schuldrechtliches Agio bei der GmbH; § 3 Abs. 2 GmbHG mit Dauerwirkung auch bei Kapitalerhöhung; Differenzierung nach Fälligkeit (Fall 1 keine Satzungsaufnahme erforderlich, Fall 2 Eintragungshindernis bei Nichtaufnahme); Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; § 27 KStG steuerliches Einlagekonto. Rechtsprechung verifiziert: BGH II ZR 216/06; BGH BGHZ 80, 129; BGH BGHZ 71, 40 (Kali+Salz); BFH I R 53/08; BFH IX R 12/22.
+  - **Neuer Skill `gesellschaftsrecht/skills/agio-und-kapitalruecklage`** mit voller Dogmatik, Praxismuster-Formulierungen, US-Term-Sheet-Übersetzung und Anfängerfehler-Katalog.
+  - **Neuer Skill `corporate-kanzlei/skills/corporate-kanzlei-agio-und-kapitalerhoehungsstruktur`** mit Schnittstellen-Management (Notar, Steuerberater, Investor Counsel, CFO), Strukturierungsentscheidungen und Streitpunkten in der Praxis.
+  - **Neue Testakten-Datei `24-agio-und-kapitalruecklage-streitfrage.md`** in der Frankfurt-Testakte mit Mandatsbezug (Kometenfalter Series A), Notiz Adelheid von Westarp an Hildemar K., US-Term-Sheet-Bezug (Original Purchase Price, Par Value, APIC, Liquidation Preference) und Aufgabenkatalog für den Associate.
+- **Plugin-Versionsbump.** `gesellschaftsrecht` 29.0.0 → 30.0.0; `corporate-kanzlei` 29.0.0 → 30.0.0; `gesellschaftsrecht-legal-english` 34.0.0 → 35.0.0 in den jeweiligen `<plugin>/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json`.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Forbidden-Frontmatter-Check: keine Treffer
+- description-Längen ≤ 1024 Zeichen, Skill-Namen ≤ 64 ASCII
+- Verifikation aller Rechtsprechungs-Zitate über dejure.org und bundesfinanzhof.de
+
+---
+
 # v34.0.0 - Corporate Legal English didaktisiert, Multi-Format-Testakte
 
 - **`gesellschaftsrecht-legal-english` didaktisch nachgeschärft.** Der `allgemein`-Skill startet jetzt mit einem echten 90-Sekunden-Kaltstart: Sofortdiagnose, Erfahrungslevel, drei Rückfragen, Skill-Routing und Mini-Arbeitsprodukt. Der `rookie-modus` wurde vom bloßen Prüfraster zum Lerncoach mit 30-Minuten-Plan, Begriffskarten, Mini-Übungen und klaren Senior-Review-Gates.

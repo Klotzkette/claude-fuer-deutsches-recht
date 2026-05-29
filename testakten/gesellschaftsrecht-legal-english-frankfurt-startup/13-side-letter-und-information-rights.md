@@ -28,7 +28,7 @@ If the Company grants to any other investor any rights more favourable than thos
 
 The Investor's 1x non-participating liquidation preference granted under the Seed-SHA dated 01.07.2023 shall be preserved and reflected in any subsequent financing documentation.
 
-## Folgenabschaetzung fuer Series A
+## Folgenabschätzung für Series A
 
 1. **Information Rights Stack**. Northbridge wird im Series-A-SHA umfangreiche Informationsrechte verlangen (monthly, quarterly, annual, budget). Stahlauge hat sie bereits. Aufwand für die Mandantin: jedes Reporting-Format einmal sauber aufbauen, dann gleichmäßig an alle Berechtigten verteilen. Klassischer Anfängerfehler: nur an Northbridge schicken und Stahlauge übersehen.
 
@@ -62,7 +62,7 @@ If the Company grants to any other investor in any subsequent financing any righ
 
 For a period of 24 months following Closing, the Company shall procure that no transfer of shares occurs at a valuation higher than 130 percent of the Series A valuation without first consulting the Investor.
 
-## Spannungspunkte fuer Senior-Review
+## Spannungspunkte für Senior-Review
 
 1. **KPI Dashboard im Investor-Format**. Klingt harmlos, ist es aber nicht. Wenn Northbridge ein „bestimmtes Format" vorschreibt, kann das de facto eine kontinuierliche Reporting-Pflicht aus der Geschäftsführung herausnehmen und an die CFO-Funktion delegieren. Mandantin muss die operative Last verstehen.
 

@@ -1,4 +1,4 @@
-# 09 Anfaengerfehler Katalog mit Partner Rotstift
+# 09 Anfängerfehler Katalog mit Partner Rotstift
 
 Lehrmaterial für den ersten Big-Law-Sommer. Auf der linken Seite typische Anfängerformulierungen aus echten Associate-Drafts. Auf der rechten Seite die Korrektur, wie Dr. Adelheid von Westarp sie schreiben würde, mit kurzem Grund.
 
@@ -34,7 +34,7 @@ Lesehinweis: Wer dieselbe Stelle dreimal so verändert bekommt, muss sich die zu
 | „Die Anti-Dilution-Klausel sichert dem Investor ein gesetzliches Bezugsrecht in künftigen Finanzierungsrunden." | „Die Anti-Dilution-Klausel passt das Wandlungsverhältnis (Conversion Ratio) der Vorzugsanteile in einer Down Round an. Sie wirkt rückwirkend auf den wirtschaftlichen Wert der bestehenden Anteile. Das Bezugsrecht ist eine davon zu trennende Frage der Beteiligung an der neuen Kapitalerhöhung und wird typischerweise in einer Pre-Emption-Klausel oder Pro-Rata-Right-Klausel geregelt." |
 | Warum: Anti-Dilution und Bezugsrecht sind komplementär, aber rechtlich unterschiedliche Mechanismen. |
 
-## Fehlerklasse B: Englisch eindeutschen ohne Funktion zu pruefen
+## Fehlerklasse B: Englisch eindeutschen ohne Funktion zu prüfen
 
 ### B1 Reps and Warranties gleich Gewährleistung
 
@@ -64,7 +64,7 @@ Lesehinweis: Wer dieselbe Stelle dreimal so verändert bekommt, muss sich die zu
 | „Die Drag-Along-Klausel räumt den Investoren ein Vorkaufsrecht ein." | „Die Drag-Along-Klausel verpflichtet die Minderheitsgesellschafter, ihre Anteile zu denselben Konditionen wie die ziehende Mehrheit an einen Drittkäufer zu veräußern, sofern die im SHA festgelegten Schwellen erfüllt sind. Es handelt sich um eine Mitverkaufsverpflichtung, nicht um ein Vorkaufsrecht (Right of First Refusal)." |
 | Warum: Vorkaufsrecht regelt die Reihenfolge bei einem geplanten Verkauf, Drag-Along eine Verkaufspflicht an einen identifizierten Dritten. |
 
-## Fehlerklasse C: GmbH-Recht und Notar uebersehen
+## Fehlerklasse C: GmbH-Recht und Notar übersehen
 
 ### C1 SHA-Klausel reicht für Vinkulierung
 
@@ -133,6 +133,6 @@ Lesehinweis: Wer dieselbe Stelle dreimal so verändert bekommt, muss sich die zu
 | „Vor Versand an Investor Counsel würde ich vorschlagen, das interne Briefing freizugeben." | „Vor Versand an Investor Counsel sind die folgenden Senior-Review-Gates verpflichtend: (1) Cap-Table-Rechenmodell durch Counsel verifiziert; (2) Term-Sheet-Übersetzung der Schlüsselbegriffe Partner-freigegeben; (3) Beurkundungspflichten und Notarslot mit Notariat geklärt; (4) steuerliche Folgen mit Steuerberatung abgestimmt; (5) Antworten auf Mandantenfragen im Originalwortlaut der Mandantin verfasst. Erst danach Versand." |
 | Warum: Schreibstil signalisiert die Erwartung an die eigene Sorgfalt. Konjunktive ersetzen keine Gates. |
 
-## Tutoriumseinheit fuer die Praxisrunde
+## Tutoriumseinheit für die Praxisrunde
 
 In der wöchentlichen Praxisrunde der Frankfurter Corporate-Praxis werden zwei der oben gelisteten Fehlerklassen anhand von echten Anonymisierungen durchgegangen. Wer die Aufgabe hat, beim nächsten Termin Lead zu sein, bringt zwei eigene Drafts aus der vergangenen Woche mit, in denen er oder sie eine der Fehlerklassen vermieden hat, und einen Draft, an dem er oder sie noch arbeitet.

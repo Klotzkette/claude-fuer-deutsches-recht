@@ -16,7 +16,7 @@ Frage 3: Kann die Materie durch Satzungsregelung an einen Beirat delegiert oder 
 
 Frage 4: Welcher Zustimmungsweg ist gegenüber Dritten **wirksam**, welcher nur **schuldrechtlich**?
 
-## Mapping fuer die Reserved Matters Liste aus dem Term Sheet
+## Mapping für die Reserved Matters Liste aus dem Term Sheet
 
 | Reserved Matter (Term Sheet) | Deutsche Umsetzung | Ebene | Rechtsgrundlage / Hinweis |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Frage 4: Welcher Zustimmungsweg ist gegenüber Dritten **wirksam**, welcher nur 
 | Entering into contracts above EUR 250,000 p.a. | Gesellschafter-Veto oder Beirats-Veto | Gesellschafter oder Beirat | bei wesentlicher Bedeutung Gesellschafterversammlung sinnvoll |
 | Related-party transactions | doppeltes Veto: Gesellschafter und Beirat | beide | Konflikt der Geschäftsführer vermeiden |
 
-## Wirksamkeit gegenueber Dritten
+## Wirksamkeit gegenüber Dritten
 
 Wichtig für Hildemar: ein **Veto, das nur im SHA steht**, wirkt nur **inter partes**. Wenn ein Geschäftsführer trotz SHA-Veto einen Vertrag mit einem Dritten schließt, ist der Vertrag dem Dritten gegenüber **wirksam**. Die Folge ist allenfalls eine Innenhaftung des Geschäftsführers und eine vertragliche Sanktion gegenüber den Vertragsparteien des SHA.
 
@@ -57,7 +57,7 @@ Sauberer Pfad:
 3. Dann die **Geschäftsführungs-Geschäftsordnung** mit den verbleibenden operativen Zustimmungsvorbehalten füllen.
 4. Erst zum Schluss die **SHA-/Side-Letter-Ebene** als verbindliche Verpflichtung der Gesellschafter, ihre Stimmrechte entsprechend auszuüben.
 
-## Cheat Sheet fuer das naechste Briefing
+## Cheat Sheet für das nächste Briefing
 
 - „Reserved Matter" ist immer eine Frage: **Welches Organ?**
 - „Investor Director Approval" ist eine Frage: **Welche Geschäftsordnung?**

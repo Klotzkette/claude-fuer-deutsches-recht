@@ -15,7 +15,7 @@ Interne Pre-Closing-Checkliste für die deutsche Notar- und Handelsregisterebene
 | Apostillen | für Vollmacht der luxemburgischen Northbridge SCS, beglaubigt durch luxemburgisches Notariat, mit Apostille nach Haager Übereinkommen, Frist beachten |
 | Beglaubigte Übersetzung Englisch-Deutsch | für Vollmachten, soweit englisch ausgestellt |
 
-## Beurkundungspflichtige Vorgaenge
+## Beurkundungspflichtige Vorgänge
 
 ### Erste Beurkundung — Kapitalerhöhungsbeschluss und Satzungsänderung
 

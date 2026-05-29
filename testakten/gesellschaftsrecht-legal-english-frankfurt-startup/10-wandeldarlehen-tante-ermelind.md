@@ -100,7 +100,7 @@ To do vor Term-Sheet-Antwort:
 - Convertible-Klauseln im Series-A-SHA spiegeln (Pari passu? Senior? Pro-rata bei Down-Round?).
 - Notariatsslot für etwaige Nachbeurkundung im Notariat Schwartz vorab reservieren.
 
-## Wandlungsrechnung (Skizze fuer Senior-Review)
+## Wandlungsrechnung (Skizze für Senior-Review)
 
 Annahme Series A: 5,2 Mio. EUR Investment, Pre-Money 12 Mio. EUR fully diluted, Post-Money 17,2 Mio. EUR (vor Pool-Shuffle). Pool wird auf 12 Prozent post-money equivalent gehoben (pre-money-Shuffle).
 

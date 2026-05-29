@@ -85,6 +85,6 @@ Fiktive Akte zu Schulungszwecken. Alle Namen, Unternehmen, Daten, Adressen, Betr
 - Sensibilität für Anfängerfehler: blinde Eindeutschung, Cap-Table-Gesellschafterlisten-Verwechslung, Übersehen des Wandeldarlehens, Beirat als Board behandeln.
 - Sauberer Übergang in Partnerbriefing, Mandantenmemo und Liste an Investor Counsel.
 
-## Wichtig fuer den Test
+## Wichtig für den Test
 
 Diese Akte ist bewusst unrund. Sie enthält Widersprüche zwischen Term Sheet, Satzung, Seed-SHA, Wandeldarlehen und VSOP. Die Aufgabe besteht **nicht** darin, eine perfekte Verhandlungsposition zu schreiben, sondern die Widersprüche zu erkennen, in Partnerbriefing und Mandantenmemo zu übersetzen und für die Verhandlung sortiert vorzulegen.

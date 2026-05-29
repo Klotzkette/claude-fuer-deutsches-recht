@@ -48,7 +48,7 @@ zwei Sachen vergessen:
 
 9. Beirat steht in der Satzung als beratend, soll laut Term Sheet aber Investor Director Approval erteilen. Mapping in das deutsche Organrecht in Datei 14 nutzen.
 
-Ausserdem: ich sehe heute morgen im Postfach die Antwortmail von Brackenmuir über den Roundtrip-Markup, siehe Datei 11. Bitte bevor Sie loslegen, beide Mails parallel lesen. Es bringt nichts, das Term Sheet zu übersetzen, wenn der Markup schon weiterzieht.
+Außerdem: ich sehe heute morgen im Postfach die Antwortmail von Brackenmuir über den Roundtrip-Markup, siehe Datei 11. Bitte bevor Sie loslegen, beide Mails parallel lesen. Es bringt nichts, das Term Sheet zu übersetzen, wenn der Markup schon weiterzieht.
 
 A.
 

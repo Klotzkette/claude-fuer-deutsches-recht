@@ -143,4 +143,4 @@ Lesehinweis: Wer hier scheitert, scheitert später beim Notar.
 - Paragraf 184 GVG (Gerichtssprache): https://www.gesetze-im-internet.de/gvg/__184.html
 - Paragraf 433 ff., 434 BGB (Sachmangel): https://www.gesetze-im-internet.de/bgb/__434.html
 
-Jedes Aktenzeichen vor Verwendung über dejure.org oder Bundesgerichtshof.de selbst pruefen. Kein BeckRS, kein Juris als alleinige Quelle.
+Jedes Aktenzeichen vor Verwendung über dejure.org oder Bundesgerichtshof.de selbst prüfen. Kein BeckRS, kein Juris als alleinige Quelle.

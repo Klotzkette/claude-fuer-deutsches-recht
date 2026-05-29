@@ -47,7 +47,7 @@ Gegenstand: Entwicklung und Vertrieb von Software zur automatisierten Energieopt
 
 ### V19a Current Cap Table, Stand 28.05.2026
 
-| Position | Geschaeftsanteile | Prozent stamm | Bemerkung |
+| Position | Geschäftsanteile | Prozent stamm | Bemerkung |
 | --- | ---: | ---: | --- |
 | Kunigunde Reiter | 12.000 | 40,00 | Stammanteile |
 | Meinhard Voss | 9.000 | 30,00 | Stammanteile |
@@ -55,7 +55,7 @@ Gegenstand: Entwicklung und Vertrieb von Software zur automatisierten Energieopt
 | Stahlauge Ventures GmbH | 3.000 | 10,00 | Seed-Vorzugsanteile, 1x non-participating preference |
 | **Summe ausgegeben** | **30.000** | **100,00** | entspricht Stammkapital 30.000 EUR |
 
-VSOP: 900 virtuelle Anteile zugesagt, davon 360 vested. Keine echten Geschaeftsanteile. Cap-Table-Block separat, nicht in Summe oben.
+VSOP: 900 virtuelle Anteile zugesagt, davon 360 vested. Keine echten Geschäftsanteile. Cap-Table-Block separat, nicht in Summe oben.
 
 Wandeldarlehen Tante Ermelind: Principal 600.000 EUR plus aufgelaufene Zinsen ca. 100.000 EUR per Stand 28.05.2026. Convertible, nicht in Summe oben.
 
@@ -78,39 +78,39 @@ Annahmen Szenario 1:
 | Option Pool reserviert | 5.000 | 11,99 | 5.000 | 8,37 |
 | Tante Ermelind aus Wandlung | 6.700 | 16,07 | 6.700 | 11,21 |
 | Series A Northbridge | 0 | 0 | 16.679 | 27,91 |
-| Series A Kraemer Angels | 0 | 0 | 1.390 | 2,33 |
+| Series A Krämer Angels | 0 | 0 | 1.390 | 2,33 |
 | **Fully Diluted Summe** | **41.700** | **100,00** | **59.769** | **100,02** |
 
-Die Summe 100,02 in der letzten Spalte ist ein Rundungsrest aus zwei Nachkommastellen je Zeile und kein Rechenfehler. Im Excel-Modell mit hoeherer Genauigkeit rechnen.
+Die Summe 100,02 in der letzten Spalte ist ein Rundungsrest aus zwei Nachkommastellen je Zeile und kein Rechenfehler. Im Excel-Modell mit höherer Genauigkeit rechnen.
 
 Berechnungslogik (Skizze, Senior-Review erforderlich):
 
 - Bestehende Anteile 30.000.
-- Pool-Reservierung 12 Prozent auf fully diluted **vor** Series A: Pool / (30.000 + Pool + Convertible-Anteile) = 0,12. Mit Convertible-Anteilen ca. 6.700 ergibt sich Pool ca. 5.000 Anteile (genau 5.005 bei rechnerischer Aufloesung, hier auf 5.000 gerundet).
-- Convertible Wandlung zum Valuation Cap 10 Mio. EUR fully diluted: ca. 6.700 Anteile fuer Tante Ermelind (Principal 600.000 EUR plus aufgelaufene PIK-Zinsen, Cap-Preis liegt unter dem Discount-Preis und greift daher).
+- Pool-Reservierung 12 Prozent auf fully diluted **vor** Series A: Pool / (30.000 + Pool + Convertible-Anteile) = 0,12. Mit Convertible-Anteilen ca. 6.700 ergibt sich Pool ca. 5.000 Anteile (genau 5.005 bei rechnerischer Auflösung, hier auf 5.000 gerundet).
+- Convertible Wandlung zum Valuation Cap 10 Mio. EUR fully diluted: ca. 6.700 Anteile für Tante Ermelind (Principal 600.000 EUR plus aufgelaufene PIK-Zinsen, Cap-Preis liegt unter dem Discount-Preis und greift daher).
 - Pre-Money fully diluted total = 12.000 + 9.000 + 6.000 + 3.000 + 5.000 + 6.700 = 41.700 Anteile.
 - Series-A-Preis pro Anteil = 12.000.000 EUR / 41.700 Anteile = ca. 287,77 EUR.
 - Series-A-Anteile total = 5.200.000 EUR / 287,77 EUR = ca. 18.069 Anteile.
-- Aufteilung Lead vs Co-Investor im Verhaeltnis 4,8 zu 0,4 Mio. EUR (gemaess Subscription-Liste in Datei 03 Ziff. 2): Northbridge 4,8/5,2 x 18.069 = ca. 16.679 Anteile; Kraemer Angels 0,4/5,2 x 18.069 = ca. 1.390 Anteile.
+- Aufteilung Lead vs Co-Investor im Verhältnis 4,8 zu 0,4 Mio. EUR (intern festgelegte Subscription-Aufteilung gemäß CFO-Slack-Thread vom 28.05.2026, dokumentiert oben in dieser Datei; Datei 03 Ziff. 2 verlangt insoweit nur eine Lead-Mindestquote von 75 Prozent und legt die genauen Anteile der Co-Investoren nicht fest): Northbridge 4,8/5,2 x 18.069 = ca. 16.679 Anteile; Krämer Angels 0,4/5,2 x 18.069 = ca. 1.390 Anteile.
 - Post-money fully diluted total = 41.700 + 18.069 = 59.769 Anteile.
-- Plausibilitaetscheck Northbridge-Quote = 16.679 / 59.769 = ca. 27,9 Prozent, konsistent mit der vom Lead intern kommunizierten Zielquote von rund 25 bis 30 Prozent.
+- Plausibilitätscheck Northbridge-Quote = 16.679 / 59.769 = ca. 27,9 Prozent, konsistent mit der vom Lead intern kommunizierten Zielquote von rund 25 bis 30 Prozent.
 
-Hinweis: Diese Zahlen sind eine **Skizze**. Die exakten Wandlungs- und Pool-Anteile sind im Excel-Modell auszurechnen. Adelheid hat ausdruecklich verboten, sie ohne Verifikation an Northbridge zu kommunizieren.
+Hinweis: Diese Zahlen sind eine **Skizze**. Die exakten Wandlungs- und Pool-Anteile sind im Excel-Modell auszurechnen. Adelheid hat ausdrücklich verboten, sie ohne Verifikation an Northbridge zu kommunizieren.
 
 ### V19c Projected Post-Closing Cap Table (Szenario 2: Pool 12 Prozent post-money)
 
 Annahmen Szenario 2:
 
-- Pool wird **post-money** 12 Prozent fully diluted. Mathematisch traegt Northbridge den Pool anteilig mit.
-- Series-A-Subscription unveraendert 5,2 Mio. EUR.
+- Pool wird **post-money** 12 Prozent fully diluted. Mathematisch trägt Northbridge den Pool anteilig mit.
+- Series-A-Subscription unverändert 5,2 Mio. EUR.
 
-Wirtschaftlicher Effekt: Bestandsgesellschafter haben hier rund 1,5 Prozentpunkte hoehere Quoten als in Szenario 1, Northbridge etwas weniger. Vorrechnung im Excel-Modell, mit Mandantin am Tisch durchgehen.
+Wirtschaftlicher Effekt: Bestandsgesellschafter haben hier rund 1,5 Prozentpunkte höhere Quoten als in Szenario 1, Northbridge etwas weniger. Vorrechnung im Excel-Modell, mit Mandantin am Tisch durchgehen.
 
-## Stueck-fuer-Stueck-Rechnung mit Pruefschritten
+## Stück-für-Stück-Rechnung mit Prüfschritten
 
 Schritt 1: Stammkapital und ausgegebene Anteile (entspricht V19a oben).
 
-Schritt 2: VSOP-Block separat ausweisen. Virtuelle Anteile fuehren nicht zu Geschaeftsanteilen. Cap-Table-Behandlung haengt vom Series-A-SHA ab.
+Schritt 2: VSOP-Block separat ausweisen. Virtuelle Anteile führen nicht zu Geschäftsanteilen. Cap-Table-Behandlung hängt vom Series-A-SHA ab.
 
 Schritt 3: Wandeldarlehen mit Discount-Variante und Valuation-Cap-Variante rechnen, niedrigere Conversion Price greift. Annahme bei Series-A-Pre-Money 12 Mio. EUR: Valuation Cap wirkt.
 
@@ -118,16 +118,16 @@ Schritt 4: Pool-Shuffle ausrechnen, beide Szenarien (Pre-Money und Post-Money).
 
 Schritt 5: Series-A-Preis je Anteil bestimmen, Subscription Amount durch Preis je Anteil teilen, Aufteilung Lead und Co-Investor nach Subscription-Anteilen.
 
-Schritt 6: Fully-diluted-Summe pruefen, Quoten ausrechnen, Konsistenz mit Term-Sheet-Erwartung (etwa 25 Prozent Northbridge post-money fully diluted) verifizieren.
+Schritt 6: Fully-diluted-Summe prüfen, Quoten ausrechnen, Konsistenz mit Term-Sheet-Erwartung (etwa 25 Prozent Northbridge post-money fully diluted) verifizieren.
 
 ## Was Kunigunde wissen muss
 
-- **Gesellschafterliste** ist die offizielle Liste der eingetragenen Geschaeftsanteile.
+- **Gesellschafterliste** ist die offizielle Liste der eingetragenen Geschäftsanteile.
 - **Cap Table** ist das interne Bild, das alles abbildet: Anteile, Optionen, Convertibles, virtuelle Beteiligungen.
-- **Pre-Money-Pool-Shuffle** trifft wirtschaftlich die Gruender, weil die zusaetzlichen Pool-Anteile aus dem Pre-Money-Bestand herausgerechnet werden.
+- **Pre-Money-Pool-Shuffle** trifft wirtschaftlich die Gründer, weil die zusätzlichen Pool-Anteile aus dem Pre-Money-Bestand herausgerechnet werden.
 - **Wandeldarlehen Tante Ermelind** bekommt rechnerisch mehr Anteile als Investoren, die zum gleichen Zeitpunkt frisches Geld einbringen, weil Discount oder Valuation Cap greifen.
-- **VSOP** verwaessert ebenfalls, sobald virtuelle Anteile in Vergleichsmechaniken einbezogen werden.
+- **VSOP** verwässert ebenfalls, sobald virtuelle Anteile in Vergleichsmechaniken einbezogen werden.
 
-## Senior-Review-Gate vor jeder Aussenkommunikation
+## Senior-Review-Gate vor jeder Außenkommunikation
 
-Kein Cap-Table-Zahlenwert geht an Northbridge oder Brackenmuir, bevor Adelheid die V19 abgezeichnet hat. Excel-Modell mit Pruefblatt, das alle Inputs gegen Quelldokumente verlinkt.
+Kein Cap-Table-Zahlenwert geht an Northbridge oder Brackenmuir, bevor Adelheid die V19 abgezeichnet hat. Excel-Modell mit Prüfblatt, das alle Inputs gegen Quelldokumente verlinkt.

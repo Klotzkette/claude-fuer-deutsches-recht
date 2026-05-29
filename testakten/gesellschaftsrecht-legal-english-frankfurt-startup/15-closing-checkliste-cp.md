@@ -2,7 +2,7 @@
 
 Interne Closing-Checkliste mit allen Conditions Precedent (CPs) und Closing Deliverables. Datenraum-Auszug. Fiktiv.
 
-## CPs und Deliverables Gesamtuebersicht
+## CPs und Deliverables Gesamtübersicht
 
 | Nr. | Item | Type | Verantwortlich | Status | Dependencies |
 | --- | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Spielt die Reps and Warranties aus dem SPA-Teil. Hier eintragen:
 - VSOP-Programm Stand.
 - Beiratsbeschlüsse Slack-Stichpunkte.
 
-### CP 22: IP-Bereinigung Entwicklervertraege
+### CP 22: IP-Bereinigung Entwicklerverträge
 
 DD-Red-Flag 05. Bis Closing: ergänzende Abtretungserklärung der Entwickler, beidseitig unterzeichnet, schriftliche Bestätigung der Übertragung nach deutschem Recht (Paragraf 31 ff. UrhG).
 
@@ -92,7 +92,7 @@ Hildemar muss vor Closing prüfen: was steht im Term Sheet als CP, was steht in 
 | --- | --- | --- |
 | „Satisfactory legal due diligence" | CP 10 | breite Klausel, intern in DD-Findings übersetzt |
 | „No material adverse change" | nicht in interner Liste | bewusst ausgelassen, prüfen ob für Mandantin tragbar |
-| „Approval of the Investment Committee" | nicht in interner Liste | Northbridge-internes Approval, ausserhalb unserer Kontrolle |
+| „Approval of the Investment Committee" | nicht in interner Liste | Northbridge-internes Approval, außerhalb unserer Kontrolle |
 | „Customary closing certificates" | CP 11, 27 | erfasst |
 | „Bring-down of representations" | nicht in interner Liste | übersehen, ergänzen |
 
