@@ -71,22 +71,29 @@ Annahmen Szenario 1:
 
 | Position | Anteile vor Series A nach Pool-Shuffle | Prozent pre-money fully diluted | Anteile nach Series A | Prozent post-money fully diluted |
 | --- | ---: | ---: | ---: | ---: |
-| Kunigunde Reiter | 12.000 | 28,8 | 12.000 | 20,4 |
-| Meinhard Voss | 9.000 | 21,6 | 9.000 | 15,3 |
-| Walburga Stein | 6.000 | 14,4 | 6.000 | 10,2 |
-| Stahlauge Ventures GmbH | 3.000 | 7,2 | 3.000 | 5,1 |
-| Option Pool reserviert | 5.000 | 12,0 | 5.000 | 8,5 |
-| Tante Ermelind aus Wandlung | 6.700 | 16,1 | 6.700 | 11,4 |
-| Series A Northbridge | 0 | 0 | 13.640 | 23,2 |
-| Series A Kraemer Angels | 0 | 0 | 1.135 | 1,9 |
-| **Fully Diluted Summe** | **41.700** | **100,00** | **58.475** | **100,00** |
+| Kunigunde Reiter | 12.000 | 28,78 | 12.000 | 20,08 |
+| Meinhard Voss | 9.000 | 21,58 | 9.000 | 15,06 |
+| Walburga Stein | 6.000 | 14,39 | 6.000 | 10,04 |
+| Stahlauge Ventures GmbH | 3.000 | 7,19 | 3.000 | 5,02 |
+| Option Pool reserviert | 5.000 | 11,99 | 5.000 | 8,37 |
+| Tante Ermelind aus Wandlung | 6.700 | 16,07 | 6.700 | 11,21 |
+| Series A Northbridge | 0 | 0 | 16.679 | 27,91 |
+| Series A Kraemer Angels | 0 | 0 | 1.390 | 2,33 |
+| **Fully Diluted Summe** | **41.700** | **100,00** | **59.769** | **100,02** |
+
+Die Summe 100,02 in der letzten Spalte ist ein Rundungsrest aus zwei Nachkommastellen je Zeile und kein Rechenfehler. Im Excel-Modell mit hoeherer Genauigkeit rechnen.
 
 Berechnungslogik (Skizze, Senior-Review erforderlich):
 
 - Bestehende Anteile 30.000.
-- Pool-Reservierung 12 Prozent auf fully diluted **vor** Series A: Pool/(30.000 + Pool + Convertible-Anteile) = 0,12. Mit Convertible-Anteilen ca. 6.700 ergibt sich Pool ca. 5.000 Anteile.
-- Convertible Wandlung zum Valuation Cap 10 Mio. EUR fully diluted: ca. 6.700 Anteile fuer Tante Ermelind.
-- Series-A-Preis ca. 287,80 EUR je Anteil bei 12 Mio. EUR Pre-Money und 41.700 Anteilen fully diluted pre-money. Bei 5,2 Mio. EUR Investment ca. 18.075 zusaetzliche Anteile post-Pool. Aufteilung Northbridge zu Kraemer im Verhaeltnis 4,8 zu 0,4.
+- Pool-Reservierung 12 Prozent auf fully diluted **vor** Series A: Pool / (30.000 + Pool + Convertible-Anteile) = 0,12. Mit Convertible-Anteilen ca. 6.700 ergibt sich Pool ca. 5.000 Anteile (genau 5.005 bei rechnerischer Aufloesung, hier auf 5.000 gerundet).
+- Convertible Wandlung zum Valuation Cap 10 Mio. EUR fully diluted: ca. 6.700 Anteile fuer Tante Ermelind (Principal 600.000 EUR plus aufgelaufene PIK-Zinsen, Cap-Preis liegt unter dem Discount-Preis und greift daher).
+- Pre-Money fully diluted total = 12.000 + 9.000 + 6.000 + 3.000 + 5.000 + 6.700 = 41.700 Anteile.
+- Series-A-Preis pro Anteil = 12.000.000 EUR / 41.700 Anteile = ca. 287,77 EUR.
+- Series-A-Anteile total = 5.200.000 EUR / 287,77 EUR = ca. 18.069 Anteile.
+- Aufteilung Lead vs Co-Investor im Verhaeltnis 4,8 zu 0,4 Mio. EUR (gemaess Subscription-Liste in Datei 03 Ziff. 2): Northbridge 4,8/5,2 x 18.069 = ca. 16.679 Anteile; Kraemer Angels 0,4/5,2 x 18.069 = ca. 1.390 Anteile.
+- Post-money fully diluted total = 41.700 + 18.069 = 59.769 Anteile.
+- Plausibilitaetscheck Northbridge-Quote = 16.679 / 59.769 = ca. 27,9 Prozent, konsistent mit der vom Lead intern kommunizierten Zielquote von rund 25 bis 30 Prozent.
 
 Hinweis: Diese Zahlen sind eine **Skizze**. Die exakten Wandlungs- und Pool-Anteile sind im Excel-Modell auszurechnen. Adelheid hat ausdruecklich verboten, sie ohne Verifikation an Northbridge zu kommunizieren.
 
