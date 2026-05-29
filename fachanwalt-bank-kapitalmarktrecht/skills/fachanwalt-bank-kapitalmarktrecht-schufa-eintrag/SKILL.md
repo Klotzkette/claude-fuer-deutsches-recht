@@ -19,12 +19,13 @@ description: "Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag
 - Übermittlung durch Gläubiger nur bei: 1) Vorliegen einer fälligen, unbestrittenen Forderung; 2) zwei qualifizierten Mahnungen im Abstand von mindestens vier Wochen; 3) Hinweis auf Übermittlung in der Mahnung; 4) keine Bestreitung der Forderung.
 - Berichtigung unrichtiger Daten: Art. 16 DSGVO.
 - Löschung: Art. 17 DSGVO bei unrechtmäßiger Verarbeitung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Speicherung Restschuldbefreiung: maximal sechs Monate nach Beendigung des Insolvenzbekanntmachungsportals (EuGH, Urt. v. 7.12.2023, C-26/22 und C-64/22 — curia.europa.eu).
+- Score als automatisierte Einzelentscheidung i.S.v. Art. 22 DSGVO, soweit Dritte sich maßgeblich darauf stützen (EuGH, Urt. v. 7.12.2023, C-634/21 — curia.europa.eu).
 
 ## Beweislast und Frist
 
 - Verantwortlicher (Gläubiger/Auskunftei) trägt Rechenschaftspflicht Art. 5 Abs. 2 DSGVO für rechtmäßige Verarbeitung und ordnungsgemäße Mahnung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Bei unberechtigtem SCHUFA-Eintrag immaterieller Schadensersatz Art. 82 DSGVO möglich; nach BGH, Urt. v. 28.1.2025, VI ZR 183/22 (Quelle: juris.bundesgerichtshof.de) sind 500 EUR als Ausgleich zugesprochen worden; Art. 82 DSGVO hat nur Ausgleichs-, keine Straffunktion.
 - Reaktionsfrist Auskunftei auf Berichtigungs-/Löschungsverlangen Art. 12 Abs. 3 DSGVO: ein Monat, verlängerbar um zwei Monate.
 - Beschwerde bei Aufsichtsbehörde Art. 77 DSGVO und Klage Art. 79 DSGVO.
 

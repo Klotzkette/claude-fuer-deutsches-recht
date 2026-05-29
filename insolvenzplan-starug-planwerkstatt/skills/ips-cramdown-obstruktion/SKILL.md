@@ -46,9 +46,11 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen. Bedeutung für den Cramdown: Eingriffe in Aktionärsrechte über das Obstruktionsverbot / Cramdown sind verfassungsrechtlich nicht generell ausgeschlossen, soweit § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) gewahrt ist.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Restrukturierungsgerichts- und OLG-Entscheidungen zu § 26 StaRUG (Cross-Class-Cramdown) und § 245 InsO (Obstruktionsverbot) vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 

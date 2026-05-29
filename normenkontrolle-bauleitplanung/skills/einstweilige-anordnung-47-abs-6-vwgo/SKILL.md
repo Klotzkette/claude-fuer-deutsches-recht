@@ -165,13 +165,15 @@ Der Eilantrag ist die schärfste Waffe der Mandantenseite. Bei drohendem Vollzug
 
 - VwGO §§ 47 Abs. 6, 80 Abs. 5, 80a, 152, 173
 - ZPO § 920 Abs. 2
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BVerwG, Beschluss vom 18.5.2010 – 4 BN 19.10 (Eilantrag B-Plan)
-- BayVGH, Beschluss vom 22.4.2014 – 15 NE 13.2538 (Vollzugsfolgenabwägung)
+- BVerwG, Beschluss vom 18.05.2010 – 4 BN 19.10 (Eilantrag B-Plan; bverwg.de)
+- BayVGH, Beschluss vom 22.04.2014 – 15 NE 13.2538 (Vollzugsfolgenabwägung; Bayern.Recht)
+- BVerwG, Beschluss vom 12.06.2019 – 4 BN 4.19 (Eilantrag B-Plan, schwere Nachteile; bverwg.de)
 
-## Aktuelle Rechtsprechung — Leitsaetze
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerwG 12.06.2019, 4 BN 4.19 — Massstab "schwere Nachteile" beim Eilantrag § 47 Abs. 6 VwGO (bverwg.de)
+- BVerwG 23.06.2020, 9 A 22.19 — Klimaschutz als beruecksichtigungspflichtiger Belang (bverwg.de)
+- Aktuelle OVG-/VGH-Beschluesse vor Ausgabe ueber landesrecht-[bundesland].de und bverwg.de verifizieren
 
 ## Quellenregel
 

@@ -67,7 +67,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung im Mandat live verifizieren. Aktuelle Linien zur Orientierung (Stand 05/2026):
+
+- EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeitsübergang nach Dublin III, wenn der ersuchende Mitgliedstaat die Überstellung binnen 6 Monaten nicht durchführt; einseitige Erklärung Italiens ohne Rücküberstellungsfähigkeit nicht ausreichend für automatischen Übergang. Verifikation über [curia.europa.eu](https://curia.europa.eu/).
+- GEAS-Reform: Asylverfahrensverordnung (EU) 2024/1348, Grenzverfahrensverordnung (EU) 2024/1349, Asyl- und Migrationsmanagementverordnung (EU) 2024/1351, Screening-VO (EU) 2024/1356, Qualifikations-VO (EU) 2024/1347, EURODAC-VO (EU) 2024/1358, Krisen-VO (EU) 2024/1359. **Anwendbarkeit ab 12.06.2026.** Stichtagsregelung: Verfahrensrecht (Art. 79 Abs. 3 AVV-VO) gilt für ab dem 12.06.2026 eingereichte Anträge; materielles Statusrecht (Qualifikations-VO) gilt mangels Übergangsregelung ab 12.06.2026 auch in laufenden Altverfahren.
+- BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Spillover ins Migrationsrecht relevant bei Datenverarbeitung über Schutzsuchende.
 
 ## Normen-Kette Migrationsrecht
 

@@ -58,7 +58,14 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung live über [curia.europa.eu](https://curia.europa.eu/) verifizieren — keine Az. aus Modellwissen.
+
+Aktuelle Linien zu Art. 7, 8 GRCh (Datenschutz / Privatleben) — relevant für Mandate Q4 2025 - Q2 2026:
+
+- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — DSGVO geht DSA vor; Plattformen müssen vor Veröffentlichung von Inhalten mit besonderen Datenkategorien Identität des Posters prüfen und Rechtsgrundlage prüfen; Hosting-Privileg gilt nicht für DSGVO-Verstöße.
+- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — DSGVO-Bußgelder können auf Konzernumsatz (Art. 83 Abs. 4-6 DSGVO) bezogen werden; "Unternehmen" im Sinne des EU-Wettbewerbsrechts (Art. 101, 102 AEUV) auch für DSGVO-Geldbußenobergrenze einschlägig.
+- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger Auskunftsantrag (Art. 15 DSGVO) kann als rechtsmissbräuchlich zurückgewiesen werden; Beweislast trägt der Verantwortliche.
+- EGMR, Urt. v. 09.04.2024 — Verein KlimaSeniorinnen gegen Schweiz, Bf-Nr. 53600/20 — Art. 8 EMRK-Schutzpflicht des Staates gegen Folgen des Klimawandels (relevant über Art. 52 Abs. 3 GRCh).
 
 ## Normen-Kette GRCh
 

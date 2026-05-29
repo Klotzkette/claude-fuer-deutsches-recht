@@ -109,7 +109,13 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Bef�
 
 ## 9) BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026 — Rechtsprechung im Mandat live verifizieren über [bundesgerichtshof.de](https://www.bundesgerichtshof.de) (BGH I. Zivilsenat) sowie [openjur.de](https://openjur.de).
+
+Aktuelle BGH-Linie zum Anwendungsbereich der CMR-Gerichtsstandsregelung (Art. 31 CMR): Ausweitung auf Direktklageansprüche gegen den Verkehrshaftungsversicherer ist Gegenstand jüngerer Entscheidungen — vor Ausgabe Aktenzeichen, Datum, Tenor live prüfen.
+
+Bei Verlust mit Falschablieferung trägt der Frachtführer die Beweislast dafür, gleichwohl an einen berechtigten Empfänger abgeliefert zu haben (Linie der OLG-Rechtsprechung 2024/2025; konkrete Fundstelle im Schriftsatz verifizieren).
+
+ADSp-Aktualität: Die ADSp 2017 sind weiterhin Branchenstandard (keine ADSp 2025 ausgewiesen; Stand der Recherche Mai 2026). Im Mandat über [dslv.org](https://www.dslv.org/de/adsp) auf Aktualität prüfen.
 
 ## Anschluss
 

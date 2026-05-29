@@ -153,9 +153,11 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 3. **Verschon-Alternativen nicht ausgearbeitet**
 4. **Akteneinsicht verzoegert**
 
-## 10) BGH-Linien
+## 10) BGH/BVerfG-Linien (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Verfassungsrechtliche Maßstaebe der Untersuchungshaft (Verhaeltnismaessigkeit, Beschleunigungsgebot in Haftsachen): Grundlage BVerfG 17.01.2013 — 2 BvR 2098/12 und BVerfG-Linie zur ueberlangen Haft; Aktualisierungen vor Ausgabe in bverfg.de und dejure.org pruefen. Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/112/1.html
+- BVerfG 23.09.2025 — 2 BvR 625/25: ANOM-Kommunikation und Verwertbarkeit im Strafverfahren; relevant fuer Tatverdacht und damit Haftgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 112 StPO / Haftpruefung ist Stand Mai 2026 nicht in dejure.org / openjur.de mit Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 112 StPO Haftgrund" durchführen.
 
 ## Anschluss
 

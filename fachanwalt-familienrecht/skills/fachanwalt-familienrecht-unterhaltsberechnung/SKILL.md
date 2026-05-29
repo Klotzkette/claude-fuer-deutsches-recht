@@ -5,9 +5,11 @@ description: "Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant tre
 
 # Unterhaltsberechnung
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (verifiziert, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24: Bemessung des angemessenen Selbstbehalts des unterhaltspflichtigen Kindes beim Elternunterhalt; Familienselbstbehalt bei verheirateten Unterhaltspflichtigen (§ 1603 Abs. 1 BGB, § 94 Abs. 1a SGB XII). Quelle: bundesgerichtshof.de bzw. dejure.org vor Verwendung verifizieren.
+- Düsseldorfer Tabelle 2026 in Kraft seit 01.01.2026 (Pressemitteilung OLG Düsseldorf vom 01.12.2025); Mindestunterhalt § 1612a BGB: EUR 486 / EUR 558 / EUR 653 (Altersstufen 1-3).
+- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 

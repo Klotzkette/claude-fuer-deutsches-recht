@@ -155,10 +155,13 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
-## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext
+## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Vergleichsregel: Raten- oder Stundungsvergleiche in der Krise sind anfechtungsanfällig und regelmäßig kein Bargeschäft ohne unmittelbare gleichwertige neue Gegenleistung; § 142 InsO nicht mit einer starren 30-Tage-Regel anwenden.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft (§ 142 Abs. 1 Hs. 2 InsO). Wichtige Praxisfolge für Vergleiche: Bei Ratenvergleichen in der Krise muss konkret nachgewiesen werden, dass die Transaktion gezielt andere Gläubiger schädigt; bloße Verlustsituation genügt nicht.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; konkrete Erwartung dauerhafter Liquiditätsunterdeckung darzulegen.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- Vergleichsregel: Raten- oder Stundungsvergleiche in der Krise sind anfechtungsanfällig und regelmäßig kein Bargeschäft ohne unmittelbare gleichwertige neue Gegenleistung; § 142 InsO nicht mit einer starren 30-Tage-Regel anwenden (BGH IX ZR 122/23).
 
 ## Paragrafenkette Vergleich
 

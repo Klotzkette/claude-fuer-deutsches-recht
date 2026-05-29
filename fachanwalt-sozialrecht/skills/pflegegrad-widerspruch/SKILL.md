@@ -122,9 +122,11 @@ Wenn der Mandant kein Pflegetagebuch hat, biete als Sofortmaßnahme an, eines f�
 4. Wie viel Punkte fehlen bis zur nächsten Pflegegrad-Schwelle? (Schon 2-5 Punkte können entscheidend sein)
 5. Liegt Eilbedarf vor? — z.B. Pflege bricht zusammen, Heimeinzug steht bevor (→ § 86b SGG)
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BSG 12.06.2025 — B 3 P 8/23 R (3. Senat): Wahlmöglichkeit zwischen Pflegesachleistung und Pflegegeld bei grenzüberschreitender Konstellation (Polen/Deutschland); für rein nationale Pflegegradstreitigkeiten nur mittelbar relevant. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_12_B_03_P_08_23_R.html
+- BSG 12.12.2024 — B 3 P 2/24 R (3. Senat): Pflegeversicherungsrechtliche Streitigkeit; Volltext auf bsg.bund.de: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_12_12_B_03_P_02_24_R.html
+- Hinweis: Spezifische BSG-Leitentscheidungen 2025/2026 zur Modulbewertung nach § 14, § 15 SGB XI (Mobilität, Selbstversorgung, kognitive Fähigkeiten) lagen zum Stand Mai 2026 nicht in dejure.org als 1. Senat-Entscheidung vor; Argumentation muss über die §§ 14, 15, 18 SGB XI und MDK-Begutachtungsrichtlinien geführt werden. Vor Verwendung Aktenzeichen-Recherche in dejure.org/bsg.bund.de mit "§ 15 SGB XI" durchführen.
 
 ## Quellenregel
 

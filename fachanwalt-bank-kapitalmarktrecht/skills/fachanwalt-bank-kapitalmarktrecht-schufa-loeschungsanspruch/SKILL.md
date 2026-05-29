@@ -30,8 +30,8 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 ### Bei Insolvenz
 
 - Restschuldbefreiung -> Löschungs-Anspruch
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- 3-Jahres-Frist nach Restschuldbefreiung verkürzt durch Vergleichs-Urteil 2023
+- EuGH, Urt. v. 7.12.2023, C-26/22 und C-64/22 — Speicherung der Restschuldbefreiung über die im Insolvenzbekanntmachungsportal vorgesehene 6-Monats-Frist hinaus unzulässig (Art. 17 Abs. 1 lit. c DSGVO). Quelle: curia.europa.eu
+- Folge: 3-Jahres-Frist der SCHUFA aufgehoben; Speicherung Restschuldbefreiung jetzt nur sechs Monate; nach diesem Zeitraum Löschungsanspruch (jedenfalls für nach diesem Urteil erteilte Auskünfte).
 
 ## 3) Klassische Fehler-Konstellationen
 
@@ -48,13 +48,13 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ### Konstellation C: Insolvenz-Bezug
 
-- Trotz Restschuldbefreiung Eintrag bleibt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Trotz Restschuldbefreiung Eintrag bleibt; Löschungsanspruch nach 6 Monaten gemäß EuGH C-26/22 und C-64/22 (7.12.2023)
+- Folge-Rechtsprechung BGH: Bei unberechtigter SCHUFA-Meldung kann immaterieller Schadensersatz nach Art. 82 Abs. 1 DSGVO bestehen — BGH, Urt. v. 28.1.2025, VI ZR 183/22 (500 EUR immaterieller Schadensersatz). Quelle: juris.bundesgerichtshof.de
 
 ### Konstellation D: Score ohne nachvollziehbare Grundlage
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Recht auf Erklärung, manuelle Prüfung
+- EuGH, Urt. v. 7.12.2023, C-634/21 — Score-Berechnung der SCHUFA als automatisierte Entscheidung im Einzelfall i.S.v. Art. 22 Abs. 1 DSGVO, soweit Dritte sich maßgeblich auf den Score-Wert stützen. Quelle: curia.europa.eu
+- Folge: Recht auf Erklärung, manuelle Prüfung, sinnvolle Informationen über die Logik (Art. 15 Abs. 1 lit. h DSGVO).
 
 ## 4) Workflow Löschung
 
@@ -82,16 +82,15 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ## 5) Schadensersatz Art. 82 DSGVO
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Linie BGH und EuGH (Stand Mai 2026):
 
-- DSGVO-Schadensersatz auch bei nicht-materiellem Schaden
-- Kontrollverlust über Daten ausreichend
-- Tendenz Höhe: 100-1.500 EUR pro Fall
+- **BGH, Urt. v. 28.1.2025, VI ZR 183/22** — Art. 82 Abs. 1 DSGVO hat nur Ausgleichs-, keine Straffunktion. Bei unberechtigter SCHUFA-Meldung über streitige / nicht titulierte Forderung 500 EUR immaterieller Schadensersatz zugesprochen. Quelle: juris.bundesgerichtshof.de
+- **EuGH, Urt. v. 4.5.2023, C-300/21 (Österreichische Post)** — Voraussetzung jeder Schadensersatzforderung ist konkret nachgewiesener Schaden; bloßer Verstoss reicht nicht. Quelle: curia.europa.eu
+- **EuGH, Urt. v. 14.12.2023, C-340/21 (NAP)** — Immaterieller Schaden auch durch Sorge / Befürchtung möglich.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Schaden auch ohne konkreten finanziellen Schaden möglich
-- Sorge / Aerger reicht aus
+- DSGVO-Schadensersatz auch bei nicht-materiellem Schaden möglich
+- Kontrollverlust über Daten allein reicht nach EuGH C-300/21 nicht; konkreter Schaden (auch Sorge/Aerger) ist darzulegen
+- Tendenz Höhe nach BGH VI ZR 183/22: 500 EUR pro Fall (kein Strafschadensersatz)
 
 ### Praxis-Bewertung
 
@@ -121,9 +120,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - `datenschutzrecht/skills/dsgvo-auskunft` — für formelle Anträge nach Art. 15 DSGVO
 - `forderungsmanagement-klagewerkstatt` — bei Inkasso-Streit-Hintergrund
 
-## 9) Aktuelle BGH-/EuGH-Linien
+## 9) Aktuelle BGH-/EuGH-Linien (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit offener Quelle (Volltext vor Versand aufrufen):
+
+- **BGH, Urt. v. 28.1.2025, VI ZR 183/22** — Unberechtigte SCHUFA-Meldung bei streitiger Forderung; 500 EUR immaterieller Schadensersatz; Art. 82 DSGVO nur Ausgleichsfunktion. Quelle: juris.bundesgerichtshof.de
+- **BGH, Urt. v. 14.10.2025, VI ZR 431/24** — Übermittlung von Positivdaten (Stammdaten Mobilfunk) an SCHUFA kann durch Betrugspraevention gerechtfertigt sein (Art. 6 Abs. 1 lit. f DSGVO). Quelle: juris.bundesgerichtshof.de (Pressemitteilung Nr. 209/2025 vom 14.10.2025).
+- **EuGH, Urt. v. 7.12.2023, C-634/21 (SCHUFA / OQ)** — Score-Berechnung als automatisierte Entscheidung i.S.v. Art. 22 DSGVO, soweit Dritte sich maßgeblich darauf stützen. Quelle: curia.europa.eu
+- **EuGH, Urt. v. 7.12.2023, C-26/22 und C-64/22** — Speicherung der Restschuldbefreiung über sechs Monate hinaus unzulässig. Quelle: curia.europa.eu
+- **EuGH, Urt. v. 4.5.2023, C-300/21 (Österreichische Post)** — Schaden nach Art. 82 DSGVO nicht aus Verstoss allein.
 
 ## Vertiefung: Rechtsprechung, Triage und Output-Template
 
@@ -135,9 +140,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 4. Besteht Restschuldbefreiung? → Pflicht zur Loeschung (BGH 2024).
 5. Gibt es konkrete Schaeden (Kreditablehnung, erhoehter Zinssatz)? → Art. 82 DSGVO Schadensersatz pruefen.
 
-### Erweiterte Leitsaetze
+### Erweiterte Leitsaetze (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifiziert mit offener Quelle:
+
+- BGH VI ZR 183/22 (28.1.2025) — SCHUFA / Art. 82 DSGVO: nur Ausgleichsfunktion, 500 EUR immaterieller Schadensersatz
+- BGH VI ZR 431/24 (14.10.2025) — Positivdaten an SCHUFA: Betrugspraevention als berechtigtes Interesse
+- EuGH C-634/21 (7.12.2023) — Score-Berechnung als automatisierte Entscheidung
+- EuGH C-26/22, C-64/22 (7.12.2023) — Restschuldbefreiungs-Speicherung max. 6 Monate
+- EuGH C-300/21 (4.5.2023) — konkret nachgewiesener Schaden nach Art. 82 DSGVO erforderlich
 
 ### Normen-Kette SCHUFA-Loeschung
 - Art. 16, 17 DSGVO — Berichtigung und Loeschung

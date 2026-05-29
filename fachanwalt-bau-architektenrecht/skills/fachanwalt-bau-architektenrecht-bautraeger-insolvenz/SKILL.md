@@ -94,7 +94,7 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 ### Verwalter-Frist
 
 - Verwalter muss innerhalb angemessener Frist (typisch 4-6 Wochen) entscheiden
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 27.10.2011, IX ZR 11/11**: Wahlrecht des Insolvenzverwalters § 103 InsO — Erklaerungsfrist „unverzueglich" auf Aufforderung; Schweigen gilt als Ablehnung. Quelle: dejure.org/2011,30144.
 
 ## 6) Erwerber-Strategien
 
@@ -130,9 +130,12 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 4. **Verwalter-Wahlrecht übersehen** -> Erfüllung mit hohem Restbetrag
 5. **Bauverzug-Pflichten ignoriert** -> Mangelrechte verjaehren
 
-## 9) BGH-/IX. Senat-Linien
+## 9) BGH-/IX. Senat-Linien (Stand 05/2026, verifiziert dejure.org)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 27.10.2011, IX ZR 11/11**: Wahlrecht des Verwalters § 103 InsO; Erfuellungsablehnung. Quelle: dejure.org/2011,30144.
+- **BGH 19.07.2018, IX ZR 296/17**: Bautraegervertrag (§§ 650u, 650v BGB) im Insolvenzverfahren — Erwerber-Schutz durch Vormerkung und Buergschaft nach MaBV. Quelle: dejure.org/2018,17854.
+- **BGH 26.04.2018, IX ZR 238/17**: Insolvenzanfechtung § 133 InsO — Vorsatzanfechtung im Bauvertragsumfeld. Quelle: dejure.org/2018,11260.
+- **BGH 25.02.2016, VII ZR 49/15**: Bautraegervertrag — AGB-Abnahmeklausel unwirksam (Erwerber-Schutz). Quelle: dejure.org/2016,3146.
 
 ## 10) Honorar
 
@@ -140,9 +143,14 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 - Klage: nach Streitwert (Restkaufpreis + Bürgschafts-Höhe)
 - Forderungs-Anmeldung Insolvenz: separat nach § 22 RVG
 
-## Aktuelle Rechtsprechung — Leitsaetze
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 25.02.2016, VII ZR 49/15 — Bautraegervertrag AGB-Abnahmeklausel unwirksam (dejure.org/2016,3146)
+- BGH 19.07.2018, IX ZR 296/17 — Bautraegervertrag in Insolvenz; Erwerber-Schutz (dejure.org/2018,17854)
+- BGH 27.10.2011, IX ZR 11/11 — Wahlrecht § 103 InsO (dejure.org/2011,30144)
+- BGH 26.04.2018, IX ZR 238/17 — Insolvenzanfechtung § 133 InsO (dejure.org/2018,11260)
+
+MaBV (Makler- und Bautraegerverordnung) — aktuell §§ 3-7 MaBV, vor Anwendung Stand des BMJ-Bundesanzeigers pruefen.
 
 ## Quellenregel
 

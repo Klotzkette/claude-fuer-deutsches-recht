@@ -127,9 +127,15 @@ Bevor losgelegt wird, klaere:
 4. **Zeitfenster?** Stillhalte-Vereinbarung (Standstill, typisch 90 Tage) als Verhandlungs-Voraussetzung.
 5. **Handlungsunfaehigkeit der Schuldnerin?** § 15a InsO Antragspflicht — kein Verhandlungsexzess auf Kosten der Antragspflicht.
 
-## Aktuelle Leitentscheidungen
+## Aktuelle Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Bargeschäft / Unlauterkeit (§ 142 InsO). Relevanz: in Sanierungsverhandlungen vereinbarte Zahlungsmodelle (Cash-on-Delivery, Vorkasse) bleiben grundsätzlich anfechtungsfest, wenn sie gleichwertig, unmittelbar und nicht gezielt schädigend für übrige Gläubiger sind.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; Stundungs- und Ratenzahlungsvereinbarungen sind günstiger zu beurteilen, wenn keine konkrete Erwartung dauerhafter Liquiditätsunterdeckung dokumentiert ist.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — Eingriffe in Aktionärsrechte über StaRUG-Plan verfassungsrechtlich grundsätzlich zulässig (Schlechterstellungsprüfung beachten).
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Konkrete BGH-Linien zur Sanierungsmoderation (§§ 94 ff. StaRUG) und zum Sanierungsprivileg (§ 39 Abs. 4 InsO) vor Ausgabe über offene Quellen verifizieren.
 
 ## Paragrafenkette Glaeubigerverhandlung
 

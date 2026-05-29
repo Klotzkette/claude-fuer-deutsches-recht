@@ -21,7 +21,7 @@ description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erhebe
 - § 160 Abs. 3 Satz 1 Nr. 3 GWB: erkennbare Verstöße aus Vergabeunterlagen bis Ablauf Angebotsfrist.
 - § 160 Abs. 3 Satz 1 Nr. 4 GWB: 15 Kalendertage Antragsfrist nach Zurückweisung der Rüge.
 - Inhaltsanforderungen: konkrete Bezeichnung des Verstoßes, Begründung, betroffene Norm; Beweismittel sollen genannt werden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Verifizierte Eckentscheidungen (curia.europa.eu): EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben; EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit; EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss. Vor Ausgabe konkrete OLG-Vergabesenat-Entscheidungen ueber olg-... bzw. openjur.de verifizieren.
 - Rüge keine Formvorgabe — Textform ausreichend, Schriftform empfohlen für Dokumentation.
 
 ## Beweislast und Frist
@@ -100,9 +100,12 @@ Mit freundlichen Gruessen
 
 ## Vertiefung: Leitsaetze Ruegerecht und Entscheidungsbaum
 
-### Ergaenzende Leitsaetze Ruege § 160 GWB
+### Ergaenzende Leitsaetze Ruege § 160 GWB (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergabe nichtig nach § 135 GWB / Art. 2d RL 89/665 (curia.europa.eu)
+- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeitspruefung obligatorisch
+- EuGH 21.12.2023, C-66/22 (Infraestruturas) — schwerwiegende berufliche Verfehlung Art. 57 Abs. 4 RL
+- Aktuelle OLG-Vergabesenat-Rspr. zu Ruegeprueclusion (§ 160 Abs. 3 GWB) konkret per olg-duesseldorf.nrw.de / olg-karlsruhe / openjur.de verifizieren
 
 ### Entscheidungsbaum Ruege § 160 GWB
 

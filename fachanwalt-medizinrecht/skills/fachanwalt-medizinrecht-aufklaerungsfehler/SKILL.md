@@ -27,9 +27,12 @@ description: "Workflow-Skill zu fachanwalt medizinrecht aufklaerungsfehler. Nutz
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mutmaßliche Einwilligung § 630d Abs. 1 Satz 4 BGB: bei Notfall und fehlender Einwilligungsfähigkeit nach dem mutmaßlichen Willen handeln.
 
-### BGH-Rechtsprechung
+### BGH-Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 21.01.2025 — VI ZR 204/22 (VI. Zivilsenat): Beweislast für hypothetische Einwilligung trägt nach § 630h Abs. 2 Satz 2 BGB der Behandelnde, nicht der Patient; der Patient muss lediglich plausibel einen Entscheidungskonflikt darlegen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.01.2025&Aktenzeichen=VI+ZR+204/22
+- BGH 25.11.2025 — VI ZR 165/23: Weitere Vertiefung zur hypothetischen Einwilligung. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
+
+Weitere Entscheidungen vor Ausgabe in dejure.org / openjur.de live verifizieren.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
@@ -56,8 +59,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 5 | Verständlichkeit, Sprache | § 630e Abs. 2 Nr. 3 BGB | Dolmetscher? Fremdsprachiger Bogen? |
 | 6 | Schriftlicher Bogen als Ergänzung | § 630h Abs. 2 BGB | Individualisiert oder Standardformular? |
 | 7 | Beweislast Aufklärung | § 630h Abs. 2 BGB | Arzt muss Aufklärung beweisen |
-| 8 | Kausalität | BGH-Rspr. | Eingetretene Folge ist von nicht aufgeklärtem Risiko umfasst? |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 8 | Kausalität | BGH 21.01.2025 — VI ZR 204/22 | Eingetretene Folge ist von nicht aufgeklärtem Risiko umfasst; hypothetische Einwilligung — Beweislast beim Arzt |
+| 9 | Hypothetische Einwilligung | § 630h Abs. 2 S. 2 BGB; BGH 21.01.2025 — VI ZR 204/22 | Patient muss plausiblen Entscheidungskonflikt darlegen; Beweis trägt der Behandelnde |
 | 10 | Schadensumfang | §§ 249, 253 BGB | Alle Folgen der rechtswidrigen Behandlung |
 
 ## Häufige Aufklärungsmängel
@@ -134,9 +137,9 @@ Anlagen:
 
 | Einwand Arzt | Reaktion Patient |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Hypothetische Einwilligung — Patient hätte ohnehin zugestimmt | Beweislast für hypothetische Einwilligung trägt der Arzt: BGH 21.01.2025 — VI ZR 204/22; Patient muss nur plausiblen Entscheidungskonflikt darlegen |
 | Eilsituation — mutmaßliche Einwilligung | § 630d Abs. 1 Satz 4 BGB: Eilsituation muss dokumentiert sein; Grenze bei planbaren Eingriffen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Standardbogen ersetzt Gespräch | § 630e Abs. 2 BGB — Bogen ergänzt, ersetzt aber nicht das individuelle Aufklärungsgespräch |
 | Begleitperson hat zugestimmt | Eigene Einwilligung des einwilligungsfähigen Patienten erforderlich; Begleitperson kann nur ergänzen |
 
 ## Streitwert und Kosten
@@ -157,7 +160,9 @@ Anlagen:
 ## Quellen
 
 - BGB §§ 630c, 630d, 630e, 630h, 823, 253, 249
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 21.01.2025 — VI ZR 204/22 (Beweislast hypothetische Einwilligung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.01.2025&Aktenzeichen=VI+ZR+204/22
+- BGH 25.11.2025 — VI ZR 165/23 (Vertiefung hypothetische Einwilligung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
+- Weitere Rechtsprechung vor Ausgabe in dejure.org / openjur.de live verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 

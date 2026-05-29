@@ -24,11 +24,12 @@ Anwaltliche Vertretung eines Tierhalters (Schäfer, Rinderhalter, Hobbyhalter) b
 
 ### Primärnormen
 
-- **§ 44 Abs. 1 Nr. 1 BNatSchG** — Verbot des Fangens, Verletzens und Tötens wildlebender Tiere streng geschützter Arten; Wolf = Anhang IV FFH-Richtlinie = streng geschützt.
+- **§ 44 Abs. 1 Nr. 1 BNatSchG** — Verbot des Fangens, Verletzens und Tötens wildlebender Tiere streng geschützter Arten; Wolf = Anhang IV FFH-Richtlinie = streng geschützt. Hinweis: Berner Konvention Status des Wolfs auf "geschützt" (Anhang III) herabgestuft mit Wirkung 7.3.2025; FFH-Anhang IV-Status formal stabil bis EU-rechtliche Folgeanpassung.
 - **§ 45 Abs. 7 Satz 1 Nr. 1 BNatSchG** — Ausnahme vom Tötungsverbot bei "ernsten wirtschaftlichen Schäden", soweit keine zumutbare Alternative besteht und der günstige Erhaltungszustand nicht gefährdet wird.
-- **§ 45a BNatSchG** (eingefügt durch Gesetz vom 19.12.2023, BGBl. I Nr. 399) — Schnellabschuss: bei bestätigtem Riss trotz überwundener wolfssicherer Schutzmaßnahme; Entnahme im Radius 1000 Meter um Rissstelle ohne DNA-Individualidentifikation; Genehmigungsfenster 21 Tage.
-- **§ 45 Abs. 7 Satz 2 BNatSchG** — Vorrangigkeit geringfügigerer Maßnahmen (Vergrämung, Umsiedlung) als Alternativenprüfung.
+- **Aufnahme in das Bundesjagdgesetz (Stand 04/2026):** Der Wolf ist durch Gesetz zur Änderung des BJagdG und des BNatSchG (Kabinettsbeschluss vom 17.12.2025, Bundesrat 2026) in das Bundesjagdgesetz aufgenommen worden; Inkrafttreten 02.04.2026. **§ 45a BNatSchG ist in seiner Wolf-Schnellabschuss-Funktion aufgehoben.** An seiner Stelle treten landesrechtliche Managementpläne auf Grundlage des BJagdG; eine Bejagungszeit von Juni bis Oktober ist vorgesehen, soweit ein günstiger Erhaltungszustand festgestellt ist. Mandate, die noch nach altem § 45a BNatSchG-Schnellabschussverfahren laufen (Genehmigungen vor 02.04.2026), sind nach dem zum Zeitpunkt der Erteilung geltenden Recht zu beurteilen.
+- **§ 45 Abs. 7 Satz 2 BNatSchG** — Vorrangigkeit geringfügigerer Maßnahmen (Vergrämung, Umsiedlung) als Alternativenprüfung; **bleibt** anwendbar neben jagdrechtlicher Bestandsregulierung.
 - **FFH-Richtlinie 92/43/EWG Art. 16 Abs. 1 lit. b** — Mitgliedstaaten können Ausnahme gewähren "um ernste Schäden an Kulturen, Viehbeständen, Wäldern, Fischgründen ... zu verhüten".
+- **BJagdG (neu):** Wolf als jagdbare Art mit landesrechtlich differenzierter Jagdzeit; jagdrechtliche Bestandsregulierung setzt Hegeplan und Erhaltungszustand voraus.
 - **BArtSchV** — Bundesartenschutzverordnung; Verbotskonkretisierung.
 
 ### Leitentscheidungen
@@ -58,17 +59,21 @@ Maßstab nach Länder-Empfehlungen (DBBW, LWK):
 - Herdenschutzhund (HSH) mind. 1 je 150 Schafe; Dokumentation
 - Alternativ: Nacht-Einpferchung in Stallgebäude
 
-## Schnellabschuss-Verfahren § 45a BNatSchG (seit Januar 2024)
+## Schnellabschuss-Verfahren (historisch § 45a BNatSchG — bis 01.04.2026)
 
-| Merkmal | Inhalt |
+§ 45a BNatSchG in der Schnellabschussfassung ist mit Wirkung 02.04.2026 aufgehoben. Skill-relevant nur noch für:
+- Altmandate mit Genehmigungen vor diesem Stichtag (Streit über deren Reichweite, Verlängerung, Anfechtung durch Naturschutzverbände nach § 64 BNatSchG).
+- Übergangsmandate, in denen die Genehmigung vor dem 02.04.2026 erteilt wurde und das 21-Tage-Fenster danach abläuft (gilt nach allgemeinen Verwaltungsverfahrensgrundsätzen weiter — Anwendbarkeit der Norm zum Zeitpunkt der Erteilung).
+
+| Merkmal | Inhalt (Altrecht) |
 |---|---|
 | Auslöser | Bestätigter Riss trotz überwundener wolfssicherer Schutzmaßnahme |
-| Räumlich | 1000-Meter-Radius um die GPS-Koordinaten der Rissstelle |
-| Zeitlich | 21 Tage ab Genehmigungserteilung durch Behörde |
+| Räumlich | 1000-Meter-Radius um GPS-Koordinaten der Rissstelle |
+| Zeitlich | 21 Tage ab Genehmigungserteilung |
 | DNA-Pflicht | Nein — kein Individualnachweis; raumgebundene Entnahme |
-| Vorteil | Schnell, ohne aufwändige DNA-Zuordnung |
-| Risiko | Möglicherweise falscher Wolf erlegt; artenschutzrechtlich umstritten; Klagerisiko durch Naturschutzverbände § 64 BNatSchG |
-| Verfahrensdauer | Ziel: 7 Tage ab Antrag; Rechtspraxis: 5–14 Tage |
+| Verfahrensdauer | Ziel: 7 Tage ab Antrag |
+
+Für **neue Mandate ab 02.04.2026** sind jagdrechtliche Bestandsregulierung nach BJagdG (mit landesrechtlich differenzierter Jagdzeit Juni–Oktober) und Einzelausnahmen nach § 45 Abs. 7 BNatSchG die maßgeblichen Pfade. Sondergenehmigung bei akuten Rissen erfolgt — soweit keine Jagdzeit greift — über § 45 Abs. 7 BNatSchG.
 
 ## Workflow
 
@@ -202,18 +207,18 @@ nach Vorliegen der DNA-Bestätigung.
 
 ## Quellen
 
-- BNatSchG §§ 44, 45, 45a (Stand 19.12.2023)
-- FFH-Richtlinie 92/43/EWG Art. 12, 16
-- BArtSchV
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- DBBW Wolfsvorkommen Deutschland — Monitoring (laufend)
-- Louis/Engelke BNatSchG-Kommentar
+Stand 05/2026. **Achtung Rechtsänderung:** § 45a BNatSchG (Schnellabschussfassung) aufgehoben; Wolf in BJagdG aufgenommen (Inkrafttreten 02.04.2026; Bundesrats-Zustimmung 2026).
 
-## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+- BNatSchG §§ 44, 45 (geltende Fassung) — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bnatschg_2009/)
+- BJagdG mit Wolf als jagdbare Art (Fassung ab 02.04.2026) — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bjagdg/)
+- BMLEH-Pressemitteilung Kabinettsbeschluss vom 17.12.2025 — [bmleh.de](https://www.bmleh.de/SharedDocs/Pressemitteilungen/DE/2025/125-aufnahme-wolf-bundesjagdgesetz.html)
+- BMLEH-Pressemitteilung Bundesrat-Zustimmung 2026 — [bmleh.de](https://www.bmleh.de/SharedDocs/Pressemitteilungen/DE/2026/030-wolf.html)
+- BT-Drs. 21/3546 vom 12.01.2026 — [dserver.bundestag.de](https://dserver.bundestag.de/btd/21/035/2103546.pdf)
+- FFH-Richtlinie 92/43/EWG Art. 12, 16 — [EUR-Lex](https://eur-lex.europa.eu/eli/dir/1992/43/oj)
+- Berner Konvention (Wolf-Herabstufung in Anhang III, in Kraft seit 07.03.2025)
+- DBBW Wolfsmonitoring — [dbb-wolf.de](https://www.dbb-wolf.de/)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ---
 <!-- AUDIT 27.05.2026 -->

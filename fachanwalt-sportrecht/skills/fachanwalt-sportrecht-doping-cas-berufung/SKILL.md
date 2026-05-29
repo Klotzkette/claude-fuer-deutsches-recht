@@ -71,9 +71,9 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 ### Anfechtung Schiedsspruch
 
-- Schweizer Bundesgericht (begrenzte Anfechtungs-Gründe)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- EGMR-Linie zu Schiedszwang Sport
+- Schweizer Bundesgericht (begrenzte Anfechtungs-Gründe nach Art. 190 IPRG).
+- **Zweiter Pfad seit August 2025:** EuGH, Urt. v. 01.08.2025 — C-600/23 (RFC Seraing) — Nationale Gerichte in EU-Mitgliedstaaten können CAS-Schiedssprüche auf Vereinbarkeit mit Unionsrecht (Grundfreiheiten, Wettbewerbsrecht, Charta) inhaltlich prüfen. Verifikation [curia.europa.eu](https://curia.europa.eu/) zu C-600/23. Strategisch zu prüfen: Vollstreckungsabwehr / Schadensersatzklage / Eilrechtsschutz bei betroffenem EU-Sportler.
+- EGMR-Linie zu Schiedszwang im Sport (Pechstein, Mutu/Pechstein gegen Schweiz, 02.10.2018 — Beschwerde-Nr. 40575/10 u. 67474/10) im Mandat live verifizieren — [hudoc.echr.coe.int](https://hudoc.echr.coe.int).
 
 ## 5) Workflow
 

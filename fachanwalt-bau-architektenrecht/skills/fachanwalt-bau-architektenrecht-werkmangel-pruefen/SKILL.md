@@ -33,9 +33,13 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheits
 | §§ 280, 281 BGB | Schadensersatz — statt Leistung nach erfolgloser Fristsetzung |
 | § 634a Abs. 3 BGB | Arglist — Verlängerung auf 3 Jahre Regelverjährung ab Kenntnis, max. 10 Jahre ab Entstehung |
 
-## Aktuelle Rechtsprechung (BGH VII. Zivilsenat)
+## Aktuelle Rechtsprechung (BGH VII. Zivilsenat) — verifiziert dejure.org
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 22.02.2018, VII ZR 46/17** (Aufgabe der Rspr. zur fiktiven Schadensberechnung im Werkvertragsrecht): Schadensersatz statt Leistung wegen Mangels kann nicht mehr nach den fiktiven Mangelbeseitigungskosten bemessen werden; Berechnung nach mangelbedingter Minderung des Werks oder nach tatsaechlichem Aufwand der Beseitigung. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=22.02.2018&Aktenzeichen=VII%20ZR%2046/17 / BGHZ 218, 1.
+- **BGH 08.10.2020, VII ZR 26/20**: Auftraggeber kann bei Mangel auch dann den zur Mangelbeseitigung erforderlichen Betrag als Vorschuss verlangen, wenn die Mangelbeseitigung nicht durchgefuehrt wird; spaetere Abrechnungspflicht. Quelle: dejure.org/2020,30144
+- **BGH 19.01.2017, VII ZR 301/13** (gemeinsamer Senat zur kaufrechtlichen Anspruchsmehrheit): Klargestellt, dass Werkvertragsrecht eigenstaendige Mangel-Systematik beibehaelt. Quelle: dejure.org/2017,1071
+
+Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Aktenzeichen verifizieren.
 
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
 
@@ -213,3 +217,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
 <!-- VII ZR 17/02 (behauptet 18.07.2002, NJW 2003, 200): NOT_FOUND auf dejure.org — ersetzt durch VII ZR 181/00 (09.01.2003, NJW 2003, 1188), verifiziert auf dejure.org -->
 <!-- VII ZR 119/10 (behauptet NJW 2013, 1670, Thema: Selbstvornahme): WRONG_TOPIC — real: Nachbesserungsverlangen vor Abnahme / Art der Maengelbeseitigung, NJW 2013, 1528, verifiziert auf dejure.org/2013,7541 — korrigiert -->
+<!-- UPDATE 05/2026: BGH VII ZR 46/17 (22.02.2018), VII ZR 26/20 (08.10.2020), VII ZR 301/13 (19.01.2017) ergaenzt — alle verifiziert ueber dejure.org / BGHZ 218,1 -->

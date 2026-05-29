@@ -157,13 +157,15 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande un
 ## Rechtsgrundlagen
 
 - § 17 InsO — Zahlungsunfaehigkeit (Insolvenzgrund)
-- § 18 InsO — Drohende Zahlungsunfaehigkeit (nur Eigenantrag)
-- § 19 InsO — Ueberschuldung und Fortbestehensprognose
+- § 18 InsO — Drohende Zahlungsunfaehigkeit (nur Eigenantrag; Prognosezeitraum 24 Monate)
+- § 19 InsO — Ueberschuldung und Fortbestehensprognose (Prognosezeitraum **12 Monate** seit 01.01.2024; SanInsKG-Verkürzung auf 4 Monate galt nur bis 31.12.2023, ist nicht verlängert worden)
 - § 15a InsO — Insolvenzantragspflicht (sechs Wochen bei Ueberschuldung, drei Wochen bei Zahlungsunfaehigkeit)
 - § 15b InsO — Zahlungsverbot und Haftung bei Insolvenzverschleppung
 - § 43 GmbHG — Haftung des Geschaeftsfuehrers
 - §§ 1-93 StaRUG — Restrukturierungsrahmen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater-Hinweispflicht bei Krisensignalen; bei verfehlter Fortbestehensprognose haftet Berater. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung zugunsten des (faktischen) GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - § 3a EStG — Steuerliche Behandlung Sanierungsgewinn
 
 ## Schritt-fuer-Schritt: Einstieg ins Plugin

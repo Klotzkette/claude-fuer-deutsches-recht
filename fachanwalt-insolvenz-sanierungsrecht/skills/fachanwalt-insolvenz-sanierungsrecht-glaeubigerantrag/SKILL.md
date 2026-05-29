@@ -99,13 +99,11 @@ Belege: Rechnung Anlage K1, Mahnschreiben Anlage K2, Zahlungsbefehl/Urteil Anlag
 Die Forderung ist trotz mehrfacher Mahnung (zuletzt [Datum]) nicht beglichen worden.
 
 III. Glaubhaftmachung des Eröffnungsgrundes (§ 17 InsO)
-Die Schuldnerin ist zahlungsunfähig (§ 17 InsO):
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Die Schuldnerin ist zahlungsunfähig (§ 17 InsO). Maßstab BGH-Linie zur Liquiditätsbilanz und Zahlungseinstellung (vor Antrag konkrete Aktenzeichen über dejure.org / openjur.de mit Datum verifizieren). Konkrete Indizien:
+a) Liquiditätsstatus zum Stichtag: Unterdeckung > 10 % (vgl. ständige BGH-Linie);
 b) Rücklastschriften der Schuldnerin vom [Datum], Anlage K4;
 c) Vollstreckungsversuche anderer Gläubiger (Pfändungsprotokolle Anlage K5);
-d) Eigene eidesstattliche Versicherung der Gläubigerin über Zahlungsverweigerung,
-   Anlage K6.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+d) Eigene eidesstattliche Versicherung der Gläubigerin über Zahlungsverweigerung, Anlage K6.
 
 [Bei jur. Person alternativ § 19 InsO:]
 Die Schuldnerin ist überschuldet (§ 19 InsO): Der letzte Jahresabschluss [Jahr] weist ein
@@ -183,11 +181,11 @@ Das Gericht möge den Eröffnungsantrag zurückweisen.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion Gläubiger |
 |---------------|---------------------|--------------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Zahlungsunfähigkeit liege nicht vor | § 17 InsO | Liquiditätsstatus zum Stichtag konkret darstellen; Indizien iSd ständiger BGH-Linie zur Zahlungseinstellung |
 | Forderung bestritten (Gegenforderung) | § 14 Abs. 1 InsO | Bestreitung muss substanziiert sein; bei Titulierung Gläubigerforderung unbestreitbar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Stundung bestreitend Forderung fällig | BGH-Linie zur echten Stundung | Beweis konkret echter Stundungsvereinbarung; faktische Duldung beseitigt Fälligkeit nicht (Verifikation Az. über dejure.org) |
 | Masselosigkeit § 26 InsO | § 26 InsO | Kostenvorschuss anbieten; Forderung aus Masseverbindlichkeit nach § 55 InsO bei Eröffnung sichergestellt |
-| Überschuldung bestritten (positive Fortführungsprognose) | § 19 InsO | Gegengutachten anfordern; Bankgespräche und Finanzierungszusagen als Belege |
+| Überschuldung bestritten (positive Fortführungsprognose) | § 19 InsO | Gegengutachten anfordern; Bankgespräche und Finanzierungszusagen als Belege; Prognosezeitraum 12 Monate (SanInsKG endete 31.12.2023) |
 | Schuldnerin leitet außergerichtliche Sanierung ein | §§ 17 ff. InsO | Keine automatische Rücknahme des Antrags; Gläubiger kann Verfahren fortsetzen; Vergleich verhandeln |
 
 ## Streitwert und Kosten
@@ -222,6 +220,7 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 ## Quellen
 
 - InsO §§ 14, 17, 18, 19, 21, 22, 26, 27
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- BGH-Linie zur Zahlungsunfähigkeit (Liquiditätsbilanz, 10 %-Schwelle, Zahlungseinstellung): konkrete Aktenzeichen vor Ausgabe über dejure.org / openjur.de mit Datum verifizieren.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (für Antragsbegründung bei Wechsel der Geschäftsleitung).
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle.

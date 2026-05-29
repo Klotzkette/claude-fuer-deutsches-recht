@@ -23,8 +23,9 @@ description: "Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat B
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OLG Frankfurt a.M., Beschl. v. 29.01.2021 - 2 Ss OWi 800/20, NZV 2021, 210 — Rotlicht-Video-Beweis: Kalibrierung der Messanlage muss nachgewiesen sein; ohne Kalibrier-Nachweis ist Messung in der Rechtsbeschwerde angreifbar.
+- OLG Frankfurt a.M., Beschl. v. 29.1.2021 - 2 Ss OWi 800/20 (NZV 2021, 210 — Volltext über openjur.de oder offene Justizdatenbank Hessen verifizieren): Rotlicht-Video-Beweis: Kalibrierung der Messanlage muss nachgewiesen sein; ohne Kalibrier-Nachweis ist Messung in der Rechtsbeschwerde angreifbar.
+- OLG-Linien zu § 23 Abs. 1a StVO (Handynutzung): vor Versand in openjur.de und offenen Landesjustiz-Datenbanken verifizieren — insbesondere zur Abgrenzung "Halten" vs. "blosses Berühren".
+- Abstandsverstoss § 4 StVO: standardisiertes Messverfahren mit Videoabstandsmessung VAMA/VKS und ProViDa; konkrete OLG-Aktenzeichen vor Versand in offener Quelle aufrufen.
 
 ## Quellenregel
 

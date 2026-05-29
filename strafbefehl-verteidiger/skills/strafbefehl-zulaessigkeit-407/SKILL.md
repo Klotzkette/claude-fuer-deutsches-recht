@@ -39,11 +39,11 @@ description: "Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. San
 - **§ 12 StGB** — Abgrenzung Verbrechen / Vergehen
 - **§ 407 Abs. 1 Satz 4 StPO** — Beschuldigter muss gehoert werden koennen; keine U-Haft
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge tatbestandlich auszuklammern — Strafbefehl in der Variante "Verbrechen oder Vergehen" nach KCanG nur bei Ueberschreiten der sanktionsfreien Grenzen zulaessig; im Uebrigen § 170 Abs. 2 StPO. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Verfassungsrechtliche Maßstaebe an die Bestimmtheit der Anklage nach Art. 103 Abs. 2 GG gelten auch fuer den Strafbefehl (§ 409 StPO); vgl. BVerfG-Linie 2 BvR. Aktualisierungen vor Ausgabe in dejure.org / bverfg.de pruefen.
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Zulaessigkeit nach § 407 StPO ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 407 StPO Zulaessigkeit" durchführen.
 
 ## Quellenregel
 

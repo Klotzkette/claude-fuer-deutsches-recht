@@ -1,6 +1,6 @@
 {
   "name": "zwangsvollstreckung",
-  "version": "24.2.0",
+  "version": "29.0.0",
   "description": "Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz.",
   "license": "Apache-2.0 OR MIT",
   "author": {

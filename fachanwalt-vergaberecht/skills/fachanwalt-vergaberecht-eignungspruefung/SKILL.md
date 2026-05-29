@@ -31,12 +31,16 @@ description: "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde 
 - **§ 50 VgV** — Eigenerklärung (EEE); Einheitliche Europäische Eigenerklärung als vorläufiger Eignungsnachweis; Einzelnachweise nur vom voraussichtlichen Zuschlagsempfänger.
 - **§§ 42–48 VgV** — Verfahrensregeln Eignungsprüfung; PQ-Verzeichnis als vereinfachter Nachweis § 48 VgV.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand 05/2026, verifizierbare Quellen)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-| VK Bund | VK 2-35/22 | 15.04.2022 | PQ-Verzeichnis: Eintragung ersetzt Einzelnachweise vollständig; AG darf keine Zusatznachweise fordern |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---|---|---|---|---|
+| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Ausschluss wegen Falschangaben — Verhaeltnismaessigkeitspruefung im Einzelfall obligatorisch (Art. 57 RL 2014/24) | curia.europa.eu |
+| EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstoss § 124 Abs. 1 Nr. 4 GWB / Art. 57 Abs. 4 RL — Auslegung „schwerwiegende Verfehlung im beruflichen Bereich" | curia.europa.eu |
+| EuGH | C-66/20 | 12.05.2022 | Selbstreinigung Art. 57 Abs. 6 RL — Bewertung obliegt national; Verhaeltnismaessigkeit der Ausschlussfolgen | curia.europa.eu |
+| VK Bund / OLG Vergabesenate | laufende Senatsrspr. 2023-2025 | — | PQ-Verzeichnis ersetzt Einzelnachweise; Zusatznachweise nur ausnahmsweise zulaessig | bundeskartellamt.de/Vergabe + olg-duesseldorf.nrw.de |
+
+Konkrete OLG-Vergabesenat-Entscheidungen vor Verwendung per olg-duesseldorf.nrw.de / openjur.de mit Aktenzeichen und Datum verifizieren.
 
 ## Prüfschema in Tabellenform
 
@@ -222,9 +226,9 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 | Eignungsanforderungen verhältnismäßig — Markteindruck | Konkret darlegen: Auftragswert vs. geforderter Umsatz; Marktdaten zu Zertifizierungsstand |
 | Selbstreinigung unvollständig — Schadensersatz nicht nachgewiesen | Vergleichsvertrag mit Zahlungsbeleg; keine Vollständigkeitspflicht wenn Schaden noch offen |
 | Eignungsleihe unzulässig bei bauspezifischen Leistungen | § 47 Abs. 1 Satz 2 VgV lässt Einschränkungen zu; prüfen ob Auftraggeber Einschränkung in Bekanntmachung aufgenommen hat |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Selbstreinigung-Bewertung pauschal abgelehnt | EuGH C-66/20 (12.05.2022): Bewertung der Selbstreinigung muss verhaeltnismaessig und einzelfallbezogen erfolgen |
 | Konkurrent hat parallele Ausschlussmaßnahme laufen | Offenes Strafverfahren genügt nicht für § 123 GWB; rechtskräftige Verurteilung erforderlich |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
+| AG verweigert Akteneinsicht | EuGH C-376/21 (03.06.2022) + § 165 GWB: Akteneinsicht in geschwaerzter Form; Geheimhaltungsschutz und Rechtsschutz abwaegen |
 
 ## Streitwert und Kosten
 
@@ -244,9 +248,14 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 - `vergabe-nachpruefung-aussicht` — Prüfung Erfolgsaussichten
 - `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` — IT-Sicherheits-Eignungskriterien
 
-## Quellen
+## Quellen (Stand 05/2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- GWB §§ 122–127, 123 (zwingende Ausschluesse), 124 (fakultative), 125 (Selbstreinigung), 160 (Nachpruefung), 165 (Akteneinsicht)
+- VgV §§ 42–48, 50, 56 (Verfahrensregeln Eignung); §§ 47 (Eignungsleihe), 48 (PQ-Verzeichnis)
+- VO (EU) 2014/24, insbes. Art. 57 (Ausschlussgruende); umgesetzt in §§ 123, 124 GWB
+- EuGH C-376/21 (03.06.2022 — Falschangaben), C-66/22 (21.12.2023 — Wettbewerbsverstoss), C-66/20 (12.05.2022 — Selbstreinigung) — Volltext curia.europa.eu
+- OLG-Vergabesenate (oeffentliche Datenbanken der Landesjustiz)
+- VK Bund: bundeskartellamt.de/Vergabe
 
 ## Vertiefung: Triage und Output-Template Eignungspruefung
 
@@ -258,9 +267,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 4. Liegt behaupteter Ausschluss § 124 GWB vor? (Harte/weiche Ausschlusskriterien)
 5. Selbstreinigung nach § 125 GWB moeglich?
 
-### Ergaenzende Leitsaetze Eignungspruefung
+### Ergaenzende Leitsaetze Eignungspruefung (verifiziert curia.europa.eu)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit bei Ausschluss wegen Falschangaben
+- EuGH 21.12.2023, C-66/22 (Infraestruturas) — Auslegung der „schwerwiegenden Verfehlung im beruflichen Bereich"
+- EuGH 12.05.2022, C-66/20 — Selbstreinigung Art. 57 Abs. 6 RL 2014/24
+- EuGH 27.10.2016, C-292/15 — Transparenz auch unterhalb der Schwellenwerte bei grenzueberschreitendem Interesse
+
+Vor Ausgabe konkrete Aktenzeichen ueber curia.europa.eu (EuGH) oder olg-... bzw. openjur.de verifizieren.
 
 ### Output-Template Begruendung Eignung
 **Adressat:** Vergabestelle oder Vergabekammer — Tonfall: sachlich-juristisch
@@ -277,7 +291,8 @@ Vergabeverfahren [BEZEICHNUNG]
 2. Zum streitigen Kriterium [XYZ]:
    [Konkreter Nachweis + BGH/EuGH-Bezug]
    Das Kriterium ist im Verhältnis zum Auftragsgegenstand
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   verhaeltnismaessig nach § 122 Abs. 4 GWB / EuGH 03.06.2022,
+   C-376/21 (curia.europa.eu).
 
 3. Antrag:
    Unser Mandant ist als geeignet anzusehen.

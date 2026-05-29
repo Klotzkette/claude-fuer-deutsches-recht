@@ -236,5 +236,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
-- Gesetzesfassungen zum Stand-Datum
-- ZVG in der aktuellen Fassung
+- ZVG in der aktuellen Fassung; Normbestand abrufbar unter https://www.gesetze-im-internet.de/zvg/
+- Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110) gilt vom 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
+- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 wirkt sich auf Beschwerdesummen aus; Uebergangsvorschrift § 47 EGZPO.
+- BGH V. ZS und VII. ZS aktuelle Linien zu Versteigerung und Zuschlag ueber https://www.bundesgerichtshof.de und https://dejure.org pruefen.

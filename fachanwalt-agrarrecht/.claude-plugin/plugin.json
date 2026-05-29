@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-agrarrecht",
-  "version": "24.2.0",
+  "version": "29.0.0",
   "description": "Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -194,7 +194,16 @@ Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigung
 
 ## Quellen
 
-- §§ 433, 453, 444, 613a BGB; § 15 GmbHG; §§ 68 AktG; §§ 35 ff. GWB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
+- § 433 BGB: https://www.gesetze-im-internet.de/bgb/__433.html
+- § 453 BGB (Rechtskauf/Anteilskauf): https://www.gesetze-im-internet.de/bgb/__453.html
+- § 444 BGB (Arglist): https://www.gesetze-im-internet.de/bgb/__444.html
+- § 613a BGB (Betriebsuebergang Asset Deal): https://www.gesetze-im-internet.de/bgb/__613a.html
+- § 15 GmbHG (Abtretung GmbH-Anteile, Notarpflicht): https://www.gesetze-im-internet.de/gmbhg/__15.html
+- § 68 AktG (Vinkulierung Namensaktien): https://www.gesetze-im-internet.de/aktg/__68.html
+- §§ 35 ff. GWB (Fusionskontrolle Bundeskartellamt): https://www.gesetze-im-internet.de/gwb/__35.html
+- FKVO (VO (EG) Nr. 139/2004 EU-Fusionskontrolle): https://eur-lex.europa.eu/eli/reg/2004/139
+- AWG §§ 4-6, AWV §§ 55 ff. (Investitionspruefung): https://www.gesetze-im-internet.de/awv_2013/
+- EU FSR (VO 2022/2560; M&A-Notifizierungspflicht ab 12.10.2023): https://eur-lex.europa.eu/eli/reg/2022/2560
+- MoPeG (in Kraft 01.01.2024) — Asset/Share Deal bei Personengesellschaften, neue eGbR-Eintragung: https://www.gesetze-im-internet.de/bgb/__705.html
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

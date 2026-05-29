@@ -13,18 +13,18 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 ## Rechtsgrundlagen
 
 - § 16 BetrAVG (Anpassungsprüfungspflicht; Ermessen; wirtschaftliche Lage)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- § 1 BetrAVG (Begriffe; Versorgungszusagen)
+- §§ 7 ff. BetrAVG (Insolvenzsicherung über PSVaG)
+- § 19 BetrAVG (Tarifdispositiv)
 - § 77 Abs. 4 BetrVG (Betriebsvereinbarungen wirken normativ)
 - §§ 76, 80 BetrVG (Einigungsstelle, allgemeine Aufgaben Betriebsrat)
 - IORP II Art. 21–26 (System of Governance für Einrichtungen der betrieblichen Altersversorgung)
 - VAG §§ 26, 234 (Governance-Anforderungen Pensionskassen und Pensionsfonds)
 - MaRisk (Mindestanforderungen an das Risikomanagement — analog anwendbar auf interne Pension Committees)
 - IAS 19.135–145 (Angabepflichten zu Governance und Risikomanagement)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Mindestbesteuerungsgesetz (MinBestG)** vom 27.12.2023, BGBl. I 2023 Nr. 397 (in Kraft seit 31.12.2023): Pillar 2 / GloBE-Regeln; Mindeststeuersatz 15 % für multinationale Konzerne ab 750 Mio. EUR Umsatz; Auswirkungen auf bAV-Kalkulation (Deferred Tax Assets aus Pensionsrückstellungen)
+- **OECD GloBE Administrative Guidance** (5. Tranche Januar 2025; veröffentlicht auf oecd.org); BMF-Datenformat 2024 Mindeststeuerbericht (August 2025, Quelle: bundesfinanzministerium.de)
+- BGH/BAG-Linien zu § 16 BetrAVG: konkrete Aktenzeichen vor Versand in bundesarbeitsgericht.de oder dejure.org verifizieren; nicht aus Modellwissen.
 
 ### Quellenregel
 
@@ -57,8 +57,8 @@ Dr. von Sompeh-Ostermann empfiehlt für Konzerne mit einer DBO über EUR 100 Mio
 ### Schritt 3: Anpassungsentscheidung § 16 BetrAVG — Prüfungsschema
 
 **Dreijährlicher Prüfungsrhythmus (Stichtag):**
-- Maßgeblicher Zeitpunkt: Dreijahresende ab Rentenbeginn des jeweiligen Rentnerkollektivs (praxisüblich: gemeinsamer Stichtag 1. Januar alle drei Jahre für gesamtes Kollektiv)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Maßgeblicher Zeitpunkt: Dreijahresende ab Rentenbeginn des jeweiligen Rentnerkollektivs (praxisüblich: gemeinsamer Stichtag 1. Januar alle drei Jahre für gesamtes Kollektiv).
+- Konkrete BAG-Linie zum Bündelungs-/Stichtagsmodell: Aktenzeichen vor Versand in bundesarbeitsgericht.de oder dejure.org verifizieren.
 
 **Zweistufige Prüfung:**
 
@@ -66,9 +66,10 @@ Dr. von Sompeh-Ostermann empfiehlt für Konzerne mit einer DBO über EUR 100 Mio
 Vergleich VPI (Statistisches Bundesamt) über Dreijahreszeitraum → ermittelt Anpassungsbedarf.
 
 *Stufe 2 — Wirtschaftliche Leistungsfähigkeit:*
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BAG-Linie zur wirtschaftlichen Leistungsfähigkeit nach § 16 Abs. 1 BetrAVG: konkrete Aktenzeichen vor Versand in bundesarbeitsgericht.de oder dejure.org verifizieren; nicht aus Modellwissen.
 - Maßgeblich: HGB-Einzelabschluss des versorgungsverpflichteten Unternehmens (nicht Konzernabschluss, nicht IFRS)
 - Prognosezeitraum: Dreijahresfenster in die Zukunft
+- Pillar 2 / MinBestG ab 2024 (BGBl. I 2023 Nr. 397) kann effektive Konzernsteuerquote und damit Verteilungspuffer für Rentenanpassungen verändern; konzernweite Cashflow-Auswirkungen ins Gutachten einbeziehen.
 
 ---
 

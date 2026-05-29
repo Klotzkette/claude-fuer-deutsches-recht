@@ -15,7 +15,8 @@ description: "Workflow-Skill zu mandantenbrief warnung paragraph 102 starug temp
 - § 43 StBerG (Allgemeine Berufspflichten Steuerberater)
 - § 43 WPO (Berufspflichten Wirtschaftsprüfer)
 - § 43a BRAO (Grundpflichten Rechtsanwalt)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater haftet bei Erstellung des Jahresabschlusses auf unaufgeforderten Hinweis bei Krisensignalen; auch bei Teilauftrag. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutz der Warnpflicht zugunsten des (faktischen) Geschäftsführers. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 - §§ 280, 634 BGB (Haftung wegen Beratungspflichtverletzung)
 
 ---
@@ -310,6 +311,8 @@ _______________________________   _______________________________
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftungsfolgen
 
 
-## Weitere Leitentscheidungen
+## Weitere Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Hinweis- und Warnpflicht des Steuerberaters bei Krisensignalen.
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung zugunsten faktischer Geschäftsführer.
+- Aktuelle Urteile zur Berater-Haftung (Steuerberater, WP, RA) vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.

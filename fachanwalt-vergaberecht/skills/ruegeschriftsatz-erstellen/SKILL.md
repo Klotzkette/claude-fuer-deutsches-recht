@@ -376,9 +376,16 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ---
 
-## Quellen
+## Quellen (Stand 05/2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- GWB §§ 97 ff., 122–127, 134, 135, 160 (Ruegerobliegenheit Abs. 3), 165, 167, 169
+- VgV, SektVO, KonzVgV
+- VO (EU) 2014/24, VO (EU) 2022/1031 (IPI), VO (EU) 2023/1441 (Schwellenwerte)
+- EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben (curia.europa.eu)
+- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit Ausschluss (curia.europa.eu)
+- EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss (curia.europa.eu)
+- OLG Vergabesenate (oeffentliche Datenbanken: olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de)
+- VK Bund: bundeskartellamt.de/Vergabe
 
 ## Vertiefung: Output-Template Ruegeschriftsatz
 

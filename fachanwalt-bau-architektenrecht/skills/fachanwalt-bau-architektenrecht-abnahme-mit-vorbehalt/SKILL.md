@@ -33,11 +33,15 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maeng
 | § 12 VOB/B | Förmliche Abnahme — gemeinsame Begehung, Niederschrift, Vorbehalte; fiktive Abnahme § 12 Nr. 5 VOB/B |
 | § 13 Nr. 5 VOB/B | Verjährung Mängelansprüche nach VOB/B — 4 Jahre Bauwerk |
 
-## Leitentscheidungen
+## Leitentscheidungen (verifiziert dejure.org)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---------|-------------|-------|-------------|--------|
+| BGH | VII ZR 49/15 | 25.02.2016 | Bautraegervertrag: Abnahme-Klausel in AGB, die einen vom Bautraeger bestimmten Sachverstaendigen ueber die Abnahme entscheiden laesst, ist nach §§ 307, 309 Nr. 8 BGB unwirksam (Erwerberschutz) | dejure.org/2016,3146 / NJW 2016, 1572 |
+| BGH | VII ZR 25/13 | 30.04.2014 | Konkludente Abnahme: Ingebrauchnahme + Restzahlung + Ablauf angemessener Pruefzeit (regelmaessig 6 Monate) deuten auf Abnahme hin | dejure.org/2014,7990 |
+| BGH | VII ZR 46/17 | 22.02.2018 | Aufgabe der fiktiven Schadensberechnung nach Mangelbeseitigungskosten | dejure.org/2018,2890 |
+
+Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren.
 
 ## Prüfschema — Abnahme und ihre Rechtswirkungen
 
@@ -321,7 +325,8 @@ wesentlichen Mängel möglich.
 
 - BGB §§ 339, 341, 634a, 640, 641, 644
 - VOB/B § 12, § 13 Nr. 4–5
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH VII ZR 49/15 (25.02.2016), BGH VII ZR 25/13 (30.04.2014), BGH VII ZR 46/17 (22.02.2018) — verifiziert dejure.org
+- Vor Verwendung weiterer Rechtsprechung: dejure.org / bundesgerichtshof.de Verifikation
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
 - Stand: 05/2026

@@ -29,9 +29,15 @@ description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfe
 - **§ 1 UmwRG** — Klagebefugnis anerkannter Umweltvereinigungen
 - **§ 113 Abs. 1 VwGO** — Aufhebungsklage gegen Genehmigung
 
-## Leitentscheidungen
+## Leitentscheidungen (Stand 05/2026, verifiziert bverwg.de / curia.europa.eu)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Pruefung (saP). Quelle: bverwg.de.
+- **BVerwG 18.07.2019, 7 C 26.17**: UVP-Vorpruefung; Aufhebung nur bei kausalen Verfahrensmaengeln. Quelle: bverwg.de.
+- **BVerwG 28.11.2017, 7 A 17.12**: TA Laerm als antizipiertes Sachverstaendigengutachten — bindet Behoerde nicht bei abweichenden Erkenntnissen im Einzelfall. Quelle: bverwg.de.
+- **EuGH 15.10.2009, C-263/08 (Djurgården)**: Beteiligungsrechte und Aarhus-Konvention; Begriff „betroffene Oeffentlichkeit". Quelle: curia.europa.eu.
+- **EuGH 16.04.2015, C-570/13 (Gruber)**: Klagebefugnis Drittbetroffener auch ohne foermliche Beteiligung am Verfahren. Quelle: curia.europa.eu.
+
+Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe ueber bverwg.de bzw. landesrecht-[bundesland].de verifizieren.
 
 ## Quellenregel
 
@@ -146,7 +152,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - **TA-Laerm-Anwendung**: Zu optimistische Ausbreitung, fehlende Impulshaltigkeit, Tageszeit-Staffelung fehlt → Gegengutachten beauftragen.
 - **Kumulation**: Andere vorhandene Anlagen als Vorbelastung nicht beruecksichtigt.
 - **Praeventions-Gebot**: Nebenbestimmungen statt Ablehnung — Verhaeltnismaessigkeit pruefen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerwG 17.12.2020, 4 C 5.19 — saP-Pruefung Wind (bverwg.de); BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de); EuGH C-243/15 / C-664/15 — Aarhus-Klagebefugnis Umweltverband (curia.europa.eu).
 
 ## Anschluss-Skills
 

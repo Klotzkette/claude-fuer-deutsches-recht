@@ -16,17 +16,19 @@ description: "Vertragsparteien aus verschiedenen Laendern streiten über Vertrag
 
 ## Rechtsgrundlagen
 
+- VO (EG) Nr. 593/2008 (Rom I): https://eur-lex.europa.eu/eli/reg/2008/593
 - Universelle Anwendung Art. 2 Rom I — auch wenn Recht eines Drittstaates berufen wird.
 - Rechtswahl Art. 3 Rom I — frei, formfrei, ggf. konkludent durch Klauselbezug.
 - Schranken der Rechtswahl: international zwingende Bestimmungen des objektiv anwendbaren Rechts bei reinem Inlandsfall Art. 3 Abs. 3 Rom I.
-- Objektive Anknüpfung mangels Rechtswahl Art. 4 Rom I — feste Anknüpfungsregeln (Kauf Verkäuferaufenthalt, Dienstleistung Dienstleistererbringerort, Immobilien Belegenheitsort).
-- Auffangregel Art. 4 Abs. 2 Rom I — gewöhnlicher Aufenthalt des Erbringers der charakteristischen Leistung.
+- Objektive Anknuepfung mangels Rechtswahl Art. 4 Rom I — feste Anknuepfungsregeln (Kauf Verkaeuferaufenthalt, Dienstleistung Dienstleistererbringerort, Immobilien Belegenheitsort).
+- Auffangregel Art. 4 Abs. 2 Rom I — gewoehnlicher Aufenthalt des Erbringers der charakteristischen Leistung.
 - Ausweichklausel Art. 4 Abs. 3 Rom I — offensichtlich engere Verbindung zu anderem Staat.
-- Verbrauchervertrag Art. 6 Rom I — bei ausgerichteter Tätigkeit zwingende Verbraucherschutzvorschriften des Verbraucherheimatrechts trotz Rechtswahl.
-- Arbeitsvertrag Art. 8 Rom I — gewöhnlicher Arbeitsort; Günstigkeitsprinzip.
-- Eingriffsnormen Art. 9 Rom I.
+- Verbrauchervertrag Art. 6 Rom I — bei ausgerichteter Taetigkeit zwingende Verbraucherschutzvorschriften des Verbraucherheimatrechts trotz Rechtswahl.
+- Arbeitsvertrag Art. 8 Rom I — gewoehnlicher Arbeitsort; Guenstigkeitsprinzip.
+- Eingriffsnormen Art. 9 Rom I — auch im internationalen Wirtschaftsverkehr beachten (EU-Sanktionen Russland VO 833/2014 in der Fassung 16./17. Paket 2025; Energierecht; LkSG).
 - ordre public Art. 21 Rom I.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Brexit-Folge: UK seit 01.01.2021 nicht mehr Rom-I-Vertragsstaat; UK behaelt Rom I in nationaler Form als "assimilated EU law" (Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019) — seit Retained EU Law (Revocation and Reform) Act 2023 ggf. Aenderungen. Bei DE-Gerichten Art. 20 Rom I (kein Renvoi) beachten.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 

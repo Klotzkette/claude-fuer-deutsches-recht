@@ -36,20 +36,17 @@ IT-Sicherheit, Datenschutz, KI-Regulierung (EU-KI-VO), ESG/CSRD.
 - **Art. 20 Abs. 3 GG** — Rechtsstaatsprinzip, Normenklarheit; Maßstab für die
   Bewertung behördlicher Verlautbarungen ohne formelle Ermächtigungsnorm.
 
-### Leitentscheidungen
+### Leitentscheidungen / Aktualitäts-Anker
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Normenklarheitsgebot: Normen müssen nach Inhalt, Zweck und Ausmaß hinreichend
-  bestimmt sein; relevant für Einordnung von Leitlinien ohne Rechtsverordnungscharakter.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Wesentlichkeitsgrundsatz (Art. 20 Abs. 3 GG): grundrechtlich erhebliche Regelungen
-  erfordern gesetzliche Grundlage; zentral für Abgrenzung Gesetz / Merkblatt / Leitlinie.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Zur Auslegung von Art. 82 DSGVO; Wechselwirkung EU-Sekundärrecht / nationale
-  Umsetzung als Muster für Regulierungsmonitoring im Datenschutzrecht.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Anwendung geänderter Compliance-Norm (§ 13 Abs. 4 UWG n. F.); Beispiel für
-  unmittelbare Praxisauswirkung einer Feed-relevantenNormänderung.
+Stand 05/2026. Vor Verwendung im Schriftsatz live verifizieren — keine Aktenzeichen aus Modellwissen.
+
+- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — DSGVO-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis.
+- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — DSGVO geht DSA vor; kein Provider-Privileg bei DSGVO-Verstößen — relevant für Plattform-Compliance-Monitoring.
+- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger DSGVO-Auskunftsantrag kann rechtsmissbräuchlich sein.
+- BVerfG-Linien zu Wesentlichkeit und Normenklarheit (BVerfGE 33, 125; 49, 89 — Kalkar) im Mandat über [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) live verifizieren.
+- DORA-Aktualisierungen 2025/2026: ESA-Liste kritischer IKT-Drittdienstleister (November 2025); BaFin DORA-Informationsregister-Frist 09.–30.03.2026.
+- AMLR (EU) 2024/1624 — Anwendbarkeit ab 10.07.2027; AMLA-Behörde mit Sitz in Frankfurt seit 01.07.2025 operativ.
+- KI-VO (EU) 2024/1689 — Verbote anwendbar seit 02.02.2025; GPAI ab 02.08.2025; Hochrisiko-KI-Hauptanwendung ab 02.08.2026; Sicherheitsbauteile ab 02.08.2027.
 
 ### Kommentare
 

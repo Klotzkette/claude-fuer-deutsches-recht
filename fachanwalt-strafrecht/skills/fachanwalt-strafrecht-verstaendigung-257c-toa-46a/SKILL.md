@@ -25,11 +25,13 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 - **§ 153a StPO** — Einstellung gegen Auflage
 - **§ 46a StGB** — TOA als Strafmilderung
 - **§ 403 ff. StPO** — Adhäsionsverfahren
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA bei sexuellem Missbrauch — § 46a Nr. 1 StGB setzt friedensstiftenden kommunikativen Prozess voraus, der eine Verantwortungsübernahme des Täters erkennen lässt; bloße Schadenswiedergutmachung ohne kommunikatives Element genügt nicht. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
+- BGH, Beschluss des Großen Senats für Strafsachen vom 03.02.2025 — GSSt 1/24: Cannabisbesitz neben Handeltreiben nach KCanG — bei Vorrätighalten teils zum gewinnbringenden Absatz, teils zum Eigenkonsum tritt der Besitz nach Konkurrenzgrundsätzen zurück, sofern die Eigenkonsummenge die straffreien Grenzen des § 3 KCanG nicht überschreitet; sanktionsfreie Mengen sind aus der Einziehung herauszunehmen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BGH, Beschluss vom 15.07.2025 — 2 StR 644/24 (2. Strafsenat): KCanG-Strafzumessung — die in § 1 Nr. 8 ff. KCanG gezogene gesetzliche Wertung ist als bestimmender Strafzumessungsgrund zu berücksichtigen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- Hinweis zu § 257c StPO: Es gibt keine vom Modell verifizierte BGH-Leitentscheidung 2025/2026, die § 257c StPO neu fasst; weitere Entscheidungen vor Verwendung live in dejure.org / openjur.de prüfen.
 
 ## ADR-Pfade im Strafrecht
 
@@ -101,7 +103,7 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 
 ## Strategie und Taktik
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- TOA-Strategie nach BGH 20.11.2025 — 4 StR 232/25: friedensstiftender kommunikativer Prozess (Aussöhnungsversuch, Verantwortungsübernahme) muss dokumentiert sein; reine Zahlung an Opfer reicht für § 46a Nr. 1 StGB nicht. Weitere Rechtsprechung vor Ausgabe live in dejure.org / openjur.de prüfen.
 - **Geständnis nach Akteneinsicht**: nie vorab; Beweislage muss geprüft sein
 - **TOA-Strategie**: Schadenswiedergutmachung sichtbar machen (Zahlungsplan)
 - **Vorstrafen**: bei nicht-Geständigem Verteidigungs-Pfad häufig vorteilhaft
@@ -115,6 +117,10 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 - `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo` — Sonderfall
 - `anw-steuerstrafverteidigung-verstaendigung` — Steuerstraf-Variante
 
-## Quellen und Updates
+## Quellen und Updates (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a Nr. 1 StGB, sexueller Missbrauch): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG, Cannabisbesitz vs. Handeltreiben, sanktionsfreie Mengen): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- KCanG (Konsumcannabisgesetz) in Kraft seit 01.04.2024 (BGBl. I 2024 Nr. 109): https://dejure.org/BGBl/2024/BGBl._I_Nr._109
+- Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Aktenzeichen und Volltext vor Verwendung in dejure.org bzw. openjur.de verifizieren.

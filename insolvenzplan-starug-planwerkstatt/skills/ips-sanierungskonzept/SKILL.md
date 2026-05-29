@@ -46,9 +46,11 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- IDW S 6 (Sanierungskonzept) und IDW S 11 (Insolvenzeröffnungsgründe) als methodische Mindeststandards.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Bei Bargeschäften im Sanierungskontext: Unlauterkeit (§ 142 Abs. 1 Hs. 2 InsO) muss konkret nachgewiesen werden; bloße Verlustsituation genügt nicht. Relevanz: Sanierungsbausteine ohne gezielte Gläubigerbenachteiligung sind anfechtungsfest. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Sanierungsversuche entkräften Vorsatz iSd § 133 InsO bei konkretem belastbarem Sanierungskonzept. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 

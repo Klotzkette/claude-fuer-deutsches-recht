@@ -141,10 +141,15 @@ Verteidigung bei OWi wegen Geschwindigkeitsüberschreitung.
 3. **Sachverständigen-Prüfung versäumt**
 4. **Geräte-spezifische Schwachstellen** nicht angeführt
 
-## 9) BGH-/OLG-Linien
+## 9) BVerfG- / BGH- / OLG-Linien (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OLG Saarbruecken (LeivTec XV-3 Diskussion)
+| Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|
+| BVerfG 2 BvR 1167/20 | 20.6.2023 | Keine Pflicht zur Speicherung von Rohmessdaten; Recht auf erweiterten Informationszugang besteht aber im Einzelfall | bundesverfassungsgericht.de |
+| BVerfG 2 BvR 1616/18 | 12.11.2020 | Recht auf Akteneinsicht / Informationszugang im OWi-Verfahren (Tempo-Messung) | bundesverfassungsgericht.de |
+| OLG Saarbruecken (LeivTec XV-3) | 2021 / 2022 | Diskussion zur Zulassung; Live-Volltext (saarland.de oder openjur.de) vor Verwendung verifizieren | saarland.de bzw. openjur.de |
+
+Hinweis: Standardisierung nach BGH-Linie bedeutet nur eine Beweis-Erleichterung. Konkrete Anhaltspunkte für Mess-Fehler im Einzelfall erschüttern die Beweis-Wirkung. Volltext jeder Entscheidung vor Versand in offener Quelle aufrufen; keine Modellwissen-Zitate.
 
 ## Anschluss
 

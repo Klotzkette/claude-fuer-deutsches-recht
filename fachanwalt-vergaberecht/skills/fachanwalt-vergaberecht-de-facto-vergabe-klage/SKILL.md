@@ -119,9 +119,14 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 3. **Schadensersatz-Anspruch pauschal**
 4. **Inhouse-Vergabe-Voraussetzungen falsch geprüft**
 
-## 9) BGH-/EuGH-Linien
+## 9) BGH-/EuGH-Linien (Stand 05/2026, verifiziert curia.europa.eu / openjur.de)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns)**: Begriff des oeffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen oeffentlichen Rechts. Quelle: curia.europa.eu (CELEX 62007CJ0300).
+- **EuGH 19.12.2018, C-216/17 (Coopservice)**: Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend. Quelle: curia.europa.eu.
+- **EuGH 28.10.2020, C-521/18 (Pegaso)**: Vergabe ohne wettbewerbliches Verfahren — De-facto-Vergabe ist nichtig nach Art. 2d RL 89/665 / § 135 GWB, wenn EU-weite Bekanntmachung pflichtwidrig unterblieben ist. Quelle: curia.europa.eu.
+- **EuGH 27.11.2019, C-402/18 (Tedeschi)**: Direktvergabe — Inhouse-Voraussetzungen § 108 GWB / Art. 12 RL 2014/24 strikt: Kontrolle wie eigene Stelle, > 80% Taetigkeit fuer kontrollierende Behoerde, keine private Kapitalbeteiligung. Quelle: curia.europa.eu.
+
+Aktuelle OLG-Vergabesenat-Entscheidungen vor Ausgabe per olg-... bzw. openjur.de mit Aktenzeichen und Datum verifizieren.
 
 ## Anschluss
 

@@ -239,6 +239,16 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Faktische Updates (Stand 05/2026)
+
+- **NIS-2-UmsuCG (Umsetzungsgesetz):** Das NIS-2-Umsetzungs- und Cybersicherheitsstaerkungsgesetz setzt die NIS-2-Richtlinie (EU) 2022/2555 in deutsches Recht um. Stand des Inkrafttretens (urspruenglich Frist 17.10.2024, verzoegert in Deutschland) ueber bgbl.de / BMI live pruefen. Bei Verzoegerung: ggf. Direktwirkung der Richtlinie gegenueber dem Staat (vertikale Direktwirkung), nicht gegenueber Privaten.
+- **§ 32 BSIG n. F. — Meldefristen:** Drei-Stufen-Meldung: 24 h Fruehwarnung (early warning), 72 h vollstaendige Vorfallsmeldung (incident notification), 1 Monat Abschlussbericht (final report). Quelle: bsi.bund.de, BSIG (BGBl 2025).
+- **NIS-2-Adressatenkreis:** Wesentliche (essential) und wichtige (important) Einrichtungen nach Anhang I und II der Richtlinie. Size-cap-Rule (mittlere/grosse Unternehmen) plus sektorale Ausnahmen. Sektoren: Energie, Verkehr, Bankwesen, Finanzmarktinfrastruktur, Gesundheit, Trinkwasser, Abwasser, digitale Infrastruktur, IKT-Dienstleistungs-Management, Oeffentliche Verwaltung, Raumfahrt; wichtig: Post/Kurier, Abfall, Chemie, Lebensmittel, Industrie, Anbieter digitaler Dienste, Forschung.
+- **CRA — Cyber Resilience Act:** VO (EU) 2024/2847 (Cyber Resilience Act) ergaenzt mit Produktsicherheits-Anforderungen fuer Produkte mit digitalen Elementen. Hauptpflichten gestaffelt ab 2026/2027. Vor Beratung Stand pruefen ueber eur-lex.europa.eu.
+- **DORA — Digital Operational Resilience Act:** VO (EU) 2022/2554 (DORA) ist seit 17.01.2025 anwendbar fuer Finanzunternehmen; Cyber-Vorfallsmeldungen an BaFin nach ITSV-DORA bei Schnittstelle zu DSGVO-Meldung beachten.
+- **Art. 82 DSGVO — Schadensersatz:** EuGH-Linie zum immateriellen Schadensersatz bei Datenpannen (Kontrollverlust kann genuegen, aber keine Pauschalierung). Konkrete Aktenzeichen live ueber curia.europa.eu pruefen.
+- **OFAC-Sanktionen / EU-Sanktionen bei Loesegeld:** Bei Loesegeld-Zahlung an sanktionierte Tätergruppen drohen Verstoesse gegen EU-Verordnungen (z.B. VO 269/2014 Russland, VO 833/2014) sowie US-OFAC-Sanktionen. Vor jeder Zahlung Sanktionsliste pruefen. Quellen: sanctionsmap.eu, ofac.treasury.gov.
+
 ## Output-Template — DSGVO-Meldung Art. 33
 **Adressat:** Zustaendige Datenschutz-Aufsichtsbehoerde — Tonfall: sachlich-berichtend
 ```

@@ -75,6 +75,15 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Faktische Updates (Stand 05/2026)
+
+- **VLOP/VLOSE-Designation-Liste der Kommission:** Aktuelle Liste der designierten sehr grossen Online-Plattformen / Suchmaschinen live ueber digital-strategy.ec.europa.eu/en/policies/dsa-very-large-online-platforms-and-search-engines pruefen. Stand 2026: mehrere Tranchen designiert (soziale Netzwerke, Marktplaetze, Videoplattformen, App-Stores, Suchmaschinen, Pornoportale, Reiseplattformen).
+- **Art. 40 DSA — Forschungsdatenzugang:** Delegierter Rechtsakt zum Forschungsdatenzugang (Art. 40 Abs. 13 DSA) ist im Verfahren / in Kraft (live pruefen ueber eur-lex.europa.eu). Vetted-researcher-Verfahren wird vom Digital Services Coordinator (DSC) am Sitzstaat administriert.
+- **Art. 37 DSA — Audits:** Delegierte VO (EU) 2023/2832 ueber unabhaengige Audits ist anwendbar; Auditoren benoetigen fachliche Kompetenz, Unabhaengigkeit, ethische Standards. Audit-Methodik ISA / IFAC-Anlehnung empfohlen.
+- **EuG- und EuGH-Linie zu DSA-Designation:** Mehrere VLOPs haben gegen die Designation und gegen die Aufsichtsgebuehr Klage beim EuG erhoben (Art. 263 AEUV). Konkrete Aktenzeichen und Verfahrensstand live pruefen ueber curia.europa.eu (Suche "DSA" / "VLOP").
+- **DSA-Sanktionen:** Erste Bussgeldentscheidungen der Kommission gegen VLOPs sind moeglich; Verfahren live ueber digital-strategy.ec.europa.eu sowie EU-Amtsblatt pruefen.
+- **DSC in Deutschland:** Federfuehrend ist die Bundesnetzagentur (Digital Services Coordinator) nach DDG (Digitale-Dienste-Gesetz), Koordinierungsmechanismen mit BfDI, KJM, Landesmedienanstalten geregelt. Quelle: bundesnetzagentur.de.
+
 ## Zentrale Normen (Paragrafenkette)
 
 - Art. 33 DSA — Designation VLOPs/VLOSEs; 45-Mio.-Schwelle; halbjährliche Nutzerzahl-Meldepflicht Art. 24 Abs. 3 DSA

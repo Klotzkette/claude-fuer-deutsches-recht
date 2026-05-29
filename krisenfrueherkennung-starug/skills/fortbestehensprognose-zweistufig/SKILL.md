@@ -11,13 +11,13 @@ Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldun
 
 ## Rechtsgrundlagen
 
-- § 19 InsO (Überschuldung als Insolvenzgrund)
+- § 19 InsO (Überschuldung als Insolvenzgrund); Prognosezeitraum **12 Monate** seit 01.01.2024 (SanInsKG-Verkürzung auf 4 Monate endete 31.12.2023).
 - § 19 Abs. 2 InsO (modifizierter Überschuldungsbegriff: Fortführungswerte bei positiver FBP)
 - § 252 Abs. 1 Nr. 2 HGB (Going-Concern-Prinzip in der Rechnungslegung)
 - § 15a InsO (Insolvenzantragspflicht)
 - IDW S 11 Tz. 65 ff. (Fortführungsprognose — Zweistufenmodell)
 - IDW S 6 (Sanierungskonzept als Basis der positiven FBP)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Konkrete BGH-Linie zur Fortbestehensprognose (insb. Anforderungen an Plausibilität, Sensitivitätsanalysen, qualifizierter Rangrücktritt § 19 Abs. 2 S. 2 InsO) vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ---
 
@@ -192,9 +192,12 @@ Hinweis: Dieser Vermerk ersetzt kein Sachverständigengutachten.
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsfolgen
 
 
-## Weitere Leitentscheidungen
+## Weitere Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Hinweis- und Warnpflicht des Steuerberaters; bei verfehlter FBP kann Berater auf Insolvenzvertiefungsschaden haften. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung der Warnpflicht zugunsten des (faktischen) Geschäftsführers. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (Folgen bei negativer FBP nach Amtsniederlegung). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- Konkrete BGH-Linie zur Plausibilität von Liquiditätsplänen und Sensitivitäten in der FBP vor Ausgabe über offene Quellen verifizieren.
 
 
 ## Triage — Erste Einordnung

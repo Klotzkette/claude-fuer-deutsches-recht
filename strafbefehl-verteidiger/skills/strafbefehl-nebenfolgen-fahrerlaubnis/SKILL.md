@@ -23,9 +23,10 @@ description: "Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafb
 - **§ 25 StVG** — Fahrverbot im OWi-Verfahren (1-3 Monate); grundsaetzlich anders als § 44 StGB
 - **§ 11 FeV** — MPU-Anforderung durch Fahrerlaubnisbehoerde
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- KCanG-Folgeproblem fuer Fahrerlaubnis nach BGH (GSSt) 03.02.2025 — GSSt 1/24 und § 24a Abs. 1a StVG (THC-Grenzwert 3,5 ng/ml im Blutserum, in Kraft seit 22.08.2024): Bei sanktionsfreier Eigenkonsumlage bleibt die straßenverkehrsrechtliche Eignungsfrage (FeV) eigenständig zu prüfen; die strafrechtliche Bewertung determiniert nicht das FeV-Verfahren. Offene Fundstelle zum GSSt-Beschluss: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 zur Eignungsfrage nach § 11 FeV bei einmaligem Cannabiskonsum nach KCanG-Inkrafttreten ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de / bverwg.de unter "Cannabis Fahreignung FeV" durchführen.
 
 ## Quellenregel
 

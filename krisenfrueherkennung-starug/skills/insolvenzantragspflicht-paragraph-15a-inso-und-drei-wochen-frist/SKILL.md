@@ -17,7 +17,9 @@ description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF
 - § 15b InsO (Zahlungsverbote nach Insolvenzreife)
 - § 43 GmbHG (Sorgfaltspflicht)
 - § 64 GmbHG a.F. / § 15b InsO n.F. (Masseerhaltungspflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden, solange die durch ihn geschaffene Gefährdungslage fortwirkt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktische Geschäftsführung / Firmenbestattung: auch Hintermänner ohne Außenauftritt können als faktische Geschäftsführer haften. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
 
 ---
 
@@ -49,7 +51,7 @@ Die Antragspflicht wird ausgelöst, wenn:
 
 ### 2. Die Drei-Wochen-Frist — Inhalt und Berechnung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Drei-Wochen-Frist nach § 15a Abs. 1 S. 1 InsO bei Zahlungsunfähigkeit (§ 17 InsO); Sechs-Wochen-Frist seit 01.01.2021 (SanInsFoG) bei Überschuldung (§ 19 InsO). Beide Fristen sind Höchstfristen, keine "Schonfrist". Konkrete Aktenzeichen der BGH-Linie zur Fristberechnung über offene Quellen verifizieren.
 
 **Berechnung:**
 ```

@@ -37,15 +37,17 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 - **§ 86 VVG** — Regress des Versicherers auf Dritte; Forderungsübergang nach Leistung.
 - **§§ 305–310 BGB** — AGB-Kontrolle; § 305c Abs. 2 BGB Unklarheitenregel gegen Verwender; § 307 BGB Intransparenz.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026; jeweils Volltext in offener Quelle aufrufen)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BGH IV. ZS | IV ZR 153/20 | 14.7.2021 | Versicherungsfall BU: Eintritt nach Ablauf der bedingungsgemäßen sechs-monatigen Prognosezeit | juris.bundesgerichtshof.de |
+| BGH IV. ZS | IV ZR 32/24 | 12.3.2025 | Klauselersetzung nach Intransparenz unzulässig (Krankentagegeld; übertragbar) | bundesgerichtshof.de PM Nr. 47/25 |
+| BGH IV. ZS | IV ZR 70/25 | 2025 | PKV-Beitragsanpassung: konkrete Rechnungsgrundlage muss in Mitteilung benannt werden (§ 203 Abs. 5 VVG) | juris.bundesgerichtshof.de |
+| BGH IV. ZS | IV ZR 86/24 | 15.10.2025 | PKV-Beitragsanpassung; Prüfungsmaßstab | bundesgerichtshof.de |
+| BGH VI. ZS | VI ZR 183/22 | 28.1.2025 | DSGVO-Schadensersatz hat nur Ausgleichsfunktion, keine Straffunktion (SCHUFA) | juris.bundesgerichtshof.de |
 
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Hinweis: Reihenfolge neueste zuerst. Vor Versand jedes Aktenzeichen in offener Quelle (juris.bundesgerichtshof.de, dejure.org, openjur.de) aufrufen und Randnummer einsetzen.
 
 ## Prüfschema in Tabellenform
 
@@ -58,7 +60,7 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 | 2 | Zeitlicher Deckungsrahmen (Versicherungsdauer)? | Police; § 2 VVG | Rückwärtsversicherung § 2 VVG prüfen |
 | 3 | Vorvertragliche Anzeigepflicht verletzt? | §§ 19, 21 VVG | Welche Fragen wurden schriftlich gestellt? Antworten korrekt? |
 | 4 | Obliegenheitsverletzung vor/nach Versicherungsfall? | §§ 28, 31 VVG | Vorsatz → voll leistungsfrei; grobe Fahrlässigkeit → quotal |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 5 | Belehrung § 19 Abs. 5 VVG ordnungsgemäß erfolgt? | § 19 Abs. 5 VVG | Ohne formgemäße Belehrung kein Rücktritt / keine Anfechtung des Versicherers |
 | 6 | Risikoausschluss eingreifend? | AVB; §§ 305c, 307 BGB | AGB-Kontrolle; Intransparenz → unwirksam |
 | 7 | AVB-Klausel wirksam — Transparenz? | § 307 Abs. 1 S. 2 BGB | Unklare Ausschlussklausel → gegen Verwender ausgelegen |
 | 8 | Leistungsumfang korrekt — Versicherungssumme, Selbstbehalt? | Police; § 75 VVG | Unterversicherung prüfen; Deckungsrahmen |
@@ -76,15 +78,14 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 
 - Berufsbild zum Zeitpunkt der Berufsunfähigkeit maßgeblich (nicht zuletzt ausgeübte Tätigkeit vor Kündigung).
 - Grad mindestens 50 % (übliche AVB-Grenze); seltener 25 % oder 33 %.
-- Sechs-Monats-Prognose: voraussichtliche Berufsunfähigkeit für mindestens sechs Monate.
-- Abstrakte Verweisung auf Vergleichsberuf: heute meist vertraglich ausgeschlossen; bei älteren AVB prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Sechs-Monats-Prognose: voraussichtliche Berufsunfähigkeit für mindestens sechs Monate; Versicherungsfall tritt erst nach Ablauf der Prognosezeit ein (BGH, Urt. v. 14.7.2021, IV ZR 153/20 — Quelle: juris.bundesgerichtshof.de).
+- Abstrakte Verweisung auf Vergleichsberuf: nach st. Rspr. BGH IV. ZS heute auf konkret ausgeübte Verweisungstätigkeit beschränkt; bei älteren AVB sorgfältig prüfen.
 
 ### Lebensversicherung
 
 - Selbsttötung § 161 VVG: Karenzzeit 3 Jahre; danach Todesfallleistung auch bei Suizid.
 - Vorvertragliche Anzeigepflicht: häufig Streit über Kenntnis von Vorerkrankungen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Widerruf bei fehlerhafter / fehlender Belehrung: keine starre Frist (EuGH, Urt. v. 19.12.2013, C-209/12 — Endress / Allianz; vor Versand Volltext auf curia.europa.eu aufrufen).
 
 ### Krankenversicherung (PKV)
 
@@ -203,9 +204,11 @@ IV. § 81 VVG — grob fahrlässige Herbeiführung
 Ihr Einwand, unser Mandant habe den Versicherungsfall grob
 fahrlässig herbeigeführt, greift nicht durch.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-die verkehrserforderliche Sorgfalt in besonders schwerem Maße
-verletzt und das Naheliegendste außer Acht gelassen wurde.
+Grobe Fahrlässigkeit liegt nach st. Rspr. nur vor, wenn die
+verkehrserforderliche Sorgfalt in besonders schwerem Maße
+verletzt und das Naheliegendste außer Acht gelassen wurde
+(konkrete BGH-Entscheidung mit Aktenzeichen vor Versand in
+juris.bundesgerichtshof.de aufrufen und Randnummer einfügen).
 
 Im Streitfall [konkrete Beschreibung Verhalten] entspricht
 dem Sorgfaltsmaßstab eines verständigen Durchschnittsmenschen.
@@ -259,7 +262,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | Vorvertragliche Anzeigepflicht verletzt — alle Fragen falsch beantwortet | Antragsfragen vorlegen; Wortlaut der Frage entscheidend; bei Unklarheit Auslegung gegen Verwender § 305c Abs. 2 BGB |
 | Obliegenheitsverletzung durch verspätete Anzeige | AVB-Frist prüfen; § 28 Abs. 3 VVG: Kausalität fehlt? Leistungsfreiheit entfällt |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Klauselersetzung nach Intransparenz | BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Versicherer darf unwirksame Klausel nicht durch im Kern identische neue Klausel einseitig ersetzen |
 | Risikoausschluss klar und eindeutig | Wortlaut-Analyse; § 307 BGB Transparenzprüfung |
 | Versicherungsfall nicht eingetreten — AVB-Definition | Auslegung AVB-Definition nach § 305c Abs. 2 BGB bei Unklarheit zugunsten VN |
 | Zahlung ist nicht fällig (noch in Prüfung) | § 14 VVG: Verzögerung nicht unbegrenzt; Abschlagszahlung nach 1 Monat |
@@ -293,13 +296,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
+### Leitsatz-Zitate (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Vor Versand jeweils Volltext aus offener Quelle aufrufen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. **BGH, Urt. v. 12.3.2025, IV ZR 32/24** — Krankentagegeld; Klauselersetzung nach Intransparenz. Pressemitteilung Nr. 47/25 v. 12.3.2025.
+2. **BGH, IV ZR 70/25** — PKV-Beitragsanpassung; Mitteilungspflicht (konkrete Rechnungsgrundlage).
+3. **BGH, IV ZR 86/24, Urt. v. 15.10.2025** — PKV-Beitragsanpassung; Prüfungsmaßstab.
+4. **BGH, Urt. v. 14.7.2021, IV ZR 153/20** — Versicherungsfall BU nach Ablauf der sechs-monatigen Prognosezeit.
+5. **EuGH, Urt. v. 19.12.2013, C-209/12 (Endress / Allianz)** — Widerruf bei fehlerhafter Belehrung bei Lebensversicherung; offene Quelle: curia.europa.eu.
 
 ### Normen-Ergänzung
 

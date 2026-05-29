@@ -49,9 +49,12 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung eines Restrukturierungsplans mit Kapitalherabsetzung und Bezugsrechtsausschluss als unzulässig zurückgewiesen. Bedeutung für Obstruktionsverbot iSd § 245 InsO und Cross-Class-Cramdown iSd § 26 StaRUG: Die Schlechterstellungsprüfung ist die zentrale Schutznorm.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Bei AG-Insolvenz: kapitalmarktrechtliche Aktionärsschadensersatzforderungen nachrangig (§ 38 InsO-Forderungen ausgeschlossen); bei Cramdown-Klassenbildung beachten.
+- Restrukturierungsgerichts-Entscheidungen zur Praxis des § 26 StaRUG und § 245 InsO vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette (IV-Insolvenzplan)
 

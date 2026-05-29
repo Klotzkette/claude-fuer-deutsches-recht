@@ -146,7 +146,16 @@ Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht fuer DD-Zw
 
 ## Quellen
 
-- §§ 311 II, 444, 453 BGB; § 15 GmbHG; § 179a AktG; §§ 35 ff. GWB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
+- § 311 II BGB: https://www.gesetze-im-internet.de/bgb/__311.html
+- § 444 BGB: https://www.gesetze-im-internet.de/bgb/__444.html
+- § 453 BGB: https://www.gesetze-im-internet.de/bgb/__453.html
+- § 15 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__15.html
+- § 179a AktG: https://www.gesetze-im-internet.de/aktg/__179a.html
+- §§ 35 ff. GWB: https://www.gesetze-im-internet.de/gwb/__35.html
+- AWG § 4-6 (FDI-Pruefung); AWV §§ 55 ff. (sektorale Investitionspruefung): https://www.gesetze-im-internet.de/awv_2013/
+- EU-FDI-Screening-VO (EU) 2019/452: https://eur-lex.europa.eu/eli/reg/2019/452
+- EU Foreign Subsidies Regulation (FSR) (VO (EU) 2022/2560; in Kraft 12.01.2023; anwendbar ab 12.07.2023; Notifizierungspflicht ab 12.10.2023). M&A-Schwelle: mindestens eine Partei (oder Zielgesellschaft) ueber EUR 500 Mio. EU-Umsatz UND erworbene Seite hat ueber EUR 50 Mio. drittstaatliche finanzielle Zuwendungen in letzten drei Jahren erhalten. Bei Vergabeverfahren: ueber EUR 250 Mio. Auftragswert und ueber EUR 4 Mio. Drittstaaten-Zuwendungen. VO-Text: https://eur-lex.europa.eu/eli/reg/2022/2560 — Kommission Guidance: https://competition-policy.ec.europa.eu/foreign-subsidies-regulation_en
+- MoPeG (BGBl. I 2021, 3436; in Kraft 01.01.2024) — Auswirkungen auf DD bei Personengesellschaften (eGbR, OHG, KG): https://www.gesetze-im-internet.de/bgb/__705.html
+- DiRUG/DiREG: Online-Beurkundung Kapitalmassnahmen seit 01.08.2023 — DD-Implikation fuer Closing-Mechanik
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

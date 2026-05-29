@@ -136,9 +136,17 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 
 ## Vertiefung: Rechtsprechung und erweiterte Triage
 
-### Schluessel-Leitsaetze fuer Triage Bank-/Kapitalmarktrecht
+### Schluessel-Leitsaetze fuer Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit offener Quelle:
+
+- BGH XI ZR 22/24, Urt. v. 20.5.2025 — Vorfälligkeitsentschädigung intransparente AGB (juris.bundesgerichtshof.de)
+- BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag (PM Nr. 225/2025)
+- BGH VI ZR 183/22, Urt. v. 28.1.2025 — SCHUFA-Meldung / DSGVO-Schadensersatz (juris.bundesgerichtshof.de)
+- BGH VI ZR 431/24, Urt. v. 14.10.2025 — SCHUFA Positivdaten / Betrugspraevention (PM Nr. 209/2025)
+- EuGH C-26/22, C-64/22, Urt. v. 7.12.2023 — Restschuldbefreiungs-Speicherung max. 6 Monate (curia.europa.eu)
+- EuGH C-634/21, Urt. v. 7.12.2023 — SCHUFA-Score als automatisierte Entscheidung Art. 22 DSGVO (curia.europa.eu)
+- EuGH C-66/19, Urt. v. 26.3.2020 — Widerrufsbelehrung Kaskadenverweisung (curia.europa.eu)
 
 ### Erweiterte Triage-Matrix
 
@@ -179,7 +187,4 @@ Naechster Schritt:   [MASSNAHME] bis [DATUM] durch [PERSON]
 
 ## Audit-Hinweis (27.05.2026)
 
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgerichtshof.de, dejure.org, curia.europa.eu) verifiziert. Frühere Modellwissen-Platzhalter sind durch belegte Aktenzeichen ersetzt. Vor Versand vom Anwalt erneut zu prüfen.

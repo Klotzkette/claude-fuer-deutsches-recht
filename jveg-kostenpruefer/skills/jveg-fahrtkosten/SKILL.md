@@ -17,9 +17,17 @@ Prüfe geltend gemachte Fahrtkosten auf Normkonformität nach §§ 5–7 JVEG: V
 5. **Auslandsanreise:** Liegt ein grenzüberschreitender Reiseweg vor (§ 7 JVEG)?
 
 ## Speziallogik: Kilometersatz Zeugen
-- Sachverständige: § 5 Abs. 1 JVEG — 0,42 EUR/km (Stand 2021).
-- Zeugen: § 5 Abs. 2 JVEG — 0,35 EUR/km (Stand 2021).
+- Sachverständige und Dolmetscher: § 5 Abs. 1 JVEG — 0,42 EUR/km (unveraendert nach KostRAeG 2025; siehe auch dort die Erhoehung der Stundensaetze).
+- Zeugen und Dritte: § 5 Abs. 2 JVEG — 0,35 EUR/km.
 - Keine Gleichsetzung; Rollenabgrenzung vor Berechnung zwingend.
+- Quelle Norm: https://www.gesetze-im-internet.de/jveg/__5.html
+
+## Rechtsstand 2025/2026 — KostRAeG 2025
+
+Mit dem Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) sind zum 01.06.2025 die Honorarsaetze des JVEG fuer Sachverstaendige in Anlage 1 zu § 9 JVEG pauschal um 9 Prozent erhoeht worden. Die neuen Saetze gelten nur fuer Auftraege ab 01.06.2025; in Altverfahren bleiben die alten Saetze.
+
+- Synopse JVEG 2025: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
+- Praxis-Hinweis Sachverstaendigenverguetung: https://praxis-grundstuecksbewertung.de/wissenswert/gesetzgebung/jveg-verguetung-sachverstaendige/
 
 ## Zentrale Normen
 - § 5 JVEG (Fahrtkostenersatz: Kfz, Bahn)
@@ -27,12 +35,11 @@ Prüfe geltend gemachte Fahrtkosten auf Normkonformität nach §§ 5–7 JVEG: V
 - § 7 JVEG (Auslandsreise)
 - § 19 JVEG (Zeugenfahrtkosten — Verweis auf § 5)
 - § 23 JVEG (Dreimonatsfrist)
+- § 9 JVEG i.V.m. Anlage 1 (Sachverstaendigen-Stundensaetze, KostRAeG 2025)
 
 ## Rechtsprechung
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Aktuelle Rechtsprechung zu § 5 JVEG vor Ausgabe ueber https://dejure.org pruefen.
+- BGH-Linie Sachverstaendigenverguetung: Senat fuer Anwaltssachen sowie I., VII., IV. Zivilsenat zustaendig je nach Sachgebiet; Aktenzeichen vor Uebernahme verifizieren.
 
 ## Quellenregel
 

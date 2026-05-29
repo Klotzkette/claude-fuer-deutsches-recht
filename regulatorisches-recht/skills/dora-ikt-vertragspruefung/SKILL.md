@@ -58,13 +58,15 @@ Anwendungsfälle: Vertragsanbindung eines neuen IKT-Dienstleisters; Re-Papering 
 - FISG 2021 (Verschärfung Auslagerungsrecht).
 - Datenschutz: Art. 28 DSGVO AVV, § 11 BDSG.
 
-### Leitentscheidungen / Auslegung
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Zetzsche/Anker-Sørensen, EuZW 2023, 645 (648) – DORA und vertragsrechtliche Konsequenzen.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+### Leitentscheidungen / Auslegung / Aktualität
+
+Stand 05/2026. DORA ist seit dem 17.01.2025 voll anwendbar. Wichtigste Entwicklungen seit Geltungsbeginn:
+
+- **Liste kritischer IKT-Drittdienstleister:** Die ESAs (EBA, EIOPA, ESMA) haben im November 2025 erstmals 19 kritische IKT-Drittdienstleister benannt (u. a. Amazon, Microsoft, Google). Für diese werden ab 2026 Joint Examination Teams (JET) eingerichtet und Lead Overseers benannt. Aktuelle Liste über die ESA-Webseiten (EBA, ESMA, EIOPA) verifizieren.
+- **BaFin DORA-Informationsregister:** Erste Meldefrist 11.04.2025; folgende reguläre Frist BaFin 09.–30.03.2026; Pflichtfelder nach DurchführungsVO (EU) 2024/2956. Aktualität über [bafin.de/DORA](https://www.bafin.de/DE/Aufsicht/DORA/DORA_node.html).
+- **BaFin-Auslegungshinweise:** Fachartikel "Im Aufsichtsfokus: Wenn Konzentrationen zum Risiko werden" (BaFin 07.01.2025) und nachfolgende Hinweise zum vereinfachten IKT-Risikomanagementrahmen und Drittparteienrisiken. Live über [bafin.de](https://www.bafin.de) prüfen.
+
+Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ## Ablauf
 

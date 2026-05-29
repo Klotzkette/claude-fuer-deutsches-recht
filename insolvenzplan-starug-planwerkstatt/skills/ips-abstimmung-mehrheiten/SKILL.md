@@ -46,9 +46,11 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung eines StaRUG-Restrukturierungsplans unzulässig; Bedeutung für Mehrheiten: Eingriffe in Aktionärsrechte über Mehrheitsentscheidungen sind verfassungsrechtlich grundsätzlich zulässig, wenn § 66 Abs. 2 Nr. 3 StaRUG gewahrt ist.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- 75 %-Mehrheit je Gruppe nach § 25 StaRUG; in der InsO 50 % Kopf- und 50 % Summenmehrheit je Gruppe nach § 244 InsO. Konkrete LG/OLG-Entscheidungen zur Abstimmungspraxis vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 

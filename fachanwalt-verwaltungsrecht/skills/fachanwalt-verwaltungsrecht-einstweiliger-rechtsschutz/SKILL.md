@@ -299,15 +299,20 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `energieanlagen-bimschg-genehmigung-verfahren` — Eilrechtsschutz bei BImSchG-Genehmigungen
 - `energietrassen-planfeststellung-rechtsschutz` — Eilrechtsschutz bei Planfeststellungsbeschlüssen
 
-## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
+## Aktuelle Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. Rechtsprechung live über [bverwg.de](https://www.bverwg.de) und [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
+
+Aktuelle Linien mit Eilrechtsschutz-Bezug:
+- BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen bei längerfristiger Observation; Übergangsfortgeltung bis 31.12.2025 mit Maßgabe "konkretisierte Gefahr".
+- BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und vom BVerfG aufgestellte Anforderungen an Eingriffsschwellen.
+- BVerfG-Linie zum effektiven Rechtsschutz und zur Folgenabwägung im einstweiligen Rechtsschutz (BVerfGE 79, 69; 117, 244) im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ## Quellen
 
-- VwGO §§ 42, 80, 80a, 123, 146, 172
-- VwVfG § 28
-- ZPO §§ 920, 921, 923
-- GKG § 52
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- VwGO §§ 42, 80, 80a, 123, 146, 172 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/)
+- VwVfG § 28 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwvfg/)
+- ZPO §§ 920, 921, 923 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/)
+- GKG § 52 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gkg_2004/)
+- BVerwG-Entscheidungen — [bverwg.de](https://www.bverwg.de)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

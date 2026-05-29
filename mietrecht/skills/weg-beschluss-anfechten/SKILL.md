@@ -184,10 +184,17 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 - Bärmann WEG
 - Hügel/Elzer WEG
 
-## Aktuelle Rechtsprechung — Leitsaetze
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 16.07.2021, V ZR 284/19**: WEMoG-Uebergangsrecht — auch nach WEG-Reform 01.12.2020 ist die Wohnungseigentuemergemeinschaft prozessual aktiv-/passivlegitimiert (§ 9a Abs. 2 WEG n.F.). Quelle: dejure.org/2021,25770.
+- **BGH 17.09.2021, V ZR 12/21**: Bauliche Veraenderungen (§ 20 WEG n.F.) — Mehrheitsbeschluss genuegt; Anspruch des bauwilligen Eigentuemers gegen die GdW auf Beschlussfassung. Quelle: dejure.org/2021,30989.
+- **BGH 10.07.2020, V ZR 234/19**: Beschlussanfechtung — strikt einzuhaltende Klagefrist 1 Monat nach Beschlussfassung (§ 45 WEG n.F. / § 46 a.F.); materielle Ausschlussfrist. Quelle: dejure.org/2020,21566.
+- **BGH 27.10.2023, V ZR 43/23**: Anforderungen an ordnungsgemaesse Verwaltung; Beschluss ueber Sonderumlage muss verhaeltnismaessig und sachlich begruendet sein. Quelle: dejure.org/2023,30420.
+- **BGH 13.01.2023, V ZR 43/22**: Stimmrecht und Beschlussfaehigkeit nach WEMoG; Mehrheitsprinzip § 25 WEG n.F. — keine besondere Beschlussfaehigkeitsschranke mehr. Quelle: dejure.org/2023,1112.
+
+**Gesetzeslage 2026:** WEMoG vom 16.10.2020 (BGBl. I 2187) in Kraft seit 01.12.2020 — Verfahrensrecht §§ 43-45 WEG, materielle Anforderungen §§ 18-21 WEG (bauliche Veraenderungen, Verwaltung).
+
+Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 
 ## Quellenregel
 

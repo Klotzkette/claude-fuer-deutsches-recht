@@ -44,6 +44,8 @@ description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswech
 |---------|-------------|-------|-------------|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
+**Hinweis Stand 05/2026:** Das SBGG ist am 01.11.2024 in Kraft getreten. Eine gefestigte BGH-Rechtsprechung zu familienrechtlichen Folgewirkungen liegt noch nicht vor. Anhängige Verfassungsbeschwerden gegen einzelne Regelungen sind beim BVerfG anhängig — Stand vor Beratung über bundesverfassungsgericht.de prüfen.
+
 ## Prüfschema — SBGG-Verfahren und Familienrechtsfolgen
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.

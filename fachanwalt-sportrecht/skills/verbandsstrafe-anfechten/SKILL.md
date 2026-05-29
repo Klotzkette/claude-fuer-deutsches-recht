@@ -276,4 +276,10 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. **EuGH-Strukturwandel:** Urt. v. 01.08.2025 — C-600/23 (RFC Seraing) — Nationale Gerichte der EU-Mitgliedstaaten dürfen CAS-Schiedssprüche auf Vereinbarkeit mit Unionsrecht (insbesondere Grundfreiheiten, Wettbewerbsrecht, Charta) inhaltlich überprüfen. Für Mandate mit EU-Bezug ist die Vermutung der Endgültigkeit von CAS-Sprüchen eingeschränkt.
+
+- EuGH-Curia — [curia.europa.eu](https://curia.europa.eu/) (Az. C-600/23, C-415/93 Bosman, EuGH zur Super League C-333/21 vom 21.12.2023)
+- EGMR HUDOC — [hudoc.echr.coe.int](https://hudoc.echr.coe.int) (Mutu/Pechstein gegen Schweiz, Az. 40575/10 u. 67474/10, Urt. v. 02.10.2018)
+- BGH Bundesgerichtshof — [bundesgerichtshof.de](https://www.bundesgerichtshof.de) (Pechstein-Linie)
+- CAS Code — [tas-cas.org](https://www.tas-cas.org)
+- Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.

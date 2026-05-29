@@ -146,9 +146,11 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 4. **Stabilisierungs-Verlängerung versäumt**: Sicherheits-Verwertung
 5. **Bescheinigungs-Prüfer ungeeignet**: Antrag-Ablehnung
 
-## 10) BGH-/AG-Linien
+## 10) BVerfG- und Restrukturierungsgerichts-Linien (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss; Ausschluss von 49,9 % Minderheitsaktionären ohne Kompensation) als unzulässig zurückgewiesen. Bedeutung: Eingriffe in Aktionärsrechte über StaRUG sind verfassungsrechtlich nicht generell ausgeschlossen, solange § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) eingehalten wird.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Restrukturierungsgerichts-Entscheidungen (insb. AG Köln, AG Düsseldorf) zur Bestätigung von Restrukturierungsplänen vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## 11) Praxis-Hinweise
 
@@ -175,7 +177,9 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen StaRUG
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG / Bezugsrechtsausschluss; unzulässig)
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Weitere LG/OLG-Entscheidungen zur Praxis der gerichtlichen Bestätigung (§§ 60–66 StaRUG), zum Cross-Class-Cramdown (§ 26 StaRUG) und zur Stabilisierungsanordnung (§ 49 StaRUG) vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## Paragrafenkette StaRUG-Plan
 

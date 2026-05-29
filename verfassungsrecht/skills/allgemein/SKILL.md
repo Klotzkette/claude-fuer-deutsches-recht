@@ -217,4 +217,12 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (GG, BVerfGG)
-- Leitentscheidungen: bundesverfassungsgericht.de (Lueith, Volkszaehlung, Apotheken-Urteil, Kalkar, Elfes); aktuelle Recherche empfohlen
+- Leitentscheidungen: bundesverfassungsgericht.de (Lueth, Volkszaehlung, Apotheken-Urteil, Kalkar, Elfes); aktuelle Recherche empfohlen
+
+### Aktuelle Linien 2024-2026 (Pinpoint-Recherche vor Verwendung pflicht)
+
+- BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Längerfristige Observation unter Anfertigung von Bildaufnahmen ohne hinreichende Eingriffsschwelle unvereinbar mit Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG; Übergangsfortgeltung bis 31.12.2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html).
+- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I, PolG NRW Quellen-TKÜ / Online-Durchsuchung präventiv) — polizeirechtliche Befugnisse im Wesentlichen verfassungskonform — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
+- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Quellen-TKÜ für Taten mit niedrigem Strafrahmen teilweise nichtig — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
+- BVerfG, Klimabeschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. — intertemporale Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
+- BVerfG, Jahresbericht 2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).

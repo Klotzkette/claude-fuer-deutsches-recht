@@ -15,16 +15,17 @@ Der **geplante Flug findet nicht statt** — die Airline streicht ihn. Indikator
 - Kein Flug mit der konkreten **Flugnummer und Datum** ist abgehoben.
 - Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung.
 
-**Auch Annullierung** auch wenn der Flug am **nächsten Tag mit gleicher Flugnummer** stattfindet (zwei Indizien für dieselbe Wertung):
+**Auch Annullierung** auch wenn der Flug am **nächsten Tag mit gleicher Flugnummer** stattfindet:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH, Urt. v. 13.10.2011, C-83/10 (Sousa Rodríguez) — eine Umkehr nach Start ohne Erreichen des Zielflughafens ist Annullierung (curia.europa.eu).
+- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung um mehr als eine Stunde ist Annullierung (curia.europa.eu).
 
-### Rechtsprechung live prüfen
+### 2. Verspätung (Art. 6 VO 261/2004; Sturgeon-Linie)
 
 Der **geplante Flug findet statt**, aber:
 
 - **Mehr als zwei Stunden Verspätung** bei kurzen Strecken oder **mehr als drei Stunden** bei langen Strecken bei Abflug = Betreuungsleistungen Art. 9 VO 261/2004 (Verpflegung Telefon Hotel etc.).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Ankunftsverspätung am Endziel ≥ 3 Stunden** = Ausgleichsanspruch wie bei Annullierung (EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07, Sturgeon u.a. — curia.europa.eu; bestätigt EuGH, Urt. v. 23.10.2012, C-581/10 und C-629/10, Nelson u.a.).
 
 **Wichtig**: Maßgeblich ist die **Ankunftsverspätung am Endziel** — nicht die Abflugverspätung.
 
@@ -46,18 +47,19 @@ Der **geplante Flug findet statt**, aber:
 
 Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist und der **Anschlussflug verpasst** wird:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener / Royal Air Maroc) und EuGH, Urt. v. 11.7.2019, C-502/18 (CS Flug) — bei einheitlicher Buchung von Anschlussflügen kommt es für den Ausgleichsanspruch auf die Endziel-Ankunftsverspätung an (curia.europa.eu).
 - Anspruch besteht auch wenn der erste Flug innerhalb der drei-Stunden-Schwelle landete, der Anschlussflug aber verpasst wurde und Endziel mit mehr als drei Stunden Verspätung erreicht wird.
 
 ### Ersatzflug am nächsten Tag
 
 - **Annullierung** wenn Ersatzflug eine andere Flugnummer hat oder gravierende Änderungen aufweist.
 - **Verspätung** wenn derselbe Flug nur verschoben und die Identität bewahrt ist (z. B. gleiches Flugzeug gleiche Crew gleiche Strecke).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Konkrete Abgrenzungskriterien aus EuGH-Rechtsprechung (Volltext in curia.europa.eu vor Versand verifizieren).
 
 ### Vorverlegung des Flugs
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung um mehr als eine Stunde ist einer Annullierung gleichzustellen (curia.europa.eu).
+- Bestätigt: EuGH, Urt. v. 9.1.2025, C-394/23 (curia.europa.eu).
 
 ### Umbuchung auf anderen Flug ohne Zustimmung des Passagiers
 

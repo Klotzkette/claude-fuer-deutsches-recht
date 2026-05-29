@@ -115,8 +115,17 @@ Bei Fahrerlaubnis-vorläufig-entzogen § 111a StPO:
 - VVG §§ 28 86 115
 - BGH VI. Zivilsenat 4. Strafsenat
 
-## Aktuelle Rechtsprechung Triage
+## Aktuelle Rechtsprechung Triage (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext in der angegebenen Quelle aufrufen):
+
+- BGH VI ZR 253/22, Urt. v. 16.1.2024 — Werkstattrisiko (juris.bundesgerichtshof.de)
+- BGH VI ZR 239/22, Urt. v. 16.1.2024 — Werkstattrisiko bei fiktiver Abrechnung (juris.bundesgerichtshof.de)
+- BGH VI ZR 280/22, Urt. v. 12.3.2024 — Sachverstaendigenrisiko (juris.bundesgerichtshof.de)
+- BGH VI ZR 12/24, Urt. v. 5.11.2024 — Haushaltsfuehrungsschaden / Mindestlohn (juris.bundesgerichtshof.de)
+- BGH VI ZR 24/25, Urt. v. 14.10.2025 — Substantiierungsanforderungen Art. 103 Abs. 1 GG (juris.bundesgerichtshof.de)
+- BVerwG 3 B 2.24, Beschl. v. 8.1.2025 — Cannabis und KCanG (bverwg.de)
+- BVerfG 2 BvR 1167/20, Beschl. v. 20.6.2023 — Rohmessdaten Geschwindigkeitsmessung (bundesverfassungsgericht.de)
+- BVerfG 2 BvR 1616/18, Beschl. v. 12.11.2020 — Akteneinsicht / Informationszugang OWi (bundesverfassungsgericht.de)
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 1/21 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 37/99, NJW 2000, 861 (verifiziert auf dejure.org). -->

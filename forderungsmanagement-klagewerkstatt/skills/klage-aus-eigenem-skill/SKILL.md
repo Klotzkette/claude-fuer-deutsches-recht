@@ -64,7 +64,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — Klageschrift aus eigenem Skill-Output generieren | Klageschrift nach Skill-Output-Schema; Template unten |
 | Variante A — Skill-Output unvollstaendig Luecken vorhanden | Luecken manuell fuellen; dann Template anwenden |
 | Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid § 688 ZPO als kostenguenstigere Alternative |
-| Variante C — Streitwert unter 5000 EUR Amtsgericht zustaendig | Vereinfachtes Verfahren AG; kein Anwaltszwang in Klageerhebung |
+| Variante C — Streitwert unter 10.000 EUR (Stand ab 01.01.2026, § 23 GVG n.F.) | Amtsgericht zustaendig; vereinfachtes Verfahren AG; kein Anwaltszwang in der Klageerhebung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

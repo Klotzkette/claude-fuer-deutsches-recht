@@ -74,9 +74,9 @@ EUR.
 5. Eine Befreiung wegen außergewöhnlicher Umstaende gemäß Art. 5 Abs. 3
 VO 261/2004 ist nicht ersichtlich. Sie tragen die Beweislast hierfür.
 [Falls Airline bereits eine Begründung wie technischer Defekt geliefert hat,
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-(Wallentin-Hermann) regelmäßig NICHT als außergewöhnliche Umstaende zu
-werten.]
+hinzufügen: Technische Defekte sind nach st. Rspr. des EuGH (Urt. v.
+22.12.2008, C-549/07 — Wallentin-Hermann; curia.europa.eu) regelmäßig
+NICHT als außergewöhnliche Umstaende zu werten.]
 
 [Bei Verspätung am Endziel mehr als drei Stunden bei Anschlussflug:]
 6. Maßgeblich ist die Ankunftsverspätung am Endziel der Reise nach EuGH
@@ -138,9 +138,15 @@ Mit freundlichen Grüßen
 - Verzugszinsen Verbraucher 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
 - Bei einer Pauschalreise mit Unternehmer-Stellung kann § 288 Abs. 2 BGB (9 Prozentpunkte) einschlägig sein — selten relevant für Verbraucher.
 
-## Leitentscheidungen Forderungsschreiben
+## Leitentscheidungen Forderungsschreiben (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Vor Versand jeweils Volltext in curia.europa.eu aufrufen:
+
+- EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
+- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — techn. Defekt kein außergewöhnlicher Umstand
+- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung Anschlussflüge
+- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung als Annullierung
+- EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Ausgabe
 

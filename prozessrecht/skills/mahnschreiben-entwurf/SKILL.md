@@ -49,10 +49,10 @@ Entwurf eines anwaltlichen Mahnschreibens (§ 286 Abs. 1 BGB) oder einer qualifi
 
 Verbindlich: `../references/zitierweise.md`.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Zum Verzugszins: § 247 BGB (Basiszinssatz); § 288 Abs. 1, 2 BGB.
+- Rechtsprechung zu Verzug und Mahnung vor Ausgabe ueber https://dejure.org und https://openjur.de verifizieren.
+- Zum Verzugszins: § 247 BGB (Basiszinssatz); § 288 Abs. 1, 2 BGB. Basiszinssatz zum 01.01.2026: 1,27 Prozent (unveraendert ggue. 01.07.2025). Daraus B2C-Verzugszins 6,27 Prozent, B2B-Verzugszins 10,27 Prozent; halbjaehrliche Anpassung am 01.01. und 01.07. erforderlich. Quelle: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
+- Verzugspauschale § 288 Abs. 5 BGB (B2B): 40 EUR pro Vorgang.
 
 ## Ausgabeformat
 

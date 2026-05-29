@@ -16,7 +16,7 @@ description: "Führt alle Bausteine zusammen — bilanzieller Status Annahmen Pl
 Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfähigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen über den Zwölf-Monats-Horizont mit überwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfähigkeit nach § 17 InsO gerät**. Das bedeutet konkret:
 
 - In jedem Zeitabschnitt der zwölf Monate müssen **mindestens 90 Prozent** der dann fälligen Verbindlichkeiten aus den verfügbaren Mitteln (Liquiditätsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden können.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Maßstab: BGH-Linie zum 10-%-/3-Wochen-Schema (Zahlungsstockung vs. Zahlungsunfähigkeit). Konkrete Aktenzeichen vor Ausgabe über dejure.org / openjur.de mit Datum und Randnummer verifizieren.
 
 Wenn die Liquiditätsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder über laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
 
@@ -145,9 +145,12 @@ prognose-zusammenfassung:
   - `prognose-dokumentation-stichtag` zur abschließenden Dokumentation.
 
 
-## Aktuelle Leitentscheidungen — Zusammenfuehren der Prognose
+## Aktuelle Leitentscheidungen — Zusammenfuehren der Prognose (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater haftet bei verfehlter Fortbestehensprognose auf Insolvenzvertiefungsschaden. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung der Hinweis- und Warnpflicht des Beraters zugunsten des (faktischen) GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen GF; bei negativer Prognose nach Amtsniederlegung weiterhin Haftungsexposition. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- Konkrete BGH-Linie zu IDW S 11-konformer Prognose-Plausibilität und qualifiziertem Rangrücktritt vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette Prognose-Zusammenfuehren
 

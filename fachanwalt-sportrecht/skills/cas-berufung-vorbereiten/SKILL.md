@@ -36,11 +36,11 @@ description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| C-600/23 (RFC Seraing) | EuGH, Urt. v. 01.08.2025 | Nationale Gerichte in EU-Mitgliedstaaten können CAS-Schiedssprüche auf Vereinbarkeit mit Unionsrecht überprüfen — strategisch relevant für Sportler/Vereine mit EU-Sitz oder EU-Wirkungsbezug — Verifikation [curia.europa.eu](https://curia.europa.eu/) zu C-600/23. |
+| 40575/10 und 67474/10 | EGMR, Urt. v. 02.10.2018 (Mutu und Pechstein gegen Schweiz) | Art. 6 Abs. 1 EMRK: keine Verletzung Unabhängigkeit/Unparteilichkeit CAS; Verletzung wegen fehlender öffentlicher Verhandlung — [hudoc.echr.coe.int](https://hudoc.echr.coe.int). |
 | 4A_558/2011 | Schweizer BGer, 27.03.2012 — Pechstein | Anfechtung CAS-Spruch; enge Prüfung Ordre public |
 | CAS 2014/A/3642 | CAS | Just cause bei Gehaltsrückständen Art. 14 FIFA RSTP |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Weitere Az. | Live verifizieren | keine Aktenzeichen aus Modellwissen — vor Ausgabe über amtliche oder frei zugängliche Quelle prüfen |
 
 ---
 
@@ -333,4 +333,10 @@ The Appellant is available for emergency contact:
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. **Strukturwandel:** EuGH RFC Seraing 01.08.2025 (C-600/23) — Mitgliedstaatsgerichte dürfen CAS-Schiedssprüche auf Unionsrechtsvereinbarkeit prüfen. Strategisch: bei Sportlern/Vereinen mit EU-Bezug neben Anfechtung beim Schweizer Bundesgericht zusätzlich Optionen vor mitgliedstaatlichen Gerichten erwägen (Vollstreckungsabwehr, Schadensersatz wegen unionsrechtswidriger Sanktion, einstweiliger Rechtsschutz).
+
+- CAS Code — [tas-cas.org](https://www.tas-cas.org)
+- IPRG Art. 190, 191 (Schweiz) — [admin.ch](https://www.fedlex.admin.ch/)
+- EuGH-Curia — [curia.europa.eu](https://curia.europa.eu/)
+- EGMR-HUDOC — [hudoc.echr.coe.int](https://hudoc.echr.coe.int)
+- Rechtsprechung im Mandat live verifizieren.

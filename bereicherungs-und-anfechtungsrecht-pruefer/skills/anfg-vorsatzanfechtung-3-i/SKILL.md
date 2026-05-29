@@ -21,7 +21,9 @@ description: "Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benacht
 
 ## Rechtsprechung (BGH — Leitsätze § 3 AnfG Vorsatzanfechtung)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Die zur Insolvenzanfechtung nach § 133 InsO ergangene Neuausrichtung des BGH gilt grundsaetzlich uebertragbar auch fuer § 3 Abs. 1 AnfG, weil beide Vorschriften denselben Wortlaut zur Vorsatzanfechtung tragen. Leitlinie: BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20 (Insolvenz; uebertragbar). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX+ZR+72/20
+- Weiterentwicklung: BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Verwalter muss Deckungsluecke darlegen; einfaches Bestreiten kann genuegen; insoweit ebenfalls auf § 3 AnfG uebertragbar, weil der Anfechtende dort dieselben Darlegungslasten traegt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
+- Aktenzeichen und Uebertragbarkeit auf den konkreten Mandatssachverhalt vor Schriftsatzverwendung pruefen.
 
 ## Quellenregel
 

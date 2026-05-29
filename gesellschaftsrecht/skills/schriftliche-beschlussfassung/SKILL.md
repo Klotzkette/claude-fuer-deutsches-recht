@@ -39,7 +39,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **AG/SE:** § 108 Abs. 4 AktG (Aufsichtsratumlaufbeschluss); § 118a AktG (virtuelle HV); § 130 AktG (notarielle Niederschrift HV-Beschlüsse).
 
-**Personengesellschaften (MoPeG ab 01.01.2024):** § 714 BGB n.F. (GbR-Beschlussfassung); §§ 105, 110 HGB (OHG); § 163 HGB (KG-Stimmrechte).
+**Personengesellschaften (MoPeG ab 01.01.2024):** § 714 BGB n.F. (GbR-Beschlussfassung): https://www.gesetze-im-internet.de/bgb/__714.html ; §§ 105, 110 HGB (OHG); § 163 HGB (KG-Stimmrechte). Neues Beschlussmaengelrecht §§ 110-115 HGB n.F. (Anfechtungsmodell, Klage gegen die Gesellschaft, Frist drei Monate, Cram-down moeglich) — gilt fuer OHG/KG, auf GbR analog soweit Gesellschaftsvertrag dies vorsieht (vgl. BGH "Schiedsfaehigkeit IV", Beschl. v. 23.09.2021 — I ZB 13/21, fuer Schiedsklauseln-Anpassungsbedarf): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 

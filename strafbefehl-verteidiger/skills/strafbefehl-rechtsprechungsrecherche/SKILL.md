@@ -52,22 +52,27 @@ Querschnitt:
 
 ## Kernrechtsprechung Strafbefehlsverfahren
 
+Vorbemerkung: Die unten genannten Fundstellen stammen aus geschlossenen Verlagsprodukten (NStZ, NStZ-RR, NZV). Sie dürfen nach der Quellen-Regel dieses Repositoriums nicht aus Modellwissen zitiert werden. Wer die Entscheidung verwenden will, verifiziert Aktenzeichen und Aussage vor Versand des Schriftsatzes in dejure.org oder openjur.de. Die folgenden Stichworte dienen nur als Recherche-Anker, nicht als Zitat.
+
 ### § 407/409 StPO — Zulaessigkeit und Inhalt
-- BGH NStZ 2019, 226 — Verbrechen schliesst Strafbefehl aus; Nichtigkeit
-- OLG Frankfurt NStZ-RR 2019, 351 — Freiheitsstrafe ohne Bewaehrung unzulaessig
-- BGH NStZ 2022, 439 — Tatbeschreibung muss Art. 103 Abs. 2 GG genuegen
+- Recherche-Anker: Verbrechen schliesst Strafbefehl aus (Nichtigkeit) — in dejure.org "§ 407 StPO Verbrechen Nichtigkeit" suchen
+- Recherche-Anker: Freiheitsstrafe ohne Bewaehrung unzulaessig — in dejure.org "§ 407 Abs. 2 StPO Freiheitsstrafe Bewaehrung" suchen
+- Recherche-Anker: Tatbeschreibung muss Art. 103 Abs. 2 GG genuegen — in dejure.org "§ 409 StPO Tatbeschreibung Bestimmtheit" suchen
 
 ### § 410 StPO — Einspruch und Frist
-- OLG Hamm NZV 2021, 531 — Zustellungsfiktion § 180 ZPO gilt im Strafbefehlsverfahren
-- OLG Koeln NStZ-RR 2020, 246 — Beschraenkter Einspruch bindet das Gericht
+- Recherche-Anker: Zustellungsfiktion § 180 ZPO im Strafbefehlsverfahren — in dejure.org "§ 410 StPO § 180 ZPO Zustellungsfiktion" suchen
+- Recherche-Anker: Beschraenkter Einspruch bindet das Gericht — in dejure.org "§ 410 Abs. 2 StPO beschraenkter Einspruch" suchen
 
 ### § 44 StPO — Wiedereinsetzung
-- BGH NStZ 2023, 184 — Gericht-Fehler bei Fristberechnung schliesst Verschulden aus
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Recherche-Anker: Gericht-Fehler bei Fristberechnung schliesst Verschulden aus — in dejure.org "§ 44 StPO Wiedereinsetzung Gerichtsfehler" suchen
 
 ### Strafzumessung
-- BGH NStZ 2021, 108 — Tagessatzhoehe nach tatsaechlichem Nettoeinkommen
-- BGH NStZ 2021, 354 — Schaetzungsrecht erst nach Ausschoepfung der Ermittlung
+- Recherche-Anker: Tagessatzhoehe nach tatsaechlichem Nettoeinkommen — in dejure.org "§ 40 StGB Tagessatz Nettoeinkommen" suchen
+- Recherche-Anker: Schaetzungsrecht erst nach Ausschoepfung der Ermittlung — in dejure.org "§ 40 Abs. 3 StGB Schaetzung Ausschoepfung" suchen
+
+### Aktualisierungen Stand Mai 2026
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG, Cannabisbesitz/Handeltreiben, sanktionsfreie Mengen): Beim KCanG-Strafbefehl ist die sanktionsfreie Eigenkonsummenge sowohl bei der Schuldfrage als auch in der Einziehung zu berücksichtigen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die in § 1 Nr. 8 ff. KCanG enthaltene gesetzliche Wertung ist bestimmender Strafzumessungsgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
 
 ## Schritt-fuer-Schritt-Recherche-Workflow
 

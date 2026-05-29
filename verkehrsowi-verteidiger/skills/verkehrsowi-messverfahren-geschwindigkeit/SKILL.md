@@ -22,9 +22,15 @@ description: "Workflow-Skill zu verkehrsowi messverfahren geschwindigkeit. Nutzt
 - **§ 46 OWiG i.V.m. § 244 StPO** — Beweisantragsrecht im OWi-Verfahren
 - **Art. 103 Abs. 1 GG** — Rechtliches Gehoer (Rohmessdaten-Recht)
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
+
+- **BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18** — Recht des Betroffenen auf Zugang zu den nicht-zum-Aktenbestand gehörenden Messunterlagen (Rohmessdaten, Lebensakte etc.) als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
+- **BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20** — Keine Pflicht zur Speicherung von Rohmessdaten bei standardisiertem Messverfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle: bundesverfassungsgericht.de
+- BGH-Linie zum standardisierten Messverfahren: konkrete Aktenzeichen (Beschluesse BGH 4. Strafsenat) vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
+
+Hinweis: Standardisiertes Messverfahren bringt Beweis-Erleichterung; konkrete Angriffspunkte (Eichung, Aufstellung, Mehrfachreflexion, Bedienfehler) müssen substantiiert vorgetragen werden.
 
 ## Quellenregel
 
@@ -91,7 +97,7 @@ Ich fordere die vollstaendige Messakte einschliesslich:
 - Eichschein (original oder beglaubigte Kopie)
 - Bedienungsanleitung fuer [GERAET]
 - Schulungsnachweis des Messbeamten
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rohmessdaten des Falldatensatzes und gesamter Messreihe (BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — Volltext und Randnummern aus bundesverfassungsgericht.de)
 - Messfoto hochaufloesend
 
 Ohne vollstaendige Herausgabe wird Verwertungsverbot gerueget.

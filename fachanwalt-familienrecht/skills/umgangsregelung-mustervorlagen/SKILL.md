@@ -37,7 +37,9 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| BVerfG (1. Kammer 1. Senat) | 1 BvR 746/23 | 07.10.2025 | Bei länger andauerndem oder unbefristetem Umgangsausschluss müssen Fachgerichte die dem Kind drohenden Schäden nach Art, Schwere und Eintrittswahrscheinlichkeit konkret benennen (Art. 6 Abs. 2 S. 1 GG). Befristeter Umgangsausschluss von drei Jahren zum Schutz von Mutter und Kindern verfassungsrechtlich gerechtfertigt. Quelle: bundesverfassungsgericht.de — vor Verwendung verifizieren. |
+| BVerfG (1. Kammer 1. Senat) | 1 BvR 316/24 / 1 BvR 810/25 | 28.08.2025 | Unzulässigkeit von Verfassungsbeschwerden gegen Versagung konkreter Umgangsregelungen — Begründungsanforderungen. Quelle: bundesverfassungsgericht.de. |
+| Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Modelle im Überblick
 
@@ -333,7 +335,9 @@ Vollstreckungstitel muss enthalten:
 
 - BGB §§ 1684, 1685, 1697a, 1671, 1666
 - FamFG §§ 89, 156, 158, 159, 165
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen Umgangsausschluss): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rk20251007_1bvr074623.html
+- BVerfG, Pressemitteilung Nr. 93/2025 (Verfassungsbeschwerden Umgangsregelungen): https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2025/bvg25-093.html
+- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schwab Familienrecht, 29. Aufl.
 - Wendl/Dose Unterhaltsrecht, 11. Aufl.
 - Stand: 05/2026

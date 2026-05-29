@@ -147,6 +147,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen
 
-- §§ 1-68 WpUeG; §§ 327a-f AktG; §§ 38, 48 WpHG; Art. 17, 18 MAR; SpruchG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Assmann/Poetzsch/Schneider, WpUeG (4. Aufl. 2022); Hueffer/Koch AktG § 327a
+- WpUeG: https://www.gesetze-im-internet.de/wp_g/
+- §§ 327a-f AktG: https://www.gesetze-im-internet.de/aktg/__327a.html
+- WpHG: https://www.gesetze-im-internet.de/wphg/ ; §§ 33 ff. WpHG (Stimmrechtsmitteilungen): https://www.gesetze-im-internet.de/wphg/__33.html
+- MAR (VO (EU) Nr. 596/2014, konsolidiert): https://eur-lex.europa.eu/eli/reg/2014/596
+- SpruchG: https://www.gesetze-im-internet.de/spruchg/
+- DelistingVO und Boersenrecht § 39 BoerseG: https://www.gesetze-im-internet.de/b_rsg_2007/__39.html
+- BVerfG, Beschl. v. 27.04.1999 — 1 BvR 1613/94 (DAT/Altana; BVerfGE 100, 289) — Boersenkurs als Untergrenze: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/04/rs19990427_1bvr161394.html
+- BaFin-Merkblaetter MAR/Ad-hoc: https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Marktmissbrauch/marktmissbrauch_node.html
+- Listing Act (Verordnung (EU) 2024/2809 zur Aenderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel pruefen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -49,16 +49,25 @@ Das Modell benötigt folgende Informationen:
 - **§ 104 ZPO** – Kostenfestsetzungsverfahren; Antrag beim Urkundsbeamten.
 - **§ 103 ZPO** – Kostenfestsetzungsantrag, Kostentitel Voraussetzung.
 
+### Aenderungen ab 01.01.2026
+
+Mit dem Gesetz zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) gelten ab 01.01.2026:
+
+- Sachliche Zustaendigkeit Amtsgericht (§ 23 Nr. 1 GVG): bis 10.000 EUR (vorher 5.000 EUR).
+- Berufungssumme (§ 511 Abs. 2 Nr. 1 ZPO): 1.000 EUR (vorher 600 EUR).
+- Wertgrenze Nichtzulassungsbeschwerde (§ 26 EGZPO bzw. § 544 Abs. 2 Nr. 1 ZPO): 25.000 EUR (vorher 20.000 EUR).
+- Uebergangsvorschrift: § 47 EGZPO. Massgeblich ist, ob die angegriffene Entscheidung bis 31.12.2025 verkuendet/zugestellt war oder die muendliche Verhandlung vorher geschlossen war.
+
+Quellen:
+- BRAK Mitteilung zur Wertgrenzenreform: https://www.brak.de/newsroom/news/zivilgerichtsbarkeit-hoehere-wertgrenzen-fuer-zustaendigkeit-und-rechtsmittel-ab-112026/
+- Anwaltsblatt zur Praxis: https://anwaltsblatt.anwaltverein.de/de/themen/recht-gesetz/zustaendigkeitsstreitwert-2026
+- § 47 EGZPO bei dejure: https://dejure.org/gesetze/EGZPO/47.html
+- § 511 ZPO bei dejure: https://dejure.org/gesetze/ZPO/511.html
+
 ### Leitentscheidungen
 
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Streitwertbemessung bei Feststellungsanträgen neben Leistungsanträgen: kein
-   Mehrwert, wenn Feststellungsantrag wirtschaftlich in Leistungsantrag aufgeht.
-
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Streitwertbemessung im Unterlassungsrechtsstreit: bei Kerntheorie-Reichweite
-   ist der wirtschaftliche Wert des Verbots maßgeblich, nicht nur der konkret
-   angegriffene Verletzungsfall.
+- Streitwertbemessung bei Feststellungsantraegen neben Leistungsantraegen: kein Mehrwert, wenn Feststellungsantrag wirtschaftlich in Leistungsantrag aufgeht. Aktenzeichen vor Schriftsatzverwendung ueber https://dejure.org pruefen.
+- Streitwertbemessung im Unterlassungsrechtsstreit: bei Kerntheorie-Reichweite ist der wirtschaftliche Wert des Verbots massgeblich, nicht nur der konkret angegriffene Verletzungsfall. Aktenzeichen ueber https://dejure.org und https://openjur.de verifizieren.
 
 ### Quellenregel
 

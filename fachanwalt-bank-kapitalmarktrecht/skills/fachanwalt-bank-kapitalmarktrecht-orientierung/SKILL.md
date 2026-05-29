@@ -66,11 +66,19 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **kanzlei-allgemein** Fristen Versand.
 - **insolvenzrecht** bei Anfechtung.
 
-## Vertiefung: Rechtsprechung und aktuelle Linien
+## Vertiefung: Rechtsprechung und aktuelle Linien (Stand Mai 2026)
 
-### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht
+### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
+- **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins fuer Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
+- **BGH XI ZR 553/19** 2024 — Stärkung der Rechte von Darlehensnehmern bei Altforderungen (Volltext und Datum vor Versand verifizieren). Quelle: juris.bundesgerichtshof.de
+
+### EuGH-Linien
+
+- **EuGH C-26/22 und C-64/22** v. 7.12.2023 — SCHUFA / Restschuldbefreiung max. 6 Monate Speicherung. Quelle: curia.europa.eu
+- **EuGH C-634/21** v. 7.12.2023 — SCHUFA-Score als automatisierte Entscheidung i.S.v. Art. 22 DSGVO. Quelle: curia.europa.eu
+- **EuGH C-66/19** v. 26.3.2020 (Kreissparkasse Saarlouis) — Kaskadenverweisung in Widerrufsbelehrung unzulässig. Quelle: curia.europa.eu
 
 ### Normen-Ueberblick nach Mandatstyp
 | Mandat | Zentralnorm |

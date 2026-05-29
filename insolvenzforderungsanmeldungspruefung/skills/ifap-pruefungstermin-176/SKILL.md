@@ -43,9 +43,10 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenvermerk und Außenkommunikation. Bei echten Mandatsdaten sind Berufsgeheimnis, Datenschutz und Kanzleifreigaben zwingend zu beachten.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 114/23 vom 19.12.2024** — Bei Abtretung muss ein eigener Prüfungstermin durchgeführt werden; ohne diesen ist eine Feststellungsklage des Zedenten unzulässig. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Für die Prüfungsentscheidung über kapitalmarktrechtliche Aktionärsforderungen: Nachrang einwenden.
 
 ## Paragrafenkette (Kernbereich)
 
@@ -57,7 +58,7 @@ Bevor losgelegt wird, klaere:
 1. **Pruefungstermin-Datum?** § 176 InsO — Ladungsfrist 7 Tage; Tabelle vollstaendig vor Termin.
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend fuer Zahlungsreihenfolge.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. **Sonderfälle?** Abgetretene Forderungen — eigener Prüfungstermin Pflicht (BGH IX ZR 114/23 vom 19.12.2024). Aktionärs-Schadensersatz — Nachrang (BGH IX ZR 127/24 vom 13.11.2025).
 
 ## Quellenregel
 

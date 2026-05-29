@@ -100,4 +100,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand: 05/2026.
+- § 9 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__9.html
+- § 9a GmbHG: https://www.gesetze-im-internet.de/gmbhg/__9a.html
+- § 19 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__19.html
+- § 56 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__56.html
+- § 56a GmbHG: https://www.gesetze-im-internet.de/gmbhg/__56a.html
+- § 57 GmbHG (Anmeldung Kapitalerhoehung): https://www.gesetze-im-internet.de/gmbhg/__57.html
+- § 57a GmbHG iVm § 9c GmbHG (Pruefungspflicht Registergericht): https://www.gesetze-im-internet.de/gmbhg/__9c.html
+- § 82 GmbHG (Strafbarkeit falscher Angaben): https://www.gesetze-im-internet.de/gmbhg/__82.html
+- § 272 II Nr. 4 HGB (Kapitalruecklage): https://www.gesetze-im-internet.de/hgb/__272.html
+- IDW S 1 / IDW RS HFA 42 (Werthaltigkeit von Forderungen): https://www.idw.de/idw/idw-verlautbarungen
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

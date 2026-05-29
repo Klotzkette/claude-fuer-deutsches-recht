@@ -48,8 +48,9 @@ description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 
 
 | Aktenzeichen | Gericht/Datum | Inhalt |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| C-458/24 (Daraa) | EuGH, Urt. v. 05.03.2026 | Dublin III: Zuständigkeit geht auf ersuchenden Mitgliedstaat über, wenn binnen 6 Monaten nicht überstellt wird; einseitige Aussetzung des Dublin-Rücknahmeverfahrens (hier: Italien Ende 2022) bewirkt nicht automatisch Zuständigkeitswechsel — Verifikation [curia.europa.eu](https://curia.europa.eu/). |
+| 1 BvL 3/22 | BVerfG, Beschl. v. 14.11.2024 | PolG NRW Observation/Bildaufnahmen ohne hinreichende Eingriffsschwelle verfassungswidrig — Verifikation [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html). |
+| Weitere | Live verifizieren | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -286,7 +287,17 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. **GEAS-Anwendbarkeit ab 12.06.2026.** Für die deutsche Umsetzung greifen AsylG-Änderungen, AufenthG und AsylbLG. Stichtagsregelung Art. 79 Abs. 3 AVV-VO (EU) 2024/1348: Verfahrensrecht gilt nur für ab dem 12.06.2026 eingereichte Anträge; Altanträge unterliegen weiterhin RL 2013/32/EU. Materielles Statusrecht der Qualifikations-VO (EU) 2024/1347 gilt mangels Übergangsregelung ab 12.06.2026 auch in laufenden Altverfahren.
+
+- EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Dublin-III-Zuständigkeitsübergang nach Ablauf 6-Monatsfrist — [curia.europa.eu](https://curia.europa.eu/)
+- VO (EU) 2024/1348 — Asylverfahrensverordnung — [EUR-Lex 32024R1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj)
+- VO (EU) 2024/1349 — Grenzverfahrensverordnung — [EUR-Lex 32024R1349](https://eur-lex.europa.eu/eli/reg/2024/1349/oj)
+- VO (EU) 2024/1351 — Asyl- und Migrationsmanagementverordnung — [EUR-Lex 32024R1351](https://eur-lex.europa.eu/eli/reg/2024/1351/oj)
+- VO (EU) 2024/1347 — Qualifikationsverordnung — [EUR-Lex 32024R1347](https://eur-lex.europa.eu/eli/reg/2024/1347/oj)
+- BAMF GEAS-Übersicht — [bamf.de](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/EuropaeischerKontext/GEAS/geas-node.html)
+- asyl.net Übergangsregelungen — [asyl.net](https://www.asyl.net/view/uebersicht-zur-anwendung-der-geas-rechtsakte-ab-juni-2026-was-gilt-wann)
+
+Weitere Rechtsprechung im Schriftsatz live verifizieren; keine Aktenzeichen aus Modellwissen.
 
 ## Output-Template: Eilantrag GEAS-Grenzverfahren (§ 36 AsylG / Art. GVO 2024/1349)
 

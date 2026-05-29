@@ -12,7 +12,7 @@ Transport-/Spediteursstreit hat branchen-typische Schlichtungs- und Schiedsverfa
 ## Eingaben
 
 - Vertragstyp (Speditionsvertrag § 453 HGB, Frachtvertrag § 407 HGB, Lagervertrag)
-- Anwendbares Recht (HGB, ADSp 2017/2025, CMR, COTIF, Montreal)
+- Anwendbares Recht (HGB, ADSp 2017 — Stand Mai 2026 weiterhin geltende Branchenfassung —, CMR, COTIF, Montreal)
 - Streitgegenstand (Frachtschaden, Verlust, Lieferverzug, Spedition-Versäumnis)
 - Versicherer-Beteiligung (CMR-Vers., Speditions-Vers.)
 - Streitwert
@@ -24,7 +24,7 @@ Transport-/Spediteursstreit hat branchen-typische Schlichtungs- und Schiedsverfa
 - **Montrealer Übereinkommen** (Luftfracht)
 - **Haager-Visby-Regeln** (Seefracht)
 - **COTIF** (Schiene)
-- **ADSp 2017** (aktualisiert 2025): Allgemeine Deutsche Spediteurbedingungen
+- **ADSp 2017** — Stand Mai 2026 weiterhin Branchenstandard (keine konsolidierte Folgefassung verifiziert); zukünftige Anpassungen über [dslv.org](https://www.dslv.org/de/adsp) prüfen
 - **§ 21 ADSp** — Schiedsklausel TIO
 - **§ 1029 ff. ZPO**
 
@@ -95,7 +95,7 @@ Transport-/Spediteursstreit hat branchen-typische Schlichtungs- und Schiedsverfa
 - **Bei Vorsatz / grober Fahrlässigkeit**: § 435 HGB; volle Haftung
 - **CMR-Frist 21 Tage** kurz; sofort handeln
 - **Mehrere Beteiligte**: Frachtführer + Subunternehmer + Versicherer
-- **ADSp 2017 vs. 2025**: 2025 leichte Anpassungen an Digitalisierung
+- **ADSp-Aktualität**: Stand 05/2026 ist die ADSp 2017 maßgeblich. Eine konsolidierte Folgefassung ist im Skill-Recherche-Stand nicht verifiziert. Im Mandat aktuellen Stand über DSLV/BGL prüfen.
 
 ## Querverweise
 
@@ -106,4 +106,9 @@ Transport-/Spediteursstreit hat branchen-typische Schlichtungs- und Schiedsverfa
 
 ## Quellen und Updates
 
-Stand: 05/2026. ADSp 2017 / 2025-Update. CMR 1956. Montrealer Übereinkommen 1999.
+Stand: 05/2026. ADSp 2017 weiterhin als Branchenstandard. CMR 1956. Montrealer Übereinkommen 1999. Rechtsprechung im Mandat live verifizieren.
+
+- ADSp 2017 — [dslv.org](https://www.dslv.org/de/adsp)
+- CMR (UNECE) — [unece.org](https://unece.org/transport/standards/transport/road)
+- HGB §§ 407 ff. — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/)
+- BGH I. Zivilsenat (Transport) — [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

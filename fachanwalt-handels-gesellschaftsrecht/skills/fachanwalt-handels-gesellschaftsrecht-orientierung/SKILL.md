@@ -22,12 +22,12 @@ description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO
 
 ## Maßgebliche Normen
 
-- **HGB:** Kaufmannsbegriff §§ 1 ff.; Firmenrecht §§ 17 ff.; Prokura §§ 48 ff.; Handelsregister § 8 ff. iVm FamFG; Handelsgeschäfte §§ 343 ff.; Handelsvertreterrecht §§ 84 ff.; Bilanzrecht §§ 238 ff.
-- **GmbHG:** Gründung §§ 1 ff., Stammkapital § 5, Geschäftsführerpflichten §§ 35 ff., Geschäftsführerhaftung § 43, Gesellschafterversammlung §§ 47 ff., Anteilsabtretung § 15.
-- **AktG:** Gründung §§ 1 ff., Hauptversammlung §§ 118 ff., Beschlussanfechtung §§ 241 ff., Vorstandshaftung § 93 AktG, Aufsichtsrat §§ 95 ff.
-- **PartGG** und **MoPeG-GbR-Recht** (in Kraft seit 01.01.2024) mit eGbR-Registereintragung.
-- **UmwG:** Verschmelzung §§ 2 ff., Spaltung §§ 123 ff., Formwechsel §§ 190 ff.
-- **InsO Schnittstellen:** § 15a InsO (Antragspflicht); § 15b InsO Zahlungsverbot ab Insolvenzreife (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021, ersetzt durch § 15b InsO).
+- **HGB:** Kaufmannsbegriff §§ 1 ff.; Firmenrecht §§ 17 ff.; Prokura §§ 48 ff.; Handelsregister § 8 ff. iVm FamFG; Handelsgeschaefte §§ 343 ff.; Handelsvertreterrecht §§ 84 ff.; Bilanzrecht §§ 238 ff. Seit MoPeG (01.01.2024) gilt fuer OHG/KG das neue Beschlussmaengelrecht §§ 110-115 HGB (Anfechtungsmodell, Frist drei Monate, Klage gegen die Gesellschaft).
+- **GmbHG:** Gruendung §§ 1 ff., Stammkapital § 5, Geschaeftsfuehrerpflichten §§ 35 ff., Geschaeftsfuehrerhaftung § 43, Gesellschafterversammlung §§ 47 ff., Anteilsabtretung § 15. Online-Beurkundung Gruendung seit DiRUG (01.08.2022), erweitert auf Kapitalerhoehung und Satzungsaenderungen seit DiREG (01.08.2023; nur bei einstimmigem Beschluss). § 16a BeurkG.
+- **AktG:** Gruendung §§ 1 ff., Hauptversammlung §§ 118 ff. (virtuelle HV § 118a AktG nach G v. 20.07.2022), Beschlussanfechtung §§ 241 ff., Vorstandshaftung § 93 AktG, Aufsichtsrat §§ 95 ff.
+- **PartGG** und **MoPeG-GbR-Recht** (Gesetz zur Modernisierung des Personengesellschaftsrechts; BGBl. I 2021, 3436; in Kraft 01.01.2024) mit eGbR-Registereintragung (§§ 707 ff. BGB); Voreintragungspflicht bei Grundstuecksgeschaeften nach § 707b BGB bestaetigt durch BGH, Beschl. v. 03.07.2025 — V ZB 17/24.
+- **UmwG:** Verschmelzung §§ 2 ff., Spaltung §§ 123 ff., Formwechsel §§ 190 ff.; UmRUG (Umwandlungsrichtlinie-Umsetzungsgesetz, in Kraft 01.03.2023) — grenzueberschreitende Umwandlungen jetzt mit harmonisierten Verfahren.
+- **InsO Schnittstellen:** § 15a InsO (Antragspflicht, Hoechstfristen 3 Wochen ZU / 6 Wochen UE); § 15b InsO Zahlungsverbot ab Insolvenzreife (§ 64 GmbHG a.F. und § 92 II AktG a.F. aufgehoben durch SanInsFoG vom 22.12.2020, BGBl. I 2020, 3256, in Kraft 01.01.2021; rechtsformneutral ersetzt durch § 15b InsO).
 
 ## Typische Mandate
 

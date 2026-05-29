@@ -38,9 +38,13 @@ description: "Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nac
 - **§ 630h Abs. 5 Satz 1 BGB** — Grober Behandlungsfehler: bei grobem Fehler Beweislastumkehr für Kausalität zum Primärschaden.
 - **§ 630h Abs. 5 Satz 2 BGB** — Befunderhebungsfehler: bei hinreichend wahrscheinlichem reaktionspflichtigem Befund Beweislastumkehr.
 
-### BGH-Rechtsprechung
+### BGH-Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 21.01.2025 — VI ZR 204/22 (VI. Zivilsenat): Beweislast für hypothetische Einwilligung nach § 630h Abs. 2 Satz 2 BGB liegt nicht beim Patienten, sondern beim Behandelnden; dieser hat darzulegen und zu beweisen, dass der Patient auch bei ordnungsgemäßer Aufklärung in die durchgeführte Behandlung eingewilligt hätte. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.01.2025&Aktenzeichen=VI+ZR+204/22
+- BGH 25.11.2025 — VI ZR 165/23 (VI. Zivilsenat): Vertiefung zur hypothetischen Einwilligung § 630h Abs. 2 Satz 2 BGB. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
+- BGH 25.11.2025 — VI ZR 51/24 (VI. Zivilsenat): Krankenhaushaftung wegen unzureichend organisierter ärztlicher Nachtdienste — Organisationsverschulden. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+51/24
+
+Weitere Entscheidungen vor Ausgabe in dejure.org / openjur.de live verifizieren.
 
 ### Verjährung
 
@@ -239,6 +243,8 @@ Anlagen:
 - BGB §§ 195, 199, 249–253, 280, 630a–630h, 823, 843, 844
 - ZPO §§ 286, 287, 448
 - SGB V § 66; SGB X § 116
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 21.01.2025 — VI ZR 204/22 (Beweislast hypothetische Einwilligung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.01.2025&Aktenzeichen=VI+ZR+204/22
+- BGH 25.11.2025 — VI ZR 165/23 (hypothetische Einwilligung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
+- BGH 25.11.2025 — VI ZR 51/24 (Organisationsverschulden Nachtdienst): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+51/24
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

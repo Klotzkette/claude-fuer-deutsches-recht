@@ -151,9 +151,14 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
 
-## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat
+## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (§ 823 II BGB iVm § 15a InsO); für die Mandantenwarnung bei Wechsel der Geschäftsleitung.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung bei verspätetem Insolvenzantrag; Hinweis auf Deckungschancen.
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung; Strafbarkeit auch ohne formale Bestellung.
+- Im Anfechtungsmandat: **BGH IX ZR 122/23 (05.12.2024)** zur Unlauterkeit Bargeschäft; **BGH IX ZR 129/22 (18.04.2024)** zur Neuausrichtung Vorsatzanfechtung.
+- Konkrete Aktenzeichen vor Ausgabe über dejure.org / openjur.de / bundesgerichtshof.de verifizieren.
 
 ## Paragrafenkette Erstmandat Insolvenz
 

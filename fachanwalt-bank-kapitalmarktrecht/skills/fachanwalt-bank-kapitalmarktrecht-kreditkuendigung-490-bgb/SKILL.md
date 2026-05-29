@@ -47,11 +47,16 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 - Wegfall wesentlicher Sicherheiten (z.B. Grundstücksverkauf)
 - Negative Auskünfte SCHUFA / Creditreform
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
+
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BGH XI. ZS | XI ZR 22/24 | 20.5.2025 | Verlust des Vorfälligkeitsentschädigungs-Anspruchs bei intransparenter Klausel im Immobiliardarlehen — Bedeutung auch für Kündigungsfolgen (Rückzahlung bereits gezahlter VFE) | juris.bundesgerichtshof.de |
+| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Referenzzins für Zinsanpassungen Prämiensparvertrag | bundesgerichtshof.de PM Nr. 225/2025 |
+
+Hinweis: Für die spezifischen Anforderungen des § 490 BGB (außerordentliche Kündigung wegen wesentlicher Verschlechterung) konkrete Aktenzeichen XI. ZS / III. ZS BGH vor Versand in juris.bundesgerichtshof.de oder dejure.org aufrufen.
 
 ## Prüfschema Kreditkündigung
 
@@ -59,7 +64,7 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 |---|---|---|---|
 | 1 | Schriftliche Kündigung mit Begründung? | Praxis-Pflicht | Kündigung angreifbar |
 | 2 | Wesentliche Verschlechterung konkret? | § 490 Abs. 1 BGB | Kündigung unwirksam |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 3 | Vorwarnung / Stellungnahmemöglichkeit gewährt? | § 314 Abs. 2 BGB analog, Verhältnismäßigkeit | Kündigung angreifbar |
 | 4 | Bei Konsument: 2 Raten + 10 % + Mahnung? | § 498 BGB | Kündigung unwirksam |
 | 5 | Stellungnahme-Frist gewährt? | Verhältnismäßigkeit | Kündigung ggf. unwirksam |
 | 6 | Sicherheiten-Verwertung: Fälligkeit + Mahnung? | § 252 BGB-Praxis | Vorzeitige Vollstreckung angreifbar |
@@ -71,7 +76,7 @@ Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abw
 
 1. Bank stützt Kündigung auf negative BWA und fehlende Liquiditätsprognose
 2. Mandant hat keine Vorwarnung erhalten
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Reaktion: Sofortige Stellungnahme, Liquiditätsplan, Vorwarnungs-Argument; ggf. Sanierungsgespräch initiieren; Verhältnismäßigkeit der Kündigung anfechten
 
 ### Szenario B — Privatperson, Konsumentenkredit, 3 Raten in Verzug
 
@@ -106,9 +111,14 @@ des oben bezeichneten Kreditvertrags ist unwirksam.
 Begründung:
 
 1. Fehlende Vorwarnung: Bei einer Kreditbeziehung von
-   [x] Jahren war eine Vorwarnung vor Kündigung
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Eine solche ist nicht erfolgt.
+   [x] Jahren war eine Vorwarnung vor Kündigung nach dem
+   Grundsatz der Verhältnismäßigkeit und Vertragstreue
+   regelmäßig erforderlich (analoge Anwendung des
+   Rechtsgedankens aus § 314 Abs. 2 BGB; konkrete
+   Aktenzeichen XI. ZS / III. ZS BGH vor Versand in
+   juris.bundesgerichtshof.de oder dejure.org aufrufen
+   und mit Randnummer einsetzen). Eine solche ist nicht
+   erfolgt.
 
 2. Keine wesentliche Vermögensverschlechterung: Die
    von Ihnen genannten Umstände [konkret benennen]

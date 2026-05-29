@@ -62,7 +62,12 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
+
+- Dual-Use-Güterliste Anhang I VO (EU) 2021/821 wird jährlich durch Delegierten Rechtsakt angepasst; aktuelle Fassung vor Klassifizierung über [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2021/821/oj-consolidated) abrufen.
+- BAFA-Merkblatt Dual-Use und Embargo-Hinweise — [bafa.de](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html).
+- Aktuelle EU-Sanktionspakete erweitern Catch-All-Mechanismen kontinuierlich (insbesondere 19. Sanktionspaket Russland vom 23.10.2025 und 20. Sanktionspaket vom 24.04.2026 — siehe Skill `aussenwirtschaft-sanktionen-embargos`).
+- BFH-Rechtsprechung zur Zollwertbestimmung im Mandat über [bundesfinanzhof.de](https://www.bundesfinanzhof.de) live verifizieren.
 
 ## Normen-Kette Exportkontrolle/Dual Use
 

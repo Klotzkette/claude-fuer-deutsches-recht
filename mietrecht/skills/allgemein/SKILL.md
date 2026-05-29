@@ -243,3 +243,8 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (BGB, BetrKV, HeizkostenV, WEG, ZPO, WiStG)
+- Leitlinien Rechtsprechung 2024/2025:
+  - BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB heilt nur fristlose, nicht ordentliche Kuendigung. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
+  - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an Eigenbedarfsbegruendung § 573 Abs. 3 BGB; Eigenbedarf wirksam auch bei spaeterem Verkauf.
+  - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung und Zugang (siehe schriftform-und-textform-bgb).
+- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318): ab 01.01.2026 § 23 GVG i.V.m. neuen Wertgrenzen wirkt auf Raeumungsklagen und mietrechtliche Zahlungsklagen; AG bleibt aber fuer Wohnraummietsachen ohne Streitwertgrenze zustaendig (§ 23 Nr. 2a GVG).

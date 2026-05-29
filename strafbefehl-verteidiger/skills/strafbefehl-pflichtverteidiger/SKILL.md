@@ -22,9 +22,10 @@ description: "Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 
 - **§ 143a StPO** — Ruecknahme der Bestellung; Auswechslung nur in Ausnahmefaellen
 - **Nr. 4100 ff. VV-RVG** — Gebuehren in Strafsachen; Verguerverguetungsanspruch des beigeordneten Anwalts gegen die Staatskasse
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Geltungsgrundlagen: § 140 StPO i. d. F. nach RL (EU) 2016/1919 (PKH-Richtlinie Strafverfahren), umgesetzt seit Dezember 2019, weiterhin maßgeblich; Aktualisierungen vor Ausgabe in dejure.org / openjur.de pruefen.
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur notwendigen Verteidigung im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 140 StPO Strafbefehl" durchführen.
 
 ## Quellenregel
 

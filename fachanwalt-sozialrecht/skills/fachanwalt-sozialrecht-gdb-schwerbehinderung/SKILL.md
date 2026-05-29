@@ -105,9 +105,12 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 4. **Merkzeichen-Prüfung übersehen**
 5. **Frist 1 Monat versäumt**
 
-## 8) BSG-Linien und aktuelle Rechtsprechung
+## 8) BSG-Linien und aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BSG, Urteil vom 12.12.2024 — B 9 SB 2/24 R: GdB-Bewertung bei Diabetes mellitus Typ 1 im Kindesalter; Anwendung der VersMedV Teil B Nr. 15.1. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_12_12_B_09_SB_02_24_R.html
+- BSG, Urteil vom 09.03.2023 — B 9 SB 8/21 R: Merkzeichen aG; Maßstab Gehfähigkeit im öffentlichen Verkehrsraum, nicht in idealisierten Umgebungen. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_03_09_B_09_SB_08_21_R.html
+- BSG, Urteil vom 09.03.2023 — B 9 SB 1/22 R: Merkzeichen aG; Pflicht zur Berücksichtigung von Wechselsituationen im Alltag. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_03_09_B_09_SB_01_22_R.html
+- Stand Mai 2026: Spezifische B 9 SB-Entscheidungen des Jahres 2025/2026 sind in dejure.org/bsg.bund.de zum Zeitpunkt der Skill-Aktualisierung nicht als veröffentlichte Senatsentscheidungen mit Volltext zugänglich; vor Verwendung Aktenzeichen-Recherche unter https://www.bsg.bund.de/SharedDocs/Entscheidungen/ durchführen.
 
 ## Widerspruchsbausteine
 

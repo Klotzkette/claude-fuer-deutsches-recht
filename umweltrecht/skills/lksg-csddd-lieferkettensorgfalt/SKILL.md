@@ -7,7 +7,9 @@ description: "Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflich
 
 ## Zweck
 
-Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit der CSDDD (Richtlinie (EU) 2024/1760, Umsetzungsfrist 26.7.2026) verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoß-Verteidigung.
+Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit der CSDDD (Richtlinie (EU) 2024/1760 vom 13.6.2024, ABl. L 2024/1760; Umsetzungsfrist 26.7.2026) verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoß-Verteidigung.
+
+**Stand 05/2026:** Im Rahmen des EU-Omnibus-Pakets (Anfang 2025) hat die Kommission Vorschlaege zur Verschiebung und Lockerung von CSDDD und CSRD vorgelegt; Kommissionsvorschlag COM(2025) 81 final ueber eur-lex.europa.eu/legal-content/DE/TXT/?uri=COM:2025:81:FIN — vor Mandatsanwendung den aktuellen legislativen Stand pruefen (eur-lex Trilog-Ergebnis 2025/2026).
 
 ## Eingaben
 

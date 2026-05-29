@@ -17,7 +17,9 @@ Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt
 - § 15a InsO (Insolvenzantragspflicht)
 - § 15b InsO (Zahlungsverbote nach Insolvenzreife)
 - § 1 StaRUG (Krisenfrüherkennungspflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH II ZR 206/22 vom 23.07.2024** — Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden bleibt bestehen, solange die durch ihn geschaffene Gefährdungslage fortwirkt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung: auch Hintermänner ohne Außenauftritt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar. Stärkt die Deckungsposition des GF und des Insolvenzverwalters.
 - IDW S 6 (Sanierungskonzepte)
 
 ---
@@ -48,9 +50,7 @@ Die Business Judgment Rule (§ 93 Abs. 1 S. 2 AktG, GmbH analog) schützt den Ge
 
 ### 3. Beweislastumkehr nach § 93 Abs. 2 S. 2 AktG
 
-§ 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.**
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+§ 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.** Für GmbH-Geschäftsführer wird die Beweislastumkehr entsprechend angewandt (vgl. konkrete BGH-Linie, vor Ausgabe Aktenzeichen über dejure.org / openjur.de verifizieren).
 
 - Wer keine Protokolle führt, kann seine Pflichterfüllung nicht beweisen.
 - Wer keine Liquiditätsplanung vorhält, kann nicht nachweisen, dass er § 1 StaRUG erfüllt hat.

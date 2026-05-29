@@ -91,7 +91,16 @@ beschließt einstimmig:
 
 ## Quellen und Updates
 
-Stand: 05/2026. Bei Änderung GmbHG §§ 53 ff. aktualisieren.
+Stand: 05/2026.
+- § 53 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__53.html
+- § 55 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__55.html
+- § 56 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__56.html
+- § 56a GmbHG: https://www.gesetze-im-internet.de/gmbhg/__56a.html
+- § 57 GmbHG (Anmeldung): https://www.gesetze-im-internet.de/gmbhg/__57.html
+- § 57a GmbHG (i.V.m. § 9c GmbHG): https://www.gesetze-im-internet.de/gmbhg/__57a.html
+- § 9 GmbHG (Differenzhaftung): https://www.gesetze-im-internet.de/gmbhg/__9.html
+- DiREG-Inkrafttreten 01.08.2023 (Online-Beurkundung GmbH-Kapitalerhoehung und Uebernahmeerklaerung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html — Vorbehalt: nur bei einstimmigem Gesellschafterbeschluss; bei Mehrheitsentscheid Praesenzbeurkundung.
+- Bei Aenderung GmbHG §§ 53 ff. aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 

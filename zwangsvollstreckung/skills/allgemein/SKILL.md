@@ -230,5 +230,6 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 - Stand: 05/2026
 - ZPO, ZVG, InsO in aktuell geltender Fassung
-- Pfaendungsfreibetraege nach § 850c ZPO in der Fassung ab 01.07.2023 (Anpassung 2025 beachten)
-- EuKtPVO (VO 655/2014) unmittelbar anwendbar
+- Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110 vom 11.04.2025), gueltig 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
+- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): ab 01.01.2026 Amtsgerichts-Zustaendigkeit bis 10.000 EUR (§ 23 GVG n.F.), Berufungssumme 1.000 EUR (§ 511 Abs. 2 ZPO n.F.); Uebergangsvorschrift § 47 EGZPO.
+- EuKtPVO (VO 655/2014) unmittelbar anwendbar.

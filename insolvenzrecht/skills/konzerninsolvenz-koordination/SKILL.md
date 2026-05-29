@@ -275,8 +275,8 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 
 ### Anfechtungs-Prüfung
 
-- Inter-Company-Transaktionen sensitiv
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Inter-Company-Transaktionen sensitiv (Cash-Pool, Konzerndarlehen, Sicherheiten)
+- Nach **BGH IX ZR 239/22 vom 18.04.2024** (Anfechtung gesellschafterähnlicher Stellung § 135 InsO) sind die Anforderungen erhöht; Konzern-Sicherheitenketten gesondert prüfen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Skill `vorsatzanfechtung-133-inso`
 
 ### Anteilseigner-Rechte
@@ -343,9 +343,12 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 
-## Weitere Leitentscheidungen — Konzerninsolvenz
+## Weitere Leitentscheidungen — Konzerninsolvenz (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 239/22 vom 18.04.2024** — Verschärfung der Anforderungen an Anfechtung gesellschafterähnlicher Stellung (§ 135 InsO); relevant für konzerninterne Darlehen und Sicherheiten. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit bei Bargeschäft (§ 142 InsO) auch in Konzernverhältnissen einschlägig.
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Nachrangigkeit kapitalmarktrechtlicher Aktionärsschadensersatzansprüche in der Insolvenz der AG (Bedeutung für Konzernspitze als Holding-AG).
+- **EuInsVO** und konkrete EuGH-Entscheidungen zu COMI/Konzerninsolvenz vor Ausgabe über curia.europa.eu oder dejure.org verifizieren.
 
 ## Quellenregel
 

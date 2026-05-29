@@ -91,6 +91,14 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/i
 Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang) zu prüfen. Insolvenzantragspflicht und Eröffnungsgründe sind hochkomplex; im Zweifel **immer** anwaltliche Begleitung.
 
 
-## Rechtlicher Rahmen — Kaltstart-Orientierung
+## Rechtlicher Rahmen — Kaltstart-Orientierung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- § 15a InsO (Antragspflicht 3 Wo. ZU / 6 Wo. Überschuldung), §§ 17–19 InsO (Eröffnungsgründe), §§ 129 ff. InsO (Anfechtung), §§ 174 ff. InsO (Forderungsanmeldung), §§ 270 ff. InsO (Eigenverwaltung / Schutzschirm), §§ 4 ff. StaRUG.
+- Aktuelle BGH-Linie (vor Ausgabe über dejure.org / openjur.de verifizieren):
+  - **BGH IX ZR 122/23 vom 05.12.2024** (Unlauterkeit Bargeschäft § 142 InsO).
+  - **BGH IX ZR 129/22 vom 18.04.2024** (Vorsatzanfechtung § 133 InsO; konkrete Bedrohungslage).
+  - **BGH II ZR 206/22 vom 23.07.2024** (Fortwirkende Haftung ausgeschiedener GF).
+  - **BGH IV ZR 66/25 vom 19.11.2025** (D&O-Wissentlichkeitsausschluss).
+  - **BGH 5 StR 287/24 vom 27.02.2025** (Faktischer GF).
+  - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard — Aktionärsforderungen nachrangig).
+  - **BVerfG 1 BvR 418/25 vom 28.02.2025** (StaRUG / VARTA).

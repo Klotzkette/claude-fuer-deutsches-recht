@@ -32,13 +32,15 @@ description: "Mandant hat Führerschein entzogen bekommen oder befuerchtet Entzi
 - **§ 14 FeV** — Drogen-Anlass MPU: einmaliger Konsum harter Drogen; regelmäßiger Cannabis-Konsum (jetzt differenzierter nach Legalisierungsregelung); Polytoxikomanie.
 - **§ 20 FeV** — Wiedererteilung der Fahrerlaubnis nach Ablauf Sperrfrist; Antrag bei Fahrerlaubnisbehörde; ggf. MPU-Gutachten als Voraussetzung.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026; jeweils Volltext in offener Quelle prüfen)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BVerwG | 3 B 2.24 | 8.1.2025 | Cannabis ist seit KCanG (1.4.2024) kein BtM mehr; § 14 FeV im Lichte der neuen Gesetzeslage anwenden | bverwg.de |
+| Hess. VGH | 10 B 606/25 | 19.9.2025 | Entziehung Fahrerlaubnis bei wiederholtem Cannabisverstoss in Probezeit | offene Verwaltungsrechtsprechung Hessen |
+| BVerfG | 2 BvR 1167/20 | 20.6.2023 | Standardisierte Geschwindigkeitsmessung Rohmessdaten (relevant bei Vorfeld-Verstoss) | bundesverfassungsgericht.de |
 
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Hinweis: Keine Aktenzeichen aus Modellwissen. Vor Versand Volltext und Randnummer in bverwg.de, bundesverfassungsgericht.de, dejure.org oder openjur.de prüfen.
 
 ## Prüfschema in Tabellenform
 
@@ -52,7 +54,7 @@ description: "Mandant hat Führerschein entzogen bekommen oder befuerchtet Entzi
 | 4 | Sperrfristdauer — BAK, Schadensgrad, Vorstrafen? | § 69a StGB | Anrechnung vorläufige Entziehung § 69a Abs. 7 |
 | 5 | Punktestand und Verwarnungen § 4 StVG | § 4 StVG | Prozedurale Anforderungen (Ermahnung, Verwarnung) eingehalten? |
 | 6 | MPU-Anlass § 13 oder § 14 FeV? | §§ 13, 14 FeV | BAK-Wert; Drogenkonsum; Abstinenznachweis sichern |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 7 | Cannabis-Anlass post-KCanG? | § 14 FeV i.V.m. BVerwG 3 B 2.24 (8.1.2025); KCanG v. 27.3.2024 | § 24a Abs. 1a StVG (THC 3.5 ng/ml seit 22.8.2024); Anordnungsvoraussetzungen einzeln prüfen |
 | 8 | Anfechtungsklage gegen Verwaltungsentzug? | § 42 VwGO | Aufschiebende Wirkung § 80 VwGO; § 80 Abs. 2 Nr. 4 VwGO — AG ordnet sofortige Vollziehbarkeit an |
 | 9 | Eilantrag § 80 Abs. 5 VwGO bei Verwaltungsentzug? | § 80 Abs. 5 VwGO | Suspendierung des Entzugsbescheids für Dauer Hauptverfahren |
 | 10 | Verlängerung der Sperrfrist vermeiden? | § 69a Abs. 4 StGB | Vor Ablauf Sperrfrist keine Neutat |
@@ -246,11 +248,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Einwand | Reaktion |
 |---|---|
-| BAK-Wert belegt Ungeeignetheit | Rückrechnung BAK zur Tatzeit; Abbauwerte 0,1 Promille/h; ggf. Trinkmengenberechnung durch Sachverständigen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| BAK-Wert belegt Ungeeignetheit | Rückrechnung BAK zur Tatzeit; Abbauwerte 0.1 Promille/h; ggf. Trinkmengenberechnung durch Sachverständigen |
+| Cannabis-Anlass automatisch ungeeignet | Seit KCanG (1.4.2024) keine automatische Ungeeignetheit; BVerwG 3 B 2.24 (8.1.2025); § 14 FeV einzelfallbezogen |
 | MPU zwingend nach § 13 FeV | Maßnahme kann durch anderweitigen Eignungsnachweis (positives Gutachten, Abstinenzbelege) ersetzt werden |
 | Punkteentzug ohne weitere Prüfung | Verfahrensfehler (fehlende Verwarnungsschritte) begründen Rechtswidrigkeit |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| THC im Blut nachgewiesen | Seit 22.8.2024 Grenzwert 3.5 ng/ml (§ 24a Abs. 1a StVG); unterhalb des Grenzwerts grundsätzlich keine OWi |
 
 ## Streitwert und Kosten
 
@@ -277,7 +279,13 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verbindlich `references/zitierweise.md`. Erlaubte offene Quellen: bverwg.de, bundesverfassungsgericht.de, bundesgerichtshof.de, dejure.org, openjur.de, nrwe.de (NRW-Justiz), BGBl.
+
+Aktueller Stand Mai 2026:
+- BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Cannabis und KCanG
+- Hess. VGH, Beschl. v. 19.9.2025, 10 B 606/25 — Probezeit, Cannabisverstoss
+- KCanG vom 27.3.2024 (BGBl. I 2024 Nr. 109)
+- § 24a Abs. 1a StVG i.d.F. vom 21.8.2024, BGBl. I 2024 Nr. 274 (3.5 ng/ml THC)
 
 ---
 

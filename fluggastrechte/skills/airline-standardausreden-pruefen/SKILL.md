@@ -17,9 +17,9 @@ description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gege
 
 **Gegenargument**:
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-> 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsaetzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein außergewöhnlicher Umstand. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 ff.) einsetzen.
+>
+> Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2025, C-411/23 (curia.europa.eu) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug informiert war.
 
 Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebener Fehler kurz vor dem Flug entdeckt wird oder Sabotage durch Dritte vorliegt.
 
@@ -27,13 +27,13 @@ Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebene
 
 **Gegenargument**:
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Streiks der eigenen Mitarbeiter (auch "wilde Streiks") gehören zum betrieblichen Risikobereich der Airline. EuGH-Linie zum Personalmangel beziehungsweise Streik der eigenen Belegschaft konkret anhand offener Quelle (curia.europa.eu) und konkretem Aktenzeichen zitieren — nicht aus Modellwissen.
 
 ### 3. "Streik einer Gewerkschaft mit ordentlichem Aufruf"
 
 **Differenziertes Bild**:
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Auch Streiks mit ordentlichem Gewerkschaftsaufruf liegen typischerweise im betrieblichen Risikobereich, soweit sie das eigene Personal betreffen. EuGH-Linie konkret aus curia.europa.eu mit Aktenzeichen und Randnummer einsetzen; nicht aus Modellwissen pauschalisieren.
 
 Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumutbare Maßnahmen sind regelmäßig nicht hinreichend dargelegt.
 
@@ -65,9 +65,23 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Außergewöhnlich aber**:
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-> 
+> EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag ist grundsaetzlich außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004 (curia.europa.eu). Vor Versand Volltext aufrufen und Randnummer einsetzen.
+>
 > ABER: die Airline muss zusätzlich nachweisen dass alle **zumutbaren Maßnahmen** ergriffen wurden — z. B. zuegige technische Prüfung schnellstmögliche Wiederinbetriebnahme Umbuchung auf anderen Flug.
+
+### 16. "Blitzschlag in das Flugzeug"
+
+**Außergewöhnlich aber**:
+
+> EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag mit nachfolgender sicherheitsbedingter Pruefung kann außergewöhnlicher Umstand sein (curia.europa.eu).
+>
+> ABER: zumutbare Maßnahmen sind weiterhin nachzuweisen (Ersatzflugzeug, Umbuchung, Information).
+
+### 17. "Flug vorverlegt — keine Entschädigung"
+
+**Gegenargument**:
+
+> EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung eines Fluges um mehr als eine Stunde ist einer Annullierung gleichzusetzen. Ausgleichsanspruch nach Art. 7 VO 261/2004 entsteht (curia.europa.eu).
 
 ### 9. "Sie haben die Störung nicht binnen X Tagen gemeldet"
 

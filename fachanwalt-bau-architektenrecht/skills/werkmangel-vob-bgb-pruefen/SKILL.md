@@ -37,11 +37,17 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 | § 12 VOB/B | Förmliche Abnahme — gemeinsame Begehung, Niederschrift mit Vorbehalten |
 | § 13 Abs. 4 VOB/B | Verjährung — 4 Jahre für Bauwerk (Standard); 2 Jahre maschinelle und elektrische Anlagen |
 
-## Leitentscheidungen
+## Leitentscheidungen (Stand 05/2026, soweit verifizierbar — vor Ausgabe pruefen)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---------|-------------|-------|-------------|--------|
+| BGH | VII ZR 46/17 | 22.02.2018 | Aufgabe der fiktiven Mangelbeseitigungskosten als Schadensberechnung im Werkvertragsrecht; Mangelschaden nach Minderung oder tatsaechlichem Aufwand; BGHZ 218,1 | dejure.org/2018,2890 |
+| BGH | VII ZR 174/19 | 02.06.2022 | HOAI-Mindestsaetze in Altvertraegen weiter anwendbar trotz EuGH C-377/17; Folgeentscheidung Thelen | bundesgerichtshof.de PM 86/2022 |
+| BGH | VII ZR 181/00 | 09.01.2003 | Selbstvornahme und Aufwendungsersatz; NJW 2003, 1188 | dejure.org |
+| EuGH | C-377/17 | 04.07.2019 | HOAI-Mindestsaetze unionsrechtswidrig (Dienstleistungs-RL) | curia.europa.eu/juris/document/document.jsf?docid=215724 |
+| EuGH | C-261/20 | 18.01.2022 | Thelen Technopark — keine unmittelbare horizontale Wirkung der RL gegenueber Privaten | curia.europa.eu/juris/document/document.jsf?docid=252035 |
+
+Weitere konkrete Entscheidungen (insb. VII ZR 26/20 zum Vorschussanspruch ohne sichere Beseitigungsabsicht) vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
@@ -363,8 +369,13 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 - Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
 - Stand: 05/2026
 
-## Audit-Hinweis (27.05.2026)
+## Audit-Hinweis (Stand 05/2026)
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH VII ZR 46/17 (22.02.2018), BGHZ 218,1 — Aufgabe der fiktiven Mangelbeseitigungskosten (dejure.org/2018,2890)
+- BGH VII ZR 174/19 (02.06.2022) — Folgeentscheidung Thelen, HOAI-Mindestsaetze (bundesgerichtshof.de PM 86/2022)
+- BGH VII ZR 181/00 (09.01.2003), NJW 2003, 1188 — Selbstvornahme
+- EuGH C-377/17 (04.07.2019) — HOAI-Mindestsaetze; EuGH C-261/20 (18.01.2022) — Thelen Technopark
+
+Weitere konkrete Entscheidungen vor Ausgabe per dejure.org verifizieren.

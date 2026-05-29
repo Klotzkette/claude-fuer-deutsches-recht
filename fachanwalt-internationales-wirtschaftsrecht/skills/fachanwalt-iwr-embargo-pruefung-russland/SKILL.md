@@ -23,10 +23,15 @@ description: "Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2
 
 | Verordnung | Inhalt | Stand |
 |---|---|---|
-| VO (EU) 833/2014 | Sektor-Sanktionen gegen Russland (Energie, Dual-Use, Technologie, Dienstleistungen, Finanzen) | Mehrfach erweitert bis 14. Paket (2024) |
-| VO (EU) 269/2014 | Personen- und Entitätensanktionen (Listungen) | Laufend aktualisiert |
+| VO (EU) 833/2014 | Sektor-Sanktionen gegen Russland (Energie, Dual-Use, Technologie, Dienstleistungen, Finanzen) | Mehrfach erweitert; zuletzt durch 16. Paket (VO (EU) 2025/395 v. 24.02.2025) und 17. Paket (Mai 2025) |
+| VO (EU) 269/2014 | Personen- und Entitaetensanktionen (Listungen) | Laufend aktualisiert; aktuelle Konsolidierung beachten |
 | VO (EU) 765/2006 | Belarus-Sanktionen | Erweitert |
 | VO (EU) 2022/328 | Erweiterung Medien-Sanktionen (RT, Sputnik) | In Kraft |
+
+Konsolidierte Fassung VO 833/2014: https://eur-lex.europa.eu/eli/reg/2014/833
+16. Paket (VO (EU) 2025/395 vom 24.02.2025): https://eur-lex.europa.eu/eli/reg/2025/395/oj — u. a. Aluminium-Importverbot, Erweiterung Schattenflotte-Liste (Anhang XLII), neue Sorgfaltspflichten Art. 12gb VO 833/2014 ab 26.05.2025 fuer Anhang XLVIII.
+17. Paket (Beschluss des Rates vom 20.05.2025): https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/russia-s-war-of-aggression-against-ukraine-eu-agrees-17th-package-of-sanctions/ — ca. 189 zusaetzliche Schattenflotte-Schiffe; ueber 45 weitere Eintraege militaerischer Versorger; Listungsumfang VO 269/2014 nun ueber 2.400 Eintraege.
+Chronologische Uebersicht GTAI: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
 
 ### Deutsches Umsetzungsrecht
 
@@ -212,13 +217,14 @@ Mit freundlichen Gruessen
 
 ## Quellen
 
-- VO (EU) 833/2014 in der aktuell geltenden Fassung (14. Paket 2024)
-- VO (EU) 269/2014 in der aktuell geltenden Fassung
-- AWG, AWV in aktueller Fassung
-- GwG §§ 43, 11
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BAFA-Merkblätter Exportkontrolle und Sanktionen
-- EU-Sanctions Map: financial-sanctions.eu
+- VO (EU) 833/2014 in der aktuell geltenden Fassung; konsolidiert: https://eur-lex.europa.eu/eli/reg/2014/833 — zuletzt geandert durch 16. Paket (VO (EU) 2025/395 v. 24.02.2025) und 17. Paket (20.05.2025).
+- VO (EU) 269/2014 in der aktuell geltenden Fassung: https://eur-lex.europa.eu/eli/reg/2014/269 — ueber 2.400 Listungen (Stand 05/2025 nach 17. Paket).
+- AWG: https://www.gesetze-im-internet.de/awg_2013/ ; AWV: https://www.gesetze-im-internet.de/awv_2013/
+- GwG §§ 43, 11: https://www.gesetze-im-internet.de/gwg_2017/
+- BAFA-Russland-Hinweise: https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Embargos/Russland/russland.html
+- EU-Sanctions Map: https://www.sanctionsmap.eu/
+- GTAI Chronologie: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
 

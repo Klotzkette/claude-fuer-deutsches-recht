@@ -19,13 +19,21 @@ Gesellschafterkonflikte (GmbH, AG, KG) lösen sich oft im Schiedsverfahren — D
 
 ## Rechtlicher Rahmen
 
-- **§§ 1029-1066 ZPO** — Schiedsgerichts-Verfahren
-- **DIS-Schiedsgerichtsordnung 2018** (Stand 2020)
-- **DIS Expedited Rules** für schnellere Verfahren
-- **ICC Rules 2021**
-- **§ 47 GmbHG** — Beschlussanfechtung (Frist 1 Monat)
-- **§§ 327a-f AktG** — Squeeze-Out (Spruchverfahren)
-- **§ 287 ZPO** — Schätzungs-Befugnis bei Bewertungsstreit
+- **§§ 1025-1066 ZPO** — Schiedsgerichtsverfahren; siehe Modernisierungsvorhaben (BMJ-Referentenentwurf 01.02.2024, Diskontinuitaet Ende 20. WP, Stand pruefen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- **DIS-Schiedsgerichtsordnung 2018** (in Kraft seit 01.03.2018; weiterhin geltende Fassung): https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
+- **DIS Ergaenzende Regeln fuer beschleunigte Schiedsverfahren** und DIS-Mediationsordnung 2020: https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
+- **DIS-ERGeS** (Ergaenzende Regeln fuer gesellschaftsrechtliche Streitigkeiten 2018) — wichtig fuer Beschlussmaengelstreite in der Schiedsklausel.
+- BGH-Linie zur Schiedsfaehigkeit von Beschlussmaengelstreitigkeiten (vor Verwendung gegen offene Quelle pruefen):
+  - "Schiedsfaehigkeit II" — BGH, Urt. v. 06.04.2009 — II ZR 255/08 (GmbH; Mindestanforderungen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.04.2009&Aktenzeichen=II+ZR+255/08
+  - "Schiedsfaehigkeit III" — BGH, Beschl. v. 06.04.2017 — I ZB 23/16: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZB+23/16
+  - "Schiedsfaehigkeit IV" — BGH, Beschl. v. 23.09.2021 — I ZB 13/21 (Personenhandelsgesellschaft, Anpassungsbedarf Schiedsklauseln): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21
+  - Folge: nach MoPeG/Beschlussmaengelrecht §§ 110 ff. HGB n.F. ggf. Anpassung von Schiedsklauseln in Personengesellschaftsvertraegen erforderlich.
+- **ICC Rules 2021** (in Kraft seit 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- **§ 47 GmbHG** — Beschlussanfechtung (Frist 1 Monat): https://www.gesetze-im-internet.de/gmbhg/__47.html
+- **§§ 110-115 HGB n.F. (MoPeG, in Kraft 01.01.2024)** — Beschlussmaengelrecht Personengesellschaften: https://www.gesetze-im-internet.de/hgb/__110.html
+- **§§ 327a-f AktG** — Squeeze-Out (Spruchverfahren): https://www.gesetze-im-internet.de/aktg/__327a.html
+- **§ 287 ZPO** — Schaetzungs-Befugnis bei Bewertungsstreit: https://www.gesetze-im-internet.de/zpo/__287.html
+- **§ 273a ZPO n.F.** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025) — prozessualer Geheimnisschutz auch in Schieds-Aufhebungs- und Vollstreckbarerklaerungsverfahren vor staatlichen Gerichten: https://www.gesetze-im-internet.de/zpo/__273a.html
 
 ## ADR-Pfade
 

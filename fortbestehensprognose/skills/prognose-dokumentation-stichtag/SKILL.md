@@ -169,9 +169,11 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 - Bei "negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
 
 
-## Aktuelle Leitentscheidungen — Dokumentation der Prognose
+## Aktuelle Leitentscheidungen — Dokumentation der Prognose (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater haftet bei verfehlter FBP; Dokumentation der Hinweise und der angenommenen Prognoseannahmen ist Pflicht. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung des Beratungsmandats; Dokumentation muss erkennbar machen, dass auch GF angesprochen ist. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Wissentlichkeitsausschluss; lückenlose Dokumentation des Prognose-Prozesses ist entscheidend für die Verteidigung gegen "positive Kenntnis"-Vorwurf.
 
 ## Paragrafenkette Dokumentation
 

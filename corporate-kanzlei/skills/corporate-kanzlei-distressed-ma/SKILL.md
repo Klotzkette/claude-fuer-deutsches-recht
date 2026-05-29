@@ -117,6 +117,14 @@ Datum: [DATUM]
 
 ## Quellen
 
-- §§ 80, 129-147, 159-173 InsO; §§ 125-128 InsO; § 613a BGB; § 179a AktG; §§ 21 ff. StaRUG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- InsO: https://www.gesetze-im-internet.de/inso/
+- § 80 InsO (Verwaltungs- und Verfuegungsrecht des Insolvenzverwalters): https://www.gesetze-im-internet.de/inso/__80.html
+- §§ 129-147 InsO (Insolvenzanfechtung; verschaerfte Vorsatzanfechtung § 133 InsO i.d.F. SanInsFoG seit 01.01.2021 — 4-Jahres-Frist statt 10 Jahre): https://www.gesetze-im-internet.de/inso/__129.html
+- §§ 159-173 InsO (Verwertung der Masse): https://www.gesetze-im-internet.de/inso/__159.html
+- § 613a BGB (Betriebsuebergang): https://www.gesetze-im-internet.de/bgb/__613a.html
+- § 179a AktG: https://www.gesetze-im-internet.de/aktg/__179a.html
+- StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz; in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
+- § 15a InsO (Insolvenzantragspflicht: 3 Wochen ZU / 6 Wochen UE): https://www.gesetze-im-internet.de/inso/__15a.html
+- § 15b InsO (Zahlungsverbot bei Insolvenzreife seit 01.01.2021; rechtsformneutral): https://www.gesetze-im-internet.de/inso/__15b.html
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

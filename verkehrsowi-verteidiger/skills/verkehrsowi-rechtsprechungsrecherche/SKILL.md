@@ -9,39 +9,43 @@ description: "Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OL
 
 1. **Konkrete Rechtsfrage?** — "Darf der Betroffene Rohmessdaten anfordern?" vs. "War die Eichung gueltig?" — Suchstrategien verschieden.
 2. **Gericht?** — OLG des jeweiligen Bundeslandes fuer Rechtsbeschwerde-Entscheidungen; BGH fuer grundsaetzliche Fragen; BVerfG fuer Grundrechtsfragen.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. **Verifikation Pflicht:** Aktenzeichen, Datum und Leitsatz vor Verwendung in offener Quelle (bundesverfassungsgericht.de, bundesgerichtshof.de, openjur.de, dejure.org) aufrufen — nicht aus Modellwissen.
 4. **Messgeraet-spezifische Rspr.?** — Fuer PoliScan, ESO, TraffiStar gibt es geraetespezifische OLG-Entscheidungen.
-1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zentrale Rechtsprechungs-Kette OWi
+## Zentrale Rechtsprechungs-Kette OWi (Stand Mai 2026)
+
+Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org, nrwe.de) verifizieren. Fundstellen wie NZV nicht aus Modellwissen.
 
 ### Standardisiertes Messverfahren
-- BGH BGHSt 43, 277 (1997) — Grundsatz: standardisiertes Verfahren ohne Detailbegruendung
-- OLG Bamberg NZV 2017, 494 — Sachverstaendigenantrag bei konkreten Angriffspunkten
+- BGH BGHSt 39, 291 (1993) — Grundsatz standardisiertes Verfahren ohne Detailbegruendung. Volltext über bundesgerichtshof.de prüfen.
+- OLG Bamberg, Beschl. v. ... (NZV 2017, 494 — Aktenzeichen vor Versand in offener Quelle aufrufen): Sachverstaendigenantrag bei konkreten Angriffspunkten.
 
 ### Rohmessdaten
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OLG Koeln NZV 2021, 42 — Vollstaendige Messakte einschliesslich Rohmessdaten
+- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Recht des Betroffenen auf Zugang zu vorhandenen Messdaten. Quelle: bundesverfassungsgericht.de
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Pflicht zur Speicherung von Rohmessdaten (Leivtec XV3). Quelle: bundesverfassungsgericht.de
+- OLG Köln, Beschl. v. ... (NZV 2021, 42 — Aktenzeichen vor Versand verifizieren): Vollständige Messakte einschließlich Rohmessdaten.
 
-### Verjaehrung
-- OLG Hamm NZV 2020, 418 — 3-Monats-Frist § 26 Abs. 3 StVG
-- OLG Duesseldorf NZV 2020, 526 — Absolute Verjaehrung 6 Monate bei Verkehrs-OWi
+### Verjährung
+- OLG Hamm, NZV 2020, 418 — 3-Monats-Frist § 26 Abs. 3 StVG (Aktenzeichen vor Versand in offener Quelle prüfen)
+- OLG Düsseldorf, NZV 2020, 526 — Verjährung bei Verkehrs-OWi (Aktenzeichen vor Versand prüfen)
 
 ### Zustellung / Fristbeginn
-- OLG Celle NZV 2020, 523 — Fehlerhafte Zustellung = spaeterer Fristbeginn
-- OLG Hamm NZV 2021, 531 — Einwurf-Einschreiben gilt im OWi-Verfahren
+- OLG Celle, NZV 2020, 523 — Fehlerhafte Zustellung = späterer Fristbeginn
+- OLG Hamm, NZV 2021, 531 — Einwurf-Einschreiben gilt im OWi-Verfahren
 
-### Alkohol / Drogen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OLG Bamberg NZV 2021, 282 — THC-Grenzwert 1 ng/ml reicht fuer § 24a StVG
+### Alkohol / Drogen (Stand Mai 2026)
+- BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Cannabis und KCanG (1.4.2024); § 14 FeV neu zu lesen. Quelle: bverwg.de
+- § 24a Abs. 1a StVG (THC 3.5 ng/ml seit 22.8.2024) — BGBl. I 2024 Nr. 274
+- Hess. VGH, Beschl. v. 19.9.2025, 10 B 606/25 — Cannabis-Verstoss in Probezeit
+- Bisherige OLG-Linien zu THC 1 ng/ml (z.B. OLG Bamberg) sind durch Grenzwertanpassung überholt — Volltext und Datum vor Versand prüfen.
 
 ### Fahrverbot Haertefall
-- OLG Frankfurt NZV 2021, 448 — Berufsbedingte Angewiesenheit allein kein Haertefall
-- OLG Muenchen NZV 2021, 54 — Vier-Monats-Frist § 25 Abs. 2a StVG in Entscheidung erwaehnen
+- OLG Frankfurt, Beschl. v. 18.3.2021, 2 Ss OWi 148/21 (NZV 2021, 448) — Berufsbedingte Angewiesenheit allein kein Haertefall. Quelle: openjur.de bzw. Justiz Hessen.
+- OLG München, NZV 2021, 54 — Vier-Monats-Frist § 25 Abs. 2a StVG (Aktenzeichen verifizieren)
 
 ### Fahreridentifikation
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OLG Bamberg NZV 2021, 92 — Sachverstaendigenantrag Lichtbild bei schlechter Qualitaet
+- BVerfG-Linie zu § 31a StVG (Fahrtenbuchauflage / Halterauskunft) konkret aus bundesverfassungsgericht.de aufrufen
+- OLG Bamberg, NZV 2021, 92 — Sachverständigenantrag Lichtbild bei schlechter Qualität (Aktenzeichen verifizieren)
 
 ## Suchstrategien Datenbanken
 
@@ -78,7 +82,7 @@ description: "Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OL
 1. **Rechtsfrage praezisieren:** "Kann Betroffener Rohmessdaten verlangen?"
 2. **Normenkette aufbauen:** Art. 103 GG, § 77 OWiG, § 49 OWiG, § 147 StPO.
 3. **Datenbanksuche mit Normen:** "Art. 103 GG Rohmessdaten OWi".
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. **Verifikation in offener Quelle:** BVerfG-Datenbank (bundesverfassungsgericht.de), BGH-Datenbank, openjur.de, dejure.org; bei Bundesländern: nrwe.de, justiz.hessen.de, justiz.bayern.de etc. — niemals Modellwissen.
 5. **Kernaussage paraphrasieren** fuer Schriftsatz.
 6. **Vollstaendiges Zitat:** Gericht + Datum + Az + Fundstelle + Randnummer wenn vorhanden.
 

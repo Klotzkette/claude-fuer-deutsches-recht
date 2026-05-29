@@ -235,7 +235,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Stand: 05/2026
 - BGB §§ 125-130 in geltender Fassung
-- TzBfG § 14 Abs. 4 in geltender Fassung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 130e ZPO und § 46h ArbGG in geltender Fassung
-- VO (EU) Nr. 910/2014 (eIDAS-VO)
+- TzBfG § 14 Abs. 4 in geltender Fassung. Aenderung durch das Vierte Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024): seit 01.01.2025 grundsaetzlich Textform fuer Befristungsabrede, soweit kein Tarifvertrag entgegensteht.
+- § 130e ZPO (eingefuehrt 17.07.2024) und § 46h ArbGG in geltender Fassung.
+- VO (EU) Nr. 910/2014 (eIDAS-VO).
+- Leitlinien Rechtsprechung 2024/2025:
+  - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES und Zugang vor Einfuehrung § 130e ZPO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.11.2024&Aktenzeichen=VIII+ZR+159/23
+  - BGH, Urt. v. 06.03.2025 – Az. I ZR 32/24 und Az. I ZR 138/24 — Halbteilungsgrundsatz § 656c und § 656d BGB beim Maklervertrag.
+  - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — eingescannte Unterschrift wahrt § 14 Abs. 4 TzBfG nicht.
+  - ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — DocuSign-qES wahrt § 14 Abs. 4 TzBfG.

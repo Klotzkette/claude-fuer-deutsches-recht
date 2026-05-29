@@ -49,11 +49,14 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 - **GwG** — Geldwäschegesetz: AML/KYC-Pflichten für MiCA-Emittenten (§ 2 Abs. 1 Nr. 10 GwG)
 - **BaFin-Merkblatt** (2024): Anforderungen für Antrag nach Art. 16 MiCA
 
-### ESMA- und EBA-Leitlinien (Stand 2025)
+### ESMA- und EBA-Leitlinien (Stand Mai 2026)
 
 - **ESMA/EBA Joint Guidelines** zu signifikanten ART und EMT
 - **EBA Final Guidelines** zu Eigenmittel-Anforderungen Art. 35
 - **ESMA Q&A** zu MiCA (laufend aktualisiert; wichtigste Auslegungsquelle)
+- **BaFin-Merkblatt vom 3.1.2025** zu Zulassungsanforderungen ART und EMT nach MiCAR (Quelle: bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_030125_zulassung_art_emt.html)
+- **Interaktives Informationsblatt zu Kryptowerten** der ESA / BaFin vom 6.10.2025 (Quelle: bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2025/neu/meldung_2025_10_06_kryptowerte_informationsblatt.html)
+- **Bundesbank/BaFin MiCAR-Workshop 2025** (BaFinTech-Praesentation 7.7.2025; bundesbank.de)
 
 ## Prüfschema Lizenzierung
 
@@ -235,11 +238,13 @@ Begründung:
 - `fachanwalt-hgr-dlt-pilotregime-token` — bei Handelssystem für Token
 - `geldwaeschepraevention-aml-kyc` — AML/KYC für Token-Emittent
 
-## Quellen
+## Quellen (Stand Mai 2026)
 
 - MiCA-VO (EU) 2023/1114 (ART/EMT ab 30.6.2024; CASP ab 30.12.2024)
 - KWG, ZAG, WpIG, GwG
 - EBA Final Guidelines zu Art. 35 MiCA (2024)
 - ESMA/EBA Joint Guidelines zu signifikanten ART (2024)
 - ESMA Q&A zu MiCA (laufend)
-- BaFin-Merkblatt MiCA Art. 16 Antrag (2024)
+- BaFin-Merkblatt vom 3.1.2025 zu ART und EMT nach MiCAR — bafin.de
+- BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
+- BaFin Aufsicht ZK 1 fuer ART/EMT — bafin.de/EN/Aufsicht/MiCAR

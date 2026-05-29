@@ -16,8 +16,10 @@ Wenn der Nutzer wissen will, **wer** überhaupt Betreuer werden darf, **wie** si
 4. Ehrenamtlich oder beruflich? § 30 BtOG (Zuwendungsverbot) gilt nur für Berufsbetreuer.
 5. Subsidiarität: Besteht Vorrang einer ehrenamtlichen Lösung (§ 1816 Abs. 5 BGB)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Aktuelle Rechtsprechung (Stand 05/2026, Live-Verifikation vor Verwendung)
+
+- BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des § 1816 BGB. Der Wunsch der/des Betroffenen, durch eine nahe Angehörige (hier: Mutter) betreut zu werden, hat Vorrang vor der Bestellung eines Berufsbetreuers. Wenn Zweifel an der Eignung der gewünschten Person bestehen, muss das Gericht von Amts wegen ermitteln (§ 26 FamFG) und die Wunschperson persönlich anhören. Quelle: bundesgerichtshof.de / dejure.org.
+- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) verifizieren.
 
 ## Quellenregel
 

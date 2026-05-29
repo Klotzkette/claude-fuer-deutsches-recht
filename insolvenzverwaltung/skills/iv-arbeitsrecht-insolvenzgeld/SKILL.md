@@ -58,9 +58,10 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - InsO und SGB III als Schnittstelle
 - § 113 InsO als zu prüfende Norm
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und BGH-/BSG-Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Bei Anfechtung vorinsolvenzlicher Lohnzahlungen: Unlauterkeit beim Bargeschäft (§ 142 InsO) konkret nachweisen; keine starre 30-Tage-Grenze, sondern enger zeitlicher Zusammenhang. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- BSG- und LSG-Linien zu § 165 SGB III (Insolvenzgeld), insbesondere zur Vorfinanzierung (§ 170 SGB III) und zur Cessio Legis (§ 169 SGB III), vor Ausgabe über sozialgerichtsbarkeit.de oder dejure.org verifizieren.
 
 ## Paragrafenkette Insolvenzverwaltung
 

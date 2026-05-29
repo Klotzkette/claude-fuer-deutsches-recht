@@ -80,47 +80,52 @@ können auch nach Eintritt der Insolvenzreife privilegiert sein, wenn die
 Nichtleistung zur persönlichen Haftung des Geschäftsführers (§ 69 AO) führen
 würde.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-> Der BGH hat klargestellt, dass Steuerzahlungen nach Eintritt der
-> Insolvenzreife unter § 15b Abs. 8 InsO fallen können, soweit der
-> Geschäftsleiter andernfalls nach § 69 AO persönlich haftet; die Privilegierung
-> gilt jedoch nicht unbegrenzt und schützt nicht vor Erstattungsansprüchen des
-> Insolvenzverwalters, wenn die Zahlungen die Insolvenzmasse schmälern und keine
-> gleichwertige Gegenleistung erlangt wurde.
+> Hinweis: Die Privilegierung des § 15b Abs. 8 InsO (Steuerzahlungen,
+> Sozialversicherungsbeiträge) ist eng auszulegen und schützt nicht vor
+> Erstattungsansprüchen des Insolvenzverwalters, wenn die Zahlungen die Masse
+> schmälern und keine gleichwertige Gegenleistung erlangt wurde.
+> Verifizierung der konkreten BGH-Linie erforderlich (dejure.org, openjur.de): keine Entscheidung aus Modellwissen zitieren; Gericht, Datum, Aktenzeichen, Randnummer vor Ausgabe prüfen.
 
-### Kanonische Rechtsprechung
+### Kanonische und aktuelle Rechtsprechung (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Grundlegende Entscheidung zur Antragspflichthaftung: Der II. Zivilsenat
-befand, dass § 64 Abs. 1 GmbHG a.F. (heute § 15a InsO) ein Schutzgesetz
-i.S.d. § 823 Abs. 2 BGB ist. Neugläubiger können ihren vollen
-Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf den Quotenschaden
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des
+ausgeschiedenen Geschäftsführers. Der II. Zivilsenat hat entschieden, dass ein
+nach § 823 Abs. 2 BGB iVm § 15a InsO haftender ausgeschiedener
+Geschäftsführer grundsätzlich auch für Neugläubigerschäden einzustehen hat,
+die erst nach seinem Ausscheiden entstehen, sofern die durch seine
+Antragspflichtverletzung geschaffene Gefährdungslage zum
+Schadensentstehungszeitpunkt fortbesteht. Bruch der Kausalkette nur bei
+nachhaltiger Sanierung. Praxisfolge: Haftung endet nicht mit der Amtsniederlegung.
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Der II. Zivilsenat konkretisiert die Feststellung der Zahlungsunfähigkeit
-anhand einer Liquiditätsbilanz. Fällige Verbindlichkeiten sind einzubeziehen;
-der Dreiwochenzeitraum dient nur der Abgrenzung einer vorübergehenden
-Zahlungsstockung. Für den Workflow heißt das: nicht auf eine Schonfrist
-vertrauen, sondern Eintritt und Erkennbarkeit des Insolvenzgrundes sofort
-dokumentieren.
+**BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung.
+Der 5. Strafsenat hat den Kriterienkatalog der faktischen Geschäftsführung iSd
+§ 283 StGB / § 15a InsO neu kalibriert. Auch Hintermänner im
+Firmenbestatter-Modell können als Täter haften, wenn sie die tatsächliche
+Geschäftsführung ausüben; das bloße Nicht-Auftreten nach außen schließt
+Strafbarkeit nicht aus.
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Zur Insolvenzverschleppungshaftung und zum Neugläubigerschaden; für den
-subjektiven Tatbestand genügt die Erkennbarkeit der Insolvenzreife, die im
-Ausgangspunkt vermutet wird.
+**BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung / Wissentlichkeitsausschluss.
+Der IV. Zivilsenat hat klargestellt, dass der D&O-Versicherer für jeden
+einzelnen verbotswidrigen Zahlungsvorgang gesondert darlegen und beweisen
+muss, dass der Geschäftsleiter positive Kenntnis von der konkreten
+Pflichtverletzung hatte. Die Verletzung der Insolvenzantragspflicht
+(§ 15a InsO) indiziert nicht automatisch eine wissentliche Verletzung der
+Masseerhaltungspflicht (§ 15b InsO); ein "Aufkoppeln" verschiedener
+Pflichtverletzungen ist unzulässig.
+Quelle: Bundesgerichtshof Pressemitteilung 2025; <https://www.noerr.com/de/insights/bgh-zum-do-versicherungsschutz-verletzung-der-insolvenzantragspflicht-durch-geschaftsleiter-indiziert-keine-wissentliche-verletzung-der-masseerhaltungspflicht>
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Zum Verschulden bei Antragspflichtverletzung: Der Geschäftsführer muss die
-wirtschaftliche Lage der Gesellschaft laufend im Blick behalten. Unterlässt er
-die gebotene Prüfung, handelt er fahrlässig. Der Berater (Steuerberater) hat
-Hinweispflichten, kann den Geschäftsführer aber nicht von seiner eigenen
-Verantwortung entbinden (Rn. 17).
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Altgläubiger können lediglich den **Quotenschaden** (die Verringerung ihrer
-Insolvenzquote durch die Insolvenzverschleppung) ersetzt verlangen;
-Neugläubiger dagegen den vollständigen Vertrauensschaden.
+> **Grundsätze (aus älterer BGH-Rspr., vor Ausgabe live verifizieren):**
+> - § 15a InsO ist Schutzgesetz iSd § 823 Abs. 2 BGB. Neugläubiger können
+>   ihren vollen Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf
+>   den Quotenschaden beschränkt.
+> - Feststellung der Zahlungsunfähigkeit über Liquiditätsbilanz; die
+>   Dreiwochenfrist dient nur der Abgrenzung zur vorübergehenden
+>   Zahlungsstockung — keine "Schonfrist".
+> - Der Geschäftsführer muss die wirtschaftliche Lage laufend im Blick
+>   behalten; fahrlässige Unkenntnis schützt nicht.
+> Verifizierung erforderlich: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Gericht, Entscheidungsform, Datum, Aktenzeichen und tragende Aussage über offizielle oder frei zugängliche Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
 
 ### Quellenregel
 
@@ -148,10 +153,11 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
 2. **Beginn der Antragsfrist**
    Die Frist beginnt mit dem objektiven Eintritt des Eröffnungsgrundes,
-   frühestens jedoch mit dem Zeitpunkt, in dem der Geschäftsleiter diesen kannte
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Sechswochen­frist bei Überschuldung (seit 01.01.2021).
+   frühestens jedoch mit dem Zeitpunkt, in dem der Geschäftsleiter diesen
+   kannte oder bei pflichtgemäßer Sorgfalt kennen musste (fahrlässige
+   Unkenntnis schützt nicht). Dreiwochenfrist bei Zahlungsunfähigkeit,
+   Sechswochenfrist bei Überschuldung (seit 01.01.2021, SanInsFoG).
+   Konkrete BGH-Entscheidungen zur Erkennbarkeit der Insolvenzreife vor Ausgabe verifizieren (dejure.org, openjur.de).
 
 3. **Sanierungsversuche dokumentieren**
    Sanierungsbemühungen können den Fristablauf nicht hemmen, senken aber das
@@ -197,14 +203,17 @@ Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
   Fristbeginn und -ende (konkrete Daten).
 - **Haftungsprüfung:** Pflicht­verletzung (ja/nein, Begründung), Verschulden
   (Vorsatz/Fahrlässigkeit), Schaden (Neugläubiger: Vertrauensschaden;
-  Altgläubiger: Quotenschaden).
+  Altgläubiger: Quotenschaden). Bei ausgeschiedenem GF: BGH II ZR 206/22
+  prüfen (fortwirkende Gefährdungslage).
 - **Zahlungsverbot-Prüfung (§ 15b InsO):** Verbotene Zahlungen mit Datum und
   Betrag; Ausnahmen (§ 15b Abs. 1 S. 2, Abs. 8).
-- **Strafrechtliches Risiko:** § 15a Abs. 4 oder Abs. 5 InsO.
+- **Strafrechtliches Risiko:** § 15a Abs. 4 oder Abs. 5 InsO; bei faktischer
+  Geschäftsführung BGH 5 StR 287/24 vom 27.02.2025 beachten.
 - **Handlungsempfehlungen:** Nachholung des Antrags, Dokumentation,
-  D&O-Deckungsprüfung.
-- **Belege:** Mindestens zwei BGH-Entscheidungen mit Randnummer, relevante
-  Kommentar­stellen, IDW S 11.
+  D&O-Deckungsprüfung (BGH IV ZR 66/25 vom 19.11.2025: positive Kenntnis pro
+  Pflichtverletzung erforderlich).
+- **Belege:** Mindestens zwei einschlägige BGH-Entscheidungen mit Randnummer
+  aus offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de), IDW S 11.
 
 ## Beispiel
 
@@ -223,8 +232,10 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
    Neugläubiger, die zwischen dem 13.05.2026 und dem 02.06.2026 Vertragsbeziehungen
    mit der GmbH eingegangen sind, können ihren Vertrauensschaden (vollständiger
    Forderungsausfall abzüglich etwaiger Insolvenzquote) von Müller persönlich
-   ersetzt verlangen. Altgläubiger können den Quotenschaden geltend machen
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   ersetzt verlangen. Altgläubiger können den Quotenschaden geltend machen.
+   Sollte Müller vor dem 02.06.2026 ausscheiden, bleibt nach **BGH II ZR 206/22
+   vom 23.07.2024** die Haftung für danach hinzutretende Neugläubigerschäden
+   bestehen, solange die ursprünglich geschaffene Gefährdungslage fortbesteht.
 
 2. *Zahlungsverbot (§ 15b InsO):*
    Zahlungen, die Müller nach dem 22.04.2026 veranlasst hat und die nicht unter
@@ -242,8 +253,8 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
 Der Fristbeginn ist objektiv. Es genügt, dass der Geschäftsleiter bei
 pflichtgemäßer Sorgfalt — d.h. bei Führung einer ordnungsgemäßen Buchhaltung
 und zeitnäher Aufstellung von Liquiditätsplänen — den Eröffnungsgrund hätte
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-mangelhafter interner Kontrolle schützt nicht.
+erkennen müssen. Berufung auf Unkenntnis infolge mangelhafter interner
+Kontrolle schützt nicht. Konkrete BGH-Linie über offene Quellen verifizieren.
 
 **2. Sanierungsverhandlungen hemmen den Fristlauf nicht automatisch**
 Der bloße Umstand, dass Gespräche mit Gläubigern oder Banken laufen,
@@ -253,22 +264,34 @@ Verschulden mindern. Fehlt das Konzept, bleibt die Frist unberührt.
 
 **3. Faktischer Geschäftsführer ist antragspflichtig**
 § 15a InsO erfasst auch faktische Geschäftsführer, d.h. Personen, die ohne
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+formale Bestellung die typischen Aufgaben der Geschäftsleitung tatsächlich
+ausüben — z.B. Strohmann-Konstellationen, Firmenbestatter-Modelle, oder
 Gesellschafter, die die Geschäfte an sich gezogen haben.
+**BGH 5 StR 287/24 vom 27.02.2025** hat die Kriterien neu kalibriert: Auch
+Hintermänner ohne Außenauftritt können als faktische Geschäftsführer haften;
+maßgeblich ist die tatsächliche Ausübung leitender Tätigkeit.
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 
 **4. D&O-Versicherung — Deckungslücken**
 Typische Ausschlüsse in D&O-Policen: wissentliche Pflichtverletzung,
-vorsätzliche Tatbegehung, unrichtige Zusicherungen. Im Insolvenzverschleppungs-
-fall ist die Deckung regelmäßig streitig, da Vorsatz i.S.d. § 15a Abs. 4 InsO
-und wissentliche Pflichtverletzung i.S.d. Versicherungsbedingungen häufig
-deckungsgleich sind. Frühzeitige Anzeige an den D&O-Versicherer und Einholung
-einer Deckungsbestätigung sind unverzichtbar.
+vorsätzliche Tatbegehung, unrichtige Zusicherungen.
+**BGH IV ZR 66/25 vom 19.11.2025** hat die Position des versicherten
+Geschäftsleiters gestärkt: Der D&O-Versicherer muss für jede einzelne
+verbotswidrige Zahlung gesondert positive Kenntnis des Geschäftsleiters von
+der konkreten Pflichtverletzung darlegen und beweisen. Die Verletzung der
+Antragspflicht (§ 15a InsO) indiziert nicht automatisch eine wissentliche
+Verletzung der Masseerhaltungspflicht (§ 15b InsO); ein "Aufkoppeln"
+verschiedener Pflichtverletzungen ist unzulässig.
+Frühzeitige Anzeige an den D&O-Versicherer und Einholung einer
+Deckungsbestätigung sind weiterhin unverzichtbar.
+Quelle: <https://www.noerr.com/de/insights/bgh-zum-do-versicherungsschutz-verletzung-der-insolvenzantragspflicht-durch-geschaftsleiter-indiziert-keine-wissentliche-verletzung-der-masseerhaltungspflicht> (Aktenzeichen über offene Quelle verifizieren)
 
 **5. Versäumnis bei mehrköpfiger Geschäftsführung**
 In einer GmbH mit mehreren Geschäftsführern ist jeder einzeln antragspflichtig;
 die Pflicht ist nicht delegierbar. Der ressortfremde Geschäftsführer kann sich
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+nicht auf den Ressortzuschnitt berufen, sondern muss sich ein eigenes Bild von
+der Vermögens- und Liquiditätslage verschaffen. Konkrete BGH-Entscheidung über
+offene Quelle (dejure.org) verifizieren.
 
 **6. § 15b InsO — Irrtum über zulässige Zahlungen**
 Verbreiteter Fehler: Geschäftsleiter nehmen an, Gehaltszahlungen an sich selbst
@@ -278,22 +301,17 @@ nicht unter die Ausnahmen fallen.
 
 ## Quellenpflicht
 
-Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
+Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben (offene Quelle, vor Ausgabe live prüfen):
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Antragspflicht-Haftung, Schutzgesetz, Vertrauensschaden Neugläubiger)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Zahlungsunfähigkeit, Liquiditätsbilanz, Passiva II)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Insolvenzverschleppungshaftung, Erkennbarkeit der Insolvenzreife)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Verschulden, Aufklärungspflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (§ 15b InsO, Steuerzahlungen)
+- BGH II ZR 206/22 vom 23.07.2024 (Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden)
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- BGH 5 StR 287/24 vom 27.02.2025 (Faktischer Geschäftsführer / Firmenbestattung)
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- BGH IV ZR 66/25 vom 19.11.2025 (D&O-Versicherung; wissentliche Pflichtverletzung erfordert positive Kenntnis pro Pflichtverletzung)
+  Bundesgerichtshof Pressemitteilung 2025 (Verifikation über bundesgerichtshof.de / dejure.org)
+- Altere BGH-Linie zur Antragspflichthaftung (Schutzgesetz, Vertrauensschaden Neugläubiger, Quotenschaden Altgläubiger) und zur Feststellung der Zahlungsunfähigkeit (Liquiditätsbilanz, Aktiva II / Passiva II): vor Ausgabe Gericht, Datum, Aktenzeichen, Randnummer in offener Quelle prüfen.
+- IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen), Tz. 7 ff.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- IDW S 11, Tz. 7 ff. (Beurteilung Insolvenzeröffnungsgründe)
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
@@ -304,7 +322,7 @@ Bevor losgelegt wird, klaere:
 
 1. **Rechtsform?** § 15a InsO gilt fuer GmbH, AG, UG, GmbH & Co. KG; natuerliche Personen: keine Antragspflicht, nur Antragsrecht.
 2. **Eröffnungsgrund?** ZU § 17 InsO: Frist 3 Wochen. Ueberschuldung § 19 InsO: Frist 6 Wochen. Frist-Uhr laeuft ab erstem Kenntnistag.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. **Faktischer Geschäftsführer?** Auch ohne formale Bestellung haftet, wer die Geschäftsführung tatsächlich ausübt — neu kalibriert durch BGH 5 StR 287/24 vom 27.02.2025 (Firmenbestattung). Hintermänner ohne Außenauftritt nicht ausgeschlossen.
 4. **Sanierungsversuch?** Antragspflicht wird durch echten Sanierungsversuch NICHT beseitigt; Frist laeuft weiter; Eigenantrag sichert Sanierungszeit.
 5. **Zahlungen nach Insolvenzreife?** § 15b InsO: Zahlungen nach Insolvenzreife von GF persoenlich erstattten; Ausnahme nur Betriebskostenentgeltsatz ohne Massebeeintraechtigung.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -351,8 +369,9 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-<!-- AUDIT 27.05.2026 — Bundle 033 —
-  § 133 InsO (Gläubigerbenachteiligung durch Zahlung Konzernabschlussprüfung), nicht Antragspflichthaftung.
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Antragspflichthaftung als Schutzgesetz, Vertrauensschaden Neugläubiger).
+<!-- AUDIT Mai 2026 — Update Bundle 034 —
+  Update aufgenommen: BGH II ZR 206/22 (23.07.2024) fortwirkende Haftung ausgeschiedener GF,
+  BGH 5 StR 287/24 (27.02.2025) faktischer GF,
+  BGH IV ZR 66/25 (19.11.2025) D&O-Wissentlichkeit.
+  Rechtsprechung weiterhin live prüfen: dejure.org, openjur.de, bundesgerichtshof.de.
 -->

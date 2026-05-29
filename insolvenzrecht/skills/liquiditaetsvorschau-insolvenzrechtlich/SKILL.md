@@ -7,7 +7,9 @@ description: "Erstellt und bewertet die rollierende Liquiditätsvorschau als str
 
 ## Powerplugin-Hinweis
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Vor Ausgabe BGH-Aktenzeichen zu Liquiditätsbilanz, Stundungen und Zahlungseinstellung über dejure.org / openjur.de / bundesgerichtshof.de mit Datum, Aktenzeichen und Randnummer verifizieren. Aktuelle Linie:
+- **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat.
+- Grundlegende Linie zum 10-%-/3-Wochen-Schema vor Ausgabe verifizieren.
 
 ## Zweck
 
@@ -47,29 +49,24 @@ Zahlungspflichten zu erfüllen (§ 17 Abs. 2 S. 1 InsO). Bloße Zahlungsstockung
 vorübergehende Illiquidität — ist kein Insolvenzgrund; entscheidend ist die **Unfähigkeit**,
 nicht nur der vorübergehende Mangel.
 
-Der BGH hat das operative Prüfschema entwickelt:
+Der BGH hat das operative Prüfschema entwickelt (10-%-/3-Wochen-Schema):
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Eine Liquiditätslücke von **weniger als 10 %** der fälligen Verbindlichkeiten begründet noch
 keine Zahlungsunfähigkeit, sofern mit überwiegender Wahrscheinlichkeit innerhalb von **drei
 Wochen** Deckung zu erwarten ist. Übersteigt die Lücke 10 %, ist Zahlungsunfähigkeit zu
 vermuten, es sei denn, der Schuldner weist nach, dass die Lücke in drei Wochen vollständig
-beseitigt werden kann. Diese Vermutung ist widerlegbar.
+beseitigt werden kann. Diese Vermutung ist widerlegbar. Konkrete grundlegende BGH-Entscheidung (Az., Datum, Randnummer) vor Ausgabe über offene Quellen verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Indizien für Zahlungsunfähigkeit sind u. a.: Nichtabführung von Sozialversicherungsbeiträgen,
 Nichtzahlung von Löhnen und Gehältern, Einstellung der Zahlungen gegenüber wesentlichen
 Gläubigern, Nichtbedienung von Bankkrediten, Überziehung des Kontokorrentrahmens ohne
 Verlängerungsperspektive. Der Indizienkatalog ersetzt keine Liquiditätsbilanz, dient aber
 deren Plausibilisierung im Gutachtenstil.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Forderungen, die der Gläubiger nachweislich gestundet hat oder für die eine ernsthafte
+Stundungen: Forderungen, die der Gläubiger nachweislich gestundet hat oder für die eine ernsthafte
 Stundungsvereinbarung — keine bloße Duldung — vorliegt, sind aus der Passivseite der
 3-Wochen-Liquiditätsbilanz herauszunehmen. Bloßes Stillhalten oder Nichtgeltendmachen genügt
-nicht; erforderlich ist eine klare, zumindest konkludente Stundungsabrede. In der Praxis ist
-diese Abgrenzung besonders fehlerträchtig und zwingt zur sorgfältigen Einzelbewertung jeder
-gestundeten Position.
+nicht; erforderlich ist eine klare, zumindest konkludente Stundungsabrede. Konkrete BGH-Linie über offene Quellen verifizieren.
 
 ### § 19 Abs. 2 InsO — Fortbestehensprognose (Überschuldung)
 
@@ -121,7 +118,7 @@ Ratenzahlungsvereinbarungen und Fälligkeitsverschiebungen schriftlich (E-Mails,
 **Schritt 2 — Plausibilisierung der Eingangsdaten**
 Abgleich OPOS-Kreditoren gegen Buchführungsdaten und Kontoauszüge: Stimmen
 gebuchte Verbindlichkeiten mit Kontoabflüssen überein? Sind Verbindlichkeiten gebucht,
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+für die keine Kontoabflüsse erkennbar sind? Identifikation außerbilanzieller Verbindlichkeiten (Bürgschaften, ggf. Gewährleistungsrückstellungen). Plausibilisierung der
 Forderungsbestände gegen Kontozuflüsse (Forderungsausfallquote schätzen).
 
 **Schritt 3 — Wochenweise Aggregation (13-Wochen-Modell)**
@@ -290,12 +287,12 @@ sind.
 Folgende Belege sind in jeder Liquiditätsvorschau mit insolvenzrechtlichem Zweck
 zwingend zu zitieren und zu berücksichtigen:
 
-**BGH-Rechtsprechung (Mindest-Pinpoints):**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (10-%-/3-Wochen-Schema; Abgrenzung Zahlungsunfähigkeit/Zahlungsstockung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Indizienkatalog Zahlungsunfähigkeit)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**BGH-Rechtsprechung (Mindest-Pinpoints; Az., Datum, Randnummer vor Ausgabe über dejure.org/openjur.de verifizieren):**
+
+- Grundlegende BGH-Entscheidung zum 10-%-/3-Wochen-Schema (Abgrenzung Zahlungsunfähigkeit/Zahlungsstockung).
+- Grundlegende BGH-Entscheidung zum Indizienkatalog der Zahlungseinstellung iSd § 17 Abs. 2 S. 2 InsO.
+- **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter im Anfechtungsprozess konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit Bargeschäft (Relevanz für Stundungs- und Ratenvergleiche in der Krise). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

@@ -20,7 +20,7 @@ description: "Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheit
 - Beweislast Versicherungsfall trägt grundsätzlich der Versicherungsnehmer (§ 1 VVG); für Risikoausschluss trägt Versicherer Beweislast.
 - Obliegenheitsverletzung § 28 VVG: bei Vorsatz Leistungsfreiheit, bei grober Fahrlässigkeit Kürzung in der Schwere des Verschuldens entsprechend, bei einfacher Fahrlässigkeit keine Folgen.
 - Kausalitätserfordernis § 28 Abs. 3 VVG: Versicherer ist nur leistungsfrei wenn die Obliegenheitsverletzung kausal für Eintritt, Feststellung oder Umfang des Versicherungsfalls war — sonst keine Leistungsfreiheit (sog. Kausalitätsgegenbeweis).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- AVB-Auslegung: aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse (st. Rspr. BGH IV. ZS; konkrete Entscheidung mit Aktenzeichen vor Versand in offener Quelle verifizieren).
 - Vorsätzliche Herbeiführung § 81 Abs. 1 VVG Leistungsfreiheit; grob fahrlässig § 81 Abs. 2 VVG Kürzung.
 - AVB-Auslegung nach §§ 305c, 307 BGB: Klauseln gegen den Verwender bei Mehrdeutigkeit (§ 305c Abs. 2 BGB); Inhaltskontrolle § 307 BGB unangemessene Benachteiligung.
 - Verjährung Versicherungsleistung drei Jahre § 195 BGB ab Schluss des Jahres der Fälligkeit und Kenntnis (§ 199 BGB); Hemmung durch Verhandlungen § 203 BGB.
@@ -128,13 +128,14 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
+### Leitsatz-Zitate (Stand Mai 2026; offene Quellen)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Vor Versand jeweils Volltext und Randnummer aus offener Quelle ergänzen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. **AVB-Auslegung**: BGH IV. ZS, st. Rspr. — Auslegung aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse.
+2. **Klauselersetzung nach Intransparenz**: BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Nach Unwirksamkeit einer Bedingung (Tagessatz-Herabsetzung Krankentagegeld) darf der Versicherer keine im Kern identische neue Bedingung einseitig einführen. Pressemitteilung Nr. 47/25 vom 12.3.2025.
+3. **PKV-Beitragsanpassung Mitteilungspflicht**: BGH, IV ZR 70/25, 2025 — Mitteilungsschreiben muss konkrete Rechnungsgrundlage (Versicherungsleistungen oder Sterbewahrscheinlichkeiten) benennen, deren Veränderung die Anpassung auslöst (§ 203 Abs. 5 VVG); Live-Verifikation in juris.bundesgerichtshof.de Pflicht.
+4. **GDSGVO-Schadensersatz**: BGH, Urt. v. 28.1.2025, VI ZR 183/22 — Art. 82 Abs. 1 DSGVO hat nur Ausgleichs-, keine Straffunktion (unberechtigte SCHUFA-Meldung; 500 EUR immaterieller Schadensersatz). Quelle: juris.bundesgerichtshof.de
 
 ### Normen-Ergänzung
 

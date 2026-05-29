@@ -56,12 +56,14 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 **Vermutung § 133 Abs. 1 Satz 2 InsO** — Vorsatzkenntnis vermutet wenn Anfechtungs-Gegner Zahlungsunfähigkeit drohende Zahlungsunfähigkeit und Gläubigerbenachteiligung kannte.
 
-**BGH-Rechtsprechung dazu** restriktiver geworden mit § 133-Reform 2017:
+**BGH-Rechtsprechung dazu** restriktiver geworden mit § 133-Reform 2017 — bestätigt und konkretisiert:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Seit 2017 Vorsatz-Anfechtung verkürzt:
-  - **Vier Jahre** für Deckungs-Konstellationen wo Anfechtungs-Gegner zur Zeit der Handlung Gläubiger war und Erfüllung erhalten hat
-  - **Zehn Jahre** für sonstige Konstellationen
+- **BGH IX ZR 72/20 vom 06.05.2021** (Grundsatzentscheidung Neuausrichtung) — bloße objektive Zahlungsunfähigkeit lässt keinen automatischen Schluss auf Vorsatz zu.
+- **BGH IX ZR 129/22 vom 18.04.2024** — Bestätigung der Linie: bei verifizierter Zahlungsunfähigkeit ist konkret darzulegen, ob der Schuldner wusste oder billigend in Kauf nahm, dass andere Gläubiger zu späterer Zeit nicht vollständig befriedigt werden können.
+  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- Seit 2017 Vorsatz-Anfechtung gestaffelt:
+  - **Vier Jahre** für Deckungs-Konstellationen (§ 133 Abs. 2 InsO) — kongruent
+  - **Zehn Jahre** für sonstige Konstellationen (§ 133 Abs. 1 InsO)
 
 ### § 134 InsO — Unentgeltliche Leistung
 
@@ -81,14 +83,18 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 ### Ausschluss der Anfechtung
 
 - Bargeschäft = **gleichwertige Gegenleistung in unmittelbarem zeitlichem Zusammenhang**
-- Anfechtbarkeit ausgeschlossen außer bei Vorsatzanfechtung § 133 InsO und Vorsatz auch bei Gegner
+- Anfechtbarkeit ausgeschlossen — außer bei Vorsatzanfechtung § 133 InsO; dann nur, wenn der Schuldner **unlauter** handelte und der andere Teil dies erkannte (§ 142 Abs. 1 Hs. 2 InsO).
+
+### Unlauterkeit (BGH IX ZR 122/23 vom 05.12.2024)
+
+Erstmalige höchstrichterliche Konkretisierung: Unlauterkeit erfordert ein gezielt schädigendes Verhalten gegenüber den übrigen Gläubigern; die Transaktion muss bewusst zur Benachteiligung anderer oder zur gezielten Bevorzugung des Empfängers genutzt werden. Bloße dauerhafte Verlustsituation genügt nicht.
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 
 ### Anwendung
 
 - Tausch sofortig
 - Bezahlung gegen Lieferung
-- Lohnzahlung gegen Arbeit
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Lohnzahlung gegen Arbeit (kein starres 30-Tage-Limit; enger zeitlicher Zusammenhang erforderlich, BGH IX ZR 122/23)
 
 ## Schritt 4 — Rechtshandlung Definition
 
@@ -111,8 +117,8 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 ### Bei Steuerbehörden
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- §§ 130 131 anwendbar bei Steuer-Beitreibung
+- BGH-Linie: Vollstreckungs-Druck der Finanzbehörde indiziert regelmäßig Kenntnis der Zahlungsunfähigkeit
+- §§ 130, 131 anwendbar bei Steuer-Beitreibung; konkrete BGH-Entscheidung (Datum, Aktenzeichen) vor Ausgabe über dejure.org/openjur.de verifizieren
 
 ## Schritt 6 — Rechtsfolge
 
@@ -185,22 +191,22 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 ## Quellen
 
 - InsO §§ 129–147
-- BGH IX. Zivilsenat
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- HK-InsO
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft § 142 InsO
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung (§ 135 InsO)
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+- Ältere Leitentscheidungen (insb. BGH IX ZR 72/20 vom 06.05.2021, Liquiditätsstatus-Beweislast, § 138 InsO nahestehende Personen): vor Ausgabe konkretes Datum, Aktenzeichen, Randnummer in offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
+- Literatur und Handbücher nur bei vorhandenem Live-Zugriff.
 
 
 ## Triage — Anfechtungs-Erstcheck
 
 Bevor losgelegt wird, klaere:
 
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. **Verjährung § 146 InsO?** 3 Jahre ab Kenntnis des IV, max. 10 Jahre ab Rechtshandlung — Frist sofort prufen!
+1. **Tatbestandsbereich?** § 130/131 (3 Monate), § 132 (3 Monate), § 133 Abs. 1 (10 Jahre) / Abs. 2 (4 Jahre), § 134 (4 Jahre), § 135 (1 Jahr).
+2. **Verjährung § 146 InsO?** 3 Jahre ab Kenntnis des IV, max. 10 Jahre ab Rechtshandlung — Frist sofort prüfen!
 3. **Nahestehende Person § 138 InsO?** Gesellschafter >25%, GF, Ehegatte → Beweislastumkehr zugunsten IV.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-5. **Vorsatz § 133 InsO?** Nach SanInsFoG-Reform: konkrete Bedrohungslage, nicht bloss drohende ZU.
-
-## Weitere Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. **Bargeschäft § 142 InsO?** Bei kongruenten unmittelbaren Austauschen: Bargeschäft prüfen; Unlauterkeit nach BGH IX ZR 122/23 separat darlegen.
+5. **Vorsatz § 133 InsO?** Nach BGH IX ZR 129/22 (18.04.2024): konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung, nicht bloß drohende ZU.

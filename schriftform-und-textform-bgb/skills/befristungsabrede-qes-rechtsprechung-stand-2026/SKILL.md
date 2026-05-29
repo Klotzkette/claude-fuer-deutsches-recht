@@ -20,7 +20,7 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 
 ### Linie 1: Eingescannte Unterschrift — unwirksam (LAG Berlin-Brandenburg)
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — gescannte Unterschrift unter Befristungsabrede wahrt § 14 Abs. 4 TzBfG nicht. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=LAG+Berlin-Brandenburg&Datum=16.03.2022&Aktenzeichen=23+Sa+1133/21 sowie Pressemitteilung der ArbG-Vorinstanz: https://www.berlin.de/gerichte/arbeitsgericht/presse/pressemitteilungen/2022/pressemitteilung.1196191.php
 - Eine lediglich auf das Vertragsdokument gescannte Unterschrift wahrt die Schriftform nach § 14 Abs. 4 TzBfG **nicht**.
 - Es handelt sich weder um eine eigenhändige Unterschrift im Sinne von § 126 BGB noch um eine qualifizierte elektronische Signatur im Sinne von § 126a BGB.
 - Folge: Befristung ist unwirksam, der Arbeitsvertrag gilt nach § 16 TzBfG als unbefristet.
@@ -35,11 +35,15 @@ description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristung
 
 ### Linie 3: Qualifizierte elektronische Signatur — wirksam (ArbG Gera)
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — qES per DocuSign-qES wahrt die Schriftform des § 14 Abs. 4 TzBfG; § 623 BGB greift nur fuer Kuendigung und Aufhebungsvertrag und sperrt die elektronische Form dort, nicht aber bei der Befristungsabrede selbst. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=ArbG+Gera&Datum=03.07.2024&Aktenzeichen=2+Ca+936/23
 - Eine über DocuSign eingesetzte qualifizierte elektronische Signatur (qES) erfüllt die Voraussetzungen des § 126a BGB.
 - Damit ist die Schriftform nach § 14 Abs. 4 TzBfG durch die elektronische Form ersetzt.
 - Die Befristungsabrede ist formwirksam.
 - Voraussetzungen: zertifizierte qES nach eIDAS-VO; beide Vertragsparteien signieren ein jeweils gleichlautendes Dokument elektronisch (§ 126a Abs. 2 BGB).
+
+### Hinweis zum Vierten Buerokratieentlastungsgesetz (BEG IV)
+
+Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024) wurde § 14 Abs. 4 TzBfG mit Wirkung ab 01.01.2025 dahin ergaenzt, dass die Befristungsabrede grundsaetzlich in Textform abgeschlossen werden kann, sofern kein Tarifvertrag entgegensteht. Fuer das Schriftformerfordernis bei Befristungen vor 2025 sowie fuer Faelle, in denen das Tarifrecht weiterhin Schriftform verlangt, bleibt die qES-Rechtsprechung relevant. Quelle: https://www.gvw.com/aktuelles/blog/detail/buerokratieentlastungsgesetz-beschlossen-weg-frei-fuer-digitale-arbeitsvertraege
 
 ### Was bedeutet das praktisch?
 

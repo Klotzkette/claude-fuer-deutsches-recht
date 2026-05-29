@@ -193,9 +193,15 @@ Vor Versand:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
-## Aktuelle Leitentscheidungen fuer Schriftsaetze im Insolvenzrecht
+## Aktuelle Leitentscheidungen fuer Schriftsaetze im Insolvenzrecht (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit § 142 Abs. 1 Hs. 2 InsO (Bargeschäft). Pflichtzitat bei jeder Bargeschäfts-Verteidigung.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** und **BGH IX ZR 239/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung (§ 133 InsO) und Anfechtung gesellschafterähnlicher Stellung (§ 135 InsO).
+- **BGH IX ZR 114/23 vom 19.12.2024** — Anforderungen an Forderungsanmeldung (Individualisierung, Abtretung).
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Aktionärsforderungen nachrangig in der Insolvenz der AG.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers.
+- Konkrete Aktenzeichen und Randnummern vor Schriftsatzversand über dejure.org / openjur.de / bundesgerichtshof.de verifizieren.
 
 ## Paragrafenkette Schriftsatz-Grundgeruest Insolvenz
 

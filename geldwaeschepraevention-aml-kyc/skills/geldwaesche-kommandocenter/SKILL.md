@@ -12,7 +12,18 @@ description: "Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behoerde
 4. Sind echte oder simulierte Daten zu verarbeiten?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Stand 05/2026. Rechtsprechung im Mandat live verifizieren — Aktenzeichen nicht aus Modellwissen.
+
+**EU-AML-Paket — Geltung und Übergang:**
+- VO (EU) 2024/1624 (AMLR / EU-Geldwäscheverordnung) — **anwendbar ab 10.07.2027**; ersetzt weite Teile des nationalen GwG.
+- RL (EU) 2024/1640 (6. Geldwäsche-RL) — regelt nationale Aufsichtsstrukturen, Register, FIU, Sanktionen; Umsetzungsfrist läuft.
+- VO (EU) 2024/1620 (AMLA-VO) — Errichtung der AMLA (Anti-Money Laundering Authority) mit Sitz in Frankfurt am Main; operativ aktiv seit 01.07.2025; übernimmt 2026 zentrale AML/CFT-Mandate von der EBA; direkte Aufsicht über ausgewählte Verpflichtete ab 2028.
+
+**BaFin Auslegungs- und Anwendungshinweise zum GwG (AuA AT):**
+- BaFin-AuA aktualisiert: Veröffentlichung 29.11.2024; ergänzende Veröffentlichung 06.03.2025 mit Berücksichtigung des Finanzmarktdigitalisierungsgesetzes vom 27.12.2024 (insbesondere Kryptowertetransfers, selbst gehostete Adressen). Anwendung ab Februar 2025. Aktualität über [bafin.de](https://www.bafin.de/SharedDocs/Downloads/DE/Auslegungsentscheidung/dl-ae-auas-2025-gw.html) prüfen.
+
+**Übergangsphase Verpflichtete:** Während 2026/2027 gelten parallele Regime — bis 10.07.2027 nationales GwG mit BaFin-AuA; ab 10.07.2027 unmittelbar geltende AMLR. Compliance-Programme sollten Migration vorbereiten (Dokumentation, Schulungen, ICP-Anpassung).
 
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: Case-Management als Pflichtbestandteil

@@ -106,8 +106,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-<!-- AUDIT 27.05.2026
-Aktion: Eintrag gelöscht.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->
+Stand 05/2026. Rechtsprechung im Schriftsatz live verifizieren — Aktenzeichen nicht aus Modellwissen.
+
+- BVerfG, Beschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. (Klimaschutzbeschluss) — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html)
+- EGMR, Verein KlimaSeniorinnen Schweiz u. a. gegen Schweiz, Urt. v. 09.04.2024 — Beschwerde-Nr. 53600/20 — [hudoc.echr.coe.int](https://hudoc.echr.coe.int)
+- Bundes-Klimaschutzgesetz (KSG) — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ksg/)
+- BVerfG-Entscheidungsdatenbank — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SiteGlobals/Forms/Suche/EN/Entscheidungensuche_Formular.html)
+
+Hinweis: BVerfG hat im Klimabeschluss 2021 die Erstreckung der Schutzpflicht auf künftige Freiheitsgrundrechte etabliert (intertemporale Freiheitssicherung). EGMR KlimaSeniorinnen 04/2024 erweitert die Art. 8 EMRK-Schutzpflicht. Beide Linien sind in Klagebegründungen tragfähig, wenn Mandantenbetroffenheit substantiiert wird.

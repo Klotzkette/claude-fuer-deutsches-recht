@@ -63,30 +63,16 @@ unwirksam**. Die Genehmigung kann auch nachträglich erteilt werden. Wird
 sie versagt, ist das Geschäft endgültig unwirksam. Der Vertragspartner kann
 nach § 1856 BGB widerrufen.
 
-### Kanonische Rechtsprechung
+### Kanonische Rechtsprechung (Stand 05/2026, Live-Verifikation vor Verwendung)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Bei freiheitsentziehender Unterbringung (§ 1906 BGB a.F. / § 1831 BGB n.F.)
-sind enge Voraussetzungen zu prüfen: erhebliche Selbstgefährdung,
-medizinische Indikation, Verhältnismäßigkeit, kein milderes Mittel.
-Sachverständigengutachten regelmäßig erforderlich.
+- BGH, Beschluss vom 12.02.2025 - XII ZB 433/24: Bei Genehmigung oder Anordnung einer medikamentösen Zwangsbehandlung muss der Entscheidungstenor das jeweilige Medikament/den Wirkstoff, die (Höchst-)Dosierung sowie die Verabreichungshäufigkeit hinreichend genau bezeichnen (§ 323 Abs. 1 Nr. 1 FamFG). Quelle: bundesgerichtshof.de / dejure.org.
+- BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Wunsch des/der Betroffenen, durch nahe Angehörige betreut zu werden, hat Vorrang vor Berufsbetreuer; Amtsermittlungspflicht § 26 FamFG.
+- Etablierte Linien (zu verifizieren): Bei freiheitsentziehender Unterbringung (§ 1831 BGB n.F.) enge Voraussetzungen — erhebliche Selbstgefährdung, medizinische Indikation, Verhältnismäßigkeit, kein milderes Mittel. SV-Gutachten regelmäßig erforderlich (§ 321 FamFG).
+- Bei freiheitsentziehenden Maßnahmen in offener Einrichtung (§ 1832 BGB, vormals § 1906 Abs. 4 BGB a.F.): Bettgitter und Bauchgurt sind genehmigungspflichtig, wenn regelmäßig oder über längeren Zeitraum eingesetzt.
+- Grundstücksverkauf (§ 1849 BGB): Verkehrswertnachweis durch qualifiziertes Gutachten/Maklerwertindikation; auffallend niedriger Kaufpreis löst Prüfungspflicht aus.
+- Erbausschlagung (§ 1850 BGB): Gericht prüft wirtschaftliches Interesse der betreuten Person (Überschuldung, dingliche Lasten).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Bei Heimaufenthalt: Auch das Anbringen von Bettgittern oder das Anlegen
-eines Bauchgurts in einer offenen Pflegeeinrichtung ist eine
-freiheitsentziehende Maßnahme i.S.v. § 1832 BGB (vormals § 1906 Abs. 4
-BGB a.F.) und genehmigungspflichtig, wenn sie regelmäßig oder über einen
-längeren Zeitraum erfolgt.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Beim Grundstücksverkauf (§ 1849 BGB) ist der Verkehrswert durch
-qualifiziertes Gutachten oder Maklerwertindikation zu belegen; ein
-auffallend niedriger Kaufpreis löst gerichtliche Prüfungspflicht aus.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Bei Erbausschlagung (§ 1850 BGB) hat das Gericht zu prüfen, ob die
-Ausschlagung im wirtschaftlichen Interesse der betreuten Person liegt
-(Überschuldung der Erbschaft, dingliche Lasten).
+Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
 ### Quellenregel
 

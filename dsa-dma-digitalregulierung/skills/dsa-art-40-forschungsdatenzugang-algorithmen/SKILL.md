@@ -86,6 +86,13 @@ Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Faktische Updates (Stand 05/2026)
+
+- **Delegierte VO (EU) 2024/2987 — Forschungsdatenzugang:** Die delegierte Verordnung zum Forschungsdatenzugang regelt Antragsverfahren, sichere Datenraeume und technische Bedingungen. Stand und Anwendungsbeginn live ueber eur-lex.europa.eu pruefen.
+- **DSC in Deutschland (BNetzA):** Antraege auf Forscher-Status nach Art. 40 Abs. 8 DSA werden in Deutschland ueber die BNetzA als DSC eingereicht. Verfahren und ggf. erforderliche Anlagen live ueber bundesnetzagentur.de pruefen.
+- **EDMO:** European Digital Media Observatory bleibt zentraler Ansprechpartner fuer Forscher im Bereich Desinformation und Plattformforschung. Quelle: edmo.eu.
+- **DSGVO-Schnittstelle:** Bei personenbezogenen Daten zusaetzlich Art. 6 / Art. 89 DSGVO pruefen; Pseudonymisierung / Anonymisierung als milderes Mittel.
+
 ## Zentrale Normen (Paragrafenkette)
 
 - Art. 40 Abs. 1–3 DSA — Datenzugang für digitale Koordinatoren und Kommission

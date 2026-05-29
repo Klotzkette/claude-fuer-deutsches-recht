@@ -121,6 +121,9 @@ Datum der Abgabe: [DATUM]
 
 ## Quellen
 
-- VVG §§ 1-21; W&I-Marktstandard (LMA, GDV)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Roedder/Strnad, W&I Insurance (2022); Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 14
+- VVG (Versicherungsvertragsgesetz): https://www.gesetze-im-internet.de/vvg_2008/
+- VVG § 19 (vorvertragliche Anzeigepflicht): https://www.gesetze-im-internet.de/vvg_2008/__19.html
+- W&I-Marktstandard: LMA-Modellklauseln, GDV-Hinweise (Stand pruefen).
+- Im SPA-Kontext: §§ 311 II, 280 BGB (W&I deckt regelmaessig Garantieverletzungen § 311 I BGB oder vertragliche Schadensersatzregelungen).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

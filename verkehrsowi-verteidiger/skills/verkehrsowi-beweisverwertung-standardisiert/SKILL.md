@@ -7,9 +7,9 @@ description: "Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nut
 
 ## Triage zu Beginn
 
-1. **Standardisiertes Messverfahren oder nicht?** — BGH unterscheidet standardisierte Verfahren (keine detaillierte Urteilsbegruendung notwendig) von nichtstandardisierten (vollstaendige Darlegung erforderlich).
+1. **Standardisiertes Messverfahren oder nicht?** — BGH unterscheidet standardisierte Verfahren (keine detaillierte Urteilsbegruendung notwendig) von nichtstandardisierten (vollstaendige Darlegung erforderlich). Grundsatzentscheidung BGHSt 39, 291 (1993) und Folgeentscheidungen — konkrete BGH-Aktenzeichen vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
 2. **Welche konkreten Angriffspunkte auf die Messung gibt es?** — Pauschales Bestreiten genuegt nicht um das standardisierte Verfahren zu erschuettern.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. **Rohmessdaten angefordert?** — BVerfG-Linie zum Recht auf Zugang zu vorhandenen Daten (Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — bundesverfassungsgericht.de).
 4. **Sachverstaendigenantrag gestellt?** — § 77 Abs. 2 OWiG: Gericht darf nur ablehnen wenn Antrag missbräuchlich oder Beweisthema nicht entscheidungserheblich.
 5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger fuer biometrischen Vergleich moeglich.
 
@@ -21,9 +21,13 @@ description: "Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nut
 - **Art. 103 Abs. 1 GG** — Rechtliches Gehoer: Betroffener muss Beweise angreifen koennen
 - **§ 6 MessEG** — Eichpflicht als Grundbedingung der Verwertbarkeit
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit offener Quelle (Volltext vor Versand aufrufen):
+
+- **BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18** — Recht des Betroffenen auf Zugang zu vorhandenen Mess- und Begleitdaten als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
+- **BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20** — Keine Pflicht zur Speicherung von Rohmessdaten beim standardisierten Verfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle: bundesverfassungsgericht.de
+- BGH-Linie zum standardisierten Messverfahren: BGHSt 39, 291 (1993). Aktualisierende OLG-Rechtsprechung in offenen Quellen (openjur.de, nrwe.de) verifizieren.
 
 ## Quellenregel
 

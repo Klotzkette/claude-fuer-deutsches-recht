@@ -23,7 +23,7 @@ description: "Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Ein
 
 - **§ 26 Abs. 3 StVG** — Verjährungsfrist drei Monate ab Tatzeit bei Ordnungswidrigkeiten im Straßenverkehr; nach Erlass des Bußgeldbescheids verlängerte Frist.
 - **§ 33 OWiG** — Unterbrechungsgründe: Bekanntgabe Verfahrenseinleitung an Betroffenen; schriftliche Aufnahme Sachverhalt für Protokoll; Anordnung Auskunft über Betroffenen; Erlass Bußgeldbescheid; Einlegung Einspruch. Nach jeder Unterbrechung beginnt neue volle Frist.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Volltext-Verifikation: Rspr. zu § 33 OWiG (Unterbrechungswirkung) und zu standardisierten Messverfahren in BGH-eigener Datenbank, dejure.org oder openjur.de aufrufen; nicht aus Modellwissen zitieren.
 - **§ 55 OWiG** — Anhörungsrecht Betroffener; Verletzung kann zur Rechtswidrigkeit des Bußgeldbescheids führen; Heilung möglich wenn Betroffener im Einspruchsverfahren gehört wird.
 - **§ 65 OWiG** — Bußgeldbescheid; Mindestinhalt: Personalien, Tatbeschreibung, Tatzeit, Tatort, angewandte Vorschriften, Bußgeldhöhe, Fahrverbot.
 - **§ 67 Abs. 1 OWiG** — Einspruch innerhalb zwei Wochen nach Bekanntgabe; schriftlich oder zur Niederschrift bei erlassender Behörde.
@@ -32,11 +32,15 @@ description: "Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Ein
 - **§ 25 Abs. 2a StVG** — Fahrverbotsbeginn frei wählbar bis 4 Monate nach Rechtskraft.
 - **§ 4 Abs. 4 BKatV** — Absehen vom Fahrverbot bei Verhängung höherer Geldbuße.
 
-### BGH und BVerfG-Leitentscheidungen
+### BGH und BVerfG-Leitentscheidungen (Stand Mai 2026; offene Quellen)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BVerfG | 2 BvR 1167/20 | 20.6.2023 | Standardisierte Geschwindigkeitsmessung; keine Pflicht zur Speicherung von Rohmessdaten; Recht auf erweiterten Informationszugang im Einzelfall | bundesverfassungsgericht.de |
+| BVerfG | 2 BvR 1616/18 | 12.11.2020 | Informationszugang OWi-Verfahren; Akteneinsicht in Messunterlagen | bundesverfassungsgericht.de |
+| BVerwG | 3 B 2.24 | 8.1.2025 | KCanG ab 1.4.2024: Cannabis ist kein BtM mehr; § 14 FeV neu zu lesen | bverwg.de |
+
+Hinweis: BGH (4. Strafsenat) zu Geschwindigkeitsmessverfahren ist standardisiert anerkannt; konkrete Mess-Fehler im Einzelfall müssen substantiiert vorgetragen werden. Aktenzeichen vor Versand in BGH-eigener Datenbank, dejure.org oder openjur.de verifizieren.
 
 ## Prüfschema in Tabellenform
 
@@ -53,7 +57,8 @@ description: "Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Ein
 | 6 | Fahreridentifizierung belegt? | Darlegungslast Behörde | Zweifelhaftes Lichtbild: Sachverständigen-Beweisangebot |
 | 7 | Messverfahren standardisiert? | BGHSt 39, 291 | Nicht standardisiert: volle Beweislast Behörde |
 | 8 | Eichschein gültig zur Tatzeit? | § 31 MessEG | Abgelaufen: Verwertungsverbot prüfen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 9 | Recht auf Akteneinsicht in Rohmessdaten geltend gemacht? | Art. 103 GG; BVerfG 2 BvR 1616/18 (12.11.2020), BVerfG 2 BvR 1167/20 (20.6.2023) | Antrag schriftlich; keine pauschale Speicherungspflicht, aber Anspruch auf vorhandene Daten |
+| 10 | Cannabis-Beteiligung? | § 24a StVG, KCanG (seit 1.4.2024); BVerwG 3 B 2.24 (8.1.2025) | THC-Grenzwert 3.5 ng/ml im Serum (§ 24a Abs. 1a StVG seit 22.8.2024) |
 | 11 | Toleranzabzug korrekt vorgenommen? | BGHSt 39, 291; BKatV | Zu gering: Neuberechnung; ggf. anderes Tatbild |
 | 12 | Bußgeld korrekt nach BKatV? | BKatV Anlage 1, 2 | Fehler: unmittelbare Rüge |
 | 13 | Fahrverbot: Regelfall oder Atypik? | § 25 StVG; § 4 Abs. 4 BKatV | Härtefall: erhöhte Geldbuße statt Fahrverbot |
@@ -102,7 +107,10 @@ ANTRÄGE
 Ich beantrage vollständige Akteneinsicht einschließlich:
 a) Sämtlicher Rohmessdaten des Falldatensatzes und der
    Falldatensätze der Messreihe (konkret: alle Einzelmessungen,
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,
+   2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — kein
+   Anspruch auf nicht gespeicherte Daten, aber Anspruch auf alle
+   vorhandenen Daten);
 b) Eichschein des Messgeräts mit Gültigkeitsdauer zur Tatzeit;
 c) Schulungsnachweis des messenden Beamten (Name, Gerätekurs);
 d) Messprotokoll mit Aufstellungsort, -bedingungen und -dauer;
@@ -160,11 +168,17 @@ folgende Fehler zu verzeichnen:
 
 2. Rohmessdaten verweigert:
    Trotz konkretem Antrag vom [Datum] (Anlage K1) wurden die
-   Rohmessdaten des Falldatensatzes nicht vorgelegt. Nach
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Verwertungsverbot, wenn der Verteidiger konkret geltend
-   macht, dass er ohne die Daten die Messung nicht überprüfen
-   kann. Dieser Antrag liegt vor.
+   Rohmessdaten des Falldatensatzes nicht vorgelegt. Nach der
+   Rechtsprechung des BVerfG (Beschl. v. 12.11.2020, 2 BvR 1616/18;
+   Beschl. v. 20.6.2023, 2 BvR 1167/20) hat der Betroffene einen
+   Anspruch auf Zugang zu den vorhandenen Messdaten und
+   Begleitunterlagen; jedenfalls bei konkret dargelegtem
+   Aufklärungsbedarf greift ein Verwertungsverbot, wenn die
+   Verteidigung nachvollziehbar darlegt, dass sie ohne diese
+   Daten die Messung nicht überprüfen kann.
+   (Volltext der Beschlüsse vor Versand in
+   bundesverfassungsgericht.de aufrufen und Randnummern
+   ergänzen.)
 
 3. Sachverständigengutachten wird beantragt:
    Zum Nachweis der Unverwertbarkeit der Messung beantragen
@@ -239,4 +253,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verbindlich `references/zitierweise.md`. Erlaubte offene Quellen: bundesverfassungsgericht.de, bundesgerichtshof.de (juris.bundesgerichtshof.de), bverwg.de, dejure.org, openjur.de, BGBl. Beck-RS und juris-Fundstellen ohne offene Quelle sind nicht zu zitieren.
+
+Aktueller Stand Mai 2026 (verifizierte Aktenzeichen):
+- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Akteneinsicht / Informationszugang OWi
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Rohmessdaten-Speicherungspflicht; aber Anspruch auf vorhandene Daten
+- BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Cannabis und KCanG ab 1.4.2024
+- KCanG vom 27.3.2024, BGBl. I 2024 Nr. 109; § 24a Abs. 1a StVG i. d. F. vom 21.8.2024, BGBl. I 2024 Nr. 274 (3.5 ng/ml THC-Grenzwert)

@@ -46,9 +46,11 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Schlechterstellungsprüfung (§ 66 Abs. 2 Nr. 3 StaRUG) als verfassungsrechtlich zentrale Schutznorm; sauber durchgerechnete Vergleichsrechnung mit Best-Interest-Test ist Pflichtbestandteil. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Bei AG mit Aktionärsschadensersatzforderungen: Nachrangigkeit in der Vergleichsrechnung berücksichtigen.
+- IDW S 6 (Sanierungskonzept) und IDW S 11 (Insolvenzeröffnungsgründe) als methodische Basis.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 

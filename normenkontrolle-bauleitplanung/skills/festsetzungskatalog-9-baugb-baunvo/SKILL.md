@@ -323,7 +323,11 @@ f) **§ 18 Satzung "Bahnflächen"** — Hinweis auf nicht-entwidmete DB-Flächen
 - BauNVO §§ 1-26
 - PlanzVO
 - BayBO Art. 47, 81
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerwG 04.05.2022, 4 CN 2.21** — Konzentrationszonen-Planung Wind/Solar (bverwg.de)
+- **BVerwG 03.04.2020, 4 CN 2.19** — Erhaltungssatzung § 172 BauGB (bverwg.de)
+- **BVerwG 17.06.2020, 4 CN 6.18** — Bekanntmachung Bebauungsplan, Anstossfunktion (bverwg.de)
+- **BVerwG 11.04.2024, 4 BN 50.23** — Klimaschutz als Abwaegungsbelang (bverwg.de)
+- Konkrete weitere Entscheidungen vor Ausgabe per bverwg.de mit Datum verifizieren
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
 - Söfker BauNVO

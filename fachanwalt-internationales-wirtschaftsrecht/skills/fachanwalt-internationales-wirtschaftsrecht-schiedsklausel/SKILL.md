@@ -38,10 +38,12 @@ description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir e
 
 ### Schiedsordnungen
 
-- DIS-SchO 2021: §§ 1 ff. — modern, kosteneffizient, starke Vertraulichkeitsregeln.
-- ICC-SchO 2021: Art. 1 ff. — internationaler Standard, Terms of Reference (Art. 23), hohe Administrations-Gebühren.
-- LCIA Rules 2020 — London-zentriert, englische Praxis.
-- HKIAC Rules 2018 — für Asien-Geschäfte.
+- **DIS-Schiedsgerichtsordnung 2018** (in Kraft seit 01.03.2018; Anhang 2 in Fassung vom 01.07.2021): https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
+- DIS-ERGeS (Ergaenzende Regeln gesellschaftsrechtliche Streitigkeiten 2018), DIS-Mediationsordnung 2020.
+- **ICC-SchO 2021** (in Kraft seit 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- **LCIA Rules 2020** (London Court of International Arbitration): https://www.lcia.org/dispute_resolution_services/lcia-arbitration-rules-2020.aspx
+- **HKIAC Administered Arbitration Rules 2024** (in Kraft 01.06.2024; aktualisiert gegenueber 2018-Fassung): https://www.hkiac.org/arbitration/rules-practice-notes/hkiac-administered-2024
+- **SIAC Rules 2025** (7. Auflage; in Kraft seit 01.01.2025): https://siac.org.sg/rules/siac-rules-2025/
 
 ### Wichtige BGH-Entscheidungen
 

@@ -317,3 +317,12 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Faktische Updates (Stand 05/2026)
+
+- **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live ueber curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
+- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 muessen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veroeffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live pruefen.
+- **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live ueber digital-strategy.ec.europa.eu pruefen.
+- **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
+- **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
+- **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).

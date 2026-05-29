@@ -80,6 +80,13 @@ Mit freundlichen Gruessen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Faktische Updates (Stand 05/2026)
+
+- **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen muessen bestimmte Betreiber (oeffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA moeglich, rechtlich aber eigenstaendig.
+- **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** Bei KI-Modellen, die mit personenbezogenen Daten trainiert wurden, sind Anonymitaet, Pseudonymisierung, Modellausgaben mit Personenbezug und Rechenschaftspflicht (Art. 5 Abs. 2 DSGVO) zu pruefen. Quelle: edpb.europa.eu.
+- **Aktualisierte BfDI/LfDI-Blacklists Art. 35 Abs. 4 DSGVO:** vor jeder DSFA aktuelle Listen live pruefen.
+- **NIS-2 / DORA Schnittstelle:** Bei Hochrisiko-Verarbeitungen mit IT-Sicherheits-Bezug parallele Cyber-Risikobewertung dokumentieren.
+
 ## Triage zu Beginn
 
 1. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)

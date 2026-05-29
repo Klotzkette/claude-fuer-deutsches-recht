@@ -213,8 +213,10 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
-- DDG §§ 5 und 6 in der geltenden Fassung
-- PAngV 2022 in der geltenden Fassung
-- UWG in der geltenden Fassung
-- EU-Produktsicherheits-VO 2023/988 in der geltenden Fassung
-- AI Act (EU) 2024/1689 in der geltenden Fassung
+- DDG §§ 5 und 6 in der geltenden Fassung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ddg/)
+- PAngV 2022 in der geltenden Fassung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/)
+- UWG in der geltenden Fassung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/)
+- **GPSR (EU) 2023/988** — Allgemeine Produktsicherheitsverordnung; **seit 13.12.2024 unmittelbar anwendbar** in allen EU-Mitgliedstaaten; ersetzt RL 2001/95/EG; bindet Hersteller, Einführer, Bevollmächtigte, Händler, Fulfillment-Dienstleister und Online-Marktplätze; ergänzend zu sektorspezifischen Rechtsakten — [EUR-Lex 32023R0988](https://eur-lex.europa.eu/eli/reg/2023/988/oj).
+- **Produkthaftungs-RL (EU) 2024/2853** — Neue Produkthaftungsrichtlinie; Umsetzungsfrist in nationales Recht **bis 09.12.2026**, gilt für Produkte, die **nach dem 09.12.2026** in Verkehr gebracht oder in Betrieb genommen werden; weitgefasster Produktbegriff (auch Software, digitale Konstruktionsunterlagen, Elektrizität, Rohstoffe); Streichung des 500-EUR-Selbstbehalts und der 85-Mio-EUR-Obergrenze; Haftung auch von Importeuren, Beauftragten, Fulfillment-Dienstleistern und bestimmten Online-Plattform-Anbietern — [EUR-Lex 32024L2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj).
+- **KI-VO (EU) 2024/1689** in der geltenden Fassung; Verbote Art. 5 anwendbar seit 02.02.2025; Allgemeine KI-Modelle (GPAI) ab 02.08.2025; Hochrisiko-KI-Pflichten in der Hauptanwendung ab **02.08.2026** — [EUR-Lex 32024R1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
+- **Maschinenverordnung (EU) 2023/1230** — anwendbar ab 20.01.2027.

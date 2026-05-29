@@ -18,7 +18,8 @@ Der Cross-Class-Cram-Down ist das stärkste Instrument des StaRUG. Er erlaubt de
 - § 30 StaRUG (Schlechterstellungsverbot)
 - § 31 StaRUG (Obstruktionsverbot)
 - Art. 11 Restrukturierungsrichtlinie 2019/1023/EU (europäischer Ursprung)
-- BGH-Rechtsprechung zur Absolute Priority Rule (im deutschen StaRUG noch im Aufbau)
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss; Cross-Class-Cramdown gegen Minderheitsaktionäre) unzulässig. Bestätigt die grundsätzliche Verfassungsmäßigkeit des Cramdown-Mechanismus, wenn § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) eingehalten ist. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Restrukturierungsgerichts-Entscheidungen zur Absolute Priority Rule (§ 27 Abs. 1 Nr. 3 StaRUG iVm § 28 StaRUG) und zur Schlechterstellungsprüfung vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ---
 
@@ -184,10 +185,11 @@ ERGEBNIS:
 - → `fortbestehensprognose-zweistufig` — Basis der Vergleichsrechnung
 
 
-## Aktuelle Leitentscheidungen — Cross-Class Cramdown
+## Aktuelle Leitentscheidungen — Cross-Class Cramdown (Stand Mai 2026)
 
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG): Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss) als unzulässig zurückgewiesen. Die Beschwerdeführer hatten Grundrechtsverletzungen nicht hinreichend dargelegt; die Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Aus der Entscheidung folgt mittelbar: Der Cross-Class-Cramdown ist verfassungsrechtlich tragfähig, wenn die Schlechterstellungsprüfung wirksam greift.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Restrukturierungsgerichts-Entscheidungen zur Praxis des § 26 StaRUG (Bedingungen, Quoren, Schlechterstellungsprüfung) vor Ausgabe über offene Quellen verifizieren.
 
 ## Paragrafenkette Cross-Class Cramdown
 

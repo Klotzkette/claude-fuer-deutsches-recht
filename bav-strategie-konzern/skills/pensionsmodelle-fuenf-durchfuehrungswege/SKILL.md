@@ -23,10 +23,10 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - IAS 19 (Employee Benefits — Defined Benefit Obligations, DBO, Service Cost)
 - IORP II (EU-Richtlinie 2016/2341/EU — Einrichtungen der betrieblichen Altersversorgung)
 - HGB § 246 Abs. 2 S. 2 (Saldierungsgebot bei CTA-Deckungsvermögen)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BAG-Rechtsprechung zu Durchführungswegen, Unverfallbarkeit und Insolvenzsicherung: konkrete Aktenzeichen vor Versand in bundesarbeitsgericht.de oder dejure.org aufrufen.
+- BSG-Rechtsprechung zu Sozialversicherungspflicht von bAV-Beiträgen: konkrete Aktenzeichen in bsg.bund.de oder dejure.org verifizieren.
+- **Stand Mai 2026: Mindestbesteuerungsgesetz (MinBestG)** vom 27.12.2023, BGBl. I 2023 Nr. 397 — OECD Pillar 2 / GloBE-Regeln; 15 % Mindeststeuer ab 750 Mio. EUR Umsatz; Auswirkung auf Steuerwirkung von Pensionsrückstellungen § 6a EStG und Deferred Tax Assets im IFRS-Konzern. OECD GloBE Administrative Guidance (5. Tranche Januar 2025).
+- **Beitragsbemessungsgrenze 2025**: erstmals einheitliche BBG West/Ost (alle Werte vor Versand auf bundesfinanzministerium.de oder deutsche-rentenversicherung.de prüfen).
 
 ### Quellenregel
 

@@ -152,9 +152,12 @@ Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt ein
 - Ende dieses Plugin-Workflows; Fortführung im Plugin `insolvenzrecht` durch Insolvenzanwalt.
 
 
-## Aktuelle Leitentscheidungen — Negative Prognose und Handlungspflichten
+## Aktuelle Leitentscheidungen — Negative Prognose und Handlungspflichten (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden; Amtsniederlegung "auf der Flucht" schützt nicht. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktische Geschäftsführung erfasst auch Hintermänner im Firmenbestattermodell. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherer trägt für jede einzelne Zahlung Darlegungs- und Beweislast für positive Kenntnis; § 15a / § 15b InsO nicht koppelbar.
+- **BGH IX ZR 285/14 vom 26.01.2017** und **BGH IX ZR 56/22 vom 29.06.2023** — Berater-Hinweispflicht (Insolvenzvertiefungsschaden, Drittschutzwirkung).
 
 ## Paragrafenkette Negative Prognose
 

@@ -106,13 +106,16 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 
 ## Quellen und Vertiefung
 
-- GmbHG §§ 43, 46, 50
-- AktG § 93
-- InsO §§ 15a, 15b, 17, 18, 19
-- AO § 69
-- StGB §§ 14, 263, 266, 266a, 283 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Schneider/Verse, GmbHG, 12. Aufl. 2021, § 43 Rn. 1 ff.
+- GmbHG §§ 43, 46, 50: https://www.gesetze-im-internet.de/gmbhg/__43.html
+- AktG § 93: https://www.gesetze-im-internet.de/aktg/__93.html
+- InsO § 15a (Insolvenzantragspflicht; Frist seit SanInsFoG mit Wirkung 01.01.2021: ohne Antrag 3 Wochen Zahlungsunfaehigkeit/6 Wochen Ueberschuldung — kein Automatismus, sondern Hoechstfrist): https://www.gesetze-im-internet.de/inso/__15a.html
+- InsO § 15b (rechtsformneutrales Zahlungsverbot bei Insolvenzreife, in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256; ersetzt § 64 GmbHG a.F. und § 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
+- InsO §§ 17, 18, 19: https://www.gesetze-im-internet.de/inso/__17.html ; https://www.gesetze-im-internet.de/inso/__18.html ; https://www.gesetze-im-internet.de/inso/__19.html
+- AO § 69: https://www.gesetze-im-internet.de/ao_1977/__69.html
+- StGB §§ 14, 263, 266, 266a, 283 ff.: https://www.gesetze-im-internet.de/stgb/__14.html ; https://www.gesetze-im-internet.de/stgb/__266.html ; https://www.gesetze-im-internet.de/stgb/__266a.html
+- BGH, Urt. v. 21.04.1997 — II ZR 175/95 (ARAG/Garmenbeck; BGHZ 135, 244): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.04.1997&Aktenzeichen=II+ZR+175/95
+- Hinweis zur Anwendung: § 15a InsO i.d.F. SanInsFoG (BGBl. I 2020, 3256) — Antragspflicht aufgrund Pandemiefolgen wurde zeitweilig modifiziert (COVInsAG 2020/21), zwischenzeitlich ausgelaufen. Bei Altsachverhalten Stichtag pruefen.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Uebergabe an andere Skills

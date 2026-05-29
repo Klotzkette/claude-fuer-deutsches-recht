@@ -170,7 +170,12 @@ Anlagen
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. Vor Verwendung im Schriftsatz Pinpoint (Rn., Tenor) auf [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
+
+- BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen bei polizeirechtlicher Datenerhebung; Übergangsfortgeltung bis 31.12.2025; methodisch Pinpoint für Verhältnismäßigkeit/Wesentlichkeit.
+- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ / Online-Durchsuchung, PolG NRW im Wesentlichen verfassungskonform.
+- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ teilweise nichtig (Niedrig-Strafrahmen).
+- BVerfG, Beschl. v. 24.03.2021 — 1 BvR 2656/18 u. a. (Klimabeschluss) — intertemporale Freiheitssicherung; Art. 20a GG; subjektive Schutzpflicht.
 
 ## Zentrale Normen (Paragrafenkette)
 

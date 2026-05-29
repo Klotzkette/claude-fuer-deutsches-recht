@@ -23,7 +23,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 - **Vorschlag COM(2022) 209** "ChatControl 2.0" — Pflicht-Scanning aller Kommunikationsdienste auf CSAM-Material und Grooming
 - **EU-Datenschutzbeauftragter EDPS-Stellungnahme** (2022) — sieht Verstoß gegen Grundrechte
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Stand Mai 2026 zum EU-Verfahren: Der Verordnungsvorschlag (CSA-VO/COM(2022)209) ist weiterhin im Rat blockiert; Verlaengerung der Interimsverordnung (EU) 2021/1232 in Diskussion. Aktualisierungen vor Ausgabe direkt unter https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209 pruefen.
 
 ### Nationales Anwaltsrecht
 
@@ -35,9 +35,11 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 - **§ 203 StGB** — Verletzung von Privatgeheimnissen
 - **§ 33 BORA** — Datenverarbeitung in Kanzlei
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): Grundrechtliche Maßstäbe an die Verwertung verdeckt erhobener Kommunikationsdaten — Übertragbarkeit auf ChatControl-Szenarien diskussionswürdig. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BVerfG-Linie zum Anwaltsgeheimnis und § 160a StPO (z. B. BVerfG 12.10.2011 — 2 BvR 236/08 zu § 100a StPO und Verteidigerkommunikation): vor Verwendung in dejure.org / bverfg.de live verifizieren.
+- Hinweis: Eine BGH- oder BVerfG-Leitentscheidung 2025/2026 speziell zu Client-Side-Scanning ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche durchführen.
 
 ## Konflikt mit ChatControl 2.0
 
@@ -114,6 +116,10 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 - `berufsrecht-ki-vertragspruefung` — bei KI-Anbieter-Risiken
 - `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` — bei Vorfall
 
-## Quellen und Updates
+## Quellen und Updates (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- CSA-VO-Vorschlag COM(2022)209 — Stand des EU-Gesetzgebungsverfahrens unter: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209
+- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy fuer freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu pruefen.
+- §§ 43a BRAO, 53, 53a, 97, 100a, 160a StPO sowie § 203 StGB als Maßstabskette.
+- Weitere Rechtsprechung vor Ausgabe in dejure.org / bverfg.de / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.

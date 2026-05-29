@@ -67,6 +67,12 @@ Für maschinell lesbare Kennzeichnung empfiehlt die Kommission den Einsatz von S
 
 Verstöße gegen Art. 50 KI-VO können mit Bußgeldern bis zu 15 Mio EUR oder drei Prozent des weltweiten Jahresumsatzes geahndet werden (Art. 99 Abs. 4 KI-VO).
 
+## Faktische Updates (Stand 05/2026)
+
+- **02.08.2026 — Anwendung Art. 50 KI-VO:** Die Transparenzpflichten nach Art. 50 KI-VO werden ab dem 02.08.2026 verbindlich (Art. 113 lit. c KI-VO). Anbieter und Betreiber muessen Kennzeichnungs- und Hinweissysteme bis zu diesem Stichtag implementiert haben.
+- **C2PA-Standards / maschinenlesbare Kennzeichnung:** Fuer die maschinenlesbare Kennzeichnung von Deepfakes / synthetischen Inhalten (Art. 50 Abs. 2 KI-VO) sind harmonisierte Normen in Vorbereitung (CEN/CENELEC). C2PA Content Credentials gilt als de-facto-Standard, ist aber noch nicht harmonisiert. Stand live pruefen.
+- **Schnittstelle zu UrhG, UWG, MStV:** Bei Deepfakes / Persoenlichkeitsbild beachten: § 22 KUG, § 823 BGB i.V.m. § 1004 BGB analog, §§ 5/5a UWG (Irrefuehrung), § 5 Abs. 6 MStV (medienrechtliche Kennzeichnungspflicht). KI-VO ergaenzt, ersetzt diese Vorschriften nicht.
+
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.

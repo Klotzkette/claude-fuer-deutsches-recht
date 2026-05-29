@@ -270,6 +270,7 @@ Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
 - § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
 - § 93 AktG: https://www.gesetze-im-internet.de/aktg/__93.html
 - § 15a InsO: https://www.gesetze-im-internet.de/inso/__15a.html
-- § 15b InsO: https://www.gesetze-im-internet.de/inso/__15b.html
-- BGH II ZR 146/09: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=II%20ZR%20146/09
-- BGH II ZR 175/95 (ARAG): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=II%20ZR%20175/95
+- § 15b InsO (rechtsformneutrales Zahlungsverbot seit SanInsFoG, BGBl. I 2020, 3256, in Kraft 01.01.2021; ersetzt § 64 GmbHG a.F. und § 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
+- BGH, Urt. v. 21.04.1997 — II ZR 175/95 (ARAG/Garmenbeck; BGHZ 135, 244): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.04.1997&Aktenzeichen=II+ZR+175/95
+- BGH II ZR 146/09 (Belegfundstelle vor Verwendung gegen offene Quelle pruefen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=II+ZR+146/09
+- MoPeG (BGBl. I 2021, 3436; in Kraft 01.01.2024) Auswirkungen auf Personengesellschafts-Organhaftung: §§ 708, 709 BGB n.F. (Haftungsmaßstab Gesellschafter); §§ 110 ff. HGB n.F. (Beschlussmaengelrecht OHG/KG)

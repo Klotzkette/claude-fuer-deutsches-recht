@@ -19,11 +19,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Rechtlicher Rahmen
 
-- **Angemessenheitsbeschluss (EU) 2023/1795** vom 10.7.2023 — Grundlage
-- **DSGVO Art. 45** — Übermittlung in Drittländer mit Angemessenheitsbeschluss
-- **DSGVO Art. 46** — Geeignete Garantien (SCC, BCR) — Fallback wenn DPF nicht greift
-- **EO 14086** Biden-Administration (Begrenzung US-Geheimdienst-Zugriff)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Angemessenheitsbeschluss (EU) 2023/1795** vom 10.07.2023: https://eur-lex.europa.eu/eli/dec_impl/2023/1795/oj
+- **DSGVO Art. 45** — Uebermittlung in Drittlaender mit Angemessenheitsbeschluss: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- **DSGVO Art. 46** — Geeignete Garantien (SCC, BCR) als Fallback
+- **EO 14086** US-Executive Order (07.10.2022) zur Begrenzung des US-Geheimdienst-Zugriffs
+- **Standard Contractual Clauses (SCC) 2021/914** (Durchfuehrungsbeschluss vom 04.06.2021): https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj
+- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II; ECLI:EU:C:2020:559)** — Privacy Shield fuer ungueltig erklaert; SCC bleiben gueltig, aber Empfaengerland-Pruefung erforderlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311
+- Hinweis Stand 05/2026: Schrems III-Verfahren vor EuGH gegen den DPF-Angemessenheitsbeschluss anhaengig; aktuellen Stand pruefen, da Aufhebung Folgen fuer Datentransfers haette.
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow Vertragsklauseln-Update
 

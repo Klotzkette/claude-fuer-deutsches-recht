@@ -12,7 +12,14 @@ description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflicht
 4. Gibt es eine spezifische BaFin-/Aufsichtsvorgabe oder FATF-Leitlinie fuer diesen Sektor?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Stand 05/2026:
+
+- BaFin-AuA GwG (Allgemeiner Teil, AuA AT) — Veröffentlichung 29.11.2024; Ergänzung 06.03.2025 (Kryptowertetransfers, selbst gehostete Adressen) — anwendbar seit Februar 2025 — [bafin.de](https://www.bafin.de/SharedDocs/Downloads/DE/Auslegungsentscheidung/dl-ae-auas-2025-gw.html).
+- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Unternehmensbegriff im wettbewerbsrechtlichen Sinne für DSGVO-Bußgeldobergrenze; methodisch übertragbar auf Bußgelder anderer EU-Sekundärrechtsakte mit ähnlicher Bußgeldsystematik.
+- AMLA seit 01.07.2025 operativ; AMLR (EU) 2024/1624 ab 10.07.2027 anwendbar; Risikoanalyse-Anforderungen sind weiter strukturiert (Art. 7 ff. AMLR) — strategisch Migrationsplan anlegen.
+
+Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ## Zentrale Normen
 - § 5 GwG — Unternehmenseigene Risikoanalyse: Pflichtinhalt und Aktualisierung

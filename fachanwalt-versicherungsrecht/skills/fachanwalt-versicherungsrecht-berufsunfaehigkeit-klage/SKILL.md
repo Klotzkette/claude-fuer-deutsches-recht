@@ -30,10 +30,11 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 - "Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
 - Verweisung auf vergleichbare Berufe
 
-### Änderung 1989
+### Verweisungslinie nach BGH-Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Heute: nur **konkrete** Verweisung (auf tatsächlich ausgeuebte Tätigkeit)
+- Seit dem grundlegenden Wandel der BGH-Rechtsprechung ist nur die **konkrete Verweisung** auf eine tatsächlich ausgeübte Vergleichstätigkeit zulässig. Abstrakte Verweisung allein auf eine theoretisch denkbare Tätigkeit reicht nicht.
+- Konkretisierende Anforderungen vor Verwendung des Versicherer-Verweisungsargumentes in juris.bundesgerichtshof.de und dejure.org verifizieren; nicht aus Modellwissen.
+- Wichtige Linie (Stand Mai 2026): Bedingungen, die Versicherungsschutz auf Bürotätigkeit mit > 90 % Schreibtischanteil begrenzen, sind intransparent und benachteiligend (BGH IV. ZS, st. Rspr. — konkrete Entscheidung mit Aktenzeichen und Datum vor Ausgabe verifizieren).
 
 ## 3) Ablehnungs-Gründe Versicherer
 
@@ -133,9 +134,15 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 - Planungs-Sicherheit
 - Kein Klage-Risiko
 
-## 8) Aktualität — BGH-Linien
+## 8) Aktualität — BGH-Linien (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufrufen):
+
+- BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de
+- BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
+- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach § 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel in BU/PKV-Klauselgestaltung. Pressemitteilung Nr. 47/25 vom 12.3.2025. Quelle: bundesgerichtshof.de Pressemitteilungen
+- BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung. Quelle: juris.bundesgerichtshof.de (Volltext vor Versand verifizieren)
+- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab. Quelle: bundesgerichtshof.de (Volltext-Verifikation Pflicht)
 
 ## 9) Honorar
 
@@ -158,15 +165,14 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
+### Leitsatz-Zitate (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen mit Anker zu offener Quelle. Volltext vor Versand erneut aufrufen und Randnummer einsetzen:
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. **Versicherungsfall BU**: BGH, Urt. v. 14.7.2021, IV ZR 153/20 — Eintritt des Versicherungsfalls erst nach Ablauf der bedingungsgemäßen Prognosezeit (sechs Monate). Offene Quelle: juris.bundesgerichtshof.de
+2. **Vergleichstätigkeit / Verweisung**: BGH, Urt. v. 26.6.2019, IV ZR 19/18 — Tatsächlich erzieltes Einkommen aus Verweisungstätigkeit nicht ohne weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
+3. **AVB-Auslegung Maßstab**: st. Rspr. BGH IV. ZS — Auslegung aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse. Konkrete Entscheidung mit Aktenzeichen vor Versand in offener Quelle verifizieren.
+4. **Klauselersetzung nach Intransparenz**: BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Nach Unwirksamkeit einer Bedingung darf der Versicherer keine im Kern identische neue Bedingung einseitig einführen (zur Krankentagegeldversicherung; übertragbar). Pressemitteilung Nr. 47/25 vom 12.3.2025.
 
 ### Paragrafenkette
 
@@ -197,12 +203,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Ablehnung Versicherer?
 ├─ Verweisung → konkret oder abstrakt?
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+│   └─ Abstrakt → unzulässig nach st. Rspr. BGH IV. ZS
+│       (konkrete Entscheidung in juris.bundesgerichtshof.de
+│        verifizieren und Randnummer einsetzen)
 │   └─ Konkret → übt Mandant Verweisungstätigkeit tatsächlich aus?
 ├─ Bestreiten BU-Grad → 50-%-Schwelle ärztlich belegen
 │   └─ Privatgutachten + gerichtliches Gutachten beantragen
-├─ Anzeigepflichtverletzung → Belehrung erfolgt?
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+├─ Anzeigepflichtverletzung → Belehrung erfolgt nach § 19 Abs. 5 VVG?
+│   └─ Nein → Rücktritt / Anfechtung des Versicherers unwirksam
 │   └─ Ja → Kausalität zwischen Vorerkrankung und BU?
 └─ Verjährung → Verhandlungen dokumentieren (§ 203 BGB Hemmung)
 ```
@@ -243,7 +251,10 @@ BEGRÜNDUNG
 2. 50-%-Schwelle: Laut Privatgutachten Dr. [NAME] vom [DATUM]
    (Anlage K3) ist Kläger zu [X]% beeinträchtigt.
 3. Verweisung verfehlt: Versicherer verweist auf [Beruf] — nicht
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   konkret ausgeübt vom Kläger; abstrakte Verweisung nach st. Rspr.
+   des BGH IV. ZS unzulässig (konkrete Entscheidung mit Aktenzeichen
+   und Datum vor Versand in juris.bundesgerichtshof.de oder
+   dejure.org verifizieren und Randnummer einfügen).
 4. Anzeigepflicht: Keine Belehrung § 19 Abs. 5 VVG (Anlage K5);
    Rücktrittsrecht des Versicherers ausgeschlossen.
 5. Verjährung: Durch Verhandlungen bis [DATUM] gehemmt (§ 203 BGB).

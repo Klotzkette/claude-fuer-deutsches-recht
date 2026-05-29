@@ -7,11 +7,19 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Rechtsgrundlagen
 
-- **§ 656a BGB** — Textform für Maklervertrag über Wohnraumkauf/-verkauf (seit 23.12.2020, WoVermRG)
-- **§ 126b BGB** — Textform: lesbare Erklärung auf dauerhaftem Datenträger; Person des Erklärenden und Abschluss der Erklärung erkennbar
-- **§ 125 BGB** — Nichtigkeit bei Formverstoß
-- **§ 812 Abs. 1 S. 1 BGB** — Bereicherungsanspruch
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **§ 656a BGB** — Textform für Maklervertrag über Wohnraumkauf/-verkauf (seit 23.12.2020, Gesetz ueber die Verteilung der Maklerkosten bei der Vermittlung von Kaufvertraegen ueber Wohnungen und Einfamilienhaeuser vom 12.06.2020).
+- **§ 656c BGB** — Halbteilungsgrundsatz bei Doppeltaetigkeit.
+- **§ 656d BGB** — Halbteilungsgrundsatz bei Anspruchsabwaelzung auf den Kaeufer.
+- **§ 126b BGB** — Textform: lesbare Erklärung auf dauerhaftem Datenträger; Person des Erklärenden und Abschluss der Erklärung erkennbar.
+- **§ 125 BGB** — Nichtigkeit bei Formverstoß.
+- **§ 812 Abs. 1 S. 1 BGB** — Bereicherungsanspruch.
+
+## Rechtsprechung BGH 2025
+
+- BGH, Urt. v. 06.03.2025 – Az. I ZR 32/24 — Halbteilungsgrundsatz § 656c BGB beim Verkauf eines Einfamilienhauses; Definition des Einfamilienhauses; analoge Anwendung auf Maklervertraege mit Dritten. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.03.2025&Aktenzeichen=I+ZR+32/24 (BGH-Presseinformation Nr. 44/2025).
+- BGH, Urt. v. 06.03.2025 – Az. I ZR 138/24 — Gesamtnichtigkeit der Abwaelzungsvereinbarung bei Verstoss gegen § 656d BGB; kein Anspruch des Maklers gegen den Kaeufer auf die volle Provision. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.03.2025&Aktenzeichen=I+ZR+138/24
+- BGH, Urt. v. 09.10.2025 – Az. I ZR 159/24 — Maklervertraege ueber Online-Anbahnung ohne Buttonloesung (§ 312j BGB analog) sind im B2C-Verhaeltnis bei fehlender ausdruecklicher Zahlungsbutton-Bestaetigung unwirksam. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.10.2025&Aktenzeichen=I+ZR+159/24
+- Rechtsprechung zu Az. I ZR 202/25 ist nach offen zugaenglichen Quellen (Stand Mai 2026) noch nicht entschieden; falls im Mandat darauf abgehoben wird, ueber https://dejure.org und https://www.bundesgerichtshof.de verifizieren.
 
 ## Rechtsprechung live prüfen
 

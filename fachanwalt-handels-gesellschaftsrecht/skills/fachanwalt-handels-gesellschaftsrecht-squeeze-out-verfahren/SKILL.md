@@ -200,6 +200,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+### Normquellen und offene Datenbankverweise
+
+- §§ 327a-f AktG: https://www.gesetze-im-internet.de/aktg/__327a.html
+- §§ 39a-c WpUG: https://www.gesetze-im-internet.de/wp_g/__39a.html
+- § 62 V UmwG: https://www.gesetze-im-internet.de/umwg_1995/__62.html
+- SpruchG: https://www.gesetze-im-internet.de/spruchg/
+- Aktuelle Squeeze-out-Spruchverfahrens-Linie (Fundstellen vor Verwendung live pruefen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Schlagwort=Squeeze-out — keine Aktenzeichen aus Modellwissen.
+- BVerfG DAT/Altana (Beschl. v. 27.04.1999 — 1 BvR 1613/94; BVerfGE 100, 289 — Boersenkurs als grundsaetzliche Untergrenze der Abfindung ausscheidender Aktionaere; Art. 14 GG): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/04/rs19990427_1bvr161394.html
 ## Triage — Sofortprüfung Squeeze-out
 
 1. **Beteiligungsschwelle prüfen:** > 95 % (§ 327a AktG oder WpUG § 39a) oder > 90 % (UmwG § 62)?

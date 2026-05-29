@@ -12,8 +12,13 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 4. Bereits Reha (§ 15 SGB VI) ohne Erfolg? Reha vor Rente-Prinzip beachten.
 5. Ablehnungsbescheid vorhanden? Widerspruchsfrist 1 Monat (§ 84 SGG) gesichert?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+- BSG, Urteil vom 05.06.2025 — B 5 R 17/23 R (5. Senat): Bei Konkurrenz höherer EM-Rente und niedrigerer Teil-EM-Rente im Nachzahlungszeitraum ist keine monatsweise Saldierung vorzunehmen; § 89 Abs. 1 Satz 5 SGB VI führt zu einer Gesamtsaldierung über den Nachzahlungszeitraum. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=05.06.2025&Aktenzeichen=B+5+R+17/23+R
+- BSG, Urteil vom 27.03.2025 — B 5 R 16/23 R (5. Senat): Berücksichtigung von Kindererziehungs- und Berücksichtigungszeiten bei der Regelaltersrente — Auswirkungen auch auf die EM-Rentenberechnung relevant. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_27_B_05_R_16_23_R.html
+- Verhandlungstermin BSG B 5 R 15/24 R vom 25.09.2025 (Überstundenabgeltung und Hinzuverdienst nach § 96a SGB VI): https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2025/2025_09_25_B_05_R_15_24_R.html — Volltext vor Verwendung in dejure.org / openjur.de auf Rechtskraft und Entscheidungsformel prüfen.
+
+Weitere Rechtsprechung vor Ausgabe live verifizieren.
 
 ## Quellenregel
 
@@ -49,15 +54,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 240 SGB VI | Berufsschutz (Rente wegen Berufsunfähigkeit) für Geburtsjahrgänge vor 02.01.1961 |
 | § 15 SGB VI | Medizinische Rehabilitation als vorrangige Leistung |
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Aktenzeichen | Gericht/Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Aktenzeichen | Gericht/Datum | Tragende Aussage | Offene Fundstelle |
+|---|---|---|---|
+| B 5 R 17/23 R | BSG, Urteil 05.06.2025 | Bei Konkurrenz höherer voller EM-Rente und niedrigerer Teil-EM-Rente im Nachzahlungszeitraum: Gesamtsaldierung statt monatsweiser Verrechnung; § 89 Abs. 1 S. 5 SGB VI | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=05.06.2025&Aktenzeichen=B+5+R+17/23+R |
+| B 5 R 16/23 R | BSG, Urteil 27.03.2025 | Kindererziehungs- und Berücksichtigungszeiten in der Rentenberechnung | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_27_B_05_R_16_23_R.html |
+| B 5 R 2/24 R | BSG, Urteil 27.03.2025 | Rentenberechnung | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=27.03.2025&Aktenzeichen=B+5+R+2/24+R |
+
+Weitere Entscheidungen vor Verwendung in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -70,9 +75,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 3 | Pflichtbeiträge drei Jahre in letzten fünf Jahren vor EM-Eintritt | § 43 Abs. 1 S. 1 Nr. 2 SGB VI |
 | 4 | Ausnahmen von versicherungsrechtlichen Voraussetzungen prüfen | § 53 SGB VI |
 | 5 | Leistungsvermögen medizinisch quantifizieren (Stunden täglich) | § 43 Abs. 1, 2 SGB VI |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 6 | Verschlossener Teilzeitarbeitsmarkt bei 3 bis unter 6 h | BSG-Linie "Arbeitsmarktrente" — vor Ausgabe Aktenzeichen live in dejure.org prüfen |
 | 7 | Berufsschutz § 240 SGB VI bei Jahrgang vor 02.01.1961 | § 240 SGB VI |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 8 | Summierung ungewöhnlicher Leistungseinschränkungen / qualitative Einschränkungen | BSG-Linie B 13 R / B 5 R — vor Ausgabe Aktenzeichen live in dejure.org prüfen |
 | 9 | Befristung § 102 Abs. 2 SGB VI beachten | § 102 SGB VI |
 | 10 | Beginn der Rente (§ 99 SGB VI — Antragsdatum) | § 99 SGB VI |
 | 11 | Hinzuverdienstgrenze § 96a SGB VI klären | § 96a SGB VI |
@@ -235,9 +240,9 @@ Mit freundlichen Grüßen
 |---|---|---|
 | Versicherungsrechtliche Voraussetzungen | Kläger | Versicherungsverlauf DRV, Beitragsnachweise |
 | Quantitatives Leistungsvermögen (< 3 h) | Kläger | Ärztliche Berichte, Gutachten, Entlassungsberichte |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Verschlossener Teilzeitarbeitsmarkt | DRV (Arbeitsmarktrente-Linie) | DRV muss benennbare Stellen darlegen, sonst Arbeitsmarktrente |
 | Berufsschutz § 240 (bisheriger Beruf) | Kläger | Arbeitsvertrag, Tätigkeitsbeschreibung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Zumutbare Verweisungstätigkeit | DRV | Konkrete Verweisungstätigkeit benennen und zumutbar begründen |
 | Befristung sachlich gerechtfertigt | DRV | Gutachten, Prognose |
 
 ---
@@ -258,7 +263,7 @@ Mit freundlichen Grüßen
 
 | DRV-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Teilzeitmarkt offen" | Konkrete Stellen benennen lassen; ohne Stellenbenennung greift Arbeitsmarktrente nach BSG-Linie (vor Ausgabe Aktenzeichen in dejure.org prüfen) |
 | "Versicherungsrechtliche Voraussetzungen fehlen" | Beitragszeiten exakt nachweisen; Ausnahmen § 53 SGB VI prüfen |
 | "Eigenes Gutachten widerspricht" | § 109 SGG: Antrag auf Gegengutachten; Widersprüche im Gutachten angreifen |
 | "Rehabilitation vorrangig" | § 15 SGB VI: Reha bereits durchgeführt und ohne Erfolg; DRV muss konkrete Maßnahmen benennen |
@@ -284,7 +289,7 @@ Mit freundlichen Grüßen
 | Fallkonstellation | Empfehlung |
 |---|---|
 | DRV-Ablehnung, Gutachten intern ungünstig | § 109 SGG-Antrag eigener Gutachter; inhaltliche Fehler des internen Gutachtens angreifen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Nachzahlung mit konkurrierender Teil-EM | BSG 05.06.2025 — B 5 R 17/23 R beachten: Gesamtsaldierung statt monatsweise Verrechnung; Bescheidberechnung gezielt nachprüfen |
 | Berufsschutz § 240 | Bisherigen Beruf und Verweisungstätigkeiten präzise definieren |
 | Versicherungszeiten-Lücke | § 53 SGB VI-Ausnahmen prüfen; Anrechnungszeiten nachweisen |
 | Klage anhängig | Parallele Leistungssicherung (Bürgergeld, Krankengeld) sicherstellen |
@@ -317,8 +322,11 @@ Mit freundlichen Grüßen
 - `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` — bei Long-COVID als Auslöser
 - `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` — Vergleichsstrategie SG
 
-## Quellen
+## Quellen (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BSG 05.06.2025 — B 5 R 17/23 R (Gesamtsaldierung Nachzahlung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=05.06.2025&Aktenzeichen=B+5+R+17/23+R
+- BSG 27.03.2025 — B 5 R 16/23 R (Kindererziehungszeiten): https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_27_B_05_R_16_23_R.html
+- BSG-Verhandlung 25.09.2025 — B 5 R 15/24 R (Überstundenabgeltung als Hinzuverdienst): https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2025/2025_09_25_B_05_R_15_24_R.html
+- Weitere Rechtsprechung vor Verwendung live in dejure.org / openjur.de / bsg.bund.de verifizieren.
 
 ---

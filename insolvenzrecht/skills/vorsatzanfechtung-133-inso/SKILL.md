@@ -31,13 +31,13 @@ b) **Vorsatz Schuldner** zur Gläubiger-Benachteiligung
 
 c) **Kenntnis Vertragspartner** des Vorsatzes
 
-### Frist-Spezifikation (seit MoMiG-Folge-Reform 5.4.2017, in Kraft 22.4.2017)
+### Frist-Spezifikation (seit Anfechtungsreform 5.4.2017, in Kraft 5.4.2017)
 
 **ZUERST PRÜFEN: Welcher Tatbestand?**
 
 - **4 Jahre — § 133 Abs. 2 InsO**: Deckungs- oder Befriedigungs-Handlungen, die dem Gläubiger **kongruent** eine Sicherung oder Befriedigung gewährt haben (z.B. Fälligkeits-Zahlung Lieferant, planmäßige Tilgung Bank-Kredit, vertraglich vereinbarte Sicherheits-Bestellung)
 - **10 Jahre — § 133 Abs. 1 InsO**: alle anderen Rechts-Handlungen mit Gläubiger-Benachteiligungs-Vorsatz, insbesondere **Vermögens-Verschiebungen** (Schenkungen, Verkauf unter Wert, Übertragung auf nahe-stehende Personen, inkongruente Deckungen, Vermögens-Ausgliederungen)
-- **Vor 22.4.2017** — einheitlich 10 Jahre für alle Tatbestände (Alt-Fälle)
+- **Vor 5.4.2017** — einheitlich 10 Jahre für alle Tatbestände (Alt-Fälle, nur noch in extrem alten Verfahren relevant)
 - **Unentgeltliche Leistungen** — separater Tatbestand § 134 InsO (4 Jahre)
 
 ### Praktische Erst-Sortierung
@@ -65,17 +65,26 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 - **Wenigstens billigende Inkaufnahme** dolus eventualis
 - **Nicht erforderlich:** Schädigungs-Absicht direkt
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Neuausrichtung der Vorsatzanfechtung (BGH-Linie seit 2021)
 
-- **Zahlungs-Unfähigkeit** zum Handlungs-Zeitpunkt
+Seit der Grundsatzentscheidung **BGH IX ZR 72/20 vom 06.05.2021** verfolgt der IX. Zivilsenat eine deutlich anfechtungsfreundliche Restriktion bei kongruenten Deckungen. Bestätigt und konkretisiert durch:
+
+- **BGH IX ZR 129/22 vom 18.04.2024**: Aus der bloßen objektiv festgestellten Zahlungsunfähigkeit darf nicht ohne weiteres auf einen Gläubigerbenachteiligungsvorsatz geschlossen werden. Maßgeblich ist, ob der Schuldner wusste oder zumindest billigend in Kauf nahm, dass er andere Gläubiger zu späterer Zeit nicht vollständig befriedigen kann. Bei Liquiditätsbehauptungen des Verwalters kann ein einfaches Bestreiten des außenstehenden Anfechtungsgegners genügen.
+  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 239/22 vom 18.04.2024** (Schwesterentscheidung zu § 135 InsO Gesellschafterdarlehen): Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung.
+  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+
+Typische Indizien des Vorsatzes (vor Ausgabe einzeln verifizieren):
+
+- **Zahlungs-Unfähigkeit** zum Handlungs-Zeitpunkt (Liquiditätsstatus konkret darlegen, IX ZR 129/22)
 - **Drohende Zahlungs-Unfähigkeit** mit Bewusstsein
 - **Vorzugs-Behandlung** einzelner Gläubiger
 - **Inkongruente Leistungs-Bedingungen**
 
 ### Reform 2017 Modifikation
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Kenntnis der drohenden Zahlungs-Unfähigkeit allein nicht ausreichend für Vorsatz-Vermutung bei kongruenter Leistung
+- 4-Jahres-Frist für kongruente Deckungs- und Befriedigungs-Handlungen (§ 133 Abs. 2 InsO)
+- Kenntnis der drohenden Zahlungs-Unfähigkeit allein nicht mehr ausreichend für die Vorsatz-Vermutung bei kongruenter Leistung — bestätigt durch BGH IX ZR 129/22 (18.04.2024)
 
 ## Schritt 3 — Kenntnis Vertragspartner
 
@@ -92,10 +101,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Bei Banken** Konto-Über-ziehungs-Vermerke
 - **Bei Lieferanten** Vorkasse-Anforderung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Kenntnis nach BGH-Linie (vor Ausgabe konkretes Az. prüfen):
 
-- Bei drohender Zahlungs-Unfähigkeit
-- Kenntnis Gläubiger spricht für Mit-Wirkung
+- Bei drohender Zahlungs-Unfähigkeit indiziert die Kenntnis des Gläubigers den Vorsatz
+- Nach **BGH IX ZR 129/22 vom 18.04.2024** reicht bloße Kenntnis der Liquiditätsunterdeckung nicht ohne konkrete Indizien für die Erwartung dauerhafter Unterdeckung
 
 ## Schritt 4 — Bargeschäfts-Privileg § 142 InsO
 
@@ -103,18 +112,26 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - **Unmittelbarer Leistungs-Austausch** zwischen Schuldner und Gläubiger
 - **Gleichwertige Gegenleistung**
-- **Innerhalb 30 Tage**
+- **Innerhalb 30 Tage** (keine starre Grenze; Bewertung des engen zeitlichen Zusammenhangs)
 - **Im üblichen Geschäfts-Verlauf**
 
 ### Wirkung
 
 - **Anfechtungs-Schutz** auch bei § 133 InsO
-- **Ausnahme:** Bei Kenntnis der Insolvenz-Reife mit Bewusstsein der Gläubiger-Benachteiligung — keine Bargeschäft
+- **Ausnahme nach § 142 Abs. 1 Hs. 2 InsO** (Fassung seit 2017): Bei Vorliegen der Voraussetzungen der Vorsatzanfechtung gilt das Privileg nur, wenn der Schuldner *unlauter* handelte und der andere Teil dies erkannte.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Unlauterkeit nach BGH IX ZR 122/23 vom 05.12.2024
 
-- Eng zu verstehen
-- Bei sichtbarer Insolvenz-Reife Privileg eingeschränkt
+Der IX. Zivilsenat hat erstmals höchstrichterlich präzisiert, wann der Schuldner bei einem Bargeschäft *unlauter* iSd § 142 Abs. 1 Hs. 2 InsO handelt:
+
+- Unlauterkeit erfordert, dass es bei der Transaktion **weniger um die Abwicklung eines Bargeschäfts als vielmehr um gezielt schädigendes Verhalten** gegenüber den übrigen Gläubigern geht.
+- Das Bargeschäft muss zusätzlich zu den Voraussetzungen der Vorsatzanfechtung **zu einer gezielten Benachteiligung anderer Gläubiger** führen oder den Empfänger gegenüber anderen gezielt **bevorzugen**.
+- Allein dauerhafte Verlustsituation des Schuldners genügt **nicht** für die Annahme der Unlauterkeit.
+- Bei Lohnzahlungen lehnt der Senat eine generelle Anbindung an die 30-Tage-Grenze ab und stellt auf den engen zeitlichen Zusammenhang ab.
+
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>; <https://www.osborneclarke.com/de/insights/bgh-zum-merkmal-der-unlauterkeit-im-rahmen-des-bargeschaeftsprivilegs>
+
+Praxisfolge (Verteidigung): Der Anfechtungsgegner kann sich auf das Bargeschäft berufen, wenn die Transaktion betriebsüblich, gleichwertig und unmittelbar war; der Insolvenzverwalter muss die Unlauterkeit konkret darlegen.
 
 ### Beispiel
 
@@ -123,13 +140,16 @@ Lieferant verkauft Waren an Schuldner zum Markt-Preis.
 Schuldner zahlt sofort bei Lieferung.
 
 → Bargeschäft § 142 InsO
-→ Vorsatzanfechtung nicht möglich (außer bei
-  Verwerflichkeit)
+→ Vorsatzanfechtung scheitert,
+  außer der Verwalter weist die Unlauterkeit nach BGH IX ZR 122/23
+  positiv nach.
 ```
 
 ## Schritt 5 — Sanierungs-Bemühungen als Verteidigung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Ein belastbares Sanierungskonzept (IDW S 6) mit überwiegender Erfolgsaussicht
+kann den Vorsatz iSd § 133 Abs. 1 InsO entkräften. Anforderungen nach
+BGH-Linie (vor Ausgabe konkrete Entscheidung über offene Quelle prüfen):
 
 - **Sanierungs-Konzept** mit Aussicht auf Erfolg schließt Vorsatz aus
 - **Mindeststandard IDW S 6**
@@ -154,8 +174,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Treuhand-Sicherheit
 
 - Bei treuhänderischer Sicherheits-Konstellation
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Anfechtungs-festigkeit bei wirksamer Treuhand
+- Anfechtungs-festigkeit setzt wirksame Treuhand (offene Treuhand, Bestimmtheit, Aussonderungsrecht) voraus
+- Konkrete BGH-Linie (insb. zur Doppeltreuhand) über dejure.org/openjur.de verifizieren
 
 ### Sicherheits-Treuhand
 
@@ -176,8 +196,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Bei drohender Insolvenz Schuldner zahlt Bank-Kredit
 - Inkongruent: vor Fälligkeit
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Verteidigung:** Bei Fälligkeit Bargeschäft
+- Konkrete BGH-Rechtsprechung zur Bankenanfechtung (insb. Konto-Überziehungs-Indizien) über dejure.org verifizieren
+- **Verteidigung:** Bei Fälligkeit kongruente Deckung; Bargeschäft nur bei unmittelbarem Austausch; BGH IX ZR 122/23 (05.12.2024) zur Unlauterkeitsprüfung beachten
 
 ### Konstellation C — Berater erhält Honorar
 
@@ -194,8 +214,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Konstellation E — Sanierungs-Beratung wird honoriert
 
 - Honorar für Sanierungs-Versuch
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Verteidigung:** Beratungs-Erfolg-Aussicht IDW S 6
+- Konkrete BGH-Linie zum Sanierungsberater-Honorar (Bargeschäft, IDW S 6) über offene Quelle verifizieren
+- **Verteidigung:** Beratungs-Erfolg-Aussicht IDW S 6; bei Beraterleistungen häufig Bargeschäft, sofern unmittelbarer Leistungs-Austausch dokumentiert
 
 ## Schritt 8 — Inkongruenz und Kongruenz
 
@@ -348,11 +368,15 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Quellen
 
 - InsO §§ 129 130 131 132 133 138 142 143 146
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- IDW S 6
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft § 142 InsO
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung § 133 InsO
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+- Ältere Linie (BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung) und § 138-Konstellationen vor Ausgabe über dejure.org/openjur.de verifizieren.
+- IDW S 6 (Sanierungskonzept)
+- Literatur und Kommentarstellen nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
 ## Output-Template Anfechtungsschreiben § 133 InsO
@@ -408,4 +432,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Rechtsprechung aus offenen Quellen (dejure.org, openjur.de, bundesgerichtshof.de) mit Gericht, Datum, Aktenzeichen, Randnummer.

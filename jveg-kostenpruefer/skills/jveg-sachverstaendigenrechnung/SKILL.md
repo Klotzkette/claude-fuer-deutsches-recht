@@ -19,16 +19,22 @@ Prüfe Sachverständigenrechnungen vollständig nach §§ 8–10 JVEG: Honorargr
 ## Zentrale Normen
 - § 8 JVEG (Sachverständigenvergütung — Stundensatz)
 - § 8a JVEG (Kürzung/Wegfall)
-- § 9 JVEG (Honorargruppen)
+- § 9 JVEG (Honorargruppen, Anlage 1)
 - § 10 JVEG (Reisezeit)
 - § 12 JVEG (Nebenkosten)
 - § 3 JVEG (Vorschuss)
 
+## Rechtsstand 2025/2026 — KostRAeG 2025
+
+Mit dem KostRAeG 2025 wurden die Saetze des § 9 JVEG in Anlage 1 zum 01.06.2025 pauschal um 9 Prozent erhoeht. Anwendbar nur auf Auftraege ab 01.06.2025; in Altverfahren bleiben die Stundensaetze nach JVEG 2021 unveraendert.
+
+- Synopse der neuen Saetze: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
+- Hinweise praxis-grundstuecksbewertung: https://praxis-grundstuecksbewertung.de/wissenswert/gesetzgebung/jveg-verguetung-sachverstaendige/
+- DGuSV-Hinweise: https://www.dgusv.de/news-blog/mehr-geld-fuer-sachverstaendige-was-die-neuen-verguetungssaetze-seit-juni-2025-wirklich-bedeuten/
+
 ## Rechtsprechung
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung zu §§ 8, 9, 12 JVEG (Erforderlichkeit, Plausibilitaetspruefung, Schwierigkeitsbewertung) ueber https://dejure.org und https://openjur.de verifizieren.
+- BGH-Linie zu § 8a JVEG (Kuerzung wegen Pflichtverletzung) vor Ausgabe pruefen; Aktenzeichen und Datum nicht aus Modellwissen einsetzen.
 
 ## Quellenregel
 

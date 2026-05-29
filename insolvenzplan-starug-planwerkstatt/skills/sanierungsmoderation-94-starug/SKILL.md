@@ -274,15 +274,15 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 - StaRUG §§ 94 95 96 97 100 90
 - InsO §§ 17 18 19 142
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit bei Bargeschäft im Sanierungskontext; konkretes gezielt schädigendes Verhalten erforderlich. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — verfassungsrechtliche Tragfähigkeit von Sanierungsverfahren. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - IDW S 6 (Sanierungs-Fähigkeit)
-- Frind StaRUG
-- Skauradszun StaRUG-Praxis
+- Literatur (Frind, Skauradszun) nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle
 
 
 ## Weitere Leitentscheidungen StaRUG-Moderation
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Konkrete Restrukturierungsgerichts-Entscheidungen zur Sanierungsmoderation (§§ 94–100 StaRUG), insbesondere zur Bestellung des Moderators und zur Bestätigung des Sanierungsvergleichs (§ 97 StaRUG), vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## Quellenregel
 

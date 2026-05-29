@@ -135,17 +135,16 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
   - Bio-basiert
   - Recycelt
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulaessig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht ueber externen Link) erlaeutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
 
 - **Mehrdeutige Aussage** "klimaneutral"
 - **Pflicht zur Substantiierung** im Werbe-Kontext
 - **Konkrete Erläuterung** Methodik erforderlich (Reduktions- vs. Kompensations-Anteile)
 - Aussage muss in der Werbung selbst aufgeklärt werden, Verweis auf externe Quelle reicht nicht
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**Parallel-Entscheidung BGH 27.06.2024, I ZR 142/23** (DM/Drogeriemarkt zu „umweltneutralen" Produkten): gleiche Substantiierungspflicht; Werbeaussage muss in sich klar sein. Quelle: bundesgerichtshof.de / dejure.org/2024,15821.
 
-- Parallel-Entscheidung
-- Verschärfung der Substantiierungs-Pflicht auf Werbe-Mittel-Ebene
+- **EU-Greenwashing-Richtlinie (EU) 2024/825** vom 28.02.2024 (ABl. L 2024/825 vom 06.03.2024) zur Aenderung der UGP-RL und VRRL: Verbot generischer Umweltaussagen ohne Substantiierung; Umsetzungsfrist 27.03.2026. Quelle: eur-lex.europa.eu/eli/dir/2024/825/oj.
 
 ### Bundeskartellamt-Verfahren
 
@@ -306,13 +305,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen
 
-- CSRD-RL (EU) 2022/2464
+- CSRD-RL (EU) 2022/2464 (ABl. L 322 vom 16.12.2022)
 - Delegierte Verordnung (EU) 2023/2772 (ESRS Set 1)
-- HGB §§ 289b–289e 315b 315c (i. d. F. CSR-RUG; CSRD-UG ausstehend)
+- HGB §§ 289b–289e, 315b, 315c (i. d. F. CSR-RUG; CSRD-Umsetzungsgesetz Stand 05/2026 verzoegert; Omnibus-Paket 2025 — eur-lex.europa.eu/legal-content/DE/TXT/?uri=COM:2025:81:FIN)
 - EU-Taxonomie-VO (EU) 2020/852
 - SFDR VO (EU) 2019/2088
-- UWG §§ 5 6
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Greenwashing-RL (EU) 2024/825 vom 28.02.2024 (eur-lex.europa.eu/eli/dir/2024/825/oj)
+- UWG §§ 5, 6
+- BGH I ZR 98/23 (27.06.2024) — Katjes „klimaneutral" (bundesgerichtshof.de PM 144/2024); BGH I ZR 142/23 (27.06.2024) — DM (dejure.org/2024,15821)
 - Bundeskartellamt Sektor-Untersuchung Greenwashing
 - ISO 14064 14067
 - GHG-Protocol

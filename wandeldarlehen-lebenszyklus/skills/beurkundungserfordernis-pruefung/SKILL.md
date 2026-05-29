@@ -51,8 +51,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### 6. Trennungsprinzip sicherstellen
 Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierungen im Wandeldarlehensvertrag, die einen Direkterwerb bestehender Anteile ohne Kapitalerhöhung vorsehen.
 
-### 7. Online-Beurkundung als Option prüfen (DiRUG)
-Seit DiRUG (1.8.2022) ist Online-Beurkundung der GmbH-Gründung möglich (§ 2 Abs. 3 GmbHG); seit 1.8.2023 erstreckt auf Kapitalerhöhungs- und Satzungsänderungsbeschlüsse (§ 53 Abs. 4 GmbHG analog, BeurkG § 16a). Mit Lender im Ausland: Online-Beurkundung kann Reise- und Apostille-Aufwand sparen. Voraussetzung: Notar mit Online-Verfahren der BNotK; elektronische Identifizierung via eID-Funktion oder Lichtbildausweis-Abgleich.
+### 7. Online-Beurkundung als Option prüfen (DiRUG/DiREG)
+- Seit DiRUG (BGBl. I 2021, 3338; in Kraft 01.08.2022) ist Online-Beurkundung der GmbH-Bargruendung moeglich (§ 2 Abs. 3 GmbHG; § 16a BeurkG).
+- Durch DiREG (Gesetz zur Ergaenzung der Regelungen zur Umsetzung der Digitalisierungsrichtlinie) ist seit 01.08.2023 die Online-Beurkundung erweitert auf: GmbH-Sachgruendung, GmbH-Satzungsaenderungen einschliesslich Kapitalmassnahmen, Uebernahmeerklaerungen bei Kapitalerhoehung, sowie Online-Beglaubigung fuer Vereinsregister-Anmeldungen. Wichtig: nicht-einstimmige Mehrheitsbeschluesse sind weiter physisch zu beurkunden (kein Online-Verfahren).
+- Mit Lender im Ausland: Online-Beurkundung kann Reise- und Apostille-Aufwand sparen. Voraussetzung: Notar mit Online-Verfahren der Bundesnotarkammer (BNotK); elektronische Identifizierung via eID-Funktion oder Lichtbildausweis-Abgleich.
+- Quelle: BMJ-Pressemitteilung https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html ; § 16a BeurkG https://www.gesetze-im-internet.de/beurkg/__16a.html
 
 ## Checkliste Beurkundungserfordernis
 
@@ -89,4 +92,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand: 05/2026.
+- § 15 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__15.html
+- § 53 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__53.html
+- § 55 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__55.html
+- § 2 III GmbHG (Online-Bargruendung seit 01.08.2022): https://www.gesetze-im-internet.de/gmbhg/__2.html
+- § 16a BeurkG: https://www.gesetze-im-internet.de/beurkg/__16a.html
+- DiRUG (BGBl. I 2021, 3338): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3338.pdf%27]
+- DiREG-Inkrafttreten 01.08.2023 (Erweiterung Online-Verfahren auf Sachgruendung, Satzungsaenderungen, Kapitalerhoehung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
+- § 19 IV GmbHG (Aufrechnung Stammeinlage gegen Gesellschafterforderung; Hinweis: Erleichterungen durch MoMiG seit 2008, Beleg fuer Wandlung als Sacheinlage wegen Konfusion ueblich): https://www.gesetze-im-internet.de/gmbhg/__19.html
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

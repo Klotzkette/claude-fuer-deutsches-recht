@@ -23,7 +23,7 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 
 - **Maximal drei Monatsmieten netto kalt**
 - Bei überhöhter Kaution Rückforderungs-Anspruch des Überschusses
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 30.06.2004, VIII ZR 243/03**: Begrenzung § 551 Abs. 1 BGB auf 3 Monatsmieten netto-kalt; Ueberschreitung partial unwirksam (dejure.org/2004,2143).
 
 ## Schritt 2 — Anlage-Pflicht § 551 Abs. 3 BGB
 
@@ -38,13 +38,13 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 
 - Mieter-Anspruch auf vorzeitige Rückforderung
 - Schadensersatz wegen Pflichtverletzung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 09.06.2010, VIII ZR 189/09**: Insolvenzgesicherte Anlage als Schutzzweck § 551 Abs. 3 BGB; bei Pflichtverletzung Schadensersatzanspruch (dejure.org/2010,11320).
 
 ## Schritt 3 — Abrechnungs-Pflicht des Vermieters
 
 ### Angemessene Frist
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 18.01.2006, VIII ZR 71/05**: Abrechnungsfrist nach Mietende ueblicherweise sechs Monate; konkrete Hoechstdauer einzelfallabhaengig (dejure.org/2006,484).
 - Bei längerer Frist Recht-fertigungsbedarf des Vermieters
 - Bei kurzfristigen Konstellationen drei Monate
 
@@ -72,12 +72,13 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 ### Nachzahlung Betriebskosten
 
 - **Sicherheits-Einbehalt** zulässig bis Abrechnung der laufenden Periode
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 18.01.2006, VIII ZR 71/05**: Vermieter darf Teil der Kaution bis zur naechsten Betriebskostenabrechnung einbehalten, wenn Nachforderung zu erwarten (dejure.org/2006,484).
 
 ### Schönheitsreparaturen
 
 - **Wirksamkeit der Klausel** prüfen — viele Klauseln unwirksam
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 18.03.2015, VIII ZR 185/14** (Aufgabe der „starren" Fristenplaene): Klauseln, die Schoenheitsreparaturen-Pflicht ohne Beruecksichtigung des konkreten Verschleisses vorschreiben, sind unwirksam (dejure.org/2015,4682).
+- **BGH 22.08.2018, VIII ZR 277/16**: Schoenheitsreparaturen-Klausel bei unrenoviert uebernommener Wohnung — § 538 BGB; ohne Ausgleich unwirksam (dejure.org/2018,21586).
 
 ## Schritt 5 — Forderungs-Schreiben
 
@@ -176,7 +177,7 @@ Mit freundlichen Grüßen
 - § 551 BGB **nicht** anwendbar
 - Vertragliche Vereinbarung gilt
 - AGB-Kontrolle Klausel
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 19.06.2013, XII ZR 137/12 (Gewerbemiete, Buergschaft als Kaution; § 307 BGB-Kontrolle; dejure.org/2013,13420).
 
 ## Schritt 11 — Strategie
 

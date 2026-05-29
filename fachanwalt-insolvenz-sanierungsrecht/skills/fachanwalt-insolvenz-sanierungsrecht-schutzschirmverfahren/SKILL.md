@@ -148,9 +148,13 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 | Dauer | flexibel | 3 Monate + Plan-Phase | meist > 1 Jahr |
 | Öffentlichkeit | nicht-publik möglich | publik (Insolvenz) | publik |
 
-## 10) BGH-Linien
+## 10) BGH- und BVerfG-Linien (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA-Sanierung) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen; die Beschwerdeführer hatten die Verletzung von Grundrechten nicht hinreichend dargelegt. Bedeutung: StaRUG-Sanierungen mit Eingriff in Aktionärsrechte sind verfassungsrechtlich nicht generell ausgeschlossen.
+  Quelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd § 38 InsO; sie treten hinter die einfachen Insolvenzgläubiger zurück. Relevanz: bei börsennotierten Schuldnerinnen Anmeldung von Aktionärsforderungen klar abzugrenzen.
+  Quelle: <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil> (BGH-Pressemitteilung 2025/211; Az. über bundesgerichtshof.de verifizieren)
+- Konkrete BGH-Linie zur Eigenverwaltung (§ 270b InsO) und Schutzschirm (§ 270d InsO), insbesondere zu Anforderungen an die Bescheinigung und zur Bestellung des Sachwalters, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 
 ## Anschluss
 
@@ -170,7 +174,10 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA / StaRUG-Restrukturierungsplan)
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard / Nachrang Aktionärsschadensersatz)
+- Weitere BGH-Entscheidungen zur Eigenverwaltung / Schutzschirm vor Ausgabe über dejure.org, openjur.de und bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
 
 ## Paragrafenkette Schutzschirmverfahren
 

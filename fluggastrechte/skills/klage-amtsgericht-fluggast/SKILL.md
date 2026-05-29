@@ -129,12 +129,15 @@ Streitwert: [Summe der Einzelanspruechen]
    mit gravierender Änderung.
 
    [bei Verspätung] Der Flug erreichte das Endziel mit [X] Stunden
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   C-402/07 — bei mehr als drei Stunden Verspätung am Endziel entsteht
-   ein Ausgleichsanspruch wie bei Annullierung.
+   Verspätung. Nach EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07
+   (Sturgeon u.a. — Quelle: curia.europa.eu) sowie EuGH, Urt. v.
+   23.10.2012, C-581/10 und C-629/10 (Nelson u.a. — curia.europa.eu)
+   entsteht bei mehr als drei Stunden Endzielverspätung ein
+   Ausgleichsanspruch wie bei Annullierung.
 
-   [bei Anschlussflug] Maßgeblich ist die Endzielverspätung gemäß EuGH
-   C-11/11 (Folkerts).
+   [bei Anschlussflug] Maßgeblich ist die Endzielverspätung gemäß EuGH,
+   Urt. v. 26.2.2013, C-11/11 (Folkerts — curia.europa.eu) und EuGH,
+   Urt. v. 31.5.2018, C-537/17 (Wegener — curia.europa.eu).
 
 4. Distanz: Die Grosskreisdistanz [Abflug zu Endziel] betraegt [X] km.
    Dies entspricht der Stufe [1/2/3] des Art. 7 VO 261/2004.
@@ -145,16 +148,29 @@ Streitwert: [Summe der Einzelanspruechen]
 6. Keine Befreiung wegen außergewöhnlicher Umstaende (Art. 5 Abs. 3
    VO 261/2004). Die Beklagte hat sich auf [Begründung der Airline]
    berufen. Dies verfaengt aus folgenden Gründen nicht:
-   
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   22.12.2008 — C-549/07 (Wallentin-Hermann), regelmäßig nicht als
+
+   Technische Defekte sind nach EuGH, Urt. v. 22.12.2008, C-549/07
+   (Wallentin-Hermann — curia.europa.eu), regelmäßig nicht als
    außergewöhnliche Umstaende einzuordnen, weil sie Teil der normalen
    Ausübung der Tätigkeit des Luftfahrtunternehmens sind.
-   
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   ein wilder Streik des eigenen Personals stellt keinen außergewöhnlichen
-   Umstand dar.
-   
+
+   [bei Streik] Streiks der eigenen Mitarbeiter (auch wilde Streiks)
+   stellen nach st. Rspr. des EuGH keinen außergewöhnlichen Umstand
+   dar. Volltext und konkretes Aktenzeichen vor Versand in
+   curia.europa.eu aufrufen und mit Randnummer einsetzen.
+
+   [bei Personalmangel Flughafen] EuGH, Urt. v. 16.5.2024, C-405/23
+   (curia.europa.eu) — Personalmangel beim eigenen Bodenpersonal ist
+   nicht außergewöhnlich; nur ausnahmsweise bei drittverantwortetem
+   Engpass.
+
+   [bei versteckter Konstruktionsfehler] EuGH, Urt. v. 13.6.2025,
+   C-411/23 (curia.europa.eu) — versteckter Konstruktionsfehler im
+   Triebwerk kann außergewöhnlicher Umstand sein, auch wenn die
+   Airline vorab informiert war; zumutbare Maßnahmen bleiben darzulegen.
+
+   [bei Blitzschlag] EuGH, Urt. v. 16.10.2025, C-399/24 (curia.europa.eu).
+
    Die Beweislast für außergewöhnliche Umstaende und für die
    Ergreifung aller zumutbaren Maßnahmen liegt bei der Beklagten.
 
@@ -163,8 +179,10 @@ Streitwert: [Summe der Einzelanspruechen]
    BGB.
 
 8. Sachliche Zuständigkeit Amtsgericht (§ 23 Nr. 1 GVG bis zehntausend
-   Euro). Oertliche Zuständigkeit [Abflughafen / Zielflughafen]
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+   Euro, Streitwertgrenze seit 1.1.2026). Oertliche Zuständigkeit
+   wahlweise am Abflug- oder Zielflughafen (§ 29 ZPO i.V.m. Art. 7
+   Nr. 1 lit. b VO (EU) 1215/2012 — Brüssel-Ia) oder am Sitz der
+   Beklagten (§§ 12, 17 ZPO).
 ```
 
 ### 6. Beweisangebote
@@ -260,9 +278,19 @@ beA-Konvention:
 - §§ 286, 288 BGB — Verzug und Verzugszinsen
 - § 195, § 199 Abs. 1 BGB — Verjährung drei Jahre
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026; Volltext jeweils in curia.europa.eu prüfen)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
+- EuGH, Urt. v. 23.10.2012, C-581/10 und C-629/10 (Nelson u.a.) — Bestätigung
+- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technischer Defekt
+- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung Anschlussflüge
+- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener) — einheitliche Buchung Drittstaat
+- EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag
+- EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung als Annullierung
+- EuGH, Urt. v. 16.5.2024, C-405/23 — Personalmangel Flughafen
+- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung bestätigend
+- EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler
+- EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Quellenregel
 

@@ -58,9 +58,13 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - § 174 InsO
 - § 175 InsO
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 114/23 vom 19.12.2024** — Anforderungen an die Forderungsanmeldung (§ 174 Abs. 2 InsO); bei Abtretung müssen Zedent und Zessionar die abgetretene Forderung jeweils gesondert anmelden und einen eigenen Prüfungstermin durchlaufen. Wirksame Anmeldung setzt hinreichende Individualisierung voraus, nicht aber eine schlüssige Rechtsbegründung.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind keine einfachen Insolvenzforderungen iSd § 38 InsO; sie treten hinter die einfachen Insolvenzgläubiger zurück. Bedeutung: Bei Prüfung von Aktionärsforderungen Rangfrage konkret einordnen, Bestreiten der einfachen Insolvenzforderungseigenschaft regelmäßig geboten.
+  Quelle: BGH-Pressemitteilung 2025/211; <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil>
+- Weitere BGH-Linien zur Individualisierung der Forderung, zur Vorsatzfeststellung nach § 174 Abs. 2 / § 302 Nr. 1 InsO vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette Insolvenzverwaltung
 

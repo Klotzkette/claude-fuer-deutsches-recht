@@ -91,6 +91,13 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Faktische Updates (Stand 05/2026)
+
+- **Risikobewertungs-Reports:** Die ersten Risikobewertungs-Reports nach Art. 34 DSA (mit Verzoegerung wegen vierjaehriger Designation und Audit-Methodik-Entwicklung) wurden von VLOPs veroeffentlicht. Stand und Reports live ueber digital-strategy.ec.europa.eu sowie VLOP-Transparency-Center pruefen.
+- **Schnittstelle KI-VO:** Bei KI-Systemen, die in VLOP-Empfehlungssystemen, Inhaltsmoderation oder Werbeauslieferung eingesetzt werden, ueberlagern sich DSA-Risikobewertung (Art. 34) und KI-VO-Risikomanagement (Art. 9). Bei Anhang-III-Hochrisiko-Systemen integrierte Bewertung dokumentieren.
+- **Art. 36 DSA Krisenmechanismus:** Aktivierungs- und Anwendungspraxis der Kommission live ueber digital-strategy.ec.europa.eu pruefen (z.B. Wahlperioden, Konflikte).
+- **EuG-Verfahren zu Risikobewertung:** Mehrere VLOPs greifen Kommissions-Auskunftsverlangen / Aufsichtsmassnahmen an. Live ueber curia.europa.eu pruefen.
+
 ## Zentrale Normen (Paragrafenkette)
 
 - Art. 34 DSA — Jährliche Risikobewertung VLOPs/VLOSEs

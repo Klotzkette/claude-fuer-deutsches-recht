@@ -76,9 +76,11 @@ Mit kollegialen Gruessen
 - Anschluss-Skill nach Aktenkenntnis: `fachanwalt-strafrecht-einlassung-vorbereiten` — Entscheidung Schweigen oder Einlassung mit Mandant abstimmen.
 - Bei Untersuchungshaft zusätzlich Haftprüfungsantrag (§ 117 StPO) und Haftbeschwerde (§ 304 StPO) prüfen.
 
-## Aktuelle Rechtsprechung Akteneinsicht
+## Aktuelle Rechtsprechung Akteneinsicht (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG-Linie zur Akteneinsicht in Haftsachen: bei Untersuchungshaft sind alle haftrelevanten Aktenteile zugaenglich zu machen, sonst Verstoss gegen Art. 103 Abs. 1 GG (siehe BVerfG 04.10.2017 — 2 BvR 1198/17 und Fortgeltung). Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/147/1.html
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM): Bei ANOM-Datensaetzen ist die Verteidigung auf Akteneinsicht in die Auswertungs- und Authentifizierungsprotokolle angewiesen; Aktualisierungen vor Ausgabe live in bverfg.de pruefen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- Hinweis: Eine spezifische BGH-Leitentscheidung 2025/2026 zu § 147 StPO ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 147 StPO Akteneinsicht" durchführen.
 
 ## Normen Akteneinsicht
 

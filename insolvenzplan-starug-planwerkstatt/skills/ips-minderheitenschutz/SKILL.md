@@ -46,9 +46,11 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss; Ausschluss von 49,9 % Aktionären ohne Kompensation) als unzulässig zurückgewiesen. Bedeutung für Minderheitenschutz: § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) ist die zentrale Schutznorm; die Beschwerde war nicht gegen die Norm selbst gerichtet. Es gibt damit verfassungsrechtlich keine generelle Schranke gegen den Ausschluss out-of-the-money-Aktionäre.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Praxisgrundsatz: Minderheitenschutz im InsO-Plan über § 251 InsO (Minderheitenschutzantrag) und im StaRUG über §§ 64 ff. StaRUG. Konkrete BGH/LG-Entscheidungen vor Ausgabe über offene Quellen verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 

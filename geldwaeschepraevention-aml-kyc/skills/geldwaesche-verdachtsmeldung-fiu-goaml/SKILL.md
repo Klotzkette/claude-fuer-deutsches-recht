@@ -12,7 +12,12 @@ description: "Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG
 4. Ist das Tipping-Off-Verbot (§ 43 Abs. 5 GwG) relevant — darf der Kunde informiert werden?
 
 ## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Stand 05/2026. Rechtsprechung im Mandat live verifizieren.
+
+- BaFin-AuA zum GwG, Stand 06.03.2025 — anwendbar seit Februar 2025; ergänzte Hinweise zu Kryptowertetransfers/selbst gehosteten Adressen — [bafin.de](https://www.bafin.de/SharedDocs/Downloads/DE/Auslegungsentscheidung/dl-ae-auas-2025-gw.html).
+- FIU-Jahresberichte und Typologiepapiere — [fiu.bund.de](https://www.zoll.de/DE/FIU/fiu_node.html).
+- AMLR (EU) 2024/1624 — wird das nationale Meldewesen ab 10.07.2027 weitgehend europäisieren; Verdachtsmeldung verbleibt in nationaler FIU-Zuständigkeit, formale Anforderungen folgen den europäischen Standards.
 
 ## Zentrale Normen
 - § 43 GwG — Verdachtsmeldepflicht: Tatbestand, Fristen, Verfahren

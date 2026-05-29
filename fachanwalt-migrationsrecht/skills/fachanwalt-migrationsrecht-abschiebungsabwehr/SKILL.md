@@ -20,8 +20,9 @@ description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbo
 - Inlandsbezogene Vollstreckungshindernisse — Familieneinheit Art. 6 GG, Privat- und Familienleben Art. 8 EMRK.
 - Reiseunfähigkeit als rechtliches Hindernis § 60a Abs. 2c AufenthG — qualifiziertes ärztliches Attest.
 - Eilrechtsschutz: § 80 Abs. 5 VwGO bei vollziehbarem Verwaltungsakt; § 123 VwGO bei Anspruch auf Duldung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Asylfolgeantrag § 71 AsylG bei neuen Beweismitteln/Wiederaufgreifensgründen § 51 VwVfG.
+- **Dublin-III:** EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeit geht nach Ablauf 6-Monatsfrist (Art. 29 Abs. 2 Dublin-III-VO) auf ersuchenden Mitgliedstaat über, wenn Überstellung an den primär zuständigen Staat tatsächlich nicht erfolgt; einseitige Erklärung Italiens, keine Dublin-Rückübernahmen mehr durchzuführen, bewirkt allein keinen Zuständigkeitswechsel. Verifikation: [curia.europa.eu](https://curia.europa.eu/) zum Az. C-458/24.
+- Weitere Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ## Beweislast und Frist
 

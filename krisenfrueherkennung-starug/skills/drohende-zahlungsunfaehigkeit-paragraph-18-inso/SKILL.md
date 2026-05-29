@@ -11,12 +11,12 @@ description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater
 
 ## Rechtsgrundlagen
 
-- § 18 InsO (drohende Zahlungsunfähigkeit)
+- § 18 InsO (drohende Zahlungsunfähigkeit; Prognosezeitraum 24 Monate)
 - § 17 InsO (Zahlungsunfähigkeit)
-- § 19 InsO (Überschuldung)
+- § 19 InsO (Überschuldung; Prognosezeitraum 12 Monate seit 01.01.2024)
 - § 29 Abs. 2 StaRUG (drohende ZU als Zugangsvoraussetzung)
 - § 15a InsO (Insolvenzantragspflicht bei eingetretener ZU oder Überschuldung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — bestätigt mittelbar die Tragfähigkeit der StaRUG-Eintrittsschwelle nach § 18 InsO bei börsennotierten Schuldnerinnen. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - IDW S 11 Tz. 23 ff. (Liquiditätsstatus und -planung)
 - IDW S 11 Tz. 50 ff. (drohende Zahlungsunfähigkeit)
 
@@ -30,7 +30,7 @@ description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater
 
 **Drei Kernelemente:**
 
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. **Prognosezeitraum 24 Monate** (§ 18 Abs. 2 S. 2 InsO seit SanInsFoG 01.01.2021). Konkrete BGH-Linie zur Methodik der Liquiditätsprognose vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 2. **Wahrscheinlichkeitsmaßstab:** "überwiegend wahrscheinlich" — mehr als 50 % Wahrscheinlichkeit, dass die Zahlungsfähigkeit nicht aufrechterhalten werden kann. Kein Gewissheitsmaßstab erforderlich.
 

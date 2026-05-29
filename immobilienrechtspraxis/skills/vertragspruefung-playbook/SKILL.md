@@ -76,9 +76,15 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 - "Property-Management-Vertrag ist gekommen. Was muss vor Unterschrift
   geändert werden, gemessen an unseren Mindeststandards?"
 
-## Aktuelle Rechtsprechung — Leitsaetze fuer Playbook-Pruefung
+## Aktuelle Rechtsprechung — Leitsaetze fuer Playbook-Pruefung (Stand 05/2026, verifiziert dejure.org)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag § 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkunde hervorgehen; bei Verweis auf Anlagen muessen diese koerperlich mit der Urkunde verbunden oder eindeutig in Bezug genommen sein. Quelle: dejure.org/2020,17128.
+- **BGH 18.11.2020, VIII ZR 123/20** (Mietendeckel Berlin im Rahmen § 556d BGB) — vor Vermietung Pruefung der Spannungs-Gebiets-Verordnung. Quelle: dejure.org/2020,42367.
+- **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesgesetzliche Mietpreisregelung verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de.
+- **BGH 18.03.2020, VIII ZR 64/19** — Maengel bei Wohnraummiete als Mietminderungsgrund. Quelle: dejure.org/2020,4895.
+- **BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Greenwashing in Mietvertraegen mit ESG-Bezug; Substantiierungspflicht. Quelle: bundesgerichtshof.de PM 144/2024.
+
+Konkrete weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de mit Datum verifizieren.
 
 ## Paragrafenkette Immobilienvertraege
 

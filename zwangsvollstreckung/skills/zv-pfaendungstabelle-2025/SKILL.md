@@ -44,8 +44,10 @@ Verlässlich pfändbare Beträge berechnen. Falsche Pfändungsfreigrenzen sind d
 - § 850d ZPO – Unterhaltsforderungen (privilegiert, geringerer Freibetrag, vom Gericht festgesetzt)
 - § 850f ZPO – Erhöhung durch Gericht aus persönlichen Gründen
 - § 850k ZPO – Pfändungsschutzkonto, Sockelbetrag und Erhöhungen
-- Pfändungsfreigrenzenbekanntmachung 2025 vom 11.4.2025 (BGBl 2025 I Nr. 110)
-- nächste Anpassung 1.7.2026 (§ 850c Abs. 4 ZPO – jährlich am 1. Juli entsprechend der Entwicklung des Grundfreibetrags § 32a EStG)
+- Pfändungsfreigrenzenbekanntmachung 2025 vom 11.4.2025 (BGBl. 2025 I Nr. 110), in Kraft 01.07.2025 bis 30.06.2026
+- Quelle BGBl.: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
+- Quelle gesetze-im-internet: https://www.gesetze-im-internet.de/pf_ndfreigrbek_2025/BJNR06E0A0025.html
+- nächste Anpassung 01.07.2026 (§ 850c Abs. 4 ZPO – jährlich am 1. Juli entsprechend der Entwicklung des Grundfreibetrags § 32a EStG)
 
 ## Gültigkeit der aktuellen Tabelle
 
@@ -55,16 +57,22 @@ Die Bekanntmachung gilt vom **1.7.2025 bis 30.6.2026**. Die nächste Anpassung e
 
 ## Eckwerte (aus Tabelle, dezimal mit Punkt)
 
-Aktuelle Eckdaten (Tabelle 1.7.2025):
+Aktuelle Eckdaten (Tabelle 01.07.2025 bis 30.06.2026, BGBl. 2025 I Nr. 110):
 
 - Grundfreibetrag ohne Unterhaltspflichten: 1.555,00 EUR netto / Monat (§ 850c Abs. 1 Nr. 1 ZPO i.V.m. Pfändungsfreigrenzenbekanntmachung 2025).
 - Erhöhung erste unterhaltsberechtigte Person: 585,23 EUR (§ 850c Abs. 2 Satz 1 ZPO).
 - Erhöhung jede weitere Person (2. bis 5. Person): 326,04 EUR (§ 850c Abs. 2 Satz 2 ZPO).
 - Vollpfändungsgrenze: 4.766,99 EUR (§ 850c Abs. 3 Satz 3 ZPO).
 - Netto wird vor Berechnung auf den nächsten vollen 10-EUR-Schritt abgerundet (§ 850c Abs. 5 ZPO).
-- P-Konto-Sockel § 850k ZPO: 1.560,00 EUR (AG SBV-Bescheinigung Stand 1.7.2025).
+- P-Konto-Sockel § 850k ZPO: 1.560,00 EUR (AG SBV-Bescheinigung Stand 01.07.2025).
 - Pfändbarer Betrag wird nach unten gerundet (§ 850c Abs. 5 ZPO i.V.m. Tabellenmethode).
 - Alle exakten Werte im `werkzeuge/pfaendungsrechner.py` (Single Source of Truth).
+
+Steigerung gegenueber Vorjahresfassung:
+
+- Grundfreibetrag von 1.491,75 EUR auf 1.555,00 EUR
+- Erhoehungsbetrag 1. Unterhaltspflicht von 561,43 EUR auf 585,23 EUR
+- Vollpfaendungsgrenze von 4.573,10 EUR auf 4.766,99 EUR
 
 Die Werte sind dimensions- und kommageführt im Werkzeug Single-Source-of-Truth; dieses SKILL.md nennt sie zur Orientierung. Komma-Zahlen sind im Body erlaubt, nicht im Frontmatter `description`.
 

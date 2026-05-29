@@ -23,9 +23,9 @@ description: "Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OLG Frankfurt a.M., Beschl. v. 18.03.2021 - 2 Ss OWi 148/21, NZV 2021, 448 — Berufsbedingte Angewiesenheit ist typischerweise kein Haertefall; der Betroffene muss zusaetzlich darlegen, dass keine Alternative zum Selbstfahren besteht und Existenzgefaehrdung nachweisbar ist.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- OLG Frankfurt a.M., Beschl. v. 18.3.2021 - 2 Ss OWi 148/21 (NZV 2021, 448 — Volltext über openjur.de oder offene Justizdatenbank Hessen verifizieren): Berufsbedingte Angewiesenheit ist typischerweise kein Haertefall; der Betroffene muss zusaetzlich darlegen, dass keine Alternative zum Selbstfahren besteht und Existenzgefaehrdung nachweisbar ist.
+- Weitere OLG-Linien (Bayerisches Oberstes Landesgericht, OLG Hamm, OLG Düsseldorf u.a.): konkrete Aktenzeichen vor Versand in openjur.de oder offenen Landesjustiz-Datenbanken aufrufen.
+- BVerfG zum Verhältnismäßigkeitsgrundsatz bei Fahrverbot: laufende Linie; Aktenzeichen vor Versand in bundesverfassungsgericht.de verifizieren.
 
 ## Quellenregel
 

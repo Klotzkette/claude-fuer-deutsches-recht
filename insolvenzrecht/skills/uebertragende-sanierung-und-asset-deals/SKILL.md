@@ -361,9 +361,11 @@ Für die volle Plan-Mechanik siehe Plugin `insolvenzplan-starug-planwerkstatt`:
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und StaRUG-Pläne. Konkrete Klauseln sind im Einzelfall mit Notar, IP-Fachanwalt und Datenschutzbeauftragtem abzustimmen.
 
-## Weitere Leitentscheidungen — Uebertragende Sanierung
+## Weitere Leitentscheidungen — Uebertragende Sanierung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 122/23 vom 05.12.2024** — Bei Asset-Deals mit Sanierungsbezug: Unlauterkeit beim Bargeschäft (§ 142 Abs. 1 Hs. 2 InsO) konkret prüfen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Bei Erwerber-Risiken: Vorsatzanfechtung nach § 133 InsO bei kongruenten Deckungen restriktiver. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- Konkrete BGH-Linien zu § 613a BGB (Betriebsübergang) im Insolvenzkontext und zu § 75 AO (Übernehmerhaftung Steuern) vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Output-Template Asset-Deal-Memo
 

@@ -63,9 +63,11 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 3. **ALG I-Antrag versäumt** Naht-loskeit-Regel
 4. **Widerspruchsfristen versäumt**
 
-## 5) BSG-Linien und aktuelle Rechtsprechung
+## 5) BSG-Linien und aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BSG, Urteil vom 04.06.2025 — B 11 AL 4/23 R: Anwartschaftszeit/Rahmenfrist im ALG I; Auslandsaufenthalt (Au-pair USA) erfüllt die Wartezeit grundsätzlich nicht. Für die Nahtlosigkeitskonstellation § 145 SGB III mittelbar relevant, weil die Anwartschaftsregeln auch dort anwendbar sind. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_04_B_11_AL_04_23_R.html
+- BSG-Verhandlung 04.06.2025 — B 11 AL 2/24 R: Kurzarbeitergeld, Anzeige des Arbeitsausfalls. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2025/2025_06_04_B_11_AL_02_24_R.html
+- Hinweis: Stand Mai 2026 fehlt eine BSG-Leitentscheidung 2025/2026 speziell zu § 48 SGB V (78-Wochen-Bezugsdauer) bzw. § 145 SGB III (Nahtlosigkeit) im Volltext; vor Ausgabe in dejure.org / bsg.bund.de unter "§ 145 SGB III Nahtlosigkeit" recherchieren und mit Gericht, Datum, Aktenzeichen und tragender Aussage protokollieren.
 
 ## Anschluss
 

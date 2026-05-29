@@ -33,8 +33,9 @@ Pflichtteilsberechtigter erhaelt ergänzenden Pflichtteil aus Schenkungen, die E
 
 ### Bei Niessbrauch / Wohnrecht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Praktisch: Schenkung mit Wohnrecht läuft erst nach Tod des Wohnrecht-Inhabers an
+- Etablierte BGH-Linie (Live-Verifikation vor Verwendung): Bei vorbehaltenem Nießbrauch verzichtet der Erblasser nicht auf den "Genuss" des verschenkten Gegenstandes; die 10-Jahres-Frist des § 2325 Abs. 3 BGB beginnt erst mit Wegfall des Nutzungsvorbehalts (vgl. BGH-Rechtsprechung seit IV ZR 132/93 vom 27.04.1994). Für Wohnungsrechte ist eine einzelfallbezogene "Genussverzicht"-Prüfung erforderlich (vgl. BGH IV ZR 474/15 — Quelle vor Verwendung verifizieren).
+- Praktisch: Schenkung mit Nießbrauch oder umfassendem Wohnrecht führt häufig dazu, dass die Abschmelzungsfrist nicht oder erst nach Tod des Nutzungsberechtigten anläuft.
+- Live-Prüfung: Aktuelle BGH-Rechtsprechung zur Wohnrechts-/Nießbrauchsfrage auf bundesgerichtshof.de und dejure.org verifizieren.
 
 ## 3) Berechnung
 
@@ -117,7 +118,11 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 
 ## 9) BGH-Linien und aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**Verifizierte Entscheidung 2025 (Live-Verifikation vor Verwendung):**
+
+- BGH, Urteil vom 12.03.2025 - IV ZR 88/24: Für die Entstehung des Pflichtteilsanspruchs nach § 199 Abs. 1 Nr. 1 BGB ist § 2317 Abs. 1 BGB auch dann maßgebend, wenn der Berechtigte zum Zeitpunkt des Erbfalls aufgrund der gesetzlichen Ausübungssperre in § 1600d Abs. 5 BGB an einer erfolgreichen Anspruchsdurchsetzung gehindert ist. Für den Pflichtteilsanspruch des nichtehelichen Kindes gegenüber dem Vater ist Kenntnis von der wirksamen Anerkennung oder rechtskräftigen Feststellung der Vaterschaft erforderlich. Quelle: bundesgerichtshof.de / dejure.org.
+
+Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
 ## Anschluss
 

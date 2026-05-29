@@ -228,6 +228,12 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- IDW S 11 (2022): Beurteilung Insolvenzeröffnungsgründe
-- §§ 15a, 15b, 17, 18, 19 InsO; §§ 1–93 StaRUG; §§ 91 AktG, 43 GmbHG; § 321a HGB
+- § 15a InsO (Insolvenzantragspflicht; Hoechstfrist 3 Wochen ZU / 6 Wochen UE seit SanInsFoG): https://www.gesetze-im-internet.de/inso/__15a.html
+- § 15b InsO (rechtsformneutrales Zahlungsverbot bei Insolvenzreife seit 01.01.2021): https://www.gesetze-im-internet.de/inso/__15b.html
+- §§ 17, 18, 19 InsO: https://www.gesetze-im-internet.de/inso/__17.html
+- StaRUG (in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
+- § 91 II AktG (Vorstandspflicht Frueherkennungssystem): https://www.gesetze-im-internet.de/aktg/__91.html
+- § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
+- § 1 StaRUG (Pflicht zur Krisenfrueherkennung seit 01.01.2021): https://www.gesetze-im-internet.de/starug/__1.html
+- IDW S 11 (Beurteilung Insolvenzeroeffnungsgruende): https://www.idw.de/idw/idw-verlautbarungen
+- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

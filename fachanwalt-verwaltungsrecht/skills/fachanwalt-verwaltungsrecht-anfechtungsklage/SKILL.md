@@ -144,7 +144,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Aktuelle Leitentscheidungen Anfechtungsklage
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. Rechtsprechung live über [bverwg.de](https://www.bverwg.de) und [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren — Aktenzeichen nicht aus Modellwissen.
+
+Aktuelle Linien mit Bezug zu Anfechtungsverfahren:
+- BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr — Verifikation [bverwg.de](https://www.bverwg.de/021225U6C1.25.0).
+- BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen.
 
 ## Quellenregel
 

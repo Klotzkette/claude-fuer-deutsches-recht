@@ -250,6 +250,15 @@ Stand: 05/2026. Aktualität bei folgenden Ereignissen prüfen und Skill aktualis
 
 Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
+## Faktische Updates (Stand 05/2026)
+
+- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war fuer 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
+- **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung ueber dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
+- **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Ueberpruefung live pruefen.
+- **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live ueber edpb.europa.eu pruefen.
+- **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger / besonders wichtiger Einrichtungen muessen Cyber-Risiken in der Lieferkette (Art. 21 NIS-2-RL i.V.m. § 30 BSIG n.F.) bei Drittland-Cloud-Diensten zusaetzlich beruecksichtigen; Schnittstelle zu TIA dokumentieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber curia.europa.eu (EuGH) verifizieren.
+
 ## Leitrechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

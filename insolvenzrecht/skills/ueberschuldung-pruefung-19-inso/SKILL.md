@@ -39,36 +39,17 @@ Das SanInsKG verkürzte den Prognosezeitraum krisenbedingt auf vier Monate (befr
 Sonderregel, galt bis 31.12.2023). Seit 01.01.2024 gilt wieder der Regelzeitraum von
 zwölf Monaten. Zum Stichtag 18.05.2026 beträgt der Prognosezeitraum zwölf Monate.
 
-### Rechtsprechung (Pflichtpinpoints)
+### Rechtsprechung (Pflichtpinpoints; Az. und Datum vor Ausgabe über dejure.org / openjur.de verifizieren)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Fortbestehensprognose: Der BGH präzisiert die Anforderungen an die Prognoseentscheidung.
-Die Fortführungsprognose erfordert einen plausiblen, auf nachvollziehbaren Planungsannahmen
-beruhenden Liquiditätsplan. Eine bloße Hoffnung auf künftige Kapitalzuführungen genügt
-nicht; maßgeblich ist die überwiegende Wahrscheinlichkeit der Zahlungsfähigkeitserhaltung
-im Prognosezeitraum. Ab Rn. 12 stellt der Senat klar, dass unrealistische Annahmen zur
-Unternehmensfortführung die Prognose insgesamt entwerten.
+**Fortbestehensprognose:** Anforderungen an die Prognoseentscheidung (st. BGH-Linie): plausibler Liquiditätsplan mit nachvollziehbaren Planungsannahmen erforderlich; bloße Hoffnung auf künftige Kapitalzuführungen genügt nicht; maßgeblich ist überwiegende Wahrscheinlichkeit der Zahlungsfähigkeitserhaltung im Prognosezeitraum (12 Monate seit 01.01.2024). Unrealistische Annahmen entwerten die Prognose insgesamt.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Insolvenzrechtliche Überschuldung: Der Senat bestätigt, dass im Überschuldungsstatus nicht
-die handelsbilanziellen Buchwerte, sondern Liquidations- bzw. Zerschlagungswerte anzusetzen
-sind. Ab Rn. 17 führt der BGH aus, dass bei negativer Fortbestehensprognose auch stille
-Reserven und immaterielle Vermögensgegenstände zu Zerschlagungswerten zu bewerten sind;
-HGB-Ansätze sind insoweit irrelevant.
+**Insolvenzrechtliche Überschuldung:** Im Überschuldungsstatus sind nicht handelsbilanzielle Buchwerte, sondern Liquidations- bzw. Zerschlagungswerte anzusetzen; bei negativer Fortbestehensprognose auch stille Reserven und immaterielle Vermögensgegenstände zu Zerschlagungswerten.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Abgrenzung handelsbilanzieller vs. insolvenzrechtlicher Überschuldung: Eine negative
-Handelsbilanz indiziert zwar eine mögliche insolvenzrechtliche Überschuldung, begründet sie
-aber nicht zwingend. Umgekehrt schließt ein positives Eigenkapital in der Handelsbilanz
-eine insolvenzrechtliche Überschuldung nicht aus, wenn die Vermögensgegenstände zu
-Fortführungswerten überhöht aktiviert sind.
+**Abgrenzung handelsbilanzieller vs. insolvenzrechtlicher Überschuldung:** Negative Handelsbilanz indiziert mögliche insolvenzrechtliche Überschuldung, begründet sie aber nicht zwingend. Positives HGB-Eigenkapital schließt umgekehrt eine insolvenzrechtliche Überschuldung nicht aus, wenn Vermögensgegenstände zu Fortführungswerten überhöht aktiviert sind.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Qualifizierter Rangrücktritt: Nur ein qualifizierter Rangrücktritt, der die Erfüllung der
-Forderung ausdrücklich auf das freie, die sonstigen Verbindlichkeiten übersteigende
-Vermögen beschränkt, bewirkt das Ausscheiden der Forderung aus dem Überschuldungsstatus
-gem. § 19 Abs. 2 Satz 2 InsO. Ein einfacher (nicht qualifizierter) Rangrücktritt genügt
-nicht; die Verbindlichkeit ist dann weiterhin als Passivposten anzusetzen.
+**Qualifizierter Rangrücktritt:** Nur ein qualifizierter Rangrücktritt (Erfüllung beschränkt auf das freie, die sonstigen Verbindlichkeiten übersteigende Vermögen) bewirkt das Ausscheiden aus dem Überschuldungsstatus iSd § 19 Abs. 2 S. 2 InsO. Einfacher Rangrücktritt genügt nicht.
+
+Hinweis: Aktenzeichen und Randnummern der einschlägigen BGH-Entscheidungen (zur Fortbestehensprognose, Liquidationswerten, Rangrücktritt) vor Ausgabe in offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
 
 ### Quellen (nur verifiziert)
 
@@ -244,21 +225,19 @@ Ausgestaltung) erfolgt.
 **Fehler 1 — HGB-Buchwerte statt Liquidationswerte**
 Der häufigste Fehler: Der Überschuldungsstatus wird mit handelsbilanziellen Buchwerten
 erstellt. Das ist unzulässig. Bei negativer Fortbestehensprognose sind ausnahmslos
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+Liquidations- bzw. Zerschlagungswerte anzusetzen (st. BGH-Linie; Az. vor Ausgabe verifizieren). Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle.
 
 **Fehler 2 — Einfacher statt qualifizierter Rangrücktritt bei Gesellschafterdarlehen**
 Ein Gesellschafterdarlehen mit einfachem Rangrücktritt bleibt Passivposten im
 Überschuldungsstatus. Nur der qualifizierte Rangrücktritt (Erfüllung ausschließlich
 aus freiem, die übrigen Verbindlichkeiten übersteigendem Vermögen) führt gem.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+§ 19 Abs. 2 S. 2 InsO zum Ausscheiden aus dem Status (st. BGH-Linie; konkretes Az. vor Ausgabe verifizieren).
 
 **Fehler 3 — Mangelhafte Fortbestehensprognose ohne Plausibilisierung**
 Eine Fortbestehensprognose, die sich auf pauschale Hoffnungen oder ungesicherte
 Finanzierungsabsichten stützt, ist rechtlich wertlos. Erforderlich sind integrierte
 Finanzplanungen mit nachvollziehbaren Annahmen, die einer Plausibilitätsprüfung
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+nach IDW S 11 standhalten (st. BGH-Linie; Az. vor Ausgabe verifizieren).
 
 **Fehler 4 — Pensionsrückstellungen und latente Steuern falsch angesetzt**
 Pensionsrückstellungen sind versicherungsmathematisch (nicht nach HGB-Abzinsung) zu
@@ -280,14 +259,13 @@ vier Monate ist ausgelaufen. Prognosezeitraum-Fehler infizieren die gesamte Prü
 Jede Aussage zu Prüfungsmaßstäben, Bewertungsmethoden oder Rechtsfolgen ist zu belegen.
 Mindeststandard:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Anforderungen Fortbestehensprognose)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Liquidationswerte im Überschuldungsstatus)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Abgrenzung handels- vs. insolvenzrechtliche Überschuldung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (qualifizierter Rangrücktritt)
+- Grundlegende BGH-Linie zu Anforderungen an die Fortbestehensprognose (Plausibilität, Liquiditätsplanung): Aktenzeichen und Datum vor Ausgabe über dejure.org / openjur.de verifizieren.
+- BGH-Linie zur Bewertung im Überschuldungsstatus (Liquidationswerte, stille Reserven): Az. vor Ausgabe verifizieren.
+- BGH-Linie zur Abgrenzung handels- vs. insolvenzrechtliche Überschuldung: Az. vor Ausgabe verifizieren.
+- Grundlegende BGH-Linie zum qualifizierten Rangrücktritt nach § 19 Abs. 2 S. 2 InsO: Az. vor Ausgabe verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** (Steuerberater-Hinweispflicht) und **BGH IX ZR 56/22 vom 29.06.2023** (Drittschutz) relevant für die Berater-Position bei Erstellung der Prognose.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 19 Rn. 10 ff.

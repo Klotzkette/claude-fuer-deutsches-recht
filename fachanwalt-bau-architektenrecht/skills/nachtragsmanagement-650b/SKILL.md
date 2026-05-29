@@ -35,11 +35,15 @@ description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: M
 | § 6 Abs. 2 VOB/B | Bauzeitverlängerung um Behinderungsdauer plus Anlaufzeit |
 | § 6 Abs. 6 VOB/B | Schadensersatz bei Verschulden des Auftraggebers — inkl. entgangener Gewinn |
 
-## Leitentscheidungen
+## Leitentscheidungen (Stand 05/2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Wichtige Linien (jedes Aktenzeichen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Datum und Norm verifizieren):
+
+- BGH VII. Zivilsenat: Mehrvergütung VOB/B § 2 Abs. 5 / Abs. 6 — Tendenz seit 2019 zur Berechnung auf Grundlage der tatsaechlich erforderlichen Kosten zuzueglich angemessener Zuschlaege (Aufgabe einer rein „vorkalkulatorischen" Preisfortschreibung). Konkretes Eckurteil (BGH 08.08.2019) vor Ausgabe ueber bundesgerichtshof.de mit Aktenzeichen verifizieren.
+- BGH zum BGB-Bauvertrag § 650c BGB seit 2018: Berechnung der Mehrverguetung primaer kostenorientiert (tatsaechliche Selbstkosten + AGK + WuG); Wahlrecht des AN auf Urkalkulationsabgleich nur bei nachgewiesenem Auseinanderfallen — vor Ausgabe konkrete Entscheidung verifizieren.
+- Behinderungsanzeige § 6 VOB/B: stehende Rspr. fordert konkrete Behinderungsursache, Beginn und voraussichtliche Dauer; Pauschalhinweis genuegt nicht — OLG-Linien siehe oeffentliche Entscheidungsdatenbanken der OLG (z. B. olg-duesseldorf.nrw.de).
+
+Live-Verifikation Pflicht ueber dejure.org / bundesgerichtshof.de / olg-...nrw.de bzw. die jeweilige Landesjustiz-Datenbank.
 
 ## Prüfschema — Nachtragsanspruch im Überblick
 

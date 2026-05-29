@@ -107,4 +107,11 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. **Strukturwandel CAS-Endgültigkeit:** EuGH, Urt. v. 01.08.2025 — C-600/23 (RFC Seraing) — Nationale Gerichte der EU-Mitgliedstaaten dürfen CAS-Schiedssprüche auf Vereinbarkeit mit Unionsrecht (insbesondere Grundfreiheiten, Wettbewerbsrecht, Grundrechtecharta) inhaltlich überprüfen; die Vermutung der Endgültigkeit von CAS-Sprüchen ist innerhalb der EU eingeschränkt. Verifikation [curia.europa.eu](https://curia.europa.eu/) zu C-600/23.
+
+Strategische Folge für Mandate: Nach CAS-Entscheidung kann je nach Konstellation neben/statt Anfechtung am Schweizerischen Bundesgericht (Art. 190 IPRG) auch ein Vorgehen vor mitgliedstaatlichen Gerichten geprüft werden (Anerkennung/Vollstreckung mit ordre-public-Vorbehalt; selbständige Klage auf Schadensersatz wegen unionsrechtswidriger Sanktion; einstweiliger Rechtsschutz gegen drohende Vollstreckungswirkungen).
+
+- CAS Code — [tas-cas.org](https://www.tas-cas.org)
+- DIS-Sportschiedsgerichtsordnung — [disarb.org](https://www.disarb.org)
+- WADA-Code — [wada-ama.org](https://www.wada-ama.org)
+- Rechtsprechung im Mandat live verifizieren; keine Aktenzeichen aus Modellwissen.

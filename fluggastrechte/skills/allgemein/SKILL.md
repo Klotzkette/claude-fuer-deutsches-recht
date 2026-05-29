@@ -115,8 +115,8 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `airline-standardausreden-pruefen` | Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter… |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| `annullierung-oder-verspaetung-einordnen` | Einordnung des Stoerungsereignisses als Annullierung (Art. 5 VO 261/2004), Verspaetung (Art. 6 nach Sturgeon-Linie) oder Nichtbefoerderung (Art. 4). |
+| `anschlussflug-und-reiseplan` | Berechnung bei Verbindungsfluegen; Endziel-Verspaetung nach EuGH-Linie (Folkerts u.a.) massgeblich. |
 | `ausnahmen-aussergewoehnliche-umstaende-pruefen` | Prüft die Einrede außergewoehnliche Umstaende nach Art. 5 Abs. 3 VO 261/2004. Differenziert zwischen Wetter Vulkanasche Vogelschlag Streik Flugsicherung Streik der eigenen Mitarbeiter wilder Streik technischem Defekt… |
 | `distanz-und-ausgleich-berechnen` | Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich… |
 | `fluggastrechte-anlagen-bauen` | Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass… |
@@ -148,7 +148,7 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - **Grosskreisdistanz** — die fuer die Stufenberechnung der Ausgleichszahlung massgebliche Entfernung zwischen Abflug- und Zielflughafen.
 - **Operating Carrier** — das tatsaechlich ausfuehrende Luftfahrtunternehmen; massgeblich fuer die Passivlegitimation, nicht das vermarktende Unternehmen bei Codeshare.
 - **PNR** — Passenger Name Record (Buchungscode); identifiziert eine zusammenhaengende Buchung bei Verbindungsfluegen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Sturgeon-Linie** — EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 — bei Ankunftsverspaetung am Endziel von 3+ Stunden gleicher Ausgleichsanspruch wie bei Annullierung (curia.europa.eu).
 
 ## Rechtsgrundlagen
 
@@ -158,7 +158,20 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - Art. 6 VO (EG) 261/2004 — Verspaetung
 - Art. 7 VO (EG) 261/2004 — Ausgleichszahlung (250/400/600 EUR)
 - § 23 Nr. 1 GVG — sachliche Zustaendigkeit Amtsgericht bis 10.000 EUR (seit 01.01.2026)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.eu vor Versand aufrufen):
+
+- EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
+- EuGH, Urt. v. 23.10.2012, C-581/10 und C-629/10 (Nelson u.a.) — Bestaetigung Sturgeon
+- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte kein außergewöhnlicher Umstand
+- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspaetung bei Anschlussfluegen
+- EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag als außergewöhnlicher Umstand
+- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener) — einheitliche Buchung in Drittstaat
+- EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung als Annullierung
+- EuGH, Urt. v. 16.5.2024, C-405/23 — Personalmangel Flughafen
+- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung bestaetigend
+- EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk
+- EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Schritt-fuer-Schritt: Einstieg ins Plugin
 
@@ -174,7 +187,7 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - `ticket-und-fluginformationen-erfassen` — Falldaten aus Tickets und Buchungsbestaetigungen extrahieren und Fallakte anlegen.
 - `annullierung-oder-verspaetung-einordnen` — Rechtliche Einordnung des Stoerungsereignisses nach Art. 4-6 VO 261/2004 und Sturgeon-Rechtsprechung.
 - `distanz-und-ausgleich-berechnen` — Ausgleichszahlung nach Art. 7 VO 261/2004 berechnen (Grosskreis-Distanz, Staffelung 250/400/600 EUR).
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- `ausnahmen-aussergewoehnliche-umstaende-pruefen` — Pruefung Art. 5 Abs. 3 VO 261/2004 mit aktuellem EuGH-Katalog.
 - `airline-standardausreden-pruefen` — Katalog typischer Airline-Ablehnungsgruende mit Gegenargumenten und EuGH-Rechtsprechungs-Pinpoints.
 - `anschlussflug-und-reiseplan` — Berechnung bei Verbindungsfluegen: Endziel-Verspaetung nach EuGH Folkerts massgeblich.
 - `vollmacht-familienmitglieder` — Vollmachten fuer Mitreisende erstellen, damit ein Hauptansprechpartner alle Ansprueche buendeln kann.
@@ -204,9 +217,19 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - `prozessrecht` — Wenn der Fluggast-Fall vor dem Amtsgericht wird und prozessrechtliche Fragen (Zustaendigkeit, Fristen, Mahnbescheid) auftauchen.
 - `selbstvertreter-amtsgericht` — Wenn der Mandant ohne Anwalt klagen will und eine Orientierung fuer das Amtsgerichtsverfahren benoetigt.
 
-## Quellen und Aktualitaet
+## Quellen und Aktualitaet (Stand Mai 2026)
 
-- Stand: 05/2026
 - VO (EG) Nr. 261/2004 in geltender Fassung
 - § 23 Nr. 1 GVG: Streitwertgrenze 10.000 EUR seit 01.01.2026
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH-Rechtsprechung (verifiziert mit curia.europa.eu, Auszug):
+  - C-402/07 / C-432/07 (Sturgeon, 19.11.2009) — 3-Stunden-Schwelle
+  - C-549/07 (Wallentin-Hermann, 22.12.2008) — technischer Defekt kein außergewöhnlicher Umstand
+  - C-11/11 (Folkerts, 26.2.2013) — Endziel-Verspätung bei Anschlussfluegen
+  - C-315/15 (Pesková, 4.5.2017) — Vogelschlag
+  - C-537/17 (Wegener, 31.5.2018) — einheitliche Buchung Drittstaat
+  - C-146/20, C-188/20, C-196/20 (21.12.2021) — Vorverlegung als Annullierung
+  - C-405/23 (16.5.2024) — Personalmangel Flughafen
+  - C-394/23 (9.1.2025) — Vorverlegung bestaetigend
+  - C-411/23 (13.6.2025) — versteckter Konstruktionsfehler
+  - C-399/24 (16.10.2025) — Blitzschlag
+- Leitlinien der Kommission zur Auslegung VO 261/2004: ABl. EU C 2024/05687

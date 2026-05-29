@@ -80,8 +80,13 @@ Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeep
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Faktische Updates (Stand 05/2026)
+
+- **Designation-Liste:** Aktuelle Liste der designierten Gatekeeper und ihrer Kernplattformdienste live ueber digital-markets-act.ec.europa.eu/gatekeepers_en pruefen. Stand 2026: mehrere Big-Tech-Konzerne designiert, jeweils fuer einen oder mehrere Kernplattformdienste (Suchmaschinen, App-Stores, Videoplattformen, soziale Netzwerke, Messenger, Online-Vermittlung, Werbedienste, Browser, Betriebssysteme).
+- **Erste Sanktionsverfahren:** Kommission hat seit 2024 mehrere Nichteinhaltungs-Untersuchungen gegen Gatekeeper eroeffnet (insb. zu Anti-Steering Art. 5 Abs. 4, Self-Preferencing Art. 6 Abs. 2, Sideloading Art. 6 Abs. 4). Aktuelle Pressemitteilungen und Entscheidungen live ueber ec.europa.eu/competition pruefen.
+- **EuG-/EuGH-Klagen Art. 263 AEUV:** Designation-Beschluesse und Compliance-Anordnungen werden von Gatekeepern angefochten. Konkrete Aktenzeichen und Verfahrensstand live ueber curia.europa.eu pruefen (Suche "DMA" / "Digital Markets Act").
+- **Schnittstelle Art. 19a GWB:** § 19a GWB (besondere Missbrauchsaufsicht gegenueber Marktbeherrschern mit ueberragender marktuebergreifender Bedeutung) bleibt parallel anwendbar; BKartA-Beschluesse zu Verfuegungen nach § 19a GWB live ueber bundeskartellamt.de pruefen.
 
 ## Zentrale Normen (Paragrafenkette)
 

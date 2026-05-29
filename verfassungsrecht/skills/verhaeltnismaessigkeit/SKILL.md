@@ -86,15 +86,17 @@ Bei Eingriff in ein vorbehaltlos gewährtes Grundrecht und kollidierendem Verfas
 
 ### Klimaschutz und intertemporale Freiheitssicherung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+BVerfG, Beschl. v. 24.03.2021 — 1 BvR 2656/18 u. a. (Klimabeschluss) — Schutzauftrag aus Art. 20a GG; eingriffsähnliche Vorwirkung gegenwärtiger Untätigkeit auf künftige Freiheitsräume; Maßstab der intertemporalen Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html). EGMR-Linie ergänzend: KlimaSeniorinnen gegen Schweiz, Urt. v. 09.04.2024 — Bf-Nr. 53600/20 (Verletzung Art. 8 EMRK durch unzureichende Klimamaßnahmen) — [hudoc.echr.coe.int](https://hudoc.echr.coe.int).
 
 ### Triage
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung zur "Triage" (Pandemie-Priorisierung) live über [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren — keine Aktenzeichen aus Modellwissen. Methodisch zentral: Verhältnismäßigkeit von Schutzpflichten aus Art. 3 Abs. 3 S. 2 GG (Verbot der Benachteiligung wegen Behinderung) und Art. 2 Abs. 2 S. 1 GG.
 
-### Online-Durchsuchung / IT-Grundrecht
+### Online-Durchsuchung / IT-Grundrecht / Quellen-TKÜ
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 2466/19 (Trojaner I) — präventiv-polizeirechtliche Quellen-TKÜ und Online-Durchsuchung nach PolG NRW im Wesentlichen verfassungskonform — vor Ausgabe live verifizieren.
+- BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II) — strafprozessuale Quellen-TKÜ für Niedrig-Strafrahmen teilweise nichtig.
+- BVerfG, Beschl. v. 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwelle für längerfristige Observation mit Bildaufnahmen.
 
 ## Output-Format
 

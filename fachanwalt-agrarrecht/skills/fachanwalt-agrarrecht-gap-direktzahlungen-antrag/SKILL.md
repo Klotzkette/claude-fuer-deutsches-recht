@@ -28,9 +28,11 @@ Die Direktzahlung setzt Einhaltung der **9 GLOEZ-Standards** voraus (Anhang III 
 - **GLOEZ 4**: Gewaesserrandstreifen 3 m
 - **GLOEZ 5**: Erosionsschutz Hanglagen
 - **GLOEZ 6**: Mindestbodenbedeckung Winter
-- **GLOEZ 7**: Fruchtwechsel
-- **GLOEZ 8**: Mindestanteil 4 % nicht-produktive Flächen (seit 2024 Aussetzung teilweise)
+- **GLOEZ 7**: Fruchtwechsel (durch VO (EU) 2024/1468 — GAP-Vereinfachungsverordnung — geänderter Ausnahmekatalog ab Antragsjahr 2025)
+- **GLOEZ 8**: Mindestanteil nicht-produktiver Flächen (durch GAP-Vereinfachungsverordnung 2024 abgesenkt/teilweise als Öko-Regelung in die freiwillige Förderung verschoben — länderspezifisch ab 2025)
 - **GLOEZ 9**: Verbot Landschaftselement-Beseitigung
+
+**Anpassungen ab Antragsjahr 2025/2026:** Umverteilungs-Mittel an die 2. Säule der GAP steigen stufenweise — 2025: 12,5 %, 2026: 15 %. Eco-Schemes wurden mit dem Antragsjahr 2025 vereinfacht; je Bundesland und Antragsjahr Einheitsbeträge (Bekanntmachung BMLEH vom 21.08.2025 für 2025). Verifikation der konkreten Einheitsbeträge im laufenden Mandat über [bmleh.de](https://www.bmleh.de/DE/themen/landwirtschaft/eu-agrarpolitik-und-foerderung/direktzahlung/direktzahlungen.html).
 
 ## 3) Antragsfristen und Präklusion
 

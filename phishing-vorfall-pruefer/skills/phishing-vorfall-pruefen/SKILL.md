@@ -118,8 +118,14 @@ Wenn eine Beispielakte genannt ist, kann das Skript mit einer passenden JSON-Dat
 python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/phishing-vorfall-mayer-sparkasse-berlin/08_case_gate_input.json
 ```
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+- BGH 22.07.2025 — XI ZR 107/24 (XI. Zivilsenat): Bei Phishing-Anruf und Weitergabe mehrerer TANs an unbekannten Anrufer kann grobe Fahrlässigkeit des Zahlers nach § 675v Abs. 3 Nr. 2 BGB (a. F.) bejaht werden; ein "Augenblicksversagen" kann die Schwere des Verschuldens im Einzelfall mindern. Die Verletzung von Pflichten zur starken Kundenauthentifizierung durch den Zahlungsdienstleister bei frueheren Vorgaengen (z. B. erstmaliges Login) kann ueber § 254 BGB zur anteiligen Kuerzung der Schadenersatzpflicht des Zahlers fuehren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=22.07.2025&Aktenzeichen=XI+ZR+107/24
+- BGH 20.05.2025 — XI ZR 22/24 (XI. Zivilsenat): Pflichten der Bank zur Erkennung anomaler Transaktionsmuster im Phishing-Kontext. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.05.2025&Aktenzeichen=XI+ZR+22/24
+- BGH 03.06.2025 — XI ZR 45/24: Authentifizierungsprotokoll und Beweiswert nach § 675w BGB. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=03.06.2025&Aktenzeichen=XI+ZR+45/24
+- BGH 21.10.2025 — XI ZR 133/24: Online-Banking-Authentifizierung und Anwendungsbereich des § 675v BGB. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.10.2025&Aktenzeichen=XI+ZR+133/24
+
+Weitere Entscheidungen vor Ausgabe live in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren. PSD3-Entwurf (Payment Services Regulation, COM(2023)367) befindet sich noch im EU-Gesetzgebungsverfahren; Stand bei Verwendung aktuell prüfen.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 675u BGB — Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang
@@ -127,6 +133,7 @@ python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/
 - § 675w BGB — Nachweis der Authentifizierung und Autorisierung
 - § 675l BGB — Pflichten des Zahlers zum Schutz personalisierter Sicherheitsmerkmale
 - PSD2-RL (EU 2015/2366) — Zahlungsdiensterichtlinie; in BGB umgesetzt
+- PSD3-Vorhaben (Payment Services Regulation, COM(2023)367) und Payment Services Directive 3 — Stand des Gesetzgebungsverfahrens vor Verwendung pruefen
 
 ## Quellenregel
 

@@ -43,9 +43,10 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenvermerk und Außenkommunikation. Bei echten Mandatsdaten sind Berufsgeheimnis, Datenschutz und Kanzleifreigaben zwingend zu beachten.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 114/23 vom 19.12.2024** — Anforderungen an Individualisierung und Anmeldung bei Abtretung. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+- Konkrete BGH-Linie zu § 184 InsO (Schuldnerwiderspruch, Klagebefugnis) und zur Vorsatzfeststellung iSd § 302 Nr. 1 InsO vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette (Kernbereich)
 
@@ -57,7 +58,7 @@ Bevor losgelegt wird, klaere:
 1. **Pruefungstermin-Datum?** § 176 InsO — Ladungsfrist 7 Tage; Tabelle vollstaendig vor Termin.
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend fuer Zahlungsreihenfolge.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. **Vorsatz-Tatbestand benannt?** Für § 302 Nr. 1 InsO ausdrücklich Tatbestand der vorsätzlich unerlaubten Handlung in der Anmeldung benennen. Schuldnerwiderspruch nach § 184 InsO innerhalb der Frist klären.
 
 ## Quellenregel
 

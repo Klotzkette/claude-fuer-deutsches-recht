@@ -58,9 +58,11 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - §§ 16 bis 19 InsO
 - § 26 InsO
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 129/22 vom 18.04.2024** — Bei Liquiditätsstatus im Eröffnungsgutachten: Verwalter muss konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH II ZR 206/22 vom 23.07.2024** — Bei Sachverhaltsaufnahme mit Wechsel der Geschäftsleitung: fortwirkende Haftung des ausgeschiedenen GF in Anfechtungs- und Haftungsprüfungen berücksichtigen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- IDW S 11 als Methodik-Standard für Liquiditätsstatus und Fortbestehensprognose (Prognosezeitraum 12 Monate seit 01.01.2024).
 
 ## Paragrafenkette Insolvenzverwaltung
 

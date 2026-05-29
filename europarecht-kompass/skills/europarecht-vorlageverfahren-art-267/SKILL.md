@@ -59,7 +59,12 @@ Bevor losgelegt wird, klaere:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Klassische Anker zur Vorlagedogmatik (vor Verwendung über [curia.europa.eu](https://curia.europa.eu/) im Volltext nachschlagen):
+
+- EuGH, Urt. v. 06.10.1982 — Rs. 283/81 (CILFIT) — Acte-clair-Doktrin; Voraussetzungen für Verzicht auf Vorlage durch letztinstanzliches Gericht.
+- EuGH, Urt. v. 06.10.2021 — C-561/19 (Consorzio Italian Management) — Präzisierung CILFIT; strenge Begründungsanforderung.
+- EuGH, Urt. v. 09.09.2015 — C-160/14 (Ferreira da Silva) — Vorlagepflicht trotz innerstaatlich divergierender Entscheidungen.
+- Aktuelle Linie 2025/2026 zu Vorlagepflicht und Staatshaftung wegen Vorlageverstoßes im Mandat live verifizieren.
 
 ## Normen-Kette Vorlageverfahren
 

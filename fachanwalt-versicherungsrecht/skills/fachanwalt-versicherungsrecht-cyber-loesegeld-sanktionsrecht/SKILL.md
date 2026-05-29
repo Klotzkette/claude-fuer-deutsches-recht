@@ -45,12 +45,19 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 - **§ 89c StGB** — Terrorismusfinanzierung (bei OFAC-gelisteten Gruppen: Hamas, Lazarus Group / Nordkorea, Hizballah).
 - **§ 18 AWG** — Strafrechtliche Sanktionsverletzung bei Zahlung an SDN-gelistete Empfänger.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
+Verifizierte Anker (Volltext vor Versand in offener Quelle aufrufen):
+
+| Gericht | Aktenzeichen / Quelle | Datum | Kernaussage |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-| US: Travelers Ins. v. Universal Health | — | 2023 | Sanctions Exclusion; US-Gericht zur Wirksamkeit Ausschlussklausel |
+| BGH IV. ZS | IV ZR 32/24 (juris.bundesgerichtshof.de) | 12.3.2025 | Klauselersetzung nach Intransparenz unzulässig (übertragbar auf Cyber-AVB-Anpassungen) |
+| BGH VI. ZS | VI ZR 183/22 (juris.bundesgerichtshof.de) | 28.1.2025 | DSGVO-Schadensersatz hat nur Ausgleichs-, keine Straffunktion (relevant für Cyber-Schadensersatz Drittansprüche) |
+| EuGH | C-300/21 (curia.europa.eu) | 4.5.2023 | Art. 82 DSGVO setzt konkret nachgewiesenen Schaden voraus |
+| OFAC SDN-Liste | sanctionssearch.ofac.treas.gov | laufend | US-Sanktionsliste; bei Match Zahlung verboten |
+| EU-Sanktionsliste | sanctionsmap.eu | laufend | EU-Sanktionen; VO (EU) 269/2014, 833/2014, MiCA-Begleitregelung |
+
+Konkrete BGH-Rechtsprechung zu Cyber-AVB ist bisher dünn; OLG-Entscheidungen vor Versand in openjur.de oder nrwe.de prüfen.
 
 ## Prüfschema in Tabellenform
 
@@ -69,7 +76,7 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 | 8 | BSI/LKA informiert? | § 8b BSIG; Polizei | Pflicht bei KRITIS; ggf. rechtfertigend für Zahlung |
 | 9 | Lösegeldzahlung strafbar § 261 StGB? | § 261 StGB | Vortat Erpressung: Vortatanknüpfung ja; Strafbarkeit bei Leichtfertigkeit |
 | 10 | § 89c StGB Terrorismusfinanzierung? | § 89c StGB | Bei OFAC-gelisteten Terrorgruppen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 11 | DSGVO-Meldepflichten und mögliche Drittansprüche geprüft? | Art. 33, 34, 82 DSGVO | Meldefristen 72 Stunden Aufsichtsbehörde; Schadensersatz nach Art. 82 nur bei konkretem Schaden (EuGH C-300/21) |
 | 12 | Grob fahrlässige Herbeiführung § 81 VVG? | § 81 VVG | Sicherheitspflichten verletzt? Kein Backup? |
 | 13 | Deckungsklage LG-Sitz des Versicherers? | § 215 VVG; § 71 GVG | LG bei Streitwert ab EUR 10000 |
 | 14 | Parallele Strafverteidigung nötig? | §§ 17, 18 AWG; § 261 StGB | Bei Zahlung an SDN: sofort Strafverteidiger |

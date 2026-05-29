@@ -344,8 +344,12 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- VwGO §§ 42, 80, 80a, 113, 146, 172
-- VwVfG §§ 28, 39, 80
-- GKG § 52; RVG Nr. 3100 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026.
+
+- VwGO §§ 42, 80, 80a, 113, 146, 172 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/)
+- VwVfG §§ 28, 39, 80 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwvfg/)
+- GKG § 52; RVG Nr. 3100 ff. — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gkg_2004/)
+- BVerwG, Beschlussdatenbank — [bverwg.de](https://www.bverwg.de)
+- BVerfG (für Verhältnismäßigkeits- und Folgenabwägungslinie) — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
+- Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.

@@ -23,9 +23,11 @@ description: "Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagess
 - **§ 43 StGB** — Ersatzfreiheitsstrafe: 1 Tag pro Tagessatz, mind. 1 Tag
 - **§ 459d StPO** — Uneinbringlichkeit der Geldstrafe: Vollstreckungsgericht entscheidet
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 15.07.2025 — 2 StR 644/24: KCanG-Strafzumessung — die gesetzliche Wertung des § 1 Nr. 8 ff. KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen; das wirkt auch auf die Tagessatzhoehe und die Anzahl der Tagessaetze bei Cannabisvorwurf. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- BGH (GSSt) 03.02.2025 — GSSt 1/24: Sanktionsfreie Eigenkonsummengen sind aus der Einziehung herauszunehmen — relevant fuer die Bemessung in KCanG-Strafbefehlen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Hinweis: Eine aktuelle BGH-Leitentscheidung 2025/2026 zu § 40 StGB / Tagessatzbemessung im Strafbefehl ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 40 StGB Tagessatzhoehe Nettoeinkommen" durchführen.
 
 ## Quellenregel
 

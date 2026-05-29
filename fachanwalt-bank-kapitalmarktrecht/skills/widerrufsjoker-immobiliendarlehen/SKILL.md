@@ -47,29 +47,29 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 
-| Prüfpunkt | Fehlerkonstellation | BGH-Entscheidung | Folge |
+| Prüfpunkt | Fehlerkonstellation | BGH-Entscheidung (Volltext in offener Quelle vor Versand verifizieren) | Folge |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Belehrung "frühestens"-Klausel | "Frist beginnt frühestens mit Erhalt dieser Belehrung" | XI. ZS BGH-Linie zur Intransparenz der "frühestens"-Formulierung — Aktenzeichen, Datum und Randnummer aus juris.bundesgerichtshof.de oder dejure.org einsetzen | Belehrung unwirksam, Widerrufsfrist beginnt nicht |
+| Belehrung verbundenes Geschäft | Fehlende Pflichtangaben zum verbundenen Geschäft / Restschuldversicherung | XI. ZS BGH-Linie (Aktenzeichen und Randnummer aus offener Quelle einsetzen) | Belehrung unwirksam, Widerrufsfrist beginnt nicht |
+| Vorfälligkeitsentschädigungs-Klausel | Intransparente AGB-Klausel zur Vorfälligkeitsentschädigung | BGH XI ZR 22/24, Urt. v. 20.5.2025 — Verlust des Anspruchs auf Vorfälligkeitsentschädigung (juris.bundesgerichtshof.de) | Bank verliert VFE-Anspruch; Rückzahlung gezahlter VFE |
+| Wertpapierprämiensparen Referenzzins | Unzureichende Begründung der Referenzzinsanpassung | BGH XI ZR 133/24, Urt. v. 21.10.2025 — Folgeurteil zum Referenzzins (bundesgerichtshof.de PM Nr. 225/2025) | Nachberechnung Zinsen |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Fehlerhafter Wortlaut:**
+**Fehlerhafter Wortlaut (Beispiel "Kaskadenverweisung"):**
 > "Die Frist beginnt frühestens mit Erhalt dieser Belehrung."
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+EuGH, Urt. v. 26.3.2020, C-66/19 ("Kreissparkasse Saarlouis") — Widerrufsbelehrung mit Kaskadenverweisung auf nationale Vorschriften unzulässig (curia.europa.eu).
 
 **Korrekter Wortlaut:** "Die Frist beträgt 14 Tage. Sie beginnt mit Abschluss des Vertrages, wenn dem Darlehensnehmer bei Vertragsschluss eine Widerrufsbelehrung ausgehändigt worden ist, die ..."
 
 ## Verwirkung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verwirkungs-Linie XI. ZS des BGH (konkrete Aktenzeichen, Datum und Randnummer vor Versand in offener Quelle — juris.bundesgerichtshof.de oder dejure.org — verifizieren).
 
 Verwirkung erfordert:
 1. **Zeitmoment**: erheblicher Zeitablauf seit möglichem Widerruf
 2. **Umstandsmoment**: Vertrauen der Bank in Fortbestand des Vertrages durch Verhalten des Schuldners (z.B. Sondertilgungen, Neuvertrag, Ablösung mit Darlehen derselben Bank)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Beide Voraussetzungen müssen kumulativ vorliegen. Bei laufendem, ungestörtem Vertrag ohne Vertrauensbildung beim Gläubiger ist Verwirkung typischerweise zu verneinen (st. Rspr. XI. ZS — Aktenzeichen, Datum aus offener Quelle).
 
 ### Praxisbeurteilung
 
@@ -90,7 +90,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Was die Bank zurückgibt:**
 - Alle geleisteten Zahlungen (Zinsen + Tilgung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Nutzungsentschädigung (typisch 5 Prozentpunkte über Basiszinssatz; konkrete Aktenzeichen-Linie XI. ZS des BGH vor Versand verifizieren in juris.bundesgerichtshof.de)
 
 ### Berechnung des wirtschaftlichen Vorteils
 

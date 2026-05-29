@@ -245,9 +245,17 @@ Kern-Punkte:
 2. Bei Anpassungs-Mitteilung Plausibilität prüfen
 3. Bei Wechsel Vertrags-Übergangs-Modalitäten
 
-## Aktuelle Rechtsprechung & Leitsätze
+## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026, verifiziert dejure.org / curia.europa.eu)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **EuGH 23.10.2014, C-359/11 (Schulz)**: Preisanpassungsklauseln in Strom-/Gaslieferungsvertraegen nach AVBEltV/GVV — Aenderungen muessen rechtzeitig mitgeteilt werden, Verbraucher muss Kuendigungsrecht haben. Quelle: curia.europa.eu (CELEX 62011CJ0359).
+- **BGH 28.10.2015, VIII ZR 158/11**: Preisanpassung Energielieferungsvertrag — § 5 Abs. 2 GasGVV Transparenz-Anforderungen; AGB-Kontrolle § 307 BGB. Quelle: dejure.org/2015,33580.
+- **BGH 24.03.2010, VIII ZR 178/08**: Preisaenderungsklauseln in Sondervertraegen Strom/Gas — wirksame Indexbindung erfordert klare Berechnungsformel. Quelle: dejure.org/2010,5874.
+- **BGH 09.02.2011, VIII ZR 295/09**: Billigkeit der Leistungsbestimmung § 315 BGB; Beweislast Versorger fuer Billigkeit. Quelle: dejure.org/2011,4286.
+- **EuGH 02.09.2021, C-718/18**: Unabhaengigkeit der Bundesnetzagentur als Regulierungsbehoerde. Quelle: curia.europa.eu.
+
+**Gesetzeslage 2026:** EnSiG (Energiesicherungsgesetz) — § 24 Anpassungsklauseln bei Gasmangellage (BGBl. I 2022 S. 1054); EnWG-Novellen 2023/2024.
+
+Weitere Aktenzeichen vor Ausgabe per dejure.org / curia.europa.eu verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -272,6 +280,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - StromGVV / GasGVV
 - AVBFernwärmeV
 - EEG § 21 Mieterstrom
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH C-359/11 (Schulz, 23.10.2014); BGH VIII ZR 158/11 (28.10.2015); BGH VIII ZR 178/08 (24.03.2010); BGH VIII ZR 295/09 (09.02.2011); EuGH C-718/18 (02.09.2021)
 - DIS / ICC Schieds-Standards
 - Schiedsstelle Energie

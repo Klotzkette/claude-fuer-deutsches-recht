@@ -34,11 +34,17 @@ description: "Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB st
 - **§ 181 GWB** — Schadensersatz bei schuldhafter Verletzung vergaberechtlicher Vorschriften; Ersatz des Vertrauensschadens (Angebotskosten); Erfüllungsinteresse nur bei nachgewiesener Auftragschance.
 - **§ 182 GWB** — Kosten des VK-Verfahrens; Gebühr 2500–50000 EUR; Unterliegender trägt Kosten.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand 05/2026, verifiziert openjur / OLG-Datenbanken)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---|---|---|---|---|
+| EuGH | C-292/15 (Hoersch Auto) | 27.10.2016 | Vergabe oeffentlicher Liefer-/Dienstleistungen unterhalb der Schwellenwerte: Transparenz- und Diskriminierungsverbot bei „grenzueberschreitendem Interesse" | curia.europa.eu (Akte C-292/15) |
+| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Auslegung VO 2014/24/EU: Ausschluss wegen Falschangaben — Verhaeltnismaessigkeit; nationale Behoerde muss konkrete Wuerdigung vornehmen | curia.europa.eu |
+| EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstossen § 124 GWB / Art. 57 RL 2014/24: ein einzelner Verstoss reicht; Beurteilung obliegt AG | curia.europa.eu |
+| OLG Duesseldorf, Vergabesenat | Verg laufende Senatsentscheidungen — vor Ausgabe verifizieren | 2023–2025 | Ruegeprueclusion § 160 Abs. 3 GWB; konkrete Anforderungen an Rueginhalt | olg-duesseldorf.nrw.de |
+| OLG Karlsruhe | 15 Verg (laufende Senatsrspr.) | 2023–2025 | Antragsbefugnis und drohender Schaden bei ausgeschlossenem Bieter | landesrecht-bw.de / openjur.de |
+
+Konkrete Aktenzeichen aktueller OLG-Vergabesenat-Entscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / openjur.de / landesrecht.[bundesland].de verifizieren. EuGH-Entscheidungen ueber curia.europa.eu mit Aktenzeichen, Datum und Tenor.
 
 ## Prüfschema in Tabellenform
 
@@ -260,9 +266,18 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 - `fachanwalt-vergaberecht-eignungspruefung` — Eignungsmangel Konkurrent
 - `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` — Spezial-IT-Vergabe
 
-## Quellen
+## Quellen (Stand 05/2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- GWB §§ 97 ff., 99–101, 106, 122–127, 134, 135, 155 ff. (Nachpruefungsverfahren)
+- VgV — Vergabeverordnung in der jeweils geltenden Fassung
+- SektVO — Sektorenverordnung
+- KonzVgV — Konzessionsvergabeverordnung
+- VO (EU) 2014/24 (Vergabe oeffentlicher Auftraege)
+- VO (EU) 2022/1031 (International Procurement Instrument — IPI) — seit 29.08.2022 anwendbar; eu-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R1031
+- VO (EU) 2023/1441 — Aktualisierung Schwellenwerte
+- EuGH-Datenbank: curia.europa.eu (Volltext mit Aktenzeichen)
+- OLG-Vergabesenate: oeffentliche Entscheidungsdatenbanken der Landesjustiz (olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de etc.)
+- BKartA — Vergabekammer des Bundes: bundeskartellamt.de/Vergabe
 
 ## Vertiefung: Triage und Output-Template Nachpruefungsantrag
 

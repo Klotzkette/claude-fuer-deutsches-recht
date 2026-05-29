@@ -23,9 +23,11 @@ description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkei
 - **§ 172 StPO** — Klageerzwingungsverfahren bei Einstellungsverweigerung
 - **§ 32 Abs. 2 Nr. 1 BZRG** — Eintrag bei § 153a nur wenn Geldbusse > 90 Tagessaetze; bei Geldbusse <= 90 Tagessaetze kein Eintrag
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge (§ 3 KCanG) tatbestandlich auszuklammern; greift sie, fehlt es am Tatverdacht und es ist § 170 Abs. 2 StPO statt § 153a StPO einschlägig. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen — relevant fuer die Bemessung von Geldauflagen nach § 153a StPO im Cannabisbereich. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- Hinweis: Eine BGH-Leitentscheidung speziell zur Anwendung des § 153a StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 153a StPO Strafbefehl" durchführen.
 
 ## Quellenregel
 

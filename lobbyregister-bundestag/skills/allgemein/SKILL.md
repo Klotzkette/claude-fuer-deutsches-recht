@@ -319,6 +319,8 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
-- Lobbyregistergesetz (LobbyRG) in der geltenden Fassung
+- Lobbyregistergesetz (LobbyRG) in der Fassung nach dem Aenderungsgesetz vom 15.01.2024 (in Kraft 01.03.2024). Wesentliche Neuerungen: Adressatenkreis ab Referatsleiterebene; konkrete Angabe der Regelungsvorhaben und betroffenen Bereiche; Upload-Pflicht fuer Stellungnahmen und Gutachten von grundsaetzlicher Bedeutung; Uebergangsfrist Bestandseintraege 01.03.2024 bis 30.06.2024.
+- Konsolidierte Fassung LobbyRG 2024: https://www.bundestag.de/resource/blob/991838/Konsolidierte-Fassung-LobbyRG-2024.pdf
 - Handbuch der registerfuehrenden Stelle des Deutschen Bundestags
-- Lobbyregister-Portal: www.lobbyregister.bundestag.de
+- Bundestag Hinweise zur Rechtslage ab 01.03.2024: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-zur-neuen-rechtslage-ab-dem-1-maerz-2024-955618
+- Lobbyregister-Portal: https://www.lobbyregister.bundestag.de

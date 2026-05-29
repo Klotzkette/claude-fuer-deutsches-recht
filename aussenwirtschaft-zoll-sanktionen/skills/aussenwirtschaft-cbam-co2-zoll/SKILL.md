@@ -54,18 +54,29 @@ Dieser Skill strukturiert CBAM-Pflichten seit dem definitiven Zeitraum und trenn
 
 Kläre vor der Pruefung:
 
-1. Handelt es sich um CBAM-Pflichtware — Zement, Aluminium, Duenger, Eisen/Stahl, Strom, Wasserstoff (ab 2026 Erweiterungen)?
-2. Wer ist CBAM-Anmelder (EU-Importeur oder indirekter Zollvertreter)?
-3. Liegt ein Zertifikat eines akkreditierten Pruefstelle fuer die eingebetteten Emissionen des Drittlandsherstellers vor?
-4. Handelt es sich um die Ubergangszeitraum-Berichtspflicht (2023-2025) oder die Vollpflicht ab 2026?
+1. Handelt es sich um CBAM-Pflichtware — Zement, Aluminium, Duenger, Eisen/Stahl, Strom, Wasserstoff?
+2. Wer ist CBAM-Anmelder (zugelassener CBAM-Anmelder ab Definitivphase Pflicht; vorher EU-Importeur oder indirekter Zollvertreter)?
+3. Liegt ein Zertifikat einer akkreditierten Pruefstelle für die eingebetteten Emissionen des Drittlandsherstellers vor?
+4. Mengenrelevanz: Liegt die Einfuhr über der De-minimis-Schwelle von 50 Tonnen jährlich (ab Definitivphase 2026)?
 5. Besteht ein Karbonpreismechanismus im Ursprungsland, der auf CBAM-Abgaben angerechnet werden kann?
+
+## Aktualität CBAM Definitivphase
+
+Stand 05/2026:
+
+- **Definitivphase seit 01.01.2026:** Wer über 50 t/Jahr CBAM-pflichtige Waren einführt, muss Status "zugelassener CBAM-Anmelder" besitzen. Ca. 90 % der Importeure fallen damit aus dem Anwendungsbereich; ca. 99 % der grauen Emissionen werden weiterhin erfasst.
+- **Zollanmeldung:** Dokumentcode für Status (unter Schwelle / zugelassen / Antrag gestellt) bei Einfuhrzollanmeldung pflichtig.
+- **Zertifikatserwerb** ab 01.02.2027 möglich.
+- **Erste verbindliche CBAM-Erklärung:** Abgabe bis 30.09.2027 für alle CBAM-relevanten Einfuhren des Jahres 2026.
+- **Sanktionen:** Sanktionsmechanismus für nicht abgegebene/abgegebene Zertifikate bei verspäteter Erklärung — vor Mandantenberatung tagesaktuell über [taxation-customs.ec.europa.eu](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en) und [zoll.de CBAM](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Schutz-der-Umwelt/CO2-Grenzausgleichssystem-CBAM/co2-grenzausgleichssystem-cbam_node.html) verifizieren.
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Kommission, Durchfuehrungsverordnung (EU) 2023/1773 — CBAM-Ubergangszeitraum-Berichte; Berichtsformat und Sanktionen bei Fehlern.
+Rechtsprechung im Mandat live verifizieren über [curia.europa.eu](https://curia.europa.eu/) — keine Aktenzeichen aus Modellwissen.
+
+- VO (EU) 2023/956 (CBAM-Grundverordnung) — [EUR-Lex 32023R0956](https://eur-lex.europa.eu/eli/reg/2023/956/oj)
+- DurchführungsVO (EU) 2023/1773 — CBAM-Übergangszeitraum 2023-2025 — [EUR-Lex 32023R1773](https://eur-lex.europa.eu/eli/reg_impl/2023/1773/oj)
+- Folgeakte zur Definitivphase über EUR-Lex und EU-Kommissionsseite tagesaktuell prüfen.
 
 ## Normen-Kette CBAM
 

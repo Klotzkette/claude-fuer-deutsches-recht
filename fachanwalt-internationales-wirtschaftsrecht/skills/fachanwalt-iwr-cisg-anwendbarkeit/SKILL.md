@@ -28,7 +28,8 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 ### Direkt Art. 1 Abs. 1 a) CISG
 
 - Beide Parteien-Sitze in CISG-Staat
-- Liste: 95+ Staaten (DE, A, CH, USA, China, Japan, Brasilien...)
+- Aktueller Stand (12/2024): 97 Vertragsstaaten (u. a. DE, A, CH, USA, China, Japan, Brasilien; Ruanda seit 01.10.2024).
+- Offizielle Liste UNCITRAL: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status — vor Verwendung tagesaktuell pruefen.
 
 ### Indirekt Art. 1 Abs. 1 b) CISG
 

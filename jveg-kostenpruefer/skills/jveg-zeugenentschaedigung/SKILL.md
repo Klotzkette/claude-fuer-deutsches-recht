@@ -23,11 +23,19 @@ Berechne und plausibilisiere Zeugenentschädigungen vollständig nach §§ 19–
 - § 22 JVEG (Zeitversäumnis — Auffangtatbestand)
 - § 23 JVEG (Dreimonatsfrist)
 
+## Rechtsstand 2025/2026
+
+JVEG-Saetze fuer Zeugen wurden durch das KostRAeG 2025 zum 01.06.2025 nicht geaendert (im Unterschied zu den Sachverstaendigenhonoraren in § 9 JVEG). Es gelten weiter:
+
+- Stundensatz Verdienstausfall § 21 JVEG: bis zu 38 EUR/Std. (Hoechstbetrag).
+- Stundensatz Zeitversaeumnis § 22 JVEG: 4,50 EUR/Std.
+- Kilometerpauschale Zeugen § 5 Abs. 2 JVEG: 0,35 EUR/km.
+
+Quelle gesetze-im-internet: https://www.gesetze-im-internet.de/jveg/
+
 ## Rechtsprechung
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. LG München I, Beschl. v. 15.04.2019 — Zeitversäumnis nach § 22 JVEG kann nicht kumulativ zu Verdienstausfall nach § 21 JVEG geltend gemacht werden; eine subsidiäre Alternativberechnung ist anzubieten.
+- LG-Linie: Zeitversaeumnis nach § 22 JVEG ist subsidiaer und kann nicht kumulativ zum Verdienstausfall nach § 21 JVEG geltend gemacht werden; eine subsidiaere Alternativberechnung ist im Antrag anzubieten. Konkretes Aktenzeichen vor Schriftsatz-Verwendung ueber https://dejure.org und https://openjur.de pruefen.
+- Aktuelle BGH-Rechtsprechung zu §§ 19 bis 22 JVEG ueber https://www.bundesgerichtshof.de verifizieren.
 
 ## Quellenregel
 

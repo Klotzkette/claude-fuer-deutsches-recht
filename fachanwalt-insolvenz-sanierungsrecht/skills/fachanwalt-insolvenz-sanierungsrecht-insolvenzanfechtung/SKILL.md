@@ -43,7 +43,12 @@ Für vor dem 05.04.2017 eröffnete Verfahren Übergangsrecht prüfen. Für aktue
 
 | Entscheidung | Arbeitsregel |
 |---|---|
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| **BGH IX ZR 72/20 vom 06.05.2021** | Grundsatzentscheidung: aus bloßer objektiver Zahlungsunfähigkeit ohne weiteres kein Schluss auf Vorsatz iSd § 133 Abs. 1 InsO. |
+| **BGH IX ZR 129/22 vom 18.04.2024** | Bestätigung der Neuausrichtung: Verwalter muss konkret darlegen, dass der Schuldner wusste oder billigend in Kauf nahm, andere Gläubiger zu späterer Zeit nicht vollständig befriedigen zu können. Einfaches Bestreiten des außenstehenden Anfechtungsgegners der Liquiditätsangaben kann ausreichen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22> |
+| **BGH IX ZR 239/22 vom 18.04.2024** | Verschärfung der Anforderungen an die Anfechtung gesellschafterähnlicher Stellung (§ 135 InsO). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22> |
+| **BGH IX ZR 122/23 vom 05.12.2024** | Erstmalige höchstrichterliche Konkretisierung der *Unlauterkeit* iSd § 142 Abs. 1 Hs. 2 InsO: Unlauterkeit erfordert gezielt schädigendes Verhalten gegenüber den übrigen Gläubigern oder gezielte Bevorzugung des Empfängers; bloße dauerhafte Verlustsituation genügt nicht. Bei Lohnzahlungen keine starre 30-Tage-Grenze. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23> |
+| **BGH IX ZR 114/23 vom 19.12.2024** | Forderungsanmeldung bei Abtretung: Zedent und Zessionar müssen jeweils gesondert anmelden und einen eigenen Prüfungstermin durchlaufen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23> |
+| Weitere Leitentscheidungen | Vor Ausgabe über dejure.org / openjur.de / bundesgerichtshof.de verifizieren. |
 
 ## KI-Einsatz bei Schuldnerakten
 

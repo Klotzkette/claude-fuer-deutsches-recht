@@ -45,11 +45,14 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 
 ---
 
-## Leitentscheidungen
+## Leitentscheidungen (Stand Mai 2026)
 
-| Aktenzeichen | Gericht / Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Aktenzeichen | Gericht / Datum | Tragende Aussage | Offene Fundstelle |
+|---|---|---|---|
+| 3 StR 340/24 | BGH (3. Strafsenat), Beschluss 09.01.2025 | Adhäsionsentscheidung im Strafverfahren — Begründungsanforderungen an Schmerzensgeldzumessung; Strafgericht muss die maßgeblichen Zumessungsgesichtspunkte (Verletzungsbild, Dauer, Folgen) erkennbar machen | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.01.2025&Aktenzeichen=3+StR+340/24 |
+| 4 StR 232/25 | BGH (4. Strafsenat), Beschluss 20.11.2025 | Zusammenspiel TOA / Schadenswiedergutmachung (§ 46a StGB) und Adhäsionsforderung — Strafmilderung setzt kommunikativen Aussöhnungsprozess voraus, nicht nur Zahlung | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25 |
+
+Weitere Entscheidungen vor Verwendung live in dejure.org/openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -225,7 +228,7 @@ des Strafprozesses sprengt.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Adhäsionsantrag verzögert das Strafverfahren" | § 406 Abs. 1 S. 6 StPO — Absehen nur bei wesentlicher Verzögerung; Schmerzensgeld-Antrag wird durch S. 6 a. F. besonders geschützt; aktuelle Begründungsanforderungen siehe BGH 09.01.2025 — 3 StR 340/24 |
 | "Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
 | "Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
 
@@ -252,7 +255,7 @@ des Strafprozesses sprengt.
 | Hohe Schadensummen in Betrugsfall | Adhäsion kombinieren mit Verbleib im Strafverfahren für Bindungswirkung zur Tatbegehung |
 | Angeklagter ist insolvent | Adhäsion trotzdem beantragen; § 302 InsO schließt Restschuldbefreiung aus; Titel 30 Jahre vollstreckbar |
 | Gericht neigt zu § 406-Absehen | Beweise vorab vollständig vorlegen; Komplexität minimieren; Schmerzensgeld pauschal schätzen lassen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Schmerzensgeldzumessung im Strafurteil | Begründungsanforderungen nach BGH 09.01.2025 — 3 StR 340/24 beachten; Verletzungsbild, Dauer, Folgen erkennbar machen |
 
 ---
 
@@ -265,6 +268,9 @@ des Strafprozesses sprengt.
 
 ---
 
-## Quellen
+## Quellen (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 09.01.2025 — 3 StR 340/24 (Adhäsion / Schmerzensgeldbegründung): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.01.2025&Aktenzeichen=3+StR+340/24
+- BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a StGB, kommunikativer Prozess): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
+- §§ 403–406c StPO, § 472a StPO: https://dejure.org/gesetze/StPO/403.html
+- Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; weitere Rechtsprechung vor Ausgabe in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und Aussage verifizieren.

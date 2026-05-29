@@ -11,8 +11,11 @@ Immer dann, wenn die Frage steht, ob ein **Berufsbetreuer** im Sinne des § 19 A
 
 Der Skill greift nicht, wenn der Bedachte **ehrenamtlicher** Betreuer im Sinne der §§ 21, 22 BtOG ist — für diese gilt § 30 BtOG nicht. Hierzu siehe Skill `betreuer-registrierung` zur Abgrenzung.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Aktuelle Rechtsprechung (Stand 05/2026, Live-Verifikation zwingend)
+
+- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen an den behandelnden Arzt ist nicht deshalb unwirksam, weil sie gegen § 32 Abs. 1 S. 1 (M)BO-Ä verstößt. Die Berufsordnung ist kein Verbotsgesetz i.S.d. § 134 BGB; die Testierfreiheit (Art. 14 GG) überwiegt; § 138 BGB bleibt Einzelfallprüfung. Übertragbarkeit der Argumentationsstruktur auf § 30 BtOG-Konstellationen ist sehr nahe liegend, BGH hat zu § 30 BtOG aber noch nicht ausdrücklich entschieden. Quelle: bundesgerichtshof.de PM 2025/2025122.html.
+- OLG Nürnberg (Live-Verifikation erforderlich für Aktenzeichen und Datum): bestätigte vor BGH-Entscheidung bereits, dass § 30 BtOG kein § 134 BGB-Verbotsgesetz ist, das Testament wirksam bleibt, aber berufsrechtliche Sanktion droht.
+- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
 ## Quellenregel
 

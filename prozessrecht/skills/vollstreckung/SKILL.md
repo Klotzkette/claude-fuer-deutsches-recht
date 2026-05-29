@@ -66,18 +66,16 @@ Das Modell benötigt:
   Antrag beim AG; §§ 35 ff. ZVG Versteigerungstermin)
 - **§§ 900–915h ZPO** – Insolvenzantrag als ultima ratio; § 17 InsO – Zahlungsunfähigkeit
 
-### Leitentscheidungen
+### Leitentscheidungen und Normfassungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Kontoguthaben; das Vollstreckungsgericht prüft den PfÜB nur formal; materielle Einwendungen
-  des Schuldners sind im Wege der Vollstreckungsgegenklage (§ 767 ZPO) oder Erinnerung (§ 766
-  ZPO) geltend zu machen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Pfändungsschutz; der Gläubiger muss den Pfändungsschutz des § 850k ZPO gegen sich gelten
-  lassen; eine nachträgliche Aufhebung des Pfändungsschutzes erfordert einen gesonderten Antrag.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Vollstreckungsvoraussetzung § 750 ZPO; Vollstreckungsmaßnahmen ohne vorherige Zustellung
-  sind rechtswidrig und auf Erinnerung hin aufzuheben.
+- BGH VII. ZS Linie zur Klauselpruefung: Die Pruefungstiefe im Klauselerteilungsverfahren ist formal eng begrenzt; materielle Einwendungen sind im Wege der Vollstreckungsgegenklage (§ 767 ZPO) oder Erinnerung (§ 766 ZPO) geltend zu machen. Aktuelle Aktenzeichen (z.B. BGH, Beschl. v. 30.01.2025 – Az. VII ZB 10/24) vor Verwendung ueber https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
+- BGH-Linie zu § 850k ZPO P-Konto-Schutz: Pfaendungsschutz wirkt automatisch gegenueber dem Glaeubiger; nachtraegliche Aufhebung erfordert gesonderten Antrag. Aktenzeichen vor Schriftsatzverwendung pruefen.
+- Vollstreckungsvoraussetzung § 750 ZPO: Vollstreckungsmassnahmen ohne vorherige Zustellung sind rechtswidrig und auf Erinnerung hin aufzuheben (staendige Rechtsprechung).
+
+### Rechtsstand 2025/2026
+
+- Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110): Grundfreibetrag 1.555 EUR ab 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
+- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 mit Auswirkungen auf Beschwerdesummen § 511 Abs. 2 ZPO (jetzt 1.000 EUR) und § 23 GVG (AG 10.000 EUR).
 
 ### Quellenregel
 

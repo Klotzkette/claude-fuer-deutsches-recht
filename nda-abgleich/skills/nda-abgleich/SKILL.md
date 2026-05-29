@@ -14,13 +14,16 @@ description: "Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln o
 5. **Datenschutz:** Dürfen die eingereichten NDAs in das eingesetzte KI-System geladen werden (§ 203 StGB, GeschGehG)?
 
 ## Zentrale Normen
-- § 2 GeschGehG (Definition Geschäftsgeheimnis — Schutzvoraussetzungen für NDA-Schutzgegenstand)
-- § 4 GeschGehG (Handlungsverbote bei Geheimnisverrat)
-- § 6 GeschGehG (Unterlassungs- und Beseitigungsansprüche)
-- § 9 GeschGehG (Schadensersatz)
-- §§ 305 ff. BGB (AGB-Kontrolle — bei vorformulierten NDA-Klauseln)
-- § 125 BGB (Schriftformerfordernis — doppelte Schriftformklausel)
-- § 203 StGB (Mandatsgeheimnis)
+- § 2 GeschGehG (Definition Geschaeftsgeheimnis — Schutzvoraussetzungen fuer NDA-Schutzgegenstand): https://www.gesetze-im-internet.de/geschgehg/__2.html
+- § 4 GeschGehG (Handlungsverbote bei Geheimnisverrat): https://www.gesetze-im-internet.de/geschgehg/__4.html
+- § 6 GeschGehG (Unterlassungs- und Beseitigungsanspruechen): https://www.gesetze-im-internet.de/geschgehg/__6.html
+- § 9 GeschGehG (Schadensersatz): https://www.gesetze-im-internet.de/geschgehg/__9.html
+- §§ 16-20 GeschGehG (prozessualer Geheimnisschutz im Geschaeftsgeheimnisstreit)
+- **§ 273a ZPO** (neu eingefuegt durch Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): erstreckt die prozessualen Geheimnisschutzmassnahmen der §§ 16-20 GeschGehG auf alle Zivilverfahren und arbeitsgerichtliche Verfahren (§ 6a ArbGG); Antrag kann jede Partei stellen; Geheimhaltungspflicht aller Beteiligten, Verstoss-Ordnungsmittel bis 100.000 EUR. Quelle: https://www.gesetze-im-internet.de/zpo/__273a.html
+- §§ 305 ff. BGB (AGB-Kontrolle — bei vorformulierten NDA-Klauseln): https://www.gesetze-im-internet.de/bgb/__305.html
+- § 125 BGB (Schriftformerfordernis — doppelte Schriftformklausel): https://www.gesetze-im-internet.de/bgb/__125.html
+- § 203 StGB (Mandatsgeheimnis): https://www.gesetze-im-internet.de/stgb/__203.html
+- Umsetzungshintergrund: Richtlinie (EU) 2016/943 (Trade Secrets Directive): https://eur-lex.europa.eu/eli/dir/2016/943/oj
 
 ## Rechtsprechung
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

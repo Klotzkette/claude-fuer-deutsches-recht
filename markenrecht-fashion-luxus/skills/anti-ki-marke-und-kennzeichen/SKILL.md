@@ -134,3 +134,10 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Faktische Updates (Stand 05/2026)
+
+- **KI-VO Art. 50:** Anwendbar ab 02.08.2026; Transparenzpflichten fuer Chatbots, Deepfakes, KI-generierten Text bei oeffentlichem Interesse und Emotionserkennung. Quelle: VO (EU) 2024/1689, Art. 113 lit. c.
+- **EUIPO-Praxis zu KI-bezogenen Marken:** EUIPO hat 2024/2025 verstaerkt Anmeldungen mit "AI"/"KI"-Bezug zurueckgewiesen, sofern beschreibend oder freihaltebeduerftig. Live-Recherche im EUIPO eSearch plus erforderlich.
+- **DPMA-Praxis "Human Made" / Authentizitaetsmarken:** Aktuelle DPMA-/BPatG-Entscheidungen zu Authentizitaets- und Negativ-Marken ("AI Free", "ohne KI") live ueber dpma.de und bpatg.bund.de pruefen.
+- **UWG § 5 Abs. 1 / § 5a UWG bei KI-Marketing:** BGH-Linie zur Irrefuehrung durch unzureichende Kennzeichnung KI-generierter Werbung / Influencer-Inhalte live ueber dejure.org pruefen.

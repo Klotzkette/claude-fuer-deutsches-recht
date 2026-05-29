@@ -7,7 +7,7 @@ description: "Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition 
 
 ## Fundstelle und Status
 
-EU-Kommission, Bekanntmachung zur Marktdefinition im Sinne des Wettbewerbsrechts der Union, ABl. 2024/C 1645 vom 8. Februar 2024. Ablösung der Bekanntmachung von 1997 (ABl. C 372/5).
+EU-Kommission, Bekanntmachung zur Marktdefinition im Sinne des Wettbewerbsrechts der Union, ABl. C/2024/1645 vom 22.02.2024 (CELEX 52024XC01645) — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C_202401645). Annahme durch die Kommission am 08.02.2024; Veröffentlichung im Amtsblatt am 22.02.2024. Ablösung der Bekanntmachung von 1997 (ABl. C 372/5).
 
 Die Bekanntmachung ist rechtlich nicht verbindlich (Soft Law), prägt aber die Behördenpraxis der Kommission und nationaler Behörden sowie die Argumentation vor Gerichten erheblich.
 
@@ -65,8 +65,8 @@ Das BKartA orientiert sich an der Kommissions-Bekanntmachung, wendet aber § 18 
 
 ## Leitentscheidungen EU-Bekanntmachung 2024
 
-- EK, Marktdefinitionsbekanntmachung v. 08.02.2024, ABl. C 2024/27 — Abloesung der Bekanntmachung 1997; erweiterte Methoden; Digitalmärkte; Supply-Side Substitution; Preisdaten-Analyse.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EK, Marktdefinitionsbekanntmachung, ABl. C/2024/1645 vom 22.02.2024 (Annahme 08.02.2024) — Ablösung der Bekanntmachung 1997; erweiterte Methoden; Digitalmärkte; angebotsseitige Substitution; Preisdaten-Analyse — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C_202401645).
+- Rechtsprechung im Mandat live verifizieren über [curia.europa.eu](https://curia.europa.eu/) — keine Aktenzeichen aus Modellwissen.
 
 ## Quellenregel
 

@@ -41,7 +41,9 @@ description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| BGH IV. Zivilsenat | IV ZR 88/24 | 12.03.2025 | Für die Entstehung des Pflichtteilsanspruchs (§ 199 Abs. 1 Nr. 1 BGB) ist § 2317 Abs. 1 BGB auch dann maßgebend, wenn der Berechtigte zum Zeitpunkt des Erbfalls aufgrund der gesetzlichen Ausübungssperre in § 1600d Abs. 5 BGB an einer Anspruchsdurchsetzung gehindert ist. Für den Pflichtteilsanspruch des nichtehelichen Kindes ist Kenntnis von der wirksamen Vaterschaftsanerkennung oder -feststellung erforderlich. Quelle: bundesgerichtshof.de / dejure.org. |
+| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Zuwendung von Todes wegen an behandelnden Arzt nicht wegen Verstoß gegen § 32 (M)BO-Ä unwirksam; Berufsordnung kein § 134 BGB-Verbot; Testierfreiheit (Art. 14 GG) überwiegt. Quelle: bundesgerichtshof.de PM 2025/2025122.html. |
+| Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Pflichtteilsberechnung
 

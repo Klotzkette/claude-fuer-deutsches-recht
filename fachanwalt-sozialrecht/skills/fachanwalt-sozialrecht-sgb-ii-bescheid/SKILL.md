@@ -9,11 +9,18 @@ description: "Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt No
 1. Welcher Bescheid genau (Bewilligungs-, Aufhebungs-, Erstattungsbescheid)? § 40 SGB II i.V.m. §§ 45, 48 SGB X: Unterschied materiell-rechtlich entscheidend.
 2. Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 84 SGG) — noch offen? Bei abgelaufenem Bescheid: § 44 SGB X-Überprüfungsantrag.
 3. Aufschiebende Wirkung: SGB-II-Bescheide haben grundsätzlich KEINE aufschiebende Wirkung (§ 39 SGB II) — Eilantrag § 86b SGG notwendig wenn laufende Versorgung gefährdet.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Hat der Bescheid eine ordnungsgemäße Anhörung nach § 24 SGB X durchlaufen? Bei Aufhebung/Erstattung pruefen. BSG-Linie B 7 AS / B 4 AS — vor Ausgabe Aktenzeichen live in dejure.org pruefen.
 5. Ist Mandant im Karenzjahr (§ 12 Abs. 3 SGB II)? Dann erweiterte Vermögensschonung.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+- BSG, Urteil vom 02.12.2025 — B 7 AS 20/24 R (verbunden mit B 7 AS 30/24 R und B 7 AS 6/25 R): Die Regelbedarfe für 2022 sind nicht verfassungswidrig zu niedrig festgesetzt; keine Verletzung des Grundrechts auf Gewährleistung eines menschenwürdigen Existenzminimums. Die Einmalzahlung von 200 Euro im Juli 2022 hat den durch den Ukraine-Krieg ausgelösten Kaufkraftverlust hinreichend kompensiert. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=02.12.2025&Aktenzeichen=B+7+AS+20/24+R sowie Pressemitteilung Nr. 30/2025: https://www.bsg.bund.de/SharedDocs/Pressemitteilungen/DE/2025/2025_30.html
+- BSG, Urteil vom 12.03.2025 — B 7 AS 5/24 R: Abgeschlossene Ausbildung mit Bewilligung von BAföG-Leistungen schließt den Leistungsausschluss nach SGB II nicht zwingend aus. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_12_B_07_AS_05_24_R.html
+- BSG, Urteil vom 26.03.2025 — B 4 AS 4/24 R: Bundeserstattung an Kommunen für SGB-II-Verwaltungskosten nach § 6b SGB II. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_26_B_04_AS_04_24_R.html
+- BSG, Urteil vom 04.06.2025 — B 7 AS 17/24 R: Vollstreckung von Erstattungsforderungen durch BA im SGB II. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_04_B_07_AS_17_24_R.html
+- BSG, Urteil vom 16.07.2025 — B 7 AS 19/24 R: Durchschnittseinkommens-Berechnung bei vorläufiger Bewilligung nach § 41a SGB II. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_07_16_B_07_AS_19_24_R.html
+
+Weitere Rechtsprechung vor Ausgabe live in dejure.org / bsg.bund.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 
@@ -45,7 +52,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 21 SGB II | Mehrbedarfe: Schwangerschaft, Alleinerziehung, Behinderung, Ernährung, Warmwasser |
 | § 22 SGB II | Kosten der Unterkunft (tatsächlich bis zur Angemessenheitsgrenze; Heizkosten separat) |
 | § 31 SGB II | Pflichtverletzung; Leistungsminderung |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| § 31a SGB II | Höhe der Leistungsminderung nach Pflichtverletzung — Sanktionen nach BVerfG 5.11.2019 — 1 BvL 7/16 in Schwere begrenzt |
 | § 39 SGB II | Kein Suspensiveffekt bei Widerspruch; Ausnahme bei drohender Unzumutbarkeit |
 | § 41a SGB II | Vorläufige Leistungserbringung bei ungeklärtem Sachverhalt |
 | § 43 SGB II | Aufrechnung von Erstattungsansprüchen (max. 30 % des Regelbedarfs) |
@@ -53,14 +60,18 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 45 SGB X | Rücknahme rechtswidriger begünstigender Verwaltungsakte (Vertrauensschutz) |
 | § 48 SGB X | Aufhebung bei wesentlicher Änderung der Verhältnisse |
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Aktenzeichen | Gericht/Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Aktenzeichen | Gericht/Datum | Tragende Aussage | Offene Fundstelle |
+|---|---|---|---|
+| B 7 AS 20/24 R (verbunden mit B 7 AS 30/24 R, B 7 AS 6/25 R) | BSG 02.12.2025 | Regelbedarfe 2022 verfassungsgemäß; 200-Euro-Einmalzahlung hat Kaufkraftverlust kompensiert | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=02.12.2025&Aktenzeichen=B+7+AS+20/24+R |
+| B 7 AS 5/24 R | BSG 12.03.2025 | Leistungsausschluss bei BAföG-Anspruch — gestützte Abgrenzung | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_12_B_07_AS_05_24_R.html |
+| B 4 AS 4/24 R | BSG 26.03.2025 | § 6b SGB II — Bundeserstattung Verwaltungskosten | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_26_B_04_AS_04_24_R.html |
+| B 7 AS 17/24 R | BSG 04.06.2025 | Vollstreckung von Erstattungsforderungen durch BA | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_04_B_07_AS_17_24_R.html |
+| B 7 AS 19/24 R | BSG 16.07.2025 | Durchschnittseinkommens-Berechnung § 41a SGB II | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_07_16_B_07_AS_19_24_R.html |
+| 1 BvL 7/16 | BVerfG 05.11.2019 | Sanktionen § 31a SGB II in Höhe begrenzt | https://dejure.org/dienste/vernetzung/rechtsprechung?Text=1+BvL+7/16 |
+
+Weitere Entscheidungen vor Ausgabe in dejure.org / bsg.bund.de live verifizieren.
 
 ---
 
@@ -72,7 +83,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 2 | Regelbedarfsstufe richtig zugeordnet (1–6)? | § 20, Anlage RBEG |
 | 3 | Mehrbedarfe vollständig berücksichtigt? | § 21 SGB II |
 | 4 | Kosten der Unterkunft tatsächlich angesetzt? | § 22 Abs. 1 SGB II |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 5 | Angemessenheits-Grenze KdU mit aktueller örtlicher Rechtsprechung pruefen | § 22 Abs. 1 S. 1 SGB II — schlüssiges Konzept; BSG-Linie B 7 AS / B 14 AS, Aktenzeichen vor Ausgabe in dejure.org pruefen |
 | 6 | Heizkosten separat und angemessen? | § 22 Abs. 1 Satz 3 SGB II |
 | 7 | Einkommensbereinigung § 11b korrekt? | § 11b SGB II |
 | 8 | Freibetrag Erwerbstätigkeit korrekt berechnet? | § 11b Abs. 2, 3 SGB II |

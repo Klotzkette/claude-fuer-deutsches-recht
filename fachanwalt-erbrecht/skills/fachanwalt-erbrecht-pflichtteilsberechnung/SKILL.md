@@ -36,7 +36,9 @@ description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| BGH IV. Zivilsenat | IV ZR 88/24 | 12.03.2025 | Für die Entstehung des Pflichtteilsanspruchs nach § 199 Abs. 1 Nr. 1 BGB ist § 2317 Abs. 1 BGB auch dann maßgebend, wenn der Berechtigte zum Zeitpunkt des Erbfalls aufgrund der gesetzlichen Ausübungssperre in § 1600d Abs. 5 BGB an einer erfolgreichen Anspruchsdurchsetzung gehindert ist (nichteheliches Kind, Vaterschaftsfeststellung). Quelle: bundesgerichtshof.de bzw. dejure.org. |
+| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Eine Zuwendung von Todes wegen an den behandelnden Arzt des Erblassers ist nicht deshalb unwirksam, weil sie gegen ein berufsständisches Zuwendungsverbot der ärztlichen Berufsordnung (§ 32 Abs. 1 S. 1 BO) verstößt. Berufsrecht ist kein Verbotsgesetz i.S.d. § 134 BGB; Testierfreiheit (Art. 14 GG) überwiegt. Sittenwidrigkeit (§ 138 BGB) bleibt Einzelfallprüfung. Quelle: bundesgerichtshof.de Pressemitteilung 122/2025. |
+| Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Durchsetzung
 
@@ -318,6 +320,8 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 
 - BGB §§ 2303–2332, 2314, 2325, 2329, 2332
 - ZPO § 254
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteilsanspruch nichteheliches Kind; Verjährung): dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=12.03.2025&Aktenzeichen=IV+ZR+88/24
+- BGH, Urteil vom 02.07.2025 - IV ZR 93/24 (Zuwendung an Hausarzt; Berufsordnung kein § 134 BGB-Verbot): bundesgerichtshof.de Pressemitteilung 2025/2025122.html
+- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026

@@ -62,9 +62,15 @@ Kläre vor der Pruefung:
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026. Rechtsprechung im Mandat live verifizieren — Aktenzeichen nicht aus Modellwissen.
+
+**Aktuelle EU-Sanktionspakete Russland (Auswahl):**
+- **20. Sanktionspaket (in Kraft 24.04.2026):** Schifffahrt (Schattenflotte: +46 Schiffe auf insgesamt 632), Finanzen (+20 Kreditinstitute auf 70 ohne EU-Marktzugang), Energie. Erweiterung Sanktionen Belarus (u. a. erstmals ein chinesisches Staatsunternehmen) — [bundesregierung.de](https://www.bundesregierung.de/breg-de/aktuelles/eu-sanktionen-2250316).
+- **19. Sanktionspaket (23.10.2025):** Neue Beschränkungen russisches LNG: Verbot neuer Lieferverträge ab 25.04.2026, vollständiges Importverbot ab 01.01.2027.
+
+**Iran/Belarus/Nordkorea:** EU-Sanktionen aufgrund Unterstützung des russischen Angriffskriegs; Belarus-Sanktionen gelten bis mindestens 28.02.2027. Aktuelle Listen über [EU Sanctions Map](https://www.sanctionsmap.eu/) und EUR-Lex konsolidierte Liste.
+
+Vor jeder konkreten Sanktionsentscheidung im Mandat aktuelle Fassung der einschlägigen Sanktions-VO (EU) 833/2014, (EU) 269/2014, (EU) 765/2006 etc. abrufen — Sanktionsregime ändern sich quartalsweise.
 
 ## Normen-Kette Sanktionen/Embargos
 

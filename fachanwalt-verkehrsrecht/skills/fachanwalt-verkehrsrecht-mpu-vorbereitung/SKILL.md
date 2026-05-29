@@ -117,12 +117,15 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — "Idiotentest" �
 3. **Bagatellisierungs-Haltung** im Gespräch
 4. **Anordnung Recht nicht überprüft**
 
-## 9) Aktuelle Sonderkonstellation: Cannabis seit KCanG
+## 9) Aktuelle Sonderkonstellation: Cannabis seit KCanG (Stand Mai 2026)
 
-- KCanG seit 1.4.2024
-- Cannabis-Konsum nicht mehr strafbar
-- Aber: § 14 FeV-Anordnung weiter möglich bei Beeintraechtigung
-- Faustregel: > 3,5 ng/ml THC im Blut -> Eignung prüfen
+- Konsumcannabisgesetz (KCanG) und CanG seit 1.4.2024 (BGBl. I 2024 Nr. 109).
+- Cannabis fällt nicht mehr unter das BtMG; medizinische Verwendung im MedCanG.
+- StVG-Grenzwert: § 24a Abs. 1a StVG sieht für aktives THC einen Grenzwert von 3.5 ng/ml im Blutserum vor (seit 22.8.2024 in Kraft; Gesetz zur Änderung des StVG vom 21.8.2024, BGBl. I 2024 Nr. 274). Strengere Regelungen für Fahranfänger und Kombikonsum.
+- BVerwG, Beschluss vom 8.1.2025, 3 B 2.24: Cannabis ist seit KCanG kein BtM mehr; § 14 FeV im Lichte der neuen Gesetzeslage anwenden. Live-Volltext: bverwg.de
+- Hess. VGH, Beschluss vom 19.9.2025, 10 B 606/25: Entziehung Fahrerlaubnis bei wiederholtem Cannabisverstoss in Probezeit; Volltext bei juris-Hessen (oder offene Verwaltungsrechtsprechung).
+- OVG NRW (2025): laufende Rechtsprechungslinie zur Fahrerlaubnisentziehung bei Cannabis nach KCanG; vor Ausgabe in nrwe.de verifizieren.
+- Faustregel Anwaltspraxis: Bei MPU-Anlässen seit KCanG ist genau zu prüfen, ob § 14 Abs. 1 FeV (Eignungszweifel) oder § 14 Abs. 2 FeV (Wiedererteilung) einschlägig ist und ob die Anordnungsvoraussetzungen im konkreten Einzelfall noch tragfähig sind — kein automatischer Übertrag der vor-KCanG-Rechtsprechung.
 
 ## Anschluss
 
@@ -130,9 +133,15 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — "Idiotentest" �
 - `fachanwalt-verkehrsrecht-tempo-messung-beweis` — bei OWi-Verfahren
 - `bussgeld-einspruch-pruefen` — bei OWi
 
-## Aktuelle Rechtsprechung MPU
+## Aktuelle Rechtsprechung MPU (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Aktenzeichen (Volltext jeweils in offener Quelle aufrufen):
+
+- BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Konsumcannabisgesetz; Cannabis ist seit 1.4.2024 kein BtM mehr; § 14 FeV im Lichte der neuen Gesetzeslage anzuwenden. Quelle: bverwg.de
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Standardisierte Geschwindigkeitsmessung, Rohmessdatenpflicht. Quelle: bundesverfassungsgericht.de
+- Hess. VGH, Beschl. v. 19.9.2025, 10 B 606/25 — Cannabis-Verstoss und Fahrverbot in Probezeit. Quelle: justiz.hessen.de bzw. offene Verwaltungsrechtsprechung.
+
+Keine Modellwissen-Zitate. Vor Versand Aktenzeichen, Datum und tragende Aussage in BGH-/BVerfG-/BVerwG-eigener Datenbank oder dejure.org / openjur.de prüfen.
 
 ## Normen MPU / Fahrerlaubnisrecht
 

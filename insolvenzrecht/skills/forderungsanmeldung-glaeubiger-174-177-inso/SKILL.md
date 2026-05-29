@@ -95,7 +95,8 @@ Nicht jeder Anspruch gehört in die Tabelle. Erst klären, **welcher Forderungst
 
 - **ausdrücklich** unter Angabe des Tatbestands anmelden
 - Bedeutung: solche Forderungen sind von der **Restschuldbefreiung ausgeschlossen** (§ 302 Nr. 1 InsO) — Gläubiger kann nach Beendigung des Insolvenzverfahrens weiter vollstrecken
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Anforderungen an die Individualisierung (Sachverhaltsdarstellung, keine schlüssige Rechtsbegründung erforderlich): vgl. **BGH IX ZR 114/23 vom 19.12.2024** zur Anmeldung abgetretener Forderungen.
+  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
 
 Beispiele Vorsatz-Forderungen:
 - Schadensersatz aus Betrug (§ 263 StGB), Untreue (§ 266 StGB), Unterschlagung (§ 246 StGB)
@@ -351,7 +352,11 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldun
 
 ## Weitere Leitentscheidungen — Forderungsanmeldung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 114/23 vom 19.12.2024** — Anforderungen an die Individualisierung der Forderungsanmeldung; bei Abtretung muss Zedent und Zessionar die abgetretene Forderung jeweils gesondert anmelden und prüfen lassen.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind in der Insolvenz der Aktiengesellschaft *keine* einfachen Insolvenzforderungen iSd § 38 InsO; sie treten hinter die einfachen Insolvenzgläubiger zurück. Bedeutung: bei Anmeldung solcher Forderungen ausdrücklich die Rangfrage adressieren.
+  Quelle: Bundesgerichtshof Pressemitteilung 2025/211; <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil>
+- Ältere Leitentscheidungen zur Individualisierung und Vorsatzanmeldung über dejure.org/openjur.de verifizieren.
 
 ---
 

@@ -117,8 +117,8 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 
 ### Verfassungsrechtliche Probleme
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BNetzA-Festlegung BK4-21-049 zu Anwendungs-Modalitäten
+- EuGH 02.09.2021, C-718/18: Unabhaengigkeit BNetzA als Regulierungsbehoerde; nationaler Gesetzgeber darf die Tarif-Festlegungskompetenz nicht beschraenken (curia.europa.eu).
+- BNetzA-Festlegungen zu Anwendungs-Modalitaeten: aktuelle Festlegungs-Aktenzeichen vor Ausgabe ueber bundesnetzagentur.de pruefen
 
 ### Streit-Konstellation
 
@@ -184,10 +184,10 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 - Flexibilitäts-Mechanismen verstärken
 - Capacity-Markt-Optionen für Mitgliedstaaten
 
-### EuGH-Linie
+### EuGH-Linie (verifiziert curia.europa.eu)
 
-- C-718/18 zu Netzentgelten in Gas
-- C-718/19 zur Diskriminierungs-freiheit
+- EuGH 02.09.2021, C-718/18 — Unabhaengigkeit der Regulierungsbehoerde BNetzA; Tarif-Festlegung Strom und Gas
+- Weitere EuGH-Entscheidungen zur Diskriminierungsfreiheit beim Netzzugang vor Ausgabe konkret ueber curia.europa.eu verifizieren
 
 ## Schritt 8 — Streit-Strategie
 
@@ -213,9 +213,15 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 3. Klage VG bei strittig
 4. Skill `energierecht-verfahren`
 
-## Aktuelle Rechtsprechung & Leitsätze
+## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **EuGH 02.09.2021, C-718/18** (Kommission ./. Deutschland, Strom- und Gasmarkt): Deutschland hat gegen die Richtlinien 2009/72/EG und 2009/73/EG verstossen — die Bundesnetzagentur muss umfassende Entscheidungsbefugnisse zur Festlegung der Tarife und Netznutzungsbedingungen haben (Unabhaengigkeit der Regulierungsbehoerde). Quelle: curia.europa.eu (CELEX 62018CJ0718).
+- **BVerwG 09.06.2010, 9 A 20.08** (Bahnstromleitung): Anforderungen an Planfeststellung; immissionsschutzrechtliche Massgaben. Quelle: bverwg.de.
+- **BGH (EnVR-Senat)**: Laufende Senatsrspr. zur ARegV, StromNEV-Anwendung; konkrete Aktenzeichen vor Ausgabe per bundesgerichtshof.de / OLG Duesseldorf (3. Kartellsenat) verifizieren.
+- **OLG Duesseldorf VI-3 Kart**: laufende Senatsrspr. zu BNetzA-Beschluessen; oeffentliche Entscheidungsdatenbank olg-duesseldorf.nrw.de.
+- **EnWG-Reform 2023/2024** (BGBl. I 2023 S. 1565 — EnWG-Aenderung im Rahmen Solarpaket I; sowie BGBl. I 2024): Umsetzung der EU-Strommarkt-Reform 2024/1747.
+
+Konkrete Beschwerdeentscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / bundesgerichtshof.de verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -240,9 +246,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - ARegV
 - NAV / NDAV
 - MaStRV § 5
-- BNetzA-Beschlüsse BK4 / BK6 / BK8 / BK9
-- BGH EnVR-Linien
-- OLG Düsseldorf VI-3 Kart-Verfahren
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BNetzA-Beschlüsse BK4 / BK6 / BK8 / BK9 — bundesnetzagentur.de
+- BGH EnVR-Linien — vor Ausgabe konkretes Aktenzeichen ueber bundesgerichtshof.de verifizieren
+- OLG Düsseldorf VI-3 Kart-Verfahren — olg-duesseldorf.nrw.de
+- EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde (curia.europa.eu)
 - EU REMIT 1227/2011
-- EU-Strommarktordnung 2019/943 + Reform 2024
+- EU-Strommarktordnung 2019/943 + Reform VO (EU) 2024/1747

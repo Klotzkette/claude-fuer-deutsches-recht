@@ -5,9 +5,16 @@ description: "Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Pr
 
 # Fachanwalt für Erbrecht — Orientierung
 
-## Aktuelle Rechtsprechung (Orientierung Erbrecht)
+## Aktuelle Rechtsprechung (Orientierung Erbrecht, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
+
+- BGH, Urteil vom 12.03.2025 - IV ZR 88/24: Pflichtteilsanspruch nichteheliches Kind; § 2317 Abs. 1 BGB maßgebend trotz Ausübungssperre § 1600d Abs. 5 BGB.
+- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Zuwendung von Todes wegen an behandelnden Arzt nicht wegen Verstoß gegen ärztliche Berufsordnung unwirksam; Testierfreiheit (Art. 14 GG) überwiegt; § 138 BGB bleibt Einzelfallprüfung.
+
+Anhängig zur Verfassungsmäßigkeit der erbschaftsteuerlichen Verschonung von Betriebsvermögen: BVerfG 1 BvR 804/22 (Stand 05/2026 noch nicht entschieden); Beobachtung empfohlen.
+
+Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
 ## Quellenregel
 

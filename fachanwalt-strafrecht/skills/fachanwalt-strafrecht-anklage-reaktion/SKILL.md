@@ -171,9 +171,11 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - `fachanwalt-strafrecht-untersuchungshaft-haftpruefung` — bei U-Haft
 - `aktenaufbereiter-strafrecht` — Akten-Auswertung
 
-## Aktuelle Rechtsprechung Anklage-Reaktion
+## Aktuelle Rechtsprechung Anklage-Reaktion (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Kommunikation): Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation im Strafverfahren — relevant fuer die Frage des hinreichenden Tatverdachts (§ 203 StPO) bei Anklagen, die auf ANOM-Datensaetze gestuetzt sind. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BGH (GSSt) 03.02.2025 — GSSt 1/24: KCanG — Verfolgungsausschluss bei sanktionsfreien Eigenkonsummengen; bei Cannabisanklage zu pruefen, ob nicht schon die Eroeffnung (§ 203 StPO) am fehlenden Tatverdacht scheitert. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Pruefungsdichte des Eroeffnungsbeschlusses ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 203 StPO hinreichender Tatverdacht" durchführen.
 
 ## Normen Eroffnungsverfahren
 

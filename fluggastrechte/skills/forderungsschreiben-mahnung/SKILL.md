@@ -31,8 +31,11 @@ eigenen Mitarbeiter / Crew-Engpass / sonstige Standardausrede] handelt es
 sich nach ständiger EuGH-Rechtsprechung regelmäßig NICHT um
 außergewöhnliche Umstaende im Sinn des Art. 5 Abs. 3 VO 261/2004:
 
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  [Inhalt der Kernaussage]
+  Bei technischem Defekt: EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsaetzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens.
+  [Volltext und Randnummer vor Versand in curia.europa.eu aufrufen
+   und passende Aktenzeichen-Linie ergaenzen — z.B. bei Streik der
+   eigenen Mitarbeiter EuGH-Linie, bei Personalmangel C-405/23
+   (16.5.2024), bei Vorverlegung C-394/23 (9.1.2025).]
 
 Die Beweislast für außergewöhnliche Umstaende und für die Ergreifung
 aller zumutbaren Maßnahmen liegt bei Ihnen.
@@ -55,7 +58,8 @@ Im Klagefall werden Sie zudem die Gerichtskosten Anwaltskosten und alle
 ueberfälligen Verzugszinsen zu tragen haben. Die sachliche Zuständigkeit
 des Amtsgerichts ergibt sich aus § 23 Nr. 1 GVG bei Streitwerten bis
 zehntausend Euro (i. d. F. seit 01.01.2026). Die oertliche Zuständigkeit
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ergibt sich aus § 29 ZPO i.V.m. Art. 7 Nr. 1 lit. b VO (EU) 1215/2012
+(Brüssel-Ia) wahlweise am Abflughafen oder am
 Zielflughafen oder aus § 13 ZPO Ihrem Sitz / Niederlassung in Deutschland.
 
 Mit freundlichen Grüßen
@@ -69,11 +73,12 @@ Mit freundlichen Grüßen
 Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
 `airline-standardausreden-pruefen` — dort sind die EuGH-Pinpoints aufgelistet:
 
-| Airline-Begründung | Kerngegenargument | Rspr. |
+| Airline-Begründung | Kerngegenargument | Rspr. (offene Quelle curia.europa.eu) |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Technischer Defekt" | nicht außergewöhnlich | EuGH C-549/07 (Wallentin-Hermann, 22.12.2008) |
 | "Crew-Engpass" | nicht außergewöhnlich | st. Rspr. — Teil normalen Betriebs |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Streik eigener Mitarbeiter" | nicht außergewöhnlich | EuGH-Linie zum Personal — konkrete Aktenzeichen in curia.europa.eu vor Versand verifizieren |
+| "Vorverlegung um wenige Stunden" | bei mehr als 1 h: Annullierung | EuGH C-394/23 (9.1.2025); C-146/20 u.a. (21.12.2021) |
 | "Sie haben uns nicht innerhalb von 30 Tagen informiert" | VO 261/2004 sieht keine solche Frist vor | Verjährung drei Jahre § 195 BGB |
 | "Sie haben Umbuchung akzeptiert" | Akzeptanz schließt Ausgleichsanspruch nicht aus | EuGH ständig |
 | "Sie haben Voucher erhalten" | wenn nicht ausdrücklich als Ausgleichszahlung gewidmet — kein Ausschluss | st. Rspr. |
@@ -122,9 +127,14 @@ Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben 
 - § 195 BGB — Regelmaessige Verjährungsfrist drei Jahre
 - § 199 Abs. 1 BGB — Verjährungsbeginn Schluss des Jahres der Kenntnis
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026; offene Quelle curia.europa.eu)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
+- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — techn. Defekt kein außergewöhnlicher Umstand
+- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung Anschlussflüge
+- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung als Annullierung
+- EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk
+- EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Quellenregel
 

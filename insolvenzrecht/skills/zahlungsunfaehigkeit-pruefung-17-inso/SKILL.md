@@ -39,38 +39,25 @@ Lage ist, die fälligen Zahlungspflichten zu erfüllen.
 **§ 17 Abs. 2 S. 2 InsO** normiert die gesetzliche Vermutung: Zahlungsunfähigkeit ist in der
 Regel anzunehmen, wenn der Schuldner seine Zahlungen eingestellt hat.
 
-### Rechtsprechung
+### Rechtsprechung (Pflichtpinpoints; Az. und Datum vor Ausgabe über dejure.org / openjur.de verifizieren)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Grundlegendes Urteil zum 10-%-/3-Wochen-Schema: Zahlungsunfähigkeit liegt vor, wenn der
+**10-%-/3-Wochen-Schema:** Grundlegende BGH-Linie: Zahlungsunfähigkeit liegt vor, wenn der
 Schuldner zum Stichtag seine fälligen Verbindlichkeiten nicht zu mindestens 90 % erfüllen kann
 und die Lücke nicht innerhalb von 3 Wochen zu schließen ist. Eine Unterdeckung von weniger als
 10 % begründet lediglich eine Zahlungsstockung, wenn die Lücke in absehbarer Zeit beseitigt
 werden kann. Ab 10 % ist auch bei kurzfristiger Behebbarkeit Zahlungsunfähigkeit anzunehmen,
-sofern die Unterdeckung mehr als 3 Wochen andauert (Rn. 19–27).
+sofern die Unterdeckung mehr als 3 Wochen andauert. Konkretes Az. der grundlegenden Entscheidung vor Ausgabe in offener Quelle prüfen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Indizienkatalog für die Zahlungseinstellung i.S.d. § 17 Abs. 2 S. 2 InsO: Als Indizien gelten
-insbesondere verspätete Lohnzahlungen, offene Sozialversicherungsbeiträge, erfolglose
-Stundungsbitten gegenüber Gläubigern, Wechselproteste, Pfändungsmaßnahmen von Gläubigern,
-Insolvenzanträge anderer Gläubiger sowie der eigene Insolvenzantrag des Schuldners (Rn. 36–41).
-Die Zahlungseinstellung setzt kein allgemeines Unvermögen voraus; es genügt, dass der Schuldner
-den wesentlichen Teil seiner Verbindlichkeiten nicht mehr zahlt.
+**Indizienkatalog § 17 Abs. 2 S. 2 InsO:** Als Indizien gelten insbesondere verspätete Lohnzahlungen, offene Sozialversicherungsbeiträge, erfolglose Stundungsbitten gegenüber Gläubigern, Wechselproteste, Pfändungsmaßnahmen von Gläubigern, Insolvenzanträge anderer Gläubiger sowie der eigene Insolvenzantrag des Schuldners. Die Zahlungseinstellung setzt kein allgemeines Unvermögen voraus; es genügt, dass der Schuldner den wesentlichen Teil seiner Verbindlichkeiten nicht mehr zahlt.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Zur Behandlung von Stundungen in der Liquiditätsbilanz: In die Passiva I (fällige Verbindlichkeiten)
-sind nur Verbindlichkeiten aufzunehmen, die tatsächlich fällig und nicht wirksam gestundet sind.
-Echter Stundung (beiderseitig gewollt, glaubhaft dokumentiert) ist Folge zu geben; sie beseitigt
-die Fälligkeit. Erzwungene oder faktische Stundungen — d.h. bloßes Dulden des Zahlungsverzugs
-durch den Gläubiger ohne Einigung — beseitigen die Fälligkeit nicht und sind weiterhin Passiva I
-(Rn. 21–29). Im Anfechtungsprozess trifft den Schuldner die Darlegungs- und Beweislast für das
-Vorliegen einer echten Stundungsvereinbarung.
+**Stundungen in der Liquiditätsbilanz:** In die Passiva I sind nur Verbindlichkeiten aufzunehmen, die tatsächlich fällig und nicht wirksam gestundet sind. Echter Stundung (beiderseitig gewollt, glaubhaft dokumentiert) ist Folge zu geben; sie beseitigt die Fälligkeit. Erzwungene oder faktische Stundungen — d.h. bloßes Dulden des Zahlungsverzugs durch den Gläubiger ohne Einigung — beseitigen die Fälligkeit nicht. Im Anfechtungsprozess trifft den Schuldner die Darlegungs- und Beweislast für das Vorliegen einer echten Stundungsvereinbarung.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Zur Verschuldensfrage bei Antragspflichtverletzung: Kenntnis der Zahlungsunfähigkeit ist dann zu
-bejahen, wenn dem Schuldner die die Zahlungsunfähigkeit begründenden Tatsachen bekannt waren
-oder bekannt sein mussten. Dieses Urteil unterstreicht, dass eine Berufung auf Unkenntnis dann
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**Verschulden bei Antragspflichtverletzung:** Kenntnis der Zahlungsunfähigkeit ist zu bejahen, wenn dem Schuldner die die Zahlungsunfähigkeit begründenden Tatsachen bekannt waren oder bekannt sein mussten. Berufung auf Unkenntnis schützt nicht.
+
+**Aktuelle Entwicklungen (Stand Mai 2026):**
+- **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter im Vorsatzanfechtungs-Prozess konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH II ZR 206/22 vom 23.07.2024** — fortwirkende Haftung des ausgeschiedenen Geschäftsführers. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung.
 
 ### Quellenregel
 
@@ -99,7 +86,7 @@ Vollständige Erfassung aller am Stichtag fälligen, nicht wirksam gestundeten V
 Einzubeziehen sind: Lieferantenverbindlichkeiten, Darlehensverbindlichkeiten (inkl. gekündigter
 oder fälliger Teile), Lohn- und Gehaltsrückstände, Sozialversicherungsbeiträge (SV-Beiträge),
 Steuerschulden mit abgelaufener Zahlungsfrist, sonstige fällige Forderungen. Stundungen sind auf
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ihre Echtheit zu prüfen (BGH-Linie zur echten Stundung; konkrete Az. vor Ausgabe verifizieren).
 
 > **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) ist keine Stundung.** AdV-Verfügungen
 > hemmen nur die Vollziehung, lassen die Fälligkeit der Steuerforderung aber unberührt. Im
@@ -143,12 +130,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Unterdeckung ≥ 10 % → Zahlungsunfähigkeit unabhängig von der Perspektive der Beseitigung
 
 **Schritt 7 – Würdigung der Indizien für Zahlungseinstellung (§ 17 Abs. 2 S. 2 InsO)**
-Liegen rechnerisch Zweifelsfälle vor oder fehlen vollständige Daten, sind die Indizien nach
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Liegen rechnerisch Zweifelsfälle vor oder fehlen vollständige Daten, sind die Indizien
+nach BGH-Linie heranzuziehen: verspätete Lohnzahlungen, offene SV-Beiträge, erfolglose
 Stundungsbitten, Wechselproteste, Pfändungen, Insolvenzanträge anderer Gläubiger, eigener
 Antrag. Häufen sich mehrere Indizien, ist Zahlungseinstellung und damit Zahlungsunfähigkeit
-zu bejahen. Die Vermutung des § 17 Abs. 2 S. 2 InsO ist widerlegbar; die Beweislast liegt beim
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+zu bejahen. Die Vermutung des § 17 Abs. 2 S. 2 InsO ist widerlegbar; die Beweislast liegt beim Schuldner. Konkrete Aktenzeichen der einschlägigen BGH-Entscheidungen vor Ausgabe über offene Quellen verifizieren.
 
 ## Ausgabeformat
 
@@ -196,8 +182,7 @@ Aktiva I                    25.000 EUR
 
 **Quote:** 25.000 / 320.000 × 100 = **7,8 %**
 
-Die Unterdeckung beträgt 92,2 % und übersteigt damit nicht die 10-%-Schwelle im Sinne von BGH,
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Die Unterdeckung beträgt 92,2 % und übersteigt damit nicht die 10-%-Schwelle im Sinne der ständigen BGH-Linie (konkrete Az. vor Ausgabe verifizieren).
 
 **Zwischenergebnis:** Die Unterdeckung liegt unter 10 %. Es ist zu prüfen, ob die Lücke von
 295.000 EUR innerhalb von 3 Wochen zu schließen ist. Fehlen konkrete Zuflüsse, liegt nach Ablauf
@@ -222,9 +207,7 @@ Aktiva I                    40.000 EUR
 
 Die Unterdeckung beläuft sich auf 87,5 % und übersteigt die 10-%-Schwelle.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-einer Unterdeckung von ≥ 10 % Zahlungsunfähigkeit anzunehmen, sobald keine kurzfristige
-Beseitigung in Sicht ist. Die Schuldnerin kann keine Zuflüsse innerhalb von 3 Wochen nachweisen.
+Nach ständiger BGH-Linie ist bei einer Unterdeckung von ≥ 10 % Zahlungsunfähigkeit anzunehmen, sobald keine kurzfristige Beseitigung in Sicht ist (konkrete Az. vor Ausgabe verifizieren). Die Schuldnerin kann keine Zuflüsse innerhalb von 3 Wochen nachweisen.
 Die Unterdeckung wird nicht innerhalb von 3 Wochen beseitigt.
 
 **Ergebnis:** Die Muster GmbH ist zum Stichtag 31.03.2025 zahlungsunfähig i.S.d. § 17 Abs. 2
@@ -232,19 +215,13 @@ S. 1 InsO. Die Pflicht zur Stellung eines Insolvenzantrags nach § 15a InsO ist 
 
 ## Risiken und typische Fehler
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Häufig wird ein bloßes Nichtklagen des Gläubigers als Stundung gewertet. Nach BGH,
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-oder faktische Duldung des Zahlungsverzuges die Fälligkeit nicht. Nur beiderseitig vereinbarte,
-schriftlich belegbare echte Stundungen dürfen aus den Passiva I herausgenommen werden. Ohne
-Dokumentation besteht das Risiko, dass das Insolvenzgericht oder ein Sachverständiger die
-Fälligkeit gleichwohl bejaht und eine frühere Zahlungsunfähigkeit feststellt.
+**1. Faktische Stundung statt echter Stundung**
+Häufig wird ein bloßes Nichtklagen des Gläubigers als Stundung gewertet. Nach ständiger BGH-Linie (konkrete Az. vor Ausgabe verifizieren) beseitigt eine erzwungene oder faktische Duldung des Zahlungsverzuges die Fälligkeit nicht. Nur beiderseitig vereinbarte, schriftlich belegbare echte Stundungen dürfen aus den Passiva I herausgenommen werden. Ohne Dokumentation besteht das Risiko, dass das Insolvenzgericht oder ein Sachverständiger die Fälligkeit gleichwohl bejaht und eine frühere Zahlungsunfähigkeit feststellt.
 
 **2. Vergessene Sozialversicherungsbeiträge**
 SV-Beiträge werden in der Praxis häufig nicht in die Passiva I aufgenommen, obwohl sie
 gesetzlich sofort fällig sind (§ 23 SGB IV). Rückständige SV-Beiträge sind zugleich ein gewichtiges
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Fehler hier führen sowohl zur Unterschätzung der Passiva I als auch zur Übersehung eines
+Indiz für die Zahlungseinstellung iSd § 17 Abs. 2 S. 2 InsO (st. BGH-Linie; Az. vor Ausgabe verifizieren). Fehler hier führen sowohl zur Unterschätzung der Passiva I als auch zur Übersehung eines
 Zahlungseinstellungsindizes.
 
 **3. Unzulässige Berücksichtigung künftiger Forderungen (Aktiva III. Stufe)**

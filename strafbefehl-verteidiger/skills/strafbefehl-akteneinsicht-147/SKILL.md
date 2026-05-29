@@ -23,9 +23,11 @@ description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag be
 - **§ 32f StPO** — elektronische Akteneinsicht (eAkte)
 - **§ 49 OWiG i.V.m. § 147 StPO** — entsprechende Geltung im Bussgeldbescheid-Verfahren
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Daten als Beweisgrundlage im Strafbefehl): Akteneinsicht muss die Auswertungs- und Authentifizierungsprotokolle der ANOM-Daten umfassen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Akteneinsicht insbesondere in Mengenermittlung und Auswertung; sanktionsfreie Eigenkonsummenge fuer Tatverdachtspruefung herauszupraeparieren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 147 StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 147 StPO Strafbefehl" durchführen.
 
 ## Quellenregel
 

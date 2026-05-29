@@ -32,15 +32,12 @@ description: "Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsat
 
 Wichtig: Die Vier-Jahres-Frist des § 133 Abs. 2 InsO gilt für Deckungshandlungen, nicht nur für nahestehende Personen. Nahestehende Personen sind in § 133 Abs. 4 InsO gesondert geregelt.
 
-## Rechtsprechungsleitlinien
+## Rechtsprechungsleitlinien BGH IX. ZS (offene Quellen)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20 — Neuausrichtung der Vorsatzanfechtung; alleinige Kenntnis der Zahlungsunfaehigkeit traegt den Benachteiligungsvorsatz nicht mehr schematisch; massgeblich ist Wissen oder Inkaufnahme, dass kuenftige Glaeubiger nicht voll befriedigt werden. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX+ZR+72/20
+- BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Weiterentwicklung der Linie zu § 133 InsO bei kongruenter Deckung; Verwalter traegt Darlegungslast hinsichtlich Deckungsluecke und prognostischer Befriedigungsaussicht; einfaches Bestreiten kann genuegen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
+- BGH, Urt. v. 18.04.2024 – Az. IX ZR 239/22 — Parallelentscheidung zur Anfechtung wegen gesellschafteraehnlicher Stellung (§ 135 InsO i.V.m. § 133 InsO). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22
+- Weiterfuehrende Rechtsprechungsdurchsicht: https://www.bundesgerichtshof.de und https://openjur.de.
 
 ## § 133 als Human-Review-Norm
 

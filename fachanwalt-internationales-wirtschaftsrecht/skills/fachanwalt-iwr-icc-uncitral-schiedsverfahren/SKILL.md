@@ -20,14 +20,14 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 
 ## Rechtlicher Rahmen
 
-- **§§ 1025-1066 ZPO** — Schiedsverfahren (deutsches Recht; bei Sitz DE)
-- **ICC Rules 2021**
-- **UNCITRAL Model Law 2006**
-- **UNCITRAL Arbitration Rules 2021**
-- **ICSID Convention** (Investitionsschutz)
-- **New Yorker Übereinkommen 1958** — Vollstreckung Schiedssprüche in 172 Staaten
-- **IBA Rules on the Taking of Evidence 2020**
-- **IBA Guidelines on Conflicts of Interest 2014**
+- **§§ 1025-1066 ZPO** — Schiedsverfahren (deutsches Recht; bei Sitz DE). Reformprozess: Gesetz zur Modernisierung des Schiedsverfahrensrechts; Referentenentwurf des BMJ vom 01.02.2024 (Konsultation bis 14.03.2024); Vorhaben fiel mit Ende der 20. Wahlperiode der Diskontinuitaet anheim, neues Verfahren in 21. Wahlperiode. Inhalte u. a. Formfreiheit kaufmaennischer Schiedsvereinbarungen, Online-Verhandlungen, elektronische Schiedssprueche. Stand bei Verwendung pruefen: https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- **ICC Rules 2021** (in Kraft seit 01.01.2021; Update gegenueber ICC Rules 2017): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- **UNCITRAL Model Law 2006** (mit Aenderungen)
+- **UNCITRAL Arbitration Rules 2021** (Expedited Arbitration Rules; in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
+- **ICSID Convention** (Investitionsschutz); Stand 2024/2025: ICSID-Rules-Revision 2022 (in Kraft seit 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
+- **New Yorker Übereinkommen 1958** — Vollstreckung Schiedssprueche in derzeit ueber 170 Vertragsstaaten (Stand 2025; laufend aktualisiert). Aktuelle Liste: https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
+- **IBA Rules on the Taking of Evidence 2020** (in Kraft seit 17.12.2020): https://www.ibanet.org/MediaHandler?id=def0807b-9fec-43ef-b624-f2cb2af7cf7b
+- **IBA Guidelines on Conflicts of Interest 2024** (Revision; ersetzen Fassung 2014): https://www.ibanet.org/document?id=Guidelines-on-Conflicts-of-Interest-in-International-Arbitration-2024
 
 ## ADR-Pfade
 
@@ -120,7 +120,15 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 
 ## Quellen und Updates
 
-Stand: 05/2026. ICC Rules 2021. UNCITRAL Rules 2021. IBA Rules 2020. New Yorker Übereinkommen 1958. Bei ICC-Reform aktualisieren.
+Stand: 05/2026.
+- ICC Rules 2021 (in Kraft 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- UNCITRAL Expedited Arbitration Rules (in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
+- ICSID-Rules 2022 (in Kraft 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
+- IBA Guidelines on Conflicts of Interest 2024: https://www.ibanet.org/document?id=Guidelines-on-Conflicts-of-Interest-in-International-Arbitration-2024
+- Status New Yorker UN-Uebereinkommen 1958 (derzeit ueber 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2
+- §§ 1025 ff. ZPO Modernisierung (BMJ-Verfahren laufend; Stand pruefen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
+- Achmea (EuGH, Urt. v. 06.03.2018 — C-284/16, Slowakische Republik/Achmea BV; ECLI:EU:C:2018:158): https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62016CJ0284 — Intra-EU-Investitionsschiedsklauseln in BITs unionsrechtswidrig.
+- Komstroy (EuGH, Urt. v. 02.09.2021 — C-741/19, Republik Moldau/Komstroy LLC; ECLI:EU:C:2021:655): https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0741 — Erweiterung der Achmea-Doktrin auf Intra-EU-Streitigkeiten unter dem Energiecharta-Vertrag (ECT).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

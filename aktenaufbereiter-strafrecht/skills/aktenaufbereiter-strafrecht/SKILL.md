@@ -221,9 +221,11 @@ Vorlage für eine strukturierte Aktenübersicht mit drei Sheets:
 
 Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturiert die Verteidigerarbeit beim Lesen der Ermittlungsakte.
 
-## Rechtsprechung zur Aktenaufbereitung und Verwertungsverboten
+## Rechtsprechung zur Aktenaufbereitung und Verwertungsverboten (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG 23.09.2025 — 2 BvR 625/25: Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation; Akten muessen die Auswertungs- und Authentifizierungskette nachvollziehbar machen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Beim Cannabis-Komplex Mengenangaben und Auswertungs-Protokolle in der Akte gezielt auf sanktionsfreie Eigenkonsummengen pruefen; daraus folgen Beweisverwertungs- und Tatverdachtsfragen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Beweisverwertungsverbote nach §§ 136a, 100a–100e, 105 StPO: ständige Maßstabsentscheidungen vor Verwendung in dejure.org / openjur.de live verifizieren.
 
 ## Normen Aktenaufbereitung
 

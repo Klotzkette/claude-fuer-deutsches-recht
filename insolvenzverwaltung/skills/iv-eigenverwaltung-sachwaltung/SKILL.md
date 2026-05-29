@@ -58,9 +58,12 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - §§ 270 ff. InsO
 - § 280 InsO
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen; Schlechterstellungsprüfung (§ 66 Abs. 2 Nr. 3 StaRUG) entscheidend.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Zur Verzahnung Eigenverwaltung / Anfechtung: **BGH IX ZR 122/23 vom 05.12.2024** (Bargeschäft / Unlauterkeit) und **BGH IX ZR 129/22 vom 18.04.2024** (Vorsatzanfechtung).
+- Konkrete BGH-Linien zu §§ 270b, 270d InsO (vorläufige Eigenverwaltung, Schutzschirm) und zur Sachwalter-Haftung vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 
 ## Paragrafenkette Insolvenzverwaltung
 

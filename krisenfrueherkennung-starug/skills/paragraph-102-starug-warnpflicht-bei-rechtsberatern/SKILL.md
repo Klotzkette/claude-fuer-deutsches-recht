@@ -15,7 +15,10 @@ description: "Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberat
 - § 43 StBerG (Allgemeine Berufspflichten des Steuerberaters)
 - § 43 WPO (Berufspflichten des Wirtschaftsprüfers)
 - § 43a BRAO (Grundpflichten des Rechtsanwalts)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH IX ZR 285/14 vom 26.01.2017** — Grundsatzentscheidung zur Hinweis- und Warnpflicht des Steuerberaters bei drohender Insolvenz; Steuerberater haftet auf den durch die unterlassene Warnung verursachten Insolvenzvertiefungsschaden.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung der Hinweis- und Warnpflicht zugunsten des (faktischen) Geschäftsführers; der GF kann eigenen Schadensersatzanspruch gegen Berater haben, wenn er bestimmungsgemäß in den Schutzbereich des Mandatsvertrags einbezogen ist.
+  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
 ---
@@ -52,9 +55,13 @@ Die Warnung muss konkret, verständlich und nachweisbar sein. Bloßer Hinweis in
 4. **Fristsetzung** — bis wann erwartet der Berater Rückmeldung?
 5. **Hinweis auf Insolvenzantragspflicht** — § 15a InsO und Drei-Wochen-Frist benennen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+**BGH IX ZR 285/14 vom 26.01.2017** ist die Grundsatzentscheidung zur Hinweis- und Warnpflicht des Steuerberaters bei möglicher Insolvenzreife: Ein Steuerberater, der bei der Erstellung des Jahresabschlusses auf Anzeichen einer Unternehmenskrise stößt, ist verpflichtet, den Mandanten unaufgefordert auf das Risiko einer Insolvenzantragspflicht hinzuweisen. Diese Pflicht besteht auch bei Teilauftrag. Der Schutzbereich des Beratungsvertrags umfasst den wirtschaftlichen Gesamtschaden des Mandanten.
 
-Der BGH hat in dieser Entscheidung klargestellt: Ein Steuerberater, der bei der Erstellung des Jahresabschlusses auf Anzeichen einer Unternehmenskrise stößt, ist verpflichtet, den Mandanten unaufgefordert auf das Risiko einer Insolvenzantragspflicht hinzuweisen. Diese Pflicht besteht auch dann, wenn der Berater nur mit einem Teilauftrag (z.B. nur Jahresabschluss, kein Sanierungsauftrag) betraut ist. Der Schutzbereich des Beratungsvertrags umfasst den wirtschaftlichen Gesamtschaden des Mandanten.
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+
+**BGH IX ZR 56/22 vom 29.06.2023** erweitert die Schutzwirkung des Beratungsmandats: Auch der (faktische) Geschäftsführer kann in den Schutzbereich einbezogen sein, wenn er bestimmungsgemäß mit der Hauptleistung in Berührung kommt — d.h. der Berater haftet ggf. auch dem GF persönlich auf Ersatz seines Insolvenzvertiefungsschadens (insb. Haftung nach § 15b InsO, § 823 II BGB iVm § 15a InsO).
+
+Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 
 **Praktische Konsequenz:** Kein Berater kann sich auf den Umfang seines Mandats zurückziehen, wenn er krisensignifikante Informationen in der Hand hält. Die Warnung gehört zum Mindestinhalt jedes Beratungsverhältnisses.
 

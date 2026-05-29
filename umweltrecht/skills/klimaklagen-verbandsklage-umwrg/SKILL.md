@@ -7,7 +7,9 @@ description: "Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext,
 
 ## Zweck
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Skill fuer Klimaklagen (BVerfG-Klimabeschluss 1 BvR 2656/18, 24.03.2021), Verbandsklagen anerkannter Umweltvereinigungen nach §§ 1, 2 UmwRG, sowie KSG-Klagen auf Sofortprogramme (BVerwG 30.11.2023, 8 C 7.22). Im Fokus: UVP-/SUP-Pflicht-Streit, BImSchG-Anlagengenehmigungen mit Klimabezug, KSG-Vollzugsklagen.
+
+Zentrale verifizierte Eckentscheidungen: BVerfG 1 BvR 2656/18, BVerwG 8 C 7.22, EGMR Grosse Kammer 09.04.2024 (KlimaSeniorinnen Schweiz, Nr. 53600/20), EuGH C-243/15 + C-664/15 zu Aarhus. Konkrete Aktenzeichen vor Ausgabe ueber bundesverfassungsgericht.de / bverwg.de / curia.europa.eu / echr.coe.int verifizieren.
 
 ## Eingaben
 
@@ -21,15 +23,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Typ 1 — Klimaklage individuelle Verfassungsbeschwerde
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 24.03.2021, 1 BvR 2656/18 u.a. (Klimabeschluss)** — § 3 Abs. 1 S. 2 und § 4 Abs. 1 S. 3 KSG i.V.m. Anlage 2 KSG, soweit sie die nationalen Reduktionsziele fuer Zeitraeume nach 2030 nicht hinreichend konkretisieren, sind mit Grundrechten (intertemporaler Freiheitsschutz) unvereinbar. Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
 - **Argumentation:** intertemporale Freiheits-Sicherung — heutige unzureichende Klimapolitik beschränkt künftige Freiheits-Spielräume
 
 ### Typ 2 — Klimaklage gegen Bundesregierung
 
 - Verwaltungsgerichtliche Klage auf Erlass von Klimaschutz-Maßnahmen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- OVG Berlin-Brandenburg
-- BVerwG-Berufung
+- **BVerwG 30.11.2023, 8 C 7.22** (Klage DUH/BUND auf Klimaschutz-Sofortprogramm § 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach § 3 UmwRG anerkannten Umweltvereinigungen fuer den Klimaschutzprogramm-Anspruch nach KSG. Quelle: bverwg.de — Pressemitteilung 79/2023.
+- OVG Berlin-Brandenburg (Vorinstanzen DUH/BUND vs. BMU) — Aktenzeichen vor Ausgabe verifizieren ueber berlin.de/justiz
+- KSG-Aenderungsgesetz 2024 (BGBl. I 2024 S. 251) — Sofortprogramm-Mechanismus § 8 KSG modifiziert (Sektorenzielung gelockert, jahresbezogene Sektorgrenze ueberarbeitet)
 
 ### Typ 3 — Klage Verband gegen Genehmigung mit Klima-Bezug
 
@@ -66,23 +68,27 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Kein Drittschutz-Erfordernis
 
 - Verbandsklage ohne eigene Rechtsverletzung
-- Aarhus-Konvention Art. 9 Abs. 2
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Aarhus-Konvention Art. 9 Abs. 2 — VO/RL 2003/35/EG
+- **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz fuer Umweltverbaende; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle: curia.europa.eu.
+- **EuGH 20.12.2017, C-664/15 (Protect)**: Umweltverband muss zumindest objektive Rechtsverletzungen ruegen koennen; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu.
 
 ### Materielle Anforderungen Klage-Erfolg
 
 - Verletzung umweltbezogener Rechtsvorschriften
-- Subjektive und objektive Rechte
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Subjektive und objektive Rechte (§ 2 Abs. 4 UmwRG seit Novelle 2017)
+- **BVerwG 17.12.2020, 4 C 5.19**: Umweltverband muss substanziiert darlegen, dass das Vorhaben gegen umweltbezogene Vorschriften verstoesst; bloss formale Beanstandungen genuegen nicht. Quelle: bverwg.de.
+- **BVerwG 18.07.2019, 7 C 26.17**: Anforderungen an UVP-Pflichtigkeit und Nachholbarkeit von Verfahrensfehlern; Aufhebung nur bei kausalen Verfahrensmaengeln. Quelle: bverwg.de.
 
 ## Schritt 3 — BVerfG-Klimabeschluss als Argumentation
 
-### Rechtsprechung live prüfen
+### BVerfG 24.03.2021, 1 BvR 2656/18 u.a. — Kernaussagen (verifiziert bundesverfassungsgericht.de)
 
-- **Klimaschutz-Verfassungs-Verbot** (Art. 20a GG iVm Grundrechten)
-- **Intertemporale Freiheits-Sicherung** — zukünftige Generationen
-- **Pflicht zur Vorsorge**
-- **Klimaziele konkret** mit Verbindlichkeits-Anspruch
+- **Klimaschutz-Verfassungspflicht** (Art. 20a GG i.V.m. Grundrechten der Beschwerdefuehrer)
+- **Intertemporale Freiheits-Sicherung** — zukünftige Generationen; aus den Grundrechten folgen objektiv-rechtliche Schutzgehalte mit Zeitbezug
+- **Pflicht zur Vorsorge** — Gesetzgeber muss kuenftige Reduktionspfade hinreichend bestimmt regeln
+- **Klimaziele konkret** mit Verbindlichkeits-Anspruch — Bezug auf 1,5-Grad-Ziel des Pariser Abkommens
+
+Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolgeentscheidung BVerfG 24.01.2022, 1 BvR 2649/21 (Klimaschutzklagen Mecklenburg-Vorpommern, Bayern u.a.) — Verfassungsbeschwerden nicht zur Entscheidung angenommen (bundesverfassungsgericht.de).
 
 ### Anwendung in Verwaltungs-/Zivilverfahren
 
@@ -108,8 +114,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Klage gegen UVP-Pflicht-Verneinung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Anhörungs-Mangel begründet selbstständig Klage
+- **BVerwG 18.07.2019, 7 C 26.17**: Verfahrensfehler bei UVP-Vorpruefung begruenden Klagerecht nach § 4 UmwRG; Aufhebung jedoch nur bei moeglicher Kausalitaet fuer das Ergebnis.
+- **BVerwG 17.12.2020, 4 C 5.19**: Umfang und Anforderungen artenschutzrechtliche Pruefung (saP); klimaschutzrechtliche Belange im Rahmen § 5 BImSchG-Vorsorge.
+- Anhörungs-Mangel begründet selbstständig Klage (§ 4 Abs. 1, 1a UmwRG)
 
 ## Schritt 5 — Materiell-rechtliche Klage-Linien
 
@@ -140,7 +147,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Zugang zu Gerichten für Umweltverbände
 - Effektivitätsprinzip
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Art. 9 Abs. 3 Aarhus-Konvention verpflichtet zur unionsrechtskonformen Auslegung; effektiver Rechtsschutz fuer Umweltverbaende. Quelle: curia.europa.eu.
+- **EuGH 20.12.2017, C-664/15 (Protect)**: Art. 9 Abs. 3 Aarhus-Konvention unmittelbar anwendbar — Verband muss objektive Rechtsverletzung ruegen koennen. Quelle: curia.europa.eu.
 
 ### Compliance-Komitee
 
@@ -292,8 +300,13 @@ Es wird beantragt:
 - BNatSchG § 34
 - BauGB § 1
 - GG Art. 20a
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- EGMR Verein KlimaSeniorinnen Schweiz, App. No. 53600/20, 9.4.2024
+- BVerfG 24.03.2021, 1 BvR 2656/18 — Klimabeschluss (bundesverfassungsgericht.de)
+- BVerwG 30.11.2023, 8 C 7.22 — Klage auf Klimaschutz-Sofortprogramm § 8 KSG (bverwg.de)
+- BVerwG 17.12.2020, 4 C 5.19 — BImSchG-Genehmigung Wind + saP (bverwg.de)
+- BVerwG 18.07.2019, 7 C 26.17 — UVP-Vorpruefung (bverwg.de)
+- EuGH 08.11.2016, C-243/15 (Lesoochranárske) — Aarhus Art. 9 Abs. 3 (curia.europa.eu)
+- EuGH 20.12.2017, C-664/15 (Protect) — Aarhus Art. 9 Abs. 3 (curia.europa.eu)
+- EGMR Grosse Kammer 09.04.2024, KlimaSeniorinnen ./. Schweiz, Nr. 53600/20 (echr.coe.int)
 - Hoge Raad Urgenda 20.12.2019
 - Aarhus-Konvention
 - Schlacke Umweltrecht

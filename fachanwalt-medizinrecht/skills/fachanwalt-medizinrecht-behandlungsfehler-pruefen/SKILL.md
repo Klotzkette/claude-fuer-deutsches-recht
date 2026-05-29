@@ -29,9 +29,13 @@ description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Stan
   - § 630h Abs. 5 Satz 2: Bei Befunderhebungsmangel mit hinreichend wahrscheinlichem positivem Befund Beweislastumkehr für Kausalität.
 - Verjährung § 195 BGB drei Jahre ab Schluss des Jahres mit Kenntnis von Schaden und Schädiger (§ 199 Abs. 1 BGB); absolut 30 Jahre § 199 Abs. 2 BGB bei Verletzung Körper Gesundheit Leben Freiheit.
 
-### Schlüsselentscheidungen BGH
+### Schlüsselentscheidungen BGH (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 21.01.2025 — VI ZR 204/22: Behandelnder trägt Darlegungs- und Beweislast für hypothetische Einwilligung nach § 630h Abs. 2 Satz 2 BGB. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.01.2025&Aktenzeichen=VI+ZR+204/22
+- BGH 25.11.2025 — VI ZR 51/24: Krankenhaushaftung bei unzureichend organisiertem ärztlichen Nachtdienst. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+51/24
+- BGH 25.11.2025 — VI ZR 165/23: Weitere Konkretisierung hypothetische Einwilligung. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
+
+Weitere Entscheidungen vor Ausgabe in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
@@ -196,5 +200,7 @@ Anlagen: Behandlungsdokumentation, aerztl. Atteste, Vollmacht
 - BGB §§ 195, 199, 253, 280, 630a–630h, 823, 843, 844
 - ZPO §§ 286, 287
 - SGB X § 116; SGB V § 66
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 21.01.2025 — VI ZR 204/22: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.01.2025&Aktenzeichen=VI+ZR+204/22
+- BGH 25.11.2025 — VI ZR 51/24: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+51/24
+- BGH 25.11.2025 — VI ZR 165/23: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.

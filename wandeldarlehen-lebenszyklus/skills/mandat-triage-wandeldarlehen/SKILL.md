@@ -89,7 +89,20 @@ Empfehlung: `parteien-erfassen` für vollständige KYC-Daten, dann `darlehenshoe
 
 ## Quellen und Updates
 
-Stand: 05/2026. Bei Änderung GmbHG/UmwStG aktualisieren.
+Stand: 05/2026.
+- GmbHG: https://www.gesetze-im-internet.de/gmbhg/
+- §§ 488 ff. BGB (Darlehen): https://www.gesetze-im-internet.de/bgb/__488.html
+- § 55 GmbHG (Kapitalerhoehungsbeschluss): https://www.gesetze-im-internet.de/gmbhg/__55.html
+- § 56 GmbHG (Sacheinlage): https://www.gesetze-im-internet.de/gmbhg/__56.html
+- § 39 InsO (Nachraenge): https://www.gesetze-im-internet.de/inso/__39.html
+- §§ 135, 143 InsO (Gesellschafterdarlehen, Anfechtung): https://www.gesetze-im-internet.de/inso/__135.html
+- § 15a InsO (Insolvenzantragspflicht): https://www.gesetze-im-internet.de/inso/__15a.html
+- § 19 IV GmbHG (Erleichterung Aufrechnung Stammeinlage gegen Gesellschafterforderung — Hinweis: § 19 IV GmbHG i.d.F. MoMiG 2008 weiterhin maßgeblich; DiRUG/DiREG haben Form (Online-Beurkundung) modifiziert, materielle Aufrechnungsregel unveraendert): https://www.gesetze-im-internet.de/gmbhg/__19.html
+- DiRUG (BGBl. I 2021, 3338; in Kraft Bargruendung 01.08.2022): https://www.gesetze-im-internet.de/beurkg/__16a.html
+- DiREG (in Kraft 01.08.2023; Online-Beurkundung Kapitalerhoehung/Satzungsaenderung bei einstimmigem Beschluss): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
+- StaRUG (SanInsFoG, BGBl. I 2020, 3256; in Kraft 01.01.2021): https://www.gesetze-im-internet.de/starug/
+- § 15b InsO (rechtsformneutrales Zahlungsverbot): https://www.gesetze-im-internet.de/inso/__15b.html
+- Bei Aenderung GmbHG/UmwStG aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 

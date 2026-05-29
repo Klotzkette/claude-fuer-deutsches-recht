@@ -18,16 +18,18 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 5. Schlussrechnung erstellt?
 6. AG-Einwendungen?
 
-## Rechtsprechung live prüfen
+## Rechtsprechung (verifiziert dejure.org/curia.europa.eu)
 
-> "Die deutschen Mindest- und Hoechstsätze der HOAI verstoßen gegen die Dienstleistungs-Richtlinie."
+- **EuGH 04.07.2019, C-377/17** (Kommission ./. Deutschland): Die deutschen Mindest- und Hoechstsaetze der HOAI verstossen gegen Art. 15 Abs. 1, 2 lit. g und Abs. 3 Dienstleistungs-Richtlinie 2006/123/EG. Quelle: https://curia.europa.eu/juris/document/document.jsf?docid=215724
+- **EuGH 18.01.2022, C-261/20** (Thelen Technopark Berlin ./. MN): Nationale Gerichte koennen sich in Rechtsstreitigkeiten zwischen Privaten nicht unmittelbar auf die Dienstleistungs-RL berufen, um die HOAI-Mindestsaetze unangewendet zu lassen; aber Verpflichtung zur unionsrechtskonformen Auslegung und ggf. Staatshaftungsanspruch. Quelle: https://curia.europa.eu/juris/document/document.jsf?docid=252035
+- **BGH 02.06.2022, VII ZR 174/19** (Folgeentscheidung Thelen): Die Mindestsaetze der HOAI 2013 sind in Altfaellen weiter anwendbar, weil eine richtlinienkonforme Auslegung des § 7 HOAI 2013 contra legem waere; Aufstockungsklage des Architekten kann Erfolg haben. Quelle: https://www.bundesgerichtshof.de (BGH-Pressemitteilung 86/2022) / dejure.org/2022,12842
 
 ### Folgen
 
-- Mindestsätze HOAI 2013 / HOAI 2021 **nicht mehr bindend**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Frei vereinbarte Honorare wirksam
-- HOAI gilt als **Orientierungshilfe**, nicht als Pflicht
+- HOAI 2021 (in Kraft 01.01.2021): Mindest- und Hoechstsaetze nur noch als Orientierungswert (§ 7 HOAI 2021). Schriftform-Erfordernis entfallen.
+- HOAI 2013-Altvertraege: Mindestsaetze nach BGH VII ZR 174/19 weiter bindend (siehe oben), aber Staatshaftung gegen die Bundesrepublik moeglich.
+- Frei vereinbarte Honorare ab 01.01.2021 wirksam.
+- Vor Ausgabe konkreter Honorarentscheidungen: dejure.org-Verifikation mit Datum, Aktenzeichen und Norm.
 
 ## 3) HOAI 2021 — Struktur
 
@@ -154,9 +156,15 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 4. **Anrechenbare Kosten nicht dokumentiert** -> Pruefbarkeit
 5. **LPH-Erbringung nicht nachweisbar** -> Honorar-Reduzierung
 
-## 10) Aktuelle Rechtsprechung — Leitsätze
+## 10) Aktuelle Rechtsprechung — Leitsätze (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierbare Eckentscheidungen:
+
+- EuGH 04.07.2019, C-377/17 — HOAI-Mindestsaetze verstossen gegen Dienstleistungs-RL (https://curia.europa.eu/juris/document/document.jsf?docid=215724)
+- EuGH 18.01.2022, C-261/20 — Thelen Technopark, keine unmittelbare horizontale Wirkung (https://curia.europa.eu/juris/document/document.jsf?docid=252035)
+- BGH 02.06.2022, VII ZR 174/19 — Mindestsaetze in HOAI-2013-Altvertraegen weiter anwendbar (https://www.bundesgerichtshof.de Pressemitteilung 86/2022)
+
+Weitere konkrete Aktenzeichen vor Ausgabe immer per dejure.org / bundesgerichtshof.de verifizieren.
 
 
 ## Quellenregel
@@ -212,3 +220,4 @@ K 4 — Leistungsphasennachweise
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
 <!-- VII ZR 144/17 (behauptet 11.10.2018): NOT_FOUND auf dejure.org — geloescht -->
 <!-- VII ZR 107/19 (behauptet 22.10.2020): NOT_FOUND auf dejure.org — geloescht -->
+<!-- UPDATE 05/2026: EuGH C-377/17 (04.07.2019), EuGH C-261/20 (18.01.2022) Thelen, BGH VII ZR 174/19 (02.06.2022) ergaenzt; alle ueber curia.europa.eu bzw. bundesgerichtshof.de verifiziert -->

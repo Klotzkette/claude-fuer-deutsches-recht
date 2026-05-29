@@ -24,9 +24,11 @@ description: "Verständigung nach § 257c StPO im Strafbefehlsverfahren. Vorauss
 - **§ 153a StPO** — Einstellung gegen Auflage (Praxis-Alternative zur Verstaendigung)
 - **§ 46a StGB** — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA § 46a Nr. 1 StGB setzt einen friedensstiftenden kommunikativen Prozess voraus; bloße Zahlung an das Opfer reicht für Strafmilderung nicht aus. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
+- BVerfG-Rahmen (Stand-by) zu § 257c StPO: Maßstab weiterhin BVerfG 19.03.2013 — 2 BvR 2628/10, 2 BvR 2155/11, 2 BvR 2883/10 (Verstaendigungs-Urteil); Aktualisierungen vor Ausgabe in dejure.org / bverfg.de pruefen. Offene Fundstelle Verstaendigungs-Urteil: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+BvR+2628/10
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Anwendung des § 257c StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 257c StPO Strafbefehl" durchführen.
 
 ## Quellenregel
 

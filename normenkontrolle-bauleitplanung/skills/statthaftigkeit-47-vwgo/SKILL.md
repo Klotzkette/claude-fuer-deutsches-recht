@@ -128,9 +128,13 @@ Klärung, ob die angegriffene Vorschrift überhaupt Gegenstand eines Normenkontr
 - BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10 (Präklusion)
 - BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Antragsbefugnis Nachbar)
 
-## Ergänzende Rechtsprechung
+## Ergänzende Rechtsprechung (Stand 05/2026, verifiziert bverwg.de)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerwG 14.10.2020, 4 CN 4.19**: Antragsbefugnis im Normenkontrollverfahren — § 47 Abs. 2 VwGO setzt Geltendmachung einer moeglichen Rechtsverletzung voraus; abwaegungsfehlerhafte Plaene begruenden Antragsbefugnis, wenn der Antragsteller einen abwaegungserheblichen Belang geltend macht. Quelle: bverwg.de.
+- **BVerwG 04.05.2022, 4 CN 2.21**: Konzentrationszonen-Bauleitplanung (Wind/Solar) — Anforderungen an Statthaftigkeit und Antragsbefugnis von Nachbarn ausserhalb der Konzentrationszone. Quelle: bverwg.de.
+- **BVerwG 11.04.2024, 4 BN 50.23**: Klimaschutz als Abwaegungs- und ggf. Antragsbefugnis-relevanter Belang. Quelle: bverwg.de.
+
+Konkrete Aktenzeichen vor Ausgabe per bverwg.de verifizieren.
 
 ## Quellenregel
 

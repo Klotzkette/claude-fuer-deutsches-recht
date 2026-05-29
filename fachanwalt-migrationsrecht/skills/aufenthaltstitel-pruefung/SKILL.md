@@ -318,7 +318,15 @@ Hinweis: Die frühere Verkürzung auf drei Jahre bei besonderen Integrationsleis
 
 ## Quellen
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Stand 05/2026. AufenthG, AsylG, BeschV und Fachkräfteeinwanderungsgesetz im Mandat tagesaktuell prüfen. Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+- AufenthG — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aufenthg_2004/)
+- BeschV — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/beschv_2013/)
+- BVerwG-Migrationsrechtsprechung — [bverwg.de](https://www.bverwg.de)
+- EuGH-Curia — [curia.europa.eu](https://curia.europa.eu/)
+- BAMF Glossar / GEAS — [bamf.de](https://www.bamf.de)
+
+Aktuelle Linie zur Dublin-Zuständigkeit: EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeitsübergang auf ersuchenden Mitgliedstaat nach Ablauf 6-Monatsfrist; einseitige Aussetzung der Rücknahme bewirkt keinen automatischen Übergang.
 
 ## Output-Template: Aufenthaltstitel-Pruefungsmemo
 

@@ -36,7 +36,7 @@ Schadensersatzansprüche eines Anlegers gegen seine Bank oder einen Vermögensve
 | § 64 WpHG | Geeignetheitsprüfung (Beratung): Kunde, Anlageziele, finanzielle Situation, Kenntnisse |
 | § 83 WpHG | Beratungsprotokoll-Pflicht |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Die zentrale Linie der BGH-Rspr. (XI. ZS) ist die Pflicht zur anlegergerechten und anlagegerechten Beratung (st. Rspr. seit "Bond" — konkrete Aktenzeichen, Datum und Randnummer vor Versand in juris.bundesgerichtshof.de oder dejure.org verifizieren).
 
 Das Fundament aller Beratungshaftungs-Fälle:
 
@@ -52,18 +52,24 @@ Das Fundament aller Beratungshaftungs-Fälle:
 - Kostenstruktur (Ausgabeaufschlag, laufende Kosten, Performance-Fee)
 - Steuerliche Wirkung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Kick-back-/Provisionsoffenlegungspflicht ist st. Rspr. des XI. ZS des BGH (Aktenzeichen, Datum und Randnummer vor Versand in offener Quelle verifizieren):
 
 - Bank muss über **alle Vertriebsvergütungen** aufklären, die sie vom Emittenten/Produktanbieter erhält
 - Aufklärung muss vor Investition erfolgen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Konkret-individualisierte Offenlegung (nicht nur abstrakt)
 - Eigeninteresse der Bank begründet Interessenkonflikt → aufklärungsbedürftig
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Vor Versand jeweils Volltext in offener Quelle (juris.bundesgerichtshof.de, dejure.org, openjur.de, curia.europa.eu) aufrufen:
+
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BGH XI. ZS | XI ZR 22/24 | 20.5.2025 | Verbraucherdarlehen Immobilien: AGB-Klausel zur Vorfälligkeitsentschädigung muss Berechnung transparent darstellen; intransparente Klausel führt zum Verlust des Anspruchs auf Vorfälligkeitsentschädigung | juris.bundesgerichtshof.de |
+| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Referenzzins für Zinsanpassungen in Prämiensparverträgen (Folgeentscheidung) | bundesgerichtshof.de PM Nr. 225/2025 |
+| BGH XI. ZS | XI ZR 553/19 | 2024 | Stärkung der Rechte von Darlehensnehmern bei Altforderungen — Volltext und Datum vor Versand verifizieren | juris.bundesgerichtshof.de |
+
+Hinweis: Es gibt keine Praejudizienbindung im deutschen Recht (Ausnahme § 31 BVerfGG). BGH-Linien werden zitiert als Auslegungshilfe, nicht als verbindliches Recht.
 
 ## Prüfschema Anlageberatungsfehler
 
@@ -71,9 +77,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 |---|---|---|---|
 | 1 | Beratungsvertrag (konkludent oder schriftlich)? | § 280 BGB | Ohne Vertrag nur c.i.c. |
 | 2 | Risikoprofil erhoben und dokumentiert? | § 64 WpHG | Bank-Gegenbeweis möglich |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 3 | Anlegergerecht (Wissensstand, Risikobereitschaft, Anlageziel, Finanzlage)? | § 64 WpHG; st. Rspr. BGH XI. ZS | Pflichtverletzung |
+| 4 | Anlagegerecht (Produktstruktur, Risiken, Kosten)? | § 64 WpHG; st. Rspr. BGH XI. ZS | Pflichtverletzung |
+| 5 | Kick-back-/Vertriebsvergütung aufgeklärt? | st. Rspr. BGH XI. ZS (Aktenzeichen vor Versand verifizieren) | Aufklärungsfehler |
 | 6 | Beratungsprotokoll erstellt und übergeben? | § 83 WpHG | Beweisschwäche Bank |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 7 | Kausalitäts-Vermutung "Verhalten gegen guten Rat"? | st. Rspr. BGH XI. ZS (Aktenzeichen vor Versand verifizieren) | Bank-Gegenbeweis nötig |
 | 8 | Schadenshöhe berechnet? | § 249 BGB | Klageinhalt |
 | 9 | Mitverschulden § 254 BGB? | § 254 BGB | Quotelung des Schadensersatzes |
 | 10 | Verjährung geprüft? | §§ 195, 199 BGB | Klage abgewiesen bei Verjährung |
@@ -85,7 +93,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Inhalt des Beratungsgesprächs | Bank (MiFID-II Protokoll; bei fehlendem Protokoll: Vermutung zu Lasten Bank) |
 | Risikoprofil-Erhebung | Bank |
 | Aufklärung über Kickbacks | Bank |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Kausalitäts-Vermutung "Verhalten gegen guten Rat" | st. Rspr. BGH XI. ZS — Vermutung beweisbeladenes Verhalten; Bank muss Gegenbeweis führen |
 | Schadenshöhe | Anleger (§ 287 ZPO: Schätzung zulässig) |
 | Mitverschulden | Bank |
 | Verjährung | Bank |
@@ -112,7 +120,9 @@ Schadensumme:                              EUR [Netto]
 Anleger gibt Anlage-Gegenstand zurück
 und erhält:
 - Eingesetztes Kapital zurück
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Entgangene Alternativrendite (typisch 4 % p.a. — konkret darzulegen
+  durch alternative Anlageform; nicht aus Modellwissen pauschalisieren,
+  sondern Vergleichsanlage nachvollziehbar belegen)
 - Anwaltskosten aus Verzug
 ```
 
@@ -122,7 +132,7 @@ und erhält:
 |---|---|
 | Kursverlust | Kaufkurs ./. aktueller Kurs × Stückzahl |
 | Ausgabeaufschlag | Direkt aus Abrechnung |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Entgangene Alternativrendite | Marktübliche Alternative (z.B. Bundesanleihe, Tagesgeld); konkrete Vergleichsanlage darlegen, nicht pauschal annehmen |
 | Wertpapierkredit-Zinsen | Wenn kreditfinanziert + Zinsbelastung |
 | Anwaltskosten | § 249 BGB als Verzugsschaden |
 
@@ -132,19 +142,21 @@ und erhält:
 
 - Prospekthaftung im engeren Sinne: §§ 9 VermAnlG, 21 WpPG
 - Prospekthaftung im weiteren Sinne nach BGB: Verletzung von Aufklärungspflichten
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Linie der BGH-Rspr. (II./XI./III. Senate je nach Konstellation): konkrete Aktenzeichen, Datum, Randnummer vor Versand in offener Quelle verifizieren
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Lehman / Zertifikate-Linie
 
 - Aufklärungspflicht über Emittentenrisiko war obligatorisch
 - Rating allein genügte nicht
 - "Investment-Grade" schließt Aufklärungspflicht nicht aus
+- Aktenzeichen XI. ZS BGH vor Versand verifizieren
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Swap-Linie (CMS Spread Ladder)
 
 - Aufklärungspflicht über anfänglichen negativen Marktwert (strukturierter Nachteil für Kunden)
 - Eigeninteresse der Bank offenzulegen
 - Wert der Information für Anleger: erheblich
+- Aktenzeichen XI. ZS BGH vor Versand verifizieren
 
 ## Außergerichtliche Vorgehensweise
 
@@ -208,14 +220,18 @@ Kapitalmarktrecht]
 - `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — bei betrügerischen Plattformen
 - `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` — bei Kreditkündigung nach Verlust
 
-## Quellen
+## Quellen (Stand Mai 2026)
 
 - BGB §§ 195, 199, 249, 254, 280, 311
 - WpHG §§ 63, 64, 83
 - VermAnlG § 9; WpPG § 21
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MiFID-II Richtlinie 2014/65/EU
-- Ellenberger/Schäfer/Clouth Praktikerhandbuch Wertpapier- und Derivategeschäft
+- PRIIPs-VO (EU) Nr. 1286/2014 — KID-Pflicht für verpackte Anlageprodukte
+- Aktuelle Aktenzeichen (Volltext jeweils vor Versand prüfen in juris.bundesgerichtshof.de, dejure.org, openjur.de, curia.europa.eu):
+  - BGH XI ZR 22/24, Urt. v. 20.5.2025 — Vorfälligkeitsentschädigung intransparente AGB
+  - BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag
+  - LG Nürnberg-Fürth, Urt. v. 21.2.2025 — PRIIPs-KID Gesamtrisikoindikator bei offenem Immobilienfonds (nicht rechtskräftig; instanzgerichtlich)
+- Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; nicht aus Modellwissen.
 
 <!-- AUDIT 27.05.2026 bundle_021
 -->

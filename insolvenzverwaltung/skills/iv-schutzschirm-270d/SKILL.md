@@ -58,9 +58,10 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - § 270d InsO
 - §§ 17 bis 19 InsO
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — StaRUG-Restrukturierungsverfahren mit Kapitalherabsetzung / Bezugsrechtsausschluss zulässig, soweit Schlechterstellungsprüfung gewahrt; Hinweis auf Abgrenzung zu Schutzschirm § 270d InsO. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Konkrete BGH-Linien zu § 270d InsO (Bescheinigung, Auswahl Sachwalter, Beendigung Schutzschirm), insbesondere zur Anforderung an die IDW S 11 / IDW S 6-Bescheinigung, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 
 ## Paragrafenkette Insolvenzverwaltung
 

@@ -121,6 +121,11 @@ Verwaltungsstreit kann an mehreren Stellen vergleichsweise beendet werden: **vor
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Quellen und Updates
 
-Stand: 05/2026. VwVfG/VwGO stabil. BVerwG-Linie zu § 55 (4 C 10.18) und Erörterungstermin (9 C 25.16) stehend.
+Stand: 05/2026. VwVfG/VwGO im Kern stabil. Für die Verifikation öffentlich-rechtlicher Vergleiche und Erörterungstermine vor Ausgabe Rechtsprechungsdatenbank des BVerwG (bverwg.de) konsultieren — keine Aktenzeichen aus Modellwissen.
+
+- VwGO — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/)
+- VwVfG — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwvfg/)
+- BVerwG-Entscheidungsdatenbank — [bverwg.de](https://www.bverwg.de/entscheidungen)

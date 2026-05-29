@@ -12,8 +12,12 @@ description: "Workflow-Skill zu fachanwalt sozialrecht long covid bk anerkennung
 4. ME/CFS als Folge-Diagnose vom Facharzt gesichert? Gutachtenstreit erwartet.
 5. Frist für Widerspruch gegen Ablehnungsbescheid der BG (1 Monat § 84 SGG) bereits angelaufen?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+- BSG, Urteil vom 25.03.2025 — B 2 U 2/23 R (2. Senat, Unfallversicherung): Behandelt Verletztengeld und Anrechnung von Einkommen bei Arbeitsunfähigkeit nach Berufskrankheit; Grundsatz: Verletztengeld ersetzt den durch die BK-bedingte Arbeitsunfähigkeit ausgefallenen Verdienst. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_25_B_02_U_02_23_R.html
+- BSG, Urteil vom 17.06.2025 — B 2 U 10/23 R (Berufskrankheit). Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=17.06.2025&Aktenzeichen=B+2+U+10/23+R
+- Long-/Post-COVID — Stand der medizinischen Erkenntnis: AWMF-S1-Leitlinie Long-/Post-COVID Stand 05/2024 (Recherche: https://register.awmf.org/de/leitlinien/detail/020-027); diese stützt die instanzgerichtliche Linie (LSG-Entscheidungen seit 2023/2024), dass Fatigue-Syndrom und kognitive Defizite als typische Post-COVID-Symptome anzuerkennen sind und der medizinisch-wissenschaftliche Erkenntnisstand für eine Kausalitätsbeurteilung im Rahmen der BK 3101 inzwischen vorliegt.
+- Hinweis: Eine BSG-Leitentscheidung 2025/2026 speziell zur Anerkennung von Long-COVID als Folge der BK 3101 ist Stand Mai 2026 nicht im Volltext zugänglich; mehrere Verfahren sind nach öffentlicher Aktenzeichenlage anhängig (vgl. https://www.bsg.bund.de/SharedDocs/Rechtsfragen/DE/B_02_U_17_23_R.html). Vor Ausgabe Aktenzeichen-Recherche unter https://www.bsg.bund.de/SharedDocs/Entscheidungen/ durchführen.
 
 ## Quellenregel
 
@@ -48,16 +52,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 20 SGB X | Amtsermittlungsgrundsatz: BG ermittelt von Amts wegen |
 | § 84 SGG | Widerspruchsfrist ein Monat |
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Aktenzeichen | Gericht/Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Aktenzeichen | Gericht/Datum | Tragende Aussage | Offene Fundstelle |
+|---|---|---|---|
+| B 2 U 2/23 R | BSG 25.03.2025 (2. Senat) | Verletztengeld § 45 SGB VII — Einkommensanrechnung bei BK-bedingter AU; Verletztengeld ersetzt nur den durch die geschädigte Tätigkeit ausgefallenen Verdienst | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_25_B_02_U_02_23_R.html |
+| B 2 U 10/23 R | BSG 17.06.2025 | Berufskrankheit nach BKV — konkrete Aussage vor Verwendung im Volltext prüfen | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=17.06.2025&Aktenzeichen=B+2+U+10/23+R |
+| B 2 U 13/21 R | BSG 27.09.2023 | BK-Beweisanforderungen; Maßstab Kausalitätsfeststellung | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_09_27_B_02_U_13_21_R.html |
+
+Stand Mai 2026: Eine BSG-Leitentscheidung speziell zur Anerkennung von Long-COVID nach BK 3101 ist nicht im Volltext veröffentlicht; mehrere Verfahren sind nach öffentlicher Aktenzeichenlage anhängig. Vor Verwendung in dejure.org / bsg.bund.de live verifizieren.
 
 ---
 
@@ -68,7 +71,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 1 | Beruf im Anwendungsbereich BK 3101? (Gesundheitsdienst, Wohlfahrtspflege, Labor) | BKV Anlage 1 Nr. 3101 |
 | 2 | Bei Nicht-Listenberuf: Wie-BK § 9 Abs. 2 SGB VII möglich? | § 9 Abs. 2 SGB VII |
 | 3 | Höhere Infektionsgefährdung als Allgemeinbevölkerung dokumentiert? | RKI-Empfehlung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 4 | Labordiagnostischer Infektionsnachweis (PCR / Antikörper) und zeitlicher Konnex zur beruflichen Tätigkeit | § 9 SGB VII, BKV Anlage 1 Nr. 3101 |
+| 5 | Symptompersistenz > 12 Wochen — Anwendungsbereich Post-COVID nach AWMF-S1-Leitlinie 05/2024 | https://register.awmf.org/de/leitlinien/detail/020-027 |
+| 6 | Kausalitätskette: berufliche Exposition → Infektion → Long-COVID-Folge — vor Ausgabe BSG/LSG-Linie zur Kausalitätsbeurteilung live in dejure.org pruefen | § 9 SGB VII |
 | 7 | Long-COVID-Symptome dauerhaft belegt? (Fatigue, PEM, POTS, Kognition) | Arztberichte, Spezialambulanz |
 | 8 | ME/CFS (ICD G93.3) als Folgeerkrankung diagnostiziert? | Diagnostik-Kriterien (CCC/ICC) |
 | 9 | BG-Anzeige nach § 193 SGB VII durch Arbeitgeber erfolgt? | § 193 SGB VII |

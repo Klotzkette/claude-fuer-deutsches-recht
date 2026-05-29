@@ -22,9 +22,15 @@ Ermitteln, ob der konkrete Kontakt in den Anwendungsbereich faellt.
 2. Ist es Bundestag, Bundesregierung, Ministerium, nachgeordnete Behoerde oder EU-Ebene?
 3. Sind Mitarbeitende, Referatsleitungen oder politische Leitung betroffen?
 
+## Rechtsstand 2026
+
+Reformfassung des LobbyRG durch das Gesetz zur Aenderung des Lobbyregistergesetzes vom 15.01.2024, in Kraft seit 01.03.2024. Wesentliche Neuerung: Kontakte zu Bundesministerien werden bereits ab Referatsleiterebene erfasst (§ 1 Abs. 3 Nr. 2 LobbyRG n.F.). Uebergangsfrist fuer Bestandsregistrierungen lief bis 30.06.2024.
+
 ## Quellenanker
 
-- LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
+- LobbyRG (konsolidierte Fassung 2024): https://www.bundestag.de/resource/blob/991838/Konsolidierte-Fassung-LobbyRG-2024.pdf
+- LobbyRG bei gesetze-im-internet: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
+- Bundestag Hinweise zur Rechtslage ab 01.03.2024: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-zur-neuen-rechtslage-ab-dem-1-maerz-2024-955618
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md

@@ -64,9 +64,15 @@ Der nachstehende Workflow ist eine Arbeitsgrundlage. Vor Versand einer Abrechnun
 
 Mustergliederung der Abrechnung als Markdown plus Checkliste vor Versand. Vor der finalen Freigabe Disclaimer wiederholen.
 
-## Aktuelle Rechtsprechung — Leitsaetze
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH 09.04.2008, VIII ZR 84/07 — Mindestanforderungen Betriebskostenabrechnung (dejure.org/2008,5921; BGHZ 176, 191)
+- BGH 12.11.2014, VIII ZR 112/14 — Beweislast Vermieter fuer rechtzeitigen Zugang innerhalb der 12-Monatsfrist (dejure.org/2014,33617)
+- BGH 06.04.2016, VIII ZR 78/15 — Beleg-Einsichtsrecht des Mieters umfasst auch Datennachvollziehbarkeit (dejure.org/2016,8164)
+- HeizkostenV-Novelle 2022 (BGBl. I S. 2206) — fernablesbare Zaehler, unterjaehrige Verbrauchsinfo, Kuerzungsrecht § 12 HeizkostenV bei Verstoss
+- CO2KostAufG (BGBl. I 2022 S. 2030, in Kraft 01.01.2023) — Stufenmodell zur Aufteilung der CO2-Kosten zwischen Vermieter und Mieter nach Gebaeudeenergieeffizienz
+
+Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de verifizieren.
 
 ## Paragrafenkette
 

@@ -63,6 +63,15 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen KI-Büros konkretisiert. Neue Leitlinien zu Betreiber-Pflichten oder zu GPAI-Modellen sind regelmäßig zu beobachten. Ebenso ist die Umsetzung der KI-VO in nationales deutsches Recht (KI-Aufsichtsbehörde, Bußgeldvorschriften) zu verfolgen.
 
+## Faktische Updates (Stand 05/2026)
+
+- **Art. 4 KI-VO (KI-Kompetenz) — seit 02.02.2025 anwendbar:** Kanzleien muessen bereits jetzt fuer ausreichende KI-Kompetenz des Personals sorgen (Schulungen dokumentieren, Use-Case-spezifisch). Verstoesse koennen ab 02.08.2025 sanktioniert werden.
+- **Art. 50 KI-VO (Transparenzpflichten) — ab 02.08.2026:** Bei Kanzlei-Chatbots gegenueber Mandanten/Interessenten (Art. 50 Abs. 1), Deepfakes / synthetische Inhalte (Art. 50 Abs. 2), KI-generierter oeffentlicher Text bei oeffentlichem Interesse (Art. 50 Abs. 3). Schriftsatzunterzeichnung durch Anwalt = redaktionelle Verantwortung (Ausnahme).
+- **Art. 26 KI-VO (Betreiberpflichten Hochrisiko) — ab 02.08.2026:** Insbesondere bei Hochrisiko-Anwendungen in der Personalauswahl (Anhang III Nr. 4) — vor Einsatz Eignungspruefung, menschliche Aufsicht, Logging, Information betroffener Personen.
+- **Nationale Aufsicht:** In Deutschland ist die BNetzA als koordinierende KI-Aufsichtsbehoerde benannt; sektorale Zustaendigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt etc.) bleiben bestehen. Aktuellen Stand der nationalen KI-VO-Durchfuehrungsregelungen ueber bundestag.de / bmbf.de / bmwk.de live pruefen.
+- **GPAI Code of Practice:** Bei Nutzung von GPAI-Diensten (z.B. LLM-Chatbots) Anbieter-Code-of-Practice-Anschluss pruefen — kann fuer Kanzlei Dokumentations- und Sorgfaltsnachweise erleichtern.
+- **DORA / NIS-2:** Bei IT-Sicherheits- oder Cyber-Risiken im KI-Betrieb der Kanzlei parallel die einschlaegigen IT-Sicherheits-Regelwerke beachten (BSIG n. F., Art. 32 DSGVO).
+
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

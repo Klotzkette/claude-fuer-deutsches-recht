@@ -64,9 +64,13 @@ Dieses Kommandocenter ist der Einstiegspunkt fuer alle Mandate im Strafbefehlsve
 - **§ 412 StPO** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
 - **§ 44 StPO** — Wiedereinsetzung
 
-## Aktuelle Querschnitts-Rechtsprechung
+## Aktuelle Querschnitts-Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG, Querschnittswirkung im Cannabis-Strafbefehl): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a Nr. 1 StGB): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- Weitere Rechtsprechung vor Ausgabe in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 

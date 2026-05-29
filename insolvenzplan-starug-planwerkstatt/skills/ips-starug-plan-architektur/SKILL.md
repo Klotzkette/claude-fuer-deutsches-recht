@@ -46,9 +46,11 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans als unzulässig zurückgewiesen. Bestätigung der grundsätzlichen Verfassungsmäßigkeit von Restrukturierungsplänen mit Eingriff in Aktionärsrechte; § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) als zentrale Schutznorm.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Restrukturierungsgerichts- und OLG-Entscheidungen zu StaRUG-Plan-Architektur (§§ 7–39 StaRUG: darstellender Teil, gestaltender Teil, Gruppen, Mehrheiten, Cramdown) vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 

@@ -140,6 +140,15 @@ Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarb
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Faktische Updates (Stand 05/2026)
+
+- **EDSA Guidelines 07/2020 zu Verantwortlichen und Auftragsverarbeitern:** Final-Version verbindliche Auslegungshilfe; bei der Rollenzuordnung beruecksichtigen. Quelle: edpb.europa.eu.
+- **EDSA Stellungnahme 22/2024 zu Auftragsverarbeitern und Sub-AV:** Aktuelle Stellungnahmen zur Sub-Verarbeiter-Kette und zur Verantwortlichkeit live ueber edpb.europa.eu pruefen.
+- **EuGH-Linie zu Art. 82 DSGVO Mit-Haftung:** Verantwortlicher und Auftragsverarbeiter haften gesamtschuldnerisch nach Massgabe ihrer jeweiligen Pflichtverletzungen (Art. 82 Abs. 4 DSGVO). Konkrete Aktenzeichen vor Zitat ueber curia.europa.eu pruefen.
+- **EU-US-DPF-Status:** Vor jedem US-AVV-Abschluss DPF-Listing des Anbieters ueber dataprivacyframework.gov verifizieren. SCC bleiben als Fallback im AVV vorzusehen.
+- **KI-Anbieter-AVV:** Bei KI-/LLM-Diensten muessen AVV-Klauseln zusaetzlich zu Art. 28 DSGVO Trainings-Verbote, Output-Verwertung, Modellaenderungen, Logging und KI-VO-Pflichten regeln. Verweis: ki-anbieter-pruefung (Plugin ki-governance).
+- **NIS-2-Lieferkette (Art. 21 NIS-2-RL):** Auftraggeber wichtiger / besonders wichtiger Einrichtungen muessen Cyber-Risiken in der Lieferkette beruecksichtigen — AVV mit IT-/Cloud-Dienstleistern entsprechend erweitern.
+
 ## Triage-Frage (Entscheidungsbaum AVV)
 
 ```

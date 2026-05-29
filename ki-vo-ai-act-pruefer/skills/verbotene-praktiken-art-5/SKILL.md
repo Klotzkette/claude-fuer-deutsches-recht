@@ -84,9 +84,15 @@ Art. 5 KI-VO enthält einen abschließenden Katalog von acht verbotenen KI-Prakt
 
 ## Rechtsfolgen bei Verstoß
 
-- Bußgeld bis zu 35 Mio EUR oder — sofern der Täter ein Unternehmen ist — bis zu sieben Prozent des gesamten weltweiten Jahresumsatzes des vorausgegangenen Geschäftsjahres, je nachdem welcher Betrag höher ist.
+- Bußgeld bis zu 35 Mio EUR oder — sofern der Täter ein Unternehmen ist — bis zu sieben Prozent des gesamten weltweiten Jahresumsatzes des vorausgegangenen Geschäftsjahres, je nachdem welcher Betrag höher ist (Art. 99 Abs. 3 KI-VO).
 - Keine Heilungs- oder Anpassungsmöglichkeit: verbotene Praktiken sind komplett einzustellen.
 - Strafbarkeit nach nationalem Recht nicht ausgeschlossen.
+
+## Faktische Updates (Stand 05/2026)
+
+- **02.02.2025 — Anwendung Art. 5 KI-VO:** Die acht verbotenen Praktiken sind seit dem 02.02.2025 verbindlich. Quelle: VO (EU) 2024/1689, Art. 113 lit. a — eur-lex.europa.eu/eli/reg/2024/1689/oj.
+- **Kommissions-Leitlinien zu Art. 5:** Die EU-Kommission hat Anfang 2025 Leitlinien zu Art. 5 KI-VO veroeffentlicht, die die Tatbestandsmerkmale fuer Anwender konkretisieren (u.a. Begriff "subliminale Technik", "Vulnerabilitaetsausnutzung", Abgrenzung zu zulaessigem Profiling). Stand und aktuelle Fassung live pruefen ueber digital-strategy.ec.europa.eu/en/policies/ai-act.
+- **02.08.2025 — Sanktionen wirksam:** Art. 99 KI-VO ist seit dem 02.08.2025 vollumfaenglich anwendbar; Marktueberwachungsbehoerden in den Mitgliedstaaten koennen Bussgeldverfahren einleiten.
 
 ---
 

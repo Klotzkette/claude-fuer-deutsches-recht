@@ -7,7 +7,11 @@ description: "Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nut
 
 ## Grundregel — Endziel zählt
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Maßgeblich ist die st. Rspr. des EuGH (Volltext jeweils auf curia.europa.eu vor Versand aufrufen):
+
+- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — bei einheitlicher Buchung mit Anschlussflug ist die Verspätung am Endziel maßgeblich.
+- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener) — auch bei Anschlussflügen mit teilweisem Abflug außerhalb der EU.
+- EuGH, Urt. v. 11.7.2019, C-502/18 (CS Flug) — bestätigend.
 
 - Bei einer **einheitlichen Buchung** mit Anschlussflug ist maßgeblich die **Verspätung am Endziel** — nicht am Anschlussflughafen.
 - Anspruch besteht auch wenn der erste Flug puenktlich war aber der Anschlussflug ausfällt und das Endziel mehr als drei Stunden verspätet erreicht wird.
@@ -29,7 +33,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### 3. Wo wird die Distanz gemessen?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Bei Anschlussflug mit einheitlicher Buchung: Distanz vom Abgangsort bis zum Endziel auf Großkreis-Linie (Art. 7 Abs. 1 i.V.m. Art. 5 ff. VO 261/2004).
+- Konkretisierende EuGH-Linie: EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) und EuGH, Urt. v. 7.9.2017, C-559/16 — Volltext auf curia.europa.eu prüfen.
 
 ### Beispiel
 
@@ -80,9 +85,16 @@ Stufe: 3 → 600 EUR pro Passagier
 Anspruchsgegner: Lufthansa (operating carrier Etappe 2)
 ```
 
-## Leitentscheidungen Anschlussflug
+## Leitentscheidungen Anschlussflug (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifiziert mit Quelle curia.europa.eu (Volltext jeweils vor Versand aufrufen):
+
+- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung maßgeblich; auch wenn Hauptflug pünktlich war.
+- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener) — einheitliche Buchung Anschluss in Drittstaat.
+- EuGH, Urt. v. 11.7.2019, C-502/18 (CS Flug) — Anschlussflug-Konstellationen.
+- EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung als Annullierung.
+- EuGH, Urt. v. 9.1.2025, C-394/23 — bestätigend für Vorverlegung.
+- EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag als außergewöhnlicher Umstand.
 
 ## Quellenregel
 

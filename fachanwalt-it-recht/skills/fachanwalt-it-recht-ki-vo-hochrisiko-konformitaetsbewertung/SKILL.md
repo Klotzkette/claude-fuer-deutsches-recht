@@ -261,6 +261,15 @@ Mit freundlichen Gruessen
 - ISO/IEC 42001 (KI-Managementsystem)
 - BSI KI-Leitfaden
 
+## Faktische Updates (Stand 05/2026)
+
+- **02.08.2026 — Hochrisiko Anhang III in Kraft:** Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III muessen alle Pflichten des Kapitels III KI-VO erfuellen (Art. 113 lit. c KI-VO). Konformitaetsbewertung (Art. 43), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71) sind ab diesem Stichtag Voraussetzung fuer das Inverkehrbringen / die Inbetriebnahme.
+- **02.08.2027 — Hochrisiko Anhang I:** Verlaengerte Frist fuer KI als Sicherheitskomponente in Produkten der Anhang-I-Liste (Maschinen-VO, MDR, Spielzeug-RL etc.).
+- **Harmonisierte Normen:** CEN/CENELEC arbeitet an harmonisierten Normen (insb. ISO/IEC 42001 — KI-Managementsystem, ISO/IEC 23894 — Risikomanagement, ISO/IEC 24029 — Robustheit). Bei freiwilliger Anwendung Vermutung der Pflichtenkonformitaet (Art. 40 KI-VO). Live-Status der Veroeffentlichung pruefen.
+- **EU-AI-Office:** seit Beginn 2025 voll operativ; zustaendig fuer GPAI-Modelle, Koordinierung mit nationalen Marktueberwachungsbehoerden, Best Practices.
+- **EU-Datenbank Art. 71:** Hochrisiko-KI-Datenbank (commercial, in beta) live pruefen ueber digital-strategy.ec.europa.eu.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) oder offizielle nationale Quellen verifizieren.
+
 ## Aktuelle Rechtsprechung (v14.2)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

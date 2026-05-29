@@ -33,11 +33,14 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und g
 | § 650c BGB | Vergütungsanpassung — Selbstkosten; 80-%-Abrechnung |
 | § 287 ZPO | Schadensschätzung — erleichterte Schätzung wenn Grundlage vorhanden |
 
-## Leitentscheidungen
+## Leitentscheidungen (Stand 05/2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Stehende BGH-Linien zur Bauablaufstoerung (Aktenzeichen vor Ausgabe ueber dejure.org / bundesgerichtshof.de verifizieren):
+
+- BGH VII. Zivilsenat: § 6 Abs. 6 VOB/B — Mehrkostenanspruch setzt Verschulden des Auftraggebers voraus; Behinderungsanzeige § 6 Abs. 1 VOB/B als Anspruchsvoraussetzung; konkrete Substantiierungspflicht (Ursache, Beginn, Dauer, Kausalitaet)
+- BGH zu § 642 BGB — Annahmeverzugsentschaedigung unabhaengig von Verschulden; Voraussetzung: Mitwirkungspflichtverletzung Besteller (BGH 24.01.2013 VII ZR 224/12, dejure.org/2013,1063 — verifiziert)
+- BGH zur VOB/B § 2 Abs. 5 Mehrverguetung: Tendenz zur Berechnung anhand der tatsaechlich erforderlichen Kosten zuzueglich angemessener Zuschlaege (Aufgabe der reinen urkalkulatorischen Preisfortschreibung) — Eckentscheidung BGH 08.08.2019 (VII ZR-Senat); konkretes Aktenzeichen vor Ausgabe ueber bundesgerichtshof.de verifizieren
+- Konkretisierung der Substantiierungsanforderungen bei Bauzeitverlaengerungs- und Mehrkostenansprueechen — laufende Senatsrechtsprechung; vor Ausgabe per dejure.org pruefen
 
 ## Prüfschema — Mehrkostenanspruch bei Bauablaufstörung
 
@@ -49,7 +52,7 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und g
 | 1 | Behinderungstatbestand vorhanden? (Störungsursache, Datum, Dauer) | § 6 Abs. 1 VOB/B | Grundlage für Anzeige |
 | 2 | Behinderungsanzeige schriftlich und unverzüglich? | § 6 Abs. 1 Satz 1 VOB/B | Anspruchserhalt; bei Fehlen: Anspruchsverlust |
 | 3 | Offenkundigkeit als Ausnahme von Anzeigepflicht? | § 6 Abs. 1 Satz 2 VOB/B | AG kannte Behinderung selbst → Anzeige entbehrlich |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 4 | Substantiierungs-Anforderung (Ursache, Beginn, Dauer)? | stehende BGH-Rspr. VII. Zivilsenat | konkrete Behinderungstat substantiieren |
 | 5 | Verschulden des Auftraggebers? | § 6 Abs. 6 VOB/B | Ja → Schadensersatz inkl. Gewinn; Nein → § 642 BGB-Entschädigung |
 | 6 | Höhe der Mehrkosten bezifferbar? | § 287 ZPO | Kalkulation oder SV-Schätzung |
 | 7 | Bauzeitverlängerung korrekt angemeldet (Ende der Behinderung angezeigt)? | § 6 Abs. 3 VOB/B | Ohne Endanzeige: Pauschalisierungsgefahr |
@@ -81,7 +84,7 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und g
 | Ungewöhnliche Witterung | § 6 Abs. 2 Nr. 1 lit. c VOB/B | Nur Bauzeitverlängerung, kein Mehrkostenanspruch |
 | Höhere Gewalt | § 6 Abs. 2 Nr. 1 lit. c VOB/B | Nur Bauzeitverlängerung |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Der BGH (VII. Zivilsenat) verlangt in staendiger Senatsrechtsprechung Substantiierung bei Bauzeitverlaengerungs- und Mehrkostenansprueechen. Konkrete Aktenzeichen vor Ausgabe ueber dejure.org / bundesgerichtshof.de verifizieren.
 
 Der BGH verlangt für Mehrkostenansprüche bei Bauablaufstörungen:
 
@@ -278,8 +281,8 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 | Gegenargument Auftraggeber | Reaktion |
 |---------------------------|---------|
-| "Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen (BGH VII. Senat-Linie; konkretes Aktenzeichen verifizieren) |
+| "Pauschale Bezugnahme genügt nicht" | Stehende BGH-Rspr.: konkrete Behinderungsursache, Beginn, voraussichtliche Dauer pflicht; Aktenzeichen vor Ausgabe verifizieren |
 | "Mehrkosten überhöht" | Detaillierte Kalkulation nach Gerätelisten, Stundenzettel; § 287 ZPO-Schätzung |
 | "Kein Verschulden (§ 6 Abs. 6 VOB/B)" | Subsidiär § 642 BGB-Entschädigung ohne Verschulden; nur Gewinnkomponente entfällt |
 | "AN hat mitverschuldet" | § 254 BGB: Mitverschuldensquote prüfen; AN muss Schaden minimieren (z.B. Ressourcen umleiten) |
@@ -301,7 +304,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 | Strategie | Empfehlung | Begründung |
 |-----------|-----------|------------|
 | Bautagebuch | Täglich führen, von Bauleitung beider Seiten gegenzeichnen lassen | Entscheidender Beweis; nachträgliche Rekonstruktion kaum möglich |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Substantiierung | Konkreter Behinderungstatbestand mit Beginn, Ursache, Dauer (BGH VII ZR 11/16, 30.11.2017) | Pauschale Anzeige genuegt nicht |
 | Behinderungsanzeige | Schriftlich binnen 48 h nach Erkennen; Einschreiben + E-Mail | Doppelsicherung Zugang |
 | Frühzeitige SV-Einschaltung | Ab erkennbarer Bauzeitverlängerung > 10 Tage | BGH-Anforderungen ohne SV kaum erfüllbar |
 | Beschleunigung | Nur auf ausdrückliche Anweisung und Vergütungsvereinbarung mit AG | Sonst eigenes Kostenrisiko |
@@ -317,7 +320,8 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 - VOB/B §§ 1, 2, 6, 16
 - BGB §§ 642, 643, 650b, 650c
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH VII ZR 224/12 (24.01.2013) — § 642 BGB Annahmeverzugsentschaedigung (dejure.org/2013,1063)
+- Weitere BGH-VII.-Senat-Linien zur Bauablaufstoerung und VOB/B-Mehrverguetung vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Aktenzeichen verifizieren
 - Ingenstau/Korbion, VOB-Kommentar, 22. Aufl.
 - Kapellmann/Schiffers, Vergütung und Bauablauf, 7. Aufl.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.

@@ -234,11 +234,12 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 
 ## Quellen
 
-- CISG UN-Kaufrecht (Wiener Übereinkommen v. 11.04.1980), BGBl. 1989 II S. 588
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Schlechtriem/Schwenzer, Kommentar zum UN-Kaufrecht, 7. Aufl. 2019
-- Brunner/Gottlieb, Commentary on the UN Sales Law (CISG), 2019
-- UNCITRAL CLOUT Datenbank (clout.uncitral.org)
+- CISG UN-Kaufrecht (Wiener Uebereinkommen v. 11.04.1980), BGBl. 1989 II S. 588: https://www.gesetze-im-internet.de/cisg/
+- Aktueller Vertragsstaaten-Stand (12/2024: 97 Staaten; Ruanda seit 01.10.2024) — Liste: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status
+- UNCITRAL CLOUT-Datenbank (Case Law on UNCITRAL Texts): https://uncitral.un.org/en/case_law
+- Pace-CISG-Database: https://iicl.law.pace.edu/cisg/cisg
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Literatur (Schlechtriem/Schwenzer, Brunner/Gottlieb etc.): nur mit Nutzerquelle oder lizenziertem Live-Zugriff zitieren (Quellenregel).
 
 ## Vertiefung: Triage und Output-Template CISG
 

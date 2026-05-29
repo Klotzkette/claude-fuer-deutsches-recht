@@ -43,7 +43,7 @@ Die Düsseldorfer Tabelle (Fassung aktuelles Jahr) staffelt nach Einkommen und A
 - Altersstufe 3: zwölf bis siebzehn Jahre
 - Altersstufe 4: ab achtzehn Jahre
 
-Einkommensstufe von 1 (bis EUR 2100) bis 15 (bis EUR 11000).
+Mindestunterhalt 2026 nach § 1612a BGB (ab 01.01.2026): EUR 486 (0-5), EUR 558 (6-11), EUR 653 (12-17). Rechtsgrundlage: Siebte Mindestunterhaltsverordnung vom 15.11.2024 (BGBl. 2024 I Nr. 359). Aktuelle Tabelle stets über olg-duesseldorf.nrw.de verifizieren.
 
 ### Schritt 3 — Kindergeld-Anrechnung
 
@@ -54,6 +54,8 @@ Einkommensstufe von 1 (bis EUR 2100) bis 15 (bis EUR 11000).
 
 - Notwendiger Selbstbehalt gegenüber minderjährigen Kindern und privilegierten Volljährigen
 - Angemessener Selbstbehalt gegenüber nicht privilegierten Volljährigen und Ehegatten
+
+**Stand Düsseldorfer Tabelle 2026 (ab 01.01.2026):** Selbstbehalt unverändert ggü. 2025; notwendiger Selbstbehalt ggü. minderjährigen Kindern EUR 1.450 erwerbstätig / EUR 1.200 nichterwerbstätig (Quelle: OLG Düsseldorf, Pressemitteilung vom 01.12.2025). Sätze gegenüber Ehegatten und volljährigen Kindern der aktuellen Tabelle entnehmen.
 
 Bei Unterschreitung des Selbstbehalts Mangelfallberechnung mit anteiliger Quotelung aller Unterhaltsansprüche.
 
@@ -118,7 +120,7 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 - Bedarfsrechner-Tabelle pro Berechtigtem
 - Selbstbehaltsprüfung mit Mangelfall-Logik
 - Fristen-Eintrag für nächste Auskunftsanfrage
-- Quellenverzeichnis: aktuelle Düsseldorfer Tabelle BGH XII. Zivilsenat Wendl/Dose
+- Quellenverzeichnis: aktuelle Düsseldorfer Tabelle (2026, OLG Düsseldorf, Pressemitteilung 01.12.2025), BGH XII. Zivilsenat (z.B. BGH XII ZB 148/24 vom 22.01.2025 zum Elternunterhalt-Selbstbehalt), Wendl/Dose
 
 ## Hinweis
 

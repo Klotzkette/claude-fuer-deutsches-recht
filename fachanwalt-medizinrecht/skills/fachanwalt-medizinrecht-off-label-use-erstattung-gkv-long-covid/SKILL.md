@@ -34,14 +34,14 @@ description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-
 | § 13 Abs. 3a SGB V | Genehmigungsfiktion bei Nichtentscheidung binnen drei Wochen |
 | § 13 Abs. 3 SGB V | Kostenerstattung bei rechtswidrig abgelehnter Sachleistung |
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Aktenzeichen | Gericht/Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Aktenzeichen | Gericht/Datum | Tragende Aussage | Offene Fundstelle |
+|---|---|---|---|
+| BVerfG 1 BvR 347/98 | BVerfG, Beschluss 06.12.2005 ("Nikolaus-Beschluss") | Anspruch auf Leistung bei lebensbedrohlicher Erkrankung ohne Standardalternative und nicht ganz fernliegender Wirkungsaussicht; kodifiziert in § 2 Abs. 1a SGB V | https://dejure.org/dienste/vernetzung/rechtsprechung?Text=1+BvR+347/98 |
+| BSG B 1 KR 7/24 R | BSG, Entscheidung 20.02.2025 (1. Senat) | Konkretisierung Erstattungsanspruch / Methodenbewertung | https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_02_20_B_01_KR_07_24_R.html |
+
+Vor Verwendung jede Entscheidung in dejure.org / openjur.de / bsg.bund.de mit Gericht, Datum, Aktenzeichen und tragender Aussage live verifizieren. Speziell zu Long-COVID/ME-CFS-Therapien hat das BSG bislang keine Off-Label-Leitentscheidung veröffentlicht — Argumentation muss über die allgemeine BSG-Off-Label-Linie und § 2 Abs. 1a SGB V geführt werden.
 
 ---
 
@@ -53,7 +53,7 @@ Der G-BA kann bestimmte Wirkstoffe für Indikationen außerhalb der arzneimittel
 
 ### Anker 2 — BSG Off-Label-Linie (Drei-Voraussetzungen-Schema)
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Drei-Voraussetzungen-Schema der BSG-Rechtsprechung (Senatslinie B 1 KR): schwere — gegebenenfalls lebensbedrohliche oder die Lebensqualität auf Dauer nachhaltig beeinträchtigende — Erkrankung; keine zugelassene Standardalternative; auf Grundlage der Datenlage begründete Erfolgsaussicht. Konkrete Leitentscheidungen mit Aktenzeichen vor Ausgabe in dejure.org / openjur.de / bsg.bund.de unter "§ 31 SGB V Off-Label" suchen und mit Gericht, Datum, Aktenzeichen, tragender Aussage protokollieren.
 
 | Voraussetzung | Inhalt | Nachweis |
 |---|---|---|
@@ -65,7 +65,7 @@ Bei Long-COVID: ME/CFS und schwere Post-COVID-Verläufe werden in der Rechtsprec
 
 ### Anker 3 — Nikolaus-Beschluss / § 2 Abs. 1a SGB V
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Grundlage: BVerfG, Beschluss vom 06.12.2005 — 1 BvR 347/98 (sog. Nikolaus-Beschluss), kodifiziert in § 2 Abs. 1a SGB V. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=1+BvR+347/98
 
 | Tatbestandsmerkmal | Prüfung bei Long-COVID/ME/CFS |
 |---|---|
@@ -88,7 +88,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 | 6 | Antrag bei GKV stellen mit vollständigen Unterlagen | Fristauslösung § 13 Abs. 3a SGB V |
 | 7 | Drei-Wochen-Frist kontrollieren (bei Reha: fünf Wochen) | Genehmigungsfiktion-Prüfung |
 | 8 | Bei Ablehnung: Widerspruch binnen einem Monat § 84 SGG | Fristwahrung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 9 | Widerspruchsbegründung mit BSG-Off-Label-Linie + § 2 Abs. 1a SGB V + Genehmigungsfiktion-Hilfe | Substantiierung |
 | 10 | Bei Widerspruchsablehnung: Klage Sozialgericht § 87 SGG (ein Monat) | Klagefrist |
 | 11 | Bei Dringlichkeit: einstweilige Anordnung § 86b SGG parallel | Eilschutz |
 | 12 | Sachverständigen-Gutachten Neuroimmunologie beantragen | Beweissicherung im Verfahren |
@@ -105,7 +105,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Off-Label-Use GKV-Erstattung pruefen | Widerspruchsschreiben; Template unten |
 | Variante A — Zulassung in anderen EU-Laendern | Art. 3 Abs. 4 AMG-Analogie; Importpraeparat-Genehmigung pruefen |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Variante B — Genehmigungsfiktion eingetreten | Eigenständige Feststellungsklage § 13 Abs. 3a SGB V; Aktenzeichen-Recherche zur aktuellen BSG-Linie zur Genehmigungsfiktion in dejure.org / bsg.bund.de mit Stichwort "§ 13 Abs. 3a SGB V Genehmigungsfiktion" live prüfen |
 | Variante C — Keine klinische Studie verfuegbar | Einzelfallentscheidung GBA; individuelle Heilversuche |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -149,8 +149,7 @@ II. Rechtliche Begründung
 
 A) BSG-Off-Label-Linie
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-B 1 KR 15/07 R) sind erfüllt:
+Nach der seit BSG B 1 KR 24/06 R fortgeführten Senatslinie (B 1 KR — vor Versand des Schriftsatzes aktuelle Aktenzeichen-Kette in dejure.org/openjur.de unter "§ 31 SGB V Off-Label-Use" verifizieren) sind die drei Voraussetzungen erfüllt:
 
 1. Schwere Erkrankung: Die Erkrankung ist lebensqualitätszerstörend
    und in der aktuellen Rechtsprechung als erstattungsrelevante
@@ -167,8 +166,7 @@ B 1 KR 15/07 R) sind erfüllt:
 
 B) Nikolaus-Beschluss / § 2 Abs. 1a SGB V
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Beschluss), kodifiziert in § 2 Abs. 1a SGB V. Der schwere Verlauf
+Maßgeblich ist BVerfG, Beschluss vom 06.12.2005 — 1 BvR 347/98 (sog. Nikolaus-Beschluss), kodifiziert in § 2 Abs. 1a SGB V. Der schwere Verlauf
 (Bell-Score [Wert], Bettlägerigkeit, dokumentiertes Suizidrisiko)
 erfüllt das Tatbestandsmerkmal der lebensbedrohlichen oder
 vergleichbaren Erkrankung. Eine allgemein anerkannte, dem
@@ -265,8 +263,8 @@ Mit freundlichen Grüßen
 
 | GKV-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| "Kein anerkannter Standard" | Genau das ist die Voraussetzung des Nikolaus-Beschlusses — fehlender Standard begründet den Anspruch |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| "Kein anerkannter Standard" | Genau das ist die Voraussetzung des Nikolaus-Beschlusses (BVerfG 06.12.2005 — 1 BvR 347/98) — fehlender Standard begründet den Anspruch |
+| "Studienlage zu schwach" | Drei-Voraussetzungen-Schema BSG: "nicht ganz fernliegende Wirkungsaussicht" genügt; Phase-II-Studien, Fachgesellschaftsempfehlungen, Spezialambulanz-Erfahrung darstellen |
 | "Long-COVID keine lebensbedrohliche Erkrankung" | BSG-Rechtsprechung: schwere Verläufe mit Berufsunfähigkeit sind erstattungsrelevant (Nikolaus-Grundsatze § 2 Abs. 1a SGB V); Bell-Score belegen |
 | "Standardtherapien nicht ausgeschöpft" | Therapieverlauf lückenlos belegen; ärztliche Bestätigung der Erschöpfung |
 | "Kosten nicht notwendig" | MDK-Gutachten mit eigenem Sachverständigengutachten entkräften |
@@ -309,8 +307,12 @@ Mit freundlichen Grüßen
 - `fachanwalt-medizinrecht-behandlungsfehler-pruefen` — wenn Erstbehandlung fehlerhaft war
 - `fachanwalt-medizinrecht-orientierung` — übergeordnete Triage
 
-## Quellen
+## Quellen (Stand Mai 2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerfG 06.12.2005 — 1 BvR 347/98 (Nikolaus-Beschluss): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=1+BvR+347/98
+- BSG 20.02.2025 — B 1 KR 7/24 R (Methodenbewertung GKV): https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_02_20_B_01_KR_07_24_R.html
+- §§ 2 Abs. 1a, 12, 13 Abs. 3, 13 Abs. 3a, 27, 31, 35c, 92, 137c SGB V: https://dejure.org/gesetze/SGB_V
+- Long-COVID-S1-Leitlinie der AWMF Stand Mai 2024 — vor Verwendung bei der AWMF auf Aktualisierung pruefen.
+- Weitere Entscheidungen vor Verwendung live in dejure.org / openjur.de / bsg.bund.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---

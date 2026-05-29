@@ -39,7 +39,8 @@ description: "Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle u
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| BGH XII. Zivilsenat | XII ZB 148/24 | 22.01.2025 | Bemessung des angemessenen Selbstbehalts unterhaltspflichtiger Kinder beim Elternunterhalt — Familienselbstbehalt: Familienmindestbedarf für den Unterhaltspflichtigen plus 80 % davon für den Ehegatten, daraus + 70 % des darüber liegenden Familieneinkommens. Quelle vor Verwendung über bundesgerichtshof.de oder dejure.org verifizieren. |
+| Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Einkommensermittlung — Bereinigtes Netto
 
@@ -76,16 +77,16 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Kindesunterhalt
 
-### Mindestunterhalt § 1612a BGB (Stand 2024)
+### Mindestunterhalt § 1612a BGB (Stand 2026)
 
 | Altersgruppe | Mindestunterhalt monatlich |
 |-------------|--------------------------|
-| 0–5 Jahre | EUR 480 |
-| 6–11 Jahre | EUR 551 |
-| 12–17 Jahre | EUR 645 |
-| Ab 18 Jahre | EUR 689 |
+| 0–5 Jahre | EUR 486 |
+| 6–11 Jahre | EUR 558 |
+| 12–17 Jahre | EUR 653 |
+| Ab 18 Jahre | siehe Düsseldorfer Tabelle 2026 (4. Altersstufe) |
 
-**Hinweis:** Werte werden jährlich über BMF-Bekanntmachung angepasst — aktuellen Stand zum Mandatsbeginn prüfen.
+**Hinweis:** Die Düsseldorfer Tabelle 2026 trat am 01.01.2026 in Kraft (Pressemitteilung OLG Düsseldorf vom 01.12.2025; Mitteilung NRW-Justiz vom 02.12.2025). Grundlage ist die Siebte Mindestunterhaltsverordnung vom 15.11.2024 (BGBl. 2024 I Nr. 359). Werte werden regelmäßig angepasst — aktuellen Stand zum Mandatsbeginn live verifizieren über die OLG-Düsseldorf-Seite zur Düsseldorfer Tabelle.
 
 ### Düsseldorfer Tabelle — Einkommensstufen
 
@@ -108,17 +109,15 @@ Die Tabelle enthält 11 Einkommensstufen (ca. EUR 1.900 bis EUR 11.000 Netto) mi
 - **Volljährige Kinder:** Kindergeld zu 100 % angerechnet
 - **Stand 2024:** EUR 250 je Kind (einheitlicher Betrag)
 
-### Rechenbeispiel Kindesunterhalt
+### Rechenbeispiel Kindesunterhalt (illustrativ; konkrete Werte zur Mandatsannahme der jeweils aktuellen Tabelle entnehmen)
 
 **Sachverhalt:** Vater zahlt, Kinder 8 und 14 Jahre, bereinigtes Netto Vater EUR 4.500
 
-- Einkommensstufe 5 nach Düsseldorfer Tabelle
-- Tabellenwert Kind 8 Jahre (6–11): EUR 600
-- Tabellenwert Kind 14 Jahre (12–17): EUR 706
-- Kindergeldanrechnung 50 % = EUR 125 je Kind
-- Zahlbetrag Kind 8: EUR 600 - EUR 125 = EUR 475
-- Zahlbetrag Kind 14: EUR 706 - EUR 125 = EUR 581
-- **Gesamt: EUR 1.056 monatlich**
+- Einkommensstufe nach aktueller Düsseldorfer Tabelle ablesen (Tabelle 2026 in Kraft seit 01.01.2026)
+- Tabellenwert je nach Altersstufe entnehmen (2. Altersstufe 6–11; 3. Altersstufe 12–17)
+- Kindergeldanrechnung 50 % bei minderjährigen Kindern; 100 % bei volljährigen
+- Zahlbetrag = Tabellenwert minus hälftiges Kindergeld
+- **Beispielrechnung nur als Schema; aktuelle Tabellenwerte vor Beratung prüfen**
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -142,7 +141,7 @@ Ausgleich = Anteil Besserverdiener - Anteil Minderverdienender
 
 - Ehe noch nicht geschieden (Trennungszeit)
 - Bedürftigkeit des Berechtigten
-- Leistungsfähigkeit des Pflichtigen (Selbstbehalt EUR 1.600 berufstätig, EUR 1.475 nicht berufstätig — Stand 2024)
+- Leistungsfähigkeit des Pflichtigen — angemessener Selbstbehalt nach Düsseldorfer Tabelle 2026 unverändert ggü. 2025 (Pressemitteilung OLG Düsseldorf 01.12.2025). Notwendiger Selbstbehalt ggü. minderjährigen Kindern: EUR 1.450 berufstätig, EUR 1.200 nichterwerbstätig (Stand 2026 laut OLG Düsseldorf). Sätze gegenüber Ehegatten konkret zur Mandatsannahme der jeweils aktuellen Düsseldorfer Tabelle entnehmen.
 
 ### Berechnung
 
@@ -390,4 +389,7 @@ der Verhältnisse dar.
 - Düsseldorfer Tabelle, OLG Düsseldorf (jährlich aktualisiert)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wendl/Dose Das Unterhaltsrecht, 11. Aufl.
-- Stand: 05/2026; Tabellenwerte 2024 — bei Jahreswechsel aktualisieren
+- Düsseldorfer Tabelle 2026, OLG Düsseldorf, Pressemitteilung vom 01.12.2025 (https://www.olg-duesseldorf.nrw.de/infos/Duesseldorfer_Tabelle/Tabelle-2026/)
+- Siebte Mindestunterhaltsverordnung vom 15.11.2024 (BGBl. 2024 I Nr. 359)
+- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt, Familienselbstbehalt)
+- Stand: 05/2026; Tabellenwerte 2026 — bei Jahreswechsel aktualisieren

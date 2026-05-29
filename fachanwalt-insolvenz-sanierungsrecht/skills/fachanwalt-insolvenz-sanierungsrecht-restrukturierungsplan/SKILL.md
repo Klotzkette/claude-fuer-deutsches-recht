@@ -196,10 +196,10 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz), BGBl. 2020 I S. 3256
 - InsO §§ 17–19 (Eröffnungsgründe)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Braun, StaRUG-Kommentar, 1. Aufl. 2021
-- Morgen/Heise, StaRUG, 2. Aufl. 2022
-- Flöther, Sanierungsrecht, 2. Aufl. 2021
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat) — Verfassungsbeschwerde von Minderheitsaktionären (VARTA AG) gegen gerichtliche Bestätigung eines Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen; Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Bedeutung: StaRUG-Sanierungen mit Eingriff in Aktionärsrechte sind verfassungsrechtlich nicht generell ausgeschlossen.
+  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Konkrete LG/OLG-Entscheidungen zu StaRUG-Praxis (Mehrheiten, Cross-Class-Cramdown § 26 StaRUG, Stabilisierungsanordnungen § 49 StaRUG) vor Ausgabe über offene Quellen verifizieren.
+- Literatur (Braun, Morgen/Heise, Flöther) nur bei vorhandenem Live-Zugriff oder vom Nutzer bereitgestellter Quelle zitieren.
 
 ## Triage — Restrukturierungsplan
 

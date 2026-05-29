@@ -68,7 +68,15 @@ Anbieter von GPAI-Modellen müssen eine ausreichend detaillierte Zusammenfassung
 
 ## Open-Source-Erleichterungen (Art. 53 Abs. 2 KI-VO)
 
-Für GPAI-Modelle mit offenen Gewichten (Open-Source-Modelle) gelten reduzierte Dokumentationspflichten — sofern das Modell kein systemisches Risiko darstellt (unter 10e25 FLOP).
+Für GPAI-Modelle mit offenen Gewichten (Open-Source-Modelle) gelten reduzierte Dokumentationspflichten — sofern das Modell kein systemisches Risiko darstellt (unter 10^25 FLOP) und unter freier und offener Lizenz veroeffentlicht wird (Parameter, Architektur, Nutzung).
+
+## Faktische Updates (Stand 05/2026)
+
+- **02.08.2025 — Anwendung Kapitel V KI-VO:** Die Pflichten fuer GPAI-Modellanbieter (Art. 51-55) sind seit dem 02.08.2025 verbindlich. Quelle: VO (EU) 2024/1689, Art. 113 lit. b — eur-lex.europa.eu/eli/reg/2024/1689/oj.
+- **Trainingsdaten-Zusammenfassung (Art. 53 Abs. 1 lit. d):** Die Veroeffentlichung erfolgt nach dem von der Kommission/EU-AI-Office bereitgestellten Template. Stand der Template-Bereitstellung und ggf. Updates live pruefen ueber digital-strategy.ec.europa.eu.
+- **GPAI Code of Practice (Art. 56 KI-VO):** Der General-Purpose-AI-Code-of-Practice strukturiert sich in den Saeulen Transparenz, Urheberrecht und Safety/Security. Anbieter, die den Code zeichnen, geniessen Vermutung der Pflichtenkonformitaet. Quelle: digital-strategy.ec.europa.eu (live pruefen).
+- **Systemisches Risiko Art. 51 KI-VO:** Bei Trainings-Compute >= 10^25 FLOPs gilt die Vermutung des systemischen Risikos; zusaetzliche Pflichten nach Art. 55 (Modellbewertungen, adversarial testing, Meldepflicht bei schweren Vorfaellen, Cybersicherheit).
+- **EU AI Office:** Zustaendig fuer GPAI-Durchsetzung, Modellbewertung und Code-of-Practice (Art. 64 KI-VO).
 
 ---
 

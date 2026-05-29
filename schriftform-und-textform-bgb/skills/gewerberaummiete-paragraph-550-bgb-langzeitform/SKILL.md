@@ -7,10 +7,11 @@ description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr lau
 
 ## Rechtsgrundlagen
 
-- **§ 550 BGB** — Schriftform bei Mietverträgen über Räume für längere Zeit als ein Jahr: bei Verstoß gilt Vertrag als auf unbestimmte Zeit geschlossen → ordentlich kündbar nach einem Jahr
-- **§ 578 BGB** — Entsprechende Anwendung von § 550 BGB auf Pachtverhältnisse über Grundstücke
-- **§ 126 BGB** — Schriftform: eigenhändige Unterschrift
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **§ 550 BGB** — Schriftform bei Mietverträgen über Räume für längere Zeit als ein Jahr: bei Verstoß gilt Vertrag als auf unbestimmte Zeit geschlossen → ordentlich kündbar nach einem Jahr.
+- **§ 578 BGB** — Entsprechende Anwendung von § 550 BGB auf Pachtverhältnisse über Grundstücke.
+- **§ 126 BGB** — Schriftform: eigenhändige Unterschrift.
+- **§ 126a BGB** — Ersatz der Schriftform durch qualifizierte elektronische Signatur (qES) nach eIDAS-VO; bei Mietvertraegen ueber Wohn- und Gewerberaum ueber 1 Jahr seit 2023/2024 praxisrelevant.
+- Rechtsprechung BGH XII. ZS (Gewerberaummiete) ist staendige Linie zur Auflockerungsrechtsprechung; konkrete Aktenzeichen vor Schriftsatzverwendung ueber https://dejure.org und https://www.bundesgerichtshof.de pruefen.
 
 ## BGH-Linie
 
