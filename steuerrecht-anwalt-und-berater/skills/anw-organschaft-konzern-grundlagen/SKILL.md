@@ -35,9 +35,11 @@ Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverh
 - **§ 295 AktG** — Änderung von Unternehmensverträgen.
 - **§ 19 KStG** — Steuerabzug auf Ausschüttungen; nicht-organschaftliche Konstellationen.
 
-### Leitentscheidungen
+### Leitentscheidungen / Verwaltungsanweisungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **FG Düsseldorf, Urteil vom 09.12.2024 — 6 K 1772/20 K,G,F**: Bei unterjaehrigem schaedlichem Anteilseignerwechsel am Organtraeger (§ 8c KStG) ist der bis zum schaedlichen Erwerb angefallene anteilige Verlust der Organgesellschaft mit dem Einkommen des Organtraegers zu verrechnen (Widerspruch zur BMF-Praxis BMF v. 28.11.2017). § 8d KStG ist nicht auf Verluste aus vororganschaftlichen Zeitraeumen anwendbar, wenn die betroffenen Organgesellschaften zugleich Organtraeger sind (§ 8d Abs. 1 S. 2 Nr. 2 KStG). Revision anhaengig beim BFH unter I R 11/25. Volltext: nrwe.justiz.nrw.de (https://nrwe.justiz.nrw.de/fgs/duesseldorf/j2024/6_K_1772_20_K_G_F_Urteil_20241209.html).
+- **BMF-Schreiben vom 18.03.2021**, GZ IV C 2 - S 2745-b/19/10002:002, BStBl 2021 I S. 363 — Anwendungsschreiben § 8d KStG (fortfuehrungsgebundener Verlustvortrag, 34 Beispiele). Abrufbar unter bundesfinanzministerium.de.
+- Weitere Rechtsprechung: vor Zitierung ueber dejure.org / BFH-Datenbank verifizieren.
 
 ## I. Ertragsteuerliche Organschaft (KSt + GewSt)
 

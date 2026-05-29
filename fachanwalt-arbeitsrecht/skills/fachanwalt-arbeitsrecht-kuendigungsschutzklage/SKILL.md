@@ -61,11 +61,18 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 - Interessenabwägung (betriebliche Beeinträchtigung vs. Arbeitnehmer-Schutzwürdigkeit)
 - BAG-Dreistufentest: (1) negative Prognose, (2) erhebliche betriebliche Beeinträchtigung, (3) Interessenabwägung
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Gericht | Aktenzeichen | Kernaussage |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---|---|---|---|---|
+| BAG, 6. Senat | 6 AZR 152/22 | 01.04.2026 | Verfruehte Massenentlassungsanzeige (vor Abschluss der BR-Konsultation) fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren" |
+| BAG, 6. Senat | 6 AZR 157/22 | 01.04.2026 | Fehlende Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen | dejure.org-Vernetzung |
+| EuGH | C-134/24 / C-402/24 | 30.10.2025 | Massenentlassungsanzeige als Wirksamkeitsvoraussetzung; keine Heilung nach Kuendigungsausspruch | dejure.org-Vernetzung |
+| BAG, 5. Senat | 5 AZR 108/25 | 25.03.2026 | Formularmaessige pauschale Freistellungsklausel im Arbeitsvertrag ist nach § 307 Abs. 1 Satz 1 BGB unwirksam; Freistellung verlangt konkreten Anlasstatbestand und Interessenabwaegung | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Wirksamkeit einer Freistellungsklausel" |
+| BAG, 9. Senat | 9 AZR 104/24 | 03.06.2025 | Kein wirksamer Verzicht auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis durch Prozessvergleich; Auswirkung auf Abgeltungsklauseln in Aufhebungsvertraegen | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich" |
+| BAG, 8. Senat | 8 AZR 61/24 | 20.02.2025 | Kein DSGVO-Schadensersatz allein wegen "Stoergefuehls" oder negativer Emotion bei verspaeteter Auskunft (Art. 82 DSGVO); ueberpruefbarer Kontrollverlust und konkrete Gefahr eines Datenmissbrauchs erforderlich | dejure.org-Vernetzung; bundesarbeitsgericht.de (Urteilstext PDF veroeffentlicht) |
+| BAG, 8. Senat | 8 AZR 300/24 | 23.10.2025 | Paarvergleich bei Entgeltdiskriminierung: ein einziger Vergleichskollege des anderen Geschlechts genuegt zur Begruendung der Vermutung nach § 22 AGG | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich" |
+| BAG, 7. Senat | 7 AZR 50/24 | 18.06.2025 | § 14 Abs. 2 TzBfG ist auch auf Betriebsratsmitglieder anwendbar; bei Verweigerung des Folgevertrags wegen BR-Mandat Schadensersatzanspruch auf Vertragsschluss | dejure.org-Vernetzung |
 
 ## Quellenregel
 

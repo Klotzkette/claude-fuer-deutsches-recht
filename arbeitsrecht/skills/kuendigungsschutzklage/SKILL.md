@@ -38,19 +38,33 @@ Für eine vollständige Bearbeitung werden benötigt:
 - §§ 46 ff. ArbGG: Zuständigkeit und Verfahren Arbeitsgericht
 - § 256 ZPO: Feststellungsklage (entsprechend anwendbar über § 46 Abs. 2 ArbGG)
 
-### Leitentscheidungen (BGH-Stil)
+### Leitentscheidungen (BGH-Stil, Stand Mai 2026)
 
-- **Betriebsbedingte Kündigung / unternehmerische Entscheidung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Massenentlassung - Fehler im Anzeigeverfahren:**
+  BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen; keine Heilung nach Kuendigungsausspruch. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren". Zugehoeriger EuGH: 30.10.2025 - C-134/24 und C-402/24.
 
-- **Sozialauswahl / Vergleichbarkeit:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Freistellungsklausel im Arbeitsvertrag:**
+  BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmaessige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (§ 307 Abs. 1 Satz 1 BGB); der Beschaeftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
 
-- **Außerordentliche Kündigung / wichtiger Grund:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Mindesturlaubsverzicht im Prozessvergleich:**
+  BAG, Urteil vom 03.06.2025 - 9 AZR 104/24: Pauschale Erledigungsklausel erfasst den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG. Quelle: dejure.org-Vernetzung.
 
-- **Kündigungserklärung / Zugang:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Equal Pay / Paarvergleich:**
+  BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt fuer die Vermutung nach § 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
+
+- **DSGVO-Schadensersatz bei verspaeteter Auskunft:**
+  BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: "Stoergefuehl" allein begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; konkrete Kontrollverlust-Furcht oder tatsaechlicher Schaden erforderlich. Quelle: dejure.org-Vernetzung; Volltext-PDF auf bundesarbeitsgericht.de.
+
+- **Arbeitszeiterfassung:**
+  BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Pflicht des Arbeitgebers zur Erfassung der gesamten Arbeitszeit aus § 3 Abs. 2 Nr. 1 ArbSchG. Quelle: dejure.org-Vernetzung.
+
+- **NachweisG-Schadensersatz:**
+  BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen NachwG kann der Arbeitnehmer Schadensersatz verlangen, soweit die Pflichtverletzung kausal fuer den Schaden war; Anspruch nicht auf Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung.
+
+- **Subjektive Determinationstheorie BR-Anhoerung:**
+  BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quelle: dejure.org-Vernetzung.
+
+Allgemein: Weitere Entscheidungen zu Sozialauswahl, betriebsbedingter Kuendigung, wichtigem Grund usw. vor Schriftsatzverwendung in offenen Quellen (dejure.org / openjur.de / bundesarbeitsgericht.de) verifizieren.
 
 ### Quellenregel
 

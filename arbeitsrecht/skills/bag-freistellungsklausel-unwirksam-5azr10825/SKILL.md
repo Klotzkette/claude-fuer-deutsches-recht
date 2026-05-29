@@ -9,6 +9,13 @@ description: "Workflow-Skill zu bag freistellungsklausel unwirksam 5azr10825. Nu
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## Leitentscheidung
+
+- BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
+- Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Freistellungsklausel, die ohne weitere Voraussetzungen die Freistellung des Arbeitnehmers nach Ausspruch einer Kuendigung erlaubt, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam, weil sie den Arbeitnehmer unangemessen benachteiligt. Das verfassungsrechtlich geschuetzte Interesse des Arbeitnehmers an tatsaechlicher Beschaeftigung bis zum Ablauf der Kuendigungsfrist ueberwiegt das pauschale Freistellungsinteresse des Arbeitgebers. Eine wirksame Klausel verlangt einen konkreten Anlasstatbestand (z.B. konkrete Geheimhaltungsbedenken, Konkurrenztaetigkeit, Vertrauensverlust) und Interessenabwaegung im Einzelfall.
+- Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung".
+- Status: Volltextveroeffentlichung laut Drittquellen noch ausstehend - vor Verwendung im Schriftsatz Volltext pruefen.
+
 ## Bedeutung für die Praxis
 
 Das Urteil verändert die Verhandlungsposition nach Ausspruch einer Kündigung erheblich. Ohne wirksame Klausel kann der Arbeitgeber nicht mehr einseitig freistellen, sondern braucht im konkreten Einzelfall einen tragfähigen Grund — etwa überwiegende schutzwürdige Interessen wie Geheimhaltungsbedenken, Konkurrenzsorge, Vertrauensverlust nach schwerem Pflichtenverstoß oder erhebliche Störung des Betriebsfriedens.

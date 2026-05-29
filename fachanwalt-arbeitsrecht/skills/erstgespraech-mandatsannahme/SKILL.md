@@ -156,9 +156,17 @@ Aktenzeichen geprueft und korrigiert:
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Im Plugin verifizierte Leitentscheidungen mit offener Quelle (dejure.org / bundesarbeitsgericht.de):
+
+- BAG, 23.10.2025 - 8 AZR 300/24 (Paarvergleich Equal Pay)
+- BAG, 03.06.2025 - 9 AZR 104/24 (Mindesturlaub kein Verzicht)
+- BAG, 25.03.2026 - 5 AZR 108/25 (Freistellungsklausel unwirksam)
+- BAG, 01.04.2026 - 6 AZR 152/22 + 157/22 (Massenentlassung)
+- EuGH, 30.10.2025 - C-134/24 + C-402/24 (Massenentlassung)
+
+Weitere Entscheidungen siehe Themenskills. Im Erstgespraech keine Rechtsprechung aus Modellwissen zitieren; bei Bedarf vor Verwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
 
 ## Paragrafenkette Fristen Arbeitsrecht
 

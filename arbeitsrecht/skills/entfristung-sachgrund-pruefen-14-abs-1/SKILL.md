@@ -21,9 +21,10 @@ description: "Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgr�
 - § 17 TzBfG — 3-Wochen-Klagefrist (absolute Ausschlussfrist)
 - § 138 ZPO — Wahrheitspflicht und substantiiertes Bestreiten
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: § 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion fuer Mitglieder findet nicht statt. Bei Verweigerung eines Folgevertrags wegen Betriebsratsmandat besteht Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (§ 78 BetrVG i.V.m. § 280 BGB). Quelle: dejure.org-Vernetzung; vor Schriftsatzverwendung Volltext pruefen.
+- Aeltere Leitentscheidungen (BAG zur Vorbeschaeftigung, BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 u.a. zur Verfassungsmaessigkeit § 14 Abs. 2 TzBfG): vor Zitat Aktenzeichen und Fundstelle in dejure.org / openjur.de pruefen.
 
 ## Quellenregel
 

@@ -34,16 +34,17 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
 ### Leitentscheidungen (BGH-Stil)
 
 - **Inhalt der Anhörungsmitteilung / subjektive Determinierung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+  BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, fuer den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
+  BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende duerfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
 
-- **Fristbeginn / Vollständigkeit der Unterlagen:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Fristbeginn / Vollstaendigkeit der Unterlagen:**
+  BAG, Urteil vom 10.10.2002 - 2 AZR 472/01: Bei Nachreichung relevanter Informationen beginnt die Stellungnahmefrist neu. Quelle: dejure.org-Vernetzung.
 
-- **Widerspruch des BR / Weiterbeschäftigung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Widerspruch des BR / Weiterbeschaeftigung:**
+  Hier weitere Rechtsprechung zur § 102 Abs. 5 BetrVG-Weiterbeschaeftigung vor Schriftsatzverwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
 
-- **Nachschieben von Kündigungsgründen:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Nachschieben von Kuendigungsgruenden:**
+  Standardrechtsprechung: Nachschieben grundsaetzlich nur fuer Kuendigungsgruende, die im Zeitpunkt der Anhoerung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
 
 ### Quellenregel
 
@@ -76,7 +77,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 | Kündigungsart | Frist | Fristbeginn |
 |---|---|---|
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Ordentliche Kuendigung | 1 Woche (§ 102 Abs. 2 Satz 1 BetrVG) | Zugang des vollstaendigen Anhoerungsschreibens beim Vorsitzenden, § 26 Abs. 2 BetrVG |
 | Außerordentliche Kündigung | 3 Tage | Zugang des vollständigen Anhörungsschreibens |
 
 - **Fristablauf ohne Stellungnahme des BR** → Arbeitgeber kann kündigen (§ 102 Abs. 2 Satz 2 BetrVG: BR gilt als angehört).

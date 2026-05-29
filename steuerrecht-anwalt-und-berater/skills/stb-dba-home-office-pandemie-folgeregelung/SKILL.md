@@ -28,8 +28,8 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 |---|---|---|
 | Schweiz | Konsultationsvereinbarung 11.06.2020, Folgevereinbarungen | **konkret pruefen**, ob noch in Kraft |
 | Oesterreich | Konsultationsvereinbarung 15.04.2020, Verlaengerungen, ggf. Dauerregelung | **konkret pruefen** |
-| Luxemburg | Konsultationsvereinbarung 03.04.2020, Verlaengerungen; **strukturelle Anpassung Schwelle Anzahl Home-Office-Tage** | **konkret pruefen** — Luxemburg hatte sehr hohe Pendlerzahlen |
-| Niederlande | Konsultationsvereinbarung 06.04.2020, Verlaengerungen | **konkret pruefen** |
+| Luxemburg | Aend.-Prot. zum DBA vom 06.07.2023 (BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024); Bagatellgrenze **34 Arbeitstage** Home-Office in Deutschland (zuvor 19 Tage) | **dauerhaft verankert** im DBA |
+| Niederlande | **3. Aend.-Prot. zum DBA vom 14.04.2025** — Bagatellgrenze 34 Arbeitstage Home-Office pro Jahr ab 01.01.2026 (in Kraft 31.12.2025); analog zur Luxemburg-Regelung | **dauerhaft verankert** im DBA |
 | Frankreich | Konsultationsvereinbarung 13.05.2020, Verlaengerungen, **Anpassung Grenzgaengerregelung** | **konkret pruefen** |
 | Belgien | Konsultationsvereinbarung 06.05.2020, Verlaengerungen | **konkret pruefen** |
 
@@ -41,13 +41,14 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 
 ### Leitentscheidungen und BMF-Schreiben
 - BMF-Schreiben zu Konsultationsvereinbarungen Home-Office (laufende Aktualisierung) — **konkret pruefen**.
+- **BMF-Schreiben vom 08.10.2024** zum DBA-Arbeitslohn und Auslandstaetigkeitserlass (Lohnsteuerabzugsverfahren); Anwendung auf Lohnzahlungszeitraeume nach dem 31.12.2024 (PDF abrufbar unter bundesfinanzministerium.de, Bereich Internationales Steuerrecht).
 
 ## Inhalt der typischen Konsultationsvereinbarung
 
 1. **Anwendungsbereich**: bestimmte Zeitperiode (z.B. waehrend Pandemie-Anordnungen).
 2. **Fiktion**: Home-Office-Tage werden so behandelt, als waere der Arbeitnehmer am gewoehnlichen Arbeitsort taetig gewesen.
 3. **Folge**: Grenzgaengerstatus erhalten; Aufteilung Lohnsteuer unveraendert; 183-Tage-Pruefung unveraendert.
-4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Aenderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, gilt eine erhoeite Toleranzschwelle fuer Home-Office-Tage — massgebend sind das DBA-LU und die BMF-Konsultationsvereinbarung in der jeweils aktuellen Fassung).
+4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Aenderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024 — **34 Arbeitstage** Bagatellgrenze fuer Home-Office in Deutschland; zuvor 19 Tage).
 
 ## Workflow
 

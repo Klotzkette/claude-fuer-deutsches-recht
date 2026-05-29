@@ -24,11 +24,11 @@ Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch
 
 ### Konstellation A: Drohende ordentliche AG-Kündigung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 
 - AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
-- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (BA-Hinweise zur Faustformel)
+- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
 
 **Folge**: keine Sperrzeit.
 
@@ -137,7 +137,11 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## 9) BSG-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. § 144 SGB III a.F. (= heute § 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- **BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R**: Praezisierung der Anforderungen an die "objektive Rechtmaessigkeit" der drohenden Kuendigung; die Drohung muss konkret und ernsthaft sein. Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
+- **BSG, Urteil vom 17.11.2005 - B 11a/11 AL 69/04 R**: Sondernutzen fuer leitende Angestellte; vermeidende Aufhebungsvereinbarung. Quelle: dejure.org.
+- Fachliche Weisungen der Bundesagentur fuer Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- Praxisliterature und neueres BSG-Aktenzeichen ohne offene Quelle nicht zitieren.
 
 ## Anschluss
 
@@ -145,9 +149,11 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 - `fachanwalt-arbeitsrecht-bem-verfahren` — bei Krankheit
 - `testakten/kuendigungsschutzklage-weber-techlogix` — Testakte
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmaessiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
+- BSG, 02.05.2012 - B 11 AL 6/11 R: Drohung muss konkret und ernsthaft sein. Quelle: dejure.org.
+- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht ueber dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Pruefung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
 
 ## Paragrafenkette
 

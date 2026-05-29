@@ -38,7 +38,9 @@ Bevor losgelegt wird, kläre:
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BAG, Urteil vom 01.12.2020 - 9 AZR 102/20** (Crowdworker / Plattformarbeit): Auch ein Crowdworker, der ueber eine Smartphone-App Mikroauftraege erfuellt, kann Arbeitnehmer sein, wenn die organisatorische Einbindung (z.B. Anreizsystem mit Stufen / Level / Bewertung) ihn zur staendigen Auftragsannahme veranlasst und faktisch fremdbestimmte Arbeit erzwingt. Eine starre vertragliche Bezeichnung ist unerheblich; entscheidend ist die tatsaechliche Durchfuehrung. Quelle: dejure.org-Vernetzung BAG 01.12.2020 - 9 AZR 102/20.
+- Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persoenliche Abhaengigkeit, Fremdbestimmung) zu pruefen. EuGH-Plattformarbeitsrichtlinie (RL 2024/2831) ist mit Umsetzungsfrist bis Dez. 2026 zu beobachten.
+- Aktualisierungen vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de, bundessozialgericht.de) pruefen.
 
 ## Quellenregel
 

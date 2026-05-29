@@ -37,7 +37,9 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 
 ### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
-- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl). Die zur 110-EUR-Grenze ergangene Rechtsprechung ist umfangreich; aktuelle Entscheidungen vor Mandantengespraech in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
+- **BFH, Urteil vom 27.03.2024 — VI R 5/22**: Eine Betriebsveranstaltung i.S.d. § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG kann auch dann vorliegen, wenn sie nicht allen Angehoerigen eines Betriebs oder Betriebsteils offensteht (Begriff der Betriebsveranstaltung weit). Der Begriff in § 40 Abs. 2 S. 1 Nr. 2 EStG entspricht der Legaldefinition § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG. Volltext ueber BFH-Datenbank (STRE202410082).
+- **Reaktion des Gesetzgebers — Steueraenderungsgesetz 2025** (verkuendet 23.12.2025, in Kraft 01.01.2026): Klarstellung, dass die **Offenheit fuer alle Beschaeftigten** des Betriebs / Betriebsteils Voraussetzung der **Pauschalbesteuerung nach § 40 Abs. 2 S. 1 Nr. 2 EStG** ist (Reaktion auf BFH VI R 5/22). Der 110-EUR-Freibetrag bleibt unveraendert; ebenso die Begrenzung auf zwei Veranstaltungen pro Jahr.
+- BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl); aktuelle Entscheidungen vor Mandantengespraech in BFH-Datenbank / dejure.org pruefen.
 
 ## Workflow
 
@@ -122,5 +124,8 @@ Stand: 05/2026.
 - EStG §§ 19 Abs. 1 Nr. 1a, 40 Abs. 2.
 - BMF v. 14.10.2015.
 - LStR R 19.5.
+- BFH v. 27.03.2024 — VI R 5/22.
+- Steueraenderungsgesetz 2025 (BGBl. 2025 I, verkuendet 23.12.2025, in Kraft 01.01.2026) — Klarstellung zur Offenheit bei § 40 Abs. 2 S. 1 Nr. 2 EStG.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BMF-Datum 14.10.2015 und GZ recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->
+<!-- UPDATE 29.05.2026 | BFH VI R 5/22 (27.03.2024) und Steueraenderungsgesetz 2025 ergaenzt -->

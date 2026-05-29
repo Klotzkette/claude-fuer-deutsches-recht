@@ -31,9 +31,16 @@ description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfe
 - **§ 19 WEG** — Ordnungsmäßige Verwaltung als inhaltlicher Prüfmaßstab; Abs. 2 Aufzählung von Pflichtmaßnahmen.
 - **§ 49 GKG** — Streitwert WEG: Summe der Interessen aller Wohnungseigentümer; gedeckelt auf das Fünffache des Klägerinteresses.
 
-### BGH-Rechtsprechung
+### BGH-Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Belegt ueber bundesgerichtshof.de und dejure.org:
+
+- **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Anfechtungsklaeger hat Erkundigungsobliegenheit bei Zustellungsverzoegerung des Gerichts; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** und **V ZR 128/23** — Beschlusskompetenz fuer Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG; erstmalige Belastung mit Kosten nur bei sachlichem Grund; Beschlusskompetenz erfasst auch Erhaltungsruecklage. PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG; Vorbefassung erfordert nur Beschlussantrag in der Versammlung, keine Pflicht zur Vorlage weiterer Informationen/Gutachten.
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Klimaanlage als bauliche Veraenderung; Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand unmittelbarer Auswirkungen.
+
+Weitere Rechtsprechung vor Zitierung im Schriftsatz live ueber dejure.org/openjur.de verifizieren.
 
 ## Prüfschema
 
@@ -217,6 +224,11 @@ nichtig festzustellen.
 
 - WEG §§ 9a, 9b, 10, 19, 23–25, 44, 45
 - GKG § 49
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Verifizierte BGH-Rechtsprechung (Stand 05/2026):
+  - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit)
+  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
+  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / bauliche Veraenderung)
+- Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG, aktuelle Aufl.

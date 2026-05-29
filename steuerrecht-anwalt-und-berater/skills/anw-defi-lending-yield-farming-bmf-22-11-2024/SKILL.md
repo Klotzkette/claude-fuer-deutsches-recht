@@ -3,11 +3,20 @@ name: anw-defi-lending-yield-farming-bmf-22-11-2024
 description: "Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto."
 ---
 
-# DeFi-Lending / Yield Farming — Steuerliche Behandlung BMF 22.11.2024
+# DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben)
+
+## Wichtiger Hinweis zum Skill-Namen
+
+Der Skill-Name verweist auf ein BMF-Schreiben vom 22.11.2024. Massgebend fuer die DeFi-Besteuerung ist nach gegenwaertigem Stand:
+
+- **BMF-Schreiben vom 06.03.2025**, GZ IV C 1 - S 2256/00042/064/043 — Einzelfragen zur ertragsteuerrechtlichen Behandlung bestimmter Kryptowerte; ersetzt das BMF-Schreiben vom 10.05.2022 (IV C 1 - S 2256/19/10003 :001, BStBl 2022 I S. 668). Volltext auf bundesfinanzministerium.de (Steuerarten/Einkommensteuer/2025-03-06-einzelfragen-kryptowerte).
+- Ein gesondertes BMF-Schreiben mit Datum 22.11.2024 zu DeFi-Spezifika ist im offenen Recherchekreis (BMF-Webseite, NWB, dejure.org) **nicht verifizierbar**; das BMF-Schreiben vom 06.03.2025 enthaelt Aktualisierungen zu Staking, Lending, Liquidity-Mining, Bridging, NFTs sowie zu Mitwirkungs- und Aufzeichnungspflichten.
+
+Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokumentationshalber bestehen lassen.
 
 ## Zweck
 
-Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uniswap V3, Lido, EigenLayer) für Lending, Yield Farming, Liquidity Mining, Staking. Anwaltliche Beratung zur **steuerlichen Erklärung** nach **BMF-Schreiben vom 22.11.2024** (Folge zum BMF-Krypto-Schreiben 10.5.2022). DeFi-Komplexität: jeder Token-Tausch ist potenziell Veräußerung; LP-Token-Einlage = Tausch; Rewards = Einnahmen.
+Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uniswap V3, Lido, EigenLayer) für Lending, Yield Farming, Liquidity Mining, Staking. Anwaltliche Beratung zur **steuerlichen Erklärung** nach **BMF-Schreiben vom 06.03.2025** (ersetzt BMF v. 10.05.2022). DeFi-Komplexität: jeder Token-Tausch ist potenziell Veräußerung; LP-Token-Einlage = Tausch; Rewards = Einnahmen.
 
 ## Eingaben
 
@@ -20,21 +29,17 @@ Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uni
 
 ## Rechtlicher Rahmen
 
-- **BMF-Schreiben vom 10.5.2022** — Grundlinien Krypto-Besteuerung
-- **BMF-Schreiben vom 22.11.2024** — Konkretisierung DeFi-Tatbestände
-- **§ 22 Nr. 3 EStG** — Sonstige Einkünfte (Staking-Rewards, Lending-Zinsen, soweit nicht § 20)
-- **§ 20 Abs. 1 Nr. 7 EStG** — Kapitalvermögen (Zinsähnliche Rewards)
-- **§ 23 EStG** — Privates Veräußerungsgeschäft (Spekulationsfrist 1 Jahr; bei Lending-Token argumentativ erweitert auf 10 Jahre nach altem BMF 2022, durch JStG 2022 abgeschwächt)
-- **§ 15 EStG** — Gewerbliche Einkünfte bei Daytrading-Charakter
-- **§ 256 HGB / EStG-AfA-Liste** — Bei betrieblichem DeFi
-- **DAC8 (KryptoStG 2026)** — Meldepflicht der CASP
+- **BMF-Schreiben vom 10.05.2022**, GZ IV C 1 - S 2256/19/10003 :001, BStBl 2022 I S. 668 — Grundlinien Krypto-Besteuerung (ersetzt durch BMF v. 06.03.2025).
+- **BMF-Schreiben vom 06.03.2025**, GZ IV C 1 - S 2256/00042/064/043 — Einzelfragen zur ertragsteuerrechtlichen Behandlung bestimmter Kryptowerte (massgebend; siehe Hinweis oben). Volltext unter bundesfinanzministerium.de.
+- **§ 22 Nr. 3 EStG** — Sonstige Einkünfte (Staking-Rewards, Lending-Zinsen, soweit nicht § 20).
+- **§ 20 Abs. 1 Nr. 7 EStG** — Kapitalvermögen (Zinsähnliche Rewards).
+- **§ 23 EStG** — Privates Veräußerungsgeschäft (Spekulationsfrist 1 Jahr; Hinweis: Die in einem fruehen Entwurf des BMF-Schreibens 2022 angedachte Verlaengerung auf 10 Jahre wurde nicht umgesetzt; aktuell gilt 1 Jahr fuer Krypto im Privatvermoegen).
+- **§ 15 EStG** — Gewerbliche Einkünfte bei Daytrading-Charakter.
+- **DAC8 (KryptoStG)** — KryptoStG vom 27.12.2024 (BGBl. 2024 I Nr. 449, in Kraft 01.01.2026); Meldepflicht der CASP; Erstmeldung 31.01.2027 fuer 2026.
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BFH-anhängig zu DeFi-Spezifika (2025/2026)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- FG Baden-Württemberg-anhängig zu Liquidity-Mining-Token-Tausch
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BFH-Verfahren zu DeFi-Spezifika sind anhaengig — aktuellen Stand ueber dejure.org / BFH-Datenbank pruefen.
 
 ## Steuerliche Behandlung pro Aktivität
 

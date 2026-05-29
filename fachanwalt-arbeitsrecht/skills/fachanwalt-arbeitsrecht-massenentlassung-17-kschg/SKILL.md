@@ -49,11 +49,15 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+|---|---|---|---|---|
+| BAG, 6. Senat | 6 AZR 152/22 | 01.04.2026 | Verfruehte Massenentlassungsanzeige (vor Abschluss der BR-Konsultation) fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren" |
+| BAG, 6. Senat | 6 AZR 157/22 | 01.04.2026 | Fehlende Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org Vernetzung; bundesarbeitsgericht.de Pressemitteilung |
+| EuGH | C-134/24 (Tomann) | 30.10.2025 | Massenentlassungsanzeige bleibt Wirksamkeitsvoraussetzung; eine fehlende Anzeige ist nach Kuendigungsausspruch nicht heilbar | dejure.org Vernetzung |
+| EuGH | C-402/24 (Sewel) | 30.10.2025 | Verfruehte Anzeige vor Abschluss der Konsultation ist unzulaessig; 30-Tage-Sperrfrist (Art. 4 RL 98/59/EG) beginnt erst mit ordnungsgemaesser Anzeige | dejure.org Vernetzung |
+| BAG, 6. Senat | 6 AZR 155/21 | (vor 2026) | Bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist fuer sich allein kein zur Unwirksamkeit fuehrender Fehler | dejure.org / bundesarbeitsgericht.de |
 
 ## Pruefschema Massenentlassung
 

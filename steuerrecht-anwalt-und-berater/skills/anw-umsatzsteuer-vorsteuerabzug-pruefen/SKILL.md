@@ -54,7 +54,9 @@ Pflichtangaben § 14 Abs. 4 UStG:
   - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
   - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
 - **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.
-- **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist (BMF-Schreiben vom 15.10.2024 zur eRechnung).
+- **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist. Massgebend:
+  - **BMF-Schreiben vom 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben eRechnung).
+  - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Pruefpflichten des Empfaengers).
 - **Ausnahmen**: Kleinbetragsrechnungen ≤ 250 EUR § 33 UStDV; Fahrausweise § 34 UStDV; Umsätze an Endverbraucher (B2C) bleiben außerhalb.
 
 ## Schritt 2 — Ausschluss § 15 Abs. 2 UStG
@@ -228,6 +230,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - AO § 153
 - EStG § 4 Abs. 5
 - BFH V. Senat XI. Senat
-- BMF-Schreiben Vorsteuerabzug
+- BMF-Schreiben vom 15.10.2024 (Einfuehrung eRechnung) und BMF v. 15.10.2025 (zweites Anwendungsschreiben eRechnung, GZ III C 2 - S 7287-a/00019/007/243).
+- **Steueraenderungsgesetz 2025** (BGBl. 2025 I Nr. 363, verkuendet 23.12.2025): Erweiterung des ermaessigten USt-Satzes (7 %) auf Restaurant- und Verpflegungsdienstleistungen (ohne Getraenke) fuer Umsaetze nach dem 31.12.2025.
 - Sölch/Ringleb UStG
 - Tipke/Lang Steuerrecht

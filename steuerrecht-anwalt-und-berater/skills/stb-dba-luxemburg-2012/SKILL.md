@@ -54,7 +54,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ### Aktive Einkuenfte
 
 - Unternehmensgewinne Art. 7.
-- Loehne (Art. 14): 183-Tage-Regel. Massenhaftes Pendeln; **Konsultationsvereinbarung Home-Office** (Aend.-Prot. 06.07.2023 verankert strukturelle Anpassung) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- Loehne (Art. 14): 183-Tage-Regel. Massenhaftes Pendeln; **Bagatellgrenze 34 Arbeitstage Home-Office in Deutschland** (Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024 — Anhebung von zuvor 19 Tagen auf 34 Tage). Wird die Schwelle eingehalten, bleibt das Besteuerungsrecht beim Arbeitgeberstaat Luxemburg. **BMF-Schreiben vom 08.10.2024** zur Anwendung des DBA-Lohns und der Bagatellgrenzen im Lohnsteuerabzugsverfahren (Anwendung auf Lohnzahlungszeitraeume nach dem 31.12.2024).
 
 ### Passive Einkuenfte
 

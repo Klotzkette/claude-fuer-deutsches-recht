@@ -90,9 +90,15 @@ Mietstreitigkeiten sind häufig Beziehungs-Streit (Hausgemeinschaft, Vermieter-M
 - `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` — WEG
 - `fachanwalt-miet-weg-waermepumpe-geg` — Sonderfall GEG
 
-## Aktuelle Rechtsprechung — Leitsaetze
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Eckpunkte fuer Mediations- und Vergleichsverhandlungs-Kontext (vor Zitierung Volltext pruefen):
+
+- BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel-Streit (Eigenbedarf + Krankheit/Alter) muss Tatgericht vollstaendig aufklaeren — fuer Verhandlungsfenster bedeutet das: medizinische Tatsachen sind oft Vergleichshebel.
+- BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: bei Untervermietungs-Konflikten Gewinngrenze als Verhandlungsanker.
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23: bei WEG-Kostenverteilung-Streit Sachgrund-Diskussion fuehrt zum Vergleichsraum.
+
+Verjaehrungshemmung der Mediation: § 204 Abs. 1 Nr. 4 BGB (waehrend Verfahren + 3 Monate).
 
 ## Quellenregel
 

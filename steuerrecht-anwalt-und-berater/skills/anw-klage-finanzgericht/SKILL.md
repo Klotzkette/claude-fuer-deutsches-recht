@@ -16,7 +16,10 @@ description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anw
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** zur E-Mail-Vorlagepflicht in der Aussenpruefung (§ 147 Abs. 1 Nr. 2, 3 AO): E-Mails mit steuerlichem Bezug unterliegen dem Datenzugriff; "Gesamtjournal" ueberhoeht die Mitwirkungspflicht. Volltext: dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) und BFH-Datenbank.
+- **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** (anhaengig BVerfG 1 BvL 8/24): Verfassungsmaessigkeit des Aussetzungszinssatzes (§ 237 AO) fuer den Zeitraum 01.01.2019 bis 15.04.2021 in Zweifel.
+- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Doppelfestsetzung GrEStG bei Signing/Closing-Trennung (§ 1 Abs. 2b, § 1 Abs. 3 Nr. 1 GrEStG).
+- Weitere Rechtsprechung: vor Zitierung ueber dejure.org / BFH-Datenbank verifizieren (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage).
 
 ## Quellenregel
 

@@ -38,8 +38,9 @@ Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnun
 
 ### Verwaltungsanweisungen
 
-- BMF v. 15.10.2024 zur eRechnung-Pflicht.
-- BMF v. 22.06.2023 ViDA.
+- **BMF v. 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 — Einfuehrungsschreiben zur obligatorischen eRechnung ab 01.01.2025 (verfuegbar unter bundesfinanzministerium.de).
+- **BMF v. 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 — Zweites (klarstellendes) Schreiben mit Anpassung des Umsatzsteuer-Anwendungserlasses; unterscheidet Format- und Inhaltsfehlerklassen, definiert Pflichten des Empfaengers und Validierungsempfehlung des Senders (verfuegbar unter bundesfinanzministerium.de).
+- BMF v. 22.06.2023 ViDA (Hintergrund).
 
 ## Workflow
 
@@ -140,7 +141,8 @@ Stand: 05/2026.
 
 - UStG §§ 14, 27 Abs. 38; UStDV §§ 33, 34.
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. I 2024 Nr. 108).
-- BMF-Schreiben vom 15.10.2024, IV D 2 - S 7287-a/23/10001 :007.
+- BMF-Schreiben vom 15.10.2024, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben).
+- BMF-Schreiben vom 15.10.2025, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben, Anpassung UStAE).
 - EU-RL 2014/55/EU; Norm EN-16931.
 - KoSIT XRechnung-Spezifikation Version 3.0.2 (Stand: Winter 2025/26, gueltig ab 31.01.2026; jeweils aktuelle Fassung unter xeinkauf.de abrufbar).
 - ZUGFeRD-Spezifikation (FeRD), aktuelle Profile pruefen.

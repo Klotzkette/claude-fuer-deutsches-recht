@@ -33,9 +33,15 @@ description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht weg anfec
 - **§ 45 WEG** — Fristen: Satz 1 Klage 1 Monat (Ausschlussfrist); Satz 2 Begründung 2 weitere Monate (Ausschlussfrist).
 - **§ 49 GKG** — Streitwert WEG: Gesamtinteresse, gedeckelt 5-faches Klägerinteresse.
 
-### BGH-Rechtsprechung (WEMoG-Reform 01.12.2020)
+### BGH-Rechtsprechung (WEMoG-Reform 01.12.2020) — verifizierte Eckpunkte, Stand 05/2026
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Belegt ueber bundesgerichtshof.de bzw. dejure.org:
+
+- **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Bei verspaeteter Klagezustellung durch das Gericht trifft den Anfechtungsklaeger eine Erkundigungsobliegenheit; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils widerspricht idR ordnungsmaessiger Verwaltung; nur bei sachlichem Grund anders. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
+- **BGH, Urt. v. 14.02.2025 – V ZR 128/23** — Beschlusskompetenz fuer Aenderung des Verteilungsschluessels umfasst auch die Verteilung fuer die Erhaltungsruecklage (§ 16 Abs. 2 Satz 2 WEG). Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
+- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Vorbefassungsobliegenheit bei Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genuegt, in der Versammlung einen Beschluss erbeten zu haben; die Klagezulaessigkeit haengt nicht davon ab, ob Antragsteller weitere Informationen vorgelegt hat.
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderungen (Klimaanlage): Beurteilung der unbilligen Benachteiligung gem. § 20 Abs. 4 WEG; unmittelbare Auswirkungen sind massgeblich. Dejure: https://www.anwalt24.de/urteile/bgh/2025-03-28/v-zr-105_24
 
 ## Prüfschema
 
@@ -182,7 +188,8 @@ II. Begründetheit
 | Frist 1 Monat versäumt | Nur Nichtigkeitsklage noch möglich; Anfechtung verfristet |
 | Stimmrecht nach Köpfen falsch berechnet | § 25 Abs. 2 WEG — Kopfprinzip ist gesetzlicher Regelfall; abweichendes Modell nur durch Vereinbarung + Grundbucheintragung |
 | Vereinbarung ohne Grundbucheintragung | § 10 Abs. 3 WEG — keine Bindung Sondernachfolger |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Zustellung verzoegert sich | BGH, Beschl. v. 07.11.2024 – V ZB 6/24: Erkundigungsobliegenheit innerhalb eines Jahres ab Ablauf der Monatsfrist |
+| Beschluss verteilt Erhaltungskosten erstmals neu | BGH, Urt. v. 14.02.2025 – V ZR 236/23: Sachlicher Grund erforderlich, sonst Verstoss gegen ordnungsm. Verwaltung |
 
 ## Streitwert und Kosten
 
@@ -211,6 +218,12 @@ II. Begründetheit
 
 - WEG §§ 9a, 9b, 10, 23–26, 29, 44, 45
 - GKG § 49
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Verifizierte BGH-Rechtsprechung (Stand 05/2026):
+  - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung)
+  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 (Erhaltungskosten / sachlicher Grund): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
+  - BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Verteilungsschluessel Erhaltungsruecklage): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
+  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Waermepumpe / Vorbefassung)
+  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Bauliche Veraenderung Klimaanlage / unbillige Benachteiligung)
+- Weitere Rechtsprechung vor Verwendung im Schriftsatz live über dejure.org / openjur.de / bundesgerichtshof.de prüfen.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG

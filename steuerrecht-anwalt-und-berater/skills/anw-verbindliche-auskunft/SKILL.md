@@ -91,7 +91,10 @@ Präzise Fragen z. B.:
 - Bindet das FA wenn der später verwirklichte Sachverhalt mit dem Antrag übereinstimmt.
 - Keine Bindung bei abweichender Verwirklichung oder bei später geänderter Rechtslage zugunsten des Antragstellers (§ 2 Nr. 4 StAuskV).
 - Bindet die Finanzgerichte **nicht** — der Steuerpflichtige kann ggf. später eine bessere Auffassung gerichtlich durchsetzen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Aktuelle Rechtsprechung
+
+- **BFH, Urteil vom 03.07.2025 — IV R 6/23**: Bei gemeinsamem Antrag mehrerer Antragsteller (z.B. alle Gesellschafter einer GmbH) zu inhaltlich identischem Sachverhalt darf die Finanzbehoerde nur eine einzige Gebuehr nach § 89 Abs. 3 ff. AO erheben. Mitantragsteller haften als Gesamtschuldner. Volltext ueber BFH-Datenbank (STRE202520244). Relevant fuer die Antragsgestaltung bei mehreren Beteiligten.
 
 ## Workflow
 

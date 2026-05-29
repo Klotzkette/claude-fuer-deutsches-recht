@@ -19,7 +19,11 @@ description: "Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel
 
 ## Kernaussage des Urteils
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Leitentscheidung: BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
+
+Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
+
+Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung". Status: Volltext zum Stand der Bearbeitung noch nicht voll veroeffentlicht - vor Schriftsatzverwendung Volltext pruefen.
 
 Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsprechung begründet werden. Vor einer Ausgabe ist zu prüfen, welche Entscheidung die tragende Aussage wirklich trägt und ob sie für Freistellung nach Kündigung, AGB-Kontrolle und Annahmeverzug passt.
 

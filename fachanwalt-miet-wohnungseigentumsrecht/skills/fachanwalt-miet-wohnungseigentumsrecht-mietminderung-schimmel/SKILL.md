@@ -36,9 +36,14 @@ Mandate Mieter bei Schimmel — Beweislast, Höhe, durchsetzbare Strategie.
 - Wenn Vermieter exculpieren kann: Mieter muss Bauphysik beweisen
 - Privatgutachten oder gerichtlich
 
-### BGH-Linie
+### BGH-Linie (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Belegt ueber bundesgerichtshof.de bzw. dejure.org:
+
+- **BGH, Urt. v. 05.12.2018 – VIII ZR 271/17 und VIII ZR 67/18** — Die blosse Gefahr der Schimmelbildung wegen einer aelteren, beim Bau aber zulaessigen Bauweise (Waermebruecken) ist kein Mangel der Mietwohnung; entscheidend ist das beim Errichtungszeitpunkt geltende Bauregelwerk. Beide Aktenzeichen ueber dejure.org auffindbar.
+- Bestehender, tatsaechlich aufgetretener Schimmel ist hingegen ein Mangel iSv § 536 BGB — Beweislastverteilung nach gefestigter Rechtsprechung: Mieter weist Mangel nach, Vermieter muss substantiell Verursachung aus seiner Sphaere ausschliessen, anschliessend kann Mieter Bauphysik (Sachverstaendigengutachten) beweisen.
+
+Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/2026 vor Zitierung live ueber dejure.org/openjur.de pruefen.
 
 ## 3) Minderungs-Höhe
 
@@ -149,9 +154,11 @@ Mandate Mieter bei Schimmel — Beweislast, Höhe, durchsetzbare Strategie.
 4. **Sachverständiger erst zu spaet**
 5. **Bei Klage AG kein Anwalt-Pflicht — Anwalt-Vertretung dennoch empfohlen**
 
-## 10) BGH-Linien
+## 10) BGH-Linien (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH, Urt. v. 05.12.2018 – VIII ZR 271/17 und VIII ZR 67/18: keine Mietminderung bei blosser Schimmelgefahr wegen zeitgemaesser Bauweise (Waermebruecken in Altbau); Mangelbegriff ist anhand der zur Errichtungszeit geltenden technischen Regelwerke zu bestimmen.
+- BGH, Urt. v. 27.05.2020 – VIII ZR 45/19: zur Reichweite des Mieter-Einsichtsrechts in Belege fuer die Betriebskostenabrechnung (Originale; Belege auch fuer Zahlungsfluss).
+- Aktuelle 2025/2026-Entscheidungen zu Schimmel/Minderung vor Zitierung live ueber dejure.org/openjur.de/bundesgerichtshof.de verifizieren.
 
 ## Anschluss
 

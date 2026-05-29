@@ -131,14 +131,15 @@ Bei jedem Kündigungs-, Aufhebungsvertrag- oder AGG-Mandat zusätzlich prüfen:
 | Indiz | Bewertung |
 |---|---|
 | Auskunftsersuchen zeitgleich mit Kündigung oder Klage | Typisches Druckmittel; Monatsfrist Art. 12 Abs. 3 DSGVO beachten |
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Standardisierter Legal-Tech-Antrag identischen Wortlauts | Missbrauchsverdacht aus Art. 12 Abs. 5 DSGVO grundsaetzlich denkbar; aktuelle Rechtsprechung jedoch zurueckhaltend bei Annahme von Rechtsmissbrauch |
 | Erstmaliger Antrag ohne Legal-Tech-Muster | Hohe Hürde für Missbrauchseinwand; Auskunft erteilen |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+**Aktuelle Rechtsprechung zum DSGVO-Schadensersatz bei verspaeteter Auskunft**: BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: Bloss verspaetete Auskunft begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; allein ein "Stoergefuehl" oder negative Emotion genuegt nicht. Erforderlich ist konkret begruendete Furcht vor Datenmissbrauch oder tatsaechlicher Kontrollverlust. Quelle: dejure.org-Vernetzung BAG 20.02.2025 - 8 AZR 61/24.
 
 **Handlungsanweisung:**
 1. Datum des Eingangs des Auskunftsersuchens dokumentieren.
 2. Monatsfrist Art. 12 Abs. 3 DSGVO in Fristenbuch eintragen.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Pruefen, ob die Auskunft inhaltlich vollstaendig erteilt werden kann (vgl. BAG 20.02.2025 - 8 AZR 61/24 zur Schadensersatz-Schwelle).
 4. Falls Missbrauchseinwand nicht sicher: Auskunft erteilen oder begründet verzögern (max. zwei weitere Monate, Art. 12 Abs. 3 S. 2 DSGVO).
 5. Ausgleichsklausel im Aufhebungsvertrag: DSGVO-Ansprüche und Art.-82-Schadensersatz einbeziehen?
 6. Zuständigkeit: Auskunftsklage gehört vor das Landgericht (§ 44 BDSG i.V.m. Art. 79 DSGVO), nicht vor das Arbeitsgericht.

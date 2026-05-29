@@ -43,7 +43,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### 3. MiLoG (Mindestlohngesetz)
 
-**Aktueller Mindestlohn:** § 1 Abs. 2 MiLoG; zum Stand [aktuelles Datum prüfen]. Anpassung durch Mindestlohnkommission gem. § 9 MiLoG alle 2 Jahre. `[Modellwissen – prüfen, aktuellen Satz abfragen]`
+**Aktueller Mindestlohn:** § 1 Abs. 2 MiLoG. Werte (Quelle: Bundeskabinett, Mindestlohnanpassungsverordnungen; BMAS):
+- 01.01.2024: EUR 12,41 / Stunde
+- 01.01.2025: EUR 12,82 / Stunde
+- **01.01.2026: EUR 13,90 / Stunde** (Fuenfte Mindestlohnanpassungsverordnung)
+- 01.01.2027 (vorgesehen): EUR 14,60 / Stunde
+
+Anpassung durch Mindestlohnkommission gem. § 9 MiLoG; Umsetzung durch Verordnung des BMAS. Vor jedem Schriftsatz oder jeder Beratung aktuellen Wert in bundesregierung.de / bmas.de pruefen.
+
+Hinweis: Die Minijob-Verdienstgrenze ist an den Mindestlohn gekoppelt; sie betraegt zum 01.01.2026 EUR 603 / Monat (Quelle: Deutsche Rentenversicherung Baden-Wuerttemberg, Pressemitteilung 22.12.2025).
 
 **Wer hat Anspruch?** Alle Arbeitnehmer (§ 1 Abs. 1, § 22 MiLoG), außer:
 - Langzeitarbeitslose in den ersten 6 Monaten (§ 22 Abs. 4 MiLoG)
@@ -123,7 +131,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Risiken / typische Fehler
 
-- **Aktualität des Mindestlohnsatzes** – Anpassungen alle 2 Jahre; vor Ausgabe immer aktuellen Satz prüfen `[Modellwissen – prüfen]`.
-- **Tarifbindung ignoriert** – Branchentarifverträge können höhere Mindestlöhne oder abweichende Arbeitszeiten vorsehen.
-- **eAU-Umstellung übersehen** – seit 01.01.2023 läuft AU-Meldung digital; Arbeitgeber muss dies in HRIS-System abbilden.
-- **Arbeitszeiterfassungspflicht noch im Wandel** – gesetzgeberischer Handlungsbedarf nach BAG-Beschluss v. 13.09.2022; Stand immer prüfen.
+- **Aktualität des Mindestlohnsatzes** - Aktueller Wert: EUR 13,90 ab 01.01.2026 (Fuenfte Mindestlohnanpassungsverordnung); EUR 14,60 ab 01.01.2027 vorgesehen. Vor Ausgabe immer aktuellen Wert in bundesregierung.de / bmas.de pruefen.
+- **Tarifbindung ignoriert** - Branchentarifvertraege koennen hoehere Mindestloehne oder abweichende Arbeitszeiten vorsehen.
+- **eAU-Umstellung uebersehen** - seit 01.01.2023 laeuft AU-Meldung digital; Arbeitgeber muss dies in HRIS-System abbilden.
+- **Arbeitszeiterfassungspflicht** - BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21 (Pflicht zur Arbeitszeiterfassung aus § 3 Abs. 2 Nr. 1 ArbSchG i.V.m. EuGH C-55/18 "CCOO"). Gesetzgeberische Konkretisierung im ArbZG noch ausstehend, Stand vor Ausgabe pruefen. Quelle: dejure.org-Vernetzung BAG 13.09.2022 - 1 ABR 22/21.

@@ -37,8 +37,11 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 ### Verwaltungsanweisungen
 
 - BMF v. 28.11.2019 zu GoBD.
+- **BMF v. 11.03.2024** — 1. Aenderung GoBD (Anpassung an gesetzliche Aenderungen); abrufbar bundesfinanzministerium.de (BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/AO-Anwendungserlass/2024-03-11-aenderung-gobd).
+- **BMF v. 14.07.2025** — 2. Aenderung GoBD (Folge von eRechnung, weitere gesetzliche Anpassungen); abrufbar bundesfinanzministerium.de.
 - BMF v. 17.06.2019 zu § 146a AO (TSE).
 - BMF v. 11.06.2020 zur Kassennachschau § 146b AO.
+- **Meldepflicht elektronischer Aufzeichnungssysteme § 146a Abs. 4 AO**: Pflicht seit 01.01.2025 (ELSTER/Mein ELSTER, ERiC-Schnittstelle); Altsysteme vor 01.07.2025 anzumelden bis 31.07.2025; ab 01.07.2025 erworbene Systeme innerhalb 1 Monats nach Anschaffung.
 
 ## Workflow
 
@@ -106,6 +109,7 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 Stand: 05/2026.
 
 - AO §§ 146, 146a, 146b, 162, 379.
-- BMF v. 28.11.2019 zu GoBD.
+- BMF v. 28.11.2019 zu GoBD; BMF v. 11.03.2024 (1. Aenderung GoBD); BMF v. 14.07.2025 (2. Aenderung GoBD).
 - BMF v. 17.06.2019 (TSE).
 - BMF v. 11.06.2020 (Kassennachschau).
+- § 146a Abs. 4 AO Meldepflicht (Mein ELSTER) seit 01.01.2025; Altsysteme bis 31.07.2025, Neusysteme ab 01.07.2025 innerhalb 1 Monats.

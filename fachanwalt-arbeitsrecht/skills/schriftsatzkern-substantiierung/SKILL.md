@@ -194,9 +194,22 @@ Vor Versand:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Im Plugin verifizierte BAG/EuGH/BSG-Leitentscheidungen (offene Quellen: dejure.org, bundesarbeitsgericht.de Pressemitteilungen):
+
+- BAG, 23.10.2025 - 8 AZR 300/24 (Paarvergleich Equal Pay)
+- BAG, 03.06.2025 - 9 AZR 104/24 (Mindesturlaub kein Verzicht)
+- BAG, 25.03.2026 - 5 AZR 108/25 (Freistellungsklausel unwirksam)
+- BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Massenentlassung)
+- EuGH, 30.10.2025 - C-134/24 und C-402/24 (Massenentlassung)
+- BAG, 20.02.2025 - 8 AZR 61/24 (DSGVO-Schadensersatz)
+- BAG, 18.06.2025 - 7 AZR 50/24 (Befristung BR-Mitglieder)
+- BAG, 22.09.2022 - 8 AZR 4/21 (NachweisG-Schadensersatz)
+- BAG, 13.09.2022 - 1 ABR 22/21 (Arbeitszeiterfassung)
+- BSG, 12.07.2006 - B 11a AL 47/05 R (Sperrzeit-Vermeidung Aufhebungsvertrag)
+
+Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen pruefen. Andere Rechtsprechung nur nach Live-Verifikation mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offener Quelle zitieren.
 
 ## Paragrafenkette Schriftsatz-Grundlagen
 

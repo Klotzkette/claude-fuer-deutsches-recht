@@ -14,7 +14,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 1. Welcher AN — neu eingestellt oder bestehend?
 2. Aktueller Bruttolohn pro Monat und im Jahresdurchschnitt?
 3. Ist die 538-EUR-Grenze (Stand 01.01.2024) eingehalten?
-4. Aktuell (Stand 2025): Mindestlohn 12,82 EUR/h, Minijob-Grenze 556 EUR/Monat (BGBl. 2023 I Nr. 321); 2026 noch nicht festgesetzt — Bundesgesetzblatt / Mindestlohnkommission pruefen.
+4. Aktuell (Stand 2026): Mindestlohn 13,90 EUR/h, Minijob-Grenze 603 EUR/Monat (= 13,90 × 130 / 3 = 602,33, kfm. gerundet 603; MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Minijob-Zentrale). Ab 2027: MiLo 14,60 EUR/h, Grenze voraussichtlich 633 EUR/Monat (MiLoV5).
 5. Hat der AN bereits andere Minijobs (Mehrfachbeschaeftigung verboten ueber Grenze)?
 6. Hat der AN eine Hauptbeschaeftigung mit SV-Pflicht? (Dann zweiter Minijob noch moeglich.)
 7. Hat der AN RV-Befreiung beantragt (Opt-out)?
@@ -46,7 +46,9 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 ### Phase 1 — Grenzpruefung
 
 - Bruttolohn pro Monat <= 538 EUR (Stand 01.01.2024).
-- Aktuell (Stand 2025): 556 EUR/Monat (MiLo 12,82 EUR; § 8 Abs. 1a SGB IV, BGBl. 2023 I Nr. 321); 2026-Grenze pruefen.
+- Stand 01.01.2025: 556 EUR/Monat (MiLo 12,82 EUR; § 8 Abs. 1a SGB IV).
+- Stand 01.01.2026: 603 EUR/Monat (MiLo 13,90 EUR; MiLoV5 vom 05.11.2025, BGBl. 2025 I Nr. 268; bestaetigt durch Minijob-Zentrale, Jahresgrenze 7.236 EUR).
+- Voraussichtlich 01.01.2027: 633 EUR/Monat (MiLo 14,60 EUR; MiLoV5).
 - Sonderzahlungen (Weihnachts-, Urlaubsgeld): bei regelmaessigem Anspruch JAHRES-Durchschnitt bilden, sonst Grenzverletzung.
 - Mehrfacher Minijob mehrerer AG: Summe pruefen.
 
@@ -126,6 +128,7 @@ Stand: 05/2026.
 - EStG § 40a.
 - MiLoG § 17.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
-- Minijob-Grenze 2025: 556 EUR/Monat (MiLo 12,82 EUR, BGBl. 2023 I Nr. 321; 2026 noch nicht festgesetzt).
+- Minijob-Grenze 2025: 556 EUR/Monat (MiLo 12,82 EUR). Minijob-Grenze 2026: 603 EUR/Monat (MiLo 13,90 EUR, MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Berichtigung Nr. 312). 2027 voraussichtlich 633 EUR/Monat (MiLo 14,60 EUR, MiLoV5).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Pruefhinweis ohne Marker) -->
+<!-- UPDATE 29.05.2026 | MiLoV5: Minijob-Grenze 603 EUR (2026) / voraussichtlich 633 EUR (2027) ergaenzt -->

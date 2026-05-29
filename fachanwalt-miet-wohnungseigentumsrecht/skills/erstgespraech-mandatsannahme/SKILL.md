@@ -160,9 +160,18 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 | Belegeinsicht Fristen-Antwort | § 556 Abs. 3 BGB | Innerhalb Abrechnungsfrist |
 | Mietpreisbremse Ruege | § 556g Abs. 2 BGB | Schriftlich vor Klage |
 
-## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze
+## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Eckpunkte (Volltext jeweils ueber bundesgerichtshof.de / dejure.org pruefen):
+
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkaufsabsicht zulaessig (Wohnraummiete)
+- BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: Haerteklausel § 574 BGB, vollstaendige Beweiserhebung bei Krankheit/Alter
+- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: Mietpreisbremse §§ 556d ff. BGB nur bei Mietbeginn, nicht bei spaeterer Mietsenkung
+- BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: Gewinnbringende Untervermietung kein berechtigtes Interesse (§ 553 BGB)
+- BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 (und parallel 280/23, 281/23, 282/23): Modernisierungsmieterhoehung § 559 BGB / energetische Modernisierung — Prognose Endenergieeinsparung
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 / V ZR 86/24: WEG-Kostenverteilung und Beschlussersetzungsklage (V. Zivilsenat)
+
+Triage: bei akutem Schriftsatzbedarf konkrete Aktenzeichen vor Zitierung live verifizieren.
 
 ## Quellenregel
 

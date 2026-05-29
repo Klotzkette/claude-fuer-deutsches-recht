@@ -32,8 +32,9 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zur Pensionsbesteuerung nach DBA-Frankreich in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zur Pensionsbesteuerung nach DBA-Frankreich ueber dejure.org / BFH-Datenbank abrufen.
+- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich ueber dejure.org / BFH-Datenbank abrufen.
+- **Konsultationsvereinbarung Deutschland-Frankreich vom 20.03.2025** zur Anwendung des Kassenstaatsprinzips nach Art. 14 Abs. 1 DBA-Frankreich bei beitragsfinanzierten Altersbezuegen an ehemalige franzoesische Bedienstete (BMF-Veroeffentlichung vom 19.05.2025; PDF "2025-05-19-konsultationsver-kassenstaatsprinzip" abrufbar unter bundesfinanzministerium.de, Bereich Internationales Steuerrecht / Frankreich).
 - BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches

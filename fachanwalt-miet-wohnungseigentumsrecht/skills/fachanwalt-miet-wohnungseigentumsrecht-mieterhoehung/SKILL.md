@@ -42,10 +42,16 @@ description: "Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflich
 
 - **§§ 556d–556g BGB** — Mietpreisbremse: bei Neuvermietung in Gebieten mit angespanntem Wohnungsmarkt max. 10 % über ortsüblicher Vergleichsmiete (§ 556d Abs. 1 BGB).
 - **§ 556g BGB** — Rüge-Verfahren: Vermieter muss nach qualifizierter Rüge des Mieters zuviel gezahlte Miete zurückzahlen; Ausnahmen (Neubau, Modernisierung, Vormiete über Vergleichsmiete).
+- **Verlaengerung bis 31.12.2029** durch das Gesetz zur Aenderung der Regelungen ueber die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): § 556d Abs. 2 Satz 4 BGB nennt jetzt das Jahr 2029; Landesverordnungen koennen ueber den 31.12.2025 hinaus erlassen werden. Bundestags-Drs. 21/17 (Entwurf): https://dserver.bundestag.de/btd/21/000/2100017.pdf
+- **BVerfG, Beschl. v. 08.01.2026 – 1 BvR 183/25** (Kammerbeschluss): Verfassungsbeschwerde gegen die Verlaengerung der Mietpreisbremse erfolglos. Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260108_1bvr018325.html
 
-### BGH-Rechtsprechung
+### BGH-Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Belegt über bundesgerichtshof.de bzw. dejure.org:
+
+- **BGH, Urt. v. 17.12.2025 – VIII ZR 56/25** — Mietpreisbremse §§ 556d ff. BGB greift nur fuer die Mietvereinbarung bei Mietbeginn; eine spaetere einvernehmliche Mietsenkung im laufenden Mietverhaeltnis faellt nicht in den Anwendungsbereich. Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
+- **BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24** — Vermieter darf das selbstaendige Beweisverfahren nicht dazu nutzen, vor Erhebung einer Zustimmungsklage § 558b BGB ein Sachverstaendigengutachten zur ortsueblichen Vergleichsmiete bzw. zu Wohnwertmerkmalen zu erzwingen; die Mietfindung ist umfassende Rechtsanwendung. Quelle: https://juris.bundesgerichtshof.de (Az.-Suche)
+- **BGH, Urt. v. 26.03.2025 – VIII ZR 283/23** (parallel VIII ZR 280/23, VIII ZR 281/23, VIII ZR 282/23) — Modernisierungsmieterhoehung nach energetischer Modernisierung § 559 Abs. 1 i.V.m. § 555b Nr. 1 BGB setzt nur eine im Zeitpunkt der Mieterhoehungserklaerung absehbare, dauerhafte Endenergieeinsparung voraus; entscheidend ist eine bauphysikalisch begruendete Prognose, nicht der spaetere tatsaechliche Verbrauch. Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.03.2025&Aktenzeichen=VIII+ZR+283/23 ; openJur (VIII ZR 282/23): https://openjur.de/u/2517641.html
 
 ## Prüfschema
 
@@ -174,11 +180,12 @@ Monats kündigen.
 
 | Einwand Mieter | Reaktion Vermieter |
 |---|---|
-| Mietspiegel nicht aktuell | Mietspiegel hat vier Jahre Gültigkeit § 558 Abs. 2 BGB; Aktualisierungspflicht |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Mietspiegel nicht aktuell | Qualifizierter Mietspiegel hat zwei Jahre Pflicht-Anpassung; Vermutungswirkung § 558d Abs. 3 BGB |
+| Energetische Modernisierungsumlage nicht plausibel | BGH, Urt. v. 26.03.2025 – VIII ZR 283/23: prognostizierte dauerhafte Endenergieeinsparung genuegt; bauphysikalische Bewertung |
+| Vermieter umgeht Mieterhoehungsverfahren mittels Beweisverfahren | BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24: selbstaendiges Beweisverfahren unzulaessig |
 | Kappungsgrenze überschritten | Berechnung über drei Jahre; ggf. Erhöhung auf Kappungsgrenze kürzen |
 | Modernisierungskosten nicht belegt | § 559b BGB — Mieter kann Einsicht verlangen; Nachlage verpflichtend |
-| Mietpreisbremse einschlägig | Prüfen: Ausnahmen (Neubau, umfassende Modernisierung, Vormiete) |
+| Mietpreisbremse einschlägig | Prüfen: Ausnahmen (Neubau, umfassende Modernisierung, Vormiete); zeitliche Geltung bis 31.12.2029 nach BGBl. 2025 I Nr. 163 |
 
 ## Streitwert und Kosten
 
@@ -206,6 +213,10 @@ Monats kündigen.
 
 - BGB §§ 535, 555b–555e, 557a, 557b, 558–558d, 556d–556g, 559–559b
 - GKG § 41 Abs. 5
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Gesetz zur Änderung der Regelungen über die zulässige Miethöhe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163), in Kraft 23.07.2025 — Verlaengerung der Mietpreisbremse bis 31.12.2029: https://www.recht.bund.de/bgbl/1/2025/163/VO.html
+- Verifizierte BGH-Rechtsprechung (Stand 05/2026):
+  - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
+  - BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren fuer Mieterhoehung)
+  - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 (Modernisierungsmieterhoehung Prognose Endenergieeinsparung): https://openjur.de/u/2517641.html
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Blank/Börstinghaus Miete, aktuelle Aufl.

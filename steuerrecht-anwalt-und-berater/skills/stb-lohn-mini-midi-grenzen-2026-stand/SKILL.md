@@ -48,16 +48,19 @@ Die Schwellenwerte fuer geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 |---|---|---|
 | 01.10.2022 | 12,00 | 520 |
 | 01.01.2024 | 12,41 | 538 |
-| 01.01.2025 | 12,82 (BGBl. 2023 I Nr. 321) | 556 |
-| 01.01.2026 | Noch nicht festgesetzt (Stand 05/2026) | Noch nicht festgesetzt |
+| 01.01.2025 | 12,82 | 556 |
+| 01.01.2026 | 13,90 (MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Berichtigung Nr. 312) | 603 (= 13,90 × 130 / 3 = 602,33, kfm. gerundet 603; Minijob-Zentrale) |
+| 01.01.2027 | 14,60 (MiLoV5, gleiche Verordnung) | 633 (= 14,60 × 130 / 3 = 632,67, kfm. gerundet 633; gegenpruefen bei Minijob-Zentrale) |
 
-(Werte jaehrlich pruefen — Bundesgesetzblatt, Mindestlohnkommission, DATEV-Updates.)
+(Werte jaehrlich pruefen — Bundesgesetzblatt, Mindestlohnkommission, Minijob-Zentrale, DATEV-Updates.)
 
 ### Phase 2 — Berechnungsformel
 
 - § 8 Abs. 1a SGB IV: Minijob-Grenze = Mindestlohn x 130 / 3, kaufmaennisch gerundet auf volle EUR (Hintergrund: 10 Wochenstunden in Bezug auf 4,33 Wochen/Monat; die Formel des § 8 Abs. 1a SGB IV verwendet 130 als drittelte Quartalsbasis).
 - Bei MiLo 12,41 EUR: 12,41 x 130 / 3 = 537,77 — Rundung auf 538 EUR.
-- Bei MiLo 12,82 EUR (2025): 12,82 x 130 / 3 = 556,20 — Rundung auf 556 EUR (Minijob-Grenze 2025). Rundungspraxis bei Mindestlohnaenderung ueber Minijob-Zentrale pruefen.
+- Bei MiLo 12,82 EUR (2025): 12,82 x 130 / 3 = 556,20 — Rundung auf 556 EUR (Minijob-Grenze 2025).
+- Bei MiLo 13,90 EUR (2026): 13,90 x 130 / 3 = 602,33 — Rundung auf 603 EUR (Minijob-Grenze 2026; bestaetigt durch Minijob-Zentrale; Jahresgrenze 7.236 EUR).
+- Bei MiLo 14,60 EUR (2027): 14,60 x 130 / 3 = 632,67 — Rundung voraussichtlich auf 633 EUR (Pruefung Minijob-Zentrale empfohlen).
 
 ### Phase 3 — Uebergangsbereich
 
@@ -114,6 +117,7 @@ Stand: 05/2026.
 - MiLoG §§ 1, 4, 21.
 - Bundesgesetzblatt mit Mindestlohn-Verordnungen.
 - Mindestlohnkommission.
-- Mindestlohn 2025: 12,82 EUR/h; Minijob-Grenze 2025: 556 EUR/Monat. 2026: noch nicht festgesetzt; Bundesgesetzblatt und Minijob-Zentrale pruefen.
+- Mindestlohn 2025: 12,82 EUR/h; Minijob-Grenze 2025: 556 EUR/Monat. **Mindestlohn 2026: 13,90 EUR/h; Minijob-Grenze 2026: 603 EUR/Monat (Jahresgrenze 7.236 EUR). Mindestlohn 2027: 14,60 EUR/h; Minijob-Grenze 2027 voraussichtlich 633 EUR/Monat.** Quelle: Fuenfte Mindestlohnanpassungsverordnung (MiLoV5) vom 05.11.2025, BGBl. 2025 I Nr. 268 (Berichtigung Nr. 312); Minijob-Zentrale Pressemitteilung Dezember 2025.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (MiLo 12,82 EUR/Minijob 556 EUR 2025 eingesetzt), 1 ersetzt (Rundungspraxis Pruefhinweis ohne Marker) -->
+<!-- UPDATE 29.05.2026 | MiLoV5: MiLo 13,90 (2026) / 14,60 (2027); Minijob-Grenze 603 (2026) / voraussichtlich 633 (2027) ergaenzt -->

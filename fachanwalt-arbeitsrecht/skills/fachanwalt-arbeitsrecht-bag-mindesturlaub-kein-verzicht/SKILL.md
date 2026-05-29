@@ -16,7 +16,11 @@ description: "Workflow-Skill zu fachanwalt arbeitsrecht bag mindesturlaub kein v
 
 ## Kernaussage des Urteils
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Leitentscheidung: BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (Kein Urlaubsverzicht durch Prozessvergleich).
+
+Tragende Aussage: Im laufenden Arbeitsverhaeltnis ist ein Verzicht auf den gesetzlichen Mindesturlaub - auch in einem gerichtlichen Vergleich - unwirksam, soweit der Arbeitnehmer den Urlaub aufgrund Arbeitsunfaehigkeit oder anderer tatsaechlicher Hindernisse nicht in natura nehmen kann. Eine Klausel, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nach § 13 Abs. 1 Satz 3 BUrlG i.V.m. Art. 7 RL 2003/88/EG nichtig, soweit sie den gesetzlichen Mindesturlaub betrifft.
+
+Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
 
 Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Anspruch auf Urlaubsabgeltung in Geld (Paragraf 7 Absatz 4 BUrlG). Dieser ist als reiner Geldanspruch dispositiv und kann grundsaetzlich vergleichsweise erledigt werden — allerdings nur mit klarer, konkret bezifferter Klausel.
 

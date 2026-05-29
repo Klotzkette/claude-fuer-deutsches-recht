@@ -36,8 +36,12 @@ Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BMF-Schreiben vom 10.5.2022 zur Anwendung StAGeRefG (90 %-Schwelle).
+- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Ernstliche Zweifel an der Rechtmaessigkeit einer doppelten GrESt-Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs. Volltext ueber BFH-Datenbank (STRE202520204).
+- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** (sog. dritter Signing-Closing-Beschluss): Bestaetigt die Linie aus II B 13/25; doppelte GrESt-Festsetzung auf einheitlichen Lebenssachverhalt verstoesst gegen den Verhaeltnismaessigkeitsgrundsatz; gilt auch ohne Nachpruefungsvorbehalt nach § 164 AO. Volltext ueber BFH-Datenbank (STRE202520313).
+- **BFH, Urteil vom 21.05.2025 — II R 31/22**: Volltext ueber BFH-Datenbank (Pruefung im Einzelfall).
+- **BFH, Urteil vom 25.09.2024 — II R 2/22** und **II R 46/22** (Konzernklausel § 6a GrEStG): Volltext ueber BFH-Datenbank.
+- BMF-Schreiben vom 10.05.2022 zur Anwendung StAGeRefG (90 %-Schwelle), verfuegbar unter bundesfinanzministerium.de.
+- Weitere Rechtsprechung: vor Zitierung ueber dejure.org / BFH-Datenbank verifizieren.
 
 ## Tatbestände im Überblick
 
@@ -156,6 +160,7 @@ und wird zusätzlich zum Kaufpreis fällig.
 | Bemessung über Kaufpreis statt Grundbesitzwert | falscher Bescheid → Einspruch | Bewertungsgutachten beibringen | korrekter Wert §138 BewG |
 | RETT-Blocker schwach gestaltet | wirtschaftliche Identität → § 1 Abs. 3a | Strukturüberprüfung | wirtschaftlich unabhängige Erwerber |
 | Bundesland-Steuersatz übersehen | Falsche Steuerprognose | Korrektur möglich | richtiger Hebesatz |
+| Signing/Closing-Trennung + Doppel-Festsetzung § 1 Abs. 2b + Abs. 3 | Doppelbesteuerung — AdV unter Berufung auf BFH II B 13/25, II B 47/25 sofort beantragen | Pruefung Verhaeltnismaessigkeit; Verzicht auf eine Festsetzung verhandeln | Einheitliche Festsetzung |
 
 ## Querverweise
 

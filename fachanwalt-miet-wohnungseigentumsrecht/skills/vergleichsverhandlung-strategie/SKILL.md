@@ -155,9 +155,15 @@ Klassische Stolperfalle in Wohnraum-, Gewerberaum- und WEG-Recht:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
-## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht
+## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+BATNA- und ZOPA-relevante BGH-Eckpunkte (Volltext jeweils ueber bundesgerichtshof.de bzw. dejure.org pruefen):
+
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkauf moeglich — Vermieter-BATNA staerker.
+- BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel (§ 574 BGB) wegen Krankheit/Alter muss Tatgericht voll aufklaeren — Mieter-BATNA staerker bei substantieller medizinischer Lage.
+- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: spaetere Mietsenkung im laufenden Mietverhaeltnis nicht ueber Mietpreisbremse angreifbar — Hebel fuer Vermieter, einvernehmliche Senkung als Settlement-Element zu nutzen.
+- BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: Untervermietungs-Gewinngrenze — Untervermieter-Mieter-BATNA schwaecher bei Profitabsicht.
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23: WEG-Kostenverteilung erfordert sachlichen Grund bei erstmaliger Belastung — Verhandlungsraum fuer betroffene Eigentuemer.
 
 ## Paragrafenkette Vergleich Miet-/WEG-Recht
 

@@ -49,9 +49,11 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 - RL 2006/54/EG (Gleichbehandlungsrichtlinie Arbeit und Beschäftigung – Geschlecht)
 - Art. 19 AEUV (Antidiskriminierungskompetenz der EU)
 
-### Rechtsprechung
+### Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BAG, Urteil vom 23.10.2025 - 8 AZR 300/24** (Paarvergleich bei Entgeltdiskriminierung): Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts, der fuer gleiche oder gleichwertige Arbeit hoehere Verguetung erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann Vergleichsperson sein. Vorinstanz: LAG Baden-Wuerttemberg. Quellen: dejure.org-Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich".
+- **BAG, Urteil vom 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz bei verspaeteter Auskunft): Allein ein "Stoergefuehl" oder negativer Gemuetszustand begruendet keinen Kontrollverlust i.S.v. Art. 82 DSGVO; erforderlich ist eine konkret begruendete Furcht vor Datenmissbrauch oder ein tatsaechlicher Kontrollverlust. Quellen: dejure.org-Vernetzung BAG 20.02.2025 - 8 AZR 61/24; Volltext-PDF auf bundesarbeitsgericht.de verfuegbar.
+- Weitere aktuelle Rechtsprechung vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de) verifizieren.
 
 ## Ablauf
 

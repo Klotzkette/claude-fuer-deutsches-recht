@@ -85,12 +85,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Allgemeiner Mindestlohn
 
-| Datum | Stunden-Satz |
-|---|---|
-| 1.1.2024 | EUR 12,41 |
-| 1.1.2025 | EUR 12,82 |
-| 1.1.2026 | EUR 13,90 |
-| Künftig | nach Mindestlohn-Kommission |
+| Datum | Stunden-Satz | Rechtsgrundlage |
+|---|---|---|
+| 1.1.2024 | EUR 12,41 | Vierte Mindestlohnanpassungsverordnung |
+| 1.1.2025 | EUR 12,82 | Vierte Mindestlohnanpassungsverordnung |
+| 1.1.2026 | EUR 13,90 | Fuenfte Mindestlohnanpassungsverordnung (Bundeskabinett 2025) |
+| 1.1.2027 | EUR 14,60 (vorgesehen) | Fuenfte Mindestlohnanpassungsverordnung |
+| Kuenftig | Empfehlung der Mindestlohn-Kommission, Umsetzung durch Verordnung BMAS | § 11 MiLoG |
+
+Quelle: bundesregierung.de / bmas.de (Pressemitteilung "Mindestlohn steigt zum 1. Januar 2026 auf 13,90 Euro"). Die Minijob-Verdienstgrenze passt sich an: 2026 = 603 EUR (Deutsche Rentenversicherung Baden-Wuerttemberg, Pressemitteilung 22.12.2025).
 
 ### Branchen-Mindestlöhne (Auswahl)
 
@@ -337,7 +340,9 @@ Die Klaeger/in hat ihre Stunden dokumentiert
 
 Aus den nicht-bezahlten Stunden ergibt sich eine
 Forderung von EUR [Betrag] (berechnet nach dem
-Mindestlohn von EUR 12,82 pro Stunde ab 1.1.2025).
+jeweils geltenden gesetzlichen Mindestlohn:
+EUR 12,41 ab 1.1.2024, EUR 12,82 ab 1.1.2025,
+EUR 13,90 ab 1.1.2026).
 ```
 
 ## Output-Template: Mandantenschreiben Arbeitgeber-Compliance

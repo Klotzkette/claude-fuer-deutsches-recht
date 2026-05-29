@@ -15,7 +15,11 @@ description: "Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergle
 
 ## Kernaussage des Urteils
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Leitentscheidung: BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich).
+
+Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die fuer gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+
+Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung (Entscheidungen Online). Vorinstanz: LAG Baden-Wuerttemberg. Status: Bei Volltextverwendung im Schriftsatz vorher Volltext-Verfuegbarkeit pruefen.
 
 Die Beweislast verlagert sich damit vollstaendig auf den Arbeitgeber. Er muss konkret und nachvollziehbar darlegen und beweisen, dass die Entgeltdifferenz ausschliesslich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht.
 

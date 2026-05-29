@@ -51,11 +51,14 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 - Verstöße gegen EU-Wettbewerbsrecht
 - Straftaten gegen Vermögen des Unternehmens (§ 263, § 266 StGB)
 
-### Leitentscheidungen
+### Leitentscheidungen (Stand Mai 2026)
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---|---|---|---|---|
+| ArbG Braunschweig | 6 Ca 303/24 | 24.06.2025 | § 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet des konkreten Schadens muss der Anspruchsteller darlegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. | Hensche Arbeitsrecht; vor Verwendung Volltext-Pruefung in offenen Quellen (z.B. dejure.org, Justiz Niedersachsen) empfohlen |
+| BAG | Leitentscheidung noch nicht ergangen | - | Das HinSchG ist erst seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentscheidung zur Beweislastumkehr (§ 36 HinSchG) ist zum Stand Mai 2026 ueber dejure.org/openjur.de nicht mit offener Quelle verifizierbar | - |
+
+Hinweis: Erstinstanzliche Entscheidungen und Aufsatzliteratur sind nicht bindend; bei Schriftsatzverwendung neuere LAG/BAG-Rechtsprechung pruefen.
 
 ## Beweislastumkehr § 36 HinSchG — Aufbau und Wirkung
 

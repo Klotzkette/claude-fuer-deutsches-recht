@@ -37,13 +37,16 @@ Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag we
 - § 361 Abs. 2 AO — AdV durch das Finanzamt im Einspruchsverfahren
 - § 69 Abs. 3 und 4 FGO — AdV durch das Finanzgericht im Klageverfahren
 - § 361 Abs. 2 Satz 3 AO / § 69 Abs. 2 Satz 3 FGO — Sicherheitsleistung
-- § 237 AO — Aussetzungszinsen (0.15 % pro Monat / 1.8 % pro Jahr) bei Verlust
+- § 237 AO i.V.m. § 238 Abs. 1 S. 1 AO — Aussetzungszinsen 0,5 % pro vollem Monat / 6 % pro Jahr bei Verlust (Achtung: BFH-Vorlage BVerfG 1 BvL 8/24 anhaengig zur Verfassungsmaessigkeit, Zeitraum 01.01.2019 - 15.04.2021)
 - § 155 Satz 1 FGO i.V.m. § 294 ZPO — Glaubhaftmachung durch eidesstattliche Versicherung
 - § 69 Abs. 4 FGO — direkter FG-Antrag nach FA-Ablehnung oder FA-Untätigkeit
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** an das BVerfG (anhaengig BVerfG 1 BvL 8/24): Der Zinssatz fuer Aussetzungszinsen nach § 237 i.V.m. § 238 Abs. 1 S. 1 AO in Hoehe von 0,5 Prozent pro Monat ist nach Auffassung des BFH fuer den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig. Konsequenz fuer die Praxis: AdV-Antraege fuer betroffene Zeitraeume sollten den anhaengigen Vorlagebeschluss mitfuehren; ggf. AdV der Aussetzungszinsen selbst beantragen. Volltext BFH ueber die BFH-Datenbank (Vorlagebeschluss VIII R 9/23, STRE202410144).
+- **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen: Keine ernstlichen verfassungsrechtlichen Zweifel an der Hoehe der Saeumniszuschlaege nach § 240 Abs. 1 S. 1 AO fuer Zeitraeume nach dem 31.12.2018; gestuetzt auf das nachhaltig erhoehte Zinsumfeld seit Februar 2022. Volltext ueber BFH-Datenbank.
+- **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Grunderwerbsteuer-Doppelfestsetzung nach § 1 Abs. 2b und § 1 Abs. 3 Nr. 1 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs: ernstliche Zweifel an der Rechtmaessigkeit bejaht; Vollziehung ausgesetzt. Volltext ueber BFH-Datenbank.
+- **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Massstab "ernstliche Zweifel" — gegeben, wenn bei summarischer Pruefung neben fuer die Rechtmaessigkeit sprechenden Umstaenden gewichtige gegen die Rechtmaessigkeit sprechende Gruende zutage treten, die Unsicherheit oder Unentschiedenheit in der rechtlichen oder tatsaechlichen Beurteilung bewirken. Volltext ueber BFH-Datenbank.
 
 ## Quellenregel
 
@@ -134,7 +137,7 @@ Beweis: Eidesstattliche Versicherung Anlage Ast 1
 ## Folge der AdV
 
 - **Aussetzung:** Vollziehung bis Bekanntgabe Einspruchsentscheidung bzw. bis Rechtskraft.
-- **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage — 0.15 % pro Monat (1.8 % pro Jahr).
+- **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage. **Aktueller gesetzlicher Zinssatz: 0,5 % pro vollem Monat / 6 % pro Jahr** (§ 238 Abs. 1 S. 1 AO; der durch das ZinsAnpG vom 12.07.2022 fuer Nachzahlungs- und Erstattungszinsen § 233a AO abgesenkte Satz von 0,15 % pro Monat = 1,8 % pro Jahr gilt **nicht** fuer Aussetzungszinsen). **Achtung**: BFH-Vorlagebeschluss vom 08.05.2024 (VIII R 9/23) an das BVerfG (anhaengig 1 BvL 8/24) — Zinssatz fuer Aussetzungszinsen 0,5 % pro Monat fuer den Zeitraum 01.01.2019 bis 15.04.2021 verfassungswidrig; betroffene Verfahren ggf. offenhalten und auf die BVerfG-Entscheidung warten.
 - **Aufhebung Vollziehung** bei bereits gezahlter Steuer — Rückerstattung.
 - **Teilaussetzung** möglich wenn nur ein Teil des Bescheids streitig ist.
 
@@ -171,9 +174,11 @@ auszusetzen. Das bedeutet, dass Sie die streitige Steuer
 von [BETRAG] Euro vorerst nicht zahlen müssen.
 
 Wichtig: Falls wir im Einspruch unterliegen, fallen
-Aussetzungszinsen an (1.8 % pro Jahr auf den ausgesetzten
-Betrag, § 237 AO). Wir informieren Sie über den weiteren
-Verfahrensgang.
+Aussetzungszinsen an (gesetzlich 0,5 % pro vollem Monat /
+6 % pro Jahr auf den ausgesetzten Betrag, § 237 i.V.m.
+§ 238 Abs. 1 S. 1 AO; ein BFH-Vorlagebeschluss zur Ver-
+fassungsmaessigkeit ist beim BVerfG anhaengig). Wir
+informieren Sie über den weiteren Verfahrensgang.
 
 [KANZLEI], [DATUM]
 ```

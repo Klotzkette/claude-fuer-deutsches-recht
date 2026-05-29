@@ -78,8 +78,8 @@ Berechnung: vom 3. Werktag des Monats
 
 ### Folgen
 
-- **Schadensersatz** an Mieter (Umzugskosten, höhere Folgemiete, Renovierung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Schadensersatz** an Mieter (Umzugskosten, höhere Folgemiete, Renovierung) auf Grundlage §§ 280, 311 Abs. 2 BGB analog bzw. § 280 Abs. 1 BGB nach BGH-Rspr.
+- Konkrete Aktenzeichen zur Schadensersatzdogmatik des VIII. Zivilsenats vor Ausgabe über dejure.org/openjur.de verifizieren.
 
 ### Beweislast
 
@@ -146,9 +146,15 @@ Berechnung: vom 3. Werktag des Monats
 4. **Vortaeuschung nicht dokumentiert** Mieter -> Schaden bleibt
 5. **Belehrungs-Pflicht fehlt** im Kündigungs-Schreiben
 
-## 9) BGH-Linien
+## 9) BGH-Linien (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Folgende Entscheidungen sind über offene Datenbanken (dejure.org, bundesgerichtshof.de) belegt; vor Zitierung im Schriftsatz Volltextlesen empfohlen:
+
+- **BGH, Urt. v. 24.09.2025 – VIII ZR 289/23** — Eigenbedarf ist auch dann gegeben, wenn der Vermieter die genutzte Wohnung umbauen, mit dem Dachgeschoss zusammenlegen und anschließend verkaufen will, sofern ernsthafte, vernünftige und nachvollziehbare Gründe vorliegen. Kein Rechtsmissbrauch ohne weitere Umstände. Volltext: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_289-23.pdf
+- **BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24** — Härtegrund § 574 BGB bei schwerer Erkrankung/hohem Alter: Tatgericht darf eine unzumutbare Härte nicht allein auf ein unvollständiges und widerspruchliches Sachverständigengutachten stützen, sondern muss notwendige Beweiserhebung selbst durchführen. Verletzung rechtlichen Gehörs (Art. 103 Abs. 1 GG) sonst möglich. Fundstelle dejure.org: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.08.2025&Aktenzeichen=VIII+ZR+262/24
+- **BGH, Beschl. v. 08.04.2025 – VIII ZR 17/25** — Vollstreckungsschutz bei Räumung wegen Eigenbedarfs; zur Voraussetzung eines unwiederbringlichen Nachteils. Quelle: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR__17-25A.pdf
+
+Weitere Entscheidungen vor Zitierung über dejure.org bzw. juris.bundesgerichtshof.de live prüfen.
 
 ## Anschluss
 
@@ -156,7 +162,8 @@ Berechnung: vom 3. Werktag des Monats
 - `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` — bei WEG-Bezug
 - `mietrecht/skills/klageentwurf-amtsgericht` — Klage-Erstellung
 
-<!-- AUDIT 27.05.2026
-Ersatz: BGH VIII ZR 270/15 (15.03.2017, NJW 2017, 1474) — verifiziert auf dejure.org;
-betrifft Begruendungsanforderungen der Eigenbedarfskuendigung (Begründungs-Tiefe), inhaltlich passend.
+<!-- AUDIT 29.05.2026
+Faktualitaets-Update: BGH VIII ZR 289/23 (24.09.2025), VIII ZR 262/24 (26.08.2025) und VIII ZR 17/25 (08.04.2025)
+verifiziert ueber https://www.bundesgerichtshof.de und https://dejure.org. Stand der Aktualisierung: 05/2026.
+NJW-/Beck-Fundstellen sind in offenen Quellen nicht enthalten und daher hier nicht aufgenommen.
 -->

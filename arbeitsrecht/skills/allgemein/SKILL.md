@@ -364,7 +364,14 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 - Stand: 05/2026
 - KSchG, TzBfG, BetrVG, BUrlG, EFZG, MuSchG, BEEG, SGB III, AGG, HinSchG in geltender Fassung
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Mindestlohn: 12.82 EUR ab 01.01.2025; 13.90 EUR ab 01.01.2026
+- BAG, 23.10.2025 - 8 AZR 300/24 (Equal Pay Paarvergleich) - dejure.org-Vernetzung
+- BAG, 03.06.2025 - 9 AZR 104/24 (Mindesturlaub kein Verzicht) - dejure.org-Vernetzung
+- BAG, 25.03.2026 - 5 AZR 108/25 (Freistellungsklausel) - dejure.org-Vernetzung
+- BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Massenentlassung) - dejure.org-Vernetzung; EuGH 30.10.2025 - C-134/24 und C-402/24
+- BAG, 20.02.2025 - 8 AZR 61/24 (DSGVO-Schadensersatz) - dejure.org-Vernetzung
+- BAG, 18.06.2025 - 7 AZR 50/24 (Befristung BR-Mitglieder) - dejure.org-Vernetzung
+- BAG, 13.09.2022 - 1 ABR 22/21 (Arbeitszeiterfassung) - dejure.org-Vernetzung
+- BAG, 22.09.2022 - 8 AZR 4/21 (NachweisG-Schadensersatz) - dejure.org-Vernetzung
+- BSG, 12.07.2006 - B 11a AL 47/05 R (Sperrzeit-Vermeidung) - dejure.org-Vernetzung
+- Mindestlohn: 12,82 EUR ab 01.01.2025; **13,90 EUR ab 01.01.2026**; 14,60 EUR ab 01.01.2027 (vorgesehen, Fuenfte Mindestlohnanpassungsverordnung) - Quelle: bundesregierung.de / bmas.de
+- Minijob-Grenze 2026: 603 EUR / Monat - Quelle: Deutsche Rentenversicherung Baden-Wuerttemberg

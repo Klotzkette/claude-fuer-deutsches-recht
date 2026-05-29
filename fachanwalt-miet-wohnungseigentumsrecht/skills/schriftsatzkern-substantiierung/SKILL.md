@@ -193,9 +193,18 @@ Vor Versand:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
-## Aktuelle Rechtsprechung Miet-/WEG-Schriftsatz
+## Aktuelle Rechtsprechung Miet-/WEG-Schriftsatz (Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Verifizierte Eckpunkte fuer Schriftsatzkern (Volltext jeweils ueber bundesgerichtshof.de bzw. dejure.org pruefen):
+
+- BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht): Begruendungsanforderungen Vermieter
+- BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (§ 574 BGB Haerteklausel): vollstaendige Aufklaerung medizinischer Tatsachen
+- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse zeitlich begrenzt auf Mietbeginn)
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (WEG-Kostenverteilung Aenderung; § 16 Abs. 2 Satz 2 WEG)
+- BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung von Anfechtungsklage)
+- BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 u.a. (Modernisierungsmieterhoehung: Prognose Endenergieeinsparung)
+
+Im Schriftsatz Aktenzeichen nur zitieren, wenn Volltext live verifiziert wurde.
 
 ## Paragrafenkette Schriftsatz Miet-/WEG
 

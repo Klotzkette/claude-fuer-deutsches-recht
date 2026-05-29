@@ -24,11 +24,12 @@ description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen m
 - § 40 HinSchG — Bußgelder bis 50.000 Euro je Verstoß
 - EU-RL 2019/1937 — Whistleblower-Richtlinie (Umsetzung)
 
-## Aktuelle Rechtsprechung
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-Das HinSchG ist erst seit 02.07.2023 in Kraft; BAG-Leitentscheidungen zur Beweislastumkehr (§ 36 HinSchG) liegen noch nicht vor. Für die analogen Regelungen gilt:
+Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentscheidung zur Beweislastumkehr (§ 36 HinSchG) ist zum Stand Mai 2026 ueber dejure.org/openjur.de nicht mit offener Quelle verifizierbar.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- ArbG Braunschweig, Urteil vom 24.06.2025 - 6 Ca 303/24: § 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet eines konkret behaupteten Schadens ist vom Anspruchsteller zu belegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. Quelle: Hensche Arbeitsrecht (vor Schriftsatzverwendung Volltext ueber offene Quelle verifizieren).
+- Bei Verwendung im Schriftsatz: erstinstanzliche Entscheidungen sind nicht bindend, neuere LAG/BAG-Rechtsprechung pruefen.
 
 ## Quellenregel
 

@@ -21,11 +21,9 @@ description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Künd
 
 ### Ordentliche Kündigung
 
-- **§ 573 Abs. 1 BGB** — berechtigtes Interesse des Vermieters erforderlich; abschließende Regelung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **§ 573 Abs. 1 BGB** — berechtigtes Interesse des Vermieters erforderlich; abschließende Regelung (vgl. BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 zur Vermieterperspektive bei Umbau/Verkauf).
 - **§ 573 Abs. 2 Nr. 2 BGB** — Eigenbedarf: Vermieter oder Familienangehörige (§ 573 Abs. 2 Nr. 2 Halbsatz 2: Familienangehörige = namentlich aufzuführen); Nutzungswunsch muss ernsthaft, vernünftig und nachvollziehbar sein.
 - **§ 573 Abs. 2 Nr. 3 BGB** — Wirtschaftliche Verwertung: angemessene wirtschaftliche Verwertung ohne Kündigung nicht möglich; strenge Voraussetzungen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 568 Abs. 1 BGB** — Schriftform zwingend.
 - **§ 568 Abs. 2 BGB** — Belehrung über Widerspruchsrecht §§ 574 ff. BGB.
 
@@ -39,8 +37,7 @@ description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Künd
 - **§ 543 Abs. 1 BGB** — wichtiger Grund, der es dem Kündigenden unzumutbar macht, das Mietverhältnis fortzuführen.
 - **§ 543 Abs. 2 Nr. 3 BGB** — Zahlungsverzug: lit. a bei zwei aufeinanderfolgenden Monaten jeweils mind. eine Monatsmiete; lit. b Verzug über zwei Mietzeiträume mit mehr als einer Monatsmiete.
 - **§ 543 Abs. 3 BGB** — Abmahnungserfordernis vor Kündigung wegen Ruhestörung/Pflichtverletzung.
-- **§ 569 Abs. 3 Nr. 1 BGB** — Schonfristzahlung heilt die fristlose Kündigung: vollständige Begleichung binnen zwei Monaten nach Zustellung der Räumungsklage.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **§ 569 Abs. 3 Nr. 1 BGB** — Schonfristzahlung heilt die fristlose Kündigung: vollständige Begleichung binnen zwei Monaten nach Zustellung der Räumungsklage. Die Schonfristzahlung wirkt nur für die fristlose, nicht die hilfsweise ordentliche Kündigung wegen Zahlungsverzugs (st. Rspr.).
 
 ### Sozialklausel / Widerspruch
 
@@ -48,9 +45,15 @@ description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Künd
 - **§ 574b Abs. 2 BGB** — Widerspruch spätestens zwei Monate vor Beendigung.
 - **§ 574a BGB** — Gerichtliche Bestimmung der Verlängerung bei Widerspruch.
 
-### BGH-Rechtsprechung
+### BGH-Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Belegt über bundesgerichtshof.de bzw. dejure.org:
+
+- **BGH, Urt. v. 24.09.2025 – VIII ZR 289/23** — Eigenbedarf § 573 Abs. 2 Nr. 2 BGB auch bei Umbau- und späterer Verkaufsabsicht der eigengenutzten Wohnung des Vermieters möglich, sofern ernsthafte, vernünftige und nachvollziehbare Gründe vorliegen. Volltext: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_289-23.pdf
+- **BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24** — Anforderungen an die tatrichterliche Härteabwägung nach § 574 BGB bei schwerer Erkrankung und hohem Lebensalter; widerspruchliches Sachverständigengutachten genügt nicht. Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.08.2025&Aktenzeichen=VIII+ZR+262/24
+- **BGH, Urt. v. 28.01.2026 – VIII ZR 228/23** — Kein berechtigtes Interesse an Untervermietung (§ 553 Abs. 1 BGB), wenn Mieter über die Deckung seiner wohnungsbezogenen Aufwendungen hinaus Gewinn aus der Untervermietung zieht (gewinnbringende Untervermietung). Volltext: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_228-23.pdf
+
+Weitere kündigungsrelevante Entscheidungen vor Zitierung live über dejure.org/openjur.de und bundesgerichtshof.de prüfen.
 
 ## Prüfschema
 
@@ -137,8 +140,10 @@ Abs. 2 Nr. 1 BGB zum nächst zulässigen Termin (§ 573c BGB).
 Hinweis Schonfristzahlung § 569 Abs. 3 BGB: Die fristlose
 Kündigung kann durch vollständige Begleichung aller ausstehenden
 Beträge binnen zwei Monaten nach Zustellung einer Räumungsklage
-geheilt werden. Die hilfsweise ordentliche Kündigung wird
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+geheilt werden. Die hilfsweise ordentliche Kündigung wegen
+Zahlungsverzugs wird durch Schonfristzahlung nach gefestigter
+BGH-Rechtsprechung nicht beruehrt; Aktenzeichen vor Verwendung
+im Schriftsatz live ueber dejure.org verifizieren.
 
 [Unterschrift]
 ```
@@ -177,7 +182,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 |---|---|
 | Eigenbedarf vorgetäuscht | Ernsthafte Nutzungsabsicht durch Belege und Zeugen; keine Weitervermietung nach Auszug |
 | Kein Verwandtschaftsgrad nach § 573 Abs. 2 Nr. 2 BGB | Kreis der Angehörigen ist weit: Kinder, Eltern, Geschwister, Enkel, Ehegatte |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Eigenbedarf wegen Umbau- und Verkaufsabsicht missbraeuchlich | BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf auch bei spaeterem Verkauf moeglich, wenn ernsthafte Gruende vorliegen und kein Rechtsmissbrauch hinzutritt |
+| Haerteklausel § 574 BGB wegen Krankheit/Alter | BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: Tatgericht muss medizinische Tatsachen vollstaendig aufklaeren; widersprueche im SV-Gutachten genuegen nicht |
 | Abmahnung nicht erfolgt | Bei Zahlungsverzug § 543 Abs. 2 Nr. 3 BGB keine Abmahnung erforderlich |
 
 ## Streitwert und Kosten
@@ -207,6 +213,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - BGB §§ 535, 543, 549–574b
 - GKG § 41
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Verifizierte BGH-Rechtsprechung (Stand 05/2026):
+  - BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht): https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_289-23.pdf
+  - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (Härtefall § 574 BGB): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.08.2025&Aktenzeichen=VIII+ZR+262/24
+  - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (gewinnbringende Untervermietung): https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_228-23.pdf
+- Weitere Rechtsprechung vor Verwendung im Schriftsatz live über dejure.org / openjur.de / bundesgerichtshof.de prüfen.
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

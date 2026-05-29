@@ -9,6 +9,12 @@ description: "Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Nor
 
 Dieser Skill ist ein Live-Research-Workflow für Equal-Pay-Fälle mit Paarvergleich. Er darf eine konkrete BAG-Entscheidung erst ausgeben, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, freie oder amtliche Quelle und tragende Aussage verifiziert sind.
 
+## Leitentscheidung
+
+- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts fuer gleiche oder gleichwertige Arbeit eine hoehere Verguetung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+- Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; Pressemitteilung BAG (Entscheidungen Online).
+- Status: Volltextveroeffentlichung gemaess Aussagen Drittquellen noch ausstehend - bei Schriftsatz vor Versand pruefen, ob Volltext inzwischen verfuegbar ist.
+
 ## Bedeutung für die Praxis
 
 Arbeitgeber können sich nicht mehr hinter Medianwerten, Durchschnittsbetrachtungen oder dem pauschalen Hinweis auf Verhandlungsgeschick verstecken. Wer eine Entgeltdifferenz rechtfertigen will, muss konkret und nachvollziehbar darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gründen beruht. Art. 157 AEUV gewinnt damit in der deutschen Praxis die Schärfe, die er bislang vermissen ließ.
@@ -28,7 +34,7 @@ Für Arbeitnehmerinnen bedeutet die Entscheidung: Der Auskunftsanspruch nach Par
 
 ## Argumentationslinie im Schriftsatz
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des § 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende fuer die konkrete Differenz darlegen und beweisen.
 
 ## Typische Arbeitgeber-Einwände und Reaktion
 

@@ -40,7 +40,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "24.2.0"
+      "version": "28.0.0"
     },
     {
       "name": "arbeitszeugnis-analyse",
@@ -193,7 +193,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "24.2.0"
+      "version": "28.0.0"
     },
     {
       "name": "fachanwalt-bank-kapitalmarktrecht",
@@ -292,7 +292,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "24.2.0"
+      "version": "28.0.0"
     },
     {
       "name": "fachanwalt-migrationsrecht",
@@ -804,7 +804,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "27.0.0"
+      "version": "28.0.0"
     },
     {
       "name": "strafbefehl-verteidiger",

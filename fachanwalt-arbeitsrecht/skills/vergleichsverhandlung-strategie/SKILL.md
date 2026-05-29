@@ -156,9 +156,12 @@ Klassische Stolperfalle in Individual- und kollektives Arbeitsrecht:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+## Aktuelle Rechtsprechung (Stand Mai 2026) - vergleichsrelevante Querbezuege
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Pauschale Erledigungs- und Abgeltungsklauseln im Vergleich erfassen den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam. Empfehlung: in Vergleichsformulierung den gesetzlichen Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
+- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel): Freistellungsregelungen im Vergleich konkret und mit Anlasstatbestand formulieren, nicht pauschal; sonst Risiko der AGB-rechtlichen Unwirksamkeit (§ 307 BGB). Quelle: dejure.org-Vernetzung.
+- **BSG, 12.07.2006 - B 11a AL 47/05 R** (Sperrzeit-Vermeidung): Aufhebungsvereinbarung/Vergleich zur Abwendung einer drohenden objektiv rechtmaessigen betriebsbedingten Kuendigung begruendet wichtigen Grund i.S.d. § 159 SGB III bei eingehaltener Kuendigungsfrist und marktueblicher Abfindung. Quelle: dejure.org-Vernetzung.
+- Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen pruefen.
 
 ## Paragrafenkette
 

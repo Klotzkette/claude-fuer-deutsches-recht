@@ -92,9 +92,10 @@ Rechtliche Bewertung:
 - Bei einvernehmlicher Verlängerung Schriftform peinlich genau wahren (Originale, Unterschriften vor Beginn).
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0.
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: § 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion zur Begruenstigung von Betriebsratsmitgliedern findet nicht statt. Verweigert der Arbeitgeber dem befristet beschaeftigten Betriebsratsmitglied jedoch wegen des Mandats einen Folgevertrag, hat das Mitglied einen Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (§ 78 BetrVG i.V.m. § 280 BGB). Quelle: dejure.org / luther-lawfirm.com Newsroom; vor Schriftsatzverwendung Volltextpruefung empfohlen.
+- Hinweis: Aeltere Leitentscheidungen zur sachgrundlosen Befristung (z.B. BVerfG, Beschl. vom 06.06.2018 - 1 BvL 7/14 u.a., zur Verfassungsmaessigkeit des Vorbeschaeftigungsverbots; BAG-Folgerechtsprechung) bleiben massgeblich; Aktenzeichen vor Zitat ueber dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette
 

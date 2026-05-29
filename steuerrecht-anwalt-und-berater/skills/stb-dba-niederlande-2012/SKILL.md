@@ -26,6 +26,7 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 - **DBA Deutschland-Niederlande vom 12.04.2012** (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), anwendbar ab 01.01.2016.
 - Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 868); weiteres Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736).
+- **Drittes Aenderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze fuer Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle ueber recht.bund.de pruefen (Pruefhinweis).
 - **OECD-MA 2010/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MLI**: Deutschland und Niederlande sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
@@ -51,6 +52,7 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 - Unternehmensgewinne (Art. 7): Betriebsstaette als Anknuepfung.
 - Loehne (Art. 14): 183-Tage-Regel; Grenzgaengerregelung in DBA-Niederlande **abweichend von Schweiz/Oesterreich; konkret pruefen**.
+- **Home-Office-Bagatelle ab 01.01.2026** (3. Aend.-Prot. vom 14.04.2025): bis 34 Arbeitstage Home-Office pro Kalenderjahr im Wohnsitzstaat ohne Aufteilung des Lohns — d.h. der Taetigkeitsstaat (Arbeitgeberstaat) behaelt das volle Besteuerungsrecht.
 
 ### Passive Einkuenfte
 

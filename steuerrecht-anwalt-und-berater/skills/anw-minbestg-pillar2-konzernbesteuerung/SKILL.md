@@ -37,9 +37,10 @@ Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pill
 
 - **OECD GloBE Model Rules** (Dezember 2021, Updates 2022/2023).
 - **OECD Commentary** (März 2022) zur Anwendung.
-- **OECD Administrative Guidance** (Februar 2023, Juli 2023, Dezember 2023, Juni 2024).
+- **OECD Administrative Guidance** (Februar 2023, Juli 2023, Dezember 2023, Mai 2024, Januar 2025).
 - **EU-Richtlinie (EU) 2022/2523** vom 14.12.2022.
-- BMF-Schreiben vom 18.4.2024 zum MinBestG (Anwendung).
+- **Mindeststeueranpassungsgesetz (MinStAnpG)** vom Dezember 2025 (BGBl. 2025 I Nr. 353, verkuendet 23.12.2025; in Kraft 24.12.2025). Setzt OECD-Verwaltungsleitlinien vom 15.12.2023, 24.05.2024 und 13.01.2025 um (CbCR-Safe-Harbour-Anpassungen, QDMTT-Safe-Harbour-Voraussetzungen). Aktuellen Stand pruefen.
+- BMF-Schreiben vom 18.04.2024 zum MinBestG (Anwendung). Folgeschreiben moeglich.
 - **§ 8b KStG / § 17 KStG / DBA** — Wechselwirkungen mit klassischem Konzernsteuerrecht.
 
 ### Leitentscheidungen und relevante Rechtsprechung
@@ -175,4 +176,4 @@ Top-Up Tax = (15 % - ETR) × (GloBE Income - Substance-Based Income Exclusion)
 
 ## Quellen und Updates
 
-Stand: 05/2026. MinBestG seit 1.1.2024. OECD Administrative Guidance Stand Juni 2024; weitere Updates in 2025/2026 erwartet. Transitional Safe Harbour bis 31.12.2026. BMF-Schreiben 18.4.2024. Bei Verschärfung oder DAC-9-Erweiterungen aktualisieren.
+Stand: 05/2026. MinBestG seit 1.1.2024. OECD Administrative Guidance Stand Januar 2025; weitere Updates in 2025/2026 erwartet. Transitional Safe Harbour bis 31.12.2026. BMF-Schreiben 18.04.2024. **Mindeststeueranpassungsgesetz (MinStAnpG)** verkuendet im BGBl. 2025 I Nr. 353 (23.12.2025; in Kraft 24.12.2025) — passt MinBestG an OECD-Guidance an. Bei Verschärfung oder DAC-9-Erweiterungen aktualisieren.

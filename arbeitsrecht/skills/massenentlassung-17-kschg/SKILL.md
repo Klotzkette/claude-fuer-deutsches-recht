@@ -7,7 +7,14 @@ description: "Workflow-Skill zu massenentlassung 17 kschg. Nutzt Normtext, Nutze
 
 ## Zweck
 
-Bei Massenentlassungen ist § 17 KSchG zwingend zu beachten — sonst sind alle Kündigungen unwirksam. Strenge Vorgaben aus EuGH-Junk-Rechtsprechung.
+Bei Massenentlassungen ist § 17 KSchG zwingend zu beachten — sonst sind alle Kündigungen unwirksam. Strenge Vorgaben aus EuGH- und BAG-Rechtsprechung; Heilung nach Ausspruch der Kuendigung ist ausgeschlossen.
+
+## Aktuelle Leitentscheidungen (Stand Mai 2026)
+
+- **BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22**: Fehler im Anzeigeverfahren (komplett fehlende oder vor Abschluss des Konsultationsverfahrens verfruehte Massenentlassungsanzeige) fuehren zur Unwirksamkeit aller Kuendigungen; eine Heilung nach Kuendigungsausspruch ist ausgeschlossen.
+  - Quelle: dejure.org, Vernetzung BAG 01.04.2026 - 6 AZR 152/22; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren"; Volltext PDF auf bundesarbeitsgericht.de (Wp-Content) verfuegbar.
+- **EuGH, Urteile vom 30.10.2025 - C-134/24 (Tomann) und C-402/24 (Sewel)**: Die Massenentlassungsanzeige nach Art. 4 RL 98/59/EG ist Wirksamkeitsvoraussetzung der Kuendigung; eine fehlende oder verfruehte Anzeige kann nach Kuendigungsausspruch nicht nachgeholt oder geheilt werden. Die 30-Tage-Sperrfrist beginnt erst mit ordnungsgemaesser Anzeige.
+  - Quelle: dejure.org, Vernetzung EuGH 30.10.2025 - C-134/24 und C-402/24.
 
 ## Schritt 1 — Schwellenwert prüfen
 
@@ -93,7 +100,8 @@ Schriftlich an Betriebsrat:
 
 ### Folge bei Mangel der Anzeige
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22, sowie EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen. Eine Heilung nach Kuendigungsausspruch ist ausgeschlossen. Quellen: dejure.org-Vernetzungen; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren".
+- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 fuer sich allein kein zur Unwirksamkeit fuehrender Fehler.
 
 ## Schritt 4 — Reihenfolge der Schritte
 
@@ -224,5 +232,7 @@ Schriftlich an Betriebsrat:
 - SGB IX § 168
 - MuSchG § 17
 - BEEG § 18
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Richtlinie 98/59/EG (Massenentlassungs-Richtlinie), insbesondere Art. 2 (Konsultation) und Art. 4 (Anzeige; 30-Tage-Sperrfrist)
+- BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei Fehlern im Anzeigeverfahren) - dejure.org / bundesarbeitsgericht.de
+- EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24 (keine Heilung fehlender oder verfruehter Anzeige) - dejure.org
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

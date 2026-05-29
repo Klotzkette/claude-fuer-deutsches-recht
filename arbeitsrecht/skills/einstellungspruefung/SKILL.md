@@ -74,6 +74,7 @@ Sachgründe prüfen (Nr. 1–8):
 - Erstnachweis am ersten Arbeitstag schriftlich (keine elektronische Form!)
 - Spätestens am 7. Arbeitstag für Kernbedingungen: Name, Anschrift, Beginn/Ende, Arbeitsort, Tätigkeit, Vergütung, Arbeitszeit, Urlaub, Kündigungsfristen, anwendbare Tarifverträge/Betriebsvereinbarungen
 - Bußgeld § 4 NachwG bei Verletzung: bis 2.000 Euro je Arbeitnehmer
+- **Schadensersatz neben Bussgeld**: BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen die Nachweispflicht kann der Arbeitnehmer Schadensersatz verlangen (z.B. bei Versaeumung tariflicher Ausschlussfristen mangels Kenntnis des Tarifvertrags); Anspruch nur, soweit die Pflichtverletzung kausal fuer den geltend gemachten Schaden ist. Anspruch ist nicht auf die Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung BAG 22.09.2022 - 8 AZR 4/21; Volltext auf bundesarbeitsgericht.de.
 
 ### Schritt 5: AGB-Kontrolle (§§ 305–310 BGB)
 - Freiwilligkeitsvorbehalt bei variablen Vergütungsbestandteilen — kein Widerspruch zu anderen Klauseln

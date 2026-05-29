@@ -36,9 +36,13 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 
 ### Leitentscheidungen
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
+|---|---|---|---|---|
+| BAG, 2. Senat | 2 AZR 302/96 | 27.02.1997 | Subjektive Determinationstheorie: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; aus seiner Sicht objektiv unrichtige oder unvollstaendige Angaben fuehren zur Unwirksamkeit der Anhoerung (§ 102 Abs. 1 S. 3 BetrVG) | dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96 |
+| BAG, 2. Senat | 2 AZR 227/97 | 05.02.1998 | Praezisierung: Mitteilungspflicht umfasst auch dem AG bekannte, fuer den AN guenstige Umstaende, soweit sie objektiv relevant sind | dejure.org-Vernetzung BAG 05.02.1998 - 2 AZR 227/97 |
+| BAG, 2. Senat | 2 AZR 472/01 | 10.10.2002 | Angabe der Sozialdaten bei verhaltensbedingter Kuendigung; Beginn der Stellungnahmefrist bei ergaenzenden Informationen | dejure.org-Vernetzung BAG 10.10.2002 - 2 AZR 472/01 |
+
+Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhoerungs-Substantiierung vor Schriftsatzverwendung in offenen Quellen pruefen.
 
 ## Quellenregel
 

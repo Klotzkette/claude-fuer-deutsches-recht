@@ -48,10 +48,15 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG n
 - Wichtig: BAFA-Antrag muss **vor** Auftragsvergabe gestellt werden.
 - **KfW-Ergänzungskredit 358/359**: zinsgünstige Finanzierung bis 30.000 EUR pro Wohneinheit.
 
-### Leitentscheidungen
+### Leitentscheidungen (verifizierte Eckpunkte, Stand 05/2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Belegt ueber bundesgerichtshof.de und dejure.org:
+
+- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt fuer die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Klaeger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://www.anwalt24.de/urteile/bgh/2025-03-28/v-zr-105_24
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23** — Kostenverteilung bei baulichen Maßnahmen / Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG, einschliesslich Erhaltungsruecklage; PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+
+Schallschutzfragen werden ueberwiegend von Instanzgerichten entschieden; vor Zitierung Instanzgerichts-Urteile auf openjur.de / OLG-Datenbanken pruefen.
 
 ## Prüfschema
 
@@ -208,6 +213,11 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - GEG §§ 71, 71d, 71f, 5, 79 ff. (i. d. F. 2024)
 - WEG §§ 19, 20, 21, 44, 45
 - BGB §§ 555b–555e, 559–559b
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- CO2KostAufG (Aufteilung der CO2-Kosten zwischen Vermieter und Mieter; in Kraft 01.01.2023, Stufenmodell auch fuer Nichtwohngebaeude ab 2025)
+- Verifizierte BGH-Rechtsprechung (Stand 05/2026):
+  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
+  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://www.anwalt24.de/urteile/bgh/2025-03-28/v-zr-105_24
+  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+- Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024
 - TA Lärm (Technische Anleitung zum Schutz gegen Lärm)
