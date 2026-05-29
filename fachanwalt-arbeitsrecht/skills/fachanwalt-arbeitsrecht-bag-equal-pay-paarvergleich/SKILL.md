@@ -79,7 +79,15 @@ Die Richtlinie (EU) 2023/970 vom 10. Mai 2023 (ABl. L 132 vom 17.05.2023, S. 21)
 - Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers bei Verletzung der Transparenzpflichten.
 - Art. 21 — Verjaehrungsfrist mindestens drei Jahre ab Kenntnis.
 
-Praxishinweis: Mandanten auf Geltungszeitpunkt hinweisen — unmittelbare Wirkung der Richtlinie greift nach Ablauf der Umsetzungsfrist, soweit Bestimmungen hinreichend bestimmt sind; richtlinienkonforme Auslegung des EntgTranspG ab Stichtag pruefen. Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
+Praxishinweis Direktwirkung: Eine unmittelbare Anwendbarkeit der Richtlinie kommt nach Ablauf der Umsetzungsfrist nur eingeschraenkt in Betracht. EU-Richtlinien koennen nach staendiger EuGH-Rechtsprechung (grundlegend Urt. v. 04.12.1974 – 41/74, Van Duyn; Urt. v. 19.01.1982 – 8/81, Becker) gegenueber dem Mitgliedstaat einschliesslich aller staatlichen Stellen (vertikale Direktwirkung) geltend gemacht werden, soweit die Bestimmungen hinreichend bestimmt und unbedingt sind. Eine horizontale Direktwirkung zwischen Privaten ist hingegen ausgeschlossen (EuGH, Urt. v. 26.02.1986 – 152/84, Marshall; bestaetigt etwa in Urt. v. 19.04.2016 – C-441/14, Dansk Industri).
+
+Folgerungen fuer die Beratung:
+
+- Bei Mandanten gegen oeffentliche Arbeitgeber (Bund, Laender, Kommunen, Anstalten und Koerperschaften des oeffentlichen Rechts) kann ab dem 08.06.2026 unmittelbar auf die hinreichend bestimmten Pflichten der Richtlinie 2023/970 (insb. Art. 5, Art. 7) gestuetzt werden, falls bis dahin keine fristgemaesse Umsetzung erfolgt ist.
+- Bei privaten Arbeitgebern ist Anspruchsgrundlage weiterhin das EntgTranspG bzw. § 611a BGB i.V.m. Art. 157 AEUV; die Richtlinie wirkt nur mittelbar ueber die Pflicht zur richtlinienkonformen Auslegung (EuGH, Urt. v. 13.11.1990 – C-106/89, Marleasing). Das Argumentationspotenzial liegt darin, unbestimmte Rechtsbegriffe des EntgTranspG (z. B. "gleichwertige Arbeit", Auskunftsumfang) im Lichte von Art. 4 und Art. 7 der Richtlinie aufzuladen.
+- Etwaige Staatshaftungsansprueche bei Nichtumsetzung gegen die Bundesrepublik bleiben unberuehrt (EuGH, Urt. v. 19.11.1991 – C-6/90 und C-9/90, Francovich).
+
+Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
 
 ## Paragrafenkette
 
