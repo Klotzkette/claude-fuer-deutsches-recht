@@ -2,10 +2,6 @@
 
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis**, an Gesetzestexten, amtlichen Materialien und frei überprüfbarer Rechtsprechung. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jede Nutzerin und jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 
-## Ganz oben: Corporate Legal English
-
-Besonders ausgebaut ist [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english): ein didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English, das Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe und englische Vertragssprache unter deutschem Recht erklärt und in Big-Law-Workflows für Anfänger übersetzt. Dazu gehört die Testakte [`gesellschaftsrecht-legal-english-frankfurt-startup`](./testakten/gesellschaftsrecht-legal-english-frankfurt-startup/) mit Markdown, Excel, PDF-Scan, PDF-Cheatsheet, JPEG-Foto, Email-Screenshot und WhatsApp-Screenshot.
-
 ## Über dieses Repository
 
 Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen "claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
@@ -32,7 +28,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | **Skills (SKILL.md)** | 2553 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 63 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Letzter Release** | `v41.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Letzter Release** | `v42.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).

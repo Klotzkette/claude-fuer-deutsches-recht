@@ -1,3 +1,17 @@
+# v42.0.0 — README-Spotlight komplett entfernt
+
+- "Ganz oben: Corporate Legal English"-Spotlight-Block aus README entfernt.
+- README startet jetzt direkt mit "Über dieses Repository" nach der Titelzeile und dem Lead-Absatz.
+- Keine Plugin-Aenderungen.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v41.0.0 — README-Spotlight: Corporate Legal English statt Meinungspruefer (Tag-Bump nach v40)
 
 Reiner Tag-Bump: Der v40.0.0-Tag wurde bereits zuvor auf den Sanity-Release-Commit `51ade7ae` gesetzt. Da der README-Schnitt (Meinungspruefer-Hero raus, Corporate Legal English oben) danach folgte und Tags nicht ueberschrieben werden, wird der aktuelle `main` als `v41.0.0` markiert.
