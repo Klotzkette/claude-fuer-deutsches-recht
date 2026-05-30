@@ -1,3 +1,26 @@
+# v50.4.0 — SKILLS.md aufgeteilt + Mega-ZIP-Download prominent oben
+
+User-Meldung: Die SKILLS.md liess sich auf github.com kaum oeffnen, weil sie 2 MB gross war und 2617 Tabellenzeilen enthielt -- GitHubs Markdown-Renderer hat die Seite endlos neu geladen oder gar nicht angezeigt. GitHubs offizielles Renderer-Limit liegt bei ca. 512 KB.
+
+## Aenderungen
+
+- **SKILLS.md aufgeteilt:** Die Hauptseite ist jetzt nur noch ca. 27 KB gross und enthaelt lediglich den Hinweisblock, die Download-Buttons und die Plugin-Schnellzugriffstabelle. Pro Plugin gibt es eine eigene Detailseite unter `skills-index/<plugin>.md` mit der vollstaendigen Skill-Tabelle und allen Download-Links. Auch die groesste Detailseite (`steuerrecht-anwalt-und-berater.md`, 161 KB) bleibt deutlich unter GitHubs Renderer-Limit.
+- **Mega-ZIP-Download prominent oben:** Direkt unter dem Titel von SKILLS.md gibt es jetzt einen Block `## ⬇️ Alle Skills auf einmal herunterladen` mit zwei Optionen:
+  - `alle-plugins-megazip.zip` (~11 MB): nur die {n} Plugin-Skills
+  - `alles-komplettpaket.zip` (~80 MB): Plugins + Testakten + Uebersichten
+  Beide ZIPs existieren bereits als Release-Assets (gebaut von `.github/workflows/release-plugin-zips.yml`).
+- **Index-Seite:** `skills-index/README.md` listet alle 107 Detailseiten als Sitemap.
+- **Generator-Skript erweitert:** `scripts/generate-skills-md.py` schreibt jetzt SKILLS.md + 107 Detailseiten + Index in einem Lauf. Loescht veraltete Detailseiten beim Lauf (idempotent).
+
+## Versionen
+
+- Marketplace top-level 50.3.0 -> 50.4.0
+- Plugin-Versionen unveraendert.
+
+Validatoren gruen.
+
+---
+
 # v50.3.0 — SKILLS.md vollautomatisch generieren mit Download-Links
 
 User-Wunsch: Die Skill-Gesamtuebersicht (`SKILLS.md`) soll oben prominent erklaeren, dass die Skills nichts weiter als grosse Markdown-Prompts sind und in jedem Chatbot per Copy-Paste funktionieren. Pro Skill ein Direkt-Download (Markdown + Raw), pro Plugin ein ZIP-Download-Button. Garantie: jeder neue Skill landet automatisch in der Uebersicht.

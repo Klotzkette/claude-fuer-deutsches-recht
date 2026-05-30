@@ -27,6 +27,7 @@ GH_REPO = "claude-fuer-deutsches-recht"
 GH_BLOB = f"https://github.com/{GH_OWNER}/{GH_REPO}/blob/main"
 GH_RAW = f"https://raw.githubusercontent.com/{GH_OWNER}/{GH_REPO}/main"
 GH_RELEASE = f"https://github.com/{GH_OWNER}/{GH_REPO}/releases/latest/download"
+SKILLS_INDEX_DIR = REPO_ROOT / "skills-index"
 
 
 def read_description(skill_md: Path) -> str:
@@ -71,11 +72,24 @@ def collect_plugins() -> list[tuple[str, list[str]]]:
 
 
 def header(total_skills: int, total_plugins: int, version: str) -> str:
+    megazip = f"{GH_RELEASE}/alle-plugins-megazip.zip"
+    komplett = f"{GH_RELEASE}/alles-komplettpaket.zip"
     return f"""# Skill-Gesamtuebersicht
 
 Automatisch generierte Gesamtuebersicht aller **{total_skills} Skills** in **{total_plugins} Plugins**.
 
 Stand: `{version}`.
+
+## ⬇️ Alle Skills auf einmal herunterladen
+
+| Paket | Inhalt | Download |
+| --- | --- | --- |
+| **Alle Skills (kompakt)** | Alle {total_plugins} Plugin-ZIPs in einem Archiv (ca. 11 MB) | [`alle-plugins-megazip.zip`]({megazip}) |
+| **Komplettpaket (alles)** | Plugins + Testakten + Uebersichten (ca. 80 MB) | [`alles-komplettpaket.zip`]({komplett}) |
+
+Das erste Paket reicht, wenn man nur die Prompts (Skills) braucht. Das zweite enthaelt zusaetzlich die 63 Testakten und alle Repo-Uebersichten.
+
+Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin ein eigener `[Download]`-Link.
 
 ## Worum es hier geht: alles nur grosse Prompts
 
@@ -83,49 +97,64 @@ Diese Skills sind am Ende **nichts weiter als grosse, sehr sorgfaeltig formulier
 
 So benutzt man einen Skill ausserhalb von Claude Code:
 
-1. In der Tabelle unten den gewuenschten Skill suchen.
-2. Auf `[Markdown]` klicken — die Datei `SKILL.md` oeffnet sich im Browser.
+1. Unten in der Plugin-Tabelle auf das gewuenschte Plugin klicken — die Detailseite mit allen Skills oeffnet sich.
+2. Auf der Detailseite den gewuenschten Skill suchen und `[Markdown]` klicken — die Datei `SKILL.md` oeffnet sich im Browser.
 3. **Entweder** den kompletten Text mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 4. **Oder** auf `[Raw .md]` klicken und die Datei direkt herunterladen, dann als Anhang in den Chatbot ziehen oder den Inhalt einfuegen.
 5. Danach die eigene Frage / das eigene Dokument hinterherschicken — der Chatbot uebernimmt die Rolle aus dem Skill.
 
 So bekommt man die komplette Sammlung als ZIP:
 
-- In der Plugin-Liste oben rechts neben jedem Plugin-Namen auf `[ZIP]` klicken. Das laedt eine ZIP-Datei mit **allen** Skills dieses Plugins (mitsamt Hilfsdateien, Pruefrastern und Vorlagen).
+- In der Plugin-Tabelle unten in der Spalte **ZIP** auf den Download-Link klicken. Das laedt eine ZIP-Datei mit **allen** Skills dieses Plugins (mitsamt Hilfsdateien, Pruefrastern und Vorlagen).
 - Wer Claude Code nutzt, kann das ZIP direkt als Plugin installieren. Alle anderen koennen die enthaltenen `SKILL.md`-Dateien einzeln in jeden Chatbot kopieren.
 
-**Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch in dieser Liste. Es kann hier also nichts fehlen.
+**Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
+
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 2617 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 """
 
 
 def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     lines = [
-        "## Plugins (Schnellzugriff)",
+        "## Alle Plugins",
         "",
-        "Pro Plugin: Sprung in die Detailtabelle und ZIP-Download mit allen Skills.",
+        "Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **ZIP** laedt die komplette Plugin-Sammlung direkt.",
         "",
-        "| Plugin | Skills | ZIP-Download |",
-        "| --- | --- | --- |",
+        "| Plugin | Skills | Detailseite | ZIP |",
+        "| --- | ---: | --- | --- |",
     ]
     for name, skills in plugins:
-        anchor = name.lower()
         zip_url = f"{GH_RELEASE}/{name}.zip"
+        detail = f"skills-index/{name}.md"
         lines.append(
-            f"| [{name}](#{anchor}) | {len(skills)} | [`{name}.zip`]({zip_url}) |"
+            f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | [Download]({zip_url}) |"
         )
     lines.append("")
     return "\n".join(lines)
 
 
-def plugin_section(name: str, skills: list[str]) -> str:
+def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     skills_dir = REPO_ROOT / name / "skills"
     plugin_zip = f"{GH_RELEASE}/{name}.zip"
     plugin_readme = f"{GH_BLOB}/{name}/README.md"
     lines = [
-        f"## {name}",
+        f"# {name}",
         "",
-        f"**{len(skills)} Skills** · [Plugin-README]({plugin_readme}) · [Alle Skills als ZIP herunterladen]({plugin_zip})",
+        f"**{len(skills)} Skills** · Stand `{version}`",
+        "",
+        f"- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)",
+        f"- [Plugin-README]({plugin_readme})",
+        f"- [Alle Skills als ZIP herunterladen]({plugin_zip}) (komplettes Plugin)",
+        "",
+        "## So benutzt man einen Skill",
+        "",
+        "Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).",
+        "",
+        "- **`[Markdown]`** oeffnet die `SKILL.md` im Browser. Inhalt mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen.",
+        "- **`[Raw .md]`** laedt die Datei direkt herunter. Als Anhang in den Chatbot ziehen oder Inhalt einfuegen.",
+        "",
+        "## Skills in diesem Plugin",
         "",
         "| Skill | Beschreibung | Download |",
         "| --- | --- | --- |",
@@ -143,6 +172,26 @@ def plugin_section(name: str, skills: list[str]) -> str:
     return "\n".join(lines)
 
 
+def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> str:
+    """Schreibt skills-index/README.md mit Liste aller Detailseiten."""
+    lines = [
+        "# Skills-Index: Detailseiten pro Plugin",
+        "",
+        f"Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `{version}`.",
+        "",
+        "Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.",
+        "",
+        "- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)",
+        "",
+        "## Alle Detailseiten",
+        "",
+    ]
+    for name, skills in plugins:
+        lines.append(f"- [{name}](./{name}.md) ({len(skills)} Skills)")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def main() -> int:
     plugins = collect_plugins()
     total_skills = sum(len(skills) for _, skills in plugins)
@@ -151,20 +200,33 @@ def main() -> int:
         "v" + json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text())["version"]
     )
 
-    parts = [
-        header(total_skills, total_plugins, version),
-        plugin_overview_table(plugins),
-    ]
-    for name, skills in plugins:
-        parts.append(plugin_section(name, skills))
+    # 1) Schlanke Hauptseite SKILLS.md
+    main_text = (
+        header(total_skills, total_plugins, version)
+        + plugin_overview_table(plugins)
+    )
+    main_text = main_text.rstrip() + "\n"
+    out_main = REPO_ROOT / "SKILLS.md"
+    out_main.write_text(main_text, encoding="utf-8")
 
-    text = "\n".join(parts).rstrip() + "\n"
-    out = REPO_ROOT / "SKILLS.md"
-    old = out.read_text(encoding="utf-8") if out.is_file() else ""
-    out.write_text(text, encoding="utf-8")
+    # 2) Detailseiten pro Plugin
+    SKILLS_INDEX_DIR.mkdir(exist_ok=True)
+    # Alte Detailseiten loeschen, falls Plugins entfernt wurden
+    current_names = {name for name, _ in plugins} | {"README"}
+    for old in SKILLS_INDEX_DIR.glob("*.md"):
+        if old.stem not in current_names:
+            old.unlink()
+    for name, skills in plugins:
+        page = plugin_detail_page(name, skills, version)
+        (SKILLS_INDEX_DIR / f"{name}.md").write_text(page.rstrip() + "\n", encoding="utf-8")
+    # Index der Detailseiten
+    idx = write_detail_index(plugins, version)
+    (SKILLS_INDEX_DIR / "README.md").write_text(idx.rstrip() + "\n", encoding="utf-8")
+
     print(
-        f"SKILLS.md geschrieben: {total_skills} Skills in {total_plugins} Plugins, "
-        f"Stand {version}, {len(text)} Zeichen ({'identisch' if text == old else 'GEAENDERT'})"
+        f"SKILLS.md: {len(main_text)} Zeichen ({total_plugins} Plugins). "
+        f"skills-index/: {total_plugins} Detailseiten + Index. "
+        f"Insgesamt {total_skills} Skills, Stand {version}."
     )
     return 0
 
