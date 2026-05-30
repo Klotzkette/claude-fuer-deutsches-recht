@@ -547,6 +547,15 @@
       "version": "50.0.0"
     },
     {
+      "name": "juristisches-drafting",
+      "source": "./juristisches-drafting",
+      "description": "Juristisches Drafting generisch in Word und Cowork: Vertragsklauseln Schriftsätze Anwaltsschreiben Definitionen Boilerplate Bedingungen Verweise Haftungsbegrenzung Vertragsstrafe NDA Force Majeure Lizenzen AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Querverweise Redlines Revisions-Workflow.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "50.0.0"
+    },
+    {
       "name": "jveg-kostenpruefer",
       "source": "./jveg-kostenpruefer",
       "description": "Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.",

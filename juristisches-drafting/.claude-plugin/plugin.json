@@ -1,0 +1,36 @@
+{
+  "name": "juristisches-drafting",
+  "version": "50.0.0",
+  "description": "Juristisches Drafting generisch in Word und Cowork: Vertragsklauseln Schriftsätze Anwaltsschreiben Definitionen Boilerplate Bedingungen Verweise Haftungsbegrenzung Vertragsstrafe NDA Force Majeure Lizenzen AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Querverweise Redlines Revisions-Workflow.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "juristisches-drafting",
+    "vertragsgestaltung",
+    "klauseltechnik",
+    "schriftsatz-drafting",
+    "anwaltsschreiben",
+    "definitionen-klauseln",
+    "boilerplate",
+    "haftungsbegrenzung",
+    "vertragsstrafe",
+    "nda",
+    "force-majeure",
+    "lizenzklauseln",
+    "agb-recht",
+    "transparenzgebot",
+    "klage-253-zpo",
+    "klageerwiderung",
+    "gutachten",
+    "memo",
+    "word-formatvorlagen",
+    "querverweise",
+    "track-changes",
+    "redlines",
+    "cowork-collaboration",
+    "revisions-prozess"
+  ]
+}
