@@ -116,6 +116,60 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 - Privatpensionen aus oesterreichischer Pensionsversicherung: regelmaessig Wohnsitzstaat — Verifizierung im DBA-Text.
 - Grenzgaenger Lohnsteuer-Abzug: deutscher Arbeitgeber muss Lohnsteuer abfuehren, oesterreichischer Wohnsitz Anrechnung im FA-Bescheid.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren oesterreichische Quellensteuer (KESt)
+
+- **Zustaendigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt fuer Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart fuer Auslaenderzustaendigkeit). Aktuelle Zustaendigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at pruefen.
+- **Antragsformulare**: oesterreichische Formulare **ZS-RD1** (Rueckerstattung KESt) und **ZS-QU1** (Quellensteuerentlastung an der Quelle) — Bezeichnungen und Formulare vom Anwender mit aktuellem Stand auf bmf.gv.at zu verifizieren.
+- **Frist**: nach oesterreichischer BAO grundsaetzlich **fuenf Jahre** ab Veranlagungsjahr-Ablauf — laenger als in der Schweiz, aber nicht ueber Jahre liegen lassen.
+- **Bearbeitungsdauer**: 6-18 Monate Standard, bei Streubesitz haeufig schneller als bei Schachtel mit Substanzpruefung.
+- **Online-Portal**: **FinanzOnline** (finanzonline.bmf.gv.at) zentral fuer oesterreichische Steuerangelegenheiten — Zugang per ID-Austria oder Vollmacht oesterreichischer Berater.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei Schachteldividenden ueber 5 Mio. EUR; bei Pensionsfaellen mit Sozialversicherungsanrechnung; bei Holding-Substanzpruefung. Wiener Kanzleien mit DE-Mandanten-Erfahrung; KMU-Berater in Salzburg/Innsbruck fuer Pendlerfaelle.
+
+### Sprache
+
+- DBA-Text auf **Deutsch** verbindlich (beide Vertragsstaaten deutschsprachig) — keine Uebersetzungsrisiken wie bei Frankreich oder Italien.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Grenzgaengerstatus halten (Home-Office max. 45 Tage ausserhalb Grenzzone) vs. Voll-Pendler | Wohnsitzstaat-Besteuerung, geringere Verwaltungsdichte | Lohnsteuerabzug Arbeitgeberstaat + Anrechnung | bei Pendelfrequenz und stabiler Grenzzone Status guenstiger |
+| Schachteldividende ueber DBA Art. 10 (5 Prozent) vs. EU-MTRL (§ 43b EStG, 0 Prozent) | 5 Prozent oesterreichische Quellensteuer, Erstattung via Wien | 0 Prozent bei Schachtelbeteiligung mind. 10 Prozent und 12 Monate Haltedauer | § 43b EStG immer vorzugswuerdig — antragsweise an oesterreichische Quelle |
+| Pensionsbezug ab DE-Wohnsitz aus oesterreichischer Pensionsversicherung vs. DRV | DBA Art. 18 Wohnsitzstaat-Prinzip | bei Beamtenpension Kassenstaat | Doppelpruefung Versicherungstraeger und DBA-Zuordnung |
+
+## Edge Cases — was Pruefer triggert
+
+- **Grenzzone-Berechnung 30 km Luftlinie**: Wohnsitz oder Arbeitsort am Rand kann strittig sein — GIS-Tool (BMF stellt Online-Rechner zur Verfuegung) frueh nutzen.
+- **Home-Office vor 01.01.2024 vs. ab 01.01.2024**: aelteres Recht hatte Toleranzregelung mit max. 45 Tagen, jetzt sind Home-Office-Tage in der Grenzzone des Wohnsitzstaats **nicht mehr schaedlich**. Bei Veranlagungszeitraum-Wechsel sorgfaeltig pruefen.
+- **Salzburg-Pendler nach Freilassing**: klassischer Grenzgaenger-Fall — Wohnsitz Salzburg/AT, Arbeit Freilassing/DE — Grenzzone in beide Richtungen pruefen.
+- **Lehrerpensionen**: oeffentlicher Dienst Kassenstaat (oft AT), aber bei deutschem Wohnsitz DE-Steueranspruch via Anrechnung — Verstaendigungsverfahren bei Doppelbesteuerung pruefen.
+- **Doppelte Privatpension**: ASVG (gesetzlich) und Firmenpension koennen unterschiedlich klassifiziert sein.
+
+## Berechnungsbeispiel — Grenzgaenger AT-Wohnsitz, DE-Arbeitgeber
+
+> Mandant Wohnsitz Salzburg, Arbeit in Freilassing bei DE-GmbH. Bruttolohn 60.000 EUR p.a. Home-Office 30 Tage in Salzburg (in Grenzzone), 40 Tage Dienstreisen in DE ausserhalb Grenzzone.
+>
+> Schritt 1: 40 Dienstreisetage ausserhalb der Grenzzone unter 45-Tage-Schwelle und unter 20 Prozent von ca. 220 Arbeitstagen (= 44 Tage). Grenzgaengerstatus erfuellt.
+>
+> Schritt 2: Besteuerung im Wohnsitzstaat AT. Kein deutscher Lohnsteuerabzug bei Vorlage Grenzgaengerbescheinigung.
+>
+> Schritt 3: AT-EStG auf 60.000 EUR; in DE keine Steuer (FA Anpassung beim Arbeitgeber).
+
+## Berechnungsbeispiel — Schachteldividende AT-GmbH an DE-Holding
+
+> AT-GmbH (Wien) schuettet 500.000 EUR an deutsche Mutter (Beteiligung 30 Prozent, Haltedauer 3 Jahre).
+>
+> Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent Quellensteuer in AT — vorausgesetzt, deutsche Holding stellt vor Ausschuettung **Freistellungsbescheinigung** beim oesterreichischen FA (ZS-QU1).
+>
+> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Ueberhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent fuer Schachtel = 22,5 Prozent) ueber Antrag ZS-RD1 an oesterreichisches FA fuer Grossbetriebe.
+>
+> Schritt 3: In DE: § 8b KStG 95 Prozent KSt-frei, 5 Prozent fiktive nichtabziehbare BA. Verbleibende 5 Prozent oesterreichische QSt (sofern nicht 0 nach MTRL) auf deutsche KSt teilweise anrechenbar.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.

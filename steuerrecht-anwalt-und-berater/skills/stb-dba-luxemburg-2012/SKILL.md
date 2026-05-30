@@ -116,6 +116,64 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 - Grenzgaenger Luxemburg (Saarland/Rheinland-Pfalz): keine "klassische" Grenzgaengerregelung; 183-Tage-Regelung gilt; **Konsultationsvereinbarung Home-Office** beachten.
 - Bei SICAV / RAIF: DBA-Berechtigung pruefen — andere Faelle Anlage zum DBA oder spezifische Folgevereinbarung.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren luxemburgische Quellensteuer
+
+- **Zustaendigkeit**: luxemburgische Erstattung durch **Administration des Contributions Directes (ACD)**, Bureau d'Imposition Societes/Non-Residents. Aktuelle Zustaendigkeit auf **impotsdirects.public.lu** pruefen.
+- **Antragsformulare**: luxemburgische Formulare zur Quellensteuererstattung bei Holding-Beteiligungen; bei Ausschuettung an EU-Mutter typischerweise vorab Freistellungs-Antrag — Bezeichnungen vom Anwender mit aktuellem Stand auf impotsdirects.public.lu zu verifizieren.
+- **Frist**: nach luxemburgischem Steuerrecht regelmaessig **fuenf Jahre** ab Steuerentrichtung.
+- **Bearbeitungsdauer ACD**: 6-18 Monate; Substanzpruefung bei Holding-Strukturen verlaengert.
+- **Online-Portal**: **MyGuichet.lu** zentral fuer luxemburgische Behoerdenkommunikation.
+- **Sprache**: FR/DE/EN; offizielle Bescheide oft FR — bei groesseren Erstattungen luxemburgischen Berater einbinden.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei jeder SOPARFI-Strukturierung, bei Fonds-Konstellation (SICAV/RAIF/FCP), bei substanziellen Holding-Aufbauten. Luxemburger Big Four und mittelstaendische Boutique-Kanzleien.
+- **Trigger**: Substanz-Aufbau, MLI-PPT-Analyse, hybride Strukturen mit deutscher Mutter.
+
+### Online-Portale
+
+- **impotsdirects.public.lu**: ACD-Verfahren.
+- **bzst.de**: BZSt fuer Erstattung an deutscher Quelle.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| SOPARFI mit Substanz halten vs. aufgeben | Holding-Struktur mit Kosten 50-150 TEUR p.a. (Personal, Buero) | Aufloesung und Direkthaltung aus DE | bei Beteiligungsvolumen ueber 5 Mio. EUR und Verlustverwertung Substanz lohnend; bei kleineren Strukturen Aufloesung |
+| Schachteldividende ueber DBA Art. 10 (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent Quellensteuer in LU, anrechenbar in DE | 0 Prozent, vorab Freistellung an Quelle | § 43b EStG immer vorzugswuerdig |
+| Home-Office Bagatelle 34 Tage einhalten vs. Aufteilung | komplette Besteuerung im Arbeitgeberstaat LU | Aufteilung Lohn auf LU/DE nach Arbeitstagen | bei stabil unter 34 Tagen Bagatelle vorteilhaft (volle LU-Besteuerung niedriger als deutsche progressive Anteilstabelle) |
+| Fonds-Vehikel SICAV vs. RAIF | SICAV teilweise DBA-berechtigt, regulierter Fonds (CSSF) | RAIF nicht reguliert, in der Regel **nicht** DBA-berechtigt | bei DBA-Schutz-Bedarf SICAV; bei pure Investorenvehikel RAIF |
+
+## Edge Cases — was Pruefer triggert
+
+- **Briefkasten-SOPARFI nach AbzStEntModG 2021**: § 50d Abs. 3 EStG strenger formuliert — selbst luxemburgische Beratungsfirma "kann" nicht mehr als Substanz gelten. Indizientabelle: eigenes Personal, eigene Geschaeftsraeume, eigene Entscheidungstraeger.
+- **Hybrid-Mismatch nach § 4k EStG**: luxemburgisches Funding-Vehikel (SARL) mit Hybrid-Element — Doppelabzug verboten.
+- **PPT (Principal Purpose Test)** nach MLI: Hauptzweck der Struktur darf nicht steuerlich motiviert sein — Geschaeftszweck-Dokumentation in Holdingbuechern.
+- **RAIF-Ausschuettung an deutschen Investor**: RAIF in der Regel nicht abkommensberechtigt — keine DBA-Reduktion der Quellensteuer.
+- **Bagatelle 19 vs. 34 Tage**: vor 01.01.2024 galt 19-Tage-Schwelle (alte Konsultationsvereinbarung); ab 2024 34 Tage. Veranlagungszeitraum-Wechsel beachten.
+
+## Berechnungsbeispiel — SOPARFI-Dividende an DE-Mutter
+
+> SOPARFI (Luxemburg, voll bestueckt mit Personal) schuettet 2.000.000 EUR Dividende an deutsche Mutter (Beteiligung 100 Prozent, Haltedauer 6 Jahre).
+>
+> Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent luxemburgische Quellensteuer — Freistellung an Quelle vor Ausschuettung beantragen.
+>
+> Schritt 2: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA = 100.000 EUR; deutsche KSt darauf ca. 15 Prozent + GewSt ca. 14 Prozent = ca. 29 Prozent von 100.000 EUR = 29.000 EUR effektive Belastung.
+>
+> Schritt 3: § 50d Abs. 3 EStG-Substanztest: bei voller Bestueckung (Personal, Buero, Entscheidungstraeger) kein Treaty-Override; bei Briefkasten Versagung der Quellensteuer-Reduktion und Schachtel-Privilegierung gefaehrdet.
+
+## Berechnungsbeispiel — Grenzgaenger Luxemburg (Saar-Pendler)
+
+> Mandant Wohnsitz Trier, Arbeit in Luxemburg-Stadt bei LU-AG. Bruttolohn 80.000 EUR p.a. Home-Office in Trier: 25 Tage (unter 34-Tage-Bagatelle).
+>
+> Schritt 1: Home-Office unter 34 Tagen — Bagatellgrenze eingehalten. Volle Besteuerung im Arbeitgeberstaat LU.
+>
+> Schritt 2: LU-Lohnsteuerabzug auf 80.000 EUR; in DE kein deutscher Lohnsteuerabzug, aber Welteinkommen-Erklaerung (Anlage N-AUS, Anlage AUS).
+>
+> Schritt 3: Methodenartikel Art. 22: bei aktivem Einkommen und Aktivitaetsklausel **Freistellung mit Progressionsvorbehalt** in DE — deutsche Steuerlast nur auf etwaige weitere DE-Einkuenfte, aber mit hoeherem Progressionssatz wegen LU-Lohn.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-dividenden-quellensteuer-art-10`, `stb-dba-lizenzgebuehren-art-12-bzst`, `stb-dba-home-office-pandemie-folgeregelung`.

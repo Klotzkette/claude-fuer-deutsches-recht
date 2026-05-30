@@ -78,6 +78,59 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - Bei Holding: Substanz § 50d Abs. 3 EStG.
 - DBA-Tschechien und DBA-Slowakei materiell identisch (Nachfolge-DBA).
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren SK → DE-Mandant**: Antrag bei Finančné riaditeľstvo SR (Finanzdirektion); Online-Portal "Portál FS" (vom Anwender mit aktuellem Stand des slowakischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der slowakischen Finanzverwaltung als Anlage.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Slowakisch; das urspruengliche DBA war Deutsch und Tschechoslowakisch — bei Auslegung gilt die slowakische Nachfolgeversion. Konsolidierter Text in beiden Sprachen beim BMF und beim slowakischen Finanzministerium.
+- **Lokaler Berater**: Bei slowakischer s.r.o. mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines slowakischen "daňový poradca" (Steuerberater); SK kennt strenge Verrechnungspreis-Dokumentation und elektronische Rechnungsstellung (e-Invoicing ab 2025 ausgebaut, vom Anwender zu verifizieren).
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten fuer Standard-Steuerdokumente; bei Notarurkunden zwischen DE und SK ueblicherweise Apostille.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **SK-KSt-Staffel 2025**: 10 Prozent (bis 100.000 EUR Gewinn), 21 Prozent (100.001 bis 5.000.000 EUR), 24 Prozent (ueber 5.000.000 EUR). Untere Staffel kann AStG-Niedrigsteuerschwelle 15 Prozent (§ 8 Abs. 5 AStG) ausloesen — CFC-Hinzurechnung pruefen.
+- **Sozialversicherungs-Doppelbesteuerung**: Slowakische Sozialversicherungspflicht bei in SK ansaessigem Arbeitnehmer; bei Entsendung A1-Bescheinigung nach EU-VO 883/2004 zwingend. DBA regelt Sozialversicherung NICHT.
+- **Automotive-Lieferketten**: Bei Werkvertraegen VW Bratislava, Kia Žilina, Stellantis Trnava und Jaguar-Land-Rover Nitra: Bau- oder Montage-Betriebsstaette pruefen — 12 Monate Schwelle.
+- **§ 50d Abs. 3 EStG**: SK-Holdings werden bei deutscher Quellensteuererstattung sehr genau geprueft — Substanz (Personal, Buero, Geschaeftsleitung) muss belegt sein, sonst keine Erstattung.
+- **Slowakei MLI ab 01.01.2025**: PPT-Klausel (Principal Purpose Test) auf das DBA-CSSR/Slowakei angewendet — Treaty-Shopping nicht moeglich.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| SK-KSt 10 Prozent als Vorteil vs. CFC-Risiko | SK-Tochter mit Gewinn unter 100.000 EUR — 10 Prozent SK-KSt | DE-CFC nach § 7 ff. AStG bei passiven Einkuenften und 10 Prozent SK-KSt | bei passiv-tendierten Gesellschaften CFC obligatorisch pruefen; bei aktivem Geschaeftsbetrieb Aktivitaetskatalog § 8 Abs. 1 AStG durchpruefen |
+| Werksvertrag vs. AUeG bei Automotive-Entsendung | Werksvertrag mit Sub aus SK — 12-Monatsfrist Bau-BS pruefen | AUeG-Modell mit slowakischen Leiharbeitnehmern: AUeG-Erlaubnis und Lohnsteuer DE | bei wiederkehrenden Werksauftraegen Sub-Werkvertrag steuerlich vorteilhafter — aber AUeG-Trennlinie strikt einhalten |
+| EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-CSSR: 5 Prozent ab 25 Prozent Beteiligung | EU-MTRL immer vorrangig (§ 43b EStG) — niedrigere Schwelle und 0-Prozent-Satz |
+
+## Berechnungsbeispiel
+
+DE-GmbH haelt 100 Prozent an slowakischer s.r.o.; SK-Gewinn 80.000 EUR jaehrlich, SK-KSt 10 Prozent = 8.000 EUR. Ausschuettung 72.000 EUR an DE-GmbH:
+
+- Variante 1 (EU-MTRL, § 43b EStG): SK-QSt 0 Prozent; DE-Empfaenger Beteiligungsertrag § 8b KStG zu 95 Prozent steuerfrei (5 Prozent fiktive nichtabziehbare BA = 3.600 EUR), Steuer ca. 15,825 Prozent KSt+SolZ darauf = 570 EUR; GewSt ca. 14 Prozent = 504 EUR. Gesamt DE ca. 1.074 EUR.
+- Variante 2 (CFC ohne Ausschuettung): Falls SK-Tochter passive Einkuenfte erzielt (Lizenzen, Zinsen, etc.) und unter 15 Prozent effektiv besteuert wird — Hinzurechnung der Zwischeneinkuenfte beim DE-Anteilseigner nach § 7 AStG mit DE-Steuersatz, abzueglich SK-KSt-Anrechnung.
+
+Bei aktivem operativen Geschaeft (Aktivitaetskatalog § 8 Abs. 1 AStG erfuellt) keine CFC-Hinzurechnung.
+
+## Ausgabeformat fuer Mandanten-Memo Slowakei
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Werkvertrag, Beteiligung, Holding), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, CFC-Pruefung wegen SK-KSt-Staffel.
+3. **Kurzantwort**: DBA-CSSR (Slowakei) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CSSR; Fortgeltungs-Bekanntmachung BGBl. 1993 II S. 762).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel mit Quellensteuersatz.
+   - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 8 AStG bei Niedrigsteuer).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: SK-KSt-Staffel 10/21/24 Prozent, § 50d Abs. 3 EStG, MLI ab 01.01.2025 (PPT-Klausel).
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-CSSR Fundstellen, Nachfolge-Notenwechsel, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-tschechien`.

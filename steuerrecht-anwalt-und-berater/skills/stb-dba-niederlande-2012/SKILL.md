@@ -105,6 +105,62 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 - Grenzgaenger-Lohnsteuerabzug: niederlaendischer Arbeitgeber, deutscher Wohnsitz — keine spezielle Grenzgaengerregelung wie bei Schweiz/Oesterreich/Frankreich; 183-Tage-Regel gilt.
 - MLI Anti-Fragmentierung relevant bei Lager-/Distributionsstrukturen.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren niederlaendische Dividendensteuer
+
+- **Zustaendigkeit**: Erstattung niederlaendischer Dividendensteuer durch **Belastingdienst/Kantoor Buitenland** (Heerlen). Aktuelle Zustaendigkeit auf **belastingdienst.nl** pruefen.
+- **Antragsformulare**: niederlaendische Formulare **IB 92** (Antrag Rueckerstattung Dividendensteuer fuer Auslaender) und Schachteldividenden-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf belastingdienst.nl/buitenland zu verifizieren.
+- **Frist**: nach niederlaendischer Algemene Wet inzake Rijksbelastingen grundsaetzlich **drei Jahre** ab Steuerentrichtung — knappere Frist als bei AT/IT.
+- **Bearbeitungsdauer Belastingdienst**: 6-18 Monate.
+- **Online-Portal**: niederlaendische Verwaltung auf **belastingdienst.nl/buitenland** mit englischer Sprachversion ("Tax matters from abroad") — barrierearm fuer deutsche Mandanten.
+- **Niederlaendisch optional**: Eingaben in englischer Sprache moeglich; offizielle Bescheide in NL — bei groesseren Erstattungen niederlaendischen Berater einbinden.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei Holding-Strukturen mit BV/CV-Konstellation, bei Pensionsfaellen ueber DBA-Schwelle, bei Logistik-Lagerstrukturen mit Anti-Fragmentierungs-Risiko. Niederlaendische Kanzleien in Amsterdam/Eindhoven mit DE-Mandanten.
+
+### Sprache
+
+- DBA-Text NL/DE bilingual — bei Auslegungsstreit ist regelmaessig die deutsche oder niederlaendische Fassung gleichberechtigt. Beide Sprachfassungen heranziehen.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Home-Office Bagatelle 34 Tage einhalten vs. Aufteilung | komplette Besteuerung im Arbeitgeberstaat NL, kein DE-Anteil | Aufteilung Lohn auf NL/DE nach Arbeitstagen | bei Sparsamkeit Home-Office unter 34 Tagen Bagatelle vorteilhaft; bei zunehmendem Home-Office Aufteilung |
+| Holding via niederlaendische BV vs. Direktbeteiligung | NL hat haeufig Schachtelfreistellung (deelnemingsvrijstelling) auf Tochterdividenden; PROBLEM: deutsche § 50d Abs. 3-Substanzpruefung | direkte deutsche Mutter — kein Treaty-Schutz noetig | bei substanziellem Holdingbetrieb in NL Vorteil; bei Briefkasten Substanz aufbauen oder direkt aus DE halten |
+| Pension unter Schwelle (Wohnsitz) vs. ueber Schwelle (Quelle) | Wohnsitzstaat-Besteuerung in DE | Quellenstaat-Besteuerung in NL — typischerweise hoehere effektive Last | bei freier Wahl Wohnsitz vor Pensionseintritt strategisch wichtig |
+
+## Edge Cases — was Pruefer triggert
+
+- **Niederlassungsbedingung 360 Tage**: in DBA-NL 2012 fuer bestimmte Pensionsregelungen verankert — bei Erfuellung wechselt das Besteuerungsrecht. Konkrete Pruefung im DBA-Text Art. 17 und Schlussprotokoll.
+- **CV/BV-Konstellation**: niederlaendische **commanditaire vennootschap** (CV) kann steuerlich opak ODER transparent sein je nach Strukturierung — Qualifikationskonflikt mit § 1 KStG haeufig. Aktuelle Pruefung erforderlich.
+- **Lager-/Distributionscenter (Rotterdam, Venlo)**: deutsche Mutter mit Distributionslager in NL — Anti-Fragmentierungsregel im MLI kann zur Betriebsstaette fuehren, wenn Lager und Servicetaetigkeiten kombiniert werden.
+- **Cooperatie-Struktur**: niederlaendische Cooperatie kann hybride Behandlung haben — § 4k EStG anti-hybrid pruefen.
+- **Cross-Border-Workers Coronavirus**: alte Konsultationsvereinbarung (befristet) — fuer Altzeitraeume relevant; ab 01.01.2026 neue Bagatellgrenze 34 Tage gilt.
+- **Pensions-Schwelle in EUR aus DBA**: Schwellenwert exakt aus Art. 17 DBA-NL 2012 und Schlussprotokoll uebernehmen, nicht aus Sekundaerliteratur.
+
+## Berechnungsbeispiel — Schachteldividende NL-BV an DE-Mutter
+
+> Niederlaendische BV (Amsterdam) schuettet 800.000 EUR Dividende an deutsche Holding (Beteiligung 100 Prozent, Haltedauer 5 Jahre).
+>
+> Schritt 1: EU-MTRL (§ 43b EStG) und § 50g EStG vorrangig: 0 Prozent niederlaendische Dividendensteuer — Voraussetzung: deutsche Holding stellt vor Ausschuettung **Freistellungsanzeige** an die niederlaendische Quelle.
+>
+> Schritt 2: Ohne Freistellung: 15 Prozent niederlaendische Dividendensteuer als Standard = 120.000 EUR; Erstattung von 10 Prozent (Differenz zum DBA-Schachtel 5 Prozent) ueber IB 92 an Belastingdienst Heerlen.
+>
+> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA; § 50d Abs. 3 EStG-Substanztest bei niederlaendischer Holding pruefen.
+
+## Berechnungsbeispiel — Pension ueber Schwelle aus NL an DE-Wohnsitz
+
+> Deutscher Mandant Wohnsitz Aachen, Pension aus niederlaendischem Pensioenfonds 25.000 EUR p.a. — angenommen ueber DBA-Schwelle Art. 17 (Schwellenwert konkret aus DBA-Text pruefen).
+>
+> Schritt 1: Bei Schwellen-Ueberschreitung greift Quellenstaat-Besteuerung NL. Niederlaendische Lohnsteuer auf Pension wird einbehalten (regelmaessig progressiv).
+>
+> Schritt 2: In DE Anrechnung der niederlaendischen Steuer nach § 34c EStG; deutsche Steuer auf Welteinkommen unter Beruecksichtigung des Pensions-Einkommens.
+>
+> Schritt 3: Bei strittiger Auslegung Verstaendigungsverfahren Art. 25 DBA — vor allem Doppelbesteuerung gerade an der Schwelle haeufig Streitthema.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`.

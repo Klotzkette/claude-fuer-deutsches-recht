@@ -77,6 +77,44 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 - Island-Tourismus: Investitionen koennen Immobilienbesteuerung Belegenheitsstaat ausloesen.
 - EU-MTRL nicht direkt; aber EWR und DBA gemeinsam.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren IS → DE-Mandant**: Antrag bei Skatturinn (Islaendische Steuerverwaltung); Online-Portal "skattur.is" (vom Anwender mit aktuellem Stand des islaendischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der Skatturinn als Anlage. Bearbeitungsdauer in der Praxis langwierig.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Islaendisch. Englische Arbeitsfassungen kursieren — nicht authentisch. Schwierigkeit: Islaendisch ist juristisch hochspezialisiert; Uebersetzungen oft nicht eindeutig.
+- **Lokaler Berater**: Bei islaendischer ehf. (Einkahlutafélag, GmbH-Aequivalent) oder Geothermie-/Aluminium-Beteiligung zwingend lokalen islaendischen Berater hinzuziehen; IS hat sehr kleines Marktumfeld und spezifische Rechtskultur.
+- **Apostille**: nicht erforderlich zwischen EWR-Mitgliedstaaten fuer Standard-Steuerdokumente; bei Notarurkunden Apostille (Haager Uebereinkommen) erforderlich.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **DBA aelterer Generation 1971**: Begriffe sind nicht OECD-MA 2017 konform — bei strittiger Auslegung Verstaendigungsverfahren oder MAP.
+- **Aluminium-Industrie IS**: Rio Tinto, Alcoa, Century Aluminum betreiben Aluminium-Schmelzen in IS wegen guenstiger Geothermie-Energie; bei Beteiligungen Sonderfragen Veraeusserungsgewinne (Art. 13).
+- **Geothermie-/Energie-Projekte**: regelmaessig BS-Pruefung bei langfristigen Wartungs- und Projektgesellschaften.
+- **Fischerei-Trawler**: Schifffahrt Art. 8 — Geschaeftsleitung Reederei in IS oder DE? Bei deutsch-islaendischen Fischereigesellschaften IS-Sondersteuern ("kvótakerfi", Quotensystem).
+- **Tourismus-Investitionen**: Hotels Reykjavik, Reisebueros, Bus-Touren — Belegenheitsbesteuerung Immobilien IS.
+- **MLI**: IS hat MLI unterzeichnet, Ratifizierungsstatus zum DBA-Island vom Anwender mit BMF-Verzeichnis zu verifizieren.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Aluminium-Direktbeteiligung vs. via DE-Holding | Direktbeteiligung an islaendischer Aluminium-Gesellschaft: 15 Prozent DBA-QSt Dividende | via DE-Holding: nationale § 8b KStG-Befreiung | bei Schachtelhoehe pruefen; EWR-Status erlaubt Kapitalverkehrsfreiheit, aber EU-MTRL nicht anwendbar |
+| Tourismusimmobilie IS vs. Beteiligung Tourismus-AG | Direkte Immobilie: Belegenheitsstaat IS Vermietung, Anlage V-AUS | Beteiligung an Tourismus-AG: Dividende DBA-Hoechstsatz, ggf. § 8b KStG | bei privaten Investitionen Immobilie einfacher; bei Konzern-Investitionen AG-Struktur |
+| Wegzug DE → IS als EWR-Mitglied | EWR: § 6 AStG-Stundung erleichtert | Drittland-Wegzug: sofortige Steuer | EWR-Wegzug attraktiv; Stundungsantrag mit Sicherheiten |
+
+## Berechnungsbeispiel
+
+Deutscher Investor haelt 30 Prozent an islaendischer Geothermie-AG (ehf.); Dividende 50.000 EUR jaehrlich:
+
+- IS-QSt national: 22 Prozent = 11.000 EUR (Stand 05/2026 vom Anwender mit aktuellem IS-Steuerrecht zu verifizieren).
+- DBA-Hoechstsatz Art. 10: 15 Prozent = 7.500 EUR.
+- Erstattung Differenz 3.500 EUR ueber Antrag bei Skatturinn (langwierige Bearbeitung).
+- DE-Abgeltungsteuer: 25 Prozent zzgl. SolZ 5,5 Prozent = 26,375 Prozent auf 50.000 EUR = 13.187,50 EUR.
+- Anrechnung IS-QSt 7.500 EUR auf DE-Steuer (§ 32d Abs. 5 EStG).
+- DE-Resteuer: 5.687,50 EUR.
+- Gesamtbelastung: 13.187,50 EUR (kein Anrechnungsverlust).
+
+Achtung: IS-Sonderabgaben fuer Touristen, Umwelt-, Energie- und kommunale Abgaben sind keine Einkommensteuer und nicht anrechnungsfaehig.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-norwegen`.

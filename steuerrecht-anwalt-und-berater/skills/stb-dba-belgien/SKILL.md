@@ -99,6 +99,65 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 - 183-Tage-Regelung: Kalenderjahr oder 12-Monatszeitraum — DBA-Text konkret pruefen, weicht historisch ab.
 - Bruessel-EU-Beamte: Wohnsitzfiktion erhaelt deutsche Steueransaessigkeit; deutsche Steuerpflicht greift weiter, EU-Bezuege sind frei nach EU-Protokoll.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren belgische Vorsteuer (Roerende Voorheffing / Precompte Mobilier)
+
+- **Zustaendigkeit**: belgische Erstattung durch **Service Public Federal Finances** (FOD/SPF Finances), Centre de Perception/Inningscentrum. Aktuelle Zustaendigkeit auf **finance.belgium.be** pruefen.
+- **Antragsformulare**: belgische Formulare **276 Div.** (Antrag Erstattung Mobiliar-Steuer fuer Auslaender) bzw. Schachtel-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf finance.belgium.be zu verifizieren.
+- **Frist**: nach belgischem Steuerrecht regelmaessig **fuenf Jahre** ab dem Steuerjahr — vergleichsweise grosszuegig.
+- **Bearbeitungsdauer**: 6-24 Monate; bei strittigen Faellen oft Jahre.
+- **Online-Portal**: **MyMinfin** (myminfin.be) fuer belgische Steuerangelegenheiten.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei EU-Beamten-Konstellationen (Bruessel), bei Sportler-/Kuenstlerauftritten in Belgien, bei Pensionsfaellen aus belgischer Pensionskasse. Bruesseler Kanzleien mit DE-Mandanten-Erfahrung.
+
+### Sprachen-Falle
+
+- **DBA-Text DE/FR/NL** dreisprachig — die franzoesische und niederlaendische Fassung sind gleichberechtigt verbindlich. Bei Auslegungsstreit alle drei Fassungen pruefen.
+- Belgischer Bescheid je nach Region in FR (Wallonien, Bruessel), NL (Flandern) oder DE (Eupen-Malmedy) — Sprache der Korrespondenz pruefen.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Schachteldividende belgische SA an DE-Mutter ueber DBA vs. EU-MTRL | DBA Art. 10 (5/15 Prozent) | EU-MTRL § 43b EStG: 0 Prozent bei mind. 10 Prozent Beteiligung und 12 Monate | § 43b EStG immer vorzugswuerdig — antragsweise an belgische Quelle |
+| EU-Beamten-Bezuege (Protokoll 7 EUV) vs. private Einkuenfte | EU-Bezuege steuerfrei in DE und BE | private Einkuenfte (z.B. Vermietung Wohnung Bruessel) regulaer | klare Trennung in Steuererklaerung — Doppelbescheinigung von EU-Institution |
+| Sportler-/Kuenstlerauftritt in BE vs. Tournee-Strukturierung | Quellenstaat BE besteuert (Sondersystem) | Holding-Struktur "Loan-Out-Company" | je nach Honorarvolumen — Substanztest zwingend |
+
+## Edge Cases — was Pruefer triggert
+
+- **Sondersystem fuer Sportler/Kuenstler**: Belgien hat eigenes System fuer auftretende Kuenstler/Sportler (haeufig 18 Prozent Pauschalsteuer); DBA Art. 17 sieht Quellenstaat-Besteuerung vor — bei Tournees genau dokumentieren.
+- **EU-Beamten-Konstellation**: deutscher EU-Beamter mit Wohnsitz Bruessel — § 14 EU-BeamtenStG iVm Protokoll 7 EUV bewirkt **Wohnsitzfiktion** Deutschland; trotz physischem Aufenthalt BE bleibt deutsche Steueransaessigkeit erhalten. EU-Gehalt steuerfrei in beiden Staaten.
+- **Eupen-Malmedy-Pendler**: deutschsprachige Gemeinschaft Belgiens; klassische Grenzgaengerregelung der 1960er-Generation wurde durch Aenderungsprotokolle ersetzt — aktuellen Stand pruefen.
+- **DBI-Mismatch**: belgische Holding mit deutscher Quelle — belgische DBI gewaehrt Schachtelbefreiung im Empfaengerstaat; § 8b KStG-Befreiung in DE; bei Hybriden § 4k EStG.
+- **183-Tage-Zaehlung**: aelteres DBA-Belgien definiert ggf. abweichend (Kalenderjahr vs. 12-Monatszeitraum) — sorgfaeltig pruefen.
+
+## Berechnungsbeispiel — Schachteldividende BE-SA an DE-Holding
+
+> Belgische SA (Bruessel) schuettet 600.000 EUR Dividende an deutsche Holding (Beteiligung 60 Prozent, Haltedauer 4 Jahre).
+>
+> Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent belgische Mobiliarsteuer — vorab Freistellungs-Bescheinigung an die belgische Quelle.
+>
+> Schritt 2: Ohne Freistellung: 30 Prozent belgische Mobiliarsteuer (Roerende Voorheffing/Precompte Mobilier nationaler Standardsatz) = 180.000 EUR; Erstattung von 25 Prozent (Differenz zum DBA-Schachtel 5 Prozent) ueber Formular 276 Div. an SPF Finances.
+>
+> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA; verbleibende belgische Quellensteuer (sofern nicht 0) auf deutsche KSt teilweise anrechenbar.
+>
+> Anmerkung: aktuelle Quellensteuersaetze und Formularnummern auf finance.belgium.be verifizieren.
+
+## Berechnungsbeispiel — EU-Beamter Bruessel mit Vermietungsobjekt
+
+> Deutscher EU-Beamter, Wohnsitz Bruessel (rein dienstlich), Vermietung einer Wohnung in Koeln, Mieteinnahme 18.000 EUR p.a.
+>
+> Schritt 1: EU-Bezuege steuerfrei nach Protokoll 7 EUV — werden nicht steuerlich erfasst.
+>
+> Schritt 2: Wohnsitzfiktion DE wegen § 14 EU-BeamtenStG — deutsche Steueransaessigkeit erhalten.
+>
+> Schritt 3: Mieteinkuenfte Koeln: deutsche Belegenheit (Art. 6 DBA), Veranlagung in DE wie ordinaerer DE-Steuerpflichtiger.
+>
+> Schritt 4: keine belgische Steuerpflicht auf deutsche Mieteinnahmen.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-luxemburg-2012`.

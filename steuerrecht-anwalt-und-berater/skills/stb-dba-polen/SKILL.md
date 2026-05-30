@@ -82,6 +82,62 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 - Lizenzgebuehren-Quellensteuer 5 Prozent kann durch EU-ZinsLizenzRL bei verbundenem Unternehmen auf 0 Prozent reduziert werden.
 - ZUS-Renten als Auslandseinkuenfte Anlage R-AUS.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren PL → DE-Mandant**: Antrag bei der polnischen Finanzverwaltung (Krajowa Administracja Skarbowa, KAS); Online-Portal "e-Urzad Skarbowy" (vom Anwender mit aktuellem Stand des polnischen Online-Portals zu verifizieren). Bearbeitungsdauer in der Praxis typischerweise mehrere Monate; Antragsformular CFR-1 fuer Ansaessigkeitsbescheinigung als Anlage.
+- **Sprache des DBA**: Authentische Textfassungen sind Deutsch und Polnisch; englische Arbeitsuebersetzungen kursieren, sind aber nicht authentisch. Bei strittiger Auslegung beide authentischen Sprachfassungen vergleichen — historisch waren z.B. die Begriffe "Einkuenfte aus selbstaendiger Arbeit" und "samodzielna dzialalnosc" leicht abweichend gefasst.
+- **Lokaler Berater**: Bei polnischer Sp.z o.o. mit Niederlassung in DE und umgekehrt empfiehlt sich Hinzuziehung eines polnischen "doradca podatkowy" (zertifizierter Steuerberater) wegen polnischer Buchfuehrungspflichten und CIT-8-Erklaerung.
+- **Apostille**: PL-Behoerden akzeptieren EU-Ansaessigkeitsbescheinigungen ohne Apostille; bei Notarurkunden im Schenkungs-/Erbfall ist Apostille (Haager Uebereinkommen) erforderlich.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **Sondersteuer 19 Prozent auf Liquidationen**: Bei Aufloesung einer polnischen Sp.z o.o. mit deutschem Anteilseigner faellt nach polnischem Recht regelmaessig eine Liquidationsteuer von 19 Prozent an, die DBA-rechtlich wie Dividendensubstitut zu behandeln ist (Art. 10) — konkrete Behandlung mit polnischem Berater abstimmen, da die polnische Verwaltung in der Praxis differenziert.
+- **EU-Pendler-Konstellation**: Polen kennt einen Sonderstatus fuer Grenzpendler (Werkbahnen, Wochenendpendler) — keine Grenzgaengerregelung im DBA-Polen, aber polnische Sozialversicherungspflicht oder DE-Sozialversicherungspflicht nach EU-VO 883/2004.
+- **Subject-to-Tax-Klausel im Protokoll**: § 50d Abs. 9 EStG kann bei Pensionseinkuenften mit Wohnsitz PL zum Rueckfall in die DE-Besteuerung fuehren — Pruefung anhand der polnischen ZUS-Rentenbescheinigung.
+- **Beteiligungsschwelle 10 Prozent**: Schachtel nach DBA bei direkter Beteiligung mindestens 10 Prozent (Art. 10 Abs. 2 Buchst. a); EU-MTRL setzt fuer 0-Prozent-Schachtel ebenfalls 10 Prozent voraus (§ 43b Abs. 2 EStG).
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| QSt-Erstattung lokal vs. DE-Anrechnung Dividende | Antrag bei KAS auf Erstattung 15 → 5 Prozent oder 0 Prozent EU-MTRL | DE-Anrechnung nach § 34c EStG auf gesamte PL-QSt | Bei EU-Schachtel immer EU-MTRL-Befreiung; bei Streubesitz Wirtschaftlichkeitspruefung Erstattungsaufwand vs. Anrechnungs-Verlust |
+| Bau-Entsendung Dauer bei Annaeherung an 12 Monate | unter 12 Monaten: keine Betriebsstaette, Loehne Art. 15 nach 183-Tage-Pruefung | ueber 12 Monate: Betriebsstaette, polnische Lohnsteuerpflicht | bei Annaeherung an 12 Monate Werksvertraege nicht kuenstlich strecken — Pruefer rechnet zusammen bei Aktivitaeten desselben Bauherrn |
+| Wohnsitzwechsel DE → PL vor Veraeusserung | Veraeusserung als PL-Ansaessiger, ggf. PL-Steuer | Beibehaltung DE-Ansaessigkeit, DE-Besteuerung mit Anrechnung | Wegzugsbesteuerung § 6 AStG (PL ist EU — Stundung erleichtert) und PL-Eingangsbesteuerung zwingend vor Wegzug pruefen |
+
+## Berechnungsbeispiel
+
+Mandant mit Wohnsitz Deutschland erhaelt Dividende 10.000 EUR aus polnischer Sp.z o.o. (Beteiligung 5 Prozent, Streubesitz). Polnische QSt 19 Prozent national, nach Art. 10 Abs. 2 Buchst. b DBA-Polen auf 15 Prozent reduzierbar.
+
+- PL-QSt nach Erstattung: 1.500 EUR.
+- DE: Abgeltungsteuer 25 Prozent zzgl. Solidaritaetszuschlag 5,5 Prozent = 26,375 Prozent auf 10.000 EUR = 2.637,50 EUR brutto.
+- Anrechnung PL-QSt auf DE-Steuer (§ 32d Abs. 5 EStG / § 34c EStG): 1.500 EUR.
+- DE-Resteuer: 1.137,50 EUR.
+- Gesamtbelastung: 2.637,50 EUR (kein Anrechnungsverlust, da PL-QSt unter DE-Steuer).
+
+Bei Schachtel-Beteiligung 10 Prozent natuerlicher Person waere nach DBA der reduzierte Satz 5 Prozent; fuer Kapitalgesellschaften ist EU-MTRL (§ 43b EStG) mit 0 Prozent vorrangig.
+
+## Ausgabeformat fuer Mandanten-Memo Polen
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt** (knapp): Wohnsitze, Beteiligungs- oder Arbeitskonstellation, Zeitraum.
+2. **Frage(n)**: konkrete Mandantenfragen — Besteuerungsrecht, Quellensteuer, Erstattung.
+3. **Kurzantwort** (1 Satz): DBA-Polen 2003 Art. X regelt das Besteuerungsrecht; Anrechnungs-/Freistellungsmethode wird in DE angewendet.
+4. **Rechtliche Bewertung**: 
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-PL i.V.m. § 1 EStG).
+   - Sachliche Anwendbarkeit (Art. 2 DBA-PL).
+   - Einkunftsart (Art. 6-21 DBA-PL).
+   - Verteilungsartikel mit konkretem Quellensteuersatz.
+   - Methodenartikel (Art. 24 DBA-PL).
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
+5. **Gesamtergebnis**: konkrete Steuerbelastung mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: § 50d Abs. 3 EStG, § 50d Abs. 9 EStG, MLI-Anwendung, Aktualitaet.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md): DBA-PL Fundstelle, BMF-Schreiben, ggf. BFH-Rechtsprechung.
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-PL Fundstellen, BMF-Schreiben und BFH-Rechtsprechung sind verbindlich zu zitieren. Bei polnischen Quellen (Krajowa Administracja Skarbowa, Sad Najwyzszy) Original-Aktenzeichen und Datum nennen.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-dividenden-quellensteuer-art-10`, `stb-dba-lizenzgebuehren-art-12-bzst`.

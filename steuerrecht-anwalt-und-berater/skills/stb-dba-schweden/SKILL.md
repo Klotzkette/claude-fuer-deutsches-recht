@@ -80,6 +80,40 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 - Schweden-Bauauftraege: 12-Monatsfrist beachten.
 - EU-Mutter-Tochter-RL geht regelmaessig vor DBA.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren SE → DE-Mandant**: Antrag bei Skatteverket (Schwedische Steuerverwaltung); Online-Portal "Mina sidor" (vom Anwender mit aktuellem Stand des schwedischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Hemvistintyg" der Skatteverket als Anlage.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Schwedisch. Konsolidierter Text mit Aenderungsprotokoll BGBl. 2023 II Nr. 307 / 2024 II Nr. 66.
+- **Lokaler Berater**: Bei schwedischer AB (Aktiebolag) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines schwedischen "skattekonsult" (Steuerberater); SE hat sehr digitalisierte Verwaltung und ausgepraegtes Naerings­betingad-System.
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (SE seit 1995).
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **Naeringsbetingad-Status (Beteiligungsgesellschaft) SE**: Schwedisches Sondersteuerregime fuer Beteiligungserloese — Veraeusserung von Anteilen schwedischer Gesellschaften steuerfrei bei naeringsbetingad-Qualifikation. Aequivalent zu § 8b KStG. Bei deutschen Investoren in SE-Holdings: doppelte Steuerbefreiung-Risiko, § 4k EStG-Pruefung.
+- **Pension ATP/Tjaenstepension/Allgemeine Rente**: SE-Pensionssystem dreischichtig — Garantirente (Grundrente), Inkomstpension (einkommensabhaengig) und Tjaenstepension (Arbeitsplatzrente). DBA Art. 18 differenziert nach Quelle.
+- **Wegzug DE → SE**: § 6 AStG, SE ist EU — Stundung erleichtert; SE-Eingangsbesteuerung pruefen ("expatriate"-Regelung).
+- **Aenderungsprotokoll 2023/2024**: Anpassungen zur Bekaempfung von Hybridgestaltungen — vom Anwender mit konsolidiertem Text zu pruefen.
+- **MLI ratifiziert**: PPT-Klausel anwendbar.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Schwedische Holding-AB mit naeringsbetingad-Status | SE-Holding steuerfreie Veraeusserung Anteile EU-Toechter (naeringsbetingad) | DE-Holding mit § 8b KStG-Befreiung 95 Prozent | bei reiner Holdingstruktur fuer EU-Toechter und Exit-Strategie SE oft vorteilhaft; aber § 4k EStG-Pruefung wegen doppelter Steuerbefreiung; PPT-Klausel pruefen |
+| EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-Schweden: 0 Prozent ab 10 Prozent Beteiligung | beide identisch; EU-MTRL als EU-Recht vorrangig (§ 43b EStG) |
+| Wegzug DE → SE im Ruhestand | SE-Steueransaessigkeit, schwedische Pensionsbesteuerung — oft moderate Belastung | DE-Steueransaessigkeit beibehalten, DBA klaert Doppelbesteuerung | bei Pensionaeren mit DRV: SE-Anziehung der Renten, in DE Anrechnung; Wegzug § 6 AStG bei Anteilen pruefen |
+
+## Berechnungsbeispiel
+
+DE-Mutter haelt 100 Prozent an schwedischer AB; SE-Gewinn 300.000 EUR, SE-KSt 20,6 Prozent (Stand 2025 vom Anwender zu verifizieren) = 61.800 EUR. Ausschuettung 238.200 EUR:
+
+- SE-QSt: 0 Prozent nach EU-MTRL (§ 43b EStG, ab 10 Prozent Schachtel).
+- DE: § 8b KStG zu 95 Prozent steuerfrei; 5 Prozent (11.910 EUR) fiktive nichtabziehbare BA, DE-KSt+SolZ rund 15,825 Prozent = 1.885 EUR plus GewSt rund 14 Prozent = 1.667 EUR. Gesamt DE rund 3.552 EUR.
+- Gesamtbelastung: SE-KSt 61.800 + DE 3.552 = 65.352 EUR auf 300.000 EUR = 21,8 Prozent.
+- Pillar-Two-Pruefung: SE-Belastung 20,6 Prozent ueber 15 Prozent — kein Top-Up.
+
+Bei Hauptanwendungsfall naeringsbetingad-Veraeusserung: SE-AB veraeussert Anteile an EU-Tochter steuerfrei; bei Liquidation und Ausschuettung an DE-Mutter: § 4k EStG pruefen (Verhinderung doppelter Nichtbesteuerung).
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-norwegen`, `stb-dba-finnland`, `stb-dba-daenemark`.

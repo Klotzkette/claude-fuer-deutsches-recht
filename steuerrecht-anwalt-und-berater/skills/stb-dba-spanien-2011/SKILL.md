@@ -96,6 +96,68 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 - Wegzug Spanien: § 6 AStG, ATAD-Umsetzung 2022 — Stundung aufgrund EU-Mitgliedschaft moeglich.
 - ETVE-Holding ist DBA-berechtigt, aber Substanztest § 50d Abs. 3 EStG anwenden.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren spanische Quellensteuer
+
+- **Zustaendigkeit**: spanische Erstattung durch **Agencia Estatal de Administracion Tributaria (AEAT)**, Oficina Nacional de Gestion Tributaria. Aktuelle Zustaendigkeit auf **agenciatributaria.gob.es** pruefen.
+- **Antragsformulare**: spanische Modelos zur Quellensteuer-Erstattung; in der Praxis verbreitete Bezeichnungen "Modelo 210" (Steuer auf Einkuenfte Nichtansaessiger) sowie spezifische Erstattungsformulare — **konkrete Modelo-Nummern und Verfahren vom Anwender mit aktuellem Stand auf agenciatributaria.gob.es zu verifizieren**.
+- **Frist**: nach spanischem LGT (Ley General Tributaria) regelmaessig **vier Jahre** ab Steuerentrichtung.
+- **Bearbeitungsdauer AEAT**: 12-36 Monate; nach den Aenderungen seit 2020 fortgesetzt langwierig.
+- **Online-Portal**: **agenciatributaria.gob.es** mit Sede Electronica und Cl@ve-Identifikation oder Berater-Vollmacht.
+- **Sprache**: ES vorrangig; einige Formulare auf EN — bei groesseren Erstattungen spanischen Berater (gestor/asesor fiscal) einbinden.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei Immobilien-Vermietung Mallorca/Costa del Sol (zentrale spanische IRPF-NRA-Pflicht); bei ETVE-Holdings; bei Beckham-Status; bei DRV-Renten an Mallorca-Wohnsitz. Asesores in Palma/Barcelona/Madrid mit deutscher Mandantenschaft.
+
+### Online-Portale
+
+- **agenciatributaria.gob.es**: zentrale spanische Steuerverwaltung.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Mallorca-Immobilien deutsche Eigentuemer Vermietung DBA 1966 (Freistellung) vs. DBA 2011 (Anrechnung) | Alt-DBA: Freistellung mit Progression in DE | Neu-DBA: Anrechnung — spanische Steuer auf deutsche EStG anrechenbar, Verluste werden in DE wirksam | bei Verlustsituationen Neu-DBA-Anrechnungsmethode vorteilhafter |
+| Beckham-Regelung waehlen vs. ordentlich besteuert werden | sehr niedrige Steuer in ES, aber **DBA-Ansaessigkeitsfrage** | volle DBA-Berechtigung | bei hohem Auslandseinkommen ordentliche Besteuerung wegen DBA-Schutz oft vorteilhafter |
+| Wegzug nach Spanien als EU-Mitglied vs. Wohnsitz halten | sofortige § 6 AStG-Wegzugsbesteuerung mit Stundungsmoeglichkeit (EU) | Wohnsitz halten, deutsche Steueranspruch | bei stillen Reserven Stundungsmoeglichkeit nutzen; Zeitplanung |
+| Schachteldividende ES-S.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AEAT | 0 Prozent via Freistellung vorab | § 43b EStG vorzugswuerdig |
+
+## Edge Cases — was Pruefer triggert
+
+- **Beckham-Regelung (Regimen Especial)**: spanische Sonderbesteuerung fuer Zuzuegler (maximal 6 Jahre, 24 Prozent Flat-Tax auf spanische Einkuenfte); fraglich, ob Beckham-Status zur DBA-Ansaessigkeit fuehrt. Konkrete Pruefung nach Art. 4 DBA-ES erforderlich.
+- **DRV-Renten an Mallorca**: Wohnsitzstaat-Prinzip Art. 17 — Spanien hat Besteuerungsrecht. Aufgrund von Informationsaustausch wird die spanische Besteuerung zunehmend durchgesetzt. Bei Doppelbesteuerung Verstaendigungsverfahren.
+- **Wechsel DBA 1966 → DBA 2011 (ab 01.01.2013)**: Mandanten-Memos vor 2013 referenzieren Freistellung mit Progression bei Immobilien; ab 2013 Anrechnung. Veranlagungszeitraum-Wechsel zentral.
+- **ETVE-Holding** (entidad de tenencia de valores extranjeros): substanz-pflichtig nach spanischem Recht — DBA-Berechtigung vorhanden, aber § 50d Abs. 3 EStG-Substanztest gleichwohl Pflicht.
+- **Erbschaft mit Spanien**: kein bilaterales ErbSt-DBA — bei grenzueberschreitenden Erbfaellen droht Doppelbesteuerung; § 21 ErbStG-Anrechnung pruefen.
+
+## Berechnungsbeispiel — Mallorca-Vermietung (Wohnsitz DE)
+
+> Deutscher Eigentuemer einer Ferienwohnung in Palma de Mallorca, Mieteinnahmen 24.000 EUR p.a., Kosten 8.000 EUR.
+>
+> Schritt 1: Spanische IRPF-NRA-Pflicht (Modelo 210): Nettomiete 16.000 EUR x 19 Prozent (EU-Nichtansaessige) = 3.040 EUR spanische Steuer.
+>
+> Schritt 2: In DE: Welteinkommen-Erklaerung Anlage V (Vermietung) auf 24.000 EUR mit Kosten 8.000 EUR = 16.000 EUR Einkuenfte; deutsche EStG nach progressivem Tarif (z.B. 30 Prozent = 4.800 EUR).
+>
+> Schritt 3: Anrechnung der spanischen Steuer nach § 34c EStG: 3.040 EUR voll anrechenbar (unter deutscher Hoechstgrenze).
+>
+> Schritt 4: Verbleibende deutsche Steuer = 4.800 - 3.040 = 1.760 EUR.
+>
+> Anmerkung: Modelo 210 binnen 20 Tagen ab Quartal in ES einreichen; Frist sehr knapp.
+
+## Berechnungsbeispiel — DRV-Rente an Mallorca-Wohnsitz
+
+> Deutscher Rentner Wohnsitz Mallorca seit 8 Jahren (Lebensmittelpunkt unstreitig ES), DRV-Rente 22.000 EUR p.a.
+>
+> Schritt 1: Tie-Breaker Art. 4 DBA-ES: ansaessig ES.
+>
+> Schritt 2: Art. 17 DBA-ES: Wohnsitzstaat-Prinzip fuer gesetzliche Renten — Spanien hat Besteuerungsrecht.
+>
+> Schritt 3: Deutsche Quellensteuer auf DRV-Rente nach § 22 EStG ggf. einbehalten (oder beschraenkt steuerpflichtig); Erstattungsantrag in DE (BZSt-NRA-Verfahren) bei Ansaessigkeitsbescheinigung der AEAT.
+>
+> Schritt 4: Spanische IRPF auf Rente: progressiv (16 Prozent bis 47 Prozent); Erstattung deutscher Quellensteuer nach Vorlage Form-NRA und ES-Ansaessigkeit.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-portugal`.

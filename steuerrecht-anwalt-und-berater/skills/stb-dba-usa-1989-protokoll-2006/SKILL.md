@@ -129,6 +129,44 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemaess 
 - Form 6166 Ansaessigkeitsbescheinigung mit IRS-Form 8802 beantragen (Gebuehr).
 - LLC-Hybridprobleme: Doppelnichtansatz vermeiden, § 4k EStG.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren US → DE-Mandant**: Antrag bei IRS (Internal Revenue Service); kein einheitliches Online-Portal fuer Auslaender — Antragsformulare werden je nach Einkunftsart unterschiedlich gehandhabt (Form 1040-NR fuer nichtansaessige natuerliche Personen, Form 1120-F fuer auslaendische Gesellschaften). Bearbeitungsdauer in der Praxis oft 6 bis 12 Monate, bei komplexeren Faellen laenger.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Englisch; die englische Fassung dominiert die praktische Anwendung weltweit.
+- **Lokaler Berater**: Bei US-Engagement zwingend einen US-zertifizierten "CPA" oder "Enrolled Agent" oder US-Steueranwalt ("tax attorney") hinzuziehen — US-Steuerrecht extrem komplex, foederal mit Bundesstaat- und Lokalsteuern (NYC, Kalifornien, Texas).
+- **Apostille**: ZWINGEND bei Drittstaat USA; Haager Uebereinkommen anwendbar (US ist Vertragsstaat). Apostille fuer deutsche Urkunden ueber den jeweiligen Bundesland-Behoerden; US-Apostille fuer US-Urkunden ueber den US-Bundesstaat oder Department of State.
+- **Form 6166 (US-Ansaessigkeitsbescheinigung)**: Beantragung beim IRS ueber Form 8802 (gebuehrenpflichtig, 85 USD pro Antrag — vom Anwender mit aktueller IRS-Gebuehrenordnung zu verifizieren); Bearbeitung 6 Wochen bis 6 Monate.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **LOB-Klausel als Nadeloehr**: Jede US-DBA-Begehung erfordert LOB-Test (Art. 28); Pruefer triggert auf fehlende LOB-Subsumtion in Antraegen. Discretionary Benefits sind bei zustaendiger US-Behoerde (Competent Authority) zu beantragen — langwierig.
+- **US-LLC-Klassifikation**: BMF-Schreiben 19.03.2004 (BStBl. I 2004, 411) — Merkmalskatalog. Bei Single-Member LLC (transparent fuer US): "disregarded entity" — DE qualifiziert ggf. abweichend. Hybridmismatch § 4k EStG.
+- **Pension Protection Protokoll 2006**: IRA, 401(k), Roth IRA bei Wohnsitz DE — § 50d Abs. 12 EStG; Beitraege zu deutschen Riester/Rurup bei Wohnsitz USA anerkennen. Konkrete Auslegung nach BMF.
+- **Branch Profits Tax**: bei deutscher US-Filiale (effectively connected income) — US-Standard 30 Prozent national, DBA-Reduktion auf Schachtel-Dividenden-Satz (5 Prozent bei 80 Prozent Beteiligung mit Mindesthaltedauer, sonst 15 Prozent Streubesitz).
+- **§ 50a EStG Kuenstler/Sportler**: bei deutschen Veranstaltern mit US-Kuenstlern/Sportlern Quellensteuerabzug 15 Prozent (zzgl. SolZ); IRS Form 8233 fuer US-Steuerbefreiung in den USA.
+- **FATCA-Reporting**: US-Bankkonten deutscher Steuerpflichtiger werden ueber FATCA an BZSt gemeldet — Steuerhinterziehung schwer; gleichermassen US-Steuerpflichtige in DE (US-Citizen, Green Card) muessen Form 8938 / FBAR.
+- **US-Citizenship und Wegzug aus den USA**: US besteuert weltweit nach Citizenship — Aufgabe Citizenship/Green Card durch Expatriation (Form I-407 / Renunciation); IRC § 877A "Exit Tax" auf Stille Reserven.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| LLC vs. LP fuer US-Holding | LLC (Single-Member oder Multi-Member): flexibel, transparent fuer US | LP (Limited Partnership): transparent fuer US, klare Struktur | bei DE-Anteilseigner BMF-Klassifikation Pruefung; bei Hybridmismatch § 4k EStG; LLC oft komplexer fuer DE-Steuerrecht |
+| US-Quellensteuer-Ermaessigung via DBA vs. nationales Recht | DBA: Schachtel-Dividenden 5 Prozent (bei LOB-Qualifikation und Schwellenwerten) | US-national: 30 Prozent QSt auf alle Auslandseinkuenfte | DBA mit LOB-Subsumtion immer attraktiver, aber LOB-Antrag verbindlich |
+| Pension Protection bei Aliyah ueber USA und DE | Pension Protection 2006: IRA, 401(k) bei Wohnsitz DE anerkannt — Beitraege absetzbar, Auszahlung bestimmungsgemaess | ohne Pension Protection: Doppelbesteuerung droht | Pension Protection nutzen, § 50d Abs. 12 EStG |
+| US-Branch direkt vs. via DE-Holding | US-Branch (effectively connected income): hohe US-Steuer plus Branch Profits Tax | DE-Holding gruendet US-Tochter (LLC oder Corp): klassische DBA-Anwendung | bei Branch fast immer steuerlich nachteilig — US-Tochter strukturieren |
+
+## Berechnungsbeispiel
+
+DE-Mutter haelt 100 Prozent an US-Tochter-Corp (qualifizierter Person nach LOB Art. 28 Buchst. a Doppelbuchstabe ii — boersennotierte deutsche AG); Gewinn US-Tochter 1.000.000 USD, US-Federal-KSt 21 Prozent = 210.000 USD, State Tax (z.B. Kalifornien 8,84 Prozent) = 88.400 USD. Nach US-Steuer 701.600 USD; Ausschuettung an DE-Mutter:
+
+- US-QSt nach Art. 10 DBA-USA i.V.m. Protokoll 2006: 5 Prozent bei Schachtel mit Mindesthaltedauer — vom Anwender mit konsolidiertem DBA-Text Art. 10 und Protokoll 2006 zu verifizieren; angenommen 5 Prozent = 35.080 USD.
+- DE: § 8b KStG zu 95 Prozent steuerfrei; 5 Prozent (33.326 USD) fiktive nichtabziehbare BA, DE-KSt+SolZ rund 15,825 Prozent = 5.273 USD plus GewSt rund 14 Prozent = 4.666 USD. Gesamt DE rund 9.939 USD.
+- Anrechnung US-QSt 35.080 USD auf DE-Steuer? § 26 KStG i.V.m. § 34c EStG — Per-Country-Limitation US: nur bis Hoehe DE-Steuer 9.939 USD anrechnungsfaehig — Anrechnungsueberhang verloren.
+- Gesamt: US 333.480 (210k + 88.400 + 35.080) plus DE 9.939 = 343.419 USD auf 1.000.000 USD = 34,3 Prozent.
+
+Bei Wegzug DE-Anteilseigner natuerliche Person in die USA: § 6 AStG-Wegzugsbesteuerung auf Anteile (USA Drittland, harte Steuer); plus US-Exit-Tax bei spaeterem Citizenship-Aufgabe.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-kanada-2001`, `stb-dba-kuenstler-sportler-art-17-ma`.

@@ -75,6 +75,41 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - EU-MTRL bei Schachtel vorrangig.
 - Pillar Two-Mindeststeuer.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren LV → DE-Mandant**: Antrag bei VID (Valsts ieņēmumu dienests, Staatliche Finanzverwaltung); Online-Portal "EDS" (Elektroniskās deklarēšanas sistēma, vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der VID als Anlage.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Lettisch. Englische Arbeitsfassungen kursieren — nicht authentisch.
+- **Lokaler Berater**: Bei lettischer SIA (Sabiedrība ar ierobežotu atbildību, GmbH-Aequivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines lettischen "nodokļu konsultants" wegen Distribution-Tax-System (seit 2018 nach estnischem Vorbild) und spezifischer Pruefungspraxis.
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (LV seit 2004).
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **Lettisches Distribution Tax seit 2018**: Wie Estland — Besteuerung nur bei Ausschuettung. Effektive Steuer 20/80 (= 20 Prozent vom Bruttogewinn) auf Ausschuettung — vom Anwender mit aktuellem LV-Steuerrecht zu verifizieren. CFC § 7 ff. AStG pruefen wegen niedriger effektiver Belastung bei Einbehaltung.
+- **AStG-Niedrigsteuer-Schwelle 15 Prozent**: bei lettischer SIA mit ueberwiegend einbehaltenen Gewinnen effektive Steuerquote nahe 0 — CFC obligatorisch.
+- **Pillar Two seit 2024**: LV hat umgesetzt — Top-Up auf 15 Prozent fuer Konzerne ueber 750 Mio EUR Umsatz.
+- **Logistik Hafen Riga und Ventspils**: bei Logistik-/Transport-Aktivitaeten BS-Pruefung — oft kommunale lettische Lizenzpflichten.
+- **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren.
+- **§ 50d Abs. 3 EStG**: LV-Holdings ohne Substanz versagen Treaty-Schutz.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Distribution-Tax-Modell nutzen vs. CFC-Risiko | LV-SIA mit Einbehaltung: 0 Prozent KSt bei Einbehaltung | DE-CFC bei passiven Einkuenften | bei aktivem Geschaeftsbetrieb Aktivitaetskatalog nutzen; bei passiver Holding CFC obligatorisch |
+| EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent | DBA-LV: 15 Prozent Standardsatz Dividenden | EU-MTRL vorrangig |
+| Zinsen DBA-LV 10 Prozent vs. EU-ZinsLizenzRL | DBA-LV: 10 Prozent QSt | EU-ZinsLizenzRL: 0 Prozent bei verbundenen Unternehmen | EU-ZinsLizenzRL vorrangig bei Verbundenheit (Beteiligung mindestens 25 Prozent, Mindesthaltedauer 2 Jahre) |
+
+## Berechnungsbeispiel
+
+DE-Mutter haelt 100 Prozent an lettischer SIA, die ihre Gewinne ueberwiegend einbehaelt; Gewinn 200.000 EUR jaehrlich, keine Ausschuettung in 2025.
+
+- LV-KSt: 0 EUR (Distribution Tax — nur bei Ausschuettung).
+- CFC-Pruefung § 7 ff. AStG (DE-Mutter ist Kapitalgesellschaft, daher § 8 AStG): Voraussetzung Niedrigsteuer (unter 15 Prozent) und passive Einkuenfte (Aktivitaetskatalog § 8 Abs. 1 AStG).
+- Wenn passive Einkuenfte (Zinsen, Lizenzen) und Niedrigsteuer (0 Prozent effektiv): Hinzurechnungsbetrag 200.000 EUR beim DE-Anteilseigner, mit DE-KSt+SolZ rund 15,825 Prozent = 31.650 EUR plus GewSt rund 14 Prozent = 28.000 EUR. Gesamt DE rund 59.650 EUR.
+- Bei aktivem Geschaeft (z.B. Logistik): keine CFC-Hinzurechnung; Steueraufschub bis zur Ausschuettung.
+
+Bei Ausschuettung 2026 (Beispiel): LV-Distribution-Tax 20/80 = 50.000 EUR; an DE-Mutter 150.000 EUR netto; DE § 8b KStG 95 Prozent steuerfrei.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-estland`, `stb-dba-litauen`.

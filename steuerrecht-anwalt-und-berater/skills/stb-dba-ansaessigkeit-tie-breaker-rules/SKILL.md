@@ -126,6 +126,58 @@ Pruefungskaskade in dieser Reihenfolge:
 - Bei Gesellschaften: Protokolle ueber Vorstandssitzungen sind das zentrale Beweismittel.
 - MLI-Anpassung Art. 4 Abs. 3 fuehrt zu "kein DBA-Schutz ohne Verstaendigung" — kann Mandanten kalt erwischen.
 
+## Praktiker-Tipps "Schnell zum Bescheid"
+
+- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen aendern sich). Bei auslaendischen FA: IRS Form 6166 (USA, Antrag ueber Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfuer "certificado de residencia fiscal"; aktuelle Modellnummer ueber agenciatributaria.gob.es pruefen) — Bearbeitungszeit teils 4-12 Wochen.
+- **Doppelte Ansaessigkeitsbescheinigung beantragen**: solange Tie-Breaker offen ist, beide FA um Bescheinigung bitten. Spaetere Korrektur einer Bescheinigung ist mit massivem Verwaltungsaufwand verbunden.
+- **Reisekalender als Excel mit Quellbeleg**: Pruefer fragen "wie sind die Tage gezaehlt?" — Excel-Spalten Datum, Land, Beleg (Flugticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Abrechnung). Pruefer akzeptieren keine reinen Behauptungen.
+- **Drittland-Ansaessigkeit (z.B. VAE, Singapur)**: Apostille des Heimatstaats notwendig, in vielen Drittstaaten sogar Konsularbeglaubigung — Vorlaufzeit 6-10 Wochen einplanen.
+- **Online-Antrag DE-Wohnsitz-FA**: ueber ELSTER moeglich, schneller als Papier. Bei Wegzug zwingend rechtzeitig vor Wegzug stellen, da nach Abmeldung keine Wohnsitz-Ansaessigkeit mehr bescheinigt wird.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Tie-Breaker durchspielen vs. MAP beantragen | Tie-Breaker-Subsumtion eigenstaendig (ohne Behoerde) | MAP Art. 25 MA — Behoerden klaeren | bei eindeutigem Sachverhalt Pfad A; bei strittiger Beweislage Pfad B |
+| Wegzug vor Veraeusserung vs. nach Veraeusserung | Veraeusserung waehrend deutscher Ansaessigkeit — voll DE-besteuert, aber DBA-Sicherheit | Wegzug zuerst, Veraeusserung danach — § 6 AStG, ggf. Stundung | bei wesentlicher Beteiligung (> 1 Prozent) immer § 6 AStG durchrechnen |
+| Doppelte Wohnstaette aufgeben vs. erhalten | Aufgabe Wohnung im Zweitstaat — Tie-Breaker klar fuer Hauptwohnsitz | Beibehaltung — Indizientabelle / Mittelpunkt-Argumentation | bei Familie im Zweitstaat regelmaessig Pfad B; sonst Pfad A vereinfacht |
+| POEM-Klausel (alt) vs. MAP-Klausel (MLI-neu) | Alt-Klausel: objektive POEM-Pruefung | Neu-Klausel: MAP zwischen Behoerden | bei Gesellschaftsumzug: Vorab-Antrag auf MAP-Bestaetigung, sonst monatelange Unsicherheit |
+| Stundung § 6 AStG vs. Sofortzahlung | Stundungsantrag bei EU/EWR-Wegzug | Sofortzahlung | bei finanzieller Belastbarkeit Sofortzahlung — sichert Rechtsfrieden |
+
+## Was Reviewer/Pruefer triggert
+
+- **Tie-Breaker-Kaskade nicht sauber subsumiert**: Memo springt zu Stufe 4 (Staatsangehoerigkeit) ohne saubere Argumentation, warum Stufen 1-3 nicht entscheiden.
+- **Mittelpunkt der Lebensinteressen nur behauptet, nicht belegt**: keine Indizientabelle, keine Beweismittel.
+- **Familiensituation uebersehen**: Ehegatte und Kinder gewichten BFH-typisch staerker als Vermoegen.
+- **Beamtenpensionaer als "ausgewandert" behandelt**: Beamtenpension oeffentlicher Dienst loest Kassenstaat-Besteuerung aus (Art. 19), unabhaengig von Wohnsitz — Wegzug ohne Folgen fuer Pension uebersehen.
+- **§ 6 AStG-Wegzugsbesteuerung ignoriert**: bei wesentlicher Beteiligung (≥ 1 Prozent) oder bestimmten Investmentanteilen droht stille-Reserven-Auflosung; haeufig spaet bemerkt.
+- **Ansaessigkeitsbescheinigung fehlt** als Anlage zum Memo.
+
+## Subsumtionsschema Tie-Breaker (Mustertabelle)
+
+| Stufe | Kriterium Art. 4 Abs. 2 MA | Befund Mandant | Eindeutig? | Folge |
+|---|---|---|---|---|
+| 1 | Staendige Wohnstaette in einem Staat? | [Wohnung [Stadt A] gemietet, Ferienhaus [Stadt B] eigen] | [ja/nein] | wenn ja: Ansaessigkeit dort |
+| 2 | Mittelpunkt der Lebensinteressen | persoenlich: [Familie wo?]; wirtschaftlich: [Arbeitgeber/Vermoegen wo?] | [ja/nein] | wenn ja: Ansaessigkeit dort |
+| 3 | Gewoehnlicher Aufenthalt > 6 Monate | [Aufenthaltstage Staat A: ...; Staat B: ...] | [ja/nein] | wenn ja: Ansaessigkeit dort |
+| 4 | Staatsangehoerigkeit | [DE/...] | [ja/nein] | wenn ja: Ansaessigkeit dort |
+| 5 | Verstaendigungsverfahren | beide Behoerden | — | Antrag MAP |
+
+## Indizientabelle Mittelpunkt der Lebensinteressen (Vorlage)
+
+| Indiz | Staat A | Staat B | Quelle |
+|---|---|---|---|
+| Hauptwohnsitz angemeldet | [Adresse] | [Adresse] | Meldebescheinigung |
+| Ehegatte/Lebenspartner | [...] | [...] | Heiratsurkunde, Meldebescheinigung |
+| Kinder Schule/Kita | [...] | [...] | Schulbescheinigung |
+| Hauptarbeitgeber | [...] | [...] | Arbeitsvertrag |
+| Vermoegen (Hauptbankkonto, Immobilien) | [...] | [...] | Kontoauszuege |
+| Krankenversicherung | [...] | [...] | Versicherungsschein |
+| Kfz-Anmeldung | [...] | [...] | Zulassung |
+| Vereinszugehoerigkeit | [...] | [...] | Mitgliedsausweis |
+| Hausarzt / Zahnarzt | [...] | [...] | Behandlungsnachweis |
+| Aufenthaltstage (Reisekalender) | [...] | [...] | Reisekalender mit Belegen |
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen` — Aufbau und Pruefschritte.

@@ -108,6 +108,70 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 - Alte 1959-DBA-Struktur: Artikel-Nummern weichen vom OECD-MA ab — vor Zitat im Memo Stelle pruefen.
 - Erbschaftsteuer-DBA-Frankreich gesondert beachten (Doppelbesteuerung Erbschaft moeglich).
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren franzoesische Quellensteuer (retenue a la source)
+
+- **Zustaendigkeit**: franzoesische Erstattung durch **Service des Impots des Non-Residents (SIPNR)** in Noisy-le-Grand. Aktuelle Zustaendigkeit auf **impots.gouv.fr** pruefen.
+- **Antragsformulare**: in der Praxis verbreitete franzoesische Formulare **Cerfa 5000** (Antrag Quellensteuerentlastung/Reduktion auf DBA-Hoechstsatz; "Attestation de residence") und **Cerfa 5001** (Antrag Erstattung Dividenden bei Streubesitz); fuer Zinsen Cerfa 5002, fuer Lizenzen Cerfa 5003 — **konkrete Formularnummern und Bezeichnungen sind vom Anwender mit aktuellem Stand auf impots.gouv.fr zu verifizieren** (Cerfa-Nummern werden periodisch geaendert).
+- **Frist**: nach franzoesischem CGI (Code General des Impots) und Livre des procedures fiscales regelmaessig **bis 31. Dezember des zweiten Folgejahres** nach Steuerentrichtung — knappe Frist!
+- **Bearbeitungsdauer SIPNR**: typischerweise 12-36 Monate; bei strittigen Faellen erheblich laenger. Anwaltliche Vertretung empfohlen bei groesseren Erstattungsbetraegen.
+- **Online-Portal**: **impots.gouv.fr** mit eigenem Bereich "Particuliers / international" und "Professionnels"; Online-Steuerkonto fuer Nichtansaessige.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei Grenzgaenger-Pendlerfaellen mit strittigem 45-Tage-Verhalten; bei franzoesischen Beteiligungsstrukturen (SAS, SARL); bei Renten/Pensionen mit franzoesischer Securite-Sociale-Beteiligung; bei Immobilien-Eigentuemern in FR (Erbschaftsteuer-DBA). Franzoesische Avocat-fiscalistes mit DE-Mandanten.
+
+### Sprachen-Falle
+
+- **DBA-FR ist zweisprachig DE/FR** — die franzoesische Originalfassung ist regelmaessig **mitverbindlich**. Bei Auslegungsstreitigkeiten Begriffe wie "etablissement stable", "siege de direction effective", "remunerations" im Originaltext pruefen.
+- Verwaltungsvereinbarung Grenzgaenger 16.02.2006 liegt zweisprachig vor.
+
+### Online-Portale
+
+- **impots.gouv.fr**: zentrale franzoesische Steuerverwaltung.
+- **service-public.fr**: amtliche Hinweise zu Steuerverfahren.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Grenzgaenger-Status halten (Wohnsitz/Arbeit beide in 20-km-Zone) vs. Aufgeben | Wohnsitzstaat-Besteuerung, geringe Verwaltungsdichte | regulaere Art. 15 OECD-MA-Pruefung (Arbeitgeberstaat) | bei stabiler Konstellation in der Zone Status guenstiger; bei zunehmender Reisetaetigkeit Wechsel pruefen |
+| Schachteldividende FR-SA an DE-Mutter ueber DBA Art. 9 (0 Prozent Schachtel) vs. EU-MTRL | DBA bereits 0 Prozent — vorab Freistellung an FR-Quelle | EU-MTRL § 43b EStG: 0 Prozent | bei Schachtelbeteiligung beide Pfade greifen — § 43b EStG einfacher |
+| Pension FR Securite Sociale Kassenstaat vs. private Pension Wohnsitzstaat | FR-Steueranspruch (bei Kassenstaat-Klausel) | DE-Steueranspruch (bei Wohnsitz) | klare Klassifikation der Pension-Art zentral |
+| Wegzug nach FR vs. Wohnsitz halten | sofortige § 6 AStG-Wegzugsbesteuerung (bei EU-Wegzug Stundungsmoeglichkeit nach ATAD) | Wohnsitz halten, deutsche Steueranspruch | je nach stillen Reserven |
+
+## Edge Cases — was Pruefer triggert
+
+- **1959er-Norm-Nummerierung mit OECD-MA verwechseln**: Klassiker — Art. 13 Abs. 5 DBA-FR ist Grenzgaenger, NICHT Art. 15 OECD-MA. Im Memo vor Zitat Stelle pruefen.
+- **Karlsruhe oder Stuttgart als deutscher Wohnsitz mit Arbeit in Strassburg**: scheitert am Grenzzonen-Erfordernis (Karlsruhe/Stuttgart nicht in 20-km-Zone) — Grenzgaengerstatus ausgeschlossen.
+- **45-Tage-Schaedlichkeit mit Krankheitstagen verwechselt**: Krankheits- und Urlaubstage sind regelmaessig NICHT schaedlich; nur Dienstreisen/Tagungen/Schulungen zaehlen — Konkrete Zaehlung aus Verwaltungsvereinbarung 16.02.2006.
+- **Securite Sociale vs. private Pension**: franzoesische gesetzliche Renten ("Caisse Nationale d'Assurance Vieillesse") werden in der Praxis als Kassenstaat-Pensionen behandelt; berufsstaendische Caisses (AGIRC-ARRCO) gesondert.
+- **Erbschaftsteuer-DBA vs. Einkommensteuer-DBA**: Mandanten verwechseln regelmaessig die beiden DBA — Erbschaftsteuer-DBA (BGBl. 2007 II S. 900) erfasst nur ErbSt/SchenkSt, nicht laufende Einkuenfte.
+- **Konsultationsvereinbarung 20.03.2025 (BMF 19.05.2025)**: Anwendung Kassenstaatsprinzip Art. 14 Abs. 1 fuer ehemalige franzoesische Bedienstete — bei aelteren Mandanten-Memos vor 2025 pruefen.
+
+## Berechnungsbeispiel — Grenzgaenger Elsass-DE
+
+> Mandant Wohnsitz Kehl (in 20-km-Zone), Arbeit in Strassburg (in 20-km-Zone) bei FR-SARL. Bruttolohn 70.000 EUR p.a. 30 Dienstreisetage in Paris (ausserhalb Zone), unter 45-Tage-Schwelle.
+>
+> Schritt 1: Wohnsitz und Arbeitsort beide in der 20-km-Zone. 30 Nicht-Rueckkehrtage unter 45-Tage-Schaedlichkeitsschwelle. Grenzgaengerstatus erfuellt.
+>
+> Schritt 2: Wohnsitzstaat-Besteuerung (DE). FR-Arbeitgeber **kein** franzoesischer Steuerabzug bei Vorlage Grenzgaengerbescheinigung (formulaire 2042).
+>
+> Schritt 3: In DE Anlage N-AUS und Anlage AUS; volle deutsche EStG-Pflicht auf den Lohn.
+
+## Berechnungsbeispiel — Dividende FR-SA an DE-Privatperson (Streubesitz)
+
+> Mandant in DE wohnhaft, Dividende 10.000 EUR aus FR-SA. FR-Quellensteuer 12,8 Prozent (nationaler Standardsatz) = 1.280 EUR. DBA-Hoechstsatz fuer Streubesitz = 15 Prozent — nationale 12,8 Prozent darunter, keine Erstattung.
+>
+> Schritt 1: DE-Abgeltungsteuer 25 Prozent + 5,5 Prozent Soli = 26,375 Prozent von 10.000 = 2.637,50 EUR.
+>
+> Schritt 2: Anrechnung der FR-Quellensteuer nach § 32d Abs. 5 EStG (max. 15 Prozent nach DBA = 1.500 EUR; tatsaechlich nur 1.280 EUR FR-Steuer): voll anrechenbar = 1.280 EUR.
+>
+> Schritt 3: Verbleibende deutsche Steuer = 2.637,50 - 1.280 = 1.357,50 EUR.
+>
+> Anmerkung: bei Ueberhang FR-Steuer > DBA-Hoechstsatz Erstattungsantrag mit Cerfa 5000/5001 an SIPNR Noisy-le-Grand; konkrete Saetze auf impots.gouv.fr verifizieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.

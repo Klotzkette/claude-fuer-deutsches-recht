@@ -93,6 +93,69 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1333, in Kraft 30.12.2010) mit Aende
 - Bei Sportlern/Kuenstlern in UK: Art. 17 DBA, HMRC-Quellensteuer.
 - UK-Pensionen: Workplace Pension Auszahlung als Kapital — steuerliche Einordnung pruefen.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren britische Quellensteuer
+
+- **Zustaendigkeit**: britische Erstattung durch **HM Revenue & Customs (HMRC)**, Customer Compliance Group / Specialist Personal Tax / Residency. Aktuelle Zustaendigkeit auf **gov.uk/government/organisations/hm-revenue-customs** pruefen.
+- **Antragsformulare**: in der Praxis verbreitet **Form DT-Individual** (Antrag DBA-Behandlung fuer Privatpersonen) und **Form DT-Company** (fuer Kapitalgesellschaften); Selbstveranlagung Privatperson ueber **Self-Assessment** Tax Return — **konkrete Formularnummern vom Anwender mit aktuellem Stand auf gov.uk zu verifizieren**.
+- **Frist**: nach UK Tax Management Act regelmaessig **vier Jahre** ab Ende des Steuerjahres (UK-Steuerjahr 06.04.-05.04.).
+- **Bearbeitungsdauer HMRC**: 6-18 Monate; bei Self-Assessment-Korrekturen schneller.
+- **Online-Portal**: **gov.uk/log-in-register-hmrc-online-services** (HMRC Personal Tax Account); fuer Steuerberater Government Gateway. Englische Sprache vorrangig.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei jeder UK-Holding mit substanziellen britischen Quellen; bei Non-Dom-Bestandsfaellen vor 06.04.2025; bei City-Branchen-Strukturen; bei UK-Pensionen (Workplace Pensions, SIPPs). Londoner Chartered Tax Advisers (CTA) mit DE-Mandanten-Erfahrung.
+
+### Online-Portale
+
+- **gov.uk** mit HMRC-Bereichen.
+- **bzst.de** fuer Erstattung bei deutscher Quelle.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| UK-Schachteldividende nach Brexit ueber DBA (5 Prozent) vs. ohne EU-MTRL | DBA-Reduktion auf 5 Prozent — Antragsverfahren | nationale UK-Quellensteuer (UK erhebt regelmaessig 0 Prozent auf Dividenden) | seit Brexit Vorgehen pruefen — UK haeufig nationale 0 Prozent fuer Dividenden, aber MTRL nicht mehr verfuegbar |
+| FIG-Regime fuer Neuankoemmlinge (4 Jahre Befreiung) vs. ordentliche Besteuerung | 4 Jahre weitgehend befreit auslaendische Einkuenfte | volle UK-Besteuerung | bei Neuankoemmlingen mit auslaendischen Einkuenften FIG nutzen |
+| Wegzug UK vs. Wohnsitz DE halten | sofortige § 6 AStG-Wegzugsbesteuerung; **Drittland strenger** seit ATAD 2022 | Wohnsitz DE halten | wegen Drittland-Status erhebliche Wegzugslast — sorgfaeltige Planung |
+| UK Workplace Pension Auszahlung als Kapital vs. Rente | Kapital: einmalige Besteuerung, ggf. Tax-Free Cash 25 Prozent in UK | Rente: laufende Besteuerung | je nach DBA-Klausel und individueller Situation; mehrwertige Beratung erforderlich |
+
+## Edge Cases — was Pruefer triggert
+
+- **Brexit-Datum 31.12.2020**: Veranlagungszeitraeume vor/nach Brexit unterschiedlich behandeln. Mutter-Tochter-Richtlinie und Zins-/Lizenz-Richtlinie ab 01.01.2021 nicht mehr anwendbar — DBA-Hoechstsaetze gelten unmittelbar.
+- **Non-Dom-Reform 06.04.2025**: altes Remittance-Basis-System abgeschafft. Bestandsfaelle vor 2025 anders zu behandeln als Faelle ab 2025 (FIG-Regime).
+- **Domicile-Status (UK-Recht)**: unterscheidet "resident", "ordinarily resident", "domiciled" — fuer DBA "ansaessig" entscheidend Art. 4. Bei Non-Dom-Status vor 2025 oft DBA-Schutz bei Remittance-Basis fraglich.
+- **Workplace Pension / SIPP**: UK Workplace Pensions koennen 25 Prozent steuerfrei ausgezahlt werden (Tax-Free Cash) — wie ist diese Auszahlung im DBA Art. 17 zu klassifizieren? Wohnsitzstaat oder Kassenstaat?
+- **City-Branche mit deutscher Holding**: nach Brexit ohne MTRL — Quellensteuer bei Dividenden. Substanzpruefung scharf.
+- **EU-Recht-Argumente verworfen**: nach Brexit keine EU-Grundfreiheiten mehr — alte Mandanten-Memos mit Bezug auf Grundfreiheiten (z.B. Niederlassungsfreiheit) auf Drittland-Status anpassen.
+
+## Berechnungsbeispiel — UK-Schachteldividende nach Brexit
+
+> UK-Ltd (London, brexitbedingt Drittstaat) schuettet 500.000 EUR Dividende an deutsche Holding (Beteiligung 100 Prozent, Haltedauer 6 Jahre).
+>
+> Schritt 1: EU-MTRL **nicht** mehr anwendbar (Brexit).
+>
+> Schritt 2: DBA-UK Art. 10: Schachtel 5 Prozent — aber UK erhebt **national 0 Prozent** Quellensteuer auf Dividenden. Effektiv 0 Prozent Belastung an Quelle.
+>
+> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA; § 50d Abs. 3 EStG-Substanztest bei UK-Tochter zentral.
+>
+> Anmerkung: Aktuelle UK-Quellensteuersaetze auf gov.uk verifizieren — nationaler 0-Prozent-Standard war bisher robust.
+
+## Berechnungsbeispiel — UK Workplace Pension an DE-Wohnsitz
+
+> Deutscher Rentner Wohnsitz Hamburg, UK Workplace Pension Auszahlung als Kapital 80.000 GBP (~ 95.000 EUR).
+>
+> Schritt 1: UK Tax-Free Cash 25 Prozent = 20.000 GBP steuerfrei in UK (bis 2024 alte Regel; ab 2025 angepasste Lump Sum Allowance LSA — aktuellen Stand pruefen).
+>
+> Schritt 2: Restliche 60.000 GBP UK Income Tax-pflichtig — Versteuerung in UK nach Self-Assessment.
+>
+> Schritt 3: DBA-UK Art. 17 Pension — Klassifikation als private Pension typischerweise Wohnsitzstaat (DE).
+>
+> Schritt 4: Bei Klassifikation Wohnsitzstaat: in DE Versteuerung mit Anrechnung UK-Steuer; in UK Erstattung der UK-Income Tax via Form DT-Individual.
+>
+> Schritt 5: Bei strittiger Klassifikation Verstaendigungsverfahren Art. 25 DBA.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-irland`.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-orientierung
-description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a, 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills."
+description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills."
 ---
 
 # Fachanwalt für Familienrecht — Orientierung

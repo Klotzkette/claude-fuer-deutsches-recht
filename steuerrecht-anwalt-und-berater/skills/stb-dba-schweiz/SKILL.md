@@ -109,6 +109,69 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - Schachtel-Dividenden Schweiz-Deutschland: Schweizer Verrechnungssteuer nationaler Satz 35 Prozent (Art. 13 VStG), Erstattung auf DBA-Hoechstsatz durch die Eidgenoessische Steuerverwaltung (ESTV), nicht durch das BZSt. Antragsformulare auf estv.admin.ch.
 - Konsultationsvereinbarung Home-Office DE-CH: Pruefung bei zunehmenden Home-Office-Tagen.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren Schweizer Verrechnungssteuer (35 Prozent)
+
+- **Zustaendigkeit**: Schweizer Verrechnungssteuer wird **nicht** durch das BZSt erstattet, sondern durch die Eidgenoessische Steuerverwaltung (ESTV) in Bern, Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben.
+- **Antragsformulare**: Aktuelle Formulare und Verfahrensanweisungen abrufbar auf **estv.admin.ch** im Bereich Verrechnungssteuer/Internationale Quellensteuer — vom Anwender mit aktuellem Stand zu verifizieren (Formularbezeichnungen aendern sich periodisch).
+- **Frist**: nach Schweizerischem Verrechnungssteuergesetz (VStG) regelmaessig **drei Jahre** ab Faelligkeit des steuerpflichtigen Ertrags — sehr knapp! Frueh stellen.
+- **Bearbeitungsdauer ESTV**: Erfahrungswert 4-12 Monate; bei strittigen Faellen deutlich laenger. Anwaltliche Vertretung sinnvoll bei groesseren Erstattungsbetraegen.
+- **Sprache**: Eingaben moeglich in DE/FR/IT/EN; bei Schweizer Behoerden bevorzugt **Deutsch** (Bern).
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei Pauschalbesteuerung in der Schweiz, bei zweiter/dritter Saeule-Auszahlung, bei Wegzugsfaellen mit Schweizer Substrat — Schweizer Steuerberater (Treuhaender) einbinden. KMU-Kanzleien mit DBA-Erfahrung in Basel/Zuerich/Bern.
+- **Trigger fuer Berater-Einbindung**: kantonale Steuerunterschiede koennen erheblich sein (Zuerich vs. Zug vs. Schwyz); Pension dritte Saeule (3a) hat kantonale Sondersaetze.
+
+### Online-Portale
+
+- **estv.admin.ch**: Schweizer Verrechnungssteuer-Erstattung, Wegleitungen, MLI-Status.
+- **bzst.de**: BZSt-Antragsverfahren bei deutschen Quellen.
+- **Eidgenoessisches Steueramt**: aktuelle Kreisschreiben (KS) zur Verrechnungssteuer.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Wegzug in die Schweiz vs. Beteiligung als deutscher Steuerpflichtiger halten | sofortige Wegzugssteuer § 6 AStG (bei Drittstaat Schweiz strenger), aber dann freie Verfuegung | Beteiligung halten, deutsche KSt/EStG-Pflicht weiter; Schenkung an in DE wohnenden Familienangehoerigen vor Wegzug pruefen | je nach stillen Reserven, Familienkonstellation, kuenftiger Veraeusserungsabsicht; Frueh-Beratung essenziell |
+| Schweizer Pauschalbesteuerung waehlen vs. ordentlich besteuert werden | niedrigere Steuer in CH, aber **kein voller DBA-Schutz**, Doppelbesteuerung droht | volle DBA-Berechtigung, aber hoehere Schweizer Steuerlast | bei hohem Auslandseinkommen: ordentliche Besteuerung wegen DBA-Schutz oft vorteilhafter |
+| Pension zweite Saeule (BVG) Auszahlung als **Kapital** vs. **Rente** | Kapital-Auszahlung: in CH einmalige niedrigere Besteuerung; in DE Lohn-/Kapitalbehandlung strittig | Rente: laufende Besteuerung beider Staaten, Anrechnung | bei groesseren Betraegen Berechnung beider Pfade in Mandanten-Memo; Wohnsitzwechsel beachten |
+| Grenzgaenger-Status (60-Tage-Regel) halten vs. echter Schweizer Wohnsitz | DE-Steuer-Wohnsitz, deutsche EStG-Anrechnung der CH-Quellensteuer 4,5 Prozent | CH-Wohnsitz, in CH besteuert (kantonal+Bund), § 6 AStG-Wegzug | bei stabilen 60-Tage-Verhaeltnissen Grenzgaenger guenstiger; bei zunehmender Reisetaetigkeit Wohnsitz CH pruefen |
+
+## Edge Cases — was Pruefer triggert
+
+- **"Alte 4-Tage-Regel" (vor 2006)**: in aelteren Mandanten-Memos oft noch zitiert; ab 2007 abgeloest durch die heutige 60-Tage-Schaedlichkeit. Bei Bezug auf 4-Tage-Regel: Veranlagungszeitraum pruefen.
+- **Mehrtaegige Schulungen/Tagungen in der Schweiz**: jede Uebernachtung ausserhalb des deutschen Wohnsitzes zaehlt regelmaessig schaedlich, auch bei dienstlicher Veranlassung (BFH-Praxis verifikationspflichtig).
+- **Dienst nach 22 Uhr**: in der Praxis als schaedlicher Tag gewertet, wenn Heimkehr objektiv unzumutbar wird — sorgfaeltig dokumentieren (Bahnverbindungen).
+- **Pauschalbesteuerung-Mandant fragt nach DBA-Erstattung**: Standardfalle — pauschalbesteuerte Personen sind **nicht voll abkommensberechtigt**, BZSt-/ESTV-Erstattung scheitert oft.
+- **CH-Bank ueberweist Dividende mit 35 Prozent VST**: Erstattung des Differenzbetrags zum DBA-Hoechstsatz (15 Prozent fuer Streubesitz, 5 Prozent fuer Schachtel) bei ESTV beantragen — Frist 3 Jahre beachten.
+- **Schweizer Quellensteuer auf Lohn-Grenzgaenger (4,5 Prozent) nicht eingezogen**: bei Direktbezug aus DE-Arbeitgeber-Tochter pruefen, ob Schweizer Lohnsteuersystem zustaendig war; rueckwirkende Korrektur muehsam.
+
+## Berechnungsbeispiel — Grenzgaenger Schweiz
+
+> Mandant Wohnsitz Konstanz, Arbeit in Zuerich bei CH-AG. Bruttolohn 120.000 CHF p.a. = ca. 124.000 EUR. Arbeitstaegliche Rueckkehr, 45 Nicht-Rueckkehrtage (unter 60-Tage-Schwelle).
+>
+> Schritt 1: Grenzgaengerstatus erfuellt (Art. 15a DBA-CH). Schweizer Quellensteuer 4,5 Prozent (Hoechstsatz Art. 15a, verifikationspflichtig) = 5.580 EUR.
+>
+> Schritt 2: Deutscher Wohnsitz, EStG-Pflicht auf Welteinkommen. Anrechnung nach § 34c EStG: Schweizer 4,5 Prozent voll anrechenbar (sehr niedrig im Verhaeltnis zur deutschen Steuer).
+>
+> Schritt 3: Anlage N-AUS und Anlage AUS einreichen mit Schweizer Quellensteuerbescheinigung der CH-ESTV.
+>
+> Anmerkung: Tatsaechliche Werte aus DBA-Text Art. 15a und aktueller Konsultationsvereinbarung uebernehmen.
+
+## Berechnungsbeispiel — Schachteldividende CH-Bank an DE-Holding
+
+> Schweizer AG schuettet 1.000.000 EUR an deutsche Holding (Beteiligung 25 Prozent). CH-Verrechnungssteuer-Einbehalt: 35 Prozent (Art. 13 VStG) = 350.000 EUR.
+>
+> Schritt 1: DBA-Hoechstsatz Art. 10 DBA-CH fuer Schachtel = 5 Prozent. Erstattung 30 Prozent = 300.000 EUR via ESTV beantragen.
+>
+> Schritt 2: Verbleibender Schweizer Steuersatz 5 Prozent = 50.000 EUR.
+>
+> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA. Schweizer 5 Prozent CH-VST kann auf deutsche KSt nach § 26 KStG/§ 34c EStG nur sehr begrenzt angerechnet werden (auf den steuerpflichtigen Teil) — in der Praxis oft Wirtschaftslast.
+>
+> Anmerkung: konkrete Saetze und Verfahren aus DBA-Text und ESTV-Wegleitung pruefen.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.

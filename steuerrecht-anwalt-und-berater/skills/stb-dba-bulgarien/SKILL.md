@@ -83,6 +83,40 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 - Pflege-Arbeitnehmer: A1 und 183-Tage-Regel.
 - EU-MTRL Schachtel vorrangig.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren BG → DE-Mandant**: Antrag bei der NRA (Natsionalna agentsiya za prihodite, Nationale Steueragentur); Online-Portal der NRA (vom Anwender mit aktuellem Stand des bulgarischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der NRA als Anlage.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch, Bulgarisch und Englisch (DBA-Bulgarien 2010 als modernes DBA trilingual; bei strittiger Auslegung Englisch als praktische Pivot-Sprache).
+- **Lokaler Berater**: Bei bulgarischer EOOD (GmbH-Aequivalent) oder OOD mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines bulgarischen "danachen konsultant" wegen niedriger KSt 10 Prozent und einfacherer Pruefungspraxis; aber: Substanznachweis fuer DE-Erstattung wird streng geprueft.
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (BG seit 2007 EU).
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **BG-KSt 10 Prozent — niedrigste EU-Rate**: zwingend unter AStG-Niedrigsteuerschwelle 15 Prozent — CFC-Hinzurechnung bei passiven Einkuenften.
+- **Pillar Two Top-Up**: BG hat EU-Pillar-Two-RL umgesetzt; multinational ueber 750 Mio EUR Umsatz unterliegen Top-Up auf 15 Prozent — fuer KMU bleibt 10-Prozent-Vorteil.
+- **Aenderungsprotokoll 2022/2023**: zum 13.12.2023 in Kraft getreten — Neuerungen pruefen, insbesondere Anti-Missbrauch und Schiedsverfahren.
+- **Pflege-Arbeitnehmer aus Bulgarien in DE**: oft Konstruktion ueber bulgarische Service-Gesellschaft mit Entsendung nach DE; Lohnsteuer-Pruefung nach 183-Tage-Regel; A1-Bescheinigung nach EU-VO 883/2004.
+- **IT-Outsourcing-Substanz**: Pruefer hinterfragt bei reinen Off-the-Shelf-Holdings ohne Personal in BG.
+- **Bulgarische Sondersteuern**: zusaetzlich zur 10-Prozent-KSt erhebt BG diverse lokale Abgaben (Gewerbeflaechensteuer, Tourismussteuer), die durch DBA NICHT erfasst sind.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| BG-Holding 10 Prozent vs. CFC-Hinzurechnung | BG-Tochter operativ aktiv: 10 Prozent KSt-Vorteil | DE-CFC bei passiven Einkuenften: Hinzurechnung mit DE-Steuersatz | bei aktivem Geschaeft Aktivitaetskatalog § 8 AStG pruefen; bei passiver Holding fast immer CFC |
+| EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent | DBA-BG: 5 Prozent ab 10 Prozent | EU-MTRL vorrangig (§ 43b EStG) |
+| Pflege-Service mit BG-Gesellschaft vs. direkte AUe | BG-Werkvertrag-Service nach DE: keine deutsche Lohnsteuer bei korrekter Werksvertragsgestaltung | direkte Arbeitnehmerueberlassung nach AUeG mit Erlaubnis | bei korrektem Service-Vertrag (Werkvertrag, Selbstaendigkeit der BG-Gesellschaft) Steuerprivileg; aber Vorsicht: BAG-Rechtsprechung qualifiziert oft AUe — Beratungsbedarf |
+
+## Berechnungsbeispiel
+
+DE-Mutter haelt 100 Prozent an bulgarischer EOOD; BG-Gewinn 150.000 EUR, BG-KSt 10 Prozent = 15.000 EUR. Ausschuettung 135.000 EUR an DE-Mutter:
+
+- BG-QSt: 0 Prozent nach EU-MTRL (§ 43b EStG, ab 10 Prozent Schachtel).
+- DE: § 8b KStG 95 Prozent steuerfrei; 5 Prozent (6.750 EUR) fiktive nichtabziehbare BA, DE-KSt+SolZ rund 15,825 Prozent = 1.068 EUR; GewSt rund 14 Prozent = 945 EUR. Gesamt DE rund 2.013 EUR.
+- Gesamtbelastung: BG-KSt 15.000 + DE 2.013 = 17.013 EUR auf 150.000 EUR = 11,3 Prozent.
+- Pillar-Two-Pruefung: Effektive Steuerquote 10 Prozent in BG unter 15 Prozent. Bei Konzern ueber 750 Mio EUR Umsatz: Top-Up-Tax 5 Prozentpunkte (BG-Gewinn 150.000 EUR x 5 Prozent = 7.500 EUR).
+- CFC-Pruefung § 7 ff. AStG: bei aktivem BG-Geschaeft keine Hinzurechnung; bei passiven Einkuenften (Lizenzen, Zinsen) Hinzurechnung mit DE-Steuersatz, abzueglich BG-KSt-Anrechnung.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rumaenien`, `stb-dba-ungarn`.

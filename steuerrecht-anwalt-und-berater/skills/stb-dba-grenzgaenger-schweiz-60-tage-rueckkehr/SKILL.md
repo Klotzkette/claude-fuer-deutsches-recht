@@ -107,6 +107,77 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 - Schweizer Quellensteuer-Anrechnung scheitert oft mangels Beleg — Quellensteuerbescheinigung anfordern.
 - Anpassung Lohnsteuer-Klasse moeglich, wenn beide Ehepartner in DE wohnen aber einer in CH arbeitet.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren / Verfahren bei CH-Quellensteuer
+
+- **Zustaendigkeit**: Schweizer Quellensteuerbescheinigung wird vom Schweizer Arbeitgeber und der kantonalen Steuerverwaltung ausgestellt. Verrechnungssteuer-Erstattung bei Dividenden durch **Eidgenoessische Steuerverwaltung (ESTV)** in Bern.
+- **Formulare/Bescheinigungen**: 
+  - **KAS-Bescheinigung** (Kantonale Ansaessigkeitsbescheinigung Schweiz): das in der Praxis verbreitete Dokument fuer den Nachweis des Schweizer Quellensteuer-Einbehalts (Form 85 / Form 86 je nach Kanton — **konkrete Formularbezeichnungen vom Anwender mit aktuellem Stand auf estv.admin.ch und der kantonalen Steuerverwaltung zu verifizieren**).
+  - Bescheinigung Schweizer Arbeitgeber ueber arbeitstaegliche Rueckkehr (Grenzgaengerbescheinigung).
+- **Frist**: Verrechnungssteuer-Erstattung drei Jahre ab Faelligkeit; Quellensteuer-Anrechnung in DE bei der Veranlagung des Jahres.
+- **Online-Portale**: 
+  - **estv.admin.ch**: Schweizer ESTV.
+  - **kantonale Steuerverwaltungen** (z.B. zh.ch/steueramt fuer Zuerich, ag.ch/steueramt fuer Aargau, bs.ch fuer Basel-Stadt) fuer Lohn-Quellensteuer.
+  - **bzst.de**: BZSt fuer deutsche Erstattungen.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei strittigen 60-Tage-Verhaeltnissen mit substanziellen Reisetagen, bei Mischfaellen Home-Office/Drittlandsreise, bei zweiter/dritter Saeule-Auszahlung, bei Wegzug. Schweizer Treuhaender in Basel/Zuerich/Schaffhausen mit DE-Grenzgaenger-Mandantenschaft.
+
+### Sprache
+
+- DBA-Text DE/FR/IT dreisprachig — Schweizer Originaltext Deutsch verbindlich.
+- Schweizer Bescheinigungen je nach Kanton DE/FR/IT.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Grenzgaengerstatus halten (max. 60 Nicht-Rueckkehrtage) | Wohnsitzstaat-Besteuerung DE mit CH-Quellensteuer 4,5 Prozent | Schaedlichkeitsverletzung — Art. 15 OECD-MA mit voller CH-Besteuerung und Anrechnung in DE | bei stabilen 60-Tage-Verhaeltnissen Status klar guenstiger (deutscher Tarif typischerweise niedriger als CH-kantonal+Bund) |
+| Wohnsitz DE + Arbeit CH (Grenzgaenger) vs. Wohnsitz CH (Wegzug) | DE-Besteuerung mit CH 4,5 Prozent QSt anrechenbar | CH-Wohnsitz mit kantonalen Saetzen (Zug niedrig, Genf hoch); aber § 6 AStG-Wegzugssteuer | bei stillen Reserven Wegzug teuer; bei Karriere CH-Wohnsitz bei Zug/Schwyz attraktiv |
+| Home-Office (in DE) vs. Buero (in CH) | Home-Office-Tage in DE — nach Konsultationsvereinbarung als Rueckkehrtag qualifizierbar | Buero in CH — schaedlich, wenn keine Heimkehr | Konsultationsvereinbarung pruefen; Heimkehr-Praxis aktualisieren |
+| Mehrtaegige Dienstreise (3 Tage in CH bei Konferenz) vs. tagsueber-Reise (Heimkehr abends) | 3 schaedliche Tage | 0 schaedliche Tage | bei Konferenzen mit Heimkehr-Option vorab planen |
+
+## Edge Cases — was Pruefer triggert
+
+- **"Alte 4-Tage-Regel" vor 2006**: in aelteren Mandanten-Memos zitiert; ab 2007 abgeloest durch 60-Tage-Schaedlichkeit. Veranlagungszeitraum pruefen.
+- **Dienst nach 22 Uhr**: BFH-Praxis ist verifikationspflichtig — in der Praxis als schaedlicher Tag gewertet, wenn Heimkehr objektiv unzumutbar (Bahn-/Verbindungssperre nach 22 Uhr).
+- **Mehrtaegige Schulungen in Z\"urich**: jede Uebernachtung ausserhalb des deutschen Wohnsitzes schaedlich, auch bei dienstlicher Veranlassung.
+- **Krankheit/Kur/Urlaub**: NICHT schaedlich — sauber dokumentieren mit Krankenscheinen/Urlaubsantraegen/Kurbestaetigungen.
+- **Pauschalbesteuerung-Mandant**: nicht voll abkommensberechtigt; Grenzgaenger-Quellensteuer-Verfahren scheitert.
+- **Wohnsitz Loerrach + Arbeit Basel**: klassischer 60-Tage-Fall — meist unproblematisch wegen taeglicher Pendelfaehigkeit.
+- **Drittlandsreisen** (z.B. Wartung in Frankreich): jede Uebernachtung ausserhalb DE schaedlich.
+- **Schichtwechsel Spaet/Nacht** mit Schweizer Arbeitgeber: 22-Uhr-Regelung pruefen; Schichtende nach 22 Uhr und unzumutbare Heimkehr — schaedlich.
+- **Doppelhaushalt** (Familienwohnsitz Stuttgart, Zweitwohnung Loerrach fuer Pendelei): Tie-Breaker Art. 4 Familienwohnsitz; Grenzgaengerstatus nur bei einheitlichem DE-Wohnsitz.
+- **Anpassung KAS-Bescheinigung**: kantonale Unterschiede — bei Wechsel Zuerich/Aargau/Basel-Stadt jeweils neu beantragen.
+
+## Berechnungsbeispiel — Grenzgaenger Loerrach-Basel
+
+> Mandant Wohnsitz Loerrach (DE), Arbeit in Basel (CH) bei CH-Bank. Bruttolohn 140.000 CHF p.a. = ca. 145.000 EUR. 35 Home-Office-Tage in Loerrach (gemaess Konsultationsvereinbarung als Heimkehrtage qualifizierbar), 25 Geschaeftsreisen-Tage in CH ausserhalb Basel (ueber Nacht), 20 Drittlands-Geschaeftsreisen (3 Tage durchschnittlich = 60 Nights — STOP).
+>
+> Schritt 1: 60 Drittlandsreisenaechte ergaeben bereits 60 schaedliche Tage. Plus 25 CH-Reisenaechte = 85 schaedliche Tage. Schaedlichkeitsverletzung.
+>
+> Schritt 2: Grenzgaengerstatus verloren. Rueckkehr zu Art. 15 OECD-MA: 183-Tage-Pruefung. Bei mehr als 183 Tagen physisch in CH: volle CH-Besteuerung Lohn.
+>
+> Schritt 3: CH-Quellensteuer auf 140.000 CHF kantonal+Bund ca. 25-30 Prozent = ca. 35.000-42.000 CHF. In DE: Anrechnung nach § 34c EStG, max. deutsche Steuer auf den Schweizer Anteil.
+>
+> Schritt 4: Vorab planen: Reisetage reduzieren oder Status-Wechsel akzeptieren.
+
+## Berechnungsbeispiel — saubere Grenzgaenger-Konstellation
+
+> Gleicher Mandant, aber nur 30 schaedliche Tage (15 Geschaeftsreisen CH ausserhalb Basel, 15 Drittlandsreisen, je 1 Nacht). 250 Bueroarbeitstage Basel mit taeglicher Heimkehr, 35 Home-Office Loerrach.
+>
+> Schritt 1: 30 schaedliche Tage unter 60-Tage-Schwelle. Grenzgaengerstatus erfuellt.
+>
+> Schritt 2: Wohnsitzstaat-Besteuerung DE. CH-Quellensteuer 4,5 Prozent (Hoechstsatz Art. 15a, verifikationspflichtig) = ca. 6.525 EUR.
+>
+> Schritt 3: In DE: Welteinkommen-Erklaerung Anlage N-AUS und AUS. Deutsche EStG auf 145.000 EUR ca. 45.000-50.000 EUR; Anrechnung CH-QSt 6.525 EUR voll.
+>
+> Schritt 4: Verbleibende deutsche Steuerlast ca. 38.500-43.500 EUR.
+>
+> Schritt 5: Vergleich Schaedlichkeitsfall (vorheriges Beispiel): Status-Erhalt spart erhebliche CH-Steuer und nutzt deutsche guenstigere Tarife.
+
 ## Querverweise
 
 - `stb-dba-schweiz` — Grunddokumentation DBA-Schweiz.

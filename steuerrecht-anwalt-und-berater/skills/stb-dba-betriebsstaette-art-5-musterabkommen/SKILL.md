@@ -127,6 +127,62 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 - MLI Art. 12 (Vertreterbetriebsstaette erweitert) gilt nur, wenn beide Vertragsstaaten optiert haben — Notification konkret pruefen.
 - Bei niedrig besteuerter Betriebsstaette: § 20 Abs. 2 AStG-Switch-Over droht.
 
+## Praktiker-Tipps "Schnell zum Bescheid"
+
+- **Bauausfuehrungs-Fristenlauf taggenau dokumentieren**: Beginn (Vertragsschluss vs. Beginn der Baustelleneinrichtung — letzteres zaehlt im OECD-Kommentar), Unterbrechungen (Winterpause; bei DBA mit aktiviertem MLI Art. 14: 30-Tage-Unterbrechungen werden nicht abgezogen, sofern verbundene Auftraege). Excel-Pflicht.
+- **Verfuegungsmachts-Schwelle bei Home-Office**: Mietvertrag des Arbeitgebers ueber Wohnraum oder dauerhafte Anweisung "ab heute hauptsaechlich Home-Office" macht Home-Office zur BS — Pruefer suchen genau diese Indizien in den Personalakten.
+- **Vertreterbetriebsstaette: Vertraege gegenchecken**: nach MLI Art. 12 reicht die "Hauptrolle beim Zustandekommen". Pruefer schauen, ob Vertrieb vor Ort Quittungs- und Kundenkommunikationsbefugnis hat — Vertragsmuster und CRM-Datenanalyse.
+- **Lokales Filing nicht vergessen**: viele Staaten verlangen vor Tag 1 Aktivitaet eine Anzeigemeldung (z.B. Frankreich Bureau de Liaison, UK Permanent Establishment Notification). Im DE-Bereich Anlage AESt nicht vergessen.
+- **AOA-Dokumentation mitliefern**: BsGaV (Betriebsstaettengewinnaufteilungsverordnung) verlangt eine Hilfs- und Nebenrechnung — pruefer freuen sich ueber lieferfertige FRA (Function-Risk-Asset)-Tabelle ab Tag 1.
+- **Konsultationsvereinbarungen Home-Office**: aktuell mit Luxemburg dauerhaft im Aenderungsprotokoll vom 06.07.2023 verankert (Bagatellgrenze 34 Tage), Niederlande analog ab 01.01.2026 (Aend.-Prot. 14.04.2025). Andere Staaten teils befristet — BMF-Verzeichnis pruefen.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Tochter im Ausland gruenden vs. BS unterhalten | Tochter (Capital Company) — eigenstaendige Besteuerung, aber Compliance | BS — Gewinnabgrenzung AOA, keine separate Rechtspersoenlichkeit | bei dauerhaftem Geschaeftsbetrieb meist Tochter; bei Pilotprojekt BS |
+| BS bewusst vermeiden vs. anerkennen | Aktivitaeten reduzieren auf Vorbereitung/Hilfsfunktion, Mitarbeiter ohne Vollmacht | BS akzeptieren, AOA-Doku aufbauen | bei lukrativen lokalen Maerkten BS akzeptieren, Steuerersparnis durch Freistellungsmethode oft attraktiver |
+| Anti-Fragmentierung: Strukturoptimierung | Aktivitaeten auf mehrere verbundene Unternehmen aufteilen — vor BEPS oft genutzt | Aktivitaeten zentralisieren, eine klare BS | seit MLI Art. 13: Pfad A scheitert regelmaessig — Pfad B sicherer |
+| Server-BS vs. Server-Cloud | dedizierter Server vor Ort (Verfuegungsmacht) — kann BS sein | Cloud-Hosting (Drittanbieter) — regelmaessig keine BS | bei E-Commerce: Cloud-Hosting bevorzugen, wenn Quellenstaat-Steuer vermieden werden soll |
+| Switch-Over hinnehmen vs. aktive Einkuenfte erzeugen | passive BS-Einkuenfte > 25 % der BS-Einnahmen — § 20 Abs. 2 AStG | Aktivierung (z.B. echte Vertriebs- oder Produktionstaetigkeit dazu) | bei strukturellem Switch-Over Pfad B planen, sonst Freistellungsverlust |
+
+## Was Reviewer/Pruefer triggert
+
+- **Verfuegungsmacht behauptet ohne Mietvertrag oder Anweisung**: bei Home-Office, Kundenraeumen, Sponsorenflaechen.
+- **Bauausfuehrung-Frist falsch berechnet**: Beginn mit Vertragsschluss statt mit physischem Beginn der Baustelle; Unterbrechungen zu Unrecht abgezogen.
+- **MLI Art. 12/13 ignoriert**, obwohl beide Staaten kongruent notifiziert haben.
+- **Anti-Fragmentierung uebersehen**: Aktivitaeten auf Schwestergesellschaften aufgeteilt, Memo argumentiert pro Standort isoliert.
+- **AOA-Gewinnabgrenzung fehlt** oder ohne Dotationskapital — fuehrt zur Schaetzung durch FA.
+- **Doppelte Compliance**: Local Filing im BS-Staat versaeumt; deutsche Anlage AESt fehlt.
+- **Tochter automatisch als BS behandelt** (Art. 5 Abs. 7) — falsch, nur faktische Geschaeftsleitung der Mutter kann BS-Wirkung haben.
+
+## BS-Pruefraster (Mustertabelle)
+
+| Pruefpunkt | DBA-Norm / nat. Recht | Befund Mandant | Ergebnis |
+|---|---|---|---|
+| Feste Geschaeftseinrichtung | Art. 5 Abs. 1 DBA | [Buero/Werkstatt/Server] | [ja/nein] |
+| Verfuegungsmacht | Art. 5 Abs. 1 DBA | [Mietvertrag/Eigentum/dauerhafte Nutzung] | [ja/nein] |
+| Festigkeit (raeumlich-funktional) | Art. 5 Abs. 1 DBA | [Dauer; > 6 Monate Indiz] | [ja/nein] |
+| Aktivitaet | Art. 5 Abs. 1 DBA | [Personal/Anlage taetig] | [ja/nein] |
+| Bauausfuehrung-Dauer | Art. 5 Abs. 3 DBA | [12 Monate / abweichend; Subunternehmer addiert] | [ueberschritten/nicht] |
+| Vorbereitungs-/Hilfstaetigkeit (negativ) | Art. 5 Abs. 4 DBA + MLI Art. 13 | [Lager/Wareneinkauf/Information; Anti-Fragmentierung] | [Ausnahme greift / greift nicht] |
+| Vertreter-BS | Art. 5 Abs. 5/6 DBA + MLI Art. 12 | [Vollmacht oder Hauptrolle; verbundenes Unternehmen?] | [ja/nein] |
+| Switch-Over passive BS | § 20 Abs. 2 AStG | [passive Einkuenfte > 25 %?] | [Switch greift / greift nicht] |
+
+## Berechnungsbeispiel AOA-Gewinnabgrenzung (schematisch)
+
+| Position | Wert | Quelle |
+|---|---|---|
+| BS-Umsatz Auslandsland | 1.000.000 EUR | lokale Buchhaltung |
+| BS-Kosten (Personal, Material, Miete) | 700.000 EUR | lokale Buchhaltung |
+| Dealings (Innenleistungen Stammhaus → BS) | 100.000 EUR | Verrechnungspreis fremdueblich |
+| Dotationskapital | 500.000 EUR | FRA-Analyse |
+| BS-Gewinn vor lokaler Steuer | 200.000 EUR | (Umsatz - Kosten - Dealings) |
+| Lokale Steuer (z.B. 25 Prozent) | 50.000 EUR | lokaler Steuerbescheid |
+| Behandlung in DE | Freistellung (Art. 23A DBA) oder Anrechnung (Art. 23B DBA, § 34c EStG) | DBA-Methodenartikel |
+
+(**Werte sind Beispiel — konkrete Aufteilung nach BsGaV und DBA-Aktivitaetsklausel pruefen.**)
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen` — Pruefkette.

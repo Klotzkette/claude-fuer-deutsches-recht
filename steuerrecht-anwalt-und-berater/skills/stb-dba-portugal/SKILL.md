@@ -83,6 +83,70 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 - Pensionsbesteuerung bei Wohnsitz Algarve: Anrechnungsmethode in DBA-Portugal — Anrechnungslimit kann zu hoeherer Belastung fuehren als bei DBA mit Freistellung.
 - EU-MTRL geht DBA bei Schachtel-Dividenden vor.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren portugiesische Quellensteuer
+
+- **Zustaendigkeit**: portugiesische Erstattung durch **Autoridade Tributaria e Aduaneira (AT)**, Direccao de Servicos das Relacoes Internacionais. Aktuelle Zustaendigkeit auf **portaldasfinancas.gov.pt** pruefen.
+- **Antragsformulare**: portugiesische Modelos (z.B. Modelo 21-RFI) zur Quellensteuer-Erstattung nach DBA; **konkrete Modelo-Nummern vom Anwender mit aktuellem Stand auf portaldasfinancas.gov.pt zu verifizieren** (Modelos werden periodisch aktualisiert).
+- **Frist**: nach portugiesischem LGT regelmaessig **zwei Jahre** ab Steuerentrichtung — sehr knapp! Frueh stellen.
+- **Bearbeitungsdauer AT**: 12-30 Monate.
+- **Online-Portal**: **portaldasfinancas.gov.pt** mit NIF/Passwort-Zugang.
+- **Sprache**: PT vorrangig; EN teilweise verfuegbar — bei groesseren Erstattungen portugiesischen Berater (advogado fiscal/contabilista) einbinden.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei NHR-/IFICI-Statusfragen; bei Algarve-Immobilien mit Vermietung; bei Madeira-Holding-Strukturen; bei DRV-Renten an Algarve-Wohnsitz. Kanzleien in Lissabon, Porto und Faro mit deutscher Mandantenschaft.
+
+### Online-Portale
+
+- **portaldasfinancas.gov.pt**: portugiesische Steuerverwaltung.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung auslaendischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI fuer Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur ueber IFICI |
+| Algarve-Wohnsitz mit Pension DBA-Anrechnung vs. DE-Wohnsitz | PT-Besteuerung auslaendischer Pensionen (auch DRV); DE-Anrechnung max. DE-Steuer | DE-Wohnsitz: nur deutsche Besteuerung | bei NHR/IFICI Algarve guenstiger; ohne NHR mit deutscher EStG-Belastung haeufig DE-Wohnsitz besser |
+| Madeira-Holding (5 Prozent KSt) vs. Portugal Festland (21 Prozent KSt) | Madeira International Business Center | Festland | bei Pillar-Two-Mindeststeuer 15 Prozent ab 2024 Madeira-Vorteil reduziert |
+| Schachteldividende PT-S.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten | 0 Prozent via Freistellung | EU-MTRL vorzugswuerdig |
+
+## Edge Cases — was Pruefer triggert
+
+- **NHR-Status**: ehemals 10 Jahre Sonderbesteuerung mit Pensionsfreistellung/-ermaessigung — bei Mandanten mit Status vor 2024 Bestandsschutz; ab 2024 Neuzugaenge nur ueber IFICI.
+- **§ 50d Abs. 9 EStG bei NHR**: deutsche Finanzverwaltung prueft Subject-to-Tax — wenn Portugal die DRV-Rente nicht effektiv besteuert (NHR-Befreiung), kann DE-Freistellung versagen. Konkrete Pruefung im Einzelfall.
+- **Madeira International Business Center**: ermaessigte KSt fuer dort ansaessige Gesellschaften — DBA-Berechtigung pruefen, ggf. Substanztest § 50d Abs. 3 EStG.
+- **Anrechnungsmethode statt Freistellung**: Mandanten erwarten oft Freistellung — Beratung dass DBA-PT Anrechnung vorsieht, kann Verlustverwertung verbessern.
+- **Pillar Two**: ab 2024 bei effektiver Belastung unter 15 Prozent deutsche Top-Up-Tax — Madeira-Vorteile teilweise neutralisiert.
+
+## Berechnungsbeispiel — DRV-Rente an Algarve mit NHR-Status (Bestandsschutz)
+
+> Deutscher Rentner Wohnsitz Faro seit 2018 mit NHR-Status (vor 2024 registriert), DRV-Rente 25.000 EUR p.a.
+>
+> Schritt 1: Tie-Breaker Art. 4 DBA-PT: ansaessig PT.
+>
+> Schritt 2: DBA-PT Art. 18: gesetzliche Renten Wohnsitzstaat — Portugal hat Besteuerungsrecht.
+>
+> Schritt 3: NHR-Bestandsschutz: 10 Prozent Sonderbesteuerung in PT auf auslaendische Pensionen (seit 2020).
+>
+> Schritt 4: § 50d Abs. 9 EStG-Pruefung in DE: bei effektiver portugiesischer Besteuerung (10 Prozent ist substanziell) regelmaessig Anrechnungsmethode bei DBA-PT.
+>
+> Schritt 5: In DE: Veranlagung des Welteinkommens; Anrechnung der portugiesischen 10 Prozent = 2.500 EUR auf deutsche EStG (sofern deutsche Besteuerung greift); effektive Gesamtsteuerlast ca. 2.500 - 5.000 EUR je nach Tarif.
+
+## Berechnungsbeispiel — Madeira-Holding nach Pillar Two
+
+> Madeira International Business Center-Gesellschaft, KSt-Satz 5 Prozent, Gewinn 2 Mio. EUR.
+>
+> Schritt 1: portugiesische Sondersteuer 5 Prozent = 100.000 EUR.
+>
+> Schritt 2: Pillar Two (GloBE) ab 2024: Mindesteffektivsteuer 15 Prozent. Effektivsatz 5 Prozent unter 15 Prozent — Top-Up-Tax 10 Prozent = 200.000 EUR.
+>
+> Schritt 3: Top-Up-Tax wird primaer in PT erhoben (Qualified Domestic Minimum Top-Up Tax — QDMTT); andernfalls Income Inclusion Rule (IIR) bei deutscher Muttergesellschaft.
+>
+> Schritt 4: Madeira-Vorteil real weitgehend neutralisiert; nur noch fuer Steuerlatenz/Liquiditaet relevant.
+>
+> Anmerkung: konkrete Pillar-Two-Regelungen in §§ 1-100 MinStG (Mindestbesteuerungsgesetz, BGBl. 2023 I) pruefen.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-spanien-2011`.

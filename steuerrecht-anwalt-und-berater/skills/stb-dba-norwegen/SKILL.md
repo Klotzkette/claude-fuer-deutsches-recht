@@ -85,6 +85,42 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) rege
 - EWR-Abkommen erlaubt Niederlassungs- und Kapitalverkehrsfreiheit — DBA-Berechtigung.
 - EU-MTRL nicht direkt anwendbar, DBA-Hoechstsaetze maßgeblich.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren NO → DE-Mandant**: Antrag bei Skatteetaten (Norwegische Steuerverwaltung); Online-Portal "Altinn" (vom Anwender mit aktuellem Stand des norwegischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Bostedsbekreftelse" der Skatteetaten als Anlage.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Norwegisch (Bokmål). Englische Arbeitsfassungen kursieren — bei strittiger Auslegung die deutsche und norwegische Fassung vergleichen.
+- **Lokaler Berater**: Bei norwegischer AS (Aksjeselskap, AG-Aequivalent) oder Offshore-Aktivitaeten zwingend lokalen norwegischen Steuerberater hinzuziehen — Petroleum-Sondersteuer und Sokkelloven sind hochspezialisiert.
+- **Apostille**: nicht erforderlich zwischen EWR-Mitgliedstaaten fuer Standard-Steuerdokumente; bei Notarurkunden Apostille (Haager Uebereinkommen) erforderlich, NO ist Vertragsstaat.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **Petroleum-Sondersteuer (Sokkelloven)**: Sonderbesteuerung Petroleum-Aktivitaeten — Standard-KSt 22 Prozent plus Sondersatz Petroleum von 56 Prozent (Stand 05/2026 vom Anwender mit aktuellem norwegischem Steuerrecht zu verifizieren). Anrechnung auf DE-Steuer nach § 34c EStG nur in Hoehe deutscher Steuer — Anrechnungsueberhang typisch bei Petroleum-Aktivitaeten.
+- **Offshore-BS-Schwelle 30 Tage**: Im DBA Norwegen (Art. 23 oder Protokoll) gesonderte Offshore-Regelung — Bohrinsel-Aktivitaeten begruenden schon ab 30 Tagen Betriebsstaette, anders als die 12-Monatsfrist fuer Onshore-Bau.
+- **NAV-Rente Wohnsitz DE**: norwegische Sozialversicherungsrente — Wohnsitzstaat-Prinzip, aber Sondersteuer "Trinnskatt" in NO; Pruefung Art. 18.
+- **Aenderungsprotokoll 2013/2015**: vom Anwender mit konsolidiertem Text zu pruefen.
+- **MLI ratifiziert**: PPT-Klausel anwendbar.
+- **Schifffahrt Art. 8**: Geschaeftsleitung Reederei massgeblich — bei norwegischen Tankern oft Sitzverlagerung.
+- **Wegzug DE → NO**: § 6 AStG, NO ist EWR — Stundung mit Sicherheiten erleichtert nach EuGH-Rechtsprechung und ATAD.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Petroleum-Engagement direkt vs. via NO-Tochter | direktes Engagement als deutsche Gesellschaft mit BS Offshore: NO-Sondersteuer 78 Prozent (22 plus 56) | via NO-Tochter (AS): NO-Standard-KSt 22 Prozent plus Petroleum-Sondersteuer 56 Prozent — identische Belastung | Steuerlich gleich; rechtliche und operative Trennung sprechen oft fuer NO-Tochter; Sanktionsrisiken pruefen |
+| EWR-Status vs. EU-MTRL | NO ist EWR — EU-MTRL nicht direkt anwendbar | DBA-Schachtel: 0 Prozent ab 25 Prozent Beteiligung | DBA-NO Schachtel bereits vorteilhaft (0 Prozent); EWR-Reglements (Kapitalverkehrsfreiheit) zusaetzlich nutzbar |
+| Wegzug DE → NO als EWR-Mitglied | EWR: § 6 AStG-Stundung erleichtert (mit Sicherheiten) | Drittland-Wegzug: harte Wegzugsbesteuerung sofort | EWR-Wegzug attraktiv fuer DE-Anteilseigner; aber Sicherheitsleistung erforderlich |
+
+## Berechnungsbeispiel
+
+DE-Energie-Konzern entsendet 5 Ingenieure auf norwegische Offshore-Plattform fuer 60 Tage. Vereinbart in Werkvertrag mit norwegischem Plattformbetreiber.
+
+- BS-Begruendung NO nach 30-Tage-Schwelle Offshore: ja — Betriebsstaette in NO.
+- DE-Konzern hat NO-Betriebsstaette, deren Gewinne nach DBA NO besteuert; Petroleum-Sondersteuer 78 Prozent moeglich.
+- Ingenieurlohn (Loehne Art. 15): bei Aufenthaltsdauer 60 Tage und Auszahlung durch DE-Konzern — pruefen ob 183-Tage-Regel greift. Bei BS-Bezug: NO-Lohnsteuerpflicht beim Arbeitnehmer.
+- DE-Steuer: Freistellung mit Progressionsvorbehalt fuer Loehne Art. 15 (aktive Einkuenfte) bei BS-Bezug — aber durch DBA NO 1991 Methodenartikel Anrechnung vorgesehen; Detail nach konkreter Klausel.
+
+Bei Anrechnungsueberhang Petroleum: § 34c Abs. 2 EStG-Abzugsverfahren (Abzug als BA) ggf. guenstiger als Anrechnung mit Verlust.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-island`, `stb-dba-schweden`, `stb-dba-daenemark`.

@@ -137,6 +137,45 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 - Bei doppelter Ansaessigkeit bei Gesellschaften ist der Ort der tatsaechlichen Geschaeftsleitung in DBA mit alter Klausel zu pruefen; bei MLI-Anpassung gilt MAP.
 - Verstaendigungsverfahren (MAP) und EU-Streitbeilegung sind keine Alternativen, sondern komplementaer.
 
+## Praktiker-Tipps "Schnell zum Bescheid"
+
+- **DBA-Fundstelle immer am Originaltext pruefen**: BMF-Schreiben listen das anwendbare BGBl-II-Aktenzeichen — vor jeder Memo-Endfassung ueber bundesfinanzministerium.de (Bereich Internationales Steuerrecht / Liste der DBA) abgleichen.
+- **MLI-Synopse vor Antragstellung**: OECD-MLI-Matching-Database (oecd.org) zeigt, ob beide Vertragsstaaten zur jeweiligen Norm kongruent reserviert/notifiziert haben. Ohne kongruente Notification keine MLI-Wirkung.
+- **Veranlagungszeitraum exakt fixieren**: MLI tritt nicht "ab Inkrafttreten" wirksam fuer Quellensteuern und Veranlagungssteuern ein, sondern oft mit Versatz (Q1/Q2 nachfolgendes Jahr) — Datum in jeder Memo nennen.
+- **Ansaessigkeitsbescheinigung des Wohnsitz-FA vorab beschaffen**: Standard-Formular des Wohnsitz-FA (auch auslaendischer Behoerden, z.B. IRS Form 6166, HMRC, CFR-1) — Bearbeitung im Heimatstaat dauert oft Wochen; ohne Bescheinigung scheitert die BZSt-Bearbeitung im Erstchecksuche-Schritt.
+- **Q1-Antragsfenster nutzen**: Antraege beim BZSt im Q1 (Januar bis Maerz) erreichen erfahrungsgemaess kuerzere Bearbeitungszeiten als im Q4 — der Jahresendstau zieht bis Februar/Maerz nach.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Statischer vs. dynamischer OECD-Kommentar | Auslegung nach Kommentar zum Abschlussdatum (statisch) | Auslegung nach aktueller OECD-Kommentar-Fassung (dynamisch, BMF-Linie) | Pfad B fuer deutsche Verwaltung; bei Argumentation pro Mandant Pfad A pruefen |
+| MAP vs. EU-Streitbeilegung | Bilaterales Verstaendigungsverfahren Art. 25 MA — flexibler, ohne harte Frist auf Bescheid | EU-DBA-SBG — strikte Fristen, aber Schiedszwang nach 2 Jahren | bei EU-Sachverhalten parallel beide Verfahren, EU-Frist nicht opfern |
+| Freistellung vs. Anrechnung (DBA-Wahl) | Freistellung mit Progressionsvorbehalt | Anrechnung nach § 34c EStG | bei aktiven Einkuenften meist Freistellung; bei passiven/Subject-to-Tax meist Anrechnung |
+| Treaty Override (§ 50d EStG) ignorieren vs. proaktiv adressieren | Memo argumentiert nur DBA, § 50d ausgespart | Memo prueft DBA + § 50d Abs. 3/8/9/10 ausdruecklich | Pfad B — fehlende § 50d-Pruefung ist haeufigster Reviewer-Trigger |
+| Hauptzweck-Test (PPT) vs. LOB | PPT als Generalklausel (MLI-Standard) | Limitation-on-Benefits (US-DBA) | beide kumulativ pruefen, wenn beide im DBA stehen |
+
+## Was Reviewer/Pruefer triggert
+
+- **Falsche BGBl-Stelle** zum DBA: Reviewer findet im Original ein abweichendes Datum oder Protokoll. Auch das aktuelle Aenderungsprotokoll mitzitieren.
+- **MLI nicht erwaehnt**, obwohl Norm angepasst wurde: BFH und Pruefer kennen die MLI-Matching-Database. Wer fuer das DBA-USA argumentiert, ohne MLI-Status zu nennen, faellt auf — auch wenn USA MLI nicht ratifiziert haben (genau das ist im Memo festzuhalten).
+- **Subject-to-Tax-Pruefung uebersprungen**: bei Wohnsitzwechsel in Niedrigsteuerstaaten (Portugal NHR, Italien Impatriati, Spanien Beckham) faellt das Memo, wenn § 50d Abs. 9 EStG nicht durchgesprochen ist.
+- **Personengesellschafts-Qualifikationskonflikt**: deutsche transparente Sicht vs. auslaendische intransparente Sicht — BMF-Schreiben 26.09.2014 nicht erwaehnt.
+- **Aktivitaetsklausel uebersehen**: bei Holding-Strukturen wird Freistellung beantragt, obwohl die Aktivitaetsklausel im DBA passiver Verwaltungstaetigkeit die Anrechnung zuweist.
+- **Zeitlicher Anwendungsbereich**: Memo bezieht sich auf DBA-Fassung, die fuer den Veranlagungszeitraum noch nicht oder nicht mehr galt.
+
+## Konkretes DBA-Pruefraster (Mustertabelle)
+
+| Phase | Norm / Fundstelle | Subsumtion | Ergebnis | Verifikationsquelle |
+|---|---|---|---|---|
+| Phase 1 Anwendungsbereich | Art. 1, 2 DBA-[Land] (BGBl. II [Jahr] S. [...]) | [...] | [erfasst/nicht erfasst] | bundesfinanzministerium.de DBA-Liste |
+| Phase 2 Ansaessigkeit | Art. 4 DBA + § 8, 9 AO | Tie-Breaker subsumiert | [Wohnsitzstaat] | Ansaessigkeitsbescheinigung |
+| Phase 3 Einkunftsart | Art. [6-21] DBA | Qualifikation [...] | [Artikel x] | OECD-Kommentar |
+| Phase 4 Verteilung | Art. [x] DBA | Hoechstsatz [%] | [Quellenstaat darf besteuern bis ...] | DBA-Text |
+| Phase 5 Methode | Art. 23 DBA + § 34c EStG | Freistellung/Anrechnung | [Methode] | DBA-Methodenartikel |
+| Phase 6 Treaty Override | § 50d Abs. 3/8/9 EStG | Substanz/Subject-to-Tax | [greift/greift nicht] | BMF-Schreiben |
+| Phase 7 Verfahren | § 50c EStG | Freistellung vorab / Erstattung | [Antragsweg] | BZSt-BOP |
+
 ## Querverweise
 
 - `stb-dba-ansaessigkeit-tie-breaker-rules` — Art. 4 MA, mehrfache Ansaessigkeit.

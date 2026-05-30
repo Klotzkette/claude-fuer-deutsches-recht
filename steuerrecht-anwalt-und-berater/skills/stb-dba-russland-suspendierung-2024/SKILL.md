@@ -121,6 +121,40 @@ Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russ
 - Bei Wegzug russischer Mandanten in Drittlaender: neue DBA-Konstellation, Pruefung erforderlich.
 - Empfehlung: bestehende Russland-Strukturen auf wirtschaftliche und sanktionsrechtliche Tragfaehigkeit pruefen.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren RU → DE-Mandant — derzeit blockiert**: Antraege bei der russischen Foederalen Steuerverwaltung (FNS, Federalnaja nalogowaja sluschba) sind wegen der Suspendierung praktisch ohne Erfolgsaussicht. Online-Portal "Lichnyj kabinet nalogoplatelschika" (vom Anwender mit aktuellem Stand zu verifizieren) ist fuer Auslaender nur eingeschraenkt nutzbar.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Russisch. Konsolidierte Textfassung mit Aenderungen beim BMF.
+- **Lokaler Berater**: Bei russlandbezogenen Mandaten zwingend sanktionsrechtliche Vorpruefung; russische Steuerberater mit DE-Kontakten zunehmend eingeschraenkt durch EU-Sanktionspakete (Verbot bestimmter Dienstleistungen an russische Mandanten — vom Anwender mit aktueller EU-Sanktions-Verordnung zu verifizieren).
+- **Apostille**: ZWINGEND bei Drittstaat Russland; aber Haager Uebereinkommen praktisch durch politische Lage erschwert. Konsularische Beglaubigung ueber deutsche diplomatische Vertretung kaum verfuegbar — Apostille direkt in Russland zustaendige Behoerde Justizministerium.
+- **Sanktions-Compliance hat Vorrang vor steuerlicher Optimierung**: bei jeder russlandbezogenen Transaktion EU-Sanktionsverordnung 833/2014 ff. und OFAC SDN-Liste konsultieren.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **Russische Sondersteuern**: Russische Staatsfinanzen 2024 / 2025 durch Krieg belastet; Sondersteuern auf Kapital ("Windfall Tax") auf grosse Unternehmen 10 Prozent vom Gewinn-Plus (vom Anwender mit aktuellem russischem Steuerrecht zu verifizieren).
+- **Anrechnungsverlust bei Sanktionen**: Russische QSt-Bescheinigung als Anrechnungsgrundlage nach § 34c EStG erforderlich — kriegsbedingt nicht beschaffbar. § 34c Abs. 2 EStG-Abzugsverfahren (Abzug als BA) als Notfall-Option.
+- **Wohnsitzwechsel russischer Mandanten**: bei "Russenwegzug" in EU-Mitgliedstaaten oder in Drittlaender (Tuerkei, VAE, Israel) — neue DBA-Konstellation, Tie-Breaker pruefen; Mittelpunkt Lebensinteressen oft weiter in Russland trotz Aufenthalt im Drittstaat.
+- **Sonderkonten Typ-C (Russland)**: russische Auflagen verlangen Zahlungen an "unfreundliche Auslaender" ueber Sonderkonten der Zentralbank — Auszahlung blockiert.
+- **DBA-Verfassungsfragen**: einseitige Suspendierung durch Russland ist voelkerrechtlich umstritten — Wiener Vertragsrechtskonvention; Deutschland reagiert mit StAbwG-Listung statt formaler Kuendigung. Bei Mandantenfragen zur Rechtmaessigkeit: oeffentliche BMF-Position und EU-Sanktionspakete maßgeblich.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Russland-Engagement fortfuehren vs. Exit | Fortfuehrung mit DBA-Suspendierung: § 34c EStG-Anrechnung, hoehere Steuerbelastung, Sanktionsrisiken | Exit/Verkauf: Wegzugsbesteuerung, oft Wertverluste durch Devisenkontrollen | bei kleineren Engagements oft Exit empfehlenswert; bei grossen Werten Pruefung sanktionsrechtlicher Compliance und steuerlicher Optimierung des Exits — anwaltliche Begleitung erforderlich |
+| § 34c Anrechnung vs. Abzug | Anrechnung: Verrechnung russische Steuer mit deutscher Steuer, Per-Country-Limitation Russland | Abzug nach § 34c Abs. 2 EStG als Werbungskosten/BA | bei Nachweisproblemen russischer Steuer (Sanktionen!) Abzugsverfahren ggf. einzige praktikable Option; bei klarem Nachweis Anrechnung guenstiger |
+| Wegzug russischer Mandant in EU-Mitgliedstaat | EU-Wegzug: neue DBA, oft EU-MTRL — sauberer Steuerbruch | Wegzug in Drittland (TR, AE): keine EU-Rechte | EU-Mitgliedstaaten klar bevorzugt fuer geordnete steuerliche Neuordnung |
+
+## Berechnungsbeispiel
+
+DE-Investor haelt 100 Prozent an russischer OOO; Gewinn 2024 200.000 EUR. Ausschuettung 150.000 EUR an DE-Investor:
+
+- Vor Suspendierung (Stand 31.12.2023): RU-QSt nach DBA Art. 10 — 5 Prozent bei Schachtelhoehe = 7.500 EUR; DE-Abgeltungsteuer 26,375 Prozent = 39.563 EUR; Anrechnung RU-QSt — Resteuer DE 32.063 EUR. Gesamtbelastung 39.563 EUR.
+- Nach Suspendierung (ab 01.01.2024): RU-QSt nach russischem Recht 15 Prozent (nationaler Standardsatz fuer Nichtansaessige) = 22.500 EUR; DE-Abgeltungsteuer 39.563 EUR; § 34c EStG-Anrechnung der RU-QSt nach Per-Country-Limitation — Resteuer DE 17.063 EUR. Gesamtbelastung 39.563 EUR (sofern RU-QSt nachweisbar; falls nicht: voll DE-Steuer 39.563 EUR plus RU-QSt 22.500 EUR = 62.063 EUR Anrechnungsverlust).
+- Praxisproblem 2025/2026: Devisenkontrolle Russland blockiert Auszahlung der Dividende — Mandant hat fiktiven Steuerbescheid, aber kein Geld. Pruefung Forderungsabschreibung und § 34c EStG-Folgejahresanrechnung.
+
+Sanktions-Compliance: vor jeder Transaktion EU-Sanktionsverordnung 833/2014 und Folgeverordnungen sowie OFAC SDN-Liste pruefen; bei Sanktionsbetroffenheit gewerberechtliches Verbot und strafrechtliche Folgen (§§ 17, 18 AWG).
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-ukraine`, `stb-dba-serbien-montenegro`.

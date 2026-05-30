@@ -87,6 +87,68 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 - Bei Mandanten mit hohem Home-Office-Anteil: planerische Beratung — Schwellen einhalten oder bewusst Statuswechsel.
 - Haeusliches Arbeitszimmer § 9 Abs. 5 EStG: deutscher Werbungskostenabzug pruefen, unabhaengig von DBA-Status.
 
+## Praktiker-Tipps "Schnell zum Bescheid"
+
+- **Arbeitgeberbescheinigung Home-Office-Tage frueh anfordern**: viele Arbeitgeber fuehren keine Home-Office-Statistik. Excel-Vorlage mit Datum/Standort/Anwesenheits-Indiz (Office-Login, VPN-Verbindung, Korperatkarten-Check-in) liefern.
+- **Reisekalender als zweite Beweisquelle**: bei strittigen Tagen Belege (Bahnticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Datensatz).
+- **IT-Login-Logs anfordern**: VPN-Logs des Arbeitgebers (Datenschutz-Erlaubnis pro Mandant) — sicherster Beleg fuer tatsaechlichen Standort.
+- **Bagatellgrenze Luxemburg 34 Tage** in Excel als Zaehler fuehren — Ueberschreitung um 1 Tag fuehrt zu Aufteilung der Lohnsteuer.
+- **Konsultationsvereinbarungs-Stichtag pruefen**: viele Pandemie-Vereinbarungen ausgelaufen — fuer Veranlagungszeitraeume ab 2023 ist nur noch die "Folgeregelung" (oft Dauerregelung mit Toleranzschwelle) anwendbar; aktueller Stand im BMF-Verzeichnis.
+- **Bei Wechsel von Pandemie- zu Folgeregelung**: Doppelte Pruefung (Pandemie-Vereinbarung fuer alte Zeitraeume; Folgeregelung fuer neue Zeitraeume).
+- **Online-Antrag bei Wohnsitz-FA** ueber ELSTER fuer Anlage N-AUS — schneller als Papier.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Home-Office-Tage einhalten (Bagatellgrenze) vs. Statuswechsel | Tage zaehlen, Grenze einhalten | Grenze ueberschreiten und Aufteilung Lohnsteuer | bei Grenzgaengererhalt Pfad A — kuenstlich planen; bei hohem Home-Office-Anteil Pfad B |
+| Grenzgaenger-Status verteidigen vs. aufgeben | Grenzgaenger: Wohnsitzstaat besteuert voll | Verlust: Aufteilung Lohnsteuer Tagesproporz | bei niedrigerer Steuer Wohnsitzstaat Pfad A; bei aequivalenten Steuern egal |
+| Konsultationsvereinbarung anwenden vs. DBA-Grundregel | Vereinbarung: Home-Office-Tage zaehlen wie Arbeitsstaette | DBA: 183-Tage-Regel mit Aufenthaltspruefung | bei wirksamer Vereinbarung Pfad A — sonst Pfad B |
+| Arbeitgeber-Sitz BS auslagern vs. nicht | Home-Office als BS akzeptieren (Verfuegungsmacht aufbauen) | Home-Office bleibt BS-frei | regelmaessig Pfad B — Arbeitgeber bleibt ohne BS |
+| MAP bei Doppelbesteuerung vs. Anrechnung | bilateral klaeren | unilaterale Anrechnung | bei klarer DBA-Regel Anrechnung; bei strittiger Aufteilung MAP |
+
+## Was Reviewer/Pruefer triggert
+
+- **Home-Office-Tage behauptet ohne Arbeitgeberbescheinigung** — Reviewer akzeptiert keine reinen Behauptungen.
+- **Pandemie-Vereinbarung fuer aktuellen Zeitraum zitiert** — pruefen ob noch in Kraft oder durch Folgeregelung ersetzt.
+- **Bagatellgrenze ueberschritten ohne Lohnsteuer-Aufteilung** in Anlage N-AUS.
+- **Home-Office als BS** des Arbeitgebers behauptet ohne Verfuegungsmacht-Pruefung (Mietvertrag, dauerhafte Anweisung).
+- **Werbungskosten-Pauschale ohne Beleg** — bei haeuslichem Arbeitszimmer § 9 Abs. 5 EStG Voraussetzungen pruefen.
+- **Konsultationsvereinbarung des falschen Staats** angewendet (z.B. Pandemie-Vereinbarung Frankreich auf Schweiz-Faelle).
+- **183-Tage-Regel falsch berechnet**: Pandemie-Tage zaehlen entweder oder nicht — Vereinbarung pruefen.
+
+## Konkretes Berechnungsbeispiel: Grenzgaenger Luxemburg mit 40 Home-Office-Tagen
+
+Sachverhalt: Grenzgaenger Wohnsitz DE, Arbeitsort Luxemburg, 200 Arbeitstage/Jahr. Davon 40 Tage Home-Office in DE.
+
+| Position | Wert |
+|---|---|
+| Arbeitstage gesamt | 200 |
+| Home-Office-Tage DE | 40 |
+| Bagatellgrenze DBA-LU (Aend.-Prot. 06.07.2023, gilt ab 01.01.2024) | 34 Tage |
+| Ueberschreitung | 6 Tage |
+| Folge: Aufteilung Lohnsteuer | DE besteuert 40/200, LU besteuert 160/200 (Tagesproporz) |
+| Alternativ: bei 34 oder weniger HO-Tagen | LU haette volles Besteuerungsrecht (Bagatell-Schutz) |
+| Anlage N-AUS Pflicht | ja, mit Aufteilung |
+| § 34c EStG-Anrechnung LU-Lohnsteuer auf DE-Steuer | bis Hoechstbetrag |
+
+(**Werte sind Beispiel — DBA-LU 2012 in der Fassung des Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334, anwendbar ab 01.01.2024 konkret nachpruefen.**)
+
+## Pruefcheckliste Home-Office-DBA
+
+| Schritt | Aktion | Status |
+|---|---|---|
+| 1 | Vertragsstaat identifizieren | [...] |
+| 2 | Aktuelle Konsultationsvereinbarung im BMF-Verzeichnis abrufen | [...] |
+| 3 | Stichtagspruefung: gilt Vereinbarung fuer Veranlagungszeitraum? | [...] |
+| 4 | Bagatellgrenze (LU 34, NL 34 ab 2026, andere variabel) ermitteln | [...] |
+| 5 | Arbeitgeberbescheinigung Home-Office-Tage einholen | [...] |
+| 6 | Reisekalender + IT-Logs als Doppelbeleg | [...] |
+| 7 | Bei Ueberschreitung: Aufteilung Lohnsteuer Tagesproporz | [...] |
+| 8 | Anlage N-AUS ausfuellen | [...] |
+| 9 | § 34c EStG-Anrechnung pruefen | [...] |
+| 10 | Bei Doppelbesteuerung: MAP Art. 25 MA | [...] |
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`.

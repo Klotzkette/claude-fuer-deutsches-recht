@@ -85,6 +85,66 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 - Suedtiroler ohne deutsche Staatsangehoerigkeit: Wohnsitz Italien, ggf. deutsche Auftraggeber — sorgfaeltige Tie-Breaker-Pruefung.
 - EU-MTRL geht DBA bei Schachtel-Dividenden in der Regel vor.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren italienische Quellensteuer
+
+- **Zustaendigkeit**: italienische Erstattung durch **Agenzia delle Entrate**, Centro Operativo di Pescara. Aktuelle Zustaendigkeit auf **agenziaentrate.gov.it** pruefen.
+- **Antragsformulare**: in der Praxis verbreitet italienische "Modelli" fuer DBA-Quellensteuer-Erstattung; **konkrete Modell-Nummern und Bezeichnungen vom Anwender mit aktuellem Stand auf agenziaentrate.gov.it zu verifizieren** (Modelli werden periodisch geaendert).
+- **Frist**: nach italienischem DPR 600/1973 regelmaessig **48 Monate** ab Steuerentrichtung — vergleichsweise lang.
+- **Bearbeitungsdauer Agenzia delle Entrate**: notorisch **18-60 Monate**; Italien ist erstattungsbearbeitungsmaessig oft langsam. Anwaltliche Vertretung in Italien empfehlenswert.
+- **Online-Portal**: **agenziaentrate.gov.it** mit dem Bereich "Internazionale" — Eingabe per SPID (italienische digitale Identitaet) oder italienischen Berater.
+- **Sprache**: IT vorrangig; einige Formulare auf EN — bei groesseren Erstattungen italienischen Berater (dottore commercialista) zwingend.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei jeder substanziellen italienischen Quellensteuer-Erstattung (Bearbeitungsdauer); bei Holding-Pruefung S.p.A./S.r.l.; bei Suedtiroler Konstellationen (oft trotz deutscher Sprache italienischer Steuerwohnsitz); bei Lizenz-/Designstrukturen. Italienische Kanzleien in Mailand/Rom/Bozen.
+
+### Sprache
+
+- DBA-Text DE/IT bilingual — italienische Fassung gleichberechtigt verbindlich. Bei Auslegungsstreitigkeiten italienische Originalbegriffe ("stabile organizzazione", "residenza fiscale") pruefen.
+
+### Online-Portale
+
+- **agenziaentrate.gov.it**: italienische Steuerverwaltung mit englischer Sprachversion.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Schachteldividende IT-S.p.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung via Agenzia (langwierig) | 0 Prozent via Freistellung vor Ausschuettung | § 43b EStG immer vorzugswuerdig |
+| Italienische Lizenzgebuehr (technisch) Quellensteuer 0 Prozent vs. kuenstlerische/literarische Lizenz | 0 Prozent fuer gewerbliche/technische Lizenz nach Art. 12 Abs. 1 | kuenstlerische/literarische Lizenz ggf. Quellensteuer | Lizenz-Klassifikation zentral — Vertragsdesign entscheidet |
+| Subject-to-Tax-Klausel DBA-IT vs. § 50d Abs. 9 EStG | DBA-interne STT-Klausel kann Freistellung versagen | § 50d Abs. 9 EStG zusaetzlich | sorgfaeltige doppelpruefung |
+| Suedtiroler mit DE-Auftraggebern | Wohnsitz IT — italienische Besteuerung | Tie-Breaker DE bei substanzieller Anwesenheit DE | klare Lebensmittelpunkt-Doku |
+
+## Edge Cases — was Pruefer triggert
+
+- **Aerzte- und Kuenstlerspezialregeln**: italienisches DBA hat **Sonderregeln** fuer freie Berufe (Art. 14) und Kuenstler/Sportler (Art. 17). Im 1989er-DBA noch Eigenstaendigkeit gegeben — bei kuenstlerischen Auftritten in IT genau pruefen.
+- **Subject-to-Tax-Klausel** im DBA-IT (regelmaessig in Art. 24 oder Schlussprotokoll Abschn. 16): bei Nichtbesteuerung in Italien Versagung der Freistellung in Deutschland. § 50d Abs. 9 EStG ergaenzt national.
+- **Lizenzgebuehren-Klassifikation**: technische Lizenzgebuehren 0 Prozent (Wohnsitzstaat) — aber **kuenstlerische/literarische** Verguetungen ggf. eigene Klausel. Bei Mode/Design (Italien-Schwerpunkt) genau pruefen.
+- **Suedtiroler Doppelansaessigkeit**: deutsche Auftraggeber + italienischer Wohnsitz — Tie-Breaker fuer Lebensmittelpunkt zentral. Verstaendigungsverfahren bei Streit.
+- **Wegzug nach Italien (Renten-Sondersteuer 7 Prozent in Sueditalien)**: § 6 AStG-Wegzug + ggf. § 50d Abs. 9 EStG bei italienischer "Pensionsbeguenstigung".
+
+## Berechnungsbeispiel — Schachteldividende IT-S.p.A. an DE-Holding
+
+> IT-S.p.A. (Mailand) schuettet 1.000.000 EUR an deutsche Holding (Beteiligung 30 Prozent, Haltedauer 13 Monate).
+>
+> Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent italienische Quellensteuer — vorab Freistellungs-Antrag an italienische Quelle.
+>
+> Schritt 2: Ohne Freistellung: 26 Prozent italienische Quellensteuer (nationaler Standardsatz) = 260.000 EUR; Erstattung von 21 Prozent (DBA-Schachtel 5 Prozent) via Agenzia delle Entrate. **Aufpassen**: Bearbeitungsdauer Pescara typischerweise 2-5 Jahre.
+>
+> Schritt 3: In DE: § 8b KStG-Befreiung 95 Prozent.
+
+## Berechnungsbeispiel — italienische Lizenz an DE-Empfaenger
+
+> Italienisches Mode-Unternehmen zahlt Lizenzgebuehren 200.000 EUR an deutschen Markenrechtsinhaber.
+>
+> Schritt 1: DBA-Italien Art. 12 Abs. 1: 0 Prozent Quellensteuer fuer technische/gewerbliche Lizenzgebuehren — Wohnsitzstaat-Prinzip.
+>
+> Schritt 2: Voraussetzung: deutsche Ansaessigkeitsbescheinigung bei italienischer Quelle vor Auszahlung; ohne Vorabbescheinigung Standard-Quellensteuer einbehalten und Erstattungsantrag (langwierig).
+>
+> Schritt 3: In DE: volle Versteuerung der Lizenzeinnahme als Betriebseinnahme/EStG.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-lizenzgebuehren-art-12-bzst`.

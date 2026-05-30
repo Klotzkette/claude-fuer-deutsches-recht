@@ -92,6 +92,64 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - BZSt-Bearbeitungsdauer: lange Frist — Freistellungsbescheinigung vorab beantragen.
 - Werbeeinnahmen vom Auftritt trennen: koennen unter Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) fallen.
 
+## Praktiker-Tipps "Schnell zum Bescheid"
+
+- **§ 50a-Anmeldung des Veranstalters**: vierteljaehrliche Anmeldung ueber BZSt-Online-Portal BOP (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen). Anmeldung auch bei Freistellungsbescheinigung erforderlich.
+- **Freistellungsbescheinigung BZSt vor Auftritt**: bei wiederkehrenden Tourneen oder mehreren Auftritten in DE — gilt bis zu drei Jahre. Vom Anwender mit aktuellem BZSt-Formularkatalog abzugleichen.
+- **Ansaessigkeitsbescheinigung des Heimatstaats**: IRS Form 6166 (US-Kuenstler), HMRC (UK-Bands), franzoesische Attestation de Residence Fiscale — Bearbeitung 4-8 Wochen, oft auch waehrend Tournee parallel.
+- **Werbungskosten / Betriebsausgaben sammeln**: Nettoabzug § 50a Abs. 3 EStG nur, wenn vorab nachgewiesen — Sammlung Hotel, Reise, Gage Crew, Equipment-Miete, Booking-Agency-Provision. Pauschalisierungs-Trick scheitert in Praxis.
+- **Bagatellklauseln im konkreten DBA pruefen**: viele DBA enthalten Befreiungen bei Kulturaustausch (oeffentliche Foerderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).
+- **Star-Company-Substanzdokumentation**: bei zwischengeschalteter Production Company stets Personal, Buero, Geschaeftstaetigkeit dokumentieren — Pruefer praesumieren ohne Substanz Durchgriff auf Kuenstler.
+- **Q1-Antragsfenster** beim BZSt fuer Erstattungen — kuerzere Bearbeitung.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Bruttobesteuerung vs. Nettobesteuerung | 15 oder 30 Prozent auf Gage brutto (einfach, aber teuer bei hohen Kosten) | Nettoabzug mit Werbungskosten (kompliziert, aber niedrigere Steuerlast) | bei Tournee mit hohen Spesen Pfad B; bei einmaligem Auftritt Pfad A |
+| Direktvertrag Kuenstler vs. Star-Company | Veranstalter zahlt direkt an Kuenstler | Zahlung an zwischengeschaltete Gesellschaft | bei klarer Substanz Pfad B (Konzern); bei Briefkasten droht § 50d Abs. 3 EStG-Ablehnung |
+| Auftrittsstaat-Quellensteuer hinnehmen vs. anfechten | Anrechnung § 34c EStG im Wohnsitzstaat | MAP bei strittiger Auslegung | bei klaren DBA-Anwendungen Anrechnung; bei strittiger Qualifikation (Streaming) MAP |
+| Veranstalter haftet vs. Vertragsklausel | Kuenstler-Vertrag uebernimmt Steuerlast | Veranstalter traegt § 50a-Einbehalt | Vertragsklausel "Brutto" vs. "Netto" — sauber regeln, sonst Haftungsfalle |
+| Online-Streaming als Auftritt vs. Lizenz | Art. 17 (persoenlicher Auftritt) | Art. 12 (Lizenz Aufnahme) | bei reiner Streaming ohne physische Praesenz: Art. 17 strittig — vorsorglich Art. 12 oder Art. 7 pruefen |
+
+## Was Reviewer/Pruefer triggert
+
+- **§ 50a-Anmeldung des Veranstalters fehlt** — Vergueterschuldner-Haftung § 50a Abs. 5 EStG.
+- **Star-Company-Substanz nur behauptet** — Pruefer verlangt Beleg Personal, Mietvertrag, Stammbuch.
+- **Werbeeinnahmen mit Auftrittsgage vermischt** — Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) gesondert qualifizieren.
+- **Bagatellklauseln des DBA uebersehen** — fuer Amateursportler bei US-Auftritten oder europaeischen Tourneen relevant.
+- **Brutto-Netto-Klausel im Vertrag unklar** — Streit zwischen Veranstalter und Kuenstler ueber wirtschaftliche Belastung.
+- **Werbungskostennachweis fehlt** bei Nettobesteuerung.
+- **Ansaessigkeitsbescheinigung des Auslandskuenstlers fehlt** — BZSt verweigert Freistellung.
+- **§ 50d Abs. 3 EStG-Substanztest fehlt** bei Star-Company.
+
+## Berechnungsbeispiel Tournee in Deutschland
+
+Sachverhalt: US-Band tritt in DE bei drei Konzerten auf. Gage 300.000 EUR brutto. Werbungskosten (Crew, Equipment, Hotel, Reise) 150.000 EUR.
+
+| Position | Bruttobesteuerung | Nettobesteuerung |
+|---|---|---|
+| Gage | 300.000 EUR | 300.000 EUR |
+| Werbungskosten | nicht abziehbar | 150.000 EUR |
+| Bemessungsgrundlage | 300.000 EUR | 150.000 EUR |
+| § 50a EStG-Satz | 15 Prozent (bei "geringen" Verguetungen pauschal 15 Prozent; Schwelle und Detail nach § 50a EStG in der jeweils geltenden Fassung pruefen) | 30 Prozent (Spitzensatz bei Nettoabzug) |
+| Steuer | 45.000 EUR (15 Prozent von 300.000) | 45.000 EUR (30 Prozent von 150.000) |
+| Soli (5,5 Prozent der Steuer) | 2.475 EUR | 2.475 EUR |
+| Effektive Belastung | 47.475 EUR | 47.475 EUR |
+
+(**Werte sind Beispiel — § 50a EStG-Satz und Bemessungsgrundlage konkret nach der jeweils geltenden Fassung pruefen; Nettoabzug verlangt vorherigen Antrag und Belegnachweis; § 50a Abs. 2-4 EStG-Spezifika beachten.**)
+
+## Star-Company-Pruefung (Mustertabelle)
+
+| Pruefpunkt | Befund Mandant | Status |
+|---|---|---|
+| Personal Star-Company | [Anzahl] | [substantiell/Briefkasten] |
+| Geschaeftsraeume | [Mietvertrag/Anschrift] | [eigen/fremd] |
+| Geschaeftstaetigkeit | [Vermarktung/Booking/Management] | [eigenstaendig/durchgereicht] |
+| Wirtschaftliche Vernuenftigkeit | [Konzerngeschichte/Vor-DBA-Status] | [plausibel/Steuergrund] |
+| Empfaenger der Verguetung | [Star-Company/Kuenstler-Person] | [identisch wirtschaftlich?] |
+| § 50d Abs. 3 EStG-Test | [Substanz nachgewiesen?] | [bestanden/scheitert] |
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.

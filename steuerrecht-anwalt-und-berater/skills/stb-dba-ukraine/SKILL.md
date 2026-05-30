@@ -83,6 +83,47 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 - EU-Beitrittsperspektive: kuenftig MTRL-Anwendung.
 - Bei Pension: derzeit oft Wohnsitzstaat-Prinzip.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren UA → DE-Mandant**: Antrag bei DPS (Derzhavna podatkova sluzhba Ukrainy, Staatliche Steuerverwaltung); Online-Portal "Elektronnyy kabinet platnyka" (vom Anwender mit aktuellem Stand des ukrainischen Online-Portals zu verifizieren — kriegsbedingte Einschraenkungen moeglich). Ansaessigkeitsbescheinigung der DPS als Anlage. Bearbeitungsdauer durch Kriegsfolgen erheblich verlangsamt.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Ukrainisch sowie Russisch (DBA von 1995 vor Aenderung der Amtssprachenpraxis). Konsolidierte Fassung beim BMF.
+- **Lokaler Berater**: Bei ukrainischen IT-/Outsourcing-Gesellschaften oder humanitaeren Mandaten Hinzuziehung eines ukrainischen Beraters; viele ukrainische Anwaltskanzleien arbeiten verlagert nach EU. Kommunikation oft verzoegert wegen Kriegslage.
+- **Apostille**: ZWINGEND bei Drittstaat Ukraine; Haager Uebereinkommen anwendbar, UA ist Vertragsstaat. Kriegsbedingt erschwert — Konsulararbeit teilweise eingeschraenkt.
+
+## Aktualitaetshinweis Kriegsfolgen seit 2022
+
+- **DBA-Anwendbarkeit**: Das DBA Deutschland-Ukraine vom 03.07.1995 ist weiterhin in Kraft und anwendbar (Stand 05/2026 vom Anwender mit aktuellem BMF-Verzeichnis zu verifizieren). Anders als bei Russland gibt es keine Suspendierung.
+- **Devisenkontrollen Ukraine**: Notgesetzgebung der Nationalbank der Ukraine seit Februar 2022 schraenkt Auslandszahlungen erheblich ein — Dividenden- und Zinszahlungen ins Ausland teilweise blockiert oder nur in begrenzter Hoehe moeglich. Aktuelle Lage taeglich pruefen.
+- **EU-Sanktionsrecht**: Ukraine selbst NICHT sanktioniert; aber: ukrainische Mandate mit russlandnahen Eigentuemerstrukturen koennen sanktionsrechtlich relevant sein (Letztwirtschaftsberechtigte pruefen). EU-Verordnung 833/2014 ff. lebt fort.
+- **Ukrainische Fluechtlinge in Deutschland**: Sonderaufenthaltstitel nach § 24 AufenthG (Massenzustromrichtlinie); ueberwiegend "voruebergehende Schutzgewaehrung" — Mittelpunkt Lebensinteressen oft noch Ukraine, beschraenkte Steuerpflicht in DE bei DE-Quelleneinkuenften.
+- **Neuverhandlungen**: Deutschland und Ukraine verhandeln ein neues DBA (Stand 05/2026); bis Inkrafttreten gilt das DBA 1995.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **IT-Outsourcing-Konstellationen**: ukrainische IT-Spezialisten arbeiten weiter remote fuer westeuropaeische Auftraggeber, oft ueber ukrainische Service-Gesellschaften (FOP — privater Unternehmer mit Sondersteuersystem 5 Prozent Umsatzsteuer). DBA-Berechtigung und § 50a EStG bei Vergueterscharakter pruefen.
+- **A1-Bescheinigung Sozialversicherung**: Ukraine ist NICHT EU/EWR — EU-VO 883/2004 nicht anwendbar. Bilaterales Sozialversicherungsabkommen DE-UA (Abkommen vom 23.10.2018 ueber Soziale Sicherheit, in Kraft 11/2018 vom Anwender zu verifizieren) regelt.
+- **Pflege-Arbeitnehmer aus Ukraine in DE**: vor 2022 ueblich; seit Februar 2022 oft Fluechtlingsstatus statt Arbeitserlaubnis.
+- **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren; bei Neufassung DBA wahrscheinlich BEPS-Standards integriert.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Ukrainische Fluechtlinge mit DRV-Anspruch | beschraenkte Steuerpflicht DE bei voraussichtlich nur voruebergehendem Aufenthalt | unbeschraenkte Steuerpflicht DE bei dauerhaftem Aufenthalt | bei voraussichtlich Rueckkehr nach Ukraine (Frieden!): beschraenkt; bei dauerhaftem Wohnsitz DE: unbeschraenkt — Pruefer fragt Indizien (Familiennachzug, Schulanmeldung der Kinder, Mietvertrag, Wohnungseinrichtung) |
+| IT-Outsourcing fortfuehren vs. relocation in EU-Mitgliedstaat | UA-FOP-Struktur fortfuehren: DBA-Schutz, Devisenkontrolle | Relocation in EU-Mitgliedstaat (PL, RO): EU-Recht, einfacher Zahlungsverkehr | bei verbleibender UA-Praesenz oft Hybrid-Loesung mit EU-Service-Gesellschaft empfehlenswert; nicht nur steuerlich, sondern auch operativ |
+| Dividendenausschuettung UA-Tochter blockiert | warten auf Devisenkontrollen-Lockerung | alternative Verrechnung (intercompany debt, Lizenz, Service-Fee) | bei Blockierung keine kuenstlichen Konstruktionen; Wartung und Dokumentation |
+
+## Berechnungsbeispiel
+
+Ukrainischer IT-Spezialist mit Wohnsitz Kyiv, FOP-Status, erbringt Software-Dienste an deutschen Auftraggeber 60.000 EUR jaehrlich:
+
+- DBA-Pruefung: Persoenliche Anwendbarkeit Art. 4 — Wohnsitz UA, Steueransaessigkeit UA. Einkunftsart: Unternehmensgewinne Art. 7 oder selbstaendige Arbeit Art. 14 (je nach Klassifikation).
+- BS-Pruefung: Bei reiner Remote-Taetigkeit aus UA: keine BS in DE — DE darf nicht besteuern.
+- DE-Quellensteuer: § 50a EStG-Steuerabzug nur bei Kuenstlern, Sportlern, Aufsichtsrat, Lizenzgebuehren etc. — IT-Dienstleistungen typischerweise nicht erfasst; keine DE-Quellensteuer.
+- UA-Besteuerung: FOP-Sondersteuer 5 Prozent vom Umsatz; auf 60.000 EUR = 3.000 EUR.
+- DE-Auftraggeber Aufwand als BA abzugsfaehig.
+- Praxis: kriegsbedingt oft Verzoegerungen, Devisenkontrolle bei Eingang in UA. Bei Fluechtlings-IT-Spezialisten mit Wohnsitz DE: unbeschraenkte Steuerpflicht DE, deutsche Lohn- bzw. Einkommensteuer.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-russland-suspendierung-2024`, `stb-dba-serbien-montenegro`.

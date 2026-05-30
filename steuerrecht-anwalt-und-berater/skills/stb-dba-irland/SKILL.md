@@ -88,6 +88,66 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 - § 4k EStG verhindert Doppelnichtansatz / Doppelabzug.
 - CFC § 7 ff. AStG bei passiven niedrig besteuerten Einkuenften — Pruefung obligatorisch.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren irische Quellensteuer
+
+- **Zustaendigkeit**: irische Erstattung durch **Revenue Commissioners**, International Claims Section. Aktuelle Zustaendigkeit auf **revenue.ie** pruefen.
+- **Antragsformulare**: irische DBA-Antragsformulare; in der Praxis verbreitet "Form IC-Form" / DT-Forms — **konkrete Formularnummern und Bezeichnungen vom Anwender mit aktuellem Stand auf revenue.ie zu verifizieren**.
+- **Frist**: nach irischem Tax Consolidation Act regelmaessig **vier Jahre** ab Steuerjahr-Ende.
+- **Bearbeitungsdauer Revenue**: 6-18 Monate.
+- **Online-Portal**: **revenue.ie** mit MyAccount fuer Privatpersonen und ROS (Revenue Online Service) fuer Unternehmen/Berater.
+- **Sprache**: EN.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei jeder Holding-Struktur mit irischer Substanz; bei Lizenzgestaltungen mit Cross-Charge-Risiko; bei Pillar-Two-Top-Up-Berechnungen. Dubliner Kanzleien mit DE-Konzern-Erfahrung (Big Four praesent).
+
+### Online-Portale
+
+- **revenue.ie**: irische Steuerverwaltung.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Irland-Holding mit IP-Lizenzen vs. Verlagerung nach DE | irische KSt 12,5 Prozent; ab 2024 Pillar Two Top-Up zu 15 Prozent; § 4j EStG-Lizenzschranke beim Empfaenger DE pruefen | DE-Holding mit voller KSt 15 Prozent + GewSt | bei stabilem Geschaeftsbetrieb in IE Substanz vorhalten; bei reinen Lizenz-Vehikeln Verlagerung |
+| Schachteldividende IE-Ltd an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt; Erstattung Revenue | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
+| Lizenzgebuehr aus DE an IE-Tochter (Cross-Charge) vs. interne Verrechnung | DBA 0 Prozent fuer Lizenz; aber § 4j EStG-Lizenzschranke beim deutschen Zahler pruefen (Versagung des BA-Abzugs bei niedriger Besteuerung beim Empfaenger) | interne Verrechnung ohne Lizenz | § 4j EStG erfasst irische IP-Box-Strukturen mit Substanzdefizit; bei Nexus-konformer Forschung in IE unschaedlich |
+| CFC § 7 AStG bei niedriger Besteuerung (12,5 Prozent unter 15-Prozent-Schwelle ab 2024) | Hinzurechnungsbesteuerung in DE | bei aktivem Geschaeftsbetrieb keine Hinzurechnung | Aktiv-Katalog § 8 AStG strikt pruefen |
+
+## Edge Cases — was Pruefer triggert
+
+- **AStG-Niedrigsteuerschwelle ab VZ 2024 = 15 Prozent**: irische KSt 12,5 Prozent liegt darunter. **CFC-Hinzurechnung bei passiven Einkuenften zwingend pruefen**. Mandanten-Memos vor 2024 mit 25-Prozent-Schwelle aktualisieren!
+- **§ 4j EStG-Lizenzschranke**: deutsche Lizenzgebuehr-Zahlungen an irische Empfaenger mit IP-Box-Vorzugsbesteuerung — Abzugsbeschraenkung beim deutschen Zahler; Nexus-Approach prufen.
+- **Pillar Two ab 2024**: irische Tochtergesellschaften mit effektiv 12,5 Prozent — Top-Up auf 15 Prozent durch QDMTT in IE oder IIR in DE.
+- **"Double Irish" Altstrukturen**: vor 2020 weit verbreitet, ab 2015 Phase-Out; in laufenden Mandanten-Memos pruefen, ob Altstrukturen noch existieren.
+- **§ 50d Abs. 3 EStG-Substanztest**: irische Briefkasten-Holdings ohne Personal scheitern — voller Substanz-Aufbau in IE inkl. Personal, Buero, Entscheidungstraegerneutsch.
+
+## Berechnungsbeispiel — Schachteldividende IE-Ltd an DE-Holding (mit Substanz)
+
+> IE-Ltd (Dublin, voller Geschaeftsbetrieb mit 20 Mitarbeitern, eigene Geschaeftsraeume) schuettet 5.000.000 EUR Dividende an deutsche Mutter (Beteiligung 100 Prozent, Haltedauer 5 Jahre).
+>
+> Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent irische Quellensteuer — Voraussetzung: Freistellung an Quelle vor Ausschuettung beantragen.
+>
+> Schritt 2: In DE: § 8b KStG-Befreiung 95 Prozent, 5 Prozent fiktive nichtabziehbare BA = 250.000 EUR; deutsche KSt+GewSt ca. 29 Prozent darauf = 72.500 EUR effektive Belastung.
+>
+> Schritt 3: § 50d Abs. 3 EStG-Substanztest: bei vollem Geschaeftsbetrieb in IE Treaty-Schutz; bei Briefkasten Versagung der Begunstigung.
+>
+> Schritt 4: Pillar Two: bei Gesamteffektivsteuer in IE unter 15 Prozent ggf. Top-Up; bei aktivem operativem Geschaeft regelmaessig substantial-activity-Carve-Out anwendbar.
+
+## Berechnungsbeispiel — Lizenzgebuehr DE-Konzernmutter an IE-IP-Tochter
+
+> DE-AG zahlt 1.000.000 EUR Lizenzgebuehr p.a. an irische IP-Tochter (12,5 Prozent KSt-Vorzug; IP-Box-Sondersteuer effektiv 6 Prozent ohne Nexus, mit Nexus hoeher).
+>
+> Schritt 1: DBA-IE Art. 12: 0 Prozent Quellensteuer auf Lizenzgebuehren — vorab Ansaessigkeitsbescheinigung an deutsche Quelle.
+>
+> Schritt 2: § 4j EStG-Lizenzschranke (deutsche Lizenzzahler-Seite): bei niedriger Besteuerung beim Empfaenger (effektiv unter 25 Prozent ohne Nexus) Versagung des BA-Abzugs anteilig.
+>
+> Schritt 3: Wenn irische IP-Tochter Nexus-konform (substanzielle Forschungs-/Entwicklungstaetigkeit in IE), § 4j EStG-Versagung unanwendbar.
+>
+> Schritt 4: Pillar Two ab 2024: irische effektive Steuerbelastung unter 15 Prozent — Top-Up-Tax in IE (QDMTT) oder bei DE-Mutter (IIR).
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-luxemburg-2012`, `stb-dba-malta-2001`, `stb-dba-lizenzgebuehren-art-12-bzst`.

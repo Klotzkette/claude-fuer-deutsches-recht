@@ -108,6 +108,74 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - Bei strittiger Gemeindezugehoerigkeit: Verstaendigungsverfahren oder Auskunft bei FA bzw. CFE.
 - Lohnsteuer-Anpassungsantrag in Deutschland fuer franzoesische Grenzgaenger ohne deutsche Lohnsteuer.
 
+## Praktiker-Tipps der alten Hasen
+
+### Erstattungsverfahren bei FR-Quellensteuer
+
+- **Zustaendigkeit**: bei strittiger Lohnsteuer franzoesische **Service des Impots des Non-Residents (SIPNR)** Noisy-le-Grand.
+- **Antragsformulare**: in der Praxis verbreitet **Cerfa 5000** (Ansaessigkeitsbescheinigung/Antrag) und **Cerfa 5001/5003** (spezifische Erstattung Dividende/Lizenz) — **konkrete Cerfa-Nummern vom Anwender mit aktuellem Stand auf impots.gouv.fr zu verifizieren**.
+- **Frist**: bis 31. Dezember des zweiten Folgejahres ab Steuerentrichtung — kurze Frist!
+- **Bearbeitungsdauer SIPNR**: 12-36 Monate.
+
+### Lokaler Steuerberater-Kontakt
+
+- **Empfehlung**: bei strittigen 45-Tage-Verhaeltnissen, bei Home-Office-Mischfaellen, bei Vermietung in der franzoesischen Grenzzone. Strassburger oder Saarbruecker Anwaelte/Steuerberater mit grenzueberschreitender Praxis.
+
+### Sprachen-Falle
+
+- Verwaltungsvereinbarung Grenzgaenger 16.02.2006 zweisprachig DE/FR — bei Auslegungsstreit franzoesischen Originaltext heranziehen.
+- Bescheid des franzoesischen FA auf Franzoesisch; bei Bedarf vereidigte Uebersetzung fuer deutsches FA.
+
+### Online-Portale
+
+- **impots.gouv.fr**: franzoesische Steuerverwaltung mit eigener Sektion fuer Grenzgaenger (frontaliers).
+- **DRFiP Grand Est** als regionales FA-Pendant.
+
+## Trade-off-Tabelle
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Grenzgaengerstatus halten (Wohnsitz/Arbeit in 20-km-Zone, max. 45 Nicht-Rueckkehrtage) | Wohnsitzstaat-Besteuerung (DE) — meist guenstiger als FR-progressive Tarife | Status verlieren (z.B. durch Umzug, Tagungen): Art. 15 OECD-MA, regulaer | bei stabiler Konstellation Status halten |
+| Wohnsitz Kehl/Strassburg vs. Karlsruhe/Mannheim | Grenzgaengerstatus moeglich (in Zone) | Karlsruhe/Mannheim NICHT in 20-km-Zone — Grenzgaenger ausgeschlossen | bei Job-Wahl Wohnsitzentscheidung mitdenken |
+| Home-Office-Tage in Grenzzone vs. ausserhalb | in Grenzzone Wohnsitz nicht schaedlich (regelmaessig zaehlend als Heimkehrtag) | ausserhalb der Grenzzone schaedlich | Wohnsitz mit Home-Office-Eignung waehlen |
+| Selbstaendiger Grenzgaenger vs. Arbeitnehmer | Grenzgaengerregelung Art. 13 Abs. 5 erfasst nur Arbeitnehmer; Selbstaendige nach Art. 12/14 DBA | bei Selbststaendigkeit andere Pruefung | Statuswechsel bewusst planen |
+
+## Edge Cases — was Pruefer triggert
+
+- **Wohnsitz Karlsruhe + Arbeit Strassburg**: klassischer "Beinahe-Grenzgaenger" — scheitert wegen Karlsruhe nicht in 20-km-Zone. Mandant glaubt oft, Grenzgaengerstatus zu haben.
+- **Dienstreisen nach Paris** (10 Tage), **Tagungen in Lyon** (5 Tage), **Schulung in Bordeaux** (3 Tage): jede Uebernachtung auswaerts zaehlt schaedlich — bei mehrtaegigen Reisen schnell ueber 45 Tage.
+- **Krankheits- und Urlaubstage**: NICHT schaedlich nach Verwaltungsvereinbarung — sauber abgrenzen (Krankenscheine, Urlaubsantraege).
+- **Drittstaat-Aufenthalte**: Geschaeftsreisen nach Schweiz/USA/UK zaehlen schaedlich, weil keine Rueckkehr zum deutschen Wohnsitz.
+- **Vorruhestand/Altersteilzeit**: Grenzgaengerstatus haengt an Arbeitsverhaeltnis — bei Aussetzung Status weg.
+- **Doppelhaushalt**: Mandant mit Familienwohnsitz Saarbruecken und Zweitwohnung Strassburg fuer Arbeit — Tie-Breaker Art. 4 entscheidet ueber Wohnsitzstaat; Grenzgaengerstatus nur bei einheitlichem Wohnsitz in Grenzzone.
+- **Lohnsteuer-Korrektur**: deutsches FA muss bei vorgelegter Grenzgaengerbescheinigung von der Lohnsteuer (bei FR-Arbeitgeber) entlasten, bzw. franzoesischer Arbeitgeber das Verfahren der "non-prelevement a la source" beachten — Aktualitaet pruefen.
+
+## Berechnungsbeispiel — Grenzgaenger Kehl-Strassburg
+
+> Mandant Wohnsitz Kehl (in 20-km-Zone), Arbeit Strassburg bei FR-SARL als Ingenieur. Bruttolohn 65.000 EUR p.a. 12 Dienstreisetage in Lyon, 8 Tage Tagungen in Paris, 5 Schulungstage in Marseille — insgesamt 25 Nicht-Rueckkehrtage. 35 Krankheitstage (nicht schaedlich), 30 Urlaubstage (nicht schaedlich).
+>
+> Schritt 1: Wohnsitz Kehl in 20-km-Zone (laut Gemeindeliste); Arbeitsort Strassburg ebenfalls in der franzoesischen Zone.
+>
+> Schritt 2: 25 Nicht-Rueckkehrtage unter 45-Tage-Schwelle. Grenzgaengerstatus erfuellt.
+>
+> Schritt 3: Wohnsitzstaat-Besteuerung DE. Franzoesischer Arbeitgeber verzichtet auf "prelevement a la source" bei Vorlage Grenzgaengerbescheinigung (Attestation de frontalier).
+>
+> Schritt 4: Anlage N-AUS in DE; volle deutsche EStG-Pflicht ca. 18.000 EUR (Tarif). Ohne Grenzgaengerstatus: franzoesische Steuer + Anrechnung in DE.
+
+## Berechnungsbeispiel — Verlust Grenzgaengerstatus durch zu viele Dienstreisen
+
+> Gleicher Mandant, aber 50 Dienstreisetage (Aufgabenwechsel mit hoeherem Reiseanteil).
+>
+> Schritt 1: 50 Nicht-Rueckkehrtage **ueber 45-Tage-Schwelle** — **Schaedlichkeitsverletzung**.
+>
+> Schritt 2: Grenzgaengerstatus verloren. Rueckkehr zu Art. 15 OECD-MA: 183-Tage-Pruefung.
+>
+> Schritt 3: Bei mehr als 183 Tagen in FR: franzoesische Besteuerung des FR-Lohnanteils. Lohnsteuerabzug durch FR-Arbeitgeber.
+>
+> Schritt 4: In DE: Anrechnung der franzoesischen Steuer nach § 34c EStG oder Freistellung mit Progressionsvorbehalt nach DBA Art. 20.
+>
+> Schritt 5: Erhebliche Steuermehrbelastung wahrscheinlich (FR-progressive Tarife hoeher als DE bei mittleren Einkommen) — **vorab Statuswechsel planen**.
+
 ## Querverweise
 
 - `stb-dba-frankreich-1959` — Grunddokumentation DBA-Frankreich.
