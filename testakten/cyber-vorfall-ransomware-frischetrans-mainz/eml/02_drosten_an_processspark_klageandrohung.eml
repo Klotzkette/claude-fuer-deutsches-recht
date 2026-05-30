@@ -1,0 +1,46 @@
+From: l.drosten@drosten-pekonkur.de
+To: legal@processspark.de
+Cc: vorstand@processspark.de
+Date: Tue, 12 May 2026 14:22:00 +0200
+Subject: =?UTF-8?B?U2NoYWRlbnNlcnNhdHogdW5kIFZlcnRyYWdzdHJhZmUgLSBJVC1CZXF0cmllYnN2ZXJ0cmFnIC0gUmFuc29td2FyZS1TY2hhZGVuIENWRS0yMDI2LTA3MTIgLSBGcmlzY2hldHJhbnMgTWl0dGVscmhlaW4gR21iSA==?=
+Message-ID: <20260512142200.drosten.processspark@drosten-pekonkur.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Mailer: Kanzlei-Mail-System Drosten & Pekonkur
+X-Priority: 1 (Highest)
+Importance: High
+X-Confidentiality: Vertraulich - Rechtsangelegenheit
+
+EINSCHREIBEN / RÜCKSCHEIN (postalisch parallel versandt)
+
+Sehr geehrte Damen und Herren,
+
+wir sind anwaltliche Bevollmächtigte der Frischetrans Mittelrhein GmbH, Binger Straße 142, 55131 Mainz (nachfolgend "Mandantin"). Vollmacht liegt postalisch bei.
+
+Wir machen hiermit Schadensersatz- und Vertragsstrafenansprüche aus dem IT-Betriebsvertrag vom 15.03.2021 (Nachtrag 3 vom 01.07.2024) geltend.
+
+KURZER SACHVERHALT:
+Am 06.05.2026 wurde unsere Mandantin durch einen Ransomware-Angriff (Gruppe AkiraNext) schwer geschädigt. Forensische Untersuchungen belegen: Angriffsvektor war CVE-2026-0712 (SAP NetWeaver AS ABAP, CVSS 9.8, Critical). Ihr Unternehmen spielte den verfügbaren Patch erst am 28./29.04.2026 ein - 55 Tage nach Ablauf der vertraglichen 14-Tage-Patchfrist für Critical-Schwachstellen (§ 12 Abs. 2 Nachtrag 3).
+
+FORDERUNGEN:
+1. Vertragsstrafe (§ 14 Abs. 3): EUR 518,00
+2. Schadensersatz (§§ 280, 241 Abs. 2 BGB): EUR 681.300,00 (vorläufig)
+3. Gesamtforderung: EUR 681.818,00
+
+FRIST: 26.05.2026
+
+Bei fruchtlosem Fristablauf wird Klage am Landgericht Mainz erhoben (geplantes AZ: 3 O 88/26). Die außerordentliche Kündigung des Vertrages aus wichtigem Grund (§ 626 BGB) bleibt vorbehalten.
+
+Wir fordern Sie zusätzlich auf, alle Patch-Logs und internen Kommunikationen zu CVE-2026-0712 bis zum 20.05.2026 vorzulegen.
+
+Das vollständige Klageandrohungsschreiben ist als Anlage beigefügt.
+
+Mit freundlichen Grüßen
+
+RA Lukas Drosten
+Fachanwalt für IT-Recht
+Kanzlei Drosten & Pekonkur, Mainz
+Tel.: +49 6131 2240-0
+
+Anlage: Klageandrohungsschreiben (PDF), Vollmacht Frischetrans GmbH (PDF)

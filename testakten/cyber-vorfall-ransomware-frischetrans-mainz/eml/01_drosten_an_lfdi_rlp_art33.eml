@@ -1,0 +1,43 @@
+From: l.drosten@drosten-pekonkur.de
+To: datenpanne@lfdi.rlp.de
+Cc: m.feilke@datenschutz-rhein-main.de
+Date: Thu, 08 May 2026 22:45:00 +0200
+Subject: =?UTF-8?B?TWVsZHVuZyBnZW3DpMOfIEFydC4gMzMgRFNHVk8gLSBGcmlzY2hldHJhbnMgTWl0dGVscmhlaW4gR21iSCAtIFJhbnNvbXdhcmUtQW5ncmlmZiAwNi4wNS4yMDI2?=
+Message-ID: <20260508224500.drosten.lfdi@drosten-pekonkur.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Mailer: Kanzlei-Mail-System Drosten & Pekonkur
+X-Confidentiality: Vertraulich - Anwaltliches Berufsgeheimnis
+
+Sehr geehrte Damen und Herren,
+
+im Auftrag und in Vollmacht unserer Mandantin Frischetrans Mittelrhein GmbH, Binger Straße 142, 55131 Mainz, übermittle ich Ihnen die formelle Meldung einer Verletzung des Schutzes personenbezogener Daten gemäß Art. 33 Abs. 3 DSGVO.
+
+Referenz: LfDI-RLP-2026-0508-4419 (per Online-Meldeportal)
+
+Zusammenfassung:
+- Vorfall: Ransomware-Angriff (AkiraNext), 06.05.2026, 04:17 Uhr
+- Angriffsvektor: CVE-2026-0712 (SAP NetWeaver, CVSS 9.8)
+- Exfiltrierte Datenmenge: ca. 2,1 TB
+- Betroffene Personen: 280 Mitarbeiter (davon 38 mit BEM-Gesundheitsdaten, Art. 9 DSGVO), 18 Geschäftskunden (Kontaktpersonen)
+- Meldezeitpunkt: 08.05.2026, 22:45 Uhr (innerhalb der 72-h-Frist gem. Art. 33 Abs. 1 DSGVO)
+
+Die vollständige Meldung wurde über das Online-Meldeportal des LfDI RLP eingereicht und trägt die Eingangsreferenz LfDI-RLP-2026-0508-4419. Als Anlage ist der Meldungsentwurf (entsprechend dem Aktenstück 05 der Akte) beigefügt.
+
+Besonderer Hinweis zu BEM-Gesundheitsdaten:
+Die exfiltrierten Daten umfassen Gesundheitsdaten (Diagnosen, Therapieverläufe, ärztliche Atteste) von 38 Beschäftigten aus BEM-Verfahren. Dies ist als hohes Risiko i.S.d. Art. 34 DSGVO eingestuft. Die betroffenen Mitarbeiter wurden am 11.05.2026 persönlich und vertraulich benachrichtigt. Eine Datenschutz-Folgenabschätzung (Art. 35 DSGVO) ist eingeleitet; sie wird bis 22.05.2026 vorgelegt.
+
+Rückfragen richte ich bitte an:
+RA Lukas Drosten, Tel. +49 6131 2240-0, l.drosten@drosten-pekonkur.de
+
+Mit freundlichen Grüßen
+
+RA Lukas Drosten
+Fachanwalt für IT-Recht
+Kanzlei Drosten & Pekonkur
+Schillerstraße 14, 55116 Mainz
+Tel.: +49 6131 2240-0 | Fax: +49 6131 2240-99
+kanzlei@drosten-pekonkur.de
+
+Anlage: Meldungsformular (PDF) - übermittelt via Meldeportal
