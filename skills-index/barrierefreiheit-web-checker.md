@@ -1,6 +1,6 @@
 # barrierefreiheit-web-checker
 
-**12 Skills** · Stand `v50.5.2`
+**12 Skills** · Stand `v50.6.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/barrierefreiheit-web-checker/README.md)

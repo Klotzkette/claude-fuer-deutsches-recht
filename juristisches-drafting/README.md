@@ -26,7 +26,7 @@ Voraussetzung: deutsche juristische Grundausbildung; das Plugin erklärt **Draft
 
 ## Aufbau
 
-Das Plugin gliedert sich in sechs Skill-Blöcke:
+Das Plugin gliedert sich in sieben Skill-Blöcke:
 
 ### Block A – Grundlagen des Drafting
 
@@ -70,6 +70,17 @@ Das Plugin gliedert sich in sechs Skill-Blöcke:
 23. `word-formatvorlagen-querverweise-track-changes` – Formatvorlagen, Verzeichnisse, Querverweise.
 24. `cowork-cloud-kollaboration-drafting` – Mandantengeheimnis-konformes Arbeiten in der Cloud.
 25. `revisions-prozess-redlines-comparison` – Compare-Doc, Markup, Versionierung.
+
+### Block G – Verhandlung und Klauselbibliothek (neu in v50.6.0)
+
+26. `defensive-drafting-fallen-erkennen` – Zwölf typische Fallen in Gegenseitenentwürfen mit Roten-Flaggen-Wortlisten und Verteidigungsformulierungen.
+27. `term-sheet-zu-vertrag-uebersetzung` – Mapping-Tabelle Term-Sheet-Position → Vertragsklausel, zwölf typische Term-Sheet-Lücken, Mandantenmemo-Vorlage.
+28. `bilingual-drafting-deutsch-englisch` – Drei Use Cases (zwei Sprachfassungen, Glossar, parallele Spalten), False-Friends-Tabelle DE-EN, Maßgeblichkeits-Klausel.
+29. `klausel-bibliothek-katalog` – Über 60 fertige Bausteine mit B2B/B2C-Ampel, AGB-Risiko und bilingualer Variante. Quelle: `references/klausel-bibliothek.md`.
+
+## Asset-Datei
+
+- `references/klausel-bibliothek.md` – Klauselbibliothek mit über 60 Bausteinen, gegliedert in 25 Bereiche (Präambel bis Audit-Recht), je mit Verwendungshinweis, AGB-Ampel, mild/scharf-Variante und englischer Fassung.
 
 ## Methodischer Rahmen
 

@@ -50,6 +50,10 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er haelt kein
 | AGB | Erstentwurf | `agb-konforme-klauseln-305-310-bgb`, `transparenzgebot-307-bgb` |
 | Anwaltsschreiben | Erstmahnung | `anwaltsschreiben-aussergerichtlich`, `stil-und-ton-juristische-texte` |
 | Memo | Intern | `gutachten-memo-internes-drafting` |
+| Vertragsentwurf der Gegenseite | Review mit Verteidigungshaltung | `defensive-drafting-fallen-erkennen`, `verweis-und-querverweis-technik` |
+| Term Sheet / LoI | Uebersetzung in Vertrag | `term-sheet-zu-vertrag-uebersetzung`, `dokumentstruktur-makroebene-vertrag-und-schriftsatz` |
+| Vertrag DE/EN | Bilingual | `bilingual-drafting-deutsch-englisch`, `definitionen-klauseln-stringent` |
+| Klauselbedarf konkret | Baustein abrufen | `klausel-bibliothek-katalog`, `boilerplate-klauseln-katalog` |
 
 ## Typische Drafting-Fehler
 

@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v50.5.2`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v50.6.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -68,7 +68,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [insolvenzrecht](./insolvenzrecht.md) (16 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (45 Skills)
 - [jurastudium](./jurastudium.md) (23 Skills)
-- [juristisches-drafting](./juristisches-drafting.md) (25 Skills)
+- [juristisches-drafting](./juristisches-drafting.md) (29 Skills)
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (20 Skills)
 - [kanzlei-allgemein](./kanzlei-allgemein.md) (48 Skills)
 - [kanzlei-builder-hub](./kanzlei-builder-hub.md) (13 Skills)

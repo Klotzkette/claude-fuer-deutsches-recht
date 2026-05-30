@@ -1,7 +1,7 @@
 {
   "name": "juristisches-drafting",
-  "version": "50.0.0",
-  "description": "Juristisches Drafting generisch in Word und Cowork: Vertragsklauseln Schriftsätze Anwaltsschreiben Definitionen Boilerplate Bedingungen Verweise Haftungsbegrenzung Vertragsstrafe NDA Force Majeure Lizenzen AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Querverweise Redlines Revisions-Workflow.",
+  "version": "50.6.0",
+  "description": "Juristisches Drafting in Word und Cowork: Vertragsklauseln Schriftsaetze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek mit 60 Bausteinen.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -31,6 +31,11 @@
     "track-changes",
     "redlines",
     "cowork-collaboration",
-    "revisions-prozess"
+    "revisions-prozess",
+    "defensive-drafting",
+    "term-sheet",
+    "bilingual-drafting",
+    "klauselbibliothek",
+    "klauselbausteine"
   ]
 }

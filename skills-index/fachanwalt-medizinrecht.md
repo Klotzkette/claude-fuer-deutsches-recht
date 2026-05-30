@@ -1,6 +1,6 @@
 # fachanwalt-medizinrecht
 
-**16 Skills** · Stand `v50.5.2`
+**16 Skills** · Stand `v50.6.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-medizinrecht/README.md)

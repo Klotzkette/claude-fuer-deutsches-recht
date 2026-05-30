@@ -549,11 +549,11 @@
     {
       "name": "juristisches-drafting",
       "source": "./juristisches-drafting",
-      "description": "Juristisches Drafting generisch in Word und Cowork: Vertragsklauseln Schriftsätze Anwaltsschreiben Definitionen Boilerplate Bedingungen Verweise Haftungsbegrenzung Vertragsstrafe NDA Force Majeure Lizenzen AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Querverweise Redlines Revisions-Workflow.",
+      "description": "Juristisches Drafting in Word und Cowork: Vertragsklauseln Schriftsätze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB Klage Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek 60 Bausteine.",
       "author": {
         "name": "Klotzkette"
       },
-      "version": "50.0.0"
+      "version": "50.6.0"
     },
     {
       "name": "jveg-kostenpruefer",
@@ -990,5 +990,5 @@
       "version": "50.0.0"
     }
   ],
-  "version": "50.5.2"
+  "version": "50.6.0"
 }

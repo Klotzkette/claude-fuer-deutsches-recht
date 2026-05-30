@@ -1,3 +1,28 @@
+# v50.6.0 — `juristisches-drafting` genialer: Defensive Drafting, Term Sheet, Bilingual, Klauselbibliothek
+
+User-Wunsch: Das Plugin `juristisches-drafting` ist solide, aber spartanisch. Es soll genialer werden für Juristinnen und Juristen, die in Word schreiben. Vier zentrale Lücken wurden geschlossen: fehlende fertige Klauselbausteine, keine defensive Verteidigungs-Heuristik bei Gegenseitenentwürfen, kein Term-Sheet-zu-Vertrag-Workflow und keine bilinguale Drafting-Anleitung.
+
+## Vier neue Skills im Plugin `juristisches-drafting`
+
+- **`defensive-drafting-fallen-erkennen`** — Zwölf typische Fallen in Gegenseitenentwürfen mit Roten-Flaggen-Wortlisten und Verteidigungsformulierungen (von einseitigen Haftungsbegrenzungen über kaschierte Vertragsstrafen bis zu versteckten Optionsrechten).
+- **`term-sheet-zu-vertrag-uebersetzung`** — Mapping-Tabelle Term-Sheet-Position → Vertragsklausel, zwölf typische Term-Sheet-Lücken (Steuern, IP, Indemnities, Closing Conditions, MAC-Klauseln), Mandantenmemo-Vorlage mit offenen Punkten.
+- **`bilingual-drafting-deutsch-englisch`** — Drei Use Cases (zwei Sprachfassungen, Glossar-Anhang, parallele Spalten), False-Friends-Tabelle DE-EN mit 25 Einträgen (z. B. `Schuldner ≠ schuldner`, `Erfüllungsort ≠ place of performance`, `Schadensersatz ≠ damages`), Maßgeblichkeits-Klausel.
+- **`klausel-bibliothek-katalog`** — Bedienungsanleitung für die Klauselbibliothek mit über 60 Bausteinen. Jeder Baustein hat B2B/B2C-Ampel, AGB-Risiko (grün/gelb/rot), mild/scharf-Variante und englische Fassung.
+
+## Asset
+
+- **`juristisches-drafting/references/klausel-bibliothek.md`** — Klauselbibliothek mit über 60 Bausteinen in 25 Bereichen (Präambel, Definitionen, Leistung, Vergütung, Verzug, Aufrechnung, Gewährleistung, Haftung, Vertragsstrafe, Kündigung, Force Majeure, Geheimhaltung, Datenschutz, IP, Änderungsrechte, Sprache, Schriftform, Salvatorisch, Gerichtsstand, Schiedsklausel, Whole Agreement, Abtretung, Compliance, Subunternehmer, Audit-Recht).
+
+## Weitere Änderungen
+
+- `orientierung-drafting-triage`: Triage-Tabelle um vier neue Zeilen erweitert (Gegenseitenentwurf, Term Sheet, bilinguale Verträge, Klauselbedarf).
+- `juristisches-drafting/README.md`: Blockstruktur erweitert um **Block G – Verhandlung und Klauselbibliothek**; Asset-Datei dokumentiert.
+- `juristisches-drafting/.claude-plugin/plugin.json`: Description und Keywords um Defensive Drafting, Term Sheet, Bilingual und Klauselbibliothek ergänzt.
+- Marketplace-Version `50.5.2` → `50.6.0`.
+- Plugin-Version `juristisches-drafting` `50.0.0` → `50.6.0`.
+- Automatische Regeneration von `SKILLS.md` und `skills-index/juristisches-drafting.md` über `scripts/generate-skills-md.py`.
+- Enthält die zuvor unveröffentlichten Änderungen aus v50.5.2 (Regeneration der Übersichten für das initial in v50.5.x hinzugefügte Plugin).
+
 # v50.5.2 — Skill-Übersichten für `juristisches-drafting` regeneriert
 
 Bugfix für ein Codex-P2-Finding zu v50.5.x: Das neue Plugin `juristisches-drafting` war zwar in der `marketplace.json` eingetragen, tauchte aber weder in `SKILLS.md` noch in `ASSET_INDEX.md` noch in `README.md` auf. Im ZIP-Download des Komplettpakets fehlten dadurch alle 25 neuen Skills aus der Übersicht.
