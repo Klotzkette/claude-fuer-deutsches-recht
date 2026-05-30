@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1-9 Testakten (46 Akten plus Welle 9 Mittelstand-MundA NDA Normenkontrolle Patentrecherche Produktrecht Prozessrecht)
+**Stand:** v51.0.0 — Welle 1-10 Testakten (52 Akten plus Welle 10 Rechtsberatungsstelle Regulatorik Steuerrecht Strafzumessung Subsumtions-Pruefer Tabellenreview)
 
 ## Asset-Typen
 
@@ -152,6 +152,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-arbeitszeugnis-analyse-bluehendes-leben.zip` | siehe `testakten/arbeitszeugnis-analyse-bluehendes-leben/` |
 | `testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip` | siehe `testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | siehe `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/` |
+| `testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart.zip` | siehe `testakten/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart/` |
 | `testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip` | siehe `testakten/bav-strategie-konzern-meissner-rheinwerk-ag/` |
 | `testakte-bebauungsplan-augsburg-bahnhofsareal.zip` | siehe `testakten/bebauungsplan-augsburg-bahnhofsareal/` |
 | `testakte-befristungskontrollklage-vogt-stadtwerke.zip` | siehe `testakten/befristungskontrollklage-vogt-stadtwerke/` |
@@ -160,6 +161,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch.zip` | siehe `testakten/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch/` |
 | `testakte-betreuung-hildegard-sauer.zip` | siehe `testakten/betreuung-hildegard-sauer/` |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip` | siehe `testakten/betreuung-schmalfeld-kontodaten-vertraege/` |
+| `testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip` | siehe `testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/` |
 | `testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip` | siehe `testakten/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck/` |
 | `testakte-bgb-at-altfraenkische-werkstatt.zip` | siehe `testakten/bgb-at-altfraenkische-werkstatt/` |
 | `testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip` | siehe `testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/` |
@@ -232,6 +234,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip` | siehe `testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
 | `testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip` | siehe `testakten/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt/` |
+| `testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach.zip` | siehe `testakten/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach/` |
 | `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip` | siehe `testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/` |
 | `testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip` | siehe `testakten/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub/` |
 | `testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip` | siehe `testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/` |
@@ -244,6 +247,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
 | `testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip` | siehe `testakten/starug-schutzschirm-grossbach-druckguss-erfurt/` |
 | `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` | siehe `testakten/strafbefehl-ladendiebstahl-fahrerflucht/` |
+| `testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip` | siehe `testakten/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung/` |
+| `testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip` | siehe `testakten/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann/` |
+| `testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip` | siehe `testakten/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
 | `testakte-verkehrsowi-rotlicht-tempo.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo/` |
@@ -284,4 +290,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 227 Assets, davon 108 Plugin-ZIPs, 115 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 233 Assets, davon 108 Plugin-ZIPs, 121 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
