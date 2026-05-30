@@ -96,7 +96,7 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 - **Brasilien**: technische Dienstleistungen oft als Lizenz qualifiziert (15 Prozent Quellensteuer); national Auslegungs-Praxis weitreichend.
 - **Indien**: Equalisation Levy auf digitale Dienste (eigene Pruefung), Service-PE-Tatbestand.
 - **China**: Service-PE bei 6 Monaten Anwesenheit; eigene Quellensteuer-Verfahren mit lokalen Bescheinigungen.
-- **Russland**: DBA seit 30.12.2023 suspendiert — keine BZSt-Entlastung.
+- **Russland**: DBA-Anwendung ab 01.01.2024 in voller Reichweite suspendiert (konsolidierter BMF-Stand 15.01.2024 und Wirkung der StAbwV-Listung) — keine BZSt-Entlastung mehr. Altvorgaenge bis 07.08.2023 mit vollem DBA-Schutz; Uebergangszeitraum 08.08.2023 bis 31.12.2023 sorgfaeltig pruefen (Details in `stb-dba-russland-suspendierung-2024`).
 - **VAE**: DBA seit 01.01.2022 ausser Kraft — kein Schutz.
 - **Hong Kong**: eigenes DBA (2003) — nicht CN-DBA anwenden.
 - **USA**: LOB-Klausel zusaetzlich zum PPT — eigenstaendiger Anti-Missbrauchstest.
