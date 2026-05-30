@@ -107,3 +107,47 @@ Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich f�
 - dann `16` und `18` bis `22` für die Multi-Format-Materialien (WhatsApp-Thread im Chatlook, Cap-Table-Excel samt PDF-Ausdruck, Notar-Memo, Whiteboard, Investor-Email- und WhatsApp-Screenshot) sowie `chats/` für Slack-Thread und WhatsApp je als eigenes Dokument,
 - zum Schluss `15`, `24` und `25` für Closing-Checkliste, Agio-/Kapitalrücklage-Streitfrage und Mailbox-/Call-Fragmente.
 - Für schnelle Vorführungen ohne Fragmentwechsel: `26-gesamtakte-kometenfalter-series-a.pdf`.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `allgemein` | Einstieg fuer das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills. |
+| `anschauungsmaterial-multiformat-auswertung` | Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, Screenshot, JPEG, Excel, Chat, Email, Notarvermerk, Cap Table und Dealroom-Fragmente. |
+| `anti-dilution-protection` | Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken. |
+| `articles-association-satzung` | Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen. |
+| `begriffskompass-intake` | Erfasst einen Corporate-English-Begriff mit Dokument, Rechtsordnung, Parteirolle, deutscher Naeherung, False-Friend-Risiko und gewuenschtem Arbeitsprodukt. |
+| `bgb-at-schuldrecht-at-im-ma` | Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen: Form, Stellvertretung, Bedingungen, Verfuegungsverbote, AGB-Kontrolle, Konkretisi... |
+| `cap-table-gesellschafterliste` | Erklaert und prueft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung, Stammkapital, Geschaeftsanteile, Verwässerung und Registerrealitaet. |
+| `client-explainer-legal-english` | Erstellt mandantenfreundliche Erklaerungen von Corporate-Legal-English-Begriffen ohne Jargon, mit Beispielen, Risiken und naechsten Entscheidungen. |
+| `deutsches-recht-englische-vertraege` | Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends. |
+| `drag-tag-piggyback` | Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik. |
+| `due-diligence-red-flag-report` | Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book, Materiality, Disclosure Schedule, Q&A und quellenbelegte Findings. |
+| `earn-out-kaufpreismechanik` | Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen. |
+| `exit-spa-closing-cp` | Erklaert Exit, SPA, signing, closing, Conditions Precedent, Long Stop Date, Closing Deliverables und Vollzugslogik bei Unternehmenstransaktionen. |
+| `financial-debt-net-debt-working-capital` | Prueft Financial Debt, Net Debt, Cash Free Debt Free, Working Capital, Debt-like Items und Kaufpreisformel im M&A-Kontext. |
+| `financing-convertible-loan-safe` | Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen. |
+| `fully-diluted-esop-option-pool` | Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren. |
+| `governance-board-consent-matters` | Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik fuer GmbH, AG und Beirat. |
+| `lernpfad-dealroom-simulator` | Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealroom-Inventar, Uebungen, Loesungsrichtung, Senior-Gates und konkreten Arbeitsprodukten. |
+| `liquidation-preference-waterfall` | Erklaert Liquidation Preference, participating preference, non-participating preference, Exit-Waterfall, Rangfolge und wirtschaftliche Verteilungswirkung. |
+| `partner-briefing-memo` | Schreibt ein knappes Partnerbriefing zu Corporate-English-Fragen mit Issue, Rechtsanker, wirtschaftlicher Wirkung, Empfehlung und Rueckfragen. |
+| `protective-provisions-vetorechte` | Prueft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten. |
+| `qualitaetsgate-corporate-legal-english` | Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen. |
+| `reasonable-efforts-covenants` | Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie fuer deutsches Recht. |
+| `reps-warranties-indemnities` | Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA. |
+| `rookie-modus` | First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. |
+| `sha-gesellschaftervereinbarung` | Erklaert Shareholders Agreement, Gesellschaftervereinbarung, Stimmbindung, Pooling, Satzungsschnittstelle, Nebenabreden und Vollzug. |
+| `share-classes-vorzugsrechte` | Erklaert share classes, preferred shares, common shares, Vorzugsrechte, Sonderrechte und deutsche Umsetzungsfragen bei GmbH und AG. |
+| `term-sheet-investment-agreement` | Fuehrt durch Term Sheet, Investment Agreement, Bindungswirkung, Conditions, Exclusivity, Confidentiality, Kosten und deutsche Vollzugsmechanik. |
+| `transfer-restrictions-vinkulierung` | Erklaert Transfer Restrictions, Vinkulierung, ROFR, ROFO, Lock-up, Permitted Transfers und Vollzug bei deutschen Anteilen. |
+| `upstream-security-financial-assistance` | Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten. |
+| `verdeckte-sacheinlage` | Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnung... |
+| `vesting-leaver-cliff` | Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rueckuebertragung im deutschen Gesellschaftsrecht. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

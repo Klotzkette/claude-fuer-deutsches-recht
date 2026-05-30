@@ -1,3 +1,21 @@
+# v49.2.0 — Skill-Uebersicht in allen 107 Plugin-READMEs vollstaendig
+
+Sanity-Check ergab: in 96 von 107 Plugin-READMEs fehlten Skills in der jeweiligen Uebersicht. In den meisten Faellen war es nur der `allgemein`-Triage-Skill; bei steuerrecht-anwalt-und-berater, selbstvertreter-amtsgericht, arbeitsrecht und 18 fachanwalt-Plugins fehlten erhebliche Bloecke.
+
+## Aenderungen
+
+- Neues Skript `scripts/generate-skills-overview.py` baut in jeder Plugin-README einen automatisch gepflegten Abschnitt `## Alle Skills im Ueberblick` ans Ende. Der Block ist mit HTML-Kommentar-Markern eingegrenzt und kann jederzeit regeneriert werden, ohne manuelle README-Inhalte zu zerstoeren.
+- 107 Plugin-READMEs einmalig generiert. Jede README listet jetzt alle Skills des Plugins mit Description aus der jeweiligen SKILL.md.
+- Cross-Check: 0 Plugins mit Skill-Drift in der README (vorher: 96).
+
+## Versionen
+
+Plugin-Versionen bleiben unveraendert (49.0.0 bzw. 49.1.0 fuer methodenlehre/mietrecht). Es haben sich nur READMEs geaendert, kein SKILL.md, keine plugin.json, keine references oder assets. Der Repo-Tag `v49.2.0` markiert den Sweep auf Repo-Ebene.
+
+Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
+
+---
+
 # v49.1.0 — Skill-Uebersichten in methodenlehre und mietrecht vollstaendig
 
 Codex hatte in v48.0.0 achtzehn neue Methodenlehre-Skills hinzugefuegt; die README und der `allgemein`-Skill listeten aber nur zwei davon auf. Im Mietrecht-Plugin fehlten vier Skills in der README-Tabelle.

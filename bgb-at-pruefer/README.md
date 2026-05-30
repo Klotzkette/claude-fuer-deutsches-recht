@@ -134,3 +134,68 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 - [subsumtions-pruefer](../subsumtions-pruefer) für generische Tatbestandsarbeit.
 - [schriftform-und-textform-bgb](../schriftform-und-textform-bgb) für tiefe Form-, Textform- und Zugangskonstellationen.
 - [bereicherungs-und-anfechtungsrecht-pruefer](../bereicherungs-und-anfechtungsrecht-pruefer) für Rückabwicklung nach unwirksamem Vertrag.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `abgabe-willenserklaerung` | Prüft Abgabe einer Willenserklärung unter Anwesenden und Abwesenden, Boten, E-Mail, Plattformen, Brief, Machtbereich und willentliche Entäußerung. |
+| `agb-einbeziehung-schnittstelle-paragraphen-305-310` | Schnittstellen-Skill zu AGB im BGB AT: Einbeziehung, überraschende Klausel, Vorrang der Individualabrede, Transparenz und Inhaltskontrolle als Folgeproblem. |
+| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im BGB-AT-Prüfer. Fragt Fallfrage, Rolle, Anspruchsziel, Tatsachen, Fristen, Erklärungen, Beteiligte und Wunsch-Output ab, baut einen schönen Arbeitsplan und schlägt passende Spezial-Skills au... |
+| `anfechtung-routing` | Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142 BGB: Anfechtungsgrund, Erklärung, Gegner, Frist, Ausschluss, Folgen und Alternativen. |
+| `anfechtungsfolgen-paragraphen-142-122` | Prüft Folgen der Anfechtung nach §§ 142 und 122 BGB: rückwirkende Nichtigkeit, Vertrauensschaden, Kenntnis, Rückabwicklung, Kondiktion und Risikohinweise. |
+| `anfechtungsfrist-erklaerung-bestaetigung` | Prüft Anfechtungserklärung, Anfechtungsgegner, Fristen nach §§ 121 und 124 BGB und Bestätigung nach § 144 BGB einschließlich Fristenlauf und Zugang. |
+| `annahmefrist-verspaetung-paragraphen-147-149` | Prüft Annahmefrist, verspätete Annahme, verspätet zugegangene Annahme und Mitteilungspflichten nach §§ 147 bis 149 BGB. |
+| `anspruchsaufbau-zivilrecht-bgb-at` | Anspruchsaufbau im Zivilrecht mit präziser Einordnung von BGB-AT-Themen in Anspruch entstanden, erloschen und durchsetzbar; vermeidet freischwebende Vorprüfungen und baut ein sauberes Gutachten. |
+| `auslegung-paragraphen-133-157` | Prüft Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: wirklicher Wille, objektiver Empfängerhorizont, Treu und Glauben, Verkehrssitte und Kontext. |
+| `auslegung-sachverhalt-und-fallfrage` | Sachverhalts- und Fallfrageauslegung bei BGB-AT-Fällen: trennt Tatsachen, Wertungen, Hinweise, Bearbeitervermerk und verdeckte Probleme, bevor materiellrechtlich geprüft wird. |
+| `bedingung-befristung-paragraphen-158-163` | Prüft Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebend, auflösend, Potestativbedingung, Bedingungsausfall, Treuwidrigkeit und Rechtsfolgen. |
+| `bgb-at-fallaufnahme-und-pruefprogramm` | Fallaufnahme für BGB-AT-Konstellationen mit sauberem Prüfprogramm: Sachverhalt, Anspruchsziel, Personen, Erklärungen, Kommunikationswege, Zeitpunkte, Form, Genehmigungen, Vollmachten, Anfechtung und Fristen. |
+| `bgb-at-output-gutachten-memo-schriftsatz` | Erstellt aus BGB-AT-Prüfungen wahlweise Gutachten, Klausurlösung, Mandatsmemo, Schriftsatzbaustein, Fristenvermerk, Anspruchsmatrix oder Rückfragenbrief. |
+| `bgb-at-training-fallvarianten` | Erzeugt und variiert BGB-AT-Trainingsfälle mit anonymen, fiktiven Personen, Lernzielen, Lösungsskizze, Abwandlungen und typischen Fehlern für Ausbildung und Kanzleitraining. |
+| `cic-vorvertragliche-pflichten-schnittstelle` | Schnittstellen-Skill zur culpa in contrahendo: vorvertragliches Schuldverhältnis, Schutzpflichten, Aufklärung, Abbruch von Verhandlungen und Abgrenzung zu BGB-AT-Wirksamkeitsfragen. |
+| `duldungs-anscheinsvollmacht` | Prüft Duldungs- und Anscheinsvollmacht als Rechtsscheinvertretung: zurechenbarer Rechtsschein, Vertrauen, Gutgläubigkeit und Abgrenzung zur bloßen Gefälligkeit. |
+| `eigenschaftsirrtum-paragraph-119-2` | Prüft Eigenschaftsirrtum nach § 119 Abs. 2 BGB: verkehrswesentliche Eigenschaften von Person oder Sache, Wertabgrenzung, Beschaffenheit und Gewährleistungs-Schnittstelle. |
+| `einseitige-geschaefte-minderjaehrige-paragraph-111` | Prüft einseitige Rechtsgeschäfte Minderjähriger nach § 111 BGB, insbesondere Kündigung, Anfechtung, Rücktritt, Vollmachtserteilung und Zugang gegenüber dem Minderjährigen. |
+| `einwilligung-genehmigung-paragraphen-107-bis-109` | Prüft Einwilligung, Genehmigung, schwebende Unwirksamkeit und Widerruf bei Minderjährigengeschäften nach §§ 107 bis 109 BGB mit sauberem Fristen- und Erklärungsrouting. |
+| `elektronische-form-bea-qes-formfiktion` | Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `elektronischer-zugang-und-plattformen` | Prüft elektronischen Zugang über E-Mail, Kundenportal, Messenger, Plattformkonto, Signaturdienst und automatisierte Systeme mit BGB-AT-Zugang, Form und Beweisrisiko. |
+| `ergaenzende-vertragsauslegung` | Prüft ergänzende Vertragsauslegung bei planwidriger Lücke, hypothetischem Parteiwillen, dispositivem Recht und Grenzen zur unzulässigen Vertragsneuschöpfung. |
+| `erklaerungsbewusstsein-und-potentielles-bewusstsein` | Vertieft Erklärungsbewusstsein und potentielles Erklärungsbewusstsein bei versehentlichen Erklärungen, digitalen Klicks, Signaturen und Verkehrsschutz. |
+| `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113` | Prüft §§ 112 und 113 BGB bei Minderjährigen im Erwerbsgeschäft, Dienst- oder Arbeitsverhältnis einschließlich Reichweite der Ermächtigung und Abgrenzung zu Einzelgeschäften. |
+| `formnichtigkeit-paragraphen-125-129` | Prüft Formvorschriften und Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche Form, vereinbarte Form, Schriftform, elektronische Form, Textform, notarielle Form und Heilung. |
+| `fristen-berechnung-paragraphen-186-193` | Berechnet Fristen nach §§ 186 bis 193 BGB: Ereignisfrist, Beginn, Ende, Wochen, Monate, Jahre, Sonnabend, Sonntag, Feiertag und dokumentierter Fristenvermerk. |
+| `geschaeftsfaehigkeit-paragraphen-104-bis-106` | Prüfung von Geschäftsunfähigkeit und beschränkter Geschäftsfähigkeit nach §§ 104 bis 106 BGB mit Altersgrenzen, natürlicher Einsichtsfähigkeit und Rechtsfolge für Willenserklärungen. |
+| `gesetzesverbot-sittenwidrigkeit-paragraphen-134-138` | Prüft Nichtigkeit wegen Gesetzesverstoß und Sittenwidrigkeit nach §§ 134 und 138 BGB mit Verbotszweck, Gesamtwürdigung, Teilnichtigkeit und Rückabwicklung. |
+| `gutachtenstil-und-klausurtechnik` | Gutachtenstil, Klausurtechnik und Schwerpunktsetzung für BGB AT: Obersatz, Definition, Subsumtion, Ergebnis, Streitstand nur wenn entscheidungserheblich, mit verständlicher Priorisierung. |
+| `handeln-im-fremden-namen-offenkundigkeit` | Prüft Handeln im fremden Namen und Offenkundigkeitsprinzip: ausdrückliche Offenlegung, unternehmensbezogenes Geschäft, Geschäft für den, den es angeht, und Eigengeschäft. |
+| `insichgeschaeft-paragraph-181` | Prüft § 181 BGB bei Insichgeschäft, Mehrvertretung, Selbstkontrahieren, Gestattung, Erfüllung einer Verbindlichkeit und Genehmigung. |
+| `invitatio-ad-offerendum-und-werbung` | Grenzt Angebot von invitatio ad offerendum, Werbung, Preisschild, Katalog, Online-Shop, Plattformlisting und unverbindlicher Verhandlungsaufforderung ab. |
+| `irrtumsanfechtung-paragraph-119-1` | Prüft Inhalts- und Erklärungsirrtum nach § 119 Abs. 1 BGB einschließlich Abgrenzung zu Motivirrtum, Kalkulationsirrtum, Auslegung und Vertragsrisiko. |
+| `kauf-im-internet-und-auktionen` | Prüft Vertragsschluss im Internet, Online-Auktion, Sofortkauf, Warenkorb, Bestellbutton, Bestätigungs-E-Mail und Plattformbedingungen im BGB-AT-Raster. |
+| `konsens-dissens-paragraphen-154-155` | Prüft Konsens, offenen und versteckten Dissens nach §§ 154 und 155 BGB sowie essentialia, Nebenpunkte, Auslegung und Vertragsrettung. |
+| `missbrauch-vertretungsmacht` | Prüft Missbrauch der Vertretungsmacht: Innenverstoß trotz Außenmacht, Evidenz, Kollusion, Treuwidrigkeit und Folgen für Vertrag und Haftung. |
+| `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Prüft Rechtsfähigkeit, Verbraucher- und Unternehmerrolle, Wohnsitz, Organe und Handlungsfähigkeit als Vorfragen für BGB-AT-Fälle und Vertragsprüfungen. |
+| `privatautonomie-trennungs-abstraktionsprinzip` | Grundlagen-Skill zu Privatautonomie, Rechtsgeschäft, Verpflichtung und Verfügung, Trennungs- und Abstraktionsprinzip; ordnet BGB-AT-Fragen in Vertrag, Verfügung und Rückabwicklung ein. |
+| `rechtlich-vorteilhaft-paragraph-107` | Prüft § 107 BGB: rechtlich lediglich vorteilhafte Geschäfte Minderjähriger, rechtliche Nachteile, neutrale Geschäfte und Abgrenzung zu wirtschaftlicher Vorteilhaftigkeit. |
+| `schweigen-und-erklaerungswert` | Prüft Schweigen als Nicht-Erklärung und Ausnahmen: kaufmännisches Bestätigungsschreiben, vereinbarte Erklärungswirkung, Treu und Glauben, AGB-Grenzen und Verbraucherschutz. |
+| `stellvertretung-routing-paragraphen-164-181` | Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: eigene Erklärung, fremder Name, Vertretungsmacht, Wissenszurechnung, Vollmacht, Missbrauch, Insichgeschäft und Vertreter ohne Vertretungsmacht. |
+| `taeuschung-drohung-paragraph-123` | Prüft Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung nach § 123 BGB mit Kausalität, Dritten, Wissenszurechnung und Jahresfrist. |
+| `taschengeld-paragraph-110` | Prüft § 110 BGB beim Minderjährigen: Bewirken der vertragsmäßigen Leistung mit überlassenen Mitteln, Raten, Kredit, Teilzahlung, digitale Zahlungen und Genehmigungsrisiken. |
+| `uebermittlungsirrtum-paragraph-120` | Prüft § 120 BGB bei falscher Übermittlung durch Boten, technische Systeme, Übersetzung, Diktat, Plattformfehler und Kommunikationsketten. |
+| `verfuegung-nichtberechtigter-paragraph-185` | Prüft Verfügung eines Nichtberechtigten nach § 185 BGB: Einwilligung, Genehmigung, Verfügungsbefugnis, Priorität, Eigentümerstellung und Rückwirkungsfragen. |
+| `verjaehrung-grundschema-paragraphen-194-218` | Prüft Verjährung nach §§ 194 bis 218 BGB: Anspruch, Fristdauer, Fristbeginn, Kenntnis, Hemmung, Neubeginn, Einrede, Nebenrechte und Rücktrittssperre. |
+| `vertragsschluss-antrag-annahme` | Prüft Vertragsschluss durch Antrag und Annahme nach §§ 145 ff. BGB einschließlich essentialia negotii, Rechtsbindungswillen, Bindung und Annahmeerklärung. |
+| `vertreter-ohne-vertretungsmacht-paragraphen-177-179` | Prüft Vertreter ohne Vertretungsmacht nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit, Genehmigung, Widerruf, Haftung des Vertreters und Minderjährigenschutz. |
+| `vollmacht-erteilung-umfang-erloeschen` | Prüft Vollmachtserteilung, Innen-/Außenvollmacht, Umfang, Auslegung, Erlöschen, Widerruf, Rechtsschein und Nachweis der Vollmacht. |
+| `willenserklaerung-tatbestand` | Prüft den Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Handlungswille, Erklärungsbewusstsein, Geschäftswille, Rechtsbindungswille und Abgrenzung zur Gefälligkeit. |
+| `wucher-und-ausbeutung-paragraph-138-2` | Prüft Wucher und wucherähnliche Geschäfte nach § 138 Abs. 2 BGB: auffälliges Missverhältnis, Schwächesituation, Ausbeutung, subjektive Kenntnis und Gesamtwürdigung. |
+| `zugang-paragraph-130` | Prüft Zugang empfangsbedürftiger Willenserklärungen nach § 130 BGB: Machtbereich, gewöhnliche Kenntnisnahmemöglichkeit, Widerruf, Empfangsbote und digitale Postfächer. |
+| `zugangsvereitelung-und-annahmeverweigerung` | Prüft Zugangsvereitelung, Annahmeverweigerung, verspätete Kenntnisnahme und erneuten Zustellversuch bei empfangsbedürftigen Willenserklärungen. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->
