@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.3.0 — Welle 1-11 Testakten Vollbestand (alle 64 Lueckenakten ergaenzt: Richter Verfassungsrecht VerkehrsOWi Drafting Zitierweise Zwangsvollstreckung)
+**Stand:** v51.4.0 — Welle 1-11 Testakten Vollbestand (alle 64 Lueckenakten ergaenzt: Richter Verfassungsrecht VerkehrsOWi Drafting Zitierweise Zwangsvollstreckung)
 
 ## Asset-Typen
 
@@ -296,4 +296,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.3.0` und `latest`: 241 Assets, davon 110 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.4.0` und `latest`: 241 Assets, davon 110 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).

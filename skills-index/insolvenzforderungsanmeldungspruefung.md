@@ -1,6 +1,6 @@
 # insolvenzforderungsanmeldungspruefung
 
-**21 Skills** · Stand `v51.2.0`
+**21 Skills** · Stand `v51.4.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/README.md)

@@ -1,6 +1,26 @@
 # Fachanwalt Sozialrecht
 
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-sozialrecht`) | [`fachanwalt-sozialrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Testakte: Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig** (`longcovid-erwerbsminderung-feldermann-leipzig`) | [Gesamt-PDF lesen](../testakten/longcovid-erwerbsminderung-feldermann-leipzig/gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) | [`testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN plugin-testakten-section (autogen) -->
 ## Demonstrations-Akten
 

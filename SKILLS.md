@@ -2,7 +2,7 @@
 
 Automatisch generierte Gesamtuebersicht aller **2682 Skills** in **110 Plugins**.
 
-Stand: `v51.3.0`.
+Stand: `v51.4.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -11,7 +11,7 @@ Stand: `v51.3.0`.
 | **Alle Skills (kompakt)** | Alle 110 Plugin-ZIPs in einem Archiv (ca. 11 MB) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Testakten + Uebersichten (ca. 80 MB) | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
-Das erste Paket reicht, wenn man nur die Prompts (Skills) braucht. Das zweite enthaelt zusaetzlich die 127 Testakten und alle Repo-Uebersichten.
+Das erste Paket reicht, wenn man nur die Prompts (Skills) braucht. Das zweite enthaelt zusaetzlich die 63 Testakten und alle Repo-Uebersichten.
 
 Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin ein eigener `[Download]`-Link.
 

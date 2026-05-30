@@ -1,5 +1,21 @@
 # gesellschaftsgründer — Gründungsassistent für deutsche Gesellschaften
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`gesellschaftsgruender`) | [`gesellschaftsgruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
+
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 Freistehendes Plugin, das durch die Gründung einer deutschen Gesellschaft führt — von der Rechtsformwahl über Cap Table, Class-Shares, Notar, Handelsregister, Behördenanmeldungen bis hin zu den ersten 100 Tagen Geschäftsführer-Pflichten und Streit-Eskalationen.
 
 ## Direkt-Download

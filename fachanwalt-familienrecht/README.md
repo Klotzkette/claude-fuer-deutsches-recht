@@ -1,6 +1,26 @@
 # Fachanwalt Familienrecht
 
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-familienrecht`) | [`fachanwalt-familienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte: Scheidung Wagenknecht / Luetzelberg — Patchwork, Wechselmodell-Streit, Zugewinn** (`scheidung-trennungsdrama-wagenknecht-luetzelberg`) | [Gesamt-PDF lesen](../testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/gesamt-pdf/scheidung-trennungsdrama-wagenknecht-luetzelberg_gesamt.pdf) | [`testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN plugin-testakten-section (autogen) -->
 ## Demonstrations-Akten
 
