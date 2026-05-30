@@ -2,6 +2,14 @@
 
 Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rspr. Tickets erfassen Annullierung vs Verspätung prüfen außergewöhnliche Umstände Distanz und Ausgleich Forderungsschreiben Mahnung Klage Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden.
 
+## ⬇️ Direkt-Download (einzelnes ZIP)
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| Fluggastrechte (`fluggastrechte`, dieses Plugin) | [fluggastrechte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fluggastrechte.zip) |
+
+Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
+
 <!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
 
 ## Testakte
@@ -13,14 +21,6 @@ Direkt-Download als ZIP: [testakte-fluggastrechte-familie-braeutigam.zip](https:
 Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
 
 <!-- END TESTAKTEN-SECTION (auto-generated) -->
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fluggastrechte (`fluggastrechte`, dieses Plugin) | [fluggastrechte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fluggastrechte.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 

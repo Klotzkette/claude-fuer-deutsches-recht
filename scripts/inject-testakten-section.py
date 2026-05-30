@@ -170,8 +170,14 @@ def find_insert_position(text: str) -> int:
     Falls nicht gefunden, suche nach Plugin-Description (vor erstem '## Start' o.ae.).
     Falls auch das fehlt: nach H1-Titel + leerer Zeile + erstem Absatz.
     """
-    # Variant 1: nach Direkt-Download-Sektion
-    m = re.search(r"^## Direkt-Download\b.*?(?=^## )", text, re.MULTILINE | re.DOTALL)
+    # Variant 1: nach Direkt-Download-Sektion. Heading darf beliebig dekoriert sein,
+    # z.B. '## Direkt-Download', '## ⬇️ Direkt-Download (einzelnes ZIP)',
+    # '## Arbeitsakte (Direkt-Download)', '## Direkt-Download (je ein ZIP pro Akte)'.
+    m = re.search(
+        r"^##[^\n]*Direkt-Download[^\n]*\n.*?(?=^## |\Z)",
+        text,
+        re.MULTILINE | re.DOTALL,
+    )
     if m:
         return m.end()
     # Variant 2: vor erster '##'-Section

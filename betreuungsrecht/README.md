@@ -8,21 +8,6 @@ Skills für **berufliche Betreuerinnen und Betreuer** nach dem Betreuungsorganis
 > Skills selbst für die eigene Praxis und prüft jeden generierten Bericht
 > vor Einreichung beim Betreuungsgericht.
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 2 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Betreuungsfall Hildegard Sauer | [`testakten/betreuung-hildegard-sauer/`](../testakten/betreuung-hildegard-sauer/) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
-| Betreuung Schmalfeld: Kontodaten und verdächtige Verträge | [`testakten/betreuung-schmalfeld-kontodaten-vertraege/`](../testakten/betreuung-schmalfeld-kontodaten-vertraege/) | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -52,6 +37,21 @@ Fiktive Akte einer Berufsbetreuung einer 87-jährigen Mandantin (Hildegard Sauer
 Fiktive Akte einer Vermögenssorge-Prüfung bei Herbert Wilhelm Schmalfeld:
 Kontoauszüge 2023 bis 2025, Vertragsregister, verdächtige Zahlungen,
 Fernwartung, Auslandsanlage, Immobilienreservierung und Maßnahmenplan.
+
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 2 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Betreuungsfall Hildegard Sauer | [`testakten/betreuung-hildegard-sauer/`](../testakten/betreuung-hildegard-sauer/) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
+| Betreuung Schmalfeld: Kontodaten und verdächtige Verträge | [`testakten/betreuung-schmalfeld-kontodaten-vertraege/`](../testakten/betreuung-schmalfeld-kontodaten-vertraege/) | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Enthaltene Skills
 

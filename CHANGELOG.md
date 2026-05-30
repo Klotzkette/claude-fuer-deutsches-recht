@@ -1,3 +1,23 @@
+# v50.1.1 — Testakten-Sektion bei dekorierten Direkt-Download-Headings korrekt positionieren
+
+Codex-Review zu PR #148 hat bemerkt: Der Regex in `scripts/inject-testakten-section.py` matchte nur Headings, die exakt mit `## Direkt-Download` beginnen. Dekorierte Varianten wie `## ⬇️ Direkt-Download (einzelnes ZIP)` oder `## Arbeitsakte (Direkt-Download)` fielen durch, und der Auto-Block wurde stattdessen *vor* dem ersten H2 eingefuegt -- also oberhalb des Direkt-Download-Blocks, entgegen der Skript-Intention.
+
+## Aenderungen
+
+- Regex in `find_insert_position()` aufgeweitet auf `^##[^\n]*Direkt-Download[^\n]*`. Dekorationen wie Emoji, Klammerzusaetze und Praefixe werden jetzt mitgematcht.
+- Skript erneut ausgefuehrt; 10 READMEs mit dekorierten Headings sind dadurch korrekt umsortiert worden: `arbeitsrecht`, `arbeitszeugnis-analyse`, `betreuungsrecht`, `datenschutzrecht`, `fachanwalt-verwaltungsrecht`, `fluggastrechte`, `forderungsmanagement-klagewerkstatt`, `legistik-werkstatt`, `steuerrecht-anwalt-und-berater`, `vertragsrecht`.
+
+In den betroffenen Plugin-READMEs steht der Testakten-Block jetzt direkt unter dem Direkt-Download statt davor. Keine fachlichen Inhalte geaendert; nur Reihenfolge.
+
+## Versionen
+
+- Marketplace top-level 50.1.0 -> 50.1.1
+- Plugin-Versionen unveraendert (nur READMEs umsortiert, kein SKILL.md, keine plugin.json) -- analog v49.2.0 und v50.1.0.
+
+Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
+
+---
+
 # v50.1.0 — Testakten-Uebersichten in Plugin-READMEs und Rosengarten-Testakte ausgebaut
 
 User-Feedback: Testakten waren in Plugin-READMEs zu tief unten erwaehnt und es fehlten Downloadlinks. Die Rosengarten-Testakte sollte um alle gaengigen Datenformate erweitert werden.

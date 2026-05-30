@@ -6,24 +6,6 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen bzw. steuerlichen Prüfung — zitiert, mit Prüfhinweisen versehen. Das Plugin erledigt die Recherchearbeit. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt, Fachanwalt für Steuerrecht oder Steuerberater.** Folgenreiche Handlungen — Einreichen, Versenden, Vollziehen — erfordern ausdrückliche Freigabe.
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 5 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Beispielakte: Edelholz Manufaktur Berlin GmbH | [`testakten/beispielakte-edelholz-berlin/`](../testakten/beispielakte-edelholz-berlin/) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| Fortbestehensprognose Paragrafix GmbH | [`testakten/fortbestehensprognose-paragrafix-gmbh/`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-| Großkanzlei Corporate/M&A Datenraum | [`testakten/grosskanzlei-corporate-ma-datenraum/`](../testakten/grosskanzlei-corporate-ma-datenraum/) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
-| Grunderwerbsteuer Share Deal Waldkrone | [`testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/`](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/) | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-| Grundsteuer Rosenwinkel-Bescheidkette | [`testakten/grundsteuer-rosenwinkel-bescheidkette/`](../testakten/grundsteuer-rosenwinkel-bescheidkette/) | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Rechtsstand und Quellen-Gate
 
 Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell/Landesmodellen, Grunderwerbsteuer-Share-Deals mit Signing/Closing, § 23 EStG und § 20 EStG/Verlustverrechnung.
@@ -69,6 +51,24 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | **Grunderwerbsteuer Sharedeal Closing Waldkrone** | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
 
 ---
+
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 5 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Beispielakte: Edelholz Manufaktur Berlin GmbH | [`testakten/beispielakte-edelholz-berlin/`](../testakten/beispielakte-edelholz-berlin/) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+| Fortbestehensprognose Paragrafix GmbH | [`testakten/fortbestehensprognose-paragrafix-gmbh/`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+| Großkanzlei Corporate/M&A Datenraum | [`testakten/grosskanzlei-corporate-ma-datenraum/`](../testakten/grosskanzlei-corporate-ma-datenraum/) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
+| Grunderwerbsteuer Share Deal Waldkrone | [`testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/`](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/) | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
+| Grundsteuer Rosenwinkel-Bescheidkette | [`testakten/grundsteuer-rosenwinkel-bescheidkette/`](../testakten/grundsteuer-rosenwinkel-bescheidkette/) | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Für die Anwaltschaft im Steuerrecht (anw-...)
 
