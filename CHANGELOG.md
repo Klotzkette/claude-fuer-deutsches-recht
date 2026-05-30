@@ -1,3 +1,13 @@
+# v50.9.1 — Download-Link im Word-Plugin-README
+
+User-Hinweis: Das Plugin-README von `word-legal-ai-plugin-and-skill-for-german-lawyers` hatte als einziges der 108 Plugins keinen ZIP-Direkt-Download-Link auf die Release-Asset-URL. Beim Rename in v50.7.0 ist die Installation-Section verloren gegangen.
+
+## Änderungen
+
+- `word-legal-ai-plugin-and-skill-for-german-lawyers/README.md`: Neue Section "Installation" mit Direkt-Download-Tabelle und Drei-Schritt-Anleitung ergänzt — analog zu allen anderen 107 Plugin-READMEs. Link: `releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip`.
+- Prüfung quer durchs Repo: Alle 108 Plugin-READMEs zeigen jetzt korrekt auf ihre eigene Release-ZIP (`releases/latest/download/<plugin>.zip`).
+- Marketplace 50.9.0 → 50.9.1; Generator läuft, SKILLS.md und `skills-index/` zeigen `Stand v50.9.1`.
+
 # v50.9.0 — Sanity-Check, ASSET_INDEX-Sortierung und Plugin-Übersicht im README
 
 Nachlauf zu v50.8.0/8.1: User-Sanity-Check des Codex-Ausbaus und zwei Übersichts-Fixes.

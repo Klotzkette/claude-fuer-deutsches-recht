@@ -1,6 +1,6 @@
 # krisenfrueherkennung-starug
 
-**20 Skills** · Stand `v50.9.0`
+**20 Skills** · Stand `v50.9.1`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krisenfrueherkennung-starug/README.md)
