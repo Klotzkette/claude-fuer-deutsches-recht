@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1-6 Testakten (28 Akten inkl. Anlagenkonvolut, BFSG, KI-Berufsrecht, DSA-VLOP, Eskalations-Emails, AML/KYC)
+**Stand:** v51.0.0 — Welle 1-7 Testakten (34 Akten inkl. Patentrecht, Hausarbeit, Immobilienkauf, Examensvorbereitung, Kanzleigruendung, Kartellrecht)
 
 ## Asset-Typen
 
@@ -190,14 +190,19 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-grosskanzlei-corporate-ma-datenraum.zip` | siehe `testakten/grosskanzlei-corporate-ma-datenraum/` |
 | `testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip` | siehe `testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/` |
 | `testakte-grundsteuer-rosenwinkel-bescheidkette.zip` | siehe `testakten/grundsteuer-rosenwinkel-bescheidkette/` |
+| `testakte-grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost.zip` | siehe `testakten/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost/` |
+| `testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip` | siehe `testakten/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung/` |
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | siehe `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/` |
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | siehe `testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/` |
 | `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip` | siehe `testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/` |
 | `testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip` | siehe `testakten/insolvenzverwaltung-nordlicht-handels-kiel/` |
 | `testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip` | siehe `testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/` |
+| `testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027.zip` | siehe `testakten/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027/` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | siehe `testakten/jveg-zeugin-berger-lg-tuebingen/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
+| `testakte-kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen.zip` | siehe `testakten/kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen/` |
+| `testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen.zip` | siehe `testakten/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen/` |
 | `testakte-ki-richtlinie-musterkanzlei.zip` | siehe `testakten/ki-richtlinie-musterkanzlei/` |
 | `testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip` | siehe `testakten/ki-training-tdm-fotografin-windgassen-hamburg/` |
 | `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip` | siehe `testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/` |
@@ -215,6 +220,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-meinungspruefer-grenzfaelle-alltag.zip` | siehe `testakten/meinungspruefer-grenzfaelle-alltag/` |
 | `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | siehe `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` |
 | `testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip` | siehe `testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/` |
+| `testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip` | siehe `testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
 | `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip` | siehe `testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/` |
 | `testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip` | siehe `testakten/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub/` |
@@ -266,4 +272,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 209 Assets, davon 108 Plugin-ZIPs, 97 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 215 Assets, davon 108 Plugin-ZIPs, 103 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
