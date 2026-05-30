@@ -12,6 +12,17 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | --- | --- |
 | **Musterholding (Geldwaesche AML/KYC)** | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Geldwäscheprävention, AML und KYC: Musterholding GmbH** ([`testakten/geldwaesche-aml-kyc-musterholding/`](../testakten/geldwaesche-aml-kyc-musterholding/)).
+
+Direkt-Download als ZIP: [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Schnellstart
 
@@ -93,15 +104,10 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 - Keine starren Rechtsannahmen: GwG, BaFin-/Länderhinweise, FIU/goAML, Transparenzregister, EU-Sanktionen, AMLA und FATF werden mit Abrufdatum geführt.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen.
 
-## Testakte
-
-Zum Arbeiten liegt die Akte unter `testakten/geldwaesche-aml-kyc-musterholding`. Sie wird im Release als `testakte-geldwaesche-aml-kyc-musterholding.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
-
 ## Download
 
 - Plugin-ZIP: [geldwaeschepraevention-aml-kyc.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc.zip)
 - Akte: [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

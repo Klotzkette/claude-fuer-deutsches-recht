@@ -4,6 +4,18 @@ Ein freistehender Verteidigungsassistent für Verkehrsordnungswidrigkeiten: vom 
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn Register, Kanzleisoftware, beA, E-Mail, Datenraum oder Aktenexport fehlen, arbeitet es mit manuellen Uploads oder mit einem klar gekennzeichneten Simulationsmodus.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **VerkehrsOWi – Qualifizierter Rotlichtverstoß, Tempoüberschreitung und Fahrverbot** ([`testakten/verkehrsowi-rotlicht-tempo/`](../testakten/verkehrsowi-rotlicht-tempo/)).
+
+Direkt-Download als ZIP: [testakte-verkehrsowi-rotlicht-tempo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Schnellstart
 
 1. Plugin aktivieren oder die ZIP aus dem Release installieren.
@@ -71,7 +83,6 @@ Zum Arbeiten liegt die Akte unter `testakten/verkehrsowi-rotlicht-tempo`. Sie wi
 
 - Plugin-ZIP: [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehrsowi-verteidiger.zip)
 - Akte: [testakte-verkehrsowi-rotlicht-tempo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

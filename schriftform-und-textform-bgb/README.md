@@ -10,6 +10,21 @@
 | --- | --- |
 | Schriftform und Textform im BGB (`schriftform-und-textform-bgb`) | [schriftform-und-textform-bgb.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 2 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Schriftform-Maklervertrag – Eheleute Haspelbeck-Türkenfeld | [`testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/`](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/) | [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) |
+| Schriftform der Wohnraumkündigung — Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen | [`testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/`](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/) | [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. ZIP aus dem Release herunterladen.
@@ -19,13 +34,6 @@
 5. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe ob unser Maklervertrag der Textform § 126b BGB genügt.`
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
-
-## Testakten
-
-Zwei fiktive Mandatsakten, die typische Form- und Zugangskonstellationen lebbar machen. Konkrete Rechtsprechung wird erst im Workflow über offizielle oder frei zugängliche Quellen verifiziert.
-
-- Maklervertrag München (Eheleute Haspelbeck-Türkenfeld ./. Bechtholdsmeier-Schongau e.K., Textform- und Provisionskonstellation): [testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/) -> [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip)
-- Mietkündigung Bielefeld online (Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen, WhatsApp + qES, Zugangs- und Formkonstellation): [testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/) -> [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip)
 
 ## Überblick
 
@@ -87,7 +95,6 @@ Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im
 ## Hinweis
 
 Alle Skills sind kanzleitauglich formuliert und enthalten vollständige Klauseltexte, Mandantenmemos und Querverweise auf aktuelle BGH-Rechtsprechung. Das Plugin ersetzt keine individuelle Rechtsberatung.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -4,6 +4,18 @@ Vollständiger Umweltrechts-Assistent für Anlagenbetreiber, Verbände, Investor
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn ein Anschluss an Register, Behördenportale, E-Mail, beA, Datenraum, Bank, GIS, Tabellen oder Kanzleisoftware fehlt, arbeitet es mit manuellen Uploads oder mit einem gekennzeichneten Simulationsmodus.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Umweltrecht: Industrieanlage — Genehmigung, Emissionshandel, Altlast und Transaktion** ([`testakten/umweltrecht-industrieanlage-genehmigung/`](../testakten/umweltrecht-industrieanlage-genehmigung/)).
+
+Direkt-Download als ZIP: [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Schnellstart
 
 1. Plugin aktivieren oder die ZIP aus dem Release installieren.
@@ -54,15 +66,10 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Zahlen, Fristen, Schwellenwerte und Zuständigkeiten werden sichtbar hergeleitet oder als Annahme gekennzeichnet.
 - Ausgabe immer so, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
-## Testakte
-
-Zum Arbeiten liegt die Akte unter `testakten/umweltrecht-industrieanlage-genehmigung`. Sie wird im Release als `testakte-umweltrecht-industrieanlage-genehmigung.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
-
 ## Download
 
 - Plugin-ZIP: [umweltrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltrecht.zip)
 - Akte: [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

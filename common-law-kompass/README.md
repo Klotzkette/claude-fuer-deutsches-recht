@@ -4,6 +4,18 @@ Großes, freistehendes Plugin für deutsche Anwältinnen und Anwälte im Wirtsch
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Common-Law-Kompass: Crossborder Supply & License Agreement** ([`testakten/common-law-kompass-crossborder-contract/`](../testakten/common-law-kompass-crossborder-contract/)).
+
+Direkt-Download als ZIP: [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Schnellstart
 
 1. Plugin aktivieren oder ZIP aus dem Release installieren.
@@ -67,7 +79,6 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 - Plugin-ZIP: [common-law-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip)
 - Akte: [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

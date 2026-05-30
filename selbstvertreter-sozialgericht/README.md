@@ -20,6 +20,18 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 Ein Plugin für Bürgerinnen und Bürger, die sich beim Sozialgericht selbst vertreten — ohne Anwalt. Es führt vom Bescheid über Widerspruch, Klage und Eilantrag bis zu Gutachten, Termin, Urteil und Berufung.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Selbstvertreter Sozialgericht — Heizkosten und Eilantrag** ([`testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/`](../testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/)).
+
+Direkt-Download als ZIP: [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Für wen ist das?
 
 Sie sind versichert oder beziehen Sozialleistungen. Sie haben einen Bescheid bekommen und sind nicht einverstanden. Sie haben keinen Anwalt oder können sich keinen leisten. Dieses Plugin hilft Ihnen Schritt für Schritt.
@@ -75,7 +87,6 @@ Mai 2026. Hinweise zu Reformen sind eingebaut. Bei Unsicherheit prüfen Sie unte
 ## Lizenz
 
 Apache-2.0 OR MIT.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -1,3 +1,37 @@
+# v50.1.0 — Testakten-Uebersichten in Plugin-READMEs und Rosengarten-Testakte ausgebaut
+
+User-Feedback: Testakten waren in Plugin-READMEs zu tief unten erwaehnt und es fehlten Downloadlinks. Die Rosengarten-Testakte sollte um alle gaengigen Datenformate erweitert werden.
+
+## Plugin-READMEs (50 betroffene Plugins)
+
+- Neues Skript `scripts/inject-testakten-section.py` legt einen idempotenten Auto-Block `## Testakte(n)` direkt unter den Direkt-Download in jeder betroffenen Plugin-README. HTML-Kommentar-Marker grenzen den Block ab; alte manuell platzierte Testakten-Sektionen werden ausserhalb des Auto-Blocks entfernt.
+- Mapping Plugin -> Testakten ist hardcoded; alle 47 Plugin-Eintraege haben zugeordnete Testakten (Mehrfachzuordnungen z.B. bei steuerrecht-anwalt-und-berater, lobbyregister-bundestag, zwangsverwaltung-zvg, betreuungsrecht, insolvenzverwaltung, schriftform-und-textform-bgb, urteilsbauer-relationsmacher, arbeitsrecht).
+- Cross-Check: 0 doppelte Testakten-Sektionen im Repo.
+
+## Rosengarten-Testakte
+
+Die Testakte `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` ist um alle gaengigen Datenformate erweitert worden:
+
+- `emails/`: sechs `.eml`-Dateien (Thujahecke, Carport, Bauamt-Anfrage und -Antwort)
+- `whatsapp/`: Standard-WhatsApp-Chat-Export
+- `xlsx/`: Kosten/Angebote und Riss-Log Stuetzmauer (zwei Tabellenblaetter)
+- `docx/`: Anwaltsschreiben Kessler, Aufforderungsschreiben-Entwurf Albers, Vergleichsentwurf
+- `pdfs/`: Baumgutachten, Bauamt-Zustaendigkeitsbescheid, Vermessungsskizze
+- `scan-whatsapp/`: visuell gerenderter Handy-Screenshot-Scan als PDF
+- `gesamt-pdf/`: alles in einem Gesamtdokument mit Cover, Inhaltsverzeichnis, Seitenzahlen und Trennblaettern fuer die externen PDF-Anhaenge
+- neue MD-Stuecke `13_zeugenliste_und_anwohner.md` und `14_telefonprotokolle_kanzlei.md` mit Anwohnern, Handwerkern, Behoerdenkontakten und sechs Telefonprotokollen aus dem Kanzleisystem
+- README der Testakte komplett neu strukturiert: Gesamt-PDF prominent oben, Format-Sektionen mit allen Dateilinks, Beteiligten-Block, Vorfuehrpfad
+
+## Versionen
+
+- `nachbarschaftsstreit-pruefer` 50.0.0 -> 50.1.0 (Minor, neuer Inhalt in der Testakte)
+- Marketplace top-level 50.0.0 -> 50.1.0
+- Die 50 nur in der Testakten-Sektion geaenderten Plugin-READMEs bekommen keinen Versions-Bump (nur READMEs, kein SKILL.md, keine plugin.json) -- analog Vorgehen v49.2.0.
+
+Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
+
+---
+
 # v50.0.0 — Sanity-Check und Versionsbump
 
 - Sanity-Check nach `v49.2.0`: Plugin-Struktur, YAML-Frontmatter, Download-Abdeckung und Release-ZIP-Probelauf geprüft.

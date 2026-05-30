@@ -12,6 +12,17 @@ Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 | --- | --- |
 | **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Strafbefehl – Ladendiebstahl und Fahrerflucht** ([`testakten/strafbefehl-ladendiebstahl-fahrerflucht/`](../testakten/strafbefehl-ladendiebstahl-fahrerflucht/)).
+
+Direkt-Download als ZIP: [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Schnellstart
 
@@ -80,7 +91,6 @@ Zum Arbeiten liegt die Akte unter `testakten/strafbefehl-ladendiebstahl-fahrerfl
 
 - Plugin-ZIP: [strafbefehl-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip)
 - Akte: [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

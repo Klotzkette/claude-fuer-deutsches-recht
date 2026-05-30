@@ -17,6 +17,18 @@ Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford), Versorgungs- und Transa
 | --- | --- |
 | BAV Strategie Konzern (`bav-strategie-konzern`) | [bav-strategie-konzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bav-strategie-konzern.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Betriebliche Altersversorgung – MEISSNER RHEINWERK AG** ([`testakten/bav-strategie-konzern-meissner-rheinwerk-ag/`](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/)).
+
+Direkt-Download als ZIP: [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. ZIP aus dem Release herunterladen.
@@ -26,12 +38,6 @@ Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford), Versorgungs- und Transa
 5. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe unsere Konzern-Versorgungsordnung und schlage eine Harmonisierungsstrategie vor.`
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
-
-## Testakte
-
-- MEISSNER RHEINWERK AG "Projekt RHEINGOLD 2030" (Konzern-bAV-Harmonisierung): [testakten/bav-strategie-konzern-meissner-rheinwerk-ag/](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/) -> [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
-
----
 
 ## Block A — Pensionsmodelle & Versorgungsarchitektur
 
@@ -82,7 +88,6 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 ---
 
 *Alle Mandantennamen und Beratungsbeispiele in den Skills sind fiktiv. Die zitierten Gerichtsentscheidungen und Gesetze sind reale Quellen.*
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

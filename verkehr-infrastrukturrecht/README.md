@@ -4,6 +4,18 @@ Vollständiger Assistent für Verkehrsplanung, Infrastrukturprojekte, Elektromob
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn ein Anschluss an Register, Behördenportale, E-Mail, beA, Datenraum, Bank, GIS, Tabellen oder Kanzleisoftware fehlt, arbeitet es mit manuellen Uploads oder mit einem gekennzeichneten Simulationsmodus.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Verkehrs- und Infrastrukturrecht: Straßenbahn Linie 7, Ladezonen und Schulwegsicherheit** ([`testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/`](../testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/)).
+
+Direkt-Download als ZIP: [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Schnellstart
 
 1. Plugin aktivieren oder die ZIP aus dem Release installieren.
@@ -51,15 +63,10 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Zahlen, Fristen, Schwellenwerte und Zuständigkeiten werden sichtbar hergeleitet oder als Annahme gekennzeichnet.
 - Ausgabe immer so, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
-## Testakte
-
-Zum Arbeiten liegt die Akte unter `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen`. Sie wird im Release als `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
-
 ## Download
 
 - Plugin-ZIP: [verkehr-infrastrukturrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehr-infrastrukturrecht.zip)
 - Akte: [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

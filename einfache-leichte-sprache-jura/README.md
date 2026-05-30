@@ -5,6 +5,18 @@ Sprache** oder **Leichte Sprache**. Es richtet sich an Kanzleien, Behörden,
 Beratungsstellen, Legal-Design-Teams und alle, die rechtliche Informationen
 verständlich, respektvoll und rechtlich belastbar erklären müssen.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Juristischer Mandantenbrief in Einfacher und Leichter Sprache** ([`testakten/einfache-leichte-sprache-jura-mandantenbrief/`](../testakten/einfache-leichte-sprache-jura-mandantenbrief/)).
+
+Direkt-Download als ZIP: [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Direkt herunterladen
 
 - [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip)
@@ -60,7 +72,6 @@ python einfache-leichte-sprache-jura/scripts/verstaendlichkeitscheck.py \
 Das Skript ist kein Normprüfer. Es findet typische Warnsignale:
 lange Sätze, sehr lange Wörter, Passiv-Kandidaten, Nominalstil und fehlende
 Orientierungselemente.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

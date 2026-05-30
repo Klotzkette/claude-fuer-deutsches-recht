@@ -8,6 +8,18 @@ Freistehendes Plugin für die Prüfung und gerichtliche Anfechtung von **Bebauun
 | --- | --- |
 | normenkontrolle-bauleitplanung | [normenkontrolle-bauleitplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/normenkontrolle-bauleitplanung.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **— Bebauungsplan Augsburg-Bahnhofsareal** ([`testakten/bebauungsplan-augsburg-bahnhofsareal/`](../testakten/bebauungsplan-augsburg-bahnhofsareal/)).
+
+Direkt-Download als ZIP: [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.
@@ -23,10 +35,6 @@ Alternativ via Marketplace:
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
-
-## Testakte
-
-- **Bebauungsplan Augsburg Bahnhofsareal** (Realer BayVGH-Mandantenstil mit Antragsbefugnis, Abwägungsfehler, Artenschutz): [testakten/bebauungsplan-augsburg-bahnhofsareal/](../testakten/bebauungsplan-augsburg-bahnhofsareal/) -> [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip)
 
 ## Mandatsperspektive
 
@@ -105,7 +113,6 @@ Phase D — Verfahren BayVGH/OVG
 ## Bedienungshinweis
 
 Das Plugin ist freistehend nutzbar und benötigt keine anderen Plugins des Marketplaces. Für umweltrechtliche Querfragen (FFH, saP, UVP) kann das Plugin `umweltrecht` ergänzend geladen werden, für allgemeine Verwaltungsverfahrensfragen das Plugin `verwaltungsrecht`.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

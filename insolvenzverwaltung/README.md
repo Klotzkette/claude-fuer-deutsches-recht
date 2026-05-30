@@ -12,6 +12,21 @@ Großes freistehendes Plugin für die Insolvenzverwaltung aus Sicht des Insolven
 | --- | --- |
 | Insolvenzverwaltung - IV-Cockpit (`insolvenzverwaltung`) | [insolvenzverwaltung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzverwaltung.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 2 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Insolvenzverwaltung – Möbelwerk Havelberg GmbH | [`testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/`](../testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
+| Insolvenzverwaltung Nordlicht Handels GmbH | [`testakten/insolvenzverwaltung-nordlicht-handels-kiel/`](../testakten/insolvenzverwaltung-nordlicht-handels-kiel/) | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. ZIP aus dem Release herunterladen.
@@ -136,10 +151,6 @@ Die Planwerkstatt aus dem freien Plugin ist inhaltlich vollständig auch in dies
 - `assets/templates/quality-gate.md` - Vor-Versand- und Vor-Entscheidungsprüfung
 - `assets/templates/planwerkstatt/` - vollständige Planwerkstatt-Vorlagen für Insolvenzplan, StaRUG, Vergleichsrechnung, Gruppen/Klassen, Anlagen, Cram-down und Planvollzug
 
-## Testakte
-
-Die Arbeitsakte liegt unter [testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/](../testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/) und wird im Release als [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) bereitgestellt.
-
 ## Sicherheitsleitplanken
 
 - Keine gerichtliche, wirtschaftliche oder steuerliche Entscheidung ohne menschliche Letztprüfung.
@@ -147,7 +158,6 @@ Die Arbeitsakte liegt unter [testakten/insolvenzverwaltung-moebelwerk-havelberg-
 - Alle Fristen, Forderungen, Zahlungsflüsse, Tabellenvermerke, Anfechtungsansprüche und Verteilungsrechnungen müssen belegbar sein.
 - Wo amtliche Onlinequellen abgefragt werden, werden Abrufdatum, URL, Treffer und Grenzen der Recherche dokumentiert.
 - Simulationen sind deutlich als Simulation zu kennzeichnen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -13,6 +13,18 @@ Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und 
 
 Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **BGB AT: Altfränkische Werkstatt** ([`testakten/bgb-at-altfraenkische-werkstatt/`](../testakten/bgb-at-altfraenkische-werkstatt/)).
+
+Direkt-Download als ZIP: [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
@@ -134,7 +146,6 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 - [subsumtions-pruefer](../subsumtions-pruefer) für generische Tatbestandsarbeit.
 - [schriftform-und-textform-bgb](../schriftform-und-textform-bgb) für tiefe Form-, Textform- und Zugangskonstellationen.
 - [bereicherungs-und-anfechtungsrecht-pruefer](../bereicherungs-und-anfechtungsrecht-pruefer) für Rückabwicklung nach unwirksamem Vertrag.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

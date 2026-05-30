@@ -2,6 +2,17 @@
 
 Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** ([`testakten/bvg-widerspruchsstelle-abschleppen-mobg/`](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/)).
+
+Direkt-Download als ZIP: [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
@@ -57,7 +68,6 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 ## Lizenz
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

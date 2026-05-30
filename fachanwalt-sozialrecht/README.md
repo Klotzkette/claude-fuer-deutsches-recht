@@ -2,7 +2,6 @@
 
 Vollumfaengliches Plugin fuer Fachanwaltschaft Sozialrecht inkl. Kanzleioperative. Fachanwalt fuer Sozialrecht nach FAO § 11. Widerspruch, Klage, Eilantrag, SGB-II-Bescheid, Erwerbsminderungsrente, GdB-Schwerbehinderung, Pflegegrad, Hilfsmittel, Eingliederungshilfe. Kanzleioperative: Bescheidanalyse, Akteneinsicht, PKH, Fristenbuch, Mandanten-Intake, Mandantenbrief Leichte Sprache.
 
-
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
@@ -18,6 +17,18 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 | Plugin | Direkt-Download |
 | --- | --- |
 | Fachanwalt Sozialrecht (`fachanwalt-sozialrecht`, dieses Plugin) | [fachanwalt-sozialrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
+
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Familie Tannenberg - vier Sozialrechtsverfahren parallel** ([`testakten/sozialrecht-rollstuhl-tannenberg/`](../testakten/sozialrecht-rollstuhl-tannenberg/)).
+
+Direkt-Download als ZIP: [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation in Claude Code
 
@@ -72,7 +83,6 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 ## Lizenz
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

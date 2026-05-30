@@ -2,6 +2,18 @@
 
 Freistehendes Cowork-Plugin für die Erstellung, Prüfung und Härtung von Insolvenzplänen und StaRUG-Restrukturierungsplänen. Es führt vom Kaltstart über Datenraum, Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen- und Klassenbildung, darstellenden und gestaltenden Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, gerichtliche Schritte und Planvollzug bis zum Monitoring.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung** ([`testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/`](../testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/)).
+
+Direkt-Download als ZIP: [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Direkt herunterladen
 
 - [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt.zip)
@@ -61,7 +73,6 @@ Das Plugin ist verzeihend im Intake und streng im Ergebnis. Es darf mit chaotisc
 ## Grenzen
 
 Das Plugin ersetzt keine anwaltliche, steuerliche oder betriebswirtschaftliche Endprüfung. Es ist ein Arbeits-, Strukturierungs- und Qualitätssicherungswerkzeug. Bei Planbestätigung, gerichtlicher Einreichung, steuerlichen Folgen, Organpflichten, Sicherheitenwerten, Drittsicherheiten und streitigen Gläubigerrechten verlangt es menschliche Freigabe.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

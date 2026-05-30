@@ -2,6 +2,18 @@
 
 Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rspr. Tickets erfassen Annullierung vs Verspätung prüfen außergewöhnliche Umstände Distanz und Ausgleich Forderungsschreiben Mahnung Klage Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Fluggastrechte – Familie Bräutigam-Zaytuna** ([`testakten/fluggastrechte-familie-braeutigam/`](../testakten/fluggastrechte-familie-braeutigam/)).
+
+Direkt-Download als ZIP: [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -49,7 +61,6 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 ## Quellen-Disclaimer
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -10,6 +10,21 @@ Freistehendes Plugin für **Amts-, Land- und Familienrichter sowie Rechtspfleger
 | --- | --- |
 | urteilsbauer-relationsmacher | [urteilsbauer-relationsmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 2 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| LUMEN Studios GmbH — Insolvenz- und Wirtschaftsstrafverfahren | [`testakten/lumen-studios-insolvenz-strafverfahren/`](../testakten/lumen-studios-insolvenz-strafverfahren/) | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
+| Solis Vision X Smartglasses | [`testakten/solis-vision-x-smartglasses/`](../testakten/solis-vision-x-smartglasses/) | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.
@@ -70,7 +85,6 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 ## Haftung
 
 Dieses Plugin ist ein Arbeitswerkzeug für die richterliche Praxis. Es ersetzt keine eigene rechtliche Prüfung und keine Beratung durch zugelassene Rechtsanwälte. Die Verantwortung für Tenor, Tatbestand und Entscheidungsgründe bleibt beim Spruchkoerper.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

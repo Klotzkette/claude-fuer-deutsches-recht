@@ -4,18 +4,22 @@ Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlini
 
 ---
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **KI-Richtlinie Musterkanzlei** ([`testakten/ki-richtlinie-musterkanzlei/`](../testakten/ki-richtlinie-musterkanzlei/)).
+
+Direkt-Download als ZIP: [testakte-ki-richtlinie-musterkanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Direkter Download
 
 **Plugin:**
 [ki-richtlinie-kanzleien.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien.zip)
-
----
-
-## Testakte
-
-Zur Erprobung des Plugins steht ein generischer Muster-Entwurf einer KI-Nutzungsrichtlinie für eine fiktive Musterkanzlei als Word-Dokument zur Verfügung:
-
-[testakte-ki-richtlinie-musterkanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip)
 
 ---
 
@@ -85,7 +89,6 @@ Transfer (USA) und der § 43e-BRAO-Vertragsdokumentation.
 ---
 
 *Version 3.3.0 | Autor: Klotzkette | Lizenz: MIT*
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

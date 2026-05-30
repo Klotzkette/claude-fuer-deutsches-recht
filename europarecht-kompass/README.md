@@ -4,6 +4,18 @@ Großes, freistehendes Plugin für deutsche Juristinnen und Juristen, die Europa
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage** ([`testakten/europarecht-kompass-beihilfe-richtlinie/`](../testakten/europarecht-kompass-beihilfe-richtlinie/)).
+
+Direkt-Download als ZIP: [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Schnellstart
 
 1. Plugin aktivieren oder ZIP aus dem Release installieren.
@@ -67,7 +79,6 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 - Plugin-ZIP: [europarecht-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip)
 - Akte: [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -6,6 +6,17 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 **Hinweis:** Im Repository liegt ergänzend die Testakte `testakten/arbeitszeugnis-analyse-bluehendes-leben/` mit zehn realistisch ausgearbeiteten Zeugnisfällen. Jede Ausgabe ist ein Analyse-Entwurf zur eigenverantwortlichen Prüfung — kein Ersatz für anwaltliche Beratung im Einzelfall.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Arbeitszeugnis-Analyse — aus dem blühenden Leben** ([`testakten/arbeitszeugnis-analyse-bluehendes-leben/`](../testakten/arbeitszeugnis-analyse-bluehendes-leben/)).
+
+Direkt-Download als ZIP: [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
@@ -120,7 +131,6 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eines Zeugnisberichtigungsanspruchs ist die Beauftragung eines Rechtsanwalts empfohlen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -8,7 +8,6 @@ Das Plugin deckt: edles Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Ein
 
 Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanzlei-Workflow: vom ersten Eingang bis zum versandfertigen Ergebnis.
 
-
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
@@ -28,6 +27,18 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 
 Die URL ist stabil und zeigt auf die neueste Release-Version.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Kanzlei-Allgemein-Plugin** ([`testakten/kanzlei-allgemein-alltag/`](../testakten/kanzlei-allgemein-alltag/)).
+
+Direkt-Download als ZIP: [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. ZIP herunterladen.
@@ -45,7 +56,6 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | Testakte | Direkt-Download |
 | --- | --- |
 | **Kanzlei-Alltag** | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
-
 
 ## Was das Plugin abbildet
 
@@ -83,7 +93,6 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | UStVA-Simulation | `kanzlei-allgemein-ustva-simulation` | ELSTER-Ausfall oder fehlender Anschluss: Simulation, manueller Eingabebogen, XML-Upload-Prüfung oder Steuerberater-Paket |
 | Simulation | `kanzlei-allgemein-kanzleitag-simulation` | Acht-Stunden-Kanzleitag beschleunigt oder in Echtzeit mit simulierten Integrationen durchspielen |
 | Automationen | `kanzlei-allgemein-automationen` | Vorschläge für stündliche Zeiterinnerung, tägliche Postrunde und Ordner-Monitoring |
-
 
 ## Cowork-/Sekretariats-Skills (fusioniert aus `kanzlei-cowork`)
 
@@ -230,7 +239,6 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 ## Quellen-Disclaimer
 
 Das Plugin bildet Arbeitsabläufe und Sicherheitsgatter ab. Es ersetzt keine Fristenkontrolle durch Berufsträger, keine Kanzleisoftware und keine Prüfung der Zulässigkeit konkreter Kommunikation im Einzelfall.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

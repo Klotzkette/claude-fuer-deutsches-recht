@@ -14,6 +14,18 @@ Das Plugin arbeitet entlang des typischen Mandats:
 
 [phishing-vorfall-pruefer.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/phishing-vorfall-pruefer.zip)
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Phishing-Vorfall Mayer ./. Sparkasse Berlin** ([`testakten/phishing-vorfall-mayer-sparkasse-berlin/`](../testakten/phishing-vorfall-mayer-sparkasse-berlin/)).
+
+Direkt-Download als ZIP: [testakte-phishing-vorfall-mayer-sparkasse-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-phishing-vorfall-mayer-sparkasse-berlin.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Inhalt
 
 - `skills/phishing-vorfall-pruefen/SKILL.md` - geführter Hauptworkflow.
@@ -21,14 +33,6 @@ Das Plugin arbeitet entlang des typischen Mandats:
 - `assets/checklisten/` - Intake, Beweis- und Logmatrix, grobe-Fahrlässigkeit-Ampel.
 - `assets/vorlagen/` - Bankaufforderung, Ombudsmann-Antrag, Klagegerüst.
 - `scripts/phishing_case_gate.py` - kleines Offline-Gate für strukturierte Fallbewertung.
-
-## Beispielakte
-
-Die Arbeitsakte liegt separat unter [`testakten/phishing-vorfall-mayer-sparkasse-berlin/`](../testakten/phishing-vorfall-mayer-sparkasse-berlin/) und steht als ZIP zum Download bereit:
-
-[testakte-phishing-vorfall-mayer-sparkasse-berlin.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-phishing-vorfall-mayer-sparkasse-berlin.zip)
-
-Sie enthält die Original-PDFs der Mandatsakte Mayer ./. Sparkasse Berlin, strukturierte Falldaten, Transaktionsmatrix, Beweismatrix und einen Beispiel-Output des Case-Gate-Skripts.
 
 ## Arbeitsprinzip
 
@@ -41,7 +45,6 @@ Das Plugin entscheidet keinen Fall automatisch. Es zwingt zur sauberen Trennung:
 - Ist Schlichtung, Teilvergleich oder Klage der bessere nächste Schritt?
 
 Alle rechtlichen Bewertungen sind Arbeitsentwürfe und müssen durch eine qualifizierte Person geprüft werden.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

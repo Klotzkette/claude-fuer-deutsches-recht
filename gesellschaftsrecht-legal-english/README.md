@@ -17,13 +17,17 @@ Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft
 | --- | --- |
 | Gesellschaftsrecht Legal English (`gesellschaftsrecht-legal-english`) | [gesellschaftsrecht-legal-english.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht-legal-english.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
 ## Testakte
 
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Frankfurt Startup Round Legal English** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Kometenfalter Systems GmbH — Series A Project Comet Moth** ([`testakten/gesellschaftsrecht-legal-english-frankfurt-startup/`](../testakten/gesellschaftsrecht-legal-english-frankfurt-startup/)).
 
-Die Testakte ist eine realistische Series-A-Mandatsakte der Kanzlei Hagemann & Westarp für die Kometenfalter Systems GmbH (Project Comet Moth): Partnerauftrag, Cap Table und Gesellschafterliste, Term-Sheet-Auszug, SHA-/Satzungs- und Vesting-Notizen, DD-Red-Flag-Liste, Associate-Arbeitsstand, Wandeldarlehen-Vorgeschichte, Investor-Counsel-Markup-Roundtrip, Notar-Checkliste, Side Letter, Board-/Consent-Matters-Mapping, Closing-Checkliste, WhatsApp-Thread Partner/Associate, Mailbox-/Call-Fragmente und die Agio-/Kapitalrücklage-Streitfrage. Sie ist als vollständige Akte angelegt: 17 Sachdateien plus Akten-Deckblatt (`README.md`), ein konsistentes Excel-Cap-Table-Modell (`18-cap-table-und-waterfall.xlsx`) samt PDF-Ausdruck, Whiteboard-Foto, Investor-Email- und WhatsApp-Screenshot, echte `.eml`-Dateien im Unterordner `emails/` (Outlook-kompatibel), Chatverläufe (Slack `#project-comet-moth`, WhatsApp Partner/Associate) als eigene Markdown-Dateien im Unterordner `chats/` sowie eine zusammengeführte PDF-Lesefassung (`26-gesamtakte-kometenfalter-series-a.pdf`). Notar-Memo 19 ist ein realistisches Memorandum aus dem Notariat Veitschegger (Az. UR-Nr. 1182/2026).
+Direkt-Download als ZIP: [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation
 
@@ -107,7 +111,6 @@ Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich f�
 - dann `16` und `18` bis `22` für die Multi-Format-Materialien (WhatsApp-Thread im Chatlook, Cap-Table-Excel samt PDF-Ausdruck, Notar-Memo, Whiteboard, Investor-Email- und WhatsApp-Screenshot) sowie `chats/` für Slack-Thread und WhatsApp je als eigenes Dokument,
 - zum Schluss `15`, `24` und `25` für Closing-Checkliste, Agio-/Kapitalrücklage-Streitfrage und Mailbox-/Call-Fragmente.
 - Für schnelle Vorführungen ohne Fragmentwechsel: `26-gesamtakte-kometenfalter-series-a.pdf`.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

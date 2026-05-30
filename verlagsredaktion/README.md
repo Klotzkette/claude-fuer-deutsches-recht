@@ -10,11 +10,17 @@ Der erste Bildschirm soll sich für eine Sachbearbeiterin so anfühlen: Alles li
 | --- | --- |
 | Verlagsredaktion (`verlagsredaktion`) | [verlagsredaktion.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsredaktion.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
 ## Testakte
 
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Morgenlage Fachverlag** | [testakte-verlagsredaktion-morgenlage-fachverlag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag.zip) |
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Verlagsredaktion Morgenlage Fachverlag** ([`testakten/verlagsredaktion-morgenlage-fachverlag/`](../testakten/verlagsredaktion-morgenlage-fachverlag/)).
+
+Direkt-Download als ZIP: [testakte-verlagsredaktion-morgenlage-fachverlag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation
 
@@ -79,7 +85,6 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - Fremdtexte niemals wörtlich übernehmen, außer der Nutzer verlangt ein zulässiges kurzes Zitat mit sauberer Quellenangabe und Zweck.
 - Bei Verlagstexten immer trennen: Autor:innenmaterial, Redaktionstext, Fremdquelle, KI-Vorschlag und offene Lücke.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

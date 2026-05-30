@@ -12,6 +12,18 @@ Das Plugin arbeitet paralegal-praktisch: Es erstellt keine "Rechtsberatung aus d
 
 Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **WEG Hohenzollernhof — Hausverwaltung unter Druck** ([`testakten/weg-hausverwaltung-hohenzollernhof/`](../testakten/weg-hausverwaltung-hohenzollernhof/)).
+
+Direkt-Download als ZIP: [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Zum Ausprobieren: Testakte
 
 | Testakte | Direkt-Download |
@@ -81,7 +93,6 @@ Die Arbeitsakte enthält eine unordentliche WEG-Verwaltungsakte mit Eigentümerb
 ## Grenzen
 
 Das Plugin ersetzt keine anwaltliche Beratung, keine WEG-Spezialkanzlei, keine Steuerberatung und keine technische Bauleitung. Es hilft, die Verwaltung so zu dokumentieren, dass Anwälte, Beiräte, Verwalter und Eigentümer sauber weiterarbeiten können.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

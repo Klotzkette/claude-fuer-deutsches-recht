@@ -4,6 +4,17 @@ Freistehendes Cowork-Plugin zur Prüfung von Kosten, Vorschüssen, Entschädigun
 
 Die Beispielakte enthält den Fall der Zeugin Sophia Berger vor dem Landgericht Tübingen, Az. 7 O 118/23, mit Vorschussantrag, Gerichtsschreiben, anwaltlichem Schriftsatz und Word-Abschrift.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **JVEG Zeugenentschädigung – Dr. Sophia Berger / LG Tübingen** ([`testakten/jveg-zeugin-berger-lg-tuebingen/`](../testakten/jveg-zeugin-berger-lg-tuebingen/)).
+
+Direkt-Download als ZIP: [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
@@ -69,7 +80,6 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 ## Beispiel Berger
 
 Die Beispielakte bildet einen realistisch aussehenden Vorschussstreit ab: Barcelona nach Tübingen, 2.500 km Hin- und Rückfahrt, zwei Übernachtungen, geltend gemachter Verdienstausfall und gerichtliche Ablehnung des Vorschusses wegen angeblich fehlender Bedürftigkeit. Das Plugin markiert insbesondere, dass § 3 JVEG bei erheblichen Fahrtkosten und sonstigen Aufwendungen ansetzt und die Kostenpositionen getrennt nach Erstattungsfähigkeit, Vorschussfähigkeit und Belegstatus geprüft werden müssen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -12,6 +12,22 @@ Großes freistehendes Plugin für Zwangsverwalter nach ZVG und ZwVwV sowie für 
 | --- | --- |
 | ZVG-Zwangsverwaltung - Verwalter-Cockpit (`zwangsverwaltung-zvg`) | [zwangsverwaltung-zvg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 3 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe" | [`testakten/zwangsverwaltung-friedrichshoefe-berlin/`](../testakten/zwangsverwaltung-friedrichshoefe-berlin/) | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
+| Zwangsverwaltung ZVG – Mietshaus Parkstraße 18, Leipzig | [`testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/`](../testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/) | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
+| ZVG-Versteigerung Eppendorf-Altbau | [`testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/`](../testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/) | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. ZIP aus dem Release herunterladen.
@@ -31,7 +47,6 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 | **Friedrichshoefe Berlin (Zwangsverwaltung)** | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
 | **Mietshaus Parkstrasse (ZVG)** | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
 | **Eppendorf Altbau (ZVG-Versteigerung)** | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
-
 
 ## Kernmodule
 
@@ -105,12 +120,6 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 - `assets/templates/simulationstag.md` - Simulierter ZVG-Arbeitstag
 - `assets/templates/quality-gate.md` - ZVG-Vorversandprüfung
 
-## Testakte
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Zwangsverwaltung Mietshaus Parkstraße: [testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/](../testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/) -> [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip)
-- Versteigerung / Bieter Eppendorf-Altbau: [testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/](../testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/) -> [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip)
-
 ## Sicherheitsleitplanken
 
 - Keine gerichtliche, wirtschaftliche oder steuerliche Entscheidung ohne menschliche Letztprüfung.
@@ -118,7 +127,6 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 - Alle Fristen, Forderungen, Zahlungsflüsse, Tabellenvermerke, Anfechtungsansprüche und Verteilungsrechnungen müssen belegbar sein.
 - Wo amtliche Onlinequellen abgefragt werden, werden Abrufdatum, URL, Treffer und Grenzen der Recherche dokumentiert.
 - Simulationen sind deutlich als Simulation zu kennzeichnen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

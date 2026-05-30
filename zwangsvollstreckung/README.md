@@ -2,6 +2,18 @@
 
 Freistehendes Cowork-Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten. Es ist ein vollständiger Arbeitsraum für Gläubigeranwalt, Inkasso, Hausverwaltung, Kreditbearbeitung und Insolvenzverwaltung: Titel prüfen, Klausel besorgen, Zustellung organisieren, Mahn- oder Vollstreckungsbescheid online beantragen, PfÜB gegen Bank, Arbeitgeber, Mieter oder Finanzamt entwerfen, Kontensuche § 802l ZPO und Vermögensauskunft beim Gerichtsvollzieher steuern, Mobiliar- und Räumungsaufträge erteilen, aus notarieller Urkunde § 800 ZPO oder Tabellenauszug § 201 InsO vollstrecken, ZVG-Antrag stellen und Schuldnerschutz auf Erinnerung, Vollstreckungsschutz und P-Konto-Bescheinigung beantworten.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Vollstreckungsmappe Sparkasse Niederrhein gegen Mueller** ([`testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/`](../testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/)).
+
+Direkt-Download als ZIP: [testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Direkt herunterladen
 
 - [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsvollstreckung.zip)
@@ -60,10 +72,6 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 
 `werkzeuge/pfaendungsrechner.py` berechnet den pfändbaren Betrag nach § 850c ZPO mit der Tabelle 1.7.2025 bis 30.6.2026 (BGBl. 2025 I Nr. 110 vom 11.4.2025). Hartcodierte Eckwerte: Grundfreibetrag 1.555,00 EUR, Erhöhung erste Unterhaltspflicht 585,23 EUR, jede weitere bis zur 5. Person 326,04 EUR, Vollpfändungsgrenze 4.766,99 EUR, P-Konto-Sockel 1.560,00 EUR. Pfändbarkeitsquote nach § 850c Abs. 3 ZPO unterhaltsabhängig (7/10 / 5/10 / 4/10 / 3/10 / 2/10 / 1/10). CLI: `python pfaendungsrechner.py --netto 4200 --unterhalt 3` gibt den pfändbaren Betrag, den verbleibenden P-Konto-Sockel und die Tabellenherleitung aus.
 
-## Testakte
-
-`testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/` enthält drei parallel laufende Vollstreckungsstränge gegen Bernd und Dorothea Mueller (Krefeld) aus Privatdarlehen 4717-8821 (Restforderung 261.480,73 EUR): Grundschuldverwertung aus notarieller Urkunde URNr 882/2017 Notar Dr. Berghoff, Konto- und Lohnpfändung gegen die Küchen-Mueller GmbH, Sachpfändung des Ledger Nano X (self-hosted Wallet) und Forderungspfändung gegen Bitpanda Wien (custodial Wallet, EU-Zustellungs-VO).
-
 ## Reform ZVollstrDigitG 2026/2027
 
 | Datum | Was ändert sich |
@@ -75,7 +83,6 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 ## Grenzen
 
 Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt keine fachliche Prüfung. Bei streitigen Rechtsfragen (Klauselgegenklage § 768 ZPO, Vollstreckungsabwehrklage § 767 ZPO, Drittwiderspruch § 771 ZPO), bei Räumung mit Härtefall, bei ZVG-Anträgen mit Rangstreit und bei grenzüberschreitender Vollstreckung (EU-Kontenpfändungsverordnung Nr. 655/2014, EU-Zustellungs-VO 2020/1784) verlangt es ausdrücklich menschliche Freigabe. Reform-Übergänge ZVollstrDigitG sind datumsabhängig gesteuert und müssen bei jedem Antrag gegen das tatsächliche Inkrafttretensdatum laut BGBl-Verkündung gegengeprüft werden.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

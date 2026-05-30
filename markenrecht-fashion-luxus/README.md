@@ -19,6 +19,18 @@ Markenrecht-Plugin für Luxus-Modehäuser: DPMA, EUIPO Alicante, USPTO (Lanham A
 | --- | --- |
 | Markenrecht Fashion & Luxus (`markenrecht-fashion-luxus`) | [markenrecht-fashion-luxus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH** ([`testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/`](../testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/)).
+
+Direkt-Download als ZIP: [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. ZIP aus dem Release herunterladen.
@@ -28,12 +40,6 @@ Markenrecht-Plugin für Luxus-Modehäuser: DPMA, EUIPO Alicante, USPTO (Lanham A
 5. Mit einem konkreten Auftrag starten, zum Beispiel: `Starte den Markenrecht-Workflow für unsere neue Couture-Linie.`
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
-
-## Testakte
-
-- Marken-Streit klôtzzkètté ./. Brezelmann/Donauzon: [testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/](../testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/) -> [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip)
-
----
 
 ## Skills-Übersicht (32 Skills, Blöcke A–F)
 
@@ -142,7 +148,6 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 ---
 
 *Plugin erstellt für die Kanzlei Steinacker Lichtenberg — alle Personen, Firmennamen und Aktenzeichen außerhalb von echten Gerichtsentscheidungen sind fiktiv.*
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

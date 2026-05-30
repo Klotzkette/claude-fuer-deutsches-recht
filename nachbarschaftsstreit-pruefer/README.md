@@ -10,6 +10,18 @@ Freistehendes Plugin für Nachbarrecht und eskalierte Grundstückskonflikte: Üb
 |---|---|
 | Nachbarschaftsstreit-Prüfer (`nachbarschaftsstreit-pruefer`) | [nachbarschaftsstreit-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nachbarschaftsstreit-pruefer.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Nachbarschaftsstreit Rosengartenstraße** ([`testakten/nachbarschaftsstreit-horrorfall-rosengarten/`](../testakten/nachbarschaftsstreit-horrorfall-rosengarten/)).
+
+Direkt-Download als ZIP: [testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Start
 
 ```
@@ -43,16 +55,9 @@ Der Einstieg fragt in kurzer Zeit ab: Grundstücke, Grenze, Bundesland, Streitge
 | `vergleich-mediation-nachbarschaftsfrieden` | Vergleich, Nutzungsregelung, Rückschnittplan, Kosten- und Zugangslösung |
 | `horrorfall-aktenauswertung` | Große unordentliche Nachbarschaftsakte auswerten und in Arbeitsstränge zerlegen |
 
-## Testakte
-
-Die Testakte [`nachbarschaftsstreit-horrorfall-rosengarten`](../testakten/nachbarschaftsstreit-horrorfall-rosengarten/) enthält einen bewusst überladenen Fall: Carport-Überbau, Wurzel- und Astüberhang, Baugrube, abgerutschte Stützmauer, Grillrauch, Kamera, Notwegbehauptung, Zaunstreit, Baumschutzsatzung, Bauamt, Ordnungsamt, Sachverständigenhinweise und eine Gesprächsdynamik, bei der jeder Satz zu viel schon wieder ein neues Problem erzeugt.
-
-Direkt-Download der Akte: [testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip)
-
 ## Quellenstand
 
 Stand: 05/2026. Kernnormen: BGB §§ 903, 906-923, 823, 862, 1004; Landesnachbarrechtsgesetze und kommunale Satzungen nach Bundesland/Gemeinde.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

@@ -8,6 +8,18 @@ Freistehendes Plugin, das durch die Gründung einer deutschen Gesellschaft führ
 | --- | --- |
 | gesellschaftsgründer | [gesellschaftsgruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **"Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation** ([`testakten/gesellschaftsgruender-streit-roeschen-tech/`](../testakten/gesellschaftsgruender-streit-roeschen-tech/)).
+
+Direkt-Download als ZIP: [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.
@@ -247,7 +259,6 @@ Berücksichtigt:
 9. **Bilinguale Dokumente**: Deutsche Fassung geht vor.
 
 10. **Fristen sind unverzeihlich**: Insolvenzantrag binnen 3 Wochen, Anfechtungsklage binnen 1 Monat, BG binnen 1 Woche.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

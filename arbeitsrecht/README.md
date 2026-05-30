@@ -4,6 +4,21 @@ Arbeitsrechtliche Abläufe für Personalabteilungen und Arbeitsrechtler: Einstel
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, mit Prüfhinweisen versehen und gegen unbeabsichtigte Weitergabe gesichert. Das Plugin erledigt die Recherchearbeit: Es liest Dokumente, wendet Ihre Prüfschemata an, benennt Risiken und erstellt Entwürfe. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt oder Syndikusrechtsanwalt.** Zitate werden nach ihrer Quelle gekennzeichnet, damit klar ist, welche überprüft werden müssen. Vertraulichkeitsvermerke werden zurückhaltend gesetzt. Folgenreiche Handlungen – Einreichen, Versenden, Vollziehen – erfordern ausdrückliche Freigabe.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 2 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH | [`testakten/befristungskontrollklage-vogt-stadtwerke/`](../testakten/befristungskontrollklage-vogt-stadtwerke/) | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+| Kündigungsschutzklage Weber ./. TechLogix GmbH | [`testakten/kuendigungsschutzklage-weber-techlogix/`](../testakten/kuendigungsschutzklage-weber-techlogix/) | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -28,8 +43,6 @@ Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separa
 | --- | --- |
 | **Vogt ./. Stadtwerke (Befristungskontrollklage)** | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 | **Weber ./. TechLogix (Kuendigungsschutzklage)** | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
-
-
 
 ## Für wen ist das Plugin
 
@@ -198,44 +211,6 @@ Vollständiger Workflow für die Klage auf Feststellung, dass ein angeblich befr
 | `/arbeitsrecht:entfristung-vergleichsverhandlung-checkliste` | Vergleichsbausteine Entfristungsklage; Beendigungsdatum; Abfindung; Zeugnis |
 | `/arbeitsrecht:entfristung-output-warnschriftsatz-laie` | Vollständige Klageschrift mit Pflicht-Disclaimer für Laien |
 
-
-## Testakten
-
-Für beide Arbeitsrecht-Skill-Bündel gibt es fertige fiktive Mandatsakten zum sofortigen Ausprobieren im Ordner [`testakten/`](../testakten/):
-
-| Testakte | Inhalt | Passt zu |
-|---|---|---|
-| [`testakten/kuendigungsschutzklage-weber-techlogix/`](../testakten/kuendigungsschutzklage-weber-techlogix/) | Markus Weber ./. TechLogix GmbH Berlin: betriebsbedingte Kündigung 30.04.2026, lückenhafte BR-Anhörung, fragwürdige Sozialauswahl (Weber 8 J. BZ + 2 Kinder vs. Grunewald 2 J. BZ), § 4 KSchG-Frist 20.05.2026. | `kueschk-*` |
-| [`testakten/befristungskontrollklage-vogt-stadtwerke/`](../testakten/befristungskontrollklage-vogt-stadtwerke/) | Lena Vogt ./. Stadtwerke Neukölln GmbH: Befristungskontrollklage, Schriftformverstoß § 14 Abs. 4 TzBfG (AV nur per E-Mail + Scan), Vorbeschäftigung 2021 als Graubereich, § 17 TzBfG-Frist 20.03.2026. | `entfristung-*` |
-
-Download als ZIP:
-[testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) · [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip)
-
-### Kündigungsschutzklage Weber ./. TechLogix — Einzeldateien
-
-| Datei | Inhalt |
-|---|---|
-| [README.md](../testakten/kuendigungsschutzklage-weber-techlogix/README.md) | Überblick, Fristen, Streitpunkte |
-| [kündigungsschreiben_techlogix_30-04-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/kuendigungsschreiben_techlogix_30-04-2026.txt) | Kündigungsschreiben vom 30.04.2026 |
-| [arbeitsvertrag_weber_2018_auszug.txt](../testakten/kuendigungsschutzklage-weber-techlogix/arbeitsvertrag_weber_2018_auszug.txt) | Arbeitsvertrag Auszug 2018 |
-| [betriebsrat_anhörung_entwurf_roh.txt](../testakten/kuendigungsschutzklage-weber-techlogix/betriebsrat_anhoerung_entwurf_roh.txt) | Roh-Entwurf der BR-Anhörung mit Lücken |
-| [sozialauswahl_vergleichstabelle_roh.md](../testakten/kuendigungsschutzklage-weber-techlogix/sozialauswahl_vergleichstabelle_roh.md) | Sozialauswahl-Vergleichstabelle Weber vs. Grunewald |
-| [mandantennotiz_erstgespräch_06-05-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/mandantennotiz_erstgespraech_06-05-2026.txt) | Mandantennotiz Erstgespräch |
-| [notiz_weber_gespräch_märz_2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/notiz_weber_gespraech_maerz_2026.txt) | Notiz Vorgespräch März 2026 |
-| [vollmacht_weber.txt](../testakten/kuendigungsschutzklage-weber-techlogix/vollmacht_weber.txt) | Vollmacht des Mandanten |
-
-### Befristungskontrollklage Vogt ./. Stadtwerke Neukölln — Einzeldateien
-
-| Datei | Inhalt |
-|---|---|
-| [README.md](../testakten/befristungskontrollklage-vogt-stadtwerke/README.md) | Überblick, Fristen, Streitpunkte |
-| [arbeitsvertrag_vogt_2024_per_email.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/arbeitsvertrag_vogt_2024_per_email.txt) | Befristeter Arbeitsvertrag (per E-Mail übermittelt, Schriftformproblem § 14 Abs. 4 TzBfG) |
-| [email_übermittlung_vertrag_feb_2024.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_uebermittlung_vertrag_feb_2024.txt) | E-Mail mit Vertrag (Februar 2024) |
-| [arbeitsvertrag_ferienaushilfe_2021_auszug.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/arbeitsvertrag_ferienaushilfe_2021_auszug.txt) | Vorbeschäftigung 2021 als Ferienaushilfe |
-| [email_schoenfeld_kein_folgevertrag_jan_2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_schoenfeld_kein_folgevertrag_jan_2026.txt) | E-Mail Schönfeld: kein Folgevertrag (Januar 2026) |
-| [mandantennotiz_erstgespräch_09-03-2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/mandantennotiz_erstgespraech_09-03-2026.txt) | Mandantennotiz Erstgespräch |
-| [vollmacht_vogt.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/vollmacht_vogt.txt) | Vollmacht der Mandantin |
-
 ## Lerneffekt
 
 Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` ist nicht statisch – es verbessert sich durch Nutzung. Skills weisen Sie hin, wenn eine Ausgabe auf einem Standardwert beruht, der angepasst werden sollte. Sie können die Einrichtung erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position zu speichern.
@@ -246,7 +221,6 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 - **Kündigungsprüfung ersetzt nicht das Gespräch mit HR und Führungskraft.** Sie ist eine Checkliste, die den vergessenen Punkt findet.
 - **Lohn-/Arbeitszeitfragen zitieren die Norm**, kennzeichnen aber Grenzfälle zur menschlichen Prüfung. Einstufungsentscheidungen haben Konsequenzen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

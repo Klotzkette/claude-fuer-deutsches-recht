@@ -13,6 +13,18 @@ Der BSAG-Mietvertrag und das Term Sheet Kiosk Huckelriede sind als Beispielakte 
 Zusatzmaterial:
 - [Vorschau lokal öffnen](./assets/vorschau/index.html)
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Vertragsausfueller - BSAG Kiosk Huckelriede** ([`testakten/vertragsausfueller-bsag-kiosk-huckelriede/`](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/)).
+
+Direkt-Download als ZIP: [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Installation
 
 1. Claude Code oder Claude Desktop/Cowork öffnen.
@@ -28,10 +40,6 @@ Alternativ via Marketplace:
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/` und `assets/` enthalten.
-
-## Beispielakte
-
-- **BSAG Mietvertrag Kiosk Huckelriede** (Word-Vorlage plus Term Sheet, Mapping auf Vertragsfelder): [testakten/vertragsausfueller-bsag-kiosk-huckelriede/](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/) -> [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
 
 ## Workflow
 
@@ -69,7 +77,6 @@ Die Beispielakte enthält die Word-Vorlage `BSAG-Mietvertrag-Vorlage.docx` und d
 ## Track-Changes-Regel
 
 Das Plugin erzeugt keine Track-Changes- oder Redline-Fassung stillschweigend. Es fragt immer ausdrücklich: Soll zusätzlich eine Track-Changes- oder Redline-Fassung erstellt werden? Ohne Bestätigung bleibt es bei Clean-Entwurf, Änderungslog und Ausfüllprotokoll.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

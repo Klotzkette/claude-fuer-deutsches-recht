@@ -2,6 +2,18 @@
 
 Vollständige Werkstatt für Legistinnen und Legisten in Bundesministerien, Bundestag, Fraktionen, Oppositionsarbeit, Landesministerien, Landtagen sowie kommunalen und kammerlichen Normgebern. Vom politischen Auftrag über Startbahn, Normhierarchie, Kompetenzprüfung, Normenkartierung und Terminologie zu Referentenentwurf, Kabinettsmappe, Gesetzentwurf aus der Mitte des Bundestages oder Landtages, Änderungsantrag, Entschließungsantrag, Antrag, Formulierungshilfe, Rechtsverordnung und Satzung. Mit Querschnittsprüfungen Verfassungsrecht Europarecht Folgenabschätzung Goldplating Bestimmtheit Zirkelschluss. Erzeugt am Ende ein DOCX und PDF im passenden offiziellen Layout - ministerieller Referentenentwurf-Stil, BT-/Landtagsdrucksachen-Stil oder Arbeitsfassung für Fraktion, Ausschuss und Normgeber.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **- Elektronisches Pflichtpostfach** ([`testakten/legistik-pflichtpostfach/`](../testakten/legistik-pflichtpostfach/)).
+
+Direkt-Download als ZIP: [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -9,10 +21,6 @@ Vollständige Werkstatt für Legistinnen und Legisten in Bundesministerien, Bund
 | Legistik-Werkstatt (`legistik-werkstatt`, dieses Plugin) | [legistik-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt.zip) |
 
 Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-## Testakte
-
-- **Legistik Pflichtpostfach** (Vom Koalitionsvertrag zum Referentenentwurf, Stammgesetz mit Begründung und Folgenabschätzung): [testakten/legistik-pflichtpostfach/](../testakten/legistik-pflichtpostfach/) -> [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip)
 
 ## Installation in Claude Code
 
@@ -115,7 +123,6 @@ Voraussetzung: `pip install python-docx pyyaml`. Für die PDF-Konvertierung zus�
 ## Disclaimer
 
 Dieses Plugin ist ein Werkzeug zur Beschleunigung legistischer Arbeit. Es ersetzt nicht die juristische Prüfung durch verantwortliche Fachreferentinnen und Fachreferenten und nicht die Prüfung durch die Ressortleitung und das Bundesministerium der Justiz im Rahmen der Rechtsförmlichkeitsprüfung.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

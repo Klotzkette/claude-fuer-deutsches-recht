@@ -21,6 +21,18 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **dsa-dma-bayrische-baustube-meissner** ([`testakten/dsa-dma-bayrische-baustube-meissner/`](../testakten/dsa-dma-bayrische-baustube-meissner/)).
+
+Direkt-Download als ZIP: [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -66,14 +78,9 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 - `zustellung-und-vertreter-art-13-dsa-art-37-dma` — Wer wird wo wie verklagt?
 - `klage-gegen-vlop-einordnung-art-263-aeuv` — Nichtigkeitsklage zum EuG, Frist, Klagebefugnis
 
-## Testakte
-
-`testakten/dsa-dma-bayrische-baustube-meissner/` — fragmentarische Akte: fränkisches Familienunternehmen, Account-Sperre bei US-Plattform, parallel VLOP-Designation eines Mitbewerbers, Forschungsdatenanfrage, Zustellungsprobleme.
-
 ## Hinweise
 
 Stand: 2026. DSA voll anwendbar seit 17.02.2024. DMA-Gatekeeper-Designation seit 06.09.2023 in Tranchen. AI Act schrittweise ab 02.02.2025 (Verbote), 02.08.2026 (GPAI), 02.08.2027 (Hochrisiko). Aktenzeichen und Daten sind nach bestem Wissen recherchiert; vor Schriftsatzverwendung stets Originalquelle prüfen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

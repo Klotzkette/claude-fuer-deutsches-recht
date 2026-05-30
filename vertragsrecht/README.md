@@ -4,6 +4,18 @@ Arbeitsabläufe für innerbetriebliche Rechtsabteilungen und Kanzleien im deutsc
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und abgestuft – keine abschließende Rechtsberatung.** Das Plugin liest die Dokumente, wendet den Vorgehensleitfaden an, identifiziert Abweichungen und erstellt das Prüfvermerk. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Quellen werden nach Herkunft gekennzeichnet, damit der Prüfer weiß, welche Zitate aus einem Recherche-Tool stammen und welche zu prüfen sind. Vertraulichkeitshinweise werden konservativ gesetzt, damit keine unbeabsichtigte Preisgabe erfolgt. Folgenreiche Handlungen – Einreichung, Versand, Unterzeichnung – stehen unter ausdrücklichem Bestätigungsvorbehalt.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH** ([`testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/`](../testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/)).
+
+Direkt-Download als ZIP: [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -27,8 +39,6 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | Testakte | Direkt-Download |
 | --- | --- |
 | **LG Regensburg Sieglinger (SV-Gutachten KI-Vorwurf)** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
-
-
 
 ## Für wen ist dieses Plugin
 
@@ -167,7 +177,6 @@ vertragsrecht/
 - Die NDA-Triage ist für die eigenverantwortliche Nutzung durch Nicht-Juristen konzipiert. GRÜN bedeutet "zur Unterschrift weiterleiten". Sie verhandelt nicht.
 - Das Fristen-Tracking erfasst nur Verträge, die über dieses Plugin geprüft oder aus dem CLM einmalig importiert wurden. Vor der Installation unterzeichnete Verträge erfordern einen einmaligen Erstimport.
 - **Berufsrechtlicher Hinweis:** Jede Ausgabe ist ein Arbeitsentwurf. Die anwaltliche Verschwiegenheitspflicht (§ 43a Abs. 2 BRAO, § 203 StGB) ist bei jeder Weitergabe zu beachten.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

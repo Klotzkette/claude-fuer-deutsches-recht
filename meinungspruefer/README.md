@@ -10,6 +10,18 @@ Freistehendes Plugin für die Prüfung von Äußerungen nach einfachem Recht, Ve
 |---|---|
 | Meinungsprüfer (`meinungspruefer`) | [meinungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Meinungsprüfer - Grenzfälle im Alltag** ([`testakten/meinungspruefer-grenzfaelle-alltag/`](../testakten/meinungspruefer-grenzfaelle-alltag/)).
+
+Direkt-Download als ZIP: [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Start
 
 ```
@@ -59,16 +71,9 @@ Der Einstieg fragt schnell ab: exakter Wortlaut, Medium, Publikum, Anlass, Vorge
 | `testakte-auswertung` | Die Testakte strukturiert auswerten |
 | `rechtsprechungsbank-verifiziert` | Verifizierte Rechtsprechung mit Datum, Aktenzeichen und freier Quelle |
 
-## Testakte
-
-Die Testakte [`meinungspruefer-grenzfaelle-alltag`](../testakten/meinungspruefer-grenzfaelle-alltag/) enthält mehrere lebensnahe Grenzfälle ohne parteipolitische Zuspitzung: ein X-Post über ein Bauprojekt, ein LinkedIn-Kommentar über Projektleitung, ein Kantinengespräch im Betrieb, ein Elternchat zur Schulleitung, eine kommunale Bürgerversammlung mit dem Begriff "Lackaffe", ein Pinocchio-Vergleich, eine unsaubere Tatsachenbehauptung mit lückenhafter Beleglage und eine interne Notiz zum USA-Vergleich.
-
-Direkt-Download der Akte: [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip)
-
 ## Quellenstand
 
 Stand: 05/2026. Kernnormen: Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, §§ 185-188, 192-194 StGB, §§ 823, 824, 1004 BGB analog, § 22 KUG bei Bildern und DSA-Schnittstellen bei Plattformen. Leitentscheidungen sind im Skill `rechtsprechungsbank-verifiziert` dokumentiert; der USA-Vergleich ist ausdrücklich nur Vergleich, kein Import amerikanischer Standards in die deutsche Prüfung.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

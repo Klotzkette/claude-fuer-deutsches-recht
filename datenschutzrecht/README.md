@@ -4,6 +4,18 @@ Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte:
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und freigabepflichtig, keine abschließende Rechtsauskunft.** Das Plugin übernimmt die Arbeit: es liest Dokumente, wendet Ihr Praxisprofil an, findet Schwachstellen und verfasst Memos. Der Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Herkunft gekennzeichnet (Modellwissen vs. abgerufen). Mandatsgeheimnisschutz (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gehandhabt. Folgenreiche Maßnahmen – Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben, Vertragsunterzeichnung – werden erst nach ausdrücklicher Bestätigung durchgeführt.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Datenschutz: US-Transfer CloudSuite Assist** ([`testakten/datenschutz-us-transfer-cloudsuite-rheinmain/`](../testakten/datenschutz-us-transfer-cloudsuite-rheinmain/)).
+
+Direkt-Download als ZIP: [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Version | Direkt-Download |
@@ -29,8 +41,6 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | --- | --- |
 | **Solis Vision X (Smartglasses, DSGVO/CISG)** | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
 | **CloudSuite Assist (US-Transfer, DPF/SCC/TIA)** | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
-
-
 
 ## Zielgruppe
 
@@ -213,7 +223,6 @@ datenschutzrecht/
 - **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
 - Alle damals 18 Skills: Abschnitt "Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
 - `plugin.json` Version auf 3.3.0, description aktualisiert (TDDDG → TDDDG, Drittlandstransfer ergänzt)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

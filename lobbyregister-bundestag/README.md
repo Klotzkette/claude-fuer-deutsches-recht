@@ -15,6 +15,22 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 
 Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 3 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Lobbyregister: Bürgerinitiative Waldmoor 2030 | [`testakten/lobbyregister-buergerinitiative-waldmoor/`](../testakten/lobbyregister-buergerinitiative-waldmoor/) | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
+| Lobbyregister: Emerald Liffey Bank plc / Zweigniederlassung Frankfurt | [`testakten/lobbyregister-dublin-bank-frankfurt-branch/`](../testakten/lobbyregister-dublin-bank-frankfurt-branch/) | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
+| Lobbyregister: Spreebogen Regulatory GmbH / Wasserstoffpaket | [`testakten/lobbyregister-public-affairs-agentur-wasserstoff/`](../testakten/lobbyregister-public-affairs-agentur-wasserstoff/) | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
@@ -156,14 +172,6 @@ die Regelungsvorhaben und erstelle am Ende eine Registrierungsmappe mit
 Fristenkalender und Offenlegungsbausteinen fuer Erstkontakte.
 ```
 
-## Testakten
-
-Zum Ausprobieren liegen drei fiktive Akten unter `testakten/`:
-
-- [lobbyregister-dublin-bank-frankfurt-branch](../testakten/lobbyregister-dublin-bank-frankfurt-branch) - auslaendische Bank mit unselbstständiger Frankfurter Zweigniederlassung und Doppelregistrierungsfrage
-- [lobbyregister-public-affairs-agentur-wasserstoff](../testakten/lobbyregister-public-affairs-agentur-wasserstoff) - Agenturfall mit Auftraggebern, Unterauftrag, Stellungnahmen und Quartalsupload
-- [lobbyregister-buergerinitiative-waldmoor](../testakten/lobbyregister-buergerinitiative-waldmoor) - Bürgerinitiative/Netzwerk mit Ausnahmepruefung, Petition, Anhoerung und freiwilliger Registrierung
-
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
@@ -179,7 +187,6 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 3. Fertig. Skills sind sofort verfuegbar.
 
 > **Hinweis:** Fuer den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

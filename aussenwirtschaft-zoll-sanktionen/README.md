@@ -12,6 +12,17 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | --- | --- |
 | **GlobalMaschinen (Aussenwirtschaft, Zoll, Sanktionen)** | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip) |
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Außenwirtschaft, Zoll, Sanktionen und CBAM – Globalmaschinen GmbH** ([`testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/`](../testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/)).
+
+Direkt-Download als ZIP: [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Schnellstart
 
@@ -87,15 +98,10 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 - Keine CBAM-Aussage ohne Warencode, Warenmenge, Emissionsdatenquelle und sichtbare Annahmen.
 - Bei Prüfung, Anhörung, Durchsuchung, Presseanfrage oder möglichem Verstoß: erst Legal Hold, Zuständigkeiten und Verteidigungsstrategie.
 
-## Testakte
-
-Zum Arbeiten liegt die Akte unter `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen`. Sie wird im Release als `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
-
 ## Download
 
 - Plugin-ZIP: [aussenwirtschaft-zoll-sanktionen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip)
 - Akte: [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

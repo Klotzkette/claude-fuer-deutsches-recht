@@ -4,6 +4,18 @@ Vollständiger Energierechts-Assistent für Stadtwerke, Energieversorger, Wärme
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn ein Anschluss an Register, Behördenportale, E-Mail, beA, Datenraum, Bank, GIS, Tabellen oder Kanzleisoftware fehlt, arbeitet es mit manuellen Uploads oder mit einem gekennzeichneten Simulationsmodus.
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakte
+
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen** ([`testakten/energierecht-stadtwerke-quartier/`](../testakten/energierecht-stadtwerke-quartier/)).
+
+Direkt-Download als ZIP: [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip)
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
+
 ## Schnellstart
 
 1. Plugin aktivieren oder die ZIP aus dem Release installieren.
@@ -52,15 +64,10 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Zahlen, Fristen, Schwellenwerte und Zuständigkeiten werden sichtbar hergeleitet oder als Annahme gekennzeichnet.
 - Ausgabe immer so, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
-## Testakte
-
-Zum Arbeiten liegt die Akte unter `testakten/energierecht-stadtwerke-quartier`. Sie wird im Release als `testakte-energierecht-stadtwerke-quartier.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
-
 ## Download
 
 - Plugin-ZIP: [energierecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht.zip)
 - Akte: [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip)
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

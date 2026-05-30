@@ -717,7 +717,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "50.0.0"
+      "version": "50.1.0"
     },
     {
       "name": "mittelstand-corporate-ma",
@@ -981,5 +981,5 @@
       "version": "50.0.0"
     }
   ],
-  "version": "50.0.0"
+  "version": "50.1.0"
 }

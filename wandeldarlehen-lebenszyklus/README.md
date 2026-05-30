@@ -6,35 +6,17 @@ Vollständiger Workflow-Assistent für den Lebenszyklus eines Wandeldarlehens be
 
 [wandeldarlehen-lebenszyklus.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wandeldarlehen-lebenszyklus.zip)
 
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
 ## Testakte
 
-Die vollständige Beispielakte liegt unter [`testakten/wandeldarlehen-beispielcase/`](../testakten/wandeldarlehen-beispielcase/) und kann direkt auf GitHub durchgesehen werden. Als ZIP zum Download: [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip).
+Zu diesem Plugin existiert eine vollständige Beispielakte: **Wandeldarlehen-Lebenszyklus (Sonnenglas Solartechnologie UG)** ([`testakten/wandeldarlehen-beispielcase/`](../testakten/wandeldarlehen-beispielcase/)).
 
-### Einzelne Dateien direkt öffnen
+Direkt-Download als ZIP: [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip)
 
-Tipp: Bei DOCX/XLSX rendert GitHub keine lesbare Vorschau. Daher liegt zu jeder Vertrags- oder Tabellendatei eine `.md`-Vorschau daneben, die auf GitHub direkt lesbar ist. Maßgeblich bleibt jeweils das Original.
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
 
-| Datei | Inhalt |
-|---|---|
-| [README.md](../testakten/wandeldarlehen-beispielcase/README.md) | Überblick Sonnenglas UG / Northstar Pre-Seed Partners, Parteien, Konditionen |
-| [Term-Sheet-Sonnenglas-Northstar.md](../testakten/wandeldarlehen-beispielcase/Term-Sheet-Sonnenglas-Northstar.md) | Markdown-Vorschau des Term-Sheets vom 15. April 2026 (24 Parameter, unverbindlich) |
-| [Term-Sheet-Sonnenglas-Northstar.docx](../testakten/wandeldarlehen-beispielcase/Term-Sheet-Sonnenglas-Northstar.docx) | Term-Sheet als Vor-Vertrag (Original) |
-| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.md) | Markdown-Vorschau des bilingualen Vertrags (DE/EN), 11 Paragraphen |
-| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Bilingualer Vertrag DE/EN, zweispaltig (Original) |
-| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md) | Markdown-Vorschau des einsprachigen Vertrags |
-| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Einsprachige Vertragsfassung DE (Original) |
-| [Cap-Table-Pre-Money.md](../testakten/wandeldarlehen-beispielcase/Cap-Table-Pre-Money.md) | Markdown-Vorschau Cap-Table vor Wandlung |
-| [Cap-Table-Pre-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Pre-Money.xlsx) | Cap-Table vor Wandlung (Original) |
-| [Cap-Table-Post-Money.md](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.md) | Markdown-Vorschau Cap-Table nach Wandlung |
-| [Cap-Table-Post-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.xlsx) | Cap-Table nach Seed-Runde und Wandlung (Original) |
-| [Wandlungsmitteilung-Sonnenglas-an-Northstar.md](../testakten/wandeldarlehen-beispielcase/Wandlungsmitteilung-Sonnenglas-an-Northstar.md) | Markdown-Vorschau der Wandlungsmitteilung der Gesellschaft an Northstar vom 14. Februar 2027 |
-| [Wandlungsmitteilung-Sonnenglas-an-Northstar.docx](../testakten/wandeldarlehen-beispielcase/Wandlungsmitteilung-Sonnenglas-an-Northstar.docx) | Mitteilung über bevorstehende Seed-Runde und Wandlungspflicht (Original) |
-| [Wandlungserklaerung-Muster.md](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.md) | Markdown-Vorschau der Wandlungserklärung Northstar (22. Februar 2027, 66 neue Anteile zum Cap-Preis) |
-| [Wandlungserklaerung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.docx) | Muster-Wandlungserklärung Northstar an Sonnenglas (Original) |
-| [Gesellschafterbeschluss-Kapitalerhoehung-Muster.md](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.md) | Markdown-Vorschau des Beschlusses |
-| [Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Beschluss über Kapitalerhöhung gegen Sacheinlage (Original) |
-| [Notar-Paket-Inhaltsverzeichnis.md](../testakten/wandeldarlehen-beispielcase/Notar-Paket-Inhaltsverzeichnis.md) | Markdown-Vorschau Notar-Paket |
-| [Notar-Paket-Inhaltsverzeichnis.docx](../testakten/wandeldarlehen-beispielcase/Notar-Paket-Inhaltsverzeichnis.docx) | Inhaltsverzeichnis aller Notar-Unterlagen (Original) |
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Lebenszyklus-Visualisierung
 
@@ -147,7 +129,6 @@ Das Plugin startet mit `mandat-triage-wandeldarlehen` und führt durch:
 ## Wichtiger Hinweis
 
 Alle Texte dienen als Arbeitshilfe für die anwaltliche Praxis. Sie ersetzen keine rechtliche Beratung im Einzelfall. Jeder Skill verweist auf die maßgebliche Rechtsprechung (BGH/OLG mit Aktenzeichen und Datum). Änderungen in GmbHG, InsO, UmwStG oder GwG sind einzuarbeiten (Stand: 05/2026).
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
