@@ -1,0 +1,111 @@
+From: dsb@vermietercheck.de
+To: s.tannenbruck@uni-duisburg-essen.de
+CC: prof.stuermerkoch@kanzlei-stuermerkoch-essen.de, m.beckenbauer@specht-beckenbauer-drosselberg.de
+Subject: AZ LG Essen 4 O 244/26 - Auskunft gemaess Art. 15 DSGVO - Dr. Susanna Tannenbruck
+Date: Wed, 11 Feb 2026 14:00:00 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <20260211140000.VCS004@vermietercheck.de>
+References: <Tannenbruck-Auskunftsersuchen-20251212@uni-duisburg-essen.de>
+In-Reply-To: <Tannenbruck-Auskunftsersuchen-20251212@uni-duisburg-essen.de>
+
+Sehr geehrte Frau Dr. Tannenbruck,
+
+wir erhalten uns auf Ihr Auskunftsersuchen gemaess Art. 15 DSGVO vom 12. Dezember 2025
+sowie auf das laufende Klageverfahren LG Essen 4 O 244/26. Wir entschuldigen uns ausdruecklich
+fuer die Versaeumung der Monatsfrist nach Art. 12 Abs. 3 DSGVO und erteilen nunmehr die
+vollstaendige Auskunft.
+
+AUSKUNFT GEMAeSS ART. 15 ABS. 1 DSGVO
+
+Verantwortlicher: VermieterCheck Solutions GmbH, Ruhrallee 188, 45136 Essen
+Datenschutzbeauftragte: Hannelore Kessler-Brandt, dsb@vermietercheck.de, Tel. 0201/498820-15
+
+1. Verarbeitete personenbezogene Daten (Art. 15 Abs. 1 lit. b)
+
+Wir verarbeiten / haben folgende Sie betreffende Daten verarbeitet:
+
+   Kategorie              | Wert / Inhalt
+   ---------------------- | -----------------------------------------
+   Familienname           | Tannenbruck
+   Vorname                | Susanna
+   Titel                  | Dr.
+   Adresse                | Gildehofstrasse 18, 45127 Essen
+   E-Mail-Adresse         | s.tannenbruck@uni-duisburg-essen.de
+   Bewerbungsdatum        | 08. Maerz 2025
+   Bewerbungsobjekt-ID    | ESS-RUE-2025-0144
+   Schufa-Score           | 714 Punkte (Score-Datum: 05.03.2025)
+   Negativmerkmale Schufa | Keine
+   Beruf                  | Professorin / Soziologin (Universitaet Duisburg-Essen)
+   Familienstatus         | Ledig
+   Haushaltsmitglieder    | 1
+   ProspectScore          | 78 von 100 (Ampel: ROT)
+   Scoring-Datum          | 08. Maerz 2025
+   Empfaenger des Scores  | Vermieter H.-D. Krankenhofer, Essen (anonymisiert gemaess berechtigtem Interesse)
+
+2. Verarbeitungszwecke (Art. 15 Abs. 1 lit. a)
+   Erstellung eines Bonitaets-Risikoscores zur Unterstuetzung der Mietentscheidung des Vermieters.
+
+3. Empfaenger (Art. 15 Abs. 1 lit. c)
+   - Privatvermieter H.-D. Krankenhofer, Essen (Plattform-Interface, kein weiterer Zugriff Dritter)
+   - Sundara Tech Pvt. Ltd. (Bengaluru, Indien) -- als Auftragsverarbeiter (Support/Entwicklung)
+     HINWEIS: Der Transfer an Sundara Tech erfolgte ohne SCC, was wir als Verstoss einraeumen.
+
+4. Speicherdauer (Art. 15 Abs. 1 lit. d)
+   24 Monate ab letzter Abfrage (also bis Maerz 2027). Auf Ihren Loeschungsantrag (Art. 17
+   DSGVO) werden Ihre Daten nach Abschluss der laufenden Gerichtsverfahren geloescht,
+   spaetestens jedoch nach Verfahrensabschluss (Art. 17 Abs. 3 lit. e DSGVO).
+
+5. Rechte auf Berichtigung, Loeschung, Einschraenkung, Widerspruch (Art. 15 Abs. 1 lit. e)
+   Sie koennen Berichtigung (Art. 16), Loeschung (Art. 17), Einschraenkung (Art. 18) und
+   Widerspruch (Art. 21) ueber dsb@vermietercheck.de oder unser Betroffenenportal
+   (in Aufbau: meine-daten.vermietercheck.de, verfuegbar ab 28.02.2026) beantragen.
+
+6. Beschwerderecht (Art. 15 Abs. 1 lit. f)
+   Sie haben das Recht, Beschwerde bei der LDI NRW einzulegen:
+   Landesbeauftragte fuer Datenschutz und Informationsfreiheit NRW
+   Kavalleriestrasse 2-4, 40213 Duesseldorf
+   poststelle@ldi.nrw.de | Tel. 0211/38424-0
+
+7. Herkunft der Daten (Art. 15 Abs. 1 lit. g)
+   - Persoenliche Angaben: Selbstauskunft im Mietinteressenten-Formular
+   - Schufa-Daten: Schufa Holding AG, Wiesbaden (B2B-API-Abfrage)
+
+8. Automatisierte Entscheidungsfindung / Profiling (Art. 15 Abs. 1 lit. h)
+   JA -- Es wurde eine automatisierte Entscheidung im Sinne des Art. 22 DSGVO getroffen.
+   
+   Involvierte Logik: ProspectScore Pro v3.0 (KI-Modell, Random Forest + neuronales Netz).
+   Einflussfaktoren und Gewichtungen:
+     - Schufa-Score:                   40% Gewichtung
+     - Stabilitaet Einkommensquelle:   30% Gewichtung (Beruf: Professorin = STABIL)
+     - Einkommenshoehe (Selbstauskunft): 20% Gewichtung
+     - Familienstatus / Haushaltsgroesse: 10% Gewichtung
+   
+   Ihr ProspectScore von 78 (ROT) resultierte trotz hohem Schufa-Score und stabilem Einkommen
+   massgeblich aus dem Einflussfaktor "Familienstatus / Haushaltsgroesse" und einer
+   Fehlklassifizierung des Berufs "Professorin" als "zeitlich befristetes Beschaeftigungsverhaeltnis"
+   durch das Modell (Erkannter Fehler -- wird in Modell v4.0 korrigiert).
+   
+   Tragweite: Die Ampelfarbe ROT wurde dem Vermieter uebermittelt und beeinflusste seine
+   Entscheidung ueber Ihre Bewerbung.
+
+9. Recht auf Kopie (Art. 15 Abs. 3 DSGVO)
+   Eine Kopie Ihrer Daten im JSON-Format liegt dieser E-Mail als Anlage bei.
+
+HINWEIS ZU DEN LAUFENDEN VERFAHREN
+
+Wir bitten um Verstaendnis, dass wir inhaltlich zu den laufenden Gerichtsverfahren (LG Essen
+4 O 244/26) ausschliesslich ueber unsere Prozessbevollmaechtigte kommunizieren.
+
+Mit freundlichen Gruessen
+
+Hannelore Kessler-Brandt
+Datenschutzbeauftragte VermieterCheck Solutions GmbH
+dsb@vermietercheck.de | Tel. 0201/498820-15
+
+Miriam Beckenbauer, Rechtsanwaeltin
+Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH
+m.beckenbauer@specht-beckenbauer-drosselberg.de
+
+Quellen: DSGVO Art. 12, 15, 22 - https://dejure.org/gesetze/DSGVO | EuGH C-307/22 (FT gg. DW, Kopienrecht Art. 15 Abs. 3) - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0307 | EDSA-Leitlinien 01/2022 (automat. Einzelentscheidungen) - https://edpb.europa.eu

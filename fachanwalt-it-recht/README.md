@@ -1,5 +1,19 @@
 # Fachanwalt It Recht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Cyber-Vorfall Ransomware Frischetrans Mainz** (`cyber-vorfall-ransomware-frischetrans-mainz`) | [Gesamt-PDF lesen](../testakten/cyber-vorfall-ransomware-frischetrans-mainz/gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Informationstechnologierecht. Orientierung SaaS-Verträge Software-Lizenz DSGVO BDSG TDDDG TKG NIS2 DDG Open-Source-Compliance Plattformhaftung DSA DMA EU-KI-VO. Schnittstellen datenschutzrecht ki-governance vertragsrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

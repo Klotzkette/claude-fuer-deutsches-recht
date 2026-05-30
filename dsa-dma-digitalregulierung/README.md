@@ -1,5 +1,19 @@
 # DSA, DMA und Digitalregulierung der EU
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **DSA/DMA — VLOP-Designation und Mahnverfahren Körnerstrom Social GmbH (Halmweise.de)** (`dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom`) | [Gesamt-PDF lesen](../testakten/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom/gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
 
 ## Direkt-Download

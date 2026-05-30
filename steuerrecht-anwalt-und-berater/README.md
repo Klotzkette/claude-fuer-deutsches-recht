@@ -1,5 +1,19 @@
 # Steuerrecht – Steuerberater und Anwälte
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung. Die DBA-Skills sind jetzt um eine weltweite Ländermatrix nach BMF-Stand 01.01.2026, MLI-Routing, Quellensteuer-Atlas, MAP/EU-Streitbeilegung und Edge-Case-Playbook erweitert.
 
 > Dieses Plugin ist **gleichzeitig das Fachanwalts-Plugin** für Steuerrecht. Es ersetzt das frühere separate `fachanwalt-steuerrecht`-Plugin: alle Fachanwalts-Skills sind hier mit dem Präfix `anw-` enthalten — die FAO-§-9-Voraussetzungen sind als Anhang im Skill `anw-orientierung` aufgenommen.

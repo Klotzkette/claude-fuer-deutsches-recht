@@ -1,0 +1,82 @@
+From: compliance@cryptofuturemax.io
+To: e.wittfeldt@t-online.de
+Subject: WICHTIG: AML-Compliance-Kaution erforderlich - Auszahlung blockiert
+Date: Tue, 18 Feb 2025 16:03:17 +0100
+Message-ID: <aml-kaution-emw-20250218160317@cryptofuturemax.io>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: PHP/8.1.27
+X-Originating-IP: 185.193.144.91
+Received: from mail2.cryptofuturemax.io (185.193.144.91)
+	by mx.t-online.de with ESMTP; Tue, 18 Feb 2025 16:03:29 +0100
+Authentication-Results: mx.t-online.de;
+	dkim=fail; spf=fail smtp.mailfrom=cryptofuturemax.io
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>WICHTIG: AML-Kaution</title></head>
+<body style="font-family:Arial,sans-serif;background:#f4f4f4;padding:20px;">
+<div style="max-width:650px;margin:auto;background:#ffffff;border-radius:8px;overflow:hidden;">
+  <div style="background:#8b1a1a;padding:25px;text-align:center;">
+    <h1 style="color:#ffffff;margin:0;font-size:22px;">CryptoFutureMax</h1>
+    <h2 style="color:#ffcccc;margin:8px 0 0;">DRINGENDE MITTEILUNG DER COMPLIANCE-ABTEILUNG</h2>
+  </div>
+  <div style="padding:30px;">
+    <div style="background:#fdecea;border:2px solid #8b1a1a;border-radius:8px;padding:20px;margin:0 0 20px;">
+      <h2 style="color:#8b1a1a;margin:0;text-align:center;">&#9888; KONTO TEMPOR&Auml;R GESPERRT</h2>
+      <p style="text-align:center;margin:8px 0 0;color:#555;">Ihre Auszahlung (94.700,00 EUR) ist aufgrund neuer AML-Vorschriften blockiert.</p>
+    </div>
+
+    <p>Sehr geehrte Frau Wittfeldt,</p>
+
+    <p>aufgrund der neuen Europ&auml;ischen Anti-Geldw&auml;sche-Verordnung (AML Directive 2024/1620) sind wir verpflichtet, bei Auszahlungen &uuml;ber 50.000 EUR eine einmalige <strong>Compliance-Kaution (AML Deposit)</strong> zu erheben.</p>
+
+    <div style="background:#f0f4f8;border-radius:6px;padding:20px;margin:20px 0;">
+      <h3 style="color:#1a3a5c;margin-top:0;">Details zur Compliance-Kaution</h3>
+      <table style="width:100%;border-collapse:collapse;">
+        <tr style="background:#1a3a5c;color:#ffffff;">
+          <th style="padding:8px;text-align:left;">Parameter</th>
+          <th style="padding:8px;text-align:right;">Wert</th>
+        </tr>
+        <tr style="background:#f0f4f8;">
+          <td style="padding:8px;">Kaution (AML Deposit)</td>
+          <td style="padding:8px;text-align:right;font-weight:bold;">18.000,00 EUR</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;">R&uuml;ckerstattung</td>
+          <td style="padding:8px;text-align:right;">Innerhalb von 5 Werktagen nach Auszahlung</td>
+        </tr>
+        <tr style="background:#f0f4f8;">
+          <td style="padding:8px;">Deadline</td>
+          <td style="padding:8px;text-align:right;color:#8b1a1a;font-weight:bold;">20.02.2025 (48 Stunden)</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;">Bei Nichtzahlung</td>
+          <td style="padding:8px;text-align:right;color:#8b1a1a;">Kontosperrung; Gewinne verfallen</td>
+        </tr>
+      </table>
+    </div>
+
+    <div style="background:#e8f4e8;border-radius:6px;padding:20px;margin:20px 0;">
+      <h3 style="color:#2d6a2d;margin-top:0;">Kontoverbindung f&uuml;r AML-Kaution</h3>
+      <p><strong>Empf&auml;nger:</strong> CFM Compliance Holdings Ltd.</p>
+      <p><strong>IBAN:</strong> HK20 0030 0000 4817 2300 3</p>
+      <p><strong>BIC:</strong> ZNBKHKHH</p>
+      <p><strong>Bank:</strong> ZA Bank Limited, Hongkong</p>
+      <p><strong>Verwendungszweck:</strong> AML-KAUTION-EMW-2025</p>
+    </div>
+
+    <p>Nach Eingang der Kaution wird Ihre Auszahlung von <strong>94.700,00 EUR</strong> sofort freigegeben. Robert Volkmann wird Sie umgehend informieren.</p>
+
+    <p style="color:#8b1a1a;font-weight:bold;">Bitte beachten Sie: Bei Nichtzahlung innerhalb von 48 Stunden m&uuml;ssen wir Ihr Konto gem&auml;&szlig; AML Directive 2024/1620 Art. 38 permanent sperren und alle Positionen liquidieren.</p>
+
+    <p><em>[KANZLEINOTIZ: Die "EU AML Directive 2024/1620" existiert nicht. Dieser E-Mail-Text ist ein klassischer Advance-Fee-Fraud (Vorschussbetrug). Die genannte Kontoverbindung fuehrt zur ZA Bank Hongkong -- nicht zu einer Compliance-Stelle. Das SPF=FAIL zeigt gefaelschte Absenderadresse. Die Domain compliance@cryptofuturemax.io wurde erst 11 Tage zuvor registriert.]</em></p>
+  </div>
+  <div style="background:#f4f4f4;padding:15px;text-align:center;font-size:11px;color:#888888;">
+    <p>CryptoFutureMax Compliance Department &bull; compliance@cryptofuturemax.io</p>
+    <p>EU AML Compliance Center &bull; [KANZLEINOTIZ: NICHT EXISTENT]</p>
+  </div>
+</div>
+</body>
+</html>

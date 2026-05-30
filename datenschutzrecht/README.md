@@ -1,5 +1,19 @@
 # Datenschutzrecht-Plugin
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)** (`dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen`) | [Gesamt-PDF lesen](../testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, US-Transfer mit DPF/SCC/TIA, Behördenpaket, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und freigabepflichtig, keine abschließende Rechtsauskunft.** Das Plugin übernimmt die Arbeit: es liest Dokumente, wendet Ihr Praxisprofil an, findet Schwachstellen und verfasst Memos. Der Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Herkunft gekennzeichnet (Modellwissen vs. abgerufen). Mandatsgeheimnisschutz (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gehandhabt. Folgenreiche Maßnahmen – Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben, Vertragsunterzeichnung – werden erst nach ausdrücklicher Bestätigung durchgeführt.

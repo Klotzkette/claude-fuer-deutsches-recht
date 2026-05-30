@@ -1,0 +1,74 @@
+From: a.krishnamurthy@medassist-ai.de
+To: h.vellbruck-steinheim@vellbruck-partner.de
+CC: m.roosendaal@vellbruck-partner.de, m.albrecht-haag@medassist-ai.de, t.vogelkamp@medassist-ai.de
+Date: Sun, 08 Mar 2026 17:42:05 +0100
+Subject: Re: Kanzlei 2026-V-0427 / MedAssist v4 — Prüfumfang und benötigte Unterlagen — Trainingsdaten-Erläuterung
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Message-ID: <20260308174205.AK-MEDA2026@medassist-ai.de>
+In-Reply-To: <20260305091422.VA2026-V0427@vellbruck-partner.de>
+
+Sehr geehrte Frau Dr. Vellbruck-Steinheim,
+
+vielen Dank für Ihre detaillierte Anfrage. Ich sende Ihnen heute über unser
+verschlüsseltes Dateiportal (Link folgt separat) alle verfügbaren Unterlagen.
+Zu einigen Punkten möchte ich vorab erläutern:
+
+TRAININGSDATEN — ERLÄUTERUNG
+
+Die Trainingsdatenbasis von MedAssist v4 besteht im Wesentlichen aus drei Quellen:
+
+1. MIMIC-IV Emergency (PhysioNet, MIT/BIDMC)
+   Zugang über PhysioNet Credentialed Health Data License; Zustimmung MIT IRB liegt vor.
+   Der Datensatz ist gemäß PhysioNet-Lizenz für Forschungszwecke freigegeben.
+   Ich bin mir bewusst, dass die Frage der DSGVO-Konformität bei US-Quellen komplex ist.
+   Unsere interne Rechtsmeinung (Rechtsanwaltskanzlei Bauer & Steinke, Frankfurt, 2022)
+   war, dass die Nutzung de-identifizierter Forschungsdaten unter Art. 9 Abs. 2 lit. j
+   DSGVO zulässig sei. Ob diese Auffassung BfDI-fest ist, überlasse ich Ihrer Beurteilung.
+
+2. NEMSIS 3.5 (NHTSA)
+   Öffentlich zugänglicher Datensatz unter US Government Open Data License.
+   Keine EU-spezifische Datenschutzprüfung wurde durchgeführt, da wir davon ausgingen,
+   dass de-identifizierte, behördlich veröffentlichte US-Daten keine DSGVO-relevanten
+   personenbezogenen Daten enthalten.
+
+3. Klinikinterne Daten (3 BW-Partnerkliniken)
+   AVV nach Art. 28 DSGVO liegt vor (Muster im Datenpaket enthalten).
+   Pseudonymisierungsverfahren: k-Anonymität k=5, dokumentiert in Anhang D des
+   technischen Dossiers.
+
+ZUR LLAMA-KOMPONENTE
+
+Wir verwenden Llama-3.1-70B-Instruct als Basismodell (Meta AI, RAIL-Lizenz v3).
+Das Fine-Tuning wurde intern mit ca. 280.000 Trainingsschritten auf dem medizinischen
+Notfalldatensatz durchgeführt. Die Fine-Tuning-Dokumentation ist leider noch nicht
+vollständig formalisiert — wir haben die Parameter in einem internen Jupyter-Notebook
+dokumentiert, das ich Ihnen mitschicke. Ein strukturiertes Dokument im Sinne einer
+"Systemcard" existiert nicht; das ist, soweit ich weiß, ein Meta-AI-Dokument und nicht
+unsere Pflicht. Falls Sie das anders sehen, informieren Sie mich bitte.
+
+ZUR BIAS-ANALYSE
+
+Eine formale Bias-Analyse nach Art. 10 Abs. 2 lit. g KI-VO liegt nicht vor. Wir haben
+intern diskutiert, ob das notwendig ist, und sind zu dem Schluss gekommen, dass der
+Testbericht (MA-EVAL-2024-03) ausreichend sei. Ich schicke Ihnen den Bericht; Sie werden
+sehen, dass wir Accuracy-Splits nach Diagnosegruppe vorgenommen haben, aber nicht nach
+Geschlecht oder Alter. Das war bewusst so entschieden, um den Entwicklungsaufwand
+zu begrenzen.
+
+Ich stehe für ein Telefonat zur Verfügung, falls Sie Rückfragen haben.
+Das Datenpaket werde ich bis Montag, 09.03.2026, 10:00 Uhr, hochladen.
+
+Mit freundlichen Grüßen
+
+Aravind Krishnamurthy
+Chief Technology Officer (CTO)
+MedAssist AI GmbH
+Im Neuenheimer Feld 580 | 69120 Heidelberg
+Tel.: 06221 / 500 10-200
+Mobil: +49 175 309 8821
+E-Mail: a.krishnamurthy@medassist-ai.de
+
+MedAssist AI GmbH | HRB 748921 AG Mannheim
+Geschäftsführung: Dr. Theresia Vogelkamp (CEO), Aravind Krishnamurthy (CTO), Dr. Lutz Federkamp (CMO)

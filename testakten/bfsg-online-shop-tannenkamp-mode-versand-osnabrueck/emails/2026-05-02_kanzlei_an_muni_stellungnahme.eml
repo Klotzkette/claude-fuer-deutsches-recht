@@ -1,0 +1,64 @@
+From: dr.friedrichs@it-recht-hannover.de
+To: almut.stegge@laves.niedersachsen.de
+Date: Sat, 02 May 2026 14:12:07 +0200
+Message-ID: <AF-IT-2026-0502-001@it-recht-hannover.de>
+Subject: Ergänzende Stellungnahme — Az. MüNI-BFSG-2026/0188 — Tannenkamp Mode-Versand GmbH
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Rechtsanwältin Dr. Annerose Friedrichs
+IT-Recht & Verbraucherschutz
+[Anschrift der Kanzlei]
+30xxx Hannover
+
+An:
+LAVES — Dezernat Marktüberwachung BFSG
+z.Hd. Frau Stegge
+Per E-Mail
+
+Az.: MüNI-BFSG-2026/0188 / Ihr Schreiben vom 22.03.2026
+Unser Az.: AF-IT-2026/0094
+
+Ergänzende Stellungnahme vom 02.05.2026
+
+Sehr geehrte Frau Stegge,
+
+ergänzend zu unserer Stellungnahme vom 05.04.2026 übersenden wir:
+
+Anlage 1: Vollständiger WCAG-Auditbericht der AccessCheck GmbH,
+Bielefeld, vom 25.03.2026 (53 Seiten).
+
+Anlage 2: Detaillierte Remediation-Roadmap mit Zeitplan und Meilensteinen
+(abgeschlossen: Phase 1 wie nachfolgend dargestellt).
+
+Wir berichten über den Sanierungsfortschritt:
+
+ABGESCHLOSSEN (Phase 1, bis 25.04.2026):
+- Tastaturfokus (`:focus-visible` CSS) wiederhergestellt am 20.04.2026
+- Skip-Link zum Hauptinhalt implementiert am 20.04.2026
+- Kontrast Fließtext auf 7,0:1 verbessert am 25.04.2026
+- Erklärung zur Barrierefreiheit veröffentlicht am 06.04.2026
+- Feedback-E-Mail eingerichtet am 06.04.2026
+
+IN BEARBEITUNG (Phase 2, bis 31.08.2026):
+- ARIA-Korrekturen (ca. 1.800 Elemente): Beginn 15.06.2026
+- Alt-Texte 2.317 Produktbilder: Bulk-Auftrag erteilt 01.05.2026
+- PDF H/W 2025 barrierefreiheitskonform: Beauftragung läuft
+
+Wir verweisen auf die in Anlage 2 beigefügte Roadmap und bitten
+darum, den bisherigen Sanierungsfortschritt sowie die geplante
+Vollendung bis 30.09.2026 in der Verfahrenswürdigung zu berücksichtigen.
+
+Zur Frage des Prüfmaßstabs halten wir unsere Rüge aufrecht: Maßgeblicher
+Standard nach BFSG ist EN 301 549, nicht BITV 2.0.
+
+Wir stehen für Rückfragen jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+
+Dr. Annerose Friedrichs
+Rechtsanwältin
+IT-Recht & Verbraucherschutz
+Tel. [Kanzlei-Tel.]
+dr.friedrichs@it-recht-hannover.de

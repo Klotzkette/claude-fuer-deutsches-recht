@@ -1,5 +1,20 @@
 # Betreuungsrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Betreuungsfall Hildegard Sauer** (`betreuung-hildegard-sauer`) | [Gesamt-PDF lesen](../testakten/betreuung-hildegard-sauer/gesamt-pdf/betreuung-hildegard-sauer_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
+| **Akte Betreuung Schmalfeld: Kontodaten und verdächtige Verträge** (`betreuung-schmalfeld-kontodaten-vertraege`) | [Gesamt-PDF lesen](../testakten/betreuung-schmalfeld-kontodaten-vertraege/gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Skills für **berufliche Betreuerinnen und Betreuer** nach dem Betreuungsorganisationsgesetz
 (BtOG) und den §§ 1814 ff. BGB in der Fassung der Reform 2023.
 

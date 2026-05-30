@@ -1,0 +1,45 @@
+From: m.thorvaldsson@thalvenia-bank.de
+To: m.vellbruck@thalvenia-bank.de; c.thalheim-lattermann@thalvenia-bank.de
+CC: a.birkenhainer@thalvenia-bank.de; l.tannenfels@thalvenia-bank.de; m.hoffrath-seel@thalvenia-bank.de
+Date: Fri, 09 Jan 2026 08:35:17 +0100
+Subject: NOTFALL - IT-Sicherheitsvorfall Stufe 2 - Ransomware 09.01.2026
+Message-ID: <CISO-20260109-001@thalvenia-bank.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+IT-NOTFALL STUFE 2 - INTERNE MELDUNG (VERTRAULICH)
+Zeitpunkt: 09. Januar 2026, 08:35 Uhr
+Von: Magnus Thorvaldsson (CISO)
+An: Vorstand, CRO, CCO, Leiterin Rechtsabteilung
+
+LAGEBESCHREIBUNG:
+
+Heute Nacht wurde unser Verwaltungsnetz durch einen Ransomware-Angriff befallen.
+14 Server wurden verschluesselt. Der Angreifer nutzte CVE-2024-21762 (FortiGate VPN).
+
+AKTUELLE SITUATION:
+- Produktionssysteme: NICHT betroffen (Cold Custody physisch isoliert)
+- MPC-Signing-Service: AUSGEFALLEN (Wiederherstellung in 12-18 Stunden erwartet)
+- Kundenfonds: GESICHERT (Hot Wallets und Cold Storage unbeeintraechtigt)
+- Loesegeldforderung: 35 Bitcoin (Zahlung NICHT empfohlen)
+- Forensik-Team extern: CyberTrust GmbH Frankfurt - Einsatz beauftragt fuer 10:00 Uhr
+
+BEREITS ERGRIFFENE MASSNAHMEN:
+- Isolierung betroffener Netzwerksegmente (07:45 Uhr)
+- FortiGate Notfallpatch eingespielt (08:20 Uhr)
+- Backup-Verifikation laeuft
+
+ZU KLAERENDE FRAGE:
+Meldepflicht nach BAIT Tz. 55 (BaFin) und ggf. NIS2 (BSI):
+Wann und was melden wir? Ich empfehle, den Anwalt hinzuzuziehen und
+erst nach Vorliegen der ersten Forensikergebnisse zu melden (Zeitraum: ca. 48-72h).
+
+NAECHSTE SCHRITTE:
+- Vorstandsmeeting 10:00 Uhr (Konferenzraum 2)
+- Forensik-Beginn 11:00 Uhr
+- Erste Lageeinschaetzung Forensik: ca. 13.01.2026
+
+Magnus Thorvaldsson
+Chief Information Security Officer (CISO)
+Thalvenia Bank AG

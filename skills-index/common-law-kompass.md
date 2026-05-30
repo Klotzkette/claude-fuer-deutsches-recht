@@ -1,6 +1,6 @@
 # common-law-kompass
 
-**19 Skills** · Stand `v51.1.0`
+**19 Skills** · Stand `v51.2.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/common-law-kompass/README.md)

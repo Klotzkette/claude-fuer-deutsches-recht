@@ -1,0 +1,72 @@
+From: dr.soehnchen@soehnchen-partner.de
+To: stang@soehnchen-partner.de; fleischer@soehnchen-partner.de
+CC: werkmann@wbat-baesweiler.de
+Date: Sun, 08 Feb 2026 23:14:37 +0100
+Subject: DRINGEND: Anlage K17 — Falsche Datei eingereicht — Sofortmassnahmen
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Message-ID: <20260208231437.soehnchen.k17alarm@soehnchen-partner.de>
+
+Frau Stang, Herr Fleischer,
+
+soeben habe ich Ihre Meldung erhalten. Das ist eine ernste Situation, aber lösbar.
+
+Kurzzusammenfassung des Problems:
+
+Die am 21.01.2026 über beA eingereichte Anlage K17 enthält NICHT den Nachtrag Nr. 3
+(Planänderung Fassadendämmung Eschweiler vom 19.05.2024), sondern ein vertrauliches
+Dokument aus dem abgeschlossenen Mandat PN-2024-019 (ProTec Anlagensicherheit GmbH,
+Duisburg) — konkret einen BSI-Sicherheitsbericht über kritische Infrastrukturkomponenten.
+
+Das Dokument trägt den Aufdruck "VERTRAULICH — NUR FÜR INTERNEN GEBRAUCH".
+
+SOFORTMASSNAHMEN (heute noch, auch wenn es 23 Uhr ist):
+
+1. Herr Fleischer: Prüfen Sie sofort, ob die falsche Datei noch in der beA-Übertragungsmappe
+   liegt oder ob sie bereits als übertragen markiert ist. Falls das System eine
+   Rückruf-Funktion hat — versuchen Sie es. Falls nicht: protokollieren Sie den Status.
+
+2. Frau Stang: Erstellen Sie bis morgen 8:00 Uhr folgendes:
+   a) Die korrekte K17-Datei (Nachtrag Nr. 3, 7 Seiten, als PDF/A-2b)
+   b) Entwurf eines Berichtigungsschriftsatzes (1-2 Seiten) für das LG Aachen
+   c) Aktennotiz über den Vorfall (Zeitachse, Ursache, Maßnahmen)
+
+3. Ich selbst rufe morgen früh um 8:15 Uhr die Geschäftsstelle LG Aachen an
+   (Frau Knoops, Zi. 312) und informiere RA Dr. Kessling (Gegnervertreter).
+
+4. Die ProTec GmbH muss informiert werden — ich übernehme das Gespräch mit
+   Herrn Stölting persönlich morgen Vormittag.
+
+5. Herr Fleischer: IT-Analyse des DMS-Konfigurationsfehlers bis morgen Mittag —
+   wie konnte die Fehlzuordnung zwischen NU-2024-047 (Werkmann) und PN-2024-019
+   (ProTec) entstehen?
+
+WICHTIG: Keine Panik, kein Aktionismus ohne Abstimmung mit mir. Wir lösen das
+sauber und dokumentiert. Der Berichtigungsschriftsatz ist prozessrechtlich das
+richtige Instrument (§ 139 Abs. 4 ZPO).
+
+Ursache (meine erste Einschätzung): Das DocuWare-DMS hat bei der automatischen
+Tagging-Funktion die Mandatsnummer verwechselt. NU-2024-047 endet auf "047",
+PN-2024-019 endet auf "019" — beide liegen in der Datenbank alphabetisch
+nebeneinander. Das ist ein Konfigurationsfehler, den wir beim Systemintegrator
+sofort melden.
+
+Ich melde mich morgen früh um 7:30 Uhr mit dem endgültigen Aktionsplan.
+
+Bitte bestätigen Sie den Empfang dieser Mail.
+
+Mit freundlichen Grüßen
+Dr. Bertram Söhnchen LL.M.
+Fachanwalt für Bau- und Architektenrecht
+
+Söhnchen & Partner Rechtsanwälte mbB
+Theaterstraße 22
+52062 Aachen
+Tel.: 0241 / 88 33 44-0
+Fax: 0241 / 88 33 44-99
+dr.soehnchen@soehnchen-partner.de
+www.soehnchen-partner.de
+
+VERTRAULICH: Diese E-Mail ist ausschließlich für den bezeichneten Adressaten bestimmt
+und kann vertrauliche anwaltliche Informationen enthalten. Sollten Sie diese E-Mail
+irrtümlich erhalten haben, informieren Sie den Absender und löschen Sie die Nachricht.

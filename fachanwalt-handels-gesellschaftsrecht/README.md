@@ -1,5 +1,19 @@
 # Fachanwalt Handels- und Gesellschaftsrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Gesellschafterstreit / Squeeze-out — Küchenkönig Manufaktur GmbH & Co. KG (Paderborn)** (`gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn`) | [Gesamt-PDF lesen](../testakten/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn/gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB, AktG, GmbHG, PartGG, UmwG, MoPeG (GbR seit 2024). Geschäftsführerhaftung §§ 43 GmbHG, 93 AktG. Gesellschafterstreit und Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

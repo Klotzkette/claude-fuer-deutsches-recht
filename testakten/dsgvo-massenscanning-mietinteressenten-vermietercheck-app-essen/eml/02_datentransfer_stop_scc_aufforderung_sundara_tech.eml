@@ -1,0 +1,82 @@
+From: l.drosselberg@specht-beckenbauer-drosselberg.de
+To: legal@sundaratech.in
+CC: ceo@sundaratech.in, dsb@vermietercheck.de, dr.specht@specht-beckenbauer-drosselberg.de
+Subject: URGENT - Data Transfer Suspension & SCC Execution Requirement - VermieterCheck Solutions GmbH / Sundara Tech Pvt. Ltd.
+Date: Fri, 16 Jan 2026 14:30:00 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <20260116143000.SBD002@specht-beckenbauer-drosselberg.de>
+
+Sundara Tech Pvt. Ltd.
+Attn.: Legal Department / CEO
+No. 42, 4th Floor, Prestige Tech Park
+Sarjapur Road, Bengaluru, Karnataka 560103
+India
+
+Dear Sir or Madam,
+
+We act as legal counsel for VermieterCheck Solutions GmbH (Germany, hereinafter "VCS") in all
+data protection matters. We write to you with immediate urgency regarding the data processing
+activities conducted by Sundara Tech Pvt. Ltd. (hereinafter "Sundara Tech") on behalf of VCS.
+
+1. IMMEDIATE SUSPENSION OF PERSONAL DATA TRANSFERS
+
+With immediate effect from the date of this letter (16 January 2026), VCS hereby instructs
+Sundara Tech to:
+
+(a) Immediately cease any processing of personal data received from VCS, including but not
+    limited to: tenant applicant profiles, credit scoring data, ProspectScore training datasets,
+    and any production database content.
+
+(b) Immediately cease any transfer of such data to third parties, subprocessors, or cloud
+    infrastructure outside the European Economic Area.
+
+(c) Secure all data currently in your possession and access-restrict it to authorized VCS
+    personnel only.
+
+This instruction is issued pursuant to Clause 7.7 of the Data Processing Agreement (DPA)
+dated December 2023 and Art. 28 Abs. 3 lit. a DSGVO (GDPR).
+
+2. LEGAL BACKGROUND
+
+VCS has determined that the data transfers to Sundara Tech conducted since October 2022 were
+carried out without Standard Contractual Clauses (SCCs) as required under Art. 46 Abs. 2 lit. c
+GDPR and EU Commission Decision 2021/914. The absence of SCCs constitutes a serious violation
+of Chapter V GDPR, which VCS is in the process of remedying.
+
+Furthermore, a data breach (CVE-2026-0188) affecting 142,300 data subjects has been identified,
+and the forensic analysis must determine whether Sundara Tech's infrastructure was involved.
+
+3. REQUEST FOR EXECUTION OF STANDARD CONTRACTUAL CLAUSES
+
+VCS requests that Sundara Tech execute Standard Contractual Clauses (Module 2: Controller to
+Processor) pursuant to EU Commission Decision 2021/914 of 4 June 2021. Our team will provide
+the completed SCC document by 20 February 2026. We request Sundara Tech's countersignature
+by 5 March 2026 at the latest.
+
+4. DATA DELETION REQUEST
+
+Please confirm in writing by 31 January 2026 that all VCS production data and training datasets
+stored on Sundara Tech's systems (including staging environments, backups, and AWS Mumbai
+instances) have been securely deleted, with a deletion log provided as evidence.
+
+5. TRANSFER IMPACT ASSESSMENT (TIA)
+
+Pursuant to the guidance of the European Data Protection Board (EDPB Recommendations 01/2020)
+and the Schrems II ruling (CJEU C-311/18), a Transfer Impact Assessment for India must be
+completed. We will engage Indian counsel (Mehta & Associates, Mumbai) and request Sundara
+Tech's cooperation in providing information about applicable Indian law.
+
+Please acknowledge receipt of this letter within 48 hours and confirm compliance.
+
+Yours faithfully,
+
+Lars Drosselberg, Rechtsanwalt
+Dr. Cornelius Specht, Rechtsanwalt (Fachanwalt Datenschutzrecht)
+Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH
+Koenigsallee 92c | D-40212 Duesseldorf | Germany
+Tel. +49 211 49320-0 | Fax +49 211 49320-99
+l.drosselberg@specht-beckenbauer-drosselberg.de
+
+Sources: GDPR Art. 44, 46 - https://dejure.org/gesetze/DSGVO | EU Commission Decision 2021/914 (SCC) - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021D0914 | CJEU C-311/18 (Schrems II) - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311 | EDPB Recommendations 01/2020 - https://edpb.europa.eu/our-work-tools/our-documents/recommendations/recommendations-012020-measures-supplement-transfer_de

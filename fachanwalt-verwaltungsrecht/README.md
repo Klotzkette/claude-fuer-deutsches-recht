@@ -1,5 +1,19 @@
 # Fachanwalt Verwaltungsrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
 
 ## ⬇️ Zum Ausprobieren: Testakte (separat)

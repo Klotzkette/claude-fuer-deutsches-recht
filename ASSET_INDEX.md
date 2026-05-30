@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.1.0 DFG/Forschungszulage Workflow-Boost
+**Stand:** v51.2.0 — Welle 1-11 Testakten Vollbestand (alle 64 Lueckenakten ergaenzt: Richter Verfassungsrecht VerkehrsOWi Drafting Zitierweise Zwangsvollstreckung)
 
 ## Asset-Typen
 
@@ -21,7 +21,7 @@
 | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Enthält alle Testaktenordner in Originalstruktur. **Kein Plugin-Archiv**; die Akten in den Chat bzw. Arbeitsordner ziehen. |
 | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Enthält alle Plugin-ZIPs, alle Testakten-ZIPs, `marketplace.json` und die zentralen Übersichten. |
 
-## Plugin-Assets (110 Stück)
+## Plugin-Assets (108 Stück)
 
 In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -43,7 +43,6 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `common-law-kompass` | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | `corporate-kanzlei` | Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. |
 | `datenschutzrecht` | DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA und Behördenpaket. |
-| `dfg-foerderantrag` | DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, Koselleck-Projekte ab 500.000 Euro, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung. |
 | `dsa-dma-digitalregulierung` | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. |
 | `einfache-leichte-sprache-jura` | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen. |
 | `email-umformulierer-berufsrecht` | Formuliert unfreundliche, emotionale oder unsachliche E-Mails in hoefliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, Notare und allgemeine berufliche Korrespondenz. |
@@ -74,7 +73,6 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `fachanwalt-verwaltungsrecht` | Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. |
 | `fluggastrechte` | Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation. |
 | `forderungsmanagement-klagewerkstatt` | Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. |
-| `forschungszulage-antragstellung` | Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Krisenlagen, Dokumentation und Einspruch. |
 | `fortbestehensprognose` | Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose. |
 | `geldwaeschepraevention-aml-kyc` | Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren. |
 | `gesellschaftsgruender` | Gründungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl über Gesellschaftsvertrag und Geschäftsführervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz für Anwaltsberatung. |
@@ -84,6 +82,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `grosskanzlei-corporate-ma` | Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-Kommandocenter, Anfänger-/First-Year-Modus, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, UmwG/StaRUG, CP-Kalender, E-Rechnung/GoBD, PMI. |
 | `hausarbeitenmacher` | Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Führt sokratisch durch Zivilrecht öffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei. Liefert keine fertigen Lösungen sondern führt zur eigenen Subsumtion. |
 | `immobilienrechtspraxis` | Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Pruefung. Rechtsprechung nur nach Live-Verifikation. |
+| `weg-hausverwaltung` | Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation. |
 | `insolvenzforderungsanmeldungspruefung` | Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung. |
 | `insolvenzplan-starug-planwerkstatt` | Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
 | `insolvenzrecht` | Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. |
@@ -106,8 +105,8 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `memorandums-ersteller` | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher. |
 | `methodenlehre-buergerliches-recht` | Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung. |
 | `mietrecht` | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht. |
-| `mittelstand-corporate-ma` | Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI. |
 | `nachbarschaftsstreit-pruefer` | Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich. |
+| `mittelstand-corporate-ma` | Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI. |
 | `nda-abgleich` | Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen. |
 | `normenkontrolle-bauleitplanung` | Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung. |
 | `patentrecherche` | Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPUe erfinderische Tätigkeit § 4 PatG Art. 56 EPUe Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht. |
@@ -119,7 +118,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `schriftform-und-textform-bgb` | Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. |
 | `selbstvertreter-amtsgericht` | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. |
 | `selbstvertreter-sozialgericht` | Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat, Berufung. |
-| `steuerrecht-anwalt-und-berater` | Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch, Klage FG, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix 2026, Signing/Closing, BWA-/SuSa-/Bilanz-Krisenprüfung. |
+| `steuerrecht-anwalt-und-berater` | Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. |
 | `strafbefehl-verteidiger` | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
 | `strafzumessung` | Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG. |
 | `subsumtions-pruefer` | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. |
@@ -133,7 +132,6 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `vertragsausfueller` | Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten. |
 | `vertragsrecht` | Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen. |
 | `wandeldarlehen-lebenszyklus` | Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. |
-| `weg-hausverwaltung` | Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation. |
 | `word-legal-ai-plugin-and-skill-for-german-lawyers` | Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht. |
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. |
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
@@ -147,38 +145,72 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Asset | Inhalt |
 | --- | --- |
+| `testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen.zip` | siehe `testakten/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen/` |
+| `testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip` | siehe `testakten/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig/` |
+| `testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip` | siehe `testakten/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler/` |
+| `testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip` | siehe `testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/` |
 | `testakte-arbeitszeugnis-analyse-bluehendes-leben.zip` | siehe `testakten/arbeitszeugnis-analyse-bluehendes-leben/` |
+| `testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip` | siehe `testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | siehe `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/` |
+| `testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart.zip` | siehe `testakten/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart/` |
 | `testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip` | siehe `testakten/bav-strategie-konzern-meissner-rheinwerk-ag/` |
 | `testakte-bebauungsplan-augsburg-bahnhofsareal.zip` | siehe `testakten/bebauungsplan-augsburg-bahnhofsareal/` |
 | `testakte-befristungskontrollklage-vogt-stadtwerke.zip` | siehe `testakten/befristungskontrollklage-vogt-stadtwerke/` |
 | `testakte-beispielakte-edelholz-berlin.zip` | siehe `testakten/beispielakte-edelholz-berlin/` |
+| `testakte-bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.zip` | siehe `testakten/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/` |
+| `testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch.zip` | siehe `testakten/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch/` |
 | `testakte-betreuung-hildegard-sauer.zip` | siehe `testakten/betreuung-hildegard-sauer/` |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip` | siehe `testakten/betreuung-schmalfeld-kontodaten-vertraege/` |
+| `testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip` | siehe `testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/` |
+| `testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip` | siehe `testakten/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck/` |
 | `testakte-bgb-at-altfraenkische-werkstatt.zip` | siehe `testakten/bgb-at-altfraenkische-werkstatt/` |
+| `testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip` | siehe `testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/` |
 | `testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip` | siehe `testakten/bvg-widerspruchsstelle-abschleppen-mobg/` |
+| `testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip` | siehe `testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | siehe `testakten/common-law-kompass-crossborder-contract/` |
+| `testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip` | siehe `testakten/cyber-vorfall-ransomware-frischetrans-mainz/` |
+| `testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip` | siehe `testakten/cybertrading-anlagebetrug-wittfeldt-bremen/` |
 | `testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip` | siehe `testakten/datenschutz-us-transfer-cloudsuite-rheinmain/` |
+| `testakte-doping-uvalkanat-handballerin-cas-lausanne.zip` | siehe `testakten/doping-uvalkanat-handballerin-cas-lausanne/` |
+| `testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben.zip` | siehe `testakten/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben/` |
 | `testakte-dsa-dma-bayrische-baustube-meissner.zip` | siehe `testakten/dsa-dma-bayrische-baustube-meissner/` |
+| `testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip` | siehe `testakten/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom/` |
+| `testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip` | siehe `testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/` |
+| `testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip` | siehe `testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/` |
 | `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | siehe `testakten/einfache-leichte-sprache-jura-mandantenbrief/` |
 | `testakte-energierecht-stadtwerke-quartier.zip` | siehe `testakten/energierecht-stadtwerke-quartier/` |
+| `testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip` | siehe `testakten/erbstreit-krypto-multisig-edelmann-stuttgart/` |
+| `testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip` | siehe `testakten/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle/` |
 | `testakte-europarecht-kompass-beihilfe-richtlinie.zip` | siehe `testakten/europarecht-kompass-beihilfe-richtlinie/` |
+| `testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip` | siehe `testakten/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim/` |
+| `testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip` | siehe `testakten/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung/` |
 | `testakte-fluggastrechte-familie-braeutigam.zip` | siehe `testakten/fluggastrechte-familie-braeutigam/` |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip` | siehe `testakten/fortbestehensprognose-paragrafix-gmbh/` |
+| `testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter.zip` | siehe `testakten/fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter/` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | siehe `testakten/geldwaesche-aml-kyc-musterholding/` |
+| `testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip` | siehe `testakten/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn/` |
 | `testakte-gesellschaftsgruender-streit-roeschen-tech.zip` | siehe `testakten/gesellschaftsgruender-streit-roeschen-tech/` |
 | `testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip` | siehe `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/` |
 | `testakte-grosskanzlei-corporate-ma-datenraum.zip` | siehe `testakten/grosskanzlei-corporate-ma-datenraum/` |
 | `testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip` | siehe `testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/` |
 | `testakte-grundsteuer-rosenwinkel-bescheidkette.zip` | siehe `testakten/grundsteuer-rosenwinkel-bescheidkette/` |
+| `testakte-grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost.zip` | siehe `testakten/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost/` |
+| `testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip` | siehe `testakten/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung/` |
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | siehe `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/` |
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | siehe `testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/` |
 | `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip` | siehe `testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/` |
 | `testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip` | siehe `testakten/insolvenzverwaltung-nordlicht-handels-kiel/` |
+| `testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip` | siehe `testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/` |
+| `testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027.zip` | siehe `testakten/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027/` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | siehe `testakten/jveg-zeugin-berger-lg-tuebingen/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
+| `testakte-kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen.zip` | siehe `testakten/kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen/` |
+| `testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen.zip` | siehe `testakten/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen/` |
+| `testakte-ki-governance-konzern-rollout-thalheim-industries.zip` | siehe `testakten/ki-governance-konzern-rollout-thalheim-industries/` |
 | `testakte-ki-richtlinie-musterkanzlei.zip` | siehe `testakten/ki-richtlinie-musterkanzlei/` |
+| `testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip` | siehe `testakten/ki-training-tdm-fotografin-windgassen-hamburg/` |
+| `testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip` | siehe `testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/` |
 | `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip` | siehe `testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/` |
 | `testakte-krisenfrueherkennung-starug-vier-varianten.zip` | siehe `testakten/krisenfrueherkennung-starug-vier-varianten/` |
 | `testakte-kuendigungsschutzklage-weber-techlogix.zip` | siehe `testakten/kuendigungsschutzklage-weber-techlogix/` |
@@ -186,30 +218,60 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-lobbyregister-buergerinitiative-waldmoor.zip` | siehe `testakten/lobbyregister-buergerinitiative-waldmoor/` |
 | `testakte-lobbyregister-dublin-bank-frankfurt-branch.zip` | siehe `testakten/lobbyregister-dublin-bank-frankfurt-branch/` |
 | `testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip` | siehe `testakten/lobbyregister-public-affairs-agentur-wasserstoff/` |
+| `testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip` | siehe `testakten/longcovid-erwerbsminderung-feldermann-leipzig/` |
 | `testakte-lumen-studios-insolvenz-strafverfahren.zip` | siehe `testakten/lumen-studios-insolvenz-strafverfahren/` |
+| `testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip` | siehe `testakten/ma-asset-deal-medtech-volkenrath-darmstadt/` |
+| `testakte-mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026.zip` | siehe `testakten/mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026/` |
 | `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip` | siehe `testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/` |
+| `testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip` | siehe `testakten/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein/` |
 | `testakte-meinungspruefer-grenzfaelle-alltag.zip` | siehe `testakten/meinungspruefer-grenzfaelle-alltag/` |
+| `testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip` | siehe `testakten/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie/` |
+| `testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip` | siehe `testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/` |
+| `testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip` | siehe `testakten/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp/` |
 | `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | siehe `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` |
+| `testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft.zip` | siehe `testakten/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft/` |
+| `testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip` | siehe `testakten/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten/` |
+| `testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip` | siehe `testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/` |
+| `testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip` | siehe `testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
+| `testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip` | siehe `testakten/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt/` |
+| `testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach.zip` | siehe `testakten/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach/` |
 | `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip` | siehe `testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/` |
+| `testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip` | siehe `testakten/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub/` |
+| `testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip` | siehe `testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/` |
 | `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip` | siehe `testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/` |
 | `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip` | siehe `testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/` |
 | `testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip` | siehe `testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/` |
 | `testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip` | siehe `testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/` |
+| `testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip` | siehe `testakten/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge/` |
 | `testakte-solis-vision-x-smartglasses.zip` | siehe `testakten/solis-vision-x-smartglasses/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
+| `testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip` | siehe `testakten/starug-schutzschirm-grossbach-druckguss-erfurt/` |
 | `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` | siehe `testakten/strafbefehl-ladendiebstahl-fahrerflucht/` |
+| `testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip` | siehe `testakten/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung/` |
+| `testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip` | siehe `testakten/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann/` |
+| `testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip` | siehe `testakten/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
+| `testakte-urteilsbau-zivilkammer-leipzig-werklohn-radarwarner-relation-mit-beweiswuerdigung-und-urteil.zip` | siehe `testakten/urteilsbau-zivilkammer-leipzig-werklohn-radarwarner-relation-mit-beweiswuerdigung-und-urteil/` |
+| `testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg.zip` | siehe `testakten/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg/` |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
+| `testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof.zip` | siehe `testakten/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof/` |
 | `testakte-verkehrsowi-rotlicht-tempo.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo/` |
+| `testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip` | siehe `testakten/verkehrsunfall-quotenstreit-tannenbruck-a45/` |
 | `testakte-verlagsredaktion-morgenlage-fachverlag.zip` | siehe `testakten/verlagsredaktion-morgenlage-fachverlag/` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | siehe `testakten/vertragsausfueller-bsag-kiosk-huckelriede/` |
 | `testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip` | siehe `testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/` |
 | `testakte-wandeldarlehen-beispielcase.zip` | siehe `testakten/wandeldarlehen-beispielcase/` |
 | `testakte-weg-hausverwaltung-hohenzollernhof.zip` | siehe `testakten/weg-hausverwaltung-hohenzollernhof/` |
+| `testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip` | siehe `testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/` |
+| `testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip` | siehe `testakten/windpark-drittanfechtung-buergerinitiative-uckermark/` |
+| `testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip` | siehe `testakten/wirtschaftsstrafsache-uhaft-bankert-frankfurt/` |
+| `testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip` | siehe `testakten/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken/` |
+| `testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann.zip` | siehe `testakten/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann/` |
 | `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` | siehe `testakten/zwangsverwaltung-friedrichshoefe-berlin/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
 | `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | siehe `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/` |
+| `testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde.zip` | siehe `testakten/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde/` |
 
 ## Manifest-Asset (1 Stück)
 
@@ -221,11 +283,11 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 110 | |
+| plugin | 108 | |
 | fallakte | 63 | |
 | manifest | 1 | |
 | sammelarchiv | 3 | |
-| **gesamt** | | **177** |
+| **gesamt** | | **175** |
 
 ## Verifikation eines Release
 
@@ -234,4 +296,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.1.0` und `latest`: 177 Assets, davon 110 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.2.0` und `latest`: 241 Assets, davon 110 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).

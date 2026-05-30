@@ -142,15 +142,6 @@
       "version": "50.0.0"
     },
     {
-      "name": "dfg-foerderantrag",
-      "source": "./dfg-foerderantrag",
-      "description": "DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, Koselleck-Projekte ab 500.000 Euro, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "51.1.0"
-    },
-    {
       "name": "dsa-dma-digitalregulierung",
       "source": "./dsa-dma-digitalregulierung",
       "description": "Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege.",
@@ -421,15 +412,6 @@
       "version": "50.0.0"
     },
     {
-      "name": "forschungszulage-antragstellung",
-      "source": "./forschungszulage-antragstellung",
-      "description": "Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Krisenlagen, Dokumentation und Einspruch.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "51.1.0"
-    },
-    {
       "name": "fortbestehensprognose",
       "source": "./fortbestehensprognose",
       "description": "Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.",
@@ -511,6 +493,15 @@
       "version": "50.0.0"
     },
     {
+      "name": "weg-hausverwaltung",
+      "source": "./weg-hausverwaltung",
+      "description": "Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "50.0.0"
+    },
+    {
       "name": "insolvenzforderungsanmeldungspruefung",
       "source": "./insolvenzforderungsanmeldungspruefung",
       "description": "Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.",
@@ -554,6 +545,15 @@
         "name": "Klotzkette"
       },
       "version": "50.0.0"
+    },
+    {
+      "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "source": "./word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "description": "Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "50.8.1"
     },
     {
       "name": "jveg-kostenpruefer",
@@ -720,15 +720,6 @@
       "version": "50.0.0"
     },
     {
-      "name": "mittelstand-corporate-ma",
-      "source": "./mittelstand-corporate-ma",
-      "description": "Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "50.0.0"
-    },
-    {
       "name": "nachbarschaftsstreit-pruefer",
       "source": "./nachbarschaftsstreit-pruefer",
       "description": "Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich.",
@@ -736,6 +727,15 @@
         "name": "Klotzkette"
       },
       "version": "50.1.0"
+    },
+    {
+      "name": "mittelstand-corporate-ma",
+      "source": "./mittelstand-corporate-ma",
+      "description": "Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "50.0.0"
     },
     {
       "name": "nda-abgleich",
@@ -839,11 +839,11 @@
     {
       "name": "steuerrecht-anwalt-und-berater",
       "source": "./steuerrecht-anwalt-und-berater",
-      "description": "Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch, Klage FG, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix 2026, Signing/Closing, BWA-/SuSa-/Bilanz-Krisenprüfung.",
+      "description": "Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.",
       "author": {
         "name": "Klotzkette"
       },
-      "version": "51.0.0"
+      "version": "50.0.0"
     },
     {
       "name": "strafbefehl-verteidiger",
@@ -963,24 +963,6 @@
       "version": "50.0.0"
     },
     {
-      "name": "weg-hausverwaltung",
-      "source": "./weg-hausverwaltung",
-      "description": "Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "50.0.0"
-    },
-    {
-      "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
-      "source": "./word-legal-ai-plugin-and-skill-for-german-lawyers",
-      "description": "Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "50.8.1"
-    },
-    {
       "name": "zitierweise-deutsches-recht",
       "source": "./zitierweise-deutsches-recht",
       "description": "Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.",
@@ -1008,5 +990,5 @@
       "version": "50.0.0"
     }
   ],
-  "version": "51.1.0"
+  "version": "51.2.0"
 }

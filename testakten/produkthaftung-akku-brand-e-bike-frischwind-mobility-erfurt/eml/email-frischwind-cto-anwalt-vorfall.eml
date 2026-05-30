@@ -1,0 +1,37 @@
+From: Dr. Ilse Pohlmann-Wittfeldt <i.pohlmann-wittfeldt@frischwind-mobility.de>
+To: RA Markus Roosendaal <m.roosendaal@roosendaal-rechtsanwaelte.de>
+Cc: Sven Frischwind <s.frischwind@frischwind-mobility.de>
+Subject: VERTRAULICH - Interner Vorfall-Report BMS-Bug / Handlungsbedarf
+Date: Wed, 18 Jan 2026 09:14:32 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Message-ID: <20260118091432.fw2026.01@frischwind-mobility.de>
+
+Sehr geehrter Herr Roosendaal,
+
+ich wende mich direkt an Sie, da die Situation aus meiner Sicht jetzt eskaliert ist.
+
+Zum Hintergrund: Unsere interne Qualitätsabteilung (Herr Gäbler) hat mir am 15. Dezember 2025 ein internes Memo übergeben, das einen kritischen Bug in der BMS-Firmware V3.9.1 beschreibt. Der Bug betrifft den Temperatur-Interrupt-Handler; bei Umgebungstemperaturen über ca. 38 °C und einem Ladestrom von mehr als 3 A wird der Überladeschutz faktisch deaktiviert.
+
+Ich habe dieses Memo zunächst intern als dringend eingestuft und eine Taskforce gebildet, aber ich muss jetzt eingestehen, dass wir zu langsam reagiert haben. Wir haben nach dem ersten Brandvorfall im März 2025 (Köpenick) leider keine unmittelbaren Rückrufmaßnahmen ergriffen, weil wir den Vorfall als Einzelfall bewertet hatten.
+
+Jetzt liegt uns die Anzeige der Staatsanwaltschaft Erfurt vor (188 Js 4711/26). Ich brauche dringend Ihre Einschätzung:
+
+1. Welche Handlungspflichten treffen mich persönlich als CTO?
+2. Müssen wir sofort einen Rückruf einleiten?
+3. Was muss gegenüber der BNetzA (AZ MFS-2026-RAPEX-1188) unternommen werden?
+4. Soll ich mich gegenüber der Staatsanwaltschaft zur Sache einlassen?
+
+Ich stehe für einen Videocall sofort zur Verfügung.
+
+Mit freundlichen Grüßen
+
+Dr. Ilse Pohlmann-Wittfeldt
+Chief Technology Officer
+Frischwind Mobility GmbH
+Gothaer Str. 18, 99094 Erfurt
+Tel.: +49 361 4477 150
+i.pohlmann-wittfeldt@frischwind-mobility.de
+
+VERTRAULICH — Anwaltskommunikation — Nicht weiterzuleiten

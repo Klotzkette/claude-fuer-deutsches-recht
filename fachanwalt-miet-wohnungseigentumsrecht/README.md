@@ -1,5 +1,19 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt** (`eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt`) | [Gesamt-PDF lesen](../testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraum- und Gewerberaummiete. Mieterhöhung §§ 558 ff. BGB. Kündigung §§ 543, 569, 573 BGB. WEG-Beschlussanfechtung § 44 WEG. Betriebskostenverordnung BetrKV. Schnittstellen `kanzlei-allgemein`.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

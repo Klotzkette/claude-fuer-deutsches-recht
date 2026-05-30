@@ -1,0 +1,116 @@
+From: dsa-audit@pwc.de
+To: legal@koernerstrom-social.de; y.erbakan@koernerstrom-social.de
+CC: p.groth-steinberg@klotzkette.de
+Date: Fri, 08 May 2026 16:10:00 +0200
+Subject: DSA-Erstaudit Halmweise.de - Auftragsbestaetigung und Auditplan - Art. 37 DSA
+Message-ID: <20260508161000.PwC-DSA-AUDIT-HALMWEISE-001@pwc.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+PwC Deutschland GmbH Wirtschaftspruefungsgesellschaft
+DSA Audit Services
+Friedrich-Ebert-Anlage 35-37
+60327 Frankfurt am Main
+dsa-audit@pwc.de
+
+08. Mai 2026
+
+An die Geschaeftsfuehrung der Koernerstrom Social GmbH
+Dr. Yilmaz Erbakan
+Lena Maassen (Legal Counsel)
+Torstrasse 177
+10115 Berlin
+
+Betreff: DSA-Erstaudit Halmweise.de gemaess Art. 37 Verordnung (EU) 2022/2065 (DSA)
+         Auftragsbestaetigung, Auditplan und Unterlagennanforderung
+
+Sehr geehrter Herr Dr. Erbakan,
+sehr geehrte Frau Maassen,
+
+wir bedanken uns fuer die Erteilung des Auftrags zur Durchfuehrung des DSA-Erstaudits
+fuer die Plattform Halmweise.de gemaess Art. 37 DSA. Wie in unserem Angebot vom
+08. April 2026 dargelegt, bestaetigen wir die Beauftragung zu folgenden Konditionen:
+
+I. Auftragsumfang
+
+Unser Auditteam besteht aus drei erfahrenen Pruefern mit spezifischen Kenntnissen
+in den Bereichen DSA-Compliance, Algorithmic Auditing und Trust & Safety-Prozessen:
+
+- Dr. Fatou Senghor-Richter (Auditlnerin, DSA-Recht und Plattformregulierung)
+- Tobias Kramer (IT-Audit, Algorithmik und Empfehlungssysteme)
+- Nele van Aken (Trust & Safety Prozessaudit und Notice-and-Action)
+
+Der Auditumfang gemaess Art. 37 Abs. 1 DSA umfasst:
+1. Compliance-Pruefung allgemeine DSA-Pflichten (Art. 11-27 DSA)
+2. Bewertung der systemischen Risikobewertung (Art. 34 DSA)
+3. Pruefung der Risikominderungsmassnahmen (Art. 35 DSA)
+4. Pruefung Notice-and-Action-Workflow (Art. 16 DSA)
+5. Pruefung Empfehlungssystem HalmRank incl. Non-Profiling-Option (Art. 27 DSA)
+6. Pruefung Werbeanzeigen-Repository (Art. 39 DSA)
+7. Pruefung Trusted-Flagger-Engagement (Art. 22 DSA)
+8. Pruefung Forschungsdatenzugang (Art. 40 DSA)
+9. Pruefung Transparenzbericht (Art. 42 DSA)
+
+II. Zeitplan
+
+Auftaktgesprach (Kick-off):         Donnerstag, 28. Mai 2026, 10:00 Uhr (vor Ort Berlin)
+Unterlagenprufung (remote):          02. Juni bis 20. Juni 2026
+Vor-Ort-Pruefungstage (Berlin):      23., 24. und 25. Juni 2026
+Auditbericht Entwurf:                10. Juli 2026
+Stellungnahme Koernerstrom (5 Tage): bis 15. Juli 2026
+Finaler Auditbericht:                20. Juli 2026
+
+III. Benoetigte Unterlagen
+
+Fuer die Unterlagenpruefung bitten wir Sie, bis spaetestens 28. Mai 2026 folgende
+Dokumente in unserem gesicherten Datenraum bereitzustellen:
+
+a) Dokumentation HalmRank-Algorithmus (Hauptparameter, Gewichtungen, kein Quellcode)
+b) Notice-and-Action-Statistiken: Oktober 2025 bis April 2026 (nach Inhaltskategorie,
+   Bearbeitungszeiten, Ergebnisse)
+c) Systemische Risikobewertung nach Art. 34 DSA (aktuellste Version)
+d) Risikominderungsplan nach Art. 35 DSA
+e) Werbeanzeigen-Repository (Lesezugang oder vollstaendiger Export)
+f) Trusted-Flagger-Kooperationsvertrag Deutsche Hass-Stopp e.V.
+g) Datenzugangsvereinbarung Prof. Dr. Mueeller-Kaminski (sobald abgeschlossen)
+h) Interne Trust & Safety-Richtlinien und Entscheidungshandbucher
+i) Transparenzbericht 2025 (Art. 15 DSA)
+j) DSGVO-Dokumentation: Datenschutz-Folgenabschaetzungen zu HalmRank und Werbetargeting
+
+IV. Unabhaengigkeitserklarung
+
+Wir bestaetigen, dass PwC Deutschland GmbH WPG im vergangenen Jahr keine nicht
+pruefungsbezogenen Dienstleistungen fuer die Koernerstrom Social GmbH erbracht hat
+und daher die Unabhaengigkeitsanforderungen des Art. 37 Abs. 3 DSA erfuellt.
+
+V. Vertraulichkeit und Berichtswesen
+
+Der Auditbericht wird Ihnen und — gemaess Art. 37 Abs. 4 DSA — der Europaeischen
+Kommission und der Bundesnetzagentur uebermittelt. Eine nicht vertrauliche Zusammenfassung
+wird nach Art. 42 Abs. 4 DSA veroeffentlicht. Wir empfehlen, vorab zu klaeren, welche
+Teile des Berichts als vertraulich gekennzeichnet werden sollen.
+
+VI. Verguetung
+
+Gemaess Angebot vom 08. April 2026: 380.000 EUR netto (zzgl. USt.), zahlbar in zwei
+Raten (50 % bei Auftragserteilung, 50 % nach Vorlage des finalen Berichts).
+
+Fuer Rueckfragen stehe ich Ihnen jederzeit zur Verfuegung.
+
+Mit freundlichen Gruessen
+
+Dr. Fatou Senghor-Richter
+Leitende Prueferin, DSA Audit Services
+PwC Deutschland GmbH Wirtschaftspruefungsgesellschaft
+
+Telefon: +49 69 9585-6789
+E-Mail: fatou.senghor-richter@pwc.de
+
+---
+PwC Deutschland GmbH Wirtschaftspruefungsgesellschaft
+Friedrich-Ebert-Anlage 35-37 | 60327 Frankfurt am Main
+www.pwc.de
+
+Rechtsgrundlage: Art. 37 DSA (EU) 2022/2065, EUR-Lex:
+https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065

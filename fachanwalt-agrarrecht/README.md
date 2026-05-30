@@ -1,5 +1,19 @@
 # Fachanwalt Agrarrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Ökolandbau-Förderrückforderung / Hofgemeinschaft Driessen — Niederrhein** (`oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein`) | [Gesamt-PDF lesen](../testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

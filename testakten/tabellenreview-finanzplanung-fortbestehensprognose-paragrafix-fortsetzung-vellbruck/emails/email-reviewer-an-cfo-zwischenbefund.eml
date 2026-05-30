@@ -1,0 +1,49 @@
+From: h.wittfeldt-steinheim@tabellenreview-wf.de
+To: annegret.pellbach-roosendaal@paragrafix.de
+Cc: c.vellbruck-steinheim@paragrafix.de; k.federkamp@tabellenreview-wf.de
+Subject: RE: Beauftragung Tabellenreview — Zwischenbefund (vertraulich) — AZ TR-WF-2026-PFX-0712
+Date: Tue, 13 Jan 2026 17:52:08 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Sehr geehrte Frau Pellbach-Roosendaal,
+sehr geehrter Herr Dr. Vellbruck-Steinheim,
+
+ich uebermittle Ihnen hiermit den vereinbarten muendlichen Zwischenbefund in schriftlicher Kurzform (vertraulich).
+
+Der Zwischenbefund ersetzt nicht den finalen Reviewbericht, dient aber Ihrer internen Vorbereitung auf den Review-Workshop morgen.
+
+ZWISCHENBEFUND (Stand: 13.01.2026, 17:45 Uhr)
+
+Wir haben das Modell v23 auf allen 18 Arbeitsblaettern analysiert. Bisher identifiziert:
+
+KRITISCHE BEFUNDE:
+1. Zirkulaerer Bezug zwischen PLAN-CF!E14 und ZINS-SCHULDEN!D9. Das Modell haengt von aktivierter Iterationsrechnung ab. Bei Deaktivierung: Zinsaufwand springt auf 0 EUR. Auswirkung: Liquiditaetsergebnis ca. 186 TEUR zu hoch.
+
+2. Zinssatz Kontokorrent in ZINS-SCHULDEN!C5: In Version v23 von 6,2% (v22, marktkonform) auf 4,9% (v23, hardcoded) reduziert. Formelbezug zu PARAM geloest. Keine Dokumentation. Kein Quellenbeleg. Marktlage Januar 2026: 6,0-7,5% fuer erhoehtes Kreditrisiko. Auswirkung: Zinslast um ca. 186 TEUR zu niedrig.
+
+3. Fehlendes Stressszenario. Das Blatt SZENARIEN enthaelt ausschliesslich das Basisszenario. IDW S 11 Tz. 43 ff. verlangt zwingend ein adverses Szenario.
+
+4. IDW-S-11-Konformitaet: 7 von 10 Kernkriterien bisher nicht erfuellt.
+
+WEITERE BEFUNDE (noch nicht vollstaendig quantifiziert):
+- 47 Hardcoded-Werte in Rechenblaettern (Pruefschwerpunkt morgen)
+- Fehlerhafte SUM-Formel Bilanzsumme (Bilanz unausgeglichen)
+- Doppelte Buchung Pensionsrueckstellung
+- Zwei versteckte Sheets (sehr versteckt, xlSheetVeryHidden) mit aktiven Bezuegen
+- VBA-Modul mit Prozedur UpdateSollwerte — laeuft bei Dateioefffnen und ueberschreibt Planwerte
+
+Ich bitte Sie eindringlich, diese Befunde nicht zu bagatellisieren. Die Kombination aus undokumentierter Zinssatzsenkung und VBA-Makro begrendet einen Befund, den ich im Rahmen meiner Berufspflichten nicht unbewertet lassen kann.
+
+Ich bitte GF Dr. Vellbruck-Steinheim, morgen zum Review-Workshop anwesend zu sein. Wir werden die Befunde gemeinsam mit WP Dr. Birkholz besprechen.
+
+Mit freundlichen Grussen
+
+Dr. Henrike Wittfeldt-Steinheim
+Wirtschaftsprueferin | Rechtsanwaeltin
+TabellenReview Wittfeldt Federkamp PartG
+Taubenstr. 12 | 10117 Berlin
+Tel: +49 30 8841 2200
+h.wittfeldt-steinheim@tabellenreview-wf.de
+
+[VERTRAULICH — nur fuer die benannten Adressaten bestimmt]

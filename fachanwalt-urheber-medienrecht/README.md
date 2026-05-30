@@ -1,5 +1,19 @@
 # Fachanwalt Urheber Medienrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **KI-Training TDM Fotografin Windgassen Hamburg** (`ki-training-tdm-fotografin-windgassen-hamburg`) | [Gesamt-PDF lesen](../testakten/ki-training-tdm-fotografin-windgassen-hamburg/gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Urheber- und Medienrecht. Orientierung UrhG VGG Verwertungsgesellschaften KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. EU-Bezug InfoSoc-RL DSM-RL. Schnittstellen gewerblicher-rechtsschutz und verlagsredaktion.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

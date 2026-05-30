@@ -1,5 +1,19 @@
 # Plugin: Gewerblicher Rechtsschutz
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1** (`patent-verletzung-implantat-titan-vellbruck-stuttgart`) | [Gesamt-PDF lesen](../testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/gesamt-pdf/patent-verletzung-implantat-titan-vellbruck-stuttgart_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Gewerblicher Rechtsschutz und Urheberrecht für die deutsche und europäische Rechtspraxis: Markenrecht (MarkenG, UMV), Designrecht (DesignG, GGV), Patentrecht (PatG, GebrMG, EPÜ), Urheberrecht (UrhG), Wettbewerbsrecht (UWG), Geschäftsgeheimnisschutz (GeschGehG) sowie Open-Source-Compliance. Das Plugin erstellt und triagiert Abmahnungen, führt Marken- und FTO-Recherchen durch, überprüft IP-Klauseln in Verträgen, verwaltet Schutzrechtsfristen und prüft Open-Source-Lizenzen auf Pflichten und Kompatibilität. Grundlage ist ein Kanzleiprofil, das beim Erststart durch ein Interview befüllt wird – das Plugin lernt Ihre Durchsetzungsstrategie, Ihr Portfolio und Ihre Genehmigungsmatrix, nicht eine generische Vorlage.
 
 **Jedes Ergebnis ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und gesperrt – keine Rechtsauskunft.** Das Plugin übernimmt die Arbeit: Dokumente lesen, Prüfschema anwenden, Probleme identifizieren, Memo entworten. Ein Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Quelle gekennzeichnet. Privilegierungsvermerke werden konservativ gesetzt, damit keine Mandatsgeheimnisverletzung riskiert wird. Folgenreiche Handlungen – Abmahnungen versenden, Anmeldungen einreichen – sind durch explizite Freigabe gesperrt.

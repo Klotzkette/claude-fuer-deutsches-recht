@@ -1,0 +1,72 @@
+From: h.vellbruck-steinheim@vellbruck-partner.de
+To: m.albrecht-haag@medassist-ai.de
+CC: m.roosendaal@vellbruck-partner.de, a.krishnamurthy@medassist-ai.de
+Date: Thu, 05 Mar 2026 09:14:22 +0100
+Subject: Kanzlei 2026-V-0427 / MedAssist v4 — Prüfumfang und benötigte Unterlagen
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Message-ID: <20260305091422.VA2026-V0427@vellbruck-partner.de>
+
+Sehr geehrter Herr Albrecht-Haag,
+
+besten Dank für das konstruktive Erstgespräch am 03.03.2026. Ich nehme das Mandat
+hiermit formal auf; die unterschriebene Vollmacht liegt bereits vor (Az. 2026-V-0427).
+
+Um die Konformitätsprüfung von MedAssist v4 nach der KI-VO (EU) 2024/1689 zügig
+aufnehmen zu können, benötige ich bis spätestens 10.03.2026 die folgenden Unterlagen
+in digitaler Form (bevorzugt PDF/DOCX/XLSX; bitte via gesichertem Dateiupload-Link):
+
+TECHNISCHE DOKUMENTATION
+1. Technisches Dossier MedAssist v4 (aktuelle Version, Stand 2025/2026)
+2. Architekturdiagramm NLU-Modul und Dispositionsmodul (inkl. Datenfluss)
+3. Trainingsdaten-Dokumentation: Herkunft, Umfang, Lizenz aller verwendeten Datensätze
+4. Interner Testbericht (MA-EVAL-2024-03 o.ä.) — alle Accuracy- und Robustheitsdaten
+5. Incident-Log 2025 (vollständig, alle gemeldeten Anomalien)
+6. Benutzerhandbuch aktuelle Version
+
+RISIKOMANAGEMENT UND GOVERNANCE
+7. Risikoanalyse / FMEA (alle vorhandenen Fassungen)
+8. ISO 27001-Zertifikat (ggf. mit Ablaufdatum)
+9. ISO 9001-Zertifikat
+10. Auftragsverarbeitungsverträge mit den 18 Krankenhäusern (Muster genügt)
+
+BEHÖRDENKORRESPONDENZ
+11. Vollständige Korrespondenz BNetzA (Az. 1-101.05-2026/MA-008)
+12. BfDI-Schreiben vom 15.02.2026 (Az. 13-3120/004#0117)
+13. BfArM-Bescheid vom 12.01.2026 (Az. MED-AI-2026-0319)
+14. TÜV-SÜD-NB-Zertifikat MDR (NB 0123, ausgestellt Nov. 2025)
+
+LLAMA-KOMPONENTE
+15. Fine-Tuning-Dokumentation für MedAssist-LLM-Core v4 (Trainingsparameter,
+    Datensatz, verwendete Llama-Version)
+16. Kopie der Llama-RAIL-Lizenz und Acceptable Use Policy
+
+Für die Unterlagen gilt die anwaltliche Verschwiegenheitspflicht nach § 43a BRAO.
+Soweit Unterlagen als "streng vertraulich" gekennzeichnet sind, bitte ich um einen
+entsprechenden Hinweis; wir werden diese gesondert behandeln.
+
+Bitte bestätigen Sie den Eingang dieser E-Mail und teilen Sie mir mit, welche Unterlagen
+bis wann vorliegen werden. Falls einzelne Dokumente noch nicht existieren, bitte ich
+um explizite Mitteilung — dies ist für die Prüfung ebenfalls wichtige Information.
+
+Die Prüfungsfrist 02.08.2026 lässt keinen Spielraum. Jede Verzögerung bei der
+Unterlagenlieferung verschiebt den kritischen Pfad und gefährdet die fristgerechte
+Konformität.
+
+Mit freundlichen kollegialen Grüßen
+
+RAin Dr. Henrietta Vellbruck-Steinheim
+Fachanwältin für IT-Recht | Datenschutzrecht
+Vellbruck & Partner mbB
+Erbprinzenstraße 14 | 69117 Heidelberg
+Tel.: 06221 / 84 90-100
+Fax: 06221 / 84 90-199
+E-Mail: h.vellbruck-steinheim@vellbruck-partner.de
+
+Vellbruck & Partner mbB
+Partnerschaftsregister AG Heidelberg PR 714
+Berufshaftpflichtversicherung: R+V Allgemeine Versicherung AG, Wiesbaden
+
+[Diese E-Mail und ihre Anhänge sind vertraulich und ausschließlich für den bezeichneten
+Empfänger bestimmt. Weiterleitung oder Kopie ohne ausdrückliche Genehmigung ist untersagt.]

@@ -1,0 +1,94 @@
+From: dr.specht@specht-beckenbauer-drosselberg.de
+To: poststelle@ldi.nrw.de
+CC: dsb@vermietercheck.de, m.beckenbauer@specht-beckenbauer-drosselberg.de
+Subject: AZ DSB-NW-44/26 - Nachholung Datenpannenmeldung gemaess Art. 33 DSGVO - VermieterCheck Solutions GmbH
+Date: Mon, 10 Feb 2026 09:15:00 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <20260210091500.SBD001@specht-beckenbauer-drosselberg.de>
+
+Landesbeauftragte fuer Datenschutz und Informationsfreiheit NRW (LDI NRW)
+z.H. Sachbearbeitung Aufsichtsverfahren DSB-NW-44/26
+Kavalleriestrasse 2-4
+40213 Duesseldorf
+
+Sehr geehrte Damen und Herren,
+
+wir sind als Bevollmaechtigte der VermieterCheck Solutions GmbH (Ruhrallee 188, 45136 Essen, GF
+Karl-Heinz Schimmelpfennig-Drosthager) mandatiert und nehmen Bezug auf das laufende
+Aufsichtsverfahren DSB-NW-44/26.
+
+NACHHOLUNG DATENPANNENMELDUNG GEMAeSS ART. 33 ABS. 1 DSGVO
+
+Wir zeigen hiermit pflichtgemaess die nachfolgende Datenschutzverletzung an und begruenden
+die Verspaetung der Meldung gemaess Art. 33 Abs. 1 Satz 2 DSGVO.
+
+1. DATENPANNENBESCHREIBUNG (Art. 33 Abs. 3 DSGVO)
+
+a) Art der Datenschutzverletzung:
+   SQL-Injection-basierte unbefugte Exfiltration personenbezogener Daten durch einen
+   externen Akteur. Die Schwachstelle CVE-2026-0188 (CVSS v3.1: 9.8) im REST-API-Endpoint
+   /api/v3/prospect/search des Backends von ProspectScore Pro (Version 3.0.4) ermoeglichte
+   eine ungeprueft parametrisierte Datenbankabfrage.
+
+b) Datenkategorien und Datensaetze:
+   - Betroffene Datensaetze: 142.300 Mietinteressenten-Profile
+   - Kategorien: Name, Adresse, E-Mail, Schufa-Score, Negativmerkmale, Beruf,
+     Einkommen (Selbstauskunft), Familienstatus, ProspectScore (0-100)
+   - Sensitivitaet: Hoch (Bonitaetsdaten, finanzielle Informationen)
+
+c) Betroffene Personengruppen:
+   Mietinteressenten, die in der Zeit von Maerz 2023 bis November 2025 ueber die
+   VermieterCheck-Plattform gescreent wurden.
+
+d) Ungefaehre Anzahl betroffener Personen: 142.300
+
+e) Wahrscheinliche Folgen:
+   Identitaetsdiebstahl, Phishing-Angriffe unter Verwendung echter Bonitaetsdaten,
+   Kreditschaeden durch Missbrauch der Negativmerkmale, psychische Belastung der Betroffenen
+   durch Kontrollverlust ueber Finanzdaten.
+
+f) Ergriffene Massnahmen:
+   - Patch CVE-2026-0188 eingespielt am 24.11.2025 (DevOps-Team)
+   - API-Endpoint vorlaeufig deaktiviert
+   - Beauftragung forensische Analyse: SecureProof GmbH, Bochum (Bericht Nr. SP-2025-4417)
+   - Betroffenenbenachrichtigung gemaess Art. 34 DSGVO: Versand 15.02.2026
+   - Datenbankzugang eingeschraenkt (MFA fuer alle Zugangskonten ab 07.02.2026)
+
+g) Name und Kontaktdaten des Datenschutzbeauftragten:
+   Hannelore Kessler-Brandt, DSB VermieterCheck Solutions GmbH
+   dsb@vermietercheck.de | Tel. 0201/498820-15
+
+2. BEGRUENDUNG DER VERSPaeTUNG
+
+Die 72-Stunden-Frist des Art. 33 Abs. 1 DSGVO begann mit Kenntniserlangung am 24.11.2025
+(Eingang GuardDuty-Alert beim DevOps-Leiter, Weiterleitung an GF am selben Tag).
+
+Die Unterlassung der fristgemaessen Meldung resultiert aus einem internen Kommunikationsversagen:
+Der GF wurde zwar informiert, traf jedoch keine Anordnung zur Meldung an die LDI NRW. Der
+Datenschutzbeauftragte wurde nicht eingeschaltet. Dies stellt ein ernstes Organisationsversagen
+dar, das die Mandantin bedauert und das Gegenstand interner Massnahmen ist.
+
+Mit der Mandatsuebername durch unsere Kanzlei am 14.01.2026 wurde die Nachholung der Meldung
+unverzueglich eingeleitet.
+
+3. BEIGEFUEGTE ANLAGEN
+
+- Penetrationstest-Bericht SecureProof GmbH (Auszug, redacted) SP-2025-4417
+- AWS GuardDuty-Alert-Protokoll (anonymisiert)
+- Forensik-Timeline CVE-2026-0188
+- Entwurf Betroffenenbenachrichtigung Art. 34 DSGVO
+
+Wir stehen fuer Rueckfragen und eine muendliche Erlaeuterung jederzeit zur Verfuegung.
+
+Mit freundlichen Gruessen
+
+Dr. Cornelius Specht
+Rechtsanwalt | Fachanwalt fuer Datenschutzrecht
+Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH
+Koenigsallee 92c | 40212 Duesseldorf
+Tel. 0211/49320-10 | Fax 0211/49320-99
+dr.specht@specht-beckenbauer-drosselberg.de
+
+Quellen: DSGVO Art. 33 - https://dejure.org/gesetze/DSGVO | EDSA-Leitlinien 01/2021 (Datenpannenmeldung) - https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-personal-data-breach_de

@@ -1,5 +1,19 @@
 # Fachanwalt Migrationsrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Familie Amiri-Hosseini — Asylfolge, Dublin IV, Flüchtlingsanerkennung** (`familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung`) | [Gesamt-PDF lesen](../testakten/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung/gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Migrationsrecht. Orientierung AufenthG AsylG GFK Dublin-VO EU-Verfahrensrichtlinie Qualifikations-RL StAG Einbürgerung Aufenthaltsverfestigung Familiennachzug. Notfrist § 36 AsylG (eine Woche).
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

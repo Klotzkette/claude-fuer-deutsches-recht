@@ -1,0 +1,56 @@
+From: l.drosten@drosten-pekonkur.de
+To: schaden-cyber@cybercovered.de
+Cc: t.wallbruck@frischetrans-mittelrhein.de, makler@finanzbuero-riedel.de
+Date: Wed, 07 May 2026 14:30:00 +0200
+Subject: =?UTF-8?B?U2NoYWRlbnNtZWxkdW5nIC0gQ3liZXItUG9saWNlIENDLTIwMjQtRlRNLTg4MDEgLSBSYW5zb213YXJlLUFuZ3JpZmYgRnJpc2NoZXRyYW5zIE1pdHRlbHJoZWluIEdtYkg=?=
+Message-ID: <20260507143000.drosten.cybercovered@drosten-pekonkur.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Mailer: Kanzlei-Mail-System Drosten & Pekonkur
+X-Priority: 1 (Highest)
+Importance: High
+
+Sehr geehrte Damen und Herren,
+
+im Auftrag unserer Mandantin Frischetrans Mittelrhein GmbH melde ich hiermit unverzüglich einen Versicherungsschaden gemäß Police Nr. CC-2024-FTM-8801.
+
+VERSICHERUNGSNEHMERIN:
+Frischetrans Mittelrhein GmbH
+Binger Straße 142, 55131 Mainz
+Geschäftsführerin: Theresia Wallbruck
+Policennummer: CC-2024-FTM-8801
+
+SCHADENEREIGNIS:
+Art: Ransomware-Angriff (AkiraNext)
+Entdeckungszeitpunkt: 06.05.2026, 04:17 Uhr (SOC InsoTec Systems GmbH)
+Kenntnisnahme Versicherungsnehmerin: 06.05.2026, 04:52 Uhr
+
+BETROFFENE SYSTEME:
+- SAP S/4HANA ERP (vollständig verschlüsselt)
+- Fileserver (3 Systeme)
+- Telematik-Gateway (GPS/Temperatur-Tracking)
+
+DATENABFLUSS: ca. 2,1 TB (Kunden- und Mitarbeiterdaten)
+
+VORLÄUFIGE SCHADENSPOSITIONEN:
+- IT-Wiederherstellung: ca. 200.000-270.000 EUR
+- Betriebsunterbrechung: ca. 350.000-500.000 EUR
+- Forensik: ca. 45.000-65.000 EUR
+- Rechtskosten: ca. 80.000-120.000 EUR
+Gesamt (vorläufig): ca. 675.000-955.000 EUR
+
+LÖSEGELD: Kein Lösegeld wurde gezahlt oder ist geplant.
+
+Ich bitte um:
+1. Bestätigung des Schadenseingangs und Vergabe einer Schadensnummer
+2. Benennung des zuständigen Schadenmanagers / der zuständigen Schadenmanagerin
+3. Freigabe der Beauftragung: CyberForensik RheinMain GmbH (bereits informiert)
+
+Für Rückfragen stehe ich jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+
+RA Lukas Drosten
+Kanzlei Drosten & Pekonkur, Mainz
+Tel.: +49 6131 2240-0 (auch außerhalb der Geschäftszeiten erreichbar)

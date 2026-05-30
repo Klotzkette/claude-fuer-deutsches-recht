@@ -1,0 +1,80 @@
+From: helpdesk@xjustiz.de
+To: fleischer@soehnchen-partner.de
+CC: dr.soehnchen@soehnchen-partner.de
+Date: Sat, 18 Apr 2026 11:05:42 +0100
+Subject: AW: XJustiz 3.3.1 — Hash-Abweichungen bei PDF/A-Konvertierung durch RA-Micro 2025.3
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Message-ID: <20260418110542.helpdesk.xjustiz@xjustiz.de>
+References: <20260415143022.fleischer.xjustiz@soehnchen-partner.de>
+
+Sehr geehrter Herr Fleischer,
+
+vielen Dank für Ihre Anfrage vom 15.04.2026 zu den Hash-Abweichungen bei der
+beA-Übertragung. Wir haben Ihren Bericht an unsere technische Abteilung
+weitergeleitet und können folgendes mitteilen:
+
+1. BESTÄTIGTER FEHLER IN RA-MICRO 2025.3
+
+Der von Ihnen beschriebene Sachverhalt — SHA-256-Hashes weichen ab, weil
+RA-Micro die Hash-Berechnung VOR der PDF/A-Konvertierung durchführt, obwohl
+die Konvertierung Metadaten in die PDF einbettet und damit den Hash verändert —
+ist uns bekannt. Dieser Fehler ist in unserem Bug-Tracker unter Ticket
+XJUSTIZ-2026-0234 dokumentiert.
+
+Der Fehler betrifft ausschließlich RA-Micro-Versionen 2025.2 und 2025.3 in
+Verbindung mit dem XJustiz-Standard Version 3.3.1. In RA-Micro 2025.1 und
+älter trat dieser Fehler nicht auf, weil die damalige Hash-Berechnung nach
+der Konvertierung erfolgte.
+
+2. PATCH VERFÜGBAR
+
+RA-Micro hat mit Version 2025.3.1 (Releasedatum: 02.04.2026) einen Patch
+veröffentlicht, der die Hash-Berechnung korrekt nach der PDF/A-Konvertierung
+durchführt. Wir empfehlen dringend, diesen Patch umgehend einzuspielen.
+
+Download: https://www.ra-micro.de/update/2025-3-1/
+Releasehinweis: https://www.ra-micro.de/blog/2025-3-1-xjustiz-patch/
+
+3. RECHTLICHE WIRKUNG DER HASH-ABWEICHUNGEN
+
+Zur Ihrer Anfrage, ob die Hash-Abweichungen die rechtliche Wirksamkeit der
+beA-Übertragungen berühren:
+
+Nach § 130a Abs. 5 ZPO ist ein elektronisches Dokument eingegangen, sobald
+es auf dem Empfängersystem gespeichert ist. Hash-Prüfsummen sind ein
+Integritätsmechanismus, kein Wirksamkeitsmerkmal. Das bedeutet: Abweichende
+Hashes begründen keine Unwirksamkeit der Einreichung.
+
+Gleichwohl empfehlen wir aus Gründen der Rechtssicherheit:
+a) Die fehlerhaften Einreichungen durch korrekte Versionen (mit übereinstimmenden
+   Hashes) nachzureichen — sofern noch nicht geschehen.
+b) In der Kanzleiakte zu dokumentieren, wann und warum die Hashes abgewichen sind
+   (technische Ursache, keine inhaltliche Änderung der Dokumente).
+
+4. EMPFEHLUNGEN FÜR DEN ZUKÜNFTIGEN BETRIEB
+
+Standardisierter Workflow nach dem Patch:
+- PDF/A-Konvertierung aller Dokumente
+- SHA-256-Berechnung ERST nach Konvertierung (Patch stellt dies sicher)
+- Hash-Protokollierung vor Upload
+- Testupload nach jedem Software-Update über das beA-Testsystem
+
+5. WEITERES
+
+Für Rückfragen stehen wir gerne zur Verfügung. Bitte geben Sie bei Anfragen
+immer die RA-Micro-Version, das Betriebssystem und den XJustiz-Verfahrensstand
+(aktuell: Version 3.3.1) an.
+
+Mit freundlichen Grüßen
+
+Tobias Wernheim
+XJustiz-Koordinierungsstelle
+c/o Bundesamt für Justiz
+Adenauerallee 99-103
+53113 Bonn
+helpdesk@xjustiz.de
+https://www.xjustiz.de/
+Tel.: 0228 / 99 410-7788
+
+Diese Mitteilung ist eine technische Auskunft und stellt keine Rechtsberatung dar.

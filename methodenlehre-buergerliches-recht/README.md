@@ -1,5 +1,19 @@
 # Methodenlehre bürgerliches Recht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)** (`methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim`) | [Gesamt-PDF lesen](../testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Deutsche juristische Methodenlehre und Falllösung aus anwaltlicher Perspektive. Gutachtenstil mit Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge — pragmatische Gewichtung wie in der BGH-Praxis. Generalklauseln und Rechtsfortbildung als reale Werkzeuge. Anwaltliche Strategie statt richterliche Selbstbindung.
 
 Für konkrete Prüfungen im BGB Allgemeiner Teil kann `bgb-at-pruefer` hinzugeladen werden; dieses Plugin bleibt die methodische Grundierung, der BGB-AT-Prüfer übernimmt dann Vertragsschluss, Zugang, Anfechtung, Stellvertretung, Geschäftsfähigkeit, Form, Fristen und Verjährung.

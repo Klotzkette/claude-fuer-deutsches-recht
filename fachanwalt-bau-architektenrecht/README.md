@@ -1,5 +1,19 @@
 # Fachanwalt Bau Architektenrecht
 
+
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Baurecht — Werkmangel & kontaminierter Baugrund, Saalbau Wendelstein gGmbH / Bauer-Hoch GmbH & Co. KG** (`werkmangel-kontaminierter-baugrund-saalbau-rosenheim`) | [Gesamt-PDF lesen](../testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
+
 Plugin Fachanwalt für Bau- und Architektenrecht. Orientierung BGB Werkvertragsrecht §§ 650a ff. Bauvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht der Länder. Schnittstellen Vergaberecht und Verwaltungsrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)

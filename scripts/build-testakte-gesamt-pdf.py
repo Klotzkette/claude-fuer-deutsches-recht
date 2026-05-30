@@ -401,7 +401,11 @@ def _render_table(rows: list, header: bool = False) -> list:
     sequentielle Absatzdarstellung zurueck (Reihe fuer Reihe), damit ReportLab
     keine Overflow-Fehler wirft."""
     max_cell_len = max((len(c) for r in rows for c in r), default=0)
-    if max_cell_len > _MAX_CELL_CHARS:
+    max_cols_in_table = max((len(r) for r in rows), default=0)
+    # Bei sehr breiten Tabellen (>12 Spalten) faellt es sequentiell zurueck,
+    # weil die Spaltenbreite sonst kleiner ist als die kleinste Wortbreite
+    # und ReportLab Cell-Overflow-Fehler wirft.
+    if max_cell_len > _MAX_CELL_CHARS or max_cols_in_table > 12:
         out = []
         header_row = rows[0] if header else None
         body_rows = rows[1:] if header else rows

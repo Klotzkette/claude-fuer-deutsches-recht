@@ -1,0 +1,59 @@
+From: welcome@cryptofuturemax.io
+To: e.wittfeldt@t-online.de
+Subject: Willkommen bei CryptoFutureMax - Ihr Trading-Account ist aktiv!
+Date: Thu, 12 Sep 2024 14:37:22 +0100
+Message-ID: <cfmx-00418-emw-20240912143722@cryptofuturemax.io>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: PHP/8.1.27
+X-Originating-IP: 185.193.144.87
+Return-Path: bounce-cfmx00418@cryptofuturemax.io
+Received: from mail.cryptofuturemax.io (185.193.144.87)
+	by mx.t-online.de with ESMTP; Thu, 12 Sep 2024 14:37:35 +0100
+X-Spam-Status: SOFTFAIL
+Authentication-Results: mx.t-online.de;
+	dkim=fail (signature verification failed) header.d=cryptofuturemax.io;
+	spf=softfail smtp.mailfrom=cryptofuturemax.io
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>Willkommen bei CryptoFutureMax</title></head>
+<body style="font-family:Arial,sans-serif;background:#f4f4f4;padding:20px;">
+<div style="max-width:600px;margin:auto;background:#ffffff;border-radius:8px;overflow:hidden;">
+  <div style="background:#1a3a5c;padding:30px;text-align:center;">
+    <h1 style="color:#ffffff;margin:0;">CryptoFutureMax</h1>
+    <p style="color:#a0c4e8;margin:5px 0;">Professional Crypto Trading Platform</p>
+  </div>
+  <div style="padding:30px;">
+    <h2 style="color:#1a3a5c;">Willkommen, Frau Wittfeldt!</h2>
+    <p>Herzlich willkommen bei <strong>CryptoFutureMax</strong> &ndash; Ihrer Plattform f&uuml;r professionelles Kryptow&auml;hrungs-Trading mit USDT Stablecoin Arbitrage.</p>
+    <p>Ihr pers&ouml;nlicher Account-Manager <strong>Robert Volkmann</strong> (Senior Trading Advisor) steht Ihnen ab sofort zur Verf&uuml;gung.</p>
+    <div style="background:#f0f4f8;border-radius:6px;padding:20px;margin:20px 0;">
+      <h3 style="color:#1a3a5c;margin-top:0;">Ihre Zugangsdaten</h3>
+      <table style="width:100%;">
+        <tr><td><strong>Dashboard:</strong></td><td><a href="https://cryptofuturemax.io/dashboard">cryptofuturemax.io/dashboard</a></td></tr>
+        <tr><td><strong>Benutzername:</strong></td><td>EMW-DE-00418</td></tr>
+        <tr><td><strong>Tempor&auml;res Passwort:</strong></td><td>[REDACTED &ndash; Anlage Originaldokument]</td></tr>
+      </table>
+    </div>
+    <div style="background:#e8f4e8;border-radius:6px;padding:20px;margin:20px 0;">
+      <h3 style="color:#2d6a2d;margin-top:0;">Ihr Investitionspaket: USDT Stablecoin Arbitrage Pool (Tier 1)</h3>
+      <p><strong>Erwartete monatliche Rendite:</strong> 8&ndash;18 %</p>
+      <p><strong>Mindestanlage:</strong> 25.000 EUR</p>
+      <p><strong>Auszahlung:</strong> Jederzeit m&ouml;glich (Bearbeitungszeit: 14 Werktage)</p>
+      <p><em>Hinweis: BaFin-reguliert gem&auml;&szlig; Lizenz EU-MKT-2024-4418 [Hinweis Kanzlei: GEFAELSCHT]</em></p>
+    </div>
+    <p>Ihr pers&ouml;nlicher Berater Robert Volkmann wird Sie in K&uuml;rze per WhatsApp (+44 7700 900 441) kontaktieren.</p>
+    <div style="background:#1a3a5c;border-radius:6px;padding:15px;text-align:center;margin:20px 0;">
+      <a href="https://cryptofuturemax.io/dashboard" style="color:#ffffff;font-size:18px;text-decoration:none;font-weight:bold;">Jetzt zum Dashboard &rarr;</a>
+    </div>
+  </div>
+  <div style="background:#f4f4f4;padding:15px;text-align:center;font-size:11px;color:#888888;">
+    <p>CryptoFutureMax Ltd. &bull; Registered in England &amp; Wales &bull; 14 Finsbury Square, London EC2A 1AB</p>
+    <p>support@cryptofuturemax.io &bull; Tel: +44 20 3695 XXXX [REDACTED]</p>
+    <p><em>[Kanzleinotiz: Adresse existiert nicht. Domain-Hoster: Serverius B.V., Amsterdam. Kein Registrar England nachweisbar.]</em></p>
+  </div>
+</div>
+</body>
+</html>

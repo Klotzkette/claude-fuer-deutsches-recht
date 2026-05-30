@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v51.1.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v51.2.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -23,7 +23,6 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [common-law-kompass](./common-law-kompass.md) (19 Skills)
 - [corporate-kanzlei](./corporate-kanzlei.md) (48 Skills)
 - [datenschutzrecht](./datenschutzrecht.md) (21 Skills)
-- [dfg-foerderantrag](./dfg-foerderantrag.md) (10 Skills)
 - [dsa-dma-digitalregulierung](./dsa-dma-digitalregulierung.md) (10 Skills)
 - [einfache-leichte-sprache-jura](./einfache-leichte-sprache-jura.md) (6 Skills)
 - [email-umformulierer-berufsrecht](./email-umformulierer-berufsrecht.md) (21 Skills)
@@ -54,7 +53,6 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (19 Skills)
 - [fluggastrechte](./fluggastrechte.md) (13 Skills)
 - [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (4 Skills)
-- [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (11 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (16 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (22 Skills)
 - [gesellschaftsgruender](./gesellschaftsgruender.md) (37 Skills)
@@ -64,11 +62,13 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (56 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (23 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (8 Skills)
+- [weg-hausverwaltung](./weg-hausverwaltung.md) (28 Skills)
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (21 Skills)
 - [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (27 Skills)
 - [insolvenzrecht](./insolvenzrecht.md) (16 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (45 Skills)
 - [jurastudium](./jurastudium.md) (23 Skills)
+- [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (38 Skills)
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (20 Skills)
 - [kanzlei-allgemein](./kanzlei-allgemein.md) (48 Skills)
 - [kanzlei-builder-hub](./kanzlei-builder-hub.md) (13 Skills)
@@ -86,8 +86,8 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [memorandums-ersteller](./memorandums-ersteller.md) (2 Skills)
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (20 Skills)
 - [mietrecht](./mietrecht.md) (16 Skills)
-- [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (54 Skills)
 - [nachbarschaftsstreit-pruefer](./nachbarschaftsstreit-pruefer.md) (20 Skills)
+- [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (54 Skills)
 - [nda-abgleich](./nda-abgleich.md) (2 Skills)
 - [normenkontrolle-bauleitplanung](./normenkontrolle-bauleitplanung.md) (22 Skills)
 - [patentrecherche](./patentrecherche.md) (14 Skills)
@@ -113,8 +113,6 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [vertragsausfueller](./vertragsausfueller.md) (15 Skills)
 - [vertragsrecht](./vertragsrecht.md) (17 Skills)
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (33 Skills)
-- [weg-hausverwaltung](./weg-hausverwaltung.md) (28 Skills)
-- [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (38 Skills)
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (2 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (24 Skills)
 - [zwangsvollstreckung](./zwangsvollstreckung.md) (20 Skills)

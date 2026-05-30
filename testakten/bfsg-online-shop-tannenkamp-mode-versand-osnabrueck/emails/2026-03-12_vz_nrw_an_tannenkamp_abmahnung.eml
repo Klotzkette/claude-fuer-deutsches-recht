@@ -1,0 +1,69 @@
+From: recht@vz-nrw.de
+To: info@tannenkamp-mode.de
+CC: bfsg-meldestelle@laves.niedersachsen.de
+Date: Thu, 12 Mar 2026 09:41:22 +0100
+Message-ID: <VZ-NRW-2026-0312-001@vz-nrw.de>
+Subject: Verstoßmeldung BFSG — tannenkamp-mode.de — Az. VZ-NRW-BFSG-2026/0188
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Verbraucherzentrale NRW e.V.
+Mintropstraße 27, 40215 Düsseldorf
+RA Tim Hollenbeck, Rechtsabteilung
+
+An:
+Tannenkamp Mode-Versand GmbH
+Natruper Str. 218
+49090 Osnabrück
+
+Verstoßmeldung nach § 33 BFSG — Online-Shop tannenkamp-mode.de
+Az. VZ-NRW-BFSG-2026/0188
+
+Sehr geehrte Damen und Herren,
+
+die Verbraucherzentrale NRW e.V. hat Ihren Online-Shop tannenkamp-mode.de
+einer Barrierefreiheitsprüfung nach den Anforderungen des
+Barrierefreiheitsstärkungsgesetzes (BFSG) vom 28.06.2025 sowie der
+harmonisierten Norm EN 301 549 / WCAG 2.1 AA unterzogen.
+
+Dabei wurden folgende Verstöße festgestellt:
+
+1. Fehlende Tastatur-Navigation: Fokus-Indikator bei Tab-Steuerung nicht
+   sichtbar (Verstoß gegen WCAG 2.1 SC 2.4.7).
+
+2. Fehlende Alt-Texte: Produktbilder (Stichprobe: 150 von 2.317) ohne
+   Textalternative (Verstoß gegen WCAG 2.1 SC 1.1.1).
+
+3. Unzureichendes Kontrastverhältnis: Fließtext 2,8:1 statt mindestens
+   4,5:1 (Verstoß gegen WCAG 2.1 SC 1.4.3).
+
+4. Fehlender Skip-Link zum Hauptinhalt (Verstoß gegen WCAG 2.1 SC 2.4.1).
+
+5. Fehlerhafte ARIA-Roles: `<div role="button">` ohne Tastaturhandler,
+   fehlende Landmark-Rollen (Verstoß gegen WCAG 2.1 SC 4.1.2).
+
+6. PDF-Produktkataloge nicht barrierefrei: Herbst/Winter 2024 und
+   Frühjahr/Sommer 2025 ohne PDF/UA-Tagget, fehlende Alt-Texte in PDFs.
+
+7. Fehlende Erklärung zur Barrierefreiheit (§ 19 BFSG-DV).
+
+8. Fehlender Feedback-Mechanismus (§ 16 BFSG-DV).
+
+Die Verbraucherzentrale NRW fordert Sie auf, die genannten Mängel
+unverzüglich, spätestens bis zum 26.03.2026, zu beheben und uns
+hierüber schriftlich zu berichten.
+
+Parallel haben wir heute beim Landgericht Hannover eine Verbandsklage
+nach dem VRUG eingereicht (Az. 18 OH 8/26).
+
+Wir machen darauf aufmerksam, dass gemäß § 37 BFSG Geldbußen bis zu
+100.000 EUR drohen und die zuständige Marktüberwachungsbehörde
+gleichzeitig informiert wurde.
+
+Mit freundlichen Grüßen
+
+Tim Hollenbeck
+Rechtsanwalt
+Verbraucherzentrale NRW e.V.
+Tel. 0211-3809-0

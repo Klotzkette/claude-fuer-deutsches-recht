@@ -1,6 +1,6 @@
 # mandantenanfragen-assistent
 
-**15 Skills** · Stand `v51.1.0`
+**15 Skills** · Stand `v51.2.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/mandantenanfragen-assistent/README.md)

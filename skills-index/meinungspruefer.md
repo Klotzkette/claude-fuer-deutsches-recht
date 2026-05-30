@@ -1,6 +1,6 @@
 # meinungspruefer
 
-**36 Skills** · Stand `v51.1.0`
+**36 Skills** · Stand `v51.2.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/meinungspruefer/README.md)
