@@ -1,3 +1,26 @@
+# v51.0.0 — DFG, Forschungszulage und weltweite DBA-Matrix
+
+User-Wunsch: Zwei neue Förderplugins für DFG-Anträge und Forschungszulage sowie ein deutlich tieferer Ausbau der DBA-Skills im Steuerrechtsplugin.
+
+## Neue Plugins
+
+- `dfg-foerderantrag`: DFG-Sachbeihilfe, elan-Formalia, kleine schnelle Anträge bis zur 200.000-Euro-Begutachtungsmarke, Koselleck-Route ab 500.000 Euro, Finanzplan, Reviewer-Red-Team, KI/Ethik/Forschungsdaten und Wiedereinreichung.
+- `forschungszulage-antragstellung`: BSFZ-Bescheinigung, FuE-Abgrenzung, Bemessungsgrundlage 2026, Finanzamt-Festsetzung, Auszahlung, Verlust-/Insolvenzlagen, Dokumentationspaket, Kumulierung und Einspruch/Nachbesserung.
+
+## Steuerrecht / DBA
+
+- Neue `references/dba-laendermatrix-2026.md` nach BMF-Stand 01.01.2026 als weltweite Routing-Matrix.
+- Neue DBA-Skills: Ländermatrix, Nicht-EU-Regionenrouter, Edge-Case-Playbook, MAP/EU-Streitbeilegung, Quellensteuer-Atlas und All-Country-Memo-Generator.
+- `rechtsstand-mai-2026-faktenbank` ergänzt um den DBA-Stand 2026 und neue DBA-Folgeskills.
+
+## Versionen und Übersichten
+
+- Marketplace-Version `50.10.0` → `51.0.0`.
+- Plugins: 108 → 110.
+- Skills: 2655 → 2682.
+- Release-Assets erwartet: 177 = 110 Plugin-ZIPs, 63 Testakten-ZIPs, `marketplace.json` und 3 Sammelarchive.
+- `SKILLS.md`, `skills-index/`, Plugin-READMEs, `README.md` und `ASSET_INDEX.md` synchronisiert.
+
 # v50.10.0 — Akten-ZIP-Download in jedem Testakten-README
 
 User-Wunsch: In jedem Testakten-README muss ganz oben sowohl ein Link zum Gesamt-PDF als auch ein Link zur Akten-ZIP mit allen Einzeldateien stehen. Bisher gab es nur das Gesamt-PDF.

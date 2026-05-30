@@ -1,6 +1,6 @@
 # schriftform-und-textform-bgb
 
-**23 Skills** · Stand `v50.10.0`
+**23 Skills** · Stand `v51.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/README.md)

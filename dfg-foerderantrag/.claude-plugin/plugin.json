@@ -1,0 +1,20 @@
+{
+  "name": "dfg-foerderantrag",
+  "version": "51.0.0",
+  "description": "DFG-Förderantragssteller für Sachbeihilfe, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "dfg",
+    "foerderantrag",
+    "sachbeihilfe",
+    "elan",
+    "reinhart-koselleck",
+    "forschungsfoerderung",
+    "grant-writing",
+    "projektbeschreibung"
+  ]
+}

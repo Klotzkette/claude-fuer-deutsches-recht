@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Steuerrecht Anwalt
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Steuerrecht Anwalt Und Berater**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-) mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: E-Rechnung, Umsatzsteuer/Vorsteuer, Krypto, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, Einspruch, Klage, FG, Außenprüfung, Selbstanzeige. StB-Tools BWA, SuSa, Lohnbuchhaltung, Jahresabschluss, Mandantenkommunikation, Software-Bedienung. DBA Europa, Türkei, Israel, USA, Kanada.
+**Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-) mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: E-Rechnung, Umsatzsteuer/Vorsteuer, Krypto, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, Einspruch, Klage, FG, Außenprüfung, Selbstanzeige. StB-Tools BWA, SuSa, Lohnbuchhaltung, Jahresabschluss, Mandantenkommunikation, Software-Bedienung. DBA weltweit nach BMF-Stand 01.01.2026 mit Ländermatrix, MLI-, Quellensteuer-, MAP- und Edge-Case-Routing.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 

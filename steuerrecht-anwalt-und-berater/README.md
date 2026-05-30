@@ -1,6 +1,6 @@
 # Steuerrecht – Steuerberater und Anwälte
 
-Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung.
+Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung. Die DBA-Skills sind jetzt um eine weltweite Ländermatrix nach BMF-Stand 01.01.2026, MLI-Routing, Quellensteuer-Atlas, MAP/EU-Streitbeilegung und Edge-Case-Playbook erweitert.
 
 > Dieses Plugin ist **gleichzeitig das Fachanwalts-Plugin** für Steuerrecht. Es ersetzt das frühere separate `fachanwalt-steuerrecht`-Plugin: alle Fachanwalts-Skills sind hier mit dem Präfix `anw-` enthalten — die FAO-§-9-Voraussetzungen sind als Anhang im Skill `anw-orientierung` aufgenommen.
 
@@ -8,7 +8,7 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 
 ## Rechtsstand und Quellen-Gate
 
-Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell/Landesmodellen, Grunderwerbsteuer-Share-Deals mit Signing/Closing, § 23 EStG und § 20 EStG/Verlustverrechnung.
+Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell/Landesmodellen, Grunderwerbsteuer-Share-Deals mit Signing/Closing, § 23 EStG, § 20 EStG/Verlustverrechnung und DBA-Quellen nach BMF-Stand 01.01.2026.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate aus Modellwissen. BFH/FG-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle; Verwaltungsauffassung nur als BMF/BZSt-Quelle und nie als Ersatz für Gesetz und Rechtsprechung.
 
@@ -229,7 +229,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 203 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 209 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -305,12 +305,15 @@ Automatisch generierte Komplett-Liste aller 203 Skills in diesem Plugin. Beschre
 | `stb-datentransfer-mandant-cloud-dsgvo` | Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Co... |
 | `stb-datev-bwa-modul-bedienen-tipps` | DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert. |
 | `stb-datev-lohn-modul-lodas-luh` | DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert. |
+| `stb-dba-all-country-memo-generator` | Generiert ein länderspezifisches DBA-Memo für jeden deutschen DBA-Staat aus Matrix, DBA-Text und Sachverhalt. Für Länder ohne eigenen Detail-Skill: Artikelroute, Einkunftsart, Methode, Quellensteuer, Beweise, Edge-Cases und offene Live-P... |
+| `stb-dba-alle-abkommen-laendermatrix-2026` | DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Routet alle deutschen DBA und Sonderfälle nach Staat, Region, Abkommensart, MLI, Erbschaftsteuer-DBA, Amtshilfe, Zeitraum und passendem Detail-Skill. Keine DBA-Antwort ohne kon... |
 | `stb-dba-ansaessigkeit-tie-breaker-rules` | Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschäftsleitu... |
 | `stb-dba-belgien` | DBA Deutschland Belgien aktuelle Fassung. Anwendungsfall Eupen Malmedy Grenzgaenger Pendler Beteiligungen Lizenzen. Anwendungsbereich Sprachgrenze. Loehne mit 183-Tage-Regelung. Pensionen mit Spezialregelung. Output Mandanten-Memo Berech... |
 | `stb-dba-betriebsstaette-art-5-musterabkommen` | Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste G... |
 | `stb-dba-bulgarien` | DBA Deutschland Bulgarien 2010. Anwendungsfall Outsourcing IT Pflege Holding Beteiligungen. EU-MTRL ergaenzend. Niedrige KSt 10 Prozent. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-daenemark` | DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler Schleswig-Holstein Daenemark Beteiligungen Pensionen Sozialversicherung Lizenzen. Methodenartikel Freistellung mit Anrechnungswahl. Sonderregelungen Eisenbahn Schiff Luft... |
 | `stb-dba-dividenden-quellensteuer-art-10` | Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. Anwendungsfall Ausschuettungen über Grenze Quellensteuer im Quellenstaat Hoechstsatz Schachtelhoehe. § 43b EStG MTRL § 8b KStG Schachtelprivileg. Anti-Cum-Cum § 50j EStG.... |
+| `stb-dba-edge-cases-playbook` | DBA-Edge-Case-Playbook für realistische Sonderlagen: doppelte Ansässigkeit, Home-Office, Betriebsstätte ohne Büro, Vertreterbetriebsstätte, Hybridgesellschaft, Quellensteuer, Pension, Stock Options, Künstler/Sportler, Immobiliengesellsch... |
 | `stb-dba-estland` | DBA Deutschland Estland 1996. Anwendungsfall IT-Branche E-Residency Holding Beteiligungen. EU-MTRL ergaenzend. Besonderheit estnisches Steuersystem mit Besteuerung nur bei Ausschuettung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hin... |
 | `stb-dba-finnland` | DBA Deutschland Finnland 2016. Anwendungsfall Maschinenbau IT Telekommunikation Pensionen Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-frankreich-1959` | DBA Deutschland Frankreich aus 1959 mit Aenderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen abweichend vom OECD-M... |
@@ -333,13 +336,16 @@ Automatisch generierte Komplett-Liste aller 203 Skills in diesem Plugin. Beschre
 | `stb-dba-lizenzgebuehren-art-12-bzst` | Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shoppin... |
 | `stb-dba-luxemburg-2012` | DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hy... |
 | `stb-dba-malta-2001` | DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding REIT-Strukturen Schifffahrt Online-Glueckspiel. EU-MTRL ergaenzend. Substanz Anti-Treaty-Shopping. Methodenartikel Anrechnung Aktivitaetsklausel. Output Mandanten-Memo Ho... |
+| `stb-dba-map-eu-streitbeilegung` | Verständigungsverfahren und EU-Streitbeilegung bei DBA-Doppelbesteuerung prüfen: Art. 25 OECD-MA, bilaterale MAP, EU-DBA-Streitbeilegungsgesetz, Fristen, Antrag, Begründung, Belege und Parallelverfahren. |
 | `stb-dba-methodenartikel-anrechnung-vs-freistellung` | Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmetho... |
 | `stb-dba-niederlande-2012` | DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passiv... |
 | `stb-dba-norwegen` | DBA Deutschland Norwegen. Anwendungsfall Oel und Gas Offshore Schifffahrt Mittelstand Pensionen Beteiligungen. EWR-Status keine MTRL. Methodenartikel Freistellung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-oesterreich` | DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office.... |
 | `stb-dba-polen` | DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausführung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit Aktivitaetsklausel. Output Manda... |
 | `stb-dba-portugal` | DBA Deutschland Portugal. Anwendungsfall Pensionen Algarve NHR-Status Beteiligungen Lizenzen Immobilien. EU-MTRL Madeira-Sondersteuergebiet. Methodenartikel Anrechnung mit Sonderregelungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-... |
+| `stb-dba-quellensteuer-atlas-weltweit` | Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden, Zinsen, Lizenzen, technische Dienstleistungen, Künstler/Sportler, BZSt-Entlastung, Ansässigkeitsbescheinigung, Beneficial Ownership und Anti-Treaty-Shopping. |
 | `stb-dba-quellensteuer-erstattung-bzst-50c-estg` | Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder erstatten lassen. Fr... |
+| `stb-dba-regionenrouter-nichteu` | DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, UK, Schweiz, Türkei, Israel, China, Indien, Japan, Australien, Lateinamerika, Afrika, Nahost, Zentralasien, Alt-DBA und fortgeltende UdSSR/Jugoslawien-Abkommen. |
 | `stb-dba-rentner-pensionen-art-18` | Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder auslaendische Rente bei Wohnsitz Deutschland. Wohnsitzs... |
 | `stb-dba-rumaenien` | DBA Deutschland Rumaenien 2001. Anwendungsfall Automotive-Produktion IT Pflege Holding Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise. |
 | `stb-dba-russland-suspendierung-2024` | DBA Deutschland Russland Suspendierung wesentlicher Verguenstigungen. Russische Verbalnote vom 08.08.2023 suspendiert von russischer Seite Art. 5 bis 22 und 24. Deutsche Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG mit Aufnahme Russlands... |

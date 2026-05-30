@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 108 |
-| **Skills (SKILL.md)** | 2655 — [Gesamtübersicht](./SKILLS.md) |
+| **Plugins** | 110 |
+| **Skills (SKILL.md)** | 2682 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 63 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Letzter Release** | `v50.10.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Letzter Release** | `v51.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -191,6 +191,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`common-law-kompass`](./common-law-kompass) | Freistehender Common-Law-Kompass für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | [`corporate-kanzlei`](./corporate-kanzlei) | Corporate/M&A-Plugin (47 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI. |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TDDDG, Auskunft, Datenpanne, AVV, US-Transfers mit DPF/SCC/TIA und Behördenpaket. |
+| [`dfg-foerderantrag`](./dfg-foerderantrag) | DFG-Förderantragssteller für Sachbeihilfe, kleine schnelle Anträge, Koselleck-Projekte ab 500.000 Euro, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung. |
 | [`dsa-dma-digitalregulierung`](./dsa-dma-digitalregulierung) | DSA, DMA und Digitalregulierung: Plattformpflichten, Gatekeeper, Data Act, DGA, AI Act, NIS-2, DORA, CRA, eIDAS 2.0, DDG und P2B-VO. |
 | [`einfache-leichte-sprache-jura`](./einfache-leichte-sprache-jura) | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Annäherung an einschlägige Standards, Zielgruppe klären, Rechtsinhalt sichern, schwere Wörter erklären und Qualitätsgate laufen lassen. |
 | [`email-umformulierer-berufsrecht`](./email-umformulierer-berufsrecht) | Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonforme Texte um. Fokus auf BRAO/BORA, mit Modi für Steuerberater, Notare und allgemeine Korrespondenz. |
@@ -223,6 +224,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fluggastrechte`](./fluggastrechte) | Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 mit Rechtsprechungsrecherche nur nach Live-Verifikation. Tickets erfassen, Annullierung vs. Verspätung prüfen, außergewöhnliche Umstände, Distanz und Ausgleich berechnen, Forderungsschreiben, Mahnung, Klage zum Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden. |
 | [`forderungsmanagement-klagewerkstatt`](./forderungsmanagement-klagewerkstatt) | Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Lernlauf aus eigenen Mustern, Laufzeit-Skill und direkter Inkasso-Zahlungsklage-Ersteller mit Mahnvorlauf, Anspruchs-Gatekeeper, Gerichtsortprüfung und der Regel: nur klare, fällige und belegte Ansprüche einklagen. |
 | [`fortbestehensprognose`](./fortbestehensprognose) | Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Prüfablauf Bilanzstatus, Annahmen, Plausibilisierung, 12-Monats-Liquidität. Sanierungsbausteine: harte Patronatserklärung, Comfortletter, Gesellschafterdarlehen mit Rangrücktritt, Stundung und Forderungsverzicht. Rechtsprechung nur nach Live-Verifikation. |
+| [`forschungszulage-antragstellung`](./forschungszulage-antragstellung) | Forschungszulage-Antragstellung nach FZulG: BSFZ-Bescheinigung, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung auch in Verlust-/Krisenlagen, Dokumentation, Beihilfen und Einspruch. |
 | [`geldwaeschepraevention-aml-kyc`](./geldwaeschepraevention-aml-kyc) | Freistehendes Geldwäscheprävention-/AML-/KYC-Plugin: GwG-Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Schulung, Audit, Behördenverfahren und Remediation. |
 | [`gesellschaftsgruender`](./gesellschaftsgruender) | Gründungsassistent für deutsche Gesellschaften. Führt von Rechtsformwahl GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH eK über Gesellschaftsvertrag und Geschäftsführeranstellungsvertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister IHK Berufsgenossenschaft. MoPeG 2024 DiRUG Online-Gründung GwG TraFinG. Erste-100-Tage-Pflichten für Geschäftsführer. |
 | [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister. |
@@ -267,7 +269,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung. |
 | [`selbstvertreter-amtsgericht`](./selbstvertreter-amtsgericht) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, § 23 GVG/§ 511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat und Berufung. 86 Skills. |
 | [`selbstvertreter-sozialgericht`](./selbstvertreter-sozialgericht) | Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat und Berufung. 80 Skills. |
-| [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch, Klage FG, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, BWA-/SuSa-/Bilanz-Krisenprüfung. Skills mit Präfixen `anw-` (Anwalt) und `stb-` (Steuerberater). |
+| [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch, Klage FG, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix 2026, Signing/Closing, BWA-/SuSa-/Bilanz-Krisenprüfung. Skills mit Präfixen `anw-` (Anwalt) und `stb-` (Steuerberater). |
 | [`strafbefehl-verteidiger`](./strafbefehl-verteidiger) | Freistehender Strafbefehls-Verteidiger: Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
 | [`strafzumessung`](./strafzumessung) | Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer: § 46 StGB, Geldstrafe, Bewährung, Verständigung, Täter-Opfer-Ausgleich und nachträgliche Gesamtstrafe. |
 | [`subsumtions-pruefer`](./subsumtions-pruefer) | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema je TBM, Beweisbedarf erfassen, Rechtsfolgen und Einreden prüfen. Ausgabe als Schriftsatz oder Memo. Keine Rechtsberatung. |
@@ -395,7 +397,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
 - **Insolvenz & Sanierung** – `insolvenzrecht` (Gläubiger/Schuldner), `insolvenzverwaltung` (Verwalter-Sicht, § 270d, § 15b, § 129 ff.), `zwangsverwaltung-zvg` (ZVG-Verwalter, § 155 Verteilungsplan), `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `fachanwalt-insolvenz-sanierungsrecht`
 - **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
-- **Steuerrecht** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, Steuerberater-Werkzeuge)
+- **Steuerrecht und Förderung** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix, Signing/Closing, Steuerberater-Werkzeuge), `forschungszulage-antragstellung`, `dfg-foerderantrag`
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafbefehl-verteidiger`, `strafzumessung`, `verkehrsowi-verteidiger`
 - **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `fachanwalt-vergaberecht`
 - **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
