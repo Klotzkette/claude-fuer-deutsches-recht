@@ -1,5 +1,19 @@
 # Akte Verkehrs- und Infrastrukturrecht: Straßenbahn Linie 7, Ladezonen und Schulwegsicherheit
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/verkehr-infrastrukturrecht-strassenbahn-ladezonen_gesamt.pdf`](gesamt-pdf/verkehr-infrastrukturrecht-strassenbahn-ladezonen_gesamt.pdf) | PDF | 77 KB |
+
+Im Release-ZIP `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

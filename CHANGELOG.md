@@ -1,3 +1,28 @@
+# v50.2.0 — Gesamt-PDF fuer jede Testakte (doppelt gemoppelt)
+
+User-Wunsch: Jede Testakte soll im ZIP-Release zusaetzlich ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken enthalten. So liegt jede Akte sowohl in Einzelformaten (MD, DOCX, XLSX, EML, PDF) als auch in einer 'doppelt gemoppelten' Druckfassung vor.
+
+## Aenderungen
+
+- Neues Skript `scripts/build-testakte-gesamt-pdf.py` buendelt MD, TXT, EML, CSV, XLSX, DOCX und PDF einer Testakte zu einem PDF mit:
+  - Cover (H1-Titel, Slug, Auszug aus Sachverhalt/Kurzbild/Worum/Zweck/Szenario/Idee/Mandant/Verfahrenseckdaten/...),
+  - Inhaltsverzeichnis,
+  - Seitenzahlen,
+  - Trennblaettern fuer Original-PDF-Anhaenge (Layout per pypdf erhalten).
+  Sehr lange Tabellenzellen (>1.200 Zeichen, z.B. bilingualer Wandeldarlehensvertrag) werden in eine sequentielle Absatzdarstellung umgewandelt, damit ReportLab nicht ueberlauft.
+- Neues Skript `scripts/inject-gesamt-pdf-section.py` ergaenzt jede Testakte-README idempotent (HTML-Marker) um einen Block `## 📕 Gesamt-PDF (alles in einer Datei)` direkt unter dem H1 (also noch vor dem Direkt-Download).
+- 63 von 63 Testakten haben jetzt `testakten/<name>/gesamt-pdf/<name>_gesamt.pdf`. Die Datei landet automatisch im Release-ZIP `testakte-<name>.zip` (siehe `.github/workflows/release-plugin-zips.yml`).
+- Stichproben-Sichtung des Repos: keine TODO/FIXME-Marker, keine Lorem-Ipsum-Reste, keine leeren Quelldateien. Inhalte sind durchweg konsistent.
+
+## Versionen
+
+- Marketplace top-level 50.1.1 -> 50.2.0
+- Plugin-Versionen unveraendert (nur Testakten-Inhalte und Hilfsskripte aendern sich; keine Plugin-Manifeste)
+
+Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
+
+---
+
 # v50.1.1 — Testakten-Sektion bei dekorierten Direkt-Download-Headings korrekt positionieren
 
 Codex-Review zu PR #148 hat bemerkt: Der Regex in `scripts/inject-testakten-section.py` matchte nur Headings, die exakt mit `## Direkt-Download` beginnen. Dekorierte Varianten wie `## ⬇️ Direkt-Download (einzelnes ZIP)` oder `## Arbeitsakte (Direkt-Download)` fielen durch, und der Auto-Block wurde stattdessen *vor* dem ersten H2 eingefuegt -- also oberhalb des Direkt-Download-Blocks, entgegen der Skript-Intention.

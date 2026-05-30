@@ -1,5 +1,19 @@
 # Akte: Grundsteuer Rosenwinkel-Bescheidkette
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf`](gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | PDF | 20 KB |
+
+Im Release-ZIP `testakte-grundsteuer-rosenwinkel-bescheidkette.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Realistisch aufgebaute Mandatsakte zur neuen Grundsteuer ab 2025. Die Akte zeigt, wie aus einem scheinbar einfachen kommunalen Grundsteuerbescheid eine dreistufige Bescheidkettenprüfung wird: Grundsteuerwertbescheid, Grundsteuermessbescheid und Grundsteuerbescheid der Gemeinde.
 
 ## Mandatskern

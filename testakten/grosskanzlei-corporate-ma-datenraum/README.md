@@ -1,5 +1,19 @@
 # Akte Großkanzlei Corporate/M&A Datenraum
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf`](gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf) | PDF | 412 KB |
+
+Im Release-ZIP `testakte-grosskanzlei-corporate-ma-datenraum.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

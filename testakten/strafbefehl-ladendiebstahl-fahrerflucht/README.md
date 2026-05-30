@@ -1,5 +1,19 @@
 # Akte: Strafbefehl – Ladendiebstahl und Fahrerflucht
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf`](gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) | PDF | 120 KB |
+
+Im Release-ZIP `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

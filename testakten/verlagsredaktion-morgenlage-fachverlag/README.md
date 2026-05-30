@@ -1,5 +1,19 @@
 # Akte: Verlagsredaktion Morgenlage Fachverlag
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf`](gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf) | PDF | 16 KB |
+
+Im Release-ZIP `testakte-verlagsredaktion-morgenlage-fachverlag.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Arbeitsakte für `verlagsredaktion`.
 
 Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachverlag Morgenstern & Falkenhayn. Im Postfach liegen Autor:innenmails, ein fast fertiges Zeitschriftenheft, ein Buchkapitel mit Fremdmaterial, Bildrechtefragen, ein Satzfahnenlauf und Marketingwünsche. Nichts ist dramatisch, aber alles hängt aneinander.

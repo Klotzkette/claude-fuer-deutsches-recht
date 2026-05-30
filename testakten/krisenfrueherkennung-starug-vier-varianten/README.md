@@ -1,5 +1,19 @@
 # Akte: Krisenfrüherkennung & StaRUG – Vier Varianten
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf`](gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf) | PDF | 132 KB |
+
+Im Release-ZIP `testakte-krisenfrueherkennung-starug-vier-varianten.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

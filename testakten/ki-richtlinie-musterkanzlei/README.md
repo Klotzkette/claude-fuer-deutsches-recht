@@ -1,5 +1,19 @@
 # Akte: KI-Richtlinie Musterkanzlei
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf`](gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf) | PDF | 130 KB |
+
+Im Release-ZIP `testakte-ki-richtlinie-musterkanzlei.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

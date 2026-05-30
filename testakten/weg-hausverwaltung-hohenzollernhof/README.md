@@ -1,5 +1,19 @@
 # Akte: WEG Hohenzollernhof — Hausverwaltung unter Druck
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf`](gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf) | PDF | 304 KB |
+
+Im Release-ZIP `testakte-weg-hausverwaltung-hohenzollernhof.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 **Arbeitsstand:** 30.05.2026
 **Objekt:** Hohenzollerndamm 180/180a/180b, Berlin-Wilmersdorf
 **Einheiten:** 38 Wohnungen, 2 Teileigentumseinheiten, 31 Tiefgaragenstellplätze

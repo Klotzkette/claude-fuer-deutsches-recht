@@ -1,5 +1,19 @@
 # Akte - Elektronisches Pflichtpostfach
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/legistik-pflichtpostfach_gesamt.pdf`](gesamt-pdf/legistik-pflichtpostfach_gesamt.pdf) | PDF | 336 KB |
+
+Im Release-ZIP `testakte-legistik-pflichtpostfach.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

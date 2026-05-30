@@ -1,5 +1,19 @@
 # Akte Vertragsausfueller - BSAG Kiosk Huckelriede
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) | PDF | 42 KB |
+
+Im Release-ZIP `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

@@ -1,5 +1,19 @@
 # Akte Kometenfalter Systems GmbH — Series A Project Comet Moth
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf`](gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) | PDF | 4751 KB |
+
+Im Release-ZIP `testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Mandantin: Kometenfalter Systems GmbH, eingetragen im Handelsregister des Amtsgerichts Frankfurt am Main, HRB-Nummer wird im Closing-Datenraum geführt. Sitz Frankfurt am Main, Sitz-Adresse Hanauer Landstraße 188, 60314 Frankfurt am Main. Geschäftsführung Kunigunde Reiter (CEO), Meinhard Voss (CTO), Walburga Stein (CPO). Stammkapital aktuell 30.000 EUR, geplante Erhöhung auf 48.069 EUR durch Series-A-Finanzierung Northbridge Growth III SCS, Luxembourg, Sociétaire der Northbridge-Plattform.
 
 Lead Investor: Northbridge Growth III SCS, vertreten durch Vivienne Ostwald und Henning Lüttich. Begleitend Angel-Gruppe um Siegfried Krämer (3 Personen, gemeinsam ca. 6 Prozent post-money). Bestehender Wandeldarlehen-Gläubiger: Tante Ermelind UG (haftungsbeschränkt), gehalten von Ermelind Reiter (Tante der CEO).

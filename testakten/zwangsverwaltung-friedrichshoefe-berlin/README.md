@@ -1,5 +1,19 @@
 # Akte: Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe"
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf) | PDF | 418 KB |
+
+Im Release-ZIP `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

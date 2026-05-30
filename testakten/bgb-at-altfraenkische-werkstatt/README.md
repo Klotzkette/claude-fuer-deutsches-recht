@@ -1,5 +1,19 @@
 # Akte BGB AT: Altfränkische Werkstatt
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf`](gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) | PDF | 27 KB |
+
+Im Release-ZIP `testakte-bgb-at-altfraenkische-werkstatt.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

@@ -1,5 +1,19 @@
 # Akte Umweltrecht: Industrieanlage — Genehmigung, Emissionshandel, Altlast und Transaktion
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/umweltrecht-industrieanlage-genehmigung_gesamt.pdf`](gesamt-pdf/umweltrecht-industrieanlage-genehmigung_gesamt.pdf) | PDF | 83 KB |
+
+Im Release-ZIP `testakte-umweltrecht-industrieanlage-genehmigung.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

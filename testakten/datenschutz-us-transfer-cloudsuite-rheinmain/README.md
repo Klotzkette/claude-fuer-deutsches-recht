@@ -1,5 +1,19 @@
 # Akte Datenschutz: US-Transfer CloudSuite Assist
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf`](gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) | PDF | 38 KB |
+
+Im Release-ZIP `testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

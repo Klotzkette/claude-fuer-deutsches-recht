@@ -1,5 +1,19 @@
 # Akte: Grunderwerbsteuer Share Deal Waldkrone
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf`](gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | PDF | 20 KB |
+
+Im Release-ZIP `testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 M&A-Akte zu Grunderwerbsteuer bei Share Deal, Signing/Closing, 90-%-Schwelle und doppelter Festsetzung. Die Akte ist so gebaut, dass das Plugin nicht nur einen Steuersatz ausrechnet, sondern eine Deal-Timeline, Anzeigezuständigkeiten, SPA-Klauseln, AdV und § 16 GrEStG zusammenführen muss.
 
 ## Mandatskern

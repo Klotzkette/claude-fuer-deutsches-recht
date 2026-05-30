@@ -1,5 +1,19 @@
 # Akte: Nachbarschaftsstreit Rosengartenstraße
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) | PDF | 81 KB |
+
+Im Release-ZIP `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 **Arbeitsakte.** Alle Personen, Adressen, Aktenzeichen, Flurstücke, Firmen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `nachbarschaftsstreit-pruefer`.
 
 ## Gesamtakte als ein PDF

@@ -1,5 +1,19 @@
 # Akte: Kündigungsschutzklage Weber ./. TechLogix GmbH
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) | PDF | 83 KB |
+
+Im Release-ZIP `testakte-kuendigungsschutzklage-weber-techlogix.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |

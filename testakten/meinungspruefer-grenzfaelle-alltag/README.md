@@ -1,5 +1,19 @@
 # Akte: Meinungsprüfer - Grenzfälle im Alltag
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf`](gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf) | PDF | 29 KB |
+
+Im Release-ZIP `testakte-meinungspruefer-grenzfaelle-alltag.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 **Arbeitsakte.** Alle Personen, Orte, Unternehmen, Schulen, Accounts, Aktenzeichen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `meinungspruefer`.
 
 ## Kurzbild

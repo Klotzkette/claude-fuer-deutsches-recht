@@ -1,5 +1,19 @@
 # Akte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf`](gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf) | PDF | 50 KB |
+
+Im Release-ZIP `testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Arbeitsakte für das Plugin `selbstvertreter-sozialgericht`. Mittlerer bis höherer Schwierigkeitsgrad: KdU-Konzept der Stadt Leipzig, bundesweiter Heizkostenspiegel, kindliches Asthma als individueller Mehrbedarf, Eilantrag § 86b SGG mit Anordnungsanspruch und Anordnungsgrund, Zustellfiktion, Vorschuss § 42 SGB I, Mahnbescheid-Risiko.
 
 ## Kurzbild

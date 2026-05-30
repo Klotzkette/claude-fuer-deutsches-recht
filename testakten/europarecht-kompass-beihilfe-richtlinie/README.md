@@ -1,5 +1,19 @@
 # Akte: Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## 📕 Gesamt-PDF (alles in einer Datei)
+
+> **Doppelt gemoppelt:** Diese Akte gibt es als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken (Schriftsaetze, Tabellen, Anhaenge) hintereinander – ideal zum Lesen oder Ausdrucken.
+
+| Datei | Format | Groesse |
+| --- | --- | --- |
+| [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | PDF | 59 KB |
+
+Im Release-ZIP `testakte-europarecht-kompass-beihilfe-richtlinie.zip` ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 ## ⬇️ Direkt-Download
 
 | Akte | Direkt-Download |
