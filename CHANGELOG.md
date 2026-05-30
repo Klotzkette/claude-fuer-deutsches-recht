@@ -1,3 +1,24 @@
+# v50.3.0 — SKILLS.md vollautomatisch generieren mit Download-Links
+
+User-Wunsch: Die Skill-Gesamtuebersicht (`SKILLS.md`) soll oben prominent erklaeren, dass die Skills nichts weiter als grosse Markdown-Prompts sind und in jedem Chatbot per Copy-Paste funktionieren. Pro Skill ein Direkt-Download (Markdown + Raw), pro Plugin ein ZIP-Download-Button. Garantie: jeder neue Skill landet automatisch in der Uebersicht.
+
+## Aenderungen
+
+- Neues Skript `scripts/generate-skills-md.py`: liest Plugin-Reihenfolge aus `marketplace.json`, scannt alle `<plugin>/skills/<skill>/SKILL.md`, liest die `description` aus dem YAML-Frontmatter und schreibt `SKILLS.md` neu. **Idempotent und vollstaendig** -- jeder neu angelegte Skill taucht beim naechsten Lauf automatisch auf.
+- `SKILLS.md` hat jetzt oben einen Hinweisblock **"Worum es hier geht: alles nur grosse Prompts"** mit Schritt-fuer-Schritt-Anleitung fuer Nutzerinnen von ChatGPT, Mistral, Gemini, DeepSeek, Le Chat usw.
+- Pro Plugin: Link auf die Plugin-README und ein **ZIP-Download-Link** auf das Release-Asset (`releases/latest/download/<plugin>.zip`, vorhandenes Artefakt aus `release-plugin-zips.yml`).
+- Pro Skill: Spalte **Download** mit `[Markdown]`-Link (github.com/blob/main) und `[Raw .md]`-Link (raw.githubusercontent.com), beide direkt klickbar im Browser.
+- Stand: 2617 Skills in 107 Plugins, jetzt vollstaendig in SKILLS.md verlinkt.
+
+## Versionen
+
+- Marketplace top-level 50.2.0 -> 50.3.0
+- Plugin-Versionen unveraendert.
+
+Validatoren gruen.
+
+---
+
 # v50.2.0 — Gesamt-PDF fuer jede Testakte (doppelt gemoppelt)
 
 User-Wunsch: Jede Testakte soll im ZIP-Release zusaetzlich ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstuecken enthalten. So liegt jede Akte sowohl in Einzelformaten (MD, DOCX, XLSX, EML, PDF) als auch in einer 'doppelt gemoppelten' Druckfassung vor.

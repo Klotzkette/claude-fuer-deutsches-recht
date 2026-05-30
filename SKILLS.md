@@ -2,7 +2,7 @@
 
 Automatisch generierte Gesamtuebersicht aller **2617 Skills** in **107 Plugins**.
 
-Stand: `v50.2.0`.
+Stand: `v50.3.0`.
 
 ## Worum es hier geht: alles nur grosse Prompts
 
