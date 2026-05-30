@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1-7 Testakten (34 Akten inkl. Patentrecht, Hausarbeit, Immobilienkauf, Examensvorbereitung, Kanzleigruendung, Kartellrecht)
+**Stand:** v51.0.0 — Welle 1-8 Testakten (40 Akten plus Welle 8 KI-Governance KI-VO-Pruefer Mandantenanfragen Memorandum Methodenlehre Mietrecht)
 
 ## Asset-Typen
 
@@ -203,8 +203,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
 | `testakte-kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen.zip` | siehe `testakten/kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen/` |
 | `testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen.zip` | siehe `testakten/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen/` |
+| `testakte-ki-governance-konzern-rollout-thalheim-industries.zip` | siehe `testakten/ki-governance-konzern-rollout-thalheim-industries/` |
 | `testakte-ki-richtlinie-musterkanzlei.zip` | siehe `testakten/ki-richtlinie-musterkanzlei/` |
 | `testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip` | siehe `testakten/ki-training-tdm-fotografin-windgassen-hamburg/` |
+| `testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip` | siehe `testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/` |
 | `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip` | siehe `testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/` |
 | `testakte-krisenfrueherkennung-starug-vier-varianten.zip` | siehe `testakten/krisenfrueherkennung-starug-vier-varianten/` |
 | `testakte-kuendigungsschutzklage-weber-techlogix.zip` | siehe `testakten/kuendigungsschutzklage-weber-techlogix/` |
@@ -215,9 +217,13 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip` | siehe `testakten/longcovid-erwerbsminderung-feldermann-leipzig/` |
 | `testakte-lumen-studios-insolvenz-strafverfahren.zip` | siehe `testakten/lumen-studios-insolvenz-strafverfahren/` |
 | `testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip` | siehe `testakten/ma-asset-deal-medtech-volkenrath-darmstadt/` |
+| `testakte-mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026.zip` | siehe `testakten/mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026/` |
 | `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip` | siehe `testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/` |
 | `testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip` | siehe `testakten/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein/` |
 | `testakte-meinungspruefer-grenzfaelle-alltag.zip` | siehe `testakten/meinungspruefer-grenzfaelle-alltag/` |
+| `testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip` | siehe `testakten/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie/` |
+| `testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip` | siehe `testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/` |
+| `testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip` | siehe `testakten/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp/` |
 | `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | siehe `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` |
 | `testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip` | siehe `testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/` |
 | `testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip` | siehe `testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/` |
@@ -272,4 +278,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 215 Assets, davon 108 Plugin-ZIPs, 103 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 221 Assets, davon 108 Plugin-ZIPs, 109 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
