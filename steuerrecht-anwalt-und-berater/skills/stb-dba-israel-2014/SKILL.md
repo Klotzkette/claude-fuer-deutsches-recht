@@ -129,6 +129,31 @@ DE-Software-AG bezieht Lizenzgebuehr 100.000 EUR von israelischer Hightech-Gesel
 
 Bei Aliyah-Mandant: deutsche Beratungsgesellschaft (KapGes) mit Anteilseignern, die Aliyah machen — Wegzugsbesteuerung § 6 AStG auf Anteile, IL Drittland (keine EU/EWR-Stundung); aber Aliyah-Status macht IL-Einkuenfte fuer 10 Jahre steuerfrei in IL. § 50d Abs. 9 EStG-Subject-to-Tax-Pruefung — bei Nicht-Besteuerung Rueckfall DE-Besteuerung.
 
+## Ausgabeformat fuer Mandanten-Memo Israel
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Hightech, Software-Lizenz, Aliyah, Beteiligung, Pension), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Aliyah-Status, Software-Lizenz vs. Standardware, Subject-to-Tax.
+3. **Kurzantwort**: DBA-Israel 2014 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-IL 2014; Aliyah-Status Pruefung).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Bei Software-Lizenz Art. 12 (0 Prozent IL-QSt) vs. Art. 7 Standardware.
+   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+   - Methodenartikel (Art. 23 — Anrechnung).
+   - § 50d Abs. 9 EStG Subject-to-Tax bei Aliyah.
+   - § 50a EStG bei Kuenstlern/Sportlern Israel.
+   - § 6 AStG bei Wegzug (Israel Drittland).
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Aliyah-Status 10 Jahre, Preferred Enterprise-Sondersteuer, MLI-Status.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Israel 2014 Fundstellen, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-lizenzgebuehren-art-12-bzst`.

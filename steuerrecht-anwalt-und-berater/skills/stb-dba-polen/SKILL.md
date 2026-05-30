@@ -116,6 +116,14 @@ Mandant mit Wohnsitz Deutschland erhaelt Dividende 10.000 EUR aus polnischer Sp.
 
 Bei Schachtel-Beteiligung 10 Prozent natuerlicher Person waere nach DBA der reduzierte Satz 5 Prozent; fuer Kapitalgesellschaften ist EU-MTRL (§ 43b EStG) mit 0 Prozent vorrangig.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Bau-Entsendung, Pflege-Arbeitnehmer, IT, Beteiligung, Pension).
+2. **Strukturierung**: Bei Bau-Entsendung 12-Monatsfrist; bei Pflege Werkvertrag-/AUe-Trennung und A1; bei Beteiligung EU-MTRL nutzen.
+3. **Antraege**: Ansaessigkeitsbescheinigung CFR-1 der Krajowa Administracja Skarbowa; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: PL-Erklaerung jaehrlich (z.B. CIT-8 fuer Sp.z o.o.); DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
+5. **Audit-Vorbereitung**: PL-Pruefer formal und akribisch bei Verrechnungspreisen; DE-FA-Pruefung Subject-to-Tax und MLI-Anwendung ab VZ 2020.
+
 ## Ausgabeformat fuer Mandanten-Memo Polen
 
 Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):

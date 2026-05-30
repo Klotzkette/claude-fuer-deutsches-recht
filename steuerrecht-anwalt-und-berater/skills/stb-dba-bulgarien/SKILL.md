@@ -117,6 +117,36 @@ DE-Mutter haelt 100 Prozent an bulgarischer EOOD; BG-Gewinn 150.000 EUR, BG-KSt 
 - Pillar-Two-Pruefung: Effektive Steuerquote 10 Prozent in BG unter 15 Prozent. Bei Konzern ueber 750 Mio EUR Umsatz: Top-Up-Tax 5 Prozentpunkte (BG-Gewinn 150.000 EUR x 5 Prozent = 7.500 EUR).
 - CFC-Pruefung § 7 ff. AStG: bei aktivem BG-Geschaeft keine Hinzurechnung; bei passiven Einkuenften (Lizenzen, Zinsen) Hinzurechnung mit DE-Steuersatz, abzueglich BG-KSt-Anrechnung.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (IT-Outsourcing, EOOD/OOD-Holding, Pflege-Arbeitnehmer).
+2. **Strukturierung**: BG-KSt 10 Prozent — CFC-Pruefung obligatorisch; Pillar Two bei Konzern ueber 750 Mio EUR; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung NRA; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: BG-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
+5. **Audit-Vorbereitung**: BG-Pruefer formal; DE-FA-Pruefung CFC und Substanz; ab Aenderungsprotokoll 2022/2023 weitere Anti-Missbrauch.
+
+## Ausgabeformat fuer Mandanten-Memo Bulgarien
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Outsourcing, Holding, Pflege-Arbeitnehmer), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, niedrige BG-KSt 10 Prozent, CFC, Pillar Two.
+3. **Kurzantwort**: DBA-Bulgarien 2010 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-BG 2010).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+   - Methodenartikel (Art. 22 — Anrechnung ueberwiegend).
+   - § 7 ff. AStG-CFC; Pillar Two bei Konzern ueber 750 Mio EUR.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Aenderungsprotokoll 2022/2023, § 50d Abs. 3 EStG, Pillar Two, MLI-Status.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Bulgarien 2010 mit Aenderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rumaenien`, `stb-dba-ungarn`.

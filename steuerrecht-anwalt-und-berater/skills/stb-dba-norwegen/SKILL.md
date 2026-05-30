@@ -121,6 +121,37 @@ DE-Energie-Konzern entsendet 5 Ingenieure auf norwegische Offshore-Plattform fue
 
 Bei Anrechnungsueberhang Petroleum: § 34c Abs. 2 EStG-Abzugsverfahren (Abzug als BA) ggf. guenstiger als Anrechnung mit Verlust.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Offshore-Aktivitaet Nordsee, Schifffahrt, Mittelstand, Wegzug DE → NO).
+2. **Strukturierung**: Bei Offshore 30-Tage-Schwelle; bei Wegzug DE → NO EWR-Stundung § 6 AStG mit Sicherheiten.
+3. **Antraege**: Ansaessigkeitsbescheinigung Skatteetaten ueber Altinn; BZSt-Erstattung; bei Petroleum-Aktivitaeten NO-Steuerbescheinigung fuer Anrechnung.
+4. **Laufende Compliance**: NO-Erklaerung jaehrlich (digital); DE-Erklaerung mit Freistellung mit Progressionsvorbehalt aktive bzw. Anrechnung passive.
+5. **Audit-Vorbereitung**: NO-Pruefer effizient digital; DE-FA-Pruefung Anrechnungsueberhang Petroleum und MLI-Anwendung.
+
+## Ausgabeformat fuer Mandanten-Memo Norwegen
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Offshore-Aktivitaet, Schifffahrt, Holding, Wegzug), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Petroleum-Sondersteuer, EWR-Status, Wegzugsbesteuerung.
+3. **Kurzantwort**: DBA-Norwegen 1991 Art. X regelt das Besteuerungsrecht; Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-NO 1991).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Bei Offshore: gesonderte Klausel; 30-Tage-Schwelle.
+   - Einkunftsart und Verteilungsartikel.
+   - Methodenartikel (Freistellung aktive Einkuenfte / Anrechnung passive).
+   - § 6 AStG bei Wegzug (EWR-erleichtert).
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Petroleum-Sondersteuer-Anrechnungsverlust, EWR-vs-EU-Recht, MLI-Anwendung.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Norwegen 1991 mit Aenderungsprotokoll 2013 Fundstellen, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-island`, `stb-dba-schweden`, `stb-dba-daenemark`.

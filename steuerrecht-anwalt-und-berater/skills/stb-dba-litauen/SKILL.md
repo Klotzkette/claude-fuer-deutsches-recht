@@ -114,6 +114,36 @@ DE-Fintech-Konzern haelt 100 Prozent an litauischer UAB mit E-Money-Lizenz; LT-G
 
 Bei Fintech-Substanz (regulatorisch zwingend) kein § 50d Abs. 3 EStG-Problem.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Mittelstand, Fintech mit E-Money-Lizenz, Logistik Hafen Klaipeda, UAB-Holding).
+2. **Strukturierung**: Bei Fintech regulatorische Substanz (Bank of Lithuania); bei Logistik BS-Pruefung; bei Holding § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung VMI; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: LT-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung.
+5. **Audit-Vorbereitung**: LT-Pruefer formal; DE-FA-Pruefung Fintech-Substanz und MLI-Anwendung.
+
+## Ausgabeformat fuer Mandanten-Memo Litauen
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Mittelstand, Fintech, Logistik Klaipeda, UAB), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Fintech-Substanz, KSt 15 Prozent.
+3. **Kurzantwort**: DBA-Litauen 1997 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-LT 1997).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+   - Methodenartikel.
+   - § 50d Abs. 3 EStG bei Fintech-Holding-Substanz.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Fintech-Substanztest, Pillar Two, MLI-Status.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Litauen 1997 Fundstellen, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-estland`, `stb-dba-lettland`.

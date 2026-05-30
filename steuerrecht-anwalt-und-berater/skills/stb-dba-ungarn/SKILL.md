@@ -115,6 +115,14 @@ DE-Mutter haelt 100 Prozent an ungarischer Kft.; HU-Gewinn 200.000 EUR, HU-KSt 9
 
 Bei KMU unter Pillar-Two-Schwelle bleibt die 10,4-Prozent-Belastung der erhebliche Vorteil — aber CFC-Pruefung wegen niedriger HU-KSt unter 15 Prozent (§ 8 AStG) ist obligatorisch.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Automotive-Zulieferer Audi/Mercedes/Bosch, Kft.-Holding, IP-Lizenz).
+2. **Strukturierung**: HU-KSt 9 Prozent — CFC-Pruefung obligatorisch; Pillar Two bei Konzern ueber 750 Mio EUR; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung NAV; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: HU-Erklaerung mit Verrechnungspreis-Dokumentation; DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
+5. **Audit-Vorbereitung**: HU-Pruefer akribisch bei Verrechnungspreisen und Substanz; DE-FA-Pruefung CFC und Pillar Two Top-Up.
+
 ## Ausgabeformat fuer Mandanten-Memo Ungarn
 
 Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):

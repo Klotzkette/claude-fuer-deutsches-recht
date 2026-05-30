@@ -113,6 +113,35 @@ Mandant mit Wohnsitz Deutschland besitzt Ferienwohnung in Rovinj (Kroatien), Ver
 
 Achtung: Sozialversicherungs- und Tourismus-Sondersteuern (Kurtaxe, Gebuehren der Tourismusverwaltung) sind keine Einkommensteuer und nicht anrechenbar — separat absetzbar als Werbungskosten.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Adria-Ferienimmobilie, Tourismus-Beteiligung, Mittelstand-Holding).
+2. **Strukturierung**: Bei Vermietung HR-Pauschalsteuer vs. Regelversteuerung; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung Porezna uprava; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: HR-Erklaerung jaehrlich; DE-Anlage V-AUS bei Immobilien, Anlage KAP bei Beteiligungen.
+5. **Audit-Vorbereitung**: HR-Tourismusverwaltung pruefer Pauschalsteuer; DE-FA pruefer Anlage V-AUS und Anrechnung.
+
+## Ausgabeformat fuer Mandanten-Memo Kroatien
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Adria-Ferienimmobilie, Tourismus-Beteiligung, Mittelstand), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht Immobilie/Beteiligung, Quellensteuer, EU-MTRL ab 2013.
+3. **Kurzantwort**: DBA-Kroatien 2006 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Bei Immobilien Belegenheitsstaat (Art. 6, 13); bei Beteiligungen Dividenden Art. 10.
+   - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL ab EU-Beitritt 01.07.2013.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Kroatische Pauschalsteuer Vermietung, MLI ab 01.01.2025 (PPT-Klausel), Euro-Umstellung 01.01.2023.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kroatien 2006 Fundstellen, BMF-Schreiben, MLI-Synthesetext verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-slowenien`, `stb-dba-italien`.

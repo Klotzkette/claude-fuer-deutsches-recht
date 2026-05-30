@@ -118,6 +118,35 @@ Diaspora-Mandant mit DRV-Rente 18.000 EUR/Jahr und Wohnsitz Serbien:
 
 Achtung: Bei Wohnsitzwechsel DE → RS/ME im Ruhestand ist auch die Krankenversicherung (Auslandskrankenversicherung erforderlich) und die Sozialleistungsbezuege (Wohnungswechsel) zu klaeren — DBA loest nur Steuerfragen.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Diaspora-Konstellation, Wohnsitze, DRV-Bezug, Bauausfuehrung, Beteiligungen.
+2. **Strukturierung**: Mittelpunkt Lebensinteressen pruefen; bei Wegzug Wegzugsbesteuerung § 6 AStG (RS/ME Drittland).
+3. **Antraege**: Ansaessigkeitsbescheinigung Poreska uprava (RS) bzw. Steuerverwaltung Montenegro; BZSt-Erstattung (oder Vorab-Freistellung).
+4. **Laufende Compliance**: RS/ME-Erklaerung jaehrlich (oft formalistisch); DE-Erklaerung mit Anrechnung; bei Pensionaeren mit Wohnsitz RS/ME Lebensbescheinigung an DRV.
+5. **Audit-Vorbereitung**: RS/ME-Pruefer beschraenkte Kapazitaeten; DE-FA-Pruefung Tie-Breaker und Mittelpunkt Lebensinteressen-Indizien.
+
+## Ausgabeformat fuer Mandanten-Memo Serbien/Montenegro
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Diaspora-Konstellation, Wohnsitze, DRV-Bezug, Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht Rente/Beteiligung, Wohnsitzstaat-Pruefung, EU-Beitrittsperspektive.
+3. **Kurzantwort**: DBA-Jugoslawien 1987 (fortgeltend) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-Jugoslawien 1987; Nachfolge-Bekanntmachungen).
+   - Mittelpunkt Lebensinteressen bei Diaspora pruefen.
+   - Einkunftsart (DRV-Rente Art. 18, Beteiligung Art. 11 DBA-Jugoslawien 1987).
+   - Methodenartikel (Anrechnung ueberwiegend).
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 49 EStG bei beschraenkter Steuerpflicht).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: aelteres DBA mit roemischen Artikelnummern, kein MLI, EU-Beitrittsperspektive, Apostille bei Urkunden.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Jugoslawien 1987 Fundstellen, Nachfolge-Notenwechsel (Serbien 1997, Montenegro 2011) verbindlich zitieren. Bei DRV-Rente Bescheinigung als Anlage.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-slowenien`, `stb-dba-kroatien`.

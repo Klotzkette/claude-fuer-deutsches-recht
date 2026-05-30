@@ -114,6 +114,36 @@ DE-Mutter haelt 100 Prozent an schwedischer AB; SE-Gewinn 300.000 EUR, SE-KSt 20
 
 Bei Hauptanwendungsfall naeringsbetingad-Veraeusserung: SE-AB veraeussert Anteile an EU-Tochter steuerfrei; bei Liquidation und Ausschuettung an DE-Mutter: § 4k EStG pruefen (Verhinderung doppelter Nichtbesteuerung).
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Beteiligung Volvo/Ericsson, naeringsbetingad-Holding, Pendler, Pension ATP).
+2. **Strukturierung**: Bei Holding naeringsbetingad-Status und § 4k EStG-Pruefung; bei Pension Art. 18 Wohnsitzstaat vs. Kassenstaat.
+3. **Antraege**: Ansaessigkeitsbescheinigung Skatteverket; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: SE-Erklaerung digital sehr ausgereift; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
+5. **Audit-Vorbereitung**: SE-Pruefung digital effizient; DE-FA-Pruefung § 4k EStG bei naeringsbetingad und Aenderungsprotokoll 2023/2024.
+
+## Ausgabeformat fuer Mandanten-Memo Schweden
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Beteiligung an AB, naeringsbetingad-Holding, Pendler, Pension), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Naeringsbetingad-Sondersteuerregime, Wegzugsbesteuerung.
+3. **Kurzantwort**: DBA-Schweden 1992 Art. X regelt das Besteuerungsrecht; Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-SE 1992).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+   - Methodenartikel (Art. 23 — Freistellung aktive Einkuenfte / Anrechnung passive).
+   - § 4k EStG bei Hybridmismatch.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Aenderungsprotokoll 2023/2024, § 50d Abs. 3 EStG, MLI-Anwendung.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Schweden 1992 mit Aenderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-norwegen`, `stb-dba-finnland`, `stb-dba-daenemark`.

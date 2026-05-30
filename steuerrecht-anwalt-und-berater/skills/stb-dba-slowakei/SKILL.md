@@ -110,6 +110,14 @@ DE-GmbH haelt 100 Prozent an slowakischer s.r.o.; SK-Gewinn 80.000 EUR jaehrlich
 
 Bei aktivem operativen Geschaeft (Aktivitaetskatalog § 8 Abs. 1 AStG erfuellt) keine CFC-Hinzurechnung.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Automotive-Werk, Holding, Werkvertrag mit Sub-SK).
+2. **Strukturierung**: SK-KSt-Staffel pruefen; bei aktivem Geschaeft Aktivitaetskatalog § 8 AStG; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung Finančné riaditeľstvo; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: SK-Buchfuehrungspflichten und Verrechnungspreis-Dokumentation; DE-Erklaerung mit Anrechnung.
+5. **Audit-Vorbereitung**: SK-Pruefer akribisch bei Verrechnungspreisen; DE-FA bei Substanz und CFC-Pruefung.
+
 ## Ausgabeformat fuer Mandanten-Memo Slowakei
 
 Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):

@@ -124,6 +124,29 @@ Ukrainischer IT-Spezialist mit Wohnsitz Kyiv, FOP-Status, erbringt Software-Dien
 - DE-Auftraggeber Aufwand als BA abzugsfaehig.
 - Praxis: kriegsbedingt oft Verzoegerungen, Devisenkontrolle bei Eingang in UA. Bei Fluechtlings-IT-Spezialisten mit Wohnsitz DE: unbeschraenkte Steuerpflicht DE, deutsche Lohn- bzw. Einkommensteuer.
 
+## Ausgabeformat fuer Mandanten-Memo Ukraine
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Outsourcing, Pflege, Fluechtling, Holding), Zeitraum mit Kriegsbezug.
+2. **Frage(n)**: Besteuerungsrecht, Tie-Breaker bei Fluechtlingen, Devisenkontrolle, Sanktionsstatus.
+3. **Kurzantwort**: DBA-Ukraine 1995 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-UA 1995).
+   - Mittelpunkt Lebensinteressen bei Fluechtlingen pruefen.
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+   - Methodenartikel.
+   - Sanktions-Compliance EU-VO 833/2014.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Kriegsfolgen, Devisenkontrolle, EU-Beitrittskandidat 2022, MLI-Status, Neuverhandlungen DBA.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Ukraine 1995 Fundstellen, BMF-Schreiben zur Ukraine, EU-Sanktionsverordnungen verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-russland-suspendierung-2024`, `stb-dba-serbien-montenegro`.

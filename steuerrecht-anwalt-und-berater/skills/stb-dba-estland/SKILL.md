@@ -115,6 +115,36 @@ Deutscher Mandant gruendet ueber estnische e-Residency eine OÜ; Gewinn 100.000 
 - DE-Anrechnung EE-Distribution-Tax 25.000 EUR auf DE-Abgeltungsteuer 19.781 EUR: nur bis Hoehe DE-Steuer 19.781 EUR anrechenbar — Anrechnungsueberhang 5.219 EUR verloren.
 - Praxis: bei Substanz und richtigem POEM ist Estland fuer IT-Dienstleister attraktiv, aber bei Ausschuettung kein Steuervorteil gegenueber DE; bei langjaehriger Einbehaltung Steueraufschub-Vorteil.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (IT-Holding, OÜ-Geschaeftstaetigkeit, e-Residency-Modell, Beteiligung).
+2. **Strukturierung**: POEM-Pruefung bei e-Residency; Distribution-Tax-System mit Aufschub-Strategie; CFC-Pruefung; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung MTA ueber e-MTA-Portal; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: EE-Erklaerung jaehrlich (sehr digitalisiert); DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
+5. **Audit-Vorbereitung**: EE-Pruefung digital effizient; DE-FA-Pruefung CFC-Berechnung und POEM-Indizien.
+
+## Ausgabeformat fuer Mandanten-Memo Estland
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Holding, OÜ, e-Residency), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Distribution Tax, e-Residency-Substanz, CFC.
+3. **Kurzantwort**: DBA-Estland 1996 (mit Aenderungsprotokoll 2020) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-EE; POEM bei e-Residency).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+   - Methodenartikel.
+   - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: e-Residency-POEM, CFC bei Estonian Tax Model, Pillar Two, Aenderungsprotokoll 2020 ab 01.01.2022, MLI bilaterale Umsetzung.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Estland 1996 mit Aenderungsprotokoll 2020 Fundstellen, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-lettland`, `stb-dba-litauen`.

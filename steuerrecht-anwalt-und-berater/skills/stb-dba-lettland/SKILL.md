@@ -110,6 +110,36 @@ DE-Mutter haelt 100 Prozent an lettischer SIA, die ihre Gewinne ueberwiegend ein
 
 Bei Ausschuettung 2026 (Beispiel): LV-Distribution-Tax 20/80 = 50.000 EUR; an DE-Mutter 150.000 EUR netto; DE § 8b KStG 95 Prozent steuerfrei.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Mittelstand, IT, Logistik Riga, SIA-Holding).
+2. **Strukturierung**: Distribution-Tax-System pruefen — Einbehaltung vs. Ausschuettung; bei Holding Substanz § 50d Abs. 3 EStG.
+3. **Antraege**: Ansaessigkeitsbescheinigung VID; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: LV-Erklaerung jaehrlich; DE-Erklaerung mit ggf. CFC-Hinzurechnung.
+5. **Audit-Vorbereitung**: bei LV-Pruefung Verrechnungspreis-Dokumentation; bei DE-FA-Pruefung CFC-Berechnung und Substanznachweis.
+
+## Ausgabeformat fuer Mandanten-Memo Lettland
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Mittelstand, IT, Logistik Riga, SIA), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Distribution-Tax-System (seit 2018), CFC, Pillar Two.
+3. **Kurzantwort**: DBA-Lettland 1997 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-LV 1997).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+   - Methodenartikel.
+   - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Distribution-Tax-System seit 2018, CFC, Pillar Two, MLI-Status.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Lettland 1997 Fundstellen, BZSt-Tabelle 2025, BMF-Schreiben verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-estland`, `stb-dba-litauen`.

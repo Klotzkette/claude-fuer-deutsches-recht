@@ -111,6 +111,14 @@ DE-GmbH liefert eine Maschine an tschechische s.r.o. und erhaelt eine Lizenzgebu
 
 Bei nicht verbundenen Unternehmen bleibt die DBA-QSt 5 Prozent; in der Praxis lohnt der Erstattungsantrag bei der Finanční správa nur bei wiederkehrenden Lizenzzahlungen.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Automotive-Entsendung, Beteiligung, Holding, Werkvertrag).
+2. **Strukturierung**: Bei Werkvertraegen vs. AUe trennscharfe Vertragsgestaltung; bei Bau-Aktivitaeten 12-Monatsfrist; bei Holding Substanz.
+3. **Antraege**: Ansaessigkeitsbescheinigung Finanční správa; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: CZ-Buchfuehrung mit EET; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
+5. **Audit-Vorbereitung**: CZ-Pruefung Verrechnungspreis-Dokumentation; DE-FA-Pruefung § 50d Abs. 3 EStG-Substanz und MLI-Anwendung ab 01.01.2026.
+
 ## Ausgabeformat fuer Mandanten-Memo Tschechien
 
 Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):

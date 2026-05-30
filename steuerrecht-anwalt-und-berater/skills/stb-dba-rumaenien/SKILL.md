@@ -113,6 +113,35 @@ Pflegekraft mit Wohnsitz und Familie in Rumaenien, Arbeitseinsatz in DE bei priv
 - Erklaerungspflicht in RO: Welteinkommen, mit Anrechnung der DE-Steuer (RO ist Methodenartikel nach DBA-RO Anrechnung).
 - Praxisproblem: oft fehlende A1, mangelnde Lohnabrechnung — Pruefer triggert auf undokumentierte Konstellationen.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Konstellation (Automotive-Werk, IT-Outsourcing, Pflege-Arbeitnehmer, Holding).
+2. **Strukturierung**: Bei Pflege Werkvertrag- vs. AUe-Pruefung; bei Holding Substanz; bei Mikrosteuer-Regime CFC.
+3. **Antraege**: Ansaessigkeitsbescheinigung ANAF; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
+4. **Laufende Compliance**: RO-Erklaerung jaehrlich; DE-Erklaerung mit Freistellung mit Progressionsvorbehalt fuer aktive Einkuenfte und Anrechnung fuer passive.
+5. **Audit-Vorbereitung**: RO-Pruefer formalistisch — Dokumentation sorgfaeltig; DE-FA pruefer § 50d Abs. 9 EStG-Subject-to-Tax und MLI-Anwendung.
+
+## Ausgabeformat fuer Mandanten-Memo Rumaenien
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Werk, IT-Outsourcing, Pflege, Holding), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, RO-KSt-Niveau, A1-Bescheinigung Sozialversicherung.
+3. **Kurzantwort**: DBA-Rumaenien 2001 Art. X regelt das Besteuerungsrecht; Freistellung aktive Einkuenfte / Anrechnung passive.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-RO 2001).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+   - Methodenartikel (Art. 23 — Freistellung aktive Einkuenfte, Anrechnung passive).
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: Pflege-Arbeitnehmer-A1, RO-Mikrosteuer-Regime, § 50d Abs. 9 EStG, MLI-Status.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Rumaenien 2001 Fundstellen, BMF-Schreiben zur Pflege-Arbeitnehmer-Besteuerung verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-bulgarien`, `stb-dba-ungarn`.

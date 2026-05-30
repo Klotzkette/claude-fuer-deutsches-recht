@@ -109,6 +109,36 @@ DE-Lizenzeinkunft in der Bilanz: 30.000 EUR, KSt+SolZ rund 15,825 Prozent = 4.74
 
 Variante mit EU-ZinsLizenzRL spart 1.500 EUR SI-QSt und vermeidet Anrechnungsverlust bei abweichender Per-Country-Limitation.
 
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Mandantengespraech zur Konstellation (operatives Geschaeft vs. Holding; Tourismus-Adria vs. Mittelstand).
+2. **Strukturierung**: Pruefung Bestandsstrukturen und ggf. Anpassung (POEM, Substanz, Verrechnungspreise).
+3. **Antraege**: Ansaessigkeitsbescheinigung FURS und ggf. EU-MTRL/EU-ZinsLizenzRL-Freistellung beim BZSt.
+4. **Laufende Compliance**: jaehrliche Erklaerung SI und DE; bei Holding Substanzdokumentation.
+5. **Audit-Vorbereitung**: bei SI-Pruefung sorgfaeltige Verrechnungspreisdokumentation; bei DE-FA-Pruefung § 50d Abs. 3 EStG-Substanznachweis.
+6. **Schlussbescheid**: SI-FA gewaehrt Erstattung; DE-FA setzt nachversteuerten Resteuerbetrag fest; Verstaendigungsverfahren bei Auslegungsdifferenzen.
+
+## Ausgabeformat fuer Mandanten-Memo Slowenien
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Zulieferer, Tourismus-Beteiligung, Holding), Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, EU-Recht-Anwendung.
+3. **Kurzantwort**: DBA-Slowenien 2006 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-SI 2006).
+   - Sachliche Anwendbarkeit (Art. 2).
+   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen.
+   - Methodenartikel.
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: § 50d Abs. 3 EStG, MLI ab VZ 2021 (PPT-Klausel).
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Slowenien 2006 Fundstellen, BMF-Schreiben, MLI-Synthesetext verbindlich zitieren.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-kroatien`, `stb-dba-italien`.
