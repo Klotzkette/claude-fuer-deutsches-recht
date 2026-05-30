@@ -1,3 +1,12 @@
+# v50.5.1 — Komplettpaket-ZIP enthält jetzt `skills-index/`
+
+Bugfix für ein Codex-P2-Finding zu v50.4.0: Die `alles-komplettpaket.zip` aus dem Release-Workflow enthielt zwar die schlanke `SKILLS.md`, aber nicht den Ordner `skills-index/` mit den Detailseiten. Dadurch zeigten alle Plugin-Links der Übersichtstabelle im Offline-ZIP ins Leere.
+
+## Änderungen
+
+- `.github/workflows/release-plugin-zips.yml`: Beim Bauen von `alles-komplettpaket.zip` wird `skills-index/` mit nach `uebersichten/skills-index/` kopiert, damit die relativen Links der `SKILLS.md` im ZIP auflösen.
+- Marketplace-Version `50.5.0` → `50.5.1`.
+
 # v50.5.0 — Testakten-Qualitätssprung und Gesamt-PDF-Regel
 
 User-Wunsch: Die Testakten sollen sich wie echte, disparat gewachsene Mandatsakten anfühlen und zugleich jeweils als ein sauberes Gesamt-PDF bereitstehen. Besonders die Rosengarten-Nachbarschaftsakte sollte nach Perplexitys Ausbau nochmals dichter, realistischer und technisch sauberer werden.

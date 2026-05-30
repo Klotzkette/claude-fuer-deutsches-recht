@@ -107,6 +107,12 @@ jobs:
             done
           fi
           cp README.md SKILLS.md ASSET_INDEX.md CHANGELOG.md dist/komplettpaket/uebersichten/
+          # skills-index/ enthaelt die pro-Plugin-Detailseiten, auf die SKILLS.md
+          # mit relativen Links zeigt. Ohne diesen Ordner waeren die Links im
+          # ZIP-Download ins Leere gerichtet.
+          if [ -d skills-index ]; then
+            cp -R skills-index dist/komplettpaket/uebersichten/skills-index
+          fi
           (cd dist/komplettpaket && zip -rq "../alles-komplettpaket.zip" . -x '*.DS_Store')
           rm -rf dist/komplettpaket
 
