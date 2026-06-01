@@ -43,12 +43,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
   - **Beschuldigter <-> Geschaedigte:** Beziehungsart (Bekannte, Familie, Geschaeftspartner, fremd); Bedeutung fuer Vorsatz / Motiv / Strafzumessung § 46 StGB.
   - **Mitbeschuldigte untereinander:** Mittaeterschaft § 25 II StGB vs. Beihilfe § 27 StGB vs. mittelbare Taeterschaft § 25 I 2 StGB.
   - **Beschuldigter <-> Zeugen:** Verwandtschaft (§ 52 StPO Zeugnisverweigerung), Bekanntschaft (Beeinflussungsrisiko).
-  - **Mitwirkende Bandenmitglieder § 244 IV StGB / § 263 V StGB:** Bandentatbestand erfuellt? Mindestens 3 Personen + auf fortgesetzte Begehung gerichtete Vereinbarung.
+  - **Mitwirkende Bandenmitglieder § 244 I Nr. 2 StGB (Bandendiebstahl) / § 244a StGB (schwerer Bandendiebstahl) / § 263 V StGB (Bandenbetrug):** Bandentatbestand erfuellt? Mindestens 3 Personen + auf fortgesetzte Begehung gerichtete Vereinbarung.
 - **Bandentatbestand-Schwellenwerte (BGH-Linie):**
   - Mindestens 3 Personen (Bandengruppe).
   - Vereinbarung auf fortgesetzte Begehung mehrerer selbstaendiger Taten.
   - Tat muss Bandentat sein (kein blosser Gelegenheitsverstoss).
-  - Strafrahmen-Schwerpunkt: § 244 IV (Bandendiebstahl) 6 Monate bis 10 Jahre Freiheitsstrafe; § 244a (schwere Bande) bis 15 Jahre.
+  - Strafrahmen-Schwerpunkt: § 244 I Nr. 2 StGB (Bandendiebstahl) 6 Monate bis 10 Jahre Freiheitsstrafe; § 244a StGB (schwerer Bandendiebstahl) 1 bis 10 Jahre Freiheitsstrafe; § 263 V StGB (Bandenbetrug) 1 bis 10 Jahre. § 244 Abs. 4 StGB ist demgegenueber Wohnungseinbruchsdiebstahl in dauerhaft genutzter Privatwohnung mit Strafrahmen 1 bis 10 Jahre und nicht Bandendelikt.
 - **Mittaeterschafts-/Beihilfe-Abgrenzung:**
   - Tatherrschaft + gemeinsamer Tatplan -> Mittaeter § 25 II.
   - Untergeordneter Tatbeitrag, Foerderungswille -> Beihilfe § 27 StGB (Strafmilderung § 27 II 2 StGB).

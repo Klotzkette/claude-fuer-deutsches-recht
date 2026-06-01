@@ -37,9 +37,9 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Verkehrsrecht-Livecheck-Kernquellen
 - **StVG:** §§ 7, 17, 18 (Halter- und Fahrerhaftung); §§ 24, 24a, 24c (OWi); § 25 (Fahrverbot); § 26 III (Verjaehrung OWi); § 29 (KBA-Auskunft); § 4 (FAER); § 11 (FE-Aufsicht).
 - **StVO** (aktuelle Fassung beachten - haeufige Aenderungen): §§ 1-53 Verkehrsregeln; Anlage 1-3 Verkehrszeichen.
-- **FeV** (Fahrerlaubnis-Verordnung): §§ 7-9 (Wohnsitz), §§ 11-14 (Eignung, MPU), §§ 20 ff. (Wiedererteilung), Anlage 4 (Erkrankungen), Anlage 12 (Punktekatalog).
+- **FeV** (Fahrerlaubnis-Verordnung): §§ 7-9 (Wohnsitz), §§ 11-14 (Eignung, MPU), §§ 20 ff. (Wiedererteilung), Anlage 4 (Erkrankungen), Anlage 13 zu § 40 FeV (Punktekatalog FAER).
 - **BKatV** (Bussgeldkatalog-VO): Tatbestandsnummern, Regelsaetze, Punkte, Fahrverbote - **stets aktuelle Anlage pruefen**.
-- **StGB-Verkehrsdelikte:** §§ 142 (Unfallflucht), 222, 229 (Fahrlaessige Tatfolgen), 240 (Noetigung), 248b (Kraftfahrzeugdiebstahl), 315b (gefaehrliche Eingriffe), 315c (Gefaehrdung StraVerkehr), 315d (Rennen), 316 (Trunkenheit im Verkehr).
+- **StGB-Verkehrsdelikte:** §§ 142 (Unfallflucht), 222, 229 (Fahrlaessige Tatfolgen), 240 (Noetigung), 248b (unbefugter Gebrauch eines Fahrzeugs), 315b (gefaehrliche Eingriffe), 315c (Gefaehrdung StraVerkehr), 315d (Rennen), 316 (Trunkenheit im Verkehr).
 - **OWiG:** §§ 17, 25, 65-72, 79, 80.
 - **Zivilrecht-Verkehr:** §§ 823, 254 BGB; § 115 VVG (Direktanspruch KH); § 116 SGB X (Forderungsuebergang Sozialversicherungstraeger), § 86 VVG (Forderungsuebergang Privatversicherer); PflVG.
 - **Massregeln StGB:** § 44 (Fahrverbot Strafrecht), § 69 (Entziehung Fahrerlaubnis), § 69a (Sperre).

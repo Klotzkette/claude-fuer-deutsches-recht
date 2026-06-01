@@ -1,3 +1,19 @@
+# v54.0.0 — German Legal AI Plugins and Skills
+
+Major-Release zur Stabilisierung des Gesamtwerks: 119 Plugins, 7579 Skills, 129 Testakten. Codex-Findings Runde 5 eingearbeitet, READMEs poliert, Validator und Smoke-Tests grün.
+
+## Schwerpunkt
+
+- **Codex-Findings v5 behoben (P2):** `aktenaufbereiter-strafrecht` Bandendiebstahl-Zitate korrigiert (§ 244 I Nr. 2 / § 244a / § 263 V statt fälschlich § 244 IV, Strafrahmen Wohnungseinbruchsdiebstahl § 244 Abs. 4 klargestellt). `verkehrsowi-verteidiger` und `fachanwalt-verkehrsrecht`: § 25 OWiG (Einziehung) statt Fahrlässigkeit, § 10 OWiG ergänzt, FeV-Punktekatalog von „Anlage 12“ auf **„Anlage 13 zu § 40 FeV (Punktekatalog FAER)“** korrigiert, § 248b StGB als „unbefugter Gebrauch eines Fahrzeugs“ statt „Kraftfahrzeugdiebstahl“.
+- READMEs (Haupt-README, SKILLS.md, Testakten-README) auf `v54.0.0` synchronisiert.
+- Validator und Plugin-Struktur-Check grün; Drift in Testaktenübersicht entfernt.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, ZIP-Bau und Release-ZIP-Validierung werden vor Tagging ausgeführt.
+
+---
+
 # v53.6.0 — Robotik-Recht-Plugin mit großer Demonstrationsakte
 
 Neues Plugin `robotik-recht` für physische Robotik in Deutschland und der EU: Maschinenverordnung, KI-VO, Produkthaftung, Produktsicherheit, Datenschutz, Cyber Resilience Act, Data Act, Medizinrobotik, Arbeitsschutz, Marktüberwachung, Rückruf, Verträge und Streitfall.
