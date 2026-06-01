@@ -26,8 +26,8 @@ Nutze diesen Skill für **Automatische Verlängerung** im deutschen AGB-Recht, w
 5. **Spezialfokus Automatische Verlaengerung (§ 309 Nr. 9 BGB n.F. seit 01.03.2022):**
    - **Verbrauchervertraege ueber wiederkehrende Lieferung von Waren/Dienstleistungen:** Maximal 2 Jahre Erstlaufzeit; danach nur Verlaengerung auf unbestimmte Zeit mit Kuendigung jederzeit mit Frist max. 1 Monat.
    - **§ 309 Nr. 9 lit. a:** Vertragslaufzeit > 2 Jahre - im B2C unwirksam.
-   - **§ 309 Nr. 9 lit. b:** Verlaengerung bei unterbliebener Kuendigung > 1 Jahr - unwirksam.
-   - **§ 309 Nr. 9 lit. c:** Kuendigungsfrist > 1 Monat zum Ablauf der Anfangslaufzeit/Verlaengerung - unwirksam.
+   - **§ 309 Nr. 9 lit. b BGB n.F.:** Stillschweigende Verlaengerung um eine bestimmte Dauer ist in B2C-Vertraegen ueber wiederkehrende Lieferung/Dienste generell unwirksam. Zulaessig ist nur die Verlaengerung auf unbestimmte Zeit, sofern der Verbraucher jederzeit mit einer Frist von hoechstens einem Monat kuendigen kann. Achtung: Die alte Schwelle "Verlaengerung > 1 Jahr unwirksam" gilt seit dem 01.03.2022 nicht mehr - auch eine 12-Monats-Verlaengerung ist im B2C unwirksam.
+   - **§ 309 Nr. 9 lit. c BGB n.F.:** Kuendigungsfrist zum Ablauf der Anfangslaufzeit oder einer Verlaengerung von mehr als einem Monat - unwirksam (B2C).
    - **§ 312k BGB (Kuendigungsbutton fuer Online-Vertraege):** Verbrauchervertraege im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen muessen einen Kuendigungsbutton aufweisen, der ohne Login erreichbar ist. Verstoss: jederzeit kuendbar.
    - **B2B-Wertung ueber § 307 BGB:** Erstlaufzeiten > 2 Jahre und Verlaengerungen > 1 Jahr im B2B kritisch, insbesondere bei branchenuntypisch langen Bindungen. Ausnahme: substantielle Investitionsamortisation (Server-Hosting, Lieferketten mit Vorlaufzeiten) sachlich begruendbar.
    - **EU-Verbraucherrechtsrichtlinie 2011/83/EU Art. 27:** Verbot unaufgeforderter Lieferungen mit Bindungswirkung; durch Stillschweigen keine Verlaengerung herbeifuehrbar.
