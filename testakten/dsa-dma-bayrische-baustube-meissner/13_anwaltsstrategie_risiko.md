@@ -1,7 +1,7 @@
 # Anwaltsstrategie und Risikobewertung — intern
 
 **Datum:** 20.05.2026
-**Verfasser:** Dr. Hagenroth + Quasthoff-Pruegelmann
+**Verfasser:** Dr. Hagenroth + Quasthoff-Prügelmann
 **Vertraulichkeit:** intern, anwaltliches Berufsgeheimnis
 
 ## A. Zielhierarchie
@@ -68,7 +68,7 @@ Frau Meißnerlein-Hochkönig will alle 7 Tage Statusbericht. Tag: Dienstag. Übe
 ## G. Nächste Schritte (Stand 20.05.2026)
 
 - 22.05.2026 Eilantrag final (Hagenroth)
-- 25.05.2026 DSC-Beschwerde abgeschickt (Quasthoff-Pruegelmann)
+- 25.05.2026 DSC-Beschwerde abgeschickt (Quasthoff-Prügelmann)
 - 26.05.2026 BayLDA-Beschwerde nachrichtlich (Pfistermeier)
 - 03.06.2026 BKartA-Beschwerdeentwurf § 19a GWB (Pfistermeier)
 - 10.06.2026 erste mediale Begleitung mit Mittelfränkischer Zeitung (nur Hintergrund, kein Zitat)

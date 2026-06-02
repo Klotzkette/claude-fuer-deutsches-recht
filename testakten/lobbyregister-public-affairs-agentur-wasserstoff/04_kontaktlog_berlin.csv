@@ -1,21 +1,21 @@
 datum,adressat,auftraggeber,person,kanal,minuten,erstkontakt,offenlegung_ok,thema,notiz
 2026-04-08,BMWK Referat III B 2,HansaH2,Lea Sommer,E-Mail,n.a.,ja,ja,Speicherprivilegierung WBG,Erstanschreiben mit Mandatsoffenlegung
 2026-04-10,Bundestag MdB Karin Reimers (Finanzausschuss),HansaH2,Lea Sommer,Telefon,18,ja,ja,Speicher und Netzentgeltbefreiung,Erstkontakt; Offenlegung erfolgt
-2026-04-12,Bundestag Buero MdB Albrecht (Verkehr),HansaH2,Nils Tietjen,E-Mail,n.a.,ja,unklar,Wasserstofftransport,Offenlegungssatz nicht klar dokumentiert; Nachholung 19.04.2026
+2026-04-12,Bundestag Büro MdB Albrecht (Verkehr),HansaH2,Nils Tietjen,E-Mail,n.a.,ja,unklar,Wasserstofftransport,Offenlegungssatz nicht klar dokumentiert; Nachholung 19.04.2026
 2026-04-15,BMWK Referatsleitung,HansaH2,Lea Sommer,Termin vor Ort,52,ja,ja,Speicherprivilegierung; Gesetzeskonzept,Mara Wendt als Begleitung
 2026-04-16,BMF Referat Energie,Nordsee Elektrolyse,Tarek Abadi,Teams,32,ja,ja,Netzentgeltprivileg Elektrolyseure,Tarek im Doppelrolle (Auftraggeber-GbR und Spreebogen-Berater)
 2026-04-18,Fraktion Arbeitsgruppe Wirtschaft,HansaH2,Lea Sommer,E-Mail,n.a.,ja,ja,Mehrere AG-Mitglieder,3 Adressaten
 2026-04-20,BMDV Referat,HansaH2,Nils Tietjen,Telefon,14,ja,ja,Planungsbeschleunigung Speicher,fachlich
-2026-04-22,Bundestag Ausschusssekretariat Wirtschaft,beide,Lea Sommer,E-Mail,n.a.,nein,ja,Terminkoordination Fachgespraech,allgemeine Anfrage; nicht meldungspflichtig im engeren Sinn
+2026-04-22,Bundestag Ausschusssekretariat Wirtschaft,beide,Lea Sommer,E-Mail,n.a.,nein,ja,Terminkoordination Fachgespräch,allgemeine Anfrage; nicht meldungspflichtig im engeren Sinn
 2026-04-24,Hessisches LV Berlin,HansaH2,Nils Tietjen,Termin,40,ja,ja,Bundesratsdiskussion,Landesvertretung Bund
 2026-04-28,BMWK Referat III B 2,beide,Lea Sommer,Teams,45,nein,ja,Verbindung Speicher und Elektrolyse,gemischter Kontakt
 2026-04-29,Bundestag MdB Tom Albrecht (Verkehr),HansaH2,Lea Sommer,Termin Hotel Aquino,72,nein,ja,Speicher und Verkehrslogistik,Reisekosten 1.480 EUR auf HansaH2 (s. 09_finanzdaten)
 2026-04-30,BMF Referatsleitung,Nordsee Elektrolyse,Tarek Abadi,Telefon,22,nein,ja,Netzentgeltprivileg,Abadi laut Slack-Export
 2026-05-02,BMWK Leitungsebene,HansaH2,Nils Tietjen,Termin Ministerium,68,ja,ja,Speicherprivilegierung,Mit Mara Wendt
-2026-05-05,Bundestag MdB Maxine Cordova (Energie),Nordsee Elektrolyse,Tarek Abadi,Telefon,28,ja,ja,Anschlussprivileg fuer Elektrolyseure,Erstkontakt
+2026-05-05,Bundestag MdB Maxine Cordova (Energie),Nordsee Elektrolyse,Tarek Abadi,Telefon,28,ja,ja,Anschlussprivileg für Elektrolyseure,Erstkontakt
 2026-05-07,Fraktion AG Energie,beide,Lea Sommer,Teams,55,nein,ja,Gesamtsicht Wasserstoffwirtschaft,zwei AG-Mitglieder
 2026-05-09,Bundestag Mitarbeitender Tobias Pauli (Energie-AG),beide,Lea Sommer,E-Mail,n.a.,ja,ja,Hintergrund Wasserstoffmarkt,Hintergrundkontakt
-2026-05-12,Bundestag MdB Reimers,HansaH2,Nils Tietjen,Telefon,24,nein,nein,gemischter Kontakt,im Gespraech wurden BEIDE Auftraggeber erwaehnt obwohl Mandat HansaH2; Offenlegung unsauber
+2026-05-12,Bundestag MdB Reimers,HansaH2,Nils Tietjen,Telefon,24,nein,nein,gemischter Kontakt,im Gespräch wurden BEIDE Auftraggeber erwähnt obwohl Mandat HansaH2; Offenlegung unsauber
 2026-05-13,BMWK Staatssekretariat,HansaH2,Lea Sommer,Termin,38,nein,ja,Speicherprivilegierung,
 2026-05-15,BMF Referatsleitung,HansaH2,Nils Tietjen,Teams,29,nein,ja,Netzkostenmodell,
 2026-05-15,BMWK Referat III B 2,Nordsee Elektrolyse,Tarek Abadi,Teams,18,nein,ja,Elektrolyseschwerpunkt,
@@ -25,8 +25,8 @@ datum,adressat,auftraggeber,person,kanal,minuten,erstkontakt,offenlegung_ok,them
 2026-05-20,BMWK Referat III B 2,HansaH2,Lea Sommer,E-Mail mit Anhang,n.a.,nein,ja,Versand Stellungnahme HansaH2,Stellungnahme grundlegend
 2026-05-20,BMF Referat Energie,HansaH2,Lea Sommer,E-Mail mit Anhang,n.a.,nein,ja,Versand Stellungnahme HansaH2,Stellungnahme grundlegend
 2026-05-21,Bundestag MdB Maxine Cordova,Nordsee Elektrolyse,Tarek Abadi,Telefon,16,nein,ja,Pilotprojekte,
-2026-05-24,BMWK Staatssekretariat,beide,Lea Sommer,E-Mail,n.a.,ja,ja,Strategiegespraech,gemeinsamer Termin angefragt
+2026-05-24,BMWK Staatssekretariat,beide,Lea Sommer,E-Mail,n.a.,ja,ja,Strategiegespräch,gemeinsamer Termin angefragt
 2026-05-24,BMWK Referat III B 2,Nordsee Elektrolyse,Lea Sommer,E-Mail mit Anhang,n.a.,nein,ja,Versand Stellungnahme Konsortium,Stellungnahme grundlegend; Q2-Upload
 2026-05-24,Bundestag MdB Aisha Karim,Nordsee Elektrolyse,Lea Sommer,E-Mail mit Anhang,n.a.,nein,ja,Versand Stellungnahme Konsortium,Stellungnahme grundlegend
-2026-05-26,Bundestag Buero MdB Albrecht,HansaH2,Nils Tietjen,Telefon,12,nein,ja,Nachfrage Speicher-Talking-Points,Begleitkontakt
+2026-05-26,Bundestag Büro MdB Albrecht,HansaH2,Nils Tietjen,Telefon,12,nein,ja,Nachfrage Speicher-Talking-Points,Begleitkontakt
 2026-05-27,Niedersachsen LV Berlin,Nordsee Elektrolyse,Tarek Abadi,Termin,33,ja,ja,Pilotstandort Norddeutschland,Landesvertretung

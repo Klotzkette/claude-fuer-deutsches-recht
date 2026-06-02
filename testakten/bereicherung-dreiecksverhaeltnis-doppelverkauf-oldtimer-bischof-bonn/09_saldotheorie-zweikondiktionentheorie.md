@@ -1,7 +1,7 @@
-# 09 Saldotheorie vs. Zweikondiktionentheorie — Rueckabwicklung Kaufvertrag
+# 09 Saldotheorie vs. Zweikondiktionentheorie — Rückabwicklung Kaufvertrag
 
 **Aktenzeichen:** LG Bonn 16 O 211/26
-**Rechtsfrage:** Welche Theorie gilt bei der Rueckabwicklung des Kaufvertrags Bischof-Hellberg / Bagheri-Aichholz?
+**Rechtsfrage:** Welche Theorie gilt bei der Rückabwicklung des Kaufvertrags Bischof-Hellberg / Bagheri-Aichholz?
 
 ---
 

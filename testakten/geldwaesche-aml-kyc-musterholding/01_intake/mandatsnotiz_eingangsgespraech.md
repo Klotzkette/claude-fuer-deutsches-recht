@@ -1,9 +1,9 @@
 # Mandatsnotiz – Eingangs­gespräch AML/GwG-Beratung
 
 **Aktenzeichen:** 2026/AML/047-MH  
-**Verfasserin:** RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld  
+**Verfasserin:** RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld  
 **Datum des Gesprächs:** 05.05.2026, 10:00–12:15 Uhr  
-**Ort:** Konferenzraum Kanzlei Heller & Schoenfeld, Taunusanlage 8, 60329 Frankfurt am Main  
+**Ort:** Konferenzraum Kanzlei Heller & Schönfeld, Taunusanlage 8, 60329 Frankfurt am Main  
 **Notiz-Nr.:** MN-2026-047-001  
 
 ---
@@ -12,8 +12,8 @@
 
 | Person | Funktion |
 |---|---|
-| RA Dr. Franziska Heller | Beratende Anwältin (Kanzlei Heller & Schoenfeld) |
-| RAin Miriam Schoenfeld | Mitwirkende Anwältin (Kanzlei Heller & Schoenfeld) |
+| RA Dr. Franziska Heller | Beratende Anwältin (Kanzlei Heller & Schönfeld) |
+| RAin Miriam Schönfeld | Mitwirkende Anwältin (Kanzlei Heller & Schönfeld) |
 | Klaus-Dieter Brenner | Geschäftsführer Musterholding GmbH |
 | Sabine Wollner | Geschäftsführerin, Finanzen/Compliance-Aufsicht |
 | Thomas Eckhardt | Geldwäschebeauftragter (intern) |
@@ -106,5 +106,5 @@ Gemäß § 47 GwG darf die Musterholding GmbH weder den Betroffenen noch Dritten
 
 ---
 
-*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld, Frankfurt am Main*  
+*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld, Frankfurt am Main*  
 *Verteiler: Mandatsakte 2026/AML/047-MH (intern); Klaus-Dieter Brenner, Musterholding GmbH; Thomas Eckhardt*

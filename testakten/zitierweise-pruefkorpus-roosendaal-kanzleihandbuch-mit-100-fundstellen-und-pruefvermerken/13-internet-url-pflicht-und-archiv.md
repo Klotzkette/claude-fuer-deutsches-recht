@@ -7,7 +7,7 @@
 
 ## A. URL-Pflicht
 
-Gemaess Hauszitierregel C.1 ist bei jeder Entscheidung, die frei online zugaenglich ist, die URL anzugeben. Quellen, die diese Pflicht ausloesen:
+Gemaess Hauszitierregel C.1 ist bei jeder Entscheidung, die frei online zugänglich ist, die URL anzugeben. Quellen, die diese Pflicht auslösen:
 
 - dejure.org (Rechtsprechungsnachweise, z.T. Volltext)
 - openjur.de (Volltext OLG, LG, BSG, BAG u.a.)
@@ -37,13 +37,13 @@ abrufbar unter: [URL] (abgerufen am TT.MM.JJJJ; archiviert unter: https://web.ar
 
 ## C. Stabilitaetsstufen
 
-| Quelle | Stabilitaet | Archivlink erforderlich? |
+| Quelle | Stabilität | Archivlink erforderlich? |
 |---|---|---|
-| bundesgerichtshof.de | Sehr hoch (staatlich) | Nein — zulaessig |
-| bundesverfassungsgericht.de | Sehr hoch (staatlich) | Nein — zulaessig |
-| bundesfinanzhof.de | Sehr hoch (staatlich) | Nein — zulaessig |
-| bverwg.de | Sehr hoch (staatlich) | Nein — zulaessig |
-| eur-lex.europa.eu | Sehr hoch (EU-amtlich) | Nein — zulaessig |
+| bundesgerichtshof.de | Sehr hoch (staatlich) | Nein — zulässig |
+| bundesverfassungsgericht.de | Sehr hoch (staatlich) | Nein — zulässig |
+| bundesfinanzhof.de | Sehr hoch (staatlich) | Nein — zulässig |
+| bverwg.de | Sehr hoch (staatlich) | Nein — zulässig |
+| eur-lex.europa.eu | Sehr hoch (EU-amtlich) | Nein — zulässig |
 | dejure.org | Hoch (stabil, 15+ Jahre) | Empfohlen, nicht zwingend |
 | openjur.de | Mittel (privates Projekt) | Empfohlen |
 | Sonstige private Server | Gering bis mittel | Ja — Pflicht (Kategorie B) |
@@ -57,7 +57,7 @@ abrufbar unter: [URL] (abgerufen am TT.MM.JJJJ; archiviert unter: https://web.ar
 https://web.archive.org/web/[14-stelliger-Timestamp]/[original-URL]
 ```
 
-**Timestamp:** JJJJMMTTHHMMSSS (z.B. 20250901000000 fuer 01.09.2025 00:00:00)
+**Timestamp:** JJJJMMTTHHMMSSS (z.B. 20250901000000 für 01.09.2025 00:00:00)
 
 **Beispiel:**
 ```
@@ -68,19 +68,19 @@ abrufbar unter: https://openjur.de/u/2312345.html (abgerufen am 01.10.2025; arch
 
 ## E. URLs in Druckerzeugnissen
 
-In Schriftsaetzen und Handbuchdruckversionen werden URLs vollstaendig ausgeschrieben. Ein QR-Code kann ergaenzt werden. Bei sehr langen URLs ist ein URL-Shortener zulaessig, sofern der Link dauerhaft stabil ist (kanzleiinternes Linkmanagement empfohlen).
+In Schriftsaetzen und Handbuchdruckversionen werden URLs vollständig ausgeschrieben. Ein QR-Code kann ergänzt werden. Bei sehr langen URLs ist ein URL-Shortener zulässig, sofern der Link dauerhaft stabil ist (kanzleiinternes Linkmanagement empfohlen).
 
 ---
 
-## F. Pruefpunkte URL-Audit
+## F. Prüfpunkte URL-Audit
 
-| Pruefpunkt | Pruefung |
+| Prüfpunkt | Pruefung |
 |---|---|
 | URL erreichbar | Manuell oder automatisiert testen |
 | HTTPS | Nur HTTPS-URLs (kein HTTP) |
 | Kein Redirect-Loop | Direktlink, kein Weiterleitung auf Suchseite |
 | Abrufdatum vorhanden | Format TT.MM.JJJJ |
-| Archivlink (wenn erford.) | Wayback-Machine-Link geprueft |
+| Archivlink (wenn erford.) | Wayback-Machine-Link geprüft |
 
 ---
 

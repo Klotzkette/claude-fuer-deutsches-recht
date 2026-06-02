@@ -1,13 +1,13 @@
-# 22 — Checkliste: Veroeffentlichung auf BVerfG-Website und Nachbereitung
+# 22 — Checkliste: Veröffentlichung auf BVerfG-Website und Nachbereitung
 
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
-**Stand:** Maerz 2026
+**Stand:** März 2026
 
 ---
 
-## I. Hintergrund: BVerfG-Veroeffentlichungspflichten
+## I. Hintergrund: BVerfG-Veröffentlichungspflichten
 
-Das Bundesverfassungsgericht veroeffentlicht saemtliche Entscheidungen (§ 30 II BVerfGG). Die Entscheidungen im Verfahren 1 BvR 188/26 werden auf der offiziellen BVerfG-Website zugaenglich gemacht.
+Das Bundesverfassungsgericht veröffentlicht sämtliche Entscheidungen (§ 30 II BVerfGG). Die Entscheidungen im Verfahren 1 BvR 188/26 werden auf der offiziellen BVerfG-Website zugänglich gemacht.
 
 **BVerfG-Datenbank:** [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/DE/Homepage/homepage_node.html)
 
@@ -21,7 +21,7 @@ Das Bundesverfassungsgericht veroeffentlicht saemtliche Entscheidungen (§ 30 II
 - [ ] Entscheidungstenor dokumentieren (Aktenzeichen, Datum, Entscheidungsformel)
 - [ ] Dr. Tannenberg-Roosendaal telefonisch informieren
 - [ ] Interne Kanzleirundrunde: Dr. Roosendaal-Eichmueller + RA Schwingenstein
-- [ ] Zutreffende Pressemitteilung (Version A oder B, Aktenstueck 21) freigeben
+- [ ] Zutreffende Pressemitteilung (Version A oder B, Aktenstück 21) freigeben
 - [ ] Pressemitteilung an Verteiler senden (SR, SZ, tagesschau.de, LTO, Klimareporter)
 
 ### B. Innerhalb von 24 Stunden
@@ -29,26 +29,26 @@ Das Bundesverfassungsgericht veroeffentlicht saemtliche Entscheidungen (§ 30 II
 - [ ] Volltext der Entscheidung von BVerfG-Website herunterladen (PDF)
 - [ ] Entscheidung rechtlich analysieren (Dr. Roosendaal-Eichmueller + Prof. Birkenhain)
 - [ ] Pruefung: Ist die Hauptsachefrage abschliessend entschieden oder noch offen?
-- [ ] Mandantschaft vollstaendig schriftlich informieren (BF 1-15)
-- [ ] Koordinationsgespraech Strafverfahren: Auswirkung auf § 27 SaarlVersG-Verfahren?
+- [ ] Mandantschaft vollständig schriftlich informieren (BF 1-15)
+- [ ] Koordinationsgespräch Strafverfahren: Auswirkung auf § 27 SaarlVersG-Verfahren?
 - [ ] Aktenvermerk erstellen (Aktenzeichen intern: MR-2026-VB-0312)
 
 ### C. Innerhalb von 1 Woche
 
-- [ ] Vollstaendige Entscheidungsanalyse erstellen (fuer evtl. Folgeverfahren)
+- [ ] Vollständige Entscheidungsanalyse erstellen (für evtl. Folgeverfahren)
 - [ ] Abschlussabrechnung Kanzlei an Initiative
-- [ ] BUND Saarland und Campact ueber Ergebnis informieren
-- [ ] Pruefung: Europaeischer Gerichtshof fuer Menschenrechte (EGMR) — Art. 11 EMRK — nur wenn BVerfG abweisend und neue Grundsatzfrage
-- [ ] Pruefung: Neue Versammlungsanmeldung fuer ein Nachfolgecampf (nach evtl. Aussetzung des Verbots)
-- [ ] Spendenverwendungsnachweis fuer Initiative erstellen
+- [ ] BUND Saarland und Campact über Ergebnis informieren
+- [ ] Pruefung: Europäischer Gerichtshof für Menschenrechte (EGMR) — Art. 11 EMRK — nur wenn BVerfG abweisend und neue Grundsatzfrage
+- [ ] Pruefung: Neue Versammlungsanmeldung für ein Nachfolgecampf (nach evtl. Aussetzung des Verbots)
+- [ ] Spendenverwendungsnachweis für Initiative erstellen
 
 ---
 
-## III. BVerfG-Veroeffentlichung — Technischer Ablauf
+## III. BVerfG-Veröffentlichung — Technischer Ablauf
 
 | Schritt | Ablauf |
 |---|---|
-| Entscheidungsdatum | BVerfG veroeffentlicht i.d.R. am Tag der Entscheidung oder am Folgetag |
+| Entscheidungsdatum | BVerfG veröffentlicht i.d.R. am Tag der Entscheidung oder am Folgetag |
 | Abruf Volltext | [bundesverfassungsgericht.de — Entscheidungen](https://www.bundesverfassungsgericht.de/DE/Entscheidungen/entscheidungen_node.html) |
 | Recherche nach AZ | Suche nach „1 BvR 188/26" in der BVerfG-Datenbank |
 | Download | PDF-Volltext + ggf. Pressemitteilung getrennt |
@@ -61,18 +61,18 @@ Das Bundesverfassungsgericht veroeffentlicht saemtliche Entscheidungen (§ 30 II
 
 - Volltext der BVerfG-Entscheidung: in Akte MR-2026-VB-0312 ablegen
 - Kopie an Initiative (Dr. Tannenberg-Roosendaal) senden
-- Kopie an Prof. Dr. Birkenhain (UdS) senden (fuer wissenschaftliche Auswertung)
+- Kopie an Prof. Dr. Birkenhain (UdS) senden (für wissenschaftliche Auswertung)
 - Aufbewahrungsfrist Kanzleiakte: 10 Jahre (§ 50 IV BRAO)
 - Aktenzeichen BVerfG (1 BvR 188/26) dauerhaft in Kanzleidatenbank eintragen
 
 ---
 
-## V. Moegliche Folgeverfahren (Pruefschema)
+## V. Mögliche Folgeverfahren (Prüfschema)
 
-| Szenario | Moegliche Reaktion |
+| Szenario | Mögliche Reaktion |
 |---|---|
-| BVerfG hebt Verbot auf | Veroeffentlichung, ggf. neues Camp, Abschluss |
-| BVerfG lehnt VB ab — grundsaetzliche Frage offen | EGMR (Art. 11 EMRK) pruefen |
+| BVerfG hebt Verbot auf | Veröffentlichung, ggf. neues Camp, Abschluss |
+| BVerfG lehnt VB ab — grundsätzliche Frage offen | EGMR (Art. 11 EMRK) prüfen |
 | BVerfG lehnt EA ab — Hauptsache noch offen | Auf Hauptsacheentscheidung warten |
 | BVerfG nimmt VB nicht zur Entscheidung an | Abschluss; Ergebnis kommunizieren; evtl. Satzungsaenderung SaarlVersG durch politische Lobbyarbeit |
 | Strafverfahren endet mit Verurteilung | Verfassungsbeschwerde gegen Strafurteil (gesondertes Verfahren) |

@@ -3,7 +3,7 @@
 **Aktenzeichen:** LG Bonn 16 O 211/26 (Hauptsache Doppelverkauf), AG Hamburg 67 IN 88/26 (Insolvenz Trappenfels), LG Bonn 4 O 188/26 (AnfG gegen Helena Bischof-Renkert)
 **Kanzlei:** Spethmann, Kaltenbach & Partner Rechtsanwaltsgesellschaft mbB, Bonn
 **Sachbearbeiter:** RA Dr. Tilman Spethmann
-**Datum:** 12. Maerz 2026
+**Datum:** 12. März 2026
 
 ---
 
@@ -11,13 +11,13 @@
 
 | Person | Rolle | Wohnort |
 |---|---|---|
-| Dr. Reinhart Bischof-Hellberg (68) | Hauptschuldner, pensionierter Anaesthesist, Sportwagen-Sammler | Bonn (Schloss Bischof-Hellberg) |
-| Theresia Bagheri-Aichholz | Erste Kaeuferinnen Mercedes-Benz 300 SL, Geschaedigte des Doppelverkaufs | Wien (OEsterreich) |
-| Heinz-Albrecht Trappenfels (Erblasser) | Zweiter Kaeufer, Insolvenzschuldner | Hamburg |
-| Trappenfels-Erbenkonsortium | Rechtsnachfolger, Glaeubigerposition geltend machend | Hamburg |
+| Dr. Reinhart Bischof-Hellberg (68) | Hauptschuldner, pensionierter Anästhesist, Sportwagen-Sammler | Bonn (Schloss Bischof-Hellberg) |
+| Theresia Bagheri-Aichholz | Erste Käuferinnen Mercedes-Benz 300 SL, Geschädigte des Doppelverkaufs | Wien (Österreich) |
+| Heinz-Albrecht Trappenfels (Erblasser) | Zweiter Käufer, Insolvenzschuldner | Hamburg |
+| Trappenfels-Erbenkonsortium | Rechtsnachfolger, Gläubigerposition geltend machend | Hamburg |
 | RAin Dr. Sigrid Drosselberg | Insolvenzverwalterin, AG Hamburg 67 IN 88/26 | Hamburg |
-| Helena Bischof-Renkert | Tochter von Dr. Bischof-Hellberg, Zahnaerztin, Empfaengerin der sechs Sportwagen | Bonn |
-| Schmiedeknecht-Restaurations-KG | Werkstatt, Empfaengerin der 78.000-EUR-Zahlung (Dreiecksverhaeltnis) | Koeln |
+| Helena Bischof-Renkert | Tochter von Dr. Bischof-Hellberg, Zahnärztin, Empfängerin der sechs Sportwagen | Bonn |
+| Schmiedeknecht-Restaurations-KG | Werkstatt, Empfängerin der 78.000-EUR-Zahlung (Dreiecksverhaeltnis) | Koeln |
 
 ---
 
@@ -68,7 +68,7 @@ Der Sachverhalt wirft folgende bereicherungsrechtliche Hauptfragen auf:
 
 **a) Doppelverkauf und Leistungskondiktion (Paragraf 812 Abs. 1 S. 1 1. Alt. BGB)**
 
-Da der Mercedes-Benz 300 SL nur an Trappenfels geliefert wurde, kann Bagheri-Aichholz die von ihr geleistete Anzahlung von 600.000 EUR nach den Grundsaetzen der Leistungskondiktion zurueckfordern. Die Nichterfuellung des Kaufvertrags hat nachtraeglich den Rechtsgrund fuer die Anzahlung entfallen lassen (condictio ob causam finitam, Paragraf 812 Abs. 1 S. 2 Alt. 1 BGB, nach h.M. jedoch als Leistungskondiktion einzuordnen).
+Da der Mercedes-Benz 300 SL nur an Trappenfels geliefert wurde, kann Bagheri-Aichholz die von ihr geleistete Anzahlung von 600.000 EUR nach den Grundsätzen der Leistungskondiktion zurückfordern. Die Nichterfüllung des Kaufvertrags hat nachträglich den Rechtsgrund für die Anzahlung entfallen lassen (condictio ob causam finitam, Paragraf 812 Abs. 1 S. 2 Alt. 1 BGB, nach h.M. jedoch als Leistungskondiktion einzuordnen).
 
 **b) Dreiecksverhaeltnis Schmiedeknecht (Paragrafen 812, 818 BGB)**
 
@@ -76,25 +76,25 @@ Die angewiesene Zahlung von 78.000 EUR an die Schmiedeknecht-Restaurations-KG be
 
 **c) Wertersatz (Paragraf 818 Abs. 2 BGB) nach Untergang des Pkw**
 
-Durch den Brand am 30.03.2025 ist das Leistungsobjekt untergegangen. Trappenfels (bzw. seine Insolvenzmasse) muss sich fragen lassen, ob und in welcher Hoehe Wertersatz nach Paragraf 818 Abs. 2 BGB geschuldet wird.
+Durch den Brand am 30.03.2025 ist das Leistungsobjekt untergegangen. Trappenfels (bzw. seine Insolvenzmasse) muss sich fragen lassen, ob und in welcher Höhe Wertersatz nach Paragraf 818 Abs. 2 BGB geschuldet wird.
 
 ### 3.2 Insolvenzrechtliche Anfechtung (Paragrafen 129 ff. InsO)
 
-Die Insolvenzverwalterin Dr. Drosselberg prueft insbesondere:
+Die Insolvenzverwalterin Dr. Drosselberg prüft insbesondere:
 - Paragraf 130 InsO: Kongruente Deckung (Kaufpreiszahlung kurz vor Insolvenzantrag)
 - Paragraf 133 InsO: Vorsatzanfechtung (Glaeubigerbenachteiligungsvorsatz des Trappenfels)
 
 ### 3.3 AnfG-Anfechtung (Paragrafen 3, 4 AnfG)
 
-Das Trappenfels-Erbenkonsortium als Glaeubigergruppe ficht die Uebertragung der sechs Sportwagen an Helena Bischof-Renkert an:
-- Paragraf 3 AnfG: Vorsaetzliche Benachteiligung
+Das Trappenfels-Erbenkonsortium als Gläubigergruppe ficht die Übertragung der sechs Sportwagen an Helena Bischof-Renkert an:
+- Paragraf 3 AnfG: Vorsätzliche Benachteiligung
 - Paragraf 4 AnfG: Unentgeltliche Leistung
 
 ---
 
-## 4. Hinweis fuer das Plugin
+## 4. Hinweis für das Plugin
 
-Dieses Aktenstueck dient dem `bereicherungs-und-anfechtungsrecht-pruefer` als Eingangs-Sachverhalt fuer die vollstaendige Pruefung aller bereicherungs- und anfechtungsrechtlichen Ansprueche. Die Folge-Aktenstuecke 02 bis 22 vertiefen die einzelnen Rechtsfragen.
+Dieses Aktenstück dient dem `bereicherungs-und-anfechtungsrecht-pruefer` als Eingangs-Sachverhalt für die vollständige Pruefung aller bereicherungs- und anfechtungsrechtlichen Ansprüche. Die Folge-Aktenstücke 02 bis 22 vertiefen die einzelnen Rechtsfragen.
 
 **Quellen:**
 - Paragraf 812 ff. BGB: https://dejure.org/gesetze/BGB/812.html

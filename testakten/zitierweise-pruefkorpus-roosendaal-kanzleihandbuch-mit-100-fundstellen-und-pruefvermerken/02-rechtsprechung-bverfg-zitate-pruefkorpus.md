@@ -8,9 +8,9 @@
 
 ## Vorbemerkung
 
-Dieser Abschnitt enthaelt 18 BVerfG-Fundstellen des Pruefkorpus (Nr. 1–18). Fuer jede Fundstelle wird das Muster-Langzitat, das Kurzzitat und der Pruefvermerk dokumentiert.
+Dieser Abschnitt enthält 18 BVerfG-Fundstellen des Pruefkorpus (Nr. 1–18). Für jede Fundstelle wird das Muster-Langzitat, das Kurzzitat und der Prüfvermerk dokumentiert.
 
-Quellenbasis: bundesverfassungsgericht.de (amtlich), dejure.org (frei zugaenglich).
+Quellenbasis: bundesverfassungsgericht.de (amtlich), dejure.org (frei zugänglich).
 BeckRS-Fundstellen werden gesperrt, sofern kein Lizenzzugang nachgewiesen ist.
 
 ---
@@ -30,7 +30,7 @@ BVerfGE 7, 198 (205).
 **Online-Quelle:**
 abrufbar unter: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1958/01/rs19580115_1bvr040051.html (abgerufen am 01.10.2025).
 
-**Pruefvermerk:** Kein Pruefvermerk erforderlich. Amtliche Sammlung vorhanden, amtliche Online-Quelle vorhanden. Zitat vollstaendig und korrekt.
+**Prüfvermerk:** Kein Prüfvermerk erforderlich. Amtliche Sammlung vorhanden, amtliche Online-Quelle vorhanden. Zitat vollständig und korrekt.
 
 ---
 
@@ -46,9 +46,9 @@ BVerfG, Beschl. v. 14.10.2008, Az. 1 BvR 47/08, NVwZ 2009, 165 (166), abrufbar u
 **Kurzzitat:**
 BVerfG NVwZ 2009, 165 (166).
 
-**Pruefvermerk:** Kein Pruefvermerk erforderlich. Keine Bandaufnahme in BVerfGE, aber amtliche Online-Quelle und Zeitschriftenfundstelle vorhanden. Zitat vollstaendig.
+**Prüfvermerk:** Kein Prüfvermerk erforderlich. Keine Bandaufnahme in BVerfGE, aber amtliche Online-Quelle und Zeitschriftenfundstelle vorhanden. Zitat vollständig.
 
-> **Hinweis fuer Pruefkorpus:** Dieses Zitat demonstriert den Fall, dass keine BVerfGE-Fundstelle vorliegt. In solchen Faellen tritt die Zeitschriftenfundstelle an die erste Stelle der Rangfolge.
+> **Hinweis für Pruefkorpus:** Dieses Zitat demonstriert den Fall, dass keine BVerfGE-Fundstelle vorliegt. In solchen Fällen tritt die Zeitschriftenfundstelle an die erste Stelle der Rangfolge.
 
 ---
 
@@ -63,7 +63,7 @@ BVerfG, Beschl. v. 16.05.1995, Az. 1 BvR 1087/91, BVerfGE 93, 1 (16 f.) — Kruz
 **Kurzzitat:**
 BVerfGE 93, 1 (16 f.).
 
-**Pruefvermerk:** Kein Pruefvermerk erforderlich.
+**Prüfvermerk:** Kein Prüfvermerk erforderlich.
 
 ---
 
@@ -74,8 +74,8 @@ BVerfGE 93, 1 (16 f.).
 **Fehlerhaftes Zitat (Entwurf Mitarbeiter):**
 BVerfG, Beschl. v. 03.06.2022, Az. 1 BvR 2821/11, BeckRS 2022, 14507.
 
-**[PRUEFVERMERK — BeckRS-SPERRE (PV-BR)]**
-Die Fundstelle BeckRS 2022, 14507 konnte nicht verifiziert werden, da kein aktiver Beck-Online-Lizenzzugang fuer diesen Pruefvorgang dokumentiert ist. Bitte amtliche Quelle pruefen:
+**[PRÜFVERMERK — BeckRS-SPERRE (PV-BR)]**
+Die Fundstelle BeckRS 2022, 14507 konnte nicht verifiziert werden, da kein aktiver Beck-Online-Lizenzzugang für diesen Prüfvorgang dokumentiert ist. Bitte amtliche Quelle prüfen:
 - bundesverfassungsgericht.de (Suchmaske nach Az.)
 - dejure.org: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=03.06.2022&Aktenzeichen=1+BvR+2821%2F11
 
@@ -84,7 +84,7 @@ Ausgabe gesperrt bis Verifikation.
 **Korrigiertes Zitat (nach Verifikation):**
 BVerfG, Urt. v. 06.12.2022, Az. 1 BvR 2821/11, BVerfGE 164, 193 (Rn. 126), abrufbar unter: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/12/rs20221206_1bvr282111.html (abgerufen am 01.10.2025).
 
-> **Hinweis Pruefkorpus:** Dieses Beispiel zeigt, wie die BeckRS-Sperre ausgeloest und aufgeloest wird. Das korrigierte Zitat verwendet die amtliche BVerfGE-Fundstelle.
+> **Hinweis Pruefkorpus:** Dieses Beispiel zeigt, wie die BeckRS-Sperre ausgelöst und aufgelöst wird. Das korrigierte Zitat verwendet die amtliche BVerfGE-Fundstelle.
 
 ---
 
@@ -99,17 +99,17 @@ BVerfG, Urt. v. 25.02.1975, Az. 1 BvF 1/74, BVerfGE 39, 1 (42 f.) — Schwangers
 **Kurzzitat:**
 BVerfGE 39, 1 (42 f.).
 
-**Pruefvermerk:** Kein Pruefvermerk erforderlich.
+**Prüfvermerk:** Kein Prüfvermerk erforderlich.
 
 ---
 
-## Fundstelle 6 — BVerfGE 65, 1 — Volkszaehlung
+## Fundstelle 6 — BVerfGE 65, 1 — Volkszählung
 
 **Entscheidung:** BVerfG, Urt. v. 15.12.1983, Az. 1 BvR 209/83 u.a.
 **Amtliche Sammlung:** BVerfGE 65, 1
 
 **Langzitat:**
-BVerfG, Urt. v. 15.12.1983, Az. 1 BvR 209/83 u.a., BVerfGE 65, 1 (43) — Volkszaehlung.
+BVerfG, Urt. v. 15.12.1983, Az. 1 BvR 209/83 u.a., BVerfGE 65, 1 (43) — Volkszählung.
 
 **Kurzzitat:**
 BVerfGE 65, 1 (43).
@@ -117,7 +117,7 @@ BVerfGE 65, 1 (43).
 **Online-Quelle:**
 abrufbar unter: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1983/12/rs19831215_1bvr020983.html (abgerufen am 01.10.2025).
 
-**Pruefvermerk:** Kein Pruefvermerk erforderlich.
+**Prüfvermerk:** Kein Prüfvermerk erforderlich.
 
 ---
 
@@ -130,7 +130,7 @@ BVerfG, Beschl. v. 19.09.2024, Az. 2 BvR 1234/24, Rn. 35, abrufbar unter: https:
 
 **[Lehrbeispiel — Entscheidung fiktiv; dient der Demonstration des Randnummer-Zitats ohne Bandaufnahme]**
 
-**Pruefvermerk:** Kein Pruefvermerk fuer das Format erforderlich. Hinweis: Sobald Bandaufnahme vorliegt, ist BVerfGE-Zitat nachzutragen.
+**Prüfvermerk:** Kein Prüfvermerk für das Format erforderlich. Hinweis: Sobald Bandaufnahme vorliegt, ist BVerfGE-Zitat nachzutragen.
 
 ---
 
@@ -145,7 +145,7 @@ BVerfG, Urt. v. 11.03.2003, Az. 1 BvR 426/02, BVerfGE 107, 275 (280 f.) — Bene
 **Kurzzitat:**
 BVerfGE 107, 275 (280 f.).
 
-**Pruefvermerk:** Mehrfach-Fundstelle korrekt: BVerfGE vor NJW — Rangfolge eingehalten.
+**Prüfvermerk:** Mehrfach-Fundstelle korrekt: BVerfGE vor NJW — Rangfolge eingehalten.
 
 ---
 
@@ -154,7 +154,7 @@ BVerfGE 107, 275 (280 f.).
 **Fehlerhaftes Zitat (Entwurf):**
 BVerfG, Urt. v. 11.03.2003, Az. 1 BvR 426/02, NJW 2003, 1303 — (BVerfGE 107, 275).
 
-**[PRUEFVERMERK — RANGFOLGE-FEHLER (PV-RG)]**
+**[PRÜFVERMERK — RANGFOLGE-FEHLER (PV-RG)]**
 Die amtliche Sammlung BVerfGE 107, 275 muss an erster Stelle stehen. NJW folgt nachgeordnet. Bitte Reihenfolge korrigieren.
 
 **Korrigiertes Zitat:**
@@ -164,18 +164,18 @@ BVerfG, Urt. v. 11.03.2003, Az. 1 BvR 426/02, BVerfGE 107, 275 (280 f.), NJW 200
 
 ## Fundstelle 10–18 — Weitere BVerfG-Leitentscheidungen (Kurzformat)
 
-| Nr. | Gericht | Datum | Az. | Amtliche Sammlung | URL (dejure/amtlich) | Pruefvermerk |
+| Nr. | Gericht | Datum | Az. | Amtliche Sammlung | URL (dejure/amtlich) | Prüfvermerk |
 |---|---|---|---|---|---|---|
 | 10 | BVerfG | 21.06.1977 | 1 BvL 14/76 | BVerfGE 45, 187 — Lebenslange Freiheitsstrafe | https://dejure.org/1977,1 | keiner |
 | 11 | BVerfG | 05.02.2004 | 2 BvR 2029/01 | BVerfGE 109, 133 — Sicherungsverwahrung | https://dejure.org/2004,57 | keiner |
 | 12 | BVerfG | 09.02.2010 | 1 BvL 1/09 u.a. | BVerfGE 125, 175 — Hartz IV | https://dejure.org/2010,198 | keiner |
 | 13 | BVerfG | 24.01.2012 | 1 BvR 1299/05 | BVerfGE 130, 151 — Bestandsdatenabfrage | https://dejure.org/2012,9 | keiner |
-| 14 | BVerfG | 19.03.2013 | 2 BvR 2628/10 u.a. | BVerfGE 133, 168 — Verstaendigungsgesetz | https://dejure.org/2013,1999 | keiner |
+| 14 | BVerfG | 19.03.2013 | 2 BvR 2628/10 u.a. | BVerfGE 133, 168 — Verständigungsgesetz | https://dejure.org/2013,1999 | keiner |
 | 15 | BVerfG | 21.07.2015 | 1 BvF 2/13 | BVerfGE 140, 65 — Homoehe-Adoption | https://dejure.org/2015,20773 | keiner |
 | 16 | BVerfG | 26.04.2022 | 1 BvR 1619/17 | BVerfGE 162, 1 — NetzDG | https://www.bundesverfassungsgericht.de (abgerufen 01.10.2025) | keiner |
 | 17 | BVerfG | 24.03.2021 | 1 BvR 2656/18 u.a. | BVerfGE 157, 30 — Klimaschutzgesetz | https://dejure.org/2021,8821 | keiner |
-| 18 | BVerfG | 29.01.2019 | 2 BvC 62/14 | BVerfGE 151, 1 — Wahlpruefung | https://dejure.org/2019,1461 | keiner |
+| 18 | BVerfG | 29.01.2019 | 2 BvC 62/14 | BVerfGE 151, 1 — Wahlprüfung | https://dejure.org/2019,1461 | keiner |
 
 ---
 
-*Pruefkorpus-Abschnitt BVerfG: 18 Fundstellen geprueft. Pruefvermerke: 2 (PV-BR Nr. 4, PV-RG Nr. 9). Stand: Oktober 2025.*
+*Pruefkorpus-Abschnitt BVerfG: 18 Fundstellen geprüft. Prüfvermerke: 2 (PV-BR Nr. 4, PV-RG Nr. 9). Stand: Oktober 2025.*

@@ -46,7 +46,7 @@ Stationsärztin: Dr. med. Susanne Hollasky (Station P3)
 
 ## Aufnahmegrund
 
-Die Patientin wurde auf Überweisung von Dr. Maerker (Hausarzt) und auf Empfehlung von Prof. Scheibenbogen (Charité) zur stationären psychiatrischen Behandlung aufgenommen. Anlass war eine **deutliche Verschlechterung der Stimmungslage** mit suizidalen Gedanken (ohne konkrete Handlungsabsichten oder -pläne) sowie eine ausgeprägte Hoffnungslosigkeit im Kontext der multiplen sozialen und gesundheitlichen Belastungen.
+Die Patientin wurde auf Überweisung von Dr. Märker (Hausarzt) und auf Empfehlung von Prof. Scheibenbogen (Charité) zur stationären psychiatrischen Behandlung aufgenommen. Anlass war eine **deutliche Verschlechterung der Stimmungslage** mit suizidalen Gedanken (ohne konkrete Handlungsabsichten oder -pläne) sowie eine ausgeprägte Hoffnungslosigkeit im Kontext der multiplen sozialen und gesundheitlichen Belastungen.
 
 **Vorgeschichte:** Die Patientin leidet seit November 2021 an einem Post-Covid-Syndrom mit ME/CFS. Die anhaltende vollständige Erwerbsunfähigkeit, finanzielle Sorgen, Abhängigkeit vom Ehemann und fehlende gesellschaftliche Teilhabe führten zu einer progredienten depressiven Dekompensation.
 
@@ -88,7 +88,7 @@ Die Patientin wurde am 07.11.2024 in stabilisiertem Zustand entlassen. HAMD-17-E
 **Empfehlungen:**
 
 1. Ambulante psychiatrische Weiterbehandlung: Dr. Miriam Schütz, Psychiatrische Praxis Leipzig, Nordstraße 12 (Termin vereinbart)
-2. Fortführung Escitalopram 20 mg (hausärztliche Weiterverordnung Dr. Maerker)
+2. Fortführung Escitalopram 20 mg (hausärztliche Weiterverordnung Dr. Märker)
 3. Anbindung Long-Covid-Ambulanz Charité fortführen
 4. **Sozialrechtliche Begleitung dringend empfohlen** (Rentenverfahren, GdB) — Hinweis auf Beratungsstellen (VdK Sachsen, RA-Empfehlung durch Selbsthilfe)
 

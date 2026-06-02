@@ -40,7 +40,7 @@ Die Kanzlei empfiehlt das **Cochemer Modell der Erbmediation** (entwickelt aus d
 |---|---|---|
 | Phase 0: Vorklärung | Kanzlei-intern; Einschätzung ob alle vier Parteien teilnahmewillig. Anschreiben an Strecker (Marlies), Pellegrini (Marie-Theres), Constantin direkt. | 15.–22.05.2025 |
 | Phase 1: Erstgespräch Mediator | Einzelgespräche des Mediators mit jeder Partei (45 Min. je Partei). Mediator klärt Interessen, Bereitschaft, Vertraulichkeit. | 23.05.–06.06.2025 |
-| Phase 2: Gemeinsame Sitzung I | Sachverhaltsklärung, Vermögensaufnahme, Bewertungsfragen (Grundstück, Krypto, Depot). SV Bender & Moerser nimmt teil. Dauer: 1 Tag (9–17 Uhr). | 13.06.2025 (Vorschlag) |
+| Phase 2: Gemeinsame Sitzung I | Sachverhaltsklärung, Vermögensaufnahme, Bewertungsfragen (Grundstück, Krypto, Depot). SV Bender & Mörser nimmt teil. Dauer: 1 Tag (9–17 Uhr). | 13.06.2025 (Vorschlag) |
 | Phase 3: Themenblock Krypto | Technische Erläuterung Multisig durch SV Wandke; Diskussion Zuordnung und Verteilung der Krypto-Assets; Constantin präsentiert seinen Standpunkt. | 20.06.2025 |
 | Phase 4: Themenblock Haus/Wohnrecht | Wohnrecht Marlies, Bewertung, Ablösungsszenarien, Teilungsversteigerungsrisiko. | 27.06.2025 |
 | Phase 5: Vergleichskorridore | Parteien legen Mindest- und Maximalforderungen vor; Mediator sucht Schnittmengen; Einigungsentwurf wird erarbeitet. | 04.07.2025 |

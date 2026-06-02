@@ -1,56 +1,56 @@
-[AUSZUG — VOLLSTAENDIGES GUTACHTEN UMFASST 64 SEITEN — HIER NUR AUFFAELLIGE STELLEN MIT FUNDSTELLENANGABE]
+[AUSZUG — VOLLSTÄNDIGES GUTACHTEN UMFASST 64 SEITEN — HIER NUR AUFFÄLLIGE STELLEN MIT FUNDSTELLENANGABE]
 
 ==== S. 4 ====
 
 Zusammenfassend ist festzustellen, dass die Anlage die zugesagte Nennleistung
-unter Beruecksichtigung der oertlichen Gegebenheiten und der vorgefundenen
-Installation grundsaetzlich erreichen koennte.
+unter Berücksichtigung der örtlichen Gegebenheiten und der vorgefundenen
+Installation grundsätzlich erreichen könnte.
 
 Zusammenfassend ist festzustellen, dass die Wechselrichter dem Stand der
 Technik entsprechen und ordnungsgemaess in das Anlagensystem eingebunden
 wurden.
 
 Zusammenfassend ist festzustellen, dass die Modulhalter den allgemeinen
-Anerkennungsregeln der Technik genuegen.
+Anerkennungsregeln der Technik genügen.
 
 ==== S. 11 ====
 
-Es ist wichtig zu beachten, dass bei einer Photovoltaikanlage die tatsaechliche
-Energieerzeugung von zahlreichen Faktoren abhaengt. Dazu zaehlen die
+Es ist wichtig zu beachten, dass bei einer Photovoltaikanlage die tatsächliche
+Energieerzeugung von zahlreichen Faktoren abhängt. Dazu zählen die
 geographische Lage, die Ausrichtung der Module, die Verschattung durch
 umliegende Vegetation, die Temperatur, der Verschmutzungsgrad und der Zustand
 der Wechselrichter.
 
 Es ist wichtig zu beachten, dass auch saisonale Schwankungen erhebliche
-Unterschiede im Ertrag bewirken koennen.
+Unterschiede im Ertrag bewirken können.
 
 Es ist wichtig zu beachten, dass die zugesagte Nennleistung als
 Maximalleistung unter Standardtestbedingungen zu verstehen ist.
 
 ==== S. 19 ====
 
-Sehr geehrter Sachverstaendiger Pfaffenberger,
+Sehr geehrter Sachverständiger Pfaffenberger,
 
 bei der Beantwortung der Beweisfrage zu Beweisthema 2 ist zu beachten,
 dass die Installation der Wechselrichter [...]
 
-[STILBRUCH — vorher und nachher in 3. Person; hier ploetzlich Anrede an
-den Sachverstaendigen selbst]
+[STILBRUCH — vorher und nachher in 3. Person; hier plötzlich Anrede an
+den Sachverständigen selbst]
 
 ==== S. 23 ====
 
 Im Hinblick auf die Modulhalter ist zu konstatieren, dass [...]
 Im Hinblick auf die hydraulische Dichtigkeit ist zu konstatieren, dass [...]
 Im Hinblick auf die thermische Ausdehnung ist zu konstatieren, dass [...]
-Im Hinblick auf die mechanische Stabilitaet ist zu konstatieren, dass [...]
+Im Hinblick auf die mechanische Stabilität ist zu konstatieren, dass [...]
 Im Hinblick auf die Korrosionsbestaendigkeit ist zu konstatieren, dass [...]
-Im Hinblick auf die UV-Bestaendigkeit ist zu konstatieren, dass [...]
+Im Hinblick auf die UV-Beständigkeit ist zu konstatieren, dass [...]
 
-[Sechsfache Wiederholung der gleichen Satzeinleitung. Auffaellig.]
+[Sechsfache Wiederholung der gleichen Satzeinleitung. Auffällig.]
 
 ==== S. 28 ====
 
-Eine Ortsbegehung wurde am [DATUM EINFUEGEN] durchgefuehrt.
+Eine Ortsbegehung wurde am [DATUM EINFÜGEN] durchgeführt.
 
 [Platzhalter nicht ersetzt — vermutlich Vorlagen-Fragment]
 
@@ -59,31 +59,31 @@ Eine Ortsbegehung wurde am [DATUM EINFUEGEN] durchgefuehrt.
 Beweisthema 3 — Mangelbeseitigungskosten Modulhalter:
 
 Die Mangelbeseitigungskosten lassen sich anhand allgemeiner Erfahrungswerte
-auf circa 40.000 bis 60.000 Euro schaetzen.
+auf circa 40.000 bis 60.000 Euro schätzen.
 
-[KEINE EINZELPOSITION-AUFSCHLUESSELUNG, keine Bezugnahme auf das
-Privatgutachten Wallner, das die 49.600 EUR detailliert aufschluesselt.
+[KEINE EINZELPOSITION-AUFSCHLÜSSELUNG, keine Bezugnahme auf das
+Privatgutachten Wallner, das die 49.600 EUR detailliert aufschlüsselt.
 Keine Auseinandersetzung mit den Anknuepfungstatsachen der Akte.]
 
 ==== S. 41 ====
 
-Der Sachverstaendige hat die einschlaegigen Normen geprueft. Hierzu zaehlen
-insbesondere DIN EN 61730, IEC 61215, VDE-AR-N 4105 sowie die einschlaegigen
+Der Sachverständige hat die einschlägigen Normen geprüft. Hierzu zählen
+insbesondere DIN EN 61730, IEC 61215, VDE-AR-N 4105 sowie die einschlägigen
 Herstellervorgaben der Solartec-Bavaria GmbH.
 
-[ABER: Tatsaechlich gibt es keine VDE-AR-N 4105 mit dem genannten Gegenstand;
-die VDE-AR-N 4105 betrifft Niederspannungsnetz-Anschluesse, nicht Wechselrichter-
+[ABER: Tatsächlich gibt es keine VDE-AR-N 4105 mit dem genannten Gegenstand;
+die VDE-AR-N 4105 betrifft Niederspannungsnetz-Anschlüsse, nicht Wechselrichter-
 Installation. Halluzinationsverdacht.]
 
 ==== S. 58 ====
 
-Das Gutachten wurde unter sorgfaeltiger Auswertung aller verfuegbaren
+Das Gutachten wurde unter sorgfältiger Auswertung aller verfügbaren
 Informationen erstellt. Es ist zu beachten, dass Schlussfolgerungen nur
-soweit gezogen werden koennen, wie die Datenbasis dies zulaesst.
+soweit gezogen werden können, wie die Datenbasis dies zulässt.
 
-[Generische Standardformulierung — austauschbar fuer jedes beliebige Gutachten]
+[Generische Standardformulierung — austauschbar für jedes beliebige Gutachten]
 
 ==== Unterschrift S. 64 ====
 
 gez. Dipl.-Ing. Edmund Pfaffenberger
-oeffentlich bestellt und vereidigt
+öffentlich bestellt und vereidigt

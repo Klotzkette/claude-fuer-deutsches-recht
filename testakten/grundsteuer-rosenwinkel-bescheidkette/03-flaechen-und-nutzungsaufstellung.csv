@@ -1,19 +1,19 @@
-Bereich,Gebaeudeteil,Nutzung laut Verwaltung,Nutzung laut Bescheid,Flaeche Verwaltung qm,Flaeche Bescheid qm,Differenz qm,Problem,Beleg
+Bereich,Gebäudeteil,Nutzung laut Verwaltung,Nutzung laut Bescheid,Fläche Verwaltung qm,Fläche Bescheid qm,Differenz qm,Problem,Beleg
 EG links,Vorderhaus,Buchbinderei (Mieterin C. Klee),Gewerbe,86,86,0,ok,Mietvertrag Buchbinderei Klee vom 01.04.2019; Vermerk Architektin Wiegand 2021
 EG rechts,Vorderhaus,ehemaliger Laden leerstehend,Gewerbe,72,72,0,Leerstand ab 09/2024,Nebenkostenkonto WGS Trier eG; Mietausschreibung ImmoScout 04/2025
-1. OG,Vorderhaus,Wohnung R1 (Mieterin Berisha),Wohnung,138,146,8,Balkon (4.0 qm) voll statt anteilig (50%) angesetzt; abzueglich Erker zu klein,Aufmass Wiegand 14.09.2021
-2. OG,Vorderhaus,Wohnung R2 (Eigentuemerin H. Krachtburg),Wohnung,141,149,8,Balkon (4.0 qm) voll statt anteilig angesetzt,Aufmass Wiegand 14.09.2021
-DG,Vorderhaus,Wohnung R3 (Mieterin Dr. v. Pollerich),Wohnung,96,124,28,Dachschraegen falsch behandelt (DIN 277 nicht angewendet); 50% bei Hoehe 1.0-2.0 m haette ca. 18 qm weniger ergeben,Grundriss Architektin F. Wiegand 14.09.2021
-EG,Seitenfluegel,Lager feucht (faktisch unnutzbar),Nutzflaeche,54,92,38,Kellernahe Flaeche als voll nutzbar erfasst trotz Feuchteschaden,Bauschadensbericht Buero Behringer-Sams 12.02.2025
-1. OG,Seitenfluegel,Wohnatelier unvermietet seit 2022,Wohnung,64,84,20,Brandschutzmaengel und nur eingeschraenkte Nutzung; Bauaufsicht hat Genehmigung versagt,Schreiben Bauaufsicht Trier 18.07.2024 Az. 50-BA-2024/0772
-2. OG,Seitenfluegel,Wohnung S2 (Eigentuemerin Yildiz),Wohnung,71,87,16,Flurbereich (3.0 qm) doppelt erfasst (in S2 und in Allgemeinflaeche); Treppe (4.0 qm) als Wohnung gezaehlt,Teilungsplan WEG 14.06.1998
-Hinterhaus,Hofgebaeude,Archiv und Werkstatt (Buchbinderei),Wohnung (FALSCH),118,194,76,als Wohnflaeche erfasst statt Neben-/Nutzflaeche; keine Wohnerschliessung; keine Heizungsanlage; keine Sanitaerflaeche,alte Gewerbegenehmigung 1987 Stadt Trier; Foto Innenraum 2026
-Keller,Gesamt,Kellerabteile,unbekannt aber in Nutzflaeche enthalten,0,80,80,Keller offenbar in Nutzflaeche eingerechnet trotz nicht-Vollgeschoss,Kellerplan Architektur Wiegand
-Hof,Gesamt,Hofflaeche,Zubehoer (Grundstuecksflaeche),226,226,0,ok; aber Stadt Trier hat Hof separat als Grundsteuer A festgesetzt - FALSCH,Kataster Auszug 02/2023
-Grundstueck,Gesamt,Gesamtflaeche Flurkarte,Gesamtflaeche,1148,1148,0,ok,Flurkarte Kataster Trier Bl. 7022 / 11
+1. OG,Vorderhaus,Wohnung R1 (Mieterin Berisha),Wohnung,138,146,8,Balkon (4.0 qm) voll statt anteilig (50%) angesetzt; abzüglich Erker zu klein,Aufmass Wiegand 14.09.2021
+2. OG,Vorderhaus,Wohnung R2 (Eigentümerin H. Krachtburg),Wohnung,141,149,8,Balkon (4.0 qm) voll statt anteilig angesetzt,Aufmass Wiegand 14.09.2021
+DG,Vorderhaus,Wohnung R3 (Mieterin Dr. v. Pollerich),Wohnung,96,124,28,Dachschrägen falsch behandelt (DIN 277 nicht angewendet); 50% bei Höhe 1.0-2.0 m hätte ca. 18 qm weniger ergeben,Grundriss Architektin F. Wiegand 14.09.2021
+EG,Seitenflügel,Lager feucht (faktisch unnutzbar),Nutzfläche,54,92,38,Kellernahe Fläche als voll nutzbar erfasst trotz Feuchteschaden,Bauschadensbericht Büro Behringer-Sams 12.02.2025
+1. OG,Seitenflügel,Wohnatelier unvermietet seit 2022,Wohnung,64,84,20,Brandschutzmängel und nur eingeschränkte Nutzung; Bauaufsicht hat Genehmigung versagt,Schreiben Bauaufsicht Trier 18.07.2024 Az. 50-BA-2024/0772
+2. OG,Seitenflügel,Wohnung S2 (Eigentümerin Yildiz),Wohnung,71,87,16,Flurbereich (3.0 qm) doppelt erfasst (in S2 und in Allgemeinfläche); Treppe (4.0 qm) als Wohnung gezählt,Teilungsplan WEG 14.06.1998
+Hinterhaus,Hofgebäude,Archiv und Werkstatt (Buchbinderei),Wohnung (FALSCH),118,194,76,als Wohnfläche erfasst statt Neben-/Nutzfläche; keine Wohnerschliessung; keine Heizungsanlage; keine Sanitärfläche,alte Gewerbegenehmigung 1987 Stadt Trier; Foto Innenraum 2026
+Keller,Gesamt,Kellerabteile,unbekannt aber in Nutzfläche enthalten,0,80,80,Keller offenbar in Nutzfläche eingerechnet trotz nicht-Vollgeschoss,Kellerplan Architektur Wiegand
+Hof,Gesamt,Hoffläche,Zubehör (Grundstücksfläche),226,226,0,ok; aber Stadt Trier hat Hof separat als Grundsteuer A festgesetzt - FALSCH,Kataster Auszug 02/2023
+Grundstueck,Gesamt,Gesamtfläche Flurkarte,Gesamtfläche,1148,1148,0,ok,Flurkarte Kataster Trier Bl. 7022 / 11
 ,,,,,,,,
-ZUSAMMENFASSUNG,,,,,,274,Gesamte Flaechen-Ueberhang im Bescheid,
-Erklaerte Flaeche Wohnung gesamt,,,,628,820,192,Wohnflaeche im Bescheid 192 qm zu hoch,
-Erklaerte Flaeche Gewerbe gesamt,,,,158,184,26,Nutzflaeche im Bescheid 26 qm zu hoch (Lager Seitenfluegel zu Wohnung umqualifizieren),
-Erklaerte Flaeche Werkstatt/Archiv,,,,118,0,-118,Hinterhaus wurde als Wohnung statt Nutzflaeche erfasst,
-Geschaetzter Effekt Grundsteuerwert,,,,,,,Reduktion ca 18-22% bei Korrektur aller Flaechen,siehe 05-kurznotiz-gemeiner-wert.md
+ZUSAMMENFASSUNG,,,,,,274,Gesamte Flächen-Überhang im Bescheid,
+Erklärte Fläche Wohnung gesamt,,,,628,820,192,Wohnfläche im Bescheid 192 qm zu hoch,
+Erklärte Fläche Gewerbe gesamt,,,,158,184,26,Nutzfläche im Bescheid 26 qm zu hoch (Lager Seitenflügel zu Wohnung umqualifizieren),
+Erklärte Fläche Werkstatt/Archiv,,,,118,0,-118,Hinterhaus wurde als Wohnung statt Nutzfläche erfasst,
+Geschätzter Effekt Grundsteuerwert,,,,,,,Reduktion ca 18-22% bei Korrektur aller Flächen,siehe 05-kurznotiz-gemeiner-wert.md

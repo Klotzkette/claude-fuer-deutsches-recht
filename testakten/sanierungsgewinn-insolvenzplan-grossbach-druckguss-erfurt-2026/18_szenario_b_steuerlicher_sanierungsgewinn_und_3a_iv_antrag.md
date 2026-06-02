@@ -2,9 +2,9 @@
 
 ## Hypothese
 
-Der § 3a IV EStG-Antrag wird **rechtzeitig** vor Plan-Bestaetigung gestellt (z. B. am 30.04.2026 mit der Plan-Vorlage). Das FA Erfurt bestaetigt die unternehmensbezogene Sanierung i.S.v. § 3a Abs. 2 EStG.
+Der § 3a IV EStG-Antrag wird **rechtzeitig** vor Plan-Bestätigung gestellt (z. B. am 30.04.2026 mit der Plan-Vorlage). Das FA Erfurt bestätigt die unternehmensbezogene Sanierung i.S.v. § 3a Abs. 2 EStG.
 
-**Dieses Szenario ist die Soll-Variante des Mandats.** Im realen Streitfall ist es nicht eingetreten (Antrag erst 02.07.2026, siehe Aktenstueck 19). Hier wird es als kontrastive Best-Practice-Variante durchgerechnet.
+**Dieses Szenario ist die Soll-Variante des Mandats.** Im realen Streitfall ist es nicht eingetreten (Antrag erst 02.07.2026, siehe Aktenstück 19). Hier wird es als kontrastive Best-Practice-Variante durchgerechnet.
 
 ## I. Antragsstellung
 
@@ -14,7 +14,7 @@ Der § 3a IV EStG-Antrag wird **rechtzeitig** vor Plan-Bestaetigung gestellt (z.
 | 28.04.2026 | StB Engelmeier sendet Parallelantrag § 7b GewStG per Einschreiben an Gewerbesteueramt Stadt Erfurt. |
 | 30.04.2026 | Plan-Vorlage AG Erfurt 60 IN 188/26. |
 | 18.06.2026 | Eroerterungs- und Abstimmungstermin. |
-| 25.06.2026 | Plan-Bestaetigung. |
+| 25.06.2026 | Plan-Bestätigung. |
 
 ## II. Verrechnungsmatrix (Soll-Variante)
 
@@ -30,7 +30,7 @@ Der § 3a IV EStG-Antrag wird **rechtzeitig** vor Plan-Bestaetigung gestellt (z.
 
 ## III. Steuerbescheide (erwartet)
 
-### KSt-Bescheid 2026 (Komplementaer-GmbH)
+### KSt-Bescheid 2026 (Komplementär-GmbH)
 
 | Position | Wert (EUR) |
 |---|---|
@@ -48,7 +48,7 @@ Der § 3a IV EStG-Antrag wird **rechtzeitig** vor Plan-Bestaetigung gestellt (z.
 | Hebesatz Erfurt 470 % | 0 |
 | **GewSt-Last 2026** | **0** |
 
-### Solidaritaetszuschlag
+### Solidaritätszuschlag
 
 0 EUR.
 
@@ -56,13 +56,13 @@ Der § 3a IV EStG-Antrag wird **rechtzeitig** vor Plan-Bestaetigung gestellt (z.
 
 | Position | Wert (EUR) |
 |---|---|
-| Plan-Erloese aus Forderungsverzicht (gewinnerhoehend) | 38.000.000 |
+| Plan-Erlöse aus Forderungsverzicht (gewinnerhoehend) | 38.000.000 |
 | Steuerbefreiung nach § 3a EStG / § 7b GewStG | -38.000.000 (gegen Verlustvortrag und Steuerbefreiung) |
 | **Netto-Belastung Plan-Sanierung Steuern** | **0** |
 
-Die Sanierung wird durch Steuern nicht belastet. Die Liquiditaet der Plan-Restruktur bleibt unangetastet.
+Die Sanierung wird durch Steuern nicht belastet. Die Liquidität der Plan-Restruktur bleibt unangetastet.
 
-## V. Verlustvortraege nach Sanierung
+## V. Verlustvorträge nach Sanierung
 
 | Position | Wert (EUR) |
 |---|---|
@@ -73,26 +73,26 @@ Die Sanierung wird durch Steuern nicht belastet. Die Liquiditaet der Plan-Restru
 | Verbrauch durch § 7b GewStG i.V.m. § 3a Abs. 3 EStG | -14.000.000 |
 | **GewSt-Verlustvortrag nach Sanierung** | **0** |
 
-Bindungswirkung: Verlustvortrag aufgezehrt. Folgejahre 2027 ff. ohne KSt/GewSt-Verlustvortrag, mussten saemtliche Gewinne voll besteuert werden.
+Bindungswirkung: Verlustvortrag aufgezehrt. Folgejahre 2027 ff. ohne KSt/GewSt-Verlustvortrag, mussten sämtliche Gewinne voll besteuert werden.
 
 ## VI. Closing Investor LR Industrial AG (nach Plan)
 
 | Position | Steuerfolge |
 |---|---|
-| Anteilsuebertragung 100 % Komplementaer-GmbH an LR Industrial | § 8c KStG schaedlicher Beteiligungserwerb — aber kein Verlustvortrag mehr vorhanden, daher kein Schaden. |
-| Anteilsuebertragung 25 % KG-Anteile | Steuerneutrale Mitunternehmeranteilsuebertragung (§ 6 Abs. 3 EStG; Buchwertfortfuehrung) |
-| Eigenkapitalzufuehrung 6 Mio EUR | Einlage, keine KSt-/GewSt-Folge |
+| Anteilsübertragung 100 % Komplementär-GmbH an LR Industrial | § 8c KStG schädlicher Beteiligungserwerb — aber kein Verlustvortrag mehr vorhanden, daher kein Schaden. |
+| Anteilsübertragung 25 % KG-Anteile | Steuerneutrale Mitunternehmeranteilsübertragung (§ 6 Abs. 3 EStG; Buchwertfortführung) |
+| Eigenkapitalzuführung 6 Mio EUR | Einlage, keine KSt-/GewSt-Folge |
 
-Die durch § 3a Abs. 3 EStG-Verrechnung verbrauchten Verlustvortraege koennten in Variante "ohne Sanierung" durch § 8c KStG ebenfalls entfallen sein. Das Sequencing (Verbrauch durch Sanierung vor Closing) ist unter Steuer-Gesichtspunkten in Variante B aequivalent.
+Die durch § 3a Abs. 3 EStG-Verrechnung verbrauchten Verlustvorträge könnten in Variante "ohne Sanierung" durch § 8c KStG ebenfalls entfallen sein. Das Sequencing (Verbrauch durch Sanierung vor Closing) ist unter Steuer-Gesichtspunkten in Variante B äquivalent.
 
 ## VII. Zusammenfassung Szenario B
 
 - KSt-Last 2026: 0 EUR.
 - GewSt-Last 2026: 0 EUR.
-- Verlustvortraege aufgezehrt, aber Verlust-Risiko bei Plan-Sanierung beseitigt.
-- Plan-Liquiditaet unverdorben.
+- Verlustvorträge aufgezehrt, aber Verlust-Risiko bei Plan-Sanierung beseitigt.
+- Plan-Liquidität unverdorben.
 - Mandantin saniert ohne Steuer-Hinderung.
 
-Das ist der Soll-Pfad. Die reale Akte zeigt aber Szenario C (Aktenstueck 19) mit Verspaetung und FG-Koeln-Risiko.
+Das ist der Soll-Pfad. Die reale Akte zeigt aber Szenario C (Aktenstück 19) mit Verspätung und FG-Koeln-Risiko.
 
 — gez. Voltz (StB), 22.07.2026

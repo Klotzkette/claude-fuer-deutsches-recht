@@ -1,4 +1,4 @@
-# 18 — Migration Bestandsschriftsaetze auf Kanzleihandbuch v4.0
+# 18 — Migration Bestandsschriftsätze auf Kanzleihandbuch v4.0
 
 **Kanzlei Roosendaal Birkenhainer Partners mbB — Migrationsprojekt**
 **Projektleitung: Moritz Lattermann (Knowledge Manager)**
@@ -8,14 +8,14 @@
 
 ## A. Ausgangslage
 
-Die Kanzlei Roosendaal Birkenhainer Partners mbB fuehrt ein elektronisches Dokumentenmanagementsystem (DMS) mit rund 312 aktiven Schriftsatz-Vorlagen und wiederverwendbaren Textbausteinen. Diese wurden zwischen 2015 und 2023 erstellt und verwenden unterschiedliche Zitierstandards:
+Die Kanzlei Roosendaal Birkenhainer Partners mbB führt ein elektronisches Dokumentenmanagementsystem (DMS) mit rund 312 aktiven Schriftsatz-Vorlagen und wiederverwendbaren Textbausteinen. Diese wurden zwischen 2015 und 2023 erstellt und verwenden unterschiedliche Zitierstandards:
 
 | Zeitraum | Standard | Hauptprobleme |
 |---|---|---|
-| 2015–2019 | Kanzleistandard v1.0 | Keine URL-Angaben; Palandt; keine Pruefvermerke |
+| 2015–2019 | Kanzleistandard v1.0 | Keine URL-Angaben; Palandt; keine Prüfvermerke |
 | 2020–2021 | Kanzleistandard v2.0 | Palandt korrekt; aber keine URLs; BeckRS ohne Sperr-Regelung |
 | 2022–2023 | Kanzleistandard v3.0 | Gruenenberg-Umstellung halbherzig; BeckRS teilweise; keine Archivlinks |
-| 2024 ff. | Kanzleistandard v4.0 (Ziel) | Vollstaendig: URL-Pflicht; BeckRS-Sperre; Pruefvermerk-Standard |
+| 2024 ff. | Kanzleistandard v4.0 (Ziel) | Vollständig: URL-Pflicht; BeckRS-Sperre; Prüfvermerk-Standard |
 
 ---
 
@@ -23,14 +23,14 @@ Die Kanzlei Roosendaal Birkenhainer Partners mbB fuehrt ein elektronisches Dokum
 
 ### Schritt 1 — Inventarisierung
 
-Alle 312 Schriftsatz-Vorlagen wurden in der XLSX-Migrationstabelle (vgl. Aktenstueck xlsx/migration-bestandsschriftsaetze-status.xlsx) erfasst. Felder: Dokumentname, Erstell-Jahr, Zitierstandard-Version, Anzahl Zitatstellen, Fehlertypen.
+Alle 312 Schriftsatz-Vorlagen wurden in der XLSX-Migrationstabelle (vgl. Aktenstück xlsx/migration-bestandsschriftsaetze-status.xlsx) erfasst. Felder: Dokumentname, Erstell-Jahr, Zitierstandard-Version, Anzahl Zitatstellen, Fehlertypen.
 
 ### Schritt 2 — Priorisierung
 
-Priorisierung nach Nutzungshaeufigkeit und Fehlerrisiko:
-- Prio 1 (hoch): Schriftsaetze mit BeckRS-Zitaten und ohne URL → sofortige Migration
+Priorisierung nach Nutzungshäufigkeit und Fehlerrisiko:
+- Prio 1 (hoch): Schriftsätze mit BeckRS-Zitaten und ohne URL → sofortige Migration
 - Prio 2 (mittel): Palandt-Zitate 2022 ff. (PV-PG-Risiko) → Migration Q4 2025
-- Prio 3 (niedrig): Historische Schriftsaetze, keine Wiederverwendung → Archivierung, keine Migration
+- Prio 3 (niedrig): Historische Schriftsätze, keine Wiederverwendung → Archivierung, keine Migration
 
 ### Schritt 3 — Automatisierte Vorab-Pruefung
 
@@ -43,11 +43,11 @@ Stand Oktober 2025: 147 von 312 Schriftsaetzen migriert (47 %).
 
 ### Schritt 4 — Manuelle Pruefung und Korrektur
 
-Jede migrierte Vorlage wird von einem wissenschaftlichen Mitarbeiter oder einer Mitarbeiterin manuell gegengecheckt. Visuelles Pruefprotokoll wird im DMS hinterlegt.
+Jede migrierte Vorlage wird von einem wissenschaftlichen Mitarbeiter oder einer Mitarbeiterin manuell gegengecheckt. Visuelles Prüfprotokoll wird im DMS hinterlegt.
 
 ### Schritt 5 — Abnahme und Freigabe
 
-Abnahme durch Dr. Pohlmann-Wittfeldt. Freigabe fuer Kanzleigebrauch durch Dr. Roosendaal.
+Abnahme durch Dr. Pohlmann-Wittfeldt. Freigabe für Kanzleigebrauch durch Dr. Roosendaal.
 
 ---
 
@@ -66,12 +66,12 @@ Abnahme durch Dr. Pohlmann-Wittfeldt. Freigabe fuer Kanzleigebrauch durch Dr. Ro
 
 ## D. Migrationsprobleme
 
-| Problem | Haeufigkeit | Loesung |
+| Problem | Häufigkeit | Lösung |
 |---|---|---|
-| Palandt 2022 f. (PV-PG) | 38 Dokumente | Kurztitel tauschen; Rn. pruefen |
+| Palandt 2022 f. (PV-PG) | 38 Dokumente | Kurztitel tauschen; Rn. prüfen |
 | BeckRS ohne Lizenznachweis (PV-BR) | 61 Dokumente | Amtliche/freie Alternative suchen |
 | URL fehlt (PV-URL) | 112 Dokumente | URL nachtragen |
-| Unvollstaendige Zitate (PV-UV) | 29 Dokumente | Pflichtangaben erganzen |
+| Unvollständige Zitate (PV-UV) | 29 Dokumente | Pflichtangaben erganzen |
 | Mehrfach-Fundstellen falsche Reihenfolge (PV-RG) | 22 Dokumente | Reihenfolge korrigieren |
 
 ---
@@ -82,8 +82,8 @@ Abnahme durch Dr. Pohlmann-Wittfeldt. Freigabe fuer Kanzleigebrauch durch Dr. Ro
 |---|---|---|
 | Inventarisierung abgeschlossen | 01.05.2025 | Erledigt |
 | Priorisierung festgelegt | 15.05.2025 | Erledigt |
-| 50 % Schriftsaetze migriert | 31.10.2025 | In Arbeit (47 %) |
-| 80 % Schriftsaetze migriert | 30.11.2025 | Geplant |
+| 50 % Schriftsätze migriert | 31.10.2025 | In Arbeit (47 %) |
+| 80 % Schriftsätze migriert | 30.11.2025 | Geplant |
 | Abschluss Migration | 31.01.2026 | Geplant |
 
 ---

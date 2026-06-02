@@ -30,7 +30,7 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 
 - Plugin: bgb-at-pruefer
 - Startskill: allgemein
-- Gute Folgeskills: vertragsschluss-antrag-annahme, zugang-paragraph-130, taschengeld-paragraph-110, vollmacht-erteilung-umfang-erloeschen, anfechtung-routing, missbrauch-vertretungsmacht, elektronische-form-bea-qes-formfiktion, fristen-berechnung-paragraphen-186-193
+- Gute Folgeskills: vertragsschluss-antrag-annahme, zugang-paragraph-130, taschengeld-paragraph-110, vollmacht-erteilung-umfang-erlöschen, anfechtung-routing, missbrauch-vertretungsmacht, elektronische-form-bea-qes-formfiktion, fristen-berechnung-paragraphen-186-193
 
 ## Dokumente
 

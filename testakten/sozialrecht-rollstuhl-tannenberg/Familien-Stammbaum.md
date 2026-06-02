@@ -1,7 +1,7 @@
 # Familien-Stammbaum Tannenberg / Petersen
 
 
-## Uebersicht
+## Übersicht
 
 ```
                           Heinz Tannenberg                Inge Petersen geb. Olausen
@@ -38,21 +38,21 @@
         Verfahren Schulbegleitung Jugendamt
 ```
 
-## Lebensverhaeltnisse
+## Lebensverhältnisse
 
 **Haushalt 1 - Adelheidstrasse 17, 24103 Kiel**
 - Olaf Tannenberg (62) + Bertha Tannenberg (53) + Tochter Lena (16) + Mutter Margarete (84)
 - Vier-Personen-Haushalt
 - Olaf bekommt Erwerbsminderungsrente seit 2022
 - Bertha arbeitet 15 Stunden/Woche als Heilerziehungspflegerin, sonst pflegt sie Margarete
-- Lena ist Schuelerin Klasse 10 Gelehrtenschule Kiel
-- Margarete wohnt seit 09/2024 nach Schlaganfall im Haushalt, davor selbstaendig
+- Lena ist Schülerin Klasse 10 Gelehrtenschule Kiel
+- Margarete wohnt seit 09/2024 nach Schlaganfall im Haushalt, davor selbständig
 
 **Haushalt 2 - Knooper Weg 184, 24118 Kiel**
 - Bodo Petersen (62) + Lebenspartnerin Karin Lorenzen (59)
 - Zwei-Personen-Haushalt
 - Karin arbeitet als Pflegekraft Vollzeit Diakoniezentrum
-- Bodo bezieht aufstockendes Buergergeld, ggf. ab 06/2026 anteilige EM-Rente
+- Bodo bezieht aufstockendes Bürgergeld, ggf. ab 06/2026 anteilige EM-Rente
 
 ## Verbindungen zwischen den Verfahren
 
@@ -60,18 +60,18 @@
 - **Karin Petersen** ist Bodos Schwester und gleichzeitig mit Olaf verheiratet (= Bertha Tannenberg).
 
 > Achtung: Hier ist im obigen ASCII-Baum eine Vereinfachung. In Wirklichkeit ist die Genealogie so:
-> - Bodo Petersen und Bertha Tannenberg geb. Wienholz - keine direkten Geschwister, sondern Schwager und Schwaegerin ueber eine andere Linie (Olafs verstorbener Bruder war mit Bodos Schwester verheiratet).
-> Fuer die Schulung reicht aber: Bodo ist Olafs Schwager und kommt deshalb in die selbe Kanzlei.
+> - Bodo Petersen und Bertha Tannenberg geb. Wienholz - keine direkten Geschwister, sondern Schwager und Schwägerin über eine andere Linie (Olafs verstorbener Bruder war mit Bodos Schwester verheiratet).
+> Für die Schulung reicht aber: Bodo ist Olafs Schwager und kommt deshalb in die selbe Kanzlei.
 
 ## Mandatsverhaeltnis Kanzlei Holm
 
 - **Rechtsanwalt Helge Holm**, Forstweg 11, 24105 Kiel
-- Kontakt zur Familie ueber Olaf Tannenberg (Mandant seit 2022)
-- Mandat fuer Lena erteilt durch beide Eltern (Bertha + Olaf)
-- Mandat fuer Margarete erteilt durch Bertha als Bevollmaechtigte (Vorsorgevollmacht 2023)
-- Mandat fuer Bodo erteilt durch Bodo selbst (Vermittlung durch Olaf)
+- Kontakt zur Familie über Olaf Tannenberg (Mandant seit 2022)
+- Mandat für Lena erteilt durch beide Eltern (Bertha + Olaf)
+- Mandat für Margarete erteilt durch Bertha als Bevollmächtigte (Vorsorgevollmacht 2023)
+- Mandat für Bodo erteilt durch Bodo selbst (Vermittlung durch Olaf)
 
-## Drei verschiedene Versicherungsstaende
+## Drei verschiedene Versicherungsstände
 
 | Mandant | Krankenkasse | Pflegekasse | Rentenversicherer |
 |---|---|---|---|
@@ -79,13 +79,13 @@
 | Bertha | AOK NW (Familienvers.) | - | DRV Nord |
 | Lena | AOK NW (Familienvers.) | - | - |
 | Margarete | AOK NW | AOK NW Pflegekasse | DRV Nord (Witwenrente) |
-| Bodo | AOK NW (Buergergeld) | - | DRV Nord |
+| Bodo | AOK NW (Bürgergeld) | - | DRV Nord |
 
-Diese Mischung ist realistisch und absichtlich gewaehlt, damit die Schulung verschiedene Kassen abdeckt.
+Diese Mischung ist realistisch und absichtlich gewählt, damit die Schulung verschiedene Kassen abdeckt.
 
-## Vermoegens- und Einkommenssituation (fuer PKH-Pruefung)
+## Vermögens- und Einkommenssituation (für PKH-Pruefung)
 
-| Mandant | Monatseinkommen netto | Verfuegbar fuer PKH | PKH-Indikation |
+| Mandant | Monatseinkommen netto | Verfügbar für PKH | PKH-Indikation |
 |---|---|---|---|
 | Olaf (Familie) | EM-Rente 1.420 + Bertha 850 = 2.270 EUR + KG Lena 250 | Familieneinkommen relativ hoch | wahrscheinlich keine PKH |
 | Lena (Eltern) | s. Olaf | s. Olaf | wahrscheinlich Rechtsschutz - PKH nur hilfsweise |

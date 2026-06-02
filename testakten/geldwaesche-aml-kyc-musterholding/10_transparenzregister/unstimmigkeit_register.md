@@ -1,7 +1,7 @@
 # Unstimmigkeitsmeldung Transparenzregister – Musterholding Immobilien GmbH
 
 **Dokument-Nr.:** TREG-MH-2026-001  
-**Erstellt von:** RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld  
+**Erstellt von:** RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld  
 **Im Auftrag von:** Musterholding Immobilien GmbH (Meldepflichtige)  
 **Datum Feststellung der Unstimmigkeit:** 08.05.2026  
 **Datum Einreichung Meldung:** 10.05.2026  
@@ -113,5 +113,5 @@ Zur Vermeidung künftiger Unstimmigkeiten werden folgende Maßnahmen implementie
 
 ---
 
-*Dokument-Nr.: TREG-MH-2026-001 — Musterholding GmbH / Kanzlei Heller & Schoenfeld*  
+*Dokument-Nr.: TREG-MH-2026-001 — Musterholding GmbH / Kanzlei Heller & Schönfeld*  
 *Aufbewahrungsfrist: 5 Jahre (§ 8 Abs. 4 GwG)*

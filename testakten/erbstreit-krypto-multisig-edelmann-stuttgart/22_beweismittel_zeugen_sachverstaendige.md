@@ -38,7 +38,7 @@
 
 | Name | Funktion | Beauftragung | Status |
 |---|---|---|---|
-| Dipl.-Ing. Ralf Bender (Bender & Moerser, Stuttgart) | Sachverständiger Immobilienbewertung (Henrike, Klageseite) | 28.04.2025 | Kurzgutachten liegt vor (1.850.000 EUR) |
+| Dipl.-Ing. Ralf Bender (Bender & Mörser, Stuttgart) | Sachverständiger Immobilienbewertung (Henrike, Klageseite) | 28.04.2025 | Kurzgutachten liegt vor (1.850.000 EUR) |
 | SV Klever (Stuttgart-Nord) | Gegengutachter (Marlies-Seite, Strecker) | 02.05.2025 (angekündigt) | Noch nicht erhalten |
 
 **Streitpunkt:** Wert des Wohnrechts (Barwert 350.000–564.000 EUR je nach Methode); Hauptgutachten zu beauftragen wenn Parteien sich nicht einigen.

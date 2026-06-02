@@ -13,7 +13,7 @@ zwischen
 Bahnhofstraße 12 · 59348 Lüdinghausen
 HRB 4218 AG Coesfeld
 Vorstandsvorsitzende: Dr. Gerda Wohlfahrt
-Telefon: 02591 / 887 – 0 · E-Mail: waerme@swkk.de
+Telefon: 02591 / 887 – 0 · E-Mail: wärme@swkk.de
 
 — im Folgenden "Lieferant" —
 
@@ -232,7 +232,7 @@ mit
 |---|---|
 | Stadtwerke Klotzkette AG | [Name, Anschrift] |
 | Bahnhofstraße 12 · 59348 Lüdinghausen | |
-| waerme@swkk.de · 02591 / 887 – 0 | [E-Mail, Telefon] |
+| wärme@swkk.de · 02591 / 887 – 0 | [E-Mail, Telefon] |
 | Störungs-Hotline 0800 / 887 99 11 | |
 
 ---

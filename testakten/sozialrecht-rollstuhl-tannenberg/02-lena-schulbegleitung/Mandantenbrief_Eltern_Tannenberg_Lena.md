@@ -1,4 +1,4 @@
-# Brief an Familie Tannenberg - Schulbegleitung fuer Lena
+# Brief an Familie Tannenberg - Schulbegleitung für Lena
 
 **Rechtsanwalt Helge Holm - Sozialrecht - Forstweg 11, 24105 Kiel**
 **Datum: 02. April 2026 - Az.: 2026/H-307**
@@ -9,7 +9,7 @@ ich melde mich zu der Sache mit Lena und der Schulbegleitung. Die Lage ist so:
 
 ## Was ist passiert?
 
-Sie haben beim Jugendamt Kiel beantragt, dass Lena eine Schulbegleitung bekommt. Das Jugendamt hat das am 12. Maerz 2026 abgelehnt. Der Brief liegt mir vor.
+Sie haben beim Jugendamt Kiel beantragt, dass Lena eine Schulbegleitung bekommt. Das Jugendamt hat das am 12. März 2026 abgelehnt. Der Brief liegt mir vor.
 
 ## Was sagt das Jugendamt?
 
@@ -22,25 +22,25 @@ Das Jugendamt sagt zwei Sachen:
 
 - Gute Noten heisst nicht, dass alles in Ordnung ist. Lena verletzt sich selbst in Stresssituationen. Das hat die Schule am 04. Februar 2026 dokumentiert.
 - Frau Dr. Maibaum (KJP) sagt klar: Schulbegleitung ist medizinisch notwendig.
-- Die Schule selbst (Schulleiter Dr. Bock) unterstuetzt den Antrag.
+- Die Schule selbst (Schulleiter Dr. Bock) unterstützt den Antrag.
 
-Das Jugendamt hat in seinem Bescheid weder den Befund der Aerztin noch den Bericht der Schule beruecksichtigt. Das ist ein klarer Begruendungsfehler.
+Das Jugendamt hat in seinem Bescheid weder den Befund der Ärztin noch den Bericht der Schule berücksichtigt. Das ist ein klarer Begründungsfehler.
 
 ## Was schlage ich vor?
 
-1. Wir legen Widerspruch ein. Die Frist laeuft bis 13. April 2026 (ein Monat ab Bekanntgabe).
+1. Wir legen Widerspruch ein. Die Frist läuft bis 13. April 2026 (ein Monat ab Bekanntgabe).
 2. Wir reichen das KJP-Gutachten und das Schulgutachten nach.
-3. Wenn das Jugendamt den Widerspruch zurueckweist, klagen wir vor dem Sozialgericht Kiel.
+3. Wenn das Jugendamt den Widerspruch zurückweist, klagen wir vor dem Sozialgericht Kiel.
 
 ## Kosten
 
 Sie haben eine Rechtsschutzversicherung (Allianz-Police, gemeldet). Sozialrechtsschutz ist enthalten. Ich frage dort die Deckungszusage an.
 
-Falls die Versicherung nicht zahlt: Wir koennten Prozesskostenhilfe beantragen. Vor dem Sozialgericht ist das Verfahren ohnehin gerichtskostenfrei (Paragraf 183 SGG).
+Falls die Versicherung nicht zahlt: Wir könnten Prozesskostenhilfe beantragen. Vor dem Sozialgericht ist das Verfahren ohnehin gerichtskostenfrei (Paragraf 183 SGG).
 
-## Was muessen Sie tun?
+## Was müssen Sie tun?
 
-- Bitte fuehren Sie ab sofort ein kurzes Tagebuch ueber Krisensituationen Lenas (Datum, Ausloeser, Dauer, Folge).
+- Bitte führen Sie ab sofort ein kurzes Tagebuch über Krisensituationen Lenas (Datum, Auslöser, Dauer, Folge).
 - Bitte sammeln Sie weitere Belege: Arztrechnungen, Therapie-Atteste, Schulberichte.
 - Lassen Sie sich nichts vom Jugendamt sagen, was nicht schriftlich kommt.
 

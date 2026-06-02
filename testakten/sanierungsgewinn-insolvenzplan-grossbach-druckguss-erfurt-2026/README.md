@@ -1,4 +1,4 @@
-# Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Praezision GmbH & Co. KG Erfurt (2026)
+# Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Präzision GmbH & Co. KG Erfurt (2026)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -20,7 +20,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 Diese Testakte deckt die steuerlichen Aspekte einer Insolvenzplan-Sanierung mit Forderungsverzicht ab. Sie verzahnt drei Plugins:
 
 - `steuerrecht-anwalt-und-berater` (Schwerpunkt § 3a EStG, § 7b GewStG, Verlustverrechnungsmatrix, FG-Köln-Linie zur Antragstellung)
-- `insolvenzrecht` (Insolvenzplan im eroeffneten Verfahren, Schutzschirm § 270d InsO, Sachwalter und Insolvenzverwalter, Glaeubigerverhandlung)
+- `insolvenzrecht` (Insolvenzplan im eröffneten Verfahren, Schutzschirm § 270d InsO, Sachwalter und Insolvenzverwalter, Gläubigerverhandlung)
 - `grosskanzlei-corporate-ma` (Strategie, Verbindliche Auskunft § 89 AO, IV-Haftung)
 
 Schwerpunkt-Skills (Auswahl):
@@ -40,11 +40,11 @@ Schwerpunkt-Skills (Auswahl):
 
 | Punkt | Inhalt |
 |---|---|
-| Schuldnerin | Grossbach Druckguss & Praezision GmbH & Co. KG, Anscharstrasse 14, 99084 Erfurt |
+| Schuldnerin | Grossbach Druckguss & Präzision GmbH & Co. KG, Anscharstrasse 14, 99084 Erfurt |
 | Komplementaerin | Grossbach Verwaltungs-GmbH |
-| Geschaeftsfuehrer | Friedhelm Grossbach (64), Bertha Grossbach-Riemenschneider (38) |
+| Geschäftsführer | Friedhelm Grossbach (64), Bertha Grossbach-Riemenschneider (38) |
 | Mitarbeiter | 240 |
-| Branche | Aluminium- und Magnesium-Druckguss fuer Automotive-Zulieferer |
+| Branche | Aluminium- und Magnesium-Druckguss für Automotive-Zulieferer |
 | Schutzschirmverfahren | AG Erfurt 60 IN 188/26, Beschluss 12.02.2026 (§ 270d InsO) |
 | Insolvenzverwalter | RA Rainer Pabst, Drosselberg & Partner, Erfurt |
 | Sachwalter | RA Klaus Hattenberg, Hattenberg Sanierung GbR, Erfurt |
@@ -52,26 +52,26 @@ Schwerpunkt-Skills (Auswahl):
 | Forderungsverzicht im Plan | 38.000.000 EUR |
 | Verlustvortrag KSt | 12.000.000 EUR |
 | Verlustvortrag GewSt | 14.000.000 EUR |
-| Verbleibender Sanierungsertrag nach § 3a III EStG | 26.000.000 EUR (steuerbefreit ueber § 3a EStG) |
-| Konfliktpunkt | Antrag § 3a IV EStG zu spaet gestellt (FG Koeln 12 K 1413/25-Linie) |
+| Verbleibender Sanierungsertrag nach § 3a III EStG | 26.000.000 EUR (steuerbefreit über § 3a EStG) |
+| Konfliktpunkt | Antrag § 3a IV EStG zu spät gestellt (FG Koeln 12 K 1413/25-Linie) |
 
 ## Aktenzeichen
 
-| Gericht / Behoerde | Aktenzeichen |
+| Gericht / Behörde | Aktenzeichen |
 |---|---|
 | AG Erfurt — Schutzschirmverfahren | 60 IN 188/26 |
 | AG Erfurt — Planbestaetigung | 60 IN 188/26 |
 | Finanzamt Erfurt | StNr. 156/120/82736; Vorgang Sanierung 2026/188 |
 | Gewerbesteueramt der Stadt Erfurt | 65-StA-188-2026 |
-| FG Thueringen — Hilfsaufruf | (noch nicht anhaengig) |
+| FG Thüringen — Hilfsaufruf | (noch nicht anhängig) |
 
 ## Krisenverlauf
 
-Q3/2025: Verlust BMW-Kleinserien-Auftraege im Volumen 18 Mio EUR p.a. wegen Modellumstellung auf E-Plattform; Q4/2025: VW-Werkzeugbau verlagert nach Pamplona, Folgevolumen 11 Mio EUR p.a. entfaellt; Januar 2026: Hausbank kuendigt KK-Linie; 12.02.2026 Antrag § 270d InsO, Bescheinigung StB Engelmeier; Schutzschirmverfahren eroeffnet; geplante Plan-Vorlage 30.04.2026; Eroerterungs- und Abstimmungstermin 18.06.2026; Planbestaetigung 25.06.2026.
+Q3/2025: Verlust BMW-Kleinserien-Aufträge im Volumen 18 Mio EUR p.a. wegen Modellumstellung auf E-Plattform; Q4/2025: VW-Werkzeugbau verlagert nach Pamplona, Folgevolumen 11 Mio EUR p.a. entfällt; Januar 2026: Hausbank kündigt KK-Linie; 12.02.2026 Antrag § 270d InsO, Bescheinigung StB Engelmeier; Schutzschirmverfahren eröffnet; geplante Plan-Vorlage 30.04.2026; Eroerterungs- und Abstimmungstermin 18.06.2026; Planbestaetigung 25.06.2026.
 
 ## Steuerlicher Knackpunkt
 
-Der Verlustvortrag von 12 Mio EUR (KSt) reicht nicht aus, den Sanierungsertrag von 38 Mio EUR vollstaendig zu verbrauchen. Es verbleibt ein Saldo von 26 Mio EUR, der ohne § 3a EStG voll steuerpflichtig waere und die Sanierung sofort wieder zum Scheitern bringen wuerde. Der Antrag nach § 3a IV EStG ist daher zwingend rechtzeitig zu stellen. StB Engelmeier hatte ihn erst nach Planbestaetigung gestellt — eine offene Frage, ob die Linie des FG Koeln, Urteil v. 04.11.2025 — 12 K 1413/25, hier zugunsten der Schuldnerin greift oder das FA Erfurt die Steuerbefreiung versagt.
+Der Verlustvortrag von 12 Mio EUR (KSt) reicht nicht aus, den Sanierungsertrag von 38 Mio EUR vollständig zu verbrauchen. Es verbleibt ein Saldo von 26 Mio EUR, der ohne § 3a EStG voll steuerpflichtig wäre und die Sanierung sofort wieder zum Scheitern bringen würde. Der Antrag nach § 3a IV EStG ist daher zwingend rechtzeitig zu stellen. StB Engelmeier hatte ihn erst nach Planbestaetigung gestellt — eine offene Frage, ob die Linie des FG Koeln, Urteil v. 04.11.2025 — 12 K 1413/25, hier zugunsten der Schuldnerin greift oder das FA Erfurt die Steuerbefreiung versagt.
 
 ## Aktenstruktur
 
@@ -113,6 +113,6 @@ sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/
 - § 60 InsO — Haftung des Insolvenzverwalters: https://dejure.org/gesetze/InsO/60.html
 - § 370 AO — Steuerhinterziehung: https://dejure.org/gesetze/AO/370.html
 - FG Koeln, Urteil v. 04.11.2025 — 12 K 1413/25 (zur Antragstellung § 3a IV EStG)
-- BFH, Urteil v. 26.02.2003 — II R 19/01 (Verbindlichkeiten bleiben ueber Liquidation hinaus)
-- FG Koeln, Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangruecktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; relevanter Querverweis fuer das nachrangige Gesellschafterdarlehen Friedhelm Grossbach (4 Mio EUR), falls der Plan-Pfad scheitert und eine Liquidationsloesung diskutiert wird.
+- BFH, Urteil v. 26.02.2003 — II R 19/01 (Verbindlichkeiten bleiben über Liquidation hinaus)
+- FG Koeln, Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangrücktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; relevanter Querverweis für das nachrangige Gesellschafterdarlehen Friedhelm Grossbach (4 Mio EUR), falls der Plan-Pfad scheitert und eine Liquidationslösung diskutiert wird.
 - OFD Frankfurt a. M. (Liquidationsbeschluss kein konkludenter Verzicht)

@@ -4,9 +4,9 @@
 
 **Beirat** der Roeschen Tech GmbH:
 
-- Prof. Dr. Hannelore Bornhardt-Wiese (Vorsitzende, unabhaengig, Wirtschaftspruefer im Ruhestand)
+- Prof. Dr. Hannelore Bornhardt-Wiese (Vorsitzende, unabhängig, Wirtschaftsprüfer im Ruhestand)
 - Dipl.-Ing. Klaus Eitelfried (Branchen-Experte KI, ehemaliger CTO XYZ AG)
-- Dr. Sabine Wiedemann (Anwaeltin, unabhaengig)
+- Dr. Sabine Wiedemann (Anwältin, unabhängig)
 
 **Datum**: 28. Juli 2026
 
@@ -16,12 +16,12 @@
 
 Sehr geehrte Damen und Herren,
 
-aufgrund der Anrufung des Beirats durch die Gesellschafterin Christine Linnenbach gemaess § 12 (3) c) der Satzung und § 11 (1) des Shareholder Agreement (Schlichtungsklausel) hat sich der Beirat in einer Sondersitzung am 28. Juli 2026 mit dem Streit ueber die Kapitalerhoehung vom 18. Juni 2026 befasst.
+aufgrund der Anrufung des Beirats durch die Gesellschafterin Christine Linnenbach gemaess § 12 (3) c) der Satzung und § 11 (1) des Shareholder Agreement (Schlichtungsklausel) hat sich der Beirat in einer Sondersitzung am 28. Juli 2026 mit dem Streit über die Kapitalerhöhung vom 18. Juni 2026 befasst.
 
 Der Beirat hat:
 
 - die schriftlichen Unterlagen ausgewertet (Satzung, SHA, Subscription Agreement, GV-Protokoll, Klageschrift, Eilantrag)
-- die Beteiligten muendlich angehoert (Christine Linnenbach, Andrea Roesener, Bert Schmid, Vorstand Stahlauge AG, Vertreter Pi Mu Holding GmbH)
+- die Beteiligten mündlich angehört (Christine Linnenbach, Andrea Roesener, Bert Schmid, Vorstand Stahlauge AG, Vertreter Pi Mu Holding GmbH)
 
 ---
 
@@ -31,22 +31,22 @@ Der Beirat hat:
 
 Der Beirat erkennt **gemischte Befunde**:
 
-- Pi Mu Holding ist tatsaechlich ueberwiegend Finanzinvestor.
+- Pi Mu Holding ist tatsächlich überwiegend Finanzinvestor.
 - Allerdings: Pi Mu Holding bringt Zugang zum Industrie-KI-Markt durch ein neueres Beteiligungs-Portfolio in den Jahren 2024-2026.
-- Die Bewertung 38,5 Mio. Pre-Money ist im Marktvergleich **angemessen** (Beirat hat Vergleichs-Transaktionen geprueft).
-- Die strategischen Beitraege sind **vorhanden, aber nicht so stark wie behauptet**.
+- Die Bewertung 38,5 Mio. Pre-Money ist im Marktvergleich **angemessen** (Beirat hat Vergleichs-Transaktionen geprüft).
+- Die strategischen Beiträge sind **vorhanden, aber nicht so stark wie behauptet**.
 
-Der Beirat ist der Auffassung, dass die sachliche Rechtfertigung **knapp gegeben** ist — aber nicht ohne weiteres. Die Geschaeftsfuehrung haette transparenter argumentieren muessen.
+Der Beirat ist der Auffassung, dass die sachliche Rechtfertigung **knapp gegeben** ist — aber nicht ohne weiteres. Die Geschäftsführung hätte transparenter argumentieren müssen.
 
 ### 2. Treuepflicht der Mehrheits-Gesellschafter
 
 Der Beirat sieht **Verbesserungs-Bedarf**:
 
-- Die Klaegerin Christine hatte explizit ihre Bezugs-Bereitschaft fuer einen anteiligen Beitrag erklaert.
-- Diese Moeglichkeit wurde nicht ernsthaft geprueft.
-- Eine Mischvariante (Pi Mu zeichnet **anteilig** + Christine zeichnet **anteilig** + Andrea und Bert nehmen Vorzug auf nicht-ausgeuebte Bezugsrechte) waere moeglich gewesen.
+- Die Klägerin Christine hatte explizit ihre Bezugs-Bereitschaft für einen anteiligen Beitrag erklärt.
+- Diese Möglichkeit wurde nicht ernsthaft geprüft.
+- Eine Mischvariante (Pi Mu zeichnet **anteilig** + Christine zeichnet **anteilig** + Andrea und Bert nehmen Vorzug auf nicht-ausgeübte Bezugsrechte) wäre möglich gewesen.
 
-### 3. Vorlaeufige Empfehlung
+### 3. Vorläufige Empfehlung
 
 Der Beirat empfiehlt **Vergleich** auf folgender Basis:
 
@@ -56,7 +56,7 @@ a) **Pi Mu Holding GmbH zeichnet 10.000 Anteile** statt 12.500 Anteile (Investme
 
 b) **Christine Linnenbach zeichnet 2.500 Anteile** durch Bareinlage 2.500 EUR Nennwert + Aufgeld auf gleichem Preisniveau wie Pi Mu (999 EUR/Anteil) = Gesamtinvestment 2,5 Mio. EUR
 
-c) Die Anteilshoehen nach Vergleich:
+c) Die Anteilshöhen nach Vergleich:
 
 | Gesellschafter | Anteile | % |
 |---|---|---|
@@ -67,13 +67,13 @@ c) Die Anteilshoehen nach Vergleich:
 | Pi Mu | 10.000 | 19,61 % |
 | **Gesamt** | **51.000** | **100 %** |
 
-d) **Erleichterung fuer Christine**: Bareinlage erfolgt in zwei Raten:
+d) **Erleichterung für Christine**: Bareinlage erfolgt in zwei Raten:
    - 1. Mio. binnen 30 Tagen
    - 1,5 Mio. binnen 90 Tagen
 
-e) **Anfechtungsklage und Eilantrag werden zurueckgenommen** nach Eintragung der neuen Anteilskonstellation.
+e) **Anfechtungsklage und Eilantrag werden zurückgenommen** nach Eintragung der neuen Anteilskonstellation.
 
-f) **Klare Kommunikations-Richtlinien** fuer kuenftige Kapitalerhoehungen: explizite Anfrage an Minderheits-Gesellschafter mit Frist und Bezugs-Optionen.
+f) **Klare Kommunikations-Richtlinien** für künftige Kapitalerhöhungen: explizite Anfrage an Minderheits-Gesellschafter mit Frist und Bezugs-Optionen.
 
 ---
 
@@ -81,7 +81,7 @@ f) **Klare Kommunikations-Richtlinien** fuer kuenftige Kapitalerhoehungen: expli
 
 Falls die Gesellschafter den Vergleich nicht innerhalb von **14 Tagen** annehmen, wird der Beirat eine **abschliessende Stellungnahme** formulieren, die das Hauptverfahren begleitet.
 
-Der Beirat weist ausdruecklich darauf hin, dass die Schlichtungs-Empfehlung **nicht bindend** ist (§ 12 (3) c) Satzung), aber die Pflicht zur Anrufung des Beirats vor Klageerhebung (§ 11 (1) SHA) bestand und gewahrt wurde.
+Der Beirat weist ausdrücklich darauf hin, dass die Schlichtungs-Empfehlung **nicht bindend** ist (§ 12 (3) c) Satzung), aber die Pflicht zur Anrufung des Beirats vor Klageerhebung (§ 11 (1) SHA) bestand und gewahrt wurde.
 
 ---
 
@@ -89,10 +89,10 @@ Der Beirat weist ausdruecklich darauf hin, dass die Schlichtungs-Empfehlung **ni
 
 Sollte der Streit weiter eskalieren, weist der Beirat auf folgende Risiken hin:
 
-- **Reputations-Risiko** fuer alle Beteiligten
-- **Verzoegerung der Pi-Mu-Investition** bei laufender Klage (Pi Mu hat "Material Adverse Change"-Klausel)
-- **Hohe Gerichtskosten** und Streitwert-Gebuehren
-- **Belastung der Geschaeftsfuehrer** durch Anfechtung der Beschluesse
+- **Reputations-Risiko** für alle Beteiligten
+- **Verzögerung der Pi-Mu-Investition** bei laufender Klage (Pi Mu hat "Material Adverse Change"-Klausel)
+- **Hohe Gerichtskosten** und Streitwert-Gebühren
+- **Belastung der Geschäftsführer** durch Anfechtung der Beschlüsse
 
 ---
 

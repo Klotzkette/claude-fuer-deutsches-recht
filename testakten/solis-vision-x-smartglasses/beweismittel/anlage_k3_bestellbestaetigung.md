@@ -1,4 +1,4 @@
-# Anlage K 3: Bestellbestaetigung Lir Optics Ltd.
+# Anlage K 3: Bestellbestätigung Lir Optics Ltd.
 
 **Order Confirmation Number:** LO-ORD-2026-44712
 **Date:** 13 February 2026

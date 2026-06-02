@@ -8,7 +8,7 @@
 
 ## Grundlage
 
-Nach Abschluss des Vorprozesses (AG Hamburg-Altona 188 C 4711/25 und Berufung LG Hamburg 308 S 14/26) ist die Glaeubigerin berechtigt, die Kosten des Erkenntnisverfahrens gemaess § 103 ff. ZPO festzusetzen.
+Nach Abschluss des Vorprozesses (AG Hamburg-Altona 188 C 4711/25 und Berufung LG Hamburg 308 S 14/26) ist die Gläubigerin berechtigt, die Kosten des Erkenntnisverfahrens gemaess § 103 ff. ZPO festzusetzen.
 
 Die Kostenentscheidung im Urteil vom 12.11.2025 lautet:
 > „Die Beklagten tragen als Gesamtschuldner die Kosten des Rechtsstreits."
@@ -26,10 +26,10 @@ Die Kostenentscheidung im Urteil vom 12.11.2025 lautet:
 ## Verfahren Kostenfestsetzung
 
 1. Antrag auf Kostenfestsetzung beim AG Hamburg-Altona (Rechtspfleger)
-2. Kostenberechnung nach RVG und GKG beifuegen
+2. Kostenberechnung nach RVG und GKG beifügen
 3. Kostenfestsetzungsbeschluss (KFB) wird erlassen
-4. KFB ist selbstaendiger Vollstreckungstitel (§ 794 Abs. 1 Nr. 2 ZPO)
-5. Vollstreckung des KFB parallel zur Hauptforderung moeglich
+4. KFB ist selbständiger Vollstreckungstitel (§ 794 Abs. 1 Nr. 2 ZPO)
+5. Vollstreckung des KFB parallel zur Hauptforderung möglich
 
 ## Status
 

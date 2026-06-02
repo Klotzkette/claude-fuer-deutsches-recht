@@ -8,9 +8,9 @@
 
 ## A. Grundsatz URL-Pflicht
 
-Ist eine Entscheidung frei zugaenglich ueber dejure.org oder openjur.de, ist die URL-Angabe Pflicht (Hauszitierregel C.1). Das Weglassen der URL gilt als Zitierfehler (PV-URL).
+Ist eine Entscheidung frei zugänglich über dejure.org oder openjur.de, ist die URL-Angabe Pflicht (Hauszitierregel C.1). Das Weglassen der URL gilt als Zitierfehler (PV-URL).
 
-**Ausnahme:** Historische Entscheidungen, die nachweislich nicht online verfuegbar sind (fehlende URL statt falscher URL).
+**Ausnahme:** Historische Entscheidungen, die nachweislich nicht online verfügbar sind (fehlende URL statt falscher URL).
 
 ---
 
@@ -22,14 +22,14 @@ dejure.org ist ein nicht-kommerzielles Rechtsportal, das BGH-, BVerfG- und viele
 - `https://dejure.org/JJJJ,NNNN` — Kurz-URL mit Jahr und ID
 - `https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&...` — Suchlink
 
-**Kanzleistandard:** Kurz-URL bevorzugt (stabiler, kuerzer).
+**Kanzleistandard:** Kurz-URL bevorzugt (stabiler, kürzer).
 
 ### Fundstelle 90 — dejure korrekt
 
 **Zitat:**
 BGH, Urt. v. 25.10.2011, Az. XI ZR 401/10, BGHZ 191, 119 (Rn. 14), NJW 2012, 60 (61), abrufbar unter: https://dejure.org/2011,27699 (abgerufen am 01.10.2025).
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -38,8 +38,8 @@ BGH, Urt. v. 25.10.2011, Az. XI ZR 401/10, BGHZ 191, 119 (Rn. 14), NJW 2012, 60 
 **Fehlerhaftes Zitat:**
 BGH, Urt. v. 17.06.2014, Az. VI ZR 281/13, NJW 2014, 2568.
 
-**[PRUEFVERMERK — URL FEHLT (PV-URL)]**
-Entscheidung frei zugaenglich unter https://dejure.org/2014,17316 — URL-Pflicht nicht erfuellt.
+**[PRÜFVERMERK — URL FEHLT (PV-URL)]**
+Entscheidung frei zugänglich unter https://dejure.org/2014,17316 — URL-Pflicht nicht erfüllt.
 
 **Korrigiertes Zitat:**
 BGH, Urt. v. 17.06.2014, Az. VI ZR 281/13, NJW 2014, 2568 (2570), abrufbar unter: https://dejure.org/2014,17316 (abgerufen am 01.10.2025).
@@ -53,13 +53,13 @@ BGH, Urt. v. 17.06.2014, Az. VI ZR 281/13, NJW 2014, 2568 (2570), abrufbar unter
 **Zitat:**
 Riehm, Schadensersatz statt Leistung, NJW 2023, 1456, Literaturnachweis abrufbar unter: https://dejure.org/literatur/nzw-2023-1456 (abgerufen am 01.10.2025).
 
-**Pruefvermerk:** Kein Pruefvermerk. Literatur-Verweis auf dejure ist als Nachweis-Link zulaessig, nicht als Volltext-Quelle.
+**Prüfvermerk:** Kein Prüfvermerk. Literatur-Verweis auf dejure ist als Nachweis-Link zulässig, nicht als Volltext-Quelle.
 
 ---
 
 ## C. openjur.de — Format und Besonderheiten
 
-openjur.de ist ein nicht-kommerzielles Projekt mit Schwerpunkt auf Entscheidungen der Instanzgerichte (OLG, LG, AG), BSG- und BAG-Entscheidungen sowie weiteren Gerichten. Besonders wertvoll fuer Entscheidungen, die nicht in BGHZ oder NJW veroeffentlicht werden.
+openjur.de ist ein nicht-kommerzielles Projekt mit Schwerpunkt auf Entscheidungen der Instanzgerichte (OLG, LG, AG), BSG- und BAG-Entscheidungen sowie weiteren Gerichten. Besonders wertvoll für Entscheidungen, die nicht in BGHZ oder NJW veröffentlicht werden.
 
 **URL-Schema openjur:**
 `https://openjur.de/u/XXXXXXX.html`
@@ -71,7 +71,7 @@ openjur.de ist ein nicht-kommerzielles Projekt mit Schwerpunkt auf Entscheidunge
 **Zitat:**
 OLG Koeln, Urt. v. 08.03.2021, Az. 19 U 78/20, abrufbar unter: https://openjur.de/u/2312345.html (abgerufen am 01.10.2025; archiviert unter: https://web.archive.org/web/20250901000000/https://openjur.de/u/2312345.html).
 
-**Pruefvermerk:** Kein Pruefvermerk. Archivlink vorhanden — vorbildlich.
+**Prüfvermerk:** Kein Prüfvermerk. Archivlink vorhanden — vorbildlich.
 
 ---
 
@@ -80,8 +80,8 @@ OLG Koeln, Urt. v. 08.03.2021, Az. 19 U 78/20, abrufbar unter: https://openjur.d
 **Fehlerhaftes Zitat:**
 OLG Frankfurt, Urt. v. 22.04.2022, Az. 9 U 12/21.
 
-**[PRUEFVERMERK — URL FEHLT (PV-URL)]**
-Entscheidung frei zugaenglich unter openjur.de. URL nachzutragen. Gefundene URL: https://openjur.de/u/2398765.html
+**[PRÜFVERMERK — URL FEHLT (PV-URL)]**
+Entscheidung frei zugänglich unter openjur.de. URL nachzutragen. Gefundene URL: https://openjur.de/u/2398765.html
 
 **Korrigiertes Zitat:**
 OLG Frankfurt, Urt. v. 22.04.2022, Az. 9 U 12/21, abrufbar unter: https://openjur.de/u/2398765.html (abgerufen am 01.10.2025).
@@ -93,24 +93,24 @@ OLG Frankfurt, Urt. v. 22.04.2022, Az. 9 U 12/21, abrufbar unter: https://openju
 **Zitat:**
 LG Berlin, Urt. v. 14.07.2023, Az. 27 O 233/22, abrufbar unter: https://openjur.de/u/2450000.html (abgerufen am 01.10.2025).
 
-**Pruefvermerk:** Kategorie C — Archivlink fehlt (empfohlen, nicht zwingend). Kein PV-URL. Empfehlung: Archivlink nachzutragen.
+**Prüfvermerk:** Kategorie C — Archivlink fehlt (empfohlen, nicht zwingend). Kein PV-URL. Empfehlung: Archivlink nachzutragen.
 
 ---
 
 ## D. Rangfolge freie Quellen vs. amtliche Quellen
 
-Bei gleichzeitiger Verfuegbarkeit:
+Bei gleichzeitiger Verfügbarkeit:
 
 1. Amtliche Sammlung (BGHZ etc.) → immer zuerst
 2. Fachzeitschrift (NJW, NZA etc.) → zweite Stelle
-3. Amtlicher Online-Server (bundesgerichtshof.de etc.) → als URL-Ergaenzung
-4. Freie Online-Quelle (dejure.org, openjur.de) → als URL-Ergaenzung oder allein bei fehlender Zeitschriftenpublikation
+3. Amtlicher Online-Server (bundesgerichtshof.de etc.) → als URL-Ergänzung
+4. Freie Online-Quelle (dejure.org, openjur.de) → als URL-Ergänzung oder allein bei fehlender Zeitschriftenpublikation
 
 ---
 
 ## E. Zusammenfassung freie Quellen
 
-| Fundstelle | Quelle | Fehler | Pruefvermerk |
+| Fundstelle | Quelle | Fehler | Prüfvermerk |
 |---|---|---|---|
 | 90 | dejure | kein | keiner |
 | 91 | dejure | URL fehlt | PV-URL |

@@ -71,7 +71,7 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 | [01_mandatsnotiz_erstgespraech.md](01_mandatsnotiz_erstgespraech.md) | Mandatsnotiz vom Erstgespräch 12.05.2026: Sachverhalt, Sofortfragen, Verfahrensalternativen, Vollmacht |
 | [02_unternehmensprofil.md](02_unternehmensprofil.md) | Detailliertes Unternehmensprofil: Stammdaten, Leistungsportfolio, Personal, GuV-Entwicklung, Vermögen |
 | [03_liquiditaetsstatus.csv](03_liquiditaetsstatus.csv) | 13-Wochen-Liquiditätsplanung KW 20–32 mit wöchentlichen Zu- und Abflüssen, kritischen Salden und Investoren-Szenario |
-| [04_glaeubiger_und_sicherheiten.csv](04_glaeubiger_und_sicherheiten.csv) | Vollständige Gläubigerliste (16 Positionen) mit Forderungshöhe, Rang, Sicherheiten, Plangruppe und Planquote |
+| [04_gläubiger_und_sicherheiten.csv](04_glaeubiger_und_sicherheiten.csv) | Vollständige Gläubigerliste (16 Positionen) mit Forderungshöhe, Rang, Sicherheiten, Plangruppe und Planquote |
 | [05_bwa_susa_auszug.csv](05_bwa_susa_auszug.csv) | BWA-Auszug 2023–2026 (Plan) mit GuV-Positionen, Umsatz, EBITDA, Bilanzkennzahlen und monatlichen Ist-Werten |
 | [06_krisenursachen_workshop.md](06_krisenursachen_workshop.md) | Protokoll des Krisenursachen-Workshops vom 19.05.2026 (Ishikawa-Methode, 6 Kategorien, Ranking, Sanierungshebel) |
 | [07_sanierungsmassnahmen.csv](07_sanierungsmassnahmen.csv) | Maßnahmenplan mit 14 Einzelmaßnahmen, Wirkungsart, Einmal- und Dauereffekten, Status und Risikobewertung |

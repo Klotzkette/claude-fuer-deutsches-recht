@@ -37,7 +37,7 @@ Der Reviewer hat folgende Konsistenzprüfmethodik angewendet:
 | IST-GuV → PLAN-GuV Basisjahr-Übernahme | Korrekt verknüpft |
 | PERSONAL → PLAN-GuV Personalaufwand | Korrekt, Named Range "PersonalAufwand2026" stimmt |
 | INVESTITIONEN → PLAN-BILANZ Sachanlagen | Korrekt; AfA-Plan konsistent |
-| LIQUIDITAET → ZUSAMMENFASSUNG Liquiditätskennzahlen | Korrekt |
+| LIQUIDITÄT → ZUSAMMENFASSUNG Liquiditätskennzahlen | Korrekt |
 | PARAM Wachstumsraten → PLAN-GuV | Korrekt übernommen (PARAM!B5–B8) |
 
 ### Befunde mit Finding-Status

@@ -1,6 +1,6 @@
 datum,empfaenger,betrag_eur,zweck,konto,ausnahme_15b_abs2,ausnahme_begruendung,insolvenzreife_eingetreten,bewertung_iv,status
 2026-03-05,Furnier Nord GmbH,18000.00,Ratenplanrate 1,Havelbank,nein,,nein (noch vor ZU),vertretbar; ZU noch nicht eingetreten,kein Anspruch
-2026-03-15,AOK Sachsen-Anhalt,24300.00,SV-Beitraege Feb 2026,Ostmark,ja,Lohnnebenkosten; Sozialversicherungspflicht,nein,privilegierte Zahlung (§ 15b Abs 2 Satz 2 InsO),kein Anspruch
+2026-03-15,AOK Sachsen-Anhalt,24300.00,SV-Beiträge Feb 2026,Ostmark,ja,Lohnnebenkosten; Sozialversicherungspflicht,nein,privilegierte Zahlung (§ 15b Abs 2 Satz 2 InsO),kein Anspruch
 2026-03-20,Finanzamt Stendal,11200.00,Lohnsteuer Feb 2026,Havelbank,ja,steuerrechtliche Zahlungspflicht,nein,privilegierte Zahlung (§ 15b Abs 2 Satz 2 InsO),kein Anspruch
 2026-03-22,Furnier Nord GmbH,18000.00,Ratenplanrate 2 (nach Rücklastschrift vom 22.03.),Havelbank,nein,,ja (Rücklastschrift = ZU-Beginn),Zahlung nach Insolvenzreife ohne Ausnahme,ANSPRUCH § 15b - zu prüfen
 2026-04-02,Havelbank eG,35000.00,Sondertilgung nach Kontosperrandrohung,Havelbank,nein,,ja,Zahlung nach ZU; kein Ausnahmetatbestand,ANSPRUCH § 15b + § 131 Anfechtung

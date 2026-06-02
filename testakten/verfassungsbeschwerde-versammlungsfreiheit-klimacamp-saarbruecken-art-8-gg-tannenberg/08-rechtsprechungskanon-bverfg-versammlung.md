@@ -1,7 +1,7 @@
 # 08 — Rechtsprechungskanon BVerfG — Versammlungsfreiheit
 
 **Zusammenstellung:** RA Dr. Roosendaal-Eichmueller / Prof. Dr. Birkenhain
-**Stand:** Maerz 2026
+**Stand:** März 2026
 
 ---
 
@@ -12,13 +12,13 @@
 **Quelle:** [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1985/10/rs19851014_1bvr033583.html)
 
 **Leitsaetze (Auswahl):**
-- Die Versammlungsfreiheit ist fuer eine freiheitlich demokratische Staatsordnung konstituierend; sie erweist sich als unverzichtbares Funktionselement des demokratischen Gemeinwesens.
-- Der Begriff der Versammlung umfasst alle Zusammenkuenfte, bei denen die Besucher durch eigene kommunikative Beteiligung oder als Adressaten oeffentlicher Meinungsaeusserungen an der offentlichen Meinungsbildung teilhaben.
-- Versammlungen koennen sich in unterschiedlichsten Aktionsformen aeussern — auch in Formen des unmittelbaren Protests.
+- Die Versammlungsfreiheit ist für eine freiheitlich demokratische Staatsordnung konstituierend; sie erweist sich als unverzichtbares Funktionselement des demokratischen Gemeinwesens.
+- Der Begriff der Versammlung umfasst alle Zusammenkünfte, bei denen die Besucher durch eigene kommunikative Beteiligung oder als Adressaten öffentlicher Meinungsaeusserungen an der offentlichen Meinungsbildung teilhaben.
+- Versammlungen können sich in unterschiedlichsten Aktionsformen aeussern — auch in Formen des unmittelbaren Protests.
 
 **Tragende Randnummern (juris):** Rn. 64 (Konstitutivfunktion Versammlungsfreiheit), Rn. 67-71 (Versammlungsbegriff), Rn. 78 ff. (Verhaeltnismaessigkeit).
 
-**Relevanz Klimacamp:** Grundlegendes Verstaendnis der Versammlungsfreiheit als demokratisches Korrektiv. Der weite Versammlungsbegriff erfasst auch Dauerprotestcamps.
+**Relevanz Klimacamp:** Grundlegendes Verständnis der Versammlungsfreiheit als demokratisches Korrektiv. Der weite Versammlungsbegriff erfasst auch Dauerprotestcamps.
 
 ---
 
@@ -29,10 +29,10 @@
 **Quelle:** [dejure.org](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2087%2C%20399)
 
 **Leitsaetze (Auswahl):**
-- Sitzblockaden sind als Versammlung i.S.d. Art. 8 I GG schutzwuerdig, solange der kommunikative Aspekt gegenueber dem blockierenden Aspekt ueberwiegt.
+- Sitzblockaden sind als Versammlung i.S.d. Art. 8 I GG schutzwürdig, solange der kommunikative Aspekt gegenüber dem blockierenden Aspekt überwiegt.
 - Der Schutz des Art. 8 GG erstreckt sich auf Formen des unmittelbaren Protests auch dann, wenn diese mit gewissen Behinderungen verbunden sind.
 
-**Relevanz Klimacamp:** Bestaetigt, dass auch „behinderungsintensive" Protestformen grundrechtlich schutzwuerdig bleiben, solange die Kommunikationsfunktion erhalten bleibt.
+**Relevanz Klimacamp:** Bestätigt, dass auch „behinderungsintensive" Protestformen grundrechtlich schutzwürdig bleiben, solange die Kommunikationsfunktion erhalten bleibt.
 
 ---
 
@@ -43,10 +43,10 @@
 **Quelle:** [dejure.org](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2092%2C%201)
 
 **Leitsaetze (Auswahl):**
-- Konkretisierung der Sitzblockaden-Rechtsprechung hinsichtlich der strafrechtlichen Bewertung (§ 240 StGB — Noetigung).
+- Konkretisierung der Sitzblockaden-Rechtsprechung hinsichtlich der strafrechtlichen Bewertung (§ 240 StGB — Nötigung).
 - Der Einsatz physischer Mittel zur Willensbeugung (Gewalt im strafrechtlichen Sinne) verliert den Schutz des Art. 8 GG.
 
-**Relevanz Klimacamp:** Abgrenzung friedlicher Protest (schutzwuerdig) von koerperlichem Zwang (nicht schutzwuerdig). Das Klimacamp plant keine koerperlichen Zwangsmassnahmen.
+**Relevanz Klimacamp:** Abgrenzung friedlicher Protest (schutzwürdig) von körperlichem Zwang (nicht schutzwürdig). Das Klimacamp plant keine körperlichen Zwangsmassnahmen.
 
 ---
 
@@ -57,11 +57,11 @@
 **Quelle:** [openjur.de](https://openjur.de/u/149898.html)
 
 **Leitsaetze / Kernaaussagen:**
-- Weitraeumige Versammlungsverbote rund um Grossereignisse (G8-Gipfel Heiligendamm) beduarfen einer besonders sorgfaeltigen Verhaeltnismaessigkeitspruefung.
-- Eine polizeiliche Gefahrenprognose, die ein pauschales Verbot stuetzt, muss auf konkreten Tatsachen beruhen.
-- Die Versammlungsbehoerde darf nicht allein auf abstrakte Sicherheitsbedenken verweisen.
+- Weitraeumige Versammlungsverbote rund um Grossereignisse (G8-Gipfel Heiligendamm) beduarfen einer besonders sorgfältigen Verhaeltnismaessigkeitspruefung.
+- Eine polizeiliche Gefahrenprognose, die ein pauschales Verbot stützt, muss auf konkreten Tatsachen beruhen.
+- Die Versammlungsbehörde darf nicht allein auf abstrakte Sicherheitsbedenken verweisen.
 
-**Relevanz Klimacamp:** Direkte Parallele: Auch hier wird das Verbot auf abstrakte Begruendungen gestuetzt ohne konkrete Tatsachengrundlage. Der „Heiligendamm"-Massstab gilt unmittelbar.
+**Relevanz Klimacamp:** Direkte Parallele: Auch hier wird das Verbot auf abstrakte Begründungen gestützt ohne konkrete Tatsachengrundlage. Der „Heiligendamm"-Massstab gilt unmittelbar.
 
 ---
 
@@ -73,10 +73,10 @@
 
 **Kernaaussagen:**
 - Versammlungsverbote im Umfeld von Einrichtungen von oeffentlichem Interesse (Atomkraftwerke, Parlamentsgebaeude) sind am strengen Massstab der Verhaeltnismaessigkeit zu messen.
-- Abstrakte Gefahrenprognosen ohne individuelle Tatsachengrundlage genuegen nicht.
-- Auflagen sind gegenueber einem Totalverbot stets vorzuziehen, sofern sie den legitimen Schutzzweck erreichbar machen.
+- Abstrakte Gefahrenprognosen ohne individuelle Tatsachengrundlage genügen nicht.
+- Auflagen sind gegenüber einem Totalverbot stets vorzuziehen, sofern sie den legitimen Schutzzweck erreichbar machen.
 
-**Relevanz Klimacamp:** Mildere Mittel (Auflagen) gehen Totalverbot vor. Massstab gilt unmittelbar fuer das Klimacamp-Verbot.
+**Relevanz Klimacamp:** Mildere Mittel (Auflagen) gehen Totalverbot vor. Massstab gilt unmittelbar für das Klimacamp-Verbot.
 
 ---
 
@@ -87,11 +87,11 @@
 **Quelle:** [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2002/01/rs20020122_1bvr029895.html)
 
 **Leitsaetze (Auswahl):**
-- Bannmeilengesetze sind am Massstab des Art. 8 II GG zu messen; sie sind nur verfassungskonform, wenn sie hinreichend bestimmt sind und eine konkrete — nicht bloss abstrakte — Beeintraechtigung parlamentarischer Arbeit voraussetzen.
-- Ein generelles Verbot aller Versammlungen in einer Bannmeile waere mit Art. 8 GG unvereinbar.
-- Die Norm muss eine einzelfallbezogene Abwaegung ermoeglichen.
+- Bannmeilengesetze sind am Massstab des Art. 8 II GG zu messen; sie sind nur verfassungskonform, wenn sie hinreichend bestimmt sind und eine konkrete — nicht bloss abstrakte — Beeinträchtigung parlamentarischer Arbeit voraussetzen.
+- Ein generelles Verbot aller Versammlungen in einer Bannmeile wäre mit Art. 8 GG unvereinbar.
+- Die Norm muss eine einzelfallbezogene Abwägung ermöglichen.
 
-**Relevanz Klimacamp:** § 16 SaarlVersG als Bannmeilenregelung muss im Einklang mit diesem Urteil ausgelegt werden; die Behoerde hat dies versaeumt.
+**Relevanz Klimacamp:** § 16 SaarlVersG als Bannmeilenregelung muss im Einklang mit diesem Urteil ausgelegt werden; die Behörde hat dies versäumt.
 
 ---
 
@@ -104,7 +104,7 @@
 
 **Kernaaussagen:**
 - Das Rechtsschutzinteresse an der Feststellung der Rechtswidrigkeit eines erledigten Versammlungsverbots bleibt erhalten (sog. Wiederholungsgefahr, Rehabilitierungsinteresse).
-- Art. 19 IV GG gebietet effektiven Rechtsschutz auch fuer kurzzeitige Verbote, deren Erledigung unvermeidlich ist.
+- Art. 19 IV GG gebietet effektiven Rechtsschutz auch für kurzzeitige Verbote, deren Erledigung unvermeidlich ist.
 
 **Relevanz Klimacamp:** Das Rechtsschutzinteresse der BF bleibt auch nach Ende des geplanten Campzeitraums erhalten. Das OVG hat dies verkannt.
 

@@ -1,4 +1,4 @@
-# Vorschau: BSAG-TermSheet-Kiosk-Huckelriede - Kopie
+# Vorschau: BSAG-TermSheet-Kiosk-Huckelriede
 
 > Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 

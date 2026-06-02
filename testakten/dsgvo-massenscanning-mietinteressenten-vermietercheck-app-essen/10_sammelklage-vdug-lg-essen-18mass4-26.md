@@ -13,25 +13,25 @@
 
 Das VDuG (Verbraucherrechtedurchsetzungsgesetz) ist am 13. Oktober 2023 in Kraft getreten und setzt die Verbandsklagenrichtlinie (EU) 2020/1828 in deutsches Recht um. Es ermoeooglicht qualifizierten Verbrauchereinrichtungen und Verboenden, Musterfeststellungsklagen und Abschoeepfungsklagen im Namen einer Vielzahl von Verbrauchern zu erheben.
 
-**Anwendbarkeit auf DSGVO-Ansprueche:**
-Das VDuG erfasst nach § 2 VDuG Unterlassungsansprueche, Feststellungsansprueche und Schadensersatzansprueche von Verbrauchern, die aus Rechtsverletzungen entstehen. Datenschutzverletzungen, die zu immateriellen Schaeden nach Art. 82 DSGVO fuehren, sind vom Anwendungsbereich erfasst, soweit die Betroffenen als Verbraucher agieren — was bei Mietinteressenten regelmaessig der Fall ist.
+**Anwendbarkeit auf DSGVO-Ansprüche:**
+Das VDuG erfasst nach § 2 VDuG Unterlassungsansprüche, Feststellungsansprüche und Schadensersatzansprüche von Verbrauchern, die aus Rechtsverletzungen entstehen. Datenschutzverletzungen, die zu immateriellen Schäden nach Art. 82 DSGVO führen, sind vom Anwendungsbereich erfasst, soweit die Betroffenen als Verbraucher agieren — was bei Mietinteressenten regelmaessig der Fall ist.
 
 ### 1.2 Verfahrensparteien
 
-**Klaeger:** Verbraucherzentrale NRW e.V. (VZ NRW, Duesseldorf), Klaeger als repraesentative Einrichtung nach § 3 VDuG i.V.m. Anlage 1 VDuG, handelnd im Namen von 8.200 angemeldeten Betroffenen.
+**Kläger:** Verbraucherzentrale NRW e.V. (VZ NRW, Düsseldorf), Kläger als repräsentative Einrichtung nach § 3 VDuG i.V.m. Anlage 1 VDuG, handelnd im Namen von 8.200 angemeldeten Betroffenen.
 
 **Beklagte:** VermieterCheck Solutions GmbH, Ruhrallee 188, 45136 Essen.
 
-**Prozessbevollmaechtigte Beklagte:** Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH, Duesseldorf.
+**Prozessbevollmaechtigte Beklagte:** Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH, Düsseldorf.
 
 ---
 
 ## 2. Klagebegehrren und Anspruchsgrundlage
 
-### 2.1 Geltend gemachte Ansprueche
+### 2.1 Geltend gemachte Ansprüche
 
 Die Verbraucherzentrale NRW macht geltend:
-1. **Feststellungsklage (§ 15 VDuG):** Feststellung, dass VCS durch den Betrieb von ProspectScore Pro ohne wirksame Einwilligung das Recht der 8.200 Klaeger auf Schutz personenbezogener Daten verletzt hat
+1. **Feststellungsklage (§ 15 VDuG):** Feststellung, dass VCS durch den Betrieb von ProspectScore Pro ohne wirksame Einwilligung das Recht der 8.200 Kläger auf Schutz personenbezogener Daten verletzt hat
 2. **Leistungsklage (Schadensersatz Art. 82 DSGVO):** Immaterieller Schadensersatz je 1.500 EUR pro betroffenem Mietinteressenten
 3. **Unterlassung:** Unterlassung des weiteren Betriebs von ProspectScore Pro ohne DSGVO-konforme Rechtsgrundlage
 
@@ -39,7 +39,7 @@ Die Verbraucherzentrale NRW macht geltend:
 
 ### 2.2 Anspruchsgrundlage Art. 82 DSGVO
 
-Art. 82 Abs. 1 DSGVO gewaehrt jeder Person, der wegen eines Verstosses gegen die DSGVO ein materieller oder immaterieller Schaden entstanden ist, einen Anspruch auf Schadensersatz gegen den Verantwortlichen.
+Art. 82 Abs. 1 DSGVO gewährt jeder Person, der wegen eines Verstosses gegen die DSGVO ein materieller oder immaterieller Schaden entstanden ist, einen Anspruch auf Schadensersatz gegen den Verantwortlichen.
 
 **Haftungsvoraussetzungen:**
 1. Verstoss gegen DSGVO — von VCS nicht bestreitbar (s. Akten 03, 04)
@@ -55,14 +55,14 @@ Art. 82 Abs. 1 DSGVO gewaehrt jeder Person, der wegen eines Verstosses gegen die
 | Stadium | Rechtsgrundlage | Status |
 |---------|----------------|--------|
 | Anmeldung der Betroffenen | § 10 VDuG | Abgeschlossen (8.200 Betroffene) |
-| Eroefffnung Massenverfahren | § 14 VDuG | Eroeffnet 15.12.2025 |
+| Eroefffnung Massenverfahren | § 14 VDuG | Eröffnet 15.12.2025 |
 | Feststellungsurteil | §§ 15-17 VDuG | Ausstehend |
 | Individualurteil (Schadensersatz) | §§ 18-20 VDuG | Nach Feststellungsurteil |
 | Vollstreckung | §§ 21-25 VDuG | Nach Urteil |
 
-### 3.2 Zustaendigkeit LG Essen
+### 3.2 Zuständigkeit LG Essen
 
-Das Landgericht Essen ist sachlich (§ 71 GVG — 5.000 EUR+) und oertlich (§ 12 VDuG — Sitz der Beklagten) zustaendig. Die speziell eingerichtete Kammer fuer Massenverfahren (18. Zivilkammer) ist gemaess Geschaeftsverteilungsplan 2026 zustaendig.
+Das Landgericht Essen ist sachlich (§ 71 GVG — 5.000 EUR+) und örtlich (§ 12 VDuG — Sitz der Beklagten) zuständig. Die speziell eingerichtete Kammer für Massenverfahren (18. Zivilkammer) ist gemaess Geschäftsverteilungsplan 2026 zuständig.
 
 ---
 
@@ -70,17 +70,17 @@ Das Landgericht Essen ist sachlich (§ 71 GVG — 5.000 EUR+) und oertlich (§ 1
 
 ### 4.1 Argument 1: Fehlende Aktivlegitimation der VZ NRW
 
-Fuer die Aktivlegitimation nach § 3 VDuG muss die Klaegereinrichtung in der Liste des § 4 VDuG eingetragen sein (Qualifizierte Einrichtungen). Die VZ NRW ist als eingetragene Verbrauchereinrichtung anerkannt — dieses Argument schlaegt fehl.
+Für die Aktivlegitimation nach § 3 VDuG muss die Klaegereinrichtung in der Liste des § 4 VDuG eingetragen sein (Qualifizierte Einrichtungen). Die VZ NRW ist als eingetragene Verbrauchereinrichtung anerkannt — dieses Argument schlägt fehl.
 
-**Fallback:** Pruefung, ob die geltend gemachten Ansprueche saemtlich von Verbrauchern stammen. Falls Unternehmer unter den 8.200 Anmeldern sind, sind diese aus dem Verfahren auszuscheiden.
+**Fallback:** Pruefung, ob die geltend gemachten Ansprüche sämtlich von Verbrauchern stammen. Falls Unternehmer unter den 8.200 Anmeldern sind, sind diese aus dem Verfahren auszuscheiden.
 
 ### 4.2 Argument 2: Fehlender Schaden — Bagatellgrenze
 
-S. ausfuehrlich Akte 11 (Art. 82 DSGVO Bagatellgrenze).
+S. ausführlich Akte 11 (Art. 82 DSGVO Bagatellgrenze).
 
-Kurzfassung: Der EuGH hat in C-300/21 (Oesterreichische Post, 04.05.2023) klargestellt, dass nicht jeder Verstoss gegen die DSGVO automatisch zu einem Schadensersatzanspruch fuehrt. Ein tatsaechlicher Schaden muss vorliegen; bloss abstrakte Angst genuegt grundsaetzlich nicht.
+Kurzfassung: Der EuGH hat in C-300/21 (Österreichische Post, 04.05.2023) klargestellt, dass nicht jeder Verstoss gegen die DSGVO automatisch zu einem Schadensersatzanspruch führt. Ein tatsächlicher Schaden muss vorliegen; bloss abstrakte Angst genügt grundsätzlich nicht.
 
-**Verteidigungsargument:** Kein Betroffener der 8.200 Klaeger hat dargelegt, infolge des ProspectScore-Pro-Scorings konkret eine Wohnung nicht bekommen zu haben. Die Sammelklage benoetigt individuelle Kausalitaetsnachweise.
+**Verteidigungsargument:** Kein Betroffener der 8.200 Kläger hat dargelegt, infolge des ProspectScore-Pro-Scorings konkret eine Wohnung nicht bekommen zu haben. Die Sammelklage benötigt individuelle Kausalitaetsnachweise.
 
 ### 4.3 Argument 3: Mitverschulden der Betroffenen
 
@@ -88,13 +88,13 @@ Betroffene, die ihre Einwilligung (wenn auch unwirksam) aktiv erteilt haben und 
 
 ### 4.4 Argument 4: Verjaahrung
 
-Art. 82 DSGVO sieht keine eigene Verjaahrungsregelung vor. Nach § 195 BGB gilt die regelmaeßige Verjaahrungsfrist von 3 Jahren. Fuer Mietinteressenten, die vor Januar 2023 bewertet wurden, koennte Verjaahrung eingetreten sein.
+Art. 82 DSGVO sieht keine eigene Verjaahrungsregelung vor. Nach § 195 BGB gilt die regelmäßige Verjaahrungsfrist von 3 Jahren. Für Mietinteressenten, die vor Januar 2023 bewertet wurden, könnte Verjaahrung eingetreten sein.
 
-**Pruefung:** Kenntnismoment (§ 199 Abs. 1 BGB) — Betroffene hatten vor der oeffentlichen Berichterstattung (Dezember 2025 / Januar 2026) keine Kenntnis. Verjaahrung beginnt 01.01.2026 (Jahr der Kenntnis). Einwand greift nur fuer fruehste Verarbeitungen (vor 01.01.2023).
+**Pruefung:** Kenntnismoment (§ 199 Abs. 1 BGB) — Betroffene hatten vor der öffentlichen Berichterstattung (Dezember 2025 / Januar 2026) keine Kenntnis. Verjaahrung beginnt 01.01.2026 (Jahr der Kenntnis). Einwand greift nur für frühste Verarbeitungen (vor 01.01.2023).
 
 ### 4.5 Argument 5: Mitwirkung an Sanierungsmassnahmen (Schlichtungsangebot)
 
-VCS wird anbieten, einen Schlichtungsfonds von 500.000 EUR einzurichten und Betroffene pauschal mit 60 EUR je Person (= 492.000 EUR gesamt) zu entschaedigen — als Vergleichsangebot vor Feststellungsurteil. Dies reduziert das Gesamtrisiko erheblich und ist PR-wirksam.
+VCS wird anbieten, einen Schlichtungsfonds von 500.000 EUR einzurichten und Betroffene pauschal mit 60 EUR je Person (= 492.000 EUR gesamt) zu entschädigen — als Vergleichsangebot vor Feststellungsurteil. Dies reduziert das Gesamtrisiko erheblich und ist PR-wirksam.
 
 ---
 
@@ -103,9 +103,9 @@ VCS wird anbieten, einen Schlichtungsfonds von 500.000 EUR einzurichten und Betr
 | Massnahme | Zeitpunkt | Ziel |
 |-----------|-----------|------|
 | Klageerwiderung einreichen | 15.03.2026 | Setzung Verteidigungspositionen |
-| Antrag auf Vorabentscheidung EuGH | Ggf. nach Klageerwiderung | Klaerung Bagatellgrenze |
+| Antrag auf Vorabentscheidung EuGH | Ggf. nach Klageerwiderung | Klärung Bagatellgrenze |
 | Vergleichsangebot | Mai 2026 | Verfahrensbeendigung |
-| Sachverstaendigengutachten | Gemaess Beweisbeschluss | Widerlegung Kausalitaet |
+| Sachverstaendigengutachten | Gemaess Beweisbeschluss | Widerlegung Kausalität |
 
 ---
 

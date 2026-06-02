@@ -89,7 +89,7 @@ testakten/sozialrecht-rollstuhl-tannenberg/
 
 1. **Triage** - vier Bescheide auf den Tisch, SGB-Buch zuordnen
 2. **Frist-Quick-Check** - 60 Sekunden pro Bescheid, Ampel rot/gelb/grün
-3. **Bescheidanalyse** - Begründungsmaengel finden
+3. **Bescheidanalyse** - Begründungsmängel finden
 4. **Widerspruch** - Bausteine zusammensetzen
 5. **Mandantenbrief** - in einfacher Sprache
 6. **Strategie** - PKH, Eilrechtsschutz, Untätigkeitsklage

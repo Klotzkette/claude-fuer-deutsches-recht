@@ -26,7 +26,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 - Harter Umgangsstreit: Theo fordert Wechselmodell 50/50 — Vera besteht auf erweitertem Residenzmodell; Cochemer-Verfahren von Theo abgebrochen.
 - Kindeswohlaspekt: Alkohol-Vorfall 22.02.2025 in Theos Haushalt; Mara meldete den Vorfall einer Lehrerin, Jugendamt eingeschaltet; § 1666 BGB-Eilantrag in Prüfung.
 - SBGG-Personenstandswechsel Mara (15): Antrag Juli 2025, Wartefrist läuft; Theo verweigert Zustimmung; Antrag auf gerichtliche Ersatzzustimmung vorzubereiten.
-- Zugewinnausgleich: Architekturbuero PartGmbB (Wert 1,42 Mio. EUR lt. Gutachten), Holzwerkstätten e.K. Theo (rd. 410 TEUR vorläufig); gemeinsames Haus (920 TEUR); Vera wahrscheinlich ausgleichspflichtig ca. 217 TEUR.
+- Zugewinnausgleich: Architekturbüro PartGmbB (Wert 1,42 Mio. EUR lt. Gutachten), Holzwerkstätten e.K. Theo (rd. 410 TEUR vorläufig); gemeinsames Haus (920 TEUR); Vera wahrscheinlich ausgleichspflichtig ca. 217 TEUR.
 - Unterhalt: Vera (ca. 8.400 EUR/Monat) vs. Theo (ca. 3.100 EUR): Kindesunterhalt an Theo (drei Kinder, Mangelfall möglich); Trennungsunterhalt Theo an Vera: ca. 900 EUR/Monat im Kompromissbereich.
 - Versorgungsausgleich: AKNS-Versorgungswerk Vera bedeutsam (Ehezeitanteil 2.143 EUR/Mon.); interne Teilung Regelfall.
 - Immobilie: Vera will Haus übernehmen (Auskauf Theos Anteil rd. 319 TEUR), um den Kindern Stabilität zu geben.

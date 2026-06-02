@@ -1,11 +1,11 @@
-Objekt,Bundesland,Belegenheits-FA,Grundbesitzwert EUR (Stand 31.12.2024),Steuersatz Arbeitshypothese,Tatsaechliche Nutzung,Hauptmieter,Mietvertragsende,Hinweis
-Logistikzentrum Haveltor,Brandenburg,Finanzamt Oranienburg,11800000,6.5%,Kuehllogistik und Trockenlager,KurierPlus AG,31.10.2034,Hauptobjekt; langfristiger Mietvertrag bis 2034; Foerderdarlehen ILB laeuft bis 2030
-Umschlaghalle Mainbogen,Hessen,Finanzamt Frankfurt am Main IV,8400000,6.0%,Paketumschlag und Bueroflaeche,LogiMain GmbH,30.06.2030,Altlastenvermerk Restbestand 2008; Voruntersuchung Juni 2025 abgeschlossen ohne Beanstandung
-Lagerpark Ruhrbogen,Nordrhein-Westfalen,Finanzamt Essen-Sued,14600000,6.5%,E-Commerce-Fulfillment,Trapezo Logistik GmbH,15.09.2031,Erbbaurecht fuer Teilflaeche Halle C bis 2089; Eigentum Halle A+B; Wertaufteilung intern 9.8 Mio Eigentum / 4.8 Mio Erbbaurecht
-Summe,,,34800000,,,,,Grundbesitzwert-Summe; Grundlage fuer GrESt-Bemessungsgrundlage nach Sec. 8 (2) GrEStG
+Objekt,Bundesland,Belegenheits-FA,Grundbesitzwert EUR (Stand 31.12.2024),Steuersatz Arbeitshypothese,Tatsächliche Nutzung,Hauptmieter,Mietvertragsende,Hinweis
+Logistikzentrum Haveltor,Brandenburg,Finanzamt Oranienburg,11800000,6.5%,Kühllogistik und Trockenlager,KurierPlus AG,31.10.2034,Hauptobjekt; langfristiger Mietvertrag bis 2034; Förderdarlehen ILB läuft bis 2030
+Umschlaghalle Mainbogen,Hessen,Finanzamt Frankfurt am Main IV,8400000,6.0%,Paketumschlag und Bürofläche,LogiMain GmbH,30.06.2030,Altlastenvermerk Restbestand 2008; Voruntersuchung Juni 2025 abgeschlossen ohne Beanstandung
+Lagerpark Ruhrbogen,Nordrhein-Westfalen,Finanzamt Essen-Süd,14600000,6.5%,E-Commerce-Fulfillment,Trapezo Logistik GmbH,15.09.2031,Erbbaurecht für Teilfläche Halle C bis 2089; Eigentum Halle A+B; Wertaufteilung intern 9.8 Mio Eigentum / 4.8 Mio Erbbaurecht
+Summe,,,34800000,,,,,Grundbesitzwert-Summe; Grundlage für GrESt-Bemessungsgrundlage nach Sec. 8 (2) GrEStG
 ,,,,,,,,
 Plausibilisierung Kaufpreis,Hinweis,,,,,,,
 Kaufpreis SPA (Equity Value),,,89142500,,,,,inkl. Locked-Box-Ticking-Fee von 1.642.500 EUR
-Bemessungsgrundlage GrESt (Grundbesitzwerte),,,34800000,,,,,Sec. 8 (2) GrEStG -- Anteilsvereinigung und Abs. 2b knuepfen am Grundbesitzwert an
+Bemessungsgrundlage GrESt (Grundbesitzwerte),,,34800000,,,,,Sec. 8 (2) GrEStG -- Anteilsvereinigung und Abs. 2b knüpfen am Grundbesitzwert an
 Erwartete GrESt gesamt (einfach),,,2218200,,,,,Brandenburg 767000 + Hessen 504000 + NRW 949000 (gerundet)
-Erwartete GrESt bei Doppelfestsetzung,,,4436400,,,,,Risiko Liquiditaet; Escrow 2.400.000 EUR ggf. nicht ausreichend
+Erwartete GrESt bei Doppelfestsetzung,,,4436400,,,,,Risiko Liquidität; Escrow 2.400.000 EUR ggf. nicht ausreichend

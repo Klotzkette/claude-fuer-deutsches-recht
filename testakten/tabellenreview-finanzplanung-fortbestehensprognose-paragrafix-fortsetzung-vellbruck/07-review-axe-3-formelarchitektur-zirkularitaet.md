@@ -40,7 +40,7 @@ Der Zirkularbezug ist nur durch Iterationsrechnung lösbar. Bei Deaktivierung de
 | Funktion | Anzahl Vorkommen | Blatt | Risiko |
 |---|---|---|---|
 | INDIRECT | 22 | PLAN-GuV, SZENARIEN | Mittel: Verweisbruch bei Umbenennung |
-| OFFSET | 12 | LIQUIDITAET, PLAN-CF | Mittel: Bereichsverschiebung |
+| OFFSET | 12 | LIQUIDITÄT, PLAN-CF | Mittel: Bereichsverschiebung |
 | NOW / TODAY | 3 | DECKBLATT | Niedrig: nur Datumsanzeige |
 
 ---

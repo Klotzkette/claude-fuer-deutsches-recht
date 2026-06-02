@@ -4,29 +4,29 @@ Channel-Members: lea.sommer, nils.tietjen, mara.wendt, tarek.abadi, frederik.hol
 Datum: 21.05.2026 bis 22.05.2026
 
 2026-05-21 08:12 lea.sommer: Wer hat gestern MdB Reimers angerufen? Im Kontaktlog steht HansaH2, aber Tarek sagt, es war Nordsee.
-2026-05-21 08:14 nils.tietjen: War ich. Ich habe beide erwaehnt, aber eigentlich wegen Speicher. Nicht ideal. Sorry.
+2026-05-21 08:14 nils.tietjen: War ich. Ich habe beide erwähnt, aber eigentlich wegen Speicher. Nicht ideal. Sorry.
 2026-05-21 08:15 lea.sommer: "Nicht ideal" ist eine Untertreibung. Im Mandatsvertrag steht eindeutig, dass Speicher und Elektrolyse getrennt sind.
 2026-05-21 08:19 mara.wendt: Bitte als gemischten Kontakt markieren und Offenlegung nachziehen. Und kein Vorwurf an Nils, aber bitte den Reflex einbauen, bei einem Mandantenmandat nur diesen Mandanten zu nennen.
 2026-05-21 08:22 lea.sommer: OpenGrid hat eine Einladung mit "im Auftrag der deutschen Wasserstoffindustrie" rausgeschickt. Das ist Quatsch. Wer hat das freigegeben?
-2026-05-21 08:24 nils.tietjen: Oh nein. Bitte stoppen. Eric (Tongers, OpenGrid) hat das selbst entworfen. Ich habe gestern Mittag nicht mehr drueber geschaut. Mea culpa.
-2026-05-21 08:27 mara.wendt: Wer hat es bekommen? Wie viele Empfaenger?
-2026-05-21 08:28 nils.tietjen: 14 laut Eric. Verteiler steht im Spreebogen-Drive unter "PA-Fruehstueck 2026-06-12".
-2026-05-21 08:32 lea.sommer: Mara, kannst du anrufen und stoppen lassen? Ich rufe gleich Christine Luehrs an, bevor sie es von extern hoert.
+2026-05-21 08:24 nils.tietjen: Oh nein. Bitte stoppen. Eric (Tongers, OpenGrid) hat das selbst entworfen. Ich habe gestern Mittag nicht mehr drüber geschaut. Mea culpa.
+2026-05-21 08:27 mara.wendt: Wer hat es bekommen? Wie viele Empfänger?
+2026-05-21 08:28 nils.tietjen: 14 laut Eric. Verteiler steht im Spreebogen-Drive unter "PA-Frühstück 2026-06-12".
+2026-05-21 08:32 lea.sommer: Mara, kannst du anrufen und stoppen lassen? Ich rufe gleich Christine Luehrs an, bevor sie es von extern hört.
 2026-05-21 08:34 mara.wendt: Mache ich. Eric soll sofort die Korrektur-Mail an alle 14 schicken.
 2026-05-21 09:42 frederik.holst: Compliance-Register: Vorfall #2026-014 angelegt. Bitte interne Kurzanalyse bis 23.05.2026 hochladen.
 2026-05-21 09:50 lea.sommer: Christine Luehrs ist nicht erreicht. Sprachnachricht hinterlassen.
 2026-05-21 10:24 mara.wendt: Eric hat Korrektur versandt mit Betreff "Wichtige Korrektur zur Einladung". Versand 10:18 Uhr.
 2026-05-21 13:48 tarek.abadi: Bitte beachten: Aus Sicht Konsortium ist die Branchenbehauptung in Fassung 1 sogar erlaubt, weil das Konsortium drei Akteure umfasst. Aber Konsortialvertrag verbietet "Branche allgemein". Also raus.
-2026-05-21 13:51 lea.sommer: Genau. Tarek, kannst du den Vorfall im Konsortium thematisieren? Damit das nicht nochmal an euch zurueck spielt.
+2026-05-21 13:51 lea.sommer: Genau. Tarek, kannst du den Vorfall im Konsortium thematisieren? Damit das nicht nochmal an euch zurück spielt.
 2026-05-21 13:53 tarek.abadi: Mache ich heute Abend im Konsortialtelco.
-2026-05-21 16:14 lea.sommer: Christine Luehrs hat zurueckgerufen. Sie ist sehr unglucklich. Bittet um schriftliche Bestaetigung des Vorgangs.
-2026-05-21 16:16 mara.wendt: Lea, kannst du das aufsetzen? Frederik, du gibst Compliance-Rueckmeldung. Bis 22.05.2026 EOD.
-2026-05-21 17:30 nils.tietjen: Ich rede heute Abend mit Eric. Wir muessen den OpenGrid-Vertrag praezisieren.
-2026-05-22 09:05 frederik.holst: Vorfall #2026-014 abgeschlossen. Ergebnis: Vertragsergaenzung OpenGrid + Eintragung im Register mit Verweis "Variante 1+2".
+2026-05-21 16:14 lea.sommer: Christine Luehrs hat zurückgerufen. Sie ist sehr unglucklich. Bittet um schriftliche Bestätigung des Vorgangs.
+2026-05-21 16:16 mara.wendt: Lea, kannst du das aufsetzen? Frederik, du gibst Compliance-Rückmeldung. Bis 22.05.2026 EOD.
+2026-05-21 17:30 nils.tietjen: Ich rede heute Abend mit Eric. Wir müssen den OpenGrid-Vertrag präzisieren.
+2026-05-22 09:05 frederik.holst: Vorfall #2026-014 abgeschlossen. Ergebnis: Vertragsergänzung OpenGrid + Eintragung im Register mit Verweis "Variante 1+2".
 2026-05-22 09:08 lea.sommer: Brief an Christine ist raus. Vorfall offen kommuniziert.
-2026-05-22 11:14 mara.wendt: Bitte alle: Wenn ihr unsicher seid, ob ein Kontakt auf welches Mandat zaehlt, **vor** dem Kontakt kurz im Channel fragen. Nicht hinterher.
+2026-05-22 11:14 mara.wendt: Bitte alle: Wenn ihr unsicher seid, ob ein Kontakt auf welches Mandat zählt, **vor** dem Kontakt kurz im Channel fragen. Nicht hinterher.
 2026-05-22 11:15 lea.sommer: Plus eins.
 2026-05-22 11:17 nils.tietjen: Verstanden.
-2026-05-22 11:20 tarek.abadi: Verstanden. Und ich melde mich selbst bei Auftraggeberfragen ab, wenn es um Honorarfaelligkeit geht. Das ist mir wichtig wegen Doppelrolle.
+2026-05-22 11:20 tarek.abadi: Verstanden. Und ich melde mich selbst bei Auftraggeberfragen ab, wenn es um Honorarfälligkeit geht. Das ist mir wichtig wegen Doppelrolle.
 2026-05-22 14:42 frederik.holst: Pruefung mit Stern&Partner mbB heute um 16 Uhr. Themen: OpenGrid-Klassifikation, gemischter Kontakt 12.05.2026, Eintragstextkorrektur HansaH2.
 2026-05-22 17:25 lea.sommer: Anwaltsmeeting vorbei. Dr. Beimer empfiehlt RFS-Anfrage. Ich setze Entwurf auf.

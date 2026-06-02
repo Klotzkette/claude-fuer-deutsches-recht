@@ -61,7 +61,7 @@ Vera und Theo hatten nach Veras Schilderung zuletzt selten gemeinsame Abende. Th
 | 30.04.2025 | Schreiben RAin Ganzhorn (Anwältin Theo) mit Forderung Wechselmodell | EML 2025-04-30 |
 | Mai 2025 | Theo blockiert zweiten Cochemer-Termin | mündlich Mandantin, JA-Protokoll |
 | Juli 2025 | Mara stellt Antrag nach SBGG beim Standesamt; Beratungsschein liegt vor | Aktenstück 10 |
-| August 2025 | Wirtschaftsgutachten Architekturbuero (Gutachter: WP Dreschler, Hannover): Entwert. 1,42 Mio. EUR | Aktenstück 18 |
+| August 2025 | Wirtschaftsgutachten Architekturbüro (Gutachter: WP Dreschler, Hannover): Entwert. 1,42 Mio. EUR | Aktenstück 18 |
 | Sept. 2025 | Immobilienwertgutachten: SV Klausberg, Wert 920.000 EUR | Aktenstück 17; PDF-Anlage |
 | Sept. 2025 | Aktueller Stand lt. Akte | — |
 
@@ -85,7 +85,7 @@ Vera und Theo hatten nach Veras Schilderung zuletzt selten gemeinsame Abende. Th
 |---|---|
 | RAin Sabine Helmstedt, Hannover | Kooperationsanwältin (lokal, Hannover) |
 | RAin Dr. Alexandra Ganzhorn, Hannover | Anwältin Theo Wagenknecht |
-| WP Dreschler, Hannover | Wirtschaftsgutachter Architekturbuero |
+| WP Dreschler, Hannover | Wirtschaftsgutachter Architekturbüro |
 | SV Klausberg, Hannover | Immobiliensachverständiger |
 | Jugendamt Hannover-Linden | Träger Cochemer-Prozess, ASD |
 | Frau Brandt | Familienpsychologin, Cochemer-Koordinatorin |

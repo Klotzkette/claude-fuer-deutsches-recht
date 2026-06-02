@@ -5,35 +5,35 @@ Bearbeiter: Knoblauch, Krohnstetter
 
 ## Ausgangslage
 
-Gutachten methodisch duenn (vor Ort nur 2,5 h, keine Messungen) und stilistisch auffaellig (siehe CSV). Mandant wuenscht Angriff. Wir haben gute Argumente, muessen aber nicht pauschal "KI" rufen.
+Gutachten methodisch dünn (vor Ort nur 2,5 h, keine Messungen) und stilistisch auffällig (siehe CSV). Mandant wünscht Angriff. Wir haben gute Argumente, müssen aber nicht pauschal "KI" rufen.
 
 ## Drei Eskalationsstufen
 
-### Stufe 1 — Anhoerung und Aktenherausgabe (sofort)
+### Stufe 1 — Anhörung und Aktenherausgabe (sofort)
 
-- Antrag auf muendliche Anhoerung (§ 411 Abs. 3 ZPO)
+- Antrag auf mündliche Anhörung (§ 411 Abs. 3 ZPO)
 - Antrag auf Aktenherausgabe (§ 407a Abs. 5 ZPO)
-- Fragenkatalog: persoenliche Erstellungsschritte, eingesetzte Werkzeuge, Mitarbeiterbenennung, konkrete Auffaelligkeiten
+- Fragenkatalog: persönliche Erstellungsschritte, eingesetzte Werkzeuge, Mitarbeiterbenennung, konkrete Auffälligkeiten
 
-→ Erwartung: SV muss in der Anhoerung Auskunft geben. Wenn er ausweicht oder widerspruechlich antwortet, wird Stufe 2 plausibel.
+→ Erwartung: SV muss in der Anhörung Auskunft geben. Wenn er ausweicht oder widersprüchlich antwortet, wird Stufe 2 plausibel.
 
-### Stufe 2 — Methodische Maengelruege (gleichzeitig)
+### Stufe 2 — Methodische Mängelrüge (gleichzeitig)
 
-Unabhaengig vom KI-Verdacht:
+Unabhängig vom KI-Verdacht:
 - keine Messung der Anlagenleistung
-- keine Oeffnung der Wechselrichter
+- keine Öffnung der Wechselrichter
 - keine Begutachtung der Wassereintrittsstellen
 - Halluzinations-Verdacht zur VDE-AR-N 4105
-- Pauschale Schaetzung ohne Auseinandersetzung mit Privatgutachten Wallner
+- Pauschale Schätzung ohne Auseinandersetzung mit Privatgutachten Wallner
 
 → Auch ohne KI-Vorwurf ist dieses Gutachten methodisch angreifbar.
 
-### Stufe 3 — Vergütungsanregung und Befangenheit (nach Anhoerung)
+### Stufe 3 — Vergütungsanregung und Befangenheit (nach Anhörung)
 
-Wenn Anhoerung ergibt, dass:
-- SV die persoenliche Erstellung nicht plausibilisieren kann (§ 8a Abs. 2 S. 1 Nr. 1 JVEG)
-- SV einraeumt, in erheblichem Umfang KI eingesetzt zu haben, ohne dies zu deklarieren
-- Methodische Maengel sich verdichten (§ 8a Abs. 2 S. 1 Nr. 2 JVEG)
+Wenn Anhörung ergibt, dass:
+- SV die persönliche Erstellung nicht plausibilisieren kann (§ 8a Abs. 2 S. 1 Nr. 1 JVEG)
+- SV einräumt, in erheblichem Umfang KI eingesetzt zu haben, ohne dies zu deklarieren
+- Methodische Mängel sich verdichten (§ 8a Abs. 2 S. 1 Nr. 2 JVEG)
 
 dann:
 - Anregung Vergütungsfestsetzung auf 0 Euro
@@ -42,15 +42,15 @@ dann:
 
 ## Risiken
 
-- Pauschal vorgetragener KI-Vorwurf kann auf uns zurueckfallen ("Anwalt verliert Boden")
-- Kammer koennte den KI-Verdacht als zu schwach abtun, wenn wir zu frueh eskalieren
-- Privatgutachten Wallner kostet ca. 18.000 EUR — Mandant muss das tragen koennen
+- Pauschal vorgetragener KI-Vorwurf kann auf uns zurückfallen ("Anwalt verliert Boden")
+- Kammer könnte den KI-Verdacht als zu schwach abtun, wenn wir zu früh eskalieren
+- Privatgutachten Wallner kostet ca. 18.000 EUR — Mandant muss das tragen können
 
 ## Empfehlung
 
-Stufenmodell beibehalten. Stufe 1 und 2 in einem Schriftsatz; Stufe 3 erst nach Anhoerung.
+Stufenmodell beibehalten. Stufe 1 und 2 in einem Schriftsatz; Stufe 3 erst nach Anhörung.
 
 ## Kontakte
 
 - Wallner: 0941 ... (Erweiterungsgutachten)
-- Berufung-Sondergebiet: ggf. Kollege Sperling aus dem Buero einbinden
+- Berufung-Sondergebiet: ggf. Kollege Sperling aus dem Büro einbinden

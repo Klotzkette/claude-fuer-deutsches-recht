@@ -1,4 +1,4 @@
-# Aktenuebersicht
+# Aktenübersicht
 
 ## Kanzlei
 
@@ -11,47 +11,47 @@ Sekretariat: Erna Kuelpe
 
 Kunigunde Rabenhaupt, geb. 14.09.1968, Inhaberin der **Rabenhaupt Restaurierungswerkstatt**, Altmarkt 8, 91086 Wendelheim.
 
-Die Werkstatt besteht seit 1994 und restauriert mechanische Schreibmaschinen, alte Werkbaenke, kleine Druckpressen und Bleisatzkaesten. Vier Mitarbeitende (einschliesslich der Inhaberin), eine Lehrlingsstelle, ca. 12 grosse Restaurierungsauftraege pro Jahr. Der Hauptauftraggeber 2026 ist das Stift Falkenau, das eine vollstaendige Drucksaalrestaurierung in Auftrag gegeben hat (Auftragsvolumen 78.400 EUR brutto).
+Die Werkstatt besteht seit 1994 und restauriert mechanische Schreibmaschinen, alte Werkbänke, kleine Druckpressen und Bleisatzkästen. Vier Mitarbeitende (einschliesslich der Inhaberin), eine Lehrlingsstelle, ca. 12 grosse Restaurierungsauftraege pro Jahr. Der Hauptauftraggeber 2026 ist das Stift Falkenau, das eine vollständige Drucksaalrestaurierung in Auftrag gegeben hat (Auftragsvolumen 78.400 EUR brutto).
 
 ## Gegenseite und Beteiligte
 
-- **Adelheid Krummstab**, geb. 03.11.1962, Privatadresse Schwabacher Str. 41, 90478 Nuernberg, private Sammlerin alter Werkstattmaschinen. Anbieterin der Praegepresse AW-77-426 auf der Online-Plattform AltWerk.
-- **Hildebrand Fuchs**, geb. 22.06.1971, langjaehriger Werkstattleiter der Mandantin (seit 11.05.2002), wohnhaft Wiesenstr. 12, 91086 Wendelheim. Beschaeftigt im Rahmen eines unbefristeten Arbeitsverhaeltnisses mit 38 Stunden/Woche, Bruttogehalt 4.180 EUR/Monat.
-- **Giselher Rabenhaupt**, geb. 12.02.2010 (16 Jahre), Neffe der Mandantin, wohnhaft Erikastr. 18, 91086 Wendelheim. Hilft Mittwochs und Samstags im Lager und Materiallager der Werkstatt; Ausbildungsverhaeltnis besteht nicht.
+- **Adelheid Krummstab**, geb. 03.11.1962, Privatadresse Schwabacher Str. 41, 90478 Nürnberg, private Sammlerin alter Werkstattmaschinen. Anbieterin der Praegepresse AW-77-426 auf der Online-Plattform AltWerk.
+- **Hildebrand Fuchs**, geb. 22.06.1971, langjähriger Werkstattleiter der Mandantin (seit 11.05.2002), wohnhaft Wiesenstr. 12, 91086 Wendelheim. Beschäftigt im Rahmen eines unbefristeten Arbeitsverhältnisses mit 38 Stunden/Woche, Bruttogehalt 4.180 EUR/Monat.
+- **Giselher Rabenhaupt**, geb. 12.02.2010 (16 Jahre), Neffe der Mandantin, wohnhaft Erikastr. 18, 91086 Wendelheim. Hilft Mittwochs und Samstags im Lager und Materiallager der Werkstatt; Ausbildungsverhältnis besteht nicht.
 - **Theudelinde Rabenhaupt**, Mutter Giselhers, geb. 09.04.1973, allein sorgeberechtigt.
-- **Mechthild Federlein**, Buchhaltung der Mandantin, geb. 28.07.1958, seit 1996 Buchfuehrung der Werkstatt im Werkvertrag (15 Stunden/Woche).
-- **Wendelbert Eisenhut GmbH**, Haendler fuer Werkstattbedarf, Industriestr. 14, 90439 Nuernberg, Hauptlieferant der Werkstatt seit 2014. Geschaeftsfuehrer Wendelbert Eisenhut sen., Verkauf Wendelbert Eisenhut jun.
+- **Mechthild Federlein**, Buchhaltung der Mandantin, geb. 28.07.1958, seit 1996 Buchführung der Werkstatt im Werkvertrag (15 Stunden/Woche).
+- **Wendelbert Eisenhut GmbH**, Händler für Werkstattbedarf, Industriestr. 14, 90439 Nürnberg, Hauptlieferant der Werkstatt seit 2014. Geschäftsführer Wendelbert Eisenhut sen., Verkauf Wendelbert Eisenhut jun.
 
 ## Kernfragen
 
-1. Ist ueber die Online-Auktion AW-77-426 ein Kaufvertrag ueber die kleine Praegepresse zustande gekommen?
-2. Ist die Annahme per E-Mail am 14.04.2026 rechtzeitig zugegangen oder zu spaet?
+1. Ist über die Online-Auktion AW-77-426 ein Kaufvertrag über die kleine Praegepresse zustande gekommen?
+2. Ist die Annahme per E-Mail am 14.04.2026 rechtzeitig zugegangen oder zu spät?
 3. Kann die Gegenseite (Adelheid Krummstab) wegen Preisirrtums oder Eigenschaftsirrtums anfechten?
-4. Ist der Einkauf durch Hildebrand bei der Wendelbert Eisenhut GmbH von der Vollmacht gedeckt, obwohl die interne Preisgrenze ueberschritten wurde?
-5. Ist der Kauf des Minderjaehrigen Giselher wirksam, wenn die Zahlung ueber sein eigenes Jugendkonto und einen spaeteren Ratenrest laufen sollte?
-6. Gibt es Form-, Sittenwidrigkeits-, Bedingungs- oder Verjaehrungsfragen, die den Anspruch veraendern?
-7. Kann eine arbeitsrechtliche Kuendigung gegen Hildebrand in einem elektronischen Schriftsatz ueber beA formwirksam erklaert werden oder braucht es zusaetzlich Papieroriginal und Originalvollmacht?
-8. Wie ist die Vorgehensweise mit dem Restbestand der Praegepresse bei Adelheid bis zur Klaerung des Vertrags? Wer traegt das Risiko des zufaelligen Untergangs?
+4. Ist der Einkauf durch Hildebrand bei der Wendelbert Eisenhut GmbH von der Vollmacht gedeckt, obwohl die interne Preisgrenze überschritten wurde?
+5. Ist der Kauf des Minderjährigen Giselher wirksam, wenn die Zahlung über sein eigenes Jugendkonto und einen späteren Ratenrest laufen sollte?
+6. Gibt es Form-, Sittenwidrigkeits-, Bedingungs- oder Verjaehrungsfragen, die den Anspruch verändern?
+7. Kann eine arbeitsrechtliche Kündigung gegen Hildebrand in einem elektronischen Schriftsatz über beA formwirksam erklärt werden oder braucht es zusätzlich Papieroriginal und Originalvollmacht?
+8. Wie ist die Vorgehensweise mit dem Restbestand der Praegepresse bei Adelheid bis zur Klärung des Vertrags? Wer trägt das Risiko des zufälligen Untergangs?
 9. Wie ist mit Giselhers Eltern die formelle Genehmigungs- bzw. Verweigerungserklaerung anzustossen (§ 108 BGB)?
 
 ## Bearbeitungsziel
 
 1. Erstelle zuerst eine **BGB-AT-Themenkarte** mit Priorisierung hoch/mittel/niedrig.
-2. Erstelle eine **Anspruchsmatrix** mit Norm, Tatbestand, Tatsachenanker, offenem Punkt und naechstem Arbeitsschritt.
-3. Stelle drei (nicht mehr) **Rueckfragen an die Mandantin**.
+2. Erstelle eine **Anspruchsmatrix** mit Norm, Tatbestand, Tatsachenanker, offenem Punkt und nächstem Arbeitsschritt.
+3. Stelle drei (nicht mehr) **Rückfragen an die Mandantin**.
 4. Stelle einen **Memo-Entwurf** zu der vorrangigen Frage Praegepresse zusammen.
-5. **Nicht jetzt**: Schriftsatzentwurf an Adelheid; Kuendigungserklaerung gegen Hildebrand.
+5. **Nicht jetzt**: Schriftsatzentwurf an Adelheid; Kündigungserklärung gegen Hildebrand.
 
 ## Honorar und Vollmacht
 
-Vorschuss 1.500 EUR netto eingegangen 21.04.2026. Vollmacht unterschrieben 22.04.2026 im Erstgespraech. Gegenstandswerte und Honorar werden mit Abschluss konkretisiert; Hinweis nach § 49b Abs. 5 BRAO erfolgt.
+Vorschuss 1.500 EUR netto eingegangen 21.04.2026. Vollmacht unterschrieben 22.04.2026 im Erstgespräch. Gegenstandswerte und Honorar werden mit Abschluss konkretisiert; Hinweis nach § 49b Abs. 5 BRAO erfolgt.
 
 ## Wichtige Fristen
 
 | Frist | Datum | Bezug |
 |---|---|---|
-| Anfechtungsfrist Adelheid (§ 121 BGB) | Ende Mai 2026 (unverzueglich) | Schreiben Adelheid 18.04.2026 |
-| Frist Eltern Giselher (§ 108 BGB Verweigerung/Genehmigung) | gesetzlich vier Wochen ab Aufforderung Haendler | SMS Mutter 17.04.2026 |
-| Gueteverhandlung ArbG Wendelheim (Fuchs) | 18.06.2026 | Klagezustellung |
+| Anfechtungsfrist Adelheid (§ 121 BGB) | Ende Mai 2026 (unverzüglich) | Schreiben Adelheid 18.04.2026 |
+| Frist Eltern Giselher (§ 108 BGB Verweigerung/Genehmigung) | gesetzlich vier Wochen ab Aufforderung Händler | SMS Mutter 17.04.2026 |
+| Güteverhandlung ArbG Wendelheim (Fuchs) | 18.06.2026 | Klagezustellung |
 | Frist Pruefung Stift Falkenau | 15.06.2026 | Werkstattauftrag |
-| Verjaehrung Kaufpreisanspruch Adelheid (§ 195 BGB) | 31.12.2029 | drei Jahre regelmaessig |
+| Verjährung Kaufpreisanspruch Adelheid (§ 195 BGB) | 31.12.2029 | drei Jahre regelmaessig |

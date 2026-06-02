@@ -1,9 +1,9 @@
 Beweisfrage,Vorhandener_Beleg,Offene_Anforderung,Bewertung
 Konkreter App-Freigabetext,11_Screenshots_Phishing.pdf und Parteivortrag,Vollständiger serverseitiger Freigabetext mit Layout und Parametern,GELB
 TAN-Generierung und TAN-Einsatz,24_Technisches_Protokoll_TAN.pdf,Vollständige TAN-Session inklusive Transaktionsbindung,GELB
-IP-Wechsel und Tor-Hinweis,24_Technisches_Protokoll_TAN.pdf,Geo-/Risk-Engine und Monitoringentscheidung,GRUEN fuer Mandant
-Zeitnahe Sperre,06_Email_Mayer_an_Sparkasse_280525.pdf und Sperrzeiten,Hotline-/Sperrnotrufprotokoll,GRUEN fuer Mandant
+IP-Wechsel und Tor-Hinweis,24_Technisches_Protokoll_TAN.pdf,Geo-/Risk-Engine und Monitoringentscheidung,GRÜN für Mandant
+Zeitnahe Sperre,06_Email_Mayer_an_Sparkasse_280525.pdf und Sperrzeiten,Hotline-/Sperrnotrufprotokoll,GRÜN für Mandant
 Sicherheitswarnungen,23_Sicherheitshinweis_Sparkasse_150125.pdf,Zustellung und konkrete Wahrnehmung durch Mandant,GELB
 Grobe Fahrlässigkeit,07/09/14/22 Bankunterlagen,konkrete App-Anzeige und Warnwirkung im Moment der TAN,GELB bis ROT
-Bankmonitoring,24_Technisches_Protokoll_TAN.pdf,Risikoscore 72/Schwelle 75 und manuelle Review-Akte,GELB fuer Mandant
-Schaden,17_Kontoauszuege.pdf,Rueckholungsversuche und endgültige Valuta,GRUEN
+Bankmonitoring,24_Technisches_Protokoll_TAN.pdf,Risikoscore 72/Schwelle 75 und manuelle Review-Akte,GELB für Mandant
+Schaden,17_Kontoauszuege.pdf,Rueckholungsversuche und endgültige Valuta,GRÜN

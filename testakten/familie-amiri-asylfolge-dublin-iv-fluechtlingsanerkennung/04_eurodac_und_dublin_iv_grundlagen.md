@@ -9,7 +9,7 @@
 
 ### 1.1 Dublin-IV-Verordnung
 
-Die sogenannte „Dublin-IV-Verordnung" bezeichnet die Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement (AMMVO), die die bisherige Dublin-III-Verordnung (VO (EU) Nr. 604/2013) ersetzt. Die AMMVO gilt für Asylanträge, die nach dem 1. Juli 2026 gestellt werden. Da der Asylantrag der Familie Amiri-Hosseini am 25.03.2025 und damit noch unter der Dublin-III-VO gestellt wurde, ist für dieses Verfahren noch die Dublin-III-VO (604/2013) maßgeblich — die Aktenstuecke benutzen gleichwohl den verkürzten Begriff „Dublin-IV" entsprechend dem anwaltlichen Sprachgebrauch in Hannover.
+Die sogenannte „Dublin-IV-Verordnung" bezeichnet die Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement (AMMVO), die die bisherige Dublin-III-Verordnung (VO (EU) Nr. 604/2013) ersetzt. Die AMMVO gilt für Asylanträge, die nach dem 1. Juli 2026 gestellt werden. Da der Asylantrag der Familie Amiri-Hosseini am 25.03.2025 und damit noch unter der Dublin-III-VO gestellt wurde, ist für dieses Verfahren noch die Dublin-III-VO (604/2013) maßgeblich — die Aktenstücke benutzen gleichwohl den verkürzten Begriff „Dublin-IV" entsprechend dem anwaltlichen Sprachgebrauch in Hannover.
 
 > **Verfahrensrelevant:** Für den BAMF-Ablehnungsbescheid vom 21.03.2026 und die daraufhin ergangene Überstellungsverfügung gilt Dublin-III-VO als lex causae. Die AMMVO 2024/1351 ist in der Klagestrategie als Argument zu Weiterentwicklung heranzuziehen.
 

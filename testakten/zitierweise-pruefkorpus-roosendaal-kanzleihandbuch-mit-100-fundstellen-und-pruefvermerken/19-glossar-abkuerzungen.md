@@ -1,13 +1,13 @@
-# 19 — Glossar und Abkuerzungen
+# 19 — Glossar und Abkürzungen
 
 **Kanzleihandbuch Zitierweise v4.0 — Glossar**
 **Stand: Oktober 2025**
 
 ---
 
-## A. Gerichtsabkuerzungen
+## A. Gerichtsabkürzungen
 
-| Abkuerzung | Vollbezeichnung |
+| Abkürzung | Vollbezeichnung |
 |---|---|
 | AG | Amtsgericht |
 | ArbG | Arbeitsgericht |
@@ -17,8 +17,8 @@
 | BSG | Bundessozialgericht |
 | BVerfG | Bundesverfassungsgericht |
 | BVerwG | Bundesverwaltungsgericht |
-| EuG | Gericht der Europaeischen Union |
-| EuGH | Gerichtshof der Europaeischen Union |
+| EuG | Gericht der Europäischen Union |
+| EuGH | Gerichtshof der Europäischen Union |
 | FG | Finanzgericht |
 | KG | Kammergericht |
 | LAG | Landesarbeitsgericht |
@@ -34,10 +34,10 @@
 
 ## B. Amtliche Sammlungen
 
-| Abkuerzung | Vollbezeichnung |
+| Abkürzung | Vollbezeichnung |
 |---|---|
 | BAGE | Entscheidungen des Bundesarbeitsgerichts (amtliche Sammlung) |
-| BFH/NV | BFH-Urteile und Beschluesse (Nicht in der amtlichen Sammlung) |
+| BFH/NV | BFH-Urteile und Beschlüsse (Nicht in der amtlichen Sammlung) |
 | BFHE | Entscheidungen des Bundesfinanzhofs (amtliche Sammlung) |
 | BGHZ | Entscheidungen des Bundesgerichtshofs in Zivilsachen |
 | BGHSt | Entscheidungen des Bundesgerichtshofs in Strafsachen |
@@ -49,18 +49,18 @@
 
 ---
 
-## C. Zeitschriften-Abkuerzungen
+## C. Zeitschriften-Abkürzungen
 
-| Abkuerzung | Vollbezeichnung |
+| Abkürzung | Vollbezeichnung |
 |---|---|
-| AcP | Archiv fuer die civilistische Praxis |
+| AcP | Archiv für die civilistische Praxis |
 | ArbRAktuell | Arbeitsrecht-Aktuell |
 | BB | Betriebsberater |
 | DB | Der Betrieb |
-| DoeV | Die oeffentliche Verwaltung |
+| DoeV | Die öffentliche Verwaltung |
 | DStR | Deutsches Steuerrecht |
 | DStRE | Deutsches Steuerrecht — Entscheidungsdienst |
-| FamRZ | Zeitschrift fuer das gesamte Familienrecht |
+| FamRZ | Zeitschrift für das gesamte Familienrecht |
 | FR | Finanz-Rundschau |
 | GewArch | Gewerbearchiv |
 | GRUR | Gewerblicher Rechtsschutz und Urheberrecht |
@@ -68,26 +68,26 @@
 | JZ | JuristenZeitung |
 | MDR | Monatsschrift Deutsches Recht |
 | NJW | Neue Juristische Wochenschrift |
-| NVwZ | Neue Zeitschrift fuer Verwaltungsrecht |
-| NZA | Neue Zeitschrift fuer Arbeitsrecht |
-| NZG | Neue Zeitschrift fuer Gesellschaftsrecht |
-| NZS | Neue Zeitschrift fuer Sozialrecht |
+| NVwZ | Neue Zeitschrift für Verwaltungsrecht |
+| NZA | Neue Zeitschrift für Arbeitsrecht |
+| NZG | Neue Zeitschrift für Gesellschaftsrecht |
+| NZS | Neue Zeitschrift für Sozialrecht |
 | SGb | Die Sozialgerichtsbarkeit |
 | WM | Wertpapier-Mitteilungen |
-| ZIP | Zeitschrift fuer Wirtschaftsrecht |
-| ZHR | Zeitschrift fuer das gesamte Handelsrecht und Wirtschaftsrecht |
+| ZIP | Zeitschrift für Wirtschaftsrecht |
+| ZHR | Zeitschrift für das gesamte Handelsrecht und Wirtschaftsrecht |
 
 ---
 
-## D. Zitier-Abkuerzungen
+## D. Zitier-Abkürzungen
 
-| Abkuerzung | Bedeutung |
+| Abkürzung | Bedeutung |
 |---|---|
 | a.a.O. | Am angegebenen Ort (Wiederholungszitat) |
 | A.A. / a.A. | Anderer Ansicht |
 | ABl. | Amtsblatt |
 | Abs. | Absatz |
-| AG | Allgemeine Geschaeftsbedingungen (Kontext: AGB) |
+| AG | Allgemeine Geschäftsbedingungen (Kontext: AGB) |
 | Art. | Artikel |
 | Az. | Aktenzeichen |
 | Beschl. | Beschluss |
@@ -112,13 +112,13 @@
 
 ---
 
-## E. Pruefvermerk-Kuerzel (Kanzlei-intern)
+## E. Prüfvermerk-Kürzel (Kanzlei-intern)
 
-| Kuerzel | Typ |
+| Kürzel | Typ |
 |---|---|
 | PV-BR | BeckRS-Sperre |
 | PV-LM | Literatur-Modellwissen-Sperre |
-| PV-UV | Unvollstaendiges Zitat |
+| PV-UV | Unvollständiges Zitat |
 | PV-URL | Fehlende Pflicht-URL |
 | PV-RG | Rangfolge-Fehler |
 | PV-PG | Palandt/Gruenenberg-Verwechslung |

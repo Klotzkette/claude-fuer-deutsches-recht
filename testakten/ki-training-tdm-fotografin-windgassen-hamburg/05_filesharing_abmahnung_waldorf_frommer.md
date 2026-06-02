@@ -71,7 +71,7 @@ Windgassen ist als Anschlussinhaberin grundsätzlich für das Filesharing über 
 
 ## III. Strategie
 
-**Empfehlung:** Modifizierte strafbewehrte Unterlassungserklärung abgeben (kein Schuldanerkenntnis, keine Zahlungspflicht aus der UE), Zahlung zurückweisen, Felix als alternative Täterschaft benennen, BGH „Tauschbörsen III" anführen.
+**Empfehlung:** Modifizierte strafbewehrte Unterlassungserklärung abgeben (kein Schuldanerkenntnis, keine Zahlungspflicht aus der Ü), Zahlung zurückweisen, Felix als alternative Täterschaft benennen, BGH „Tauschbörsen III" anführen.
 
 **Keine Zahlung** bis zur gerichtlichen Klärung, es sei denn Waldorf Frommer einigt sich auf signifikante Reduktion (Vergleich unter 600 EUR Gesamtbetrag wäre akzeptabel laut Mandantenaussage).
 

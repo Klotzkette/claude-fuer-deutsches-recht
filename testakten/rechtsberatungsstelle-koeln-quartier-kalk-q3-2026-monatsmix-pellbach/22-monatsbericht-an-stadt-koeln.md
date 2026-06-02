@@ -51,7 +51,7 @@ Die Beratungsstelle betreibt derzeit 2 Volljuristenstellen (eine davon Leitungss
 ## Anlage
 
 Vollständige Monatsstatistik: → Aktenstück 19 (19-statistik-monat-august-2026.md)
-Falluebersicht: → xlsx/falluebersicht-august-2026.xlsx
+Fallübersicht: → xlsx/falluebersicht-august-2026.xlsx
 
 Mit freundlichen Grüßen
 

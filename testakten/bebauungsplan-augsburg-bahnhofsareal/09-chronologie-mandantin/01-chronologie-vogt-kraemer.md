@@ -23,7 +23,7 @@ Handschriftlich geführt seit Februar 2022, ins Reine geschrieben für die Kanzl
 
 **18. September 2023 —** Zweite Einwendung abgegeben (Kopie an Kanzlei).
 
-**14. November 2023 —** Bürgerversammlung im Kongress am Park. 320 Leute, vielleicht mehr. Stadtbaurat Schimanek sagt gleich am Anfang: "Das wird so kommen." — Da bin ich aufgestanden und habe Wortmeldung Nr. 11 abgegeben. Schimanek antwortet floskelhaft. Aufgenommen mit Handy, Audiodatei abgelegt unter "Buergerversammlung_14_11_23.m4a".
+**14. November 2023 —** Bürgerversammlung im Kongress am Park. 320 Leute, vielleicht mehr. Stadtbaurat Schimanek sagt gleich am Anfang: "Das wird so kommen." — Da bin ich aufgestanden und habe Wortmeldung Nr. 11 abgegeben. Schimanek antwortet floskelhaft. Aufgenommen mit Handy, Audiodatei abgelegt unter "Bürgerversammlung_14_11_23.m4a".
 
 **Dezember 2023 —** Stadtbaurat Schimanek in der AZ: "Quartier wird im ersten Quartal 2024 fortentwickelt."
 

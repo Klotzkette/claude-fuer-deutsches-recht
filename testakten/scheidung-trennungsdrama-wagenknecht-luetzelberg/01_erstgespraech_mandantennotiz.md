@@ -45,7 +45,7 @@ Vera hat am 03.03.2025 beim Jugendamt Hannover-Linden eine formlose Meldung eing
 ### Vermögenslage (erste Angaben)
 
 - Gemeinsames Haus: Lindener Hofstraße 47, Eigentümer je 1/2, Wert nach erster Sachverständigenschätzung rd. 920.000 EUR, Restdarlehen rd. 280.000 EUR (Volksbank Hannover). Vera möchte das Haus halten, die Kinder sollen nicht umziehen müssen.
-- Architekturbuero PartGmbB: Vera als Mitinhaberin mit ihrer Schwester Anne Luetzelberg (je 50 % Gesellschafteranteile). Vera hat ein erstes Bewertungsgespräch mit dem Steuerberater der Kanzlei geführt; der Unternehmenswert liegt nach deren Einschätzung bei mindestens 1,2–1,5 Mio. EUR.
+- Architekturbüro PartGmbB: Vera als Mitinhaberin mit ihrer Schwester Anne Luetzelberg (je 50 % Gesellschafteranteile). Vera hat ein erstes Bewertungsgespräch mit dem Steuerberater der Kanzlei geführt; der Unternehmenswert liegt nach deren Einschätzung bei mindestens 1,2–1,5 Mio. EUR.
 - Theos Holzwerkstätten: 2018 gegründet, während der Ehe. Jahresumsatz nach Angabe Veras zuletzt rd. 1,1 Mio. EUR, Gewinn „deutlich schwankend".
 - BAV: Vera hat eine Betriebsrentenanwartschaft über das Versorgungswerk der Architektenkammer Niedersachsen (nicht NRW — Vera korrigiert im Gespräch auf NDS). Anwartschaft noch nicht beziffert.
 - Gesetzliche Rentenversicherung: beide versichert.
@@ -80,7 +80,7 @@ Mara, 15 Jahre, hat Vera schon vor einigen Monaten erklärt, sich nicht als Mäd
 - Kontakt zu RAin Helmstedt (Hannover) aufnehmen — ortskundige Kooperation für Termine beim Familiengericht Hannover.
 - Sorgerecht und Umgang: vorläufige schriftliche Festhaltung des Status quo sinnvoll.
 - Jugendamt Hannover: Mandantin soll Kontakt protokollieren, Kanzlei erhält Vollmacht zur Korrespondenz.
-- Wirtschaftsgutachter für Architekturbuero benennen (Hinweis: Bewertung muss Goodwill vs. Substanz trennen, da Schwester Mitgesellschafterin).
+- Wirtschaftsgutachter für Architekturbüro benennen (Hinweis: Bewertung muss Goodwill vs. Substanz trennen, da Schwester Mitgesellschafterin).
 - Nächster Besprechungstermin: 12.12.2024, 11:00 Uhr (Telefon, RAin Helmstedt zugeschaltet).
 
 ---

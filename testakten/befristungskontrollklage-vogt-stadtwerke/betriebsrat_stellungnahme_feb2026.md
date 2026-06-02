@@ -39,7 +39,7 @@ Der Betriebsrat hat Bedenken, ob die ausschließlich digitale Abwicklung des Ver
 
 Der Betriebsrat hat in seiner ordentlichen Sitzung vom 16. Januar 2026 (Protokoll-Nr. BR-2026-01) mit 5 Ja-Stimmen, 1 Nein-Stimme und 1 Enthaltung folgende Resolution beschlossen:
 
-<<Der Betriebsrat fordert die Geschaeftsfuehrung auf, Frau Vogt ein Angebot zur Weiterbeschaeftigung auf der ausgeschriebenen Stelle im Kundencenter zu unterbreiten. Fuer den Fall, dass dies nicht geschieht, behaelt sich der Betriebsrat vor, von seinen Rechten gemaess Paragraph 92a BetrVG Gebrauch zu machen.>>
+<<Der Betriebsrat fordert die Geschäftsführung auf, Frau Vogt ein Angebot zur Weiterbeschäftigung auf der ausgeschriebenen Stelle im Kundencenter zu unterbreiten. Für den Fall, dass dies nicht geschieht, behält sich der Betriebsrat vor, von seinen Rechten gemaess Paragraph 92a BetrVG Gebrauch zu machen.>>
 
 4. Hinweis auf rechtliche Risiken
 

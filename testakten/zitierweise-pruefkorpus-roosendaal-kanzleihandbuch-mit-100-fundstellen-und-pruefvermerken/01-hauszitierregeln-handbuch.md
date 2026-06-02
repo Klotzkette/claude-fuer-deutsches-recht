@@ -2,7 +2,7 @@
 
 **Kanzlei Roosendaal Birkenhainer Partners mbB**
 **Kanzleihandbuch Zitierweise — Version 4.0 (Oktober 2025)**
-**Federfuehrung: Dr. Henrik Roosendaal | Erstellung: Dr. Sophia Pohlmann-Wittfeldt | Knowledge: Moritz Lattermann**
+**Federführung: Dr. Henrik Roosendaal | Erstellung: Dr. Sophia Pohlmann-Wittfeldt | Knowledge: Moritz Lattermann**
 
 ---
 
@@ -18,18 +18,18 @@ Amtliche Sammlungen (BGHZ, BGHSt, BVerfGE, BFHE, BVerwGE, BSGE, BAGE) gehen frei
 2. NJW, JZ, MDR, AcP (erste relevante Fachzeitschrift)
 3. Spezialisierte Zeitschriften (FamRZ, NZA, BStBl., NVwZ usw.)
 4. Freie Online-Quellen: dejure.org, openjur.de (mit URL)
-5. BeckRS (nur bei aktivem Lizenzzugang; sonst: Pruefvermerk BeckRS-Sperre)
+5. BeckRS (nur bei aktivem Lizenzzugang; sonst: Prüfvermerk BeckRS-Sperre)
 
 ### A.2 Mindeststandard Rechtsprechungszitate
 
 Jedes Rechtsprechungszitat muss enthalten:
 
-- Gericht (Abkuerzung gemaess Liste in Abschnitt E)
+- Gericht (Abkürzung gemaess Liste in Abschnitt E)
 - Datum der Entscheidung (TT.MM.JJJJ)
 - Aktenzeichen
 - Fundstelle (amtliche Sammlung ODER Zeitschrift ODER freie Quelle mit URL)
 
-Fehlt eines der vier Elemente, ist das Zitat unvollstaendig. Ein Pruefvermerk ist zu setzen.
+Fehlt eines der vier Elemente, ist das Zitat unvollständig. Ein Prüfvermerk ist zu setzen.
 
 ### A.3 Mindeststandard Literaturzitate
 
@@ -42,15 +42,15 @@ Jedes Literaturzitat muss enthalten:
 
 ### A.4 BeckRS-Regel (Neu in v4.0)
 
-BeckRS-Fundstellen duerfen nur ausgegeben werden, wenn der Nutzer einen aktiven Lizenzzugang zu Beck-Online nachweist oder ein solcher fuer die Kanzlei besteht. Fehlt der Nachweis oder ist die Zugaenglichkeit unklar, gibt das Plugin `zitierweise-deutsches-recht` einen Pruefvermerk aus:
+BeckRS-Fundstellen dürfen nur ausgegeben werden, wenn der Nutzer einen aktiven Lizenzzugang zu Beck-Online nachweist oder ein solcher für die Kanzlei besteht. Fehlt der Nachweis oder ist die Zugänglichkeit unklar, gibt das Plugin `zitierweise-deutsches-recht` einen Prüfvermerk aus:
 
-> **[PRUEFVERMERK — BeckRS-SPERRE]** Die Fundstelle BeckRS JJJJ, XXXXX konnte nicht verifiziert werden. Pruefe amtliche Quelle (bundesgerichtshof.de / bundesverfassungsgericht.de) oder freie Quelle (dejure.org / openjur.de). Ausgabe gesperrt bis Verifikation.
+> **[PRÜFVERMERK — BeckRS-SPERRE]** Die Fundstelle BeckRS JJJJ, XXXXX konnte nicht verifiziert werden. Prüfe amtliche Quelle (bundesgerichtshof.de / bundesverfassungsgericht.de) oder freie Quelle (dejure.org / openjur.de). Ausgabe gesperrt bis Verifikation.
 
 ### A.5 Modellwissen-Sperre Literatur
 
-Das Plugin gibt keine Literaturzitate aus, die ausschliesslich auf Modellwissen beruhen und nicht durch eine pruefbare Quelle belegt werden koennen. Stattdessen erscheint ein Pruefvermerk:
+Das Plugin gibt keine Literaturzitate aus, die ausschliesslich auf Modellwissen beruhen und nicht durch eine prüfbare Quelle belegt werden können. Stattdessen erscheint ein Prüfvermerk:
 
-> **[PRUEFVERMERK — LITERATUR-MODELLWISSEN-SPERRE]** Der Aufsatz/die Fundstelle konnte nicht verifiziert werden. Bitte Volltextzugang pruefen und Zitat manuell erganzen.
+> **[PRÜFVERMERK — LITERATUR-MODELLWISSEN-SPERRE]** Der Aufsatz/die Fundstelle konnte nicht verifiziert werden. Bitte Volltextzugang prüfen und Zitat manuell erganzen.
 
 ---
 
@@ -83,9 +83,9 @@ Gruenenberg/Bearbeiter, BGB, 83. Aufl. 2024, § 242 Rn. 15.
 Palandt/Bearbeiter, BGB, 80. Aufl. 2021, § 242 Rn. 15.
 ```
 
-Altzitate in Bestandsschriftsaetzen sind als solche kenntlich zu machen (vgl. Abschnitt 16).
+Altzitate in Bestandsschriftsätzen sind als solche kenntlich zu machen (vgl. Abschnitt 16).
 
-### B.5 Aufsaetze
+### B.5 Aufsätze
 
 ```
 Autor, Titel, Zeitschrift Jahrgang (Jahr), Seite (Zitierseite).
@@ -100,7 +100,7 @@ Autor, Titel, Aufl. Jahr, Seite.
 Beispiel: Musielak/Voit, Zivilprozessordnung, 21. Aufl. 2024, § 286 Rn. 12.
 ```
 
-### B.7 Festschriften und Sammelbandaufsaetze
+### B.7 Festschriften und Sammelbandaufsätze
 
 ```
 Autor, Titel des Beitrags, in: Hrsg. (Hrsg.), Festschrift fuer XY, Jahr, Seite.
@@ -118,13 +118,13 @@ EuGH, Urt. v. TT.MM.JJJJ, ECLI:EU:C:JJJJ:XXX, NJW JJJJ, Seite, abrufbar unter: h
 
 ### C.1 Grundregel
 
-Bei jeder Entscheidung, die ueber dejure.org oder openjur.de frei zugaenglich ist, ist die URL anzugeben. Das Weglassen der URL gilt als Zitierfehler.
+Bei jeder Entscheidung, die über dejure.org oder openjur.de frei zugänglich ist, ist die URL anzugeben. Das Weglassen der URL gilt als Zitierfehler.
 
 Format: `abrufbar unter: [URL] (abgerufen am TT.MM.JJJJ).`
 
 ### C.2 Archivierungspflicht
 
-Fuer URLs, die nicht auf staatliche oder dauerhaft stabile Server verweisen, ist ein Wayback-Machine-Archivlink zu ergaenzen:
+Für URLs, die nicht auf staatliche oder dauerhaft stabile Server verweisen, ist ein Wayback-Machine-Archivlink zu ergänzen:
 
 ```
 abrufbar unter: https://openjur.de/u/XXXXXXX.html (abgerufen am 15.09.2025; archiviert unter: https://web.archive.org/web/20250915XXXXXX/...).
@@ -132,7 +132,7 @@ abrufbar unter: https://openjur.de/u/XXXXXXX.html (abgerufen am 15.09.2025; arch
 
 ### C.3 Amtliche Server (bundesgerichtshof.de, bundesverfassungsgericht.de)
 
-Verweise auf amtliche Servern gelten als stabil. Ein separater Archivlink ist nicht erforderlich, aber zulaessig.
+Verweise auf amtliche Servern gelten als stabil. Ein separater Archivlink ist nicht erforderlich, aber zulässig.
 
 ---
 
@@ -153,7 +153,7 @@ Verwechslungen (z.B. Palandt 2022 oder Gruenenberg 2021) sind Fehler der Kategor
 
 ### D.2 BVerfGE — Band, Seite, Randnummer
 
-BVerfGE-Zitate enthalten nach Moeglichkeit die Band-Seite-Angabe aus der amtlichen Sammlung. Randnummern sind zusaetzlich anzugeben, wenn die Entscheidung auf bundesverfassungsgericht.de abrufbar ist.
+BVerfGE-Zitate enthalten nach Möglichkeit die Band-Seite-Angabe aus der amtlichen Sammlung. Randnummern sind zusätzlich anzugeben, wenn die Entscheidung auf bundesverfassungsgericht.de abrufbar ist.
 
 ### D.3 Wiederholungszitate (a.a.O.)
 
@@ -161,9 +161,9 @@ Bei sofortiger Wiederholung innerhalb derselben Fussnote oder bei letzter Nennun
 
 ---
 
-## E. Gerichtsabkuerzungen (Auswahl)
+## E. Gerichtsabkürzungen (Auswahl)
 
-| Abkuerzung | Gericht |
+| Abkürzung | Gericht |
 |---|---|
 | BVerfG | Bundesverfassungsgericht |
 | BGH | Bundesgerichtshof |
@@ -174,23 +174,23 @@ Bei sofortiger Wiederholung innerhalb derselben Fussnote oder bei letzter Nennun
 | OLG | Oberlandesgericht (mit Ortsangabe) |
 | LG | Landgericht (mit Ortsangabe) |
 | AG | Amtsgericht (mit Ortsangabe) |
-| EuGH | Gerichtshof der Europaeischen Union |
-| EuG | Gericht der Europaeischen Union |
+| EuGH | Gerichtshof der Europäischen Union |
+| EuG | Gericht der Europäischen Union |
 
 ---
 
-## F. Pruefvermerk-Typen (Uebersicht)
+## F. Prüfvermerk-Typen (Übersicht)
 
-| Typ | Kuerzel | Anlass |
+| Typ | Kürzel | Anlass |
 |---|---|---|
 | BeckRS-Sperre | PV-BR | BeckRS ohne verifizierten Lizenzzugang |
 | Literatur-Modellwissen-Sperre | PV-LM | Aufsatz/Quelle nicht verifizierbar |
-| Unvollstaendiges Zitat | PV-UV | Pflichtangabe fehlt (Datum, AZ, Fundstelle) |
+| Unvollständiges Zitat | PV-UV | Pflichtangabe fehlt (Datum, AZ, Fundstelle) |
 | URL fehlt | PV-URL | Freie Quelle ohne Pflicht-URL |
 | Rangfolge-Fehler | PV-RG | Falsche Reihenfolge bei Mehrfach-Fundstellen |
-| Palandt/Gruenenberg-Verwechslung | PV-PG | Falscher Kurztitel fuer das Erscheinungsjahr |
+| Palandt/Gruenenberg-Verwechslung | PV-PG | Falscher Kurztitel für das Erscheinungsjahr |
 
-Vollstaendige Pruefvermerk-Vorlage: siehe Aktenstueck 11.
+Vollständige Prüfvermerk-Vorlage: siehe Aktenstück 11.
 
 ---
 

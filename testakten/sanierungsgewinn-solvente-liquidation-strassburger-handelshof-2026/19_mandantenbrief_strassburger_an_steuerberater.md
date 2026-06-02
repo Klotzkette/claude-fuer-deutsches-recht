@@ -21,7 +21,7 @@ nach Auflösungsbeschluss vom 15.04.2026 (§ 60 Abs. 1 Nr. 2 GmbHG) und Bekanntm
 
 ## 2. Konkrete Fragen
 
-**Frage 1:** Ist die nachrangige Darlehensverbindlichkeit ueber 2,4 Mio. EUR in der Liquidationsschlussbilanz **gewinnerhöhend auszubuchen** oder bis zur Löschung im Handelsregister **passiviert auszuweisen**?
+**Frage 1:** Ist die nachrangige Darlehensverbindlichkeit über 2,4 Mio. EUR in der Liquidationsschlussbilanz **gewinnerhöhend auszubuchen** oder bis zur Löschung im Handelsregister **passiviert auszuweisen**?
 
 **Frage 2:** Falls Ausbuchung gefordert wird — kommt § 3a EStG (Steuerbefreiung Sanierungsertrag) in der Konstellation solvente Liquidation überhaupt zur Anwendung? Insbesondere die Voraussetzung **Sanierungseignung** scheint mir nicht erfüllt, weil die Gesellschaft nicht saniert, sondern abgewickelt wird.
 
@@ -29,7 +29,7 @@ nach Auflösungsbeschluss vom 15.04.2026 (§ 60 Abs. 1 Nr. 2 GmbHG) und Bekanntm
 
 **Frage 4:** Was passiert auf meiner **Privatebene** mit dem Auflösungsverlust gemäß § 17 EStG / § 17 Abs. 4 EStG (nachträgliche Anschaffungskosten)?
 
-**Frage 5:** Falls die Verbindlichkeit ueber die Löschung hinaus passiviert bleibt: erlöschen die Verbindlichkeiten und (theoretischen) Verlustvorträge wirklich gleichzeitig mit der Löschung? Wie ist die Rechtsprechung zur Frage „Sanierungsgewinn mangels Steuersubjekt"?
+**Frage 5:** Falls die Verbindlichkeit über die Löschung hinaus passiviert bleibt: erlöschen die Verbindlichkeiten und (theoretischen) Verlustvorträge wirklich gleichzeitig mit der Löschung? Wie ist die Rechtsprechung zur Frage „Sanierungsgewinn mangels Steuersubjekt"?
 
 ## 3. Mir bekannte Rechtsprechung und Verwaltung
 

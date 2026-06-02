@@ -1,4 +1,4 @@
-# Schriftsatzentwurf — Anhoerungsantrag (zur Pruefung durch RA Knoblauch)
+# Schriftsatzentwurf — Anhörungsantrag (zur Pruefung durch RA Knoblauch)
 
 [ENTWURF — Stand 19.11.2025]
 
@@ -12,36 +12,36 @@ Sieglinger ./. Burgwald Energietechnik GmbH
 
 beantragen wir:
 
-1. Den Sachverstaendigen Dipl.-Ing. Edmund Pfaffenberger gemaess § 411 Abs. 3 ZPO zur muendlichen Erlaeuterung seines Gutachtens vom 28.10.2025 zu laden.
+1. Den Sachverständigen Dipl.-Ing. Edmund Pfaffenberger gemaess § 411 Abs. 3 ZPO zur mündlichen Erläuterung seines Gutachtens vom 28.10.2025 zu laden.
 
-2. Dem Sachverstaendigen aufzugeben, gemaess § 407a Abs. 5 ZPO saemtliche Unterlagen, die er der Begutachtung zugrunde gelegt hat, zur Akte zu reichen — insbesondere Ortsterminprotokolle, Mess- und Untersuchungsdaten, Recherchedokumentation und ggf. Beteiligungsnachweise von Mitarbeitern (§ 407a Abs. 3 ZPO).
+2. Dem Sachverständigen aufzugeben, gemaess § 407a Abs. 5 ZPO sämtliche Unterlagen, die er der Begutachtung zugrunde gelegt hat, zur Akte zu reichen — insbesondere Ortsterminprotokolle, Mess- und Untersuchungsdaten, Recherchedokumentation und ggf. Beteiligungsnachweise von Mitarbeitern (§ 407a Abs. 3 ZPO).
 
-Begruendung:
+Begründung:
 
-Aus dem Gutachten ergeben sich mehrere Auffaelligkeiten, die Anlass zur Nachfrage geben:
+Aus dem Gutachten ergeben sich mehrere Auffälligkeiten, die Anlass zur Nachfrage geben:
 
-a) Drei- und mehrfach gleichfoermige Satzeinleitungen ("Zusammenfassend ist festzustellen", "Es ist wichtig zu beachten", "Im Hinblick auf") in dichter Folge auf den Seiten 4, 11 und 23 des Gutachtens;
+a) Drei- und mehrfach gleichförmige Satzeinleitungen ("Zusammenfassend ist festzustellen", "Es ist wichtig zu beachten", "Im Hinblick auf") in dichter Folge auf den Seiten 4, 11 und 23 des Gutachtens;
 
-b) Auf S. 19 findet sich eine Anrede an den Sachverstaendigen selbst, die im Stil von der uebrigen Darstellung abweicht;
+b) Auf S. 19 findet sich eine Anrede an den Sachverständigen selbst, die im Stil von der übrigen Darstellung abweicht;
 
-c) Auf S. 28 ist ein offensichtlicher Vorlagen-Platzhalter "[DATUM EINFUEGEN]" nicht ersetzt worden;
+c) Auf S. 28 ist ein offensichtlicher Vorlagen-Platzhalter "[DATUM EINFÜGEN]" nicht ersetzt worden;
 
-d) Die zitierte Norm "VDE-AR-N 4105" passt sachlich nicht zu dem Pruefgegenstand (Wechselrichter-Installation) — sie betrifft Niederspannungsnetz-Anschluesse;
+d) Die zitierte Norm "VDE-AR-N 4105" passt sachlich nicht zu dem Prüfgegenstand (Wechselrichter-Installation) — sie betrifft Niederspannungsnetz-Anschlüsse;
 
-e) Die Mangelbeseitigungskosten zu Beweisthema 3 sind pauschal mit "circa 40.000 bis 60.000 Euro" geschaetzt; eine Auseinandersetzung mit dem Privatgutachten der Sachverstaendigenbuero Wallner vom 18.05.2024 — das die Kosten auf 49.600 Euro mit detaillierter Aufschluesselung beziffert — fehlt;
+e) Die Mangelbeseitigungskosten zu Beweisthema 3 sind pauschal mit "circa 40.000 bis 60.000 Euro" geschätzt; eine Auseinandersetzung mit dem Privatgutachten der Sachverstaendigenbuero Wallner vom 18.05.2024 — das die Kosten auf 49.600 Euro mit detaillierter Aufschlüsselung beziffert — fehlt;
 
-f) Eine eigene Messung der Anlagenleistung wurde nach den Eindruecken des Klaegers nicht durchgefuehrt; die Ortsbegehung dauerte nach Auskunft des Klaegers nur etwa zweieinhalb Stunden.
+f) Eine eigene Messung der Anlagenleistung wurde nach den Eindrücken des Klägers nicht durchgeführt; die Ortsbegehung dauerte nach Auskunft des Klägers nur etwa zweieinhalb Stunden.
 
-Die Partei ruegt nicht den Einsatz technischer Hilfsmittel als solchen — dieser ist im Rahmen des § 407a Abs. 1 ZPO grundsaetzlich zulaessig. Die Partei beantragt jedoch die muendliche Anhoerung des Sachverstaendigen, um zu klaeren:
+Die Partei rügt nicht den Einsatz technischer Hilfsmittel als solchen — dieser ist im Rahmen des § 407a Abs. 1 ZPO grundsätzlich zulässig. Die Partei beantragt jedoch die mündliche Anhörung des Sachverständigen, um zu klären:
 
-1. Welche Erstellungsschritte hat der Sachverstaendige persoenlich durchgefuehrt?
-2. In welchem Umfang wurden technische Hilfsmittel oder Hilfskraefte eingesetzt?
-3. Wie sind die genannten Auffaelligkeiten zu erklaeren?
+1. Welche Erstellungsschritte hat der Sachverständige persönlich durchgeführt?
+2. In welchem Umfang wurden technische Hilfsmittel oder Hilfskräfte eingesetzt?
+3. Wie sind die genannten Auffälligkeiten zu erklären?
 4. Wurden Mitarbeiter im Sinne von § 407a Abs. 3 ZPO beteiligt?
 
-Die persoenliche Verantwortlichkeit fuer die Inhalte des Gutachtens folgt aus § 407a Abs. 1 ZPO und ist als Wirksamkeitsvoraussetzung der gerichtlichen Verwertung zu pruefen.
+Die persönliche Verantwortlichkeit für die Inhalte des Gutachtens folgt aus § 407a Abs. 1 ZPO und ist als Wirksamkeitsvoraussetzung der gerichtlichen Verwertung zu prüfen.
 
-Vorsorglich behaelt die Partei sich vor, nach der Anhoerung weitere Antraege zu stellen (§ 412 ZPO, ggf. Anregung zur Vergütungsfestsetzung nach § 8a Abs. 2 JVEG).
+Vorsorglich behält die Partei sich vor, nach der Anhörung weitere Anträge zu stellen (§ 412 ZPO, ggf. Anregung zur Vergütungsfestsetzung nach § 8a Abs. 2 JVEG).
 
 Knoblauch
-Rechtsanwaeltin
+Rechtsanwältin

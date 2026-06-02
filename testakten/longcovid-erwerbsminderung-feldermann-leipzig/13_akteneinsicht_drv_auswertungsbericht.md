@@ -29,7 +29,7 @@ Die Rentenakte besteht aus **3 Bänden** mit insgesamt ca. 340 Seiten:
 
 **Auffälligkeiten:**
 - Der Gutachter hat die ME/CFS-Diagnose der Charité (Prof. Scheibenbogen, 11/2025) zwar zur Kenntnis genommen (zitiert Band II, Bl. 184), aber mit dem Hinweis abgetan, es gebe "keinen allgemein anerkannten diagnostischen Standard für ME/CFS in der deutschen Sozialmedizin". Diese Aussage ist falsch — die S3-Leitlinie Post-COVID (AWMF 020-027, Dezember 2023) enthält dezidierte Diagnosekriterien.
-- Der Kipptisch-Test (positiv, Kardiologie UKL, April 2022) ist auf Bl. 188 zwar verzeichnet, wird aber nicht in die Leistungsfähigkeitsbeurteilung einbezogen. Begründung: "Der Befund sei nicht reproduziert worden." Das ist unzutreffend: Der Bericht Dr. Maerker (01/2026) bestätigt fortbestehende POTS-Symptomatik.
+- Der Kipptisch-Test (positiv, Kardiologie UKL, April 2022) ist auf Bl. 188 zwar verzeichnet, wird aber nicht in die Leistungsfähigkeitsbeurteilung einbezogen. Begründung: "Der Befund sei nicht reproduziert worden." Das ist unzutreffend: Der Bericht Dr. Märker (01/2026) bestätigt fortbestehende POTS-Symptomatik.
 - Kein Zwei-Tage-CPET durchgeführt (Standard bei ME/CFS zur Objektivierung der PEM).
 - Dauer der Untersuchung laut Gutachten: 85 Minuten. Für eine vollständige sozialmedizinische Beurteilung bei komplexem chronischem Krankheitsbild nach ME/CFS-Standard zu kurz.
 
@@ -57,13 +57,13 @@ Versicherungsrechtliche Voraussetzungen § 43 SGB VI: 5-Jahres-Wartezeit erfüll
 
 | Bl. | Quelle | Datum | Aussage |
 |---|---|---|---|
-| 119–122 | Dr. Maerker (Hausarzt) | 03/2024 | "Vollständige Arbeitsunfähigkeit auf unabsehbare Zeit; ME/CFS schwer" |
+| 119–122 | Dr. Märker (Hausarzt) | 03/2024 | "Vollständige Arbeitsunfähigkeit auf unabsehbare Zeit; ME/CFS schwer" |
 | 123–141 | Prof. Scheibenbogen (Charité), 1. Bericht | 04/2024 | "ME/CFS Grad 3 nach FUNCAP: >50 % des Tages liegend; PEM nach jeder Aktivität >2 min" |
 | 142–155 | SKH Leipzig (Psychiatrie) | 12/2024 | "F33.1, mittelgradige depressive Episode, stationäre Behandlung abgeschlossen; fortlaufende ambulante Therapie erforderlich; nicht arbeitsfähig" |
 | 156–201 | Dr. Härtung (DRV-Gutachten) | 11/2025 | Restleistungsvermögen 6h/Tag (kritisch bewertet, s. o.) |
 | 202–210 | Prof. Scheibenbogen (Charité), 2. Bericht | 11/2025 | "Keine Verbesserung; ME/CFS schwer; POTS objektiviert; Prognose: dauerhaft vollständig erwerbsunfähig" |
 
-**Fazit:** Drei unabhängige Fachärzte/Einrichtungen (Hausarzt Maerker, Charité Scheibenbogen, SKH Psychiatrie) kommen zum Ergebnis vollständiger Erwerbsunfähigkeit. Das DRV-Gutachten Härtung steht als einzige Stimme dagegen — und ist methodisch angreifbar (s. Aktenstück 07).
+**Fazit:** Drei unabhängige Fachärzte/Einrichtungen (Hausarzt Märker, Charité Scheibenbogen, SKH Psychiatrie) kommen zum Ergebnis vollständiger Erwerbsunfähigkeit. Das DRV-Gutachten Härtung steht als einzige Stimme dagegen — und ist methodisch angreifbar (s. Aktenstück 07).
 
 ---
 
@@ -79,7 +79,7 @@ Versicherungsrechtliche Voraussetzungen § 43 SGB VI: 5-Jahres-Wartezeit erfüll
 
 1. Einholung eines **Privatgutachtens** (ME/CFS-Spezialist, z. B. Charité oder Universitätsklinik Hamburg/Eppendorf) — Kosten ca. 1.500–2.500 EUR; ggf. über PKH.
 2. **Zwei-Tage-CPET** (kardiopulmonaler Belastungstest über zwei aufeinanderfolgende Tage) bei Prof. Scheibenbogen anfordern — zentrales Beweismittel für PEM-Objektivierung.
-3. **Zeugenbeweis:** Dres. Maerker und Scheibenbogen als sachverständige Zeugen benennen.
+3. **Zeugenbeweis:** Dres. Märker und Scheibenbogen als sachverständige Zeugen benennen.
 4. Falls Widerspruch erfolglos: Klage vor SG Leipzig und Antrag auf gerichtliches Sachverständigengutachten.
 
 ---

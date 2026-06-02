@@ -114,10 +114,10 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 | [09_bzr_fahreignung_nebenfolgen.md](09_bzr_fahreignung_nebenfolgen.md) | BZR-Auszug, Fahreignung, MPU-Prüfung, berufliche Folgen |
 | [10_akteneinsichtsantrag.md](10_akteneinsichtsantrag.md) | Vollständiger Akteneinsichtsantrag § 147 StPO |
 | [10_akteneinsichtsantrag.docx](10_akteneinsichtsantrag.docx) | DOCX-Version Akteneinsichtsantrag |
-| [11_einspruch_entwurf_unbeschraenkt.md](11_einspruch_entwurf_unbeschraenkt.md) | Unbeschränkter Einspruch mit vorläufiger Begründung |
-| [11_einspruch_entwurf_unbeschraenkt.docx](11_einspruch_entwurf_unbeschraenkt.docx) | DOCX-Version Einspruch unbeschränkt |
-| [12_einspruch_beschraenkt_rechtsfolgen.md](12_einspruch_beschraenkt_rechtsfolgen.md) | Beschränkter Einspruch (Rechtsfolgen), Anträge zur Strafzumessung |
-| [12_einspruch_beschraenkt_rechtsfolgen.docx](12_einspruch_beschraenkt_rechtsfolgen.docx) | DOCX-Version Einspruch beschränkt |
+| [11_einspruch_entwurf_unbeschränkt.md](11_einspruch_entwurf_unbeschraenkt.md) | Unbeschränkter Einspruch mit vorläufiger Begründung |
+| [11_einspruch_entwurf_unbeschränkt.docx](11_einspruch_entwurf_unbeschraenkt.docx) | DOCX-Version Einspruch unbeschränkt |
+| [12_einspruch_beschränkt_rechtsfolgen.md](12_einspruch_beschraenkt_rechtsfolgen.md) | Beschränkter Einspruch (Rechtsfolgen), Anträge zur Strafzumessung |
+| [12_einspruch_beschränkt_rechtsfolgen.docx](12_einspruch_beschraenkt_rechtsfolgen.docx) | DOCX-Version Einspruch beschränkt |
 | [13_hauptverhandlung_plan.md](13_hauptverhandlung_plan.md) | Strukturierter Verhandlungsplan, Phaseneinteilung |
 | [14_zeugenbefragung_fragenkatalog.md](14_zeugenbefragung_fragenkatalog.md) | 43 Fragen für 3 Zeugen, taktisch geordnet |
 | [15_einstellungsstrategie_153_153a.md](15_einstellungsstrategie_153_153a.md) | Strategiepapier §§ 153, 153a StPO; Zeitplan; Mandantenbelehrung |
@@ -148,4 +148,4 @@ Diese Musterakte bildet das vollständige Workflow eines **Strafbefehlsverfahren
 
 ---
 
-*Repository: claude-fuer-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*
+*Repository: claude-für-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*

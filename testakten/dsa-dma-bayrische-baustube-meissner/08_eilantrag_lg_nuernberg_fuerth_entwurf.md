@@ -12,7 +12,7 @@ In der Eilsache
 
 der Baustube Meißnerlein GmbH, vertreten durch die Geschäftsführerin Walpurga Meißnerlein-Hochkönig, Innere Bachgasse 17, 91315 Höchstadt an der Aisch
 – Antragstellerin –
-Verfahrensbevollmächtigte: Hagenroth, Quasthoff-Pruegelmann & Kollegen, Pfaffengasse 4, 91054 Erlangen
+Verfahrensbevollmächtigte: Hagenroth, Quasthoff-Prügelmann & Kollegen, Pfaffengasse 4, 91054 Erlangen
 
 gegen
 
@@ -70,7 +70,7 @@ Die Zustellung an die Antragsgegnerin zu 1) (USA) erfolgt nach HZÜ. Hilfsweise 
 ---
 
 Erlangen, 12.05.2026
-Hagenroth, Quasthoff-Pruegelmann & Kollegen
+Hagenroth, Quasthoff-Prügelmann & Kollegen
 Dr. C. Hagenroth, Rechtsanwalt
 
 **Vermerk Kanzlei:**

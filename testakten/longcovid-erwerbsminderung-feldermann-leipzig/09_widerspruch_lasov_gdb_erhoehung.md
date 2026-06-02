@@ -81,7 +81,7 @@ Das versorgungsärztliche Gutachten (Dr. Laube) wurde ohne persönliche Untersuc
 
 1. Befundbericht Prof. Dr. Scheibenbogen, Charité Long-Covid-Ambulanz, 11/2025 (Anlage)
 2. Entlassungsbericht SKH Leipzig, 02/2026 (Anlage)
-3. Befundbericht Dr. Maerker, Hausarzt, 01/2026 (Anlage)
+3. Befundbericht Dr. Märker, Hausarzt, 01/2026 (Anlage)
 4. Auszug PEM-Tagebuch (Anlage, Aktenstück 17)
 5. Kardiologischer Befundbericht UKL (Kipptisch-Test, 04/2022)
 

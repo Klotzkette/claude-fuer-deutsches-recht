@@ -22,10 +22,10 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 ## Kurzbild
 
 - Mandantin: **Volkenrath Energie SE**, Berlin (CEO Dr. Claudia Volkenrath-Eichmueller, General Counsel Dr. Franziska Schwingenstein-Pohlmann)
-- Gegenstand: Verkauf der 100%-Tochter **Volkenrath Solar Eppendorf GmbH** (SPV) inkl. Grundstücksrechte 18 ha Eppendorf (Solarpark) an Kaeufer Steinheim Capital Partners GmbH & Co. KG
-- Kaeufer: **Steinheim Capital Partners GmbH & Co. KG**, vertreten durch Investmentmanager Dr. Lars Lattermann-Tannenmoor
-- Beratende Kanzlei (Verkaeuferseite): **Roosendaal Birkenhainer Partners mbB**, Berlin; federfuehrend: RA Dr. Henrik Roosendaal, AZ **MR-2026-DR-0717**; Senior Associate: Dr. (iur.) Mira Pohlmann
-- Gegenseite (Kaeufer-Kanzlei): **Schaefer Schoeneberg Stoll mbB**, Frankfurt
+- Gegenstand: Verkauf der 100%-Tochter **Volkenrath Solar Eppendorf GmbH** (SPV) inkl. Grundstücksrechte 18 ha Eppendorf (Solarpark) an Käufer Steinheim Capital Partners GmbH & Co. KG
+- Käufer: **Steinheim Capital Partners GmbH & Co. KG**, vertreten durch Investmentmanager Dr. Lars Lattermann-Tannenmoor
+- Beratende Kanzlei (Verkaeuferseite): **Roosendaal Birkenhainer Partners mbB**, Berlin; federführend: RA Dr. Henrik Roosendaal, AZ **MR-2026-DR-0717**; Senior Associate: Dr. (iur.) Mira Pohlmann
+- Gegenseite (Käufer-Kanzlei): **Schäfer Schoeneberg Stoll mbB**, Frankfurt
 - Notar: Dr. Konrad Birkenhainer, Berlin — UR-Nr. **188/26**
 - Transaktionswert: ca. 38 Mio. EUR (Enterprise Value); Closing geplant Q4 2026
 - Stichtag dieser Akte: Oktober 2026
@@ -36,7 +36,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ### Ausgangslage
 
-Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenrath Solar Eppendorf GmbH (SPV, 100% Tochter) im Wege des Share-Deals. Das SPV haelt einen Erbbaurechtsvertrag ueber 18 ha in Eppendorf sowie saemtliche Genehmigungen und Betriebsvertraege fuer den installierten Solarpark (Leistung: 22 MW).
+Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenrath Solar Eppendorf GmbH (SPV, 100% Tochter) im Wege des Share-Deals. Das SPV hält einen Erbbaurechtsvertrag über 18 ha in Eppendorf sowie sämtliche Genehmigungen und Betriebsverträge für den installierten Solarpark (Leistung: 22 MW).
 
 ### Acht Konfliktstränge
 
@@ -67,7 +67,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | Skill-Bereich | Aktenstück | Demonstration |
 |---|---|---|
 | Mandatsbriefing / Sachverhaltsaufnahme | 01 | Mandantennotiz, Vollmacht, Interessenkonflikt-Check |
-| Term Sheet / Letter of Intent | 02 | Term Sheet SPA, Exklusivitaet, Break Fee |
+| Term Sheet / Letter of Intent | 02 | Term Sheet SPA, Exklusivität, Break Fee |
 | SPA-Drafting iterativ (v1–v4) | 03, 04 | Issue-List, Redline-Zusammenfassung |
 | Warranties-Katalog | 05 | Knowledge Qualifier, Materiality Scrape, Qualifizierung |
 | MAC-Klausel | 06 | Formulierungsoptionen, Energiemarkt-Carve-out |
@@ -95,7 +95,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 01 | [`01-mandantenbriefing-volkenrath.md`](01-mandantenbriefing-volkenrath.md) | Mandantennotiz Erstgespräch, Vollmacht, GwG-Check |
-| 02 | [`02-term-sheet-spa-v1.md`](02-term-sheet-spa-v1.md) | Term Sheet / Letter of Intent, Exklusivitaet, Break Fee |
+| 02 | [`02-term-sheet-spa-v1.md`](02-term-sheet-spa-v1.md) | Term Sheet / Letter of Intent, Exklusivität, Break Fee |
 | 03 | [`03-spa-draft-1-issue-list.md`](03-spa-draft-1-issue-list.md) | SPA Draft 1 — Issue-List und offene Punkte |
 | 04 | [`04-spa-draft-2-redline-summary.md`](04-spa-draft-2-redline-summary.md) | SPA Draft 2 — Redline-Zusammenfassung |
 | 05 | [`05-warranties-katalog-knowledge-qualifier.md`](05-warranties-katalog-knowledge-qualifier.md) | Warranties-Katalog, Knowledge Qualifier, Materiality Scrape |
@@ -144,7 +144,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 |---|---|
 | [`emails/2026-03-15_volkenrath-gc-an-kanzlei-mandatserteilung.eml`](emails/2026-03-15_volkenrath-gc-an-kanzlei-mandatserteilung.eml) | GC Volkenrath SE erteilt Mandat an Roosendaal Birkenhainer |
 | [`emails/2026-04-02_kanzlei-intern-drafting-arbeitsverteilung.eml`](emails/2026-04-02_kanzlei-intern-drafting-arbeitsverteilung.eml) | Kanzlei intern: Drafting-Arbeitsverteilung Dr. Roosendaal / Pohlmann |
-| [`emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml`](emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml) | Schaefer Schoeneberg Stoll an Kanzlei: Markup SPA v2 |
+| [`emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml`](emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml) | Schäfer Schoeneberg Stoll an Kanzlei: Markup SPA v2 |
 | [`emails/2026-08-05_kanzlei-an-bkarta-vorabstimmung.eml`](emails/2026-08-05_kanzlei-an-bkarta-vorabstimmung.eml) | Kanzlei an BKartA: Vorabstimmung Fusionskontrolle GWB § 39 |
 
 ### PDFs
@@ -172,7 +172,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | Verfahrensstrang | Status |
 |---|---|
 | Mandat / Vollmacht | Erteilt 15.03.2026 |
-| Term Sheet | Unterzeichnet 28.03.2026 (Exklusivitaet 60 Tage) |
+| Term Sheet | Unterzeichnet 28.03.2026 (Exklusivität 60 Tage) |
 | SPA Draft 1 | Übermittelt Gegenseite 18.04.2026 |
 | SPA Draft 2 (Markup Gegenseite) | Erhalten 14.07.2026 |
 | SPA Draft 3 | Übermittelt 08.08.2026 |

@@ -1,21 +1,21 @@
-Gruppe,Glaeubiger,Forderung_festgestellt_EUR,Stimmrecht_EUR,Abstimmungsverhalten_Prognose,Summe_Ja_EUR,Summe_Nein_EUR,Summe_Unklar_EUR,Kopfzahl_gesamt,Koepfe_Ja,Koepfe_Nein,Koepfe_Unklar,Summenmehrheit_erreicht,Kopfmehrheit_erreicht,Cram_Down_noetig,Kommentar
+Gruppe,Gläubiger,Forderung_festgestellt_EUR,Stimmrecht_EUR,Abstimmungsverhalten_Prognose,Summe_Ja_EUR,Summe_Nein_EUR,Summe_Unklar_EUR,Kopfzahl_gesamt,Köpfe_Ja,Köpfe_Nein,Köpfe_Unklar,Summenmehrheit_erreicht,Kopfmehrheit_erreicht,Cram_Down_nötig,Kommentar
 Gruppe 1,NordBank AG,4200000,4200000,Nein,0,4200000,0,1,0,1,0,Nein,Nein,Ja,"NordBank signalisiert Ablehnung; Sicherheitenbewertung strittig; Cram-Down nach § 245 InsO vorbereiten"
-Gruppe 1,LeasingWerk GmbH,740000,370000,Ja,370000,0,0,1,1,0,0,Ja,Ja,Nein,"LeasingWerk profitiert von Vertragsfortfuehrung; Zustimmung wahrscheinlich"
-Gruppe 1 Gesamt,,4940000,4570000,Nein (wegen NordBank),370000,4200000,0,2,1,1,0,Nein (8.1%),Nein (50%),Ja,"Gruppe 1 scheitert; Cram-Down unabdingbar; Voraussetzungen § 245 InsO zu pruefen"
+Gruppe 1,LeasingWerk GmbH,740000,370000,Ja,370000,0,0,1,1,0,0,Ja,Ja,Nein,"LeasingWerk profitiert von Vertragsfortführung; Zustimmung wahrscheinlich"
+Gruppe 1 Gesamt,,4940000,4570000,Nein (wegen NordBank),370000,4200000,0,2,1,1,0,Nein (8.1%),Nein (50%),Ja,"Gruppe 1 scheitert; Cram-Down unabdingbar; Voraussetzungen § 245 InsO zu prüfen"
 Gruppe 2,Stahlhandel Kuefte GmbH,610000,610000,Ja,610000,0,0,1,1,0,0,Ja,Ja,Nein,"Hohe Quote + EV-Abgeltung; Zustimmung sicher"
 Gruppe 2,Nordstahl GmbH,84000,84000,Ja,84000,0,0,1,1,0,0,Ja,Ja,Nein,
 Gruppe 2,Schweisstechnik Elbe GmbH,67000,67000,Ja,67000,0,0,1,1,0,0,Ja,Ja,Nein,
 Gruppe 2,Verzinkerei Nord GmbH,53000,53000,Ja,53000,0,0,1,1,0,0,Ja,Ja,Nein,
 Gruppe 2,Lackierer Billbrook GmbH,38000,38000,Ja,38000,0,0,1,1,0,0,Ja,Ja,Nein,
 Gruppe 2 Gesamt,,852000,852000,Ja (einstimmig),852000,0,0,5,5,0,0,Ja (100%),Ja (100%),Nein,"Alle Lieferanten zustimmend; Zusammenhalt durch Fortsetzungsvereinbarung gesichert"
-Gruppe 3,Kleine Glaeubiger (<5 TEUR) gesamt,58000,58000,Mehrheitlich Ja,43500,5800,8700,60,45,4,11,Ja,Ja,Nein,"Kleinglaeubigerklasse 75% Quote; ueberwiegende Zustimmung erwartet; 10% skeptisch"
-Gruppe 3,Uebrige Glaeubiger (5-50 TEUR) gesamt,532000,532000,Unklar,200000,85000,247000,28,12,5,11,Nein (37.6%),Nein (42.9%),Moeglich,"Gruppe 3 kritisch: 30% Quote unattraktiv; persoenliche Ansprache noetig; einige Versicherungen neutral"
-Gruppe 3 Gesamt,,590000,590000,Offen,243500,90800,255700,88,57,9,22,Nein (41.3%),Ja (64.8%),Moeglich,"Summenmehrheit verfehlt; Kopfmehrheit kapp erreicht; Cram-Down moeglich wenn andere Gruppen zustimmen"
-Gruppe 4,Finanzamt Hamburg-Mitte,480000,480000,Unklar/Neutral,240000,0,240000,1,0,0,1,Nein,Nein,Moeglich,"FA stimmt selten aktiv zu; gibt aber oft keine Ablehnung; 55% Quote attraktiv gegenueber Insolvenzquote; Gespräch am 12.06.2026"
+Gruppe 3,Kleine Gläubiger (<5 TEUR) gesamt,58000,58000,Mehrheitlich Ja,43500,5800,8700,60,45,4,11,Ja,Ja,Nein,"Kleingläubigerklasse 75% Quote; überwiegende Zustimmung erwartet; 10% skeptisch"
+Gruppe 3,Übrige Gläubiger (5-50 TEUR) gesamt,532000,532000,Unklar,200000,85000,247000,28,12,5,11,Nein (37.6%),Nein (42.9%),Möglich,"Gruppe 3 kritisch: 30% Quote unattraktiv; persönliche Ansprache nötig; einige Versicherungen neutral"
+Gruppe 3 Gesamt,,590000,590000,Offen,243500,90800,255700,88,57,9,22,Nein (41.3%),Ja (64.8%),Möglich,"Summenmehrheit verfehlt; Kopfmehrheit kapp erreicht; Cram-Down möglich wenn andere Gruppen zustimmen"
+Gruppe 4,Finanzamt Hamburg-Mitte,480000,480000,Unklar/Neutral,240000,0,240000,1,0,0,1,Nein,Nein,Möglich,"FA stimmt selten aktiv zu; gibt aber oft keine Ablehnung; 55% Quote attraktiv gegenüber Insolvenzquote; Gespräch am 12.06.2026"
 Gruppe 4,DRV + Krankenkassen,70000,0,Masseglaeubiger; kein Stimmrecht,,,,3,,,,,Nein,Nein,"Masseverbindlichkeit; kein Stimmrecht; Zahlung aus Masse gesichert"
-Gruppe 4 Gesamt,,550000,480000,Unklar,240000,0,240000,4,0,0,4,Nein (50%),Nein (0%),Ja,"Gruppe 4 Zustimmung unklar; Cram-Down moeglicherweise noetig"
+Gruppe 4 Gesamt,,550000,480000,Unklar,240000,0,240000,4,0,0,4,Nein (50%),Nein (0%),Ja,"Gruppe 4 Zustimmung unklar; Cram-Down möglicherweise nötig"
 Gruppe 5,Hansa Beteiligungs UG,950000,950000,Ja,950000,0,0,1,1,0,0,Ja (100%),Ja (100%),Nein,"Gesellschafterin stimmt zu; sie hat keine Alternative (Nachrang = 0 Quote)"
 Gruppe 5 Gesamt,,950000,950000,Ja,950000,0,0,1,1,0,0,Ja (100%),Ja (100%),Nein,
 Gesamtergebnis Insolvenzplan,,6882000,6442000,,2655500,4290800,495700,100,64,10,26,Nein (41.2%),Ja (64%),,"Ohne Cram-Down: Plan scheitert wegen Gruppen 1 (NordBank) und 3; MIT Cram-Down gem § 245 InsO: realisierbar wenn mindestens Gruppen 2 und 5 zustimmen"
-Cram-Down-Analyse § 245 InsO,,,,,,,,,,,,,,,"Voraussetzungen: mind. 1 Gruppe zugestimmt (Gruppe 2 + 5 sicher); keine Gruppe schlechter als bestes Alternativszenario; NordBank erhält 3.48 Mio > 2.41 Mio Uebertragungsinsolvenz; § 245 Abs 1 Nr 1 erfuellt"
+Cram-Down-Analyse § 245 InsO,,,,,,,,,,,,,,,"Voraussetzungen: mind. 1 Gruppe zugestimmt (Gruppe 2 + 5 sicher); keine Gruppe schlechter als bestes Alternativszenario; NordBank erhält 3.48 Mio > 2.41 Mio Übertragungsinsolvenz; § 245 Abs 1 Nr 1 erfüllt"
 StaRUG-Abstimmung (Klassen A-C),,,,,,,,,,,,,,,"Klasse A (NordBank): 75% erforderlich; Ablehnung wahrscheinlich; Cram-Down nach § 26 StaRUG; Klasse B (LeasingWerk): Zustimmung; Klasse C (Gesellschafterin): Zustimmung"

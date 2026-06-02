@@ -10,17 +10,17 @@
 
 ## Vorbemerkung
 
-Dieses Aktenstueck dokumentiert das Anwaltsschreiben an das Bundeskartellamt vom 05.08.2026 sowie die Grundlagen der fusionskontrollrechtlichen Wuerdigung. Anmeldefaehigkeit nach GWB §§ 35-39 wurde geprueft.
+Dieses Aktenstück dokumentiert das Anwaltsschreiben an das Bundeskartellamt vom 05.08.2026 sowie die Grundlagen der fusionskontrollrechtlichen Würdigung. Anmeldefähigkeit nach GWB §§ 35-39 wurde geprüft.
 
 ---
 
 ## Fusionskontrollrechtliche Anmeldeschwellen (GWB § 35)
 
-| Schwelle | Wert | Erfuellt? |
+| Schwelle | Wert | Erfüllt? |
 |---|---|---|
 | Kombinierter weltweiter Umsatz | > EUR 500 Mio. | Ja: Volkenrath SE ca. EUR 210 Mio. + Steinheim-Gruppe ca. EUR 420 Mio. = ca. EUR 630 Mio. |
-| Inlaendischer Umsatz mind. 1 Beteiligter | > EUR 25 Mio. | Ja: Volkenrath SE |
-| Inlaendischer Umsatz mind. 1 weiterer Beteiligter | > EUR 5 Mio. | Ja: Steinheim (Infrastrukturportfolio Deutschland) |
+| Inländischer Umsatz mind. 1 Beteiligter | > EUR 25 Mio. | Ja: Volkenrath SE |
+| Inländischer Umsatz mind. 1 weiterer Beteiligter | > EUR 5 Mio. | Ja: Steinheim (Infrastrukturportfolio Deutschland) |
 
 **Ergebnis:** Anmeldepflicht nach GWB § 39 Abs. 1 besteht. Vollzugsverbot bis zur Freigabe gemaess GWB § 41 Abs. 1.
 
@@ -30,7 +30,7 @@ Dieses Aktenstueck dokumentiert das Anwaltsschreiben an das Bundeskartellamt vom
 
 Am 15. Juli 2026 fand eine informelle Vorabstimmung (Pre-notification) mit der Fusionskontrollabteilung (Referat B 8) statt. Ergebnis:
 - BKartA sieht transaktion vorlaeufeig als unproblematisch an
-- Markt fuer Stromerzeugung aus Solarenergie in Deutschland: wettbewerbsintensiv, zahlreiche Anbieter
+- Markt für Stromerzeugung aus Solarenergie in Deutschland: wettbewerbsintensiv, zahlreiche Anbieter
 - Marktanteil SPV: unter 1% der installierten Leistung in Deutschland
 - BKartA-Bearbeitungszeit: voraussichtlich Phase I (4 Wochen)
 
@@ -40,7 +40,7 @@ Am 15. Juli 2026 fand eine informelle Vorabstimmung (Pre-notification) mit der F
 
 **Briefkopf:**
 Roosendaal Birkenhainer Partners mbB
-Kurfuerstendamm 184, 10707 Berlin
+Kurfürstendamm 184, 10707 Berlin
 Tel.: +49 30 8855 4100
 AZ: MR-2026-DR-0717
 
@@ -72,15 +72,15 @@ Als am Zusammenschluss beteiligte Unternehmen gemaess § 37 Abs. 1 Nr. 2 GWB wer
 
 Erwerb von 100% der Anteile an der Volkenrath Solar Eppendorf GmbH durch Steinheim Capital Partners GmbH & Co. KG (Anteilserwerb gemaess § 37 Abs. 1 Nr. 2 GWB).
 
-3. **Betroffene Maerkte**
+3. **Betroffene Märkte**
 
-Stromerzeugung aus erneuerbaren Energien (Solarenergie) in Deutschland; Grosshandel Strom (EEG-Einspeiseverguetung); Infrastrukturdienstleistungen.
+Stromerzeugung aus erneuerbaren Energien (Solarenergie) in Deutschland; Grosshandel Strom (EEG-Einspeisevergütung); Infrastrukturdienstleistungen.
 
 4. **Marktstruktur**
 
 [...]
 
-Wir bitten, das Vorliegen der Anmeldeschwellen zu bestaetigen und die Transaktion baldmoeglichst einer Primaerpruefung nach § 40 Abs. 1 GWB zuzuleiten.
+Wir bitten, das Vorliegen der Anmeldeschwellen zu bestätigen und die Transaktion baldmöglichst einer Primaerpruefung nach § 40 Abs. 1 GWB zuzuleiten.
 
 Mit freundlichen Gruessen
 
@@ -90,9 +90,9 @@ Roosendaal Birkenhainer Partners mbB
 
 ---
 
-## Anlage: Ausgefuelltes Anmeldeformular BKartA
+## Anlage: Ausgefülltes Anmeldeformular BKartA
 
-Anlage 1: Anmeldeformular (15 Seiten, ausgefuellt) — liegt separat im Datenraum.
-Anlage 2: Jahresabschluesse Volkenrath Energie SE 2023/2024 (Kurzfassung)
-Anlage 3: Jahresabschluesse Steinheim Capital Partners Gruppe 2023/2024
+Anlage 1: Anmeldeformular (15 Seiten, ausgefüllt) — liegt separat im Datenraum.
+Anlage 2: Jahresabschlüsse Volkenrath Energie SE 2023/2024 (Kurzfassung)
+Anlage 3: Jahresabschlüsse Steinheim Capital Partners Gruppe 2023/2024
 Anlage 4: Beschreibung Markt Photovoltaik Deutschland (4 Seiten)

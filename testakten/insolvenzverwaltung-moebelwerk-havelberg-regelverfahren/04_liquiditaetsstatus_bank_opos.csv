@@ -1,4 +1,4 @@
-stichtag,liquide_mittel,havelbank_guthaben,ostmark_guthaben,barkasse,faellige_verbindlichkeiten,davon_lohn,davon_steuern,davon_lieferanten,davon_sonstige,kurzfristig_realisierbar,luecke,bemerkung
+stichtag,liquide_mittel,havelbank_guthaben,ostmark_guthaben,barkasse,fällige_verbindlichkeiten,davon_lohn,davon_steuern,davon_lieferanten,davon_sonstige,kurzfristig_realisierbar,luecke,bemerkung
 2026-04-10,42300.00,28800.00,12200.00,1300.00,612100.00,118000.00,74400.00,371900.00,47800.00,82000.00,487800.00,Vor Ratenplanrate Furnier Nord
 2026-04-17,38420.00,26100.00,11080.00,1240.00,642300.00,118000.00,74400.00,391900.00,58000.00,79000.00,524880.00,Nach Ratenplanzahlung 18 TEUR
 2026-04-24,24110.00,17400.00,6210.00,500.00,688900.00,118000.00,81200.00,430700.00,59000.00,76000.00,588790.00,Sondertilgung Havelbank 35 TEUR abgegangen

@@ -19,22 +19,22 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Kurzbild
 
-- **Vorlage:** Referentenentwurf des **Bundesministeriums der Justiz (BMJ)** vom **14.04.2026** fuer das "Gesetz zur Verbesserung der elektronischen Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften" (**ElErrHandRegG**).
+- **Vorlage:** Referentenentwurf des **Bundesministeriums der Justiz (BMJ)** vom **14.04.2026** für das "Gesetz zur Verbesserung der elektronischen Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften" (**ElErrHandRegG**).
 - **NKR-Aktenzeichen:** NKR-RefE-2026-088
 - **Sachbearbeitung NKR:** Referent Dr. Wilhelm Stadelheim-Bechler
-- **Stellungnahme-Termin:** Spaetestens 28.05.2026 (sechs Wochen-Frist nach § 6 Abs. 1 NKRG ab Eingang Referentenentwurf)
-- **NKR-Befund (Vorab):** Vorhaben **prinzipiell erforderlich** (positiver Nutzen, beschleunigte Verfahren, weniger Auslandsbezuege), aber **konkret zu komplex ausgestaltet** — geschaetzter jaehrlicher Erfuellungsaufwand fuer die Wirtschaft **320 Mio EUR**, fuer die Verwaltung **180 Mio EUR**; Alternativ-Vorschlag NKR reduziert beides auf **80 Mio EUR Wirtschaft / 45 Mio EUR Verwaltung**.
+- **Stellungnahme-Termin:** Spätestens 28.05.2026 (sechs Wochen-Frist nach § 6 Abs. 1 NKRG ab Eingang Referentenentwurf)
+- **NKR-Befund (Vorab):** Vorhaben **prinzipiell erforderlich** (positiver Nutzen, beschleunigte Verfahren, weniger Auslandsbezüge), aber **konkret zu komplex ausgestaltet** — geschätzter jährlicher Erfuellungsaufwand für die Wirtschaft **320 Mio EUR**, für die Verwaltung **180 Mio EUR**; Alternativ-Vorschlag NKR reduziert beides auf **80 Mio EUR Wirtschaft / 45 Mio EUR Verwaltung**.
 
 ## Kern-Konfliktthemen
 
-1. **Erforderlichkeit ist gegeben** — das Vorhaben loest ein reales Problem (Klagen, Bescheide, gerichtliche Verfuegungen erreichen Gesellschaften zu spaet oder gar nicht; Auslandstoechter dauern Monate). Aber: NKR-Standpunkt "Wenn nicht noetig, dann nicht regeln" ist *hier* zu uebersetzen als "Wenn noetig, dann **richtig** regeln".
+1. **Erforderlichkeit ist gegeben** — das Vorhaben löst ein reales Problem (Klagen, Bescheide, gerichtliche Verfügungen erreichen Gesellschaften zu spät oder gar nicht; Auslandstöchter dauern Monate). Aber: NKR-Standpunkt "Wenn nicht nötig, dann nicht regeln" ist *hier* zu übersetzen als "Wenn nötig, dann **richtig** regeln".
 2. **Drei konkurrierende technische Standards** (beA, De-Mail, "qualifizierter eIDAS-konformer Mailbox-Dienst") — kein gemeinsamer Hub.
 3. **Monatlicher Lebensbescheid** — unverhaeltnismaessig hoher Wiederholungs-Aufwand.
-4. **Zwangsgeld bis 50.000 EUR + Loeschung aus Handelsregister** im Wiederholungsfall — KMU-feindlich.
-5. **Auslandsanknuepfung**: "elektronisch erreichbarer Inlandsvertreter" analog § 184 ZPO — uneinheitlich zur Bruessel-Ia-VO Art. 64 (Zustellung im EU-Ausland).
-6. **OZG-Anschlussfaehigkeit**: nicht abgestimmt mit OZG 2.0 (Inkrafttreten geplant 2026, vom Anwender zu verifizieren).
+4. **Zwangsgeld bis 50.000 EUR + Löschung aus Handelsregister** im Wiederholungsfall — KMU-feindlich.
+5. **Auslandsanknüpfung**: "elektronisch erreichbarer Inlandsvertreter" analog § 184 ZPO — uneinheitlich zur Brüssel-Ia-VO Art. 64 (Zustellung im EU-Ausland).
+6. **OZG-Anschlussfähigkeit**: nicht abgestimmt mit OZG 2.0 (Inkrafttreten geplant 2026, vom Anwender zu verifizieren).
 
-## Aktenstuecke
+## Aktenstücke
 
 | Nr | Datei | Inhalt |
 |---|---|---|
@@ -77,4 +77,4 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Hinweis
 
-Die Akte zeigt den typischen NKR-Konflikt: das Vorhaben ist sinnvoll, die Ausgestaltung im Referentenentwurf jedoch unverhaeltnismaessig komplex. Der NKR ist nicht Veto-Instanz, sondern mahnend-konstruktive Kraft mit oeffentlich wahrnehmbarer Stellungnahme. Im konkreten Fall reicht der NKR seine Stellungnahme mit detaillierter Alternativbenennung ein, und der weitere Verlauf des Gesetzgebungsverfahrens haengt davon ab, ob das BMJ die Anregungen in einer ueberarbeiteten Kabinettsvorlage uebernimmt.
+Die Akte zeigt den typischen NKR-Konflikt: das Vorhaben ist sinnvoll, die Ausgestaltung im Referentenentwurf jedoch unverhaeltnismaessig komplex. Der NKR ist nicht Veto-Instanz, sondern mahnend-konstruktive Kraft mit öffentlich wahrnehmbarer Stellungnahme. Im konkreten Fall reicht der NKR seine Stellungnahme mit detaillierter Alternativbenennung ein, und der weitere Verlauf des Gesetzgebungsverfahrens hängt davon ab, ob das BMJ die Anregungen in einer überarbeiteten Kabinettsvorlage übernimmt.

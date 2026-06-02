@@ -2,7 +2,7 @@
 
 ## Anlass
 
-Die Initiative ist unsicher, ob sie nach Petition, Anhoerung und spaeterer Bundeskampagne freiwillig oder verpflichtend registriert werden soll. Vor einer freiwilligen Registrierung soll geprueft werden, ob es bereits oeffentliche Treffer gibt und ob eine Namensverwechslung mit anderen Waldmoor-Gruppen droht.
+Die Initiative ist unsicher, ob sie nach Petition, Anhörung und späterer Bundeskampagne freiwillig oder verpflichtend registriert werden soll. Vor einer freiwilligen Registrierung soll geprüft werden, ob es bereits öffentliche Treffer gibt und ob eine Namensverwechslung mit anderen Waldmoor-Gruppen droht.
 
 Bearbeitung: Luise Barmbek und RAin Julia Stern
 Erster API-Test: 20.05.2026
@@ -29,19 +29,19 @@ curl -H "Authorization: ApiKey ${LOBBYREGISTER_API_KEY}" \
 
 ## Bewertung vor Registrierung
 
-Kein Treffer ist hier nicht automatisch "kein Risiko". Die Akte zeigt, dass die bundespolitische Kampagne Mitte Mai qualitativ anders wird: Telefonat mit BMDV, vorbereitete Anhoerung, Gutachten, Spenden und direkte MdB-Kommunikation. Die API beantwortet nur, was veroeffentlicht ist. Die Pflicht- oder Freiwilligkeitsfrage bleibt eine LobbyRG-Pruefung.
+Kein Treffer ist hier nicht automatisch "kein Risiko". Die Akte zeigt, dass die bundespolitische Kampagne Mitte Mai qualitativ anders wird: Telefonat mit BMDV, vorbereitete Anhörung, Gutachten, Spenden und direkte MdB-Kommunikation. Die API beantwortet nur, was veröffentlicht ist. Die Pflicht- oder Freiwilligkeitsfrage bleibt eine LobbyRG-Pruefung.
 
 ## Monitoring nach freiwilliger Registrierung
 
 Nach freiwilliger Registrierung soll die API kontrollieren:
 
-- Rechtsform als Organisation ohne eigene Rechtspersoenlichkeit
+- Rechtsform als Organisation ohne eigene Rechtspersönlichkeit
 - Sprecherinnen und vertretende Personen
-- Taetigkeitsbeschreibung "Moratorium und Alternativenpruefung"
+- Tätigkeitsbeschreibung "Moratorium und Alternativenpruefung"
 - Finanzierungsquellen ohne angenommene Windpark-Spende
-- keine irrefuehrende Aussage, dass alle lokalen Petitionstaetigkeiten registerpflichtig waren
-- `statements` fuer das Gutachten nur, wenn Versand an Bundesadressaten und Uploadpflicht bejaht wurden
+- keine irreführende Aussage, dass alle lokalen Petitionstaetigkeiten registerpflichtig waren
+- `statements` für das Gutachten nur, wenn Versand an Bundesadressaten und Uploadpflicht bejaht wurden
 
 ## Schlechte Praxis, die die Akte testen soll
 
-Luise schreibt im Chat: "Wenn wir freiwillig drinstehen, ist doch alles safe." Das ist falsch. Freiwillige Registrierung loest Pflege-, Richtigkeits- und Offenlegungsfragen aus. Das Plugin soll diese Aussage stoppen und ein echtes Fristen- und Freigabesystem verlangen.
+Luise schreibt im Chat: "Wenn wir freiwillig drinstehen, ist doch alles safe." Das ist falsch. Freiwillige Registrierung löst Pflege-, Richtigkeits- und Offenlegungsfragen aus. Das Plugin soll diese Aussage stoppen und ein echtes Fristen- und Freigabesystem verlangen.

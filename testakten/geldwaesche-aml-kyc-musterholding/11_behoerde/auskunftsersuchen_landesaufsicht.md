@@ -2,7 +2,7 @@
 
 > **Musterholding GmbH**  
 > Gutleutstraße 44 · 60329 Frankfurt am Main  
-> Vertreten durch RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld  
+> Vertreten durch RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld  
 > Taunusanlage 8, 60329 Frankfurt am Main  
 > Tel: +49 69 921 083 0 · kanzlei@heller-schoenfeld.de  
 
@@ -126,7 +126,7 @@ Die Musterholding GmbH hat alle angeforderten Unterlagen vollständig vorgelegt.
 Mit freundlichen Grüßen
 
 **RA Dr. Franziska Heller**  
-Kanzlei Heller & Schoenfeld  
+Kanzlei Heller & Schönfeld  
 Im Auftrag der Musterholding GmbH  
 
 ---
@@ -146,5 +146,5 @@ Im Auftrag der Musterholding GmbH
 
 ---
 
-*Aktenzeichen Kanzlei: 2026/AML/047-MH — Kanzlei Heller & Schoenfeld*  
+*Aktenzeichen Kanzlei: 2026/AML/047-MH — Kanzlei Heller & Schönfeld*  
 *Aktenzeichen Behörde: RP-DA/IV-AML/2026/1847-MH*

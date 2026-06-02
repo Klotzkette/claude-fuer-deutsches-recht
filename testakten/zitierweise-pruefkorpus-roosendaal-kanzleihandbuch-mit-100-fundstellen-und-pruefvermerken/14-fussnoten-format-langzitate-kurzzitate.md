@@ -7,7 +7,7 @@
 
 ## A. Langzitat (Erstnennung / Vollbeleg)
 
-Das Langzitat wird bei der ersten Erwaehnung einer Quelle verwendet. Es enthalt alle Pflichtangaben.
+Das Langzitat wird bei der ersten Erwähnung einer Quelle verwendet. Es enthalt alle Pflichtangaben.
 
 ### A.1 Rechtsprechung — Langzitat
 ```
@@ -29,7 +29,7 @@ Rolfs, Massenentlassung und europarechtliche Vorgaben, NZA 2023, 713 (715).
 
 ## B. Kurzzitat (Wiederholung, nicht unmittelbar folgend)
 
-Das Kurzzitat wird bei erneuter Erwaehnung einer Quelle verwendet, wenn zwischen Erst- und Wiederholungsnennung andere Quellen zitiert werden.
+Das Kurzzitat wird bei erneuter Erwähnung einer Quelle verwendet, wenn zwischen Erst- und Wiederholungsnennung andere Quellen zitiert werden.
 
 ### B.1 Rechtsprechung — Kurzzitat
 ```
@@ -75,7 +75,7 @@ Ebenda, S. 1241.
 - Hochgestellte Zahl im Text: `¹` (Fliesstext) → Fussnote am Seitenende
 - Fussnoten-Schrift: 2 Punkt kleiner als Fliesstext
 - Punkt am Ende der Fussnote: immer
-- Fussnoten-Trennlinie: duenne Linie (kanzleiinterne Vorlage)
+- Fussnoten-Trennlinie: dünne Linie (kanzleiinterne Vorlage)
 
 ---
 
@@ -97,7 +97,7 @@ A.A. Palandt/Ellenberger, BGB, 80. Aufl. 2021, § 242 Rn. 28.
 BGH NJW 2022, 1238 (1240) m.w.N.
 ```
 
-### E.4 Mit ausfuehrlicher Begr.
+### E.4 Mit ausführlicher Begr.
 ```
 Rolfs, NZA 2023, 713 (715 ff. — ausfuehrlich).
 ```

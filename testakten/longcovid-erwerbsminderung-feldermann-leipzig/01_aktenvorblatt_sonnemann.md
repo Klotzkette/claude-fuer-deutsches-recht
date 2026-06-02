@@ -75,7 +75,7 @@ Klärungsbedarf: Anrechnung Einkommen Ehemann bei PKH-Prüfung (§ 115 ZPO i. V.
 
 - Alle Originalunterlagen liegen als Scans im digitalen Mandantenordner vor.
 - PEM-Tagebuch (Original) bei Mandantin verwahrt; Auszug in Akte (Aktenstück 17).
-- Ärztliche Befunde: Hausarzt Dr. Maerker (Leipzig), Charité Long-Covid-Ambulanz (Prof. Scheibenbogen, Berlin), SKH Psychiatrie Leipzig.
+- Ärztliche Befunde: Hausarzt Dr. Märker (Leipzig), Charité Long-Covid-Ambulanz (Prof. Scheibenbogen, Berlin), SKH Psychiatrie Leipzig.
 - Nächster Besprechungstermin: 05.03.2026, 10:00 Uhr, Kanzlei.
 
 ---

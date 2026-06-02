@@ -41,7 +41,7 @@ EuGH, Urt. v. 13.05.2014, ECLI:EU:C:2014:317, Rs. C-131/12 — Google Spain, NJW
 
 ## C. Amtliche Sammlung (Slg.)
 
-Die amtliche Sammlung des EuGH (Sammlung der Rechtsprechung) wurde bis 2011 in Papierform veroeffentlicht. Ab 2012 erfolgt die Veroeffentlichung nur noch elektronisch ueber EUR-Lex. Bei Altentscheidungen: Slg. [Jahr], [Seite] angeben. Bei Neuentscheidungen: ECLI gemaess B.1.
+Die amtliche Sammlung des EuGH (Sammlung der Rechtsprechung) wurde bis 2011 in Papierform veröffentlicht. Ab 2012 erfolgt die Veröffentlichung nur noch elektronisch über EUR-Lex. Bei Altentscheidungen: Slg. [Jahr], [Seite] angeben. Bei Neuentscheidungen: ECLI gemaess B.1.
 
 ---
 

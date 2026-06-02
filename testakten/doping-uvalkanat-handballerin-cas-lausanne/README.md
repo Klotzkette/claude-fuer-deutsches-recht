@@ -60,7 +60,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | 08 | [`08_produkthaftung_powernutrition_gmbh.md`](08_produkthaftung_powernutrition_gmbh.md) | § 1 ProdHaftG, Fehler, Herstellerhaftung, Schadensersatz |
 | 09 | [`09_schriftwechsel_nada_vorabinformation.md`](09_schriftwechsel_nada_vorabinformation.md) | Vorabinformation NADA, Einspruchsfristen, Akteneinsicht |
 | 10 | [`10_dis_sportschiedsgericht_verfahren.md`](10_dis_sportschiedsgericht_verfahren.md) | DSB-Sportschiedsgericht Frankfurt, DIS-SportSchO, Beweisaufnahme |
-| 11 | [`11_beweisaufnahme_zeugen_gutachter.md`](11_beweisaufnahme_zeugen_gutachter.md) | Zeugen, Gutachter, Beweisantraege, Verhandlung |
+| 11 | [`11_beweisaufnahme_zeugen_gutachter.md`](11_beweisaufnahme_zeugen_gutachter.md) | Zeugen, Gutachter, Beweisanträge, Verhandlung |
 | 12 | [`12_schiedsspruch_dis_und_berufungsstrategie.md`](12_schiedsspruch_dis_und_berufungsstrategie.md) | Schiedsspruch DSGSp 12/26, Berufungsentscheidung CAS |
 | 13 | [`13_cas_lausanne_verfahren_einleitung.md`](13_cas_lausanne_verfahren_einleitung.md) | CAS 2026/A/8821, Statement of Appeal, Verfahrensregeln |
 | 14 | [`14_cas_rechtsprechung_mutu_pechstein.md`](14_cas_rechtsprechung_mutu_pechstein.md) | Mutu/Pechstein-Linie, ECHR Art. 6, Verfahrensgrundrechte |

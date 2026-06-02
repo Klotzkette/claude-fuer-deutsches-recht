@@ -28,7 +28,7 @@
 ```
 
 **Beispiel:**
-Musielak, Das Recht der Beweisfuehrung, in: Muenchener Kommentar ZPO (Hrsg.: Rauscher/Kreutzmann), Bd. 1, 6. Aufl. 2020, § 286 Rn. 12.
+Musielak, Das Recht der Beweisführung, in: Münchener Kommentar ZPO (Hrsg.: Rauscher/Kreutzmann), Bd. 1, 6. Aufl. 2020, § 286 Rn. 12.
 
 ---
 
@@ -40,8 +40,8 @@ Musielak, Das Recht der Beweisfuehrung, in: Muenchener Kommentar ZPO (Hrsg.: Rau
 ```
 
 **Beispiele:**
-- Hopt, Schranken der Geschaeftsfuehrerbefugnis, in: Hoffmann-Becking (Hrsg.), Festschrift fuer Marcus Lutter, 2000, S. 1361 (1375 f.).
-- Canaris, Gesamtunwirksamkeit und Teilgueltigkeit rechtsgeschaeftlicher Regelungen, in: Beitzke (Hrsg.), Festschrift fuer Ernst Steindorff, 1990, S. 519 (523).
+- Hopt, Schranken der Geschäftsführerbefugnis, in: Hoffmann-Becking (Hrsg.), Festschrift für Marcus Lutter, 2000, S. 1361 (1375 f.).
+- Canaris, Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschaeftlicher Regelungen, in: Beitzke (Hrsg.), Festschrift für Ernst Steindorff, 1990, S. 519 (523).
 
 ---
 

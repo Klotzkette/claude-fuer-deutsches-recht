@@ -6,7 +6,7 @@ Dieses Dokument ist Hildemar K.s Arbeitsstand vom 20.05.2026, 02:14 Uhr. Adelhei
 
 ## 1 Cap Table und Gesellschafterliste
 
-Ich glaube, Cap Table ist im Grunde die Gesellschafterliste, aber mit englischer Ueberschrift. Muss ich noch prüfen.
+Ich glaube, Cap Table ist im Grunde die Gesellschafterliste, aber mit englischer Überschrift. Muss ich noch prüfen.
 
 > **AvW:** Nein. Cap Table ist eine wirtschaftliche Projektion auf Fully-Diluted-Basis und enthält Optionen, Wandeldarlehen, Pool. Die Gesellschafterliste nach § 40 GmbHG ist eine **rechtlich verbindliche** Liste der **tatsächlich** in Geschäftsanteilen verkörperten Mitgliedschaftsrechte zum Stichtag. Wer das verwechselt, verwechselt im Mandantengespräch auch die Kategorien "wirtschaftliche Beteiligung" und "Mitgliedschaftsrecht". Bitte die Begriffe in Ihrer Notiz sauber trennen. **Wiederlesen, dann umschreiben.**
 

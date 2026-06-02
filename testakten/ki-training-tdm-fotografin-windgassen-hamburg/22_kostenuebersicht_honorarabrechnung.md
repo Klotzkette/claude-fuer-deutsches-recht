@@ -15,7 +15,7 @@
 | 16.01.2026 | Aktenstudium Waldorf-Frommer-Abmahnung | 1,0 Std. | 380 EUR | 380 EUR |
 | 18.01.2026 | Beauftragung IT-Forensik Barkhoff; Anfrage Hetzner | 0,8 Std. | 380 EUR | 304 EUR |
 | 20.01.2026 | Rechtsgutachten § 44b UrhG (Entwurf 12 Seiten) | 3,5 Std. | 380 EUR | 1.330 EUR |
-| 21.01.2026 | Bewertung Filesharing-Abmahnung; Mod.-UE-Entwurf | 2,0 Std. | 380 EUR | 760 EUR |
+| 21.01.2026 | Bewertung Filesharing-Abmahnung; Mod.-Ü-Entwurf | 2,0 Std. | 380 EUR | 760 EUR |
 | 21.01.2026 | Bearbeitungsrecht Lia Windgassen — Memo | 1,0 Std. | 380 EUR | 380 EUR |
 | 22.01.2026 | Auswertung Serverlog-Analyse Barkhoff | 1,5 Std. | 380 EUR | 570 EUR |
 | 22.01.2026 | Gegendarstellungsentwurf EWA | 1,5 Std. | 380 EUR | 570 EUR |

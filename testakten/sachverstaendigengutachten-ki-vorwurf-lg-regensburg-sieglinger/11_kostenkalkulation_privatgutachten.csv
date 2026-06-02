@@ -1,13 +1,13 @@
 Posten;Beschreibung;Aufwand_Stunden;Stundensatz_EUR;Summe_EUR;Notiz
-Vor_Ort_Termin;Ortsbegehung mit Vermessung und Wechselrichter-Oeffnung;6;145;870;Mit Mandant abgestimmt
-Messung_Anlagenleistung;Mess-Equipment plus Datenauswertung (Pyranometer, Strangmessung);8;160;1280;Inkl. Standgebuehr Messgeraet
-Wechselrichter_Oeffnung_Diagnose;Pruefung Solartec SB-25 nach Herstellerprotokoll;5;160;800;Mit Hersteller-Pruefliste
-Modulhalter_Demontage_Stichprobe;Drei Halter abnehmen, Dichtung pruefen, Wassereintritt nachweisen;6;145;870;Inkl. Gerueststellung
+Vor_Ort_Termin;Ortsbegehung mit Vermessung und Wechselrichter-Öffnung;6;145;870;Mit Mandant abgestimmt
+Messung_Anlagenleistung;Mess-Equipment plus Datenauswertung (Pyranometer, Strangmessung);8;160;1280;Inkl. Standgebühr Messgerät
+Wechselrichter_Öffnung_Diagnose;Pruefung Solartec SB-25 nach Herstellerprotokoll;5;160;800;Mit Hersteller-Prüfliste
+Modulhalter_Demontage_Stichprobe;Drei Halter abnehmen, Dichtung prüfen, Wassereintritt nachweisen;6;145;870;Inkl. Gerueststellung
 Dokumentation_Foto_Mess;Foto- und Messprotokoll;3;120;360;
 Schriftliche_Ausarbeitung;Privatgutachten Wallner II (Erweiterung);28;180;5040;
 Stellungnahme_Pfaffenberger;Inhaltliche Auseinandersetzung mit Gutachten Pfaffenberger;10;180;1800;Methodik, Datenbasis, Mangelbeseitigungskosten
-Reisekosten;Anfahrt Regensburg-Weiden und zurueck;;;180;0,42 EUR/km
-Auslagen_Mess_und_Geruest;Mietkosten Pyranometer und Gerueststellung;;;620;
-GESAMT_VORLAEUFIG;;66;;11820;Brutto ca. 14.066 EUR (19 % USt)
-Reserve_Streitstand;Falls Stellungnahme zu zwei Gegenargumenten erforderlich;;;3500;Reserve fuer methodische Replik
+Reisekosten;Anfahrt Regensburg-Weiden und zurück;;;180;0,42 EUR/km
+Auslagen_Mess_und_Gerüst;Mietkosten Pyranometer und Gerueststellung;;;620;
+GESAMT_VORLÄUFIG;;66;;11820;Brutto ca. 14.066 EUR (19 % USt)
+Reserve_Streitstand;Falls Stellungnahme zu zwei Gegenargumenten erforderlich;;;3500;Reserve für methodische Replik
 _HINWEIS;Endkalkulation steht nach Akteneinsicht aller Pfaffenberger-Unterlagen;;;;

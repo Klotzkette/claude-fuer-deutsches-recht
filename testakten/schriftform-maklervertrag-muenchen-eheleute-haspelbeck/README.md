@@ -52,8 +52,8 @@ München-Bogenhausen zum Kaufpreis von EUR 617.000,00 an.
 Im Verlauf des E-Mail-Austauschs enthielt die Signatur einer ihrer Mails (E-Mail Nr. 2/8
 vom 03.04.2023) folgenden Hinweis:
 
-> *"Unser Honorar betraegt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
-> MwSt.) gemäß gesetzlicher Courtagefreiheit des Verkaeufers. Bezug: Ihr Anfrageobjekt."*
+> *"Unser Honorar beträgt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
+> MwSt.) gemäß gesetzlicher Courtagefreiheit des Verkäufers. Bezug: Ihr Anfrageobjekt."*
 
 Weder war das Objekt namentlich bezeichnet, noch war eine Provision der Höhe nach
 festgeschrieben. Korbinian Haspelbeck bemerkte diesen Hinweis nach eigenen Angaben kaum

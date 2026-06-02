@@ -1,5 +1,5 @@
 INTERNE KANZLEINOTIZ — VERTRAULICH
-Reher Wennstedt Rechtsanwaelte PartGmbB (fuer Varianten A/B/C)
+Reher Wennstedt Rechtsanwälte PartGmbB (für Varianten A/B/C)
 RA Dr. Tjark Reher-Bornholmsen — Hohe Bleichen 14, 20354 Hamburg
 sowie RAin Charlotte Wandelmoser, Berlin-Charlottenburg (Variante D, Kooperation)
 
@@ -15,9 +15,9 @@ A. VORBEMERKUNG
 Diese Notiz fasst die vier derzeit aktiven Restrukturierungsmandate zusammen und
 vergleicht die jeweiligen Krisenstadien, Symptome, angewandten Instrumente sowie
 die insolvenzrechtliche Einordnung. Sie dient der internen Fortbildung sowie der
-Qualitaetssicherung im Bereich Fruehwarnsysteme gemaess §§ 1, 102 StaRUG.
+Qualitätssicherung im Bereich Frühwarnsysteme gemaess §§ 1, 102 StaRUG.
 
-Die vier Faelle decken das gesamte Spektrum von drohender Zahlungsunfahigkeit
+Die vier Fälle decken das gesamte Spektrum von drohender Zahlungsunfahigkeit
 (§ 18 InsO) bis zur akuten Insolvenzantragspflicht (§ 15a InsO) ab und
 veranschaulichen, wie unterschiedlich das StaRUG je nach Unternehmensgroesse,
 Glaubigerstruktur und Krisentiefe eingesetzt werden kann — oder eben NICHT
@@ -31,49 +31,49 @@ B. SYNOPTISCHER VERGLEICH — VIER MANDATE
 I.   VARIANTE A: VEYRA AI Foundation gGmbH, Frankfurt am Main
 ------------------------------------------------------------------------
   Aktenzeichen  : AG Frankfurt 810 RES 14/26
-  Gesellschaft  : gGmbH (gemeinnuetzig), HRB 118 847
+  Gesellschaft  : gGmbH (gemeinnützig), HRB 118 847
   Groesse       : Kleine Kapitalgesellschaft; keine Bankverbindlichkeiten
   GF            : Dr. Mira Hellinghaus-Karpov (alleinvertretungsber.)
   AR-Vorsitz    : Prof. Dr. Heinrich Osterwald-Bonn
   Kanzlei       : Reher Wennstedt (Dr. Reher-Bornholmsen, federf.)
 
-  KRISENSYMPTOME (nach Dreistufenmodell Muenchener Kommentar InsO):
-  1. Strategische Krise     : Abhaengigkeit von Spenden + EU-Foerderung;
+  KRISENSYMPTOME (nach Dreistufenmodell Münchener Kommentar InsO):
+  1. Strategische Krise     : Abhängigkeit von Spenden + EU-Förderung;
                               keine diversifizierten Einnahmequellen;
-                              OPENSENS-Foerderung (EUR 2,1 Mio.) 9 Monate verzoegert
+                              OPENSENS-Förderung (EUR 2,1 Mio.) 9 Monate verzögert
   2. Erfolgskrise           : Spendeneinbruch -34 % Q1/2026 ggue. Q1/2025;
-                              monatlicher Liquiditaetsabfluss EUR -210.000
-  3. Liquiditaetskrise      : Kassenbestand 31.03.2026: EUR 830.000;
-                              Drohende ZU ab Monat 14 (Juni 2027) laut Liquiditaetsplan;
+                              monatlicher Liquiditätsabfluss EUR -210.000
+  3. Liquiditätskrise      : Kassenbestand 31.03.2026: EUR 830.000;
+                              Drohende ZU ab Monat 14 (Juni 2027) laut Liquiditätsplan;
                               Nordlicht Cloud GmbH: EUR 354.000 offen, GPU-Abschaltung angedroht
 
   KRISENSTADIUM (§§ InsO):
     Drohende Zahlungsunfahigkeit gem. § 18 InsO (NOCH KEINE § 17 InsO!)
-    Keine Ueberschuldung (§ 19 InsO) da Eigenkapital durch Foerderruecklagen positiv.
+    Keine Überschuldung (§ 19 InsO) da Eigenkapital durch Förderrücklagen positiv.
 
   BESONDERHEITEN:
-    - Gemeinnuetzige gGmbH: Steuerliche Restriktionen bei Mitteleinsatz
+    - Gemeinnützige gGmbH: Steuerliche Restriktionen bei Mitteleinsatz
     - Kein klassischer Bankkredit; kein Sicherheitennetz
-    - AR gemaess § 1 Abs. 1 Satz 2 StaRUG zur Einrichtung Fruehwarnsystem verpflichtet
+    - AR gemaess § 1 Abs. 1 Satz 2 StaRUG zur Einrichtung Frühwarnsystem verpflichtet
     - § 102 StaRUG: Warnschreiben erstattet am 08.05.2026 (Fristwahrung)
 
   INSTRUMENT:
     Restrukturierungsplan (§§ 5 ff. StaRUG) + § 102 Warnschreiben
     Anzeige Restrukturierungssache gem. § 31 StaRUG beim AG Frankfurt
-    Ziel: Stundung Nordlicht Cloud; Brueckenliquiditaet durch neue Spendenkampagne
+    Ziel: Stundung Nordlicht Cloud; Brückenliquidität durch neue Spendenkampagne
 
-  EINSCHAETZUNG:
-    Klassischer "Frueherkennungsfall": StaRUG greift, weil noch kein § 17 InsO vorliegt.
-    Reformbedarf: Gemeinnuetzige Unternehmen im StaRUG strukturell benachteiligt
-    (kein Bankenschuldschnitt moeglich, da keine Bankglaeubiger).
+  EINSCHÄTZUNG:
+    Klassischer "Früherkennungsfall": StaRUG greift, weil noch kein § 17 InsO vorliegt.
+    Reformbedarf: Gemeinnützige Unternehmen im StaRUG strukturell benachteiligt
+    (kein Bankenschuldschnitt möglich, da keine Bankgläubiger).
 
 ------------------------------------------------------------------------
 II.  VARIANTE B: Herrenbluse & Zwirn Hartmannschmidt AG, Bamberg
 ------------------------------------------------------------------------
   Aktenzeichen  : AG Bamberg 53 RES 7/26
-  Gesellschaft  : AG (Open Market, Boerse Frankfurt), HRB 4 771, ISIN: DE000HZH0042
+  Gesellschaft  : AG (Open Market, Börse Frankfurt), HRB 4 771, ISIN: DE000HZH0042
   Groesse       : Mittlerer Konzern; Umsatz ca. EUR 380 Mio. (2025)
-  Gruendung     : 1891 (Familienunternehmen, 5. Generation Hartmannschmidt)
+  Gründung     : 1891 (Familienunternehmen, 5. Generation Hartmannschmidt)
   Vorstand      : Helge Hartmannschmidt (Sprecher), Annika Luettke-Berens (CFO)
   Kanzlei       : Reher Wennstedt (Dr. Reher-Bornholmsen + Dr. Vellmer-Lutz)
 
@@ -83,32 +83,32 @@ II.  VARIANTE B: Herrenbluse & Zwirn Hartmannschmidt AG, Bamberg
   2. Erfolgskrise           : EBITDA-Marge nur 4,4 % (Tief seit 2008);
                               EBITDA Q1/2026: EUR 4,2 Mio. (Vorjahr: EUR 9,1 Mio.)
   3. Liquiditaets-/Bilanz-
-     krise                  : Anleihe EUR 65 Mio. faellig Okt. 2027;
+     krise                  : Anleihe EUR 65 Mio. fällig Okt. 2027;
                               Net Debt/EBITDA: 11,5x (Covenant-Bruch: max. 5,5x);
                               Cash EUR 4,2 Mio. (Reichweite: ca. 6 Wochen);
-                              Waiver der Konsortialbanken laeuft 30.05.2026 aus
+                              Waiver der Konsortialbanken läuft 30.05.2026 aus
 
   KRISENSTADIUM:
-    Drohende Zahlungsunfahigkeit gem. § 18 InsO (primaer Anleihe-Faelligkeit 2027)
-    Covenant-Bruch: technische Kuendigungsmoeglichkeit der Banken ab sofort
+    Drohende Zahlungsunfahigkeit gem. § 18 InsO (primär Anleihe-Fälligkeit 2027)
+    Covenant-Bruch: technische Kündigungsmöglichkeit der Banken ab sofort
     Latente Ueberschuldungsgefahr (§ 19 InsO) bei weiterem EBITDA-Verfall
 
   BESONDERHEITEN:
-    - Boersennotierung erfordert Ad-hoc-Pflichten (MAR Art. 17); enge Abstimmung mit
+    - Börsennotierung erfordert Ad-hoc-Pflichten (MAR Art. 17); enge Abstimmung mit
       Kapitalmarktrechtler erforderlich
     - IDW S 11 (Bescheinigung Planungsunterlagen) und IDW S 6 (Sanierungsgutachten)
       beauftragt bei Revita Treuhand GmbH, Frankfurt
-    - 130-jaehrige Unternehmenstradition: erheblicher Reputationsschutz-Aspekt
+    - 130-jährige Unternehmenstradition: erheblicher Reputationsschutz-Aspekt
 
   INSTRUMENT:
     Cross-Class-Cram-Down gem. § 26 StaRUG
-    Anleihe-Restrukturierung (Haircut + Laufzeitverlaengerung)
+    Anleihe-Restrukturierung (Haircut + Laufzeitverlängerung)
     Standstill-Vereinbarung Konsortialbanken (8 Banken; unterzeichnet 05.05.2026)
-    Glaeubigerklassen: (1) Konsortialbanken, (2) Anleiheinvestoren,
-                       (3) Warenkreditversicherer, (4) sonstige Glaeubiger
+    Gläubigerklassen: (1) Konsortialbanken, (2) Anleiheinvestoren,
+                       (3) Warenkreditversicherer, (4) sonstige Gläubiger
 
-  EINSCHAETZUNG:
-    Komplexestes Mandat der vier Faelle. Cross-Class-Cram-Down § 26 StaRUG setzt
+  EINSCHÄTZUNG:
+    Komplexestes Mandat der vier Fälle. Cross-Class-Cram-Down § 26 StaRUG setzt
     voraus, dass mindestens eine voll deckungsgesicherte Klasse zustimmt und keine
     Klasse schlechter steht als bei Insolvenz (§§ 26-28 StaRUG, Schlechterstellungstest).
     Enge Zeitschiene: Waiver-Ablauf 30.05.2026 ist faktische Deadline.
@@ -132,14 +132,14 @@ III. VARIANTE C: Nordfels Power Cells SE, Ellwangen (Jagst)
                               EBITDA EUR -18,4 Mio. (operativer Verlust!)
   3. Bilanz-/Liquiditaets-
      krise                  : Anleihe EUR 250 Mio. + Konsortialkredit EUR 300 Mio.;
-                              Ueberschuldung droht bei negativer Fortbestehensprognose
+                              Überschuldung droht bei negativer Fortbestehensprognose
 
   BESONDERHEITEN (Aktivist-Eskalation):
     - Westshore Catalyst Partners (Cayman, 11 % Anteil) hat am 02.05.2026 einen
-      oeffentlichen Brief veroeffentlicht, der den Ruecktritt des Vorstands fordert
+      öffentlichen Brief veröffentlicht, der den Rücktritt des Vorstands fordert
       und eine ausserordentliche HV beantragt
     - Schlechterstellungsgutachten § 27 StaRUG zwingend (erstellt Brentwood Hartfeld)
-    - Debt-to-Equity-Swap (Kapitalherabsetzung auf EUR 1, dann Kapitalerhoehung)
+    - Debt-to-Equity-Swap (Kapitalherabsetzung auf EUR 1, dann Kapitalerhöhung)
       verwassert Westshore-Position => Widerstand des Aktivisten eingeplant
 
   KRISENSTADIUM:
@@ -147,63 +147,63 @@ III. VARIANTE C: Nordfels Power Cells SE, Ellwangen (Jagst)
     Negativer Fortbestehenspragnoseteil bei EBITDA EUR -18,4 Mio. im laufenden Jahr
 
   INSTRUMENT:
-    Stabilisierungsanordnung §§ 49-59 StaRUG (Vollstreckungsschutz, 3 Monate + Verlaengerung)
+    Stabilisierungsanordnung §§ 49-59 StaRUG (Vollstreckungsschutz, 3 Monate + Verlängerung)
     Cram-Down § 26 StaRUG gegen Westshore-Position
     Debt-to-Equity-Swap (kombiniert mit Kapitalherabsetzung § 229 AktG)
     Schlechterstellungsgutachten § 27 StaRUG (Brentwood Hartfeld)
 
-  EINSCHAETZUNG:
-    Das Aktivisten-Element stellt eine Besonderheit dar: Westshore agiert oekonomisch
+  EINSCHÄTZUNG:
+    Das Aktivisten-Element stellt eine Besonderheit dar: Westshore agiert ökonomisch
     rational aus einer "Loan-to-own"-Strategie (Anleiheposition). Der Cram-Down
-    § 26 StaRUG ist hier das zentrale Abwehrinstrument des Mehrheitseigentuemers.
+    § 26 StaRUG ist hier das zentrale Abwehrinstrument des Mehrheitseigentümers.
     Schlechterstellungsgutachten muss wasserdicht sein (§ 27 StaRUG i.V.m. IDW S 11).
 
 ------------------------------------------------------------------------
-IV.  VARIANTE D: Salaltbar UG (haftungsbeschraenkt), Berlin-Neukoelln
+IV.  VARIANTE D: Salaltbar UG (haftungsbeschraenkt), Berlin-Neukölln
 ------------------------------------------------------------------------
   Aktenzeichen  : AG Charlottenburg 36 IN 412/26
   Gesellschaft  : UG (haftungsbeschraenkt), HRB 212 904 B
   Groesse       : Kleinstunternehmen; 3 Filialen; 6 Mitarbeiter
   GF/Gesellsch. : Tarek-Yusuf Celebi-Drebenstedt (geb. 1990, Alleingesellschafter)
   Kanzlei       : RAin Charlotte Wandelmoser, Berlin-Charlottenburg
-                  (Kooperationspartnerin Reher Wennstedt im Bereich Kleinstfaelle)
+                  (Kooperationspartnerin Reher Wennstedt im Bereich Kleinstfälle)
 
   KRISENSYMPTOME:
-  1. Strategische Krise     : Keine erkennbare Fruehwarnung; kein Risikomanagement;
-                              § 5a Abs. 3 GmbHG-Ruecklage nicht gebildet
+  1. Strategische Krise     : Keine erkennbare Frühwarnung; kein Risikomanagement;
+                              § 5a Abs. 3 GmbHG-Rücklage nicht gebildet
   2. Erfolgskrise           : Sonnenallee-Filiale: Verlust EUR -34.400 p.a.;
                               Gesamtunternehmen: strukturell verlustbringend
-  3. Akute Insolvenz        : Kassenbestand EUR 3.400 bei faelligen Verbindlichkeiten
-                              EUR 43.300 (Frische-Kontor EUR 12.800 + Miet-Rueckstand
+  3. Akute Insolvenz        : Kassenbestand EUR 3.400 bei fälligen Verbindlichkeiten
+                              EUR 43.300 (Frische-Kontor EUR 12.800 + Miet-Rückstand
                               EUR 18.400 + FA EUR 8.900 + sonstiges EUR 3.200);
-                              Liquiditaetsreichweite: ca. 11 Tage
+                              Liquiditätsreichweite: ca. 11 Tage
 
   KRISENSTADIUM:
-    ACHTUNG: Grenzfall § 17 InsO (Zahlungsunfahigkeit) — moeglicherweise BEREITS eingetreten!
-    § 15a InsO: Insolvenzantragspflicht-Dreiwochenfrist laeuft!
+    ACHTUNG: Grenzfall § 17 InsO (Zahlungsunfahigkeit) — möglicherweise BEREITS eingetreten!
+    § 15a InsO: Insolvenzantragspflicht-Dreiwochenfrist läuft!
     KEIN "drohend" mehr — Antragsrecht nach § 18 InsO subsidiär; hier geht es um § 17 InsO.
 
-  BESONDERHEITEN (StaRUG NICHT anwendbar — Begruendung):
+  BESONDERHEITEN (StaRUG NICHT anwendbar — Begründung):
     a) Kostenaspekt: StaRUG-Verfahren kostet min. EUR 15.000-30.000 (Anwalt, Sachwalter,
        Gericht); bei Gesamtverbindlichkeiten EUR 43.300 wirtschaftlich unsinnig.
     b) Groessenaspekt: § 4 StaRUG setzt voraus, dass das Unternehmen nicht bereits
        zahlungsunfahig ist. Wenn § 17 InsO bereits vorliegt, ist StaRUG gesperrt.
-    c) Plankonzept: StaRUG-Restrukturierungsplan benoetigt komplexe Glaeubigerklassen-
-       einteilung; bei 3-4 relevanten Glaeubigern und kleinen Betragen nicht verhaeltnismaessig.
-    d) Praktisch: Vermieterin der Sonnenallee-Filiale wuerde Planzustimmung verweigern
-       (gesicherter Glaeubiger mit laufendem Mietvertrag bis 2027).
+    c) Plankonzept: StaRUG-Restrukturierungsplan benötigt komplexe Gläubigerklassen-
+       einteilung; bei 3-4 relevanten Gläubigern und kleinen Betragen nicht verhaeltnismaessig.
+    d) Praktisch: Vermieterin der Sonnenallee-Filiale würde Planzustimmung verweigern
+       (gesicherter Gläubiger mit laufendem Mietvertrag bis 2027).
 
-  INSTRUMENT (TATSAECHLICH GEWAEHLT):
-    § 102 StaRUG Warnschreiben (Pflicht des Beraters bei drohender ZU, spaetestens bei § 17 InsO)
+  INSTRUMENT (TATSÄCHLICH GEWÄHLT):
+    § 102 StaRUG Warnschreiben (Pflicht des Beraters bei drohender ZU, spätestens bei § 17 InsO)
     Insolvenzantrag gem. § 15a InsO (sofern ZU eingetreten) beim AG Charlottenburg
-    Alternativ: Aussergerichtlicher Vergleich mit den drei Hauptglaeubigern
+    Alternativ: Aussergerichtlicher Vergleich mit den drei Hauptgläubigern
                 (Frische-Kontor, Vermieter, FA) — Erfolgswahrscheinlichkeit: gering bis mittel
 
-  EINSCHAETZUNG:
-    Lehrreichster Fall fuer die Grenzen des StaRUG: Das Gesetz richtet sich an "mittlere
-    und grosse" Unternehmen in der fruehen Drohungsphase. Klein-UGs in akuter ZU sind
+  EINSCHÄTZUNG:
+    Lehrreichster Fall für die Grenzen des StaRUG: Das Gesetz richtet sich an "mittlere
+    und grosse" Unternehmen in der frühen Drohungsphase. Klein-UGs in akuter ZU sind
     auf klassisches Insolvenzrecht angewiesen. Das StaRUG ist kein Wundermittel.
-    Der Fall verdeutlicht: FRUEHWARNUNG ist entscheidend — ein Jahr frueher (2025) waere
+    Der Fall verdeutlicht: FRÜHWARNUNG ist entscheidend — ein Jahr früher (2025) wäre
     ein aussergerichtlicher Sanierungsansatz noch realistisch gewesen.
 
 ===========================================================================
@@ -217,7 +217,7 @@ Krisenstadium        | Droh. ZU § 18 InsO | Droh. ZU § 18 InsO  | Droh. ZU + U
 StaRUG anwendbar?    | Ja                 | Ja                  | Ja                   | NEIN (§ 4 StaRUG)
 StaRUG-Instrument    | Restr.plan § 5 ff. | Cross-Class-CD §26  | Stabilisier. §§49-59 | --- (nur § 102)
 Groesse (Schulden)   | EUR ~0,6 Mio.      | EUR ~90 Mio.        | EUR ~550 Mio.        | EUR ~43.000
-Glaeubigerstruktur   | 1 Hauptglaeubiger  | 8 Banken + Anleihe  | Banken + Aktivist    | 3-4 kleine Glaeu.
+Gläubigerstruktur   | 1 Hauptgläubiger  | 8 Banken + Anleihe  | Banken + Aktivist    | 3-4 kleine Glaeu.
 Schlechterst.-Gut.?  | Nicht erford.      | Ja (IDW S 11)       | Ja (§ 27 StaRUG)     | n/a
 Insolvenzgefahr akut | Nein (ab Jun 2027) | Nein (Waiver)       | Mittel (EBITDA neg.) | JA — § 15a InsO!
 Ergebnisprognose     | Positiv (Plan)     | Kritisch (Waiver)   | Offen (Cram-Down)    | Insolvenzantrag erw.
@@ -226,7 +226,7 @@ Ergebnisprognose     | Positiv (Plan)     | Kritisch (Waiver)   | Offen (Cram-Do
 D. RECHTLICHE SCHLUSSFOLGERUNGEN UND LERNPUNKTE
 ===========================================================================
 
-1.  FRUEHWARNSYSTEM (§ 1 StaRUG):
+1.  FRÜHWARNSYSTEM (§ 1 StaRUG):
     Alle vier Falle zeigen: Die gesetzliche Pflicht zur Einrichtung eines Fruehwarn-
     systems (§ 1 Abs. 1 S. 2 StaRUG) ist zentral. Bei Veyra und Nordfels hat der AR
     diese Pflicht; bei der Hartmannschmidt AG der Aufsichtsrat (§ 91 Abs. 2 AktG).
@@ -235,28 +235,28 @@ D. RECHTLICHE SCHLUSSFOLGERUNGEN UND LERNPUNKTE
 2.  BERATERPFLICHT (§ 102 StaRUG):
     Alle vier Mandate begannen mit dem § 102-Warnschreiben. Dieses ist keine bloss
     formale Pflicht — es dokumentiert den Beginn der beraterischen Einbindung und
-    schuetzt den Berater vor spaeterer Haftung (vgl. § 102 Abs. 2 StaRUG).
+    schützt den Berater vor späterer Haftung (vgl. § 102 Abs. 2 StaRUG).
 
 3.  STARUG-ANWENDUNGSBEREICH (§ 4 StaRUG):
-    Das StaRUG greift NUR bei "drohender" ZU (§ 18 InsO) oder in bestimmten Faellen
-    der Ueberschuldung (§ 19 InsO), NICHT bei eingetretener ZU (§ 17 InsO).
-    Variante D ist der Paradefall fuer den "zu spaeten" Mandanten.
+    Das StaRUG greift NUR bei "drohender" ZU (§ 18 InsO) oder in bestimmten Fällen
+    der Überschuldung (§ 19 InsO), NICHT bei eingetretener ZU (§ 17 InsO).
+    Variante D ist der Paradefall für den "zu späten" Mandanten.
 
 4.  GROESSENABHAENGIGE INSTRUMENTENWAHL:
     - Kleinstunternehmen  (<= EUR 100.000 Schulden)   : kein StaRUG; aussergerichtlich oder InsO
-    - Kleine Unt.        (EUR 100.000 - 5 Mio.)       : StaRUG nur wenn frueher Zeitpunkt
+    - Kleine Unt.        (EUR 100.000 - 5 Mio.)       : StaRUG nur wenn früher Zeitpunkt
     - Mittlere Unt.      (EUR 5-50 Mio. Schulden)     : StaRUG Restrukturierungsplan
     - Grosse Unt.        (> EUR 50 Mio. Schulden)     : Cross-Class-CD + Stabilisierungsanordnung
 
 5.  AKTIVISTEN-RISIKO (vgl. Variante C):
     Hedgefonds-Aktivismus im deutschen Restrukturierungsrecht nimmt zu. § 26 StaRUG
     (Cram-Down) ist das wichtigste Abwehrinstrument des Schuldners gegen opportunistische
-    Glaeubiger. Das Schlechterstellungsgutachten (§ 27 StaRUG) ist dabei der kritische
+    Gläubiger. Das Schlechterstellungsgutachten (§ 27 StaRUG) ist dabei der kritische
     Schwachpunkt — es muss gerichtlich standhaft sein.
 
 6.  AD-HOC-PFLICHT (Variante B und C):
     Bei boersenotierten Unternehmen (AG, SE) lauft parallel zur insolvenzrechtlichen
-    Beratung immer eine Pflicht zur unverzueglichen Veroffentlichung kursrelevanter
+    Beratung immer eine Pflicht zur unverzüglichen Veroffentlichung kursrelevanter
     Tatsachen (MAR Art. 17, WpHG § 26). Diese Compliance-Schiene muss stets mitbedacht
     werden.
 
@@ -264,18 +264,18 @@ D. RECHTLICHE SCHLUSSFOLGERUNGEN UND LERNPUNKTE
 E. QUELLEN UND GRUNDLAGEN
 ===========================================================================
 
-- Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen fuer Unternehmen
+- Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen
   (StaRUG), BGBl. I 2020, S. 3256, in der Fassung vom 01.01.2021
 - Insolvenzordnung (InsO) i.d.F. vom 05.10.1994 (BGBl. I S. 2866)
-- IDW Standard S 11: Beurteilung des Vorliegens von Insolvenzeroeffnungsgruenden (2021)
+- IDW Standard S 11: Beurteilung des Vorliegens von Insolvenzeröffnungsgründen (2021)
 - IDW Standard S 6: Anforderungen an Sanierungskonzepte (2022)
-- Muenchener Kommentar zur InsO, 4. Aufl. 2019 ff. (Dreistufenmodell Krise)
+- Münchener Kommentar zur InsO, 4. Aufl. 2019 ff. (Dreistufenmodell Krise)
 - Braun, StaRUG-Kommentar, 1. Aufl. 2021
 - Skauradszun/Fridgen/Geiwitz/Goepfert, StaRUG, 2. Aufl. 2022
 - Market Abuse Regulation (MAR), VO (EU) Nr. 596/2014
 
 ===========================================================================
-VERTRAULICHKEITSHINWEIS: Diese Notiz ist ausschliesslich fuer den internen
+VERTRAULICHKEITSHINWEIS: Diese Notiz ist ausschliesslich für den internen
 Gebrauch der Kanzlei Reher Wennstedt sowie der Kooperationspartnerin
 RAin Wandelmoser bestimmt. Weitergabe an Mandanten oder Dritte bedarf
 der vorherigen schriftlichen Zustimmung von Dr. Tjark Reher-Bornholmsen.

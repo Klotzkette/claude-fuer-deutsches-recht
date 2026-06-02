@@ -1,11 +1,11 @@
-Gruppe,Glaeubiger,Forderungsbetrag_EUR,Plan_Inhalt,Verzicht_EUR,DES_EUR,Stundung_EUR,Anteil_nach_Plan_Prozent,Bemerkung
-1,NordKurland Bank AG Berlin - Konsortialfuehrerin - Hausbank seit 2015,23500000,Verzicht 11.0 Mio + DES 4.0 Mio + Stundung 2.5 Mio,11000000,4000000,2500000,17.5,Hardenbergstrasse 8 10623 Berlin
+Gruppe,Gläubiger,Forderungsbetrag_EUR,Plan_Inhalt,Verzicht_EUR,DES_EUR,Stundung_EUR,Anteil_nach_Plan_Prozent,Bemerkung
+1,NordKurland Bank AG Berlin - Konsortialführerin - Hausbank seit 2015,23500000,Verzicht 11.0 Mio + DES 4.0 Mio + Stundung 2.5 Mio,11000000,4000000,2500000,17.5,Hardenbergstrasse 8 10623 Berlin
 1,Commerzbank AG Brandenburg-Branche,14100000,Verzicht 6.6 Mio + DES 2.4 Mio + Stundung 1.5 Mio,6600000,2400000,1500000,10.5,Vereinsbankstrasse 18 14467 Potsdam
-1,Investitionsbank des Landes Brandenburg ILB,9400000,Verzicht 4.4 Mio + DES 1.6 Mio + Stundung 1.0 Mio,4400000,1600000,1000000,7.0,Steinstrasse 104 14480 Potsdam - oeffentliche Foerderbank
+1,Investitionsbank des Landes Brandenburg ILB,9400000,Verzicht 4.4 Mio + DES 1.6 Mio + Stundung 1.0 Mio,4400000,1600000,1000000,7.0,Steinstrasse 104 14480 Potsdam - öffentliche Förderbank
 1,Summe Gruppe 1 Banken-Konsortium,47000000,Plan,22000000,8000000,5000000,35.0,
-2,Schmidt Stahlbau GmbH - Wartungstuerme Lieferant,1200000,nicht betroffen,0,0,0,0,Regulaere Bedienung
+2,Schmidt Stahlbau GmbH - Wartungstürme Lieferant,1200000,nicht betroffen,0,0,0,0,Reguläre Bedienung
 2,Lidlsmann Electronics Cottbus - Steuerungstechnik,820000,nicht betroffen,0,0,0,0,
-2,Sonnen Werkzeuge KG - Spezialwerkzeuge fuer Wartung,720000,nicht betroffen,0,0,0,0,
+2,Sonnen Werkzeuge KG - Spezialwerkzeuge für Wartung,720000,nicht betroffen,0,0,0,0,
 2,Werthof Schmierstoffe GmbH Brandenburg,540000,nicht betroffen,0,0,0,0,
 2,Logistik Brandenburg-Cottbus eG - Transport,480000,nicht betroffen,0,0,0,0,
 2,Versicherungen Allianz HUK Sammel - Sammelposition,420000,nicht betroffen,0,0,0,0,
@@ -13,19 +13,19 @@ Gruppe,Glaeubiger,Forderungsbetrag_EUR,Plan_Inhalt,Verzicht_EUR,DES_EUR,Stundung
 2,Sonstige Lieferanten Sammelposition Brandenburg,2440000,nicht betroffen,0,0,0,0,
 2,Summe Gruppe 2 Lieferanten,6800000,nicht betroffen,0,0,0,0,
 3,Pensionsverpflichtungen PSV-pflichtig - Mitarbeiter Pensionsanwartschaften,3100000,nicht betroffen,0,0,0,0,Sonderbehandlung
-4,Finanzamt Cottbus - USt-Rueckstand vor StaRUG-Anzeige,1800000,nicht betroffen,0,0,0,0,Bedient durch Stundungsantrag 222 AO
-4,Krankenkassen Beitragsrueckstand,650000,nicht betroffen,0,0,0,0,
+4,Finanzamt Cottbus - USt-Rückstand vor StaRUG-Anzeige,1800000,nicht betroffen,0,0,0,0,Bedient durch Stundungsantrag 222 AO
+4,Krankenkassen Beitragsrückstand,650000,nicht betroffen,0,0,0,0,
 4,IT-Lizenzen SAP DATEV,420000,nicht betroffen,0,0,0,0,
 4,Sonstige Verbindlichkeiten Sammelposition,1330000,nicht betroffen,0,0,0,0,
 4,Summe Gruppe 4 Sonstige,4200000,nicht betroffen,0,0,0,0,
-GESAMT,Alle Glaeubigergruppen,61100000,,22000000,8000000,5000000,,Nur Banken-Konsortium ist Plan-betroffen
+GESAMT,Alle Gläubigergruppen,61100000,,22000000,8000000,5000000,,Nur Banken-Konsortium ist Plan-betroffen
 ANTEILSSTRUKTUR_VOR_PLAN,Heiko Pellbach,,,,,,65,
 ANTEILSSTRUKTUR_VOR_PLAN,Christel Pellbach-Schwaegermann,,,,,,5,
-ANTEILSSTRUKTUR_VOR_PLAN,Familie Pellbach Vermoegens-GmbH,,,,,,30,
+ANTEILSSTRUKTUR_VOR_PLAN,Familie Pellbach Vermögens-GmbH,,,,,,30,
 ANTEILSSTRUKTUR_VOR_PLAN,Summe vor Plan,,,,,,100,
-ANTEILSSTRUKTUR_NACH_PLAN,Heiko Pellbach,,,,,,30,Anteil reduziert wegen Kapitalerhoehung
+ANTEILSSTRUKTUR_NACH_PLAN,Heiko Pellbach,,,,,,30,Anteil reduziert wegen Kapitalerhöhung
 ANTEILSSTRUKTUR_NACH_PLAN,Christel Pellbach-Schwaegermann,,,,,,5,
-ANTEILSSTRUKTUR_NACH_PLAN,Familie Pellbach Vermoegens-GmbH,,,,,,30,
+ANTEILSSTRUKTUR_NACH_PLAN,Familie Pellbach Vermögens-GmbH,,,,,,30,
 ANTEILSSTRUKTUR_NACH_PLAN,NordKurland Bank AG,,,,,,17.5,DES-Anteil
 ANTEILSSTRUKTUR_NACH_PLAN,Commerzbank AG,,,,,,10.5,DES-Anteil
 ANTEILSSTRUKTUR_NACH_PLAN,Investitionsbank Brandenburg ILB,,,,,,7.0,DES-Anteil

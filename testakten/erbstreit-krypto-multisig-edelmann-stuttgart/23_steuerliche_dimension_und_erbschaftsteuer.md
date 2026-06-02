@@ -32,7 +32,7 @@ Die Anzeige ist beim zuständigen Erbschaftsteuerfinanzamt zu erstatten. Zustän
 - + Vorausvermächtnis Wohnrecht: ca. 350.000–564.000 EUR (Barwert; wird als Sachleistung bewertet)
 - − Schulden anteilig: −26.000 EUR
 - **Bruttowert**: ca. 1.695.000–1.900.000 EUR
-- − Freibetraege (500 TEUR + 256 TEUR) = −756.000 EUR
+- − Freibeträge (500 TEUR + 256 TEUR) = −756.000 EUR
 - **Steuerpflichtiger Erwerb**: ca. **939.000–1.144.000 EUR**
 - Steuersatz 15 % (§ 19 ErbStG bei Erwerb 900.001–6.000.000 EUR, Steuerklasse I)
 - **Vorläufige ESt-Last Marlies:** ca. **140.850–171.600 EUR**

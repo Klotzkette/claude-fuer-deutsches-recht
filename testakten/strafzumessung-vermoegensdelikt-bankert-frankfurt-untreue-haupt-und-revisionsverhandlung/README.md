@@ -68,7 +68,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | 09 | [09-tatumstaende-vorsatz-und-motivation.md](09-tatumstaende-vorsatz-und-motivation.md) | Vorsatzform, Motivation, Verschulden |
 | 10 | [10-tat-und-taterpersoenlichkeit.md](10-tat-und-taterpersoenlichkeit.md) | Täterpersönlichkeit, Lebensführung, berufliche Karriere |
 | 11 | [11-lebenslauf-und-vorstrafenfreiheit.md](11-lebenslauf-und-vorstrafenfreiheit.md) | Lebenslauf Bankert, Vorstrafenfreiheit, soziale Einbettung |
-| 12 | [12-folgen-fuer-taeter-und-familie.md](12-folgen-fuer-taeter-und-familie.md) | Berufsfolgen, Ehekrise, kranke Ehefrau, Kinder |
+| 12 | [12-folgen-für-taeter-und-familie.md](12-folgen-fuer-taeter-und-familie.md) | Berufsfolgen, Ehekrise, kranke Ehefrau, Kinder |
 | 13 | [13-schadenswiedergutmachung-46a-stgb.md](13-schadenswiedergutmachung-46a-stgb.md) | § 46a StGB, Rückzahlung 4,2 Mio. EUR, Familienopfer |
 | 14 | [14-tateinheitliche-und-tatmehrheitliche-bewertung.md](14-tateinheitliche-und-tatmehrheitliche-bewertung.md) | Konkurrenzen, §§ 52–54 StGB, Gesamtstrafenbildung |
 | 15 | [15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.md](15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.md) | BGHSt 1, 50; BGH 1 StR Untreue-Urteile |

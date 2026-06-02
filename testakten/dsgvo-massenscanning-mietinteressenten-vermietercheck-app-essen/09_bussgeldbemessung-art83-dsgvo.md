@@ -11,23 +11,23 @@
 
 Art. 83 DSGVO sieht ein zweistufiges Sanktionssystem vor:
 
-**Stufe 1 — Art. 83 Abs. 4 DSGVO:** Geldbussen bis 10.000.000 EUR oder bis 2% des weltweiten Jahresumsatzes (je nachdem, welcher Betrag hoeher ist) fuer Verstoesse gegen Pflichten des Verantwortlichen und des Auftragsverarbeiters (Art. 8, 11, 25–39, 42, 43 DSGVO) sowie gegen Aufsichtsbehoerden-Anordnungen (Art. 58 Abs. 2 DSGVO).
+**Stufe 1 — Art. 83 Abs. 4 DSGVO:** Geldbussen bis 10.000.000 EUR oder bis 2% des weltweiten Jahresumsatzes (je nachdem, welcher Betrag höher ist) für Verstoesse gegen Pflichten des Verantwortlichen und des Auftragsverarbeiters (Art. 8, 11, 25–39, 42, 43 DSGVO) sowie gegen Aufsichtsbehörden-Anordnungen (Art. 58 Abs. 2 DSGVO).
 
-**Stufe 2 — Art. 83 Abs. 5 DSGVO:** Geldbussen bis 20.000.000 EUR oder bis 4% des weltweiten Jahresumsatzes (je nachdem, welcher Betrag hoeher ist) fuer Grundsatzverstoesse (Art. 5, 6, 7, 9, 12–22, 44–49, 58 DSGVO).
+**Stufe 2 — Art. 83 Abs. 5 DSGVO:** Geldbussen bis 20.000.000 EUR oder bis 4% des weltweiten Jahresumsatzes (je nachdem, welcher Betrag höher ist) für Grundsatzverstoesse (Art. 5, 6, 7, 9, 12–22, 44–49, 58 DSGVO).
 
-### 1.1 Anwendbarer Bussgelder-Katalog fuer VCS
+### 1.1 Anwendbarer Bussgelder-Katalog für VCS
 
 | Verstoss | Sanktionsstufe | Bussgeldbetrag-Maximum |
 |----------|---------------|----------------------|
 | Art. 6 — fehlende Verarbeitungsgrundlage | Art. 83 Abs. 5 lit. a | 20.000.000 EUR |
-| Art. 22 — unzulaessige automatisierte Entscheidung | Art. 83 Abs. 5 lit. b | 20.000.000 EUR |
-| Art. 33 — versaeumte Datenpannenmeldung | Art. 83 Abs. 4 lit. a | 10.000.000 EUR |
+| Art. 22 — unzulässige automatisierte Entscheidung | Art. 83 Abs. 5 lit. b | 20.000.000 EUR |
+| Art. 33 — versäumte Datenpannenmeldung | Art. 83 Abs. 4 lit. a | 10.000.000 EUR |
 | Art. 35 — unterlassene DSFA | Art. 83 Abs. 4 lit. a | 10.000.000 EUR |
 | Art. 44 — Drittlandtransfer ohne SCC | Art. 83 Abs. 5 lit. c | 20.000.000 EUR |
 
-**Kumulationsregel Art. 83 Abs. 3 DSGVO:** Beziehen sich mehrere Verstoesse auf dieselbe oder miteinander verbundene Verarbeitungsvorgaenge, so ist die Geldbusse insgesamt auf den fuer den schwersten Verstoss geltenden Betrag zu begrenzen.
+**Kumulationsregel Art. 83 Abs. 3 DSGVO:** Beziehen sich mehrere Verstoesse auf dieselbe oder miteinander verbundene Verarbeitungsvorgänge, so ist die Geldbusse insgesamt auf den für den schwersten Verstoss geltenden Betrag zu begrenzen.
 
-**Massgeblicher Hoechstbetrag:** 20.000.000 EUR (Art. 83 Abs. 5 DSGVO — schwerste Verstoesse).
+**Massgeblicher Höchstbetrag:** 20.000.000 EUR (Art. 83 Abs. 5 DSGVO — schwerste Verstoesse).
 
 ---
 
@@ -35,9 +35,9 @@ Art. 83 DSGVO sieht ein zweistufiges Sanktionssystem vor:
 
 Der EDSA hat in den Leitlinien 04/2022 zur Berechnung von Geldbussen eine fuenfstufige Methode veroffentlicht:
 
-**Schritt 1 — Identifizierung der Verarbeitungsvorgaenge und sanktionierbaren Verstoesse**
+**Schritt 1 — Identifizierung der Verarbeitungsvorgänge und sanktionierbaren Verstoesse**
 
-Fuenf Verstoesse identifiziert (s. Tabelle oben). Ausgangspunkt: Schwerwiegendster Verstoss (Art. 5/6 DSGVO).
+Fünf Verstoesse identifiziert (s. Tabelle oben). Ausgangspunkt: Schwerwiegendster Verstoss (Art. 5/6 DSGVO).
 
 **Schritt 2 — Ausgangsbetrag anhand der Schwere (Art. 83 Abs. 2 lit. a)**
 
@@ -45,13 +45,13 @@ Gemaess EDSA-Leitlinien 04/2022, Rn. 56:
 
 | Schwere-Kategorie | Ausgangspunkt | Spanne |
 |------|-------|------|
-| Geringfuegig | 0% bis 10% des Maximalbetrags | bis 2.000.000 EUR |
+| Geringfügig | 0% bis 10% des Maximalbetrags | bis 2.000.000 EUR |
 | Mittelschwer | 10% bis 20% des Maximalbetrags | 2.000.000 bis 4.000.000 EUR |
 | Schwer | 20% bis 100% des Maximalbetrags | 4.000.000 bis 20.000.000 EUR |
 
 Bewertung des Hauptverstosses (Art. 6 DSGVO / Art. 22 DSGVO): **Schwer** (systematisches Massenscanning, 142.300 Betroffene, 3 Jahre).
 
-**Ausgangsbetrag:** Ca. 30% des Maximalbetrags = 6.000.000 EUR (Schaetzung).
+**Ausgangsbetrag:** Ca. 30% des Maximalbetrags = 6.000.000 EUR (Schätzung).
 
 **Schritt 3 — Erschwerungsgruende (Art. 83 Abs. 2 lit. a–k)**
 
@@ -61,24 +61,24 @@ Bewertung des Hauptverstosses (Art. 6 DSGVO / Art. 22 DSGVO): **Schwer** (system
 | Dauer des Verstosses | lit. a | Ja (3 Jahre) | +15% |
 | Anzahl Betroffener (142.300) | lit. a | Ja | +10% |
 | Sensitive Datenkategorien (Schufa) | lit. g | Ja | +10% |
-| Versaeumte Meldung Art. 33 | lit. k | Ja | +5% |
+| Versäumte Meldung Art. 33 | lit. k | Ja | +5% |
 
 **Gesamterhoeung:** Ca. +50% auf Ausgangsbetrag = 9.000.000 EUR.
 
-**Schritt 4 — Milderungsgruende (Art. 83 Abs. 2)**
+**Schritt 4 — Milderungsgründe (Art. 83 Abs. 2)**
 
 | Milderungsgrund | Art. 83 Abs. 2 | Anwendbar | Auswirkung |
 |-----------------|----------------|-----------|------------|
 | Erste Verurteilung | lit. e | Ja | -10% |
 | Kooperationsbereitschaft | lit. f | Ja | -15% |
-| KMU (38 MA, ca. 4 Mio. EUR Umsatz) | Beruecksichtigung | Ja | -20% |
-| Nachtraegliche Sanierungsmassnahmen | lit. c | Teilweise | -5% |
+| KMU (38 MA, ca. 4 Mio. EUR Umsatz) | Berücksichtigung | Ja | -20% |
+| Nachträgliche Sanierungsmassnahmen | lit. c | Teilweise | -5% |
 
-**Gesamtreduktion:** -50% auf erhoehten Betrag = 4.500.000 EUR.
+**Gesamtreduktion:** -50% auf erhöhten Betrag = 4.500.000 EUR.
 
-**Schritt 5 — Priorisierung und Hoechstbetragscheck**
+**Schritt 5 — Priorisierung und Höchstbetragscheck**
 
-Endkalkulation: ca. 4.500.000 EUR. Unter 20 Mio. EUR-Grenze. Aber: Wirtschaftliche Tragfaehigkeit pruefen.
+Endkalkulation: ca. 4.500.000 EUR. Unter 20 Mio. EUR-Grenze. Aber: Wirtschaftliche Tragfähigkeit prüfen.
 
 **VCS-Kennzahlen:**
 - Jahresumsatz ca. 4.000.000 EUR
@@ -94,22 +94,22 @@ Endkalkulation: ca. 4.500.000 EUR. Unter 20 Mio. EUR-Grenze. Aber: Wirtschaftlic
 ### 3.1 Hauptargumente
 
 **Argument 1 — Verhaeltnismaessigkeit (Art. 49 GRCh, Art. 20 Abs. 3 GG):**
-Ein Bussgeld von mehr als 1 Mio. EUR bei einem Jahresumsatz von 4 Mio. EUR gefaehrdet die wirtschaftliche Existenz von 38 Mitarbeitern. Das Bundesverfassungsgericht hat in BVerfG 1 BvR 2628/18 (Vereinigungsfreiheit) das Verhaeltnismaessigkeitsprinzip auch bei Unternehmensgeldbussen bestaetigt.
+Ein Bussgeld von mehr als 1 Mio. EUR bei einem Jahresumsatz von 4 Mio. EUR gefährdet die wirtschaftliche Existenz von 38 Mitarbeitern. Das Bundesverfassungsgericht hat in BVerfG 1 BvR 2628/18 (Vereinigungsfreiheit) das Verhaeltnismaessigkeitsprinzip auch bei Unternehmensgeldbussen bestätigt.
 
 **Argument 2 — EuGH C-807/21 (Deutsche Wohnen):**
-Der EuGH hat klargestellt, dass Organhaftung nur bei individuellem Verschulden des Organs begruendet werden kann. Das unpersoenliche Handeln einer juristischen Person genuegt nicht automatisch fuer die haerteste Sanktionsstufe.
+Der EuGH hat klargestellt, dass Organhaftung nur bei individuellem Verschulden des Organs begründet werden kann. Das unpersönliche Handeln einer juristischen Person genügt nicht automatisch für die haerteste Sanktionsstufe.
 
 **Argument 3 — Art. 83 Abs. 2 lit. b (keine Absicht):**
-Der Verstoss gegen Art. 6 und Art. 22 DSGVO resultiert aus Rechtsunkenntnis der Geschaeftsfuehrung, nicht aus vorsaetzlicher Umgehung. Die interne Warnung der DSB Kessler-Brandt wurde zwar ignoriert, dies begrundet Fahrlaessigkeit, nicht Vorsatz.
+Der Verstoss gegen Art. 6 und Art. 22 DSGVO resultiert aus Rechtsunkenntnis der Geschäftsführung, nicht aus vorsätzlicher Umgehung. Die interne Warnung der DSB Kessler-Brandt wurde zwar ignoriert, dies begrundet Fahrlässigkeit, nicht Vorsatz.
 
-**Argument 4 — Frueher Zeitpunkt (Marktreife KI-Recht):**
-Der Go-Live des Moduls (Maerz 2023) lag vor Veroeffentlichung der finalen EDSA-Leitlinien 01/2022 zur automatisierten Entscheidungsfindung. VCS befand sich in einer Rechtsunklarheit.
+**Argument 4 — Früher Zeitpunkt (Marktreife KI-Recht):**
+Der Go-Live des Moduls (März 2023) lag vor Veröffentlichung der finalen EDSA-Leitlinien 01/2022 zur automatisierten Entscheidungsfindung. VCS befand sich in einer Rechtsunklarheit.
 
 ### 3.2 Angestrebte Bussgeldbandbreite
 
 | Szenario | Betrag | Voraussetzungen |
 |----------|--------|----------------|
-| Optimum (Verwarnung) | 0 EUR | Vollstaendige Sanierung vor LDI-Entscheidung |
+| Optimum (Verwarnung) | 0 EUR | Vollständige Sanierung vor LDI-Entscheidung |
 | Realistisches Minimum | 250.000 EUR | Starke Kooperation, KMU-Abschlag |
 | Wahrscheinliches Bussgeld | 500.000 – 1.500.000 EUR | Standardfall kooperative Verteidigung |
 | Worst Case | 4.000.000 – 5.000.000 EUR | Alle Erschwerungsgruende, kein Entgegenkommen |
@@ -122,4 +122,4 @@ Der Go-Live des Moduls (Maerz 2023) lag vor Veroeffentlichung der finalen EDSA-L
 - EDSA-Leitlinien 04/2022 (Bussgeldbemessung) — [edpb.europa.eu](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-042022-calculation-administrative-fines-under-gdpr_de)
 - EuGH C-807/21 (Deutsche Wohnen), Urt. v. 05.12.2023 — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807)
 - BVerfG 1 BvR 2628/18 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
-- OLG Duesseldorf, Urt. v. 28.11.2023 — VI-5 Kart 11/19 OWi — [openjur.de](https://openjur.de)
+- OLG Düsseldorf, Urt. v. 28.11.2023 — VI-5 Kart 11/19 OWi — [openjur.de](https://openjur.de)

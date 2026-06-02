@@ -13,32 +13,32 @@ Parallel besteht der Verdacht einer Verletzung des US Foreign Corrupt Practices 
 
 ## 2. FCPA-Rechtslage
 
-Der FCPA verbietet US-Unternehmen sowie Personen und Unternehmen, die in den USA geschaeftlich taetig sind, die Zahlung von Bestechungsgeldern an auslaendische Amtsträger. Verboten sind sowohl direkte Zahlungen als auch indirekte Zahlungen ueber Intermediäre (Berater, Distributoren).
+Der FCPA verbietet US-Unternehmen sowie Personen und Unternehmen, die in den USA geschäftlich tätig sind, die Zahlung von Bestechungsgeldern an ausländische Amtsträger. Verboten sind sowohl direkte Zahlungen als auch indirekte Zahlungen über Intermediäre (Berater, Distributoren).
 
-FraktoMedis Inc. ist als US-Tochtergesellschaft unmittelbar FCPA-pflichtig. Die deutschen Muttergesellschaft FraktoMedis SE koennte als "issuer" oder "domestic concern" ebenfalls betroffen sein.
+FraktoMedis Inc. ist als US-Tochtergesellschaft unmittelbar FCPA-pflichtig. Die deutschen Muttergesellschaft FraktoMedis SE könnte als "issuer" oder "domestic concern" ebenfalls betroffen sein.
 
-**Risikobewertung fuer VENERA als potenzielle Erwerberin:**
-- Bei Einbeziehung der US-Tochter in den Asset Deal: Sukzession von FCPA-Risiken moeglich
-- Bei Ausklammern der US-Tochter: Risiko reduziert, aber nicht eliminiert (historische Sachverhalte der deutschen Einheit beruehren US-Transaktionen)
+**Risikobewertung für VENERA als potenzielle Erwerberin:**
+- Bei Einbeziehung der US-Tochter in den Asset Deal: Sukzession von FCPA-Risiken möglich
+- Bei Ausklammern der US-Tochter: Risiko reduziert, aber nicht eliminiert (historische Sachverhalte der deutschen Einheit berühren US-Transaktionen)
 
 ## 3. Massnahmen
 
-- FraktoMedis Inc. wurde vorlaeufig aus dem Asset-Deal-Scope ausgeklammert (Empfehlung Red-Flag-Memorandum)
+- FraktoMedis Inc. wurde vorläufig aus dem Asset-Deal-Scope ausgeklammert (Empfehlung Red-Flag-Memorandum)
 - Covington & Burling LLP wurde als US-Counsel mandatiert (Spezialisierung: FCPA und weisser Kragen-Strafrecht)
-- Vollstaendiger Datenzugang fuer US-Counsel im Datenraum gewaehrt (separater, eingeschraenkter Datenraum-Bereich)
-- Kontakt mit DOJ-Prosecution Team aufgenommen (kein Gestaendnis; reine Informationsanfrage)
+- Vollständiger Datenzugang für US-Counsel im Datenraum gewährt (separater, eingeschränkter Datenraum-Bereich)
+- Kontakt mit DOJ-Prosecution Team aufgenommen (kein Geständnis; reine Informationsanfrage)
 
 ## 4. Strafrechtliche Exposure Deutschland
 
 Gemaess §§ 299, 331 ff. StGB sowie § 30 OWiG besteht potenzielle Unternehmenshaftung der FraktoMedis SE in Deutschland. Das HinSchG-Hinweisgeber-Verfahren wurde ordnungsgemaess eingeleitet.
 
-Fuer VENERA relevant: Kaeufer eines Unternehmens in der Krise uebernimmt keine strafrechtliche Verantwortung fuer Taten der Zielgesellschaft, wenn er keine Kenntnis hatte und angemessene Compliance-Massnahmen ergreift. Dennoch: Reputation und regulatorische Compliance muss gemaess internen VENERA-Richtlinien gewahrt werden.
+Für VENERA relevant: Käufer eines Unternehmens in der Krise übernimmt keine strafrechtliche Verantwortung für Taten der Zielgesellschaft, wenn er keine Kenntnis hatte und angemessene Compliance-Massnahmen ergreift. Dennoch: Reputation und regulatorische Compliance muss gemaess internen VENERA-Richtlinien gewahrt werden.
 
 ## 5. Anpassung SPA
 
-- Uneingeschraenkte FCPA/DOJ-Indemnity des Verkaefers (kein Cap, kein Basket)
-- Specific Indemnity fuer alle vor Closing veranlassten Massnahmen
-- Compliance-Zusicherung: FraktoMedis SE versichert, vollstaendige Kooperation mit DOJ
+- Uneingeschränkte FCPA/DOJ-Indemnity des Verkaefers (kein Cap, kein Basket)
+- Specific Indemnity für alle vor Closing veranlassten Massnahmen
+- Compliance-Zusicherung: FraktoMedis SE versichert, vollständige Kooperation mit DOJ
 
 ---
 

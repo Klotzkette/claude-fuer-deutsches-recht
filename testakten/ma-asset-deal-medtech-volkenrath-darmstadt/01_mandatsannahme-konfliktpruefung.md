@@ -1,42 +1,42 @@
-# 01 — Mandatsannahme und Interessenkonfliktpruefung
+# 01 — Mandatsannahme und Interessenkonfliktprüfung
 
 **Aktenzeichen intern:** DMP/2025/MA/4471  
 **Datum:** 14. Oktober 2025  
 **Bearbeiter:** RA Prof. Dr. Felix Mannfeldt (federführend), RA Dr. Saskia Altenkamp (Juniorpartnerin)  
 **Mandantin:** VENERA Investment Group GmbH, Bockenheimer Landstrasse 24, 60323 Frankfurt am Main  
-**Vertreten durch:** Theodora Volkenrath-Eichelmann (Geschaeftsfuehrerin)
+**Vertreten durch:** Theodora Volkenrath-Eichelmann (Geschäftsführerin)
 
 ---
 
 ## 1. Sachverhalt und Mandatsgegenstand
 
-Die VENERA Investment Group GmbH (nachfolgend "VENERA" oder "Mandantin") ist ein Family Office der Familie Volkenrath mit Sitz in Frankfurt am Main. Geschaeftsfuehrerin ist Frau Theodora Volkenrath-Eichelmann, welche seit dem 3. Juni 2019 im Handelsregister des Amtsgerichts Frankfurt am Main unter HRB 112447 eingetragen ist.
+Die VENERA Investment Group GmbH (nachfolgend "VENERA" oder "Mandantin") ist ein Family Office der Familie Volkenrath mit Sitz in Frankfurt am Main. Geschäftsführerin ist Frau Theodora Volkenrath-Eichelmann, welche seit dem 3. Juni 2019 im Handelsregister des Amtsgerichts Frankfurt am Main unter HRB 112447 eingetragen ist.
 
-VENERA beabsichtigt den Erwerb des Geschaeftsbereichs "FraktoMedis Praezision" der FraktoMedis SE (Darmstadt, HRB Darmstadt 18834). Die Zielgesellschaft ist im Bereich der Herstellung chirurgischer Frakturversorgungssysteme taetig und weist einen Jahresumsatz von ca. 76 Mio. EUR bei ca. 280 Mitarbeitern auf. Die Transaktion soll als Asset Deal (kein Share Deal) strukturiert werden, mit geplantem Closing zum 31. Juli 2026.
+VENERA beabsichtigt den Erwerb des Geschäftsbereichs "FraktoMedis Präzision" der FraktoMedis SE (Darmstadt, HRB Darmstadt 18834). Die Zielgesellschaft ist im Bereich der Herstellung chirurgischer Frakturversorgungssysteme tätig und weist einen Jahresumsatz von ca. 76 Mio. EUR bei ca. 280 Mitarbeitern auf. Die Transaktion soll als Asset Deal (kein Share Deal) strukturiert werden, mit geplantem Closing zum 31. Juli 2026.
 
 Das Mandat umfasst:
 - Gesamte rechtliche Transaktionsbegleitung M&A (Corporate/Gesellschaftsrecht)
 - Begleitung der Legal Due Diligence
 - Verhandlung und Erstellung des Share Purchase Agreements (hier: Asset Purchase Agreement)
 - Antitrust-Beratung (BKartA und EU-Kommission)
-- Arbeitsrechtliche Beratung (§ 613a BGB, Betriebsuebergang, Sozialplan)
+- Arbeitsrechtliche Beratung (§ 613a BGB, Betriebsübergang, Sozialplan)
 - Strafrechts-/Compliance-Beratung (DOJ/FCPA, HinSchG)
 
-## 2. Interessenkonfliktpruefung (§ 43a Abs. 4 BRAO)
+## 2. Interessenkonfliktprüfung (§ 43a Abs. 4 BRAO)
 
-Gemaess § 43a Abs. 4 BRAO und den Regelungen der Berufsordnung der Rechtsanwaelte (BORA) wurde eine umfassende Interessenkonfliktpruefung durchgefuehrt.
+Gemaess § 43a Abs. 4 BRAO und den Regelungen der Berufsordnung der Rechtsanwälte (BORA) wurde eine umfassende Interessenkonfliktprüfung durchgeführt.
 
 **Pefung vom 14. Oktober 2025 — Ergebnis:**
 
-Die Kanzlei Drosselberg, Mannfeldt & Partner hat in den zurueckliegenden fuenf Jahren keine rechtliche Vertretung der FraktoMedis SE oder ihr nahestehender Unternehmen vorgenommen. Eine Mandatsbeziehung zur Gesellschafterfamilie Schwarzbeck oder zu Dr. Hannes Schwarzbeck (CFO FraktoMedis SE) besteht ebenfalls nicht.
+Die Kanzlei Drosselberg, Mannfeldt & Partner hat in den zurückliegenden fünf Jahren keine rechtliche Vertretung der FraktoMedis SE oder ihr nahestehender Unternehmen vorgenommen. Eine Mandatsbeziehung zur Gesellschafterfamilie Schwarzbeck oder zu Dr. Hannes Schwarzbeck (CFO FraktoMedis SE) besteht ebenfalls nicht.
 
 Eine Pruefung ergab keinerlei Interessenkollision im Sinne von § 43a Abs. 4 BRAO. Eine interne Mandatsnummer wurde unter DMP/2025/MA/4471 vergeben.
 
-**Datenschutzrechtliche Hinweise:** Die Mandantin wurde ueber die Verarbeitung personenbezogener Daten gemaess Art. 13 DSGVO informiert.
+**Datenschutzrechtliche Hinweise:** Die Mandantin wurde über die Verarbeitung personenbezogener Daten gemaess Art. 13 DSGVO informiert.
 
 ## 3. Retainer-Vereinbarung und Honorar
 
-Mit Schreiben vom 16. Oktober 2025 wurde der Mandantin ein Engagementschreiben uebersandt. Vereinbart wurden:
+Mit Schreiben vom 16. Oktober 2025 wurde der Mandantin ein Engagementschreiben übersandt. Vereinbart wurden:
 
 - Stundensatz Prof. Dr. Mannfeldt: 480 EUR netto
 - Stundensatz Senior Associate: 320 EUR netto
@@ -48,14 +48,14 @@ Zahlungsziel: 14 Tage nach Rechnungsstellung. Sicherheit: Mandantin hinterlegt e
 
 ## 4. Vollmacht und Vertretungsbefugnis
 
-Frau Theodora Volkenrath-Eichelmann hat am 17. Oktober 2025 eine notariell beglaubigte Vollmacht fuer RA Prof. Dr. Felix Mannfeldt und alle Partner der Kanzlei Drosselberg, Mannfeldt & Partner erteilt. Die Vollmacht berechtigt zu saemtlichen Rechtshandlungen im Zusammenhang mit der Transaktion einschliesslich der Abgabe und Entgegennahme verbindlicher Erklarungen.
+Frau Theodora Volkenrath-Eichelmann hat am 17. Oktober 2025 eine notariell beglaubigte Vollmacht für RA Prof. Dr. Felix Mannfeldt und alle Partner der Kanzlei Drosselberg, Mannfeldt & Partner erteilt. Die Vollmacht berechtigt zu sämtlichen Rechtshandlungen im Zusammenhang mit der Transaktion einschliesslich der Abgabe und Entgegennahme verbindlicher Erklarungen.
 
 ## 5. Erste Massnahmen
 
 - Versand einer NDA-Anfrage an die Verkaeuferseite (FraktoMedis SE, vertreten durch Dr. Hannes Schwarzbeck)
 - Bildung des internen Deal-Teams (siehe Team-Chart)
 - Erstellung eines vorlaeuﬁgen Zeitplans (Project Timetable)
-- Abstimmung mit der finanzierenden Hausbank (Commerzbank AG, Frankfurt) ueber Finanzierungsrahmen
+- Abstimmung mit der finanzierenden Hausbank (Commerzbank AG, Frankfurt) über Finanzierungsrahmen
 
 ## 6. Rechtsgrundlagen
 
@@ -66,7 +66,7 @@ Frau Theodora Volkenrath-Eichelmann hat am 17. Oktober 2025 eine notariell begla
 
 ## 7. Weiteres Vorgehen
 
-Naechster Schritt: Unterzeichnung des NDA und Freigabe des Datenraums durch FraktoMedis SE. Termin: Bis spaetestens 31. Oktober 2025.
+Nächster Schritt: Unterzeichnung des NDA und Freigabe des Datenraums durch FraktoMedis SE. Termin: Bis spätestens 31. Oktober 2025.
 
 ---
 

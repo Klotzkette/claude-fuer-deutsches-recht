@@ -1,13 +1,13 @@
 doc_id,partner,partner_kategorie,typ,vertragsdatum,laufzeit_bis,umsatz_pa_eur_m,change_of_control,coc_kuendigung_frist_tage,kuendigung_ordentlich,exklusivitaet,liability_cap,assignment_erlaubt,governing_law,risiko,rf_ref,status_dd
-C-001,Kunde A,Automotive OEM,Liefervertrag,01.01.2023,31.12.2026,28.0,ja,90,12 Monate,nein,uncapped,nein,Deutsch,hoch,RF-001,Unvollstaendig (Anlagen fehlen)
-C-002,Kunde B,Maschinenbau,Rahmenvertrag,15.03.2021,14.03.2025,11.5,nein,n/a,12 Monate,nein,2x Jahresgebuehren,ja,Deutsch,niedrig,,vollstaendig
-C-003,Kunde C,Robotik,Entwicklungsvertrag,01.07.2022,30.06.2027,8.3,bedingt (>50% Anteilswechsel),60,6 Monate,ja (Bereich Servo),500.000 EUR,nein,Deutsch,mittel,,vollstaendig
-C-004,Kunde D,Energieversorger,Liefervertrag PDS-GreenDrive,01.01.2024,31.12.2026,4.7,nein,n/a,3 Monate,nein,1x Jahresumsatz,ja,Deutsch,niedrig,,vollstaendig
-C-005,Kunde E,Luftfahrt,Entwicklungskooperation,01.04.2020,31.03.2025,6.2,ja,120,18 Monate,ja (Luftfahrtsektor),2.000.000 EUR,nein,Deutsch,mittel,,vollstaendig
-C-006,Lieferant F,Halbleiter,Lieferrahmenvertrag,01.01.2023,31.12.2024,n/a,nein,n/a,3 Monate,nein,1x Bestellwert,nein,Taiwanesisch (Wahl Deutsch moeglich),hoch (Abh.),, vollstaendig
-C-007,Lieferant G,Elektromotoren,Zuliefervertrag,15.09.2022,14.09.2025,n/a,nein,n/a,6 Monate,nein,500.000 EUR,ja,Deutsch,niedrig,,vollstaendig
-C-008,Kunde H,Werkzeugmaschinen,Rahmenvertrag,01.06.2021,31.05.2026,9.8,nein,n/a,12 Monate,nein,1x Jahresumsatz,ja,Deutsch,niedrig,,vollstaendig
-C-009,Kunde I,Chemie,Liefervertrag PDS-500,01.03.2023,28.02.2027,5.1,bedingt (>25% Anteilswechsel),45,6 Monate,nein,250.000 EUR,nein,Deutsch,mittel,,vollstaendig
-C-010,SCare-Paket J,Portfolio-Kunde (Sammelvertrag),Servicevertrag S-Care,01.01.2023,31.12.2027,3.4,nein,n/a,3 Monate,nein,uncapped fuer Koerpersch.,ja,Deutsch,niedrig,,vollstaendig
-C-011,IT-Dienstleister K,Konzern-IT (TSA Kandidat),IT-Servicevertrag,01.01.2022,31.12.2024 (Verlaengerungsoption),n/a,bedingt,30,1 Monat,nein,100.000 EUR je Monat,nein,Deutsch,mittel (TSA-Abh.),, vollstaendig
-C-012,Kunde L,Automobilzulieferer,Rahmenvertrag,01.09.2020,31.08.2025,7.6,nein,n/a,12 Monate,nein,1x Jahresumsatz,ja,Deutsch,niedrig,,vollstaendig
+C-001,Kunde A,Automotive OEM,Liefervertrag,01.01.2023,31.12.2026,28.0,ja,90,12 Monate,nein,uncapped,nein,Deutsch,hoch,RF-001,Unvollständig (Anlagen fehlen)
+C-002,Kunde B,Maschinenbau,Rahmenvertrag,15.03.2021,14.03.2025,11.5,nein,n/a,12 Monate,nein,2x Jahresgebühren,ja,Deutsch,niedrig,,vollständig
+C-003,Kunde C,Robotik,Entwicklungsvertrag,01.07.2022,30.06.2027,8.3,bedingt (>50% Anteilswechsel),60,6 Monate,ja (Bereich Servo),500.000 EUR,nein,Deutsch,mittel,,vollständig
+C-004,Kunde D,Energieversorger,Liefervertrag PDS-GreenDrive,01.01.2024,31.12.2026,4.7,nein,n/a,3 Monate,nein,1x Jahresumsatz,ja,Deutsch,niedrig,,vollständig
+C-005,Kunde E,Luftfahrt,Entwicklungskooperation,01.04.2020,31.03.2025,6.2,ja,120,18 Monate,ja (Luftfahrtsektor),2.000.000 EUR,nein,Deutsch,mittel,,vollständig
+C-006,Lieferant F,Halbleiter,Lieferrahmenvertrag,01.01.2023,31.12.2024,n/a,nein,n/a,3 Monate,nein,1x Bestellwert,nein,Taiwanesisch (Wahl Deutsch möglich),hoch (Abh.),, vollständig
+C-007,Lieferant G,Elektromotoren,Zuliefervertrag,15.09.2022,14.09.2025,n/a,nein,n/a,6 Monate,nein,500.000 EUR,ja,Deutsch,niedrig,,vollständig
+C-008,Kunde H,Werkzeugmaschinen,Rahmenvertrag,01.06.2021,31.05.2026,9.8,nein,n/a,12 Monate,nein,1x Jahresumsatz,ja,Deutsch,niedrig,,vollständig
+C-009,Kunde I,Chemie,Liefervertrag PDS-500,01.03.2023,28.02.2027,5.1,bedingt (>25% Anteilswechsel),45,6 Monate,nein,250.000 EUR,nein,Deutsch,mittel,,vollständig
+C-010,SCare-Paket J,Portfolio-Kunde (Sammelvertrag),Servicevertrag S-Care,01.01.2023,31.12.2027,3.4,nein,n/a,3 Monate,nein,uncapped für Koerpersch.,ja,Deutsch,niedrig,,vollständig
+C-011,IT-Dienstleister K,Konzern-IT (TSA Kandidat),IT-Servicevertrag,01.01.2022,31.12.2024 (Verlängerungsoption),n/a,bedingt,30,1 Monat,nein,100.000 EUR je Monat,nein,Deutsch,mittel (TSA-Abh.),, vollständig
+C-012,Kunde L,Automobilzulieferer,Rahmenvertrag,01.09.2020,31.08.2025,7.6,nein,n/a,12 Monate,nein,1x Jahresumsatz,ja,Deutsch,niedrig,,vollständig

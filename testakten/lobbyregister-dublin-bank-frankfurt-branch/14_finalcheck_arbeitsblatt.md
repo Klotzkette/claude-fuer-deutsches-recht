@@ -2,10 +2,10 @@
 
 | Gate | Status | Kommentar |
 |---|---|---|
-| Rechtstraeger bestimmt | ORANGE | plc klar, Branch nicht eigenstaendig |
+| Rechtsträger bestimmt | ORANGE | plc klar, Branch nicht eigenständig |
 | Registrierungspflicht dem Grunde nach | ROT | Kontakte Bundestag/BMF geplant, keine klare Ausnahme |
-| Doppelregistrierung geklaert | ROT | RfS-Anfrage offen |
-| Frankfurter Personen erfasst | GRUEN | vier Personen gelistet |
+| Doppelregistrierung geklärt | ROT | RfS-Anfrage offen |
+| Frankfurter Personen erfasst | GRÜN | vier Personen gelistet |
 | Finanzdaten zugeordnet | ORANGE | Rechtsberatungskosten abgrenzen |
-| Regelungsvorhaben formuliert | GRUEN | zwei Vorhaben |
+| Regelungsvorhaben formuliert | GRÜN | zwei Vorhaben |
 | Portal-Freigabe | ROT | erst nach RfS-Antwort |

@@ -35,7 +35,7 @@ Die Frage, ob nachträglich ein Ehevertrag errichtet werden kann, ist für unser
 
 ### 4.1 Für Vera
 
-Das Architekturbuero (PartGmbB) ist formal Veras Privatvermögen. Der Gesellschaftsanteil wächst also in ihren Zugewinn ein. Das Wirtschaftsgutachten (Aktenstück 18) wird den erheblichen Wertzuwachs des Büros dokumentieren. Ohne Ehevertrag fließt dieser Zuwachs vollständig in die Zugewinnberechnung ein.
+Das Architekturbüro (PartGmbB) ist formal Veras Privatvermögen. Der Gesellschaftsanteil wächst also in ihren Zugewinn ein. Das Wirtschaftsgutachten (Aktenstück 18) wird den erheblichen Wertzuwachs des Büros dokumentieren. Ohne Ehevertrag fließt dieser Zuwachs vollständig in die Zugewinnberechnung ein.
 
 Ein besonderes Problem entsteht dadurch, dass die Mitgesellschafterin Anne Luetzelberg — Veras Schwester — zwar selbst kein Ehepartner im hiesigen Verfahren ist, aber der Gesellschaftsvertrag keine Liquidations- oder Abfindungsklausel für den Fall enthält, dass Vera einen erheblichen Zugewinnausgleich zu leisten hat. Wird Vera durch einen hohen Zugewinnausgleich gezwungen, liquide Mittel aufzubringen, kann das die Gesellschaft belasten.
 

@@ -1,12 +1,12 @@
 Monat,Datum,Einnahmen_EUR,Ausgaben_EUR,Saldo_EUR,Kumulativer_Saldo_EUR,Bemerkung
-Januar 2026,31.01.2026,5400000,5800000,-400000,-400000,Erster Liquiditaetsfehlbetrag erkannt
+Januar 2026,31.01.2026,5400000,5800000,-400000,-400000,Erster Liquiditätsfehlbetrag erkannt
 Februar 2026,28.02.2026,5200000,5700000,-500000,-900000,
-Maerz 2026,31.03.2026,5300000,5650000,-350000,-1250000,StaRUG-Anzeige 14.03.; RB-Bestellung 17.03.
+März 2026,31.03.2026,5300000,5650000,-350000,-1250000,StaRUG-Anzeige 14.03.; RB-Bestellung 17.03.
 April 2026,30.04.2026,5400000,5500000,-100000,-1350000,Stabilisierungsanordnung wirkt
-Mai 2026,31.05.2026,5500000,5300000,200000,-1150000,Erste Liquiditaetsstabilisierung
+Mai 2026,31.05.2026,5500000,5300000,200000,-1150000,Erste Liquiditätsstabilisierung
 Juni 2026,30.06.2026,5600000,5400000,200000,-950000,Plan-Abstimmung 24.06.
-Juli 2026,31.07.2026,5800000,5500000,300000,-650000,Plan-Bestaetigung 02.07.; Rechtskraft 24.07.
-August 2026,31.08.2026,6100000,5300000,800000,150000,Plan-Umsetzung Start 01.08.; Anteilsuebertragung Banken
+Juli 2026,31.07.2026,5800000,5500000,300000,-650000,Plan-Bestätigung 02.07.; Rechtskraft 24.07.
+August 2026,31.08.2026,6100000,5300000,800000,150000,Plan-Umsetzung Start 01.08.; Anteilsübertragung Banken
 September 2026,30.09.2026,6400000,5400000,1000000,1150000,Direktvermarktung-Pivot greift
 Oktober 2026,31.10.2026,6600000,5400000,1200000,2350000,Erster positiver Cash-Quartalsabschluss
 November 2026,30.11.2026,6800000,5500000,1300000,3650000,
@@ -19,12 +19,12 @@ JAHRESSUMME 2026,31.12.2026,71200000,66050000,5150000,5150000,Erstes positives J
 STEUERLAST 2026 (mit 3a EStG-Befreiung),31.12.2026,,0,,5150000,KSt 0 GewSt 0 Soli 0 — Sanierung steuerfrei
 STEUERLAST 2026 (hypothetisch ohne 3a EStG),31.12.2026,,4579500,-4579500,570500,Risikoszenario
 Position,Saldo,DES-Cash-Effekt,Verzicht-Cash-Effekt,Stundung-Cash-Effekt,
-DES (Anteilsuebertragung 35Prozent),01.08.2026,0,0,0,0,Anteilsuebertragung ist kein Cash-Vorgang
+DES (Anteilsübertragung 35Prozent),01.08.2026,0,0,0,0,Anteilsübertragung ist kein Cash-Vorgang
 Verzicht 22 Mio EUR Banken,02.07.2026,0,0,0,0,Buchungsgewinnerhoehend ohne Cash-Wirkung; Sanierungsertrag
 Stundung 5 Mio EUR Banken,02.07.2026,0,0,5000000,5150000,Cash-Effekt durch Wegfall der Zahlungsverpflichtung
 Plan-Verfahrenskosten Reinkeller,02.07.2026,0,0,-280000,4870000,Rechtskosten Sanierung
 WP-Gutachten Buchner Voltz,15.05.2026,0,0,-38000,4832000,DES-Werthaltigkeit
-Gebuehr 89 AO verbindliche Auskunft,22.07.2026,0,0,-74400,4757600,FA Cottbus
-RB-Verguetung Vellenbach,30.09.2026,0,0,-180000,4577600,Restrukturierungsbeauftragter Honorar
+Gebühr 89 AO verbindliche Auskunft,22.07.2026,0,0,-74400,4757600,FA Cottbus
+RB-Vergütung Vellenbach,30.09.2026,0,0,-180000,4577600,Restrukturierungsbeauftragter Honorar
 Sozialplan-Abfindungen,31.08.2026,0,0,-900000,3677600,30 Stellen
 Konsolidierung Cash 31.12.2026,31.12.2026,,,,,Cash-Bestand Ende 2026 ca. 3.7 Mio EUR (operativ)

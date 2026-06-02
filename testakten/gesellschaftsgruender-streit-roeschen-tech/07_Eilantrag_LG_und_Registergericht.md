@@ -1,12 +1,12 @@
-# Antraege auf einstweilige Verfuegung und Anmeldungs-Sperre
+# Anträge auf einstweilige Verfügung und Anmeldungs-Sperre
 
 ---
 
-## Teil 1 — Antrag auf einstweilige Verfuegung beim Landgericht Berlin
+## Teil 1 — Antrag auf einstweilige Verfügung beim Landgericht Berlin
 
-**Landgericht Berlin — Kammer fuer Handelssachen**
+**Landgericht Berlin — Kammer für Handelssachen**
 
-**Verfuegungsklaegerin**:
+**Verfügungsklägerin**:
 Christine Linnenbach
 Greifswalder Strasse 78, 10405 Berlin
 
@@ -17,7 +17,7 @@ RA Dr. Markus Meurer, Litzowufer 24, 10785 Berlin
 Roeschen Tech GmbH
 Pappelallee 23, 10437 Berlin
 HRB 245.678 B
-vertreten durch die Geschaeftsfuehrer Andrea Roesener und Bert Schmid
+vertreten durch die Geschäftsführer Andrea Roesener und Bert Schmid
 
 ---
 
@@ -28,52 +28,52 @@ vertreten durch die Geschaeftsfuehrer Andrea Roesener und Bert Schmid
 
 ### Antrag
 
-Es wird beantragt, im Wege der einstweiligen Verfuegung
+Es wird beantragt, im Wege der einstweiligen Verfügung
 
 der Verfuegungsbeklagten zu **untersagen**,
 
-die mit Beschluss der Gesellschafterversammlung vom 18.06.2026 (TOP 3) beschlossene Kapitalerhoehung um 12.500 EUR mit Bezugsrechtsausschluss zugunsten der Pi Mu Holding GmbH
+die mit Beschluss der Gesellschafterversammlung vom 18.06.2026 (TOP 3) beschlossene Kapitalerhöhung um 12.500 EUR mit Bezugsrechtsausschluss zugunsten der Pi Mu Holding GmbH
 
 **beim Handelsregister zur Eintragung anzumelden**,
 
-bis zur rechtskraeftigen Entscheidung des in der Hauptsache anhaengigen Anfechtungsverfahrens (LG Berlin Az. [...]).
+bis zur rechtskräftigen Entscheidung des in der Hauptsache anhängigen Anfechtungsverfahrens (LG Berlin Az. [...]).
 
-Hilfsweise: Es wird beantragt, die Verfuegungsbeklagte unter Festsetzung eines Ordnungsgeldes zu **verpflichten**, die bereits eingereichte Anmeldung zurueckzuziehen.
+Hilfsweise: Es wird beantragt, die Verfuegungsbeklagte unter Festsetzung eines Ordnungsgeldes zu **verpflichten**, die bereits eingereichte Anmeldung zurückzuziehen.
 
 ---
 
-### Verfuegungsanspruch
+### Verfügungsanspruch
 
 1. **Hohe Wahrscheinlichkeit der Anfechtbarkeit / Nichtigkeit** des Beschlusses gemaess Paragraf 55 IV GmbHG iVm Paragraf 138 BGB:
 
    - Bezugsrechtsausschluss ohne sachliche Rechtfertigung (BGH Kali+Salz)
    - Verstoss gegen Treuepflicht (Paragraf 242 BGB)
-   - Sachverhaltsaufklaerung in der GV mangelhaft
+   - Sachverhaltsaufklärung in der GV mangelhaft
 
    Im Einzelnen wird auf die Anfechtungsklage in der Hauptsache verwiesen (LG Berlin Az. [...]).
 
 2. **Schadens-Schwere bei Eintragung**:
 
-   - Bei Eintragung wuerde die Kapitalerhoehung **konstitutiv wirken** (Paragraf 11 GmbHG)
-   - Spaetere Rueckabwicklung waere wirtschaftlich aufwendig und ungewiss
-   - Die Anteilshoehe von Pi Mu Holding wuerde im Handelsregister erscheinen und Vertrauensschutz Dritter (Paragraf 16 HGB analog) ausloesen
+   - Bei Eintragung würde die Kapitalerhöhung **konstitutiv wirken** (Paragraf 11 GmbHG)
+   - Spätere Rückabwicklung wäre wirtschaftlich aufwendig und ungewiss
+   - Die Anteilshöhe von Pi Mu Holding würde im Handelsregister erscheinen und Vertrauensschutz Dritter (Paragraf 16 HGB analog) auslösen
 
-### Verfuegungsgrund (Eilbeduerftigkeit)
+### Verfügungsgrund (Eilbedürftigkeit)
 
 - Die Anmeldung beim Handelsregister wurde laut Mitteilung der GF bereits eingereicht (siehe Anlage E1)
 - Die Eintragung droht innerhalb von 5-10 Werktagen
-- Nach Eintragung waere die Wirkung des Beschlusses **unwiderruflich**
-- Im Hauptverfahren wuerde die Rueckabwicklung nur durch zusaetzliche Klagen und Rueckueberweisungen moeglich, mit unklaren Erfolgs-Aussichten
+- Nach Eintragung wäre die Wirkung des Beschlusses **unwiderruflich**
+- Im Hauptverfahren würde die Rückabwicklung nur durch zusätzliche Klagen und Rücküberweisungen möglich, mit unklaren Erfolgs-Aussichten
 
 ### Glaubhaftmachung
 
-- Eigene eidesstattliche Versicherung der Verfuegungsklaegerin (Anlage E2)
+- Eigene eidesstattliche Versicherung der Verfügungsklägerin (Anlage E2)
 - Eidesstattliche Versicherung des Prozessbevollmaechtigten RA Dr. Meurer (Anlage E3)
 - Anlagen K1-K7 aus der Hauptverfahrens-Klage (in Bezug genommen)
 
 ### Sicherheits-Leistung
 
-Falls erforderlich wird Sicherheits-Leistung in Hoehe von **50.000 EUR** durch Bankbuergschaft angeboten.
+Falls erforderlich wird Sicherheits-Leistung in Höhe von **50.000 EUR** durch Bankbürgschaft angeboten.
 
 ---
 
@@ -106,19 +106,19 @@ RA Dr. Markus Meurer, Litzowufer 24, 10785 Berlin
 
 Es wird beantragt,
 
-das Registergericht moege gemaess Paragraf 16 II HGB analog iVm Paragrafen 374, 391 FamFG **anordnen**,
+das Registergericht möge gemaess Paragraf 16 II HGB analog iVm Paragrafen 374, 391 FamFG **anordnen**,
 
-dass die Eintragung der mit Beschluss der Gesellschafterversammlung der Roeschen Tech GmbH vom 18.06.2026 (TOP 3) beschlossenen Kapitalerhoehung um 12.500 EUR mit Bezugsrechtsausschluss zugunsten der Pi Mu Holding GmbH **bis zur rechtskraeftigen Entscheidung** des in der Hauptsache anhaengigen Anfechtungsverfahrens (LG Berlin Az. [...]) **nicht erfolgt**.
+dass die Eintragung der mit Beschluss der Gesellschafterversammlung der Roeschen Tech GmbH vom 18.06.2026 (TOP 3) beschlossenen Kapitalerhöhung um 12.500 EUR mit Bezugsrechtsausschluss zugunsten der Pi Mu Holding GmbH **bis zur rechtskräftigen Entscheidung** des in der Hauptsache anhängigen Anfechtungsverfahrens (LG Berlin Az. [...]) **nicht erfolgt**.
 
-### Begruendung
+### Begründung
 
-Es wird auf die Klagschrift in der Hauptsache (LG Berlin Az. [...]) und den parallelen Antrag auf einstweilige Verfuegung beim LG Berlin verwiesen. Soweit das Registergericht selbst pruefen kann, lassen sich die Anfechtungs-/Nichtigkeitsgruende aus den vorliegenden Unterlagen erkennen.
+Es wird auf die Klagschrift in der Hauptsache (LG Berlin Az. [...]) und den parallelen Antrag auf einstweilige Verfügung beim LG Berlin verwiesen. Soweit das Registergericht selbst prüfen kann, lassen sich die Anfechtungs-/Nichtigkeitsgruende aus den vorliegenden Unterlagen erkennen.
 
-#### Eilbeduerftigkeit
+#### Eilbedürftigkeit
 
 - Anmeldung wurde am 24.06.2026 durch Notar Dr. Sturm eingereicht.
-- Eintragung droht innerhalb der naechsten 5-10 Werktage.
-- Nach Eintragung waere die Kapitalerhoehung konstitutiv wirksam.
+- Eintragung droht innerhalb der nächsten 5-10 Werktage.
+- Nach Eintragung wäre die Kapitalerhöhung konstitutiv wirksam.
 
 #### Hohe Wahrscheinlichkeit der Anfechtbarkeit
 
@@ -127,7 +127,7 @@ Es wird auf die Klagschrift in der Hauptsache (LG Berlin Az. [...]) und den para
 
 ### Verfahrens-Hinweis
 
-Sollte das Registergericht den Antrag fuer unzulaessig halten (weil die Pruefung allein beim LG erfolgen soll), wird hilfsweise gebeten, die Anmeldung bis zur Entscheidung des LG ueber den parallelen Antrag auf einstweilige Verfuegung **vorlaeufig auszusetzen**.
+Sollte das Registergericht den Antrag für unzulässig halten (weil die Pruefung allein beim LG erfolgen soll), wird hilfsweise gebeten, die Anmeldung bis zur Entscheidung des LG über den parallelen Antrag auf einstweilige Verfügung **vorläufig auszusetzen**.
 
 ---
 
@@ -138,9 +138,9 @@ RA Dr. Markus Meurer
 
 ---
 
-## Anlagen (zu beiden Antraegen)
+## Anlagen (zu beiden Anträgen)
 
-- E1: Mitteilung der Geschaeftsfuehrung vom 22.06.2026 ueber Einreichung der Anmeldung
+- E1: Mitteilung der Geschäftsführung vom 22.06.2026 über Einreichung der Anmeldung
 - E2: Eidesstattliche Versicherung Christine Linnenbach
 - E3: Eidesstattliche Versicherung RA Dr. Markus Meurer
 - K1-K7: Anlagen der Anfechtungsklage in der Hauptsache (in Bezug genommen)

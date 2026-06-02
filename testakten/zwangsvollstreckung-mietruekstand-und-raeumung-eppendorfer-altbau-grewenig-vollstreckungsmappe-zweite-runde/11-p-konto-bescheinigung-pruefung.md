@@ -2,56 +2,56 @@
 
 **Akte:** MR-2026-ZV-0188  
 **Datum:** 16.01.2026  
-**Anlass:** Carmen Pohlmann-Tannenberg hat P-Konto-Bescheinigung angekuendigt
+**Anlass:** Carmen Pohlmann-Tannenberg hat P-Konto-Bescheinigung angekündigt
 
 ---
 
 ## Sachverhalt
 
-Nach Eingang des PfUEB-Antrags gegen die Sparda-Bank Hamburg (Drittschuldner fuer Konto Carmen) haben die Schuldner mitgeteilt, dass Carmen ihr Girokonto bei der Sparda-Bank Hamburg eG bereits als **Pfaendungsschutzkonto (P-Konto)** gemaess § 850k ZPO fuehrt. Eine P-Konto-Bescheinigung (Formular gemaess § 850k Abs. 5 ZPO) soll nachgereicht werden.
+Nach Eingang des PfUEB-Antrags gegen die Sparda-Bank Hamburg (Drittschuldner für Konto Carmen) haben die Schuldner mitgeteilt, dass Carmen ihr Girokonto bei der Sparda-Bank Hamburg eG bereits als **Pfaendungsschutzkonto (P-Konto)** gemaess § 850k ZPO führt. Eine P-Konto-Bescheinigung (Formular gemaess § 850k Abs. 5 ZPO) soll nachgereicht werden.
 
 ---
 
 ## Rechtliche Grundlage § 850k ZPO
 
-Das P-Konto garantiert dem Schuldner, dass ein monatlicher **Grundfreibetrag von 1.491,75 EUR** (Stand 2026) auf dem Konto automatisch pfaendungsgeschuetzt ist, unabhaengig davon wie viele PfUEB auf dem Konto liegen.
+Das P-Konto garantiert dem Schuldner, dass ein monatlicher **Grundfreibetrag von 1.491,75 EUR** (Stand 2026) auf dem Konto automatisch pfaendungsgeschuetzt ist, unabhängig davon wie viele PfUEB auf dem Konto liegen.
 
-**Erhoehung des Freibetrags § 850k Abs. 2 ZPO:**  
-Der Freibetrag kann durch Vorlage einer Bescheinigung erhoeht werden bei:
+**Erhöhung des Freibetrags § 850k Abs. 2 ZPO:**  
+Der Freibetrag kann durch Vorlage einer Bescheinigung erhöht werden bei:
 
 | Grund | Bescheinigung ausstellt von | Zusatzbetrag (2026) |
 |---|---|---|
 | Unterhaltsberechtigte Person 1 (Ehemann Heinrich) | Arbeitgeber, JA, Sozialamt, Steuerberater | + 560,60 EUR/Monat |
 | Unterhaltsberechtigte Person 2 (Tochter Hilde) | wie oben | + 311,45 EUR/Monat |
-| Sozialleistungen (z.B. Kinderkrankengeld) | Behoerde | je nach Betrag |
+| Sozialleistungen (z.B. Kinderkrankengeld) | Behörde | je nach Betrag |
 
-**Maximaler Schutz fuer Carmen:** 1.491,75 + 560,60 + 311,45 = **2.363,80 EUR/Monat** auf dem P-Konto
+**Maximaler Schutz für Carmen:** 1.491,75 + 560,60 + 311,45 = **2.363,80 EUR/Monat** auf dem P-Konto
 
 ---
 
-## Folgen fuer die Lohnpfaendung
+## Folgen für die Lohnpfändung
 
-Die Lohnpfaendung (PfUEB gegen Stadt Hamburg) und die Kontopfaendung sind zu unterscheiden:
+Die Lohnpfändung (PfUEB gegen Stadt Hamburg) und die Kontopfändung sind zu unterscheiden:
 
 | Vollstreckungsweg | P-Konto-Schutz | Bemerkung |
 |---|---|---|
 | PfUEB gegen Arbeitgeber (Stadt Hamburg) | Nicht berührt durch P-Konto | PfUEB wirkt beim Drittschuldner; das Geld kommt erst gar nicht aufs P-Konto |
-| Kontopfaendung Sparda Hamburg (P-Konto) | Freibetrag greift automatisch | Nur Betrag oberhalb Freibetrag pfaendbar |
+| Kontopfändung Sparda Hamburg (P-Konto) | Freibetrag greift automatisch | Nur Betrag oberhalb Freibetrag pfändbar |
 
-**Praktische Konsequenz:** Die PfUEB-Pfaendung gegen den Arbeitgeber (Stadt Hamburg) ist **nicht** durch das P-Konto blockiert. Das P-Konto schuetzt nur das Konto selbst, nicht die Lohnzahlung beim Arbeitgeber.
+**Praktische Konsequenz:** Die PfUEB-Pfändung gegen den Arbeitgeber (Stadt Hamburg) ist **nicht** durch das P-Konto blockiert. Das P-Konto schützt nur das Konto selbst, nicht die Lohnzahlung beim Arbeitgeber.
 
-**Die Lohnpfaendung gegen die Stadt Hamburg laeuft weiter — P-Konto aendert nichts daran.**
+**Die Lohnpfändung gegen die Stadt Hamburg läuft weiter — P-Konto ändert nichts daran.**
 
 ---
 
 ## Pruefung der P-Konto-Bescheinigung
 
-Die Kanzlei wird die vorzulegende P-Konto-Bescheinigung pruefen:
+Die Kanzlei wird die vorzulegende P-Konto-Bescheinigung prüfen:
 
-1. **Aussteller berechtigt?** Gemaess § 850k Abs. 5 ZPO sind ausstellungsberechtigt: Arbeitgeber, Sozialbehoerde, Jugendamt, Rentenversicherung, Steuerberater/RA.
-2. **Betraege korrekt?** Angaben zu Unterhaltsberechtigten und Hoehe des Unterhalts.
-3. **Aktualitaet?** Bescheinigung darf nicht aelter als 1 Jahr sein.
-4. **P-Konto tatsaechlich eingerichtet?** Drittschuldnererklaerung Sparda Hamburg muss P-Konto-Status bestaetigen.
+1. **Aussteller berechtigt?** Gemaess § 850k Abs. 5 ZPO sind ausstellungsberechtigt: Arbeitgeber, Sozialbehörde, Jugendamt, Rentenversicherung, Steuerberater/RA.
+2. **Beträge korrekt?** Angaben zu Unterhaltsberechtigten und Höhe des Unterhalts.
+3. **Aktualität?** Bescheinigung darf nicht älter als 1 Jahr sein.
+4. **P-Konto tatsächlich eingerichtet?** Drittschuldnererklaerung Sparda Hamburg muss P-Konto-Status bestätigen.
 
 ---
 
@@ -59,8 +59,8 @@ Die Kanzlei wird die vorzulegende P-Konto-Bescheinigung pruefen:
 
 | Szenario | Auswirkung |
 |---|---|
-| P-Konto korrekt — Freibetrag 2.363,80 EUR | Kontopfaendung Sparda bringt max. 916,20 EUR/Monat (deckungsgleich mit Lohnpfaendung) |
-| Doppelter Zufluss aus Arbeitgeber | Lohnpfaendung bei Arbeitgeber + Kontoguthaben = Pfaendung zwei Mal unmoeglich (§ 850k Abs. 3 ZPO: Verrechnung) |
+| P-Konto korrekt — Freibetrag 2.363,80 EUR | Kontopfändung Sparda bringt max. 916,20 EUR/Monat (deckungsgleich mit Lohnpfändung) |
+| Doppelter Zufluss aus Arbeitgeber | Lohnpfändung bei Arbeitgeber + Kontoguthaben = Pfändung zwei Mal unmöglich (§ 850k Abs. 3 ZPO: Verrechnung) |
 | Fehlerhafte Bescheinigung / zu hoher Freibetrag | Kanzlei kann Widerruf / Korrektur beim Vollstreckungsgericht beantragen |
 
 ---
@@ -69,8 +69,8 @@ Die Kanzlei wird die vorzulegende P-Konto-Bescheinigung pruefen:
 
 1. Eingang P-Konto-Bescheinigung abwarten (Schuldneranwalt hat Frist bis 25.01.2026 gesetzt)
 2. Pruefung Inhalt und Aussteller
-3. Einwendung beim Vollstreckungsgericht wenn Betraege zu hoch oder Aussteller unberechtigt
-4. Sparda Hamburg muss in Drittschuldnererklaerung angeben: Konto als P-Konto gefuehrt, aktueller Stand, Freibetrag
+3. Einwendung beim Vollstreckungsgericht wenn Beträge zu hoch oder Aussteller unberechtigt
+4. Sparda Hamburg muss in Drittschuldnererklaerung angeben: Konto als P-Konto geführt, aktueller Stand, Freibetrag
 
 ---
 

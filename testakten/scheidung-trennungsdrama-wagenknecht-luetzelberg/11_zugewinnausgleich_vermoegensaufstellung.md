@@ -96,7 +96,7 @@ Hinweis: Ein negatives Anfangsvermögen erhöht den Zugewinn Theos nicht (Schutz
 
 ## 5. Bewertungsfragen und offene Punkte
 
-### 5.1 Architekturbuero PartGmbB
+### 5.1 Architekturbüro PartGmbB
 
 Der Unternehmenswert ist der größte und umstrittenste Posten. WP Dreschler hat einen Gesamtwert von 1.420.000 EUR ermittelt. Theo wird vermutlich einen eigenen Gutachter beauftragen. Streitpunkte:
 - **Goodwill vs. Substanz:** Der Bürowert enthält einen erheblichen „Goodwill"-Anteil (Kundenstamm, Ruf, laufende Aufträge). Vera argumentiert, dieser sei personengebunden und deshalb nicht zugewinnrelevant. Die Rechtsprechung ist uneinheitlich; maßgeblich ist die konkrete Bewertungsmethode (Ertragswert vs. Substanzwert vs. modifiziertes Ertragswertverfahren).

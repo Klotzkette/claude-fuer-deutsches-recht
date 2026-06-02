@@ -1,25 +1,25 @@
-Position,2023_IST,2024_IST,2025_IST_vorlaeufig,2026_Jan,2026_Feb,2026_Mrz,2026_Apr,2026_Mai_Plan,2026_Plan_Gesamt,Kommentar
-Umsatzerloese,19800000,18400000,16900000,1240000,1480000,1620000,1390000,1580000,19100000,Rueckgang 2025 wegen Festpreisverlusten; 2026 Anstieg durch neue Auftrage
-Erloesschmaelerungen,-320000,-280000,-410000,-25000,-38000,-42000,-31000,-35000,-430000,Gutschriften Nachtragsreduzierungen; hoechster Wert 2025
+Position,2023_IST,2024_IST,2025_IST_vorläufig,2026_Jan,2026_Feb,2026_Mrz,2026_Apr,2026_Mai_Plan,2026_Plan_Gesamt,Kommentar
+Umsatzerlöse,19800000,18400000,16900000,1240000,1480000,1620000,1390000,1580000,19100000,Rückgang 2025 wegen Festpreisverlusten; 2026 Anstieg durch neue Auftrage
+Erloesschmaelerungen,-320000,-280000,-410000,-25000,-38000,-42000,-31000,-35000,-430000,Gutschriften Nachtragsreduzierungen; höchster Wert 2025
 Nettoumsatz,19480000,18120000,16490000,1215000,1442000,1578000,1359000,1545000,18670000,
 Materialaufwand Roh-Hilfs-Betriebsstoffe,-10050000,-10450000,-10540000,-729000,-938000,-889000,-814000,-865000,-10540000,Materialquote 2025 zu hoch (64%); Ziel 56% durch Gleitklauseln
 Materialaufwand Fremdleistungen,-330000,-220000,-190000,-12000,-15000,-18000,-14000,-16000,-195000,Lohnfertigung Verzinkung Lackierung
 Rohmarge,9100000,7450000,5760000,474000,489000,671000,531000,664000,7935000,
-Personalaufwand,-4900000,-5200000,-5450000,-435000,-442000,-448000,-452000,-450000,-5350000,Inkl. Arbeitgeberanteile SV; 2025 erhoehte Krankenquote +0.7 MEUR
+Personalaufwand,-4900000,-5200000,-5450000,-435000,-442000,-448000,-452000,-450000,-5350000,Inkl. Arbeitgeberanteile SV; 2025 erhöhte Krankenquote +0.7 MEUR
 Abschreibungen AV,-640000,-650000,-670000,-53000,-53000,-53000,-53000,-53000,-640000,Linear; Maschinenpark und Ausbau
 Sonstige Personalnebenkosten,-180000,-195000,-210000,-17000,-16000,-18000,-17000,-17000,-210000,Dienstreisen Fortbildung
-Miete / Erbbauzins,-96000,-96000,-96000,-8000,-8000,-8000,-8000,-8000,-96000,Erbbauzins Stadt Hamburg; unveraendert
-Energieaufwand,-185000,-210000,-198000,-16000,-17000,-16000,-16000,-16000,-195000,Gas Strom; Rueckgang gegenueber 2023 aber ueber Vorkrisenniveau
+Miete / Erbbauzins,-96000,-96000,-96000,-8000,-8000,-8000,-8000,-8000,-96000,Erbbauzins Stadt Hamburg; unverändert
+Energieaufwand,-185000,-210000,-198000,-16000,-17000,-16000,-16000,-16000,-195000,Gas Strom; Rückgang gegenüber 2023 aber über Vorkrisenniveau
 Kommunikation IT Versicherungen,-142000,-158000,-167000,-13000,-14000,-13000,-13000,-14000,-165000,ERP-System Sage SaaS Upgrade 2026 geplant (+18 TEUR)
 EBITDA,1957000,941000,-1031000,-68000,-61000,115000,-28000,106000,1279000,2026 Plan EBITDA positiv nach Wegfall Verlustprojekte
 EBIT,1317000,291000,-1701000,-121000,-114000,62000,-81000,53000,639000,
 Zinsergebnis,-280000,-310000,-390000,-32000,-31000,-32000,-32000,-30000,-360000,NordBank Investitionsdarlehen + Kontokorrentzinsen
 EBT,1037000,-19000,-2091000,-153000,-145000,30000,-113000,23000,279000,
-Ertragsteuern (geschaetzt),-280000,0,0,0,0,0,0,0,-98000,2024 und 2025 kein Steueraufwand wegen Verlust; 2026 bei Planerfolg
+Ertragsteuern (geschätzt),-280000,0,0,0,0,0,0,0,-98000,2024 und 2025 kein Steueraufwand wegen Verlust; 2026 bei Planerfolg
 Jahresergebnis,757000,-19000,-2091000,-153000,-145000,30000,-113000,23000,181000,
 Bilanzsumme (Stichtag),13200000,12400000,10800000,,,,,,12900000,Sinkende Bilanzsumme 2025 wegen Verlust; 2026 stabiler
-Eigenkapital,1450000,1130000,-910000,,,,,,270000,Negatives EK per 31.12.2025 (vorlaeufig); Plan ergibt positives EK nach Forderungsverzichten
-Eigenkapitalquote,11.0%,9.1%,-8.4%,,,,,,2.1%,Covenant NordBank 12% nicht erfuellt seit Q4 2024
+Eigenkapital,1450000,1130000,-910000,,,,,,270000,Negatives EK per 31.12.2025 (vorläufig); Plan ergibt positives EK nach Forderungsverzichten
+Eigenkapitalquote,11.0%,9.1%,-8.4%,,,,,,2.1%,Covenant NordBank 12% nicht erfüllt seit Q4 2024
 Verbindlichkeiten_gesamt,9850000,9680000,10350000,,,,,,11250000,Anstieg durch SV- und Steuerrueckstaende sowie Investor-Darlehen
 Forderungen_LL_brutto,2900000,3240000,3420000,3380000,3520000,3600000,3680000,3580000,3200000,Debitorenlaufzeit 2025: 61 Tage (Ziel 45 Tage)
 Vorraeate,1280000,1600000,1640000,1610000,1590000,1480000,1420000,1380000,1200000,Lagerabbau als Sanierungsmassnahme; Ziel 1200 TEUR

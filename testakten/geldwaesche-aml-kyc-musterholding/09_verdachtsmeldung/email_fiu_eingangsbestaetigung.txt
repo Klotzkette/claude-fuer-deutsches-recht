@@ -1,7 +1,7 @@
 Von: noreply@fiu.bund.de
 An: t.eckhardt@musterholding.de
 Datum: Di, 19.05.2026 11:36
-Betreff: [goAML] Eingangsbestaetigung Verdachtsmeldung VM-MH-2026-0041
+Betreff: [goAML] Eingangsbestätigung Verdachtsmeldung VM-MH-2026-0041
 
 * * * AUTOMATISCH ERZEUGTE NACHRICHT - BITTE NICHT ANTWORTEN * * *
 
@@ -15,22 +15,22 @@ goAML-Portal eingereicht.
   Verpflichteter  : Musterholding GmbH (HRB 74281 B)
   Status          : EINGEGANGEN - in Bearbeitung
   Anlagen         : 7 Dateien (PDF/CSV/XLSX), Gesamtgroesse 14,8 MB
-  Pruefkanal      : SOLLPRUEFUNG (regulaer)
+  Prüfkanal      : SOLLPRUEFUNG (regulär)
 
-Hinweis Ausfuehrungsverbot gem. § 46 GwG:
-Sie sind bis zur Freigabe durch die FIU - laengstens bis zum Ablauf des
+Hinweis Ausführungsverbot gem. § 46 GwG:
+Sie sind bis zur Freigabe durch die FIU - längstens bis zum Ablauf des
 dritten Werktages nach Eingang Ihrer Meldung - verpflichtet, die gemeldete
-Transaktion NICHT auszufuehren.
+Transaktion NICHT auszuführen.
 
 Ablauf 3-Werktage-Frist: 22.05.2026, 23:59:59 Uhr MESZ.
-Sollte bis dahin keine ausdrueckliche Untersagung erfolgen, gilt die
+Sollte bis dahin keine ausdrückliche Untersagung erfolgen, gilt die
 Transaktion als von der FIU nicht beanstandet (§ 46 Abs. 2 Satz 2 GwG).
 
-Bei Rueckfragen erreichen Sie das FIU-Kontaktteam unter:
+Bei Rückfragen erreichen Sie das FIU-Kontaktteam unter:
   E-Mail: kontakt@fiu.bund.de
   Tel:    +49 351 44 834 - 556
 
-Diese E-Mail ist signiert (S/MIME). Pruefen Sie das Signatur-Zertifikat.
+Diese E-Mail ist signiert (S/MIME). Prüfen Sie das Signatur-Zertifikat.
 
 Mit freundlichen Gruessen
 Financial Intelligence Unit

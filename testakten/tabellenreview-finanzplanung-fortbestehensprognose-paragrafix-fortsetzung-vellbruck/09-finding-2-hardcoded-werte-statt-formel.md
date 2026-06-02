@@ -20,7 +20,7 @@ In den als Rechenblätter (gelb, Modellkonvention) klassifizierten Blättern wur
 | PLAN-GuV | F22 | 0,072 | =PARAM!B5 (Wachstumsrate Q3 2026) | ca. +38 TEUR zu optimistisch |
 | PLAN-CF | H8 | 42 | =PARAM!B19 (DSO Forderungslaufzeit Tage) | ca. +95 TEUR Cashflow-Verschiebung |
 | ZINS-SCHULDEN | C5 | 0,049 | =PARAM!B12 (Zinssatz) | –186 TEUR Zinslast (Finding 4) |
-| LIQUIDITAET | D11 | 350000 | =PARAM!B25 (Mindestliquidität) | Indirekte Auswirkung |
+| LIQUIDITÄT | D11 | 350000 | =PARAM!B25 (Mindestliquidität) | Indirekte Auswirkung |
 | PERSONAL | G18 | 3 | =PARAM!B31 (Abfindungsmonate) | ca. +310 TEUR fehlend (Finding 5) |
 
 Weitere 42 Hardcoded-Werte geringerer Materialität dokumentiert im Findings-Register.

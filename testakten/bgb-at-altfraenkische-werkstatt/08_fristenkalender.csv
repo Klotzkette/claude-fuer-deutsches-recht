@@ -1,27 +1,27 @@
 Datum,Uhrzeit,Ereignis,Rechtsfrage,Quelle,Status
 2026-04-06,10:00,Adelheid stellt AltWerk-Inserat AW-77-426 online,Inserat als invitatio ad offerendum,Inserat Anlage,erledigt
-2026-04-09,21:17,Plattform-Eingangsbestaetigung,Angebot Kunigunde mit Pruefvorbehalt,02_emailkette_online_auktion.eml,erledigt
-2026-04-10,08:14,Adelheid bittet um Besichtigung,Erstmalige Rueckfrage zur Eigenschaft,02_emailkette_online_auktion.eml,erledigt
-2026-04-11,11:00,Besichtigung in Nuernberg,Quittungsblock-Zettel mit Stift-Falkenau-Bedingung,07_form_sittenwidrigkeit_bedingung.md,erledigt
+2026-04-09,21:17,Plattform-Eingangsbestätigung,Angebot Kunigunde mit Prüfvorbehalt,02_emailkette_online_auktion.eml,erledigt
+2026-04-10,08:14,Adelheid bittet um Besichtigung,Erstmalige Rückfrage zur Eigenschaft,02_emailkette_online_auktion.eml,erledigt
+2026-04-11,11:00,Besichtigung in Nürnberg,Quittungsblock-Zettel mit Stift-Falkenau-Bedingung,07_form_sittenwidrigkeit_bedingung.md,erledigt
 2026-04-12,18:41,Lieferangebot mit Antwort bis Montagabend,Annahmefrist §§ 147 ff. BGB,02_emailkette_online_auktion.eml,erledigt
 2026-04-13,22:48,Kunigunde schreibt Annahme im Zug,Abgabe vs. Zugang E-Mail,01_mandatsnotiz_erstgespraech.md,erledigt
-2026-04-14,08:06,Kunigundes E-Mail tatsaechlich versendet,Zugang und Verspaetung,02_emailkette_online_auktion.eml,erledigt
+2026-04-14,08:06,Kunigundes E-Mail tatsächlich versendet,Zugang und Verspätung,02_emailkette_online_auktion.eml,erledigt
 2026-04-14,10:24,Mechthild meldet Adelheids Forderung 14800 EUR,Erste Anfechtungsandeutung,03_chat_export_werkstattgruppe.md,erledigt
-2026-04-15,16:20,Hildebrand bestellt Pressezubehoer 12.460 EUR,Vollmacht / Missbrauch Vertretungsmacht,04_vollmacht_werkstattbedarf.md,erledigt
+2026-04-15,16:20,Hildebrand bestellt Pressezubehör 12.460 EUR,Vollmacht / Missbrauch Vertretungsmacht,04_vollmacht_werkstattbedarf.md,erledigt
 2026-04-16,14:30,Giselher kauft Messingtypen 620 EUR,Minderjaehrigenrecht § 110 BGB,05_notiz_minderjaehriger_giselher.md,erledigt
 2026-04-17,19:42,Mutter Theudelinde verweigert Genehmigung per SMS,§ 108 BGB,05_notiz_minderjaehriger_giselher.md,erledigt
 2026-04-18,09:10,Anfechtungsschreiben Adelheid,Frist § 121 BGB / Anfechtungsgrund § 119 BGB,06_anfechtung_preis_und_eigenschaft.md,erledigt
-2026-04-18,11:30,E-Mail Wendelbert Eisenhut zur Minderjaehrigkeit Giselhers,Haendler verlangt Restzahlung,05_notiz_minderjaehriger_giselher.md,erledigt
+2026-04-18,11:30,E-Mail Wendelbert Eisenhut zur Minderjaehrigkeit Giselhers,Händler verlangt Restzahlung,05_notiz_minderjaehriger_giselher.md,erledigt
 2026-04-21,11:00,Vorschuss 1500 EUR auf Kanzleikonto eingegangen,Mandatsannahme,01_mandatsnotiz_erstgespraech.md,erledigt
-2026-04-22,09:20,Erstgespraech Kanzlei,Rueckfragen und Pruefprogramm,01_mandatsnotiz_erstgespraech.md,erledigt
+2026-04-22,09:20,Erstgespräch Kanzlei,Rückfragen und Prüfprogramm,01_mandatsnotiz_erstgespraech.md,erledigt
 2026-04-23,EOD,Aufforderung Eltern Giselher (§ 108 Abs. 2 BGB),Vierwochenfrist Genehmigung/Verweigerung,12_anfechtungserklaerung_entwurf.md,offen
-2026-04-23,EOD,Mitteilung an Wendelbert Eisenhut zur Schwebenden Unwirksamkeit,Haendlerrueckabwicklung,05_notiz_minderjaehriger_giselher.md,offen
-2026-04-24,11:00,Telefonat Wendelbert Eisenhut jun.,Klaerung Kenntnis Innenlimit,04_vollmacht_werkstattbedarf.md,offen
+2026-04-23,EOD,Mitteilung an Wendelbert Eisenhut zur Schwebenden Unwirksamkeit,Händlerrückabwicklung,05_notiz_minderjaehriger_giselher.md,offen
+2026-04-24,11:00,Telefonat Wendelbert Eisenhut jun.,Klärung Kenntnis Innenlimit,04_vollmacht_werkstattbedarf.md,offen
 2026-04-25,EOD,Themenkarte und Anspruchsmatrix,Skill bgb-at-pruefer,09_anspruchsmatrix_roh.md,offen
 2026-04-27,EOD,Antwortentwurf an Adelheid Krummstab,Vertragsschluss / Anfechtung,12_anfechtungserklaerung_entwurf.md,offen
 2026-04-30,EOD,Antwort an Adelheid Krummstab versendet,Antwortfrist,12_anfechtungserklaerung_entwurf.md,offen
-2026-05-08,16:42,Anruf Kunigunde wegen Fuchs-Kuendigung,Arbeitsrechtsfrage,11_bea_qes_formfiktion_schriftsatz.md,erledigt
-2026-05-22,EOD,Vierwochenfrist § 108 Abs. 2 BGB endet (gerechnet ab 24.04.2026),Endgueltige Verweigerung/Genehmigung,05_notiz_minderjaehriger_giselher.md,offen
-2026-06-15,EOD,Schriftliche Auftragsbestaetigung Stift Falkenau erwartet,Bedingungseintritt,07_form_sittenwidrigkeit_bedingung.md,offen
-2026-06-18,10:00,Gueteverhandlung ArbG Wendelheim Az. 3 Ca 118/26,Arbeitsrechtsverfahren Fuchs,11_bea_qes_formfiktion_schriftsatz.md,offen
-2029-12-31,23:59,Verjaehrung etwaiger Kaufpreisanspruch Adelheid (§ 195 BGB),Regelverjaehrung,01_mandatsnotiz_erstgespraech.md,offen
+2026-05-08,16:42,Anruf Kunigunde wegen Fuchs-Kündigung,Arbeitsrechtsfrage,11_bea_qes_formfiktion_schriftsatz.md,erledigt
+2026-05-22,EOD,Vierwochenfrist § 108 Abs. 2 BGB endet (gerechnet ab 24.04.2026),Endgültige Verweigerung/Genehmigung,05_notiz_minderjaehriger_giselher.md,offen
+2026-06-15,EOD,Schriftliche Auftragsbestätigung Stift Falkenau erwartet,Bedingungseintritt,07_form_sittenwidrigkeit_bedingung.md,offen
+2026-06-18,10:00,Güteverhandlung ArbG Wendelheim Az. 3 Ca 118/26,Arbeitsrechtsverfahren Fuchs,11_bea_qes_formfiktion_schriftsatz.md,offen
+2029-12-31,23:59,Verjährung etwaiger Kaufpreisanspruch Adelheid (§ 195 BGB),Regelverjährung,01_mandatsnotiz_erstgespraech.md,offen

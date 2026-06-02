@@ -1,10 +1,10 @@
-Stoffstrom,EAK_Schluessel,Menge_t_pa,Einstufung,Entsorgungsweg,Entsorger,Nachweis_eANV,Vertrag_gueltig_bis,Bemerkung
-Filterstaub (Schlauchfilter H-02),06 01 02*,220,gefaehrlich,Hochtemperaturverbrennung HMV,Entsorgung Nord GmbH,vorhanden,31.12.2026,Analytik aktuell (2025); Wechselintervall 6 Monate
-Aktivkohle (Adsorptionsfilter H-03),06 01 05*,2.4,gefaehrlich,Desorption und Regenerierung,Chemische Werke West GmbH,vorhanden,28.02.2027,Wechsel alle 6 Monate; ca. 1.2 t je Wechsel
-Produktionsschlamm (Filtration R-4.3),noch offen (unklar),950,ungeklaert – Analytik fehlt,offen,offen,fehlt,–,RED FLAG: Einstufung und Entsorgungsweg unklar; Beauftragung Analytik 01.04.2026 ausgeloest
-Verpackungsabfall (PE-Folien und Karton),15 01 01 / 15 01 02,140,nicht gefaehrlich,Recycling DSD-System,Recyclinghof Wesseling GmbH,nicht erforderlich,31.12.2025 (Verlaengerung 2026 in Verhandlung),Gemischte Fraktion; kein Sondernachweis
-Leerbehaelter (chlorierte Rohstoffe),15 01 10*,8.5,gefaehrlich,Ruecknahme Hersteller,Chemlogistik Rhein GmbH,vorhanden,30.06.2027,Behälter werden gereinigt und an Lieferant zurueckgegeben
-Laborsonderabfall (Chemikalienreste),16 05 06*,1.2,gefaehrlich,Verbrennung Sonderabfallanlage,EWB Umweltdienste GmbH,vorhanden,31.03.2027,Quartalsmäßige Abholung; 300 kg/Quartal
-Kuehlschmierstoffe alt (Mahlanlage),12 01 09*,3.8,gefaehrlich,Aufbereitung Oelrecycling,OilCycle Koeln GmbH,vorhanden,31.12.2026,Jährlicher Wechsel; getrennte Sammlung
-Altoel Kesselhaus (HKW-2),13 02 08*,1.1,gefaehrlich,Verbrennung Sonderabfallanlage,Thermorecycling NRW GmbH,vorhanden,31.12.2026,Kleine Menge; Einjahreszyklus
-Bauschutt (geplant Erweiterung Linie 4),17 01 01,12,nicht gefaehrlich,Deponierung Deponie Ost NRW,Bau + Entsorgung Koeln GmbH,nicht erforderlich,Einmalig,Anfallend nur waehrend Bauphase Aug.–Sept. 2026; Schätzwert
+Stoffstrom,EAK_Schlüssel,Menge_t_pa,Einstufung,Entsorgungsweg,Entsorger,Nachweis_eANV,Vertrag_gültig_bis,Bemerkung
+Filterstaub (Schlauchfilter H-02),06 01 02*,220,gefährlich,Hochtemperaturverbrennung HMV,Entsorgung Nord GmbH,vorhanden,31.12.2026,Analytik aktuell (2025); Wechselintervall 6 Monate
+Aktivkohle (Adsorptionsfilter H-03),06 01 05*,2.4,gefährlich,Desorption und Regenerierung,Chemische Werke West GmbH,vorhanden,28.02.2027,Wechsel alle 6 Monate; ca. 1.2 t je Wechsel
+Produktionsschlamm (Filtration R-4.3),noch offen (unklar),950,ungeklärt – Analytik fehlt,offen,offen,fehlt,–,RED FLAG: Einstufung und Entsorgungsweg unklar; Beauftragung Analytik 01.04.2026 ausgelöst
+Verpackungsabfall (PE-Folien und Karton),15 01 01 / 15 01 02,140,nicht gefährlich,Recycling DSD-System,Recyclinghof Wesseling GmbH,nicht erforderlich,31.12.2025 (Verlängerung 2026 in Verhandlung),Gemischte Fraktion; kein Sondernachweis
+Leerbehälter (chlorierte Rohstoffe),15 01 10*,8.5,gefährlich,Rücknahme Hersteller,Chemlogistik Rhein GmbH,vorhanden,30.06.2027,Behälter werden gereinigt und an Lieferant zurückgegeben
+Laborsonderabfall (Chemikalienreste),16 05 06*,1.2,gefährlich,Verbrennung Sonderabfallanlage,EWB Umweltdienste GmbH,vorhanden,31.03.2027,Quartalsmäßige Abholung; 300 kg/Quartal
+Kühlschmierstoffe alt (Mahlanlage),12 01 09*,3.8,gefährlich,Aufbereitung Ölrecycling,OilCycle Koeln GmbH,vorhanden,31.12.2026,Jährlicher Wechsel; getrennte Sammlung
+Altöl Kesselhaus (HKW-2),13 02 08*,1.1,gefährlich,Verbrennung Sonderabfallanlage,Thermorecycling NRW GmbH,vorhanden,31.12.2026,Kleine Menge; Einjahreszyklus
+Bauschutt (geplant Erweiterung Linie 4),17 01 01,12,nicht gefährlich,Deponierung Deponie Ost NRW,Bau + Entsorgung Koeln GmbH,nicht erforderlich,Einmalig,Anfallend nur während Bauphase Aug.–Sept. 2026; Schätzwert

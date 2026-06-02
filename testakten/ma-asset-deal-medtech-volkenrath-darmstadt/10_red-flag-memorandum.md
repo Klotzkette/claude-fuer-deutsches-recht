@@ -1,7 +1,7 @@
 # 10 — Red-Flag-Memorandum
 
 **Datum:** 5. Dezember 2025  
-**Ersteller:** Drosselberg, Mannfeldt & Partner Rechtsanwaelte mbB  
+**Ersteller:** Drosselberg, Mannfeldt & Partner Rechtsanwälte mbB  
 **Verteiler:** VERTRAULICH — Nur an Theodora Volkenrath-Eichelmann (VENERA)  
 **Status:** ENTWURF — NICHT FINALISIERT
 
@@ -9,17 +9,17 @@
 
 ## Zusammenfassung
 
-Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal Due Diligence des Geschaeftsbereichs FraktoMedis Praezision zusammen. Es ersetzt keinen abschliessenden LDD-Bericht, sondern dient der Entscheidungsunterstuetzung fuer das Signing-Clearance-Prozess.
+Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal Due Diligence des Geschäftsbereichs FraktoMedis Präzision zusammen. Es ersetzt keinen abschliessenden LDD-Bericht, sondern dient der Entscheidungsunterstützung für das Signing-Clearance-Prozess.
 
-**Gesamtrisikobewertung:** ERHOEHT. Transaktion erscheint trotz Risikolage grundsaetzlich durchfuehrbar, bedarf jedoch erheblicher vertraglicher Schutzinstrumente.
+**Gesamtrisikobewertung:** ERHÖHT. Transaktion erscheint trotz Risikolage grundsätzlich durchführbar, bedarf jedoch erheblicher vertraglicher Schutzinstrumente.
 
 ---
 
-## Kritische Findings (Prioritaet RED/HIGH)
+## Kritische Findings (Priorität RED/HIGH)
 
 ### Issue 1 — Fehlender HV-Beschluss zum Carve-Out (Corporate)
 **Risiko:** Anfechtbarkeit des Asset Deals mangels § 179a AktG-Beschluss.  
-**Massnahme:** Ausserordentliche HV oder schriftlicher Umlaufbeschluss saemtlicher Aktionaere.  
+**Massnahme:** Ausserordentliche HV oder schriftlicher Umlaufbeschluss sämtlicher Aktionäre.  
 **Bewertung:** RED
 
 ### Issue 2 — Patentnichtigkeitsklage EP 3 847 112 (BPatG 3 Ni 44/24)
@@ -28,8 +28,8 @@ Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal 
 **Bewertung:** RED
 
 ### Issue 3 — DOJ Subpoena / FCPA (US-Tochter FraktoMedis Inc.)
-**Risiko:** Strafrechtliche Exposure des Kaeufers bei Ubernahme US-Aktivitaeten; Reputationsrisiko.  
-**Massnahme:** US-Counsel (FCPA-Spezialist) hinzuziehen; US-Tochter vorlaeufig aus Asset-Deal-Scope ausklammern.  
+**Risiko:** Strafrechtliche Exposure des Käufers bei Ubernahme US-Aktivitäten; Reputationsrisiko.  
+**Massnahme:** US-Counsel (FCPA-Spezialist) hinzuziehen; US-Tochter vorläufig aus Asset-Deal-Scope ausklammern.  
 **Bewertung:** RED
 
 ### Issue 4 — Korruption Lateinamerika 2022 (Brasilien/Mexiko)
@@ -38,33 +38,33 @@ Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal 
 **Bewertung:** RED
 
 ### Issue 5 — Massenwiderspruch § 613a BGB (ca. 40 Mitarbeiter)
-**Risiko:** Verlust wesentlicher Belegschaft, Produktionsausfaelle, Folgekosten.  
+**Risiko:** Verlust wesentlicher Belegschaft, Produktionsausfälle, Folgekosten.  
 **Massnahme:** Frue zeitige Mitarbeiter-Kommunikation; Sozialplan; attraktive VENERA-Konditionen signalisieren.  
 **Bewertung:** HIGH
 
 ### Issue 6 — Standortgarantie Darmstadt-Nord (bis 31.12.2026)
-**Risiko:** Betriebsrat fordert 5-Jahres-Verlaengerung; Einigungsstellenverfahren droht.  
+**Risiko:** Betriebsrat fordert 5-Jahres-Verlängerung; Einigungsstellenverfahren droht.  
 **Massnahme:** Friuehzeitige Verhandlung mit Betriebsrat; Sozialplan-Provision im SPA.  
 **Bewertung:** HIGH
 
 ### Issue 7 — Grundschuldbelastung Fertigungshalle 8 Mio. EUR
 **Risiko:** Lastenfreiheit der Immobilie ist Closing-Bedingung.  
-**Massnahme:** Abloesung durch Verkaeufer; ggf. Kaufpreisreduktion.  
+**Massnahme:** Ablösung durch Verkäufer; ggf. Kaufpreisreduktion.  
 **Bewertung:** HIGH
 
 ### Issue 8 — Beratervertrag Schwiegersohn (§ 57 AktG)
 **Risiko:** Ruckforderungsanspruch gegen FraktoMedis SE; Haftung des Vorstands.  
-**Massnahme:** Indemnity Verkaeufer; KuendigungZ-Regelung als Closing-Condition.  
+**Massnahme:** Indemnity Verkäufer; KuendigungZ-Regelung als Closing-Condition.  
 **Bewertung:** HIGH
 
-### Issue 9 — Change-of-Control-Klauseln in Lizenzvertraegen (IP)
-**Risiko:** Aufkuendigung lukrativer Lizenzvertraege durch Lizenznehmer.  
+### Issue 9 — Change-of-Control-Klauseln in Lizenzverträgen (IP)
+**Risiko:** Aufkuendigung lukrativer Lizenzverträge durch Lizenznehmer.  
 **Massnahme:** Konsensvereinbarungen mit Lizenznehmern vor Closing.  
 **Bewertung:** MEDIUM-HIGH
 
 ### Issue 10 — Altlastenverdacht Grundstueck Darmstadt-Nord
-**Risiko:** Sanierungskosten bis zu 3 Mio. EUR (Schadensschaetzung).  
-**Massnahme:** Phase-II-Umweltgutachten; Indemnity Verkaeufer; Kaufpreisanpassung.  
+**Risiko:** Sanierungskosten bis zu 3 Mio. EUR (Schadensschätzung).  
+**Massnahme:** Phase-II-Umweltgutachten; Indemnity Verkäufer; Kaufpreisanpassung.  
 **Bewertung:** MEDIUM
 
 ### Issue 11 — Produkthaftungsfall LG Frankfurt (2 O 8814/24)
@@ -78,7 +78,7 @@ Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal 
 **Bewertung:** MEDIUM
 
 ### Issue 13 — QMS Minor Non-Conformities (MDR)
-**Risiko:** Rueckzug der CE-Zertifizierung bei wiederholten Abweichungen.  
+**Risiko:** Rückzug der CE-Zertifizierung bei wiederholten Abweichungen.  
 **Massnahme:** Abstellungsberichte einfordern.  
 **Bewertung:** MEDIUM
 
@@ -94,8 +94,8 @@ Das vorliegende Red-Flag-Memorandum fasst die 14 kritischsten Befunde der Legal 
 Das LDD-Team empfiehlt: Transaktion fortfuhren, jedoch mit nachfolgenden Anpassungen:
 1. Kaufpreisreduktion um bis zu 8 Mio. EUR (Patentnichtigkeitsrisiko + Umwelt)
 2. Umfassendes Indemnity-Regime im SPA (alle RED/HIGH Issues)
-3. Zusaetzlicher Litigation-Escrow 4 Mio. EUR (neben Earn-Out-Escrow)
-4. US-Tochter vorlaeufig aus Asset-Scope ausklammern
+3. Zusätzlicher Litigation-Escrow 4 Mio. EUR (neben Earn-Out-Escrow)
+4. US-Tochter vorläufig aus Asset-Scope ausklammern
 5. Klamroth-Bericht Vorlage als harte Closing-Bedingung
 
 ---

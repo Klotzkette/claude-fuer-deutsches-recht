@@ -27,8 +27,8 @@ Geschaeftsmodell: SaaS-Plattform fuer Vermieter-Bonitaetsabfragen (12.400+ anges
 
 ## Vertretung
 
-Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH (Duesseldorf)
-Federfuehrend: RA Dr. Cornelius Specht (Datenschutzrecht)
+Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH (Düsseldorf)
+Federführend: RA Dr. Cornelius Specht (Datenschutzrecht)
 
 ## Aktenzeichen
 
@@ -44,18 +44,18 @@ Federfuehrend: RA Dr. Cornelius Specht (Datenschutzrecht)
 1. **Massenscanning / KI-Profiling** — ProspectScore Pro ohne wirksame Einwilligung (Art. 6 Abs. 1 DSGVO), Art. 22 DSGVO; LDI NRW-Verfahren Art. 58 DSGVO; Bussgelddroher bis 20 Mio. EUR
 2. **Sammelklage VDuG** — 8.200 Betroffene, immaterieller Schadensersatz Art. 82 DSGVO je 1.500 EUR (Gesamt 12,3 Mio. EUR), LG Essen 18 Mass 4/26
 3. **HinSchG-Meldung** — Drittlandsuebermittlung an Sundara Tech Pvt. Ltd. (Bengaluru) ohne Standarddatenschutzklauseln Art. 44 ff. DSGVO
-4. **DSFA-Versaeumnis** — Kein DSFA-Verfahren nach Art. 35 DSGVO fuer Hochrisiko-KI-Profiling
+4. **DSFA-Versäumnis** — Kein DSFA-Verfahren nach Art. 35 DSGVO für Hochrisiko-KI-Profiling
 5. **Auskunftsersuchen Art. 15 DSGVO** — Dr. Susanna Tannenbruck, Wibke Drostermann, Felix Kaltenbach (NDR Panorama)
-6. **Datenpanne Art. 33 DSGVO** — SQL-Injection CVE-2026-0188, 142.300 betroffene Datensaetze, versaeumte 72h-Meldung
+6. **Datenpanne Art. 33 DSGVO** — SQL-Injection CVE-2026-0188, 142.300 betroffene Datensätze, versäumte 72h-Meldung
 7. **Strafverfahren § 42 BDSG** — GF Schimmelpfennig-Drosthager (private Mieterauswahl Essen-Bredeney), StA Essen 12 Js 11.422/26
 
-## Aktenstuecke
+## Aktenstücke
 
 | Nr. | Datei | Inhalt |
 |-----|-------|--------|
 | 01 | `01_mandatsuebernahme-vollmacht.md` | Mandatsuebernahme und Vollmacht |
 | 02 | `02_sachverhaltserfassung-erstberatung.md` | Sachverhaltserfassung Erstberatung |
-| 03 | `03_dsgvo-pruefschema-art6-verarbeitungsgrundlagen.md` | Pruefschema Art. 6 DSGVO Verarbeitungsgrundlagen |
+| 03 | `03_dsgvo-pruefschema-art6-verarbeitungsgrundlagen.md` | Prüfschema Art. 6 DSGVO Verarbeitungsgrundlagen |
 | 04 | `04_art22-automatisierte-einzelentscheidung-prospectscor.md` | Art. 22 DSGVO Automatisierte Einzelentscheidung |
 | 05 | `05_dsfa-pruefung-art35-hochrisiko-ki.md` | DSFA Art. 35 DSGVO Hochrisiko-KI |
 | 06 | `06_drittlandsuebermittlung-art44-sundara-tech.md` | Drittlandsuebermittlung Art. 44 ff. DSGVO |
@@ -70,7 +70,7 @@ Federfuehrend: RA Dr. Cornelius Specht (Datenschutzrecht)
 | 15 | `15_strafrechtliche-verteidigung-par42-bdsg.md` | Strafverteidigung § 42 BDSG |
 | 16 | `16_auftragsverarbeitung-avv-sundara-tech.md` | Auftragsverarbeitung AVV Sundara Tech |
 | 17 | `17_technisch-organisatorische-massnahmen-tom.md` | Technisch-organisatorische Massnahmen |
-| 18 | `18_betroffenenrechte-widerspruch-loeschung.md` | Betroffenenrechte Widerspruch / Loeschung |
+| 18 | `18_betroffenenrechte-widerspruch-loeschung.md` | Betroffenenrechte Widerspruch / Löschung |
 | 19 | `19_iso27001-tisax-compliance-gap-analyse.md` | ISO 27001 / TISAX Gap-Analyse |
 | 20 | `20_prozessstrategie-gesamtkoordination.md` | Prozessstrategie Gesamtkoordination |
 | 21 | `21_verfassungsbeschwerde-skizze-bussgeldbescheid.md` | Verfassungsbeschwerde-Skizze Bussgeldbescheid |
@@ -80,10 +80,10 @@ Federfuehrend: RA Dr. Cornelius Specht (Datenschutzrecht)
 
 | Ordner | Inhalt |
 |--------|--------|
-| `docx/` | Schriftsaetze: Stellungnahme LDI NRW, Klageerwiderung VDuG, Verfassungsbeschwerde-Skizze |
+| `docx/` | Schriftsätze: Stellungnahme LDI NRW, Klageerwiderung VDuG, Verfassungsbeschwerde-Skizze |
 | `xlsx/` | Verarbeitungsverzeichnis VVT Art. 30 DSGVO; Bussgeldbemessungs-Matrix Art. 83 |
 | `eml/` | E-Mails an LDI NRW, Sundara Tech, HinSchG-Meldestelle, Betroffene Tannenbruck |
-| `pdfs/` | LDI-Anhoerungsschreiben (redacted); Penetrationstest-Bericht-Auszug (redacted) |
+| `pdfs/` | LDI-Anhörungsschreiben (redacted); Penetrationstest-Bericht-Auszug (redacted) |
 | `jpg/` | Architektur-Diagramm ProspectScore Pro; Bussgeld-Bemessungs-Diagramm; DSFA-Workflow |
 
 ## Quellen und Rechtsgrundlagen

@@ -8,23 +8,23 @@
 
 ## Kontext
 
-Der russische Angriff auf die Ukraine (2022) und die nachfolgende Energiepreiskrise haben den deutschen Solarenergiesektor stark beeinflusst — sowohl positiv (gestiegene Einspeisepreise, politischer Rueckenwind) als auch negativ (gestiegene Beschaffungskosten, Inflation). Die MAC-Klausel des SPA muss diesen Kontext abbilden.
+Der russische Angriff auf die Ukraine (2022) und die nachfolgende Energiepreiskrise haben den deutschen Solarenergiesektor stark beeinflusst — sowohl positiv (gestiegene Einspeisepreise, politischer Rückenwind) als auch negativ (gestiegene Beschaffungskosten, Inflation). Die MAC-Klausel des SPA muss diesen Kontext abbilden.
 
-Hintergrund: Volkenrath Solar Eppendorf GmbH operiert nach festem EEG-Einspeisevergütungsregime (Festpreis), ist daher weniger marktpreissensitiv als ein Spot-Market-Teilnehmer. Dieses Argument stuetzt breite Energiemarkt-Carve-outs fuer Verkaeufer.
+Hintergrund: Volkenrath Solar Eppendorf GmbH operiert nach festem EEG-Einspeisevergütungsregime (Festpreis), ist daher weniger marktpreissensitiv als ein Spot-Market-Teilnehmer. Dieses Argument stützt breite Energiemarkt-Carve-outs für Verkäufer.
 
 ---
 
 ## Optionen MAC-Klausel-Formulierung
 
-### Option A — Breite Kaeufer-Definition (Ausgangspunkt Gegenseite)
+### Option A — Breite Käufer-Definition (Ausgangspunkt Gegenseite)
 
 "'Material Adverse Change' or 'MAC' means any change, event, circumstance, occurrence or development that, individually or in the aggregate, has had or would reasonably be expected to have a material adverse effect on (a) the business, properties, assets, liabilities, financial condition or results of operations of the Target Company, taken as a whole, or (b) the ability of Seller to consummate the transactions contemplated by this Agreement."
 
-**Bewertung:** Sehr weit; kein Carve-out. Fuer Verkaeufer inakzeptabel, da allgemeine Markt­schwankungen, regulatorische Aenderungen und externe Energiekrisen erfasst wuerden.
+**Bewertung:** Sehr weit; kein Carve-out. Für Verkäufer inakzeptabel, da allgemeine Markt­schwankungen, regulatorische Änderungen und externe Energiekrisen erfasst würden.
 
 ### Option B — Standard-MAC mit moderaten Carve-outs (Kompromissposition)
 
-Empfohlen als Verkaeufer-Gegenvorschlag zu Draft 2:
+Empfohlen als Verkäufer-Gegenvorschlag zu Draft 2:
 
 ```
 "Material Adverse Change" means any event, change, circumstance or effect
@@ -51,15 +51,15 @@ a Material Adverse Change has occurred:
 (vi)  actions taken by Buyer or at Buyer's written request or consent.
 ```
 
-**Bewertung:** Marktstandard. Umfasst die wichtigsten Carve-outs. Clause (ii) schützt Verkaeufer vor Energiemarktrisiken; Disproportionality-Carve-out ("unless disproportionately affecting") begrenzt Missbrauch.
+**Bewertung:** Marktstandard. Umfasst die wichtigsten Carve-outs. Clause (ii) schützt Verkäufer vor Energiemarktrisiken; Disproportionality-Carve-out ("unless disproportionately affecting") begrenzt Missbrauch.
 
-### Option C — Enge Verkaeufer-Definition (maximale Schutzposition)
+### Option C — Enge Verkäufer-Definition (maximale Schutzposition)
 
 MAC nur bei spezifisch targetbezogenen Ereignissen, nicht bei Branchentrends:
 
 "MAC requires that the adverse effect has been caused solely by events specific and exclusive to the Target Company's own operations, assets or legal status, and shall expressly exclude any general industry, market or macro-economic developments."
 
-**Bewertung:** Zu restriktiv fuer Kaeufer; kaum durchsetzbar. Nur als Ausgangsposition.
+**Bewertung:** Zu restriktiv für Käufer; kaum durchsetzbar. Nur als Ausgangsposition.
 
 ---
 
@@ -67,20 +67,20 @@ MAC nur bei spezifisch targetbezogenen Ereignissen, nicht bei Branchentrends:
 
 Verkaeuferseite sollte **Option B** als Gegenvorschlag einsetzen. Besonderes Augenmerk auf:
 
-1. **Disproportionality-Carve-out**: Formulierung "unless disproportionately affecting the Target Company" ist Kompromiss zwischen Verkaeufer- und Kaeuferinteresse — unbedingt beibehalten.
+1. **Disproportionality-Carve-out**: Formulierung "unless disproportionately affecting the Target Company" ist Kompromiss zwischen Verkäufer- und Käuferinteresse — unbedingt beibehalten.
 
 2. **Announcement-Carve-out**: Clause (v) schützt vor Ansprüchen wegen Kundenfluktuation nach Bekanntgabe der Transaktion — nicht weglassen.
 
-3. **"Material"**: Schwelle fuer MAC sollte sehr hoch sein. Richtwert in Rechtsprechung: mindestens 25% EBITDA-Rückgang über zwei Quartale. Im SPA ausdrücklich verankern oder undefiniert lassen (dann: allgemeines Verstaendnis).
+3. **"Material"**: Schwelle für MAC sollte sehr hoch sein. Richtwert in Rechtsprechung: mindestens 25% EBITDA-Rückgang über zwei Quartale. Im SPA ausdrücklich verankern oder undefiniert lassen (dann: allgemeines Verständnis).
 
 ---
 
-## Energiemarkt-spezifische Erwaegungen
+## Energiemarkt-spezifische Erwägungen
 
 | Risiko | Carve-out in Option B | Kommentar |
 |---|---|---|
-| Allgemeiner Strompreisabfall | Ja (Clause ii) | SPV in EEG-Festpreisregime — tatsaechlich kein Risiko |
+| Allgemeiner Strompreisabfall | Ja (Clause ii) | SPV in EEG-Festpreisregime — tatsächlich kein Risiko |
 | EEG-Novelle (Vergütungskürzung) | Ja (Clause iii) | Gesetzgebungsrisiko ausgenommen |
-| Netzengpass / Abregelungen | Nein | Operatives Risiko SPV; DD-Ergebnis pruefen |
+| Netzengpass / Abregelungen | Nein | Operatives Risiko SPV; DD-Ergebnis prüfen |
 | Ausfall Solarmodule (technisch) | Nein | Unternehmensspezifisch; Warranty erforderlich |
 | Insolvenz SolarService GmbH | Nein | Vertragsrisiko; Disclosure aufnehmen |

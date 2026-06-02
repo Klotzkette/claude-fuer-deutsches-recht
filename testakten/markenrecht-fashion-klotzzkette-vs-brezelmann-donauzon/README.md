@@ -82,7 +82,7 @@ Koordination: P. Forsythe-Vanderhof
 | 14.01.2026 | Detektei Spürnase-Couture mandatiert; Erstkontakt US-Kanzlei Whitman Brennan |
 | 17.–20.01.2026 | Beobachtungsphase durch Spürnase-Couture (3 Filialen + Lager Königshofen) |
 | 22.01.2026 | Abmahnung an Brezelmann Discount KG (Frist: 06.02.2026) |
-| 04.02.2026 | Fax-Antwort Brezelmann (frech, Erschöpfungseinwand, keine UE) |
+| 04.02.2026 | Fax-Antwort Brezelmann (frech, Erschöpfungseinwand, keine Ü) |
 | 11.02.2026 | EUIPO-Widerspruch B 4 187 932 ./. UAB klotzkettie |
 | 11.03.2026 | Antragsschrift eV + Beschluss LG Frankfurt 2-03 O 412/26 (selber Tag) |
 | 12.03.2026 | Vollziehung auf Pitti Uomo, Florenz (Stand B-44): 621+ Artikel beschlagnahmt |
@@ -124,8 +124,8 @@ Koordination: P. Forsythe-Vanderhof
 | Dateiname | Typ | Inhalt | Besonderheit |
 |---|---|---|---|
 | `Aktenvermerk_Erstkontakt_Markenportfolio_2026-01-12.pdf` | PDF | Aktenvermerk Erstkontakt 12.01.2026 + vollständige Markenportfolio-Tabelle (18 Schutzrechte) + Aktenzeichenverzeichnis | Handschriftliche Randnotiz Dr. Steinacker; Streitwertübersicht |
-| `Abmahnung_Brezelmann_2026-01-22.pdf` | PDF | Anwaltsschreiben Steinacker Lichtenberg → Brezelmann Discount KG + Anlage K 3 (Unterlassungserklärung) | 2,5-fache Geschäftsgebühr EUR 12.471,40; UE nicht unterschrieben zurückgesandt |
-| `Fax_Brezelmann_Antwort_2026-02-04.pdf` | PDF | Fax-Antwort Egon Brezelmann (Großbuchstaben, polemisch) | Erschöpfungseinwand; Ablehnung UE; Ankündigung neg. Feststellungsklage |
+| `Abmahnung_Brezelmann_2026-01-22.pdf` | PDF | Anwaltsschreiben Steinacker Lichtenberg → Brezelmann Discount KG + Anlage K 3 (Unterlassungserklärung) | 2,5-fache Geschäftsgebühr EUR 12.471,40; Ü nicht unterschrieben zurückgesandt |
+| `Fax_Brezelmann_Antwort_2026-02-04.pdf` | PDF | Fax-Antwort Egon Brezelmann (Großbuchstaben, polemisch) | Erschöpfungseinwand; Ablehnung Ü; Ankündigung neg. Feststellungsklage |
 | `Antragsschrift_EV_LG_Frankfurt_2026-03-11.pdf` | PDF | Antragsschrift auf einstweilige Verfügung LG Frankfurt 2-03 O 412/26 (ohne mündliche Verhandlung, § 937 Abs. 2 ZPO) | Dringlichkeit durch Pitti Uomo; Streitwert EUR 1.200.000 |
 | `Beschluss_EV_LG_Frankfurt_2-03-O-412-26.pdf` | PDF | Beschluss des LG Frankfurt vom 11.03.2026: Unterlassung + Sequester Dr. Maletti + Ordnungsgeld bis EUR 250.000 | Am selben Tag erlassen wie die Antragsschrift |
 | `GV_Protokoll_Pitti_Uomo_Zwangsvollstreckung_2026-03-12.pdf` | PDF | Vollziehungsprotokoll Tribunale Firenze / GV Sartori: Beschlagnahme Stand B-44 Pitti Uomo (621+ Artikel, Warenwert EUR 8.175,82) | Art. 39 EuGVVO (Brüssel Ia); Carabinieri anwesend |

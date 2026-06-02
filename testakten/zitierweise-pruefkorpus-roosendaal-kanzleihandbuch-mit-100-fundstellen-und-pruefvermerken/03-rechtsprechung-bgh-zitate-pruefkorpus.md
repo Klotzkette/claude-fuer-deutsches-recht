@@ -8,13 +8,13 @@
 
 ## Vorbemerkung
 
-Dieser Abschnitt enthaelt 20 BGH-Fundstellen des Pruefkorpus (Nr. 19–38). Quellenbasis: bundesgerichtshof.de (amtlich), dejure.org (frei zugaenglich). BeckRS-Fundstellen werden gesperrt, sofern kein Lizenzzugang dokumentiert ist.
+Dieser Abschnitt enthält 20 BGH-Fundstellen des Pruefkorpus (Nr. 19–38). Quellenbasis: bundesgerichtshof.de (amtlich), dejure.org (frei zugänglich). BeckRS-Fundstellen werden gesperrt, sofern kein Lizenzzugang dokumentiert ist.
 
 ---
 
 ## Fundstelle 19 — BGHZ 51, 91 — Hueneklump-Schlachthof (Lehrbeispiel)
 
-**Hinweis:** Diese Entscheidung ist ein Lehrbeispiel fuer Pruefkorpus-Zwecke. BGHZ 51, 91 ist eine reale Fundstelle in der amtlichen Sammlung; der Zusatz "Hueneklump-Schlachthof" dient der internen Kenntlichmachung als Prueffall.
+**Hinweis:** Diese Entscheidung ist ein Lehrbeispiel für Pruefkorpus-Zwecke. BGHZ 51, 91 ist eine reale Fundstelle in der amtlichen Sammlung; der Zusatz "Hueneklump-Schlachthof" dient der internen Kenntlichmachung als Prüffall.
 
 **Entscheidung:** BGH, Urt. v. 27.01.1969, Az. II ZR 64/67
 **Amtliche Sammlung:** BGHZ 51, 91
@@ -26,7 +26,7 @@ BGH, Urt. v. 27.01.1969, Az. II ZR 64/67, BGHZ 51, 91 (94).
 **Kurzzitat:**
 BGHZ 51, 91 (94).
 
-**Pruefvermerk:** Kein Pruefvermerk erforderlich. Amtliche Sammlung vorhanden.
+**Prüfvermerk:** Kein Prüfvermerk erforderlich. Amtliche Sammlung vorhanden.
 
 ---
 
@@ -42,7 +42,7 @@ BGH, Urt. v. 21.12.2021, Az. VI ZR 48/21, BGHZ 232, 133 (Rn. 18), NJW 2022, 1238
 **Kurzzitat:**
 BGHZ 232, 133 (Rn. 18).
 
-**Pruefvermerk:** Kein Pruefvermerk. Mehrfach-Fundstelle: BGHZ vor NJW — Rangfolge korrekt.
+**Prüfvermerk:** Kein Prüfvermerk. Mehrfach-Fundstelle: BGHZ vor NJW — Rangfolge korrekt.
 
 ---
 
@@ -51,8 +51,8 @@ BGHZ 232, 133 (Rn. 18).
 **Fehlerhaftes Zitat (Entwurf Mitarbeiter):**
 BGH, Beschl. v. 08.03.2022, Az. XIII ZB 34/21, BeckRS 2022, 6789.
 
-**[PRUEFVERMERK — BeckRS-SPERRE (PV-BR)]**
-BeckRS 2022, 6789 nicht verifizierbar ohne Lizenzzugang. Pruefe:
+**[PRÜFVERMERK — BeckRS-SPERRE (PV-BR)]**
+BeckRS 2022, 6789 nicht verifizierbar ohne Lizenzzugang. Prüfe:
 - bundesgerichtshof.de: https://www.bundesgerichtshof.de (Suchmaske)
 - dejure.org: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.03.2022&Aktenzeichen=XIII+ZB+34%2F21
 
@@ -72,7 +72,7 @@ BGH, Urt. v. 14.02.1958, Az. I ZR 151/56, BGHZ 26, 349 (353).
 **Kurzzitat:**
 BGHZ 26, 349 (353).
 
-**Pruefvermerk:** Kein Pruefvermerk. Historische Entscheidung; keine URL erforderlich (Entscheidung nicht online abrufbar).
+**Prüfvermerk:** Kein Prüfvermerk. Historische Entscheidung; keine URL erforderlich (Entscheidung nicht online abrufbar).
 
 ---
 
@@ -88,7 +88,7 @@ BGH, Urt. v. 12.05.2022, Az. III ZR 234/21, NJW 2022, 2187 (2188), abrufbar unte
 **Kurzzitat:**
 BGH NJW 2022, 2187 (2188).
 
-**Pruefvermerk:** Kein Pruefvermerk. Keine BGHZ-Aufnahme: NJW tritt an erste Stelle, dejure-URL vorhanden — korrekt.
+**Prüfvermerk:** Kein Prüfvermerk. Keine BGHZ-Aufnahme: NJW tritt an erste Stelle, dejure-URL vorhanden — korrekt.
 
 ---
 
@@ -97,8 +97,8 @@ BGH NJW 2022, 2187 (2188).
 **Fehlerhaftes Zitat (Entwurf Mitarbeiter):**
 BGH, Urt. v. 05.10.2021, Az. VI ZR 136/20, NJW 2022, 52.
 
-**[PRUEFVERMERK — URL FEHLT (PV-URL)]**
-Die Entscheidung ist frei zugaenglich unter dejure.org. Die URL-Angabe ist gemaess Hauszitierregel A.1 Abs. 6 Pflicht.
+**[PRÜFVERMERK — URL FEHLT (PV-URL)]**
+Die Entscheidung ist frei zugänglich unter dejure.org. Die URL-Angabe ist gemaess Hauszitierregel A.1 Abs. 6 Pflicht.
 
 **Korrigiertes Zitat:**
 BGH, Urt. v. 05.10.2021, Az. VI ZR 136/20, NJW 2022, 52 (54), abrufbar unter: https://dejure.org/2021,40004 (abgerufen am 01.10.2025).
@@ -107,7 +107,7 @@ BGH, Urt. v. 05.10.2021, Az. VI ZR 136/20, NJW 2022, 52 (54), abrufbar unter: ht
 
 ## Fundstelle 25–38 — Weitere BGH-Entscheidungen (Kurzformat)
 
-| Nr. | Datum | Az. | Fundstelle | dejure-URL | Pruefvermerk |
+| Nr. | Datum | Az. | Fundstelle | dejure-URL | Prüfvermerk |
 |---|---|---|---|---|---|
 | 25 | 25.10.2011 | XI ZR 401/10 | BGHZ 191, 119; NJW 2012, 60 | https://dejure.org/2011,27699 | keiner |
 | 26 | 17.06.2014 | VI ZR 281/13 | NJW 2014, 2568 | https://dejure.org/2014,17316 | keiner |
@@ -126,4 +126,4 @@ BGH, Urt. v. 05.10.2021, Az. VI ZR 136/20, NJW 2022, 52 (54), abrufbar unter: ht
 
 ---
 
-*Pruefkorpus-Abschnitt BGH: 20 Fundstellen geprueft (Nr. 19–38). Pruefvermerke: 2 (PV-BR Nr. 21, PV-URL Nr. 24). Stand: Oktober 2025.*
+*Pruefkorpus-Abschnitt BGH: 20 Fundstellen geprüft (Nr. 19–38). Prüfvermerke: 2 (PV-BR Nr. 21, PV-URL Nr. 24). Stand: Oktober 2025.*

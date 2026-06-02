@@ -28,7 +28,7 @@ für den Berichtszeitraum 22.08.2024 bis 30.09.2024.
 
 ## 1. Verfahrenseinleitung und Besitzübernahme
 
-Der Anordnungsbeschluss ist mir am 22.08.2024 zugestellt worden. Mit der Komplementärin der Schuldnerin (vertreten durch Frau Marlene Sturm-Hagen) habe ich für den 28.08.2024 einen Übergabetermin vor Ort vereinbart. Die Besitzübernahme verlief geordnet (Protokoll 02_Besitzuebernahmeprotokoll_28-08-2024).
+Der Anordnungsbeschluss ist mir am 22.08.2024 zugestellt worden. Mit der Komplementärin der Schuldnerin (vertreten durch Frau Marlene Sturm-Hagen) habe ich für den 28.08.2024 einen Übergabetermin vor Ort vereinbart. Die Besitzübernahme verlief geordnet (Protokoll 02_Besitzübernahmeprotokoll_28-08-2024).
 
 Der Zwangsverwaltungsvermerk wurde am 06.09.2024 im Grundbuch des Amtsgerichts Mitte von Berlin Blatt 27841, Abteilung II, eingetragen. Eine entsprechende Mitteilung des Grundbuchamts liegt vor.
 

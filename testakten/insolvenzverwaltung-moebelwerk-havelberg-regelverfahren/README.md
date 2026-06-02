@@ -70,9 +70,9 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 
 | Datei | Inhalt |
 |---|---|
-| [01_bestellung_vorlaeufiger_iv.md](01_bestellung_vorlaeufiger_iv.md) | Gerichtsbeschluss zur Bestellung der vorläufigen IV; allgemeines Verfügungsverbot (§§ 21, 22 InsO) |
-| [01_bestellung_vorlaeufiger_iv.docx](01_bestellung_vorlaeufiger_iv.docx) | DOCX-Fassung des Bestellungsbeschlusses |
-| [02_eroeffnungsantrag_glaeubiger.md](02_eroeffnungsantrag_glaeubiger.md) | Vollständiger Gläubigerantrag Furnier Nord GmbH mit Forderungsnachweis und Insolvenzgründen |
+| [01_bestellung_vorläufiger_iv.md](01_bestellung_vorlaeufiger_iv.md) | Gerichtsbeschluss zur Bestellung der vorläufigen IV; allgemeines Verfügungsverbot (§§ 21, 22 InsO) |
+| [01_bestellung_vorläufiger_iv.docx](01_bestellung_vorlaeufiger_iv.docx) | DOCX-Fassung des Bestellungsbeschlusses |
+| [02_eroeffnungsantrag_gläubiger.md](02_eroeffnungsantrag_glaeubiger.md) | Vollständiger Gläubigerantrag Furnier Nord GmbH mit Forderungsnachweis und Insolvenzgründen |
 | [03_schuldnerfragebogen.md](03_schuldnerfragebogen.md) | Aufnahme Schuldnerfragebogen: Betrieb, Personal, Banken, Verbindlichkeiten, Aktiva, Buchführung, Eigenverwaltungswunsch |
 | [04_liquiditaetsstatus_bank_opos.csv](04_liquiditaetsstatus_bank_opos.csv) | Wöchentlicher Liquiditätsstatus (April–August 2026); Bankguthaben, fällige Verbindlichkeiten, Lücke |
 | [05_anlageverzeichnis_maschinen.md](05_anlageverzeichnis_maschinen.md) | Vollständiges Anlageverzeichnis (Maschinen, Fahrzeuge, Büro/IT) mit Buchwerten, Erlösschätzungen, Sicherheiten |

@@ -10,7 +10,7 @@
 
 ### Grenzjahr 2021/2022
 
-Ab der 81. Auflage (Erscheinungsjahr 2022) traegt der BGB-Kommentar den Kurztitel **Gruenenberg** (nach dem Herausgeber Prof. Dr. Christian Grueneberg). Alle Auflagen bis einschliesslich der 80. Auflage (Erscheinungsjahr 2021) werden weiterhin als **Palandt** zitiert.
+Ab der 81. Auflage (Erscheinungsjahr 2022) trägt der BGB-Kommentar den Kurztitel **Gruenenberg** (nach dem Herausgeber Prof. Dr. Christian Grueneberg). Alle Auflagen bis einschliesslich der 80. Auflage (Erscheinungsjahr 2021) werden weiterhin als **Palandt** zitiert.
 
 | Auflage | Erscheinungsjahr | Kurztitel | Beispiel-Zitat |
 |---|---|---|---|
@@ -29,7 +29,7 @@ Ab der 81. Auflage (Erscheinungsjahr 2022) traegt der BGB-Kommentar den Kurztite
 **Zitat:**
 Gruenenberg/Ellenberger, BGB, 83. Aufl. 2024, § 242 Rn. 27.
 
-**Pruefvermerk:** Kein Pruefvermerk. Kurztitel Gruenenberg fuer 83. Auflage 2024 korrekt.
+**Prüfvermerk:** Kein Prüfvermerk. Kurztitel Gruenenberg für 83. Auflage 2024 korrekt.
 
 ---
 
@@ -38,7 +38,7 @@ Gruenenberg/Ellenberger, BGB, 83. Aufl. 2024, § 242 Rn. 27.
 **Zitat:**
 Palandt/Groeneberg, BGB, 80. Aufl. 2021, § 823 Rn. 45.
 
-**Pruefvermerk:** Kein Pruefvermerk. Kurztitel Palandt fuer 80. Auflage 2021 korrekt.
+**Prüfvermerk:** Kein Prüfvermerk. Kurztitel Palandt für 80. Auflage 2021 korrekt.
 
 ---
 
@@ -47,7 +47,7 @@ Palandt/Groeneberg, BGB, 80. Aufl. 2021, § 823 Rn. 45.
 **Fehlerhaftes Zitat (Entwurf Mitarbeiterin):**
 Palandt/Grueneberg, BGB, 82. Aufl. 2023, § 313 Rn. 5.
 
-**[PRUEFVERMERK — PALANDT/GRUENENBERG-VERWECHSLUNG (PV-PG)]**
+**[PRÜFVERMERK — PALANDT/GRUENENBERG-VERWECHSLUNG (PV-PG)]**
 Die 82. Auflage (Erscheinungsjahr 2023) ist unter dem Kurztitel Gruenenberg zu zitieren, nicht Palandt. Fehler der Kategorie A (schwerwiegend — Autorenschafts-Fehler).
 
 **Korrigiertes Zitat:**
@@ -60,7 +60,7 @@ Gruenenberg/Roehl, BGB, 82. Aufl. 2023, § 313 Rn. 5.
 **Fehlerhaftes Zitat:**
 Gruenenberg/Ellenberger, BGB, 79. Aufl. 2020, § 305 Rn. 11.
 
-**[PRUEFVERMERK — PALANDT/GRUENENBERG-VERWECHSLUNG (PV-PG)]**
+**[PRÜFVERMERK — PALANDT/GRUENENBERG-VERWECHSLUNG (PV-PG)]**
 Die 79. Auflage (Erscheinungsjahr 2020) ist unter dem Kurztitel Palandt zu zitieren.
 
 **Korrigiertes Zitat:**
@@ -68,12 +68,12 @@ Palandt/Ellenberger, BGB, 79. Aufl. 2020, § 305 Rn. 11.
 
 ---
 
-### Fundstelle 55 — Muenchener Kommentar BGB
+### Fundstelle 55 — Münchener Kommentar BGB
 
 **Zitat:**
 MuKoBGB/Busche, BGB, 9. Aufl. 2021, § 119 Rn. 22.
 
-**Pruefvermerk:** Kein Pruefvermerk. Muenchener Kommentar: Kurztitel MuKoBGB, Herausgeber-Kurztitel entfaellt, Bearbeiter-Angabe erforderlich.
+**Prüfvermerk:** Kein Prüfvermerk. Münchener Kommentar: Kurztitel MuKoBGB, Herausgeber-Kurztitel entfällt, Bearbeiter-Angabe erforderlich.
 
 ---
 
@@ -82,16 +82,16 @@ MuKoBGB/Busche, BGB, 9. Aufl. 2021, § 119 Rn. 22.
 **Zitat:**
 Staudinger/Schwarze, BGB (2021), § 280 Rn. 220.
 
-**Pruefvermerk:** Kein Pruefvermerk. Staudinger: Erscheinungsjahr statt Auflage, da Einzellieferungen.
+**Prüfvermerk:** Kein Prüfvermerk. Staudinger: Erscheinungsjahr statt Auflage, da Einzellieferungen.
 
 ---
 
-### Fundstelle 57 — Schoenfelder-Kommentar (Sammelwerk)
+### Fundstelle 57 — Schönfelder-Kommentar (Sammelwerk)
 
 **Zitat:**
 Schmidt-Futterer/Eisenschmid, MietR, 16. Aufl. 2024, § 559 BGB Rn. 45.
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -102,7 +102,7 @@ BeckOK BGB/Sutschet, 69. Ed. 1.8.2024, § 241 Rn. 10.
 
 **Hinweis:** Der BeckOK BGB wird nach Editon und Datum des Stands zitiert, nicht nach Erscheinungsjahr.
 
-**[PRUEFVERMERK — BeckRS-SPERRE-ANALOGIE (PV-BR)]**
+**[PRÜFVERMERK — BeckRS-SPERRE-ANALOGIE (PV-BR)]**
 BeckOK-Quellen sind lizenzpflichtig (Beck-Online). Ohne nachgewiesenen Lizenzzugang keine Ausgabe des Vollzitats. Fundstelle muss manuell verifiziert werden.
 
 ---
@@ -112,7 +112,7 @@ BeckOK-Quellen sind lizenzpflichtig (Beck-Online). Ohne nachgewiesenen Lizenzzug
 **Fehlerhaftes Zitat:**
 Gruenenberg, BGB, 83. Aufl. 2024, § 535 Rn. 3.
 
-**[PRUEFVERMERK — UNVOLLSTAENDIGES ZITAT (PV-UV)]**
+**[PRÜFVERMERK — UNVOLLSTÄNDIGES ZITAT (PV-UV)]**
 Bearbeiter-Angabe fehlt. Bei Kommentaren mit benannten Einzelbearbeitern ist der Bearbeiter anzugeben.
 
 **Korrigiertes Zitat:**
@@ -125,7 +125,7 @@ Gruenenberg/Weidenkaff, BGB, 83. Aufl. 2024, § 535 Rn. 3.
 **Zitat:**
 KK-StPO/Schneider, StPO, 9. Aufl. 2023, § 152 Rn. 7.
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -136,7 +136,7 @@ Tipke/Kruse/Druen, AO/FGO, 178. Lfg. 2024, § 90 AO Rn. 15.
 
 **Hinweis:** Bei Loseblattkommentaren ist die Lieferungs-Nummer anzugeben, nicht das Jahr als Auflage.
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -145,7 +145,7 @@ Tipke/Kruse/Druen, AO/FGO, 178. Lfg. 2024, § 90 AO Rn. 15.
 **Zitat:**
 KR/Rachor, KSchG, 13. Aufl. 2022, § 1 KSchG Rn. 204.
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -153,10 +153,10 @@ KR/Rachor, KSchG, 13. Aufl. 2022, § 1 KSchG Rn. 204.
 
 | Fundstelle | Fehlertyp | Kategorie | Korrekturaufwand |
 |---|---|---|---|
-| 53 | Palandt statt Gruenenberg fuer 2023 | A — schwerwiegend | Kurztitel tauschen |
-| 54 | Gruenenberg statt Palandt fuer 2020 | A — schwerwiegend | Kurztitel tauschen |
+| 53 | Palandt statt Gruenenberg für 2023 | A — schwerwiegend | Kurztitel tauschen |
+| 54 | Gruenenberg statt Palandt für 2020 | A — schwerwiegend | Kurztitel tauschen |
 
-**Gesamtbewertung Kommentar-Abschnitt:** 12 Fundstellen geprueft. 2 Fehler Kategorie A (PV-PG). 1 Fehler Kategorie B (PV-UV). 1 Sperr-Hinweis BeckOK (PV-BR).
+**Gesamtbewertung Kommentar-Abschnitt:** 12 Fundstellen geprüft. 2 Fehler Kategorie A (PV-PG). 1 Fehler Kategorie B (PV-UV). 1 Sperr-Hinweis BeckOK (PV-BR).
 
 ---
 

@@ -14,7 +14,7 @@
 **Objekt:** Einfamilienhaus mit Garten und Garage, Sonnenbergstraße 38a, 70195 Stuttgart-Degerloch
 **Grundbuch:** Grundbuch Degerloch, Blatt 1144, Flurstück 4892/7
 **Grundbuchstand:** Eigentümer: Prof. Dr. Reinhard Edelmann, eingetragen 2004. Keine Grundschulden, keine Dienstbarkeiten eingetragen (Stand: Grundbuchauszug angefordert; laut mündl. Auskunft Grundbuchamt vom 06.05.2025 keine Belastungen).
-**Bewertung:** Erstes Kurzgutachten Sachverständigenbüro Bender & Moerser, Stuttgart, vom 02.05.2025: **1.850.000 EUR**. Bewertungsgrundlage: Sachwertverfahren, ergänzt Vergleichswerte; Degerloch Hanglage, Baujahr 1962, Renovierungsstand gut, ca. 210 qm Wohnfläche, Grundstück 720 qm.
+**Bewertung:** Erstes Kurzgutachten Sachverständigenbüro Bender & Mörser, Stuttgart, vom 02.05.2025: **1.850.000 EUR**. Bewertungsgrundlage: Sachwertverfahren, ergänzt Vergleichswerte; Degerloch Hanglage, Baujahr 1962, Renovierungsstand gut, ca. 210 qm Wohnfläche, Grundstück 720 qm.
 **Korrektur für Pflichtteilsrechnung:** Wohnrechtsbarwert für Marlies (Lebenserwartung ca. 25 J., Jahresmietwert ca. 30.000 EUR, Zinssatz 3,5 %): ca. **350.000 EUR** (→ Aktenstück 06). Für den Pflichtteilsergänzungsanspruch ist das Grundstück ohne Wohnrechtsabzug zu bewerten (BGH 27.09.2002 IV ZR 54/01 zur Nichtabzugsfähigkeit des Wohnrechtsbarwerts bei Pflichtteilsergänzung). Streitpunkt offen.
 
 ### 1.2 Wertpapierdepot

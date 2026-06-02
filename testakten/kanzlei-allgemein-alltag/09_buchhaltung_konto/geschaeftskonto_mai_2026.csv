@@ -1,4 +1,4 @@
-Datum,Valuta,Betrag,Waehrung,Auftraggeber_Empfaenger,Verwendungszweck,Typ
+Datum,Valuta,Betrag,Währung,Auftraggeber_Empfänger,Verwendungszweck,Typ
 2026-05-20,2026-05-20,595.00,EUR,Alpha UG,"Teilzahlung Rechnung 0005",Eingang
 2026-05-21,2026-05-21,892.50,EUR,P Schneider,"Honorar April",Eingang
 2026-05-21,2026-05-21,418.88,EUR,C Meyer,"Meyer",Eingang

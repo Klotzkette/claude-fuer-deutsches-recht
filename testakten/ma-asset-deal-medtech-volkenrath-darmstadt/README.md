@@ -19,15 +19,15 @@ Diese Akte ist eine Demonstrations-Testakte fuer das Plugin `corporate-kanzlei`.
 
 ## Sachverhalt
 
-**Mandantin:** VENERA Investment Group GmbH (Frankfurt am Main), Family Office Familie Volkenrath, Geschaeftsfuehrerin Theodora Volkenrath-Eichelmann.
+**Mandantin:** VENERA Investment Group GmbH (Frankfurt am Main), Family Office Familie Volkenrath, Geschäftsführerin Theodora Volkenrath-Eichelmann.
 
-**Zielunternehmen / Verkaeuferin:** FraktoMedis SE (Darmstadt), Hersteller chirurgischer Frakturversorgungssysteme, ca. 280 Mitarbeiter, Jahresumsatz ca. 76 Mio. EUR, insolvenznahe Lage.
+**Zielunternehmen / Verkäuferin:** FraktoMedis SE (Darmstadt), Hersteller chirurgischer Frakturversorgungssysteme, ca. 280 Mitarbeiter, Jahresumsatz ca. 76 Mio. EUR, insolvenznahe Lage.
 
-**Transaktionsgegenstand:** Asset Deal — Erwerb des Geschaeftsbereichs "FraktoMedis Praezision" (ohne Holding-Huelse). Closing geplant: 31. Juli 2026.
+**Transaktionsgegenstand:** Asset Deal — Erwerb des Geschäftsbereichs "FraktoMedis Präzision" (ohne Holding-Hülse). Closing geplant: 31. Juli 2026.
 
 **Aktenzeichen:** BKartA B 8-188/26 | EU COMP M.11244 | AG Frankfurt HRB 4188 (Antrag)
 
-**Vertretung:** Drosselberg, Mannfeldt & Partner Rechtsanwaelte mbB (Frankfurt)
+**Vertretung:** Drosselberg, Mannfeldt & Partner Rechtsanwälte mbB (Frankfurt)
 — Federführend: RA Prof. Dr. Felix Mannfeldt (Corporate/M&A)
 — Antitrust: RAin Dr. Antonia von Wesselburen
 
@@ -36,9 +36,9 @@ Diese Akte ist eine Demonstrations-Testakte fuer das Plugin `corporate-kanzlei`.
 | Rolle | Person | Organisation |
 |---|---|---|
 | Mandantin GF | Theodora Volkenrath-Eichelmann | VENERA Investment Group GmbH |
-| Federfuehrender RA | Prof. Dr. Felix Mannfeldt | Drosselberg, Mannfeldt & Partner |
+| Federführender RA | Prof. Dr. Felix Mannfeldt | Drosselberg, Mannfeldt & Partner |
 | Antitrust | RAin Dr. Antonia von Wesselburen | Drosselberg, Mannfeldt & Partner |
-| Verkaeufer-Vertreter | Dr. Hannes Schwarzbeck (CFO) | FraktoMedis SE |
+| Verkäufer-Vertreter | Dr. Hannes Schwarzbeck (CFO) | FraktoMedis SE |
 | Notar | Dr. Veronika Geilenkirchen | Frankfurt am Main |
 | LDD-Kanzlei | Drosselberg, Mannfeldt & Partner | Frankfurt am Main |
 
@@ -59,7 +59,7 @@ VENERA Investment Group GmbH (Kaeufer)
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_mandatsannahme-konfliktpruefung.md` | Mandatsannahme und Interessenkonfliktpruefung |
+| 01 | `01_mandatsannahme-konfliktpruefung.md` | Mandatsannahme und Interessenkonfliktprüfung |
 | 02 | `02_nda-verhandlung.md` | NDA-Verhandlung und -Abschluss |
 | 03 | `03_loi-term-sheet.md` | Letter of Intent und Term Sheet |
 | 04 | `04_ldd-kick-off-corporate.md` | LDD Workstream Corporate |
@@ -75,7 +75,7 @@ VENERA Investment Group GmbH (Kaeufer)
 | 14 | `14_antitrust-bkarta.md` | Antitrust BKartA Phase I (B 8-188/26) |
 | 15 | `15_antitrust-eu-form-co.md` | EU-Fusionskontrolle Form CO (M.11244) |
 | 16 | `16_fcpa-doi-strafrechtsrisiko.md` | FCPA / DOJ-Subpoena / Strafrechtsrisiko |
-| 17 | `17_betriebsuebergang-613a-bgb.md` | Betriebsuebergang nach § 613a BGB |
+| 17 | `17_betriebsuebergang-613a-bgb.md` | Betriebsübergang nach § 613a BGB |
 | 18 | `18_sozialplan-verhandlung.md` | Sozialplan-Verhandlung Betriebsrat Darmstadt |
 | 19 | `19_earn-out-escrow.md` | Earn-Out-Komponente und Escrow-Konstruktion |
 | 20 | `20_conditions-precedent.md` | Conditions Precedent und Closing-Vorbereitung |
@@ -94,8 +94,8 @@ VENERA Investment Group GmbH (Kaeufer)
 
 ## Relevante Normen
 
-- BGB §§ 433 ff. (Kaufvertrag), § 613a (Betriebsuebergang), §§ 280 ff. (Haftung)
-- HGB §§ 25 ff. (Firmenfortfuehrung), §§ 238 ff. (Buchfuehrung)
+- BGB §§ 433 ff. (Kaufvertrag), § 613a (Betriebsübergang), §§ 280 ff. (Haftung)
+- HGB §§ 25 ff. (Firmenfortführung), §§ 238 ff. (Buchführung)
 - GWB §§ 35 ff. (Fusionskontrolle)
 - FKVO (EU) 139/2004 (EU-Fusionskontrolle)
 - AktG §§ 76, 93 (Vorstandspflichten)

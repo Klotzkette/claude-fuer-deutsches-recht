@@ -1,8 +1,8 @@
 # 19 AnfG-Klage gegen Helena Bischof-Renkert — Prozessuale Fragen
 
 **Aktenzeichen:** LG Bonn 4 O 188/26
-**Klaeger:** Trappenfels-Erbenkonsortium (RA Kuno Rethwisch-Möller)
-**Beklagte:** Helena Bischof-Renkert, Zahnaerztin Bonn
+**Kläger:** Trappenfels-Erbenkonsortium (RA Kuno Rethwisch-Möller)
+**Beklagte:** Helena Bischof-Renkert, Zahnärztin Bonn
 
 ---
 

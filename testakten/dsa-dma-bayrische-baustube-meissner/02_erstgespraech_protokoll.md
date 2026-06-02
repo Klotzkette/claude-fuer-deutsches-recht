@@ -2,7 +2,7 @@
 
 **Datum:** 02.04.2026, 14:30–17:10 Uhr
 **Ort:** Kanzlei Erlangen, Besprechungsraum "Frauenkirche"
-**Anwesend:** Dr. C. Hagenroth (Anwalt), F. Quasthoff-Pruegelmann (Sozia), W. Meißnerlein-Hochkönig (GF), R. Pfistermeier (Refrendarin, Protokoll)
+**Anwesend:** Dr. C. Hagenroth (Anwalt), F. Quasthoff-Prügelmann (Sozia), W. Meißnerlein-Hochkönig (GF), R. Pfistermeier (Refrendarin, Protokoll)
 
 ## Schilderung Frau Meißnerlein
 
@@ -28,7 +28,7 @@ Die Sperrmitteilung enthält den Vorwurf "Coordinated Inauthentic Behavior" und 
 
 ## Vereinbarte Schritte
 
-1. **Sofort:** Interne Beschwerde Art. 20 DSA über Plattform-Formular (RA'in Quasthoff-Pruegelmann mit Refrendarin Pfistermeier)
+1. **Sofort:** Interne Beschwerde Art. 20 DSA über Plattform-Formular (RA'in Quasthoff-Prügelmann mit Refrendarin Pfistermeier)
 2. **Bis 10.04.:** DSGVO-Auskunftsverlangen Art. 15 versenden
 3. **Bis 15.04.:** Beweissicherung (Screenshots, Wayback, Drittarchive)
 4. **Bis 20.04.:** Umsatzauswertung Quartal anfertigen lassen (Steuerberater Bödecke-Kratzert, Bamberg)

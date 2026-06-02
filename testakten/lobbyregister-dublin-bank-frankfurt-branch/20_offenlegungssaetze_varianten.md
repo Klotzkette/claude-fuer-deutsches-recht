@@ -2,16 +2,16 @@
 
 ## Variante empfohlen
 
-Ich spreche fuer die Emerald Liffey Bank plc, Dublin. Die Gespraeche in Deutschland werden teilweise durch unsere unselbststaendige Zweigniederlassung Frankfurt am Main gefuehrt. Gegenstand ist die Interessenvertretung zu Digital-Euro- und Zahlungsdienstevorhaben.
+Ich spreche für die Emerald Liffey Bank plc, Dublin. Die Gespräche in Deutschland werden teilweise durch unsere unselbstständige Zweigniederlassung Frankfurt am Main geführt. Gegenstand ist die Interessenvertretung zu Digital-Euro- und Zahlungsdienstevorhaben.
 
 ## Variante zu knapp
 
-Wir sind Emerald Liffey Frankfurt und wollen ueber den Digital Euro sprechen.
+Wir sind Emerald Liffey Frankfurt und wollen über den Digital Euro sprechen.
 
-**Problem:** Rechtstraeger unklar und Dublin fehlt.
+**Problem:** Rechtsträger unklar und Dublin fehlt.
 
 ## Variante zu breit
 
-Wir vertreten die europaeische Bankenbranche.
+Wir vertreten die europäische Bankenbranche.
 
 **Problem:** Nicht wahr; keine Verbandsvertretung, sondern Eigeninteresse der Bank.

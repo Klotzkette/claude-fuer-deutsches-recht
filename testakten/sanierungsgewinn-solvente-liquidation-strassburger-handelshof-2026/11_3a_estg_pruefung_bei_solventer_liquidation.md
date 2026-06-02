@@ -10,86 +10,86 @@
 
 ## 1. Frage
 
-Greift § 3a EStG (Steuerfreiheit des Sanierungsertrags) zu Gunsten der Strassburger Handelshof GmbH i.L., wenn aufgrund der Liquidation und Behandlung des nachrangigen Gesellschafterdarlehens ein Sanierungsertrag in Hoehe von 2,4 Mio. EUR entstehen sollte (Szenarien B und C)?
+Greift § 3a EStG (Steuerfreiheit des Sanierungsertrags) zu Gunsten der Strassburger Handelshof GmbH i.L., wenn aufgrund der Liquidation und Behandlung des nachrangigen Gesellschafterdarlehens ein Sanierungsertrag in Höhe von 2,4 Mio. EUR entstehen sollte (Szenarien B und C)?
 
 ## 2. Kurzantwort
 
-**Nein.** § 3a EStG greift nicht. Die Voraussetzung **Sanierungseignung** (§ 3a Abs. 2 EStG) ist im Mandatsfall **nicht erfuellt**. Eine reine Liquidation ist denklogisch nicht geeignet, das Unternehmen zu erhalten oder seine wirtschaftliche Leistungsfaehigkeit wiederherzustellen — sie ist deren Gegenteil. Ohne Sanierungseignung ist § 3a EStG nicht anwendbar; der Sanierungsertrag waere voll steuerpflichtig.
+**Nein.** § 3a EStG greift nicht. Die Voraussetzung **Sanierungseignung** (§ 3a Abs. 2 EStG) ist im Mandatsfall **nicht erfüllt**. Eine reine Liquidation ist denklogisch nicht geeignet, das Unternehmen zu erhalten oder seine wirtschaftliche Leistungsfähigkeit wiederherzustellen — sie ist deren Gegenteil. Ohne Sanierungseignung ist § 3a EStG nicht anwendbar; der Sanierungsertrag wäre voll steuerpflichtig.
 
 ## 3. Rechtliche Bewertung (Gutachtenstil)
 
 ### 3.1 Wortlaut § 3a Abs. 1 EStG
 
-> "Betriebsvermoegensmehrungen oder Betriebseinnahmen aus einem Schuldenerlass zum Zwecke einer unternehmensbezogenen Sanierung (Sanierungsertrag) sind steuerfrei."
+> "Betriebsvermögensmehrungen oder Betriebseinnahmen aus einem Schuldenerlass zum Zwecke einer unternehmensbezogenen Sanierung (Sanierungsertrag) sind steuerfrei."
 
-Die Steuerbefreiung knuepft an einen **Sanierungsertrag** an. Definitorisch: Mehrung aus einem Schuldenerlass, der eine **unternehmensbezogene Sanierung** bezweckt.
+Die Steuerbefreiung knüpft an einen **Sanierungsertrag** an. Definitorisch: Mehrung aus einem Schuldenerlass, der eine **unternehmensbezogene Sanierung** bezweckt.
 
-### 3.2 Wortlaut § 3a Abs. 2 EStG — Sanierungsbeguenstigung im engeren Sinne
+### 3.2 Wortlaut § 3a Abs. 2 EStG — Sanierungsbegünstigung im engeren Sinne
 
-> "Eine unternehmensbezogene Sanierung liegt vor, wenn der Steuerpflichtige fuer den Zeitpunkt des Schuldenerlasses die **Sanierungsbeduerftigkeit** und die **Sanierungsfaehigkeit** des Unternehmens, die **Sanierungseignung** des betrieblichen Schuldenerlasses und die **Sanierungsabsicht** der Glaeubiger nachweist."
+> "Eine unternehmensbezogene Sanierung liegt vor, wenn der Steuerpflichtige für den Zeitpunkt des Schuldenerlasses die **Sanierungsbedürftigkeit** und die **Sanierungsfähigkeit** des Unternehmens, die **Sanierungseignung** des betrieblichen Schuldenerlasses und die **Sanierungsabsicht** der Gläubiger nachweist."
 
 Vier kumulative Voraussetzungen:
 
-1. **Sanierungsbeduerftigkeit** des Unternehmens.
-2. **Sanierungsfaehigkeit** des Unternehmens.
+1. **Sanierungsbedürftigkeit** des Unternehmens.
+2. **Sanierungsfähigkeit** des Unternehmens.
 3. **Sanierungseignung** des Schuldenerlasses.
-4. **Sanierungsabsicht** der Glaeubiger.
+4. **Sanierungsabsicht** der Gläubiger.
 
 ### 3.3 Pruefung der vier Voraussetzungen
 
-#### 3.3.1 Sanierungsbeduerftigkeit
+#### 3.3.1 Sanierungsbedürftigkeit
 
-Die Strassburger Handelshof GmbH ist wirtschaftlich tot. Geschaeftsmodell zusammengebrochen, Lager abverkauft. Bilanziell ueberschuldet (auch wenn nicht im Sinne § 19 InsO). **Sanierungsbeduerftigkeit ist gegeben.**
+Die Strassburger Handelshof GmbH ist wirtschaftlich tot. Geschäftsmodell zusammengebrochen, Lager abverkauft. Bilanziell überschuldet (auch wenn nicht im Sinne § 19 InsO). **Sanierungsbedürftigkeit ist gegeben.**
 
-#### 3.3.2 Sanierungsfaehigkeit
+#### 3.3.2 Sanierungsfähigkeit
 
-Sanierungsfaehigkeit bedeutet: das Unternehmen koennte bei geeigneten Massnahmen *wirtschaftlich gesunden* und am Markt fortgefuehrt werden.
+Sanierungsfähigkeit bedeutet: das Unternehmen könnte bei geeigneten Massnahmen *wirtschaftlich gesunden* und am Markt fortgeführt werden.
 
-Hier liegt der Kern des Problems: Die Mandantin und ihr Beraterkreis haben uebereinstimmend festgestellt, dass das Geschaeftsmodell des B2B-Modegrosshandels in der bisherigen Form **endgueltig nicht mehr tragfaehig** ist. Die Kundenstruktur (inhabergefuehrte Boutiquen) ist um mehr als 50 % geschrumpft; die verbleibenden Kunden wandern in andere Vertriebskanaele ab. Eine wirtschaftliche Erholung ist nicht in Sicht; Sanierungsmassnahmen (Umfirmierung, Online-Pivot, Personalabbau) wurden geprueft und verworfen.
+Hier liegt der Kern des Problems: Die Mandantin und ihr Beraterkreis haben übereinstimmend festgestellt, dass das Geschäftsmodell des B2B-Modegrosshandels in der bisherigen Form **endgültig nicht mehr tragfähig** ist. Die Kundenstruktur (inhabergefuehrte Boutiquen) ist um mehr als 50 % geschrumpft; die verbleibenden Kunden wandern in andere Vertriebskanäle ab. Eine wirtschaftliche Erholung ist nicht in Sicht; Sanierungsmassnahmen (Umfirmierung, Online-Pivot, Personalabbau) wurden geprüft und verworfen.
 
-**Sanierungsfaehigkeit ist nicht gegeben.** Im Gegenteil: Die Aufloesung erfolgt gerade deshalb, weil die GmbH **nicht** sanierbar ist.
+**Sanierungsfähigkeit ist nicht gegeben.** Im Gegenteil: Die Auflösung erfolgt gerade deshalb, weil die GmbH **nicht** sanierbar ist.
 
-#### 3.3.3 Sanierungseignung — der zentrale Pruefstein
+#### 3.3.3 Sanierungseignung — der zentrale Prüfstein
 
-Sanierungseignung verlangt: Der Schuldenerlass muss **geeignet** sein, das Unternehmen zu sanieren. Das heisst, der Erlass muss zur Wiederherstellung der wirtschaftlichen Funktionsfaehigkeit beitragen.
+Sanierungseignung verlangt: Der Schuldenerlass muss **geeignet** sein, das Unternehmen zu sanieren. Das heisst, der Erlass muss zur Wiederherstellung der wirtschaftlichen Funktionsfähigkeit beitragen.
 
-Im Mandatsfall ist das **denklogisch ausgeschlossen**: Das Unternehmen wird liquidiert. Ein "Erlass" der Verbindlichkeit hat **keinen Sanierungszweck**, sondern dient — wenn ueberhaupt — der bilanziellen Bereinigung in der Liquidationsphase. Die Liquidation ist nicht **Mittel zur Sanierung**, sondern **Ergebnis der Aufgabe** der Sanierungsbestrebungen.
+Im Mandatsfall ist das **denklogisch ausgeschlossen**: Das Unternehmen wird liquidiert. Ein "Erlass" der Verbindlichkeit hat **keinen Sanierungszweck**, sondern dient — wenn überhaupt — der bilanziellen Bereinigung in der Liquidationsphase. Die Liquidation ist nicht **Mittel zur Sanierung**, sondern **Ergebnis der Aufgabe** der Sanierungsbestrebungen.
 
-**Sanierungseignung ist nicht gegeben.** Damit faellt der gesamte § 3a EStG-Tatbestand.
+**Sanierungseignung ist nicht gegeben.** Damit fällt der gesamte § 3a EStG-Tatbestand.
 
-#### 3.3.4 Sanierungsabsicht der Glaeubiger
+#### 3.3.4 Sanierungsabsicht der Gläubiger
 
-Die Sanierungsabsicht der Glaeubiger ist im Mandatsfall ebenfalls fraglich. Frau Strassburger-Wittenburg als einzige potentielle Schuldnerin eines Erlasses verfolgt mit ihrem Verzicht *gerade nicht* die Sanierung des Unternehmens — sie verzichtet allenfalls aus bilanziellen Gruenden oder zur Vermeidung weiterer Vermoegensreduktion. Eine "Sanierungsabsicht" im engeren Sinne ist nicht zu erkennen.
+Die Sanierungsabsicht der Gläubiger ist im Mandatsfall ebenfalls fraglich. Frau Strassburger-Wittenburg als einzige potentielle Schuldnerin eines Erlasses verfolgt mit ihrem Verzicht *gerade nicht* die Sanierung des Unternehmens — sie verzichtet allenfalls aus bilanziellen Gründen oder zur Vermeidung weiterer Vermögensreduktion. Eine "Sanierungsabsicht" im engeren Sinne ist nicht zu erkennen.
 
 ### 3.4 Zwischenergebnis
 
-Bei kumulativ vier Voraussetzungen reicht das Fehlen einer einzigen aus, um § 3a EStG zu Fall zu bringen. Hier fehlen **Sanierungsfaehigkeit**, **Sanierungseignung** und (mit hoher Wahrscheinlichkeit) **Sanierungsabsicht**. Die Norm greift nicht.
+Bei kumulativ vier Voraussetzungen reicht das Fehlen einer einzigen aus, um § 3a EStG zu Fall zu bringen. Hier fehlen **Sanierungsfähigkeit**, **Sanierungseignung** und (mit hoher Wahrscheinlichkeit) **Sanierungsabsicht**. Die Norm greift nicht.
 
-### 3.5 Folge fuer Szenarien B und C
+### 3.5 Folge für Szenarien B und C
 
-In den Szenarien B und C entsteht ein steuerpflichtiger Ertrag von 2,4 Mio. EUR; § 3a EStG ist nicht anwendbar. Es kommt daher auf die Verrechnung mit Verlustvortraegen unter Beachtung der Mindestbesteuerung an (Akte 12; Berechnung in Akte 09).
+In den Szenarien B und C entsteht ein steuerpflichtiger Ertrag von 2,4 Mio. EUR; § 3a EStG ist nicht anwendbar. Es kommt daher auf die Verrechnung mit Verlustvorträgen unter Beachtung der Mindestbesteuerung an (Akte 12; Berechnung in Akte 09).
 
-### 3.6 Folge fuer Szenario A
+### 3.6 Folge für Szenario A
 
-In Szenario A entsteht zwar rechtstheoretisch ein Gewinn, aber **erst mit Loeschung der GmbH**. Das Steuersubjekt erlischt zugleich (FG Koeln 13 K 3006/11, GmbHR 2012, 977; siehe Akte 08 und 16). Eine Steuerbefreiung nach § 3a EStG ist dann **gar nicht mehr erforderlich**. Szenario A bleibt damit die **steueroptimale Variante**.
+In Szenario A entsteht zwar rechtstheoretisch ein Gewinn, aber **erst mit Löschung der GmbH**. Das Steuersubjekt erlischt zugleich (FG Koeln 13 K 3006/11, GmbHR 2012, 977; siehe Akte 08 und 16). Eine Steuerbefreiung nach § 3a EStG ist dann **gar nicht mehr erforderlich**. Szenario A bleibt damit die **steueroptimale Variante**.
 
 ### 3.7 Parallel-Pruefung Gewerbesteuer (§ 7b GewStG)
 
-§ 7b GewStG enthaelt die Parallelvorschrift zu § 3a EStG fuer die Gewerbesteuer:
+§ 7b GewStG enthält die Parallelvorschrift zu § 3a EStG für die Gewerbesteuer:
 
-> "Auf die Sanierungsertraege im Sinne des § 3a Abs. 1 EStG findet § 3a EStG entsprechend Anwendung."
+> "Auf die Sanierungserträge im Sinne des § 3a Abs. 1 EStG findet § 3a EStG entsprechend Anwendung."
 
-Folge: Auch gewerbesteuerlich greift die Befreiung nicht, weil die Voraussetzungen des § 3a EStG nicht erfuellt sind. § 36 Abs. 2c GewStG (Verrechnungsreihenfolge) folgt im Gleichlauf.
+Folge: Auch gewerbesteuerlich greift die Befreiung nicht, weil die Voraussetzungen des § 3a EStG nicht erfüllt sind. § 36 Abs. 2c GewStG (Verrechnungsreihenfolge) folgt im Gleichlauf.
 
 ## 4. Gesamtergebnis
 
-§ 3a EStG ist im Mandatsfall **nicht** einschlaegig — weder fuer die KSt noch fuer die GewSt. Der Sanierungsertrag waere voll steuerpflichtig (Szenarien B und C). Steuerlich vorteilhaft bleibt allein Szenario A, in dem der Ertrag mit Loeschung der GmbH zugleich das Steuersubjekt erloeschen laesst.
+§ 3a EStG ist im Mandatsfall **nicht** einschlägig — weder für die KSt noch für die GewSt. Der Sanierungsertrag wäre voll steuerpflichtig (Szenarien B und C). Steuerlich vorteilhaft bleibt allein Szenario A, in dem der Ertrag mit Löschung der GmbH zugleich das Steuersubjekt erlöschen lässt.
 
 ## 5. Risiken / offene Punkte
 
-- **Auslegung "Sanierungseignung" bei Teil-Sanierungen**: Theoretisch koennte argumentiert werden, dass auch eine geordnete Liquidation eine "Sanierung" im weiteren Sinne darstellt (Schutz der Glaeubiger, geordnete Abwicklung, Vermeidung Insolvenz). Diese weite Auslegung waere aber gegen den Wortlaut "unternehmensbezogene Sanierung" — eine Liquidation will gerade **nicht** das Unternehmen erhalten. Eine solche Auslegung ist abzulehnen.
-- **Hilfsweise § 3a Abs. 5 EStG**: Beachten, dass auch ein Antrag nach § 3a Abs. 5 EStG (Auf Antrag bei sonst nicht erfuellten Voraussetzungen) hier nicht traegt, weil dort ebenfalls auf die Sanierung abgestellt wird.
-- **Beraterhaftung**: Die Mandantin ist klar darauf hinzuweisen, dass § 3a EStG keine "Rettung" der Steuerlast in den Szenarien B/C bringt. Die einzige steueroptimale Variante ist Szenario A — und diese steht und faellt mit der Behandlung des § 5 Abs. 2a EStG (Akte 06).
+- **Auslegung "Sanierungseignung" bei Teil-Sanierungen**: Theoretisch könnte argumentiert werden, dass auch eine geordnete Liquidation eine "Sanierung" im weiteren Sinne darstellt (Schutz der Gläubiger, geordnete Abwicklung, Vermeidung Insolvenz). Diese weite Auslegung wäre aber gegen den Wortlaut "unternehmensbezogene Sanierung" — eine Liquidation will gerade **nicht** das Unternehmen erhalten. Eine solche Auslegung ist abzulehnen.
+- **Hilfsweise § 3a Abs. 5 EStG**: Beachten, dass auch ein Antrag nach § 3a Abs. 5 EStG (Auf Antrag bei sonst nicht erfüllten Voraussetzungen) hier nicht trägt, weil dort ebenfalls auf die Sanierung abgestellt wird.
+- **Beraterhaftung**: Die Mandantin ist klar darauf hinzuweisen, dass § 3a EStG keine "Rettung" der Steuerlast in den Szenarien B/C bringt. Die einzige steueroptimale Variante ist Szenario A — und diese steht und fällt mit der Behandlung des § 5 Abs. 2a EStG (Akte 06).
 
 ## 6. Querverweise
 

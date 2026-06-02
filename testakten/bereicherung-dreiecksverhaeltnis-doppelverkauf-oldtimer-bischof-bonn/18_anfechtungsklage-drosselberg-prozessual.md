@@ -1,7 +1,7 @@
 # 18 Anfechtungsklage Dr. Drosselberg — Prozessuale Fragen (InsO)
 
 **Aktenzeichen:** AG Hamburg 67 IN 88/26
-**Klaegerin:** RAin Dr. Sigrid Drosselberg als Insolvenzverwalterin
+**Klägerin:** RAin Dr. Sigrid Drosselberg als Insolvenzverwalterin
 **Beklagter:** Dr. Reinhart Bischof-Hellberg
 
 ---

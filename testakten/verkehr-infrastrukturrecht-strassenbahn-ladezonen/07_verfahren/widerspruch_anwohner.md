@@ -29,7 +29,7 @@ Einwendung und Widerspruch gegen die ausgelegten Planunterlagen
 Sehr geehrte Damen und Herren,
 
 
-ich wende mich als unmittelbar betroffene Anwohnerin gegen die in der Zeit vom 2. März bis 1. April 2026 öffentlich ausgelegten Planunterlagen für die Verlängerung der Straßenbahnlinie 7 (Westast) in der Stadt Friedrichshöfe. Mein Haus, Gartenstraße 14, befindet sich in unmittelbarer Nähe der geplanten Trasse (Variante B, Abschnitt Siemensring - Gartenstrase-Einmuendung), und ich sehe meine persönlichen Rechte in mehrfacher Hinsicht verletzt. Ich erhebe hiermit fristgerecht und schriftlich Einwendungen nach § 73 Abs. 4 VwVfG NRW.
+ich wende mich als unmittelbar betroffene Anwohnerin gegen die in der Zeit vom 2. März bis 1. April 2026 öffentlich ausgelegten Planunterlagen für die Verlängerung der Straßenbahnlinie 7 (Westast) in der Stadt Friedrichshöfe. Mein Haus, Gartenstraße 14, befindet sich in unmittelbarer Nähe der geplanten Trasse (Variante B, Abschnitt Siemensring - Gartenstrase-Einmündung), und ich sehe meine persönlichen Rechte in mehrfacher Hinsicht verletzt. Ich erhebe hiermit fristgerecht und schriftlich Einwendungen nach § 73 Abs. 4 VwVfG NRW.
 
 1. Verlust von Stellplätzen
 

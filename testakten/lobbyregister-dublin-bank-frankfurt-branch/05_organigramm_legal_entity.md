@@ -1,4 +1,4 @@
-# Rechtstraegerstruktur
+# Rechtsträgerstruktur
 
 ```
 Emerald Liffey Bank plc (Dublin)

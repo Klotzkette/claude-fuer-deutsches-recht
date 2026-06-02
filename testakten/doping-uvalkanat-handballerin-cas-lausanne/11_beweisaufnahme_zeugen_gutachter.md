@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Beweisantraege der Mandantin
+## 1. Beweisanträge der Mandantin
 
 Mit Schriftsatz vom 30.04.2026 stellte die Kanzlei folgende Beweisanträge:
 

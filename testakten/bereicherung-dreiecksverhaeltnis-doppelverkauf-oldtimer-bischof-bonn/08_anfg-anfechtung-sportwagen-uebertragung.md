@@ -1,8 +1,8 @@
-# 08 AnfG-Anfechtung — Uebertragung sechs Sportwagen auf Helena Bischof-Renkert
+# 08 AnfG-Anfechtung — Übertragung sechs Sportwagen auf Helena Bischof-Renkert
 
 **Aktenzeichen:** LG Bonn 4 O 188/26
-**Glaeubigerseite:** Trappenfels-Erbenkonsortium (vertreten durch Rechtsanwalt Kuno Rethwisch-Möller)
-**Anfechtungsgegnerin:** Helena Bischof-Renkert, Zahnaerztin Bonn
+**Gläubigerseite:** Trappenfels-Erbenkonsortium (vertreten durch Rechtsanwalt Kuno Rethwisch-Möller)
+**Anfechtungsgegnerin:** Helena Bischof-Renkert, Zahnärztin Bonn
 **Anfechtender Dritter:** Anspruchsgrundlage Paragraf 3, 4 AnfG
 
 ---
@@ -16,7 +16,7 @@ Helena Bischof-Renkert durch notariellen Schenkungsvertrag
 
 **Die sechs Fahrzeuge:**
 
-| Nr. | Fahrzeug | Baujahr | Schaetzwert (EUR) |
+| Nr. | Fahrzeug | Baujahr | Schätzwert (EUR) |
 |---|---|---|---|
 | 1 | Porsche 356 B Coupé | 1962 | 180.000 |
 | 2 | Ferrari 250 GT Berlinetta | 1961 | 950.000 |

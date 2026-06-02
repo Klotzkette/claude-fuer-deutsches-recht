@@ -1,8 +1,8 @@
-synergy_id,beschreibung,stream,owner,wert_eur_m,zeithorizont,status,naechster_meilenstein,kommentar
+synergy_id,beschreibung,stream,owner,wert_eur_m,zeithorizont,status,nächster_meilenstein,kommentar
 SYN-01,Beschaffungskonsolidierung (Stahl Aluminium),Procurement,Eagle COO,3.0,12 Monate,Analyse,Benchmark Einkaufspreise bis 01.07.2026,Eagle-Portfolio-Rabatt ca. 8% erwartet
-SYN-02,Service-Integration Delta Service + Solaris,Operations,PMI Lead,1.2,24 Monate,Geplant,Integration-Scope-Definition bis 01.10.2026,Abhaengig von StaRUG-Ergebnis Delta
+SYN-02,Service-Integration Delta Service + Solaris,Operations,PMI Lead,1.2,24 Monate,Geplant,Integration-Scope-Definition bis 01.10.2026,Abhängig von StaRUG-Ergebnis Delta
 SYN-03,IT-Plattform-Konsolidierung (ERP),IT,IT-Berater,0.8,18 Monate,Geplant,IT-Mapping bis 30.11.2026,Lizenzkosten-Einsparung Haupttreiber
-SYN-04,Vertrieb Cross-Sell Eagle-Portcos,Commercial,Eagle Ops,2.1,18 Monate,Frueh,MOU mit Eagle-Portco Nordsee-Stahl,Umsatzsynergie; Realisierung unsicherer als Kostensynergie
-SYN-05,Finanzierung-Refinanzierung (guenstigere Konditionen),Finance,Eagle CFO,0.5,6 Monate,Analyse,Bankgespraeche nach Closing,Aktuelle Zinsmarge 2.8% - Ziel < 2.2%
-SYN-06,Shared Service Center Buchhaltung,Finance,Eagle CFO,0.4,24 Monate,Konzept,Konzeptpapier bis 01.01.2027,Abhaengig von Delta-Integration
-SYN-07,Personaleffizienz (Overhead-Rationalisierung),HR,PMI Lead,1.0,18 Monate,Sensibel,Betriebsratsgespraeche ab Closing,Keine Zwangskuendigungen geplant
+SYN-04,Vertrieb Cross-Sell Eagle-Portcos,Commercial,Eagle Ops,2.1,18 Monate,Früh,MOU mit Eagle-Portco Nordsee-Stahl,Umsatzsynergie; Realisierung unsicherer als Kostensynergie
+SYN-05,Finanzierung-Refinanzierung (günstigere Konditionen),Finance,Eagle CFO,0.5,6 Monate,Analyse,Bankgespräche nach Closing,Aktuelle Zinsmarge 2.8% - Ziel < 2.2%
+SYN-06,Shared Service Center Buchhaltung,Finance,Eagle CFO,0.4,24 Monate,Konzept,Konzeptpapier bis 01.01.2027,Abhängig von Delta-Integration
+SYN-07,Personaleffizienz (Overhead-Rationalisierung),HR,PMI Lead,1.0,18 Monate,Sensibel,Betriebsratsgespräche ab Closing,Keine Zwangskündigungen geplant

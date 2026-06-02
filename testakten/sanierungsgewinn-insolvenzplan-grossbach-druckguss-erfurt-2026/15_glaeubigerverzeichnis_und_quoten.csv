@@ -1,6 +1,6 @@
-Gruppe,Glaeubiger,Forderungsbetrag_EUR,Sicherheit,Plan_Quote_Prozent,Quote_Ausschuettung_EUR,Verzichtsanteil_EUR,Bemerkung
-1,Sparkasse Erfurt - Kontokorrent + Maschinen-Sicherungsuebereignung,8500000,Sicherungsuebereignung Maschinenpark,Quote 100 Prozent Sicherheit + Restquote auf Ungesicherter Teil,6900000,1488000,Sicherheit Verkehrswert 6.9 Mio - ungesicherter Teil quotiert
-2,Volksbank Mittelthueringen - Investitionsdarlehen + Grundschuld,7200000,Grundschuld Werksgrundstueck,Quote 100 Prozent voll aus Sicherheit,7200000,0,Sicherheit deckt voll
+Gruppe,Gläubiger,Forderungsbetrag_EUR,Sicherheit,Plan_Quote_Prozent,Quote_Ausschüttung_EUR,Verzichtsanteil_EUR,Bemerkung
+1,Sparkasse Erfurt - Kontokorrent + Maschinen-Sicherungsübereignung,8500000,Sicherungsübereignung Maschinenpark,Quote 100 Prozent Sicherheit + Restquote auf Ungesicherter Teil,6900000,1488000,Sicherheit Verkehrswert 6.9 Mio - ungesicherter Teil quotiert
+2,Volksbank Mittelthüringen - Investitionsdarlehen + Grundschuld,7200000,Grundschuld Werksgrundstück,Quote 100 Prozent voll aus Sicherheit,7200000,0,Sicherheit deckt voll
 3,Magdeburger Aluwerk GmbH - Lieferant Aluminium,4200000,keine,7,294000,3906000,
 3,Beverungen Schmelzbetriebe AG - Lieferant Magnesium-Vorlegierung,3800000,keine,7,266000,3534000,
 3,Schmelzofen Henrichshofen + Co. KG - Lieferant Hochofen Wartung,2750000,keine,7,192500,2557500,
@@ -13,10 +13,10 @@ Gruppe,Glaeubiger,Forderungsbetrag_EUR,Sicherheit,Plan_Quote_Prozent,Quote_Aussc
 3,RA Drosselberg + Partner - laufende Mandatskosten Vorzeit,720000,keine,Massevorrecht teilweise,720000,0,Massevorrecht Plus Restquote
 3,Versicherungen Allianz HUK Sammel - Sammelposition,640000,keine,7,44800,595200,
 3,GZ Cobalt Steuerberatung Engelmeier + Partner - laufend,420000,keine,7,29400,390600,Beraterhonorar 2025
-3,Sonstige Lieferanten Sammelposition,10000000,keine,7,700000,9300000,Restliche kleinere Glaeubiger ueber 50.000 EUR
+3,Sonstige Lieferanten Sammelposition,10000000,keine,7,700000,9300000,Restliche kleinere Gläubiger über 50.000 EUR
 3,Summe Gruppe 3,30800000,,7,2156000,28644000,
-4,Kleinglaeubiger unter 50.000 EUR Sammelposition,2400000,keine,7,168000,2232000,ca. 180 Kleinglaeubiger
+4,Kleingläubiger unter 50.000 EUR Sammelposition,2400000,keine,7,168000,2232000,ca. 180 Kleingläubiger
 5,Friedhelm Grossbach - Gesellschafterdarlehen,4000000,keine,0,0,4000000,Nachrangig 39 InsO; Verzicht 100 Prozent
-6,Finanzamt Erfurt - USt-Rueckstand vor Eroeffnung,1250000,keine,Massevorrecht voll,1250000,0,Massevorrecht
+6,Finanzamt Erfurt - USt-Rückstand vor Eröffnung,1250000,keine,Massevorrecht voll,1250000,0,Massevorrecht
 7,Pensions-Sicherungs-Verein VVaG,870000,keine,Sonderbehandlung,870000,0,Sonderbehandlung
-GESAMT,Alle Glaeubigergruppen,55020000,,,,38000000,Verzichts-Summe rundet auf Sanierungsertrag 38 Mio EUR
+GESAMT,Alle Gläubigergruppen,55020000,,,,38000000,Verzichts-Summe rundet auf Sanierungsertrag 38 Mio EUR

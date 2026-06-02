@@ -1,11 +1,11 @@
-# 07 — Pruefungsschema Art. 8 GG — Versammlungsfreiheit
+# 07 — Prüfungsschema Art. 8 GG — Versammlungsfreiheit
 
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller / Prof. Dr. Birkenhain (UdS)
 **Stand:** 15.03.2026
 
 ---
 
-## Pruefungsschema: Art. 8 GG
+## Prüfungsschema: Art. 8 GG
 
 ---
 
@@ -15,7 +15,7 @@
 
 **1. Versammlungsbegriff**
 
-Eine Versammlung i.S.v. Art. 8 I GG ist eine Vereinigung mehrerer Personen zur gemeinschaftlichen, auf die Teilhabe an der oeffentlichen Meinungsbildung gerichteten Eroetrterung oder Kundgebung.
+Eine Versammlung i.S.v. Art. 8 I GG ist eine Vereinigung mehrerer Personen zur gemeinschaftlichen, auf die Teilhabe an der öffentlichen Meinungsbildung gerichteten Eroetrterung oder Kundgebung.
 
 Merkmale:
 - **Personenmehrheit** (mindestens 2 Personen; herrschende Meinung: 3 Personen)
@@ -24,45 +24,45 @@ Merkmale:
 - **Oeffentlichkeitsbezug** (nicht Versammlungen im privaten Rahmen, die unter Art. 2 I GG fallen)
 
 Abgrenzung:
-- Blosse Auflaeufe ohne gemeinsames kommunikatives Ziel: kein Art. 8 GG
+- Blosse Aufläufe ohne gemeinsames kommunikatives Ziel: kein Art. 8 GG
 - Sportereignisse, Konzerte als Freizeitveranstaltungen: kein Art. 8 GG (BVerfGE 69, 315 [343])
 - Demonstrationen, Kundgebungen, Mahnwachen: Art. 8 GG (+)
 - Sitzblockaden: Art. 8 GG (+) soweit Kommunikationszweck im Vordergrund (BVerfGE 73, 206; 87, 399; 92, 1)
 - Dauerprotestcamps: Art. 8 GG (+) wenn gemeinsames politisches Ziel, Meinungskundgabe kontinuierlich (BVerfGE 69, 315 [344 ff.])
 
-**Fallpruefung Klimacamp Saarbruecken:**
-(+) Personenmehrheit: 15 BF + weitere Mitglieder; Schichtbetrieb ergibt Gesamtidentitaet
+**Fallprüfung Klimacamp Saarbruecken:**
+(+) Personenmehrheit: 15 BF + weitere Mitglieder; Schichtbetrieb ergibt Gesamtidentität
 (+) Gemeinschaftlichkeit: Gemeinsames Ziel Klimagerechtigkeit/Energiepolitik Saarland
-(+) Kommunikation: Oeffentlicher Protest, Reden, Infomaterial, Medienpraesenz
-(+) Oeffentlichkeitsbezug: Vorplatz Saarlaendischer Landtag; maximale politische Oeffentlichkeit
+(+) Kommunikation: Öffentlicher Protest, Reden, Infomaterial, Medienpräsenz
+(+) Oeffentlichkeitsbezug: Vorplatz Saarländischer Landtag; maximale politische Öffentlichkeit
 **Ergebnis:** Schutzbereich sachlich eroffnet.
 
 **2. Friedlichkeit**
 
-Art. 8 I GG schuetzt nur friedliche, d.h. nicht zu Gewalttaten bereite Versammlungen.
+Art. 8 I GG schützt nur friedliche, d.h. nicht zu Gewalttaten bereite Versammlungen.
 
 - Keine Waffen (Art. 8 I GG: „ohne Waffen")
 - Keine Gewalt gegen Personen oder Sachen
-- Einzel-Unfriedlichkeit einzelner Teilnehmer schliesst Schutz der uebrigen nicht aus (BVerfGE 69, 315 [361])
+- Einzel-Unfriedlichkeit einzelner Teilnehmer schliesst Schutz der übrigen nicht aus (BVerfGE 69, 315 [361])
 
-**Fallpruefung:**
+**Fallprüfung:**
 (+) Das Camp ist als friedliche Veranstaltung geplant.
 (?) Das Ermittlungsverfahren StA 188 Js 4711/26 betrifft einen separaten Versuch am 15.03.2026 — dieser ist nicht Teil des angemeldeten Camps.
 **Ergebnis:** Friedlichkeit (+).
 
-### II. Persoenlicher Schutzbereich
+### II. Persönlicher Schutzbereich
 
-- Natuerliche Personen: (+) (alle BF 2-15)
-- Juristische Personen (inlaendische): (+) gemaess Art. 19 III GG, wenn Grundrecht seinem Wesen nach auf sie anwendbar ist. Die Versammlungsfreiheit kann korporativ wahrgenommen werden (BVerfGE 69, 315 [349]).
-- **Fallpruefung:** BF 1 (e.V.): (+).
+- Natürliche Personen: (+) (alle BF 2-15)
+- Juristische Personen (inländische): (+) gemaess Art. 19 III GG, wenn Grundrecht seinem Wesen nach auf sie anwendbar ist. Die Versammlungsfreiheit kann korporativ wahrgenommen werden (BVerfGE 69, 315 [349]).
+- **Fallprüfung:** BF 1 (e.V.): (+).
 
 ---
 
 ## B. Eingriff
 
-Die Verbotsverfuegung des Stadtrechtsamts vom 12.03.2026 untersagt das Camp vollstaendig. Dies ist ein unmittelbarer, vollstaendiger Eingriff in Art. 8 I GG.
+Die Verbotsverfügung des Stadtrechtsamts vom 12.03.2026 untersagt das Camp vollständig. Dies ist ein unmittelbarer, vollständiger Eingriff in Art. 8 I GG.
 
-Auch die bestatigenden Gerichtsbeschluesse (VG, OVG) verlaengern den Eingriff.
+Auch die bestatigenden Gerichtsbeschlüsse (VG, OVG) verlängern den Eingriff.
 
 ---
 
@@ -70,57 +70,57 @@ Auch die bestatigenden Gerichtsbeschluesse (VG, OVG) verlaengern den Eingriff.
 
 ### I. Schranke
 
-Art. 8 II GG: „Fuer Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschraenkt werden."
+Art. 8 II GG: „Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden."
 
-Einschlaegige Normen:
-- § 15 SaarlVersG: Allgemeine Befugnis zum Verbot bei Gefahr fuer oeffentliche Sicherheit
+Einschlägige Normen:
+- § 15 SaarlVersG: Allgemeine Befugnis zum Verbot bei Gefahr für öffentliche Sicherheit
 - § 16 SaarlVersG: Bannmeilenregelung Landtag
 
 ### II. Schranken-Schranken
 
-**1. Formelle Verfassungsmaessigkeit der Ermaechtigung**
+**1. Formelle Verfassungsmaessigkeit der Ermächtigung**
 
 § 15 SaarlVersG und § 16 SaarlVersG sind formell verfassungsmaessig erlassen worden.
 
 **2. Bestimmtheitsgrundsatz**
 
-§ 16 SaarlVersG muss hinreichend bestimmt sein. Der Begriff „Beeintraechtigung der Taetigkeit des Landtags" ist auslegungsbedueruftig. Er muss verfassungskonform eng ausgelegt werden: Nur konkrete, nachgewiesene Beeintraechtigung genuegt — abstrakte Gefahr reicht nicht (BVerfGE 104, 92 [111 f.]).
+§ 16 SaarlVersG muss hinreichend bestimmt sein. Der Begriff „Beeinträchtigung der Tätigkeit des Landtags" ist auslegungsbedueruftig. Er muss verfassungskonform eng ausgelegt werden: Nur konkrete, nachgewiesene Beeinträchtigung genügt — abstrakte Gefahr reicht nicht (BVerfGE 104, 92 [111 f.]).
 
-**Fallpruefung:** Die Verbotsverfuegung stuetzt sich auf abstrakte Gefahr ohne konkrete Nachweise — verfassungsrechtlich problematisch.
+**Fallprüfung:** Die Verbotsverfügung stützt sich auf abstrakte Gefahr ohne konkrete Nachweise — verfassungsrechtlich problematisch.
 
 **3. Verhaeltnismaessigkeit**
 
 *a) Legitimer Zweck*
-Schutz der Funktionsfaehigkeit des Parlaments. Legitim (+).
+Schutz der Funktionsfähigkeit des Parlaments. Legitim (+).
 
 *b) Geeignetheit*
-Ein Totalverbot verhindert jede Campaktivitaet und damit jede moegliche Beeintraechtigung. Geeignet (+).
+Ein Totalverbot verhindert jede Campaktivitaet und damit jede mögliche Beeinträchtigung. Geeignet (+).
 
 *c) Erforderlichkeit*
 Mildere, gleich geeignete Mittel:
-- (1) Raeumliche Beschraenkung auf seitlichen Bereich des Vorplatzes
-- (2) Zeitliche Beschraenkung der Lautsprechernutzung (nur ausserhalb Plenarsitzungen)
+- (1) Räumliche Beschränkung auf seitlichen Bereich des Vorplatzes
+- (2) Zeitliche Beschränkung der Lautsprechernutzung (nur ausserhalb Plenarsitzungen)
 - (3) Groessenauflage (max. 4 Zelte, max. 20 Dauerteilnehmer gleichzeitig)
 - (4) Verbot von Beschallung ab 22:00 Uhr
-Diese Mittel wurden nicht geprueft. **Erforderlichkeit des Totalverbots: (-)**
+Diese Mittel wurden nicht geprüft. **Erforderlichkeit des Totalverbots: (-)**
 
 *d) Angemessenheit (Verhaeltnismaessigkeit i.e.S.)*
 
-Abwaegung:
+Abwägung:
 - Auf Seiten des Eingriffs: Volle Versammlungsfreiheit aller 15 BF und der gesamten Initiative; politischer Moment (aktuelle Gesetzgebung); demokratisches Korrektiv; Art. 8 GG als „unverzichtbares Funktionselement des demokratischen Gemeinwesens" (BVerfGE 69, 315 [346 f.])
-- Auf Seiten des Schutzzwecks: Abstrakte Beeintraechtigung des Parlamentsbetriebs, die auch durch mildere Mittel abwendbar waere
+- Auf Seiten des Schutzzwecks: Abstrakte Beeinträchtigung des Parlamentsbetriebs, die auch durch mildere Mittel abwendbar wäre
 
 **Angemessenheit: (-)**
 
 **4. Wesensgehalt (Art. 19 II GG)**
 
-Ein Totalverbot jeglicher Dauerprotestformen in der Naehe von Parlamenten wuerde den Wesensgehalt der Versammlungsfreiheit tangieren.
+Ein Totalverbot jeglicher Dauerprotestformen in der Nähe von Parlamenten würde den Wesensgehalt der Versammlungsfreiheit tangieren.
 
 ---
 
 ## D. Ergebnis
 
-Das Totalverbot des Klimacamps verletzt Art. 8 I GG. Die Verbotsverfuegung ist verfassungswidrig.
+Das Totalverbot des Klimacamps verletzt Art. 8 I GG. Die Verbotsverfügung ist verfassungswidrig.
 
 ---
 

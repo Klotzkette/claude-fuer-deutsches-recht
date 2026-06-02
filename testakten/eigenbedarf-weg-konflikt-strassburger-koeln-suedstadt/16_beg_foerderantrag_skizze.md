@@ -2,7 +2,7 @@
 
 ## Bundesförderung Effiziente Gebäude (BEG EM) – Wärmepumpe WEG Rolandstraße 27a
 
-**Erarbeitet:** Kanzlei Hauck-Brüggemann / Energieberaterin Dipl.-Ing. Claudia Mensing-Baer  
+**Erarbeitet:** Kanzlei Hauck-Brüggemann / Energieberaterin Dipl.-Ing. Claudia Mensing-Bär  
 (Energieberaterin: BEG-registriert, Reg.-Nr. EB-NRW-2019-4441)  
 **Stand:** 25. April 2026 (Entwurf, noch nicht gestellt)
 
@@ -90,5 +90,5 @@ Steuernummer WEG: 214/5820/3344 (Finanzamt Köln-Süd)
 
 ---
 
-*Erstellt: Energieberaterin Claudia Mensing-Baer / RA'in Hauck-Brüggemann*  
+*Erstellt: Energieberaterin Claudia Mensing-Bär / RA'in Hauck-Brüggemann*  
 *Köln, 25.04.2026 – Entwurf, noch nicht gestellt*

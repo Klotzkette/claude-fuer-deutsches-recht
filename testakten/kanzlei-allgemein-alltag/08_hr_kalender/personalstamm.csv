@@ -1,4 +1,4 @@
-Personalnummer,Name,Rolle,Beschaeftigungsart,Eintritt,Wochenstunden,Arbeitstage,Urlaubstage,Jahresgehalt_oder_Lohn,Bonus,Status
+Personalnummer,Name,Rolle,Beschäftigungsart,Eintritt,Wochenstunden,Arbeitstage,Urlaubstage,Jahresgehalt_oder_Lohn,Bonus,Status
 P-001,Jana Reuter,Rechtsanwältin,Inhaberin,2024-01-01,45,Mo-Fr,30,,,"aktiv"
 P-002,Mara Klein,Rechtsanwaltsfachangestellte,Vollzeit,2025-02-01,38,Mo-Fr,28,36000,"Weihnachtsgratifikation möglich","aktiv"
 P-003,Tom Berger,Studentische Hilfskraft,Minijob,2026-04-01,8,Di/Do,0,14 EUR pro Stunde,"kein Bonus","aktiv"

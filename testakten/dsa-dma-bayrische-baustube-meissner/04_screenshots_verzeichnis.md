@@ -1,6 +1,6 @@
 # Beweissicherung — Screenshot- und Archivverzeichnis
 
-Beweissicherung im Auftrag der Mandantin durch RA'in Quasthoff-Pruegelmann und Refrendarin Pfistermeier am 14.03.2026 ab 09:12 Uhr und 15.03.2026.
+Beweissicherung im Auftrag der Mandantin durch RA'in Quasthoff-Prügelmann und Refrendarin Pfistermeier am 14.03.2026 ab 09:12 Uhr und 15.03.2026.
 
 ## A. Plattform-eigene Screenshots
 
@@ -44,7 +44,7 @@ Datei `engagement_export_2026-03-13.csv` — 247 856 Zeilen
 
 ## Vermerk
 
-Alle Original-Bilddateien liegen im verschlüsselten Kanzleilaufwerk \\Hagenroth\Mandate\2026-0418-Meissnerlein\. Hash-Werte wurden mit SHA-256 berechnet und zusammen mit Erstellungszeitstempel in der Hash-Liste `04_hashes.csv` archiviert. Bei späterer gerichtlicher Verwendung ist die Beweismittelkette mit Sachverständigen-Aussage RA'in Quasthoff-Pruegelmann darstellbar.
+Alle Original-Bilddateien liegen im verschlüsselten Kanzleilaufwerk \\Hagenroth\Mandate\2026-0418-Meissnerlein\. Hash-Werte wurden mit SHA-256 berechnet und zusammen mit Erstellungszeitstempel in der Hash-Liste `04_hashes.csv` archiviert. Bei späterer gerichtlicher Verwendung ist die Beweismittelkette mit Sachverständigen-Aussage RA'in Quasthoff-Prügelmann darstellbar.
 
 Erlangen, 16.03.2026
-F. Quasthoff-Pruegelmann
+F. Quasthoff-Prügelmann

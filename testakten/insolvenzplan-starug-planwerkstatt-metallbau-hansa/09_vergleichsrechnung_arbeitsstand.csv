@@ -1,20 +1,20 @@
-Position,Gruppe,Forderung_angemeldet_EUR,Szenario_A_Insolvenzplan_EUR,Szenario_A_Quote_pct,Szenario_B_Uebertragungsinsolvenz_EUR,Szenario_B_Quote_pct,Szenario_C_Liquidation_EUR,Szenario_C_Quote_pct,Kommentar
-NordBank AG (gesichert Maschinenpark),Gruppe 1,4200000,3480000,82.9%,2413000,57.5%,1870000,44.5%,"Plan: Absonderungserloese (1.25 Mio) + Planquote 35% (Restforderung) + Sachanlage; Uebertragung: Kaufpreisanteil geschaetzt; Liquidation: Zerschlagungswert"
-LeasingWerk GmbH,Gruppe 1,740000,370000,50.0%,200000,27.0%,120000,16.2%,LeasingWerk haelt Aussonderungsrecht; Plan bietet Fortfuehrung + Quote; Uebertragung: Neuvermarktung Leasingobjekte; Liquidation: Direktverwertung
-Stahlhandel Kuefte GmbH,Gruppe 2,610000,846000,138.7%,195000,32.0%,148000,24.3%,"Plan ueber Quote (EV-Abgeltung 480 TEUR + Planquote 366 TEUR); Uebertragung: EV-Herausgabe + geringe Insolvenzmassebeteiligung; Note: hoher Planwert wegen EV-Eigentumsrueckgabe"
+Position,Gruppe,Forderung_angemeldet_EUR,Szenario_A_Insolvenzplan_EUR,Szenario_A_Quote_pct,Szenario_B_Übertragungsinsolvenz_EUR,Szenario_B_Quote_pct,Szenario_C_Liquidation_EUR,Szenario_C_Quote_pct,Kommentar
+NordBank AG (gesichert Maschinenpark),Gruppe 1,4200000,3480000,82.9%,2413000,57.5%,1870000,44.5%,"Plan: Absonderungserlöse (1.25 Mio) + Planquote 35% (Restforderung) + Sachanlage; Übertragung: Kaufpreisanteil geschätzt; Liquidation: Zerschlagungswert"
+LeasingWerk GmbH,Gruppe 1,740000,370000,50.0%,200000,27.0%,120000,16.2%,LeasingWerk hält Aussonderungsrecht; Plan bietet Fortführung + Quote; Übertragung: Neuvermarktung Leasingobjekte; Liquidation: Direktverwertung
+Stahlhandel Kuefte GmbH,Gruppe 2,610000,846000,138.7%,195000,32.0%,148000,24.3%,"Plan über Quote (EV-Abgeltung 480 TEUR + Planquote 366 TEUR); Übertragung: EV-Herausgabe + geringe Insolvenzmassebeteiligung; Note: hoher Planwert wegen EV-Eigentumsrückgabe"
 Nordstahl GmbH,Gruppe 2,84000,50400,60.0%,27000,32.1%,18000,21.4%,
 Schweisstechnik Elbe GmbH,Gruppe 2,67000,40200,60.0%,21000,31.3%,14000,20.9%,
 Verzinkerei Nord GmbH,Gruppe 2,53000,31800,60.0%,17000,32.1%,11000,20.8%,
 Lackierer Billbrook GmbH,Gruppe 2,38000,22800,60.0%,12000,31.6%,8000,21.1%,
-Kleinglaueubiger gesamt (<5 TEUR),Gruppe 3 Kleinglaeubiger,58000,43500,75.0%,18000,31.0%,12000,20.7%,Kleinglaeubigerregelung im Plan 75%; deutlich besser als Alternative
-Uebrige Glaeubiger (5-50 TEUR),Gruppe 3,532000,159600,30.0%,165000,31.0%,109000,20.5%,Gruppe 3 Quote knapp schlechter als Uebertragungsszenario - Problem!; Begruendung: Plan sichert laufende Auftraege und Mehrwert
+Kleinglaueubiger gesamt (<5 TEUR),Gruppe 3 Kleingläubiger,58000,43500,75.0%,18000,31.0%,12000,20.7%,Kleingläubigerregelung im Plan 75%; deutlich besser als Alternative
+Übrige Gläubiger (5-50 TEUR),Gruppe 3,532000,159600,30.0%,165000,31.0%,109000,20.5%,Gruppe 3 Quote knapp schlechter als Übertragungsszenario - Problem!; Begründung: Plan sichert laufende Aufträge und Mehrwert
 Finanzamt Hamburg-Mitte,Gruppe 4,480000,264000,55.0%,148000,30.8%,109000,22.7%,Plan klar besser; Stundung § 258 AO sichert Zahlungsfluss
 DRV und Krankenkassen,Gruppe 4 / Masse,70000,70000,100.0%,70000,100.0%,70000,100.0%,"Masseverbindlichkeiten; immer 100%"
-Hansa Beteiligungs UG,Gruppe 5,950000,0,0.0%,0,0.0%,0,0.0%,Nachrangig; kein Erloese in keiner Alternative; Verzicht als Sanierungsbeitrag
-Gesamtbefriedigung alle Glaeubiger,,7882000,5377300,,3286000,,2489000,,Summe aller Zahlungen an Glaeubiger inklusive Sicherheitenabgeltungen
-Mehrwert Plan vs. Liquidation,,,,,,,,2888300,Glaeubigergesamtvorteil des Plans gegenueber Zerschlagung: 2.89 Mio EUR
-Mehrwert Plan vs. Uebertragungsinsolvenz,,,,,,,,2091300,Glaeubigergesamtvorteil des Plans gegenueber Uebertragungsinsolvenz: 2.09 Mio EUR
+Hansa Beteiligungs UG,Gruppe 5,950000,0,0.0%,0,0.0%,0,0.0%,Nachrangig; kein Erlöse in keiner Alternative; Verzicht als Sanierungsbeitrag
+Gesamtbefriedigung alle Gläubiger,,7882000,5377300,,3286000,,2489000,,Summe aller Zahlungen an Gläubiger inklusive Sicherheitenabgeltungen
+Mehrwert Plan vs. Liquidation,,,,,,,,2888300,Gläubigergesamtvorteil des Plans gegenüber Zerschlagung: 2.89 Mio EUR
+Mehrwert Plan vs. Übertragungsinsolvenz,,,,,,,,2091300,Gläubigergesamtvorteil des Plans gegenüber Übertragungsinsolvenz: 2.09 Mio EUR
 Verwertungskosten Liquidation (Verwalter 15%),,,,,,,-373350,,Abzug Verwaltungskosten bei Liquidation
-Verwertungskosten Uebertragung (Verwalter + IV 12%),,,,,,,-394320,,Abzug Verwaltergebuehren bei Uebertragungsinsolvenz
+Verwertungskosten Übertragung (Verwalter + IV 12%),,,,,,,-394320,,Abzug Verwaltergebuehren bei Übertragungsinsolvenz
 Investorertrag Nordlicht (Darlehen + Zinsen),,,,1400000,,,,,Neue Finanzierung bringt Mehrwert in Plan; Kapitalkosten 7.5% p.a.
-Anfechtungsansprueche (Aktivum Insolvenzplan),,,,28500,,,,,Zinszahlung Gesellschafterdarlehen Sept. 2025 anfechtbar § 135 InsO
+Anfechtungsansprüche (Aktivum Insolvenzplan),,,,28500,,,,,Zinszahlung Gesellschafterdarlehen Sept. 2025 anfechtbar § 135 InsO

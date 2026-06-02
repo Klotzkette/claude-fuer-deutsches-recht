@@ -55,7 +55,7 @@
 | 29.04.2025 | Constantin erklärt Ausschlagung beim AG Stuttgart | Akte 12; Wirksamkeit fraglich |
 | 30.04.2025 | Kanzlei stellt Anfrage bei Notar Welz (begl. Abschrift, weitere Urkunden?) | Akte 04 |
 | 02.05.2025 | Kanzlei stellt Anfrage RAK BW wegen Trotz-Kanzleinachlass | Akte 15 |
-| 02.05.2025 | SV Bender & Moerser: Kurzgutachten Grundstück (1.850.000 EUR) | Akte 06 |
+| 02.05.2025 | SV Bender & Mörser: Kurzgutachten Grundstück (1.850.000 EUR) | Akte 06 |
 | 05.05.2025 | RA Strecker meldet sich für Marlies (Telefonat) | Akte 18 |
 | 05.05.2025 | E-Mail Constantin an Kanzlei: provokatives Schreiben | emails/ |
 | 06.05.2025 | Telefonkonferenz Kanzlei/Henrike | — |

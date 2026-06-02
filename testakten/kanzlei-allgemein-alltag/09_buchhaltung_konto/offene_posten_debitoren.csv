@@ -1,4 +1,4 @@
-Rechnung,Akte,Schuldner,Datum,Faellig,Brutto,Bezahlt,Offen,Alter,Mahnstufe,Status
+Rechnung,Akte,Schuldner,Datum,Fällig,Brutto,Bezahlt,Offen,Alter,Mahnstufe,Status
 R-2026-0007,2026-MIET-004 Meyer,Clara Meyer,2026-05-20,2026-06-03,418.88,0.00,418.88,nicht fällig,0,Entwurf
 R-2026-0004,2026-ARB-002 Schneider,Paul Schneider,2026-04-15,2026-04-29,892.50,0.00,892.50,31-60,1,offen
 R-2026-0005,2026-VER-003 Alpha UG,Alpha UG,2026-05-02,2026-05-16,1190.00,595.00,595.00,0-30,0,Teilzahlung

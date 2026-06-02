@@ -1,4 +1,4 @@
-lfd_nr,pruefnummer,glaeubiger,grund,betrag_angemeldet,betrag_vorschlag_feststellung,betrag_bestreiten,rang,status,widerspruch_von,streitpunkt,klagefrist
+lfd_nr,pruefnummer,gläubiger,grund,betrag_angemeldet,betrag_vorschlag_feststellung,betrag_bestreiten,rang,status,widerspruch_von,streitpunkt,klagefrist
 1,IFAP-001a,Solarteile Nord GmbH,Warenlieferung Rechnungen SN-014 bis -018 (ohne -016),24250.20,24250.20,0.00,§ 38 InsO,Widerspruch Schuldner,Schuldner (Wendler),Mängeleinwand Modulleistung; kein Gutachten vorgelegt,17.09.2026
 2,IFAP-001b,Solarteile Nord GmbH,Rechnung SN-2026-016 (Dublette/OPOS),4200.00,0.00,4200.00,§ 38 InsO,Bestritten IV,Insolvenzverwalter,OPOS Schuldnerin zeigt Zahlung; kein Zahlungsbeleg Gläubiger,offen
 3,IFAP-001c,Solarteile Nord GmbH,Zinsen SN-2026-018,37.54,37.54,4.46,§ 38 InsO,teilweise festgestellt,–,Zeitraum korrigiert auf 30.04.2026; Differenz zu angemeldeten 42 EUR bestritten,–

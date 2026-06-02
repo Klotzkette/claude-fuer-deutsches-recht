@@ -37,8 +37,8 @@ Die WEG hat 14 Sondereigentumseinheiten (12 Wohnungen + 2 Gewerbeeinheiten) und 
 | W10 (2. OG Seitenflügel) | Selma Yildiz | 64/1000 | eigengenutzt |
 | W11 (Hinterhaus oben) | Erbengemeinschaft Klee | 42/1000 | Werkstattnutzung Klee Buchbinderei |
 | W12 (Hinterhaus unten) | Erbengemeinschaft Klee | 38/1000 | Archiv |
-| G1 (Hofflaeche teilweise als Sondernutzung) | Familie Berisha | 8/1000 | Stellplatz |
-| G2 (Hofflaeche teilweise als Sondernutzung) | Anlage Lux 1 | 8/1000 | Stellplatz |
+| G1 (Hoffläche teilweise als Sondernutzung) | Familie Berisha | 8/1000 | Stellplatz |
+| G2 (Hoffläche teilweise als Sondernutzung) | Anlage Lux 1 | 8/1000 | Stellplatz |
 | Restliches Gemeinschaftseigentum | -- | 88/1000 | Hof, Treppenhaus, Dach, Hauswartraum |
 
 **Verwalterin:** Rosenwinkel Hausverwaltung GmbH (M. Kreutzer), Bestellung seit 01.01.2018, verlängert bis 31.12.2027.

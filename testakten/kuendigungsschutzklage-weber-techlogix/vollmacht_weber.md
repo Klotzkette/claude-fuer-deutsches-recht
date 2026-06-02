@@ -25,7 +25,7 @@ bevollmächtige hiermit
 
 Rechtsanwalt Benedikt Steinhauer
 und alle in der Kanzlei Steinhauer & Vonau tätigen Rechtsanwältinnen und Rechtsanwälte
--- nachfolgend 'Bevollmaechtigte' --
+-- nachfolgend 'Bevollmächtigte' --
 
 
 mich in allen Angelegenheiten betreffend die Kündigung durch die TechLogix GmbH vom 28. April 2026 umfassend gerichtlich und außergerichtlich zu vertreten, insbesondere:

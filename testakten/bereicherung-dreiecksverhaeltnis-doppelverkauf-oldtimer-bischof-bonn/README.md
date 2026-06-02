@@ -24,16 +24,16 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Sachverhalt (Kurzfassung)
 
-Dr. Reinhart Bischof-Hellberg (68), pensionierter Anaesthesist am Universitaetsklinikum Bonn
+Dr. Reinhart Bischof-Hellberg (68), pensionierter Anästhesist am Universitätsklinikum Bonn
 und Sammler historischer Sportwagen, veraeussert seinen Mercedes-Benz 300 SL Gullwing
-(Bj. 1955, Schaetzwert 1.800.000 EUR) an zwei Kaeufer: Theresia Bagheri-Aichholz (Wien)
+(Bj. 1955, Schätzwert 1.800.000 EUR) an zwei Käufer: Theresia Bagheri-Aichholz (Wien)
 und Heinz-Albrecht Trappenfels (Hamburg). Beide leisten Anzahlungen (600.000 EUR bzw. 850.000 EUR).
-Lieferung erfolgt nur an Trappenfels; das Fahrzeug verbrennt zwei Tage spaeter.
+Lieferung erfolgt nur an Trappenfels; das Fahrzeug verbrennt zwei Tage später.
 
-Zusaetzlich besteht ein Dreiecksverhaeltnis mit der Werkstatt Schmiedeknecht-Restaurations-KG
+Zusätzlich besteht ein Dreiecksverhaeltnis mit der Werkstatt Schmiedeknecht-Restaurations-KG
 (78.000 EUR angewiesene Zahlung, Anweisung nach Paragraf 119 BGB angefochten),
 eine Insolvenz-Anfechtungslage (AG Hamburg 67 IN 88/26, Insolvenzverwalterin
-RAin Dr. Sigrid Drosselberg) sowie eine AnfG-Anfechtung der Uebertragung
+RAin Dr. Sigrid Drosselberg) sowie eine AnfG-Anfechtung der Übertragung
 von sechs weiteren Sportwagen auf Tochter Helena Bischof-Renkert.
 
 **Vertretung:** Spethmann, Kaltenbach & Partner Rechtsanwaltsgesellschaft mbB (Bonn)
@@ -98,15 +98,15 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 
 ---
 
-## Schwerpunkte und Pruefungsthemen
+## Schwerpunkte und Prüfungsthemen
 
 ### Bereicherungsrecht (Paragraf 812 ff. BGB)
 
-| Thema | Aktenstuecke |
+| Thema | Aktenstücke |
 |---|---|
 | Leistungskondiktion (Paragraf 812 Abs. 1 S. 1 1. Alt.) | 02, 03, 11 |
 | Eingriffskondiktion (Paragraf 812 Abs. 1 S. 1 2. Alt.) | 14 |
-| Dreiecksverhaeltnis / Anweisungsfaelle | 04, 17 |
+| Dreiecksverhaeltnis / Anweisungsfälle | 04, 17 |
 | Saldotheorie vs. Zweikondiktionentheorie | 09 |
 | Paragraf 817 S. 2 BGB | 11 |
 | Paragraf 818 Abs. 2 BGB (Wertersatz) | 10 |
@@ -115,7 +115,7 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 
 ### Insolvenzanfechtung (Paragrafen 129 ff. InsO)
 
-| Thema | Aktenstuecke |
+| Thema | Aktenstücke |
 |---|---|
 | Paragraf 129 InsO (Grundtatbestand) | 05, 06 |
 | Paragraf 130 InsO (Kongruente Deckung) | 05 |
@@ -125,11 +125,11 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 | Paragraf 146 InsO (Verjährung) | 07, 12 |
 | Prozessrecht Paragraf 180 InsO | 18 |
 
-### Glaeubigerschutzrecht (AnfG)
+### Gläubigerschutzrecht (AnfG)
 
-| Thema | Aktenstuecke |
+| Thema | Aktenstücke |
 |---|---|
-| Paragraf 3 AnfG (Vorsaetzliche Benachteiligung) | 08, 19 |
+| Paragraf 3 AnfG (Vorsätzliche Benachteiligung) | 08, 19 |
 | Paragraf 4 AnfG (Unentgeltliche Leistung) | 08 |
 | Paragraf 11 AnfG (Rechtsfolge Duldung) | 08, 19 |
 | Paragraf 2 AnfG (Klagehemmnis Vollstreckungstitel) | 19 |
@@ -137,7 +137,7 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 
 ### Allgemeines Schuldrecht / Unmöglichkeit
 
-| Thema | Aktenstuecke |
+| Thema | Aktenstücke |
 |---|---|
 | Paragraf 275 BGB (Unmöglichkeit) | 15 |
 | Paragraf 119 BGB (Irrtumsanfechtung) | 16 |
@@ -152,8 +152,8 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 Diese Akte ist fachlich dem Bereich Bereicherungs- und Anfechtungsrecht zugeordnet.
 Die Bearbeitung soll insbesondere folgende Leistungen abdecken:
 
-1. **Vollstaendige Pruefschema-Erstellung** für Leistungskondiktion und Eingriffskondiktion
-2. **Automatische Klassifizierung** von Dreiecksfaellen (Anweisungslagen)
+1. **Vollständige Prüfschema-Erstellung** für Leistungskondiktion und Eingriffskondiktion
+2. **Automatische Klassifizierung** von Dreiecksfällen (Anweisungslagen)
 3. **Anfechtungsanalyse** InsO + AnfG mit Zeitlinien und Fristen
 4. **Saldotheorie-Berechnung** bei komplexen Mehrparteien-Konstellationen
 5. **BGH-Rechtsprechungs-Matching** (dejure.org, bundesgerichtshof.de, openjur.de)

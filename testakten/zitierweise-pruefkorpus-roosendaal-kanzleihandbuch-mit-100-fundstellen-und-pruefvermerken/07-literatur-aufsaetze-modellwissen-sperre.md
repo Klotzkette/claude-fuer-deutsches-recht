@@ -1,6 +1,6 @@
-# 07 — Literatur: Aufsaetze und Modellwissen-Sperre
+# 07 — Literatur: Aufsätze und Modellwissen-Sperre
 
-**Pruefkorpus-Abschnitt: Aufsaetze**
+**Pruefkorpus-Abschnitt: Aufsätze**
 **Bearbeiterin: Dr. Sophia Pohlmann-Wittfeldt**
 **Stand: Oktober 2025**
 
@@ -8,23 +8,23 @@
 
 ## Vorbemerkung
 
-Aufsaetze stellen besondere Anforderungen an die Verifikation, da Zeitschriften-Volltexte haeufig lizenzpflichtig sind. Das Plugin `zitierweise-deutsches-recht` gibt bei Aufsaetzen, die nur auf Modellwissen beruhen und nicht verifizierbar sind, einen Pruefvermerk (PV-LM) aus statt eines Halluzinations-Zitats. Dieser Abschnitt enthaelt Fundstellen 73–82.
+Aufsätze stellen besondere Anforderungen an die Verifikation, da Zeitschriften-Volltexte häufig lizenzpflichtig sind. Das Plugin `zitierweise-deutsches-recht` gibt bei Aufsätzen, die nur auf Modellwissen beruhen und nicht verifizierbar sind, einen Prüfvermerk (PV-LM) aus statt eines Halluzinations-Zitats. Dieser Abschnitt enthält Fundstellen 73–82.
 
 ---
 
 ## Fundstelle 73 — Aufsatz Tannenmoor JZ 2024 (Modellwissen-Sperre)
 
-**Situation:** Mitarbeiter bittet Plugin um Zitat des Aufsatzes von Tannenmoor ueber anwaltliche Zitierweise in JZ 2024.
+**Situation:** Mitarbeiter bittet Plugin um Zitat des Aufsatzes von Tannenmoor über anwaltliche Zitierweise in JZ 2024.
 
 **Plugin-Ausgabe:**
 
-> **[PRUEFVERMERK — LITERATUR-MODELLWISSEN-SPERRE (PV-LM)]**
-> Der Aufsatz Tannenmoor, Neue Anforderungen an die anwaltliche Zitierweise, JZ 2024, konnte nicht verifiziert werden. Das Plugin verfuegt nicht ueber einen verifizierten Direktzugriff auf JZ 2024, Heft und Seitenzahl sind unbekannt. Die Ausgabe eines Zitats wuerde auf reinem Modellwissen beruhen und koennte halluziniert sein.
+> **[PRÜFVERMERK — LITERATUR-MODELLWISSEN-SPERRE (PV-LM)]**
+> Der Aufsatz Tannenmoor, Neue Anforderungen an die anwaltliche Zitierweise, JZ 2024, konnte nicht verifiziert werden. Das Plugin verfügt nicht über einen verifizierten Direktzugriff auf JZ 2024, Heft und Seitenzahl sind unbekannt. Die Ausgabe eines Zitats würde auf reinem Modellwissen beruhen und könnte halluziniert sein.
 >
-> **Empfehlung:** Bitte Volltextzugang ueber beck-online, juris oder Bibliothek pruefen und Zitat manuell erganzen. Muster-Zitat (unverifiziert — bitte nicht unveraendert verwenden):
+> **Empfehlung:** Bitte Volltextzugang über beck-online, juris oder Bibliothek prüfen und Zitat manuell erganzen. Muster-Zitat (unverifiziert — bitte nicht unverändert verwenden):
 > Tannenmoor, [Titel des Aufsatzes], JZ 2024, [Seite] ([Zitierseite]).
 
-**Pruefvermerk Typ:** PV-LM (Literatur-Modellwissen-Sperre)
+**Prüfvermerk Typ:** PV-LM (Literatur-Modellwissen-Sperre)
 **Fehlerrisiko ohne Sperre:** Halluzinierter Aufsatz (nicht existentes Werk); anwaltliche Haftungsrisiken.
 
 ---
@@ -32,9 +32,9 @@ Aufsaetze stellen besondere Anforderungen an die Verifikation, da Zeitschriften-
 ## Fundstelle 74 — Aufsatz verifizierbar (NJW 2023)
 
 **Zitat:**
-Riehm, Schadensersatz statt Leistung und Ruecktritt, NJW 2023, 1456 (1459).
+Riehm, Schadensersatz statt Leistung und Rücktritt, NJW 2023, 1456 (1459).
 
-**Pruefvermerk:** Kein Pruefvermerk. NJW-Aufsaetze sind ueber dejure.org referenziert und das Zitat kann strukturell geprueft werden. Volltextzugriff empfohlen.
+**Prüfvermerk:** Kein Prüfvermerk. NJW-Aufsätze sind über dejure.org referenziert und das Zitat kann strukturell geprüft werden. Volltextzugriff empfohlen.
 
 ---
 
@@ -43,7 +43,7 @@ Riehm, Schadensersatz statt Leistung und Ruecktritt, NJW 2023, 1456 (1459).
 **Zitat:**
 Medicus, Probleme der Willenserklarung, JuS 1965, 209 (211).
 
-**Pruefvermerk:** Kein Pruefvermerk. Historischer Aufsatz; keine Online-URL verfuegbar, aber verifizierbar ueber Bibliotheksbestand.
+**Prüfvermerk:** Kein Prüfvermerk. Historischer Aufsatz; keine Online-URL verfügbar, aber verifizierbar über Bibliotheksbestand.
 
 ---
 
@@ -52,7 +52,7 @@ Medicus, Probleme der Willenserklarung, JuS 1965, 209 (211).
 **Zitat:**
 Rolfs, Massenentlassung und europarechtliche Vorgaben, NZA 2023, 713 (715), abrufbar unter: https://dejure.org/literatur/nza-2023-713 (abgerufen am 01.10.2025).
 
-**Pruefvermerk:** Kein Pruefvermerk. URL auf dejure.org-Literaturverweis vorhanden (Nachweis-Link, kein Volltext).
+**Prüfvermerk:** Kein Prüfvermerk. URL auf dejure.org-Literaturverweis vorhanden (Nachweis-Link, kein Volltext).
 
 ---
 
@@ -60,8 +60,8 @@ Rolfs, Massenentlassung und europarechtliche Vorgaben, NZA 2023, 713 (715), abru
 
 **Anfrage:** Aufsatz Muller-Rosenkampf, Haftungsrecht im digitalen Wandel, ZdigR 2024.
 
-**[PRUEFVERMERK — LITERATUR-MODELLWISSEN-SPERRE (PV-LM)]**
-Die Zeitschrift ZdigR (Zeitschrift fuer digitales Recht) und der Aufsatz Muller-Rosenkampf konnten nicht verifiziert werden. Das Plugin gibt keine nicht-verifizierten Zeitschriftenzitate aus.
+**[PRÜFVERMERK — LITERATUR-MODELLWISSEN-SPERRE (PV-LM)]**
+Die Zeitschrift ZdigR (Zeitschrift für digitales Recht) und der Aufsatz Muller-Rosenkampf konnten nicht verifiziert werden. Das Plugin gibt keine nicht-verifizierten Zeitschriftenzitate aus.
 
 ---
 
@@ -70,7 +70,7 @@ Die Zeitschrift ZdigR (Zeitschrift fuer digitales Recht) und der Aufsatz Muller-
 **Zitat:**
 Canaris, Die Vertrauenshaftung im deutschen Privatrecht, AcP 200 (2000), 273 (289 f.).
 
-**Pruefvermerk:** Kein Pruefvermerk. Klassischer Aufsatz, verifizierbar.
+**Prüfvermerk:** Kein Prüfvermerk. Klassischer Aufsatz, verifizierbar.
 
 ---
 
@@ -79,7 +79,7 @@ Canaris, Die Vertrauenshaftung im deutschen Privatrecht, AcP 200 (2000), 273 (28
 **Zitat:**
 Fleischer, Informationsasymmetrie im Vertragsrecht, ZHR 185 (2021), 1 (18 ff.).
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -88,7 +88,7 @@ Fleischer, Informationsasymmetrie im Vertragsrecht, ZHR 185 (2021), 1 (18 ff.).
 **Zitat:**
 Buehler, Wechselmodell und Kindesunterhalt, FamRZ 2022, 481 (484).
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
@@ -96,8 +96,8 @@ Buehler, Wechselmodell und Kindesunterhalt, FamRZ 2022, 481 (484).
 
 **Anfrage:** Aufsatz Bergmann-Haardt, Zitierweise im Internetzeitalter, Anwaltsblatt-Blog 2023.
 
-**[PRUEFVERMERK — LITERATUR-MODELLWISSEN-SPERRE (PV-LM)]**
-Blog-Artikel koennen nicht wie Zeitschriftenaufsaetze zitiert werden. Das Plugin verifiziert Blog-Quellen nicht. Bitte URL angeben und als Online-Quelle kennzeichnen. Muster:
+**[PRÜFVERMERK — LITERATUR-MODELLWISSEN-SPERRE (PV-LM)]**
+Blog-Artikel können nicht wie Zeitschriftenaufsaetze zitiert werden. Das Plugin verifiziert Blog-Quellen nicht. Bitte URL angeben und als Online-Quelle kennzeichnen. Muster:
 Bergmann-Haardt, Zitierweise im Internetzeitalter, Anwaltsblatt-Blog vom TT.MM.2023, abrufbar unter: [URL] (abgerufen am TT.MM.JJJJ).
 
 ---
@@ -105,15 +105,15 @@ Bergmann-Haardt, Zitierweise im Internetzeitalter, Anwaltsblatt-Blog vom TT.MM.2
 ## Fundstelle 82 — Aufsatz Festschrift
 
 **Zitat:**
-Hopt, Schranken der Geschaeftsfuehrerbefugnis, in: Hoffmann-Becking (Hrsg.), Festschrift fuer Marcus Lutter, 2000, S. 1361 (1375 f.).
+Hopt, Schranken der Geschäftsführerbefugnis, in: Hoffmann-Becking (Hrsg.), Festschrift für Marcus Lutter, 2000, S. 1361 (1375 f.).
 
-**Pruefvermerk:** Kein Pruefvermerk.
+**Prüfvermerk:** Kein Prüfvermerk.
 
 ---
 
-## Zusammenfassung Aufsaetze
+## Zusammenfassung Aufsätze
 
-| Fundstelle | Typ | Pruefvermerk |
+| Fundstelle | Typ | Prüfvermerk |
 |---|---|---|
 | 73 | Tannenmoor JZ 2024 — unverifizierbar | PV-LM |
 | 77 | ZdigR 2024 — unbekannte Zeitschrift | PV-LM |
@@ -123,4 +123,4 @@ Hopt, Schranken der Geschaeftsfuehrerbefugnis, in: Hoffmann-Becking (Hrsg.), Fes
 
 ---
 
-*Pruefkorpus-Abschnitt Aufsaetze: Fundstellen 73–82. Stand: Oktober 2025.*
+*Pruefkorpus-Abschnitt Aufsätze: Fundstellen 73–82. Stand: Oktober 2025.*

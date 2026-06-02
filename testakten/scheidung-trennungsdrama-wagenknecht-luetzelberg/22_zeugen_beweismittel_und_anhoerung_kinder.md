@@ -12,7 +12,7 @@ Das Verfahren hat mehrere parallele Beweisfelder:
 | Themenfeld | Beweisfrage | Beweismittel |
 |---|---|---|
 | Umgang / Kindeswohl | Alkohol-Vorfall, Kinder-Wohlbefinden, Theos Kooperationsverhalten | Maras Aussage, Schulpsychologin, JA-Protokoll, Jugendamt-Stellungnahme |
-| Zugewinn | Wert Architekturbuero, Wert Holzwerkstätten | Parteigutachten WP Dreschler, ggf. Gerichtsgutachten |
+| Zugewinn | Wert Architekturbüro, Wert Holzwerkstätten | Parteigutachten WP Dreschler, ggf. Gerichtsgutachten |
 | Unterhalt | Einkommen Theo tatsächlich und fiktiv | Jahresabschlüsse, Steuerbescheide, Bankkontoauszüge |
 | Versorgungsausgleich | Anwartschaften beider Parteien | Auskünfte Versorgungsträger (§ 5 VersAusglG) |
 | Immobilie | Verkehrswert | SV-Gutachten Klausberg |
@@ -32,7 +32,7 @@ Das Verfahren hat mehrere parallele Beweisfelder:
 | Frau Brandt | Familienpsychologin / Cochemer-Koordinatorin | Theos Verweigerung zweiten Termins, Elternkommunikation |
 | Frau Wendorf | Familienhelfer AWO | Beobachtung der Kinder im Haushalt Vera seit April 2025 |
 | Frau Barbu | Haushaltshilfe | Alltagsbetreuung, Zuverlässigkeit, Haushaltsstruktur |
-| WP Dr. Dreschler | Wirtschaftsprüfer | Wert Architekturbuero |
+| WP Dr. Dreschler | Wirtschaftsprüfer | Wert Architekturbüro |
 | SV Klausberg | Sachverständiger Immobilien | Wert Lindener Hofstraße |
 
 ### 2.2 Mögliche Zeugen Theo-Seite (antizipiert)

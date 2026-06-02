@@ -1,8 +1,8 @@
 target,branche,umsatz_eur_m,ebitda_eur_m,ebitda_marge_pct,mitarbeiter,sitz,rechtsform,risiko,synergie,status_bieter,ev_indikativ_eur_m,quelle,bemerkung
-Solaris Industries AG,Praezisionsantriebssysteme,214,38,17.8,920,Augsburg,AG,mittel,hoch,aktiv_preferred,180,oeffentlich+intern,Carve-out Sparte PDS; IP noch bei Holding
-Beta Robotics GmbH,Industrieautomation,90,14,15.6,420,Stuttgart,GmbH,niedrig,mittel,beobachtung,68,oeffentlich,Kein Prozess; strategische Alternative falls Silberfalke scheitert
-Gamma Antriebe AG,Motorentechnik,310,55,17.7,1400,Hannover,AG,hoch,mittel,ausgeschieden,n/a,oeffentlich,Zu gross; regulatorische Huerde zu hoch
-Delta Hydraulik KG,Hydrauliksysteme,45,6,13.3,180,Regensburg,GmbH+CoKG,niedrig,niedrig,beobachtung,32,oeffentlich,Zu klein fuer Eagle Capital Fund-Groesse
-Epsilon Servo Systems GmbH,Servoantriebe,120,22,18.3,560,Dresden,GmbH,mittel,hoch,beobachtung,95,oeffentlich+intern,Interessant als Bolt-on post Closing; kein eigener Prozess
-Zeta Drive Technology Ltd,Antriebstechnik,75,11,14.7,330,Wien (AT),GmbH,niedrig,mittel,ausgeschieden,n/a,oeffentlich,Oesterreichisches Recht; Fondspraeferenz DE/DACH reduziert
-Eta Mechatronics AG,Mechatronik,160,30,18.8,700,Zuerich (CH),AG,mittel,hoch,beobachtung,130,oeffentlich,Schweizer Recht; CHF-Exposure; fuer spaetere Runde
+Solaris Industries AG,Präzisionsantriebssysteme,214,38,17.8,920,Augsburg,AG,mittel,hoch,aktiv_preferred,180,öffentlich+intern,Carve-out Sparte PDS; IP noch bei Holding
+Beta Robotics GmbH,Industrieautomation,90,14,15.6,420,Stuttgart,GmbH,niedrig,mittel,beobachtung,68,öffentlich,Kein Prozess; strategische Alternative falls Silberfalke scheitert
+Gamma Antriebe AG,Motorentechnik,310,55,17.7,1400,Hannover,AG,hoch,mittel,ausgeschieden,n/a,öffentlich,Zu gross; regulatorische Hürde zu hoch
+Delta Hydraulik KG,Hydrauliksysteme,45,6,13.3,180,Regensburg,GmbH+CoKG,niedrig,niedrig,beobachtung,32,öffentlich,Zu klein für Eagle Capital Fund-Groesse
+Epsilon Servo Systems GmbH,Servoantriebe,120,22,18.3,560,Dresden,GmbH,mittel,hoch,beobachtung,95,öffentlich+intern,Interessant als Bolt-on post Closing; kein eigener Prozess
+Zeta Drive Technology Ltd,Antriebstechnik,75,11,14.7,330,Wien (AT),GmbH,niedrig,mittel,ausgeschieden,n/a,öffentlich,Österreichisches Recht; Fondspraeferenz DE/DACH reduziert
+Eta Mechatronics AG,Mechatronik,160,30,18.8,700,Zürich (CH),AG,mittel,hoch,beobachtung,130,öffentlich,Schweizer Recht; CHF-Exposure; für spätere Runde

@@ -34,7 +34,7 @@ FR beabsichtigt, die 4.200 Restexemplare über Großhändler (Jardineries du Rh�
 Das NWV verbietet den Vertrieb von Rosenbluete-ähnlichen Gartenskulpturen. Der Restbestand der „Fleur Leichtenstein" ist ein solches Erzeugnis. Auch der Abverkauf von Waren aus der Lizenzzeit ist nach Beendigung des Vertrags nicht mehr gestattet, wenn kein ausdrückliches Recht zum Restbestandsabverkauf vereinbart wurde.
 
 **Argumentation Fonderie Roussel:**  
-FR beruft sich auf eine analoge Anwendung der Erschöpfungslehre: Die Rosenblueten wurden rechtmäßig unter dem Lizenzvertrag hergestellt; die Kosten für Herstellung und Material wurden bereits aufgewendet. Das Verbot des Abverkaufs führe zu einem wirtschaftlichen Totalschaden (Verlust von ca. 380.000 EUR an Herstellungskosten und entgangenen Einnahmen bei einem angenommenen Abverkaufspreis von 90 EUR/Stück für insgesamt 4.200 Stück).
+FR beruft sich auf eine analoge Anwendung der Erschöpfungslehre: Die Rosenblüten wurden rechtmäßig unter dem Lizenzvertrag hergestellt; die Kosten für Herstellung und Material wurden bereits aufgewendet. Das Verbot des Abverkaufs führe zu einem wirtschaftlichen Totalschaden (Verlust von ca. 380.000 EUR an Herstellungskosten und entgangenen Einnahmen bei einem angenommenen Abverkaufspreis von 90 EUR/Stück für insgesamt 4.200 Stück).
 
 ## 3. Verhandlungsoptionen und Lösungsszenarien
 

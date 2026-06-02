@@ -26,7 +26,7 @@ Nach formaler Genesung Ende November 2021 blieb Frau Feldermann dauerhaft arbeit
 
 - Dezember 2021: anhaltende Fatigue, Kurzatmigkeit bei Belastung, Schlafstörungen
 - Januar 2022: erste "Crashes" nach körperlicher Aktivität (Post-Exertional Malaise), Herzrasen beim Aufstehen
-- Februar 2022: Hausarzt Dr. Maerker diagnostiziert prolongierten Post-Covid-Verlauf; Überweisung Neurologie und Kardiologie UKL
+- Februar 2022: Hausarzt Dr. Märker diagnostiziert prolongierten Post-Covid-Verlauf; Überweisung Neurologie und Kardiologie UKL
 - März 2022: Erstvorstellung Charité Long-Covid-Ambulanz Berlin, Prof. Carmen Scheibenbogen. Diagnose: Post-Covid-Syndrom mit Post-Exertional Malaise (ME/CFS-Kriterien erfüllt nach Canadian Consensus Criteria), V. a. POTS
 
 ---
@@ -35,7 +35,7 @@ Nach formaler Genesung Ende November 2021 blieb Frau Feldermann dauerhaft arbeit
 
 | ICD-10 | Diagnose | Behandelnde Stelle |
 |---|---|---|
-| U09.9 | Post-Covid-Zustand, nicht näher bezeichnet | Dr. Maerker, Charité |
+| U09.9 | Post-Covid-Zustand, nicht näher bezeichnet | Dr. Märker, Charité |
 | G93.3 | Chronisches Erschöpfungssyndrom (ME/CFS) | Charité (Prof. Scheibenbogen) |
 | G90.3 | Posturales Tachykardiesyndrom (POTS, V. a.) | Charité, Kardiologie UKL |
 | F33.1 | Rezidivierende depressive Störung, mittelgradige Episode | SKH Leipzig |
@@ -47,7 +47,7 @@ Nach formaler Genesung Ende November 2021 blieb Frau Feldermann dauerhaft arbeit
 ## 5. Behandlungsverlauf 2022–2026
 
 ### 2022
-- Hausarztbehandlung Dr. Maerker, fortlaufend, quartalsweise Befundberichte
+- Hausarztbehandlung Dr. Märker, fortlaufend, quartalsweise Befundberichte
 - Charité Long-Covid-Ambulanz: 3 Vorstellungen (März, Juli, November 2022)
 - Kardiologie UKL: Langzeit-EKG, Kipptisch-Test (positiv für POTS-Kriterien)
 - Neurologische Ambulanz UKL: MRT Schädel (unauffällig), neuropsychologische Testung (signifikante Defizite in Arbeitsgedächtnis und Verarbeitungsgeschwindigkeit)

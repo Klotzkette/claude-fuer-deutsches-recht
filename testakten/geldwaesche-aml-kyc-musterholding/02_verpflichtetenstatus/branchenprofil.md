@@ -116,5 +116,5 @@ Bei Vorliegen von Verdachtsmomenten besteht eine Pflicht zur Verdachtsmeldung an
 
 ---
 
-*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld*  
+*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld*  
 *Aktenzeichen: 2026/AML/047-MH*

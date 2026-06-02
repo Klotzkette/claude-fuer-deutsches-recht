@@ -1,6 +1,6 @@
-Datum,Person,Rang,Workstream,Dauer,Stundensatz_EUR,Betrag_EUR,Taetigkeit,Deliverable,Abrechenbar,Bemerkung
+Datum,Person,Rang,Workstream,Dauer,Stundensatz_EUR,Betrag_EUR,Tätigkeit,Deliverable,Abrechenbar,Bemerkung
 2026-05-14,Partner A,Partner,Structure,1.8,650,1170.00,Strukturcall zu Share Deal Asset Deal und Carve-out,Structure Options Memo,Ja,
-2026-05-15,Associate B,Associate,DD,4.6,280,1288.00,Review der Top-Kundenvertraege mit Change-of-Control-Fokus,Commercial DD Grid,Ja,
+2026-05-15,Associate B,Associate,DD,4.6,280,1288.00,Review der Top-Kundenverträge mit Change-of-Control-Fokus,Commercial DD Grid,Ja,
 2026-05-16,Associate C,Associate,Regulatory,2.9,280,812.00,Erstabgleich Fusionskontrolle und AWV,Regulatory Map,Ja,
 2026-05-17,Partner A,Partner,SPA,2.2,650,1430.00,SPA Key Issues und Markup-Strategie,Key Issues List,Ja,
 2026-05-18,Associate B,Associate,Closing,3.4,280,952.00,CP Register und Closing Deliverables,CP Register,Ja,

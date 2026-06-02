@@ -23,7 +23,7 @@ Leitung: **Prof. Dr. med. Carmen Scheibenbogen**
 | Patientin | Vivian Feldermann, geb. 03.09.1984 |
 | Adresse | Bornaische Straße 78, 04277 Leipzig |
 | Versicherung | AOK Plus Sachsen, VersNr. 1234 5678 910 |
-| Überweisender Arzt | Dr. Thomas Maerker, FA Allgemeinmedizin, Leipzig |
+| Überweisender Arzt | Dr. Thomas Märker, FA Allgemeinmedizin, Leipzig |
 | Datum | 12.11.2025 |
 | Vorstellungen gesamt | 8. Vorstellung (1. Vorstellung: 14.03.2022) |
 | Behandlungsart | Ambulante Vorstellung, Long-Covid-Ambulanz |

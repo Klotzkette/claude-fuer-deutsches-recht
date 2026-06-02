@@ -56,7 +56,7 @@ ich berichte Ihnen über den aktuellen Stand in allen laufenden Angelegenheiten:
 
 ### 4. Wärmepumpe / BEG
 
-**Sachstand:** Rechtsgutachten Bergrecht wurde von der WEG-Verwalterin Rheineck beauftragt (Kanzlei Rheinland Bergrecht, Kosten 3.500 EUR). Ergebnis erwartet: August 2026. Parallel läuft Energieberatung (iSFP, Dipl.-Ing. Mensing-Baer).
+**Sachstand:** Rechtsgutachten Bergrecht wurde von der WEG-Verwalterin Rheineck beauftragt (Kanzlei Rheinland Bergrecht, Kosten 3.500 EUR). Ergebnis erwartet: August 2026. Parallel läuft Energieberatung (iSFP, Dipl.-Ing. Mensing-Bär).
 
 **Empfehlung:** Abwarten. Keine neuen Beschlüsse bis Gutachten vorliegt.
 

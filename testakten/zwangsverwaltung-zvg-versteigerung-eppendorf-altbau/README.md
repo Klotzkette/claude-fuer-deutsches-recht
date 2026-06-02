@@ -87,8 +87,8 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 | [09_bietlimit_rechenblatt.csv](09_bietlimit_rechenblatt.csv) | CSV | Einfache Bietlimit-Kalkulation (Verkehrswert minus Risikoabschläge) |
 | [10_quality_gate.md](10_quality_gate.md) | MD | Vollständige Verfahrens-Prüfliste A–H vor Bieterentscheidung; Abbruchkriterien |
 | [11_geringstes_gebot_berechnung.md](11_geringstes_gebot_berechnung.md) | MD | Rechtliche Analyse des geringsten Gebots (§ 49 ZVG), Schutzgrenzen, Bietlimit-Abgrenzung |
-| [12_verkehrswertgutachten_vollstaendig.docx](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Gutachten: Vergleichswert (Sachwert/Ertragswert), 7 Kapitel, Risikohinweise |
-| [12_verkehrswertgutachten_vollstaendig.md](12_verkehrswertgutachten_vollstaendig.md) | MD | Markdown-Vorschau des Gutachtens |
+| [12_verkehrswertgutachten_vollständig.docx](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Gutachten: Vergleichswert (Sachwert/Ertragswert), 7 Kapitel, Risikohinweise |
+| [12_verkehrswertgutachten_vollständig.md](12_verkehrswertgutachten_vollstaendig.md) | MD | Markdown-Vorschau des Gutachtens |
 | [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | DOCX | Terminprotokoll: Anwesende, Versteigerungsbedingungen, 15 Gebote, Zuschlag |
 | [13_versteigerungstermin_protokoll.md](13_versteigerungstermin_protokoll.md) | MD | Markdown-Vorschau des Terminprotokolls |
 | [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | DOCX | Zuschlagsbeschluss mit Rubrum, Tenor, Gründen und Rechtsbehelfsbelehrung |

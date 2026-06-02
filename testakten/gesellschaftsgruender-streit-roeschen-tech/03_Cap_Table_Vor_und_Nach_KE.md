@@ -1,6 +1,6 @@
 # Cap Table — Roeschen Tech GmbH
 
-## Stand 1 — Bei Gruendung (1. Maerz 2024)
+## Stand 1 — Bei Gründung (1. März 2024)
 
 | Gesellschafter | Klasse | Anteile | Nennwert | % | Stimmen | Vesting |
 |---|---|---|---|---|---|---|
@@ -9,7 +9,7 @@
 | Christine Linnenbach (COO) | Common | 6.000 | 6.000 EUR | 20 % | 20 % | 0/48 (Cliff bis 28.02.2025) |
 | **Gesamt** | | **30.000** | **30.000 EUR** | **100 %** | **100 %** | |
 
-Bewertung: Pre-Money 0 EUR (Gruendung mit reinem Stammkapital), Post-Money 30.000 EUR.
+Bewertung: Pre-Money 0 EUR (Gründung mit reinem Stammkapital), Post-Money 30.000 EUR.
 
 ---
 
@@ -29,9 +29,9 @@ Bewertung: Pre-Money 0 EUR (Gruendung mit reinem Stammkapital), Post-Money 30.00
 - Pre-Money: 15.000.000 EUR
 - Post-Money: 20.000.000 EUR
 - Stahlauge-Anteil: 25 %
-- Verwaesserung Gruender: 100 % -> 75 %
+- Verwaesserung Gründer: 100 % -> 75 %
 
-### Verteilung Gruender-Verwaesserung
+### Verteilung Gründer-Verwaesserung
 
 - Andrea: 40 % -> 30 % (Verwaesserung 25 %)
 - Bert: 40 % -> 30 % (Verwaesserung 25 %)
@@ -39,7 +39,7 @@ Bewertung: Pre-Money 0 EUR (Gruendung mit reinem Stammkapital), Post-Money 30.00
 
 ---
 
-## Stand 3 — Nach geplanter 2. KE (Beschluss 18.06.2026; Eintragung beantragt; Streit anhaengig)
+## Stand 3 — Nach geplanter 2. KE (Beschluss 18.06.2026; Eintragung beantragt; Streit anhängig)
 
 | Gesellschafter | Klasse | Anteile | % | Stimmen | Investment |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@ Bewertung: Pre-Money 0 EUR (Gruendung mit reinem Stammkapital), Post-Money 30.00
 
 ### 2. KE Daten
 
-- Kapitalerhoehung: + 12.500 EUR (Pi Mu Holding GmbH zeichnet Class C)
+- Kapitalerhöhung: + 12.500 EUR (Pi Mu Holding GmbH zeichnet Class C)
 - Bezugsrechtsausschluss der bestehenden Gesellschafter
 - Investment-Volumen Pi Mu: 12.500.000 EUR (Aufgeld 12.487.500 EUR)
 - Pre-Money: 38.500.000 EUR
@@ -83,18 +83,18 @@ Im **Buchwert** gewinnt Christine — von 3 Mio. auf 6 Mio. EUR. **Realwirtschaf
 
 | Gesellschafter | Klasse | Anteile | % |
 |---|---|---|---|
-| Andrea Roesener | Common | 14.875 | 29,17 % (Bezugsrecht ausgeuebt anteilig) |
+| Andrea Roesener | Common | 14.875 | 29,17 % (Bezugsrecht ausgeübt anteilig) |
 | Bert Schmid | Common | 14.875 | 29,17 % |
 | Christine Linnenbach | Common | 7.438 | 14,58 % |
-| Stahlauge Ventures AG | B | 12.500 | 24,51 % (Bezugsrecht ausgeuebt) |
-| Restbetrag fuer Pi Mu | C | 1.312 | 2,57 % |
+| Stahlauge Ventures AG | B | 12.500 | 24,51 % (Bezugsrecht ausgeübt) |
+| Restbetrag für Pi Mu | C | 1.312 | 2,57 % |
 | **Gesamt** | | **51.000** | **100 %** |
 
-In diesem Szenario haetten alle bestehenden Gesellschafter ihre Anteile anteilig durch Bareinlage erhalten koennen, und Pi Mu haette nur den Restbetrag bekommen.
+In diesem Szenario hätten alle bestehenden Gesellschafter ihre Anteile anteilig durch Bareinlage erhalten können, und Pi Mu hätte nur den Restbetrag bekommen.
 
-**Kosten fuer Christine**: 15 % × 12,5 Mio. = 1,875 Mio. EUR Bareinlage erforderlich gewesen.
+**Kosten für Christine**: 15 % × 12,5 Mio. = 1,875 Mio. EUR Bareinlage erforderlich gewesen.
 
-**Streitfrage**: hat Christine wirtschaftlich diese Kapazitaet? Stahlauge und Gruender behaupten, nein.
+**Streitfrage**: hat Christine wirtschaftlich diese Kapazität? Stahlauge und Gründer behaupten, nein.
 
 ---
 
@@ -107,7 +107,7 @@ In diesem Szenario haetten alle bestehenden Gesellschafter ihre Anteile anteilig
 - Andrea (30 %): 6,75 Mio.
 - Bert (30 %): 6,75 Mio.
 - Christine (15 %): 3,375 Mio.
-- Stahlauge zusaetzlich (25 % anteilig, participating): 5,625 Mio.
+- Stahlauge zusätzlich (25 % anteilig, participating): 5,625 Mio.
 - **Stahlauge gesamt: 13,125 Mio.** (= 2,625x Investment)
 - **Andrea gesamt: 6,75 Mio.**
 - **Bert gesamt: 6,75 Mio.**
@@ -121,8 +121,8 @@ In diesem Szenario haetten alle bestehenden Gesellschafter ihre Anteile anteilig
 - Andrea (23,53 %): 2,353 Mio.
 - Bert (23,53 %): 2,353 Mio.
 - Christine (11,76 %): 1,176 Mio.
-- Stahlauge zusaetzlich (19,61 % participating): 1,961 Mio.
-- Pi Mu zusaetzlich (24,51 % non-participating — keine zusaetzliche Beteiligung): 0
+- Stahlauge zusätzlich (19,61 % participating): 1,961 Mio.
+- Pi Mu zusätzlich (24,51 % non-participating — keine zusätzliche Beteiligung): 0
 
 - **Christine gesamt: 1,176 Mio.** (vorher 3,375 Mio. ohne 2. KE)
 
@@ -136,4 +136,4 @@ In diesem Szenario haetten alle bestehenden Gesellschafter ihre Anteile anteilig
 2. Stimmrechts-Verlust unter 12 % -> bei vielen Mehrheits-Schwellen nicht mehr relevant
 3. Im Liquidation-Waterfall: Verlust von 2,2 Mio. EUR in mittleren Exit-Szenarien
 4. Sachliche Rechtfertigung des Bezugsrechtsausschlusses fraglich (Pi Mu bringt **keine** offenkundige strategische Expertise — sondern nur Kapital)
-5. Christine haette anteiliges Bezugsrecht ausueben wollen (zumindest fuer kleineren Betrag) — wurde nicht angefragt
+5. Christine hätte anteiliges Bezugsrecht ausüben wollen (zumindest für kleineren Betrag) — wurde nicht angefragt

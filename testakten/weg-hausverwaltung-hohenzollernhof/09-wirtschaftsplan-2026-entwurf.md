@@ -26,19 +26,19 @@ Davon Sonderumlage Balkonsanierung **240.000 EUR** geht in **separaten Beschluss
 
 | Position | EUR |
 |----------|-----|
-| Heizung (Gas, Heizoel Reserve) | 52.400 |
+| Heizung (Gas, Heizöl Reserve) | 52.400 |
 | Wasser/Abwasser | 38.200 |
 | Strom Allgemein (Treppe, Aufzug, Heizung, Tiefgarage) | 19.800 |
-| Mueltrenung (BSR, Hofmuell, Sperrmuell) | 8.940 |
+| Mueltrenung (BSR, Hofmüll, Sperrmüll) | 8.940 |
 | Reinigung (Treppenhaus, Fenster aussen, Hof) | 14.800 |
 | Aufzugswartung (Schindler) | 4.860 |
 | Heizungswartung (BTH Buderus) | 3.420 |
-| Versicherungen (Gebaeude, Haftpflicht, Glas, Stieg) | 11.280 |
+| Versicherungen (Gebäude, Haftpflicht, Glas, Stieg) | 11.280 |
 | Schornsteinfeger | 1.120 |
 | Hausmeister (Dienst Aurelius) | 9.600 |
 | Gartenpflege (Hofgarten) | 4.080 |
-| Schaedlingsbekaempfung (Praeventiv) | 940 |
-| Sonstige Bewirtschaftung (Schluesseldienst, Schliessanlage, Hausordnung) | 1.840 |
+| Schädlingsbekämpfung (Präventiv) | 940 |
+| Sonstige Bewirtschaftung (Schlüsseldienst, Schliessanlage, Hausordnung) | 1.840 |
 | **Summe Bewirtschaftung** | **171.280** |
 
 ### Verwaltungskosten
@@ -47,18 +47,18 @@ Davon Sonderumlage Balkonsanierung **240.000 EUR** geht in **separaten Beschluss
 |----------|-----|
 | Verwaltervergueting Berlin-Domus | 42.840 |
 | Verwalter-Sonderkosten (Postversand, Drucken, Versammlungs-Saalmiete) | 3.600 |
-| Wirtschaftspruefer (jaehrlich) | 0 (nicht alle 3 Jahre) |
+| Wirtschaftsprüfer (jährlich) | 0 (nicht alle 3 Jahre) |
 | Beirats-Aufwand | 1.200 |
 | **Summe Verwaltung** | **47.640** |
 
-### Erhaltungsrueckstellung
+### Erhaltungsrückstellung
 
 | Position | EUR |
 |----------|-----|
-| Erhaltungsruecklage zu (Bewohlung 2026 nach BGH-Empfehlung) | 56.000 |
-| **Stand Erhaltungsruecklage 01.01.2026** | 134.580 |
+| Erhaltungsrücklage zu (Bewohlung 2026 nach BGH-Empfehlung) | 56.000 |
+| **Stand Erhaltungsrücklage 01.01.2026** | 134.580 |
 | **Plan-Stand 31.12.2026** | **190.580** |
-| **Erhaltungsruecklage in % vom Verkehrswert (geschaetzt 18 Mio.)** | ca. 1,1 % |
+| **Erhaltungsrücklage in % vom Verkehrswert (geschätzt 18 Mio.)** | ca. 1,1 % |
 
 **!!! Anmerkung Beirat (Mertens):** Empfehlung des BGH (V ZR 28/99 vom 12.10.2000) und BVI ist 1,0-1,5 % des Verkehrswerts. Mit 1,1 % gerade noch akzeptabel; aber bei 240.000 EUR Sonderumlage Balkonsanierung wird Substanz angegriffen — Reserve schmilzt.
 
@@ -66,7 +66,7 @@ Davon Sonderumlage Balkonsanierung **240.000 EUR** geht in **separaten Beschluss
 
 | Position | EUR |
 |----------|-----|
-| Steuerberater (Gemeinschafts-Erklaerung GrundSt-MUss) | 1.200 |
+| Steuerberater (Gemeinschafts-Erklärung GrundSt-MUss) | 1.200 |
 | Rechtsanwalt (Pasternak-Verfahren erwartet) | 2.400 |
 | Sonstige Eskalation | 1.500 |
 | Sonderausgaben Heizung 2026 | 3.500 |
@@ -74,10 +74,10 @@ Davon Sonderumlage Balkonsanierung **240.000 EUR** geht in **separaten Beschluss
 
 ### CO2-Anteil (NEU 2026 nach CO2KostAufG)
 
-Eigentuemer-Anteil 2026 voraussichtlich (Stufe 5 wie 2025):
+Eigentümer-Anteil 2026 voraussichtlich (Stufe 5 wie 2025):
 - Mieter-Anteil: 60 % von 5.060 EUR = 3.036 EUR (zugewiesen den vermietenden Einheiten)
-- **Eigentuemer-Anteil 40 %** = **2.024 EUR** (geht in Hausgeld)
-- in Wirtschaftsplan als Position "CO2-Aufschlag Eigentuemer-Anteil" 2.024 EUR
+- **Eigentümer-Anteil 40 %** = **2.024 EUR** (geht in Hausgeld)
+- in Wirtschaftsplan als Position "CO2-Aufschlag Eigentümer-Anteil" 2.024 EUR
 
 ### Aussenstellplaetze Sondernutzung
 
@@ -85,16 +85,16 @@ Eigentuemer-Anteil 2026 voraussichtlich (Stufe 5 wie 2025):
 |----------|-----|
 | Mieten Aussenstellplaetze (14 × 70 EUR/Monat = 11.760 / Jahr) | 11.760 |
 | Mieten Hofgarten (Wartung-Beteiligung Praxis Lipinski) | 6.660 |
-| **Summe Sondernutzungs-Beitraege** | **18.420** |
+| **Summe Sondernutzungs-Beiträge** | **18.420** |
 
 ## Hausgeld-Verteilung 2026
 
-Berechnungsbasis: 287.450 EUR Jahres-Hausgeld, MEA-Quotient nach Teilungserklaerung.
+Berechnungsbasis: 287.450 EUR Jahres-Hausgeld, MEA-Quotient nach Teilungserklärung.
 
-| WE | MEA / 10.000 | Hausgeld 2026 (jaehrlich) | Hausgeld monatlich |
+| WE | MEA / 10.000 | Hausgeld 2026 (jährlich) | Hausgeld monatlich |
 |----|---------------|---------------------------|-------------------|
 | 1 | 156 | 4.484 | 374 |
-| 3 | 87 | 2.501 | 208 — **strittig wegen Pasternak-Rueckstand** |
+| 3 | 87 | 2.501 | 208 — **strittig wegen Pasternak-Rückstand** |
 | 7 | 412 (Krause-GbR 4 WE) | 11.843 | 987 |
 | 14 | 198 | 5.692 | 474 |
 | 19 | 156 | 4.484 | 374 |
@@ -107,19 +107,19 @@ Berechnungsbasis: 287.450 EUR Jahres-Hausgeld, MEA-Quotient nach Teilungserklaer
 | ... | ... | ... | ... |
 | **Summe Wohnen** | 7.876 | 226.487 | — |
 | **Summe Gewerbe** | 1.013 | 29.123 | — |
-| **Summe Stellplaetze** | 1.111 | 31.840 | — |
+| **Summe Stellplätze** | 1.111 | 31.840 | — |
 | **Gesamt** | **10.000** | **287.450** | — |
 
 ## Vorbehalt Sonderumlage
 
 Falls die EV 17.06.2026 eine Sonderumlage zur Balkonsanierung beschliesst, wird diese **separat erhoben** und ist nicht Teil des Wirtschaftsplans. Anhand der Vorlage:
 
-- Sonderumlage Variante A: 240.000 EUR / MEA = 24,00 EUR pro MEA (Eigentuemer mit 100 MEA zahlt 2.400 EUR)
-- Sonderumlage Variante B (Empfehlung Beirat): nach Balkonflaeche der hofseitigen Eigentuemer (12 Einheiten)
+- Sonderumlage Variante A: 240.000 EUR / MEA = 24,00 EUR pro MEA (Eigentümer mit 100 MEA zahlt 2.400 EUR)
+- Sonderumlage Variante B (Empfehlung Beirat): nach Balkonfläche der hofseitigen Eigentümer (12 Einheiten)
 
-Konkrete Verteilung Variante B (Balkonflaeche):
+Konkrete Verteilung Variante B (Balkonfläche):
 
-| WE | Balkonflaeche m² | Anteil % | Sonderumlage 195.000 EUR |
+| WE | Balkonfläche m² | Anteil % | Sonderumlage 195.000 EUR |
 |----|------------------|----------|--------------------------|
 | 1 | 14,2 | 8,3 % | 16.185 |
 | 5 | 12,8 | 7,5 % | 14.625 |
@@ -135,14 +135,14 @@ Konkrete Verteilung Variante B (Balkonflaeche):
 | 38 | 20,2 | 11,8 % | 23.205 |
 | **Summe** | **171,0** | **100 %** | **195.000** |
 
-**Anmerkung Beirat:** Die Berechnung nach Balkonflaeche ist sachgerecht; sachlicher Grund nach BGH V ZR 236/23 v. 14.02.2025 vorhanden. Die 12 nicht-hofseitig-Balkonen Eigentuemer zahlen nichts.
+**Anmerkung Beirat:** Die Berechnung nach Balkonfläche ist sachgerecht; sachlicher Grund nach BGH V ZR 236/23 v. 14.02.2025 vorhanden. Die 12 nicht-hofseitig-Balkonen Eigentümer zahlen nichts.
 
 ## Anlagen
 
 1. Detaillierte Bewirtschaftungs-Aufstellung 2026 (Excel)
 2. Verteiler-Tabelle alle 40 Einheiten mit MEA und Hausgeld
 3. Sonderumlage Variante A und B Detailrechnung
-4. Erhaltungsruecklage-Entwicklung 2020-2026
+4. Erhaltungsrücklage-Entwicklung 2020-2026
 5. Vergleich Wirtschaftsplan 2025 / 2026
 
 ## Empfehlung

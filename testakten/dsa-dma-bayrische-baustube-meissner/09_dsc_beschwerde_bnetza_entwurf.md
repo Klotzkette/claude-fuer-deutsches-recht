@@ -16,7 +16,7 @@ E-Mail: dsa-beschwerden@bnetza.de
 
 Baustube Meißnerlein GmbH, Innere Bachgasse 17, 91315 Höchstadt an der Aisch, gesetzlich vertreten durch die Geschäftsführerin Walpurga Meißnerlein-Hochkönig.
 
-Bevollmächtigte: Hagenroth, Quasthoff-Pruegelmann & Kollegen, Erlangen.
+Bevollmächtigte: Hagenroth, Quasthoff-Prügelmann & Kollegen, Erlangen.
 
 ### Beschuldigte Diensteanbieterin
 

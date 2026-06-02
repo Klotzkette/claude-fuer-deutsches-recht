@@ -1,46 +1,46 @@
-Datum,Meilenstein,Kategorie,Verantwortlich,Nachweis,Status,Abhaengigkeit,Puffer_Tage,Kommentar
+Datum,Meilenstein,Kategorie,Verantwortlich,Nachweis,Status,Abhängigkeit,Puffer_Tage,Kommentar
 2026-05-12,Erstgespräch Mandant; Mandatsnotiz erstellt,Mandat,RA Westphal,Mandatsnotiz 01_mandatsnotiz_erstgespraech.md,erledigt,,0,
 2026-05-13,Vollmacht Original erhalten,Mandat,GF Reimers,Vollmacht-Original Aktenmappe,erledigt,,0,
-2026-05-14,13-Wochen-Liquiditaetsplanung durch CFO,Analyse,CFO Hollender,03_liquiditaetsstatus.csv,erledigt,,0,
-2026-05-16,Vorlaeufiger Ueberschuldungsstatus durch StB Dresen,Analyse,StB Dresen,Ueberschuldungsstatus 11.05.2026,erledigt,,2,Noch nicht abschliessend testiert
+2026-05-14,13-Wochen-Liquiditätsplanung durch CFO,Analyse,CFO Hollender,03_liquiditaetsstatus.csv,erledigt,,0,
+2026-05-16,Vorläufiger Ueberschuldungsstatus durch StB Dresen,Analyse,StB Dresen,Ueberschuldungsstatus 11.05.2026,erledigt,,2,Noch nicht abschliessend testiert
 2026-05-19,Gesprach NordBank AG Sanierungsteam,Verhandlung,GF Reimers + RA Westphal,Gesprachsprotokoll,erledigt,,0,NordBank signalisiert Ablehnung; Verhandlung offen
 2026-05-19,Krisenursachen-Workshop,Analyse,RA Westphal (Moderation),06_krisenursachen_workshop.md,erledigt,,0,
 2026-05-26,Investor Term Sheet Nordlicht (Version 0.3),Finanzierung,RA Westphal,08_investor_term_sheet.md,erledigt,,0,Noch nicht bindend
-2026-05-28,Projektzahlung Elbe Anlagenbau (380 TEUR) eingegangen,Liquiditaet,CFO Hollender,Kontoauszug Sparkasse 28.05.2026,erledigt,,0,Kritische Liquiditaetssicherung Mai
+2026-05-28,Projektzahlung Elbe Anlagenbau (380 TEUR) eingegangen,Liquidität,CFO Hollender,Kontoauszug Sparkasse 28.05.2026,erledigt,,0,Kritische Liquiditätssicherung Mai
 2026-05-30,DRV-Zahlung (48 TEUR) veranlasst,Steuern/SV,CFO Hollender,Überweisungsbeleg,erledigt,,0,Strafanzeigenrisiko § 266a StGB abgewendet
 2026-06-02,Antrag § 3a EStG Sanierungsgewinn FA Hamburg-Mitte,Steuern,StB Dresen,Antragsschreiben FA,erledigt,,0,
-2026-06-05,Sicherheitengutachten Brandt endgueltiger Entwurf,Bewertung,SV Brandt,14_sicherheitenbewertung.md,erledigt,,3,Abschlussversion bis 10.06.2026
+2026-06-05,Sicherheitengutachten Brandt endgültiger Entwurf,Bewertung,SV Brandt,14_sicherheitenbewertung.md,erledigt,,3,Abschlussversion bis 10.06.2026
 2026-06-05,Gruppen-/Klassenentwurf fertiggestellt,Plan,RA Westphal,10_gruppen_klassen_entwurf.md,erledigt,,0,
 2026-06-09,Steuer- und SV-Risiken-Memo,Analyse,StB Dresen,13_steuer_sv_risiken.md,erledigt,,0,
 2026-06-10,Sicherheitengutachten Brandt finalisiert,Bewertung,SV Brandt,Gutachten PDF Anlage 3,offen,2026-06-05,0,
-2026-06-12,Rechtsgutachten Globalzession Prioritaet (Müller & Fischer),Recht,RA Westphal,Rechtsgutachten,offen,2026-06-09,0,Kritisch fuer Cram-Down-Vorbereitung
-2026-06-12,Vergleichsrechnung: Uebertragungsszenario ergaenzt,Plan,CFO Hollender,09_vergleichsrechnung_arbeitsstand.csv,offen,2026-06-10,1,Red-Team-Einwand Nr. 1 schliessen
+2026-06-12,Rechtsgutachten Globalzession Priorität (Müller & Fischer),Recht,RA Westphal,Rechtsgutachten,offen,2026-06-09,0,Kritisch für Cram-Down-Vorbereitung
+2026-06-12,Vergleichsrechnung: Übertragungsszenario ergänzt,Plan,CFO Hollender,09_vergleichsrechnung_arbeitsstand.csv,offen,2026-06-10,1,Red-Team-Einwand Nr. 1 schliessen
 2026-06-13,Mandantengespräch Verfahrenswahl finale Entscheidung,Mandat,GF Reimers / RA Westphal,Entscheidungsprotokoll,offen,2026-06-12,0,Ergebnis: Insolvenzplan Eigenverwaltung (Option B)
 2026-06-14,Buchholz Retention-Bonus Gespräch und Vertrag,Personal,GF Petersen,Vereinbarung Buchholz,offen,2026-06-13,0,
 2026-06-14,Verzichtserklarung Gesellschafterdarlehen (notariell),Plan,RA Westphal / M. Roensberg,Notarielle Erklarung,offen,2026-06-13,0,Beurkundung Notar Dr. Schroeder Hamburg
 2026-06-14,Commitment Letter Investor Nordlicht (500 TEUR Konventionalstrafe),Finanzierung,RA Westphal,Commitment Letter,offen,2026-06-13,1,
 2026-06-15,Betriebsrat-Unterrichtung § 111 BetrVG,Kommunikation,GF Reimers,Protokoll BR-Sitzung,offen,2026-06-13,0,
 2026-06-15,Briefe an NordBank / LeasingWerk / Stahlhandel Kuefte,Kommunikation,RA Westphal,Briefe + Nachweisversand,offen,2026-06-14,0,
-2026-06-15,Glaeubigerausschuss-Kandidaten benennen,Prozess,RA Westphal,Benennung an Gericht,offen,2026-06-14,0,
+2026-06-15,Gläubigerausschuss-Kandidaten benennen,Prozess,RA Westphal,Benennung an Gericht,offen,2026-06-14,0,
 2026-06-15,Masseplan (Massesicherungsplan) finalisiert,Plan,CFO Hollender,Masseplan Excel,offen,2026-06-12,1,
-2026-06-16,Insolvenzantrag und Eigenverwaltungsantrag beim AG Hamburg,Gericht,RA Westphal,Antragsschrift + Anlagen,offen,alle vorherigen,0,KRITISCHER PFAD; Gebuehrenvorschuss 5000 EUR vorab
+2026-06-16,Insolvenzantrag und Eigenverwaltungsantrag beim AG Hamburg,Gericht,RA Westphal,Antragsschrift + Anlagen,offen,alle vorherigen,0,KRITISCHER PFAD; Gebührenvorschuss 5000 EUR vorab
 2026-06-16,Planentwurf (darstellend + gestaltend) eingereicht,Plan,RA Westphal,Plan-PDF + DOCX,offen,2026-06-16,0,
 2026-06-17,Anordnung vorläufige Eigenverwaltung erwartet (AG Hamburg),Gericht,Gericht,Beschluss,offen,2026-06-16,3,
-2026-06-19,Datenraum vollstaendig und gesichert,Analyse,CFO Hollender / RA Westphal,Datenraumprotokoll,offen,2026-06-17,0,
-2026-06-23,Glaeubigerversammlung / Eruterungstermin (Termin voraussichtlich),Gericht,Gericht / RA Westphal,Protokoll Versammlung,offen,2026-06-17,7,Termin muss Gericht festsetzen; erfahrungsgemäss 1-2 Wochen nach Eroeffnung
-2026-06-25,Insolvenzgeldsicherung Lohn Juni (bei Insolvenzeroeffnung),Personal,CFO Hollender / BA,Insolvenzgeld-Antrag,offen,2026-06-17,0,Bundesagentur fuer Arbeit; Vorschuss moeglich
+2026-06-19,Datenraum vollständig und gesichert,Analyse,CFO Hollender / RA Westphal,Datenraumprotokoll,offen,2026-06-17,0,
+2026-06-23,Gläubigerversammlung / Eruterungstermin (Termin voraussichtlich),Gericht,Gericht / RA Westphal,Protokoll Versammlung,offen,2026-06-17,7,Termin muss Gericht festsetzen; erfahrungsgemäss 1-2 Wochen nach Eröffnung
+2026-06-25,Insolvenzgeldsicherung Lohn Juni (bei Insolvenzeröffnung),Personal,CFO Hollender / BA,Insolvenzgeld-Antrag,offen,2026-06-17,0,Bundesagentur für Arbeit; Vorschuss möglich
 2026-07-01,Abstimmungstermin (Planentwurf vorgelegt),Gericht,RA Westphal / Sachwalter,Abstimmungsprotokoll,offen,2026-06-23,7,Nein-Stimmen NordBank + ggf Gruppe 3; Cram-Down beantragt
 2026-07-15,Planbestaetigung durch AG Hamburg erwartet (§ 248 InsO),Gericht,Gericht,Bestaetungsbeschluss,offen,2026-07-01,14,
-2026-07-20,Ausfertigung Planbestaetigung + Rechtsmittelfrist laeuft,Recht,RA Westphal,Ausfertigung + Fristnotiz,offen,2026-07-15,5,Beschwerdefrist 2 Wochen gem § 253 InsO
-2026-08-04,Rechtskraft der Planbestaetigung (wenn keine Beschwerde),Recht,Gericht,Rechtskraftbescheinigung,offen,2026-07-20,0,MAC-Risiko: NordBank koennte Beschwerde einlegen
+2026-07-20,Ausfertigung Planbestaetigung + Rechtsmittelfrist läuft,Recht,RA Westphal,Ausfertigung + Fristnotiz,offen,2026-07-15,5,Beschwerdefrist 2 Wochen gem § 253 InsO
+2026-08-04,Rechtskraft der Planbestaetigung (wenn keine Beschwerde),Recht,Gericht,Rechtskraftbescheinigung,offen,2026-07-20,0,MAC-Risiko: NordBank könnte Beschwerde einlegen
 2026-08-07,Investor Tranche 1 (900 TEUR) Auszahlung bei Planannahme,Finanzierung,Nordlicht / CFO,Kontoeingang,offen,2026-08-04,3,
-2026-08-14,Erste Planraten an Gruppen 2 (40%) und Kleinglaeubigerklasse (75%),Planvollzug,Treuhander,Zahlungsnachweise,offen,2026-08-07,7,
+2026-08-14,Erste Planraten an Gruppen 2 (40%) und Kleingläubigerklasse (75%),Planvollzug,Treuhander,Zahlungsnachweise,offen,2026-08-07,7,
 2026-08-14,Eigentumsvorbehalts-Abgeltung Stahlhandel Kuefte (480 TEUR),Planvollzug,Treuhander / CFO,Zahlungsnachweis,offen,2026-08-07,0,
-2026-09-01,Audit DIN EN 1090-2 EXC 3 Verlängerung (DQS GmbH),Betrieb,GF Petersen / Buchholz,Zertifikat neu,offen,2026-08-14,0,KRITISCH; Zertifikat gueltig bis 30.09.2026
+2026-09-01,Audit DIN EN 1090-2 EXC 3 Verlängerung (DQS GmbH),Betrieb,GF Petersen / Buchholz,Zertifikat neu,offen,2026-08-14,0,KRITISCH; Zertifikat gültig bis 30.09.2026
 2026-09-30,DIN EN 1090-2 Zertifikat Verlängerung erwartet,Betrieb,DQS GmbH,Zertifikat,offen,2026-09-01,0,
 2026-10-01,Investor Tranche 2 (500 TEUR) Auszahlung nach Rechtskraft,Finanzierung,Nordlicht / CFO,Kontoeingang,offen,2026-08-04,0,
 2026-10-15,Zweite Planraten Gruppe 4 (FA Hamburg Erstrate),Planvollzug,Treuhander,Zahlungsnachweis,offen,2026-10-01,0,
-2026-12-31,Erster Jahresabschluss nach Planvollzug (2026 geprueft),Reporting,StB Dresen / WP,Jahresabschluss testiert,offen,2026-10-01,0,
+2026-12-31,Erster Jahresabschluss nach Planvollzug (2026 geprüft),Reporting,StB Dresen / WP,Jahresabschluss testiert,offen,2026-10-01,0,
 2027-02-15,Zweite Rate Gruppe 2 (20%) und Gruppe 3 Restrate,Planvollzug,Treuhander,Zahlungsnachweise,offen,2026-08-04,0,12 Monate nach Rechtskraft
 2028-08-04,Ende Planüberwachung (24 Monate nach Rechtskraft),Planvollzug,Treuhander,Abschlussbericht,offen,2026-08-04,0,
-2030-08-07,Investor-Darlehen Rueckzahlung (Bullet 1.4 Mio + Zinsen),Finanzierung,CFO,Zahlungsnachweis,offen,2028-08-04,0,48 Monate nach Auszahlung Tranche 1
+2030-08-07,Investor-Darlehen Rückzahlung (Bullet 1.4 Mio + Zinsen),Finanzierung,CFO,Zahlungsnachweis,offen,2028-08-04,0,48 Monate nach Auszahlung Tranche 1

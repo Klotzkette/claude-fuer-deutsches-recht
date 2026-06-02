@@ -20,11 +20,11 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Kurzbild
 
-- Mandantschaft: Klimacamp Initiative Saarbruecken e.V. (Beschwerdefuehrer 1, vertreten durch Vorsitzenden Dr. Friedrich Tannenberg-Roosendaal) sowie 14 Einzelpersonen (Beschwerdefuehrer 2-15, darunter Studierende, eine Lehrerin, ein Rentner, Aerztin Dr. Pohlmann-Wittfeldt).
-- Anlass: Versammlungsverbotsverfuegung des Stadtrechtsamts Saarbruecken vom 12.03.2026 fuer ein geplantes Dauerprotestcamp vor dem Saarlaendischen Landtag (geplanter Zeitraum 16.03.-30.04.2026).
-- Instanzenzug: VG Saarlouis 2 K 188/26 (Eil-Beschluss, Bestaetigungsklage, Ablehnung) → OVG Saarland 1 B 14/26 (Beschwerde, zurueckgewiesen) → BVerfG 1 BvR 188/26 (Verfassungsbeschwerde + Eilantrag § 32 BVerfGG).
-- Kanzlei: Roosendaal Schwingenstein Partner, Saarbruecken; federfuehrend RA Dr. Roosendaal-Eichmueller, AZ MR-2026-VB-0312; wissenschaftliche Kooperation Prof. Dr. Birkenhain (Universitaet des Saarlandes).
-- Kernfragen: Schutzbereich Art. 8 I GG (friedliche Versammlung, Dauercamp als Versammlung?), Gesetzesvorbehalt Art. 8 II GG (SaarlVersG, Bestimmtheitsgrundsatz), Bannmeile und Funktionsfaehigkeit des Parlaments (Art. 38 GG i.V.m. § 16 SaarlVersG), Verhaeltnismaessigkeit der Totaluntersagung.
+- Mandantschaft: Klimacamp Initiative Saarbruecken e.V. (Beschwerdefuehrer 1, vertreten durch Vorsitzenden Dr. Friedrich Tannenberg-Roosendaal) sowie 14 Einzelpersonen (Beschwerdeführer 2-15, darunter Studierende, eine Lehrerin, ein Rentner, Ärztin Dr. Pohlmann-Wittfeldt).
+- Anlass: Versammlungsverbotsverfügung des Stadtrechtsamts Saarbruecken vom 12.03.2026 für ein geplantes Dauerprotestcamp vor dem Saarländischen Landtag (geplanter Zeitraum 16.03.-30.04.2026).
+- Instanzenzug: VG Saarlouis 2 K 188/26 (Eil-Beschluss, Bestätigungsklage, Ablehnung) → OVG Saarland 1 B 14/26 (Beschwerde, zurückgewiesen) → BVerfG 1 BvR 188/26 (Verfassungsbeschwerde + Eilantrag § 32 BVerfGG).
+- Kanzlei: Roosendaal Schwingenstein Partner, Saarbruecken; federführend RA Dr. Roosendaal-Eichmueller, AZ MR-2026-VB-0312; wissenschaftliche Kooperation Prof. Dr. Birkenhain (Universität des Saarlandes).
+- Kernfragen: Schutzbereich Art. 8 I GG (friedliche Versammlung, Dauercamp als Versammlung?), Gesetzesvorbehalt Art. 8 II GG (SaarlVersG, Bestimmtheitsgrundsatz), Bannmeile und Funktionsfähigkeit des Parlaments (Art. 38 GG i.V.m. § 16 SaarlVersG), Verhaeltnismaessigkeit der Totaluntersagung.
 - Leitentscheidungen: BVerfGE 69, 315 (Bruesen); BVerfGE 87, 399 (Sitzblockade I); BVerfGE 92, 1 (Sitzblockade II); BVerfG 1 BvR 388/05 (Heiligendamm); BVerfG 1 BvR 1690/15 (Anti-AKW).
 - Parallelverfahren: Ermittlungsverfahren StA Saarbruecken 188 Js 4711/26 gegen 4 Initiative-Mitglieder wegen § 21 VersG nach erstem Camp-Versuch 15.03.2026.
 - Stichtag dieser Akte: April 2026.
@@ -33,35 +33,35 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Was diese Akte demonstriert
 
-| Skill | Aktenstueck | Demonstration |
+| Skill | Aktenstück | Demonstration |
 |---|---|---|
 | Grundrechtsschutzbereich Art. 8 GG | 07, 08 | Versammlungsbegriff, Dauercamp, friedlich/nicht-friedlich |
-| Gesetzesvorbehalt Art. 8 II GG / SaarlVersG | 02, 07 | Bestimmtheitsgrundsatz, Normenklarheit, Ermessensausuebung |
+| Gesetzesvorbehalt Art. 8 II GG / SaarlVersG | 02, 07 | Bestimmtheitsgrundsatz, Normenklarheit, Ermessensausübung |
 | Bannmeile / Parlamentsfunktionsschutz | 17 | Art. 38 GG, § 16 SaarlVersG, praktische Konkordanz |
 | Verhaeltnismaessigkeit Versammlungsverbot | 04, 15, 18 | Geeignetheit, Erforderlichkeit, Angemessenheit, mildere Mittel |
 | Bruesen-Doktrin und Fortentwicklung | 08, 16 | BVerfGE 69 315, Heiligendamm, Anti-AKW, Sitzblockade |
 | Eilantrag § 32 BVerfGG (Doppelhypothese) | 06, 15 | Folgenabwaegung, Doppelhypothese, einstweilige Anordnung |
-| Subsidiaritaet § 90 II BVerfGG | 09 | Rechtsweg-Erschoepfung, Ausnahmevoraussetzungen |
+| Subsidiarität § 90 II BVerfGG | 09 | Rechtsweg-Erschöpfung, Ausnahmevoraussetzungen |
 | Fristberechnung § 93 III BVerfGG | 10 | Beschwerdefrist, Fristbeginn, Wiedereinsetzung |
-| Rechtsprechungskanon Versammlungsfreiheit | 08, 16 | BVerfGE-Leitsaetze, Rn.-Verweise, Argumentationsketten |
+| Rechtsprechungskanon Versammlungsfreiheit | 08, 16 | BVerfGE-Leitsätze, Rn.-Verweise, Argumentationsketten |
 | Mandatsaufnahme Grundrechtsbeschwerde | 01, 11 | Erstmandat, Vollmacht, Prozesskostenfinanzierung |
 | Strafrecht VersG / Parallelermittlungen | 13 | § 21 VersG, Strafanzeige-Stellungnahme, Doppelvertretung |
-| Strategische Oeffentlichkeitsarbeit | 14, 21 | Presseanfragen, BVerfG-Pressemitteilung, Medienrecht |
-| BVerfG-Kommunikation und Formalia | 20, 22 | Generalsekretaer, Eingangsbestaetigung, Veroeffentlichungspflichten |
+| Strategische Öffentlichkeitsarbeit | 14, 21 | Presseanfragen, BVerfG-Pressemitteilung, Medienrecht |
+| BVerfG-Kommunikation und Formalia | 20, 22 | Generalsekretär, Eingangsbestätigung, Veröffentlichungspflichten |
 
 ---
 
-## Aktenstuecke
+## Aktenstücke
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandantenbogen-klimacamp-initiative.md`](01-mandantenbogen-klimacamp-initiative.md) | Mandantenbogen Initiative e.V. und Einzelbeschwerdefuehrer 2-15 |
-| 02 | [`02-anlassverfuegung-stadtrechtsamt-12-03-2026.md`](02-anlassverfuegung-stadtrechtsamt-12-03-2026.md) | Versammlungsverbotsverfuegung Stadtrechtsamt Saarbruecken |
+| 01 | [`01-mandantenbogen-klimacamp-initiative.md`](01-mandantenbogen-klimacamp-initiative.md) | Mandantenbogen Initiative e.V. und Einzelbeschwerdeführer 2-15 |
+| 02 | [`02-anlassverfuegung-stadtrechtsamt-12-03-2026.md`](02-anlassverfuegung-stadtrechtsamt-12-03-2026.md) | Versammlungsverbotsverfügung Stadtrechtsamt Saarbruecken |
 | 03 | [`03-eil-vg-saarlouis-beschluss.md`](03-eil-vg-saarlouis-beschluss.md) | VG Saarlouis 2 K 188/26 — Eil-Beschluss (§ 80 V VwGO) |
 | 04 | [`04-ovg-saarland-beschwerdeentscheidung.md`](04-ovg-saarland-beschwerdeentscheidung.md) | OVG Saarland 1 B 14/26 — Beschwerdeentscheidung |
 | 05 | [`05-verfassungsbeschwerdeschrift-entwurf-v3.md`](05-verfassungsbeschwerdeschrift-entwurf-v3.md) | Entwurf Verfassungsbeschwerdeschrift (Version 3) |
 | 06 | [`06-eilantrag-32-bverfgg.md`](06-eilantrag-32-bverfgg.md) | Eilantrag nach § 32 BVerfGG (einstweilige Anordnung) |
-| 07 | [`07-pruefungsschema-art-8-gg.md`](07-pruefungsschema-art-8-gg.md) | Vollstaendiges Pruefungsschema Art. 8 GG |
+| 07 | [`07-pruefungsschema-art-8-gg.md`](07-pruefungsschema-art-8-gg.md) | Vollständiges Prüfungsschema Art. 8 GG |
 | 08 | [`08-rechtsprechungskanon-bverfg-versammlung.md`](08-rechtsprechungskanon-bverfg-versammlung.md) | Kanonisierte BVerfG-Rechtsprechung Versammlungsfreiheit |
 | 09 | [`09-pruefung-subsidiaritaet.md`](09-pruefung-subsidiaritaet.md) | Subsidiaritaetspruefung § 90 II BVerfGG |
 | 10 | [`10-fristberechnung-93-bverfgg.md`](10-fristberechnung-93-bverfgg.md) | Fristberechnung § 93 III BVerfGG |
@@ -76,11 +76,11 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | 19 | [`19-finanzierungsplan-rechtsmittel.md`](19-finanzierungsplan-rechtsmittel.md) | Finanzierungsplan Rechtsmittelverfahren |
 | 20 | [`20-kommunikation-mit-bvg.md`](20-kommunikation-mit-bvg.md) | Kommunikation mit dem Bundesverfassungsgericht |
 | 21 | [`21-pressemitteilung-bverfg-entscheidung.md`](21-pressemitteilung-bverfg-entscheidung.md) | Pressemitteilung nach BVerfG-Entscheidung |
-| 22 | [`22-checkliste-veroeffentlichung-bverfg-website.md`](22-checkliste-veroeffentlichung-bverfg-website.md) | Checkliste Veroeffentlichung auf BVerfG-Website |
+| 22 | [`22-checkliste-veroeffentlichung-bverfg-website.md`](22-checkliste-veroeffentlichung-bverfg-website.md) | Checkliste Veröffentlichung auf BVerfG-Website |
 
 ---
 
-## Anhaenge
+## Anhänge
 
 ### DOCX
 
@@ -103,14 +103,14 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 |---|---|
 | [`emails/2026-03-13_initiative-an-kanzlei-mandatserteilung.eml`](emails/2026-03-13_initiative-an-kanzlei-mandatserteilung.eml) | Initiative Saarbruecken an Kanzlei: Mandatserteilung |
 | [`emails/2026-03-14_kanzlei-intern-arbeitsverteilung.eml`](emails/2026-03-14_kanzlei-intern-arbeitsverteilung.eml) | Kanzlei intern: Arbeitsverteilung und Strategie |
-| [`emails/2026-03-16_kanzlei-an-generalsekretaer-bverfg-eilantrag.eml`](emails/2026-03-16_kanzlei-an-generalsekretaer-bverfg-eilantrag.eml) | Kanzlei an Generalsekretaer BVerfG: Eilantrag § 32 BVerfGG |
+| [`emails/2026-03-16_kanzlei-an-generalsekretaer-bverfg-eilantrag.eml`](emails/2026-03-16_kanzlei-an-generalsekretaer-bverfg-eilantrag.eml) | Kanzlei an Generalsekretär BVerfG: Eilantrag § 32 BVerfGG |
 | [`emails/2026-03-17_pressestelle-bverfg-an-kanzlei.eml`](emails/2026-03-17_pressestelle-bverfg-an-kanzlei.eml) | Pressestelle BVerfG an Kanzlei: Stellungnahme zur Anfrage |
 
 ### PDFs
 
 | Datei | Inhalt |
 |---|---|
-| [`pdfs/verfassungsbeschwerde-eingangsbestaetigung-bvg.pdf`](pdfs/verfassungsbeschwerde-eingangsbestaetigung-bvg.pdf) | Eingangsbestaetigung BVerfG fuer Verfassungsbeschwerde 1 BvR 188/26 |
+| [`pdfs/verfassungsbeschwerde-eingangsbestaetigung-bvg.pdf`](pdfs/verfassungsbeschwerde-eingangsbestaetigung-bvg.pdf) | Eingangsbestätigung BVerfG für Verfassungsbeschwerde 1 BvR 188/26 |
 | [`pdfs/vg-saarlouis-beschluss-deckblatt.pdf`](pdfs/vg-saarlouis-beschluss-deckblatt.pdf) | Deckblatt VG Saarlouis 2 K 188/26 — Beschluss |
 
 ### Fotos
@@ -118,7 +118,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Datei | Inhalt |
 |---|---|
 | [`jpg/klimacamp-bisheriger-ablauf-foto.jpg`](jpg/klimacamp-bisheriger-ablauf-foto.jpg) | Klimacamp — bisheriger Ablauf (Referenzfoto) |
-| [`jpg/saarlaendischer-landtag-aussenansicht.jpg`](jpg/saarlaendischer-landtag-aussenansicht.jpg) | Saarlaendischer Landtag Aussenansicht (Referenzfoto) |
+| [`jpg/saarlaendischer-landtag-aussenansicht.jpg`](jpg/saarlaendischer-landtag-aussenansicht.jpg) | Saarländischer Landtag Aussenansicht (Referenzfoto) |
 | [`jpg/karte-bannmeile-saarbruecken.jpg`](jpg/karte-bannmeile-saarbruecken.jpg) | Karte Bannmeile Saarbruecken (Referenzfoto) |
 
 ---
@@ -126,16 +126,16 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 ## Verfahrensstand
 
 **Stichtag dieser Akte: April 2026**
-**Mandatsannahme: 13. Maerz 2026**
+**Mandatsannahme: 13. März 2026**
 
 | Verfahrensstrang | Status |
 |---|---|
-| Versammlungsverbotsverfuegung Stadtrechtsamt | Erlassen 12.03.2026; bestandskraeftig (keine Hauptsache mehr relevant) |
+| Versammlungsverbotsverfügung Stadtrechtsamt | Erlassen 12.03.2026; bestandskraeftig (keine Hauptsache mehr relevant) |
 | VG Saarlouis 2 K 188/26 (Eilantrag § 80 V VwGO) | Abgelehnt 14.03.2026 |
-| OVG Saarland 1 B 14/26 (Beschwerde) | Zurueckgewiesen 15.03.2026 |
-| BVerfG 1 BvR 188/26 (Verfassungsbeschwerde) | Eingereicht 16.03.2026; Eingang bestaetigt |
+| OVG Saarland 1 B 14/26 (Beschwerde) | Zurückgewiesen 15.03.2026 |
+| BVerfG 1 BvR 188/26 (Verfassungsbeschwerde) | Eingereicht 16.03.2026; Eingang bestätigt |
 | BVerfG — Eilantrag § 32 BVerfGG | Eingereicht 16.03.2026; Entscheidung ausstehend |
 | StA Saarbruecken 188 Js 4711/26 (§ 21 VersG) | Ermittlungsverfahren gegen 4 Mitglieder; laufend |
 
 Bearbeiter: **RA Dr. Roosendaal-Eichmueller**, Roosendaal Schwingenstein Partner, Saarbruecken
-Wissenschaftliche Kooperation: **Prof. Dr. Birkenhain**, Universitaet des Saarlandes
+Wissenschaftliche Kooperation: **Prof. Dr. Birkenhain**, Universität des Saarlandes

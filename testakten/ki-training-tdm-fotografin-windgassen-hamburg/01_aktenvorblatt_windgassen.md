@@ -53,7 +53,7 @@ Stundensatz: 380 EUR zzgl. MwSt. Vorschuss eingegangen: 5.000 EUR am 16.01.2026 
 
 | Frist | Datum | Sache |
 |---|---|---|
-| Reaktionsfrist Waldorf Frommer UE | 30.01.2026 | Filesharing-Abmahnung |
+| Reaktionsfrist Waldorf Frommer Ü | 30.01.2026 | Filesharing-Abmahnung |
 | Gegendarstellungsverlangen EWA | 07.02.2026 | Presserechtliche Gegendarstellung |
 | Klagefrist Schiedsstelle DPMA Sch-Urh 32/26 | Hemmung läuft | TDM-Vergütung |
 | Klageeinreichung LG Hamburg 308 O 79/26 | intern: 28.02.2026 | ImagineArt-Hauptklage |

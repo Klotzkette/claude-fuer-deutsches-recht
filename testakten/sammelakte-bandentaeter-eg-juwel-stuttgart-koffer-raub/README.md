@@ -1,4 +1,4 @@
-# Akte: EG Juwel Stuttgart — Sammelverfahren bandenmaessiger schwerer Raub, Koenigstrasse
+# Akte: EG Juwel Stuttgart — Sammelverfahren bandenmaessiger schwerer Raub, Königstrasse
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -23,51 +23,51 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 ## Kurzbild
 
 - StA Stuttgart 4 Js 18.422/26; bandenmaessiger schwerer Raub gemaess § 250 Abs. 2 StGB am 18.10.2025, Familienjuwelier Goldhofer-Egenter, Koenigstrasse 47 Stuttgart.
-- Tatbeute: ca. 1,7 Mio. EUR (Rolex, Patek Philippe, Bulgari-Halsketten); zwei Verletzte (Inhaberin Beate Goldhofer-Egenter: Schaedelprellung; Mitarbeiterin Selma Aydin: HWS-Schleudertrauma, PTBS).
-- Vier Beschuldigte: Mateusz Korbiel (28, pol. Staatsangehoeriger, JVA Stammheim, Verteidiger Dr. Schorlemmer), Lukas-Maxim Drebenstedt (33, Stuttgart-Bad Cannstatt, auf freiem Fuss mit Kontaktverbot § 116 StPO, Verteidiger RA Steinbach), Vasile Iordache (41, rum. Staatsangehoeriger, fluechtig, Interpol Red Notice, Pflichtverteidiger RA Kraemer) und Edona Krasniqi (26, kos. Staatsangehoerige, JVA Schwaebisch Gmuend, schwanger SSW 24, Mutter Kleinkind Blerim, Verteidigerin RAin Dr. Mohnsen-Stoeber).
+- Tatbeute: ca. 1,7 Mio. EUR (Rolex, Patek Philippe, Bulgari-Halsketten); zwei Verletzte (Inhaberin Beate Goldhofer-Egenter: Schädelprellung; Mitarbeiterin Selma Aydin: HWS-Schleudertrauma, PTBS).
+- Vier Beschuldigte: Mateusz Korbiel (28, pol. Staatsangehöriger, JVA Stammheim, Verteidiger Dr. Schorlemmer), Lukas-Maxim Drebenstedt (33, Stuttgart-Bad Cannstatt, auf freiem Fuss mit Kontaktverbot § 116 StPO, Verteidiger RA Steinbach), Vasile Iordache (41, rum. Staatsangehöriger, flüchtig, Interpol Red Notice, Pflichtverteidiger RA Krämer) und Edona Krasniqi (26, kos. Staatsangehörige, JVA Schwäbisch Gmuend, schwanger SSW 24, Mutter Kleinkind Blerim, Verteidigerin RAin Dr. Mohnsen-Stoeber).
 - Hauptverhandlung geplant: LG Stuttgart 4. Grosse Strafkammer, KLs 4 Js 18.422/26, voraussichtlich Mai bis September 2026 (22 Verhandlungstage).
-- Zentrale Rechtsfragen: Verwertbarkeit EncroChat/SkyECC (BGH 5 StR 457/21); Vollstaendigkeit der Akteneinsicht (§ 147 StPO); Sonderfall Krasniqi (Schwangerschaft, § 257c StPO, § 116 StPO); internationale Rechtshilfe Polen und Rumaenien.
-- Beweislage: DNA Korbiel am Tatort gesichert; FZA belegt Praesenz aller vier Beschuldigter; Videoauswertung Stadtcam und Cafe Westermann; TKUe-Protokolle 163 tatrelevante Gespraeche; Observation 21 Tage.
+- Zentrale Rechtsfragen: Verwertbarkeit EncroChat/SkyECC (BGH 5 StR 457/21); Vollständigkeit der Akteneinsicht (§ 147 StPO); Sonderfall Krasniqi (Schwangerschaft, § 257c StPO, § 116 StPO); internationale Rechtshilfe Polen und Rumänien.
+- Beweislage: DNA Korbiel am Tatort gesichert; FZA belegt Präsenz aller vier Beschuldigter; Videoauswertung Stadtcam und Cafe Westermann; TKUe-Protokolle 163 tatrelevante Gespräche; Observation 21 Tage.
 
 ---
 
 ## Was diese Akte demonstriert
 
-| Skill | Aktenstueck | Demonstration |
+| Skill | Aktenstück | Demonstration |
 |---|---|---|
 | Aktenaufnahme und Strukturierung | 01 | Mandatsuebernahme, Aktenstruktur, Beschuldigtenrollen |
 | Beweismittelverzeichnis | 02 | Zeugen, Spuren, FZA-Auswertung, DNA-Analyse |
 | EncroChat-Verwertbarkeit | 03 | BGH 5 StR 457/21, EEA-Pruefung, Bandenstruktur-Rekonstruktion |
-| TKUe-Auswertung | 04 | § 100a StPO, 163 Gespraeche, Widersprueche |
+| TKUe-Auswertung | 04 | § 100a StPO, 163 Gespräche, Widersprüche |
 | Observation (§ 163f StPO) | 05 | 21 Tage Vor-Tat-Observation, Lichtbildmappen |
 | Videoauswertung | 06 | Stadtcam, Privatkamera, Identifizierungsqualitaet |
 | Geldwaesche (§ 261 StGB) | 07 | BTC-Chain-Analysis, Hawala, § 73 StGB Einziehung |
 | Akteneinsicht § 147 StPO | 08 | Protokoll, Teilsperrung SB ECC, Beschwerde § 304 StPO |
-| Beweisantraege und Konfrontation | 09 | BA-01 bis BA-09, Lineup-Analyse |
-| Verstaendigung § 257c StPO | 10 | Krasniqi-Sonderfall, BVerfG-Linie |
+| Beweisanträge und Konfrontation | 09 | BA-01 bis BA-09, Lineup-Analyse |
+| Verständigung § 257c StPO | 10 | Krasniqi-Sonderfall, BVerfG-Linie |
 | Sonderfall Mutterschaft / Vollzug | 11 | § 116 StPO, § 72a StPO, Kindeswohlfolgen |
 | Internationale Rechtshilfe | 12 | IRG, EuRhUeB, Interpol Red Notice |
 | Sicherstellung und Einziehung | 13 | §§ 111b, 73, 73a, 76a StGB/StPO |
-| Nebenklage und Adhaesionsverfahren | 14 | § 403 StPO, Schmerzensgeld § 253 BGB |
-| Aussagepsychologie | 15 | CBCA, RM, Lineup-Validitaet, Sternkopf-Gutachten |
-| Strafzumessung und Plaedoyer | 16 | § 46 StGB, § 250 Abs. 3 StGB, Szenarien |
+| Nebenklage und Adhäsionsverfahren | 14 | § 403 StPO, Schmerzensgeld § 253 BGB |
+| Aussagepsychologie | 15 | CBCA, RM, Lineup-Validität, Sternkopf-Gutachten |
+| Strafzumessung und Plädoyer | 16 | § 46 StGB, § 250 Abs. 3 StGB, Szenarien |
 | Beschlagnahme und Einziehung | 17 | Goldbarren-Streit, § 73a StGB (erweiterter Verfall) |
 | Effizienz-Tools / KI-Index | 18 | KI-Beweis-Index, semantische Suche, Datenmanagement |
-| Zeugenmatrix und Kreuztabelle | 19 | Vollstaendige Kreuztabelle, Konfrontationsplanung |
+| Zeugenmatrix und Kreuztabelle | 19 | Vollständige Kreuztabelle, Konfrontationsplanung |
 | Risikoanalyse | 20 | Best/Worst-Case, Szenarien, Verfahrensstrategie |
-| Haftpruefung und Haftfortdauer | 21 | § 121 StPO, OLG-Vorlage, U-Haft Schwangerschaft |
+| Haftprüfung und Haftfortdauer | 21 | § 121 StPO, OLG-Vorlage, U-Haft Schwangerschaft |
 | Verfahrensstand und Ausblick | 22 | Gesamtstand, Zeitachse HV |
 
 ---
 
-## Aktenstuecke
+## Aktenstücke
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 01 | [`01_aktenaufnahme_initial_strukturierung.md`](01_aktenaufnahme_initial_strukturierung.md) | Mandatsuebernahme, Verfahrenschronologie, Strukturierung |
 | 02 | [`02_beweismittelverzeichnis_zeugen_spuren_fza_dna.md`](02_beweismittelverzeichnis_zeugen_spuren_fza_dna.md) | Zeugen, Spurenakten, FZA, DNA-Treffer |
 | 03 | [`03_encrochat_skyecc_bandenstruktur_verwertbarkeit.md`](03_encrochat_skyecc_bandenstruktur_verwertbarkeit.md) | EncroChat-Verwertbarkeit BGH 5 StR 457/21, Bandenstruktur |
-| 04 | [`04_tkue_protokolle_auswertung.md`](04_tkue_protokolle_auswertung.md) | TKUe-Anordnungen, 163 tatrelevante Gespraeche, Widersprueche |
+| 04 | [`04_tkue_protokolle_auswertung.md`](04_tkue_protokolle_auswertung.md) | TKUe-Anordnungen, 163 tatrelevante Gespräche, Widersprüche |
 | 05 | [`05_observationsberichte_korbiel_vor_tat.md`](05_observationsberichte_korbiel_vor_tat.md) | 21-Tage-Observation, § 163f StPO, 487 Lichtbilder |
 | 06 | [`06_videoaufzeichnungen_koenigstrasse_auswertung.md`](06_videoaufzeichnungen_koenigstrasse_auswertung.md) | Stadtcam + Cafe Westermann, Identifizierungsgrade |
 | 07 | [`07_geldwaesche_btc_hawala_transaktionen.md`](07_geldwaesche_btc_hawala_transaktionen.md) | BTC-Chain-Analysis, Hawala, Einziehung § 73 StGB |
@@ -77,19 +77,19 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | 11 | [`11_sonderakte_krasniqi_mutterschutz_vollzugslockerung.md`](11_sonderakte_krasniqi_mutterschutz_vollzugslockerung.md) | Schwangerschaft, § 116 StPO, Blerim-Kindeswohlfolgen |
 | 12 | [`12_internationale_rechtshilfe_polen_rumaenien.md`](12_internationale_rechtshilfe_polen_rumaenien.md) | IRG, EuHb, Interpol Red Notice Iordache, Vorstrafen Korbiel |
 | 13 | [`13_sicherstellung_verwertungsverfahren_111_stpo.md`](13_sicherstellung_verwertungsverfahren_111_stpo.md) | § 111b StPO, Goldbarren, BTC-Wallets, § 76a StGB |
-| 14 | [`14_nebenklage_adhaesionsverfahren_403_stpo.md`](14_nebenklage_adhaesionsverfahren_403_stpo.md) | § 403 StPO, Schmerzensgeld, Adhaesionsantraege |
-| 15 | [`15_sachverstaendiger_aussagepsychologie_gegenueberstellung.md`](15_sachverstaendiger_aussagepsychologie_gegenueberstellung.md) | CBCA-Analyse, Lineup-Validitaet, Sternkopf-Vorentwurf |
+| 14 | [`14_nebenklage_adhaesionsverfahren_403_stpo.md`](14_nebenklage_adhaesionsverfahren_403_stpo.md) | § 403 StPO, Schmerzensgeld, Adhäsionsanträge |
+| 15 | [`15_sachverstaendiger_aussagepsychologie_gegenueberstellung.md`](15_sachverstaendiger_aussagepsychologie_gegenueberstellung.md) | CBCA-Analyse, Lineup-Validität, Sternkopf-Vorentwurf |
 | 16 | [`16_plaedoyer_vorbereitung_strafzumessung.md`](16_plaedoyer_vorbereitung_strafzumessung.md) | § 46 StGB, Strafzumessungs-Tabelle, Szenarien |
 | 17 | [`17_sicherungs_beschlagnahme_goldbarren_drebenstedt.md`](17_sicherungs_beschlagnahme_goldbarren_drebenstedt.md) | Goldbarren-Streit, § 73a StGB, Beschwerde Steinbach |
 | 18 | [`18_ki_beweis_index_und_datenbanken.md`](18_ki_beweis_index_und_datenbanken.md) | KI-Beweis-Index, digitale Aktenaufbereitung, Risikomodell |
 | 19 | [`19_zeugenmatrix_vollstandig.md`](19_zeugenmatrix_vollstandig.md) | Kreuztabelle 18 Zeugen x 6 Tatbestandselemente |
 | 20 | [`20_risikoanalyse_verfahrensstrategien.md`](20_risikoanalyse_verfahrensstrategien.md) | Risikograde, Optionen A/B pro Beschuldigtem |
 | 21 | [`21_haftpruefung_haftfortdauer_beschluesse.md`](21_haftpruefung_haftfortdauer_beschluesse.md) | Haftbefehle, Chronologie, § 121 StPO OLG-Vorlage |
-| 22 | [`22_verfahrensstand_abschluss_ausblick.md`](22_verfahrensstand_abschluss_ausblick.md) | Gesamtstand, HV-Zeitachse, Aktenuebersicht |
+| 22 | [`22_verfahrensstand_abschluss_ausblick.md`](22_verfahrensstand_abschluss_ausblick.md) | Gesamtstand, HV-Zeitachse, Aktenübersicht |
 
 ---
 
-## DOCX — Schriftsaetze
+## DOCX — Schriftsätze
 
 | Datei | Inhalt |
 |---|---|
@@ -113,9 +113,9 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Datei | Inhalt |
 |---|---|
 | [`eml/2026-01-08_kanzlei_an_sta_stuttgart_akteneinsicht.eml`](eml/2026-01-08_kanzlei_an_sta_stuttgart_akteneinsicht.eml) | Akteneinsichtsantrag per E-Mail an StA Stuttgart OStAin Freudenberg |
-| [`eml/2026-01-12_kanzlei_an_generalstaatsanwaltschaft_krakau.eml`](eml/2026-01-12_kanzlei_an_generalstaatsanwaltschaft_krakau.eml) | Anfrage Vorstrafen-Auskuenfte an Prokuratura Okregowa Krakow |
-| [`eml/2026-01-22_kanzlei_an_jva_schwaebisch_gmuend.eml`](eml/2026-01-22_kanzlei_an_jva_schwaebisch_gmuend.eml) | Antrag Mutter-Kind-Einheit und Videotelefonie fuer Krasniqi |
-| [`eml/2026-02-01_kanzlei_an_nebenklaege_brandes_weiss.eml`](eml/2026-02-01_kanzlei_an_nebenklaege_brandes_weiss.eml) | Abstimmung Adhaesionsverfahren mit Nebenklagevertreter |
+| [`eml/2026-01-12_kanzlei_an_generalstaatsanwaltschaft_krakau.eml`](eml/2026-01-12_kanzlei_an_generalstaatsanwaltschaft_krakau.eml) | Anfrage Vorstrafen-Auskünfte an Prokuratura Okregowa Krakow |
+| [`eml/2026-01-22_kanzlei_an_jva_schwaebisch_gmuend.eml`](eml/2026-01-22_kanzlei_an_jva_schwaebisch_gmuend.eml) | Antrag Mutter-Kind-Einheit und Videotelefonie für Krasniqi |
+| [`eml/2026-02-01_kanzlei_an_nebenklaege_brandes_weiss.eml`](eml/2026-02-01_kanzlei_an_nebenklaege_brandes_weiss.eml) | Abstimmung Adhäsionsverfahren mit Nebenklagevertreter |
 
 ---
 
@@ -132,8 +132,8 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 | Datei | Inhalt |
 |---|---|
-| [`jpg/tatort_koenigstrasse_symbolisch.jpg`](jpg/tatort_koenigstrasse_symbolisch.jpg) | Tatort Koenigstrasse (Referenzfoto, symbolisch) |
-| [`jpg/beweismittel_ueberblick_tabelle.jpg`](jpg/beweismittel_ueberblick_tabelle.jpg) | Beweismittel-Ueberblick (Infografik) |
+| [`jpg/tatort_koenigstrasse_symbolisch.jpg`](jpg/tatort_koenigstrasse_symbolisch.jpg) | Tatort Königstrasse (Referenzfoto, symbolisch) |
+| [`jpg/beweismittel_ueberblick_tabelle.jpg`](jpg/beweismittel_ueberblick_tabelle.jpg) | Beweismittel-Überblick (Infografik) |
 | [`jpg/bandenstruktur_organigramm.jpg`](jpg/bandenstruktur_organigramm.jpg) | Bandenstruktur-Organigramm EG Juwel |
 
 ---
@@ -147,16 +147,16 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 |---|---|
 | Anklage | Erhoben 17.11.2025 (StA Stuttgart) |
 | Eroefffnung HV | Ausstehend (geplant Mai/Juni 2026) |
-| U-Haft Korbiel | Laeuft seit 20.10.2025 (JVA Stammheim) |
-| U-Haft Krasniqi | Laeuft seit 20.10.2025 (JVA Schwaebisch Gmuend); Entbindung Ende Mai 2026 |
+| U-Haft Korbiel | Läuft seit 20.10.2025 (JVA Stammheim) |
+| U-Haft Krasniqi | Läuft seit 20.10.2025 (JVA Schwäbisch Gmuend); Entbindung Ende Mai 2026 |
 | Drebenstedt | Auf freiem Fuss, Kontaktverbot § 116 StPO |
-| Iordache | Fluechtig; Interpol Red Notice; EuHb erlassen |
-| Akteneinsicht | Teilweise gewaehrt; SB ECC gesperrt (Beschwerde 4 Qs 22/26) |
+| Iordache | Flüchtig; Interpol Red Notice; EuHb erlassen |
+| Akteneinsicht | Teilweise gewährt; SB ECC gesperrt (Beschwerde 4 Qs 22/26) |
 | EncroChat-Beschwerde | LG Stuttgart 4 Qs 22/26, ausstehend |
-| Verstaendigung Krasniqi | Sondierungen laufen, noch kein Abschluss |
+| Verständigung Krasniqi | Sondierungen laufen, noch kein Abschluss |
 | Rechtshilfe Polen | Teilergebnis; Urteil Korbiel ausstehend bis 28.02.2026 |
-| Rechtshilfe Rumaenien | Ausstehend; Interpol-Fahndung aktiv |
-| Adhaesionsantraege | Eingereicht; Bearbeitung in HV |
+| Rechtshilfe Rumänien | Ausstehend; Interpol-Fahndung aktiv |
+| Adhäsionsanträge | Eingereicht; Bearbeitung in HV |
 
-Bearbeitung: **RA Dr. Magnus Schorlemmer** (fuer Korbiel); **RA Walther Steinbach** (fuer Drebenstedt); **RA Felix Kraemer** (Pflichtverteidiger Iordache); **RAin Dr. Vivien Mohnsen-Stoeber** (fuer Krasniqi)  
-Nebenklage: **RAin Carola Brandes-Weiss** (fuer Goldhofer-Egenter und Aydin)
+Bearbeitung: **RA Dr. Magnus Schorlemmer** (für Korbiel); **RA Walther Steinbach** (für Drebenstedt); **RA Felix Krämer** (Pflichtverteidiger Iordache); **RAin Dr. Vivien Mohnsen-Stoeber** (für Krasniqi)  
+Nebenklage: **RAin Carola Brandes-Weiss** (für Goldhofer-Egenter und Aydin)

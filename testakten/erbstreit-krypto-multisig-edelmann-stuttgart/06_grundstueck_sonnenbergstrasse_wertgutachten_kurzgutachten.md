@@ -1,7 +1,7 @@
 # Grundstück Sonnenbergstraße 38a — Wertgutachten und Wohnrechtsberechnung
 
 **Az.:** KlKette 025/0422-ERB-EDE
-**Sachverständigenbüro:** Bender & Moerser Immobilienbewertung GbR, Rotebühlstraße 188, 70197 Stuttgart
+**Sachverständigenbüro:** Bender & Mörser Immobilienbewertung GbR, Rotebühlstraße 188, 70197 Stuttgart
 **Gutachtenauftrag:** 28.04.2025 durch Kanzlei Klotzkette (Mandatsauftrag Henrike Edelmann)
 **Kurzgutachten:** 02.05.2025
 **Sachverständiger:** Dipl.-Ing. Ralf Bender, öff. best. und vereid. Sachverständiger für Immobilienbewertung (IHK Stuttgart)

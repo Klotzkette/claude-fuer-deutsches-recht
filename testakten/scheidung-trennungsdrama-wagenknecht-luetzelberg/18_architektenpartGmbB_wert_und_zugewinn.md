@@ -42,7 +42,7 @@ Veras Anteil (50 %): 710.000 EUR.
 
 ## 3. Bewertungsstreit — Goodwill vs. Substanz
 
-Die Bewertung des Architekturbueros ist der größte potenzielle Streitpunkt im Zugewinnausgleich.
+Die Bewertung des Architekturbüros ist der größte potenzielle Streitpunkt im Zugewinnausgleich.
 
 ### 3.1 Goodwill-Problem
 

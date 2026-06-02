@@ -30,7 +30,7 @@
 | 23.01.2026 | Analyse Lizenzvertrag Mare GmbH | Aktenstück 06 |
 | 24.01.2026 | Schadensberechnung KI-Training; Schiedsstelle DPMA | Aktenstücke 10, 08 |
 | 25.01.2026 | Klagestrategie LG Hamburg; Fristencheckliste | Aktenstücke 11, 13 |
-| 30.01.2026 | **Frist:** Modifizierte UE an Waldorf Frommer | Aktenstück 05 |
+| 30.01.2026 | **Frist:** Modifizierte Ü an Waldorf Frommer | Aktenstück 05 |
 | 30.01.2026 | **Frist:** Gegendarstellungsverlangen an EWA | Aktenstück 07 |
 | 15.02.2026 | **Frist (intern):** Angebot Mare GmbH zur Verhandlung | Aktenstück 06 |
 | 17.03.2026 | Termin DPMA-Schiedsstelle Sch-Urh 32/26 | Aktenstück 08 |

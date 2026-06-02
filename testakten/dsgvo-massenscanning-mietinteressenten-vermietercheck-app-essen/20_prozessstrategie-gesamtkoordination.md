@@ -1,9 +1,9 @@
 # 20 — Prozessstrategie und Gesamtkoordination
 
 **Aktenzeichen:** alle VCS-Aktenzeichen
-**Bearbeiter:** RA Dr. Cornelius Specht (federfuehrend)
+**Bearbeiter:** RA Dr. Cornelius Specht (federführend)
 **Datum:** 03. Februar 2026
-**Betreff:** Gesamtstrategie und Koordination saemtlicher Verfahren
+**Betreff:** Gesamtstrategie und Koordination sämtlicher Verfahren
 
 ---
 
@@ -33,17 +33,17 @@ bis 20 Mio. EUR           Risiko: 12.300.000 EUR  GF persoenlich
 
 ### 2.1 Primaerziel: Unternehmenserhalt
 
-Das primaere Ziel der Gesamtstrategie ist der wirtschaftliche Fortbestand von VCS. Ein Bussgeld von mehr als 3-4 Mio. EUR wuerde bei einem Jahresumsatz von ca. 4 Mio. EUR zur Insolvenz fuehren. Daher gilt:
+Das primäre Ziel der Gesamtstrategie ist der wirtschaftliche Fortbestand von VCS. Ein Bussgeld von mehr als 3-4 Mio. EUR würde bei einem Jahresumsatz von ca. 4 Mio. EUR zur Insolvenz führen. Daher gilt:
 
-**Goldene Regel:** Jede Massnahme wird zuerst auf ihre Auswirkung auf das Bussgeldbemessungsverfahren geprueft. Kooperation mit LDI NRW hat hoechste Prioritaet.
+**Goldene Regel:** Jede Massnahme wird zuerst auf ihre Auswirkung auf das Bussgeldbemessungsverfahren geprüft. Kooperation mit LDI NRW hat höchste Priorität.
 
-### 2.2 Sekundaerziel: Schadensminimierung im Zivilrecht
+### 2.2 Sekundärziel: Schadensminimierung im Zivilrecht
 
 Das Gesamtrisiko der Sammelklage (12.3 Mio. EUR) ist durch Vergleichsstrategie auf unter 1 Mio. EUR zu reduzieren.
 
 ### 2.3 Tertiaerziel: Strafverfahren — kein Haftantritt
 
-Fuer den GF Schimmelpfennig-Drosthager ist das Ziel ein Strafbefehl oder Bewaehrungsstrafe, kein Haftantritt.
+Für den GF Schimmelpfennig-Drosthager ist das Ziel ein Strafbefehl oder Bewährungsstrafe, kein Haftantritt.
 
 ---
 
@@ -73,12 +73,12 @@ Akteneinsicht Feb 2026 → Anklageerhebung? → Hauptverhandlung ca. Herbst 2026
 
 ### 3.2 Informationsfluss-Steuerung
 
-Saemtliche oeffentlichen Kommunikationsakte von VCS werden zentriert durch RA Dr. Specht koordiniert:
+Sämtliche öffentlichen Kommunikationsakte von VCS werden zentriert durch RA Dr. Specht koordiniert:
 
 | Kommunikationskanal | Verantwortlich | Freigabe durch |
 |---------------------|---------------|----------------|
-| Erklaerungen LDI NRW | RA Dr. Specht | RA Dr. Specht |
-| Schriftsaetze LG Essen | RAin Beckenbauer | RA Dr. Specht |
+| Erklärungen LDI NRW | RA Dr. Specht | RA Dr. Specht |
+| Schriftsätze LG Essen | RAin Beckenbauer | RA Dr. Specht |
 | Strafverfahren StA Essen | RA Dr. Ankermann | RA Dr. Ankermann |
 | Presseanfragen NDR/Buch | PR-Beratung (Mediator GmbH) | RA Dr. Specht |
 | Auskunftsersuchen Betroffene | DSB Kessler-Brandt | RA Dr. Specht |
@@ -88,8 +88,8 @@ Saemtliche oeffentlichen Kommunikationsakte von VCS werden zentriert durch RA Dr
 
 | Massnahme A | Wechselwirkung | Risiko |
 |-------------|----------------|--------|
-| Vollgestaendnis bei LDI NRW | Stiftet Beweise fuer VDuG-Klaeger | HOCH |
-| Laengeres Schweigen bei LDI NRW | Kein Kooperations-Milderungsgrund | HOCH |
+| Vollgeständnis bei LDI NRW | Stiftet Beweise für VDuG-Kläger | HOCH |
+| Längeres Schweigen bei LDI NRW | Kein Kooperations-Milderungsgrund | HOCH |
 | GF Aussage im Strafverfahren | Selbstbelastung im DSGVO-Verfahren | KRITISCH |
 | Vergleich VDuG | Kann als Schuldanerkenntnis gewertet werden (Formulierung beachten) | MITTEL |
 | NDR-Interview | Falsche Aussagen = neues Risiko | HOCH |
@@ -100,23 +100,23 @@ Saemtliche oeffentlichen Kommunikationsakte von VCS werden zentriert durch RA Dr
 
 ### 4.1 Medienumfeld
 
-- NDR Panorama plant eine Sendung ueber KI-Profiling im Mietmarkt (Felix Kaltenbach)
-- Wibke Drostermann: Buch erscheint Maerz 2026 bei Rowohlt
-- Dr. Tannenbruck: Wissenschaftliche Veroeffentlichung zur algorithmischen Diskriminierung geplant
+- NDR Panorama plant eine Sendung über KI-Profiling im Mietmarkt (Felix Kaltenbach)
+- Wibke Drostermann: Buch erscheint März 2026 bei Rowohlt
+- Dr. Tannenbruck: Wissenschaftliche Veröffentlichung zur algorithmischen Diskriminierung geplant
 
 ### 4.2 Kommunikationsprinzipien
 
-**Prinzip 1 — Proaktive Transparenz mit Mass:** Freiwillige Kommunikation ueber bereits eingeleitete Massnahmen, ohne Sachverhalte zu schaffen, die noch Gegenstand laufender Verfahren sind.
+**Prinzip 1 — Proaktive Transparenz mit Mass:** Freiwillige Kommunikation über bereits eingeleitete Massnahmen, ohne Sachverhalte zu schaffen, die noch Gegenstand laufender Verfahren sind.
 
-**Prinzip 2 — Keine oeffentliche Schuldanerkenntnis:** Formulierungen wie „wir bedauern den Vorfall" statt „wir erkennen den Verstoss an".
+**Prinzip 2 — Keine öffentliche Schuldanerkenntnis:** Formulierungen wie „wir bedauern den Vorfall" statt „wir erkennen den Verstoss an".
 
-**Prinzip 3 — Menschliches Gesicht:** GF Schimmelpfennig-Drosthager kommuniziert persoenlich (nach Freigabe) Sanierungsmassnahmen. Kein Verstecken hinter Unternehmensprosa.
+**Prinzip 3 — Menschliches Gesicht:** GF Schimmelpfennig-Drosthager kommuniziert persönlich (nach Freigabe) Sanierungsmassnahmen. Kein Verstecken hinter Unternehmensprosa.
 
-**Prinzip 4 — Kein Angriff auf Journalisten/Betroffene:** Keine oeffentliche Auseinandersetzung mit Kaltenbach, Drostermann oder Tannenbruck.
+**Prinzip 4 — Kein Angriff auf Journalisten/Betroffene:** Keine öffentliche Auseinandersetzung mit Kaltenbach, Drostermann oder Tannenbruck.
 
 ### 4.3 Geplante PR-Massnahme (Zeitpunkt: nach Einreichung Stellungnahme LDI NRW)
 
-Pressemitteilung: „VermieterCheck staerkt Datenschutz — Umfassende Compliance-Offensive eingeleitet"
+Pressemitteilung: „VermieterCheck stärkt Datenschutz — Umfassende Compliance-Offensive eingeleitet"
 - Massnahmen benennen (DSFA, SCC, Betroffenenportal)
 - Keine konkreten Verfahrensaussagen
 - Freigabe: RA Dr. Specht
@@ -137,10 +137,10 @@ Pressemitteilung: „VermieterCheck staerkt Datenschutz — Umfassende Complianc
 
 ## 6. Dokumentationspflichten
 
-Im Rahmen der anwaltlichen Sorgfaltspflicht (§ 11 BORA) und fuer Regressabsicherung sind alle Beratungs- und Verfahrenshandlungen vollstaendig zu dokumentieren:
-- Jedes Mandantengespraech: Protokoll (elektronisch, DSGVO-konform verschluesselt)
+Im Rahmen der anwaltlichen Sorgfaltspflicht (§ 11 BORA) und für Regressabsicherung sind alle Beratungs- und Verfahrenshandlungen vollständig zu dokumentieren:
+- Jedes Mandantengespraech: Protokoll (elektronisch, DSGVO-konform verschlüsselt)
 - Alle Fristen: Fristenkalender in DATEV Anwalt online
-- Alle Schriftsaetze: Versionsverwaltung mit Git in der Kanzlei-IT
+- Alle Schriftsätze: Versionsverwaltung mit Git in der Kanzlei-IT
 - Alle Korrespondenzen mit LDI NRW und Gerichten: Beglaubigte Kopien
 
 ---

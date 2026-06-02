@@ -1,16 +1,16 @@
 q_id,workstream,frage,gestellt_am,gestellt_durch,status,owner,antwort_datum,antwort_zusammenfassung,spa_relevanz,rf_ref
 Q-001,Corporate,Aktuelle notariell beglaubigte Gesellschafterliste (Solaris Industries AG) bereitstellen,25.11.2024,Sophie Maurer,open,Seller Counsel Dr. Baeumler,,,ja (G-001),
-Q-002,Commercial,Ist fuer Change-of-Control gemaess C-001 (Kunde A) ein Consent des Kunden erforderlich? Bereitschaft des Kunden?,25.11.2024,Katharina Pfeiffer,open,Management / Seller,,,ja (RF-001),RF-001
+Q-002,Commercial,Ist für Change-of-Control gemaess C-001 (Kunde A) ein Consent des Kunden erforderlich? Bereitschaft des Kunden?,25.11.2024,Katharina Pfeiffer,open,Management / Seller,,,ja (RF-001),RF-001
 Q-003,Commercial,Qualifizierungsprotokoll alternativer Halbleiterlieferant (Dual Sourcing) bitte vorlegen,04.12.2024,Katharina Pfeiffer,open,COO Krause,,,,
 Q-004,Employment,Betriebsratsprotokoll zur Unterrichtung nach § 111 BetrVG: Wann genau erfolgte oder erfolgt die Unterrichtung?,04.12.2024,Tim Berger,open,Fabian Koehler,,,,ja
-Q-005,Financial,US-Darlehen Ohio-Investition: Betrag in USD und EUR (Wechselkurs Referenzdatum); Zinssatz; Faelligkeit; Rueckzahlungsmodalitaeten,04.12.2024,Dr. Sabine Roth,open,Thomas Bergmann,,,,ja (Debt-like Item)
+Q-005,Financial,US-Darlehen Ohio-Investition: Betrag in USD und EUR (Wechselkurs Referenzdatum); Zinssatz; Fälligkeit; Rückzahlungsmodalitäten,04.12.2024,Dr. Sabine Roth,open,Thomas Bergmann,,,,ja (Debt-like Item)
 Q-006,Regulatory,Hat die Gesellschaft eine freiwillige Selbstanzeige beim BAFA in Bezug auf die PDS-800-Lieferungen nach Singapur eingeleitet oder erwogen?,04.12.2024,Dr. Hans-Peter Fuchs,open,Rainer Hollmann,,,,ja (RF-002)
 Q-007,Employment,Retention-Vereinbarung COO Michael Krause: Hat dieser eine Retention-Absicht gaeussert? Welche Konditionen werden angestrebt?,04.12.2024,Fabian Koehler,open,HR-Leitung,,,,ja
-Q-008,Corporate,AR-Beschluss vom 15.10.2024: Liegt das vollstaendige Protokoll mit Abstimmungsergebnis vor? Wo im VDR?,04.12.2024,Tim Berger,open,Seller Counsel,,,,ja
-Q-009,IP,IP-Abtretungsvertrag Friedrich Gruenwald 2018: Original oder notariell beglaubigte Kopie der Abtretungsurkunde vorlegen,28.11.2024,Dr. Lena Brandt,open,Seller Counsel,,,ja (RF-003 G-004),RF-003
-Q-010,Tax,Rueckwirkungsstichtag Umwandlung 2024: Liegt eine steuerliche Stellungnahme des Finanzamts Augsburg zur Anerkennung des Rueckwirkungszeitraums vor?,02.12.2024,Dr. Sabine Roth,open,Thomas Bergmann,,,,ja (RF-005)
-Q-011,Regulatory,BAFA-Exportgenehmigungen 2022 und 2023 fuer PDS-800-Lieferungen nach Singapur: Lagen diese vor? Wenn ja bitte im VDR hochladen.,27.11.2024,Dr. Hans-Peter Fuchs,open,Rainer Hollmann,,,,ja (RF-002 G-008)
+Q-008,Corporate,AR-Beschluss vom 15.10.2024: Liegt das vollständige Protokoll mit Abstimmungsergebnis vor? Wo im VDR?,04.12.2024,Tim Berger,open,Seller Counsel,,,,ja
+Q-009,IP,IP-Abtretungsvertrag Friedrich Grünwald 2018: Original oder notariell beglaubigte Kopie der Abtretungsurkunde vorlegen,28.11.2024,Dr. Lena Brandt,open,Seller Counsel,,,ja (RF-003 G-004),RF-003
+Q-010,Tax,Rückwirkungsstichtag Umwandlung 2024: Liegt eine steuerliche Stellungnahme des Finanzamts Augsburg zur Anerkennung des Rückwirkungszeitraums vor?,02.12.2024,Dr. Sabine Roth,open,Thomas Bergmann,,,,ja (RF-005)
+Q-011,Regulatory,BAFA-Exportgenehmigungen 2022 und 2023 für PDS-800-Lieferungen nach Singapur: Lagen diese vor? Wenn ja bitte im VDR hochladen.,27.11.2024,Dr. Hans-Peter Fuchs,open,Rainer Hollmann,,,,ja (RF-002 G-008)
 Q-012,Corporate,Ausgliederungsvertrag Solaris Service GmbH: Wann liegt der notarielle Entwurf vor? Wann ist Eintragung im HR geplant?,28.11.2024,Katharina Pfeiffer,open,Seller Counsel,,,,ja (G-005)
-Q-013,Financial,Jahresabschluss 2023 (geprueft durch Wirtschaftspruefer): Wann wird dieser im VDR hochgeladen? Liegt der WP-Bericht vor?,25.11.2024,Sophie Maurer,offen_eskaliert,Thomas Bergmann,,Bergmann hat Verzoegerung bis 20.12.2024 angekuendigt,ja (G-006),
-Q-014,Real_Estate,Leasingvertraege Augsburg Hauptwerk und Gera: Bitte vollstaendige Vertragstexte inkl. aller Anlagen und Nachtraege hochladen,28.11.2024,Tim Berger,open,Seller Counsel,,,,ja (G-009)
-Q-015,Commercial,Exklusivitaet C-003 (Kunde C Servobereich): Gilt die Exklusivitaet auch fuer neue Produktlinien die post-Closing entwickelt werden?,06.12.2024,Katharina Pfeiffer,open,Seller Counsel,,,nein (kommerziell),
+Q-013,Financial,Jahresabschluss 2023 (geprüft durch Wirtschaftsprüfer): Wann wird dieser im VDR hochgeladen? Liegt der WP-Bericht vor?,25.11.2024,Sophie Maurer,offen_eskaliert,Thomas Bergmann,,Bergmann hat Verzögerung bis 20.12.2024 angekündigt,ja (G-006),
+Q-014,Real_Estate,Leasingverträge Augsburg Hauptwerk und Gera: Bitte vollständige Vertragstexte inkl. aller Anlagen und Nachträge hochladen,28.11.2024,Tim Berger,open,Seller Counsel,,,,ja (G-009)
+Q-015,Commercial,Exklusivität C-003 (Kunde C Servobereich): Gilt die Exklusivität auch für neue Produktlinien die post-Closing entwickelt werden?,06.12.2024,Katharina Pfeiffer,open,Seller Counsel,,,nein (kommerziell),

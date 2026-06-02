@@ -2,15 +2,15 @@
 
 **Aktenzeichen:** DSB-NW-44/26 / 18 Mass 4/26 / 4 O 244/26 / 12 Js 11.422/26
 **Mandantin:** VermieterCheck Solutions GmbH, Ruhrallee 188, 45136 Essen
-**Kanzlei:** Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH, Koenigsallee 92c, 40212 Duesseldorf
-**Federfuehrender Anwalt:** RA Dr. Cornelius Specht (Fachanwalt Datenschutzrecht)
+**Kanzlei:** Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH, Königsallee 92c, 40212 Düsseldorf
+**Federführender Anwalt:** RA Dr. Cornelius Specht (Fachanwalt Datenschutzrecht)
 **Datum:** 14. Januar 2026
 
 ---
 
 ## 1. Mandatsbeschreibung
 
-Die Kanzlei Specht, Beckenbauer & Drosselberg (nachfolgend „SBD") uebernimmt die umfassende rechtliche Vertretung der VermieterCheck Solutions GmbH (nachfolgend „Mandantin") in saemtlichen daten­schutz­rechtlichen, ordnungswidrigkeitsrechtlichen und strafrechtlichen Verfahren, die aus dem Betrieb der SaaS-Plattform und des KI-Profiling-Moduls „ProspectScore Pro" erwachsen.
+Die Kanzlei Specht, Beckenbauer & Drosselberg (nachfolgend „SBD") übernimmt die umfassende rechtliche Vertretung der VermieterCheck Solutions GmbH (nachfolgend „Mandantin") in sämtlichen daten­schutz­rechtlichen, ordnungswidrigkeitsrechtlichen und strafrechtlichen Verfahren, die aus dem Betrieb der SaaS-Plattform und des KI-Profiling-Moduls „ProspectScore Pro" erwachsen.
 
 ### 1.1 Mandatsumfang
 
@@ -27,9 +27,9 @@ Das Mandat erstreckt sich auf folgende Verfahrens- und Beratungskomplexe:
 | M-7 | Datenpanne CVE-2026-0188 / Art. 33 DSGVO Meldung | Beratend |
 | M-8 | Auskunftsersuchen Drostermann, Kaltenbach (Art. 15 DSGVO) | Beratend |
 
-### 1.2 Interessenkollisionspruefung
+### 1.2 Interessenkollisionsprüfung
 
-Gemaess § 43a Abs. 4 BRAO sowie § 3 BORA wurde eine Konfliktkontrolle durchgefuehrt. Keine Interessenkollision festgestellt. Die Kanzlei SBD vertritt keine Parteien, die im vorliegenden Verfahrenskomplex als Anspruchsgegner oder Anzeigeerstatter auftreten.
+Gemaess § 43a Abs. 4 BRAO sowie § 3 BORA wurde eine Konfliktkontrolle durchgeführt. Keine Interessenkollision festgestellt. Die Kanzlei SBD vertritt keine Parteien, die im vorliegenden Verfahrenskomplex als Anspruchsgegner oder Anzeigeerstatter auftreten.
 
 ---
 
@@ -37,23 +37,23 @@ Gemaess § 43a Abs. 4 BRAO sowie § 3 BORA wurde eine Konfliktkontrolle durchgef
 
 ### 2.1 Prozessvollmacht (§ 80 ZPO)
 
-Die Mandantin, vertreten durch Geschaeftsfuehrer Karl-Heinz Schimmelpfennig-Drosthager, erteilt hiermit der Kanzlei Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH — sowie saemtlichen dort taetigen Rechtsanwaelten und Rechtsanwaeltinnen — unwiderrufliche Prozessvollmacht mit dem Recht zur Unterbevollmaechtigung gemaess § 80 ZPO fuer alle anhangigen und kuenftig entstehenden Verfahren im Zusammenhang mit dem vorliegenden Mandat.
+Die Mandantin, vertreten durch Geschäftsführer Karl-Heinz Schimmelpfennig-Drosthager, erteilt hiermit der Kanzlei Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH — sowie sämtlichen dort tätigen Rechtsanwälten und Rechtsanwältinnen — unwiderrufliche Prozessvollmacht mit dem Recht zur Unterbevollmächtigung gemaess § 80 ZPO für alle anhangigen und künftig entstehenden Verfahren im Zusammenhang mit dem vorliegenden Mandat.
 
 Die Vollmacht umfasst insbesondere:
-- Entgegennahme und Abgabe saemtlicher Erklaerungen gegenueber Behoerden, Gerichten und Dritten
-- Abschluss von Vergleichen und Abgabe von Verzichtserklaerungen
-- Einlegung und Ruecknahme von Rechtsmitteln
+- Entgegennahme und Abgabe sämtlicher Erklärungen gegenüber Behörden, Gerichten und Dritten
+- Abschluss von Vergleichen und Abgabe von Verzichtserklärungen
+- Einlegung und Rücknahme von Rechtsmitteln
 - Erhebung von Klagen, Einreichung von Schriftsaetzen
 - Beantragung einstweiliger Rechtsschutzanordnungen
 - Entgegennahme von Zustellungen (§ 172 ZPO)
 
 ### 2.2 Verwaltungsrechtliche Vollmacht
 
-Fuer das Aufsichtsverfahren vor der LDI NRW (AZ DSB-NW-44/26) wird gesondert Vollmacht gemaess § 14 VwVfG NRW erteilt. Die Vollmacht berechtigt zur Akteneinsicht nach § 29 VwVfG NRW, zur Abgabe von Stellungnahmen gemaess Art. 58 Abs. 1 DSGVO sowie zur Erhebung von Rechtsmitteln gegen behordliche Anordnungen.
+Für das Aufsichtsverfahren vor der LDI NRW (AZ DSB-NW-44/26) wird gesondert Vollmacht gemaess § 14 VwVfG NRW erteilt. Die Vollmacht berechtigt zur Akteneinsicht nach § 29 VwVfG NRW, zur Abgabe von Stellungnahmen gemaess Art. 58 Abs. 1 DSGVO sowie zur Erhebung von Rechtsmitteln gegen behordliche Anordnungen.
 
 ### 2.3 Strafprozessuale Vollmacht
 
-Im Strafverfahren StA Essen 12 Js 11.422/26 wird Wahlverteidigervollmacht gemaess § 137 StPO erteilt. RA Dr. Cornelius Specht ist als Pflichtverteidiger bevollmaechtigt, saemtliche Verfahrenshandlungen im Namen des Beschuldigten Karl-Heinz Schimmelpfennig-Drosthager vorzunehmen.
+Im Strafverfahren StA Essen 12 Js 11.422/26 wird Wahlverteidigervollmacht gemaess § 137 StPO erteilt. RA Dr. Cornelius Specht ist als Pflichtverteidiger bevollmächtigt, sämtliche Verfahrenshandlungen im Namen des Beschuldigten Karl-Heinz Schimmelpfennig-Drosthager vorzunehmen.
 
 ---
 
@@ -63,7 +63,7 @@ Die Parteien haben folgende Honorarvereinbarung getroffen:
 
 - **Beratungsmandat (M-5 bis M-8):** Stundenhonorar RA Dr. Specht 380 EUR/h netto; Paralegal 120 EUR/h netto
 - **Prozessmandate (M-1 bis M-4):** Pauschalhonorar-Retainer zzgl. Erfolgsbeteiligung nach BORA-konformer Vereinbarung
-- **Auslagen:** Reisekosten, Gerichtsgebuehren, Gutachterkosten nach Aufwand
+- **Auslagen:** Reisekosten, Gerichtsgebühren, Gutachterkosten nach Aufwand
 
 Die Mandantin hat einen Kostenvorschuss von 85.000 EUR netto zzgl. USt. geleistet (Buchungsdatum 14.01.2026).
 
@@ -75,9 +75,9 @@ Die Mandantin hat einen Kostenvorschuss von 85.000 EUR netto zzgl. USt. geleiste
 
 RA Dr. Specht hat folgende Sofortmassnahmen angeordnet:
 
-1. **Einfrieren der Datenverarbeitung** im ProspectScore-Pro-Modul bis zur Klaerung der Rechtsgrundlagen (Art. 6 Abs. 1 DSGVO-Konformitaetspruefung)
-2. **Preservation Hold** saemtlicher Protokolldaten, Log-Files und Datenbankdumps (Sicherung fuer Beweiszwecke)
-3. **Kommunikationsstop** — keine direkten Gespraeche der Mandantin mit LDI NRW ohne anwaltliche Begleitung
+1. **Einfrieren der Datenverarbeitung** im ProspectScore-Pro-Modul bis zur Klärung der Rechtsgrundlagen (Art. 6 Abs. 1 DSGVO-Konformitätsprüfung)
+2. **Preservation Hold** sämtlicher Protokolldaten, Log-Files und Datenbankdumps (Sicherung für Beweiszwecke)
+3. **Kommunikationsstop** — keine direkten Gespräche der Mandantin mit LDI NRW ohne anwaltliche Begleitung
 4. **Incident Response** — Beauftragung externer Forensik (SecureProof GmbH, Bochum) zur Analyse CVE-2026-0188
 5. **HinSchG-Meldekanal** — Interne Meldestelle per sofort aktivieren und dokumentieren
 
@@ -93,13 +93,13 @@ RA Dr. Specht hat folgende Sofortmassnahmen angeordnet:
 
 ---
 
-## 5. Rechtliche Ersteinschaetzung
+## 5. Rechtliche Ersteinschätzung
 
 Die Gesamtlage der Mandantin ist als **kritisch** einzustufen. Folgende Risikopositionen bestehen kumulativ:
 
-1. **Bussgeldrisko LDI NRW** — Bei Feststellung eines schwerwiegenden Verstosses gegen Art. 6, Art. 22 und Art. 35 DSGVO droht ein Bussgeld bis 20.000.000 EUR oder 4% des weltweiten Jahresumsatzes (Art. 83 Abs. 5 DSGVO). Bei einem geschaetzten Jahresumsatz von ca. 4 Mio. EUR liegt die 4%-Grenze bei 160.000 EUR; massgeblich ist der hoehere Betrag, mithin 20 Mio. EUR.
+1. **Bussgeldrisko LDI NRW** — Bei Feststellung eines schwerwiegenden Verstosses gegen Art. 6, Art. 22 und Art. 35 DSGVO droht ein Bussgeld bis 20.000.000 EUR oder 4% des weltweiten Jahresumsatzes (Art. 83 Abs. 5 DSGVO). Bei einem geschätzten Jahresumsatz von ca. 4 Mio. EUR liegt die 4%-Grenze bei 160.000 EUR; massgeblich ist der höhere Betrag, mithin 20 Mio. EUR.
 2. **Haftungsrisiko Sammelklage** — 8.200 Betroffene x 1.500 EUR = 12.300.000 EUR (Gesamtforderung). Nach BGH VI ZR 10/24 kann auch bei fehlender konkreter Schadensbeschreibung immaterieller Schaden geltend gemacht werden, sofern ein kontrollierter Datenverlust nachgewiesen ist.
-3. **Strafbarkeitsrisiko § 42 BDSG** — Freiheitsstrafe bis 3 Jahre oder Geldstrafe; Beschuldigter ist GF Schimmelpfennig-Drosthager persoenlich.
+3. **Strafbarkeitsrisiko § 42 BDSG** — Freiheitsstrafe bis 3 Jahre oder Geldstrafe; Beschuldigter ist GF Schimmelpfennig-Drosthager persönlich.
 
 Die Kanzlei SBD empfiehlt eine umfassende Compliance-Offensive (DSFA-Nachholung, AVV-Sanierung, Meldung der Datenpanne) zur Strafmilderung im Bussgeldbescheid-Verfahren (Art. 83 Abs. 2 lit. f DSGVO: Kooperationsbereitschaft als Milderungsgrund).
 

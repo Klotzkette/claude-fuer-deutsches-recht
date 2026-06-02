@@ -6,7 +6,7 @@ Walpurga Meißnerlein-Hochkönig, geb. 12.06.1978
 Innere Bachgasse 17, 91315 Höchstadt an der Aisch
 
 **Anwaltskanzlei:**
-Hagenroth, Quasthoff-Pruegelmann & Kollegen
+Hagenroth, Quasthoff-Prügelmann & Kollegen
 Kanzlei für IT- und Wirtschaftsrecht
 Pfaffengasse 4, 91054 Erlangen
 
@@ -26,11 +26,11 @@ Vertretung in der Angelegenheit "Account-Sperre und Folgemaßnahmen gegenüber G
 
 ## 2. Honorar
 
-Stundensatz Hagenroth 380 EUR netto, Quasthoff-Pruegelmann 320 EUR netto, Referendarin Roswita Pfistermeier 90 EUR netto. Abrechnung monatlich. Vorschuss 7 500 EUR netto auf Verrechnungskonto.
+Stundensatz Hagenroth 380 EUR netto, Quasthoff-Prügelmann 320 EUR netto, Referendarin Roswita Pfistermeier 90 EUR netto. Abrechnung monatlich. Vorschuss 7 500 EUR netto auf Verrechnungskonto.
 
 ## 3. Vollmacht
 
-Die unterzeichnende Geschäftsführerin bevollmächtigt die Kanzlei Hagenroth, Quasthoff-Pruegelmann & Kollegen sowie deren Sozien zur Vertretung gegenüber
+Die unterzeichnende Geschäftsführerin bevollmächtigt die Kanzlei Hagenroth, Quasthoff-Prügelmann & Kollegen sowie deren Sozien zur Vertretung gegenüber
 
 - der Glitzerwald Inc. und allen verbundenen Unternehmen
 - der Bundesnetzagentur (BNetzA) und allen anderen zuständigen Behörden

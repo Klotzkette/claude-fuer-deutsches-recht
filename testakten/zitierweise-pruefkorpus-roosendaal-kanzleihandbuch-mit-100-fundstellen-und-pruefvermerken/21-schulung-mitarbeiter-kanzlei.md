@@ -1,7 +1,7 @@
 # 21 — Schulungskonzept Kanzleihandbuch Zitierweise v4.0
 
 **Kanzlei Roosendaal Birkenhainer Partners mbB**
-**Schulungskonzept fuer alle 280 Berufstraeger und Mitarbeitenden**
+**Schulungskonzept für alle 280 Berufsträger und Mitarbeitenden**
 **Schulungsverantwortlich: Dr. Sophia Pohlmann-Wittfeldt (HU Berlin)**
 **Knowledge Manager: Moritz Lattermann**
 **Stand: Oktober 2025**
@@ -10,14 +10,14 @@
 
 ## A. Schulungsziele
 
-Nach der Schulung koennen Teilnehmende:
+Nach der Schulung können Teilnehmende:
 
-1. Die sechs Pruefvermerk-Typen (PV-BR, PV-LM, PV-UV, PV-URL, PV-RG, PV-PG) benennen und anwenden.
+1. Die sechs Prüfvermerk-Typen (PV-BR, PV-LM, PV-UV, PV-URL, PV-RG, PV-PG) benennen und anwenden.
 2. BeckRS-Fundstellen korrekt behandeln (Sperre erkennen, Alternative suchen).
 3. Palandt/Gruenenberg-Grenzjahr sicher bestimmen.
 4. URL-Pflicht bei freien Online-Quellen einhalten.
 5. Rangfolge bei Mehrfach-Fundstellen korrekt anwenden.
-6. Das Pruefkorpus-XLSX eigenstaendig pflegen.
+6. Das Pruefkorpus-XLSX eigenständig pflegen.
 
 ---
 
@@ -26,33 +26,33 @@ Nach der Schulung koennen Teilnehmende:
 ### B.1 Praesenzseminar (Pflicht — alle Standorte)
 
 **Datum:** 18.11.2025
-**Orte:** Berlin (Kanzlei Roosendaal, Hauptstadtbuero), Muenchen (Konferenzraum K3), Hamburg (per Videokonferenz)
-**Dauer:** 4 Stunden inkl. Uebungen
+**Orte:** Berlin (Kanzlei Roosendaal, Hauptstadtbüro), Muenchen (Konferenzraum K3), Hamburg (per Videokonferenz)
+**Dauer:** 4 Stunden inkl. Übungen
 **Leitung:** Dr. Pohlmann-Wittfeldt (HU Berlin); Moderation: Lattermann
 
 **Gliederung:**
-1. Ueberblick Kanzleihandbuch v4.0 (30 Min.)
-2. Pruefvermerk-Typen und Fallbeispiele (60 Min.)
+1. Überblick Kanzleihandbuch v4.0 (30 Min.)
+2. Prüfvermerk-Typen und Fallbeispiele (60 Min.)
 3. Uebung: Echte Fehler im Pruefkorpus identifizieren (60 Min.)
 4. BeckRS-Sperre und Alternativsuche live demonstrieren (30 Min.)
 5. Palandt/Gruenenberg — 10 Testzitate bestimmen (20 Min.)
 6. Fragen und Diskussion (20 Min.)
 
-### B.2 E-Learning-Modul (Ergaenzend)
+### B.2 E-Learning-Modul (Ergänzend)
 
-**Bereitstellung:** Dezember 2025 ueber Kanzlei-Intranet
+**Bereitstellung:** Dezember 2025 über Kanzlei-Intranet
 **Dauer:** ca. 45 Minuten
-**Test:** 15 Fragen; Mindestpunktzahl 80 % fuer Zertifikat
+**Test:** 15 Fragen; Mindestpunktzahl 80 % für Zertifikat
 
 **Module:**
 - Modul 1: Grundregeln Hauszitierweise v4.0
-- Modul 2: BeckRS-Sperre — Erkennen und Loesen
+- Modul 2: BeckRS-Sperre — Erkennen und Lösen
 - Modul 3: Palandt/Gruenenberg-Umstellung Quiz
 - Modul 4: URL-Pflicht und Archivierung
 
 ---
 
-## C. Fallbeispiele fuer die Schulung
+## C. Fallbeispiele für die Schulung
 
 ### Fallbeispiel 1 — BeckRS-Sperre
 
@@ -61,7 +61,7 @@ Nach der Schulung koennen Teilnehmende:
 
 Identifiziere den Fehler und korrigiere ihn.
 
-**Loesung:** PV-BR. Amtliche Alternative: BGHZ 233, 177. Korrigiertes Zitat mit amtlicher Sammlung und URL bundesgerichtshof.de.
+**Lösung:** PV-BR. Amtliche Alternative: BGHZ 233, 177. Korrigiertes Zitat mit amtlicher Sammlung und URL bundesgerichtshof.de.
 
 ---
 
@@ -72,7 +72,7 @@ Identifiziere den Fehler und korrigiere ihn.
 
 Fehler benennen und korrigieren.
 
-**Loesung:** PV-PG. 81. Aufl. 2022 = Gruenenberg. Korrekt: Gruenenberg/Grueneberg, BGB, 81. Aufl. 2022, § 242 Rn. 14.
+**Lösung:** PV-PG. 81. Aufl. 2022 = Gruenenberg. Korrekt: Gruenenberg/Grueneberg, BGB, 81. Aufl. 2022, § 242 Rn. 14.
 
 ---
 
@@ -80,7 +80,7 @@ Fehler benennen und korrigieren.
 
 **Aufgabe:** Plugin wird nach Aufsatz Tannenmoor JZ 2024 gefragt. Was gibt das Plugin aus?
 
-**Loesung:** PV-LM. Plugin gibt kein Zitat aus. Empfehlung: Volltextzugang pruefen.
+**Lösung:** PV-LM. Plugin gibt kein Zitat aus. Empfehlung: Volltextzugang prüfen.
 
 ---
 
@@ -88,13 +88,13 @@ Fehler benennen und korrigieren.
 
 **Aufgabe:** Zitat lautet: BGH, Urt. v. 17.06.2014, Az. VI ZR 281/13, NJW 2014, 2568. Korrekt?
 
-**Loesung:** PV-URL. dejure-URL fehlt. Korrekt: ... abrufbar unter: https://dejure.org/2014,17316 (abgerufen am TT.MM.JJJJ).
+**Lösung:** PV-URL. dejure-URL fehlt. Korrekt: ... abrufbar unter: https://dejure.org/2014,17316 (abgerufen am TT.MM.JJJJ).
 
 ---
 
 ## D. Zertifizierung
 
-Alle Teilnehmenden erhalten nach Praesenzschulung und bestandenem E-Learning-Test ein internes Zertifikat "Zitierweise v4.0 zertifiziert". Das Zertifikat ist drei Jahre gueltig und wird im Personalstamm vermerkt.
+Alle Teilnehmenden erhalten nach Praesenzschulung und bestandenem E-Learning-Test ein internes Zertifikat "Zitierweise v4.0 zertifiziert". Das Zertifikat ist drei Jahre gültig und wird im Personalstamm vermerkt.
 
 ---
 

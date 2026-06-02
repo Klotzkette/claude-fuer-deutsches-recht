@@ -45,7 +45,7 @@ Eine Überwachungspflicht oder Pflicht zur Sperrung des Internetzugangs besteht 
 
 ## III. Handlungsempfehlung
 
-1. In der modifizierten UE wird Felix als Alternativtäter benannt — ohne ihn namentlich in einem Schriftsatz zu identifizieren (Minderjährigenschutz nach § 61 SGB VIII analog; zumindest: nur Initialen oder „Familienmitglied" in Außenschriftsätzen).
+1. In der modifizierten Ü wird Felix als Alternativtäter benannt — ohne ihn namentlich in einem Schriftsatz zu identifizieren (Minderjährigenschutz nach § 61 SGB VIII analog; zumindest: nur Initialen oder „Familienmitglied" in Außenschriftsätzen).
 2. Mira Windgassen soll schriftlich (Eigennotiz, datiert) festhalten, welche Belehrung wann stattgefunden hat.
 3. Falls Waldorf Frommer klagt: Klageerwiderung mit detaillierter Darlegung der Familiensituation.
 

@@ -2,7 +2,7 @@
 
 > Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
-Kanzlei Heller & Schoenfeld
+Kanzlei Heller & Schönfeld
 Rechtsanwältinnen
 Taunusanlage 8 · 60329 Frankfurt am Main
 Tel: +49 69 921 083 0 · kanzlei@heller-schoenfeld.de
@@ -62,7 +62,7 @@ Mit freundlichen Grüßen
 
 
 RA Dr. Franziska Heller
-Kanzlei Heller & Schoenfeld
+Kanzlei Heller & Schönfeld
 Im Auftrag der Musterholding GmbH
 
 

@@ -2,10 +2,10 @@
 
 ## Hypothesen
 
-In dieser Vergleichsrechnung werden zwei alternative Plan-Varianten gegenuebergestellt:
+In dieser Vergleichsrechnung werden zwei alternative Plan-Varianten gegenübergestellt:
 
-- **Variante A:** Plan mit Forderungsverzicht 22 Mio EUR und DES 8 Mio EUR (Anteilsuebertragung 35 % an Banken).
-- **Variante B:** Plan mit reinem Forderungsverzicht 30 Mio EUR (keine Anteilsuebertragung).
+- **Variante A:** Plan mit Forderungsverzicht 22 Mio EUR und DES 8 Mio EUR (Anteilsübertragung 35 % an Banken).
+- **Variante B:** Plan mit reinem Forderungsverzicht 30 Mio EUR (keine Anteilsübertragung).
 
 ## I. Wirtschaftliche Eckdaten
 
@@ -17,7 +17,7 @@ In dieser Vergleichsrechnung werden zwei alternative Plan-Varianten gegenueberge
 | Debt-Equity-Swap (Banken-Anteile 35 %) | 8.000.000 |
 | Stundung | 5.000.000 |
 | **Forderungsmilderung gesamt** | **35.000.000** |
-| Plan-Liquiditaet (Banken-Cash-Stuetzung) | 0 EUR direkter Cash; DES gibt Banken Anteile, aber keine Liquiditaet |
+| Plan-Liquidität (Banken-Cash-Stützung) | 0 EUR direkter Cash; DES gibt Banken Anteile, aber keine Liquidität |
 
 ### Variante B (ohne DES, reiner Verzicht)
 
@@ -26,7 +26,7 @@ In dieser Vergleichsrechnung werden zwei alternative Plan-Varianten gegenueberge
 | Forderungsverzicht | 30.000.000 |
 | Stundung | 5.000.000 |
 | **Forderungsmilderung gesamt** | **35.000.000** |
-| Plan-Liquiditaet | 0 EUR direkter Cash; Banken muessen aber den Verzicht ohne Ausgleich akzeptieren |
+| Plan-Liquidität | 0 EUR direkter Cash; Banken müssen aber den Verzicht ohne Ausgleich akzeptieren |
 
 ## II. Steuerlich (vergleichend)
 
@@ -51,7 +51,7 @@ In dieser Vergleichsrechnung werden zwei alternative Plan-Varianten gegenueberge
 
 In beiden Varianten ist der Sanierungsertrag nach § 3a EStG steuerfrei (bei rechtzeitigem Antrag). Damit ist der Vergleich bei erfolgreichem § 3a EStG-Antrag steuerlich neutral.
 
-## III. Banken-Praeferenz
+## III. Banken-Präferenz
 
 ### Variante A (mit DES)
 
@@ -70,34 +70,34 @@ Banken-Sicht: **bevorzugt**, weil Upside-Potenzial.
 
 Banken-Sicht: **nicht bevorzugt**, weil kein Upside.
 
-## IV. Schuldnerin-Praeferenz
+## IV. Schuldnerin-Präferenz
 
 ### Variante A (mit DES)
 
 - Mehr Forderungsmilderung (22 + 8 = 30, vs. nur 30 Mio EUR).
-- Aber: 35 % Anteilsverlust fuer die Familie Pellbach.
+- Aber: 35 % Anteilsverlust für die Familie Pellbach.
 - § 8c KStG-Problematik (mit § 8d KStG-Antrag abgefangen).
 
 ### Variante B (reiner Verzicht)
 
-- Familie behaelt 100 % Anteile.
-- Aber: Schuldnerin muss Banken vom hoeheren Verzicht ueberzeugen (politisch unwahrscheinlich).
+- Familie behält 100 % Anteile.
+- Aber: Schuldnerin muss Banken vom höheren Verzicht überzeugen (politisch unwahrscheinlich).
 - Kein § 8c KStG-Problem.
 
-Schuldnerin-Sicht: **Variante A** ist realistisch, weil Banken hoehere Beteiligung wollen.
+Schuldnerin-Sicht: **Variante A** ist realistisch, weil Banken höhere Beteiligung wollen.
 
 ## V. EU-Beihilfe-Aspekte
 
 ### Variante A (mit DES)
 
 - DES ist kein klassischer Verzicht; Banken erhalten Anteile.
-- ILB ist oeffentliche Bank (Investitionsbank Brandenburg). Frage: Ist die ILB-Beteiligung am Konsortium **als oeffentliche Banken-Beteiligung** EU-beihilferechtlich relevant?
+- ILB ist öffentliche Bank (Investitionsbank Brandenburg). Frage: Ist die ILB-Beteiligung am Konsortium **als öffentliche Banken-Beteiligung** EU-beihilferechtlich relevant?
 - Pruefung Altmark-Trans-Kriterien: Wenn ILB als Marktteilnehmerin agiert (zu Marktbedingungen), keine Beihilfe.
 - Hier: ILB nimmt an den gleichen Verzichtskonditionen wie NordKurland und Commerzbank teil. Keine Bevorzugung erkennbar. **Keine EU-Beihilfe.**
 
 ### Variante B (reiner Verzicht)
 
-- Wenn ILB pro rata ihres Anteils verzichtet (4,4 Mio EUR von 22 Mio EUR fuer Variante A; Variante B waere 6 Mio EUR von 30 Mio EUR), gleichermassen kein Marktverhalten unterstellt.
+- Wenn ILB pro rata ihres Anteils verzichtet (4,4 Mio EUR von 22 Mio EUR für Variante A; Variante B wäre 6 Mio EUR von 30 Mio EUR), gleichermassen kein Marktverhalten unterstellt.
 - Hier: Keine ILB-spezifische Begunstigung. **Keine EU-Beihilfe.**
 
 In beiden Varianten **keine EU-Beihilfe**.
@@ -126,11 +126,11 @@ In beiden Varianten **keine EU-Beihilfe**.
 
 ## VIII. Entscheidung
 
-Variante A ist sowohl banken- als auch steuerlich akzeptabel und wird im Plan-Dokument vorgelegt. Variante B ist hypothetisch (wuerde Banken-Konsens nicht erreichen) und dient nur dem Sanity-Pruefraster.
+Variante A ist sowohl banken- als auch steuerlich akzeptabel und wird im Plan-Dokument vorgelegt. Variante B ist hypothetisch (würde Banken-Konsens nicht erreichen) und dient nur dem Sanity-Prüfraster.
 
-## IX. Sensitivitaet DES-Werthaltigkeit
+## IX. Sensitivität DES-Werthaltigkeit
 
-Variante A — Sanierungsertrag in Abhaengigkeit der DES-Werthaltigkeit:
+Variante A — Sanierungsertrag in Abhängigkeit der DES-Werthaltigkeit:
 
 | Bewertung | Werthaltigkeit DES (EUR) | DES-Sanierungsertrag (EUR) | Sanierungsertrag konsolidiert (EUR) | Verbleibend nach Verlust (KSt 6 Mio) (EUR) | Steuer ohne § 3a (EUR) |
 |---|---|---|---|---|---|
@@ -143,6 +143,6 @@ In allen Werthaltigkeits-Varianten ist die Sanierung mit § 3a EStG steuerfrei. 
 
 ## X. Ergebnis und Empfehlung
 
-Variante A (mit DES, gemaess WP-Gutachten Buchner & Voltz) ist die Plan-Vorlage. Die Sanierung ist steuerlich tragfaehig, soweit die § 3a EStG- und § 7b GewStG-Antraege rechtzeitig gestellt sind (geschehen 27.05.2026). Risiko-Bewertung niedrig.
+Variante A (mit DES, gemaess WP-Gutachten Buchner & Voltz) ist die Plan-Vorlage. Die Sanierung ist steuerlich tragfähig, soweit die § 3a EStG- und § 7b GewStG-Anträge rechtzeitig gestellt sind (geschehen 27.05.2026). Risiko-Bewertung niedrig.
 
 — gez. Vogelweid (StB), 25.05.2026

@@ -117,7 +117,7 @@ Ich beantrage:
 3. **Beiziehung** folgender Befundberichte als Beweismittel:
    - Befundbericht Prof. Dr. Scheibenbogen, Charité Berlin, 11/2025 (liegt als Anlage bei)
    - Entlassungsbericht SKH Leipzig, Psychiatrie, 02/2026 (liegt als Anlage bei)
-   - Befundbericht Dr. Maerker, Hausarzt Leipzig, 01/2026 (liegt als Anlage bei)
+   - Befundbericht Dr. Märker, Hausarzt Leipzig, 01/2026 (liegt als Anlage bei)
    - Kardiologischer Befundbericht UKL (Kipptisch-Test), 04/2022
    - Neuropsychologischer Befundbericht UKL, 2022
 
@@ -128,7 +128,7 @@ Ich beantrage:
 1. Vollmacht RA Sonnemann
 2. Befundbericht Prof. Dr. Scheibenbogen, Charité Long-Covid-Ambulanz, 11/2025
 3. Entlassungsbericht SKH Leipzig (Psychiatrie), 02/2026
-4. Befundbericht Dr. Maerker (Hausarzt), 01/2026
+4. Befundbericht Dr. Märker (Hausarzt), 01/2026
 5. Auszug PEM-Tagebuch (Mandantin), 08–01/2026
 6. Schichtpläne UKL November 2021 (berufliche Exposition)
 

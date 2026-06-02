@@ -1,17 +1,17 @@
-Quartal,Datum,Position,Empfaenger,Belastung_EUR,Gutschrift_EUR,Status,Bemerkung
-Q1/2026,31.01.2026,USt-Voranmeldung 12/2025,Finanzamt Erfurt,180000,0,gebucht,Letzte regulaere USt-VA vor Schutzschirm
-Q1/2026,12.02.2026,Schutzschirmverfahren eroeffnet,AG Erfurt 60 IN 188/26,0,0,Verfahren,Stichtag fuer Steuerforderungen
+Quartal,Datum,Position,Empfänger,Belastung_EUR,Gutschrift_EUR,Status,Bemerkung
+Q1/2026,31.01.2026,USt-Voranmeldung 12/2025,Finanzamt Erfurt,180000,0,gebucht,Letzte reguläre USt-VA vor Schutzschirm
+Q1/2026,12.02.2026,Schutzschirmverfahren eröffnet,AG Erfurt 60 IN 188/26,0,0,Verfahren,Stichtag für Steuerforderungen
 Q1/2026,15.02.2026,USt-Voranmeldung 01/2026,Finanzamt Erfurt (Masse),152000,0,bestritten,erste VA im Schutzschirm
 Q1/2026,21.02.2026,LSt-Voranmeldung 01/2026,Finanzamt Erfurt,71000,0,bezahlt,Lohnsteuer 240 MA
-Q1/2026,28.02.2026,Massevorrecht USt-Rueckstand 2025,Finanzamt Erfurt,1250000,0,Masseforderung,Aus Schutzschirm
+Q1/2026,28.02.2026,Massevorrecht USt-Rückstand 2025,Finanzamt Erfurt,1250000,0,Masseforderung,Aus Schutzschirm
 Q1/2026,03.03.2026,Antrag verbindliche Auskunft 89 AO,Finanzamt Erfurt,0,0,eingereicht,Vorgang Sanierung 2026/188
 Q1/2026,15.03.2026,USt-Voranmeldung 02/2026,Finanzamt Erfurt,164000,0,bezahlt,
 Q1/2026,21.03.2026,LSt-Voranmeldung 02/2026,Finanzamt Erfurt,72500,0,bezahlt,
 Q1/2026,31.03.2026,Quartalssaldo Q1 Steuer,,1889500,0,kumuliert,
 Q2/2026,15.04.2026,USt-Voranmeldung 03/2026,Finanzamt Erfurt,168000,0,bezahlt,
 Q2/2026,21.04.2026,LSt-Voranmeldung 03/2026,Finanzamt Erfurt,72500,0,bezahlt,
-Q2/2026,28.04.2026,Antrag 3a IV EStG geplant,Finanzamt Erfurt,0,0,verschoben,StB Engelmeier verspaetet
-Q2/2026,28.04.2026,Antrag 7b GewStG geplant,Stadt Erfurt Gewerbesteueramt,0,0,verschoben,StB Engelmeier verspaetet
+Q2/2026,28.04.2026,Antrag 3a IV EStG geplant,Finanzamt Erfurt,0,0,verschoben,StB Engelmeier verspätet
+Q2/2026,28.04.2026,Antrag 7b GewStG geplant,Stadt Erfurt Gewerbesteueramt,0,0,verschoben,StB Engelmeier verspätet
 Q2/2026,30.04.2026,Plan-Vorlage,AG Erfurt,0,0,vorgelegt,Insolvenzplan
 Q2/2026,11.05.2026,Zwischenstand-Antwort FA Erfurt,Finanzamt Erfurt,0,0,eingegangen,Verbindliche Auskunft Stand
 Q2/2026,15.05.2026,USt-Voranmeldung 04/2026,Finanzamt Erfurt,158000,0,bezahlt,
@@ -22,23 +22,23 @@ Q2/2026,18.06.2026,Eroerterungs- und Abstimmungstermin,AG Erfurt 60 IN 188/26,0,
 Q2/2026,21.06.2026,LSt-Voranmeldung 05/2026,Finanzamt Erfurt,72000,0,bezahlt,
 Q2/2026,25.06.2026,Plan-Bestaetigungs-Beschluss,AG Erfurt 60 IN 188/26,0,0,erfolgt,Rechtskraft mit Ablauf Beschwerdefrist
 Q2/2026,30.06.2026,Quartalssaldo Q2 Steuer,,697000,0,kumuliert,
-Q3/2026,02.07.2026,Antrag 3a IV EStG TATSAECHLICH,Finanzamt Erfurt,0,0,eingereicht,Verspaeteter Antrag StB Engelmeier
-Q3/2026,02.07.2026,Antrag 7b GewStG TATSAECHLICH,Stadt Erfurt Gewerbesteueramt,0,0,eingereicht,Parallel
+Q3/2026,02.07.2026,Antrag 3a IV EStG TATSÄCHLICH,Finanzamt Erfurt,0,0,eingereicht,Verspäteter Antrag StB Engelmeier
+Q3/2026,02.07.2026,Antrag 7b GewStG TATSÄCHLICH,Stadt Erfurt Gewerbesteueramt,0,0,eingereicht,Parallel
 Q3/2026,03.07.2026,Mail Drosselberg an Engelmeier Eskalation,intern,0,0,Eskalation,Haftungsrisiko
 Q3/2026,09.07.2026,Stellungnahme Engelmeier,intern,0,0,erhalten,Verteidigung
 Q3/2026,15.07.2026,USt-Voranmeldung 06/2026,Finanzamt Erfurt,162000,0,bezahlt,
-Q3/2026,21.07.2026,Mandantenbesprechung Haftung,intern,0,0,abgehalten,Sozietaet Drosselberg
+Q3/2026,21.07.2026,Mandantenbesprechung Haftung,intern,0,0,abgehalten,Sozietät Drosselberg
 Q3/2026,25.07.2026,Plan-Umsetzung Start,intern,0,0,gestartet,Rechtskraft Plan
 Q3/2026,15.08.2026,USt-Voranmeldung 07/2026,Finanzamt Erfurt,168000,0,bezahlt,
 Q3/2026,21.08.2026,LSt-Voranmeldung 07/2026,Finanzamt Erfurt,73000,0,bezahlt,
 Q3/2026,30.09.2026,Quartalssaldo Q3 Steuer,,403000,0,kumuliert,
 Q4/2026,15.10.2026,USt-Voranmeldung 09/2026,Finanzamt Erfurt,175000,0,bezahlt,
 Q4/2026,21.10.2026,LSt-Voranmeldung 09/2026,Finanzamt Erfurt,73000,0,bezahlt,
-Q4/2026,31.10.2026,Steuererklaerungen 2026 Frist verlaengert auf,Finanzamt Erfurt,0,0,offen,Verlaengerung bis 28.02.2027
+Q4/2026,31.10.2026,Steuererklaerungen 2026 Frist verlängert auf,Finanzamt Erfurt,0,0,offen,Verlängerung bis 28.02.2027
 Q4/2026,15.11.2026,USt-Voranmeldung 10/2026,Finanzamt Erfurt,180000,0,bezahlt,
 Q4/2026,15.12.2026,USt-Voranmeldung 11/2026,Finanzamt Erfurt,185000,0,bezahlt,
 Q4/2026,31.12.2026,Jahresende WJ 2026,intern,0,0,abgeschlossen,Sanierungsertrag 38 Mio EUR im Buchwerk
 Q4/2026,31.12.2026,Quartalssaldo Q4 Steuer,,613000,0,kumuliert,
-Q4/2026,31.12.2026,JAHRESSALDO 2026 Steuern und Rueckstellungen,,3602500,0,kumuliert,Ohne KSt/GewSt-Belastung Sanierungsertrag (vorlaeufig)
-Q4/2026,31.12.2026,Rueckstellung KSt+GewSt+Soli Sanierungsertrag (Risikoreserve),,8062500,0,Rueckstellung,Bei Versagung 3a EStG durch FA Erfurt
+Q4/2026,31.12.2026,JAHRESSALDO 2026 Steuern und Rückstellungen,,3602500,0,kumuliert,Ohne KSt/GewSt-Belastung Sanierungsertrag (vorläufig)
+Q4/2026,31.12.2026,Rückstellung KSt+GewSt+Soli Sanierungsertrag (Risikoreserve),,8062500,0,Rückstellung,Bei Versagung 3a EStG durch FA Erfurt
 Q4/2026,31.12.2026,Forderung gegen StB-Haftpflicht Engelmeier (Risikoaktiv),,0,8062500,Forderung,Schadensersatz nach 280 BGB

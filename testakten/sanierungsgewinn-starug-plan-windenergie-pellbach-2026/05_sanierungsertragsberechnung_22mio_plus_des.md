@@ -2,20 +2,20 @@
 
 ## I. Zweck
 
-Diese Berechnung dient als Beleg fuer:
+Diese Berechnung dient als Beleg für:
 
-- den Antrag nach § 3a Abs. 4 EStG (Aktenstueck 08),
-- den Parallelantrag nach § 7b GewStG (Aktenstueck 09),
-- den Antrag auf verbindliche Auskunft nach § 89 AO (Aktenstueck 10),
-- den Antrag § 8d KStG (fortfuehrungsgebundener Verlustvortrag) (Aktenstueck 06).
+- den Antrag nach § 3a Abs. 4 EStG (Aktenstück 08),
+- den Parallelantrag nach § 7b GewStG (Aktenstück 09),
+- den Antrag auf verbindliche Auskunft nach § 89 AO (Aktenstück 10),
+- den Antrag § 8d KStG (fortfuehrungsgebundener Verlustvortrag) (Aktenstück 06).
 
-Erstellt durch StB Lothar Werner (Werner + Cie) und StB Dr. Lena Vogelweid (Sozietaet Reinkeller). Stand 28.03.2026.
+Erstellt durch StB Lothar Werner (Werner + Cie) und StB Dr. Lena Vogelweid (Sozietät Reinkeller). Stand 28.03.2026.
 
 ## II. Komponenten des Sanierungsertrags
 
 ### A. Forderungsverzicht (steuerlich klar)
 
-Der Forderungsverzicht der Banken in Hoehe von **22.000.000 EUR** ist gewinnerhoehender Sanierungsertrag i.S.v. § 3a Abs. 2 EStG.
+Der Forderungsverzicht der Banken in Höhe von **22.000.000 EUR** ist gewinnerhoehender Sanierungsertrag i.S.v. § 3a Abs. 2 EStG.
 
 | Bank | Verzichtsbetrag (EUR) |
 |---|---|
@@ -32,12 +32,12 @@ Die zentrale Frage: Welcher Teil ist Einlage (steuerneutral), welcher Sanierungs
 
 **Grundsatz (BMF, Schreiben v. 27.04.2017, Rn. 13; aus dem Sanierungserlass-Nachfolger):**
 
-Bei einem Debt-Equity-Swap fuehrt die Forderungs-Einbringung in Hoehe ihres tatsaechlichen Werts zu einer **Einlage**, der Differenzbetrag zwischen Forderungs-Nennwert und tatsaechlichem Wert zu einem **Sanierungsertrag**.
+Bei einem Debt-Equity-Swap führt die Forderungs-Einbringung in Höhe ihres tatsächlichen Werts zu einer **Einlage**, der Differenzbetrag zwischen Forderungs-Nennwert und tatsächlichem Wert zu einem **Sanierungsertrag**.
 
 | Position | EUR |
 |---|---|
 | Forderungs-Nennwert DES gesamt | 8.000.000 |
-| Werthaltigkeit (WP-Gutachten Buchner & Voltz, vorlaeufig 30.04.2026, final 15.05.2026) | 5.200.000 |
+| Werthaltigkeit (WP-Gutachten Buchner & Voltz, vorläufig 30.04.2026, final 15.05.2026) | 5.200.000 |
 | **Einlage-Anteil DES (steuerneutral)** | **5.200.000** |
 | **Sanierungsertrag-Anteil DES** | **2.800.000** |
 
@@ -52,10 +52,10 @@ Aufgliederung je Bank:
 
 ### C. Stundung 5 Mio EUR (steuerneutral)
 
-Die Stundung des Restbetrages ueber 36 Monate fuehrt **nicht** zu einem Sanierungsertrag, weil:
+Die Stundung des Restbetrages über 36 Monate führt **nicht** zu einem Sanierungsertrag, weil:
 
 - Forderungsverzichtswirkung fehlt; Forderung bleibt voll bestehen.
-- Keine wesentliche Aenderung der Vertragsbedingungen (Aequivalenzpruefung): Zinssatz 2,5 % entspricht Marktniveau.
+- Keine wesentliche Änderung der Vertragsbedingungen (Äquivalenzprüfung): Zinssatz 2,5 % entspricht Marktniveau.
 
 Steuerneutralitaet ist BMF-konform (BMF, Schreiben v. 27.04.2017, Rn. 4).
 
@@ -88,7 +88,7 @@ In allen Varianten ist der Sanierungsertrag mit § 3a EStG-Befreiung steuerfrei.
 | Banken | 2.475.000 | 136.125 | 2.126.250 | 4.737.375 |
 | Verzicht (ohne DES) | 2.400.000 | 132.000 | 2.047.500 | 4.579.500 |
 
-Steuer-Belastung von 4,5 — 6,5 Mio EUR ohne Befreiung wuerde Plan-Liquiditaet sprengen.
+Steuer-Belastung von 4,5 — 6,5 Mio EUR ohne Befreiung würde Plan-Liquidität sprengen.
 
 ## V. Buchungstechnische Folgen
 
@@ -110,7 +110,7 @@ An:  Bankforderungen NordKurland-Konsortium                                    8
 
 (Werte vereinfacht; exakte Buchung folgt im Bilanzentwurf 2026)
 
-### C. Stundung (keine Buchung erforderlich, da nur Faelligkeitsaenderung; Anhang-Hinweis)
+### C. Stundung (keine Buchung erforderlich, da nur Fälligkeitsänderung; Anhang-Hinweis)
 
 ## VI. § 3a Abs. 3 EStG-Verrechnung (Vorausschau)
 
@@ -120,17 +120,17 @@ An:  Bankforderungen NordKurland-Konsortium                                    8
 | - Verlustvortrag (KSt 6 Mio, GewSt 9 Mio) | -6.000.000 | -9.000.000 |
 | **Verbleibender Sanierungsertrag** | **18.800.000** | **15.800.000** |
 
-(Detail in Aktenstueck 07)
+(Detail in Aktenstück 07)
 
 ## VII. Stand der Akte und Hauptzahl
 
-Fuer die weiteren Berechnungen wird in dieser Akte die **Hauptzahl 22.000.000 EUR** (reiner Forderungsverzicht) verwendet, weil:
+Für die weiteren Berechnungen wird in dieser Akte die **Hauptzahl 22.000.000 EUR** (reiner Forderungsverzicht) verwendet, weil:
 
 - der DES-Anteil von 2,8 Mio EUR streitig bewertet ist;
 - die Banken-Vereinbarung den Verzicht und den DES als separate Positionen ausweist;
-- die Mandat-Vorgabe den Forderungsverzicht mit 22 Mio EUR und den DES mit 8 Mio EUR getrennt fuehrt.
+- die Mandat-Vorgabe den Forderungsverzicht mit 22 Mio EUR und den DES mit 8 Mio EUR getrennt führt.
 
-In den Aktenstuecken 07, 08, 09 wird konsistent gerechnet:
+In den Aktenstücken 07, 08, 09 wird konsistent gerechnet:
 
 | Position | Wert (EUR) |
 |---|---|
@@ -140,10 +140,10 @@ In den Aktenstuecken 07, 08, 09 wird konsistent gerechnet:
 | Verbleibender Sanierungsertrag KSt nach § 3a III | 16.000.000 |
 | Verbleibender Sanierungsertrag GewSt nach § 7b/§ 3a III | 13.000.000 |
 
-Der DES-Anteil von 2,8 Mio EUR wird in einem **Nachtragsantrag** behandelt, sobald das WP-Gutachten final vorliegt (Aktenstueck 13).
+Der DES-Anteil von 2,8 Mio EUR wird in einem **Nachtragsantrag** behandelt, sobald das WP-Gutachten final vorliegt (Aktenstück 13).
 
 ## VIII. Querverweis Liquidationspfad
 
-Falls die StaRUG-Plan-Bestaetigung scheitert (z. B. wenn die Gruppe-Mehrheit nicht erreicht wird oder gerichtlicher Widerspruch besteht) und die Schuldnerin in die Regelinsolvenz uebergehen muss, gilt fuer die Sanierungsertrag-Berechnung in diesem Fall die Insolvenzplan-Variante (Akte Grossbach analog). Falls die Liquidation an die Reihe kommt, ist der Querverweis FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014) relevant: rangruecktrittsbehaftete Verbindlichkeiten bleiben bis zur Loeschung passiviert; im Loeschungszeitpunkt rechentheoretisch entstehender Gewinn nicht festsetzbar (mangels KSt-Subjekt). § 5 Abs. 2a EStG (BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279) greift nur bei reiner Zukunftsgewinn-Rangruecktrittsklausel. Im Streitfall Pellbach derzeit nicht einschlaegig, weil keine Gesellschafterdarlehen mit Rangruecktritt vorliegen — die Banken-Forderungen sind klassisch.
+Falls die StaRUG-Plan-Bestätigung scheitert (z. B. wenn die Gruppe-Mehrheit nicht erreicht wird oder gerichtlicher Widerspruch besteht) und die Schuldnerin in die Regelinsolvenz übergehen muss, gilt für die Sanierungsertrag-Berechnung in diesem Fall die Insolvenzplan-Variante (Akte Grossbach analog). Falls die Liquidation an die Reihe kommt, ist der Querverweis FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014) relevant: rangruecktrittsbehaftete Verbindlichkeiten bleiben bis zur Löschung passiviert; im Loeschungszeitpunkt rechentheoretisch entstehender Gewinn nicht festsetzbar (mangels KSt-Subjekt). § 5 Abs. 2a EStG (BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279) greift nur bei reiner Zukunftsgewinn-Rangruecktrittsklausel. Im Streitfall Pellbach derzeit nicht einschlägig, weil keine Gesellschafterdarlehen mit Rangrücktritt vorliegen — die Banken-Forderungen sind klassisch.
 
 — gez. Werner (StB), Vogelweid (StB), 28.03.2026

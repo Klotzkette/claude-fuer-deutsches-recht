@@ -10,7 +10,7 @@
 
 ## Kommentar Clara Herbst
 
-> Miriam Rupprecht ist für mich der Pinocchio des Monats. Erst "Lieferung Ende März", dann "ganz sicher im April", jetzt "wegen externer Faktoren offen". Wer dreimal Verlässlichkeit verspricht und dreimal anders liefert, sollte nicht mit Verlässlichkeit werben. #Bauprojekte #Verlaesslichkeit
+> Miriam Rupprecht ist für mich der Pinocchio des Monats. Erst "Lieferung Ende März", dann "ganz sicher im April", jetzt "wegen externer Faktoren offen". Wer dreimal Verlässlichkeit verspricht und dreimal anders liefert, sollte nicht mit Verlässlichkeit werben. #Bauprojekte #Verlässlichkeit
 
 ## Antwort Miriam Rupprecht, 09.05.2026, 19:48 Uhr
 

@@ -8,7 +8,7 @@
 
 ## A. Grundsatz
 
-Die Websites bundesgerichtshof.de und bundesverfassungsgericht.de sind amtliche Online-Praesenzquellen. Entscheidungen sind dort im Original abrufbar und gelten als dauerhaft stabil. Ein separater Archivlink (Wayback Machine) ist nicht erforderlich, aber zulaessig.
+Die Websites bundesgerichtshof.de und bundesverfassungsgericht.de sind amtliche Online-Praesenzquellen. Entscheidungen sind dort im Original abrufbar und gelten als dauerhaft stabil. Ein separater Archivlink (Wayback Machine) ist nicht erforderlich, aber zulässig.
 
 Bei bundesfinanzhof.de, bverwg.de und bsg.bund.de gilt dasselbe.
 
@@ -24,7 +24,7 @@ BGH, [Urteilsart] v. TT.MM.JJJJ, Az. XX ZR YYY/ZZ, [amtliche Sammlung ggf.], abr
 **Beispiel (Fundstelle 83 des Pruefkorpus):**
 BGH, Urt. v. 21.12.2021, Az. VI ZR 48/21, BGHZ 232, 133, abrufbar unter: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/2021/12/urt20211221_vizr004821.html (abgerufen am 01.10.2025).
 
-**Pruefvermerk Nr. 83:** Kein Pruefvermerk. URL amtlich und dauerhaft stabil.
+**Prüfvermerk Nr. 83:** Kein Prüfvermerk. URL amtlich und dauerhaft stabil.
 
 ---
 
@@ -36,7 +36,7 @@ BVerfG, [Urteilsart] v. TT.MM.JJJJ, Az. X BvX YY/ZZ, BVerfGE XX, YYY (ZZZ), abru
 **Beispiel (Fundstelle 84 des Pruefkorpus):**
 BVerfG, Urt. v. 15.01.1958, Az. 1 BvR 400/51, BVerfGE 7, 198 (205) — Lueth, abrufbar unter: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1958/01/rs19580115_1bvr040051.html (abgerufen am 01.10.2025).
 
-**Pruefvermerk Nr. 84:** Kein Pruefvermerk.
+**Prüfvermerk Nr. 84:** Kein Prüfvermerk.
 
 ---
 
@@ -48,7 +48,7 @@ BFH, [Urteilsart] v. TT.MM.JJJJ, Az. XX R YY/ZZ, BFHE XXX, YYY; BStBl. II JJJJ, 
 **Beispiel (Fundstelle 85):**
 BFH, Urt. v. 23.01.2023, Az. IX R 8/22, BFHE 278, 100; BStBl. II 2023, 456, abrufbar unter: https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202310054/ (abgerufen am 01.10.2025).
 
-**Pruefvermerk Nr. 85:** Kein Pruefvermerk.
+**Prüfvermerk Nr. 85:** Kein Prüfvermerk.
 
 ---
 
@@ -60,7 +60,7 @@ BVerwG, [Urteilsart] v. TT.MM.JJJJ, Az. X XX X.XX, BVerwGE XXX, YYY, abrufbar un
 **Beispiel (Fundstelle 86):**
 BVerwG, Urt. v. 05.09.2019, Az. 2 C 17.18, BVerwGE 166, 303, abrufbar unter: https://www.bverwg.de/050919U2C17.18.0 (abgerufen am 01.10.2025).
 
-**Pruefvermerk Nr. 86:** Kein Pruefvermerk.
+**Prüfvermerk Nr. 86:** Kein Prüfvermerk.
 
 ---
 
@@ -71,44 +71,44 @@ BVerwG, Urt. v. 05.09.2019, Az. 2 C 17.18, BVerwGE 166, 303, abrufbar unter: htt
 **Situation (Fundstelle 87):**
 BGH, Urt. v. 15.08.2025, Az. XII ZB 100/25.
 
-Entscheidung vom 15.08.2025 noch nicht online verfuegbar.
+Entscheidung vom 15.08.2025 noch nicht online verfügbar.
 
-**[PRUEFVERMERK — UNVOLLSTAENDIGES ZITAT (PV-UV)]**
-Fundstelle fehlt. Entscheidung zu neu fuer Veröffentlichung. Bitte Pruefung wiederholen ab Oktober 2025.
+**[PRÜFVERMERK — UNVOLLSTÄNDIGES ZITAT (PV-UV)]**
+Fundstelle fehlt. Entscheidung zu neu für Veröffentlichung. Bitte Pruefung wiederholen ab Oktober 2025.
 
 ---
 
-### C.2 Link auf amtlichem Server veraendert (404-Fehler)
+### C.2 Link auf amtlichem Server verändert (404-Fehler)
 
 **Situation (Fundstelle 88):**
 BVerfG, Beschl. v. 14.03.2017, Az. 2 BvL 17/09 — URL liefert 404.
 
-**Empfehlung:** Neusuche ueber https://www.bundesverfassungsgericht.de (Entscheidungsdatenbank). Bei dauerhaftem Ausfall: Archivlink Wayback Machine erganzen:
+**Empfehlung:** Neusuche über https://www.bundesverfassungsgericht.de (Entscheidungsdatenbank). Bei dauerhaftem Ausfall: Archivlink Wayback Machine erganzen:
 https://web.archive.org/web/*/https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/...
 
-**Pruefvermerk Nr. 88:** PV-URL (URL ungueltig — bitte Neusuche und Aktualisierung).
+**Prüfvermerk Nr. 88:** PV-URL (URL ungültig — bitte Neusuche und Aktualisierung).
 
 ---
 
 ### C.3 Parallelzitat: amtlicher Server UND dejure
 
-Beides ist zulaessig. Kanzleistandard: Amtlicher Server hat Vorrang; dejure als Ergaenzung bei einfacherer Navigation.
+Beides ist zulässig. Kanzleistandard: Amtlicher Server hat Vorrang; dejure als Ergänzung bei einfacherer Navigation.
 
 **Beispiel (Fundstelle 89):**
 BGH, Urt. v. 14.03.2023, Az. VI ZR 44/22, NJW 2023, 2165, abrufbar unter: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/2023/03/urt20230314_vizr004422.html und https://dejure.org/2023,9002 (abgerufen am 01.10.2025).
 
-**Pruefvermerk Nr. 89:** Kein Pruefvermerk. Doppel-URL zulaessig.
+**Prüfvermerk Nr. 89:** Kein Prüfvermerk. Doppel-URL zulässig.
 
 ---
 
 ## D. Checkliste amtliche Online-Quellen
 
-| Pruefpunkt | Beschreibung |
+| Prüfpunkt | Beschreibung |
 |---|---|
-| URL-Gueltigkeit | Ist die URL aktuell erreichbar? |
+| URL-Gültigkeit | Ist die URL aktuell erreichbar? |
 | Abrufdatum | Ist das Abrufdatum dokumentiert? |
 | Stabile Domain | Ist die Domain amtlich (bundesgerichtshof.de etc.)? |
-| Kein Archivlink noetig | Amtliche Server gelten als dauerhaft stabil |
+| Kein Archivlink nötig | Amtliche Server gelten als dauerhaft stabil |
 | URL ergaenzbar | Bei Zweifeln Archivlink Wayback Machine erganzen |
 
 ---

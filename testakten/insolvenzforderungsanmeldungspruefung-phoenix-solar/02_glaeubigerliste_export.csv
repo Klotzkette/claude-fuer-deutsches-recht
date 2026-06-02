@@ -1,4 +1,4 @@
-glaeubiger_id,name,anschrift,vertreter,konto_schuldner,opos_betrag,rang,sicherheit,bemerkung
+gläubiger_id,name,anschrift,vertreter,konto_schuldner,opos_betrag,rang,sicherheit,bemerkung
 G001,Solarteile Nord GmbH,"Hafenweg 12, 20457 Hamburg",RA Henning Beispiel,70010,28450.20,§ 38 InsO,Eigentumsvorbehalt (einfach),Lieferant Module; Dublette lfd.Nr.8; Schuldnerwiderspruch
 G002,Havelbank AG,"Berliner Straße 4, 14467 Potsdam",RAin Sandra Kühn,16000,150000.00,§ 38 InsO (Ausfall),Sicherungsübereignung Fahrzeuge+Lager,Ausfall nach Verwertung 103.624 EUR; Zinsstreit
 G003,Finanzamt Potsdam,"Steinstraße 104, 14480 Potsdam",,37000,38400.00,§ 38 InsO,keine,USt 02/2026 + LSt 03/2026 + Vorsteuerberichtigung; besonderer Rechtsgrund bestritten

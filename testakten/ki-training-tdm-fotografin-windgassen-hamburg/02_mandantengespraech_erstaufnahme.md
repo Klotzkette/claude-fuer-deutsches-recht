@@ -46,7 +46,7 @@ Abgemahnte Werke laut Schreiben Waldorf Frommer:
 2. „Barbie" (Greta Gerwig, Warner Bros., 2023)  
 3. „Mission Impossible: Dead Reckoning Part One" (McQuarrie, Paramount, 2023)
 
-Forderung: 850 EUR Lizenzschadenersatz + 1.295 EUR Abmahnkosten, gesamt 2.145 EUR. UE-Frist: 30.01.2026.
+Forderung: 850 EUR Lizenzschadenersatz + 1.295 EUR Abmahnkosten, gesamt 2.145 EUR. Ü-Frist: 30.01.2026.
 
 ### Lizenzstreit Mare
 
@@ -66,7 +66,7 @@ Windgassen bestreitet dies vehement. Sie habe lediglich Demonstrantinnen gefragt
 
 Vier Mandatsschwerpunkte — Priorisierung nach Fristendruck:
 
-1. **Filesharing:** Frist 30.01. — sofort. Kein Klageziel; Ziel: modifizierte UE, keine sofortige Zahlung.
+1. **Filesharing:** Frist 30.01. — sofort. Kein Klageziel; Ziel: modifizierte Ü, keine sofortige Zahlung.
 2. **Gegendarstellung:** Frist individuell, LPG Hamburg § 11 Absatz 1 Satz 1 gilt — Verlangen ohne Verzug einreichen.
 3. **ImagineArt-Klage LG Hamburg:** Strategisch dringend; Verjährungsfragen, LAION-Datierung klären.
 4. **Lizenzstreit Mare:** Keine Frist, aber Bandherstellung läuft — Mare-Deadline intern März 2026.

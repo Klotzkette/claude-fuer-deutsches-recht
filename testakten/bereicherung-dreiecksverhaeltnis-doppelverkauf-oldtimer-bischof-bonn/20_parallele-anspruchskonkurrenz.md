@@ -1,4 +1,4 @@
-# 20 Anspruchskonkurrenz — Parallele Ansprüche im Ueberblick
+# 20 Anspruchskonkurrenz — Parallele Ansprüche im Überblick
 
 **Aktenzeichen:** LG Bonn 16 O 211/26, AG Hamburg 67 IN 88/26, LG Bonn 4 O 188/26
 **Rechtsfrage:** Systematische Darstellung aller parallel bestehenden Ansprüche

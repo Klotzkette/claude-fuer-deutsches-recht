@@ -9,4 +9,4 @@
 **Business:** Credit institution, payment services, securities services
 **Status:** Normal
 
-Hinweis der Kanzlei: Der Auszug belegt den Rechtstraeger. Die deutsche Zweigniederlassung ist keine eigenstaendige irische oder deutsche juristische Person.
+Hinweis der Kanzlei: Der Auszug belegt den Rechtsträger. Die deutsche Zweigniederlassung ist keine eigenständige irische oder deutsche juristische Person.

@@ -2,11 +2,11 @@
 
 **System:** BewerberPilot TalentRank 2.4 (Release Candidate)
 **Build:** BP-TR-2.4-RC-2026-05-28
-**Hosting:** MedData Hosting GmbH, Region EU-Nuernberg, Mandant elbtal-pilot-2026
+**Hosting:** MedData Hosting GmbH, Region EU-Nürnberg, Mandant elbtal-pilot-2026
 **Zeitraum Auszug:** 12.05.2026 00:00 Uhr UTC bis 25.05.2026 23:59 Uhr UTC
 **Zweck:** Nachweis der technischen Konformitaet (Art. 12 KI-VO, Art. 11 i.V.m. Anhang IV KI-VO).
 **Verfasser des Auszugs:** Tim Lange (DevOps, BewerberPilot Score GmbH), 26.05.2026
-**Pruefer:** Dr. Caspar Lintorf (Compliance)
+**Prüfer:** Dr. Caspar Lintorf (Compliance)
 
 ---
 
@@ -87,10 +87,10 @@ logging:
 
 1. **`no_auto_reject: true`** technisch im UI-Code und im Backend doppelt durchgesetzt. Ein Ablehnungsstatus kann nicht ohne menschliche Eingabe gesetzt werden.
 2. **Featureblockliste** umfasst alle nach Art. 10 KI-VO besonders kritischen Merkmale. Eine Liste der maskierten Merkmale wird quartalsweise gereviewt.
-3. **GPAI-Endpoint Dublin EU-Region.** Keine Datenuebermittlung in Drittlaender, ueber EU-Region-Endpoint vertraglich abgesichert.
+3. **GPAI-Endpoint Dublin EU-Region.** Keine Datenübermittlung in Drittländer, über EU-Region-Endpoint vertraglich abgesichert.
 4. **MFA-required-all-roles:** kein Recruiter, kein Admin und kein Auditor kann ohne MFA arbeiten.
 
-## 3. Logfile-Auszug (typische Eintraege, anonymisiert)
+## 3. Logfile-Auszug (typische Einträge, anonymisiert)
 
 ```
 [2026-05-12 09:14:22 UTC] INFO   user=recruiter-23 action=login tenant=elbtal-pilot-2026 ip=hash:8a... mfa=true
@@ -119,27 +119,27 @@ logging:
 [2026-05-25 17:00:00 UTC] INFO   readiness.gate id=gate_2_bias status=open blocker_id=FL-2026-088-R2
 ```
 
-## 4. Auffaelligkeiten und Hinweise
+## 4. Auffälligkeiten und Hinweise
 
 ### 4.1 Ablehnungs-Override
 
-Der Logeintrag `[2026-05-12 09:24:18 UTC] WARN user=recruiter-23 action=attempt_reject app_id=APP-2026-04-1118 blocked_reason="reject_requires_human_text_min_15_chars"` zeigt, dass das System eine Ablehnung **erst** zulaesst, wenn der Recruiter eine handschriftliche Begruendung von mindestens 15 Zeichen eingibt. Dies entspricht dem Konzept "menschliche Aufsicht" gemaess Art. 14 KI-VO.
+Der Logeintrag `[2026-05-12 09:24:18 UTC] WARN user=recruiter-23 action=attempt_reject app_id=APP-2026-04-1118 blocked_reason="reject_requires_human_text_min_15_chars"` zeigt, dass das System eine Ablehnung **erst** zulässt, wenn der Recruiter eine handschriftliche Begründung von mindestens 15 Zeichen eingibt. Dies entspricht dem Konzept "menschliche Aufsicht" gemaess Art. 14 KI-VO.
 
 ### 4.2 PMM-Alert
 
-Der ALERT-Eintrag am 12.05.2026 zur "Pflege-Acceptance-Rate" (0.18 unter Baseline 0.22) loest einen Manual-Review aus. Dieser ist im PMM-Plan vorgesehen (TD-12).
+Der ALERT-Eintrag am 12.05.2026 zur "Pflege-Acceptance-Rate" (0.18 unter Baseline 0.22) löst einen Manual-Review aus. Dieser ist im PMM-Plan vorgesehen (TD-12).
 
 ### 4.3 LexiCore Fallback
 
-Der WARN-Eintrag am 13.05.2026 zeigt, dass das System bei LexiCore-Timeouts auf ein lokales Modell zurueckgreift. Diese Fallback-Logik ist im Konfigurations-Manifest dokumentiert und im UI sichtbar.
+Der WARN-Eintrag am 13.05.2026 zeigt, dass das System bei LexiCore-Timeouts auf ein lokales Modell zurückgreift. Diese Fallback-Logik ist im Konfigurations-Manifest dokumentiert und im UI sichtbar.
 
 ### 4.4 GPAI-Hallucination-Flag
 
-Der WARN-Eintrag am 23.05.2026 zeigt, dass eine GPAI-Zusammenfassung als "moegliche Halluzination zu Bildungsangaben" markiert wurde und das System manuelle Pruefung anfordert. Dies entspricht den Massnahmen aus dem Bias-Auditbericht (vgl. 13_bias_audit_bericht.md, Ziffer 4.1).
+Der WARN-Eintrag am 23.05.2026 zeigt, dass eine GPAI-Zusammenfassung als "mögliche Halluzination zu Bildungsangaben" markiert wurde und das System manuelle Pruefung anfordert. Dies entspricht den Massnahmen aus dem Bias-Auditbericht (vgl. 13_bias_audit_bericht.md, Ziffer 4.1).
 
 ### 4.5 Override-Rate eskaliert
 
-Am 24.05.2026 wird eine wachsende Recruiter-Override-Rate (0.118 vs. Baseline 0.090) erfasst. Dieser Wert ist im Pilot relevant; ein Review ist fuer den 31.05.2026 angesetzt.
+Am 24.05.2026 wird eine wachsende Recruiter-Override-Rate (0.118 vs. Baseline 0.090) erfasst. Dieser Wert ist im Pilot relevant; ein Review ist für den 31.05.2026 angesetzt.
 
 ### 4.6 Readiness-Gate offen
 
@@ -147,17 +147,17 @@ Am 25.05.2026 zeigt das Readiness-Gate "gate_2_bias" als "open" wegen FairnessLa
 
 ## 5. Konsistenz mit anderen Aktendokumenten
 
-- **04_daten_governance_bias_test_art_10.md:** Bias-Test-Beobachten-Schwellen sind im Log ueberprueft.
+- **04_daten_governance_bias_test_art_10.md:** Bias-Test-Beobachten-Schwellen sind im Log überprüft.
 - **06_human_oversight_logging_art_12_14.md:** Logging-Spezifikation v1.1 ist im Konfigurations-Manifest umgesetzt.
-- **10_lueckenliste_massnahmenplan.md:** Luecken Nr. 1 bis 9 sind im Log nachweisbar oder fehlen (Nr. 5 Human-Oversight-Test ist noch offen).
+- **10_lueckenliste_massnahmenplan.md:** Lücken Nr. 1 bis 9 sind im Log nachweisbar oder fehlen (Nr. 5 Human-Oversight-Test ist noch offen).
 - **13_bias_audit_bericht.md:** Empfehlungen sind im System als "FairnessLab recommendation_id" abrufbar.
 
 ## 6. Aufbewahrung
 
-Die Logdateien werden gemaess Konfiguration `logging.retention_days` zwischen 540 und 720 Tagen aufbewahrt. Ein vollstaendiger Auszug fuer den Pilotzeitraum wird der Pilotkundin auf Anfrage uebergeben.
+Die Logdateien werden gemaess Konfiguration `logging.retention_days` zwischen 540 und 720 Tagen aufbewahrt. Ein vollständiger Auszug für den Pilotzeitraum wird der Pilotkundin auf Anfrage übergeben.
 
 ## 7. Signatur
 
 Tim Lange (DevOps Lead, BewerberPilot Score GmbH), 26.05.2026
 
-Dr. Caspar Lintorf (Compliance Officer), 26.05.2026 (Pruefvermerk: Auszug freigegeben fuer interne Verwendung)
+Dr. Caspar Lintorf (Compliance Officer), 26.05.2026 (Prüfvermerk: Auszug freigegeben für interne Verwendung)

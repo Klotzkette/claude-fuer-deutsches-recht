@@ -1,14 +1,14 @@
-# Anlage K 1: Allgemeine Geschaeftsbedingungen Datenschutzverein NORD e.V.
+# Anlage K 1: Allgemeine Geschäftsbedingungen Datenschutzverein NORD e.V.
 
 Stand: 1. Januar 2026
 
-## Praeambel
+## Präambel
 
-Diese AGB gelten fuer alle Bestellvorgaenge des Datenschutzvereins NORD e.V. (im Folgenden Besteller) bei Anbietern technischer Produkte.
+Diese AGB gelten für alle Bestellvorgänge des Datenschutzvereins NORD e.V. (im Folgenden Besteller) bei Anbietern technischer Produkte.
 
 ## Ziffer 1 Vertragsgegenstand
 
-Der Besteller bestellt das in der Bestelloberflaeche bezeichnete Produkt zum dort genannten Preis.
+Der Besteller bestellt das in der Bestelloberfläche bezeichnete Produkt zum dort genannten Preis.
 
 ## Ziffer 13 Rechtswahl
 
@@ -20,12 +20,12 @@ Ausschliesslicher Gerichtsstand ist Hamburg, sofern der Anbieter Unternehmer ist
 
 ## Ziffer 15 Datenschutz
 
-Der Besteller behaelt sich vor, Testkaeufe zur Pruefung der Datenschutzkonformitaet vorzunehmen.
+Der Besteller behält sich vor, Testkäufe zur Pruefung der Datenschutzkonformität vorzunehmen.
 
 ## Ziffer 16 Schriftform
 
-Aenderungen dieser AGB beduerfen der Schriftform.
+Änderungen dieser AGB bedürfen der Schriftform.
 
 ## Ziffer 17 Salvatorische Klausel
 
-Sollten einzelne Bestimmungen unwirksam sein, beruehrt dies die Wirksamkeit der uebrigen Bestimmungen nicht.
+Sollten einzelne Bestimmungen unwirksam sein, berührt dies die Wirksamkeit der übrigen Bestimmungen nicht.

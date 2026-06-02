@@ -9,7 +9,7 @@ Register: Handelsregister Frankfurt HRB 131777
 
 ## Interner Kommentar im Entwurf
 
-Jonas hat in das Feld "Beschreibung" geschrieben: "Deutsche Niederlassung einer irischen Bank". Das wirkt zwar transparent, aber bei Rechtsform "Sonstige Organisation" entsteht der Eindruck einer eigenstaendigen Organisation.
+Jonas hat in das Feld "Beschreibung" geschrieben: "Deutsche Niederlassung einer irischen Bank". Das wirkt zwar transparent, aber bei Rechtsform "Sonstige Organisation" entsteht der Eindruck einer eigenständigen Organisation.
 
 ## Abbruchgrund
 

@@ -8,15 +8,15 @@
 
 ## 1. Zweck der W&I-Versicherung
 
-Warranty & Indemnity (W&I)-Versicherungen decken das Risiko ab, dass Garantien des Verkaefers im Rahmen des APA nicht zutreffen und dem Kaeufer dadurch ein Schaden entsteht. Sie ermoglichen eine "clean exit"-Transaktion und reduzieren den Druck auf die Verkaeufer-Haftung.
+Warranty & Indemnity (W&I)-Versicherungen decken das Risiko ab, dass Garantien des Verkaefers im Rahmen des APA nicht zutreffen und dem Käufer dadurch ein Schaden entsteht. Sie ermoglichen eine "clean exit"-Transaktion und reduzieren den Druck auf die Verkäufer-Haftung.
 
 ## 2. Versicherungsparameter (Anforderungen VENERA)
 
 - Versicherungssumme (Limit): Mindestens 25% des Enterprise Value = 14,5 Mio. EUR
 - Self-Insured Retention (SIR): 1% des Enterprise Value = 580.000 EUR
 - Deckung: Allgemeine Garantien (Buy-Side Policy)
-- Laufzeit: 7 Jahre fuer allgemeine Garantien; 10 Jahre fuer Steuergarantien
-- Ausschluesse: Bekannte Risiken (laut Disclosure Schedule), Gewinnerwartungen, forward-looking statements
+- Laufzeit: 7 Jahre für allgemeine Garantien; 10 Jahre für Steuergarantien
+- Ausschlüsse: Bekannte Risiken (laut Disclosure Schedule), Gewinnerwartungen, forward-looking statements
 
 ## 3. Angebote und Vergleich
 
@@ -31,19 +31,19 @@ Warranty & Indemnity (W&I)-Versicherungen decken das Risiko ab, dass Garantien d
 ### 3.2 Liberty Mutual Insurance Europe SE
 
 - Primaerpraemie: 0,92% (ca. 133.400 EUR/Jahr)
-- SIR: Mindest-SIR 1,5% EV (870.000 EUR) — ueber VENERA-Anforderungen
-- Ausschluesse: Analog AIG; zusaetzlich allgemeiner COVID-Ausschluss (relevant fuer 2020/2021 Sachverhalte)
+- SIR: Mindest-SIR 1,5% EV (870.000 EUR) — über VENERA-Anforderungen
+- Ausschlüsse: Analog AIG; zusätzlich allgemeiner COVID-Ausschluss (relevant für 2020/2021 Sachverhalte)
 - Underwriting-Prozess: 4 Wochen
 - Rating: A- (S&P)
 
 ## 4. Bewertung und Empfehlung
 
-Das LDD-Team empfiehlt die AIG-Police trotz hoeherem Praemienniveau aufgrund:
+Das LDD-Team empfiehlt die AIG-Police trotz höherem Praemienniveau aufgrund:
 - Akzeptierter SIR von 580.000 EUR (entspricht VENERA-Anforderungen)
 - Bessere Bonität (A+ vs. A-)
-- Kuerzerer Underwriting-Zeitplan (passt zum Signing-Zeitplan)
+- Kürzerer Underwriting-Zeitplan (passt zum Signing-Zeitplan)
 
-**Verhandlungsempfehlung:** VENERA sollte mit AIG ueber eine Erhoehung der Versicherungssumme auf 18 Mio. EUR (30% EV) verhandeln; Aufpreis geschaetzt ca. 40.000 EUR/Jahr.
+**Verhandlungsempfehlung:** VENERA sollte mit AIG über eine Erhöhung der Versicherungssumme auf 18 Mio. EUR (30% EV) verhandeln; Aufpreis geschätzt ca. 40.000 EUR/Jahr.
 
 ## 5. Nicht versicherte Risiken
 

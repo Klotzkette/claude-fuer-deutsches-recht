@@ -17,7 +17,7 @@ Anwesend:
 - Dr. Hannes Schwarzbeck (FraktoMedis SE, CFO)
 - RA Dr. Karin Hecker (FraktoMedis SE-Vertreter, Hecker, Bohn & Noll)
 - Notar Dr. Veronika Geilenkirchen
-- KPMG-Vertreter (fuer Finanzpruefung)
+- KPMG-Vertreter (für Finanzprüfung)
 
 ---
 
@@ -29,8 +29,8 @@ Anwesend:
 | 10:45 | Treuhandanweisung an DZ Privatbank Luxembourg | VENERA, FraktoMedis SE |
 | 11:00 | Escrow Agreement (Earn-Out-Treuhand) | VENERA, FraktoMedis SE, DZ Privatbank |
 | 11:15 | Transition Services Agreement | VENERA, FraktoMedis SE |
-| 11:30 | IP-Uebertragungsvertrag (Patente, Marken) | VENERA, FraktoMedis SE |
-| 11:45 | Kaufpreiszahlung (SWIFT-Bestaetigung 50 Mio. EUR) | VENERA (Commerzbank Frankfurt) |
+| 11:30 | IP-Übertragungsvertrag (Patente, Marken) | VENERA, FraktoMedis SE |
+| 11:45 | Kaufpreiszahlung (SWIFT-Bestätigung 50 Mio. EUR) | VENERA (Commerzbank Frankfurt) |
 | 12:00 | Escrow-Einzahlung (6 Mio. EUR DZ Privatbank) | VENERA |
 | 12:15 | Ubergabe-Protokoll (Besitz- und Gefahruebergang) | VENERA, FraktoMedis SE |
 
@@ -51,13 +51,13 @@ Anwesend:
 
 ## 4. Handelsregister-Eintragung
 
-Notar Dr. Geilenkirchen hat am 31. Juli 2026 unmittelbar nach Closing den Antrag auf Eintragung der VENERA Investment Group GmbH als neue Inhaberin des Handelsgeschaefts (§ 25 HGB) beim Amtsgericht Darmstadt (HRB 4188, Antrag) gestellt.
+Notar Dr. Geilenkirchen hat am 31. Juli 2026 unmittelbar nach Closing den Antrag auf Eintragung der VENERA Investment Group GmbH als neue Inhaberin des Handelsgeschäfts (§ 25 HGB) beim Amtsgericht Darmstadt (HRB 4188, Antrag) gestellt.
 
 ## 5. Post-Closing-Massnahmen
 
 Sofort nach Closing:
-- Uebergabe aller Schlussel, IT-Zugaenge und Zertifikate
-- Bestellung von VENERA-Verantwortlichen fuer Werk Darmstadt-Nord
+- Übergabe aller Schlussel, IT-Zugänge und Zertifikate
+- Bestellung von VENERA-Verantwortlichen für Werk Darmstadt-Nord
 - Beginn Transition Services (SAP-Anbindung, IT-Separation)
 
 ---

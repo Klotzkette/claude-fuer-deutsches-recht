@@ -1,16 +1,16 @@
-Woche,KW_Datum,Anfangsbestand,Einzahlungen_Kunden,Einzahlungen_Sonstige,Auszahlungen_Loehne,Auszahlungen_Material,Auszahlungen_Steuern_SV,Auszahlungen_Zinsen,Auszahlungen_Sonstige,Endbestand,Kreditlinie_verfuegbar,Gesamtliquiditaet,Kritischer_Kommentar
+Woche,KW_Datum,Anfangsbestand,Einzahlungen_Kunden,Einzahlungen_Sonstige,Auszahlungen_Löhne,Auszahlungen_Material,Auszahlungen_Steuern_SV,Auszahlungen_Zinsen,Auszahlungen_Sonstige,Endbestand,Kreditlinie_verfügbar,Gesamtliquidität,Kritischer_Kommentar
 KW20,12.05.-16.05.2026,193000,0,0,0,0,47000,0,8000,138000,0,138000,Teilzahlung LSt April erledigt; Sparkasse-Holstein-Konto
-KW21,19.05.-23.05.2026,138000,0,50000,420000,185000,0,0,12000,-429000,0,-429000,KRITISCH: Lohnlauf Mai; Kontokorrent ausgeschoepft; Ueberziehung Sparkasse noetig
+KW21,19.05.-23.05.2026,138000,0,50000,420000,185000,0,0,12000,-429000,0,-429000,KRITISCH: Lohnlauf Mai; Kontokorrent ausgeschöpft; Überziehung Sparkasse nötig
 KW22,26.05.-30.05.2026,-429000,380000,0,0,92000,48000,0,15000,-204000,0,-204000,Elbe Anlagenbau Zahlung eingegangen; USt Feb begleichen; DRV-Zahlung
 KW23,02.06.-06.06.2026,-204000,210000,0,0,145000,0,18500,9000,-166500,0,-166500,Teilzahlungen Stadtwerke; Materialrechnungen Nordstahl
-KW24,09.06.-13.06.2026,-166500,320000,0,0,180000,88000,0,11000,-125500,0,-125500,USt Maerz begleichen; InfraRail-Abschlagszahlung
+KW24,09.06.-13.06.2026,-166500,320000,0,0,180000,88000,0,11000,-125500,0,-125500,USt März begleichen; InfraRail-Abschlagszahlung
 KW25,16.06.-20.06.2026,-125500,0,15000000,420000,0,49000,0,14000,14391500,0,14391500,HINWEIS: Investor Tranche 1 (900 TEUR) noch nicht eingeplant; laufende Einzahlungen
 KW25_korr,16.06.-20.06.2026,-125500,0,900000,420000,0,49000,0,14000,291500,0,291500,Realistisch ohne Investortranche: Lohnlauf Juni aus Sparkasse
 KW26,23.06.-27.06.2026,291500,480000,0,0,210000,71000,0,16000,474500,0,474500,Stadtwerke-Zahlung Teilrechnung; USt April beglichen
-KW27,30.06.-04.07.2026,474500,0,0,420000,165000,0,18500,22000,-151000,0,-151000,Lohnlauf Juli; Materialrechnungen faellig; negative Liquiditaet
+KW27,30.06.-04.07.2026,474500,0,0,420000,165000,0,18500,22000,-151000,0,-151000,Lohnlauf Juli; Materialrechnungen fällig; negative Liquidität
 KW28,07.07.-11.07.2026,-151000,125000,0,0,145000,0,0,8000,-179000,0,-179000,KRITISCH: Einzahlungen gering; Ferienzeit; Zwischenbericht Treuhänder
 KW29,14.07.-18.07.2026,-179000,650000,0,0,180000,68000,0,11000,212000,0,212000,InfraRail Grosszahlung erwartet (Bahnstation Barmbek Abschlag)
 KW30,21.07.-25.07.2026,212000,0,500000,420000,0,49000,0,13000,230000,0,230000,Investor Tranche 2 (500 TEUR) eingeplant bei Planrechtskraft August; hier Abzug
-KW30_ohne_T2,21.07.-25.07.2026,212000,0,0,420000,0,49000,0,13000,-270000,0,-270000,OHNE Tranche 2: KRITISCH; Zahlungsunfaehigkeit droht
+KW30_ohne_T2,21.07.-25.07.2026,212000,0,0,420000,0,49000,0,13000,-270000,0,-270000,OHNE Tranche 2: KRITISCH; Zahlungsunfähigkeit droht
 KW31,28.07.-01.08.2026,230000,310000,0,0,145000,88000,18500,9000,279500,0,279500,Stadtwerke Zwischenrate; USt Mai; Zinsen NordBank
 KW32,04.08.-08.08.2026,279500,180000,0,420000,120000,0,0,15000,-95500,0,-95500,Lohnlauf August; Materialien; negative Saldo

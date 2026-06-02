@@ -5,7 +5,7 @@
 **goAML-Eingangsbestätigung:** 19.05.2026, 11:41 Uhr (automatische Bestätigung goAML-Portal)
 **Meldepflichtiger:** Musterholding GmbH, Gutleutstraße 44, 60329 Frankfurt am Main
 **Geldwäschebeauftragter:** Thomas Eckhardt
-**Unterstützende Beratung:** RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld
+**Unterstützende Beratung:** RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld
 **Rechtsgrundlage:** § 43 Abs. 1 GwG; § 261 StGB; § 89a StGB
 
 ---

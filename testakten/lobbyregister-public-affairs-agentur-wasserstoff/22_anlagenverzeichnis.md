@@ -1,4 +1,4 @@
-# Anlagenverzeichnis fuer die Registerakte Q2/2026
+# Anlagenverzeichnis für die Registerakte Q2/2026
 
 **Stand:** 26.05.2026
 **Bearbeitung:** Frederik Holst (Compliance Spreebogen)
@@ -11,10 +11,10 @@
 3. Mandatsfreigabeschreiben HansaH2 vom 26.05.2026 (Korrekturbitte Eintragstext)
 4. Konsortialbeschluss Nordsee Elektrolyse vom 19.05.2026 zur Eintragsformulierung
 
-## Kontakt- und Schwellenpruefung
+## Kontakt- und Schwellenprüfung
 
 5. Auftraggebermatrix, Stand 26.05.2026 (02_auftraggebermatrix.csv)
-6. Kontaktlog Berlin April/Mai 2026 (04_kontaktlog_berlin.csv, 31 Eintraege; Stand 28.05.2026 voraussichtlich 35 Eintraege)
+6. Kontaktlog Berlin April/Mai 2026 (04_kontaktlog_berlin.csv, 31 Einträge; Stand 28.05.2026 voraussichtlich 35 Einträge)
 7. Doppelrollen-Vermerk Tarek Abadi (interne Aktennotiz vom 02.04.2026)
 
 ## Stellungnahmen
@@ -28,7 +28,7 @@
 ## OpenGrid Events UG
 
 13. Vertrag mit OpenGrid Events UG vom 12.04.2026 inkl. Anlage 1 (Logistikleistungen)
-14. Vertragsergaenzung OpenGrid Events UG vom 25.05.2026 (Beschraenkung auf Logistik)
+14. Vertragsergänzung OpenGrid Events UG vom 25.05.2026 (Beschränkung auf Logistik)
 15. OpenGrid-Rechnungen OG-2026-144 bis OG-2026-148 mit Vermerken zur Lobbying-Klassifikation
 16. Argumentationspapier Einladung (OG-2026-146) – Originalfassung im Spreebogen-Drive
 17. Stakeholder-Mapping OpenGrid (18_stakeholder_mapping_opengrid.csv)
@@ -42,7 +42,7 @@
 22. Registerentwurf Agentur (19_registerentwurf_agentur.json)
 23. Registerdiff alt/neu (20_registerdiff_alt_neu.md)
 24. Kodex und Kontaktleitfaden Spreebogen (10_kodex_kontaktleitfaden.md)
-25. RFS-Rueckfrage an Registerstelle (11_rfs_rueckfrage_auftraggeber.md)
+25. RFS-Rückfrage an Registerstelle (11_rfs_rueckfrage_auftraggeber.md)
 26. Antwort der Registerstelle (sobald vorliegend, voraussichtlich 02.06.2026)
 
 ## Finanzen
@@ -57,7 +57,7 @@
 31. Mandantenkorrektur HansaH2 vom 26.05.2026 (13_emailauftrag_korrektur_mandant.eml)
 32. Compliance-Schulungsplan 31.05.2026 mit Teilnehmenden-Liste
 
-## Frist- und Pruefakte
+## Frist- und Prüfakte
 
 33. Quartalskalender Q2-Q3 2026 (21_quartalskalender.ics)
 34. Finalcheck 26.05.2026 (12_finalcheck.md)

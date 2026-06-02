@@ -8,14 +8,14 @@
 
 ## Grundlagen
 
-Die Pfaendungsfreigrenzen gemaess § 850c ZPO werden jaehrlich zum 01. Juli angepasst und durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt veroeffentlicht. Massgeblich fuer den Berechnungszeitraum 2026 ist die Tabelle gueltig ab 01.07.2025.
+Die Pfaendungsfreigrenzen gemaess § 850c ZPO werden jährlich zum 01. Juli angepasst und durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt veröffentlicht. Massgeblich für den Berechnungszeitraum 2026 ist die Tabelle gültig ab 01.07.2025.
 
 **Grundfreibetrag (monatlich) 2026:** **1.491,75 EUR**  
-(entspricht dem notwendigen Selbstbehalt; frueherer Wert 2024: 1.402,28 EUR)
+(entspricht dem notwendigen Selbstbehalt; früherer Wert 2024: 1.402,28 EUR)
 
 ---
 
-## Pfaendungsfreie Betraege bei Unterhaltsberechtigten
+## Pfaendungsfreie Beträge bei Unterhaltsberechtigten
 
 | Anzahl Unterhaltsberechtigte | Monatl. Erhöhung | Pfaendungsfreier Gesamtbetrag |
 |---|---|---|
@@ -35,33 +35,33 @@ Die Pfaendungsfreigrenzen gemaess § 850c ZPO werden jaehrlich zum 01. Juli ange
 | Nettolohn (TV-L E 13 Stufe 4, TZ 85 %) | 3.280,00 EUR |
 | Unterhaltsberechtigte (§ 850c Abs. 2 ZPO) | 2 (Ehemann Heinrich + Tochter Hilde) |
 | Pfaendungsfreier Betrag | 2.363,80 EUR |
-| Pfaendbarer Betrag pro Monat | **916,20 EUR** |
+| Pfändbarer Betrag pro Monat | **916,20 EUR** |
 
-**Ergebnis:** Der Glaeubigerin stehen monatlich bis zu **916,20 EUR** aus der Lohnpfaendung gegen Carmen zur Verfuegung.
+**Ergebnis:** Der Gläubigerin stehen monatlich bis zu **916,20 EUR** aus der Lohnpfändung gegen Carmen zur Verfügung.
 
-Bei dieser Pfaendungsrate wuerde die Gesamtforderung (ca. 15.730 EUR inkl. Kosten) in ca. **17 Monaten** gedeckt (ohne weitere Kosten).
+Bei dieser Pfaendungsrate würde die Gesamtforderung (ca. 15.730 EUR inkl. Kosten) in ca. **17 Monaten** gedeckt (ohne weitere Kosten).
 
 ---
 
-## Berechnungsbeispiel Heinrich Pohlmann-Tannenberg (Selbstaendiger)
+## Berechnungsbeispiel Heinrich Pohlmann-Tannenberg (Selbständiger)
 
-Fuer Selbstaendige gilt § 850i ZPO: Das Vollstreckungsgericht kann auf Antrag des Schuldners ein dem unpfaendbaren Arbeitseinkommen entsprechendes Einkommen freistellen.
+Für Selbständige gilt § 850i ZPO: Das Vollstreckungsgericht kann auf Antrag des Schuldners ein dem unpfändbaren Arbeitseinkommen entsprechendes Einkommen freistellen.
 
-| Szenario | Nettoeinkommen Heinrich | Pfaendbarer Betrag |
+| Szenario | Nettoeinkommen Heinrich | Pfändbarer Betrag |
 |---|---|---|
 | Gutfall (Vollauslastung) | ca. 3.800 EUR/Monat | ca. 1.436,20 EUR |
 | Normalbetrieb | ca. 2.400 EUR/Monat | ca. 36,20 EUR |
 | Schlechtfall (Auftragseinbruch) | ca. 1.500 EUR/Monat | 8,25 EUR oder 0 |
 
-**Praxis:** Vollstreckung bei Heinrich als Selbstaendigem unzuverlaessig; Fokus auf Konten und Gewerbefahrzeug.
+**Praxis:** Vollstreckung bei Heinrich als Selbständigem unzuverlässig; Fokus auf Konten und Gewerbefahrzeug.
 
 ---
 
 ## P-Konto-Schutz § 850k ZPO
 
-Fuehrt der Schuldner das gepfaendete Konto als P-Konto, gilt automatischer monatlicher Schutzfreibetrag von **1.491,75 EUR** (Stand 2026) unabhaengig vom Inhalt des PfUEB. Der pfaendbare Betrag reduziert sich entsprechend.
+Führt der Schuldner das gepfändete Konto als P-Konto, gilt automatischer monatlicher Schutzfreibetrag von **1.491,75 EUR** (Stand 2026) unabhängig vom Inhalt des PfUEB. Der pfändbare Betrag reduziert sich entsprechend.
 
-**Erhoehung bei Unterhaltsberechtigten (§ 850k Abs. 2 ZPO):**  
+**Erhöhung bei Unterhaltsberechtigten (§ 850k Abs. 2 ZPO):**  
 Schuldner muss Nachweis (Bescheinigung Arbeitgeber, Jugendamtsbescheid etc.) einreichen.
 
 Bei Carmen: Bei P-Konto und zwei Unterhaltsberechtigten — Schutzfreibetrag erhoehbar auf 2.363,80 EUR.
@@ -70,17 +70,17 @@ Bei Carmen: Bei P-Konto und zwei Unterhaltsberechtigten — Schutzfreibetrag erh
 
 ## Sonderfall Kindergeld § 76 EStG
 
-Kindergeld fuer Tochter Hilde (monatlich: 255 EUR, Stand 2026) ist **nicht pfaendbar** und unterliegt nicht der § 850c-Berechnung. PfUEB darf Kindergeld nicht erfassen.
+Kindergeld für Tochter Hilde (monatlich: 255 EUR, Stand 2026) ist **nicht pfändbar** und unterliegt nicht der § 850c-Berechnung. PfUEB darf Kindergeld nicht erfassen.
 
 ---
 
 ## XLSX-Anlage
 
-Ausfuehrliche Berechnung mit Sensitivitaetsanalyse und monatlichem Tilgungsplan:  
+Ausführliche Berechnung mit Sensitivitaetsanalyse und monatlichem Tilgungsplan:  
 `xlsx/pfaendungsfreigrenzen-2026-berechnung.xlsx`
 
 ---
 
-## Rechtsaenderungen im Blick
+## Rechtsänderungen im Blick
 
-Neue Pfaendungsfreigrenzentabelle (§ 850c ZPO) erscheint voraussichtlich Fruehjahr 2026 fuer Geltung ab 01.07.2026. Kanzlei wird Tabelle nach Bekanntmachung aktualisieren.
+Neue Pfaendungsfreigrenzentabelle (§ 850c ZPO) erscheint voraussichtlich Frühjahr 2026 für Geltung ab 01.07.2026. Kanzlei wird Tabelle nach Bekanntmachung aktualisieren.

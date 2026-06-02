@@ -107,7 +107,7 @@ Ich beantrage die Einholung folgender Beweise:
 
 1. Vollmacht RA Sonnemann
 2. Befundbericht Prof. Dr. Scheibenbogen, Charité Berlin, 11/2025
-3. Befundbericht Dr. Maerker, Hausarzt Leipzig, 01/2026
+3. Befundbericht Dr. Märker, Hausarzt Leipzig, 01/2026
 4. PCR-Testergebnis 14.11.2021
 5. Schichtplan (Kopie), Covid-Station UKL, November 2021
 6. Arbeitgeberbescheinigung Linde Sächsisch GmbH (Homeoffice Marko Feldermann)

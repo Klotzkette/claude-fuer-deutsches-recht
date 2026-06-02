@@ -3,7 +3,7 @@
 **Aktenzeichen:** DSB-NW-44/26
 **Bearbeiter:** RA Lars Drosselberg, RA Dr. Cornelius Specht
 **Datum:** 18. Januar 2026
-**Betreff:** Rechtmaessigkeit der Datenuebermittlung nach Indien ohne SCC
+**Betreff:** Rechtmaessigkeit der Datenübermittlung nach Indien ohne SCC
 
 ---
 
@@ -13,38 +13,38 @@
 
 - **Firma:** Sundara Tech Pvt. Ltd.
 - **Sitz:** No. 42, 4th Floor, Prestige Tech Park, Sarjapur Road, Bengaluru, Karnataka 560103, Indien
-- **Taetigkeit:** Softwareentwicklung und Second-Level-Support fuer ProspectScore Pro
-- **Vertragsbeziehung:** Entwicklungsvertrag seit Oktober 2022; Auftragsverarbeitungsvertrag (AVV) seit Dezember 2023 (nachtraeglich)
-- **Datenzugang:** Zugriff auf Produktionsdaten fuer Debugging und Modelltraining (Rohdaten der Mietinteressenten)
+- **Tätigkeit:** Softwareentwicklung und Second-Level-Support für ProspectScore Pro
+- **Vertragsbeziehung:** Entwicklungsvertrag seit Oktober 2022; Auftragsverarbeitungsvertrag (AVV) seit Dezember 2023 (nachträglich)
+- **Datenzugang:** Zugriff auf Produktionsdaten für Debugging und Modelltraining (Rohdaten der Mietinteressenten)
 
-### 1.2 Art der uebermittelten Daten
+### 1.2 Art der übermittelten Daten
 
-| Datenkategorie | Uebermittlungsweg | Verschluesselung |
+| Datenkategorie | Uebermittlungsweg | Verschlüsselung |
 |----------------|------------------|-----------------|
 | Mietinteressenten-Rohdaten (Scoring) | API-Call (REST) | TLS 1.2 |
-| ML-Trainings-Datensaetze | S3-Bucket (shared) | Ja (S3-SSE) |
+| ML-Trainings-Datensätze | S3-Bucket (shared) | Ja (S3-SSE) |
 | Support-Log-Daten mit Personenbezug | VPN-Tunnel | Ja |
 | Staging-Datenbankdump (anonymisiert?) | SFTP | Nein |
 
-Laut Penetrationstest-Bericht (s. Akte 07) enthielt der Staging-Datenbankdump nicht vollstaendig anonymisierte Datensaetze — eine Re-Identifizierung war technisch moeglich.
+Laut Penetrationstest-Bericht (s. Akte 07) enthielt der Staging-Datenbankdump nicht vollständig anonymisierte Datensätze — eine Re-Identifizierung war technisch möglich.
 
 ---
 
-## 2. Rechtsrahmen Drittlanduebermittlung
+## 2. Rechtsrahmen Drittlandübermittlung
 
 ### 2.1 Grundsatz Art. 44 DSGVO
 
-Gemaess Art. 44 DSGVO darf eine Uebermittlung personenbezogener Daten, die gerade verarbeitet werden oder nach ihrer Uebermittlung in ein Drittland verarbeitet werden sollen, nur erfolgen, wenn der Verantwortliche und der Auftragsverarbeiter die in Kapitel V DSGVO niedergelegten Bedingungen einhalten.
+Gemaess Art. 44 DSGVO darf eine Übermittlung personenbezogener Daten, die gerade verarbeitet werden oder nach ihrer Übermittlung in ein Drittland verarbeitet werden sollen, nur erfolgen, wenn der Verantwortliche und der Auftragsverarbeiter die in Kapitel V DSGVO niedergelegten Bedingungen einhalten.
 
-### 2.2 Angemessenheitsbeschluss fuer Indien?
+### 2.2 Angemessenheitsbeschluss für Indien?
 
-**Stand Januar 2026:** Fuer Indien existiert kein Angemessenheitsbeschluss der Europaeischen Kommission gemaess Art. 45 DSGVO. Das Digital Personal Data Protection Act (DPDPA) Indiens (2023) wurde bislang nicht als gleichwertig mit der DSGVO eingestuft.
+**Stand Januar 2026:** Für Indien existiert kein Angemessenheitsbeschluss der Europäischen Kommission gemaess Art. 45 DSGVO. Das Digital Personal Data Protection Act (DPDPA) Indiens (2023) wurde bislang nicht als gleichwertig mit der DSGVO eingestuft.
 
-Folge: Jede Datenuebermittlung nach Indien bedarf geeigneter Garantien gemaess Art. 46 DSGVO.
+Folge: Jede Datenübermittlung nach Indien bedarf geeigneter Garantien gemaess Art. 46 DSGVO.
 
 ### 2.3 Geeignete Garantien Art. 46 DSGVO
 
-Moegliche geeignete Garantien:
+Mögliche geeignete Garantien:
 
 | Garantie | Art. 46 Abs. | Status bei VCS |
 |----------|------|---------|
@@ -54,24 +54,24 @@ Moegliche geeignete Garantien:
 | Zertifizierung mit verbindlichen Verpflichtungen | Abs. 2 lit. f | Nicht vorhanden |
 | Ad-hoc-Vertragsklauseln (Genehmigung LDI) | Abs. 3 | Nicht beantragt |
 
-**Ergebnis:** Keine der moeglichen Garantien wurde implementiert. Die Datenuebermittlung an Sundara Tech erfolgte seit Oktober 2022 ohne Rechtsgrundlage nach Kapitel V DSGVO.
+**Ergebnis:** Keine der möglichen Garantien wurde implementiert. Die Datenübermittlung an Sundara Tech erfolgte seit Oktober 2022 ohne Rechtsgrundlage nach Kapitel V DSGVO.
 
 ---
 
-## 3. Zusaetzliche Anforderungen an SCC (EDSA-Empfehlung 01/2020)
+## 3. Zusätzliche Anforderungen an SCC (EDSA-Empfehlung 01/2020)
 
-Selbst bei Abschluss von SCC waere nach der Schrems-II-Rechtsprechung (EuGH C-311/18 — Schrems II) eine Transferfolgenabschaetzung (Transfer Impact Assessment, TIA) erforderlich, da das Rechtssystem des Empfaengerlandes (Indien) auf seine Eignung bewertet werden muss.
+Selbst bei Abschluss von SCC wäre nach der Schrems-II-Rechtsprechung (EuGH C-311/18 — Schrems II) eine Transferfolgenabschaetzung (Transfer Impact Assessment, TIA) erforderlich, da das Rechtssystem des Empfängerlandes (Indien) auf seine Eignung bewertet werden muss.
 
 ### 3.1 Rechtslage Indien (TIA-Punkte)
 
-| Pruefkriterium | Bewertung |
+| Prüfkriterium | Bewertung |
 |----------------|-----------|
 | Geheimdienstzugriff auf Daten | Potenziell gegeben (Section 69 IT Act) |
-| Rechtsstaatlichkeit bei Datenschutz | Teilweise (DPDPA 2023, noch nicht vollstaendig in Kraft) |
-| Effektive Rechtsbehelfe | Eingeschraenkt (kein EuGH-Aequivalent) |
-| Unabhaengige Aufsicht | DPBI (Data Protection Board of India) — noch nicht voll operativ |
+| Rechtsstaatlichkeit bei Datenschutz | Teilweise (DPDPA 2023, noch nicht vollständig in Kraft) |
+| Effektive Rechtsbehelfe | Eingeschränkt (kein EuGH-Äquivalent) |
+| Unabhängige Aufsicht | DPBI (Data Protection Board of India) — noch nicht voll operativ |
 
-**Ergebnis TIA:** Erhoehte Risiken; Zusatzmassnahmen erforderlich (End-to-End-Verschluesselung, Pseudonymisierung vor Transfer).
+**Ergebnis TIA:** Erhöhte Risiken; Zusatzmassnahmen erforderlich (End-to-End-Verschlüsselung, Pseudonymisierung vor Transfer).
 
 ---
 
@@ -81,8 +81,8 @@ Die anonyme HinSchG-Meldung vom 08.11.2025 thematisiert explizit den fehlenden S
 
 **Rechtliche Bewertung der VCS-Reaktion:**
 - Die Meldung wurde laut interner Dokumentation als „nicht pruefrelevant" eingestuft und nicht weitergeleitet
-- Versaeumnis der Bearbeitung einer HinSchG-Meldung stellt eine Pflichtverletzung nach § 14 HinSchG dar
-- Kein Rueckmeldefristversaeumnis nach § 17 HinSchG: Keine Rueckmeldung an Hinweisgeber innerhalb von 3 Monaten
+- Versäumnis der Bearbeitung einer HinSchG-Meldung stellt eine Pflichtverletzung nach § 14 HinSchG dar
+- Kein Rueckmeldefristversaeumnis nach § 17 HinSchG: Keine Rückmeldung an Hinweisgeber innerhalb von 3 Monaten
 
 ---
 
@@ -90,7 +90,7 @@ Die anonyme HinSchG-Meldung vom 08.11.2025 thematisiert explizit den fehlenden S
 
 Der Verstoss gegen Art. 44 ff. DSGVO ist gemaess Art. 83 Abs. 5 lit. c DSGVO eine schwerwiegende Ordnungswidrigkeit (Bussgeld bis 20.000.000 EUR oder 4% des weltweiten Jahresumsatzes).
 
-Nach dem EuGH-Urteil C-311/18 (Schrems II, 16.07.2020) und dem darauf basierenden EuGH-Urteil C-645/19 (Facebook Ireland, 15.06.2021) ist die Aufsichtsbehoerde bei Kenntnis eines solchen Verstosses verpflichtet, die Uebermittlung zu untersagen und Sanktionen zu verhaengen.
+Nach dem EuGH-Urteil C-311/18 (Schrems II, 16.07.2020) und dem darauf basierenden EuGH-Urteil C-645/19 (Facebook Ireland, 15.06.2021) ist die Aufsichtsbehörde bei Kenntnis eines solchen Verstosses verpflichtet, die Übermittlung zu untersagen und Sanktionen zu verhängen.
 
 ---
 
@@ -98,28 +98,28 @@ Nach dem EuGH-Urteil C-311/18 (Schrems II, 16.07.2020) und dem darauf basierende
 
 ### Sofortmassnahmen (bis 31.01.2026)
 
-1. **Datentransfer-Stop** — Keine weiteren Datenuebermittlungen an Sundara Tech bis zur SCC-Implementierung
-2. **Loeschung Staging-Datenbankdumps** bei Sundara Tech — nachweislich dokumentiert
-3. **Verschluesselung saemtlicher API-Calls** auf TLS 1.3 angehoben
+1. **Datentransfer-Stop** — Keine weiteren Datenübermittlungen an Sundara Tech bis zur SCC-Implementierung
+2. **Löschung Staging-Datenbankdumps** bei Sundara Tech — nachweislich dokumentiert
+3. **Verschlüsselung sämtlicher API-Calls** auf TLS 1.3 angehoben
 
 ### Mittelfristige Massnahmen (bis 28.02.2026)
 
 4. **SCC-Abschluss** gemaess EU-Kommissionsbeschluss 2021/914 (Modul 2: Controller-to-Processor)
-5. **Transfer Impact Assessment (TIA)** fuer Indien mit externer Expertise (RA Kanzlei Mehta & Associates, Mumbai)
-6. **Pseudonymisierungsprotokoll** fuer ML-Trainingsdaten vor Weitergabe an Sundara Tech
-7. **Update AVV** — Einbeziehung der SCC-Konformitaetsanforderungen
+5. **Transfer Impact Assessment (TIA)** für Indien mit externer Expertise (RA Kanzlei Mehta & Associates, Mumbai)
+6. **Pseudonymisierungsprotokoll** für ML-Trainingsdaten vor Weitergabe an Sundara Tech
+7. **Update AVV** — Einbeziehung der SCC-Konformitätsanforderungen
 
 ---
 
-## 7. Stellungnahme gegenueber LDI NRW
+## 7. Stellungnahme gegenüber LDI NRW
 
 Im Rahmen des Aufsichtsverfahrens DSB-NW-44/26 wird VCS folgende Position einnehmen:
 
-- Einraeumen des Verstosses mit Verweis auf Sanierungsplan
+- Einräumen des Verstosses mit Verweis auf Sanierungsplan
 - Begrenzung des Bussgelds durch Hinweis auf:
   - Freiwillige Offenlegung (Art. 83 Abs. 2 lit. e DSGVO)
   - Kooperationsbereitschaft (Art. 83 Abs. 2 lit. f DSGVO)
-  - Kein vorsaetzliches Handeln (Art. 83 Abs. 2 lit. b DSGVO — blosse Unkenntnis der SCC-Pflicht)
+  - Kein vorsätzliches Handeln (Art. 83 Abs. 2 lit. b DSGVO — blosse Unkenntnis der SCC-Pflicht)
   - Umsatz des KMU (Art. 83 Abs. 2 DSGVO — wirtschaftliche Lage)
 
 ---

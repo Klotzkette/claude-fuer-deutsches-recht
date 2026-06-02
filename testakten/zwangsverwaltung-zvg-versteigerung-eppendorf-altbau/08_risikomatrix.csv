@@ -1,9 +1,9 @@
-Risiko,Befund,Ampel,Naechster Schritt
+Risiko,Befund,Ampel,Nächster Schritt
 Innenzustand,Nur Aussenbesichtigung und keine Innenfreigabe,ROT,Besichtigung oder Sicherheitsabschlag
-Tatsaechliche Nutzung,Klingel und Briefkasten mit Zusatznamen,GELB,Mieteranschreiben und Nutzungsaufklaerung
-Mietvertrag,Renovierungsabrede und reduzierte Anfangsmiete,GELB,Vertrag vollstaendig pruefen
-Hausgeld,512 EUR monatlich und moegliche Sonderumlage,GELB,WEG-Verwaltung befragen
-Sanierungsgebiet,Sanierungsvermerk in Abt II,GELB,Oeffentlich-rechtliche Bindungen pruefen
-Sicherheitsleistung,68500 EUR einzuplanen,GRUEN,Gerichtsgeeignete Form klaeren
+Tatsächliche Nutzung,Klingel und Briefkasten mit Zusatznamen,GELB,Mieteranschreiben und Nutzungsaufklärung
+Mietvertrag,Renovierungsabrede und reduzierte Anfangsmiete,GELB,Vertrag vollständig prüfen
+Hausgeld,512 EUR monatlich und mögliche Sonderumlage,GELB,WEG-Verwaltung befragen
+Sanierungsgebiet,Sanierungsvermerk in Abt II,GELB,Öffentlich-rechtliche Bindungen prüfen
+Sicherheitsleistung,68500 EUR einzuplanen,GRÜN,Gerichtsgeeignete Form klären
 Bieterangebot,515000 EUR mit unklarer Zahlungsstruktur,ROT,Nicht ausserhalb klarer Struktur zusagen
 Portalstatus,Hamburg Eppendorf Suche 0 Treffer am 21.05.2026,GELB,Vor echtem Termin erneut suchen

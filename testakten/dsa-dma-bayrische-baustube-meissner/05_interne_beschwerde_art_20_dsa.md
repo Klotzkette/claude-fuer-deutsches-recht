@@ -2,7 +2,7 @@
 
 ## 1. Beschwerde-Eingabe vom 17.03.2026
 
-Eingereicht über `glitzerwald.com/help/appeal/GW-2026-03-14-44291` durch RA'in Quasthoff-Pruegelmann; bestätigt mit Ticket-Nr. **GW-APP-2026-031744-77119**.
+Eingereicht über `glitzerwald.com/help/appeal/GW-2026-03-14-44291` durch RA'in Quasthoff-Prügelmann; bestätigt mit Ticket-Nr. **GW-APP-2026-031744-77119**.
 
 ### Wortlaut (gekürzt, deutsch übersetzt vom englischen Eingabeformular)
 
@@ -20,7 +20,7 @@ Eingereicht über `glitzerwald.com/help/appeal/GW-2026-03-14-44291` durch RA'in 
 > Die Mandantin betreibt den Account persönlich und beauftragt keine Engagement-Dienstleister. Sie ist seit 2014 als verifizierte Geschäftsadresse registriert. Der wirtschaftliche Schaden durch die Sperre ist erheblich (vorläufig geschätzt > 35 000 EUR/Monat).
 >
 > Mit freundlichen Grüßen
-> RA'in Friedlinde Quasthoff-Pruegelmann
+> RA'in Friedlinde Quasthoff-Prügelmann
 
 ## 2. Eingangsbestätigung 17.03.2026 12:08 UTC
 
@@ -34,7 +34,7 @@ Glitzerwald forderte:
 - "Proof of authorized representation"
 - "Examples of authentic engagement"
 
-Letzteres ist absurd, weil die Mandantin keinen Zugriff mehr auf ihre Engagement-Daten hat (Account gesperrt). RA'in Quasthoff-Pruegelmann hat die Vollmacht und einen Auszug des Engagement-Exports vom 13.03.2026 nachgereicht.
+Letzteres ist absurd, weil die Mandantin keinen Zugriff mehr auf ihre Engagement-Daten hat (Account gesperrt). RA'in Quasthoff-Prügelmann hat die Vollmacht und einen Auszug des Engagement-Exports vom 13.03.2026 nachgereicht.
 
 ## 4. Beschwerde-Entscheidung 09.04.2026
 

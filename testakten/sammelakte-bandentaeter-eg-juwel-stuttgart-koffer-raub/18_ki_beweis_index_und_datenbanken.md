@@ -2,7 +2,7 @@
 
 **Verfahren:** KLs 4 Js 18.422/26  
 **Bearbeitung:** RA Dr. Magnus Schorlemmer / Kanzlei-IT (intern)  
-**Gegenstand:** Digitale Aufbereitung der Ermittlungsakte mit KI-gestuetztem Beweis-Index und Datenbank-Management  
+**Gegenstand:** Digitale Aufbereitung der Ermittlungsakte mit KI-gestütztem Beweis-Index und Datenbank-Management  
 **Stand:** 10.02.2026
 
 ---
@@ -14,11 +14,11 @@ Das vorliegende Verfahren umfasst (Stand Februar 2026):
 - **1.247 Seiten** TKUe-Sonderband
 - **487 Observationsfotos**
 - **34 Videostandbilder** (Stadtcam) + **22 Videostandbilder** (Cafe Westermann)
-- **Unzaehlige EncroChat-Nachrichten** (noch nicht vollstaendig zugaenglich)
+- **Unzählige EncroChat-Nachrichten** (noch nicht vollständig zugänglich)
 - **Mehrere Sachverstaendigengutachten**
 - **Internationale Rechtshilfe-Korrespondenz**
 
-Ohne systematische digitale Aufbereitung ist eine effektive Verteidigung in der Hauptverhandlung mit 22 geplanten Verhandlungstagen kaum moeglich.
+Ohne systematische digitale Aufbereitung ist eine effektive Verteidigung in der Hauptverhandlung mit 22 geplanten Verhandlungstagen kaum möglich.
 
 ---
 
@@ -29,7 +29,7 @@ Ohne systematische digitale Aufbereitung ist eine effektive Verteidigung in der 
 Die Kanzlei Dr. Schorlemmer hat ein internes Werkzeug entwickelt, das auf dem Prinzip eines semantischen Such-Index basiert:
 
 **Schritt 1 — OCR und Digitalisierung:**
-Alle Aktenbaende wurden eingescannt und per OCR (ABBYY FineReader) digitalisiert. Die digitalisierten Texte wurden in ein internes Dokumentenverwaltungssystem (Kanzlei-DMS auf Basis OpenSearch) geladen.
+Alle Aktenbände wurden eingescannt und per OCR (ABBYY FineReader) digitalisiert. Die digitalisierten Texte wurden in ein internes Dokumentenverwaltungssystem (Kanzlei-DMS auf Basis OpenSearch) geladen.
 
 **Schritt 2 — Beweis-Tagging:**
 Jedes Dokument erhielt manuelle und semi-automatische Tags:
@@ -39,24 +39,24 @@ Jedes Dokument erhielt manuelle und semi-automatische Tags:
 - Beweiswert (belastend / entlastend / neutral)
 - Tatbestandselement (Raub / Bande / Verletzung / Geldwaesche / Flucht)
 
-**Schritt 3 — Verknuepfung:**
-Automatische Verknuepfung von Dokumenten, die dieselben Personen, Orte, Zeitpunkte oder Spurennummern erwaehnen. Ergebnis: Ein Graph der Beweis-Zusammenhaenge.
+**Schritt 3 — Verknüpfung:**
+Automatische Verknüpfung von Dokumenten, die dieselben Personen, Orte, Zeitpunkte oder Spurennummern erwähnen. Ergebnis: Ein Graph der Beweis-Zusammenhänge.
 
 ### 2.2 Abfragebeispiele
 
 Anfrage: "Alle belastenden Beweise gegen Korbiel am Tatortbezug 18.10.2025"
 → Index liefert: OB-Lichtbild 141–168; TKUe G-14; FZA-Zelle Korbiel PL-SIM; DNA SP-001; Stadtcam STG-CAM-044 Frame 10:44; Fingerabdruck SP-002.
 
-Anfrage: "Alle Beweise mit zeitlichem Widerspruch oder Einschraenkungen"
-→ Index liefert: TKUe G-41 (Krasniqi post-Verhaftung); Drebenstedt-Videoidentifizierung 72%; Sternkopf-Gutachten Gegenueberstellung Krasniqi.
+Anfrage: "Alle Beweise mit zeitlichem Widerspruch oder Einschränkungen"
+→ Index liefert: TKUe G-41 (Krasniqi post-Verhaftung); Drebenstedt-Videoidentifizierung 72%; Sternkopf-Gutachten Gegenüberstellung Krasniqi.
 
 ---
 
 ## 3. Interne Beweis-Datenbank (Zeugenmatrix)
 
-*(Vollstaendige Tabelle in xlsx/zeugen_beweismittel_matrix.xlsx, Tabellenblatt "Zeugenmatrix")*
+*(Vollständige Tabelle in xlsx/zeugen_beweismittel_matrix.xlsx, Tabellenblatt "Zeugenmatrix")*
 
-Die Zeugenmatrix erfasst alle Zeugen und ihre Aussagerelevanz fuer jeden Tatbestandsaspekt:
+Die Zeugenmatrix erfasst alle Zeugen und ihre Aussagerelevanz für jeden Tatbestandsaspekt:
 
 | Zeuge | Korbiel-Ident. | Drebenstedt-Ident. | Krasniqi-Ident. | Tatablauf | Verletzungen | Bandenabrede |
 |-------|---------------|-------------------|--------------|-----------|--------------|----|
@@ -79,9 +79,9 @@ Das interne System enthalt ein einfaches Risikoanalyse-Modul, das den Beweisstat
 | Wegnahme (§ 249 StGB) | DNA, Fingerabdruck, Video | Korbiel bestreitet | Hoch |
 | Gefahrl. Werkzeug (§ 250 Abs. 2 Nr. 1) | SP-001 Brecheisen, SP-002 Pfefferspray | — | Sehr hoch |
 | Bandenabrede (§ 244a StGB) | TKUe, FZA, OB Ulm-Treffen | EncroChat-Verwertbarkeit unklar | Mittel-hoch |
-| Verletzungen (§ 226 StGB Qualifikation) | SV-01 Gutachten, Krankenhausunterlagen | Korbiel: nicht Schlaeger | Hoch |
-| Mittaeterschaft Drebenstedt | TKUe G-07, FZA, Video (72%) | Videoidentifizierung angreifbar | Mittel |
-| Mittaeterschaft Krasniqi | TKUe G-14, Video, Gegenueberstellung | Sternkopf-Gutachten, Zeitwiderspruch G-41 | Mittel |
+| Verletzungen (§ 226 StGB Qualifikation) | SV-01 Gutachten, Krankenhausunterlagen | Korbiel: nicht Schläger | Hoch |
+| Mittäterschaft Drebenstedt | TKUe G-07, FZA, Video (72%) | Videoidentifizierung angreifbar | Mittel |
+| Mittäterschaft Krasniqi | TKUe G-14, Video, Gegenüberstellung | Sternkopf-Gutachten, Zeitwiderspruch G-41 | Mittel |
 | Geldwaesche (§ 261 StGB) | BTC-Wallets, TKUe G-58 | EncroChat-Verwertbarkeit | Mittel |
 
 ---
@@ -89,9 +89,9 @@ Das interne System enthalt ein einfaches Risikoanalyse-Modul, das den Beweisstat
 ## 5. Nutzungsregeln und Datenschutz
 
 Das interne Beweis-Index-System unterliegt strengen Vertraulichkeitsregeln:
-- Zugriff nur fuer beauftragte Kanzlei-Mitarbeiter (Anwaelte, Referendare mit Schweigepflicht)
+- Zugriff nur für beauftragte Kanzlei-Mitarbeiter (Anwälte, Referendare mit Schweigepflicht)
 - Keine Cloud-Speicherung; rein lokaler Kanzlei-Server
-- Alle Dateien sollen nach Abschluss des Verfahrens geloescht werden (§ 50 BRAO: Handaktenaufbewahrung 5 Jahre; danach Loeschung)
-- DSGVO-Konformitaet: Die Verarbeitung von Beschuldigten-/Zeugendaten ist durch § 45 BDSG (Strafverfolgungszweck) zulaessig
+- Alle Dateien sollen nach Abschluss des Verfahrens gelöscht werden (§ 50 BRAO: Handaktenaufbewahrung 5 Jahre; danach Löschung)
+- DSGVO-Konformitaet: Die Verarbeitung von Beschuldigten-/Zeugendaten ist durch § 45 BDSG (Strafverfolgungszweck) zulässig
 
 **Quellen:** § 50 BRAO (dejure.org); § 45 BDSG (dejure.org); DSGVO Art. 10 (Verarbeitung strafrechtlicher Daten); BGH NStZ 2021, 118 (Datenschutz im Strafverfahren).

@@ -28,7 +28,7 @@ Akte für das Plugin `lobbyregister-bundestag`. Die Akte behandelt eine Bürgeri
 
 ## Sachverhalt
 
-Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Trasse durch ein Moorgebiet. Anfangs gibt es nur eine Petition und lokale Schreiben. Spaeter organisiert die Initiative eine bundesweite Kampagne, spricht regelmaessig mit Bundestagsabgeordneten und dem Bundesverkehrsministerium, laesst ein Gutachten erstellen und sammelt Spenden.
+Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Trasse durch ein Moorgebiet. Anfangs gibt es nur eine Petition und lokale Schreiben. Später organisiert die Initiative eine bundesweite Kampagne, spricht regelmaessig mit Bundestagsabgeordneten und dem Bundesverkehrsministerium, lässt ein Gutachten erstellen und sammelt Spenden.
 
 ## Dateien
 
@@ -38,26 +38,26 @@ Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [01_gruendungsnotiz.md](01_gruendungsnotiz.md) | Netzwerk ohne Rechtsform |
 | [02_petition_entwurf.md](02_petition_entwurf.md) | Petitionsphase |
 | [03_kontaktlog.csv](03_kontaktlog.csv) | Kontakte lokal und Bund |
-| [04_anhoerung_einladung.md](04_anhoerung_einladung.md) | Oeffentliche Anhoerung |
+| [04_anhoerung_einladung.md](04_anhoerung_einladung.md) | Öffentliche Anhörung |
 | [05_gutachten_kurzfassung.md](05_gutachten_kurzfassung.md) | Grundlegendes Gutachten |
 | [06_spendenliste.csv](06_spendenliste.csv) | Spenden und Finanzierungsquellen |
 | [07_freiwillige_registrierung_vermerk.md](07_freiwillige_registrierung_vermerk.md) | Strategie freiwillige Registrierung |
-| [08_kodex_leitfaden_ehrenamt.md](08_kodex_leitfaden_ehrenamt.md) | Kontaktleitfaden fuer Ehrenamtliche |
+| [08_kodex_leitfaden_ehrenamt.md](08_kodex_leitfaden_ehrenamt.md) | Kontaktleitfaden für Ehrenamtliche |
 | [09_finalcheck.md](09_finalcheck.md) | Qualitaetsgate |
-| [10_whatsapp_export_kernteam.txt](10_whatsapp_export_kernteam.txt) | WhatsApp-Export mit echten Widerspruechen im Kernteam |
-| [11_email_mdb_buero_nachfrage.eml](11_email_mdb_buero_nachfrage.eml) | Rueckfrage eines MdB-Bueros zu Registerstatus und Finanzierung |
-| [12_gutachten_rechnung_planungsbuero.csv](12_gutachten_rechnung_planungsbuero.csv) | Rechnungsdaten fuer Gutachten und Kartenanhang |
+| [10_whatsapp_export_kernteam.txt](10_whatsapp_export_kernteam.txt) | WhatsApp-Export mit echten Widersprüchen im Kernteam |
+| [11_email_mdb_buero_nachfrage.eml](11_email_mdb_buero_nachfrage.eml) | Rückfrage eines MdB-Büros zu Registerstatus und Finanzierung |
+| [12_gutachten_rechnung_planungsbuero.csv](12_gutachten_rechnung_planungsbuero.csv) | Rechnungsdaten für Gutachten und Kartenanhang |
 | [13_flyertext_alt_neu.md](13_flyertext_alt_neu.md) | Alter und korrigierter Flyertext |
 | [14_spendenkonflikt_windpark.md](14_spendenkonflikt_windpark.md) | Vermerk zur problematischen Windpark-Spende |
 | [15_netzwerk_liste_rohdaten.csv](15_netzwerk_liste_rohdaten.csv) | Rohdaten zu Rollen im offenen Netzwerk |
 | [16_registerentwurf_freiwillig.json](16_registerentwurf_freiwillig.json) | Entwurf einer freiwilligen Registrierung |
-| [17_anhoerung_statement_entwurf.md](17_anhoerung_statement_entwurf.md) | Statement fuer die oeffentliche Anhoerung |
+| [17_anhoerung_statement_entwurf.md](17_anhoerung_statement_entwurf.md) | Statement für die öffentliche Anhörung |
 | [18_presseanfrage_lokalzeitung.txt](18_presseanfrage_lokalzeitung.txt) | Presseanfrage zur Finanzierung |
 | [19_antwortentwurf_presse.md](19_antwortentwurf_presse.md) | Antwortentwurf an die Lokalzeitung |
 | [20_finalcheck_redteam.md](20_finalcheck_redteam.md) | Red-Team-Notiz zur Kampagnenphase |
 | [21_api_monitoring_notiz_waldmoor.md](21_api_monitoring_notiz_waldmoor.md) | API-Monitoringnotiz vor und nach freiwilliger Registrierung |
 | [22_api_mock_search_waldmoor_pre_registration.json](22_api_mock_search_waldmoor_pre_registration.json) | API-Suche ohne Treffer vor Registrierung |
-| [23_registerexport_diff_freiwillig.md](23_registerexport_diff_freiwillig.md) | Geplanter Registerexport-Diff fuer freiwillige Registrierung |
+| [23_registerexport_diff_freiwillig.md](23_registerexport_diff_freiwillig.md) | Geplanter Registerexport-Diff für freiwillige Registrierung |
 | [24_mandantennotiz_erstberatung.md](24_mandantennotiz_erstberatung.md) | Mandantennotiz der Erstberatung mit Hinweisen, Honorarvereinbarung und Aufgabenverteilung |
 | [25_spendenkonflikt_protokoll_personenliste.md](25_spendenkonflikt_protokoll_personenliste.md) | Detailliertes Spendenkonflikt-Protokoll mit Personenliste, Zeitlauf und Plenum-vs-Kernteam-Frage |
 | [26_vorstandssitzung_mitschrift_24_05_2026.md](26_vorstandssitzung_mitschrift_24_05_2026.md) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschluesssen |

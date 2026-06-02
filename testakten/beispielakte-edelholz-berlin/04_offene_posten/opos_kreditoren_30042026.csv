@@ -1,4 +1,4 @@
-Belegnummer;Lieferant;Belegdatum;Faelligkeit;Betrag_brutto_EUR;Mahnstufe;Bemerkung
+Belegnummer;Lieferant;Belegdatum;Fälligkeit;Betrag_brutto_EUR;Mahnstufe;Bemerkung
 ER-2026-0211;Pollmeier Massivholz GmbH;14.02.2026;14.03.2026;18450,00;2;Buche/Eiche, gestundet bis 15.05.2026
 ER-2026-0234;Holzland Becker KG;28.02.2026;28.03.2026;12380,00;2;Plattenmaterial, Skonto verfallen
 ER-2026-0241;Hettich Beschläge GmbH;02.03.2026;01.04.2026;9870,00;1;Beschläge Hotel Lützowufer

@@ -35,7 +35,7 @@ Die Mandantin kann nach eigener Aussage das Haus an schlechten Tagen (ca. 4–5 
 | 11/2021 | SARS-CoV-2-Infektion (beruflich, Covid-Station UKL) |
 | 12/2021 | Erste Krankschreibung; Beginn Symptomatik Post-Covid |
 | 03/2022 | Erstvorstellung Charité Long-Covid-Ambulanz (Berlin, Prof. Scheibenbogen) |
-| 07/2022 | Diagnose POTS-Verdacht; Hausarzt Dr. Maerker, Leipzig |
+| 07/2022 | Diagnose POTS-Verdacht; Hausarzt Dr. Märker, Leipzig |
 | 11/2022 | Antrag auf Anerkennung als Berufskrankheit (BK 3101) bei der BGW Hannover |
 | 02/2023 | Antrag auf Festsetzung GdB beim LASOV Sachsen |
 | 09/2023 | LASOV-Bescheid: GdB 30 (Mandantin erwartet mind. 50) |
@@ -55,7 +55,7 @@ Die Mandantin kann nach eigener Aussage das Haus an schlechten Tagen (ca. 4–5 
 - [ ] Bescheid LASOV vom 09/2023 (GdB 30)
 - [ ] Bescheid Jobcenter Leipzig vom 11/2025 (SGB-II-Ablehnung + KdU-Kürzung)
 - [ ] Schreiben Vermieter (Räumungsdrohung)
-- [ ] Befund Dr. Maerker (Hausarzt), 01/2026
+- [ ] Befund Dr. Märker (Hausarzt), 01/2026
 - [ ] Charité-Befundbericht, Prof. Scheibenbogen, 11/2025
 - [ ] SKH-Entlassungsbericht Psychiatrie, 02/2026 (Reha-Empfehlung)
 - [ ] Auszug PEM-Tagebuch (Mandantin selbst geführt, 6 Monate)

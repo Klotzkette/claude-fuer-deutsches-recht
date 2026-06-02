@@ -9,7 +9,7 @@
 
 ## Zweck
 
-Die finale Revision dient dazu, in den letzten 48-72 Stunden vor Signing sicherzustellen, dass das SPA in Reinschrift vollstaendig, konsistent und fehlerfrei ist. Diese Checkliste ergaenzt die allgemeine Word-Finish-Checkliste (Aktenstueck 12) um inhaltliche Pruefpunkte.
+Die finale Revision dient dazu, in den letzten 48-72 Stunden vor Signing sicherzustellen, dass das SPA in Reinschrift vollständig, konsistent und fehlerfrei ist. Diese Checkliste ergänzt die allgemeine Word-Finish-Checkliste (Aktenstück 12) um inhaltliche Prüfpunkte.
 
 ---
 
@@ -26,7 +26,7 @@ Die finale Revision dient dazu, in den letzten 48-72 Stunden vor Signing sicherz
 
 ---
 
-## B — Zahlen und Betraege Final Check
+## B — Zahlen und Beträge Final Check
 
 | Aufgabe | Verantwortlich | Status |
 |---|---|---|
@@ -45,11 +45,11 @@ Die finale Revision dient dazu, in den letzten 48-72 Stunden vor Signing sicherz
 | Aufgabe | Verantwortlich | Status |
 |---|---|---|
 | Alle 9 Anlagen vorhanden und nummeriert | Pohlmann | [ ] |
-| Disclosure Schedules 4.01-4.47 vollstaendig und gezeichnet | Pohlmann | [ ] |
-| Schedule 8-A (Agreed Extraordinary Items fuer Earn-Out) beigehaeftet | Roosendaal | [ ] |
+| Disclosure Schedules 4.01-4.47 vollständig und gezeichnet | Pohlmann | [ ] |
+| Schedule 8-A (Agreed Extraordinary Items für Earn-Out) beigehaeftet | Roosendaal | [ ] |
 | Notarielle Vollmacht GC (Eventualfall) gezeichnet | Sekretariat | [ ] |
 | Aktuelle Gesellschafterliste SPV als Anlage | Notar | [ ] |
-| Handelsregisterauszuege beider Parteien beigefuegt (max. 4 Wochen alt) | Sekretariat | [ ] |
+| Handelsregisterauszüge beider Parteien beigefügt (max. 4 Wochen alt) | Sekretariat | [ ] |
 
 ---
 
@@ -60,8 +60,8 @@ Die finale Revision dient dazu, in den letzten 48-72 Stunden vor Signing sicherz
 | BKartA-Freigabe | **ERHALTEN 18.11.2026** (Phase I, keine Auflagen) | Erledigt |
 | EIB-Zustimmung | **ERHALTEN 02.12.2026** (Change-of-Control zugestimmt) | Erledigt |
 | Verbindliche Auskunft FA Berlin-Mitte | **ERHALTEN 28.11.2026** — GrESt bejaht EUR 288.000; Anpassung Kaufpreis vereinbart | Erledigt |
-| Kaufpreisadjustierung GrESt | EUR 287.850 vom Kaufpreis abgesetzt; neuer Kaufpreis: EUR 37.712.150; Berechnung beigefuegt | Erledigt |
-| Disclosure Schedules | Vollstaendig akzeptiert 05.12.2026 | Erledigt |
+| Kaufpreisadjustierung GrESt | EUR 287.850 vom Kaufpreis abgesetzt; neuer Kaufpreis: EUR 37.712.150; Berechnung beigefügt | Erledigt |
+| Disclosure Schedules | Vollständig akzeptiert 05.12.2026 | Erledigt |
 | SPA Reinschrift an Notar | Zu erledigen bis 09.12.2026 | Pohlmann |
 
 ---
@@ -71,8 +71,8 @@ Die finale Revision dient dazu, in den letzten 48-72 Stunden vor Signing sicherz
 | Aufgabe | Anmerkung |
 |---|---|
 | Telefonkonferenz Roosendaal / Schoeneberg-Kraft | 14.12.2026, 15:00 Uhr — letzte Abstimmung vor Signing |
-| Bestaetigungsmail Schaefer Schoeneberg Stoll | Bestaetigung SPA-Reinschrift als bindend und vollstaendig |
-| Reisebestaetigung Dr. Lattermann-Tannenmoor | Anreise Berlin 15.12.2026 (Vorabend); Hotel: Adlon |
+| Bestätigungsmail Schäfer Schoeneberg Stoll | Bestätigung SPA-Reinschrift als bindend und vollständig |
+| Reisebestätigung Dr. Lattermann-Tannenmoor | Anreise Berlin 15.12.2026 (Vorabend); Hotel: Adlon |
 
 ---
 

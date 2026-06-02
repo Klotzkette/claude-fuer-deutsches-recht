@@ -1,7 +1,7 @@
 # 04 Dreiecksverhaeltnis — Angewiesene Zahlung 78.000 EUR / Schmiedeknecht-Restaurations-KG
 
 **Aktenzeichen:** LG Bonn 16 O 211/26 (Hilfsanspruch)
-**Beteiligte:** Bischof-Hellberg (Anweisender), Schmiedeknecht-Restaurations-KG Koeln (Empfaenger), Dritter (Angewiesener, Hausbank Volksbank Bonn)
+**Beteiligte:** Bischof-Hellberg (Anweisender), Schmiedeknecht-Restaurations-KG Koeln (Empfänger), Dritter (Angewiesener, Hausbank Volksbank Bonn)
 
 ---
 

@@ -39,14 +39,14 @@
 |---|---|---|---|
 | C1–C18 | BGW-Beratungsarzt Dr. Sven Böhme, Arbeitsmed. | "Long-Covid nach BK 3101 ist wissenschaftlich nicht hinreichend gesichert" | Veraltet; widerspricht S3-Leitlinie 2023 |
 | C19–C35 | Prof. Scheibenbogen (Charité), auf Anforderung | "ME/CFS nach SARS-CoV-2-Infektion während beruflichem Einsatz; Kausalität wahrscheinlich" | Pro Mandantin |
-| C36–C51 | Dr. Maerker (Hausarzt) | "Keine anderen Erkrankungen erklären das Bild; zeitlicher Zusammenhang evident" | Pro Mandantin |
+| C36–C51 | Dr. Märker (Hausarzt) | "Keine anderen Erkrankungen erklären das Bild; zeitlicher Zusammenhang evident" | Pro Mandantin |
 | C52–C89 | Diverse Verlaufsberichte UKL (Neurologie, Kardiologie) | Befunde, keine direkte Kausalitätsaussage | neutral |
 
 **Bewertung BGW-Beratungsarzt Böhme:** Das Gutachten datiert von Oktober 2023 und beruft sich auf den "Stand der Wissenschaft von 2022". Die S3-Leitlinie Post-COVID/Long-COVID (AWMF 020-027) erschien Dezember 2023 und ist im Gutachten nicht berücksichtigt. Das Gutachten ist damit veraltet und nicht mehr dem aktuellen Wissensstand entsprechend.
 
 ### 2.3 BGW-Ablehnungsbescheid (Abschnitt E)
 
-Der Bescheid vom 28.01.2026 (E1–E15) stützt sich auf das Gutachten Böhme (C1–C18) und auf die PSA-Bestandslisten. Die entgegenstehende Zeugenaussage der Stationsleitung Wenzel (D13) wird **nicht erwähnt**. Die Befundberichte Prof. Scheibenbogen und Dr. Maerker werden in einer Fußnote als "nicht ausreichend für den Vollbeweis der Kausalität" abgetan, ohne inhaltliche Auseinandersetzung.
+Der Bescheid vom 28.01.2026 (E1–E15) stützt sich auf das Gutachten Böhme (C1–C18) und auf die PSA-Bestandslisten. Die entgegenstehende Zeugenaussage der Stationsleitung Wenzel (D13) wird **nicht erwähnt**. Die Befundberichte Prof. Scheibenbogen und Dr. Märker werden in einer Fußnote als "nicht ausreichend für den Vollbeweis der Kausalität" abgetan, ohne inhaltliche Auseinandersetzung.
 
 ---
 
@@ -55,7 +55,7 @@ Der Bescheid vom 28.01.2026 (E1–E15) stützt sich auf das Gutachten Böhme (C1
 1. **Zeugenaussage Wenzel nicht berücksichtigt** (D13): eklatanter Ermittlungs- und Begründungsfehler; § 35 SGB X (Begründungspflicht) verletzt.
 2. **Beratungsärztliches Gutachten veraltet** (Oktober 2023, ohne Berücksichtigung S3-Leitlinie 2023).
 3. **Keine Stationsprotokolle angefordert**: Verstoß gegen Amtsermittlungsgrundsatz (§ 20 SGB X).
-4. **Keine Stellungnahme der Antragstellerin vor Bescheiderlass**: Das Anhörungsschreiben (E16) wurde erst nach Fertigung des Gutachtens Böhme versandt, ohne die Stellungnahmen Scheibenbogen und Maerker beizufügen.
+4. **Keine Stellungnahme der Antragstellerin vor Bescheiderlass**: Das Anhörungsschreiben (E16) wurde erst nach Fertigung des Gutachtens Böhme versandt, ohne die Stellungnahmen Scheibenbogen und Märker beizufügen.
 
 ---
 

@@ -11,7 +11,7 @@ id,path,filename,type,workstream,clean_room,status,eingestellt_am,seiten,gap_id
 10,02_Financial/,Jahresabschluss_2023_geprueft.pdf,financial,financial,no,FEHLT,,0,G-006
 11,02_Financial/,BWA_2024_YTD.pdf,financial,financial,no,vorhanden,26.11.2024,6,
 12,02_Financial/,Treasury_Policy.pdf,financial,financial,no,vorhanden,25.11.2024,9,
-13,03_Commercial/,Vertrag_Kunde_A_HeadSheet.pdf,commercial,commercial,no,unvollstaendig,25.11.2024,3,G-003
+13,03_Commercial/,Vertrag_Kunde_A_HeadSheet.pdf,commercial,commercial,no,unvollständig,25.11.2024,3,G-003
 14,03_Commercial/,Vertrag_Kunde_A_Anlagen.pdf,commercial,commercial,no,FEHLT,,0,G-003
 15,03_Commercial/,Vertrag_Kunde_B_komplett.pdf,commercial,commercial,no,vorhanden,25.11.2024,22,
 16,03_Commercial/,Vertrag_Kunde_C_komplett.pdf,commercial,commercial,no,vorhanden,25.11.2024,17,

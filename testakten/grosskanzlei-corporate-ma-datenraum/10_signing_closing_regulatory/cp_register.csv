@@ -1,12 +1,12 @@
 cp_id,beschreibung,typ,owner,frist,status,beleg,eskalation
-CP-01,BKartA Fusionskontrollfreigabe,Behoerdlich,Dr. Meiners (Regulatory),2026-07-31,In Vorbereitung,Anmeldungspaket Draft,Partner A
-CP-02,BMWK AWV-Unbedenklichkeit,Behoerdlich,Dr. Meiners (Regulatory),2026-09-30,Ausstehend - UBO fehlt,FDI-UBO-Draft.pdf,Partner A
-CP-03,Exportkontrolle Screening abgeschlossen,Behoerdlich,Specialist Counsel,2026-08-30,Screening laeuft,Clean Room Log,Partner A
-CP-10,Warranty Bringdown (No MAC),Vertraglich Verkaeufer,Counsel B,Closing-Datum,Monitoring aktiv,OCM Bericht,Partner A
-CP-11,No Material Adverse Change,Vertraglich Verkaeufer,Deal Team,Closing-Datum,Monitoring aktiv,Liquiditaetsbericht,Partner A
-CP-12,Ordinary Course Covenants eingehalten,Vertraglich Verkaeufer,Counsel B,Closing-Datum,OC-E-001 offen,OCM-Protokoll,Counsel B
-CP-13,Rangrücktritt Gesellschafterdarlehen Delta Service GmbH,Vertraglich Verkaeufer,Seller Counsel,2026-06-30,Entwurf vorhanden,Entwurf v. 10.05.2026,Partner A
-CP-14,Change-of-Control Consent Aero Nordic AS,Vertraglich Verkaeufer,Commercial Lead,2026-07-31,Kontakt initiiert 20.05.2026,Email Thread Aero Nordic,Counsel B
-CP-20,Equity Commitment Letter Eagle Fund V,Vertraglich Kaeufer,Eagle Counsel,Closing-Datum,Bestaetigt 15.05.2026,ECL v. 15.05.2026,—
-CP-21,W&I-Policy Bindungszusage Versicherer,Vertraglich Kaeufer,Counsel B,2026-08-01,Underwriting laeuft,Underwriting Pack,Partner A
-CP-22,Fremdfinanzierungskommitment,Vertraglich Kaeufer,Finanzierungsberater,Closing-Datum,Term Sheet erhalten,Term Sheet v. 12.05.2026,—
+CP-01,BKartA Fusionskontrollfreigabe,Behördlich,Dr. Meiners (Regulatory),2026-07-31,In Vorbereitung,Anmeldungspaket Draft,Partner A
+CP-02,BMWK AWV-Unbedenklichkeit,Behördlich,Dr. Meiners (Regulatory),2026-09-30,Ausstehend - UBO fehlt,FDI-UBO-Draft.pdf,Partner A
+CP-03,Exportkontrolle Screening abgeschlossen,Behördlich,Specialist Counsel,2026-08-30,Screening läuft,Clean Room Log,Partner A
+CP-10,Warranty Bringdown (No MAC),Vertraglich Verkäufer,Counsel B,Closing-Datum,Monitoring aktiv,OCM Bericht,Partner A
+CP-11,No Material Adverse Change,Vertraglich Verkäufer,Deal Team,Closing-Datum,Monitoring aktiv,Liquiditätsbericht,Partner A
+CP-12,Ordinary Course Covenants eingehalten,Vertraglich Verkäufer,Counsel B,Closing-Datum,OC-E-001 offen,OCM-Protokoll,Counsel B
+CP-13,Rangrücktritt Gesellschafterdarlehen Delta Service GmbH,Vertraglich Verkäufer,Seller Counsel,2026-06-30,Entwurf vorhanden,Entwurf v. 10.05.2026,Partner A
+CP-14,Change-of-Control Consent Aero Nordic AS,Vertraglich Verkäufer,Commercial Lead,2026-07-31,Kontakt initiiert 20.05.2026,Email Thread Aero Nordic,Counsel B
+CP-20,Equity Commitment Letter Eagle Fund V,Vertraglich Käufer,Eagle Counsel,Closing-Datum,Bestätigt 15.05.2026,ECL v. 15.05.2026,—
+CP-21,W&I-Policy Bindungszusage Versicherer,Vertraglich Käufer,Counsel B,2026-08-01,Underwriting läuft,Underwriting Pack,Partner A
+CP-22,Fremdfinanzierungskommitment,Vertraglich Käufer,Finanzierungsberater,Closing-Datum,Term Sheet erhalten,Term Sheet v. 12.05.2026,—

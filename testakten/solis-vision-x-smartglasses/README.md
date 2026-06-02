@@ -60,7 +60,7 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 | Ordner | Inhalt |
 |---|---|
 | `eingang/` | Klagschrift, Klageerwiderung, Replik, Duplik, Schriftsatznachreichungen |
-| `gerichtsakte/` | Aktenübersicht, Verfügungen, Protokoll muendliche Verhandlung, Beweisbeschluss |
+| `gerichtsakte/` | Aktenübersicht, Verfügungen, Protokoll mündliche Verhandlung, Beweisbeschluss |
 | `beweismittel/` | AGB beide Parteien, Bestellbestätigung mit FOB Galway, Gutachten, Screenshots, Gerät-Spezifikation |
 | `output/` | Hier landen Relationsgutachten, Tenorentwurf, Urteilsentwurf, DOCX/PDF |
 | `referenzen/` | CISG-Volltext (Verweis), Rom-I-Verweis, DSGVO-Verweis, Workflow-Vermerk |

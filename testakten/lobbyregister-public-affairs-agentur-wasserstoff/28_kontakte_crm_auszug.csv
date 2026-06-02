@@ -1,21 +1,21 @@
 crm_id,name,funktion,institution,zustaendigkeit,mandat_letzter_kontakt,kanal,bewertung_kontaktwert,bewertung_h2_affinitaet,verfuegbarkeit,sprache,prio_intern,registerrelevant,bemerkung
-CRM-2026-1001,Karin Reimers,MdB,Bundestag Finanzausschuss,Wasserstoff Finanzierung,HansaH2 2026-05-20,E-Mail mit Anhang,A,hoch,gut Buero,DE,Top,ja,Stellungnahme erhalten; Anhoerung WBG erwartet
-CRM-2026-1002,Tom Albrecht,MdB,Bundestag Verkehrsausschuss,Wasserstoff Transport,HansaH2 2026-05-26,Telefon,B,mittel,Buero schnell,DE,Hoch,ja,Talking Points Speicher Logistik
+CRM-2026-1001,Karin Reimers,MdB,Bundestag Finanzausschuss,Wasserstoff Finanzierung,HansaH2 2026-05-20,E-Mail mit Anhang,A,hoch,gut Büro,DE,Top,ja,Stellungnahme erhalten; Anhörung WBG erwartet
+CRM-2026-1002,Tom Albrecht,MdB,Bundestag Verkehrsausschuss,Wasserstoff Transport,HansaH2 2026-05-26,Telefon,B,mittel,Büro schnell,DE,Hoch,ja,Talking Points Speicher Logistik
 CRM-2026-1003,Maxine Cordova,MdB,Bundestag Energie-AG,Elektrolyse Pilotstandorte,Nordsee 2026-05-21,Telefon,A,hoch,direkt,DE,Top,ja,Direktkontakt; freundlich
-CRM-2026-1004,Aisha Karim,MdB,Bundestag Energie-AG,Pilotstandorte Norddeutschland,Nordsee 2026-05-24,E-Mail mit Anhang,A,hoch,Buero schnell,DE,Top,ja,Stellungnahme erhalten
+CRM-2026-1004,Aisha Karim,MdB,Bundestag Energie-AG,Pilotstandorte Norddeutschland,Nordsee 2026-05-24,E-Mail mit Anhang,A,hoch,Büro schnell,DE,Top,ja,Stellungnahme erhalten
 CRM-2026-1005,Hannes Mahlow,MdB,Bundestag Umweltausschuss,Wasserstoff und Moor,nicht Mandat,intern,n.a.,niedrig,unregelmaessig,DE,Nicht prioritaer,nein,nicht Auftrag
-CRM-2026-1006,Frau Dr. M. Kettner,Referat III B 2,BMWK Wasserstoff,Wasserstoff Federfuehrung,HansaH2 2026-05-20,E-Mail mit Anhang,A,hoch,Buerobesuch erforderlich,DE,Top,ja,Stellungnahme erhalten
-CRM-2026-1007,Herr Dr. Wendt,Referatsleitung,BMWK Wasserstoff,Speicher Federfuehrung,HansaH2 2026-04-15,Termin,A,hoch,Termin vereinbart,DE,Top,ja,letzter Termin 15.04.2026 mit Mara Wendt
-CRM-2026-1008,Frau Dr. Tonner,Referat,BMF Energie,Netzentgelt Finanzfragen,Nordsee 2026-04-16,Teams,A,hoch,vermittelt ueber Sekretariat,DE,Top,ja,Termin Q3 angepeilt
+CRM-2026-1006,Frau Dr. M. Kettner,Referat III B 2,BMWK Wasserstoff,Wasserstoff Federführung,HansaH2 2026-05-20,E-Mail mit Anhang,A,hoch,Bürobesuch erforderlich,DE,Top,ja,Stellungnahme erhalten
+CRM-2026-1007,Herr Dr. Wendt,Referatsleitung,BMWK Wasserstoff,Speicher Federführung,HansaH2 2026-04-15,Termin,A,hoch,Termin vereinbart,DE,Top,ja,letzter Termin 15.04.2026 mit Mara Wendt
+CRM-2026-1008,Frau Dr. Tonner,Referat,BMF Energie,Netzentgelt Finanzfragen,Nordsee 2026-04-16,Teams,A,hoch,vermittelt über Sekretariat,DE,Top,ja,Termin Q3 angepeilt
 CRM-2026-1009,Frau Stein,Staatssekretariat,BMWK Leitungsebene,Gesamtthema WBG,beide 2026-05-24,E-Mail,A,hoch,sehr stark Buerogesteuert,DE,Top,ja,gemeinsamer Termin angefragt
-CRM-2026-1010,Tobias Pauli,Mitarbeiter,Bundestag Energie-AG,Hintergrund Wasserstoff,beide 2026-05-09,E-Mail,B,mittel,direkt,DE,Hoch,ja,Hintergrundgespraech
+CRM-2026-1010,Tobias Pauli,Mitarbeiter,Bundestag Energie-AG,Hintergrund Wasserstoff,beide 2026-05-09,E-Mail,B,mittel,direkt,DE,Hoch,ja,Hintergrundgespräch
 CRM-2026-1011,Christine Luehrs,CFO,HansaH2 Storage AG Hamburg,Mandatskommunikation,laufend,Telefon und E-Mail,A,hoch,sehr direkt,DE,Mandatsfuehrung,nein,Mandantin nicht Adressatin
-CRM-2026-1012,Dr. Hauke Witt,Vorstandsvorsitzender,HansaH2 Storage AG Hamburg,Mandatskommunikation,laufend,Telefon,B,hoch,vermittelt ueber CFO,DE,Mandatsfuehrung,nein,Mandant nicht Adressat
+CRM-2026-1012,Dr. Hauke Witt,Vorstandsvorsitzender,HansaH2 Storage AG Hamburg,Mandatskommunikation,laufend,Telefon,B,hoch,vermittelt über CFO,DE,Mandatsfuehrung,nein,Mandant nicht Adressat
 CRM-2026-1013,Tarek Abadi,managing partner,Nordsee Elektrolyse Konsortium GbR,Mandatskommunikation,laufend,Telefon und E-Mail,A,hoch,direkt,DE,Mandatsfuehrung,nein,Doppelrolle dokumentiert
 CRM-2026-1014,Dr. Friederike Soltau,CEO,SoltauStrom AG,Konsortialmitglied,2026-05-19,Teams,B,hoch,Termin Anfrage,DE,Konsortialvertretung Vertreter,nein,Vertretung bei Konflikt Tarek
-CRM-2026-1015,Reza Mahmoudi,Geschaeftsfuehrer,KuestenH2 GmbH,Konsortialmitglied,2026-04-22,Telefon,B,hoch,direkt,DE/EN,Konsortium,nein,Englisch in Fachgespraechen
+CRM-2026-1015,Reza Mahmoudi,Geschäftsführer,KuestenH2 GmbH,Konsortialmitglied,2026-04-22,Telefon,B,hoch,direkt,DE/EN,Konsortium,nein,Englisch in Fachgesprächen
 CRM-2026-1016,Karin Boening,Komplementaerin,AmrumEnergy KG,Konsortialmitglied,2026-04-10,E-Mail,C,mittel,langsam,DE,Konsortium,nein,KG-Komplementaerin
-CRM-2026-1017,Eric Tongers,Geschaeftsfuehrer,OpenGrid Events UG,Unterauftrag,laufend,Telefon und E-Mail,B,n.a.,direkt,DE,Unterauftragnehmer,ja,Vorfall #2026-014; Vertragsergaenzung 25.05.2026
+CRM-2026-1017,Eric Tongers,Geschäftsführer,OpenGrid Events UG,Unterauftrag,laufend,Telefon und E-Mail,B,n.a.,direkt,DE,Unterauftragnehmer,ja,Vorfall #2026-014; Vertragsergänzung 25.05.2026
 CRM-2026-1018,Clara Hubert,Niedersachsen Landesvertretung Berlin,LV Bund,Pilotstandorte,Nordsee 2026-05-27,Termin,B,mittel,direkt,DE,Hoch,ja,Landesvertretung Bund
-CRM-2026-1019,Sven Loewe,Hamburg Landesvertretung Berlin,LV Bund,Speicherstandorte,HansaH2 2026-04-24,Termin,B,mittel,direkt,DE,Hoch,ja,Landesvertretung Bund
+CRM-2026-1019,Sven Löwe,Hamburg Landesvertretung Berlin,LV Bund,Speicherstandorte,HansaH2 2026-04-24,Termin,B,mittel,direkt,DE,Hoch,ja,Landesvertretung Bund
 CRM-2026-1020,Dr. Felicitas Vogt,Vorstand,Stiftung Energiewende Norddeutschland,Marktentwicklung,nicht Mandat,Telefon,C,hoch,locker,DE,Nicht Mandat,nein,informeller Kontakt; nicht ins Register

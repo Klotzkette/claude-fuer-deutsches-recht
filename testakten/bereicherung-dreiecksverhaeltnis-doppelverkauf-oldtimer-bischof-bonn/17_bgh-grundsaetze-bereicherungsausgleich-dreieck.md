@@ -1,7 +1,7 @@
-# 17 BGH-Grundsaetze — Bereicherungsausgleich im Dreieck (Zusammenfassung)
+# 17 BGH-Grundsätze — Bereicherungsausgleich im Dreieck (Zusammenfassung)
 
 **Aktenzeichen:** Alle (LG Bonn 16 O 211/26, AG Hamburg 67 IN 88/26)
-**Rechtsfrage:** Systematische Darstellung der BGH-Grundsaetze
+**Rechtsfrage:** Systematische Darstellung der BGH-Grundsätze
 
 ---
 

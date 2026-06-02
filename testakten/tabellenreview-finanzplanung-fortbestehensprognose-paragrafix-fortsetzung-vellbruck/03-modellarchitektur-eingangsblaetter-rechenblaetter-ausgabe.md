@@ -20,7 +20,7 @@ Das Modell `PFX-FoBP-Modell-v23-final.xlsx` enthält 18 Arbeitsblätter, davon 2
 | 7 | PLAN-GuV | Berechnung | Plan-GuV 2026–2027, monatlich |
 | 8 | PLAN-BILANZ | Berechnung | Plan-Bilanzen 12/2026, 12/2027 |
 | 9 | PLAN-CF | Berechnung | Cashflow-Prognose monatlich (Finding 1: Zirkularität) |
-| 10 | LIQUIDITAET | Berechnung | Monatliche Liquiditätsplanung, Kontokorrententwicklung |
+| 10 | LIQUIDITÄT | Berechnung | Monatliche Liquiditätsplanung, Kontokorrententwicklung |
 | 11 | ZINS-SCHULDEN | Berechnung | Zinslastberechnung (Finding 4: falsche Annahme) |
 | 12 | PERSONAL | Berechnung | FTE-Plan, Personalkosten, Abfindungen |
 | 13 | INVESTITIONEN | Berechnung | Capex-Plan, AfA |

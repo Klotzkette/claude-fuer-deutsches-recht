@@ -2,7 +2,7 @@
 
 ## Anlass
 
-Die Bank will nach der ersten Portalveroeffentlichung nachweisen, dass die Dublin-plc als einheitlicher Rechtstraeger im Lobbyregister erscheint und die Frankfurter Zweigniederlassung nicht versehentlich oder durch parallele interne Arbeit als zweiter Eintrag veroeffentlicht wurde.
+Die Bank will nach der ersten Portalveroeffentlichung nachweisen, dass die Dublin-plc als einheitlicher Rechtsträger im Lobbyregister erscheint und die Frankfurter Zweigniederlassung nicht versehentlich oder durch parallele interne Arbeit als zweiter Eintrag veröffentlicht wurde.
 
 Bearbeiterin Compliance: Orlaine Keating, Dublin  
 Bearbeiter Kanzlei: RAin Dr. Mareike Tamm  
@@ -15,10 +15,10 @@ Erwartete Registernummer aus Portalbestaetigung: R009814
 | Suchlauf | Begriff | Zweck | Erwartung |
 |---|---|---|---|
 | 1 | Emerald Liffey Bank | Haupttreffer Dublin finden | genau ein aktiver Treffer |
-| 2 | Emerald Liffey Bank plc | Rechtstraegerbezeichnung exakt pruefen | R009814 |
-| 3 | Emerald Liffey Frankfurt | Niederlassungs-Dublette pruefen | kein eigener zweiter Registereintrag |
-| 4 | Emerald Liffey Bank Zweigniederlassung | Handelsregisterbezeichnung pruefen | kein eigener zweiter Registereintrag |
-| 5 | ELB Digital Euro | Projektkuerzel im Register vermeiden | kein Treffer oder nur eigener Eintrag |
+| 2 | Emerald Liffey Bank plc | Rechtsträgerbezeichnung exakt prüfen | R009814 |
+| 3 | Emerald Liffey Frankfurt | Niederlassungs-Dublette prüfen | kein eigener zweiter Registereintrag |
+| 4 | Emerald Liffey Bank Zweigniederlassung | Handelsregisterbezeichnung prüfen | kein eigener zweiter Registereintrag |
+| 5 | ELB Digital Euro | Projektkürzel im Register vermeiden | kein Treffer oder nur eigener Eintrag |
 
 ## Abfragebefehle
 
@@ -48,15 +48,15 @@ curl -H "Authorization: ApiKey ${LOBBYREGISTER_API_KEY}" \
 
 ## Entscheidungslogik
 
-| Befund | Bewertung | Naechste Aktion |
+| Befund | Bewertung | Nächste Aktion |
 |---|---|---|
-| nur R009814 fuer Dublin-plc | Gruen | API-Diff in Akte legen |
+| nur R009814 für Dublin-plc | Grün | API-Diff in Akte legen |
 | R009814 plus zweiter Treffer Frankfurt | Rot/Orange | Portalentwurf Frankfurt sperren, RfS-Anfrage aktualisieren |
-| kein Treffer fuer Dublin | Rot | Veroeffentlichung oder Registernummer pruefen |
-| Dublin-Treffer ohne klare Frankfurt-Erwaehnung | Orange | Portaltext Nachbesserung pruefen |
+| kein Treffer für Dublin | Rot | Veröffentlichung oder Registernummer prüfen |
+| Dublin-Treffer ohne klare Frankfurt-Erwähnung | Orange | Portaltext Nachbesserung prüfen |
 | Finanzdaten nur FRA-REG ohne Dublin-Steuerung | Orange | Kostenstellenmapping korrigieren |
 
-## Zu pruefende API-Felder
+## Zu prüfende API-Felder
 
 - `registerNumber`
 - `accountDetails.activeLobbyist`
@@ -76,4 +76,4 @@ curl -H "Authorization: ApiKey ${LOBBYREGISTER_API_KEY}" \
 
 ## Aktenvermerk
 
-Die API-Abfrage ist keine zweite Freigabe und ersetzt nicht die Portalbestaetigung. Sie ist der oeffentliche Nachweis, dass die im Portal freigegebene Dublin-Loesung nicht durch einen parallelen Frankfurt-Entwurf verwischt wurde.
+Die API-Abfrage ist keine zweite Freigabe und ersetzt nicht die Portalbestaetigung. Sie ist der öffentliche Nachweis, dass die im Portal freigegebene Dublin-Lösung nicht durch einen parallelen Frankfurt-Entwurf verwischt wurde.
