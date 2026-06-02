@@ -1,6 +1,6 @@
 {
   "name": "arbeitsrecht",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
   "license": "Apache-2.0 OR MIT",
   "author": {

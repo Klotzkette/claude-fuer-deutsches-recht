@@ -64,12 +64,14 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Insolvenz Sanierungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen k... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
+| `fa-insolvenz-npl-und-distressed-debt` | Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own. |
+| `fa-insolvenz-schuldschein-und-lma` | Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan. |
 | `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung` | Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Rest... |
 | `fachanwalt-insolvenz-idw-s6-sanierungskonzept` | Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau aus anwaltlicher Sicht. Führt durch Fortbestehensprognose, Sanierungsfähigkeit, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpakete, integrierte Planung, kleinere... |
 | `fachanwalt-insolvenz-krypto-verwertung` | Workflow-Skill zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |

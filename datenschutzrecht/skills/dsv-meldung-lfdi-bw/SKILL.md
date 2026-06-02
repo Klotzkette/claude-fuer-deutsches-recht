@@ -36,7 +36,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Behördenstammdaten LfDI BW
 
 - Name: Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg
-- Anschrift: Lautenschlagerstraße 20; 70173 Stuttgart
+- Anschrift: Heilbronner Straße 35; 70191 Stuttgart (stufenloser Zugang ueber Rampe; Navigationsadresse Räpplenstraße 2; 70191 Stuttgart; Umzug zum 22.12.2025)
 - Kontakt: poststelle@lfdi.bwl.de; Telefon 0711 615541-0
 - Online-Meldeformular: baden-wuerttemberg.datenschutz.de — Online-Meldeformular
 - Sondernorm: LDSG Baden-Württemberg

@@ -1,6 +1,6 @@
 {
   "name": "bundesnetzagentur-verfahren",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services.",
   "author": {
     "name": "Klotzkette"

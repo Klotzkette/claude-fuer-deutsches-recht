@@ -24,11 +24,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 128 |
-| **Skills (SKILL.md)** | 8698 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 132 |
+| **Plugins** | 130 |
+| **Skills (SKILL.md)** | 9156 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 139 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v57.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v58.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -272,10 +272,12 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`nachbarschaftsstreit-pruefer`](./nachbarschaftsstreit-pruefer) | Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich. |
 | [`nda-abgleich`](./nda-abgleich) | Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen. |
 | [`normenkontrolle-bauleitplanung`](./normenkontrolle-bauleitplanung) | Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung. |
+| [`normenkontrollrat-nkr`](./normenkontrollrat-nkr) | Normenkontrollrat-/NKR-Werkstatt für Gesetzesentwürfe: Erfüllungsaufwand, Standardkostenmodell, Digitalcheck, Alternativen, KMU-Test, One-in-one-out, Stellungnahme, Vereinfachungsvarianten und Ressortkommunikation. |
 | [`parteienrecht-parteiorganisation`](./parteienrecht-parteiorganisation) | Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft, Abgeordnetenrecht und Wahlleiterkommunikation. |
 | [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPUe erfinderische Tätigkeit § 4 PatG Art. 56 EPUe Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht. |
 | [`patentrecht`](./patentrecht) | Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen. |
 | [`phishing-vorfall-pruefer`](./phishing-vorfall-pruefer) | Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. |
+| [`private-equity-praxis`](./private-equity-praxis) | Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Portfoliounternehmen: Fund Formation, KAGB/AIF/ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed. |
 | [`produktrecht`](./produktrecht) | Produktrechtliche Skills für Launch-Review, Impressumspflicht nach DDG und PAngV sowie UWG-Bewertungen. |
 | [`prozessrecht`](./prozessrecht) | Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. |
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe. |
@@ -378,7 +380,7 @@ Wenn Nutzerinnen und Nutzer auf dem Mac scheitern, liegt es häufig an der herun
 - `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
 - Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
 - Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 112 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
+- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 130 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
 - Technischer Check im Terminal:
 
 ```bash
@@ -411,13 +413,13 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 
 - **Zivilrecht & Vertragsrecht** – `bgb-at-pruefer`, `bgb-bt-pruefer`, `vertragsrecht`, `nda-abgleich`, `agb-pruefung` (in `vertragsrecht`), `produktrecht`, `fluggastrechte`
 - **Arbeitsrecht** – `arbeitsrecht`, `fachanwalt-arbeitsrecht` (Kündigungsschutzklage § 4 KSchG, Aufhebungsvertrag mit Sperrzeit-Prüfung, BR-Anhörung § 102 BetrVG, Massenentlassung § 17 KSchG)
-- **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `gesellschaftsrecht-legal-english`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `fachanwalt-internationales-wirtschaftsrecht`
-- **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `bank-rechtsabteilung`, `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
+- **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `gesellschaftsrecht-legal-english`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `private-equity-praxis`, `fachanwalt-internationales-wirtschaftsrecht`
+- **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `bank-rechtsabteilung`, `fachanwalt-bank-kapitalmarktrecht`, `private-equity-praxis`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
 - **Insolvenz & Sanierung** – `insolvenzrecht` (Gläubiger/Schuldner), `insolvenzverwaltung` (Verwalter-Sicht, § 270d, § 15b, § 129 ff.), `zwangsverwaltung-zvg` (ZVG-Verwalter, § 155 Verteilungsplan), `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `fachanwalt-insolvenz-sanierungsrecht`
 - **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
 - **Steuerrecht und Förderung** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix, Signing/Closing, Steuerberater-Werkzeuge), `forschungszulage-antragstellung`, `dfg-foerderantrag`
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafbefehl-verteidiger`, `strafzumessung`, `verkehrsowi-verteidiger`
-- **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `fachanwalt-vergaberecht`
+- **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `normenkontrollrat-nkr`, `fachanwalt-vergaberecht`
 - **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
 - **Miet- & Immobilienrecht** – `mietrecht`, `weg-hausverwaltung`, `nachbarschaftsstreit-pruefer`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
 - **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecht`, `patentrecherche`, `markenrecht-fashion-luxus` (Luxus-Fashion-IP mit Anmeldung allerlei Markenarten inkl. Haptik- und Soundmarken, EUIPO Alicante, Selektivvertrieb Coty, USPTO/Lanham Act, TTAB, NYC-Korrespondenzkanzlei)

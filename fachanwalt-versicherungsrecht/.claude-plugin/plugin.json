@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-versicherungsrecht",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {

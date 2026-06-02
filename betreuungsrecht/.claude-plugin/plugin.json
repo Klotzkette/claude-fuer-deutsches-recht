@@ -1,6 +1,6 @@
 {
   "name": "betreuungsrecht",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.",
   "license": "Apache-2.0 OR MIT",
   "author": {

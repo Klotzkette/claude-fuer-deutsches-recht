@@ -1,6 +1,6 @@
 {
   "name": "weg-hausverwaltung",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.",
   "license": "Apache-2.0 OR MIT",
   "author": {

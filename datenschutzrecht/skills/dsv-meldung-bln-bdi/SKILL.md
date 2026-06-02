@@ -36,7 +36,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Behördenstammdaten BlnBDI
 
 - Name: Berliner Beauftragte für Datenschutz und Informationsfreiheit
-- Anschrift: Friedrichstraße 219; 10969 Berlin
+- Anschrift: Alt-Moabit 59-61; 10555 Berlin (Eingang Alt-Moabit 60)
 - Kontakt: mailbox@datenschutz-berlin.de; Telefon 030 13889-0
 - Online-Meldeformular: datenpannen.datenschutz-berlin.de — Online-Meldeformular (Goldstandard)
 - Sondernorm: BlnDSG insbesondere § 51 BlnDSG

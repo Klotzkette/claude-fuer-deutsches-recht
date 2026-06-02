@@ -1,6 +1,6 @@
 {
   "name": "grosskanzlei-corporate-ma",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-Kommandocenter, Anfänger-/First-Year-Modus, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, UmwG/StaRUG, CP-Kalender, E-Rechnung/GoBD, PMI.",
   "license": "Apache-2.0 OR MIT",
   "author": {

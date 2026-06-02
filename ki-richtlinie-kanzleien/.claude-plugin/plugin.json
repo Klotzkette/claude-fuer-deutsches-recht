@@ -1,7 +1,7 @@
 {
   "name": "ki-richtlinie-kanzleien",
   "displayName": "KI-Richtlinie fuer Kanzleien und Rechtsabteilungen",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwaelten und Syndikus-Anwaelten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen.",
   "author": {
     "name": "Klotzkette"

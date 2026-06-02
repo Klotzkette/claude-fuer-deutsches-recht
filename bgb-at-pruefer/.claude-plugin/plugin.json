@@ -1,7 +1,7 @@
 {
   "name": "bgb-at-pruefer",
   "displayName": "BGB AT Prüfer",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, § 130e ZPO, § 46h ArbGG, Anfechtung, Stellvertretung, Fristen und Verjährung.",
   "author": {
     "name": "Klotzkette"

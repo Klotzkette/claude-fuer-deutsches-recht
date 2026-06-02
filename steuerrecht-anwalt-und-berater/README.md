@@ -1,6 +1,7 @@
 # Steuerrecht – Steuerberater und Anwälte
 
 
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -27,6 +28,25 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
+<!-- BEGIN plugin-testakten-section (autogen) -->
+## Demonstrations-Akten
+
+Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+
+| Akte | Lesen | Herunterladen |
+| --- | --- | --- |
+| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+| **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
+| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+| **Grunderwerbsteuer Share Deal Waldkrone** (`grunderwerbsteuer-sharedeal-closing-waldkrone`) | [Gesamt-PDF lesen](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
+| **Grundsteuer Rosenwinkel-Bescheidkette** (`grundsteuer-rosenwinkel-bescheidkette`) | [Gesamt-PDF lesen](../testakten/grundsteuer-rosenwinkel-bescheidkette/gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+| **Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Praezision GmbH & Co. KG Erfurt (2026)** (`sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) |
+| **Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)** (`sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) |
+| **Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)** (`sanierungsgewinn-starug-plan-windenergie-pellbach-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
+
+<!-- END plugin-testakten-section (autogen) -->
 > **Hinweis: Dieses Plugin deckt zugleich den vollständigen Fachbereich des Fachanwalts für Steuerrecht ab.**
 >
 > Es gibt **kein eigenes Plugin `fachanwalt-steuerrecht`** – dieser frühere Pfad ist als Redirect erhalten. Die gesamten Skills, Vorlagen und Workflows sind hier gebündelt, weil sich anwaltliche und steuerberatende Sicht im Mandat überlappen und ein gemeinsames Plugin Doppelpflege erspart. Die Skills decken sämtliche **FAO-§-9-Bereiche** ab – vom materiellen Steuerrecht über Steuerverfahrensrecht und Steuerstrafrecht bis zu Bilanz- und Buchführungsrecht.

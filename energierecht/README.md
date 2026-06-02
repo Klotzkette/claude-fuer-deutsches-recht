@@ -15,18 +15,22 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Märkische Reserve Süd — Batteriespeicher Brandenburg/Berlin** (`batteriespeicher-brandenburg-berlin-resilienz`) | [Gesamt-PDF lesen](../testakten/batteriespeicher-brandenburg-berlin-resilienz/gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) | [`testakte-batteriespeicher-brandenburg-berlin-resilienz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) |
 | **Akte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen** (`energierecht-stadtwerke-quartier`) | [Gesamt-PDF lesen](../testakten/energierecht-stadtwerke-quartier/gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) | [`testakte-energierecht-stadtwerke-quartier.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
+| **Projekt Isarlicht — Kernfusion und Transrapid am Starnberger See** (`kernfusion-transrapid-starnberger-see`) | [Gesamt-PDF lesen](../testakten/kernfusion-transrapid-starnberger-see/gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) | [`testakte-kernfusion-transrapid-starnberger-see.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
 <!-- BEGIN plugin-testakten-section (autogen) -->
 ## Demonstrations-Akten
 
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
 
 | Akte | Lesen | Herunterladen |
 | --- | --- | --- |
+| **Märkische Reserve Süd — Batteriespeicher Brandenburg/Berlin** (`batteriespeicher-brandenburg-berlin-resilienz`) | [Gesamt-PDF lesen](../testakten/batteriespeicher-brandenburg-berlin-resilienz/gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) |
 | **Akte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen** (`energierecht-stadtwerke-quartier`) | [Gesamt-PDF lesen](../testakten/energierecht-stadtwerke-quartier/gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
+| **Projekt Isarlicht — Kernfusion und Transrapid am Starnberger See** (`kernfusion-transrapid-starnberger-see`) | [Gesamt-PDF lesen](../testakten/kernfusion-transrapid-starnberger-see/gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
 
@@ -92,7 +96,7 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -110,7 +114,45 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `energierecht-vertrieb-marktrollen` | Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Prüfraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse un... |
 | `energierecht-waerme-quartier` | Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Prüfraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waer... |
 | `energierecht-wettbewerb` | Wettbewerbs- und Kartellrecht im Energiesektor prüfen: Marktmacht, Diskriminierung, Missbrauch. Normen: §§ 18 ff. GWB, Art. 101 102 AEUV, EnWG. Prüfraster: Marktabgrenzung, Marktmacht, Diskriminierungsverbot, Entflechtung. Output: Kartel... |
+| `er-bess-abfall-recycling-rueckbau` | Prüft Rückbaupflichten, Batterieentsorgung, Recycling, Herstellerpflichten und Grundstücksrückgabe. |
+| `er-bess-abstandsflaechen-und-layout` | Prüft Containerabstände, Transformatoren, Umrichter, Zaun, Leitungen, Feuerwehrbewegungsflächen und Nachbarpositionen. |
+| `er-bess-baurecht-brandenburg` | Prüft Zulässigkeit im Außenbereich, Bebauungsplan, Sondergebiet Energie, Privilegierung, Erschließung und Nachbarrechte. |
+| `er-bess-behoerdenstrategie` | Plant Vorgespräche mit Gemeinde, Bauaufsicht, Immissionsschutz, Feuerwehr, Netzbetreiber, Polizei und Datenschutzaufsicht. |
+| `er-bess-bimschg-und-4-bimschv` | Prüft, ob Batteriespeicher immissionsschutzrechtlich genehmigungsbedürftig ist oder Nebenanlagen/Generatoren den Weg ändern. |
+| `er-bess-brandschutz-lithium-ionen` | Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan. |
+| `er-bess-co-location-pv-wind` | Prüft Batteriespeicher neben Erneuerbaren: gemeinsame Messeinrichtung, Förderlogik, Netzanschluss, Direktleitung und Curtailment. |
+| `er-bess-datenschutz-video-leitwarte` | Prüft Videoüberwachung, Zutrittslogs, Fernwartung, Auftragsverarbeitung und Drittlandzugriffe. |
+| `er-bess-dieselgenerator-notstrom` | Prüft, ob Dieselgeneratoren als Nebenanlage genehmigungspflichtig, emissionsrelevant oder sicherheitskritisch sind. |
+| `er-bess-epc-o-and-m-vertraege` | Prüft Bau-/Liefervertrag, O&M, Garantien, Degradation, Availability, LDs, Ersatzteile und Cyberpflichten. |
+| `er-bess-fca-agnes-bnetza` | Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt. |
+| `er-bess-finanzierung-bankability` | Prüft Projektfinanzierung, Sicherheiten, Erlösmodell, Netzanschlussrisiko, Bau-/Betriebsrisiko und Insurance DD. |
+| `er-bess-kaltstart-projektaufnahme` | Batteriespeicherprojekt aufnehmen: Projektgröße, Standort, Netzebene, Betreiberrolle, Fristen, Unterlagen und Zieloutput. |
+| `er-bess-kapazitaetsmarkt-grundlast` | Ordnet Aussagen zu Grundlast, gesicherter Leistung, Kapazitätsmarkt, Gaskraftwerken und Speicherfunktion rechtlich ein. |
+| `er-bess-kritis-nis2-cyber` | Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind. |
+| `er-bess-marktrollen-bilanzkreis` | Prüft Betreiber, Lieferant, Direktvermarkter, Bilanzkreis, Redispatch, Fahrplan, MaStR und Datenpflichten. |
+| `er-bess-naturschutz-artenschutz` | Prüft Eingriffsregelung, Artenschutz, Ausgleich, Landschaftsbild, Ackerflächen und FFH/Vogelschutz. |
+| `er-bess-netzanschluss-hoehe-spannung` | Prüft Netzanschlussbegehren, Anschlusszusage, Netzverträglichkeitsprüfung, Kostentragung und Zeitplan. |
+| `er-bess-netzentgelte-und-abgaben` | Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen. |
+| `er-bess-output-board-paper` | Erstellt Entscheidungsvorlage für Vorstand/Geschäftsführung/Aufsichtsrat zu Investition, Risiko, Genehmigung und Finanzierung. |
+| `er-bess-physische-sicherheit-terror` | Prüft Zaun, Zutritt, Drohnen, Video, Wachschutz, Polizei/Feuerwehr, Geheimschutz und Betreiberpflichten. |
+| `er-bess-power-quality-emv` | Prüft Oberschwingungen, Spannungshaltung, Umrichter, elektromagnetische Verträglichkeit und Nachbar-/Netzbetreiberforderungen. |
+| `er-bess-ppa-und-merchant-risk` | Prüft Erlösverträge für Speicher: Tolling, Capacity, Arbitrage, Regelenergie, Floor/Cap und Verfügbarkeitsgarantien. |
+| `er-bess-produktsicherheit-haftung` | Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung. |
+| `er-bess-projektakte-qualitygate` | Prüft die gesamte Speicherakte auf Lücken, Widersprüche, fehlende Quellen, falsche Rollen und unrealistische Annahmen. |
+| `er-bess-rechtsmittel-und-nachbarabwehr` | Prüft Widerspruch/Klage, Nachbarrechte, Sofortvollzug, Baustopp, Umweltverbandsklage und Verteidigung. |
+| `er-bess-regelenergie-systemdienstleistung` | Prüft Präqualifikation, Vermarktung, Verfügbarkeit, Messdaten, Sanktionen und Aggregator-Struktur. |
+| `er-bess-vergabe-kommunale-stadtwerke` | Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss. |
+| `er-bess-versicherung-und-schadenfall` | Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess. |
+| `er-bess-wasser-awsv-und-boden` | Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz. |
 | `er-einfuehrung-system` | Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetre... |
+| `er-fusion-bauleitplanung-starnberger-see` | Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte. |
+| `er-fusion-buergerbeteiligung-und-politik` | Plant Beteiligung, Umweltinformationen, Presse, Einwendungen, Bürgerentscheid-Schnittstellen und Konfliktmanagement. |
+| `er-fusion-foerderung-beihilfe` | Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle. |
+| `er-fusion-kaltstart-regulierungsweg` | Ordnet Fusionsreaktor-Projekt zwischen Atomrecht, Strahlenschutz, Baurecht, Immissionsschutz und Forschungsförderung. |
+| `er-fusion-netzanschluss-und-systemnutzen` | Prüft Netzanschluss, gesicherte Leistung, PPA, Marktrolle, Wasserstoff-/Wärme-Kopplung und Systemintegration. |
+| `er-fusion-sicherheitsnachweis` | Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz. |
+| `er-fusion-strahlenschutz-neutronen` | Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung. |
+| `er-fusion-transrapid-anbindung` | Prüft Planungsrecht, Infrastrukturzulassung, Grundstücke, Sicherheit, Betreiberrollen und Schnittstellen zum Energieprojekt. |
 | `er-h2-electrolyseur-foerderung` | Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster... |
 | `er-netzanschluss-praesumtion-spezial` | Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clear... |
 | `er-netzentgelte-rechtsfragen` | Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-F... |

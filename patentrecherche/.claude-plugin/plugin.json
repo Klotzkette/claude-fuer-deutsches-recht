@@ -1,6 +1,6 @@
 {
   "name": "patentrecherche",
-  "version": "57.0.3",
+  "version": "58.0.0",
   "description": "Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPUe erfinderische Tätigkeit § 4 PatG Art. 56 EPUe Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

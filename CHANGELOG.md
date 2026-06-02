@@ -1,3 +1,22 @@
+# v58.0.0 — Private Equity, Batteriespeicher, NKR und Loan-Transfer
+
+Großer Fachausbau für Private Equity, Private Credit, Batteriespeicherrecht, NKR-Gesetzesprüfung und distressed Finanzierungen.
+
+## Schwerpunkt
+
+- Neues Plugin `private-equity-praxis` mit 103 Skills: Anfänger- und Profi-Workflow, Fund Formation, KAGB/AIF/ELTIF, Fundraising, Subscription, Side Letter, Deal Execution, Legal DD, SPA/APA, Management Participation, W&I, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit, Distressed M&A und Qualitygate.
+- `energierecht` um 30 Batteriespeicher-Skills plus Fusions-/Großprojekt-Skills erweitert: Bauleitplanung, BImSchG-Screening, Brandschutz, Netzanschluss, Netzentgelte, Marktrollen, Co-Location, Grundlast-/Kapazitätsmechanismen, Diesel-Notstrom, Power Quality, Wasser/Boden, KRITIS/NIS2, Cyber, physische Sicherheit, Finanzierung, EPC/O&M, Versicherung und Rechtsmittel.
+- Corporate- und Insolvenz-Plugins um Schuldscheindarlehen, Übertragung von Schuldscheindarlehen, LMA-Facility-Transfer, NPL-Kreditkauf, Kreditzweitmarktgesetz, Distressed Debt und Loan-to-own-Schnittstellen ergänzt.
+- Neues Plugin `normenkontrollrat-nkr` aus dem aktuellen Hauptstand integriert und auf v58 synchronisiert: 37 Skills plus Testakte zur elektronischen Erreichbarkeit im Handelsregister, NKR-Stellungnahme, Erfüllungsaufwand, SKM, Digitalcheck, Alternativen, One-in-one-out und Ressortkommunikation.
+- Neue Testakten mit Gesamt-PDF und ZIP-Eintrag: `batteriespeicher-brandenburg-berlin-resilienz`, `kernfusion-transrapid-starnberger-see` und `private-equity-buyout-schuldschein-npl-heidelberg`.
+- Marketplace, Haupt-README, Testaktenübersicht, Skill-Gesamtübersicht und Skills-Index auf 130 Plugins, 9156 Skills und 139 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur und Gesamt-PDF-Regel grün.
+
+---
+
 # v57.0.0 — Skill-Qualitätssweep, Quellenhygiene und schlanke Gesamt-PDFs
 
 Großer Repo-weiter Qualitäts- und Release-Sweep nach den v56-Erweiterungen.
