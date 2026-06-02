@@ -76,7 +76,7 @@ wenn er an eine fremde Materie heran muss.
 ### Schritt 5 - Optional RuleMapping-Anschluss
 
 Wenn das Vorhaben digital-tauglich werden soll (BMJ-Initiative; SPRIND-Foerderung; Rulemap-Builder):
-weiter zu `legw-rmap-einstieg-und-eignung`. Von dort 9 RuleMapping-Skills.
+weiter zu `legw-rmap-grundlagen` als didaktischem Einstieg in die RuleMapping-Methodik. Von dort fuehren insgesamt 10 RuleMapping-Skills durch den Workflow: `legw-rmap-grundlagen`, `legw-rmap-norm-zu-rulemap`, `legw-rmap-tatbestand-und-rechtsfolge`, `legw-rmap-verweisungen-und-ausnahmen`, `legw-rmap-bestimmtheit-und-justitiabilitaet`, `legw-rmap-entscheidungsbaum-validierung`, `legw-rmap-vollzugstauglichkeit`, `legw-rmap-evaluierung-und-aenderung`, `legw-rmap-export-und-systemintegration` und `legw-rmap-anschluss-an-legw` als Rueckkopplung in die Legistik-Werkstatt.
 
 ## Output
 
@@ -91,7 +91,7 @@ Empfohlene Skill-Kette:
   3. legw-<kuerzel>-<thema>            (Spezialfeld)
   4. normhierarchie-routing            (Normwahl)
   5. <weitere Spezial- und Werkstattskills>
-Optional RuleMapping-Anschluss: legw-rmap-einstieg-und-eignung
+Optional RuleMapping-Anschluss: legw-rmap-grundlagen (Einstieg in 10 RuleMapping-Skills)
 ```
 
 ## Quellenregel
