@@ -116,7 +116,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (54 Skills)
 - [selbstvertreter-amtsgericht](./selbstvertreter-amtsgericht.md) (86 Skills)
 - [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (80 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (209 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (259 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (54 Skills)
 - [strafzumessung](./strafzumessung.md) (54 Skills)
 - [subsumtions-pruefer](./subsumtions-pruefer.md) (50 Skills)
