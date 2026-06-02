@@ -1,0 +1,16 @@
+Variante;Person;Nennbetrag_EUR;Anteil_Prozent;Bemerkung
+Vor Pfaffenrode;Aylin Soeren;9000;36.0;Bareinlage 4500 sofort
+Vor Pfaffenrode;Jonas Kreutzberger;9000;36.0;Bareinlage 4500 sofort
+Vor Pfaffenrode;Mira Holzbach;7000;28.0;Bareinlage 3500 sofort plus Lizenz Domain/Repo
+Vor Pfaffenrode;Summe;25000;100.0;
+Nach Pfaffenrode;Aylin Soeren;9000;34.2;Anteil verwaessert
+Nach Pfaffenrode;Jonas Kreutzberger;9000;34.2;Anteil verwaessert
+Nach Pfaffenrode;Mira Holzbach;7000;26.6;Anteil verwaessert
+Nach Pfaffenrode;Sebastian Pfaffenrode;1317;5.0;Einlage 1317 plus Agio 48683 in Kapitalruecklage
+Nach Pfaffenrode;Summe;26317;100.0;
+Mit ESOP 8 Prozent;Aylin Soeren;9000;31.5;effektiv nach Vesting
+Mit ESOP 8 Prozent;Jonas Kreutzberger;9000;31.5;effektiv nach Vesting
+Mit ESOP 8 Prozent;Mira Holzbach;7000;24.5;effektiv plus 3 Prozent ESOP-Ausgleich
+Mit ESOP 8 Prozent;Sebastian Pfaffenrode;1317;4.6;effektiv nach Vesting
+Mit ESOP 8 Prozent;ESOP-Pool VSOP;0;8.0;virtuell, davon 3 Prozent Mira-Ausgleich
+Mit ESOP 8 Prozent;Summe;26317;100.0;
