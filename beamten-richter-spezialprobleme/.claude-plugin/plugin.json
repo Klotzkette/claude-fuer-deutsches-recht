@@ -1,0 +1,32 @@
+{
+  "name": "beamten-richter-spezialprobleme",
+  "version": "0.1.0",
+  "description": "Spezialskills Beamten- und Richterrecht Bund Laender seit Foederalismusreform. Konkurrentenschutz Beurteilung Besoldung Versorgung Beihilfe Heilfuersorge Urlaub Dienstunfall Disziplinar Dienstunfaehigkeit Reaktivierung Nebentaetigkeit Verfassungstreue Richterspezifika Praesidialrat Dienstgericht.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "beamtenrecht",
+    "richterrecht",
+    "drig",
+    "bbg",
+    "beamtstg",
+    "bbesg",
+    "beamtvg",
+    "bdg",
+    "konkurrentenschutz",
+    "dienstliche-beurteilung",
+    "besoldung",
+    "versorgung",
+    "beihilfe",
+    "heilfuersorge",
+    "dienstunfall",
+    "disziplinarverfahren",
+    "dienstunfaehigkeit",
+    "nebentaetigkeit",
+    "verfassungstreue",
+    "foederalismusreform"
+  ]
+}
