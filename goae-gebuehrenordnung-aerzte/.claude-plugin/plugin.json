@@ -2,6 +2,7 @@
   "name": "goae-gebuehrenordnung-aerzte",
   "version": "61.1.0",
   "description": "Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten.",
+  "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
   },
