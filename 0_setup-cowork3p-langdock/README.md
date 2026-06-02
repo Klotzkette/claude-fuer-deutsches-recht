@@ -18,6 +18,8 @@ Programmierkenntnisse durchführen.
 Sicherheitskonzept**. Je nach **Organisation und Einsatzzweck** sind ggf. **weitere sicherheitsrelevante
 Einstellungen** sinnvoll oder erforderlich (z. B. die Egress-Freigabeliste, Telemetrie-Optionen oder
 Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, wenn diese weitergegeben wird. **Egress-Freigabeliste (`coworkEgressAllowedHosts`):** In der mitgelieferten Config steht sie bewusst auf `"*"` (alle Hosts erlaubt), damit agentisches Arbeiten mit Web-Zugriff uneingeschränkt funktioniert. Eine Einschränkung dieser Liste beschneidet den Web-Zugriff und damit das agentische Arbeiten und sollte daher **unbedingt vorab mit der IT abgestimmt** werden.
+- **AVV-Kette nach Art. 28 DSGVO beachten:** Mandant ↔ Anwalt (Verantwortlicher) ↔ Langdock (Auftragsverarbeiter) ↔ Backend-Anbieter (Bedrock / Vertex als Unter-Auftragsverarbeiter). Sub-Prozessor-Zustimmung nach Art. 28 Abs. 2 und 4 DSGVO erforderlich.
+- **DSFA-Erwägung nach Art. 35 DSGVO:** Bei systematischer Verarbeitung von Mandantendaten je nach Risiko erforderlich.
 
 ---
 
@@ -59,6 +61,7 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
 
 10. In der Menüleiste den Reiter **„Entwickler"** öffnen und auf **„Drittanbieter-Inferenz konfigurieren…"** klicken.
 11. Im sich öffnenden Fenster oben rechts auf das **Konfigurations-Auswahlfeld** klicken und **„Konfiguration importieren…"** wählen.
+    *Falls dieser Button in deiner App-Version nicht erscheint:* Du kannst die Werte stattdessen **von Hand in die Eingabemaske eintragen** – einfach Feld für Feld entlang der `langdock-cowork.config.json`. Für nicht-technische Nutzer ist das der einfachere und sicherere Weg.
 12. Die Datei **`langdock-cowork.config.json`** auswählen (Die Datei befindet sich hier im Repository und muss vorher auf Deinem Laptop heruntergeladen werden).
 13. Den **Langdock-API-Key** aus Teil 1 einfügen.
 14. Auf **„Verbindung testen"** klicken. Wenn alles stimmt, wird die Verbindung als erfolgreich bestätigt.
