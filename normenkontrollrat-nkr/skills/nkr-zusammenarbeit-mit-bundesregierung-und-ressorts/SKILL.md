@@ -20,8 +20,8 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 1 NKRG** — Einsetzung beim Bundesministerium der Justiz (BMJ); unabhaengig nach § 1 Abs. 2
-- **§ 3 NKRG** — Geschaeftsstelle des NKR ist beim BMJ angesiedelt; Rechtsaufsicht beim BMJ
+- **§ 1 NKRG** — Einsetzung beim Bundesministerium der Justiz (BMJ) gemaess § 1 Abs. 1 Satz 1 NKRG; unabhaengig nach § 1 Abs. 1 Satz 2 NKRG; Aufgabe der Unterstuetzung der Bundesregierung folgt aus § 1 Abs. 2 NKRG
+- **§ 3 NKRG** — Sekretariat (Geschaeftsstelle) des NKR ist beim BMJ angesiedelt (§ 3 Abs. 9); Rechtsaufsicht beim BMJ (§ 3 Abs. 8); das den Vorsitz fuehrende Mitglied wird vom BMJ bestimmt (§ 3 Abs. 4)
 - **§ 5 NKRG** — Auskunfts- und Akteneinsichtsrecht
 - **§ 62 GGO** — Pflicht zur NKR-Befassung
 - **GGO § 22, § 23** — Ressortabstimmung allgemein
@@ -51,7 +51,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 - Wenn auch Unterabteilung nicht reagiert
 - Schreiben an Abteilungs- oder Staatssekretaersebene
-- Information an das **Bundesministerium der Justiz (BMJ)** als institutionelle Anbindung des NKR (§ 1, § 3 NKRG); ggf. parallel Hinweis an das Bundeskanzleramt im Rahmen der allgemeinen Kabinettsbefassung
+- Information an das **Bundesministerium der Justiz (BMJ)** als institutionelle Anbindung des NKR (§ 1 Abs. 1 Satz 1, § 3 Abs. 8 und Abs. 9 NKRG); ggf. parallel Hinweis an das Bundeskanzleramt im Rahmen der allgemeinen Kabinettsbefassung
 
 ### Stufe 5 — Negative Stellungnahme
 
