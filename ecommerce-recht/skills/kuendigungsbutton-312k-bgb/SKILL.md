@@ -32,11 +32,12 @@ description: "Kündigungsbutton § 312k BGB: prüft die einschlägigen Vorausset
 
 ## Workflow / Schritt für Schritt
 
-1. **Anwendungsbereich prüfen.** Verbraucher? Online-Abschluss möglich? Entgeltliche Dauerschuldverhältnis?
+1. **Anwendungsbereich prüfen.** Verbraucher? Ermöglicht der Unternehmer den Abschluss des Vertragstyps über eine Webseite (es kommt nicht darauf an, ob der konkrete Kundenvertrag online geschlossen wurde — § 312k Abs. 1 BGB stellt auf die generelle Verfügbarkeit des Abschlussweges ab)? Entgeltliches Dauerschuldverhältnis?
 2. **Buttontext prüfen.** "Verträge hier kündigen" oder gleichwertig, gut lesbar, ohne weitere Login-Hürde direkt nach Klick erreichbar.
 3. **Bestätigungsseite prüfen.** Vollständige Angaben: Identifizierung des Vertrags, Art der Kündigung, Datum/Uhrzeit, eindeutiger Bestätigungs-Button.
 4. **Bestätigung per E-Mail.** Unmittelbar nach Klick, mit Zeitstempel.
-5. **Bestandskunden.** Pflicht gilt auch für Altverträge, soweit Vertrag online abgeschlossen wurde.
+5. **Bestandskunden.** Pflicht gilt auch für Altverträge und für offline geschlossene Verträge des gleichen Typs, sobald der Unternehmer den Abschluss über die Webseite anbietet (§ 312k Abs. 1 BGB stellt auf den angebotenen Abschlussweg ab, nicht auf den konkreten Vertragsschluss).
+   - Konkret: Wer Online-Neuabschluss anbietet, muss den Kündigungsbutton auch für offline geworbene Kunden und für im Laden/per Post geschlossene Verträge bereitstellen, wenn es derselbe Vertragstyp ist.
 6. **Login-Hürde unzulässig.** OLG Düsseldorf und andere haben Login-Pflicht zwischen Button und Bestätigung als unzulässig eingestuft.
 7. **Beweissicherung.** Screenshots, Versionierung der Seite, Log-Files.
 8. **Abmahnung.** Modifizierte Unterlassungserklärung mit Vertragsstrafenklausel.
@@ -49,6 +50,7 @@ description: "Kündigungsbutton § 312k BGB: prüft die einschlägigen Vorausset
 | Button mit Login-Pflicht | Login entfernen; nur Identifikationsdaten abfragen |
 | B2B-Abo | § 312k nicht anwendbar |
 | Hybrid B2C/B2B | Pflicht für B2C-Bereich; Schaltflächentexte differenzieren |
+| Hybrid Online/Offline (Vertragstyp wird online angeboten) | Kündigungsbutton-Pflicht erfasst auch offline geschlossene Verträge desselben Typs (§ 312k Abs. 1 BGB) |
 | Bestätigungsmail fehlt | sofort einrichten |
 
 ## Praxistipps
@@ -56,7 +58,7 @@ description: "Kündigungsbutton § 312k BGB: prüft die einschlägigen Vorausset
 - Buttontext muss eindeutig sein. "Vertrag kündigen" reicht; "Abomanagement" reicht nicht.
 - Bestätigungsseite darf weitere Angaben verlangen – aber nur soweit zur Identifizierung erforderlich (Name, Kundennummer, E-Mail).
 - Aufgabenverteilung zwischen Frontend und Backend: Sofortige Bestätigungsmail muss auch bei Systemstörungen funktionieren – Monitoring.
-- Bestandskunden: § 312k findet auch auf Altverträge Anwendung, wenn sie online geschlossen wurden – kein Bestandsschutz.
+- Bestandskunden: § 312k Abs. 1 BGB stellt auf den durch den Unternehmer eröffneten Abschlussweg ab. Wird derselbe Vertragstyp über die Webseite angeboten, gilt der Kündigungsbutton auch für Altverträge und offline geschlossene Verträge – kein Bestandsschutz und keine Beschränkung auf den konkreten Online-Abschluss.
 - Abmahnungen erfolgen häufig durch Verbraucherzentralen (NRW, Bundesverband VZBV).
 
 ## Mustertexte

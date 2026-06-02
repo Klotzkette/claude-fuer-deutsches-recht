@@ -25,29 +25,34 @@ Eingaben:
 
 ## Rechtlicher Rahmen
 
-- **§§ 1a–6 ApBetrO:** Begriffsbestimmungen, Leiterpflichten, Personal, Räume, Ausstattung.
-- **§ 4 ApBetrO:** Räume — Offizin, Labor, Lager, Nachtdienstraum, Beratungszone, Behindertenzugang.
-- **§ 5 ApBetrO:** Ausstattung — Mindestgeräte, Software, Kühlkette.
-- **§ 6 ApBetrO:** Personal — Apothekerleiter, Vertretung, Personalmindestbesatz, Schulungen.
-- **§§ 7–8 ApBetrO:** Prüfung der Ausgangsstoffe und Endprodukte.
-- **§§ 11–12 ApBetrO:** Information, Beratung, Plausibilitätsprüfung beim Abgabevorgang.
-- **§ 14 ApBetrO:** Lagerhaltung, FIFO, Temperaturkontrolle.
-- **§ 21 ApBetrO:** Qualitätsmanagement-System (QMS), Pflicht zur SOP-Dokumentation.
-- **§ 25 ApBetrO:** Apothekenübliche Waren (Abgrenzungskatalog).
-- **§§ 34 ff. ApBetrO:** Krankenhausapotheken.
+- **§ 1a ApBetrO:** Begriffsbestimmungen.
+- **§ 2 ApBetrO:** Apothekenleiter (Aufgaben, Verantwortung, Vertretung).
+- **§ 2a ApBetrO:** Qualitätsmanagementsystem (QMS) — Pflicht zur SOP-Dokumentation, Selbstinspektion.
+- **§ 3 ApBetrO:** Apothekenpersonal (Apotheker, PTA, PKA; Vertretung; Schulungen).
+- **§ 4 ApBetrO:** Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume; Mindestgrundfläche.
+- **§ 5 ApBetrO:** Hygienemaßnahmen.
+- **§ 6 ApBetrO:** Allgemeine Vorschriften über die Herstellung und Prüfung.
+- **§§ 7–8 ApBetrO:** Rezeptur und Defektur.
+- **§ 11 ApBetrO:** Sonderregelungen für die Abgabe (z.B. Notfall, Versand).
+- **§ 12 ApBetrO:** Verschreibung und Abgabe (Form, Plausibilitätsprüfung am Rezept).
+- **§ 16 ApBetrO:** Lagerung — Ordnung, Trennung, Temperaturkontrolle, Kühlkette.
 - **§ 17 ApBetrO:** Erwerb und Abgabe von Arzneimitteln.
 - **§ 18 ApBetrO:** Dokumentationspflichten Rezeptur, Defektur, BtM.
+- **§ 20 ApBetrO:** Information und Beratung beim Abgabevorgang.
+- **§ 21 ApBetrO:** Apothekenübliche Dienstleistungen (z.B. pharmazeutische Dienstleistungen).
+- **§ 25 ApBetrO:** Apothekenübliche Waren (Abgrenzungskatalog).
+- **§§ 34 ff. ApBetrO:** Krankenhausapotheken (Personal § 28, Räume § 29).
 
 ## Workflow / Schritt für Schritt
 
-1. **Räume:** Offizin mindestens 50 m², Labor mindestens 8 m², Nachtdienstraum, separates Lager, abschliessbarer BtM-Schrank.
-2. **Personal:** Apothekerleitung anwesend oder vertretungsbefugt (§ 7 ApoG, § 2 ApBetrO). PTA-Tätigkeit unter Apothekeraufsicht.
-3. **QMS:** Schriftliches QM-Handbuch, SOPs für alle relevanten Prozesse (Annahme, Lagerung, Abgabe, Beratung, Notfall, Defektur, Rezeptur, Reklamation, Rückruf).
-4. **Beratung:** Pflicht zur Information und Beratung bei jeder Abgabe (§ 20 ApBetrO). Bei Rx zusätzlich Plausibilitätsprüfung.
-5. **Dokumentation:** Prüfprotokoll für jede Rezeptur und jede Defektur. BtM-Buchführung (siehe Skill `btm-rezept-betaeubungsmittel-dokumentation`).
-6. **Lagerhaltung:** Temperaturkontrolle dokumentiert; Kühlkette nachweisbar (siehe Skill `kuehlkette-temperaturmonitoring-gdp`).
-7. **Sortiment:** Trennung Rx, OTC, apothekenpflichtig, apothekenüblich (§ 25 ApBetrO). Keine Drogeriewaren über apothekenüblichen Katalog hinaus.
-8. **Hygiene:** Reinigung dokumentiert, Hygieneplan nach RKI-Empfehlung.
+1. **Räume (§ 4 ApBetrO):** Offizin, Laboratorium, ausreichender Lagerraum und Nachtdienstzimmer; Gesamt-Grundfläche der Betriebsräume mindestens 110 Quadratmeter (§ 4 Abs. 2 Satz 3 ApBetrO). Keine fixe Einzelflächenvorgabe pro Raum; Laboratorium mit Abzug/Absaugvorrichtung. Behindertenzugang; abschliessbarer BtM-Schrank.
+2. **Personal (§ 3 ApBetrO, § 7 ApoG):** Apothekerleitung anwesend oder vertretungsbefugt. PTA-Tätigkeit unter Apothekeraufsicht; Vertretungsregelung dokumentiert.
+3. **QMS (§ 2a ApBetrO):** Schriftliches QM-Handbuch, SOPs für alle relevanten Prozesse (Annahme, Lagerung, Abgabe, Beratung, Notfall, Defektur, Rezeptur, Reklamation, Rückruf); regelmäßige Selbstinspektion.
+4. **Beratung (§ 20 ApBetrO):** Pflicht zur Information und Beratung bei jeder Abgabe. Bei Rx zusätzlich Plausibilitätsprüfung nach § 12 ApBetrO (Vollständigkeit der Verschreibung, Dosierung, Wechselwirkungen).
+5. **Dokumentation (§ 18 ApBetrO):** Prüfprotokoll für jede Rezeptur und jede Defektur. BtM-Buchführung (siehe Skill `btm-rezept-betaeubungsmittel-dokumentation`).
+6. **Lagerhaltung (§ 16 ApBetrO):** Trennung, FIFO, Temperaturkontrolle dokumentiert; Kühlkette nachweisbar (siehe Skill `kuehlkette-temperaturmonitoring-gdp`).
+7. **Sortiment (§ 25 ApBetrO):** Trennung Rx, OTC, apothekenpflichtig, apothekenüblich. Keine Drogeriewaren über apothekenüblichen Katalog hinaus.
+8. **Hygiene (§ 5 ApBetrO):** Reinigung dokumentiert, Hygieneplan nach RKI-Empfehlung.
 9. **Revisionsfähigkeit:** Alle Dokumente an einem Ort, drei Jahre Aufbewahrung (BtM zehn Jahre, § 13 BtMVV).
 
 ## Trade-off-Matrix
