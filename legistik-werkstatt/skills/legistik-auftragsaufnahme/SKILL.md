@@ -124,3 +124,15 @@ Strukturiertes Auftragsblatt als Markdown, das durch alle weiteren Skills mitgef
 3. Zeitvorgabe prüfen - oft ist eine Formulierungshilfe schneller als ein Referentenentwurf
 4. Bei parlamentarischen Vorhaben nicht Ministerium und Parlament verschmelzen: Formale Initiative, fachliche Zuarbeit und politische Verantwortung getrennt dokumentieren
 5. Bei Ländern nie mit Bundes-GGO allein arbeiten: Bundesland, Landesverfassung, Landtags-GO und Verkündungsblatt ausdrücklich abfragen
+
+## Anschluss an Ressort-Router
+
+Nach Aufnahme von Startbahn; Zielen und Eckdaten unmittelbar weiter zu **`legw-ressort-router`**.
+Dieser leitet auf den fachlich richtigen Heranfuehrungs-Skill `legw-ressort-<kuerzel>` und die
+ressorteigene Aufgaben- und Spezialkette. Ohne Ressort-Router bleibt die Materie ein blinder Fleck;
+Politikwissenschaftler bekommen erst dort das Sachfeld-Verstaendnis fuer Landwirtschaft; Chemie;
+Bauwesen; Verkehr und Co.
+
+Wenn das Vorhaben digital-tauglich werden soll (Rulemap; BMJ-Initiative; SPRIND), zusaetzlich
+Anschluss an **`legw-rmap-einstieg-und-eignung`**.
+
