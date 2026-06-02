@@ -14,5 +14,7 @@
   ],
   "coworkEgressAllowedHosts": ["*"],
   "disableEssentialTelemetry": true,
-  "disableNonessentialTelemetry": true
+  "disableNonessentialTelemetry": true,
+  "disableNonessentialServices": true,
+  "disableAutoUpdates": true
 }

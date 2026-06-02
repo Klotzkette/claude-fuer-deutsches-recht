@@ -1,8 +1,7 @@
 # Claude Cowork mit Langdock verbinden
 
-Diese Anleitung zeigt Schritt für Schritt, wie man **Claude Cowork** so einrichtet, dass die Kommunikation mit Claude
-nicht über die Server von Anthropic, sondern über **Langdock** (ein deutsches Unternehmen mit EU-Hosting)
-läuft.
+Diese Anleitung zeigt Schritt für Schritt, wie man **Claude Cowork** so einrichtet, dass die Inferenz über den
+**EU-Gateway von Langdock** (deutsches Unternehmen, EU-Hosting, stellt Berufsverschwiegenheitsvereinbarung zur Verfügung (§ 43e Abs. 3 BRAO)) läuft. Das tatsächliche Backend auf Langdock-Seite muss dafür je nach Modell und Vereinbarung **AWS Bedrock oder Google Vertex** sein. Das ist mit Langdock zwingend vor der Nutzung abzustimmen.
 
 Die Anleitung richtet sich an **nicht-technische Nutzerinnen und Nutzer**. Alle Schritte lassen sich ohne
 Programmierkenntnisse durchführen.
@@ -11,24 +10,23 @@ Programmierkenntnisse durchführen.
 
 ## Hinweise
 
-- **Claude Cowork 3P befindet sich im „Research Preview"** (https://claude.com/docs/cowork/3p/overview). Funktionen, Bezeichnungen und Verhalten können
-  sich jederzeit ändern – einzelne Schritte sehen bei dir eventuell anders aus.
-- Diese Anleitung erhebt **keinen Anspruch auf Vollständigkeit oder Richtigkeit**.
-- Sie beschreibt **nur die technische Einrichtung** und ersetzt **keine rechtliche Prüfung**. Ob der Einsatz **berufsrechts- und datenschutzkonform** ist, muss **im Einzelfall** selbst geprüft werden.
+- **Claude Cowork 3P befindet sich im [Research Preview](https://claude.com/docs/cowork/3p/overview).** Funktionen, Bezeichnungen und Verhalten können
+  sich jederzeit ändern – einzelne Schritte heißen bei dir eventuell anders.
+- Diese Anleitung erhebt **keinen Anspruch auf Vollständigkeit oder Richtigkeit**. Sie beschreibt **nur die technische Einrichtung** und ersetzt **keine rechtliche Prüfung**. Ob der Einsatz **berufsrechts- und datenschutzkonform** ist, muss **im Einzelfall** selbst geprüft werden.
 - Die folgenden Angaben beziehen sich auf **Claude Desktop unter macOS**. Unter Windows funktioniert es ebenfalls, einzelne Menüpunkte können dort aber anders heißen oder an einer anderen Stelle liegen.
 - Die mitgelieferte `langdock-cowork.config.json` ist ein **funktionierender Ausgangspunkt**, aber **kein fertiges
 Sicherheitskonzept**. Je nach **Organisation und Einsatzzweck** sind ggf. **weitere sicherheitsrelevante
 Einstellungen** sinnvoll oder erforderlich (z. B. die Egress-Freigabeliste, Telemetrie-Optionen oder
-Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, wenn diese weitergegeben wird.
+Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, wenn diese weitergegeben wird. **Egress-Freigabeliste (`coworkEgressAllowedHosts`):** In der mitgelieferten Config steht sie bewusst auf `"*"` (alle Hosts erlaubt), damit agentisches Arbeiten mit Web-Zugriff uneingeschränkt funktioniert. Eine Einschränkung dieser Liste beschneidet den Web-Zugriff und damit das agentische Arbeiten und sollte daher **unbedingt vorab mit der IT abgestimmt** werden.
 
 ---
 
 ## Voraussetzungen
 
 - **Claude Desktop** ist installiert.
-- Eine **passende Claude-Lizenz** für Cowork 3P (je nach Konstellation z. B. eine Team-Lizenz; ggf. ist die
-  Einrichtung auch mit einem Free-Account möglich – bitte im eigenen Account prüfen).
+- Eine **passende Claude-Lizenz** für Cowork 3P (je nach Konstellation z. B. eine Team-Lizenz; ggf. ist die Einrichtung auch mit einem Free-Account möglich – bitte im eigenen Account prüfen).
 - Ein **Langdock-Account** mit **passender Lizenz** für den API-Zugang (in der Regel eine Business-Lizenz).
+- Mit Langdock muss – **zusätzlich** zu den Verträgen und dem **Auftragsverarbeitungsvertrag (AVV) einschließlich Begleitdokumenten** – eine **Zusatzvereinbarung zur Wahrung der anwaltlichen Verschwiegenheitspflicht** nach **§ 43e Abs. 3 BRAO i. V. m. § 203 Abs. 4 StGB** geschlossen werden.
 - Die Datei **`langdock-cowork.config.json`** aus diesem Ordner.
 
 ---
@@ -77,6 +75,4 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
   Limits gibt es laut Langdock nur über **Enterprise-Konditionen auf Anfrage**.
 - **Kosten:** Die Nutzung über die API wird **nach Verbrauch** (pro Token) abgerechnet – anders als bei den
   klassischen Anthropic-Lizenzen.
-- **Keine echten Mandantendaten** zum Ausprobieren verwenden. Vor produktivem Einsatz mit Langdock einen
-  **Auftragsverarbeitungsvertrag (AVV)** und eine **Verschwiegenheitsverpflichtung**
-  (§ 43e BRAO i. V. m. § 203 Abs. 4 StGB) abschließen.
+- **Telemetrie:** Die mitgelieferte Config setzt `disableEssentialTelemetry`, `disableNonessentialTelemetry`, `disableNonessentialServices` und `disableAutoUpdates` auf `true`. Damit gehen keine routinemäßigen Telemetrie- und Update-Calls an Anthropic. Konversations-Inhalte selbst laufen über den Langdock-Gateway zum jeweiligen Backend (Bedrock / Vertex).
