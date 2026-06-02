@@ -38,25 +38,33 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
 1. Bei **Langdock** einloggen.
 2. In der Seitenleiste oben die **Workspace Settings** (Workspace-Einstellungen) öffnen.
 3. Dort (ebenfalls in der Seitenleiste) unter **„Products"** auf **„API"** klicken.
-4. Auf **„Create API Key"** klicken. Den erzeugten Key **kopieren** und **sicher aufbewahren**. Du brauchst ihn gleich in Teil 3.
+4. Auf **„Create API Key"** klicken. Den erzeugten Key **kopieren** und **sicher aufbewahren**. Du brauchst ihn gleich in Teil 4.
 
 ---
 
-## Teil 2 – In Claude Cowork: Entwicklermenü aktivieren
+## Teil 2 – In Langdock: Modelle freischalten
 
-5. Claude Cowork öffnen und oben auf **„Hilfe" → „Fehlerbehebung" → „Entwicklermenü einschalten"** klicken.
-6. Claude Cowork einmal **neu starten**, damit das Menü erscheint.
+5. In der Seitenleiste oben die **Workspace Settings** (Workspace-Einstellungen) öffnen.
+6. Dort auf **„Workspace of Models"** gehen.
+7. Unter **„Hosted in the EU"** auf den Reiter **„Anthropic"** klicken und die **Anthropic-Modelle aktivieren**.
 
 ---
 
-## Teil 3 – Konfiguration importieren
+## Teil 3 – In Claude Cowork: Entwicklermenü aktivieren
 
-7. In der Menüleiste den Reiter **„Entwickler"** öffnen und auf **„Drittanbieter-Inferenz konfigurieren…"** klicken.
-8. Im sich öffnenden Fenster oben rechts auf das **Konfigurations-Auswahlfeld** klicken und **„Konfiguration importieren…"** wählen.
-9. Die Datei **`langdock-cowork.config.json`** auswählen (Die Datei befindet sich hier im Repository und muss vorher auf Deinem Laptop heruntergeladen werden).
-10. Den **Langdock-API-Key** aus Teil 1 einfügen.
-11. Auf **„Verbindung testen"** klicken. Wenn alles stimmt, wird die Verbindung als erfolgreich bestätigt.
-12. Auf **„Änderungen übernehmen"** klicken.
+8. Claude Cowork öffnen und oben auf **„Hilfe" → „Fehlerbehebung" → „Entwicklermenü einschalten"** klicken.
+9. Claude Cowork einmal **neu starten**, damit das Menü erscheint.
+
+---
+
+## Teil 4 – Konfiguration importieren
+
+10. In der Menüleiste den Reiter **„Entwickler"** öffnen und auf **„Drittanbieter-Inferenz konfigurieren…"** klicken.
+11. Im sich öffnenden Fenster oben rechts auf das **Konfigurations-Auswahlfeld** klicken und **„Konfiguration importieren…"** wählen.
+12. Die Datei **`langdock-cowork.config.json`** auswählen (Die Datei befindet sich hier im Repository und muss vorher auf Deinem Laptop heruntergeladen werden).
+13. Den **Langdock-API-Key** aus Teil 1 einfügen.
+14. Auf **„Verbindung testen"** klicken. Wenn alles stimmt, wird die Verbindung als erfolgreich bestätigt.
+15. Auf **„Änderungen übernehmen"** klicken.
 
 **Fertig!** Du kannst in Claude Cowork jetzt oben das gewünschte Modell auswählen und loslegen.
 
