@@ -1,13 +1,13 @@
 ---
 name: nkr-digitalcheck-und-onlinezugangsgesetz-ozg
-description: "Spezialskill OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die seit 2022 eingefuehrte Digitalcheck-Methodik fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme."
+description: "Spezialskill OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme."
 ---
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
 
 ## Worum geht es konkret
 
-Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Laender, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI/NKR seit 2022) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral fuer die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
+Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Laender, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemaess § 9 NKRG) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral fuer die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
@@ -21,10 +21,12 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 ## Rechtlicher und methodischer Rahmen
 
 - **Onlinezugangsgesetz (OZG)** in der jeweils geltenden Fassung (urspruenglich vom 14.08.2017; OZG 2.0 / Folgeregulierung Stand vom Anwender zu verifizieren)
-- **Digitalcheck-Methodik** (BMI / NKR, seit 2022, jeweils aktuelle Fassung)
+- **Digitalcheck-Methodik** (BMI / NKR, jeweils aktuelle Fassung)
+- **§ 4 Abs. 3 NKRG** — Digitalcheck als Pruefungsbestandteil (Pruefung der Moeglichkeiten digitaler Ausfuehrung)
+- **§ 9 NKRG** — § 4 Abs. 3 NKRG ist **ab dem 1. Januar 2023 anzuwenden** (Uebergangsregelung)
 - **eIDAS-Verordnung (EU) 910/2014** in der jeweils geltenden Fassung
 - **EU Single Digital Gateway-VO (EU) 2018/1724** (Once-Only auf EU-Ebene)
-- **§ 44 GGO**, **NKRG** § 4
+- **§ 44 GGO**, **NKRG** § 4 (Pruefungsgegenstand)
 - **Standards XOEV, FIM, ELSTER, beA**
 
 ## OZG-Grundbegriffe
@@ -132,9 +134,9 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 ## Quellen Stand 06/2026
 
 - Onlinezugangsgesetz (OZG) vom 14.08.2017 in der jeweils geltenden Fassung; OZG-Folgeregulierung Stand vom Anwender zu verifizieren
-- Digitalcheck-Methodik (BMI / NKR, seit 2022, jeweils aktuelle Fassung)
+- Digitalcheck-Methodik (BMI / NKR, jeweils aktuelle Fassung)
 - eIDAS-Verordnung (EU) 910/2014 in der jeweils geltenden Fassung
 - EU Single Digital Gateway-VO (EU) 2018/1724
-- § 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
+- § 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4 Abs. 3 (Digitalcheck) i.V.m. § 9 (Anwendbarkeit ab 1. Januar 2023)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

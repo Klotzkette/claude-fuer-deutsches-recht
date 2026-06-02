@@ -1,6 +1,6 @@
 ---
 name: nkr-zusammenarbeit-mit-bundesregierung-und-ressorts
-description: "Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundeskanzleramt. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail."
+description: "Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail."
 ---
 
 # NKR-Zusammenarbeit mit Bundesregierung und Ressorts
@@ -20,8 +20,9 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 ## Rechtlicher und methodischer Rahmen
 
+- **§ 1 NKRG** — Einsetzung beim Bundesministerium der Justiz (BMJ); unabhaengig nach § 1 Abs. 2
+- **§ 3 NKRG** — Geschaeftsstelle des NKR ist beim BMJ angesiedelt; Rechtsaufsicht beim BMJ
 - **§ 5 NKRG** — Auskunfts- und Akteneinsichtsrecht
-- **§ 8 NKRG** — Sekretariat als Geschaeftsstelle
 - **§ 62 GGO** — Pflicht zur NKR-Befassung
 - **GGO § 22, § 23** — Ressortabstimmung allgemein
 - Geschaeftsordnung des NKR (intern)
@@ -50,7 +51,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 - Wenn auch Unterabteilung nicht reagiert
 - Schreiben an Abteilungs- oder Staatssekretaersebene
-- Information an Bundeskanzleramt (institutionelle Anbindung des NKR)
+- Information an das **Bundesministerium der Justiz (BMJ)** als institutionelle Anbindung des NKR (§ 1, § 3 NKRG); ggf. parallel Hinweis an das Bundeskanzleramt im Rahmen der allgemeinen Kabinettsbefassung
 
 ### Stufe 5 — Negative Stellungnahme
 
@@ -72,7 +73,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 | Niedrig (Verstaendnisfrage) | Telefon Referent zu Referent | gering |
 | Mittel (Datenluecke) | Schriftliche Nachfrage | gering |
 | Hoch (Verweigerung) | Eskalation Abteilung / Staatssekretaer | mittel |
-| Sehr hoch (institutionell) | Information Kanzleramt, harte Stellungnahme | hoch — politisch |
+| Sehr hoch (institutionell) | Information BMJ (institutionelle Anbindung NKR), harte Stellungnahme; ggf. flankierend Kabinettsebene | hoch — politisch |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
@@ -102,7 +103,7 @@ In der Stellungnahme:
 
 ## Quellen Stand 06/2026
 
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 5, 6, 8
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 3, 5, 6
 - §§ 22, 23, 47, 62 GGO
 - Geschaeftsordnung des NKR (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)

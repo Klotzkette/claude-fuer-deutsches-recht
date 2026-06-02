@@ -1,6 +1,6 @@
 ---
 name: nkr-aufgabe-und-kompetenz-nkrg
-description: "Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung."
+description: "Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung."
 ---
 
 # NKR-Aufgabe und Kompetenz nach NKRG
@@ -22,14 +22,14 @@ Eine Rueckfrage nur dann, wenn der konkrete Bezug unklar ist: *"Welcher Vorgang 
 
 **Gesetz ueber die Einsetzung eines Nationalen Normenkontrollrats (NKRG) vom 14.08.2006, BGBl. I S. 1866** in der jeweils geltenden Fassung. Kernregelungen:
 
-- **§ 1 NKRG** — Einsetzung als unabhaengiges Gremium beim Bundeskanzleramt
-- **§ 2 NKRG** — Zusammensetzung (10 ehrenamtliche Mitglieder, Berufung auf 5 Jahre)
-- **§ 3 NKRG** — Unabhaengigkeit; nur dem Gesetz unterworfen
-- **§ 4 NKRG** — Pruefungsgegenstand: Darstellung des Erfuellungsaufwands neuer Regelungsvorhaben
+- **§ 1 NKRG** — Einsetzung beim **Bundesministerium der Justiz (BMJ)** mit Dienstsitz in Berlin; nur an den durch das NKRG begruendeten Auftrag gebunden und in seiner Taetigkeit unabhaengig (§ 1 Abs. 2); Pruefung der Darstellung des Erfuellungsaufwands auf Nachvollziehbarkeit und Methodengerechtigkeit (§ 1 Abs. 3)
+- **§ 2 NKRG** — Erfuellungsaufwand: gesamter messbarer Zeitaufwand und Kosten fuer Buerger, Wirtschaft und Verwaltung; Buerokratiekosten als Teilmenge; methodische Grundlage Standardkostenmodell (SKM)
+- **§ 3 NKRG** — Zusammensetzung: 10 ehrenamtliche Mitglieder; Vorschlag durch das BMJ, Berufung durch den Bundespraesidenten; Amtszeit 5 Jahre, einmalige Wiederberufung moeglich; Vorsitz und stellvertretender Vorsitz werden vom BMJ bestimmt; Rechtsaufsicht liegt beim BMJ; Geschaeftsstelle (Sekretariat) ist beim BMJ angesiedelt; Bund traegt die Kosten
+- **§ 4 NKRG** — Pruefungsgegenstand: Darstellung des Erfuellungsaufwands neuer Regelungsvorhaben; **§ 4 Abs. 3 NKRG** — Digitalcheck (Pruefung der Moeglichkeiten digitaler Ausfuehrung)
 - **§ 5 NKRG** — Auskunfts- und Akteneinsichtsrecht gegenueber den Ressorts
 - **§ 6 NKRG** — Stellungnahme als formelle Aeusserung; Vorlage an Bundesregierung und Bundestag
 - **§ 7 NKRG** — Jahresbericht
-- **§ 8 NKRG** — Sekretariat (Geschaeftsstelle beim Bundeskanzleramt)
+- **§ 9 NKRG** — § 4 Abs. 3 (Digitalcheck) ist ab dem **1. Januar 2023** anzuwenden
 
 Ergaenzend: **§ 44 GGO** (Pruefung der Gesetzesfolgen), **§ 45 GGO** (Erfuellungsaufwand-Darstellung), **§ 62 Abs. 1 GGO** (NKR-Befassungspflicht vor Kabinettsbefassung).
 
@@ -69,7 +69,7 @@ Hier dient die NKR-Sicht der Selbstvergewisserung der Institution:
 |---|---|
 | Ressort liefert vollstaendig | Sachpruefung |
 | Ressort liefert luckenhaft | Nachforderung |
-| Ressort verweigert | § 5 NKRG, ggf. Eskalation an Kanzleramt |
+| Ressort verweigert | § 5 NKRG, ggf. Eskalation an das BMJ (institutionelle Anbindung NKR) |
 | Vorhaben politisch heikel, methodisch sauber | NKR aeussert nur Methodik |
 | Vorhaben methodisch sauber, Vollzug unpraktikabel | NKR aeussert sich zu Praktikabilitaet |
 
@@ -84,6 +84,7 @@ Hier dient die NKR-Sicht der Selbstvergewisserung der Institution:
 - Fehlhinweise auf "vorlaeufige NKR-Befassung" (es gibt nur die foermliche)
 - Annahme, NKR pruefe Verfassungsmaessigkeit (das pruefen BMJ-Rechtsabteilung und ggf. BVerfG)
 - Annahme, NKR pruefe Kosten fuer den Bundeshaushalt (das ist BMF und Bundesrechnungshof)
+- Veraltete Angabe "NKR sitzt beim Bundeskanzleramt" — NKR ist nach § 1 NKRG **beim BMJ** eingerichtet, Geschaeftsstelle beim BMJ (§ 3 NKRG); Unabhaengigkeit nach § 1 Abs. 2 NKRG bleibt davon unberuehrt
 
 ## Querverweise
 
