@@ -1,0 +1,74 @@
+# Claude Cowork mit Langdock verbinden
+
+Diese Anleitung zeigt Schritt für Schritt, wie man **Claude Cowork** so einrichtet, dass die Kommunikation mit Claude
+nicht über die Server von Anthropic, sondern über **Langdock** (ein deutsches Unternehmen mit EU-Hosting)
+läuft.
+
+Die Anleitung richtet sich an **nicht-technische Nutzerinnen und Nutzer**. Alle Schritte lassen sich ohne
+Programmierkenntnisse durchführen.
+
+---
+
+## Hinweise
+
+- **Claude Cowork 3P befindet sich im „Research Preview"** (https://claude.com/docs/cowork/3p/overview). Funktionen, Bezeichnungen und Verhalten können
+  sich jederzeit ändern – einzelne Schritte sehen bei dir eventuell anders aus.
+- Diese Anleitung erhebt **keinen Anspruch auf Vollständigkeit oder Richtigkeit**.
+- Sie beschreibt **nur die technische Einrichtung** und ersetzt **keine rechtliche Prüfung**. Ob der Einsatz **berufsrechts- und datenschutzkonform** ist, muss **im Einzelfall** selbst geprüft werden.
+- Die folgenden Angaben beziehen sich auf **Claude Desktop unter macOS**. Unter Windows funktioniert es ebenfalls, einzelne Menüpunkte können dort aber anders heißen oder an einer anderen Stelle liegen.
+- Die mitgelieferte `langdock-cowork.config.json` ist ein **funktionierender Ausgangspunkt**, aber **kein fertiges
+Sicherheitskonzept**. Je nach **Organisation und Einsatzzweck** sind ggf. **weitere sicherheitsrelevante
+Einstellungen** sinnvoll oder erforderlich (z. B. die Egress-Freigabeliste, Telemetrie-Optionen oder
+Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, wenn diese weitergegeben wird.
+
+---
+
+## Voraussetzungen
+
+- **Claude Desktop** ist installiert.
+- Eine **passende Claude-Lizenz** für Cowork 3P (je nach Konstellation z. B. eine Team-Lizenz; ggf. ist die
+  Einrichtung auch mit einem Free-Account möglich – bitte im eigenen Account prüfen).
+- Ein **Langdock-Account** mit **passender Lizenz** für den API-Zugang (in der Regel eine Business-Lizenz).
+- Die Datei **`langdock-cowork.config.json`** aus diesem Ordner.
+
+---
+
+## Teil 1 – In Langdock: API-Key erstellen
+
+1. Bei **Langdock** einloggen.
+2. In der Seitenleiste oben die **Workspace Settings** (Workspace-Einstellungen) öffnen.
+3. Dort (ebenfalls in der Seitenleiste) unter **„Products"** auf **„API"** klicken.
+4. Auf **„Create API Key"** klicken. Den erzeugten Key **kopieren** und **sicher aufbewahren**. Du brauchst ihn gleich in Teil 3.
+
+---
+
+## Teil 2 – In Claude Cowork: Entwicklermenü aktivieren
+
+5. Claude Cowork öffnen und oben auf **„Hilfe" → „Fehlerbehebung" → „Entwicklermenü einschalten"** klicken.
+6. Claude Cowork einmal **neu starten**, damit das Menü erscheint.
+
+---
+
+## Teil 3 – Konfiguration importieren
+
+7. In der Menüleiste den Reiter **„Entwickler"** öffnen und auf **„Drittanbieter-Inferenz konfigurieren…"** klicken.
+8. Im sich öffnenden Fenster oben rechts auf das **Konfigurations-Auswahlfeld** klicken und **„Konfiguration importieren…"** wählen.
+9. Die Datei **`langdock-cowork.config.json`** auswählen (Die Datei befindet sich hier im Repository und muss vorher auf Deinem Laptop heruntergeladen werden).
+10. Den **Langdock-API-Key** aus Teil 1 einfügen.
+11. Auf **„Verbindung testen"** klicken. Wenn alles stimmt, wird die Verbindung als erfolgreich bestätigt.
+12. Auf **„Änderungen übernehmen"** klicken.
+
+**Fertig!** Du kannst in Claude Cowork jetzt oben das gewünschte Modell auswählen und loslegen.
+
+---
+
+## Gut zu wissen
+
+- **Geschwindigkeitslimit:** Die Standard-API von Langdock erlaubt **60.000 Tokens pro Minute**. Für intensives,
+  mehrschrittiges („agentisches") Arbeiten ist das zu wenig – dann erscheint eine Limit-Meldung. Höhere
+  Limits gibt es laut Langdock nur über **Enterprise-Konditionen auf Anfrage**.
+- **Kosten:** Die Nutzung über die API wird **nach Verbrauch** (pro Token) abgerechnet – anders als bei den
+  klassischen Anthropic-Lizenzen.
+- **Keine echten Mandantendaten** zum Ausprobieren verwenden. Vor produktivem Einsatz mit Langdock einen
+  **Auftragsverarbeitungsvertrag (AVV)** und eine **Verschwiegenheitsverpflichtung**
+  (§ 43e BRAO i. V. m. § 203 Abs. 4 StGB) abschließen.

@@ -1,0 +1,18 @@
+{
+  "inferenceProvider": "gateway",
+  "inferenceGatewayBaseUrl": "https://api.langdock.com/anthropic/eu",
+  "inferenceGatewayApiKey": "DEIN_LANGDOCK_API_KEY_HIER",
+  "inferenceGatewayAuthScheme": "bearer",
+  "inferenceModels": [
+    { "name": "claude-sonnet-4-6-default" },
+    { "name": "claude-opus-4-8-default" },
+    { "name": "claude-opus-4-7-default" },
+    { "name": "claude-opus-4-6-default" },
+    { "name": "claude-opus-4-5-20251101" },
+    { "name": "claude-sonnet-4-5-20250929" },
+    { "name": "claude-haiku-4-5-20251001" }
+  ],
+  "coworkEgressAllowedHosts": ["*"],
+  "disableEssentialTelemetry": true,
+  "disableNonessentialTelemetry": true
+}
