@@ -25,7 +25,9 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 - BGB § 1004 analog - Unterlassungs- und Beseitigungsanspruch.
 - UrhG § 14 - Recht des Urhebers auf Schutz vor Entstellung des Werks (bei eigenmaechtiger Aenderung).
 - UrhG §§ 97, 97a - Schadensersatz, Abmahnung.
-- DDG § 7 i.V.m. DSA Art. 4-8 (Mere Conduit, Caching, Hosting, freiwillige Untersuchungen, kein allgemeines Monitoring) - Haftungsprivilegien fuer Diensteanbieter; DDG § 8 - Sondervorschrift WLAN-Betreiber. Hinweis: Das TMG ist seit Mai 2024 durch DDG plus DSA abgeloest.
+- DDG § 7 Abs. 1 i.V.m. DSA Art. 4-8 (Mere Conduit, Caching, Hosting, freiwillige Untersuchungen, kein allgemeines Monitoring) - beschraenkte Verantwortlichkeit der Diensteanbieter; DDG § 7 Abs. 2 - Sondervorschrift fuer WLAN-Anbieter (keine behoerdliche Pflicht zu Registrierung oder Passwortabfrage).
+- DDG § 8 - Anspruch auf Sperrung bei Rechtsverletzung: Inhaber eines Rechts am geistigen Eigentum kann vom Diensteanbieter die Sperrung verlangen, wenn keine andere Abhilfemoeglichkeit besteht; Sperrung muss zumutbar und verhaeltnismaessig sein; Kostenerstattung nur bei vorsaetzlichem Zusammenwirken. Verpflichtungen zur Entfernung oder Sperrung nach allgemeinen Gesetzen auf Grund gerichtlicher oder behoerdlicher Anordnungen bleiben unberuehrt (§ 8 Abs. 4 DDG).
+- Hinweis: Das TMG ist seit Mai 2024 durch DDG plus DSA abgeloest.
 - UWG §§ 5, 5a - Irrefuehrung; bei Werbeaussagen relevant.
 - Aeusserungsrecht: BVerfG-Rechtsprechung zu Werturteil vs. Tatsachenbehauptung (zu pruefen unter bundesverfassungsgericht.de).
 - BGB § 314 - Kuendigung aus wichtigem Grund (bei Aufnahmevertrag mit Autor).
@@ -160,6 +162,6 @@ Mit freundlichen Gruessen
 
 - BGB §§ 823, 824, 1004 (analog) - Schadensersatz, Kreditgefaehrdung, Beseitigung.
 - UrhG §§ 14, 97, 97a - Werkschutz, Schadensersatz, Abmahnung.
-- DDG § 7 i.V.m. DSA Art. 4-8 - Haftungsprivilegien Diensteanbieter; DDG § 8 - WLAN-Sondervorschrift.
+- DDG § 7 i.V.m. DSA Art. 4-8 - beschraenkte Verantwortlichkeit Diensteanbieter; § 7 Abs. 2 DDG - WLAN-Sondervorschrift; DDG § 8 - Anspruch auf Sperrung bei Rechtsverletzung an geistigem Eigentum.
 - UWG §§ 5, 5a - Irrefuehrung.
 - Aktuelle BVerfG-Rechtsprechung zur Abwaegung Meinungsfreiheit/Persoenlichkeitsrecht (bundesverfassungsgericht.de).
