@@ -1,6 +1,5 @@
 # US-Copyright-Registrierung für deutsche Verlage
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 

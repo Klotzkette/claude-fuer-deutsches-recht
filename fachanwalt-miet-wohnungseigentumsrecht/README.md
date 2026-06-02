@@ -19,19 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt** (`eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt`) | [Gesamt-PDF lesen](../testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e, jetzt als großer Praxis-Kompass mit über 200 Skills: Wohnraummiete, Gewerberaummiete, Betriebskosten, Heizkosten, CO2-Kosten, Kündigung, Räumung, Mängel, Modernisierung, Mietpreisbremse, Kaution, WEG-Beschlüsse, Hausverwaltung, bauliche Veränderungen, GEG/Wärmepumpe, E-Ladung, Photovoltaik, Protokolle, Beweise, Fristen und Schriftsatz-/Beschlussentwürfe. Der Einstiegsskill routet Laien, Berufsanfänger und erfahrene Praktiker in den passenden Workflow.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
