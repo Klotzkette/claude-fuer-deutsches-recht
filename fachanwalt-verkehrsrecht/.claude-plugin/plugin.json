@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-verkehrsrecht",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {

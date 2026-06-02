@@ -1,6 +1,6 @@
 {
   "name": "strafzumessung",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.",
   "license": "Apache-2.0 OR MIT",
   "author": {

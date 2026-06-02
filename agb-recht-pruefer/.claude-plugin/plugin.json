@@ -1,6 +1,6 @@
 {
   "name": "agb-recht-pruefer",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.",
   "license": "Apache-2.0 OR MIT",
   "author": {

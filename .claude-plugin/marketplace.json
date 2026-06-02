@@ -13,7 +13,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "aktenaufbereiter-strafrecht",
@@ -22,13 +22,13 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "aktenauszug-gerichtsverfahren",
       "source": "./aktenauszug-gerichtsverfahren",
       "description": "Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten.",
-      "version": "58.0.0",
+      "version": "59.0.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -40,7 +40,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "apothekenrecht",
@@ -49,7 +49,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "arbeitsrecht",
@@ -58,7 +58,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "arbeitszeugnis-analyse",
@@ -67,7 +67,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "aussenwirtschaft-zoll-sanktionen",
@@ -76,7 +76,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bank-rechtsabteilung",
@@ -85,7 +85,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "barrierefreiheit-web-checker",
@@ -94,7 +94,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bav-strategie-konzern",
@@ -103,7 +103,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bereicherungs-und-anfechtungsrecht-pruefer",
@@ -112,7 +112,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "berufsrecht-ki-vertragspruefung",
@@ -121,7 +121,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "betreuungsrecht",
@@ -130,7 +130,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bgb-at-pruefer",
@@ -139,7 +139,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bgb-bt-pruefer",
@@ -148,7 +148,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "buerokratieversteher-entbuerokratisierer",
@@ -157,7 +157,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bundesnetzagentur-verfahren",
@@ -166,7 +166,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "bundeswehrrecht-wehrrecht",
@@ -175,7 +175,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "commercial-courts-deutschland",
@@ -184,7 +184,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "common-law-kompass",
@@ -193,7 +193,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "corporate-kanzlei",
@@ -202,7 +202,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "datenschutzrecht",
@@ -211,7 +211,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "dfg-foerderantrag",
@@ -220,7 +220,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "dsa-dma-digitalregulierung",
@@ -229,7 +229,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "ecommerce-recht",
@@ -238,7 +238,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "einfache-leichte-sprache-jura",
@@ -247,7 +247,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "email-umformulierer-berufsrecht",
@@ -256,7 +256,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "energierecht",
@@ -265,7 +265,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "europarecht-kompass",
@@ -274,7 +274,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-agrarrecht",
@@ -283,7 +283,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-arbeitsrecht",
@@ -292,7 +292,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-bank-kapitalmarktrecht",
@@ -301,7 +301,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-bau-architektenrecht",
@@ -310,7 +310,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-erbrecht",
@@ -319,7 +319,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-familienrecht",
@@ -328,7 +328,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-gewerblicher-rechtsschutz",
@@ -337,7 +337,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-handels-gesellschaftsrecht",
@@ -346,7 +346,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-insolvenz-sanierungsrecht",
@@ -355,7 +355,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-internationales-wirtschaftsrecht",
@@ -364,7 +364,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-it-recht",
@@ -373,7 +373,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-medizinrecht",
@@ -382,7 +382,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-miet-wohnungseigentumsrecht",
@@ -391,7 +391,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-migrationsrecht",
@@ -400,7 +400,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-sozialrecht",
@@ -409,7 +409,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-sportrecht",
@@ -418,7 +418,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-strafrecht",
@@ -427,7 +427,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-transport-speditionsrecht",
@@ -436,7 +436,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-urheber-medienrecht",
@@ -445,7 +445,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-vergaberecht",
@@ -454,7 +454,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-verkehrsrecht",
@@ -463,7 +463,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-versicherungsrecht",
@@ -472,7 +472,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fachanwalt-verwaltungsrecht",
@@ -481,7 +481,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "factoring-recht",
@@ -490,7 +490,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fluggastrechte",
@@ -499,7 +499,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "forderungsmanagement-klagewerkstatt",
@@ -508,7 +508,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "forschungszulage-antragstellung",
@@ -517,7 +517,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "fortbestehensprognose",
@@ -526,7 +526,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "geldwaeschepraevention-aml-kyc",
@@ -535,7 +535,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "gesellschaftsgruender",
@@ -544,7 +544,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "gesellschaftsrecht",
@@ -553,7 +553,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "gesellschaftsrecht-legal-english",
@@ -562,7 +562,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "gewerblicher-rechtsschutz",
@@ -571,7 +571,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "goae-gebuehrenordnung-aerzte",
@@ -580,7 +580,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "grosskanzlei-corporate-ma",
@@ -589,7 +589,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "handelsrecht-hgb",
@@ -598,7 +598,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "hausarbeitenmacher",
@@ -607,7 +607,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "immobilienrechtspraxis",
@@ -616,7 +616,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "insolvenzforderungsanmeldungspruefung",
@@ -625,7 +625,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "insolvenzplan-starug-planwerkstatt",
@@ -634,7 +634,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "insolvenzrecht",
@@ -643,7 +643,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "insolvenzverwaltung",
@@ -652,7 +652,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "jurastudium",
@@ -661,7 +661,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "juristische-sprache-deutsch-als-zweitsprache",
@@ -670,7 +670,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "jveg-kostenpruefer",
@@ -679,7 +679,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "kanzlei-allgemein",
@@ -688,7 +688,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "kanzlei-builder-hub",
@@ -697,12 +697,12 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "kartellrecht-marktabgrenzung-pruefung",
       "source": "./kartellrecht-marktabgrenzung-pruefung",
-      "version": "58.0.0",
+      "version": "59.0.0",
       "description": "Kritische kartellrechtliche Pruefinstanz fuer Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsumstellung, raeumlicher Markt, Evidenz, Konsistenz, Red Flags und Marktbeherrschung. Rechtsprechung nur nach Live-Verifikation.",
       "author": {
         "name": "Klotzkette"
@@ -715,7 +715,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "ki-richtlinie-kanzleien",
@@ -724,7 +724,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "ki-vo-ai-act-pruefer",
@@ -733,7 +733,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "krankenhausrecht",
@@ -742,7 +742,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "krisenfrueherkennung-starug",
@@ -751,14 +751,14 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "legistik-werkstatt",
       "source": "./legistik-werkstatt",
       "description": "Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.",
       "category": "verwaltung",
-      "version": "58.0.0",
+      "version": "59.0.0",
       "tags": [
         "legistik",
         "gesetzgebung",
@@ -780,7 +780,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "lobbyregister-bundestag",
@@ -789,7 +789,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "mandantenanfragen-assistent",
@@ -798,7 +798,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "markenrecht-fashion-luxus",
@@ -807,7 +807,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "meinungspruefer",
@@ -816,7 +816,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "memorandums-ersteller",
@@ -825,7 +825,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "methodenlehre-buergerliches-recht",
@@ -834,7 +834,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "mietrecht",
@@ -843,7 +843,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "mittelstand-corporate-ma",
@@ -852,7 +852,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "nachbarschaftsstreit-pruefer",
@@ -861,7 +861,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "nda-abgleich",
@@ -870,7 +870,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "normenkontrolle-bauleitplanung",
@@ -879,7 +879,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "normenkontrollrat-nkr",
@@ -888,7 +888,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "parteienrecht-parteiorganisation",
@@ -897,7 +897,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "patentrecherche",
@@ -906,7 +906,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "patentrecht",
@@ -915,7 +915,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "phishing-vorfall-pruefer",
@@ -924,7 +924,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "private-equity-praxis",
@@ -933,7 +933,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "produktrecht",
@@ -942,7 +942,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "prozessrecht",
@@ -951,7 +951,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "rechtsberatungsstelle",
@@ -960,7 +960,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "regulatorisches-recht",
@@ -969,7 +969,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "robotik-recht",
@@ -978,7 +978,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "schriftform-und-textform-bgb",
@@ -987,7 +987,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "selbstvertreter-amtsgericht",
@@ -996,7 +996,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "selbstvertreter-sozialgericht",
@@ -1005,7 +1005,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "steuerrecht-anwalt-und-berater",
@@ -1014,7 +1014,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "strafbefehl-verteidiger",
@@ -1023,7 +1023,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "strafzumessung",
@@ -1032,7 +1032,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "subsumtions-pruefer",
@@ -1041,7 +1041,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "tabellenreview-3d",
@@ -1050,7 +1050,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "umweltrecht",
@@ -1059,13 +1059,13 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "urteilsbauer-relationsmacher",
       "source": "./urteilsbauer-relationsmacher",
       "description": "Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.",
-      "version": "58.0.0",
+      "version": "59.0.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1077,7 +1077,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "verfassungsrecht",
@@ -1086,7 +1086,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "verkehr-infrastrukturrecht",
@@ -1095,7 +1095,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "verkehrsowi-verteidiger",
@@ -1104,7 +1104,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "verlagsredaktion",
@@ -1113,7 +1113,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "vertragsausfueller",
@@ -1122,7 +1122,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "vertragsrecht",
@@ -1131,7 +1131,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "wandeldarlehen-lebenszyklus",
@@ -1140,7 +1140,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "weg-hausverwaltung",
@@ -1149,7 +1149,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
@@ -1158,7 +1158,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "zitierweise-deutsches-recht",
@@ -1167,7 +1167,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "zwangsverwaltung-zvg",
@@ -1176,7 +1176,7 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     },
     {
       "name": "zwangsvollstreckung",
@@ -1185,8 +1185,8 @@
       "author": {
         "name": "Klotzkette"
       },
-      "version": "58.0.0"
+      "version": "59.0.0"
     }
   ],
-  "version": "58.1.0"
+  "version": "59.0.0"
 }

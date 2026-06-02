@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-sozialrecht",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.",
   "license": "Apache-2.0 OR MIT",
   "author": {

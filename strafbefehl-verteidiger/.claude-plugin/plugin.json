@@ -1,6 +1,6 @@
 {
   "name": "strafbefehl-verteidiger",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

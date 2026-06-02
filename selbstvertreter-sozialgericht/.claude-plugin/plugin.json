@@ -1,6 +1,6 @@
 {
   "name": "selbstvertreter-sozialgericht",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat, Berufung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

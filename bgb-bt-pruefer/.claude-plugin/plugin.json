@@ -1,7 +1,7 @@
 {
   "name": "bgb-bt-pruefer",
   "displayName": "BGB BT Prüfer",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf, Miete, Pacht, Leihe, Darlehen, Dienst, Werk, Bau, Reise, Makler, Auftrag, Geschäftsbesorgung, Bürgschaft, Schuldversprechen, GoA, Bereicherung, Delikt und Rückabwicklung.",
   "author": {
     "name": "Klotzkette"

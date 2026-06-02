@@ -1,6 +1,6 @@
 {
   "name": "selbstvertreter-amtsgericht",
-  "version": "58.0.0",
+  "version": "59.0.0",
   "description": "Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
