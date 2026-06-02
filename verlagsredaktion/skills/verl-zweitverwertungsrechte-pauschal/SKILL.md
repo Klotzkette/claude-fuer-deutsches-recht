@@ -21,8 +21,8 @@ Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinste
 
 ## Rechtlicher und sachlicher Rahmen
 
-- UrhG § 38 - Zeitschriftenbeitrag: ausschliessliches Vervielfaeltigungs- und Verbreitungsrecht des Verlags 12 Monate; Sammelwerk fuer Lehrbuch 1 Jahr; danach Zweitverwertungsrecht der Autorin (nicht-kommerziell).
-- UrhG § 38 Abs. 4 - Zweitverwertungsrecht bei oeffentlich gefoerderten wissenschaftlichen Beitraegen nach 12 Monaten in akzeptierter Manuskriptfassung (Open Access).
+- UrhG § 38 Abs. 1 - Zeitschriftenbeitrag: ausschliessliches Vervielfaeltigungs- und Verbreitungsrecht des Verlags fuer ein Jahr nach Erscheinen; danach darf der Autor den Beitrag anderweitig vervielfaeltigen und verbreiten (keine gesetzliche Beschraenkung auf nicht-kommerzielle Nutzung), soweit nichts anderes vereinbart ist.
+- UrhG § 38 Abs. 4 - Open-Access-Zweitverwertungsrecht: nur bei wissenschaftlichen Beitraegen aus oeffentlich gefoerderter Forschungstaetigkeit; nach Ablauf von zwoelf Monaten seit Erstveroeffentlichung; in der akzeptierten Manuskriptfassung; ausschliesslich zu nicht-kommerziellen Zwecken; entgegenstehende Vereinbarungen sind unwirksam.
 - UrhG § 31 - Einraeumung von Nutzungsrechten; § 31a - unbekannte Nutzungsarten; § 40a - 10-Jahres-Klausel.
 - UrhG § 32 - Verguetung; § 32a - Bestsellerklausel; § 32d - Auskunft.
 - VerlG §§ 28, 29 - Verlagsrechte und ihr Ende.
@@ -30,7 +30,7 @@ Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinste
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Vertragsstand pruefen.** Welche Nebenrechte sind dem Verlag eingeraeumt? Schriftform fuer unbekannte Nutzungsarten beachten.
-2. **Gesetzliches Zweitverwertungsrecht.** UrhG § 38 - bei Zeitschriftenbeitrag faellt das Recht zur Online-Bereitstellung nach 12 Monaten auf den Autor zurueck (bei oeffentlich gefoerderten Beitraegen, akzeptierte Fassung).
+2. **Gesetzliches Zweitverwertungsrecht.** Zwei Regime sauber trennen: (a) UrhG § 38 Abs. 1 - bei Zeitschriftenbeitraegen allgemein endet die Verlagsexklusivitaet nach einem Jahr; danach kann der Autor frei weiterverwerten (kein gesetzliches Non-Commercial-Limit), wenn nicht vertraglich anders geregelt. (b) UrhG § 38 Abs. 4 - Sonderregel fuer oeffentlich gefoerderte wissenschaftliche Beitraege: nach 12 Monaten, akzeptierte Manuskriptfassung, ausschliesslich nicht-kommerziell; abweichende Vereinbarungen sind unwirksam.
 3. **Datenbankeinstellung (juris, beck-online).** Vertraglich pruefen, Sublizenz-Klausel, Erloesteilung.
 4. **Sonderdruck und Festschriftsuebernahme.** Honorar pro Stueck oder pauschal; Verteilung an Co-Autoren.
 5. **Open Access.** Pruefen, ob Foerderbedingungen Green oder Gold OA verlangen. Embargofrist beachten.

@@ -25,7 +25,7 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 - BGB § 1004 analog - Unterlassungs- und Beseitigungsanspruch.
 - UrhG § 14 - Recht des Urhebers auf Schutz vor Entstellung des Werks (bei eigenmaechtiger Aenderung).
 - UrhG §§ 97, 97a - Schadensersatz, Abmahnung.
-- DDG § 8 - Verantwortlichkeit fuer eigene Inhalte; § 10 - Stoererhaftung mit Privileg fuer Diensteanbieter.
+- DDG § 7 i.V.m. DSA Art. 4-8 (Mere Conduit, Caching, Hosting, freiwillige Untersuchungen, kein allgemeines Monitoring) - Haftungsprivilegien fuer Diensteanbieter; DDG § 8 - Sondervorschrift WLAN-Betreiber. Hinweis: Das TMG ist seit Mai 2024 durch DDG plus DSA abgeloest.
 - UWG §§ 5, 5a - Irrefuehrung; bei Werbeaussagen relevant.
 - Aeusserungsrecht: BVerfG-Rechtsprechung zu Werturteil vs. Tatsachenbehauptung (zu pruefen unter bundesverfassungsgericht.de).
 - BGB § 314 - Kuendigung aus wichtigem Grund (bei Aufnahmevertrag mit Autor).
@@ -160,6 +160,6 @@ Mit freundlichen Gruessen
 
 - BGB §§ 823, 824, 1004 (analog) - Schadensersatz, Kreditgefaehrdung, Beseitigung.
 - UrhG §§ 14, 97, 97a - Werkschutz, Schadensersatz, Abmahnung.
-- DDG §§ 8, 10 - Verantwortlichkeit Diensteanbieter.
+- DDG § 7 i.V.m. DSA Art. 4-8 - Haftungsprivilegien Diensteanbieter; DDG § 8 - WLAN-Sondervorschrift.
 - UWG §§ 5, 5a - Irrefuehrung.
 - Aktuelle BVerfG-Rechtsprechung zur Abwaegung Meinungsfreiheit/Persoenlichkeitsrecht (bundesverfassungsgericht.de).
