@@ -100,7 +100,7 @@ Verbaendeanhoerung; Bundestagsweg; Aufsicht).
 
 ### Schritt 5 - Optional RuleMapping-Anschluss
 
-Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-einstieg-und-eignung`.
+Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einstieg in die 10 RuleMapping-Skills (Abschluss mit `legw-rmap-anschluss-an-legw`).
 
 ## Output
 
