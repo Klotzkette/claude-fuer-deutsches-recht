@@ -1,19 +1,6 @@
 # Insolvenzplan- und StaRUG-Planwerkstatt
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung** ([`testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/`](../testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/)).
-
-Direkt-Download als ZIP: [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

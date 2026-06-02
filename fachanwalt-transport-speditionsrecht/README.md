@@ -15,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kuehlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo** (`cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt`) | [Gesamt-PDF lesen](../testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
+| **CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kühlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo** (`cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt`) | [Gesamt-PDF lesen](../testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

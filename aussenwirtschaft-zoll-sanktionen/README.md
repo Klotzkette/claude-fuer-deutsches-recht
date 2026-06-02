@@ -1,19 +1,6 @@
 # Außenwirtschaft, Sanktionen, Zoll und CBAM
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Außenwirtschaft, Zoll, Sanktionen und CBAM – Globalmaschinen GmbH** ([`testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/`](../testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/)).
-
-Direkt-Download als ZIP: [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
