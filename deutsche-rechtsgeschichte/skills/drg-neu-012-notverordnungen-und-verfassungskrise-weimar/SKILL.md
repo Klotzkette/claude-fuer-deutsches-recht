@@ -3,43 +3,51 @@ name: drg-neu-012-notverordnungen-und-verfassungskrise-weimar
 description: "Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar
+# Deutsche Rechtsgeschichte: 012 Notverordnungen Und Verfassungskrise Weimar
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Notverordnungen und Verfassungskrise Weimar** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Verfassungskrise der Weimarer Republik 1930-1933 und die Notverordnungspraxis.
 
-## Kaltstart in 6 Fragen
+## Notverordnungsrecht Art. 48 WRV
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Reichspraesident kann Massnahmen zur Wahrung der oeffentlichen Sicherheit und Ordnung treffen.
+- Bestimmte Grundrechte koennen ausgesetzt werden.
+- Reichstag kann durch einfache Mehrheit die Aufhebung der Notverordnung verlangen.
 
-## Prüfprogramm
+## Praktische Anwendung 1930-1933
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Reichspraesident Paul von Hindenburg** stuetzt sich seit 1930 auf Notverordnungen statt parlamentarische Mehrheiten.
+- **Kanzler Heinrich Bruening** (1930-1932): regiert mit Notverordnungen.
+- **Kanzler Franz von Papen** (06.1932-11.1932): "Praesidialregierung".
+- **Kanzler Kurt von Schleicher** (12.1932-01.1933).
 
-## Typische Fallen
+## Preussenschlag 20.07.1932
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Papen setzt durch Notverordnung die preussische SPD-Regierung Otto Brauns ab.
+- Reichskommissar fuer Preussen.
+- Verfassungsstreitigkeit beim Staatsgerichtshof — Urteil 25.10.1932 teilweise zugunsten Preussens (zu spaet).
+
+## Reichstagsbrandverordnung 28.02.1933
+
+- Nach dem Reichstagsbrand 27.02.1933.
+- Reichspraesident hebt durch "Verordnung des Reichspraesidenten zum Schutz von Volk und Staat" wesentliche Grundrechte auf.
+- Massenverhaftungen.
+
+## Ermaechtigungsgesetz 24.03.1933
+
+- Verabschiedet vom Reichstag.
+- "Gesetz zur Behebung der Not von Volk und Reich".
+- Reichsregierung kann Gesetze (auch verfassungsaendernd) ohne Reichstag erlassen.
+- Befristet auf 4 Jahre, mehrfach verlaengert.
+
+## Heutige Lehre
+
+- Notstandsverfassung des GG (Art. 80a, 91, 115a-l GG) hat aus diesen Erfahrungen gelernt.
+- Strikte Begrenzungen.
+- Keine Ausschaltung des Parlaments.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Memo zur Weimarer Krise.

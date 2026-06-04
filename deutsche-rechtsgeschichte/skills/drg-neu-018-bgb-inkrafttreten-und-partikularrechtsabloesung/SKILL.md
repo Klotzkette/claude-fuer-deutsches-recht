@@ -3,43 +3,68 @@ name: drg-neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung
 description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung
+# Deutsche Rechtsgeschichte: 018 Bgb Inkrafttreten Und Partikularrechtsabloesung
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **BGB Inkrafttreten und Partikularrechtsablösung** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer das Inkrafttreten des BGB **01.01.1900** und die Abloesung der Partikularrechte.
 
-## Kaltstart in 6 Fragen
+## Eckdaten
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **18.08.1896**: Verabschiedung des BGB durch den Reichstag.
+- **24.08.1896**: Verkuendung.
+- **01.01.1900**: Inkrafttreten.
 
-## Prüfprogramm
+## Partikularrechte vor BGB
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **ALR** (Allgemeines Landrecht fuer die Preussischen Staaten 1794).
+- **Code civil** (linksrheinisch).
+- **Gemeines Recht** (Sachsen-Anhalt, Hannover, Wuerttemberg, Hessen-Darmstadt etc.) — roemisch-gemeines Recht.
+- **Saechsisches BGB** 1865.
+- **Allgemeines Buergerliches Gesetzbuch (ABGB)** Oesterreich 1811 (nicht im Reich, aber Vorbild).
+- Zahlreiche Stadtrechte und Provinzialrechte.
 
-## Typische Fallen
+## EGBGB als Brueckengesetz
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Einfuehrungsgesetz zum Buergerlichen Gesetzbuche (EGBGB)** 18.08.1896.
+- Art. 1: Inkrafttreten 01.01.1900.
+- Art. 4: Vorrang Bundesrecht.
+- Art. 55: Aufhebung der Landesgesetze, "soweit nicht in diesem Gesetz oder in dem BGB ein Anderes bestimmt ist".
+- Art. 56-152: Vorbehalte fuer Landesrecht in bestimmten Bereichen.
+- Art. 153-184: Uebergangsbestimmungen.
+- Art. 218: ALR-Erbrecht bleibt fuer Faelle vor 1900.
+
+## Vorbehalt fuer Landesrecht
+
+- Notarrecht.
+- Wasserrecht.
+- Polizeirecht.
+- Bestattungsrecht.
+- Kirchenrecht.
+
+## Wichtige Reformkommissionen
+
+- Erste Kommission 1874-1887 (Vorentwurf 1888).
+- Zweite Kommission 1890-1895 (Entwurf 1895).
+- Verabschiedung 1896.
+
+## Vater des BGB
+
+- Bernhard Windscheid (Pandektist).
+- Heinrich Gottfried Gengler.
+- Gottlieb Planck als Hauptverfasser des Familienrechts.
+
+## Inhalt BGB 1900
+
+- 2385 Paragraphen.
+- 5 Buecher: Allg. Teil, Schuldrecht, Sachenrecht, Familienrecht, Erbrecht.
+
+## Heutige Fortwirkung
+
+- BGB heute mit zahlreichen Reformen (Schuldrechtsreform 2002, Erbrechtsreform 2010, Verbraucherbauvertrag 2018 etc.).
+- Pandektistische Tradition lebt in der Systematik fort.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse Partikularrechte / BGB.

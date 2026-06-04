@@ -3,43 +3,73 @@ name: drg-neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisa
 description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation
+# Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Weimarer Reichsverfassung Grundrechte Staatsorganisation** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Weimarer Reichsverfassung 11.08.1919.
 
-## Kaltstart in 6 Fragen
+## Eckdaten
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Verkuendung 11.08.1919.
+- 181 Artikel.
+- Autor: Staatsrechtler Hugo Preuss.
 
-## Prüfprogramm
+## Hauptteile
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Aufbau und Aufgaben des Reichs (Art. 1-19)
+- Reichsadler Republik Demokratische Republik.
+- Reichs- und Laenderverteilung.
 
-## Typische Fallen
+### Reichsgesetzgebung (Art. 68-77)
+- Reichstag (gewaehlt) und Reichsrat (Laendervertretung).
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### Reichspraesident (Art. 41-59)
+- Direkt vom Volk gewaehlt fuer 7 Jahre.
+- Notverordnungsrecht Art. 48.
+
+### Reichsregierung (Art. 52-59)
+- Reichskanzler und Reichsminister.
+
+### Reichsrat (Art. 60-67)
+- Vertretung der Laender.
+
+### Verwaltung (Art. 78-89)
+- Reichseigene Verwaltung, Reichsauftragsverwaltung, Landesverwaltung.
+
+### Rechtspflege (Art. 102-108)
+- Richterunabhaengigkeit.
+
+### Zweiter Hauptteil: Grundrechte (Art. 109-165)
+- Persoenliche Freiheiten (Art. 114-118).
+- Glaubens- und Gewissensfreiheit (Art. 135-141).
+- Bildung (Art. 142-150).
+- Wirtschaftsleben (Art. 151-165).
+
+## Notverordnung Art. 48
+
+- Reichspraesident kann zur Wahrung der oeffentlichen Sicherheit und Ordnung Massnahmen treffen.
+- Aussetzung von Grundrechten moeglich.
+- Zentraler Schwachpunkt — wird durch Hindenburg ab 1930 massiv genutzt.
+
+## Konkordat und Kirchen
+
+- Staatskirchenrecht Art. 137 WRV (im GG ueber Art. 140 GG fortgesetzt).
+- Konkordat mit Bayern 1924.
+
+## Ende
+
+- 24.03.1933 Ermaechtigungsgesetz.
+- Faktische Aufhebung durch NS-Regime.
+- Formell nie aufgehoben, aber durch GG 1949 abgeloest.
+
+## Fortwirkung im GG
+
+- Art. 137 III WRV iVm Art. 140 GG: Religionsgemeinschaften als Koerperschaften des oeffentlichen Rechts.
+- Art. 4 GG iVm Art. 136 WRV.
+- Grundrechtekatalog Art. 1-19 GG ist Erbe der WRV-Grundrechte.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse WRV / GG.

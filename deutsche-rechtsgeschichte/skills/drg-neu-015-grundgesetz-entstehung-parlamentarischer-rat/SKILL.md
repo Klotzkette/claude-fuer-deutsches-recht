@@ -3,43 +3,69 @@ name: drg-neu-015-grundgesetz-entstehung-parlamentarischer-rat
 description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat
+# Deutsche Rechtsgeschichte: 015 Grundgesetz Entstehung Parlamentarischer Rat
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Grundgesetz Entstehung Parlamentarischer Rat** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Entstehung des Grundgesetzes 1948/49 und seine Architektur.
 
-## Kaltstart in 6 Fragen
+## Vorgeschichte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Frankfurter Dokumente** 01.07.1948: Westmaechte beauftragen die westdeutschen Ministerpraesidenten mit der Ausarbeitung einer Verfassung.
+- Ministerpraesidentenkonferenz 08.-10.07.1948 — Beschluss "Grundgesetz" statt "Verfassung" (Provisorium).
+- **Herrenchiemsee-Konferenz** 10.-23.08.1948: Verfassungskonvent erarbeitet Entwurf.
 
-## Prüfprogramm
+## Parlamentarischer Rat
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Konstituierung **01.09.1948** in Bonn.
+- 65 stimmberechtigte Mitglieder + 5 Berliner Beobachter.
+- Vorsitzender: Konrad Adenauer.
+- Hauptausschuss-Vorsitzender: Carlo Schmid.
 
-## Typische Fallen
+## Verabschiedung
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **08.05.1949**: Verabschiedung des Grundgesetzes.
+- **23.05.1949**: Verkuendung.
+- 24.05.1949: Inkrafttreten.
+
+## Architektur
+
+### Praeambel
+- Volkssouveraenitaet, "deutsches Volk", Selbstbestimmung.
+
+### Grundrechte Art. 1-19 GG
+- Art. 1: Menschenwuerde.
+- Art. 2: allgemeine Handlungsfreiheit.
+- Art. 3: Gleichheit.
+- Art. 4: Religionsfreiheit.
+- Art. 5: Meinungsfreiheit.
+- Art. 12: Berufsfreiheit.
+- Art. 14: Eigentumsschutz.
+- Art. 19: Wesensgehaltsgarantie.
+
+### Staatsorganisation Art. 20 ff. GG
+- Art. 20: Grundprinzipien (Bundesstaat Demokratie Rechtsstaat Sozialstaat).
+- Art. 20a: Umweltschutz (seit 1994).
+- Art. 23: Europa-Klausel (Reform 1992).
+- Art. 38-49: Bundestag.
+- Art. 50-53: Bundesrat.
+- Art. 54-61: Bundespraesident.
+- Art. 62-69: Bundesregierung.
+- Art. 70-82: Gesetzgebung.
+- Art. 92-104: Rechtsprechung.
+
+### Notstandsverfassung Art. 80a, 87a, 91 ff., 115a-l GG (seit 1968)
+- Lehre aus Weimar.
+
+## Wesentliche Unterschiede zur Weimarer Verfassung
+
+- Keine direkte Wahl des Bundespraesidenten.
+- Konstruktives Misstrauensvotum.
+- Wesensgehaltsgarantie.
+- BVerfG.
+- Notstandsverfassung mit strikten Limits.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse WRV / GG.

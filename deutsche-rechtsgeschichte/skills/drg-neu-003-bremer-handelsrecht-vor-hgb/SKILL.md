@@ -3,43 +3,50 @@ name: drg-neu-003-bremer-handelsrecht-vor-hgb
 description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB
+# Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Bremer Handelsrecht vor HGB** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer das Bremer Handelsrecht vor Inkrafttreten des ADHGB 1861/1869 und HGB 1900.
 
-## Kaltstart in 6 Fragen
+## Bremen als Hansestadt
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Lange handelsrechtliche Tradition seit Mittelalter.
+- Eigenes Stadtrecht (Bremer Statuta seit 1303 ff.).
+- Bremer Senat (Gewerbe-, Kaufleute- und Schifffahrtsgerichtsbarkeit).
 
-## Prüfprogramm
+## Wichtige Bremer Rechtssaetze
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Bremer Seerecht**: Pruefung von Schiffsschaeden im Hafen.
+- **Bremer Wechselrecht**: vor reichsweiter Wechselordnung 1848.
+- **Maklerrecht**: vereidigte Makler (Bremer Tradition; Vorbild fuer spaetere reichsweite Maklerregeln).
+- **Kaufmannsgerichtsbarkeit**: Sonderkammer am Bremer Landgericht.
 
-## Typische Fallen
+## Allgemeines Deutsches Handelsgesetzbuch (ADHGB) 1861
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Im Deutschen Bund (ohne Norddeutschen Bund initial) als Modell durch die Mitgliedstaaten in Geltung gesetzt.
+- Bremen tritt frueh bei.
+- Vereinheitlichung des Handelsrechts.
+
+## Norddeutscher Bund und Reich
+
+- 1869 ADHGB durch Norddeutschen Bund uebernommen.
+- 1871 Reich uebernimmt.
+- HGB 10.05.1897 — Inkrafttreten 01.01.1900 mit BGB.
+
+## Heutige Spuren
+
+- Bremen-spezifische Gerichtsbarkeit fuer Hafenfaelle (Hanseatisches Oberlandesgericht in Bremen).
+- Bremer Vereidigte Makler.
+- Hanseatische Tradition im Handelsrecht.
+
+## Subsumtionsbeispiel: Schiffsverlust 1840
+
+Schiff mit Bremer Reederei sinkt vor Hamburg.
+- Bremer Recht (vor 1861): Bremer Seerecht; Stadtgerichtsbarkeit.
+- HGB heute: §§ 476 ff. HGB Seehandelsrecht (nach Reform 2013).
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Memo zur hanseatischen Tradition.

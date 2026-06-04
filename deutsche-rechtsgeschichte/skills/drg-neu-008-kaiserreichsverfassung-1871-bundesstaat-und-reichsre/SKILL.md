@@ -3,43 +3,54 @@ name: drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre
 description: "Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht
+# Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Reichsverfassung des Deutschen Kaiserreichs 16.04.1871 (Bismarcksche Reichsverfassung).
 
-## Kaltstart in 6 Fragen
+## Verfassung
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Verkuendung **16.04.1871**.
+- Bundesstaat aus 25 Staaten + Reichsland Elsass-Lothringen.
+- Erbliches Reichspraesidium beim Koenig von Preussen ("Deutscher Kaiser").
 
-## Prüfprogramm
+## Organe
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Kaiser**: Vertretung im Aussenverhaeltnis, Oberbefehl, Beamtenernennung.
+- **Bundesrat**: Vertretung der Mitgliedstaaten (gewichtetes Stimmrecht; Preussen 17 von 58 Stimmen).
+- **Reichstag**: gewaehlt nach allgemeinem gleichem direktem Wahlrecht (Maenner ab 25).
+- **Reichskanzler**: einziger Reichsminister; Praesident des Bundesrats.
 
-## Typische Fallen
+## Gesetzgebung
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Reichsrecht bricht Landesrecht im Bereich der Reichszustaendigkeit.
+- Wichtige Reichsgesetze:
+  - **Reichsstrafgesetzbuch 15.05.1871** (in Kraft 01.01.1872).
+  - **Gerichtsverfassungsgesetz 27.01.1877**.
+  - **Zivilprozessordnung 30.01.1877**.
+  - **Konkursordnung 10.02.1877**.
+  - **BGB 18.08.1896** (in Kraft 01.01.1900).
+  - **HGB 10.05.1897** (in Kraft 01.01.1900).
+
+## Sozialgesetzgebung Bismarcks
+
+- **Krankenversicherungsgesetz 15.06.1883**.
+- **Unfallversicherungsgesetz 06.07.1884**.
+- **Rentenversicherungsgesetz 22.06.1889**.
+
+## Ende
+
+- November-Revolution 1918.
+- Abdankung Wilhelms II. 09.11.1918.
+- Ueberleitungsgesetz und Weimarer Reichsverfassung 11.08.1919.
+
+## Heutige Bedeutung
+
+- BGB / HGB / StGB als direkte Erben.
+- Sozialversicherung 1883-1889 als Grundlage des modernen Systems.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse Bismarck-Verfassung / Weimar / Grundgesetz.

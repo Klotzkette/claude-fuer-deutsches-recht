@@ -3,43 +3,51 @@ name: drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang
 description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang
+# Deutsche Rechtsgeschichte: 014 Entnazifizierung Kontrollratsrecht Und Uebergang
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Entnazifizierung Kontrollratsrecht und Übergang** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Entnazifizierung 1945-1949 und das alliierte Kontrollratsrecht.
 
-## Kaltstart in 6 Fragen
+## Kontrollratsgesetze
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Kontrollrat fuer Deutschland** (4 Maechte: USA UK Frankreich Sowjetunion).
+- Wichtige Gesetze:
+  - **Kontrollratsgesetz Nr. 1 vom 20.09.1945**: Aufhebung nationalsozialistischer Gesetze.
+  - **Kontrollratsgesetz Nr. 4**: Reorganisation des Justizwesens.
+  - **Kontrollratsgesetz Nr. 10 vom 20.12.1945**: Bestrafung von Personen, die sich Kriegsverbrechen, Verbrechen gegen den Frieden und gegen die Menschlichkeit schuldig gemacht haben.
+  - **Kontrollratsgesetz Nr. 45 vom 20.02.1947**: Aufloesung der Familienfideikommisse und sonstigen gebundenen Vermoegen.
 
-## Prüfprogramm
+## Entnazifizierung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Direktive Nr. 24 vom 12.01.1946**: Entlassung und Bestrafung von Nationalsozialisten.
+- **Spruchkammerverfahren** in den westlichen Zonen.
+- Klassifizierung in 5 Kategorien: Hauptschuldige Belastete Minderbelastete Mitlaeufer Entlastete.
+- **Befreiungsgesetz** 05.03.1946 (US-Zone).
 
-## Typische Fallen
+## Nuernberger Prozesse
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **IMT-Hauptkriegsverbrecherprozess** 20.11.1945 - 01.10.1946.
+- 24 Hauptangeklagte; 12 Todesurteile; 7 Freiheitsstrafen; 3 Freisprueche.
+- Folgeprozesse 1946-1949 nach Kontrollratsgesetz Nr. 10.
+
+## Anti-Diskriminierungsgesetze
+
+- Kontrollratsgesetz Nr. 1 hob die Nuernberger Rassengesetze auf.
+- Wiedergutmachungsgesetzgebung ab 1947.
+
+## Uebergang zur BRD und DDR
+
+- **Mai 1949**: Grundgesetz BRD.
+- **Oktober 1949**: Verfassung DDR.
+
+## Heutige Fortwirkung
+
+- BEG (Bundesentschaedigungsgesetz) 1953.
+- BRueG (Bundesrueckerstattungsgesetz) 1957.
+- Stiftung "Erinnerung Verantwortung Zukunft" 2000 (NS-Zwangsarbeiter).
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Chronologie 1945-1949.

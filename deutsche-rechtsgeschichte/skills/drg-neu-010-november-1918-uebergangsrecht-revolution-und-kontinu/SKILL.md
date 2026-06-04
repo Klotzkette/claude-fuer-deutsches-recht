@@ -3,43 +3,56 @@ name: drg-neu-010-november-1918-uebergangsrecht-revolution-und-kontinu
 description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität
+# Deutsche Rechtsgeschichte: 010 November 1918 Uebergangsrecht Revolution Und Kontinu
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **November 1918 Übergangsrecht Revolution und Kontinuität** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer den Uebergang von Kaiserreich zur Weimarer Republik im November/Dezember 1918.
 
-## Kaltstart in 6 Fragen
+## Ereignisse
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **29.10.1918**: Matrosenaufstand in Kiel.
+- **09.11.1918**: Ausrufung der Republik durch Scheidemann (Reichstag) und Liebknecht (Stadtschloss).
+- Abdankung Wilhelms II.
+- Provisorische Regierung: Rat der Volksbeauftragten (SPD + USPD).
 
-## Prüfprogramm
+## Stinnes-Legien-Abkommen 15.11.1918
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vereinbarung zwischen Industriellen (Stinnes) und Gewerkschaften (Legien).
+- Anerkennung der Gewerkschaften als Tarifpartner.
+- Achtstundentag.
+- Bildung Zentralarbeitsgemeinschaft.
 
-## Typische Fallen
+## Verordnungen des Rates der Volksbeauftragten
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **12.11.1918**: 8-Stunden-Tag.
+- **12.11.1918**: Wahlrecht fuer Frauen (Reichswahlgesetz folgt 30.11.1918).
+- **14.11.1918**: Sozialversicherung erhalten.
+- **23.11.1918**: Aufhebung der Gesindeordnungen.
+- **15.01.1919**: Vorlaeufige Reichsverfassung.
+
+## Wahlen und Nationalversammlung
+
+- **19.01.1919**: Wahl zur Nationalversammlung.
+- Erstmals Frauen aktiv und passiv wahlberechtigt.
+- Konstituierung in Weimar **06.02.1919**.
+
+## Verabschiedung der Verfassung
+
+- **31.07.1919**: Verabschiedung der Reichsverfassung.
+- **11.08.1919**: Verkuendung durch Reichspraesident Ebert.
+
+## Rechtskontinuitaet trotz Revolution
+
+- Kontinuitaet von Reichsgesetzen (BGB, StGB, HGB, ZPO).
+- Wechsel nur in der Verfassungs- und Symbol-Sphaere.
+
+## Heutige Bedeutung
+
+- Stinnes-Legien-Abkommen als Grundlage Tarifautonomie (Art. 9 III GG).
+- 8-Stunden-Tag als sozialpolitisches Symbol.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Chronologie Oktober 1918 - August 1919.

@@ -3,43 +3,58 @@ name: drg-neu-006-paulskirchenverfassung-1848-und-grundrechte
 description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte
+# Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 Und Grundrechte
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Paulskirchenverfassung 1848 und Grundrechte** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Paulskirchenverfassung 1848/49 und ihre Bedeutung als Vorlaeuferin moderner deutscher Grundrechte.
 
-## Kaltstart in 6 Fragen
+## Historische Lage
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Maerz-Revolution 1848.
+- Frankfurter Nationalversammlung tagt ab **18.05.1848** in der Paulskirche.
+- Beratung ueber eine gesamtdeutsche Verfassung.
 
-## Prüfprogramm
+## Inhalt der Verfassung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Verkuendung **28.03.1849** als "Verfassung des Deutschen Reichs" (Frankfurter Reichsverfassung, FRV).
+- Erbkaisertum: Friedrich Wilhelm IV. wird Kaiser angetragen (von ihm abgelehnt am 03.04.1849).
+- **Grundrechte des deutschen Volkes** (vorab am 27.12.1848 verkuendet).
 
-## Typische Fallen
+## Grundrechtskatalog
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Persoenliche Freiheit (§§ 1 ff. der Grundrechte).
+- Gleichheit vor dem Gesetz.
+- Eigentumsfreiheit, Berufsfreiheit, Gewerbefreiheit.
+- Pressefreiheit, Versammlungsfreiheit, Vereinsfreiheit.
+- Religionsfreiheit.
+- Geschworenengerichte.
+- Aufhebung der Patrimonialgerichtsbarkeit.
+
+## Scheitern
+
+- Friedrich Wilhelm IV. lehnt die Kaiserkrone ab.
+- Bundesversammlung 1851 hebt die Grundrechte auf.
+
+## Fortwirkung
+
+- Verfassungsidee bleibt — Vorbild fuer:
+  - Preussische Verfassung 1850.
+  - Reichsverfassung 1871 (nur teilweise).
+  - **Weimarer Reichsverfassung 11.08.1919** — viele Grundrechte uebernommen.
+  - **Grundgesetz 23.05.1949** — Artikel 1-19 GG sind direkter Erbe.
+
+## Patrimonialgerichte
+
+- Paulskirchenverfassung wollte sie aufheben — nicht durchgesetzt.
+- Erst 1849 in Preussen (per Landesgesetz) abgeschafft.
+
+## Heutige Bedeutung
+
+- Paulskirche als Symbol des gescheiterten Liberalismus.
+- 1989/90 als historisches Vorbild bei DDR-Verfassungsdiskussion.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse Paulskirchen-Grundrechte / GG.

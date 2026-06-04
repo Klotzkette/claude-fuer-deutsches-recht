@@ -3,43 +3,52 @@ name: drg-neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel
 description: "Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel
+# Deutsche Rechtsgeschichte: 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Hamburger Handelsrecht Kaufmannspraxis und Seehandel** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer das Hamburger Handels- und Seerecht im 18./19. Jahrhundert bis zur Reichsvereinheitlichung.
 
-## Kaltstart in 6 Fragen
+## Hamburger Tradition
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Hansestadt seit Mittelalter.
+- Frei-Reichsstadt bis 1806.
+- Selbstaendige Mitglied des Deutschen Bundes 1815.
 
-## Prüfprogramm
+## Wichtige Hamburger Rechtssaetze
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Hamburger Stadtrecht 1605** (gedruckt) — wesentliche Privatrechts- und Handelsregeln.
+- **Wechselordnung Hamburg 1711, 1786** — Vorlaeufer der Allgemeinen Deutschen Wechselordnung 1848.
+- **Seerecht** Hamburg: Beruehmt fuer die Pruefung von Schiffsschaeden, Havarie und Pirate-Faellen.
+- **Boersengericht**: spezielle Gerichtsbarkeit fuer Boersenstreitigkeiten.
+- **Versicherungsrecht**: Hamburg fuehrend in der Praxis (London und Amsterdam parallel).
 
-## Typische Fallen
+## Internationale Bezuege
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Lloyds-Style Risikoteilung.
+- Bottomry-Vertraege ("Bodmerei") als seerechtliches Sicherungsmittel.
+- Maklerbestellung durch Senat.
+
+## Wege zur Reichsvereinheitlichung
+
+- ADHGB 1861 — Beitritt Hamburgs.
+- Reichsversicherungsverordnung 1908.
+- VVG 1908 — Versicherungsvertragsgesetz.
+- HGB 1900 §§ 474 ff. Seehandelsrecht (mehrfach reformiert, zuletzt Seehandelsreform 2013).
+
+## Heutige Spuren
+
+- Hanseatisches Oberlandesgericht Hamburg fuer Seerechtssachen.
+- Hamburger Schiedsgerichtsbarkeit (insb. fuer internationale Seefrachtstreitigkeiten).
+- Norddeutsche Versicherungspraxis als Erbe.
+
+## Subsumtionsbeispiel: Generalhavarie 1820
+
+Schiff aus Hamburg im Sturm; Teil der Ladung ueber Bord geworfen.
+- Hamburger Recht: Lex Rhodia in Praxis uebernommen; anteilige Schadenstragung.
+- Heute: York-Antwerp Rules + HGB §§ 588 ff. (Reform 2013).
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Memo zur Hanse-Tradition.

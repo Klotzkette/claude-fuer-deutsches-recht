@@ -3,43 +3,48 @@ name: drg-neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss
 description: "Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat
+# Deutsche Rechtsgeschichte: 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die Sozialgesetzgebung und Verwaltungsreformen im Spaetkaiserreich (1880er-1918).
 
-## Kaltstart in 6 Fragen
+## Sozialgesetze Bismarcks
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Gesetz ueber Krankenversicherung 15.06.1883** — erste Sozialversicherung der Welt.
+- **Gesetz ueber Unfallversicherung 06.07.1884** — Berufsgenossenschaften.
+- **Gesetz ueber Invaliditaets- und Altersversicherung 22.06.1889** — Vorlaeufer Rentenversicherung.
 
-## Prüfprogramm
+## Spaete Reformen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Reichsversicherungsordnung (RVO) 19.07.1911** — Konsolidierung in einem Gesetzbuch.
+- **Angestelltenversicherungsgesetz 20.12.1911** — eigene Versicherung fuer Angestellte.
 
-## Typische Fallen
+## Verwaltungsrecht
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Preussisches OVG (Oberverwaltungsgericht) als Vorlaeufer der Verwaltungsgerichtsbarkeit.
+- **PrOVG-Kreuzberg-Urteil 14.06.1882** — Polizei nur Gefahrenabwehr, keine Wohlfahrtspflege.
+- **Otto Mayer**: "Verwaltungsrecht" 1895/96 — wissenschaftliche Grundlegung.
+
+## Steuerrecht
+
+- **Reichseinkommensteuergesetz 1891** (Miquel-Reform).
+- **Reichserbschaftsteuergesetz 03.06.1906**.
+- **Reichsstempelgesetz 1894**.
+
+## Strafrecht
+
+- **Reichsstrafgesetzbuch 1871**.
+- **Strafprozessordnung 01.02.1877**.
+- Reformbewegung mit Franz von Liszt.
+
+## Heutige Fortwirkung
+
+- SGB IV-VI als Erbe der Sozialversicherungsgesetze.
+- BSG und SozG als Erbe der Berufsgenossenschaftsgerichte.
+- BVerwG als Erbe der Verwaltungsgerichtsbarkeit.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse Sozialgesetzgebung 1883-1911 / heute.

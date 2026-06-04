@@ -3,43 +3,74 @@ name: drg-neu-019-hgb-und-handelsrechtsvereinheitlichung
 description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung
+# Deutsche Rechtsgeschichte: 019 Hgb Und Handelsrechtsvereinheitlichung
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **HGB und Handelsrechtsvereinheitlichung** im Bereich **Deutsche Rechtsgeschichte**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer das HGB 1900 und die Entstehung des einheitlichen Handelsrechts in Deutschland.
 
-## Kaltstart in 6 Fragen
+## Vorgeschichte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Allgemeines Deutsches Handelsgesetzbuch (ADHGB) 1861** — vom Deutschen Bund initiiert.
+- Vorhergehende Wechselordnung **Allgemeine Deutsche Wechselordnung 24.11.1848**.
+- Norddeutscher Bund 1869: ADHGB uebernommen.
+- Deutsches Reich 1871: ADHGB als Reichsgesetz.
 
-## Prüfprogramm
+## Handelsgesetzbuch (HGB) 10.05.1897
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Verabschiedung **10.05.1897**.
+- Inkrafttreten **01.01.1900** zusammen mit BGB.
+- 905 Paragraphen.
+- 5 Buecher: Handelsstand, Handelsgesellschaften, Handelsbuecher, Handelsgeschaefte, Seehandel.
 
-## Typische Fallen
+## Wichtige Inhalte
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### Buch 1: Handelsstand
+- Kaufmannseigenschaft (§§ 1-7).
+- Handelsregister (§§ 8-16).
+- Firma (§§ 17-37).
+- Handelsbuecher (§§ 38-47).
+
+### Buch 2: Handelsgesellschaften
+- OHG (§§ 105-160).
+- KG (§§ 161-177).
+- Stille Gesellschaft (§§ 230-237).
+
+### Buch 3: Handelsbuecher
+- §§ 238-339.
+- Buchfuehrungspflicht.
+- Bilanzrecht.
+
+### Buch 4: Handelsgeschaefte
+- §§ 343-475.
+- Allgemeine Vorschriften.
+- Kommission, Spedition, Lager, Fracht.
+
+### Buch 5: Seehandel
+- §§ 476-905.
+- Reformiert durch Seehandelsreform 25.04.2013.
+
+## Verhaeltnis zum BGB
+
+- HGB ist Sondergesetz fuer Kaufleute.
+- BGB ist Grundlage.
+- §§ 343, 344, 345 HGB: Handelsgeschaeft mit Vermutung.
+
+## Reformen
+
+- AktG 1937, 1965, 1998, 2009.
+- GmbHG 1892 (eigenstaendig).
+- UmwG 1995.
+- Bilanzrichtlinien-Umsetzungsgesetz 1985.
+- Seehandelsreform 2013.
+
+## Heutige Bedeutung
+
+- HGB als Grundlage des deutschen Handelsrechts.
+- §§ 1-7 HGB: Kaufmannsbegriff.
+- §§ 238 ff. HGB: Bilanzrecht.
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenmatrix.
+- Synopse HGB / ADHGB / heute.
