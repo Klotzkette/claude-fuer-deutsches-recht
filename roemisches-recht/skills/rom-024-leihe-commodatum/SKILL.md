@@ -67,7 +67,7 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 ### Subsumtionsbeispiel: Geliehenes Pferd geht im Feldzug verloren
 Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd entlaeuft.
 - **Roemisch**: Custodia-Haftung; Diebstahl ist nicht casus maior; B haftet. Ausnahme: Feindangriff = vis maior (D. 13.6.18).
-- **BGB**: § 599 BGB Leihe; Entleiher haftet nur fuer Vorsatz und grobe Fahrlaessigkeit; bei einfacher Fahrlaessigkeit keine Haftung.
+- **BGB**: § 598 BGB Leihvertrag; **Entleiher haftet voll fuer jede Fahrlaessigkeit** nach allgemeinen Regeln (§§ 280, 276 BGB) — insbesondere muss er die Sache pflegen und zurueckgeben (§ 604 BGB). Bei Diebstahl durch einfache Fahrlaessigkeit (z. B. unverschlossen abgestellt) haftet B regelmaessig auf Schadensersatz. NICHT zu verwechseln mit § 599 BGB: dieser begrenzt die Haftung des **Verleihers** auf Vorsatz und grobe Fahrlaessigkeit (weil unentgeltlich gibt) — Entleiher bleibt der vollen Sorgfaltspflicht unterworfen.
 
 ### Pflichten des Entleihers
 - Pflegliche Behandlung.
