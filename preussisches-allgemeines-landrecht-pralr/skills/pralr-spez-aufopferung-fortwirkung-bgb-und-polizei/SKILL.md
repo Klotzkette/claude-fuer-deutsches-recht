@@ -13,8 +13,7 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 ## Spezialgesetze (vorrangig)
 
 - POG / PolG der Laender — Polizeischadensentschaedigung.
-- IfSG §§ 60 ff. — Impfschadensversorgung.
-- OEG (Opferentschaedigungsgesetz) — Gewalttatenopfer.
+- **SGB XIV (Soziales Entschaedigungsrecht)** — in Kraft seit 01.01.2024. Bündelt das frühere BVG (Bundesversorgungsgesetz), das OEG (Opferentschädigungsgesetz) und die Impfschadensversorgung aus IfSG §§ 60 ff. zu einem einheitlichen sozialen Entschaedigungsrecht. Für Altfaelle / Uebergangsregelungen weiter BVG/OEG/IfSG live verifizieren.
 - StVG §§ 7 ff. — Halterhaftung.
 
 ## Subsidiaritaet
@@ -24,9 +23,9 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 
 ## Typische heutige Faelle
 
-- Verletzung eines Unbeteiligten beim polizeilichen Einsatz (Schussfaden Polizeischaden).
-- Vermoegensentzug durch hoheitliche Mass.
-- Frueh-Impfungsfaelle vor IfSG.
+- Verletzung eines Unbeteiligten beim polizeilichen Einsatz (Schussschaden Polizeischaden).
+- Vermoegensentzug durch hoheitliche Massnahme.
+- Frueh-Impfungsfaelle vor sozialer Entschaedigung — heute SGB XIV.
 
 ## Abgrenzung Art. 14 III GG
 

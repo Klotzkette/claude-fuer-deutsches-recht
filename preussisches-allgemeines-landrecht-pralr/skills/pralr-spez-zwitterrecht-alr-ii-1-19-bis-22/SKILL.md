@@ -32,7 +32,7 @@ ALR II 1 §§ 19 bis 22 — die wahrscheinlich beruehmteste Detailregelung des A
 - BGB 1900 enthielt keine Sondernorm zum intersexuellen Status.
 - Geschlechtsstatus war jahrzehntelang nur "Mann" oder "Frau" im Personenstand.
 - Erst PStG-Reform 2013: Eintragung Geschlecht "offen lassen" moeglich.
-- BVerfG 2 BvR 2566/95 vom 10.10.2017 — Recht auf Eintrag "divers".
+- BVerfG 1 BvR 2019/16 vom 10.10.2017 (sogenannte "Dritte Option") — Recht auf positiven Personenstandseintrag jenseits von "maennlich" und "weiblich".
 - Personenstandsrecht-Reform 22.12.2018 — Eintrag "divers".
 
 ## Wiederentdeckung
