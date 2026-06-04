@@ -3,43 +3,42 @@ name: pralr-neu-023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei
 description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei
+# Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Zweiter Teil Gemeinderecht Städte Dörfer Polizei** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ALR II 7-8: Gemeinderecht — Staedte, Doerfer, Polizei.
 
-## Kaltstart in 6 Fragen
+## Wichtige Paragraphen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **ALR II 7**: Bauernstand und Doerfer.
+- **ALR II 8**: Buergerstand und Staedte; Innungen.
+- **ALR II 17**: Polizey (Generalklausel § 10).
 
-## Prüfprogramm
+## Stein-Hardenbergsche Staedteordnung 19.11.1808
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Reform der kommunalen Selbstverwaltung.
+- Magistrat + Stadtverordnetenversammlung.
+- Wesentliche Modernisierung des ALR-Gemeinderechts.
 
-## Typische Fallen
+## Subsumtionsbeispiel: Kommunale Selbstverwaltung 1850
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+Buergermeister einer Mittelstadt erlaesst Verfuegung.
+- **ALR II 8 + Staedteordnung 1808**: Befugnis vorhanden.
+- **GG**: Art. 28 II GG Garantie der kommunalen Selbstverwaltung.
+
+## Heutige Fortwirkung
+
+- Art. 28 II GG.
+- Gemeindeordnungen der Laender.
+
+## Pruefraster
+
+1. Welche Gemeinde?
+2. Welche Verfuegung?
+3. Kompetenz?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Kommunalrechts-Analyse.
+- Vergleich zu heutiger GO.

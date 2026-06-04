@@ -3,43 +3,40 @@ name: pralr-neu-005-erster-teil-titel-2-sachen-und-rechte
 description: "PrALR: Erster Teil Titel 2 Sachen und Rechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Erster Teil Titel 2 Sachen und Rechte
+# Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Erster Teil Titel 2 Sachen und Rechte** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ALR I 2: Sachen und Rechte — die Sachenrechtssystematik des ALR.
 
-## Kaltstart in 6 Fragen
+## Wichtige Paragraphen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **ALR I 2 §§ 1-30**: Begriff der Sache; bewegliche und unbewegliche Sachen.
+- **ALR I 2 §§ 31-60**: Rechte als Sachen (incorporales).
+- **ALR I 2 §§ 100-150**: Verbindung von Sachen, Fruechte, Bestandteile.
 
-## Prüfprogramm
+## Systematische Bedeutung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+Anders als BGB unterscheidet ALR nicht so streng zwischen koerperlichen Sachen und Rechten — beide werden als "Sachen" gefuehrt. Das ist roemisch-rechtliche Tradition (res corporales und incorporales).
 
-## Typische Fallen
+## Subsumtionsbeispiel: Verkauf einer Forderung 1850
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+A verkauft B seine Forderung gegen C.
+- **ALR**: Forderungsverkauf moeglich, da Forderung "Sache" iSd ALR I 2.
+- **BGB**: Forderung ist Recht; § 398 BGB Abtretung erforderlich.
+
+## Heutige Fortwirkung
+
+- BGB § 90 BGB: nur koerperliche Gegenstaende sind Sachen.
+- §§ 398 ff. BGB: Forderung wird separat behandelt.
+
+## Pruefraster
+
+1. Sache oder Recht?
+2. Beweglich oder unbeweglich?
+3. Bestandteile?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Sachen-Recht-Klassifikation.
+- BGB-Vergleich.

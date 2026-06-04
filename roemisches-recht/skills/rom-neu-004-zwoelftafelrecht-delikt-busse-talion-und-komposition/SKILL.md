@@ -3,43 +3,45 @@ name: rom-neu-004-zwoelftafelrecht-delikt-busse-talion-und-komposition
 description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition
+# Rom Neu 004 Zwoelftafelrecht Delikt Busse Talion Und Komposition
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Zwölftafelrecht Delikt Buße Talion und Komposition** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Zwoelftafelrecht: Delikt, Busse, Talion und Komposition.
 
-## Kaltstart in 6 Fragen
+## Tafel VIII (Delikte)
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Iniuria**: Beleidigung — Pauschalstrafe 25 Asses (anfangs 12 Asses).
+- **Membrum ruptum**: schwere Koerperverletzung — Talion ("si membrum rupsit, ni cum eo pacit, talio esto") mit Wiederlohnung-Moeglichkeit.
+- **Os fractum**: gebrochener Knochen — fixe Geldstrafe (z. B. 300 Asses fuer Freie, 150 fuer Sklaven).
 
-## Prüfprogramm
+## Talion vs. Komposition
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Talion** (ius talionis): Auge um Auge.
+- **Komposition**: Geldzahlung statt Talion mit Zustimmung beider.
 
-## Typische Fallen
+## Dauerhafte Bedeutung
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Erste klare Schadensersatzregeln.
+- Privatstrafrecht vor oeffentlicher Strafverfolgung.
+
+## Subsumtionsbeispiel: Beleidigung
+
+A beleidigt B oeffentlich.
+- **XII Tafeln VIII**: 25 Asses Geldstrafe.
+- **Heute**: § 185 StGB Beleidigung (Geld- oder Freiheitsstrafe).
+
+## Heutige Fortwirkung
+
+- Privatklage § 374 StPO (analog Privatstrafrecht).
+- §§ 823 ff. BGB Deliktsrecht.
+
+## Pruefraster
+
+1. Welches Delikt?
+2. Talion oder Komposition?
+3. Heutiges Pendant?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Delikt-Analyse.

@@ -3,43 +3,48 @@ name: besold-neu-007-mehrarbeit-verguetung-freizeitausgleich-beamte
 description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte
+# Besold Neu 007 Mehrarbeit Verguetung Freizeitausgleich Beamte
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Mehrarbeit Vergütung Freizeitausgleich Beamte** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Mehrarbeit nach § 88 BBG / Landesrecht — Freizeitausgleich vs. Verguetung.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 88 BBG**: Mehrarbeit auf Anordnung.
+- **§ 60 BeamtStG** iVm Landesrecht.
+- Mehrarbeitsverguetungsverordnung (MAVergV).
 
-## Prüfprogramm
+## Voraussetzungen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Anordnung des Dienstvorgesetzten.
+- Zwingende dienstliche Gruende.
+- Innerhalb der hoechstzulaessigen Arbeitszeit.
 
-## Typische Fallen
+## Vorrang Freizeitausgleich
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Mehrarbeit ist primaer durch entsprechende Dienstbefreiung auszugleichen.
+- Erst wenn das nicht moeglich: Geldausgleich.
+
+## Verguetung
+
+- MAVergV setzt Stundensaetze fest.
+- Nach Besoldungsgruppe gestaffelt.
+
+## EuGH-Linie
+
+- EuGH zur Arbeitszeitrichtlinie 2003/88/EG.
+- Max. 48 Wochenstunden im Durchschnitt.
+- Bereitschaftsdienst als Arbeitszeit (EuGH SIMAP, Jaeger).
+
+## Pruefraster
+
+1. Mehrarbeit angeordnet?
+2. Freizeitausgleich moeglich?
+3. Andernfalls Verguetung?
+4. Arbeitszeitgrenzen eingehalten?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Mehrarbeitsabrechnung.
+- Antrag Geldausgleich.

@@ -3,43 +3,44 @@ name: besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper
 description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre
+# Besold Neu 018 Konkurrentenschutz Eilrechtsschutz Ernennungssper
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Konkurrentenschutz Eilrechtsschutz Ernennungssperre** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Konkurrentenschutz im Eilrechtsschutz — Ernennungssperre.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Art. 33 Abs. 2 GG**: Bestenauslese.
+- **§ 9 BBG / BeamtStG**: Auswahlverfahren.
+- **§ 123 VwGO**: Einstweilige Anordnung.
 
-## Prüfprogramm
+## Konkurrentensituation
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Bei Beförderungsstelle / Neuernennung.
+- Mehrere Bewerber.
+- Auswahlentscheidung des Dienstherrn.
 
-## Typische Fallen
+## Eilrechtsschutz
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Antrag § 123 VwGO**: Ernennungssperre, damit Wartezeit zur Klage gewaehrt wird.
+- **Anordnungsanspruch**: Anspruch auf rechtmaessige Auswahl.
+- **Anordnungsgrund**: dringliche Folgen, wenn Ernennung erfolgt (irreversible Eingabe = abgeschlossene Personalentscheidung).
+
+## BVerwG-Linie
+
+- BVerwG 2 C 16.12 vom 21.06.2007: Anforderungen an Auswahlentscheidung.
+- BVerwG 2 VR 4/14 zur Ernennungssperre.
+- Az verifizieren.
+
+## Pruefraster
+
+1. Auswahlentscheidung getroffen?
+2. Mitkonkurrent informiert?
+3. Eilantrag gestellt?
+4. Ernennungssperre erforderlich?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Eilantrag § 123 VwGO.
+- Konkurrentenklage.

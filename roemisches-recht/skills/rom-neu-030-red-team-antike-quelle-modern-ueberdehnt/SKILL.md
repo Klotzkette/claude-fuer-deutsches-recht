@@ -3,43 +3,45 @@ name: rom-neu-030-red-team-antike-quelle-modern-ueberdehnt
 description: "Römisches Recht: Red-Team antike Quelle modern überdehnt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Red-Team antike Quelle modern überdehnt
+# Rom Neu 030 Red Team Antike Quelle Modern Ueberdehnt
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Red-Team antike Quelle modern überdehnt** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Red-Team gegen antike Quelle modern ueberdehnt.
 
-## Kaltstart in 6 Fragen
+## Typische Fehler
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- "Roemer hatten schon Datenschutzrecht" — anachronistisch.
+- "Bona fides ist § 242 BGB" — zu starke Gleichsetzung.
+- "Aequitas heisst Treu und Glauben" — Bedeutung verschoben.
 
-## Prüfprogramm
+## Methodische Pruefung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Welche roemische Quelle wird zitiert?
+2. Welche moderne Norm wird verglichen?
+3. Welche Aenderungen sind zwischen den Begriffen eingetreten?
+4. Welche Kontextverschiebung?
 
-## Typische Fallen
+## Typische Anachronismen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sklavenarbeitsrecht ≠ heutiges Arbeitsrecht.
+- Mancipatio ≠ § 929 BGB.
+- Roemische Buergschaft ≠ § 765 BGB (akzessorisch + abstrakt).
+- Familia ≠ moderne Familie.
+
+## Red-Team-Fragen
+
+- Wirklich vergleichbar?
+- Oder nur namensgleich?
+- Welche Funktion in damaliger Gesellschaft?
+- Welche Funktion heute?
+
+## Pruefraster
+
+1. Welche Behauptung?
+2. Welches Vergleichsobjekt?
+3. Wirklich Aequivalenz?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Anachronismus-Pruefung.

@@ -3,43 +3,44 @@ name: rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-ki
 description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche
+# Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Novellae Justinians — Verwaltungsrecht, Ehe, Erbrecht, Kirche.
 
-## Kaltstart in 6 Fragen
+## Novellae
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Nach Codex Iustinianus 534 erlassene Konstitutionen.
+- 168 Novellen.
+- Hauptsaechlich in Griechisch.
 
-## Prüfprogramm
+## Wichtige Themen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Eherecht**: Ehegueterrecht, Brautgeschenk.
+- **Erbrecht**: Pflichtteilsreform (1/3 bzw. 1/2 statt 1/4).
+- **Kirchenrecht**: Stellung der Bischoefe, Kloester.
+- **Verwaltungsrecht**: Provinzialordnung.
 
-## Typische Fallen
+## Wichtige Novelle 4 (vor 535)
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Beneficium excussionis (Vorausklage des Buergen).
+
+## Wichtige Novelle 134 (vor 556)
+
+- Ehescheidung beschraenkt.
+
+## Bedeutung
+
+- Quellen fuer kanonisches Recht der Ostkirchen.
+- Rezeption im byzantinischen Recht.
+
+## Pruefraster
+
+1. Welche Novelle?
+2. Welcher Bereich?
+3. Wirkung?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Novellen-Analyse.

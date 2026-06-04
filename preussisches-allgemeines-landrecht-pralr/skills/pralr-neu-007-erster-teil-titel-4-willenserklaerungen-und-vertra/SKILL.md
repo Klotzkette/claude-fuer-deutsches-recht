@@ -3,43 +3,44 @@ name: pralr-neu-007-erster-teil-titel-4-willenserklaerungen-und-vertra
 description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge
+# Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Erster Teil Titel 4 Willenserklärungen und Verträge** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ALR I 4: Willenserklaerungen und Vertraege.
 
-## Kaltstart in 6 Fragen
+## Wichtige Paragraphen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **ALR I 4 §§ 1-30**: Begriff Willenserklaerung.
+- **ALR I 4 §§ 31-90**: Mangelhafte Willenserklaerung (Furcht, Irrtum, arglistige Taeuschung).
+- **ALR I 4 §§ 100-150**: Erforderliche Geschaeftsfaehigkeit (Adolescenten unter 25 mit cura minorum).
 
-## Prüfprogramm
+## Anfechtungsgruende
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vis ac metus (Furcht durch Drohung).
+- Error essentialis (wesentlicher Irrtum).
+- Dolus malus (arglistige Taeuschung).
+- Restitutio in integrum ob aetatem (Minderjaehrigenschutz).
 
-## Typische Fallen
+## Subsumtionsbeispiel: Vertrag aus Furcht 1820
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+A unterschreibt aus Furcht vor Drohung mit Gewalt.
+- **ALR I 4**: Anfechtung wegen vis ac metus moeglich.
+- **BGB**: § 123 BGB Anfechtung wegen Drohung; § 124 BGB Frist 1 Jahr.
+
+## Heutige Fortwirkung
+
+- §§ 116-144 BGB Willenserklaerungen.
+- §§ 119, 120, 123 BGB Anfechtung.
+- §§ 104-113 BGB Geschaeftsfaehigkeit.
+
+## Pruefraster
+
+1. Welcher Mangel?
+2. Anfechtungsgrund?
+3. Frist?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Anfechtungsanalyse.
+- BGB-Vergleich.

@@ -3,57 +3,48 @@ name: buergschaft-privatperson-gesellschafter-ehegatte
 description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko."
 ---
 
-
-# Privatpersonen-, Gesellschafter- und Ehegattenbürgschaft
-
-## Fachkern: Privatpersonen-, Gesellschafter- und Ehegattenbürgschaft
-- **Spezialgegenstand:** Privatpersonen-, Gesellschafter- und Ehegattenbürgschaft; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
+# Buergschaft Privatperson Gesellschafter Ehegatte
 
 ## Aufgabe
 
-Prüfe, ob eine persönliche Bürgschaft für die Bank tragfähig ist oder später als Sittenwidrigkeits-, Form- oder Aufklärungsproblem explodiert. Der Skill ist für Firmenkundenkredite, Start-up-Finanzierungen, Familienunternehmen, Praxisfinanzierungen und Sanierungen gedacht.
+Skill fuer Buergschaft Privatperson / Gesellschafter / Ehegatte — Wirksamkeit und Sittenwidrigkeit.
 
-## Sofortsortierung
+## Norm
 
-| Bürgentyp | Typisches Risiko |
-| --- | --- |
-| Geschäftsführer/Gesellschafter | eigenes wirtschaftliches Interesse, aber Überforderung und Interessenkonflikt prüfen |
-| Ehegatte/Partner/Familienmitglied | emotionale Verbundenheit, krasse Überforderung, fehlendes Eigeninteresse |
-| Arbeitnehmer/nahestehende Person | besonders hohes Druck- und Sittenwidrigkeitsrisiko |
-| Kaufmann/Unternehmer | HGB-Sonderregeln möglich, trotzdem Transparenz und AGB prüfen |
+- **§§ 765-778 BGB**: Buergschaft.
+- **§ 766 BGB**: Schriftformerfordernis.
+- **§ 138 BGB**: Sittenwidrigkeit.
 
-## Normenanker
+## Drei Konstellationen
 
-- §§ 765 bis 778 BGB, insbesondere Schriftform § 766 BGB und Einreden.
-- § 138 BGB bei sittenwidriger Überforderung oder strukturellem Druck.
-- §§ 305 ff. BGB bei Bankformularen.
-- §§ 349, 350 HGB nur bei Handelsgeschäft des Bürgen.
-- Verbraucherschutz- und Informationspflichten je nach Darlehens-/Sicherheitenkonstellation gesondert prüfen.
+### Gesellschafter-Buergschaft
+- Gesellschafter buergt fuer Kredit der eigenen GmbH/AG.
+- Wirksam, weil unmittelbares Eigeninteresse.
 
-## Prüfworkflow
+### Ehegatten-Buergschaft
+- Ehegatte buergt fuer Kredit des anderen Ehegatten oder seines Unternehmens.
+- **BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermoegensueberforderung".
+- Voraussetzungen:
+  - Buergin/Buerge hat kein nennenswertes Einkommen / Vermoegen.
+  - Buergschaft uebersteigt Pfaendungsmoeglichkeit drastisch.
+  - Buergin emotional verbunden mit Hauptschuldner.
 
-1. **Form:** Bürgschaftserklärung, Betrag, Hauptschuld, Gläubiger, Schriftform oder kaufmännische Ausnahme.
-2. **Eigeninteresse:** Beteiligung, Geschäftsführungsrolle, wirtschaftlicher Nutzen, Familienbezug.
-3. **Leistungsfähigkeit:** Einkommen, Vermögen, bestehende Schulden, realistische Rückführung.
-4. **Drucklage:** Bankgespräch, Verhandlungsfreiheit, Drohung mit Kreditkündigung, Überraschung.
-5. **Aufklärung:** Was wusste die Bank über Überforderung, Krise, Zweck und Umfang?
-6. **Durchsetzung:** Prozessrisiko, Vergleichsoption, Sicherheitenfreigabe, Regress.
+### Drittbuergschaft (z. B. Eltern fuer Kinder)
+- Aehnliche Pruefung wie Ehegatte.
 
-## Ergebnis
+## Sittenwidrigkeit § 138 BGB
 
-Erzeuge eine **Bürgen-Risikoampel**:
+- BGH-Linie: ca. 1 Prozent monatliche Tilgungsfaehigkeit als Schwelle.
+- Bei Unterschreitung: vermutung Sittenwidrigkeit.
 
-- **Grün:** klare Form, eigenes Interesse, Leistungsfähigkeit plausibel, keine Druckindizien.
-- **Gelb:** Informationslücken, hohe Belastung, familiäre Nähe, aber eigenes wirtschaftliches Motiv.
-- **Rot:** krasse Überforderung, kein Eigeninteresse, erkennbare emotionale Drucklage, unklarer Formulartext.
+## Pruefraster
 
-## Anschluss-Skills
+1. Verhaeltnis Buerge - Hauptschuldner?
+2. Eigeninteresse?
+3. Tilgungsfaehigkeit?
+4. Sittenwidrigkeit?
 
-- `kreditsicherheiten-bestellung-verwertung`
-- `darlehensrecht-verbraucher-unternehmer`
-- `kreditentscheidung-weiterfinanzierung`
-- `litigation-schlichtung-prozess`
+## Output
+
+- Wirksamkeitspruefung.
+- Klage bei Inanspruchnahme.

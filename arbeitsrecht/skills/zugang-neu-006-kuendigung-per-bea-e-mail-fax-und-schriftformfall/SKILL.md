@@ -3,52 +3,50 @@ name: zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall
 description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen
-
-## V90 Fachkern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
+# Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Kündigung per beA E-Mail Fax und Schriftformfallen** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623 BGB.
 
-## Kaltstart in 6 Fragen
+## Schriftformerfordernis § 623 BGB
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Kuendigung erfordert SCHRIFTFORM** (= eigenhaendige Unterschrift im Original, § 126 BGB).
+- Elektronische Form (§ 126a BGB qualifizierte elektronische Signatur) ist NUR ausnahmsweise gleichgestellt — und im Arbeitsrecht durch § 623 BGB AUSGESCHLOSSEN.
 
-## Prüfprogramm
+## Was funktioniert NICHT
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Einfache E-Mail (auch mit eingescannter Unterschrift).
+- Fax (BAG 6 AZR 519/12).
+- WhatsApp/SMS.
+- beA-Nachricht (qualifizierte Signatur reicht nach § 623 BGB nicht).
 
-## Typische Fallen
+## Folge
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Nicht-schriftliche Kuendigung ist **nichtig** § 125 BGB.
+- Keine Wirkung — Arbeitsverhaeltnis besteht fort.
+- ABER: 3-Wochen-Frist § 4 KSchG kann trotzdem laufen, wenn Empfaenger nichtige Kuendigung als wirksam akzeptiert (BAG-Linie).
+
+## Empfehlung
+
+- **Original-Brief mit eigenhaendiger Unterschrift** ist der einzig sichere Weg.
+- Zustellung per Bote oder persoenliche Uebergabe.
+- Wenn elektronisch, dann nur als Vorab-Information; Original folgt.
+
+## BAG-Linie
+
+- BAG 6 AZR 519/12: Fax-Kuendigung formnichtig.
+- BAG 6 AZR 687/09: keine E-Mail-Kuendigung.
+- BAG 2 AZR 224/18: Zugangsfragen.
+
+## Pruefraster
+
+1. Welches Medium?
+2. Schriftform eingehalten?
+3. Wenn nein: Nichtigkeit + Klage?
+4. 3-Wochen-Frist beachten?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Form-Analyse.
+- Klageempfehlung bei Formverstoss.

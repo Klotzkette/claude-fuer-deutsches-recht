@@ -3,43 +3,46 @@ name: pralr-neu-014-erster-teil-titel-11-kauf-tausch-schenkung
 description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung
+# Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Erster Teil Titel 11 Kauf Tausch Schenkung** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ALR I 11: Kauf, Tausch, Schenkung — Konsensualvertraege.
 
-## Kaltstart in 6 Fragen
+## Wichtige Paragraphen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **ALR I 11 §§ 1-86**: Kauf (emptio venditio).
+- **ALR I 11 §§ 87-115**: Gefahrtragung — periculum est emptoris ab Uebergabe.
+- **ALR I 11 §§ 116-180**: Aedilizische Aktionen (Sachmaengelhaftung).
+- **ALR I 11 §§ 200-260**: Tausch.
+- **ALR I 11 §§ 270-320**: Schenkung.
 
-## Prüfprogramm
+## Sachmaengelhaftung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Aedilizische Aktionen aus roemischer Tradition.
+- **Actio redhibitoria**: Wandlung.
+- **Actio quanti minoris**: Minderung.
+- Frist 6 Monate fuer Vieh, 12 Monate fuer Sklaven (historisch).
 
-## Typische Fallen
+## Subsumtionsbeispiel: Krankes Pferd 1830
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+Pferd nach Kauf lahmt; Mangel vor Kauf bestand.
+- **ALR I 11**: aedilizische Aktion innerhalb 6 Monaten.
+- **BGB**: § 437 Nr. 2/3 BGB Ruecktritt/Minderung; 2 Jahre Verjaehrung § 438 BGB.
+
+## Heutige Fortwirkung
+
+- §§ 433-453 BGB Kaufrecht.
+- §§ 480-481 BGB Tausch.
+- §§ 516-534 BGB Schenkung.
+
+## Pruefraster
+
+1. Vertragstyp?
+2. Mangel?
+3. Frist?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Kaufrechtsanalyse.
+- BGB-Vergleich.

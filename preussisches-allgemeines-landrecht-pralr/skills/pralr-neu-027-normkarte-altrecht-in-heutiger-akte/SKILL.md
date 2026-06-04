@@ -3,43 +3,48 @@ name: pralr-neu-027-normkarte-altrecht-in-heutiger-akte
 description: "PrALR: Normkarte Altrecht in heutiger Akte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Normkarte Altrecht in heutiger Akte
+# Pralr Neu 027 Normkarte Altrecht In Heutiger Akte
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Normkarte Altrecht in heutiger Akte** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wie taucht ALR-Altrecht in heutigen Akten auf? Praxisleitfaden.
 
-## Kaltstart in 6 Fragen
+## Typische Faelle
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Alteintraege im Grundbuch
+- Hutungsrechte, Wegerechte, Reallasten.
+- Erbenzinsguter.
+- Familienfideikommiss-Reste (selten).
 
-## Prüfprogramm
+### Alte Erbschaftsfaelle
+- Erbfaelle vor 01.01.1900 nach ALR.
+- Nacherbschaft kann heute noch relevant sein.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Adelsfuehrung
+- Namensrechtliche Fragen (Art. 109 III WRV / Art. 123 GG).
 
-## Typische Fallen
+### Provinzialrechte
+- Magdeburg, Pommern, Schlesien — vor BGB.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Praxismethodik
+
+1. Datum des Rechtsgeschaefts feststellen.
+2. Anwendbares Recht ermitteln (ALR, Code civil, Gemeines Recht).
+3. EGBGB Art. 184 / 218 pruefen.
+4. Heutige Ablöse-/Bereinigungsmoeglichkeiten.
+
+## Sachenrechtsbereinigungsgesetz 1994
+
+- Fuer Ostdeutschland.
+- Ablöse von Bodenreformland und Altrechten.
+
+## Pruefraster
+
+1. Wann begruendet?
+2. Welches Recht?
+3. Heute Ablöse moeglich?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Altrechte-Analyse.
+- Bereinigungsantrag.

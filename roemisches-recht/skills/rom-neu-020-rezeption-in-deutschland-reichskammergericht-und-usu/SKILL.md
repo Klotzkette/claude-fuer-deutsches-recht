@@ -3,43 +3,47 @@ name: rom-neu-020-rezeption-in-deutschland-reichskammergericht-und-usu
 description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus
+# Rom Neu 020 Rezeption In Deutschland Reichskammergericht Und Usu
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Rezeption in Deutschland Reichskammergericht und Usus modernus** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Rezeption des roemischen Rechts in Deutschland — Reichskammergericht und Usus modernus.
 
-## Kaltstart in 6 Fragen
+## Reichskammergericht
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Gegruendet 1495 mit Ewigem Landfrieden.
+- Sitz: Frankfurt, Speyer, Wetzlar.
+- Erstes oberstes Reichsgericht.
+- Anwendung des "gelehrten Rechts" — d. h. roemisch-kanonisches Recht.
 
-## Prüfprogramm
+## Reichshofrat
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gegruendet 1559 in Wien.
+- Konkurrenzgericht zum Reichskammergericht.
 
-## Typische Fallen
+## Vollrezeption
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- 16. Jh.: roemisches Recht als subsidiaeres Reichsrecht.
+- Praktisch: vor allem Privatrecht.
+- Strafrecht: Constitutio Criminalis Carolina 1532.
+
+## Usus modernus pandectarum
+
+- 17./18. Jh.: praktische Anwendung der Pandekten in den deutschen Staaten.
+- Hauptvertreter: Samuel Stryk (1632-1710), "Usus modernus pandectarum" 1690-1712.
+
+## Pandektistik
+
+- 19. Jh.: wissenschaftliche Aufbereitung des roemischen Rechts.
+- Hauptvertreter: Savigny, Puchta, Windscheid.
+- Vorbereitung des BGB.
+
+## Pruefraster
+
+1. Welche Periode?
+2. Welcher Gerichtshof / Schule?
+3. Welche Bedeutung?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Rezeptionsgeschichte-Analyse.

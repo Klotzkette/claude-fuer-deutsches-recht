@@ -3,43 +3,41 @@ name: rom-neu-016-mittelalterliches-roemisches-recht-glossatoren-bolog
 description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna
+# Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Mittelalterliches römisches Recht Glossatoren Bologna** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Mittelalterliches roemisches Recht — Glossatoren von Bologna.
 
-## Kaltstart in 6 Fragen
+## Glossatorenschule
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Beginn ca. 1088 mit **Irnerius** in Bologna.
+- Hauptvertreter: Irnerius, Bulgarus, Martinus, Hugo, Iacobus ("Quattuor doctores"), Azo (Summa Codicis 1208/1210), Accursius (Glossa ordinaria 1228-1234).
 
-## Prüfprogramm
+## Methode
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- "Glossen": Randnotizen zu den Justinianischen Texten.
+- Wortwoertliche Auslegung.
+- Brevia (kurze Kommentare) und Summae.
 
-## Typische Fallen
+## Bedeutung
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rezeption des roemischen Rechts im mittelalterlichen Westen.
+- Bologna als juristisches Studienzentrum.
+- Vorbild fuer alle Universitaeten.
+
+## Glossa ordinaria
+
+- Accursius vollendet 1228-1234.
+- Standardapparat zu Digesten, Codex, Institutionen, Novellen.
+- Verbindlich bis 17. Jh.
+
+## Pruefraster
+
+1. Welche Schule?
+2. Welcher Vertreter?
+3. Welcher Text?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Schul-Analyse.

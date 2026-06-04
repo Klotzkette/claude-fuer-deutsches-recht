@@ -3,43 +3,48 @@ name: besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei
 description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit
+# Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Versorgung im Ruhestand — Ruhegehalt nach BeamtVG.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 4 BeamtVG**: Wartezeit (5 Jahre Pflichtbeitragszeit).
+- **§ 14 BeamtVG**: Hoehe des Ruhegehalts.
+- **§ 6 BeamtVG**: Ruhegehaltfaehige Dienstzeit.
 
-## Prüfprogramm
+## Hoehe
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Hoechstruhegehalt**: 71,75 Prozent der letzten ruhegehaltfaehigen Dienstbezuege.
+- **Mindestversorgung**: nach § 14 Abs. 4 BeamtVG.
+- Berechnung: 1,79375 Prozent pro Dienstjahr (max. 40 Jahre).
 
-## Typische Fallen
+## Ruhegehaltfaehige Dienstzeit
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Aktive Dienstzeit als Beamter.
+- Ausbildungszeit (max. 3 Jahre als Anwaerter).
+- Wehrdienstzeit.
+- Mutterschutz / Elternzeit (begrenzt).
+
+## Versorgungsabschlag
+
+- Bei vorzeitigem Eintritt in den Ruhestand (vor Regelaltersgrenze): 3,6 Prozent pro Jahr, max. 10,8 Prozent.
+
+## Versorgungsausgleich bei Scheidung
+
+- §§ 1587 ff. BGB.
+- Externes Versorgungssystem fuer Ex-Ehepartner.
+
+## Pruefraster
+
+1. Wartezeit erfuellt?
+2. Welche Dienstzeit?
+3. Hoehe?
+4. Abschlag?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Ruhegehalt-Berechnung.
+- Antrag Versorgungsauskunft.

@@ -3,43 +3,42 @@ name: besold-neu-006-erschwerniszulagen-dienst-zu-unguenstigen-zeiten
 description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten
+# Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Erschwerniszulagen Dienst zu ungünstigen Zeiten** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Erschwerniszulagen — Wechselschicht, Nachtdienst, Wochenende.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 47 BBesG**: Erschwerniszulagen.
+- **EZulV** (Erschwerniszulagenverordnung).
 
-## Prüfprogramm
+## Zulagentypen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Wechselschichtzulage
+- Bei standig wechselnden Schichten (Frueh, Spaet, Nacht).
+- Pauschal pro Monat.
 
-## Typische Fallen
+### Schichtzulage
+- Bei festen Schichtmodellen (Zwei- oder Dreischichtbetrieb).
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### Nachtdienstzulage
+- Pro Stunde Nachtdienst.
+
+### Sonderzulagen
+- Tauchdienst (z. B. Bundeswehrtaucher, Polizei).
+- Sprengstoffumgang.
+- Hoehenflug.
+
+## Pruefraster
+
+1. Welche Dienstform?
+2. Wie haeufig Schicht?
+3. Anspruch auf welche Zulage?
+4. Hoehe nach EZulV?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Zulagenberechnung.
+- Antrag bei Dienststelle.

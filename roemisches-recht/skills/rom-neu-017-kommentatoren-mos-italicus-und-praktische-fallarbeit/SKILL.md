@@ -3,43 +3,44 @@ name: rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit
 description: "Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit
+# Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Kommentatoren mos italicus und praktische Fallarbeit** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Kommentatoren / Mos italicus und praktische Fallarbeit.
 
-## Kaltstart in 6 Fragen
+## Kommentatorenschule
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- 14./15. Jh. in Italien.
+- Hauptvertreter: **Bartolus de Saxoferrato** (1313-1357), **Baldus de Ubaldis** (1327-1400).
 
-## Prüfprogramm
+## Methode
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Praktischer als Glossatoren.
+- Anwendung roemischen Rechts auf zeitgenoessische Faelle.
+- "Mos italicus iura docendi" — italienische Lehrart.
 
-## Typische Fallen
+## Bartolus
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Kommentare zu Codex und Digesten.
+- "Nemo iurista nisi bartolista" — "kein Jurist, ohne Bartolus-Anhaenger zu sein".
+
+## Bedeutung
+
+- Schluesselrolle in der Rezeption.
+- Vorbild fuer die juristische Fakultaeten in ganz Europa.
+
+## Mos italicus vs. Mos gallicus
+
+- Italicus: praktisch, kasuistisch.
+- Gallicus (16. Jh.): philologisch, historisch (Humanisten).
+
+## Pruefraster
+
+1. Welcher Kommentator?
+2. Welcher Fall?
+3. Welche Methodik?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Kommentatoren-Analyse.

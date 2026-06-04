@@ -3,43 +3,43 @@ name: pralr-neu-025-zweiter-teil-staatsdiener-amtspflichten
 description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Zweiter Teil Staatsdiener Amtspflichten
+# Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Zweiter Teil Staatsdiener Amtspflichten** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ALR II 10: Staatsdiener und Amtspflichten — Vorlaeufer des Beamtenrechts.
 
-## Kaltstart in 6 Fragen
+## Wichtige Paragraphen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **ALR II 10 §§ 1-50**: Begriff Staatsdiener; Treuepflicht.
+- **ALR II 10 §§ 100-200**: Disziplinarrecht und Strafverfolgung.
 
-## Prüfprogramm
+## Hergebrachte Grundsaetze des Berufsbeamtentums
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Anstellung auf Lebenszeit.
+- Alimentationsprinzip.
+- Verfassungstreue.
+- Disziplinarrecht.
 
-## Typische Fallen
+## Subsumtionsbeispiel: Pflichtverletzung 1840
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+Staatsdiener trifft pflichtwidrige Entscheidung.
+- **ALR II 10**: Disziplinarverfahren; ggf. Entlassung.
+- **Heute**: BDG, BBG.
+
+## Heutige Fortwirkung
+
+- Art. 33 V GG.
+- BBG, BeamtStG, BeamtVG.
+- BDG.
+
+## Pruefraster
+
+1. Status Staatsdiener / Beamter?
+2. Pflichtverletzung?
+3. Disziplinar?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Disziplinarpruefung.
+- Beamtenrechtsvergleich.

@@ -3,43 +3,42 @@ name: rom-neu-012-byzantinisches-recht-theodosianus-justinian-und-basi
 description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken
+# Rom Neu 012 Byzantinisches Recht Theodosianus Justinian Und Basi
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Byzantinisches Recht Theodosianus Justinian und Basiliken** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Byzantinisches Recht: Codex Theodosianus, Justinianus, Basiliken.
 
-## Kaltstart in 6 Fragen
+## Codex Theodosianus 438 n. Chr.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Sammlung der kaiserlichen Konstitutionen seit Konstantin.
+- 16 Buecher.
+- Wesentliche Quelle des spaetantiken Rechts.
 
-## Prüfprogramm
+## Justinianische Kodifikation 529-534 n. Chr.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- **Codex Iustinianus**: Konstitutionen-Sammlung.
+- **Digesta** (Pandekten): Juristen-Schriften.
+- **Institutiones**: Lehrbuch fuer Studenten.
+- **Novellae**: nach 534 erlassene Konstitutionen.
 
-## Typische Fallen
+## Basiliken 9./10. Jh.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Griechische Bearbeitung des justinianischen Rechts.
+- 60 Buecher.
+- Standardrecht des byzantinischen Reichs bis 1453.
+
+## Bedeutung
+
+- Byzantinisches Recht setzte roemisches Recht fort.
+- Aus dem Westen verloren, ueber Italien und Bologna rezipiert (ab 11. Jh.).
+
+## Pruefraster
+
+1. Welche Kodifikation?
+2. Welches Jahrhundert?
+3. Rezeptionsweg?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Rechtsgeschichtsanalyse.

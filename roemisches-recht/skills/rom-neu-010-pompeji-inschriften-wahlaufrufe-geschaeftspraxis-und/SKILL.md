@@ -3,43 +3,42 @@ name: rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis-und
 description: "Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen
+# Rom Neu 010 Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Pompeji-Inschriften: Wahlaufrufe, Geschaeftspraxis und Alltagsnormen.
 
-## Kaltstart in 6 Fragen
+## Pompeji-Quellen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- Inschriften und Graffiti aus Pompeji (verschuettet 79 n. Chr.).
+- Wahlaufrufe (programmata electoralia).
+- Geschaeftsvertraege auf Wachstafeln (tabulae ceratae).
+- Bankiergeschaefte des Iucundus, Sulpicii-Archive.
 
-## Prüfprogramm
+## Rechtshistorische Bedeutung
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Praktische Anwendung roemischen Rechts im Alltag.
+- Bilingue Inschriften (Lateinisch / Griechisch).
+- Personalstand: Sklaven, Freigelassene, Buerger.
 
-## Typische Fallen
+## Wachstafelarchive
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Archiv des Iucundus (Auktioneur).
+- Sulpicii-Archive (Bankier in Puteoli, Pompeji-Naehe).
+
+## Subsumtionsbeispiel: Kaufvertrag auf Wachstafel
+
+Auktion von Pferd 50 n. Chr.
+- Wachstafelvertrag mit Datum, Unterschrift, Zeugen.
+- Praktischer Beweis fuer roemisches Vertragsrecht.
+
+## Pruefraster
+
+1. Welche Inschrift?
+2. Welcher Rechtsbereich?
+3. Tagliche Praxis vs. Theorie?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Quellenanalyse.

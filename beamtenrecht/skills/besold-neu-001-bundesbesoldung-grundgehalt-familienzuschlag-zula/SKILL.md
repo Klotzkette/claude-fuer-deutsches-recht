@@ -3,43 +3,55 @@ name: besold-neu-001-bundesbesoldung-grundgehalt-familienzuschlag-zula
 description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen
+# Besold Neu 001 Bundesbesoldung Grundgehalt Familienzuschlag Zula
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Bundesbesoldung Grundgehalt Familienzuschlag Zulagen** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Bundesbesoldung nach BBesG — Grundgehalt, Familienzuschlag, Zulagen.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **BBesG (Bundesbesoldungsgesetz)**.
+- **§ 2 BBesG**: Begriff der Dienstbezuege.
+- **§ 19 ff. BBesG**: Grundgehalt nach Besoldungsgruppen.
+- **§ 39 ff. BBesG**: Familienzuschlag.
+- **§ 42 ff. BBesG**: Zulagen.
 
-## Prüfprogramm
+## Grundgehalt
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Besoldungsgruppen: A 2 - A 16 (Beamte gehobener und hoeherer Dienst); B (Spitzendienst); C/W (Hochschullehrer); R (Richter).
+- Stufenaufstieg nach § 27 BBesG (Erfahrungsstufen).
+- Anlage IV BBesG: Grundgehalt-Tabelle (jeweils aktualisiert).
 
-## Typische Fallen
+## Familienzuschlag
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Stufe 1**: Verheiratete/eingetragene Lebenspartnerschaft + Geschiedene mit Unterhalt.
+- **Stufe 2**: zzgl. erstes Kind.
+- **Stufe 3 ff.**: weitere Kinder.
+- BVerfG zur amtsangemessenen Alimentation: Familienzuschlag ab drittem Kind muss erhoeht werden.
+
+## Zulagen
+
+- **Ministerialzulage** (BMI-Beschaeftigte).
+- **Stellenzulage** (z. B. Polizei, BPol, BKA).
+- **Erschwerniszulage** (Wechselschicht, Tauchen, Sprengstoff).
+- **Auslandszuschlag** (Botschaftsdienst).
+
+## Aktuelle BVerfG-Linie
+
+- BVerfG 2 BvL 4/18 vom 04.05.2020 zur amtsangemessenen Alimentation.
+- BVerfG 2 BvL 6/17 zur R-Besoldung.
+- Az live verifizieren.
+
+## Pruefraster
+
+1. Welche Besoldungsgruppe?
+2. Welche Stufe?
+3. Familienzuschlag-Stufe?
+4. Zulagenanspruch?
+5. Amtsangemessenheit gewahrt?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Besoldungsberechnung.
+- Widerspruch bei Unterbesoldung.

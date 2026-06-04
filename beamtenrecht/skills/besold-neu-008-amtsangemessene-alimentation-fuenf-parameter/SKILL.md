@@ -3,43 +3,44 @@ name: besold-neu-008-amtsangemessene-alimentation-fuenf-parameter
 description: "Beamtenrecht: Amtsangemessene Alimentation fünf Parameter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Amtsangemessene Alimentation fünf Parameter
+# Besold Neu 008 Amtsangemessene Alimentation Fuenf Parameter
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Amtsangemessene Alimentation fünf Parameter** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer die amtsangemessene Alimentation und das Fuenf-Parameter-Schema des BVerfG.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Art. 33 Abs. 5 GG**: Beamtenrecht und hergebrachte Grundsaetze.
+- BVerfG-Linie zur amtsangemessenen Alimentation.
 
-## Prüfprogramm
+## Fuenf Parameter (BVerfG 2 BvL 4/18 vom 04.05.2020)
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. **Vergleich mit Tarifentwicklung** im oeffentlichen Dienst (mehr als 5 Prozent Abweichung problematisch).
+2. **Verbraucherpreisindex**: Reallohnverlust ueber 5 Prozent in 5 Jahren?
+3. **Vergleich Nominalentwicklung** der Beamtenbesoldung.
+4. **Systeminterner Besoldungsvergleich** (innerhalb der Besoldungsstruktur konsistent?).
+5. **Vergleich zur Privatwirtschaft** (Spitzen-/Spezialisten-Vergleich).
 
-## Typische Fallen
+## Sechste Anker (BVerfG 2 BvL 6/17)
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Mindestabstandsgebot zur Buergergeld-Grundsicherung**: 15 Prozent Mindestabstand zum Existenzminimum-Niveau einer vierkoepfigen Familie auf der Besoldungsstufe A 4.
+
+## Ergebnis BVerfG-Pruefung
+
+- Wenn 3 von 5 Parametern Verfassungsverstoss indizieren: vermutung der amtswidrigen Alimentation.
+- Gesetzgeber muss handeln.
+
+## Pruefraster
+
+1. Tarifvergleich?
+2. Inflation?
+3. Nominalentwicklung?
+4. Systemkohaerenz?
+5. Privat-Vergleich?
+6. Mindestabstand Buergergeld?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- 5-Parameter-Analyse.
+- Widerspruch bei Unterbesoldung.

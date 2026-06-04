@@ -3,43 +3,52 @@ name: pralr-neu-001-normnavigator-jede-pralr-norm-als-karte-erschliess
 description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Normnavigator jede PrALR-Norm als Karte erschließen
+# Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Normnavigator jede PrALR-Norm als Karte erschließen** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Normnavigator: jede ALR-Norm systematisch als Karte erschliessen.
 
-## Kaltstart in 6 Fragen
+## Methodisches Schema
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Pro Norm: Quellenanker, Inhalt, Subsumtion, Vergleich BGB.
 
-## Prüfprogramm
+### 1. Quellenanker
+- Ausgabe: 1794 (Editio princeps) oder 1804 (revidierte Fassung).
+- Teil (I = Privatrecht, II = oeffentliches Recht, Einleitung).
+- Titel.
+- Paragraph.
+- Digitalisat: opinioiuris.de, koeblergerhard.de, MPI fuer Rechtsgeschichte.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 2. Inhalt
+- Wortlaut (mit Vorbehalt: OCR-Pruefung).
+- Begriffe (frueh-modernes Deutsch entschluesseln).
 
-## Typische Fallen
+### 3. Subsumtion
+- Tatbestand.
+- Rechtsfolge.
+- Beweisfragen.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 4. Vergleich heute
+- BGB §-Pendant.
+- Fortwirkung (Altrechte EGBGB).
+- Heutige Rechtsprechung bei Anwendung.
+
+## Wichtige Werkzeuge
+
+- **Hattenhauer (Hg.) Allgemeines Landrecht 1996**: Standardausgabe.
+- **Koschaker Europa und das roemische Recht**.
+- **MPI Frankfurt Digitalisat-Sammlung**.
+
+## Pruefraster
+
+1. Welche Norm?
+2. Welcher Teil/Titel/§?
+3. Welche Quellenausgabe?
+4. Inhalt klar?
+5. BGB-Pendant?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Normkarte mit allen vier Schichten.
+- Digitalisat-Link.

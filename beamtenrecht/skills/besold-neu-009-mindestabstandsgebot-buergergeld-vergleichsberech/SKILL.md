@@ -3,43 +3,47 @@ name: besold-neu-009-mindestabstandsgebot-buergergeld-vergleichsberech
 description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung
+# Besold Neu 009 Mindestabstandsgebot Buergergeld Vergleichsberech
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Mindestabstandsgebot Bürgergeld Vergleichsberechnung** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer das Mindestabstandsgebot zur Buergergeld-Grundsicherung — BVerfG-Linie.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- BVerfG 2 BvL 6/17, 2 BvL 8/17, 2 BvL 17/16 vom 04.05.2020.
+- Art. 33 V GG iVm Sozialstaatsprinzip.
 
-## Prüfprogramm
+## Mindestabstandsschwelle
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- 15 Prozent ueber dem Existenzminimum-Niveau einer **vierkoepfigen Familie** (zwei Erwachsene, zwei Kinder) auf Besoldungsstufe A 4 / Endstufe.
 
-## Typische Fallen
+## Berechnung Existenzminimum
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Buergergeld-Regelsatz Erwachsene + Kinder.
+- Plus Unterkunftskosten (regional unterschiedlich).
+- Plus Heiz- und Nebenkosten.
+- Plus Sozialversicherungsbeitraege.
+
+## Familienzuschlag-Anker
+
+- Ab drittem Kind muss Familienzuschlag erhoeht werden (BVerfG 2 BvL 8/17).
+- Sonst Verfassungsverstoss.
+
+## Folgen
+
+- Anpassungen mehrerer Landesgesetze 2021-2024.
+- Bayern, Berlin, NRW, Hessen, Bremen, Hamburg etc. haben reagiert.
+- Konkrete Datum live verifizieren.
+
+## Pruefraster
+
+1. Welche Besoldungsgruppe?
+2. Wie viele Kinder?
+3. Buergergeld-Existenzminimum berechnen.
+4. Abstand 15 Prozent?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Mindestabstandsberechnung.
+- Widerspruch bei Verstoss.

@@ -3,43 +3,50 @@ name: besold-neu-015-beihilfe-pkv-restkosten-und-kostendaempfung
 description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung
+# Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Beihilfe PKV Restkosten und Kostendämpfung** im Bereich **Beamtenrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Skill fuer Beihilfe und PKV-Erstattung bei Beamten — Restkosten und Kostendaempfung.
 
-## Kaltstart in 6 Fragen
+## Norm
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **§ 80 BBG**: Beihilfeanspruch.
+- **BBhV** (Bundesbeihilfeverordnung).
+- Landesbeihilfeverordnungen analog.
 
-## Prüfprogramm
+## Beihilfe-Prozentsaetze
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Beamter selbst: 50 Prozent.
+- Verheiratet + 1 Kind: 70 Prozent.
+- Mit 2+ Kindern oder Versorgungsempfaenger: 70 Prozent.
+- Beihilfefaehige Kosten je nach Leistung.
 
-## Typische Fallen
+## Differenz zur Vollkosten
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- PKV muss Differenz tragen.
+- Anteilige Beihilfe (z. B. 50 Prozent) + restliche PKV (50 Prozent) = 100 Prozent.
+
+## Beihilfefaehige Aufwendungen
+
+- Aerztliche Behandlung.
+- Krankenhausaufenthalt.
+- Zahnersatz.
+- Medikamente (mit Eigenbeteiligung).
+- Heilmittel, Hilfsmittel.
+
+## Aktuelle Reformen
+
+- Pflegebeihilfe.
+- Reha-Bedarfe.
+
+## Pruefraster
+
+1. Welcher Beihilfeanspruch?
+2. PKV-Vertrag passend?
+3. Restkosten gedeckt?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Beihilfeantrag-Berechnung.
+- PKV-Wechsel-Memo bei Lueckhe.

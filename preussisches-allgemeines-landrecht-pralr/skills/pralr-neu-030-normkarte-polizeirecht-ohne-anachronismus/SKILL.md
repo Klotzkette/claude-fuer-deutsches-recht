@@ -3,43 +3,43 @@ name: pralr-neu-030-normkarte-polizeirecht-ohne-anachronismus
 description: "PrALR: Normkarte Polizeirecht ohne Anachronismus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# PrALR: Normkarte Polizeirecht ohne Anachronismus
+# Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Normkarte Polizeirecht ohne Anachronismus** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+ALR-Polizeirecht ohne Anachronismus — historische Lektuere statt moderne Projektion.
 
-## Kaltstart in 6 Fragen
+## ALR II 17 § 10
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+"Die noethigen Anstalten zur Erhaltung der oeffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey."
 
-## Prüfprogramm
+## Kontext
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Aufgeklaert-absolutistisches Polizeibegriff: weite Wohlfahrtspflege.
+- Im 19. Jh. verengt zur Gefahrenabwehr (PrOVG Kreuzberg-Urteil 14.06.1882).
 
-## Typische Fallen
+## Historische Lektuere
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- "Polizey" umfasst weit mehr als heute (Gewerbe-, Bau-, Bildungs-, Armenwesen).
+- Modern: nur noch Sicherheit und Ordnung.
+
+## Anachronismusgefahr
+
+- Heute nicht alles "Polizei", was im ALR so genannt war.
+- Trennung: ALR-Polizei vs. moderne Verwaltung.
+
+## Heutige Fortwirkung
+
+- Polizeirechtliche Generalklausel: § 1 PolG NRW, § 11 ASOG Berlin etc.
+- Kreuzberg-Urteil ist Hintergrund.
+
+## Pruefraster
+
+1. ALR-Polizeibegriff oder modern?
+2. Welche Aufgabe?
+3. Heute polizeilich oder verwaltungsrechtlich?
 
 ## Output
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- Begriffsklaerung.
+- Modernes Aequivalent.
