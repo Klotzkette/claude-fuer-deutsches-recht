@@ -36,6 +36,32 @@ Dieser Skill bearbeitet **Zweiter Teil Familienrecht Ehe Vormundschaft** im Bere
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Familienrecht, Ehe, Vormundschaft
+
+### Aufbau
+ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundschaft. Charakteristisch ist die extreme Detailtiefe: das ALR verfasst etwa Pflichten zwischen Ehegatten so konkret, dass der gemeinsame Haushaltsort, das Beherbergungsrecht und die Pflichten der Magd in den Text einfliessen.
+
+### Wichtige Paragraphen
+- **ALR II 1 §§ 1 ff.** Allgemeine Wirkung der Ehe.
+- **ALR II 1 §§ 174 ff.** Pflichten der Ehegatten: Pflicht zur ehelichen Beiwohnung, Pflicht zur Befolgung des Mannes im Haus, Schutzpflicht des Mannes.
+- **ALR II 1 §§ 200 ff.** Gueterstand: Verwaltung des eingebrachten Frauengutes durch den Mann.
+- **ALR II 1 §§ 670 ff.** Scheidung — vor 1875 in Preussen ALR-rechtlich, danach Reichsgesetz vom 06.02.1875.
+- **ALR II 2 §§ 1 ff.** Verhaeltnis Eltern - Kinder.
+- **ALR II 18 §§ 1 ff.** Vormundschaft.
+
+### Heutige Fortwirkung
+- BGB §§ 1297 ff. haben ALR-Eherecht abgeloest.
+- Restbestaende: einzelne Gueterstandsfragen bei vor 1900 geschlossenen Ehen (sehr selten in Praxis).
+- Vormundschaftsrecht: heute BGB §§ 1773 ff. ohne ALR-Anteil.
+
+### Beruehmte Faelle / Personen
+- ALR-Eherecht wurde von Friedrich von Savigny und Anselm von Feuerbach kritisiert als 'zu kasuistisch'.
+
+### Pruefraster
+1. Wann wurde die Ehe geschlossen? — vor 1900 ALR, ab 1900 BGB.
+2. Wann der Erbfall? — entsprechend.
+3. Heute lebende Frage? Direkt BGB.
+
 ## Output
 
 - Memo

@@ -36,6 +36,27 @@ Dieser Skill bearbeitet **Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** im
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Schaden, Ersatz, Zufall, Gefahr
+
+### Aufbau
+Hier verbindet sich Schadensrecht (ALR I 6) mit Vertragsrecht (ALR I 11), Gefahrtragung (ALR I 11 §§ 90 ff.) und Zufall (casus). Wirkungsmaechtig ist die feine Stufung von Verantwortlichkeit.
+
+### Wichtige Paragraphen
+- **ALR I 6 §§ 1-92** Generelles Deliktsrecht (siehe `pralr-neu-009`).
+- **ALR I 11 §§ 87-115** Gefahrtragung beim Kauf: Periculum nach Übergabe.
+- **ALR I 11 §§ 120-180** Mietzins- und Pachtgefahr.
+- **ALR I 13 §§ 1 ff.** Verwahrung; eingeengte Haftung des Verwahrers.
+- **Einl. §§ 74, 75 ALR** als Sondernormen fuer Aufopferung.
+
+### Heutige Fortwirkung
+- Gefahrtragung im Kaufrecht: § 446 BGB ist konzeptionell ALR-nah.
+- Aufopferungsanspruch lebt bis heute fort.
+
+### Pruefraster
+1. Vertragstyp und Periculum (Verkaeufer / Kaeufer / Verwahrer).
+2. Verschuldensgrad nach ALR-Stufen (dolus bis casus).
+3. Heute BGB-§§ und ggf. UN-Kaufrecht.
+
 ## Output
 
 - Memo

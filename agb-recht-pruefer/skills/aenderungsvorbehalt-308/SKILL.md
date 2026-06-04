@@ -37,6 +37,34 @@ Nutze diesen Skill für **Änderungsvorbehalt 308** im deutschen AGB-Recht, wenn
 
 > Der Anbieter ist berechtigt, die in Anlage [X] aufgeführten Leistungsmerkmale anzupassen, soweit dies aufgrund (a) gesetzlicher Vorgaben, (b) zwingender Anforderungen an die IT-Sicherheit oder (c) der Weiterentwicklung der zugrundeliegenden Software erforderlich ist und für den Kunden zumutbar ist. Über die geplante Anpassung wird der Anbieter den Kunden mindestens 6 Wochen vor Wirksamwerden in Textform informieren. Verändert die Anpassung den vertragstypischen Leistungsumfang erheblich, kann der Kunde den Vertrag bis zum Wirksamwerden außerordentlich kündigen.
 
+## Aktuelle BGH-Linie zu Aenderungsvorbehalten
+
+### Norm
+- § 308 Nr. 4 BGB Aenderungsvorbehalt der versprochenen Leistung; nur wirksam, wenn die Aenderung dem Verwender unter Beruecksichtigung der Interessen des Vertragspartners zumutbar ist.
+- § 307 BGB als Auffangkontrolle.
+
+### Energiepreisanpassungs-Linie
+- BGH zur unwirksamen Preisanpassung in Energielieferungsvertraegen — staendige Rspr.; Leitlinien BGH VIII ZR 178/08, BGH VIII ZR 244/10, BGH VIII ZR 295/13 (Az im Digitalisat verifizieren).
+- Unwirksam: einseitige Preisanpassungen ohne nachvollziehbare Berechnungsformel; einseitige Anpassung ohne paralleles Loesungsrecht.
+- Wirksam: Anpassung gekoppelt an Indizes (etwa StatBA-Verbraucherpreisindex) mit transparenter Formel und Kuendigungsrecht.
+
+### Update-Klauseln neu (§ 327f BGB)
+- Seit 01.01.2022 in Kraft: § 327f BGB regelt die Aktualisierungspflicht fuer digitale Produkte. AGB-Klauseln, die diese Pflicht unterlaufen, sind unwirksam.
+- BGH-Folgejudikate sind im Aufbau; Pruefung Az live verifizieren.
+
+### Weitere relevante AGB-Klauseln § 308 BGB
+- Nr. 1: Annahmefrist und Leistungsfrist.
+- Nr. 1a: Zahlungsfrist.
+- Nr. 1b: Ueberpruefungs- und Aenderungsfrist.
+- Nr. 5: Fiktive Erklaerungen.
+- Nr. 7: Aufwandsentschaedigung.
+
+### Pruefraster
+1. Bezug zur Hauptleistung oder zur Modalitaet?
+2. Veraenderungsgrund konkret und beschraenkt definiert?
+3. Loesungsrecht oder Anpassungsrecht des Vertragspartners?
+4. Transparenzgebot § 307 Abs. 1 Satz 2 BGB?
+
 ## Output
 
 | Punkt | Befund |

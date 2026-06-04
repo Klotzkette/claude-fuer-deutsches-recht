@@ -37,6 +37,37 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
 7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
 
+## Aktualisierte Norm- und Reformlage
+
+### Staatlicher Kirchenaustritt
+- Bundesrechtlich gibt es keinen Kirchenaustritt im staatsrechtlichen Sinne. Die Kirchensteuerpflicht erlischt mit Austrittserklaerung; die Regelung erfolgt landesrechtlich (z. B. § 26 KiStG NRW, Art. 8 ff. BayKiStG, § 3 KiStG Berlin).
+- Erklaerung in der Regel persoenlich vor dem Standesamt oder Amtsgericht; teils mit Gebuehr (etwa 25-35 Euro).
+- Wirkung: Beendigung des Kirchensteuerstatus mit Wirkung vom Folgemonat / Ende des Austrittsmonats (landesrechtlich unterschiedlich).
+
+### Kanonische Wirkung
+- Der staatliche Austritt loest nach DBK-Allgemeinem Dekret vom 20.09.2012 weitreichende kirchenrechtliche Folgen aus:
+  - Verlust des Rechts auf Sakramente (Eucharistie, Beichte, Krankensalbung) mit Ausnahme der Todesgefahr.
+  - Verlust des Rechts auf kirchliches Begraebnis (im Einzelfall durch den Ortsordinarius dispensierbar).
+  - Verlust des Patenamtes und des Taufpatenrechts.
+  - Verlust des Wahlrechts in kirchlichen Gremien.
+  - Verlust des Mandatum fuer kirchliche Lehraemter.
+  - Verlust der Anstellungsfaehigkeit in kirchlichen Berufen (mit Differenzierungen nach Grundordnung 2022).
+- Der Austritt fuehrt nicht automatisch zum kanonischen Verlust der Kirchengliedschaft (c. 11 CIC i.V.m. c. 96 CIC: Taufe begruendet die Mitgliedschaft).
+- Die Diskussion um den actus formalis defectionis ab Ecclesia catholica ist mit den Mitteilungen der Glaubenskongregation 2006 entschaerft, aber nicht final geklaert.
+
+### Grundordnung 2022
+- Die Grundordnung des kirchlichen Dienstes (Beschluss DBK 22.11.2022): der Kirchenaustritt fuehrt zur Loyalitaetspflichtverletzung und kann arbeitsrechtliche Folgen haben — milder als in der Vorfassung.
+- Tendenzschutz Art. 137 III WRV i.V.m. Art. 140 GG.
+
+### Wiedereintritt
+- can. 1064 CIC i.V.m. den DBK-Vorschriften: pastoraler Vorbereitungsweg, Glaubensbekenntnis vor Pfarrer, eventuell Lossprechung von latae sententiae-Strafen.
+
+### Pruefraster
+1. Datum des Austritts? — landesrechtliche Wirkung pruefen.
+2. Pastorale Konsequenzen (Begraebnis, Sakramente, Pateamt)? — Dekret 2012 und Diozesanrecht.
+3. Arbeitsrechtliche Konsequenzen? — Grundordnung 2022.
+4. Wiedereintritt? — Pfarrei + Diozese kontaktieren.
+
 ## Ausgabeformate
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.

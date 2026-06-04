@@ -36,6 +36,33 @@ Dieser Skill bearbeitet **Erster Teil Titel 6 Unerlaubte Handlungen und Versehen
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Unerlaubte Handlungen und Versehen
+
+### Aufbau
+ALR I 6 ist die Heimat des Delikts- und Schadensersatzrechts vor dem BGB. Es kombiniert eine Generalklausel mit kasuistischen Sonderregelungen und differenziert sehr fein nach Verschuldensgrad (dolus, culpa lata, culpa levis, culpa levissima, casus).
+
+### Wichtige Paragraphen
+- **ALR I 6 § 1** "Wer einen anderen ohne Recht und Befugniss vorsetzlich beleidiget, ist zum Ersatze des dadurch entstandenen Schadens verpflichtet." — Vorlaeufer der heutigen Vorsatzhaftung.
+- **ALR I 6 § 8** Allgemeine Verschuldenshaftung bei fahrlaessigem Schaden.
+- **ALR I 6 §§ 10-12** Klassifizierung der Fahrlaessigkeitsstufen (culpa lata bis culpa levissima), wirkungsmaechtig im 19. Jahrhundert.
+- **ALR I 6 §§ 50-92** Sonderdelikte: Ehrverletzungen, Verletzung am Koerper, Sachbeschaedigung, Tierhalterhaftung.
+- **ALR I 6 §§ 56-58** Tierhalterhaftung (insbesondere Hunde): kasuistisch, mit Unterscheidung zwischen Wachhund und Hofhund. Beruehmt sind die Detailregelungen, die selbst kleine Schaeden differenziert behandeln.
+- **ALR I 6 §§ 78-92** Beruehmte Brieftauben- und Pferderegelungen.
+
+### Heutige Fortwirkung
+- BGB §§ 823 ff. haben die ALR-Vorschriften abgeloest.
+- Verschuldensstufen wirken im modernen Privatrecht und im Schweizer Obligationenrecht (Schweiz ist hier ALR-naeher als BGB).
+- Tierhalterhaftung (§ 833 BGB) ist konzeptionell der ALR-Tierhalterhaftung verwandt, aber ohne deren Kasuistik.
+
+### Beruehmte Faelle / Personen
+- Im 19. Jahrhundert in Preussen umfangreiche Rechtsprechung des Obertribunals zu den Fahrlaessigkeitsstufen.
+- Die ALR-Kasuistik wurde in den Pandektenvorlesungen Savignys teils ironisiert.
+
+### Pruefraster
+1. Vorsatz oder welche Form der Fahrlaessigkeit? — ALR I 6 §§ 10-12.
+2. Sonderdelikt oder Generalklausel? — Reihenfolge: spezielle Norm vor Generalklausel.
+3. Heute lebender Sachverhalt? — direkt zu BGB §§ 823 ff. mit ALR nur als rechtsgeschichtlicher Hintergrund.
+
 ## Output
 
 - Memo

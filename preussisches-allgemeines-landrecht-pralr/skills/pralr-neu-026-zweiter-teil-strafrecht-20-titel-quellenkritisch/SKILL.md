@@ -36,6 +36,31 @@ Dieser Skill bearbeitet **Zweiter Teil Strafrecht 20 Titel quellenkritisch** im 
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: ALR-Strafrecht (II 20)
+
+### Aufbau
+ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des Preussischen Strafgesetzbuchs 1851 und schliesslich des Reichsstrafgesetzbuchs 1871/1872. ALR II 20 ist umfangreich (ueber 1500 Paragraphen) und kasuistisch — typisches Beispiel: detaillierte Verbote von Aberglauben, Selbstmord, Spielsucht; Strafkatalog mit Strafgraden bis zu Schandstrafen.
+
+### Wichtige Paragraphen
+- **ALR II 20 §§ 1 ff.** Allgemeiner Teil: Schuldfragen, Versuch, Teilnahme, Strafarten.
+- **ALR II 20 §§ 80 ff.** Verbrechen gegen den Staat: Hochverrat, Majestaetsbeleidigung.
+- **ALR II 20 §§ 760 ff.** Sittlichkeitsdelikte: Ehebruch, Unzucht, Konkubinat — extrem kasuistisch.
+- **ALR II 20 §§ 803 ff.** Suizidversuch wurde mit Strafe (Schandbegraebnis) bedroht.
+- **ALR II 20 §§ 1100 ff.** Diebstahl mit differenzierten Strafdrohungen je nach Tatobjekt, sogar je nach Brieftaubenraub.
+
+### Heutige Fortwirkung
+- Heute ohne praktische Geltung. Reichsstrafgesetzbuch 1871/1872 hat ALR II 20 abgeloest, in Preussen ergaenzt durch StPO-PreussGS.
+- Strafrechtsgeschichte: ALR II 20 ist Quelle der Diskussion um Aufklärung, Schuldgrundsatz, Schandstrafen vs. Freiheitsstrafen.
+
+### Beruehmte Faelle / Personen
+- **Ernst Ferdinand Klein** als Mitautor; vertrat eine aufgeklaerte Spezialpraevention.
+- **Anselm von Feuerbach** kritisierte ALR II 20 als nicht hinreichend systematisch.
+
+### Pruefraster
+1. Strafrechtsgeschichtliche Frage? — ALR II 20 als historische Quelle.
+2. Heute Strafrecht? — direkt StGB.
+3. Aktuelle Aktenbestaende mit Strafurteilen vor 1871? — fortgesetzt als historisches Material, ohne fortwirkende Vollstreckbarkeit.
+
 ## Output
 
 - Memo

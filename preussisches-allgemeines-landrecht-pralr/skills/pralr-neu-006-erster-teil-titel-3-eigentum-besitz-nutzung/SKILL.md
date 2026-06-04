@@ -36,6 +36,33 @@ Dieser Skill bearbeitet **Erster Teil Titel 3 Eigentum Besitz Nutzung** im Berei
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Eigentum, Besitz, Nutzung
+
+### Aufbau
+Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Eigentum allgemein (I 8), Besitz (I 7), Erwerb beweglicher Sachen (I 8 ff., I 10), Grundstuecke (I 9), Dienstbarkeiten und Reallasten (I 21).
+
+### Wichtige Paragraphen
+- **ALR I 8 § 1** "Eigenthuemer heisst derjenige, welcher befugt ist, ueber die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen." — Definition des Eigentums.
+- **ALR I 8 §§ 26-30** Schranken des Eigentums durch das gemeine Wohl; Anker fuer Enteignung und Aufopferung.
+- **ALR I 9** Besitz: roemisch-rechtlich gepraegt, mit detaillierten Regelungen zu animus und corpus, zu Besitzverlust und Besitzschutz.
+- **ALR I 21** Dienstbarkeiten und Reallasten: extrem kasuistisch, mit eigenstaendigen Regelungen fuer Wegerecht, Wasserlauf, Hutung, Mast, Triftrechte. Diese Vorschriften sind als Altrechte teilweise bis heute relevant.
+- **ALR I 22** Erbpacht und Erbzinsrecht (Erbenzinsguter) — siehe Schwester-Skill `pralr-neu-013`.
+
+### Heutige Fortwirkung
+- **Altrechte**: § 184 ff. EGBGB erhaelt vor BGB-Inkrafttreten begruendete Dienstbarkeiten, Reallasten und Erbenzinsguter unter dem ALR-Regime. Bis heute werden in einzelnen Grundbuchblaettern noch ALR-Altrechte gefuehrt (z. B. Hutungsrechte in Brandenburg, alte Holzungsrechte in Hinterpommern, Allmenden in Westfalen).
+- **Eigentumsdefinition**: weitgehend in § 903 BGB ueberfuehrt.
+- **Aufopferungsschranke** lebt in Art. 14 II GG und §§ 904, 906 BGB sowie im allgemeinen Aufopferungsanspruch fort.
+
+### Beruehmte Faelle / Personen
+- Streit ueber Hutungsrechte in Ostpreussen, Brandenburg und Hinterpommern vor 1945 als Massenphaenomen.
+- Streit um Erbpacht: das ALR-Erbenzinsverhaeltnis war Vorbild fuer das spaetere Erbbaurecht.
+
+### Pruefraster
+1. Beweglich oder unbeweglich? Bei Unbeweglichem heutiges Grundbuchamt einschalten.
+2. Altrecht im Grundbuch eingetragen? — § 5 GBO und § 184 EGBGB.
+3. Berechtigter und Verpflichteter durch Rechtsnachfolge bis heute belegbar?
+4. Live-Check der Eintragung und der landesrechtlichen Bereinigungsgesetze (z. B. Sachenrechtsbereinigungsgesetz Ostdeutschland 1994).
+
 ## Output
 
 - Memo

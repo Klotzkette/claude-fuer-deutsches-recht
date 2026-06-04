@@ -36,6 +36,31 @@ Dieser Skill bearbeitet **Erster Teil Titel 9 Grundstücke Grenzen Nachbarn** im
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Grundstuecke, Grenzen, Nachbarn
+
+### Aufbau
+ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, Ueberbau, Immissionen, Hutungs- und Triftrechte. Stark kasuistisch.
+
+### Wichtige Paragraphen
+- **ALR I 22 §§ 1 ff.** Erbpacht, Erbzinsrecht.
+- **ALR I 22 §§ 50 ff.** Bauerngueter, Ablöse.
+- **ALR I 23 §§ 1 ff.** Nachbarrechtliche Pflichten: Grenzbaeume, Grenzhecken, Traufrecht, Ueberhang.
+- **ALR I 23 §§ 35-50** Immissionen: Beeintraechtigung durch Rauch, Geruch, Gewerbedaempfe. Frueher Vorlaeufer von § 906 BGB.
+- **ALR I 23 §§ 80 ff.** Notweg und Wegezwang. Schon damals strittig, wie weit Privatinteresse das Eigentum belasten darf.
+
+### Heutige Fortwirkung
+- § 906 BGB ist konzeptionell ALR-naehe, wenn auch dogmatisch klarer.
+- Hutungsrechte / Triftrechte / Allmenderechte in Brandenburg, Mecklenburg, Sachsen-Anhalt teils bis heute eingetragen; pruefen ob Bereinigungsgesetz greift.
+- Landesnachbarrechtsgesetze (z. B. NachbG NRW, NachbG Bdb) regeln heute den weit ueberwiegenden Teil; ALR taucht nur noch in Altakten auf.
+
+### Beruehmte Faelle / Personen
+- Nachbarprozesse waren im 19. Jh. Massenpraxis; das ALR-Nachbarrecht praegte die Dorfgerichte Preussens.
+
+### Pruefraster
+1. Wo liegt das Grundstueck (rechtsrheinisch / linksrheinisch)? Linksrheinisch galt Code civil, nicht ALR.
+2. Eintragungen im Grundbuch (Altrecht ja/nein)?
+3. Heute Landesnachbarrecht und § 906 BGB anwenden, ALR nur als historischer Bezug.
+
 ## Output
 
 - Memo

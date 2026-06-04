@@ -44,6 +44,28 @@ Nutze diesen Skill für **Beweislast und Zugang 309** im deutschen AGB-Recht, we
 
 > Erklaerungen des Anbieters sind dem Kunden an die zuletzt mitgeteilte Anschrift zu senden. Der Kunde verpflichtet sich, Adressaenderungen rechtzeitig in Textform mitzuteilen. Unterlaesst der Kunde die Mitteilung schuldhaft, gehen Erklaerungen ihm in dem Zeitpunkt zu, in dem sie ohne die Anschriftenaenderung zugegangen waeren. Diese Regelung gilt nicht fuer Kuendigungen und sonstige Erklaerungen mit besonderer rechtlicher Bedeutung.
 
+## Aktuelle BGH-Linie zu Beweislast und Zugang
+
+### Norm
+- § 309 Nr. 12 BGB Aenderung der Beweislast zum Nachteil des Vertragspartners ist unwirksam.
+- § 309 Nr. 13 BGB Strengere Form als die Textform fuer Anzeigen oder Erklaerungen.
+
+### Schriftformklauseln
+- Schriftform statt Textform: gemaess § 309 Nr. 13 BGB unwirksam, soweit AGB strengere Anforderungen vorsehen, als das Gesetz vorschreibt.
+- BGB-Reform 2016: Textform genuegt; alle "Schriftform"-Klauseln in Verbraucher-AGB sind zu pruefen.
+- BGH VIII ZR 91/19 zur Konsequenz unwirksamer Schriftformklauseln (Az im Digitalisat verifizieren).
+
+### Zugangsfiktion
+- Zugangsfiktion und Empfangsbestaetigung: in AGB i. d. R. unwirksam, wenn sie zu Lasten des Vertragspartners gehen.
+- § 308 Nr. 6 BGB zur Fiktion des Zugangs.
+- BGH XII ZR 71/19 zur Beweislastverteilung im E-Mail-Verkehr.
+
+### Pruefraster
+1. Beweislastverteilung modifiziert? — § 309 Nr. 12 BGB.
+2. Strengere Form als gesetzlich? — § 309 Nr. 13 BGB.
+3. Zugang fiktiv geregelt? — § 308 Nr. 6 BGB.
+4. B2B? — Pruefung nach § 307 BGB, Indizwirkung der Wertung des § 309 BGB.
+
 ## Output
 
 | Punkt | Befund |

@@ -36,6 +36,27 @@ Dieser Skill bearbeitet **Erster Teil Titel 17 Erbrecht Testamente und gesetzlic
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Erbrecht, Testament, gesetzliche Erbfolge
+
+### Aufbau
+ALR I 12 / II 2 regeln Erbrecht: gesetzliche Erbfolge, Testierfreiheit, Pflichtteilsrecht, Erbverzicht, Familienfideikommiss.
+
+### Wichtige Paragraphen
+- **ALR I 12 §§ 1 ff.** Allgemeines Erbrecht, Anfall der Erbschaft, Annahme und Ausschlagung.
+- **ALR I 12 §§ 200 ff.** Testament: oeffentliches Testament vor Gericht, Privatschriftliches Testament mit Zeugen.
+- **ALR I 12 §§ 380-440** Pflichtteil.
+- **ALR II 4 §§ 1 ff.** Familienfideikommiss (Adel, Erbgueter; nach Reichsdeputationshauptschluss bedeutsam, abgeschafft 1919/1938).
+
+### Heutige Fortwirkung
+- BGB §§ 1922 ff. haben ALR-Erbrecht abgeloest.
+- Familienfideikommisse wurden 1919/1938 abgeschafft (FideikommissauflösungsG, Kontrollratsgesetz Nr. 45 fuer Berlin).
+- In Adelsfamilien noch praktische Relevanz fuer historische Erbteilungsfragen — selten, aber moeglich.
+
+### Pruefraster
+1. Vor 1900 Erbfall? Dann ALR-Erbrecht.
+2. Nach 1900? BGB.
+3. Familienfideikommiss? — Aufloesungsfrist und Sondervermoegen pruefen.
+
 ## Output
 
 - Memo

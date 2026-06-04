@@ -27,6 +27,32 @@ Nutze diesen Skill für **AGB Risikoklassifizierung Ampel** im deutschen AGB-Rec
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
+## Aktuelle BGH-Linie zur Risikobewertung
+
+### Risikofaktoren mit BGH-Bezug
+- **Rot**: § 309 BGB-Verstoss in B2C eindeutig (z. B. Haftungsausschluss Leben/Koerper/Gesundheit, Aufrechnungsverbot fuer unbestrittene Forderungen).
+- **Gelb**: § 307 BGB-Verstoss wahrscheinlich (z. B. unklare Anpassungsklauseln, Schriftformklausel fuer Anzeigen, fehlendes Loesungsrecht bei Preisanpassung).
+- **Gruen**: Klausel an Gesetzeswortlaut orientiert oder BGH-anerkannt.
+
+### Klassische Rot-Klauseln (BGH-aktuell)
+- Schriftformklausel im Verbraucherkontext: BGH VIII ZR 91/19.
+- Aufrechnungs-/Zurueckbehaltungsverbot fuer unbestrittene Forderungen: BGH VIII ZR 67/17.
+- Einseitige Preisanpassung ohne Loesungsrecht: BGH VIII ZR 178/08, BGH VIII ZR 244/10.
+- Vorausverzichtsklauseln auf Schadensersatz: BGH VIII ZR 23/19.
+
+### Aktuelle Diskussion
+- DSGVO-konforme Einwilligungsklauseln, Cookie-Banner: BGH I ZR 7/16 ("Planet49"); BGH I ZR 26/19.
+- AGB im Plattformhandel (Amazon, eBay) — BGH zur Marktstellung und § 307 BGB.
+- Update-Klauseln (§ 327f BGB) seit 2022 — BGH-Folgejudikate im Aufbau.
+
+### Pruefraster
+1. Vertragsart und Rollencheck (B2C/B2B/B2B2C).
+2. Klauseltyp (Haupt-/Nebenleistung/AGB-Modul).
+3. § 309 BGB-Treffer? — Rot.
+4. § 308 BGB Treffer mit Wertungsabwaegung? — Gelb.
+5. § 307 BGB Generalklausel? — Pruefung im Einzelfall.
+6. BGH-Linie konsultieren.
+
 ## Output
 
 | Punkt | Befund |

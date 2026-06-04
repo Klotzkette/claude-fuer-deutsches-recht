@@ -36,6 +36,31 @@ Dieser Skill bearbeitet **Zweiter Teil Ständeordnung Adel Bürger Bauern** im B
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
+## Konkreter ALR-Stoff: Staendeordnung, Adel, Buerger, Bauern
+
+### Aufbau
+ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Beispiele dafuer, wie das ALR die staendische Gesellschaft normiert hat. Die Titel sind heute fast vollstaendig obsolet, aber rechtshistorisch zentral.
+
+### Wichtige Paragraphen
+- **ALR II 7 §§ 1 ff.** Bauernstand: Gutsuntertaenigkeit, Erbuntertaenigkeit, Frondienste, Spanndienste. Hier zeigt das ALR den noch ungebrochenen Feudalismus: Bauern duerfen ohne Zustimmung des Gutsherrn nicht heiraten, das Gut nicht verlassen, nicht studieren.
+- **ALR II 8 §§ 1 ff.** Buergerstand: Innungen, Zuenfte, staedtisches Buergerrecht, Gewerbefreiheit eingeschraenkt.
+- **ALR II 9 §§ 1 ff.** Adel: Stammgut, Familienfideikommiss, Adelsvorrechte, Gerichtsbarkeit der Patrimonialgerichte.
+
+### Heutige Fortwirkung
+- Stein-Hardenbergsche Reformen ab 1807 (Oktoberedikt 06.10.1807) hoben die Gutsuntertaenigkeit auf — der bedeutendste Eingriff ins ALR.
+- Reichsdeputationshauptschluss 1803 und Wiener Kongress 1815 veraenderten die Adelsstruktur.
+- Art. 109 WRV (1919) und Art. 123 GG (1949) i.V.m. § 1 NamG haben Adelsvorrechte vollstaendig abgeschafft.
+- Adelspraedikate gelten ausschliesslich als Namensbestandteil; siehe BVerfG-Rspr. zur Namensfuehrung (Az im Digitalisat verifizieren).
+
+### Beruehmte Faelle / Personen
+- **Stein** und **Hardenberg** als Architekten der Reformen.
+- Patrimonialgerichtsbarkeit bestand bis 1849 fort.
+- Beruehmte Patrimonialgerichts-Faelle in der Mark Brandenburg und Schlesien.
+
+### Pruefraster
+1. Heute reine Rechtsgeschichte. Falls nicht: namensrechtliche Frage zum Adelspraedikat.
+2. Bei Patrimonialgerichtsbarkeit: Aktenbestaende heute in Landesarchiven; Vorsicht bei Erbe und Lehen.
+
 ## Output
 
 - Memo

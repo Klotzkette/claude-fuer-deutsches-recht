@@ -27,6 +27,42 @@ Nutze diesen Skill für **Abmahnung Reagieren** im deutschen AGB-Recht, wenn ein
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
+## Aktuelle BGH-Linie zur AGB-Abmahnung
+
+### Anspruchsgrundlagen
+- §§ 1, 3 UKlaG: Verbandsklage gegen unwirksame AGB.
+- § 8 Abs. 3 UWG: Mitbewerber-Abmahnung.
+- § 8b UWG zur Begrenzung der Abmahngebuehren.
+
+### Aktive Verbaende
+- Verbraucherzentrale Bundesverband (vzbv) und Landesverbaende.
+- Wettbewerbszentrale.
+- Bundesverband mittelstaendische Wirtschaft.
+
+### BGH-Linie
+- BGH I ZR 196/19 zur Reichweite der Verbandsklagebefugnis.
+- BGH zum Rechtsmissbrauch (§ 8c UWG) bei Massenabmahnungen.
+- BGH I ZR 26/19 zu Cookie-Banner als AGB-relevanter Einwilligungstext.
+
+### Reaktion auf Abmahnung
+1. Fristpruefung (oft kurze Frist, regelmaessig 7-14 Tage).
+2. Materielle Pruefung (Wettbewerbsverstoss / AGB-Unwirksamkeit).
+3. Modifizierte Unterlassungserklaerung mit Streichung ueberzogener Punkte.
+4. Kostenpruefung nach § 8b UWG.
+5. Gegenvorlage einer eigenen, rechtskonformen AGB-Version.
+
+### Erfolgsstrategie
+- Unterlassungserklaerung praezise und beschraenkt formulieren.
+- Vertragsstrafe nicht ueber Hamburger Brauch hinaus (Streitwerthoehe).
+- Bei drohender einstweiliger Verfuegung: Schutzschrift hinterlegen.
+
+### Pruefraster
+1. Wer mahnt ab und mit welcher Befugnis?
+2. Welche AGB-Klausel ist beanstandet?
+3. Frist und Vertragsstrafe?
+4. Modifizierte Unterlassungserklaerung moeglich?
+5. Kosten angemessen?
+
 ## Output
 
 | Punkt | Befund |

@@ -37,6 +37,35 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
 7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
 
+## Aktualisierte Norm- und Reformlage
+
+### Schluesselcanones CIC 1983
+- **can. 751 CIC**: Definitionen — Haeresie (hartnackige Leugnung einer mit goettlichem und katholischem Glauben zu glaubenden Wahrheit), Apostasie (vollstaendige Aufgabe des christlichen Glaubens), Schisma (Verweigerung der Unterordnung unter den Papst oder Gemeinschaft mit den ihm unterstehenden Gliedern der Kirche).
+- **can. 1364 § 1 CIC** (Fassung Pascite Gregem Dei 2021): Latae sententiae-Exkommunikation fuer Apostat, Haeretiker, Schismatiker.
+- **can. 1314 CIC**: Strafen sind grundsaetzlich ferendae sententiae; latae sententiae ist die Ausnahme und in den Kanones ausdruecklich genannt.
+
+### Hauptfaelle der latae sententiae-Exkommunikation
+- can. 1364 § 1 CIC Apostasie/Haeresie/Schisma.
+- can. 1382 CIC Bischofsweihe ohne paepstliches Mandat (beruehmt: Lefebvre 1988).
+- can. 1397 § 2 CIC Schwangerschaftsabbruch (mit Strafausschliessungsgrund bei Unwissenheit oder Furcht; Bischof oder beauftragter Beichtvater kann nach c. 1357 CIC im aussergerichtlichen Verfahren absolvieren).
+- can. 1370 § 1 CIC physische Gewalt gegen den Papst.
+
+### Aufhebung der Exkommunikation
+- can. 1357 CIC: Im aussergerichtlichen forum internum kann jeder Beichtvater die latae sententiae-Tatstrafen, die nicht erklart sind, ihm Verzug aufschiebbar sind.
+- Vorbehaltene Faelle: dem Apostolischen Stuhl vorbehalten sind nach Vorgaben des Dikasteriums fuer die Glaubenslehre bestimmte Tatbestaende.
+
+### Kirchenaustritt in Deutschland
+- Die rechtliche Wirkung des deutschen Kirchenaustritts ist umstritten. Die DBK-Erklaerung vom 20.09.2012 stellt klar: der staatliche Austritt ist ein Bruch der Kirchengemeinschaft mit weitreichenden Folgen (kein Eheempfang, kein katholisches Begraebnis, keine Sakramente, kein Patenamt).
+- Bischofskongregation 2006 hielt fest: der Austritt sei nicht zwangslaeufig als actus formalis defectionis ab Ecclesia catholica zu werten.
+- Aktuelle Diskussion zu c. 1064 CIC (Pastoral der Wiedereingliederung).
+
+### Pruefraster
+1. Klare Tat (Apostasie / Haeresie / Schisma)? — Definitionen c. 751 CIC streng anwenden.
+2. Latae sententiae oder ferendae sententiae? — c. 1314 CIC.
+3. Strafausschliessungsgrund (Unwissenheit, Furcht, Notstand)? — cc. 1323-1326 CIC.
+4. Aufhebung im internen oder externen Bereich? — c. 1357 CIC bzw. Sondervorbehalte.
+5. Bei Kirchenaustritt: pastoralen Status nach DBK-Erklaerung 2012 und konkreten Ortsverfuegungen pruefen.
+
 ## Ausgabeformate
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.

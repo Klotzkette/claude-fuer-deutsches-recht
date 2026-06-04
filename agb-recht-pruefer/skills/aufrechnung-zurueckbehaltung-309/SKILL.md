@@ -35,6 +35,26 @@ Nutze diesen Skill für **Aufrechnung Zurückbehaltung 309** im deutschen AGB-Re
 
 > Der Kunde kann nur mit solchen Forderungen aufrechnen, die unbestritten oder rechtskräftig festgestellt sind. Ein Zurückbehaltungsrecht steht dem Kunden nur insoweit zu, als sein Gegenanspruch auf demselben Vertragsverhältnis beruht.
 
+## Aktuelle BGH-Linie zu Aufrechnungs- und Zurueckbehaltungsverbot
+
+### Norm
+- § 309 Nr. 3 BGB Aufrechnungsverbot ist unwirksam, wenn es auch unbestrittene oder rechtskraeftig festgestellte Forderungen erfasst.
+- § 309 Nr. 2 BGB Zurueckbehaltungsverbot ist unwirksam, wenn das Zurueckbehaltungsrecht aus demselben Vertragsverhaeltnis stammt.
+
+### BGH-Linie
+- BGH VIII ZR 67/17 zur unwirksamen Aufrechnungsbeschraenkung in Mietvertraegen (Az im Digitalisat verifizieren).
+- BGH XII ZR 17/13 fuer Pachtvertraege.
+- BGH KZR 12/15 zur Erstreckung des AGB-Aufrechnungsverbots in B2B-Kontexten unter § 307 BGB.
+
+### B2B
+- Im unternehmerischen Verkehr: § 309 BGB findet keine direkte Anwendung; § 307 BGB als Massstab. Die Wertung des § 309 Nr. 2, 3 BGB strahlt mittelbar aus.
+- Aufrechnungsverbot in B2B teils zulaessig, wenn auf streitige Forderungen begrenzt.
+
+### Pruefraster
+1. Klausel umfasst unbestrittene/rechtskraeftige Forderungen? — Unwirksam.
+2. Zurueckbehaltungsrecht aus demselben Vertragsverhaeltnis ausgeschlossen? — Unwirksam.
+3. B2B? — Indizwirkung § 309 BGB, Pruefung nach § 307 BGB.
+
 ## Output
 
 | Punkt | Befund |

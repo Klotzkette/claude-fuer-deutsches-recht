@@ -27,6 +27,34 @@ Nutze diesen Skill für **AGB Prüfung Kaltstart** im deutschen AGB-Recht, wenn 
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
+## Aktuelle BGH-Praxisleitlinien
+
+### Schritt-fuer-Schritt-BGH-Linie
+1. **Vorrang Individualabrede § 305b BGB**: BGH staendige Rspr.; bei Spannung zwischen AGB und Individualabrede setzt sich Individualabrede durch.
+2. **Ueberraschende Klauseln § 305c BGB**: BGH legt strengen Massstab an; objektiv-typisierter Massstab.
+3. **Unklarheitenregel § 305c Abs. 2 BGB**: bei Auslegungsspielraum zu Lasten des Verwenders.
+4. **Inhaltskontrolle § 307 BGB**: Generalklausel; immer Pruefung anhand des Transparenzgebots § 307 Abs. 1 Satz 2 BGB.
+5. **Konkretisierung § 308/309 BGB**: B2C Spezialnormen.
+
+### Aktuelle Schwerpunktthemen 2024/2025
+- **Digitale Produkte und Aktualisierung** (§§ 327 ff. BGB).
+- **Plattform-AGB** im Online-Handel.
+- **Cookie-Banner und DSGVO-Einwilligung** im AGB-rechtlichen Kontext.
+- **Schiedsklauseln in Verbrauchervertraegen** (§ 1031 ZPO i.V.m. § 1066 ZPO; BGH-Linie zur Wirksamkeit).
+- **Energiepreisanpassung** post-Krise.
+
+### Pruefraster
+1. Einbeziehung (§ 305 Abs. 2, 3 BGB).
+2. Vorrang Individualabrede (§ 305b BGB).
+3. Ueberraschende Klausel (§ 305c BGB).
+4. Inhaltskontrolle (§§ 307-309 BGB).
+5. B2B-Sonderpruefung (§ 310 Abs. 1 BGB).
+6. Verbraucher-Spezialnormen (§ 309 BGB).
+
+### Hinweise
+- BGH-Aktenzeichen vor Zitat im Mandat live im Digitalisat verifizieren.
+- BeckRS-, juris- oder Kommentar-Blindzitate vermeiden.
+
 ## Output
 
 | Punkt | Befund |

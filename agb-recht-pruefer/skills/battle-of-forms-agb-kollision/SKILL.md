@@ -40,6 +40,32 @@ Nutze diesen Skill für **Battle of Forms AGB Kollision** im deutschen AGB-Recht
 
 > Wenn beide Seiten die "letzte Bestellbestätigung" für ihre AGB beanspruchen: Im deutschen Recht gilt für die strittigen Punkte das Gesetz. Wer Klarheit will, muss ausdrücklich verhandeln und das schriftlich festhalten (§ 305b BGB).
 
+## Aktuelle BGH-Linie zur AGB-Kollision
+
+### Grundregel
+- Bei Kollision sich widersprechender AGB beider Parteien: Vertrag kommt nur insoweit zustande, als die AGB uebereinstimmen ("Restgueltigkeitstheorie").
+- Bei abweichenden Klauseln gilt das dispositive Recht (BGB / HGB).
+- Die "letzte-Wort-Klausel" (Last-Shot-Doktrin) wird vom BGH nicht anerkannt; vgl. BGH-Linie seit BGHZ 61, 282 (Az im Digitalisat verifizieren).
+
+### Aktuelle BGH-Rechtsprechung
+- BGH VIII ZR 96/13 zur AGB-Kollision im Kaufrecht (Az im Digitalisat verifizieren).
+- BGH-Linie zur Auftragsbestaetigung mit abweichenden AGB.
+- Internationales: bei UN-Kaufrecht (CISG) Art. 19 CISG Mirror-Image-Rule mit Modifikationen.
+
+### Abwehrklauseln
+- Abwehrklauseln ("Es gelten ausschliesslich unsere AGB") sind im B2B grundsaetzlich wirksam, aber bei Kollision wirkt die Restgueltigkeitstheorie weiter.
+
+### Praxiskonsequenzen
+- Auftragsbestaetigung mit eigenen AGB sollte ausdruecklich auf bisherige Kommunikation Bezug nehmen, um Rechtsklarheit ueber Vertragsinhalt zu schaffen.
+- Spaetere Erfuellungshandlungen werden im Zweifel als konkludentes Einverstaendnis gewertet, aber nur fuer Kernpunkte.
+
+### Pruefraster
+1. Welche AGB-Set lagen wann vor?
+2. Abwehrklauseln vorhanden?
+3. Welche Klauseln widersprechen sich konkret?
+4. Welche dispositive Norm greift bei Kollision?
+5. Internationales Geschaeft? — CISG-Pruefung.
+
 ## Output
 
 | Punkt | Befund |

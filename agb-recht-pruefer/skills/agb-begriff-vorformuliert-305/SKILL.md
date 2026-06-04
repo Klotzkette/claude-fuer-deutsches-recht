@@ -40,6 +40,31 @@ Nutze diesen Skill für **AGB Begriff Vorformuliert 305** im deutschen AGB-Recht
 
 > Wer AGB-Qualifikation bejahen will, beweist Mehrfachverwendung (Vertragsmuster, sonstige Vertraege). Wer "Individualabrede" geltend macht, beweist konkrete Verhandlung mit Aenderung. Reines Anhoeren des Verwenders mit anschliessender unveraenderter Akzeptanz ist KEINE Individualabrede.
 
+## Aktuelle BGH-Linie und Praxisbausteine
+
+### Begriffstatbestand § 305 Abs. 1 BGB
+- "Allgemeine Geschaeftsbedingungen sind alle fuer eine Vielzahl von Vertraegen vorformulierten Vertragsbedingungen, die eine Vertragspartei (Verwender) der anderen Vertragspartei bei Abschluss eines Vertrages stellt."
+- **"Vielzahl"**: BGH legt regelmaessig die Schwelle bei beabsichtigter Verwendung in mindestens drei Faellen; einmalige Nutzung ist keine AGB-Verwendung — BGH staendige Rspr., Az im Digitalisat verifizieren.
+- **"Stellen"**: Verwender ist, wer die Bedingung der anderen Seite einseitig auferlegt. Bei einseitigem Vertragsentwurf gilt der Entwerfende als Verwender — BGH VIII ZR 254/17 (im Digitalisat verifizieren) zur Stellung im Wohnraummietrecht.
+- **"Aushandeln" als Ausnahme § 305 Abs. 1 Satz 3 BGB**: nur bei tatsaechlicher Verhandlungsbereitschaft; der Verwender muss den Kerngehalt der Klausel ernsthaft zur Disposition gestellt haben. BGH VII ZR 56/15 fuer Werkvertraege; BGH X ZR 50/14 fuer den Reisevertrag.
+
+### Einbeziehungsvoraussetzungen § 305 Abs. 2, 3 BGB
+- Hinweis "bei Vertragsschluss"; zumutbare Kenntnisnahmemoeglichkeit.
+- Bei Fernabsatzgeschaeften: Zugaenglichkeit auf der Website mit hinreichend deutlichem Link genuegt nicht, wenn die Klauseln nicht abrufbar sind.
+- Rahmenvereinbarung: § 305 Abs. 3 BGB ermoeglicht globale Einbeziehung fuer Dauerschuldverhaeltnisse.
+
+### Aktuelle BGH-Entscheidungen
+- BGH zur AGB-Einbeziehung im Online-Handel — staendige Rspr.; konkrete Az im Mandat verifizieren.
+- BGH X ZR 89/18 zum Reisevertrag (Az im Digitalisat verifizieren).
+- BGH VIII ZR 13/19 Cookie-Banner-Linie zu Einwilligung als AGB-Frage.
+
+### Pruefraster
+1. Vorformuliert + fuer Vielzahl + gestellt? — § 305 Abs. 1 BGB.
+2. Individuell ausgehandelt? — § 305 Abs. 1 Satz 3 BGB; Beweislast Verwender.
+3. Einbeziehung wirksam? — § 305 Abs. 2, 3 BGB.
+4. Vorrang Individualabrede § 305b BGB?
+5. ueberraschende Klausel § 305c BGB? — Inhaltskontrolle erst nachgelagert.
+
 ## Output
 
 | Punkt | Befund |
