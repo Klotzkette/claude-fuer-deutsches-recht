@@ -34,9 +34,9 @@ Skill fuer die Beweislastfragen bei der actio Pauliana.
 
 ## Vergleich zu modernem Recht
 
-- §§ 133, 138 Abs. 2 BGB iVm §§ 286 ZPO Beweislast.
-- AnfG § 3 Abs. 2: Vermutung der scientia bei nahestehenden Personen.
-- InsO § 133 Abs. 1 Satz 2: Vermutung der Kenntnis bei drohender Zahlungsunfaehigkeit.
+- Beweisrecht / Pflicht zum substanziierten Bestreiten: § 138 Abs. 2 ZPO; freie Beweiswuerdigung § 286 ZPO. (Die fruehere Erwaehnung von § 133 und § 138 II BGB war hier falsch: § 133 BGB ist Auslegung der Willenserklaerung, § 138 II BGB ist Wucher — nicht Beweisrecht.)
+- Anfechtungsrecht: AnfG § 3 Abs. 2: Vermutung der scientia bei nahestehenden Personen.
+- Insolvenzanfechtung: InsO § 133 Abs. 1 Satz 2: Vermutung der Kenntnis bei drohender Zahlungsunfaehigkeit.
 
 ## Pruefraster
 

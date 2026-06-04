@@ -22,11 +22,16 @@ description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbed
 - Aerztliches Attest.
 - Hoehe nach Empfehlungen Deutscher Verein.
 
-### § 21 Abs. 6 SGB II — Stromerzeugung
-- Bei Warmwassererzeugung dezentral elektrisch.
+### § 21 Abs. 6 SGB II — unabweisbarer laufender besonderer Bedarf
+- Atypischer, dauerhafter und unabweisbarer Mehrbedarf, der vom Regelbedarf nicht erfasst ist.
+- Beispiele: Hygiene bei chronischer Krankheit, besondere Pflegebedarfe, regelmaessige Reisen zu Verwandten in besonderen Konstellationen.
 
-### § 21 Abs. 7 SGB II — unabweisbarer einmaliger Bedarf
-- Erstausstattung Wohnung, Schwangerschaft, Babymobil.
+### § 21 Abs. 7 SGB II — Warmwassererzeugung dezentral
+- Bei Warmwassererzeugung ueber dezentrale elektrische Geraete (Durchlauferhitzer Boiler).
+- Pauschale nach Personenzahl im Haushalt.
+
+### Hinweis Erstausstattung
+- **Nicht** § 21 Abs. 7 SGB II, sondern **§ 24 Abs. 3 SGB II**: einmalige Leistungen fuer Erstausstattung Wohnung, Erstausstattung bei Schwangerschaft und Geburt, sowie Anschaffung und Reparatur orthopaedischer Schuhe.
 
 ## Pruefraster
 

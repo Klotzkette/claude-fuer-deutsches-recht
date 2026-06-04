@@ -40,7 +40,7 @@ description: "Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines
 ## Was tun
 
 1. Bescheid sofort scannen oder kopieren.
-2. Datum der Bekanntgabe vermerken (Eingang im Briefkasten + 3 Tage = Bekanntgabe).
+2. Datum der Bekanntgabe vermerken. WICHTIG: Massgeblich ist nach § 37 Abs. 2 SGB X seit 01.01.2025 die Bekanntgabe-Fiktion **am vierten Tag nach Aufgabe zur Post** (frueher dritter Tag). Wenn der tatsaechliche Eingang im Briefkasten frueher belegt ist, gilt der tatsaechliche Eingang. NICHT Eingang + 3 oder 4 Tage rechnen — Bekanntgabe ist entweder der tatsaechliche Eingang oder der vierte Tag nach Aufgabe zur Post, je nachdem was zuerst eintritt. Siehe Schwester-Skill `fristen-berechnen-sgg-laien`.
 3. Frist im Fristenbuch eintragen.
 4. Tenor pruefen.
 5. Begruendung pruefen — Fakten richtig?

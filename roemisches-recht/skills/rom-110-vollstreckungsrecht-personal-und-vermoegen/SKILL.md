@@ -27,7 +27,7 @@ Skill fuer die roemisch-rechtliche Pruefung von Vollstreckungslagen und ihrer hi
 
 ## Verhaeltnis zu modernen Begriffen
 
-- Heutige Personalvollstreckung beschraenkt auf Erzwingungs- und Beugehaft (§ 888 ZPO, § 901 ZPO).
+- Heutige Personalvollstreckung beschraenkt auf Beugehaft zur Erzwingung unvertretbarer Handlungen (§ 888 ZPO) und Ordnungshaft bei Unterlassungsverstoss (§ 890 ZPO). § 901 ZPO regelt heute die Pfaendungsschutz-Konto-Themen, nicht mehr die Erzwingungshaft.
 - Vermoegensvollstreckung ueber ZPO Buch 8.
 - Insolvenzverfahren als Universalexekution geht zurueck auf bonorum venditio.
 

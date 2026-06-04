@@ -15,12 +15,11 @@ description: "Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sankti
 ### Meldeversaeumnis § 32 SGB II
 - Termin nicht eingehalten.
 
-## Sanktionshoehe nach Reform 2023
+## Sanktionshoehe nach aktueller Gesetzeslage
 
-- Erste Pflichtverletzung: 10 Prozent Kuerzung des Regelsatzes fuer 3 Monate.
-- Zweite Pflichtverletzung: 20 Prozent fuer 3 Monate.
-- Dritte und weitere: 30 Prozent fuer 3 Monate.
-- Keine totalen Sanktionen mehr (frueher 100 Prozent).
+- Regelminderung gestuft: erste Pflichtverletzung 10 v. H. fuer einen Monat, weitere Verletzungen 20 v. H. bzw. 30 v. H. — die genauen Dauerregelungen sind nach den Reformen 2023/2024 differenziert und nicht mehr pauschal "3 Monate" bei jeder Stufe. Aktuellen Wortlaut § 31a SGB II vor Anwendung pruefen.
+- § 31a Abs. 7 SGB II: vollstaendiger Wegfall des Regelbedarfs in der Sonderkonstellation der bewussten Verweigerung einer zumutbaren Arbeit ("Totalentzug") trotz BVerfG 1 BvL 7/16 zulaessig, weil eng begrenzt und mit Mitwirkungsobliegenheit verknuepft — vor Anwendung im Mandat live verifizieren.
+- BVerfG 1 BvL 7/16 vom 05.11.2019 verbietet nur generelle Sanktionen ueber 30 v. H. und 100-v.-H.-Totalentzug. Im engen Sonderbereich des Abs. 7 hat der Gesetzgeber das Instrument unter strengen Voraussetzungen reaktiviert.
 
 ## BVerfG-Linie
 

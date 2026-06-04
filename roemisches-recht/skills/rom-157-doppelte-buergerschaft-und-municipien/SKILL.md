@@ -32,7 +32,7 @@ Skill fuer Doppelbuergerschaft im roemischen Reich.
 
 ## Vergleich zu modernem Recht
 
-- Doppelte Staatsangehoerigkeit nach § 4 StAG / § 25 StAG.
+- Doppelte Staatsangehoerigkeit: Erwerb nach § 4 StAG; Reform des Hinnahmeprinzips (Mehrstaatigkeit seit Aenderung des StAG 2024 in vielen Fallgruppen ueberlagert). § 25 StAG (Verlust kraft Erwerb fremder Staatsangehoerigkeit) ist mit Wirkung 27.06.2024 weggefallen — Mehrstaatigkeit jetzt generell hingenommen; stattdessen Sondernormen pruefen (§ 25 StAG a.F. nur fuer Altfaelle).
 
 ## Pruefraster
 
