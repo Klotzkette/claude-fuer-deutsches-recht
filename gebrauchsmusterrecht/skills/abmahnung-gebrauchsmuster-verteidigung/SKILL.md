@@ -20,6 +20,28 @@ Nie nur wegen Registereintrag unterwerfen; immer Recherche und Löschungsrisiko 
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete GebrMG-Normen und BGH-Linie
+
+### Schluesselnormen
+- **§ 24 GebrMG**: Unterlassungs- und Schadensersatzansprueche bei Verletzung.
+- **§ 24a-c GebrMG**: Auskunfts-, Schadensersatz- und Vernichtungsansprueche analog §§ 139-140d PatG.
+- **§ 25 GebrMG**: Strafbarkeit bei vorsaetzlicher Verletzung.
+
+### Besonderheit Gebrauchsmuster
+- Anders als Patent: **kein materieller Pruefungsfilter im Eintragungsverfahren** (DPMA prueft nur formell).
+- Folge: Eingetragenes Gebrauchsmuster sagt **nichts ueber Rechtsbestand** aus.
+- BGH X ZR 100/13 (Az im Mandat live verifizieren) — Verletzungsklaeger muss damit rechnen, dass Beklagter Loeschungsantrag stellt.
+
+### Verteidigungsstrategie
+1. **Pruefe Rechtsbestand**: Stand der Technik recherchieren, Neuheit und erfinderischer Schritt § 3, § 4 GebrMG.
+2. **Loeschungsantrag** beim DPMA als Gegenangriff (§ 16 GebrMG); fuehrt im Verletzungsverfahren regelmaessig zur Aussetzung.
+3. **Schutzschrift** beim ZPO-Gericht hinterlegen, wenn einstweilige Verfuegung droht.
+4. **Schutzbereich pruefen**: Anspruchsmerkmale gegen verletzte Ausfuehrung pruefen — § 12a GebrMG i.V.m. § 14 PatG (Auslegung der Schutzansprueche).
+
+### BGH-Linie zum Schutzbereich
+- BGH X ZR 95/05 "Schneidmesser" (verifizieren) — Aequivalenzlehre auch im Gebrauchsmusterrecht.
+- BGH X ZR 16/09 "Occlusionsvorrichtung" (verifizieren).
+
 ## Output
 
 Abmahnentwurf oder Verteidigungsvermerk.

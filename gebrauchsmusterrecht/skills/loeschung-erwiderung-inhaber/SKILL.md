@@ -20,6 +20,32 @@ Prüfe Teilverteidigung und beschränkte Anspruchsfassung.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### Verfahrensgang
+- **§ 17 GebrMG**: Loeschungsantrag wird dem Inhaber zugestellt.
+- Inhaber hat **1 Monat Widerspruchsfrist**.
+- Bei Schweigen Loeschung kraft Saeumnis (Default-Loeschung).
+
+### Erwiderungsinhalt
+1. **Widerspruch**: ausdruecklich erklaeren.
+2. **Sachvortrag**: Antwort auf jeden Loeschungsgrund.
+3. **Beweismittel**: Stand der Technik gegenrecherchieren, Hilfsantraege formulieren.
+4. **Hilfsantraege**: praezisierte Schutzansprueche (Beschraenkung).
+
+### Hilfsantraege (§ 16 Abs. 1 Satz 2 GebrMG iVm § 17 GebrMG)
+- Praezisierung durch Aufnahme abhaengiger Anspruchsmerkmale.
+- Streichung von Alternativen.
+- Beschraenkung des Schutzbereichs.
+
+### Praxistipp
+- Frueher Hilfsantraege formulieren, um Teilloeschung zu vermeiden.
+- Skill `teilloeschung-und-hilfsantraege` als Schwester-Skill heranziehen.
+
+### Schwerpunkt
+- Wenn ein Loeschungsantrag gegen das eigene Gebrauchsmuster geht, ist die Frist von 1 Monat sehr kurz.
+- Anwaltliche Eile geboten.
+
 ## Output
 
 Erwiderungsplan.

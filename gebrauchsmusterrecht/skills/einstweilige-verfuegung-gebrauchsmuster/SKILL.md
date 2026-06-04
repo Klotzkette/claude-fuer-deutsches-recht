@@ -20,6 +20,33 @@ Prüfe besonders kritisch, ob das ungeprüfte Recht eV-tauglich ist.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### Voraussetzungen
+- Schutzrecht (eingetragenes Gebrauchsmuster).
+- Verletzungstatbestand (Anspruchsmerkmale).
+- Verfuegungsanspruch (§ 24 GebrMG).
+- Verfuegungsgrund (Eilbeduerftigkeit, § 935 ZPO).
+
+### Besonderheit Gebrauchsmuster
+- Anders als Patent: kein materieller Pruefungsfilter.
+- Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
+- BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Klaeger glaubhaft gemacht werden.
+
+### Faktoren fuer Verfuegungserlass
+1. **Rechtsbestand**: Stand der Technik bekannt? Erfinderischer Schritt belegbar?
+2. **Verletzung**: klar dargelegt?
+3. **Dringlichkeit**: 1-2 Monate Untaetigkeit kann die Eilbeduerftigkeit zerstoeren.
+4. **Schadenshoehe**: gross genug fuer einstweiligen Rechtsschutz?
+
+### Schutzschrift
+- Vorsorgliche Hinterlegung beim Gericht durch Anti-Verfuegungs-Bedrohten.
+- Wirksam beim zentralen Schutzschriftenregister.
+
+### Aktuelle Praxis
+- LG Duesseldorf, LG Mannheim und LG Muenchen I als zentrale Patentkammern bearbeiten viele Gebrauchsmuster-Verfuegungsverfahren.
+- Aktenzeichen im Mandat live verifizieren.
+
 ## Output
 
 eV-Risikomemo.

@@ -20,6 +20,34 @@ Erstelle eine Offenbarungschronologie und unterscheide eigene Offenbarung von fr
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### § 3 Abs. 2 GebrMG Neuheitsgnade
+- 6 Monate vor dem Anmeldetag.
+- Eigene Veroeffentlichungen des Erfinders oder seines Rechtsnachfolgers werden **nicht** zum Stand der Technik gezaehlt.
+- Wesentlicher Unterschied zum Patent (§ 3 PatG kennt kaum Neuheitsgnade).
+
+### Anwendungsfall
+- Messeveroeffentlichung, Produktlaunch, wissenschaftliche Veroeffentlichung des Erfinders.
+- Nach 6-monatiger Frist Anmeldung weiterhin moeglich.
+
+### Voraussetzungen
+- Veroeffentlichung muss von Erfinder oder Rechtsnachfolger ausgehen.
+- Schriftliche Dokumentation vorhanden (Datum belegbar).
+
+### Beweisfuehrung im Loeschungsverfahren
+- Anmelder muss die Neuheitsgnade darlegen und belegen.
+- Quellen: Foto-Tagebuch, Messeverzeichnis, Pressemitteilung mit Datum.
+
+### Wichtige Abgrenzung
+- Veroeffentlichung **Dritter** (auch wenn auf Erfindung gestoesen) zaehlt **zum** Stand der Technik.
+- Beispiel: ein Industriespion publiziert die Erfindung. Keine Neuheitsgnade.
+
+### Internationale Folgen
+- Bei Anmeldung im Ausland (z. B. EP-Patent) gilt die deutsche Neuheitsgnade NICHT.
+- 6 Monate genuegen daher nur fuer DE-Gebrauchsmuster.
+- Bei US- oder JP-Strategie eigene Regelungen pruefen.
+
 ## Output
 
 Schonfrist- und Risikoampel.

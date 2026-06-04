@@ -20,6 +20,30 @@ Stelle den Angriff merkmalsbezogen und mit belastbaren Belegen auf.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### Norm
+- **§ 15-18 GebrMG**: Loeschungsverfahren beim DPMA.
+
+### Loeschungsgruende
+1. **§ 15 Abs. 1 Nr. 1 GebrMG**: Schutzgegenstand nicht schutzfaehig (§§ 1-3 GebrMG nicht erfuellt — kein erfinderischer Schritt, nicht neu, ausgeschlossener Gegenstand).
+2. **§ 15 Abs. 1 Nr. 2 GebrMG**: nicht widerrechtlich entnommen.
+3. **§ 15 Abs. 1 Nr. 3 GebrMG**: Schutzgegenstand geht ueber den Inhalt der Anmeldung hinaus.
+
+### Verfahren
+1. Loeschungsantrag schriftlich an DPMA — formfrei aber strukturiert.
+2. DPMA stellt Antrag dem Inhaber zu — § 17 GebrMG.
+3. Inhaber hat **1 Monat** Widerspruchsfrist; bei Schweigen Loeschung kraft Saeumnis (§ 17 GebrMG).
+4. Bei Widerspruch muendliche Verhandlung vor Patentabteilung.
+
+### Beschwerde
+- Gegen Loeschungsentscheidung Beschwerde zum BPatG (§ 18 GebrMG).
+- Rechtsbeschwerde zum BGH (§ 18 GebrMG iVm § 100 PatG).
+
+### Strategie
+- Gegenangriff im Verletzungsverfahren typisch.
+- Aussetzung des Verletzungsverfahrens beim ZPO-Gericht moeglich, wenn Loeschung erhebliche Erfolgsaussicht hat.
+
 ## Output
 
 Löschungsantrag-Outline.

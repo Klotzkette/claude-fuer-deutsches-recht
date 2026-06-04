@@ -20,6 +20,28 @@ Formuliere nicht blind neu, sondern stelle Rückfragen zu technischen Wirkungen 
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### Anforderungen an die Anspruchsfassung
+- **§ 4 GebrMG**: Unteransprueche; Schutzansprueche praezise formulieren.
+- **§ 4a GebrMG**: Pluraritaet, Einheitlichkeitsgrundsatz.
+- **§ 12a GebrMG i.V.m. § 14 PatG**: Schutzbereich durch Schutzansprueche bestimmt; Beschreibung und Zeichnungen zur Auslegung.
+
+### Schutzanspruchsarten
+- **Sachanspruch**: Vorrichtung, Geraet, Anordnung, Stoff (chemische Stoffe siehe § 2 Nr. 3 GebrMG).
+- **Anwendungsanspruch**: zweite medizinische Indikation eingeschraenkt — siehe Skill `chemie-biotech-und-stoffschutz`.
+- **Kein Verfahrensanspruch**: § 2 Nr. 3 GebrMG schliesst Verfahren als Gegenstand des Gebrauchsmusters AUS — wesentlicher Unterschied zum Patent.
+
+### Praezisionsregeln
+1. Merkmalsgliederung praezise.
+2. Funktionale Merkmale moeglichst durch strukturelle Merkmale ergaenzen.
+3. Unteransprueche kaskadiert (Hauptanspruch -> abhaengige Ansprueche).
+4. Aequivalenzraum durch sprachlich offene Begriffe (z. B. "im Wesentlichen") wahren.
+
+### BGH-Linie
+- BGH X ZR 95/05 "Schneidmesser" — Aequivalenz auch im Gebrauchsmusterrecht.
+- BGH X ZB 5/16 (Az verifizieren) — Auslegung der Schutzansprueche aus dem Verstaendnis des Fachmanns.
+
 ## Output
 
 Anspruchs-Review und Rückfragen.

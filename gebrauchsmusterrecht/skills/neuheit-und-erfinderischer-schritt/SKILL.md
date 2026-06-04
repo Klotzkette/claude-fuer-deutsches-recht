@@ -20,6 +20,27 @@ Arbeite mit Merkmalstabelle und Quellenbelegen; Eintragung beim DPMA ersetzt die
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### § 3 GebrMG Neuheit
+- Stand der Technik umfasst alles vor dem Anmelde- oder Prioritaetstag der Oeffentlichkeit Zugaengliche.
+- **§ 3 Abs. 2 GebrMG: Neuheitsgnade von 6 Monaten** fuer eigene Veroeffentlichungen vor der Anmeldung (wesentlicher Unterschied zum Patent!).
+
+### § 4 GebrMG Erfinderischer Schritt
+- Niedrigere Schwelle als die erfinderische Taetigkeit im Patentrecht (§ 4 PatG).
+- BGH X ZB 27/05 "Demonstrationsschrank" — erfinderischer Schritt ist erfuellt, wenn die Erfindung nicht "ohne erfinderisches Zutun" aus dem Stand der Technik herleitbar war.
+- BGH X ZB 5/16 (verifizieren) — der Massstab ist allenfalls geringfuegig hinter der Patenttatigkeit zurueckbleibend (Vorsicht: Rspr. nicht einheitlich).
+
+### Wichtige Praxis-Anker
+- "Ohne erfinderisches Zutun" — auch trivialere Loesungen koennen schutzfaehig sein.
+- Aber: rein handwerkliche Loesungen sind nicht schutzfaehig.
+
+### Pruefraster
+1. Stand der Technik vollstaendig recherchieren.
+2. Naechster Stand der Technik bestimmen.
+3. Unterschiede zur Erfindung herausarbeiten.
+4. Bewertung ob erfinderischer Schritt erfuellt.
+
 ## Output
 
 Rechtsbestandsmemo.

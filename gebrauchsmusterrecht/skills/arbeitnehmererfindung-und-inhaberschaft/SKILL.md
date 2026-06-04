@@ -20,6 +20,27 @@ Verknüpfe ArbnErfG-Fragen mit Anmelder- und Rechtekette.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### Anwendbares Recht
+- **§ 13 GebrMG**: Recht des Anmelders / Erfinders.
+- **ArbnErfG (Arbeitnehmererfindungsgesetz)**: greift auch fuer Gebrauchsmuster (§ 1 Abs. 1 ArbnErfG: "Erfindung im Sinne dieses Gesetzes sind nur patentfaehige und gebrauchsmusterfaehige Erfindungen").
+
+### Pflichten des Arbeitnehmers
+- **§ 5 ArbnErfG**: Meldepflicht der Diensterfindung an den Arbeitgeber unverzueglich.
+- **§ 6 ArbnErfG**: Arbeitgeber kann innerhalb von **vier Monaten** die Diensterfindung in Anspruch nehmen (Reform 2009: Inanspruchnahme-Fiktion bei Schweigen, frueher musste der Arbeitgeber aktiv handeln).
+
+### Verguetung
+- **§§ 9-11 ArbnErfG**: Verguetung nach Massgabe der Verguetungsrichtlinie.
+- Berechnungsfaktoren: erfinderische Leistung, Bedeutung der Erfindung, Aufgabenstellung im Betrieb.
+
+### Wichtig fuer Gebrauchsmuster
+- Auch wenn das Gebrauchsmuster nicht materiell geprueft wird: Verguetungspflicht des Arbeitgebers besteht.
+- Auch bei "freier Erfindung" (§ 4 Abs. 3 ArbnErfG) Anbietungspflicht.
+
+### Aktuelle BGH-Linie
+- BGH X ZR 137/15 (verifizieren) zur Verguetung bei Gebrauchsmuster.
+
 ## Output
 
 Inhaberschaftsvermerk.

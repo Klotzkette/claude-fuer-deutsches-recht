@@ -20,6 +20,35 @@ Sichere Laborbücher, Bestellungen, CAD, Tests und Zeugen.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
+## Konkrete Norm-Anker
+
+### § 13 Abs. 3 GebrMG iVm § 12 PatG
+- Wer vor dem Anmeldetag die Erfindung **bereits in Benutzung genommen** oder die zur Benutzung erforderlichen Veranstaltungen getroffen hat, darf trotz spaeterer Anmeldung Dritter die Erfindung **weiter benutzen**.
+
+### Voraussetzungen
+1. **Erfindungsbesitz**: eigenes Wissen um die Erfindung.
+2. **Benutzung oder Veranstaltung**: tatsaechliche Nutzung im Betrieb (oder konkrete Vorbereitungshandlungen).
+3. **Zeitpunkt**: vor dem Anmeldetag des Gebrauchsmusters.
+4. **Inlaendischer Bezug**: Benutzung in Deutschland.
+
+### Beweisanforderung
+- Vorbenutzer muss die Voraussetzungen darlegen und beweisen.
+- Beweismittel: Konstruktionszeichnungen mit Datum, Laborbuch, Bestellscheine, Lieferscheine, Foto-Dokumentation.
+
+### Umfang
+- Weiternutzung im **bisherigen Umfang**.
+- Erweiterung nur in den Grenzen des urspruenglichen Geschaeftsbereichs.
+- Verkauf des Vorbenutzungsrechts nur zusammen mit dem Geschaeftsbetrieb.
+
+### BGH-Linie
+- BGH X ZR 75/02 — Anforderungen an "konkrete Vorbereitungshandlungen".
+- BGH X ZR 19/06 — Umfang der Weiternutzung.
+- Az im Mandat live verifizieren.
+
+### Strategischer Wert
+- Wichtiges Verteidigungsmittel gegen spaeter angemeldetes Gebrauchsmuster.
+- Sorgfaeltige Dokumentation der eigenen Entwicklung Pflicht.
+
 ## Output
 
 Vorbenutzungs-Memo.
