@@ -48,3 +48,31 @@ Dieser Skill bearbeitet **Rei Vindicatio** im Plugin **Römisches Recht**. Er bl
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 6.1.1 (Ulpian)**: "Per hanc autem actionem liberae personae, quae sunt sui iuris, non petuntur" — die rei vindicatio ist die Eigentumsherausgabeklage.
+- **D. 6.1.9**: Klage erfordert Beweis des Eigentums durch den Klaeger.
+- **D. 6.1.17**: Bei Wertverlust waehrend Prozess Schadensersatz.
+
+### Tatbestand
+1. Klaeger ist Eigentuemer.
+2. Beklagter ist Besitzer.
+3. Sache ist identifizierbar (Specifikation).
+
+### Folgen
+- Hauptfolge: Herausgabe der Sache.
+- Bei boesglaeubigem Besitzer: Schadensersatz fuer Fruechte, Nutzungen, Wertminderung.
+- Bei gutglaeubigem Besitzer: nur seit Klagerhebung Haftung.
+
+### Subsumtionsbeispiel: Gestohlene Vase
+Sachverhalt: A hat Vase; B stiehlt sie; B verkauft sie an C, der nichts weiss; nach 6 Monaten findet A die Vase bei C.
+- **Roemisch**: D. 6.1 — A kann rei vindicatio gegen C erheben; C muss herausgeben; Schadensersatz fuer Nutzungen seit Klage. C hat actio empti gegen B auf Kaufpreis.
+- **BGB**: § 985 BGB Vindikation gegen C; § 935 BGB schliesst gutglaeubigen Erwerb gestohlener Sachen aus; C verliert; C hat § 437 Nr. 2 iVm § 433 BGB Anspruch gegen B.
+
+### Subsumtionsbeforderung: Nutzungen
+- Boesglaeubiger Besitzer: Haftung ab Besitzbegin.
+- Gutglaeubiger Besitzer: Haftung erst ab Klageerhebung (litiscontestation).
+- Heute: §§ 987-993 BGB Eigentuemer-Besitzer-Verhaeltnis — sehr aehnliches System.
+

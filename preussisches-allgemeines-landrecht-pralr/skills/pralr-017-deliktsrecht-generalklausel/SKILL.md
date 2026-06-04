@@ -28,6 +28,30 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR I 6 § 1**: "Wer einen anderen ohne Recht und Befugniss vorsetzlich beleidiget, ist zum Ersatze des dadurch entstandenen Schadens verpflichtet."
+- **ALR I 6 §§ 8 ff.**: Generelle Fahrlaessigkeitshaftung.
+- **ALR I 6 §§ 10-12**: Verschuldensstufen — dolus (Vorsatz), culpa lata (grobe Fahrlaessigkeit), culpa levis (leichte Fahrlaessigkeit), culpa levissima (allergeringste Fahrlaessigkeit).
+- **ALR I 6 §§ 50-92**: Sonderdelikte — Beleidigung, Koerperverletzung, Sachbeschaedigung, Tierhalter.
+- **ALR I 6 §§ 56-58**: Tierhalterhaftung — Hund, Pferd; Differenzierung Wachhund vs. Hofhund.
+- **ALR I 6 §§ 78-92**: Beruehmt sind die kasuistischen Brieftauben- und Pferderegelungen.
+
+### Subsumtionsbeispiel: Hofhund beisst Postboten 1880
+Sachverhalt: Postbote von Hofhund gebissen.
+ALR-Loesung: ALR I 6 §§ 56-58 — Tierhalterhaftung; bei Wachhund mit deutlichem Warnsignal Haftung gemindert; bei freilaufendem Hund volle Haftung. Schaden umfasst Heilkosten und Verdienstausfall. Heute § 833 BGB Tierhalterhaftung — strenger als ALR.
+
+### Subsumtionsbeispiel: Brieftaubendiebstahl 1850
+Sachverhalt: Brieftaube fliegt ins Nachbarschloss; Nachbar faengt sie und behaelt sie.
+ALR-Loesung: ALR I 6 § — eigener Tatbestand fuer Brieftauben! Pflicht zur Rueckgabe; Schadenersatz bei verzoegerter Rueckgabe.
+
+### Heutige Fortwirkung
+- § 823 Abs. 1 BGB generelle Deliktshaftung — moderner gefasst als ALR.
+- § 826 BGB sittenwidrige Schaedigung.
+- § 833 BGB Tierhalter.
+- Verschuldensstufen in ALR-Tradition: bis heute "grobe Fahrlaessigkeit" als Aufschwellgrad fuer Haftungsschaerfung (z. B. § 309 Nr. 7 BGB, § 277 BGB).
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

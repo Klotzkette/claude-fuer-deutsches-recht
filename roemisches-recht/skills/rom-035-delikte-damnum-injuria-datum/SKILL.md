@@ -48,3 +48,34 @@ Dieser Skill bearbeitet **Delikte Damnum Injuria Datum** im Plugin **Römisches 
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **Lex Aquilia (286 v. Chr.; Datum vor Zitat verifizieren)**: Grundlage des roemischen Schadensersatzrechts.
+- **D. 9.2**: Ad legem Aquiliam.
+
+### Lex Aquilia Kapitel 1 und 3
+- **Kapitel 1**: Toetung eines fremden Sklaven oder vierfuessigen Herdentiers; Haftung auf hoechsten Wert im letzten Jahr.
+- **Kapitel 3**: Sonstige Sachschaedigungen (urere frangere rumpere — "Brennen, Brechen, Zerreissen"); Haftung auf hoechsten Wert im letzten Monat.
+
+### Subjektives Element
+- Vorsatz (dolus) oder Fahrlaessigkeit (culpa) erforderlich.
+- D. 9.2.5.1 — Verschuldensprinzip etabliert.
+- D. 9.2.31 (Paulus) — sehr ausdifferenzierte culpa-Lehre.
+
+### Subsumtionsbeispiel: Pferd erschossen beim Jagen
+Sachverhalt: A schiesst beim Wildschwein-Jagen; verfehlt; Kugel trifft Pferd des B.
+- **Roemisch**: Lex Aquilia Kapitel 1 (Tier); culpa-Haftung; Frage ob noch im Beschossenen Wildbahnbereich; Schaden auf hoechsten Pferdewert im letzten Jahr.
+- **ALR I 6 § 8**: Generalklausel fuer Fahrlaessigkeit; Pferdewert ersetzen.
+- **BGB**: § 823 Abs. 1 BGB Eigentumsverletzung; § 249 BGB Naturalherstellung oder Schadensersatz.
+
+### Subsumtionsbeispiel: Schiff im Hafen rammt Boote
+Sachverhalt: Schiffer schiebt sein Schiff in den Hafen; rammt andere Boote.
+- **Roemisch**: Lex Aquilia Kapitel 3; culpa-Pruefung; volle Wertersatz.
+- **BGB**: § 823 Abs. 1 BGB; ggf. § 833 BGB nicht anwendbar (kein Tier); volle Wertersatzpflicht.
+
+### Bedeutung fuer modernes Recht
+- Lex Aquilia ist die Wurzel des deutschen Deliktsrechts.
+- BGB § 823 Abs. 1 ist im Kern lex-Aquilia-Modell.
+

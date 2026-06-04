@@ -28,6 +28,44 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Lehrbausteine fuer Hausarbeit und Seminar
+
+### Bausteine
+
+#### Konkretes Beispiel: Mueller-Arnold-Fall
+- 1779/1789, Pommerzig.
+- Friedrich II. zwingt Justiz; Justizreform-Anlass.
+- Geeignet als Einstieg in die Geschichte der Justizunabhaengigkeit.
+
+#### Konkretes Beispiel: Brieftaubenparagraphen
+- ALR I 6 §§ — eigene Norm fuer Brieftaubendiebstahl.
+- Zeigt die kasuistische Methode des ALR.
+- Beliebter Witz: ALR als Kuriositaetenkabinett.
+
+#### Konkretes Beispiel: Zwitterrecht ALR II 1 §§ 19-22
+- Brueckenschlag zur modernen Personenstandsreform 2018.
+- Bemerkenswert aufgeklaerte Behandlung.
+- Geeignet als Diskussionsbeispiel in Geschlechter- und Personenstandsrechtsseminaren.
+
+#### Konkretes Beispiel: Mueller-Arnold und die Justizunabhaengigkeit
+- Verbindung zu Art. 97 GG.
+
+### Methodischer Rat
+- Nie ALR aus heutiger Perspektive moralisch verurteilen.
+- Stets in den historischen Kontext einbetten.
+- Vergleich mit heutigen Normen als heuristisches Werkzeug.
+
+### Klassische Hausarbeitsthemen
+1. **Aufopferung im ALR und ihre Fortwirkung im modernen Polizeirecht** — kombiniert Einl. §§ 74-75, Polizeyrecht ALR II 17, heutige PolG / SGB XIV.
+2. **Der Mueller-Arnold-Fall und das Prinzip der Richterunabhaengigkeit** — verbindet Friedrich II., Carmer/Svarez, ALR-Genese, Art. 97 GG.
+3. **Sklaverei und Erbuntertaenigkeit im ALR** — Sklaverei (ALR II 5 § 196 ff.) vs. Gutsuntertaenigkeit (ALR II 7); Stein-Hardenberg-Reformen.
+4. **Zwitterrecht ALR II 1 §§ 19-22 als aufgeklaertes Personenstandsrecht** — Brueckenschlag zur Reform 2018.
+
+### Wichtige Sekundaerquellen
+- Hattenhauer (Hg.): Allgemeines Landrecht fuer die Preussischen Staaten von 1794, Frankfurt am Main 1996.
+- Wieacker: Privatrechtsgeschichte der Neuzeit.
+- Wesel: Geschichte des Rechts.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

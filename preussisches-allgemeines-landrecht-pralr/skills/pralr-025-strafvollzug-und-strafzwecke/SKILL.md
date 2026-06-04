@@ -28,6 +28,28 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR II 20 §§ 1-30**: Allgemeine Strafzwecke — Vergeltung, Abschreckung, Spezialpraevention ansatzweise.
+- **ALR II 20 §§ 50-79**: Strafkatalog — Todesstrafe, Festungshaft, Zuchthaus, Gefaengnis, Schandstrafen (Pranger, Brandmarken — formell bis 1851).
+- **ALR II 20 §§ — Anwendung Sondervollzuegen fuer Adlige und Staende.
+
+### Strafmilderung Friedrichs II.
+- Friedrich II. hob die **Folter ab 1740** (Cabinets-Order 03.06.1740).
+- Konkrete Aufhebung in einzelnen Faellen bis 1754.
+- Die Aufhebung pragt das ALR und gilt als europaeisch wegweisend.
+
+### Subsumtionsbeispiel: Schwere Diebstahlstat 1820
+Sachverhalt: Wiederholter Diebstahl mit Einbruch.
+ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; spaeter ergaenzend Pranger fuer Wiederholungstaeter (formell bis 1851).
+
+### Heutige Fortwirkung
+- Reichsstrafgesetzbuch 1871 abolierte die Schandstrafen.
+- § 1 StGB Schuldprinzip — Erbe der Aufklaerungs-Tradition Friedrichs.
+- § 46 StGB Strafzumessung — beruecksichtigt Praevention.
+- Art. 102 GG: Todesstrafe abgeschafft.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

@@ -28,6 +28,38 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **Einl. § 1 ALR**: ALR gilt subsidiaer.
+- **Einl. § 2 ALR**: "Provinzialrechte, Statutarrechte und Gewohnheiten" der einzelnen Provinzen gelten vor dem ALR.
+- **Einl. §§ 3-7 ALR**: Sondervorschriften zur Anwendungsrangordnung.
+
+### Geltungshierarchie
+
+1. Statutar- und Provinzialrechte der einzelnen Gebiete (Magdeburger Recht, Pommersches Recht, Schlesisches Provinzialrecht, Ostpreussisches Provinzialrecht).
+2. Lokales Gewohnheitsrecht.
+3. ALR als allgemeines subsidiaeres Recht.
+4. Roemisches Gemeines Recht — in ALR nicht ausdruecklich, aber faktisch ergaenzend.
+
+### Subsumtionsbeispiel: Erbschaft in Magdeburg 1850
+Sachverhalt: Erbschaftsteilung.
+Pruefung: Erstens gilt Magdeburger Provinzialrecht (Recht der Stadt Magdeburg, basierend auf Magdeburger Recht aus dem Mittelalter). Wenn Magdeburger Recht eine Regelung enthaelt, gilt diese vor ALR. Erst bei Schweigen des Magdeburger Rechts greift ALR I 12.
+
+### Subsumtionsbeispiel: Bauernguter in Pommern 1880
+Sachverhalt: Bauerngutverkauf.
+Pruefung: Pommersches Provinzialrecht enthaelt Sondervorschriften fuer Bauernguter (Heimstaette, Erbenfolge). Diese sind vor ALR zu beachten.
+
+### Methodischer Reflex
+- Beim Quellenvergleich immer pruefen: Welches Provinzialrecht? Welches Stadtrecht? Welches Gewohnheitsrecht?
+- ALR ist nur **default**.
+- Erst nach BGB-Inkrafttreten 1900 wird das Lokalrecht verdraengt — und auch das nur teilweise (Art. 109 EGBGB Vorbehalt fuer Landesrecht).
+
+### Heutige Fortwirkung
+- Bei Erbschaftsfragen vor 1900: alte Provinzialrechte beachten.
+- Bei Grundstuecksrechten vor 1900: Provinzialrechte beachten.
+- In der Praxis selten, aber bei langen Verjaehrungsfristen denkbar (z. B. Erbschaftsansprueche aus alten Adelsfamilien).
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

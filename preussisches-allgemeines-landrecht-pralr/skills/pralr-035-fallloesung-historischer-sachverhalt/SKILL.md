@@ -28,6 +28,57 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Methodik der historischen Fallloesung
+
+### Schritt 1: Quellenanker
+- Welches Land (Provinz)?
+- Welches Jahr?
+- Welches Recht galt dort: ALR, Provinzialrecht, Gewohnheitsrecht, Code civil (linksrheinisch), Roemisch-gemeines Recht (Sachsen, Wuerttemberg)?
+
+### Schritt 2: Systemstelle
+- ALR Erster Teil (Privatrecht) oder Zweiter Teil (Staat, Stand, Kirche, Strafrecht)?
+- Welcher Titel?
+- Welcher Paragraph?
+
+### Schritt 3: Subsumtion
+- Norm zitieren.
+- Sachverhalt subsumieren.
+- Rechtsfolge ableiten.
+
+### Schritt 4: Vergleich Heute
+- Wie waere der Fall heute zu loesen?
+- Wo liegt die Kontinuitaet, wo der Bruch?
+
+### Beispiel: Hofhund-Biss 1880
+
+**Sachverhalt**: Bauer A; Hofhund X; beisst Postboten B; Verletzung; Heilkosten 50 Taler.
+
+**ALR-Loesung**:
+- Quelle: ALR Erster Teil, Titel 6, §§ 56-58.
+- Norm: Tierhalterhaftung des Bauern.
+- Subsumtion: Bauer ist Halter; Schaden durch Tier; Verschulden vermutet (auch bei "geboten" gehaltenem Hund leichte Haftung).
+- Rechtsfolge: Heilkosten zu ersetzen; Verdienstausfall fuer den Postboten.
+
+**Heute**:
+- § 833 BGB Tierhalterhaftung; ggf. § 833 Satz 2 (Nutztier-Privileg). Heute strenger als ALR weil Verschuldensunabhaengig fuer Luxustiere.
+
+### Beispiel: Eheliche Vermoegenstrennung 1850
+
+**Sachverhalt**: Ehe scheitert; gemeinsam erworbenes Sparvermoegen.
+
+**ALR-Loesung**:
+- Quelle: ALR Zweiter Teil, Titel 1, §§ 205 ff.
+- Norm: Verwaltungsgemeinschaft; Mann verwaltet Frauengut; gemeinsam erworbenes Sparvermoegen wird je nach Vermoegensbringung aufgeteilt.
+
+**Heute**:
+- BGB §§ 1373-1390 Zugewinnausgleich; Halbierung des Zugewinns.
+
+### Pruefraster
+1. Welches Recht?
+2. Welche Systemstelle?
+3. Subsumtion?
+4. Heutiger Vergleich?
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

@@ -48,3 +48,34 @@ Dieser Skill bearbeitet **Stipulatio** im Plugin **Römisches Recht**. Er bleibt
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **Gaius III.92**: "Verbis obligatio fit ex interrogatione et responsione" — durch Frage und Antwort entsteht die Obligation.
+- **D. 45.1**: De verborum obligationibus — die ganze Lehre der stipulatio.
+- **D. 45.1.1 (Ulpian)**: "Stipulatio est verborum conceptio, quibus is qui interrogatur daturum facturumve se quod interrogatus est responderit."
+
+### Form
+- Muendliche Frage-Antwort-Form: "Centum dari spondes? — Spondeo."
+- Strikte Form; abweichende Antwort fuehrt zur Unwirksamkeit (D. 45.1.1.6).
+- Spaeter (Justinian) auch in Urkundenform.
+
+### Wirkung
+- Abstrakter Verpflichtungstatbestand: Stipulationsschuldner muss leisten, ohne dass causa noch verlangt wird.
+- Bei Wegfall der causa: condictio sine causa (D. 12.7).
+
+### Subsumtionsbeispiel: Stipulationsschuld trotz Wegfall des Grundgeschaefts
+Sachverhalt: A stipuliert 100 fuer einen Sklaven; vor Uebergabe stirbt der Sklave; A hat noch nicht gezahlt.
+- **Roemisch**: Stipulationspflicht bleibt formal (abstrakt); A kann aber condictio sine causa gegen das Stipulationsversprechen einlegen, weil causa weggefallen.
+- **BGB**: § 311 BGB Vertrag; § 313 BGB Stoerung der Geschaeftsgrundlage; § 326 BGB Befreiung bei Unmoeglichkeit.
+
+### Abstraktion und Akzessorietaet
+- Stipulation = abstrakt (wie heutige Wechselforderung).
+- Aber: Akzessorische Stipulationen wie sponsio (Buergschaft) sind akzessorisch.
+
+### BGB-Pendants
+- § 780 BGB Schuldversprechen (abstrakt).
+- § 781 BGB Schuldanerkenntnis.
+- Erbe der roemischen Stipulationslehre.
+

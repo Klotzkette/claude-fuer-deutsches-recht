@@ -48,3 +48,32 @@ Dieser Skill bearbeitet **Erbrecht Testament** im Plugin **Römisches Recht**. E
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **Gaius II.99-289**: Erbrecht und Testament.
+- **D. 28**: De testamentis.
+- **D. 5.2**: Querela inofficiosi testamenti.
+
+### Wichtige Testamentsformen
+1. **Testamentum calatis comitiis**: vor Volksversammlung (alt).
+2. **Testamentum in procinctu**: vor Schlacht (alt).
+3. **Testamentum per aes et libram**: Mancipationstestament — klassisch.
+4. **Testamentum praetorium**: 7 Zeugen siegeln — praetorisch.
+
+### Heredis institutio
+- Erbeneinsetzung im Eingang des Testaments zwingend.
+- "Si quis ex prima parte testamenti haeres non sit, testamentum nullum est" (D. 28.5).
+
+### Subsumtionsbeispiel: Pflichtteil verletzt
+Sachverhalt: Reicher Vater enterbt seinen Sohn vollstaendig zugunsten eines Sklaven; Sohn klagt querela inofficiosi testamenti.
+- **Roemisch**: D. 5.2 — querela inofficiosi testamenti; Pflichtteil = 1/4 des Intestaterbteils; bei Verletzung Testament insgesamt fuer ungueltig erklaert ("rescissio testamenti"); Intestaterbfolge greift.
+- **ALR I 12 §§ 380 ff.**: Pflichtteil als Geldanspruch; Testament bleibt im Uebrigen wirksam.
+- **BGB**: §§ 2303 ff. BGB; Pflichtteil = 1/2 des gesetzlichen Erbteils; Anspruch auf Geld; Testament bleibt wirksam.
+
+### Subsumtionsbeispiel: Fideikommiss
+Sachverhalt: Vater verfuegt: "Ich setze meinen Sklaven Marcus als Erben ein. Marcus, ich bitte dich, das gesamte Vermoegen meinem Vater zu geben." — Vater des Erblassers ist nicht erbfaehig (z. B. capitis deminutio).
+- **Roemisch**: Fideikommissum; Marcus ist verpflichtet, das Erbe an den Vater zu uebertragen. SC Trebellianum (56 n. Chr.): Fideikommissar erhaelt eigene Klage.
+- **BGB**: Vor- und Nacherbschaft § 2100 ff. BGB.
+

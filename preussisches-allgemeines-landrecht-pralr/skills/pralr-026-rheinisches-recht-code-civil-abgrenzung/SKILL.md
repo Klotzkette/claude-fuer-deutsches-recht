@@ -28,6 +28,36 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Geltungsraum
+
+Das ALR galt in den preussischen Staaten **ostwaerts der Elbe** und in den durch Wiener Kongress 1815 zu Preussen gekommenen alten Provinzen.
+
+In den **linksrheinischen** Gebieten Preussens (Rheinprovinz, Westfalen-Anteile, Saarland) galt nach 1815 weiterhin der **Code civil** (1804 unter Napoleon eingefuehrt) — sogar bis zum BGB-Inkrafttreten 1900!
+
+### Praktische Folgen
+
+- Unterschiedliche Eheguterrechte: ALR-Verwaltungsgemeinschaft (Mann verwaltet Frauengut) vs. Code civil-Errungenschaftsgemeinschaft.
+- Unterschiedliche Erbrechte: ALR-Pflichtteil 1/3 vs. Code civil-Pflichtteil 1/2 - 3/4.
+- Unterschiedliche Grundbuchsysteme.
+- Unterschiedliche Vertragsformerfordernisse.
+
+### Subsumtionsbeispiel: Bauern aus dem Rheinland und der Mark Brandenburg 1850
+Sachverhalt: Vergleich Ehegueterrecht.
+- Mark Brandenburg (ALR): Mann verwaltet Frauengut; Frau hat nur eingeschraenkte Verfuegungsmacht.
+- Rheinland (Code civil): Errungenschaftsgemeinschaft mit beidseitiger Mitwirkung.
+- Folge: rheinische Bauern haben rechtlich oft besser gestellte Ehefrauen.
+
+### Heutige Fortwirkung
+- BGB ab 01.01.1900 vereinheitlicht.
+- Aber: Alteinraege im Grundbuch in der Rheinprovinz oft unterschiedlich strukturiert als in Brandenburg.
+- Erbfaelle vor 1900 nach Ortsrecht zu pruefen — bei alten Familienstreitigkeiten heute noch relevant.
+
+### Methodisch wichtig
+- Lokales Recht im 19. Jh. immer pruefen.
+- ALR vs. Code civil vs. Gemeines Recht (Sachsen, sueddeutsche Staaten) je nach Ortsrecht.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

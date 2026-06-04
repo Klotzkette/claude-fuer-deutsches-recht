@@ -28,6 +28,28 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR I 5 §§ 1-100**: Vertraege allgemein; Vertragsschluss durch Konsens.
+- **ALR I 5 §§ 100-200**: Formerfordernisse; bei hoeheren Werten Schriftform; bei Grundstueckskauf gerichtliche Verlautbarung.
+- **ALR I 5 §§ 250-300**: Erfuellung, Verzug, Unmoeglichkeit; Verschuldenstufen dolus, culpa lata, culpa levis, culpa levissima.
+- **ALR I 5 §§ 400-500**: Wegfall der Geschaeftsgrundlage (clausula rebus sic stantibus) ansatzweise.
+
+### Subsumtionsbeispiel: Mietzinsausstand 1860
+Sachverhalt: Mieter zahlt seit 6 Monaten nicht.
+ALR-Loesung: ALR I 21 (Miete) iVm I 5 (allgemein) — Verzug nach Mahnung; Kuendigungsrecht; Anspruch auf rueckstaendigen Mietzins plus Verzugsschaden. Mietzinspfandrecht des Vermieters an eingebrachten Sachen (ALR I 20 § ff. Pfand).
+
+### Subsumtionsbeispiel: Schiffsverlust und Wegfall der Geschaeftsgrundlage 1870
+Sachverhalt: Kaufmann verkauft Ware, Schiff sinkt vor Ablieferung.
+ALR-Loesung: ALR I 5 §§ — Untergang ohne Verschulden = Befreiung von Leistungspflicht; Gefahrtragung nach Periculum-Regel ALR I 11 §§ 90 ff. (perit res emptori bei beweglichen Sachen ab Uebergabe).
+
+### Heutige Fortwirkung
+- BGB §§ 145-157 Vertragsschluss.
+- §§ 275, 280-281 BGB Pflichtverletzungen.
+- §§ 286-288 BGB Verzug.
+- § 313 BGB Stoerung der Geschaeftsgrundlage (BGH-Linie aus ALR-Tradition gespeist).
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

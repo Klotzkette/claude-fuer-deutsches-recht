@@ -48,3 +48,37 @@ Dieser Skill bearbeitet **Culpa Dolus Custodia** im Plugin **Römisches Recht**.
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 50.16.213.2 (Ulpian)**: Definitionen.
+- **D. 50.17.23 (Ulpian)**: "Contractus quidam dolum malum dumtaxat recipiunt, quidam et dolum et culpam" — verschiedene Haftungsmaszstaebe je Vertragstyp.
+
+### Verschuldensstufen
+1. **Dolus**: Vorsatz; strengste Form, immer haftbar.
+2. **Culpa lata**: grobe Fahrlaessigkeit; "dolo proxima est".
+3. **Culpa levis**: leichte Fahrlaessigkeit; in concreto vs in abstracto.
+4. **Culpa levissima**: allergeringste Sorgfaltsverletzung; nur bei custodia.
+5. **Custodia**: hoechste Sorgfalt; Haftung auch fuer Zufall, ausser vis maior.
+6. **Casus**: Zufall; grundsaetzlich keine Haftung.
+7. **Vis maior**: hoehere Gewalt; auch custodia-Haftung weicht zurueck.
+
+### Haftungsmasstab je Vertragstyp
+- **Verwahrer (depositum)**: nur dolus (D. 16.3.1.1).
+- **Mandatar**: dolus + culpa lata.
+- **Verkaeufer (emptio venditio)**: dolus + culpa (verschuldensabhaengig).
+- **Vermieter / Mieter (locatio conductio)**: dolus + culpa.
+- **Entleiher (commodatum)**: custodia (D. 13.6.5.4).
+- **Verkaeufer fuer hoechste Sorgfalt bei seltenen Sachen**: ggf. custodia.
+
+### Subsumtionsbeispiel: Lebensmittel zerstoert
+Sachverhalt: A schickt Lebensmittel-Lieferung; B als Spediteur verliert sie durch Diebstahl.
+- **Roemisch**: locatio conductio operis; Diebstahl ist nicht vis maior; Haftung wegen custodia bei Spediteur.
+- **BGB**: §§ 425-431 HGB Frachtfuehrer-Haftung; bei "regelmaessigem Verlauf" verschuldensunabhaengige Haftung; Begrenzung auf 8.33 SZR/kg.
+
+### Subsumtionsbeispiel: Pferd gestohlen waehrend Krieg
+Sachverhalt: B leiht Pferd; auf der Reise wird er von Feinden ueberfallen; Pferd genommen.
+- **Roemisch**: commodatum; vis maior (feindlicher Angriff); B nicht haftbar (D. 13.6.18).
+- **BGB**: § 599 BGB Leihe; B haftet nur fuer Vorsatz und grobe Fahrlaessigkeit.
+

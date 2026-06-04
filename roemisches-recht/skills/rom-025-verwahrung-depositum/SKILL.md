@@ -48,3 +48,29 @@ Dieser Skill bearbeitet **Verwahrung Depositum** im Plugin **Römisches Recht**.
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 16.3.1 (Ulpian)**: "Depositum est, quod custodiendum alicui datum est" — Verwahrung zur Aufbewahrung.
+- **D. 16.3**: Allgemein.
+
+### Tatbestand
+- Unentgeltlich.
+- Ueberlassung zur sicheren Aufbewahrung.
+- Eigentum und Besitzwillen beim Hinterleger.
+
+### Haftung
+- Nur Vorsatz (dolus) — sehr milde Haftung (D. 16.3.1.1).
+- Bei Mangel an Sorgfalt: keine Haftung (anders als commodatum).
+- Sondertypus depositum miserabile (Notverwahrung): doppelte Haftung des Verwahrers.
+
+### Subsumtionsbeispiel: Geld waehrend Feuersbrunst zur Aufbewahrung gegeben
+Sachverhalt: A gibt sein Geld waehrend eines Brandes bei B in Verwahrung; B unterschlaegt es.
+- **Roemisch**: Depositum miserabile (D. 16.3.1.1) — doppelte Haftung; B haftet auf das Doppelte des Wertes.
+- **BGB**: §§ 688-700 BGB Verwahrung; § 695 BGB Rueckgabepflicht.
+
+### Receptum nautarum cauponum stabulariorum
+- D. 4.9 — Sondervorschrift: Reeder, Gastwirte, Stallbetreiber haften strenger fuer eingebrachte Sachen (custodia-Haftung).
+- Modern: §§ 701-704 BGB Gastwirtshaftung.
+

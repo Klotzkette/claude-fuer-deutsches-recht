@@ -48,3 +48,31 @@ Dieser Skill bearbeitet **Delikte Furtum** im Plugin **Römisches Recht**. Er bl
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 47.2 (Paulus)**: "Furtum est contrectatio rei fraudulosa lucri faciendi gratia vel ipsius rei vel etiam usus eius possessionisve" — Diebstahl als arglistige Wegnahme zum Gewinn.
+- **Gaius III.183**: Vier Arten von furtum.
+
+### Vier furtum-Arten
+1. **Furtum manifestum**: auf frischer Tat ertappt; 4-fache Strafe.
+2. **Furtum nec manifestum**: nicht auf frischer Tat; 2-fache Strafe.
+3. **Furtum conceptum**: Sache wird beim Besitzer gefunden, der bestraft wird.
+4. **Furtum oblatum**: Sache wurde aufgedraengt.
+
+### Klagen
+- **Actio furti**: poena (Strafzahlung), nicht Eigentumsherausgabe.
+- **Condictio furtiva**: kombinierbar; auf Wertersatz (poenale plus Wertersatz!).
+- **Rei vindicatio**: zusaetzlich auf Herausgabe.
+
+### Subsumtionsbeispiel: Sklave stiehlt Geld
+Sachverhalt: Sklave des A stiehlt Geld bei B; Sklave hat es zu seinem peculium genommen.
+- **Roemisch**: Actio furti gegen Sklavenhalter A (mit noxa-Auslieferung Moeglichkeit). D. 47.2.21 — actio noxalis.
+- **BGB**: keine noxale Haftung; § 831 BGB Verrichtungsgehilfen-Haftung des Halters; § 823 Abs. 1 BGB durch Sklaven (heute Arbeitnehmer).
+
+### Subsumtionsbeispiel: Furtum usus
+Sachverhalt: A leiht von B; verwendet die Sache anders als vereinbart (furtum usus).
+- **Roemisch**: D. 47.2.40 — auch furtum usus moeglich.
+- **BGB**: kein eigener "furtum usus"; allenfalls § 826 BGB sittenwidrige Schaedigung; § 280 BGB Pflichtverletzung Leih-Vertrag.
+

@@ -48,3 +48,32 @@ Dieser Skill bearbeitet **Auftrag Mandatum** im Plugin **Römisches Recht**. Er 
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 17.1.1 (Ulpian)**: "Mandatum nisi gratuitum nullum est" — Auftrag ist nur unentgeltlich.
+- **D. 17.1**: De mandato.
+
+### Tatbestand
+- Unentgeltliche Besorgung fremder Geschaefte.
+- Konsensualvertrag (formfrei).
+
+### Klagen
+- Actio mandati directa: Auftraggeber gegen Beauftragten auf Erfuellung und Rechenschaft.
+- Actio mandati contraria: Beauftragter gegen Auftraggeber auf Aufwendungsersatz.
+
+### Subsumtionsbeispiel: Mandatum pecuniae credendae (Buergschafts-Aequivalent)
+Sachverhalt: A weist B an, dem C 100 zu leihen.
+- **Roemisch**: Mandatum qualificatum; wenn C nicht zahlt, hat B actio mandati contraria gegen A auf Aufwendungsersatz. Wirtschaftliches Aequivalent zur Buergschaft.
+- **BGB**: § 311 BGB iVm § 670 BGB Aufwendungsersatz; oder echte Buergschaft § 765 BGB.
+
+### Modernes Pendant
+- §§ 662-674 BGB Auftrag.
+- § 670 BGB Aufwendungsersatz — unmittelbar aus roemischer Tradition.
+
+### Wandel zur Entgeltlichkeit
+- Roemisches Recht: Auftrag streng unentgeltlich.
+- Mittelalter: ius commune erlaubt Honorarvereinbarung.
+- BGB: § 662 unentgeltlich, aber daneben Geschaeftsbesorgungsvertrag § 675 BGB entgeltlich.
+

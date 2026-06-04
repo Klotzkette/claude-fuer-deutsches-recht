@@ -48,3 +48,34 @@ Dieser Skill bearbeitet **Ungerechtfertigte Bereicherung Condictiones** im Plugi
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 12.6 (Pomponius)**: De condictione indebiti.
+- **D. 12.7**: De condictione sine causa.
+- **D. 12.4**: De condictione causa data causa non secuta.
+- **D. 12.5**: De condictione ob turpem vel iniustam causam.
+
+### Vier Hauptkondiktionen
+1. **Condictio indebiti**: Rueckforderung irrtuemlich gezahlter Nichtschuld.
+2. **Condictio sine causa**: Bereicherung ohne Rechtsgrund.
+3. **Condictio ob rem (causa data causa non secuta)**: Gegenleistung blieb aus.
+4. **Condictio ob turpem vel iniustam causam**: sittenwidrige causa.
+
+### Subsumtionsbeispiel: Verwechselte Schuld
+Sachverhalt: A glaubt 100 zu schulden, zahlt sie an B; tatsaechlich schuldet er nichts.
+- **Roemisch**: condictio indebiti (D. 12.6); Voraussetzung error iuris oder error facti; Rueckforderung.
+- **ALR I 16**: gleiches Ergebnis nach ALR-Bereicherungsrecht.
+- **BGB**: § 812 Abs. 1 Satz 1 Var. 1 BGB Leistungskondiktion; § 814 BGB Ausschluss bei Kenntnis der Nichtschuld.
+
+### Subsumtionsbeispiel: Bestechung
+Sachverhalt: A zahlt B 100 fuer ungesetzliche Handlung; B haelt sich nicht daran.
+- **Roemisch**: condictio ob turpem causam (D. 12.5); wenn nur Empfaenger sittenwidrig: Rueckforderung; wenn beide sittenwidrig: keine Rueckforderung ("in pari turpitudine melior est causa possidentis").
+- **BGB**: § 817 Satz 2 BGB — Ausschluss bei beidseitigem Verstoss gegen die guten Sitten.
+
+### Subsumtionsbeispiel: Zerruettung der Geschaeftsgrundlage
+Sachverhalt: A zahlt 100 als Mitgift fuer Heirat mit Tochter des B; Heirat scheitert vor Vollzug.
+- **Roemisch**: condictio causa data causa non secuta (D. 12.4); Rueckforderung der Mitgift.
+- **BGB**: § 812 Abs. 1 Satz 2 Var. 2 BGB Zweckverfehlung.
+

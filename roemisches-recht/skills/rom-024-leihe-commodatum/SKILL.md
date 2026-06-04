@@ -48,3 +48,33 @@ Dieser Skill bearbeitet **Leihe Commodatum** im Plugin **Römisches Recht**. Er 
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 13.6.1 (Ulpian)**: "Commodatum est gratuita rerum prestatio" — unentgeltliche Sachleihe.
+- **D. 13.6**: Allgemein.
+
+### Tatbestand
+- Unentgeltliche Ueberlassung.
+- Sache zur Nutzung, nicht zum Verbrauch.
+- Eigentum bleibt beim Verleiher.
+
+### Haftungsmasstab
+- Custodia-Haftung des Entleihers: er haftet auch fuer Zufall, soweit kein Casus maior.
+- D. 13.6.5.4 — Haftung "exactissima diligentia" (hoechste Sorgfalt).
+
+### Subsumtionsbeispiel: Geliehenes Pferd geht im Feldzug verloren
+Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd entlaeuft.
+- **Roemisch**: Custodia-Haftung; Diebstahl ist nicht casus maior; B haftet. Ausnahme: Feindangriff = vis maior (D. 13.6.18).
+- **BGB**: § 599 BGB Leihe; Entleiher haftet nur fuer Vorsatz und grobe Fahrlaessigkeit; bei einfacher Fahrlaessigkeit keine Haftung.
+
+### Pflichten des Entleihers
+- Pflegliche Behandlung.
+- Rueckgabe nach Abschluss.
+- Aufwendungsersatz beim Verleiher (D. 13.6.5.5).
+
+### Modernes Aequivalent
+- §§ 598-606 BGB Leihe.
+- Wesentlicher Unterschied: roemisches Recht Haftung haerter (custodia); BGB hat das gelockert.
+

@@ -48,3 +48,27 @@ Dieser Skill bearbeitet **Eigentum Dominium Und Quiritarisch** im Plugin **Römi
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 1.5.4 (Florentinus)**: Eigentum als ius utendi et abutendi — Recht zu nutzen und zu verbrauchen.
+- **D. 41.1**: Erwerb des Eigentums.
+- **Gaius II.40-41**: Trennung dominium ex iure Quiritium (zivil) vs. dominium in bonis (praetorisch bonitarisch).
+
+### Eigentumstypen
+- **Dominium ex iure Quiritium**: vollwertiges roemisches Eigentum; nur fuer roemische Buerger, nur res mancipi und nec mancipi.
+- **In bonis habere**: bonitarisches Eigentum nach praetorischem Schutz; bei fehlender mancipatio-Form.
+- **Provinzialeigentum**: nicht volles Quiritareigentum an Provinzialgrundstuecken.
+
+### Subsumtionsbeispiel: Sklave verkauft per traditio statt mancipatio
+Sachverhalt: A verkauft seinen Sklaven Marcus durch blosse traditio (Uebergabe) statt durch mancipatio.
+- **Roemisch klassisch**: Sklave ist res mancipi; ohne mancipatio kein dominium ex iure Quiritium fuer den Kaeufer. ABER praetor schuetzt den Kaeufer durch actio Publiciana und exceptio rei venditae et traditae — bonitarisches Eigentum. Nach Ablauf der Usucapio-Frist (1 Jahr fuer res mobiles, 2 Jahre fuer res soli) wird der Kaeufer Volleigentuemer.
+- **BGB**: § 929 BGB Einigung und Uebergabe — kein Unterschied zwischen mancipatio und traditio mehr; sofortiger Eigentumserwerb.
+
+### Subsumtionsbeispiel: Doppelverkauf
+Sachverhalt: A verkauft Sache an B, dann auch an C; C bekommt zuerst Uebergabe.
+- **Roemisch**: D. 19.1.31 — C erlangt Eigentum durch traditio; B hat nur schuldrechtlichen Anspruch.
+- **ALR I 8**: Aehnliches Ergebnis — Eigentum geht mit traditio ueber.
+- **BGB**: § 929 BGB — C wird Eigentuemer; B hat Schadensersatzanspruch gegen A.
+

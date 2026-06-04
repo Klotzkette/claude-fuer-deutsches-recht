@@ -28,6 +28,25 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR II 17 § 10**: "Die noethigen Anstalten zur Erhaltung der oeffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey." — DIE polizeirechtliche Generalklausel.
+- **ALR II 17 §§ 1-50**: Polizeyrecht im aufgeklaerten Absolutismus — wohltaetige Polizei.
+
+### Subsumtionsbeispiel: PrOVG Kreuzberg-Urteil 14.06.1882
+Sachverhalt: Polizei verbietet die Errichtung eines Aussichtsturmes auf dem Kreuzberg, weil er die Aussicht beeintraechtige.
+ALR-Loesung: PrOVG entschied auf Basis ALR II 17 § 10: Polizei darf nur "Gefahrenabwehr" betreiben, keine "Wohlfahrtspflege". Ablehnung des Wohlfahrtszwecks; nur Gefahrenabwehr ist Polizeiaufgabe. Das Urteil prägt bis heute den **engen Gefahrenbegriff** im modernen Polizeirecht.
+
+### Subsumtionsbeispiel: Schlossbrand 1850 und Polizeiliche Loeschanordnung
+Sachverhalt: Brand in einem Wohnviertel; Polizei ordnet an, Wasservorraete der Nachbarn auszuschuetten.
+ALR-Loesung: ALR II 17 — Gefahrenabwehr; rechtmaessig; aber Aufopferungsanspruch der Nachbarn nach Einl. §§ 74-75. Heute § 21 BPOLG / Landespolizeigesetze.
+
+### Heutige Fortwirkung
+- Polizeirechtliche Generalklausel: heute § 8 ASOG Berlin; § 8 PolG NRW; § 1 BPolG (Bundespolizei).
+- Eng-faktische Gefahrenbegriff seit Kreuzberg-Urteil 1882.
+- Trennung Sicherheits- und Wohlfahrtspolizei = klassisches Erbe des Rechtsstaats.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

@@ -28,6 +28,27 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR I 1 § 1**: "Der Mensch wird, in so fern er gewisse Rechte in der buergerlichen Gesellschaft geniesst, eine Person genannt."
+- **ALR I 1 §§ 13-14**: Lebendgeburt erforderlich fuer Rechtsfaehigkeit; "Schrei oder ander Lebenszeichen" Anforderung.
+- **ALR I 1 §§ 25-30**: Verschollenheit; nach 80. Lebensjahr Todvermutung mit Verschollensregel (vor Zitat verifizieren).
+- **ALR I 1 §§ 50-70**: Stand als rechtlicher Begriff; Verweis auf die staendischen Titel ALR II 7-9.
+- **ALR I 4 §§ 1 ff.**: Geschaeftsfaehigkeit; Minderjaehrige bis 14 voellig geschaeftsunfaehig, bis 25 beschraenkt.
+
+### Subsumtionsbeispiel: Erbfaehigkeit eines Nasciturus
+Sachverhalt: Schwangere Witwe; Kind wird tot geboren; Erbschaft des verstorbenen Vaters.
+ALR-Loesung: ALR I 1 §§ 13-14 — Lebendgeburt erforderlich; Totgeborenes hat nie Rechtsfaehigkeit erlangt; die Erbschaft faellt nach Intestaterbfolge an die naechsten Verwandten (Naechstmoegliche Erben nach ALR I 17). Vergleich BGB: § 1923 Abs. 2 BGB schuetzt den Nasciturus identisch.
+
+### Subsumtionsbeispiel: Adelsfuehrung
+Sachverhalt: Familie behauptet Adelszugehoerigkeit.
+ALR-Loesung: ALR II 9 §§ — Pruefung des Adelsbriefs; Adelsfuehrung nur bei Nachweis. Heute: Art. 109 III WRV / Art. 123 I GG, Adel nur als Namensbestandteil.
+
+### Heutige Fortwirkung
+- § 1 BGB hat ALR I 1 § 1 abgeloest — Rechtsfaehigkeit beginnt mit Vollendung der Geburt.
+- BVerfG zur Adelsfuehrung als Namensbestandteil — staendige Rspr., Az im Mandat verifizieren.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

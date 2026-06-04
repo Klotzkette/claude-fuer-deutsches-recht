@@ -28,6 +28,29 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR I 12 §§ 1-100**: Allgemeines Erbrecht; Anfall der Erbschaft mit dem Tod (delatio); Anspruch auf "ungetheilte Erbschaft".
+- **ALR I 12 §§ 200-300**: Testament; oeffentlich (vor Gericht) oder privatschriftlich mit Zeugen.
+- **ALR I 12 §§ 380-440**: Pflichtteilsrecht — kasuistisch nach Verwandtschaftsgrad gestaffelt.
+- **ALR I 17**: Intestaterbfolge; sechs Parentelen-Modell wie im Roemisch-rechtlichen Anschluss.
+- **ALR II 4**: Familienfideikommiss — Adelsgut mit Unteilbarkeit ("Hausgut"); abgeschafft 1919/1938.
+
+### Subsumtionsbeispiel: Testament 1820
+Sachverhalt: Wohlhabender Buerger setzt zugunsten der Magd Erbe ein; pflichtteilsberechtigte Kinder.
+ALR-Loesung: Pflichtteilsrecht ALR I 12 §§ 380 ff. — Pflichtteil 1/3 des Intestaterbteils; Testament insoweit unwirksam (querela inofficiosi testamenti analog); Magd erhaelt nur den freien Teil; Kinder klagen erfolgreich Pflichtteil.
+
+### Subsumtionsbeispiel: Fideikommiss-Streit
+Sachverhalt: Adelsfamilie; Stammgut mit Fideikommiss aus 1750.
+ALR-Loesung: Bis 1919/1938 ALR II 4 — Stammgut unteilbar; geht an aeltesten Sohn (Primogenitur); juengere Geschwister erhalten Abfindung. Nach Auflösung der Fideikommisse: Vermoegen wird Sondervermoegen, fortgesetzt mit Ablösung.
+
+### Heutige Fortwirkung
+- BGB §§ 1922 ff. ueberlagern ALR-Erbrecht ab 01.01.1900.
+- Pflichtteil heute 1/2 des Intestaterbteils (§ 2303 BGB).
+- Fideikommisse: Aufloesungsgesetz 26.01.1938 / Kontrollratsgesetz Nr. 45 Berlin — heute keine neuen Fideikommisse moeglich.
+- ALR-Erbfaelle vor 1900 noch heute relevant fuer Stammbaum- und Eigentumsstreitigkeiten an alten Gueteen.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

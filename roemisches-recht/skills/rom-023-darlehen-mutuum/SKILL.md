@@ -48,3 +48,34 @@ Dieser Skill bearbeitet **Darlehen Mutuum** im Plugin **Römisches Recht**. Er b
 ## Quellenregel
 
 Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+
+### Schluesselstellen
+- **D. 12.1.1 (Ulpian)**: "Mutuum non potest contrahi nisi pecunia vel rebus, quae pondere numero mensura constant" — Darlehen nur ueber vertretbare Sachen.
+- **D. 12.1**: De rebus creditis.
+- **Gaius III.90**: Realvertrag — Eigentumserwerb durch traditio des Geldes.
+
+### Tatbestand
+- Vertretbare Sachen (genus, nicht species).
+- Eigentumsuebergang an Darlehensnehmer.
+- Pflicht zur Rueckgabe in gleicher Art und Menge.
+
+### Form
+- Realvertrag — Auszahlung erforderlich.
+- Stipulationsform zusaetzlich fuer Zinsen ueblich (Stipulationszinsen).
+
+### Zinsen
+- Centesima usura: 1 Prozent pro Monat = 12 Prozent pro Jahr maximum.
+- Justinian: 6 Prozent fuer Privatleute, 4 Prozent fuer illustres, 12 Prozent bei fenus nauticum.
+
+### Subsumtionsbeispiel: Zinsuebermaessigkeit
+Sachverhalt: A leiht 100 an B; vereinbart 24 Prozent Zinsen.
+- **Roemisch**: D. 22.1; D. 12.6 — uebermaessige Zinsen sind unwirksam; nicht gezahlt: nicht eintreibbar. Bereits gezahlt: condictio indebiti auf Ueberschuss.
+- **BGB**: § 138 Abs. 2 BGB Wucher; oder § 138 Abs. 1 BGB Sittenwidrigkeit bei Bewucher-aehnlichen Konstellationen. BGH: doppelter ueblicher Marktzins als Indikator.
+
+### Subsumtionsbeispiel: SC Macedonianum (Sohn-Darlehen)
+- D. 14.6: Senatusconsultum Macedonianum — Darlehen an filius familias (Hausunterworfenen) ist unklagbar.
+- Schutz vor verschuldetem Eltern-Vermoegen.
+- Modern: kein direktes Pendant; allenfalls Verbraucherdarlehensschutz §§ 491 ff. BGB.
+

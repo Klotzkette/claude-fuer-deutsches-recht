@@ -28,6 +28,29 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR II 8**: Buergerstaedte; Innungen; Zunftordnungen.
+- **ALR II 8 §§ 1-50**: Staedtisches Buergerrecht; Beitritt zur Buergerschaft; Pflichten.
+- **ALR II 7**: Bauerndoerfer; Gutsbezirk; Gemeinheiten und Allmenden.
+
+### Stein-Hardenbergsche Staedteordnung 19.11.1808
+Die preussische Staedteordnung vom **19.11.1808** ergaenzt das ALR und schafft kommunale Selbstverwaltung mit:
+- Magistrat (Buergermeister + Magistratsmitglieder).
+- Stadtverordnetenversammlung (gewaehlt).
+- Buergerschulen, Armenpflege, Polizei in kommunaler Hand.
+
+### Subsumtionsbeispiel: Allmendaufteilung 1820
+Sachverhalt: Dorfallmende soll unter den Bauern aufgeteilt werden.
+ALR-Loesung: ALR II 7 — Gemeinheitsteilungsordnung 07.06.1821 ergaenzt das ALR; Aufteilung gegen Entschaedigung; lange Verfahren.
+
+### Heutige Fortwirkung
+- Kommunale Selbstverwaltung Art. 28 II GG.
+- Gemeindeordnungen der Laender.
+- Magistrats- oder Buergermeister-Verfassungen je nach Land.
+- Staedteordnung 1808 als historischer Anker — gilt als Geburt der modernen kommunalen Selbstverwaltung.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?

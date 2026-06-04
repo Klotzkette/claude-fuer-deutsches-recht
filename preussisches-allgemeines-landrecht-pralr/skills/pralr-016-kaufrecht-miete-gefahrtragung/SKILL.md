@@ -28,6 +28,30 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
 6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
 
+## Meat on the Bone — Konkreter ALR-Stoff
+
+### Schluesselparagraphen
+- **ALR I 11 §§ 1-86**: Kauf — emptio venditio; konsensual; Eigentumserwerb erst mit traditio.
+- **ALR I 11 §§ 87-115**: Gefahrtragung — periculum est emptoris ab Uebergabe.
+- **ALR I 11 §§ 116-180**: Aedilizische Aktionen — Sachmaengelhaftung, Wandlung, Minderung.
+- **ALR I 21 §§ 1-100**: Miete (locatio conductio rei); Dauer, Kuendigung.
+- **ALR I 21 §§ 100-200**: Pacht (locatio conductio operis); Bauleistung gegen Werklohn.
+
+### Subsumtionsbeispiel: Pferdekauf 1830, Pferd lahmt nach drei Wochen
+Sachverhalt: Kaeufer kauft Pferd; nach 3 Wochen Lahmen festgestellt; vermutlich vor Kauf bereits krank.
+ALR-Loesung: ALR I 11 §§ 116-180 — aedilizische Aktion. Bei verborgenem Mangel Wahlrecht: actio redhibitoria (Wandlung, Rueckgaengigmachung) oder actio quanti minoris (Minderung). 6 Monate Frist fuer Vieh-Mangelruege (kurzer Frist nach roemischer Tradition). Beweislast Kaeufer fuer Vor-Verkaufsbedingung.
+
+### Subsumtionsbeispiel: Kauf bricht nicht Miete (alt-roemisch)
+Sachverhalt: Mietshaus verkauft mit laufenden Mietern.
+ALR-Loesung: ALR I 21 — anders als roemisches Recht ("emptio tollit locatum") schon im ALR Schutz des Mieters in Anlehnung an gemeines Recht und im § 21 modifiziert. Heute § 566 BGB "Kauf bricht nicht Miete".
+
+### Heutige Fortwirkung
+- §§ 433-453 BGB Kauf.
+- §§ 535-580a BGB Miete.
+- § 446 BGB Gefahrtragung — periculum emptoris ab Uebergabe.
+- §§ 434, 437 BGB Sachmangel und Rechtsfolgen.
+- § 566 BGB Kauf bricht nicht Miete — wichtige Fortwirkung der ALR-Linie.
+
 ## Ausgabeformat
 
 - **Kurzbefund:** Was sagt die Quelle sicher?
