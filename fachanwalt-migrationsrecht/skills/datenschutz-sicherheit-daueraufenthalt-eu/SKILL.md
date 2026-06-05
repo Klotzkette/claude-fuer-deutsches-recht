@@ -1,13 +1,13 @@
 ---
 name: datenschutz-sicherheit-daueraufenthalt-eu
-description: "Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Datenschutz Sicherheit Daueraufenthalt EU: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente, Duldung 60A
+# Datenschutz Sicherheit Daueraufenthalt EU
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente, Duldung 60A** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Datenschutz Sicherheit Daueraufenthalt EU** im Plugin Fachanwalt Migrationsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Dig
 
 ## Arbeitsweg
 
-Für **Datenschutz Sicherheit Migration, Daueraufenthalt Eu, Digitalbeweise Flucht, Dublin Risikoampel Und Gegenargumente, Duldung 60A** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Migrationsrecht gilt für **Datenschutz Sicherheit Daueraufenthalt EU**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

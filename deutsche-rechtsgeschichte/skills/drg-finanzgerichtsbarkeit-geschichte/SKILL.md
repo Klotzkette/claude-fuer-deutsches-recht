@@ -1,13 +1,13 @@
 ---
 name: drg-finanzgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DRG Finanzgerichtsbarkeit Geschichte: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen
+# DRG Finanzgerichtsbarkeit Geschichte
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **DRG Finanzgerichtsbarkeit Geschichte** im Plugin Deutsche Rechtsgeschichte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -22,7 +22,7 @@ In diesem Skill wird **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Gesch
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Deutsche Rechtsgeschichte gilt für **DRG Finanzgerichtsbarkeit Geschichte**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: pralr-spez-vertragsauslegung-vertragsschluss
-description: "Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Spez Vertragsauslegung Vertragsschluss: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr
+# Spez Vertragsauslegung Vertragsschluss
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Spez Vertragsauslegung Vertragsschluss** im Plugin Preußisches Allgemeines Landrecht (PrALR). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr 
 
 ## Arbeitsweg
 
-Für **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Spez Vertragsauslegung Vertragsschluss**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

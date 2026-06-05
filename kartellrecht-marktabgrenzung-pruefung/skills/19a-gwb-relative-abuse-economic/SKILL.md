@@ -1,13 +1,13 @@
 ---
 name: 19a-gwb-relative-abuse-economic
-description: "19a Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "19A GWB Relative Abuse Economic: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# 19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing
+# 19A GWB Relative Abuse Economic
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **19A GWB Relative Abuse Economic** im Plugin Kartellrecht Marktabgrenzung Pruefung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kartellrecht-Marktabgrenzung gilt für **19A GWB Relative Abuse Economic**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

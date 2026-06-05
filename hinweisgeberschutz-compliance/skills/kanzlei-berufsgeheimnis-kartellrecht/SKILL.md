@@ -1,13 +1,13 @@
 ---
 name: kanzlei-berufsgeheimnis-kartellrecht
-description: "Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An Betroffene, Konflikt Nda Due Diligence: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Kanzlei Berufsgeheimnis Kartellrecht: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An Betroffene, Konflikt Nda Due Diligence
+# Kanzlei Berufsgeheimnis Kartellrecht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An Betroffene, Konflikt Nda Due Diligence** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Kanzlei Berufsgeheimnis Kartellrecht** im Plugin Hinweisgeberschutz Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An B
 
 ## Arbeitsweg
 
-Für **Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An Betroffene, Konflikt Nda Due Diligence** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Hinweisgeberschutz Compliance gilt für **Kanzlei Berufsgeheimnis Kartellrecht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

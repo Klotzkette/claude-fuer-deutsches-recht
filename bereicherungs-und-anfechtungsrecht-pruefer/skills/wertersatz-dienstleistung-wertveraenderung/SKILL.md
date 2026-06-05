@@ -1,13 +1,13 @@
 ---
 name: wertersatz-dienstleistung-wertveraenderung
-description: "Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wertersatz Dienstleistung Wertveraenderung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner
+# Wertersatz Dienstleistung Wertveraenderung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Wertersatz Dienstleistung Wertveraenderung** im Plugin Bereicherungs- und Anfechtungsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertv
 
 ## Arbeitsweg
 
-Für **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bereicherungs- und Anfechtungsrecht gilt für **Wertersatz Dienstleistung Wertveraenderung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: staat-sint-maarten-slowakei-migrationscheck
-description: "Staat Sint Maarten Migrationscheck, Staat Slowakei Migrationscheck, Staat Slowenien Migrationscheck, Staat Somalia Migrationscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Staat Sint Maarten Slowakei Migrationscheck: bündelt 17 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Staat Sint Maarten Migrationscheck, Staat Slowakei Migrationscheck, Staat Slowenien Migrationscheck, Staat Somalia Migrationscheck, Staat Somaliland Migrationscheck und 12 weitere Themen
+# Staat Sint Maarten Slowakei Migrationscheck
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Staat Sint Maarten Migrationscheck, Staat Slowakei Migrationscheck, Staat Slowenien Migrationscheck, Staat Somalia Migrationscheck, Staat Somaliland Migrationscheck und 12 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 17 sachlich verwandte Arbeitsschritte rund um **Staat Sint Maarten Slowakei Migrationscheck** im Plugin Fachanwalt Migrationsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -33,7 +33,7 @@ In diesem Skill wird **Staat Sint Maarten Migrationscheck, Staat Slowakei Migrat
 
 ## Arbeitsweg
 
-Für **Staat Sint Maarten Migrationscheck, Staat Slowakei Migrationscheck, Staat Slowenien Migrationscheck, Staat Somalia Migrationscheck, Staat Somaliland Migrationscheck und 12 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Migrationsrecht gilt für **Staat Sint Maarten Slowakei Migrationscheck**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

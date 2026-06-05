@@ -1,13 +1,13 @@
 ---
 name: performance-review-arbeitsvertrag-befristung
-description: "Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Performance Review Arbeitsvertrag Befristung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb
+# Performance Review Arbeitsvertrag Befristung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Performance Review Arbeitsvertrag Befristung** im Plugin Startup Hr Personalabteilung Berlin. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Performance Review Und Feedback, Arbeitsvertrag Befristun
 
 ## Arbeitsweg
 
-Für **Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Startup Hr Personalabteilung Berlin gilt für **Performance Review Arbeitsvertrag Befristung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

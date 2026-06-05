@@ -1,13 +1,13 @@
 ---
 name: laufzeit-verlaengerung-wohnungs-weg
-description: "Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Laufzeit Verlaengerung Wohnungs WEG: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg
+# Laufzeit Verlaengerung Wohnungs WEG
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Laufzeit Verlaengerung Wohnungs WEG** im Plugin Erbbaurecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbau
 
 ## Arbeitsweg
 
-Für **Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Erbbaurecht Praxis gilt für **Laufzeit Verlaengerung Wohnungs WEG**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

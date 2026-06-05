@@ -1,13 +1,13 @@
 ---
 name: vowi-akteneinsicht
-description: "Vowi Akteneinsicht Rohmessdaten Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Vowi Akteneinsicht: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Vowi Akteneinsicht Rohmessdaten Leitfaden
+# Vowi Akteneinsicht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vowi Akteneinsicht Rohmessdaten Leitfaden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Vowi Akteneinsicht** als zusammenhängenden Arbeitsgang im Plugin Verkehrs-OWi-Verteidigung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Vowi Akteneinsicht Rohmessdaten Leitfaden** als eigenstä
 
 ## Arbeitsweg
 
-Für **Vowi Akteneinsicht Rohmessdaten Leitfaden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Verkehrs-OWi-Verteidigung gilt für **Vowi Akteneinsicht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

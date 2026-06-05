@@ -1,13 +1,13 @@
 ---
 name: zugang-kuendigung-mehrfachzustellung
-description: "Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
+description: "Zugang Kuendigung Mehrfachzustellung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept
+# Zugang Kuendigung Mehrfachzustellung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Zugang Kuendigung Mehrfachzustellung** im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall,
 
 ## Arbeitsweg
 
-Für **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG) gilt für **Zugang Kuendigung Mehrfachzustellung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

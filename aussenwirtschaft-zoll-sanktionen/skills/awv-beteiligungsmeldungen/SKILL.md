@@ -1,13 +1,13 @@
 ---
 name: awv-beteiligungsmeldungen
-description: "Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "AWV Beteiligungsmeldungen: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket
+# AWV Beteiligungsmeldungen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **AWV Beteiligungsmeldungen** im Plugin Außenwirtschaft / Zoll / Sanktionen. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtsc
 
 ## Arbeitsweg
 
-Für **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aussenwirtschaft-zoll-sanktionen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Außenwirtschaft / Zoll / Sanktionen gilt für **AWV Beteiligungsmeldungen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-ki-saas-vertrag-werkvertrag
-description: "Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2b, Werkvertrag Dienstvertrag Software, License Scanner Remediation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Rechtsabteilung KI Saas Vertrag Werkvertrag: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation
+# Rechtsabteilung KI Saas Vertrag Werkvertrag
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Rechtsabteilung KI Saas Vertrag Werkvertrag** im Plugin Softwarerecht De Eu Us. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertr
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Softwarerecht De Eu Us gilt für **Rechtsabteilung KI Saas Vertrag Werkvertrag**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

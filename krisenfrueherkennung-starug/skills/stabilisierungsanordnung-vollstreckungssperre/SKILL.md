@@ -1,13 +1,13 @@
 ---
 name: stabilisierungsanordnung-vollstreckungssperre
-description: "Stabilisierungsanordnung Und Vollstreckungssperre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Stabilisierungsanordnung Vollstreckungssperre: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Stabilisierungsanordnung Und Vollstreckungssperre
+# Stabilisierungsanordnung Vollstreckungssperre
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Stabilisierungsanordnung Und Vollstreckungssperre** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Stabilisierungsanordnung Vollstreckungssperre** als zusammenhängenden Arbeitsgang im Plugin Krisenfrüherkennung (StaRUG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Stabilisierungsanordnung Und Vollstreckungssperre** als e
 
 ## Arbeitsweg
 
-Für **Stabilisierungsanordnung Und Vollstreckungssperre** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Krisenfrüherkennung (StaRUG) gilt für **Stabilisierungsanordnung Vollstreckungssperre**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

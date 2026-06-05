@@ -1,13 +1,13 @@
 ---
 name: aufloesung-liquidation-beschlussvorlagen
-description: "Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Aufloesung Liquidation Beschlussvorlagen: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste
+# Aufloesung Liquidation Beschlussvorlagen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Aufloesung Liquidation Beschlussvorlagen** im Plugin Vereinsrecht Vereinsmanager. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mi
 
 ## Arbeitsweg
 
-Für **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Vereinsrecht Vereinsmanager gilt für **Aufloesung Liquidation Beschlussvorlagen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

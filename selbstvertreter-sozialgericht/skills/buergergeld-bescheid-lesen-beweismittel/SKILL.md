@@ -1,13 +1,13 @@
 ---
 name: buergergeld-bescheid-lesen-beweismittel
-description: "Bescheid Lesen Tenor Begruendung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Bürgergeld Jobcenter Sgb Ii, Bürgergeld Kosten Der Unterkunft 22 Sgb Ii: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Buergergeld Bescheid Lesen Beweismittel: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii
+# Buergergeld Bescheid Lesen Beweismittel
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Buergergeld Bescheid Lesen Beweismittel** im Plugin Selbstvertretung vor dem Sozialgericht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel 
 
 ## Arbeitsweg
 
-Für **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Selbstvertretung vor dem Sozialgericht gilt für **Buergergeld Bescheid Lesen Beweismittel**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

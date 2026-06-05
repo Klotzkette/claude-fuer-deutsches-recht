@@ -1,13 +1,13 @@
 ---
 name: e-mail-fernabsatzvertrag-312c
-description: "E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312c Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "E Mail Fernabsatzvertrag 312c: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia
+# E Mail Fernabsatzvertrag 312c
 
 ## Arbeitsbereich
 
-In diesem Skill wird **E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **E Mail Fernabsatzvertrag 312c** im Plugin Ecommerce Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzver
 
 ## Arbeitsweg
 
-Für **E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Ecommerce Recht gilt für **E Mail Fernabsatzvertrag 312c**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

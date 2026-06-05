@@ -1,13 +1,13 @@
 ---
 name: sitzungsplanung-sonderpruefung-forensic
-description: "Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Sitzungsplanung Sonderpruefung Forensic: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss
+# Sitzungsplanung Sonderpruefung Forensic
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Sitzungsplanung Sonderpruefung Forensic** im Plugin Aufsichtsrat Ag Se Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechts
 
 ## Arbeitsweg
 
-Für **Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Aufsichtsrat Ag Se Praxis gilt für **Sitzungsplanung Sonderpruefung Forensic**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

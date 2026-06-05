@@ -1,13 +1,13 @@
 ---
 name: mauergrundstueck-bewerten-bodenreformland
-description: "Ein 050 Mauergrundstueck Vergleich Bewerten, Ein 051 Bodenreformland Anspruchspfad Prüfen, Ein 052 Bodenreformland Akte Anfordern, Ein 053 Bodenreformland Chronologie Bauen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Mauergrundstueck Bewerten Bodenreformland: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Ein 050 Mauergrundstueck Vergleich Bewerten, Ein 051 Bodenreformland Anspruchspfad Prüfen, Ein 052 Bodenreformland Akte Anfordern, Ein 053 Bodenreformland Chronologie Bauen
+# Mauergrundstueck Bewerten Bodenreformland
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Ein 050 Mauergrundstueck Vergleich Bewerten, Ein 051 Bodenreformland Anspruchspfad Prüfen, Ein 052 Bodenreformland Akte Anfordern, Ein 053 Bodenreformland Chronologie Bauen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Mauergrundstueck Bewerten Bodenreformland** im Plugin Einigungsvertrag Vermoegensrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Ein 050 Mauergrundstueck Vergleich Bewerten, Ein 051 Bode
 
 ## Arbeitsweg
 
-Für **Ein 050 Mauergrundstueck Vergleich Bewerten, Ein 051 Bodenreformland Anspruchspfad Prüfen, Ein 052 Bodenreformland Akte Anfordern, Ein 053 Bodenreformland Chronologie Bauen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Einigungsvertrag Vermoegensrecht gilt für **Mauergrundstueck Bewerten Bodenreformland**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

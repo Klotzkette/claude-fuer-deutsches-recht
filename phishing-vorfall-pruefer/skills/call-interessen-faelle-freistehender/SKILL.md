@@ -1,13 +1,13 @@
 ---
 name: call-interessen-faelle-freistehender
-description: "Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Uebergabe, Freistehender Erstpruefung Und Mandatsziel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Call Interessen Faelle Freistehender: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Übergabe, Freistehender Erstpruefung Und Mandatsziel
+# Call Interessen Faelle Freistehender
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Übergabe, Freistehender Erstpruefung Und Mandatsziel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Call Interessen Faelle Freistehender** im Plugin Phishing-Vorfall. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Call Mehrparteien Konflikt Und Interessen, Faelle Abschlu
 
 ## Arbeitsweg
 
-Für **Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Übergabe, Freistehender Erstpruefung Und Mandatsziel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Phishing-Vorfall gilt für **Call Interessen Faelle Freistehender**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

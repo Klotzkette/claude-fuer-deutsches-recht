@@ -1,13 +1,13 @@
 ---
 name: china-software-source-code-data-localization-and-cybersecurity
-description: "Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "China Software Source Code Data Localization AND Cybersecurity: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints
+# China Software Source Code Data Localization AND Cybersecurity
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **China Software Source Code Data Localization AND Cybersecurity** im Plugin Festlandchina Wirtschaftsverkehr. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Software Source Code And Saas / Data Localization And Cro
 
 ## Arbeitsweg
 
-Für **Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Festlandchina Wirtschaftsverkehr gilt für **China Software Source Code Data Localization AND Cybersecurity**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

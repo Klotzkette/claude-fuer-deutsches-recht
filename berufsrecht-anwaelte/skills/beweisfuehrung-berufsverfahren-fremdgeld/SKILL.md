@@ -1,13 +1,13 @@
 ---
 name: beweisfuehrung-berufsverfahren-fremdgeld
-description: "Anwaelte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwaelte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwaelte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwaelte Fristversaeumnis Und Wiedereinsetzung Organisationspfl: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Beweisfuehrung Berufsverfahren Fremdgeld: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl
+# Beweisfuehrung Berufsverfahren Fremdgeld
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Beweisfuehrung Berufsverfahren Fremdgeld** im Plugin Berufsrecht der Rechtsanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Anwälte Beweisfuehrung Im Berufsverfahren Organisationsp
 
 ## Arbeitsweg
 
-Für **Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Rechtsanwälte gilt für **Beweisfuehrung Berufsverfahren Fremdgeld**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

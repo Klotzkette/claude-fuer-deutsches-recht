@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-it-cloud-vertrag-datenschutz-itr
-description: "Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Cloud Vertrag Datenschutz ITR: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden, Itr Saas Vertrag Bauleiter
+# Cloud Vertrag Datenschutz ITR
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden, Itr Saas Vertrag Bauleiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Cloud Vertrag Datenschutz ITR** im Plugin Fachanwalt IT-Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Clou
 
 ## Arbeitsweg
 
-Für **Fachanwalt It Recht Vertragsstrafe Prüfen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden, Itr Saas Vertrag Bauleiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt IT-Recht gilt für **Cloud Vertrag Datenschutz ITR**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

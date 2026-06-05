@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-abo-falle-frist-digitale-inhalte-saas
-description: "Abo Falle Frist Berechnen / Digitale Inhalte Frist Berechnen / Saas Verbraucher Frist Berechnen / Smart Device Frist Berechnen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Verbraucherrecht ABO Falle Frist Digitale Inhalte Saas: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Abo Falle Frist Berechnen / Digitale Inhalte Frist Berechnen / Saas Verbraucher Frist Berechnen / Smart Device Frist Berechnen
+# Verbraucherrecht ABO Falle Frist Digitale Inhalte Saas
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Abo Falle Frist Berechnen / Digitale Inhalte Frist Berechnen / Saas Verbraucher Frist Berechnen / Smart Device Frist Berechnen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Verbraucherrecht ABO Falle Frist Digitale Inhalte Saas** im Plugin Verbraucherschutzrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Abo Falle Frist Berechnen / Digitale Inhalte Frist Berech
 
 ## Arbeitsweg
 
-Für **Abo Falle Frist Berechnen / Digitale Inhalte Frist Berechnen / Saas Verbraucher Frist Berechnen / Smart Device Frist Berechnen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Verbraucherschutzrecht gilt für **Verbraucherrecht ABO Falle Frist Digitale Inhalte Saas**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

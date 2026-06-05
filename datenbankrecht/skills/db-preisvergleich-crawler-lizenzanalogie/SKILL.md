@@ -1,13 +1,13 @@
 ---
 name: db-preisvergleich-crawler-lizenzanalogie
-description: "Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DB Preisvergleich Crawler Lizenzanalogie: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht
+# DB Preisvergleich Crawler Lizenzanalogie
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **DB Preisvergleich Crawler Lizenzanalogie** im Plugin Datenbankrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 03
 
 ## Arbeitsweg
 
-Für **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Datenbankrecht gilt für **DB Preisvergleich Crawler Lizenzanalogie**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

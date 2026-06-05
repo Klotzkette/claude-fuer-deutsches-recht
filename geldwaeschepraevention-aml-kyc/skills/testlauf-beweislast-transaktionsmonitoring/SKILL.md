@@ -1,13 +1,13 @@
 ---
 name: testlauf-beweislast-transaktionsmonitoring
-description: "Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Testlauf Beweislast Transaktionsmonitoring: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg
+# Testlauf Beweislast Transaktionsmonitoring
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Testlauf Beweislast Transaktionsmonitoring** im Plugin Geldwäscheprävention (AML/KYC). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Testlauf Beweislast Und Darlegungslast, Transaktionsmonit
 
 ## Arbeitsweg
 
-Für **Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `geldwaeschepraevention-aml-kyc` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Geldwäscheprävention (AML/KYC) gilt für **Testlauf Beweislast Transaktionsmonitoring**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

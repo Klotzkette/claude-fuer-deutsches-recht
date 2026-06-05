@@ -1,13 +1,13 @@
 ---
 name: staatsanwaltschaft-praxis-owi-kosten-vollstreckung-opportunitaet
-description: "Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "OWI Kosten Vollstreckung Opportunitaet: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder
+# OWI Kosten Vollstreckung Opportunitaet
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **OWI Kosten Vollstreckung Opportunitaet** im Plugin Staatsanwaltschaft Praxis Einstieg. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet E
 
 ## Arbeitsweg
 
-Für **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Staatsanwaltschaft Praxis Einstieg gilt für **OWI Kosten Vollstreckung Opportunitaet**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

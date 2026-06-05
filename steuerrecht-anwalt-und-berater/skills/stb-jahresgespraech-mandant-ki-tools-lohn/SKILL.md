@@ -1,13 +1,13 @@
 ---
 name: stb-jahresgespraech-mandant-ki-tools-lohn
-description: "Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "STB Jahresgespraech Mandant KI Tools Lohn: bündelt 9 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen
+# STB Jahresgespraech Mandant KI Tools Lohn
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 9 sachlich verwandte Arbeitsschritte rund um **STB Jahresgespraech Mandant KI Tools Lohn** im Plugin Steuerrecht-Anwalt und -Berater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -25,7 +25,7 @@ In diesem Skill wird **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im St
 
 ## Arbeitsweg
 
-Für **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Steuerrecht-Anwalt und -Berater gilt für **STB Jahresgespraech Mandant KI Tools Lohn**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

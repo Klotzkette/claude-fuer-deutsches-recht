@@ -1,13 +1,13 @@
 ---
 name: spa-apa-vertragsmarkup-key-rechtsabteilung
-description: "Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "SPA APA Vertragsmarkup KEY Rechtsabteilung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch
+# SPA APA Vertragsmarkup KEY Rechtsabteilung
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **SPA APA Vertragsmarkup KEY Rechtsabteilung** im Plugin Grosskanzlei Corporate Ma. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Großkanzlei Corporate / M&A gilt für **SPA APA Vertragsmarkup KEY Rechtsabteilung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: zugewinn-tod-umgangsregelung
-description: "Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zugewinn TOD Umgangsregelung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle
+# Zugewinn TOD Umgangsregelung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Zugewinn TOD Umgangsregelung** im Plugin Fachanwalt Familienrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehega
 
 ## Arbeitsweg
 
-Für **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Familienrecht gilt für **Zugewinn TOD Umgangsregelung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: rechnung-pdf-reform-referentenentwuerfe
-description: "Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Rechnung PDF Reform Referentenentwuerfe: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen
+# Rechnung PDF Reform Referentenentwuerfe
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Rechnung PDF Reform Referentenentwuerfe** im Plugin Goae Gebuehrenordnung Aerzte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referenten
 
 ## Arbeitsweg
 
-Für **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Goae Gebuehrenordnung Aerzte gilt für **Rechnung PDF Reform Referentenentwuerfe**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: fran-systemwechsel-rebranding-franchise-m
-description: "Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Fran Systemwechsel Rebranding Franchise M: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard
+# Fran Systemwechsel Rebranding Franchise M
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Fran Systemwechsel Rebranding Franchise M** im Plugin Franchiserecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A
 
 ## Arbeitsweg
 
-Für **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Franchiserecht Praxis gilt für **Fran Systemwechsel Rebranding Franchise M**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

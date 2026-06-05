@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-krankenversicherungsschutz
-description: "Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Laienhilfe Krankenversicherungsschutz: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle
+# Laienhilfe Krankenversicherungsschutz
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Laienhilfe Krankenversicherungsschutz** im Plugin Fachanwalt Sozialrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzei
 
 ## Arbeitsweg
 
-Für **Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Sozialrecht gilt für **Laienhilfe Krankenversicherungsschutz**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

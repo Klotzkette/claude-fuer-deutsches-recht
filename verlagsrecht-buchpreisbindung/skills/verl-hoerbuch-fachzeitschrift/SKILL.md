@@ -1,13 +1,13 @@
 ---
 name: verl-hoerbuch-fachzeitschrift
-description: "Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Verl Hoerbuch Fachzeitschrift: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung
+# Verl Hoerbuch Fachzeitschrift
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Verl Hoerbuch Fachzeitschrift** im Plugin Verlagsrecht / Buchpreisbindung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, 
 
 ## Arbeitsweg
 
-Für **Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Verlagsrecht / Buchpreisbindung gilt für **Verl Hoerbuch Fachzeitschrift**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

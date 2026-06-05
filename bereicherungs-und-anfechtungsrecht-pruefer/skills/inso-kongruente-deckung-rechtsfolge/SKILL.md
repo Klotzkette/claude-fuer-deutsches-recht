@@ -1,13 +1,13 @@
 ---
 name: inso-kongruente-deckung-rechtsfolge
-description: "Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Inso Kongruente Deckung Rechtsfolge: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132
+# Inso Kongruente Deckung Rechtsfolge
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Inso Kongruente Deckung Rechtsfolge** im Plugin Bereicherungs- und Anfechtungsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaeh
 
 ## Arbeitsweg
 
-Für **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bereicherungs- und Anfechtungsrecht gilt für **Inso Kongruente Deckung Rechtsfolge**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

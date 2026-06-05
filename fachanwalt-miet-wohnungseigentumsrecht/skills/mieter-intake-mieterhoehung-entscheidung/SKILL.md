@@ -1,13 +1,13 @@
 ---
 name: mieter-intake-mieterhoehung-entscheidung
-description: "Mieter Intake, Mieterhoehung Entscheidung, Mietkonto Kontoauszug, Mietpreisbremse Start: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Mieter Intake Mieterhoehung Entscheidung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Mieter Intake, Mieterhoehung Entscheidung, Mietkonto Kontoauszug, Mietpreisbremse Start, Modernisierung Entscheidung
+# Mieter Intake Mieterhoehung Entscheidung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Mieter Intake, Mieterhoehung Entscheidung, Mietkonto Kontoauszug, Mietpreisbremse Start, Modernisierung Entscheidung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Mieter Intake Mieterhoehung Entscheidung** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Mieter Intake, Mieterhoehung Entscheidung, Mietkonto Kont
 
 ## Arbeitsweg
 
-Für **Mieter Intake, Mieterhoehung Entscheidung, Mietkonto Kontoauszug, Mietpreisbremse Start, Modernisierung Entscheidung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **Mieter Intake Mieterhoehung Entscheidung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

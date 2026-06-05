@@ -1,13 +1,13 @@
 ---
 name: kandidatenaufstellung-bundestag
-description: "Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Kandidatenaufstellung Bundestag: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband
+# Kandidatenaufstellung Bundestag
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Kandidatenaufstellung Bundestag** im Plugin Parteienrecht Parteiorganisation. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Kandidatenaufstellung Bundestag Kreis, Kandidatenscreenin
 
 ## Arbeitsweg
 
-Für **Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Parteienrecht Parteiorganisation gilt für **Kandidatenaufstellung Bundestag**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

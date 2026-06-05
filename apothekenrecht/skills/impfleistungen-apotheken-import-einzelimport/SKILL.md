@@ -1,13 +1,13 @@
 ---
 name: impfleistungen-apotheken-import-einzelimport
-description: "Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Impfleistungen Apotheken Import Einzelimport: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb
+# Impfleistungen Apotheken Import Einzelimport
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Impfleistungen Apotheken Import Einzelimport** im Plugin Apothekenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Impfleistungen In Apotheken, Import Einzelimport 73 Amg, 
 
 ## Arbeitsweg
 
-Für **Impfleistungen In Apotheken, Import Einzelimport 73 Amg, Inhaberwechsel Kauf Apothekenbetrieb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Apothekenrecht gilt für **Impfleistungen Apotheken Import Einzelimport**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

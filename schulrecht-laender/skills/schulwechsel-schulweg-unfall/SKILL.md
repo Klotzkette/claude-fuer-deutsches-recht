@@ -1,13 +1,13 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Schulwechsel Schulweg Unfall: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation
+# Schulwechsel Schulweg Unfall
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Schulwechsel Schulweg Unfall** im Plugin Schulrecht Laender. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterr
 
 ## Arbeitsweg
 
-Für **Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Schulrecht Laender gilt für **Schulwechsel Schulweg Unfall**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

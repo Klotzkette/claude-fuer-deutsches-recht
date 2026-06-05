@@ -1,13 +1,13 @@
 ---
 name: anwaelte-werbung-google-aktenherausgabe
-description: "Anwaelte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwaelte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwaelte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwaelte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Werbung Google Aktenherausgabe: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck
+# Werbung Google Aktenherausgabe
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Werbung Google Aktenherausgabe** im Plugin Berufsrecht der Rechtsanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Fa
 
 ## Arbeitsweg
 
-Für **Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Rechtsanwälte gilt für **Werbung Google Aktenherausgabe**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

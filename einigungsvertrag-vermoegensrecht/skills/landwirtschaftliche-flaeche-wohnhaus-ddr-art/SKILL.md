@@ -1,13 +1,13 @@
 ---
 name: landwirtschaftliche-flaeche-wohnhaus-ddr-art
-description: "Ein 085 Landwirtschaftliche Flaeche Fristprobl, Ein 095 Wohnhaus Ddr Enteignung Fristproblem M, Ein 002 Art 21 Und Art 22 Vermoegen Trennen, Ein 003 Volksvermoegen Oder Finanzvermoegen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Landwirtschaftliche Flaeche Wohnhaus DDR ART: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Ein 085 Landwirtschaftliche Flaeche Fristprobl, Ein 095 Wohnhaus Ddr Enteignung Fristproblem M, Ein 002 Art 21 Und Art 22 Vermoegen Trennen, Ein 003 Volksvermoegen Oder Finanzvermoegen
+# Landwirtschaftliche Flaeche Wohnhaus DDR ART
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Ein 085 Landwirtschaftliche Flaeche Fristprobl, Ein 095 Wohnhaus Ddr Enteignung Fristproblem M, Ein 002 Art 21 Und Art 22 Vermoegen Trennen, Ein 003 Volksvermoegen Oder Finanzvermoegen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Landwirtschaftliche Flaeche Wohnhaus DDR ART** im Plugin Einigungsvertrag Vermoegensrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Ein 085 Landwirtschaftliche Flaeche Fristprobl, Ein 095 W
 
 ## Arbeitsweg
 
-Für **Ein 085 Landwirtschaftliche Flaeche Fristprobl, Ein 095 Wohnhaus Ddr Enteignung Fristproblem M, Ein 002 Art 21 Und Art 22 Vermoegen Trennen, Ein 003 Volksvermoegen Oder Finanzvermoegen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Einigungsvertrag Vermoegensrecht gilt für **Landwirtschaftliche Flaeche Wohnhaus DDR ART**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

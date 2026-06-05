@@ -1,13 +1,13 @@
 ---
 name: bewaehrung-auflagen-bewaehrungswiderruf-56f
-description: "Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Bewaehrung Auflagen Bewaehrungswiderruf 56F: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung
+# Bewaehrung Auflagen Bewaehrungswiderruf 56F
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Bewaehrung Auflagen Bewaehrungswiderruf 56F** im Plugin Strafzumessung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungs
 
 ## Arbeitsweg
 
-Für **Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Strafzumessung gilt für **Bewaehrung Auflagen Bewaehrungswiderruf 56F**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

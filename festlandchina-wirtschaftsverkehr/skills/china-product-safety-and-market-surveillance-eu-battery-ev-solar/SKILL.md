@@ -1,13 +1,13 @@
 ---
 name: china-product-safety-and-market-surveillance-eu-battery-ev-solar
-description: "Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "China Product Safety AND Market Surveillance EU Battery EV Solar: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment
+# China Product Safety AND Market Surveillance EU Battery EV Solar
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **China Product Safety AND Market Surveillance EU Battery EV Solar** im Plugin Festlandchina Wirtschaftsverkehr. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Product Safety And Ce Import / Market Surveillance EU Imp
 
 ## Arbeitsweg
 
-Für **Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Festlandchina Wirtschaftsverkehr gilt für **China Product Safety AND Market Surveillance EU Battery EV Solar**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

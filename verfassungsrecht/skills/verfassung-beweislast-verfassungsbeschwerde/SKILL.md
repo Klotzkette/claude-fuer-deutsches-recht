@@ -1,13 +1,13 @@
 ---
 name: verfassung-beweislast-verfassungsbeschwerde
-description: "Verfassung Beweislast Und Darlegungslast, Verfassungsbeschwerde Mandantenentscheidung, Verfassungsmaessigkeit Formular Portal Und Einreichung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Verfassung Beweislast Verfassungsbeschwerde: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Verfassung Beweislast Und Darlegungslast, Verfassungsbeschwerde Mandantenentscheidung, Verfassungsmaessigkeit Formular Portal Und Einreichung
+# Verfassung Beweislast Verfassungsbeschwerde
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Verfassung Beweislast Und Darlegungslast, Verfassungsbeschwerde Mandantenentscheidung, Verfassungsmaessigkeit Formular Portal Und Einreichung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Verfassung Beweislast Verfassungsbeschwerde** im Plugin Verfassungsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Verfassung Beweislast Und Darlegungslast, Verfassungsbesc
 
 ## Arbeitsweg
 
-Für **Verfassung Beweislast Und Darlegungslast, Verfassungsbeschwerde Mandantenentscheidung, Verfassungsmaessigkeit Formular Portal Und Einreichung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verfassungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Verfassungsrecht gilt für **Verfassung Beweislast Verfassungsbeschwerde**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

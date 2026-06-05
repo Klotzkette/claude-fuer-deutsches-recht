@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-forensic-services
-description: "Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Forensic Services: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort
+# Forensic Services
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Forensic Services** im Plugin Berufsrecht der Wirtschaftsprüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit 
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Wirtschaftsprüfer gilt für **Forensic Services**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

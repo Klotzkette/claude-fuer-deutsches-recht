@@ -1,13 +1,13 @@
 ---
 name: kg-haftung-ohg-vertretung
-description: "Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "KG Haftung OHG Vertretung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung
+# KG Haftung OHG Vertretung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **KG Haftung OHG Vertretung** im Plugin Handelsrecht (HGB). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretu
 
 ## Arbeitsweg
 
-Für **Kg Haftung Kommanditist Paragraphen 171 172, Ohg Vertretung Und Haftung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Handelsrecht (HGB) gilt für **KG Haftung OHG Vertretung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

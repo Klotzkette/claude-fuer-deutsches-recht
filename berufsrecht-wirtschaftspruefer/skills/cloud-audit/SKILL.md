@@ -1,13 +1,13 @@
 ---
 name: cloud-audit
-description: "Wirtschaftspruefer Cloud Audit Tools Datenschutz / Wirtschaftspruefer Component Auditor Koordination Kammerantwort / Wirtschaftspruefer Component Auditor Koordination Organisations / Wirtschaftspruefer Component Auditor Koordination Rechtsprechun / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Cloud Audit: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wirtschaftspruefer Cloud Audit Tools Datenschutz / Wirtschaftspruefer Component Auditor Koordination Kammerantwort / Wirtschaftspruefer Component Auditor Koordination Organisations / Wirtschaftspruefer Component Auditor Koordination Rechtsprechun / 1 ergänzende Prüffelder
+# Cloud Audit
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirtschaftspruefer Cloud Audit Tools Datenschutz / Wirtschaftspruefer Component Auditor Koordination Kammerantwort / Wirtschaftspruefer Component Auditor Koordination Organisations / Wirtschaftspruefer Component Auditor Koordination Rechtsprechun / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Cloud Audit** im Plugin Berufsrecht der Wirtschaftsprüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Wirtschaftspruefer Cloud Audit Tools Datenschutz / Wirtsc
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Cloud Audit Tools Datenschutz / Wirtschaftspruefer Component Auditor Koordination Kammerantwort / Wirtschaftspruefer Component Auditor Koordination Organisations / Wirtschaftspruefer Component Auditor Koordination Rechtsprechun / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Wirtschaftsprüfer gilt für **Cloud Audit**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

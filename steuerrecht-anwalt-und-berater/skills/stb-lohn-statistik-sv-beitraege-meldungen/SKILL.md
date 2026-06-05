@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-statistik-sv-beitraege-meldungen
-description: "Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "STB Lohn Statistik SV Beitraege Meldungen: bündelt 9 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen
+# STB Lohn Statistik SV Beitraege Meldungen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 9 sachlich verwandte Arbeitsschritte rund um **STB Lohn Statistik SV Beitraege Meldungen** im Plugin Steuerrecht-Anwalt und -Berater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -25,7 +25,7 @@ In diesem Skill wird **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitra
 
 ## Arbeitsweg
 
-Für **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Steuerrecht-Anwalt und -Berater gilt für **STB Lohn Statistik SV Beitraege Meldungen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

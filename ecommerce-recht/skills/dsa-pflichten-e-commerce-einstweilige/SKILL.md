@@ -1,13 +1,13 @@
 ---
 name: dsa-pflichten-e-commerce-einstweilige
-description: "Dsa Pflichten Vermittlungsdienste Online Plattformen, E Commerce Für Apotheken Medizinprodukte Lebensmittel, Einstweilige Verfuegung Im Wettbewerbsrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DSA Pflichten E Commerce Einstweilige: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Dsa Pflichten Vermittlungsdienste Online Plattformen, E Commerce Für Apotheken Medizinprodukte Lebensmittel, Einstweilige Verfuegung Im Wettbewerbsrecht
+# DSA Pflichten E Commerce Einstweilige
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Dsa Pflichten Vermittlungsdienste Online Plattformen, E Commerce Für Apotheken Medizinprodukte Lebensmittel, Einstweilige Verfuegung Im Wettbewerbsrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **DSA Pflichten E Commerce Einstweilige** im Plugin Ecommerce Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Dsa Pflichten Vermittlungsdienste Online Plattformen, E C
 
 ## Arbeitsweg
 
-Für **Dsa Pflichten Vermittlungsdienste Online Plattformen, E Commerce Für Apotheken Medizinprodukte Lebensmittel, Einstweilige Verfuegung Im Wettbewerbsrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Ecommerce Recht gilt für **DSA Pflichten E Commerce Einstweilige**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

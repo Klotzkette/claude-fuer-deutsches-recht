@@ -1,13 +1,13 @@
 ---
 name: haltelinien-setzt-standard
-description: "Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Haltelinien Setzt Standard: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg
+# Haltelinien Setzt Standard
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Haltelinien Setzt Standard** im Plugin NDA-Abgleich. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt S
 
 ## Arbeitsweg
 
-Für **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin NDA-Abgleich gilt für **Haltelinien Setzt Standard**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: vkr-bussgeldverfahren-bussgeld-einspruch
-description: "Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "VKR Bussgeldverfahren Bussgeld Einspruch: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen
+# VKR Bussgeldverfahren Bussgeld Einspruch
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **VKR Bussgeldverfahren Bussgeld Einspruch** im Plugin Fachanwalt Verkehrsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prü
 
 ## Arbeitsweg
 
-Für **Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Verkehrsrecht gilt für **VKR Bussgeldverfahren Bussgeld Einspruch**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

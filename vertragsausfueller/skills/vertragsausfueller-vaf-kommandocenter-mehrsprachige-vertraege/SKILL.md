@@ -1,13 +1,13 @@
 ---
 name: vertragsausfueller-vaf-kommandocenter-mehrsprachige-vertraege
-description: "Vaf Kommandocenter / Vaf Mehrsprachige Vertraege Spezial / Vaf Platzhalterlogik Bauleiter: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "VAF Kommandocenter Mehrsprachige Vertraege: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Vaf Kommandocenter / Vaf Mehrsprachige Vertraege Spezial / Vaf Platzhalterlogik Bauleiter
+# VAF Kommandocenter Mehrsprachige Vertraege
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vaf Kommandocenter / Vaf Mehrsprachige Vertraege Spezial / Vaf Platzhalterlogik Bauleiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **VAF Kommandocenter Mehrsprachige Vertraege** im Plugin Vertragsausfüller. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Vaf Kommandocenter / Vaf Mehrsprachige Vertraege Spezial 
 
 ## Arbeitsweg
 
-Für **Vaf Kommandocenter / Vaf Mehrsprachige Vertraege Spezial / Vaf Platzhalterlogik Bauleiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Vertragsausfüller gilt für **VAF Kommandocenter Mehrsprachige Vertraege**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

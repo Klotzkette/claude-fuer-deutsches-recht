@@ -1,13 +1,13 @@
 ---
 name: stb-susa-saldenabstimmung-saldennullstellung
-description: "Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "STB Susa Saldenabstimmung Saldennullstellung: bündelt 7 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen
+# STB Susa Saldenabstimmung Saldennullstellung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 7 sachlich verwandte Arbeitsschritte rund um **STB Susa Saldenabstimmung Saldennullstellung** im Plugin Steuerrecht-Anwalt und -Berater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -23,7 +23,7 @@ In diesem Skill wird **Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennu
 
 ## Arbeitsweg
 
-Für **Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Steuerrecht-Anwalt und -Berater gilt für **STB Susa Saldenabstimmung Saldennullstellung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

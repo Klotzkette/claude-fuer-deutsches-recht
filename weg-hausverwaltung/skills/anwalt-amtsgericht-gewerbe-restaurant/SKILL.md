@@ -1,13 +1,13 @@
 ---
 name: anwalt-amtsgericht-gewerbe-restaurant
-description: "Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Anwalt Amtsgericht Gewerbe Restaurant: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte
+# Anwalt Amtsgericht Gewerbe Restaurant
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Anwalt Amtsgericht Gewerbe Restaurant** im Plugin WEG / Hausverwaltung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch 
 
 ## Arbeitsweg
 
-Für **Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin WEG / Hausverwaltung gilt für **Anwalt Amtsgericht Gewerbe Restaurant**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

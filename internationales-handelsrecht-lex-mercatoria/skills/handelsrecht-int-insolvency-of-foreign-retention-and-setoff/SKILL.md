@@ -1,13 +1,13 @@
 ---
 name: handelsrecht-int-insolvency-of-foreign-retention-and-setoff
-description: "Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "INT Insolvency OF Foreign Retention AND Setoff: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator
+# INT Insolvency OF Foreign Retention AND Setoff
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **INT Insolvency OF Foreign Retention AND Setoff** im Plugin Internationales Handelsrecht Lex Mercatoria. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Insolvency Of Foreign Buyer / Retention And Setoff / Arbi
 
 ## Arbeitsweg
 
-Für **Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Internationales Handelsrecht Lex Mercatoria gilt für **INT Insolvency OF Foreign Retention AND Setoff**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

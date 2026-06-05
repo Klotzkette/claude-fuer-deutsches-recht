@@ -1,13 +1,13 @@
 ---
 name: lease-equipment-finance-cnc-maschine
-description: "Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Maengel, Lease 054 Fahrzeugflotte Telematik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Lease Equipment Finance CNC Maschine: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik
+# Lease Equipment Finance CNC Maschine
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Lease Equipment Finance CNC Maschine** im Plugin Leasingrecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Mas
 
 ## Arbeitsweg
 
-Für **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Leasingrecht Praxis gilt für **Lease Equipment Finance CNC Maschine**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

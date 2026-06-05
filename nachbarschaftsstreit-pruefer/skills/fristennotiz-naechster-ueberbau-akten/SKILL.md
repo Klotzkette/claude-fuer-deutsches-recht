@@ -1,13 +1,13 @@
 ---
 name: fristennotiz-naechster-ueberbau-akten
-description: "Prüfer Fristennotiz Und Naechster Schritt, Ueberbau Fristen Form Und Zustaendigkeit, Akten Und Grundstuecksaufnahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Fristennotiz Naechster Ueberbau Akten: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Prüfer Fristennotiz Und Naechster Schritt, Ueberbau Fristen Form Und Zustaendigkeit, Akten Und Grundstuecksaufnahme
+# Fristennotiz Naechster Ueberbau Akten
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Prüfer Fristennotiz Und Naechster Schritt, Ueberbau Fristen Form Und Zustaendigkeit, Akten Und Grundstuecksaufnahme** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Fristennotiz Naechster Ueberbau Akten** im Plugin Nachbarschaftsstreit. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Prüfer Fristennotiz Und Naechster Schritt, Ueberbau Fris
 
 ## Arbeitsweg
 
-Für **Prüfer Fristennotiz Und Naechster Schritt, Ueberbau Fristen Form Und Zustaendigkeit, Akten Und Grundstuecksaufnahme** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Nachbarschaftsstreit gilt für **Fristennotiz Naechster Ueberbau Akten**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

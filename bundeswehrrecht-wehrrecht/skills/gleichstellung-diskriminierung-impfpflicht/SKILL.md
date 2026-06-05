@@ -1,13 +1,13 @@
 ---
 name: gleichstellung-diskriminierung-impfpflicht
-description: "Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglichkeit Musterung, Kameradschaft Achtungs Und Vertrauenspflicht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Gleichstellung Diskriminierung Impfpflicht: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglichkeit Musterung, Kameradschaft Achtungs Und Vertrauenspflicht
+# Gleichstellung Diskriminierung Impfpflicht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglichkeit Musterung, Kameradschaft Achtungs Und Vertrauenspflicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Gleichstellung Diskriminierung Impfpflicht** im Plugin Bundeswehrrecht Wehrrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Gleichstellung Diskriminierung Soldatinnen Soldaten, Impf
 
 ## Arbeitsweg
 
-Für **Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglichkeit Musterung, Kameradschaft Achtungs Und Vertrauenspflicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bundeswehrrecht Wehrrecht gilt für **Gleichstellung Diskriminierung Impfpflicht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: europarecht-wirkung-behoerden-gericht-registerweg
-description: "Wirkung Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wirkung Behoerden Gericht Registerweg: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Wirkung Behörden Gericht Und Registerweg
+# Wirkung Behoerden Gericht Registerweg
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirkung Behörden Gericht Und Registerweg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Wirkung Behoerden Gericht Registerweg** als zusammenhängenden Arbeitsgang im Plugin Europarecht (EuGH, EU-Kommission) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Wirkung Behörden Gericht Und Registerweg** als eigenstä
 
 ## Arbeitsweg
 
-Für **Wirkung Behörden Gericht Und Registerweg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Europarecht (EuGH, EU-Kommission) gilt für **Wirkung Behoerden Gericht Registerweg**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

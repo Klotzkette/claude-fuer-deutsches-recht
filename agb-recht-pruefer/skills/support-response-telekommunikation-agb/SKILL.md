@@ -1,13 +1,13 @@
 ---
 name: support-response-telekommunikation-agb
-description: "Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Support Response Telekommunikation AGB: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren
+# Support Response Telekommunikation AGB
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Support Response Telekommunikation AGB** im Plugin AGB-Klausel- und Verbraucherschutzprüfung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Support Response Times, Telekommunikation Agb, Transparen
 
 ## Arbeitsweg
 
-Für **Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin AGB-Klausel- und Verbraucherschutzprüfung gilt für **Support Response Telekommunikation AGB**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

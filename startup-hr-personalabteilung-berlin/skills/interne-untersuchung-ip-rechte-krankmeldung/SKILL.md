@@ -1,13 +1,13 @@
 ---
 name: interne-untersuchung-ip-rechte-krankmeldung
-description: "Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Interne Untersuchung IP Rechte Krankmeldung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen, Minijob Werkstudent Praktikum Payroll
+# Interne Untersuchung IP Rechte Krankmeldung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen, Minijob Werkstudent Praktikum Payroll** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Interne Untersuchung IP Rechte Krankmeldung** im Plugin Startup Hr Personalabteilung Berlin. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Interne Untersuchung Hr Light, Ip Rechte Software Und Erf
 
 ## Arbeitsweg
 
-Für **Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen, Minijob Werkstudent Praktikum Payroll** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Startup Hr Personalabteilung Berlin gilt für **Interne Untersuchung IP Rechte Krankmeldung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

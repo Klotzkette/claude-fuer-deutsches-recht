@@ -1,13 +1,13 @@
 ---
 name: standardklauseln-bauleiter-nda-vertragsstrafe
-description: "Nda Standardklauseln Bauleiter, Nda Vertragsstrafe Prüfen, Entwurf Tatbestand Beweis Und Belege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Standardklauseln Bauleiter NDA Vertragsstrafe: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Nda Standardklauseln Bauleiter, Nda Vertragsstrafe Prüfen, Entwurf Tatbestand Beweis Und Belege
+# Standardklauseln Bauleiter NDA Vertragsstrafe
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Nda Standardklauseln Bauleiter, Nda Vertragsstrafe Prüfen, Entwurf Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Standardklauseln Bauleiter NDA Vertragsstrafe** im Plugin NDA-Abgleich. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Nda Standardklauseln Bauleiter, Nda Vertragsstrafe Prüfe
 
 ## Arbeitsweg
 
-Für **Nda Standardklauseln Bauleiter, Nda Vertragsstrafe Prüfen, Entwurf Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin NDA-Abgleich gilt für **Standardklauseln Bauleiter NDA Vertragsstrafe**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: europarecht-grundfreiheiten-binnenmarkt
-description: "Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Grundfreiheiten Binnenmarkt: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh
+# Grundfreiheiten Binnenmarkt
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Grundfreiheiten Binnenmarkt** im Plugin Europarecht (EuGH, EU-Kommission). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grun
 
 ## Arbeitsweg
 
-Für **Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Europarecht (EuGH, EU-Kommission) gilt für **Grundfreiheiten Binnenmarkt**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

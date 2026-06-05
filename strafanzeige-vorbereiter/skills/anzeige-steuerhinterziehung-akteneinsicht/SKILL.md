@@ -1,13 +1,13 @@
 ---
 name: anzeige-steuerhinterziehung-akteneinsicht
-description: "Anzeige Steuerhinterziehung 370 Ao, Anzeige Akteneinsicht Verletzter 406e: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Anzeige Steuerhinterziehung Akteneinsicht: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anzeige Steuerhinterziehung 370 Ao, Anzeige Akteneinsicht Verletzter 406E
+# Anzeige Steuerhinterziehung Akteneinsicht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anzeige Steuerhinterziehung 370 Ao, Anzeige Akteneinsicht Verletzter 406E** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Anzeige Steuerhinterziehung Akteneinsicht** im Plugin Strafanzeige Vorbereiter. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Anzeige Steuerhinterziehung 370 Ao, Anzeige Akteneinsicht
 
 ## Arbeitsweg
 
-Für **Anzeige Steuerhinterziehung 370 Ao, Anzeige Akteneinsicht Verletzter 406E** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafanzeige-vorbereiter` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Strafanzeige Vorbereiter gilt für **Anzeige Steuerhinterziehung Akteneinsicht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

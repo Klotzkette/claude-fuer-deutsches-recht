@@ -1,13 +1,13 @@
 ---
 name: pralr-normkarte-altrecht-aufopferung
-description: "Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Normkarte Altrecht Aufopferung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat
+# Normkarte Altrecht Aufopferung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Normkarte Altrecht Aufopferung** im Plugin Preußisches Allgemeines Landrecht (PrALR). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkart
 
 ## Arbeitsweg
 
-Für **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Normkarte Altrecht Aufopferung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

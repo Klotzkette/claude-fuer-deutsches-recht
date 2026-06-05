@@ -1,13 +1,13 @@
 ---
 name: legal-knowledge-capture-law-firm-engineer
-description: "Knowledge Capture, Law Firm Internal Language, Legal Engineer Dashboard, Legal Hold Dashboard: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Legal Knowledge Capture LAW Firm Engineer: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Knowledge Capture, Law Firm Internal Language, Legal Engineer Dashboard, Legal Hold Dashboard, Legal Ops Roadmap
+# Legal Knowledge Capture LAW Firm Engineer
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Knowledge Capture, Law Firm Internal Language, Legal Engineer Dashboard, Legal Hold Dashboard, Legal Ops Roadmap** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Legal Knowledge Capture LAW Firm Engineer** im Plugin Kanzlei Mandant Lifecycle. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Knowledge Capture, Law Firm Internal Language, Legal Engi
 
 ## Arbeitsweg
 
-Für **Knowledge Capture, Law Firm Internal Language, Legal Engineer Dashboard, Legal Hold Dashboard, Legal Ops Roadmap** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-mandant-lifecycle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kanzlei Mandant Lifecycle gilt für **Legal Knowledge Capture LAW Firm Engineer**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: staat-island-migrationscheck-isle-man-israel
-description: "Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Staat Island Migrationscheck Isle MAN Israel: bündelt 17 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen
+# Staat Island Migrationscheck Isle MAN Israel
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 17 sachlich verwandte Arbeitsschritte rund um **Staat Island Migrationscheck Isle MAN Israel** im Plugin Fachanwalt Migrationsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -33,7 +33,7 @@ In diesem Skill wird **Staat Island Migrationscheck, Staat Isle Of Man Migration
 
 ## Arbeitsweg
 
-Für **Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Migrationsrecht gilt für **Staat Island Migrationscheck Isle MAN Israel**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

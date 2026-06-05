@@ -1,13 +1,13 @@
 ---
 name: ferienbefreiung-reise-foerderausschuss
-description: "Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Ferienbefreiung Reise Foerderausschuss: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan
+# Ferienbefreiung Reise Foerderausschuss
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Ferienbefreiung Reise Foerderausschuss** im Plugin Schulrecht Laender. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, F
 
 ## Arbeitsweg
 
-Für **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Schulrecht Laender gilt für **Ferienbefreiung Reise Foerderausschuss**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

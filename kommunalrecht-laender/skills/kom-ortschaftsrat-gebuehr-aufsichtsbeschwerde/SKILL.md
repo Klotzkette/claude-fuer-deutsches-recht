@@ -1,13 +1,13 @@
 ---
 name: kom-ortschaftsrat-gebuehr-aufsichtsbeschwerde
-description: "Kom 101 Ortschaftsrat Gebuehr Kalkulieren, Kom 102 Ortschaftsrat Aufsichtsbeschwerde Schr, Kom 103 Ortschaftsrat Eilantrag Vorbereiten, Kom 104 Ortschaftsrat Finanzierung Erklaeren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "KOM Ortschaftsrat Gebuehr Aufsichtsbeschwerde: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Kom 101 Ortschaftsrat Gebühr Kalkulieren, Kom 102 Ortschaftsrat Aufsichtsbeschwerde Schr, Kom 103 Ortschaftsrat Eilantrag Vorbereiten, Kom 104 Ortschaftsrat Finanzierung Erklaeren, Kom 105 Ortschaftsrat Dashboard Bauen und 1 weitere Themen
+# KOM Ortschaftsrat Gebuehr Aufsichtsbeschwerde
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kom 101 Ortschaftsrat Gebühr Kalkulieren, Kom 102 Ortschaftsrat Aufsichtsbeschwerde Schr, Kom 103 Ortschaftsrat Eilantrag Vorbereiten, Kom 104 Ortschaftsrat Finanzierung Erklaeren, Kom 105 Ortschaftsrat Dashboard Bauen und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **KOM Ortschaftsrat Gebuehr Aufsichtsbeschwerde** im Plugin Kommunalrecht Laender. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -22,7 +22,7 @@ In diesem Skill wird **Kom 101 Ortschaftsrat Gebühr Kalkulieren, Kom 102 Ortsch
 
 ## Arbeitsweg
 
-Für **Kom 101 Ortschaftsrat Gebühr Kalkulieren, Kom 102 Ortschaftsrat Aufsichtsbeschwerde Schr, Kom 103 Ortschaftsrat Eilantrag Vorbereiten, Kom 104 Ortschaftsrat Finanzierung Erklaeren, Kom 105 Ortschaftsrat Dashboard Bauen und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kommunalrecht Laender gilt für **KOM Ortschaftsrat Gebuehr Aufsichtsbeschwerde**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

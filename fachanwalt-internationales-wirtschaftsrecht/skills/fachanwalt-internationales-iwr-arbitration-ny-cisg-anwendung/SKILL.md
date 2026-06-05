@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-internationales-iwr-arbitration-ny-cisg-anwendung
-description: "Iwr Arbitration Ny Convention Spezial / Iwr Cisg Anwendung Spezial / Iwr Rechtswahl Gerichtsstand: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "IWR Arbitration NY CISG Anwendung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Iwr Arbitration Ny Convention Spezial / Iwr Cisg Anwendung Spezial / Iwr Rechtswahl Gerichtsstand
+# IWR Arbitration NY CISG Anwendung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Iwr Arbitration Ny Convention Spezial / Iwr Cisg Anwendung Spezial / Iwr Rechtswahl Gerichtsstand** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **IWR Arbitration NY CISG Anwendung** im Plugin Fachanwalt Internationales Wirtschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Iwr Arbitration Ny Convention Spezial / Iwr Cisg Anwendun
 
 ## Arbeitsweg
 
-Für **Iwr Arbitration Ny Convention Spezial / Iwr Cisg Anwendung Spezial / Iwr Rechtswahl Gerichtsstand** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Internationales Wirtschaftsrecht gilt für **IWR Arbitration NY CISG Anwendung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

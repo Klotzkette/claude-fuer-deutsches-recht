@@ -1,13 +1,13 @@
 ---
 name: anwaelte-qualitaetsmanagement-vier-robe
-description: "Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwaelte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwaelte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwaelte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Qualitaetsmanagement Vier Robe: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr
+# Qualitaetsmanagement Vier Robe
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Qualitaetsmanagement Vier Robe** im Plugin Berufsrecht der Rechtsanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kalt
 
 ## Arbeitsweg
 
-Für **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Rechtsanwälte gilt für **Qualitaetsmanagement Vier Robe**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: integrierte-planung-kennzahlenset-ampelsystem
-description: "Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Integrierte Planung Kennzahlenset Ampelsystem: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter
+# Integrierte Planung Kennzahlenset Ampelsystem
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Integrierte Planung Kennzahlenset Ampelsystem** im Plugin Krisenfrüherkennung (StaRUG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Un
 
 ## Arbeitsweg
 
-Für **Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Krisenfrüherkennung (StaRUG) gilt für **Integrierte Planung Kennzahlenset Ampelsystem**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

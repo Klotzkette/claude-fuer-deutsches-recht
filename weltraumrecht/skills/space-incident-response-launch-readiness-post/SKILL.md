@@ -1,13 +1,13 @@
 ---
 name: space-incident-response-launch-readiness-post
-description: "Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Space Incident Response Launch Readiness Post: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge
+# Space Incident Response Launch Readiness Post
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Space Incident Response Launch Readiness Post** im Plugin Weltraumrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Space 094 Incident Response Satellitenausfall, Space 095 
 
 ## Arbeitsweg
 
-Für **Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Weltraumrecht gilt für **Space Incident Response Launch Readiness Post**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

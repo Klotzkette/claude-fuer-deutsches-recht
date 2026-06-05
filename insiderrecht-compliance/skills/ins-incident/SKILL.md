@@ -1,13 +1,13 @@
 ---
 name: ins-incident
-description: "Ins 055 Incident Drill: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "INS Incident: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Ins 055 Incident Drill
+# INS Incident
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Ins 055 Incident Drill** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **INS Incident** als zusammenhängenden Arbeitsgang im Plugin Insiderrecht / Compliance (WpHG, MAR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Ins 055 Incident Drill** als eigenständiger Arbeitsgang 
 
 ## Arbeitsweg
 
-Für **Ins 055 Incident Drill** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Insiderrecht / Compliance (WpHG, MAR) gilt für **INS Incident**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

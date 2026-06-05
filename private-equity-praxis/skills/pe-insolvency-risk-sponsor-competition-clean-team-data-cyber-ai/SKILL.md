@@ -1,13 +1,13 @@
 ---
 name: pe-insolvency-risk-sponsor-competition-clean-team-data-cyber-ai
-description: "Insolvency Risk Sponsor / Competition Clean Team / Data Cyber AI DD / Ip Brand DD: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Insolvency Risk Sponsor / Competition Clean Team / Data Cyber AI DD / Ip Brand DD
+# PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Insolvency Risk Sponsor / Competition Clean Team / Data Cyber AI DD / Ip Brand DD** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI** im Plugin Private-Equity-Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Insolvency Risk Sponsor / Competition Clean Team / Data C
 
 ## Arbeitsweg
 
-Für **Insolvency Risk Sponsor / Competition Clean Team / Data Cyber AI DD / Ip Brand DD** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Private-Equity-Praxis gilt für **PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

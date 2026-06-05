@@ -1,13 +1,13 @@
 ---
 name: jurastudium-jus-referendariat-stationen-staatsexamen
-description: "Jus Referendariat Stationen Spezial / Jus Staatsexamen Vorbereitung Spezial / Jus Studienplan Bauleiter: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "JUS Referendariat Stationen Staatsexamen: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Jus Referendariat Stationen Spezial / Jus Staatsexamen Vorbereitung Spezial / Jus Studienplan Bauleiter
+# JUS Referendariat Stationen Staatsexamen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Jus Referendariat Stationen Spezial / Jus Staatsexamen Vorbereitung Spezial / Jus Studienplan Bauleiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **JUS Referendariat Stationen Staatsexamen** im Plugin Jurastudium (Klausur, AG, Examen). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Jus Referendariat Stationen Spezial / Jus Staatsexamen Vo
 
 ## Arbeitsweg
 
-Für **Jus Referendariat Stationen Spezial / Jus Staatsexamen Vorbereitung Spezial / Jus Studienplan Bauleiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Jurastudium (Klausur, AG, Examen) gilt für **JUS Referendariat Stationen Staatsexamen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: verbraucherverband-beweismittel-offenlegung-nutzen-kommunikation
-description: "Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Verbraucherverband Beweismittel Offenlegung Nutzen Kommunikation: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten
+# Verbraucherverband Beweismittel Offenlegung Nutzen Kommunikation
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Verbraucherverband Beweismittel Offenlegung Nutzen Kommunikation** im Plugin Verbraucherschutzverband Durchsetzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Beweismittel Offenlegung Nutzen / Kommunikation Verbrauch
 
 ## Arbeitsweg
 
-Für **Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Verbraucherschutzverband Durchsetzung gilt für **Verbraucherverband Beweismittel Offenlegung Nutzen Kommunikation**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

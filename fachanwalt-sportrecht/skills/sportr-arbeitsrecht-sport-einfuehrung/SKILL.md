@@ -1,13 +1,13 @@
 ---
 name: sportr-arbeitsrecht-sport-einfuehrung
-description: "Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Sportr Arbeitsrecht Sport Einfuehrung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial
+# Sportr Arbeitsrecht Sport Einfuehrung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Sportr Arbeitsrecht Sport Einfuehrung** im Plugin Fachanwalt Sportrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrun
 
 ## Arbeitsweg
 
-Für **Sportr Arbeitsrecht Im Sport Leitfaden, Sportr Einfuehrung Rechtsfelder, Sportr Spielerberater Rechtsverhaeltnis Spezial** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Sportrecht gilt für **Sportr Arbeitsrecht Sport Einfuehrung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

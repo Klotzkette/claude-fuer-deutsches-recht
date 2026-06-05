@@ -1,13 +1,13 @@
 ---
 name: foreign-direct-freistellung-art
-description: "Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Foreign Direct Freistellung ART: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen
+# Foreign Direct Freistellung ART
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Foreign Direct Freistellung ART** im Plugin Kartellrecht-Marktabgrenzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Foreign Direct Investment Antitrust Schnittstelle, Freist
 
 ## Arbeitsweg
 
-Für **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kartellrecht-Marktabgrenzung gilt für **Foreign Direct Freistellung ART**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

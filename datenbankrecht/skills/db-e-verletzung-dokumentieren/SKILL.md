@@ -1,13 +1,13 @@
 ---
 name: db-e-verletzung-dokumentieren
-description: "Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "DB E Verletzung Dokumentieren: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit
+# DB E Verletzung Dokumentieren
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **DB E Verletzung Dokumentieren** im Plugin Datenbankrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung D
 
 ## Arbeitsweg
 
-Für **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Datenbankrecht gilt für **DB E Verletzung Dokumentieren**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

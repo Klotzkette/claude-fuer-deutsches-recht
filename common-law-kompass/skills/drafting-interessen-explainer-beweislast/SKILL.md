@@ -1,13 +1,13 @@
 ---
 name: drafting-interessen-explainer-beweislast
-description: "Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Drafting Interessen Explainer Beweislast: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts
+# Drafting Interessen Explainer Beweislast
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Drafting Interessen Explainer Beweislast** im Plugin Common Law Kompass. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Drafting Mehrparteien Konflikt Und Interessen, Explainer 
 
 ## Arbeitsweg
 
-Für **Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `common-law-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Common Law Kompass gilt für **Drafting Interessen Explainer Beweislast**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

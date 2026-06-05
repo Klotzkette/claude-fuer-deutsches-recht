@@ -1,13 +1,13 @@
 ---
 name: see-konnossement-versicherung-local-counsel
-description: "See 106 Konnossement Versicherung Melden, See 107 Konnossement Local Counsel Instruieren, See 108 Konnossement Closing Planen, See 109 Konnossement Klagepfad Waehlen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "SEE Konnossement Versicherung Local Counsel: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# See 106 Konnossement Versicherung Melden, See 107 Konnossement Local Counsel Instruieren, See 108 Konnossement Closing Planen, See 109 Konnossement Klagepfad Waehlen, See 110 Konnossement Risiko Memo Schreiben
+# SEE Konnossement Versicherung Local Counsel
 
 ## Arbeitsbereich
 
-In diesem Skill wird **See 106 Konnossement Versicherung Melden, See 107 Konnossement Local Counsel Instruieren, See 108 Konnossement Closing Planen, See 109 Konnossement Klagepfad Waehlen, See 110 Konnossement Risiko Memo Schreiben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **SEE Konnossement Versicherung Local Counsel** im Plugin Seerecht Schifffahrtsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **See 106 Konnossement Versicherung Melden, See 107 Konnoss
 
 ## Arbeitsweg
 
-Für **See 106 Konnossement Versicherung Melden, See 107 Konnossement Local Counsel Instruieren, See 108 Konnossement Closing Planen, See 109 Konnossement Klagepfad Waehlen, See 110 Konnossement Risiko Memo Schreiben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Seerecht Schifffahrtsrecht gilt für **SEE Konnossement Versicherung Local Counsel**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

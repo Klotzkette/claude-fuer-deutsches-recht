@@ -1,13 +1,13 @@
 ---
 name: photos-stock-physischer-deposit-platform
-description: "Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Photos Stock Physischer Deposit Platform: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint
+# Photos Stock Physischer Deposit Platform
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Photos Stock Physischer Deposit Platform** im Plugin Us Copyright Registrierung Verlag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Photos Stock Social Media, Physischer Deposit Shipping Sl
 
 ## Arbeitsweg
 
-Für **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Us Copyright Registrierung Verlag gilt für **Photos Stock Physischer Deposit Platform**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

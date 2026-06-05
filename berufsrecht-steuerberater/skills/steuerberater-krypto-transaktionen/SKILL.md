@@ -1,13 +1,13 @@
 ---
 name: steuerberater-krypto-transaktionen
-description: "Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Krypto Transaktionen: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation
+# Krypto Transaktionen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Krypto Transaktionen** im Plugin Berufsrecht der Steuerberater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Steuerberater Mandat Aus Krypto Transaktionen Organisatio
 
 ## Arbeitsweg
 
-Für **Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Steuerberater gilt für **Krypto Transaktionen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

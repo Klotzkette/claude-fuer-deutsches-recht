@@ -1,13 +1,13 @@
 ---
 name: gewerbe-zunft-strafrecht-zweiter-strafvollzug
-description: "Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Gewerbe Zunft Strafrecht Zweiter Strafvollzug: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht
+# Gewerbe Zunft Strafrecht Zweiter Strafvollzug
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Gewerbe Zunft Strafrecht Zweiter Strafvollzug** im Plugin Preußisches Allgemeines Landrecht (PrALR). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024
 
 ## Arbeitsweg
 
-Für **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Gewerbe Zunft Strafrecht Zweiter Strafvollzug**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

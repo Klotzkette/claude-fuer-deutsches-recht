@@ -1,13 +1,13 @@
 ---
 name: honorarabhaengigkeit-non-non
-description: "Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Honorarabhaengigkeit NON NON: bündelt 9 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen
+# Honorarabhaengigkeit NON NON
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 9 sachlich verwandte Arbeitsschritte rund um **Honorarabhaengigkeit NON NON** im Plugin Berufsrecht der Wirtschaftsprüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -25,7 +25,7 @@ In diesem Skill wird **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Ser
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Wirtschaftsprüfer gilt für **Honorarabhaengigkeit NON NON**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: kostenrechnung-gnotkg-nebentaetigkeit
-description: "Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Kostenrechnung Gnotkg Nebentaetigkeit: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und, Notare Notarkammer Anfrage Rechtsprechungscheck Und Red Team
+# Kostenrechnung Gnotkg Nebentaetigkeit
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und, Notare Notarkammer Anfrage Rechtsprechungscheck Und Red Team** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Kostenrechnung Gnotkg Nebentaetigkeit** im Plugin Berufsrecht der Notare. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungsch
 
 ## Arbeitsweg
 
-Für **Notare Kostenrechnung Gnotkg Beschwerde Rechtsprechungscheck Un, Notare Nebentaetigkeit Und Interessenkollision Rechtsprechungsc, Notare Notaranderkonto Auszahlungsreife Rechtsprechungscheck Un, Notare Notarielle Verwahrung Von Daten Rechtsprechungscheck Und, Notare Notarkammer Anfrage Rechtsprechungscheck Und Red Team** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Notare gilt für **Kostenrechnung Gnotkg Nebentaetigkeit**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

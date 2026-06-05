@@ -1,13 +1,13 @@
 ---
 name: oew-wohnungsbau-vertrag-breitband-scopen
-description: "Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "OEW Wohnungsbau Vertrag Breitband Scopen: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen
+# OEW Wohnungsbau Vertrag Breitband Scopen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **OEW Wohnungsbau Vertrag Breitband Scopen** im Plugin Oeffentliches Wirtschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Ver
 
 ## Arbeitsweg
 
-Für **Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Oeffentliches Wirtschaftsrecht gilt für **OEW Wohnungsbau Vertrag Breitband Scopen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

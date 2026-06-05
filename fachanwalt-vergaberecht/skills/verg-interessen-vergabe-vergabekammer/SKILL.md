@@ -1,13 +1,13 @@
 ---
 name: verg-interessen-vergabe-vergabekammer
-description: "Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Verg Interessen Vergabe Vergabekammer: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege
+# Verg Interessen Vergabe Vergabekammer
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Verg Interessen Vergabe Vergabekammer** im Plugin Fachanwalt Vergaberecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Verg Mehrparteien Konflikt Und Interessen, Vergabe Behör
 
 ## Arbeitsweg
 
-Für **Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Vergaberecht gilt für **Verg Interessen Vergabe Vergabekammer**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

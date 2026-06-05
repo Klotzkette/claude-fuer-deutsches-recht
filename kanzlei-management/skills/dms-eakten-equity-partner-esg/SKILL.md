@@ -1,13 +1,13 @@
 ---
 name: dms-eakten-equity-partner-esg
-description: "Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DMS Eakten Equity Partner ESG: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly
+# DMS Eakten Equity Partner ESG
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **DMS Eakten Equity Partner ESG** im Plugin Kanzlei Management. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Dms Eakten Governance, Equity Partner Modell, Esg Kanzlei
 
 ## Arbeitsweg
 
-Für **Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kanzlei Management gilt für **DMS Eakten Equity Partner ESG**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

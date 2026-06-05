@@ -1,13 +1,13 @@
 ---
 name: wesentliche-vertraege
-description: "Wesentliche Vertraege Anlage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wesentliche Vertraege: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Wesentliche Vertraege Anlage
+# Wesentliche Vertraege
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wesentliche Vertraege Anlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Wesentliche Vertraege** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Wesentliche Vertraege Anlage** als eigenständiger Arbeit
 
 ## Arbeitsweg
 
-Für **Wesentliche Vertraege Anlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Gesellschaftsrecht gilt für **Wesentliche Vertraege**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

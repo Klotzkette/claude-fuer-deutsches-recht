@@ -1,13 +1,13 @@
 ---
 name: steuerliche-folgen-unterhalt-selbstaendige
-description: "Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Steuerliche Folgen Unterhalt Selbstaendige: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte
+# Steuerliche Folgen Unterhalt Selbstaendige
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Steuerliche Folgen Unterhalt Selbstaendige** im Plugin Fachanwalt Familienrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendi
 
 ## Arbeitsweg
 
-Für **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Familienrecht gilt für **Steuerliche Folgen Unterhalt Selbstaendige**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

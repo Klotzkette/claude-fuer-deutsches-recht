@@ -1,13 +1,13 @@
 ---
 name: dienstaufsicht-notar-beschwerde-verteidigung
-description: "Dienstaufsicht Notar Beschwerde Praevention, Dienstaufsicht Notar Beschwerde Verteidigung, Fremdgeld Anderkonto Pflicht Praevention, Fremdgeld Anderkonto Pflicht Verteidigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Dienstaufsicht Notar Beschwerde Verteidigung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Dienstaufsicht Notar Beschwerde Praevention, Dienstaufsicht Notar Beschwerde Verteidigung, Fremdgeld Anderkonto Pflicht Praevention, Fremdgeld Anderkonto Pflicht Verteidigung
+# Dienstaufsicht Notar Beschwerde Verteidigung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Dienstaufsicht Notar Beschwerde Praevention, Dienstaufsicht Notar Beschwerde Verteidigung, Fremdgeld Anderkonto Pflicht Praevention, Fremdgeld Anderkonto Pflicht Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Dienstaufsicht Notar Beschwerde Verteidigung** im Plugin Berufsgerichtliche Verfahren Freie Berufe. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Dienstaufsicht Notar Beschwerde Praevention, Dienstaufsic
 
 ## Arbeitsweg
 
-Für **Dienstaufsicht Notar Beschwerde Praevention, Dienstaufsicht Notar Beschwerde Verteidigung, Fremdgeld Anderkonto Pflicht Praevention, Fremdgeld Anderkonto Pflicht Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsgerichtliche Verfahren Freie Berufe gilt für **Dienstaufsicht Notar Beschwerde Verteidigung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

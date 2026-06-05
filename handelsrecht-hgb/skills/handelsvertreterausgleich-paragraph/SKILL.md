@@ -1,13 +1,13 @@
 ---
 name: handelsvertreterausgleich-paragraph
-description: "Handelsvertreterausgleich Paragraph 89b, Handlungsgehilfen Und Wettbewerbsverbot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Handelsvertreterausgleich Paragraph: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfen Und Wettbewerbsverbot
+# Handelsvertreterausgleich Paragraph
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfen Und Wettbewerbsverbot** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Handelsvertreterausgleich Paragraph** im Plugin Handelsrecht (HGB). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfe
 
 ## Arbeitsweg
 
-Für **Handelsvertreterausgleich Paragraph 89B, Handlungsgehilfen Und Wettbewerbsverbot** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Handelsrecht (HGB) gilt für **Handelsvertreterausgleich Paragraph**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

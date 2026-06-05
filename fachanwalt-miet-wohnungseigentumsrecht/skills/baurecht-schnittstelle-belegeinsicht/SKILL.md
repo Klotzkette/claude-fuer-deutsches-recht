@@ -1,13 +1,13 @@
 ---
 name: baurecht-schnittstelle-belegeinsicht
-description: "Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Baurecht Schnittstelle Belegeinsicht: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte, Betriebskosten Formell
+# Baurecht Schnittstelle Belegeinsicht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte, Betriebskosten Formell** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Baurecht Schnittstelle Belegeinsicht** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Baurecht Schnittstelle Miete, Belegeinsicht Betriebskoste
 
 ## Arbeitsweg
 
-Für **Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte, Betriebskosten Formell** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **Baurecht Schnittstelle Belegeinsicht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

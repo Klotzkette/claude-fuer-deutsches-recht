@@ -1,13 +1,13 @@
 ---
 name: vc-founder-ask-response-watchlist-wiedervorlage-press-reputation
-description: "Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "VC Founder ASK Response Watchlist Wiedervorlage Press Reputation: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture
+# VC Founder ASK Response Watchlist Wiedervorlage Press Reputation
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Founder ASK Response Watchlist Wiedervorlage Press Reputation** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Founder Ask Response / Watchlist Wiedervorlage / Press Re
 
 ## Arbeitsweg
 
-Für **Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Venture Capital (Geberseite) gilt für **VC Founder ASK Response Watchlist Wiedervorlage Press Reputation**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

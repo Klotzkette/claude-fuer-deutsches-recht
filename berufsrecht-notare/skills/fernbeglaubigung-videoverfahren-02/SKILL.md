@@ -1,13 +1,13 @@
 ---
 name: fernbeglaubigung-videoverfahren-02
-description: "Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fernbeglaubigung Videoverfahren 02: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens
+# Fernbeglaubigung Videoverfahren 02
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Fernbeglaubigung Videoverfahren 02** im Plugin Berufsrecht der Notare. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve /
 
 ## Arbeitsweg
 
-Für **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Notare gilt für **Fernbeglaubigung Videoverfahren 02**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

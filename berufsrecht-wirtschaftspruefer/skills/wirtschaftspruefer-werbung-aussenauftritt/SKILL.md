@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-werbung-aussenauftritt
-description: "Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Werbung Aussenauftritt: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations
+# Werbung Aussenauftritt
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Werbung Aussenauftritt** im Plugin Berufsrecht der Wirtschaftsprüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahru
 
 ## Arbeitsweg
 
-Für **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Wirtschaftsprüfer gilt für **Werbung Aussenauftritt**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: treuepflicht-bgh-ii-zr-ix
-description: "BGH Ii Zr Gesellschafterliste / BGH Ii Zr Informationspflicht / BGH Ii Zr Media Saturn / BGH Ix Zr Kapitalgesellschaft: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "BGH II ZR IX: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# BGH Ii Zr Gesellschafterliste / BGH Ii Zr Informationspflicht / BGH Ii Zr Media Saturn / BGH Ix Zr Kapitalgesellschaft
+# BGH II ZR IX
 
 ## Arbeitsbereich
 
-In diesem Skill wird **BGH Ii Zr Gesellschafterliste / BGH Ii Zr Informationspflicht / BGH Ii Zr Media Saturn / BGH Ix Zr Kapitalgesellschaft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **BGH II ZR IX** im Plugin Gesellschaftsrechtliche Treuepflicht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **BGH Ii Zr Gesellschafterliste / BGH Ii Zr Informationspfl
 
 ## Arbeitsweg
 
-Für **BGH Ii Zr Gesellschafterliste / BGH Ii Zr Informationspflicht / BGH Ii Zr Media Saturn / BGH Ix Zr Kapitalgesellschaft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Gesellschaftsrechtliche Treuepflicht gilt für **BGH II ZR IX**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: einigungsvertrag-vermoegensrecht-ein-kommunalvermoegen
-description: "Ein Kommunalvermoegen Behoerdenbrief Schre / Ein Kommunalvermoegen Widerspruch Pruefen / Ein Kommunalvermoegen Klage Skizzieren / Ein Kommunalvermoegen Vergleich Bewerten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "EIN Kommunalvermoegen: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Ein Kommunalvermoegen Behoerdenbrief Schre / Ein Kommunalvermoegen Widerspruch Pruefen / Ein Kommunalvermoegen Klage Skizzieren / Ein Kommunalvermoegen Vergleich Bewerten
+# EIN Kommunalvermoegen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Ein Kommunalvermoegen Behoerdenbrief Schre / Ein Kommunalvermoegen Widerspruch Pruefen / Ein Kommunalvermoegen Klage Skizzieren / Ein Kommunalvermoegen Vergleich Bewerten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **EIN Kommunalvermoegen** im Plugin Einigungsvertrag Vermoegensrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Ein Kommunalvermoegen Behoerdenbrief Schre / Ein Kommunal
 
 ## Arbeitsweg
 
-Für **Ein Kommunalvermoegen Behoerdenbrief Schre / Ein Kommunalvermoegen Widerspruch Pruefen / Ein Kommunalvermoegen Klage Skizzieren / Ein Kommunalvermoegen Vergleich Bewerten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Einigungsvertrag Vermoegensrecht gilt für **EIN Kommunalvermoegen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

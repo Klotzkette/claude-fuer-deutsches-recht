@@ -1,13 +1,13 @@
 ---
 name: down-red-gestaltender-gruppen
-description: "Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Down RED Gestaltender Gruppen: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine
+# Down RED Gestaltender Gruppen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Down RED Gestaltender Gruppen** im Plugin Insolvenzplan / StaRUG. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Down Red Team Und Qualitaetskontrolle, Gestaltender Zahle
 
 ## Arbeitsweg
 
-Für **Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Insolvenzplan / StaRUG gilt für **Down RED Gestaltender Gruppen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

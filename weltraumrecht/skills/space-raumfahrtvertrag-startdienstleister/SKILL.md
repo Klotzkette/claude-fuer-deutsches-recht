@@ -1,13 +1,13 @@
 ---
 name: space-raumfahrtvertrag-startdienstleister
-description: "Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Space Raumfahrtvertrag Startdienstleister: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers
+# Space Raumfahrtvertrag Startdienstleister
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Space Raumfahrtvertrag Startdienstleister** im Plugin Weltraumrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Space 056 Raumfahrtvertrag Mit Startdienstleister Launch 
 
 ## Arbeitsweg
 
-Für **Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Für Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Weltraumrecht gilt für **Space Raumfahrtvertrag Startdienstleister**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: infl-influencer-beauty-filter-medienanstalt
-description: "Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Infl Influencer Beauty Filter Medienanstalt: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten
+# Infl Influencer Beauty Filter Medienanstalt
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Infl Influencer Beauty Filter Medienanstalt** im Plugin Influencer Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Infl 059 Influencer Als Testimonials In Kapitalmarktkommu
 
 ## Arbeitsweg
 
-Für **Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Influencer Recht gilt für **Infl Influencer Beauty Filter Medienanstalt**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

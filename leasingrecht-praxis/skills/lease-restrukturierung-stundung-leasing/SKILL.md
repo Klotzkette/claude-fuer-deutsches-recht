@@ -1,13 +1,13 @@
 ---
 name: lease-restrukturierung-stundung-leasing
-description: "Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Lease Restrukturierung Stundung Leasing: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung
+# Lease Restrukturierung Stundung Leasing
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Lease Restrukturierung Stundung Leasing** im Plugin Leasingrecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Lease 046 Restrukturierung Stundung Stillhaltevereinbarun
 
 ## Arbeitsweg
 
-Für **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Leasingrecht Praxis gilt für **Lease Restrukturierung Stundung Leasing**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

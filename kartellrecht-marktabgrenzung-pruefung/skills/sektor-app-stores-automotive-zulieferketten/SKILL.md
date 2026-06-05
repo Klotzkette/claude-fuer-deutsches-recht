@@ -1,13 +1,13 @@
 ---
 name: sektor-app-stores-automotive-zulieferketten
-description: "Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Sektor APP Stores Automotive Zulieferketten: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten
+# Sektor APP Stores Automotive Zulieferketten
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Sektor APP Stores Automotive Zulieferketten** im Plugin Kartellrecht-Marktabgrenzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Z
 
 ## Arbeitsweg
 
-Für **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kartellrecht-Marktabgrenzung gilt für **Sektor APP Stores Automotive Zulieferketten**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

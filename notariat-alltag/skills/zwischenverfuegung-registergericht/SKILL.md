@@ -1,13 +1,13 @@
 ---
 name: zwischenverfuegung-registergericht
-description: "Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zwischenverfuegung Registergericht: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S
+# Zwischenverfuegung Registergericht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Zwischenverfuegung Registergericht** im Plugin Notariat Alltag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Notariat 022 Zwischenverfuegung Registergericht Antwortst
 
 ## Arbeitsweg
 
-Für **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Notariat Alltag gilt für **Zwischenverfuegung Registergericht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

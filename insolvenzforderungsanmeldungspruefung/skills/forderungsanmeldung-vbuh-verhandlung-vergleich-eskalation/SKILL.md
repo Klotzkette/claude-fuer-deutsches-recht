@@ -1,13 +1,13 @@
 ---
 name: forderungsanmeldung-vbuh-verhandlung-vergleich-eskalation
-description: "Vbuh Verhandlung Vergleich Und Eskalation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Vbuh Verhandlung Vergleich Und Eskalation
+# Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vbuh Verhandlung Vergleich Und Eskalation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Vbuh Verhandlung Vergleich Und Eskalation** als eigenstä
 
 ## Arbeitsweg
 
-Für **Vbuh Verhandlung Vergleich Und Eskalation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Insolvenzforderungsanmeldung gilt für **Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

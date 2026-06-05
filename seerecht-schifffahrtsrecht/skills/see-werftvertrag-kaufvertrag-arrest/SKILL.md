@@ -1,13 +1,13 @@
 ---
 name: see-werftvertrag-kaufvertrag-arrest
-description: "See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "SEE Werftvertrag Kaufvertrag Arrest: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren
+# SEE Werftvertrag Kaufvertrag Arrest
 
 ## Arbeitsbereich
 
-In diesem Skill wird **See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **SEE Werftvertrag Kaufvertrag Arrest** im Plugin Seerecht Schifffahrtsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftver
 
 ## Arbeitsweg
 
-Für **See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Seerecht Schifffahrtsrecht gilt für **SEE Werftvertrag Kaufvertrag Arrest**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

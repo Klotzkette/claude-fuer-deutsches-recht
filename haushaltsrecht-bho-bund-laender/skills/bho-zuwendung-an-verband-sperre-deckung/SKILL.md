@@ -1,13 +1,13 @@
 ---
 name: bho-zuwendung-an-verband-sperre-deckung
-description: "Bho 157 Zuwendung An Verband Umschichtung Simu, Bho 158 Zuwendung An Verband Sperre Bewerten, Bho 159 Zuwendung An Verband Deckung Finden, Bho 160 Zuwendung An Verband Szenario Rechnen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zuwendung AN Verband Sperre Deckung: bündelt 11 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bho 157 Zuwendung An Verband Umschichtung Simu, Bho 158 Zuwendung An Verband Sperre Bewerten, Bho 159 Zuwendung An Verband Deckung Finden, Bho 160 Zuwendung An Verband Szenario Rechnen, Bho 161 Zuwendung An Verband Dashboard Bauen und 6 weitere Themen
+# Zuwendung AN Verband Sperre Deckung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bho 157 Zuwendung An Verband Umschichtung Simu, Bho 158 Zuwendung An Verband Sperre Bewerten, Bho 159 Zuwendung An Verband Deckung Finden, Bho 160 Zuwendung An Verband Szenario Rechnen, Bho 161 Zuwendung An Verband Dashboard Bauen und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 11 sachlich verwandte Arbeitsschritte rund um **Zuwendung AN Verband Sperre Deckung** im Plugin Haushaltsrecht (BHO Bund/Länder). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -27,7 +27,7 @@ In diesem Skill wird **Bho 157 Zuwendung An Verband Umschichtung Simu, Bho 158 Z
 
 ## Arbeitsweg
 
-Für **Bho 157 Zuwendung An Verband Umschichtung Simu, Bho 158 Zuwendung An Verband Sperre Bewerten, Bho 159 Zuwendung An Verband Deckung Finden, Bho 160 Zuwendung An Verband Szenario Rechnen, Bho 161 Zuwendung An Verband Dashboard Bauen und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Haushaltsrecht (BHO Bund/Länder) gilt für **Zuwendung AN Verband Sperre Deckung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: werbung-siegel-zulassung-widerruf
-description: "Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Werbung Siegel Zulassung Widerruf: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle
+# Werbung Siegel Zulassung Widerruf
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Werbung Siegel Zulassung Widerruf** im Plugin Berufsrecht der Steuerberater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Steuerberater Werbung Und Siegel Rechtsprechungscheck Und
 
 ## Arbeitsweg
 
-Für **Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Steuerberater gilt für **Werbung Siegel Zulassung Widerruf**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

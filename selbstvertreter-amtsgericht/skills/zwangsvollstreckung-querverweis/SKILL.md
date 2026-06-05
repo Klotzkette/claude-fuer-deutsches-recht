@@ -1,13 +1,13 @@
 ---
 name: zwangsvollstreckung-querverweis
-description: "Zwangsvollstreckung Querverweis Substitutionsagent: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zwangsvollstreckung Querverweis: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Zwangsvollstreckung Querverweis Substitutionsagent
+# Zwangsvollstreckung Querverweis
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zwangsvollstreckung Querverweis Substitutionsagent** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Zwangsvollstreckung Querverweis** als zusammenhängenden Arbeitsgang im Plugin Selbstvertretung vor dem Amtsgericht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Zwangsvollstreckung Querverweis Substitutionsagent** als 
 
 ## Arbeitsweg
 
-Für **Zwangsvollstreckung Querverweis Substitutionsagent** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Selbstvertretung vor dem Amtsgericht gilt für **Zwangsvollstreckung Querverweis**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

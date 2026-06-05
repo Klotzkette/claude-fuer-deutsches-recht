@@ -1,13 +1,13 @@
 ---
 name: hochrisiko-genauigkeit-konformitaetsbewertung
-description: "Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Hochrisiko Genauigkeit Konformitaetsbewertung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv
+# Hochrisiko Genauigkeit Konformitaetsbewertung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Hochrisiko Genauigkeit Konformitaetsbewertung** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15,
 
 ## Arbeitsweg
 
-Für **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin KI-VO / AI Act-Prüfer gilt für **Hochrisiko Genauigkeit Konformitaetsbewertung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: owi-baurecht-ruegen-verjaehrung-berechnen
-description: "Owi 076 Baurecht Beweis Ruegen, Owi 077 Baurecht Verjaehrung Berechnen, Owi 078 Baurecht Gerichtstermin Vorbereiten, Owi 079 Baurecht Rechtsbeschwerde Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "OWI Baurecht Ruegen Verjaehrung Berechnen: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Owi 076 Baurecht Beweis Ruegen, Owi 077 Baurecht Verjaehrung Berechnen, Owi 078 Baurecht Gerichtstermin Vorbereiten, Owi 079 Baurecht Rechtsbeschwerde Prüfen
+# OWI Baurecht Ruegen Verjaehrung Berechnen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Owi 076 Baurecht Beweis Ruegen, Owi 077 Baurecht Verjaehrung Berechnen, Owi 078 Baurecht Gerichtstermin Vorbereiten, Owi 079 Baurecht Rechtsbeschwerde Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **OWI Baurecht Ruegen Verjaehrung Berechnen** im Plugin Ordnungswidrigkeitenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Owi 076 Baurecht Beweis Ruegen, Owi 077 Baurecht Verjaehr
 
 ## Arbeitsweg
 
-Für **Owi 076 Baurecht Beweis Ruegen, Owi 077 Baurecht Verjaehrung Berechnen, Owi 078 Baurecht Gerichtstermin Vorbereiten, Owi 079 Baurecht Rechtsbeschwerde Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Ordnungswidrigkeitenrecht gilt für **OWI Baurecht Ruegen Verjaehrung Berechnen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

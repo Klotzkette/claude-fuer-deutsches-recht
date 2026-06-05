@@ -1,13 +1,13 @@
 ---
 name: zag-vorstandsvorlage-gutachten-wpig
-description: "Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "ZAG Vorstandsvorlage Gutachten Wpig: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney
+# ZAG Vorstandsvorlage Gutachten Wpig
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **ZAG Vorstandsvorlage Gutachten Wpig** im Plugin Bank Rechtsabteilung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schni
 
 ## Arbeitsweg
 
-Für **Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bank Rechtsabteilung gilt für **ZAG Vorstandsvorlage Gutachten Wpig**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

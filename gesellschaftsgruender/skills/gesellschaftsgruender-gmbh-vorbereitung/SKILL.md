@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-gmbh-vorbereitung
-description: "Gesellschaftsgruender Gmbh Vorbereitung, Gesellschaftsgruender Golden Share Und Vetorechte, Gesellschaftsgruender Gruenderrollen Konfliktcheck, Gesellschaftsgruender Gv Einladung Tagesordnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Gmbh Vorbereitung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter
+# Gmbh Vorbereitung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Gmbh Vorbereitung** im Plugin Gesellschaftsgründung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgr�
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Gesellschaftsgründung gilt für **Gmbh Vorbereitung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

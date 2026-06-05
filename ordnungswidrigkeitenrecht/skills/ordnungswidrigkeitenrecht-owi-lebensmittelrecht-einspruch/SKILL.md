@@ -1,13 +1,13 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-lebensmittelrecht-einspruch
-description: "Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "OWI Lebensmittelrecht Einspruch: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne
+# OWI Lebensmittelrecht Einspruch
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **OWI Lebensmittelrecht Einspruch** im Plugin Ordnungswidrigkeitenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmi
 
 ## Arbeitsweg
 
-Für **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Ordnungswidrigkeitenrecht gilt für **OWI Lebensmittelrecht Einspruch**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

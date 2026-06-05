@@ -1,13 +1,13 @@
 ---
 name: pralr-anderen-plugins-normnavigator-jede
-description: "Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Anderen Plugins Normnavigator Jede: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Erster Teil Titel 1 Personen Und Stand
+# Anderen Plugins Normnavigator Jede
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Erster Teil Titel 1 Personen Und Stand** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Anderen Plugins Normnavigator Jede** im Plugin Preußisches Allgemeines Landrecht (PrALR). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavi
 
 ## Arbeitsweg
 
-Für **Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Erster Teil Titel 1 Personen Und Stand** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Anderen Plugins Normnavigator Jede**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

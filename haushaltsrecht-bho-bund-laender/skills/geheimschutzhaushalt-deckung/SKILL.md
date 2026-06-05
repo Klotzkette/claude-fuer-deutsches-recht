@@ -1,13 +1,13 @@
 ---
 name: geheimschutzhaushalt-deckung
-description: "Bho 299 Geheimschutzhaushalt Deckung Finden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Geheimschutzhaushalt Deckung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Bho 299 Geheimschutzhaushalt Deckung Finden
+# Geheimschutzhaushalt Deckung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bho 299 Geheimschutzhaushalt Deckung Finden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Geheimschutzhaushalt Deckung** als zusammenhängenden Arbeitsgang im Plugin Haushaltsrecht (BHO Bund/Länder) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Bho 299 Geheimschutzhaushalt Deckung Finden** als eigenst
 
 ## Arbeitsweg
 
-Für **Bho 299 Geheimschutzhaushalt Deckung Finden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Haushaltsrecht (BHO Bund/Länder) gilt für **Geheimschutzhaushalt Deckung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

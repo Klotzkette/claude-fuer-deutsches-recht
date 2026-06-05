@@ -1,13 +1,13 @@
 ---
 name: infl-creator-fonds-jahresabschluss-risiken
-description: "Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Infl Creator Fonds Jahresabschluss Risiken: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug
+# Infl Creator Fonds Jahresabschluss Risiken
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Infl Creator Fonds Jahresabschluss Risiken** im Plugin Influencer Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahr
 
 ## Arbeitsweg
 
-Für **Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Influencer Recht gilt für **Infl Creator Fonds Jahresabschluss Risiken**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

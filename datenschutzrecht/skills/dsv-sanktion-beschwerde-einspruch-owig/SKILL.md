@@ -1,13 +1,13 @@
 ---
 name: dsv-sanktion-beschwerde-einspruch-owig
-description: "Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DSV Sanktion Beschwerde Einspruch Owig: bündelt 10 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen
+# DSV Sanktion Beschwerde Einspruch Owig
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 10 sachlich verwandte Arbeitsschritte rund um **DSV Sanktion Beschwerde Einspruch Owig** im Plugin Datenschutzrecht (DSGVO/BDSG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -26,7 +26,7 @@ In diesem Skill wird **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, D
 
 ## Arbeitsweg
 
-Für **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Datenschutzrecht (DSGVO/BDSG) gilt für **DSV Sanktion Beschwerde Einspruch Owig**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

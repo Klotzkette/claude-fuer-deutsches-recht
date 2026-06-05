@@ -1,13 +1,13 @@
 ---
 name: geschaeftsordnung-gf-gesellschafterstreit
-description: "Gesellschaftsgruender Geschaeftsordnung Gf, Gesellschaftsgruender Gesellschafterstreit Eilantraege, Gesellschaftsgruender Gesellschaftervereinbarung, Gesellschaftsgruender Gf Meeting Templates: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Geschaeftsordnung GF Gesellschafterstreit: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit
+# Geschaeftsordnung GF Gesellschafterstreit
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Geschaeftsordnung GF Gesellschafterstreit** im Plugin Gesellschaftsgründung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschafts
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Gesellschaftsgründung gilt für **Geschaeftsordnung GF Gesellschafterstreit**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

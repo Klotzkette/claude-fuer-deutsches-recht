@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-gk-sanierungsgewinn-corporate-ma
-description: "Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "GK Sanierungsgewinn Corporate MA: bündelt 7 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen
+# GK Sanierungsgewinn Corporate MA
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 7 sachlich verwandte Arbeitsschritte rund um **GK Sanierungsgewinn Corporate MA** im Plugin Großkanzlei Corporate / M&A. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -23,7 +23,7 @@ In diesem Skill wird **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess
 
 ## Arbeitsweg
 
-Für **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Großkanzlei Corporate / M&A gilt für **GK Sanierungsgewinn Corporate MA**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

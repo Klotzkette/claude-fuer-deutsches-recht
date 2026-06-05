@@ -1,13 +1,13 @@
 ---
 name: ausnahmen-vertraulichkeit-bank-finanzierungs
-description: "Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Ausnahmen Vertraulichkeit Bank Finanzierungs: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech
+# Ausnahmen Vertraulichkeit Bank Finanzierungs
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Ausnahmen Vertraulichkeit Bank Finanzierungs** im Plugin Nda Verschwiegenheit Generator Checker. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda
 
 ## Arbeitsweg
 
-Für **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Nda Verschwiegenheit Generator Checker gilt für **Ausnahmen Vertraulichkeit Bank Finanzierungs**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

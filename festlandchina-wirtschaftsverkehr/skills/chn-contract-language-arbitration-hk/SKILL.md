@@ -1,13 +1,13 @@
 ---
 name: chn-contract-language-arbitration-hk
-description: "Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "CHN Contract Language Arbitration HK: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China
+# CHN Contract Language Arbitration HK
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **CHN Contract Language Arbitration HK** im Plugin Festlandchina Wirtschaftsverkehr. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Chn 055 Contract Language And Governing Law, Chn 056 Arbi
 
 ## Arbeitsweg
 
-Für **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Festlandchina Wirtschaftsverkehr gilt für **CHN Contract Language Arbitration HK**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

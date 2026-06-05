@@ -1,13 +1,13 @@
 ---
 name: strafrecht-urheberrecht-urhg-108a-gewerblich
-description: "Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108a Urhg Gewerblich, Strafrecht Urheberrecht 108b Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Urheberrecht Urhg 108a Gewerblich: bündelt 10 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen
+# Urheberrecht Urhg 108a Gewerblich
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 10 sachlich verwandte Arbeitsschritte rund um **Urheberrecht Urhg 108a Gewerblich** im Plugin Fachanwalt Strafrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -26,7 +26,7 @@ In diesem Skill wird **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, St
 
 ## Arbeitsweg
 
-Für **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Strafrecht gilt für **Urheberrecht Urhg 108a Gewerblich**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

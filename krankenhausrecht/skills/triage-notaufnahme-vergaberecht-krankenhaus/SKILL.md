@@ -1,13 +1,13 @@
 ---
 name: triage-notaufnahme-vergaberecht-krankenhaus
-description: "Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Triage Notaufnahme Vergaberecht Krankenhaus: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform
+# Triage Notaufnahme Vergaberecht Krankenhaus
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Triage Notaufnahme Vergaberecht Krankenhaus** im Plugin Krankenhausrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Triage Notaufnahme Ueberlastung Dokumentation, Vergaberec
 
 ## Arbeitsweg
 
-Für **Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Krankenhausrecht gilt für **Triage Notaufnahme Vergaberecht Krankenhaus**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: ifg-landespressegesetz-zustaendigkeit-prue-frist-setzen
-description: "Landespressegesetz Zustaendigkeit Prue / Landespressegesetz Frist Setzen / Transparenzgesetz Zustaendigkeit Pruef / Transparenzgesetz Frist Setzen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "IFG Landespressegesetz Zustaendigkeit Prue Frist Setzen: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Landespressegesetz Zustaendigkeit Prue / Landespressegesetz Frist Setzen / Transparenzgesetz Zustaendigkeit Pruef / Transparenzgesetz Frist Setzen
+# IFG Landespressegesetz Zustaendigkeit Prue Frist Setzen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Landespressegesetz Zustaendigkeit Prue / Landespressegesetz Frist Setzen / Transparenzgesetz Zustaendigkeit Pruef / Transparenzgesetz Frist Setzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **IFG Landespressegesetz Zustaendigkeit Prue Frist Setzen** im Plugin Informationsfreiheit Presseauskunft. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Landespressegesetz Zustaendigkeit Prue / Landespressegese
 
 ## Arbeitsweg
 
-Für **Landespressegesetz Zustaendigkeit Prue / Landespressegesetz Frist Setzen / Transparenzgesetz Zustaendigkeit Pruef / Transparenzgesetz Frist Setzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Informationsfreiheit Presseauskunft gilt für **IFG Landespressegesetz Zustaendigkeit Prue Frist Setzen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

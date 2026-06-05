@@ -1,13 +1,13 @@
 ---
 name: jurisdiktion-australien-competition-bahrain
-description: "Jurisdiktion Australien Competition Authority, Jurisdiktion Bahrain Competition Authority, Jurisdiktion Bangladesch Competition Authority, Jurisdiktion Barbados Competition Authority: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Jurisdiktion Australien Competition Bahrain: bündelt 14 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Jurisdiktion Australien Competition Authority, Jurisdiktion Bahrain Competition Authority, Jurisdiktion Bangladesch Competition Authority, Jurisdiktion Barbados Competition Authority, Jurisdiktion Belarus Competition Authority und 9 weitere Themen
+# Jurisdiktion Australien Competition Bahrain
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Jurisdiktion Australien Competition Authority, Jurisdiktion Bahrain Competition Authority, Jurisdiktion Bangladesch Competition Authority, Jurisdiktion Barbados Competition Authority, Jurisdiktion Belarus Competition Authority und 9 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 14 sachlich verwandte Arbeitsschritte rund um **Jurisdiktion Australien Competition Bahrain** im Plugin Kartellrecht-Marktabgrenzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -30,7 +30,7 @@ In diesem Skill wird **Jurisdiktion Australien Competition Authority, Jurisdikti
 
 ## Arbeitsweg
 
-Für **Jurisdiktion Australien Competition Authority, Jurisdiktion Bahrain Competition Authority, Jurisdiktion Bangladesch Competition Authority, Jurisdiktion Barbados Competition Authority, Jurisdiktion Belarus Competition Authority und 9 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kartellrecht-Marktabgrenzung gilt für **Jurisdiktion Australien Competition Bahrain**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

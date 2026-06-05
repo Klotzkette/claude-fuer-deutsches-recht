@@ -1,13 +1,13 @@
 ---
 name: first-human-geburtshilfe-ctg-gendg-diagnostik
-description: "First In Human Riskboard, Geburtshilfe Ctg Sectio, Gendg Diagnostik Einwilligung, Genomdaten Ehds Biobank: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "First Human Geburtshilfe CTG Gendg Diagnostik: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# First In Human Riskboard, Geburtshilfe Ctg Sectio, Gendg Diagnostik Einwilligung, Genomdaten Ehds Biobank
+# First Human Geburtshilfe CTG Gendg Diagnostik
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **First Human Geburtshilfe CTG Gendg Diagnostik** im Plugin Fachanwalt Medizinrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **First In Human Riskboard, Geburtshilfe Ctg Sectio, Gendg Diagnostik Einwilligung, Genomdaten Ehds Biobank** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Medizinrecht gilt für **First Human Geburtshilfe CTG Gendg Diagnostik**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: anw-stb-sanierungsgewinn-stehengelassene
-description: "Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "ANW STB Sanierungsgewinn Stehengelassene: bündelt 9 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen
+# ANW STB Sanierungsgewinn Stehengelassene
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 9 sachlich verwandte Arbeitsschritte rund um **ANW STB Sanierungsgewinn Stehengelassene** im Plugin Steuerrecht-Anwalt und -Berater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -25,7 +25,7 @@ In diesem Skill wird **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sa
 
 ## Arbeitsweg
 
-Für **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Steuerrecht-Anwalt und -Berater gilt für **ANW STB Sanierungsgewinn Stehengelassene**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

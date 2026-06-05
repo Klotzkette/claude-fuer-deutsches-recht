@@ -1,13 +1,13 @@
 ---
 name: anw-grest-signing-insolvenzreife-inso-klage
-description: "Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "ANW Grest Signing Insolvenzreife Inso Klage: bündelt 9 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen
+# ANW Grest Signing Insolvenzreife Inso Klage
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 9 sachlich verwandte Arbeitsschritte rund um **ANW Grest Signing Insolvenzreife Inso Klage** im Plugin Steuerrecht-Anwalt und -Berater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -25,7 +25,7 @@ In diesem Skill wird **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolven
 
 ## Arbeitsweg
 
-Für **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Steuerrecht-Anwalt und -Berater gilt für **ANW Grest Signing Insolvenzreife Inso Klage**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

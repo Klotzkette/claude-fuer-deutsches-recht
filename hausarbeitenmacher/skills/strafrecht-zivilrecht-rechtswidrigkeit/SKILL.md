@@ -1,13 +1,13 @@
 ---
 name: strafrecht-zivilrecht-rechtswidrigkeit
-description: "Strafrecht Zahlen Schwellen Und Berechnung, Zivilrecht Verhandlung Vergleich Und Eskalation, Strafrecht Tatbestand Rechtswidrigkeit Schuld: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Strafrecht Zivilrecht Rechtswidrigkeit: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Strafrecht Zahlen Schwellen Und Berechnung, Zivilrecht Verhandlung Vergleich Und Eskalation, Strafrecht Tatbestand Rechtswidrigkeit Schuld
+# Strafrecht Zivilrecht Rechtswidrigkeit
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Strafrecht Zahlen Schwellen Und Berechnung, Zivilrecht Verhandlung Vergleich Und Eskalation, Strafrecht Tatbestand Rechtswidrigkeit Schuld** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Strafrecht Zivilrecht Rechtswidrigkeit** im Plugin Hausarbeitenmacher. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Strafrecht Zahlen Schwellen Und Berechnung, Zivilrecht Ve
 
 ## Arbeitsweg
 
-Für **Strafrecht Zahlen Schwellen Und Berechnung, Zivilrecht Verhandlung Vergleich Und Eskalation, Strafrecht Tatbestand Rechtswidrigkeit Schuld** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Hausarbeitenmacher gilt für **Strafrecht Zivilrecht Rechtswidrigkeit**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

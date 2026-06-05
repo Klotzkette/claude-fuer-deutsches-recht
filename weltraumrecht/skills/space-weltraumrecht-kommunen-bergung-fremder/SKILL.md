@@ -1,13 +1,13 @@
 ---
 name: space-weltraumrecht-kommunen-bergung-fremder
-description: "Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Space Weltraumrecht Kommunen Bergung Fremder: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit
+# Space Weltraumrecht Kommunen Bergung Fremder
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Space Weltraumrecht Kommunen Bergung Fremder** im Plugin Weltraumrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbu
 
 ## Arbeitsweg
 
-Für **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Weltraumrecht gilt für **Space Weltraumrecht Kommunen Bergung Fremder**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: restrukturierung-beweislast-stil-strategische
-description: "Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Uebergabe, Strategische Erstpruefung Und Mandatsziel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Restrukturierung Beweislast Stil Strategische: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Übergabe, Strategische Erstpruefung Und Mandatsziel
+# Restrukturierung Beweislast Stil Strategische
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Übergabe, Strategische Erstpruefung Und Mandatsziel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Restrukturierung Beweislast Stil Strategische** im Plugin Bav Strategie Konzern. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Restrukturierung Beweislast Und Darlegungslast, Stil Absc
 
 ## Arbeitsweg
 
-Für **Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Übergabe, Strategische Erstpruefung Und Mandatsziel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bav Strategie Konzern gilt für **Restrukturierung Beweislast Stil Strategische**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

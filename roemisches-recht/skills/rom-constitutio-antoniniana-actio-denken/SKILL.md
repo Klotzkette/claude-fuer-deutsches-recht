@@ -1,13 +1,13 @@
 ---
 name: rom-constitutio-antoniniana-actio-denken
-description: "Rom 153 Constitutio Antoniniana 212, Rom 160 Actio Denken Und Rechtsmechanik, Rom 002 Quellenkritik Digesten Und Institutionen, Rom 003 Personae Status Und Familie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "ROM Constitutio Antoniniana Actio Denken: bündelt 8 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Rom 153 Constitutio Antoniniana 212, Rom 160 Actio Denken Und Rechtsmechanik, Rom 002 Quellenkritik Digesten Und Institutionen, Rom 003 Personae Status Und Familie, Rom 004 Patria Potestas Und Hausgewalt und 3 weitere Themen
+# ROM Constitutio Antoniniana Actio Denken
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Rom 153 Constitutio Antoniniana 212, Rom 160 Actio Denken Und Rechtsmechanik, Rom 002 Quellenkritik Digesten Und Institutionen, Rom 003 Personae Status Und Familie, Rom 004 Patria Potestas Und Hausgewalt und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **ROM Constitutio Antoniniana Actio Denken** im Plugin Römisches Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -24,7 +24,7 @@ In diesem Skill wird **Rom 153 Constitutio Antoniniana 212, Rom 160 Actio Denken
 
 ## Arbeitsweg
 
-Für **Rom 153 Constitutio Antoniniana 212, Rom 160 Actio Denken Und Rechtsmechanik, Rom 002 Quellenkritik Digesten Und Institutionen, Rom 003 Personae Status Und Familie, Rom 004 Patria Potestas Und Hausgewalt und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Römisches Recht gilt für **ROM Constitutio Antoniniana Actio Denken**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

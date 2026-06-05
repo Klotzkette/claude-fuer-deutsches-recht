@@ -1,13 +1,13 @@
 ---
 name: honorarstreit-schlichtung
-description: "Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Honorarstreit Schlichtung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 4
+# Honorarstreit Schlichtung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 4** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Honorarstreit Schlichtung** im Plugin Berufsrecht der Steuerberater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Steuerberater Honorarstreit Und Schlichtung Kammerantwort
 
 ## Arbeitsweg
 
-Für **Steuerberater Honorarstreit Und Schlichtung Kammerantwort Und V, Steuerberater Honorarstreit Und Schlichtung Organisationspflich, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 2, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 3, Steuerberater Interessenkollision Ehegatten Und Gesellschafte 4** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Steuerberater gilt für **Honorarstreit Schlichtung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

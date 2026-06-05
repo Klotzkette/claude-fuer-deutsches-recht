@@ -1,13 +1,13 @@
 ---
 name: vorkaufsrecht-mieter-waermepumpe-red-weg
-description: "Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begruendung, Weg Balkonkraftwerk: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Vorkaufsrecht Mieter Waermepumpe RED WEG: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begründung, Weg Balkonkraftwerk, Weg Baum Fassade Dach
+# Vorkaufsrecht Mieter Waermepumpe RED WEG
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begründung, Weg Balkonkraftwerk, Weg Baum Fassade Dach** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Vorkaufsrecht Mieter Waermepumpe RED WEG** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaets
 
 ## Arbeitsweg
 
-Für **Vorkaufsrecht Mieter, Waermepumpe Red Team Und Qualitaetskontrolle, Weg Anfechtung Begründung, Weg Balkonkraftwerk, Weg Baum Fassade Dach** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **Vorkaufsrecht Mieter Waermepumpe RED WEG**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

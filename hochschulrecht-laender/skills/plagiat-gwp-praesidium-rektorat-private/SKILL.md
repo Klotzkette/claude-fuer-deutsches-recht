@@ -1,13 +1,13 @@
 ---
 name: plagiat-gwp-praesidium-rektorat-private
-description: "Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Plagiat GWP Praesidium Rektorat Private: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung
+# Plagiat GWP Praesidium Rektorat Private
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Plagiat GWP Praesidium Rektorat Private** im Plugin Hochschulrecht Laender. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Priv
 
 ## Arbeitsweg
 
-Für **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Hochschulrecht Laender gilt für **Plagiat GWP Praesidium Rektorat Private**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

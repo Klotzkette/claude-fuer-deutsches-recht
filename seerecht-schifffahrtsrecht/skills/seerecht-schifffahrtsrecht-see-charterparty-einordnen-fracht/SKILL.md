@@ -1,13 +1,13 @@
 ---
 name: seerecht-schifffahrtsrecht-see-charterparty-einordnen-fracht
-description: "See Charterparty Einordnen / See Fracht Konnossement / See Havarie Kollision / See Bergung Wrack / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "SEE Charterparty Einordnen Fracht: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# See Charterparty Einordnen / See Fracht Konnossement / See Havarie Kollision / See Bergung Wrack / 1 ergänzende Prüffelder
+# SEE Charterparty Einordnen Fracht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **See Charterparty Einordnen / See Fracht Konnossement / See Havarie Kollision / See Bergung Wrack / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **SEE Charterparty Einordnen Fracht** im Plugin Seerecht Schifffahrtsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **See Charterparty Einordnen / See Fracht Konnossement / Se
 
 ## Arbeitsweg
 
-Für **See Charterparty Einordnen / See Fracht Konnossement / See Havarie Kollision / See Bergung Wrack / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Seerecht Schifffahrtsrecht gilt für **SEE Charterparty Einordnen Fracht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

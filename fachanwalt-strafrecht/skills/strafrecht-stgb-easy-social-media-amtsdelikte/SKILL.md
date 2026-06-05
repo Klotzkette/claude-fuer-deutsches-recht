@@ -1,13 +1,13 @@
 ---
 name: strafrecht-stgb-easy-social-media-amtsdelikte
-description: "Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Stgb Easy Social Media Amtsdelikte: bündelt 10 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen
+# Stgb Easy Social Media Amtsdelikte
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 10 sachlich verwandte Arbeitsschritte rund um **Stgb Easy Social Media Amtsdelikte** im Plugin Fachanwalt Strafrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -26,7 +26,7 @@ In diesem Skill wird **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stg
 
 ## Arbeitsweg
 
-Für **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Strafrecht gilt für **Stgb Easy Social Media Amtsdelikte**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

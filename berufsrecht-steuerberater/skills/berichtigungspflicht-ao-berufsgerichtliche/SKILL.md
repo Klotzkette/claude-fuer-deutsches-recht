@@ -1,13 +1,13 @@
 ---
 name: berichtigungspflicht-ao-berufsgerichtliche
-description: "Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Berichtigungspflicht AO Berufsgerichtliche: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec
+# Berichtigungspflicht AO Berufsgerichtliche
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Berichtigungspflicht AO Berufsgerichtliche** im Plugin Berufsrecht der Steuerberater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Steuerberater Berichtigungspflicht 153 Ao Organisationspf
 
 ## Arbeitsweg
 
-Für **Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Steuerberater gilt für **Berichtigungspflicht AO Berufsgerichtliche**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

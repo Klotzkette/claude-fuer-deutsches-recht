@@ -1,13 +1,13 @@
 ---
 name: bad-umbau-barrierefreie-einladung-bauliche
-description: "Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "BAD Umbau Barrierefreie Einladung Bauliche: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg
+# BAD Umbau Barrierefreie Einladung Bauliche
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **BAD Umbau Barrierefreie Einladung Bauliche** im Plugin WEG / Hausverwaltung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft
 
 ## Arbeitsweg
 
-Für **Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin WEG / Hausverwaltung gilt für **BAD Umbau Barrierefreie Einladung Bauliche**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

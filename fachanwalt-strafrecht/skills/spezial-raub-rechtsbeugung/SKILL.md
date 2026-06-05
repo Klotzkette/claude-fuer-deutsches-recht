@@ -1,13 +1,13 @@
 ---
 name: spezial-raub-rechtsbeugung
-description: "Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Spezial Raub Rechtsbeugung: bündelt 10 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder
+# Spezial Raub Rechtsbeugung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 10 sachlich verwandte Arbeitsschritte rund um **Spezial Raub Rechtsbeugung** im Plugin Fachanwalt Strafrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -26,7 +26,7 @@ In diesem Skill wird **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub To
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Strafrecht gilt für **Spezial Raub Rechtsbeugung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

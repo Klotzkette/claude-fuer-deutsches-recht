@@ -1,13 +1,13 @@
 ---
 name: gegendarstellung-presse-mandat-triage
-description: "Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Gegendarstellung Presse Mandat Triage: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung
+# Gegendarstellung Presse Mandat Triage
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Gegendarstellung Presse Mandat Triage** im Plugin Fachanwalt Urheber- und Medienrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Gegendarstellung Presse, Mandat Triage Urheber Medienrech
 
 ## Arbeitsweg
 
-Für **Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Urheber- und Medienrecht gilt für **Gegendarstellung Presse Mandat Triage**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

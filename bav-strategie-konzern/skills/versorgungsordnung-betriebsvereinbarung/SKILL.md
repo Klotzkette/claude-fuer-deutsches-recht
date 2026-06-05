@@ -1,13 +1,13 @@
 ---
 name: versorgungsordnung-betriebsvereinbarung
-description: "Versorgungsordnung Und Betriebsvereinbarung Drafting: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Versorgungsordnung Betriebsvereinbarung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Versorgungsordnung Und Betriebsvereinbarung Drafting
+# Versorgungsordnung Betriebsvereinbarung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Versorgungsordnung Und Betriebsvereinbarung Drafting** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Versorgungsordnung Betriebsvereinbarung** als zusammenhängenden Arbeitsgang im Plugin Bav Strategie Konzern ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Versorgungsordnung Und Betriebsvereinbarung Drafting** al
 
 ## Arbeitsweg
 
-Für **Versorgungsordnung Und Betriebsvereinbarung Drafting** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bav Strategie Konzern gilt für **Versorgungsordnung Betriebsvereinbarung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

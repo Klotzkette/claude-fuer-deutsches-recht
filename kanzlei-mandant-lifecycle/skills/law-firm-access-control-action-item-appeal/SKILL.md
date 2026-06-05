@@ -1,13 +1,13 @@
 ---
 name: law-firm-access-control-action-item-appeal
-description: "Law Firm Feedback Loop, Access Control Roles, Action Item Owner Matrix, Appeal Decision Gate: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "LAW Firm Access Control Action Item Appeal: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Law Firm Feedback Loop, Access Control Roles, Action Item Owner Matrix, Appeal Decision Gate, Associate Workbench
+# LAW Firm Access Control Action Item Appeal
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Law Firm Feedback Loop, Access Control Roles, Action Item Owner Matrix, Appeal Decision Gate, Associate Workbench** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **LAW Firm Access Control Action Item Appeal** im Plugin Kanzlei Mandant Lifecycle. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Law Firm Feedback Loop, Access Control Roles, Action Item
 
 ## Arbeitsweg
 
-Für **Law Firm Feedback Loop, Access Control Roles, Action Item Owner Matrix, Appeal Decision Gate, Associate Workbench** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-mandant-lifecycle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kanzlei Mandant Lifecycle gilt für **LAW Firm Access Control Action Item Appeal**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

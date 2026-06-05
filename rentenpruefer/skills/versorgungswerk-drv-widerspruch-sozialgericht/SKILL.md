@@ -1,13 +1,13 @@
 ---
 name: versorgungswerk-drv-widerspruch-sozialgericht
-description: "Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Versorgungswerk DRV Widerspruch Sozialgericht: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage
+# Versorgungswerk DRV Widerspruch Sozialgericht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Versorgungswerk DRV Widerspruch Sozialgericht** im Plugin Rentenpruefer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Versorgungswerk Und Drv Parallel, Widerspruch Sozialgeric
 
 ## Arbeitsweg
 
-Für **Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Rentenpruefer gilt für **Versorgungswerk DRV Widerspruch Sozialgericht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

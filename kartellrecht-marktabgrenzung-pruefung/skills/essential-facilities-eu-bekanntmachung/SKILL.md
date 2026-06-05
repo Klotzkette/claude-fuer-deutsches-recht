@@ -1,13 +1,13 @@
 ---
 name: essential-facilities-eu-bekanntmachung
-description: "Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Essential Facilities EU Bekanntmachung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung
+# Essential Facilities EU Bekanntmachung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Essential Facilities EU Bekanntmachung** im Plugin Kartellrecht-Marktabgrenzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Essential Facilities Refusal To Deal, Eu Bekanntmachung M
 
 ## Arbeitsweg
 
-Für **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kartellrecht-Marktabgrenzung gilt für **Essential Facilities EU Bekanntmachung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

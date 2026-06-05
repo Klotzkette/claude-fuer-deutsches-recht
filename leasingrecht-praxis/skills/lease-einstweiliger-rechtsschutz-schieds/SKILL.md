@@ -1,13 +1,13 @@
 ---
 name: lease-einstweiliger-rechtsschutz-schieds
-description: "Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Lease Einstweiliger Rechtsschutz Schieds: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio
+# Lease Einstweiliger Rechtsschutz Schieds
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Lease Einstweiliger Rechtsschutz Schieds** im Plugin Leasingrecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingob
 
 ## Arbeitsweg
 
-Für **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Leasingrecht Praxis gilt für **Lease Einstweiliger Rechtsschutz Schieds**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

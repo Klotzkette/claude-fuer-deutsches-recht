@@ -1,13 +1,13 @@
 ---
 name: legw-bmleh-agrar-forst-jagdrecht
-description: "Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Legw Bmleh Agrar Forst Jagdrecht: bündelt 8 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen
+# Legw Bmleh Agrar Forst Jagdrecht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **Legw Bmleh Agrar Forst Jagdrecht** im Plugin Legistik-Werkstatt. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -24,7 +24,7 @@ In diesem Skill wird **Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh
 
 ## Arbeitsweg
 
-Für **Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Legistik-Werkstatt gilt für **Legw Bmleh Agrar Forst Jagdrecht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

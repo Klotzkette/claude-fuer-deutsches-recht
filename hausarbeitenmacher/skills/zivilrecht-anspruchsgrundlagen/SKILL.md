@@ -1,13 +1,13 @@
 ---
 name: zivilrecht-anspruchsgrundlagen
-description: "Zivilrecht Anspruchsgrundlagen Prüfung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zivilrecht Anspruchsgrundlagen: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Zivilrecht Anspruchsgrundlagen Prüfung
+# Zivilrecht Anspruchsgrundlagen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zivilrecht Anspruchsgrundlagen Prüfung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Zivilrecht Anspruchsgrundlagen** als zusammenhängenden Arbeitsgang im Plugin Hausarbeitenmacher ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Zivilrecht Anspruchsgrundlagen Prüfung** als eigenständ
 
 ## Arbeitsweg
 
-Für **Zivilrecht Anspruchsgrundlagen Prüfung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Hausarbeitenmacher gilt für **Zivilrecht Anspruchsgrundlagen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

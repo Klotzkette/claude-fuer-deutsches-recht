@@ -1,13 +1,13 @@
 ---
 name: spez-zwitterrecht
-description: "Pralr Spez Zwitterrecht Historisch Medizinisch Rechtsfolgen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Spez Zwitterrecht: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Pralr Spez Zwitterrecht Historisch Medizinisch Rechtsfolgen
+# Spez Zwitterrecht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr Spez Zwitterrecht Historisch Medizinisch Rechtsfolgen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Spez Zwitterrecht** als zusammenhängenden Arbeitsgang im Plugin Preußisches Allgemeines Landrecht (PrALR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Pralr Spez Zwitterrecht Historisch Medizinisch Rechtsfolg
 
 ## Arbeitsweg
 
-Für **Pralr Spez Zwitterrecht Historisch Medizinisch Rechtsfolgen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Spez Zwitterrecht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

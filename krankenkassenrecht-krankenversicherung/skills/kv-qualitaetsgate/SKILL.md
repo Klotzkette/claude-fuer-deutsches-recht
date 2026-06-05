@@ -1,13 +1,13 @@
 ---
 name: kv-qualitaetsgate
-description: "Kv 080 Qualitaetsgate Krankenversicherungsakte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "KV Qualitaetsgate: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Kv 080 Qualitaetsgate Krankenversicherungsakte
+# KV Qualitaetsgate
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kv 080 Qualitaetsgate Krankenversicherungsakte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **KV Qualitaetsgate** als zusammenhängenden Arbeitsgang im Plugin Krankenkassenrecht Krankenversicherung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Kv 080 Qualitaetsgate Krankenversicherungsakte** als eige
 
 ## Arbeitsweg
 
-Für **Kv 080 Qualitaetsgate Krankenversicherungsakte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Krankenkassenrecht Krankenversicherung gilt für **KV Qualitaetsgate**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: uebergang-bgb-abgb-code-roemisches-gemeines
-description: "Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Römisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Uebergang BGB Abgb Code Roemisches Gemeines: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen
+# Uebergang BGB Abgb Code Roemisches Gemeines
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Uebergang BGB Abgb Code Roemisches Gemeines** im Plugin Preußisches Allgemeines Landrecht (PrALR). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abg
 
 ## Arbeitsweg
 
-Für **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Uebergang BGB Abgb Code Roemisches Gemeines**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

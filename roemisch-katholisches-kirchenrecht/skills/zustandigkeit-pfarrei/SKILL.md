@@ -1,13 +1,13 @@
 ---
 name: zustandigkeit-pfarrei
-description: "Zustandigkeit Pfarrei Bistum Offizialat Dikasterium: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zustandigkeit Pfarrei: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Zustandigkeit Pfarrei Bistum Offizialat Dikasterium
+# Zustandigkeit Pfarrei
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zustandigkeit Pfarrei Bistum Offizialat Dikasterium** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Zustandigkeit Pfarrei** als zusammenhängenden Arbeitsgang im Plugin Roemisch Katholisches Kirchenrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Zustandigkeit Pfarrei Bistum Offizialat Dikasterium** als
 
 ## Arbeitsweg
 
-Für **Zustandigkeit Pfarrei Bistum Offizialat Dikasterium** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Roemisch Katholisches Kirchenrecht gilt für **Zustandigkeit Pfarrei**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

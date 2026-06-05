@@ -1,13 +1,13 @@
 ---
 name: anwaelte-syndikusrechtsanwalt-abgrenzung
-description: "Anwaelte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwaelte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwaelte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwaelte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Syndikusrechtsanwalt Abgrenzung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und
+# Syndikusrechtsanwalt Abgrenzung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Syndikusrechtsanwalt Abgrenzung** im Plugin Berufsrecht der Rechtsanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungsc
 
 ## Arbeitsweg
 
-Für **Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Rechtsanwälte gilt für **Syndikusrechtsanwalt Abgrenzung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

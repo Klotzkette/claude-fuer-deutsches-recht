@@ -1,13 +1,13 @@
 ---
 name: see-containerschiff-register-hypothek
-description: "See 061 Containerschiff Register Prüfen, See 062 Containerschiff Hypothek Bestellen, See 064 Containerschiff Arrest Vorbereiten, See 065 Containerschiff Wrackpflicht Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "SEE Containerschiff Register Hypothek: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# See 061 Containerschiff Register Prüfen, See 062 Containerschiff Hypothek Bestellen, See 064 Containerschiff Arrest Vorbereiten, See 065 Containerschiff Wrackpflicht Prüfen, See 066 Containerschiff Versicherung Melden
+# SEE Containerschiff Register Hypothek
 
 ## Arbeitsbereich
 
-In diesem Skill wird **See 061 Containerschiff Register Prüfen, See 062 Containerschiff Hypothek Bestellen, See 064 Containerschiff Arrest Vorbereiten, See 065 Containerschiff Wrackpflicht Prüfen, See 066 Containerschiff Versicherung Melden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **SEE Containerschiff Register Hypothek** im Plugin Seerecht Schifffahrtsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **See 061 Containerschiff Register Prüfen, See 062 Contain
 
 ## Arbeitsweg
 
-Für **See 061 Containerschiff Register Prüfen, See 062 Containerschiff Hypothek Bestellen, See 064 Containerschiff Arrest Vorbereiten, See 065 Containerschiff Wrackpflicht Prüfen, See 066 Containerschiff Versicherung Melden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Seerecht Schifffahrtsrecht gilt für **SEE Containerschiff Register Hypothek**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

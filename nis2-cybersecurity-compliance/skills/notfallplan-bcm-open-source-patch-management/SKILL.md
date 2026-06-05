@@ -1,13 +1,13 @@
 ---
 name: notfallplan-bcm-open-source-patch-management
-description: "Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Notfallplan BCM Open Source Patch Management: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec
+# Notfallplan BCM Open Source Patch Management
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Notfallplan BCM Open Source Patch Management** im Plugin Nis2 Cybersecurity Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Notfallplan Und Bcm, Open Source Vulnerability, Patch Man
 
 ## Arbeitsweg
 
-Für **Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Nis2 Cybersecurity Compliance gilt für **Notfallplan BCM Open Source Patch Management**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

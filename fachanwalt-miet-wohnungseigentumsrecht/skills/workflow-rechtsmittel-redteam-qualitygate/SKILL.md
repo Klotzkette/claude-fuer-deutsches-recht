@@ -1,13 +1,13 @@
 ---
 name: workflow-rechtsmittel-redteam-qualitygate
-description: "Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Workflow Rechtsmittel Redteam Qualitygate: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder
+# Workflow Rechtsmittel Redteam Qualitygate
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Workflow Rechtsmittel Redteam Qualitygate** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet We
 
 ## Arbeitsweg
 
-Für **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **Workflow Rechtsmittel Redteam Qualitygate**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

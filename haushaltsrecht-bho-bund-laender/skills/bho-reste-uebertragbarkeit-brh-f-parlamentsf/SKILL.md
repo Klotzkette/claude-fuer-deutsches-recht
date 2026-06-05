@@ -1,13 +1,13 @@
 ---
 name: bho-reste-uebertragbarkeit-brh-f-parlamentsf
-description: "Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Reste Uebertragbarkeit BRH F Parlamentsf: bündelt 11 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen
+# Reste Uebertragbarkeit BRH F Parlamentsf
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 11 sachlich verwandte Arbeitsschritte rund um **Reste Uebertragbarkeit BRH F Parlamentsf** im Plugin Haushaltsrecht (BHO Bund/Länder). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -27,7 +27,7 @@ In diesem Skill wird **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 R
 
 ## Arbeitsweg
 
-Für **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Haushaltsrecht (BHO Bund/Länder) gilt für **Reste Uebertragbarkeit BRH F Parlamentsf**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

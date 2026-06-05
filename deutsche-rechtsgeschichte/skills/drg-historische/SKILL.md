@@ -1,13 +1,13 @@
 ---
 name: drg-historische
-description: "Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
+description: "DRG Historische: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations
+# DRG Historische
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **DRG Historische** als zusammenhängenden Arbeitsgang im Plugin Deutsche Rechtsgeschichte ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Deutsche Rechtsgeschichte Historische Verfassungsvergleic
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Deutsche Rechtsgeschichte gilt für **DRG Historische**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

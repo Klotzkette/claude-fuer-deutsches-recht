@@ -1,13 +1,13 @@
 ---
 name: energie-netzentgelte-rechtsfragen-redispatch-spezial-typ-anfrage
-description: "Netzentgelte Rechtsfragen / Redispatch Spezial / Typ Anfrage Mandanten Routing / Spezial Anfrage Mehrparteien Konflikt Interessen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Netzentgelte Rechtsfragen / Redispatch Spezial / Typ Anfrage Mandanten Routing / Spezial Anfrage Mehrparteien Konflikt Interessen
+# Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Netzentgelte Rechtsfragen / Redispatch Spezial / Typ Anfrage Mandanten Routing / Spezial Anfrage Mehrparteien Konflikt Interessen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage** im Plugin Energierecht (EnWG, EEG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Netzentgelte Rechtsfragen / Redispatch Spezial / Typ Anfr
 
 ## Arbeitsweg
 
-Für **Netzentgelte Rechtsfragen / Redispatch Spezial / Typ Anfrage Mandanten Routing / Spezial Anfrage Mehrparteien Konflikt Interessen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Energierecht (EnWG, EEG) gilt für **Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

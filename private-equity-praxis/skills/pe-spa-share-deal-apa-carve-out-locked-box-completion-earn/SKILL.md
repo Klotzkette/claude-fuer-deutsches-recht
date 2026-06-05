@@ -1,13 +1,13 @@
 ---
 name: pe-spa-share-deal-apa-carve-out-locked-box-completion-earn
-description: "Spa Share Deal / Apa Carve Out / Locked Box Completion Accounts / Earn Out Vendor Loan: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "PE SPA Share Deal APA Carve OUT Locked BOX Completion Earn: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Spa Share Deal / Apa Carve Out / Locked Box Completion Accounts / Earn Out Vendor Loan
+# PE SPA Share Deal APA Carve OUT Locked BOX Completion Earn
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Spa Share Deal / Apa Carve Out / Locked Box Completion Accounts / Earn Out Vendor Loan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **PE SPA Share Deal APA Carve OUT Locked BOX Completion Earn** im Plugin Private-Equity-Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Spa Share Deal / Apa Carve Out / Locked Box Completion Ac
 
 ## Arbeitsweg
 
-Für **Spa Share Deal / Apa Carve Out / Locked Box Completion Accounts / Earn Out Vendor Loan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Private-Equity-Praxis gilt für **PE SPA Share Deal APA Carve OUT Locked BOX Completion Earn**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

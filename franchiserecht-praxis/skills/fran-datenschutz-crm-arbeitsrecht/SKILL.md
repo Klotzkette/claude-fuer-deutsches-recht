@@ -1,13 +1,13 @@
 ---
 name: fran-datenschutz-crm-arbeitsrecht
-description: "Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Fran Datenschutz CRM Arbeitsrecht: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen
+# Fran Datenschutz CRM Arbeitsrecht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Fran Datenschutz CRM Arbeitsrecht** im Plugin Franchiserecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Veran
 
 ## Arbeitsweg
 
-Für **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Franchiserecht Praxis gilt für **Fran Datenschutz CRM Arbeitsrecht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: lease-flugzeugleasing-register-schiffsleasing
-description: "Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Lease Flugzeugleasing Register Schiffsleasing: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing
+# Lease Flugzeugleasing Register Schiffsleasing
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Lease Flugzeugleasing Register Schiffsleasing** im Plugin Leasingrecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lea
 
 ## Arbeitsweg
 
-Für **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Leasingrecht Praxis gilt für **Lease Flugzeugleasing Register Schiffsleasing**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

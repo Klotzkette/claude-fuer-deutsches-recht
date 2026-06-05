@@ -1,13 +1,13 @@
 ---
 name: agb-bankrecht-organhaftung-business
-description: "Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "AGB Bankrecht Organhaftung Business: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung
+# AGB Bankrecht Organhaftung Business
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **AGB Bankrecht Organhaftung Business** im Plugin Bank Rechtsabteilung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Agb Bankrecht Klauselkontrolle, Organhaftung Business Jud
 
 ## Arbeitsweg
 
-Für **Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bank Rechtsabteilung gilt für **AGB Bankrecht Organhaftung Business**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

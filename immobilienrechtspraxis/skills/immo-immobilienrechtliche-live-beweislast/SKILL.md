@@ -1,13 +1,13 @@
 ---
 name: immo-immobilienrechtliche-live-beweislast
-description: "Immo Abschlussprodukt Und Uebergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Immo Immobilienrechtliche Live Beweislast: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast
+# Immo Immobilienrechtliche Live Beweislast
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Immo Immobilienrechtliche Live Beweislast** im Plugin Immobilienrechtspraxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche
 
 ## Arbeitsweg
 
-Für **Immo Abschlussprodukt Und Übergabe, Immobilienrechtliche Tatbestand Beweis Und Belege, Live Beweislast Und Darlegungslast** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Immobilienrechtspraxis gilt für **Immo Immobilienrechtliche Live Beweislast**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

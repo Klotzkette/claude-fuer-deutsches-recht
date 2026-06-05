@@ -1,13 +1,13 @@
 ---
 name: delisting-schnittstelle-dienstleister
-description: "Delisting Schnittstelle, Dienstleister Briefing, Dividendenstreit, Dualistisch Monistisch Se: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Delisting Schnittstelle Dienstleister: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Delisting Schnittstelle, Dienstleister Briefing, Dividendenstreit, Dualistisch Monistisch Se
+# Delisting Schnittstelle Dienstleister
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Delisting Schnittstelle, Dienstleister Briefing, Dividendenstreit, Dualistisch Monistisch Se** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Delisting Schnittstelle Dienstleister** im Plugin Aktienrecht Hauptversammlung Ag Se. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Delisting Schnittstelle, Dienstleister Briefing, Dividend
 
 ## Arbeitsweg
 
-Für **Delisting Schnittstelle, Dienstleister Briefing, Dividendenstreit, Dualistisch Monistisch Se** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Aktienrecht Hauptversammlung Ag Se gilt für **Delisting Schnittstelle Dienstleister**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

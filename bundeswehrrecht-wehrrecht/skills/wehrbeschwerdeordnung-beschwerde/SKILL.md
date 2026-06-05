@@ -1,13 +1,13 @@
 ---
 name: wehrbeschwerdeordnung-beschwerde
-description: "Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wehrbeschwerdeordnung Beschwerde: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit
+# Wehrbeschwerdeordnung Beschwerde
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Wehrbeschwerdeordnung Beschwerde** im Plugin Bundeswehrrecht Wehrrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersat
 
 ## Arbeitsweg
 
-Für **Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bundeswehrrecht Wehrrecht gilt für **Wehrbeschwerdeordnung Beschwerde**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

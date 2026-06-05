@@ -1,13 +1,13 @@
 ---
 name: weg-baumaengel-gemeinschaft
-description: "Weg Baumaengel Gemeinschaft, Weg Beschlusskompetenz, Weg Beschlusssammlung, Weg Datenschutz Kamera: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "WEG Baumaengel Gemeinschaft: bündelt 10 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Weg Baumaengel Gemeinschaft, Weg Beschlusskompetenz, Weg Beschlusssammlung, Weg Datenschutz Kamera, Weg Einladung Tagesordnung und 5 weitere Themen
+# WEG Baumaengel Gemeinschaft
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Weg Baumaengel Gemeinschaft, Weg Beschlusskompetenz, Weg Beschlusssammlung, Weg Datenschutz Kamera, Weg Einladung Tagesordnung und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 10 sachlich verwandte Arbeitsschritte rund um **WEG Baumaengel Gemeinschaft** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -26,7 +26,7 @@ In diesem Skill wird **Weg Baumaengel Gemeinschaft, Weg Beschlusskompetenz, Weg 
 
 ## Arbeitsweg
 
-Für **Weg Baumaengel Gemeinschaft, Weg Beschlusskompetenz, Weg Beschlusssammlung, Weg Datenschutz Kamera, Weg Einladung Tagesordnung und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **WEG Baumaengel Gemeinschaft**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

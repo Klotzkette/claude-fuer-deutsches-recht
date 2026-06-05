@@ -1,13 +1,13 @@
 ---
 name: arbeitsrechtliche-ueberzahlung-ausschluss-bgb
-description: "Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Arbeitsrechtliche Ueberzahlung Ausschluss BGB: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont
+# Arbeitsrechtliche Ueberzahlung Ausschluss BGB
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Arbeitsrechtliche Ueberzahlung Ausschluss BGB** im Plugin Bereicherungs- und Anfechtungsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntn
 
 ## Arbeitsweg
 
-Für **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bereicherungs- und Anfechtungsrecht gilt für **Arbeitsrechtliche Ueberzahlung Ausschluss BGB**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

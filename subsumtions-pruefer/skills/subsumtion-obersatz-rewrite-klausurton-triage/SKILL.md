@@ -1,13 +1,13 @@
 ---
 name: subsumtion-obersatz-rewrite-klausurton-triage
-description: "Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Subsumtion Obersatz Rewrite Klausurton Triage: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm
+# Subsumtion Obersatz Rewrite Klausurton Triage
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Subsumtion Obersatz Rewrite Klausurton Triage** im Plugin Subsumtions-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Subsumtion Obersatz Definition Untersatz Ergebnis, Subsum
 
 ## Arbeitsweg
 
-Für **Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Subsumtions-Prüfer gilt für **Subsumtion Obersatz Rewrite Klausurton Triage**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

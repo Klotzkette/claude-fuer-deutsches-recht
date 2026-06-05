@@ -1,13 +1,13 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Krisenstadien Fristennotiz Starug GF Haftung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg
+# Krisenstadien Fristennotiz Starug GF Haftung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Krisenstadien Fristennotiz Starug GF Haftung** im Plugin Krisenfrüherkennung (StaRUG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Krisenstadien Fristennotiz Und Naechster Schritt, Starug 
 
 ## Arbeitsweg
 
-Für **Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Krisenfrüherkennung (StaRUG) gilt für **Krisenstadien Fristennotiz Starug GF Haftung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

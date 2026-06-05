@@ -1,13 +1,13 @@
 ---
 name: kommunalrecht-laender-kom-strassenreinigung-gebuehr
-description: "Kom Strassenreinigung Gebuehr Kalkulieren / Kom Strassenreinigung Aufsichtsbeschwerde / Kom Strassenreinigung Eilantrag Vorbereite / Kom Strassenreinigung Finanzierung Erklaer / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "KOM Strassenreinigung Gebuehr: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Kom Strassenreinigung Gebuehr Kalkulieren / Kom Strassenreinigung Aufsichtsbeschwerde / Kom Strassenreinigung Eilantrag Vorbereite / Kom Strassenreinigung Finanzierung Erklaer / 2 ergänzende Prüffelder
+# KOM Strassenreinigung Gebuehr
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kom Strassenreinigung Gebuehr Kalkulieren / Kom Strassenreinigung Aufsichtsbeschwerde / Kom Strassenreinigung Eilantrag Vorbereite / Kom Strassenreinigung Finanzierung Erklaer / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **KOM Strassenreinigung Gebuehr** im Plugin Kommunalrecht Laender. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -22,7 +22,7 @@ In diesem Skill wird **Kom Strassenreinigung Gebuehr Kalkulieren / Kom Strassenr
 
 ## Arbeitsweg
 
-Für **Kom Strassenreinigung Gebuehr Kalkulieren / Kom Strassenreinigung Aufsichtsbeschwerde / Kom Strassenreinigung Eilantrag Vorbereite / Kom Strassenreinigung Finanzierung Erklaer / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Kommunalrecht Laender gilt für **KOM Strassenreinigung Gebuehr**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

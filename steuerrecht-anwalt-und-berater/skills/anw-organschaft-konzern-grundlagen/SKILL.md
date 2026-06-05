@@ -3,7 +3,7 @@ name: anw-organschaft-konzern-grundlagen
 description: "Prüffeld für anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
-# Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
+# Anw Organschaft Konzern Grundlagen
 
 ## Fachlicher Anker
 

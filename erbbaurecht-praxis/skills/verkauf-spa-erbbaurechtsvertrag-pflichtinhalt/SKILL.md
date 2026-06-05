@@ -1,13 +1,13 @@
 ---
 name: verkauf-spa-erbbaurechtsvertrag-pflichtinhalt
-description: "Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt
+# Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt** im Plugin Erbbaurecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pfl
 
 ## Arbeitsweg
 
-Für **Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Erbbaurecht Praxis gilt für **Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

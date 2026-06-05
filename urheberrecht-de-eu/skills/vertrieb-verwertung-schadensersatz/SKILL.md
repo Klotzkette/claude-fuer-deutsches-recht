@@ -1,13 +1,13 @@
 ---
 name: vertrieb-verwertung-schadensersatz
-description: "Vertrieb Verwertung Vertrag, Schadensersatz Lizenzanalogie, Abmahnung 97a Response: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Vertrieb Verwertung Schadensersatz: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Vertrieb Verwertung Vertrag, Schadensersatz Lizenzanalogie, Abmahnung 97A Response
+# Vertrieb Verwertung Schadensersatz
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Vertrieb Verwertung Vertrag, Schadensersatz Lizenzanalogie, Abmahnung 97A Response** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Vertrieb Verwertung Schadensersatz** im Plugin Urheberrecht De Eu. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Vertrieb Verwertung Vertrag, Schadensersatz Lizenzanalogi
 
 ## Arbeitsweg
 
-Für **Vertrieb Verwertung Vertrag, Schadensersatz Lizenzanalogie, Abmahnung 97A Response** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Urheberrecht De Eu gilt für **Vertrieb Verwertung Schadensersatz**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

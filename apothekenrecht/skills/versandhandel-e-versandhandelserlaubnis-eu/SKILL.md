@@ -1,13 +1,13 @@
 ---
 name: versandhandel-e-versandhandelserlaubnis-eu
-description: "Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Versandhandel E Versandhandelserlaubnis EU: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle
+# Versandhandel E Versandhandelserlaubnis EU
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Versandhandel E Versandhandelserlaubnis EU** im Plugin Apothekenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Versandhandel Und E Rezept Intake, Versandhandelserlaubni
 
 ## Arbeitsweg
 
-Für **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Apothekenrecht gilt für **Versandhandel E Versandhandelserlaubnis EU**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

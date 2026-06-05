@@ -1,13 +1,13 @@
 ---
 name: anwaelte-ruege-gegenvorstellung-sanktionen
-description: "Anwaelte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwaelte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwaelte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwaelte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Ruege Gegenvorstellung Sanktionen: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und
+# Ruege Gegenvorstellung Sanktionen
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Ruege Gegenvorstellung Sanktionen** im Plugin Berufsrecht der Rechtsanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck 
 
 ## Arbeitsweg
 
-Für **Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Rechtsanwälte gilt für **Ruege Gegenvorstellung Sanktionen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

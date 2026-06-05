@@ -1,13 +1,13 @@
 ---
 name: fran-multi-unit-pilotbetrieb-proof-disclosure
-description: "Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Fran Multi Unit Pilotbetrieb Proof Disclosure: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren
+# Fran Multi Unit Pilotbetrieb Proof Disclosure
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Fran Multi Unit Pilotbetrieb Proof Disclosure** im Plugin Franchiserecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Fran 021 Multi Unit Franchise Und Area Developer, Fran 02
 
 ## Arbeitsweg
 
-Für **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Franchiserecht Praxis gilt für **Fran Multi Unit Pilotbetrieb Proof Disclosure**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

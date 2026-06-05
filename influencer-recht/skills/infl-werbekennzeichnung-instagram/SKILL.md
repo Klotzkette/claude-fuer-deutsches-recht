@@ -1,13 +1,13 @@
 ---
 name: infl-werbekennzeichnung-instagram
-description: "Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Infl Werbekennzeichnung Instagram: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre
+# Infl Werbekennzeichnung Instagram
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Infl Werbekennzeichnung Instagram** im Plugin Influencer Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Y
 
 ## Arbeitsweg
 
-Für **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Influencer Recht gilt für **Infl Werbekennzeichnung Instagram**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

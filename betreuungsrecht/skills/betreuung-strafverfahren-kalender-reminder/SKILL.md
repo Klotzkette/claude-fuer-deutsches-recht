@@ -1,13 +1,13 @@
 ---
 name: betreuung-strafverfahren-kalender-reminder
-description: "Betreuung Im Strafverfahren, Kalender Reminder Und Fristenmanagement, Livecheck Fristennotiz Und Naechster Schritt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Betreuung Strafverfahren Kalender Reminder: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Betreuung Im Strafverfahren, Kalender Reminder Und Fristenmanagement, Livecheck Fristennotiz Und Naechster Schritt
+# Betreuung Strafverfahren Kalender Reminder
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Betreuung Im Strafverfahren, Kalender Reminder Und Fristenmanagement, Livecheck Fristennotiz Und Naechster Schritt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Betreuung Strafverfahren Kalender Reminder** im Plugin Betreuungsrecht (§§ 1814 ff. BGB). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Betreuung Im Strafverfahren, Kalender Reminder Und Friste
 
 ## Arbeitsweg
 
-Für **Betreuung Im Strafverfahren, Kalender Reminder Und Fristenmanagement, Livecheck Fristennotiz Und Naechster Schritt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Betreuungsrecht (§§ 1814 ff. BGB) gilt für **Betreuung Strafverfahren Kalender Reminder**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

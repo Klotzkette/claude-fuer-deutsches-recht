@@ -1,13 +1,13 @@
 ---
 name: robotik-ki-anhang-iii-artikel-system
-description: "KI Anhang Iii Robotik Usecases / KI Artikel System Robotik: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "KI Anhang III Artikel System: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# KI Anhang Iii Robotik Usecases / KI Artikel System Robotik
+# KI Anhang III Artikel System
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **KI Anhang III Artikel System** im Plugin Robotik-Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **KI Anhang Iii Robotik Usecases / KI Artikel System Robotik** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Robotik-Recht gilt für **KI Anhang III Artikel System**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

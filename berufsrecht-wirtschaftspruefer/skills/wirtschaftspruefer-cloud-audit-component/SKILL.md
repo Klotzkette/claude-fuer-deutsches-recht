@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-cloud-audit-component
-description: "Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Kaltstart, Wirtschaftspruefer Component Auditor Koordination Kaltstart Und, Wirtschaftspruefer Datenpanne Pruefungsakte Kaltstart Und Fakte, Wirtschaftspruefer Esg Csrd Prüfung Kaltstart Und Faktenmatrix: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Cloud Audit Component: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Kaltstart, Wirtschaftspruefer Component Auditor Koordination Kaltstart Und, Wirtschaftspruefer Datenpanne Pruefungsakte Kaltstart Und Fakte, Wirtschaftspruefer Esg Csrd Prüfung Kaltstart Und Faktenmatrix, Wirtschaftspruefer Fraud Red Flags Kaltstart Und Faktenmatrix
+# Cloud Audit Component
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Kaltstart, Wirtschaftspruefer Component Auditor Koordination Kaltstart Und, Wirtschaftspruefer Datenpanne Pruefungsakte Kaltstart Und Fakte, Wirtschaftspruefer Esg Csrd Prüfung Kaltstart Und Faktenmatrix, Wirtschaftspruefer Fraud Red Flags Kaltstart Und Faktenmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Cloud Audit Component** im Plugin Berufsrecht der Wirtschaftsprüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Kalt
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Kaltstart, Wirtschaftspruefer Component Auditor Koordination Kaltstart Und, Wirtschaftspruefer Datenpanne Pruefungsakte Kaltstart Und Fakte, Wirtschaftspruefer Esg Csrd Prüfung Kaltstart Und Faktenmatrix, Wirtschaftspruefer Fraud Red Flags Kaltstart Und Faktenmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Wirtschaftsprüfer gilt für **Cloud Audit Component**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

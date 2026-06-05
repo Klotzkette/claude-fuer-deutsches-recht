@@ -1,13 +1,13 @@
 ---
 name: strafbarkeit-266a-teammeetings-agile
-description: "Strafbarkeit 266a Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Strafbarkeit 266a Teammeetings Agile: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit
+# Strafbarkeit 266a Teammeetings Agile
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Strafbarkeit 266a Teammeetings Agile** im Plugin Sozialversicherungsstatus Pruefer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Bei
 
 ## Arbeitsweg
 
-Für **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Sozialversicherungsstatus Pruefer gilt für **Strafbarkeit 266a Teammeetings Agile**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

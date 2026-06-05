@@ -1,13 +1,13 @@
 ---
 name: anerbenrecht-bgb-spezial-compliance
-description: "Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Anerbenrecht BGB Spezial Compliance: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte
+# Anerbenrecht BGB Spezial Compliance
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Anerbenrecht BGB Spezial Compliance** im Plugin Fachanwalt Agrarrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandl
 
 ## Arbeitsweg
 
-Für **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Agrarrecht gilt für **Anerbenrecht BGB Spezial Compliance**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

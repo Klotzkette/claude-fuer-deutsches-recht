@@ -1,13 +1,13 @@
 ---
 name: strafverfolgung-beweisbewertung-territorialer
-description: "Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Strafverfolgung Beweisbewertung Territorialer: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50
+# Strafverfolgung Beweisbewertung Territorialer
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Strafverfolgung Beweisbewertung Territorialer** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territoria
 
 ## Arbeitsweg
 
-Für **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin KI-VO / AI Act-Prüfer gilt für **Strafverfolgung Beweisbewertung Territorialer**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

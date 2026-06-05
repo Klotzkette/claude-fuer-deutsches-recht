@@ -1,13 +1,13 @@
 ---
 name: datenschutz-cyber-first-year-uebergangsrecht
-description: "Datenschutz Cyber Intake, First Year Associate Robotik, Fristen Und Uebergangsrecht, Haftungsampel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Datenschutz Cyber First Year Uebergangsrecht: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Datenschutz Cyber Intake, First Year Associate Robotik, Fristen Und Uebergangsrecht, Haftungsampel, Ingenieur Rueckfragenliste und 1 weitere Themen
+# Datenschutz Cyber First Year Uebergangsrecht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Datenschutz Cyber Intake, First Year Associate Robotik, Fristen Und Uebergangsrecht, Haftungsampel, Ingenieur Rueckfragenliste und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **Datenschutz Cyber First Year Uebergangsrecht** im Plugin Robotik-Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -22,7 +22,7 @@ In diesem Skill wird **Datenschutz Cyber Intake, First Year Associate Robotik, F
 
 ## Arbeitsweg
 
-Für **Datenschutz Cyber Intake, First Year Associate Robotik, Fristen Und Uebergangsrecht, Haftungsampel, Ingenieur Rueckfragenliste und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Robotik-Recht gilt für **Datenschutz Cyber First Year Uebergangsrecht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: str-planfeststellung-strasse-plangenehmigung
-description: "Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "STR Planfeststellung Strasse Plangenehmigung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis
+# STR Planfeststellung Strasse Plangenehmigung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **STR Planfeststellung Strasse Plangenehmigung** im Plugin Strassenrecht Infrastruktur. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung
 
 ## Arbeitsweg
 
-Für **Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Strassenrecht Infrastruktur gilt für **STR Planfeststellung Strasse Plangenehmigung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

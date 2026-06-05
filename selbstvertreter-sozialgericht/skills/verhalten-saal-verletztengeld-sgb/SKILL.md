@@ -1,13 +1,13 @@
 ---
 name: verhalten-saal-verletztengeld-sgb
-description: "Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Verhalten Saal Verletztengeld SGB: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg
+# Verhalten Saal Verletztengeld SGB
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Verhalten Saal Verletztengeld SGB** im Plugin Selbstvertretung vor dem Sozialgericht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Verhalten Im Saal Sozialgericht Laienleitfaden, Verletzte
 
 ## Arbeitsweg
 
-Für **Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Selbstvertretung vor dem Sozialgericht gilt für **Verhalten Saal Verletztengeld SGB**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: historie-lueckenfuellung-sonderfall
-description: "Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Historie Lueckenfuellung Sonderfall: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege
+# Historie Lueckenfuellung Sonderfall
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Historie Lueckenfuellung Sonderfall** im Plugin Methodenlehre Bürgerliches Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Historie Compliance Dokumentation Und Akte, Lueckenfuellu
 
 ## Arbeitsweg
 
-Für **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Methodenlehre Bürgerliches Recht gilt für **Historie Lueckenfuellung Sonderfall**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

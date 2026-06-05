@@ -1,13 +1,13 @@
 ---
 name: china-insurance-political-risk-force-majeure-and-supply
-description: "Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "China Insurance Political Risk Force Majeure AND Supply: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall
+# China Insurance Political Risk Force Majeure AND Supply
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **China Insurance Political Risk Force Majeure AND Supply** im Plugin Festlandchina Wirtschaftsverkehr. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Insurance Political Risk / Force Majeure And Change Law /
 
 ## Arbeitsweg
 
-Für **Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Festlandchina Wirtschaftsverkehr gilt für **China Insurance Political Risk Force Majeure AND Supply**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

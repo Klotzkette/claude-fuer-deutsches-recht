@@ -1,13 +1,13 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-02
-description: "Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Risikoregister Sachverstaendigen Pruefung 02: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 1 ergänzende Prüffelder
+# Risikoregister Sachverstaendigen Pruefung 02
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Risikoregister Sachverstaendigen Pruefung 02** im Plugin HOAI-Leistungsphasen. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / H
 
 ## Arbeitsweg
 
-Für **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin HOAI-Leistungsphasen gilt für **Risikoregister Sachverstaendigen Pruefung 02**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

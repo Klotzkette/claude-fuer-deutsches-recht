@@ -1,13 +1,13 @@
 ---
 name: dsgvo-auskunft-dsr-betroffenenrechte
-description: "Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DSGVO Auskunft DSR Betroffenenrechte: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter
+# DSGVO Auskunft DSR Betroffenenrechte
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **DSGVO Auskunft DSR Betroffenenrechte** im Plugin Datenschutzrecht (DSGVO/BDSG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenre
 
 ## Arbeitsweg
 
-Für **Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Datenschutzrecht (DSGVO/BDSG) gilt für **DSGVO Auskunft DSR Betroffenenrechte**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: zustellung-vertreter
-description: "Zustellung Und Vertreter Art 13 Dsa Art 37 Dma: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Zustellung Vertreter: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Zustellung Und Vertreter Art 13 Dsa Art 37 Dma
+# Zustellung Vertreter
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zustellung Und Vertreter Art 13 Dsa Art 37 Dma** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Zustellung Vertreter** als zusammenhängenden Arbeitsgang im Plugin DSA/DMA Digitalregulierung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Zustellung Und Vertreter Art 13 Dsa Art 37 Dma** als eige
 
 ## Arbeitsweg
 
-Für **Zustellung Und Vertreter Art 13 Dsa Art 37 Dma** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin DSA/DMA Digitalregulierung gilt für **Zustellung Vertreter**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

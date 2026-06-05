@@ -1,13 +1,13 @@
 ---
 name: u-haft-umweltstrafrecht-behoerdenakten
-description: "U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "U Haft Umweltstrafrecht Behoerdenakten: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis
+# U Haft Umweltstrafrecht Behoerdenakten
 
 ## Arbeitsbereich
 
-In diesem Skill wird **U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **U Haft Umweltstrafrecht Behoerdenakten** im Plugin Staatsanwaltschaft Praxis Einstieg. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafre
 
 ## Arbeitsweg
 
-Für **U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Staatsanwaltschaft Praxis Einstieg gilt für **U Haft Umweltstrafrecht Behoerdenakten**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

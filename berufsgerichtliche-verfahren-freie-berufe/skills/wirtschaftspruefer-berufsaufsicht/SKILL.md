@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-berufsaufsicht
-description: "Wirtschaftspruefer Berufsaufsicht Wpo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wirtschaftspruefer Berufsaufsicht: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Wirtschaftspruefer Berufsaufsicht Wpo
+# Wirtschaftspruefer Berufsaufsicht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirtschaftspruefer Berufsaufsicht Wpo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Wirtschaftspruefer Berufsaufsicht** als zusammenhängenden Arbeitsgang im Plugin Berufsgerichtliche Verfahren Freie Berufe ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Wirtschaftspruefer Berufsaufsicht Wpo** als eigenständig
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Berufsaufsicht Wpo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsgerichtliche Verfahren Freie Berufe gilt für **Wirtschaftspruefer Berufsaufsicht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

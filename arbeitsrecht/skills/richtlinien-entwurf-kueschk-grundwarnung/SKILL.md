@@ -1,13 +1,13 @@
 ---
 name: richtlinien-entwurf-kueschk-grundwarnung
-description: "Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Richtlinien Entwurf Kueschk Grundwarnung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite
+# Richtlinien Entwurf Kueschk Grundwarnung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Richtlinien Entwurf Kueschk Grundwarnung** im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung 
 
 ## Arbeitsweg
 
-Für **Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG) gilt für **Richtlinien Entwurf Kueschk Grundwarnung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

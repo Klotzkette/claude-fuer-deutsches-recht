@@ -1,13 +1,13 @@
 ---
 name: aktenabschluss-archivierung
-description: "Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Aktenabschluss Archivierung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest
+# Aktenabschluss Archivierung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Aktenabschluss Archivierung** als zusammenhängenden Arbeitsgang im Plugin Notariat Alltag ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Notariat 065 Aktenabschluss Archivierung Und Offene Vollz
 
 ## Arbeitsweg
 
-Für **Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Notariat Alltag gilt für **Aktenabschluss Archivierung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: psd2-provisionsmodelle-vertrieb-fraud-refund
-description: "Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2a, Psd2 Sca Strong Customer Authentication: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Psd2 Provisionsmodelle Vertrieb Fraud Refund: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis
+# Psd2 Provisionsmodelle Vertrieb Fraud Refund
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Psd2 Provisionsmodelle Vertrieb Fraud Refund** im Plugin Bank Rechtsabteilung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund 
 
 ## Arbeitsweg
 
-Für **Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bank Rechtsabteilung gilt für **Psd2 Provisionsmodelle Vertrieb Fraud Refund**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

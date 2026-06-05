@@ -1,13 +1,13 @@
 ---
 name: avv-agb-b2b-harte-b2c-b2b2c-backup
-description: "Avv Und Agb Schnittstelle, B2b Harte Fassung, B2c B2b B2b2c Rollencheck, Backup Datenverlust: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "AVV AGB B2B Harte B2C B2b2c Backup: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb
+# AVV AGB B2B Harte B2C B2b2c Backup
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **AVV AGB B2B Harte B2C B2b2c Backup** im Plugin AGB-Klausel- und Verbraucherschutzprüfung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B
 
 ## Arbeitsweg
 
-Für **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin AGB-Klausel- und Verbraucherschutzprüfung gilt für **AVV AGB B2B Harte B2C B2b2c Backup**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: gpai-systemisches-risiko-urheberrecht-policy
-description: "Gpai Systemisches Risiko Schwelle 10e25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Gpai Systemisches Risiko Urheberrecht Policy: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis
+# Gpai Systemisches Risiko Urheberrecht Policy
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Gpai Systemisches Risiko Urheberrecht Policy** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urhebe
 
 ## Arbeitsweg
 
-Für **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin KI-VO / AI Act-Prüfer gilt für **Gpai Systemisches Risiko Urheberrecht Policy**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

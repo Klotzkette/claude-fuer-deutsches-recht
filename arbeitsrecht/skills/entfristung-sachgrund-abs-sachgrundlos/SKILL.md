@@ -1,13 +1,13 @@
 ---
 name: entfristung-sachgrund-abs-sachgrundlos
-description: "Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2a Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Entfristung Sachgrund ABS Sachgrundlos: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52
+# Entfristung Sachgrund ABS Sachgrundlos
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Entfristung Sachgrund ABS Sachgrundlos** im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachg
 
 ## Arbeitsweg
 
-Für **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG) gilt für **Entfristung Sachgrund ABS Sachgrundlos**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

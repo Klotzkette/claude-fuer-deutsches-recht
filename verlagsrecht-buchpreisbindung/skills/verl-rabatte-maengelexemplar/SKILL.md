@@ -1,13 +1,13 @@
 ---
 name: verl-rabatte-maengelexemplar
-description: "Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Verl Rabatte Maengelexemplar: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung
+# Verl Rabatte Maengelexemplar
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Verl Rabatte Maengelexemplar** im Plugin Verlagsrecht / Buchpreisbindung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien,
 
 ## Arbeitsweg
 
-Für **Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Verlagsrecht / Buchpreisbindung gilt für **Verl Rabatte Maengelexemplar**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

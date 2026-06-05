@@ -1,13 +1,13 @@
 ---
 name: handelsrecht-int-cisg-nacherfuellung-remedies-ware-dokumente-i
-description: "Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "INT CISG Nacherfuellung Remedies Ware Dokumente I: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague
+# INT CISG Nacherfuellung Remedies Ware Dokumente I
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **INT CISG Nacherfuellung Remedies Ware Dokumente I** im Plugin Internationales Handelsrecht Lex Mercatoria. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digita
 
 ## Arbeitsweg
 
-Für **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Internationales Handelsrecht Lex Mercatoria gilt für **INT CISG Nacherfuellung Remedies Ware Dokumente I**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

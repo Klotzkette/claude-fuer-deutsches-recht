@@ -1,13 +1,13 @@
 ---
 name: bauliche-veraenderung-betriebskosten
-description: "Bauliche Veraenderung Routing, Betriebskosten Schnellscan, Chronologie Und Belegmatrix, Co2 Kosten Routing: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Bauliche Veraenderung Betriebskosten: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bauliche Veraenderung Routing, Betriebskosten Schnellscan, Chronologie Und Belegmatrix, Co2 Kosten Routing, Datenschutz Hausverwaltung
+# Bauliche Veraenderung Betriebskosten
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bauliche Veraenderung Routing, Betriebskosten Schnellscan, Chronologie Und Belegmatrix, Co2 Kosten Routing, Datenschutz Hausverwaltung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Bauliche Veraenderung Betriebskosten** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Bauliche Veraenderung Routing, Betriebskosten Schnellscan
 
 ## Arbeitsweg
 
-Für **Bauliche Veraenderung Routing, Betriebskosten Schnellscan, Chronologie Und Belegmatrix, Co2 Kosten Routing, Datenschutz Hausverwaltung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **Bauliche Veraenderung Betriebskosten**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

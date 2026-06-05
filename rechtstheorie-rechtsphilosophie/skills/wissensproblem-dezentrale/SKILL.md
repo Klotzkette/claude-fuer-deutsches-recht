@@ -1,13 +1,13 @@
 ---
 name: wissensproblem-dezentrale
-description: "Wissensproblem Dezentrale Information Und Recht: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wissensproblem Dezentrale: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Wissensproblem Dezentrale Information Und Recht
+# Wissensproblem Dezentrale
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wissensproblem Dezentrale Information Und Recht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Wissensproblem Dezentrale** als zusammenhängenden Arbeitsgang im Plugin Rechtstheorie Rechtsphilosophie ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Wissensproblem Dezentrale Information Und Recht** als eig
 
 ## Arbeitsweg
 
-Für **Wissensproblem Dezentrale Information Und Recht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Rechtstheorie Rechtsphilosophie gilt für **Wissensproblem Dezentrale**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

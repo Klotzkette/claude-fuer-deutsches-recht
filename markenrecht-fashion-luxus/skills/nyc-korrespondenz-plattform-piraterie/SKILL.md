@@ -1,13 +1,13 @@
 ---
 name: nyc-korrespondenz-plattform-piraterie
-description: "Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "NYC Korrespondenz Plattform Piraterie: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft
+# NYC Korrespondenz Plattform Piraterie
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **NYC Korrespondenz Plattform Piraterie** im Plugin Markenrecht Fashion/Luxus. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie
 
 ## Arbeitsweg
 
-Für **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Markenrecht Fashion/Luxus gilt für **NYC Korrespondenz Plattform Piraterie**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

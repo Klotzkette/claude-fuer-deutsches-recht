@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-employee-invention-frand
-description: "Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Rechtsabteilung Employee Invention Frand: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch
+# Rechtsabteilung Employee Invention Frand
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Rechtsabteilung Employee Invention Frand** im Plugin Patentrecht (Verfahren, Verletzung). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Rechtsabteilung Employee Invention Im Konzernprojekt, Rec
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Patentrecht (Verfahren, Verletzung) gilt für **Rechtsabteilung Employee Invention Frand**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: forschungszulage-antragstellung-fz-fue-abgrenzung-definition
-description: "Fz Fue Abgrenzung Grenzfaelle / Fz Fue Definition Frascati Abgrenzung / Fz Konzern Organschaft Spezial: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "FZ FUE Abgrenzung Definition: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fz Fue Abgrenzung Grenzfaelle / Fz Fue Definition Frascati Abgrenzung / Fz Konzern Organschaft Spezial
+# FZ FUE Abgrenzung Definition
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fz Fue Abgrenzung Grenzfaelle / Fz Fue Definition Frascati Abgrenzung / Fz Konzern Organschaft Spezial** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **FZ FUE Abgrenzung Definition** im Plugin Forschungszulage (FZulG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Fz Fue Abgrenzung Grenzfaelle / Fz Fue Definition Frascat
 
 ## Arbeitsweg
 
-Für **Fz Fue Abgrenzung Grenzfaelle / Fz Fue Definition Frascati Abgrenzung / Fz Konzern Organschaft Spezial** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Forschungszulage (FZulG) gilt für **FZ FUE Abgrenzung Definition**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

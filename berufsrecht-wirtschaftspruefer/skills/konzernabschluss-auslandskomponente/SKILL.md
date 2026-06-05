@@ -1,13 +1,13 @@
 ---
 name: konzernabschluss-auslandskomponente
-description: "Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Konzernabschluss Auslandskomponente: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations
+# Konzernabschluss Auslandskomponente
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Konzernabschluss Auslandskomponente** im Plugin Berufsrecht der Wirtschaftsprüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Wirtschaftspruefer Konzernabschluss Auslandskomponente Ka
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Wirtschaftsprüfer gilt für **Konzernabschluss Auslandskomponente**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

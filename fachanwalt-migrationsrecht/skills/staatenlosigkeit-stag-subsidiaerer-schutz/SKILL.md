@@ -1,13 +1,13 @@
 ---
 name: staatenlosigkeit-stag-subsidiaerer-schutz
-description: "Staatenlosigkeit, Stag Verhandlung Vergleich Und Eskalation, Subsidiaerer Schutz, Untatigkeitsklage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Staatenlosigkeit Stag Subsidiaerer Schutz: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Staatenlosigkeit, Stag Verhandlung Vergleich Und Eskalation, Subsidiaerer Schutz, Untatigkeitsklage, Urkunden Ehe Geburt
+# Staatenlosigkeit Stag Subsidiaerer Schutz
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Staatenlosigkeit, Stag Verhandlung Vergleich Und Eskalation, Subsidiaerer Schutz, Untatigkeitsklage, Urkunden Ehe Geburt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Staatenlosigkeit Stag Subsidiaerer Schutz** im Plugin Fachanwalt Migrationsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Staatenlosigkeit, Stag Verhandlung Vergleich Und Eskalati
 
 ## Arbeitsweg
 
-Für **Staatenlosigkeit, Stag Verhandlung Vergleich Und Eskalation, Subsidiaerer Schutz, Untatigkeitsklage, Urkunden Ehe Geburt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Migrationsrecht gilt für **Staatenlosigkeit Stag Subsidiaerer Schutz**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

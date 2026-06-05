@@ -1,13 +1,13 @@
 ---
 name: solo-betriebsausgaben-betriebshaftpflicht
-description: "Solo Betriebsausgaben Prüfen, Solo Betriebshaftpflicht, Solo Betriebspruefung Kleinunternehmen, Solo Beweisakte Für Streit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Betriebsausgaben Betriebshaftpflicht: bündelt 8 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Solo Betriebsausgaben Prüfen, Solo Betriebshaftpflicht, Solo Betriebspruefung Kleinunternehmen, Solo Beweisakte Für Streit, Solo Beweisvorsorge und 3 weitere Themen
+# Betriebsausgaben Betriebshaftpflicht
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Solo Betriebsausgaben Prüfen, Solo Betriebshaftpflicht, Solo Betriebspruefung Kleinunternehmen, Solo Beweisakte Für Streit, Solo Beweisvorsorge und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **Betriebsausgaben Betriebshaftpflicht** im Plugin Solo-/Selbstständigenpraxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -24,7 +24,7 @@ In diesem Skill wird **Solo Betriebsausgaben Prüfen, Solo Betriebshaftpflicht, 
 
 ## Arbeitsweg
 
-Für **Solo Betriebsausgaben Prüfen, Solo Betriebshaftpflicht, Solo Betriebspruefung Kleinunternehmen, Solo Beweisakte Für Streit, Solo Beweisvorsorge und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Solo-/Selbstständigenpraxis gilt für **Betriebsausgaben Betriebshaftpflicht**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

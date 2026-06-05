@@ -1,13 +1,13 @@
 ---
 name: oew-wohnungsbau-vergabeweg-beihilfe-markieren
-description: "Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "OEW Wohnungsbau Vergabeweg Beihilfe Markieren: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen
+# OEW Wohnungsbau Vergabeweg Beihilfe Markieren
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **OEW Wohnungsbau Vergabeweg Beihilfe Markieren** im Plugin Oeffentliches Wirtschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsb
 
 ## Arbeitsweg
 
-Für **Oew 062 Wohnungsbau Vergabeweg Waehlen, Oew 063 Wohnungsbau Beihilfe Markieren, Oew 064 Wohnungsbau Wirtschaftlichkeit Rechnen, Oew 065 Wohnungsbau Risiko Verteilen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Oeffentliches Wirtschaftsrecht gilt für **OEW Wohnungsbau Vergabeweg Beihilfe Markieren**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

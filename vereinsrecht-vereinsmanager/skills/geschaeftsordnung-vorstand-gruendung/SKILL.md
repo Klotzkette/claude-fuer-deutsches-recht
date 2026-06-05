@@ -1,13 +1,13 @@
 ---
 name: geschaeftsordnung-vorstand-gruendung
-description: "Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Geschaeftsordnung Vorstand Gruendung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen
+# Geschaeftsordnung Vorstand Gruendung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Geschaeftsordnung Vorstand Gruendung** im Plugin Vereinsrecht Vereinsmanager. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Geschaeftsordnung Vorstand, Gruendung Eingetragener Verei
 
 ## Arbeitsweg
 
-Für **Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Vereinsrecht Vereinsmanager gilt für **Geschaeftsordnung Vorstand Gruendung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-kurzarbeit-lohnsteuer-anmeldung
-description: "Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "STB Lohn Kurzarbeit Lohnsteuer Anmeldung: bündelt 9 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen
+# STB Lohn Kurzarbeit Lohnsteuer Anmeldung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 9 sachlich verwandte Arbeitsschritte rund um **STB Lohn Kurzarbeit Lohnsteuer Anmeldung** im Plugin Steuerrecht-Anwalt und -Berater. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -25,7 +25,7 @@ In diesem Skill wird **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer 
 
 ## Arbeitsweg
 
-Für **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Steuerrecht-Anwalt und -Berater gilt für **STB Lohn Kurzarbeit Lohnsteuer Anmeldung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

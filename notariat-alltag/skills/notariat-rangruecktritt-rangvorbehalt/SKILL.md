@@ -1,13 +1,13 @@
 ---
 name: notariat-rangruecktritt-rangvorbehalt
-description: "Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Rangruecktritt Rangvorbehalt: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz
+# Rangruecktritt Rangvorbehalt
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Rangruecktritt Rangvorbehalt** im Plugin Notariat Alltag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und P
 
 ## Arbeitsweg
 
-Für **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Notariat Alltag gilt für **Rangruecktritt Rangvorbehalt**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

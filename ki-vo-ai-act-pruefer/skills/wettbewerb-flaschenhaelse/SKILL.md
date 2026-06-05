@@ -1,13 +1,13 @@
 ---
 name: wettbewerb-flaschenhaelse
-description: "Wettbewerb Ki Flaschenhaelse Big Tech: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wettbewerb Flaschenhaelse: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Wettbewerb Ki Flaschenhaelse Big Tech
+# Wettbewerb Flaschenhaelse
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Wettbewerb Ki Flaschenhaelse Big Tech** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Wettbewerb Flaschenhaelse** als zusammenhängenden Arbeitsgang im Plugin KI-VO / AI Act-Prüfer ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Wettbewerb Ki Flaschenhaelse Big Tech** als eigenständig
 
 ## Arbeitsweg
 
-Für **Wettbewerb Ki Flaschenhaelse Big Tech** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin KI-VO / AI Act-Prüfer gilt für **Wettbewerb Flaschenhaelse**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

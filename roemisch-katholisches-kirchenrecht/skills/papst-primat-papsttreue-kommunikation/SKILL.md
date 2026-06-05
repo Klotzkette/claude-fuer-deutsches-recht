@@ -1,13 +1,13 @@
 ---
 name: papst-primat-papsttreue-kommunikation
-description: "Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Papst Primat Papsttreue Kommunikation: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten
+# Papst Primat Papsttreue Kommunikation
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Papst Primat Papsttreue Kommunikation** im Plugin Roemisch Katholisches Kirchenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Papst Primat Und Communio, Papsttreue Kommunikation Ohne 
 
 ## Arbeitsweg
 
-Für **Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Roemisch Katholisches Kirchenrecht gilt für **Papst Primat Papsttreue Kommunikation**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: see-schiffbauwerk-wrackpflicht-versicherung
-description: "See 035 Schiffbauwerk Wrackpflicht Prüfen, See 036 Schiffbauwerk Versicherung Melden, See 037 Schiffbauwerk Local Counsel Instruiere, See 038 Schiffbauwerk Closing Planen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "SEE Schiffbauwerk Wrackpflicht Versicherung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# See 035 Schiffbauwerk Wrackpflicht Prüfen, See 036 Schiffbauwerk Versicherung Melden, See 037 Schiffbauwerk Local Counsel Instruiere, See 038 Schiffbauwerk Closing Planen, See 039 Schiffbauwerk Klagepfad Waehlen
+# SEE Schiffbauwerk Wrackpflicht Versicherung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **See 035 Schiffbauwerk Wrackpflicht Prüfen, See 036 Schiffbauwerk Versicherung Melden, See 037 Schiffbauwerk Local Counsel Instruiere, See 038 Schiffbauwerk Closing Planen, See 039 Schiffbauwerk Klagepfad Waehlen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **SEE Schiffbauwerk Wrackpflicht Versicherung** im Plugin Seerecht Schifffahrtsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **See 035 Schiffbauwerk Wrackpflicht Prüfen, See 036 Schif
 
 ## Arbeitsweg
 
-Für **See 035 Schiffbauwerk Wrackpflicht Prüfen, See 036 Schiffbauwerk Versicherung Melden, See 037 Schiffbauwerk Local Counsel Instruiere, See 038 Schiffbauwerk Closing Planen, See 039 Schiffbauwerk Klagepfad Waehlen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Seerecht Schifffahrtsrecht gilt für **SEE Schiffbauwerk Wrackpflicht Versicherung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

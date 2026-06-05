@@ -1,13 +1,13 @@
 ---
 name: besold-familienzuschlag-kinder
-description: "Besoldung Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besoldung Professorenbesoldung W Besoldung Leistungsbezuege, Besoldung Richterbesoldung R Besoldung Und Unabhaengigkeit, Besoldung Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Besold Familienzuschlag Kinder: bündelt 7 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Professorenbesoldung W Besoldung Leistungsbezuege, Besold Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen
+# Besold Familienzuschlag Kinder
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Professorenbesoldung W Besoldung Leistungsbezuege, Besold Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 7 sachlich verwandte Arbeitsschritte rund um **Besold Familienzuschlag Kinder** im Plugin Beamten- und Richterdienstrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -23,7 +23,7 @@ In diesem Skill wird **Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, B
 
 ## Arbeitsweg
 
-Für **Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Professorenbesoldung W Besoldung Leistungsbezuege, Besold Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Beamten- und Richterdienstrecht gilt für **Besold Familienzuschlag Kinder**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

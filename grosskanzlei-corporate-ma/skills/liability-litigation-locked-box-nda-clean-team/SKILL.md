@@ -1,13 +1,13 @@
 ---
 name: liability-litigation-locked-box-nda-clean-team
-description: "Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Liability Litigation Locked BOX NDA Clean Team: bündelt 7 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder
+# Liability Litigation Locked BOX NDA Clean Team
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 7 sachlich verwandte Arbeitsschritte rund um **Liability Litigation Locked BOX NDA Clean Team** im Plugin Großkanzlei Corporate / M&A. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -23,7 +23,7 @@ In diesem Skill wird **Grosskanzlei Corporate Ma Liability Limitations / Grosska
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Großkanzlei Corporate / M&A gilt für **Liability Litigation Locked BOX NDA Clean Team**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

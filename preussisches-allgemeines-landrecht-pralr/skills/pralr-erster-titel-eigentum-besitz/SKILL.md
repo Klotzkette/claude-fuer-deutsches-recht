@@ -1,13 +1,13 @@
 ---
 name: pralr-erster-titel-eigentum-besitz
-description: "Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Erster Titel Eigentum Besitz: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers
+# Erster Titel Eigentum Besitz
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Erster Titel Eigentum Besitz** im Plugin Preußisches Allgemeines Landrecht (PrALR). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster
 
 ## Arbeitsweg
 
-Für **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Preußisches Allgemeines Landrecht (PrALR) gilt für **Erster Titel Eigentum Besitz**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

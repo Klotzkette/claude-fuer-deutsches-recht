@@ -1,13 +1,13 @@
 ---
 name: betrkv-interessen-bgb-co2kostenaufteilung
-description: "Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2kostenaufteilung, Diskriminierung Agg Vermietung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Betrkv Interessen BGB Co2kostenaufteilung: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung
+# Betrkv Interessen BGB Co2kostenaufteilung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Betrkv Interessen BGB Co2kostenaufteilung** im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoam
 
 ## Arbeitsweg
 
-Für **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Miet- und Wohnungseigentumsrecht gilt für **Betrkv Interessen BGB Co2kostenaufteilung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

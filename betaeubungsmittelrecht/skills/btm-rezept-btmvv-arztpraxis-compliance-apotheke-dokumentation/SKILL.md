@@ -1,13 +1,13 @@
 ---
 name: btm-rezept-btmvv-arztpraxis-compliance-apotheke-dokumentation
-description: "Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "BTM Rezept Btmvv Arztpraxis Compliance Apotheke Dokumentation: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe
+# BTM Rezept Btmvv Arztpraxis Compliance Apotheke Dokumentation
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **BTM Rezept Btmvv Arztpraxis Compliance Apotheke Dokumentation** im Plugin Betäubungsmittelrecht (BtMG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumenta
 
 ## Arbeitsweg
 
-Für **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Betäubungsmittelrecht (BtMG) gilt für **BTM Rezept Btmvv Arztpraxis Compliance Apotheke Dokumentation**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

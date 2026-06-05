@@ -1,13 +1,13 @@
 ---
 name: dsv-art-besondere-aufnahme-statusinformation
-description: "Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "DSV ART Besondere Aufnahme Statusinformation: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko
+# DSV ART Besondere Aufnahme Statusinformation
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **DSV ART Besondere Aufnahme Statusinformation** im Plugin Datenschutzrecht (DSGVO/BDSG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinform
 
 ## Arbeitsweg
 
-Für **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Datenschutzrecht (DSGVO/BDSG) gilt für **DSV ART Besondere Aufnahme Statusinformation**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

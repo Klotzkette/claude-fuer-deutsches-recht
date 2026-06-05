@@ -1,13 +1,13 @@
 ---
 name: lease-unternehmerleasing-gewaehrleistung
-description: "Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Lease Unternehmerleasing Gewaehrleistung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant
+# Lease Unternehmerleasing Gewaehrleistung
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Lease Unternehmerleasing Gewaehrleistung** im Plugin Leasingrecht Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, 
 
 ## Arbeitsweg
 
-Für **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Leasingrecht Praxis gilt für **Lease Unternehmerleasing Gewaehrleistung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

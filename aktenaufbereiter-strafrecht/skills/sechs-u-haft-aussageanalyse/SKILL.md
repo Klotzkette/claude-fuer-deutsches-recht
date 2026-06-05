@@ -1,13 +1,13 @@
 ---
 name: sechs-u-haft-aussageanalyse
-description: "Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwacht, Aussageanalyse Aussagepsychologie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Sechs U Haft Aussageanalyse: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwacht, Aussageanalyse Aussagepsychologie
+# Sechs U Haft Aussageanalyse
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwacht, Aussageanalyse Aussagepsychologie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Sechs U Haft Aussageanalyse** im Plugin Strafrechtliche Aktenarbeit. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwach
 
 ## Arbeitsweg
 
-Für **Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwacht, Aussageanalyse Aussagepsychologie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Strafrechtliche Aktenarbeit gilt für **Sechs U Haft Aussageanalyse**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

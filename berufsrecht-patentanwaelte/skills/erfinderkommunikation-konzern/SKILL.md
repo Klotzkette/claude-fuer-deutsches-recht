@@ -1,13 +1,13 @@
 ---
 name: erfinderkommunikation-konzern
-description: "Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Erfinderkommunikation Konzern: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa
+# Erfinderkommunikation Konzern
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Erfinderkommunikation Konzern** im Plugin Berufsrecht der Patentanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Patentanwälte gilt für **Erfinderkommunikation Konzern**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

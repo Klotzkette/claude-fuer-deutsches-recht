@@ -1,13 +1,13 @@
 ---
 name: beweisfuehrung-berufsverfahren
-description: "Anwaelte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwaelte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwaelte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Beweisfuehrung Berufsverfahren: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix
+# Beweisfuehrung Berufsverfahren
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Beweisfuehrung Berufsverfahren** im Plugin Berufsrecht der Rechtsanwälte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und 
 
 ## Arbeitsweg
 
-Für **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Berufsrecht der Rechtsanwälte gilt für **Beweisfuehrung Berufsverfahren**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

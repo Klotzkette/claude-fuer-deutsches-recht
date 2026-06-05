@@ -1,13 +1,13 @@
 ---
 name: supplementary-registration-templates-open
-description: "Supplementary Registration Corrections, Templates Open Cases Save For Later, Termination 203 304 Recapture, Useful Articles Separability: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Supplementary Registration Templates Open: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Supplementary Registration Corrections, Templates Open Cases Save For Later, Termination 203 304 Recapture, Useful Articles Separability
+# Supplementary Registration Templates Open
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Supplementary Registration Corrections, Templates Open Cases Save For Later, Termination 203 304 Recapture, Useful Articles Separability** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Supplementary Registration Templates Open** im Plugin Us Copyright Registrierung Verlag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Supplementary Registration Corrections, Templates Open Ca
 
 ## Arbeitsweg
 
-Für **Supplementary Registration Corrections, Templates Open Cases Save For Later, Termination 203 304 Recapture, Useful Articles Separability** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Us Copyright Registrierung Verlag gilt für **Supplementary Registration Templates Open**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

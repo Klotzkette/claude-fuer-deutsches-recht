@@ -1,13 +1,13 @@
 ---
 name: cybercrime-logfiles-daten-plattformen-deal
-description: "Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257c Stpo Sta, Digitale Durchsuchung Daten Sicherung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Cybercrime Logfiles Daten Plattformen Deal: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud
+# Cybercrime Logfiles Daten Plattformen Deal
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Cybercrime Logfiles Daten Plattformen Deal** im Plugin Staatsanwaltschaft Praxis Einstieg. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Cybercrime Logfiles Und Chain Of Custody, Daten Von Platt
 
 ## Arbeitsweg
 
-Für **Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Staatsanwaltschaft Praxis Einstieg gilt für **Cybercrime Logfiles Daten Plattformen Deal**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

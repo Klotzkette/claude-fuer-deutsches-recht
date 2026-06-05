@@ -1,13 +1,13 @@
 ---
 name: memo-zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Zitierung Mandantenkommunikation Entscheidungsvorlage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
 ---
 
-# Zitierung Mandantenkommunikation Entscheidungsvorlage
+# Memo Zitierung Mandantenkommunikation Entscheidungsvorlage
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Zitierung Mandantenkommunikation Entscheidungsvorlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill arbeitet **Memo Zitierung Mandantenkommunikation Entscheidungsvorlage** als zusammenhängenden Arbeitsgang im Plugin Memorandum-Ersteller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
 ## Prüffelder
 
@@ -17,7 +17,7 @@ In diesem Skill wird **Zitierung Mandantenkommunikation Entscheidungsvorlage** a
 
 ## Arbeitsweg
 
-Für **Zitierung Mandantenkommunikation Entscheidungsvorlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Memorandum-Ersteller gilt für **Memo Zitierung Mandantenkommunikation Entscheidungsvorlage**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

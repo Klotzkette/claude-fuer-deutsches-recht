@@ -1,13 +1,13 @@
 ---
 name: fitnessstudio-agb-force-majeure-formvorgaben
-description: "Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Fitnessstudio AGB Force Majeure Formvorgaben: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation
+# Fitnessstudio AGB Force Majeure Formvorgaben
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Fitnessstudio AGB Force Majeure Formvorgaben** im Plugin AGB-Klausel- und Verbraucherschutzprüfung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorg
 
 ## Arbeitsweg
 
-Für **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin AGB-Klausel- und Verbraucherschutzprüfung gilt für **Fitnessstudio AGB Force Majeure Formvorgaben**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

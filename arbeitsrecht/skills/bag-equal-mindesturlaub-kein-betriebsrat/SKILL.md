@@ -1,13 +1,13 @@
 ---
 name: bag-equal-mindesturlaub-kein-betriebsrat
-description: "Bag Equal Pay Paarvergleich 8azr30024, Bag Mindesturlaub Kein Verzicht 9azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "BAG Equal Mindesturlaub Kein Betriebsrat: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich
+# BAG Equal Mindesturlaub Kein Betriebsrat
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **BAG Equal Mindesturlaub Kein Betriebsrat** im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub 
 
 ## Arbeitsweg
 
-Für **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Arbeitsrecht (BGB §§ 611a ff., KSchG) gilt für **BAG Equal Mindesturlaub Kein Betriebsrat**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

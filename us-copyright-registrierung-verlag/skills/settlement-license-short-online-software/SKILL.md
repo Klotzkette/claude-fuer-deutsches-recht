@@ -1,13 +1,13 @@
 ---
 name: settlement-license-short-online-software
-description: "Settlement License Us Copyright, Short Online Literary Works Grtx, Software 117 Archival Adaptation, Sound Recordings 114: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Settlement License Short Online Software: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Settlement License Us Copyright, Short Online Literary Works Grtx, Software 117 Archival Adaptation, Sound Recordings 114
+# Settlement License Short Online Software
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Settlement License Us Copyright, Short Online Literary Works Grtx, Software 117 Archival Adaptation, Sound Recordings 114** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Settlement License Short Online Software** im Plugin Us Copyright Registrierung Verlag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Settlement License Us Copyright, Short Online Literary Wo
 
 ## Arbeitsweg
 
-Für **Settlement License Us Copyright, Short Online Literary Works Grtx, Software 117 Archival Adaptation, Sound Recordings 114** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Us Copyright Registrierung Verlag gilt für **Settlement License Short Online Software**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

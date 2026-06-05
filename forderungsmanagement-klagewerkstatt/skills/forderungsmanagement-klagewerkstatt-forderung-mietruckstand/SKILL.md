@@ -1,13 +1,13 @@
 ---
 name: forderungsmanagement-klagewerkstatt-forderung-mietruckstand
-description: "Forderung Mietruckstand Zahlungsklage / Forderung Verbraucher Erleichterungen / Forderung Zwangsvollstreckung Ueberblick: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Forderung Mietruckstand: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Forderung Mietruckstand Zahlungsklage / Forderung Verbraucher Erleichterungen / Forderung Zwangsvollstreckung Ueberblick
+# Forderung Mietruckstand
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Forderung Mietruckstand Zahlungsklage / Forderung Verbraucher Erleichterungen / Forderung Zwangsvollstreckung Ueberblick** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Forderung Mietruckstand** im Plugin Forderungsmanagement / Klagewerkstatt. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Forderung Mietruckstand Zahlungsklage / Forderung Verbrau
 
 ## Arbeitsweg
 
-Für **Forderung Mietruckstand Zahlungsklage / Forderung Verbraucher Erleichterungen / Forderung Zwangsvollstreckung Ueberblick** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Forderungsmanagement / Klagewerkstatt gilt für **Forderung Mietruckstand**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-right-to-sachmangel-paragraph
-description: "Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327f 475b: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Kaufrecht Right TO Sachmangel Paragraph: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B
+# Kaufrecht Right TO Sachmangel Paragraph
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Kaufrecht Right TO Sachmangel Paragraph** im Plugin Bgb Bt Pruefer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht S
 
 ## Arbeitsweg
 
-Für **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Bgb Bt Pruefer gilt für **Kaufrecht Right TO Sachmangel Paragraph**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

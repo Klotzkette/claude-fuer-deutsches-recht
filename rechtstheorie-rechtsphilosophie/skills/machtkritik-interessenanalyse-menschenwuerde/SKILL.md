@@ -1,13 +1,13 @@
 ---
 name: machtkritik-interessenanalyse-menschenwuerde
-description: "Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Machtkritik Interessenanalyse Menschenwuerde: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System
+# Machtkritik Interessenanalyse Menschenwuerde
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Machtkritik Interessenanalyse Menschenwuerde** im Plugin Rechtstheorie Rechtsphilosophie. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Machtkritik Und Interessenanalyse, Menschenwuerde Grundre
 
 ## Arbeitsweg
 
-Für **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Rechtstheorie Rechtsphilosophie gilt für **Machtkritik Interessenanalyse Menschenwuerde**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

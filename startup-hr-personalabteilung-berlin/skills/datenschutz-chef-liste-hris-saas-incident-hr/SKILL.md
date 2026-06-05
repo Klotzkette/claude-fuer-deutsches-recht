@@ -1,13 +1,13 @@
 ---
 name: datenschutz-chef-liste-hris-saas-incident-hr
-description: "Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Datenschutz Chef Liste Hris Saas Incident HR: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet
+# Datenschutz Chef Liste Hris Saas Incident HR
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Datenschutz Chef Liste Hris Saas Incident HR** im Plugin Startup Hr Personalabteilung Berlin. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -21,7 +21,7 @@ In diesem Skill wird **Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz 
 
 ## Arbeitsweg
 
-Für **Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Startup Hr Personalabteilung Berlin gilt für **Datenschutz Chef Liste Hris Saas Incident HR**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

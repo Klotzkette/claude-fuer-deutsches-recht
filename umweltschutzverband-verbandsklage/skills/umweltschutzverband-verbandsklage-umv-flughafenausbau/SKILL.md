@@ -1,13 +1,13 @@
 ---
 name: umweltschutzverband-verbandsklage-umv-flughafenausbau
-description: "Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "UMV Flughafenausbau: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen
+# UMV Flughafenausbau
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **UMV Flughafenausbau** im Plugin Umweltschutzverband / Verbandsklage. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -18,7 +18,7 @@ In diesem Skill wird **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafe
 
 ## Arbeitsweg
 
-Für **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Umweltschutzverband / Verbandsklage gilt für **UMV Flughafenausbau**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

@@ -1,13 +1,13 @@
 ---
 name: iwr-cisg-brussels-icc
-description: "Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "IWR CISG Brussels ICC: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren
+# IWR CISG Brussels ICC
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **IWR CISG Brussels ICC** im Plugin Fachanwalt Internationales Wirtschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brusse
 
 ## Arbeitsweg
 
-Für **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Fachanwalt Internationales Wirtschaftsrecht gilt für **IWR CISG Brussels ICC**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

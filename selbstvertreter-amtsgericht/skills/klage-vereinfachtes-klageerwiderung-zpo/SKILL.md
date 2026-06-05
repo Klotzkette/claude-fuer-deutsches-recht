@@ -1,13 +1,13 @@
 ---
 name: klage-vereinfachtes-klageerwiderung-zpo
-description: "Klage Vereinfachtes Verfahren 495a Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Klage Vereinfachtes Klageerwiderung ZPO: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage
+# Klage Vereinfachtes Klageerwiderung ZPO
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Klage Vereinfachtes Klageerwiderung ZPO** im Plugin Selbstvertretung vor dem Amtsgericht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -19,7 +19,7 @@ In diesem Skill wird **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung F
 
 ## Arbeitsweg
 
-Für **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Selbstvertretung vor dem Amtsgericht gilt für **Klage Vereinfachtes Klageerwiderung ZPO**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail

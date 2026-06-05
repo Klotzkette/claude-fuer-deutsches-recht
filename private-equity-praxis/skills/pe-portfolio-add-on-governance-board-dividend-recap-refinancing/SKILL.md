@@ -1,13 +1,13 @@
 ---
 name: pe-portfolio-add-on-governance-board-dividend-recap-refinancing
-description: "Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "PE Portfolio ADD ON Governance Board Dividend Recap Refinancing: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
 ---
 
-# Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD
+# PE Portfolio ADD ON Governance Board Dividend Recap Refinancing
 
 ## Arbeitsbereich
 
-In diesem Skill wird **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **PE Portfolio ADD ON Governance Board Dividend Recap Refinancing** im Plugin Private-Equity-Praxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
 
 ## Prüffelder
 
@@ -20,7 +20,7 @@ In diesem Skill wird **Portfolio Add On Akquisition / Portfolio Governance Board
 
 ## Arbeitsweg
 
-Für **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Im Plugin Private-Equity-Praxis gilt für **PE Portfolio ADD ON Governance Board Dividend Recap Refinancing**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Prüffelder im Detail
