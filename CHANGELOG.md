@@ -1,3 +1,22 @@
+# v101.0.0 — Fahrgastrechte (Eisenbahn)
+
+## Neu
+
+- Neues Plugin `fahrgastrechte` mit 13 Substanz-Skills für den vollständigen Mandatsablauf nach VO (EU) 2021/782 und EVO 2023: Kaltstart-Triage, Einführung VO 2021/782, Ticket- und Reisedaten erfassen, Verspätung und Anschlussverlust einordnen, Entschädigung berechnen (25/50 Prozent), Eigenbeförderung und Betreuung nach Art. 18 VO, Forderung an die DB erste Stufe, Widerspruch gegen Ablehnung, DB-Ablehnungsgründe prüfen, Schlichtungsstelle Reise und Verkehr anrufen, Klage zum Amtsgericht, Vollmacht für Mitreisende und Anlagen bauen.
+- Vier neue Reference-Markdowns im Plugin: vollständige Übersicht der VO (EU) 2021/782 mit Artikel 17 bis 20 plus Anhang I CIV-Bezug, EVO 2023 mit Schwerpunkt §§ 6, 9, 10, 11, 15, DB-Tarif und Beförderungsbedingungen mit Sparpreis-Zugbindungsaufhebung sowie Rechtsprechung mit verpflichtendem Live-Check.
+- Aufgenommen wurde das eigene Material des Repo-Betreibers (Widerspruchs-Workflow, Rechtsgrundlagen, Katalog Ablehnungsgründe) und in den Repo-Stil überführt.
+
+## Synchronisiert
+
+- Repo-Stand auf 210 Plugins, 9115 Skills, 201 Testakten und v101.0.0 synchronisiert.
+- Marketplace, Plugin-Manifest, README, Skills-Index und Downloadsektionen aktualisiert.
+
+## Validierung
+
+- YAML-Frontmatter, Plugin-Struktur und Marketplace-Eintrag werden im Release-Lauf geprüft.
+
+---
+
 # v69.0.0 — Wahlkampfrecht Praxis
 
 ## Neu

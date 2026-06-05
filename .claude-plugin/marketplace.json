@@ -646,6 +646,15 @@
       }
     },
     {
+      "name": "fahrgastrechte",
+      "source": "./fahrgastrechte",
+      "description": "Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgruende.",
+      "version": "100.0.0",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fashion-law-moderecht",
       "source": "./fashion-law-moderecht",
       "description": "Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen.",

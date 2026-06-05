@@ -11,9 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`berichtspflichten-erlediger`) | [`berichtspflichten-erlediger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berichtspflichten-erlediger.zip) |
 
-### Demonstrations-Akten
-
-Dieses Plugin hat derzeit keine eigene Demonstrations-Akte. Es arbeitet mit hochgeladenen Statistikschreiben, Portalbelegen, ELSTER-/IDEV-/LUCID-Ausdrucken, Fristenlisten, E-Mails, ERP-/Lohnbuchhaltungsdaten, Umwelt- und Produktnachweisen.
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

@@ -16,6 +16,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **Rechtsgeschichtliche Akte Falkenau** (`deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet`) | [Gesamt-PDF lesen](../testakten/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet/gesamt-pdf/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet_gesamt.pdf) | [`testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip) |
+| **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** (`preussisches-landrecht-wusterhagen-muehlenstau-aufopferung`) | [Gesamt-PDF lesen](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/gesamt-pdf/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung_gesamt.pdf) | [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

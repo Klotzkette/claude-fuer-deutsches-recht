@@ -1,0 +1,34 @@
+{
+  "name": "fahrgastrechte",
+  "version": "100.0.0",
+  "description": "Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgruende.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "fahrgastrechte",
+    "vo-2021-782",
+    "evo-2023",
+    "eisenbahn",
+    "bahn",
+    "db",
+    "verspaetung",
+    "zugausfall",
+    "entschaedigung",
+    "ausgleichszahlung",
+    "anschlussverlust",
+    "zugbindung",
+    "sparpreis",
+    "flexpreis",
+    "bahncard-100",
+    "deutschlandticket",
+    "widerspruch",
+    "ablehnungsgruende",
+    "schlichtungsstelle-reise-verkehr",
+    "soep",
+    "klage-amtsgericht",
+    "selbstmandat-verbraucher"
+  ]
+}

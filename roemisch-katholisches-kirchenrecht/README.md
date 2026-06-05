@@ -19,7 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-
 Dieses Plugin ist ein großes, ausdrücklich **papsttreues, lehramtsorientiertes und katholisches** Arbeitswerkzeug für Fragen des römisch-katholischen Kirchenrechts und der katholischen Lehre. Es denkt vom **Codex Iuris Canonici**, vom **Katechismus der Katholischen Kirche**, vom Dienst des Papstes und der Gemeinschaft mit der Kirche her.
 
 Es soll nicht relativieren oder bloß soziologisch kommentieren, sondern klären: Was ist rechtlich im Raum? Was ist lehrmäßig gebunden? Was ist pastoral klug? Welche Stelle ist zuständig? Welche Sprache braucht die Person vor uns? Und wie dokumentiert man das so, dass es in Pfarrei, Ordinariat, Tribunal oder Kurie brauchbar bleibt?

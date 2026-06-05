@@ -1,5 +1,25 @@
 # Verbraucherinsolvenz und Schuldenbereinigung
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`verbraucherinsolvenz-schuldenbereinigung`) | [`verbraucherinsolvenz-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte Reimers: Verbraucherinsolvenz, ehemaliger Geschäftsführer und Schuldenbereinigungsplan** (`verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung`) | [Gesamt-PDF lesen](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 Dieses Plugin führt durch Verbraucherinsolvenz, außergerichtlichen Einigungsversuch, Schuldenbereinigungsplan, Antrag beim Insolvenzgericht, Restschuldbefreiung, P-Konto, Pfändungsschutz und Neustart.
 
 ## Kaltstart
@@ -10,18 +30,6 @@ Dieses Plugin führt durch Verbraucherinsolvenz, außergerichtlichen Einigungsve
 4. Außergerichtlichen Einigungsversuch und Schuldenbereinigungsplan vorbereiten.
 5. Antrag, Restschuldbefreiung und Stundung mit Anlagen prüfen.
 6. Wohlverhaltensphase als Kalender mit Obliegenheiten führen.
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Plugin herunterladen
-
-| Was | Format | Quelle |
-| --- | --- | --- |
-| Plugin-ZIP | ZIP | [verbraucherinsolvenz-schuldenbereinigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
-| Testakte Reimers | ZIP | [testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) |
-| Testakte Reimers | PDF | [verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 ## Kernnormen
 
 InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4d, §§ 35, 36, 88, 89, §§ 174 ff.; ZPO §§ 850 ff.; DSGVO für sensible Unterlagen; SGB-Schnittstellen für Existenzsicherung.

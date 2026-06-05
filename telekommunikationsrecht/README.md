@@ -11,9 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`telekommunikationsrecht`) | [`telekommunikationsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/telekommunikationsrecht.zip) |
 
-### Demonstrations-Akten
-
-Dieses Plugin hat derzeit keine eigene Demonstrations-Akte. Es arbeitet mit Verträgen, Rechnungen, Messprotokollen, Anbieterwechselakten, Bescheiden der Bundesnetzagentur, Verwaltungsakten und technischen Unterlagen.
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
